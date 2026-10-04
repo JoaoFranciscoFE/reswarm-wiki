@@ -5,10 +5,9 @@ tags: ["Items", "Inventory", "Crafted"]
 
 # Royal Jelly
 
-![Royal Jelly](img/Royal_Jelly.png){ align=right width=150 }
-
 <aside class="portable-infobox pi-background pi-border-color pi-theme-wikia pi-layout-stacked" role="region">
 <h2 class="pi-item pi-item-spacing pi-title pi-secondary-background" data-source="title1">Jelly</h2>
+<figure class="pi-item pi-image"><img alt="Royal Jelly" src="img/Royal_Jelly.png" width="150"></figure>
 <div class="pi-item pi-data pi-item-spacing pi-border-color" data-source="price">
 <h3 class="pi-data-label pi-secondary-font">Price</h3>
 <div class="pi-data-value pi-font">1 Royal Jelly: 250,000-1,000,000 Honey, 6 Tickets, or 45 Robux<br/><p>10 Royal Jellies: 2,275,000-10,000,000 Honey, 60 Tickets, or 300 Robux</p></div>

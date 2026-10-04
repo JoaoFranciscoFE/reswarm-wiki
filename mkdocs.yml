@@ -4,9 +4,6 @@ use_directory_urls: false
 theme:
   name: material
   language: en
-  font:
-    text: Rubik
-    code: Roboto Mono
   features: [search.suggest, search.highlight, navigation.top, navigation.instant, navigation.indexes, navigation.footer]
   palette:
     - scheme: slate
@@ -31,7 +28,8 @@ markdown_extensions:
       permalink: true
   - pymdownx.arithmatex:
       generic: true
-extra_css: [stylesheets/extra.css, stylesheets/fandom.css]
+extra_css: [stylesheets/wiki.css]
+hooks: [hooks/cache_bust.py]
 extra_javascript:
   - javascripts/mathjax.js
   - https://cdn.jsdelivr.net/npm/mathjax@3/es5/tex-mml-chtml.js
