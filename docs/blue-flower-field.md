@@ -5,6 +5,8 @@ tags: ["Locations", "Fields", "Blue", "Starter Zone"]
 
 # Blue Flower Field
 
+![Blue Flower Field](img/Blue_Flower_Field_Stamp.png){ align=right width=150 }
+
 Blue Flower Field
 
 FIELD COLOR

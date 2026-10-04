@@ -5,6 +5,8 @@ tags: ["Locations", "Fields", "Colorless"]
 
 # Pumpkin Patch
 
+![Pumpkin Patch](img/Pumpkin_Patch_Stamp.png){ align=right width=150 }
+
 Pumpkin Patch
 
 FIELD COLOR

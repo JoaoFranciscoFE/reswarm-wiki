@@ -55,7 +55,7 @@ Presents are available during the Beesmas event. Their main function is adding [
 <p><img alt="Snowflake" height="25" src="img/Snowflake.png" width="25"/>25 <a href="snowflake.html"><span class="color-template color-template-snowflake color-template-background-clip">Snowflakes</span></a><br/>
 <img alt="Royal Jelly" height="25" src="img/Royal_Jelly.png" width="25"/>3 <a href="royal-jelly.html"><span class="color-template color-template-royal-jelly color-template-background-clip">Royal Jellies</span></a><br/>
 <img alt="Black Balloon" height="25" src="img/Black_Balloon.png" width="25"/>1 <a href="black-balloon.html"><span class="color-template color-template-black-balloon">Black Balloon</span></a><br/>
-<img alt="Sunflower Field" height="25" src="img/Sunflower_Field.png" width="25"/>x3 <a href="sunflower-field.html">Sunflower Field</a> Boost
+<img alt="Sunflower Field" height="25" src="img/Sunflower_Field_Stamp.png" width="25"/>x3 <a href="sunflower-field.html">Sunflower Field</a> Boost
 </p>
 </td></tr>
 <tr>
@@ -69,7 +69,7 @@ Presents are available during the Beesmas event. Their main function is adding [
 <li>+10% Bee Gather Pollen</li></ul>
 <p><img alt="Gingerbread Bear" height="25" src="img/Gingerbread_Bear.png" width="25"/>3 <a href="gingerbread-bear.html"><span class="color-template color-template-gingerbread-bear color-template-background-clip">Gingerbread Bears</span></a><br/>
 <img alt="Jelly Beans" height="25" src="img/Jelly_Beans.png" width="25"/>15 <a href="jelly-beans.html"><span class="color-template color-template-jelly-beans color-template-background-clip">Jelly Beans</span></a><br/>
-<img alt="Dandelion Field" height="25" src="img/Dandelion_Field.png" width="25"/>x3 <a href="dandelion-field.html">Dandelion Field</a> Boost
+<img alt="Dandelion Field" height="25" src="img/Dandelion_Field_Stamp.png" width="25"/>x3 <a href="dandelion-field.html">Dandelion Field</a> Boost
 </p>
 </td></tr>
 <tr>
@@ -83,7 +83,7 @@ Presents are available during the Beesmas event. Their main function is adding [
 <li>+20% Bomb Pollen</li></ul>
 <p><img alt="Gingerbread Bear" height="25" src="img/Gingerbread_Bear.png" width="25"/>1 <a href="gingerbread-bear.html"><span class="color-template color-template-gingerbread-bear color-template-background-clip">Gingerbread Bear</span></a><br/>
 <img alt="Star Jelly" height="25" src="img/Star_Jelly.png" width="25"/>1 <a href="royal-jelly.html#Star_Jelly"><span class="color-template color-template-star-jelly color-template-background-clip">Star Jelly</span></a><br/>
-<img alt="Clover Field" height="25" src="img/Clover_Field.png" width="25"/>x3 <a href="clover-field.html">Clover Field</a> Boost
+<img alt="Clover Field" height="25" src="img/Clover_Field_Stamp.png" width="25"/>x3 <a href="clover-field.html">Clover Field</a> Boost
 </p>
 </td></tr>
 <tr>
@@ -97,7 +97,7 @@ Presents are available during the Beesmas event. Their main function is adding [
 <li>+5% Bee Attack</li></ul>
 <p><img alt="Snowflake" height="25" src="img/Snowflake.png" width="25"/>25 <a href="snowflake.html"><span class="color-template color-template-snowflake color-template-background-clip">Snowflakes</span></a><br/>
 <img alt="Ant Pass" height="25" src="img/Ant_Pass.png" width="25"/>10 <a href="ant-pass.html"><span class="color-template color-template-ant-pass color-template-background-clip">Ant Passes</span></a><br/>
-<img alt="Bamboo Field" height="25" src="img/Bamboo_Field.png" width="25"/>x3 <a href="bamboo-field.html">Bamboo Field</a> Boost
+<img alt="Bamboo Field" height="25" src="img/Bamboo_Field_Stamp.png" width="25"/>x3 <a href="bamboo-field.html">Bamboo Field</a> Boost
 </p>
 </td></tr>
 <tr>
@@ -112,7 +112,7 @@ Presents are available during the Beesmas event. Their main function is adding [
 <p><img alt="Snowflake" height="25" src="img/Snowflake.png" width="25"/>25 <a href="snowflake.html"><span class="color-template color-template-snowflake color-template-background-clip">Snowflakes</span></a><br/>
 <img alt="Atomic Treat" height="25" src="img/Atomic_Treat.png" width="25"/>1 <a href="atomic-treat.html"><span class="color-template color-template-atomic-treat color-template-background-clip">Atomic Treat</span></a><br/>
 <img alt="Loaded Dice" height="25" src="img/Loaded_Dice.png" width="25"/>1 <a href="loaded-dice.html"><span class="color-template color-template-loaded-dice color-template-background-clip">Loaded Dice</span></a><br/>
-<img alt="Pineapple Patch" height="25" src="img/Pineapple_Patch.png" width="25"/>x3 <a href="pineapple-patch.html">Pineapple Patch</a> Boost
+<img alt="Pineapple Patch" height="25" src="img/Pineapple_Patch_Stamp.png" width="25"/>x3 <a href="pineapple-patch.html">Pineapple Patch</a> Boost
 </p>
 </td></tr>
 <tr>
@@ -127,7 +127,7 @@ Presents are available during the Beesmas event. Their main function is adding [
 <p><img alt="Snowflake" height="25" src="img/Snowflake.png" width="25"/>25 <a href="snowflake.html"><span class="color-template color-template-snowflake color-template-background-clip">Snowflakes</span></a><br/>
 <img alt="Oil" height="25" src="img/Oil.png" width="25"/>3 <a href="oil.html"><span class="color-template color-template-oil color-template-background-clip">Oils</span></a><br/>
 <img alt="Bloom Shaker" height="25" src="img/Bloom_Shaker.png" width="25"/>1 <a href="bloom-shaker.html"><span class="color-template color-template-bloom-shaker color-template-background-clip">Bloom Shaker</span></a><br/>
-<img alt="Pumpkin Patch" height="25" src="img/Pumpkin_Patch.png" width="25"/>x3 <a href="pumpkin-patch.html">Pumpkin Patch</a> Boost
+<img alt="Pumpkin Patch" height="25" src="img/Pumpkin_Patch_Stamp.png" width="25"/>x3 <a href="pumpkin-patch.html">Pumpkin Patch</a> Boost
 </p>
 </td></tr>
 <tr>
@@ -141,7 +141,7 @@ Presents are available during the Beesmas event. Their main function is adding [
 <li>+5% <a href="nectar.html">Nectar</a></li></ul>
 <p><img alt="Ticket Planter" height="25" src="img/Ticket_Planter.png" width="25"/>2 <a href="ticket-planter.html"><span class="color-template color-template-ticket-planter color-template-background-clip">Ticket Planters</span></a><br/>
 <span typeof="mw:Error mw:File"></span>1 random <a href="beequip.html">Beequip</a><br/>
-<img alt="Spider Field" height="25" src="img/Spider_Field.png" width="25"/>x3 <a href="spider-field.html">Spider Field</a> Boost
+<img alt="Spider Field" height="25" src="img/Spider_Field_Stamp.png" width="25"/>x3 <a href="spider-field.html">Spider Field</a> Boost
 </p>
 </td></tr>
 <tr>
@@ -157,7 +157,7 @@ Presents are available during the Beesmas event. Their main function is adding [
 <img alt="Bloom Shaker" height="25" src="img/Bloom_Shaker.png" width="25"/>3 <a href="bloom-shaker.html"><span class="color-template color-template-bloom-shaker color-template-background-clip">Bloom Shakers</span></a><br/>
 <img alt="Loaded Dice" height="25" src="img/Loaded_Dice.png" width="25"/>1 <a href="loaded-dice.html"><span class="color-template color-template-loaded-dice color-template-background-clip">Loaded Dice</span></a><br/>
 <img alt="Super Smoothie" height="35" src="img/Super_Smoothie.png" width="35"/><a href="super-smoothie.html"><span class="color-template color-template-super-smoothie color-template-background-clip">Super Smoothie</span></a> Buff<br/>
-<img alt="Mountain Top Field" height="25" src="img/Mountain_Top_Field.png" width="25"/>x3 <a href="mountain-top-field.html">Mountain Top Field</a> Boost
+<img alt="Mountain Top Field" height="25" src="img/Mountain_Top_Field_Stamp.png" width="25"/>x3 <a href="mountain-top-field.html">Mountain Top Field</a> Boost
 </p>
 </td></tr>
 <tr>
@@ -189,7 +189,7 @@ Summons a Level 8 <a href="wild-windy-bee.html">Wild Windy Bee</a> in the Dandel
 <p><img alt="Snowflake" height="25" src="img/Snowflake.png" width="25"/>25 <a href="snowflake.html"><span class="color-template color-template-snowflake color-template-background-clip">Snowflakes</span></a><br/>
 <img alt="Robo Pass" height="25" src="img/Robo_Pass.png" width="25"/>5 <a href="robo-pass.html"><span class="color-template color-template-robo-pass color-template-background-clip">Robo Passes</span></a><br/>
 <img alt="Oil" height="25" src="img/Oil.png" width="25"/>3 <a href="oil.html"><span class="color-template color-template-oil color-template-background-clip">Oils</span></a><br/>
-<img alt="Cactus Field" height="25" src="img/Cactus_Field.png" width="25"/>x3 <a href="cactus-field.html">Cactus Field</a> Boost
+<img alt="Cactus Field" height="25" src="img/Cactus_Field_Stamp.png" width="25"/>x3 <a href="cactus-field.html">Cactus Field</a> Boost
 </p>
 </td></tr>
 <tr>
@@ -206,7 +206,7 @@ Summons a Level 8 <a href="wild-windy-bee.html">Wild Windy Bee</a> in the Dandel
 <img alt="Red Extract" height="25" src="img/Red_Extract.png" width="25"/>10 <a href="red-extract.html"><span class="color-template color-template-red-extract color-template-background-clip">Red Extracts</span></a><br/>
 <img alt="Invigorating Vial" height="25" src="img/Invigorating_Vial.png" width="25"/>1 <a href="invigorating-vial.html"><span class="color-template color-template-invigorating-vial color-template-background-clip">Invigorating Vial</span></a><br/>
 <img alt="Red Extract" height="35" src="img/Red_Extract.png" width="35"/><a href="red-extract.html"><span class="color-template color-template-red-extract color-template-background-clip">Red Extract</span></a> buff<br/>
-<img alt="Rose Field" height="25" src="img/Rose_Field.png" width="25"/>x3 <a href="rose-field.html">Rose Field</a> Boost
+<img alt="Rose Field" height="25" src="img/Rose_Field_Stamp.png" width="25"/>x3 <a href="rose-field.html">Rose Field</a> Boost
 </p>
 </td></tr>
 <tr>
@@ -223,7 +223,7 @@ Summons a Level 8 <a href="wild-windy-bee.html">Wild Windy Bee</a> in the Dandel
 <img alt="Blue Extract" height="25" src="img/Blue_Extract.png" width="25"/>10 <a href="blue-extract.html"><span class="color-template color-template-blue-extract color-template-background-clip">Blue Extracts</span></a><br/>
 <img alt="Comforting Vial" height="25" src="img/Comforting_Vial.png" width="25"/>1 <a href="comforting-vial.html"><span class="color-template color-template-comforting-vial color-template-background-clip">Comforting Vial</span></a><br/>
 <img alt="Blue Extract" height="35" src="img/Blue_Extract.png" width="35"/><a href="blue-extract.html"><span class="color-template color-template-blue-extract color-template-background-clip">Blue Extract</span></a> buff<br/>
-<img alt="Blue Flower Field" height="25" src="img/Blue_Flower_Field.png" width="25"/> x3 <a href="blue-flower-field.html">Blue Flower Field</a> Boost
+<img alt="Blue Flower Field" height="25" src="img/Blue_Flower_Field_Stamp.png" width="25"/> x3 <a href="blue-flower-field.html">Blue Flower Field</a> Boost
 </p>
 </td></tr>
 <tr>
@@ -255,7 +255,7 @@ Summons a Level 8 <a href="wild-windy-bee.html">Wild Windy Bee</a> in the Dandel
 <p><img alt="Gingerbread Bear" height="25" src="img/Gingerbread_Bear.png" width="25"/>1 <a href="gingerbread-bear.html"><span class="color-template color-template-gingerbread-bear color-template-background-clip">Gingerbread Bear</span></a><br/>
 <img alt="Swirled Wax" height="25" src="img/Swirled_Wax.png" width="25"/>3 <a href="swirled-wax.html"><span class="color-template color-template-swirled-wax color-template-background-clip">Swirled Waxes</span></a><br/>
 <img alt="Honeysuckle" height="25" src="img/Honeysuckle.png" width="25"/>33 <a href="honeysuckle.html"><span class="color-template color-template-honeysuckle color-template-background-clip">Honeysuckles</span></a><br/>
-<img alt="Pine Tree Forest" height="25" src="img/Pine_Tree_Forest.png" width="25"/>x3 <a href="pine-tree-forest.html">Pine Tree Forest</a> Boost<br/>
+<img alt="Pine Tree Forest" height="25" src="img/Pine_Tree_Forest_Stamp.png" width="25"/>x3 <a href="pine-tree-forest.html">Pine Tree Forest</a> Boost<br/>
 <img alt="Conversion Boost" height="35" src="img/Conversion_Boost.png" width="35"/> <a href="buffs-debuffs.html#From_NPCs">Conversion Boost</a> (1 hour)<br/>
 <sub>Honey Bee also takes <img alt="Honey" height="25" src="img/Honey.png" width="25"/>4,500 <a href="honey.html"><span class="color-template color-template-honey">Honey</span></a> from the player upon giving it a present</sub>
 </p>
@@ -272,7 +272,7 @@ Summons a Level 8 <a href="wild-windy-bee.html">Wild Windy Bee</a> in the Dandel
 <li>+1% <a href="system-page.html#Super-Crit_Chance">Super-Crit Chance</a></li></ul>
 <p><img alt="Bloom Shaker" height="25" src="img/Bloom_Shaker.png" width="25"/>5 <a href="bloom-shaker.html"><span class="color-template color-template-bloom-shaker color-template-background-clip">Bloom Shakers</span></a><br/>
 <img alt="Robo Pass" height="25" src="img/Robo_Pass.png" width="25"/>5 <a href="robo-pass.html"><span class="color-template color-template-robo-pass color-template-background-clip">Robo Passes</span></a><br/>
-<img alt="Coconut Field" height="25" src="img/Coconut_Field.png" width="25"/> x3 <a href="coconut-field.html">Coconut Field</a> Boost
+<img alt="Coconut Field" height="25" src="img/Coconut_Field_Stamp.png" width="25"/> x3 <a href="coconut-field.html">Coconut Field</a> Boost
 </p>
 </td></tr>
 <tr>

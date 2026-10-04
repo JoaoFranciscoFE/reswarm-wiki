@@ -5,6 +5,8 @@ tags: ["Locations", "Fields", "Red"]
 
 # Pepper Patch
 
+![Pepper Patch](img/Pepper_Patch_Stamp.png){ align=right width=150 }
+
 Pepper Patch
 
 FIELD COLOR

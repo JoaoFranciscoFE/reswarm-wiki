@@ -5,6 +5,8 @@ tags: ["Locations", "Fields", "Colorless", "Starter Zone"]
 
 # Sunflower Field
 
+![Sunflower Field](img/Sunflower_Field_Stamp.png){ align=right width=150 }
+
 Sunflower Field
 
 FIELD COLOR

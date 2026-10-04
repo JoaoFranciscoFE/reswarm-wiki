@@ -5,6 +5,8 @@ tags: ["Locations", "Fields", "Colorless"]
 
 # Coconut Field
 
+![Coconut Field](img/Coconut_Field_Stamp.png){ align=right width=150 }
+
 Coconut Field
 
 FIELD COLOR

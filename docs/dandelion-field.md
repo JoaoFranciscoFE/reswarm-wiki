@@ -5,6 +5,8 @@ tags: ["Locations", "Fields", "Colorless", "Starter Zone"]
 
 # Dandelion Field
 
+![Dandelion Field](img/Dandelion_Field_Stamp.png){ align=right width=150 }
+
 Dandelion Field
 
 FIELD COLOR
