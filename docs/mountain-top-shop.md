@@ -67,13 +67,11 @@ There is a [Royal Jelly](royal-jelly.md) token on the roof and a [Ticket](ticket
 </p>
 </td>
 <td>A rare and precious Port-O-Hive that boosts <a href="system-page.html#White_Pollen">white pollen</a>.
-<ul><li>+500,000 Capacity.</li>
+<ul><li>+6,000,000 Capacity.</li>
 <li>+250% <a href="system-page.html#Convert_Rate">Convert Rate</a>.</li>
 <li>+10% <a href="system-page.html#Instant_Conversion">Instant Conversion</a>.</li>
 <li>+50% White Pollen.</li>
-<li>+10% <a href="system-page.html#Red_Pollen">Red Pollen</a>.</li>
-<li>+10% <a href="system-page.html#Blue_Pollen">Blue Pollen</a>.</li>
-<li>+1 <a href="system-page.html#Bee_Attack">Bee Attack</a>.</li></ul>
+<li>x1.25 Convert Rate at Hive.</li></ul>
 </td></tr></tbody></table>
 
 ### Accessories
@@ -128,8 +126,8 @@ There is a [Royal Jelly](royal-jelly.md) token on the roof and a [Ticket](ticket
 </p>
 </td>
 <td>Practical and stylish boots that aid in the beekeeping process.
-<ul><li>+27% <a href="system-page.html#Bee_Gather_Pollen">Bee Gather Pollen</a>.</li>
-<li>+8 <a href="system-page.html#Movespeed">Player Movespeed</a>.</li>
+<ul><li>+25% <a href="system-page.html#Bee_Gather_Pollen">Bee Gather Pollen</a>.</li>
+<li>+6 <a href="system-page.html#Movespeed">Player Movespeed</a>.</li>
 <li>+20 <a href="system-page.html#Jump_Power">Jump Power</a>.</li>
 <li>+10 <a href="movement-collection.html">Movement Collection</a>.</li>
 <li>+1 <a href="system-page.html#Bee_Attack">Bee Attack</a>.</li></ul>

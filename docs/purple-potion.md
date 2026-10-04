@@ -13,7 +13,7 @@ Purple Potion
 
 COOLDOWN
 
-1 second
+None
 
 A **Purple Potion** is a craftable inventory item added in the [2020-04-06 update](updates.md#2020-04-06). When used, it grants the following for 15 minutes:
 

@@ -40,7 +40,7 @@ Gummy Bee likes the [Pineapple Patch](pineapple-patch.md), [Mountain Top Field](
 
 * Collects 10 [Pollen](pollen.md) in 4 seconds.
 * Makes 700 [Honey](honey.md) in 4 seconds.
-* +150% [Energy](energy.md), +620 [Convert Amount](system-page.md#Convert_Amount), +2 [Attack](stats.md#Attack).
+* +150% [Energy](energy.md), +620 [Convert Amount](system-page.md#Convert_Amount), +3 [Attack](stats.md#Attack).
 * 🌟 [Gifted Hive Bonus](gifted-bee.md): +5% [Honey Per Pollen](system-page.md#Honey_Per_Pollen).
 
 ### Abilities

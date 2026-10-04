@@ -42,7 +42,7 @@ Riley Bee likes the [Mushroom Field](mushroom-field.md), [Strawberry Field](stra
 
 * Collects 10 [Pollen](pollen.md) in 2 seconds.
 * Makes 140 [Honey](honey.md) in 4 seconds.
-* +10% [Movespeed](stats.md#Speed), +25% [Energy](energy.md), +4 [Attack](stats.md#Attack), +50% gather speed, +60 [Convert Amount](system-page.md#Convert_Amount).
+* +10% [Movespeed](stats.md#Speed), +25% [Energy](energy.md), +5 [Attack](stats.md#Attack), +50% gather speed, +60 [Convert Amount](system-page.md#Convert_Amount).
 * 🌟 [Gifted Hive Bonus](gifted-bee.md): +20% Red Field Capacity.
 
 ### Abilities

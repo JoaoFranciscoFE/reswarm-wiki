@@ -13,7 +13,7 @@ Tropical Drink
 
 COOLDOWN
 
-1 second
+10 minutes
 
 **Tropical Drink** is a craftable inventory item added in the [2019-09-28 update](updates.md#2019-09-28). When used, it grants following buffs for 10 minutes:
 

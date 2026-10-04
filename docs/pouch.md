@@ -28,13 +28,12 @@ It doesn't have a price as it is the first bag given to the player for free.
 
 ## Stats
 
-* +200 Capacity.
+* +2,000 Capacity.
 
 ## Trivia
 
 * In early versions of the game, the pouch stored 150 pollen.
   * It was later buffed to 250 then later nerfed to 200.
-* This and the [Jar](jar.md) are the only bags that cost less [Honey](honey.md) than their base capacity.
 * This, the [Scooper](scooper.md), and a [Basic Egg](egg.md#Basic_Egg) are the only items that the player starts off with when joining the game for the very first time.
 
 <table class="mw-collapsible autocollapse" style="margin:auto; background:#000; font-size: 10pt; border:5px solid #56CB5A; width: 100%; border-radius: 20px; -moz-border-radius: 20px; -webkit-border-radius: 20px; -khtml-border-radius: 20px; -icab-border-radius: 20px; -o-border-radius: 20px;">

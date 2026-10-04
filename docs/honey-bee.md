@@ -42,7 +42,7 @@ Honey Bee likes the [Pumpkin Patch](pumpkin-patch.md) and the [Mountain Top Fiel
 
 * Collects 10 [Pollen](pollen.md) in 4 seconds.
 * Makes 360 [Honey](honey.md) in 2 seconds.
-* +280 [Convert Amount](system-page.md#Convert_Amount), +50% convert speed.
+* +280 [Convert Amount](system-page.md#Convert_Amount), +50% convert speed, +1 [Attack](stats.md#Attack).
 * 🌟 [Gifted Hive Bonus](gifted-bee.md): x1.5 [Honey From Tokens](system-page.md#Honey_From_Tokens).
 
 ### Abilities

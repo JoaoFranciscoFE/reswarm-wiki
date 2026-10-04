@@ -42,7 +42,7 @@ Bucko Bee likes the [Blue Flower Field](blue-flower-field.md), [Bamboo Field](ba
 
 * Collects 17 [Pollen](pollen.md) in 4 seconds.
 * Makes 80 [Honey](honey.md) in 3 seconds.
-* +10% [Movespeed](stats.md#Speed), +50% [Energy](energy.md), +4 [Attack](stats.md#Attack), +7 [Gather Amount](stats.md#Gather_Amount), +25% convert speed.
+* +10% [Movespeed](stats.md#Speed), +50% [Energy](energy.md), +5 [Attack](stats.md#Attack), +7 [Gather Amount](stats.md#Gather_Amount), +25% convert speed.
 * 🌟 [Gifted Hive Bonus](gifted-bee.md): +20% Blue Field Capacity.
 
 ### Abilities

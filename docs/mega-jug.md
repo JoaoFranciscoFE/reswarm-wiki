@@ -38,13 +38,13 @@ The **Mega-Jug** is a [bag](bags.md) that can be purchased in the [Pro Shop](pro
 
 ## Stats
 
-* +25,000 Capacity.
+* +250,000 Capacity.
 * +40% [Convert Rate](system-page.md#Convert_Rate).
 
 ## Trivia
 
 * This is the cheapest [Bag](bags.md) in the Pro Shop. It is the second cheapest item in the Pro Shop overall, only behind the [Super-Scooper](super-scooper.md), which costs 44,000 Honey.
-* There is a smaller version of the Mega-Jug that can be purchased in the [Noob Shop](noob-shop.md), called the [Jar](jar.md), which has a base Capacity of 750 Pollen for a price of 650 [Honey](honey.md).
+* There is a smaller version of the Mega-Jug that can be purchased in the [Noob Shop](noob-shop.md), called the [Jar](jar.md), which has a base Capacity of 7,500 Pollen for a price of 650 [Honey](honey.md).
 
 <table class="mw-collapsible autocollapse" style="margin:auto; background:#000; font-size: 10pt; border:5px solid #56CB5A; width: 100%; border-radius: 20px; -moz-border-radius: 20px; -webkit-border-radius: 20px; -khtml-border-radius: 20px; -icab-border-radius: 20px; -o-border-radius: 20px;">
 <tbody><tr>

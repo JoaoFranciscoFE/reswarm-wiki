@@ -13,7 +13,7 @@ Glue
 
 COOLDOWN
 
-1 second
+10 minutes
 
 **Glue** is a craftable inventory item added in the [2018-11-25 update](updates.md#2018-11-25). Its purpose is as a creating material for accessories, or as a 10-minute boost that grants x1.25 [Bee Gather Pollen](system-page.md#Bee_Gather_Pollen) and [tools](system-page.md#Tool_Pollen) when used directly. The [buff](buffs-debuffs.md) cannot stack and will only reset its timer when another glue is used when one is currently active. Using a [Purple Potion](purple-potion.md) or [Super Smoothie](super-smoothie.md) will override the buff.
 

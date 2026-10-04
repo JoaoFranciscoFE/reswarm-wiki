@@ -43,7 +43,7 @@ Crimson Bee likes the [Clover Field](clover-field.md) and the [Rose Field](rose-
 * Collects 10 [Pollen](pollen.md) in 4 seconds.
 * Makes 140 [Honey](honey.md) in 3 seconds.
 * +75% [Energy](energy.md), +30% [Movespeed](stats.md#Speed), +25% Convert Speed, +60 [Convert Amount](system-page.md#Convert_Amount), 10% [Instant Conversion](instant-conversion.md), +6 [Attack](stats.md#Attack), 5% [Critical Chance](critical-hits.md).
-* 🌟 [Gifted Hive Bonus](gifted-bee.md): +15% [Instant Red Conversion](system-page.md#Instant_Red_Conversion).
+* 🌟 [Gifted Hive Bonus](gifted-bee.md): x1.25 [Red Pollen](system-page.md#Red_Pollen).
 
 ### Abilities
 
