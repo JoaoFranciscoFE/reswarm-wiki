@@ -78,10 +78,6 @@ Possible:
 * The [Frozen Field Defenders Glitch](glitches.md#Frozen_Field_Defenders) can be used to kill the spider easily, just like any other normal mob.
 * Another method is to charge at the spider, then jump and glide over the spider, though this will require the [Parachute](parachute.md) or [Glider](glider.md).
 
-## Gallery
-
-<div class="wikia-gallery wikia-gallery-caption-below wikia-gallery-position-left wikia-gallery-spacing-medium wikia-gallery-border-small wikia-gallery-captions-left wikia-gallery-caption-size-medium" data-seq-no="0" hash="a607f7e75578dc3187a6caaefb2b3520" id="gallery-0"><div class="wikia-gallery-caption"></div><div class="wikia-gallery-item" style="width:187px; "><div class="thumb" style="height:187px;"><div class="gallery-image-wrapper accent" id="Hivesticker_forward_facing_spider-png" style="position: relative; height:185px; width:185px;"><span style="line-height: 1;">Hivesticker forward facing spider.png</span></div></div><div class="lightbox-caption" style="width:185px;">The Forward Facing Spider <a href="sticker.html">Sticker</a>.</div></div><div class="wikia-gallery-item" style="width:187px; "><div class="thumb" style="height:187px;"><div class="gallery-image-wrapper accent" id="Nighttime_spider-png" style="position: relative; height:185px; width:185px;"><span style="line-height: 1;">Nighttime spider.png</span></div></div><div class="lightbox-caption" style="width:185px;">Glow emitted by the spider at night.</div></div></div>
-
 ## Trivia
 
 * This, the [Mantis](mantis.md) and the [Werewolf](werewolf.md) are the only mobs that can attack players outside of their designated fields.

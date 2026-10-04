@@ -7,10 +7,6 @@ tags: ["Items", "Tools", "Crafted"]
 
 > *This article is about the tool. For the quest giver, see [Sticker-Seeker Quest Machine](sticker-seeker-quest-machine.md).*
 
-> Text...
->
-> —speaker
-
 <table class="infobox templateToolDefault">
 <tbody><tr>
 <td class="templateToolTitle" colspan="2"><b>Sticker-Seeker</b>
@@ -254,12 +250,12 @@ The **Sticker-Seeker** is a [tool](tools.md) that was released on the 2024-01-12
 <th>Crafting Ingredients
 </th></tr>
 <tr>
-<td><span typeof="mw:Error mw:File"></span>7,000,000 <a href="honey.html"><span class="color-template color-template-honey">Honey</span></a><br/>
-<p><span typeof="mw:Error mw:File"></span>1 <a href="glue.html"><span class="color-template color-template-glue color-template-background-clip">Glue</span></a><br/>
-<span typeof="mw:Error mw:File"></span>1 <a href="oil.html"><span class="color-template color-template-oil color-template-background-clip">Oil</span></a><br/>
-<span typeof="mw:Error mw:File"></span>5 <a href="soft-wax.html"><span class="color-template color-template-soft-wax">Soft Waxes</span></a><br/>
-<span typeof="mw:Error mw:File"></span>5 <a href="neonberry.html"><span class="color-template color-template-neonberry color-template-background-clip">Neonberries</span></a><br/>
-<span typeof="mw:Error mw:File"></span>10 <a href="micro-converter.html"><span class="color-template color-template-micro-converter color-template-background-clip">Micro-Converters</span></a>
+<td><img alt="Honey" height="25" src="img/Honey.png" width="25"/>7,000,000 <a href="honey.html"><span class="color-template color-template-honey">Honey</span></a><br/>
+<p><img alt="Glue" height="25" src="img/Glue.png" width="25"/>1 <a href="glue.html"><span class="color-template color-template-glue color-template-background-clip">Glue</span></a><br/>
+<img alt="Oil" height="25" src="img/Oil.png" width="25"/>1 <a href="oil.html"><span class="color-template color-template-oil color-template-background-clip">Oil</span></a><br/>
+<img alt="Soft Wax" height="25" src="img/Soft_Wax.png" width="25"/>5 <a href="soft-wax.html"><span class="color-template color-template-soft-wax">Soft Waxes</span></a><br/>
+<img alt="Neonberry" height="25" src="img/Neonberry.png" width="25"/>5 <a href="neonberry.html"><span class="color-template color-template-neonberry color-template-background-clip">Neonberries</span></a><br/>
+<img alt="Micro-Converter" height="25" src="img/Micro-Converter.png" width="25"/>10 <a href="micro-converter.html"><span class="color-template color-template-micro-converter color-template-background-clip">Micro-Converters</span></a>
 </p>
 </td></tr></tbody></table>
 
@@ -510,10 +506,6 @@ The sticker appears as a rainbow token on a random flower on the field you're in
 <div style="clear:both"></div><span typeof="mw:Error mw:File"></span> Coconut Field Stamp (unfathomably rare)
 </td></tr></tbody></table>
 
-## Gallery
-
-<div class="wikia-gallery wikia-gallery-caption-below wikia-gallery-position-left wikia-gallery-spacing-medium wikia-gallery-border-small wikia-gallery-captions-left wikia-gallery-caption-size-medium" data-seq-no="0" hash="3e840f73f848ceae6f3471d79864ad25" id="gallery-0"><div class="wikia-gallery-caption"></div><div class="wikia-gallery-item" style="width:187px; "><div class="thumb" style="height:187px;"><div class="gallery-image-wrapper accent" id="Stickerseeker-png" style="position: relative; height:185px; width:185px;"><span style="line-height: 1;">Stickerseeker.png</span></div></div><div class="lightbox-caption" style="width:185px;">The Sticker-Seeker seen in the shop.</div></div><div class="wikia-gallery-item" style="width:187px; "><div class="thumb" style="height:187px;"><div class="gallery-image-wrapper accent" id="Ssface1-png" style="position: relative; height:185px; width:185px;"><span style="line-height: 1;">Ssface1.png</span></div></div><div class="lightbox-caption" style="width:185px;">A <a href="sticker.html#Seeker_Stickers">Seeker-Sticker</a>.</div></div><div class="wikia-gallery-item" style="width:187px; "><div class="thumb" style="height:187px;"><div class="gallery-image-wrapper accent" id="Stickerseekerheld-png" style="position: relative; height:185px; width:185px;"><span style="line-height: 1;">Stickerseekerheld.png</span></div></div><div class="lightbox-caption" style="width:185px;">A player seen holding the Sticker-Seeker.</div></div><div class="wikia-gallery-item" style="width:187px; "><div class="thumb" style="height:187px;"><div class="gallery-image-wrapper accent" id="Sticker-Seeker_Stats-png" style="position: relative; height:185px; width:185px;"><span style="line-height: 1;">Sticker-Seeker Stats.png</span></div></div><div class="lightbox-caption" style="width:185px;">The Sticker-Seeker's stats and crafting cost.</div></div></div>
-
 ## Trivia
 
 * The Sticker-Seeker is the only tool you can use to spot and obtain Seeker-Stickers as a quest requirement in the [Sticker-Seeker Quest Machine](sticker-seeker-quest-machine.md).
@@ -538,7 +530,7 @@ The sticker appears as a rainbow token on a random flower on the field you're in
 <tr>
 <th class="NavCategory">Pollen<br/>Collectors
 </th>
-<td class="NavLinks NavLinksBasicOdd"><b><img alt="Scooper" height="35" src="img/Scooper.png" width="35"/> <a href="scooper.html">Scooper</a> • <img alt="Rake" height="35" src="img/Rake.png" width="35"/> <a href="rake.html">Rake</a> • <img alt="Clippers" height="35" src="img/Clippers.png" width="35"/> <a href="clippers.html">Clippers</a> • <img alt="Magnet" height="35" src="img/Magnet.png" width="35"/> <a href="magnet.html">Magnet</a> • <img alt="Vacuum" height="35" src="img/Vacuum.png" width="35"/> <a href="vacuum.html">Vacuum</a> • <img alt="Super-Scooper" height="35" src="img/Super-Scooper.png" width="35"/> <a href="super-scooper.html">Super-Scooper</a> • <img alt="Pulsar" height="35" src="img/Pulsar.png" width="35"/> <a href="pulsar.html">Pulsar</a> • <img alt="Electro-Magnet" height="35" src="img/Electro-Magnet.png" width="35"/> <a href="electro-magnet.html">Electro-Magnet</a> • <img alt="Scissors" height="35" src="img/Scissors.png" width="35"/> <a href="scissors.html">Scissors</a> • <img alt="Honey Dipper" height="35" src="img/Honey_Dipper.png" width="35"/> <a href="honey-dipper.html">Honey Dipper</a> • <img alt="Bubble Wand" height="35" src="img/Bubble_Wand.png" width="35"/> <a href="bubble-wand.html">Bubble Wand</a> • <img alt="Scythe" height="35" src="img/Scythe.png" width="35"/> <a href="scythe.html">Scythe</a> • <span typeof="mw:Error mw:File"></span> <strong class="mw-selflink selflink">Sticker-Seeker</strong> • <img alt="Golden Rake" height="35" src="img/Golden_Rake.png" width="35"/> <a href="golden-rake.html">Golden Rake</a> • <img alt="Spark Staff" height="35" src="img/Spark_Staff.png" width="35"/> <a href="spark-staff.html">Spark Staff</a> • <img alt="Porcelain Dipper" height="35" src="img/Porcelain_Dipper.png" width="35"/> <a href="porcelain-dipper.html">Porcelain Dipper</a> • <img alt="Petal Wand" height="35" src="img/Petal_Wand.png" width="35"/> <a href="petal-wand.html">Petal Wand</a> • <img alt="Dark Scythe" height="35" src="img/Dark_Scythe.png" width="35"/> <a href="dark-scythe.html">Dark Scythe</a> • <img alt="Tide Popper" height="35" src="img/Tide_Popper.png" width="35"/> <a href="tide-popper.html">Tide Popper</a> • <img alt="Gummyballer" height="35" src="img/Gummyballer.png" width="35"/> <a href="gummyballer.html">Gummyballer</a></b>
+<td class="NavLinks NavLinksBasicOdd"><b><img alt="Scooper" height="35" src="img/Scooper.png" width="35"/> <a href="scooper.html">Scooper</a> • <img alt="Rake" height="35" src="img/Rake.png" width="35"/> <a href="rake.html">Rake</a> • <img alt="Clippers" height="35" src="img/Clippers.png" width="35"/> <a href="clippers.html">Clippers</a> • <img alt="Magnet" height="35" src="img/Magnet.png" width="35"/> <a href="magnet.html">Magnet</a> • <img alt="Vacuum" height="35" src="img/Vacuum.png" width="35"/> <a href="vacuum.html">Vacuum</a> • <img alt="Super-Scooper" height="35" src="img/Super-Scooper.png" width="35"/> <a href="super-scooper.html">Super-Scooper</a> • <img alt="Pulsar" height="35" src="img/Pulsar.png" width="35"/> <a href="pulsar.html">Pulsar</a> • <img alt="Electro-Magnet" height="35" src="img/Electro-Magnet.png" width="35"/> <a href="electro-magnet.html">Electro-Magnet</a> • <img alt="Scissors" height="35" src="img/Scissors.png" width="35"/> <a href="scissors.html">Scissors</a> • <img alt="Honey Dipper" height="35" src="img/Honey_Dipper.png" width="35"/> <a href="honey-dipper.html">Honey Dipper</a> • <img alt="Bubble Wand" height="35" src="img/Bubble_Wand.png" width="35"/> <a href="bubble-wand.html">Bubble Wand</a> • <img alt="Scythe" height="35" src="img/Scythe.png" width="35"/> <a href="scythe.html">Scythe</a> • <img alt="Sticker-Seeker" height="35" src="img/Sticker-Seeker.png" width="35"/> <strong class="mw-selflink selflink">Sticker-Seeker</strong> • <img alt="Golden Rake" height="35" src="img/Golden_Rake.png" width="35"/> <a href="golden-rake.html">Golden Rake</a> • <img alt="Spark Staff" height="35" src="img/Spark_Staff.png" width="35"/> <a href="spark-staff.html">Spark Staff</a> • <img alt="Porcelain Dipper" height="35" src="img/Porcelain_Dipper.png" width="35"/> <a href="porcelain-dipper.html">Porcelain Dipper</a> • <img alt="Petal Wand" height="35" src="img/Petal_Wand.png" width="35"/> <a href="petal-wand.html">Petal Wand</a> • <img alt="Dark Scythe" height="35" src="img/Dark_Scythe.png" width="35"/> <a href="dark-scythe.html">Dark Scythe</a> • <img alt="Tide Popper" height="35" src="img/Tide_Popper.png" width="35"/> <a href="tide-popper.html">Tide Popper</a> • <img alt="Gummyballer" height="35" src="img/Gummyballer.png" width="35"/> <a href="gummyballer.html">Gummyballer</a></b>
 </td></tr>
 <tr>
 <th class="NavCategory">Sprinklers

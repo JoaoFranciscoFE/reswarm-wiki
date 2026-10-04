@@ -403,10 +403,6 @@ Riley Bee likes the [Mushroom Field](mushroom-field.md), [Strawberry Field](stra
 </td></tr>
 </tbody></table>
 
-## Gallery
-
-<div class="wikia-gallery wikia-gallery-caption-below wikia-gallery-position-left wikia-gallery-spacing-medium wikia-gallery-border-small wikia-gallery-captions-left wikia-gallery-caption-size-medium" data-seq-no="0" hash="550d6c009cb68babd143a72268b6f101" id="gallery-0"><div class="wikia-gallery-caption"></div><div class="wikia-gallery-item" style="width:187px; "><div class="thumb" style="height:187px;"><div class="gallery-image-wrapper accent" id="RileyBee_Hive-png" style="position: relative; height:185px; width:185px;"><span style="line-height: 1;">RileyBee Hive.png</span></div></div><div class="lightbox-caption" style="width:185px;">Riley Bee's old hive slot design.</div></div><div class="wikia-gallery-item" style="width:187px; "><div class="thumb" style="height:187px;"><div class="gallery-image-wrapper accent" id="Gifted_Riley_Bee_hive-png" style="position: relative; height:185px; width:185px;"><span style="line-height: 1;">Gifted Riley Bee hive.png</span></div></div><div class="lightbox-caption" style="width:185px;">A Gifted Riley Bee hive slot.</div></div><div class="wikia-gallery-item" style="width:187px; "><div class="thumb" style="height:187px;"><div class="gallery-image-wrapper accent" id="Png_-16--png" style="position: relative; height:185px; width:185px;"><span style="line-height: 1;">Png (16).png</span></div></div><div class="lightbox-caption" style="width:185px;">Riley Bee's face.</div></div><div class="wikia-gallery-item" style="width:187px; "><div class="thumb" style="height:187px;"><div class="gallery-image-wrapper accent" id="Doritoeyes-png" style="position: relative; height:185px; width:185px;"><span style="line-height: 1;">Doritoeyes.png</span></div></div><div class="lightbox-caption" style="width:185px;">Riley Bee's original face.</div></div></div>
-
 ## Trivia
 
 * Based on its description, this [bee](bees.md) is the rival and counterpart of [Bucko Bee](bucko-bee.md).

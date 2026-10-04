@@ -193,10 +193,6 @@ This is a 24×28 field, containing 672 [flowers](flowers.md). The flowers are re
 <li>FrogFix (Gave Mountain Top Field Boost x1 and Mountain Top Field Capacity x1 + other stuff).</li></ul></li></ul>
 </td></tr></tbody></table>
 
-## Gallery
-
-<div class="wikia-gallery wikia-gallery-caption-below wikia-gallery-position-left wikia-gallery-spacing-medium wikia-gallery-border-small wikia-gallery-captions-left wikia-gallery-caption-size-medium" data-seq-no="0" hash="53c8f401485458f60f28b2cc6c5b9e2e" id="gallery-0"><div class="wikia-gallery-caption"></div><div class="wikia-gallery-item" style="width:187px; "><div class="thumb" style="height:187px;"><div class="gallery-image-wrapper accent" id="Mountain_Top_Field_Icon-png" style="position: relative; height:185px; width:185px;"><span style="line-height: 1;">Mountain Top Field Icon.png</span></div></div><div class="lightbox-caption" style="width:185px;">The Mountain Top Field's associated <a href="field-boost.html">boost icon</a>.</div></div><div class="wikia-gallery-item" style="width:187px; "><div class="thumb" style="height:187px;"><div class="gallery-image-wrapper accent" id="Hivesticker_mountain_top_field_stamp-png" style="position: relative; height:185px; width:185px;"><span style="line-height: 1;">Hivesticker mountain top field stamp.png</span></div></div><div class="lightbox-caption" style="width:185px;">The Mountain Top Field's associated <a href="sticker.html#Stickers">field stamp</a>.</div></div></div>
-
 ## Trivia
 
 * This is the only field that doesn't produce [treats](treats.md) from farming. However, harvesting [sprouts](sprout.md) in the Mountain Top Field will still drop normal rewards.

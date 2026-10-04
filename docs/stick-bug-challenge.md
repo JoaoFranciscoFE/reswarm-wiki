@@ -82,14 +82,14 @@ When Stick Bug reaches level 6 and above, Stick Bug will build a defense totem b
 <caption>Drop table of Defense Totems
 </caption>
 <tbody><tr>
-<td><span typeof="mw:Error mw:File"></span><a href="honey.html"><span class="color-template color-template-honey">Honey</span></a><br/>
-<p><span typeof="mw:Error mw:File"></span><a href="treat.html"><span class="color-template color-template-treat">Treats</span></a><br/>
-<span typeof="mw:Error mw:File"></span><a href="royal-jelly.html"><span class="color-template color-template-royal-jelly color-template-background-clip">Royal Jellies</span></a><br/>
-<span typeof="mw:Error mw:File"></span><a href="gumdrops.html"><span class="color-template color-template-gumdrops color-template-background-clip">Gumdrops</span></a><br/>
-<span typeof="mw:Error mw:File"></span><a href="pineapple.html"><span class="color-template color-template-pineapple color-template-background-clip">Pineapples</span></a><br/>
-<span typeof="mw:Error mw:File"></span><a href="sunflower-seed.html"><span class="color-template color-template-sunflower-seed color-template-background-clip">Sunflower Seeds</span></a><br/>
-<span typeof="mw:Error mw:File"></span><a href="oil.html"><span class="color-template color-template-oil color-template-background-clip">Oils</span></a><br/>
-<span typeof="mw:Error mw:File"></span><a href="enzymes.html"><span class="color-template color-template-enzymes color-template-background-clip">Enzymes</span></a>
+<td><img alt="Honey" height="35" src="img/Honey.png" width="35"/><a href="honey.html"><span class="color-template color-template-honey">Honey</span></a><br/>
+<p><img alt="Treat" height="35" src="img/Treat.png" width="35"/><a href="treat.html"><span class="color-template color-template-treat">Treats</span></a><br/>
+<img alt="Royal Jelly" height="35" src="img/Royal_Jelly.png" width="35"/><a href="royal-jelly.html"><span class="color-template color-template-royal-jelly color-template-background-clip">Royal Jellies</span></a><br/>
+<img alt="Gumdrops" height="35" src="img/Gumdrops.png" width="35"/><a href="gumdrops.html"><span class="color-template color-template-gumdrops color-template-background-clip">Gumdrops</span></a><br/>
+<img alt="Pineapple" height="35" src="img/Pineapple.png" width="35"/><a href="pineapple.html"><span class="color-template color-template-pineapple color-template-background-clip">Pineapples</span></a><br/>
+<img alt="Sunflower Seed" height="35" src="img/Sunflower_Seed.png" width="35"/><a href="sunflower-seed.html"><span class="color-template color-template-sunflower-seed color-template-background-clip">Sunflower Seeds</span></a><br/>
+<img alt="Oil" height="35" src="img/Oil.png" width="35"/><a href="oil.html"><span class="color-template color-template-oil color-template-background-clip">Oils</span></a><br/>
+<img alt="Enzymes" height="35" src="img/Enzymes.png" width="35"/><a href="enzymes.html"><span class="color-template color-template-enzymes color-template-background-clip">Enzymes</span></a>
 </p>
 </td></tr></tbody></table>
 
@@ -435,24 +435,24 @@ All regular rewards are also available in token form.
 
 <table class="article-table">
 <tbody><tr>
-<td><span typeof="mw:Error mw:File"></span><a href="honey.html"><span class="color-template color-template-honey">Honey</span></a><br/>
-<p><span typeof="mw:Error mw:File"></span><a href="treat.html"><span class="color-template color-template-treat">Treats</span></a><br/>
-<span typeof="mw:Error mw:File"></span><a href="royal-jelly.html"><span class="color-template color-template-royal-jelly color-template-background-clip">Royal Jellies</span></a><br/>
-<span typeof="mw:Error mw:File"></span><a href="gumdrops.html"><span class="color-template color-template-gumdrops color-template-background-clip">Gumdrops</span></a><br/>
-<span typeof="mw:Error mw:File"></span><a href="magic-bean.html"><span class="color-template color-template-magic-bean color-template-background-clip">Magic Beans</span></a><br/>
-<span typeof="mw:Error mw:File"></span><a href="enzymes.html"><span class="color-template color-template-enzymes color-template-background-clip">Enzymes</span></a><br/>
-<span typeof="mw:Error mw:File"></span><a href="oil.html"><span class="color-template color-template-oil color-template-background-clip">Oils</span></a><br/>
-<span typeof="mw:Error mw:File"></span><a href="royal-jelly.html#Star_Jelly"><span class="color-template color-template-star-jelly color-template-background-clip">Star Jellies</span></a> (at least 10,000,000 score)<br/>
-<span typeof="mw:Error mw:File"></span><a href="smiley-sticker.html"><span class="color-template color-template-smiley-sticker color-template-background-clip">Smiley Sticker</span></a> (Rare)<br/>
-<span typeof="mw:Error mw:File"></span><a href="kazoo.html"><span class="color-template color-template-kazoo color-template-background-clip">Kazoo</span></a> (Rare)<br/>
-<span typeof="mw:Error mw:File"></span><a href="thumbtack.html"><span class="color-template color-template-thumbtack color-template-background-clip">Thumbtack</span></a> (Rare)<br/>
-<span typeof="mw:Error mw:File"></span><a href="camo-bandana.html"><span class="color-template color-template-camo-bandana color-template-background-clip">Camo Bandana</span></a> (Rare)<br/>
-<span typeof="mw:Error mw:File"></span><a href="autumn-sunhat.html"><span class="color-template color-template-autumn-sunhat color-template-background-clip">Autumn Sunhat</span></a> (Extremely Rare)<br/>
-<span typeof="mw:Error mw:File"></span><a href="cub-buddy.html#Skins"><span class="color-template color-template-stick-cub color-template-background-clip">Stick Cub</span></a> (Unbelievably Rare)<br/>
-<span typeof="mw:Error mw:File"></span><a href="pink-shades.html"><span class="color-template color-template-pink-shades color-template-background-clip">Pink Shades</span></a> (Unbelievably Rare)<br/>
-<span typeof="mw:Error mw:File"></span><a href="sticker.html#Sticker_Index"><span class="color-template color-template-offline-voucher color-template-background-clip">Offline Voucher</span></a> (Unfathomably Rare)<br/>
-<span typeof="mw:Error mw:File"></span><a href="paper-angel.html"><span class="color-template color-template-paper-angel color-template-background-clip">Paper Angel</span></a> (Only During Beesmas)<br/>
-<span typeof="mw:Error mw:File"></span><a href="pinecone.html"><span class="color-template color-template-pinecone color-template-background-clip">Pinecone</span></a> (Only During Beesmas)
+<td><img alt="Honey" height="35" src="img/Honey.png" width="35"/><a href="honey.html"><span class="color-template color-template-honey">Honey</span></a><br/>
+<p><img alt="Treat" height="35" src="img/Treat.png" width="35"/><a href="treat.html"><span class="color-template color-template-treat">Treats</span></a><br/>
+<img alt="Royal Jelly" height="35" src="img/Royal_Jelly.png" width="35"/><a href="royal-jelly.html"><span class="color-template color-template-royal-jelly color-template-background-clip">Royal Jellies</span></a><br/>
+<img alt="Gumdrops" height="35" src="img/Gumdrops.png" width="35"/><a href="gumdrops.html"><span class="color-template color-template-gumdrops color-template-background-clip">Gumdrops</span></a><br/>
+<img alt="Magic Bean" height="35" src="img/Magic_Bean.png" width="35"/><a href="magic-bean.html"><span class="color-template color-template-magic-bean color-template-background-clip">Magic Beans</span></a><br/>
+<img alt="Enzymes" height="35" src="img/Enzymes.png" width="35"/><a href="enzymes.html"><span class="color-template color-template-enzymes color-template-background-clip">Enzymes</span></a><br/>
+<img alt="Oil" height="35" src="img/Oil.png" width="35"/><a href="oil.html"><span class="color-template color-template-oil color-template-background-clip">Oils</span></a><br/>
+<img alt="Star Jelly" height="35" src="img/Star_Jelly.png" width="35"/><a href="royal-jelly.html#Star_Jelly"><span class="color-template color-template-star-jelly color-template-background-clip">Star Jellies</span></a> (at least 10,000,000 score)<br/>
+<img alt="Smiley Sticker" height="35" src="img/Smiley_Sticker.png" width="35"/><a href="smiley-sticker.html"><span class="color-template color-template-smiley-sticker color-template-background-clip">Smiley Sticker</span></a> (Rare)<br/>
+<img alt="Kazoo" height="35" src="img/Kazoo.png" width="35"/><a href="kazoo.html"><span class="color-template color-template-kazoo color-template-background-clip">Kazoo</span></a> (Rare)<br/>
+<img alt="Thumbtack" height="35" src="img/Thumbtack.png" width="35"/><a href="thumbtack.html"><span class="color-template color-template-thumbtack color-template-background-clip">Thumbtack</span></a> (Rare)<br/>
+<img alt="Camo Bandana" height="35" src="img/Camo_Bandana.png" width="35"/><a href="camo-bandana.html"><span class="color-template color-template-camo-bandana color-template-background-clip">Camo Bandana</span></a> (Rare)<br/>
+<img alt="Autumn Sunhat" height="35" src="img/Autumn_Sunhat.png" width="35"/><a href="autumn-sunhat.html"><span class="color-template color-template-autumn-sunhat color-template-background-clip">Autumn Sunhat</span></a> (Extremely Rare)<br/>
+<img alt="Stick Cub" height="35" src="img/Stick_Cub.png" width="35"/><a href="cub-buddy.html#Skins"><span class="color-template color-template-stick-cub color-template-background-clip">Stick Cub</span></a> (Unbelievably Rare)<br/>
+<img alt="Pink Shades" height="35" src="img/Pink_Shades.png" width="35"/><a href="pink-shades.html"><span class="color-template color-template-pink-shades color-template-background-clip">Pink Shades</span></a> (Unbelievably Rare)<br/>
+<img alt="Offline Voucher" height="35" src="img/Offline_Voucher.png" width="35"/><a href="sticker.html#Sticker_Index"><span class="color-template color-template-offline-voucher color-template-background-clip">Offline Voucher</span></a> (Unfathomably Rare)<br/>
+<img alt="Paper Angel" height="35" src="img/Paper_Angel.png" width="35"/><a href="paper-angel.html"><span class="color-template color-template-paper-angel color-template-background-clip">Paper Angel</span></a> (Only During Beesmas)<br/>
+<img alt="Pinecone" height="35" src="img/Pinecone.png" width="35"/><a href="pinecone.html"><span class="color-template color-template-pinecone color-template-background-clip">Pinecone</span></a> (Only During Beesmas)
 </p>
 </td></tr></tbody></table>
 
@@ -492,10 +492,6 @@ All regular rewards are also available in token form.
 The following music "Stickbug" plays during the challenge.
 
 Upon depleting Stick Bug's health, it will play one of the following audios at random:
-
-## Gallery
-
-<div class="wikia-gallery wikia-gallery-caption-below wikia-gallery-position-left wikia-gallery-spacing-medium wikia-gallery-border-small wikia-gallery-captions-left wikia-gallery-caption-size-medium" data-seq-no="0" hash="d7c219647891aa2cbd7241508450c6d5" id="gallery-0"><div class="wikia-gallery-caption"></div><div class="wikia-gallery-item" style="width:187px; "><div class="thumb" style="height:187px;"><div class="gallery-image-wrapper accent" id="StickBugBattle-png" style="position: relative; height:185px; width:185px;"><span style="line-height: 1;">StickBugBattle.png</span></div></div><div class="lightbox-caption" style="width:185px;">Stick Bug in battle.</div></div><div class="wikia-gallery-item" style="width:187px; "><div class="thumb" style="height:187px;"><div class="gallery-image-wrapper accent" id="StickBug2D-png" style="position: relative; height:185px; width:185px;"><span style="line-height: 1;">StickBug2D.png</span></div></div><div class="lightbox-caption" style="width:185px;">2D Stick Bug.</div></div><div class="wikia-gallery-item" style="width:187px; "><div class="thumb" style="height:187px;"><div class="gallery-image-wrapper accent" id="RobloxScreenShot20200908_150212902_-2--png" style="position: relative; height:185px; width:185px;"><span style="line-height: 1;">RobloxScreenShot20200908 150212902 (2).png</span></div></div><div class="lightbox-caption" style="width:185px;">Onett starting the Stick Bug Challenge.</div></div><div class="wikia-gallery-item" style="width:187px; "><div class="thumb" style="height:187px;"><div class="gallery-image-wrapper accent" id="Totem-Blue-Flower-jpg" style="position: relative; height:185px; width:185px;"><span style="line-height: 1;">Totem-Blue-Flower.jpg</span></div></div><div class="lightbox-caption" style="width:185px;">A defense totem.</div></div><div class="wikia-gallery-item" style="width:187px; "><div class="thumb" style="height:187px;"><div class="gallery-image-wrapper accent" id="Onett_spawns_stickbug_on_beesmas-jpg" style="position: relative; height:185px; width:185px;"><span style="line-height: 1;">Onett spawns stickbug on beesmas.jpg</span></div></div><div class="lightbox-caption" style="width:185px;">Onett starting the Stick Bug Challenge 7 minutes before Beesmas 2021 ended.</div></div></div>
 
 ## Trivia
 

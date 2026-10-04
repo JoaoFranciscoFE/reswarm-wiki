@@ -138,10 +138,6 @@ Since [planters](planter.md) cannot be used in the Retro Swarm Challenge, there 
 
 * Using [Glitter](glitter.md) in the Red Brick Field will grant a 100% Red Brick Field pollen boost for 15 minutes.
 
-## Gallery
-
-<div class="wikia-gallery wikia-gallery-caption-below wikia-gallery-position-left wikia-gallery-spacing-medium wikia-gallery-border-small wikia-gallery-captions-left wikia-gallery-caption-size-medium" data-seq-no="0" hash="650caa31197e8d8e88b64d5b9bdc51d1" id="gallery-0"><div class="wikia-gallery-caption"></div><div class="wikia-gallery-item" style="width:187px; "><div class="thumb" style="height:187px;"><div class="gallery-image-wrapper accent" id="Sunflower_Field_Icon-png" style="position: relative; height:185px; width:185px;"><span style="line-height: 1;">Sunflower Field Icon.png</span></div></div><div class="lightbox-caption" style="width:185px;">The Red Brick Field's associated <a href="field-boost.html">boost icon</a>.</div></div></div>
-
 ## Trivia
 
 * This field and three other fields present in the Retro Swarm Challenge are the only fields without an associated field stamp.

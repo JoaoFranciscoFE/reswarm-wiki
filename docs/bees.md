@@ -79,7 +79,7 @@ Bees/Event|Event||
 </td>
 <td>10 Pollen</td>
 <td>4 s</td>
-<td><span typeof="mw:Error mw:File"></span>80 <a href="honey.html"><span class="color-template color-template-honey">Honey</span></a></td>
+<td><img alt="Honey" height="25" src="img/Honey.png" width="25"/>80 <a href="honey.html"><span class="color-template color-template-honey">Honey</span></a></td>
 <td>4 s
 </td>
 <td>-
@@ -103,7 +103,7 @@ Bees/Event|Event||
 </td>
 <td>10 Pollen</td>
 <td>4 s</td>
-<td><span typeof="mw:Error mw:File"></span>120 <a href="honey.html"><span class="color-template color-template-honey">Honey</span></a></td>
+<td><img alt="Honey" height="25" src="img/Honey.png" width="25"/>120 <a href="honey.html"><span class="color-template color-template-honey">Honey</span></a></td>
 <td>4 s
 </td>
 <td>-
@@ -127,7 +127,7 @@ Bees/Event|Event||
 </td>
 <td>10 Pollen</td>
 <td>4 s</td>
-<td><span typeof="mw:Error mw:File"></span>200 <a href="honey.html"><span class="color-template color-template-honey">Honey</span></a></td>
+<td><img alt="Honey" height="25" src="img/Honey.png" width="25"/>200 <a href="honey.html"><span class="color-template color-template-honey">Honey</span></a></td>
 <td>4 s
 </td>
 <td>-
@@ -151,14 +151,14 @@ Bees/Event|Event||
 </td>
 <td>18 Pollen</td>
 <td>4 s</td>
-<td><span typeof="mw:Error mw:File"></span>80 <a href="honey.html"><span class="color-template color-template-honey">Honey</span></a></td>
+<td><img alt="Honey" height="25" src="img/Honey.png" width="25"/>80 <a href="honey.html"><span class="color-template color-template-honey">Honey</span></a></td>
 <td>4 s
 </td>
 <td>-
 </td>
 <td>x1.1 Capacity
 </td>
-<td><li><span typeof="mw:Error mw:File"></span> <a href="ability-tokens.html#Bomb">Blue Bomb</a></li></td>
+<td><li><img alt="Blue Bomb" height="35" src="img/Blue_Bomb.png" width="35"/> <a href="ability-tokens.html#Bomb">Blue Bomb</a></li></td>
 <td>-
 </td>
 <td><li>Blue Flower Field</li> <li>Pine Tree Forest</li> <li>Stump Field</li></td>
@@ -175,14 +175,14 @@ Bees/Event|Event||
 </td>
 <td>10 Pollen</td>
 <td>3 s</td>
-<td><span typeof="mw:Error mw:File"></span>120 <a href="honey.html"><span class="color-template color-template-honey">Honey</span></a></td>
+<td><img alt="Honey" height="25" src="img/Honey.png" width="25"/>120 <a href="honey.html"><span class="color-template color-template-honey">Honey</span></a></td>
 <td>4 s
 </td>
 <td>-
 </td>
 <td>x1.1 Blue Pollen
 </td>
-<td><li><span typeof="mw:Error mw:File"></span> <a href="ability-tokens.html#Boost">Blue Boost</a></li></td>
+<td><li><img alt="Blue Boost" height="35" src="img/Blue_Boost.png" width="35"/> <a href="ability-tokens.html#Boost">Blue Boost</a></li></td>
 <td>-
 </td>
 <td><li>Bamboo Field</li> <li>Pine Tree Field</li></td>
@@ -199,7 +199,7 @@ Bees/Event|Event||
 </td>
 <td>10 Pollen</td>
 <td>3 s</td>
-<td><span typeof="mw:Error mw:File"></span>80 <a href="honey.html"><span class="color-template color-template-honey">Honey</span></a></td>
+<td><img alt="Honey" height="25" src="img/Honey.png" width="25"/>80 <a href="honey.html"><span class="color-template color-template-honey">Honey</span></a></td>
 <td>3 s
 </td>
 <td>-
@@ -223,7 +223,7 @@ Bees/Event|Event||
 </td>
 <td>13 Pollen</td>
 <td>4 s</td>
-<td><span typeof="mw:Error mw:File"></span>160 <a href="honey.html"><span class="color-template color-template-honey">Honey</span></a></td>
+<td><img alt="Honey" height="25" src="img/Honey.png" width="25"/>160 <a href="honey.html"><span class="color-template color-template-honey">Honey</span></a></td>
 <td>4 s
 </td>
 <td>-
@@ -247,14 +247,14 @@ Bees/Event|Event||
 </td>
 <td>13 Pollen</td>
 <td>4 s</td>
-<td><span typeof="mw:Error mw:File"></span>80 <a href="honey.html"><span class="color-template color-template-honey">Honey</span></a></td>
+<td><img alt="Honey" height="25" src="img/Honey.png" width="25"/>80 <a href="honey.html"><span class="color-template color-template-honey">Honey</span></a></td>
 <td>3 s
 </td>
 <td>-
 </td>
 <td>x1.1 Red Pollen
 </td>
-<td><li><span typeof="mw:Error mw:File"></span> <a href="ability-tokens.html#Boost">Red Boost</a></li></td>
+<td><li><img alt="Red Boost" height="35" src="img/Red_Boost.png" width="35"/> <a href="ability-tokens.html#Boost">Red Boost</a></li></td>
 <td>-
 </td>
 <td><li>Rose Field</li> <li>Mushroom Field</li></td>
@@ -271,14 +271,14 @@ Bees/Event|Event||
 </td>
 <td>10 Pollen</td>
 <td>4 s</td>
-<td><span typeof="mw:Error mw:File"></span>80 <a href="honey.html"><span class="color-template color-template-honey">Honey</span></a></td>
+<td><img alt="Honey" height="25" src="img/Honey.png" width="25"/>80 <a href="honey.html"><span class="color-template color-template-honey">Honey</span></a></td>
 <td>4 s
 </td>
 <td>-
 </td>
 <td>x1.25 Red Bomb Pollen
 </td>
-<td><li><span typeof="mw:Error mw:File"></span> <a href="ability-tokens.html#Bomb">Red Bomb</a></li></td>
+<td><li><img alt="Red Bomb" height="35" src="img/Red_Bomb.png" width="35"/> <a href="ability-tokens.html#Bomb">Red Bomb</a></li></td>
 <td>-
 </td>
 <td><li>Rose Field</li> <li>Mushroom Field</li></td>
@@ -295,14 +295,14 @@ Bees/Event|Event||
 </td>
 <td>10 Pollen</td>
 <td>4 s</td>
-<td><span typeof="mw:Error mw:File"></span>80 <a href="honey.html"><span class="color-template color-template-honey">Honey</span></a></td>
+<td><img alt="Honey" height="25" src="img/Honey.png" width="25"/>80 <a href="honey.html"><span class="color-template color-template-honey">Honey</span></a></td>
 <td>3 s
 </td>
 <td>-
 </td>
 <td>+15% Ability Token Lifespan
 </td>
-<td><li><span typeof="mw:Error mw:File"></span> <a href="ability-tokens.html#Mark">Pollen Mark</a></li></td>
+<td><li><img alt="Pollen Mark" height="35" src="img/Pollen_Mark.png" width="35"/> <a href="ability-tokens.html#Mark">Pollen Mark</a></li></td>
 <td>-
 </td>
 <td><li>Dandelion Field</li> <li>Pineapple patch</li></td>
@@ -319,14 +319,14 @@ Bees/Event|Event||
 </td>
 <td>10 Pollen</td>
 <td>4 s</td>
-<td><span typeof="mw:Error mw:File"></span>160 <a href="honey.html"><span class="color-template color-template-honey">Honey</span></a></td>
+<td><img alt="Honey" height="25" src="img/Honey.png" width="25"/>160 <a href="honey.html"><span class="color-template color-template-honey">Honey</span></a></td>
 <td>4 s
 </td>
 <td>-
 </td>
 <td>x1.25 Bubble Pollen
 </td>
-<td><li><span typeof="mw:Error mw:File"></span> <a href="ability-tokens.html#Bomb">Blue Bomb</a></li>
+<td><li><img alt="Blue Bomb" height="35" src="img/Blue_Bomb.png" width="35"/> <a href="ability-tokens.html#Bomb">Blue Bomb</a></li>
 </td>
 <td><a href="passive-abilities.html#Gathering_Bubbles">Gathering Bubbles</a>
 </td>
@@ -344,14 +344,14 @@ Bees/Event|Event||
 </td>
 <td>17 Pollen</td>
 <td>4 s</td>
-<td><span typeof="mw:Error mw:File"></span>80 <a href="honey.html"><span class="color-template color-template-honey">Honey</span></a></td>
+<td><img alt="Honey" height="25" src="img/Honey.png" width="25"/>80 <a href="honey.html"><span class="color-template color-template-honey">Honey</span></a></td>
 <td>3 s
 </td>
 <td>-
 </td>
 <td>+20% Blue Field Capacity
 </td>
-<td><li><span typeof="mw:Error mw:File"></span> <a href="ability-tokens.html#Boost">Blue Boost</a></li>
+<td><li><img alt="Blue Boost" height="35" src="img/Blue_Boost.png" width="35"/> <a href="ability-tokens.html#Boost">Blue Boost</a></li>
 </td>
 <td>-
 </td>
@@ -369,14 +369,14 @@ Bees/Event|Event||
 </td>
 <td>15 Pollen</td>
 <td>4 s</td>
-<td><span typeof="mw:Error mw:File"></span>80 <a href="honey.html"><span class="color-template color-template-honey">Honey</span></a></td>
+<td><img alt="Honey" height="25" src="img/Honey.png" width="25"/>80 <a href="honey.html"><span class="color-template color-template-honey">Honey</span></a></td>
 <td>4 s
 </td>
 <td>-
 </td>
 <td>+3% Critical Chance
 </td>
-<td><li><span typeof="mw:Error mw:File"></span> <a href="ability-tokens.html#Bomb">Buzz Bomb</a></li> <li><span typeof="mw:Error mw:File"></span> Focus</li>
+<td><li><img alt="Buzz Bomb" height="35" src="img/Buzz_Bomb.png" width="35"/> <a href="ability-tokens.html#Bomb">Buzz Bomb</a></li> <li><span typeof="mw:Error mw:File"></span> Focus</li>
 </td>
 <td>-
 </td>
@@ -394,14 +394,14 @@ Bees/Event|Event||
 </td>
 <td>10 Pollen</td>
 <td>4 s</td>
-<td><span typeof="mw:Error mw:File"></span>330 <a href="honey.html"><span class="color-template color-template-honey">Honey</span></a></td>
+<td><img alt="Honey" height="25" src="img/Honey.png" width="25"/>330 <a href="honey.html"><span class="color-template color-template-honey">Honey</span></a></td>
 <td>4 s
 </td>
 <td>-
 </td>
 <td>x1.25 Buzz Bomb Pollen
 </td>
-<td><li><span typeof="mw:Error mw:File"></span> <a href="ability-tokens.html#Bomb">Buzz Bomb+</a></li>
+<td><li><img alt="Buzz Bomb+" height="35" src="img/Buzz_Bomb+.png" width="35"/> <a href="ability-tokens.html#Bomb">Buzz Bomb+</a></li>
 </td>
 <td>-
 </td>
@@ -419,14 +419,14 @@ Bees/Event|Event||
 </td>
 <td>10 Pollen</td>
 <td>4.6 s</td>
-<td><span typeof="mw:Error mw:File"></span>240 <a href="honey.html"><span class="color-template color-template-honey">Honey</span></a></td>
+<td><img alt="Honey" height="25" src="img/Honey.png" width="25"/>240 <a href="honey.html"><span class="color-template color-template-honey">Honey</span></a></td>
 <td>4 s
 </td>
 <td>-
 </td>
 <td>+20% White Field Capacity
 </td>
-<td><li><span typeof="mw:Error mw:File"></span> <a href="ability-tokens.html#Bomb">Buzz Bomb</a></li> <li><span typeof="mw:Error mw:File"></span> Token Link</li>
+<td><li><img alt="Buzz Bomb" height="35" src="img/Buzz_Bomb.png" width="35"/> <a href="ability-tokens.html#Bomb">Buzz Bomb</a></li> <li><span typeof="mw:Error mw:File"></span> Token Link</li>
 </td>
 <td>-
 </td>
@@ -444,14 +444,14 @@ Bees/Event|Event||
 </td>
 <td>10 Pollen</td>
 <td>4 s</td>
-<td><span typeof="mw:Error mw:File"></span>80 <a href="honey.html"><span class="color-template color-template-honey">Honey</span></a></td>
+<td><img alt="Honey" height="25" src="img/Honey.png" width="25"/>80 <a href="honey.html"><span class="color-template color-template-honey">Honey</span></a></td>
 <td>4 s
 </td>
 <td>-
 </td>
 <td>x1.25 Flame Pollen
 </td>
-<td><li><span typeof="mw:Error mw:File"></span> <a href="ability-tokens.html#Bomb">Red Bomb+</a></li>
+<td><li><img alt="Red Bomb+" height="35" src="img/Red_Bomb+.png" width="35"/> <a href="ability-tokens.html#Bomb">Red Bomb+</a></li>
 </td>
 <td><a href="passive-abilities.html#Gathering_Flames">Gathering Flames</a>
 </td>
@@ -469,14 +469,14 @@ Bees/Event|Event||
 </td>
 <td>10 Pollen</td>
 <td>4 s</td>
-<td><span typeof="mw:Error mw:File"></span>80 <a href="honey.html"><span class="color-template color-template-honey">Honey</span></a></td>
+<td><img alt="Honey" height="25" src="img/Honey.png" width="25"/>80 <a href="honey.html"><span class="color-template color-template-honey">Honey</span></a></td>
 <td>4 s
 </td>
 <td>-
 </td>
 <td>x1.25 Blue Bomb Pollen
 </td>
-<td><li><span typeof="mw:Error mw:File"></span> <a href="ability-tokens.html#Bomb">Blue Bomb+</a></li> <li><span typeof="mw:Error mw:File"></span> <a href="ability-tokens.html#Bomb">Blue Boost</a></li>
+<td><li><img alt="Blue Bomb+" height="35" src="img/Blue_Bomb+.png" width="35"/> <a href="ability-tokens.html#Bomb">Blue Bomb+</a></li> <li><img alt="Blue Boost" height="35" src="img/Blue_Boost.png" width="35"/> <a href="ability-tokens.html#Bomb">Blue Boost</a></li>
 </td>
 <td>-
 </td>
@@ -494,14 +494,14 @@ Bees/Event|Event||
 </td>
 <td>10 Pollen</td>
 <td>4 s</td>
-<td><span typeof="mw:Error mw:File"></span>360 <a href="honey.html"><span class="color-template color-template-honey">Honey</span></a></td>
+<td><img alt="Honey" height="25" src="img/Honey.png" width="25"/>360 <a href="honey.html"><span class="color-template color-template-honey">Honey</span></a></td>
 <td>2 s
 </td>
 <td>-
 </td>
 <td>x1.5 Honey From Tokens
 </td>
-<td><li><span typeof="mw:Error mw:File"></span> Honey Gift</li> <li><span typeof="mw:Error mw:File"></span> <a href="ability-tokens.html#Mark">Honey Mark</a></li>
+<td><li><span typeof="mw:Error mw:File"></span> Honey Gift</li> <li><img alt="Honey Mark" height="35" src="img/Honey_Mark.png" width="35"/> <a href="ability-tokens.html#Mark">Honey Mark</a></li>
 </td>
 <td>-
 </td>
@@ -519,7 +519,7 @@ Bees/Event|Event||
 </td>
 <td>10 Pollen</td>
 <td>4 s</td>
-<td><span typeof="mw:Error mw:File"></span>80 <a href="honey.html"><span class="color-template color-template-honey">Honey</span></a></td>
+<td><img alt="Honey" height="25" src="img/Honey.png" width="25"/>80 <a href="honey.html"><span class="color-template color-template-honey">Honey</span></a></td>
 <td>4 s
 </td>
 <td>-
@@ -544,14 +544,14 @@ Bees/Event|Event||
 </td>
 <td>10 Pollen</td>
 <td>2 s</td>
-<td><span typeof="mw:Error mw:File"></span>140 <a href="honey.html"><span class="color-template color-template-honey">Honey</span></a></td>
+<td><img alt="Honey" height="25" src="img/Honey.png" width="25"/>140 <a href="honey.html"><span class="color-template color-template-honey">Honey</span></a></td>
 <td>4 s
 </td>
 <td>-
 </td>
 <td>+20% Red Field Capacity
 </td>
-<td><li><span typeof="mw:Error mw:File"></span> <a href="ability-tokens.html#Bomb">Red Boost</a></li>
+<td><li><img alt="Red Boost" height="35" src="img/Red_Boost.png" width="35"/> <a href="ability-tokens.html#Bomb">Red Boost</a></li>
 </td>
 <td>-
 </td>
@@ -569,7 +569,7 @@ Bees/Event|Event||
 </td>
 <td>10 Pollen</td>
 <td>4 s</td>
-<td><span typeof="mw:Error mw:File"></span>80 <a href="honey.html"><span class="color-template color-template-honey">Honey</span></a></td>
+<td><img alt="Honey" height="25" src="img/Honey.png" width="25"/>80 <a href="honey.html"><span class="color-template color-template-honey">Honey</span></a></td>
 <td>2 s
 </td>
 <td><li>-50% Sleep Time</li>
@@ -594,7 +594,7 @@ Bees/Event|Event||
 </td>
 <td>10 Pollen</td>
 <td>5 s</td>
-<td><span typeof="mw:Error mw:File"></span>80 <a href="honey.html"><span class="color-template color-template-honey">Honey</span></a></td>
+<td><img alt="Honey" height="25" src="img/Honey.png" width="25"/>80 <a href="honey.html"><span class="color-template color-template-honey">Honey</span></a></td>
 <td>5 s
 </td>
 <td>-
@@ -619,14 +619,14 @@ Bees/Event|Event||
 </td>
 <td>10 Pollen</td>
 <td>3 s</td>
-<td><span typeof="mw:Error mw:File"></span>120 <a href="honey.html"><span class="color-template color-template-honey">Honey</span></a></td>
+<td><img alt="Honey" height="25" src="img/Honey.png" width="25"/>120 <a href="honey.html"><span class="color-template color-template-honey">Honey</span></a></td>
 <td>4 s
 </td>
 <td>-
 </td>
 <td>+25% Tool Pollen
 </td>
-<td><li><span typeof="mw:Error mw:File"></span> <a href="ability-tokens.html#Mark">Pollen Mark</a></li> <li><span typeof="mw:Error mw:File"></span> <a href="ability-tokens.html#Mark">Honey Mark+</a></li>
+<td><li><img alt="Pollen Mark" height="35" src="img/Pollen_Mark.png" width="35"/> <a href="ability-tokens.html#Mark">Pollen Mark</a></li> <li><img alt="Honey Mark+" height="35" src="img/Honey_Mark+.png" width="35"/> <a href="ability-tokens.html#Mark">Honey Mark+</a></li>
 </td>
 <td>-
 </td>
@@ -644,14 +644,14 @@ Bees/Event|Event||
 </td>
 <td>35 Pollen</td>
 <td>4 s</td>
-<td><span typeof="mw:Error mw:File"></span>60 <a href="honey.html"><span class="color-template color-template-honey">Honey</span></a></td>
+<td><img alt="Honey" height="25" src="img/Honey.png" width="25"/>60 <a href="honey.html"><span class="color-template color-template-honey">Honey</span></a></td>
 <td>4 s
 </td>
 <td>-
 </td>
 <td>+20% Instant Bomb Conversion
 </td>
-<td><li><span typeof="mw:Error mw:File"></span> <a href="ability-tokens.html#Bomb">Red Bomb</a></li> <li><span typeof="mw:Error mw:File"></span> <a href="ability-tokens.html#Bomb">Red Bomb+</a></li>
+<td><li><img alt="Red Bomb" height="35" src="img/Red_Bomb.png" width="35"/> <a href="ability-tokens.html#Bomb">Red Bomb</a></li> <li><img alt="Red Bomb+" height="35" src="img/Red_Bomb+.png" width="35"/> <a href="ability-tokens.html#Bomb">Red Bomb+</a></li>
 </td>
 <td><a href="passive-abilities.html#Gathering_Flames">Gathering Flames+</a>
 </td>
@@ -669,14 +669,14 @@ Bees/Event|Event||
 </td>
 <td>10 Pollen</td>
 <td>4 s</td>
-<td><span typeof="mw:Error mw:File"></span>1,000 <a href="honey.html"><span class="color-template color-template-honey">Honey</span></a></td>
+<td><img alt="Honey" height="25" src="img/Honey.png" width="25"/>1,000 <a href="honey.html"><span class="color-template color-template-honey">Honey</span></a></td>
 <td>4 s
 </td>
 <td>-
 </td>
 <td>x1.2 Convert Rate
 </td>
-<td><li><span typeof="mw:Error mw:File"></span> Honey Gift+</li> <li><span typeof="mw:Error mw:File"></span> <a href="ability-tokens.html#Boost">Blue Boost</a></li>
+<td><li><span typeof="mw:Error mw:File"></span> Honey Gift+</li> <li><img alt="Blue Boost" height="35" src="img/Blue_Boost.png" width="35"/> <a href="ability-tokens.html#Boost">Blue Boost</a></li>
 </td>
 <td><a href="passive-abilities.html#Shimmering_Honey">Shimmering Honey</a>
 </td>
@@ -694,14 +694,14 @@ Bees/Event|Event||
 </td>
 <td>20 Pollen</td>
 <td>4 s</td>
-<td><span typeof="mw:Error mw:File"></span>180 <a href="honey.html"><span class="color-template color-template-honey">Honey</span></a></td>
+<td><img alt="Honey" height="25" src="img/Honey.png" width="25"/>180 <a href="honey.html"><span class="color-template color-template-honey">Honey</span></a></td>
 <td>2 s
 </td>
 <td>-
 </td>
 <td>+5% Gifted Bee Pollen
 </td>
-<td><li><span typeof="mw:Error mw:File"></span> <a href="ability-tokens.html#Bomb">Buzz Bomb+</a></li>
+<td><li><img alt="Buzz Bomb+" height="35" src="img/Buzz_Bomb+.png" width="35"/> <a href="ability-tokens.html#Bomb">Buzz Bomb+</a></li>
 </td>
 <td>-
 </td>
@@ -719,7 +719,7 @@ Bees/Event|Event||
 </td>
 <td>16 Pollen</td>
 <td>4 s</td>
-<td><span typeof="mw:Error mw:File"></span>240 <a href="honey.html"><span class="color-template color-template-honey">Honey</span></a></td>
+<td><img alt="Honey" height="25" src="img/Honey.png" width="25"/>240 <a href="honey.html"><span class="color-template color-template-honey">Honey</span></a></td>
 <td>4 s
 </td>
 <td>-
@@ -744,14 +744,14 @@ Bees/Event|Event||
 </td>
 <td>10 Pollen</td>
 <td>2 s</td>
-<td><span typeof="mw:Error mw:File"></span>80 <a href="honey.html"><span class="color-template color-template-honey">Honey</span></a></td>
+<td><img alt="Honey" height="25" src="img/Honey.png" width="25"/>80 <a href="honey.html"><span class="color-template color-template-honey">Honey</span></a></td>
 <td>2 s
 </td>
 <td>-
 </td>
 <td>+5% Bee Movespeed
 </td>
-<td><li><span typeof="mw:Error mw:File"></span> <a href="ability-tokens.html#Bomb">Blue Bomb+</a></li> <li><span typeof="mw:Error mw:File"></span> Haste</li>
+<td><li><img alt="Blue Bomb+" height="35" src="img/Blue_Bomb+.png" width="35"/> <a href="ability-tokens.html#Bomb">Blue Bomb+</a></li> <li><span typeof="mw:Error mw:File"></span> Haste</li>
 </td>
 <td>-
 </td>
@@ -769,14 +769,14 @@ Bees/Event|Event||
 </td>
 <td>10 Pollen</td>
 <td>2 s</td>
-<td><span typeof="mw:Error mw:File"></span>320 <a href="honey.html"><span class="color-template color-template-honey">Honey</span></a></td>
+<td><img alt="Honey" height="25" src="img/Honey.png" width="25"/>320 <a href="honey.html"><span class="color-template color-template-honey">Honey</span></a></td>
 <td>4 s
 </td>
 <td>-
 </td>
 <td>+5% Bee Ability Pollen
 </td>
-<td><li><span typeof="mw:Error mw:File"></span> <a href="ability-tokens.html#Bomb">Red Bomb</a></li> <li><span typeof="mw:Error mw:File"></span> <a href="ability-tokens.html#Boost">Red Boost</a></li>
+<td><li><img alt="Red Bomb" height="35" src="img/Red_Bomb.png" width="35"/> <a href="ability-tokens.html#Bomb">Red Bomb</a></li> <li><img alt="Red Boost" height="35" src="img/Red_Boost.png" width="35"/> <a href="ability-tokens.html#Boost">Red Boost</a></li>
 </td>
 <td><a href="passive-abilities.html#Nectar_Lover">Nectar Lover</a>
 </td>
@@ -794,14 +794,14 @@ Bees/Event|Event||
 </td>
 <td>15 Pollen</td>
 <td>5 s</td>
-<td><span typeof="mw:Error mw:File"></span>150 <a href="honey.html"><span class="color-template color-template-honey">Honey</span></a></td>
+<td><img alt="Honey" height="25" src="img/Honey.png" width="25"/>150 <a href="honey.html"><span class="color-template color-template-honey">Honey</span></a></td>
 <td>3 s
 </td>
 <td>-
 </td>
 <td>x1.2 Capacity
 </td>
-<td><li><span typeof="mw:Error mw:File"></span> <a href="ability-tokens.html#Bomb">Blue Bomb</a></li> <li><span typeof="mw:Error mw:File"></span> <a href="ability-tokens.html#Inflate_Balloon">Inflate Balloons</a></li> <li><span typeof="mw:Error mw:File"></span> <a href="ability-tokens.html#Surprise_Party">Surprise Party</a> (Gifted)</li>
+<td><li><img alt="Blue Bomb" height="35" src="img/Blue_Bomb.png" width="35"/> <a href="ability-tokens.html#Bomb">Blue Bomb</a></li> <li><img alt="Inflate Balloons" height="35" src="img/Inflate_Balloons.png" width="35"/> <a href="ability-tokens.html#Inflate_Balloon">Inflate Balloons</a></li> <li><img alt="Surprise Party" height="35" src="img/Surprise_Party.png" width="35"/> <a href="ability-tokens.html#Surprise_Party">Surprise Party</a> (Gifted)</li>
 </td>
 <td><a href="passive-abilities.html#Balloon_Enthusiast">Balloon Enthusiast</a>
 </td>
@@ -819,14 +819,14 @@ Bees/Event|Event||
 </td>
 <td>100 Pollen</td>
 <td>6 s</td>
-<td><span typeof="mw:Error mw:File"></span>40 <a href="honey.html"><span class="color-template color-template-honey">Honey</span></a></td>
+<td><img alt="Honey" height="25" src="img/Honey.png" width="25"/>40 <a href="honey.html"><span class="color-template color-template-honey">Honey</span></a></td>
 <td>6 s
 </td>
 <td>-
 </td>
 <td>x1.1 Bomb Power
 </td>
-<td><li><span typeof="mw:Error mw:File"></span> <a href="ability-tokens.html#Bomb">Buzz Bomb+</a></li> <li><span typeof="mw:Error mw:File"></span> <a href="ability-tokens.html#Fuzz_Bombs">Fuzz Bombs</a></li> <li><span typeof="mw:Error mw:File"></span> <a href="ability-tokens.html#Pollen_Haze">Pollen Haze</a> (Gifted)</li>
+<td><li><img alt="Buzz Bomb+" height="35" src="img/Buzz_Bomb+.png" width="35"/> <a href="ability-tokens.html#Bomb">Buzz Bomb+</a></li> <li><img alt="Fuzz Bombs" height="35" src="img/Fuzz_Bombs.png" width="35"/> <a href="ability-tokens.html#Fuzz_Bombs">Fuzz Bombs</a></li> <li><img alt="Pollen Haze" height="35" src="img/Pollen_Haze.png" width="35"/> <a href="ability-tokens.html#Pollen_Haze">Pollen Haze</a> (Gifted)</li>
 </td>
 <td><a href="passive-abilities.html#Fuzzy_Coat">Fuzzy Coat</a>
 </td>
@@ -844,14 +844,14 @@ Bees/Event|Event||
 </td>
 <td>20 Pollen</td>
 <td>4 s</td>
-<td><span typeof="mw:Error mw:File"></span>80 <a href="honey.html"><span class="color-template color-template-honey">Honey</span></a></td>
+<td><img alt="Honey" height="25" src="img/Honey.png" width="25"/>80 <a href="honey.html"><span class="color-template color-template-honey">Honey</span></a></td>
 <td>4 s
 </td>
 <td><li>+5% Critical Chance</li> <li>+3% Super-Crit Chance</li>
 </td>
 <td>+3% Super-Crit Chance
 </td>
-<td><li><span typeof="mw:Error mw:File"></span> <a href="ability-tokens.html#Target_Practice">Target Practice</a></li>
+<td><li><img alt="Target Practice" height="35" src="img/Target_Practice.png" width="35"/> <a href="ability-tokens.html#Target_Practice">Target Practice</a></li>
 </td>
 <td><a href="passive-abilities.html#Sniper">Sniper</a>
 </td>
@@ -869,14 +869,14 @@ Bees/Event|Event||
 </td>
 <td>14 Pollen</td>
 <td>4 s</td>
-<td><span typeof="mw:Error mw:File"></span>300 <a href="honey.html"><span class="color-template color-template-honey">Honey</span></a></td>
+<td><img alt="Honey" height="25" src="img/Honey.png" width="25"/>300 <a href="honey.html"><span class="color-template color-template-honey">Honey</span></a></td>
 <td>2 s
 </td>
 <td>-
 </td>
 <td>+25% Flame Duration
 </td>
-<td><li><span typeof="mw:Error mw:File"></span> Rage</li> <li><span typeof="mw:Error mw:File"></span> <a href="ability-tokens.html#Inferno">Inferno</a></li> <li><span typeof="mw:Error mw:File"></span> <a href="ability-tokens.html#Flame_Fuel">Flame Fuel</a> (Gifted)</li>
+<td><li><span typeof="mw:Error mw:File"></span> Rage</li> <li><img alt="Inferno" height="35" src="img/Inferno.png" width="35"/> <a href="ability-tokens.html#Inferno">Inferno</a></li> <li><img alt="Flame Fuel" height="35" src="img/Flame_Fuel.png" width="35"/> <a href="ability-tokens.html#Flame_Fuel">Flame Fuel</a> (Gifted)</li>
 </td>
 <td><a href="passive-abilities.html#Steam_Engine">Steam Engine</a>
 </td>
@@ -894,14 +894,14 @@ Bees/Event|Event||
 </td>
 <td>10 Pollen</td>
 <td>6 s</td>
-<td><span typeof="mw:Error mw:File"></span>120 <a href="honey.html"><span class="color-template color-template-honey">Honey</span></a></td>
+<td><img alt="Honey" height="25" src="img/Honey.png" width="25"/>120 <a href="honey.html"><span class="color-template color-template-honey">Honey</span></a></td>
 <td>4 s
 </td>
 <td>-
 </td>
 <td>+25% Bubble Duration
 </td>
-<td><li><span typeof="mw:Error mw:File"></span> <a href="ability-tokens.html#Bomb">Blue Boost</a></li> <li><span typeof="mw:Error mw:File"></span> Baby Love (Gifted)</li> <li><span typeof="mw:Error mw:File"></span> <a href="ability-tokens.html#Summon_Frog">Summon Frog</a></li>
+<td><li><img alt="Blue Boost" height="35" src="img/Blue_Boost.png" width="35"/> <a href="ability-tokens.html#Bomb">Blue Boost</a></li> <li><span typeof="mw:Error mw:File"></span> Baby Love (Gifted)</li> <li><img alt="Summon Frog" height="35" src="img/Summon_Frog.png" width="35"/> <a href="ability-tokens.html#Summon_Frog">Summon Frog</a></li>
 </td>
 <td><a href="passive-abilities.html#Gathering_Bubbles">Gathering Bubbles+</a>
 </td>
@@ -919,14 +919,14 @@ Bees/Event|Event||
 </td>
 <td>18 Pollen</td>
 <td>4 s</td>
-<td><span typeof="mw:Error mw:File"></span>144 <a href="honey.html"><span class="color-template color-template-honey">Honey</span></a></td>
+<td><img alt="Honey" height="25" src="img/Honey.png" width="25"/>144 <a href="honey.html"><span class="color-template color-template-honey">Honey</span></a></td>
 <td>2.72 s
 </td>
 <td>-
 </td>
 <td>+15% Mark Duration
 </td>
-<td><li><span typeof="mw:Error mw:File"></span> <a href="ability-tokens.html#Mark">Pollen Mark+</a></li> <li><span typeof="mw:Error mw:File"></span> <a href="ability-tokens.html#Triangulate">Triangulate</a></li> <li><span typeof="mw:Error mw:File"></span> <a href="ability-tokens.html#Mark_Surge">Mark Surge</a> (Gifted)</li>
+<td><li><img alt="Pollen Mark+" height="35" src="img/Pollen_Mark+.png" width="35"/> <a href="ability-tokens.html#Mark">Pollen Mark+</a></li> <li><img alt="Triangulate" height="35" src="img/Triangulate.png" width="35"/> <a href="ability-tokens.html#Triangulate">Triangulate</a></li> <li><img alt="Mark Surge" height="35" src="img/Mark_Surge.png" width="35"/> <a href="ability-tokens.html#Mark_Surge">Mark Surge</a> (Gifted)</li>
 </td>
 <td>-
 </td>
@@ -944,7 +944,7 @@ Bees/Event|Event||
 </td>
 <td>15 Pollen</td>
 <td>2 s</td>
-<td><span typeof="mw:Error mw:File"></span>200 <a href="honey.html"><span class="color-template color-template-honey">Honey</span></a></td>
+<td><img alt="Honey" height="25" src="img/Honey.png" width="25"/>200 <a href="honey.html"><span class="color-template color-template-honey">Honey</span></a></td>
 <td>2 s
 </td>
 <td>-
@@ -969,7 +969,7 @@ Bees/Event|Event||
 </td>
 <td>10 Pollen</td>
 <td>4 s</td>
-<td><span typeof="mw:Error mw:File"></span>140 <a href="honey.html"><span class="color-template color-template-honey">Honey</span></a></td>
+<td><img alt="Honey" height="25" src="img/Honey.png" width="25"/>140 <a href="honey.html"><span class="color-template color-template-honey">Honey</span></a></td>
 <td>3 s
 </td>
 <td>-
@@ -994,7 +994,7 @@ Bees/Event|Event||
 </td>
 <td>10 Pollen</td>
 <td>4 s</td>
-<td><span typeof="mw:Error mw:File"></span>140 <a href="honey.html"><span class="color-template color-template-honey">Honey</span></a></td>
+<td><img alt="Honey" height="25" src="img/Honey.png" width="25"/>140 <a href="honey.html"><span class="color-template color-template-honey">Honey</span></a></td>
 <td>3 s
 </td>
 <td>-
@@ -1019,14 +1019,14 @@ Bees/Event|Event||
 </td>
 <td>10 Pollen</td>
 <td>4 s</td>
-<td><span typeof="mw:Error mw:File"></span>80 <a href="honey.html"><span class="color-template color-template-honey">Honey</span></a></td>
+<td><img alt="Honey" height="25" src="img/Honey.png" width="25"/>80 <a href="honey.html"><span class="color-template color-template-honey">Honey</span></a></td>
 <td>4 s
 </td>
 <td>-
 </td>
 <td>+1% Ability Duplication Chance
 </td>
-<td><li><span typeof="mw:Error mw:File"></span> <a href="ability-tokens.html#Glitch">Glitch</a></li> <li><span typeof="mw:Error mw:File"></span> <a href="ability-tokens.html#Mind_Hack">Mind Hack</a></li> <li><span typeof="mw:Error mw:File"></span> <a href="ability-tokens.html#Map_Corruption">Map Corruption</a> (Gifted)</li>
+<td><li><img alt="Glitch" height="35" src="img/Glitch.png" width="35"/> <a href="ability-tokens.html#Glitch">Glitch</a></li> <li><img alt="Mind Hack" height="35" src="img/Mind_Hack.png" width="35"/> <a href="ability-tokens.html#Mind_Hack">Mind Hack</a></li> <li><img alt="Map Corruption" height="35" src="img/Map_Corruption.png" width="35"/> <a href="ability-tokens.html#Map_Corruption">Map Corruption</a> (Gifted)</li>
 </td>
 <td><a href="passive-abilities.html#Drive_Expansion">Drive Expansion</a>
 </td>
@@ -1044,14 +1044,14 @@ Bees/Event|Event||
 </td>
 <td>40 Pollen</td>
 <td>4 s</td>
-<td><span typeof="mw:Error mw:File"></span>150 <a href="honey.html"><span class="color-template color-template-honey">Honey</span></a></td>
+<td><img alt="Honey" height="25" src="img/Honey.png" width="25"/>150 <a href="honey.html"><span class="color-template color-template-honey">Honey</span></a></td>
 <td>1 s
 </td>
 <td>-
 </td>
 <td>x1.25 Convert Rate at Hive
 </td>
-<td><li><span typeof="mw:Error mw:File"></span> <a href="ability-tokens.html#Mark">Honey Mark</a></li> <li><span typeof="mw:Error mw:File"></span> <a href="ability-tokens.html#Bomb">Red Bomb+</a></li> <li><span typeof="mw:Error mw:File"></span> <a href="ability-tokens.html#Festive_Gift">Festive Gift</a></li> <li><span typeof="mw:Error mw:File"></span> <a href="ability-tokens.html#Festive_Mark">Festive Mark</a> (Festive Wreath)</li>
+<td><li><img alt="Honey Mark" height="35" src="img/Honey_Mark.png" width="35"/> <a href="ability-tokens.html#Mark">Honey Mark</a></li> <li><img alt="Red Bomb+" height="35" src="img/Red_Bomb+.png" width="35"/> <a href="ability-tokens.html#Bomb">Red Bomb+</a></li> <li><img alt="Festive Gift" height="35" src="img/Festive_Gift.png" width="35"/> <a href="ability-tokens.html#Festive_Gift">Festive Gift</a></li> <li><img alt="Festive Mark" height="35" src="img/Festive_Mark.png" width="35"/> <a href="ability-tokens.html#Festive_Mark">Festive Mark</a> (Festive Wreath)</li>
 </td>
 <td>-
 </td>
@@ -1069,7 +1069,7 @@ Bees/Event|Event||
 </td>
 <td>10 Pollen</td>
 <td>4s</td>
-<td><span typeof="mw:Error mw:File"></span>700 <a href="honey.html"><span class="color-template color-template-honey">Honey</span></a></td>
+<td><img alt="Honey" height="25" src="img/Honey.png" width="25"/>700 <a href="honey.html"><span class="color-template color-template-honey">Honey</span></a></td>
 <td>4s
 </td>
 <td>-
@@ -1094,7 +1094,7 @@ Bees/Event|Event||
 </td>
 <td>20 Pollen</td>
 <td>2 s</td>
-<td><span typeof="mw:Error mw:File"></span>240 <a href="honey.html"><span class="color-template color-template-honey">Honey</span></a></td>
+<td><img alt="Honey" height="25" src="img/Honey.png" width="25"/>240 <a href="honey.html"><span class="color-template color-template-honey">Honey</span></a></td>
 <td>2 s
 </td>
 <td>-
@@ -1119,14 +1119,14 @@ Bees/Event|Event||
 </td>
 <td>25 Pollen</td>
 <td>4 s</td>
-<td><span typeof="mw:Error mw:File"></span>280 <a href="honey.html"><span class="color-template color-template-honey">Honey</span></a></td>
+<td><img alt="Honey" height="25" src="img/Honey.png" width="25"/>280 <a href="honey.html"><span class="color-template color-template-honey">Honey</span></a></td>
 <td>4 s
 </td>
 <td>-
 </td>
 <td>+20% Bond From Treats
 </td>
-<td><li><span typeof="mw:Error mw:File"></span> <a href="ability-tokens.html#Puppy_Love">Puppy Love</a></li> <li><span typeof="mw:Error mw:File"></span> <a href="ability-tokens.html#Fetch">Fetch</a> / <a href="ability-tokens.html#Fetch">Reindeer Fetch</a> (Reindeer Antlers)</li> <li><span typeof="mw:Error mw:File"></span> Focus (Reindeer Antlers)</li>
+<td><li><img alt="Puppy Love" height="35" src="img/Puppy_Love.png" width="35"/> <a href="ability-tokens.html#Puppy_Love">Puppy Love</a></li> <li><img alt="Fetch" height="35" src="img/Fetch.png" width="35"/> <a href="ability-tokens.html#Fetch">Fetch</a> / <a href="ability-tokens.html#Fetch">Reindeer Fetch</a> (Reindeer Antlers)</li> <li><span typeof="mw:Error mw:File"></span> Focus (Reindeer Antlers)</li>
 </td>
 <td>-
 </td>
@@ -1144,7 +1144,7 @@ Bees/Event|Event||
 </td>
 <td data-sort-value="110">10 - 110 Pollen</td>
 <td>4 s</td>
-<td data-sort-value="1760">160 - <span typeof="mw:Error mw:File"></span>1,760 <a href="honey.html"><span class="color-template color-template-honey">Honey</span></a></td>
+<td data-sort-value="1760">160 - <img alt="Honey" height="25" src="img/Honey.png" width="25"/>1,760 <a href="honey.html"><span class="color-template color-template-honey">Honey</span></a></td>
 <td>3 s
 </td>
 <td>-
@@ -1169,14 +1169,14 @@ Bees/Event|Event||
 </td>
 <td>10 Pollen</td>
 <td>4 s</td>
-<td><span typeof="mw:Error mw:File"></span>80 <a href="honey.html"><span class="color-template color-template-honey">Honey</span></a></td>
+<td><img alt="Honey" height="25" src="img/Honey.png" width="25"/>80 <a href="honey.html"><span class="color-template color-template-honey">Honey</span></a></td>
 <td>4 s
 </td>
 <td>-
 </td>
 <td>-15% Monster Respawn Time
 </td>
-<td><li><span typeof="mw:Error mw:File"></span> <a href="ability-tokens.html#Bomb">Blue Bomb+</a></li> <li><span typeof="mw:Error mw:File"></span> <a href="ability-tokens.html#Impale">Impale</a></li>
+<td><li><img alt="Blue Bomb+" height="35" src="img/Blue_Bomb+.png" width="35"/> <a href="ability-tokens.html#Bomb">Blue Bomb+</a></li> <li><img alt="Impale" height="35" src="img/Impale.png" width="35"/> <a href="ability-tokens.html#Impale">Impale</a></li>
 </td>
 <td>-
 </td>
@@ -1194,14 +1194,14 @@ Bees/Event|Event||
 </td>
 <td>10 Pollen</td>
 <td>3 s</td>
-<td><span typeof="mw:Error mw:File"></span>180 <a href="honey.html"><span class="color-template color-template-honey">Honey</span></a></td>
+<td><img alt="Honey" height="25" src="img/Honey.png" width="25"/>180 <a href="honey.html"><span class="color-template color-template-honey">Honey</span></a></td>
 <td>2 s
 </td>
 <td>-
 </td>
 <td>+15% Instant White Conversion, x2 Boosts From Clouds
 </td>
-<td><li><span typeof="mw:Error mw:File"></span> <a href="ability-tokens.html#Boost">White Boost</a></li> <li><span typeof="mw:Error mw:File"></span> <a href="ability-tokens.html#Rain_Cloud">Rain Cloud</a></li> <li><img alt="Tornado" height="35" src="img/Tornado.png" width="35"/> <a href="ability-tokens.html#Tornado">Tornado</a></li>
+<td><li><img alt="White Boost" height="35" src="img/White_Boost.png" width="35"/> <a href="ability-tokens.html#Boost">White Boost</a></li> <li><img alt="Rain Cloud" height="35" src="img/Rain_Cloud.png" width="35"/> <a href="ability-tokens.html#Rain_Cloud">Rain Cloud</a></li> <li><img alt="Tornado" height="35" src="img/Tornado.png" width="35"/> <a href="ability-tokens.html#Tornado">Tornado</a></li>
 </td>
 <td>-
 </td>

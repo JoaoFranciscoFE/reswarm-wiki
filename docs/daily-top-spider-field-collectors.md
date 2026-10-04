@@ -13,7 +13,7 @@ For being in the Top 25 when the leaderboard resets, you will be awarded with th
 
 For being in the Top 100 when the leaderboard resets, you will be awarded with 25 [Tickets](ticket.md).
 
-<div class="wikia-gallery wikia-gallery-caption-below wikia-gallery-position-left wikia-gallery-spacing-medium wikia-gallery-border-small wikia-gallery-captions-left wikia-gallery-caption-size-medium" data-seq-no="0" hash="95fd1633a459de2186338a5a9dd9e4d0" id="gallery-0"><div class="wikia-gallery-caption"></div><div class="wikia-gallery-item" style="width:187px; "><div class="thumb" style="height:187px;"><div class="gallery-image-wrapper accent" id="Hivesticker_spider_field_stamp-png" style="position: relative; height:185px; width:185px;"><span style="line-height: 1;">Hivesticker spider field stamp.png</span></div></div><div class="lightbox-caption" style="width:185px;">Top 25 Prize for Daily Top Spider Field Collectors.</div></div></div>
+
 
 <table class="mw-collapsible mw-collapsed NavTable">
 <tbody><tr>

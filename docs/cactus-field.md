@@ -169,10 +169,6 @@ This is a 33×18 field, containing 594 [flowers](flowers.md). The flowers are wh
   * Reboot2020 (Gave Cactus Field Boost x3 and Cactus Field Winds x3 + other stuff).
   * BlackBearMythic (Gave Cactus Field Boost x3 and Cactus Field Capacity x3 + other stuff).
 
-## Gallery
-
-<div class="wikia-gallery wikia-gallery-caption-below wikia-gallery-position-left wikia-gallery-spacing-medium wikia-gallery-border-small wikia-gallery-captions-left wikia-gallery-caption-size-medium" data-seq-no="0" hash="f9aff44281dfd66db708163101abf5aa" id="gallery-0"><div class="wikia-gallery-caption"></div><div class="wikia-gallery-item" style="width:187px; "><div class="thumb" style="height:187px;"><div class="gallery-image-wrapper accent" id="Hivesticker_cactus_field_stamp-png" style="position: relative; height:185px; width:185px;"><span style="line-height: 1;">Hivesticker cactus field stamp.png</span></div></div><div class="lightbox-caption" style="width:185px;">The Cactus Field's associated <a href="sticker.html">field stamp</a>.</div></div></div>
-
 ## Trivia
 
 * This is the only field where three types of [treats](treats.md) can be found naturally in the same place.

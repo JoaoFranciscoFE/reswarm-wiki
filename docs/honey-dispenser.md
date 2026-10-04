@@ -17,7 +17,7 @@ Datamined information: The formula for the amount of Honey received based on the
 <h2 class="pi-item pi-header pi-secondary-font pi-item-spacing pi-secondary-background">Information</h2>
 <div class="pi-item pi-data pi-item-spacing pi-border-color" data-source="usage">
 <h3 class="pi-data-label pi-secondary-font">Usage</h3>
-<div class="pi-data-value pi-font">Giving <span typeof="mw:Error mw:File"></span><a href="honey.html"><span class="color-template color-template-honey">Honey</span></a> in proportion to the number of <a href="bees.html">bees</a> the player has.</div>
+<div class="pi-data-value pi-font">Giving <img alt="Honey" height="35" src="img/Honey.png" width="35"/><a href="honey.html"><span class="color-template color-template-honey">Honey</span></a> in proportion to the number of <a href="bees.html">bees</a> the player has.</div>
 </div>
 <div class="pi-item pi-data pi-item-spacing pi-border-color" data-source="requirement">
 <h3 class="pi-data-label pi-secondary-font">Requirement(s)</h3>
@@ -54,11 +54,11 @@ Below is a table of the amount of honey and treats a player receives, given the 
 <tbody><tr>
 <th>Bees
 </th>
-<th><span typeof="mw:Error mw:File"></span><a href="honey.html"><span class="color-template color-template-honey">Honey</span></a>
+<th><img alt="Honey" height="35" src="img/Honey.png" width="35"/><a href="honey.html"><span class="color-template color-template-honey">Honey</span></a>
 </th>
 <th>Bees
 </th>
-<th><span typeof="mw:Error mw:File"></span><a href="honey.html"><span class="color-template color-template-honey">Honey</span></a>
+<th><img alt="Honey" height="35" src="img/Honey.png" width="35"/><a href="honey.html"><span class="color-template color-template-honey">Honey</span></a>
 </th></tr>
 <tr>
 <td>0-1
@@ -285,10 +285,6 @@ Below is a table of the amount of honey and treats a player receives, given the 
 </td>
 <td>77,300
 </td></tr></tbody></table>
-
-## Gallery
-
-<div class="wikia-gallery wikia-gallery-caption-below wikia-gallery-position-left wikia-gallery-spacing-medium wikia-gallery-border-small wikia-gallery-captions-left wikia-gallery-caption-size-medium" data-seq-no="0" hash="9e148ddb91b022726947338d59437942" id="gallery-0"><div class="wikia-gallery-caption"></div><div class="wikia-gallery-item" style="width:207px; "><div class="thumb" style="height:207px;"><div class="gallery-image-wrapper accent" id="Honey_dispenser_during_beesmas-png" style="position: relative; height:205px; width:205px;"><span style="line-height: 1;">Honey dispenser during beesmas.png</span></div></div><div class="lightbox-caption" style="width:205px;">Honey Dispenser during Beesmas.</div></div><div class="wikia-gallery-item" style="width:207px; "><div class="thumb" style="height:207px;"><div class="gallery-image-wrapper accent" id="HoneyDispenser2-png" style="position: relative; height:205px; width:205px;"><span style="line-height: 1;">HoneyDispenser2.png</span></div></div><div class="lightbox-caption" style="width:205px;">The cooldown timer for attempting to use the Honey Dispenser within an hour of its last usage.</div></div></div>
 
 ## Trivia
 

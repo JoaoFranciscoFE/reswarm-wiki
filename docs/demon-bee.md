@@ -403,10 +403,6 @@ Demon Bee likes the [Mushroom Field](mushroom-field.md) and the [Spider Field](s
 </td></tr>
 </tbody></table>
 
-## Gallery
-
-<div class="wikia-gallery wikia-gallery-caption-below wikia-gallery-position-left wikia-gallery-spacing-medium wikia-gallery-border-small wikia-gallery-captions-left wikia-gallery-caption-size-medium" data-seq-no="0" hash="b835fba68ac8db37a291bdb5b230387b" id="gallery-0"><div class="wikia-gallery-caption"></div><div class="wikia-gallery-item" style="width:187px; "><div class="thumb" style="height:187px;"><div class="gallery-image-wrapper accent" id="DemonBee_Hive-png" style="position: relative; height:185px; width:185px;"><span style="line-height: 1;">DemonBee Hive.png</span></div></div><div class="lightbox-caption" style="width:185px;">Demon Bee's old hive slot design.</div></div><div class="wikia-gallery-item" style="width:187px; "><div class="thumb" style="height:187px;"><div class="gallery-image-wrapper accent" id="Gifted_Demon_Bee_hive-png" style="position: relative; height:185px; width:185px;"><span style="line-height: 1;">Gifted Demon Bee hive.png</span></div></div><div class="lightbox-caption" style="width:185px;">A Gifted Demon Bee hive slot.</div></div><div class="wikia-gallery-item" style="width:187px; "><div class="thumb" style="height:187px;"><div class="gallery-image-wrapper accent" id="Png_-19--png" style="position: relative; height:185px; width:185px;"><span style="line-height: 1;">Png (19).png</span></div></div><div class="lightbox-caption" style="width:185px;">Demon Bee's face.</div></div><div class="wikia-gallery-item" style="width:187px; "><div class="thumb" style="height:187px;"><div class="gallery-image-wrapper accent" id="Demonbeeradioactive-jpg" style="position: relative; height:185px; width:185px;"><span style="line-height: 1;">Demonbeeradioactive.jpg</span></div></div><div class="lightbox-caption" style="width:185px;">Radioactive Demon Bee.</div></div></div>
-
 ## Trivia
 
 * Demon Bee is one of the slowest [bees](bees.md) in the game, but is also one of the most powerful in terms of attack and gather amount.

@@ -13,7 +13,7 @@ If the player has reached the top 10 by the end of the day, they will be awarded
 
 If the player has reached the top 100 by the end of the day, they will be awarded with a [Ticket Voucher](sticker.md#Sticker_Index).
 
-<div class="wikia-gallery wikia-gallery-caption-below wikia-gallery-position-left wikia-gallery-spacing-medium wikia-gallery-border-small wikia-gallery-captions-left wikia-gallery-caption-size-medium" data-seq-no="0" hash="cc16a4c7e8df82eab90a7c3d0f4b07b7" id="gallery-0"><div class="wikia-gallery-caption"></div><div class="wikia-gallery-item" style="width:187px; "><div class="thumb" style="height:187px;"><div class="gallery-image-wrapper accent" id="Hivesticker_black_truffle_mushroom-png" style="position: relative; height:185px; width:185px;"><span style="line-height: 1;">Hivesticker black truffle mushroom.png</span></div></div><div class="lightbox-caption" style="width:185px;">Top 10 Prize for Daily Top Damage to A Single Puffshroom.</div></div></div>
+
 
 <table class="mw-collapsible mw-collapsed NavTable">
 <tbody><tr>

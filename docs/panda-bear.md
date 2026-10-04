@@ -103,7 +103,7 @@ Panda Bear can be reached through many methods. One option is to climb the ladde
 <td>
 <ul><li>Defeat 1 <a href="ladybug.html">Ladybug</a>.</li></ul>
 </td>
-<td>250 <span typeof="mw:Error mw:File"></span><a href="honey.html"><span class="color-template color-template-honey">Honey</span></a>
+<td>250 <img alt="Honey" height="35" src="img/Honey.png" width="35"/><a href="honey.html"><span class="color-template color-template-honey">Honey</span></a>
 </td></tr>
 <tr>
 <td>Rhino Rumble
@@ -111,7 +111,7 @@ Panda Bear can be reached through many methods. One option is to climb the ladde
 <td>
 <ul><li>Defeat 2 <a href="rhino-beetle.html">Rhino Beetles</a>.</li></ul>
 </td>
-<td>500 <span typeof="mw:Error mw:File"></span><a href="honey.html"><span class="color-template color-template-honey">Honey</span></a>
+<td>500 <img alt="Honey" height="35" src="img/Honey.png" width="35"/><a href="honey.html"><span class="color-template color-template-honey">Honey</span></a>
 </td></tr>
 <tr>
 <td>Beetle Battle
@@ -120,7 +120,7 @@ Panda Bear can be reached through many methods. One option is to climb the ladde
 <ul><li>Defeat 3 Rhino beetles.</li>
 <li>Defeat 3 Ladybugs.</li></ul>
 </td>
-<td>1,000 <span typeof="mw:Error mw:File"></span><a href="honey.html"><span class="color-template color-template-honey">Honey</span></a>
+<td>1,000 <img alt="Honey" height="35" src="img/Honey.png" width="35"/><a href="honey.html"><span class="color-template color-template-honey">Honey</span></a>
 </td></tr>
 <tr>
 <td>Spider Slayer
@@ -128,8 +128,8 @@ Panda Bear can be reached through many methods. One option is to climb the ladde
 <td>
 <ul><li>Defeat 1 <a href="spider.html">Spider</a>.</li></ul>
 </td>
-<td>1,000 <span typeof="mw:Error mw:File"></span><a href="honey.html"><span class="color-template color-template-honey">Honey</span></a><br/>
-<p>1x <span typeof="mw:Error mw:File"></span><a href="royal-jelly.html"><span class="color-template color-template-royal-jelly color-template-background-clip">Royal Jellies</span></a>
+<td>1,000 <img alt="Honey" height="35" src="img/Honey.png" width="35"/><a href="honey.html"><span class="color-template color-template-honey">Honey</span></a><br/>
+<p>1x <img alt="Royal Jelly" height="35" src="img/Royal_Jelly.png" width="35"/><a href="royal-jelly.html"><span class="color-template color-template-royal-jelly color-template-background-clip">Royal Jellies</span></a>
 </p>
 </td></tr>
 <tr>
@@ -138,7 +138,7 @@ Panda Bear can be reached through many methods. One option is to climb the ladde
 <td>
 <ul><li>Defeat 15 Ladybugs.</li></ul>
 </td>
-<td>4,000 <span typeof="mw:Error mw:File"></span><a href="honey.html"><span class="color-template color-template-honey">Honey</span></a>
+<td>4,000 <img alt="Honey" height="35" src="img/Honey.png" width="35"/><a href="honey.html"><span class="color-template color-template-honey">Honey</span></a>
 </td></tr>
 <tr>
 <td>Spider Slayer 2
@@ -146,7 +146,7 @@ Panda Bear can be reached through many methods. One option is to climb the ladde
 <td>
 <ul><li>Defeat 5 Spiders.</li></ul>
 </td>
-<td>10,000 <span typeof="mw:Error mw:File"></span><a href="honey.html"><span class="color-template color-template-honey">Honey</span></a>
+<td>10,000 <img alt="Honey" height="35" src="img/Honey.png" width="35"/><a href="honey.html"><span class="color-template color-template-honey">Honey</span></a>
 </td></tr>
 <tr>
 <td>Rhino Wrecking
@@ -154,7 +154,7 @@ Panda Bear can be reached through many methods. One option is to climb the ladde
 <td>
 <ul><li>Defeat 20 Rhino Beetles.</li></ul>
 </td>
-<td>8,000 <span typeof="mw:Error mw:File"></span><a href="honey.html"><span class="color-template color-template-honey">Honey</span></a>
+<td>8,000 <img alt="Honey" height="35" src="img/Honey.png" width="35"/><a href="honey.html"><span class="color-template color-template-honey">Honey</span></a>
 </td></tr>
 <tr>
 <td>Final Showdown
@@ -164,8 +164,8 @@ Panda Bear can be reached through many methods. One option is to climb the ladde
 <li>Defeat 20 Ladybugs.</li>
 <li>Defeat 10 Spiders.</li></ul>
 </td>
-<td>15,000 <span typeof="mw:Error mw:File"></span><a href="honey.html"><span class="color-template color-template-honey">Honey</span></a><br/>
-<p><span typeof="mw:Error mw:File"></span>1 <a href="egg.html#Silver_Egg"><span class="color-template color-template-silver-egg color-template-background-clip">Silver Egg</span></a>
+<td>15,000 <img alt="Honey" height="35" src="img/Honey.png" width="35"/><a href="honey.html"><span class="color-template color-template-honey">Honey</span></a><br/>
+<p><img alt="Silver Egg" height="25" src="img/Silver_Egg.png" width="25"/>1 <a href="egg.html#Silver_Egg"><span class="color-template color-template-silver-egg color-template-background-clip">Silver Egg</span></a>
 </p>
 </td></tr></tbody></table>
 
@@ -185,8 +185,8 @@ Panda Bear can be reached through many methods. One option is to climb the ladde
 <td>
 <ul><li>Defeat 1 <a href="werewolf.html">Werewolf</a>.</li></ul>
 </td>
-<td>1,000 <span typeof="mw:Error mw:File"></span><a href="honey.html"><span class="color-template color-template-honey">Honey</span></a><br/>
-<p>1x <span typeof="mw:Error mw:File"></span><a href="royal-jelly.html"><span class="color-template color-template-royal-jelly color-template-background-clip">Royal Jellies</span></a>
+<td>1,000 <img alt="Honey" height="35" src="img/Honey.png" width="35"/><a href="honey.html"><span class="color-template color-template-honey">Honey</span></a><br/>
+<p>1x <img alt="Royal Jelly" height="35" src="img/Royal_Jelly.png" width="35"/><a href="royal-jelly.html"><span class="color-template color-template-royal-jelly color-template-background-clip">Royal Jellies</span></a>
 </p>
 </td></tr>
 <tr>
@@ -195,8 +195,8 @@ Panda Bear can be reached through many methods. One option is to climb the ladde
 <td>
 <ul><li>Defeat 15 <a href="scorpion.html">Scorpions</a>.</li></ul>
 </td>
-<td>5,000 <span typeof="mw:Error mw:File"></span><a href="honey.html"><span class="color-template color-template-honey">Honey</span></a><br/>
-<p>1x <span typeof="mw:Error mw:File"></span><a href="royal-jelly.html"><span class="color-template color-template-royal-jelly color-template-background-clip">Royal Jellies</span></a>
+<td>5,000 <img alt="Honey" height="35" src="img/Honey.png" width="35"/><a href="honey.html"><span class="color-template color-template-honey">Honey</span></a><br/>
+<p>1x <img alt="Royal Jelly" height="35" src="img/Royal_Jelly.png" width="35"/><a href="royal-jelly.html"><span class="color-template color-template-royal-jelly color-template-background-clip">Royal Jellies</span></a>
 </p>
 </td></tr>
 <tr>
@@ -205,8 +205,8 @@ Panda Bear can be reached through many methods. One option is to climb the ladde
 <td>
 <ul><li>Defeat 20 <a href="mantis.html">Mantises</a>.</li></ul>
 </td>
-<td>10,000 <span typeof="mw:Error mw:File"></span><a href="honey.html"><span class="color-template color-template-honey">Honey</span></a><br/>
-<p>1x <span typeof="mw:Error mw:File"></span><a href="royal-jelly.html"><span class="color-template color-template-royal-jelly color-template-background-clip">Royal Jellies</span></a>
+<td>10,000 <img alt="Honey" height="35" src="img/Honey.png" width="35"/><a href="honey.html"><span class="color-template color-template-honey">Honey</span></a><br/>
+<p>1x <img alt="Royal Jelly" height="35" src="img/Royal_Jelly.png" width="35"/><a href="royal-jelly.html"><span class="color-template color-template-royal-jelly color-template-background-clip">Royal Jellies</span></a>
 </p>
 </td></tr>
 <tr>
@@ -220,8 +220,8 @@ Panda Bear can be reached through many methods. One option is to climb the ladde
 <li>Defeat 10 Spiders.</li>
 <li>Defeat 5 Werewolves.</li></ul>
 </td>
-<td>100,000 <span typeof="mw:Error mw:File"></span><a href="honey.html"><span class="color-template color-template-honey">Honey</span></a><br/>
-<p><span typeof="mw:Error mw:File"></span>1 <a href="egg.html#Gold_Egg"><span class="color-template color-template-gold-egg color-template-background-clip">Gold Egg</span></a>
+<td>100,000 <img alt="Honey" height="35" src="img/Honey.png" width="35"/><a href="honey.html"><span class="color-template color-template-honey">Honey</span></a><br/>
+<p><img alt="Gold Egg" height="25" src="img/Gold_Egg.png" width="25"/>1 <a href="egg.html#Gold_Egg"><span class="color-template color-template-gold-egg color-template-background-clip">Gold Egg</span></a>
 </p>
 </td></tr></tbody></table>
 
@@ -242,9 +242,9 @@ Panda Bear can be reached through many methods. One option is to climb the ladde
 <ul><li>Defeat 10 Ants.</li></ul>
 </td>
 <td>1 <a href="ant-pass.html">Ant Pass</a> (when quest accepted)
-<p>50,000 <span typeof="mw:Error mw:File"></span><a href="honey.html"><span class="color-template color-template-honey">Honey</span></a><br/>
-1x <span typeof="mw:Error mw:File"></span><a href="ticket.html"><span class="color-template color-template-ticket color-template-background-clip">Tickets</span></a><br/>
-1x <span typeof="mw:Error mw:File"></span><a href="ant-pass.html"><span class="color-template color-template-ant-pass color-template-background-clip">Ant Passes</span></a>
+<p>50,000 <img alt="Honey" height="35" src="img/Honey.png" width="35"/><a href="honey.html"><span class="color-template color-template-honey">Honey</span></a><br/>
+1x <img alt="Ticket" height="35" src="img/Ticket.png" width="35"/><a href="ticket.html"><span class="color-template color-template-ticket color-template-background-clip">Tickets</span></a><br/>
+1x <img alt="Ant Pass" height="35" src="img/Ant_Pass.png" width="35"/><a href="ant-pass.html"><span class="color-template color-template-ant-pass color-template-background-clip">Ant Passes</span></a>
 </p>
 </td></tr>
 <tr>
@@ -254,9 +254,9 @@ Panda Bear can be reached through many methods. One option is to climb the ladde
 <ul><li>Defeat 15 Ants.</li>
 <li>Defeat 10 <a href="flying-ant.html">Flying Ants</a>.</li></ul>
 </td>
-<td>75,000 <span typeof="mw:Error mw:File"></span><a href="honey.html"><span class="color-template color-template-honey">Honey</span></a><br/>
-<p>1x <span typeof="mw:Error mw:File"></span><a href="ticket.html"><span class="color-template color-template-ticket color-template-background-clip">Tickets</span></a><br/>
-1x <span typeof="mw:Error mw:File"></span><a href="ant-pass.html"><span class="color-template color-template-ant-pass color-template-background-clip">Ant Passes</span></a>
+<td>75,000 <img alt="Honey" height="35" src="img/Honey.png" width="35"/><a href="honey.html"><span class="color-template color-template-honey">Honey</span></a><br/>
+<p>1x <img alt="Ticket" height="35" src="img/Ticket.png" width="35"/><a href="ticket.html"><span class="color-template color-template-ticket color-template-background-clip">Tickets</span></a><br/>
+1x <img alt="Ant Pass" height="35" src="img/Ant_Pass.png" width="35"/><a href="ant-pass.html"><span class="color-template color-template-ant-pass color-template-background-clip">Ant Passes</span></a>
 </p>
 </td></tr>
 <tr>
@@ -265,10 +265,10 @@ Panda Bear can be reached through many methods. One option is to climb the ladde
 <td>
 <ul><li>Defeat 15 <a href="fire-ant.html">Fire Ants</a>.</li></ul>
 </td>
-<td>100,000 <span typeof="mw:Error mw:File"></span><a href="honey.html"><span class="color-template color-template-honey">Honey</span></a><br/>
-<p>1x <span typeof="mw:Error mw:File"></span><a href="royal-jelly.html"><span class="color-template color-template-royal-jelly color-template-background-clip">Royal Jellies</span></a><br/>
-1x <span typeof="mw:Error mw:File"></span><a href="ticket.html"><span class="color-template color-template-ticket color-template-background-clip">Tickets</span></a><br/>
-1x <span typeof="mw:Error mw:File"></span><a href="ant-pass.html"><span class="color-template color-template-ant-pass color-template-background-clip">Ant Passes</span></a>
+<td>100,000 <img alt="Honey" height="35" src="img/Honey.png" width="35"/><a href="honey.html"><span class="color-template color-template-honey">Honey</span></a><br/>
+<p>1x <img alt="Royal Jelly" height="35" src="img/Royal_Jelly.png" width="35"/><a href="royal-jelly.html"><span class="color-template color-template-royal-jelly color-template-background-clip">Royal Jellies</span></a><br/>
+1x <img alt="Ticket" height="35" src="img/Ticket.png" width="35"/><a href="ticket.html"><span class="color-template color-template-ticket color-template-background-clip">Tickets</span></a><br/>
+1x <img alt="Ant Pass" height="35" src="img/Ant_Pass.png" width="35"/><a href="ant-pass.html"><span class="color-template color-template-ant-pass color-template-background-clip">Ant Passes</span></a>
 </p>
 </td></tr>
 <tr>
@@ -278,10 +278,10 @@ Panda Bear can be reached through many methods. One option is to climb the ladde
 <ul><li>Defeat 25 Ants.</li>
 <li>Defeat 15 <a href="army-ant.html">Army Ants</a>.</li></ul>
 </td>
-<td>200,000 <span typeof="mw:Error mw:File"></span><a href="honey.html"><span class="color-template color-template-honey">Honey</span></a><br/>
-<p>1x <span typeof="mw:Error mw:File"></span><a href="royal-jelly.html"><span class="color-template color-template-royal-jelly color-template-background-clip">Royal Jellies</span></a><br/>
-1x <span typeof="mw:Error mw:File"></span><a href="ticket.html"><span class="color-template color-template-ticket color-template-background-clip">Tickets</span></a><br/>
-1x <span typeof="mw:Error mw:File"></span><a href="ant-pass.html"><span class="color-template color-template-ant-pass color-template-background-clip">Ant Passes</span></a>
+<td>200,000 <img alt="Honey" height="35" src="img/Honey.png" width="35"/><a href="honey.html"><span class="color-template color-template-honey">Honey</span></a><br/>
+<p>1x <img alt="Royal Jelly" height="35" src="img/Royal_Jelly.png" width="35"/><a href="royal-jelly.html"><span class="color-template color-template-royal-jelly color-template-background-clip">Royal Jellies</span></a><br/>
+1x <img alt="Ticket" height="35" src="img/Ticket.png" width="35"/><a href="ticket.html"><span class="color-template color-template-ticket color-template-background-clip">Tickets</span></a><br/>
+1x <img alt="Ant Pass" height="35" src="img/Ant_Pass.png" width="35"/><a href="ant-pass.html"><span class="color-template color-template-ant-pass color-template-background-clip">Ant Passes</span></a>
 </p>
 </td></tr>
 <tr>
@@ -291,10 +291,10 @@ Panda Bear can be reached through many methods. One option is to climb the ladde
 <ul><li>Defeat 10 <a href="giant-ant.html">Giant Ants</a>.</li>
 <li>Get a Score of 50 in the <a href="ant-challenge.html">Ant Challenge</a>.</li></ul>
 </td>
-<td>400,000 <span typeof="mw:Error mw:File"></span><a href="honey.html"><span class="color-template color-template-honey">Honey</span></a><br/>
-<p>1x <span typeof="mw:Error mw:File"></span><a href="ticket.html"><span class="color-template color-template-ticket color-template-background-clip">Tickets</span></a><br/>
-1x <span typeof="mw:Error mw:File"></span><a href="ant-pass.html"><span class="color-template color-template-ant-pass color-template-background-clip">Ant Passes</span></a><br/>
-<span typeof="mw:Error mw:File"></span>1 <a href="egg.html#Diamond_Egg"><span class="color-template color-template-diamond-egg color-template-background-clip">Diamond Egg</span></a>
+<td>400,000 <img alt="Honey" height="35" src="img/Honey.png" width="35"/><a href="honey.html"><span class="color-template color-template-honey">Honey</span></a><br/>
+<p>1x <img alt="Ticket" height="35" src="img/Ticket.png" width="35"/><a href="ticket.html"><span class="color-template color-template-ticket color-template-background-clip">Tickets</span></a><br/>
+1x <img alt="Ant Pass" height="35" src="img/Ant_Pass.png" width="35"/><a href="ant-pass.html"><span class="color-template color-template-ant-pass color-template-background-clip">Ant Passes</span></a><br/>
+<img alt="Diamond Egg" height="25" src="img/Diamond_Egg.png" width="25"/>1 <a href="egg.html#Diamond_Egg"><span class="color-template color-template-diamond-egg color-template-background-clip">Diamond Egg</span></a>
 </p>
 </td></tr>
 <tr>
@@ -306,10 +306,10 @@ Panda Bear can be reached through many methods. One option is to climb the ladde
 <li>Defeat 5 Spiders.</li>
 <li>Defeat 1 Werewolf.</li></ul>
 </td>
-<td>750,000 <span typeof="mw:Error mw:File"></span><a href="honey.html"><span class="color-template color-template-honey">Honey</span></a><br/>
-<p>3x <span typeof="mw:Error mw:File"></span><a href="royal-jelly.html"><span class="color-template color-template-royal-jelly color-template-background-clip">Royal Jellies</span></a><br/>
-6x <span typeof="mw:Error mw:File"></span><a href="ticket.html"><span class="color-template color-template-ticket color-template-background-clip">Tickets</span></a><br/>
-1x <span typeof="mw:Error mw:File"></span><a href="ant-pass.html"><span class="color-template color-template-ant-pass color-template-background-clip">Ant Passes</span></a>
+<td>750,000 <img alt="Honey" height="35" src="img/Honey.png" width="35"/><a href="honey.html"><span class="color-template color-template-honey">Honey</span></a><br/>
+<p>3x <img alt="Royal Jelly" height="35" src="img/Royal_Jelly.png" width="35"/><a href="royal-jelly.html"><span class="color-template color-template-royal-jelly color-template-background-clip">Royal Jellies</span></a><br/>
+6x <img alt="Ticket" height="35" src="img/Ticket.png" width="35"/><a href="ticket.html"><span class="color-template color-template-ticket color-template-background-clip">Tickets</span></a><br/>
+1x <img alt="Ant Pass" height="35" src="img/Ant_Pass.png" width="35"/><a href="ant-pass.html"><span class="color-template color-template-ant-pass color-template-background-clip">Ant Passes</span></a>
 </p>
 </td></tr>
 <tr>
@@ -320,10 +320,10 @@ Panda Bear can be reached through many methods. One option is to climb the ladde
 <li>Defeat 15 Mantises.</li>
 <li>Defeat 3 Werewolves.</li></ul>
 </td>
-<td>1,000,000 <span typeof="mw:Error mw:File"></span><a href="honey.html"><span class="color-template color-template-honey">Honey</span></a><br/>
-<p>3x <span typeof="mw:Error mw:File"></span><a href="royal-jelly.html"><span class="color-template color-template-royal-jelly color-template-background-clip">Royal Jellies</span></a><br/>
-7x <span typeof="mw:Error mw:File"></span><a href="ticket.html"><span class="color-template color-template-ticket color-template-background-clip">Tickets</span></a><br/>
-1x <span typeof="mw:Error mw:File"></span><a href="ant-pass.html"><span class="color-template color-template-ant-pass color-template-background-clip">Ant Passes</span></a>
+<td>1,000,000 <img alt="Honey" height="35" src="img/Honey.png" width="35"/><a href="honey.html"><span class="color-template color-template-honey">Honey</span></a><br/>
+<p>3x <img alt="Royal Jelly" height="35" src="img/Royal_Jelly.png" width="35"/><a href="royal-jelly.html"><span class="color-template color-template-royal-jelly color-template-background-clip">Royal Jellies</span></a><br/>
+7x <img alt="Ticket" height="35" src="img/Ticket.png" width="35"/><a href="ticket.html"><span class="color-template color-template-ticket color-template-background-clip">Tickets</span></a><br/>
+1x <img alt="Ant Pass" height="35" src="img/Ant_Pass.png" width="35"/><a href="ant-pass.html"><span class="color-template color-template-ant-pass color-template-background-clip">Ant Passes</span></a>
 </p>
 </td></tr>
 <tr>
@@ -335,10 +335,10 @@ Panda Bear can be reached through many methods. One option is to climb the ladde
 <li>Defeat 20 Scorpions.</li>
 <li>Defeat 40 Rhino Beetles.</li></ul>
 </td>
-<td>1,500,000 <span typeof="mw:Error mw:File"></span><a href="honey.html"><span class="color-template color-template-honey">Honey</span></a><br/>
-<p>3x <span typeof="mw:Error mw:File"></span><a href="royal-jelly.html"><span class="color-template color-template-royal-jelly color-template-background-clip">Royal Jellies</span></a><br/>
-8x <span typeof="mw:Error mw:File"></span><a href="ticket.html"><span class="color-template color-template-ticket color-template-background-clip">Tickets</span></a><br/>
-1x <span typeof="mw:Error mw:File"></span><a href="ant-pass.html"><span class="color-template color-template-ant-pass color-template-background-clip">Ant Passes</span></a>
+<td>1,500,000 <img alt="Honey" height="35" src="img/Honey.png" width="35"/><a href="honey.html"><span class="color-template color-template-honey">Honey</span></a><br/>
+<p>3x <img alt="Royal Jelly" height="35" src="img/Royal_Jelly.png" width="35"/><a href="royal-jelly.html"><span class="color-template color-template-royal-jelly color-template-background-clip">Royal Jellies</span></a><br/>
+8x <img alt="Ticket" height="35" src="img/Ticket.png" width="35"/><a href="ticket.html"><span class="color-template color-template-ticket color-template-background-clip">Tickets</span></a><br/>
+1x <img alt="Ant Pass" height="35" src="img/Ant_Pass.png" width="35"/><a href="ant-pass.html"><span class="color-template color-template-ant-pass color-template-background-clip">Ant Passes</span></a>
 </p>
 </td></tr>
 <tr>
@@ -351,10 +351,10 @@ Panda Bear can be reached through many methods. One option is to climb the ladde
 <li>Defeat 20 Mantises.</li>
 <li>Defeat 5 Werewolves.</li></ul>
 </td>
-<td>2,500,000 <span typeof="mw:Error mw:File"></span><a href="honey.html"><span class="color-template color-template-honey">Honey</span></a><br/>
-<p>3x <span typeof="mw:Error mw:File"></span><a href="royal-jelly.html"><span class="color-template color-template-royal-jelly color-template-background-clip">Royal Jellies</span></a><br/>
-9x <span typeof="mw:Error mw:File"></span><a href="ticket.html"><span class="color-template color-template-ticket color-template-background-clip">Tickets</span></a><br/>
-1x<span typeof="mw:Error mw:File"></span><a href="ant-pass.html"><span class="color-template color-template-ant-pass color-template-background-clip">Ant Passes</span></a>
+<td>2,500,000 <img alt="Honey" height="35" src="img/Honey.png" width="35"/><a href="honey.html"><span class="color-template color-template-honey">Honey</span></a><br/>
+<p>3x <img alt="Royal Jelly" height="35" src="img/Royal_Jelly.png" width="35"/><a href="royal-jelly.html"><span class="color-template color-template-royal-jelly color-template-background-clip">Royal Jellies</span></a><br/>
+9x <img alt="Ticket" height="35" src="img/Ticket.png" width="35"/><a href="ticket.html"><span class="color-template color-template-ticket color-template-background-clip">Tickets</span></a><br/>
+1x<img alt="Ant Pass" height="35" src="img/Ant_Pass.png" width="35"/><a href="ant-pass.html"><span class="color-template color-template-ant-pass color-template-background-clip">Ant Passes</span></a>
 </p>
 </td></tr>
 <tr>
@@ -366,11 +366,11 @@ Panda Bear can be reached through many methods. One option is to climb the ladde
 <li>Defeat 1 <a href="king-beetle.html">King Beetle</a>.</li>
 <li>Get a Score of 75 in the Ant Challenge.</li></ul>
 </td>
-<td>5,000,000 <span typeof="mw:Error mw:File"></span><a href="honey.html"><span class="color-template color-template-honey">Honey</span></a><br/>
-<p>3x <span typeof="mw:Error mw:File"></span><a href="royal-jelly.html"><span class="color-template color-template-royal-jelly color-template-background-clip">Royal Jellies</span></a><br/>
-10x <span typeof="mw:Error mw:File"></span><a href="ticket.html"><span class="color-template color-template-ticket color-template-background-clip">Tickets</span></a><br/>
-1x <span typeof="mw:Error mw:File"></span><a href="ant-pass.html"><span class="color-template color-template-ant-pass color-template-background-clip">Ant Passes</span></a><br/>
-<span typeof="mw:Error mw:File"></span>1 <a href="egg.html#Star_Egg"><span class="color-template color-template-star-egg color-template-background-clip">Star Egg</span></a>
+<td>5,000,000 <img alt="Honey" height="35" src="img/Honey.png" width="35"/><a href="honey.html"><span class="color-template color-template-honey">Honey</span></a><br/>
+<p>3x <img alt="Royal Jelly" height="35" src="img/Royal_Jelly.png" width="35"/><a href="royal-jelly.html"><span class="color-template color-template-royal-jelly color-template-background-clip">Royal Jellies</span></a><br/>
+10x <img alt="Ticket" height="35" src="img/Ticket.png" width="35"/><a href="ticket.html"><span class="color-template color-template-ticket color-template-background-clip">Tickets</span></a><br/>
+1x <img alt="Ant Pass" height="35" src="img/Ant_Pass.png" width="35"/><a href="ant-pass.html"><span class="color-template color-template-ant-pass color-template-background-clip">Ant Passes</span></a><br/>
+<img alt="Star Egg" height="25" src="img/Star_Egg.png" width="25"/>1 <a href="egg.html#Star_Egg"><span class="color-template color-template-star-egg color-template-background-clip">Star Egg</span></a>
 </p>
 </td></tr>
 <tr>
@@ -381,10 +381,10 @@ Panda Bear can be reached through many methods. One option is to climb the ladde
 <li>Defeat 10 Spiders.</li>
 <li>Defeat 5 Werewolves.</li></ul>
 </td>
-<td>10,000,000 <span typeof="mw:Error mw:File"></span><a href="honey.html"><span class="color-template color-template-honey">Honey</span></a><br/>
-<p>5x <span typeof="mw:Error mw:File"></span><a href="royal-jelly.html"><span class="color-template color-template-royal-jelly color-template-background-clip">Royal Jellies</span></a><br/>
-11x <span typeof="mw:Error mw:File"></span><a href="ticket.html"><span class="color-template color-template-ticket color-template-background-clip">Tickets</span></a><br/>
-1x <span typeof="mw:Error mw:File"></span><a href="ant-pass.html"><span class="color-template color-template-ant-pass color-template-background-clip">Ant Passes</span></a>
+<td>10,000,000 <img alt="Honey" height="35" src="img/Honey.png" width="35"/><a href="honey.html"><span class="color-template color-template-honey">Honey</span></a><br/>
+<p>5x <img alt="Royal Jelly" height="35" src="img/Royal_Jelly.png" width="35"/><a href="royal-jelly.html"><span class="color-template color-template-royal-jelly color-template-background-clip">Royal Jellies</span></a><br/>
+11x <img alt="Ticket" height="35" src="img/Ticket.png" width="35"/><a href="ticket.html"><span class="color-template color-template-ticket color-template-background-clip">Tickets</span></a><br/>
+1x <img alt="Ant Pass" height="35" src="img/Ant_Pass.png" width="35"/><a href="ant-pass.html"><span class="color-template color-template-ant-pass color-template-background-clip">Ant Passes</span></a>
 </p>
 </td></tr>
 <tr>
@@ -396,10 +396,10 @@ Panda Bear can be reached through many methods. One option is to climb the ladde
 <li>Defeat 50 Scorpions.</li>
 <li>Defeat 1 King Beetle.</li></ul>
 </td>
-<td>15,000,000 <span typeof="mw:Error mw:File"></span><a href="honey.html"><span class="color-template color-template-honey">Honey</span></a><br/>
-<p>6x <span typeof="mw:Error mw:File"></span><a href="royal-jelly.html"><span class="color-template color-template-royal-jelly color-template-background-clip">Royal Jellies</span></a><br/>
-12x <span typeof="mw:Error mw:File"></span><a href="ticket.html"><span class="color-template color-template-ticket color-template-background-clip">Tickets</span></a><br/>
-1x <span typeof="mw:Error mw:File"></span><a href="ant-pass.html"><span class="color-template color-template-ant-pass color-template-background-clip">Ant Passes</span></a>
+<td>15,000,000 <img alt="Honey" height="35" src="img/Honey.png" width="35"/><a href="honey.html"><span class="color-template color-template-honey">Honey</span></a><br/>
+<p>6x <img alt="Royal Jelly" height="35" src="img/Royal_Jelly.png" width="35"/><a href="royal-jelly.html"><span class="color-template color-template-royal-jelly color-template-background-clip">Royal Jellies</span></a><br/>
+12x <img alt="Ticket" height="35" src="img/Ticket.png" width="35"/><a href="ticket.html"><span class="color-template color-template-ticket color-template-background-clip">Tickets</span></a><br/>
+1x <img alt="Ant Pass" height="35" src="img/Ant_Pass.png" width="35"/><a href="ant-pass.html"><span class="color-template color-template-ant-pass color-template-background-clip">Ant Passes</span></a>
 </p>
 </td></tr>
 <tr>
@@ -411,10 +411,10 @@ Panda Bear can be reached through many methods. One option is to climb the ladde
 <li>Defeat 75 Mantises.</li>
 <li>Defeat 1 King Beetle.</li></ul>
 </td>
-<td>20,000,000 <span typeof="mw:Error mw:File"></span><a href="honey.html"><span class="color-template color-template-honey">Honey</span></a><br/>
-<p>7x <span typeof="mw:Error mw:File"></span><a href="royal-jelly.html"><span class="color-template color-template-royal-jelly color-template-background-clip">Royal Jellies</span></a><br/>
-13x <span typeof="mw:Error mw:File"></span><a href="ticket.html"><span class="color-template color-template-ticket color-template-background-clip">Tickets</span></a><br/>
-1x <span typeof="mw:Error mw:File"></span><a href="ant-pass.html"><span class="color-template color-template-ant-pass color-template-background-clip">Ant Passes</span></a>
+<td>20,000,000 <img alt="Honey" height="35" src="img/Honey.png" width="35"/><a href="honey.html"><span class="color-template color-template-honey">Honey</span></a><br/>
+<p>7x <img alt="Royal Jelly" height="35" src="img/Royal_Jelly.png" width="35"/><a href="royal-jelly.html"><span class="color-template color-template-royal-jelly color-template-background-clip">Royal Jellies</span></a><br/>
+13x <img alt="Ticket" height="35" src="img/Ticket.png" width="35"/><a href="ticket.html"><span class="color-template color-template-ticket color-template-background-clip">Tickets</span></a><br/>
+1x <img alt="Ant Pass" height="35" src="img/Ant_Pass.png" width="35"/><a href="ant-pass.html"><span class="color-template color-template-ant-pass color-template-background-clip">Ant Passes</span></a>
 </p>
 </td></tr>
 <tr>
@@ -427,10 +427,10 @@ Panda Bear can be reached through many methods. One option is to climb the ladde
 <li>Defeat 250 Rhino Beetles.</li>
 <li>Defeat 1 King Beetle.</li></ul>
 </td>
-<td>25,000,000 <span typeof="mw:Error mw:File"></span><a href="honey.html"><span class="color-template color-template-honey">Honey</span></a><br/>
-<p>8x <span typeof="mw:Error mw:File"></span><a href="royal-jelly.html"><span class="color-template color-template-royal-jelly color-template-background-clip">Royal Jellies</span></a><br/>
-14x <span typeof="mw:Error mw:File"></span><a href="ticket.html"><span class="color-template color-template-ticket color-template-background-clip">Tickets</span></a><br/>
-1x <span typeof="mw:Error mw:File"></span><a href="ant-pass.html"><span class="color-template color-template-ant-pass color-template-background-clip">Ant Passes</span></a>
+<td>25,000,000 <img alt="Honey" height="35" src="img/Honey.png" width="35"/><a href="honey.html"><span class="color-template color-template-honey">Honey</span></a><br/>
+<p>8x <img alt="Royal Jelly" height="35" src="img/Royal_Jelly.png" width="35"/><a href="royal-jelly.html"><span class="color-template color-template-royal-jelly color-template-background-clip">Royal Jellies</span></a><br/>
+14x <img alt="Ticket" height="35" src="img/Ticket.png" width="35"/><a href="ticket.html"><span class="color-template color-template-ticket color-template-background-clip">Tickets</span></a><br/>
+1x <img alt="Ant Pass" height="35" src="img/Ant_Pass.png" width="35"/><a href="ant-pass.html"><span class="color-template color-template-ant-pass color-template-background-clip">Ant Passes</span></a>
 </p>
 </td></tr>
 <tr>
@@ -444,9 +444,9 @@ Panda Bear can be reached through many methods. One option is to climb the ladde
 <li>Defeat 1 <a href="tunnel-bear.html">Tunnel Bear</a>.</li>
 <li>Get a Score of 100 in the Ant Challenge.</li></ul>
 </td>
-<td>50,000,000 <span typeof="mw:Error mw:File"></span><a href="honey.html"><span class="color-template color-template-honey">Honey</span></a><br/>
-<p>25x <span typeof="mw:Error mw:File"></span><a href="ticket.html"><span class="color-template color-template-ticket color-template-background-clip">Tickets</span></a><br/>
-<span typeof="mw:Error mw:File"></span>1 <a href="star-treat.html"><span class="color-template color-template-star-treat color-template-background-clip">Star Treat</span></a>
+<td>50,000,000 <img alt="Honey" height="35" src="img/Honey.png" width="35"/><a href="honey.html"><span class="color-template color-template-honey">Honey</span></a><br/>
+<p>25x <img alt="Ticket" height="35" src="img/Ticket.png" width="35"/><a href="ticket.html"><span class="color-template color-template-ticket color-template-background-clip">Tickets</span></a><br/>
+<img alt="Star Treat" height="25" src="img/Star_Treat.png" width="25"/>1 <a href="star-treat.html"><span class="color-template color-template-star-treat color-template-background-clip">Star Treat</span></a>
 </p>
 </td></tr></tbody></table>
 
@@ -472,10 +472,10 @@ You need to complete [Science Bear](science-bear.md)'s "Repairing The White Driv
 <li>Get Blown Away by <a href="wild-windy-bee.html">Windy Bee</a> 50 times.</li>
 <li>Defeat 1 <a href="king-beetle.html">King Beetle</a>.</li></ul>
 </td>
-<td>50,000,000 <span typeof="mw:Error mw:File"></span><a href="honey.html"><span class="color-template color-template-honey">Honey</span></a><br/>
-<p>25x <span typeof="mw:Error mw:File"></span><a href="stinger.html"><span class="color-template color-template-stinger color-template-background-clip">Stingers</span></a><br/>
-3x <span typeof="mw:Error mw:File"></span><a href="loaded-dice.html"><span class="color-template color-template-loaded-dice color-template-background-clip">Loaded Dice</span></a><br/>
-1x <span typeof="mw:Error mw:File"></span><a href="drives.html#Red_Drive"><span class="color-template color-template-red-drive color-template-background-clip">Red Drives</span></a>
+<td>50,000,000 <img alt="Honey" height="35" src="img/Honey.png" width="35"/><a href="honey.html"><span class="color-template color-template-honey">Honey</span></a><br/>
+<p>25x <img alt="Stinger" height="35" src="img/Stinger.png" width="35"/><a href="stinger.html"><span class="color-template color-template-stinger color-template-background-clip">Stingers</span></a><br/>
+3x <img alt="Loaded Dice" height="35" src="img/Loaded_Dice.png" width="35"/><a href="loaded-dice.html"><span class="color-template color-template-loaded-dice color-template-background-clip">Loaded Dice</span></a><br/>
+1x <img alt="Red Drive" height="35" src="img/Red_Drive.png" width="35"/><a href="drives.html#Red_Drive"><span class="color-template color-template-red-drive color-template-background-clip">Red Drives</span></a>
 </p>
 </td></tr></tbody></table>
 
@@ -824,11 +824,11 @@ The following content has been removed from the game. The contents below may be 
 <li>Obtain 6 <a href="blueberry.html">Blueberries</a> to give to Panda Bear.</li></ul>
 </td>
 <td>
-<p><span typeof="mw:Error mw:File"></span>500,000 <a href="honey.html"><span class="color-template color-template-honey">Honey</span></a><br/>
-<span typeof="mw:Error mw:File"></span>10 <a href="ticket.html"><span class="color-template color-template-ticket color-template-background-clip">Tickets</span></a><br/>
-<span typeof="mw:Error mw:File"></span>3 <a href="ant-pass.html"><span class="color-template color-template-ant-pass color-template-background-clip">Ant Passes</span></a><br/>
-<span typeof="mw:Error mw:File"></span>10 <a href="stinger.html"><span class="color-template color-template-stinger color-template-background-clip">Stingers</span></a><br/>
-<span typeof="mw:Error mw:File"></span>1 <a href="gingerbread-bear.html"><span class="color-template color-template-gingerbread-bear color-template-background-clip">Gingerbread Bear</span></a><br/>
+<p><img alt="Honey" height="25" src="img/Honey.png" width="25"/>500,000 <a href="honey.html"><span class="color-template color-template-honey">Honey</span></a><br/>
+<img alt="Ticket" height="25" src="img/Ticket.png" width="25"/>10 <a href="ticket.html"><span class="color-template color-template-ticket color-template-background-clip">Tickets</span></a><br/>
+<img alt="Ant Pass" height="25" src="img/Ant_Pass.png" width="25"/>3 <a href="ant-pass.html"><span class="color-template color-template-ant-pass color-template-background-clip">Ant Passes</span></a><br/>
+<img alt="Stinger" height="25" src="img/Stinger.png" width="25"/>10 <a href="stinger.html"><span class="color-template color-template-stinger color-template-background-clip">Stingers</span></a><br/>
+<img alt="Gingerbread Bear" height="25" src="img/Gingerbread_Bear.png" width="25"/>1 <a href="gingerbread-bear.html"><span class="color-template color-template-gingerbread-bear color-template-background-clip">Gingerbread Bear</span></a><br/>
 Access to summoning <a href="snowbear.html">Snowbear</a>
 </p>
 <hr/>

@@ -196,10 +196,6 @@ The **Party Cogmower** is one of the mobs exclusive to Robo Party. It functions 
 * Stand near the Party Cogmower, this will allow your bees to lock on to the Party Cogmower and quickly deal damage.
 * [Vicious Bee](vicious-bee.md) provides very strong single-target damage. [Digital Bee](digital-bee.md) can also stun the Party Cogmower in place and allow it to take extra damage via [Mind Hack](ability-tokens.md#Mind_Hack).
 
-## Gallery
-
-<div class="wikia-gallery wikia-gallery-caption-below wikia-gallery-position-left wikia-gallery-spacing-medium wikia-gallery-border-small wikia-gallery-captions-left wikia-gallery-caption-size-medium" data-seq-no="0" hash="8837d145a981299ced7c63bfb466baf0" id="gallery-0"><div class="wikia-gallery-caption"></div><div class="wikia-gallery-item" style="width:187px; "><div class="thumb" style="height:187px;"><div class="gallery-image-wrapper accent" id="Screenshot_2023-04-02_070058-png" style="position: relative; height:185px; width:185px;"><span style="line-height: 1;">Screenshot 2023-04-02 070058.png</span></div></div><div class="lightbox-caption" style="width:185px;">A Party Cogmower roaming around a field.</div></div><div class="wikia-gallery-item" style="width:187px; "><div class="thumb" style="height:187px;"><div class="gallery-image-wrapper accent" id="PartyCogmower1-png" style="position: relative; height:185px; width:185px;"><span style="line-height: 1;">PartyCogmower1.png</span></div></div><div class="lightbox-caption" style="width:185px;">Two Party Cogmowers going in opposite directions of each other.</div></div></div>
-
 ## Trivia
 
 * This is one of the first mobs to appear during a Robo Party if the player is just starting at the first ranks.

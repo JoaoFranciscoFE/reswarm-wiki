@@ -115,7 +115,7 @@ He made five appearances. His first visit was from April 27, 2018, to May 13, 20
 <li>Defeat 2 <a href="rhino-beetle.html">Rhino Beetles</a>.</li>
 <li>Defeat 2 <a href="ladybug.html">Ladybugs</a>.</li></ul>
 </td>
-<td><span typeof="mw:Error mw:File"></span>1,500 <a href="honey.html"><span class="color-template color-template-honey">Honey</span></a><br/><span typeof="mw:Error mw:File"></span>1 <a href="ticket.html"><span class="color-template color-template-ticket color-template-background-clip">Ticket</span></a>
+<td><img alt="Honey" height="25" src="img/Honey.png" width="25"/>1,500 <a href="honey.html"><span class="color-template color-template-honey">Honey</span></a><br/><img alt="Ticket" height="25" src="img/Ticket.png" width="25"/>1 <a href="ticket.html"><span class="color-template color-template-ticket color-template-background-clip">Ticket</span></a>
 </td></tr>
 <tr>
 <td>Bring On The Bombs
@@ -124,7 +124,7 @@ He made five appearances. His first visit was from April 27, 2018, to May 13, 20
 <ul><li>Collect 25 <a href="ability-tokens.html#Bomb">Bomb Tokens</a>.</li>
 <li>Collect 5,000 <a href="pollen.html">Pollen</a> from the <a href="dandelion-field.html">Dandelion Field</a>.</li></ul>
 </td>
-<td><span typeof="mw:Error mw:File"></span>5,500 <a href="honey.html"><span class="color-template color-template-honey">Honey</span></a>
+<td><img alt="Honey" height="25" src="img/Honey.png" width="25"/>5,500 <a href="honey.html"><span class="color-template color-template-honey">Honey</span></a>
 </td></tr>
 <tr>
 <td>Boost Brilliance
@@ -135,7 +135,7 @@ He made five appearances. His first visit was from April 27, 2018, to May 13, 20
 <li>Collect 8,000 <a href="pollen.html">Red Pollen</a>.</li>
 <li>Collect 8,000 <a href="pollen.html">Blue Pollen</a>.</li></ul>
 </td>
-<td><span typeof="mw:Error mw:File"></span>13,500 <a href="honey.html"><span class="color-template color-template-honey">Honey</span></a>
+<td><img alt="Honey" height="25" src="img/Honey.png" width="25"/>13,500 <a href="honey.html"><span class="color-template color-template-honey">Honey</span></a>
 </td></tr>
 <tr>
 <td>A Need For Haste
@@ -145,7 +145,7 @@ He made five appearances. His first visit was from April 27, 2018, to May 13, 20
 <li>Defeat 12 <a href="rhino-beetle.html">Rhino Beetles</a>.</li>
 <li>Collect 31,000 <a href="pollen.html">Pollen</a> from the <a href="clover-field.html">Clover Field</a>.</li></ul>
 </td>
-<td><span typeof="mw:Error mw:File"></span>21,500 <a href="honey.html"><span class="color-template color-template-honey">Honey</span></a>
+<td><img alt="Honey" height="25" src="img/Honey.png" width="25"/>21,500 <a href="honey.html"><span class="color-template color-template-honey">Honey</span></a>
 </td></tr>
 <tr>
 <td>B&amp;B
@@ -155,7 +155,7 @@ He made five appearances. His first visit was from April 27, 2018, to May 13, 20
 <li>Collect 150 <a href="ability-tokens.html#Boost">Boost Tokens</a>.</li>
 <li>Defeat 2 <a href="spider.html">Spiders</a>.</li></ul>
 </td>
-<td><span typeof="mw:Error mw:File"></span>30,500 <a href="honey.html"><span class="color-template color-template-honey">Honey</span></a>
+<td><img alt="Honey" height="25" src="img/Honey.png" width="25"/>30,500 <a href="honey.html"><span class="color-template color-template-honey">Honey</span></a>
 </td></tr>
 <tr>
 <td>Snag A Belt Bag
@@ -175,7 +175,7 @@ He made five appearances. His first visit was from April 27, 2018, to May 13, 20
 <li>Collect 100,000 <a href="pollen.html">Pollen</a> from the <a href="cactus-field.html">Cactus Field</a>.</li>
 <li>Defeat 3 <a href="spider.html">Spiders</a>.</li></ul>
 </td>
-<td><span typeof="mw:Error mw:File"></span>75,000 <a href="honey.html"><span class="color-template color-template-honey">Honey</span></a>
+<td><img alt="Honey" height="25" src="img/Honey.png" width="25"/>75,000 <a href="honey.html"><span class="color-template color-template-honey">Honey</span></a>
 </td></tr>
 <tr>
 <td>Look At Those Links
@@ -185,7 +185,7 @@ He made five appearances. His first visit was from April 27, 2018, to May 13, 20
 <li>Collect 80,000 <a href="pollen.html">White Pollen</a>.</li>
 <li>Collect 80,000 <a href="pollen.html">Pollen</a> from the <a href="bamboo-field.html">Bamboo Field</a>.</li></ul>
 </td>
-<td><span typeof="mw:Error mw:File"></span>90,000 <a href="honey.html"><span class="color-template color-template-honey">Honey</span></a>
+<td><img alt="Honey" height="25" src="img/Honey.png" width="25"/>90,000 <a href="honey.html"><span class="color-template color-template-honey">Honey</span></a>
 </td></tr>
 <tr>
 <td>Bring Back The Boosts
@@ -195,7 +195,7 @@ He made five appearances. His first visit was from April 27, 2018, to May 13, 20
 <li>Collect 250,000 <a href="pollen.html">Pollen</a>.</li>
 <li>Defeat 6 <a href="scorpion.html">Scorpions</a>.</li></ul>
 </td>
-<td><span typeof="mw:Error mw:File"></span>200,000 <a href="honey.html"><span class="color-template color-template-honey">Honey</span></a><br/><span typeof="mw:Error mw:File"></span>1 <a href="ticket.html"><span class="color-template color-template-ticket color-template-background-clip">Ticket</span></a>
+<td><img alt="Honey" height="25" src="img/Honey.png" width="25"/>200,000 <a href="honey.html"><span class="color-template color-template-honey">Honey</span></a><br/><img alt="Ticket" height="25" src="img/Ticket.png" width="25"/>1 <a href="ticket.html"><span class="color-template color-template-ticket color-template-background-clip">Ticket</span></a>
 </td></tr>
 <tr>
 <td>Non-Stop Action
@@ -204,7 +204,7 @@ He made five appearances. His first visit was from April 27, 2018, to May 13, 20
 <ul><li>Collect 1000 <a href="ability-tokens.html#Bomb">Bomb Tokens</a>.</li>
 <li>Defeat 3 <a href="werewolf.html">Werewolves</a>.</li></ul>
 </td>
-<td><span typeof="mw:Error mw:File"></span>150,000 <a href="honey.html"><span class="color-template color-template-honey">Honey</span></a><br/><span typeof="mw:Error mw:File"></span>2 <a href="ticket.html"><span class="color-template color-template-ticket color-template-background-clip">Tickets</span></a>
+<td><img alt="Honey" height="25" src="img/Honey.png" width="25"/>150,000 <a href="honey.html"><span class="color-template color-template-honey">Honey</span></a><br/><img alt="Ticket" height="25" src="img/Ticket.png" width="25"/>2 <a href="ticket.html"><span class="color-template color-template-ticket color-template-background-clip">Tickets</span></a>
 </td></tr>
 <tr>
 <td>Fat Stacks
@@ -216,7 +216,7 @@ He made five appearances. His first visit was from April 27, 2018, to May 13, 20
 <li>Collect 125,000 <a href="pollen.html">Pollen</a> from the <a href="pumpkin-patch.html">Pumpkin Patch</a>.</li>
 <li>Collect 100,000 <a href="pollen.html">Pollen</a> from the <a href="pineapple-patch.html">Pineapple Patch</a>.</li></ul>
 </td>
-<td><span typeof="mw:Error mw:File"></span>1 <a href="royal-jelly.html"><span class="color-template color-template-royal-jelly color-template-background-clip">Royal Jelly</span></a><br/><span typeof="mw:Error mw:File"></span>200,000 <a href="honey.html"><span class="color-template color-template-honey">Honey</span></a>
+<td><img alt="Royal Jelly" height="25" src="img/Royal_Jelly.png" width="25"/>1 <a href="royal-jelly.html"><span class="color-template color-template-royal-jelly color-template-background-clip">Royal Jelly</span></a><br/><img alt="Honey" height="25" src="img/Honey.png" width="25"/>200,000 <a href="honey.html"><span class="color-template color-template-honey">Honey</span></a>
 </td></tr>
 <tr>
 <td>The Mondo Mission
@@ -244,7 +244,7 @@ He made five appearances. His first visit was from April 27, 2018, to May 13, 20
 <td>
 <ul><li>Collect 15 <a href="ability-tokens.html">Ability Tokens</a>.</li></ul>
 </td>
-<td><span typeof="mw:Error mw:File"></span>3 <a href="ticket.html"><span class="color-template color-template-ticket color-template-background-clip">Tickets</span></a><br/><span typeof="mw:Error mw:File"></span>2,000 <a href="honey.html"><span class="color-template color-template-honey">Honey</span></a>
+<td><img alt="Ticket" height="25" src="img/Ticket.png" width="25"/>3 <a href="ticket.html"><span class="color-template color-template-ticket color-template-background-clip">Tickets</span></a><br/><img alt="Honey" height="25" src="img/Honey.png" width="25"/>2,000 <a href="honey.html"><span class="color-template color-template-honey">Honey</span></a>
 </td></tr>
 <tr>
 <td>Sticking To The Staples
@@ -254,7 +254,7 @@ He made five appearances. His first visit was from April 27, 2018, to May 13, 20
 <li>Collect 20 <a href="ability-tokens.html#Boost">Boost Tokens</a>.</li>
 <li>Collect 5,000 <a href="pollen.html">Pollen</a>.</li></ul>
 </td>
-<td><span typeof="mw:Error mw:File"></span>3 <a href="ticket.html"><span class="color-template color-template-ticket color-template-background-clip">Tickets</span></a><br/><span typeof="mw:Error mw:File"></span>1 <a href="royal-jelly.html"><span class="color-template color-template-royal-jelly color-template-background-clip">Royal Jelly</span></a><br/><span typeof="mw:Error mw:File"></span>6,000 <a href="honey.html"><span class="color-template color-template-honey">Honey</span></a>
+<td><img alt="Ticket" height="25" src="img/Ticket.png" width="25"/>3 <a href="ticket.html"><span class="color-template color-template-ticket color-template-background-clip">Tickets</span></a><br/><img alt="Royal Jelly" height="25" src="img/Royal_Jelly.png" width="25"/>1 <a href="royal-jelly.html"><span class="color-template color-template-royal-jelly color-template-background-clip">Royal Jelly</span></a><br/><img alt="Honey" height="25" src="img/Honey.png" width="25"/>6,000 <a href="honey.html"><span class="color-template color-template-honey">Honey</span></a>
 </td></tr>
 <tr>
 <td>Token Treck
@@ -264,7 +264,7 @@ He made five appearances. His first visit was from April 27, 2018, to May 13, 20
 <li>Collect 25 <a href="honey.html">Honey</a> Tokens.</li>
 <li>Collect 5 <a href="treat.html">Treat</a> Tokens.</li></ul>
 </td>
-<td><span typeof="mw:Error mw:File"></span>3 <a href="ticket.html"><span class="color-template color-template-ticket color-template-background-clip">Tickets</span></a><br/><span typeof="mw:Error mw:File"></span>1 <a href="royal-jelly.html"><span class="color-template color-template-royal-jelly color-template-background-clip">Royal Jelly</span></a><br/><span typeof="mw:Error mw:File"></span>25 <a href="treat.html"><span class="color-template color-template-treat">Treats</span></a><br/><span typeof="mw:Error mw:File"></span>10,000 <a href="honey.html"><span class="color-template color-template-honey">Honey</span></a>
+<td><img alt="Ticket" height="25" src="img/Ticket.png" width="25"/>3 <a href="ticket.html"><span class="color-template color-template-ticket color-template-background-clip">Tickets</span></a><br/><img alt="Royal Jelly" height="25" src="img/Royal_Jelly.png" width="25"/>1 <a href="royal-jelly.html"><span class="color-template color-template-royal-jelly color-template-background-clip">Royal Jelly</span></a><br/><img alt="Treat" height="25" src="img/Treat.png" width="25"/>25 <a href="treat.html"><span class="color-template color-template-treat">Treats</span></a><br/><img alt="Honey" height="25" src="img/Honey.png" width="25"/>10,000 <a href="honey.html"><span class="color-template color-template-honey">Honey</span></a>
 </td></tr>
 <tr>
 <td>Quick Feet, Sharp Mind
@@ -274,7 +274,7 @@ He made five appearances. His first visit was from April 27, 2018, to May 13, 20
 <li>Collect 25 <a href="ability-tokens.html#Focus">Focus Tokens</a>.</li>
 <li>Collect 25,000 <a href="pollen.html">Blue Pollen</a>.</li></ul>
 </td>
-<td><span typeof="mw:Error mw:File"></span>3 <a href="ticket.html"><span class="color-template color-template-ticket color-template-background-clip">Tickets</span></a><br/><span typeof="mw:Error mw:File"></span>1 <a href="royal-jelly.html"><span class="color-template color-template-royal-jelly color-template-background-clip">Royal Jelly</span></a><br/><span typeof="mw:Error mw:File"></span>20,000 <a href="honey.html"><span class="color-template color-template-honey">Honey</span></a>
+<td><img alt="Ticket" height="25" src="img/Ticket.png" width="25"/>3 <a href="ticket.html"><span class="color-template color-template-ticket color-template-background-clip">Tickets</span></a><br/><img alt="Royal Jelly" height="25" src="img/Royal_Jelly.png" width="25"/>1 <a href="royal-jelly.html"><span class="color-template color-template-royal-jelly color-template-background-clip">Royal Jelly</span></a><br/><img alt="Honey" height="25" src="img/Honey.png" width="25"/>20,000 <a href="honey.html"><span class="color-template color-template-honey">Honey</span></a>
 </td></tr>
 <tr>
 <td>Boot Lootin
@@ -285,7 +285,7 @@ He made five appearances. His first visit was from April 27, 2018, to May 13, 20
 <li>Collect 10 <a href="strawberry.html">Strawberry</a> Tokens.</li>
 <li>Collect 10 <a href="treat.html">Treat</a> Tokens.</li></ul>
 </td>
-<td><a href="basic-boots.html">Basic Boots</a><br/><span typeof="mw:Error mw:File"></span>3 <a href="ticket.html"><span class="color-template color-template-ticket color-template-background-clip">Tickets</span></a><br/><span typeof="mw:Error mw:File"></span>50,000 <a href="honey.html"><span class="color-template color-template-honey">Honey</span></a>
+<td><a href="basic-boots.html">Basic Boots</a><br/><img alt="Ticket" height="25" src="img/Ticket.png" width="25"/>3 <a href="ticket.html"><span class="color-template color-template-ticket color-template-background-clip">Tickets</span></a><br/><img alt="Honey" height="25" src="img/Honey.png" width="25"/>50,000 <a href="honey.html"><span class="color-template color-template-honey">Honey</span></a>
 </td></tr>
 <tr>
 <td>Sprouts For Sun Bear's Sanity
@@ -294,7 +294,7 @@ He made five appearances. His first visit was from April 27, 2018, to May 13, 20
 <ul><li>Collect 100 <a href="ability-tokens.html#Boost">Boost Tokens</a>.</li>
 <li>Collect 20 <a href="sprout.html">Sprout</a> Tokens.</li></ul>
 </td>
-<td><span typeof="mw:Error mw:File"></span>3 <a href="ticket.html"><span class="color-template color-template-ticket color-template-background-clip">Tickets</span></a><br/><span typeof="mw:Error mw:File"></span>60,000 <a href="honey.html"><span class="color-template color-template-honey">Honey</span></a>
+<td><img alt="Ticket" height="25" src="img/Ticket.png" width="25"/>3 <a href="ticket.html"><span class="color-template color-template-ticket color-template-background-clip">Tickets</span></a><br/><img alt="Honey" height="25" src="img/Honey.png" width="25"/>60,000 <a href="honey.html"><span class="color-template color-template-honey">Honey</span></a>
 </td></tr>
 <tr>
 <td>Thinking About Those Links
@@ -304,7 +304,7 @@ He made five appearances. His first visit was from April 27, 2018, to May 13, 20
 <li>Defeat 4 <a href="spider.html">Spiders</a>.</li>
 <li>Collect 100,000 <a href="pollen.html">Pollen</a> from the <a href="spider-field.html">Spider Field</a>.</li></ul>
 </td>
-<td><span typeof="mw:Error mw:File"></span>3 <a href="ticket.html"><span class="color-template color-template-ticket color-template-background-clip">Tickets</span></a><br/><span typeof="mw:Error mw:File"></span>1 <a href="royal-jelly.html"><span class="color-template color-template-royal-jelly color-template-background-clip">Royal Jelly</span></a><br/><span typeof="mw:Error mw:File"></span>75,000 <a href="honey.html"><span class="color-template color-template-honey">Honey</span></a>
+<td><img alt="Ticket" height="25" src="img/Ticket.png" width="25"/>3 <a href="ticket.html"><span class="color-template color-template-ticket color-template-background-clip">Tickets</span></a><br/><img alt="Royal Jelly" height="25" src="img/Royal_Jelly.png" width="25"/>1 <a href="royal-jelly.html"><span class="color-template color-template-royal-jelly color-template-background-clip">Royal Jelly</span></a><br/><img alt="Honey" height="25" src="img/Honey.png" width="25"/>75,000 <a href="honey.html"><span class="color-template color-template-honey">Honey</span></a>
 </td></tr>
 <tr>
 <td>Light Up The Night
@@ -313,7 +313,7 @@ He made five appearances. His first visit was from April 27, 2018, to May 13, 20
 <ul><li>Collect 250 <a href="ability-tokens.html#Bomb">Bomb Tokens</a>.</li>
 <li>Collect 10 <a href="moon-charm.html">Moon Charm</a> Tokens.</li></ul>
 </td>
-<td><span typeof="mw:Error mw:File"></span>3 <a href="ticket.html"><span class="color-template color-template-ticket color-template-background-clip">Tickets</span></a><br/><span typeof="mw:Error mw:File"></span>25 <a href="treat.html"><span class="color-template color-template-treat">Treats</span></a><br/><span typeof="mw:Error mw:File"></span>100,000 <a href="honey.html"><span class="color-template color-template-honey">Honey</span></a>
+<td><img alt="Ticket" height="25" src="img/Ticket.png" width="25"/>3 <a href="ticket.html"><span class="color-template color-template-ticket color-template-background-clip">Tickets</span></a><br/><img alt="Treat" height="25" src="img/Treat.png" width="25"/>25 <a href="treat.html"><span class="color-template color-template-treat">Treats</span></a><br/><img alt="Honey" height="25" src="img/Honey.png" width="25"/>100,000 <a href="honey.html"><span class="color-template color-template-honey">Honey</span></a>
 </td></tr>
 <tr>
 <td>Show Me The Honey
@@ -323,7 +323,7 @@ He made five appearances. His first visit was from April 27, 2018, to May 13, 20
 <li>Collect 500 <a href="ability-tokens.html">Ability Tokens</a>.</li>
 <li>Defeat 8 <a href="mantis.html">Mantises</a>.</li></ul>
 </td>
-<td><span typeof="mw:Error mw:File"></span>3 <a href="ticket.html"><span class="color-template color-template-ticket color-template-background-clip">Tickets</span></a><br/><span typeof="mw:Error mw:File"></span>20 <a href="sunflower-seed.html"><span class="color-template color-template-sunflower-seed color-template-background-clip">Sunflower Seeds</span></a><br/><span typeof="mw:Error mw:File"></span>150,000 <a href="honey.html"><span class="color-template color-template-honey">Honey</span></a>
+<td><img alt="Ticket" height="25" src="img/Ticket.png" width="25"/>3 <a href="ticket.html"><span class="color-template color-template-ticket color-template-background-clip">Tickets</span></a><br/><img alt="Sunflower Seed" height="25" src="img/Sunflower_Seed.png" width="25"/>20 <a href="sunflower-seed.html"><span class="color-template color-template-sunflower-seed color-template-background-clip">Sunflower Seeds</span></a><br/><img alt="Honey" height="25" src="img/Honey.png" width="25"/>150,000 <a href="honey.html"><span class="color-template color-template-honey">Honey</span></a>
 </td></tr>
 <tr>
 <td>Battle For Boots
@@ -333,7 +333,7 @@ He made five appearances. His first visit was from April 27, 2018, to May 13, 20
 <li>Defeat 50 <a href="ant.html">Ants</a>.</li>
 <li>Defeat 4 <a href="werewolf.html">Werewolves</a>.</li></ul>
 </td>
-<td><a href="hiking-boots.html">Hiking Boots</a><br/><span typeof="mw:Error mw:File"></span>3 <a href="ticket.html"><span class="color-template color-template-ticket color-template-background-clip">Tickets</span></a><br/><span typeof="mw:Error mw:File"></span>250,000 <a href="honey.html"><span class="color-template color-template-honey">Honey</span></a>
+<td><a href="hiking-boots.html">Hiking Boots</a><br/><img alt="Ticket" height="25" src="img/Ticket.png" width="25"/>3 <a href="ticket.html"><span class="color-template color-template-ticket color-template-background-clip">Tickets</span></a><br/><img alt="Honey" height="25" src="img/Honey.png" width="25"/>250,000 <a href="honey.html"><span class="color-template color-template-honey">Honey</span></a>
 </td></tr>
 <tr>
 <td>Sun Bear's Scavenger Hunt
@@ -347,7 +347,7 @@ He made five appearances. His first visit was from April 27, 2018, to May 13, 20
 <li>Collect 250 <a href="ability-tokens.html#Haste">Haste Tokens</a>.</li>
 <li>Collect 100 <a href="sprout.html">Sprout</a> Tokens.</li></ul>
 </td>
-<td><span typeof="mw:Error mw:File"></span>3 <a href="ticket.html"><span class="color-template color-template-ticket color-template-background-clip">Tickets</span></a><br/><span typeof="mw:Error mw:File"></span>1 <a href="royal-jelly.html"><span class="color-template color-template-royal-jelly color-template-background-clip">Royal Jelly</span></a><br/><span typeof="mw:Error mw:File"></span>500 <a href="treat.html"><span class="color-template color-template-treat">Treats</span></a><br/><span typeof="mw:Error mw:File"></span>500,000 <a href="honey.html"><span class="color-template color-template-honey">Honey</span></a>
+<td><img alt="Ticket" height="25" src="img/Ticket.png" width="25"/>3 <a href="ticket.html"><span class="color-template color-template-ticket color-template-background-clip">Tickets</span></a><br/><img alt="Royal Jelly" height="25" src="img/Royal_Jelly.png" width="25"/>1 <a href="royal-jelly.html"><span class="color-template color-template-royal-jelly color-template-background-clip">Royal Jelly</span></a><br/><img alt="Treat" height="25" src="img/Treat.png" width="25"/>500 <a href="treat.html"><span class="color-template color-template-treat">Treats</span></a><br/><img alt="Honey" height="25" src="img/Honey.png" width="25"/>500,000 <a href="honey.html"><span class="color-template color-template-honey">Honey</span></a>
 </td></tr>
 <tr>
 <td>Sun Bear's Abili-Tour
@@ -359,7 +359,7 @@ He made five appearances. His first visit was from April 27, 2018, to May 13, 20
 <li>Collect 1,000 <a href="ability-tokens.html#Focus">Focus Tokens</a>.</li>
 <li>Collect 250 <a href="ability-tokens.html#Honey_Gift">Honey Gift Tokens</a>.</li></ul>
 </td>
-<td><span typeof="mw:Error mw:File"></span>1 <a href="royal-jelly.html"><span class="color-template color-template-royal-jelly color-template-background-clip">Royal Jelly</span></a> (Upon receiving quest)<br/><br/>----<br/><br/><span typeof="mw:Error mw:File"></span>3 <a href="ticket.html"><span class="color-template color-template-ticket color-template-background-clip">Tickets</span></a><br/><span typeof="mw:Error mw:File"></span>2 <a href="royal-jelly.html"><span class="color-template color-template-royal-jelly color-template-background-clip">Royal Jellies</span></a><br/><span typeof="mw:Error mw:File"></span>1,000,000 <a href="honey.html"><span class="color-template color-template-honey">Honey</span></a>
+<td><img alt="Royal Jelly" height="25" src="img/Royal_Jelly.png" width="25"/>1 <a href="royal-jelly.html"><span class="color-template color-template-royal-jelly color-template-background-clip">Royal Jelly</span></a> (Upon receiving quest)<br/><br/>----<br/><br/><img alt="Ticket" height="25" src="img/Ticket.png" width="25"/>3 <a href="ticket.html"><span class="color-template color-template-ticket color-template-background-clip">Tickets</span></a><br/><img alt="Royal Jelly" height="25" src="img/Royal_Jelly.png" width="25"/>2 <a href="royal-jelly.html"><span class="color-template color-template-royal-jelly color-template-background-clip">Royal Jellies</span></a><br/><img alt="Honey" height="25" src="img/Honey.png" width="25"/>1,000,000 <a href="honey.html"><span class="color-template color-template-honey">Honey</span></a>
 </td></tr>
 <tr>
 <td>Vicious Bee Begone
@@ -367,7 +367,7 @@ He made five appearances. His first visit was from April 27, 2018, to May 13, 20
 <td>
 <ul><li>Defeat 10 <a href="rogue-vicious-bee.html">Vicious Bees</a>.</li></ul>
 </td>
-<td><span typeof="mw:Error mw:File"></span>3 <a href="ticket.html"><span class="color-template color-template-ticket color-template-background-clip">Tickets</span></a><br/><span typeof="mw:Error mw:File"></span>3 <a href="royal-jelly.html"><span class="color-template color-template-royal-jelly color-template-background-clip">Royal Jellies</span></a><br/><span typeof="mw:Error mw:File"></span>2,500,000 <a href="honey.html"><span class="color-template color-template-honey">Honey</span></a>
+<td><img alt="Ticket" height="25" src="img/Ticket.png" width="25"/>3 <a href="ticket.html"><span class="color-template color-template-ticket color-template-background-clip">Tickets</span></a><br/><img alt="Royal Jelly" height="25" src="img/Royal_Jelly.png" width="25"/>3 <a href="royal-jelly.html"><span class="color-template color-template-royal-jelly color-template-background-clip">Royal Jellies</span></a><br/><img alt="Honey" height="25" src="img/Honey.png" width="25"/>2,500,000 <a href="honey.html"><span class="color-template color-template-honey">Honey</span></a>
 </td></tr>
 <tr>
 <td>Sun Bear Spectacular
@@ -379,7 +379,7 @@ He made five appearances. His first visit was from April 27, 2018, to May 13, 20
 <li>Defeat 10 <a href="giant-ant.html">Giant Ants</a>.</li>
 <li>Defeat 10 <a href="spider.html">Spiders</a>.</li></ul>
 </td>
-<td><a href="beekeeper-s-boots.html">Beekeeper's Boots</a><br/><span typeof="mw:Error mw:File"></span>3 <a href="ticket.html"><span class="color-template color-template-ticket color-template-background-clip">Tickets</span></a><br/><span typeof="mw:Error mw:File"></span>5,000,000 <a href="honey.html"><span class="color-template color-template-honey">Honey</span></a>
+<td><a href="beekeeper-s-boots.html">Beekeeper's Boots</a><br/><img alt="Ticket" height="25" src="img/Ticket.png" width="25"/>3 <a href="ticket.html"><span class="color-template color-template-ticket color-template-background-clip">Tickets</span></a><br/><img alt="Honey" height="25" src="img/Honey.png" width="25"/>5,000,000 <a href="honey.html"><span class="color-template color-template-honey">Honey</span></a>
 </td></tr></tbody></table>
 
 ## Bean Bugs Quests (10)
@@ -399,7 +399,7 @@ He made five appearances. His first visit was from April 27, 2018, to May 13, 20
 <ul><li>Collect 25 <a href="ability-tokens.html">Ability Tokens</a>.</li>
 <li>Collect 10 Tokens from <a href="bean-bug.html">Bean Bugs</a>.</li></ul>
 </td>
-<td><span typeof="mw:Error mw:File"></span>3 <a href="jelly-beans.html"><span class="color-template color-template-jelly-beans color-template-background-clip">Jelly Beans</span></a><br/><span typeof="mw:Error mw:File"></span>5,000 <a href="honey.html"><span class="color-template color-template-honey">Honey</span></a>
+<td><img alt="Jelly Beans" height="25" src="img/Jelly_Beans.png" width="25"/>3 <a href="jelly-beans.html"><span class="color-template color-template-jelly-beans color-template-background-clip">Jelly Beans</span></a><br/><img alt="Honey" height="25" src="img/Honey.png" width="25"/>5,000 <a href="honey.html"><span class="color-template color-template-honey">Honey</span></a>
 </td></tr>
 <tr>
 <td>Bombs, Blueberries, and Bean Bugs
@@ -409,7 +409,7 @@ He made five appearances. His first visit was from April 27, 2018, to May 13, 20
 <li>Collect 50 <a href="ability-tokens.html#Bomb">Bomb Tokens</a>.</li>
 <li>Collect 5 <a href="blueberry.html">Blueberry</a> Tokens.</li></ul>
 </td>
-<td><span typeof="mw:Error mw:File"></span>3 <a href="ticket.html"><span class="color-template color-template-ticket color-template-background-clip">Tickets</span></a><br/><span typeof="mw:Error mw:File"></span>1 <a href="jelly-beans.html"><span class="color-template color-template-jelly-beans color-template-background-clip">Jelly Beans</span></a><br/><span typeof="mw:Error mw:File"></span>25,000 <a href="honey.html"><span class="color-template color-template-honey">Honey</span></a>
+<td><img alt="Ticket" height="25" src="img/Ticket.png" width="25"/>3 <a href="ticket.html"><span class="color-template color-template-ticket color-template-background-clip">Tickets</span></a><br/><img alt="Jelly Beans" height="25" src="img/Jelly_Beans.png" width="25"/>1 <a href="jelly-beans.html"><span class="color-template color-template-jelly-beans color-template-background-clip">Jelly Beans</span></a><br/><img alt="Honey" height="25" src="img/Honey.png" width="25"/>25,000 <a href="honey.html"><span class="color-template color-template-honey">Honey</span></a>
 </td></tr>
 <tr>
 <td>Bean Bugs And Boosts
@@ -419,7 +419,7 @@ He made five appearances. His first visit was from April 27, 2018, to May 13, 20
 <li>Collect 50 <a href="ability-tokens.html#Boost">Boost Tokens</a>.</li>
 <li>Collect 100 <a href="honey.html">Honey</a> Tokens.</li></ul>
 </td>
-<td><span typeof="mw:Error mw:File"></span>25 <a href="gumdrops.html"><span class="color-template color-template-gumdrops color-template-background-clip">Gumdrops</span></a><br/><span typeof="mw:Error mw:File"></span>50,000 <a href="honey.html"><span class="color-template color-template-honey">Honey</span></a>
+<td><img alt="Gumdrops" height="25" src="img/Gumdrops.png" width="25"/>25 <a href="gumdrops.html"><span class="color-template color-template-gumdrops color-template-background-clip">Gumdrops</span></a><br/><img alt="Honey" height="25" src="img/Honey.png" width="25"/>50,000 <a href="honey.html"><span class="color-template color-template-honey">Honey</span></a>
 </td></tr>
 <tr>
 <td>Make It Hasty
@@ -429,7 +429,7 @@ He made five appearances. His first visit was from April 27, 2018, to May 13, 20
 <li>Collect 100 <a href="ability-tokens.html#Haste">Haste Tokens</a>.</li>
 <li>Collect 100,000 <a href="pollen.html">Pollen</a> from the <a href="clover-field.html">Clover Field</a>.</li></ul>
 </td>
-<td><span typeof="mw:Error mw:File"></span>3 <a href="field-dice.html"><span class="color-template color-template-field-dice color-template-background-clip">Field Dice</span></a><br/><span typeof="mw:Error mw:File"></span>3 <a href="jelly-beans.html"><span class="color-template color-template-jelly-beans color-template-background-clip">Jelly Beans</span></a><br/><span typeof="mw:Error mw:File"></span>75,000 <a href="honey.html"><span class="color-template color-template-honey">Honey</span></a>
+<td><img alt="Field Dice" height="25" src="img/Field_Dice.png" width="25"/>3 <a href="field-dice.html"><span class="color-template color-template-field-dice color-template-background-clip">Field Dice</span></a><br/><img alt="Jelly Beans" height="25" src="img/Jelly_Beans.png" width="25"/>3 <a href="jelly-beans.html"><span class="color-template color-template-jelly-beans color-template-background-clip">Jelly Beans</span></a><br/><img alt="Honey" height="25" src="img/Honey.png" width="25"/>75,000 <a href="honey.html"><span class="color-template color-template-honey">Honey</span></a>
 </td></tr>
 <tr>
 <td>Total Focus
@@ -440,7 +440,7 @@ He made five appearances. His first visit was from April 27, 2018, to May 13, 20
 <li>Match 5 Pairs in <a href="memory-match.html">Memory Match</a> Games.</li>
 <li>Collect 250,000 <a href="pollen.html">Pollen</a> from the <a href="pineapple-patch.html">Pineapple Patch</a>.</li></ul>
 </td>
-<td>1x <a href="memory-match.html">Memory Match</a> Game (Upon receiving quest)<br/><br/>----<br/><br/><span typeof="mw:Error mw:File"></span>5 <a href="micro-converter.html"><span class="color-template color-template-micro-converter color-template-background-clip">Micro-Converters</span></a><br/><span typeof="mw:Error mw:File"></span>3 <a href="jelly-beans.html"><span class="color-template color-template-jelly-beans color-template-background-clip">Jelly Beans</span></a><br/><span typeof="mw:Error mw:File"></span>150,000 <a href="honey.html"><span class="color-template color-template-honey">Honey</span></a>
+<td>1x <a href="memory-match.html">Memory Match</a> Game (Upon receiving quest)<br/><br/>----<br/><br/><img alt="Micro-Converter" height="25" src="img/Micro-Converter.png" width="25"/>5 <a href="micro-converter.html"><span class="color-template color-template-micro-converter color-template-background-clip">Micro-Converters</span></a><br/><img alt="Jelly Beans" height="25" src="img/Jelly_Beans.png" width="25"/>3 <a href="jelly-beans.html"><span class="color-template color-template-jelly-beans color-template-background-clip">Jelly Beans</span></a><br/><img alt="Honey" height="25" src="img/Honey.png" width="25"/>150,000 <a href="honey.html"><span class="color-template color-template-honey">Honey</span></a>
 </td></tr>
 <tr>
 <td>On Your Marks
@@ -451,7 +451,7 @@ He made five appearances. His first visit was from April 27, 2018, to May 13, 20
 <li>Collect 30 Tokens from <a href="ladybug.html">Ladybugs</a>.</li>
 <li>Collect 500,000 <a href="pollen.html">Red Pollen</a>.</li></ul>
 </td>
-<td><span typeof="mw:Error mw:File"></span>1 <a href="royal-jelly.html"><span class="color-template color-template-royal-jelly color-template-background-clip">Royal Jelly</span></a><br/><span typeof="mw:Error mw:File"></span>1 <a href="cloud-vial.html"><span class="color-template color-template-cloud-vial color-template-background-clip">Cloud Vial</span></a><br/><span typeof="mw:Error mw:File"></span>3 <a href="field-dice.html"><span class="color-template color-template-field-dice color-template-background-clip">Field Dice</span></a><br/><span typeof="mw:Error mw:File"></span>50 <a href="gumdrops.html"><span class="color-template color-template-gumdrops color-template-background-clip">Gumdrops</span></a><br/><span typeof="mw:Error mw:File"></span>250,000 <a href="honey.html"><span class="color-template color-template-honey">Honey</span></a>
+<td><img alt="Royal Jelly" height="25" src="img/Royal_Jelly.png" width="25"/>1 <a href="royal-jelly.html"><span class="color-template color-template-royal-jelly color-template-background-clip">Royal Jelly</span></a><br/><img alt="Cloud Vial" height="25" src="img/Cloud_Vial.png" width="25"/>1 <a href="cloud-vial.html"><span class="color-template color-template-cloud-vial color-template-background-clip">Cloud Vial</span></a><br/><img alt="Field Dice" height="25" src="img/Field_Dice.png" width="25"/>3 <a href="field-dice.html"><span class="color-template color-template-field-dice color-template-background-clip">Field Dice</span></a><br/><img alt="Gumdrops" height="25" src="img/Gumdrops.png" width="25"/>50 <a href="gumdrops.html"><span class="color-template color-template-gumdrops color-template-background-clip">Gumdrops</span></a><br/><img alt="Honey" height="25" src="img/Honey.png" width="25"/>250,000 <a href="honey.html"><span class="color-template color-template-honey">Honey</span></a>
 </td></tr>
 <tr>
 <td>Look In The Leaves
@@ -461,7 +461,7 @@ He made five appearances. His first visit was from April 27, 2018, to May 13, 20
 <li>Collect 25 Tokens from <a href="leaves.html">Leaves</a>.</li>
 <li>Collect 1,000,000 <a href="pollen.html">Pollen</a> from the <a href="cactus-field.html">Cactus Field</a>.</li></ul>
 </td>
-<td><span typeof="mw:Error mw:File"></span>5 <a href="jelly-beans.html"><span class="color-template color-template-jelly-beans color-template-background-clip">Jelly Beans</span></a><br/><span typeof="mw:Error mw:File"></span>5 <a href="micro-converter.html"><span class="color-template color-template-micro-converter color-template-background-clip">Micro-Converters</span></a><br/><span typeof="mw:Error mw:File"></span>1 <a href="royal-jelly.html"><span class="color-template color-template-royal-jelly color-template-background-clip">Royal Jelly</span></a><br/><span typeof="mw:Error mw:File"></span>500,000 <a href="honey.html"><span class="color-template color-template-honey">Honey</span></a>
+<td><img alt="Jelly Beans" height="25" src="img/Jelly_Beans.png" width="25"/>5 <a href="jelly-beans.html"><span class="color-template color-template-jelly-beans color-template-background-clip">Jelly Beans</span></a><br/><img alt="Micro-Converter" height="25" src="img/Micro-Converter.png" width="25"/>5 <a href="micro-converter.html"><span class="color-template color-template-micro-converter color-template-background-clip">Micro-Converters</span></a><br/><img alt="Royal Jelly" height="25" src="img/Royal_Jelly.png" width="25"/>1 <a href="royal-jelly.html"><span class="color-template color-template-royal-jelly color-template-background-clip">Royal Jelly</span></a><br/><img alt="Honey" height="25" src="img/Honey.png" width="25"/>500,000 <a href="honey.html"><span class="color-template color-template-honey">Honey</span></a>
 </td></tr>
 <tr>
 <td>What About Sprouts
@@ -471,7 +471,7 @@ He made five appearances. His first visit was from April 27, 2018, to May 13, 20
 <li>Collect 1000 <a href="ability-tokens.html">Ability Tokens</a>.</li>
 <li>Collect 250 Tokens from <a href="sprout.html">Sprouts</a>.</li></ul>
 </td>
-<td><span typeof="mw:Error mw:File"></span>1 <a href="magic-bean.html"><span class="color-template color-template-magic-bean color-template-background-clip">Magic Bean</span></a> (Upon receiving quest)<br/><br/>----<br/><br/><span typeof="mw:Error mw:File"></span>3 <a href="magic-bean.html"><span class="color-template color-template-magic-bean color-template-background-clip">Magic Beans</span></a><br/><span typeof="mw:Error mw:File"></span>100 <a href="gumdrops.html"><span class="color-template color-template-gumdrops color-template-background-clip">Gumdrops</span></a><br/><span typeof="mw:Error mw:File"></span>1,000,000 <a href="honey.html"><span class="color-template color-template-honey">Honey</span></a>
+<td><img alt="Magic Bean" height="25" src="img/Magic_Bean.png" width="25"/>1 <a href="magic-bean.html"><span class="color-template color-template-magic-bean color-template-background-clip">Magic Bean</span></a> (Upon receiving quest)<br/><br/>----<br/><br/><img alt="Magic Bean" height="25" src="img/Magic_Bean.png" width="25"/>3 <a href="magic-bean.html"><span class="color-template color-template-magic-bean color-template-background-clip">Magic Beans</span></a><br/><img alt="Gumdrops" height="25" src="img/Gumdrops.png" width="25"/>100 <a href="gumdrops.html"><span class="color-template color-template-gumdrops color-template-background-clip">Gumdrops</span></a><br/><img alt="Honey" height="25" src="img/Honey.png" width="25"/>1,000,000 <a href="honey.html"><span class="color-template color-template-honey">Honey</span></a>
 </td></tr>
 <tr>
 <td>Bean Bug Beat Down
@@ -483,7 +483,7 @@ He made five appearances. His first visit was from April 27, 2018, to May 13, 20
 <li>Collect 100 Tokens from <a href="mantis.html">Mantises</a>.</li>
 <li>Collect 100 Tokens from <a href="scorpion.html">Scorpions</a>.</li></ul>
 </td>
-<td><span typeof="mw:Error mw:File"></span>1 <a href="royal-jelly.html"><span class="color-template color-template-royal-jelly color-template-background-clip">Royal Jelly</span></a><br/><span typeof="mw:Error mw:File"></span>10 <a href="stinger.html"><span class="color-template color-template-stinger color-template-background-clip">Stingers</span></a><br/><span typeof="mw:Error mw:File"></span>10 <a href="jelly-beans.html"><span class="color-template color-template-jelly-beans color-template-background-clip">Jelly Beans</span></a><br/><span typeof="mw:Error mw:File"></span>1 <a href="enzymes.html"><span class="color-template color-template-enzymes color-template-background-clip">Enzymes</span></a><br/><span typeof="mw:Error mw:File"></span>5 <a href="micro-converter.html"><span class="color-template color-template-micro-converter color-template-background-clip">Micro-Converters</span></a><br/><span typeof="mw:Error mw:File"></span>2,500,000 <a href="honey.html"><span class="color-template color-template-honey">Honey</span></a>
+<td><img alt="Royal Jelly" height="25" src="img/Royal_Jelly.png" width="25"/>1 <a href="royal-jelly.html"><span class="color-template color-template-royal-jelly color-template-background-clip">Royal Jelly</span></a><br/><img alt="Stinger" height="25" src="img/Stinger.png" width="25"/>10 <a href="stinger.html"><span class="color-template color-template-stinger color-template-background-clip">Stingers</span></a><br/><img alt="Jelly Beans" height="25" src="img/Jelly_Beans.png" width="25"/>10 <a href="jelly-beans.html"><span class="color-template color-template-jelly-beans color-template-background-clip">Jelly Beans</span></a><br/><img alt="Enzymes" height="25" src="img/Enzymes.png" width="25"/>1 <a href="enzymes.html"><span class="color-template color-template-enzymes color-template-background-clip">Enzymes</span></a><br/><img alt="Micro-Converter" height="25" src="img/Micro-Converter.png" width="25"/>5 <a href="micro-converter.html"><span class="color-template color-template-micro-converter color-template-background-clip">Micro-Converters</span></a><br/><img alt="Honey" height="25" src="img/Honey.png" width="25"/>2,500,000 <a href="honey.html"><span class="color-template color-template-honey">Honey</span></a>
 </td></tr>
 <tr>
 <td>Bean Bug Blackout
@@ -491,7 +491,7 @@ He made five appearances. His first visit was from April 27, 2018, to May 13, 20
 <td>
 <ul><li>Collect 2000 Tokens from <a href="bean-bug.html">Bean Bugs</a>.</li></ul>
 </td>
-<td><span typeof="mw:Error mw:File"></span>250 <a href="ticket.html"><span class="color-template color-template-ticket color-template-background-clip">Tickets</span></a><br/><span typeof="mw:Error mw:File"></span>5,000,000 <a href="honey.html"><span class="color-template color-template-honey">Honey</span></a>
+<td><img alt="Ticket" height="25" src="img/Ticket.png" width="25"/>250 <a href="ticket.html"><span class="color-template color-template-ticket color-template-background-clip">Tickets</span></a><br/><img alt="Honey" height="25" src="img/Honey.png" width="25"/>5,000,000 <a href="honey.html"><span class="color-template color-template-honey">Honey</span></a>
 </td></tr></tbody></table>
 
 ## Dialogue
@@ -734,7 +734,7 @@ He made five appearances. His first visit was from April 27, 2018, to May 13, 20
 <td>
 <ul><li>Help 3 Bears capture <a href="chicks.html">Chicks</a>.</li></ul>
 </td>
-<td><span typeof="mw:Error mw:File"></span>2,500 <a href="honey.html"><span class="color-template color-template-honey">Honey</span></a> (Upon receiving quest)<br/><br/>----<br/><br/><span typeof="mw:Error mw:File"></span>10,000 <a href="honey.html"><span class="color-template color-template-honey">Honey</span></a><br/><span typeof="mw:Error mw:File"></span>5 <a href="ticket.html"><span class="color-template color-template-ticket color-template-background-clip">Tickets</span></a><br/><span typeof="mw:Error mw:File"></span>1 <a href="royal-jelly.html#Star_Jelly"><span class="color-template color-template-star-jelly color-template-background-clip">Star Jelly</span></a><br/><span typeof="mw:Error mw:File"></span>25 <a href="treat.html"><span class="color-template color-template-treat">Treats</span></a><br/><span typeof="mw:Error mw:File"></span>1 <a href="marshmallow-bee.html"><span class="color-template color-template-marshmallow-bee color-template-background-clip">Marshmallow Bee</span></a><br/><span typeof="mw:Error mw:File"></span>1 <a href="magic-bean.html"><span class="color-template color-template-magic-bean color-template-background-clip">Magic Bean</span></a><br/><span typeof="mw:Error mw:File"></span>3 <a href="micro-converter.html"><span class="color-template color-template-micro-converter color-template-background-clip">Micro-Converters</span></a>
+<td><img alt="Honey" height="25" src="img/Honey.png" width="25"/>2,500 <a href="honey.html"><span class="color-template color-template-honey">Honey</span></a> (Upon receiving quest)<br/><br/>----<br/><br/><img alt="Honey" height="25" src="img/Honey.png" width="25"/>10,000 <a href="honey.html"><span class="color-template color-template-honey">Honey</span></a><br/><img alt="Ticket" height="25" src="img/Ticket.png" width="25"/>5 <a href="ticket.html"><span class="color-template color-template-ticket color-template-background-clip">Tickets</span></a><br/><img alt="Star Jelly" height="25" src="img/Star_Jelly.png" width="25"/>1 <a href="royal-jelly.html#Star_Jelly"><span class="color-template color-template-star-jelly color-template-background-clip">Star Jelly</span></a><br/><img alt="Treat" height="25" src="img/Treat.png" width="25"/>25 <a href="treat.html"><span class="color-template color-template-treat">Treats</span></a><br/><img alt="Marshmallow Bee" height="25" src="img/Marshmallow_Bee.png" width="25"/>1 <a href="marshmallow-bee.html"><span class="color-template color-template-marshmallow-bee color-template-background-clip">Marshmallow Bee</span></a><br/><img alt="Magic Bean" height="25" src="img/Magic_Bean.png" width="25"/>1 <a href="magic-bean.html"><span class="color-template color-template-magic-bean color-template-background-clip">Magic Bean</span></a><br/><img alt="Micro-Converter" height="25" src="img/Micro-Converter.png" width="25"/>3 <a href="micro-converter.html"><span class="color-template color-template-micro-converter color-template-background-clip">Micro-Converters</span></a>
 </td></tr></tbody></table>
 
 <table class="article-table mw-collapsible mw-collapsed">
@@ -781,7 +781,7 @@ He made five appearances. His first visit was from April 27, 2018, to May 13, 20
 <ul><li>Hit a Golf Ball into the Hole on the <a href="dandelion-field.html">Dandelion Field</a>.</li>
 <li>Collect 200 <a href="pollen.html">Pollen</a>.</li></ul>
 </td>
-<td>1 Hour of New Golfer's Luck (Upon receiving quest)<br/><br/>----<br/><br/><span typeof="mw:Error mw:File"></span>1,000 <a href="honey.html"><span class="color-template color-template-honey">Honey</span></a><br/><span typeof="mw:Error mw:File"></span>5 <a href="ticket.html"><span class="color-template color-template-ticket color-template-background-clip">Tickets</span></a><br/><span typeof="mw:Error mw:File"></span>1 <a href="micro-converter.html"><span class="color-template color-template-micro-converter color-template-background-clip">Micro-Converter</span></a><br/>"<span class="new" data-uncrawlable-url="L3dpa2kvVGhlX0dhbWVzP2FjdGlvbj1lZGl0JnJlZGxpbms9MQ==" title="The Games (page does not exist)">The Games</span>" Silver
+<td>1 Hour of New Golfer's Luck (Upon receiving quest)<br/><br/>----<br/><br/><img alt="Honey" height="25" src="img/Honey.png" width="25"/>1,000 <a href="honey.html"><span class="color-template color-template-honey">Honey</span></a><br/><img alt="Ticket" height="25" src="img/Ticket.png" width="25"/>5 <a href="ticket.html"><span class="color-template color-template-ticket color-template-background-clip">Tickets</span></a><br/><img alt="Micro-Converter" height="25" src="img/Micro-Converter.png" width="25"/>1 <a href="micro-converter.html"><span class="color-template color-template-micro-converter color-template-background-clip">Micro-Converter</span></a><br/>"<span class="new" data-uncrawlable-url="L3dpa2kvVGhlX0dhbWVzP2FjdGlvbj1lZGl0JnJlZGxpbms9MQ==" title="The Games (page does not exist)">The Games</span>" Silver
 </td></tr>
 <tr>
 <td>⛳ The Games (2/3): Right On Target
@@ -791,7 +791,7 @@ He made five appearances. His first visit was from April 27, 2018, to May 13, 20
 <li>Activate 2 Targets with Golf Balls.</li>
 <li>Defeat 2 <a href="rhino-beetle.html">Rhino Beetles</a>.</li></ul>
 </td>
-<td>1 Hour of New Golfer's Luck (Upon receiving quest)<br/><br/>----<br/><br/><span typeof="mw:Error mw:File"></span>2,500 <a href="honey.html"><span class="color-template color-template-honey">Honey</span></a><br/><span typeof="mw:Error mw:File"></span>1 <a href="royal-jelly.html"><span class="color-template color-template-royal-jelly color-template-background-clip">Royal Jelly</span></a><br/><span typeof="mw:Error mw:File"></span>5 <a href="ticket.html"><span class="color-template color-template-ticket color-template-background-clip">Tickets</span></a><br/><span typeof="mw:Error mw:File"></span>3 <a href="field-dice.html"><span class="color-template color-template-field-dice color-template-background-clip">Field Dice</span></a><br/>"<span class="new" data-uncrawlable-url="L3dpa2kvVGhlX0dhbWVzP2FjdGlvbj1lZGl0JnJlZGxpbms9MQ==" title="The Games (page does not exist)">The Games</span>" Silver
+<td>1 Hour of New Golfer's Luck (Upon receiving quest)<br/><br/>----<br/><br/><img alt="Honey" height="25" src="img/Honey.png" width="25"/>2,500 <a href="honey.html"><span class="color-template color-template-honey">Honey</span></a><br/><img alt="Royal Jelly" height="25" src="img/Royal_Jelly.png" width="25"/>1 <a href="royal-jelly.html"><span class="color-template color-template-royal-jelly color-template-background-clip">Royal Jelly</span></a><br/><img alt="Ticket" height="25" src="img/Ticket.png" width="25"/>5 <a href="ticket.html"><span class="color-template color-template-ticket color-template-background-clip">Tickets</span></a><br/><img alt="Field Dice" height="25" src="img/Field_Dice.png" width="25"/>3 <a href="field-dice.html"><span class="color-template color-template-field-dice color-template-background-clip">Field Dice</span></a><br/>"<span class="new" data-uncrawlable-url="L3dpa2kvVGhlX0dhbWVzP2FjdGlvbj1lZGl0JnJlZGxpbms9MQ==" title="The Games (page does not exist)">The Games</span>" Silver
 </td></tr>
 <tr>
 <td>⛳ The Games (3/3): Hole In One
@@ -803,7 +803,7 @@ He made five appearances. His first visit was from April 27, 2018, to May 13, 20
 <li>Convert 2,500 <a href="pollen.html">Pollen</a> at the <a href="hive.html">Hive</a>.</li>
 <li>Obtain 3 <a href="bees.html">Bees</a>.</li></ul>
 </td>
-<td>1 Hour of New Golfer's Luck (Upon receiving quest)<br/><br/>----<br/><br/><span typeof="mw:Error mw:File"></span>5,000 <a href="honey.html"><span class="color-template color-template-honey">Honey</span></a><br/><span typeof="mw:Error mw:File"></span>1 <a href="ticket-planter.html"><span class="color-template color-template-ticket-planter color-template-background-clip">Ticket Planter</span></a><br/><span typeof="mw:Error mw:File"></span>25 <a href="gumdrops.html"><span class="color-template color-template-gumdrops color-template-background-clip">Gumdrops</span></a><br/><span typeof="mw:Error mw:File"></span>1 <a href="enzymes.html"><span class="color-template color-template-enzymes color-template-background-clip">Enzymes</span></a><br/><span typeof="mw:Error mw:File"></span>1 <a href="gingerbread-bear.html"><span class="color-template color-template-gingerbread-bear color-template-background-clip">Gingerbread Bear</span></a><br/><span typeof="mw:Error mw:File"></span>1 <a href="atomic-treat.html"><span class="color-template color-template-atomic-treat color-template-background-clip">Atomic Treat</span></a><br/><span typeof="mw:Error mw:File"></span>1 <a href="red-balloon.html"><span class="color-template color-template-red-balloon color-template-background-clip">Red Balloon</span></a><br/>"<span class="new" data-uncrawlable-url="L3dpa2kvVGhlX0dhbWVzP2FjdGlvbj1lZGl0JnJlZGxpbms9MQ==" title="The Games (page does not exist)">The Games</span>" Silver
+<td>1 Hour of New Golfer's Luck (Upon receiving quest)<br/><br/>----<br/><br/><img alt="Honey" height="25" src="img/Honey.png" width="25"/>5,000 <a href="honey.html"><span class="color-template color-template-honey">Honey</span></a><br/><img alt="Ticket Planter" height="25" src="img/Ticket_Planter.png" width="25"/>1 <a href="ticket-planter.html"><span class="color-template color-template-ticket-planter color-template-background-clip">Ticket Planter</span></a><br/><img alt="Gumdrops" height="25" src="img/Gumdrops.png" width="25"/>25 <a href="gumdrops.html"><span class="color-template color-template-gumdrops color-template-background-clip">Gumdrops</span></a><br/><img alt="Enzymes" height="25" src="img/Enzymes.png" width="25"/>1 <a href="enzymes.html"><span class="color-template color-template-enzymes color-template-background-clip">Enzymes</span></a><br/><img alt="Gingerbread Bear" height="25" src="img/Gingerbread_Bear.png" width="25"/>1 <a href="gingerbread-bear.html"><span class="color-template color-template-gingerbread-bear color-template-background-clip">Gingerbread Bear</span></a><br/><img alt="Atomic Treat" height="25" src="img/Atomic_Treat.png" width="25"/>1 <a href="atomic-treat.html"><span class="color-template color-template-atomic-treat color-template-background-clip">Atomic Treat</span></a><br/><img alt="Red Balloon" height="25" src="img/Red_Balloon.png" width="25"/>1 <a href="red-balloon.html"><span class="color-template color-template-red-balloon color-template-background-clip">Red Balloon</span></a><br/>"<span class="new" data-uncrawlable-url="L3dpa2kvVGhlX0dhbWVzP2FjdGlvbj1lZGl0JnJlZGxpbms9MQ==" title="The Games (page does not exist)">The Games</span>" Silver
 </td></tr></tbody></table>
 
 <table class="article-table mw-collapsible mw-collapsed">
@@ -852,7 +852,7 @@ He made five appearances. His first visit was from April 27, 2018, to May 13, 20
 <li>Collect 400 Focus Tokens.</li>
 <li>Collect 50 Tokens from Bean Bugs.</li></ul>
 </td>
-<td><span typeof="mw:Error mw:File"></span>100,000 <a href="honey.html"><span class="color-template color-template-honey">Honey</span></a><br/><span typeof="mw:Error mw:File"></span>10 <a href="ticket.html"><span class="color-template color-template-ticket color-template-background-clip">Tickets</span></a><br/><span typeof="mw:Error mw:File"></span>1 <a href="glue.html"><span class="color-template color-template-glue color-template-background-clip">Glue</span></a><br/><span typeof="mw:Error mw:File"></span>1 <a href="hard-wax.html"><span class="color-template color-template-hard-wax">Hard Wax</span></a><br/><span typeof="mw:Error mw:File"></span>1 <a href="royal-jelly.html"><span class="color-template color-template-royal-jelly color-template-background-clip">Royal Jelly</span></a>
+<td><img alt="Honey" height="25" src="img/Honey.png" width="25"/>100,000 <a href="honey.html"><span class="color-template color-template-honey">Honey</span></a><br/><img alt="Ticket" height="25" src="img/Ticket.png" width="25"/>10 <a href="ticket.html"><span class="color-template color-template-ticket color-template-background-clip">Tickets</span></a><br/><img alt="Glue" height="25" src="img/Glue.png" width="25"/>1 <a href="glue.html"><span class="color-template color-template-glue color-template-background-clip">Glue</span></a><br/><img alt="Hard Wax" height="25" src="img/Hard_Wax.png" width="25"/>1 <a href="hard-wax.html"><span class="color-template color-template-hard-wax">Hard Wax</span></a><br/><img alt="Royal Jelly" height="25" src="img/Royal_Jelly.png" width="25"/>1 <a href="royal-jelly.html"><span class="color-template color-template-royal-jelly color-template-background-clip">Royal Jelly</span></a>
 </td></tr>
 <tr>
 <td>⌛Waiting With Sun Bear (2/6): And Mother Bear
@@ -901,7 +901,7 @@ He made five appearances. His first visit was from April 27, 2018, to May 13, 20
 <li>Obtain 1 Hourglass Sticker to give to Sun Bear.</li>
 <li>Obtain 6 AFK Stickers to give to Sun Bear.</li></ul></li></ul>
 </td>
-<td><span typeof="mw:Error mw:File"></span>2,500,000,000 <a href="honey.html"><span class="color-template color-template-honey">Honey</span></a><br/><span typeof="mw:Error mw:File"></span>250 <a href="ticket.html"><span class="color-template color-template-ticket color-template-background-clip">Tickets</span></a><br/><span typeof="mw:Error mw:File"></span>1 <a href="super-smoothie.html"><span class="color-template color-template-super-smoothie color-template-background-clip">Super Smoothie</span></a><br/><span typeof="mw:Error mw:File"></span>1 <a href="black-balloon.html"><span class="color-template color-template-black-balloon">Black Balloon</span></a><br/><span typeof="mw:Error mw:File"></span> <a href="sticker.html">Stranded Sun Bear Sticker</a>
+<td><img alt="Honey" height="25" src="img/Honey.png" width="25"/>2,500,000,000 <a href="honey.html"><span class="color-template color-template-honey">Honey</span></a><br/><img alt="Ticket" height="25" src="img/Ticket.png" width="25"/>250 <a href="ticket.html"><span class="color-template color-template-ticket color-template-background-clip">Tickets</span></a><br/><img alt="Super Smoothie" height="25" src="img/Super_Smoothie.png" width="25"/>1 <a href="super-smoothie.html"><span class="color-template color-template-super-smoothie color-template-background-clip">Super Smoothie</span></a><br/><img alt="Black Balloon" height="25" src="img/Black_Balloon.png" width="25"/>1 <a href="black-balloon.html"><span class="color-template color-template-black-balloon">Black Balloon</span></a><br/><img alt="Sticker" height="35" src="img/Sticker.png" width="35"/> <a href="sticker.html">Stranded Sun Bear Sticker</a>
 </td></tr></tbody></table>
 
 <table class="article-table mw-collapsible mw-collapsed">
@@ -920,10 +920,6 @@ He made five appearances. His first visit was from April 27, 2018, to May 13, 20
 </td>
 <td>Man, you did ALL that and the rest of the golf courses still ain't done? Amazing how this game still has players when it takes this long to update! I can't wait around forever - I have places to be! And I'm not even sure if my RV will start up at this point. Anyways, we'll go ahead with one last quest. Finish this, and the Limited Edition [Stranded Sun Bear Sticker] is all yours! With that, you'll get to stare at my cool sunglasses even when I'm gone. Go out there and impress me! Uh, but don't finish it too fast. We're still waiting here, after all...<br/><br/><i>-Completion-</i><br/><br/>Hot diggity! You and your bees put on an impressive show. At least you've kept me entertained while I've been stuck here waiting on Onett. You've really earned this: the [Stranded Sun Bear Sticker]! It's cool, handsome, rare, and will probably be worth a fortune some day. Great stuff. ... Welp. That was fun. But, uh. Back to waiting...
 </td></tr></tbody></table>
-
-## Gallery
-
-<div class="wikia-gallery wikia-gallery-caption-below wikia-gallery-position-left wikia-gallery-spacing-medium wikia-gallery-border-small wikia-gallery-captions-left wikia-gallery-caption-size-medium" data-seq-no="0" hash="999a549f19994ba8719a32804d9b4ac2" id="gallery-0"><div class="wikia-gallery-caption"></div><div class="wikia-gallery-item" style="width:187px; "><div class="thumb" style="height:187px;"><div class="gallery-image-wrapper accent" id="SunBear-png" style="position: relative; height:185px; width:185px;"><span style="line-height: 1;">SunBear.png</span></div></div><div class="lightbox-caption" style="width:185px;">Sun Bear standing next to his RV during his <a href="belt-bag.html">Belt Bag</a> event.</div></div><div class="wikia-gallery-item" style="width:187px; "><div class="thumb" style="height:187px;"><div class="gallery-image-wrapper accent" id="Sun_Bear-png" style="position: relative; height:185px; width:185px;"><span style="line-height: 1;">Sun Bear.png</span></div></div><div class="lightbox-caption" style="width:185px;">Sun Bear standing next to his RV during his Boot event.</div></div><div class="wikia-gallery-item" style="width:187px; "><div class="thumb" style="height:187px;"><div class="gallery-image-wrapper accent" id="RobloxPlayerBeta_2018-10-08_18-54-17-png" style="position: relative; height:185px; width:185px;"><span style="line-height: 1;">RobloxPlayerBeta 2018-10-08 18-54-17.png</span></div></div><div class="lightbox-caption" style="width:185px;">A message about Sun Bear leaving.</div></div><div class="wikia-gallery-item" style="width:187px; "><div class="thumb" style="height:187px;"><div class="gallery-image-wrapper accent" id="SunBearLeft---jpeg" style="position: relative; height:185px; width:185px;"><span style="line-height: 1;">SunBearLeft-(.jpeg</span></div></div><div class="lightbox-caption" style="width:185px;">An announcement about Robux deals before Sun Bear leaves.</div></div><div class="wikia-gallery-item" style="width:187px; "><div class="thumb" style="height:187px;"><div class="gallery-image-wrapper accent" id="Oooof-jpeg" style="position: relative; height:185px; width:185px;"><span style="line-height: 1;">Oooof.jpeg</span></div></div><div class="lightbox-caption" style="width:185px;">An announcement about Sun Bear leaving.</div></div><div class="wikia-gallery-item" style="width:187px; "><div class="thumb" style="height:187px;"><div class="gallery-image-wrapper accent" id="Sun_Bear_3rd-png" style="position: relative; height:185px; width:185px;"><span style="line-height: 1;">Sun Bear 3rd.png</span></div></div><div class="lightbox-caption" style="width:185px;">Sun Bear's visit during Bean Bug Quest.</div></div><div class="wikia-gallery-item" style="width:187px; "><div class="thumb" style="height:187px;"><div class="gallery-image-wrapper accent" id="Bean_Bug_Caged-png" style="position: relative; height:185px; width:185px;"><span style="line-height: 1;">Bean Bug Caged.png</span></div></div><div class="lightbox-caption" style="width:185px;">A trapped Bean Bug next to Sun Bear during the Bean Bug Quest.</div></div><div class="wikia-gallery-item" style="width:187px; "><div class="thumb" style="height:187px;"><div class="gallery-image-wrapper accent" id="Screen_Shot_2019-10-11_at_4-25-35_PM-png" style="position: relative; height:185px; width:185px;"><span style="line-height: 1;">Screen Shot 2019-10-11 at 4.25.35 PM.png</span></div></div><div class="lightbox-caption" style="width:185px;">A player inside the Bean Bug's cage.</div></div><div class="wikia-gallery-item" style="width:187px; "><div class="thumb" style="height:187px;"><div class="gallery-image-wrapper accent" id="RobloxScreenShot20191021_070627420_-2--png" style="position: relative; height:185px; width:185px;"><span style="line-height: 1;">RobloxScreenShot20191021 070627420 (2).png</span></div></div><div class="lightbox-caption" style="width:185px;">The Bean Bug outside of its cage.</div></div><div class="wikia-gallery-item" style="width:187px; "><div class="thumb" style="height:187px;"><div class="gallery-image-wrapper accent" id="Sunbearleavesus-png" style="position: relative; height:185px; width:185px;"><span style="line-height: 1;">Sunbearleavesus.png</span></div></div><div class="lightbox-caption" style="width:185px;">An announcement about Sun Bear leaving in 6 hours (2019-09-28 visit).</div></div><div class="wikia-gallery-item" style="width:187px; "><div class="thumb" style="height:187px;"><div class="gallery-image-wrapper accent" id="2020_egghunt-jpg" style="position: relative; height:185px; width:185px;"><span style="line-height: 1;">2020 egghunt.jpg</span></div></div><div class="lightbox-caption" style="width:185px;">Sun Bear in the <span class="new" data-uncrawlable-url="L3dpa2kvRWdnX0h1bnRfMjAyMD9hY3Rpb249ZWRpdCZyZWRsaW5rPTE=" title="Egg Hunt 2020 (page does not exist)">Roblox Egg Hunt 2020</span> event.</div></div><div class="wikia-gallery-item" style="width:187px; "><div class="thumb" style="height:187px;"><div class="gallery-image-wrapper accent" id="Travelbody1-png" style="position: relative; height:185px; width:185px;"><span style="line-height: 1;">Travelbody1.png</span></div></div><div class="lightbox-caption" style="width:185px;">The decal used for Sun Bear's torso.</div></div><div class="wikia-gallery-item" style="width:187px; "><div class="thumb" style="height:187px;"><div class="gallery-image-wrapper accent" id="Flag_of_Phoenix--PhoenixFlag-png" style="position: relative; height:185px; width:185px;"><span style="line-height: 1;">Flag of Phoenix--PhoenixFlag.png</span></div></div><div class="lightbox-caption" style="width:185px;">The flag of Phoenix, Arizona, which is pasted on Sun Bear's RV.</div></div><div class="wikia-gallery-item" style="width:187px; "><div class="thumb" style="height:187px;"><div class="gallery-image-wrapper accent" id="EF9C458B-D4E3-4ADC-A94D-59E9F2515D98-jpeg" style="position: relative; height:185px; width:185px;"><span style="line-height: 1;">EF9C458B-D4E3-4ADC-A94D-59E9F2515D98.jpeg</span></div></div><div class="lightbox-caption" style="width:185px;">Sun Bear leaving.</div></div><div class="wikia-gallery-item" style="width:187px; "><div class="thumb" style="height:187px;"><div class="gallery-image-wrapper accent" id="Imagesdffdsfsf-png" style="position: relative; height:185px; width:185px;"><span style="line-height: 1;">Imagesdffdsfsf.png</span></div></div><div class="lightbox-caption" style="width:185px;">Sun Bear standing next to his RV and holding a golf club during <span class="new" data-uncrawlable-url="L3dpa2kvVGhlX0dhbWVzP2FjdGlvbj1lZGl0JnJlZGxpbms9MQ==" title="The Games (page does not exist)">The Games</span>.</div></div><div class="wikia-gallery-item" style="width:187px; "><div class="thumb" style="height:187px;"><div class="gallery-image-wrapper accent" id="SunBearUhhBeesmas2024-png" style="position: relative; height:185px; width:185px;"><span style="line-height: 1;">SunBearUhhBeesmas2024.png</span></div></div><div class="lightbox-caption" style="width:185px;">Sun Bear's message right before Beesmas 2024 (Summer) ends</div></div></div>
 
 ## Trivia
 

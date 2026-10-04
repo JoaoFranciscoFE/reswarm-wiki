@@ -1457,50 +1457,50 @@ After the challenge ends, a message box displays the rewards. The number of rewa
 <table class="article-table">
 <tbody><tr>
 <td>
-<ul><li><span typeof="mw:Error mw:File"></span><a href="honey.html"><span class="color-template color-template-honey">Honey</span></a></li>
+<ul><li><img alt="Honey" height="35" src="img/Honey.png" width="35"/><a href="honey.html"><span class="color-template color-template-honey">Honey</span></a></li>
 <li>Potentially 1-2 items of the following types (has a chance to reward one more type of drive when completing the challenge):
-<ul><li><span typeof="mw:Error mw:File"></span><a href="drives.html#Red_Drive"><span class="color-template color-template-red-drive color-template-background-clip">Red Drives</span></a></li>
-<li><span typeof="mw:Error mw:File"></span><a href="drives.html#White_Drive"><span class="color-template color-template-white-drive color-template-background-clip">White Drives</span></a></li>
-<li><span typeof="mw:Error mw:File"></span><a href="drives.html#Blue_Drive"><span class="color-template color-template-blue-drive color-template-background-clip">Blue Drives</span></a></li>
-<li><span typeof="mw:Error mw:File"></span><a href="drives.html#Glitched_Drive"><span class="color-template color-template-glitched-drive color-template-background-clip">Glitched Drives</span></a> (Past completing round 10, chance increases the higher the round the challenge ended).
-<ul><li>Beating Round 20 guarantees <span typeof="mw:Error mw:File"></span>1 <a href="drives.html#Glitched_Drive"><span class="color-template color-template-glitched-drive color-template-background-clip">Glitched Drive</span></a> with a cooldown of 1 day (22 hours).</li>
-<li>Beating Round 25 guarantees 1 more <span typeof="mw:Error mw:File"></span><a href="drives.html#Glitched_Drive"><span class="color-template color-template-glitched-drive color-template-background-clip">Glitched Drive</span></a>.</li></ul></li></ul></li>
+<ul><li><img alt="Red Drive" height="35" src="img/Red_Drive.png" width="35"/><a href="drives.html#Red_Drive"><span class="color-template color-template-red-drive color-template-background-clip">Red Drives</span></a></li>
+<li><img alt="White Drive" height="35" src="img/White_Drive.png" width="35"/><a href="drives.html#White_Drive"><span class="color-template color-template-white-drive color-template-background-clip">White Drives</span></a></li>
+<li><img alt="Blue Drive" height="35" src="img/Blue_Drive.png" width="35"/><a href="drives.html#Blue_Drive"><span class="color-template color-template-blue-drive color-template-background-clip">Blue Drives</span></a></li>
+<li><img alt="Glitched Drive" height="35" src="img/Glitched_Drive.png" width="35"/><a href="drives.html#Glitched_Drive"><span class="color-template color-template-glitched-drive color-template-background-clip">Glitched Drives</span></a> (Past completing round 10, chance increases the higher the round the challenge ended).
+<ul><li>Beating Round 20 guarantees <img alt="Glitched Drive" height="25" src="img/Glitched_Drive.png" width="25"/>1 <a href="drives.html#Glitched_Drive"><span class="color-template color-template-glitched-drive color-template-background-clip">Glitched Drive</span></a> with a cooldown of 1 day (22 hours).</li>
+<li>Beating Round 25 guarantees 1 more <img alt="Glitched Drive" height="35" src="img/Glitched_Drive.png" width="35"/><a href="drives.html#Glitched_Drive"><span class="color-template color-template-glitched-drive color-template-background-clip">Glitched Drive</span></a>.</li></ul></li></ul></li>
 <li>Three of the following (The chance of getting certain items are affected by the round the challenge ended):
-<ul><li><span typeof="mw:Error mw:File"></span><a href="royal-jelly.html#Star_Jelly"><span class="color-template color-template-star-jelly color-template-background-clip">Star Jellies</span></a></li>
-<li><span typeof="mw:Error mw:File"></span><a href="hard-wax.html"><span class="color-template color-template-hard-wax">Hard Waxes</span></a></li>
-<li><span typeof="mw:Error mw:File"></span><a href="field-dice.html"><span class="color-template color-template-field-dice color-template-background-clip">Field Dice</span></a></li>
-<li><span typeof="mw:Error mw:File"></span><a href="smooth-dice.html"><span class="color-template color-template-smooth-dice color-template-background-clip">Smooth Dice</span></a></li>
-<li><span typeof="mw:Error mw:File"></span><a href="loaded-dice.html"><span class="color-template color-template-loaded-dice color-template-background-clip">Loaded Dice</span></a></li>
-<li><span typeof="mw:Error mw:File"></span><a href="whirligig.html"><span class="color-template color-template-whirligig color-template-background-clip">Whirligigs</span></a></li>
-<li><span typeof="mw:Error mw:File"></span><a href="honeysuckle.html"><span class="color-template color-template-honeysuckle color-template-background-clip">Honeysuckles</span></a></li>
-<li><span typeof="mw:Error mw:File"></span><a href="micro-converter.html"><span class="color-template color-template-micro-converter color-template-background-clip">Micro-Converters</span></a></li>
-<li><span typeof="mw:Error mw:File"></span><a href="jelly-beans.html"><span class="color-template color-template-jelly-beans color-template-background-clip">Jelly Beans</span></a></li>
-<li><span typeof="mw:Error mw:File"></span><a href="glue.html"><span class="color-template color-template-glue color-template-background-clip">Glues</span></a></li>
-<li><span typeof="mw:Error mw:File"></span><a href="oil.html"><span class="color-template color-template-oil color-template-background-clip">Oils</span></a></li>
-<li><span typeof="mw:Error mw:File"></span><a href="neonberry.html"><span class="color-template color-template-neonberry color-template-background-clip">Neonberries</span></a></li>
-<li><span typeof="mw:Error mw:File"></span><a href="white-balloon.html"><span class="color-template color-template-white-balloon color-template-background-clip">White Balloons</span></a> (Common)</li>
-<li><span typeof="mw:Error mw:File"></span><a href="purple-potion.html"><span class="color-template color-template-purple-potion color-template-background-clip">Purple Potions</span></a> (Common).</li>
-<li><span typeof="mw:Error mw:File"></span><a href="super-smoothie.html"><span class="color-template color-template-super-smoothie color-template-background-clip">Super Smoothies</span></a> (Common).</li>
-<li><span typeof="mw:Error mw:File"></span><a href="atomic-treat.html"><span class="color-template color-template-atomic-treat color-template-background-clip">Atomic Treats</span></a> (Rare)</li>
-<li><span typeof="mw:Error mw:File"></span><a href="bang-snap.html"><span class="color-template color-template-bang-snap color-template-background-clip">Bang Snaps</span></a> (Rare)</li>
-<li><span typeof="mw:Error mw:File"></span><a href="egg.html#Gold_Egg"><span class="color-template color-template-gold-egg color-template-background-clip">Gold Egg</span></a> (Rare).</li>
-<li><span typeof="mw:Error mw:File"></span><a href="whistle.html"><span class="color-template color-template-whistle color-template-background-clip">Whistle</span></a> (Rare).</li>
-<li><span typeof="mw:Error mw:File"></span><a href="sticker.html#Sticker_Index"><span class="color-template color-template-small-shield-sticker color-template-background-clip">Small Shield Sticker</span></a> (Very Rare).</li>
-<li><span typeof="mw:Error mw:File"></span><a href="egg.html#Diamond_Egg"><span class="color-template color-template-diamond-egg color-template-background-clip">Diamond Egg</span></a> (Extremely Rare).</li>
-<li><span typeof="mw:Error mw:File"></span><a href="egg.html#Mythic_Egg"><span class="color-template color-template-mythic-egg color-template-background-clip">Mythic Egg</span></a> (Extremely Rare).</li>
-<li><span typeof="mw:Error mw:File"></span><a href="turpentine.html"><span class="color-template color-template-turpentine color-template-background-clip">Turpentine</span></a> (Very Rare).</li>
-<li><span typeof="mw:Error mw:File"></span><a href="egg.html#Gifted_Silver_Egg"><span class="color-template color-template-gifted-silver-egg color-template-background-clip">Gifted Silver Egg</span></a> (Extremely Rare).</li>
-<li><span typeof="mw:Error mw:File"></span><a href="egg.html#Gifted_Gold_Egg"><span class="color-template color-template-gifted-gold-egg color-template-background-clip">Gifted Gold Egg</span></a> (Extremely Rare).</li>
-<li><span typeof="mw:Error mw:File"></span><a href="egg.html#Gifted_Diamond_Egg"><span class="color-template color-template-gifted-diamond-egg color-template-background-clip">Gifted Diamond Egg</span></a> (Extremely Rare).</li>
-<li><span typeof="mw:Error mw:File"></span><a href="sticker.html#Sticker_Index"><span class="color-template color-template-robot-head-sticker color-template-background-clip">Robot Head Sticker</span></a> (Extremely rare).</li>
-<li><span typeof="mw:Error mw:File"></span><a href="pink-shades.html"><span class="color-template color-template-pink-shades color-template-background-clip">Pink Shades</span></a> (Exceptionally Rare).</li>
-<li><span typeof="mw:Error mw:File"></span><a href="demon-talisman.html"><span class="color-template color-template-demon-talisman color-template-background-clip">Demon Talisman</span></a> (Exceptionally Rare)</li>
-<li><span typeof="mw:Error mw:File"></span><a href="sticker.html#Sticker_Index"><span class="color-template color-template-cub-buddy-voucher color-template-background-clip">Cub Buddy Voucher</span></a> (Unfathomably Rare).</li>
-<li><span typeof="mw:Error mw:File"></span><a href="sticker.html#Sticker_Index"><span class="color-template color-template-offline-voucher color-template-background-clip">Offline Voucher</span></a> (Unfathomably Rare).</li>
-<li><span typeof="mw:Error mw:File"></span><a href="egg.html#Gifted_Mythic_Egg"><span class="color-template color-template-gifted-mythic-egg color-template-background-clip">Gifted Mythic Egg</span></a> (Nearly Impossible)</li>
-<li><span typeof="mw:Error mw:File"></span><a href="pink-eraser.html"><span class="color-template color-template-pink-eraser color-template-background-clip">Pink Eraser</span></a> (Unknown)</li>
-<li><span typeof="mw:Error mw:File"></span><a href="candy-ring.html"><span class="color-template color-template-candy-ring color-template-background-clip">Candy Ring</span></a> (Unknown)</li>
-<li><span typeof="mw:Error mw:File"></span><a href="camphor-lip-balm.html"><span class="color-template color-template-camphor-lip-balm color-template-background-clip">Camphor Lip Balm</span></a> (Unknown)</li></ul></li></ul>
+<ul><li><img alt="Star Jelly" height="35" src="img/Star_Jelly.png" width="35"/><a href="royal-jelly.html#Star_Jelly"><span class="color-template color-template-star-jelly color-template-background-clip">Star Jellies</span></a></li>
+<li><img alt="Hard Wax" height="35" src="img/Hard_Wax.png" width="35"/><a href="hard-wax.html"><span class="color-template color-template-hard-wax">Hard Waxes</span></a></li>
+<li><img alt="Field Dice" height="35" src="img/Field_Dice.png" width="35"/><a href="field-dice.html"><span class="color-template color-template-field-dice color-template-background-clip">Field Dice</span></a></li>
+<li><img alt="Smooth Dice" height="35" src="img/Smooth_Dice.png" width="35"/><a href="smooth-dice.html"><span class="color-template color-template-smooth-dice color-template-background-clip">Smooth Dice</span></a></li>
+<li><img alt="Loaded Dice" height="35" src="img/Loaded_Dice.png" width="35"/><a href="loaded-dice.html"><span class="color-template color-template-loaded-dice color-template-background-clip">Loaded Dice</span></a></li>
+<li><img alt="Whirligig" height="35" src="img/Whirligig.png" width="35"/><a href="whirligig.html"><span class="color-template color-template-whirligig color-template-background-clip">Whirligigs</span></a></li>
+<li><img alt="Honeysuckle" height="35" src="img/Honeysuckle.png" width="35"/><a href="honeysuckle.html"><span class="color-template color-template-honeysuckle color-template-background-clip">Honeysuckles</span></a></li>
+<li><img alt="Micro-Converter" height="35" src="img/Micro-Converter.png" width="35"/><a href="micro-converter.html"><span class="color-template color-template-micro-converter color-template-background-clip">Micro-Converters</span></a></li>
+<li><img alt="Jelly Beans" height="35" src="img/Jelly_Beans.png" width="35"/><a href="jelly-beans.html"><span class="color-template color-template-jelly-beans color-template-background-clip">Jelly Beans</span></a></li>
+<li><img alt="Glue" height="35" src="img/Glue.png" width="35"/><a href="glue.html"><span class="color-template color-template-glue color-template-background-clip">Glues</span></a></li>
+<li><img alt="Oil" height="35" src="img/Oil.png" width="35"/><a href="oil.html"><span class="color-template color-template-oil color-template-background-clip">Oils</span></a></li>
+<li><img alt="Neonberry" height="35" src="img/Neonberry.png" width="35"/><a href="neonberry.html"><span class="color-template color-template-neonberry color-template-background-clip">Neonberries</span></a></li>
+<li><img alt="White Balloon" height="35" src="img/White_Balloon.png" width="35"/><a href="white-balloon.html"><span class="color-template color-template-white-balloon color-template-background-clip">White Balloons</span></a> (Common)</li>
+<li><img alt="Purple Potion" height="35" src="img/Purple_Potion.png" width="35"/><a href="purple-potion.html"><span class="color-template color-template-purple-potion color-template-background-clip">Purple Potions</span></a> (Common).</li>
+<li><img alt="Super Smoothie" height="35" src="img/Super_Smoothie.png" width="35"/><a href="super-smoothie.html"><span class="color-template color-template-super-smoothie color-template-background-clip">Super Smoothies</span></a> (Common).</li>
+<li><img alt="Atomic Treat" height="35" src="img/Atomic_Treat.png" width="35"/><a href="atomic-treat.html"><span class="color-template color-template-atomic-treat color-template-background-clip">Atomic Treats</span></a> (Rare)</li>
+<li><img alt="Bang Snap" height="35" src="img/Bang_Snap.png" width="35"/><a href="bang-snap.html"><span class="color-template color-template-bang-snap color-template-background-clip">Bang Snaps</span></a> (Rare)</li>
+<li><img alt="Gold Egg" height="35" src="img/Gold_Egg.png" width="35"/><a href="egg.html#Gold_Egg"><span class="color-template color-template-gold-egg color-template-background-clip">Gold Egg</span></a> (Rare).</li>
+<li><img alt="Whistle" height="35" src="img/Whistle.png" width="35"/><a href="whistle.html"><span class="color-template color-template-whistle color-template-background-clip">Whistle</span></a> (Rare).</li>
+<li><img alt="Sticker" height="35" src="img/Sticker.png" width="35"/><a href="sticker.html#Sticker_Index"><span class="color-template color-template-small-shield-sticker color-template-background-clip">Small Shield Sticker</span></a> (Very Rare).</li>
+<li><img alt="Diamond Egg" height="35" src="img/Diamond_Egg.png" width="35"/><a href="egg.html#Diamond_Egg"><span class="color-template color-template-diamond-egg color-template-background-clip">Diamond Egg</span></a> (Extremely Rare).</li>
+<li><img alt="Mythic Egg" height="35" src="img/Mythic_Egg.png" width="35"/><a href="egg.html#Mythic_Egg"><span class="color-template color-template-mythic-egg color-template-background-clip">Mythic Egg</span></a> (Extremely Rare).</li>
+<li><img alt="Turpentine" height="35" src="img/Turpentine.png" width="35"/><a href="turpentine.html"><span class="color-template color-template-turpentine color-template-background-clip">Turpentine</span></a> (Very Rare).</li>
+<li><img alt="Gifted Silver Egg" height="35" src="img/Gifted_Silver_Egg.png" width="35"/><a href="egg.html#Gifted_Silver_Egg"><span class="color-template color-template-gifted-silver-egg color-template-background-clip">Gifted Silver Egg</span></a> (Extremely Rare).</li>
+<li><img alt="Gifted Gold Egg" height="35" src="img/Gifted_Gold_Egg.png" width="35"/><a href="egg.html#Gifted_Gold_Egg"><span class="color-template color-template-gifted-gold-egg color-template-background-clip">Gifted Gold Egg</span></a> (Extremely Rare).</li>
+<li><img alt="Gifted Diamond Egg" height="35" src="img/Gifted_Diamond_Egg.png" width="35"/><a href="egg.html#Gifted_Diamond_Egg"><span class="color-template color-template-gifted-diamond-egg color-template-background-clip">Gifted Diamond Egg</span></a> (Extremely Rare).</li>
+<li><img alt="Sticker" height="35" src="img/Sticker.png" width="35"/><a href="sticker.html#Sticker_Index"><span class="color-template color-template-robot-head-sticker color-template-background-clip">Robot Head Sticker</span></a> (Extremely rare).</li>
+<li><img alt="Pink Shades" height="35" src="img/Pink_Shades.png" width="35"/><a href="pink-shades.html"><span class="color-template color-template-pink-shades color-template-background-clip">Pink Shades</span></a> (Exceptionally Rare).</li>
+<li><img alt="Demon Talisman" height="35" src="img/Demon_Talisman.png" width="35"/><a href="demon-talisman.html"><span class="color-template color-template-demon-talisman color-template-background-clip">Demon Talisman</span></a> (Exceptionally Rare)</li>
+<li><img alt="Cub Buddy Voucher" height="35" src="img/Cub_Buddy_Voucher.png" width="35"/><a href="sticker.html#Sticker_Index"><span class="color-template color-template-cub-buddy-voucher color-template-background-clip">Cub Buddy Voucher</span></a> (Unfathomably Rare).</li>
+<li><img alt="Offline Voucher" height="35" src="img/Offline_Voucher.png" width="35"/><a href="sticker.html#Sticker_Index"><span class="color-template color-template-offline-voucher color-template-background-clip">Offline Voucher</span></a> (Unfathomably Rare).</li>
+<li><img alt="Gifted Mythic Egg" height="35" src="img/Gifted_Mythic_Egg.png" width="35"/><a href="egg.html#Gifted_Mythic_Egg"><span class="color-template color-template-gifted-mythic-egg color-template-background-clip">Gifted Mythic Egg</span></a> (Nearly Impossible)</li>
+<li><img alt="Pink Eraser" height="35" src="img/Pink_Eraser.png" width="35"/><a href="pink-eraser.html"><span class="color-template color-template-pink-eraser color-template-background-clip">Pink Eraser</span></a> (Unknown)</li>
+<li><img alt="Candy Ring" height="35" src="img/Candy_Ring.png" width="35"/><a href="candy-ring.html"><span class="color-template color-template-candy-ring color-template-background-clip">Candy Ring</span></a> (Unknown)</li>
+<li><img alt="Camphor Lip Balm" height="35" src="img/Camphor_Lip_Balm.png" width="35"/><a href="camphor-lip-balm.html"><span class="color-template color-template-camphor-lip-balm color-template-background-clip">Camphor Lip Balm</span></a> (Unknown)</li></ul></li></ul>
 </td></tr></tbody></table>
 
 ### Amulets
@@ -1528,7 +1528,7 @@ After the challenge ends, a message box displays the rewards. The number of rewa
 </td>
 <td><span typeof="mw:Error mw:File"></span> Gold <a href="cog-amulet.html">Cog Amulet</a>
 </td>
-<td>Access to crafting <span typeof="mw:Error mw:File"></span><a href="drives.html#Glitched_Drive"><span class="color-template color-template-glitched-drive color-template-background-clip">Glitched Drives</span></a>
+<td>Access to crafting <img alt="Glitched Drive" height="35" src="img/Glitched_Drive.png" width="35"/><a href="drives.html#Glitched_Drive"><span class="color-template color-template-glitched-drive color-template-background-clip">Glitched Drives</span></a>
 </td></tr>
 <tr>
 <td>Round 20 - 24
@@ -1542,7 +1542,7 @@ After the challenge ends, a message box displays the rewards. The number of rewa
 </td>
 <td><span typeof="mw:Error mw:File"></span> Supreme <a href="cog-amulet.html">Cog Amulet</a>
 </td>
-<td>Challenge Completion and <span typeof="mw:Error mw:File"></span><a href="cub-buddy.html#Skins"><span class="color-template color-template-robo-cub color-template-background-clip">Robo Cub</span></a> skin (first time only)
+<td>Challenge Completion and <img alt="Robo Cub" height="35" src="img/Robo_Cub.png" width="35"/><a href="cub-buddy.html#Skins"><span class="color-template color-template-robo-cub color-template-background-clip">Robo Cub</span></a> skin (first time only)
 </td></tr></tbody></table>
 
 ## Trivia

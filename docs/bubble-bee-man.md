@@ -134,15 +134,15 @@ This is a placeholder. Please feel free to add any confirmed information about h
 <li>Summon and Defeat a Level 21 Snowbear.</li></ul>
 </td>
 <td>
-<ul><li><span typeof="mw:Error mw:File"></span>40,023,627,477,283 <a href="honey.html"><span class="color-template color-template-honey">Honey</span></a></li>
-<li><span typeof="mw:Error mw:File"></span>1 <a href="royal-jelly.html"><span class="color-template color-template-royal-jelly color-template-background-clip">Royal Jelly</span></a></li>
-<li><span typeof="mw:Error mw:File"></span>5 <a href="sunflower-seed.html"><span class="color-template color-template-sunflower-seed color-template-background-clip">Sunflower Seeds</span></a></li>
-<li><span typeof="mw:Error mw:File"></span>644 <a href="jelly-beans.html"><span class="color-template color-template-jelly-beans color-template-background-clip">Jelly Beans</span></a></li>
-<li><span typeof="mw:Error mw:File"></span>10 <a href="box-o-frogs.html"><span class="color-template color-template-box-o-frogs color-template-background-clip">Boxes-O-Frogs</span></a></li>
-<li><span typeof="mw:Error mw:File"></span>7 <a href="nectar-shower-vial.html"><span class="color-template color-template-nectar-shower-vial color-template-background-clip">Nectar Shower Vials</span></a></li>
-<li><span typeof="mw:Error mw:File"></span>1 <a href="nectar-tester.html"><span class="color-template color-template-nectar-tester color-template-background-clip">Nectar Tester</span></a></li>
-<li><span typeof="mw:Error mw:File"></span>1 <a href="debug-wax.html"><span class="color-template color-template-debug-wax">Debug Wax</span></a></li>
-<li><span typeof="mw:Error mw:File"></span>1 <a href="egg.html#Gifted_Bubble_Bee_Egg"><span class="color-template color-template-gifted-bubble-bee-egg color-template-background-clip">Gifted Bubble Bee Egg</span></a></li>
+<ul><li><img alt="Honey" height="25" src="img/Honey.png" width="25"/>40,023,627,477,283 <a href="honey.html"><span class="color-template color-template-honey">Honey</span></a></li>
+<li><img alt="Royal Jelly" height="25" src="img/Royal_Jelly.png" width="25"/>1 <a href="royal-jelly.html"><span class="color-template color-template-royal-jelly color-template-background-clip">Royal Jelly</span></a></li>
+<li><img alt="Sunflower Seed" height="25" src="img/Sunflower_Seed.png" width="25"/>5 <a href="sunflower-seed.html"><span class="color-template color-template-sunflower-seed color-template-background-clip">Sunflower Seeds</span></a></li>
+<li><img alt="Jelly Beans" height="25" src="img/Jelly_Beans.png" width="25"/>644 <a href="jelly-beans.html"><span class="color-template color-template-jelly-beans color-template-background-clip">Jelly Beans</span></a></li>
+<li><img alt="Box-O-Frogs" height="25" src="img/Box-O-Frogs.png" width="25"/>10 <a href="box-o-frogs.html"><span class="color-template color-template-box-o-frogs color-template-background-clip">Boxes-O-Frogs</span></a></li>
+<li><img alt="Nectar Shower Vial" height="25" src="img/Nectar_Shower_Vial.png" width="25"/>7 <a href="nectar-shower-vial.html"><span class="color-template color-template-nectar-shower-vial color-template-background-clip">Nectar Shower Vials</span></a></li>
+<li><img alt="Nectar Tester" height="25" src="img/Nectar_Tester.png" width="25"/>1 <a href="nectar-tester.html"><span class="color-template color-template-nectar-tester color-template-background-clip">Nectar Tester</span></a></li>
+<li><img alt="Debug Wax" height="25" src="img/Debug_Wax.png" width="25"/>1 <a href="debug-wax.html"><span class="color-template color-template-debug-wax">Debug Wax</span></a></li>
+<li><img alt="Basic Egg" height="25" src="img/Basic_Egg.png" width="25"/>1 <a href="egg.html#Gifted_Bubble_Bee_Egg"><span class="color-template color-template-gifted-bubble-bee-egg color-template-background-clip">Gifted Bubble Bee Egg</span></a></li>
 <li>Access to <a href="naughty-list.html">BBM's Naughty List</a></li></ul>
 </td></tr></tbody></table>
 
@@ -320,16 +320,16 @@ The following content has been removed from the game. The contents below may be 
 <li>Obtain 1 Red Wailing Cry Sticker to give to BBM</li>
 <li>Obtain 1 Stick Cub Skin to give to BBM</li></ul>
 </td>
-<td><span typeof="mw:Error mw:File"></span>1,234,567,890,000 <a href="honey.html"><span class="color-template color-template-honey">Honey</span></a><br/>
-<p><span typeof="mw:Error mw:File"></span> 1 <a href="royal-jelly.html">Bumble Bee Jelly</a><br/>
-<span typeof="mw:Error mw:File"></span>112 <a href="micro-converter.html"><span class="color-template color-template-micro-converter color-template-background-clip">Micro-Converters</span></a><br/>
-<span typeof="mw:Error mw:File"></span>1 <a href="nectar-tester.html"><span class="color-template color-template-nectar-tester color-template-background-clip">Nectar Tester</span></a><br/>
-<span typeof="mw:Error mw:File"></span>1 <a href="soft-wax.html"><span class="color-template color-template-soft-wax">Soft Wax</span></a><br/>
-<span typeof="mw:Error mw:File"></span>1 <a href="debug-wax.html"><span class="color-template color-template-debug-wax">Debug Wax</span></a><br/>
-<span typeof="mw:Error mw:File"></span>1 <a href="cog.html"><span class="color-template color-template-cog color-template-background-clip">Cog</span></a><br/>
-<span typeof="mw:Error mw:File"></span>1 <a href="brick.html"><span class="color-template color-template-brick color-template-background-clip">Brick</span></a><br/>
-<span typeof="mw:Error mw:File"></span>5 <a href="sticker.html#Sticker_Index"><span class="color-template color-template-x2-convert-speed-voucher color-template-background-clip">x2 Convert Speed Vouchers</span></a><br/>
-<span typeof="mw:Error mw:File"></span>1 <a href="sticker.html#Sticker_Index"><span class="color-template color-template-yellow-hi-sticker color-template-background-clip">Yellow Hi Sticker</span></a><br/>
+<td><img alt="Honey" height="25" src="img/Honey.png" width="25"/>1,234,567,890,000 <a href="honey.html"><span class="color-template color-template-honey">Honey</span></a><br/>
+<p><img alt="Royal Jelly" height="25" src="img/Royal_Jelly.png" width="25"/> 1 <a href="royal-jelly.html">Bumble Bee Jelly</a><br/>
+<img alt="Micro-Converter" height="25" src="img/Micro-Converter.png" width="25"/>112 <a href="micro-converter.html"><span class="color-template color-template-micro-converter color-template-background-clip">Micro-Converters</span></a><br/>
+<img alt="Nectar Tester" height="25" src="img/Nectar_Tester.png" width="25"/>1 <a href="nectar-tester.html"><span class="color-template color-template-nectar-tester color-template-background-clip">Nectar Tester</span></a><br/>
+<img alt="Soft Wax" height="25" src="img/Soft_Wax.png" width="25"/>1 <a href="soft-wax.html"><span class="color-template color-template-soft-wax">Soft Wax</span></a><br/>
+<img alt="Debug Wax" height="25" src="img/Debug_Wax.png" width="25"/>1 <a href="debug-wax.html"><span class="color-template color-template-debug-wax">Debug Wax</span></a><br/>
+<img alt="Cog" height="25" src="img/Cog.png" width="25"/>1 <a href="cog.html"><span class="color-template color-template-cog color-template-background-clip">Cog</span></a><br/>
+<img alt="Brick" height="25" src="img/Brick.png" width="25"/>1 <a href="brick.html"><span class="color-template color-template-brick color-template-background-clip">Brick</span></a><br/>
+<img alt="x2 Convert Speed Voucher" height="25" src="img/x2_Convert_Speed_Voucher.png" width="25"/>5 <a href="sticker.html#Sticker_Index"><span class="color-template color-template-x2-convert-speed-voucher color-template-background-clip">x2 Convert Speed Vouchers</span></a><br/>
+<img alt="Sticker" height="25" src="img/Sticker.png" width="25"/>1 <a href="sticker.html#Sticker_Index"><span class="color-template color-template-yellow-hi-sticker color-template-background-clip">Yellow Hi Sticker</span></a><br/>
 Access to <a href="naughty-list.html">BBM's Naughty List</a>
 </p>
 </td></tr></tbody></table>
@@ -399,18 +399,18 @@ Note: The player cannot accept this quest until they have completed all the othe
 <li>Defeat 1 Rhino Beetle</li>
 <li>Summon and Defeat a Level 19 Snowbear</li></ul>
 </td>
-<td><span typeof="mw:Error mw:File"></span>14,404,808,675,309 <a href="honey.html"><span class="color-template color-template-honey">Honey</span></a><br/>
-<p><span typeof="mw:Error mw:File"></span>13,337 <a href="blueberry.html"><span class="color-template color-template-blueberry color-template-background-clip">Blueberries</span></a><br/>
-<span typeof="mw:Error mw:File"></span>606 <a href="ticket.html"><span class="color-template color-template-ticket color-template-background-clip">Tickets</span></a><br/>
-<span typeof="mw:Error mw:File"></span>5,011 <a href="gumdrops.html"><span class="color-template color-template-gumdrops color-template-background-clip">Gumdrops</span></a><br/>
-<span typeof="mw:Error mw:File"></span>519 <a href="stinger.html"><span class="color-template color-template-stinger color-template-background-clip">Stingers</span></a><br/>
-<span typeof="mw:Error mw:File"></span>5,555 <a href="coconut.html"><span class="color-template color-template-coconut color-template-background-clip">Coconuts</span></a><br/>
-<span typeof="mw:Error mw:File"></span>55 <a href="micro-converter.html"><span class="color-template color-template-micro-converter color-template-background-clip">Micro-Converters</span></a><br/>
-<span typeof="mw:Error mw:File"></span>55 <a href="purple-potion.html"><span class="color-template color-template-purple-potion color-template-background-clip">Purple Potions</span></a><br/>
-<span typeof="mw:Error mw:File"></span>8 <a href="comforting-vial.html"><span class="color-template color-template-comforting-vial color-template-background-clip">Comforting Vials</span></a><br/>
-<span typeof="mw:Error mw:File"></span>12 <a href="box-o-frogs.html"><span class="color-template color-template-box-o-frogs color-template-background-clip">Boxes-O-Frogs</span></a><br/>
-<span typeof="mw:Error mw:File"></span> 1 <a href="royal-jelly.html">Fuzzy Bee Jelly</a><br/>
-<span typeof="mw:Error mw:File"></span> 1 <a href="royal-jelly.html">Bumble Bee Jelly</a><br/>
+<td><img alt="Honey" height="25" src="img/Honey.png" width="25"/>14,404,808,675,309 <a href="honey.html"><span class="color-template color-template-honey">Honey</span></a><br/>
+<p><img alt="Blueberry" height="25" src="img/Blueberry.png" width="25"/>13,337 <a href="blueberry.html"><span class="color-template color-template-blueberry color-template-background-clip">Blueberries</span></a><br/>
+<img alt="Ticket" height="25" src="img/Ticket.png" width="25"/>606 <a href="ticket.html"><span class="color-template color-template-ticket color-template-background-clip">Tickets</span></a><br/>
+<img alt="Gumdrops" height="25" src="img/Gumdrops.png" width="25"/>5,011 <a href="gumdrops.html"><span class="color-template color-template-gumdrops color-template-background-clip">Gumdrops</span></a><br/>
+<img alt="Stinger" height="25" src="img/Stinger.png" width="25"/>519 <a href="stinger.html"><span class="color-template color-template-stinger color-template-background-clip">Stingers</span></a><br/>
+<img alt="Coconut" height="25" src="img/Coconut.png" width="25"/>5,555 <a href="coconut.html"><span class="color-template color-template-coconut color-template-background-clip">Coconuts</span></a><br/>
+<img alt="Micro-Converter" height="25" src="img/Micro-Converter.png" width="25"/>55 <a href="micro-converter.html"><span class="color-template color-template-micro-converter color-template-background-clip">Micro-Converters</span></a><br/>
+<img alt="Purple Potion" height="25" src="img/Purple_Potion.png" width="25"/>55 <a href="purple-potion.html"><span class="color-template color-template-purple-potion color-template-background-clip">Purple Potions</span></a><br/>
+<img alt="Comforting Vial" height="25" src="img/Comforting_Vial.png" width="25"/>8 <a href="comforting-vial.html"><span class="color-template color-template-comforting-vial color-template-background-clip">Comforting Vials</span></a><br/>
+<img alt="Box-O-Frogs" height="25" src="img/Box-O-Frogs.png" width="25"/>12 <a href="box-o-frogs.html"><span class="color-template color-template-box-o-frogs color-template-background-clip">Boxes-O-Frogs</span></a><br/>
+<img alt="Royal Jelly" height="25" src="img/Royal_Jelly.png" width="25"/> 1 <a href="royal-jelly.html">Fuzzy Bee Jelly</a><br/>
+<img alt="Royal Jelly" height="25" src="img/Royal_Jelly.png" width="25"/> 1 <a href="royal-jelly.html">Bumble Bee Jelly</a><br/>
 Access to <a href="naughty-list.html">BBM's Naughty List</a>
 </p>
 </td></tr></tbody></table>
@@ -507,15 +507,15 @@ The following content has been removed from the game. The contents below may be 
 <li>Defeat 2 <a href="stump-snail.html">Stump Snails</a>.</li>
 <li>Summon and Defeat a Level 19 <a href="snowbear.html">Snowbear</a>.</li></ul>
 </td>
-<td><span typeof="mw:Error mw:File"></span>5,111,999,999,995 <a href="honey.html"><span class="color-template color-template-honey">Honey</span></a><br/>
-<p><span typeof="mw:Error mw:File"></span>11,117 <a href="blueberry.html"><span class="color-template color-template-blueberry color-template-background-clip">Blueberries</span></a><br/>
-<span typeof="mw:Error mw:File"></span>1 <a href="pink-balloon.html"><span class="color-template color-template-pink-balloon color-template-background-clip">Pink Balloon</span></a><br/>
-<span typeof="mw:Error mw:File"></span>1 <a href="red-balloon.html"><span class="color-template color-template-red-balloon color-template-background-clip">Red Balloon</span></a><br/>
-<span typeof="mw:Error mw:File"></span>1 <a href="white-balloon.html"><span class="color-template color-template-white-balloon color-template-background-clip">White Balloon</span></a><br/>
-<span typeof="mw:Error mw:File"></span>1 <a href="black-balloon.html"><span class="color-template color-template-black-balloon">Black Balloon</span></a><br/>
-<span typeof="mw:Error mw:File"></span>11 <a href="box-o-frogs.html"><span class="color-template color-template-box-o-frogs color-template-background-clip">Boxes-O-Frogs</span></a><br/>
-<span typeof="mw:Error mw:File"></span> 1 <a href="royal-jelly.html">Precise Bee Jelly</a><br/>
-<span typeof="mw:Error mw:File"></span> 1 <a href="egg.html">Bubble Bee Egg</a><br/>
+<td><img alt="Honey" height="25" src="img/Honey.png" width="25"/>5,111,999,999,995 <a href="honey.html"><span class="color-template color-template-honey">Honey</span></a><br/>
+<p><img alt="Blueberry" height="25" src="img/Blueberry.png" width="25"/>11,117 <a href="blueberry.html"><span class="color-template color-template-blueberry color-template-background-clip">Blueberries</span></a><br/>
+<img alt="Pink Balloon" height="25" src="img/Pink_Balloon.png" width="25"/>1 <a href="pink-balloon.html"><span class="color-template color-template-pink-balloon color-template-background-clip">Pink Balloon</span></a><br/>
+<img alt="Red Balloon" height="25" src="img/Red_Balloon.png" width="25"/>1 <a href="red-balloon.html"><span class="color-template color-template-red-balloon color-template-background-clip">Red Balloon</span></a><br/>
+<img alt="White Balloon" height="25" src="img/White_Balloon.png" width="25"/>1 <a href="white-balloon.html"><span class="color-template color-template-white-balloon color-template-background-clip">White Balloon</span></a><br/>
+<img alt="Black Balloon" height="25" src="img/Black_Balloon.png" width="25"/>1 <a href="black-balloon.html"><span class="color-template color-template-black-balloon">Black Balloon</span></a><br/>
+<img alt="Box-O-Frogs" height="25" src="img/Box-O-Frogs.png" width="25"/>11 <a href="box-o-frogs.html"><span class="color-template color-template-box-o-frogs color-template-background-clip">Boxes-O-Frogs</span></a><br/>
+<img alt="Royal Jelly" height="25" src="img/Royal_Jelly.png" width="25"/> 1 <a href="royal-jelly.html">Precise Bee Jelly</a><br/>
+<img alt="Basic Egg" height="25" src="img/Basic_Egg.png" width="25"/> 1 <a href="egg.html">Bubble Bee Egg</a><br/>
 Access to the <a href="naughty-list.html">Naughty List</a>
 </p>
 </td></tr></tbody></table>
@@ -633,10 +633,10 @@ Note: The player cannot accept B.B.M's quest if they have not completed the ques
 <li>Defeat 2 <a href="stump-snail.html">Stump Snails</a>.</li>
 <li>Summon and Defeat a Level 18 <a href="snowbear.html">Snowbear</a>.</li></ul>
 </td>
-<td><span typeof="mw:Error mw:File"></span>1,000,000,000,000 <a href="honey.html"><span class="color-template color-template-honey">Honey</span></a><br/>
-<p><span typeof="mw:Error mw:File"></span>1 <a href="egg.html#Silver_Egg"><span class="color-template color-template-silver-egg color-template-background-clip">Silver Egg</span></a><br/>
-<span typeof="mw:Error mw:File"></span> 1 <a href="egg.html">Bubble Bee Egg</a><br/>
-<span typeof="mw:Error mw:File"></span>10 <a href="treat.html"><span class="color-template color-template-treat">Treats</span></a><br/>
+<td><img alt="Honey" height="25" src="img/Honey.png" width="25"/>1,000,000,000,000 <a href="honey.html"><span class="color-template color-template-honey">Honey</span></a><br/>
+<p><img alt="Silver Egg" height="25" src="img/Silver_Egg.png" width="25"/>1 <a href="egg.html#Silver_Egg"><span class="color-template color-template-silver-egg color-template-background-clip">Silver Egg</span></a><br/>
+<img alt="Basic Egg" height="25" src="img/Basic_Egg.png" width="25"/> 1 <a href="egg.html">Bubble Bee Egg</a><br/>
+<img alt="Treat" height="25" src="img/Treat.png" width="25"/>10 <a href="treat.html"><span class="color-template color-template-treat">Treats</span></a><br/>
 Access to the <a href="naughty-list.html">Naughty List</a>
 </p>
 </td></tr></tbody></table>
@@ -730,9 +730,9 @@ The following content has been removed from the game. The contents below may be 
 <li>Defeat 3 <a href="coconut-crab.html">Coconut Crabs</a>.</li>
 <li>Defeat 2 <a href="stump-snail.html">Stump Snails</a>.</li></ul>
 </td>
-<td><span typeof="mw:Error mw:File"></span>349 <a href="honey.html"><span class="color-template color-template-honey">Honey</span></a><br/>
-<p><span typeof="mw:Error mw:File"></span>1 <a href="blueberry.html"><span class="color-template color-template-blueberry color-template-background-clip">Blueberry</span></a><br/>
-<span typeof="mw:Error mw:File"></span> <a href="ornaments.html">Bread Climp Ornament</a>
+<td><img alt="Honey" height="25" src="img/Honey.png" width="25"/>349 <a href="honey.html"><span class="color-template color-template-honey">Honey</span></a><br/>
+<p><img alt="Blueberry" height="25" src="img/Blueberry.png" width="25"/>1 <a href="blueberry.html"><span class="color-template color-template-blueberry color-template-background-clip">Blueberry</span></a><br/>
+<img alt="Bread Climp Ornament" height="35" src="img/Bread_Climp_Ornament.png" width="35"/> <a href="ornaments.html">Bread Climp Ornament</a>
 </p>
 </td></tr></tbody></table>
 
@@ -795,8 +795,8 @@ The following content has been removed from the game. The contents below may be 
 <li>Collect 25,000 Pollen from the <a href="bamboo-field.html">Bamboo Field</a>.</li></ul>
 </td>
 <td><span typeof="mw:Error mw:File"></span> Bubble Bee Man Mask<br/>
-<p><span typeof="mw:Error mw:File"></span>100 <a href="treat.html"><span class="color-template color-template-treat">Treats</span></a><br/>
-<span typeof="mw:Error mw:File"></span>100,000 <a href="honey.html"><span class="color-template color-template-honey">Honey</span></a><br/>
+<p><img alt="Treat" height="25" src="img/Treat.png" width="25"/>100 <a href="treat.html"><span class="color-template color-template-treat">Treats</span></a><br/>
+<img alt="Honey" height="25" src="img/Honey.png" width="25"/>100,000 <a href="honey.html"><span class="color-template color-template-honey">Honey</span></a><br/>
 <span typeof="mw:Error mw:File"></span> Beesmas Overachiever Badge
 </p>
 </td>
@@ -872,23 +872,23 @@ The following content has been removed from the game. The contents below may be 
 <li>Defeat 1 <a href="stump-snail.html">Stump Snail</a>.</li></ul>
 </td>
 <td><span typeof="mw:Error mw:File"></span> Mondo Bubble Bee Man Mask<br/>
-<p><span typeof="mw:Error mw:File"></span>14 <a href="honey.html"><span class="color-template color-template-honey">Honey</span></a><br/>
-<span typeof="mw:Error mw:File"></span>1 <a href="festive-bean.html"><span class="color-template color-template-festive-bean color-template-background-clip">Festive Bean</span></a><br/>
-<span typeof="mw:Error mw:File"></span>122,471 <a href="treat.html"><span class="color-template color-template-treat">Treats</span></a><br/>
-<span typeof="mw:Error mw:File"></span>21 <a href="sunflower-seed.html"><span class="color-template color-template-sunflower-seed color-template-background-clip">Sunflower Seeds</span></a><br/>
-<span typeof="mw:Error mw:File"></span>1 <a href="oil.html"><span class="color-template color-template-oil color-template-background-clip">Oil</span></a><br/>
-<span typeof="mw:Error mw:File"></span>39 <a href="blueberry.html"><span class="color-template color-template-blueberry color-template-background-clip">Blueberries</span></a><br/>
-<span typeof="mw:Error mw:File"></span>1 <a href="ant-pass.html"><span class="color-template color-template-ant-pass color-template-background-clip">Ant Pass</span></a><br/>
-<span typeof="mw:Error mw:File"></span>1 <a href="enzymes.html"><span class="color-template color-template-enzymes color-template-background-clip">Enzymes</span></a><br/>
-<span typeof="mw:Error mw:File"></span>1 <a href="red-extract.html"><span class="color-template color-template-red-extract color-template-background-clip">Red Extract</span></a><br/>
-<span typeof="mw:Error mw:File"></span>2 <a href="royal-jelly.html"><span class="color-template color-template-royal-jelly color-template-background-clip">Royal Jellies</span></a><br/>
-<span typeof="mw:Error mw:File"></span>41 <a href="strawberry.html"><span class="color-template color-template-strawberry color-template-background-clip">Strawberries</span></a><br/>
-<span typeof="mw:Error mw:File"></span>1 <a href="blue-extract.html"><span class="color-template color-template-blue-extract color-template-background-clip">Blue Extract</span></a><br/>
-<span typeof="mw:Error mw:File"></span>84 <a href="pineapple.html"><span class="color-template color-template-pineapple color-template-background-clip">Pineapples</span></a><br/>
-<span typeof="mw:Error mw:File"></span>13 <a href="ticket.html"><span class="color-template color-template-ticket color-template-background-clip">Tickets</span></a><br/>
-<span typeof="mw:Error mw:File"></span>800 <a href="eviction.html"><span class="color-template color-template-eviction">Evictions</span></a><br/>
-<span typeof="mw:Error mw:File"></span> 1 <a href="royal-jelly.html#Royal_Jelly_Variants">Bumble Bee Jelly</a><br/>
-<span typeof="mw:Error mw:File"></span> 3 <a href="royal-jelly.html#Royal_Jelly_Variants">Bubble Bee Jelly</a><br/>
+<p><img alt="Honey" height="25" src="img/Honey.png" width="25"/>14 <a href="honey.html"><span class="color-template color-template-honey">Honey</span></a><br/>
+<img alt="Festive Bean" height="25" src="img/Festive_Bean.png" width="25"/>1 <a href="festive-bean.html"><span class="color-template color-template-festive-bean color-template-background-clip">Festive Bean</span></a><br/>
+<img alt="Treat" height="25" src="img/Treat.png" width="25"/>122,471 <a href="treat.html"><span class="color-template color-template-treat">Treats</span></a><br/>
+<img alt="Sunflower Seed" height="25" src="img/Sunflower_Seed.png" width="25"/>21 <a href="sunflower-seed.html"><span class="color-template color-template-sunflower-seed color-template-background-clip">Sunflower Seeds</span></a><br/>
+<img alt="Oil" height="25" src="img/Oil.png" width="25"/>1 <a href="oil.html"><span class="color-template color-template-oil color-template-background-clip">Oil</span></a><br/>
+<img alt="Blueberry" height="25" src="img/Blueberry.png" width="25"/>39 <a href="blueberry.html"><span class="color-template color-template-blueberry color-template-background-clip">Blueberries</span></a><br/>
+<img alt="Ant Pass" height="25" src="img/Ant_Pass.png" width="25"/>1 <a href="ant-pass.html"><span class="color-template color-template-ant-pass color-template-background-clip">Ant Pass</span></a><br/>
+<img alt="Enzymes" height="25" src="img/Enzymes.png" width="25"/>1 <a href="enzymes.html"><span class="color-template color-template-enzymes color-template-background-clip">Enzymes</span></a><br/>
+<img alt="Red Extract" height="25" src="img/Red_Extract.png" width="25"/>1 <a href="red-extract.html"><span class="color-template color-template-red-extract color-template-background-clip">Red Extract</span></a><br/>
+<img alt="Royal Jelly" height="25" src="img/Royal_Jelly.png" width="25"/>2 <a href="royal-jelly.html"><span class="color-template color-template-royal-jelly color-template-background-clip">Royal Jellies</span></a><br/>
+<img alt="Strawberry" height="25" src="img/Strawberry.png" width="25"/>41 <a href="strawberry.html"><span class="color-template color-template-strawberry color-template-background-clip">Strawberries</span></a><br/>
+<img alt="Blue Extract" height="25" src="img/Blue_Extract.png" width="25"/>1 <a href="blue-extract.html"><span class="color-template color-template-blue-extract color-template-background-clip">Blue Extract</span></a><br/>
+<img alt="Pineapple" height="25" src="img/Pineapple.png" width="25"/>84 <a href="pineapple.html"><span class="color-template color-template-pineapple color-template-background-clip">Pineapples</span></a><br/>
+<img alt="Ticket" height="25" src="img/Ticket.png" width="25"/>13 <a href="ticket.html"><span class="color-template color-template-ticket color-template-background-clip">Tickets</span></a><br/>
+<img alt="Eviction" height="25" src="img/Eviction.png" width="25"/>800 <a href="eviction.html"><span class="color-template color-template-eviction">Evictions</span></a><br/>
+<img alt="Royal Jelly" height="25" src="img/Royal_Jelly.png" width="25"/> 1 <a href="royal-jelly.html#Royal_Jelly_Variants">Bumble Bee Jelly</a><br/>
+<img alt="Royal Jelly" height="25" src="img/Royal_Jelly.png" width="25"/> 3 <a href="royal-jelly.html#Royal_Jelly_Variants">Bubble Bee Jelly</a><br/>
 <span typeof="mw:Error mw:File"></span> Beesmas Overachiever Badge (if not awarded yet)
 </p>
 </td></tr></tbody></table>
@@ -917,10 +917,6 @@ Nice. You did it, nice. That was sorta hard. Well... uhh... Ok I guess this is i
 </td>
 <td>It's dark in this... cave? Tent? Like, what even is this place? Big... bear gate pit... Onett's large floating disk hut... I've been watching him, like, all Beesmas... He doesn't do anything here... Anyways, Merry Beesmas. You should check out those other Beesmas games.
 </td></tr></tbody></table>
-
-## Gallery
-
-<div class="wikia-gallery wikia-gallery-caption-below wikia-gallery-position-left wikia-gallery-spacing-medium wikia-gallery-border-small wikia-gallery-captions-left wikia-gallery-caption-size-medium" data-seq-no="0" hash="41f86dc37fc2eaff6d981c863699c1f2" id="gallery-0"><div class="wikia-gallery-caption"></div><div class="wikia-gallery-item" style="width:187px; "><div class="thumb" style="height:187px;"><div class="gallery-image-wrapper accent" id="Bubble_Bee_Man-png" style="position: relative; height:185px; width:185px;"><span style="line-height: 1;">Bubble Bee Man.png</span></div></div><div class="lightbox-caption" style="width:185px;">Bubble Bee Man on the Roblox Avatar Shop.</div></div><div class="wikia-gallery-item" style="width:187px; "><div class="thumb" style="height:187px;"><div class="gallery-image-wrapper accent" id="RobloxScreenShoot20181220_183205718-png" style="position: relative; height:185px; width:185px;"><span style="line-height: 1;">RobloxScreenShoot20181220 183205718.png</span></div></div><div class="lightbox-caption" style="width:185px;">Bubble Bee Man behind the Global Top Battlers leaderboard during Beesmas 2018.</div></div><div class="wikia-gallery-item" style="width:187px; "><div class="thumb" style="height:187px;"><div class="gallery-image-wrapper accent" id="Bubble_bee_man-png" style="position: relative; height:185px; width:185px;"><span style="line-height: 1;">Bubble bee man.png</span></div></div><div class="lightbox-caption" style="width:185px;">Bubble Bee Man on top of the Bear Gate.</div></div><div class="wikia-gallery-item" style="width:187px; "><div class="thumb" style="height:187px;"><div class="gallery-image-wrapper accent" id="BBM_Naughty_List-png" style="position: relative; height:185px; width:185px;"><span style="line-height: 1;">BBM Naughty List.png</span></div></div><div class="lightbox-caption" style="width:185px;">Bubble Bee Man's 2020 Naughty List.</div></div><div class="wikia-gallery-item" style="width:187px; "><div class="thumb" style="height:187px;"><div class="gallery-image-wrapper accent" id="Bubble_bee_man_plants_festive_sprout-png" style="position: relative; height:185px; width:185px;"><span style="line-height: 1;">Bubble bee man plants festive sprout.png</span></div></div><div class="lightbox-caption" style="width:185px;">Bubble Bee Man summoning a Festive Sprout.</div></div><div class="wikia-gallery-item" style="width:187px; "><div class="thumb" style="height:187px;"><div class="gallery-image-wrapper accent" id="Bbm_inf_honey-webp" style="position: relative; height:185px; width:185px;"><span style="line-height: 1;">Bbm inf honey.webp</span></div></div><div class="lightbox-caption" style="width:185px;">Bubble Bee Man's "Make Honey" requirement bugged to show an undetermined amount.</div></div><div class="wikia-gallery-item" style="width:187px; "><div class="thumb" style="height:187px;"><div class="gallery-image-wrapper accent" id="Hivesticker_bbm_from_below-png" style="position: relative; height:185px; width:185px;"><span style="line-height: 1;">Hivesticker bbm from below.png</span></div></div><div class="lightbox-caption" style="width:185px;">The BBM From Below <a href="sticker.html">Sticker</a>.</div></div></div>
 
 ## Trivia
 

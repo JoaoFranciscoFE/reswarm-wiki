@@ -13,7 +13,7 @@ If the player has reached the top 25 by the end of the day, they will be awarded
 
 If the player has reached the top 100 by the end of the day, they will be awarded with a [Ticket Voucher](sticker.md#Sticker_Index).
 
-<div class="wikia-gallery wikia-gallery-caption-below wikia-gallery-position-left wikia-gallery-spacing-medium wikia-gallery-border-small wikia-gallery-captions-left wikia-gallery-caption-size-medium" data-seq-no="0" hash="160788e134b16eefa8042fd5b87b6454" id="gallery-0"><div class="wikia-gallery-caption"></div><div class="wikia-gallery-item" style="width:187px; "><div class="thumb" style="height:187px;"><div class="gallery-image-wrapper accent" id="Hivesticker_ant_field_stamp-png" style="position: relative; height:185px; width:185px;"><span style="line-height: 1;">Hivesticker ant field stamp.png</span></div></div><div class="lightbox-caption" style="width:185px;">Top 100 Prize for Daily Top Ant Exterminators.</div></div></div>
+
 
 ## Trivia
 

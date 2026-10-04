@@ -104,7 +104,7 @@ tags: ["Bees", "Epic"]
 </td>
 </tr>
 <tr>
-<td style="text-align:left; padding:5px 0 5px 25px;"><span typeof="mw:Error mw:File"></span><a href="egg.html#Basic_Egg"><span class="color-template color-template-basic-egg color-template-background-clip">Basic Egg</span></a>
+<td style="text-align:left; padding:5px 0 5px 25px;"><img alt="Basic Egg" height="35" src="img/Basic_Egg.png" width="35"/><a href="egg.html#Basic_Egg"><span class="color-template color-template-basic-egg color-template-background-clip">Basic Egg</span></a>
 </td>
 <td>2.5%
 </td>
@@ -112,7 +112,7 @@ tags: ["Bees", "Epic"]
 </td>
 </tr>
 <tr>
-<td style="text-align:left; padding:5px 0 5px 25px;"><span typeof="mw:Error mw:File"></span><a href="egg.html#Silver_Egg"><span class="color-template color-template-silver-egg color-template-background-clip">Silver Egg</span></a>
+<td style="text-align:left; padding:5px 0 5px 25px;"><img alt="Silver Egg" height="35" src="img/Silver_Egg.png" width="35"/><a href="egg.html#Silver_Egg"><span class="color-template color-template-silver-egg color-template-background-clip">Silver Egg</span></a>
 </td>
 <td>30%
 </td>
@@ -120,7 +120,7 @@ tags: ["Bees", "Epic"]
 </td>
 </tr>
 <tr>
-<td style="text-align:left; padding:5px 0 5px 25px;"><span typeof="mw:Error mw:File"></span><a href="egg.html#Gold_Egg"><span class="color-template color-template-gold-egg color-template-background-clip">Gold Egg</span></a>
+<td style="text-align:left; padding:5px 0 5px 25px;"><img alt="Gold Egg" height="35" src="img/Gold_Egg.png" width="35"/><a href="egg.html#Gold_Egg"><span class="color-template color-template-gold-egg color-template-background-clip">Gold Egg</span></a>
 </td>
 <td>79%
 </td>
@@ -128,7 +128,7 @@ tags: ["Bees", "Epic"]
 </td>
 </tr>
 <tr>
-<td style="text-align:left; padding:5px 0 5px 25px;"><span typeof="mw:Error mw:File"></span><a href="egg.html#Diamond_Egg"><span class="color-template color-template-diamond-egg color-template-background-clip">Diamond Egg</span></a>
+<td style="text-align:left; padding:5px 0 5px 25px;"><img alt="Diamond Egg" height="35" src="img/Diamond_Egg.png" width="35"/><a href="egg.html#Diamond_Egg"><span class="color-template color-template-diamond-egg color-template-background-clip">Diamond Egg</span></a>
 </td>
 <td>0%
 </td>
@@ -136,7 +136,7 @@ tags: ["Bees", "Epic"]
 </td>
 </tr>
 <tr>
-<td style="text-align:left; padding:5px 0 5px 25px;"><span typeof="mw:Error mw:File"></span><a href="egg.html#Mythic_Egg"><span class="color-template color-template-mythic-egg color-template-background-clip">Mythic Egg</span></a>
+<td style="text-align:left; padding:5px 0 5px 25px;"><img alt="Mythic Egg" height="35" src="img/Mythic_Egg.png" width="35"/><a href="egg.html#Mythic_Egg"><span class="color-template color-template-mythic-egg color-template-background-clip">Mythic Egg</span></a>
 </td>
 <td>0%
 </td>
@@ -144,7 +144,7 @@ tags: ["Bees", "Epic"]
 </td>
 </tr>
 <tr>
-<td style="text-align:left; padding:5px 0 5px 25px;"><span typeof="mw:Error mw:File"></span><a href="royal-jelly.html"><span class="color-template color-template-royal-jelly color-template-background-clip">Royal Jelly</span></a>
+<td style="text-align:left; padding:5px 0 5px 25px;"><img alt="Royal Jelly" height="35" src="img/Royal_Jelly.png" width="35"/><a href="royal-jelly.html"><span class="color-template color-template-royal-jelly color-template-background-clip">Royal Jelly</span></a>
 </td>
 <td>27%
 </td>

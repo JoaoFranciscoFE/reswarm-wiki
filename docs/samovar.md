@@ -34,10 +34,6 @@ The Samovar has a fixed cycle of rewards: [Oil](oil.md) -> [Enzymes](enzymes.md)
 
 On the 25th use, a [Turpentine](turpentine.md) is rewarded instead.
 
-## Gallery
-
-<div class="wikia-gallery wikia-gallery-caption-below wikia-gallery-position-left wikia-gallery-spacing-medium wikia-gallery-border-small wikia-gallery-captions-left wikia-gallery-caption-size-medium" data-seq-no="0" hash="d99168bee40fba0904a6c9d3765fbb2f" id="gallery-0"><div class="wikia-gallery-caption"></div><div class="wikia-gallery-item" style="width:187px; "><div class="thumb" style="height:187px;"><div class="gallery-image-wrapper accent" id="SamovarIncompleteText-png" style="position: relative; height:185px; width:185px;"><span style="line-height: 1;">SamovarIncompleteText.png</span></div></div><div class="lightbox-caption" style="width:185px;">The text that appears if you have not completed Dapper Bear's quest.</div></div><div class="wikia-gallery-item" style="width:187px; "><div class="thumb" style="height:187px;"><div class="gallery-image-wrapper accent" id="IncompleteSamovar-jpg" style="position: relative; height:185px; width:185px;"><span style="line-height: 1;">IncompleteSamovar.jpg</span></div></div><div class="lightbox-caption" style="width:185px;">The Samovar before it is completed.</div></div></div>
-
 ## Trivia
 
 * This and the [Robo Party Cake](robo-party-cake.md) are currently the only Beesmas decorations not added in the Beesmas 2020 event.

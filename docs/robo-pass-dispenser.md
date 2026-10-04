@@ -11,11 +11,11 @@ tags: ["Machines", "Dispenser", "Locations", "Robo Bear Challenge"]
 <h2 class="pi-item pi-header pi-secondary-font pi-item-spacing pi-secondary-background">Information</h2>
 <div class="pi-item pi-data pi-item-spacing pi-border-color" data-source="usage">
 <h3 class="pi-data-label pi-secondary-font">Usage</h3>
-<div class="pi-data-value pi-font">Gives <span typeof="mw:Error mw:File"></span>1 <a href="robo-pass.html"><span class="color-template color-template-robo-pass color-template-background-clip">Robo Pass</span></a></div>
+<div class="pi-data-value pi-font">Gives <img alt="Robo Pass" height="25" src="img/Robo_Pass.png" width="25"/>1 <a href="robo-pass.html"><span class="color-template color-template-robo-pass color-template-background-clip">Robo Pass</span></a></div>
 </div>
 <div class="pi-item pi-data pi-item-spacing pi-border-color" data-source="requirement">
 <h3 class="pi-data-label pi-secondary-font">Requirement(s)</h3>
-<div class="pi-data-value pi-font">Access to the <a href="bear-gate.html">30 Bee Zone</a>, costs <span typeof="mw:Error mw:File"></span>50 <a href="ticket.html"><span class="color-template color-template-ticket color-template-background-clip">Tickets</span></a></div>
+<div class="pi-data-value pi-font">Access to the <a href="bear-gate.html">30 Bee Zone</a>, costs <img alt="Ticket" height="25" src="img/Ticket.png" width="25"/>50 <a href="ticket.html"><span class="color-template color-template-ticket color-template-background-clip">Tickets</span></a></div>
 </div>
 <div class="pi-item pi-data pi-item-spacing pi-border-color" data-source="location">
 <h3 class="pi-data-label pi-secondary-font">Location</h3>

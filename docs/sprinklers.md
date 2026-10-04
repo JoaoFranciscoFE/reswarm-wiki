@@ -119,7 +119,7 @@ Note that what players are able to buy is actually a sprinkler *builder*, which 
 <td>10 Grandmaster<br/>(Tier 5)
 </td></tr>
 <tr>
-<td><b>Cost</b> in <span typeof="mw:Error mw:File"></span><a href="honey.html"><span class="color-template color-template-honey">Honey</span></a>
+<td><b>Cost</b> in <img alt="Honey" height="35" src="img/Honey.png" width="35"/><a href="honey.html"><span class="color-template color-template-honey">Honey</span></a>
 </td>
 <td>1,111,111
 </td>
@@ -138,6 +138,3 @@ When a sprinkler is placed in a field, the following audio plays:
 
 When a sprinkler regenerates flowers, the following audio plays:
 
-## Gallery
-
-<div class="wikia-gallery wikia-gallery-caption-below wikia-gallery-position-left wikia-gallery-spacing-medium wikia-gallery-border-small wikia-gallery-captions-left wikia-gallery-caption-size-medium" data-seq-no="0" hash="54183324d83fd09502c36def530f0173" id="gallery-0"><div class="wikia-gallery-caption"></div><div class="wikia-gallery-item" style="width:187px; "><div class="thumb" style="height:187px;"><div class="gallery-image-wrapper accent" id="RobloxScreenShot20180910_183618931-png" style="position: relative; height:185px; width:185px;"><span style="line-height: 1;">RobloxScreenShot20180910 183618931.png</span></div></div><div class="lightbox-caption" style="width:185px;">A Silver Soaker sprinkler in a field.</div></div><div class="wikia-gallery-item" style="width:187px; "><div class="thumb" style="height:187px;"><div class="gallery-image-wrapper accent" id="Water_of_Sprinkler-png" style="position: relative; height:185px; width:185px;"><span style="line-height: 1;">Water of Sprinkler.png</span></div></div><div class="lightbox-caption" style="width:185px;">Text becoming invisible through the water of the sprinkler.</div></div><div class="wikia-gallery-item" style="width:187px; "><div class="thumb" style="height:187px;"><div class="gallery-image-wrapper accent" id="Img-png" style="position: relative; height:185px; width:185px;"><span style="line-height: 1;">Img.png</span></div></div><div class="lightbox-caption" style="width:185px;">An aerial shot of the "golden" effect emitted by the sprinkler water during a honeystorm.</div></div><div class="wikia-gallery-item" style="width:187px; "><div class="thumb" style="height:187px;"><div class="gallery-image-wrapper accent" id="Sprinkler_during_snowstorm-png" style="position: relative; height:185px; width:185px;"><span style="line-height: 1;">Sprinkler during snowstorm.png</span></div></div><div class="lightbox-caption" style="width:185px;">An aerial shot of the "white" effect emitted by the sprinkler water during a snow storm.</div></div></div>

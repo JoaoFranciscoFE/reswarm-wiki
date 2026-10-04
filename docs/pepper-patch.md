@@ -155,10 +155,6 @@ A level 9-12 [Rogue Vicious Bee](rogue-vicious-bee.md) has a chance to spawn her
   * FrozenBugReboot (Gave Pepper Patch Boost x4 and Pepper Patch Code Buff + other stuff).
 * Purchasing a Pepper Patch Market Boost from the [Boost Market](boost-market.md) or certain codes gave x1.25 Pepper Patch Pollen along with 1.5x [Pepper Patch Capacity](field-capacity.md), x1.25 [Flame Pollen](system-page.md#Pollen_From_Flames), and x1.25 [Convert Rate At Hive](system-page.md#Hive_Convert_Rate).
 
-## Gallery
-
-<div class="wikia-gallery wikia-gallery-caption-below wikia-gallery-position-left wikia-gallery-spacing-medium wikia-gallery-border-small wikia-gallery-captions-left wikia-gallery-caption-size-medium" data-seq-no="0" hash="6a4067973691b924152336658baa37c8" id="gallery-0"><div class="wikia-gallery-caption"></div><div class="wikia-gallery-item" style="width:187px; "><div class="thumb" style="height:187px;"><div class="gallery-image-wrapper accent" id="Hivesticker_pepper_patch_stamp-png" style="position: relative; height:185px; width:185px;"><span style="line-height: 1;">Hivesticker pepper patch stamp.png</span></div></div><div class="lightbox-caption" style="width:185px;">The Pepper Patch's associated <a href="sticker.html">field stamp</a>.</div></div></div>
-
 ## Trivia
 
 * This, the Coconut Field, the [Stump Field](stump-field.md), the [Ant Field](ant-field.md) and the [Hub Field](hub-field.md) are currently the only fields released in updates.

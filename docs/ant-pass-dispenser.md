@@ -11,15 +11,15 @@ tags: ["Machines", "Locations", "Dispenser", "Ant Challenge"]
 <h2 class="pi-item pi-header pi-secondary-font pi-item-spacing pi-secondary-background">Information</h2>
 <div class="pi-item pi-data pi-item-spacing pi-border-color" data-source="cost">
 <h3 class="pi-data-label pi-secondary-font">Cost(s)</h3>
-<div class="pi-data-value pi-font"><span typeof="mw:Error mw:File"></span>10 <a href="ticket.html"><span class="color-template color-template-ticket color-template-background-clip">Tickets</span></a></div>
+<div class="pi-data-value pi-font"><img alt="Ticket" height="25" src="img/Ticket.png" width="25"/>10 <a href="ticket.html"><span class="color-template color-template-ticket color-template-background-clip">Tickets</span></a></div>
 </div>
 <div class="pi-item pi-data pi-item-spacing pi-border-color" data-source="usage">
 <h3 class="pi-data-label pi-secondary-font">Usage</h3>
-<div class="pi-data-value pi-font">Obtaining <a href="ant-pass.html">Ant Passes</a> with <span typeof="mw:Error mw:File"></span><a href="ticket.html"><span class="color-template color-template-ticket color-template-background-clip">Tickets</span></a></div>
+<div class="pi-data-value pi-font">Obtaining <a href="ant-pass.html">Ant Passes</a> with <img alt="Ticket" height="35" src="img/Ticket.png" width="35"/><a href="ticket.html"><span class="color-template color-template-ticket color-template-background-clip">Tickets</span></a></div>
 </div>
 <div class="pi-item pi-data pi-item-spacing pi-border-color" data-source="requirement">
 <h3 class="pi-data-label pi-secondary-font">Requirement(s)</h3>
-<div class="pi-data-value pi-font">20 <a href="bees.html">Bees</a>, less than <span typeof="mw:Error mw:File"></span>10 <a href="ant-pass.html"><span class="color-template color-template-ant-pass color-template-background-clip">Ant Passes</span></a></div>
+<div class="pi-data-value pi-font">20 <a href="bees.html">Bees</a>, less than <img alt="Ant Pass" height="25" src="img/Ant_Pass.png" width="25"/>10 <a href="ant-pass.html"><span class="color-template color-template-ant-pass color-template-background-clip">Ant Passes</span></a></div>
 </div>
 <div class="pi-item pi-data pi-item-spacing pi-border-color" data-source="cooldown">
 <h3 class="pi-data-label pi-secondary-font">Cooldown</h3>

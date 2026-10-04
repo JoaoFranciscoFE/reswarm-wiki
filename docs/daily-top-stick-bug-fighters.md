@@ -11,7 +11,7 @@ The **Daily Top Stick Bug Fighters** is one of the 64 [leaderboards](leaderboard
 
 For being in the top 5 when the leaderboard resets, you will be awarded with the [Stick Cub](cub-buddy.md#Skins).
 
-<div class="wikia-gallery wikia-gallery-caption-below wikia-gallery-position-left wikia-gallery-spacing-medium wikia-gallery-border-small wikia-gallery-captions-left wikia-gallery-caption-size-medium" data-seq-no="0" hash="f5e6ede112e7f840dbb7a19e7dcdf223" id="gallery-0"><div class="wikia-gallery-caption"></div><div class="wikia-gallery-item" style="width:187px; "><div class="thumb" style="height:187px;"><div class="gallery-image-wrapper accent" id="Stick_cub_thumbnail-png" style="position: relative; height:185px; width:185px;"><span style="line-height: 1;">Stick cub thumbnail.png</span></div></div><div class="lightbox-caption" style="width:185px;">Top 5 Prize for Daily Top Stick Bug Fighters.</div></div></div>
+
 
 If the player has reached the top 100 by the end of the day, they will be awarded with a [Ticket Voucher](sticker.md#Sticker_Index).
 

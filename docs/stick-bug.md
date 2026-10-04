@@ -124,12 +124,12 @@ Now let's give it a whirl.<br/>
 <li>Obtain 1 Walking Stick Nymph <a href="sticker.html">Sticker</a> to give to Stick Bug.</li></ul>
 </td>
 <td><span typeof="mw:Error mw:File"></span><span style="border-bottom:1px dotted;" title="250,000,000,000">250B</span> <a href="honey.html"><span class="color-template color-template-honey">Honey</span></a><br/>
-<p><span typeof="mw:Error mw:File"></span>1 <a href="sticker.html#Sticker_Index"><span class="color-template color-template-ticket-voucher color-template-background-clip">Ticket Voucher</span></a><br/>
-<span typeof="mw:Error mw:File"></span>1 <a href="turpentine.html"><span class="color-template color-template-turpentine color-template-background-clip">Turpentine</span></a><br/>
-<span typeof="mw:Error mw:File"></span>1 <a href="pinecone.html"><span class="color-template color-template-pinecone color-template-background-clip">Pinecone</span></a><br/>
-<span typeof="mw:Error mw:File"></span>1 <a href="black-balloon.html"><span class="color-template color-template-black-balloon">Black Balloon</span></a><br/>
-<span typeof="mw:Error mw:File"></span>5 <a href="swirled-wax.html"><span class="color-template color-template-swirled-wax color-template-background-clip">Swirled Waxes</span></a><br/>
-<span typeof="mw:Error mw:File"></span>10 <a href="gingerbread-bear.html"><span class="color-template color-template-gingerbread-bear color-template-background-clip">Gingerbread Bears</span></a><br/>
+<p><img alt="Ticket Voucher" height="25" src="img/Ticket_Voucher.png" width="25"/>1 <a href="sticker.html#Sticker_Index"><span class="color-template color-template-ticket-voucher color-template-background-clip">Ticket Voucher</span></a><br/>
+<img alt="Turpentine" height="25" src="img/Turpentine.png" width="25"/>1 <a href="turpentine.html"><span class="color-template color-template-turpentine color-template-background-clip">Turpentine</span></a><br/>
+<img alt="Pinecone" height="25" src="img/Pinecone.png" width="25"/>1 <a href="pinecone.html"><span class="color-template color-template-pinecone color-template-background-clip">Pinecone</span></a><br/>
+<img alt="Black Balloon" height="25" src="img/Black_Balloon.png" width="25"/>1 <a href="black-balloon.html"><span class="color-template color-template-black-balloon">Black Balloon</span></a><br/>
+<img alt="Swirled Wax" height="25" src="img/Swirled_Wax.png" width="25"/>5 <a href="swirled-wax.html"><span class="color-template color-template-swirled-wax color-template-background-clip">Swirled Waxes</span></a><br/>
+<img alt="Gingerbread Bear" height="25" src="img/Gingerbread_Bear.png" width="25"/>10 <a href="gingerbread-bear.html"><span class="color-template color-template-gingerbread-bear color-template-background-clip">Gingerbread Bears</span></a><br/>
 Starts the <a href="stick-bug-challenge.html">Stick Bug Challenge</a><br/>
 Allows <a href="festive-nymph.html">Festive Nymphs</a> to spawn during the Stick Bug Challenge
 </p>
@@ -176,13 +176,13 @@ The following content has been removed from the game. The contents below may be 
 <li>Defeat 1 Stump Snail.</li></ul>
 </td>
 <td><span typeof="mw:Error mw:File"></span><span style="border-bottom:1px dotted;" title="2,500,000,000,000">2.5T</span> <a href="honey.html"><span class="color-template color-template-honey">Honey</span></a><br/>
-<p><span typeof="mw:Error mw:File"></span>5 <a href="ticket-planter.html"><span class="color-template color-template-ticket-planter color-template-background-clip">Ticket Planters</span></a><br/>
-<span typeof="mw:Error mw:File"></span>1 <a href="turpentine.html"><span class="color-template color-template-turpentine color-template-background-clip">Turpentine</span></a><br/>
-<span typeof="mw:Error mw:File"></span>1 <a href="pinecone.html"><span class="color-template color-template-pinecone color-template-background-clip">Pinecone</span></a><br/>
-<span typeof="mw:Error mw:File"></span>1 <a href="festive-bean.html"><span class="color-template color-template-festive-bean color-template-background-clip">Festive Bean</span></a><br/>
-<span typeof="mw:Error mw:File"></span>5 <a href="loaded-dice.html"><span class="color-template color-template-loaded-dice color-template-background-clip">Loaded Dice</span></a><br/>
-<span typeof="mw:Error mw:File"></span>10 <a href="royal-jelly.html#Star_Jelly"><span class="color-template color-template-star-jelly color-template-background-clip">Star Jellies</span></a><br/>
-<span typeof="mw:Error mw:File"></span>10 <a href="gingerbread-bear.html"><span class="color-template color-template-gingerbread-bear color-template-background-clip">Gingerbread Bears</span></a><br/>
+<p><img alt="Ticket Planter" height="25" src="img/Ticket_Planter.png" width="25"/>5 <a href="ticket-planter.html"><span class="color-template color-template-ticket-planter color-template-background-clip">Ticket Planters</span></a><br/>
+<img alt="Turpentine" height="25" src="img/Turpentine.png" width="25"/>1 <a href="turpentine.html"><span class="color-template color-template-turpentine color-template-background-clip">Turpentine</span></a><br/>
+<img alt="Pinecone" height="25" src="img/Pinecone.png" width="25"/>1 <a href="pinecone.html"><span class="color-template color-template-pinecone color-template-background-clip">Pinecone</span></a><br/>
+<img alt="Festive Bean" height="25" src="img/Festive_Bean.png" width="25"/>1 <a href="festive-bean.html"><span class="color-template color-template-festive-bean color-template-background-clip">Festive Bean</span></a><br/>
+<img alt="Loaded Dice" height="25" src="img/Loaded_Dice.png" width="25"/>5 <a href="loaded-dice.html"><span class="color-template color-template-loaded-dice color-template-background-clip">Loaded Dice</span></a><br/>
+<img alt="Star Jelly" height="25" src="img/Star_Jelly.png" width="25"/>10 <a href="royal-jelly.html#Star_Jelly"><span class="color-template color-template-star-jelly color-template-background-clip">Star Jellies</span></a><br/>
+<img alt="Gingerbread Bear" height="25" src="img/Gingerbread_Bear.png" width="25"/>10 <a href="gingerbread-bear.html"><span class="color-template color-template-gingerbread-bear color-template-background-clip">Gingerbread Bears</span></a><br/>
 Starts the <a href="stick-bug-challenge.html">Stick Bug Challenge</a><br/>
 Allows <a href="festive-nymph.html">Festive Nymphs</a> to spawn during the Stick Bug Challenge
 </p>
@@ -228,15 +228,15 @@ The following content has been removed from the game. The contents below may be 
 <li>Obtain 4 Walking Stick Nymph <a href="sticker.html">Stickers</a> to give to Stick Bug.</li></ul>
 </td>
 <td><span typeof="mw:Error mw:File"></span><span style="border-bottom:1px dotted;" title="20,000,000,000">20B</span> <a href="honey.html"><span class="color-template color-template-honey">Honey</span></a><br/>
-<p><span typeof="mw:Error mw:File"></span>100 <a href="ticket.html"><span class="color-template color-template-ticket color-template-background-clip">Tickets</span></a><br/>
-<span typeof="mw:Error mw:File"></span>1 <a href="turpentine.html"><span class="color-template color-template-turpentine color-template-background-clip">Turpentine</span></a><br/>
-<span typeof="mw:Error mw:File"></span>1 <a href="pinecone.html"><span class="color-template color-template-pinecone color-template-background-clip">Pinecone</span></a><br/>
-<span typeof="mw:Error mw:File"></span>1 <a href="kazoo.html"><span class="color-template color-template-kazoo color-template-background-clip">Kazoo</span></a><br/>
-<span typeof="mw:Error mw:File"></span>20 <a href="enzymes.html"><span class="color-template color-template-enzymes color-template-background-clip">Enzymes</span></a><br/>
-<span typeof="mw:Error mw:File"></span>10 <a href="royal-jelly.html#Star_Jelly"><span class="color-template color-template-star-jelly color-template-background-clip">Star Jellies</span></a><br/>
-<span typeof="mw:Error mw:File"></span>5 <a href="swirled-wax.html"><span class="color-template color-template-swirled-wax color-template-background-clip">Swirled Waxes</span></a><br/>
-<span typeof="mw:Error mw:File"></span>5 <a href="robo-pass.html"><span class="color-template color-template-robo-pass color-template-background-clip">Robo Passes</span></a><br/>
-<span typeof="mw:Error mw:File"></span>10 <a href="gingerbread-bear.html"><span class="color-template color-template-gingerbread-bear color-template-background-clip">Gingerbread Bears</span></a><br/>
+<p><img alt="Ticket" height="25" src="img/Ticket.png" width="25"/>100 <a href="ticket.html"><span class="color-template color-template-ticket color-template-background-clip">Tickets</span></a><br/>
+<img alt="Turpentine" height="25" src="img/Turpentine.png" width="25"/>1 <a href="turpentine.html"><span class="color-template color-template-turpentine color-template-background-clip">Turpentine</span></a><br/>
+<img alt="Pinecone" height="25" src="img/Pinecone.png" width="25"/>1 <a href="pinecone.html"><span class="color-template color-template-pinecone color-template-background-clip">Pinecone</span></a><br/>
+<img alt="Kazoo" height="25" src="img/Kazoo.png" width="25"/>1 <a href="kazoo.html"><span class="color-template color-template-kazoo color-template-background-clip">Kazoo</span></a><br/>
+<img alt="Enzymes" height="25" src="img/Enzymes.png" width="25"/>20 <a href="enzymes.html"><span class="color-template color-template-enzymes color-template-background-clip">Enzymes</span></a><br/>
+<img alt="Star Jelly" height="25" src="img/Star_Jelly.png" width="25"/>10 <a href="royal-jelly.html#Star_Jelly"><span class="color-template color-template-star-jelly color-template-background-clip">Star Jellies</span></a><br/>
+<img alt="Swirled Wax" height="25" src="img/Swirled_Wax.png" width="25"/>5 <a href="swirled-wax.html"><span class="color-template color-template-swirled-wax color-template-background-clip">Swirled Waxes</span></a><br/>
+<img alt="Robo Pass" height="25" src="img/Robo_Pass.png" width="25"/>5 <a href="robo-pass.html"><span class="color-template color-template-robo-pass color-template-background-clip">Robo Passes</span></a><br/>
+<img alt="Gingerbread Bear" height="25" src="img/Gingerbread_Bear.png" width="25"/>10 <a href="gingerbread-bear.html"><span class="color-template color-template-gingerbread-bear color-template-background-clip">Gingerbread Bears</span></a><br/>
 Starts the <a href="stick-bug-challenge.html">Stick Bug Challenge</a><br/>
 Allows <a href="festive-nymph.html">Festive Nymphs</a> to spawn during the Stick Bug Challenge
 </p>
@@ -278,14 +278,14 @@ The following content has been removed from the game. The contents below may be 
 <li>Defeat 5 <a href="mega-mechsquito.html">Mega Mechsquitos</a>.</li></ul>
 </td>
 <td><span typeof="mw:Error mw:File"></span><span style="border-bottom:1px dotted;" title="10,000,000,000">10B</span> <a href="honey.html"><span class="color-template color-template-honey">Honey</span></a><br/>
-<p><span typeof="mw:Error mw:File"></span>1 <a href="turpentine.html"><span class="color-template color-template-turpentine color-template-background-clip">Turpentine</span></a><br/>
-<span typeof="mw:Error mw:File"></span>5 <a href="loaded-dice.html"><span class="color-template color-template-loaded-dice color-template-background-clip">Loaded Dice</span></a><br/>
-<span typeof="mw:Error mw:File"></span>3 <a href="caustic-wax.html"><span class="color-template color-template-caustic-wax">Caustic Waxes</span></a><br/>
-<span typeof="mw:Error mw:File"></span>3 <a href="swirled-wax.html"><span class="color-template color-template-swirled-wax color-template-background-clip">Swirled Waxes</span></a><br/>
-<span typeof="mw:Error mw:File"></span>2 <a href="invigorating-vial.html"><span class="color-template color-template-invigorating-vial color-template-background-clip">Invigorating Vials</span></a><br/>
-<span typeof="mw:Error mw:File"></span>10 <a href="gingerbread-bear.html"><span class="color-template color-template-gingerbread-bear color-template-background-clip">Gingerbread Bears</span></a><br/>
-<span typeof="mw:Error mw:File"></span>1 <a href="robo-pass.html"><span class="color-template color-template-robo-pass color-template-background-clip">Robo Pass</span></a><br/>
-<span typeof="mw:Error mw:File"></span>1 <a href="ticket-planter.html"><span class="color-template color-template-ticket-planter color-template-background-clip">Ticket Planter</span></a><br/>
+<p><img alt="Turpentine" height="25" src="img/Turpentine.png" width="25"/>1 <a href="turpentine.html"><span class="color-template color-template-turpentine color-template-background-clip">Turpentine</span></a><br/>
+<img alt="Loaded Dice" height="25" src="img/Loaded_Dice.png" width="25"/>5 <a href="loaded-dice.html"><span class="color-template color-template-loaded-dice color-template-background-clip">Loaded Dice</span></a><br/>
+<img alt="Caustic Wax" height="25" src="img/Caustic_Wax.png" width="25"/>3 <a href="caustic-wax.html"><span class="color-template color-template-caustic-wax">Caustic Waxes</span></a><br/>
+<img alt="Swirled Wax" height="25" src="img/Swirled_Wax.png" width="25"/>3 <a href="swirled-wax.html"><span class="color-template color-template-swirled-wax color-template-background-clip">Swirled Waxes</span></a><br/>
+<img alt="Invigorating Vial" height="25" src="img/Invigorating_Vial.png" width="25"/>2 <a href="invigorating-vial.html"><span class="color-template color-template-invigorating-vial color-template-background-clip">Invigorating Vials</span></a><br/>
+<img alt="Gingerbread Bear" height="25" src="img/Gingerbread_Bear.png" width="25"/>10 <a href="gingerbread-bear.html"><span class="color-template color-template-gingerbread-bear color-template-background-clip">Gingerbread Bears</span></a><br/>
+<img alt="Robo Pass" height="25" src="img/Robo_Pass.png" width="25"/>1 <a href="robo-pass.html"><span class="color-template color-template-robo-pass color-template-background-clip">Robo Pass</span></a><br/>
+<img alt="Ticket Planter" height="25" src="img/Ticket_Planter.png" width="25"/>1 <a href="ticket-planter.html"><span class="color-template color-template-ticket-planter color-template-background-clip">Ticket Planter</span></a><br/>
 Starts the <a href="stick-bug-challenge.html">Stick Bug Challenge</a><br/>
 Allows <a href="festive-nymph.html">Festive Nymphs</a> to spawn during the Stick Bug Challenge
 </p>
@@ -346,13 +346,13 @@ The following content has been removed from the game. The contents below may be 
 <li>Catch 500 Falling <a href="coconut.html">Coconuts</a>.</li></ul>
 </td>
 <td><span typeof="mw:Error mw:File"></span><span style="border-bottom:1px dotted;" title="50,000,000,000">50B</span> <a href="honey.html"><span class="color-template color-template-honey">Honey</span></a><br/>
-<p><span typeof="mw:Error mw:File"></span>5 <a href="ticket.html"><span class="color-template color-template-ticket color-template-background-clip">Tickets</span></a><br/>
-<span typeof="mw:Error mw:File"></span>5 <a href="ticket-planter.html"><span class="color-template color-template-ticket-planter color-template-background-clip">Ticket Planters</span></a><br/>
-<span typeof="mw:Error mw:File"></span>1 <a href="turpentine.html"><span class="color-template color-template-turpentine color-template-background-clip">Turpentine</span></a><br/>
-<span typeof="mw:Error mw:File"></span>10 <a href="gingerbread-bear.html"><span class="color-template color-template-gingerbread-bear color-template-background-clip">Gingerbread Bears</span></a><br/>
-<span typeof="mw:Error mw:File"></span>10 <a href="royal-jelly.html#Star_Jelly"><span class="color-template color-template-star-jelly color-template-background-clip">Star Jellies</span></a><br/>
-<span typeof="mw:Error mw:File"></span>250 <a href="bitterberry.html"><span class="color-template color-template-bitterberry color-template-background-clip">Bitterberries</span></a><br/>
-<span typeof="mw:Error mw:File"></span>1 <a href="pinecone.html"><span class="color-template color-template-pinecone color-template-background-clip">Pinecone</span></a><br/>
+<p><img alt="Ticket" height="25" src="img/Ticket.png" width="25"/>5 <a href="ticket.html"><span class="color-template color-template-ticket color-template-background-clip">Tickets</span></a><br/>
+<img alt="Ticket Planter" height="25" src="img/Ticket_Planter.png" width="25"/>5 <a href="ticket-planter.html"><span class="color-template color-template-ticket-planter color-template-background-clip">Ticket Planters</span></a><br/>
+<img alt="Turpentine" height="25" src="img/Turpentine.png" width="25"/>1 <a href="turpentine.html"><span class="color-template color-template-turpentine color-template-background-clip">Turpentine</span></a><br/>
+<img alt="Gingerbread Bear" height="25" src="img/Gingerbread_Bear.png" width="25"/>10 <a href="gingerbread-bear.html"><span class="color-template color-template-gingerbread-bear color-template-background-clip">Gingerbread Bears</span></a><br/>
+<img alt="Star Jelly" height="25" src="img/Star_Jelly.png" width="25"/>10 <a href="royal-jelly.html#Star_Jelly"><span class="color-template color-template-star-jelly color-template-background-clip">Star Jellies</span></a><br/>
+<img alt="Bitterberry" height="25" src="img/Bitterberry.png" width="25"/>250 <a href="bitterberry.html"><span class="color-template color-template-bitterberry color-template-background-clip">Bitterberries</span></a><br/>
+<img alt="Pinecone" height="25" src="img/Pinecone.png" width="25"/>1 <a href="pinecone.html"><span class="color-template color-template-pinecone color-template-background-clip">Pinecone</span></a><br/>
 Starts the <a href="stick-bug-challenge.html">Stick Bug Challenge</a><br/>
 Allows <a href="festive-nymph.html">Festive Nymphs</a> to spawn during the Stick Bug Challenge
 </p>
@@ -401,12 +401,12 @@ The following content has been removed from the game. The contents below may be 
 <li>Defeat 1 <a href="king-beetle.html">King Beetle</a>.</li></ul>
 </td>
 <td><span typeof="mw:Error mw:File"></span><span style="border-bottom:1px dotted;" title="50,000,000,000">50B</span> <a href="honey.html"><span class="color-template color-template-honey">Honey</span></a><br/>
-<p><span typeof="mw:Error mw:File"></span>5 <a href="gingerbread-bear.html"><span class="color-template color-template-gingerbread-bear color-template-background-clip">Gingerbread Bears</span></a><br/>
-<span typeof="mw:Error mw:File"></span>50 <a href="ticket.html"><span class="color-template color-template-ticket color-template-background-clip">Tickets</span></a><br/>
-<span typeof="mw:Error mw:File"></span>250 <a href="bitterberry.html"><span class="color-template color-template-bitterberry color-template-background-clip">Bitterberries</span></a><br/>
-<span typeof="mw:Error mw:File"></span>10 <a href="stinger.html"><span class="color-template color-template-stinger color-template-background-clip">Stingers</span></a><br/>
-<span typeof="mw:Error mw:File"></span>10 <a href="tropical-drink.html"><span class="color-template color-template-tropical-drink color-template-background-clip">Tropical Drinks</span></a><br/>
-<span typeof="mw:Error mw:File"></span>1 <a href="pinecone.html"><span class="color-template color-template-pinecone color-template-background-clip">Pinecone</span></a><br/>
+<p><img alt="Gingerbread Bear" height="25" src="img/Gingerbread_Bear.png" width="25"/>5 <a href="gingerbread-bear.html"><span class="color-template color-template-gingerbread-bear color-template-background-clip">Gingerbread Bears</span></a><br/>
+<img alt="Ticket" height="25" src="img/Ticket.png" width="25"/>50 <a href="ticket.html"><span class="color-template color-template-ticket color-template-background-clip">Tickets</span></a><br/>
+<img alt="Bitterberry" height="25" src="img/Bitterberry.png" width="25"/>250 <a href="bitterberry.html"><span class="color-template color-template-bitterberry color-template-background-clip">Bitterberries</span></a><br/>
+<img alt="Stinger" height="25" src="img/Stinger.png" width="25"/>10 <a href="stinger.html"><span class="color-template color-template-stinger color-template-background-clip">Stingers</span></a><br/>
+<img alt="Tropical Drink" height="25" src="img/Tropical_Drink.png" width="25"/>10 <a href="tropical-drink.html"><span class="color-template color-template-tropical-drink color-template-background-clip">Tropical Drinks</span></a><br/>
+<img alt="Pinecone" height="25" src="img/Pinecone.png" width="25"/>1 <a href="pinecone.html"><span class="color-template color-template-pinecone color-template-background-clip">Pinecone</span></a><br/>
 Starts the <a href="stick-bug-challenge.html">Stick Bug Challenge</a><br/>
 Allows <a href="festive-nymph.html">Festive Nymphs</a> to spawn during the Stick Bug Challenge
 </p>
@@ -456,8 +456,8 @@ The following content has been removed from the game. The contents below may be 
 </td>
 <td>Starts <a href="stick-bug-challenge.html">Stick Bug Challenge</a> (upon receiving quest)<br/>
 <p><span typeof="mw:Error mw:File"></span><span style="border-bottom:1px dotted;" title="5,000,000,000">5B</span> <a href="honey.html"><span class="color-template color-template-honey">Honey</span></a><br/>
-<span typeof="mw:Error mw:File"></span>5 <a href="ticket.html"><span class="color-template color-template-ticket color-template-background-clip">Tickets</span></a><br/>
-<span typeof="mw:Error mw:File"></span>10 <a href="tropical-drink.html"><span class="color-template color-template-tropical-drink color-template-background-clip">Tropical Drinks</span></a><br/>
+<img alt="Ticket" height="25" src="img/Ticket.png" width="25"/>5 <a href="ticket.html"><span class="color-template color-template-ticket color-template-background-clip">Tickets</span></a><br/>
+<img alt="Tropical Drink" height="25" src="img/Tropical_Drink.png" width="25"/>10 <a href="tropical-drink.html"><span class="color-template color-template-tropical-drink color-template-background-clip">Tropical Drinks</span></a><br/>
 <span typeof="mw:Error mw:File"></span> Partridge in a Stick Bug <a href="ornaments.html">Ornament</a>
 </p>
 </td></tr></tbody></table>
@@ -495,10 +495,10 @@ The following content has been removed from the game. The contents below may be 
 <ul><li>Collect 50,000,000 White <a href="pollen.html">Pollen</a>.</li>
 <li>Collect 2,500 Tokens from Stick Nymphs.</li></ul>
 </td>
-<td><span typeof="mw:Error mw:File"></span>25,000,000 <a href="honey.html"><span class="color-template color-template-honey">Honey</span></a><br/>
-<p><span typeof="mw:Error mw:File"></span>5 <a href="marshmallow-bee.html"><span class="color-template color-template-marshmallow-bee color-template-background-clip">Marshmallow Bees</span></a><br/>
-<span typeof="mw:Error mw:File"></span>5 <a href="micro-converter.html"><span class="color-template color-template-micro-converter color-template-background-clip">Micro-Converters</span></a><br/>
-<span typeof="mw:Error mw:File"></span>5 <a href="jelly-beans.html"><span class="color-template color-template-jelly-beans color-template-background-clip">Jelly Beans</span></a><br/>
+<td><img alt="Honey" height="25" src="img/Honey.png" width="25"/>25,000,000 <a href="honey.html"><span class="color-template color-template-honey">Honey</span></a><br/>
+<p><img alt="Marshmallow Bee" height="25" src="img/Marshmallow_Bee.png" width="25"/>5 <a href="marshmallow-bee.html"><span class="color-template color-template-marshmallow-bee color-template-background-clip">Marshmallow Bees</span></a><br/>
+<img alt="Micro-Converter" height="25" src="img/Micro-Converter.png" width="25"/>5 <a href="micro-converter.html"><span class="color-template color-template-micro-converter color-template-background-clip">Micro-Converters</span></a><br/>
+<img alt="Jelly Beans" height="25" src="img/Jelly_Beans.png" width="25"/>5 <a href="jelly-beans.html"><span class="color-template color-template-jelly-beans color-template-background-clip">Jelly Beans</span></a><br/>
 An <a href="sprout.html">Epic Sprout</a><br/>
 A <a href="sprout.html">Legendary Sprout</a><br/>
 A <a href="sprout.html">Supreme Sprout</a>

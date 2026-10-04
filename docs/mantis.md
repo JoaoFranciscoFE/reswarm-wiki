@@ -87,10 +87,6 @@ Possible:
 
 Due to the Mantis' long attack range, the player's [Bees](bees.md) normally won't target it until they get closer/when the mantis itself attacks. Try to get at the very edge of its enormous jump range. Then, when it stops to get ready to attack, walk in a very wide circle around it. If done correctly, the mantis will undershoot and land where you were a few seconds before. This is often close enough for your Bees to start attacking, even once it retreats back. Also, keep in mind the [Frozen Field Defenders Glitch](glitches.md#Frozen_Field_Defenders) can be used to defeat it, just like with most other mobs. When a Mantis is stuck in an object, the player can also defeat it more easily.
 
-## Gallery
-
-<div class="wikia-gallery wikia-gallery-caption-below wikia-gallery-position-left wikia-gallery-spacing-medium wikia-gallery-border-small wikia-gallery-captions-left wikia-gallery-caption-size-medium" data-seq-no="0" hash="b67a2548f4447d7d3f6c3b56e271c5b4" id="gallery-0"><div class="wikia-gallery-caption"></div><div class="wikia-gallery-item" style="width:187px; "><div class="thumb" style="height:187px;"><div class="gallery-image-wrapper accent" id="RobloxScreenShot20180721_072204888-png" style="position: relative; height:185px; width:185px;"><span style="line-height: 1;">RobloxScreenShot20180721 072204888.png</span></div></div><div class="lightbox-caption" style="width:185px;">Obtaining 5 Silver Eggs from a mantis.</div></div><div class="wikia-gallery-item" style="width:187px; "><div class="thumb" style="height:187px;"><div class="gallery-image-wrapper accent" id="Hivesticker_menacing_mantis-png" style="position: relative; height:185px; width:185px;"><span style="line-height: 1;">Hivesticker menacing mantis.png</span></div></div><div class="lightbox-caption" style="width:185px;">The Menacing Mantis <a href="sticker.html">Sticker</a>.</div></div></div>
-
 ## Trivia
 
 * When a Bear gives a quest that involves more than one mantis, its plural form was spelled incorrectly, such as "4 Mantiss" rather than "4 Mantises" or "4 Mantis"; This was fixed at an unknown time.

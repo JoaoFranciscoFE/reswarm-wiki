@@ -334,10 +334,6 @@ Commander Bee likes the [Spider Field](spider-field.md) and the [Cactus Field](c
 </td></tr>
 </tbody></table>
 
-## Gallery
-
-<div class="wikia-gallery wikia-gallery-caption-below wikia-gallery-position-left wikia-gallery-spacing-medium wikia-gallery-border-small wikia-gallery-captions-left wikia-gallery-caption-size-medium" data-seq-no="0" hash="6c5253157626e8c8f3fb391290d259fe" id="gallery-0"><div class="wikia-gallery-caption"></div><div class="wikia-gallery-item" style="width:187px; "><div class="thumb" style="height:187px;"><div class="gallery-image-wrapper accent" id="CommandoFaceOutline-png" style="position: relative; height:185px; width:185px;"><span style="line-height: 1;">CommandoFaceOutline.png</span></div></div><div class="lightbox-caption" style="width:185px;">Commander Bee's face.</div></div><div class="wikia-gallery-item" style="width:187px; "><div class="thumb" style="height:187px;"><div class="gallery-image-wrapper accent" id="Commando_bee-png" style="position: relative; height:185px; width:185px;"><span style="line-height: 1;">Commando bee.png</span></div></div><div class="lightbox-caption" style="width:185px;">Commander Bee's original face.</div></div><div class="wikia-gallery-item" style="width:187px; "><div class="thumb" style="height:187px;"><div class="gallery-image-wrapper accent" id="CommanderBee_Hive-png" style="position: relative; height:185px; width:185px;"><span style="line-height: 1;">CommanderBee Hive.png</span></div></div><div class="lightbox-caption" style="width:185px;">Commander Bee's old hive slot design.</div></div><div class="wikia-gallery-item" style="width:187px; "><div class="thumb" style="height:187px;"><div class="gallery-image-wrapper accent" id="Gifted_Commander_Bee-png" style="position: relative; height:185px; width:185px;"><span style="line-height: 1;">Gifted Commander Bee.png</span></div></div><div class="lightbox-caption" style="width:185px;">A Gifted Commander Bee hive slot.</div></div></div>
-
 ## Trivia
 
 * Commander Bee's skin is the same as [Looker Bee's](looker-bee.md).

@@ -371,10 +371,6 @@ Crimson Bee likes the [Clover Field](clover-field.md) and the [Rose Field](rose-
 </td></tr>
 </tbody></table>
 
-## Gallery
-
-<div class="wikia-gallery wikia-gallery-caption-below wikia-gallery-position-left wikia-gallery-spacing-medium wikia-gallery-border-small wikia-gallery-captions-left wikia-gallery-caption-size-medium" data-seq-no="0" hash="1028aac1d620a1ee7dffce3a98e59f57" id="gallery-0"><div class="wikia-gallery-caption"></div><div class="wikia-gallery-item" style="width:187px; "><div class="thumb" style="height:187px;"><div class="gallery-image-wrapper accent" id="GiftedCrimsonBee_Slot-png" style="position: relative; height:185px; width:185px;"><span style="line-height: 1;">GiftedCrimsonBee Slot.png</span></div></div><div class="lightbox-caption" style="width:185px;">A Gifted Crimson Bee hive slot.</div></div><div class="wikia-gallery-item" style="width:187px; "><div class="thumb" style="height:187px;"><div class="gallery-image-wrapper accent" id="CrimsonFace-png" style="position: relative; height:185px; width:185px;"><span style="line-height: 1;">CrimsonFace.png</span></div></div><div class="lightbox-caption" style="width:185px;">Crimson Bee's face.</div></div><div class="wikia-gallery-item" style="width:187px; "><div class="thumb" style="height:187px;"><div class="gallery-image-wrapper accent" id="Red_Pulse-png" style="position: relative; height:185px; width:185px;"><span style="line-height: 1;">Red Pulse.png</span></div></div><div class="lightbox-caption" style="width:185px;">The Red Pulse icon.</div></div><div class="wikia-gallery-item" style="width:187px; "><div class="thumb" style="height:187px;"><div class="gallery-image-wrapper accent" id="Red_Bomb_Sync-png" style="position: relative; height:185px; width:185px;"><span style="line-height: 1;">Red Bomb Sync.png</span></div></div><div class="lightbox-caption" style="width:185px;">The Red Bomb Sync icon.</div></div></div>
-
 ## Trivia
 
 * The only difference between Crimson Bee and Cobalt Bee's [field](fields.md) preferences is that the Crimson Bee likes the Rose Field, whereas Cobalt Bee prefers the [Pine Tree Forest](pine-tree-forest.md).

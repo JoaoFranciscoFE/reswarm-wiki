@@ -197,8 +197,6 @@ The **Slime** moves constantly towards the hive, depleting flowers under it. Stu
 * You can use the Trowel to temporarily block Slimes from approaching the hives. This can prove to be extremely useful if you or your team are unable to clear out a horde of Slimes.
 * You can use the [Star Saw](passive-abilities.md#Star_Amulet_Passives) to defeat hordes of Slimes.
 
-## Gallery
-
 ## Trivia
 
 * The slime is based on the ROBLOX game Defend the Statue.

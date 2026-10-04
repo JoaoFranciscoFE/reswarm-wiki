@@ -39,10 +39,10 @@ There were 10 different types of ornament presents that the player could have op
 <td>3
 </td>
 <td>
-<ul><li><span typeof="mw:Error mw:File"></span>1 <a href="blue-extract.html"><span class="color-template color-template-blue-extract color-template-background-clip">Blue Extract</span></a></li>
-<li><span typeof="mw:Error mw:File"></span>1 <a href="red-extract.html"><span class="color-template color-template-red-extract color-template-background-clip">Red Extract</span></a></li>
-<li><span typeof="mw:Error mw:File"></span>5 <a href="royal-jelly.html"><span class="color-template color-template-royal-jelly color-template-background-clip">Royal Jellies</span></a></li>
-<li><span typeof="mw:Error mw:File"></span>4 <a href="jelly-beans.html"><span class="color-template color-template-jelly-beans color-template-background-clip">Jelly Beans</span></a></li></ul>
+<ul><li><img alt="Blue Extract" height="25" src="img/Blue_Extract.png" width="25"/>1 <a href="blue-extract.html"><span class="color-template color-template-blue-extract color-template-background-clip">Blue Extract</span></a></li>
+<li><img alt="Red Extract" height="25" src="img/Red_Extract.png" width="25"/>1 <a href="red-extract.html"><span class="color-template color-template-red-extract color-template-background-clip">Red Extract</span></a></li>
+<li><img alt="Royal Jelly" height="25" src="img/Royal_Jelly.png" width="25"/>5 <a href="royal-jelly.html"><span class="color-template color-template-royal-jelly color-template-background-clip">Royal Jellies</span></a></li>
+<li><img alt="Jelly Beans" height="25" src="img/Jelly_Beans.png" width="25"/>4 <a href="jelly-beans.html"><span class="color-template color-template-jelly-beans color-template-background-clip">Jelly Beans</span></a></li></ul>
 </td></tr>
 <tr>
 <td><span typeof="mw:Error mw:File"></span>
@@ -54,9 +54,9 @@ There were 10 different types of ornament presents that the player could have op
 <td>4
 </td>
 <td>
-<ul><li><span typeof="mw:Error mw:File"></span>1 <a href="egg.html#Gold_Egg"><span class="color-template color-template-gold-egg color-template-background-clip">Gold Egg</span></a></li>
-<li><span typeof="mw:Error mw:File"></span>2 <a href="oil.html"><span class="color-template color-template-oil color-template-background-clip">Oils</span></a></li>
-<li><span typeof="mw:Error mw:File"></span>40 <a href="pineapple.html"><span class="color-template color-template-pineapple color-template-background-clip">Pineapples</span></a></li></ul>
+<ul><li><img alt="Gold Egg" height="25" src="img/Gold_Egg.png" width="25"/>1 <a href="egg.html#Gold_Egg"><span class="color-template color-template-gold-egg color-template-background-clip">Gold Egg</span></a></li>
+<li><img alt="Oil" height="25" src="img/Oil.png" width="25"/>2 <a href="oil.html"><span class="color-template color-template-oil color-template-background-clip">Oils</span></a></li>
+<li><img alt="Pineapple" height="25" src="img/Pineapple.png" width="25"/>40 <a href="pineapple.html"><span class="color-template color-template-pineapple color-template-background-clip">Pineapples</span></a></li></ul>
 </td></tr>
 <tr>
 <td><span typeof="mw:Error mw:File"></span>
@@ -68,9 +68,9 @@ There were 10 different types of ornament presents that the player could have op
 <td>5
 </td>
 <td>
-<ul><li><span typeof="mw:Error mw:File"></span> 1x <a href="royal-jelly.html#Royal_Jelly_Variants">Music Bee Jelly</a></li>
-<li><span typeof="mw:Error mw:File"></span>20 <a href="coconut.html"><span class="color-template color-template-coconut color-template-background-clip">Coconuts</span></a></li>
-<li><span typeof="mw:Error mw:File"></span>4 <a href="field-dice.html"><span class="color-template color-template-field-dice color-template-background-clip">Field Dice</span></a></li></ul>
+<ul><li><img alt="Royal Jelly" height="25" src="img/Royal_Jelly.png" width="25"/> 1x <a href="royal-jelly.html#Royal_Jelly_Variants">Music Bee Jelly</a></li>
+<li><img alt="Coconut" height="25" src="img/Coconut.png" width="25"/>20 <a href="coconut.html"><span class="color-template color-template-coconut color-template-background-clip">Coconuts</span></a></li>
+<li><img alt="Field Dice" height="25" src="img/Field_Dice.png" width="25"/>4 <a href="field-dice.html"><span class="color-template color-template-field-dice color-template-background-clip">Field Dice</span></a></li></ul>
 </td></tr>
 <tr>
 <td><span typeof="mw:Error mw:File"></span>
@@ -82,9 +82,9 @@ There were 10 different types of ornament presents that the player could have op
 <td>6
 </td>
 <td>
-<ul><li><span typeof="mw:Error mw:File"></span>2 <a href="royal-jelly.html#Star_Jelly"><span class="color-template color-template-star-jelly color-template-background-clip">Star Jellies</span></a></li>
-<li><span typeof="mw:Error mw:File"></span>2 <a href="glitter.html"><span class="color-template color-template-glitter color-template-background-clip">Glitter</span></a></li>
-<li><span typeof="mw:Error mw:File"></span>20 <a href="moon-charm.html"><span class="color-template color-template-moon-charm color-template-background-clip">Moon Charms</span></a></li></ul>
+<ul><li><img alt="Star Jelly" height="25" src="img/Star_Jelly.png" width="25"/>2 <a href="royal-jelly.html#Star_Jelly"><span class="color-template color-template-star-jelly color-template-background-clip">Star Jellies</span></a></li>
+<li><img alt="Glitter" height="25" src="img/Glitter.png" width="25"/>2 <a href="glitter.html"><span class="color-template color-template-glitter color-template-background-clip">Glitter</span></a></li>
+<li><img alt="Moon Charm" height="25" src="img/Moon_Charm.png" width="25"/>20 <a href="moon-charm.html"><span class="color-template color-template-moon-charm color-template-background-clip">Moon Charms</span></a></li></ul>
 </td></tr>
 <tr>
 <td><span typeof="mw:Error mw:File"></span>
@@ -96,9 +96,9 @@ There were 10 different types of ornament presents that the player could have op
 <td>7
 </td>
 <td>
-<ul><li><span typeof="mw:Error mw:File"></span>100 <a href="gumdrops.html"><span class="color-template color-template-gumdrops color-template-background-clip">Gumdrops</span></a></li>
-<li><span typeof="mw:Error mw:File"></span>10 <a href="glue.html"><span class="color-template color-template-glue color-template-background-clip">Glues</span></a></li>
-<li><span typeof="mw:Error mw:File"></span>10 <a href="neonberry.html"><span class="color-template color-template-neonberry color-template-background-clip">Neonberries</span></a></li></ul>
+<ul><li><img alt="Gumdrops" height="25" src="img/Gumdrops.png" width="25"/>100 <a href="gumdrops.html"><span class="color-template color-template-gumdrops color-template-background-clip">Gumdrops</span></a></li>
+<li><img alt="Glue" height="25" src="img/Glue.png" width="25"/>10 <a href="glue.html"><span class="color-template color-template-glue color-template-background-clip">Glues</span></a></li>
+<li><img alt="Neonberry" height="25" src="img/Neonberry.png" width="25"/>10 <a href="neonberry.html"><span class="color-template color-template-neonberry color-template-background-clip">Neonberries</span></a></li></ul>
 </td></tr>
 <tr>
 <td><span typeof="mw:Error mw:File"></span>
@@ -110,9 +110,9 @@ There were 10 different types of ornament presents that the player could have op
 <td>8
 </td>
 <td>
-<ul><li><span typeof="mw:Error mw:File"></span>2 <a href="glitter.html"><span class="color-template color-template-glitter color-template-background-clip">Glitter</span></a></li>
-<li><span typeof="mw:Error mw:File"></span>4 <a href="red-extract.html"><span class="color-template color-template-red-extract color-template-background-clip">Red Extracts</span></a></li>
-<li><span typeof="mw:Error mw:File"></span> <a href="egg.html#Event_Bee_Eggs">Festive Bee Egg</a> or 500 <a href="ticket.html">tickets</a> (If <a href="festive-bee.html">Festive Bee</a> was already owned)</li></ul>
+<ul><li><img alt="Glitter" height="25" src="img/Glitter.png" width="25"/>2 <a href="glitter.html"><span class="color-template color-template-glitter color-template-background-clip">Glitter</span></a></li>
+<li><img alt="Red Extract" height="25" src="img/Red_Extract.png" width="25"/>4 <a href="red-extract.html"><span class="color-template color-template-red-extract color-template-background-clip">Red Extracts</span></a></li>
+<li><img alt="Basic Egg" height="35" src="img/Basic_Egg.png" width="35"/> <a href="egg.html#Event_Bee_Eggs">Festive Bee Egg</a> or 500 <a href="ticket.html">tickets</a> (If <a href="festive-bee.html">Festive Bee</a> was already owned)</li></ul>
 </td></tr>
 <tr>
 <td><span typeof="mw:Error mw:File"></span>
@@ -124,11 +124,11 @@ There were 10 different types of ornament presents that the player could have op
 <td>9
 </td>
 <td>
-<ul><li><span typeof="mw:Error mw:File"></span>50 <a href="blueberry.html"><span class="color-template color-template-blueberry color-template-background-clip">Blueberries</span></a></li>
-<li><span typeof="mw:Error mw:File"></span>50 <a href="strawberry.html"><span class="color-template color-template-strawberry color-template-background-clip">Strawberries</span></a></li>
-<li><span typeof="mw:Error mw:File"></span>3 <a href="red-extract.html"><span class="color-template color-template-red-extract color-template-background-clip">Red Extracts</span></a></li>
-<li><span typeof="mw:Error mw:File"></span>3 <a href="blue-extract.html"><span class="color-template color-template-blue-extract color-template-background-clip">Blue Extracts</span></a></li>
-<li><span typeof="mw:Error mw:File"></span>1 <a href="egg.html#Mythic_Egg"><span class="color-template color-template-mythic-egg color-template-background-clip">Mythic Egg</span></a></li></ul>
+<ul><li><img alt="Blueberry" height="25" src="img/Blueberry.png" width="25"/>50 <a href="blueberry.html"><span class="color-template color-template-blueberry color-template-background-clip">Blueberries</span></a></li>
+<li><img alt="Strawberry" height="25" src="img/Strawberry.png" width="25"/>50 <a href="strawberry.html"><span class="color-template color-template-strawberry color-template-background-clip">Strawberries</span></a></li>
+<li><img alt="Red Extract" height="25" src="img/Red_Extract.png" width="25"/>3 <a href="red-extract.html"><span class="color-template color-template-red-extract color-template-background-clip">Red Extracts</span></a></li>
+<li><img alt="Blue Extract" height="25" src="img/Blue_Extract.png" width="25"/>3 <a href="blue-extract.html"><span class="color-template color-template-blue-extract color-template-background-clip">Blue Extracts</span></a></li>
+<li><img alt="Mythic Egg" height="25" src="img/Mythic_Egg.png" width="25"/>1 <a href="egg.html#Mythic_Egg"><span class="color-template color-template-mythic-egg color-template-background-clip">Mythic Egg</span></a></li></ul>
 </td></tr>
 <tr>
 <td><span typeof="mw:Error mw:File"></span>
@@ -140,9 +140,9 @@ There were 10 different types of ornament presents that the player could have op
 <td>10
 </td>
 <td>
-<ul><li><span typeof="mw:Error mw:File"></span>5 <a href="atomic-treat.html"><span class="color-template color-template-atomic-treat color-template-background-clip">Atomic Treats</span></a></li>
-<li><span typeof="mw:Error mw:File"></span>6 <a href="box-o-frogs.html"><span class="color-template color-template-box-o-frogs color-template-background-clip">Boxes-O-Frogs</span></a></li>
-<li><span typeof="mw:Error mw:File"></span>24 <a href="micro-converter.html"><span class="color-template color-template-micro-converter color-template-background-clip">Micro-Converters</span></a></li></ul>
+<ul><li><img alt="Atomic Treat" height="25" src="img/Atomic_Treat.png" width="25"/>5 <a href="atomic-treat.html"><span class="color-template color-template-atomic-treat color-template-background-clip">Atomic Treats</span></a></li>
+<li><img alt="Box-O-Frogs" height="25" src="img/Box-O-Frogs.png" width="25"/>6 <a href="box-o-frogs.html"><span class="color-template color-template-box-o-frogs color-template-background-clip">Boxes-O-Frogs</span></a></li>
+<li><img alt="Micro-Converter" height="25" src="img/Micro-Converter.png" width="25"/>24 <a href="micro-converter.html"><span class="color-template color-template-micro-converter color-template-background-clip">Micro-Converters</span></a></li></ul>
 </td></tr>
 <tr>
 <td><span typeof="mw:Error mw:File"></span>
@@ -154,10 +154,10 @@ There were 10 different types of ornament presents that the player could have op
 <td>11
 </td>
 <td>
-<ul><li><span typeof="mw:Error mw:File"></span>20 <a href="tropical-drink.html"><span class="color-template color-template-tropical-drink color-template-background-clip">Tropical Drinks</span></a></li>
-<li><span typeof="mw:Error mw:File"></span>30 <a href="cloud-vial.html"><span class="color-template color-template-cloud-vial color-template-background-clip">Cloud Vials</span></a></li>
-<li><span typeof="mw:Error mw:File"></span>2 <a href="marshmallow-bee.html"><span class="color-template color-template-marshmallow-bee color-template-background-clip">Marshmallow Bees</span></a></li>
-<li><span typeof="mw:Error mw:File"></span>5 <a href="festive-bean.html"><span class="color-template color-template-festive-bean color-template-background-clip">Festive Beans</span></a></li></ul>
+<ul><li><img alt="Tropical Drink" height="25" src="img/Tropical_Drink.png" width="25"/>20 <a href="tropical-drink.html"><span class="color-template color-template-tropical-drink color-template-background-clip">Tropical Drinks</span></a></li>
+<li><img alt="Cloud Vial" height="25" src="img/Cloud_Vial.png" width="25"/>30 <a href="cloud-vial.html"><span class="color-template color-template-cloud-vial color-template-background-clip">Cloud Vials</span></a></li>
+<li><img alt="Marshmallow Bee" height="25" src="img/Marshmallow_Bee.png" width="25"/>2 <a href="marshmallow-bee.html"><span class="color-template color-template-marshmallow-bee color-template-background-clip">Marshmallow Bees</span></a></li>
+<li><img alt="Festive Bean" height="25" src="img/Festive_Bean.png" width="25"/>5 <a href="festive-bean.html"><span class="color-template color-template-festive-bean color-template-background-clip">Festive Beans</span></a></li></ul>
 </td></tr>
 <tr>
 <td><span typeof="mw:Error mw:File"></span>
@@ -170,11 +170,11 @@ There were 10 different types of ornament presents that the player could have op
 </td>
 <td>
 <ul><li><span typeof="mw:Error mw:File"></span> 48 Hours (2 Days) of <a href="buffs-debuffs.html#From_Other">Honeyday Event</a></li>
-<li><span typeof="mw:Error mw:File"></span>2 <a href="egg.html#Mythic_Egg"><span class="color-template color-template-mythic-egg color-template-background-clip">Mythic Eggs</span></a></li>
-<li><span typeof="mw:Error mw:File"></span>6 <a href="atomic-treat.html"><span class="color-template color-template-atomic-treat color-template-background-clip">Atomic Treats</span></a></li>
-<li><span typeof="mw:Error mw:File"></span>2 <a href="egg.html#Gifted_Gold_Egg"><span class="color-template color-template-gifted-gold-egg color-template-background-clip">Gifted Gold Eggs</span></a></li>
-<li><span typeof="mw:Error mw:File"></span>2 <a href="egg.html#Gifted_Diamond_Egg"><span class="color-template color-template-gifted-diamond-egg color-template-background-clip">Gifted Diamond Eggs</span></a></li>
-<li><span typeof="mw:Error mw:File"></span>6 <a href="festive-bean.html"><span class="color-template color-template-festive-bean color-template-background-clip">Festive Beans</span></a></li></ul>
+<li><img alt="Mythic Egg" height="25" src="img/Mythic_Egg.png" width="25"/>2 <a href="egg.html#Mythic_Egg"><span class="color-template color-template-mythic-egg color-template-background-clip">Mythic Eggs</span></a></li>
+<li><img alt="Atomic Treat" height="25" src="img/Atomic_Treat.png" width="25"/>6 <a href="atomic-treat.html"><span class="color-template color-template-atomic-treat color-template-background-clip">Atomic Treats</span></a></li>
+<li><img alt="Gifted Gold Egg" height="25" src="img/Gifted_Gold_Egg.png" width="25"/>2 <a href="egg.html#Gifted_Gold_Egg"><span class="color-template color-template-gifted-gold-egg color-template-background-clip">Gifted Gold Eggs</span></a></li>
+<li><img alt="Gifted Diamond Egg" height="25" src="img/Gifted_Diamond_Egg.png" width="25"/>2 <a href="egg.html#Gifted_Diamond_Egg"><span class="color-template color-template-gifted-diamond-egg color-template-background-clip">Gifted Diamond Eggs</span></a></li>
+<li><img alt="Festive Bean" height="25" src="img/Festive_Bean.png" width="25"/>6 <a href="festive-bean.html"><span class="color-template color-template-festive-bean color-template-background-clip">Festive Beans</span></a></li></ul>
 </td></tr></tbody></table>
 
 ## Trivia

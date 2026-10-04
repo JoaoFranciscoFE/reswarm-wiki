@@ -19,7 +19,7 @@ If the player has reached the top 25 by the end of the day, they will be awarded
 
 If the player has reached the top 100 by the end of the day, they will be awarded with 25 [Tickets](ticket.md).
 
-<div class="wikia-gallery wikia-gallery-caption-below wikia-gallery-position-left wikia-gallery-spacing-medium wikia-gallery-border-small wikia-gallery-captions-left wikia-gallery-caption-size-medium" data-seq-no="0" hash="0a1f39e1185acae75fd45eff98795f60" id="gallery-0"><div class="wikia-gallery-caption"></div><div class="wikia-gallery-item" style="width:187px; "><div class="thumb" style="height:187px;"><div class="gallery-image-wrapper accent" id="Hivesticker_left_mythic_gem_fleuron-png" style="position: relative; height:185px; width:185px;"><span style="line-height: 1;">Hivesticker left mythic gem fleuron.png</span></div></div><div class="lightbox-caption" style="width:185px;">Top 25 Prize for Daily Top Red Collectors.</div></div><div class="wikia-gallery-item" style="width:187px; "><div class="thumb" style="height:187px;"><div class="gallery-image-wrapper accent" id="Hivesticker_right_mythic_gem_fleuron-png" style="position: relative; height:185px; width:185px;"><span style="line-height: 1;">Hivesticker right mythic gem fleuron.png</span></div></div><div class="lightbox-caption" style="width:185px;">Top 25 Prize for Daily Top Red Collectors.</div></div></div>
+
 
 <table class="mw-collapsible mw-collapsed NavTable">
 <tbody><tr>

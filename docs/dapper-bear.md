@@ -112,11 +112,11 @@ If player already had the [Beequip Case](beequip.md) Slot that the quest was sup
 <li>Collect 2,000,000 <a href="pollen.html">Pollen</a> from the <a href="pineapple-patch.html">Pineapple Patch</a>.</li>
 <li>Collect 25 Tokens from <a href="planter.html">Planters</a>.</li></ul>
 </td>
-<td><span typeof="mw:Error mw:File"></span>1,000,000 <a href="honey.html"><span class="color-template color-template-honey">Honey</span></a><br/>
-<p><span typeof="mw:Error mw:File"></span>1 <a href="ticket-planter.html"><span class="color-template color-template-ticket-planter color-template-background-clip">Ticket Planter</span></a><br/>
-<span typeof="mw:Error mw:File"></span>10 <a href="honeysuckle.html"><span class="color-template color-template-honeysuckle color-template-background-clip">Honeysuckles</span></a><br/>
-<span typeof="mw:Error mw:File"></span>5 <a href="whirligig.html"><span class="color-template color-template-whirligig color-template-background-clip">Whirligigs</span></a><br/>
-<span typeof="mw:Error mw:File"></span>1 <a href="royal-jelly.html"><span class="color-template color-template-royal-jelly color-template-background-clip">Royal Jelly</span></a>
+<td><img alt="Honey" height="25" src="img/Honey.png" width="25"/>1,000,000 <a href="honey.html"><span class="color-template color-template-honey">Honey</span></a><br/>
+<p><img alt="Ticket Planter" height="25" src="img/Ticket_Planter.png" width="25"/>1 <a href="ticket-planter.html"><span class="color-template color-template-ticket-planter color-template-background-clip">Ticket Planter</span></a><br/>
+<img alt="Honeysuckle" height="25" src="img/Honeysuckle.png" width="25"/>10 <a href="honeysuckle.html"><span class="color-template color-template-honeysuckle color-template-background-clip">Honeysuckles</span></a><br/>
+<img alt="Whirligig" height="25" src="img/Whirligig.png" width="25"/>5 <a href="whirligig.html"><span class="color-template color-template-whirligig color-template-background-clip">Whirligigs</span></a><br/>
+<img alt="Royal Jelly" height="25" src="img/Royal_Jelly.png" width="25"/>1 <a href="royal-jelly.html"><span class="color-template color-template-royal-jelly color-template-background-clip">Royal Jelly</span></a>
 </p>
 </td></tr>
 <tr>
@@ -127,13 +127,13 @@ If player already had the [Beequip Case](beequip.md) Slot that the quest was sup
 <li>Collect 4,000,000 <a href="pollen.html">Pollen</a> from the <a href="spider-field.html">Spider Field</a>.</li>
 <li>Collect 25 Tokens from <a href="planter.html">Planters</a> in the <a href="mushroom-field.html">Mushroom Field</a>.</li>
 <li>Collect 25 Tokens from <a href="planter.html">Planters</a> in the <a href="spider-field.html">Spider Field</a>.</li>
-<li>Collect <span typeof="mw:Error mw:File"></span>10 <a href="bitterberry.html"><span class="color-template color-template-bitterberry color-template-background-clip">Bitterberries</span></a>.</li></ul>
+<li>Collect <img alt="Bitterberry" height="25" src="img/Bitterberry.png" width="25"/>10 <a href="bitterberry.html"><span class="color-template color-template-bitterberry color-template-background-clip">Bitterberries</span></a>.</li></ul>
 </td>
-<td><span typeof="mw:Error mw:File"></span>1 <a href="beequip.html"><span class="color-template color-template-beequip-case color-template-background-clip">Beequip Case</span></a> Slot<br/>
-<p><span typeof="mw:Error mw:File"></span>3,000,000 <a href="honey.html"><span class="color-template color-template-honey">Honey</span></a><br/>
-<span typeof="mw:Error mw:File"></span>3 <a href="soft-wax.html"><span class="color-template color-template-soft-wax">Soft Waxes</span></a><br/>
-<span typeof="mw:Error mw:File"></span>5 <a href="jelly-beans.html"><span class="color-template color-template-jelly-beans color-template-background-clip">Jelly Beans</span></a><br/>
-<span typeof="mw:Error mw:File"></span>1 <a href="royal-jelly.html"><span class="color-template color-template-royal-jelly color-template-background-clip">Royal Jelly</span></a>
+<td><img alt="Beequip Case" height="25" src="img/Beequip_Case.png" width="25"/>1 <a href="beequip.html"><span class="color-template color-template-beequip-case color-template-background-clip">Beequip Case</span></a> Slot<br/>
+<p><img alt="Honey" height="25" src="img/Honey.png" width="25"/>3,000,000 <a href="honey.html"><span class="color-template color-template-honey">Honey</span></a><br/>
+<img alt="Soft Wax" height="25" src="img/Soft_Wax.png" width="25"/>3 <a href="soft-wax.html"><span class="color-template color-template-soft-wax">Soft Waxes</span></a><br/>
+<img alt="Jelly Beans" height="25" src="img/Jelly_Beans.png" width="25"/>5 <a href="jelly-beans.html"><span class="color-template color-template-jelly-beans color-template-background-clip">Jelly Beans</span></a><br/>
+<img alt="Royal Jelly" height="25" src="img/Royal_Jelly.png" width="25"/>1 <a href="royal-jelly.html"><span class="color-template color-template-royal-jelly color-template-background-clip">Royal Jelly</span></a>
 </p>
 </td></tr>
 <tr>
@@ -142,16 +142,16 @@ If player already had the [Beequip Case](beequip.md) Slot that the quest was sup
 <td>
 <ul><li>Collect 4 Hours of <a href="nectar.html">Invigorating Nectar</a>.</li>
 <li>Collect 8,000,000 <a href="pollen.html">Red Pollen</a>.</li>
-<li>Collect <span typeof="mw:Error mw:File"></span>10 <a href="soft-wax.html"><span class="color-template color-template-soft-wax">Soft Waxes</span></a>.</li>
+<li>Collect <img alt="Soft Wax" height="25" src="img/Soft_Wax.png" width="25"/>10 <a href="soft-wax.html"><span class="color-template color-template-soft-wax">Soft Waxes</span></a>.</li>
 <li>Pop 100 <a href="bubble.html">Bubbles</a>.</li>
 <li>Pop 25 <a href="puffshroom.html">Puffshrooms</a>.</li></ul>
 </td>
-<td><span typeof="mw:Error mw:File"></span>5,000,000 <a href="honey.html"><span class="color-template color-template-honey">Honey</span></a><br/>
-<p><span typeof="mw:Error mw:File"></span>1 <a href="ticket-planter.html"><span class="color-template color-template-ticket-planter color-template-background-clip">Ticket Planter</span></a><br/>
-<span typeof="mw:Error mw:File"></span>100 <a href="treat.html"><span class="color-template color-template-treat">Treats</span></a><br/>
-<span typeof="mw:Error mw:File"></span>10 <a href="honeysuckle.html"><span class="color-template color-template-honeysuckle color-template-background-clip">Honeysuckles</span></a><br/>
-<span typeof="mw:Error mw:File"></span>10 <a href="neonberry.html"><span class="color-template color-template-neonberry color-template-background-clip">Neonberries</span></a><br/>
-<span typeof="mw:Error mw:File"></span>3 <a href="field-dice.html"><span class="color-template color-template-field-dice color-template-background-clip">Field Dice</span></a>
+<td><img alt="Honey" height="25" src="img/Honey.png" width="25"/>5,000,000 <a href="honey.html"><span class="color-template color-template-honey">Honey</span></a><br/>
+<p><img alt="Ticket Planter" height="25" src="img/Ticket_Planter.png" width="25"/>1 <a href="ticket-planter.html"><span class="color-template color-template-ticket-planter color-template-background-clip">Ticket Planter</span></a><br/>
+<img alt="Treat" height="25" src="img/Treat.png" width="25"/>100 <a href="treat.html"><span class="color-template color-template-treat">Treats</span></a><br/>
+<img alt="Honeysuckle" height="25" src="img/Honeysuckle.png" width="25"/>10 <a href="honeysuckle.html"><span class="color-template color-template-honeysuckle color-template-background-clip">Honeysuckles</span></a><br/>
+<img alt="Neonberry" height="25" src="img/Neonberry.png" width="25"/>10 <a href="neonberry.html"><span class="color-template color-template-neonberry color-template-background-clip">Neonberries</span></a><br/>
+<img alt="Field Dice" height="25" src="img/Field_Dice.png" width="25"/>3 <a href="field-dice.html"><span class="color-template color-template-field-dice color-template-background-clip">Field Dice</span></a>
 </p>
 </td></tr>
 <tr>
@@ -160,18 +160,18 @@ If player already had the [Beequip Case](beequip.md) Slot that the quest was sup
 <td>
 <ul><li>Collect 6 Hours of <a href="nectar.html">Satisfying Nectar</a>.</li>
 <li>Collect 13,000,000 <a href="pollen.html">Pollen</a> from the <a href="cactus-field.html">Cactus Field</a>.</li>
-<li>Collect <span typeof="mw:Error mw:File"></span>25 <a href="strawberry.html"><span class="color-template color-template-strawberry color-template-background-clip">Strawberries</span></a> from <a href="planter.html">Planters</a>.</li>
-<li>Use <span typeof="mw:Error mw:File"></span>5 <a href="soft-wax.html"><span class="color-template color-template-soft-wax">Soft Waxes</span></a>.</li>
-<li>Use <span typeof="mw:Error mw:File"></span>1 <a href="hard-wax.html"><span class="color-template color-template-hard-wax">Hard Wax</span></a>.</li>
+<li>Collect <img alt="Strawberry" height="25" src="img/Strawberry.png" width="25"/>25 <a href="strawberry.html"><span class="color-template color-template-strawberry color-template-background-clip">Strawberries</span></a> from <a href="planter.html">Planters</a>.</li>
+<li>Use <img alt="Soft Wax" height="25" src="img/Soft_Wax.png" width="25"/>5 <a href="soft-wax.html"><span class="color-template color-template-soft-wax">Soft Waxes</span></a>.</li>
+<li>Use <img alt="Hard Wax" height="25" src="img/Hard_Wax.png" width="25"/>1 <a href="hard-wax.html"><span class="color-template color-template-hard-wax">Hard Wax</span></a>.</li>
 <li>Purchase 1 <a href="beequip.html">Beequip</a> from <a href="dapper-bear-s-shop.html">Dapper Bear's Shop</a>.</li>
 <li>Equip 5 <a href="beequip.html">Beequips</a> to <a href="bees.html">Bees</a> in your <a href="hive.html">Hive</a>.</li></ul>
 </td>
-<td><span typeof="mw:Error mw:File"></span>1 <a href="beequip.html"><span class="color-template color-template-beequip-case color-template-background-clip">Beequip Case</span></a> Slot<br/>
-<p><span typeof="mw:Error mw:File"></span>10,000,000 <a href="honey.html"><span class="color-template color-template-honey">Honey</span></a><br/>
-<span typeof="mw:Error mw:File"></span>3 <a href="hard-wax.html"><span class="color-template color-template-hard-wax">Hard Waxes</span></a><br/>
-<span typeof="mw:Error mw:File"></span>10 <a href="whirligig.html"><span class="color-template color-template-whirligig color-template-background-clip">Whirligigs</span></a><br/>
-<span typeof="mw:Error mw:File"></span>3 <a href="micro-converter.html"><span class="color-template color-template-micro-converter color-template-background-clip">Micro-Converters</span></a><br/>
-<span typeof="mw:Error mw:File"></span>3 <a href="royal-jelly.html"><span class="color-template color-template-royal-jelly color-template-background-clip">Royal Jellies</span></a>
+<td><img alt="Beequip Case" height="25" src="img/Beequip_Case.png" width="25"/>1 <a href="beequip.html"><span class="color-template color-template-beequip-case color-template-background-clip">Beequip Case</span></a> Slot<br/>
+<p><img alt="Honey" height="25" src="img/Honey.png" width="25"/>10,000,000 <a href="honey.html"><span class="color-template color-template-honey">Honey</span></a><br/>
+<img alt="Hard Wax" height="25" src="img/Hard_Wax.png" width="25"/>3 <a href="hard-wax.html"><span class="color-template color-template-hard-wax">Hard Waxes</span></a><br/>
+<img alt="Whirligig" height="25" src="img/Whirligig.png" width="25"/>10 <a href="whirligig.html"><span class="color-template color-template-whirligig color-template-background-clip">Whirligigs</span></a><br/>
+<img alt="Micro-Converter" height="25" src="img/Micro-Converter.png" width="25"/>3 <a href="micro-converter.html"><span class="color-template color-template-micro-converter color-template-background-clip">Micro-Converters</span></a><br/>
+<img alt="Royal Jelly" height="25" src="img/Royal_Jelly.png" width="25"/>3 <a href="royal-jelly.html"><span class="color-template color-template-royal-jelly color-template-background-clip">Royal Jellies</span></a>
 </p>
 </td></tr>
 <tr>
@@ -183,19 +183,19 @@ If player already had the [Beequip Case](beequip.md) Slot that the quest was sup
 <li>Collect 2 Hours of <a href="nectar.html">Refreshing Nectar</a>.</li>
 <li>Collect 2 Hours of <a href="nectar.html">Invigorating Nectar</a>.</li>
 <li>Collect 2 Hours of <a href="nectar.html">Motivating Nectar</a>.</li>
-<li>Collect <span typeof="mw:Error mw:File"></span>10 <a href="neonberry.html"><span class="color-template color-template-neonberry color-template-background-clip">Neonberries</span></a>.</li>
+<li>Collect <img alt="Neonberry" height="25" src="img/Neonberry.png" width="25"/>10 <a href="neonberry.html"><span class="color-template color-template-neonberry color-template-background-clip">Neonberries</span></a>.</li>
 <li>Give a Bee a <a href="mutation.html">Mutation</a> 1 Time.</li>
 <li>Pop 5 <a href="puffshroom.html">Rare Puffshrooms</a>.</li>
 <li>Pop 1 Level 8+ <a href="puffshroom.html">Puffshroom</a>.</li></ul>
 </td>
-<td><span typeof="mw:Error mw:File"></span>25,000,000 <a href="honey.html"><span class="color-template color-template-honey">Honey</span></a><br/>
-<p><span typeof="mw:Error mw:File"></span>3 <a href="ticket-planter.html"><span class="color-template color-template-ticket-planter color-template-background-clip">Ticket Planters</span></a><br/>
-<span typeof="mw:Error mw:File"></span>1 <a href="satisfying-vial.html"><span class="color-template color-template-satisfying-vial color-template-background-clip">Satisfying Vial</span></a><br/>
-<span typeof="mw:Error mw:File"></span>25 <a href="honeysuckle.html"><span class="color-template color-template-honeysuckle color-template-background-clip">Honeysuckles</span></a><br/>
-<span typeof="mw:Error mw:File"></span>3 <a href="smooth-dice.html"><span class="color-template color-template-smooth-dice color-template-background-clip">Smooth Dice</span></a><br/>
-<span typeof="mw:Error mw:File"></span>3 <a href="pink-balloon.html"><span class="color-template color-template-pink-balloon color-template-background-clip">Pink Balloons</span></a><br/>
-<span typeof="mw:Error mw:File"></span>1 <a href="swirled-wax.html"><span class="color-template color-template-swirled-wax color-template-background-clip">Swirled Wax</span></a><br/>
-<span typeof="mw:Error mw:File"></span>1 <a href="royal-jelly.html#Star_Jelly"><span class="color-template color-template-star-jelly color-template-background-clip">Star Jelly</span></a>
+<td><img alt="Honey" height="25" src="img/Honey.png" width="25"/>25,000,000 <a href="honey.html"><span class="color-template color-template-honey">Honey</span></a><br/>
+<p><img alt="Ticket Planter" height="25" src="img/Ticket_Planter.png" width="25"/>3 <a href="ticket-planter.html"><span class="color-template color-template-ticket-planter color-template-background-clip">Ticket Planters</span></a><br/>
+<img alt="Satisfying Vial" height="25" src="img/Satisfying_Vial.png" width="25"/>1 <a href="satisfying-vial.html"><span class="color-template color-template-satisfying-vial color-template-background-clip">Satisfying Vial</span></a><br/>
+<img alt="Honeysuckle" height="25" src="img/Honeysuckle.png" width="25"/>25 <a href="honeysuckle.html"><span class="color-template color-template-honeysuckle color-template-background-clip">Honeysuckles</span></a><br/>
+<img alt="Smooth Dice" height="25" src="img/Smooth_Dice.png" width="25"/>3 <a href="smooth-dice.html"><span class="color-template color-template-smooth-dice color-template-background-clip">Smooth Dice</span></a><br/>
+<img alt="Pink Balloon" height="25" src="img/Pink_Balloon.png" width="25"/>3 <a href="pink-balloon.html"><span class="color-template color-template-pink-balloon color-template-background-clip">Pink Balloons</span></a><br/>
+<img alt="Swirled Wax" height="25" src="img/Swirled_Wax.png" width="25"/>1 <a href="swirled-wax.html"><span class="color-template color-template-swirled-wax color-template-background-clip">Swirled Wax</span></a><br/>
+<img alt="Star Jelly" height="25" src="img/Star_Jelly.png" width="25"/>1 <a href="royal-jelly.html#Star_Jelly"><span class="color-template color-template-star-jelly color-template-background-clip">Star Jelly</span></a>
 </p>
 </td></tr>
 <tr>
@@ -204,21 +204,21 @@ If player already had the [Beequip Case](beequip.md) Slot that the quest was sup
 <td>
 <ul><li>Collect 10 Hours of <a href="nectar.html">Comforting Nectar</a>.</li>
 <li>Collect 10,000,000 <a href="goo.html">Goo</a>.</li>
-<li>Collect <span typeof="mw:Error mw:File"></span>25 <a href="gumdrops.html"><span class="color-template color-template-gumdrops color-template-background-clip">Gumdrops</span></a> from <a href="planter.html">Planters</a>.</li>
-<li>Collect <span typeof="mw:Error mw:File"></span>250 <a href="gumdrops.html"><span class="color-template color-template-gumdrops color-template-background-clip">Gumdrops</span></a>.</li>
-<li>Use <span typeof="mw:Error mw:File"></span>10 <a href="field-dice.html"><span class="color-template color-template-field-dice color-template-background-clip">Field Dice</span></a>.</li>
-<li>Use  <span typeof="mw:Error mw:File"></span>1 <a href="tropical-drink.html"><span class="color-template color-template-tropical-drink color-template-background-clip">Tropical Drink</span></a>.</li>
+<li>Collect <img alt="Gumdrops" height="25" src="img/Gumdrops.png" width="25"/>25 <a href="gumdrops.html"><span class="color-template color-template-gumdrops color-template-background-clip">Gumdrops</span></a> from <a href="planter.html">Planters</a>.</li>
+<li>Collect <img alt="Gumdrops" height="25" src="img/Gumdrops.png" width="25"/>250 <a href="gumdrops.html"><span class="color-template color-template-gumdrops color-template-background-clip">Gumdrops</span></a>.</li>
+<li>Use <img alt="Field Dice" height="25" src="img/Field_Dice.png" width="25"/>10 <a href="field-dice.html"><span class="color-template color-template-field-dice color-template-background-clip">Field Dice</span></a>.</li>
+<li>Use  <img alt="Tropical Drink" height="25" src="img/Tropical_Drink.png" width="25"/>1 <a href="tropical-drink.html"><span class="color-template color-template-tropical-drink color-template-background-clip">Tropical Drink</span></a>.</li>
 <li>Complete 1,000 Honey Conversion Links.</li>
 <li>Pop 30 <a href="puffshroom.html">Puffshrooms</a> in the <a href="clover-field.html">Clover Field</a>.</li></ul>
 </td>
-<td><span typeof="mw:Error mw:File"></span>1 <a href="beequip.html"><span class="color-template color-template-beequip-case color-template-background-clip">Beequip Case</span></a> Slot<br/>
-<p><span typeof="mw:Error mw:File"></span>30,000,000 <a href="honey.html"><span class="color-template color-template-honey">Honey</span></a><br/>
-<span typeof="mw:Error mw:File"></span>1 <a href="comforting-vial.html"><span class="color-template color-template-comforting-vial color-template-background-clip">Comforting Vial</span></a><br/>
-<span typeof="mw:Error mw:File"></span>500 <a href="treat.html"><span class="color-template color-template-treat">Treats</span></a><br/>
-<span typeof="mw:Error mw:File"></span>10 <a href="neonberry.html"><span class="color-template color-template-neonberry color-template-background-clip">Neonberries</span></a><br/>
-<span typeof="mw:Error mw:File"></span>1 <a href="red-balloon.html"><span class="color-template color-template-red-balloon color-template-background-clip">Red Balloon</span></a><br/>
-<span typeof="mw:Error mw:File"></span>3 <a href="hard-wax.html"><span class="color-template color-template-hard-wax">Hard Waxes</span></a><br/>
-<span typeof="mw:Error mw:File"></span>1 <a href="purple-potion.html"><span class="color-template color-template-purple-potion color-template-background-clip">Purple Potion</span></a>
+<td><img alt="Beequip Case" height="25" src="img/Beequip_Case.png" width="25"/>1 <a href="beequip.html"><span class="color-template color-template-beequip-case color-template-background-clip">Beequip Case</span></a> Slot<br/>
+<p><img alt="Honey" height="25" src="img/Honey.png" width="25"/>30,000,000 <a href="honey.html"><span class="color-template color-template-honey">Honey</span></a><br/>
+<img alt="Comforting Vial" height="25" src="img/Comforting_Vial.png" width="25"/>1 <a href="comforting-vial.html"><span class="color-template color-template-comforting-vial color-template-background-clip">Comforting Vial</span></a><br/>
+<img alt="Treat" height="25" src="img/Treat.png" width="25"/>500 <a href="treat.html"><span class="color-template color-template-treat">Treats</span></a><br/>
+<img alt="Neonberry" height="25" src="img/Neonberry.png" width="25"/>10 <a href="neonberry.html"><span class="color-template color-template-neonberry color-template-background-clip">Neonberries</span></a><br/>
+<img alt="Red Balloon" height="25" src="img/Red_Balloon.png" width="25"/>1 <a href="red-balloon.html"><span class="color-template color-template-red-balloon color-template-background-clip">Red Balloon</span></a><br/>
+<img alt="Hard Wax" height="25" src="img/Hard_Wax.png" width="25"/>3 <a href="hard-wax.html"><span class="color-template color-template-hard-wax">Hard Waxes</span></a><br/>
+<img alt="Purple Potion" height="25" src="img/Purple_Potion.png" width="25"/>1 <a href="purple-potion.html"><span class="color-template color-template-purple-potion color-template-background-clip">Purple Potion</span></a>
 </p>
 </td></tr>
 <tr>
@@ -228,22 +228,22 @@ If player already had the [Beequip Case](beequip.md) Slot that the quest was sup
 <ul><li>Collect 12 Hours of <a href="nectar.html">Refreshing Nectar</a>.</li>
 <li>Collect 20,000,000 <a href="pollen.html">Pollen</a> from the <a href="strawberry-field.html">Strawberry Field</a>.</li>
 <li>Collect 20,000,000 <a href="pollen.html">Pollen</a> from the <a href="bamboo-field.html">Bamboo Field</a>.</li>
-<li>Collect <span typeof="mw:Error mw:File"></span>100 <a href="blueberry.html"><span class="color-template color-template-blueberry color-template-background-clip">Blueberries</span></a> from <a href="planter.html">Planters</a>.</li>
-<li>Collect <span typeof="mw:Error mw:File"></span>100 <a href="strawberry.html"><span class="color-template color-template-strawberry color-template-background-clip">Strawberries</span></a> from <a href="planter.html">Planters</a>.</li>
-<li>Feed <span typeof="mw:Error mw:File"></span>500 <a href="blueberry.html"><span class="color-template color-template-blueberry color-template-background-clip">Blueberries</span></a> to your <a href="bees.html">Bees</a>.</li>
-<li>Feed <span typeof="mw:Error mw:File"></span>500 <a href="strawberry.html"><span class="color-template color-template-strawberry color-template-background-clip">Strawberries</span></a> to your <a href="bees.html">Bees</a>.</li>
+<li>Collect <img alt="Blueberry" height="25" src="img/Blueberry.png" width="25"/>100 <a href="blueberry.html"><span class="color-template color-template-blueberry color-template-background-clip">Blueberries</span></a> from <a href="planter.html">Planters</a>.</li>
+<li>Collect <img alt="Strawberry" height="25" src="img/Strawberry.png" width="25"/>100 <a href="strawberry.html"><span class="color-template color-template-strawberry color-template-background-clip">Strawberries</span></a> from <a href="planter.html">Planters</a>.</li>
+<li>Feed <img alt="Blueberry" height="25" src="img/Blueberry.png" width="25"/>500 <a href="blueberry.html"><span class="color-template color-template-blueberry color-template-background-clip">Blueberries</span></a> to your <a href="bees.html">Bees</a>.</li>
+<li>Feed <img alt="Strawberry" height="25" src="img/Strawberry.png" width="25"/>500 <a href="strawberry.html"><span class="color-template color-template-strawberry color-template-background-clip">Strawberries</span></a> to your <a href="bees.html">Bees</a>.</li>
 <li>Purchase 3 <a href="beequip.html">Beequips</a> from <a href="dapper-bear-s-shop.html">Dapper Bear's Shop</a>.</li>
 <li>Pop 1 <a href="puffshroom.html">Rare Puffshroom</a> from the <a href="strawberry-field.html">Strawberry Field</a>.</li>
 <li>Pop 1 <a href="puffshroom.html">Rare Puffshroom</a> from the <a href="bamboo-field.html">Bamboo Field</a>.</li></ul>
 </td>
-<td><span typeof="mw:Error mw:File"></span>50,000,000 <a href="honey.html"><span class="color-template color-template-honey">Honey</span></a><br/>
-<p><span typeof="mw:Error mw:File"></span>1 <a href="ticket-planter.html"><span class="color-template color-template-ticket-planter color-template-background-clip">Ticket Planter</span></a><br/>
-<span typeof="mw:Error mw:File"></span>1 <a href="refreshing-vial.html"><span class="color-template color-template-refreshing-vial color-template-background-clip">Refreshing Vial</span></a><br/>
-<span typeof="mw:Error mw:File"></span>15 <a href="royal-jelly.html"><span class="color-template color-template-royal-jelly color-template-background-clip">Royal Jellies</span></a><br/>
-<span typeof="mw:Error mw:File"></span>15 <a href="jelly-beans.html"><span class="color-template color-template-jelly-beans color-template-background-clip">Jelly Beans</span></a><br/>
-<span typeof="mw:Error mw:File"></span>1 <a href="magic-bean.html"><span class="color-template color-template-magic-bean color-template-background-clip">Magic Bean</span></a><br/>
-<span typeof="mw:Error mw:File"></span>3 <a href="smooth-dice.html"><span class="color-template color-template-smooth-dice color-template-background-clip">Smooth Dice</span></a><br/>
-<span typeof="mw:Error mw:File"></span>3 <a href="purple-potion.html"><span class="color-template color-template-purple-potion color-template-background-clip">Purple Potions</span></a>
+<td><img alt="Honey" height="25" src="img/Honey.png" width="25"/>50,000,000 <a href="honey.html"><span class="color-template color-template-honey">Honey</span></a><br/>
+<p><img alt="Ticket Planter" height="25" src="img/Ticket_Planter.png" width="25"/>1 <a href="ticket-planter.html"><span class="color-template color-template-ticket-planter color-template-background-clip">Ticket Planter</span></a><br/>
+<img alt="Refreshing Vial" height="25" src="img/Refreshing_Vial.png" width="25"/>1 <a href="refreshing-vial.html"><span class="color-template color-template-refreshing-vial color-template-background-clip">Refreshing Vial</span></a><br/>
+<img alt="Royal Jelly" height="25" src="img/Royal_Jelly.png" width="25"/>15 <a href="royal-jelly.html"><span class="color-template color-template-royal-jelly color-template-background-clip">Royal Jellies</span></a><br/>
+<img alt="Jelly Beans" height="25" src="img/Jelly_Beans.png" width="25"/>15 <a href="jelly-beans.html"><span class="color-template color-template-jelly-beans color-template-background-clip">Jelly Beans</span></a><br/>
+<img alt="Magic Bean" height="25" src="img/Magic_Bean.png" width="25"/>1 <a href="magic-bean.html"><span class="color-template color-template-magic-bean color-template-background-clip">Magic Bean</span></a><br/>
+<img alt="Smooth Dice" height="25" src="img/Smooth_Dice.png" width="25"/>3 <a href="smooth-dice.html"><span class="color-template color-template-smooth-dice color-template-background-clip">Smooth Dice</span></a><br/>
+<img alt="Purple Potion" height="25" src="img/Purple_Potion.png" width="25"/>3 <a href="purple-potion.html"><span class="color-template color-template-purple-potion color-template-background-clip">Purple Potions</span></a>
 </p>
 </td></tr>
 <tr>
@@ -256,21 +256,21 @@ If player already had the [Beequip Case](beequip.md) Slot that the quest was sup
 <li>Collect 30 Tokens from <a href="planter.html">Planters</a> in the <a href="rose-field.html">Rose Field</a></li>
 <li>Collect 5,000 <a href="ability-tokens.html#Boost">Boost Tokens</a>.</li>
 <li>Collect 100 <a href="ability-tokens.html#Inspire">Inspire Tokens</a>.</li>
-<li>Use <span typeof="mw:Error mw:File"></span>25 <a href="field-dice.html"><span class="color-template color-template-field-dice color-template-background-clip">Field Dice</span></a>.</li>
-<li>Collect <span typeof="mw:Error mw:File"></span>20 <a href="neonberry.html"><span class="color-template color-template-neonberry color-template-background-clip">Neonberries</span></a>.</li>
+<li>Use <img alt="Field Dice" height="25" src="img/Field_Dice.png" width="25"/>25 <a href="field-dice.html"><span class="color-template color-template-field-dice color-template-background-clip">Field Dice</span></a>.</li>
+<li>Collect <img alt="Neonberry" height="25" src="img/Neonberry.png" width="25"/>20 <a href="neonberry.html"><span class="color-template color-template-neonberry color-template-background-clip">Neonberries</span></a>.</li>
 <li>Grant a Bee a <a href="mutation.html">Mutation</a> 2 times.</li>
 <li>Pop 500 <a href="puffshroom.html">Puffshrooms</a>.</li>
 <li>Pop 1 Level 9+ <a href="puffshroom.html">Puffshroom</a>.</li></ul>
 </td>
-<td><span typeof="mw:Error mw:File"></span>1 <a href="beequip.html"><span class="color-template color-template-beequip-case color-template-background-clip">Beequip Case</span></a> Slot<br/>
-<p><span typeof="mw:Error mw:File"></span>90,000,000 <a href="honey.html"><span class="color-template color-template-honey">Honey</span></a><br/>
-<span typeof="mw:Error mw:File"></span>1 <a href="motivating-vial.html"><span class="color-template color-template-motivating-vial color-template-background-clip">Motivating Vial</span></a><br/>
-<span typeof="mw:Error mw:File"></span>25 <a href="royal-jelly.html"><span class="color-template color-template-royal-jelly color-template-background-clip">Royal Jellies</span></a><br/>
-<span typeof="mw:Error mw:File"></span>3 <a href="glue.html"><span class="color-template color-template-glue color-template-background-clip">Glues</span></a><br/>
-<span typeof="mw:Error mw:File"></span>3 <a href="enzymes.html"><span class="color-template color-template-enzymes color-template-background-clip">Enzymes</span></a><br/>
-<span typeof="mw:Error mw:File"></span>1 <a href="white-balloon.html"><span class="color-template color-template-white-balloon color-template-background-clip">White Balloon</span></a><br/>
-<span typeof="mw:Error mw:File"></span>1 <a href="hard-wax.html"><span class="color-template color-template-hard-wax">Hard Wax</span></a><br/>
-<span typeof="mw:Error mw:File"></span>25 <a href="honeysuckle.html"><span class="color-template color-template-honeysuckle color-template-background-clip">Honeysuckles</span></a>
+<td><img alt="Beequip Case" height="25" src="img/Beequip_Case.png" width="25"/>1 <a href="beequip.html"><span class="color-template color-template-beequip-case color-template-background-clip">Beequip Case</span></a> Slot<br/>
+<p><img alt="Honey" height="25" src="img/Honey.png" width="25"/>90,000,000 <a href="honey.html"><span class="color-template color-template-honey">Honey</span></a><br/>
+<img alt="Motivating Vial" height="25" src="img/Motivating_Vial.png" width="25"/>1 <a href="motivating-vial.html"><span class="color-template color-template-motivating-vial color-template-background-clip">Motivating Vial</span></a><br/>
+<img alt="Royal Jelly" height="25" src="img/Royal_Jelly.png" width="25"/>25 <a href="royal-jelly.html"><span class="color-template color-template-royal-jelly color-template-background-clip">Royal Jellies</span></a><br/>
+<img alt="Glue" height="25" src="img/Glue.png" width="25"/>3 <a href="glue.html"><span class="color-template color-template-glue color-template-background-clip">Glues</span></a><br/>
+<img alt="Enzymes" height="25" src="img/Enzymes.png" width="25"/>3 <a href="enzymes.html"><span class="color-template color-template-enzymes color-template-background-clip">Enzymes</span></a><br/>
+<img alt="White Balloon" height="25" src="img/White_Balloon.png" width="25"/>1 <a href="white-balloon.html"><span class="color-template color-template-white-balloon color-template-background-clip">White Balloon</span></a><br/>
+<img alt="Hard Wax" height="25" src="img/Hard_Wax.png" width="25"/>1 <a href="hard-wax.html"><span class="color-template color-template-hard-wax">Hard Wax</span></a><br/>
+<img alt="Honeysuckle" height="25" src="img/Honeysuckle.png" width="25"/>25 <a href="honeysuckle.html"><span class="color-template color-template-honeysuckle color-template-background-clip">Honeysuckles</span></a>
 </p>
 </td></tr>
 <tr>
@@ -280,21 +280,21 @@ If player already had the [Beequip Case](beequip.md) Slot that the quest was sup
 <ul><li>Collect 1 Day of <a href="nectar.html">Nectar</a>.</li>
 <li>Collect 50,000,000 <a href="pollen.html">Pollen</a> from the <a href="pine-tree-forest.html">Pine Tree Forest</a>.</li>
 <li>Collect 50,000,000 <a href="pollen.html">Pollen</a> from the <a href="pumpkin-patch.html">Pumpkin Patch</a>.</li>
-<li>Collect <span typeof="mw:Error mw:File"></span>25 <a href="soft-wax.html"><span class="color-template color-template-soft-wax">Soft Waxes</span></a>.</li>
-<li>Collect <span typeof="mw:Error mw:File"></span>10 <a href="whirligig.html"><span class="color-template color-template-whirligig color-template-background-clip">Whirligigs</span></a>.</li>
+<li>Collect <img alt="Soft Wax" height="25" src="img/Soft_Wax.png" width="25"/>25 <a href="soft-wax.html"><span class="color-template color-template-soft-wax">Soft Waxes</span></a>.</li>
+<li>Collect <img alt="Whirligig" height="25" src="img/Whirligig.png" width="25"/>10 <a href="whirligig.html"><span class="color-template color-template-whirligig color-template-background-clip">Whirligigs</span></a>.</li>
 <li>Spawn 1,000 <a href="flame.html">Flames</a>.</li>
-<li>Use <span typeof="mw:Error mw:File"></span>5 <a href="smooth-dice.html"><span class="color-template color-template-smooth-dice color-template-background-clip">Smooth Dice</span></a>.</li>
+<li>Use <img alt="Smooth Dice" height="25" src="img/Smooth_Dice.png" width="25"/>5 <a href="smooth-dice.html"><span class="color-template color-template-smooth-dice color-template-background-clip">Smooth Dice</span></a>.</li>
 <li>Defeat 10 <a href="rogue-vicious-bee.html">Vicious Bees</a>.</li>
 <li>Pop 5 <a href="puffshroom.html">Rare Puffshrooms</a> in the <a href="cactus-field.html">Cactus Field</a>.</li></ul>
 </td>
-<td><span typeof="mw:Error mw:File"></span>120,000,000 <a href="honey.html"><span class="color-template color-template-honey">Honey</span></a><br/>
-<p><span typeof="mw:Error mw:File"></span>1 <a href="ticket-planter.html"><span class="color-template color-template-ticket-planter color-template-background-clip">Ticket Planter</span></a><br/>
-<span typeof="mw:Error mw:File"></span>1 <a href="invigorating-vial.html"><span class="color-template color-template-invigorating-vial color-template-background-clip">Invigorating Vial</span></a><br/>
-<span typeof="mw:Error mw:File"></span>2,500 <a href="treat.html"><span class="color-template color-template-treat">Treats</span></a><br/>
-<span typeof="mw:Error mw:File"></span>10 <a href="micro-converter.html"><span class="color-template color-template-micro-converter color-template-background-clip">Micro-Converters</span></a><br/>
-<span typeof="mw:Error mw:File"></span>3 <a href="hard-wax.html"><span class="color-template color-template-hard-wax">Hard Waxes</span></a><br/>
-<span typeof="mw:Error mw:File"></span>2 <a href="glitter.html"><span class="color-template color-template-glitter color-template-background-clip">Glitter</span></a><br/>
-<span typeof="mw:Error mw:File"></span>1 <a href="purple-potion.html"><span class="color-template color-template-purple-potion color-template-background-clip">Purple Potion</span></a>
+<td><img alt="Honey" height="25" src="img/Honey.png" width="25"/>120,000,000 <a href="honey.html"><span class="color-template color-template-honey">Honey</span></a><br/>
+<p><img alt="Ticket Planter" height="25" src="img/Ticket_Planter.png" width="25"/>1 <a href="ticket-planter.html"><span class="color-template color-template-ticket-planter color-template-background-clip">Ticket Planter</span></a><br/>
+<img alt="Invigorating Vial" height="25" src="img/Invigorating_Vial.png" width="25"/>1 <a href="invigorating-vial.html"><span class="color-template color-template-invigorating-vial color-template-background-clip">Invigorating Vial</span></a><br/>
+<img alt="Treat" height="25" src="img/Treat.png" width="25"/>2,500 <a href="treat.html"><span class="color-template color-template-treat">Treats</span></a><br/>
+<img alt="Micro-Converter" height="25" src="img/Micro-Converter.png" width="25"/>10 <a href="micro-converter.html"><span class="color-template color-template-micro-converter color-template-background-clip">Micro-Converters</span></a><br/>
+<img alt="Hard Wax" height="25" src="img/Hard_Wax.png" width="25"/>3 <a href="hard-wax.html"><span class="color-template color-template-hard-wax">Hard Waxes</span></a><br/>
+<img alt="Glitter" height="25" src="img/Glitter.png" width="25"/>2 <a href="glitter.html"><span class="color-template color-template-glitter color-template-background-clip">Glitter</span></a><br/>
+<img alt="Purple Potion" height="25" src="img/Purple_Potion.png" width="25"/>1 <a href="purple-potion.html"><span class="color-template color-template-purple-potion color-template-background-clip">Purple Potion</span></a>
 </p>
 </td></tr>
 <tr>
@@ -306,23 +306,23 @@ If player already had the [Beequip Case](beequip.md) Slot that the quest was sup
 <li>Collect 8 Hours of <a href="nectar.html">Refreshing Nectar</a>.</li>
 <li>Collect 8 Hours of <a href="nectar.html">Invigorating Nectar</a>.</li>
 <li>Collect 8 Hours of <a href="nectar.html">Motivating Nectar</a>.</li>
-<li>Collect <span typeof="mw:Error mw:File"></span>3 <a href="red-extract.html"><span class="color-template color-template-red-extract color-template-background-clip">Red Extracts</span></a> from <a href="planter.html">Planters</a>.</li>
-<li>Collect <span typeof="mw:Error mw:File"></span>3 <a href="blue-extract.html"><span class="color-template color-template-blue-extract color-template-background-clip">Blue Extracts</span></a> from <a href="planter.html">Planters</a>.</li>
-<li>Collect <span typeof="mw:Error mw:File"></span>3 <a href="oil.html"><span class="color-template color-template-oil color-template-background-clip">Oils</span></a> from <a href="planter.html">Planters</a>.</li>
-<li>Collect <span typeof="mw:Error mw:File"></span>3 <a href="enzymes.html"><span class="color-template color-template-enzymes color-template-background-clip">Enzymes</span></a> from <a href="planter.html">Planters</a>.</li>
-<li>Use <span typeof="mw:Error mw:File"></span>10 <a href="hard-wax.html"><span class="color-template color-template-hard-wax">Hard Waxes</span></a>.</li>
+<li>Collect <img alt="Red Extract" height="25" src="img/Red_Extract.png" width="25"/>3 <a href="red-extract.html"><span class="color-template color-template-red-extract color-template-background-clip">Red Extracts</span></a> from <a href="planter.html">Planters</a>.</li>
+<li>Collect <img alt="Blue Extract" height="25" src="img/Blue_Extract.png" width="25"/>3 <a href="blue-extract.html"><span class="color-template color-template-blue-extract color-template-background-clip">Blue Extracts</span></a> from <a href="planter.html">Planters</a>.</li>
+<li>Collect <img alt="Oil" height="25" src="img/Oil.png" width="25"/>3 <a href="oil.html"><span class="color-template color-template-oil color-template-background-clip">Oils</span></a> from <a href="planter.html">Planters</a>.</li>
+<li>Collect <img alt="Enzymes" height="25" src="img/Enzymes.png" width="25"/>3 <a href="enzymes.html"><span class="color-template color-template-enzymes color-template-background-clip">Enzymes</span></a> from <a href="planter.html">Planters</a>.</li>
+<li>Use <img alt="Hard Wax" height="25" src="img/Hard_Wax.png" width="25"/>10 <a href="hard-wax.html"><span class="color-template color-template-hard-wax">Hard Waxes</span></a>.</li>
 <li>Give a Bee a <a href="mutation.html">Mutation</a> 3 times.</li>
 <li>Pop 1 <a href="puffshroom.html">Epic Puffshroom</a>.</li></ul>
 </td>
-<td><span typeof="mw:Error mw:File"></span>1 <a href="beequip.html"><span class="color-template color-template-beequip-case color-template-background-clip">Beequip Case</span></a> Slot<br/>
-<p><span typeof="mw:Error mw:File"></span>200,000,000 <a href="honey.html"><span class="color-template color-template-honey">Honey</span></a><br/>
-<span typeof="mw:Error mw:File"></span>1 <a href="comforting-vial.html"><span class="color-template color-template-comforting-vial color-template-background-clip">Comforting Vial</span></a><br/>
-<span typeof="mw:Error mw:File"></span>1 <a href="loaded-dice.html"><span class="color-template color-template-loaded-dice color-template-background-clip">Loaded Dice</span></a><br/>
-<span typeof="mw:Error mw:File"></span>1 <a href="royal-jelly.html#Star_Jelly"><span class="color-template color-template-star-jelly color-template-background-clip">Star Jelly</span></a><br/>
-<span typeof="mw:Error mw:File"></span>1 <a href="swirled-wax.html"><span class="color-template color-template-swirled-wax color-template-background-clip">Swirled Wax</span></a><br/>
-<span typeof="mw:Error mw:File"></span>1 <a href="caustic-wax.html"><span class="color-template color-template-caustic-wax">Caustic Wax</span></a><br/>
-<span typeof="mw:Error mw:File"></span>1 <a href="white-balloon.html"><span class="color-template color-template-white-balloon color-template-background-clip">White Balloon</span></a><br/>
-<span typeof="mw:Error mw:File"></span>1 <a href="egg.html#Diamond_Egg"><span class="color-template color-template-diamond-egg color-template-background-clip">Diamond Egg</span></a>
+<td><img alt="Beequip Case" height="25" src="img/Beequip_Case.png" width="25"/>1 <a href="beequip.html"><span class="color-template color-template-beequip-case color-template-background-clip">Beequip Case</span></a> Slot<br/>
+<p><img alt="Honey" height="25" src="img/Honey.png" width="25"/>200,000,000 <a href="honey.html"><span class="color-template color-template-honey">Honey</span></a><br/>
+<img alt="Comforting Vial" height="25" src="img/Comforting_Vial.png" width="25"/>1 <a href="comforting-vial.html"><span class="color-template color-template-comforting-vial color-template-background-clip">Comforting Vial</span></a><br/>
+<img alt="Loaded Dice" height="25" src="img/Loaded_Dice.png" width="25"/>1 <a href="loaded-dice.html"><span class="color-template color-template-loaded-dice color-template-background-clip">Loaded Dice</span></a><br/>
+<img alt="Star Jelly" height="25" src="img/Star_Jelly.png" width="25"/>1 <a href="royal-jelly.html#Star_Jelly"><span class="color-template color-template-star-jelly color-template-background-clip">Star Jelly</span></a><br/>
+<img alt="Swirled Wax" height="25" src="img/Swirled_Wax.png" width="25"/>1 <a href="swirled-wax.html"><span class="color-template color-template-swirled-wax color-template-background-clip">Swirled Wax</span></a><br/>
+<img alt="Caustic Wax" height="25" src="img/Caustic_Wax.png" width="25"/>1 <a href="caustic-wax.html"><span class="color-template color-template-caustic-wax">Caustic Wax</span></a><br/>
+<img alt="White Balloon" height="25" src="img/White_Balloon.png" width="25"/>1 <a href="white-balloon.html"><span class="color-template color-template-white-balloon color-template-background-clip">White Balloon</span></a><br/>
+<img alt="Diamond Egg" height="25" src="img/Diamond_Egg.png" width="25"/>1 <a href="egg.html#Diamond_Egg"><span class="color-template color-template-diamond-egg color-template-background-clip">Diamond Egg</span></a>
 </p>
 </td></tr>
 <tr>
@@ -331,23 +331,23 @@ If player already had the [Beequip Case](beequip.md) Slot that the quest was sup
 <td>
 <ul><li>Collect 1 Day 8 Hours of <a href="nectar.html">Satisfying Nectar</a>.</li>
 <li>Collect 150,000,000 <a href="pollen.html">White Pollen</a>.</li>
-<li>Collect <span typeof="mw:Error mw:File"></span>250 <a href="ticket.html"><span class="color-template color-template-ticket color-template-background-clip">Tickets</span></a>.</li>
-<li>Collect <span typeof="mw:Error mw:File"></span>3 <a href="glue.html"><span class="color-template color-template-glue color-template-background-clip">Glues</span></a> from <a href="planter.html">Planters</a>.</li>
-<li>Collect <span typeof="mw:Error mw:File"></span>10 <a href="ticket.html"><span class="color-template color-template-ticket color-template-background-clip">Tickets</span></a> from <a href="puffshroom.html">Puffshrooms</a>.</li>
-<li>Collect <span typeof="mw:Error mw:File"></span>10 <a href="ticket.html"><span class="color-template color-template-ticket color-template-background-clip">Tickets</span></a> from <a href="honeystorm.html">Honeystorms</a>.</li>
-<li>Collect <span typeof="mw:Error mw:File"></span>10 <a href="ticket.html"><span class="color-template color-template-ticket color-template-background-clip">Tickets</span></a> from <a href="memory-match.html">Memory Matches</a>.</li>
-<li>Collect <span typeof="mw:Error mw:File"></span>10 <a href="ticket.html"><span class="color-template color-template-ticket color-template-background-clip">Tickets</span></a> from <a href="werewolf.html">Werewolves</a>.</li>
-<li>Collect <span typeof="mw:Error mw:File"></span>25 <a href="ticket.html"><span class="color-template color-template-ticket color-template-background-clip">Tickets</span></a> from <a href="wild-windy-bee.html">Wild Windy Bee</a>.</li>
+<li>Collect <img alt="Ticket" height="25" src="img/Ticket.png" width="25"/>250 <a href="ticket.html"><span class="color-template color-template-ticket color-template-background-clip">Tickets</span></a>.</li>
+<li>Collect <img alt="Glue" height="25" src="img/Glue.png" width="25"/>3 <a href="glue.html"><span class="color-template color-template-glue color-template-background-clip">Glues</span></a> from <a href="planter.html">Planters</a>.</li>
+<li>Collect <img alt="Ticket" height="25" src="img/Ticket.png" width="25"/>10 <a href="ticket.html"><span class="color-template color-template-ticket color-template-background-clip">Tickets</span></a> from <a href="puffshroom.html">Puffshrooms</a>.</li>
+<li>Collect <img alt="Ticket" height="25" src="img/Ticket.png" width="25"/>10 <a href="ticket.html"><span class="color-template color-template-ticket color-template-background-clip">Tickets</span></a> from <a href="honeystorm.html">Honeystorms</a>.</li>
+<li>Collect <img alt="Ticket" height="25" src="img/Ticket.png" width="25"/>10 <a href="ticket.html"><span class="color-template color-template-ticket color-template-background-clip">Tickets</span></a> from <a href="memory-match.html">Memory Matches</a>.</li>
+<li>Collect <img alt="Ticket" height="25" src="img/Ticket.png" width="25"/>10 <a href="ticket.html"><span class="color-template color-template-ticket color-template-background-clip">Tickets</span></a> from <a href="werewolf.html">Werewolves</a>.</li>
+<li>Collect <img alt="Ticket" height="25" src="img/Ticket.png" width="25"/>25 <a href="ticket.html"><span class="color-template color-template-ticket color-template-background-clip">Tickets</span></a> from <a href="wild-windy-bee.html">Wild Windy Bee</a>.</li>
 <li>Pop 200 <a href="puffshroom.html">Puffshrooms</a> in the <a href="pineapple-patch.html">Pineapple Patch</a>.</li></ul>
 </td>
-<td><span typeof="mw:Error mw:File"></span>250,000,000 <a href="honey.html"><span class="color-template color-template-honey">Honey</span></a><br/>
-<p><span typeof="mw:Error mw:File"></span>1 <a href="ticket-planter.html"><span class="color-template color-template-ticket-planter color-template-background-clip">Ticket Planter</span></a><br/>
-<span typeof="mw:Error mw:File"></span>1 <a href="satisfying-vial.html"><span class="color-template color-template-satisfying-vial color-template-background-clip">Satisfying Vial</span></a><br/>
-<span typeof="mw:Error mw:File"></span>25 <a href="honeysuckle.html"><span class="color-template color-template-honeysuckle color-template-background-clip">Honeysuckles</span></a><br/>
-<span typeof="mw:Error mw:File"></span>15 <a href="neonberry.html"><span class="color-template color-template-neonberry color-template-background-clip">Neonberries</span></a><br/>
-<span typeof="mw:Error mw:File"></span>10 <a href="soft-wax.html"><span class="color-template color-template-soft-wax">Soft Waxes</span></a><br/>
-<span typeof="mw:Error mw:File"></span>1 <a href="glitter.html"><span class="color-template color-template-glitter color-template-background-clip">Glitter</span></a><br/>
-<span typeof="mw:Error mw:File"></span>1 <a href="swirled-wax.html"><span class="color-template color-template-swirled-wax color-template-background-clip">Swirled Wax</span></a>
+<td><img alt="Honey" height="25" src="img/Honey.png" width="25"/>250,000,000 <a href="honey.html"><span class="color-template color-template-honey">Honey</span></a><br/>
+<p><img alt="Ticket Planter" height="25" src="img/Ticket_Planter.png" width="25"/>1 <a href="ticket-planter.html"><span class="color-template color-template-ticket-planter color-template-background-clip">Ticket Planter</span></a><br/>
+<img alt="Satisfying Vial" height="25" src="img/Satisfying_Vial.png" width="25"/>1 <a href="satisfying-vial.html"><span class="color-template color-template-satisfying-vial color-template-background-clip">Satisfying Vial</span></a><br/>
+<img alt="Honeysuckle" height="25" src="img/Honeysuckle.png" width="25"/>25 <a href="honeysuckle.html"><span class="color-template color-template-honeysuckle color-template-background-clip">Honeysuckles</span></a><br/>
+<img alt="Neonberry" height="25" src="img/Neonberry.png" width="25"/>15 <a href="neonberry.html"><span class="color-template color-template-neonberry color-template-background-clip">Neonberries</span></a><br/>
+<img alt="Soft Wax" height="25" src="img/Soft_Wax.png" width="25"/>10 <a href="soft-wax.html"><span class="color-template color-template-soft-wax">Soft Waxes</span></a><br/>
+<img alt="Glitter" height="25" src="img/Glitter.png" width="25"/>1 <a href="glitter.html"><span class="color-template color-template-glitter color-template-background-clip">Glitter</span></a><br/>
+<img alt="Swirled Wax" height="25" src="img/Swirled_Wax.png" width="25"/>1 <a href="swirled-wax.html"><span class="color-template color-template-swirled-wax color-template-background-clip">Swirled Wax</span></a>
 </p>
 </td></tr>
 <tr>
@@ -357,24 +357,24 @@ If player already had the [Beequip Case](beequip.md) Slot that the quest was sup
 <ul><li>Collect 1 Day 12 Hours of <a href="nectar.html">Invigorating Nectar</a>.</li>
 <li>Collect 200,000,000 <a href="pollen.html">Pollen</a> from the <a href="mountain-top-field.html">Mountain Top Field</a>.</li>
 <li>Collect 50,000,000 <a href="goo.html">Goo</a>.</li>
-<li>Collect <span typeof="mw:Error mw:File"></span>10 <a href="jelly-beans.html"><span class="color-template color-template-jelly-beans color-template-background-clip">Jelly Beans</span></a> from <a href="planter.html">Planters</a>.</li>
-<li>Collect <span typeof="mw:Error mw:File"></span>10 <a href="stinger.html"><span class="color-template color-template-stinger color-template-background-clip">Stingers</span></a> from <a href="planter.html">Planters</a>.</li>
-<li>Collect <span typeof="mw:Error mw:File"></span>10 <a href="honeysuckle.html"><span class="color-template color-template-honeysuckle color-template-background-clip">Honeysuckles</span></a> from <a href="planter.html">Planters</a>.</li>
+<li>Collect <img alt="Jelly Beans" height="25" src="img/Jelly_Beans.png" width="25"/>10 <a href="jelly-beans.html"><span class="color-template color-template-jelly-beans color-template-background-clip">Jelly Beans</span></a> from <a href="planter.html">Planters</a>.</li>
+<li>Collect <img alt="Stinger" height="25" src="img/Stinger.png" width="25"/>10 <a href="stinger.html"><span class="color-template color-template-stinger color-template-background-clip">Stingers</span></a> from <a href="planter.html">Planters</a>.</li>
+<li>Collect <img alt="Honeysuckle" height="25" src="img/Honeysuckle.png" width="25"/>10 <a href="honeysuckle.html"><span class="color-template color-template-honeysuckle color-template-background-clip">Honeysuckles</span></a> from <a href="planter.html">Planters</a>.</li>
 <li>Collect 5,000 Focus Tokens.</li>
 <li>Collect 5,000 Haste Tokens.</li>
 <li>Collect 400 Tokens from <a href="mondo-chick.html">Mondo Chick</a>.</li>
 <li>Defeat 1 <a href="tunnel-bear.html">Tunnel Bear</a>.</li>
 <li>Pop 10 Rare <a href="puffshroom.html">Puffshrooms</a> in the <a href="mountain-top-field.html">Mountain Top Field</a>.</li></ul>
 </td>
-<td><span typeof="mw:Error mw:File"></span>1 <a href="beequip.html"><span class="color-template color-template-beequip-case color-template-background-clip">Beequip Case</span></a> Slot<br/>
-<p><span typeof="mw:Error mw:File"></span>300,000,000 <a href="honey.html"><span class="color-template color-template-honey">Honey</span></a><br/>
-<span typeof="mw:Error mw:File"></span>1 <a href="invigorating-vial.html"><span class="color-template color-template-invigorating-vial color-template-background-clip">Invigorating Vial</span></a><br/>
-<span typeof="mw:Error mw:File"></span>100 <a href="royal-jelly.html"><span class="color-template color-template-royal-jelly color-template-background-clip">Royal Jellies</span></a><br/>
-<span typeof="mw:Error mw:File"></span>10 <a href="whirligig.html"><span class="color-template color-template-whirligig color-template-background-clip">Whirligigs</span></a><br/>
-<span typeof="mw:Error mw:File"></span>5 <a href="smooth-dice.html"><span class="color-template color-template-smooth-dice color-template-background-clip">Smooth Dice</span></a><br/>
-<span typeof="mw:Error mw:File"></span>1 <a href="black-balloon.html"><span class="color-template color-template-black-balloon">Black Balloon</span></a><br/>
-<span typeof="mw:Error mw:File"></span>1 <a href="glue.html"><span class="color-template color-template-glue color-template-background-clip">Glue</span></a><br/>
-<span typeof="mw:Error mw:File"></span>1 <a href="purple-potion.html"><span class="color-template color-template-purple-potion color-template-background-clip">Purple Potion</span></a>
+<td><img alt="Beequip Case" height="25" src="img/Beequip_Case.png" width="25"/>1 <a href="beequip.html"><span class="color-template color-template-beequip-case color-template-background-clip">Beequip Case</span></a> Slot<br/>
+<p><img alt="Honey" height="25" src="img/Honey.png" width="25"/>300,000,000 <a href="honey.html"><span class="color-template color-template-honey">Honey</span></a><br/>
+<img alt="Invigorating Vial" height="25" src="img/Invigorating_Vial.png" width="25"/>1 <a href="invigorating-vial.html"><span class="color-template color-template-invigorating-vial color-template-background-clip">Invigorating Vial</span></a><br/>
+<img alt="Royal Jelly" height="25" src="img/Royal_Jelly.png" width="25"/>100 <a href="royal-jelly.html"><span class="color-template color-template-royal-jelly color-template-background-clip">Royal Jellies</span></a><br/>
+<img alt="Whirligig" height="25" src="img/Whirligig.png" width="25"/>10 <a href="whirligig.html"><span class="color-template color-template-whirligig color-template-background-clip">Whirligigs</span></a><br/>
+<img alt="Smooth Dice" height="25" src="img/Smooth_Dice.png" width="25"/>5 <a href="smooth-dice.html"><span class="color-template color-template-smooth-dice color-template-background-clip">Smooth Dice</span></a><br/>
+<img alt="Black Balloon" height="25" src="img/Black_Balloon.png" width="25"/>1 <a href="black-balloon.html"><span class="color-template color-template-black-balloon">Black Balloon</span></a><br/>
+<img alt="Glue" height="25" src="img/Glue.png" width="25"/>1 <a href="glue.html"><span class="color-template color-template-glue color-template-background-clip">Glue</span></a><br/>
+<img alt="Purple Potion" height="25" src="img/Purple_Potion.png" width="25"/>1 <a href="purple-potion.html"><span class="color-template color-template-purple-potion color-template-background-clip">Purple Potion</span></a>
 </p>
 </td></tr>
 <tr>
@@ -383,20 +383,20 @@ If player already had the [Beequip Case](beequip.md) Slot that the quest was sup
 <td>
 <ul><li>Collect 2 Days of <a href="nectar.html">Comforting Nectar</a>.</li>
 <li>Convert 800,000,000 Pollen at the <a href="hive.html">Hive</a>.</li>
-<li>Collect <span typeof="mw:Error mw:File"></span>600 <a href="cog.html"><span class="color-template color-template-cog color-template-background-clip">Cogs</span></a>.</li>
+<li>Collect <img alt="Cog" height="25" src="img/Cog.png" width="25"/>600 <a href="cog.html"><span class="color-template color-template-cog color-template-background-clip">Cogs</span></a>.</li>
 <li>Purchase 20 Rare Upgrades in <a href="robo-bear-challenge.html">Robo Bear's Challenge</a>.</li>
 <li>Purchase 10 Epic Upgrades in <a href="robo-bear-challenge.html">Robo Bear's Challenge</a>.</li>
-<li>Use <span typeof="mw:Error mw:File"></span>50 <a href="soft-wax.html"><span class="color-template color-template-soft-wax">Soft Waxes</span></a>.</li>
+<li>Use <img alt="Soft Wax" height="25" src="img/Soft_Wax.png" width="25"/>50 <a href="soft-wax.html"><span class="color-template color-template-soft-wax">Soft Waxes</span></a>.</li>
 <li>Pop 1 Level 13+ <a href="puffshroom.html">Puffshroom</a>.</li></ul>
 </td>
-<td><span typeof="mw:Error mw:File"></span>700,000,000 <a href="honey.html"><span class="color-template color-template-honey">Honey</span></a><br/>
-<p><span typeof="mw:Error mw:File"></span>1 <a href="ticket-planter.html"><span class="color-template color-template-ticket-planter color-template-background-clip">Ticket Planter</span></a><br/>
-<span typeof="mw:Error mw:File"></span>1 <a href="comforting-vial.html"><span class="color-template color-template-comforting-vial color-template-background-clip">Comforting Vial</span></a><br/>
-<span typeof="mw:Error mw:File"></span>25 <a href="whirligig.html"><span class="color-template color-template-whirligig color-template-background-clip">Whirligigs</span></a><br/>
-<span typeof="mw:Error mw:File"></span>15 <a href="jelly-beans.html"><span class="color-template color-template-jelly-beans color-template-background-clip">Jelly Beans</span></a><br/>
-<span typeof="mw:Error mw:File"></span>15 <a href="micro-converter.html"><span class="color-template color-template-micro-converter color-template-background-clip">Micro-Converters</span></a><br/>
-<span typeof="mw:Error mw:File"></span>5 <a href="glitter.html"><span class="color-template color-template-glitter color-template-background-clip">Glitter</span></a><br/>
-<span typeof="mw:Error mw:File"></span>1 <a href="caustic-wax.html"><span class="color-template color-template-caustic-wax">Caustic Wax</span></a>
+<td><img alt="Honey" height="25" src="img/Honey.png" width="25"/>700,000,000 <a href="honey.html"><span class="color-template color-template-honey">Honey</span></a><br/>
+<p><img alt="Ticket Planter" height="25" src="img/Ticket_Planter.png" width="25"/>1 <a href="ticket-planter.html"><span class="color-template color-template-ticket-planter color-template-background-clip">Ticket Planter</span></a><br/>
+<img alt="Comforting Vial" height="25" src="img/Comforting_Vial.png" width="25"/>1 <a href="comforting-vial.html"><span class="color-template color-template-comforting-vial color-template-background-clip">Comforting Vial</span></a><br/>
+<img alt="Whirligig" height="25" src="img/Whirligig.png" width="25"/>25 <a href="whirligig.html"><span class="color-template color-template-whirligig color-template-background-clip">Whirligigs</span></a><br/>
+<img alt="Jelly Beans" height="25" src="img/Jelly_Beans.png" width="25"/>15 <a href="jelly-beans.html"><span class="color-template color-template-jelly-beans color-template-background-clip">Jelly Beans</span></a><br/>
+<img alt="Micro-Converter" height="25" src="img/Micro-Converter.png" width="25"/>15 <a href="micro-converter.html"><span class="color-template color-template-micro-converter color-template-background-clip">Micro-Converters</span></a><br/>
+<img alt="Glitter" height="25" src="img/Glitter.png" width="25"/>5 <a href="glitter.html"><span class="color-template color-template-glitter color-template-background-clip">Glitter</span></a><br/>
+<img alt="Caustic Wax" height="25" src="img/Caustic_Wax.png" width="25"/>1 <a href="caustic-wax.html"><span class="color-template color-template-caustic-wax">Caustic Wax</span></a>
 </p>
 </td></tr>
 <tr>
@@ -405,25 +405,25 @@ If player already had the [Beequip Case](beequip.md) Slot that the quest was sup
 <td>
 <ul><li>Collect 2 Days of <a href="nectar.html">Refreshing Nectar</a></li>
 <li>Collect 500,000,000 <a href="pollen.html">Red Pollen</a>.</li>
-<li>Collect <span typeof="mw:Error mw:File"></span>250 <a href="sunflower-seed.html"><span class="color-template color-template-sunflower-seed color-template-background-clip">Sunflower Seeds</span></a> from <a href="planter.html">Planters</a>.</li>
-<li>Collect <span typeof="mw:Error mw:File"></span>250 <a href="pineapple.html"><span class="color-template color-template-pineapple color-template-background-clip">Pineapples</span></a> from <a href="planter.html">Planters</a>.</li>
-<li>Collect <span typeof="mw:Error mw:File"></span>2,500 <a href="sunflower-seed.html"><span class="color-template color-template-sunflower-seed color-template-background-clip">Sunflower Seeds</span></a>.</li>
-<li>Collect <span typeof="mw:Error mw:File"></span>2,500 <a href="pineapple.html"><span class="color-template color-template-pineapple color-template-background-clip">Pineapples</span></a>.</li>
-<li>Feed <span typeof="mw:Error mw:File"></span>1,000 <a href="sunflower-seed.html"><span class="color-template color-template-sunflower-seed color-template-background-clip">Sunflower Seeds</span></a> to your Bees.</li>
-<li>Feed <span typeof="mw:Error mw:File"></span>1,000 <a href="pineapple.html"><span class="color-template color-template-pineapple color-template-background-clip">Pineapples</span></a> to your Bees.</li>
-<li>Collect <span typeof="mw:Error mw:File"></span>100 <a href="neonberry.html"><span class="color-template color-template-neonberry color-template-background-clip">Neonberries</span></a>.</li>
+<li>Collect <img alt="Sunflower Seed" height="25" src="img/Sunflower_Seed.png" width="25"/>250 <a href="sunflower-seed.html"><span class="color-template color-template-sunflower-seed color-template-background-clip">Sunflower Seeds</span></a> from <a href="planter.html">Planters</a>.</li>
+<li>Collect <img alt="Pineapple" height="25" src="img/Pineapple.png" width="25"/>250 <a href="pineapple.html"><span class="color-template color-template-pineapple color-template-background-clip">Pineapples</span></a> from <a href="planter.html">Planters</a>.</li>
+<li>Collect <img alt="Sunflower Seed" height="25" src="img/Sunflower_Seed.png" width="25"/>2,500 <a href="sunflower-seed.html"><span class="color-template color-template-sunflower-seed color-template-background-clip">Sunflower Seeds</span></a>.</li>
+<li>Collect <img alt="Pineapple" height="25" src="img/Pineapple.png" width="25"/>2,500 <a href="pineapple.html"><span class="color-template color-template-pineapple color-template-background-clip">Pineapples</span></a>.</li>
+<li>Feed <img alt="Sunflower Seed" height="25" src="img/Sunflower_Seed.png" width="25"/>1,000 <a href="sunflower-seed.html"><span class="color-template color-template-sunflower-seed color-template-background-clip">Sunflower Seeds</span></a> to your Bees.</li>
+<li>Feed <img alt="Pineapple" height="25" src="img/Pineapple.png" width="25"/>1,000 <a href="pineapple.html"><span class="color-template color-template-pineapple color-template-background-clip">Pineapples</span></a> to your Bees.</li>
+<li>Collect <img alt="Neonberry" height="25" src="img/Neonberry.png" width="25"/>100 <a href="neonberry.html"><span class="color-template color-template-neonberry color-template-background-clip">Neonberries</span></a>.</li>
 <li>Collect 250 Tokens from <a href="stick-bug.html">Stick Bug</a>.</li>
 <li>Purchase 5 <a href="beequip.html">Beequips</a> from <a href="dapper-bear-s-shop.html">Dapper Bear's Shop</a>.</li>
 <li>Pop 5 Epic <a href="puffshroom.html">Puffshrooms</a>.</li></ul>
 </td>
-<td><span typeof="mw:Error mw:File"></span>1 <a href="beequip.html"><span class="color-template color-template-beequip-case color-template-background-clip">Beequip Case</span></a> Slot<br/>
+<td><img alt="Beequip Case" height="25" src="img/Beequip_Case.png" width="25"/>1 <a href="beequip.html"><span class="color-template color-template-beequip-case color-template-background-clip">Beequip Case</span></a> Slot<br/>
 <p><span typeof="mw:Error mw:File"></span><span style="border-bottom:1px dotted;" title="1,000,000,000">1B</span> <a href="honey.html"><span class="color-template color-template-honey">Honey</span></a><br/>
-<span typeof="mw:Error mw:File"></span>1 <a href="refreshing-vial.html"><span class="color-template color-template-refreshing-vial color-template-background-clip">Refreshing Vial</span></a><br/>
-<span typeof="mw:Error mw:File"></span>3 <a href="white-balloon.html"><span class="color-template color-template-white-balloon color-template-background-clip">White Balloons</span></a><br/>
-<span typeof="mw:Error mw:File"></span>10 <a href="hard-wax.html"><span class="color-template color-template-hard-wax">Hard Waxes</span></a><br/>
-<span typeof="mw:Error mw:File"></span>25 <a href="honeysuckle.html"><span class="color-template color-template-honeysuckle color-template-background-clip">Honeysuckles</span></a><br/>
-<span typeof="mw:Error mw:File"></span>3 <a href="purple-potion.html"><span class="color-template color-template-purple-potion color-template-background-clip">Purple Potions</span></a><br/>
-<span typeof="mw:Error mw:File"></span>1 <a href="swirled-wax.html"><span class="color-template color-template-swirled-wax color-template-background-clip">Swirled Wax</span></a>
+<img alt="Refreshing Vial" height="25" src="img/Refreshing_Vial.png" width="25"/>1 <a href="refreshing-vial.html"><span class="color-template color-template-refreshing-vial color-template-background-clip">Refreshing Vial</span></a><br/>
+<img alt="White Balloon" height="25" src="img/White_Balloon.png" width="25"/>3 <a href="white-balloon.html"><span class="color-template color-template-white-balloon color-template-background-clip">White Balloons</span></a><br/>
+<img alt="Hard Wax" height="25" src="img/Hard_Wax.png" width="25"/>10 <a href="hard-wax.html"><span class="color-template color-template-hard-wax">Hard Waxes</span></a><br/>
+<img alt="Honeysuckle" height="25" src="img/Honeysuckle.png" width="25"/>25 <a href="honeysuckle.html"><span class="color-template color-template-honeysuckle color-template-background-clip">Honeysuckles</span></a><br/>
+<img alt="Purple Potion" height="25" src="img/Purple_Potion.png" width="25"/>3 <a href="purple-potion.html"><span class="color-template color-template-purple-potion color-template-background-clip">Purple Potions</span></a><br/>
+<img alt="Swirled Wax" height="25" src="img/Swirled_Wax.png" width="25"/>1 <a href="swirled-wax.html"><span class="color-template color-template-swirled-wax color-template-background-clip">Swirled Wax</span></a>
 </p>
 </td></tr>
 <tr>
@@ -435,26 +435,26 @@ If player already had the [Beequip Case](beequip.md) Slot that the quest was sup
 <li>Collect 12 Hours of <a href="nectar.html">Refreshing Nectar</a>.</li>
 <li>Collect 12 Hours of <a href="nectar.html">Invigorating Nectar</a>.</li>
 <li>Collect 12 Hours of <a href="nectar.html">Motivating Nectar</a>.</li>
-<li>Collect <span typeof="mw:Error mw:File"></span>20 <a href="jelly-beans.html"><span class="color-template color-template-jelly-beans color-template-background-clip">Jelly Beans</span></a> from <a href="planter.html">Planters</a>.</li>
-<li>Collect <span typeof="mw:Error mw:File"></span>20 <a href="whirligig.html"><span class="color-template color-template-whirligig color-template-background-clip">Whirligigs</span></a> from <a href="planter.html">Planters</a>.</li>
-<li>Collect <span typeof="mw:Error mw:File"></span>10 <a href="red-extract.html"><span class="color-template color-template-red-extract color-template-background-clip">Red Extracts</span></a> from <a href="planter.html">Planters</a>.</li>
-<li>Collect <span typeof="mw:Error mw:File"></span>10 <a href="blue-extract.html"><span class="color-template color-template-blue-extract color-template-background-clip">Blue Extracts</span></a> from <a href="planter.html">Planters</a>.</li>
-<li>Collect <span typeof="mw:Error mw:File"></span>5 <a href="moon-charm.html"><span class="color-template color-template-moon-charm color-template-background-clip">Moon Charms</span></a> from <a href="mythic-meteor-shower.html">Meteors</a>.</li>
+<li>Collect <img alt="Jelly Beans" height="25" src="img/Jelly_Beans.png" width="25"/>20 <a href="jelly-beans.html"><span class="color-template color-template-jelly-beans color-template-background-clip">Jelly Beans</span></a> from <a href="planter.html">Planters</a>.</li>
+<li>Collect <img alt="Whirligig" height="25" src="img/Whirligig.png" width="25"/>20 <a href="whirligig.html"><span class="color-template color-template-whirligig color-template-background-clip">Whirligigs</span></a> from <a href="planter.html">Planters</a>.</li>
+<li>Collect <img alt="Red Extract" height="25" src="img/Red_Extract.png" width="25"/>10 <a href="red-extract.html"><span class="color-template color-template-red-extract color-template-background-clip">Red Extracts</span></a> from <a href="planter.html">Planters</a>.</li>
+<li>Collect <img alt="Blue Extract" height="25" src="img/Blue_Extract.png" width="25"/>10 <a href="blue-extract.html"><span class="color-template color-template-blue-extract color-template-background-clip">Blue Extracts</span></a> from <a href="planter.html">Planters</a>.</li>
+<li>Collect <img alt="Moon Charm" height="25" src="img/Moon_Charm.png" width="25"/>5 <a href="moon-charm.html"><span class="color-template color-template-moon-charm color-template-background-clip">Moon Charms</span></a> from <a href="mythic-meteor-shower.html">Meteors</a>.</li>
 <li>Give a Bee a <a href="mutation.html">Mutation</a> 5 Times.</li>
-<li>Use <span typeof="mw:Error mw:File"></span>100 <a href="field-dice.html"><span class="color-template color-template-field-dice color-template-background-clip">Field Dice</span></a>.</li>
-<li>Use <span typeof="mw:Error mw:File"></span>10 <a href="smooth-dice.html"><span class="color-template color-template-smooth-dice color-template-background-clip">Smooth Dice</span></a>.</li>
-<li>Use <span typeof="mw:Error mw:File"></span>1 <a href="loaded-dice.html"><span class="color-template color-template-loaded-dice color-template-background-clip">Loaded Dice</span></a>.</li>
+<li>Use <img alt="Field Dice" height="25" src="img/Field_Dice.png" width="25"/>100 <a href="field-dice.html"><span class="color-template color-template-field-dice color-template-background-clip">Field Dice</span></a>.</li>
+<li>Use <img alt="Smooth Dice" height="25" src="img/Smooth_Dice.png" width="25"/>10 <a href="smooth-dice.html"><span class="color-template color-template-smooth-dice color-template-background-clip">Smooth Dice</span></a>.</li>
+<li>Use <img alt="Loaded Dice" height="25" src="img/Loaded_Dice.png" width="25"/>1 <a href="loaded-dice.html"><span class="color-template color-template-loaded-dice color-template-background-clip">Loaded Dice</span></a>.</li>
 <li>Pop 1 Epic <a href="puffshroom.html">Puffshroom</a> in the <a href="bamboo-field.html">Bamboo Field</a>.</li>
 <li>Pop 1 Epic <a href="puffshroom.html">Puffshroom</a> in the <a href="strawberry-field.html">Strawberry Field</a>.</li>
 <li>Pop 1 Level 14+ <a href="puffshroom.html">Puffshroom</a>.</li></ul>
 </td>
 <td><span typeof="mw:Error mw:File"></span><span style="border-bottom:1px dotted;" title="1,500,000,000">1.5B</span> <a href="honey.html"><span class="color-template color-template-honey">Honey</span></a><br/>
-<p><span typeof="mw:Error mw:File"></span>1 <a href="satisfying-vial.html"><span class="color-template color-template-satisfying-vial color-template-background-clip">Satisfying Vial</span></a><br/>
-<span typeof="mw:Error mw:File"></span>3 <a href="loaded-dice.html"><span class="color-template color-template-loaded-dice color-template-background-clip">Loaded Dice</span></a><br/>
-<span typeof="mw:Error mw:File"></span>1 <a href="swirled-wax.html"><span class="color-template color-template-swirled-wax color-template-background-clip">Swirled Wax</span></a><br/>
-<span typeof="mw:Error mw:File"></span>1 <a href="caustic-wax.html"><span class="color-template color-template-caustic-wax">Caustic Wax</span></a><br/>
-<span typeof="mw:Error mw:File"></span>1 <a href="super-smoothie.html"><span class="color-template color-template-super-smoothie color-template-background-clip">Super Smoothie</span></a><br/>
-<span typeof="mw:Error mw:File"></span>1 <a href="egg.html#Mythic_Egg"><span class="color-template color-template-mythic-egg color-template-background-clip">Mythic Egg</span></a>
+<p><img alt="Satisfying Vial" height="25" src="img/Satisfying_Vial.png" width="25"/>1 <a href="satisfying-vial.html"><span class="color-template color-template-satisfying-vial color-template-background-clip">Satisfying Vial</span></a><br/>
+<img alt="Loaded Dice" height="25" src="img/Loaded_Dice.png" width="25"/>3 <a href="loaded-dice.html"><span class="color-template color-template-loaded-dice color-template-background-clip">Loaded Dice</span></a><br/>
+<img alt="Swirled Wax" height="25" src="img/Swirled_Wax.png" width="25"/>1 <a href="swirled-wax.html"><span class="color-template color-template-swirled-wax color-template-background-clip">Swirled Wax</span></a><br/>
+<img alt="Caustic Wax" height="25" src="img/Caustic_Wax.png" width="25"/>1 <a href="caustic-wax.html"><span class="color-template color-template-caustic-wax">Caustic Wax</span></a><br/>
+<img alt="Super Smoothie" height="25" src="img/Super_Smoothie.png" width="25"/>1 <a href="super-smoothie.html"><span class="color-template color-template-super-smoothie color-template-background-clip">Super Smoothie</span></a><br/>
+<img alt="Mythic Egg" height="25" src="img/Mythic_Egg.png" width="25"/>1 <a href="egg.html#Mythic_Egg"><span class="color-template color-template-mythic-egg color-template-background-clip">Mythic Egg</span></a>
 </p>
 </td></tr>
 <tr>
@@ -484,14 +484,14 @@ If player already had the [Beequip Case](beequip.md) Slot that the quest was sup
 <li>3 Sprout Stickers</li></ul></li>
 <li>Deal 400,000,000 Damage to <a href="puffshroom.html">Puffshrooms</a>.</li></ul>
 </td>
-<td><span typeof="mw:Error mw:File"></span>1 <a href="beequip.html"><span class="color-template color-template-beequip-case color-template-background-clip">Beequip Case</span></a> Slot<br/>
+<td><img alt="Beequip Case" height="25" src="img/Beequip_Case.png" width="25"/>1 <a href="beequip.html"><span class="color-template color-template-beequip-case color-template-background-clip">Beequip Case</span></a> Slot<br/>
 <p><span typeof="mw:Error mw:File"></span><span style="border-bottom:1px dotted;" title="2,500,000,000">2.5B</span> <a href="honey.html"><span class="color-template color-template-honey">Honey</span></a><br/>
-<span typeof="mw:Error mw:File"></span>1 <a href="nectar-shower-vial.html"><span class="color-template color-template-nectar-shower-vial color-template-background-clip">Nectar Shower Vial</span></a><br/>
-<span typeof="mw:Error mw:File"></span>1 <a href="sticker-planter.html"><span class="color-template color-template-sticker-planter color-template-background-clip">Sticker Planter</span></a><br/>
-<span typeof="mw:Error mw:File"></span>1 <a href="bloom-shaker.html"><span class="color-template color-template-bloom-shaker color-template-background-clip">Bloom Shaker</span></a><br/>
-<span typeof="mw:Error mw:File"></span>1 <a href="royal-jelly.html#Star_Jelly"><span class="color-template color-template-star-jelly color-template-background-clip">Star Jelly</span></a><br/>
-<span typeof="mw:Error mw:File"></span>10 <a href="neonberry.html"><span class="color-template color-template-neonberry color-template-background-clip">Neonberries</span></a><br/>
-<span typeof="mw:Error mw:File"></span>2 <a href="swirled-wax.html"><span class="color-template color-template-swirled-wax color-template-background-clip">Swirled Waxes</span></a>
+<img alt="Nectar Shower Vial" height="25" src="img/Nectar_Shower_Vial.png" width="25"/>1 <a href="nectar-shower-vial.html"><span class="color-template color-template-nectar-shower-vial color-template-background-clip">Nectar Shower Vial</span></a><br/>
+<img alt="Sticker Planter" height="25" src="img/Sticker_Planter.png" width="25"/>1 <a href="sticker-planter.html"><span class="color-template color-template-sticker-planter color-template-background-clip">Sticker Planter</span></a><br/>
+<img alt="Bloom Shaker" height="25" src="img/Bloom_Shaker.png" width="25"/>1 <a href="bloom-shaker.html"><span class="color-template color-template-bloom-shaker color-template-background-clip">Bloom Shaker</span></a><br/>
+<img alt="Star Jelly" height="25" src="img/Star_Jelly.png" width="25"/>1 <a href="royal-jelly.html#Star_Jelly"><span class="color-template color-template-star-jelly color-template-background-clip">Star Jelly</span></a><br/>
+<img alt="Neonberry" height="25" src="img/Neonberry.png" width="25"/>10 <a href="neonberry.html"><span class="color-template color-template-neonberry color-template-background-clip">Neonberries</span></a><br/>
+<img alt="Swirled Wax" height="25" src="img/Swirled_Wax.png" width="25"/>2 <a href="swirled-wax.html"><span class="color-template color-template-swirled-wax color-template-background-clip">Swirled Waxes</span></a>
 </p>
 </td></tr></tbody></table>
 
@@ -516,11 +516,11 @@ If player already had the [Beequip Case](beequip.md) Slot that the quest was sup
 <li>Reach <a href="all-time-top-damage-to-a-single-puffshroom.html">1,000,000 Damage Dealt to a Single Puffshroom</a>.</li></ul>
 </td>
 <td>
-<p><span typeof="mw:Error mw:File"></span>50,000,000 <a href="honey.html"><span class="color-template color-template-honey">Honey</span></a><br/>
-<span typeof="mw:Error mw:File"></span>1 <a href="ticket-planter.html"><span class="color-template color-template-ticket-planter color-template-background-clip">Ticket Planter</span></a><br/>
-<span typeof="mw:Error mw:File"></span>1 <a href="swirled-wax.html"><span class="color-template color-template-swirled-wax color-template-background-clip">Swirled Wax</span></a><br/>
-<span typeof="mw:Error mw:File"></span>1 <a href="comforting-vial.html"><span class="color-template color-template-comforting-vial color-template-background-clip">Comforting Vial</span></a><br/>
-<span typeof="mw:Error mw:File"></span>1 <a href="drives.html#Blue_Drive"><span class="color-template color-template-blue-drive color-template-background-clip">Blue Drive</span></a>
+<p><img alt="Honey" height="25" src="img/Honey.png" width="25"/>50,000,000 <a href="honey.html"><span class="color-template color-template-honey">Honey</span></a><br/>
+<img alt="Ticket Planter" height="25" src="img/Ticket_Planter.png" width="25"/>1 <a href="ticket-planter.html"><span class="color-template color-template-ticket-planter color-template-background-clip">Ticket Planter</span></a><br/>
+<img alt="Swirled Wax" height="25" src="img/Swirled_Wax.png" width="25"/>1 <a href="swirled-wax.html"><span class="color-template color-template-swirled-wax color-template-background-clip">Swirled Wax</span></a><br/>
+<img alt="Comforting Vial" height="25" src="img/Comforting_Vial.png" width="25"/>1 <a href="comforting-vial.html"><span class="color-template color-template-comforting-vial color-template-background-clip">Comforting Vial</span></a><br/>
+<img alt="Blue Drive" height="25" src="img/Blue_Drive.png" width="25"/>1 <a href="drives.html#Blue_Drive"><span class="color-template color-template-blue-drive color-template-background-clip">Blue Drive</span></a>
 </p>
 </td></tr></tbody></table>
 
@@ -831,11 +831,11 @@ The following content has been removed from the game. The contents below may be 
 <li>Obtain 1 Yellow Coffee Mug <a href="sticker.html">Sticker</a> to give to Dapper Bear.</li></ul>
 </td>
 <td>
-<p><span typeof="mw:Error mw:File"></span>100,000,000 <a href="honey.html"><span class="color-template color-template-honey">Honey</span></a><br/>
-<span typeof="mw:Error mw:File"></span>1 <a href="ticket-planter.html"><span class="color-template color-template-ticket-planter color-template-background-clip">Ticket Planter</span></a><br/>
-<span typeof="mw:Error mw:File"></span>1 <a href="refreshing-vial.html"><span class="color-template color-template-refreshing-vial color-template-background-clip">Refreshing Vial</span></a><br/>
-<span typeof="mw:Error mw:File"></span>1 <a href="swirled-wax.html"><span class="color-template color-template-swirled-wax color-template-background-clip">Swirled Wax</span></a><br/>
-<span typeof="mw:Error mw:File"></span>25 <a href="snowflake.html"><span class="color-template color-template-snowflake color-template-background-clip">Snowflakes</span></a>
+<p><img alt="Honey" height="25" src="img/Honey.png" width="25"/>100,000,000 <a href="honey.html"><span class="color-template color-template-honey">Honey</span></a><br/>
+<img alt="Ticket Planter" height="25" src="img/Ticket_Planter.png" width="25"/>1 <a href="ticket-planter.html"><span class="color-template color-template-ticket-planter color-template-background-clip">Ticket Planter</span></a><br/>
+<img alt="Refreshing Vial" height="25" src="img/Refreshing_Vial.png" width="25"/>1 <a href="refreshing-vial.html"><span class="color-template color-template-refreshing-vial color-template-background-clip">Refreshing Vial</span></a><br/>
+<img alt="Swirled Wax" height="25" src="img/Swirled_Wax.png" width="25"/>1 <a href="swirled-wax.html"><span class="color-template color-template-swirled-wax color-template-background-clip">Swirled Wax</span></a><br/>
+<img alt="Snowflake" height="25" src="img/Snowflake.png" width="25"/>25 <a href="snowflake.html"><span class="color-template color-template-snowflake color-template-background-clip">Snowflakes</span></a>
 </p>
 </td></tr></tbody></table>
 
@@ -873,11 +873,11 @@ The following content has been removed from the game. The contents below may be 
 <li>Obtain 5 Random Leaf <a href="sticker.html">Stickers</a> (except Blowing, Oblique and Reniform) to give to Dapper Bear.</li></ul>
 </td>
 <td>
-<ul><li><span typeof="mw:Error mw:File"></span>200,000,000 <a href="honey.html"><span class="color-template color-template-honey">Honey</span></a></li>
-<li><span typeof="mw:Error mw:File"></span>1 <a href="ticket-planter.html"><span class="color-template color-template-ticket-planter color-template-background-clip">Ticket Planter</span></a></li>
-<li><span typeof="mw:Error mw:File"></span>3 <a href="smooth-dice.html"><span class="color-template color-template-smooth-dice color-template-background-clip">Smooth Dice</span></a></li>
-<li><span typeof="mw:Error mw:File"></span>1 <a href="swirled-wax.html"><span class="color-template color-template-swirled-wax color-template-background-clip">Swirled Wax</span></a></li>
-<li><span typeof="mw:Error mw:File"></span>25 <a href="snowflake.html"><span class="color-template color-template-snowflake color-template-background-clip">Snowflakes</span></a></li></ul>
+<ul><li><img alt="Honey" height="25" src="img/Honey.png" width="25"/>200,000,000 <a href="honey.html"><span class="color-template color-template-honey">Honey</span></a></li>
+<li><img alt="Ticket Planter" height="25" src="img/Ticket_Planter.png" width="25"/>1 <a href="ticket-planter.html"><span class="color-template color-template-ticket-planter color-template-background-clip">Ticket Planter</span></a></li>
+<li><img alt="Smooth Dice" height="25" src="img/Smooth_Dice.png" width="25"/>3 <a href="smooth-dice.html"><span class="color-template color-template-smooth-dice color-template-background-clip">Smooth Dice</span></a></li>
+<li><img alt="Swirled Wax" height="25" src="img/Swirled_Wax.png" width="25"/>1 <a href="swirled-wax.html"><span class="color-template color-template-swirled-wax color-template-background-clip">Swirled Wax</span></a></li>
+<li><img alt="Snowflake" height="25" src="img/Snowflake.png" width="25"/>25 <a href="snowflake.html"><span class="color-template color-template-snowflake color-template-background-clip">Snowflakes</span></a></li></ul>
 </td></tr></tbody></table>
 
 <table class="article-table mw-collapsible mw-collapsed">
@@ -913,13 +913,13 @@ That was quicker than I expected! You must be thirsty. Well, let's go ahead and 
 <li>Obtain 3 Cordate Leaf Stickers, 3 Hastate Leaf Stickers, OR 3 Lanceolate Leaf Stickers to give to Dapper Bear.</li>
 <li>Obtain 1 Spore Covered Puffshroom Sticker to give to Dapper Bear.</li></ul>
 </td>
-<td><span typeof="mw:Error mw:File"></span>10,000,000 <a href="honey.html"><span class="color-template color-template-honey">Honey</span></a><br/>
-<p><span typeof="mw:Error mw:File"></span>1 <a href="ticket-planter.html"><span class="color-template color-template-ticket-planter color-template-background-clip">Ticket Planter</span></a><br/>
-<span typeof="mw:Error mw:File"></span>1 <a href="satisfying-vial.html"><span class="color-template color-template-satisfying-vial color-template-background-clip">Satisfying Vial</span></a><br/>
-<span typeof="mw:Error mw:File"></span>1 <a href="elf-cap.html"><span class="color-template color-template-elf-cap color-template-background-clip">Elf Cap</span></a><br/>
-<span typeof="mw:Error mw:File"></span>10 <a href="soft-wax.html"><span class="color-template color-template-soft-wax">Soft Waxes</span></a><br/>
-<span typeof="mw:Error mw:File"></span>5 <a href="whirligig.html"><span class="color-template color-template-whirligig color-template-background-clip">Whirligigs</span></a><br/>
-<span typeof="mw:Error mw:File"></span>25 <a href="snowflake.html"><span class="color-template color-template-snowflake color-template-background-clip">Snowflakes</span></a>
+<td><img alt="Honey" height="25" src="img/Honey.png" width="25"/>10,000,000 <a href="honey.html"><span class="color-template color-template-honey">Honey</span></a><br/>
+<p><img alt="Ticket Planter" height="25" src="img/Ticket_Planter.png" width="25"/>1 <a href="ticket-planter.html"><span class="color-template color-template-ticket-planter color-template-background-clip">Ticket Planter</span></a><br/>
+<img alt="Satisfying Vial" height="25" src="img/Satisfying_Vial.png" width="25"/>1 <a href="satisfying-vial.html"><span class="color-template color-template-satisfying-vial color-template-background-clip">Satisfying Vial</span></a><br/>
+<img alt="Elf Cap" height="25" src="img/Elf_Cap.png" width="25"/>1 <a href="elf-cap.html"><span class="color-template color-template-elf-cap color-template-background-clip">Elf Cap</span></a><br/>
+<img alt="Soft Wax" height="25" src="img/Soft_Wax.png" width="25"/>10 <a href="soft-wax.html"><span class="color-template color-template-soft-wax">Soft Waxes</span></a><br/>
+<img alt="Whirligig" height="25" src="img/Whirligig.png" width="25"/>5 <a href="whirligig.html"><span class="color-template color-template-whirligig color-template-background-clip">Whirligigs</span></a><br/>
+<img alt="Snowflake" height="25" src="img/Snowflake.png" width="25"/>25 <a href="snowflake.html"><span class="color-template color-template-snowflake color-template-background-clip">Snowflakes</span></a>
 </p>
 </td></tr></tbody></table>
 
@@ -951,12 +951,12 @@ That was quicker than I expected! You must be thirsty. Well, let's go ahead and 
 <li>Collect 25 Tokens from <a href="planter.html">Planters</a>.</li>
 <li>Pop 1 <a href="puffshroom.html">Rare Puffshroom</a>.</li></ul>
 </td>
-<td><span typeof="mw:Error mw:File"></span>2,000,000 <a href="honey.html"><span class="color-template color-template-honey">Honey</span></a><br/>
-<p><span typeof="mw:Error mw:File"></span>1 <a href="drives.html#Blue_Drive"><span class="color-template color-template-blue-drive color-template-background-clip">Blue Drive</span></a><br/>
-<span typeof="mw:Error mw:File"></span>1 <a href="ticket-planter.html"><span class="color-template color-template-ticket-planter color-template-background-clip">Ticket Planter</span></a><br/>
-<span typeof="mw:Error mw:File"></span>1 <a href="motivating-vial.html"><span class="color-template color-template-motivating-vial color-template-background-clip">Motivating Vial</span></a><br/>
-<span typeof="mw:Error mw:File"></span>3 <a href="smooth-dice.html"><span class="color-template color-template-smooth-dice color-template-background-clip">Smooth Dice</span></a><br/>
-<span typeof="mw:Error mw:File"></span>25 <a href="snowflake.html"><span class="color-template color-template-snowflake color-template-background-clip">Snowflakes</span></a>
+<td><img alt="Honey" height="25" src="img/Honey.png" width="25"/>2,000,000 <a href="honey.html"><span class="color-template color-template-honey">Honey</span></a><br/>
+<p><img alt="Blue Drive" height="25" src="img/Blue_Drive.png" width="25"/>1 <a href="drives.html#Blue_Drive"><span class="color-template color-template-blue-drive color-template-background-clip">Blue Drive</span></a><br/>
+<img alt="Ticket Planter" height="25" src="img/Ticket_Planter.png" width="25"/>1 <a href="ticket-planter.html"><span class="color-template color-template-ticket-planter color-template-background-clip">Ticket Planter</span></a><br/>
+<img alt="Motivating Vial" height="25" src="img/Motivating_Vial.png" width="25"/>1 <a href="motivating-vial.html"><span class="color-template color-template-motivating-vial color-template-background-clip">Motivating Vial</span></a><br/>
+<img alt="Smooth Dice" height="25" src="img/Smooth_Dice.png" width="25"/>3 <a href="smooth-dice.html"><span class="color-template color-template-smooth-dice color-template-background-clip">Smooth Dice</span></a><br/>
+<img alt="Snowflake" height="25" src="img/Snowflake.png" width="25"/>25 <a href="snowflake.html"><span class="color-template color-template-snowflake color-template-background-clip">Snowflakes</span></a>
 </p>
 </td></tr></tbody></table>
 
@@ -996,14 +996,14 @@ That was fast! Guess you really want that [Drive]. Let me tell you though, that 
 <li>Collect 2 Hours of <a href="nectar.html">Invigorating Nectar</a> from <a href="planter.html">Planters</a>.</li>
 <li>Collect 2 Hours of <a href="nectar.html">Motivating Nectar</a> from <a href="planter.html">Planters</a>.</li></ul>
 </td>
-<td><span typeof="mw:Error mw:File"></span>2,000,000 <a href="honey.html"><span class="color-template color-template-honey">Honey</span></a><br/>
-<p><span typeof="mw:Error mw:File"></span>3 <a href="ticket.html"><span class="color-template color-template-ticket color-template-background-clip">Tickets</span></a><br/>
-<span typeof="mw:Error mw:File"></span>1 <a href="ticket-planter.html"><span class="color-template color-template-ticket-planter color-template-background-clip">Ticket Planter</span></a><br/>
-<span typeof="mw:Error mw:File"></span>1 <a href="gingerbread-bear.html"><span class="color-template color-template-gingerbread-bear color-template-background-clip">Gingerbread Bear</span></a><br/>
-<span typeof="mw:Error mw:File"></span>1 <a href="swirled-wax.html"><span class="color-template color-template-swirled-wax color-template-background-clip">Swirled Wax</span></a><br/>
-<span typeof="mw:Error mw:File"></span>1 <a href="smooth-dice.html"><span class="color-template color-template-smooth-dice color-template-background-clip">Smooth Dice</span></a><br/>
-<span typeof="mw:Error mw:File"></span>3 <a href="honeysuckle.html"><span class="color-template color-template-honeysuckle color-template-background-clip">Honeysuckles</span></a><br/>
-<span typeof="mw:Error mw:File"></span>1 <a href="single-mitten.html"><span class="color-template color-template-single-mitten color-template-background-clip">Single Mitten</span></a>
+<td><img alt="Honey" height="25" src="img/Honey.png" width="25"/>2,000,000 <a href="honey.html"><span class="color-template color-template-honey">Honey</span></a><br/>
+<p><img alt="Ticket" height="25" src="img/Ticket.png" width="25"/>3 <a href="ticket.html"><span class="color-template color-template-ticket color-template-background-clip">Tickets</span></a><br/>
+<img alt="Ticket Planter" height="25" src="img/Ticket_Planter.png" width="25"/>1 <a href="ticket-planter.html"><span class="color-template color-template-ticket-planter color-template-background-clip">Ticket Planter</span></a><br/>
+<img alt="Gingerbread Bear" height="25" src="img/Gingerbread_Bear.png" width="25"/>1 <a href="gingerbread-bear.html"><span class="color-template color-template-gingerbread-bear color-template-background-clip">Gingerbread Bear</span></a><br/>
+<img alt="Swirled Wax" height="25" src="img/Swirled_Wax.png" width="25"/>1 <a href="swirled-wax.html"><span class="color-template color-template-swirled-wax color-template-background-clip">Swirled Wax</span></a><br/>
+<img alt="Smooth Dice" height="25" src="img/Smooth_Dice.png" width="25"/>1 <a href="smooth-dice.html"><span class="color-template color-template-smooth-dice color-template-background-clip">Smooth Dice</span></a><br/>
+<img alt="Honeysuckle" height="25" src="img/Honeysuckle.png" width="25"/>3 <a href="honeysuckle.html"><span class="color-template color-template-honeysuckle color-template-background-clip">Honeysuckles</span></a><br/>
+<img alt="Single Mitten" height="25" src="img/Single_Mitten.png" width="25"/>1 <a href="single-mitten.html"><span class="color-template color-template-single-mitten color-template-background-clip">Single Mitten</span></a>
 </p>
 </td></tr></tbody></table>
 
@@ -1019,10 +1019,6 @@ That was fast! Guess you really want that [Drive]. Let me tell you though, that 
 </p><p>Nice to see you didn't come back empty handed. That's all I'll need to polish this thing up. ...(scrub scrub).. Mmhmm. See, a Diamond Bee in the rough. I lugged this antique Samovar in my carry-on on my way back from Moscow. Had to leave a few Beequips behind to make room. Worth it though. You can use the Samovar once every 6 hours for some Nectar, Honeysuckles, and other rewards. The Nectar you get will always be a random type, and starts at 1 hour. Each time you use it over the Winter event, the amount of Nectar goes up by 5 minutes (up to a 4 hours). As the Samovar's brew gets stronger, you'll also get more Honeysuckles. Use it enough and you might be surprised how much joy it can bring you. Just don't drink it too fast - pace yourself. Samovar is something you're supposed to savor, I've heard. Oh, and if you aren't familiar with Honeysuckles... Honeysuckles cause half of your bees to instantly convert pollen from your bag when your bag becomes full. This can help you stay on the field longer before having to return to the hive. To use them, you can toggle them on in your Egg Menu. I'll give you a few to try out. Well, thank you for including me in this year's Beesmas fun. I'll have more quests for you over the coming weeks. Happy Honeydays! Stay warm out there. 
 </p>
 </td></tr></tbody></table>
-
-## Gallery
-
-<div class="wikia-gallery wikia-gallery-caption-below wikia-gallery-position-left wikia-gallery-spacing-medium wikia-gallery-border-small wikia-gallery-captions-left wikia-gallery-caption-size-medium" data-seq-no="0" hash="f8232923b29c9c3c84edd4b5ae6cce25" id="gallery-0"><div class="wikia-gallery-caption"></div><div class="wikia-gallery-item" style="width:187px; "><div class="thumb" style="height:187px;"><div class="gallery-image-wrapper accent" id="HI-png" style="position: relative; height:185px; width:185px;"><span style="line-height: 1;">HI.png</span></div></div><div class="lightbox-caption" style="width:185px;">Dapper Bear along with Basic Bee, Precise Bee, and Buoyant Bee in a previous game thumbnail.</div></div><div class="wikia-gallery-item" style="width:187px; "><div class="thumb" style="height:187px;"><div class="gallery-image-wrapper accent" id="DapperBearShopInterior-PNG" style="position: relative; height:185px; width:185px;"><span style="line-height: 1;">DapperBearShopInterior.PNG</span></div></div><div class="lightbox-caption" style="width:185px;">Dapper Bear inside his shop.</div></div><div class="wikia-gallery-item" style="width:187px; "><div class="thumb" style="height:187px;"><div class="gallery-image-wrapper accent" id="Hivesticker_dapper_from_above-png" style="position: relative; height:185px; width:185px;"><span style="line-height: 1;">Hivesticker dapper from above.png</span></div></div><div class="lightbox-caption" style="width:185px;">The Dapper From Above <a href="sticker.html">Sticker</a>.</div></div></div>
 
 ## Trivia
 

@@ -105,7 +105,7 @@ Through all of his quests, he rewards 2,352,532,300 Honey. When doing the quests
 <td>
 <ul><li>Collect 100 <a href="pollen.html">Pollen</a> from the <a href="sunflower-field.html">Sunflower Field</a>.</li></ul>
 </td>
-<td><span typeof="mw:Error mw:File"></span>200 <a href="honey.html"><span class="color-template color-template-honey">Honey</span></a>
+<td><img alt="Honey" height="25" src="img/Honey.png" width="25"/>200 <a href="honey.html"><span class="color-template color-template-honey">Honey</span></a>
 </td></tr>
 <tr>
 <td>Dandelion Deed
@@ -113,7 +113,7 @@ Through all of his quests, he rewards 2,352,532,300 Honey. When doing the quests
 <td>
 <ul><li>Collect 250 <a href="pollen.html">Pollen</a> from the <a href="dandelion-field.html">Dandelion Field</a>.</li></ul>
 </td>
-<td><span typeof="mw:Error mw:File"></span>400 <a href="honey.html"><span class="color-template color-template-honey">Honey</span></a>
+<td><img alt="Honey" height="25" src="img/Honey.png" width="25"/>400 <a href="honey.html"><span class="color-template color-template-honey">Honey</span></a>
 </td></tr>
 <tr>
 <td>Pollen Fetcher
@@ -121,7 +121,7 @@ Through all of his quests, he rewards 2,352,532,300 Honey. When doing the quests
 <td>
 <ul><li>Collect 500 <a href="pollen.html">Pollen</a>.</li></ul>
 </td>
-<td><span typeof="mw:Error mw:File"></span>500 <a href="honey.html"><span class="color-template color-template-honey">Honey</span></a>
+<td><img alt="Honey" height="25" src="img/Honey.png" width="25"/>500 <a href="honey.html"><span class="color-template color-template-honey">Honey</span></a>
 </td></tr>
 <tr>
 <td>Red Request
@@ -129,7 +129,7 @@ Through all of his quests, he rewards 2,352,532,300 Honey. When doing the quests
 <td>
 <ul><li>Collect 600 <a href="pollen.html">Red Pollen</a>.</li></ul>
 </td>
-<td><span typeof="mw:Error mw:File"></span>650 <a href="honey.html"><span class="color-template color-template-honey">Honey</span></a>
+<td><img alt="Honey" height="25" src="img/Honey.png" width="25"/>650 <a href="honey.html"><span class="color-template color-template-honey">Honey</span></a>
 </td></tr>
 <tr>
 <td>Into The Blue
@@ -137,7 +137,7 @@ Through all of his quests, he rewards 2,352,532,300 Honey. When doing the quests
 <td>
 <ul><li>Collect 1000 <a href="pollen.html">Blue Pollen</a>.</li></ul>
 </td>
-<td><span typeof="mw:Error mw:File"></span>750 <a href="honey.html"><span class="color-template color-template-honey">Honey</span></a>
+<td><img alt="Honey" height="25" src="img/Honey.png" width="25"/>750 <a href="honey.html"><span class="color-template color-template-honey">Honey</span></a>
 </td></tr>
 <tr>
 <td>Variety Fetcher
@@ -147,8 +147,8 @@ Through all of his quests, he rewards 2,352,532,300 Honey. When doing the quests
 <li>Collect 1,000 <a href="pollen.html">Pollen</a> from the <a href="blue-flower-field.html">Blue Flower Field</a>.</li>
 <li>Collect 1,000 <a href="pollen.html">Pollen</a> from the <a href="clover-field.html">Clover Field</a>.</li></ul>
 </td>
-<td><span typeof="mw:Error mw:File"></span>1,000 <a href="honey.html"><span class="color-template color-template-honey">Honey</span></a><br/>
-<p><span typeof="mw:Error mw:File"></span>1 <a href="egg.html#Silver_Egg"><span class="color-template color-template-silver-egg color-template-background-clip">Silver Egg</span></a>
+<td><img alt="Honey" height="25" src="img/Honey.png" width="25"/>1,000 <a href="honey.html"><span class="color-template color-template-honey">Honey</span></a><br/>
+<p><img alt="Silver Egg" height="25" src="img/Silver_Egg.png" width="25"/>1 <a href="egg.html#Silver_Egg"><span class="color-template color-template-silver-egg color-template-background-clip">Silver Egg</span></a>
 </p>
 </td></tr></tbody></table>
 
@@ -168,7 +168,7 @@ Through all of his quests, he rewards 2,352,532,300 Honey. When doing the quests
 <td>
 <ul><li>Collect 4,000 <a href="pollen.html">Pollen</a> from the <a href="bamboo-field.html">Bamboo Field</a>.</li></ul>
 </td>
-<td><span typeof="mw:Error mw:File"></span>2,100 <a href="honey.html"><span class="color-template color-template-honey">Honey</span></a>
+<td><img alt="Honey" height="25" src="img/Honey.png" width="25"/>2,100 <a href="honey.html"><span class="color-template color-template-honey">Honey</span></a>
 </td></tr>
 <tr>
 <td>Red Request 2
@@ -176,7 +176,7 @@ Through all of his quests, he rewards 2,352,532,300 Honey. When doing the quests
 <td>
 <ul><li>Collect 5,000 <a href="pollen.html">Red Pollen</a>.</li></ul>
 </td>
-<td><span typeof="mw:Error mw:File"></span>2,500 <a href="honey.html"><span class="color-template color-template-honey">Honey</span></a>
+<td><img alt="Honey" height="25" src="img/Honey.png" width="25"/>2,500 <a href="honey.html"><span class="color-template color-template-honey">Honey</span></a>
 </td></tr>
 <tr>
 <td>Cobweb Sweeper
@@ -184,7 +184,7 @@ Through all of his quests, he rewards 2,352,532,300 Honey. When doing the quests
 <td>
 <ul><li>Collect 6,000 <a href="pollen.html">Pollen</a> from the <a href="spider-field.html">Spider Field</a>.</li></ul>
 </td>
-<td><span typeof="mw:Error mw:File"></span>3,200 <a href="honey.html"><span class="color-template color-template-honey">Honey</span></a>
+<td><img alt="Honey" height="25" src="img/Honey.png" width="25"/>3,200 <a href="honey.html"><span class="color-template color-template-honey">Honey</span></a>
 </td></tr>
 <tr>
 <td>Leisure Loot
@@ -195,7 +195,7 @@ Through all of his quests, he rewards 2,352,532,300 Honey. When doing the quests
 <li>Collect 3,000 <a href="pollen.html">Pollen</a> from the <a href="mushroom-field.html">Mushroom Field</a>.</li>
 <li>Collect 3,000 <a href="pollen.html">Pollen</a> from the <a href="blue-flower-field.html">Blue Flower Field</a>.</li></ul>
 </td>
-<td><span typeof="mw:Error mw:File"></span>10,000 <a href="honey.html"><span class="color-template color-template-honey">Honey</span></a>
+<td><img alt="Honey" height="25" src="img/Honey.png" width="25"/>10,000 <a href="honey.html"><span class="color-template color-template-honey">Honey</span></a>
 </td></tr>
 <tr>
 <td>White Pollen Wrangler
@@ -203,7 +203,7 @@ Through all of his quests, he rewards 2,352,532,300 Honey. When doing the quests
 <td>
 <ul><li>Collect 10,000 <a href="pollen.html">White Pollen</a>.</li></ul>
 </td>
-<td><span typeof="mw:Error mw:File"></span>7,500 <a href="honey.html"><span class="color-template color-template-honey">Honey</span></a>
+<td><img alt="Honey" height="25" src="img/Honey.png" width="25"/>7,500 <a href="honey.html"><span class="color-template color-template-honey">Honey</span></a>
 </td></tr>
 <tr>
 <td>Pineapple Picking
@@ -211,7 +211,7 @@ Through all of his quests, he rewards 2,352,532,300 Honey. When doing the quests
 <td>
 <ul><li>Collect 13,000 <a href="pollen.html">Pollen</a> from <a href="pineapple-patch.html">Pineapple Patch</a>.</li></ul>
 </td>
-<td><span typeof="mw:Error mw:File"></span>10,500 <a href="honey.html"><span class="color-template color-template-honey">Honey</span></a>
+<td><img alt="Honey" height="25" src="img/Honey.png" width="25"/>10,500 <a href="honey.html"><span class="color-template color-template-honey">Honey</span></a>
 </td></tr>
 <tr>
 <td>Pollen Fetcher 2
@@ -219,7 +219,7 @@ Through all of his quests, he rewards 2,352,532,300 Honey. When doing the quests
 <td>
 <ul><li>Collect 16,000 <a href="pollen.html">Pollen</a>.</li></ul>
 </td>
-<td><span typeof="mw:Error mw:File"></span>12,000 <a href="honey.html"><span class="color-template color-template-honey">Honey</span></a>
+<td><img alt="Honey" height="25" src="img/Honey.png" width="25"/>12,000 <a href="honey.html"><span class="color-template color-template-honey">Honey</span></a>
 </td></tr>
 <tr>
 <td>Weed Wacker
@@ -229,7 +229,7 @@ Through all of his quests, he rewards 2,352,532,300 Honey. When doing the quests
 <li>Collect 10,000 <a href="pollen.html">Pollen</a> from the <a href="bamboo-field.html">Bamboo Field</a>.</li>
 <li>Collect 10,000 <a href="pollen.html">Pollen</a> from the <a href="clover-field.html">Clover Field</a>.</li></ul>
 </td>
-<td><span typeof="mw:Error mw:File"></span>25,000 <a href="honey.html"><span class="color-template color-template-honey">Honey</span></a>
+<td><img alt="Honey" height="25" src="img/Honey.png" width="25"/>25,000 <a href="honey.html"><span class="color-template color-template-honey">Honey</span></a>
 </td></tr>
 <tr>
 <td>Red + Blue = Gold
@@ -238,8 +238,8 @@ Through all of his quests, he rewards 2,352,532,300 Honey. When doing the quests
 <ul><li>Collect 25,000 <a href="pollen.html">Blue Pollen</a>.</li>
 <li>Collect 25,000 <a href="pollen.html">Red Pollen</a>.</li></ul>
 </td>
-<td><span typeof="mw:Error mw:File"></span>25,000 <a href="honey.html"><span class="color-template color-template-honey">Honey</span></a><br/>
-<p><span typeof="mw:Error mw:File"></span>1 <a href="egg.html#Gold_Egg"><span class="color-template color-template-gold-egg color-template-background-clip">Gold Egg</span></a>
+<td><img alt="Honey" height="25" src="img/Honey.png" width="25"/>25,000 <a href="honey.html"><span class="color-template color-template-honey">Honey</span></a><br/>
+<p><img alt="Gold Egg" height="25" src="img/Gold_Egg.png" width="25"/>1 <a href="egg.html#Gold_Egg"><span class="color-template color-template-gold-egg color-template-background-clip">Gold Egg</span></a>
 </p>
 </td></tr></tbody></table>
 
@@ -259,7 +259,7 @@ Through all of his quests, he rewards 2,352,532,300 Honey. When doing the quests
 <td>
 <ul><li>Collect 50,000 White <a href="pollen.html">Pollen</a>.</li></ul>
 </td>
-<td><span typeof="mw:Error mw:File"></span>35,000 <a href="honey.html"><span class="color-template color-template-honey">Honey</span></a>
+<td><img alt="Honey" height="25" src="img/Honey.png" width="25"/>35,000 <a href="honey.html"><span class="color-template color-template-honey">Honey</span></a>
 </td></tr>
 <tr>
 <td>Spirit Of Springtime
@@ -268,7 +268,7 @@ Through all of his quests, he rewards 2,352,532,300 Honey. When doing the quests
 <ul><li>Collect 30,000 Pollen from the <a href="strawberry-field.html">Strawberry Field</a>.</li>
 <li>Collect 30,000 Pollen from the <a href="sunflower-field.html">Sunflower Field</a>.</li></ul>
 </td>
-<td><span typeof="mw:Error mw:File"></span>44,000 <a href="honey.html"><span class="color-template color-template-honey">Honey</span></a>
+<td><img alt="Honey" height="25" src="img/Honey.png" width="25"/>44,000 <a href="honey.html"><span class="color-template color-template-honey">Honey</span></a>
 </td></tr>
 <tr>
 <td>Weed Wacker 2
@@ -277,7 +277,7 @@ Through all of his quests, he rewards 2,352,532,300 Honey. When doing the quests
 <ul><li>Collect 40,000 Pollen from the <a href="dandelion-field.html">Dandelion Field</a>.</li>
 <li>Collect 40,000 Pollen from the <a href="bamboo-field.html">Bamboo Field</a>.</li></ul>
 </td>
-<td><span typeof="mw:Error mw:File"></span>50,000 <a href="honey.html"><span class="color-template color-template-honey">Honey</span></a>
+<td><img alt="Honey" height="25" src="img/Honey.png" width="25"/>50,000 <a href="honey.html"><span class="color-template color-template-honey">Honey</span></a>
 </td></tr>
 <tr>
 <td>Pollen Fetcher 3
@@ -285,8 +285,8 @@ Through all of his quests, he rewards 2,352,532,300 Honey. When doing the quests
 <td>
 <ul><li>Collect 100,000 <a href="pollen.html">Pollen</a>.</li></ul>
 </td>
-<td><span typeof="mw:Error mw:File"></span>50,000 <a href="honey.html"><span class="color-template color-template-honey">Honey</span></a><br/>
-<p><span typeof="mw:Error mw:File"></span>1 <a href="royal-jelly.html"><span class="color-template color-template-royal-jelly color-template-background-clip">Royal Jelly</span></a>
+<td><img alt="Honey" height="25" src="img/Honey.png" width="25"/>50,000 <a href="honey.html"><span class="color-template color-template-honey">Honey</span></a><br/>
+<p><img alt="Royal Jelly" height="25" src="img/Royal_Jelly.png" width="25"/>1 <a href="royal-jelly.html"><span class="color-template color-template-royal-jelly color-template-background-clip">Royal Jelly</span></a>
 </p>
 </td></tr>
 <tr>
@@ -295,7 +295,7 @@ Through all of his quests, he rewards 2,352,532,300 Honey. When doing the quests
 <td>
 <ul><li>Collect 100,000 Pollen from the <a href="clover-field.html">Clover Field</a>.</li></ul>
 </td>
-<td><span typeof="mw:Error mw:File"></span>75,000 <a href="honey.html"><span class="color-template color-template-honey">Honey</span></a>
+<td><img alt="Honey" height="25" src="img/Honey.png" width="25"/>75,000 <a href="honey.html"><span class="color-template color-template-honey">Honey</span></a>
 </td></tr>
 <tr>
 <td>Azure Adventure
@@ -303,7 +303,7 @@ Through all of his quests, he rewards 2,352,532,300 Honey. When doing the quests
 <td>
 <ul><li>Collect 150,000 Blue Pollen.</li></ul>
 </td>
-<td><span typeof="mw:Error mw:File"></span>100,000 <a href="honey.html"><span class="color-template color-template-honey">Honey</span></a>
+<td><img alt="Honey" height="25" src="img/Honey.png" width="25"/>100,000 <a href="honey.html"><span class="color-template color-template-honey">Honey</span></a>
 </td></tr>
 <tr>
 <td>Pink Pineapples
@@ -312,7 +312,7 @@ Through all of his quests, he rewards 2,352,532,300 Honey. When doing the quests
 <ul><li>Collect 80,000 Red Pollen.</li>
 <li>Collect 80,000 Pollen from the Pineapple Patch.</li></ul>
 </td>
-<td><span typeof="mw:Error mw:File"></span>122,000 <a href="honey.html"><span class="color-template color-template-honey">Honey</span></a>
+<td><img alt="Honey" height="25" src="img/Honey.png" width="25"/>122,000 <a href="honey.html"><span class="color-template color-template-honey">Honey</span></a>
 </td></tr>
 <tr>
 <td>Blue Mushrooms
@@ -321,8 +321,8 @@ Through all of his quests, he rewards 2,352,532,300 Honey. When doing the quests
 <ul><li>Collect 100,000 Pollen from the <a href="blue-flower-field.html">Blue Flower Field</a>.</li>
 <li>Collect 100,000 Pollen from the <a href="mushroom-field.html">Mushroom Field</a>.</li></ul>
 </td>
-<td><span typeof="mw:Error mw:File"></span>150,000 <a href="honey.html"><span class="color-template color-template-honey">Honey</span></a><br/>
-<p><span typeof="mw:Error mw:File"></span>1 <a href="royal-jelly.html"><span class="color-template color-template-royal-jelly color-template-background-clip">Royal Jelly</span></a>
+<td><img alt="Honey" height="25" src="img/Honey.png" width="25"/>150,000 <a href="honey.html"><span class="color-template color-template-honey">Honey</span></a><br/>
+<p><img alt="Royal Jelly" height="25" src="img/Royal_Jelly.png" width="25"/>1 <a href="royal-jelly.html"><span class="color-template color-template-royal-jelly color-template-background-clip">Royal Jelly</span></a>
 </p>
 </td></tr>
 <tr>
@@ -331,7 +331,7 @@ Through all of his quests, he rewards 2,352,532,300 Honey. When doing the quests
 <td>
 <ul><li>Collect 250,000 Pollen from the <a href="spider-field.html">Spider Field</a>.</li></ul>
 </td>
-<td><span typeof="mw:Error mw:File"></span>185,000 <a href="honey.html"><span class="color-template color-template-honey">Honey</span></a>
+<td><img alt="Honey" height="25" src="img/Honey.png" width="25"/>185,000 <a href="honey.html"><span class="color-template color-template-honey">Honey</span></a>
 </td></tr>
 <tr>
 <td>Rojo-A-Go-Go
@@ -340,7 +340,7 @@ Through all of his quests, he rewards 2,352,532,300 Honey. When doing the quests
 <ul><li>Collect 300,000 Red Pollen.</li>
 <li>Collect 8 Pollen from the <a href="cactus-field.html">Cactus Field</a>.</li></ul>
 </td>
-<td><span typeof="mw:Error mw:File"></span>200,000 <a href="honey.html"><span class="color-template color-template-honey">Honey</span></a>
+<td><img alt="Honey" height="25" src="img/Honey.png" width="25"/>200,000 <a href="honey.html"><span class="color-template color-template-honey">Honey</span></a>
 </td></tr>
 <tr>
 <td>Pumpkin Plower
@@ -348,7 +348,7 @@ Through all of his quests, he rewards 2,352,532,300 Honey. When doing the quests
 <td>
 <ul><li>Collect 315,000 Pollen from the Pumpkin Patch.</li></ul>
 </td>
-<td><span typeof="mw:Error mw:File"></span>225,000 <a href="honey.html"><span class="color-template color-template-honey">Honey</span></a>
+<td><img alt="Honey" height="25" src="img/Honey.png" width="25"/>225,000 <a href="honey.html"><span class="color-template color-template-honey">Honey</span></a>
 </td></tr>
 <tr>
 <td>Pollen Fetcher 4
@@ -356,8 +356,8 @@ Through all of his quests, he rewards 2,352,532,300 Honey. When doing the quests
 <td>
 <ul><li>Collect 375,000 Pollen.</li></ul>
 </td>
-<td><span typeof="mw:Error mw:File"></span>250,000 <a href="honey.html"><span class="color-template color-template-honey">Honey</span></a><br/>
-<p><span typeof="mw:Error mw:File"></span>1 <a href="royal-jelly.html"><span class="color-template color-template-royal-jelly color-template-background-clip">Royal Jelly</span></a>
+<td><img alt="Honey" height="25" src="img/Honey.png" width="25"/>250,000 <a href="honey.html"><span class="color-template color-template-honey">Honey</span></a><br/>
+<p><img alt="Royal Jelly" height="25" src="img/Royal_Jelly.png" width="25"/>1 <a href="royal-jelly.html"><span class="color-template color-template-royal-jelly color-template-background-clip">Royal Jelly</span></a>
 </p>
 </td></tr>
 <tr>
@@ -367,7 +367,7 @@ Through all of his quests, he rewards 2,352,532,300 Honey. When doing the quests
 <ul><li>Collect 180,000 Pollen from the <a href="pine-tree-forest.html">Pine Tree Forest</a>.</li>
 <li>Collect 180,000 Pollen from the <a href="cactus-field.html">Cactus Field</a>.</li></ul>
 </td>
-<td><span typeof="mw:Error mw:File"></span>275,000 <a href="honey.html"><span class="color-template color-template-honey">Honey</span></a>
+<td><img alt="Honey" height="25" src="img/Honey.png" width="25"/>275,000 <a href="honey.html"><span class="color-template color-template-honey">Honey</span></a>
 </td></tr>
 <tr>
 <td>Blue Pineapples
@@ -376,7 +376,7 @@ Through all of his quests, he rewards 2,352,532,300 Honey. When doing the quests
 <ul><li>Collect 200,000 Blue Pollen.</li>
 <li>Collect 200,000 Pollen from the <a href="pineapple-patch.html">Pineapple Patch</a>.</li></ul>
 </td>
-<td><span typeof="mw:Error mw:File"></span>300,000 <a href="honey.html"><span class="color-template color-template-honey">Honey</span></a>
+<td><img alt="Honey" height="25" src="img/Honey.png" width="25"/>300,000 <a href="honey.html"><span class="color-template color-template-honey">Honey</span></a>
 </td></tr>
 <tr>
 <td>Rose Request
@@ -384,7 +384,7 @@ Through all of his quests, he rewards 2,352,532,300 Honey. When doing the quests
 <td>
 <ul><li>Collect 450,000 Pollen from the <a href="rose-field.html">Rose Field</a>.</li></ul>
 </td>
-<td><span typeof="mw:Error mw:File"></span>320,000 <a href="honey.html"><span class="color-template color-template-honey">Honey</span></a>
+<td><img alt="Honey" height="25" src="img/Honey.png" width="25"/>320,000 <a href="honey.html"><span class="color-template color-template-honey">Honey</span></a>
 </td></tr>
 <tr>
 <td>Search For The White Clover
@@ -393,8 +393,8 @@ Through all of his quests, he rewards 2,352,532,300 Honey. When doing the quests
 <ul><li>Collect 300,000 White Pollen.</li>
 <li>Collect 200,000 Pollen from the <a href="clover-field.html">Clover Field</a>.</li></ul>
 </td>
-<td><span typeof="mw:Error mw:File"></span>350,000 <a href="honey.html"><span class="color-template color-template-honey">Honey</span></a><br/>
-<p><span typeof="mw:Error mw:File"></span>1 <a href="royal-jelly.html"><span class="color-template color-template-royal-jelly color-template-background-clip">Royal Jelly</span></a>
+<td><img alt="Honey" height="25" src="img/Honey.png" width="25"/>350,000 <a href="honey.html"><span class="color-template color-template-honey">Honey</span></a><br/>
+<p><img alt="Royal Jelly" height="25" src="img/Royal_Jelly.png" width="25"/>1 <a href="royal-jelly.html"><span class="color-template color-template-royal-jelly color-template-background-clip">Royal Jelly</span></a>
 </p>
 </td></tr>
 <tr>
@@ -406,8 +406,8 @@ Through all of his quests, he rewards 2,352,532,300 Honey. When doing the quests
 <li>Collect 100,000 Pollen from the <a href="mushroom-field.html">Mushroom Field</a>.</li>
 <li>Collect 100,000 Pollen from the <a href="blue-flower-field.html">Blue Flower Field</a>.</li></ul>
 </td>
-<td><span typeof="mw:Error mw:File"></span>400,000 <a href="honey.html"><span class="color-template color-template-honey">Honey</span></a><br/>
-<p><span typeof="mw:Error mw:File"></span>1 <a href="royal-jelly.html"><span class="color-template color-template-royal-jelly color-template-background-clip">Royal Jelly</span></a>
+<td><img alt="Honey" height="25" src="img/Honey.png" width="25"/>400,000 <a href="honey.html"><span class="color-template color-template-honey">Honey</span></a><br/>
+<p><img alt="Royal Jelly" height="25" src="img/Royal_Jelly.png" width="25"/>1 <a href="royal-jelly.html"><span class="color-template color-template-royal-jelly color-template-background-clip">Royal Jelly</span></a>
 </p>
 </td></tr>
 <tr>
@@ -418,8 +418,8 @@ Through all of his quests, he rewards 2,352,532,300 Honey. When doing the quests
 <li>Collect 250,000 Pollen from the <a href="spider-field.html">Spider Field</a>.</li>
 <li>Collect 250,000 Pollen from the <a href="bamboo-field.html">Bamboo Field</a>.</li></ul>
 </td>
-<td><span typeof="mw:Error mw:File"></span>450,000 <a href="honey.html"><span class="color-template color-template-honey">Honey</span></a><br/>
-<p><span typeof="mw:Error mw:File"></span>2 <a href="royal-jelly.html"><span class="color-template color-template-royal-jelly color-template-background-clip">Royal Jellies</span></a>
+<td><img alt="Honey" height="25" src="img/Honey.png" width="25"/>450,000 <a href="honey.html"><span class="color-template color-template-honey">Honey</span></a><br/>
+<p><img alt="Royal Jelly" height="25" src="img/Royal_Jelly.png" width="25"/>2 <a href="royal-jelly.html"><span class="color-template color-template-royal-jelly color-template-background-clip">Royal Jellies</span></a>
 </p>
 </td></tr>
 <tr>
@@ -432,8 +432,8 @@ Through all of his quests, he rewards 2,352,532,300 Honey. When doing the quests
 <li>Collect 275,000 Pollen from the <a href="cactus-field.html">Cactus Field</a>.</li>
 <li>Collect 275,000 Pollen from the Pineapple Field.</li></ul>
 </td>
-<td><span typeof="mw:Error mw:File"></span>500,000 <a href="honey.html"><span class="color-template color-template-honey">Honey</span></a><br/>
-<p><span typeof="mw:Error mw:File"></span>3 <a href="royal-jelly.html"><span class="color-template color-template-royal-jelly color-template-background-clip">Royal Jellies</span></a>
+<td><img alt="Honey" height="25" src="img/Honey.png" width="25"/>500,000 <a href="honey.html"><span class="color-template color-template-honey">Honey</span></a><br/>
+<p><img alt="Royal Jelly" height="25" src="img/Royal_Jelly.png" width="25"/>3 <a href="royal-jelly.html"><span class="color-template color-template-royal-jelly color-template-background-clip">Royal Jellies</span></a>
 </p>
 </td></tr>
 <tr>
@@ -444,8 +444,8 @@ Through all of his quests, he rewards 2,352,532,300 Honey. When doing the quests
 <li>Collect 500,000 Red Pollen.</li>
 <li>Collect 500,000 Blue Pollen.</li></ul>
 </td>
-<td><span typeof="mw:Error mw:File"></span>1,000,000 <a href="honey.html"><span class="color-template color-template-honey">Honey</span></a><br/>
-<p><span typeof="mw:Error mw:File"></span>1 <a href="egg.html#Diamond_Egg"><span class="color-template color-template-diamond-egg color-template-background-clip">Diamond Egg</span></a>
+<td><img alt="Honey" height="25" src="img/Honey.png" width="25"/>1,000,000 <a href="honey.html"><span class="color-template color-template-honey">Honey</span></a><br/>
+<p><img alt="Diamond Egg" height="25" src="img/Diamond_Egg.png" width="25"/>1 <a href="egg.html#Diamond_Egg"><span class="color-template color-template-diamond-egg color-template-background-clip">Diamond Egg</span></a>
 </p>
 </td></tr></tbody></table>
 
@@ -466,10 +466,10 @@ Through all of his quests, he rewards 2,352,532,300 Honey. When doing the quests
 <ul><li>Collect 500,000 <a href="pollen.html">Pollen</a> from the <a href="clover-field.html">Clover Field</a>.</li>
 <li>Collect 750,000 Pollen from the <a href="mountain-top-field.html">Mountain Top Field</a>.</li></ul>
 </td>
-<td><span typeof="mw:Error mw:File"></span>5 <a href="ticket.html"><span class="color-template color-template-ticket color-template-background-clip">Tickets</span></a><br/>
-<p><span typeof="mw:Error mw:File"></span>1 <a href="field-dice.html"><span class="color-template color-template-field-dice color-template-background-clip">Field Dice</span></a><br/>
-<span typeof="mw:Error mw:File"></span>650,000 <a href="honey.html"><span class="color-template color-template-honey">Honey</span></a><br/>
-<span typeof="mw:Error mw:File"></span>1 <a href="royal-jelly.html"><span class="color-template color-template-royal-jelly color-template-background-clip">Royal Jelly</span></a>
+<td><img alt="Ticket" height="25" src="img/Ticket.png" width="25"/>5 <a href="ticket.html"><span class="color-template color-template-ticket color-template-background-clip">Tickets</span></a><br/>
+<p><img alt="Field Dice" height="25" src="img/Field_Dice.png" width="25"/>1 <a href="field-dice.html"><span class="color-template color-template-field-dice color-template-background-clip">Field Dice</span></a><br/>
+<img alt="Honey" height="25" src="img/Honey.png" width="25"/>650,000 <a href="honey.html"><span class="color-template color-template-honey">Honey</span></a><br/>
+<img alt="Royal Jelly" height="25" src="img/Royal_Jelly.png" width="25"/>1 <a href="royal-jelly.html"><span class="color-template color-template-royal-jelly color-template-background-clip">Royal Jelly</span></a>
 </p>
 </td></tr>
 <tr>
@@ -481,10 +481,10 @@ Through all of his quests, he rewards 2,352,532,300 Honey. When doing the quests
 <li>Collect 500,000 Pollen from the <a href="blue-flower-field.html">Blue Flower Field</a>.</li>
 <li>Collect 50,000 Blue Pollen from the <a href="pineapple-patch.html">Pineapple Patch</a>.</li></ul>
 </td>
-<td><span typeof="mw:Error mw:File"></span>5 <a href="ticket.html"><span class="color-template color-template-ticket color-template-background-clip">Tickets</span></a><br/>
-<p><span typeof="mw:Error mw:File"></span>30 <a href="blueberry.html"><span class="color-template color-template-blueberry color-template-background-clip">Blueberries</span></a><br/>
-<span typeof="mw:Error mw:File"></span>700,000 <a href="honey.html"><span class="color-template color-template-honey">Honey</span></a><br/>
-<span typeof="mw:Error mw:File"></span>1 <a href="royal-jelly.html"><span class="color-template color-template-royal-jelly color-template-background-clip">Royal Jelly</span></a>
+<td><img alt="Ticket" height="25" src="img/Ticket.png" width="25"/>5 <a href="ticket.html"><span class="color-template color-template-ticket color-template-background-clip">Tickets</span></a><br/>
+<p><img alt="Blueberry" height="25" src="img/Blueberry.png" width="25"/>30 <a href="blueberry.html"><span class="color-template color-template-blueberry color-template-background-clip">Blueberries</span></a><br/>
+<img alt="Honey" height="25" src="img/Honey.png" width="25"/>700,000 <a href="honey.html"><span class="color-template color-template-honey">Honey</span></a><br/>
+<img alt="Royal Jelly" height="25" src="img/Royal_Jelly.png" width="25"/>1 <a href="royal-jelly.html"><span class="color-template color-template-royal-jelly color-template-background-clip">Royal Jelly</span></a>
 </p>
 </td></tr>
 <tr>
@@ -496,10 +496,10 @@ Through all of his quests, he rewards 2,352,532,300 Honey. When doing the quests
 <li>Collect 700,000 Pollen from the <a href="strawberry-field.html">Strawberry Field</a>.</li>
 <li>Collect 400,000 Red Pollen from the <a href="cactus-field.html">Cactus Field</a>.</li></ul>
 </td>
-<td><span typeof="mw:Error mw:File"></span>5 <a href="ticket.html"><span class="color-template color-template-ticket color-template-background-clip">Tickets</span></a><br/>
-<p><span typeof="mw:Error mw:File"></span>30 <a href="strawberry.html"><span class="color-template color-template-strawberry color-template-background-clip">Strawberries</span></a><br/>
-<span typeof="mw:Error mw:File"></span>750,000 <a href="honey.html"><span class="color-template color-template-honey">Honey</span></a><br/>
-<span typeof="mw:Error mw:File"></span>1 <a href="royal-jelly.html"><span class="color-template color-template-royal-jelly color-template-background-clip">Royal Jelly</span></a>
+<td><img alt="Ticket" height="25" src="img/Ticket.png" width="25"/>5 <a href="ticket.html"><span class="color-template color-template-ticket color-template-background-clip">Tickets</span></a><br/>
+<p><img alt="Strawberry" height="25" src="img/Strawberry.png" width="25"/>30 <a href="strawberry.html"><span class="color-template color-template-strawberry color-template-background-clip">Strawberries</span></a><br/>
+<img alt="Honey" height="25" src="img/Honey.png" width="25"/>750,000 <a href="honey.html"><span class="color-template color-template-honey">Honey</span></a><br/>
+<img alt="Royal Jelly" height="25" src="img/Royal_Jelly.png" width="25"/>1 <a href="royal-jelly.html"><span class="color-template color-template-royal-jelly color-template-background-clip">Royal Jelly</span></a>
 </p>
 </td></tr>
 <tr>
@@ -511,10 +511,10 @@ Through all of his quests, he rewards 2,352,532,300 Honey. When doing the quests
 <li>Collect 400,000 Pollen from the <a href="spider-field.html">Spider Field</a>.</li>
 <li>Collect 300,000 Pollen from the <a href="dandelion-field.html">Dandelion Field</a>.</li></ul>
 </td>
-<td><span typeof="mw:Error mw:File"></span>5 <a href="ticket.html"><span class="color-template color-template-ticket color-template-background-clip">Tickets</span></a><br/>
-<p><span typeof="mw:Error mw:File"></span>30 <a href="pineapple.html"><span class="color-template color-template-pineapple color-template-background-clip">Pineapples</span></a><br/>
-<span typeof="mw:Error mw:File"></span>800,000 <a href="honey.html"><span class="color-template color-template-honey">Honey</span></a><br/>
-<span typeof="mw:Error mw:File"></span>1 <a href="royal-jelly.html"><span class="color-template color-template-royal-jelly color-template-background-clip">Royal Jelly</span></a>
+<td><img alt="Ticket" height="25" src="img/Ticket.png" width="25"/>5 <a href="ticket.html"><span class="color-template color-template-ticket color-template-background-clip">Tickets</span></a><br/>
+<p><img alt="Pineapple" height="25" src="img/Pineapple.png" width="25"/>30 <a href="pineapple.html"><span class="color-template color-template-pineapple color-template-background-clip">Pineapples</span></a><br/>
+<img alt="Honey" height="25" src="img/Honey.png" width="25"/>800,000 <a href="honey.html"><span class="color-template color-template-honey">Honey</span></a><br/>
+<img alt="Royal Jelly" height="25" src="img/Royal_Jelly.png" width="25"/>1 <a href="royal-jelly.html"><span class="color-template color-template-royal-jelly color-template-background-clip">Royal Jelly</span></a>
 </p>
 </td></tr>
 <tr>
@@ -523,10 +523,10 @@ Through all of his quests, he rewards 2,352,532,300 Honey. When doing the quests
 <td>
 <ul><li>Collect 1,000,000 Pollen from the <a href="stump-field.html">Stump Field</a>.</li></ul>
 </td>
-<td><span typeof="mw:Error mw:File"></span>10 <a href="ticket.html"><span class="color-template color-template-ticket color-template-background-clip">Tickets</span></a><br/>
-<p><span typeof="mw:Error mw:File"></span>30 <a href="gumdrops.html"><span class="color-template color-template-gumdrops color-template-background-clip">Gumdrops</span></a><br/>
-<span typeof="mw:Error mw:File"></span>825,000 <a href="honey.html"><span class="color-template color-template-honey">Honey</span></a><br/>
-<span typeof="mw:Error mw:File"></span>1 <a href="royal-jelly.html"><span class="color-template color-template-royal-jelly color-template-background-clip">Royal Jelly</span></a>
+<td><img alt="Ticket" height="25" src="img/Ticket.png" width="25"/>10 <a href="ticket.html"><span class="color-template color-template-ticket color-template-background-clip">Tickets</span></a><br/>
+<p><img alt="Gumdrops" height="25" src="img/Gumdrops.png" width="25"/>30 <a href="gumdrops.html"><span class="color-template color-template-gumdrops color-template-background-clip">Gumdrops</span></a><br/>
+<img alt="Honey" height="25" src="img/Honey.png" width="25"/>825,000 <a href="honey.html"><span class="color-template color-template-honey">Honey</span></a><br/>
+<img alt="Royal Jelly" height="25" src="img/Royal_Jelly.png" width="25"/>1 <a href="royal-jelly.html"><span class="color-template color-template-royal-jelly color-template-background-clip">Royal Jelly</span></a>
 </p>
 </td></tr>
 <tr>
@@ -538,10 +538,10 @@ Through all of his quests, he rewards 2,352,532,300 Honey. When doing the quests
 <li>Collect 1,000,000 Pollen from the <a href="pine-tree-forest.html">Pine Tree Forest</a>.</li>
 <li>Collect 600,000 Pollen from the <a href="mushroom-field.html">Mushroom Field</a>.</li></ul>
 </td>
-<td><span typeof="mw:Error mw:File"></span>5 <a href="ticket.html"><span class="color-template color-template-ticket color-template-background-clip">Tickets</span></a><br/>
-<p><span typeof="mw:Error mw:File"></span>3 <a href="field-dice.html"><span class="color-template color-template-field-dice color-template-background-clip">Field Dice</span></a><br/>
-<span typeof="mw:Error mw:File"></span>850,000 <a href="honey.html"><span class="color-template color-template-honey">Honey</span></a><br/>
-<span typeof="mw:Error mw:File"></span>1 <a href="royal-jelly.html"><span class="color-template color-template-royal-jelly color-template-background-clip">Royal Jelly</span></a>
+<td><img alt="Ticket" height="25" src="img/Ticket.png" width="25"/>5 <a href="ticket.html"><span class="color-template color-template-ticket color-template-background-clip">Tickets</span></a><br/>
+<p><img alt="Field Dice" height="25" src="img/Field_Dice.png" width="25"/>3 <a href="field-dice.html"><span class="color-template color-template-field-dice color-template-background-clip">Field Dice</span></a><br/>
+<img alt="Honey" height="25" src="img/Honey.png" width="25"/>850,000 <a href="honey.html"><span class="color-template color-template-honey">Honey</span></a><br/>
+<img alt="Royal Jelly" height="25" src="img/Royal_Jelly.png" width="25"/>1 <a href="royal-jelly.html"><span class="color-template color-template-royal-jelly color-template-background-clip">Royal Jelly</span></a>
 </p>
 </td></tr>
 <tr>
@@ -550,10 +550,10 @@ Through all of his quests, he rewards 2,352,532,300 Honey. When doing the quests
 <td>
 <ul><li>Collect 2,000,000 Pollen from the <a href="pumpkin-patch.html">Pumpkin Patch</a>.</li></ul>
 </td>
-<td><span typeof="mw:Error mw:File"></span>5 <a href="ticket.html"><span class="color-template color-template-ticket color-template-background-clip">Tickets</span></a><br/>
-<p><span typeof="mw:Error mw:File"></span>1 <a href="magic-bean.html"><span class="color-template color-template-magic-bean color-template-background-clip">Magic Bean</span></a><br/>
-<span typeof="mw:Error mw:File"></span>875,000 <a href="honey.html"><span class="color-template color-template-honey">Honey</span></a><br/>
-<span typeof="mw:Error mw:File"></span>1 <a href="royal-jelly.html"><span class="color-template color-template-royal-jelly color-template-background-clip">Royal Jelly</span></a>
+<td><img alt="Ticket" height="25" src="img/Ticket.png" width="25"/>5 <a href="ticket.html"><span class="color-template color-template-ticket color-template-background-clip">Tickets</span></a><br/>
+<p><img alt="Magic Bean" height="25" src="img/Magic_Bean.png" width="25"/>1 <a href="magic-bean.html"><span class="color-template color-template-magic-bean color-template-background-clip">Magic Bean</span></a><br/>
+<img alt="Honey" height="25" src="img/Honey.png" width="25"/>875,000 <a href="honey.html"><span class="color-template color-template-honey">Honey</span></a><br/>
+<img alt="Royal Jelly" height="25" src="img/Royal_Jelly.png" width="25"/>1 <a href="royal-jelly.html"><span class="color-template color-template-royal-jelly color-template-background-clip">Royal Jelly</span></a>
 </p>
 </td></tr>
 <tr>
@@ -568,10 +568,10 @@ Through all of his quests, he rewards 2,352,532,300 Honey. When doing the quests
 <li>Collect 500,000 Pollen from the <a href="rose-field.html">Rose Field</a>.</li>
 <li>Collect 500,000 Pollen from the <a href="mountain-top-field.html">Mountain Top Field</a>.</li></ul>
 </td>
-<td><span typeof="mw:Error mw:File"></span>5 <a href="ticket.html"><span class="color-template color-template-ticket color-template-background-clip">Tickets</span></a><br/>
-<p><span typeof="mw:Error mw:File"></span>3 <a href="field-dice.html"><span class="color-template color-template-field-dice color-template-background-clip">Field Dice</span></a><br/>
-<span typeof="mw:Error mw:File"></span>1,000,000 <a href="honey.html"><span class="color-template color-template-honey">Honey</span></a><br/>
-<span typeof="mw:Error mw:File"></span>1 <a href="royal-jelly.html"><span class="color-template color-template-royal-jelly color-template-background-clip">Royal Jelly</span></a>
+<td><img alt="Ticket" height="25" src="img/Ticket.png" width="25"/>5 <a href="ticket.html"><span class="color-template color-template-ticket color-template-background-clip">Tickets</span></a><br/>
+<p><img alt="Field Dice" height="25" src="img/Field_Dice.png" width="25"/>3 <a href="field-dice.html"><span class="color-template color-template-field-dice color-template-background-clip">Field Dice</span></a><br/>
+<img alt="Honey" height="25" src="img/Honey.png" width="25"/>1,000,000 <a href="honey.html"><span class="color-template color-template-honey">Honey</span></a><br/>
+<img alt="Royal Jelly" height="25" src="img/Royal_Jelly.png" width="25"/>1 <a href="royal-jelly.html"><span class="color-template color-template-royal-jelly color-template-background-clip">Royal Jelly</span></a>
 </p>
 </td></tr>
 <tr>
@@ -580,10 +580,10 @@ Through all of his quests, he rewards 2,352,532,300 Honey. When doing the quests
 <td>
 <ul><li>Collect 6,000,000 Pollen.</li></ul>
 </td>
-<td><span typeof="mw:Error mw:File"></span>5 <a href="ticket.html"><span class="color-template color-template-ticket color-template-background-clip">Tickets</span></a><br/>
-<p><span typeof="mw:Error mw:File"></span>5 <a href="micro-converter.html"><span class="color-template color-template-micro-converter color-template-background-clip">Micro-Converters</span></a><br/>
-<span typeof="mw:Error mw:File"></span>1,150,000 <a href="honey.html"><span class="color-template color-template-honey">Honey</span></a><br/>
-<span typeof="mw:Error mw:File"></span>1 <a href="royal-jelly.html"><span class="color-template color-template-royal-jelly color-template-background-clip">Royal Jelly</span></a>
+<td><img alt="Ticket" height="25" src="img/Ticket.png" width="25"/>5 <a href="ticket.html"><span class="color-template color-template-ticket color-template-background-clip">Tickets</span></a><br/>
+<p><img alt="Micro-Converter" height="25" src="img/Micro-Converter.png" width="25"/>5 <a href="micro-converter.html"><span class="color-template color-template-micro-converter color-template-background-clip">Micro-Converters</span></a><br/>
+<img alt="Honey" height="25" src="img/Honey.png" width="25"/>1,150,000 <a href="honey.html"><span class="color-template color-template-honey">Honey</span></a><br/>
+<img alt="Royal Jelly" height="25" src="img/Royal_Jelly.png" width="25"/>1 <a href="royal-jelly.html"><span class="color-template color-template-royal-jelly color-template-background-clip">Royal Jelly</span></a>
 </p>
 </td></tr>
 <tr>
@@ -593,9 +593,9 @@ Through all of his quests, he rewards 2,352,532,300 Honey. When doing the quests
 <ul><li>Collect 3,000,000 White Pollen.</li>
 <li>Collect 3,000,000 Pollen from the <a href="clover-field.html">Clover Field</a>.</li></ul>
 </td>
-<td><span typeof="mw:Error mw:File"></span>5 <a href="ticket.html"><span class="color-template color-template-ticket color-template-background-clip">Tickets</span></a><br/>
-<p><span typeof="mw:Error mw:File"></span>1,250,000 <a href="honey.html"><span class="color-template color-template-honey">Honey</span></a><br/>
-<span typeof="mw:Error mw:File"></span>5 <a href="royal-jelly.html"><span class="color-template color-template-royal-jelly color-template-background-clip">Royal Jellies</span></a>
+<td><img alt="Ticket" height="25" src="img/Ticket.png" width="25"/>5 <a href="ticket.html"><span class="color-template color-template-ticket color-template-background-clip">Tickets</span></a><br/>
+<p><img alt="Honey" height="25" src="img/Honey.png" width="25"/>1,250,000 <a href="honey.html"><span class="color-template color-template-honey">Honey</span></a><br/>
+<img alt="Royal Jelly" height="25" src="img/Royal_Jelly.png" width="25"/>5 <a href="royal-jelly.html"><span class="color-template color-template-royal-jelly color-template-background-clip">Royal Jellies</span></a>
 </p>
 </td></tr>
 <tr>
@@ -604,10 +604,10 @@ Through all of his quests, he rewards 2,352,532,300 Honey. When doing the quests
 <td>
 <ul><li>Collect 6,000,000 Pollen from the <a href="strawberry-field.html">Strawberry Field</a>.</li></ul>
 </td>
-<td><span typeof="mw:Error mw:File"></span>5 <a href="ticket.html"><span class="color-template color-template-ticket color-template-background-clip">Tickets</span></a><br/>
-<p><span typeof="mw:Error mw:File"></span>60 <a href="strawberry.html"><span class="color-template color-template-strawberry color-template-background-clip">Strawberries</span></a><br/>
-<span typeof="mw:Error mw:File"></span>1,500,000 <a href="honey.html"><span class="color-template color-template-honey">Honey</span></a><br/>
-<span typeof="mw:Error mw:File"></span>1 <a href="royal-jelly.html"><span class="color-template color-template-royal-jelly color-template-background-clip">Royal Jelly</span></a>
+<td><img alt="Ticket" height="25" src="img/Ticket.png" width="25"/>5 <a href="ticket.html"><span class="color-template color-template-ticket color-template-background-clip">Tickets</span></a><br/>
+<p><img alt="Strawberry" height="25" src="img/Strawberry.png" width="25"/>60 <a href="strawberry.html"><span class="color-template color-template-strawberry color-template-background-clip">Strawberries</span></a><br/>
+<img alt="Honey" height="25" src="img/Honey.png" width="25"/>1,500,000 <a href="honey.html"><span class="color-template color-template-honey">Honey</span></a><br/>
+<img alt="Royal Jelly" height="25" src="img/Royal_Jelly.png" width="25"/>1 <a href="royal-jelly.html"><span class="color-template color-template-royal-jelly color-template-background-clip">Royal Jelly</span></a>
 </p>
 </td></tr>
 <tr>
@@ -618,10 +618,10 @@ Through all of his quests, he rewards 2,352,532,300 Honey. When doing the quests
 <li>Collect 3,000,000 Pollen from the <a href="mountain-top-field.html">Mountain Top Field</a>.</li>
 <li>Collect 1,000,000 Pollen from the <a href="sunflower-field.html">Sunflower Field</a>.</li></ul>
 </td>
-<td><span typeof="mw:Error mw:File"></span>5 <a href="ticket.html"><span class="color-template color-template-ticket color-template-background-clip">Tickets</span></a><br/>
-<p><span typeof="mw:Error mw:File"></span>60 <a href="sunflower-seed.html"><span class="color-template color-template-sunflower-seed color-template-background-clip">Sunflower Seeds</span></a><br/>
-<span typeof="mw:Error mw:File"></span>2,000,000 <a href="honey.html"><span class="color-template color-template-honey">Honey</span></a><br/>
-<span typeof="mw:Error mw:File"></span>1 <a href="royal-jelly.html"><span class="color-template color-template-royal-jelly color-template-background-clip">Royal Jelly</span></a>
+<td><img alt="Ticket" height="25" src="img/Ticket.png" width="25"/>5 <a href="ticket.html"><span class="color-template color-template-ticket color-template-background-clip">Tickets</span></a><br/>
+<p><img alt="Sunflower Seed" height="25" src="img/Sunflower_Seed.png" width="25"/>60 <a href="sunflower-seed.html"><span class="color-template color-template-sunflower-seed color-template-background-clip">Sunflower Seeds</span></a><br/>
+<img alt="Honey" height="25" src="img/Honey.png" width="25"/>2,000,000 <a href="honey.html"><span class="color-template color-template-honey">Honey</span></a><br/>
+<img alt="Royal Jelly" height="25" src="img/Royal_Jelly.png" width="25"/>1 <a href="royal-jelly.html"><span class="color-template color-template-royal-jelly color-template-background-clip">Royal Jelly</span></a>
 </p>
 </td></tr>
 <tr>
@@ -631,10 +631,10 @@ Through all of his quests, he rewards 2,352,532,300 Honey. When doing the quests
 <ul><li>Collect 4,750,000 Pollen from the <a href="cactus-field.html">Cactus Field</a>.</li>
 <li>Collect 1,500,000 Pollen from the <a href="dandelion-field.html">Dandelion Field</a>.</li></ul>
 </td>
-<td><span typeof="mw:Error mw:File"></span>5 <a href="ticket.html"><span class="color-template color-template-ticket color-template-background-clip">Tickets</span></a><br/>
-<p><span typeof="mw:Error mw:File"></span>5 <a href="micro-converter.html"><span class="color-template color-template-micro-converter color-template-background-clip">Micro-Converters</span></a><br/>
-<span typeof="mw:Error mw:File"></span>2,200,000 <a href="honey.html"><span class="color-template color-template-honey">Honey</span></a><br/>
-<span typeof="mw:Error mw:File"></span>1 <a href="royal-jelly.html"><span class="color-template color-template-royal-jelly color-template-background-clip">Royal Jelly</span></a>
+<td><img alt="Ticket" height="25" src="img/Ticket.png" width="25"/>5 <a href="ticket.html"><span class="color-template color-template-ticket color-template-background-clip">Tickets</span></a><br/>
+<p><img alt="Micro-Converter" height="25" src="img/Micro-Converter.png" width="25"/>5 <a href="micro-converter.html"><span class="color-template color-template-micro-converter color-template-background-clip">Micro-Converters</span></a><br/>
+<img alt="Honey" height="25" src="img/Honey.png" width="25"/>2,200,000 <a href="honey.html"><span class="color-template color-template-honey">Honey</span></a><br/>
+<img alt="Royal Jelly" height="25" src="img/Royal_Jelly.png" width="25"/>1 <a href="royal-jelly.html"><span class="color-template color-template-royal-jelly color-template-background-clip">Royal Jelly</span></a>
 </p>
 </td></tr>
 <tr>
@@ -644,10 +644,10 @@ Through all of his quests, he rewards 2,352,532,300 Honey. When doing the quests
 <ul><li>Collect 8,000,000 Pollen from the <a href="pine-tree-forest.html">Pine Tree Forest</a>.</li>
 <li>Collect 5,000,000 Pollen from the <a href="bamboo-field.html">Bamboo Field</a>.</li></ul>
 </td>
-<td><span typeof="mw:Error mw:File"></span>5 <a href="ticket.html"><span class="color-template color-template-ticket color-template-background-clip">Tickets</span></a><br/>
-<p><span typeof="mw:Error mw:File"></span>1 <a href="blue-extract.html"><span class="color-template color-template-blue-extract color-template-background-clip">Blue Extract</span></a><br/>
-<span typeof="mw:Error mw:File"></span>2,500,000 <a href="honey.html"><span class="color-template color-template-honey">Honey</span></a><br/>
-<span typeof="mw:Error mw:File"></span>1 <a href="royal-jelly.html"><span class="color-template color-template-royal-jelly color-template-background-clip">Royal Jelly</span></a>
+<td><img alt="Ticket" height="25" src="img/Ticket.png" width="25"/>5 <a href="ticket.html"><span class="color-template color-template-ticket color-template-background-clip">Tickets</span></a><br/>
+<p><img alt="Blue Extract" height="25" src="img/Blue_Extract.png" width="25"/>1 <a href="blue-extract.html"><span class="color-template color-template-blue-extract color-template-background-clip">Blue Extract</span></a><br/>
+<img alt="Honey" height="25" src="img/Honey.png" width="25"/>2,500,000 <a href="honey.html"><span class="color-template color-template-honey">Honey</span></a><br/>
+<img alt="Royal Jelly" height="25" src="img/Royal_Jelly.png" width="25"/>1 <a href="royal-jelly.html"><span class="color-template color-template-royal-jelly color-template-background-clip">Royal Jelly</span></a>
 </p>
 </td></tr>
 <tr>
@@ -658,11 +658,11 @@ Through all of his quests, he rewards 2,352,532,300 Honey. When doing the quests
 <li>Collect 4,000,000 Pollen from the <a href="clover-field.html">Clover Field</a>.</li>
 <li>Collect 1,500,000 Pollen from the <a href="stump-field.html">Stump Field</a>.</li></ul>
 </td>
-<td><span typeof="mw:Error mw:File"></span>5 <a href="ticket.html"><span class="color-template color-template-ticket color-template-background-clip">Tickets</span></a><br/>
-<p><span typeof="mw:Error mw:File"></span>100 <a href="treat.html"><span class="color-template color-template-treat">Treats</span></a><br/>
-<span typeof="mw:Error mw:File"></span>1 <a href="red-extract.html"><span class="color-template color-template-red-extract color-template-background-clip">Red Extract</span></a><br/>
-<span typeof="mw:Error mw:File"></span>2,800,000 <a href="honey.html"><span class="color-template color-template-honey">Honey</span></a><br/>
-<span typeof="mw:Error mw:File"></span>2 <a href="royal-jelly.html"><span class="color-template color-template-royal-jelly color-template-background-clip">Royal Jellies</span></a>
+<td><img alt="Ticket" height="25" src="img/Ticket.png" width="25"/>5 <a href="ticket.html"><span class="color-template color-template-ticket color-template-background-clip">Tickets</span></a><br/>
+<p><img alt="Treat" height="25" src="img/Treat.png" width="25"/>100 <a href="treat.html"><span class="color-template color-template-treat">Treats</span></a><br/>
+<img alt="Red Extract" height="25" src="img/Red_Extract.png" width="25"/>1 <a href="red-extract.html"><span class="color-template color-template-red-extract color-template-background-clip">Red Extract</span></a><br/>
+<img alt="Honey" height="25" src="img/Honey.png" width="25"/>2,800,000 <a href="honey.html"><span class="color-template color-template-honey">Honey</span></a><br/>
+<img alt="Royal Jelly" height="25" src="img/Royal_Jelly.png" width="25"/>2 <a href="royal-jelly.html"><span class="color-template color-template-royal-jelly color-template-background-clip">Royal Jellies</span></a>
 </p>
 </td></tr>
 <tr>
@@ -671,11 +671,11 @@ Through all of his quests, he rewards 2,352,532,300 Honey. When doing the quests
 <td>
 <ul><li>Collect 15,000,000 Pollen from the <a href="mountain-top-field.html">Mountain Top Field</a>.</li></ul>
 </td>
-<td><span typeof="mw:Error mw:File"></span>5 <a href="ticket.html"><span class="color-template color-template-ticket color-template-background-clip">Tickets</span></a><br/>
-<p><span typeof="mw:Error mw:File"></span>200 <a href="treat.html"><span class="color-template color-template-treat">Treats</span></a><br/>
-<span typeof="mw:Error mw:File"></span>5 <a href="field-dice.html"><span class="color-template color-template-field-dice color-template-background-clip">Field Dice</span></a><br/>
-<span typeof="mw:Error mw:File"></span>3,000,000 <a href="honey.html"><span class="color-template color-template-honey">Honey</span></a><br/>
-<span typeof="mw:Error mw:File"></span>2 <a href="royal-jelly.html"><span class="color-template color-template-royal-jelly color-template-background-clip">Royal Jellies</span></a>
+<td><img alt="Ticket" height="25" src="img/Ticket.png" width="25"/>5 <a href="ticket.html"><span class="color-template color-template-ticket color-template-background-clip">Tickets</span></a><br/>
+<p><img alt="Treat" height="25" src="img/Treat.png" width="25"/>200 <a href="treat.html"><span class="color-template color-template-treat">Treats</span></a><br/>
+<img alt="Field Dice" height="25" src="img/Field_Dice.png" width="25"/>5 <a href="field-dice.html"><span class="color-template color-template-field-dice color-template-background-clip">Field Dice</span></a><br/>
+<img alt="Honey" height="25" src="img/Honey.png" width="25"/>3,000,000 <a href="honey.html"><span class="color-template color-template-honey">Honey</span></a><br/>
+<img alt="Royal Jelly" height="25" src="img/Royal_Jelly.png" width="25"/>2 <a href="royal-jelly.html"><span class="color-template color-template-royal-jelly color-template-background-clip">Royal Jellies</span></a>
 </p>
 </td></tr>
 <tr>
@@ -685,11 +685,11 @@ Through all of his quests, he rewards 2,352,532,300 Honey. When doing the quests
 <ul><li>Collect 6,000,000 Pollen from the <a href="blue-flower-field.html">Blue Flower Field</a>.</li>
 <li>Collect 6,000,000 Pollen from the <a href="mushroom-field.html">Mushroom Field</a>.</li></ul>
 </td>
-<td><span typeof="mw:Error mw:File"></span>5 <a href="ticket.html"><span class="color-template color-template-ticket color-template-background-clip">Tickets</span></a><br/>
-<p><span typeof="mw:Error mw:File"></span>300 <a href="treat.html"><span class="color-template color-template-treat">Treats</span></a><br/>
-<span typeof="mw:Error mw:File"></span>5 <a href="micro-converter.html"><span class="color-template color-template-micro-converter color-template-background-clip">Micro-Converters</span></a><br/>
-<span typeof="mw:Error mw:File"></span>3,500,000 <a href="honey.html"><span class="color-template color-template-honey">Honey</span></a><br/>
-<span typeof="mw:Error mw:File"></span>2 <a href="royal-jelly.html"><span class="color-template color-template-royal-jelly color-template-background-clip">Royal Jellies</span></a>
+<td><img alt="Ticket" height="25" src="img/Ticket.png" width="25"/>5 <a href="ticket.html"><span class="color-template color-template-ticket color-template-background-clip">Tickets</span></a><br/>
+<p><img alt="Treat" height="25" src="img/Treat.png" width="25"/>300 <a href="treat.html"><span class="color-template color-template-treat">Treats</span></a><br/>
+<img alt="Micro-Converter" height="25" src="img/Micro-Converter.png" width="25"/>5 <a href="micro-converter.html"><span class="color-template color-template-micro-converter color-template-background-clip">Micro-Converters</span></a><br/>
+<img alt="Honey" height="25" src="img/Honey.png" width="25"/>3,500,000 <a href="honey.html"><span class="color-template color-template-honey">Honey</span></a><br/>
+<img alt="Royal Jelly" height="25" src="img/Royal_Jelly.png" width="25"/>2 <a href="royal-jelly.html"><span class="color-template color-template-royal-jelly color-template-background-clip">Royal Jellies</span></a>
 </p>
 </td></tr>
 <tr>
@@ -699,11 +699,11 @@ Through all of his quests, he rewards 2,352,532,300 Honey. When doing the quests
 <ul><li>Collect 10,000,000 Pollen from the <a href="pumpkin-patch.html">Pumpkin Patch</a>.</li>
 <li>Collect 12,500,000 Pollen from the <a href="rose-field.html">Rose Field</a>.</li></ul>
 </td>
-<td><span typeof="mw:Error mw:File"></span>5 <a href="ticket.html"><span class="color-template color-template-ticket color-template-background-clip">Tickets</span></a><br/>
-<p><span typeof="mw:Error mw:File"></span>400 <a href="treat.html"><span class="color-template color-template-treat">Treats</span></a><br/>
-<span typeof="mw:Error mw:File"></span>1 <a href="glitter.html"><span class="color-template color-template-glitter color-template-background-clip">Glitter</span></a><br/>
-<span typeof="mw:Error mw:File"></span>4,000,000 <a href="honey.html"><span class="color-template color-template-honey">Honey</span></a><br/>
-<span typeof="mw:Error mw:File"></span>2 <a href="royal-jelly.html"><span class="color-template color-template-royal-jelly color-template-background-clip">Royal Jellies</span></a>
+<td><img alt="Ticket" height="25" src="img/Ticket.png" width="25"/>5 <a href="ticket.html"><span class="color-template color-template-ticket color-template-background-clip">Tickets</span></a><br/>
+<p><img alt="Treat" height="25" src="img/Treat.png" width="25"/>400 <a href="treat.html"><span class="color-template color-template-treat">Treats</span></a><br/>
+<img alt="Glitter" height="25" src="img/Glitter.png" width="25"/>1 <a href="glitter.html"><span class="color-template color-template-glitter color-template-background-clip">Glitter</span></a><br/>
+<img alt="Honey" height="25" src="img/Honey.png" width="25"/>4,000,000 <a href="honey.html"><span class="color-template color-template-honey">Honey</span></a><br/>
+<img alt="Royal Jelly" height="25" src="img/Royal_Jelly.png" width="25"/>2 <a href="royal-jelly.html"><span class="color-template color-template-royal-jelly color-template-background-clip">Royal Jellies</span></a>
 </p>
 </td></tr>
 <tr>
@@ -716,11 +716,11 @@ Through all of his quests, he rewards 2,352,532,300 Honey. When doing the quests
 <li>Collect 6,000,000 Pollen from the <a href="spider-field.html">Spider Field</a>.</li>
 <li>Collect 4,000,000 Pollen from the <a href="clover-field.html">Clover Field</a>.</li></ul>
 </td>
-<td><span typeof="mw:Error mw:File"></span>5 <a href="ticket.html"><span class="color-template color-template-ticket color-template-background-clip">Tickets</span></a><br/>
-<p><span typeof="mw:Error mw:File"></span>500 <a href="treat.html"><span class="color-template color-template-treat">Treats</span></a><br/>
-<span typeof="mw:Error mw:File"></span>15 <a href="stinger.html"><span class="color-template color-template-stinger color-template-background-clip">Stingers</span></a><br/>
-<span typeof="mw:Error mw:File"></span>4,500,000 <a href="honey.html"><span class="color-template color-template-honey">Honey</span></a><br/>
-<span typeof="mw:Error mw:File"></span>2 <a href="royal-jelly.html"><span class="color-template color-template-royal-jelly color-template-background-clip">Royal Jellies</span></a>
+<td><img alt="Ticket" height="25" src="img/Ticket.png" width="25"/>5 <a href="ticket.html"><span class="color-template color-template-ticket color-template-background-clip">Tickets</span></a><br/>
+<p><img alt="Treat" height="25" src="img/Treat.png" width="25"/>500 <a href="treat.html"><span class="color-template color-template-treat">Treats</span></a><br/>
+<img alt="Stinger" height="25" src="img/Stinger.png" width="25"/>15 <a href="stinger.html"><span class="color-template color-template-stinger color-template-background-clip">Stingers</span></a><br/>
+<img alt="Honey" height="25" src="img/Honey.png" width="25"/>4,500,000 <a href="honey.html"><span class="color-template color-template-honey">Honey</span></a><br/>
+<img alt="Royal Jelly" height="25" src="img/Royal_Jelly.png" width="25"/>2 <a href="royal-jelly.html"><span class="color-template color-template-royal-jelly color-template-background-clip">Royal Jellies</span></a>
 </p>
 </td></tr>
 <tr>
@@ -735,10 +735,10 @@ Through all of his quests, he rewards 2,352,532,300 Honey. When doing the quests
 <li>Collect 3,000,000 Pollen from the <a href="pineapple-patch.html">Pineapple Patch</a>.</li>
 <li>Collect 3,000,000 Pollen from the <a href="sunflower-field.html">Sunflower Field</a>.</li></ul>
 </td>
-<td><span typeof="mw:Error mw:File"></span>5 <a href="ticket.html"><span class="color-template color-template-ticket color-template-background-clip">Tickets</span></a><br/>
-<p><span typeof="mw:Error mw:File"></span>1,000 <a href="treat.html"><span class="color-template color-template-treat">Treats</span></a><br/>
-<span typeof="mw:Error mw:File"></span>1 <a href="royal-jelly.html#Star_Jelly"><span class="color-template color-template-star-jelly color-template-background-clip">Star Jelly</span></a><br/>
-<span typeof="mw:Error mw:File"></span>5,000,000 <a href="honey.html"><span class="color-template color-template-honey">Honey</span></a>
+<td><img alt="Ticket" height="25" src="img/Ticket.png" width="25"/>5 <a href="ticket.html"><span class="color-template color-template-ticket color-template-background-clip">Tickets</span></a><br/>
+<p><img alt="Treat" height="25" src="img/Treat.png" width="25"/>1,000 <a href="treat.html"><span class="color-template color-template-treat">Treats</span></a><br/>
+<img alt="Star Jelly" height="25" src="img/Star_Jelly.png" width="25"/>1 <a href="royal-jelly.html#Star_Jelly"><span class="color-template color-template-star-jelly color-template-background-clip">Star Jelly</span></a><br/>
+<img alt="Honey" height="25" src="img/Honey.png" width="25"/>5,000,000 <a href="honey.html"><span class="color-template color-template-honey">Honey</span></a>
 </p>
 </td></tr></tbody></table>
 
@@ -758,12 +758,12 @@ Through all of his quests, he rewards 2,352,532,300 Honey. When doing the quests
 <td>
 <ul><li>Collect 30,000,000 <a href="pollen.html">Pollen</a> from the <a href="bamboo-field.html">Bamboo Field</a>.</li></ul>
 </td>
-<td><span typeof="mw:Error mw:File"></span>5 <a href="ticket.html"><span class="color-template color-template-ticket color-template-background-clip">Tickets</span></a><br/>
-<p><span typeof="mw:Error mw:File"></span>2,000 <a href="treat.html"><span class="color-template color-template-treat">Treats</span></a><br/>
-<span typeof="mw:Error mw:File"></span>3 <a href="field-dice.html"><span class="color-template color-template-field-dice color-template-background-clip">Field Dice</span></a><br/>
-<span typeof="mw:Error mw:File"></span>1 <a href="blue-extract.html"><span class="color-template color-template-blue-extract color-template-background-clip">Blue Extract</span></a><br/>
-<span typeof="mw:Error mw:File"></span>10,000,000 <a href="honey.html"><span class="color-template color-template-honey">Honey</span></a><br/>
-<span typeof="mw:Error mw:File"></span>3 <a href="royal-jelly.html"><span class="color-template color-template-royal-jelly color-template-background-clip">Royal Jellies</span></a>
+<td><img alt="Ticket" height="25" src="img/Ticket.png" width="25"/>5 <a href="ticket.html"><span class="color-template color-template-ticket color-template-background-clip">Tickets</span></a><br/>
+<p><img alt="Treat" height="25" src="img/Treat.png" width="25"/>2,000 <a href="treat.html"><span class="color-template color-template-treat">Treats</span></a><br/>
+<img alt="Field Dice" height="25" src="img/Field_Dice.png" width="25"/>3 <a href="field-dice.html"><span class="color-template color-template-field-dice color-template-background-clip">Field Dice</span></a><br/>
+<img alt="Blue Extract" height="25" src="img/Blue_Extract.png" width="25"/>1 <a href="blue-extract.html"><span class="color-template color-template-blue-extract color-template-background-clip">Blue Extract</span></a><br/>
+<img alt="Honey" height="25" src="img/Honey.png" width="25"/>10,000,000 <a href="honey.html"><span class="color-template color-template-honey">Honey</span></a><br/>
+<img alt="Royal Jelly" height="25" src="img/Royal_Jelly.png" width="25"/>3 <a href="royal-jelly.html"><span class="color-template color-template-royal-jelly color-template-background-clip">Royal Jellies</span></a>
 </p>
 </td></tr>
 <tr>
@@ -774,13 +774,13 @@ Through all of his quests, he rewards 2,352,532,300 Honey. When doing the quests
 <li>Collect 20,000,000 Pollen from the <a href="mountain-top-field.html">Mountain Top Field</a>.</li>
 <li>Collect 10,000,000 Pollen from the <a href="dandelion-field.html">Dandelion Field</a>.</li></ul>
 </td>
-<td><span typeof="mw:Error mw:File"></span>5 <a href="ticket.html"><span class="color-template color-template-ticket color-template-background-clip">Tickets</span></a><br/>
-<p><span typeof="mw:Error mw:File"></span>2,500 <a href="treat.html"><span class="color-template color-template-treat">Treats</span></a><br/>
-<span typeof="mw:Error mw:File"></span>1 <a href="magic-bean.html"><span class="color-template color-template-magic-bean color-template-background-clip">Magic Bean</span></a><br/>
-<span typeof="mw:Error mw:File"></span>25 <a href="sunflower-seed.html"><span class="color-template color-template-sunflower-seed color-template-background-clip">Sunflower Seeds</span></a><br/>
-<span typeof="mw:Error mw:File"></span>1 <a href="red-extract.html"><span class="color-template color-template-red-extract color-template-background-clip">Red Extract</span></a><br/>
-<span typeof="mw:Error mw:File"></span>12,500,000 <a href="honey.html"><span class="color-template color-template-honey">Honey</span></a><br/>
-<span typeof="mw:Error mw:File"></span>4 <a href="royal-jelly.html"><span class="color-template color-template-royal-jelly color-template-background-clip">Royal Jellies</span></a>
+<td><img alt="Ticket" height="25" src="img/Ticket.png" width="25"/>5 <a href="ticket.html"><span class="color-template color-template-ticket color-template-background-clip">Tickets</span></a><br/>
+<p><img alt="Treat" height="25" src="img/Treat.png" width="25"/>2,500 <a href="treat.html"><span class="color-template color-template-treat">Treats</span></a><br/>
+<img alt="Magic Bean" height="25" src="img/Magic_Bean.png" width="25"/>1 <a href="magic-bean.html"><span class="color-template color-template-magic-bean color-template-background-clip">Magic Bean</span></a><br/>
+<img alt="Sunflower Seed" height="25" src="img/Sunflower_Seed.png" width="25"/>25 <a href="sunflower-seed.html"><span class="color-template color-template-sunflower-seed color-template-background-clip">Sunflower Seeds</span></a><br/>
+<img alt="Red Extract" height="25" src="img/Red_Extract.png" width="25"/>1 <a href="red-extract.html"><span class="color-template color-template-red-extract color-template-background-clip">Red Extract</span></a><br/>
+<img alt="Honey" height="25" src="img/Honey.png" width="25"/>12,500,000 <a href="honey.html"><span class="color-template color-template-honey">Honey</span></a><br/>
+<img alt="Royal Jelly" height="25" src="img/Royal_Jelly.png" width="25"/>4 <a href="royal-jelly.html"><span class="color-template color-template-royal-jelly color-template-background-clip">Royal Jellies</span></a>
 </p>
 </td></tr>
 <tr>
@@ -790,12 +790,12 @@ Through all of his quests, he rewards 2,352,532,300 Honey. When doing the quests
 <ul><li>Collect 50,000,000 Pollen.</li>
 <li>Collect 2,500,000 Pollen from the <a href="ant-field.html">Ant Field</a>.</li></ul>
 </td>
-<td><span typeof="mw:Error mw:File"></span>5 <a href="ticket.html"><span class="color-template color-template-ticket color-template-background-clip">Tickets</span></a><br/>
-<p><span typeof="mw:Error mw:File"></span>2,500 <a href="treat.html"><span class="color-template color-template-treat">Treats</span></a><br/>
-<span typeof="mw:Error mw:File"></span>3 <a href="jelly-beans.html"><span class="color-template color-template-jelly-beans color-template-background-clip">Jelly Beans</span></a><br/>
-<span typeof="mw:Error mw:File"></span>3 <a href="ant-pass.html"><span class="color-template color-template-ant-pass color-template-background-clip">Ant Passes</span></a><br/>
-<span typeof="mw:Error mw:File"></span>15,000,000 <a href="honey.html"><span class="color-template color-template-honey">Honey</span></a><br/>
-<span typeof="mw:Error mw:File"></span>5 <a href="royal-jelly.html"><span class="color-template color-template-royal-jelly color-template-background-clip">Royal Jellies</span></a>
+<td><img alt="Ticket" height="25" src="img/Ticket.png" width="25"/>5 <a href="ticket.html"><span class="color-template color-template-ticket color-template-background-clip">Tickets</span></a><br/>
+<p><img alt="Treat" height="25" src="img/Treat.png" width="25"/>2,500 <a href="treat.html"><span class="color-template color-template-treat">Treats</span></a><br/>
+<img alt="Jelly Beans" height="25" src="img/Jelly_Beans.png" width="25"/>3 <a href="jelly-beans.html"><span class="color-template color-template-jelly-beans color-template-background-clip">Jelly Beans</span></a><br/>
+<img alt="Ant Pass" height="25" src="img/Ant_Pass.png" width="25"/>3 <a href="ant-pass.html"><span class="color-template color-template-ant-pass color-template-background-clip">Ant Passes</span></a><br/>
+<img alt="Honey" height="25" src="img/Honey.png" width="25"/>15,000,000 <a href="honey.html"><span class="color-template color-template-honey">Honey</span></a><br/>
+<img alt="Royal Jelly" height="25" src="img/Royal_Jelly.png" width="25"/>5 <a href="royal-jelly.html"><span class="color-template color-template-royal-jelly color-template-background-clip">Royal Jellies</span></a>
 </p>
 </td></tr>
 <tr>
@@ -807,12 +807,12 @@ Through all of his quests, he rewards 2,352,532,300 Honey. When doing the quests
 <li>Collect 15,000,000 Pollen from the <a href="pine-tree-forest.html">Pine Tree Forest</a>.</li>
 <li>Collect 15,000,000 Pollen from the <a href="rose-field.html">Rose Field</a>.</li></ul>
 </td>
-<td><span typeof="mw:Error mw:File"></span>5 <a href="ticket.html"><span class="color-template color-template-ticket color-template-background-clip">Tickets</span></a><br/>
-<p><span typeof="mw:Error mw:File"></span>3,000 <a href="treat.html"><span class="color-template color-template-treat">Treats</span></a><br/>
-<span typeof="mw:Error mw:File"></span>3 <a href="micro-converter.html"><span class="color-template color-template-micro-converter color-template-background-clip">Micro-Converters</span></a><br/>
-<span typeof="mw:Error mw:File"></span>1 <a href="enzymes.html"><span class="color-template color-template-enzymes color-template-background-clip">Enzymes</span></a><br/>
-<span typeof="mw:Error mw:File"></span>20,000,000 <a href="honey.html"><span class="color-template color-template-honey">Honey</span></a><br/>
-<span typeof="mw:Error mw:File"></span>6 <a href="royal-jelly.html"><span class="color-template color-template-royal-jelly color-template-background-clip">Royal Jellies</span></a>
+<td><img alt="Ticket" height="25" src="img/Ticket.png" width="25"/>5 <a href="ticket.html"><span class="color-template color-template-ticket color-template-background-clip">Tickets</span></a><br/>
+<p><img alt="Treat" height="25" src="img/Treat.png" width="25"/>3,000 <a href="treat.html"><span class="color-template color-template-treat">Treats</span></a><br/>
+<img alt="Micro-Converter" height="25" src="img/Micro-Converter.png" width="25"/>3 <a href="micro-converter.html"><span class="color-template color-template-micro-converter color-template-background-clip">Micro-Converters</span></a><br/>
+<img alt="Enzymes" height="25" src="img/Enzymes.png" width="25"/>1 <a href="enzymes.html"><span class="color-template color-template-enzymes color-template-background-clip">Enzymes</span></a><br/>
+<img alt="Honey" height="25" src="img/Honey.png" width="25"/>20,000,000 <a href="honey.html"><span class="color-template color-template-honey">Honey</span></a><br/>
+<img alt="Royal Jelly" height="25" src="img/Royal_Jelly.png" width="25"/>6 <a href="royal-jelly.html"><span class="color-template color-template-royal-jelly color-template-background-clip">Royal Jellies</span></a>
 </p>
 </td></tr>
 <tr>
@@ -823,12 +823,12 @@ Through all of his quests, he rewards 2,352,532,300 Honey. When doing the quests
 <li>Collect 10,000,000 Pollen from the <a href="stump-field.html">Stump Field</a>.</li>
 <li>Collect 10,000,000 Pollen from the <a href="blue-flower-field.html">Blue Flower Field</a>.</li></ul>
 </td>
-<td><span typeof="mw:Error mw:File"></span>5 <a href="ticket.html"><span class="color-template color-template-ticket color-template-background-clip">Tickets</span></a><br/>
-<p><span typeof="mw:Error mw:File"></span>3,500 <a href="treat.html"><span class="color-template color-template-treat">Treats</span></a><br/>
-<span typeof="mw:Error mw:File"></span>75 <a href="blueberry.html"><span class="color-template color-template-blueberry color-template-background-clip">Blueberries</span></a><br/>
-<span typeof="mw:Error mw:File"></span>1 <a href="box-o-frogs.html"><span class="color-template color-template-box-o-frogs color-template-background-clip">Box-O-Frogs</span></a><br/>
-<span typeof="mw:Error mw:File"></span>1 <a href="royal-jelly.html#Star_Jelly"><span class="color-template color-template-star-jelly color-template-background-clip">Star Jelly</span></a><br/>
-<span typeof="mw:Error mw:File"></span>25,000,000 <a href="honey.html"><span class="color-template color-template-honey">Honey</span></a>
+<td><img alt="Ticket" height="25" src="img/Ticket.png" width="25"/>5 <a href="ticket.html"><span class="color-template color-template-ticket color-template-background-clip">Tickets</span></a><br/>
+<p><img alt="Treat" height="25" src="img/Treat.png" width="25"/>3,500 <a href="treat.html"><span class="color-template color-template-treat">Treats</span></a><br/>
+<img alt="Blueberry" height="25" src="img/Blueberry.png" width="25"/>75 <a href="blueberry.html"><span class="color-template color-template-blueberry color-template-background-clip">Blueberries</span></a><br/>
+<img alt="Box-O-Frogs" height="25" src="img/Box-O-Frogs.png" width="25"/>1 <a href="box-o-frogs.html"><span class="color-template color-template-box-o-frogs color-template-background-clip">Box-O-Frogs</span></a><br/>
+<img alt="Star Jelly" height="25" src="img/Star_Jelly.png" width="25"/>1 <a href="royal-jelly.html#Star_Jelly"><span class="color-template color-template-star-jelly color-template-background-clip">Star Jelly</span></a><br/>
+<img alt="Honey" height="25" src="img/Honey.png" width="25"/>25,000,000 <a href="honey.html"><span class="color-template color-template-honey">Honey</span></a>
 </p>
 </td></tr>
 <tr>
@@ -838,12 +838,12 @@ Through all of his quests, he rewards 2,352,532,300 Honey. When doing the quests
 <ul><li>Collect 60,000,000 Pollen from the <a href="pineapple-patch.html">Pineapple Patch</a>.</li>
 <li>Collect 30,000,000 Pollen from the <a href="mushroom-field.html">Mushroom Field</a>.</li></ul>
 </td>
-<td><span typeof="mw:Error mw:File"></span>5 <a href="ticket.html"><span class="color-template color-template-ticket color-template-background-clip">Tickets</span></a><br/>
-<p><span typeof="mw:Error mw:File"></span>4,000 <a href="treat.html"><span class="color-template color-template-treat">Treats</span></a><br/>
-<span typeof="mw:Error mw:File"></span>25 <a href="gumdrops.html"><span class="color-template color-template-gumdrops color-template-background-clip">Gumdrops</span></a><br/>
-<span typeof="mw:Error mw:File"></span>25 <a href="bitterberry.html"><span class="color-template color-template-bitterberry color-template-background-clip">Bitterberries</span></a><br/>
-<span typeof="mw:Error mw:File"></span>30,000,000 <a href="honey.html"><span class="color-template color-template-honey">Honey</span></a><br/>
-<span typeof="mw:Error mw:File"></span>8 <a href="royal-jelly.html"><span class="color-template color-template-royal-jelly color-template-background-clip">Royal Jellies</span></a>
+<td><img alt="Ticket" height="25" src="img/Ticket.png" width="25"/>5 <a href="ticket.html"><span class="color-template color-template-ticket color-template-background-clip">Tickets</span></a><br/>
+<p><img alt="Treat" height="25" src="img/Treat.png" width="25"/>4,000 <a href="treat.html"><span class="color-template color-template-treat">Treats</span></a><br/>
+<img alt="Gumdrops" height="25" src="img/Gumdrops.png" width="25"/>25 <a href="gumdrops.html"><span class="color-template color-template-gumdrops color-template-background-clip">Gumdrops</span></a><br/>
+<img alt="Bitterberry" height="25" src="img/Bitterberry.png" width="25"/>25 <a href="bitterberry.html"><span class="color-template color-template-bitterberry color-template-background-clip">Bitterberries</span></a><br/>
+<img alt="Honey" height="25" src="img/Honey.png" width="25"/>30,000,000 <a href="honey.html"><span class="color-template color-template-honey">Honey</span></a><br/>
+<img alt="Royal Jelly" height="25" src="img/Royal_Jelly.png" width="25"/>8 <a href="royal-jelly.html"><span class="color-template color-template-royal-jelly color-template-background-clip">Royal Jellies</span></a>
 </p>
 </td></tr>
 <tr>
@@ -853,13 +853,13 @@ Through all of his quests, he rewards 2,352,532,300 Honey. When doing the quests
 <ul><li>Collect 120,000,000 Red Pollen.</li>
 <li>Collect 40,000,000 Pollen from the <a href="clover-field.html">Clover Field</a>.</li></ul>
 </td>
-<td><span typeof="mw:Error mw:File"></span>5 <a href="ticket.html"><span class="color-template color-template-ticket color-template-background-clip">Tickets</span></a><br/>
-<p><span typeof="mw:Error mw:File"></span>4,500 <a href="treat.html"><span class="color-template color-template-treat">Treats</span></a><br/>
-<span typeof="mw:Error mw:File"></span>1 <a href="magic-bean.html"><span class="color-template color-template-magic-bean color-template-background-clip">Magic Bean</span></a><br/>
-<span typeof="mw:Error mw:File"></span>25 <a href="moon-charm.html"><span class="color-template color-template-moon-charm color-template-background-clip">Moon Charms</span></a><br/>
-<span typeof="mw:Error mw:File"></span>75 <a href="strawberry.html"><span class="color-template color-template-strawberry color-template-background-clip">Strawberries</span></a><br/>
-<span typeof="mw:Error mw:File"></span>40,000,000 <a href="honey.html"><span class="color-template color-template-honey">Honey</span></a><br/>
-<span typeof="mw:Error mw:File"></span>9 <a href="royal-jelly.html"><span class="color-template color-template-royal-jelly color-template-background-clip">Royal Jellies</span></a>
+<td><img alt="Ticket" height="25" src="img/Ticket.png" width="25"/>5 <a href="ticket.html"><span class="color-template color-template-ticket color-template-background-clip">Tickets</span></a><br/>
+<p><img alt="Treat" height="25" src="img/Treat.png" width="25"/>4,500 <a href="treat.html"><span class="color-template color-template-treat">Treats</span></a><br/>
+<img alt="Magic Bean" height="25" src="img/Magic_Bean.png" width="25"/>1 <a href="magic-bean.html"><span class="color-template color-template-magic-bean color-template-background-clip">Magic Bean</span></a><br/>
+<img alt="Moon Charm" height="25" src="img/Moon_Charm.png" width="25"/>25 <a href="moon-charm.html"><span class="color-template color-template-moon-charm color-template-background-clip">Moon Charms</span></a><br/>
+<img alt="Strawberry" height="25" src="img/Strawberry.png" width="25"/>75 <a href="strawberry.html"><span class="color-template color-template-strawberry color-template-background-clip">Strawberries</span></a><br/>
+<img alt="Honey" height="25" src="img/Honey.png" width="25"/>40,000,000 <a href="honey.html"><span class="color-template color-template-honey">Honey</span></a><br/>
+<img alt="Royal Jelly" height="25" src="img/Royal_Jelly.png" width="25"/>9 <a href="royal-jelly.html"><span class="color-template color-template-royal-jelly color-template-background-clip">Royal Jellies</span></a>
 </p>
 </td></tr>
 <tr>
@@ -875,13 +875,13 @@ Through all of his quests, he rewards 2,352,532,300 Honey. When doing the quests
 <li>Collect 12,000,000 Pollen from the <a href="dandelion-field.html">Dandelion Field</a>.</li>
 <li>Collect 12,000,000 Pollen from the <a href="sunflower-field.html">Sunflower Field</a>.</li></ul>
 </td>
-<td><span typeof="mw:Error mw:File"></span>5 <a href="ticket.html"><span class="color-template color-template-ticket color-template-background-clip">Tickets</span></a><br/>
-<p><span typeof="mw:Error mw:File"></span>5,000 <a href="treat.html"><span class="color-template color-template-treat">Treats</span></a><br/>
-<span typeof="mw:Error mw:File"></span>5 <a href="field-dice.html"><span class="color-template color-template-field-dice color-template-background-clip">Field Dice</span></a><br/>
-<span typeof="mw:Error mw:File"></span>75 <a href="pineapple.html"><span class="color-template color-template-pineapple color-template-background-clip">Pineapples</span></a><br/>
-<span typeof="mw:Error mw:File"></span>3 <a href="jelly-beans.html"><span class="color-template color-template-jelly-beans color-template-background-clip">Jelly Beans</span></a><br/>
-<span typeof="mw:Error mw:File"></span>50,000,000 <a href="honey.html"><span class="color-template color-template-honey">Honey</span></a><br/>
-<span typeof="mw:Error mw:File"></span>10 <a href="royal-jelly.html"><span class="color-template color-template-royal-jelly color-template-background-clip">Royal Jellies</span></a>
+<td><img alt="Ticket" height="25" src="img/Ticket.png" width="25"/>5 <a href="ticket.html"><span class="color-template color-template-ticket color-template-background-clip">Tickets</span></a><br/>
+<p><img alt="Treat" height="25" src="img/Treat.png" width="25"/>5,000 <a href="treat.html"><span class="color-template color-template-treat">Treats</span></a><br/>
+<img alt="Field Dice" height="25" src="img/Field_Dice.png" width="25"/>5 <a href="field-dice.html"><span class="color-template color-template-field-dice color-template-background-clip">Field Dice</span></a><br/>
+<img alt="Pineapple" height="25" src="img/Pineapple.png" width="25"/>75 <a href="pineapple.html"><span class="color-template color-template-pineapple color-template-background-clip">Pineapples</span></a><br/>
+<img alt="Jelly Beans" height="25" src="img/Jelly_Beans.png" width="25"/>3 <a href="jelly-beans.html"><span class="color-template color-template-jelly-beans color-template-background-clip">Jelly Beans</span></a><br/>
+<img alt="Honey" height="25" src="img/Honey.png" width="25"/>50,000,000 <a href="honey.html"><span class="color-template color-template-honey">Honey</span></a><br/>
+<img alt="Royal Jelly" height="25" src="img/Royal_Jelly.png" width="25"/>10 <a href="royal-jelly.html"><span class="color-template color-template-royal-jelly color-template-background-clip">Royal Jellies</span></a>
 </p>
 </td></tr>
 <tr>
@@ -892,13 +892,13 @@ Through all of his quests, he rewards 2,352,532,300 Honey. When doing the quests
 <li>Collect 50,000,000 Pollen from the <a href="rose-field.html">Rose Field</a>.</li>
 <li>Collect 50,000,000 Pollen from the <a href="cactus-field.html">Cactus Field</a>.</li></ul>
 </td>
-<td><span typeof="mw:Error mw:File"></span>5 <a href="ticket.html"><span class="color-template color-template-ticket color-template-background-clip">Tickets</span></a><br/>
-<p><span typeof="mw:Error mw:File"></span>6,000 <a href="treat.html"><span class="color-template color-template-treat">Treats</span></a><br/>
-<span typeof="mw:Error mw:File"></span>5 <a href="stinger.html"><span class="color-template color-template-stinger color-template-background-clip">Stingers</span></a><br/>
-<span typeof="mw:Error mw:File"></span>1 <a href="magic-bean.html"><span class="color-template color-template-magic-bean color-template-background-clip">Magic Bean</span></a><br/>
-<span typeof="mw:Error mw:File"></span>10 <a href="coconut.html"><span class="color-template color-template-coconut color-template-background-clip">Coconuts</span></a><br/>
-<span typeof="mw:Error mw:File"></span>60,000,000 <a href="honey.html"><span class="color-template color-template-honey">Honey</span></a><br/>
-<span typeof="mw:Error mw:File"></span>10 <a href="royal-jelly.html"><span class="color-template color-template-royal-jelly color-template-background-clip">Royal Jellies</span></a>
+<td><img alt="Ticket" height="25" src="img/Ticket.png" width="25"/>5 <a href="ticket.html"><span class="color-template color-template-ticket color-template-background-clip">Tickets</span></a><br/>
+<p><img alt="Treat" height="25" src="img/Treat.png" width="25"/>6,000 <a href="treat.html"><span class="color-template color-template-treat">Treats</span></a><br/>
+<img alt="Stinger" height="25" src="img/Stinger.png" width="25"/>5 <a href="stinger.html"><span class="color-template color-template-stinger color-template-background-clip">Stingers</span></a><br/>
+<img alt="Magic Bean" height="25" src="img/Magic_Bean.png" width="25"/>1 <a href="magic-bean.html"><span class="color-template color-template-magic-bean color-template-background-clip">Magic Bean</span></a><br/>
+<img alt="Coconut" height="25" src="img/Coconut.png" width="25"/>10 <a href="coconut.html"><span class="color-template color-template-coconut color-template-background-clip">Coconuts</span></a><br/>
+<img alt="Honey" height="25" src="img/Honey.png" width="25"/>60,000,000 <a href="honey.html"><span class="color-template color-template-honey">Honey</span></a><br/>
+<img alt="Royal Jelly" height="25" src="img/Royal_Jelly.png" width="25"/>10 <a href="royal-jelly.html"><span class="color-template color-template-royal-jelly color-template-background-clip">Royal Jellies</span></a>
 </p>
 </td></tr>
 <tr>
@@ -907,12 +907,12 @@ Through all of his quests, he rewards 2,352,532,300 Honey. When doing the quests
 <td>
 <ul><li>Collect 250,000,000 <a href="pollen.html">Pollen</a>.</li></ul>
 </td>
-<td><span typeof="mw:Error mw:File"></span>5 <a href="ticket.html"><span class="color-template color-template-ticket color-template-background-clip">Tickets</span></a><br/>
-<p><span typeof="mw:Error mw:File"></span>7,500 <a href="treat.html"><span class="color-template color-template-treat">Treats</span></a><br/>
-<span typeof="mw:Error mw:File"></span>75 <a href="sunflower-seed.html"><span class="color-template color-template-sunflower-seed color-template-background-clip">Sunflower Seeds</span></a><br/>
-<span typeof="mw:Error mw:File"></span>75 <a href="pineapple.html"><span class="color-template color-template-pineapple color-template-background-clip">Pineapples</span></a><br/>
-<span typeof="mw:Error mw:File"></span>1 <a href="royal-jelly.html#Star_Jelly"><span class="color-template color-template-star-jelly color-template-background-clip">Star Jelly</span></a><br/>
-<span typeof="mw:Error mw:File"></span>75,000,000 <a href="honey.html"><span class="color-template color-template-honey">Honey</span></a>
+<td><img alt="Ticket" height="25" src="img/Ticket.png" width="25"/>5 <a href="ticket.html"><span class="color-template color-template-ticket color-template-background-clip">Tickets</span></a><br/>
+<p><img alt="Treat" height="25" src="img/Treat.png" width="25"/>7,500 <a href="treat.html"><span class="color-template color-template-treat">Treats</span></a><br/>
+<img alt="Sunflower Seed" height="25" src="img/Sunflower_Seed.png" width="25"/>75 <a href="sunflower-seed.html"><span class="color-template color-template-sunflower-seed color-template-background-clip">Sunflower Seeds</span></a><br/>
+<img alt="Pineapple" height="25" src="img/Pineapple.png" width="25"/>75 <a href="pineapple.html"><span class="color-template color-template-pineapple color-template-background-clip">Pineapples</span></a><br/>
+<img alt="Star Jelly" height="25" src="img/Star_Jelly.png" width="25"/>1 <a href="royal-jelly.html#Star_Jelly"><span class="color-template color-template-star-jelly color-template-background-clip">Star Jelly</span></a><br/>
+<img alt="Honey" height="25" src="img/Honey.png" width="25"/>75,000,000 <a href="honey.html"><span class="color-template color-template-honey">Honey</span></a>
 </p>
 </td></tr>
 <tr>
@@ -923,13 +923,13 @@ Through all of his quests, he rewards 2,352,532,300 Honey. When doing the quests
 <li>Collect 50,000,000 Pollen from the <a href="spider-field.html">Spider Field</a>.</li>
 <li>Collect 20,000,000 Pollen from the <a href="dandelion-field.html">Dandelion Field</a>.</li></ul>
 </td>
-<td><span typeof="mw:Error mw:File"></span>5 <a href="ticket.html"><span class="color-template color-template-ticket color-template-background-clip">Tickets</span></a><br/>
-<p><span typeof="mw:Error mw:File"></span>8,000 <a href="treat.html"><span class="color-template color-template-treat">Treats</span></a><br/>
-<span typeof="mw:Error mw:File"></span>1 <a href="magic-bean.html"><span class="color-template color-template-magic-bean color-template-background-clip">Magic Bean</span></a><br/>
-<span typeof="mw:Error mw:File"></span>5 <a href="micro-converter.html"><span class="color-template color-template-micro-converter color-template-background-clip">Micro-Converters</span></a><br/>
-<span typeof="mw:Error mw:File"></span>1 <a href="red-extract.html"><span class="color-template color-template-red-extract color-template-background-clip">Red Extract</span></a><br/>
-<span typeof="mw:Error mw:File"></span>80,000,000 <a href="honey.html"><span class="color-template color-template-honey">Honey</span></a><br/>
-<span typeof="mw:Error mw:File"></span>10 <a href="royal-jelly.html"><span class="color-template color-template-royal-jelly color-template-background-clip">Royal Jellies</span></a>
+<td><img alt="Ticket" height="25" src="img/Ticket.png" width="25"/>5 <a href="ticket.html"><span class="color-template color-template-ticket color-template-background-clip">Tickets</span></a><br/>
+<p><img alt="Treat" height="25" src="img/Treat.png" width="25"/>8,000 <a href="treat.html"><span class="color-template color-template-treat">Treats</span></a><br/>
+<img alt="Magic Bean" height="25" src="img/Magic_Bean.png" width="25"/>1 <a href="magic-bean.html"><span class="color-template color-template-magic-bean color-template-background-clip">Magic Bean</span></a><br/>
+<img alt="Micro-Converter" height="25" src="img/Micro-Converter.png" width="25"/>5 <a href="micro-converter.html"><span class="color-template color-template-micro-converter color-template-background-clip">Micro-Converters</span></a><br/>
+<img alt="Red Extract" height="25" src="img/Red_Extract.png" width="25"/>1 <a href="red-extract.html"><span class="color-template color-template-red-extract color-template-background-clip">Red Extract</span></a><br/>
+<img alt="Honey" height="25" src="img/Honey.png" width="25"/>80,000,000 <a href="honey.html"><span class="color-template color-template-honey">Honey</span></a><br/>
+<img alt="Royal Jelly" height="25" src="img/Royal_Jelly.png" width="25"/>10 <a href="royal-jelly.html"><span class="color-template color-template-royal-jelly color-template-background-clip">Royal Jellies</span></a>
 </p>
 </td></tr>
 <tr>
@@ -940,13 +940,13 @@ Through all of his quests, he rewards 2,352,532,300 Honey. When doing the quests
 <li>Collect 200,000,000 Blue Pollen.</li>
 <li>Collect 200,000,000 Pollen from the <a href="mountain-top-field.html">Mountain Top Field</a>.</li></ul>
 </td>
-<td><span typeof="mw:Error mw:File"></span>5 <a href="ticket.html"><span class="color-template color-template-ticket color-template-background-clip">Tickets</span></a><br/>
-<p><span typeof="mw:Error mw:File"></span>9,000 <a href="treat.html"><span class="color-template color-template-treat">Treats</span></a><br/>
-<span typeof="mw:Error mw:File"></span>1 <a href="magic-bean.html"><span class="color-template color-template-magic-bean color-template-background-clip">Magic Bean</span></a><br/>
-<span typeof="mw:Error mw:File"></span>3 <a href="jelly-beans.html"><span class="color-template color-template-jelly-beans color-template-background-clip">Jelly Beans</span></a><br/>
-<span typeof="mw:Error mw:File"></span>1 <a href="purple-potion.html"><span class="color-template color-template-purple-potion color-template-background-clip">Purple Potion</span></a><br/>
-<span typeof="mw:Error mw:File"></span>90,000,000 <a href="honey.html"><span class="color-template color-template-honey">Honey</span></a><br/>
-<span typeof="mw:Error mw:File"></span>10 <a href="royal-jelly.html"><span class="color-template color-template-royal-jelly color-template-background-clip">Royal Jellies</span></a>
+<td><img alt="Ticket" height="25" src="img/Ticket.png" width="25"/>5 <a href="ticket.html"><span class="color-template color-template-ticket color-template-background-clip">Tickets</span></a><br/>
+<p><img alt="Treat" height="25" src="img/Treat.png" width="25"/>9,000 <a href="treat.html"><span class="color-template color-template-treat">Treats</span></a><br/>
+<img alt="Magic Bean" height="25" src="img/Magic_Bean.png" width="25"/>1 <a href="magic-bean.html"><span class="color-template color-template-magic-bean color-template-background-clip">Magic Bean</span></a><br/>
+<img alt="Jelly Beans" height="25" src="img/Jelly_Beans.png" width="25"/>3 <a href="jelly-beans.html"><span class="color-template color-template-jelly-beans color-template-background-clip">Jelly Beans</span></a><br/>
+<img alt="Purple Potion" height="25" src="img/Purple_Potion.png" width="25"/>1 <a href="purple-potion.html"><span class="color-template color-template-purple-potion color-template-background-clip">Purple Potion</span></a><br/>
+<img alt="Honey" height="25" src="img/Honey.png" width="25"/>90,000,000 <a href="honey.html"><span class="color-template color-template-honey">Honey</span></a><br/>
+<img alt="Royal Jelly" height="25" src="img/Royal_Jelly.png" width="25"/>10 <a href="royal-jelly.html"><span class="color-template color-template-royal-jelly color-template-background-clip">Royal Jellies</span></a>
 </p>
 </td></tr>
 <tr>
@@ -957,13 +957,13 @@ Through all of his quests, he rewards 2,352,532,300 Honey. When doing the quests
 <li>Collect 50,000,000 Pollen from the <a href="blue-flower-field.html">Blue Flower Field</a>.</li>
 <li>Collect 10,000,000 Pollen from the <a href="ant-field.html">Ant Field</a>.</li></ul>
 </td>
-<td><span typeof="mw:Error mw:File"></span>5 <a href="ticket.html"><span class="color-template color-template-ticket color-template-background-clip">Tickets</span></a><br/>
-<p><span typeof="mw:Error mw:File"></span>10,000 <a href="treat.html"><span class="color-template color-template-treat">Treats</span></a><br/>
-<span typeof="mw:Error mw:File"></span>5 <a href="jelly-beans.html"><span class="color-template color-template-jelly-beans color-template-background-clip">Jelly Beans</span></a><br/>
-<span typeof="mw:Error mw:File"></span>25 <a href="blueberry.html"><span class="color-template color-template-blueberry color-template-background-clip">Blueberries</span></a><br/>
-<span typeof="mw:Error mw:File"></span>1 <a href="blue-extract.html"><span class="color-template color-template-blue-extract color-template-background-clip">Blue Extract</span></a><br/>
-<span typeof="mw:Error mw:File"></span>100,000,000 <a href="honey.html"><span class="color-template color-template-honey">Honey</span></a><br/>
-<span typeof="mw:Error mw:File"></span>10 <a href="royal-jelly.html"><span class="color-template color-template-royal-jelly color-template-background-clip">Royal Jellies</span></a>
+<td><img alt="Ticket" height="25" src="img/Ticket.png" width="25"/>5 <a href="ticket.html"><span class="color-template color-template-ticket color-template-background-clip">Tickets</span></a><br/>
+<p><img alt="Treat" height="25" src="img/Treat.png" width="25"/>10,000 <a href="treat.html"><span class="color-template color-template-treat">Treats</span></a><br/>
+<img alt="Jelly Beans" height="25" src="img/Jelly_Beans.png" width="25"/>5 <a href="jelly-beans.html"><span class="color-template color-template-jelly-beans color-template-background-clip">Jelly Beans</span></a><br/>
+<img alt="Blueberry" height="25" src="img/Blueberry.png" width="25"/>25 <a href="blueberry.html"><span class="color-template color-template-blueberry color-template-background-clip">Blueberries</span></a><br/>
+<img alt="Blue Extract" height="25" src="img/Blue_Extract.png" width="25"/>1 <a href="blue-extract.html"><span class="color-template color-template-blue-extract color-template-background-clip">Blue Extract</span></a><br/>
+<img alt="Honey" height="25" src="img/Honey.png" width="25"/>100,000,000 <a href="honey.html"><span class="color-template color-template-honey">Honey</span></a><br/>
+<img alt="Royal Jelly" height="25" src="img/Royal_Jelly.png" width="25"/>10 <a href="royal-jelly.html"><span class="color-template color-template-royal-jelly color-template-background-clip">Royal Jellies</span></a>
 </p>
 </td></tr>
 <tr>
@@ -975,13 +975,13 @@ Through all of his quests, he rewards 2,352,532,300 Honey. When doing the quests
 <li>Collect 100,000,000 Pollen from the <a href="strawberry-field.html">Strawberry Field</a>.</li>
 <li>Collect 100,000,000 Pollen from the <a href="pine-tree-forest.html">Pine Tree Forest</a>.</li></ul>
 </td>
-<td><span typeof="mw:Error mw:File"></span>5 <a href="ticket.html"><span class="color-template color-template-ticket color-template-background-clip">Tickets</span></a><br/>
-<p><span typeof="mw:Error mw:File"></span>10,000 <a href="treat.html"><span class="color-template color-template-treat">Treats</span></a><br/>
-<span typeof="mw:Error mw:File"></span>1 <a href="magic-bean.html"><span class="color-template color-template-magic-bean color-template-background-clip">Magic Bean</span></a><br/>
-<span typeof="mw:Error mw:File"></span>5 <a href="field-dice.html"><span class="color-template color-template-field-dice color-template-background-clip">Field Dice</span></a><br/>
-<span typeof="mw:Error mw:File"></span>75 <a href="pineapple.html"><span class="color-template color-template-pineapple color-template-background-clip">Pineapples</span></a><br/>
-<span typeof="mw:Error mw:File"></span>125,000,000 <a href="honey.html"><span class="color-template color-template-honey">Honey</span></a><br/>
-<span typeof="mw:Error mw:File"></span>10 <a href="royal-jelly.html"><span class="color-template color-template-royal-jelly color-template-background-clip">Royal Jellies</span></a>
+<td><img alt="Ticket" height="25" src="img/Ticket.png" width="25"/>5 <a href="ticket.html"><span class="color-template color-template-ticket color-template-background-clip">Tickets</span></a><br/>
+<p><img alt="Treat" height="25" src="img/Treat.png" width="25"/>10,000 <a href="treat.html"><span class="color-template color-template-treat">Treats</span></a><br/>
+<img alt="Magic Bean" height="25" src="img/Magic_Bean.png" width="25"/>1 <a href="magic-bean.html"><span class="color-template color-template-magic-bean color-template-background-clip">Magic Bean</span></a><br/>
+<img alt="Field Dice" height="25" src="img/Field_Dice.png" width="25"/>5 <a href="field-dice.html"><span class="color-template color-template-field-dice color-template-background-clip">Field Dice</span></a><br/>
+<img alt="Pineapple" height="25" src="img/Pineapple.png" width="25"/>75 <a href="pineapple.html"><span class="color-template color-template-pineapple color-template-background-clip">Pineapples</span></a><br/>
+<img alt="Honey" height="25" src="img/Honey.png" width="25"/>125,000,000 <a href="honey.html"><span class="color-template color-template-honey">Honey</span></a><br/>
+<img alt="Royal Jelly" height="25" src="img/Royal_Jelly.png" width="25"/>10 <a href="royal-jelly.html"><span class="color-template color-template-royal-jelly color-template-background-clip">Royal Jellies</span></a>
 </p>
 </td></tr>
 <tr>
@@ -991,12 +991,12 @@ Through all of his quests, he rewards 2,352,532,300 Honey. When doing the quests
 <ul><li>Collect 500,000,000 Pollen.</li>
 <li>Collect 300,000,000 Pollen from the <a href="stump-field.html">Stump Field</a>.</li></ul>
 </td>
-<td><span typeof="mw:Error mw:File"></span>5 <a href="ticket.html"><span class="color-template color-template-ticket color-template-background-clip">Tickets</span></a><br/>
-<p><span typeof="mw:Error mw:File"></span>10,000 <a href="treat.html"><span class="color-template color-template-treat">Treats</span></a><br/>
-<span typeof="mw:Error mw:File"></span>50 <a href="gumdrops.html"><span class="color-template color-template-gumdrops color-template-background-clip">Gumdrops</span></a><br/>
-<span typeof="mw:Error mw:File"></span>10 <a href="jelly-beans.html"><span class="color-template color-template-jelly-beans color-template-background-clip">Jelly Beans</span></a><br/>
-<span typeof="mw:Error mw:File"></span>1 <a href="egg.html#Gifted_Silver_Egg"><span class="color-template color-template-gifted-silver-egg color-template-background-clip">Gifted Silver Egg</span></a><br/>
-<span typeof="mw:Error mw:File"></span>150,000,000 <a href="honey.html"><span class="color-template color-template-honey">Honey</span></a>
+<td><img alt="Ticket" height="25" src="img/Ticket.png" width="25"/>5 <a href="ticket.html"><span class="color-template color-template-ticket color-template-background-clip">Tickets</span></a><br/>
+<p><img alt="Treat" height="25" src="img/Treat.png" width="25"/>10,000 <a href="treat.html"><span class="color-template color-template-treat">Treats</span></a><br/>
+<img alt="Gumdrops" height="25" src="img/Gumdrops.png" width="25"/>50 <a href="gumdrops.html"><span class="color-template color-template-gumdrops color-template-background-clip">Gumdrops</span></a><br/>
+<img alt="Jelly Beans" height="25" src="img/Jelly_Beans.png" width="25"/>10 <a href="jelly-beans.html"><span class="color-template color-template-jelly-beans color-template-background-clip">Jelly Beans</span></a><br/>
+<img alt="Gifted Silver Egg" height="25" src="img/Gifted_Silver_Egg.png" width="25"/>1 <a href="egg.html#Gifted_Silver_Egg"><span class="color-template color-template-gifted-silver-egg color-template-background-clip">Gifted Silver Egg</span></a><br/>
+<img alt="Honey" height="25" src="img/Honey.png" width="25"/>150,000,000 <a href="honey.html"><span class="color-template color-template-honey">Honey</span></a>
 </p>
 </td></tr>
 <tr>
@@ -1007,13 +1007,13 @@ Through all of his quests, he rewards 2,352,532,300 Honey. When doing the quests
 <li>Collect 200,000,000 Pollen from the <a href="bamboo-field.html">Bamboo Field</a>.</li>
 <li>Collect 100,000,000 Pollen from the <a href="clover-field.html">Clover Field</a>.</li></ul>
 </td>
-<td><span typeof="mw:Error mw:File"></span>5 <a href="ticket.html"><span class="color-template color-template-ticket color-template-background-clip">Tickets</span></a><br/>
-<p><span typeof="mw:Error mw:File"></span>11,000 <a href="treat.html"><span class="color-template color-template-treat">Treats</span></a><br/>
-<span typeof="mw:Error mw:File"></span>3 <a href="magic-bean.html"><span class="color-template color-template-magic-bean color-template-background-clip">Magic Beans</span></a><br/>
-<span typeof="mw:Error mw:File"></span>25 <a href="gumdrops.html"><span class="color-template color-template-gumdrops color-template-background-clip">Gumdrops</span></a><br/>
-<span typeof="mw:Error mw:File"></span>25 <a href="bitterberry.html"><span class="color-template color-template-bitterberry color-template-background-clip">Bitterberries</span></a><br/>
-<span typeof="mw:Error mw:File"></span>175,000,000 <a href="honey.html"><span class="color-template color-template-honey">Honey</span></a><br/>
-<span typeof="mw:Error mw:File"></span>20 <a href="royal-jelly.html"><span class="color-template color-template-royal-jelly color-template-background-clip">Royal Jellies</span></a>
+<td><img alt="Ticket" height="25" src="img/Ticket.png" width="25"/>5 <a href="ticket.html"><span class="color-template color-template-ticket color-template-background-clip">Tickets</span></a><br/>
+<p><img alt="Treat" height="25" src="img/Treat.png" width="25"/>11,000 <a href="treat.html"><span class="color-template color-template-treat">Treats</span></a><br/>
+<img alt="Magic Bean" height="25" src="img/Magic_Bean.png" width="25"/>3 <a href="magic-bean.html"><span class="color-template color-template-magic-bean color-template-background-clip">Magic Beans</span></a><br/>
+<img alt="Gumdrops" height="25" src="img/Gumdrops.png" width="25"/>25 <a href="gumdrops.html"><span class="color-template color-template-gumdrops color-template-background-clip">Gumdrops</span></a><br/>
+<img alt="Bitterberry" height="25" src="img/Bitterberry.png" width="25"/>25 <a href="bitterberry.html"><span class="color-template color-template-bitterberry color-template-background-clip">Bitterberries</span></a><br/>
+<img alt="Honey" height="25" src="img/Honey.png" width="25"/>175,000,000 <a href="honey.html"><span class="color-template color-template-honey">Honey</span></a><br/>
+<img alt="Royal Jelly" height="25" src="img/Royal_Jelly.png" width="25"/>20 <a href="royal-jelly.html"><span class="color-template color-template-royal-jelly color-template-background-clip">Royal Jellies</span></a>
 </p>
 </td></tr>
 <tr>
@@ -1025,12 +1025,12 @@ Through all of his quests, he rewards 2,352,532,300 Honey. When doing the quests
 <li>Collect 40,000,000 Pollen from the <a href="dandelion-field.html">Dandelion Field</a>.</li>
 <li>Collect 10,000,000 White Pollen from the <a href="cactus-field.html">Cactus Field</a>.</li></ul>
 </td>
-<td><span typeof="mw:Error mw:File"></span>5 <a href="ticket.html"><span class="color-template color-template-ticket color-template-background-clip">Tickets</span></a><br/>
-<p><span typeof="mw:Error mw:File"></span>12,500 <a href="treat.html"><span class="color-template color-template-treat">Treats</span></a><br/>
-<span typeof="mw:Error mw:File"></span>1 <a href="glue.html"><span class="color-template color-template-glue color-template-background-clip">Glue</span></a><br/>
-<span typeof="mw:Error mw:File"></span>1 <a href="glitter.html"><span class="color-template color-template-glitter color-template-background-clip">Glitter</span></a><br/>
-<span typeof="mw:Error mw:File"></span>200,000,000 <a href="honey.html"><span class="color-template color-template-honey">Honey</span></a><br/>
-<span typeof="mw:Error mw:File"></span>25 <a href="royal-jelly.html"><span class="color-template color-template-royal-jelly color-template-background-clip">Royal Jellies</span></a>
+<td><img alt="Ticket" height="25" src="img/Ticket.png" width="25"/>5 <a href="ticket.html"><span class="color-template color-template-ticket color-template-background-clip">Tickets</span></a><br/>
+<p><img alt="Treat" height="25" src="img/Treat.png" width="25"/>12,500 <a href="treat.html"><span class="color-template color-template-treat">Treats</span></a><br/>
+<img alt="Glue" height="25" src="img/Glue.png" width="25"/>1 <a href="glue.html"><span class="color-template color-template-glue color-template-background-clip">Glue</span></a><br/>
+<img alt="Glitter" height="25" src="img/Glitter.png" width="25"/>1 <a href="glitter.html"><span class="color-template color-template-glitter color-template-background-clip">Glitter</span></a><br/>
+<img alt="Honey" height="25" src="img/Honey.png" width="25"/>200,000,000 <a href="honey.html"><span class="color-template color-template-honey">Honey</span></a><br/>
+<img alt="Royal Jelly" height="25" src="img/Royal_Jelly.png" width="25"/>25 <a href="royal-jelly.html"><span class="color-template color-template-royal-jelly color-template-background-clip">Royal Jellies</span></a>
 </p>
 </td></tr>
 <tr>
@@ -1042,13 +1042,13 @@ Through all of his quests, he rewards 2,352,532,300 Honey. When doing the quests
 <li>Collect 50,000,000 Red Pollen from the <a href="pumpkin-patch.html">Pumpkin Patch</a>.</li>
 <li>Collect 25,000,000 Red Pollen from the <a href="coconut-field.html">Coconut Field</a>.</li></ul>
 </td>
-<td><span typeof="mw:Error mw:File"></span>5 <a href="ticket.html"><span class="color-template color-template-ticket color-template-background-clip">Tickets</span></a><br/>
-<p><span typeof="mw:Error mw:File"></span>15,000 <a href="treat.html"><span class="color-template color-template-treat">Treats</span></a><br/>
-<span typeof="mw:Error mw:File"></span>3 <a href="jelly-beans.html"><span class="color-template color-template-jelly-beans color-template-background-clip">Jelly Beans</span></a><br/>
-<span typeof="mw:Error mw:File"></span>50 <a href="moon-charm.html"><span class="color-template color-template-moon-charm color-template-background-clip">Moon Charms</span></a><br/>
-<span typeof="mw:Error mw:File"></span>75 <a href="strawberry.html"><span class="color-template color-template-strawberry color-template-background-clip">Strawberries</span></a><br/>
-<span typeof="mw:Error mw:File"></span>250,000,000 <a href="honey.html"><span class="color-template color-template-honey">Honey</span></a><br/>
-<span typeof="mw:Error mw:File"></span>50 <a href="royal-jelly.html"><span class="color-template color-template-royal-jelly color-template-background-clip">Royal Jellies</span></a>
+<td><img alt="Ticket" height="25" src="img/Ticket.png" width="25"/>5 <a href="ticket.html"><span class="color-template color-template-ticket color-template-background-clip">Tickets</span></a><br/>
+<p><img alt="Treat" height="25" src="img/Treat.png" width="25"/>15,000 <a href="treat.html"><span class="color-template color-template-treat">Treats</span></a><br/>
+<img alt="Jelly Beans" height="25" src="img/Jelly_Beans.png" width="25"/>3 <a href="jelly-beans.html"><span class="color-template color-template-jelly-beans color-template-background-clip">Jelly Beans</span></a><br/>
+<img alt="Moon Charm" height="25" src="img/Moon_Charm.png" width="25"/>50 <a href="moon-charm.html"><span class="color-template color-template-moon-charm color-template-background-clip">Moon Charms</span></a><br/>
+<img alt="Strawberry" height="25" src="img/Strawberry.png" width="25"/>75 <a href="strawberry.html"><span class="color-template color-template-strawberry color-template-background-clip">Strawberries</span></a><br/>
+<img alt="Honey" height="25" src="img/Honey.png" width="25"/>250,000,000 <a href="honey.html"><span class="color-template color-template-honey">Honey</span></a><br/>
+<img alt="Royal Jelly" height="25" src="img/Royal_Jelly.png" width="25"/>50 <a href="royal-jelly.html"><span class="color-template color-template-royal-jelly color-template-background-clip">Royal Jellies</span></a>
 </p>
 </td></tr>
 <tr>
@@ -1059,13 +1059,13 @@ Through all of his quests, he rewards 2,352,532,300 Honey. When doing the quests
 <li>Collect 600,000,000 Pollen from the <a href="stump-field.html">Stump Field</a>.</li>
 <li>Collect 25,000,000 Pollen from the <a href="ant-field.html">Ant Field</a>.</li></ul>
 </td>
-<td><span typeof="mw:Error mw:File"></span>5 <a href="ticket.html"><span class="color-template color-template-ticket color-template-background-clip">Tickets</span></a><br/>
-<p><span typeof="mw:Error mw:File"></span>20,000 <a href="treat.html"><span class="color-template color-template-treat">Treats</span></a><br/>
-<span typeof="mw:Error mw:File"></span>3 <a href="box-o-frogs.html"><span class="color-template color-template-box-o-frogs color-template-background-clip">Boxes-O-Frogs</span></a><br/>
-<span typeof="mw:Error mw:File"></span>3 <a href="magic-bean.html"><span class="color-template color-template-magic-bean color-template-background-clip">Magic Beans</span></a><br/>
-<span typeof="mw:Error mw:File"></span>3 <a href="tropical-drink.html"><span class="color-template color-template-tropical-drink color-template-background-clip">Tropical Drinks</span></a><br/>
-<span typeof="mw:Error mw:File"></span>300,000,000 <a href="honey.html"><span class="color-template color-template-honey">Honey</span></a><br/>
-<span typeof="mw:Error mw:File"></span>50 <a href="royal-jelly.html"><span class="color-template color-template-royal-jelly color-template-background-clip">Royal Jellies</span></a>
+<td><img alt="Ticket" height="25" src="img/Ticket.png" width="25"/>5 <a href="ticket.html"><span class="color-template color-template-ticket color-template-background-clip">Tickets</span></a><br/>
+<p><img alt="Treat" height="25" src="img/Treat.png" width="25"/>20,000 <a href="treat.html"><span class="color-template color-template-treat">Treats</span></a><br/>
+<img alt="Box-O-Frogs" height="25" src="img/Box-O-Frogs.png" width="25"/>3 <a href="box-o-frogs.html"><span class="color-template color-template-box-o-frogs color-template-background-clip">Boxes-O-Frogs</span></a><br/>
+<img alt="Magic Bean" height="25" src="img/Magic_Bean.png" width="25"/>3 <a href="magic-bean.html"><span class="color-template color-template-magic-bean color-template-background-clip">Magic Beans</span></a><br/>
+<img alt="Tropical Drink" height="25" src="img/Tropical_Drink.png" width="25"/>3 <a href="tropical-drink.html"><span class="color-template color-template-tropical-drink color-template-background-clip">Tropical Drinks</span></a><br/>
+<img alt="Honey" height="25" src="img/Honey.png" width="25"/>300,000,000 <a href="honey.html"><span class="color-template color-template-honey">Honey</span></a><br/>
+<img alt="Royal Jelly" height="25" src="img/Royal_Jelly.png" width="25"/>50 <a href="royal-jelly.html"><span class="color-template color-template-royal-jelly color-template-background-clip">Royal Jellies</span></a>
 </p>
 </td></tr>
 <tr>
@@ -1092,10 +1092,10 @@ Through all of his quests, he rewards 2,352,532,300 Honey. When doing the quests
 <li>Collect 50,000,000 Pollen from the <a href="pepper-patch.html">Pepper Patch</a>.</li>
 <li>Collect 50,000,000 Pollen from the <a href="coconut-field.html">Coconut Field</a>.</li></ul>
 </td>
-<td><span typeof="mw:Error mw:File"></span>5 <a href="ticket.html"><span class="color-template color-template-ticket color-template-background-clip">Tickets</span></a><br/>
-<p><span typeof="mw:Error mw:File"></span>50,000 <a href="treat.html"><span class="color-template color-template-treat">Treats</span></a><br/>
-<span typeof="mw:Error mw:File"></span>1 <a href="egg.html#Mythic_Egg"><span class="color-template color-template-mythic-egg color-template-background-clip">Mythic Egg</span></a><br/>
-<span typeof="mw:Error mw:File"></span>500,000,000 <a href="honey.html"><span class="color-template color-template-honey">Honey</span></a>
+<td><img alt="Ticket" height="25" src="img/Ticket.png" width="25"/>5 <a href="ticket.html"><span class="color-template color-template-ticket color-template-background-clip">Tickets</span></a><br/>
+<p><img alt="Treat" height="25" src="img/Treat.png" width="25"/>50,000 <a href="treat.html"><span class="color-template color-template-treat">Treats</span></a><br/>
+<img alt="Mythic Egg" height="25" src="img/Mythic_Egg.png" width="25"/>1 <a href="egg.html#Mythic_Egg"><span class="color-template color-template-mythic-egg color-template-background-clip">Mythic Egg</span></a><br/>
+<img alt="Honey" height="25" src="img/Honey.png" width="25"/>500,000,000 <a href="honey.html"><span class="color-template color-template-honey">Honey</span></a>
 </p>
 </td></tr></tbody></table>
 
@@ -1125,10 +1125,10 @@ After completing his Mythic Egg questline, Black Bear will randomly assign quest
 <td>
 <ul><li>Collect 250,000,000 Red Pollen.</li></ul>
 </td>
-<td><span typeof="mw:Error mw:File"></span>1 <a href="ticket.html"><span class="color-template color-template-ticket color-template-background-clip">Ticket</span></a><br/>
-<p><span typeof="mw:Error mw:File"></span>10 <a href="strawberry.html"><span class="color-template color-template-strawberry color-template-background-clip">Strawberries</span></a><br/>
-<span typeof="mw:Error mw:File"></span>100,000,000 <a href="honey.html"><span class="color-template color-template-honey">Honey</span></a><br/>
-<span typeof="mw:Error mw:File"></span>1 <a href="red-extract.html"><span class="color-template color-template-red-extract color-template-background-clip">Red Extract</span></a> (20% chance)
+<td><img alt="Ticket" height="25" src="img/Ticket.png" width="25"/>1 <a href="ticket.html"><span class="color-template color-template-ticket color-template-background-clip">Ticket</span></a><br/>
+<p><img alt="Strawberry" height="25" src="img/Strawberry.png" width="25"/>10 <a href="strawberry.html"><span class="color-template color-template-strawberry color-template-background-clip">Strawberries</span></a><br/>
+<img alt="Honey" height="25" src="img/Honey.png" width="25"/>100,000,000 <a href="honey.html"><span class="color-template color-template-honey">Honey</span></a><br/>
+<img alt="Red Extract" height="25" src="img/Red_Extract.png" width="25"/>1 <a href="red-extract.html"><span class="color-template color-template-red-extract color-template-background-clip">Red Extract</span></a> (20% chance)
 </p>
 </td></tr>
 <tr>
@@ -1137,10 +1137,10 @@ After completing his Mythic Egg questline, Black Bear will randomly assign quest
 <td>
 <ul><li>Collect 250,000,000 Blue Pollen.</li></ul>
 </td>
-<td><span typeof="mw:Error mw:File"></span>1 <a href="ticket.html"><span class="color-template color-template-ticket color-template-background-clip">Ticket</span></a><br/>
-<p><span typeof="mw:Error mw:File"></span>10 <a href="blueberry.html"><span class="color-template color-template-blueberry color-template-background-clip">Blueberries</span></a><br/>
-<span typeof="mw:Error mw:File"></span>100,000,000 <a href="honey.html"><span class="color-template color-template-honey">Honey</span></a><br/>
-<span typeof="mw:Error mw:File"></span>1 <a href="blue-extract.html"><span class="color-template color-template-blue-extract color-template-background-clip">Blue Extract</span></a> (20% chance)
+<td><img alt="Ticket" height="25" src="img/Ticket.png" width="25"/>1 <a href="ticket.html"><span class="color-template color-template-ticket color-template-background-clip">Ticket</span></a><br/>
+<p><img alt="Blueberry" height="25" src="img/Blueberry.png" width="25"/>10 <a href="blueberry.html"><span class="color-template color-template-blueberry color-template-background-clip">Blueberries</span></a><br/>
+<img alt="Honey" height="25" src="img/Honey.png" width="25"/>100,000,000 <a href="honey.html"><span class="color-template color-template-honey">Honey</span></a><br/>
+<img alt="Blue Extract" height="25" src="img/Blue_Extract.png" width="25"/>1 <a href="blue-extract.html"><span class="color-template color-template-blue-extract color-template-background-clip">Blue Extract</span></a> (20% chance)
 </p>
 </td></tr>
 <tr>
@@ -1149,10 +1149,10 @@ After completing his Mythic Egg questline, Black Bear will randomly assign quest
 <td>
 <ul><li>Collect 250,000,000 White Pollen.</li></ul>
 </td>
-<td><span typeof="mw:Error mw:File"></span>1 <a href="ticket.html"><span class="color-template color-template-ticket color-template-background-clip">Ticket</span></a><br/>
-<p><span typeof="mw:Error mw:File"></span>10 <a href="sunflower-seed.html"><span class="color-template color-template-sunflower-seed color-template-background-clip">Sunflower Seeds</span></a><br/>
-<span typeof="mw:Error mw:File"></span>100,000,000 <a href="honey.html"><span class="color-template color-template-honey">Honey</span></a><br/>
-<span typeof="mw:Error mw:File"></span>1 <a href="glitter.html"><span class="color-template color-template-glitter color-template-background-clip">Glitter</span></a> (10% chance)
+<td><img alt="Ticket" height="25" src="img/Ticket.png" width="25"/>1 <a href="ticket.html"><span class="color-template color-template-ticket color-template-background-clip">Ticket</span></a><br/>
+<p><img alt="Sunflower Seed" height="25" src="img/Sunflower_Seed.png" width="25"/>10 <a href="sunflower-seed.html"><span class="color-template color-template-sunflower-seed color-template-background-clip">Sunflower Seeds</span></a><br/>
+<img alt="Honey" height="25" src="img/Honey.png" width="25"/>100,000,000 <a href="honey.html"><span class="color-template color-template-honey">Honey</span></a><br/>
+<img alt="Glitter" height="25" src="img/Glitter.png" width="25"/>1 <a href="glitter.html"><span class="color-template color-template-glitter color-template-background-clip">Glitter</span></a> (10% chance)
 </p>
 </td></tr>
 <tr>
@@ -1161,11 +1161,11 @@ After completing his Mythic Egg questline, Black Bear will randomly assign quest
 <td>
 <ul><li>Collect 500,000,000 Pollen.</li></ul>
 </td>
-<td><span typeof="mw:Error mw:File"></span>1 <a href="ticket.html"><span class="color-template color-template-ticket color-template-background-clip">Ticket</span></a><br/>
-<p><span typeof="mw:Error mw:File"></span>50 <a href="royal-jelly.html"><span class="color-template color-template-royal-jelly color-template-background-clip">Royal Jellies</span></a><br/>
-<span typeof="mw:Error mw:File"></span>100,000,000 <a href="honey.html"><span class="color-template color-template-honey">Honey</span></a><br/>
-<span typeof="mw:Error mw:File"></span>1 <a href="oil.html"><span class="color-template color-template-oil color-template-background-clip">Oil</span></a> (10% chance)<br/>
-<span typeof="mw:Error mw:File"></span>1 <a href="enzymes.html"><span class="color-template color-template-enzymes color-template-background-clip">Enzymes</span></a> (10% chance)
+<td><img alt="Ticket" height="25" src="img/Ticket.png" width="25"/>1 <a href="ticket.html"><span class="color-template color-template-ticket color-template-background-clip">Ticket</span></a><br/>
+<p><img alt="Royal Jelly" height="25" src="img/Royal_Jelly.png" width="25"/>50 <a href="royal-jelly.html"><span class="color-template color-template-royal-jelly color-template-background-clip">Royal Jellies</span></a><br/>
+<img alt="Honey" height="25" src="img/Honey.png" width="25"/>100,000,000 <a href="honey.html"><span class="color-template color-template-honey">Honey</span></a><br/>
+<img alt="Oil" height="25" src="img/Oil.png" width="25"/>1 <a href="oil.html"><span class="color-template color-template-oil color-template-background-clip">Oil</span></a> (10% chance)<br/>
+<img alt="Enzymes" height="25" src="img/Enzymes.png" width="25"/>1 <a href="enzymes.html"><span class="color-template color-template-enzymes color-template-background-clip">Enzymes</span></a> (10% chance)
 </p>
 </td></tr>
 <tr>
@@ -1176,11 +1176,11 @@ After completing his Mythic Egg questline, Black Bear will randomly assign quest
 <li>Collect 75,000,000 Red Pollen.</li></ul>
 </td>
 <td><br/>
-<p><span typeof="mw:Error mw:File"></span>20 <a href="strawberry.html"><span class="color-template color-template-strawberry color-template-background-clip">Strawberries</span></a><br/>
-<span typeof="mw:Error mw:File"></span>20 <a href="blueberry.html"><span class="color-template color-template-blueberry color-template-background-clip">Blueberries</span></a><br/>
-<span typeof="mw:Error mw:File"></span>50,000,000 <a href="honey.html"><span class="color-template color-template-honey">Honey</span></a><br/>
-<span typeof="mw:Error mw:File"></span>1 <a href="red-extract.html"><span class="color-template color-template-red-extract color-template-background-clip">Red Extract</span></a> (10% chance)<br/>
-<span typeof="mw:Error mw:File"></span>1 <a href="blue-extract.html"><span class="color-template color-template-blue-extract color-template-background-clip">Blue Extract</span></a> (10% chance)
+<p><img alt="Strawberry" height="25" src="img/Strawberry.png" width="25"/>20 <a href="strawberry.html"><span class="color-template color-template-strawberry color-template-background-clip">Strawberries</span></a><br/>
+<img alt="Blueberry" height="25" src="img/Blueberry.png" width="25"/>20 <a href="blueberry.html"><span class="color-template color-template-blueberry color-template-background-clip">Blueberries</span></a><br/>
+<img alt="Honey" height="25" src="img/Honey.png" width="25"/>50,000,000 <a href="honey.html"><span class="color-template color-template-honey">Honey</span></a><br/>
+<img alt="Red Extract" height="25" src="img/Red_Extract.png" width="25"/>1 <a href="red-extract.html"><span class="color-template color-template-red-extract color-template-background-clip">Red Extract</span></a> (10% chance)<br/>
+<img alt="Blue Extract" height="25" src="img/Blue_Extract.png" width="25"/>1 <a href="blue-extract.html"><span class="color-template color-template-blue-extract color-template-background-clip">Blue Extract</span></a> (10% chance)
 </p>
 </td></tr>
 <tr>
@@ -1191,11 +1191,11 @@ After completing his Mythic Egg questline, Black Bear will randomly assign quest
 <li>Collect 150,000,000 Blue Pollen.</li>
 <li>Collect 150,000,000 White Pollen.</li></ul>
 </td>
-<td><span typeof="mw:Error mw:File"></span>2 <a href="ticket.html"><span class="color-template color-template-ticket color-template-background-clip">Tickets</span></a><br/>
-<p><span typeof="mw:Error mw:File"></span>25 <a href="royal-jelly.html"><span class="color-template color-template-royal-jelly color-template-background-clip">Royal Jellies</span></a><br/>
-<span typeof="mw:Error mw:File"></span>25 <a href="pineapple.html"><span class="color-template color-template-pineapple color-template-background-clip">Pineapples</span></a><br/>
-<span typeof="mw:Error mw:File"></span>150,000,000 <a href="honey.html"><span class="color-template color-template-honey">Honey</span></a><br/>
-<span typeof="mw:Error mw:File"></span>1 <a href="enzymes.html"><span class="color-template color-template-enzymes color-template-background-clip">Enzymes</span></a> (10% chance)
+<td><img alt="Ticket" height="25" src="img/Ticket.png" width="25"/>2 <a href="ticket.html"><span class="color-template color-template-ticket color-template-background-clip">Tickets</span></a><br/>
+<p><img alt="Royal Jelly" height="25" src="img/Royal_Jelly.png" width="25"/>25 <a href="royal-jelly.html"><span class="color-template color-template-royal-jelly color-template-background-clip">Royal Jellies</span></a><br/>
+<img alt="Pineapple" height="25" src="img/Pineapple.png" width="25"/>25 <a href="pineapple.html"><span class="color-template color-template-pineapple color-template-background-clip">Pineapples</span></a><br/>
+<img alt="Honey" height="25" src="img/Honey.png" width="25"/>150,000,000 <a href="honey.html"><span class="color-template color-template-honey">Honey</span></a><br/>
+<img alt="Enzymes" height="25" src="img/Enzymes.png" width="25"/>1 <a href="enzymes.html"><span class="color-template color-template-enzymes color-template-background-clip">Enzymes</span></a> (10% chance)
 </p>
 </td></tr>
 <tr>
@@ -1204,11 +1204,11 @@ After completing his Mythic Egg questline, Black Bear will randomly assign quest
 <td>
 <ul><li>Collect 200,000,000 Pollen from the Sunflower Field.</li></ul>
 </td>
-<td><span typeof="mw:Error mw:File"></span>2 <a href="ticket.html"><span class="color-template color-template-ticket color-template-background-clip">Tickets</span></a><br/>
-<p><span typeof="mw:Error mw:File"></span>2,500 <a href="treat.html"><span class="color-template color-template-treat">Treats</span></a><br/>
-<span typeof="mw:Error mw:File"></span>15 <a href="sunflower-seed.html"><span class="color-template color-template-sunflower-seed color-template-background-clip">Sunflower Seeds</span></a><br/>
-<span typeof="mw:Error mw:File"></span>100,000,000 <a href="honey.html"><span class="color-template color-template-honey">Honey</span></a><br/>
-<span typeof="mw:Error mw:File"></span>1 <a href="oil.html"><span class="color-template color-template-oil color-template-background-clip">Oil</span></a> (25% chance)
+<td><img alt="Ticket" height="25" src="img/Ticket.png" width="25"/>2 <a href="ticket.html"><span class="color-template color-template-ticket color-template-background-clip">Tickets</span></a><br/>
+<p><img alt="Treat" height="25" src="img/Treat.png" width="25"/>2,500 <a href="treat.html"><span class="color-template color-template-treat">Treats</span></a><br/>
+<img alt="Sunflower Seed" height="25" src="img/Sunflower_Seed.png" width="25"/>15 <a href="sunflower-seed.html"><span class="color-template color-template-sunflower-seed color-template-background-clip">Sunflower Seeds</span></a><br/>
+<img alt="Honey" height="25" src="img/Honey.png" width="25"/>100,000,000 <a href="honey.html"><span class="color-template color-template-honey">Honey</span></a><br/>
+<img alt="Oil" height="25" src="img/Oil.png" width="25"/>1 <a href="oil.html"><span class="color-template color-template-oil color-template-background-clip">Oil</span></a> (25% chance)
 </p>
 </td></tr>
 <tr>
@@ -1217,11 +1217,11 @@ After completing his Mythic Egg questline, Black Bear will randomly assign quest
 <td>
 <ul><li>Collect 200,000,000 Pollen from the Blue Flower Field.</li></ul>
 </td>
-<td><span typeof="mw:Error mw:File"></span>2 <a href="ticket.html"><span class="color-template color-template-ticket color-template-background-clip">Tickets</span></a><br/>
-<p><span typeof="mw:Error mw:File"></span>2,500 <a href="treat.html"><span class="color-template color-template-treat">Treats</span></a><br/>
-<span typeof="mw:Error mw:File"></span>15 <a href="blueberry.html"><span class="color-template color-template-blueberry color-template-background-clip">Blueberries</span></a><br/>
-<span typeof="mw:Error mw:File"></span>100,000,000 <a href="honey.html"><span class="color-template color-template-honey">Honey</span></a><br/>
-<span typeof="mw:Error mw:File"></span>1 <a href="blue-extract.html"><span class="color-template color-template-blue-extract color-template-background-clip">Blue Extract</span></a> (25% chance)
+<td><img alt="Ticket" height="25" src="img/Ticket.png" width="25"/>2 <a href="ticket.html"><span class="color-template color-template-ticket color-template-background-clip">Tickets</span></a><br/>
+<p><img alt="Treat" height="25" src="img/Treat.png" width="25"/>2,500 <a href="treat.html"><span class="color-template color-template-treat">Treats</span></a><br/>
+<img alt="Blueberry" height="25" src="img/Blueberry.png" width="25"/>15 <a href="blueberry.html"><span class="color-template color-template-blueberry color-template-background-clip">Blueberries</span></a><br/>
+<img alt="Honey" height="25" src="img/Honey.png" width="25"/>100,000,000 <a href="honey.html"><span class="color-template color-template-honey">Honey</span></a><br/>
+<img alt="Blue Extract" height="25" src="img/Blue_Extract.png" width="25"/>1 <a href="blue-extract.html"><span class="color-template color-template-blue-extract color-template-background-clip">Blue Extract</span></a> (25% chance)
 </p>
 </td></tr>
 <tr>
@@ -1230,11 +1230,11 @@ After completing his Mythic Egg questline, Black Bear will randomly assign quest
 <td>
 <ul><li>Collect 200,000,000 Pollen from the Mushroom Field.</li></ul>
 </td>
-<td><span typeof="mw:Error mw:File"></span>2 <a href="ticket.html"><span class="color-template color-template-ticket color-template-background-clip">Tickets</span></a><br/>
-<p><span typeof="mw:Error mw:File"></span>2,500 <a href="treat.html"><span class="color-template color-template-treat">Treats</span></a><br/>
-<span typeof="mw:Error mw:File"></span>15 <a href="strawberry.html"><span class="color-template color-template-strawberry color-template-background-clip">Strawberries</span></a><br/>
-<span typeof="mw:Error mw:File"></span>100,000,000 <a href="honey.html"><span class="color-template color-template-honey">Honey</span></a><br/>
-<span typeof="mw:Error mw:File"></span>1 <a href="red-extract.html"><span class="color-template color-template-red-extract color-template-background-clip">Red Extract</span></a> (25% chance)
+<td><img alt="Ticket" height="25" src="img/Ticket.png" width="25"/>2 <a href="ticket.html"><span class="color-template color-template-ticket color-template-background-clip">Tickets</span></a><br/>
+<p><img alt="Treat" height="25" src="img/Treat.png" width="25"/>2,500 <a href="treat.html"><span class="color-template color-template-treat">Treats</span></a><br/>
+<img alt="Strawberry" height="25" src="img/Strawberry.png" width="25"/>15 <a href="strawberry.html"><span class="color-template color-template-strawberry color-template-background-clip">Strawberries</span></a><br/>
+<img alt="Honey" height="25" src="img/Honey.png" width="25"/>100,000,000 <a href="honey.html"><span class="color-template color-template-honey">Honey</span></a><br/>
+<img alt="Red Extract" height="25" src="img/Red_Extract.png" width="25"/>1 <a href="red-extract.html"><span class="color-template color-template-red-extract color-template-background-clip">Red Extract</span></a> (25% chance)
 </p>
 </td></tr>
 <tr>
@@ -1243,12 +1243,12 @@ After completing his Mythic Egg questline, Black Bear will randomly assign quest
 <td>
 <ul><li>Collect 200,000,000 Pollen from the Dandelion Field.</li></ul>
 </td>
-<td><span typeof="mw:Error mw:File"></span>2 <a href="ticket.html"><span class="color-template color-template-ticket color-template-background-clip">Tickets</span></a><br/>
-<p><span typeof="mw:Error mw:File"></span>2,500 <a href="treat.html"><span class="color-template color-template-treat">Treats</span></a><br/>
-<span typeof="mw:Error mw:File"></span>100,000,000 <a href="honey.html"><span class="color-template color-template-honey">Honey</span></a><br/>
-<span typeof="mw:Error mw:File"></span>10 <a href="moon-charm.html"><span class="color-template color-template-moon-charm color-template-background-clip">Moon Charms</span></a><br/>
-<span typeof="mw:Error mw:File"></span>1 <a href="glue.html"><span class="color-template color-template-glue color-template-background-clip">Glue</span></a> (25% chance)<br/>
-<span typeof="mw:Error mw:File"></span>1 <a href="glitter.html"><span class="color-template color-template-glitter color-template-background-clip">Glitter</span></a> (5% chance)
+<td><img alt="Ticket" height="25" src="img/Ticket.png" width="25"/>2 <a href="ticket.html"><span class="color-template color-template-ticket color-template-background-clip">Tickets</span></a><br/>
+<p><img alt="Treat" height="25" src="img/Treat.png" width="25"/>2,500 <a href="treat.html"><span class="color-template color-template-treat">Treats</span></a><br/>
+<img alt="Honey" height="25" src="img/Honey.png" width="25"/>100,000,000 <a href="honey.html"><span class="color-template color-template-honey">Honey</span></a><br/>
+<img alt="Moon Charm" height="25" src="img/Moon_Charm.png" width="25"/>10 <a href="moon-charm.html"><span class="color-template color-template-moon-charm color-template-background-clip">Moon Charms</span></a><br/>
+<img alt="Glue" height="25" src="img/Glue.png" width="25"/>1 <a href="glue.html"><span class="color-template color-template-glue color-template-background-clip">Glue</span></a> (25% chance)<br/>
+<img alt="Glitter" height="25" src="img/Glitter.png" width="25"/>1 <a href="glitter.html"><span class="color-template color-template-glitter color-template-background-clip">Glitter</span></a> (5% chance)
 </p>
 </td></tr>
 <tr>
@@ -1260,12 +1260,12 @@ After completing his Mythic Egg questline, Black Bear will randomly assign quest
 <li>Collect 100,000,000 Pollen from the Mushroom Field.</li>
 <li>Collect 100,000,000 Pollen from the Blue Flower Field.</li></ul>
 </td>
-<td><span typeof="mw:Error mw:File"></span>3 <a href="ticket.html"><span class="color-template color-template-ticket color-template-background-clip">Tickets</span></a><br/>
-<p><span typeof="mw:Error mw:File"></span>25 <a href="royal-jelly.html"><span class="color-template color-template-royal-jelly color-template-background-clip">Royal Jellies</span></a><br/>
-<span typeof="mw:Error mw:File"></span>2,500 <a href="treat.html"><span class="color-template color-template-treat">Treats</span></a><br/>
-<span typeof="mw:Error mw:File"></span>200,000,000 <a href="honey.html"><span class="color-template color-template-honey">Honey</span></a><br/>
-<span typeof="mw:Error mw:File"></span>1 <a href="glue.html"><span class="color-template color-template-glue color-template-background-clip">Glue</span></a> (20% chance)<br/>
-<span typeof="mw:Error mw:File"></span>1 <a href="royal-jelly.html#Star_Jelly"><span class="color-template color-template-star-jelly color-template-background-clip">Star Jelly</span></a> (1% chance)
+<td><img alt="Ticket" height="25" src="img/Ticket.png" width="25"/>3 <a href="ticket.html"><span class="color-template color-template-ticket color-template-background-clip">Tickets</span></a><br/>
+<p><img alt="Royal Jelly" height="25" src="img/Royal_Jelly.png" width="25"/>25 <a href="royal-jelly.html"><span class="color-template color-template-royal-jelly color-template-background-clip">Royal Jellies</span></a><br/>
+<img alt="Treat" height="25" src="img/Treat.png" width="25"/>2,500 <a href="treat.html"><span class="color-template color-template-treat">Treats</span></a><br/>
+<img alt="Honey" height="25" src="img/Honey.png" width="25"/>200,000,000 <a href="honey.html"><span class="color-template color-template-honey">Honey</span></a><br/>
+<img alt="Glue" height="25" src="img/Glue.png" width="25"/>1 <a href="glue.html"><span class="color-template color-template-glue color-template-background-clip">Glue</span></a> (20% chance)<br/>
+<img alt="Star Jelly" height="25" src="img/Star_Jelly.png" width="25"/>1 <a href="royal-jelly.html#Star_Jelly"><span class="color-template color-template-star-jelly color-template-background-clip">Star Jelly</span></a> (1% chance)
 </p>
 </td></tr>
 <tr>
@@ -1275,12 +1275,12 @@ After completing his Mythic Egg questline, Black Bear will randomly assign quest
 <ul><li>Collect 150,000,000 Red Pollen.</li>
 <li>Collect 75,000000 Pollen from the Strawberry Field.</li></ul>
 </td>
-<td><span typeof="mw:Error mw:File"></span>10 <a href="royal-jelly.html"><span class="color-template color-template-royal-jelly color-template-background-clip">Royal Jellies</span></a><br/>
-<p><span typeof="mw:Error mw:File"></span>1,000 <a href="treat.html"><span class="color-template color-template-treat">Treats</span></a><br/>
-<span typeof="mw:Error mw:File"></span>15 <a href="strawberry.html"><span class="color-template color-template-strawberry color-template-background-clip">Strawberries</span></a><br/>
-<span typeof="mw:Error mw:File"></span>100,000,000 <a href="honey.html"><span class="color-template color-template-honey">Honey</span></a><br/>
-<span typeof="mw:Error mw:File"></span>1 <a href="ticket.html"><span class="color-template color-template-ticket color-template-background-clip">Ticket</span></a> (25% chance)<br/>
-<span typeof="mw:Error mw:File"></span>1 <a href="red-extract.html"><span class="color-template color-template-red-extract color-template-background-clip">Red Extract</span></a> (20% chance)
+<td><img alt="Royal Jelly" height="25" src="img/Royal_Jelly.png" width="25"/>10 <a href="royal-jelly.html"><span class="color-template color-template-royal-jelly color-template-background-clip">Royal Jellies</span></a><br/>
+<p><img alt="Treat" height="25" src="img/Treat.png" width="25"/>1,000 <a href="treat.html"><span class="color-template color-template-treat">Treats</span></a><br/>
+<img alt="Strawberry" height="25" src="img/Strawberry.png" width="25"/>15 <a href="strawberry.html"><span class="color-template color-template-strawberry color-template-background-clip">Strawberries</span></a><br/>
+<img alt="Honey" height="25" src="img/Honey.png" width="25"/>100,000,000 <a href="honey.html"><span class="color-template color-template-honey">Honey</span></a><br/>
+<img alt="Ticket" height="25" src="img/Ticket.png" width="25"/>1 <a href="ticket.html"><span class="color-template color-template-ticket color-template-background-clip">Ticket</span></a> (25% chance)<br/>
+<img alt="Red Extract" height="25" src="img/Red_Extract.png" width="25"/>1 <a href="red-extract.html"><span class="color-template color-template-red-extract color-template-background-clip">Red Extract</span></a> (20% chance)
 </p>
 </td></tr>
 <tr>
@@ -1290,12 +1290,12 @@ After completing his Mythic Egg questline, Black Bear will randomly assign quest
 <ul><li>Collect 150,000,000 Blue Pollen.</li>
 <li>Collect 75,000,000 Pollen from the Bamboo Field.</li></ul>
 </td>
-<td><span typeof="mw:Error mw:File"></span>10 <a href="royal-jelly.html"><span class="color-template color-template-royal-jelly color-template-background-clip">Royal Jellies</span></a><br/>
-<p><span typeof="mw:Error mw:File"></span>1,000 <a href="treat.html"><span class="color-template color-template-treat">Treats</span></a><br/>
-<span typeof="mw:Error mw:File"></span>15 <a href="blueberry.html"><span class="color-template color-template-blueberry color-template-background-clip">Blueberries</span></a><br/>
-<span typeof="mw:Error mw:File"></span>100,000,000 <a href="honey.html"><span class="color-template color-template-honey">Honey</span></a><br/>
-<span typeof="mw:Error mw:File"></span>1 <a href="ticket.html"><span class="color-template color-template-ticket color-template-background-clip">Ticket</span></a> (25% chance)<br/>
-<span typeof="mw:Error mw:File"></span>1 <a href="blue-extract.html"><span class="color-template color-template-blue-extract color-template-background-clip">Blue Extract</span></a> (20% chance)
+<td><img alt="Royal Jelly" height="25" src="img/Royal_Jelly.png" width="25"/>10 <a href="royal-jelly.html"><span class="color-template color-template-royal-jelly color-template-background-clip">Royal Jellies</span></a><br/>
+<p><img alt="Treat" height="25" src="img/Treat.png" width="25"/>1,000 <a href="treat.html"><span class="color-template color-template-treat">Treats</span></a><br/>
+<img alt="Blueberry" height="25" src="img/Blueberry.png" width="25"/>15 <a href="blueberry.html"><span class="color-template color-template-blueberry color-template-background-clip">Blueberries</span></a><br/>
+<img alt="Honey" height="25" src="img/Honey.png" width="25"/>100,000,000 <a href="honey.html"><span class="color-template color-template-honey">Honey</span></a><br/>
+<img alt="Ticket" height="25" src="img/Ticket.png" width="25"/>1 <a href="ticket.html"><span class="color-template color-template-ticket color-template-background-clip">Ticket</span></a> (25% chance)<br/>
+<img alt="Blue Extract" height="25" src="img/Blue_Extract.png" width="25"/>1 <a href="blue-extract.html"><span class="color-template color-template-blue-extract color-template-background-clip">Blue Extract</span></a> (20% chance)
 </p>
 </td></tr>
 <tr>
@@ -1305,12 +1305,12 @@ After completing his Mythic Egg questline, Black Bear will randomly assign quest
 <ul><li>Collect 150,000,000 White Pollen.</li>
 <li>Collect 75,000,000 Pollen from the Pumpkin Patch.</li></ul>
 </td>
-<td><span typeof="mw:Error mw:File"></span>10 <a href="royal-jelly.html"><span class="color-template color-template-royal-jelly color-template-background-clip">Royal Jellies</span></a><br/>
-<p><span typeof="mw:Error mw:File"></span>1,000 <a href="treat.html"><span class="color-template color-template-treat">Treats</span></a><br/>
-<span typeof="mw:Error mw:File"></span>10 <a href="gumdrops.html"><span class="color-template color-template-gumdrops color-template-background-clip">Gumdrops</span></a><br/>
-<span typeof="mw:Error mw:File"></span>100,000,000 <a href="honey.html"><span class="color-template color-template-honey">Honey</span></a><br/>
-<span typeof="mw:Error mw:File"></span>1 <a href="ticket.html"><span class="color-template color-template-ticket color-template-background-clip">Ticket</span></a> (25% chance)<br/>
-<span typeof="mw:Error mw:File"></span>1 <a href="glue.html"><span class="color-template color-template-glue color-template-background-clip">Glue</span></a> (20% chance)
+<td><img alt="Royal Jelly" height="25" src="img/Royal_Jelly.png" width="25"/>10 <a href="royal-jelly.html"><span class="color-template color-template-royal-jelly color-template-background-clip">Royal Jellies</span></a><br/>
+<p><img alt="Treat" height="25" src="img/Treat.png" width="25"/>1,000 <a href="treat.html"><span class="color-template color-template-treat">Treats</span></a><br/>
+<img alt="Gumdrops" height="25" src="img/Gumdrops.png" width="25"/>10 <a href="gumdrops.html"><span class="color-template color-template-gumdrops color-template-background-clip">Gumdrops</span></a><br/>
+<img alt="Honey" height="25" src="img/Honey.png" width="25"/>100,000,000 <a href="honey.html"><span class="color-template color-template-honey">Honey</span></a><br/>
+<img alt="Ticket" height="25" src="img/Ticket.png" width="25"/>1 <a href="ticket.html"><span class="color-template color-template-ticket color-template-background-clip">Ticket</span></a> (25% chance)<br/>
+<img alt="Glue" height="25" src="img/Glue.png" width="25"/>1 <a href="glue.html"><span class="color-template color-template-glue color-template-background-clip">Glue</span></a> (20% chance)
 </p>
 </td></tr>
 <tr>
@@ -1320,12 +1320,12 @@ After completing his Mythic Egg questline, Black Bear will randomly assign quest
 <ul><li>Collect 250,000,000 Pollen.</li>
 <li>Collect 75,000,000 Pollen from the Pineapple Patch.</li></ul>
 </td>
-<td><span typeof="mw:Error mw:File"></span>10 <a href="royal-jelly.html"><span class="color-template color-template-royal-jelly color-template-background-clip">Royal Jellies</span></a><br/>
-<p><span typeof="mw:Error mw:File"></span>1,000 <a href="treat.html"><span class="color-template color-template-treat">Treats</span></a><br/>
-<span typeof="mw:Error mw:File"></span>15 <a href="pineapple.html"><span class="color-template color-template-pineapple color-template-background-clip">Pineapples</span></a><br/>
-<span typeof="mw:Error mw:File"></span>100,000,000 <a href="honey.html"><span class="color-template color-template-honey">Honey</span></a><br/>
-<span typeof="mw:Error mw:File"></span>1 <a href="ticket.html"><span class="color-template color-template-ticket color-template-background-clip">Ticket</span></a> (25% chance)<br/>
-<span typeof="mw:Error mw:File"></span>1 <a href="enzymes.html"><span class="color-template color-template-enzymes color-template-background-clip">Enzymes</span></a> (25% chance)<br/>
+<td><img alt="Royal Jelly" height="25" src="img/Royal_Jelly.png" width="25"/>10 <a href="royal-jelly.html"><span class="color-template color-template-royal-jelly color-template-background-clip">Royal Jellies</span></a><br/>
+<p><img alt="Treat" height="25" src="img/Treat.png" width="25"/>1,000 <a href="treat.html"><span class="color-template color-template-treat">Treats</span></a><br/>
+<img alt="Pineapple" height="25" src="img/Pineapple.png" width="25"/>15 <a href="pineapple.html"><span class="color-template color-template-pineapple color-template-background-clip">Pineapples</span></a><br/>
+<img alt="Honey" height="25" src="img/Honey.png" width="25"/>100,000,000 <a href="honey.html"><span class="color-template color-template-honey">Honey</span></a><br/>
+<img alt="Ticket" height="25" src="img/Ticket.png" width="25"/>1 <a href="ticket.html"><span class="color-template color-template-ticket color-template-background-clip">Ticket</span></a> (25% chance)<br/>
+<img alt="Enzymes" height="25" src="img/Enzymes.png" width="25"/>1 <a href="enzymes.html"><span class="color-template color-template-enzymes color-template-background-clip">Enzymes</span></a> (25% chance)<br/>
 </p>
 </td></tr>
 <tr>
@@ -1336,12 +1336,12 @@ After completing his Mythic Egg questline, Black Bear will randomly assign quest
 <li>Collect 50,000,000 Pollen from the Strawberry Field</li>
 <li>Collect 50,000,000 Pollen from the Bamboo Field</li></ul>
 </td>
-<td><span typeof="mw:Error mw:File"></span>25 <a href="royal-jelly.html"><span class="color-template color-template-royal-jelly color-template-background-clip">Royal Jellies</span></a><br/>
-<p><span typeof="mw:Error mw:File"></span>1 <a href="ticket.html"><span class="color-template color-template-ticket color-template-background-clip">Ticket</span></a><br/>
-<span typeof="mw:Error mw:File"></span>2,500 <a href="treat.html"><span class="color-template color-template-treat">Treats</span></a><br/>
-<span typeof="mw:Error mw:File"></span>100,000,000 <a href="honey.html"><span class="color-template color-template-honey">Honey</span></a><br/>
-<span typeof="mw:Error mw:File"></span>1 <a href="red-extract.html"><span class="color-template color-template-red-extract color-template-background-clip">Red Extract</span></a> (10% chance)<br/>
-<span typeof="mw:Error mw:File"></span>1 <a href="blue-extract.html"><span class="color-template color-template-blue-extract color-template-background-clip">Blue Extract</span></a> (10% chance)
+<td><img alt="Royal Jelly" height="25" src="img/Royal_Jelly.png" width="25"/>25 <a href="royal-jelly.html"><span class="color-template color-template-royal-jelly color-template-background-clip">Royal Jellies</span></a><br/>
+<p><img alt="Ticket" height="25" src="img/Ticket.png" width="25"/>1 <a href="ticket.html"><span class="color-template color-template-ticket color-template-background-clip">Ticket</span></a><br/>
+<img alt="Treat" height="25" src="img/Treat.png" width="25"/>2,500 <a href="treat.html"><span class="color-template color-template-treat">Treats</span></a><br/>
+<img alt="Honey" height="25" src="img/Honey.png" width="25"/>100,000,000 <a href="honey.html"><span class="color-template color-template-honey">Honey</span></a><br/>
+<img alt="Red Extract" height="25" src="img/Red_Extract.png" width="25"/>1 <a href="red-extract.html"><span class="color-template color-template-red-extract color-template-background-clip">Red Extract</span></a> (10% chance)<br/>
+<img alt="Blue Extract" height="25" src="img/Blue_Extract.png" width="25"/>1 <a href="blue-extract.html"><span class="color-template color-template-blue-extract color-template-background-clip">Blue Extract</span></a> (10% chance)
 </p>
 </td></tr>
 <tr>
@@ -1350,12 +1350,12 @@ After completing his Mythic Egg questline, Black Bear will randomly assign quest
 <td>
 <ul><li>Collect 400,000,000 Pollen from the Pepper Patch.</li></ul>
 </td>
-<td><span typeof="mw:Error mw:File"></span>150,000,000 <a href="honey.html"><span class="color-template color-template-honey">Honey</span></a><br/>
-<p><span typeof="mw:Error mw:File"></span>25 <a href="royal-jelly.html"><span class="color-template color-template-royal-jelly color-template-background-clip">Royal Jellies</span></a><br/>
-<span typeof="mw:Error mw:File"></span>2,500 <a href="treat.html"><span class="color-template color-template-treat">Treats</span></a><br/>
-<span typeof="mw:Error mw:File"></span>10 <a href="bitterberry.html"><span class="color-template color-template-bitterberry color-template-background-clip">Bitterberries</span></a><br/>
-<span typeof="mw:Error mw:File"></span>1 <a href="stinger.html"><span class="color-template color-template-stinger color-template-background-clip">Stinger</span></a> (25% chance)<br/>
-<span typeof="mw:Error mw:File"></span>1 <a href="red-extract.html"><span class="color-template color-template-red-extract color-template-background-clip">Red Extract</span></a> (10% chance)
+<td><img alt="Honey" height="25" src="img/Honey.png" width="25"/>150,000,000 <a href="honey.html"><span class="color-template color-template-honey">Honey</span></a><br/>
+<p><img alt="Royal Jelly" height="25" src="img/Royal_Jelly.png" width="25"/>25 <a href="royal-jelly.html"><span class="color-template color-template-royal-jelly color-template-background-clip">Royal Jellies</span></a><br/>
+<img alt="Treat" height="25" src="img/Treat.png" width="25"/>2,500 <a href="treat.html"><span class="color-template color-template-treat">Treats</span></a><br/>
+<img alt="Bitterberry" height="25" src="img/Bitterberry.png" width="25"/>10 <a href="bitterberry.html"><span class="color-template color-template-bitterberry color-template-background-clip">Bitterberries</span></a><br/>
+<img alt="Stinger" height="25" src="img/Stinger.png" width="25"/>1 <a href="stinger.html"><span class="color-template color-template-stinger color-template-background-clip">Stinger</span></a> (25% chance)<br/>
+<img alt="Red Extract" height="25" src="img/Red_Extract.png" width="25"/>1 <a href="red-extract.html"><span class="color-template color-template-red-extract color-template-background-clip">Red Extract</span></a> (10% chance)
 </p>
 </td></tr>
 <tr>
@@ -1366,13 +1366,13 @@ After completing his Mythic Egg questline, Black Bear will randomly assign quest
 <li>Collect 150,000,000 Pollen from the Pepper Patch.</li>
 <li>Collect 150,000,000 Pollen from the Coconut Field.</li></ul>
 </td>
-<td><span typeof="mw:Error mw:File"></span>200,000,000 <a href="honey.html"><span class="color-template color-template-honey">Honey</span></a><br/>
-<p><span typeof="mw:Error mw:File"></span>25 <a href="royal-jelly.html"><span class="color-template color-template-royal-jelly color-template-background-clip">Royal Jellies</span></a><br/>
-<span typeof="mw:Error mw:File"></span>2,500 <a href="treat.html"><span class="color-template color-template-treat">Treats</span></a><br/>
-<span typeof="mw:Error mw:File"></span>1 <a href="neonberry.html"><span class="color-template color-template-neonberry color-template-background-clip">Neonberry</span></a><br/>
-<span typeof="mw:Error mw:File"></span>1 <a href="ticket.html"><span class="color-template color-template-ticket color-template-background-clip">Ticket</span></a> (25% chance)<br/>
-<span typeof="mw:Error mw:File"></span>1 <a href="tropical-drink.html"><span class="color-template color-template-tropical-drink color-template-background-clip">Tropical Drink</span></a> (10% chance)<br/>
-<span typeof="mw:Error mw:File"></span>1 <a href="glitter.html"><span class="color-template color-template-glitter color-template-background-clip">Glitter</span></a> (10% chance)
+<td><img alt="Honey" height="25" src="img/Honey.png" width="25"/>200,000,000 <a href="honey.html"><span class="color-template color-template-honey">Honey</span></a><br/>
+<p><img alt="Royal Jelly" height="25" src="img/Royal_Jelly.png" width="25"/>25 <a href="royal-jelly.html"><span class="color-template color-template-royal-jelly color-template-background-clip">Royal Jellies</span></a><br/>
+<img alt="Treat" height="25" src="img/Treat.png" width="25"/>2,500 <a href="treat.html"><span class="color-template color-template-treat">Treats</span></a><br/>
+<img alt="Neonberry" height="25" src="img/Neonberry.png" width="25"/>1 <a href="neonberry.html"><span class="color-template color-template-neonberry color-template-background-clip">Neonberry</span></a><br/>
+<img alt="Ticket" height="25" src="img/Ticket.png" width="25"/>1 <a href="ticket.html"><span class="color-template color-template-ticket color-template-background-clip">Ticket</span></a> (25% chance)<br/>
+<img alt="Tropical Drink" height="25" src="img/Tropical_Drink.png" width="25"/>1 <a href="tropical-drink.html"><span class="color-template color-template-tropical-drink color-template-background-clip">Tropical Drink</span></a> (10% chance)<br/>
+<img alt="Glitter" height="25" src="img/Glitter.png" width="25"/>1 <a href="glitter.html"><span class="color-template color-template-glitter color-template-background-clip">Glitter</span></a> (10% chance)
 </p>
 </td></tr></tbody></table>
 
@@ -1398,10 +1398,10 @@ After completing his 20 star jelly quests, Black Bear would randomly assign ques
 <td>
 <ul><li>Collect 1,000,000 Red Pollen.</li></ul>
 </td>
-<td><span typeof="mw:Error mw:File"></span>1 <a href="ticket.html"><span class="color-template color-template-ticket color-template-background-clip">Ticket</span></a><br/>
-<p><span typeof="mw:Error mw:File"></span>5 <a href="strawberry.html"><span class="color-template color-template-strawberry color-template-background-clip">Strawberries</span></a><br/>
-<span typeof="mw:Error mw:File"></span>500,000 <a href="honey.html"><span class="color-template color-template-honey">Honey</span></a><br/>
-<span typeof="mw:Error mw:File"></span>1 <a href="red-extract.html"><span class="color-template color-template-red-extract color-template-background-clip">Red Extract</span></a> (20% chance)
+<td><img alt="Ticket" height="25" src="img/Ticket.png" width="25"/>1 <a href="ticket.html"><span class="color-template color-template-ticket color-template-background-clip">Ticket</span></a><br/>
+<p><img alt="Strawberry" height="25" src="img/Strawberry.png" width="25"/>5 <a href="strawberry.html"><span class="color-template color-template-strawberry color-template-background-clip">Strawberries</span></a><br/>
+<img alt="Honey" height="25" src="img/Honey.png" width="25"/>500,000 <a href="honey.html"><span class="color-template color-template-honey">Honey</span></a><br/>
+<img alt="Red Extract" height="25" src="img/Red_Extract.png" width="25"/>1 <a href="red-extract.html"><span class="color-template color-template-red-extract color-template-background-clip">Red Extract</span></a> (20% chance)
 </p>
 </td></tr>
 <tr>
@@ -1410,10 +1410,10 @@ After completing his 20 star jelly quests, Black Bear would randomly assign ques
 <td>
 <ul><li>Collect 1,000,000 Blue Pollen.</li></ul>
 </td>
-<td><span typeof="mw:Error mw:File"></span>1 <a href="ticket.html"><span class="color-template color-template-ticket color-template-background-clip">Ticket</span></a><br/>
-<p><span typeof="mw:Error mw:File"></span>5 <a href="blueberry.html"><span class="color-template color-template-blueberry color-template-background-clip">Blueberries</span></a><br/>
-<span typeof="mw:Error mw:File"></span>500,000 <a href="honey.html"><span class="color-template color-template-honey">Honey</span></a><br/>
-<span typeof="mw:Error mw:File"></span>1 <a href="blue-extract.html"><span class="color-template color-template-blue-extract color-template-background-clip">Blue Extract</span></a> (20% chance)
+<td><img alt="Ticket" height="25" src="img/Ticket.png" width="25"/>1 <a href="ticket.html"><span class="color-template color-template-ticket color-template-background-clip">Ticket</span></a><br/>
+<p><img alt="Blueberry" height="25" src="img/Blueberry.png" width="25"/>5 <a href="blueberry.html"><span class="color-template color-template-blueberry color-template-background-clip">Blueberries</span></a><br/>
+<img alt="Honey" height="25" src="img/Honey.png" width="25"/>500,000 <a href="honey.html"><span class="color-template color-template-honey">Honey</span></a><br/>
+<img alt="Blue Extract" height="25" src="img/Blue_Extract.png" width="25"/>1 <a href="blue-extract.html"><span class="color-template color-template-blue-extract color-template-background-clip">Blue Extract</span></a> (20% chance)
 </p>
 </td></tr>
 <tr>
@@ -1422,10 +1422,10 @@ After completing his 20 star jelly quests, Black Bear would randomly assign ques
 <td>
 <ul><li>Collect 1,000,000 White Pollen.</li></ul>
 </td>
-<td><span typeof="mw:Error mw:File"></span>1 <a href="ticket.html"><span class="color-template color-template-ticket color-template-background-clip">Ticket</span></a><br/>
-<p><span typeof="mw:Error mw:File"></span>5 <a href="sunflower-seed.html"><span class="color-template color-template-sunflower-seed color-template-background-clip">Sunflower Seeds</span></a><br/>
-<span typeof="mw:Error mw:File"></span>500,000 <a href="honey.html"><span class="color-template color-template-honey">Honey</span></a><br/>
-<span typeof="mw:Error mw:File"></span>1 <a href="glitter.html"><span class="color-template color-template-glitter color-template-background-clip">Glitter</span></a> (10% chance)
+<td><img alt="Ticket" height="25" src="img/Ticket.png" width="25"/>1 <a href="ticket.html"><span class="color-template color-template-ticket color-template-background-clip">Ticket</span></a><br/>
+<p><img alt="Sunflower Seed" height="25" src="img/Sunflower_Seed.png" width="25"/>5 <a href="sunflower-seed.html"><span class="color-template color-template-sunflower-seed color-template-background-clip">Sunflower Seeds</span></a><br/>
+<img alt="Honey" height="25" src="img/Honey.png" width="25"/>500,000 <a href="honey.html"><span class="color-template color-template-honey">Honey</span></a><br/>
+<img alt="Glitter" height="25" src="img/Glitter.png" width="25"/>1 <a href="glitter.html"><span class="color-template color-template-glitter color-template-background-clip">Glitter</span></a> (10% chance)
 </p>
 </td></tr>
 <tr>
@@ -1434,11 +1434,11 @@ After completing his 20 star jelly quests, Black Bear would randomly assign ques
 <td>
 <ul><li>Collect 2,000,000 Pollen.</li></ul>
 </td>
-<td><span typeof="mw:Error mw:File"></span>1 <a href="ticket.html"><span class="color-template color-template-ticket color-template-background-clip">Ticket</span></a><br/>
-<p><span typeof="mw:Error mw:File"></span>1 <a href="royal-jelly.html"><span class="color-template color-template-royal-jelly color-template-background-clip">Royal Jelly</span></a><br/>
-<span typeof="mw:Error mw:File"></span>500,000 <a href="honey.html"><span class="color-template color-template-honey">Honey</span></a><br/>
-<span typeof="mw:Error mw:File"></span>1 <a href="oil.html"><span class="color-template color-template-oil color-template-background-clip">Oil</span></a> (10% chance)<br/>
-<span typeof="mw:Error mw:File"></span>1 <a href="enzymes.html"><span class="color-template color-template-enzymes color-template-background-clip">Enzymes</span></a> (10% chance)
+<td><img alt="Ticket" height="25" src="img/Ticket.png" width="25"/>1 <a href="ticket.html"><span class="color-template color-template-ticket color-template-background-clip">Ticket</span></a><br/>
+<p><img alt="Royal Jelly" height="25" src="img/Royal_Jelly.png" width="25"/>1 <a href="royal-jelly.html"><span class="color-template color-template-royal-jelly color-template-background-clip">Royal Jelly</span></a><br/>
+<img alt="Honey" height="25" src="img/Honey.png" width="25"/>500,000 <a href="honey.html"><span class="color-template color-template-honey">Honey</span></a><br/>
+<img alt="Oil" height="25" src="img/Oil.png" width="25"/>1 <a href="oil.html"><span class="color-template color-template-oil color-template-background-clip">Oil</span></a> (10% chance)<br/>
+<img alt="Enzymes" height="25" src="img/Enzymes.png" width="25"/>1 <a href="enzymes.html"><span class="color-template color-template-enzymes color-template-background-clip">Enzymes</span></a> (10% chance)
 </p>
 </td></tr>
 <tr>
@@ -1449,11 +1449,11 @@ After completing his 20 star jelly quests, Black Bear would randomly assign ques
 <li>Collect 750,000 Red Pollen.</li></ul>
 </td>
 <td><br/>
-<p><span typeof="mw:Error mw:File"></span>15 <a href="strawberry.html"><span class="color-template color-template-strawberry color-template-background-clip">Strawberries</span></a><br/>
-<span typeof="mw:Error mw:File"></span>15 <a href="blueberry.html"><span class="color-template color-template-blueberry color-template-background-clip">Blueberries</span></a><br/>
-<span typeof="mw:Error mw:File"></span>500,000 <a href="honey.html"><span class="color-template color-template-honey">Honey</span></a><br/>
-<span typeof="mw:Error mw:File"></span>1 <a href="red-extract.html"><span class="color-template color-template-red-extract color-template-background-clip">Red Extract</span></a> (10% chance)<br/>
-<span typeof="mw:Error mw:File"></span>1 <a href="blue-extract.html"><span class="color-template color-template-blue-extract color-template-background-clip">Blue Extract</span></a> (10% chance)
+<p><img alt="Strawberry" height="25" src="img/Strawberry.png" width="25"/>15 <a href="strawberry.html"><span class="color-template color-template-strawberry color-template-background-clip">Strawberries</span></a><br/>
+<img alt="Blueberry" height="25" src="img/Blueberry.png" width="25"/>15 <a href="blueberry.html"><span class="color-template color-template-blueberry color-template-background-clip">Blueberries</span></a><br/>
+<img alt="Honey" height="25" src="img/Honey.png" width="25"/>500,000 <a href="honey.html"><span class="color-template color-template-honey">Honey</span></a><br/>
+<img alt="Red Extract" height="25" src="img/Red_Extract.png" width="25"/>1 <a href="red-extract.html"><span class="color-template color-template-red-extract color-template-background-clip">Red Extract</span></a> (10% chance)<br/>
+<img alt="Blue Extract" height="25" src="img/Blue_Extract.png" width="25"/>1 <a href="blue-extract.html"><span class="color-template color-template-blue-extract color-template-background-clip">Blue Extract</span></a> (10% chance)
 </p>
 </td></tr>
 <tr>
@@ -1464,11 +1464,11 @@ After completing his 20 star jelly quests, Black Bear would randomly assign ques
 <li>Collect 1,500,000 Blue Pollen.</li>
 <li>Collect 1,500,000 White Pollen.</li></ul>
 </td>
-<td><span typeof="mw:Error mw:File"></span>1 <a href="ticket.html"><span class="color-template color-template-ticket color-template-background-clip">Ticket</span></a><br/>
-<p><span typeof="mw:Error mw:File"></span>3 <a href="royal-jelly.html"><span class="color-template color-template-royal-jelly color-template-background-clip">Royal Jellies</span></a><br/>
-<span typeof="mw:Error mw:File"></span>10 <a href="pineapple.html"><span class="color-template color-template-pineapple color-template-background-clip">Pineapples</span></a><br/>
-<span typeof="mw:Error mw:File"></span>1,500,000 <a href="honey.html"><span class="color-template color-template-honey">Honey</span></a><br/>
-<span typeof="mw:Error mw:File"></span>1 <a href="enzymes.html"><span class="color-template color-template-enzymes color-template-background-clip">Enzymes</span></a> (10% chance)
+<td><img alt="Ticket" height="25" src="img/Ticket.png" width="25"/>1 <a href="ticket.html"><span class="color-template color-template-ticket color-template-background-clip">Ticket</span></a><br/>
+<p><img alt="Royal Jelly" height="25" src="img/Royal_Jelly.png" width="25"/>3 <a href="royal-jelly.html"><span class="color-template color-template-royal-jelly color-template-background-clip">Royal Jellies</span></a><br/>
+<img alt="Pineapple" height="25" src="img/Pineapple.png" width="25"/>10 <a href="pineapple.html"><span class="color-template color-template-pineapple color-template-background-clip">Pineapples</span></a><br/>
+<img alt="Honey" height="25" src="img/Honey.png" width="25"/>1,500,000 <a href="honey.html"><span class="color-template color-template-honey">Honey</span></a><br/>
+<img alt="Enzymes" height="25" src="img/Enzymes.png" width="25"/>1 <a href="enzymes.html"><span class="color-template color-template-enzymes color-template-background-clip">Enzymes</span></a> (10% chance)
 </p>
 </td></tr>
 <tr>
@@ -1477,10 +1477,10 @@ After completing his 20 star jelly quests, Black Bear would randomly assign ques
 <td>
 <ul><li>Collect 2,000,000 Pollen from the Sunflower Field.</li></ul>
 </td>
-<td><span typeof="mw:Error mw:File"></span>1 <a href="ticket.html"><span class="color-template color-template-ticket color-template-background-clip">Ticket</span></a><br/>
-<p><span typeof="mw:Error mw:File"></span>50 <a href="treat.html"><span class="color-template color-template-treat">Treats</span></a><br/>
-<span typeof="mw:Error mw:File"></span>1,000,000 <a href="honey.html"><span class="color-template color-template-honey">Honey</span></a><br/>
-<span typeof="mw:Error mw:File"></span>1 <a href="oil.html"><span class="color-template color-template-oil color-template-background-clip">Oil</span></a> (25% chance)
+<td><img alt="Ticket" height="25" src="img/Ticket.png" width="25"/>1 <a href="ticket.html"><span class="color-template color-template-ticket color-template-background-clip">Ticket</span></a><br/>
+<p><img alt="Treat" height="25" src="img/Treat.png" width="25"/>50 <a href="treat.html"><span class="color-template color-template-treat">Treats</span></a><br/>
+<img alt="Honey" height="25" src="img/Honey.png" width="25"/>1,000,000 <a href="honey.html"><span class="color-template color-template-honey">Honey</span></a><br/>
+<img alt="Oil" height="25" src="img/Oil.png" width="25"/>1 <a href="oil.html"><span class="color-template color-template-oil color-template-background-clip">Oil</span></a> (25% chance)
 </p>
 </td></tr>
 <tr>
@@ -1489,10 +1489,10 @@ After completing his 20 star jelly quests, Black Bear would randomly assign ques
 <td>
 <ul><li>Collect 2,000,000 Pollen from the Blue Flower Field.</li></ul>
 </td>
-<td><span typeof="mw:Error mw:File"></span>1 <a href="ticket.html"><span class="color-template color-template-ticket color-template-background-clip">Ticket</span></a><br/>
-<p><span typeof="mw:Error mw:File"></span>50 <a href="treat.html"><span class="color-template color-template-treat">Treats</span></a><br/>
-<span typeof="mw:Error mw:File"></span>1,000,000 <a href="honey.html"><span class="color-template color-template-honey">Honey</span></a><br/>
-<span typeof="mw:Error mw:File"></span>1 <a href="blue-extract.html"><span class="color-template color-template-blue-extract color-template-background-clip">Blue Extract</span></a> (25% chance)
+<td><img alt="Ticket" height="25" src="img/Ticket.png" width="25"/>1 <a href="ticket.html"><span class="color-template color-template-ticket color-template-background-clip">Ticket</span></a><br/>
+<p><img alt="Treat" height="25" src="img/Treat.png" width="25"/>50 <a href="treat.html"><span class="color-template color-template-treat">Treats</span></a><br/>
+<img alt="Honey" height="25" src="img/Honey.png" width="25"/>1,000,000 <a href="honey.html"><span class="color-template color-template-honey">Honey</span></a><br/>
+<img alt="Blue Extract" height="25" src="img/Blue_Extract.png" width="25"/>1 <a href="blue-extract.html"><span class="color-template color-template-blue-extract color-template-background-clip">Blue Extract</span></a> (25% chance)
 </p>
 </td></tr>
 <tr>
@@ -1501,10 +1501,10 @@ After completing his 20 star jelly quests, Black Bear would randomly assign ques
 <td>
 <ul><li>Collect 2,000,000 Pollen from the Mushroom Field.</li></ul>
 </td>
-<td><span typeof="mw:Error mw:File"></span>1 <a href="ticket.html"><span class="color-template color-template-ticket color-template-background-clip">Ticket</span></a><br/>
-<p><span typeof="mw:Error mw:File"></span>50 <a href="treat.html"><span class="color-template color-template-treat">Treats</span></a><br/>
-<span typeof="mw:Error mw:File"></span>1,000,000 <a href="honey.html"><span class="color-template color-template-honey">Honey</span></a><br/>
-<span typeof="mw:Error mw:File"></span>1 <a href="red-extract.html"><span class="color-template color-template-red-extract color-template-background-clip">Red Extract</span></a> (25% chance)
+<td><img alt="Ticket" height="25" src="img/Ticket.png" width="25"/>1 <a href="ticket.html"><span class="color-template color-template-ticket color-template-background-clip">Ticket</span></a><br/>
+<p><img alt="Treat" height="25" src="img/Treat.png" width="25"/>50 <a href="treat.html"><span class="color-template color-template-treat">Treats</span></a><br/>
+<img alt="Honey" height="25" src="img/Honey.png" width="25"/>1,000,000 <a href="honey.html"><span class="color-template color-template-honey">Honey</span></a><br/>
+<img alt="Red Extract" height="25" src="img/Red_Extract.png" width="25"/>1 <a href="red-extract.html"><span class="color-template color-template-red-extract color-template-background-clip">Red Extract</span></a> (25% chance)
 </p>
 </td></tr>
 <tr>
@@ -1513,11 +1513,11 @@ After completing his 20 star jelly quests, Black Bear would randomly assign ques
 <td>
 <ul><li>Collect 2,000,000 Pollen from the Dandelion Field.</li></ul>
 </td>
-<td><span typeof="mw:Error mw:File"></span>1 <a href="ticket.html"><span class="color-template color-template-ticket color-template-background-clip">Ticket</span></a><br/>
-<p><span typeof="mw:Error mw:File"></span>50 <a href="treat.html"><span class="color-template color-template-treat">Treats</span></a><br/>
-<span typeof="mw:Error mw:File"></span>1,000,000 <a href="honey.html"><span class="color-template color-template-honey">Honey</span></a><br/>
-<span typeof="mw:Error mw:File"></span>1 <a href="glue.html"><span class="color-template color-template-glue color-template-background-clip">Glue</span></a> (25% chance)<br/>
-<span typeof="mw:Error mw:File"></span>1 <a href="glitter.html"><span class="color-template color-template-glitter color-template-background-clip">Glitter</span></a> (5% chance)
+<td><img alt="Ticket" height="25" src="img/Ticket.png" width="25"/>1 <a href="ticket.html"><span class="color-template color-template-ticket color-template-background-clip">Ticket</span></a><br/>
+<p><img alt="Treat" height="25" src="img/Treat.png" width="25"/>50 <a href="treat.html"><span class="color-template color-template-treat">Treats</span></a><br/>
+<img alt="Honey" height="25" src="img/Honey.png" width="25"/>1,000,000 <a href="honey.html"><span class="color-template color-template-honey">Honey</span></a><br/>
+<img alt="Glue" height="25" src="img/Glue.png" width="25"/>1 <a href="glue.html"><span class="color-template color-template-glue color-template-background-clip">Glue</span></a> (25% chance)<br/>
+<img alt="Glitter" height="25" src="img/Glitter.png" width="25"/>1 <a href="glitter.html"><span class="color-template color-template-glitter color-template-background-clip">Glitter</span></a> (5% chance)
 </p>
 </td></tr>
 <tr>
@@ -1529,12 +1529,12 @@ After completing his 20 star jelly quests, Black Bear would randomly assign ques
 <li>Collect 1,000,000 Pollen from the Mushroom Field.</li>
 <li>Collect 1,000,000 Pollen from the Blue Flower Field.</li></ul>
 </td>
-<td><span typeof="mw:Error mw:File"></span>1 <a href="ticket.html"><span class="color-template color-template-ticket color-template-background-clip">Ticket</span></a><br/>
-<p><span typeof="mw:Error mw:File"></span>3 <a href="royal-jelly.html"><span class="color-template color-template-royal-jelly color-template-background-clip">Royal Jellies</span></a><br/>
-<span typeof="mw:Error mw:File"></span>100 <a href="treat.html"><span class="color-template color-template-treat">Treats</span></a><br/>
-<span typeof="mw:Error mw:File"></span>2,000,000 <a href="honey.html"><span class="color-template color-template-honey">Honey</span></a><br/>
-<span typeof="mw:Error mw:File"></span>1 <a href="glue.html"><span class="color-template color-template-glue color-template-background-clip">Glue</span></a> (20% chance)<br/>
-<span typeof="mw:Error mw:File"></span>1 <a href="royal-jelly.html#Star_Jelly"><span class="color-template color-template-star-jelly color-template-background-clip">Star Jelly</span></a> (1% chance)
+<td><img alt="Ticket" height="25" src="img/Ticket.png" width="25"/>1 <a href="ticket.html"><span class="color-template color-template-ticket color-template-background-clip">Ticket</span></a><br/>
+<p><img alt="Royal Jelly" height="25" src="img/Royal_Jelly.png" width="25"/>3 <a href="royal-jelly.html"><span class="color-template color-template-royal-jelly color-template-background-clip">Royal Jellies</span></a><br/>
+<img alt="Treat" height="25" src="img/Treat.png" width="25"/>100 <a href="treat.html"><span class="color-template color-template-treat">Treats</span></a><br/>
+<img alt="Honey" height="25" src="img/Honey.png" width="25"/>2,000,000 <a href="honey.html"><span class="color-template color-template-honey">Honey</span></a><br/>
+<img alt="Glue" height="25" src="img/Glue.png" width="25"/>1 <a href="glue.html"><span class="color-template color-template-glue color-template-background-clip">Glue</span></a> (20% chance)<br/>
+<img alt="Star Jelly" height="25" src="img/Star_Jelly.png" width="25"/>1 <a href="royal-jelly.html#Star_Jelly"><span class="color-template color-template-star-jelly color-template-background-clip">Star Jelly</span></a> (1% chance)
 </p>
 </td></tr>
 <tr>
@@ -1543,10 +1543,10 @@ After completing his 20 star jelly quests, Black Bear would randomly assign ques
 <td>
 <ul><li>Collect 750,000 Pollen from the Strawberry Field.</li></ul>
 </td>
-<td><span typeof="mw:Error mw:File"></span>1 <a href="royal-jelly.html"><span class="color-template color-template-royal-jelly color-template-background-clip">Royal Jelly</span></a><br/>
-<p><span typeof="mw:Error mw:File"></span>25 <a href="treat.html"><span class="color-template color-template-treat">Treats</span></a><br/>
-<span typeof="mw:Error mw:File"></span>500,000 <a href="honey.html"><span class="color-template color-template-honey">Honey</span></a><br/>
-<span typeof="mw:Error mw:File"></span>1 <a href="red-extract.html"><span class="color-template color-template-red-extract color-template-background-clip">Red Extract</span></a> (20% chance)
+<td><img alt="Royal Jelly" height="25" src="img/Royal_Jelly.png" width="25"/>1 <a href="royal-jelly.html"><span class="color-template color-template-royal-jelly color-template-background-clip">Royal Jelly</span></a><br/>
+<p><img alt="Treat" height="25" src="img/Treat.png" width="25"/>25 <a href="treat.html"><span class="color-template color-template-treat">Treats</span></a><br/>
+<img alt="Honey" height="25" src="img/Honey.png" width="25"/>500,000 <a href="honey.html"><span class="color-template color-template-honey">Honey</span></a><br/>
+<img alt="Red Extract" height="25" src="img/Red_Extract.png" width="25"/>1 <a href="red-extract.html"><span class="color-template color-template-red-extract color-template-background-clip">Red Extract</span></a> (20% chance)
 </p>
 </td></tr>
 <tr>
@@ -1555,10 +1555,10 @@ After completing his 20 star jelly quests, Black Bear would randomly assign ques
 <td>
 <ul><li>Collect 750,000 Pollen from the Bamboo Field.</li></ul>
 </td>
-<td><span typeof="mw:Error mw:File"></span>1 <a href="royal-jelly.html"><span class="color-template color-template-royal-jelly color-template-background-clip">Royal Jelly</span></a><br/>
-<p><span typeof="mw:Error mw:File"></span>25 <a href="treat.html"><span class="color-template color-template-treat">Treats</span></a><br/>
-<span typeof="mw:Error mw:File"></span>500,000 <a href="honey.html"><span class="color-template color-template-honey">Honey</span></a><br/>
-<span typeof="mw:Error mw:File"></span>1 <a href="blue-extract.html"><span class="color-template color-template-blue-extract color-template-background-clip">Blue Extract</span></a> (20% chance)
+<td><img alt="Royal Jelly" height="25" src="img/Royal_Jelly.png" width="25"/>1 <a href="royal-jelly.html"><span class="color-template color-template-royal-jelly color-template-background-clip">Royal Jelly</span></a><br/>
+<p><img alt="Treat" height="25" src="img/Treat.png" width="25"/>25 <a href="treat.html"><span class="color-template color-template-treat">Treats</span></a><br/>
+<img alt="Honey" height="25" src="img/Honey.png" width="25"/>500,000 <a href="honey.html"><span class="color-template color-template-honey">Honey</span></a><br/>
+<img alt="Blue Extract" height="25" src="img/Blue_Extract.png" width="25"/>1 <a href="blue-extract.html"><span class="color-template color-template-blue-extract color-template-background-clip">Blue Extract</span></a> (20% chance)
 </p>
 </td></tr>
 <tr>
@@ -1567,10 +1567,10 @@ After completing his 20 star jelly quests, Black Bear would randomly assign ques
 <td>
 <ul><li>Collect 750,000 Pollen from the Pumpkin Patch.</li></ul>
 </td>
-<td><span typeof="mw:Error mw:File"></span>1 <a href="royal-jelly.html"><span class="color-template color-template-royal-jelly color-template-background-clip">Royal Jelly</span></a><br/>
-<p><span typeof="mw:Error mw:File"></span>25 <a href="treat.html"><span class="color-template color-template-treat">Treats</span></a><br/>
-<span typeof="mw:Error mw:File"></span>500,000 <a href="honey.html"><span class="color-template color-template-honey">Honey</span></a><br/>
-<span typeof="mw:Error mw:File"></span>1 <a href="glue.html"><span class="color-template color-template-glue color-template-background-clip">Glue</span></a> (20% chance)
+<td><img alt="Royal Jelly" height="25" src="img/Royal_Jelly.png" width="25"/>1 <a href="royal-jelly.html"><span class="color-template color-template-royal-jelly color-template-background-clip">Royal Jelly</span></a><br/>
+<p><img alt="Treat" height="25" src="img/Treat.png" width="25"/>25 <a href="treat.html"><span class="color-template color-template-treat">Treats</span></a><br/>
+<img alt="Honey" height="25" src="img/Honey.png" width="25"/>500,000 <a href="honey.html"><span class="color-template color-template-honey">Honey</span></a><br/>
+<img alt="Glue" height="25" src="img/Glue.png" width="25"/>1 <a href="glue.html"><span class="color-template color-template-glue color-template-background-clip">Glue</span></a> (20% chance)
 </p>
 </td></tr>
 <tr>
@@ -1579,10 +1579,10 @@ After completing his 20 star jelly quests, Black Bear would randomly assign ques
 <td>
 <ul><li>Collect 750,000 Pollen from the Pineapple Patch.</li></ul>
 </td>
-<td><span typeof="mw:Error mw:File"></span>1 <a href="royal-jelly.html"><span class="color-template color-template-royal-jelly color-template-background-clip">Royal Jelly</span></a><br/>
-<p><span typeof="mw:Error mw:File"></span>25 <a href="treat.html"><span class="color-template color-template-treat">Treats</span></a><br/>
-<span typeof="mw:Error mw:File"></span>500,000 <a href="honey.html"><span class="color-template color-template-honey">Honey</span></a><br/>
-<span typeof="mw:Error mw:File"></span>1 <a href="enzymes.html"><span class="color-template color-template-enzymes color-template-background-clip">Enzymes</span></a> (25% chance)<br/>
+<td><img alt="Royal Jelly" height="25" src="img/Royal_Jelly.png" width="25"/>1 <a href="royal-jelly.html"><span class="color-template color-template-royal-jelly color-template-background-clip">Royal Jelly</span></a><br/>
+<p><img alt="Treat" height="25" src="img/Treat.png" width="25"/>25 <a href="treat.html"><span class="color-template color-template-treat">Treats</span></a><br/>
+<img alt="Honey" height="25" src="img/Honey.png" width="25"/>500,000 <a href="honey.html"><span class="color-template color-template-honey">Honey</span></a><br/>
+<img alt="Enzymes" height="25" src="img/Enzymes.png" width="25"/>1 <a href="enzymes.html"><span class="color-template color-template-enzymes color-template-background-clip">Enzymes</span></a> (25% chance)<br/>
 </p>
 </td></tr>
 <tr>
@@ -1593,11 +1593,11 @@ After completing his 20 star jelly quests, Black Bear would randomly assign ques
 <li>Collect 500,000 Pollen from the Strawberry Field</li>
 <li>Collect 500,000 Pollen from the Bamboo Field</li></ul>
 </td>
-<td><span typeof="mw:Error mw:File"></span>3 <a href="royal-jelly.html"><span class="color-template color-template-royal-jelly color-template-background-clip">Royal Jellies</span></a><br/>
-<p><span typeof="mw:Error mw:File"></span>50 <a href="treat.html"><span class="color-template color-template-treat">Treats</span></a><br/>
-<span typeof="mw:Error mw:File"></span>1,000,000 <a href="honey.html"><span class="color-template color-template-honey">Honey</span></a><br/>
-<span typeof="mw:Error mw:File"></span>1 <a href="red-extract.html"><span class="color-template color-template-red-extract color-template-background-clip">Red Extract</span></a> (10% chance)<br/>
-<span typeof="mw:Error mw:File"></span>1 <a href="blue-extract.html"><span class="color-template color-template-blue-extract color-template-background-clip">Blue Extract</span></a> (10% chance)
+<td><img alt="Royal Jelly" height="25" src="img/Royal_Jelly.png" width="25"/>3 <a href="royal-jelly.html"><span class="color-template color-template-royal-jelly color-template-background-clip">Royal Jellies</span></a><br/>
+<p><img alt="Treat" height="25" src="img/Treat.png" width="25"/>50 <a href="treat.html"><span class="color-template color-template-treat">Treats</span></a><br/>
+<img alt="Honey" height="25" src="img/Honey.png" width="25"/>1,000,000 <a href="honey.html"><span class="color-template color-template-honey">Honey</span></a><br/>
+<img alt="Red Extract" height="25" src="img/Red_Extract.png" width="25"/>1 <a href="red-extract.html"><span class="color-template color-template-red-extract color-template-background-clip">Red Extract</span></a> (10% chance)<br/>
+<img alt="Blue Extract" height="25" src="img/Blue_Extract.png" width="25"/>1 <a href="blue-extract.html"><span class="color-template color-template-blue-extract color-template-background-clip">Blue Extract</span></a> (10% chance)
 </p>
 </td></tr></tbody></table>
 
@@ -2437,11 +2437,11 @@ The following content has been removed from the game. The contents below may be 
 <li>Collect 5 Tokens from <a href="leaves.html">Leaves</a> in the Dandelion Field.</li>
 <li>Collect 5 Tokens from <a href="leaves.html">Leaves</a> in the Blue Flower Field.</li></ul>
 </td>
-<td><span typeof="mw:Error mw:File"></span>25,000 <a href="honey.html"><span class="color-template color-template-honey">Honey</span></a><br/>
-<p><span typeof="mw:Error mw:File"></span>5 <a href="ticket.html"><span class="color-template color-template-ticket color-template-background-clip">Tickets</span></a><br/>
-<span typeof="mw:Error mw:File"></span>5 <a href="micro-converter.html"><span class="color-template color-template-micro-converter color-template-background-clip">Micro-Converters</span></a><br/>
-<span typeof="mw:Error mw:File"></span>1 <a href="royal-jelly.html"><span class="color-template color-template-royal-jelly color-template-background-clip">Royal Jelly</span></a><br/>
-<span typeof="mw:Error mw:File"></span>1 <a href="gingerbread-bear.html"><span class="color-template color-template-gingerbread-bear color-template-background-clip">Gingerbread Bear</span></a><br/>
+<td><img alt="Honey" height="25" src="img/Honey.png" width="25"/>25,000 <a href="honey.html"><span class="color-template color-template-honey">Honey</span></a><br/>
+<p><img alt="Ticket" height="25" src="img/Ticket.png" width="25"/>5 <a href="ticket.html"><span class="color-template color-template-ticket color-template-background-clip">Tickets</span></a><br/>
+<img alt="Micro-Converter" height="25" src="img/Micro-Converter.png" width="25"/>5 <a href="micro-converter.html"><span class="color-template color-template-micro-converter color-template-background-clip">Micro-Converters</span></a><br/>
+<img alt="Royal Jelly" height="25" src="img/Royal_Jelly.png" width="25"/>1 <a href="royal-jelly.html"><span class="color-template color-template-royal-jelly color-template-background-clip">Royal Jelly</span></a><br/>
+<img alt="Gingerbread Bear" height="25" src="img/Gingerbread_Bear.png" width="25"/>1 <a href="gingerbread-bear.html"><span class="color-template color-template-gingerbread-bear color-template-background-clip">Gingerbread Bear</span></a><br/>
 Access to the <a href="honey-wreath.html">Honey Wreath</a>
 </p>
 </td></tr></tbody></table>
@@ -2484,10 +2484,10 @@ The following content has been removed from the game. The contents below may be 
 <li>Collect 25 Honey Tokens.</li>
 <li>Collect 5 Tokens from <a href="leaves.html">Leaves</a>.</li></ul>
 </td>
-<td><span typeof="mw:Error mw:File"></span>2,500 <a href="honey.html"><span class="color-template color-template-honey">Honey</span></a><br/>
-<p><span typeof="mw:Error mw:File"></span>5 <a href="ticket.html"><span class="color-template color-template-ticket color-template-background-clip">Tickets</span></a><br/>
-<span typeof="mw:Error mw:File"></span>5 <a href="whirligig.html"><span class="color-template color-template-whirligig color-template-background-clip">Whirligigs</span></a><br/>
-<span typeof="mw:Error mw:File"></span>10 <a href="snowflake.html"><span class="color-template color-template-snowflake color-template-background-clip">Snowflakes</span></a>
+<td><img alt="Honey" height="25" src="img/Honey.png" width="25"/>2,500 <a href="honey.html"><span class="color-template color-template-honey">Honey</span></a><br/>
+<p><img alt="Ticket" height="25" src="img/Ticket.png" width="25"/>5 <a href="ticket.html"><span class="color-template color-template-ticket color-template-background-clip">Tickets</span></a><br/>
+<img alt="Whirligig" height="25" src="img/Whirligig.png" width="25"/>5 <a href="whirligig.html"><span class="color-template color-template-whirligig color-template-background-clip">Whirligigs</span></a><br/>
+<img alt="Snowflake" height="25" src="img/Snowflake.png" width="25"/>10 <a href="snowflake.html"><span class="color-template color-template-snowflake color-template-background-clip">Snowflakes</span></a>
 </p>
 </td></tr></tbody></table>
 
@@ -2883,10 +2883,6 @@ Honey Jar <a href="ornaments.html">Ornament</a>
 </p><p>Oh yes! This [Ornament] is going to turn out great! Just give me a second... ...(Snip snip snip)... ...(Glue glue glue)... All done, look! We've made a [Honey Jar Ornament]! This is a replica of the most exquisite honey brand I've ever tried. With this on the Beesmas Tree, you'll receive the following boosts: +10 Capacity; +5% Honey Per Pollen; And x1.25 Pollen from the Sunflower Field! Those boosts will last for the entire winter event! Keep making [Ornaments] to get more boosts. Oh, and once you've made enough of them... You may be able to open gift boxes you find around the map! Goodluck <i>[sic]</i>, and Happy Beesmas!
 </p>
 </td></tr></tbody></table>
-
-## Gallery
-
-<div class="wikia-gallery wikia-gallery-caption-below wikia-gallery-position-left wikia-gallery-spacing-medium wikia-gallery-border-small wikia-gallery-captions-left wikia-gallery-caption-size-medium" data-seq-no="0" hash="26ba026c25185415ef14eb3c7c94d9f9" id="gallery-0"><div class="wikia-gallery-caption"></div><div class="wikia-gallery-item" style="width:187px; "><div class="thumb" style="height:187px;"><div class="gallery-image-wrapper accent" id="Bb-standing-png" style="position: relative; height:185px; width:185px;"><span style="line-height: 1;">Bb-standing.png</span></div></div><div class="lightbox-caption" style="width:185px;">Black Bear.</div></div><div class="wikia-gallery-item" style="width:187px; "><div class="thumb" style="height:187px;"><div class="gallery-image-wrapper accent" id="Honey_Jar_Ornament-png" style="position: relative; height:185px; width:185px;"><span style="line-height: 1;">Honey Jar Ornament.png</span></div></div><div class="lightbox-caption" style="width:185px;">Black Bear's ornament between Beesmas 2019 and 2025.</div></div><div class="wikia-gallery-item" style="width:187px; "><div class="thumb" style="height:187px;"><div class="gallery-image-wrapper accent" id="BlackBearOnTheTree-png" style="position: relative; height:185px; width:185px;"><span style="line-height: 1;">BlackBearOnTheTree.png</span></div></div><div class="lightbox-caption" style="width:185px;">Black Bear's ornament on the tree.</div></div></div>
 
 ## Trivia
 

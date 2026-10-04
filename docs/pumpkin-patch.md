@@ -174,10 +174,6 @@ This is a 17x33 field, containing 561 [flowers](flowers.md). The flowers are whi
   * Boo swarm (Gives 4x Pumpkin Patch Boost + 15x Pumpkin Patch Winds + other stuff)
 * Purchasing a Pumpkin Patch [Market Boost](buffs-debuffs.md#From_Areas) from the [Boost Market](boost-market.md) will give x1.5 [Pumpkin Patch Capacity](field-capacity.md), x1.25 Pumpkin Patch Pollen, x1.25 [Capacity](system-page.md#Capacity_Multiplier), and +50 [Convert Amount](system-page.md#Convert_Amount).
 
-## Gallery
-
-<div class="wikia-gallery wikia-gallery-caption-below wikia-gallery-position-left wikia-gallery-spacing-medium wikia-gallery-border-small wikia-gallery-captions-left wikia-gallery-caption-size-medium" data-seq-no="0" hash="88b0515776914e9a48dc939038e07836" id="gallery-0"><div class="wikia-gallery-caption"></div><div class="wikia-gallery-item" style="width:187px; "><div class="thumb" style="height:187px;"><div class="gallery-image-wrapper accent" id="Hivesticker_pumpkin_patch_stamp-png" style="position: relative; height:185px; width:185px;"><span style="line-height: 1;">Hivesticker pumpkin patch stamp.png</span></div></div><div class="lightbox-caption" style="width:185px;">The Pumpkin Patch's associated <a href="sticker.html">field stamp</a>.</div></div></div>
-
 ## Trivia
 
 * This [field's badge](badges.md#Pumpkin_Badge) and the [Sunflower Badge](badges.md#Sunflower_Badge) are used 3 times for chances in [Memory Match](memory-match.md), the most out of any field badges.

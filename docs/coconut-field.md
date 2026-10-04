@@ -162,10 +162,6 @@ This is a 30x21 field, containing 630 [flowers](flowers.md). The flowers are whi
   * Purchasing a Coconut Field [Market Boost](buffs-debuffs.md#From_Areas) from the [Boost Market](boost-market.md) will give x1.5 Coconut [Field Capacity](field-capacity.md), x1.25 Coconut Field Pollen, x2.5 Pollen from Coconuts, and x1.1 [White Pollen](system-page.md#White_Pollen).
   * Mocito100T (Gave Coconut Field Boost x2 and Coconut Field Capacity x2 + other stuff).
 
-## Gallery
-
-<div class="wikia-gallery wikia-gallery-caption-below wikia-gallery-position-left wikia-gallery-spacing-medium wikia-gallery-border-small wikia-gallery-captions-left wikia-gallery-caption-size-medium" data-seq-no="0" hash="a4a4792349344360d0be90ddb771d5b7" id="gallery-0"><div class="wikia-gallery-caption"></div><div class="wikia-gallery-item" style="width:187px; "><div class="thumb" style="height:187px;"><div class="gallery-image-wrapper accent" id="Hivesticker_coconut_field_stamp-png" style="position: relative; height:185px; width:185px;"><span style="line-height: 1;">Hivesticker coconut field stamp.png</span></div></div><div class="lightbox-caption" style="width:185px;">Coconut Field's associated <a href="sticker.html">field stamp</a>.</div></div></div>
-
 ## Trivia
 
 * This is the only field where [sprouts](sprout.md) and [leaves](leaves.md) can yield coconuts and tropical drinks.

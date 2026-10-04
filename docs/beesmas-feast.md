@@ -15,7 +15,7 @@ The following content has been removed from the game. The contents below may be 
 <h2 class="pi-item pi-header pi-secondary-font pi-item-spacing pi-secondary-background">Information</h2>
 <div class="pi-item pi-data pi-item-spacing pi-border-color" data-source="usage">
 <h3 class="pi-data-label pi-secondary-font">Usage</h3>
-<div class="pi-data-value pi-font">Obtaining <a href="bond.html">bond</a>, <span typeof="mw:Error mw:File"></span><a href="bitterberry.html"><span class="color-template color-template-bitterberry color-template-background-clip">Bitterberries</span></a>, and various <a href="treats.html">treats</a></div>
+<div class="pi-data-value pi-font">Obtaining <a href="bond.html">bond</a>, <img alt="Bitterberry" height="35" src="img/Bitterberry.png" width="35"/><a href="bitterberry.html"><span class="color-template color-template-bitterberry color-template-background-clip">Bitterberries</span></a>, and various <a href="treats.html">treats</a></div>
 </div>
 <div class="pi-item pi-data pi-item-spacing pi-border-color" data-source="requirement">
 <h3 class="pi-data-label pi-secondary-font">Requirement(s)</h3>
@@ -57,29 +57,25 @@ If a player walks onto the platform without completing his quest, it displays th
 <td><span class="arithmatex">\(100+\left\lfloor {\frac {{\text{PolarPower}}^{1.5}}{10}}\right\rfloor \cdot 10\)</span>
 </td></tr>
 <tr>
-<td><span typeof="mw:Error mw:File"></span><a href="treat.html"><span class="color-template color-template-treat">Treats</span></a> (total)
+<td><img alt="Treat" height="35" src="img/Treat.png" width="35"/><a href="treat.html"><span class="color-template color-template-treat">Treats</span></a> (total)
 </td>
 <td><span class="arithmatex">\(2\cdot \left\lfloor {\frac {25+\left\lfloor {\text{PolarPower}}^{1.5}+0.5\right\rfloor }{2}}+0.5\right\rfloor\)</span>
 </td></tr>
 <tr>
-<td><span typeof="mw:Error mw:File"></span><a href="bitterberry.html"><span class="color-template color-template-bitterberry color-template-background-clip">Bitterberries</span></a> (total)
+<td><img alt="Bitterberry" height="35" src="img/Bitterberry.png" width="35"/><a href="bitterberry.html"><span class="color-template color-template-bitterberry color-template-background-clip">Bitterberries</span></a> (total)
 </td>
 <td><span class="arithmatex">\(2\cdot \left\lfloor {\frac {10+\left\lfloor {\text{PolarPower}}^{0.4}+0.5\right\rfloor }{2}}+0.5\right\rfloor\)</span>
 </td></tr>
 <tr>
 <td>One of the following:<br/>
-<p><span typeof="mw:Error mw:File"></span><a href="strawberry.html"><span class="color-template color-template-strawberry color-template-background-clip">Strawberries</span></a><br/>
-<span typeof="mw:Error mw:File"></span><a href="pineapple.html"><span class="color-template color-template-pineapple color-template-background-clip">Pineapples</span></a><br/>
-<span typeof="mw:Error mw:File"></span><a href="blueberry.html"><span class="color-template color-template-blueberry color-template-background-clip">Blueberries</span></a><br/>
-<span typeof="mw:Error mw:File"></span><a href="sunflower-seed.html"><span class="color-template color-template-sunflower-seed color-template-background-clip">Sunflower Seeds</span></a>
+<p><img alt="Strawberry" height="35" src="img/Strawberry.png" width="35"/><a href="strawberry.html"><span class="color-template color-template-strawberry color-template-background-clip">Strawberries</span></a><br/>
+<img alt="Pineapple" height="35" src="img/Pineapple.png" width="35"/><a href="pineapple.html"><span class="color-template color-template-pineapple color-template-background-clip">Pineapples</span></a><br/>
+<img alt="Blueberry" height="35" src="img/Blueberry.png" width="35"/><a href="blueberry.html"><span class="color-template color-template-blueberry color-template-background-clip">Blueberries</span></a><br/>
+<img alt="Sunflower Seed" height="35" src="img/Sunflower_Seed.png" width="35"/><a href="sunflower-seed.html"><span class="color-template color-template-sunflower-seed color-template-background-clip">Sunflower Seeds</span></a>
 </p>
 </td>
 <td><span class="arithmatex">\(2\cdot \left\lfloor 15+{\frac {\left\lfloor {\text{PolarPower}}^{0.6}+0.5\right\rfloor }{2}}+0.5\right\rfloor\)</span>
 </td></tr></tbody></table>
-
-## Gallery
-
-<div class="wikia-gallery wikia-gallery-caption-below wikia-gallery-position-left wikia-gallery-spacing-medium wikia-gallery-border-small wikia-gallery-captions-left wikia-gallery-caption-size-medium" data-seq-no="0" hash="d899886a3f5920c29422b1e545256679" id="gallery-0"><div class="wikia-gallery-caption"></div><div class="wikia-gallery-item" style="width:187px; "><div class="thumb" style="height:187px;"><div class="gallery-image-wrapper accent" id="RobloxScreenShot20220228_195119586-png" style="position: relative; height:185px; width:185px;"><span style="line-height: 1;">RobloxScreenShot20220228 195119586.png</span></div></div><div class="lightbox-caption" style="width:185px;">A player claiming tokens from the Beesmas Feast.</div></div><div class="wikia-gallery-item" style="width:187px; "><div class="thumb" style="height:187px;"><div class="gallery-image-wrapper accent" id="BeesmasFeastPreComplete-jpg" style="position: relative; height:185px; width:185px;"><span style="line-height: 1;">BeesmasFeastPreComplete.jpg</span></div></div><div class="lightbox-caption" style="width:185px;">The Beesmas Feast before completing Polar Bear's Beesmas quest.</div></div></div>
 
 ## Trivia
 

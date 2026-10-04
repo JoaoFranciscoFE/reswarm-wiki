@@ -241,7 +241,7 @@ Star Jelly turns a bee into a random gifted bee, with the same rarity chances as
 <tbody><tr>
 <td>
 <ul><li>Completing all of <span class="new" data-uncrawlable-url="L3dpa2kvRGlnaXRhbF9CZWVfKE5QQyk/YWN0aW9uPWVkaXQmcmVkbGluaz0x" title="Digital Bee (NPC) (page does not exist)">Digital Bee's</span> quests during the <span class="new" data-uncrawlable-url="L3dpa2kvUmVhZHlfUGxheWVyX1R3bz9hY3Rpb249ZWRpdCZyZWRsaW5rPTE=" title="Ready Player Two (page does not exist)">Ready Player 2</span> event.</li>
-<li>Purchasing from Bee Bear’s Catalog for <span typeof="mw:Error mw:File"></span>500 <a href="snowflake.html"><span class="color-template color-template-snowflake color-template-background-clip">Snowflakes</span></a> (one time purchase).</li>
+<li>Purchasing from Bee Bear’s Catalog for <img alt="Snowflake" height="25" src="img/Snowflake.png" width="25"/>500 <a href="snowflake.html"><span class="color-template color-template-snowflake color-template-background-clip">Snowflakes</span></a> (one time purchase).</li>
 <li>Joining the game at the Honeyday event after Onett's apology for making the Beesmas 2020 event late. If the player joined when the update was announced and the server shut down immediately afterwards, the cutscene would reappear and the player would get two star jellies instead.</li>
 <li>By purchasing the Star Jelly in Bee Bear's Catalog.</li>
 <li>As a reward from <a href="memory-match.html#Winter_Memory_Match">Winter Memory Match.</a></li>
@@ -444,7 +444,7 @@ Total required for all single-purchase items: 12 **Royal Jellies**
 <caption>
 </caption>
 <tbody><tr>
-<th style="text-align: center"><span typeof="mw:Error mw:File"></span><strong class="mw-selflink selflink"><span class="color-template color-template-royal-jelly color-template-background-clip">Royal Jellies</span></strong>
+<th style="text-align: center"><img alt="Royal Jelly" height="35" src="img/Royal_Jelly.png" width="35"/><strong class="mw-selflink selflink"><span class="color-template color-template-royal-jelly color-template-background-clip">Royal Jellies</span></strong>
 </th>
 <th>Other ingredients
 </th>
@@ -453,44 +453,44 @@ Total required for all single-purchase items: 12 **Royal Jellies**
 <tr>
 <td><div style="text-align: center;">10
 </div></td>
-<td><span typeof="mw:Error mw:File"></span>50 <a href="strawberry.html"><span class="color-template color-template-strawberry color-template-background-clip">Strawberries</span></a>
+<td><img alt="Strawberry" height="25" src="img/Strawberry.png" width="25"/>50 <a href="strawberry.html"><span class="color-template color-template-strawberry color-template-background-clip">Strawberries</span></a>
 </td>
 <td><figure class="mw-halign-center" typeof="mw:Error mw:File"><figcaption></figcaption></figure><div style="text-align: center;"><a href="red-extract.html"><span class="color-template color-template-red-extract color-template-background-clip">Red Extract</span></a>
 </div></td></tr>
 <tr>
 <td><div style="text-align: center;">10
 </div></td>
-<td><span typeof="mw:Error mw:File"></span>50 <a href="blueberry.html"><span class="color-template color-template-blueberry color-template-background-clip">Blueberries</span></a>
+<td><img alt="Blueberry" height="25" src="img/Blueberry.png" width="25"/>50 <a href="blueberry.html"><span class="color-template color-template-blueberry color-template-background-clip">Blueberries</span></a>
 </td>
 <td><figure class="mw-halign-center" typeof="mw:Error mw:File"><figcaption></figcaption></figure><div style="text-align: center;"><a href="blue-extract.html"><span class="color-template color-template-blue-extract color-template-background-clip">Blue Extract</span></a>
 </div></td></tr>
 <tr>
 <td><div style="text-align: center;">10
 </div></td>
-<td><span typeof="mw:Error mw:File"></span>50 <a href="sunflower-seed.html"><span class="color-template color-template-sunflower-seed color-template-background-clip">Sunflower Seeds</span></a>
+<td><img alt="Sunflower Seed" height="25" src="img/Sunflower_Seed.png" width="25"/>50 <a href="sunflower-seed.html"><span class="color-template color-template-sunflower-seed color-template-background-clip">Sunflower Seeds</span></a>
 </td>
 <td><figure class="mw-halign-center" typeof="mw:Error mw:File"><figcaption></figcaption></figure><div style="text-align: center;"><a href="oil.html"><span class="color-template color-template-oil color-template-background-clip">Oil</span></a>
 </div></td></tr>
 <tr>
 <td><div style="text-align: center;">10
 </div></td>
-<td><span typeof="mw:Error mw:File"></span>50 <a href="pineapple.html"><span class="color-template color-template-pineapple color-template-background-clip">Pineapples</span></a>
+<td><img alt="Pineapple" height="25" src="img/Pineapple.png" width="25"/>50 <a href="pineapple.html"><span class="color-template color-template-pineapple color-template-background-clip">Pineapples</span></a>
 </td>
 <td><figure class="mw-halign-center" typeof="mw:Error mw:File"><figcaption></figcaption></figure><div style="text-align: center;"><a href="enzymes.html"><span class="color-template color-template-enzymes color-template-background-clip">Enzymes</span></a>
 </div></td></tr>
 <tr>
 <td><div style="text-align: center;">10
 </div></td>
-<td><span typeof="mw:Error mw:File"></span>50 <a href="gumdrops.html"><span class="color-template color-template-gumdrops color-template-background-clip">Gumdrops</span></a>
+<td><img alt="Gumdrops" height="25" src="img/Gumdrops.png" width="25"/>50 <a href="gumdrops.html"><span class="color-template color-template-gumdrops color-template-background-clip">Gumdrops</span></a>
 </td>
 <td><figure class="mw-halign-center" typeof="mw:Error mw:File"><figcaption></figcaption></figure><div style="text-align: center;"><a href="glue.html"><span class="color-template color-template-glue color-template-background-clip">Glue</span></a>
 </div></td></tr>
 <tr>
 <td><div style="text-align: center;">10
 </div></td>
-<td><span typeof="mw:Error mw:File"></span>5 <a href="honeysuckle.html"><span class="color-template color-template-honeysuckle color-template-background-clip">Honeysuckles</span></a><br/>
-<p><span typeof="mw:Error mw:File"></span>1 <a href="oil.html"><span class="color-template color-template-oil color-template-background-clip">Oil</span></a><br/>
-<span typeof="mw:Error mw:File"></span>1 <a href="enzymes.html"><span class="color-template color-template-enzymes color-template-background-clip">Enzymes</span></a>
+<td><img alt="Honeysuckle" height="25" src="img/Honeysuckle.png" width="25"/>5 <a href="honeysuckle.html"><span class="color-template color-template-honeysuckle color-template-background-clip">Honeysuckles</span></a><br/>
+<p><img alt="Oil" height="25" src="img/Oil.png" width="25"/>1 <a href="oil.html"><span class="color-template color-template-oil color-template-background-clip">Oil</span></a><br/>
+<img alt="Enzymes" height="25" src="img/Enzymes.png" width="25"/>1 <a href="enzymes.html"><span class="color-template color-template-enzymes color-template-background-clip">Enzymes</span></a>
 </p>
 </td>
 <td><figure class="mw-halign-center" typeof="mw:Error mw:File"><figcaption></figcaption></figure><div style="text-align: center;"><a href="soft-wax.html"><span class="color-template color-template-soft-wax">Soft Wax</span></a>
@@ -498,9 +498,9 @@ Total required for all single-purchase items: 12 **Royal Jellies**
 <tr>
 <td><div style="text-align: center;">33
 </div></td>
-<td><span typeof="mw:Error mw:File"></span>3 <a href="soft-wax.html"><span class="color-template color-template-soft-wax">Soft Waxes</span></a><br/>
-<p><span typeof="mw:Error mw:File"></span>3 <a href="enzymes.html"><span class="color-template color-template-enzymes color-template-background-clip">Enzymes</span></a><br/>
-<span typeof="mw:Error mw:File"></span>33 <a href="bitterberry.html"><span class="color-template color-template-bitterberry color-template-background-clip">Bitterberries</span></a>
+<td><img alt="Soft Wax" height="25" src="img/Soft_Wax.png" width="25"/>3 <a href="soft-wax.html"><span class="color-template color-template-soft-wax">Soft Waxes</span></a><br/>
+<p><img alt="Enzymes" height="25" src="img/Enzymes.png" width="25"/>3 <a href="enzymes.html"><span class="color-template color-template-enzymes color-template-background-clip">Enzymes</span></a><br/>
+<img alt="Bitterberry" height="25" src="img/Bitterberry.png" width="25"/>33 <a href="bitterberry.html"><span class="color-template color-template-bitterberry color-template-background-clip">Bitterberries</span></a>
 </p>
 </td>
 <td><figure class="mw-halign-center" typeof="mw:Error mw:File"><figcaption></figcaption></figure><div style="text-align: center;"><a href="hard-wax.html"><span class="color-template color-template-hard-wax">Hard Wax</span></a>
@@ -508,9 +508,9 @@ Total required for all single-purchase items: 12 **Royal Jellies**
 <tr>
 <td><div style="text-align: center;">3,333
 </div></td>
-<td><span typeof="mw:Error mw:File"></span>3 <a href="hard-wax.html"><span class="color-template color-template-hard-wax">Hard Waxes</span></a><br/>
-<p><span typeof="mw:Error mw:File"></span>9 <a href="soft-wax.html"><span class="color-template color-template-soft-wax">Soft Waxes</span></a><br/>
-<span typeof="mw:Error mw:File"></span>6 <a href="purple-potion.html"><span class="color-template color-template-purple-potion color-template-background-clip">Purple Potions</span></a>
+<td><img alt="Hard Wax" height="25" src="img/Hard_Wax.png" width="25"/>3 <a href="hard-wax.html"><span class="color-template color-template-hard-wax">Hard Waxes</span></a><br/>
+<p><img alt="Soft Wax" height="25" src="img/Soft_Wax.png" width="25"/>9 <a href="soft-wax.html"><span class="color-template color-template-soft-wax">Soft Waxes</span></a><br/>
+<img alt="Purple Potion" height="25" src="img/Purple_Potion.png" width="25"/>6 <a href="purple-potion.html"><span class="color-template color-template-purple-potion color-template-background-clip">Purple Potions</span></a>
 </p>
 </td>
 <td><figure class="mw-halign-center" typeof="mw:Error mw:File"><figcaption></figcaption></figure><div style="text-align: center;"><a href="swirled-wax.html"><span class="color-template color-template-swirled-wax color-template-background-clip">Swirled Wax</span></a>
@@ -518,9 +518,9 @@ Total required for all single-purchase items: 12 **Royal Jellies**
 <tr>
 <td><div style="text-align: center;">5,252
 </div></td>
-<td><span typeof="mw:Error mw:File"></span>5 <a href="hard-wax.html"><span class="color-template color-template-hard-wax">Hard Waxes</span></a><br/>
-<p><span typeof="mw:Error mw:File"></span>5 <a href="enzymes.html"><span class="color-template color-template-enzymes color-template-background-clip">Enzymes</span></a><br/>
-<span typeof="mw:Error mw:File"></span>25 <a href="neonberry.html"><span class="color-template color-template-neonberry color-template-background-clip">Neonberries</span></a>
+<td><img alt="Hard Wax" height="25" src="img/Hard_Wax.png" width="25"/>5 <a href="hard-wax.html"><span class="color-template color-template-hard-wax">Hard Waxes</span></a><br/>
+<p><img alt="Enzymes" height="25" src="img/Enzymes.png" width="25"/>5 <a href="enzymes.html"><span class="color-template color-template-enzymes color-template-background-clip">Enzymes</span></a><br/>
+<img alt="Neonberry" height="25" src="img/Neonberry.png" width="25"/>25 <a href="neonberry.html"><span class="color-template color-template-neonberry color-template-background-clip">Neonberries</span></a>
 </p>
 </td>
 <td><figure class="mw-halign-center" typeof="mw:Error mw:File"><figcaption></figcaption></figure><div style="text-align: center;"><a href="caustic-wax.html"><span class="color-template color-template-caustic-wax">Caustic Wax</span></a>
@@ -528,15 +528,15 @@ Total required for all single-purchase items: 12 **Royal Jellies**
 <tr>
 <td><div style="text-align: center;">100
 </div></td>
-<td><span typeof="mw:Error mw:File"></span>3 <a href="glitter.html"><span class="color-template color-template-glitter color-template-background-clip">Glitter</span></a>
+<td><img alt="Glitter" height="25" src="img/Glitter.png" width="25"/>3 <a href="glitter.html"><span class="color-template color-template-glitter color-template-background-clip">Glitter</span></a>
 </td>
 <td><figure class="mw-halign-center" typeof="mw:Error mw:File"><figcaption></figcaption></figure><div style="text-align: center;"><span class="color-template color-template-star-jelly color-template-background-clip">Star Jelly</span>
 </div></td></tr>
 <tr>
 <td><div style="text-align: center;">1
 </div></td>
-<td><span typeof="mw:Error mw:File"></span>50 <a href="strawberry.html"><span class="color-template color-template-strawberry color-template-background-clip">Strawberries</span></a><br/>
-<p><span typeof="mw:Error mw:File"></span>1 <a href="stinger.html"><span class="color-template color-template-stinger color-template-background-clip">Stinger</span></a>
+<td><img alt="Strawberry" height="25" src="img/Strawberry.png" width="25"/>50 <a href="strawberry.html"><span class="color-template color-template-strawberry color-template-background-clip">Strawberries</span></a><br/>
+<p><img alt="Stinger" height="25" src="img/Stinger.png" width="25"/>1 <a href="stinger.html"><span class="color-template color-template-stinger color-template-background-clip">Stinger</span></a>
 </p>
 </td>
 <td><figure class="mw-halign-center" typeof="mw:File"><img alt="Red Guard" data-image-key="Red_Guard.png" data-image-name="Red Guard.png" data-relevant="1" height="80" src="img/Red_Guard.png" width="80"/><figcaption></figcaption></figure><div style="text-align: center;"><a href="red-guard.html">Red Guard</a>
@@ -544,8 +544,8 @@ Total required for all single-purchase items: 12 **Royal Jellies**
 <tr>
 <td><div style="text-align: center;">1
 </div></td>
-<td><span typeof="mw:Error mw:File"></span>50 <a href="blueberry.html"><span class="color-template color-template-blueberry color-template-background-clip">Blueberries</span></a><br/>
-<p><span typeof="mw:Error mw:File"></span>3 <a href="moon-charm.html"><span class="color-template color-template-moon-charm color-template-background-clip">Moon Charms</span></a>
+<td><img alt="Blueberry" height="25" src="img/Blueberry.png" width="25"/>50 <a href="blueberry.html"><span class="color-template color-template-blueberry color-template-background-clip">Blueberries</span></a><br/>
+<p><img alt="Moon Charm" height="25" src="img/Moon_Charm.png" width="25"/>3 <a href="moon-charm.html"><span class="color-template color-template-moon-charm color-template-background-clip">Moon Charms</span></a>
 </p>
 </td>
 <td><figure class="mw-halign-center" typeof="mw:File"><img alt="Blue Guard" data-image-key="Blue_Guard.png" data-image-name="Blue Guard.png" data-relevant="1" height="80" src="img/Blue_Guard.png" width="80"/><figcaption></figcaption></figure><div style="text-align: center;"><a href="blue-guard.html">Blue Guard</a>
@@ -553,9 +553,9 @@ Total required for all single-purchase items: 12 **Royal Jellies**
 <tr>
 <td><div style="text-align: center;">5
 </div></td>
-<td><span typeof="mw:Error mw:File"></span>1 <a href="red-extract.html"><span class="color-template color-template-red-extract color-template-background-clip">Red Extract</span></a><br/>
-<p><span typeof="mw:Error mw:File"></span>50 <a href="strawberry.html"><span class="color-template color-template-strawberry color-template-background-clip">Strawberries</span></a><br/>
-<span typeof="mw:Error mw:File"></span>5 <a href="stinger.html"><span class="color-template color-template-stinger color-template-background-clip">Stingers</span></a>
+<td><img alt="Red Extract" height="25" src="img/Red_Extract.png" width="25"/>1 <a href="red-extract.html"><span class="color-template color-template-red-extract color-template-background-clip">Red Extract</span></a><br/>
+<p><img alt="Strawberry" height="25" src="img/Strawberry.png" width="25"/>50 <a href="strawberry.html"><span class="color-template color-template-strawberry color-template-background-clip">Strawberries</span></a><br/>
+<img alt="Stinger" height="25" src="img/Stinger.png" width="25"/>5 <a href="stinger.html"><span class="color-template color-template-stinger color-template-background-clip">Stingers</span></a>
 </p>
 </td>
 <td><figure class="mw-halign-center" typeof="mw:File"><img alt="Elite Red Guard" data-image-key="Elite_Red_Guard.png" data-image-name="Elite Red Guard.png" data-relevant="1" height="80" src="img/Elite_Red_Guard.png" width="80"/><figcaption></figcaption></figure><div style="text-align: center;"><a href="elite-red-guard.html">Elite Red Guard</a>
@@ -563,9 +563,9 @@ Total required for all single-purchase items: 12 **Royal Jellies**
 <tr>
 <td><div style="text-align: center;">5
 </div></td>
-<td><span typeof="mw:Error mw:File"></span>1 <a href="blue-extract.html"><span class="color-template color-template-blue-extract color-template-background-clip">Blue Extract</span></a><br/>
-<p><span typeof="mw:Error mw:File"></span>50 <a href="blueberry.html"><span class="color-template color-template-blueberry color-template-background-clip">Blueberries</span></a><br/>
-<span typeof="mw:Error mw:File"></span>15 <a href="moon-charm.html"><span class="color-template color-template-moon-charm color-template-background-clip">Moon Charms</span></a>
+<td><img alt="Blue Extract" height="25" src="img/Blue_Extract.png" width="25"/>1 <a href="blue-extract.html"><span class="color-template color-template-blue-extract color-template-background-clip">Blue Extract</span></a><br/>
+<p><img alt="Blueberry" height="25" src="img/Blueberry.png" width="25"/>50 <a href="blueberry.html"><span class="color-template color-template-blueberry color-template-background-clip">Blueberries</span></a><br/>
+<img alt="Moon Charm" height="25" src="img/Moon_Charm.png" width="25"/>15 <a href="moon-charm.html"><span class="color-template color-template-moon-charm color-template-background-clip">Moon Charms</span></a>
 </p>
 </td>
 <td><figure class="mw-halign-center" typeof="mw:File"><img alt="Elite Blue Guard" data-image-key="Elite_Blue_Guard.png" data-image-name="Elite Blue Guard.png" data-relevant="1" height="80" src="img/Elite_Blue_Guard.png" width="80"/><figcaption></figcaption></figure><div style="text-align: center;"><a href="elite-blue-guard.html">Elite Blue Guard</a>
@@ -588,9 +588,9 @@ Total required for all single-purchase items: 35 Star Jellies
 <tr>
 <td><div style="text-align: center;">3
 </div></td>
-<td><span typeof="mw:Error mw:File"></span>3 <a href="neonberry.html"><span class="color-template color-template-neonberry color-template-background-clip">Neonberries</span></a><br/>
-<p><span typeof="mw:Error mw:File"></span>3 <a href="purple-potion.html"><span class="color-template color-template-purple-potion color-template-background-clip">Purple Potions</span></a><br/>
-<span typeof="mw:Error mw:File"></span>6 <a href="tropical-drink.html"><span class="color-template color-template-tropical-drink color-template-background-clip">Tropical Drinks</span></a>
+<td><img alt="Neonberry" height="25" src="img/Neonberry.png" width="25"/>3 <a href="neonberry.html"><span class="color-template color-template-neonberry color-template-background-clip">Neonberries</span></a><br/>
+<p><img alt="Purple Potion" height="25" src="img/Purple_Potion.png" width="25"/>3 <a href="purple-potion.html"><span class="color-template color-template-purple-potion color-template-background-clip">Purple Potions</span></a><br/>
+<img alt="Tropical Drink" height="25" src="img/Tropical_Drink.png" width="25"/>6 <a href="tropical-drink.html"><span class="color-template color-template-tropical-drink color-template-background-clip">Tropical Drinks</span></a>
 </p>
 </td>
 <td><figure class="mw-halign-center" typeof="mw:Error mw:File"><figcaption></figcaption></figure><div style="text-align: center;"><a href="super-smoothie.html"><span class="color-template color-template-super-smoothie color-template-background-clip">Super Smoothie</span></a>
@@ -598,9 +598,9 @@ Total required for all single-purchase items: 35 Star Jellies
 <tr>
 <td><div style="text-align: center;">100
 </div></td>
-<td><span typeof="mw:Error mw:File"></span>10 <a href="super-smoothie.html"><span class="color-template color-template-super-smoothie color-template-background-clip">Super Smoothies</span></a><br/>
-<p><span typeof="mw:Error mw:File"></span>10 <a href="caustic-wax.html"><span class="color-template color-template-caustic-wax">Caustic Waxes</span></a><br/>
-<span typeof="mw:Error mw:File"></span>1,000 <a href="honeysuckle.html"><span class="color-template color-template-honeysuckle color-template-background-clip">Honeysuckles</span></a>
+<td><img alt="Super Smoothie" height="25" src="img/Super_Smoothie.png" width="25"/>10 <a href="super-smoothie.html"><span class="color-template color-template-super-smoothie color-template-background-clip">Super Smoothies</span></a><br/>
+<p><img alt="Caustic Wax" height="25" src="img/Caustic_Wax.png" width="25"/>10 <a href="caustic-wax.html"><span class="color-template color-template-caustic-wax">Caustic Waxes</span></a><br/>
+<img alt="Honeysuckle" height="25" src="img/Honeysuckle.png" width="25"/>1,000 <a href="honeysuckle.html"><span class="color-template color-template-honeysuckle color-template-background-clip">Honeysuckles</span></a>
 </p>
 </td>
 <td><figure class="mw-halign-center" typeof="mw:Error mw:File"><figcaption></figcaption></figure><div style="text-align: center;"><a href="turpentine.html"><span class="color-template color-template-turpentine color-template-background-clip">Turpentine</span></a>
@@ -609,9 +609,9 @@ Total required for all single-purchase items: 35 Star Jellies
 <td><div style="text-align: center;">10
 </div></td>
 <td><span typeof="mw:Error mw:File"></span><span style="border-bottom:1px dotted;" title="1,500,000,000">1.5B</span> <a href="honey.html"><span class="color-template color-template-honey">Honey</span></a><br/>
-<p><span typeof="mw:Error mw:File"></span>25 <a href="glitter.html"><span class="color-template color-template-glitter color-template-background-clip">Glitter</span></a><br/>
-<span typeof="mw:Error mw:File"></span>75 <a href="enzymes.html"><span class="color-template color-template-enzymes color-template-background-clip">Enzymes</span></a><br/>
-<span typeof="mw:Error mw:File"></span>1 <a href="spirit-petal.html"><span class="color-template color-template-spirit-petal color-template-background-clip">Spirit Petal</span></a>
+<p><img alt="Glitter" height="25" src="img/Glitter.png" width="25"/>25 <a href="glitter.html"><span class="color-template color-template-glitter color-template-background-clip">Glitter</span></a><br/>
+<img alt="Enzymes" height="25" src="img/Enzymes.png" width="25"/>75 <a href="enzymes.html"><span class="color-template color-template-enzymes color-template-background-clip">Enzymes</span></a><br/>
+<img alt="Spirit Petal" height="25" src="img/Spirit_Petal.png" width="25"/>1 <a href="spirit-petal.html"><span class="color-template color-template-spirit-petal color-template-background-clip">Spirit Petal</span></a>
 </p>
 </td>
 <td><figure class="mw-halign-center" typeof="mw:Error mw:File"><figcaption></figcaption></figure><div style="text-align: center;"><a href="petal-wand.html">Petal Wand</a>
@@ -620,9 +620,9 @@ Total required for all single-purchase items: 35 Star Jellies
 <td><div style="text-align: center;">25
 </div></td>
 <td><span typeof="mw:Error mw:File"></span><span style="border-bottom:1px dotted;" title="15,000,000,000">15B</span> <a href="honey.html"><span class="color-template color-template-honey">Honey</span></a><br/>
-<p><span typeof="mw:Error mw:File"></span>50 <a href="glitter.html"><span class="color-template color-template-glitter color-template-background-clip">Glitter</span></a><br/>
-<span typeof="mw:Error mw:File"></span>100 <a href="glue.html"><span class="color-template color-template-glue color-template-background-clip">Glues</span></a><br/>
-<span typeof="mw:Error mw:File"></span>1 <a href="spirit-petal.html"><span class="color-template color-template-spirit-petal color-template-background-clip">Spirit Petal</span></a>
+<p><img alt="Glitter" height="25" src="img/Glitter.png" width="25"/>50 <a href="glitter.html"><span class="color-template color-template-glitter color-template-background-clip">Glitter</span></a><br/>
+<img alt="Glue" height="25" src="img/Glue.png" width="25"/>100 <a href="glue.html"><span class="color-template color-template-glue color-template-background-clip">Glues</span></a><br/>
+<img alt="Spirit Petal" height="25" src="img/Spirit_Petal.png" width="25"/>1 <a href="spirit-petal.html"><span class="color-template color-template-spirit-petal color-template-background-clip">Spirit Petal</span></a>
 </p>
 </td>
 <td><figure class="mw-halign-center" typeof="mw:File"><img alt="Petal Belt" data-image-key="Petal_Belt.png" data-image-name="Petal Belt.png" data-relevant="1" height="80" src="img/Petal_Belt.png" width="80"/><figcaption></figcaption></figure><div style="text-align: center;"><a href="petal-belt.html">Petal Belt</a>
@@ -671,12 +671,12 @@ Total required for all single-purchase items: 35 Star Jellies
 <tr>
 <th class="NavCategory">Sub-Inventories
 </th>
-<td class="NavLinks NavLinksBasicOdd" colspan="2"><b><span typeof="mw:Error mw:File"></span> <a href="sticker.html">Sticker</a> • <img alt="Beequip Case" height="35" src="img/Beequip_Case.png" width="35"/> <a href="beequip.html">Beequip Case</a></b>
+<td class="NavLinks NavLinksBasicOdd" colspan="2"><b><img alt="Sticker" height="35" src="img/Sticker.png" width="35"/> <a href="sticker.html">Sticker</a> • <img alt="Beequip Case" height="35" src="img/Beequip_Case.png" width="35"/> <a href="beequip.html">Beequip Case</a></b>
 </td></tr>
 <tr>
 <th class="NavCategory" rowspan="8">Regular
 </th>
-<td class="NavLinks NavLinksBasicEven" colspan="2"><b><img alt="Sprinkler Builder" height="35" src="img/Sprinkler_Builder.png" width="35"/> <a href="sprinklers.html">Sprinkler Builder</a> • <img alt="Gumdrops" height="35" src="img/Gumdrops.png" width="35"/> <a href="gumdrops.html">Gumdrops</a> • <img alt="Coconut" height="35" src="img/Coconut.png" width="35"/> <a href="coconut.html">Coconut</a> • <img alt="Stinger" height="35" src="img/Stinger.png" width="35"/> <a href="stinger.html">Stinger</a> • <img alt="Micro-Converter" height="35" src="img/Micro-Converter.png" width="35"/> <a href="micro-converter.html">Micro-Converter</a> • <img alt="Honeysuckle" height="35" src="img/Honeysuckle.png" width="35"/> <a href="honeysuckle.html">Honeysuckle</a> • <img alt="Whirligig" height="35" src="img/Whirligig.png" width="35"/> <a href="whirligig.html">Whirligig</a> • <img alt="Jelly Beans" height="35" src="img/Jelly_Beans.png" width="35"/> <a href="jelly-beans.html">Jelly Beans</a> • <img alt="Magic Bean" height="35" src="img/Magic_Bean.png" width="35"/> <a href="magic-bean.html">Magic Bean</a> • <img alt="Cloud Vial" height="35" src="img/Cloud_Vial.png" width="35"/> <a href="cloud-vial.html">Cloud Vial</a> • <img alt="Night Bell" height="35" src="img/Night_Bell.png" width="35"/> <a href="night-bell.html">Night Bell</a> • <img alt="Ant Pass" height="35" src="img/Ant_Pass.png" width="35"/> <a href="ant-pass.html">Ant Pass</a> • <img alt="Robo Pass" height="35" src="img/Robo_Pass.png" width="35"/> <a href="robo-pass.html">Robo Pass</a> • <img alt="Box-O-Frogs" height="35" src="img/Box-O-Frogs.png" width="35"/> <a href="box-o-frogs.html">Box-O-Frogs</a> •  <img alt="Turpentine" height="35" src="img/Turpentine.png" width="35"/> <a href="turpentine.html">Turpentine</a> • <span typeof="mw:Error mw:File"></span> <a href="egg.html">Eggs</a> • <img alt="Royal Jelly" height="35" src="img/Royal_Jelly.png" width="35"/> <strong class="mw-selflink selflink">Royal Jelly</strong> • <span typeof="mw:Error mw:File"></span> Star Jelly</b> • <img alt="Bloom Shaker" height="35" src="img/Bloom_Shaker.png" width="35"/> <a href="bloom-shaker.html">Bloom Shaker</a><b></b>
+<td class="NavLinks NavLinksBasicEven" colspan="2"><b><img alt="Sprinkler Builder" height="35" src="img/Sprinkler_Builder.png" width="35"/> <a href="sprinklers.html">Sprinkler Builder</a> • <img alt="Gumdrops" height="35" src="img/Gumdrops.png" width="35"/> <a href="gumdrops.html">Gumdrops</a> • <img alt="Coconut" height="35" src="img/Coconut.png" width="35"/> <a href="coconut.html">Coconut</a> • <img alt="Stinger" height="35" src="img/Stinger.png" width="35"/> <a href="stinger.html">Stinger</a> • <img alt="Micro-Converter" height="35" src="img/Micro-Converter.png" width="35"/> <a href="micro-converter.html">Micro-Converter</a> • <img alt="Honeysuckle" height="35" src="img/Honeysuckle.png" width="35"/> <a href="honeysuckle.html">Honeysuckle</a> • <img alt="Whirligig" height="35" src="img/Whirligig.png" width="35"/> <a href="whirligig.html">Whirligig</a> • <img alt="Jelly Beans" height="35" src="img/Jelly_Beans.png" width="35"/> <a href="jelly-beans.html">Jelly Beans</a> • <img alt="Magic Bean" height="35" src="img/Magic_Bean.png" width="35"/> <a href="magic-bean.html">Magic Bean</a> • <img alt="Cloud Vial" height="35" src="img/Cloud_Vial.png" width="35"/> <a href="cloud-vial.html">Cloud Vial</a> • <img alt="Night Bell" height="35" src="img/Night_Bell.png" width="35"/> <a href="night-bell.html">Night Bell</a> • <img alt="Ant Pass" height="35" src="img/Ant_Pass.png" width="35"/> <a href="ant-pass.html">Ant Pass</a> • <img alt="Robo Pass" height="35" src="img/Robo_Pass.png" width="35"/> <a href="robo-pass.html">Robo Pass</a> • <img alt="Box-O-Frogs" height="35" src="img/Box-O-Frogs.png" width="35"/> <a href="box-o-frogs.html">Box-O-Frogs</a> •  <img alt="Turpentine" height="35" src="img/Turpentine.png" width="35"/> <a href="turpentine.html">Turpentine</a> • <img alt="Basic Egg" height="35" src="img/Basic_Egg.png" width="35"/> <a href="egg.html">Eggs</a> • <img alt="Royal Jelly" height="35" src="img/Royal_Jelly.png" width="35"/> <strong class="mw-selflink selflink">Royal Jelly</strong> • <span typeof="mw:Error mw:File"></span> Star Jelly</b> • <img alt="Bloom Shaker" height="35" src="img/Bloom_Shaker.png" width="35"/> <a href="bloom-shaker.html">Bloom Shaker</a><b></b>
 </td></tr>
 <tr>
 <th class="NavCategory">Crafting Materials
@@ -718,7 +718,7 @@ Total required for all single-purchase items: 35 Star Jellies
 </th>
 <th class="NavCategory">Quest Exclusive
 </th>
-<td class="NavLinks NavLinksBasicEven"><b><img alt="Translator" height="35" src="img/Translator.png" width="35"/> <a href="translator.html">Translator</a> • <img alt="Spirit Petal" height="35" src="img/Spirit_Petal.png" width="35"/> <a href="spirit-petal.html">Spirit Petal</a> • <img alt="Debug Wax" height="35" src="img/Debug_Wax.png" width="35"/> <a href="debug-wax.html">Debug Wax</a> • <span typeof="mw:Error mw:File"></span> <a href="nectar-tester.html">Nectar Tester</a></b> • <span typeof="mw:Error mw:File"></span> <a href="bbm-s-apology.html">BBM's Apology</a><b></b>
+<td class="NavLinks NavLinksBasicEven"><b><img alt="Translator" height="35" src="img/Translator.png" width="35"/> <a href="translator.html">Translator</a> • <img alt="Spirit Petal" height="35" src="img/Spirit_Petal.png" width="35"/> <a href="spirit-petal.html">Spirit Petal</a> • <img alt="Debug Wax" height="35" src="img/Debug_Wax.png" width="35"/> <a href="debug-wax.html">Debug Wax</a> • <img alt="Nectar Tester" height="35" src="img/Nectar_Tester.png" width="35"/> <a href="nectar-tester.html">Nectar Tester</a></b> • <span typeof="mw:Error mw:File"></span> <a href="bbm-s-apology.html">BBM's Apology</a><b></b>
 </td></tr>
 <tr>
 <th class="NavCategory">Beesmas
@@ -756,7 +756,7 @@ Total required for all single-purchase items: 35 Star Jellies
 <tr>
 <th class="NavCategory">Pollen<br/>Collectors
 </th>
-<td class="NavLinks NavLinksBasicOdd"><b><img alt="Scooper" height="35" src="img/Scooper.png" width="35"/> <a href="scooper.html">Scooper</a> • <img alt="Rake" height="35" src="img/Rake.png" width="35"/> <a href="rake.html">Rake</a> • <img alt="Clippers" height="35" src="img/Clippers.png" width="35"/> <a href="clippers.html">Clippers</a> • <img alt="Magnet" height="35" src="img/Magnet.png" width="35"/> <a href="magnet.html">Magnet</a> • <img alt="Vacuum" height="35" src="img/Vacuum.png" width="35"/> <a href="vacuum.html">Vacuum</a> • <img alt="Super-Scooper" height="35" src="img/Super-Scooper.png" width="35"/> <a href="super-scooper.html">Super-Scooper</a> • <img alt="Pulsar" height="35" src="img/Pulsar.png" width="35"/> <a href="pulsar.html">Pulsar</a> • <img alt="Electro-Magnet" height="35" src="img/Electro-Magnet.png" width="35"/> <a href="electro-magnet.html">Electro-Magnet</a> • <img alt="Scissors" height="35" src="img/Scissors.png" width="35"/> <a href="scissors.html">Scissors</a> • <img alt="Honey Dipper" height="35" src="img/Honey_Dipper.png" width="35"/> <a href="honey-dipper.html">Honey Dipper</a> • <img alt="Bubble Wand" height="35" src="img/Bubble_Wand.png" width="35"/> <a href="bubble-wand.html">Bubble Wand</a> • <img alt="Scythe" height="35" src="img/Scythe.png" width="35"/> <a href="scythe.html">Scythe</a> • <span typeof="mw:Error mw:File"></span> <a href="sticker-seeker.html">Sticker-Seeker</a> • <img alt="Golden Rake" height="35" src="img/Golden_Rake.png" width="35"/> <a href="golden-rake.html">Golden Rake</a> • <img alt="Spark Staff" height="35" src="img/Spark_Staff.png" width="35"/> <a href="spark-staff.html">Spark Staff</a> • <img alt="Porcelain Dipper" height="35" src="img/Porcelain_Dipper.png" width="35"/> <a href="porcelain-dipper.html">Porcelain Dipper</a> • <img alt="Petal Wand" height="35" src="img/Petal_Wand.png" width="35"/> <a href="petal-wand.html">Petal Wand</a> • <img alt="Dark Scythe" height="35" src="img/Dark_Scythe.png" width="35"/> <a href="dark-scythe.html">Dark Scythe</a> • <img alt="Tide Popper" height="35" src="img/Tide_Popper.png" width="35"/> <a href="tide-popper.html">Tide Popper</a> • <img alt="Gummyballer" height="35" src="img/Gummyballer.png" width="35"/> <a href="gummyballer.html">Gummyballer</a></b>
+<td class="NavLinks NavLinksBasicOdd"><b><img alt="Scooper" height="35" src="img/Scooper.png" width="35"/> <a href="scooper.html">Scooper</a> • <img alt="Rake" height="35" src="img/Rake.png" width="35"/> <a href="rake.html">Rake</a> • <img alt="Clippers" height="35" src="img/Clippers.png" width="35"/> <a href="clippers.html">Clippers</a> • <img alt="Magnet" height="35" src="img/Magnet.png" width="35"/> <a href="magnet.html">Magnet</a> • <img alt="Vacuum" height="35" src="img/Vacuum.png" width="35"/> <a href="vacuum.html">Vacuum</a> • <img alt="Super-Scooper" height="35" src="img/Super-Scooper.png" width="35"/> <a href="super-scooper.html">Super-Scooper</a> • <img alt="Pulsar" height="35" src="img/Pulsar.png" width="35"/> <a href="pulsar.html">Pulsar</a> • <img alt="Electro-Magnet" height="35" src="img/Electro-Magnet.png" width="35"/> <a href="electro-magnet.html">Electro-Magnet</a> • <img alt="Scissors" height="35" src="img/Scissors.png" width="35"/> <a href="scissors.html">Scissors</a> • <img alt="Honey Dipper" height="35" src="img/Honey_Dipper.png" width="35"/> <a href="honey-dipper.html">Honey Dipper</a> • <img alt="Bubble Wand" height="35" src="img/Bubble_Wand.png" width="35"/> <a href="bubble-wand.html">Bubble Wand</a> • <img alt="Scythe" height="35" src="img/Scythe.png" width="35"/> <a href="scythe.html">Scythe</a> • <img alt="Sticker-Seeker" height="35" src="img/Sticker-Seeker.png" width="35"/> <a href="sticker-seeker.html">Sticker-Seeker</a> • <img alt="Golden Rake" height="35" src="img/Golden_Rake.png" width="35"/> <a href="golden-rake.html">Golden Rake</a> • <img alt="Spark Staff" height="35" src="img/Spark_Staff.png" width="35"/> <a href="spark-staff.html">Spark Staff</a> • <img alt="Porcelain Dipper" height="35" src="img/Porcelain_Dipper.png" width="35"/> <a href="porcelain-dipper.html">Porcelain Dipper</a> • <img alt="Petal Wand" height="35" src="img/Petal_Wand.png" width="35"/> <a href="petal-wand.html">Petal Wand</a> • <img alt="Dark Scythe" height="35" src="img/Dark_Scythe.png" width="35"/> <a href="dark-scythe.html">Dark Scythe</a> • <img alt="Tide Popper" height="35" src="img/Tide_Popper.png" width="35"/> <a href="tide-popper.html">Tide Popper</a> • <img alt="Gummyballer" height="35" src="img/Gummyballer.png" width="35"/> <a href="gummyballer.html">Gummyballer</a></b>
 </td></tr>
 <tr>
 <th class="NavCategory">Sprinklers
@@ -804,7 +804,7 @@ Total required for all single-purchase items: 35 Star Jellies
 <tr>
 <th class="NavCategory">Amulets
 </th>
-<td class="NavLinks NavLinksBasicEven"><b><span typeof="mw:Error mw:File"></span> <a href="king-beetle-amulet.html">King Beetle Amulet</a> • <span typeof="mw:Error mw:File"></span> <a href="moon-amulet.html">Moon Amulet</a> • <span typeof="mw:Error mw:File"></span> <a href="ant-amulet.html">Ant Amulet</a> • <span typeof="mw:Error mw:File"></span> <a href="star-amulet.html">Star Amulet</a> • <span typeof="mw:Error mw:File"></span> <a href="shell-amulet.html">Shell Amulet</a> • <span typeof="mw:Error mw:File"></span> <a href="stick-bug-amulet.html">Stick Bug Amulet</a> • <span typeof="mw:Error mw:File"></span> <a href="cog-amulet.html">Cog Amulet</a></b>
+<td class="NavLinks NavLinksBasicEven"><b><img alt="King Beetle Amulet" height="35" src="img/King_Beetle_Amulet.png" width="35"/> <a href="king-beetle-amulet.html">King Beetle Amulet</a> • <img alt="Moon Amulet" height="35" src="img/Moon_Amulet.png" width="35"/> <a href="moon-amulet.html">Moon Amulet</a> • <img alt="Ant Amulet" height="35" src="img/Ant_Amulet.png" width="35"/> <a href="ant-amulet.html">Ant Amulet</a> • <img alt="Star Amulet" height="35" src="img/Star_Amulet.png" width="35"/> <a href="star-amulet.html">Star Amulet</a> • <img alt="Shell Amulet" height="35" src="img/Shell_Amulet.png" width="35"/> <a href="shell-amulet.html">Shell Amulet</a> • <img alt="Stick Bug Amulet" height="35" src="img/Stick_Bug_Amulet.png" width="35"/> <a href="stick-bug-amulet.html">Stick Bug Amulet</a> • <img alt="Cog Amulet" height="35" src="img/Cog_Amulet.png" width="35"/> <a href="cog-amulet.html">Cog Amulet</a></b>
 </td></tr></tbody></table>
 </td></tr>
 <tr>
@@ -822,7 +822,7 @@ Total required for all single-purchase items: 35 Star Jellies
 <tr>
 <th class="NavCategory">Beesmas
 </th>
-<td class="NavLinks NavLinksBasicEven"><b><img alt="Elf Cap" height="35" src="img/Elf_Cap.png" width="35"/> <a href="elf-cap.html">Elf Cap</a> • <img alt="Single Mitten" height="35" src="img/Single_Mitten.png" width="35"/> <a href="single-mitten.html">Single Mitten</a> • <img alt="Warm Scarf" height="35" src="img/Warm_Scarf.png" width="35"/> <a href="warm-scarf.html">Warm Scarf</a> • <img alt="Peppermint Antennas" height="35" src="img/Peppermint_Antennas.png" width="35"/> <a href="peppermint-antennas.html">Peppermint Antennas</a> • <img alt="Beesmas Top" height="35" src="img/Beesmas_Top.png" width="35"/> <a href="beesmas-top.html">Beesmas Top</a> • <img alt="Pinecone" height="35" src="img/Pinecone.png" width="35"/> <a href="pinecone.html">Pinecone</a> • <img alt="Icicles" height="35" src="img/Icicles.png" width="35"/> <a href="icicles.html">Icicles</a>  • <img alt="Beesmas Tree Hat" height="35" src="img/Beesmas_Tree_Hat.png" width="35"/> <a href="beesmas-tree-hat.html">Beesmas Tree Hat</a> • <img alt="Bubble Light" height="35" src="img/Bubble_Light.png" width="35"/> <a href="bubble-light.html">Bubble Light</a> • <img alt="Snow Tiara" height="35" src="img/Snow_Tiara.png" width="35"/> <a href="snow-tiara.html">Snow Tiara</a> • <img alt="Snowglobe" height="35" src="img/Snowglobe.png" width="35"/> <a href="snowglobe.html">Snowglobe</a> • <img alt="Reindeer Antlers" height="35" src="img/Reindeer_Antlers.png" width="35"/> <a href="reindeer-antlers.html">Reindeer Antlers</a> • <span typeof="mw:Error mw:File"></span> <a href="toy-horn.html">Toy Horn</a> • <img alt="Paper Angel" height="35" src="img/Paper_Angel.png" width="35"/> <a href="paper-angel.html">Paper Angel</a> • <img alt="Toy Drum" height="35" src="img/Toy_Drum.png" width="35"/> <a href="toy-drum.html">Toy Drum</a> • <img alt="Lump Of Coal" height="35" src="img/Lump_Of_Coal.png" width="35"/> <a href="lump-of-coal.html">Lump Of Coal</a> • <img alt="Poinsettia" height="35" src="img/Poinsettia.png" width="35"/> <a href="poinsettia.html">Poinsettia</a> • <img alt="Electric Candle" height="35" src="img/Electric_Candle.png" width="35"/> <a href="electric-candle.html">Electric Candle</a> • <img alt="Festive Wreath" height="35" src="img/Festive_Wreath.png" width="35"/> <a href="festive-wreath.html">Festive Wreath</a></b>
+<td class="NavLinks NavLinksBasicEven"><b><img alt="Elf Cap" height="35" src="img/Elf_Cap.png" width="35"/> <a href="elf-cap.html">Elf Cap</a> • <img alt="Single Mitten" height="35" src="img/Single_Mitten.png" width="35"/> <a href="single-mitten.html">Single Mitten</a> • <img alt="Warm Scarf" height="35" src="img/Warm_Scarf.png" width="35"/> <a href="warm-scarf.html">Warm Scarf</a> • <img alt="Peppermint Antennas" height="35" src="img/Peppermint_Antennas.png" width="35"/> <a href="peppermint-antennas.html">Peppermint Antennas</a> • <img alt="Beesmas Top" height="35" src="img/Beesmas_Top.png" width="35"/> <a href="beesmas-top.html">Beesmas Top</a> • <img alt="Pinecone" height="35" src="img/Pinecone.png" width="35"/> <a href="pinecone.html">Pinecone</a> • <img alt="Icicles" height="35" src="img/Icicles.png" width="35"/> <a href="icicles.html">Icicles</a>  • <img alt="Beesmas Tree Hat" height="35" src="img/Beesmas_Tree_Hat.png" width="35"/> <a href="beesmas-tree-hat.html">Beesmas Tree Hat</a> • <img alt="Bubble Light" height="35" src="img/Bubble_Light.png" width="35"/> <a href="bubble-light.html">Bubble Light</a> • <img alt="Snow Tiara" height="35" src="img/Snow_Tiara.png" width="35"/> <a href="snow-tiara.html">Snow Tiara</a> • <img alt="Snowglobe" height="35" src="img/Snowglobe.png" width="35"/> <a href="snowglobe.html">Snowglobe</a> • <img alt="Reindeer Antlers" height="35" src="img/Reindeer_Antlers.png" width="35"/> <a href="reindeer-antlers.html">Reindeer Antlers</a> • <img alt="Toy Horn" height="35" src="img/Toy_Horn.png" width="35"/> <a href="toy-horn.html">Toy Horn</a> • <img alt="Paper Angel" height="35" src="img/Paper_Angel.png" width="35"/> <a href="paper-angel.html">Paper Angel</a> • <img alt="Toy Drum" height="35" src="img/Toy_Drum.png" width="35"/> <a href="toy-drum.html">Toy Drum</a> • <img alt="Lump Of Coal" height="35" src="img/Lump_Of_Coal.png" width="35"/> <a href="lump-of-coal.html">Lump Of Coal</a> • <img alt="Poinsettia" height="35" src="img/Poinsettia.png" width="35"/> <a href="poinsettia.html">Poinsettia</a> • <img alt="Electric Candle" height="35" src="img/Electric_Candle.png" width="35"/> <a href="electric-candle.html">Electric Candle</a> • <img alt="Festive Wreath" height="35" src="img/Festive_Wreath.png" width="35"/> <a href="festive-wreath.html">Festive Wreath</a></b>
 </td></tr></tbody></table>
 </td></tr>
 <tr>

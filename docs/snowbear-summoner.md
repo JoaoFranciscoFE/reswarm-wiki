@@ -23,10 +23,6 @@ The Snowbear Summoner is a snowman-shaped summoner. Without completing Panda Bea
 
 The Snowbear Summoner summons a snowbear onto the Spider Field, which at first use, spawns a level 1 snowbear. The message when a player steps on the pad will be: 'Summon a level <current level> Snowbear.' For example, if a player has defeated a level 4 snowbear, the "<current level>" displayed on the message will be level 5. After each defeat, the level will increase by 1 the next time the player spawns a snowbear.
 
-## Gallery
-
-<div class="wikia-gallery wikia-gallery-caption-below wikia-gallery-position-left wikia-gallery-spacing-medium wikia-gallery-border-small wikia-gallery-captions-left wikia-gallery-caption-size-medium" data-seq-no="0" hash="57e9ea7583ba9f1189628aa788c21e36" id="gallery-0"><div class="wikia-gallery-caption"></div><div class="wikia-gallery-item" style="width:187px; "><div class="thumb" style="height:187px;"><div class="gallery-image-wrapper accent" id="Pandabearsnowbearsummonerincomplete-png" style="position: relative; height:185px; width:185px;"><span style="line-height: 1;">Pandabearsnowbearsummonerincomplete.png</span></div></div><div class="lightbox-caption" style="width:185px;">The Snowbear Summoner's appearance before the player completes the "Panda Bear's Snowbear" quest.</div></div><div class="wikia-gallery-item" style="width:187px; "><div class="thumb" style="height:187px;"><div class="gallery-image-wrapper accent" id="Pandabearsnowbearsummonercomplete-png" style="position: relative; height:185px; width:185px;"><span style="line-height: 1;">Pandabearsnowbearsummonercomplete.png</span></div></div><div class="lightbox-caption" style="width:185px;">The Snowbear Summoner's appearance after the player completes the "Panda Bear's Snowbear" quest.</div></div></div>
-
 ## Trivia
 
 * This is the first machine that can summon a bear manually by the player.

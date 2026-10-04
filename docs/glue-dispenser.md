@@ -11,7 +11,7 @@ tags: ["Machines", "Locations", "Dispenser", "Goo"]
 <h2 class="pi-item pi-header pi-secondary-font pi-item-spacing pi-secondary-background">Information</h2>
 <div class="pi-item pi-data pi-item-spacing pi-border-color" data-source="usage">
 <h3 class="pi-data-label pi-secondary-font">Usage</h3>
-<div class="pi-data-value pi-font">Grants <span typeof="mw:Error mw:File"></span><a href="glue.html"><span class="color-template color-template-glue color-template-background-clip">Glue</span></a> based on goo badge rank and the <a href="buffs-debuffs.html#From_Areas">Unlimited Gumdrops buff</a></div>
+<div class="pi-data-value pi-font">Grants <img alt="Glue" height="35" src="img/Glue.png" width="35"/><a href="glue.html"><span class="color-template color-template-glue color-template-background-clip">Glue</span></a> based on goo badge rank and the <a href="buffs-debuffs.html#From_Areas">Unlimited Gumdrops buff</a></div>
 </div>
 <div class="pi-item pi-data pi-item-spacing pi-border-color" data-source="requirement">
 <h3 class="pi-data-label pi-secondary-font">Requirement(s)</h3>
@@ -34,7 +34,7 @@ The **Glue Dispenser** is a dispenser located in [Gummy Bear's Lair](gummy-bear-
 <tbody><tr>
 <th>Goo Badge Rank
 </th>
-<th><span typeof="mw:Error mw:File"></span><a href="glue.html"><span class="color-template color-template-glue color-template-background-clip">Glue</span></a>
+<th><img alt="Glue" height="35" src="img/Glue.png" width="35"/><a href="glue.html"><span class="color-template color-template-glue color-template-background-clip">Glue</span></a>
 </th></tr>
 <tr>
 <td><span typeof="mw:Error mw:File"></span> Hotshot

@@ -1542,7 +1542,7 @@ After completing his 20 star jelly quests, Black Bear would randomly assign ques
 <td>
 <ul><li>Raise a Bee to Level 3.</li>
 <li>Raise 2 Bees to Level 2.</li>
-<li>Feed <span typeof="mw:Error mw:File"></span>5 <a href="treat.html"><span class="color-template color-template-treat">Treats</span></a> to your Bees.</li></ul>
+<li>Feed <img alt="Treat" height="25" src="img/Treat.png" width="25"/>5 <a href="treat.html"><span class="color-template color-template-treat">Treats</span></a> to your Bees.</li></ul>
 </td>
 <td>1,000 Honey<br/>
 <p>3x Treat<br/>
@@ -1554,8 +1554,8 @@ After completing his 20 star jelly quests, Black Bear would randomly assign ques
 </td>
 <td>
 <ul><li>Raise 3 Bees to Level 3.</li>
-<li>Feed <span typeof="mw:Error mw:File"></span>10 <a href="treat.html"><span class="color-template color-template-treat">Treats</span></a> to your Bees.</li>
-<li>Feed <span typeof="mw:Error mw:File"></span>1 <a href="sunflower-seed.html"><span class="color-template color-template-sunflower-seed color-template-background-clip">Sunflower Seed</span></a> to your Bees.</li></ul>
+<li>Feed <img alt="Treat" height="25" src="img/Treat.png" width="25"/>10 <a href="treat.html"><span class="color-template color-template-treat">Treats</span></a> to your Bees.</li>
+<li>Feed <img alt="Sunflower Seed" height="25" src="img/Sunflower_Seed.png" width="25"/>1 <a href="sunflower-seed.html"><span class="color-template color-template-sunflower-seed color-template-background-clip">Sunflower Seed</span></a> to your Bees.</li></ul>
 </td>
 <td>2,000 Honey<br/>
 <p>3x Treat<br/>
@@ -1567,7 +1567,7 @@ After completing his 20 star jelly quests, Black Bear would randomly assign ques
 </td>
 <td>
 <ul><li>Raise 3 Bees to Level 4.</li>
-<li>Feed <span typeof="mw:Error mw:File"></span>15 <a href="treat.html"><span class="color-template color-template-treat">Treats</span></a> to your Bees.</li>
+<li>Feed <img alt="Treat" height="25" src="img/Treat.png" width="25"/>15 <a href="treat.html"><span class="color-template color-template-treat">Treats</span></a> to your Bees.</li>
 <li>Use 1 Royal Jelly.</li></ul>
 </td>
 <td>1x <a href="royal-jelly.html">Royal Jelly</a> (when quest accepted)<br/>
@@ -1582,8 +1582,8 @@ After completing his 20 star jelly quests, Black Bear would randomly assign ques
 <td>
 <ul><li>Raise a Bee to Level 5.</li>
 <li>Raise 5 Bees to Level 4.</li>
-<li>Feed <span typeof="mw:Error mw:File"></span>20 <a href="treat.html"><span class="color-template color-template-treat">Treats</span></a> to your Bees.</li>
-<li>Feed <span typeof="mw:Error mw:File"></span>5 <a href="strawberry.html"><span class="color-template color-template-strawberry color-template-background-clip">Strawberries</span></a> to your Bees.</li></ul>
+<li>Feed <img alt="Treat" height="25" src="img/Treat.png" width="25"/>20 <a href="treat.html"><span class="color-template color-template-treat">Treats</span></a> to your Bees.</li>
+<li>Feed <img alt="Strawberry" height="25" src="img/Strawberry.png" width="25"/>5 <a href="strawberry.html"><span class="color-template color-template-strawberry color-template-background-clip">Strawberries</span></a> to your Bees.</li></ul>
 </td>
 <td>10,000 Honey<br/>
 <p>5x Treat<br/>
@@ -1595,8 +1595,8 @@ After completing his 20 star jelly quests, Black Bear would randomly assign ques
 </td>
 <td>
 <ul><li>Raise 3 Bees to Level 5.</li>
-<li>Feed <span typeof="mw:Error mw:File"></span>30 <a href="treat.html"><span class="color-template color-template-treat">Treats</span></a> to your Bees.</li>
-<li>Feed <span typeof="mw:Error mw:File"></span>10 <a href="blueberry.html"><span class="color-template color-template-blueberry color-template-background-clip">Blueberries</span></a> to your Bees.</li></ul>
+<li>Feed <img alt="Treat" height="25" src="img/Treat.png" width="25"/>30 <a href="treat.html"><span class="color-template color-template-treat">Treats</span></a> to your Bees.</li>
+<li>Feed <img alt="Blueberry" height="25" src="img/Blueberry.png" width="25"/>10 <a href="blueberry.html"><span class="color-template color-template-blueberry color-template-background-clip">Blueberries</span></a> to your Bees.</li></ul>
 </td>
 <td>20,000 Honey<br/>
 <p>10x Treat<br/>
@@ -1609,7 +1609,7 @@ After completing his 20 star jelly quests, Black Bear would randomly assign ques
 <td>
 <ul><li>Raise a Bee to Level 6.</li>
 <li>Raise 5 Bees to Level 5.</li>
-<li>Feed <span typeof="mw:Error mw:File"></span>50 <a href="treat.html"><span class="color-template color-template-treat">Treats</span></a> to your Bees.</li>
+<li>Feed <img alt="Treat" height="25" src="img/Treat.png" width="25"/>50 <a href="treat.html"><span class="color-template color-template-treat">Treats</span></a> to your Bees.</li>
 <li>Use 3 Royal Jellies.</li></ul>
 </td>
 <td>50,000 Honey<br/>
@@ -1622,8 +1622,8 @@ After completing his 20 star jelly quests, Black Bear would randomly assign ques
 </td>
 <td>
 <ul><li>Raise 6 Bees to Level 6.</li>
-<li>Feed <span typeof="mw:Error mw:File"></span>100 <a href="treat.html"><span class="color-template color-template-treat">Treats</span></a> to your Bees.</li>
-<li>Feed <span typeof="mw:Error mw:File"></span>25 <a href="sunflower-seed.html"><span class="color-template color-template-sunflower-seed color-template-background-clip">Sunflower Seeds</span></a> to your Bees.</li></ul>
+<li>Feed <img alt="Treat" height="25" src="img/Treat.png" width="25"/>100 <a href="treat.html"><span class="color-template color-template-treat">Treats</span></a> to your Bees.</li>
+<li>Feed <img alt="Sunflower Seed" height="25" src="img/Sunflower_Seed.png" width="25"/>25 <a href="sunflower-seed.html"><span class="color-template color-template-sunflower-seed color-template-background-clip">Sunflower Seeds</span></a> to your Bees.</li></ul>
 </td>
 <td>100,000 Honey<br/>
 <p>30x Treat<br/>
@@ -1638,8 +1638,8 @@ After completing his 20 star jelly quests, Black Bear would randomly assign ques
 <ul><li>Raise a Bee to Level 7.</li>
 <li>Raise 8 Bees to Level 6.</li>
 <li>Raise 12 Bees to Level 5.</li>
-<li>Feed <span typeof="mw:Error mw:File"></span>250 <a href="treat.html"><span class="color-template color-template-treat">Treats</span></a> to your Bees.</li>
-<li>Feed <span typeof="mw:Error mw:File"></span>25 <a href="pineapple.html"><span class="color-template color-template-pineapple color-template-background-clip">Pineapples</span></a> to your Bees.</li></ul>
+<li>Feed <img alt="Treat" height="25" src="img/Treat.png" width="25"/>250 <a href="treat.html"><span class="color-template color-template-treat">Treats</span></a> to your Bees.</li>
+<li>Feed <img alt="Pineapple" height="25" src="img/Pineapple.png" width="25"/>25 <a href="pineapple.html"><span class="color-template color-template-pineapple color-template-background-clip">Pineapples</span></a> to your Bees.</li></ul>
 </td>
 <td>250,000 Honey<br/>
 <p>40x Treat<br/>
@@ -1652,9 +1652,9 @@ After completing his 20 star jelly quests, Black Bear would randomly assign ques
 </td>
 <td>
 <ul><li>Raise 7 Bees to Level 7.</li>
-<li>Feed <span typeof="mw:Error mw:File"></span>500 <a href="treat.html"><span class="color-template color-template-treat">Treats</span></a> to your Bees.</li>
-<li>Feed <span typeof="mw:Error mw:File"></span>25 <a href="blueberry.html"><span class="color-template color-template-blueberry color-template-background-clip">Blueberries</span></a> to your Bees.</li>
-<li>Feed <span typeof="mw:Error mw:File"></span>25 <a href="strawberry.html"><span class="color-template color-template-strawberry color-template-background-clip">Strawberries</span></a> to your Bees.</li></ul>
+<li>Feed <img alt="Treat" height="25" src="img/Treat.png" width="25"/>500 <a href="treat.html"><span class="color-template color-template-treat">Treats</span></a> to your Bees.</li>
+<li>Feed <img alt="Blueberry" height="25" src="img/Blueberry.png" width="25"/>25 <a href="blueberry.html"><span class="color-template color-template-blueberry color-template-background-clip">Blueberries</span></a> to your Bees.</li>
+<li>Feed <img alt="Strawberry" height="25" src="img/Strawberry.png" width="25"/>25 <a href="strawberry.html"><span class="color-template color-template-strawberry color-template-background-clip">Strawberries</span></a> to your Bees.</li></ul>
 </td>
 <td>1x <a href="egg.html#Star_Egg">Star Egg</a><br/>
 <p>500,000 Honey<br/>
@@ -1670,11 +1670,11 @@ After completing his 20 star jelly quests, Black Bear would randomly assign ques
 <ul><li>Raise 3 Bees to Level 8.</li>
 <li>Raise 9 Bees to Level 7.</li>
 <li>Raise 15 Bees to Level 6.</li>
-<li>Feed <span typeof="mw:Error mw:File"></span>1,000 <a href="treat.html"><span class="color-template color-template-treat">Treats</span></a> to your Bees.</li>
-<li>Feed <span typeof="mw:Error mw:File"></span>30 <a href="sunflower-seed.html"><span class="color-template color-template-sunflower-seed color-template-background-clip">Sunflower Seeds</span></a> to your Bees.</li>
-<li>Feed <span typeof="mw:Error mw:File"></span>30 <a href="pineapple.html"><span class="color-template color-template-pineapple color-template-background-clip">Pineapples</span></a> to your Bees.</li>
-<li>Feed <span typeof="mw:Error mw:File"></span>30 <a href="strawberry.html"><span class="color-template color-template-strawberry color-template-background-clip">Strawberries</span></a> to your Bees.</li>
-<li>Feed <span typeof="mw:Error mw:File"></span>30 <a href="blueberry.html"><span class="color-template color-template-blueberry color-template-background-clip">Blueberries</span></a> to your Bees.</li></ul>
+<li>Feed <img alt="Treat" height="25" src="img/Treat.png" width="25"/>1,000 <a href="treat.html"><span class="color-template color-template-treat">Treats</span></a> to your Bees.</li>
+<li>Feed <img alt="Sunflower Seed" height="25" src="img/Sunflower_Seed.png" width="25"/>30 <a href="sunflower-seed.html"><span class="color-template color-template-sunflower-seed color-template-background-clip">Sunflower Seeds</span></a> to your Bees.</li>
+<li>Feed <img alt="Pineapple" height="25" src="img/Pineapple.png" width="25"/>30 <a href="pineapple.html"><span class="color-template color-template-pineapple color-template-background-clip">Pineapples</span></a> to your Bees.</li>
+<li>Feed <img alt="Strawberry" height="25" src="img/Strawberry.png" width="25"/>30 <a href="strawberry.html"><span class="color-template color-template-strawberry color-template-background-clip">Strawberries</span></a> to your Bees.</li>
+<li>Feed <img alt="Blueberry" height="25" src="img/Blueberry.png" width="25"/>30 <a href="blueberry.html"><span class="color-template color-template-blueberry color-template-background-clip">Blueberries</span></a> to your Bees.</li></ul>
 </td>
 <td>1,000,000 Honey<br/>
 <p>100x Treat<br/>
@@ -1687,9 +1687,9 @@ After completing his 20 star jelly quests, Black Bear would randomly assign ques
 </td>
 <td>
 <ul><li>Raise 8 Bees to Level 8</li>
-<li>Feed <span typeof="mw:Error mw:File"></span>2,500 <a href="treat.html"><span class="color-template color-template-treat">Treats</span></a> to your Bees</li>
-<li>Feed <span typeof="mw:Error mw:File"></span>100 <a href="sunflower-seed.html"><span class="color-template color-template-sunflower-seed color-template-background-clip">Sunflower Seeds</span></a> to your Bees</li>
-<li>Use <span typeof="mw:Error mw:File"></span>8 <a href="royal-jelly.html"><span class="color-template color-template-royal-jelly color-template-background-clip">Royal Jellies</span></a></li></ul>
+<li>Feed <img alt="Treat" height="25" src="img/Treat.png" width="25"/>2,500 <a href="treat.html"><span class="color-template color-template-treat">Treats</span></a> to your Bees</li>
+<li>Feed <img alt="Sunflower Seed" height="25" src="img/Sunflower_Seed.png" width="25"/>100 <a href="sunflower-seed.html"><span class="color-template color-template-sunflower-seed color-template-background-clip">Sunflower Seeds</span></a> to your Bees</li>
+<li>Use <img alt="Royal Jelly" height="25" src="img/Royal_Jelly.png" width="25"/>8 <a href="royal-jelly.html"><span class="color-template color-template-royal-jelly color-template-background-clip">Royal Jellies</span></a></li></ul>
 </td>
 <td>2,500,000 Honey<br/>
 <p>250x Treat<br/>
@@ -1702,8 +1702,8 @@ After completing his 20 star jelly quests, Black Bear would randomly assign ques
 </td>
 <td>
 <ul><li>Raise 3 Bees to Level 9</li>
-<li>Feed <span typeof="mw:Error mw:File"></span>5,000 <a href="treat.html"><span class="color-template color-template-treat">Treats</span></a> to your Bees</li>
-<li>Feed <span typeof="mw:Error mw:File"></span>200 <a href="strawberry.html"><span class="color-template color-template-strawberry color-template-background-clip">Strawberries</span></a> to your Bees</li></ul>
+<li>Feed <img alt="Treat" height="25" src="img/Treat.png" width="25"/>5,000 <a href="treat.html"><span class="color-template color-template-treat">Treats</span></a> to your Bees</li>
+<li>Feed <img alt="Strawberry" height="25" src="img/Strawberry.png" width="25"/>200 <a href="strawberry.html"><span class="color-template color-template-strawberry color-template-background-clip">Strawberries</span></a> to your Bees</li></ul>
 </td>
 <td>5,000,000 Honey<br/>
 <p>1,000x Treat<br/>
@@ -1718,11 +1718,11 @@ After completing his 20 star jelly quests, Black Bear would randomly assign ques
 <ul><li>Raise a Bee to Level 10.</li>
 <li>Raise 5 Bees to Level 9.</li>
 <li>Raise 15 Bees to Level 8.</li>
-<li>Feed <span typeof="mw:Error mw:File"></span>10,000 <a href="treat.html"><span class="color-template color-template-treat">Treats</span></a> to your Bees.</li>
-<li>Feed <span typeof="mw:Error mw:File"></span>250 <a href="sunflower-seed.html"><span class="color-template color-template-sunflower-seed color-template-background-clip">Sunflower Seeds</span></a> to your Bees.</li>
-<li>Feed <span typeof="mw:Error mw:File"></span>250 <a href="pineapple.html"><span class="color-template color-template-pineapple color-template-background-clip">Pineapples</span></a> to your Bees.</li>
-<li>Feed <span typeof="mw:Error mw:File"></span>250 <a href="strawberry.html"><span class="color-template color-template-strawberry color-template-background-clip">Strawberries</span></a> to your Bees.</li>
-<li>Feed <span typeof="mw:Error mw:File"></span>250 <a href="blueberry.html"><span class="color-template color-template-blueberry color-template-background-clip">Blueberries</span></a> to your Bees.</li></ul>
+<li>Feed <img alt="Treat" height="25" src="img/Treat.png" width="25"/>10,000 <a href="treat.html"><span class="color-template color-template-treat">Treats</span></a> to your Bees.</li>
+<li>Feed <img alt="Sunflower Seed" height="25" src="img/Sunflower_Seed.png" width="25"/>250 <a href="sunflower-seed.html"><span class="color-template color-template-sunflower-seed color-template-background-clip">Sunflower Seeds</span></a> to your Bees.</li>
+<li>Feed <img alt="Pineapple" height="25" src="img/Pineapple.png" width="25"/>250 <a href="pineapple.html"><span class="color-template color-template-pineapple color-template-background-clip">Pineapples</span></a> to your Bees.</li>
+<li>Feed <img alt="Strawberry" height="25" src="img/Strawberry.png" width="25"/>250 <a href="strawberry.html"><span class="color-template color-template-strawberry color-template-background-clip">Strawberries</span></a> to your Bees.</li>
+<li>Feed <img alt="Blueberry" height="25" src="img/Blueberry.png" width="25"/>250 <a href="blueberry.html"><span class="color-template color-template-blueberry color-template-background-clip">Blueberries</span></a> to your Bees.</li></ul>
 </td>
 <td>1x <a href="star-treat.html">Star Treat</a><br/>
 <p>10,000,000 Honey<br/>
@@ -2713,8 +2713,8 @@ Amount of pollen required for a quest = \(x+(y-x)\times \left(\frac{numberofques
 <td>
 <ul><li>Discover 22 Bee Types.</li>
 <li>Collect 150 Sprout Tokens.</li>
-<li>Collect <span typeof="mw:Error mw:File"></span>100 <a href="strawberry.html"><span class="color-template color-template-strawberry color-template-background-clip">Strawberries</span></a> Tokens.</li>
-<li>Collect <span typeof="mw:Error mw:File"></span>100 <a href="pineapple.html"><span class="color-template color-template-pineapple color-template-background-clip">Pineapples</span></a> Tokens.</li></ul>
+<li>Collect <img alt="Strawberry" height="25" src="img/Strawberry.png" width="25"/>100 <a href="strawberry.html"><span class="color-template color-template-strawberry color-template-background-clip">Strawberries</span></a> Tokens.</li>
+<li>Collect <img alt="Pineapple" height="25" src="img/Pineapple.png" width="25"/>100 <a href="pineapple.html"><span class="color-template color-template-pineapple color-template-background-clip">Pineapples</span></a> Tokens.</li></ul>
 </td>
 <td>1x Magic Bean (when quest accepted)<br/>
 <p>870,588 Honey<br/>
@@ -2872,8 +2872,8 @@ Amount of pollen required for a quest = \(x+(y-x)\times \left(\frac{numberofques
 <td>
 <ul><li>Discover 30 Bee Types.</li>
 <li>Obtain a Carpenter Bee.</li>
-<li>Collect <span typeof="mw:Error mw:File"></span>200 <a href="sunflower-seed.html"><span class="color-template color-template-sunflower-seed color-template-background-clip">Sunflower Seeds</span></a> Tokens.</li>
-<li>Collect <span typeof="mw:Error mw:File"></span>400 <a href="pineapple.html"><span class="color-template color-template-pineapple color-template-background-clip">Pineapples</span></a> Tokens.</li>
+<li>Collect <img alt="Sunflower Seed" height="25" src="img/Sunflower_Seed.png" width="25"/>200 <a href="sunflower-seed.html"><span class="color-template color-template-sunflower-seed color-template-background-clip">Sunflower Seeds</span></a> Tokens.</li>
+<li>Collect <img alt="Pineapple" height="25" src="img/Pineapple.png" width="25"/>400 <a href="pineapple.html"><span class="color-template color-template-pineapple color-template-background-clip">Pineapples</span></a> Tokens.</li>
 <li>Collect 40,000,000 White Pollen.</li>
 <li>Collect 800,000 Goo from the Strawberry Field.</li>
 <li>Collect 800,000 Goo from the Bamboo Field.</li>
@@ -2898,7 +2898,7 @@ Amount of pollen required for a quest = \(x+(y-x)\times \left(\frac{numberofques
 <li>Collect 44,444,444 Pollen from the Cactus Field.</li>
 <li>Collect 44,444,444 Pollen from the Spider Field.</li>
 <li>Collect 444,444 Pollen from the Ant Field.</li>
-<li>Feed <span typeof="mw:Error mw:File"></span>44 <a href="moon-charm.html"><span class="color-template color-template-moon-charm color-template-background-clip">Moon Charms</span></a> to your Bees.</li>
+<li>Feed <img alt="Moon Charm" height="25" src="img/Moon_Charm.png" width="25"/>44 <a href="moon-charm.html"><span class="color-template color-template-moon-charm color-template-background-clip">Moon Charms</span></a> to your Bees.</li>
 <li>Use 4 <a href="stinger.html">Stingers</a>.</li>
 <li>Use 1 <a href="enzymes.html">Enzymes</a>.</li>
 <li>Use 1 Oil.</li>
@@ -2976,12 +2976,12 @@ x3 Magic bean
 <li>Collect 268,435,456 Pollen from the Sunflower Field.</li>
 <li>Collect 268,435,456 Pollen from the Pineapple Patch</li>
 <li>Collect 268,435,456 Pollen from the Pumpkin Patch.</li>
-<li>Collect <span typeof="mw:Error mw:File"></span>4,096 <a href="honey.html"><span class="color-template color-template-honey">Honey</span></a> Tokens.</li>
+<li>Collect <img alt="Honey" height="25" src="img/Honey.png" width="25"/>4,096 <a href="honey.html"><span class="color-template color-template-honey">Honey</span></a> Tokens.</li>
 <li>Collect 4,096 Boost Tokens.</li>
 <li>Collect 4,096 Focus Tokens.</li>
 <li>Collect 512 Melody Tokens.</li>
 <li>Collect 512 Rage Tokens.</li>
-<li>Feed <span typeof="mw:Error mw:File"></span>101 <a href="moon-charm.html"><span class="color-template color-template-moon-charm color-template-background-clip">Moon Charms</span></a> to your Bees.</li>
+<li>Feed <img alt="Moon Charm" height="25" src="img/Moon_Charm.png" width="25"/>101 <a href="moon-charm.html"><span class="color-template color-template-moon-charm color-template-background-clip">Moon Charms</span></a> to your Bees.</li>
 <li>Use 10 Glue.</li>
 <li>Use 10 Blue Extracts.</li>
 <li>Use 10 Red Extracts.</li>
@@ -3009,12 +3009,12 @@ x4 Glue
 <li>Collect 1,010,101,010 Pollen from the Sunflower Field.</li>
 <li>Collect 1,010,101,010 Pollen from the Pineapple Patch</li>
 <li>Collect 1,010,101,010 Pollen from the Pumpkin Patch.</li>
-<li>Collect <span typeof="mw:Error mw:File"></span>10,101 <a href="honey.html"><span class="color-template color-template-honey">Honey</span></a> Tokens.</li>
+<li>Collect <img alt="Honey" height="25" src="img/Honey.png" width="25"/>10,101 <a href="honey.html"><span class="color-template color-template-honey">Honey</span></a> Tokens.</li>
 <li>Collect 10,101 Boost Tokens.</li>
 <li>Collect 10,101 Focus Tokens.</li>
 <li>Collect 1,010 Melody Tokens.</li>
 <li>Collect 1,010 Rage Tokens.</li>
-<li>Feed <span typeof="mw:Error mw:File"></span>101 <a href="moon-charm.html"><span class="color-template color-template-moon-charm color-template-background-clip">Moon Charms</span></a> to your Bees.</li>
+<li>Feed <img alt="Moon Charm" height="25" src="img/Moon_Charm.png" width="25"/>101 <a href="moon-charm.html"><span class="color-template color-template-moon-charm color-template-background-clip">Moon Charms</span></a> to your Bees.</li>
 <li>Use 10 Glue.</li>
 <li>Use 10 Blue Extracts.</li>
 <li>Use 10 Red Extracts.</li>
@@ -3318,7 +3318,7 @@ Spirit Bear is the seventh quest bear in the game. Her quests consist of pollen 
 <li>Collect 10,000,000 Pollen from the Dandelion Field.</li>
 <li>Collect 1,000,000 Goo from White <a href="flowers.html">Flowers</a>.</li>
 <li>Collect 300 <a href="honey.html">Honey</a> Tokens.</li>
-<li>Collect <span typeof="mw:Error mw:File"></span>100 <a href="sunflower-seed.html"><span class="color-template color-template-sunflower-seed color-template-background-clip">Sunflower Seeds</span></a> Tokens.</li></ul>
+<li>Collect <img alt="Sunflower Seed" height="25" src="img/Sunflower_Seed.png" width="25"/>100 <a href="sunflower-seed.html"><span class="color-template color-template-sunflower-seed color-template-background-clip">Sunflower Seeds</span></a> Tokens.</li></ul>
 </td>
 <td>25,000,000 Honey<br/>
 <p>1x <a href="glitter.html">Glitter</a><br/>
@@ -3334,7 +3334,7 @@ Spirit Bear is the seventh quest bear in the game. Her quests consist of pollen 
 <li>Collect 30,000,000 Pollen from the Pumpkin Patch.</li>
 <li>Collect 30,000,000 Pollen from the Clover Field.</li>
 <li>Collect 2,000,000 Goo from Blue Flowers.</li>
-<li>Collect <span typeof="mw:Error mw:File"></span>100 <a href="blueberry.html"><span class="color-template color-template-blueberry color-template-background-clip">Blueberries</span></a> Tokens.</li>
+<li>Collect <img alt="Blueberry" height="25" src="img/Blueberry.png" width="25"/>100 <a href="blueberry.html"><span class="color-template color-template-blueberry color-template-background-clip">Blueberries</span></a> Tokens.</li>
 <li>Collect 25 Inspire Tokens.</li>
 <li>Donate 1 <a href="cloud-vial.html">Cloud Vial</a> to the <a href="wind-shrine.html">Wind Shrine</a>.</li></ul>
 </td>
@@ -3353,9 +3353,9 @@ Spirit Bear is the seventh quest bear in the game. Her quests consist of pollen 
 <li>Collect 40,000,000 Pollen from the Pineapple Patch.</li>
 <li>Collect 40,000,000 Pollen from the Rose field.</li>
 <li>Collect 3,000,000 Goo from Red Flowers.</li>
-<li>Collect <span typeof="mw:Error mw:File"></span>150 <a href="strawberry.html"><span class="color-template color-template-strawberry color-template-background-clip">Strawberries</span></a> Tokens.</li>
+<li>Collect <img alt="Strawberry" height="25" src="img/Strawberry.png" width="25"/>150 <a href="strawberry.html"><span class="color-template color-template-strawberry color-template-background-clip">Strawberries</span></a> Tokens.</li>
 <li>Collect 50 Tokens from <a href="leaves.html">Leaves</a>.</li>
-<li>Donate <span typeof="mw:Error mw:File"></span>100 <a href="sunflower-seed.html"><span class="color-template color-template-sunflower-seed color-template-background-clip">Sunflower Seeds</span></a> to the Wind Shrine.</li></ul>
+<li>Donate <img alt="Sunflower Seed" height="25" src="img/Sunflower_Seed.png" width="25"/>100 <a href="sunflower-seed.html"><span class="color-template color-template-sunflower-seed color-template-background-clip">Sunflower Seeds</span></a> to the Wind Shrine.</li></ul>
 </td>
 <td>40,000,000 Honey<br/>
 <p>1x Glitter<br/>
@@ -3372,9 +3372,9 @@ Spirit Bear is the seventh quest bear in the game. Her quests consist of pollen 
 <li>Collect 50,000,000 Pollen from the Bamboo Field.</li>
 <li>Collect 30,000,000 Pollen from the Spider Field.</li>
 <li>Collect 6,000,000 Goo.</li>
-<li>Collect <span typeof="mw:Error mw:File"></span>5 <a href="gumdrops.html"><span class="color-template color-template-gumdrops color-template-background-clip">Gumdrops</span></a> Tokens.</li>
+<li>Collect <img alt="Gumdrops" height="25" src="img/Gumdrops.png" width="25"/>5 <a href="gumdrops.html"><span class="color-template color-template-gumdrops color-template-background-clip">Gumdrops</span></a> Tokens.</li>
 <li>Collect 25 Tokens from <a href="sparkles.html">Sparkles</a>.</li>
-<li>Donate <span typeof="mw:Error mw:File"></span>150 <a href="blueberry.html"><span class="color-template color-template-blueberry color-template-background-clip">Blueberries</span></a> to the Wind Shrine.</li></ul>
+<li>Donate <img alt="Blueberry" height="25" src="img/Blueberry.png" width="25"/>150 <a href="blueberry.html"><span class="color-template color-template-blueberry color-template-background-clip">Blueberries</span></a> to the Wind Shrine.</li></ul>
 </td>
 <td>45,000,000 Honey<br/>
 <p>1x Glitter<br/>
@@ -3392,7 +3392,7 @@ Spirit Bear is the seventh quest bear in the game. Her quests consist of pollen 
 <li>Collect 80,000,000 Pollen from the Pepper Patch.</li>
 <li>Collect 30,000,000 Pollen from the Sunflower Field.</li>
 <li>Collect 4,000,000 Goo from White Flowers.</li>
-<li>Collect <span typeof="mw:Error mw:File"></span>500 <a href="honey.html"><span class="color-template color-template-honey">Honey</span></a> Tokens.</li>
+<li>Collect <img alt="Honey" height="25" src="img/Honey.png" width="25"/>500 <a href="honey.html"><span class="color-template color-template-honey">Honey</span></a> Tokens.</li>
 <li>Share 50 Jelly Bean Tokens.</li>
 <li>Match 5 Pairs in <a href="memory-match.html">Memory Match</a> Games.</li></ul>
 </td>
@@ -3413,9 +3413,9 @@ Spirit Bear is the seventh quest bear in the game. Her quests consist of pollen 
 <li>Collect 50,000,000 Pollen from the Mushroom Field.</li>
 <li>Collect 10,000,000 Goo from Blue Flowers.</li>
 <li>Use 1 Magic Beans.</li>
-<li>Feed <span typeof="mw:Error mw:File"></span>250 <a href="blueberry.html"><span class="color-template color-template-blueberry color-template-background-clip">Blueberries</span></a> to your Bees.</li>
-<li>Collect <span typeof="mw:Error mw:File"></span>25 <a href="moon-charm.html"><span class="color-template color-template-moon-charm color-template-background-clip">Moon Charms</span></a> Tokens.</li>
-<li>Donate <span typeof="mw:Error mw:File"></span>250 <a href="sunflower-seed.html"><span class="color-template color-template-sunflower-seed color-template-background-clip">Sunflower Seeds</span></a> to the Wind Shrine.</li></ul>
+<li>Feed <img alt="Blueberry" height="25" src="img/Blueberry.png" width="25"/>250 <a href="blueberry.html"><span class="color-template color-template-blueberry color-template-background-clip">Blueberries</span></a> to your Bees.</li>
+<li>Collect <img alt="Moon Charm" height="25" src="img/Moon_Charm.png" width="25"/>25 <a href="moon-charm.html"><span class="color-template color-template-moon-charm color-template-background-clip">Moon Charms</span></a> Tokens.</li>
+<li>Donate <img alt="Sunflower Seed" height="25" src="img/Sunflower_Seed.png" width="25"/>250 <a href="sunflower-seed.html"><span class="color-template color-template-sunflower-seed color-template-background-clip">Sunflower Seeds</span></a> to the Wind Shrine.</li></ul>
 </td>
 <td>1x Glitter<br/>
 <p>20x Moon Charm<br/>
@@ -3436,9 +3436,9 @@ Spirit Bear is the seventh quest bear in the game. Her quests consist of pollen 
 <li>Collect 3,000,000 Goo from the Dandelion Field.</li>
 <li>Collect 50 Inspire Tokens.</li>
 <li>Collect 100 Tokens from Festive Gifts.</li>
-<li>Collect <span typeof="mw:Error mw:File"></span>300 <a href="treat.html"><span class="color-template color-template-treat">Treats</span></a> Tokens.</li>
-<li>Collect <span typeof="mw:Error mw:File"></span>10 <a href="royal-jelly.html"><span class="color-template color-template-royal-jelly color-template-background-clip">Royal Jellies</span></a> Tokens.</li>
-<li>Donate <span typeof="mw:Error mw:File"></span>300 <a href="pineapple.html"><span class="color-template color-template-pineapple color-template-background-clip">Pineapples</span></a> to the Wind Shrine.</li></ul>
+<li>Collect <img alt="Treat" height="25" src="img/Treat.png" width="25"/>300 <a href="treat.html"><span class="color-template color-template-treat">Treats</span></a> Tokens.</li>
+<li>Collect <img alt="Royal Jelly" height="25" src="img/Royal_Jelly.png" width="25"/>10 <a href="royal-jelly.html"><span class="color-template color-template-royal-jelly color-template-background-clip">Royal Jellies</span></a> Tokens.</li>
+<li>Donate <img alt="Pineapple" height="25" src="img/Pineapple.png" width="25"/>300 <a href="pineapple.html"><span class="color-template color-template-pineapple color-template-background-clip">Pineapples</span></a> to the Wind Shrine.</li></ul>
 </td>
 <td>1x Star Jelly (Upon receiving quest)----
 <p><br/>
@@ -3459,9 +3459,9 @@ Spirit Bear is the seventh quest bear in the game. Her quests consist of pollen 
 <li>Collect 100,000,000 Pollen from the Pumpkin Patch.</li>
 <li>Collect 80,000,000 Pollen from the Blue Flower Field.</li>
 <li>Collect 25,000,000 Goo.</li>
-<li>Collect <span typeof="mw:Error mw:File"></span>200 <a href="pineapple.html"><span class="color-template color-template-pineapple color-template-background-clip">Pineapples</span></a> Tokens.</li>
+<li>Collect <img alt="Pineapple" height="25" src="img/Pineapple.png" width="25"/>200 <a href="pineapple.html"><span class="color-template color-template-pineapple color-template-background-clip">Pineapples</span></a> Tokens.</li>
 <li>Collect 80 Tokens from Sparkles.</li>
-<li>Donate <span typeof="mw:Error mw:File"></span>5 <a href="oil.html"><span class="color-template color-template-oil color-template-background-clip">Oils</span></a> to the Wind Shrine.</li>
+<li>Donate <img alt="Oil" height="25" src="img/Oil.png" width="25"/>5 <a href="oil.html"><span class="color-template color-template-oil color-template-background-clip">Oils</span></a> to the Wind Shrine.</li>
 <li>Match 10 Pairs in Memory Match Games.</li></ul>
 </td>
 <td>Play Memory Match (Upon receiving quest)
@@ -3494,11 +3494,11 @@ Spirit Bear is the seventh quest bear in the game. Her quests consist of pollen 
 <li>Collect 20,000,000 Pollen from the Stump Field.</li>
 <li>Collect 15,000,000 Goo from Red Flowers.</li>
 <li>Use 10 Field Dice.</li>
-<li>Feed <span typeof="mw:Error mw:File"></span>500 <a href="treat.html"><span class="color-template color-template-treat">Treats</span></a> to your Bees.</li>
+<li>Feed <img alt="Treat" height="25" src="img/Treat.png" width="25"/>500 <a href="treat.html"><span class="color-template color-template-treat">Treats</span></a> to your Bees.</li>
 <li>Complete 1 <a href="polar-bear.html">Polar Bear</a> Quest.</li>
 <li>Collect 200 Tokens from Sprouts.</li>
-<li>Donate <span typeof="mw:Error mw:File"></span>3 <a href="blue-extract.html"><span class="color-template color-template-blue-extract color-template-background-clip">Blue Extracts</span></a> to the Wind Shrine.</li>
-<li>Donate <span typeof="mw:Error mw:File"></span>3 <a href="red-extract.html"><span class="color-template color-template-red-extract color-template-background-clip">Red Extracts</span></a> to the Wind Shrine.</li></ul>
+<li>Donate <img alt="Blue Extract" height="25" src="img/Blue_Extract.png" width="25"/>3 <a href="blue-extract.html"><span class="color-template color-template-blue-extract color-template-background-clip">Blue Extracts</span></a> to the Wind Shrine.</li>
+<li>Donate <img alt="Red Extract" height="25" src="img/Red_Extract.png" width="25"/>3 <a href="red-extract.html"><span class="color-template color-template-red-extract color-template-background-clip">Red Extracts</span></a> to the Wind Shrine.</li></ul>
 </td>
 <td>90,000,000 Honey<br/>
 <p>1x Glitter<br/>
@@ -3520,8 +3520,8 @@ x25 Moon Charms<br/>
 <li>Collect 20,000,000 Goo from White Flowers.</li>
 <li>Collect 250 Tokens from <a href="wild-windy-bee.html">Wild Windy Bee</a>.</li>
 <li>Share 100 Jelly Bean Tokens.</li>
-<li>Donate <span typeof="mw:Error mw:File"></span>5 <a href="red-extract.html"><span class="color-template color-template-red-extract color-template-background-clip">Red Extracts</span></a> to the Wind Shrine.</li>
-<li>Donate <span typeof="mw:Error mw:File"></span>5 <a href="blue-extract.html"><span class="color-template color-template-blue-extract color-template-background-clip">Blue Extracts</span></a> to the Wind Shrine.</li></ul>
+<li>Donate <img alt="Red Extract" height="25" src="img/Red_Extract.png" width="25"/>5 <a href="red-extract.html"><span class="color-template color-template-red-extract color-template-background-clip">Red Extracts</span></a> to the Wind Shrine.</li>
+<li>Donate <img alt="Blue Extract" height="25" src="img/Blue_Extract.png" width="25"/>5 <a href="blue-extract.html"><span class="color-template color-template-blue-extract color-template-background-clip">Blue Extracts</span></a> to the Wind Shrine.</li></ul>
 </td>
 <td>100,000,000 Honey<br/>
 <p>1x <a href="spirit-petal.html">Spirit Petal</a>
@@ -3536,9 +3536,9 @@ x25 Moon Charms<br/>
 <li>Collect 150,000,000 Pollen from the Bamboo Field.</li>
 <li>Collect 90,000,000 Pollen from the Spider Field.</li>
 <li>Collect 20,000,000 Goo from Blue Flowers.</li>
-<li>Collect <span typeof="mw:Error mw:File"></span>1,000 <a href="honey.html"><span class="color-template color-template-honey">Honey</span></a> Tokens.</li>
+<li>Collect <img alt="Honey" height="25" src="img/Honey.png" width="25"/>1,000 <a href="honey.html"><span class="color-template color-template-honey">Honey</span></a> Tokens.</li>
 <li>Collect 100 Tokens from Leaves.</li>
-<li>Donate <span typeof="mw:Error mw:File"></span>500 <a href="sunflower-seed.html"><span class="color-template color-template-sunflower-seed color-template-background-clip">Sunflower Seeds</span></a> to the Wind Shrine.</li>
+<li>Donate <img alt="Sunflower Seed" height="25" src="img/Sunflower_Seed.png" width="25"/>500 <a href="sunflower-seed.html"><span class="color-template color-template-sunflower-seed color-template-background-clip">Sunflower Seeds</span></a> to the Wind Shrine.</li>
 <li>Use the <a href="wealth-clock.html">Wealth Clock</a> 3 Times.</li>
 <li>Match 10 Pairs in Memory Match Games.</li></ul>
 </td>
@@ -3572,7 +3572,7 @@ x25 Moon Charms<br/>
 <li>Use 1 Magic Beans.</li>
 <li>Collect 400 Tokens from Sprout.</li>
 <li>Share 50 Jelly Bean Tokens.</li>
-<li>Donate <span typeof="mw:Error mw:File"></span>10 <a href="red-extract.html"><span class="color-template color-template-red-extract color-template-background-clip">Red Extracts</span></a> to the Wind Shrine.</li></ul>
+<li>Donate <img alt="Red Extract" height="25" src="img/Red_Extract.png" width="25"/>10 <a href="red-extract.html"><span class="color-template color-template-red-extract color-template-background-clip">Red Extracts</span></a> to the Wind Shrine.</li></ul>
 </td>
 <td>1x Magic Bean (Upon receiving quest)----
 <p><br/>
@@ -3598,7 +3598,7 @@ x25 Moon Charms<br/>
 <li>Use the <a href="moon-amulet-generator.html">Moon Amulet Generator</a> 1 Time.</li>
 <li>Use the Sprout Summoner 1 Time.</li>
 <li>Use the <a href="honeystorm.html">Honeystorm</a> 1 Time.</li>
-<li>Donate <span typeof="mw:Error mw:File"></span>10 <a href="blue-extract.html"><span class="color-template color-template-blue-extract color-template-background-clip">Blue Extracts</span></a> to the Wind Shrine.</li></ul>
+<li>Donate <img alt="Blue Extract" height="25" src="img/Blue_Extract.png" width="25"/>10 <a href="blue-extract.html"><span class="color-template color-template-blue-extract color-template-background-clip">Blue Extracts</span></a> to the Wind Shrine.</li></ul>
 </td>
 <td>Summon nighttime (upon receiving quest)----
 <p><br/>
@@ -3620,9 +3620,9 @@ x25 Moon Charms<br/>
 <li>Collect 260,000,000 Pollen from the Cactus Field.</li>
 <li>Collect 180,000,000 Pollen from the Blue Flower Field.</li>
 <li>Collect 25,000,000 Goo from Red Flowers.</li>
-<li>Collect <span typeof="mw:Error mw:File"></span>400 <a href="blueberry.html"><span class="color-template color-template-blueberry color-template-background-clip">Blueberries</span></a> Tokens.</li>
+<li>Collect <img alt="Blueberry" height="25" src="img/Blueberry.png" width="25"/>400 <a href="blueberry.html"><span class="color-template color-template-blueberry color-template-background-clip">Blueberries</span></a> Tokens.</li>
 <li>Use 3 Cloud Vials.</li>
-<li>Donate <span typeof="mw:Error mw:File"></span>1 <a href="egg.html#Gold_Egg"><span class="color-template color-template-gold-egg color-template-background-clip">Gold Egg</span></a> to the Wind Shrine.</li></ul>
+<li>Donate <img alt="Gold Egg" height="25" src="img/Gold_Egg.png" width="25"/>1 <a href="egg.html#Gold_Egg"><span class="color-template color-template-gold-egg color-template-background-clip">Gold Egg</span></a> to the Wind Shrine.</li></ul>
 </td>
 <td>100,000,000 Honey<br/>
 <p>2x Glitter<br/>
@@ -3642,8 +3642,8 @@ x25 Moon Charms<br/>
 <li>Collect 150,000,000 Pollen from the Rose Field.</li>
 <li>Collect 100,000,000 Pollen from the Dandelion Field.</li>
 <li>Collect 15,000,000 Goo from the Dandelion Field.</li>
-<li>Collect <span typeof="mw:Error mw:File"></span>500 <a href="treat.html"><span class="color-template color-template-treat">Treats</span></a> Tokens.</li>
-<li>Collect <span typeof="mw:Error mw:File"></span>25 <a href="royal-jelly.html"><span class="color-template color-template-royal-jelly color-template-background-clip">Royal Jellies</span></a> Tokens.</li>
+<li>Collect <img alt="Treat" height="25" src="img/Treat.png" width="25"/>500 <a href="treat.html"><span class="color-template color-template-treat">Treats</span></a> Tokens.</li>
+<li>Collect <img alt="Royal Jelly" height="25" src="img/Royal_Jelly.png" width="25"/>25 <a href="royal-jelly.html"><span class="color-template color-template-royal-jelly color-template-background-clip">Royal Jellies</span></a> Tokens.</li>
 <li>Collect 250 Tokens from Leaves.</li>
 <li>Share 150 Jelly Bean Tokens.</li></ul>
 </td>
@@ -3664,9 +3664,9 @@ x25 Moon Charms<br/>
 <li>Collect 150,000,000 Pollen from the Spider Field.</li>
 <li>Collect 30,000,000 Goo from White Flowers.</li>
 <li>Collect 150 Inspire Tokens.</li>
-<li>Collect <span typeof="mw:Error mw:File"></span>1,500 <a href="honey.html"><span class="color-template color-template-honey">Honey</span></a> Tokens.</li>
-<li>Donate <span typeof="mw:Error mw:File"></span>500 <a href="blueberry.html"><span class="color-template color-template-blueberry color-template-background-clip">Blueberries</span></a> to the Wind Shrine.</li>
-<li>Donate <span typeof="mw:Error mw:File"></span>1 <a href="oil.html"><span class="color-template color-template-oil color-template-background-clip">Oil</span></a> to the Wind Shrine.</li></ul>
+<li>Collect <img alt="Honey" height="25" src="img/Honey.png" width="25"/>1,500 <a href="honey.html"><span class="color-template color-template-honey">Honey</span></a> Tokens.</li>
+<li>Donate <img alt="Blueberry" height="25" src="img/Blueberry.png" width="25"/>500 <a href="blueberry.html"><span class="color-template color-template-blueberry color-template-background-clip">Blueberries</span></a> to the Wind Shrine.</li>
+<li>Donate <img alt="Oil" height="25" src="img/Oil.png" width="25"/>1 <a href="oil.html"><span class="color-template color-template-oil color-template-background-clip">Oil</span></a> to the Wind Shrine.</li></ul>
 </td>
 <td>Summon Honeystorm (Upon receiving quest)----
 <p><br/>
@@ -3689,8 +3689,8 @@ x25 Moon Charms<br/>
 <li>Collect 50,000,000 Goo from Red Flowers.</li>
 <li>Use 5 Red Extracts.</li>
 <li>Catch 20 Falling Coconuts.</li>
-<li>Collect <span typeof="mw:Error mw:File"></span>300 <a href="sunflower-seed.html"><span class="color-template color-template-sunflower-seed color-template-background-clip">Sunflower Seeds</span></a> Tokens.</li>
-<li>Collect <span typeof="mw:Error mw:File"></span>300 <a href="pineapple.html"><span class="color-template color-template-pineapple color-template-background-clip">Pineapples</span></a> Tokens.</li>
+<li>Collect <img alt="Sunflower Seed" height="25" src="img/Sunflower_Seed.png" width="25"/>300 <a href="sunflower-seed.html"><span class="color-template color-template-sunflower-seed color-template-background-clip">Sunflower Seeds</span></a> Tokens.</li>
+<li>Collect <img alt="Pineapple" height="25" src="img/Pineapple.png" width="25"/>300 <a href="pineapple.html"><span class="color-template color-template-pineapple color-template-background-clip">Pineapples</span></a> Tokens.</li>
 <li>Use the Wealth Clock 3 Times.</li>
 <li>Match 10 Pairs in Memory Match Games.</li>
 <li>Donate 5 <a href="tropical-drink.html">Tropical Drinks</a> to the Wind Shrine.</li></ul>
@@ -3724,8 +3724,8 @@ x25 Moon Charms<br/>
 <li>Use 5 Blue Extracts.</li>
 <li>Use 10 Field Dice.</li>
 <li>Collect 600 Tokens from Sprouts.</li>
-<li>Donate <span typeof="mw:Error mw:File"></span>1 <a href="egg.html#Basic_Egg"><span class="color-template color-template-basic-egg color-template-background-clip">Basic Egg</span></a> to the Wind Shrine.</li>
-<li>Donate <span typeof="mw:Error mw:File"></span>5,000 <a href="treat.html"><span class="color-template color-template-treat">Treats</span></a> to the Wind Shrine.</li></ul>
+<li>Donate <img alt="Basic Egg" height="25" src="img/Basic_Egg.png" width="25"/>1 <a href="egg.html#Basic_Egg"><span class="color-template color-template-basic-egg color-template-background-clip">Basic Egg</span></a> to the Wind Shrine.</li>
+<li>Donate <img alt="Treat" height="25" src="img/Treat.png" width="25"/>5,000 <a href="treat.html"><span class="color-template color-template-treat">Treats</span></a> to the Wind Shrine.</li></ul>
 </td>
 <td>2x Glitter (Upon receiving quest)----
 <p><br/>
@@ -3746,11 +3746,11 @@ x25 Moon Charms<br/>
 <li>Collect 250,000,000 Pollen from the Sunflower Field.</li>
 <li>Collect 150,000,000 Goo.</li>
 <li>Collect 50,000,000 Goo from White Flowers.</li>
-<li>Collect <span typeof="mw:Error mw:File"></span>300 <a href="sunflower-seed.html"><span class="color-template color-template-sunflower-seed color-template-background-clip">Sunflower Seeds</span></a> Tokens.</li>
-<li>Collect <span typeof="mw:Error mw:File"></span>30 <a href="gumdrops.html"><span class="color-template color-template-gumdrops color-template-background-clip">Gumdrops</span></a> Tokens.</li>
+<li>Collect <img alt="Sunflower Seed" height="25" src="img/Sunflower_Seed.png" width="25"/>300 <a href="sunflower-seed.html"><span class="color-template color-template-sunflower-seed color-template-background-clip">Sunflower Seeds</span></a> Tokens.</li>
+<li>Collect <img alt="Gumdrops" height="25" src="img/Gumdrops.png" width="25"/>30 <a href="gumdrops.html"><span class="color-template color-template-gumdrops color-template-background-clip">Gumdrops</span></a> Tokens.</li>
 <li>Collect 200 Tokens from Sparkles.</li>
-<li>Donate <span typeof="mw:Error mw:File"></span>3 <a href="glue.html"><span class="color-template color-template-glue color-template-background-clip">Glues</span></a> to the Wind Shrine.</li>
-<li>Donate <span typeof="mw:Error mw:File"></span>300 <a href="sunflower-seed.html"><span class="color-template color-template-sunflower-seed color-template-background-clip">Sunflower Seeds</span></a> to the Wind Shrine.</li></ul>
+<li>Donate <img alt="Glue" height="25" src="img/Glue.png" width="25"/>3 <a href="glue.html"><span class="color-template color-template-glue color-template-background-clip">Glues</span></a> to the Wind Shrine.</li>
+<li>Donate <img alt="Sunflower Seed" height="25" src="img/Sunflower_Seed.png" width="25"/>300 <a href="sunflower-seed.html"><span class="color-template color-template-sunflower-seed color-template-background-clip">Sunflower Seeds</span></a> to the Wind Shrine.</li></ul>
 </td>
 <td>150,000,000 Honey<br/>
 <p>2x Glitter<br/>
@@ -3769,7 +3769,7 @@ x25 Moon Charms<br/>
 <li>Collect 250,000,000 Pollen from the Coconut Field.</li>
 <li>Collect 150,000,000 Pollen from the Dandelion Field.</li>
 <li>Collect 100,000,000 Goo.</li>
-<li>Collect <span typeof="mw:Error mw:File"></span>2,000 <a href="honey.html"><span class="color-template color-template-honey">Honey</span></a> Tokens.</li>
+<li>Collect <img alt="Honey" height="25" src="img/Honey.png" width="25"/>2,000 <a href="honey.html"><span class="color-template color-template-honey">Honey</span></a> Tokens.</li>
 <li>Collect 500 Tokens from Wild Windy Bee.</li>
 <li>Share 200 Jelly Bean Tokens.</li></ul>
 </td>
@@ -3788,11 +3788,11 @@ x25 Moon Charms<br/>
 <li>Collect 500,000,000 Pollen from the Pineapple Patch.</li>
 <li>Collect 400,000,000 Pollen from the Clover Field.</li>
 <li>Collect 60,000,000 Goo from Blue Flowers.</li>
-<li>Collect <span typeof="mw:Error mw:File"></span>1 <a href="oil.html"><span class="color-template color-template-oil color-template-background-clip">Oil</span></a> Token.</li>
+<li>Collect <img alt="Oil" height="25" src="img/Oil.png" width="25"/>1 <a href="oil.html"><span class="color-template color-template-oil color-template-background-clip">Oil</span></a> Token.</li>
 <li>Collect 800 Tokens from Sprouts.</li>
-<li>Feed <span typeof="mw:Error mw:File"></span>250 <a href="blueberry.html"><span class="color-template color-template-blueberry color-template-background-clip">Blueberries</span></a> to your Bees.</li>
-<li>Donate <span typeof="mw:Error mw:File"></span>1 <a href="egg.html#Gold_Egg"><span class="color-template color-template-gold-egg color-template-background-clip">Gold Egg</span></a> to the Wind Shrine.</li>
-<li>Donate <span typeof="mw:Error mw:File"></span>10 <a href="oil.html"><span class="color-template color-template-oil color-template-background-clip">Oils</span></a> to the Wind Shrine.</li>
+<li>Feed <img alt="Blueberry" height="25" src="img/Blueberry.png" width="25"/>250 <a href="blueberry.html"><span class="color-template color-template-blueberry color-template-background-clip">Blueberries</span></a> to your Bees.</li>
+<li>Donate <img alt="Gold Egg" height="25" src="img/Gold_Egg.png" width="25"/>1 <a href="egg.html#Gold_Egg"><span class="color-template color-template-gold-egg color-template-background-clip">Gold Egg</span></a> to the Wind Shrine.</li>
+<li>Donate <img alt="Oil" height="25" src="img/Oil.png" width="25"/>10 <a href="oil.html"><span class="color-template color-template-oil color-template-background-clip">Oils</span></a> to the Wind Shrine.</li>
 <li>Match 15 Pairs in Memory Match Games.</li></ul>
 </td>
 <td>400,000,000 Honey<br/>
@@ -3812,13 +3812,13 @@ x25 Moon Charms<br/>
 <li>Collect 800,000,000 Pollen from the Strawberry Field.</li>
 <li>Collect 700,000,000 Pollen from the Cactus Field.</li>
 <li>Collect 100,000,000 Goo from Red Flowers.</li>
-<li>Collect <span typeof="mw:Error mw:File"></span>1 <a href="red-extract.html"><span class="color-template color-template-red-extract color-template-background-clip">Red Extract</span></a> Token.</li>
+<li>Collect <img alt="Red Extract" height="25" src="img/Red_Extract.png" width="25"/>1 <a href="red-extract.html"><span class="color-template color-template-red-extract color-template-background-clip">Red Extract</span></a> Token.</li>
 <li>Collect 300 Tokens from Leaves.</li>
 <li>Use 10 Field Dice.</li>
 <li>Use the Moon Amulet Generator 1 Time.</li>
 <li>Use the Wealth Clock 5 Times.</li>
-<li>Donate <span typeof="mw:Error mw:File"></span>50 <a href="royal-jelly.html"><span class="color-template color-template-royal-jelly color-template-background-clip">Royal Jellies</span></a> to the Wind Shrine.</li>
-<li>Donate <span typeof="mw:Error mw:File"></span>10 <a href="red-extract.html"><span class="color-template color-template-red-extract color-template-background-clip">Red Extracts</span></a> to the Wind Shrine.</li></ul>
+<li>Donate <img alt="Royal Jelly" height="25" src="img/Royal_Jelly.png" width="25"/>50 <a href="royal-jelly.html"><span class="color-template color-template-royal-jelly color-template-background-clip">Royal Jellies</span></a> to the Wind Shrine.</li>
+<li>Donate <img alt="Red Extract" height="25" src="img/Red_Extract.png" width="25"/>10 <a href="red-extract.html"><span class="color-template color-template-red-extract color-template-background-clip">Red Extracts</span></a> to the Wind Shrine.</li></ul>
 </td>
 <td>500,000,000 Honey<br/>
 <p>3x Glitter<br/>
@@ -3838,10 +3838,10 @@ x25 Moon Charms<br/>
 <li>Collect 700,000,000 Pollen from the Stump Field.</li>
 <li>Collect 200,000,000 Goo from White Flowers.</li>
 <li>Collect 50 Gumdrop Tokens.</li>
-<li>Collect <span typeof="mw:Error mw:File"></span>1 <a href="glue.html"><span class="color-template color-template-glue color-template-background-clip">Glue</span></a> Token.</li>
+<li>Collect <img alt="Glue" height="25" src="img/Glue.png" width="25"/>1 <a href="glue.html"><span class="color-template color-template-glue color-template-background-clip">Glue</span></a> Token.</li>
 <li>Use 3 Cloud Vials.</li>
-<li>Donate <span typeof="mw:Error mw:File"></span>3 <a href="cloud-vial.html"><span class="color-template color-template-cloud-vial color-template-background-clip">Cloud Vials</span></a> to the Wind Shrine.</li>
-<li>Donate <span typeof="mw:Error mw:File"></span>10 <a href="glue.html"><span class="color-template color-template-glue color-template-background-clip">Glues</span></a> to the Wind Shrine.</li></ul>
+<li>Donate <img alt="Cloud Vial" height="25" src="img/Cloud_Vial.png" width="25"/>3 <a href="cloud-vial.html"><span class="color-template color-template-cloud-vial color-template-background-clip">Cloud Vials</span></a> to the Wind Shrine.</li>
+<li>Donate <img alt="Glue" height="25" src="img/Glue.png" width="25"/>10 <a href="glue.html"><span class="color-template color-template-glue color-template-background-clip">Glues</span></a> to the Wind Shrine.</li></ul>
 </td>
 <td>700,000,000 Honey<br/>
 <p>3x Glitter<br/>
@@ -3860,11 +3860,11 @@ x25 Moon Charms<br/>
 <li>Collect 800,000,000 Pollen from the Pumpkin Patch.</li>
 <li>Collect 700,000,000 Pollen from the Blue Flower Field.</li>
 <li>Collect 100,000,000 Goo from the Mountain Top Field.</li>
-<li>Collect <span typeof="mw:Error mw:File"></span>1,000 <a href="treat.html"><span class="color-template color-template-treat">Treats</span></a> Tokens.</li>
+<li>Collect <img alt="Treat" height="25" src="img/Treat.png" width="25"/>1,000 <a href="treat.html"><span class="color-template color-template-treat">Treats</span></a> Tokens.</li>
 <li>Collect 250 Tokens from Sparkles.</li>
 <li>Collect 250 Inspire Tokens.</li>
-<li>Donate <span typeof="mw:Error mw:File"></span>1,000 <a href="sunflower-seed.html"><span class="color-template color-template-sunflower-seed color-template-background-clip">Sunflower Seeds</span></a> to the Wind Shrine.</li>
-<li>Donate <span typeof="mw:Error mw:File"></span>10 <a href="red-extract.html"><span class="color-template color-template-red-extract color-template-background-clip">Red Extracts</span></a> to the Wind Shrine.</li></ul>
+<li>Donate <img alt="Sunflower Seed" height="25" src="img/Sunflower_Seed.png" width="25"/>1,000 <a href="sunflower-seed.html"><span class="color-template color-template-sunflower-seed color-template-background-clip">Sunflower Seeds</span></a> to the Wind Shrine.</li>
+<li>Donate <img alt="Red Extract" height="25" src="img/Red_Extract.png" width="25"/>10 <a href="red-extract.html"><span class="color-template color-template-red-extract color-template-background-clip">Red Extracts</span></a> to the Wind Shrine.</li></ul>
 </td>
 <td>1,000,000,000 Honey<br/>
 <p>3x Glitter<br/>
@@ -3885,10 +3885,10 @@ Summons Wild Windy Bee
 <li>Collect 500,000,000 Pollen from the Sunflower Field.</li>
 <li>Collect 80,000,000 Goo from the Sunflower Field.</li>
 <li>Catch 50 Falling Coconuts.</li>
-<li>Feed <span typeof="mw:Error mw:File"></span>1,000 <a href="sunflower-seed.html"><span class="color-template color-template-sunflower-seed color-template-background-clip">Sunflower Seeds</span></a> to your Bees.</li>
+<li>Feed <img alt="Sunflower Seed" height="25" src="img/Sunflower_Seed.png" width="25"/>1,000 <a href="sunflower-seed.html"><span class="color-template color-template-sunflower-seed color-template-background-clip">Sunflower Seeds</span></a> to your Bees.</li>
 <li>Collect 350 Tokens from Leaves.</li>
 <li>Share 250 Jelly Bean Tokens.</li>
-<li>Donate <span typeof="mw:Error mw:File"></span>1 <a href="egg.html#Basic_Egg"><span class="color-template color-template-basic-egg color-template-background-clip">Basic Egg</span></a> to the Wind Shrine.</li></ul>
+<li>Donate <img alt="Basic Egg" height="25" src="img/Basic_Egg.png" width="25"/>1 <a href="egg.html#Basic_Egg"><span class="color-template color-template-basic-egg color-template-background-clip">Basic Egg</span></a> to the Wind Shrine.</li></ul>
 </td>
 <td>1,500,000,000 Honey<br/>
 <p>5x Glitter<br/>
@@ -3910,9 +3910,9 @@ Summons Wild Windy Bee
 <li>Collect 1,000,000,000 Pollen from the Spider Field.</li>
 <li>Collect 300,000,000 Goo from Blue Flowers.</li>
 <li>Collect 2,000 Tokens from Stick Nymphs.</li>
-<li>Collect <span typeof="mw:Error mw:File"></span>3,000 <a href="honey.html"><span class="color-template color-template-honey">Honey</span></a> Tokens .</li>
-<li>Feed <span typeof="mw:Error mw:File"></span>1,000 <a href="pineapple.html"><span class="color-template color-template-pineapple color-template-background-clip">Pineapples</span></a> to your Bees.</li>
-<li>Donate <span typeof="mw:Error mw:File"></span>25 <a href="oil.html"><span class="color-template color-template-oil color-template-background-clip">Oils</span></a> to the Wind Shrine.</li>
+<li>Collect <img alt="Honey" height="25" src="img/Honey.png" width="25"/>3,000 <a href="honey.html"><span class="color-template color-template-honey">Honey</span></a> Tokens .</li>
+<li>Feed <img alt="Pineapple" height="25" src="img/Pineapple.png" width="25"/>1,000 <a href="pineapple.html"><span class="color-template color-template-pineapple color-template-background-clip">Pineapples</span></a> to your Bees.</li>
+<li>Donate <img alt="Oil" height="25" src="img/Oil.png" width="25"/>25 <a href="oil.html"><span class="color-template color-template-oil color-template-background-clip">Oils</span></a> to the Wind Shrine.</li>
 <li>Match 25 Pairs in Memory Match Games.</li></ul>
 </td>
 <td>Play Memory Match
@@ -3949,13 +3949,13 @@ Summons Wild Windy Bee
 <li>Collect 1,800,000,000 Pollen from the Pineapple Patch.</li>
 <li>Collect 1,000,000,000 Pollen from the Stump Field.</li>
 <li>Collect 400,000,000 Goo from Red Flowers.</li>
-<li>Feed <span typeof="mw:Error mw:File"></span>1,000 <a href="strawberry.html"><span class="color-template color-template-strawberry color-template-background-clip">Strawberries</span></a> to your Bees.</li>
-<li>Collect <span typeof="mw:Error mw:File"></span>5 <a href="enzymes.html"><span class="color-template color-template-enzymes color-template-background-clip">Enzymes</span></a> Tokens.</li>
-<li>Collect <span typeof="mw:Error mw:File"></span>100 <a href="gumdrops.html"><span class="color-template color-template-gumdrops color-template-background-clip">Gumdrops</span></a> Tokens.</li>
+<li>Feed <img alt="Strawberry" height="25" src="img/Strawberry.png" width="25"/>1,000 <a href="strawberry.html"><span class="color-template color-template-strawberry color-template-background-clip">Strawberries</span></a> to your Bees.</li>
+<li>Collect <img alt="Enzymes" height="25" src="img/Enzymes.png" width="25"/>5 <a href="enzymes.html"><span class="color-template color-template-enzymes color-template-background-clip">Enzymes</span></a> Tokens.</li>
+<li>Collect <img alt="Gumdrops" height="25" src="img/Gumdrops.png" width="25"/>100 <a href="gumdrops.html"><span class="color-template color-template-gumdrops color-template-background-clip">Gumdrops</span></a> Tokens.</li>
 <li>Collect 1,000 Tokens from Sprouts.</li>
 <li>Use the Moon Amulet Generator 1 Time.</li>
 <li>Use the Wealth Clock 5 Times.</li>
-<li>Donate <span typeof="mw:Error mw:File"></span>25 <a href="blue-extract.html"><span class="color-template color-template-blue-extract color-template-background-clip">Blue Extracts</span></a> to the Wind Shrine.</li></ul>
+<li>Donate <img alt="Blue Extract" height="25" src="img/Blue_Extract.png" width="25"/>25 <a href="blue-extract.html"><span class="color-template color-template-blue-extract color-template-background-clip">Blue Extracts</span></a> to the Wind Shrine.</li></ul>
 </td>
 <td>3,000,000,000 Honey<br/>
 <p>5x Glitter<br/>
@@ -3977,14 +3977,14 @@ Summons Wild Windy Bee
 <li>Collect 3.000.000.000 Pollen from the Mushroom Field</li>
 <li>Collect 2,000,000,000 Pollen from the Rose Field.</li>
 <li>Collect 300,000,000 Goo from the Pumpkin Patch.</li>
-<li>Feed <span typeof="mw:Error mw:File"></span>1,000 <a href="sunflower-seed.html"><span class="color-template color-template-sunflower-seed color-template-background-clip">Sunflower Seeds</span></a> to your Bees.</li>
-<li>Collect <span typeof="mw:Error mw:File"></span>5 <a href="oil.html"><span class="color-template color-template-oil color-template-background-clip">Oils</span></a> Tokens.</li>
+<li>Feed <img alt="Sunflower Seed" height="25" src="img/Sunflower_Seed.png" width="25"/>1,000 <a href="sunflower-seed.html"><span class="color-template color-template-sunflower-seed color-template-background-clip">Sunflower Seeds</span></a> to your Bees.</li>
+<li>Collect <img alt="Oil" height="25" src="img/Oil.png" width="25"/>5 <a href="oil.html"><span class="color-template color-template-oil color-template-background-clip">Oils</span></a> Tokens.</li>
 <li>Catch 100 Falling Coconuts.</li>
 <li>Collect 500 Inspire Tokens.</li>
-<li>Donate <span typeof="mw:Error mw:File"></span>1,500 <a href="strawberry.html"><span class="color-template color-template-strawberry color-template-background-clip">Strawberries</span></a> to the Wind Shrine.</li>
-<li>Donate <span typeof="mw:Error mw:File"></span>1 <a href="egg.html#Basic_Egg"><span class="color-template color-template-basic-egg color-template-background-clip">Basic Egg</span></a> to the Wind Shrine.</li>
-<li>Donate <span typeof="mw:Error mw:File"></span>1 <a href="egg.html#Silver_Egg"><span class="color-template color-template-silver-egg color-template-background-clip">Silver Egg</span></a> to the Wind Shrine.</li>
-<li>Donate <span typeof="mw:Error mw:File"></span>1 <a href="egg.html#Gold_Egg"><span class="color-template color-template-gold-egg color-template-background-clip">Gold Egg</span></a> to the Wind Shrine.</li></ul>
+<li>Donate <img alt="Strawberry" height="25" src="img/Strawberry.png" width="25"/>1,500 <a href="strawberry.html"><span class="color-template color-template-strawberry color-template-background-clip">Strawberries</span></a> to the Wind Shrine.</li>
+<li>Donate <img alt="Basic Egg" height="25" src="img/Basic_Egg.png" width="25"/>1 <a href="egg.html#Basic_Egg"><span class="color-template color-template-basic-egg color-template-background-clip">Basic Egg</span></a> to the Wind Shrine.</li>
+<li>Donate <img alt="Silver Egg" height="25" src="img/Silver_Egg.png" width="25"/>1 <a href="egg.html#Silver_Egg"><span class="color-template color-template-silver-egg color-template-background-clip">Silver Egg</span></a> to the Wind Shrine.</li>
+<li>Donate <img alt="Gold Egg" height="25" src="img/Gold_Egg.png" width="25"/>1 <a href="egg.html#Gold_Egg"><span class="color-template color-template-gold-egg color-template-background-clip">Gold Egg</span></a> to the Wind Shrine.</li></ul>
 </td>
 <td>5,000,000,000 Honey<br/>
 <p>5x Glitter<br/>
@@ -4004,13 +4004,13 @@ Summons Wild Windy Bee
 <li>Collect 5,000,000,000 Pollen from the Bamboo Field.</li>
 <li>Collect 2,000,000,000 Pollen from the Blue Flower Field.</li>
 <li>Collect 1,000,000,000 Goo.</li>
-<li>Feed <span typeof="mw:Error mw:File"></span>1,000 <a href="blueberry.html"><span class="color-template color-template-blueberry color-template-background-clip">Blueberries</span></a> to your bees.</li>
+<li>Feed <img alt="Blueberry" height="25" src="img/Blueberry.png" width="25"/>1,000 <a href="blueberry.html"><span class="color-template color-template-blueberry color-template-background-clip">Blueberries</span></a> to your bees.</li>
 <li>Use 20 Field Dice.</li>
-<li>Collect <span typeof="mw:Error mw:File"></span>5 <a href="red-extract.html"><span class="color-template color-template-red-extract color-template-background-clip">Red Extracts</span></a> Tokens.</li>
-<li>Collect <span typeof="mw:Error mw:File"></span>5 <a href="blue-extract.html"><span class="color-template color-template-blue-extract color-template-background-clip">Blue Extracts</span></a> Tokens.</li>
+<li>Collect <img alt="Red Extract" height="25" src="img/Red_Extract.png" width="25"/>5 <a href="red-extract.html"><span class="color-template color-template-red-extract color-template-background-clip">Red Extracts</span></a> Tokens.</li>
+<li>Collect <img alt="Blue Extract" height="25" src="img/Blue_Extract.png" width="25"/>5 <a href="blue-extract.html"><span class="color-template color-template-blue-extract color-template-background-clip">Blue Extracts</span></a> Tokens.</li>
 <li>Collect 500 Tokens from Leaves.</li>
-<li>Donate <span typeof="mw:Error mw:File"></span>25 <a href="glue.html"><span class="color-template color-template-glue color-template-background-clip">Glues</span></a> to the Wind Shrine.</li>
-<li>Donate <span typeof="mw:Error mw:File"></span>25 <a href="tropical-drink.html"><span class="color-template color-template-tropical-drink color-template-background-clip">Tropical Drinks</span></a> to the Wind Shrine.</li>
+<li>Donate <img alt="Glue" height="25" src="img/Glue.png" width="25"/>25 <a href="glue.html"><span class="color-template color-template-glue color-template-background-clip">Glues</span></a> to the Wind Shrine.</li>
+<li>Donate <img alt="Tropical Drink" height="25" src="img/Tropical_Drink.png" width="25"/>25 <a href="tropical-drink.html"><span class="color-template color-template-tropical-drink color-template-background-clip">Tropical Drinks</span></a> to the Wind Shrine.</li>
 <li>Match 25 Pairs in Memory Match Games.</li></ul>
 </td>
 <td>25x Coconut (Upon receiving quest)<br/>
@@ -4046,13 +4046,13 @@ Play Memory Match (Upon receiving quest)
 <li>Collect 4,000,000,000 Pollen from the Bamboo Field.</li>
 <li>Collect 2,000,000,000 Pollen from the Blue Flower Field.</li>
 <li>Collect 1,000,000,000 Goo.</li>
-<li>Feed <span typeof="mw:Error mw:File"></span>1,000 <a href="blueberry.html"><span class="color-template color-template-blueberry color-template-background-clip">Blueberries</span></a> to your bees.</li>
+<li>Feed <img alt="Blueberry" height="25" src="img/Blueberry.png" width="25"/>1,000 <a href="blueberry.html"><span class="color-template color-template-blueberry color-template-background-clip">Blueberries</span></a> to your bees.</li>
 <li>Use 20 Field Dice.</li>
-<li>Collect <span typeof="mw:Error mw:File"></span>5 <a href="red-extract.html"><span class="color-template color-template-red-extract color-template-background-clip">Red Extracts</span></a> Tokens.</li>
-<li>Collect <span typeof="mw:Error mw:File"></span>5 <a href="blue-extract.html"><span class="color-template color-template-blue-extract color-template-background-clip">Blue Extracts</span></a> Tokens.</li>
+<li>Collect <img alt="Red Extract" height="25" src="img/Red_Extract.png" width="25"/>5 <a href="red-extract.html"><span class="color-template color-template-red-extract color-template-background-clip">Red Extracts</span></a> Tokens.</li>
+<li>Collect <img alt="Blue Extract" height="25" src="img/Blue_Extract.png" width="25"/>5 <a href="blue-extract.html"><span class="color-template color-template-blue-extract color-template-background-clip">Blue Extracts</span></a> Tokens.</li>
 <li>Collect 1,000 Tokens from Leaves.</li>
-<li>Donate <span typeof="mw:Error mw:File"></span>25 <a href="glue.html"><span class="color-template color-template-glue color-template-background-clip">Glues</span></a> to the Wind Shrine.</li>
-<li>Donate <span typeof="mw:Error mw:File"></span>25 <a href="tropical-drink.html"><span class="color-template color-template-tropical-drink color-template-background-clip">Tropical Drinks</span></a> to the Wind Shrine.</li>
+<li>Donate <img alt="Glue" height="25" src="img/Glue.png" width="25"/>25 <a href="glue.html"><span class="color-template color-template-glue color-template-background-clip">Glues</span></a> to the Wind Shrine.</li>
+<li>Donate <img alt="Tropical Drink" height="25" src="img/Tropical_Drink.png" width="25"/>25 <a href="tropical-drink.html"><span class="color-template color-template-tropical-drink color-template-background-clip">Tropical Drinks</span></a> to the Wind Shrine.</li>
 <li>Match 25 Pairs in Memory Match Games.</li></ul>
 </td>
 <td>25x Coconut (Upon receiving quest)<br/>
@@ -4090,9 +4090,9 @@ Play Memory Match (Upon receiving quest)
 <li>Collect 3,000,000,000 Pollen from the Dandelion Field.</li>
 <li>Collect 1,000,000,000 Goo from White Flowers.</li>
 <li>Share 500 Jelly Bean Tokens.</li>
-<li>Collect <span typeof="mw:Error mw:File"></span>100 <a href="royal-jelly.html"><span class="color-template color-template-royal-jelly color-template-background-clip">Royal Jellies</span></a> Tokens.</li>
+<li>Collect <img alt="Royal Jelly" height="25" src="img/Royal_Jelly.png" width="25"/>100 <a href="royal-jelly.html"><span class="color-template color-template-royal-jelly color-template-background-clip">Royal Jellies</span></a> Tokens.</li>
 <li>Collect 1000 Tokens from Wild Windy Bee.</li>
-<li>Donate <span typeof="mw:Error mw:File"></span>50 <a href="cloud-vial.html"><span class="color-template color-template-cloud-vial color-template-background-clip">Cloud Vials</span></a> to the Wind Shrine.</li></ul>
+<li>Donate <img alt="Cloud Vial" height="25" src="img/Cloud_Vial.png" width="25"/>50 <a href="cloud-vial.html"><span class="color-template color-template-cloud-vial color-template-background-clip">Cloud Vials</span></a> to the Wind Shrine.</li></ul>
 </td>
 <td>10,000,000,000 Honey<br/>
 <p>5x Glitter<br/>
@@ -4219,7 +4219,7 @@ x1 Star Jelly
 <li>Collect 250 <a href="gumdrops.html">Gumdrops</a>.</li>
 <li>Use 10 <a href="field-dice.html">Field Dice</a>.</li>
 <li>Use 1 <a href="tropical-drink.html">Tropical Drink</a>.</li>
-<li>Complete <span typeof="mw:Error mw:File"></span>1,000 <a href="honey.html"><span class="color-template color-template-honey">Honey</span></a> Conversion Links.</li>
+<li>Complete <img alt="Honey" height="25" src="img/Honey.png" width="25"/>1,000 <a href="honey.html"><span class="color-template color-template-honey">Honey</span></a> Conversion Links.</li>
 <li>Pop 30 <a href="puffshroom.html">Puffshrooms</a> in the <a href="clover-field.html">Clover Field</a>.</li></ul>
 </td>
 <td>x30,000,000 <a href="honey.html">Honey</a><br/>
@@ -4628,7 +4628,7 @@ Below is a list of all possible requirements:
 <td>
 <ul><li>Collect [1,000,000<i>X</i>] Pollen from the Mushroom Field.</li>
 <li>Collect [25 + 5<i>Y</i>] Strawberry Tokens.</li>
-<li>Feed <span typeof="mw:Error mw:File"></span>25 <a href="strawberry.html"><span class="color-template color-template-strawberry color-template-background-clip">Strawberries</span></a> to your Bees.</li>
+<li>Feed <img alt="Strawberry" height="25" src="img/Strawberry.png" width="25"/>25 <a href="strawberry.html"><span class="color-template color-template-strawberry color-template-background-clip">Strawberries</span></a> to your Bees.</li>
 <li>Defeat [5 + 10<i>Y</i>] Fire <a href="ants.html">Ants</a>.</li></ul>
 </td></tr>
 <tr>
@@ -4743,7 +4743,7 @@ Below is a list of all possible requirements:
 <li>Collect 2,500,000 Pollen from the <a href="dandelion-field.html">Dandelion Field</a>.</li>
 <li>Collect 1,000,000 <a href="goo.html">Goo</a> from White Flowers.</li>
 <li>Collect 2,500 Haste Tokens.</li>
-<li>Collect <span typeof="mw:Error mw:File"></span>100 <a href="honey.html"><span class="color-template color-template-honey">Honey</span></a> Tokens.</li>
+<li>Collect <img alt="Honey" height="25" src="img/Honey.png" width="25"/>100 <a href="honey.html"><span class="color-template color-template-honey">Honey</span></a> Tokens.</li>
 <li>Defeat 10 <a href="ants.html#Giant_Ant">Giant Ants</a>.</li>
 <li>Defeat 5 <a href="werewolf.html">Werewolves</a>.</li></ul>
 </td>
@@ -4765,7 +4765,7 @@ Below is a list of all possible requirements:
 <li>Collect 5,000,000 <a href="goo.html">Goo</a> from Red Flowers.</li>
 <li>Collect 5,000 Red Boost Tokens.</li>
 <li>Collect 150 <a href="strawberry.html">Strawberry</a> Tokens.</li>
-<li>Collect <span typeof="mw:Error mw:File"></span>500 <a href="honey.html"><span class="color-template color-template-honey">Honey</span></a> Tokens.</li>
+<li>Collect <img alt="Honey" height="25" src="img/Honey.png" width="25"/>500 <a href="honey.html"><span class="color-template color-template-honey">Honey</span></a> Tokens.</li>
 <li>Defeat 100 <a href="ants.html">Fire Ants</a>.</li>
 <li>Defeat 100 <a href="ladybug.html">Ladybugs</a>.</li>
 <li>Use the <a href="red-teleporter.html">Red Portal</a> 10 Times.</li>
@@ -4788,7 +4788,7 @@ Below is a list of all possible requirements:
 <li>Collect 10,000,000 <a href="goo.html">Goo</a> from Blue Flowers.</li>
 <li>Collect 7,500 Blue Boost Tokens.</li>
 <li>Collect 250 <a href="blueberry.html">Blueberry</a> Tokens.</li>
-<li>Collect <span typeof="mw:Error mw:File"></span>1,000 <a href="honey.html"><span class="color-template color-template-honey">Honey</span></a> Tokens.</li>
+<li>Collect <img alt="Honey" height="25" src="img/Honey.png" width="25"/>1,000 <a href="honey.html"><span class="color-template color-template-honey">Honey</span></a> Tokens.</li>
 <li>Defeat 200 <a href="ants.html#Flying_Ant">Flying Ants</a>.</li>
 <li>Defeat 200 <a href="rhino-beetle.html">Rhino Beetles</a>.</li>
 <li>Defeat 1 <a href="king-beetle.html">King Beetle</a>.</li>
@@ -4811,7 +4811,7 @@ Below is a list of all possible requirements:
 <li>Collect 15,000,000 <a href="goo.html">Goo</a> from the <a href="pumpkin-patch.html">Pumpkin Patch</a>.</li>
 <li>Collect 5,000 Focus Tokens.</li>
 <li>Collect 5,000 Token Links.</li>
-<li>Collect <span typeof="mw:Error mw:File"></span>5,000 <a href="honey.html"><span class="color-template color-template-honey">Honey</span></a> Tokens.</li>
+<li>Collect <img alt="Honey" height="25" src="img/Honey.png" width="25"/>5,000 <a href="honey.html"><span class="color-template color-template-honey">Honey</span></a> Tokens.</li>
 <li>Defeat 150 <a href="ants.html#Army_Ant">Army Ants</a>.</li>
 <li>Defeat 30 <a href="mantis.html">Mantises</a>.</li>
 <li>Defeat 30 <a href="scorpion.html">Scorpions</a>.</li>
@@ -4838,7 +4838,7 @@ Below is a list of all possible requirements:
 <li>Collect 100,000 <a href="ability-tokens.html">Ability Tokens</a>.</li>
 <li>Collect 10,000 Bomb Tokens.</li>
 <li>Collect 1,000 Baby Love Tokens.</li>
-<li>Collect <span typeof="mw:Error mw:File"></span>10,000 <a href="honey.html"><span class="color-template color-template-honey">Honey</span></a> Tokens.</li>
+<li>Collect <img alt="Honey" height="25" src="img/Honey.png" width="25"/>10,000 <a href="honey.html"><span class="color-template color-template-honey">Honey</span></a> Tokens.</li>
 <li>Defeat 50 <a href="spider.html">Spiders</a>.</li>
 <li>Defeat 50 <a href="ants.html#Giant_Ant">Giant Ants</a>.</li>
 <li>Defeat 5 <a href="king-beetle.html">King Beetles</a>.</li>
@@ -4920,7 +4920,7 @@ The below content has been removed from the game. The contents may be archival, 
 <li>Collect 5,000 <a href="pollen.html">Pollen</a> from the <a href="dandelion-field.html">Dandelion Field</a>.</li></ul>
 </td>
 <td>
-<ul><li><span typeof="mw:Error mw:File"></span>5,500 <a href="honey.html"><span class="color-template color-template-honey">Honey</span></a></li></ul>
+<ul><li><img alt="Honey" height="25" src="img/Honey.png" width="25"/>5,500 <a href="honey.html"><span class="color-template color-template-honey">Honey</span></a></li></ul>
 </td></tr>
 <tr>
 <td>Boost Brilliance
@@ -4932,7 +4932,7 @@ The below content has been removed from the game. The contents may be archival, 
 <li>Collect 8,000 Blue Pollen.</li></ul>
 </td>
 <td>
-<ul><li><span typeof="mw:Error mw:File"></span>13,500 <a href="honey.html"><span class="color-template color-template-honey">Honey</span></a></li></ul>
+<ul><li><img alt="Honey" height="25" src="img/Honey.png" width="25"/>13,500 <a href="honey.html"><span class="color-template color-template-honey">Honey</span></a></li></ul>
 </td></tr>
 <tr>
 <td>A Need For Haste
@@ -4943,7 +4943,7 @@ The below content has been removed from the game. The contents may be archival, 
 <li>Collect 31,000 Pollen from the <a href="clover-field.html">Clover Field</a>.</li></ul>
 </td>
 <td>
-<ul><li><span typeof="mw:Error mw:File"></span>21,500 <a href="honey.html"><span class="color-template color-template-honey">Honey</span></a></li></ul>
+<ul><li><img alt="Honey" height="25" src="img/Honey.png" width="25"/>21,500 <a href="honey.html"><span class="color-template color-template-honey">Honey</span></a></li></ul>
 </td></tr>
 <tr>
 <td>B&amp;B
@@ -4954,7 +4954,7 @@ The below content has been removed from the game. The contents may be archival, 
 <li>Defeat 2 <a href="spider.html">Spiders</a>.</li></ul>
 </td>
 <td>
-<ul><li><span typeof="mw:Error mw:File"></span>30,500 <a href="honey.html"><span class="color-template color-template-honey">Honey</span></a></li></ul>
+<ul><li><img alt="Honey" height="25" src="img/Honey.png" width="25"/>30,500 <a href="honey.html"><span class="color-template color-template-honey">Honey</span></a></li></ul>
 </td></tr>
 <tr>
 <td>Snag A Belt Bag
@@ -4976,7 +4976,7 @@ The below content has been removed from the game. The contents may be archival, 
 <li>Defeat 3 <a href="spider.html">Spiders</a>.</li></ul>
 </td>
 <td>
-<ul><li><span typeof="mw:Error mw:File"></span>75,000 <a href="honey.html"><span class="color-template color-template-honey">Honey</span></a></li></ul>
+<ul><li><img alt="Honey" height="25" src="img/Honey.png" width="25"/>75,000 <a href="honey.html"><span class="color-template color-template-honey">Honey</span></a></li></ul>
 </td></tr>
 <tr>
 <td>Look At those Links
@@ -4987,7 +4987,7 @@ The below content has been removed from the game. The contents may be archival, 
 <li>Collect 80,000 Pollen from the <a href="bamboo-field.html">Bamboo Field</a>.</li></ul>
 </td>
 <td>
-<ul><li><span typeof="mw:Error mw:File"></span>90,000 <a href="honey.html"><span class="color-template color-template-honey">Honey</span></a></li></ul>
+<ul><li><img alt="Honey" height="25" src="img/Honey.png" width="25"/>90,000 <a href="honey.html"><span class="color-template color-template-honey">Honey</span></a></li></ul>
 </td></tr>
 <tr>
 <td>Bring Back The Boosts
@@ -4998,7 +4998,7 @@ The below content has been removed from the game. The contents may be archival, 
 <li>Defeat 6 <a href="scorpion.html">Scorpions</a>.</li></ul>
 </td>
 <td>
-<ul><li><span typeof="mw:Error mw:File"></span>200,000 <a href="honey.html"><span class="color-template color-template-honey">Honey</span></a></li>
+<ul><li><img alt="Honey" height="25" src="img/Honey.png" width="25"/>200,000 <a href="honey.html"><span class="color-template color-template-honey">Honey</span></a></li>
 <li>1x Ticket</li></ul>
 </td></tr>
 <tr>
@@ -5009,7 +5009,7 @@ The below content has been removed from the game. The contents may be archival, 
 <li>Defeat 3 <a href="werewolf.html">Werewolfs</a>.</li></ul>
 </td>
 <td>
-<ul><li><span typeof="mw:Error mw:File"></span>150,000 <a href="honey.html"><span class="color-template color-template-honey">Honey</span></a></li>
+<ul><li><img alt="Honey" height="25" src="img/Honey.png" width="25"/>150,000 <a href="honey.html"><span class="color-template color-template-honey">Honey</span></a></li>
 <li>2x Ticket</li></ul>
 </td></tr>
 <tr>
@@ -5023,7 +5023,7 @@ The below content has been removed from the game. The contents may be archival, 
 <li>Collect 100,000 Pollen from the Pineapple Patch.</li></ul>
 </td>
 <td>
-<ul><li><span typeof="mw:Error mw:File"></span>200,000 <a href="honey.html"><span class="color-template color-template-honey">Honey</span></a></li>
+<ul><li><img alt="Honey" height="25" src="img/Honey.png" width="25"/>200,000 <a href="honey.html"><span class="color-template color-template-honey">Honey</span></a></li>
 <li>1x <a href="royal-jelly.html">Royal Jelly</a></li></ul>
 </td></tr>
 <tr>
@@ -5068,21 +5068,21 @@ The below content has been removed from the game. The contents may be archival, 
 <td>
 <ul><li>3x Ticket</li>
 <li>1x <a href="royal-jelly.html">Royal Jelly</a></li>
-<li><span typeof="mw:Error mw:File"></span>6,000 <a href="honey.html"><span class="color-template color-template-honey">Honey</span></a></li></ul>
+<li><img alt="Honey" height="25" src="img/Honey.png" width="25"/>6,000 <a href="honey.html"><span class="color-template color-template-honey">Honey</span></a></li></ul>
 </td></tr>
 <tr>
 <td>Token Treck
 </td>
 <td>
 <ul><li>Collect 100 Ability Tokens.</li>
-<li>Collect <span typeof="mw:Error mw:File"></span>25 <a href="honey.html"><span class="color-template color-template-honey">Honey</span></a> Tokens.</li>
-<li>Collect <span typeof="mw:Error mw:File"></span>5 <a href="treat.html"><span class="color-template color-template-treat">Treats</span></a> Tokens.</li></ul>
+<li>Collect <img alt="Honey" height="25" src="img/Honey.png" width="25"/>25 <a href="honey.html"><span class="color-template color-template-honey">Honey</span></a> Tokens.</li>
+<li>Collect <img alt="Treat" height="25" src="img/Treat.png" width="25"/>5 <a href="treat.html"><span class="color-template color-template-treat">Treats</span></a> Tokens.</li></ul>
 </td>
 <td>
 <ul><li>3x Ticket</li>
 <li>1x Royal Jelly</li>
 <li>25x <a href="treats.html">Treat</a></li>
-<li><span typeof="mw:Error mw:File"></span>10,000 <a href="honey.html"><span class="color-template color-template-honey">Honey</span></a></li></ul>
+<li><img alt="Honey" height="25" src="img/Honey.png" width="25"/>10,000 <a href="honey.html"><span class="color-template color-template-honey">Honey</span></a></li></ul>
 </td></tr>
 <tr>
 <td>Quick Feet, Sharp Mind
@@ -5095,21 +5095,21 @@ The below content has been removed from the game. The contents may be archival, 
 <td>
 <ul><li>3x Ticket</li>
 <li>1x Royal Jelly</li>
-<li><span typeof="mw:Error mw:File"></span>20,000 <a href="honey.html"><span class="color-template color-template-honey">Honey</span></a></li></ul>
+<li><img alt="Honey" height="25" src="img/Honey.png" width="25"/>20,000 <a href="honey.html"><span class="color-template color-template-honey">Honey</span></a></li></ul>
 </td></tr>
 <tr>
 <td>Boot Lootin
 </td>
 <td>
 <ul><li>Collect 250 Ability Tokens.</li>
-<li>Collect <span typeof="mw:Error mw:File"></span>10 <a href="strawberry.html"><span class="color-template color-template-strawberry color-template-background-clip">Strawberries</span></a> Tokens.</li>
-<li>Collect <span typeof="mw:Error mw:File"></span>10 <a href="blueberry.html"><span class="color-template color-template-blueberry color-template-background-clip">Blueberries</span></a> Tokens.</li>
-<li>Collect <span typeof="mw:Error mw:File"></span>10 <a href="treat.html"><span class="color-template color-template-treat">Treats</span></a> Tokens.</li></ul>
+<li>Collect <img alt="Strawberry" height="25" src="img/Strawberry.png" width="25"/>10 <a href="strawberry.html"><span class="color-template color-template-strawberry color-template-background-clip">Strawberries</span></a> Tokens.</li>
+<li>Collect <img alt="Blueberry" height="25" src="img/Blueberry.png" width="25"/>10 <a href="blueberry.html"><span class="color-template color-template-blueberry color-template-background-clip">Blueberries</span></a> Tokens.</li>
+<li>Collect <img alt="Treat" height="25" src="img/Treat.png" width="25"/>10 <a href="treat.html"><span class="color-template color-template-treat">Treats</span></a> Tokens.</li></ul>
 </td>
 <td>
 <ul><li><a href="basic-boots.html">Basic Boots</a></li>
 <li>3x Ticket</li>
-<li><span typeof="mw:Error mw:File"></span>50,000 <a href="honey.html"><span class="color-template color-template-honey">Honey</span></a></li></ul>
+<li><img alt="Honey" height="25" src="img/Honey.png" width="25"/>50,000 <a href="honey.html"><span class="color-template color-template-honey">Honey</span></a></li></ul>
 </td></tr>
 <tr>
 <td>Sprouts For Sun Bear's Sanity
@@ -5120,7 +5120,7 @@ The below content has been removed from the game. The contents may be archival, 
 </td>
 <td>
 <ul><li>3x Ticket</li>
-<li><span typeof="mw:Error mw:File"></span>60,000 <a href="honey.html"><span class="color-template color-template-honey">Honey</span></a></li></ul>
+<li><img alt="Honey" height="25" src="img/Honey.png" width="25"/>60,000 <a href="honey.html"><span class="color-template color-template-honey">Honey</span></a></li></ul>
 </td></tr>
 <tr>
 <td>Thinking About Those Links
@@ -5133,7 +5133,7 @@ The below content has been removed from the game. The contents may be archival, 
 <td>
 <ul><li>3x Ticket</li>
 <li>1x Royal Jelly</li>
-<li><span typeof="mw:Error mw:File"></span>75,000 <a href="honey.html"><span class="color-template color-template-honey">Honey</span></a></li></ul>
+<li><img alt="Honey" height="25" src="img/Honey.png" width="25"/>75,000 <a href="honey.html"><span class="color-template color-template-honey">Honey</span></a></li></ul>
 </td></tr>
 <tr>
 <td>Light Up The Night
@@ -5145,20 +5145,20 @@ The below content has been removed from the game. The contents may be archival, 
 <td>
 <ul><li>3x Ticket</li>
 <li>25x Treat</li>
-<li><span typeof="mw:Error mw:File"></span>100,000 <a href="honey.html"><span class="color-template color-template-honey">Honey</span></a></li></ul>
+<li><img alt="Honey" height="25" src="img/Honey.png" width="25"/>100,000 <a href="honey.html"><span class="color-template color-template-honey">Honey</span></a></li></ul>
 </td></tr>
 <tr>
 <td>Show Me The Honey
 </td>
 <td>
-<ul><li>Collect <span typeof="mw:Error mw:File"></span>250 <a href="honey.html"><span class="color-template color-template-honey">Honey</span></a> Tokens.</li>
+<ul><li>Collect <img alt="Honey" height="25" src="img/Honey.png" width="25"/>250 <a href="honey.html"><span class="color-template color-template-honey">Honey</span></a> Tokens.</li>
 <li>Collect 500 Ability Tokens.</li>
 <li>Defeat 8 <a href="mantis.html">Mantises</a>.</li></ul>
 </td>
 <td>
 <ul><li>3x Ticket</li>
 <li>20x Sunflower Seed</li>
-<li><span typeof="mw:Error mw:File"></span>150,000 <a href="honey.html"><span class="color-template color-template-honey">Honey</span></a></li></ul>
+<li><img alt="Honey" height="25" src="img/Honey.png" width="25"/>150,000 <a href="honey.html"><span class="color-template color-template-honey">Honey</span></a></li></ul>
 </td></tr>
 <tr>
 <td>Battle For Boots
@@ -5170,18 +5170,18 @@ The below content has been removed from the game. The contents may be archival, 
 </td>
 <td>
 <ul><li>3x Ticket</li>
-<li><span typeof="mw:Error mw:File"></span>250,000 <a href="honey.html"><span class="color-template color-template-honey">Honey</span></a></li>
+<li><img alt="Honey" height="25" src="img/Honey.png" width="25"/>250,000 <a href="honey.html"><span class="color-template color-template-honey">Honey</span></a></li>
 <li><a href="hiking-boots.html">Hiking Boots</a></li></ul>
 </td></tr>
 <tr>
 <td>Sun Bear's Scavenger Hunt
 </td>
 <td>
-<ul><li>Collect <span typeof="mw:Error mw:File"></span>50 <a href="sunflower-seed.html"><span class="color-template color-template-sunflower-seed color-template-background-clip">Sunflower Seeds</span></a> Tokens.</li>
-<li>Collect <span typeof="mw:Error mw:File"></span>50 <a href="blueberry.html"><span class="color-template color-template-blueberry color-template-background-clip">Blueberries</span></a> Tokens.</li>
-<li>Collect <span typeof="mw:Error mw:File"></span>50 <a href="strawberry.html"><span class="color-template color-template-strawberry color-template-background-clip">Strawberries</span></a> Tokens.</li>
-<li>Collect <span typeof="mw:Error mw:File"></span>50 <a href="pineapple.html"><span class="color-template color-template-pineapple color-template-background-clip">Pineapples</span></a> Tokens.</li>
-<li>Collect <span typeof="mw:Error mw:File"></span>150 <a href="treat.html"><span class="color-template color-template-treat">Treats</span></a> Tokens.</li>
+<ul><li>Collect <img alt="Sunflower Seed" height="25" src="img/Sunflower_Seed.png" width="25"/>50 <a href="sunflower-seed.html"><span class="color-template color-template-sunflower-seed color-template-background-clip">Sunflower Seeds</span></a> Tokens.</li>
+<li>Collect <img alt="Blueberry" height="25" src="img/Blueberry.png" width="25"/>50 <a href="blueberry.html"><span class="color-template color-template-blueberry color-template-background-clip">Blueberries</span></a> Tokens.</li>
+<li>Collect <img alt="Strawberry" height="25" src="img/Strawberry.png" width="25"/>50 <a href="strawberry.html"><span class="color-template color-template-strawberry color-template-background-clip">Strawberries</span></a> Tokens.</li>
+<li>Collect <img alt="Pineapple" height="25" src="img/Pineapple.png" width="25"/>50 <a href="pineapple.html"><span class="color-template color-template-pineapple color-template-background-clip">Pineapples</span></a> Tokens.</li>
+<li>Collect <img alt="Treat" height="25" src="img/Treat.png" width="25"/>150 <a href="treat.html"><span class="color-template color-template-treat">Treats</span></a> Tokens.</li>
 <li>Collect 250 Haste Tokens.</li>
 <li>Collect 100 Sprout Tokens.</li></ul>
 </td>
@@ -5189,7 +5189,7 @@ The below content has been removed from the game. The contents may be archival, 
 <ul><li>3x Ticket</li>
 <li>1x Royal Jelly</li>
 <li>500x Treat</li>
-<li><span typeof="mw:Error mw:File"></span>500,000 <a href="honey.html"><span class="color-template color-template-honey">Honey</span></a></li></ul>
+<li><img alt="Honey" height="25" src="img/Honey.png" width="25"/>500,000 <a href="honey.html"><span class="color-template color-template-honey">Honey</span></a></li></ul>
 </td></tr>
 <tr>
 <td>Sun Bear's Abili-Tour
@@ -5199,12 +5199,12 @@ The below content has been removed from the game. The contents may be archival, 
 <li>Collect 2,000 Bomb Tokens.</li>
 <li>Collect 1,000 Token Link Tokens.</li>
 <li>Collect 1,000 Focus Tokens.</li>
-<li>Collect <span typeof="mw:Error mw:File"></span>250 <a href="honey.html"><span class="color-template color-template-honey">Honey</span></a> Gift Tokens.</li></ul>
+<li>Collect <img alt="Honey" height="25" src="img/Honey.png" width="25"/>250 <a href="honey.html"><span class="color-template color-template-honey">Honey</span></a> Gift Tokens.</li></ul>
 </td>
 <td>
 <ul><li>3x Ticket</li>
 <li>2x Royal Jelly</li>
-<li><span typeof="mw:Error mw:File"></span>1,000,000 <a href="honey.html"><span class="color-template color-template-honey">Honey</span></a></li></ul>
+<li><img alt="Honey" height="25" src="img/Honey.png" width="25"/>1,000,000 <a href="honey.html"><span class="color-template color-template-honey">Honey</span></a></li></ul>
 </td></tr>
 <tr>
 <td>Vicious Bee Begone
@@ -5215,14 +5215,14 @@ The below content has been removed from the game. The contents may be archival, 
 <td>
 <ul><li>3x Ticket</li>
 <li>3x Royal Jelly</li>
-<li><span typeof="mw:Error mw:File"></span>2,500,000 <a href="honey.html"><span class="color-template color-template-honey">Honey</span></a></li></ul>
+<li><img alt="Honey" height="25" src="img/Honey.png" width="25"/>2,500,000 <a href="honey.html"><span class="color-template color-template-honey">Honey</span></a></li></ul>
 </td></tr>
 <tr>
 <td>Sun Bear Spectacular
 </td>
 <td>
 <ul><li>Collect 25,000 Ability Tokens.</li>
-<li>Collect <span typeof="mw:Error mw:File"></span>25 <a href="moon-charm.html"><span class="color-template color-template-moon-charm color-template-background-clip">Moon Charms</span></a> Tokens.</li>
+<li>Collect <img alt="Moon Charm" height="25" src="img/Moon_Charm.png" width="25"/>25 <a href="moon-charm.html"><span class="color-template color-template-moon-charm color-template-background-clip">Moon Charms</span></a> Tokens.</li>
 <li>Collect 100 Sprout Tokens.</li>
 <li>Defeat 10 Giant Ants.</li>
 <li>Defeat 10 Spiders.</li></ul>
@@ -5230,7 +5230,7 @@ The below content has been removed from the game. The contents may be archival, 
 <td>
 <ul><li><a href="beekeeper-s-boots.html">Beekeeper's Boots</a></li>
 <li>3x Ticket</li>
-<li><span typeof="mw:Error mw:File"></span>5,000,000 <a href="honey.html"><span class="color-template color-template-honey">Honey</span></a></li></ul>
+<li><img alt="Honey" height="25" src="img/Honey.png" width="25"/>5,000,000 <a href="honey.html"><span class="color-template color-template-honey">Honey</span></a></li></ul>
 </td></tr></tbody></table>
 
 ### Bean Bugs Quests (10)
@@ -5273,7 +5273,7 @@ The below content has been removed from the game. The contents may be archival, 
 <td>
 <ul><li>Collect 50 Tokens from Bean Bugs</li>
 <li>Collect 50 Boost Token</li>
-<li>Collect <span typeof="mw:Error mw:File"></span>100 <a href="honey.html"><span class="color-template color-template-honey">Honey</span></a> Tokens</li></ul>
+<li>Collect <img alt="Honey" height="25" src="img/Honey.png" width="25"/>100 <a href="honey.html"><span class="color-template color-template-honey">Honey</span></a> Tokens</li></ul>
 </td>
 <td>25 <a href="gumdrops.html">Gumdrops</a><br/>
 <p>50,000 Honey
@@ -5460,9 +5460,9 @@ Beesmas Beeliever Badge
 <td>A Time For Giving
 </td>
 <td>
-<ul><li>Feed <span typeof="mw:Error mw:File"></span>10 <a href="strawberry.html"><span class="color-template color-template-strawberry color-template-background-clip">Strawberries</span></a> to your Bees.</li>
-<li>Feed <span typeof="mw:Error mw:File"></span>10 <a href="blueberry.html"><span class="color-template color-template-blueberry color-template-background-clip">Blueberries</span></a> to your Bees.</li>
-<li>Feed <span typeof="mw:Error mw:File"></span>10 <a href="sunflower-seed.html"><span class="color-template color-template-sunflower-seed color-template-background-clip">Sunflower Seeds</span></a> to your Bees.</li></ul>
+<ul><li>Feed <img alt="Strawberry" height="25" src="img/Strawberry.png" width="25"/>10 <a href="strawberry.html"><span class="color-template color-template-strawberry color-template-background-clip">Strawberries</span></a> to your Bees.</li>
+<li>Feed <img alt="Blueberry" height="25" src="img/Blueberry.png" width="25"/>10 <a href="blueberry.html"><span class="color-template color-template-blueberry color-template-background-clip">Blueberries</span></a> to your Bees.</li>
+<li>Feed <img alt="Sunflower Seed" height="25" src="img/Sunflower_Seed.png" width="25"/>10 <a href="sunflower-seed.html"><span class="color-template color-template-sunflower-seed color-template-background-clip">Sunflower Seeds</span></a> to your Bees.</li></ul>
 </td>
 <td>1x Ticket<br/>
 <p>1x <a href="royal-jelly.html">Royal Jelly</a><br/>
@@ -5489,7 +5489,7 @@ Beesmas Beeliever Badge
 <ul><li>Deliver 2 Presents.</li>
 <li>Collect 25,000 Pollen from the <a href="bamboo-field.html">Bamboo Field</a>.</li>
 <li>Collect 10,000 Pollen from the <a href="blue-flower-field.html">Blue Flower Field</a>.</li>
-<li>Collect <span typeof="mw:Error mw:File"></span>5 <a href="moon-charm.html"><span class="color-template color-template-moon-charm color-template-background-clip">Moon Charms</span></a> Tokens.</li></ul>
+<li>Collect <img alt="Moon Charm" height="25" src="img/Moon_Charm.png" width="25"/>5 <a href="moon-charm.html"><span class="color-template color-template-moon-charm color-template-background-clip">Moon Charms</span></a> Tokens.</li></ul>
 </td>
 <td>1x Ticket<br/>
 <p>5x Moon Charm<br/>
@@ -5502,7 +5502,7 @@ Beesmas Beeliever Badge
 <td>
 <ul><li>Collect 55,000 Pollen from the <a href="pineapple-patch.html">Pineapple Patch</a>.</li>
 <li>Collect 35,000 Pollen from the <a href="strawberry-field.html">Strawberry Field</a>.</li>
-<li>Collect <span typeof="mw:Error mw:File"></span>15 <a href="blueberry.html"><span class="color-template color-template-blueberry color-template-background-clip">Blueberries</span></a> Tokens.</li></ul>
+<li>Collect <img alt="Blueberry" height="25" src="img/Blueberry.png" width="25"/>15 <a href="blueberry.html"><span class="color-template color-template-blueberry color-template-background-clip">Blueberries</span></a> Tokens.</li></ul>
 </td>
 <td>1x Ticket<br/>
 <p>5x Strawberry<br/>
@@ -5528,7 +5528,7 @@ Beesmas Beeliever Badge
 </td>
 <td>
 <ul><li>Deliver 3 Presents.</li>
-<li>Collect <span typeof="mw:Error mw:File"></span>500 <a href="honey.html"><span class="color-template color-template-honey">Honey</span></a> Tokens.</li></ul>
+<li>Collect <img alt="Honey" height="25" src="img/Honey.png" width="25"/>500 <a href="honey.html"><span class="color-template color-template-honey">Honey</span></a> Tokens.</li></ul>
 </td>
 <td>1x Ticket<br/>
 <p>25x Treat<br/>
@@ -5596,9 +5596,9 @@ Beesmas Beeliever Badge
 <ul><li>Collect 1,000,000 Pollen from the <a href="dandelion-field.html">Dandelion Field</a>.</li>
 <li>Collect 1,000,000 Pollen from the <a href="cactus-field.html">Cactus Field</a>.</li>
 <li>Collect 500 Bomb Tokens.</li>
-<li>Feed <span typeof="mw:Error mw:File"></span>100 <a href="strawberry.html"><span class="color-template color-template-strawberry color-template-background-clip">Strawberries</span></a> to your Bees.</li>
-<li>Feed <span typeof="mw:Error mw:File"></span>100 <a href="blueberry.html"><span class="color-template color-template-blueberry color-template-background-clip">Blueberries</span></a> to your Bees.</li>
-<li>Feed <span typeof="mw:Error mw:File"></span>100 <a href="pineapple.html"><span class="color-template color-template-pineapple color-template-background-clip">Pineapples</span></a> to your Bees.</li>
+<li>Feed <img alt="Strawberry" height="25" src="img/Strawberry.png" width="25"/>100 <a href="strawberry.html"><span class="color-template color-template-strawberry color-template-background-clip">Strawberries</span></a> to your Bees.</li>
+<li>Feed <img alt="Blueberry" height="25" src="img/Blueberry.png" width="25"/>100 <a href="blueberry.html"><span class="color-template color-template-blueberry color-template-background-clip">Blueberries</span></a> to your Bees.</li>
+<li>Feed <img alt="Pineapple" height="25" src="img/Pineapple.png" width="25"/>100 <a href="pineapple.html"><span class="color-template color-template-pineapple color-template-background-clip">Pineapples</span></a> to your Bees.</li>
 <li>Defeat 5 Spiders.</li></ul>
 </td>
 <td>1x <a href="present.html">Present</a><br/>
@@ -5610,10 +5610,10 @@ Beesmas Beeliever Badge
 <td>The Night Before Beesmas
 </td>
 <td>
-<ul><li>Deliver <span typeof="mw:Error mw:File"></span>5 <a href="present.html"><span class="color-template color-template-present color-template-background-clip">Presents</span></a></li>
+<ul><li>Deliver <img alt="Present" height="25" src="img/Present.png" width="25"/>5 <a href="present.html"><span class="color-template color-template-present color-template-background-clip">Presents</span></a></li>
 <li>Collect 4,000,000 Pollen from the <a href="mountain-top-field.html">Mountain Top Field</a>.</li>
 <li>Collect 2,000,000 White Pollen.</li>
-<li>Collect <span typeof="mw:Error mw:File"></span>100 <a href="treat.html"><span class="color-template color-template-treat">Treats</span></a> Tokens.</li>
+<li>Collect <img alt="Treat" height="25" src="img/Treat.png" width="25"/>100 <a href="treat.html"><span class="color-template color-template-treat">Treats</span></a> Tokens.</li>
 <li>Defeat 3 Werewolfs.</li></ul>
 </td>
 <td>1x Ticket<br/>
@@ -5625,7 +5625,7 @@ Beesmas Beeliever Badge
 <td>A Pinch Of Magic
 </td>
 <td>
-<ul><li>Collect <span typeof="mw:Error mw:File"></span>1,000 <a href="honey.html"><span class="color-template color-template-honey">Honey</span></a> Tokens.</li>
+<ul><li>Collect <img alt="Honey" height="25" src="img/Honey.png" width="25"/>1,000 <a href="honey.html"><span class="color-template color-template-honey">Honey</span></a> Tokens.</li>
 <li>Collect 200 <a href="sparkles.html">Sparkles</a> Tokens.</li>
 <li>Use 1 <a href="glitter.html">Glitter</a>.</li></ul>
 </td>
@@ -5656,7 +5656,7 @@ Beesmas Beeliever Badge
 <ul><li>Deliver 6 Presents.</li>
 <li>Collect 25,000,000 Pollen from the <a href="rose-field.html">Rose Field</a>.</li>
 <li>Collect 2,500,000 Goo from the Pumpkin Patch.</li>
-<li>Collect <span typeof="mw:Error mw:File"></span>250 <a href="sunflower-seed.html"><span class="color-template color-template-sunflower-seed color-template-background-clip">Sunflower Seeds</span></a> Tokens.</li>
+<li>Collect <img alt="Sunflower Seed" height="25" src="img/Sunflower_Seed.png" width="25"/>250 <a href="sunflower-seed.html"><span class="color-template color-template-sunflower-seed color-template-background-clip">Sunflower Seeds</span></a> Tokens.</li>
 <li>Defeat 25 Ladybugs.</li>
 <li>Craft 25 Ingredients with the Blender</li></ul>
 </td>
@@ -5672,8 +5672,8 @@ Beesmas Beeliever Badge
 <td>
 <ul><li>Collect 40,000,000 White Pollen.</li>
 <li>Collect 20,000,000 Pollen from the Strawberry Field.</li>
-<li>Feed <span typeof="mw:Error mw:File"></span>200 <a href="pineapple.html"><span class="color-template color-template-pineapple color-template-background-clip">Pineapples</span></a> to your Bees.</li>
-<li>Feed <span typeof="mw:Error mw:File"></span>200 <a href="blueberry.html"><span class="color-template color-template-blueberry color-template-background-clip">Blueberries</span></a> to your Bees.</li>
+<li>Feed <img alt="Pineapple" height="25" src="img/Pineapple.png" width="25"/>200 <a href="pineapple.html"><span class="color-template color-template-pineapple color-template-background-clip">Pineapples</span></a> to your Bees.</li>
+<li>Feed <img alt="Blueberry" height="25" src="img/Blueberry.png" width="25"/>200 <a href="blueberry.html"><span class="color-template color-template-blueberry color-template-background-clip">Blueberries</span></a> to your Bees.</li>
 <li>Complete 10 <a href="polar-bear.html">Polar Bear</a> Quests.</li>
 <li>Complete 3 <a href="brown-bear.html">Brown Bear</a> Quests.</li></ul>
 </td>
@@ -5691,8 +5691,8 @@ Beesmas Beeliever Badge
 <ul><li>Collect 100,000,000 Pollen from the Mountain Top Field.</li>
 <li>Collect 50,000,000 Pollen from the Mushroom Field.</li>
 <li>Collect 5,000,000 Goo from White Flowers.</li>
-<li>Collect <span typeof="mw:Error mw:File"></span>500 <a href="strawberry.html"><span class="color-template color-template-strawberry color-template-background-clip">Strawberries</span></a> Tokens.</li>
-<li>Collect <span typeof="mw:Error mw:File"></span>500 <a href="sunflower-seed.html"><span class="color-template color-template-sunflower-seed color-template-background-clip">Sunflower Seeds</span></a> Tokens.</li>
+<li>Collect <img alt="Strawberry" height="25" src="img/Strawberry.png" width="25"/>500 <a href="strawberry.html"><span class="color-template color-template-strawberry color-template-background-clip">Strawberries</span></a> Tokens.</li>
+<li>Collect <img alt="Sunflower Seed" height="25" src="img/Sunflower_Seed.png" width="25"/>500 <a href="sunflower-seed.html"><span class="color-template color-template-sunflower-seed color-template-background-clip">Sunflower Seeds</span></a> Tokens.</li>
 <li>Collect 500 Sparkles Tokens.</li>
 <li>Defeat 10 Spiders.</li>
 <li>Complete 20 <a href="polar-bear.html">Polar Bear</a> Quests.</li>
@@ -5747,7 +5747,7 @@ Beesmas Beeliever Badge
 <ul><li>Collect 50,000 Blue Pollen</li>
 <li>Collect 20,00 Pollen from the <a href="blue-flower-field.html">Blue Flower Field</a></li>
 <li>Collect 25 <a href="blueberry.html">Blueberry</a> Tokens</li>
-<li>Feed <span typeof="mw:Error mw:File"></span>25 <a href="blueberry.html"><span class="color-template color-template-blueberry color-template-background-clip">Blueberries</span></a> to your <a href="bees.html">Bees</a></li>
+<li>Feed <img alt="Blueberry" height="25" src="img/Blueberry.png" width="25"/>25 <a href="blueberry.html"><span class="color-template color-template-blueberry color-template-background-clip">Blueberries</span></a> to your <a href="bees.html">Bees</a></li>
 <li>Put 3 Ornaments on the Beesmas Tree</li></ul>
 </td>
 <td>50,000 Honey<br/>
@@ -5779,7 +5779,7 @@ Beesmas Beeliever Badge
 <ul><li>Collect 300,000 Red Pollen</li>
 <li>Share 10 Jelly Bean Tokens</li>
 <li>Defeat 2 Spiders</li>
-<li>Feed <span typeof="mw:Error mw:File"></span>50 <a href="sunflower-seed.html"><span class="color-template color-template-sunflower-seed color-template-background-clip">Sunflower Seeds</span></a> to your Bees</li>
+<li>Feed <img alt="Sunflower Seed" height="25" src="img/Sunflower_Seed.png" width="25"/>50 <a href="sunflower-seed.html"><span class="color-template color-template-sunflower-seed color-template-background-clip">Sunflower Seeds</span></a> to your Bees</li>
 <li>Put 5 Ornaments on the Beesmas Tree</li></ul>
 </td>
 <td>3x Jelly Beans (Upon receiving quest)----
@@ -5815,7 +5815,7 @@ Beesmas Beeliever Badge
 <td>
 <ul><li>Collect 1,000,000 White Pollen</li>
 <li>Collect 250 Bomb Tokens</li>
-<li>Collect <span typeof="mw:Error mw:File"></span>1,000 <a href="honey.html"><span class="color-template color-template-honey">Honey</span></a> Tokens</li>
+<li>Collect <img alt="Honey" height="25" src="img/Honey.png" width="25"/>1,000 <a href="honey.html"><span class="color-template color-template-honey">Honey</span></a> Tokens</li>
 <li>Collect 25 <a href="moon-charm.html">Moon Charm</a> Tokens</li>
 <li>Use the <a href="moon-amulet-generator.html">Moon Amulet Generator</a> 1 Time</li>
 <li>Defeat 2 Werewolves</li>
@@ -5880,11 +5880,11 @@ Beesmas Beeliever Badge
 <ul><li>Collect 5,000,000 Red Pollen</li>
 <li>Collect 5,000,000 White Pollen</li>
 <li>Collect 250 Tokens from Sprouts</li>
-<li>Collect <span typeof="mw:Error mw:File"></span>50 <a href="moon-charm.html"><span class="color-template color-template-moon-charm color-template-background-clip">Moon Charms</span></a> Tokens</li>
+<li>Collect <img alt="Moon Charm" height="25" src="img/Moon_Charm.png" width="25"/>50 <a href="moon-charm.html"><span class="color-template color-template-moon-charm color-template-background-clip">Moon Charms</span></a> Tokens</li>
 <li>Collect 500 Boost Tokens</li>
 <li>Collect 50 Tokens from Wild Windy Bee</li>
 <li>Share 50 Jelly Bean Tokens</li>
-<li>Feed <span typeof="mw:Error mw:File"></span>200 <a href="sunflower-seed.html"><span class="color-template color-template-sunflower-seed color-template-background-clip">Sunflower Seeds</span></a> to your Bees</li>
+<li>Feed <img alt="Sunflower Seed" height="25" src="img/Sunflower_Seed.png" width="25"/>200 <a href="sunflower-seed.html"><span class="color-template color-template-sunflower-seed color-template-background-clip">Sunflower Seeds</span></a> to your Bees</li>
 <li>Defeat 5 Werewolves</li>
 <li>Put 7 Ornaments on the Beesmas Tree</li></ul>
 </td>
@@ -5896,7 +5896,7 @@ Beesmas Beeliever Badge
 3x Field Dice<br/>
 3x Micro-converter<br/>
 3x Jelly Beans<br/>
-<a href="cub-buddy.html">Black Bear Cub</a> OR <span typeof="mw:Error mw:File"></span>250 <a href="ticket.html"><span class="color-template color-template-ticket color-template-background-clip">Tickets</span></a> if you bought it from the <a href="robux-shop.html">pack</a>.
+<a href="cub-buddy.html">Black Bear Cub</a> OR <img alt="Ticket" height="25" src="img/Ticket.png" width="25"/>250 <a href="ticket.html"><span class="color-template color-template-ticket color-template-background-clip">Tickets</span></a> if you bought it from the <a href="robux-shop.html">pack</a>.
 </p>
 </td></tr>
 <tr>
@@ -5909,8 +5909,8 @@ Beesmas Beeliever Badge
 <ul><li>Collect 10,000,000 Blue Pollen</li>
 <li>Collect 5,000,000 Pollen from the Clover Field</li>
 <li>Collect 5,000,000 Pollen from the Pumpkin Patch</li>
-<li>Collect <span typeof="mw:Error mw:File"></span>10 <a href="royal-jelly.html"><span class="color-template color-template-royal-jelly color-template-background-clip">Royal Jellies</span></a> Tokens</li>
-<li>Feed <span typeof="mw:Error mw:File"></span>10 <a href="bitterberry.html"><span class="color-template color-template-bitterberry color-template-background-clip">Bitterberries</span></a> to your Bees</li>
+<li>Collect <img alt="Royal Jelly" height="25" src="img/Royal_Jelly.png" width="25"/>10 <a href="royal-jelly.html"><span class="color-template color-template-royal-jelly color-template-background-clip">Royal Jellies</span></a> Tokens</li>
+<li>Feed <img alt="Bitterberry" height="25" src="img/Bitterberry.png" width="25"/>10 <a href="bitterberry.html"><span class="color-template color-template-bitterberry color-template-background-clip">Bitterberries</span></a> to your Bees</li>
 <li>Defeat 8 Scorpions</li>
 <li>Collect 100 Tokens from Cub Buddy</li></ul>
 </td>
@@ -5927,8 +5927,8 @@ Beesmas Beeliever Badge
 <ul><li>Collect 25,000,000 Red Pollen</li>
 <li>Collect 10,000,000 Pollen from the Mountain Top Field</li>
 <li>Collect 10,000,000 Pollen from the Pineapple Patch</li>
-<li>Collect <span typeof="mw:Error mw:File"></span>100 <a href="treat.html"><span class="color-template color-template-treat">Treats</span></a> Tokens</li>
-<li>Feed <span typeof="mw:Error mw:File"></span>100 <a href="pineapple.html"><span class="color-template color-template-pineapple color-template-background-clip">Pineapples</span></a> to your Bees</li>
+<li>Collect <img alt="Treat" height="25" src="img/Treat.png" width="25"/>100 <a href="treat.html"><span class="color-template color-template-treat">Treats</span></a> Tokens</li>
+<li>Feed <img alt="Pineapple" height="25" src="img/Pineapple.png" width="25"/>100 <a href="pineapple.html"><span class="color-template color-template-pineapple color-template-background-clip">Pineapples</span></a> to your Bees</li>
 <li>Defeat 10 Rhino Beetles</li>
 <li>Defeat 4 Vicious Bees</li>
 <li>Craft 25 Ingredients with the Blender</li></ul>
@@ -5967,15 +5967,15 @@ Beesmas Beeliever Badge
 </td>
 <td>
 <ul><li>Collect 200,000,000 Pollen</li>
-<li>Collect <span typeof="mw:Error mw:File"></span>250 <a href="strawberry.html"><span class="color-template color-template-strawberry color-template-background-clip">Strawberries</span></a> Tokens</li>
-<li>Collect <span typeof="mw:Error mw:File"></span>250 <a href="blueberry.html"><span class="color-template color-template-blueberry color-template-background-clip">Blueberries</span></a> Tokens</li>
-<li>Collect <span typeof="mw:Error mw:File"></span>250 <a href="sunflower-seed.html"><span class="color-template color-template-sunflower-seed color-template-background-clip">Sunflower Seeds</span></a> Tokens</li>
-<li>Feed <span typeof="mw:Error mw:File"></span>1 <a href="neonberry.html"><span class="color-template color-template-neonberry color-template-background-clip">Neonberry</span></a> to your Bees</li>
-<li>Feed <span typeof="mw:Error mw:File"></span>1,000 <a href="treat.html"><span class="color-template color-template-treat">Treats</span></a> to your Bees</li>
-<li>Feed <span typeof="mw:Error mw:File"></span>250 <a href="strawberry.html"><span class="color-template color-template-strawberry color-template-background-clip">Strawberries</span></a> to your Bees</li>
-<li>Feed <span typeof="mw:Error mw:File"></span>250 <a href="blueberry.html"><span class="color-template color-template-blueberry color-template-background-clip">Blueberries</span></a> to your Bees</li>
-<li>Feed <span typeof="mw:Error mw:File"></span>250 <a href="sunflower-seed.html"><span class="color-template color-template-sunflower-seed color-template-background-clip">Sunflower Seeds</span></a> to your Bees</li>
-<li>Feed <span typeof="mw:Error mw:File"></span>5 <a href="moon-charm.html"><span class="color-template color-template-moon-charm color-template-background-clip">Moon Charms</span></a> to your Bees</li>
+<li>Collect <img alt="Strawberry" height="25" src="img/Strawberry.png" width="25"/>250 <a href="strawberry.html"><span class="color-template color-template-strawberry color-template-background-clip">Strawberries</span></a> Tokens</li>
+<li>Collect <img alt="Blueberry" height="25" src="img/Blueberry.png" width="25"/>250 <a href="blueberry.html"><span class="color-template color-template-blueberry color-template-background-clip">Blueberries</span></a> Tokens</li>
+<li>Collect <img alt="Sunflower Seed" height="25" src="img/Sunflower_Seed.png" width="25"/>250 <a href="sunflower-seed.html"><span class="color-template color-template-sunflower-seed color-template-background-clip">Sunflower Seeds</span></a> Tokens</li>
+<li>Feed <img alt="Neonberry" height="25" src="img/Neonberry.png" width="25"/>1 <a href="neonberry.html"><span class="color-template color-template-neonberry color-template-background-clip">Neonberry</span></a> to your Bees</li>
+<li>Feed <img alt="Treat" height="25" src="img/Treat.png" width="25"/>1,000 <a href="treat.html"><span class="color-template color-template-treat">Treats</span></a> to your Bees</li>
+<li>Feed <img alt="Strawberry" height="25" src="img/Strawberry.png" width="25"/>250 <a href="strawberry.html"><span class="color-template color-template-strawberry color-template-background-clip">Strawberries</span></a> to your Bees</li>
+<li>Feed <img alt="Blueberry" height="25" src="img/Blueberry.png" width="25"/>250 <a href="blueberry.html"><span class="color-template color-template-blueberry color-template-background-clip">Blueberries</span></a> to your Bees</li>
+<li>Feed <img alt="Sunflower Seed" height="25" src="img/Sunflower_Seed.png" width="25"/>250 <a href="sunflower-seed.html"><span class="color-template color-template-sunflower-seed color-template-background-clip">Sunflower Seeds</span></a> to your Bees</li>
+<li>Feed <img alt="Moon Charm" height="25" src="img/Moon_Charm.png" width="25"/>5 <a href="moon-charm.html"><span class="color-template color-template-moon-charm color-template-background-clip">Moon Charms</span></a> to your Bees</li>
 <li>Complete 10 Polar Bear Quests</li>
 <li>Share 100 Jelly Bean Tokens</li>
 <li>Craft 30 Ingredients with the Blender</li>
@@ -5999,7 +5999,7 @@ Beesmas Beeliever Badge
 <li>Collect 150,000,000 Pollen from the Pepper Patch</li>
 <li>Collect 150,000,000 Pollen from the Dandelion Field</li>
 <li>Collect 10,000,000 Goo from White Flowers</li>
-<li>Collect <span typeof="mw:Error mw:File"></span>5,000 <a href="honey.html"><span class="color-template color-template-honey">Honey</span></a> Tokens</li>
+<li>Collect <img alt="Honey" height="25" src="img/Honey.png" width="25"/>5,000 <a href="honey.html"><span class="color-template color-template-honey">Honey</span></a> Tokens</li>
 <li>Collect 50 Tokens from Fireflies</li>
 <li>Use the Moon Amulet Generator 3 times</li>
 <li>Defeat 5 Spiders</li>
@@ -6077,7 +6077,7 @@ The following content has been removed from the game. The contents below may be 
 <td>Colorful Conquest
 </td>
 <td>
-<ul><li>Collect <span typeof="mw:Error mw:File"></span>10 <a href="honey.html"><span class="color-template color-template-honey">Honey</span></a> Tokens.</li>
+<ul><li>Collect <img alt="Honey" height="25" src="img/Honey.png" width="25"/>10 <a href="honey.html"><span class="color-template color-template-honey">Honey</span></a> Tokens.</li>
 <li>Collect 2,000 <a href="goo.html">Goo</a> from White flowers.</li>
 <li>Collect 2,000 <a href="goo.html">Goo</a> from Red flowers.</li>
 <li>Collect 2,000 <a href="goo.html">Goo</a> from Blue flowers.</li></ul>
@@ -6104,7 +6104,7 @@ The following content has been removed from the game. The contents below may be 
 <td>Four Front Assault
 </td>
 <td>
-<ul><li>Collect <span typeof="mw:Error mw:File"></span>20 <a href="honey.html"><span class="color-template color-template-honey">Honey</span></a> Tokens.</li>
+<ul><li>Collect <img alt="Honey" height="25" src="img/Honey.png" width="25"/>20 <a href="honey.html"><span class="color-template color-template-honey">Honey</span></a> Tokens.</li>
 <li>Collect 30,000 <a href="goo.html">Goo</a>.</li>
 <li>Collect 5,000 <a href="goo.html">Goo</a> from the <a href="mushroom-field.html">Mushroom Field</a>.</li>
 <li>Collect 5,000 <a href="goo.html">Goo</a> from the <a href="blue-flower-field.html">Blue Flower Field</a>.</li>
@@ -6131,7 +6131,7 @@ The following content has been removed from the game. The contents below may be 
 <td>Artillery Lessons: Slingshot
 </td>
 <td>
-<ul><li>Collect <span typeof="mw:Error mw:File"></span>30 <a href="honey.html"><span class="color-template color-template-honey">Honey</span></a> Tokens.</li>
+<ul><li>Collect <img alt="Honey" height="25" src="img/Honey.png" width="25"/>30 <a href="honey.html"><span class="color-template color-template-honey">Honey</span></a> Tokens.</li>
 <li>Use the <a href="slingshot.html">Slingshot</a> 10 Times.</li>
 <li>Collect 80,000 <a href="goo.html">Goo</a> from the <a href="pineapple-patch.html">Pineapple Patch</a>.</li></ul>
 </td>
@@ -6173,7 +6173,7 @@ The following content has been removed from the game. The contents below may be 
 <td>Artillery Lessons: Yellow Cannon
 </td>
 <td>
-<ul><li>Collect <span typeof="mw:Error mw:File"></span>40 <a href="honey.html"><span class="color-template color-template-honey">Honey</span></a> Tokens.</li>
+<ul><li>Collect <img alt="Honey" height="25" src="img/Honey.png" width="25"/>40 <a href="honey.html"><span class="color-template color-template-honey">Honey</span></a> Tokens.</li>
 <li>Use the <a href="yellow-cannon.html">Yellow Cannon</a> 30 Times.</li>
 <li>Collect 200,000 <a href="goo.html">Goo</a> from White flowers.</li></ul>
 </td>
@@ -6199,7 +6199,7 @@ The following content has been removed from the game. The contents below may be 
 <td>Artillery Lessons: Blue Cannon
 </td>
 <td>
-<ul><li>Collect <span typeof="mw:Error mw:File"></span>100 <a href="honey.html"><span class="color-template color-template-honey">Honey</span></a> Tokens.</li>
+<ul><li>Collect <img alt="Honey" height="25" src="img/Honey.png" width="25"/>100 <a href="honey.html"><span class="color-template color-template-honey">Honey</span></a> Tokens.</li>
 <li>Use the <a href="blue-cannon.html">Blue Cannon</a> 40 Times.</li>
 <li>Collect 300,000 <a href="goo.html">Goo</a> from Blue flowers.</li>
 <li>Collect 300,000 <a href="goo.html">Goo</a> from the <a href="rose-field.html">Rose Field</a>.</li>
@@ -6230,7 +6230,7 @@ The following content has been removed from the game. The contents below may be 
 <td>Candy Conquest
 </td>
 <td>
-<ul><li>Collect <span typeof="mw:Error mw:File"></span>250 <a href="honey.html"><span class="color-template color-template-honey">Honey</span></a> Tokens.</li>
+<ul><li>Collect <img alt="Honey" height="25" src="img/Honey.png" width="25"/>250 <a href="honey.html"><span class="color-template color-template-honey">Honey</span></a> Tokens.</li>
 <li>Collect 750,000 <a href="goo.html">Goo</a>.</li>
 <li>Collect 75,000 <a href="goo.html">Goo</a> from the <a href="sunflower-field.html">Sunflower Field</a>.</li>
 <li>Collect 75,000 <a href="goo.html">Goo</a> from the <a href="dandelion-field.html">Dandelion Field</a>.</li>
@@ -6266,7 +6266,7 @@ The following content has been removed from the game. The contents below may be 
 <li>Collect 7,500,000,000 Goo from the <a href="clover-field.html">Clover Field</a>.</li>
 <li>Collect 7,500,000,000 Goo from the <a href="coconut-field.html">Coconut Field</a>.</li>
 <li>Use 750 <a href="gumdrops.html">Gumdrops</a>.</li>
-<li>Collect <span typeof="mw:Error mw:File"></span>75 <a href="gumdrops.html"><span class="color-template color-template-gumdrops color-template-background-clip">Gumdrops</span></a> Tokens.</li>
+<li>Collect <img alt="Gumdrops" height="25" src="img/Gumdrops.png" width="25"/>75 <a href="gumdrops.html"><span class="color-template color-template-gumdrops color-template-background-clip">Gumdrops</span></a> Tokens.</li>
 <li>Collect 750 Tokens from <a href="gummy-bee.html">Gummy Bee</a>.</li>
 <li>Defeat 75 <a href="ladybug.html">Ladybugs</a>.</li>
 <li>Defeat 75 <a href="rhino-beetle.html">Rhino Beetles</a>.</li>

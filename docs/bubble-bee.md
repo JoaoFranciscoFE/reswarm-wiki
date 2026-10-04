@@ -402,10 +402,6 @@ Bubble Bee likes the [Blue Flower Field](blue-flower-field.md) and the [Pine Tre
 </td></tr>
 </tbody></table>
 
-## Gallery
-
-<div class="wikia-gallery wikia-gallery-caption-below wikia-gallery-position-left wikia-gallery-spacing-medium wikia-gallery-border-small wikia-gallery-captions-left wikia-gallery-caption-size-medium" data-seq-no="0" hash="833f3643814e73767c1ee8eefeacbe58" id="gallery-0"><div class="wikia-gallery-caption"></div><div class="wikia-gallery-item" style="width:187px; "><div class="thumb" style="height:187px;"><div class="gallery-image-wrapper accent" id="BubbleBee_Hive-png" style="position: relative; height:185px; width:185px;"><span style="line-height: 1;">BubbleBee Hive.png</span></div></div><div class="lightbox-caption" style="width:185px;">Bubble Bee's old hive slot design.</div></div><div class="wikia-gallery-item" style="width:187px; "><div class="thumb" style="height:187px;"><div class="gallery-image-wrapper accent" id="GiftedBubbleBeehive-PNG" style="position: relative; height:185px; width:185px;"><span style="line-height: 1;">GiftedBubbleBeehive.PNG</span></div></div><div class="lightbox-caption" style="width:185px;">A Gifted Bubble Bee hive slot.</div></div><div class="wikia-gallery-item" style="width:187px; "><div class="thumb" style="height:187px;"><div class="gallery-image-wrapper accent" id="Png_-7--png" style="position: relative; height:185px; width:185px;"><span style="line-height: 1;">Png (7).png</span></div></div><div class="lightbox-caption" style="width:185px;">Bubble Bee's face.</div></div><div class="wikia-gallery-item" style="width:187px; "><div class="thumb" style="height:187px;"><div class="gallery-image-wrapper accent" id="Pufferfishbee-png" style="position: relative; height:185px; width:185px;"><span style="line-height: 1;">Pufferfishbee.png</span></div></div><div class="lightbox-caption" style="width:185px;">Bubble Bee's original face.</div></div></div>
-
 ## Trivia
 
 * Bubble Bee is the blue counterpart of [Fire Bee](fire-bee.md).

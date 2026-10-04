@@ -31,10 +31,10 @@ There is a one-in-seven (approximately 14%) chance that he will drop a [King Bee
 <tbody><tr>
 <td>150 <a href="battle-points.html">Battle Points</a><br/>
 <p>500 <a href="bond.html">Bond</a><br/>
-<span typeof="mw:Error mw:File"></span>1,000,000 <a href="honey.html"><span class="color-template color-template-honey">Honey</span></a> (multiplied by <a href="system-page.html#Honey_From_Tokens">Honey From Tokens</a> if no <a href="amulet.html">Amulet</a> is rewarded)<br/>
-<span typeof="mw:Error mw:File"></span>100 <a href="treat.html"><span class="color-template color-template-treat">Treats</span></a><br/>
+<img alt="Honey" height="25" src="img/Honey.png" width="25"/>1,000,000 <a href="honey.html"><span class="color-template color-template-honey">Honey</span></a> (multiplied by <a href="system-page.html#Honey_From_Tokens">Honey From Tokens</a> if no <a href="amulet.html">Amulet</a> is rewarded)<br/>
+<img alt="Treat" height="25" src="img/Treat.png" width="25"/>100 <a href="treat.html"><span class="color-template color-template-treat">Treats</span></a><br/>
 <span typeof="mw:Error mw:File"></span>1-5 <a href="royal-jelly.html"><span class="color-template color-template-royal-jelly color-template-background-clip">Royal Jellies</span></a><br/>
-<span typeof="mw:Error mw:File"></span>5 <a href="ticket.html"><span class="color-template color-template-ticket color-template-background-clip">Tickets</span></a>
+<img alt="Ticket" height="25" src="img/Ticket.png" width="25"/>5 <a href="ticket.html"><span class="color-template color-template-ticket color-template-background-clip">Tickets</span></a>
 </p>
 </td></tr></tbody></table>
 
@@ -44,11 +44,11 @@ There is a one-in-seven (approximately 14%) chance that he will drop a [King Bee
 <tbody><tr>
 <td>150 <a href="battle-points.html">Battle Points</a><br/>
 <p>500 <a href="bond.html">Bond</a><br/>
-<span typeof="mw:Error mw:File"></span>1,000,000 <a href="honey.html"><span class="color-template color-template-honey">Honey</span></a> (multiplied by Honey From Tokens/2, if no Amulet)<br/>
-<span typeof="mw:Error mw:File"></span>5 <a href="gumdrops.html"><span class="color-template color-template-gumdrops color-template-background-clip">Gumdrops</span></a><br/>
-<span typeof="mw:Error mw:File"></span>3 <a href="royal-jelly.html"><span class="color-template color-template-royal-jelly color-template-background-clip">Royal Jellies</span></a><br/>
-<span typeof="mw:Error mw:File"></span>5 <a href="ticket.html"><span class="color-template color-template-ticket color-template-background-clip">Tickets</span></a><br/>
-<span typeof="mw:Error mw:File"></span><a href="moon-charm.html"><span class="color-template color-template-moon-charm color-template-background-clip">Moon Charms</span></a> (Increments of 5, 10, 15, 20, 25, 50, or 100)
+<img alt="Honey" height="25" src="img/Honey.png" width="25"/>1,000,000 <a href="honey.html"><span class="color-template color-template-honey">Honey</span></a> (multiplied by Honey From Tokens/2, if no Amulet)<br/>
+<img alt="Gumdrops" height="25" src="img/Gumdrops.png" width="25"/>5 <a href="gumdrops.html"><span class="color-template color-template-gumdrops color-template-background-clip">Gumdrops</span></a><br/>
+<img alt="Royal Jelly" height="25" src="img/Royal_Jelly.png" width="25"/>3 <a href="royal-jelly.html"><span class="color-template color-template-royal-jelly color-template-background-clip">Royal Jellies</span></a><br/>
+<img alt="Ticket" height="25" src="img/Ticket.png" width="25"/>5 <a href="ticket.html"><span class="color-template color-template-ticket color-template-background-clip">Tickets</span></a><br/>
+<img alt="Moon Charm" height="35" src="img/Moon_Charm.png" width="35"/><a href="moon-charm.html"><span class="color-template color-template-moon-charm color-template-background-clip">Moon Charms</span></a> (Increments of 5, 10, 15, 20, 25, 50, or 100)
 </p>
 </td></tr></tbody></table>
 
@@ -59,34 +59,34 @@ There is a one-in-seven (approximately 14%) chance that he will drop a [King Bee
 <td><a href="king-beetle-amulet.html">King Beetle Amulet</a> (1/7 chance)<br/>
 <p><span typeof="mw:Error mw:File"></span>5-25 <a href="ticket.html"><span class="color-template color-template-ticket color-template-background-clip">Tickets</span></a><br/>
 <span typeof="mw:Error mw:File"></span>1-25 <a href="royal-jelly.html"><span class="color-template color-template-royal-jelly color-template-background-clip">Royal Jelly</span></a><br/>
-<span typeof="mw:Error mw:File"></span><a href="ant-pass.html"><span class="color-template color-template-ant-pass color-template-background-clip">Ant Pass</span></a><br/>
-<span typeof="mw:Error mw:File"></span><a href="robo-pass.html"><span class="color-template color-template-robo-pass color-template-background-clip">Robo Pass</span></a><br/>
+<img alt="Ant Pass" height="35" src="img/Ant_Pass.png" width="35"/><a href="ant-pass.html"><span class="color-template color-template-ant-pass color-template-background-clip">Ant Pass</span></a><br/>
+<img alt="Robo Pass" height="35" src="img/Robo_Pass.png" width="35"/><a href="robo-pass.html"><span class="color-template color-template-robo-pass color-template-background-clip">Robo Pass</span></a><br/>
 <span typeof="mw:Error mw:File"></span>5-250 <a href="gumdrops.html"><span class="color-template color-template-gumdrops color-template-background-clip">Gumdrops</span></a><br/>
 <span typeof="mw:Error mw:File"></span>5-250 <a href="treat.html"><span class="color-template color-template-treat">Treats</span></a><br/>
-<span typeof="mw:Error mw:File"></span><a href="sunflower-seed.html"><span class="color-template color-template-sunflower-seed color-template-background-clip">Sunflower Seeds</span></a> (Increments of 25 or 100)<br/>
-<span typeof="mw:Error mw:File"></span><a href="strawberry.html"><span class="color-template color-template-strawberry color-template-background-clip">Strawberries</span></a> (Increments of 25 or 100)<br/>
-<span typeof="mw:Error mw:File"></span><a href="blueberry.html"><span class="color-template color-template-blueberry color-template-background-clip">Blueberries</span></a> (Increments of 25 or 100)<br/>
-<span typeof="mw:Error mw:File"></span><a href="pineapple.html"><span class="color-template color-template-pineapple color-template-background-clip">Pineapples</span></a> (Increments of 25 or 100)<br/>
-<span typeof="mw:Error mw:File"></span><a href="neonberry.html"><span class="color-template color-template-neonberry color-template-background-clip">Neonberries</span></a> (Increments of 1, 5, or 10)<br/>
-<span typeof="mw:Error mw:File"></span><a href="red-extract.html"><span class="color-template color-template-red-extract color-template-background-clip">Red Extracts</span></a> (Increments of 1, 3, 5 or 10)<br/>
-<span typeof="mw:Error mw:File"></span><a href="blue-extract.html"><span class="color-template color-template-blue-extract color-template-background-clip">Blue Extracts</span></a> (Increments of 1, 3, 5 or 10)<br/>
-<span typeof="mw:Error mw:File"></span><a href="glue.html"><span class="color-template color-template-glue color-template-background-clip">Glues</span></a> (Common)<br/>
+<img alt="Sunflower Seed" height="35" src="img/Sunflower_Seed.png" width="35"/><a href="sunflower-seed.html"><span class="color-template color-template-sunflower-seed color-template-background-clip">Sunflower Seeds</span></a> (Increments of 25 or 100)<br/>
+<img alt="Strawberry" height="35" src="img/Strawberry.png" width="35"/><a href="strawberry.html"><span class="color-template color-template-strawberry color-template-background-clip">Strawberries</span></a> (Increments of 25 or 100)<br/>
+<img alt="Blueberry" height="35" src="img/Blueberry.png" width="35"/><a href="blueberry.html"><span class="color-template color-template-blueberry color-template-background-clip">Blueberries</span></a> (Increments of 25 or 100)<br/>
+<img alt="Pineapple" height="35" src="img/Pineapple.png" width="35"/><a href="pineapple.html"><span class="color-template color-template-pineapple color-template-background-clip">Pineapples</span></a> (Increments of 25 or 100)<br/>
+<img alt="Neonberry" height="35" src="img/Neonberry.png" width="35"/><a href="neonberry.html"><span class="color-template color-template-neonberry color-template-background-clip">Neonberries</span></a> (Increments of 1, 5, or 10)<br/>
+<img alt="Red Extract" height="35" src="img/Red_Extract.png" width="35"/><a href="red-extract.html"><span class="color-template color-template-red-extract color-template-background-clip">Red Extracts</span></a> (Increments of 1, 3, 5 or 10)<br/>
+<img alt="Blue Extract" height="35" src="img/Blue_Extract.png" width="35"/><a href="blue-extract.html"><span class="color-template color-template-blue-extract color-template-background-clip">Blue Extracts</span></a> (Increments of 1, 3, 5 or 10)<br/>
+<img alt="Glue" height="35" src="img/Glue.png" width="35"/><a href="glue.html"><span class="color-template color-template-glue color-template-background-clip">Glues</span></a> (Common)<br/>
 <span typeof="mw:Error mw:File"></span>1-10 <a href="magic-bean.html"><span class="color-template color-template-magic-bean color-template-background-clip">Magic Bean</span></a> (Common)<br/>
-<span typeof="mw:Error mw:File"></span><a href="oil.html"><span class="color-template color-template-oil color-template-background-clip">Oils</span></a> (Common)<br/>
-<span typeof="mw:Error mw:File"></span><a href="glitter.html"><span class="color-template color-template-glitter color-template-background-clip">Glitter</span></a> (Common)<br/>
-<span typeof="mw:Error mw:File"></span><a href="enzymes.html"><span class="color-template color-template-enzymes color-template-background-clip">Enzymes</span></a> (Common, increments of 1 or 5)<br/>
-<span typeof="mw:Error mw:File"></span><a href="smooth-dice.html"><span class="color-template color-template-smooth-dice color-template-background-clip">Smooth Dice</span></a> (Rare)<br/>
-<span typeof="mw:Error mw:File"></span><a href="royal-jelly.html#Star_Jelly"><span class="color-template color-template-star-jelly color-template-background-clip">Star Jelly</span></a> (Rare)<br/>
-<span typeof="mw:Error mw:File"></span><a href="purple-potion.html"><span class="color-template color-template-purple-potion color-template-background-clip">Purple Potions</span></a> (Rare, Increments of 1 or 3)<br/>
-<span typeof="mw:Error mw:File"></span><a href="night-bell.html"><span class="color-template color-template-night-bell color-template-background-clip">Night Bell</span></a> (Extremely Rare)<br/>
-<span typeof="mw:Error mw:File"></span><a href="egg.html#Silver_Egg"><span class="color-template color-template-silver-egg color-template-background-clip">Silver Egg</span></a> (Rare)<br/>
-<span typeof="mw:Error mw:File"></span><a href="egg.html#Gold_Egg"><span class="color-template color-template-gold-egg color-template-background-clip">Gold Egg</span></a> (Very Rare)<br/>
-<span typeof="mw:Error mw:File"></span><a href="sticker.html#Sticker_Index"><span class="color-template color-template-basic-blue-hive-skin color-template-background-clip">Basic Blue Hive Skin</span></a> (Very Rare)<br/>
-<span typeof="mw:Error mw:File"></span><a href="sticker.html#Sticker_Index"><span class="color-template color-template-basic-red-hive-skin color-template-background-clip">Basic Red Hive Skin</span></a> (Very Rare)<br/>
-<span typeof="mw:Error mw:File"></span><a href="egg.html#Diamond_Egg"><span class="color-template color-template-diamond-egg color-template-background-clip">Diamond Egg</span></a> (Extremely Rare)<br/>
-<span typeof="mw:Error mw:File"></span><a href="egg.html#Star_Egg"><span class="color-template color-template-star-egg color-template-background-clip">Star Egg</span></a> (Unfathomably Rare)<br/>
-<span typeof="mw:Error mw:File"></span><a href="peppermint-antennas.html"><span class="color-template color-template-peppermint-antennas color-template-background-clip">Peppermint Antennas</span></a> (Beesmas only)<br/>
-<span typeof="mw:Error mw:File"></span><a href="gingerbread-bear.html"><span class="color-template color-template-gingerbread-bear color-template-background-clip">Gingerbread Bear</span></a> (Beesmas only)
+<img alt="Oil" height="35" src="img/Oil.png" width="35"/><a href="oil.html"><span class="color-template color-template-oil color-template-background-clip">Oils</span></a> (Common)<br/>
+<img alt="Glitter" height="35" src="img/Glitter.png" width="35"/><a href="glitter.html"><span class="color-template color-template-glitter color-template-background-clip">Glitter</span></a> (Common)<br/>
+<img alt="Enzymes" height="35" src="img/Enzymes.png" width="35"/><a href="enzymes.html"><span class="color-template color-template-enzymes color-template-background-clip">Enzymes</span></a> (Common, increments of 1 or 5)<br/>
+<img alt="Smooth Dice" height="35" src="img/Smooth_Dice.png" width="35"/><a href="smooth-dice.html"><span class="color-template color-template-smooth-dice color-template-background-clip">Smooth Dice</span></a> (Rare)<br/>
+<img alt="Star Jelly" height="35" src="img/Star_Jelly.png" width="35"/><a href="royal-jelly.html#Star_Jelly"><span class="color-template color-template-star-jelly color-template-background-clip">Star Jelly</span></a> (Rare)<br/>
+<img alt="Purple Potion" height="35" src="img/Purple_Potion.png" width="35"/><a href="purple-potion.html"><span class="color-template color-template-purple-potion color-template-background-clip">Purple Potions</span></a> (Rare, Increments of 1 or 3)<br/>
+<img alt="Night Bell" height="35" src="img/Night_Bell.png" width="35"/><a href="night-bell.html"><span class="color-template color-template-night-bell color-template-background-clip">Night Bell</span></a> (Extremely Rare)<br/>
+<img alt="Silver Egg" height="35" src="img/Silver_Egg.png" width="35"/><a href="egg.html#Silver_Egg"><span class="color-template color-template-silver-egg color-template-background-clip">Silver Egg</span></a> (Rare)<br/>
+<img alt="Gold Egg" height="35" src="img/Gold_Egg.png" width="35"/><a href="egg.html#Gold_Egg"><span class="color-template color-template-gold-egg color-template-background-clip">Gold Egg</span></a> (Very Rare)<br/>
+<img alt="Basic Blue Hive Skin" height="35" src="img/Basic_Blue_Hive_Skin.png" width="35"/><a href="sticker.html#Sticker_Index"><span class="color-template color-template-basic-blue-hive-skin color-template-background-clip">Basic Blue Hive Skin</span></a> (Very Rare)<br/>
+<img alt="Basic Red Hive Skin" height="35" src="img/Basic_Red_Hive_Skin.png" width="35"/><a href="sticker.html#Sticker_Index"><span class="color-template color-template-basic-red-hive-skin color-template-background-clip">Basic Red Hive Skin</span></a> (Very Rare)<br/>
+<img alt="Diamond Egg" height="35" src="img/Diamond_Egg.png" width="35"/><a href="egg.html#Diamond_Egg"><span class="color-template color-template-diamond-egg color-template-background-clip">Diamond Egg</span></a> (Extremely Rare)<br/>
+<img alt="Star Egg" height="35" src="img/Star_Egg.png" width="35"/><a href="egg.html#Star_Egg"><span class="color-template color-template-star-egg color-template-background-clip">Star Egg</span></a> (Unfathomably Rare)<br/>
+<img alt="Peppermint Antennas" height="35" src="img/Peppermint_Antennas.png" width="35"/><a href="peppermint-antennas.html"><span class="color-template color-template-peppermint-antennas color-template-background-clip">Peppermint Antennas</span></a> (Beesmas only)<br/>
+<img alt="Gingerbread Bear" height="35" src="img/Gingerbread_Bear.png" width="35"/><a href="gingerbread-bear.html"><span class="color-template color-template-gingerbread-bear color-template-background-clip">Gingerbread Bear</span></a> (Beesmas only)
 </p>
 </td></tr></tbody></table>
 
@@ -134,10 +134,6 @@ Some things can help the player defeat King Beetle, regardless of which strategy
 * An active King Beetle's health bar can be seen through the Clover Field and the Blue Flower Field.
 * King Beetle is the only boss that doesn't have a time limit to kill it.
   * King beetle is also the only boss to drop its loot in a circle.
-
-## Gallery
-
-<div class="wikia-gallery wikia-gallery-caption-below wikia-gallery-position-left wikia-gallery-spacing-medium wikia-gallery-border-small wikia-gallery-captions-left wikia-gallery-caption-size-medium" data-seq-no="0" hash="37907860197642e7ac130cf606103d6e" id="gallery-0"><div class="wikia-gallery-caption"></div><div class="wikia-gallery-item" style="width:187px; "><div class="thumb" style="height:187px;"><div class="gallery-image-wrapper accent" id="RobloxPlayerBeta_2018-07-25_15-40-57-png" style="position: relative; height:185px; width:185px;"><span style="line-height: 1;">RobloxPlayerBeta 2018-07-25 15-40-57.png</span></div></div><div class="lightbox-caption" style="width:185px;">The King Beetle Amulet GUI.</div></div><div class="wikia-gallery-item" style="width:187px; "><div class="thumb" style="height:187px;"><div class="gallery-image-wrapper accent" id="KingBeetleDefeat-png" style="position: relative; height:185px; width:185px;"><span style="line-height: 1;">KingBeetleDefeat.png</span></div></div><div class="lightbox-caption" style="width:185px;">Defeating a King Beetle for the first time.</div></div><div class="wikia-gallery-item" style="width:187px; "><div class="thumb" style="height:187px;"><div class="gallery-image-wrapper accent" id="3EggsFromKingBeetle-jpeg" style="position: relative; height:185px; width:185px;"><span style="line-height: 1;">3EggsFromKingBeetle.jpeg</span></div></div><div class="lightbox-caption" style="width:185px;">A player getting 3 eggs from the King Beetle.</div></div></div>
 
 ## References
 

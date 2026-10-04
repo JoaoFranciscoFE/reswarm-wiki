@@ -165,10 +165,6 @@ It is a 22x26 field, containing 572 [flowers](flowers.md). The flowers are red a
   * WeekExtension (Gives Strawberry Field Boost x3 + Strawberry Field Winds x10 + other stuff)
   * 1MLikes (Gives Strawberry Field Boost x1 + other stuff).
 
-## Gallery
-
-<div class="wikia-gallery wikia-gallery-caption-below wikia-gallery-position-left wikia-gallery-spacing-medium wikia-gallery-border-small wikia-gallery-captions-left wikia-gallery-caption-size-medium" data-seq-no="0" hash="70bdffd68fb04d5af1152f08d33c9dc4" id="gallery-0"><div class="wikia-gallery-caption"></div><div class="wikia-gallery-item" style="width:187px; "><div class="thumb" style="height:187px;"><div class="gallery-image-wrapper accent" id="Hivesticker_strawberry_field_stamp-png" style="position: relative; height:185px; width:185px;"><span style="line-height: 1;">Hivesticker strawberry field stamp.png</span></div></div><div class="lightbox-caption" style="width:185px;">The Strawberry Field's associated <a href="sticker.html">field stamp</a>.</div></div></div>
-
 ## Trivia
 
 * This is the third smallest field in the game, outranked by the [Stump Field](stump-field.md) and [Pumpkin Patch](pumpkin-patch.md).

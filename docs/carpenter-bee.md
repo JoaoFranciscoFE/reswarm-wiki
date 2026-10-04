@@ -334,10 +334,6 @@ Carpenter Bee likes the [Bamboo Field](bamboo-field.md), and [Pine Tree Forest](
 </td></tr>
 </tbody></table>
 
-## Gallery
-
-<div class="wikia-gallery wikia-gallery-caption-below wikia-gallery-position-left wikia-gallery-spacing-medium wikia-gallery-border-small wikia-gallery-captions-left wikia-gallery-caption-size-medium" data-seq-no="0" hash="366fd3bfe82622d603fdf2c1e75fc6cd" id="gallery-0"><div class="wikia-gallery-caption"></div><div class="wikia-gallery-item" style="width:187px; "><div class="thumb" style="height:187px;"><div class="gallery-image-wrapper accent" id="CarpenterBeeFace-png" style="position: relative; height:185px; width:185px;"><span style="line-height: 1;">CarpenterBeeFace.png</span></div></div><div class="lightbox-caption" style="width:185px;">Carpenter Bee's face.</div></div><div class="wikia-gallery-item" style="width:187px; "><div class="thumb" style="height:187px;"><div class="gallery-image-wrapper accent" id="CarpenterBeeJelly-png" style="position: relative; height:185px; width:185px;"><span style="line-height: 1;">CarpenterBeeJelly.png</span></div></div><div class="lightbox-caption" style="width:185px;">A Carpenter Bee Jelly in a player's inventory.</div></div><div class="wikia-gallery-item" style="width:187px; "><div class="thumb" style="height:187px;"><div class="gallery-image-wrapper accent" id="GiftedCarpenterBeeEgg-png" style="position: relative; height:185px; width:185px;"><span style="line-height: 1;">GiftedCarpenterBeeEgg.png</span></div></div><div class="lightbox-caption" style="width:185px;">A Gifted Carpenter Bee Egg in a player's inventory.</div></div></div>
-
 ## Trivia
 
 * Carpenter Bee and Music Bee are also the only Legendary bees added in an [update](updates.md).

@@ -132,10 +132,6 @@ A Cogmower's level can range from 5-22, depending on what round of Robo Bear's C
 * The  *Star Saw'* Passive from the [Supreme Star Amulet](star-amulet.md#Supreme_Star_Amulet) can be useful as it circles you for 30 seconds when activated and can damage multiple Cogmowers simultaneously.
 * Frogs, Pollen Haze, and multiple amounts of [Supreme Saturators](the-supreme-saturator.md) can provide great amounts of field regeneration, which can combat the flowers drained by the cogmowers.
 
-## Gallery
-
-<div class="wikia-gallery wikia-gallery-caption-below wikia-gallery-position-left wikia-gallery-spacing-medium wikia-gallery-border-small wikia-gallery-captions-left wikia-gallery-caption-size-medium" data-seq-no="0" hash="59cb9579be56410d65ed5d61a82b5f95" id="gallery-0"><div class="wikia-gallery-caption"></div><div class="wikia-gallery-item" style="width:187px; "><div class="thumb" style="height:187px;"><div class="gallery-image-wrapper accent" id="Newrobothumbnail-jpg" style="position: relative; height:185px; width:185px;"><span style="line-height: 1;">Newrobothumbnail.jpg</span></div></div><div class="lightbox-caption" style="width:185px;">A cogmower in the game icon, with Robo Bear, Digital Bee, Basic Bee and a Mechsquito</div></div><div class="wikia-gallery-item" style="width:187px; "><div class="thumb" style="height:187px;"><div class="gallery-image-wrapper accent" id="Screenshot_2023-02-03_161429-png" style="position: relative; height:185px; width:185px;"><span style="line-height: 1;">Screenshot 2023-02-03 161429.png</span></div></div><div class="lightbox-caption" style="width:185px;">A cogmower roaming through a field.</div></div><div class="wikia-gallery-item" style="width:187px; "><div class="thumb" style="height:187px;"><div class="gallery-image-wrapper accent" id="CogmowerCogturret1-png" style="position: relative; height:185px; width:185px;"><span style="line-height: 1;">CogmowerCogturret1.png</span></div></div><div class="lightbox-caption" style="width:185px;">A Cogmower next to a Cogturret.</div></div></div>
-
 ## Trivia
 
 * Cogmower is a portmanteau of "Cog" and "Lawnmower'.

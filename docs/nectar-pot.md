@@ -23,10 +23,6 @@ When storing nectar, the nectar in the pot's color will change into the color of
 * If you have high nectar and are about to log off, store the nectar in the pot for use next time.
 * You can make your bees harvest a planter for a few hours to have the maximum nectar, which you can then store in the pot for later usage.
 
-## Gallery
-
-<div class="wikia-gallery wikia-gallery-caption-below wikia-gallery-position-left wikia-gallery-spacing-medium wikia-gallery-border-small wikia-gallery-captions-left wikia-gallery-caption-size-medium" data-seq-no="0" hash="9d32517ceb4e4bc8512647349bc20cb5" id="gallery-0"><div class="wikia-gallery-caption"></div><div class="wikia-gallery-item" style="width:187px; "><div class="thumb" style="height:187px;"><div class="gallery-image-wrapper accent" id="Full_Nectar_Pot-png" style="position: relative; height:185px; width:185px;"><span style="line-height: 1;">Full Nectar Pot.png</span></div></div><div class="lightbox-caption" style="width:185px;">The Nectar Pot fully filled with Comforting Nectar.</div></div><div class="wikia-gallery-item" style="width:187px; "><div class="thumb" style="height:187px;"><div class="gallery-image-wrapper accent" id="Nectar_pot_partly_filled-png" style="position: relative; height:185px; width:185px;"><span style="line-height: 1;">Nectar pot partly filled.png</span></div></div><div class="lightbox-caption" style="width:185px;">The Nectar Pot partially filled with Comforting Nectar.</div></div><div class="wikia-gallery-item" style="width:187px; "><div class="thumb" style="height:187px;"><div class="gallery-image-wrapper accent" id="Nectar_jar_menu-png" style="position: relative; height:185px; width:185px;"><span style="line-height: 1;">Nectar jar menu.png</span></div></div><div class="lightbox-caption" style="width:185px;">The menu that appears when choosing which type of nectar to deposit.</div></div></div>
-
 ## Trivia
 
 * The Nectar Pot is located where the [Boost Market](boost-market.md) used to be.

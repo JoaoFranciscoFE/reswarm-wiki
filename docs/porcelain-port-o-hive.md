@@ -19,10 +19,6 @@ tags: ["Bags", "Items"]
 </div>
 </aside>
 
-> Text...
->
-> —speaker
-
 The **Porcelain Port-O-Hive** is a [bag](bags.md) that can be purchased in the [Mountain Top Shop](mountain-top-shop.md) which was added in the 2018-07-11 update. It has the second-highest capacity and second-highest price of all containers.
 
 <table class="article-table">
@@ -30,10 +26,10 @@ The **Porcelain Port-O-Hive** is a [bag](bags.md) that can be purchased in the [
 <th>Crafting Ingredients
 </th></tr>
 <tr>
-<td><span typeof="mw:Error mw:File"></span>250,000,000 <a href="honey.html"><span class="color-template color-template-honey">Honey</span></a><br/>
-<p><span typeof="mw:Error mw:File"></span>3 <a href="glitter.html"><span class="color-template color-template-glitter color-template-background-clip">Glitter</span></a><br/>
-<span typeof="mw:Error mw:File"></span>3 <a href="soft-wax.html"><span class="color-template color-template-soft-wax">Soft Waxes</span></a><br/>
-<span typeof="mw:Error mw:File"></span>10 <a href="moon-charm.html"><span class="color-template color-template-moon-charm color-template-background-clip">Moon Charms</span></a>
+<td><img alt="Honey" height="25" src="img/Honey.png" width="25"/>250,000,000 <a href="honey.html"><span class="color-template color-template-honey">Honey</span></a><br/>
+<p><img alt="Glitter" height="25" src="img/Glitter.png" width="25"/>3 <a href="glitter.html"><span class="color-template color-template-glitter color-template-background-clip">Glitter</span></a><br/>
+<img alt="Soft Wax" height="25" src="img/Soft_Wax.png" width="25"/>3 <a href="soft-wax.html"><span class="color-template color-template-soft-wax">Soft Waxes</span></a><br/>
+<img alt="Moon Charm" height="25" src="img/Moon_Charm.png" width="25"/>10 <a href="moon-charm.html"><span class="color-template color-template-moon-charm color-template-background-clip">Moon Charms</span></a>
 </p>
 </td></tr></tbody></table>
 
@@ -44,10 +40,6 @@ The **Porcelain Port-O-Hive** is a [bag](bags.md) that can be purchased in the [
 * x1.25 Convert Rate at Hive.
 * +10% [Instant Conversion](instant-conversion.md).
 * +50% [White Pollen](system-page.md#White_Pollen).
-
-## Gallery
-
-<div class="wikia-gallery wikia-gallery-caption-below wikia-gallery-position-left wikia-gallery-spacing-medium wikia-gallery-border-small wikia-gallery-captions-left wikia-gallery-caption-size-medium" data-seq-no="0" hash="322ed3671808b60e734a68176fc91174" id="gallery-0"><div class="wikia-gallery-caption"></div><div class="wikia-gallery-item" style="width:187px; "><div class="thumb" style="height:187px;"><div class="gallery-image-wrapper accent" id="Porcelain_Port-O-Hive_bug-png" style="position: relative; height:185px; width:185px;"><span style="line-height: 1;">Porcelain Port-O-Hive bug.png</span></div></div><div class="lightbox-caption" style="width:185px;">A glitched Porcelain Port-O-Hive</div></div></div>
 
 ## Trivia
 
