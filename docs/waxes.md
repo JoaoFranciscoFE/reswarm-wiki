@@ -17,6 +17,8 @@ Debug Wax|Debug
 Swirled Wax|Swirled
 </tabview>
 
+Re://:Swarm also adds **[Fluxite Wax](fluxite-wax.md)**, which rerolls a Beequip's potential without using a wax slot.
+
 ## Use in Quests
 
 * [Dapper Bear](dapper-bear.md) requires the player to collect or use waxes in the following quests:

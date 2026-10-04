@@ -68,6 +68,7 @@ nav:
       - "Looker Bee": looker-bee.md
       - "Music Bee": music-bee.md
       - "Ninja Bee": ninja-bee.md
+      - "Painter Bee": painter-bee.md
       - "Photon Bee": photon-bee.md
       - "Precise Bee": precise-bee.md
       - "Puppy Bee": puppy-bee.md
@@ -198,6 +199,7 @@ nav:
       - "Stick Bug": stick-bug.md
       - "Stick Nymph": stick-nymph.md
       - "Stump Snail": stump-snail.md
+      - "Supreme Puffshroom": supreme-puffshroom.md
       - "Tunnel Bear": tunnel-bear.md
       - "Werewolf": werewolf.md
       - "Wild Windy Bee": wild-windy-bee.md
@@ -283,6 +285,7 @@ nav:
       - "Festive Wreath": festive-wreath.md
       - "Field Dice": field-dice.md
       - "Fire Mask": fire-mask.md
+      - "Fluxite Wax": fluxite-wax.md
       - "Gingerbread Bear": gingerbread-bear.md
       - "Glider": glider.md
       - "Glitter": glitter.md
@@ -414,6 +417,12 @@ nav:
       - "Whirligig": whirligig.md
       - "Whistle": whistle.md
       - "White Balloon": white-balloon.md
+  - "Painter Bee Event":
+      - "Painter Bee Event": painter-bee-event.md
+      - "Painter Bee": painter-bee.md
+      - "Painter Stickers": painter-stickers.md
+      - "Fluxite Wax": fluxite-wax.md
+      - "Supreme Puffshroom": supreme-puffshroom.md
   - "Accessories":
       - "Amulet": amulet.md
       - "Ant Amulet": ant-amulet.md

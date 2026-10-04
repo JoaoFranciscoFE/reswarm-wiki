@@ -27,6 +27,10 @@ The community encyclopedia for **[Re://:Swarm](re-swarm.md)** – hatch bees, co
 
 ⚙️ [Mechanics](mechanics.md)
 
+## Current event
+
+🎨 The [Painter Bee event](painter-bee-event.md) is live: meet the new [Painter Bee](painter-bee.md), collect the [Painter stickers](painter-stickers.md), and hunt [Supreme Puffshrooms](supreme-puffshroom.md) for [Fluxite Wax](fluxite-wax.md).
+
 ## New to the game?
 
 Start with the [Tutorial](tutorial.md), learn how your [hive](hive.md) works, and check out which [bees](bees.md) to hatch first. Then visit the bears around the map to get your first [quests](quests.md)!
