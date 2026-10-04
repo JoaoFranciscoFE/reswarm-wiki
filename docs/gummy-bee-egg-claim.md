@@ -1,0 +1,94 @@
+---
+title: "Gummy Bee Egg Claim"
+tags: ["Pages with broken file links", "Locations", "Egg Claims"]
+---
+
+# Gummy Bee Egg Claim
+
+<figure class="thumb" style="width: 220px" typeof="mw:File/Thumb">  <figcaption class="thumbcaption"> <p class="caption">The Gummy Bee Egg Claim.</p> </figcaption> </figure>
+
+The **Gummy Bee Egg Claim** is a platform that can be found beyond the [Ant Gate](ant-gate.md). It's located on a ledge near the [Ant Challenge](ant-challenge.md) and the [hives](hive.md). It can be reached by going through the gap behind the Top Ant Exterminators Leaderboard, going on top of the Ant Gate, or by walking on top of the hives to the egg claim.
+
+The player can combine 2,500 [Gumdrops](gumdrops.md) here in order to receive a [Gummy Bee Egg](egg.md#Gummy_Bee_Egg), once.
+
+## Claiming the Egg
+
+Standing on the white platform prompts players with a message saying, "Combine 2500 [Gumdrops](gumdrops.md) into a [Gummy Bee](gummy-bee.md)" if they haven't claimed a [Gummy Bee Egg](egg.md#Gummy_Bee_Egg). If the player already owns one, the text saying, "You Already Own a Gummy Bee" is displayed.
+
+Whenever a player forms a Gummy Bee Egg, a slight remix of "[gbtune1](music.md)" (the music played around the Gummy Bee Egg Claim and in [Gummy Bear's Lair](gummy-bear-s-lair.md)) is played throughout the map and a server-wide announcement is made reading:
+🎉 {Username} has formed a Gummy Bee 🎉
+
+## Teleporting to the Lair
+
+Standing on the Gummy Bee model without the Goo Hotshot [badge](badges.md) prompts the player with "
+Only Goo Hotshots can hear Gummy Bee...
+
+Using gumdrops when this message is shown will not teleport the player to Gummy Bear's Lair. If the player has the Goo Hotshot badge, standing on the model prompts the player with: 
+The Gummy Bee wants Gumdrops
+
+Using Gumdrops while standing on the model with Goo Hotshot teleports the player to Gummy Bear's Lair. A Gummy Bee is not required to enter the lair.
+
+## Music
+
+Gummy Bee Egg Claim's theme:
+
+The sound that plays when the player combines 2500 gumdrops into a [Gummy Bee Egg](egg.md#Gummy_Bee_Egg):
+
+## Gallery
+
+<div class="wikia-gallery wikia-gallery-caption-below wikia-gallery-position-left wikia-gallery-spacing-medium wikia-gallery-border-small wikia-gallery-captions-left wikia-gallery-caption-size-medium" data-seq-no="0" hash="af68b7c2a8d6422b6ed1bb102ca6d83b" id="gallery-0"><div class="wikia-gallery-caption"></div><div class="wikia-gallery-item" style="width:187px; "><div class="thumb" style="height:187px;"><div class="gallery-image-wrapper accent" id="RobloxScreenShot20190405_172120345-png" style="position: relative; height:185px; width:185px;"><span style="line-height: 1;">RobloxScreenShot20190405 172120345.png</span></div></div><div class="lightbox-caption" style="width:185px;">A player forming a Gummy Bee.</div></div><div class="wikia-gallery-item" style="width:187px; "><div class="thumb" style="height:187px;"><div class="gallery-image-wrapper accent" id="84c7b0a3692df1ea5192934d8523a823-png" style="position: relative; height:185px; width:185px;"><span style="line-height: 1;">84c7b0a3692df1ea5192934d8523a823.png</span></div></div><div class="lightbox-caption" style="width:185px;">The prompt of forming a Gummy Bee.</div></div><div class="wikia-gallery-item" style="width:187px; "><div class="thumb" style="height:187px;"><div class="gallery-image-wrapper accent" id="9ADD253A-70B8-45F8-B591-F87235F2838F-jpeg" style="position: relative; height:185px; width:185px;"><span style="line-height: 1;">9ADD253A-70B8-45F8-B591-F87235F2838F.jpeg</span></div></div><div class="lightbox-caption" style="width:185px;">The message given on top of the egg claim without Goo Hotshot or greater.</div></div><div class="wikia-gallery-item" style="width:187px; "><div class="thumb" style="height:187px;"><div class="gallery-image-wrapper accent" id="Screenshot_2020-06-22_at_12-39-38_PM-png" style="position: relative; height:185px; width:185px;"><span style="line-height: 1;">Screenshot 2020-06-22 at 12.39.38 PM.png</span></div></div><div class="lightbox-caption" style="width:185px;">The pop-up that shows up when the player touches the Gummy Bee model and has the Goo Hotshot Badge.</div></div><div class="wikia-gallery-item" style="width:187px; "><div class="thumb" style="height:187px;"><div class="gallery-image-wrapper accent" id="Screenshot_2020-06-22_at_12-38-18_PM-png" style="position: relative; height:185px; width:185px;"><span style="line-height: 1;">Screenshot 2020-06-22 at 12.38.18 PM.png</span></div></div><div class="lightbox-caption" style="width:185px;">The pop-up that shows up when the player steps on the pad and already owns a Gummy Bee.</div></div><div class="wikia-gallery-item" style="width:187px; "><div class="thumb" style="height:187px;"><div class="gallery-image-wrapper accent" id="Static-assets-upload17608076326006468459-png" style="position: relative; height:185px; width:185px;"><span style="line-height: 1;">Static-assets-upload17608076326006468459.png</span></div></div><div class="lightbox-caption" style="width:185px;">The Gummy Bee Egg Claim glowing at night.</div></div></div>
+
+## Trivia
+
+* Over the course of the Beesmas events succeeding the first one in 2018, there were several presents placed beyond an [obstacle course](obstacle-courses.md) next to the claim with a theme similar to gumdrops.
+* This is one of two egg claims in the map, the other being the [Vicious Bee Egg Claim](vicious-bee-egg-claim.md) for [Vicious Bee](vicious-bee.md).
+* At night time, the Gummy Bee model's face glows as well as the teal outline of the pad.
+* An alternative way to reach this is by jumping on top of one of the Ant Pass Dispensers, jumping on to the rock by the Ant Gate, walking across the Ant Gate, and jumping onto the pad.
+* This is the only bee claim to have a different soundtrack than the area around it playing gbtune1.
+* While Gummy Bee was available in the [Ticket Tent](ticket-tent.md), the giant Gummy Bee used in the egg claim was located on the top of the Ticket Tent to the right of [Gifted](gifted-bee.md) [Photon Bee](photon-bee.md) where the [Festive Bee](festive-bee.md) is now. It would still teleport players to Gummy Bear's Lair if a gumdrop was used on top of it.
+* If the player were to buy all the [Gumdrops](gumdrops.md) needed to combine for Gummy Bee, it would cost 834 [Tickets](ticket.md).
+
+<table class="mw-collapsible mw-collapsed NavTable">
+<tbody><tr>
+<th class="NavTitle" colspan="2">Locations
+</th></tr>
+<tr>
+<th class="NavCategory"><a href="fields.html">Fields</a>
+</th>
+<td class="NavLinks NavLinksBasicOdd"><b><a href="sunflower-field.html">Sunflower Field</a> • <a href="dandelion-field.html">Dandelion Field</a> • <a href="mushroom-field.html">Mushroom Field</a> • <a href="blue-flower-field.html">Blue Flower Field</a> • <a href="clover-field.html">Clover Field</a> • <a href="spider-field.html">Spider Field</a> • <a href="bamboo-field.html">Bamboo Field</a> • <a href="strawberry-field.html">Strawberry Field</a> • <a href="pineapple-patch.html">Pineapple Patch</a> • <a href="stump-field.html">Stump Field</a> • <a href="mixed-brick-field.html">Mixed Brick Field</a> • <a href="blue-brick-field.html">Blue Brick Field</a> • <a href="red-brick-field.html">Red Brick Field</a> • <a href="white-brick-field.html">White Brick Field</a> • <a href="cactus-field.html">Cactus Field</a> • <a href="pumpkin-patch.html">Pumpkin Patch</a> • <a href="pine-tree-forest.html">Pine Tree Forest</a> • <a href="rose-field.html">Rose Field</a> • <a href="ant-field.html">Ant Field</a> • <a href="hub-field.html">Hub Field</a> • <a href="mountain-top-field.html">Mountain Top Field</a> • <a href="coconut-field.html">Coconut Field</a> • <a href="pepper-patch.html">Pepper Patch</a></b>
+</td></tr>
+<tr>
+<th class="NavCategory"><a href="shops.html">Shops</a>
+</th>
+<td class="NavLinks NavLinksBasicEven"><b><a href="basic-egg-shop.html">Basic Egg Shop</a> • <a href="boost-market.html">Boost Market</a> • <a href="treat-shop.html">Treat Shop</a> • <a href="gumdrop-shop.html">Gumdrop Shop</a> • <a href="royal-jelly-shop.html">Royal Jelly Shop</a> • <a href="ticket-shop.html">Ticket Shop</a> • <a href="noob-shop.html">Noob Shop</a> • <a href="pro-shop.html">Pro Shop</a> • <a href="magic-bean-shop.html">Magic Bean Shop</a> • <a href="badge-bearer-s-guild.html">Badge Bearer's Guild</a> • <a href="dapper-bear-s-shop.html">Dapper Bear's Shop</a> • <a href="stinger-shop.html">Stinger Shop</a> • <a href="mountain-top-shop.html">Mountain Top Shop</a> • <a href="blue-hq.html">Blue HQ</a> • <a href="red-hq.html">Red HQ</a> • <a href="hub-field-shop.html">Hub Field Shop</a> • <a href="robo-bear-s-shop.html">Robo Bear's Shop</a> • <a href="petal-shop.html">Petal Shop</a> • <a href="coconut-cave.html">Coconut Cave</a> • <a href="ticket-tent.html">Ticket Tent</a> • <a href="robux-shop.html">Robux Shop</a></b>
+</td></tr>
+<tr>
+<th class="NavCategory">Gates
+</th>
+<td class="NavLinks NavLinksBasicOdd"><b><a href="basic-bee-gate.html">Basic Bee Gate</a> • <a href="brave-bee-gate.html">Brave Bee Gate</a> • <a href="honey-bee-gate.html">Honey Bee Gate</a> • <a href="ant-gate.html">Ant Gate</a> • <a href="lion-bee-gate.html">Lion Bee Gate</a> • <a href="bear-gate.html">Bear Gate</a> • <a href="windy-bee-gate.html">Windy Bee Gate</a></b>
+</td></tr>
+<tr>
+<th class="NavCategory">Machines
+</th>
+<td class="NavLinks NavLinksBasicEven"><b><a href="honey-dispenser.html">Honey Dispenser</a> • <a href="royal-jelly-dispenser.html">Royal Jelly Dispenser</a> • <a href="treat-dispenser.html">Treat Dispenser</a> • <a href="instant-converter.html">Instant Converter</a> • <a href="wealth-clock.html">Wealth Clock</a> • <a href="moon-amulet-generator.html">Moon Amulet Generator</a> • <a href="memory-match.html">Memory Match</a> • <a href="blue-field-booster.html">Blue Field Booster</a> • <a href="red-field-booster.html">Red Field Booster</a> • <a href="field-booster.html">Field Booster</a> • <a href="blueberry-dispenser.html">Blueberry Dispenser</a> • <a href="strawberry-dispenser.html">Strawberry Dispenser</a> • <a href="honeystorm.html">Honeystorm</a> • <a href="special-sprout-summoner.html">Special Sprout Summoner</a> • <a href="free-ant-pass-dispenser.html">Free Ant Pass Dispenser</a> • <a href="ant-pass-dispenser.html">Ant Pass Dispenser</a> • <a href="glue-dispenser.html">Glue Dispenser</a> • <a href="blender.html">Blender</a> • <a href="coconut-dispenser.html">Coconut Dispenser</a> • <a href="mythic-meteor-shower.html">Mythic Meteor Shower</a> • <a href="free-robo-pass-dispenser.html">Free Robo Pass Dispenser</a> • <a href="robo-pass-dispenser.html">Robo Pass Dispenser</a> • <a href="sticker-stack.html">Sticker Stack</a> • <a href="sticker-printer.html">Sticker Printer</a> • <a href="nectar-condenser.html">Nectar Condenser</a></b>
+</td></tr>
+<tr>
+<th class="NavCategory">Transportation
+</th>
+<td class="NavLinks NavLinksBasicOdd"><b><a href="slingshot.html">Slingshot</a> • <a href="yellow-cannon.html">Yellow Cannon</a> • <a href="blue-cannon.html">Blue Cannon</a> • <a href="red-cannon.html">Red Cannon</a> • <a href="blue-teleporter.html">Blue Teleporter</a> • <a href="red-teleporter.html">Red Teleporter</a></b>
+</td></tr>
+<tr>
+<th class="NavCategory"><a href="leaderboards.html">Leaderboards</a>
+</th>
+<td class="NavLinks NavLinksBasicEven"><b><a href="daily-top-honeymakers.html">Daily Top Honeymakers</a> • <a href="all-time-top-honeymakers.html">All-Time Top Honeymakers</a> • <a href="all-time-top-battlers-most-battle-points.html">All-Time Top Battlers</a> • Top Ant Exterminators • Fastest Crab Slayers • Top Stick Bug Fighters • Top Bucko Bee Helpers • Top Riley Bee Helpers • <a href="most-commando-captures.html">Most Commando Captures</a> • Top Brown Bear Helpers • All-Time Top Red Collectors • All-Time Top Blue Collectors • All-Time Top White Collectors • Daily Top Red Collectors • Daily Top Blue Collectors • Daily Top White Collectors • Highest Damage to a Single Puffshroom • Tallest Sticker Stack • Highest Robo Bear Challenge Scores • <a href="highest-snowbear-level.html">Highest Snowbear Level</a> • <a href="highest-robo-party-cake-rank.html">Highest Robo Party Cake Rank</a></b>
+</td></tr>
+<tr>
+<th class="NavCategory">Other<br/>Places
+</th>
+<td class="NavLinks NavLinksBasicOdd"><b><a href="hive.html">Hive</a> • <a href="obstacle-courses.html">Obstacle Courses</a> • King Beetle Lair • <a href="white-tunnel.html">White Tunnel</a> • <a href="werewolf-s-cave.html">Werewolf's Cave</a> • <a href="ant-challenge.html">Ant Challenge</a> • <a href="star-hall.html">Star Hall</a> • <a href="gummy-bear-s-lair.html">Gummy Bear's Lair</a> • <a href="ant-challenge-info.html">Ant Challenge Info</a> • <a href="vicious-bee-egg-claim.html">Vicious Bee Egg Claim</a> • <strong class="mw-selflink selflink">Gummy Bee Egg Claim</strong> • <a href="wind-shrine.html">Wind Shrine</a> • <a href="mazes.html">Mazes</a> • <a href="hive-hub.html">Hive Hub</a> • <a href="sticker-seeker-quest-machine.html">Sticker-Seeker Quest Machine</a></b>
+</td></tr>
+<tr>
+<th class="NavCategory">Event<br/>Locations
+</th>
+<td class="NavLinks NavLinksBasicEven"><b><a href="beesmas-tree.html">Beesmas Tree</a> • <a href="ornament-presents.html">Ornament Presents</a> • <span class="new" data-uncrawlable-url="L3dpa2kvQ29tcHV0ZXI/YWN0aW9uPWVkaXQmcmVkbGluaz0x" title="Computer (page does not exist)">Computer</span> • <a href="gift-boxes.html">Gift Boxes</a> • <a href="honey-wreath.html">Honey Wreath</a> • <a href="stockings.html">Stockings</a> • <a href="gingerbread-house.html">Gingerbread House</a> • <a href="snowbear-summoner.html">Snowbear Summoner</a> • <a href="beesmas-lights.html">Beesmas Lights</a> • <a href="samovar.html">Samovar</a> • <a href="beesmas-feast.html">Beesmas Feast</a> • <a href="onett-s-lid-art.html">Onett's Lid Art</a> • <a href="wind-shrine.html#Galentine_Shrine">Galentine Shrine</a> • <a href="memory-match.html#Winter_Memory_Match">Winter Memory Match</a> • <a href="snow-machine.html">Snow Machine</a> • <a href="honeyday-candles.html">Honeyday Candles</a> • <a href="robo-party-cake.html">Robo Party Cake</a> • <a href="gummy-beacon.html">Gummy Beacon</a> • <a href="naughty-list.html">Naughty List</a></b>
+</td></tr></tbody></table>

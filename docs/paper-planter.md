@@ -1,0 +1,141 @@
+---
+title: "Paper Planter"
+tags: ["Pages with broken file links", "Inventory", "Items", "Planter", "Crafted"]
+---
+
+# Paper Planter
+
+This piece of content contains information obtained through datamining.
+
+Due to the nature of the information, details may be inaccurate or outdated.
+
+Datamined information:
+
+* Some of the planter's stats are corrected from the in-game description.
+* The probability of the planter spawning a puffshroom, and the probability of that puffshroom being a certain rarity.
+* How the planter generates its loot. — December 19th, 2024
+
+This content contains assumptions.
+
+Though the precise details may be inaccurate, most information comes from great testing and supported assumptions.
+
+Assumptions made: How the planter generates its loot is unclear with only the datamined information. Some information has been verified (the number of tokens it spawns and the guaranteed items), but the rest are assumptions.
+
+Paper Planter
+
+*"A biodegradable pot that grows in about 1hr. Harvest to collect pollen, items, and Nectar boosts!*"
+
+REUSABLE?
+
+No
+
+CAP
+
+100
+
+COST
+
+25,000 [Honey](honey.md), 1 [Sunflower Seed](sunflower-seed.md).
+
+GROW TIME
+
+~1 hour
+
+GROW TIME BONUS
+
+-
+
+POLLEN CAPACITY
+
+50,000 Pollen
+
+POLLEN MULTIPLIER
+
+-
+
+NECTAR MULTIPLIER
+
+x0.75 Refreshing  
+
+x0.75 Comforting  
+x0.75 Satisfying  
+x0.75 Motivating  
+x0.75 Invigorating
+
+BONUS ITEMS
+
+-
+
+The **Paper Planter** is a single-use [planter](planter.md) added in the [2021-12-26 update](updates.md#2021-12-26). Alone, it grows in 1 hour and stores 50,000 pollen. It can be bought in the [Pro Shop](pro-shop.md) for 25,000 [Honey](honey.md) and 1 [Sunflower Seed](sunflower-seed.md). A player can store up to 100 Paper Planters at a time, but only 1 can be active.
+
+It does not have any growth nor pollen multipliers, and grants x0.75 [nectar](nectar.md).
+
+Harvesting a fully grown Paper Planter has a 1/10 chance to spawn a [Puffshroom](puffshroom.md). The spawned puffshroom is guaranteed to be a level 1 Common Puffshroom.
+
+## Drops
+
+When claimed, the planter gives up to 10 tokens worth of items. The tokens are picked randomly from the following, non-exhaustive list (note that the list does not include rewards based on the [field](fields.md) the planter is in):
+
+### Other Drops
+
+<table class="article-table">
+<tbody><tr>
+<td><span typeof="mw:Error mw:File"></span><a href="honey.html"><span class="color-template color-template-honey">Honey</span></a><br/>
+<p><span typeof="mw:Error mw:File"></span><a href="ticket.html"><span class="color-template color-template-ticket color-template-background-clip">Tickets</span></a><br/>
+<span typeof="mw:Error mw:File"></span><a href="sunflower-seed.html"><span class="color-template color-template-sunflower-seed color-template-background-clip">Sunflower Seeds</span></a> (increments of 1,3,5,10)<br/>
+<span typeof="mw:Error mw:File"></span><a href="strawberry.html"><span class="color-template color-template-strawberry color-template-background-clip">Strawberries</span></a> (increments of 1,3,5,10)<br/>
+<span typeof="mw:Error mw:File"></span><a href="pineapple.html"><span class="color-template color-template-pineapple color-template-background-clip">Pineapples</span></a> (increments of 1,3,5,10)<br/>
+<span typeof="mw:Error mw:File"></span><a href="blueberry.html"><span class="color-template color-template-blueberry color-template-background-clip">Blueberries</span></a> (increments of 1,3,5,10)<br/>
+<span typeof="mw:Error mw:File"></span><a href="gumdrops.html"><span class="color-template color-template-gumdrops color-template-background-clip">Gumdrops</span></a><br/>
+<span typeof="mw:Error mw:File"></span><a href="royal-jelly.html"><span class="color-template color-template-royal-jelly color-template-background-clip">Royal Jellies</span></a><br/>
+<span typeof="mw:Error mw:File"></span><a href="whirligig.html"><span class="color-template color-template-whirligig color-template-background-clip">Whirligigs</span></a><br/>
+<span typeof="mw:Error mw:File"></span><a href="glue.html"><span class="color-template color-template-glue color-template-background-clip">Glues</span></a><br/>
+<span typeof="mw:Error mw:File"></span><a href="enzymes.html"><span class="color-template color-template-enzymes color-template-background-clip">Enzymes</span></a> (Increments of 1, 3, or 7, guaranteed from <a href="pineapple-patch.html">Pineapple Patch</a>) (Unknown cooldown)<br/>
+<span typeof="mw:Error mw:File"></span><a href="oil.html"><span class="color-template color-template-oil color-template-background-clip">Oils</span></a> (Increments of 1, 3, or 5, guaranteed from <a href="sunflower-field.html">Sunflower Field</a>) (Unknown cooldown)<br/>
+<span typeof="mw:Error mw:File"></span><a href="red-extract.html"><span class="color-template color-template-red-extract color-template-background-clip">Red Extracts</span></a><br/>
+<span typeof="mw:Error mw:File"></span><a href="blue-extract.html"><span class="color-template color-template-blue-extract color-template-background-clip">Blue Extracts</span></a><br/>
+<span typeof="mw:Error mw:File"></span><a href="soft-wax.html"><span class="color-template color-template-soft-wax">Soft Waxes</span></a><br/>
+<span typeof="mw:Error mw:File"></span><a href="honeysuckle.html"><span class="color-template color-template-honeysuckle color-template-background-clip">Honeysuckles</span></a><br/>
+<span typeof="mw:Error mw:File"></span><a href="stinger.html"><span class="color-template color-template-stinger color-template-background-clip">Stingers</span></a><br/>
+<span typeof="mw:Error mw:File"></span><a href="field-dice.html"><span class="color-template color-template-field-dice color-template-background-clip">Field Dice</span></a><br/>
+<span typeof="mw:Error mw:File"></span><a href="coconut.html"><span class="color-template color-template-coconut color-template-background-clip">Coconuts</span></a>(Only drops from <a href="coconut-field.html">Coconut Field</a>)<br/>
+<span typeof="mw:Error mw:File"></span><a href="hard-wax.html"><span class="color-template color-template-hard-wax">Hard Waxes</span></a> (Rare)<br/>
+<span typeof="mw:Error mw:File"></span><a href="royal-jelly.html#Star_Jelly"><span class="color-template color-template-star-jelly color-template-background-clip">Star Jellies</span></a> (Rare)<br/>
+<span typeof="mw:Error mw:File"></span><a href="purple-potion.html"><span class="color-template color-template-purple-potion color-template-background-clip">Purple Potions</span></a> (Very Rare)<br/>
+<span typeof="mw:Error mw:File"></span><a href="super-smoothie.html"><span class="color-template color-template-super-smoothie color-template-background-clip">Super Smoothies</span></a> (Very Rare)<br/>
+<span typeof="mw:Error mw:File"></span><a href="egg.html#Gold_Egg"><span class="color-template color-template-gold-egg color-template-background-clip">Gold Eggs</span></a> (Extremely Rare)<br/>
+<span typeof="mw:Error mw:File"></span><a href="caustic-wax.html"><span class="color-template color-template-caustic-wax">Caustic Waxes</span></a> (Extremely rare)<br/>
+<span typeof="mw:Error mw:File"></span><a href="turpentine.html"><span class="color-template color-template-turpentine color-template-background-clip">Turpentines</span></a> (Nearly Impossible)
+</p>
+</td></tr></tbody></table>
+
+## Gallery
+
+<div class="wikia-gallery wikia-gallery-caption-below wikia-gallery-position-left wikia-gallery-spacing-medium wikia-gallery-border-small wikia-gallery-captions-left wikia-gallery-caption-size-medium" data-seq-no="0" hash="a37169a10777b071392ba0125a95332b" id="gallery-0"><div class="wikia-gallery-caption"></div><div class="wikia-gallery-item" style="width:187px; "><div class="thumb" style="height:187px;"><div class="gallery-image-wrapper accent" id="A024739C-6D68-4007-B5A6-482471BA87DB-jpeg" style="position: relative; height:185px; width:185px;"><span style="line-height: 1;">A024739C-6D68-4007-B5A6-482471BA87DB.jpeg</span></div></div><div class="lightbox-caption" style="width:185px;">A Paper Planter growing.</div></div><div class="wikia-gallery-item" style="width:187px; "><div class="thumb" style="height:187px;"><div class="gallery-image-wrapper accent" id="The_Paper_Planter_in_the_Pro_Shop-png" style="position: relative; height:185px; width:185px;"><span style="line-height: 1;">The Paper Planter in the Pro Shop.png</span></div></div><div class="lightbox-caption" style="width:185px;">The Paper Planter in Pro Shop.</div></div><div class="wikia-gallery-item" style="width:187px; "><div class="thumb" style="height:187px;"><div class="gallery-image-wrapper accent" id="A_Paper_Planter_that_will_spawn_puffshroom_upon_harvesting--jpg" style="position: relative; height:185px; width:185px;"><span style="line-height: 1;">A Paper Planter that will spawn puffshroom upon harvesting..jpg</span></div></div><div class="lightbox-caption" style="width:185px;">A Paper Planter hosting a Puffshroom.</div></div><div class="wikia-gallery-item" style="width:187px; "><div class="thumb" style="height:187px;"><div class="gallery-image-wrapper accent" id="Newly_planted_paper_planter-jpg" style="position: relative; height:185px; width:185px;"><span style="line-height: 1;">Newly planted paper planter.jpg</span></div></div><div class="lightbox-caption" style="width:185px;">A newly placed Paper Planter.</div></div><div class="wikia-gallery-item" style="width:187px; "><div class="thumb" style="height:187px;"><div class="gallery-image-wrapper accent" id="Full_grown_paper_planter-png" style="position: relative; height:185px; width:185px;"><span style="line-height: 1;">Full grown paper planter.png</span></div></div><div class="lightbox-caption" style="width:185px;">A fully grown Paper Planter.</div></div><div class="wikia-gallery-item" style="width:187px; "><div class="thumb" style="height:187px;"><div class="gallery-image-wrapper accent" id="PaperPlantersInventory-jpg" style="position: relative; height:185px; width:185px;"><span style="line-height: 1;">PaperPlantersInventory.jpg</span></div></div><div class="lightbox-caption" style="width:185px;">Paper Planters in a player's inventory.</div></div></div>
+
+## Trivia
+
+* This is the cheapest and fastest-growing planter in the game.
+* It is one of the many planters to not be sold in [Dapper Bear's Shop](dapper-bear-s-shop.md), the others being the [Red Clay Planter](red-clay-planter.md), [Blue Clay Planter](blue-clay-planter.md), [Festive Planter](festive-planter.md), [Ticket Planter](ticket-planter.md), [Sticker Planter](sticker-planter.md), [Petal Planter](petal-planter.md), [Hydroponic Planter](hydroponic-planter.md) and [Heat-Treated Planter](heat-treated-planter.md).
+* This is the cheapest item in the [Pro Shop](pro-shop.md) in terms of honey, only costing 25,000 honey.
+* This is the only item in the Pro Shop that is cheaper than an item in the [Noob Shop](noob-shop.md), being the [Helmet](helmet.md).
+* This, the Ticket Planter and Sticker Planter the are the only one-time use planters that are renewable.
+* This is the only planter in the game that stores more pollen than the honey it costs.
+* It is one of the four planters that are one-time use. The remaining three are the [Sticker Planter](sticker-planter.md), [Ticket Planter](ticket-planter.md) and the [Festive Planter](festive-planter.md).
+  * It is also the only one-time use planter that can be bought from a store.
+* This is also the only planter that *reduces* nectar gained, multiplying all nectar by 0.75x. All other planters either boost nectar gain (although some of them only boost certain types) or do not change it at all.
+
+<table class="mw-collapsible mw-collapsed NavTable">
+<tbody><tr>
+<th class="NavTitle" colspan="2">Planters
+</th></tr>
+<tr>
+<th class="NavCategory">One-time Use
+</th>
+<td class="NavLinks NavLinksBasicOdd"><b><span typeof="mw:Error mw:File"></span> <strong class="mw-selflink selflink">Paper Planter</strong> • <span typeof="mw:Error mw:File"></span> <a href="ticket-planter.html">Ticket Planter</a> • <span typeof="mw:Error mw:File"></span> <a href="sticker-planter.html">Sticker Planter</a> • <span typeof="mw:Error mw:File"></span> <a href="festive-planter.html">Festive Planter</a></b>
+</td></tr>
+<tr>
+<th class="NavCategory">Permanent
+</th>
+<td class="NavLinks NavLinksBasicEven"><b><span typeof="mw:Error mw:File"></span> <a href="plastic-planter.html">Plastic Planter</a> • <span typeof="mw:Error mw:File"></span> <a href="candy-planter.html">Candy Planter</a> • <span typeof="mw:Error mw:File"></span> <a href="red-clay-planter.html">Red Clay Planter</a> • <span typeof="mw:Error mw:File"></span> <a href="blue-clay-planter.html">Blue Clay Planter</a> • <span typeof="mw:Error mw:File"></span> <a href="tacky-planter.html">Tacky Planter</a> • <span typeof="mw:Error mw:File"></span> <a href="pesticide-planter.html">Pesticide Planter</a> • <span typeof="mw:Error mw:File"></span> <a href="petal-planter.html">Petal Planter</a> • <span typeof="mw:Error mw:File"></span> <a href="heat-treated-planter.html">Heat-Treated Planter</a> • <span typeof="mw:Error mw:File"></span> <a href="hydroponic-planter.html">Hydroponic Planter</a> • <span typeof="mw:Error mw:File"></span> <a href="the-planter-of-plenty.html">The Planter Of Plenty</a></b>
+</td></tr></tbody></table>

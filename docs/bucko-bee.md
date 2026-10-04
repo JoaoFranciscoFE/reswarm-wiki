@@ -1,0 +1,479 @@
+---
+title: "Bucko Bee"
+tags: ["Pages with broken file links", "Bees", "Epic", "Blue"]
+---
+
+# Bucko Bee
+
+*This page is for the worker bee. Not to be confused with [Gifted Bucko Bee](gifted-bucko-bee.md), an NPC.*
+
+<table class="infobox templateBeeDefault templateBeeBlueBackground">
+<tbody><tr>
+<td class="templateBeeTitle templateBeeEpicText" colspan="3"><b>Bucko Bee</b>
+</td></tr>
+<tr>
+<td class="templateBeeTabber" colspan="3"><center>
+<div><h3>Original</h3>
+<p><span typeof="mw:Error mw:File"></span>
+</p>
+<h3>Gifted</h3>
+<p><span typeof="mw:Error mw:File"></span>
+</p>
+</div>
+</center>
+</td></tr>
+<tr>
+<td class="templateBeeDesc" colspan="3"><i>"Leader of the Blue bees, and a long time rival of Riley Bee. Its tenacity is its greatest strength."</i>
+</td></tr>
+<tr>
+<td class="templateBeeDefaultCell" colspan="3"><b>Rarity</b> <br/> Epic
+</td></tr>
+<tr>
+<td class="templateBeeDefaultCell" colspan="3"><b>Color</b> <br/> Blue
+</td></tr>
+<tr>
+<td class="templateBeeStatCell templateBeeGoodStat"><b>Energy</b> <br/> 30
+</td>
+<td class="templateBeeStatCell templateBeeGoodStat"><b>Speed</b> <br/> 15.4
+</td>
+<td class="templateBeeStatCell templateBeeGoodStat"><b>Attack</b> <br/> 5
+</td></tr>
+<tr>
+<td class="templateBeeHeader templateBeeEpicText" colspan="3">COLOR SCHEME
+</td></tr>
+<tr>
+<td colspan="3"><table class="templateBeeDefaultStripeTable">
+<tbody><tr>
+<td>
+<div class="templateBeeLeftStripeBar templateBeeBuckoBeeSkinColor1" style="background-color: #1b2a35"> </div>
+<div class="templateBeeMiddleStripeBar templateBeeBuckoBeeSkinColor2" style="background-color: #3b8ed1"> </div>
+<div class="templateBeeRightStripeBar templateBeeBuckoBeeSkinColor3" style="background-color: #1b2a35"> </div>
+<p class="templateBeeSeparator1"><br class="templateBeeSeparator2"/></p>
+<div class="templateBeeColorBox">
+<p class="templateBeeSkinColorHeader">Skin</p>
+<p class="templateBeeSkinColorText templateBeeSkinColorText1">#1b2a35</p>
+<p class="templateBeeSkinColorText templateBeeSkinColorText2">#3b8ed1</p>
+<p class="templateBeeSkinColorText templateBeeSkinColorText3">#1b2a35</p></div>
+</td></tr>
+</tbody></table>
+</td></tr></tbody></table>
+
+**Bucko Bee** is a Blue [Epic bee](bees-epic.md).
+
+Bucko Bee's favorite [treat](treats.md) is [Blueberries](blueberry.md).
+
+Bucko Bee likes the [Blue Flower Field](blue-flower-field.md), [Bamboo Field](bamboo-field.md), and the [Pine Tree Forest](pine-tree-forest.md). It dislikes the [Strawberry Field](strawberry-field.md), and [Rose Field](rose-field.md).
+
+## Stats
+
+* Collects 17 [Pollen](pollen.md) in 4 seconds.
+* Makes 80 [Honey](honey.md) in 3 seconds.
+* +10% [Movespeed](stats.md#Speed), +50% [Energy](energy.md), +4 [Attack](stats.md#Attack), +7 [Gather Amount](stats.md#Gather_Amount), +25% convert speed.
+* 🌟 [Gifted Hive Bonus](gifted-bee.md): +20% Blue Field Capacity.
+
+### Abilities
+
+* **[[Blue Boost]](ability-tokens.md#Boost)** Grants x1.2 pollen from blue [Flowers](flowers.md) for 15s. Stacks up to 10 times.
+
+<table style="font-size:1.5vh; color:#000; width:100%; background:#fff; padding: 15px 0; border:none; color:#000; border-left:15px #2fa0fc solid">
+<tbody><tr>
+<td style="width:100%; text-align:center">
+<p>Bucko Bee has a base pollen collection of <b>17 <span typeof="mw:Error mw:File"></span></b> in <b>4 seconds</b>. 
+</p><p>That's equivalent to 4.25 <span typeof="mw:Error mw:File"></span> per second. 
+</p><p>(<b>34 <span typeof="mw:Error mw:File"></span></b> in <b>4 seconds</b> with x2 Bee Pollen gamepass)
+</p>
+</td></tr></tbody></table>
+
+<table align="center" class="wikitable" style="text-align:center; width:80%;">
+<tbody><tr>
+<th colspan="5"> <span style="border-bottom:1px dotted gray;cursor:help;" title="Without in-game accessories.">Pollen Collection</span>
+</th></tr>
+<tr>
+<td rowspan="2">Flower Tier
+</td><td colspan="2">Bee Pollen
+</td><td colspan="2">with Critical Hit
+</td></tr>
+<tr>
+<td>Base Value
+</td><td>Blue Flower
+</td><td>without Melody
+</td><td>with Melody
+</td></tr>
+<tr>
+<td>Single
+</td><td>17
+</td><td>25.5
+</td><td>34
+</td><td>51
+</td></tr>
+<tr>
+<td>Double
+</td><td>34
+</td><td>51
+</td><td>68
+</td><td>102
+</td></tr>
+<tr>
+<td>Triple
+</td><td>51
+</td><td>76.5
+</td><td>102
+</td><td>153
+</td></tr>
+<tr>
+<td>Large
+</td><td>68
+</td><td>102
+</td><td>136
+</td><td>204
+</td></tr>
+<tr>
+<td>Star
+</td><td>85
+</td><td>127.5
+</td><td>170
+</td><td>255
+</td></tr>
+</tbody></table>
+
+<table align="center" class="wikitable" style="text-align:center; width:80%">
+<tbody><tr>
+<th colspan="3"><span style="border-bottom:1px dotted gray;cursor:help;" title="Data applies on a small flower without any in-game accessories.">Pollen Collection with Boost Tokens</span>
+</th></tr>
+<tr>
+<td>Boost Tokens (<span typeof="mw:Error mw:File"></span> or <span typeof="mw:Error mw:File"></span>)
+</td><td>Percentage Bonus
+</td><td>Collected Pollen
+</td></tr>
+<tr>
+<td>1
+</td><td>15%
+</td><td>19.55
+</td></tr>
+<tr>
+<td>2
+</td><td>30%
+</td><td>22.1
+</td></tr>
+<tr>
+<td>3
+</td><td>45%
+</td><td>24.65
+</td></tr>
+<tr>
+<td>4
+</td><td>60%
+</td><td>27.2
+</td></tr>
+<tr>
+<td>5
+</td><td>75%
+</td><td>29.75
+</td></tr>
+<tr>
+<td>6
+</td><td>90%
+</td><td>32.3
+</td></tr>
+<tr>
+<td>7
+</td><td>105%
+</td><td>34.85
+</td></tr>
+<tr>
+<td>8
+</td><td>120%
+</td><td>37.4
+</td></tr>
+<tr>
+<td>9
+</td><td>135%
+</td><td>39.95
+</td></tr>
+<tr>
+<td>10
+</td><td>150%
+</td><td>42.5
+</td></tr>
+</tbody></table>
+
+<table style="font-size:1.5vh; color:#000; width:100%; background:linear-gradient(to left, #FFB75E, #ED8F03); padding: 15px 0; border:none; color:#fff; border-left:15px #fff solid">
+<tbody><tr>
+<td style="width:100%; text-align:center">
+<p>Bucko Bee can make <b>80 <span typeof="mw:Error mw:File"></span></b> in <b>3 seconds</b>!
+</p><p>That's equivalent to <b>26.66667 <span typeof="mw:Error mw:File"></span> per second</b>.
+</p><p>(<b>80 <span typeof="mw:Error mw:File"></span> in 1.5 seconds</b> with x2 Honeymaking Speed)
+</p>
+</td></tr>
+</tbody></table>
+
+<table align="center" class="wikitable" style="text-align:center; width:75%">
+<tbody><tr>
+<th>Honey Collection with <span style="border-bottom:1px dotted gray;cursor:help;" title="Without any in-game accessories.">Science Enhancement</span>
+</th></tr>
+<tr>
+<td><div><h3>Levels 1-8</h3><table align="center" class="wikitable" style="text-align:center;">
+<tbody><tr>
+<th><i>Science Enhancement</i>
+</th><th>Production Rate
+</th><th>Number of Produced Honey
+</th></tr>
+<tr>
+<td>1
+</td><td>25%
+</td><td>100
+</td></tr>
+<tr>
+<td>2
+</td><td>50%
+</td><td>120
+</td></tr>
+<tr>
+<td>3
+</td><td>75%
+</td><td>140
+</td></tr>
+<tr>
+<td>4
+</td><td>100%
+</td><td>160
+</td></tr>
+<tr>
+<td>5
+</td><td>125%
+</td><td>180
+</td></tr>
+<tr>
+<td>6
+</td><td>150%
+</td><td>200
+</td></tr>
+<tr>
+<td>7
+</td><td>175%
+</td><td>220
+</td></tr>
+<tr>
+<td>8
+</td><td>200%
+</td><td>240
+</td></tr>
+</tbody></table><h3>Levels 9-16</h3><table align="center" class="wikitable" style="text-align:center;">
+<tbody><tr>
+<th><i>Science Enhancement</i>
+</th><th>Production Rate
+</th><th>Number of Produced Honey
+</th></tr>
+<tr>
+<td>9
+</td><td>225%
+</td><td>260
+</td></tr>
+<tr>
+<td>10
+</td><td>250%
+</td><td>280
+</td></tr>
+<tr>
+<td>11
+</td><td>275%
+</td><td>300
+</td></tr>
+<tr>
+<td>12
+</td><td>300%
+</td><td>320
+</td></tr>
+<tr>
+<td>13
+</td><td>325%
+</td><td>340
+</td></tr>
+<tr>
+<td>14
+</td><td>350%
+</td><td>360
+</td></tr>
+<tr>
+<td>15
+</td><td>375%
+</td><td>380
+</td></tr>
+<tr>
+<td>16
+</td><td>400%
+</td><td>400
+</td></tr>
+</tbody></table><h3>Levels 17-24</h3><table align="center" class="wikitable" style="text-align:center;">
+<tbody><tr>
+<th><i>Science Enhancement</i>
+</th><th>Production Rate
+</th><th>Number of Produced Honey
+</th></tr>
+<tr>
+<td>17
+</td><td>425%
+</td><td>420
+</td></tr>
+<tr>
+<td>18
+</td><td>450%
+</td><td>440
+</td></tr>
+<tr>
+<td>19
+</td><td>475%
+</td><td>460
+</td></tr>
+<tr>
+<td>20
+</td><td>500%
+</td><td>480
+</td></tr>
+<tr>
+<td>21
+</td><td>525%
+</td><td>500
+</td></tr>
+<tr>
+<td>22
+</td><td>550%
+</td><td>520
+</td></tr>
+<tr>
+<td>23
+</td><td>575%
+</td><td>540
+</td></tr>
+<tr>
+<td>24
+</td><td>600%
+</td><td>560
+</td></tr>
+</tbody></table><h3>Levels 25-31</h3><table align="center" class="wikitable" style="text-align:center;">
+<tbody><tr>
+<th><i>Science Enhancement</i>
+</th><th>Production Rate
+</th><th>Number of Produced Honey
+</th></tr>
+<tr>
+<td>25
+</td><td>625%
+</td><td>580
+</td></tr>
+<tr>
+<td>26
+</td><td>650%
+</td><td>600
+</td></tr>
+<tr>
+<td>27
+</td><td>675%
+</td><td>620
+</td></tr>
+<tr>
+<td>28
+</td><td>700%
+</td><td>640
+</td></tr>
+<tr>
+<td>29
+</td><td>725%
+</td><td>660
+</td></tr>
+<tr>
+<td>30
+</td><td>750%
+</td><td>680
+</td></tr>
+<tr>
+<td>31
+</td><td>775%
+</td><td>700
+</td></tr>
+</tbody></table></div>
+</td></tr>
+</tbody></table>
+
+<table align="center" class="wikitable" style="text-align:center; width:70%">
+<tbody><tr>
+<td colspan="3"><span typeof="mw:Error mw:File"></span> Egg and Jelly Probability <span typeof="mw:Error mw:File"></span>
+</td></tr><tr>
+<td>Item
+</td><td>Base Probability
+</td><td>Probability of getting a particular epic bee.
+</td></tr><tr>
+<td style="text-align:left; padding:5px 0 5px 25px;"><span typeof="mw:Error mw:File"></span><a href="egg.html#Basic_Egg">Basic Egg</a>
+</td><td>2.5%
+</td><td>0.22727%
+</td></tr><tr>
+<td style="text-align:left; padding:5px 0 5px 25px;"><span typeof="mw:Error mw:File"></span><a href="egg.html#Silver_Egg">Silver Egg</a>
+</td><td>30%
+</td><td>2.72727%
+</td></tr><tr>
+<td style="text-align:left; padding:5px 0 5px 25px;"><span typeof="mw:Error mw:File"></span><a href="egg.html#Gold_Egg">Gold Egg</a>
+</td><td>79%
+</td><td>7.18182%
+</td></tr><tr>
+<td style="text-align:left; padding:5px 0 5px 25px;"><span typeof="mw:Error mw:File"></span><a href="egg.html#Diamond_Egg">Diamond Egg</a>
+</td><td>0%
+</td><td>0%
+</td></tr><tr>
+<td style="text-align:left; padding:5px 0 5px 25px;"><span typeof="mw:Error mw:File"></span><a href="egg.html#Mythic_Egg">Mythic Egg</a>
+</td><td>0%
+</td><td>0%
+</td></tr><tr>
+<td style="text-align:left; padding:5px 0 5px 25px;"><span typeof="mw:Error mw:File"></span><a href="royal-jelly.html">Royal Jelly</a>
+</td><td>27%
+</td><td>2.45455%
+</td></tr>
+</tbody></table>
+
+## Gallery
+
+<div class="wikia-gallery wikia-gallery-caption-below wikia-gallery-position-left wikia-gallery-spacing-medium wikia-gallery-border-small wikia-gallery-captions-left wikia-gallery-caption-size-medium" data-seq-no="0" hash="ceec1e3f703cf9236281ca0979eff17a" id="gallery-0"><div class="wikia-gallery-caption"></div><div class="wikia-gallery-item" style="width:187px; "><div class="thumb" style="height:187px;"><div class="gallery-image-wrapper accent" id="BuckoBee_Hive-png" style="position: relative; height:185px; width:185px;"><span style="line-height: 1;">BuckoBee Hive.png</span></div></div><div class="lightbox-caption" style="width:185px;">Bucko Bee's old hive slot design.</div></div><div class="wikia-gallery-item" style="width:187px; "><div class="thumb" style="height:187px;"><div class="gallery-image-wrapper accent" id="GiftedBuckoBeehive-PNG" style="position: relative; height:185px; width:185px;"><span style="line-height: 1;">GiftedBuckoBeehive.PNG</span></div></div><div class="lightbox-caption" style="width:185px;">A Gifted Bucko Bee hive slot.</div></div><div class="wikia-gallery-item" style="width:187px; "><div class="thumb" style="height:187px;"><div class="gallery-image-wrapper accent" id="BuckoFace-png" style="position: relative; height:185px; width:185px;"><span style="line-height: 1;">BuckoFace.png</span></div></div><div class="lightbox-caption" style="width:185px;">Bucko Bee's face.</div></div><div class="wikia-gallery-item" style="width:187px; "><div class="thumb" style="height:187px;"><div class="gallery-image-wrapper accent" id="Screenshot_2022-09-16_164205-png" style="position: relative; height:185px; width:185px;"><span style="line-height: 1;">Screenshot 2022-09-16 164205.png</span></div></div><div class="lightbox-caption" style="width:185px;">Bucko Bee transformed into Gifted Bucko Bee.</div></div><div class="wikia-gallery-item" style="width:187px; "><div class="thumb" style="height:187px;"><div class="gallery-image-wrapper accent" id="Buckingbea-png" style="position: relative; height:185px; width:185px;"><span style="line-height: 1;">Buckingbea.png</span></div></div><div class="lightbox-caption" style="width:185px;">Bucko Bee's original face.</div></div></div>
+
+## Trivia
+
+* As per the description, this [bee](bees.md) is the rival and counterpart of [Riley Bee](riley-bee.md).
+  * Both bees are the leaders of their respective colors.
+* Bucko Bee and [Bumble Bee](bumble-bee.md) have the same skin colors.
+* There is a giant model of this bee on top of the entrance of the [Blue HQ](blue-hq.md).
+* A Quest Bee represents the gifted version of it in the top floor of the Blue HQ.
+* Bucko Bee is the third strongest blue bee, only behind Vicious Bee and Cobalt Bee.
+* The [Bucko Guard](bucko-guard.md) is based on Bucko Bee.
+* Bucko Bee, [Buoyant Bee](buoyant-bee.md), and Bumble Bee are the only Blue bees to like at least three fields
+* Bucko Bee, [Riley Bee](riley-bee.md), [Crimson Bee](crimson-bee.md) and [Cobalt Bee](cobalt-bee.md) are the only bees whose description has another bee's name in it.
+  * Bucko Bee is also the only Blue bee to dislike two fields.
+
+<table class="mw-collapsible mw-collapsed NavTable">
+<tbody><tr>
+<th class="NavTitle" colspan="2">Bees
+</th></tr>
+<tr>
+<th class="NavCategory">Common &amp; Rare
+</th>
+<td class="NavLinks NavLinksRare"><b><span typeof="mw:Error mw:File"></span> <a href="basic-bee.html">Basic Bee</a> • <span typeof="mw:Error mw:File"></span> <a href="bomber-bee.html">Bomber Bee</a>  • <span typeof="mw:Error mw:File"></span> <a href="brave-bee.html">Brave Bee</a> • <span typeof="mw:Error mw:File"></span> <a href="bumble-bee.html">Bumble Bee</a> • <span typeof="mw:Error mw:File"></span> <a href="cool-bee.html">Cool Bee</a> • <span typeof="mw:Error mw:File"></span> <a href="hasty-bee.html">Hasty Bee</a> • <span typeof="mw:Error mw:File"></span> <a href="looker-bee.html">Looker Bee</a> • <span typeof="mw:Error mw:File"></span> <a href="rad-bee.html">Rad Bee</a> • <span typeof="mw:Error mw:File"></span> <a href="rascal-bee.html">Rascal Bee</a> • <span typeof="mw:Error mw:File"></span> <a href="stubborn-bee.html">Stubborn Bee</a></b>
+</td></tr>
+<tr>
+<th class="NavCategory">Epic
+</th>
+<td class="NavLinks NavLinksEpic"><b><span typeof="mw:Error mw:File"></span> <a href="bubble-bee.html">Bubble Bee</a> • <span typeof="mw:Error mw:File"></span> <strong class="mw-selflink selflink">Bucko Bee</strong> • <span typeof="mw:Error mw:File"></span> <a href="commander-bee.html">Commander Bee</a> • <span typeof="mw:Error mw:File"></span> <a href="demo-bee.html">Demo Bee</a> • <span typeof="mw:Error mw:File"></span> <a href="exhausted-bee.html">Exhausted Bee</a> • <span typeof="mw:Error mw:File"></span> <a href="fire-bee.html">Fire Bee</a> • <span typeof="mw:Error mw:File"></span> <a href="frosty-bee.html">Frosty Bee</a> • <span typeof="mw:Error mw:File"></span> <a href="honey-bee.html">Honey Bee</a> • <span typeof="mw:Error mw:File"></span> <a href="rage-bee.html">Rage Bee</a> • <span typeof="mw:Error mw:File"></span> <a href="riley-bee.html">Riley Bee</a> • <span typeof="mw:Error mw:File"></span> <a href="shocked-bee.html">Shocked Bee</a></b>
+</td></tr>
+<tr>
+<th class="NavCategory">Legendary
+</th>
+<td class="NavLinks NavLinksLegend"><b><span typeof="mw:Error mw:File"></span> <a href="baby-bee.html">Baby Bee</a> • <span typeof="mw:Error mw:File"></span> <a href="carpenter-bee.html">Carpenter Bee</a> • <span typeof="mw:Error mw:File"></span> <a href="demon-bee.html">Demon Bee</a> • <span typeof="mw:Error mw:File"></span> <a href="diamond-bee.html">Diamond Bee</a> • <span typeof="mw:Error mw:File"></span> <a href="lion-bee.html">Lion Bee</a> • <span typeof="mw:Error mw:File"></span> <a href="music-bee.html">Music Bee</a> • <span typeof="mw:Error mw:File"></span> <a href="ninja-bee.html">Ninja Bee</a> • <span typeof="mw:Error mw:File"></span> <a href="shy-bee.html">Shy Bee</a></b>
+</td></tr>
+<tr>
+<th class="NavCategory">Mythic
+</th>
+<td class="NavLinks NavLinksMythic"><b><span typeof="mw:Error mw:File"></span> <a href="buoyant-bee.html">Buoyant Bee</a> • <span typeof="mw:Error mw:File"></span> <a href="fuzzy-bee.html">Fuzzy Bee</a> • <span typeof="mw:Error mw:File"></span> <a href="precise-bee.html">Precise Bee</a> • <span typeof="mw:Error mw:File"></span> <a href="spicy-bee.html">Spicy Bee</a> • <span typeof="mw:Error mw:File"></span> <a href="tadpole-bee.html">Tadpole Bee</a> • <span typeof="mw:Error mw:File"></span> <a href="vector-bee.html">Vector Bee</a></b>
+</td></tr>
+<tr>
+<th class="NavCategory">Event
+</th>
+<td class="NavLinks NavLinksEvent"><b><span typeof="mw:Error mw:File"></span> <a href="bear-bee.html">Bear Bee</a> • <span typeof="mw:Error mw:File"></span> <a href="cobalt-bee.html">Cobalt Bee</a> • <span typeof="mw:Error mw:File"></span> <a href="crimson-bee.html">Crimson Bee</a> • <span typeof="mw:Error mw:File"></span> <a href="digital-bee.html">Digital Bee</a> • <span typeof="mw:Error mw:File"></span> <a href="festive-bee.html">Festive Bee</a> • <span typeof="mw:Error mw:File"></span> <a href="gummy-bee.html">Gummy Bee</a> • <span typeof="mw:Error mw:File"></span> <a href="photon-bee.html">Photon Bee</a> • <span typeof="mw:Error mw:File"></span> <a href="puppy-bee.html">Puppy Bee</a> • <span typeof="mw:Error mw:File"></span> <a href="tabby-bee.html">Tabby Bee</a> • <span typeof="mw:Error mw:File"></span> <a href="vicious-bee.html">Vicious Bee</a> • <span typeof="mw:Error mw:File"></span> <a href="windy-bee.html">Windy Bee</a></b>
+</td></tr></tbody></table>
+
+zh-tw:壞壞蜂

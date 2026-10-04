@@ -1,0 +1,14 @@
+
+.portable-infobox { float: right; width: 280px; margin: 0 0 1em 1em; padding: .5em;
+  border: 1px solid var(--md-default-fg-color--lightest); border-radius: 8px;
+  background: var(--md-code-bg-color); font-size: .75rem; }
+.portable-infobox .pi-title { margin: .2em 0; font-size: 1rem; text-align: center; }
+.portable-infobox img { max-width: 100%; height: auto; display: block; margin: 0 auto; }
+.portable-infobox .pi-item { padding: .3em 0; border-top: 1px solid var(--md-default-fg-color--lightest); }
+.portable-infobox .pi-data-label { margin: 0; font-size: .7rem; }
+.portable-infobox .pi-horizontal-group { width: 100%; }
+figure { display: inline-block; margin: .5em; text-align: center; }
+figure img { max-width: 100%; height: auto; }
+.wikia-gallery, .gallery { display: flex; flex-wrap: wrap; gap: .5em; }
+.md-typeset table:not([class]) { font-size: .7rem; }
+@media (max-width: 700px) { .portable-infobox { float: none; width: 100%; margin: 0 0 1em 0; } }
