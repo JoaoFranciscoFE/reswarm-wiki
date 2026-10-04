@@ -32,24 +32,7 @@ Each time upgrading also increases the upgrade cost. Starting from 20 tickets on
 Obtaining extra slots grant this message:
 "+ [Amount] Sticker Book Slots"
 
-This table below lists the cost (in tickets) for each storage upgrade and each with the total/cumulated costs from all previous upgrades. ***Do note that this table only lists up until 120 slots, in which every upgrade after that cost 1,000 tickets. If you want to find the total cost for the upgrades beyond, you can use the following formula:***
-
-(
-[
-s
-l
-o
-t
-s
-−
-112
-]
-×
-125
-)
-+
-4420
-{\displaystyle ([slots-112]\times 125)+4420}
+This table below lists the cost (in tickets) for each storage upgrade and each with the total/cumulated costs from all previous upgrades. ***Do note that this table only lists up until 120 slots, in which every upgrade after that cost 1,000 tickets. If you want to find the total cost for the upgrades beyond, you can use the following formula:*** \(([slots-112]\times 125)+4420\)
  ***(number of slots must not be less than 112)***
 
 <table class="mw-collapsible mw-collapsed article-table">
@@ -13142,4 +13125,3 @@ These groups are, as of the time of writing:
 * Stickers dropped from Wild Windy Bee does not specify the Wild variant, only showing it as Windy Bee in the notification.
 * Stickers like TNT and Triple Exclamation will always spawn at the field relating to the player's most recent and relevant activities (Example: Triple Exclamation will Always spawn at the field that was rolled 3 times in a row).
 
-zh-tw:貼紙

@@ -133,4 +133,3 @@ tags: ["Pages with broken file links", "Bees", "Legendary"]
 </tbody></table>
 
 The following audio plays when a legendary bee notification pops up:
-zh-tw:蜜蜂/傳說蜂

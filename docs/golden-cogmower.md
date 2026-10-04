@@ -13,12 +13,6 @@ tags: ["Mobs", "Pages with broken file links", "Robo Bear Challenge", "Robo Bear
 <h3 class="pi-data-label pi-secondary-font">Location</h3>
 <div class="pi-data-value pi-font"><a href="clover-field.html">Clover Field</a>, <a href="pineapple-patch.html">Pineapple Patch</a>, <a href="pumpkin-patch.html">Pumpkin Patch</a> or <a href="mountain-top-field.html">Mountain Top Field</a> while the <a href="robo-bear-challenge.html">Robo Bear Challenge</a> is active.</div>
 </div>
-<section class="pi-item pi-group pi-border-color">
-<p>@@BLOCO0@@</p>
-</section>
-<section class="pi-item pi-group pi-border-color">
-<p>@@BLOCO1@@</p>
-</section>
 </aside>
 
 A **Golden Cogmower** is a mob that appears during [Robo Bear's Challenge](robo-bear-challenge.md), known for its distinct golden and bronze accents, which separates itself from its much more common counterpart, the [Cogmower](cogmower.md). They are the rarest mob type that appears in Robo Bear Challenge, only spawning a total of 3 times:

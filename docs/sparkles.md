@@ -39,4 +39,3 @@ The largest plants in the [Sunflower Field](sunflower-field.md), [Pineapple Patc
 
 1. ↑ [[1]](https://discord.com/channels/427553293862961153/427553293862961155/457220154799947808) Discord message from Onett
 
-zh-tw:火花

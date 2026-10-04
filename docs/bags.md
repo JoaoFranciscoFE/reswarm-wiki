@@ -167,4 +167,3 @@ This is a list of all 12 bags currently in the game:
 <td><a href="coconut-cave.html">Coconut Cave</a>
 </td></tr></tbody></table>
 
-zh-tw:背包

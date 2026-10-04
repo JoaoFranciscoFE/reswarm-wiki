@@ -5,7 +5,7 @@ tags: ["Pages with broken file links", "Inventory", "Items", "Waxes", "Consumabl
 
 # Waxes
 
-**Waxes** are Inventory Items that were added in the [2021-12-26](https://bee-swarm-simulator.fandom.com/wiki/Updates#2021-12-26) Update. They are used by players to modify the stats and abilities of [Beequips](beequip.md). There are currently 4 different Waxes, and each Wax can affect a Beequip differently. The player can only use up to 5 Waxes on a Beequip, so if the Player would like to use more Waxes on a Beequip, they must use a [Turpentine](turpentine.md) on the Beequip to remove the waxes. Doing this will change the stats back to the original ones the Beequip had. Waxes can also be used to craft [Planters](planter.md), [Tools](tools.md), and better waxes in the [Blender](blender.md).
+**Waxes** are Inventory Items that were added in the [2021-12-26](updates.md#2021-12-26) Update. They are used by players to modify the stats and abilities of [Beequips](beequip.md). There are currently 4 different Waxes, and each Wax can affect a Beequip differently. The player can only use up to 5 Waxes on a Beequip, so if the Player would like to use more Waxes on a Beequip, they must use a [Turpentine](turpentine.md) on the Beequip to remove the waxes. Doing this will change the stats back to the original ones the Beequip had. Waxes can also be used to craft [Planters](planter.md), [Tools](tools.md), and better waxes in the [Blender](blender.md).
 
 ## Wax Types
 

@@ -789,4 +789,3 @@ Puffshroom Blessing grants +1~10% of the following buffs for 3 hours depending o
 <td class="NavLinks NavLinksBasicOdd" colspan="2"><b><a href="chicks.html#Chick">Chick</a> • <a href="chicks.html#Hostage_Chick">Hostage Chick</a> • <a href="chicks.html#Spotted_Chick">Spotted Chick</a></b>
 </td></tr></tbody></table>
 
-zh-tw:Puffshroom

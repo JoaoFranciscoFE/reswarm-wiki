@@ -19,12 +19,6 @@ tags: ["Items", "Sprinklers", "Pages with broken file links"]
 <h3 class="pi-data-label pi-secondary-font">Description</h3>
 <div class="pi-data-value pi-font">Three gorgeous sprinklers with enormous range.</div>
 </div>
-<section class="pi-item pi-group pi-border-color">
-<p>@@BLOCO0@@</p>
-</section>
-<section class="pi-item pi-group pi-border-color">
-<p>@@BLOCO1@@</p>
-</section>
 </aside>
 
 The **Golden Gushers** are the 3rd tier [sprinkler](sprinklers.md) available for purchase in the [Badge Bearer's Guild](badge-bearer-s-guild.md). To unlock it, the player must obtain 10 different [Ace badges](badges.md). Once the player unlocks it, they can purchase it for 333,333,333 (~333.3 million) [honey](honey.md). Its description reads, "Three gorgeous sprinklers with enormous range."
@@ -226,4 +220,3 @@ When a sprinkler regenerates flowers, the following audio plays:
 </td></tr></tbody></table>
 </td></tr></tbody></table>
 
-zh-tw:黃金噴井

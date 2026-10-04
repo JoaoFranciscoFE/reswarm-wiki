@@ -32,4 +32,3 @@ Blue Brick Field|Blue Brick
 Red Brick Field|Red Brick
 White Brick Field|White Brick
 </tabview>
-zh-tw:田地

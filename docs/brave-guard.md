@@ -244,4 +244,3 @@ The **Brave Guard** is a guard purchasable in the [Pro Shop](pro-shop.md). It is
 </td></tr></tbody></table>
 </td></tr></tbody></table>
 
-zh-tw:勇敢護肩

@@ -19,12 +19,6 @@ tags: ["Items", "Sprinklers", "Pages with broken file links"]
 <h3 class="pi-data-label pi-secondary-font">Description</h3>
 <div class="pi-data-value pi-font">Two sprinklers which fire faster!</div>
 </div>
-<section class="pi-item pi-group pi-border-color">
-<p>@@BLOCO0@@</p>
-</section>
-<section class="pi-item pi-group pi-border-color">
-<p>@@BLOCO1@@</p>
-</section>
 </aside>
 
 The **Silver Soakers** are the 2nd lowest tier of [sprinkler](sprinklers.md) available for purchase in the [Badge Bearer's Guild](badge-bearer-s-guild.md). To unlock it, the player must obtain 10 different [Hotshot badges](badges.md). Once the player unlocks it, they can purchase it for 22,222,222 (~22.2 million) [honey](honey.md). Its description reads, "Two sprinklers which fire faster!"
@@ -226,4 +220,3 @@ When a sprinkler regenerates flowers, the following audio plays:
 </td></tr></tbody></table>
 </td></tr></tbody></table>
 
-zh-tw:白銀浸泡器

@@ -257,4 +257,3 @@ When performing a critical hit, there is a chance to perform a **Super-Crit** (p
 * Legendary Upgrades:
   * Pseudo-RNG: This upgrade gives x1.25 Super-Crit Power.
 
-zh-tw:爆擊

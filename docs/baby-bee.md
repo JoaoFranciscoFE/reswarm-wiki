@@ -71,7 +71,7 @@ Baby Bee likes the [Dandelion Field](dandelion-field.md), [Sunflower Field](sunf
 
 ### Abilities
 
-* **[[Baby Love]](ability-tokens.md#Baby_Love)** Grants x2 [Pollen](system-page.md#Pollen) and +50% Loot Luck for 30 seconds. Loot Luck increases your chance of obtaining prizes from defeating enemies.
+* **[Baby Love](ability-tokens.md#Baby_Love)** Grants x2 [Pollen](system-page.md#Pollen) and +50% Loot Luck for 30 seconds. Loot Luck increases your chance of obtaining prizes from defeating enemies.
 
 <table style="font-size:1.5vh; color:#000; width:100%; background:#fff; padding: 15px 0; border:none; color:#000; border-left:15px #2fa0fc solid">
 <tbody><tr>
@@ -485,4 +485,3 @@ Baby Bee likes the [Dandelion Field](dandelion-field.md), [Sunflower Field](sunf
 <td class="NavLinks NavLinksEvent"><b><span typeof="mw:Error mw:File"></span> <a href="bear-bee.html">Bear Bee</a> • <span typeof="mw:Error mw:File"></span> <a href="cobalt-bee.html">Cobalt Bee</a> • <span typeof="mw:Error mw:File"></span> <a href="crimson-bee.html">Crimson Bee</a> • <span typeof="mw:Error mw:File"></span> <a href="digital-bee.html">Digital Bee</a> • <span typeof="mw:Error mw:File"></span> <a href="festive-bee.html">Festive Bee</a> • <span typeof="mw:Error mw:File"></span> <a href="gummy-bee.html">Gummy Bee</a> • <span typeof="mw:Error mw:File"></span> <a href="photon-bee.html">Photon Bee</a> • <span typeof="mw:Error mw:File"></span> <a href="puppy-bee.html">Puppy Bee</a> • <span typeof="mw:Error mw:File"></span> <a href="tabby-bee.html">Tabby Bee</a> • <span typeof="mw:Error mw:File"></span> <a href="vicious-bee.html">Vicious Bee</a> • <span typeof="mw:Error mw:File"></span> <a href="windy-bee.html">Windy Bee</a></b>
 </td></tr></tbody></table>
 
-zh-tw:嬰兒蜂

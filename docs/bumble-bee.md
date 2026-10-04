@@ -71,7 +71,7 @@ Bumble Bee likes the [Blue Flower Field](blue-flower-field.md) and the [Stump Fi
 
 ### Abilities
 
-* **[[Blue Bomb]](ability-tokens.md#Bomb)** Collects 10 pollen from 13 surrounding blue [Flowers](flowers.md) (+10% pollen per lvl). Combine with other bombs to increase power.
+* **[Blue Bomb](ability-tokens.md#Bomb)** Collects 10 pollen from 13 surrounding blue [Flowers](flowers.md) (+10% pollen per lvl). Combine with other bombs to increase power.
 
 <table style="font-size:1.5vh; color:#000; width:100%; background:#fff; padding: 15px 0; border:none; color:#000; border-left:15px #2fa0fc solid">
 <tbody><tr>
@@ -474,4 +474,3 @@ Bumble Bee likes the [Blue Flower Field](blue-flower-field.md) and the [Stump Fi
 <td class="NavLinks NavLinksEvent"><b><span typeof="mw:Error mw:File"></span> <a href="bear-bee.html">Bear Bee</a> • <span typeof="mw:Error mw:File"></span> <a href="cobalt-bee.html">Cobalt Bee</a> • <span typeof="mw:Error mw:File"></span> <a href="crimson-bee.html">Crimson Bee</a> • <span typeof="mw:Error mw:File"></span> <a href="digital-bee.html">Digital Bee</a> • <span typeof="mw:Error mw:File"></span> <a href="festive-bee.html">Festive Bee</a> • <span typeof="mw:Error mw:File"></span> <a href="gummy-bee.html">Gummy Bee</a> • <span typeof="mw:Error mw:File"></span> <a href="photon-bee.html">Photon Bee</a> • <span typeof="mw:Error mw:File"></span> <a href="puppy-bee.html">Puppy Bee</a> • <span typeof="mw:Error mw:File"></span> <a href="tabby-bee.html">Tabby Bee</a> • <span typeof="mw:Error mw:File"></span> <a href="vicious-bee.html">Vicious Bee</a> • <span typeof="mw:Error mw:File"></span> <a href="windy-bee.html">Windy Bee</a></b>
 </td></tr></tbody></table>
 
-zh-tw:笨拙蜂

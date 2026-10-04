@@ -40,7 +40,7 @@ After the challenge ends, a message box pops out on the player's screen presenti
 <th>Guaranteed Rewards List
 </th></tr>
 <tr>
-<td><strong class="error"><span class="scribunto-error mw-scribunto-error-aec1c9ea">Lua error in Module:Item_image at line 88: Template error! There's no such file named File:Supreme Ant Amulet.png for Template:I.</span></strong> <a href="ant-amulet.html">Ant Amulet</a><br/>
+<td> <a href="ant-amulet.html">Ant Amulet</a><br/>
 <p><span typeof="mw:Error mw:File"></span><a href="royal-jelly.html"><span class="color-template color-template-royal-jelly color-template-background-clip">Royal Jellies</span></a><br/>
 <span typeof="mw:Error mw:File"></span><a href="honey.html"><span class="color-template color-template-honey">Honey</span></a>
 </p>

@@ -228,18 +228,7 @@ Combo Coconuts is granted by equipping the [Coconut Belt](coconut-belt.md).
 
 **Guiding Star** activates every 250th [Boost token](ability-tokens.md#Boost) collected, with a 5-minute cooldown. Additionally, it permanently grants 1.25x capacity.
 
-When activated, it summons a Guiding Star over 1 of the 5 fields the summoner has collected the least from for 10 minutes. The chance that a Guiding Star falls on a field depends on how much pollen the summoner has collected on said field relative to other fields. Specifically, the *n-th* least collected field has a 
-
-(
-6
-−
-n
-)
-
-/
-15
-{\displaystyle (6-n)/15}
- chance of being chosen.
+When activated, it summons a Guiding Star over 1 of the 5 fields the summoner has collected the least from for 10 minutes. The chance that a Guiding Star falls on a field depends on how much pollen the summoner has collected on said field relative to other fields. Specifically, the *n-th* least collected field has a \((6-n)/15\) chance of being chosen.
 
 The Guiding Star grants x2.5 [Pollen](system-page.md#Pollen), Convert Rate, and [Capacity](system-page.md#Capacity_Multiplier) to the player who summoned it, and x1.25 Pollen, Convert Rate, and Capacity to other players in that field. While active, the star pollinates 15 (+1 per Gifted Bee Type) flowers every 15 seconds. It will disappear if the player who summoned it leaves the server.
 
@@ -422,4 +411,3 @@ It allows the player to use their [Gumdrops](gumdrops.md) without losing any fro
 
 1. ↑ [[1]](https://discord.com/channels/427553293862961153/676148494276362260/1243135794789613610) Update log from Onett.
 
-zh-tw:被動技能

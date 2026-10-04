@@ -938,4 +938,3 @@ Ways to obtain a Windy Bee Egg:
 </td></tr></tbody></table>
 </td></tr></tbody></table>
 
-zh-tw:蜂卵

@@ -31,4 +31,3 @@ Pollination is the only method to achieve large and star flowers, as the highest
 * This is the only way to directly change flowers in a field.
 * Fuzzy Bee is the only bee in the game to pollinate flowers without a Beequip.
 
-zh-tw:授粉

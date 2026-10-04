@@ -73,9 +73,9 @@ Cobalt Bee likes the [Clover Field](clover-field.md) and the [Pine Tree Forest](
 
 ### Abilities
 
-* **[[Blue Pulse]](ability-tokens.md#Pulse)** Fires a pulse that hops between your blue bees, collecting pollen around them (+10% per Level). Power increases with each hop. If you own a Crimson Bee, fires a [Red Pulse](ability-tokens.md#Pulse) as well.
+* **[Blue Pulse](ability-tokens.md#Pulse)** Fires a pulse that hops between your blue bees, collecting pollen around them (+10% per Level). Power increases with each hop. If you own a Crimson Bee, fires a [Red Pulse](ability-tokens.md#Pulse) as well.
   * If Gifted, the pulse also causes bees to instantly convert pollen equal to 25% of the bee's Convert Amount (+25% per Field Boost stack).
-* **[[Blue Bomb Sync]](ability-tokens.md#Bomb_Sync)** Grants 10% Blue Pollen and Instant Blue Conversion allows [Blue Bombs](ability-tokens.md#Bomb) to collect from white [Flowers](flowers.md) for 30 sec. If red bomb sync is active, this applies to red flowers as well.
+* **[Blue Bomb Sync](ability-tokens.md#Bomb_Sync)** Grants 10% Blue Pollen and Instant Blue Conversion allows [Blue Bombs](ability-tokens.md#Bomb) to collect from white [Flowers](flowers.md) for 30 sec. If red bomb sync is active, this applies to red flowers as well.
 
 <table style="font-size:1.5vh; color:#000; width:100%; background:#fff; padding: 15px 0; border:none; color:#000; border-left:15px #2fa0fc solid">
 <tbody><tr>
@@ -450,4 +450,3 @@ Cobalt Bee likes the [Clover Field](clover-field.md) and the [Pine Tree Forest](
 <td class="NavLinks NavLinksEvent"><b><span typeof="mw:Error mw:File"></span> <a href="bear-bee.html">Bear Bee</a> • <span typeof="mw:Error mw:File"></span> <strong class="mw-selflink selflink">Cobalt Bee</strong> • <span typeof="mw:Error mw:File"></span> <a href="crimson-bee.html">Crimson Bee</a> • <span typeof="mw:Error mw:File"></span> <a href="digital-bee.html">Digital Bee</a> • <span typeof="mw:Error mw:File"></span> <a href="festive-bee.html">Festive Bee</a> • <span typeof="mw:Error mw:File"></span> <a href="gummy-bee.html">Gummy Bee</a> • <span typeof="mw:Error mw:File"></span> <a href="photon-bee.html">Photon Bee</a> • <span typeof="mw:Error mw:File"></span> <a href="puppy-bee.html">Puppy Bee</a> • <span typeof="mw:Error mw:File"></span> <a href="tabby-bee.html">Tabby Bee</a> • <span typeof="mw:Error mw:File"></span> <a href="vicious-bee.html">Vicious Bee</a> • <span typeof="mw:Error mw:File"></span> <a href="windy-bee.html">Windy Bee</a></b>
 </td></tr></tbody></table>
 
-zh-tw:鈷藍蜂

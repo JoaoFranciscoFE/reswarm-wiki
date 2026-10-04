@@ -11,15 +11,6 @@ tags: ["Mobs", "Ant Challenge"]
 <h3 class="pi-data-label pi-secondary-font">Location</h3>
 <div class="pi-data-value pi-font"><a href="ant-field.html">Ant Field</a> while the <a href="ant-challenge.html">Ant Challenge</a> is active.</div>
 </div>
-<section class="pi-item pi-group pi-border-color">
-<p>@@BLOCO0@@</p>
-</section>
-<section class="pi-item pi-group pi-border-color">
-<p>@@BLOCO1@@</p>
-</section>
-<section class="pi-item pi-group pi-border-color">
-<p>@@BLOCO2@@</p>
-</section>
 </aside>
 
 *Not to be confused with [Ants](ants.md), the family of mobs that includes Ants along with the other ant types.*
@@ -127,7 +118,7 @@ They are by far the least threatening of the five ant types, as they are often e
 
 * Ants move in predetermined straight lines and are quite slow. This enables to player to easily dodge any coming their way.
 * Standing near the ant will allow your bees to quickly target the ant to quickly deal damage and defeat it.
-* Ants will come out in groups and they could overwhelm the player if they are collecting pollen quickly to advance to the next waves. [Vicious Bee](vicious-bee.md) and [Windy Bee](windy-bee.md) provide excellent crowd control with their [Impale](https://bee-swarm-simulator.fandom.com/wiki/Ability_Tokens?so=search#Impale) and [Tornado](https://bee-swarm-simulator.fandom.com/wiki/Ability_Tokens?so=search#Tornado) abilities which could greatly help counter the large amounts of Regular Ants landing on the field. [Digital Bee](digital-bee.md) can also stun many ants at once and allow them to take extra damage via [Mind Hack](ability-tokens.md#Mind_Hack).
+* Ants will come out in groups and they could overwhelm the player if they are collecting pollen quickly to advance to the next waves. [Vicious Bee](vicious-bee.md) and [Windy Bee](windy-bee.md) provide excellent crowd control with their [Impale](ability-tokens.md#Impale) and [Tornado](ability-tokens.md#Tornado) abilities which could greatly help counter the large amounts of Regular Ants landing on the field. [Digital Bee](digital-bee.md) can also stun many ants at once and allow them to take extra damage via [Mind Hack](ability-tokens.md#Mind_Hack).
 
 ## Gallery
 

@@ -15,7 +15,7 @@ The community encyclopedia for **[Re://:Swarm](re-swarm.md)** – hatch bees, co
 
 📜 [Quests](quests.md)
 
-🐻 Bears
+🐻 [Bears](quest-givers.md)
 
 🌻 [Fields](fields.md)
 
@@ -30,8 +30,6 @@ The community encyclopedia for **[Re://:Swarm](re-swarm.md)** – hatch bees, co
 ## New to the game?
 
 Start with the [Tutorial](tutorial.md), learn how your [hive](hive.md) works, and check out which [bees](bees.md) to hatch first. Then visit the bears around the map to get your first [quests](quests.md)!
-
-Advertisement
 
 ## About
 

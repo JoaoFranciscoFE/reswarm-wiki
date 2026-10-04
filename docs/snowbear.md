@@ -19,12 +19,6 @@ The following content has been removed from the game. The contents below may be 
 <h3 class="pi-data-label pi-secondary-font">Respawns Every</h3>
 <div class="pi-data-value pi-font">90 minutes (when summoned)</div>
 </div>
-<section class="pi-item pi-group pi-border-color">
-<p>@@BLOCO0@@</p>
-</section>
-<section class="pi-item pi-group pi-border-color">
-<p>@@BLOCO1@@</p>
-</section>
 </aside>
 
 **Snowbear** is a mini-boss that can be summoned every 1 hour and 30 minutes at the [Snowbear Summoner](snowbear-summoner.md) after completing [Panda Bear](panda-bear.md)'s Beesmas quest. When summoned, it spawns in the [Spider Field](spider-field.md), and players have 60 seconds (1 minute) to defeat it. If 60 seconds has passed without enough damage done to it, it will despawn (melt). All players' bees can attack another player's Snowbear, but the player that summoned it would receive more rewards.

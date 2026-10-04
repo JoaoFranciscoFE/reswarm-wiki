@@ -71,18 +71,18 @@ Tadpole Bee likes the [Pine Tree Forest](pine-tree-forest.md) and [Stump Field](
 
 ### Abilities
 
-* **[[Blue Boost]](ability-tokens.md#Blue_Boost)** Grants x1.2 pollen from Blue [Flowers](flowers.md) for 15 seconds. Stacks up to 10 times.
-* **[[Summon Frog]](ability-tokens.md#Summon_Frog)** Summons a [frog](frog.md) that lasts for 20s (+2s per Level). Frogs can make [bubbles](bubble.md) after every few hops, or after collecting a token with their tongue. They also attack nearby enemies with attack equal to 5x this bee's attack.
+* **[Blue Boost](ability-tokens.md#Blue_Boost)** Grants x1.2 pollen from Blue [Flowers](flowers.md) for 15 seconds. Stacks up to 10 times.
+* **[Summon Frog](ability-tokens.md#Summon_Frog)** Summons a [frog](frog.md) that lasts for 20s (+2s per Level). Frogs can make [bubbles](bubble.md) after every few hops, or after collecting a token with their tongue. They also attack nearby enemies with attack equal to 5x this bee's attack.
   * If Gifted, this has a 10% (+2% per Level) chance to summon a Gifted Frog instead, which has increased tongue range, Token gathering and attack speed, 50% more attack, has a chance to summon [golden bubbles](bubble.md#Golden_Bubbles), and can hit [balloons](balloon.md) with its tongue to convert pollen to Honey Tokens.
-* **[[🌟Gifted Ability: Baby Love]](ability-tokens.md#Baby_Love)** Grants x2 pollen and +50% [Loot Luck](loot-luck.md) for 30 seconds. Loot Luck increases your chance of obtaining prizes from defeating enemies.
+* **[🌟Gifted Ability: Baby Love](ability-tokens.md#Baby_Love)** Grants x2 pollen and +50% [Loot Luck](loot-luck.md) for 30 seconds. Loot Luck increases your chance of obtaining prizes from defeating enemies.
 * **[[Passive:](passive-abilities.md#Gathering_Bubbles) [Gathering Bubbles+]](bubble.md#Gathering_Bubbles)** 65% chance (85% if Gifted) to spawn a Bubble when gathering. If any player touches it, it pops, collecting 4 Red/6 White/8 Blue pollen (+15% per Gifted blue bee type, +5% per bee level) from 29 nearby flowers and causing them to replenish.
 
 <table style="font-size:1.5vh; color:#000; width:100%; background:#fff; padding: 15px 0; border:none; color:#000; border-left:15px #000 solid">
 <tbody><tr>
 <td style="width:100%; text-align:center">
-<p>Tadpole Bee has a base pollen collection of <b>10 <strong class="error"><span class="scribunto-error mw-scribunto-error-dd44d918">Lua error in Module:Item_image at line 88: Template error! There's no such file named File:White Boost Token.png for Template:I.</span></strong></b> in <b>6 seconds</b>. 
-</p><p>That's equivalent to 1.66667 <strong class="error"><span class="scribunto-error mw-scribunto-error-dd44d918">Lua error in Module:Item_image at line 88: Template error! There's no such file named File:White Boost Token.png for Template:I.</span></strong> per second. 
-</p><p>(<b>20 <strong class="error"><span class="scribunto-error mw-scribunto-error-dd44d918">Lua error in Module:Item_image at line 88: Template error! There's no such file named File:White Boost Token.png for Template:I.</span></strong></b> in <b>6 seconds</b> with x2 Bee Pollen gamepass)
+<p>Tadpole Bee has a base pollen collection of <b>10 </b> in <b>6 seconds</b>. 
+</p><p>That's equivalent to 1.66667  per second. 
+</p><p>(<b>20 </b> in <b>6 seconds</b> with x2 Bee Pollen gamepass)
 </p>
 </td></tr></tbody></table>
 
@@ -418,4 +418,3 @@ Tadpole Bee likes the [Pine Tree Forest](pine-tree-forest.md) and [Stump Field](
 <td class="NavLinks NavLinksEvent"><b><span typeof="mw:Error mw:File"></span> <a href="bear-bee.html">Bear Bee</a> • <span typeof="mw:Error mw:File"></span> <a href="cobalt-bee.html">Cobalt Bee</a> • <span typeof="mw:Error mw:File"></span> <a href="crimson-bee.html">Crimson Bee</a> • <span typeof="mw:Error mw:File"></span> <a href="digital-bee.html">Digital Bee</a> • <span typeof="mw:Error mw:File"></span> <a href="festive-bee.html">Festive Bee</a> • <span typeof="mw:Error mw:File"></span> <a href="gummy-bee.html">Gummy Bee</a> • <span typeof="mw:Error mw:File"></span> <a href="photon-bee.html">Photon Bee</a> • <span typeof="mw:Error mw:File"></span> <a href="puppy-bee.html">Puppy Bee</a> • <span typeof="mw:Error mw:File"></span> <a href="tabby-bee.html">Tabby Bee</a> • <span typeof="mw:Error mw:File"></span> <a href="vicious-bee.html">Vicious Bee</a> • <span typeof="mw:Error mw:File"></span> <a href="windy-bee.html">Windy Bee</a></b>
 </td></tr></tbody></table>
 
-zh-tw:蝌蚪蜂

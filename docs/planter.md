@@ -632,4 +632,3 @@ x1.02 - x1.10 <a href="system-page.html#Bee_Attack">Bee Attack</a>
 </td></tr></tbody></table>
 </td></tr></tbody></table>
 
-zh-tw:盆栽

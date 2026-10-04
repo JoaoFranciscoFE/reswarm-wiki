@@ -46,30 +46,7 @@ The following formula shows how much capacity multiplier a player gets in a fiel
 Let x equal the colored capacity multiplier.  
 Let y equal the percentage of that [pollen](pollen.md) type in the field.
 
-Capacity multiplier in the field =
-
-{{
-
-x
- 
-−
- 
-1
-}
- 
-×
- 
-{
-
-y
-100
-}
- 
-+
- 
-1
-{\displaystyle {x~-~1\}~\times ~\{{\frac {y}{100}}\}~+~1}}
-}
+Capacity multiplier in the field = \((x-1)\times \frac{y}{100}+1\)
 
 ## Trivia
 

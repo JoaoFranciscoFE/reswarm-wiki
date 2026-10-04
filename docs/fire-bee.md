@@ -71,7 +71,7 @@ Fire Bee likes the [Mushroom Field](mushroom-field.md), and [Strawberry Field](s
 
 ### Abilities
 
-* **[[Red Bomb+]](ability-tokens.md#Bomb)** Collects 10 pollen from 29 surrounding red [Flowers](flowers.md) (+10% pollen per Level). Combo with other bombs to increase power.
+* **[Red Bomb+](ability-tokens.md#Bomb)** Collects 10 pollen from 29 surrounding red [Flowers](flowers.md) (+10% pollen per Level). Combo with other bombs to increase power.
 * **[[Passive:](passive-abilities.md#Gathering_Flames) [Gathering Flames]](flame.md#Gathering_Flames)** 35% chance (50% if Gifted) to spawn a [Flame](flame.md) when gathering. Flames last 4 seconds. Each second they deal 10 damage (+25% of the bee's [base attack](bee-attack.md)) to nearby enemies and collect [5 Red / 3 White / 2 Blue] pollen (+10% per bee level) from 9 flowers. Standing near a flame grants Flame Heat, which increases [Red Pollen](system-page.md#Red_Pollen) (between x1.2 and x2) and [Bee Attack](bee-attack.md) (between +5% to +25%).
 
 <table style="font-size:1.5vh; color:#000; width:100%; background:#fff; padding: 15px 0; border:none; color:#000; border-left:15px #af2136 solid">
@@ -470,4 +470,3 @@ Fire Bee likes the [Mushroom Field](mushroom-field.md), and [Strawberry Field](s
 <td class="NavLinks NavLinksEvent"><b><span typeof="mw:Error mw:File"></span> <a href="bear-bee.html">Bear Bee</a> • <span typeof="mw:Error mw:File"></span> <a href="cobalt-bee.html">Cobalt Bee</a> • <span typeof="mw:Error mw:File"></span> <a href="crimson-bee.html">Crimson Bee</a> • <span typeof="mw:Error mw:File"></span> <a href="digital-bee.html">Digital Bee</a> • <span typeof="mw:Error mw:File"></span> <a href="festive-bee.html">Festive Bee</a> • <span typeof="mw:Error mw:File"></span> <a href="gummy-bee.html">Gummy Bee</a> • <span typeof="mw:Error mw:File"></span> <a href="photon-bee.html">Photon Bee</a> • <span typeof="mw:Error mw:File"></span> <a href="puppy-bee.html">Puppy Bee</a> • <span typeof="mw:Error mw:File"></span> <a href="tabby-bee.html">Tabby Bee</a> • <span typeof="mw:Error mw:File"></span> <a href="vicious-bee.html">Vicious Bee</a> • <span typeof="mw:Error mw:File"></span> <a href="windy-bee.html">Windy Bee</a></b>
 </td></tr></tbody></table>
 
-zh-tw:火焰蜂

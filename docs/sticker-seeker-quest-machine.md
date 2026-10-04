@@ -236,165 +236,20 @@ Past the 26th quests, the requirement is randomly generated.
 >
 > —speaker
 
-The amount of pollen required is equal to 
-
-P
-(
-X
-)
-=
-100000
-+
-99900000
-×
-
-Q
-(
-X
-)
-
-2.25
-+
-25000
-×
-(
-X
-−
-1
-)
-+
-Δ
-(
-X
-)
-{\displaystyle P(X)=100000+99900000\times {Q(X)}^{2.25}+25000\times (X-1)+\Delta (X)}
-, floored to the nearest 
-
-S
-(
-P
-(
-X
-)
-)
-{\displaystyle S(P(X))}
+The amount of pollen required is equal to \(P(X)=100000+99900000\times {Q(X)}^{2.25}+25000\times (X-1)+\Delta (X)\), floored to the nearest \(S(P(X))\)
 .
 
 * *X* represents the quest's rank, or the player's rank plus 1.
-* Q
-  (
-  X
-  )
-  {\displaystyle Q(X)}
-   is equal to 
-
-  X
-  −
-  1
-  499
-  {\displaystyle {\frac {X-1}{499}}}
-  , clamped between 0 and 1.
-* Δ
-  (
-  X
-  )
-  {\displaystyle \Delta(X)}
-   is equal to:
-  * *0* if 
-
-    X
-    ≤
-    500
-    {\displaystyle X\leq 500}
-  * 1000000
-    ×
-    (
-    X
-    −
-    500
-    )
-    {\displaystyle 1000000\times (X-500)}
-     otherwise
-* S
-  (
-  P
-  (
-  X
-  )
-  )
-  {\displaystyle S(P(X))}
-   is equal to:
-  * *50000* if 
-
-    P
-    (
-    X
-    )
-    ≥
-    1
-    ,
-    000
-    ,
-    000
-    {\displaystyle P(X)\geq 1,000,000}
-  * *25000* if 
-
-    500
-    ,
-    000
-    ≤
-    P
-    (
-    X
-    )
-    <
-    1
-    ,
-    000
-    ,
-    000
-    {\displaystyle 500,000\leq P(X)<1,000,000}
-  * *10000* if 
-
-    100
-    ,
-    000
-    ≤
-    P
-    (
-    X
-    )
-    <
-    500
-    ,
-    000
-    {\displaystyle 100,000\leq P(X)<500,000}
-  * *5000* if 
-
-    25
-    ,
-    000
-    ≤
-    P
-    (
-    X
-    )
-    <
-    100
-    ,
-    000
-    {\displaystyle 25,000\leq P(X)<100,000}
-  * *1000* if 
-
-    P
-    (
-    X
-    )
-    <
-    25
-    ,
-    000
-    {\displaystyle P(X)<25,000}
+* \(Q(X)\) is equal to \({\frac {X-1}{499}}\), clamped between 0 and 1.
+* \(\Delta(X)\) is equal to:
+  * *0* if \(X\leq 500\)
+  * \(1000000\times (X-500)\) otherwise
+* \(S(P(X))\) is equal to:
+  * *50000* if \(P(X)\geq 1,000,000\)
+  * *25000* if \(500,000\leq P(X)<1,000,000\)
+  * *10000* if \(100,000\leq P(X)<500,000\)
+  * *5000* if \(25,000\leq P(X)<100,000\)
+  * *1000* if \(P(X)<25,000\)
 
 ### Other requirements
 
@@ -499,84 +354,16 @@ On every 10th quest, there is also an extra requirement:
 <table class="article-table">
 <tbody><tr>
 <td>
-<ul><li>Add <span class="mwe-math-element"><span class="mwe-math-mathml-inline mwe-math-mathml-a11y" style="display: none;"><math alttext="{\displaystyle \left\lfloor {\frac {X+1}{2}}\right\rfloor }" xmlns="http://www.w3.org/1998/Math/MathML">
-<semantics>
-<mrow class="MJX-TeXAtom-ORD">
-<mstyle displaystyle="true" scriptlevel="0">
-<mrow>
-<mo>⌊</mo>
-<mrow class="MJX-TeXAtom-ORD">
-<mfrac>
-<mrow>
-<mi>X</mi>
-<mo>+</mo>
-<mn>1</mn>
-</mrow>
-<mn>2</mn>
-</mfrac>
-</mrow>
-<mo>⌋</mo>
-</mrow>
-</mstyle>
-</mrow>
-<annotation encoding="application/x-tex">{\displaystyle \left\lfloor {\frac {X+1}{2}}\right\rfloor }</annotation>
-</semantics>
-</math></span></span> Stickers to the <a href="sticker-stack.html">Sticker Stack</a>.</li></ul>
+<ul><li>Add <span class="arithmatex">\(\left\lfloor {\frac {X+1}{2}}\right\rfloor\)</span> Stickers to the <a href="sticker-stack.html">Sticker Stack</a>.</li></ul>
 </td></tr></tbody></table>
 
 ## Rewards
 
 Every quest reward always includes (assuming X is the quest's rank, clamped between 1 and 100000):
 
-* ⌊
-
-  P
-  (
-  X
-  )
-  ×
-  2
-  50000
-  ⌋
-  ×
-  50000
-  {\displaystyle \left\lfloor {\frac {P(X)\times 2}{50000}}\right\rfloor \times 50000}
-   [Honey](honey.md), where 
-
-  P
-  (
-  X
-  )
-  {\displaystyle P(X)}
-   is the amount of pollen the player collected to finish the quest
-* min
-  (
-  1
-  +
-
-  ⌊
-
-  X
-  100
-  ⌋
-  ,
-  5
-  )
-  {\displaystyle \min(1+\left\lfloor {\frac {X}{100}}\right\rfloor ,5)}
-   [Tickets](ticket.md)
-* max
-  (
-
-  ⌊
-
-  X
-  4
-  ⌋
-  ,
-  1
-  )
-  {\displaystyle \max(\left\lfloor {\frac {X}{4}}\right\rfloor ,1)}
-   [Royal Jellies](royal-jelly.md)
+* \(\left\lfloor {\frac {P(X)\times 2}{50000}}\right\rfloor \times 50000\) [Honey](honey.md), where \(P(X)\) is the amount of pollen the player collected to finish the quest
+* \(\min(1+\left\lfloor {\frac {X}{100}}\right\rfloor ,5)\) [Tickets](ticket.md)
+* \(\max(\left\lfloor {\frac {X}{4}}\right\rfloor ,1)\) [Royal Jellies](royal-jelly.md)
 * One of:
   * 1 [Soft Wax](soft-wax.md)
   * 1 [Neonberry](neonberry.md)
@@ -587,26 +374,7 @@ Every quest reward always includes (assuming X is the quest's rank, clamped betw
 
 There are also multiple quest milestones, which gives extra rewards like certain Stickers, [Eggs](egg.md) and [Sticker Planters](sticker-planter.md) for completing them.
 
-If a [Sticker Planter](sticker-planter.md) is not guaranteed from reaching a quest milestone, the player also has a 2 to 5% chance to receive a [Sticker Planter](sticker-planter.md) from the quest. The chance increases quadratically from rank 1 to 500, where it maxes out at 5%. More specifically, the formula for determining the probability of a quest giving the player a [Sticker Planter](sticker-planter.md) is 
-
-2
-%
-+
-3
-%
-∗
-
-(
-
-X
-−
-1
-499
-)
-
-2
-{\displaystyle 2\%+3\%\*{({\frac {X-1}{499}})}^{2}}
-, where X is the quest's rank.
+If a [Sticker Planter](sticker-planter.md) is not guaranteed from reaching a quest milestone, the player also has a 2 to 5% chance to receive a [Sticker Planter](sticker-planter.md) from the quest. The chance increases quadratically from rank 1 to 500, where it maxes out at 5%. More specifically, the formula for determining the probability of a quest giving the player a [Sticker Planter](sticker-planter.md) is \(2\%+3\%\times {({\frac {X-1}{499}})}^{2}\), where X is the quest's rank.
 
 ### Sticker reward
 
@@ -916,60 +684,7 @@ Show/hide table
 <td colspan="2">0.007
 </td></tr></tbody></table>
 
-* To calculate a sticker's true weight, the following formula is used: 
-
-  w
-  e
-  i
-  g
-  h
-  t
-  =
-  l
-  e
-  f
-  t
-  B
-  o
-  u
-  n
-  d
-  +
-  (
-  r
-  i
-  g
-  h
-  t
-  B
-  o
-  u
-  n
-  d
-  −
-  l
-  e
-  f
-  t
-  B
-  o
-  u
-  n
-  d
-  )
-  ×
-  min
-  (
-
-  X
-  −
-  1
-  499
-  ,
-  1
-  )
-  {\displaystyle weight=leftBound+(rightBound-leftBound)\times \min({\frac {X-1}{499}},1)}
-  , where X is the quest's rank.
+* To calculate a sticker's true weight, the following formula is used: \(weight=leftBound+(rightBound-leftBound)\times \min({\frac {X-1}{499}},1)\), where X is the quest's rank.
 * The probability of getting a sticker can now be found by dividing the sticker's true weight by the sum of the true weight of every sticker in the pool.
 
 Below is a table containing the probability of getting a certain sticker at some quest milestones, ignoring guaranteed sticker milestones. For a more detailed table, see the [linked subarticle](sticker-seeker-quest-machine-probability.md).

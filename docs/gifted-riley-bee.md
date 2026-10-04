@@ -53,678 +53,124 @@ For the requirements below, *X* represents the number of quests the player has c
 <td>Riley Bee: Abilities
 </td>
 <td>
-<ul><li>Collect <span class="mwe-math-element"><span class="mwe-math-mathml-inline mwe-math-mathml-a11y" style="display: none;"><math alttext="{\displaystyle 1000+15\times (X-1)}" xmlns="http://www.w3.org/1998/Math/MathML">
-<semantics>
-<mrow class="MJX-TeXAtom-ORD">
-<mstyle displaystyle="true" scriptlevel="0">
-<mn>1000</mn>
-<mo>+</mo>
-<mn>15</mn>
-<mo>×<!-- × --></mo>
-<mo stretchy="false">(</mo>
-<mi>X</mi>
-<mo>−<!-- − --></mo>
-<mn>1</mn>
-<mo stretchy="false">)</mo>
-</mstyle>
-</mrow>
-<annotation encoding="application/x-tex">{\displaystyle 1000+15\times (X-1)}</annotation>
-</semantics>
-</math></span></span> Red <a href="ability-tokens.html">Ability Tokens</a>.</li></ul>
+<ul><li>Collect <span class="arithmatex">\(1000+15\times (X-1)\)</span> Red <a href="ability-tokens.html">Ability Tokens</a>.</li></ul>
 </td></tr>
 <tr>
 <td>Riley Bee: Booster
 </td>
 <td>
-<ul><li>Collect <span class="mwe-math-element"><span class="mwe-math-mathml-inline mwe-math-mathml-a11y" style="display: none;"><math alttext="{\displaystyle 500+5\times (X-1)}" xmlns="http://www.w3.org/1998/Math/MathML">
-<semantics>
-<mrow class="MJX-TeXAtom-ORD">
-<mstyle displaystyle="true" scriptlevel="0">
-<mn>500</mn>
-<mo>+</mo>
-<mn>5</mn>
-<mo>×<!-- × --></mo>
-<mo stretchy="false">(</mo>
-<mi>X</mi>
-<mo>−<!-- − --></mo>
-<mn>1</mn>
-<mo stretchy="false">)</mo>
-</mstyle>
-</mrow>
-<annotation encoding="application/x-tex">{\displaystyle 500+5\times (X-1)}</annotation>
-</semantics>
-</math></span></span> Red Boost Tokens.</li>
+<ul><li>Collect <span class="arithmatex">\(500+5\times (X-1)\)</span> Red Boost Tokens.</li>
 <li>Use the <a href="red-field-booster.html">Red Field Booster</a> 1 Time.</li></ul>
 </td></tr>
 <tr>
 <td>Riley Bee: Clean-up
 </td>
 <td>
-<ul><li>Collect <span class="mwe-math-element"><span class="mwe-math-mathml-inline mwe-math-mathml-a11y" style="display: none;"><math alttext="{\displaystyle 250,000\times X}" xmlns="http://www.w3.org/1998/Math/MathML">
-<semantics>
-<mrow class="MJX-TeXAtom-ORD">
-<mstyle displaystyle="true" scriptlevel="0">
-<mn>250</mn>
-<mo>,</mo>
-<mn>000</mn>
-<mo>×<!-- × --></mo>
-<mi>X</mi>
-</mstyle>
-</mrow>
-<annotation encoding="application/x-tex">{\displaystyle 250,000\times X}</annotation>
-</semantics>
-</math></span></span> <a href="goo.html">Goo</a> from the <a href="mushroom-field.html">Mushroom Field</a>.</li>
-<li>Collect <span class="mwe-math-element"><span class="mwe-math-mathml-inline mwe-math-mathml-a11y" style="display: none;"><math alttext="{\displaystyle 250,000\times X}" xmlns="http://www.w3.org/1998/Math/MathML">
-<semantics>
-<mrow class="MJX-TeXAtom-ORD">
-<mstyle displaystyle="true" scriptlevel="0">
-<mn>250</mn>
-<mo>,</mo>
-<mn>000</mn>
-<mo>×<!-- × --></mo>
-<mi>X</mi>
-</mstyle>
-</mrow>
-<annotation encoding="application/x-tex">{\displaystyle 250,000\times X}</annotation>
-</semantics>
-</math></span></span> Goo from the <a href="strawberry-field.html">Strawberry Field</a>.</li>
-<li>Collect <span class="mwe-math-element"><span class="mwe-math-mathml-inline mwe-math-mathml-a11y" style="display: none;"><math alttext="{\displaystyle 250,000\times X}" xmlns="http://www.w3.org/1998/Math/MathML">
-<semantics>
-<mrow class="MJX-TeXAtom-ORD">
-<mstyle displaystyle="true" scriptlevel="0">
-<mn>250</mn>
-<mo>,</mo>
-<mn>000</mn>
-<mo>×<!-- × --></mo>
-<mi>X</mi>
-</mstyle>
-</mrow>
-<annotation encoding="application/x-tex">{\displaystyle 250,000\times X}</annotation>
-</semantics>
-</math></span></span> Goo from the <a href="rose-field.html">Rose Field</a>.</li></ul>
+<ul><li>Collect <span class="arithmatex">\(250,000\times X\)</span> <a href="goo.html">Goo</a> from the <a href="mushroom-field.html">Mushroom Field</a>.</li>
+<li>Collect <span class="arithmatex">\(250,000\times X\)</span> Goo from the <a href="strawberry-field.html">Strawberry Field</a>.</li>
+<li>Collect <span class="arithmatex">\(250,000\times X\)</span> Goo from the <a href="rose-field.html">Rose Field</a>.</li></ul>
 </td></tr>
 <tr>
 <td>Riley Bee: Extraction
 </td>
 <td>
-<ul><li>Collect <span class="mwe-math-element"><span class="mwe-math-mathml-inline mwe-math-mathml-a11y" style="display: none;"><math alttext="{\displaystyle 1,000,000\times X}" xmlns="http://www.w3.org/1998/Math/MathML">
-<semantics>
-<mrow class="MJX-TeXAtom-ORD">
-<mstyle displaystyle="true" scriptlevel="0">
-<mn>1</mn>
-<mo>,</mo>
-<mn>000</mn>
-<mo>,</mo>
-<mn>000</mn>
-<mo>×<!-- × --></mo>
-<mi>X</mi>
-</mstyle>
-</mrow>
-<annotation encoding="application/x-tex">{\displaystyle 1,000,000\times X}</annotation>
-</semantics>
-</math></span></span> Red <a href="pollen.html">Pollen</a> from the <a href="clover-field.html">Clover Field</a>.</li>
-<li>Collect <span class="mwe-math-element"><span class="mwe-math-mathml-inline mwe-math-mathml-a11y" style="display: none;"><math alttext="{\displaystyle 1,000,000\times X}" xmlns="http://www.w3.org/1998/Math/MathML">
-<semantics>
-<mrow class="MJX-TeXAtom-ORD">
-<mstyle displaystyle="true" scriptlevel="0">
-<mn>1</mn>
-<mo>,</mo>
-<mn>000</mn>
-<mo>,</mo>
-<mn>000</mn>
-<mo>×<!-- × --></mo>
-<mi>X</mi>
-</mstyle>
-</mrow>
-<annotation encoding="application/x-tex">{\displaystyle 1,000,000\times X}</annotation>
-</semantics>
-</math></span></span> Red Pollen from the <a href="cactus-field.html">Cactus Field</a>.</li>
-<li>Collect <span class="mwe-math-element"><span class="mwe-math-mathml-inline mwe-math-mathml-a11y" style="display: none;"><math alttext="{\displaystyle 1,000,000\times X}" xmlns="http://www.w3.org/1998/Math/MathML">
-<semantics>
-<mrow class="MJX-TeXAtom-ORD">
-<mstyle displaystyle="true" scriptlevel="0">
-<mn>1</mn>
-<mo>,</mo>
-<mn>000</mn>
-<mo>,</mo>
-<mn>000</mn>
-<mo>×<!-- × --></mo>
-<mi>X</mi>
-</mstyle>
-</mrow>
-<annotation encoding="application/x-tex">{\displaystyle 1,000,000\times X}</annotation>
-</semantics>
-</math></span></span> Red Pollen from the <a href="pumpkin-patch.html">Pumpkin Patch</a>.</li></ul>
+<ul><li>Collect <span class="arithmatex">\(1,000,000\times X\)</span> Red <a href="pollen.html">Pollen</a> from the <a href="clover-field.html">Clover Field</a>.</li>
+<li>Collect <span class="arithmatex">\(1,000,000\times X\)</span> Red Pollen from the <a href="cactus-field.html">Cactus Field</a>.</li>
+<li>Collect <span class="arithmatex">\(1,000,000\times X\)</span> Red Pollen from the <a href="pumpkin-patch.html">Pumpkin Patch</a>.</li></ul>
 </td></tr>
 <tr>
 <td>Riley Bee: Goo
 </td>
 <td>
-<ul><li>Collect <span class="mwe-math-element"><span class="mwe-math-mathml-inline mwe-math-mathml-a11y" style="display: none;"><math alttext="{\displaystyle 2,500,000\times X}" xmlns="http://www.w3.org/1998/Math/MathML">
-<semantics>
-<mrow class="MJX-TeXAtom-ORD">
-<mstyle displaystyle="true" scriptlevel="0">
-<mn>2</mn>
-<mo>,</mo>
-<mn>500</mn>
-<mo>,</mo>
-<mn>000</mn>
-<mo>×<!-- × --></mo>
-<mi>X</mi>
-</mstyle>
-</mrow>
-<annotation encoding="application/x-tex">{\displaystyle 2,500,000\times X}</annotation>
-</semantics>
-</math></span></span> Goo from Red Flowers.</li></ul>
+<ul><li>Collect <span class="arithmatex">\(2,500,000\times X\)</span> Goo from Red Flowers.</li></ul>
 </td></tr>
 <tr>
 <td>Riley Bee: Medley
 </td>
 <td>
-<ul><li>Collect <span class="mwe-math-element"><span class="mwe-math-mathml-inline mwe-math-mathml-a11y" style="display: none;"><math alttext="{\displaystyle 250+5\times (X-1)}" xmlns="http://www.w3.org/1998/Math/MathML">
-<semantics>
-<mrow class="MJX-TeXAtom-ORD">
-<mstyle displaystyle="true" scriptlevel="0">
-<mn>250</mn>
-<mo>+</mo>
-<mn>5</mn>
-<mo>×<!-- × --></mo>
-<mo stretchy="false">(</mo>
-<mi>X</mi>
-<mo>−<!-- − --></mo>
-<mn>1</mn>
-<mo stretchy="false">)</mo>
-</mstyle>
-</mrow>
-<annotation encoding="application/x-tex">{\displaystyle 250+5\times (X-1)}</annotation>
-</semantics>
-</math></span></span> Red Ability Tokens.</li>
-<li>Collect <span class="mwe-math-element"><span class="mwe-math-mathml-inline mwe-math-mathml-a11y" style="display: none;"><math alttext="{\displaystyle 500,000\times X}" xmlns="http://www.w3.org/1998/Math/MathML">
-<semantics>
-<mrow class="MJX-TeXAtom-ORD">
-<mstyle displaystyle="true" scriptlevel="0">
-<mn>500</mn>
-<mo>,</mo>
-<mn>000</mn>
-<mo>×<!-- × --></mo>
-<mi>X</mi>
-</mstyle>
-</mrow>
-<annotation encoding="application/x-tex">{\displaystyle 500,000\times X}</annotation>
-</semantics>
-</math></span></span> Goo from the Strawberry Field.</li>
-<li>Collect <span class="mwe-math-element"><span class="mwe-math-mathml-inline mwe-math-mathml-a11y" style="display: none;"><math alttext="{\displaystyle 3,000,000\times X}" xmlns="http://www.w3.org/1998/Math/MathML">
-<semantics>
-<mrow class="MJX-TeXAtom-ORD">
-<mstyle displaystyle="true" scriptlevel="0">
-<mn>3</mn>
-<mo>,</mo>
-<mn>000</mn>
-<mo>,</mo>
-<mn>000</mn>
-<mo>×<!-- × --></mo>
-<mi>X</mi>
-</mstyle>
-</mrow>
-<annotation encoding="application/x-tex">{\displaystyle 3,000,000\times X}</annotation>
-</semantics>
-</math></span></span> Pollen from the Rose Field.</li></ul>
+<ul><li>Collect <span class="arithmatex">\(250+5\times (X-1)\)</span> Red Ability Tokens.</li>
+<li>Collect <span class="arithmatex">\(500,000\times X\)</span> Goo from the Strawberry Field.</li>
+<li>Collect <span class="arithmatex">\(3,000,000\times X\)</span> Pollen from the Rose Field.</li></ul>
 </td></tr>
 <tr>
 <td>Riley Bee: Mushrooms
 </td>
 <td>
-<ul><li>Collect <span class="mwe-math-element"><span class="mwe-math-mathml-inline mwe-math-mathml-a11y" style="display: none;"><math alttext="{\displaystyle 3,000,000\times X}" xmlns="http://www.w3.org/1998/Math/MathML">
-<semantics>
-<mrow class="MJX-TeXAtom-ORD">
-<mstyle displaystyle="true" scriptlevel="0">
-<mn>3</mn>
-<mo>,</mo>
-<mn>000</mn>
-<mo>,</mo>
-<mn>000</mn>
-<mo>×<!-- × --></mo>
-<mi>X</mi>
-</mstyle>
-</mrow>
-<annotation encoding="application/x-tex">{\displaystyle 3,000,000\times X}</annotation>
-</semantics>
-</math></span></span> Pollen from the Mushroom Field.</li></ul>
+<ul><li>Collect <span class="arithmatex">\(3,000,000\times X\)</span> Pollen from the Mushroom Field.</li></ul>
 </td></tr>
 <tr>
 <td>Riley Bee: Petals
 </td>
 <td>
-<ul><li>Catch <span class="mwe-math-element"><span class="mwe-math-mathml-inline mwe-math-mathml-a11y" style="display: none;"><math alttext="{\displaystyle 250+10\times \left\lfloor {\frac {X-1}{4}}\right\rfloor }" xmlns="http://www.w3.org/1998/Math/MathML">
-<semantics>
-<mrow class="MJX-TeXAtom-ORD">
-<mstyle displaystyle="true" scriptlevel="0">
-<mn>250</mn>
-<mo>+</mo>
-<mn>10</mn>
-<mo>×<!-- × --></mo>
-<mrow>
-<mo>⌊</mo>
-<mrow class="MJX-TeXAtom-ORD">
-<mfrac>
-<mrow>
-<mi>X</mi>
-<mo>−<!-- − --></mo>
-<mn>1</mn>
-</mrow>
-<mn>4</mn>
-</mfrac>
-</mrow>
-<mo>⌋</mo>
-</mrow>
-</mstyle>
-</mrow>
-<annotation encoding="application/x-tex">{\displaystyle 250+10\times \left\lfloor {\frac {X-1}{4}}\right\rfloor }</annotation>
-</semantics>
-</math></span></span> <a href="bloom.html">Red Bloom Petals</a>.</li>
-<li>Catch <span class="mwe-math-element"><span class="mwe-math-mathml-inline mwe-math-mathml-a11y" style="display: none;"><math alttext="{\displaystyle 10+5\times \left\lfloor {\frac {X-1}{20}}\right\rfloor }" xmlns="http://www.w3.org/1998/Math/MathML">
-<semantics>
-<mrow class="MJX-TeXAtom-ORD">
-<mstyle displaystyle="true" scriptlevel="0">
-<mn>10</mn>
-<mo>+</mo>
-<mn>5</mn>
-<mo>×<!-- × --></mo>
-<mrow>
-<mo>⌊</mo>
-<mrow class="MJX-TeXAtom-ORD">
-<mfrac>
-<mrow>
-<mi>X</mi>
-<mo>−<!-- − --></mo>
-<mn>1</mn>
-</mrow>
-<mn>20</mn>
-</mfrac>
-</mrow>
-<mo>⌋</mo>
-</mrow>
-</mstyle>
-</mrow>
-<annotation encoding="application/x-tex">{\displaystyle 10+5\times \left\lfloor {\frac {X-1}{20}}\right\rfloor }</annotation>
-</semantics>
-</math></span></span> Red Bloom Petals in the Clover Field.</li>
+<ul><li>Catch <span class="arithmatex">\(250+10\times \left\lfloor {\frac {X-1}{4}}\right\rfloor\)</span> <a href="bloom.html">Red Bloom Petals</a>.</li>
+<li>Catch <span class="arithmatex">\(10+5\times \left\lfloor {\frac {X-1}{20}}\right\rfloor\)</span> Red Bloom Petals in the Clover Field.</li>
 <li>Catch 10 Red Bloom Petals in the <a href="spider-field.html">Spider Field</a>.</li></ul>
 </td></tr>
 <tr>
 <td>Riley Bee: Picnic
 </td>
 <td>
-<ul><li>Collect <span class="mwe-math-element"><span class="mwe-math-mathml-inline mwe-math-mathml-a11y" style="display: none;"><math alttext="{\displaystyle 1,000,000\times X}" xmlns="http://www.w3.org/1998/Math/MathML">
-<semantics>
-<mrow class="MJX-TeXAtom-ORD">
-<mstyle displaystyle="true" scriptlevel="0">
-<mn>1</mn>
-<mo>,</mo>
-<mn>000</mn>
-<mo>,</mo>
-<mn>000</mn>
-<mo>×<!-- × --></mo>
-<mi>X</mi>
-</mstyle>
-</mrow>
-<annotation encoding="application/x-tex">{\displaystyle 1,000,000\times X}</annotation>
-</semantics>
-</math></span></span> Pollen from the Mushroom Field.</li>
-<li>Collect <span class="mwe-math-element"><span class="mwe-math-mathml-inline mwe-math-mathml-a11y" style="display: none;"><math alttext="{\displaystyle 25+5\times \left\lfloor {\frac {X}{10}}\right\rfloor }" xmlns="http://www.w3.org/1998/Math/MathML">
-<semantics>
-<mrow class="MJX-TeXAtom-ORD">
-<mstyle displaystyle="true" scriptlevel="0">
-<mn>25</mn>
-<mo>+</mo>
-<mn>5</mn>
-<mo>×<!-- × --></mo>
-<mrow>
-<mo>⌊</mo>
-<mrow class="MJX-TeXAtom-ORD">
-<mfrac>
-<mi>X</mi>
-<mn>10</mn>
-</mfrac>
-</mrow>
-<mo>⌋</mo>
-</mrow>
-</mstyle>
-</mrow>
-<annotation encoding="application/x-tex">{\displaystyle 25+5\times \left\lfloor {\frac {X}{10}}\right\rfloor }</annotation>
-</semantics>
-</math></span></span> Strawberry Tokens.</li>
-<li>Feed <span class="mwe-math-element"><span class="mwe-math-mathml-inline mwe-math-mathml-a11y" style="display: none;"><math alttext="{\displaystyle 25+5\times \left\lfloor {\frac {X}{50}}\right\rfloor }" xmlns="http://www.w3.org/1998/Math/MathML">
-<semantics>
-<mrow class="MJX-TeXAtom-ORD">
-<mstyle displaystyle="true" scriptlevel="0">
-<mn>25</mn>
-<mo>+</mo>
-<mn>5</mn>
-<mo>×<!-- × --></mo>
-<mrow>
-<mo>⌊</mo>
-<mrow class="MJX-TeXAtom-ORD">
-<mfrac>
-<mi>X</mi>
-<mn>50</mn>
-</mfrac>
-</mrow>
-<mo>⌋</mo>
-</mrow>
-</mstyle>
-</mrow>
-<annotation encoding="application/x-tex">{\displaystyle 25+5\times \left\lfloor {\frac {X}{50}}\right\rfloor }</annotation>
-</semantics>
-</math></span></span> Strawberries to your Bees.</li>
-<li>Defeat <span class="mwe-math-element"><span class="mwe-math-mathml-inline mwe-math-mathml-a11y" style="display: none;"><math alttext="{\displaystyle 5+10\times \left\lfloor {\frac {X}{10}}\right\rfloor }" xmlns="http://www.w3.org/1998/Math/MathML">
-<semantics>
-<mrow class="MJX-TeXAtom-ORD">
-<mstyle displaystyle="true" scriptlevel="0">
-<mn>5</mn>
-<mo>+</mo>
-<mn>10</mn>
-<mo>×<!-- × --></mo>
-<mrow>
-<mo>⌊</mo>
-<mrow class="MJX-TeXAtom-ORD">
-<mfrac>
-<mi>X</mi>
-<mn>10</mn>
-</mfrac>
-</mrow>
-<mo>⌋</mo>
-</mrow>
-</mstyle>
-</mrow>
-<annotation encoding="application/x-tex">{\displaystyle 5+10\times \left\lfloor {\frac {X}{10}}\right\rfloor }</annotation>
-</semantics>
-</math></span></span> Fire <a href="ants.html">Ants</a>.</li></ul>
+<ul><li>Collect <span class="arithmatex">\(1,000,000\times X\)</span> Pollen from the Mushroom Field.</li>
+<li>Collect <span class="arithmatex">\(25+5\times \left\lfloor {\frac {X}{10}}\right\rfloor\)</span> Strawberry Tokens.</li>
+<li>Feed <span class="arithmatex">\(25+5\times \left\lfloor {\frac {X}{50}}\right\rfloor\)</span> Strawberries to your Bees.</li>
+<li>Defeat <span class="arithmatex">\(5+10\times \left\lfloor {\frac {X}{10}}\right\rfloor\)</span> Fire <a href="ants.html">Ants</a>.</li></ul>
 </td></tr>
 <tr>
 <td>Riley Bee: Pollen
 </td>
 <td>
-<ul><li>Collect <span class="mwe-math-element"><span class="mwe-math-mathml-inline mwe-math-mathml-a11y" style="display: none;"><math alttext="{\displaystyle 10,000,000\times X}" xmlns="http://www.w3.org/1998/Math/MathML">
-<semantics>
-<mrow class="MJX-TeXAtom-ORD">
-<mstyle displaystyle="true" scriptlevel="0">
-<mn>10</mn>
-<mo>,</mo>
-<mn>000</mn>
-<mo>,</mo>
-<mn>000</mn>
-<mo>×<!-- × --></mo>
-<mi>X</mi>
-</mstyle>
-</mrow>
-<annotation encoding="application/x-tex">{\displaystyle 10,000,000\times X}</annotation>
-</semantics>
-</math></span></span> Red Pollen.</li></ul>
+<ul><li>Collect <span class="arithmatex">\(10,000,000\times X\)</span> Red Pollen.</li></ul>
 </td></tr>
 <tr>
 <td>Riley Bee: Rampage
 </td>
 <td>
-<ul><li>Collect <span class="mwe-math-element"><span class="mwe-math-mathml-inline mwe-math-mathml-a11y" style="display: none;"><math alttext="{\displaystyle 25+(X-1)}" xmlns="http://www.w3.org/1998/Math/MathML">
-<semantics>
-<mrow class="MJX-TeXAtom-ORD">
-<mstyle displaystyle="true" scriptlevel="0">
-<mn>25</mn>
-<mo>+</mo>
-<mo stretchy="false">(</mo>
-<mi>X</mi>
-<mo>−<!-- − --></mo>
-<mn>1</mn>
-<mo stretchy="false">)</mo>
-</mstyle>
-</mrow>
-<annotation encoding="application/x-tex">{\displaystyle 25+(X-1)}</annotation>
-</semantics>
-</math></span></span>Rage Tokens.</li>
+<ul><li>Collect <span class="arithmatex">\(25+(X-1)\)</span>Rage Tokens.</li>
 <li>Defeat 10 <a href="ladybug.html">Ladybugs</a>.</li>
-<li>Defeat <span class="mwe-math-element"><span class="mwe-math-mathml-inline mwe-math-mathml-a11y" style="display: none;"><math alttext="{\displaystyle 25+5\times \left\lfloor {\frac {X}{25}}\right\rfloor }" xmlns="http://www.w3.org/1998/Math/MathML">
-<semantics>
-<mrow class="MJX-TeXAtom-ORD">
-<mstyle displaystyle="true" scriptlevel="0">
-<mn>25</mn>
-<mo>+</mo>
-<mn>5</mn>
-<mo>×<!-- × --></mo>
-<mrow>
-<mo>⌊</mo>
-<mrow class="MJX-TeXAtom-ORD">
-<mfrac>
-<mi>X</mi>
-<mn>25</mn>
-</mfrac>
-</mrow>
-<mo>⌋</mo>
-</mrow>
-</mstyle>
-</mrow>
-<annotation encoding="application/x-tex">{\displaystyle 25+5\times \left\lfloor {\frac {X}{25}}\right\rfloor }</annotation>
-</semantics>
-</math></span></span> Fire Ants.</li></ul>
+<li>Defeat <span class="arithmatex">\(25+5\times \left\lfloor {\frac {X}{25}}\right\rfloor\)</span> Fire Ants.</li></ul>
 </td></tr>
 <tr>
 <td>Riley Bee: Roses
 </td>
 <td>
-<ul><li>Collect <span class="mwe-math-element"><span class="mwe-math-mathml-inline mwe-math-mathml-a11y" style="display: none;"><math alttext="{\displaystyle 7,500,000\times X}" xmlns="http://www.w3.org/1998/Math/MathML">
-<semantics>
-<mrow class="MJX-TeXAtom-ORD">
-<mstyle displaystyle="true" scriptlevel="0">
-<mn>7</mn>
-<mo>,</mo>
-<mn>500</mn>
-<mo>,</mo>
-<mn>000</mn>
-<mo>×<!-- × --></mo>
-<mi>X</mi>
-</mstyle>
-</mrow>
-<annotation encoding="application/x-tex">{\displaystyle 7,500,000\times X}</annotation>
-</semantics>
-</math></span></span> Pollen from the Rose Field.</li></ul>
+<ul><li>Collect <span class="arithmatex">\(7,500,000\times X\)</span> Pollen from the Rose Field.</li></ul>
 </td></tr>
 <tr>
 <td>Riley Bee: Scavenge
 </td>
 <td>
-<ul><li>Collect <span class="mwe-math-element"><span class="mwe-math-mathml-inline mwe-math-mathml-a11y" style="display: none;"><math alttext="{\displaystyle 2,500,000\times X}" xmlns="http://www.w3.org/1998/Math/MathML">
-<semantics>
-<mrow class="MJX-TeXAtom-ORD">
-<mstyle displaystyle="true" scriptlevel="0">
-<mn>2</mn>
-<mo>,</mo>
-<mn>500</mn>
-<mo>,</mo>
-<mn>000</mn>
-<mo>×<!-- × --></mo>
-<mi>X</mi>
-</mstyle>
-</mrow>
-<annotation encoding="application/x-tex">{\displaystyle 2,500,000\times X}</annotation>
-</semantics>
-</math></span></span> Red Pollen.</li>
-<li>Collect <span class="mwe-math-element"><span class="mwe-math-mathml-inline mwe-math-mathml-a11y" style="display: none;"><math alttext="{\displaystyle 500+5\times (X-1)}" xmlns="http://www.w3.org/1998/Math/MathML">
-<semantics>
-<mrow class="MJX-TeXAtom-ORD">
-<mstyle displaystyle="true" scriptlevel="0">
-<mn>500</mn>
-<mo>+</mo>
-<mn>5</mn>
-<mo>×<!-- × --></mo>
-<mo stretchy="false">(</mo>
-<mi>X</mi>
-<mo>−<!-- − --></mo>
-<mn>1</mn>
-<mo stretchy="false">)</mo>
-</mstyle>
-</mrow>
-<annotation encoding="application/x-tex">{\displaystyle 500+5\times (X-1)}</annotation>
-</semantics>
-</math></span></span> Red Ability Tokens.</li>
-<li>Collect <span class="mwe-math-element"><span class="mwe-math-mathml-inline mwe-math-mathml-a11y" style="display: none;"><math alttext="{\displaystyle 25+10\times \left\lfloor {\frac {X}{10}}\right\rfloor }" xmlns="http://www.w3.org/1998/Math/MathML">
-<semantics>
-<mrow class="MJX-TeXAtom-ORD">
-<mstyle displaystyle="true" scriptlevel="0">
-<mn>25</mn>
-<mo>+</mo>
-<mn>10</mn>
-<mo>×<!-- × --></mo>
-<mrow>
-<mo>⌊</mo>
-<mrow class="MJX-TeXAtom-ORD">
-<mfrac>
-<mi>X</mi>
-<mn>10</mn>
-</mfrac>
-</mrow>
-<mo>⌋</mo>
-</mrow>
-</mstyle>
-</mrow>
-<annotation encoding="application/x-tex">{\displaystyle 25+10\times \left\lfloor {\frac {X}{10}}\right\rfloor }</annotation>
-</semantics>
-</math></span></span> Strawberry Tokens.</li></ul>
+<ul><li>Collect <span class="arithmatex">\(2,500,000\times X\)</span> Red Pollen.</li>
+<li>Collect <span class="arithmatex">\(500+5\times (X-1)\)</span> Red Ability Tokens.</li>
+<li>Collect <span class="arithmatex">\(25+10\times \left\lfloor {\frac {X}{10}}\right\rfloor\)</span> Strawberry Tokens.</li></ul>
 </td></tr>
 <tr>
 <td>Riley Bee: Skirmish
 </td>
 <td>
-<ul><li>Collect <span class="mwe-math-element"><span class="mwe-math-mathml-inline mwe-math-mathml-a11y" style="display: none;"><math alttext="{\displaystyle 1,250,000\times X}" xmlns="http://www.w3.org/1998/Math/MathML">
-<semantics>
-<mrow class="MJX-TeXAtom-ORD">
-<mstyle displaystyle="true" scriptlevel="0">
-<mn>1</mn>
-<mo>,</mo>
-<mn>250</mn>
-<mo>,</mo>
-<mn>000</mn>
-<mo>×<!-- × --></mo>
-<mi>X</mi>
-</mstyle>
-</mrow>
-<annotation encoding="application/x-tex">{\displaystyle 1,250,000\times X}</annotation>
-</semantics>
-</math></span></span> Pollen from the Mushroom Field.</li>
+<ul><li>Collect <span class="arithmatex">\(1,250,000\times X\)</span> Pollen from the Mushroom Field.</li>
 <li>Defeat 10 Ladybugs.</li></ul>
 </td></tr>
 <tr>
 <td>Riley Bee: Strawberries
 </td>
 <td>
-<ul><li>Collect <span class="mwe-math-element"><span class="mwe-math-mathml-inline mwe-math-mathml-a11y" style="display: none;"><math alttext="{\displaystyle 5,000,000\times X}" xmlns="http://www.w3.org/1998/Math/MathML">
-<semantics>
-<mrow class="MJX-TeXAtom-ORD">
-<mstyle displaystyle="true" scriptlevel="0">
-<mn>5</mn>
-<mo>,</mo>
-<mn>000</mn>
-<mo>,</mo>
-<mn>000</mn>
-<mo>×<!-- × --></mo>
-<mi>X</mi>
-</mstyle>
-</mrow>
-<annotation encoding="application/x-tex">{\displaystyle 5,000,000\times X}</annotation>
-</semantics>
-</math></span></span> Pollen from the Strawberry Field.</li></ul>
+<ul><li>Collect <span class="arithmatex">\(5,000,000\times X\)</span> Pollen from the Strawberry Field.</li></ul>
 </td></tr>
 <tr>
 <td>Riley Bee: Tango
 </td>
 <td>
-<ul><li>Collect <span class="mwe-math-element"><span class="mwe-math-mathml-inline mwe-math-mathml-a11y" style="display: none;"><math alttext="{\displaystyle 2,500,000\times X}" xmlns="http://www.w3.org/1998/Math/MathML">
-<semantics>
-<mrow class="MJX-TeXAtom-ORD">
-<mstyle displaystyle="true" scriptlevel="0">
-<mn>2</mn>
-<mo>,</mo>
-<mn>500</mn>
-<mo>,</mo>
-<mn>000</mn>
-<mo>×<!-- × --></mo>
-<mi>X</mi>
-</mstyle>
-</mrow>
-<annotation encoding="application/x-tex">{\displaystyle 2,500,000\times X}</annotation>
-</semantics>
-</math></span></span> Red Pollen.</li>
-<li>Collect <span class="mwe-math-element"><span class="mwe-math-mathml-inline mwe-math-mathml-a11y" style="display: none;"><math alttext="{\displaystyle 500+5\times (X-1)}" xmlns="http://www.w3.org/1998/Math/MathML">
-<semantics>
-<mrow class="MJX-TeXAtom-ORD">
-<mstyle displaystyle="true" scriptlevel="0">
-<mn>500</mn>
-<mo>+</mo>
-<mn>5</mn>
-<mo>×<!-- × --></mo>
-<mo stretchy="false">(</mo>
-<mi>X</mi>
-<mo>−<!-- − --></mo>
-<mn>1</mn>
-<mo stretchy="false">)</mo>
-</mstyle>
-</mrow>
-<annotation encoding="application/x-tex">{\displaystyle 500+5\times (X-1)}</annotation>
-</semantics>
-</math></span></span> Red Ability Tokens.</li>
+<ul><li>Collect <span class="arithmatex">\(2,500,000\times X\)</span> Red Pollen.</li>
+<li>Collect <span class="arithmatex">\(500+5\times (X-1)\)</span> Red Ability Tokens.</li>
 <li>Defeat 5 <a href="scorpion.html">Scorpions</a>.</li></ul>
 </td></tr>
 <tr>
 <td>Riley Bee: Tour
 </td>
 <td>
-<ul><li>Collect <span class="mwe-math-element"><span class="mwe-math-mathml-inline mwe-math-mathml-a11y" style="display: none;"><math alttext="{\displaystyle 1,000,000\times X}" xmlns="http://www.w3.org/1998/Math/MathML">
-<semantics>
-<mrow class="MJX-TeXAtom-ORD">
-<mstyle displaystyle="true" scriptlevel="0">
-<mn>1</mn>
-<mo>,</mo>
-<mn>000</mn>
-<mo>,</mo>
-<mn>000</mn>
-<mo>×<!-- × --></mo>
-<mi>X</mi>
-</mstyle>
-</mrow>
-<annotation encoding="application/x-tex">{\displaystyle 1,000,000\times X}</annotation>
-</semantics>
-</math></span></span> Pollen from the Mushroom Field.</li>
-<li>Collect <span class="mwe-math-element"><span class="mwe-math-mathml-inline mwe-math-mathml-a11y" style="display: none;"><math alttext="{\displaystyle 1,000,000\times X}" xmlns="http://www.w3.org/1998/Math/MathML">
-<semantics>
-<mrow class="MJX-TeXAtom-ORD">
-<mstyle displaystyle="true" scriptlevel="0">
-<mn>1</mn>
-<mo>,</mo>
-<mn>000</mn>
-<mo>,</mo>
-<mn>000</mn>
-<mo>×<!-- × --></mo>
-<mi>X</mi>
-</mstyle>
-</mrow>
-<annotation encoding="application/x-tex">{\displaystyle 1,000,000\times X}</annotation>
-</semantics>
-</math></span></span> Pollen from the Strawberry Field.</li>
-<li>Collect <span class="mwe-math-element"><span class="mwe-math-mathml-inline mwe-math-mathml-a11y" style="display: none;"><math alttext="{\displaystyle 1,000,000\times X}" xmlns="http://www.w3.org/1998/Math/MathML">
-<semantics>
-<mrow class="MJX-TeXAtom-ORD">
-<mstyle displaystyle="true" scriptlevel="0">
-<mn>1</mn>
-<mo>,</mo>
-<mn>000</mn>
-<mo>,</mo>
-<mn>000</mn>
-<mo>×<!-- × --></mo>
-<mi>X</mi>
-</mstyle>
-</mrow>
-<annotation encoding="application/x-tex">{\displaystyle 1,000,000\times X}</annotation>
-</semantics>
-</math></span></span> Pollen from the Rose Field.</li>
+<ul><li>Collect <span class="arithmatex">\(1,000,000\times X\)</span> Pollen from the Mushroom Field.</li>
+<li>Collect <span class="arithmatex">\(1,000,000\times X\)</span> Pollen from the Strawberry Field.</li>
+<li>Collect <span class="arithmatex">\(1,000,000\times X\)</span> Pollen from the Rose Field.</li>
 <li>Defeat 5 Ladybugs.</li>
 <li>Defeat 3 Scorpions.</li></ul>
 </td></tr></tbody></table>
@@ -746,80 +192,17 @@ The amount of honey the player receives when completing a quest is based on this
 <tr>
 <td>Every 100th quest
 </td>
-<td><span class="mwe-math-element"><span class="mwe-math-mathml-inline mwe-math-mathml-a11y" style="display: none;"><math alttext="{\displaystyle 25,000,000\times Q}" xmlns="http://www.w3.org/1998/Math/MathML">
-<semantics>
-<mrow class="MJX-TeXAtom-ORD">
-<mstyle displaystyle="true" scriptlevel="0">
-<mn>25</mn>
-<mo>,</mo>
-<mn>000</mn>
-<mo>,</mo>
-<mn>000</mn>
-<mo>×<!-- × --></mo>
-<mi>Q</mi>
-</mstyle>
-</mrow>
-<annotation encoding="application/x-tex">{\displaystyle 25,000,000\times Q}</annotation>
-</semantics>
-</math></span></span>
+<td><span class="arithmatex">\(25,000,000\times Q\)</span>
 </td></tr>
 <tr>
 <td>Every 5th quest
 </td>
-<td><span class="mwe-math-element"><span class="mwe-math-mathml-inline mwe-math-mathml-a11y" style="display: none;"><math alttext="{\displaystyle 2,500,000\times \left\lfloor Q^{0.95}\right\rfloor }" xmlns="http://www.w3.org/1998/Math/MathML">
-<semantics>
-<mrow class="MJX-TeXAtom-ORD">
-<mstyle displaystyle="true" scriptlevel="0">
-<mn>2</mn>
-<mo>,</mo>
-<mn>500</mn>
-<mo>,</mo>
-<mn>000</mn>
-<mo>×<!-- × --></mo>
-<mrow>
-<mo>⌊</mo>
-<msup>
-<mi>Q</mi>
-<mrow class="MJX-TeXAtom-ORD">
-<mn>0.95</mn>
-</mrow>
-</msup>
-<mo>⌋</mo>
-</mrow>
-</mstyle>
-</mrow>
-<annotation encoding="application/x-tex">{\displaystyle 2,500,000\times \left\lfloor Q^{0.95}\right\rfloor }</annotation>
-</semantics>
-</math></span></span>
+<td><span class="arithmatex">\(2,500,000\times \left\lfloor Q^{0.95}\right\rfloor\)</span>
 </td></tr>
 <tr>
 <td>All other quests
 </td>
-<td><span class="mwe-math-element"><span class="mwe-math-mathml-inline mwe-math-mathml-a11y" style="display: none;"><math alttext="{\displaystyle 1,000,000\times \left\lfloor Q^{0.9}\right\rfloor }" xmlns="http://www.w3.org/1998/Math/MathML">
-<semantics>
-<mrow class="MJX-TeXAtom-ORD">
-<mstyle displaystyle="true" scriptlevel="0">
-<mn>1</mn>
-<mo>,</mo>
-<mn>000</mn>
-<mo>,</mo>
-<mn>000</mn>
-<mo>×<!-- × --></mo>
-<mrow>
-<mo>⌊</mo>
-<msup>
-<mi>Q</mi>
-<mrow class="MJX-TeXAtom-ORD">
-<mn>0.9</mn>
-</mrow>
-</msup>
-<mo>⌋</mo>
-</mrow>
-</mstyle>
-</mrow>
-<annotation encoding="application/x-tex">{\displaystyle 1,000,000\times \left\lfloor Q^{0.9}\right\rfloor }</annotation>
-</semantics>
-</math></span></span>
+<td><span class="arithmatex">\(1,000,000\times \left\lfloor Q^{0.9}\right\rfloor\)</span>
 </td></tr></tbody></table>
 
 In addition to [Red Extract](red-extract.md) and [Honey](honey.md) for completing each quest, certain thresholds may reward other items as well:
@@ -926,58 +309,14 @@ In addition to [Red Extract](red-extract.md) and [Honey](honey.md) for completin
 <tr>
 <td><span typeof="mw:Error mw:File"></span><a href="treat.html"><span class="color-template color-template-treat">Treat</span></a>
 </td>
-<td><span class="mwe-math-element"><span class="mwe-math-mathml-inline mwe-math-mathml-a11y" style="display: none;"><math alttext="{\displaystyle (1+\left\lfloor {\sqrt {Q}}\right\rfloor \times 25}" xmlns="http://www.w3.org/1998/Math/MathML">
-<semantics>
-<mrow class="MJX-TeXAtom-ORD">
-<mstyle displaystyle="true" scriptlevel="0">
-<mo stretchy="false">(</mo>
-<mn>1</mn>
-<mo>+</mo>
-<mrow>
-<mo>⌊</mo>
-<mrow class="MJX-TeXAtom-ORD">
-<msqrt>
-<mi>Q</mi>
-</msqrt>
-</mrow>
-<mo>⌋</mo>
-</mrow>
-<mo>×<!-- × --></mo>
-<mn>25</mn>
-</mstyle>
-</mrow>
-<annotation encoding="application/x-tex">{\displaystyle (1+\left\lfloor {\sqrt {Q}}\right\rfloor \times 25}</annotation>
-</semantics>
-</math></span></span>
+<td><span class="arithmatex">\((1+\left\lfloor {\sqrt {Q}}\right\rfloor \times 25\)</span>
 </td>
 <td>~23.175%
 </td></tr>
 <tr>
 <td><span typeof="mw:Error mw:File"></span><a href="royal-jelly.html"><span class="color-template color-template-royal-jelly color-template-background-clip">Royal Jelly</span></a>
 </td>
-<td><span class="mwe-math-element"><span class="mwe-math-mathml-inline mwe-math-mathml-a11y" style="display: none;"><math alttext="{\displaystyle (1+\left\lfloor {\sqrt {Q}}\right\rfloor \times 5}" xmlns="http://www.w3.org/1998/Math/MathML">
-<semantics>
-<mrow class="MJX-TeXAtom-ORD">
-<mstyle displaystyle="true" scriptlevel="0">
-<mo stretchy="false">(</mo>
-<mn>1</mn>
-<mo>+</mo>
-<mrow>
-<mo>⌊</mo>
-<mrow class="MJX-TeXAtom-ORD">
-<msqrt>
-<mi>Q</mi>
-</msqrt>
-</mrow>
-<mo>⌋</mo>
-</mrow>
-<mo>×<!-- × --></mo>
-<mn>5</mn>
-</mstyle>
-</mrow>
-<annotation encoding="application/x-tex">{\displaystyle (1+\left\lfloor {\sqrt {Q}}\right\rfloor \times 5}</annotation>
-</semantics>
-</math></span></span>
+<td><span class="arithmatex">\((1+\left\lfloor {\sqrt {Q}}\right\rfloor \times 5\)</span>
 </td>
 <td>~17.381%
 </td></tr>
@@ -991,30 +330,7 @@ In addition to [Red Extract](red-extract.md) and [Honey](honey.md) for completin
 <tr>
 <td><span typeof="mw:Error mw:File"></span><a href="strawberry.html"><span class="color-template color-template-strawberry color-template-background-clip">Strawberry</span></a>
 </td>
-<td><span class="mwe-math-element"><span class="mwe-math-mathml-inline mwe-math-mathml-a11y" style="display: none;"><math alttext="{\displaystyle (1+\left\lfloor Q^{0.25}\right\rfloor \times 10}" xmlns="http://www.w3.org/1998/Math/MathML">
-<semantics>
-<mrow class="MJX-TeXAtom-ORD">
-<mstyle displaystyle="true" scriptlevel="0">
-<mo stretchy="false">(</mo>
-<mn>1</mn>
-<mo>+</mo>
-<mrow>
-<mo>⌊</mo>
-<msup>
-<mi>Q</mi>
-<mrow class="MJX-TeXAtom-ORD">
-<mn>0.25</mn>
-</mrow>
-</msup>
-<mo>⌋</mo>
-</mrow>
-<mo>×<!-- × --></mo>
-<mn>10</mn>
-</mstyle>
-</mrow>
-<annotation encoding="application/x-tex">{\displaystyle (1+\left\lfloor Q^{0.25}\right\rfloor \times 10}</annotation>
-</semantics>
-</math></span></span>
+<td><span class="arithmatex">\((1+\left\lfloor Q^{0.25}\right\rfloor \times 10\)</span>
 </td>
 <td>~11.587%
 </td></tr>

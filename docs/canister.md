@@ -16,9 +16,6 @@ tags: ["Bags", "Pages with broken file links", "Items"]
 <h3 class="pi-data-label pi-secondary-font">Description</h3>
 <div class="pi-data-value pi-font">"A high-tech container that improves conversion speed."</div>
 </div>
-<section class="pi-item pi-group pi-border-color">
-<p>@@BLOCO0@@</p>
-</section>
 <div class="pi-item pi-data pi-item-spacing pi-border-color" data-source="stats">
 <h3 class="pi-data-label pi-secondary-font">Bonus Stats</h3>
 <div class="pi-data-value pi-font">+30% Convert Rate</div>
@@ -237,4 +234,3 @@ The **Canister** is a [Bag](bags.md) that can be purchased in the [Noob Shop](no
 </td></tr></tbody></table>
 </td></tr></tbody></table>
 
-zh-tw:罐子

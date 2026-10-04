@@ -255,4 +255,3 @@ This guard is one of 3 guards that can be purchased in the Red HQ, the others be
 </td></tr></tbody></table>
 </td></tr></tbody></table>
 
-zh-tw:火爆護肩

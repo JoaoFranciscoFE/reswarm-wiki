@@ -247,4 +247,3 @@ The **Honeycomb Belt** is a belt accessory located in the [Badge Bearer's Guild]
 </td></tr></tbody></table>
 </td></tr></tbody></table>
 
-zh-tw:蜂巢腰帶

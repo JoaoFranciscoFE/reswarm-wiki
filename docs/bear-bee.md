@@ -73,14 +73,14 @@ Bear Bee likes the [Pumpkin Patch](pumpkin-patch.md) and the [Pine Tree Forest](
 
 ### Abilities
 
-* **[[Bear Morph]](ability-tokens.md#Bear_Morph)** Transforms you into a random bear! Grants ×2 Pollen and boosts [Speed](system-page.md#Movespeed) and [Jump Power](system-page.md#Jump_Power). If Gifted, has a 20% chance to transform the player into a rare bear that gives special boosts (either [Mother Bear](mother-bear.md), which gives x2.5 Pollen and an additional x1.5 [Pollen from Bee Gathering](system-page.md#Bee_Gather_Pollen) or [Science Bear](science-bear.md), which adds +1 Conversion Link).
+* **[Bear Morph](ability-tokens.md#Bear_Morph)** Transforms you into a random bear! Grants ×2 Pollen and boosts [Speed](system-page.md#Movespeed) and [Jump Power](system-page.md#Jump_Power). If Gifted, has a 20% chance to transform the player into a rare bear that gives special boosts (either [Mother Bear](mother-bear.md), which gives x2.5 Pollen and an additional x1.5 [Pollen from Bee Gathering](system-page.md#Bee_Gather_Pollen) or [Science Bear](science-bear.md), which adds +1 Conversion Link).
 
 <table style="font-size:1.5vh; color:#000; width:100%; background:#fff; padding: 15px 0; border:none; color:#000; border-left:15px #000 solid">
 <tbody><tr>
 <td style="width:100%; text-align:center">
-<p>Bear Bee has a base pollen collection of <b>15 <strong class="error"><span class="scribunto-error mw-scribunto-error-dd44d918">Lua error in Module:Item_image at line 88: Template error! There's no such file named File:White Boost Token.png for Template:I.</span></strong></b> in <b>2 seconds</b>. 
-</p><p>That's equivalent to 7.5 <strong class="error"><span class="scribunto-error mw-scribunto-error-dd44d918">Lua error in Module:Item_image at line 88: Template error! There's no such file named File:White Boost Token.png for Template:I.</span></strong> per second. 
-</p><p>(<b>30 <strong class="error"><span class="scribunto-error mw-scribunto-error-dd44d918">Lua error in Module:Item_image at line 88: Template error! There's no such file named File:White Boost Token.png for Template:I.</span></strong></b> in <b>2 seconds</b> with x2 Bee Pollen gamepass)
+<p>Bear Bee has a base pollen collection of <b>15 </b> in <b>2 seconds</b>. 
+</p><p>That's equivalent to 7.5  per second. 
+</p><p>(<b>30 </b> in <b>2 seconds</b> with x2 Bee Pollen gamepass)
 </p>
 </td></tr></tbody></table>
 
@@ -380,6 +380,5 @@ Bear Bee likes the [Pumpkin Patch](pumpkin-patch.md) and the [Pine Tree Forest](
 <td class="NavLinks NavLinksEvent"><b><span typeof="mw:Error mw:File"></span> <strong class="mw-selflink selflink">Bear Bee</strong> • <span typeof="mw:Error mw:File"></span> <a href="cobalt-bee.html">Cobalt Bee</a> • <span typeof="mw:Error mw:File"></span> <a href="crimson-bee.html">Crimson Bee</a> • <span typeof="mw:Error mw:File"></span> <a href="digital-bee.html">Digital Bee</a> • <span typeof="mw:Error mw:File"></span> <a href="festive-bee.html">Festive Bee</a> • <span typeof="mw:Error mw:File"></span> <a href="gummy-bee.html">Gummy Bee</a> • <span typeof="mw:Error mw:File"></span> <a href="photon-bee.html">Photon Bee</a> • <span typeof="mw:Error mw:File"></span> <a href="puppy-bee.html">Puppy Bee</a> • <span typeof="mw:Error mw:File"></span> <a href="tabby-bee.html">Tabby Bee</a> • <span typeof="mw:Error mw:File"></span> <a href="vicious-bee.html">Vicious Bee</a> • <span typeof="mw:Error mw:File"></span> <a href="windy-bee.html">Windy Bee</a></b>
 </td></tr></tbody></table>
 
-zh-tw:熊蜜蜂
 
 1. ↑ [[1]](https://trademarks.justia.com/owners/bear-bee-llc-3823322/) Trademarks owned by Bear Bee LLC.

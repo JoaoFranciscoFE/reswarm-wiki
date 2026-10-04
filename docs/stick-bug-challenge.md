@@ -119,68 +119,68 @@ After Stick Bug's health is depleted, it will drop loot and then move to another
 <th>Possible Fields to go
 </th></tr>
 <tr>
-<td><strong class="error"><span class="scribunto-error mw-scribunto-error-8a3e268e">Lua error in Module:Item_image at line 88: Template error! There's no such file named File:Sunflower Field Icon.png for Template:I.</span></strong>Sunflower Field
+<td>Sunflower Field
 </td>
-<td><strong class="error"><span class="scribunto-error mw-scribunto-error-f0cd206e">Lua error in Module:Item_image at line 88: Template error! There's no such file named File:Clover Field Icon.png for Template:I.</span></strong>Clover Field<br/>
-<p><strong class="error"><span class="scribunto-error mw-scribunto-error-699ba7dc">Lua error in Module:Item_image at line 88: Template error! There's no such file named File:Strawberry Field Icon.png for Template:I.</span></strong>Strawberry Field
+<td>Clover Field<br/>
+<p>Strawberry Field
 </p>
 </td></tr>
 <tr>
-<td><strong class="error"><span class="scribunto-error mw-scribunto-error-f0cd206e">Lua error in Module:Item_image at line 88: Template error! There's no such file named File:Clover Field Icon.png for Template:I.</span></strong>Clover Field
+<td>Clover Field
 </td>
-<td><strong class="error"><span class="scribunto-error mw-scribunto-error-8a3e268e">Lua error in Module:Item_image at line 88: Template error! There's no such file named File:Sunflower Field Icon.png for Template:I.</span></strong>Sunflower Field<br/>
-<p><strong class="error"><span class="scribunto-error mw-scribunto-error-0448dd94">Lua error in Module:Item_image at line 88: Template error! There's no such file named File:Bamboo Field Icon.png for Template:I.</span></strong>Bamboo Field
+<td>Sunflower Field<br/>
+<p>Bamboo Field
 </p>
 </td></tr>
 <tr>
-<td><strong class="error"><span class="scribunto-error mw-scribunto-error-699ba7dc">Lua error in Module:Item_image at line 88: Template error! There's no such file named File:Strawberry Field Icon.png for Template:I.</span></strong>Strawberry Field
+<td>Strawberry Field
 </td>
-<td><strong class="error"><span class="scribunto-error mw-scribunto-error-8a3e268e">Lua error in Module:Item_image at line 88: Template error! There's no such file named File:Sunflower Field Icon.png for Template:I.</span></strong>Sunflower Field<br/>
-<p><strong class="error"><span class="scribunto-error mw-scribunto-error-0448dd94">Lua error in Module:Item_image at line 88: Template error! There's no such file named File:Bamboo Field Icon.png for Template:I.</span></strong>Bamboo Field<br/>
-<strong class="error"><span class="scribunto-error mw-scribunto-error-4ebeff79">Lua error in Module:Item_image at line 88: Template error! There's no such file named File:Cactus Field Icon.png for Template:I.</span></strong>Cactus Field<br/>
-<strong class="error"><span class="scribunto-error mw-scribunto-error-fb1a6494">Lua error in Module:Item_image at line 88: Template error! There's no such file named File:Pumpkin Patch Icon.png for Template:I.</span></strong>Pumpkin Patch
+<td>Sunflower Field<br/>
+<p>Bamboo Field<br/>
+Cactus Field<br/>
+Pumpkin Patch
 </p>
 </td></tr>
 <tr>
-<td><strong class="error"><span class="scribunto-error mw-scribunto-error-0448dd94">Lua error in Module:Item_image at line 88: Template error! There's no such file named File:Bamboo Field Icon.png for Template:I.</span></strong>Bamboo Field
+<td>Bamboo Field
 </td>
-<td><strong class="error"><span class="scribunto-error mw-scribunto-error-f0cd206e">Lua error in Module:Item_image at line 88: Template error! There's no such file named File:Clover Field Icon.png for Template:I.</span></strong>Clover Field<br/>
-<p><strong class="error"><span class="scribunto-error mw-scribunto-error-3f087191">Lua error in Module:Item_image at line 88: Template error! There's no such file named File:Pineapple Patch Icon.png for Template:I.</span></strong>Pineapple Patch
+<td>Clover Field<br/>
+<p>Pineapple Patch
 </p>
 </td></tr>
 <tr>
-<td><strong class="error"><span class="scribunto-error mw-scribunto-error-3f087191">Lua error in Module:Item_image at line 88: Template error! There's no such file named File:Pineapple Patch Icon.png for Template:I.</span></strong>Pineapple Patch
+<td>Pineapple Patch
 </td>
-<td><strong class="error"><span class="scribunto-error mw-scribunto-error-0448dd94">Lua error in Module:Item_image at line 88: Template error! There's no such file named File:Bamboo Field Icon.png for Template:I.</span></strong>Bamboo Field<br/>
-<p><strong class="error"><span class="scribunto-error mw-scribunto-error-cf65ea75">Lua error in Module:Item_image at line 88: Template error! There's no such file named File:Mountain Top Field Icon.png for Template:I.</span></strong>Mountain Top Field
+<td>Bamboo Field<br/>
+<p>Mountain Top Field
 </p>
 </td></tr>
 <tr>
-<td><strong class="error"><span class="scribunto-error mw-scribunto-error-4ebeff79">Lua error in Module:Item_image at line 88: Template error! There's no such file named File:Cactus Field Icon.png for Template:I.</span></strong>Cactus Field
+<td>Cactus Field
 </td>
-<td><strong class="error"><span class="scribunto-error mw-scribunto-error-699ba7dc">Lua error in Module:Item_image at line 88: Template error! There's no such file named File:Strawberry Field Icon.png for Template:I.</span></strong>Strawberry Field<br/>
-<p><strong class="error"><span class="scribunto-error mw-scribunto-error-fb1a6494">Lua error in Module:Item_image at line 88: Template error! There's no such file named File:Pumpkin Patch Icon.png for Template:I.</span></strong>Pumpkin Patch<br/>
-<strong class="error"><span class="scribunto-error mw-scribunto-error-cf65ea75">Lua error in Module:Item_image at line 88: Template error! There's no such file named File:Mountain Top Field Icon.png for Template:I.</span></strong>Mountain Top Field
+<td>Strawberry Field<br/>
+<p>Pumpkin Patch<br/>
+Mountain Top Field
 </p>
 </td></tr>
 <tr>
-<td><strong class="error"><span class="scribunto-error mw-scribunto-error-fb1a6494">Lua error in Module:Item_image at line 88: Template error! There's no such file named File:Pumpkin Patch Icon.png for Template:I.</span></strong>Pumpkin Patch
+<td>Pumpkin Patch
 </td>
-<td><strong class="error"><span class="scribunto-error mw-scribunto-error-699ba7dc">Lua error in Module:Item_image at line 88: Template error! There's no such file named File:Strawberry Field Icon.png for Template:I.</span></strong>Strawberry Field<br/>
-<p><strong class="error"><span class="scribunto-error mw-scribunto-error-4ebeff79">Lua error in Module:Item_image at line 88: Template error! There's no such file named File:Cactus Field Icon.png for Template:I.</span></strong>Cactus Field<br/>
-<strong class="error"><span class="scribunto-error mw-scribunto-error-cf65ea75">Lua error in Module:Item_image at line 88: Template error! There's no such file named File:Mountain Top Field Icon.png for Template:I.</span></strong>Mountain Top Field
+<td>Strawberry Field<br/>
+<p>Cactus Field<br/>
+Mountain Top Field
 </p>
 </td></tr>
 <tr>
-<td><strong class="error"><span class="scribunto-error mw-scribunto-error-cf65ea75">Lua error in Module:Item_image at line 88: Template error! There's no such file named File:Mountain Top Field Icon.png for Template:I.</span></strong>Mountain Top Field
+<td>Mountain Top Field
 </td>
-<td><strong class="error"><span class="scribunto-error mw-scribunto-error-8a3e268e">Lua error in Module:Item_image at line 88: Template error! There's no such file named File:Sunflower Field Icon.png for Template:I.</span></strong>Sunflower Field<br/>
-<p><strong class="error"><span class="scribunto-error mw-scribunto-error-f0cd206e">Lua error in Module:Item_image at line 88: Template error! There's no such file named File:Clover Field Icon.png for Template:I.</span></strong>Clover Field<br/>
-<strong class="error"><span class="scribunto-error mw-scribunto-error-0448dd94">Lua error in Module:Item_image at line 88: Template error! There's no such file named File:Bamboo Field Icon.png for Template:I.</span></strong>Bamboo Field<br/>
-<strong class="error"><span class="scribunto-error mw-scribunto-error-699ba7dc">Lua error in Module:Item_image at line 88: Template error! There's no such file named File:Strawberry Field Icon.png for Template:I.</span></strong>Strawberry Field<br/>
-<strong class="error"><span class="scribunto-error mw-scribunto-error-3f087191">Lua error in Module:Item_image at line 88: Template error! There's no such file named File:Pineapple Patch Icon.png for Template:I.</span></strong>Pineapple Patch<br/>
-<strong class="error"><span class="scribunto-error mw-scribunto-error-4ebeff79">Lua error in Module:Item_image at line 88: Template error! There's no such file named File:Cactus Field Icon.png for Template:I.</span></strong>Cactus Field<br/>
-<strong class="error"><span class="scribunto-error mw-scribunto-error-fb1a6494">Lua error in Module:Item_image at line 88: Template error! There's no such file named File:Pumpkin Patch Icon.png for Template:I.</span></strong>Pumpkin Patch
+<td>Sunflower Field<br/>
+<p>Clover Field<br/>
+Bamboo Field<br/>
+Strawberry Field<br/>
+Pineapple Patch<br/>
+Cactus Field<br/>
+Pumpkin Patch
 </p>
 </td></tr></tbody></table>
 

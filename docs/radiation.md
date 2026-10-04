@@ -26,4 +26,3 @@ Bees glow green when radioactive. The brightness of the bee is based on how much
 
 <figure class="thumb mw-halign-left" style="width: 180px" typeof="mw:File/Thumb">  <figcaption class="thumbcaption"> <p class="caption">The sound effect played when a bee turns radioactive. Note that the speed and pitch is random for each mutation.</p> </figcaption> </figure>
 
-zh-tw:輻射

@@ -312,4 +312,3 @@ Aged Gingerbread Bear
 </td></tr></tbody></table>
 </td></tr></tbody></table>
 
-zh-tw:食物

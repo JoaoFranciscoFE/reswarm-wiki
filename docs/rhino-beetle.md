@@ -15,15 +15,6 @@ tags: ["Mobs", "Pages with broken file links"]
 <h3 class="pi-data-label pi-secondary-font">Respawns Every</h3>
 <div class="pi-data-value pi-font">5 minutes (4 minutes 15 seconds with <a href="gifted-bee.html">Vicious Bee's</a> hive bonus)</div>
 </div>
-<section class="pi-item pi-group pi-border-color">
-<p>@@BLOCO0@@</p>
-</section>
-<section class="pi-item pi-group pi-border-color">
-<p>@@BLOCO1@@</p>
-</section>
-<section class="pi-item pi-group pi-border-color">
-<p>@@BLOCO2@@</p>
-</section>
 </aside>
 
 The **Rhino Beetle** is a mob that defends four different [fields](fields.md). It is the blue variant of the [Ladybug](ladybug.md).

@@ -24,40 +24,7 @@ A bee's bond does **not** reset after a level up; however, the information windo
 
 Mobs also have levels, which affects whether a bee will hit, or miss its attack. If the bee has the same or a higher level than the mob, it is guaranteed to hit. If the bee is one level lower than the mob, it has a 50% chance to hit the mob. If the bee is two levels down, it only has a 25% chance to hit, and so on.
 
-The formula to calculate the chance of hitting a mob is: 
-
-1
-
-/
-[
-
-2
-
-(
-m
-o
-n
-s
-t
-e
-r
-l
-e
-v
-e
-l
-−
-b
-e
-e
-l
-e
-v
-e
-l
-)
-]
-{\displaystyle 1/[2^{(monsterlevel-beelevel)}]}
+The formula to calculate the chance of hitting a mob is: \(1/[2^{(monsterlevel-beelevel)}]\)
 
 The maximum level a bee can achieve is 25. It is generally difficult to reach levels above 20, but if a bee reaches the maximum level, the bee will still gain bond.
 
@@ -562,80 +529,7 @@ The maximum level a bee can achieve is 25. It is generally difficult to reach le
 <td><b>346.2Qn</b>
 </td></tr></tbody></table>
 
-Alternatively, you can use this formula to determine the cost to level up your bees:
-
-(
-
-10
-(
-B
-o
-n
-d
-F
-o
-r
-N
-e
-x
-t
-L
-e
-v
-e
-l
-)
-(
-N
-u
-m
-b
-e
-r
-O
-f
-B
-e
-e
-s
-)
-
-B
-o
-n
-d
-F
-r
-o
-m
-T
-r
-e
-a
-t
-s
-−
-T
-r
-e
-a
-t
-s
-I
-n
-I
-n
-v
-e
-n
-t
-o
-r
-y
-)
-∗
-10000
-{\displaystyle (\tfrac{10(BondForNextLevel)(NumberOfBees)}{BondFromTreats}-TreatsInInventory)\*10000}
+Alternatively, you can use this formula to determine the cost to level up your bees: \((\tfrac{10(BondForNextLevel)(NumberOfBees)}{BondFromTreats}-TreatsInInventory)\times 10000\)
 
 You can also use this [calculator](https://www.desmos.com/calculator/k4utvtdloz).
 
@@ -661,4 +555,3 @@ Note that the sound is slightly faster in-game.
 * Leveling a full hive of 50 bees from level 0 to level 25 would cost 500Qn [Honey](honey.md) (500 quintillion) honey in treats.
   * With the maximum Bond from Treats currently possible (133%), this cost could be reduced to about 376Qn [Honey](honey.md) (376 quintillion) honey in treats.
 
-zh-tw:親密度

@@ -181,31 +181,31 @@ Stack Combos are completed upon adding a certain set of stickers to the Sticker 
 <th>Reward
 </th></tr>
 <tr>
-<td><strong class="error"><span class="scribunto-error mw-scribunto-error-bacfffc6">Lua error in Module:Item_image at line 88: Template error! There's no such file named File:hivesticker capricorn star sign.png for Template:I.</span></strong>Capricorn Star Sign<br/>
-<p><strong class="error"><span class="scribunto-error mw-scribunto-error-1acb84e3">Lua error in Module:Item_image at line 88: Template error! There's no such file named File:hivesticker aquarius star sign.png for Template:I.</span></strong>Aquarius Star Sign<br/>
-<strong class="error"><span class="scribunto-error mw-scribunto-error-f04e3203">Lua error in Module:Item_image at line 88: Template error! There's no such file named File:hivesticker pisces  star sign.png for Template:I.</span></strong>Pisces Star Sign<br/>
-<strong class="error"><span class="scribunto-error mw-scribunto-error-210e369e">Lua error in Module:Item_image at line 88: Template error! There's no such file named File:hivesticker aries star sign.png for Template:I.</span></strong>Aries Star Sign<br/>
-<strong class="error"><span class="scribunto-error mw-scribunto-error-bf9a1b1a">Lua error in Module:Item_image at line 88: Template error! There's no such file named File:hivesticker taurus star sign.png for Template:I.</span></strong>Taurus Star Sign<br/>
-<strong class="error"><span class="scribunto-error mw-scribunto-error-983f472f">Lua error in Module:Item_image at line 88: Template error! There's no such file named File:hivesticker gemini star sign.png for Template:I.</span></strong>Gemini Star Sign<br/>
-<strong class="error"><span class="scribunto-error mw-scribunto-error-caf584b4">Lua error in Module:Item_image at line 88: Template error! There's no such file named File:hivesticker cancer star sign.png for Template:I.</span></strong>Cancer Star Sign<br/>
-<strong class="error"><span class="scribunto-error mw-scribunto-error-17230e76">Lua error in Module:Item_image at line 88: Template error! There's no such file named File:hivesticker leo star sign.png for Template:I.</span></strong>Leo Star Sign<br/>
-<strong class="error"><span class="scribunto-error mw-scribunto-error-08869373">Lua error in Module:Item_image at line 88: Template error! There's no such file named File:hivesticker virgo star sign.png for Template:I.</span></strong>Virgo Star Sign<br/>
-<strong class="error"><span class="scribunto-error mw-scribunto-error-217c6ec0">Lua error in Module:Item_image at line 88: Template error! There's no such file named File:hivesticker libra star sign.png for Template:I.</span></strong>Libra Star Sign<br/>
-<strong class="error"><span class="scribunto-error mw-scribunto-error-60add326">Lua error in Module:Item_image at line 88: Template error! There's no such file named File:hivesticker scorpio star sign.png for Template:I.</span></strong>Scorpio Star Sign<br/>
-<strong class="error"><span class="scribunto-error mw-scribunto-error-25d075bc">Lua error in Module:Item_image at line 88: Template error! There's no such file named File:hivesticker sagittarius star sign.png for Template:I.</span></strong>Sagittarius Star Sign
+<td>Capricorn Star Sign<br/>
+<p>Aquarius Star Sign<br/>
+Pisces Star Sign<br/>
+Aries Star Sign<br/>
+Taurus Star Sign<br/>
+Gemini Star Sign<br/>
+Cancer Star Sign<br/>
+Leo Star Sign<br/>
+Virgo Star Sign<br/>
+Libra Star Sign<br/>
+Scorpio Star Sign<br/>
+Sagittarius Star Sign
 </p>
 </td>
 <td><span typeof="mw:Error mw:File"></span><a href="cub-buddy.html#Skins"><span class="color-template color-template-star-cub color-template-background-clip">Star Cub</span></a>
 </td></tr>
 <tr>
-<td><strong class="error"><span class="scribunto-error mw-scribunto-error-dae27ac2">Lua error in Module:Item_image at line 88: Template error! There's no such file named File:hivesticker white button mushroom.png for Template:I.</span></strong>White Button Mushroom<br/>
-<p><strong class="error"><span class="scribunto-error mw-scribunto-error-0db4a61d">Lua error in Module:Item_image at line 88: Template error! There's no such file named File:hivesticker fly agaric mushroom.png for Template:I.</span></strong>Fly Agaric Mushroom<br/>
-<strong class="error"><span class="scribunto-error mw-scribunto-error-dc0030f2">Lua error in Module:Item_image at line 88: Template error! There's no such file named File:hivesticker porcini mushroom.png for Template:I.</span></strong>Porcini Mushroom<br/>
-<strong class="error"><span class="scribunto-error mw-scribunto-error-87b11b44">Lua error in Module:Item_image at line 88: Template error! There's no such file named File:hivesticker oiler mushroom.png for Template:I.</span></strong>Oiler Mushroom<br/>
-<strong class="error"><span class="scribunto-error mw-scribunto-error-be4e5a04">Lua error in Module:Item_image at line 88: Template error! There's no such file named File:hivesticker morel mushroom.png for Template:I.</span></strong>Morel Mushroom<br/>
-<strong class="error"><span class="scribunto-error mw-scribunto-error-1726a1e8">Lua error in Module:Item_image at line 88: Template error! There's no such file named File:hivesticker chanterelle mushroom.png for Template:I.</span></strong>Chanterelle Mushroom<br/>
-<strong class="error"><span class="scribunto-error mw-scribunto-error-d3a6c772">Lua error in Module:Item_image at line 88: Template error! There's no such file named File:hivesticker shiitake mushroom.png for Template:I.</span></strong>Shiitake Mushroom<br/>
-<strong class="error"><span class="scribunto-error mw-scribunto-error-d4d2ff02">Lua error in Module:Item_image at line 88: Template error! There's no such file named File:hivesticker black truffle mushroom.png for Template:I.</span></strong>Black Truffle Mushroom
+<td>White Button Mushroom<br/>
+<p>Fly Agaric Mushroom<br/>
+Porcini Mushroom<br/>
+Oiler Mushroom<br/>
+Morel Mushroom<br/>
+Chanterelle Mushroom<br/>
+Shiitake Mushroom<br/>
+Black Truffle Mushroom
 </p>
 </td>
 <td><span typeof="mw:Error mw:File"></span><a href="sticker.html#Sticker_Index"><span class="color-template color-template-prismatic-mushroom-sticker color-template-background-clip">Prismatic Mushroom Sticker</span></a>

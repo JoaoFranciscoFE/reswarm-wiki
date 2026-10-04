@@ -15,15 +15,6 @@ tags: ["Mobs", "Pages with broken file links", "Bosses"]
 <h3 class="pi-data-label pi-secondary-font">Respawns Every</h3>
 <div class="pi-data-value pi-font">24 hours (20 hours 24 minutes with a Gifted Vicious Bee)</div>
 </div>
-<section class="pi-item pi-group pi-border-color">
-<p>@@BLOCO0@@</p>
-</section>
-<section class="pi-item pi-group pi-border-color">
-<p>@@BLOCO1@@</p>
-</section>
-<section class="pi-item pi-group pi-border-color">
-<p>@@BLOCO2@@</p>
-</section>
 </aside>
 
 The **King Beetle** is a level 7 boss mob that resides in his [lair](king-beetle-s-lair.md). The entrance to his lair is on the wall between the [Blue Flower Field](blue-flower-field.md) and the [Clover Field](clover-field.md), above the blue flower closest to the [Blue HQ](blue-hq.md) via a transparent wall. He has 2,500 health and deals 40 damage to the player per hit if the player has no [Defense](system-page.md#Defense).

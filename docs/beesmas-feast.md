@@ -54,132 +54,17 @@ If a player walks onto the platform without completing his quest, it displays th
 <tr>
 <td><a href="bond.html">Bond</a> (per bee)
 </td>
-<td><span class="mwe-math-element"><span class="mwe-math-mathml-inline mwe-math-mathml-a11y" style="display: none;"><math alttext="{\displaystyle 100+\left\lfloor {\frac {{\text{PolarPower}}^{1.5}}{10}}\right\rfloor \cdot 10}" xmlns="http://www.w3.org/1998/Math/MathML">
-<semantics>
-<mrow class="MJX-TeXAtom-ORD">
-<mstyle displaystyle="true" scriptlevel="0">
-<mn>100</mn>
-<mo>+</mo>
-<mrow>
-<mo>⌊</mo>
-<mrow class="MJX-TeXAtom-ORD">
-<mfrac>
-<msup>
-<mrow class="MJX-TeXAtom-ORD">
-<mtext>PolarPower</mtext>
-</mrow>
-<mrow class="MJX-TeXAtom-ORD">
-<mn>1.5</mn>
-</mrow>
-</msup>
-<mn>10</mn>
-</mfrac>
-</mrow>
-<mo>⌋</mo>
-</mrow>
-<mo>⋅<!-- ⋅ --></mo>
-<mn>10</mn>
-</mstyle>
-</mrow>
-<annotation encoding="application/x-tex">{\displaystyle 100+\left\lfloor {\frac {{\text{PolarPower}}^{1.5}}{10}}\right\rfloor \cdot 10}</annotation>
-</semantics>
-</math></span></span>
+<td><span class="arithmatex">\(100+\left\lfloor {\frac {{\text{PolarPower}}^{1.5}}{10}}\right\rfloor \cdot 10\)</span>
 </td></tr>
 <tr>
 <td><span typeof="mw:Error mw:File"></span><a href="treat.html"><span class="color-template color-template-treat">Treats</span></a> (total)
 </td>
-<td><span class="mwe-math-element"><span class="mwe-math-mathml-inline mwe-math-mathml-a11y" style="display: none;"><math alttext="{\displaystyle 2\cdot \left\lfloor {\frac {25+\left\lfloor {\text{PolarPower}}^{1.5}+0.5\right\rfloor }{2}}+0.5\right\rfloor }" xmlns="http://www.w3.org/1998/Math/MathML">
-<semantics>
-<mrow class="MJX-TeXAtom-ORD">
-<mstyle displaystyle="true" scriptlevel="0">
-<mn>2</mn>
-<mo>⋅<!-- ⋅ --></mo>
-<mrow>
-<mo>⌊</mo>
-<mrow>
-<mrow class="MJX-TeXAtom-ORD">
-<mfrac>
-<mrow>
-<mn>25</mn>
-<mo>+</mo>
-<mrow>
-<mo>⌊</mo>
-<mrow>
-<msup>
-<mrow class="MJX-TeXAtom-ORD">
-<mtext>PolarPower</mtext>
-</mrow>
-<mrow class="MJX-TeXAtom-ORD">
-<mn>1.5</mn>
-</mrow>
-</msup>
-<mo>+</mo>
-<mn>0.5</mn>
-</mrow>
-<mo>⌋</mo>
-</mrow>
-</mrow>
-<mn>2</mn>
-</mfrac>
-</mrow>
-<mo>+</mo>
-<mn>0.5</mn>
-</mrow>
-<mo>⌋</mo>
-</mrow>
-</mstyle>
-</mrow>
-<annotation encoding="application/x-tex">{\displaystyle 2\cdot \left\lfloor {\frac {25+\left\lfloor {\text{PolarPower}}^{1.5}+0.5\right\rfloor }{2}}+0.5\right\rfloor }</annotation>
-</semantics>
-</math></span></span>
+<td><span class="arithmatex">\(2\cdot \left\lfloor {\frac {25+\left\lfloor {\text{PolarPower}}^{1.5}+0.5\right\rfloor }{2}}+0.5\right\rfloor\)</span>
 </td></tr>
 <tr>
 <td><span typeof="mw:Error mw:File"></span><a href="bitterberry.html"><span class="color-template color-template-bitterberry color-template-background-clip">Bitterberries</span></a> (total)
 </td>
-<td><span class="mwe-math-element"><span class="mwe-math-mathml-inline mwe-math-mathml-a11y" style="display: none;"><math alttext="{\displaystyle 2\cdot \left\lfloor {\frac {10+\left\lfloor {\text{PolarPower}}^{0.4}+0.5\right\rfloor }{2}}+0.5\right\rfloor }" xmlns="http://www.w3.org/1998/Math/MathML">
-<semantics>
-<mrow class="MJX-TeXAtom-ORD">
-<mstyle displaystyle="true" scriptlevel="0">
-<mn>2</mn>
-<mo>⋅<!-- ⋅ --></mo>
-<mrow>
-<mo>⌊</mo>
-<mrow>
-<mrow class="MJX-TeXAtom-ORD">
-<mfrac>
-<mrow>
-<mn>10</mn>
-<mo>+</mo>
-<mrow>
-<mo>⌊</mo>
-<mrow>
-<msup>
-<mrow class="MJX-TeXAtom-ORD">
-<mtext>PolarPower</mtext>
-</mrow>
-<mrow class="MJX-TeXAtom-ORD">
-<mn>0.4</mn>
-</mrow>
-</msup>
-<mo>+</mo>
-<mn>0.5</mn>
-</mrow>
-<mo>⌋</mo>
-</mrow>
-</mrow>
-<mn>2</mn>
-</mfrac>
-</mrow>
-<mo>+</mo>
-<mn>0.5</mn>
-</mrow>
-<mo>⌋</mo>
-</mrow>
-</mstyle>
-</mrow>
-<annotation encoding="application/x-tex">{\displaystyle 2\cdot \left\lfloor {\frac {10+\left\lfloor {\text{PolarPower}}^{0.4}+0.5\right\rfloor }{2}}+0.5\right\rfloor }</annotation>
-</semantics>
-</math></span></span>
+<td><span class="arithmatex">\(2\cdot \left\lfloor {\frac {10+\left\lfloor {\text{PolarPower}}^{0.4}+0.5\right\rfloor }{2}}+0.5\right\rfloor\)</span>
 </td></tr>
 <tr>
 <td>One of the following:<br/>
@@ -189,48 +74,7 @@ If a player walks onto the platform without completing his quest, it displays th
 <span typeof="mw:Error mw:File"></span><a href="sunflower-seed.html"><span class="color-template color-template-sunflower-seed color-template-background-clip">Sunflower Seeds</span></a>
 </p>
 </td>
-<td><span class="mwe-math-element"><span class="mwe-math-mathml-inline mwe-math-mathml-a11y" style="display: none;"><math alttext="{\displaystyle 2\cdot \left\lfloor 15+{\frac {\left\lfloor {\text{PolarPower}}^{0.6}+0.5\right\rfloor }{2}}+0.5\right\rfloor }" xmlns="http://www.w3.org/1998/Math/MathML">
-<semantics>
-<mrow class="MJX-TeXAtom-ORD">
-<mstyle displaystyle="true" scriptlevel="0">
-<mn>2</mn>
-<mo>⋅<!-- ⋅ --></mo>
-<mrow>
-<mo>⌊</mo>
-<mrow>
-<mn>15</mn>
-<mo>+</mo>
-<mrow class="MJX-TeXAtom-ORD">
-<mfrac>
-<mrow>
-<mo>⌊</mo>
-<mrow>
-<msup>
-<mrow class="MJX-TeXAtom-ORD">
-<mtext>PolarPower</mtext>
-</mrow>
-<mrow class="MJX-TeXAtom-ORD">
-<mn>0.6</mn>
-</mrow>
-</msup>
-<mo>+</mo>
-<mn>0.5</mn>
-</mrow>
-<mo>⌋</mo>
-</mrow>
-<mn>2</mn>
-</mfrac>
-</mrow>
-<mo>+</mo>
-<mn>0.5</mn>
-</mrow>
-<mo>⌋</mo>
-</mrow>
-</mstyle>
-</mrow>
-<annotation encoding="application/x-tex">{\displaystyle 2\cdot \left\lfloor 15+{\frac {\left\lfloor {\text{PolarPower}}^{0.6}+0.5\right\rfloor }{2}}+0.5\right\rfloor }</annotation>
-</semantics>
-</math></span></span>
+<td><span class="arithmatex">\(2\cdot \left\lfloor 15+{\frac {\left\lfloor {\text{PolarPower}}^{0.6}+0.5\right\rfloor }{2}}+0.5\right\rfloor\)</span>
 </td></tr></tbody></table>
 
 ## Gallery

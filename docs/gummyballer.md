@@ -510,4 +510,3 @@ When the Gummyball hits the boundaries of the field, the following sound effect 
 </td></tr></tbody></table>
 </td></tr></tbody></table>
 
-zh-tw:軟糖球法杖

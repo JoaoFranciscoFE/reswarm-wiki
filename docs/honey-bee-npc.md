@@ -53,44 +53,11 @@ Honey Bee only gives one single, repeatable quest that solely revolve around col
 </th></tr>
 <tr>
 <td>
-<ul><li>Collect <span class="mwe-math-element"><span class="mwe-math-mathml-inline mwe-math-mathml-a11y" style="display: none;"><math alttext="{\displaystyle 500\times n}" xmlns="http://www.w3.org/1998/Math/MathML">
-<semantics>
-<mrow class="MJX-TeXAtom-ORD">
-<mstyle displaystyle="true" scriptlevel="0">
-<mn>500</mn>
-<mo>×<!-- × --></mo>
-<mi>n</mi>
-</mstyle>
-</mrow>
-<annotation encoding="application/x-tex">{\displaystyle 500\times n}</annotation>
-</semantics>
-</math></span></span> Honey Tokens</li></ul>
+<ul><li>Collect <span class="arithmatex">\(500\times n\)</span> Honey Tokens</li></ul>
 <p>(n being the quest's number)
 </p>
 </td>
-<td><span typeof="mw:Error mw:File"></span><span class="mwe-math-element"><span class="mwe-math-mathml-inline mwe-math-mathml-a11y" style="display: none;"><math alttext="{\displaystyle 1,000\times n^{2}+10,000}" xmlns="http://www.w3.org/1998/Math/MathML">
-<semantics>
-<mrow class="MJX-TeXAtom-ORD">
-<mstyle displaystyle="true" scriptlevel="0">
-<mn>1</mn>
-<mo>,</mo>
-<mn>000</mn>
-<mo>×<!-- × --></mo>
-<msup>
-<mi>n</mi>
-<mrow class="MJX-TeXAtom-ORD">
-<mn>2</mn>
-</mrow>
-</msup>
-<mo>+</mo>
-<mn>10</mn>
-<mo>,</mo>
-<mn>000</mn>
-</mstyle>
-</mrow>
-<annotation encoding="application/x-tex">{\displaystyle 1,000\times n^{2}+10,000}</annotation>
-</semantics>
-</math></span></span> <a href="honey.html"><span class="color-template color-template-honey">Honey</span></a>
+<td><span typeof="mw:Error mw:File"></span><span class="arithmatex">\(1,000\times n^{2}+10,000\)</span> <a href="honey.html"><span class="color-template color-template-honey">Honey</span></a>
 <p><span typeof="mw:Error mw:File"></span> <a href="buffs-debuffs.html#From_NPCs">Conversion Boost</a> (30 minutes) <br/>
 Other items (see #Rewards)
 </p>

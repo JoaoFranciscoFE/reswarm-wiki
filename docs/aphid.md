@@ -15,15 +15,6 @@ tags: ["Mobs", "Pages with broken file links"]
 <h3 class="pi-data-label pi-secondary-font">Respawns Every</h3>
 <div class="pi-data-value pi-font">N/A; small chance from leaves.</div>
 </div>
-<section class="pi-item pi-group pi-border-color">
-<p>@@BLOCO0@@</p>
-</section>
-<section class="pi-item pi-group pi-border-color">
-<p>@@BLOCO1@@</p>
-</section>
-<section class="pi-item pi-group pi-border-color">
-<p>@@BLOCO2@@</p>
-</section>
 </aside>
 
 **Aphids** are hostile [mobs](mobs.md) that have a 0.932% chance (1 in 107) of spawning from collecting [leaves](leaves.md), with the chances increasing when a Field is experiencing a period of low activity (i.e. players are not visiting said field very often). Their level and health correlate to which field the aphid spawns in, like [Rogue Vicious Bee](rogue-vicious-bee.md). Sharing a similar trait with [Tunnel Bear](tunnel-bear.md), [Coconut Crab](coconut-crab.md), [Chicks](chicks.md#Chick), [Hostage Chicks](chicks.md#Hostage_Chick), [Wild Windy Bee](wild-windy-bee.md), [Mondo Chick](chicks.md#Mondo_Chick), and [Puffshrooms](puffshroom.md), players have a limited time (30 seconds) to defeat an aphid. After the time is up, the aphid despawns. The timer is shown above its health. Aphids attack in a similar matter to [Stick Nymphs](stick-nymph.md) and [Giant Ants](ants.md), following the nearest player around slowly. Aphids are public mobs, meaning that anyone can collect the drops regardless of whether or not they attacked it.

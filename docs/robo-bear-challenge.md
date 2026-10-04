@@ -37,59 +37,8 @@ To start the Robo Bear Challenge, the player must spend a [Robo Pass](robo-pass.
 
 The cost of rerolling bees and upgrades depends how high the player's current round is, and how many rerolls the player has done within the round. More specifically, let *rnd* be the player's current round, and *cnt* be the number of rerolls the player has done within the round:
 
-* b
-  a
-  s
-  e
-  C
-  o
-  s
-  t
-  =
-  4
-  +
-  8
-  ×
-
-  r
-  n
-  d
-  −
-  1
-  24
-  {\displaystyle baseCost=4+8\times {\frac {rnd-1}{24}}}
-* The cost of a reroll is equal to 
-
-  ⌊
-
-  b
-  a
-  s
-  e
-  C
-  o
-  s
-  t
-  +
-
-  b
-  a
-  s
-  e
-  C
-  o
-  s
-  t
-  ×
-  c
-  n
-  t
-  2
-  +
-  0.5
-  ⌋
-  {\displaystyle \left\lfloor baseCost+{\frac {baseCost\times cnt}{2}}+0.5\right\rfloor }
-  .
+* \(baseCost=4+8\times {\frac {rnd-1}{24}}\)
+* The cost of a reroll is equal to \(\left\lfloor baseCost+{\frac {baseCost\times cnt}{2}}+0.5\right\rfloor\).
 
 ### After Starting
 
@@ -156,55 +105,7 @@ The probability of getting an upgrade of a certain rarity depends on how high th
 <td>10
 </td></tr></tbody></table>
 
-To calculate the weight of an upgrade in a given round, use the following formula, where *minWeight* and *maxWeight* is the minimum and maximum weight of the rarity in the above table respectively, and *rnd* is the player's current round: 
-
-w
-e
-i
-g
-h
-t
-=
-m
-i
-n
-W
-e
-i
-g
-h
-t
-+
-(
-m
-a
-x
-W
-e
-i
-g
-h
-t
-−
-m
-i
-n
-W
-e
-i
-g
-h
-t
-)
-×
-
-r
-n
-d
-−
-1
-24
-{\displaystyle weight=minWeight+(maxWeight-minWeight)\times {\frac {rnd-1}{24}}}
+To calculate the weight of an upgrade in a given round, use the following formula, where *minWeight* and *maxWeight* is the minimum and maximum weight of the rarity in the above table respectively, and *rnd* is the player's current round: \(weight=minWeight+(maxWeight-minWeight)\times {\frac {rnd-1}{24}}\)
 .
 
 Below is a table of every upgrade rarity's probability of showing up as an upgrade every round:
@@ -1218,35 +1119,7 @@ The cost of an upgrade depends on how high the player's current round is, and th
 <td>18
 </td></tr></tbody></table>
 
-* The lower and upper bound is increased linearly with how high the player's current round is, using the following formula, where *bound* is either the lower or upper bound of the upgrade, and *rnd* is the player's current round: 
-
-  b
-  o
-  u
-  n
-  d
-  =
-  b
-  o
-  u
-  n
-  d
-  ×
-  (
-  1
-  +
-  0.25
-  ×
-
-  r
-  n
-  d
-  −
-  1
-  24
-  )
-  {\displaystyle bound=bound\times (1+0.25\times {\frac {rnd-1}{24}})}
-  .
+* The lower and upper bound is increased linearly with how high the player's current round is, using the following formula, where *bound* is either the lower or upper bound of the upgrade, and *rnd* is the player's current round: \(bound=bound\times (1+0.25\times {\frac {rnd-1}{24}})\).
   * Below is a table of the range of upgrade costs per rarity every round:
 
 <table class="article-table mw-collapsible mw-collapsed">
@@ -1540,65 +1413,7 @@ The cost of an upgrade depends on how high the player's current round is, and th
 <td>19-23
 </td></tr></tbody></table>
 
-* The cost of an upgrade is then scaled linearly with the level of the upgrade, using the following formula, where *lowerBound* and *upperBound* are the lower and upper bounds of the upgrade given the current round, and *lvl* and *maxlvl* are the level of the upgrade and the maximum possible level of the upgrade: 
-
-  c
-  o
-  s
-  t
-  =
-  l
-  o
-  w
-  e
-  r
-  B
-  o
-  u
-  n
-  d
-  +
-  (
-  u
-  p
-  p
-  e
-  r
-  B
-  o
-  u
-  n
-  d
-  −
-  l
-  o
-  w
-  e
-  r
-  B
-  o
-  u
-  n
-  d
-  )
-  ×
-
-  l
-  v
-  l
-  −
-  1
-
-  m
-  a
-  x
-  l
-  v
-  l
-  −
-  1
-  {\displaystyle cost=lowerBound+(upperBound-lowerBound)\times {\frac {lvl-1}{maxlvl-1}}}
-  .
+* The cost of an upgrade is then scaled linearly with the level of the upgrade, using the following formula, where *lowerBound* and *upperBound* are the lower and upper bounds of the upgrade given the current round, and *lvl* and *maxlvl* are the level of the upgrade and the maximum possible level of the upgrade: \(cost=lowerBound+(upperBound-lowerBound)\times {\frac {lvl-1}{maxlvl-1}}\).
 
 ### Mobs
 

@@ -252,4 +252,3 @@ This guard is one of 3 guards that can be purchased in the Blue HQ, the others b
 </td></tr></tbody></table>
 </td></tr></tbody></table>
 
-zh-tw:精英藍護肩

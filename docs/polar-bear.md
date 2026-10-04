@@ -89,19 +89,7 @@ Polar Bear's quests require defeating [mobs](mobs.md), collecting [pollen](polle
 
 <figure class="thumb mw-halign-right" style="width: 184px" typeof="mw:File/Thumb">  <figcaption class="thumbcaption"> </figcaption> </figure>
 
-*Polar Power* stacks additively, your Max Bee Energy will increase by 5% (or 0.05x) per stack. The equation for the multiplier can be represented by 
-
-1
-20
-n
-+
-1
-{\displaystyle {\frac {1}{20}}n+1}
-, where 
-
-n
-{\displaystyle n}
- is the quantity of stacks. All *Polar Power* earned is permanent—it will only ever go up, never down. The indicator for *Polar Power* is a fork in a blue square, with a number representing the number of quests you've completed.
+*Polar Power* stacks additively, your Max Bee Energy will increase by 5% (or 0.05x) per stack. The equation for the multiplier can be represented by \({\frac {1}{20}}n+1\), where \(n\) is the quantity of stacks. All *Polar Power* earned is permanent—it will only ever go up, never down. The indicator for *Polar Power* is a fork in a blue square, with a number representing the number of quests you've completed.
 
 ## Quests
 

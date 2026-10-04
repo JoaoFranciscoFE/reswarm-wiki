@@ -447,4 +447,3 @@ Total required for all single-purchase items: 506 **Oils**
 </td></tr></tbody></table>
 </td></tr></tbody></table>
 
-zh-tw:葵花油

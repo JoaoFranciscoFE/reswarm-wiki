@@ -263,4 +263,3 @@ The **Gummy Boots** are a pair of boots added in the [2018-11-25 update](updates
 </td></tr></tbody></table>
 </td></tr></tbody></table>
 
-zh-tw:軟糖靴

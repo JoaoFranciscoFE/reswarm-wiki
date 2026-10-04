@@ -115,4 +115,3 @@ The following audio plays when an Event Bee notification pops up:
 * Every Event Bee has 1-3 Ability Tokens that is unique to them. Event Bees share this trait with [Mythic Bees](bees-mythic.md).
 * The Event Bees rarity is tied with the [Epic bees](bees-epic.md) rarity for having the most bees, being 11.
 
-zh-tw:蜜蜂/活動蜂

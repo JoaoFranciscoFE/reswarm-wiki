@@ -46,22 +46,7 @@ If the player tries to use the Honey Dispenser without being in the group, they 
 
 The amount of honey given is based on the number of bees the player has in their hive. More specifically, let *cnt* be the number of bees in the player's hive:
 
-* The amount of honey the player receives is equal to 
-
-  ⌊
-
-  c
-  n
-  t
-
-  1.7
-  +
-  0.5
-  ⌋
-  ×
-  100
-  {\displaystyle \left\lfloor {cnt}^{1.7}+0.5\right\rfloor \times 100}
-  , or 500 if the result is less than 500.
+* The amount of honey the player receives is equal to \(\left\lfloor {cnt}^{1.7}+0.5\right\rfloor \times 100\), or 500 if the result is less than 500.
 
 Below is a table of the amount of honey and treats a player receives, given the number of bees they have.
 
@@ -357,4 +342,3 @@ Below is a table of the amount of honey and treats a player receives, given the 
 <td class="NavLinks NavLinksBasicEven"><b><a href="beesmas-tree.html">Beesmas Tree</a> • <a href="ornament-presents.html">Ornament Presents</a> • <span class="new" data-uncrawlable-url="L3dpa2kvQ29tcHV0ZXI/YWN0aW9uPWVkaXQmcmVkbGluaz0x" title="Computer (page does not exist)">Computer</span> • <a href="gift-boxes.html">Gift Boxes</a> • <a href="honey-wreath.html">Honey Wreath</a> • <a href="stockings.html">Stockings</a> • <a href="gingerbread-house.html">Gingerbread House</a> • <a href="snowbear-summoner.html">Snowbear Summoner</a> • <a href="beesmas-lights.html">Beesmas Lights</a> • <a href="samovar.html">Samovar</a> • <a href="beesmas-feast.html">Beesmas Feast</a> • <a href="onett-s-lid-art.html">Onett's Lid Art</a> • <a href="wind-shrine.html#Galentine_Shrine">Galentine Shrine</a> • <a href="memory-match.html#Winter_Memory_Match">Winter Memory Match</a> • <a href="snow-machine.html">Snow Machine</a> • <a href="honeyday-candles.html">Honeyday Candles</a> • <a href="robo-party-cake.html">Robo Party Cake</a> • <a href="gummy-beacon.html">Gummy Beacon</a> • <a href="naughty-list.html">Naughty List</a></b>
 </td></tr></tbody></table>
 
-zh-tw:蜂蜜供應機

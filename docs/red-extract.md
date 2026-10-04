@@ -457,4 +457,3 @@ Total required for all single-purchase items: 3,083 **Red Extracts**
 </td></tr></tbody></table>
 </td></tr></tbody></table>
 
-zh-tw:紅色精華

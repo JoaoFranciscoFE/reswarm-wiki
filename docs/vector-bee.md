@@ -71,21 +71,21 @@ Vector Bee likes the [Spider Field](spider-field.md) and the [Coconut Field](coc
 
 ### Abilities
 
-* **[[Pollen Mark+]](ability-tokens.md#Mark)** Marks a large random area on the [Field](fields.md) for 8 seconds (+0.25s per Level) that increases all pollen by 50% while that player stands in it. Stacks up to 3 times.
-* **[[Triangulate]](ability-tokens.md#Triangulate)** Draws a triangle between the player, the bee, and the token. After 3s, it collects [Ability tokens](ability-tokens.md) and 10 pollen (+2 per Level) from all [Flowers](flowers.md) inside. All Marks within the triangle increase the pollen by 50%.
+* **[Pollen Mark+](ability-tokens.md#Mark)** Marks a large random area on the [Field](fields.md) for 8 seconds (+0.25s per Level) that increases all pollen by 50% while that player stands in it. Stacks up to 3 times.
+* **[Triangulate](ability-tokens.md#Triangulate)** Draws a triangle between the player, the bee, and the token. After 3s, it collects [Ability tokens](ability-tokens.md) and 10 pollen (+2 per Level) from all [Flowers](flowers.md) inside. All Marks within the triangle increase the pollen by 50%.
   * If the triangle contains a Pollen Mark, it gains x2 White pollen.
   * If the triangle contains a Honey Mark or Festive Mark, it gains 50% instant conversion.
   * If the triangle contains a Precise Mark, it always deals critical hits.
-* **[[🌟Gifted Ability: Mark Surge]](ability-tokens.md#Mark_Surge)** Causes all of the player's active Marks to collect 7 Pollen (+10% per Level) from all flowers in their radius. Extends the duration of the Marks by 1s (+0.1s per Level). Each mark can perform up to 5 surges.
+* **[🌟Gifted Ability: Mark Surge](ability-tokens.md#Mark_Surge)** Causes all of the player's active Marks to collect 7 Pollen (+10% per Level) from all flowers in their radius. Extends the duration of the Marks by 1s (+0.1s per Level). Each mark can perform up to 5 surges.
   * When a Honey Mark or Festive Mark surges, the Pollen is Instantly Converted.
   * When a Precise Mark surges, it always does Critical Hits.
 
 <table style="font-size:1.5vh; color:#000; width:100%; background:#fff; padding: 15px 0; border:none; color:#000; border-left:15px #000 solid">
 <tbody><tr>
 <td style="width:100%; text-align:center">
-<p>Vector Bee has a base pollen collection of <b>18 <strong class="error"><span class="scribunto-error mw-scribunto-error-dd44d918">Lua error in Module:Item_image at line 88: Template error! There's no such file named File:White Boost Token.png for Template:I.</span></strong></b> in <b>4 seconds</b>. 
-</p><p>That's equivalent to 4.5 <strong class="error"><span class="scribunto-error mw-scribunto-error-dd44d918">Lua error in Module:Item_image at line 88: Template error! There's no such file named File:White Boost Token.png for Template:I.</span></strong> per second. 
-</p><p>(<b>36 <strong class="error"><span class="scribunto-error mw-scribunto-error-dd44d918">Lua error in Module:Item_image at line 88: Template error! There's no such file named File:White Boost Token.png for Template:I.</span></strong></b> in <b>4 seconds</b> with x2 Bee Pollen gamepass)
+<p>Vector Bee has a base pollen collection of <b>18 </b> in <b>4 seconds</b>. 
+</p><p>That's equivalent to 4.5  per second. 
+</p><p>(<b>36 </b> in <b>4 seconds</b> with x2 Bee Pollen gamepass)
 </p>
 </td></tr></tbody></table>
 
@@ -416,4 +416,3 @@ Vector Bee likes the [Spider Field](spider-field.md) and the [Coconut Field](coc
 <td class="NavLinks NavLinksEvent"><b><span typeof="mw:Error mw:File"></span> <a href="bear-bee.html">Bear Bee</a> • <span typeof="mw:Error mw:File"></span> <a href="cobalt-bee.html">Cobalt Bee</a> • <span typeof="mw:Error mw:File"></span> <a href="crimson-bee.html">Crimson Bee</a> • <span typeof="mw:Error mw:File"></span> <a href="digital-bee.html">Digital Bee</a> • <span typeof="mw:Error mw:File"></span> <a href="festive-bee.html">Festive Bee</a> • <span typeof="mw:Error mw:File"></span> <a href="gummy-bee.html">Gummy Bee</a> • <span typeof="mw:Error mw:File"></span> <a href="photon-bee.html">Photon Bee</a> • <span typeof="mw:Error mw:File"></span> <a href="puppy-bee.html">Puppy Bee</a> • <span typeof="mw:Error mw:File"></span> <a href="tabby-bee.html">Tabby Bee</a> • <span typeof="mw:Error mw:File"></span> <a href="vicious-bee.html">Vicious Bee</a> • <span typeof="mw:Error mw:File"></span> <a href="windy-bee.html">Windy Bee</a></b>
 </td></tr></tbody></table>
 
-zh-tw:向量蜂

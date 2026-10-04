@@ -286,4 +286,3 @@ You can tell what gifted bees you have by looking at the "⭐" icon in the bee m
 * Windy Bee is the only bee to give two different gifted hive bonuses.
 * Tadpole Bee used to give two different gifted hive bonuses before the 2024-05-23 update.
 
-zh-tw:優秀蜂

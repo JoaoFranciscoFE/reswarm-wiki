@@ -13,15 +13,6 @@ An **Army Ant** is one of five mobs that is part of a family called [Ants](ants.
 <h3 class="pi-data-label pi-secondary-font">Location</h3>
 <div class="pi-data-value pi-font"><a href="ant-field.html">Ant Field</a> while the <a href="ant-challenge.html">Ant Challenge</a> is active.</div>
 </div>
-<section class="pi-item pi-group pi-border-color">
-<p>@@BLOCO0@@</p>
-</section>
-<section class="pi-item pi-group pi-border-color">
-<p>@@BLOCO1@@</p>
-</section>
-<section class="pi-item pi-group pi-border-color">
-<p>@@BLOCO2@@</p>
-</section>
 </aside>
 
 This is one of the first Ant Challenge [mobs](mobs.md) that the player will encounter, capable of appearing on the very first wave. Despite being able to appear on the first wave, Army Ants usually start appearing at around the second or third waves.

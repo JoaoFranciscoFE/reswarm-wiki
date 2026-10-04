@@ -15,15 +15,6 @@ tags: ["Mobs", "Pages with broken file links"]
 <h3 class="pi-data-label pi-secondary-font">Respawns Every</h3>
 <div class="pi-data-value pi-font">30 minutes (25.5 minutes with Gifted <a href="vicious-bee.html">Vicious Bee</a>)</div>
 </div>
-<section class="pi-item pi-group pi-border-color">
-<p>@@BLOCO0@@</p>
-</section>
-<section class="pi-item pi-group pi-border-color">
-<p>@@BLOCO1@@</p>
-</section>
-<section class="pi-item pi-group pi-border-color">
-<p>@@BLOCO2@@</p>
-</section>
 </aside>
 
 *Not to be confused with [Cave Monster](cave-monster.md), a similar-looking mob.*
@@ -162,5 +153,3 @@ Possible:
 <td class="NavLinks NavLinksBasicOdd" colspan="2"><b><a href="chicks.html#Chick">Chick</a> • <a href="chicks.html#Hostage_Chick">Hostage Chick</a> • <a href="chicks.html#Spotted_Chick">Spotted Chick</a></b>
 </td></tr></tbody></table>
 
-fr:Araignée
-ru:Паук

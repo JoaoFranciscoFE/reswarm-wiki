@@ -158,4 +158,3 @@ tags: ["Pages with broken file links", "Bees", "Epic"]
 * The **Epic Bees** rarity is tied with the [Event Bees](bees-event.md) rarity for having the most bees, being 11.
   * It also contains the most amount of colored bees, with 3 red and 3 blue bees.
 
-zh-tw:蜜蜂/史詩蜂

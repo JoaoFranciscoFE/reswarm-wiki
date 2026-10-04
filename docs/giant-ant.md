@@ -11,15 +11,6 @@ tags: ["Mobs", "Ant Challenge"]
 <h3 class="pi-data-label pi-secondary-font">Location</h3>
 <div class="pi-data-value pi-font"><a href="ant-field.html">Ant Field</a> while the <a href="ant-challenge.html">Ant Challenge</a> is active.</div>
 </div>
-<section class="pi-item pi-group pi-border-color">
-<p>@@BLOCO0@@</p>
-</section>
-<section class="pi-item pi-group pi-border-color">
-<p>@@BLOCO1@@</p>
-</section>
-<section class="pi-item pi-group pi-border-color">
-<p>@@BLOCO2@@</p>
-</section>
 </aside>
 
 A **Giant Ant** is one of five mobs that is part of a family called [ants](ants.md) that are exclusively found in the [Ant Challenge](ant-challenge.md), past the [Ant Gate](ant-gate.md).
@@ -126,7 +117,7 @@ Giant Ants are one of the most threatening of the five ant types, as they are ha
 * Due to the Giant Ant's high health, they can 'tank' hits from [bees](bees.md) and allow the smaller, faster ants to attack the player with a much lower chance of being defeated. Their size makes them much harder to avoid. The player should bring bees with high attack such as [Lion Bee](lion-bee.md) to deal enough damage to defeat Giant Ants.
   * The player can also use a [Stinger](stinger.md) to help deal extra damage against the Giant Ant.
 * They always appear every fifth wave on a side of the map so the player can prepare for their arrival.
-* [Vicious Bee's](vicious-bee.md) [Impale](https://bee-swarm-simulator.fandom.com/wiki/Ability_Tokens?so=search#Impale) can deal high amounts of damage to single targets which can help take away tons of health from Giant Ants. [Windy Bee's](windy-bee.md) [Tornado](https://bee-swarm-simulator.fandom.com/wiki/Ability_Tokens?so=search#Tornado) can help chip away a Giant Ant's health and also take out other ants that are hiding behind the Giant Ant. [Digital Bee](digital-bee.md) can also stun Giant Ants and allow them to take extra damage via [Mind Hack](ability-tokens.md#Mind_Hack).
+* [Vicious Bee's](vicious-bee.md) [Impale](ability-tokens.md#Impale) can deal high amounts of damage to single targets which can help take away tons of health from Giant Ants. [Windy Bee's](windy-bee.md) [Tornado](ability-tokens.md#Tornado) can help chip away a Giant Ant's health and also take out other ants that are hiding behind the Giant Ant. [Digital Bee](digital-bee.md) can also stun Giant Ants and allow them to take extra damage via [Mind Hack](ability-tokens.md#Mind_Hack).
 
 ## Gallery
 

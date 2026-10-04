@@ -445,4 +445,3 @@ Total required for all single-purchase items: 3,083 **Blue Extracts**
 </td></tr></tbody></table>
 </td></tr></tbody></table>
 
-zh-tw:藍色精華

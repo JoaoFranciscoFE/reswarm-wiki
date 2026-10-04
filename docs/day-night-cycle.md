@@ -45,4 +45,3 @@ Night lasts 2 minutes 35 seconds, which is the duration of the night theme (moun
     * A full gallery of these messages can be found in the [Night Bell](night-bell.md) page.
 * Sometime before [Beesmas 2025](updates.md#2025-12-25) started, there was a bug that caused the day/night cycle to rapidly speed up, having daytime last only approximately 2–10 minutes.
 
-zh-tw:日夜循環

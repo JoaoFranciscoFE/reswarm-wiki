@@ -60,10 +60,10 @@ The **Beekeeper's Mask** is a mask that can be purchased from the [Mountain Top 
 * This, the [Propeller Hat](propeller-hat.md), the [Helmet](helmet.md), and the Strange Goggles are the only hat accessories whose designs are not based on a bee.
 * Prior to the [2018-11-25 update](updates.md#2018-11-25), it was the most expensive hat accessory in the game, costing 25 million honey and no crafting materials.
 * This item was rebalanced in the [2018-09-10 Update](updates.md#2018-09-10). Before the update, its stats were:
-  * +25% [Pollen from Bees](https://bee-swarm-simulator.fandom.com/wiki/System_Page#Pollen_From_Bees)
+  * +25% [Pollen from Bees](system-page.md#Pollen_From_Bees)
   * +25% [Instant Conversion](system-page.md#Instant_Conversion)
-  * +25% [Defense](https://bee-swarm-simulator.fandom.com/wiki/System_Page#Defense)
-  * +10% [Bee Ability Rate](https://bee-swarm-simulator.fandom.com/wiki/System_Page#Bee_Ability_Rate)
+  * +25% [Defense](system-page.md#Defense)
+  * +10% [Bee Ability Rate](system-page.md#Bee_Ability_Rate)
   * +100% [Loot Luck](system-page.md#Loot_Luck)
   * +20 [Jump Power](system-page.md#Jump_Power)
   * +6 [Player Movespeed](system-page.md#Movespeed)

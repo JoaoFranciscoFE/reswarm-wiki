@@ -248,4 +248,3 @@ The **Belt Bag** is a belt accessory located in the [Pro Shop](pro-shop.md).
 </td></tr></tbody></table>
 </td></tr></tbody></table>
 
-zh-tw:腰包

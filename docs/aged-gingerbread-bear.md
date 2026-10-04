@@ -20,22 +20,7 @@ Aged Gingerbread Bear
 
 An **Aged Gingerbread Bear** is a type of [treat](treats.md) that was added in the [2021-12-26 update](updates.md#2021-12-26). When fed to a bee, it raises its [bond](bond.md) by 500 and has a 1.1% chance of turning the bee gifted. Unused [Gingerbread Bears](gingerbread-bear.md) would transform into aged gingerbread bears after the next Beesmas has started. These cannot be used to purchase items from [Bee Bear's Catalog](bee-bear-s-catalog.md).
 
-The formula for the chance of turning a bee gifted is as follows: 
-
-(
-[
-1
-−
-
-0.989
-x
-]
-∗
-100
-)
-%
-{\displaystyle ([1 - 0.989^x]\* 100)\%}
-, where x is the number of **Aged Gingerbread Bears** fed to a bee.
+The formula for the chance of turning a bee gifted is as follows: \(([1 - 0.989^x]\times  100)\%\), where x is the number of **Aged Gingerbread Bears** fed to a bee.
 
 ## Ways to Obtain
 

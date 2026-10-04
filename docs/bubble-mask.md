@@ -266,4 +266,3 @@ The **Bubble Mask** is a hat accessory that can be bought at the [Blue HQ](blue-
 </td></tr></tbody></table>
 </td></tr></tbody></table>
 
-zh-tw:泡泡頭罩

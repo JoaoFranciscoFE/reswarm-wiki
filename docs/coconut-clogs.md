@@ -253,4 +253,3 @@ The **Coconut Clogs** are a pair of boots that can be purchased in the [Coconut 
 </td></tr></tbody></table>
 </td></tr></tbody></table>
 
-zh-tw:椰子木屐

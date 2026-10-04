@@ -15,15 +15,6 @@ tags: ["Mobs", "Pages with broken file links", "Mini Bosses", "Multiplayer Bosse
 <h3 class="pi-data-label pi-secondary-font">Respawns Every</h3>
 <div class="pi-data-value pi-font">10-30 minutes</div>
 </div>
-<section class="pi-item pi-group pi-border-color">
-<p>@@BLOCO0@@</p>
-</section>
-<section class="pi-item pi-group pi-border-color">
-<p>@@BLOCO1@@</p>
-</section>
-<section class="pi-item pi-group pi-border-color">
-<p>@@BLOCO2@@</p>
-</section>
 </aside>
 
 > *This page is for the rogue version of Vicious Bee. For the tamed version, see [Vicious Bee](vicious-bee.md).*
@@ -303,4 +294,3 @@ The following audio plays when Rogue Vicious Bee has been defeated:
 <td class="NavLinks NavLinksBasicOdd" colspan="2"><b><a href="chicks.html#Chick">Chick</a> • <a href="chicks.html#Hostage_Chick">Hostage Chick</a> • <a href="chicks.html#Spotted_Chick">Spotted Chick</a></b>
 </td></tr></tbody></table>
 
-zh-tw:流氓惡毒蜂

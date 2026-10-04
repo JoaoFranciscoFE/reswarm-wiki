@@ -15,7 +15,7 @@ We are in the process of catching up to the game. Please feel free to help us by
 
 <figure class="thumb" style="width: 85px" typeof="mw:File/Thumb">  <figcaption class="thumbcaption"> <p class="caption">The icon for the Quest Menu.</p> </figcaption> </figure>
 
-**Quests** are a major [mechanic](mechanics.md) in Bee Swarm Simulator. It allows the player to do tasks in order to receive various rewards that allow them to progress further into the game. Quests are not necessary for progression, but are highly recommended. There are a few exceptions, such as [Science Bear](science-bear.md)'s [Translator](science-bear.md#Translator_Quest_List_(15)) questline, and [Spirit Bear](spirit-bear.md)'s questline, which are required to complete to progress.
+**Quests** are a major [mechanic](mechanics.md) in Re://:Swarm. It allows the player to do tasks in order to receive various rewards that allow them to progress further into the game. Quests are not necessary for progression, but are highly recommended. There are a few exceptions, such as [Science Bear](science-bear.md)'s [Translator](science-bear.md#Translator_Quest_List_(15)) questline, and [Spirit Bear](spirit-bear.md)'s questline, which are required to complete to progress.
 
 Quests can be obtained and turned in through conversing with various [quest givers](quest-givers.md). As of now, 8 active quest bears, 3 quest bees, [Onett](onett.md), and 1 [machine](sticker-seeker-quest-machine.md) can give out quests. Traveling bears and other various creatures also give quests but were only available for a limited time in the game.
 
@@ -1745,56 +1745,7 @@ Brown Bear is an infinite quest giver. His quests scale up in difficulty the mor
 Let x equal the minimum amount of pollen for the quest  
 Let y equal the maximum amount of pollen for the quest
 
-Amount of pollen required for a quest =
-
-{
-x
- 
-+
- 
-{
-{
-y
- 
-−
- 
-x
-}
- 
-×
- 
-{
-
-n
-u
-m
-b
-e
-r
-o
-f
-q
-u
-e
-s
-t
-s
-c
-o
-m
-p
-l
-e
-t
-e
-d
-1000
-
-}
-4
-}
-}
-{\displaystyle \{x ~ + ~ \{\{y ~ - ~ x\} ~ \times ~ \{{\frac{numberofquestscompleted}{1000}}\}^4\}\}}
+Amount of pollen required for a quest = \(x+(y-x)\times \left(\frac{numberofquestscompleted}{1000}\right)^4\)
 
 ### Scaling (1000+ quests)
 
@@ -4422,255 +4373,18 @@ The only quest it can give is **🔎 Sticker-Seeker: Rank *X***, where *X* repre
 <li>25 Bee Zone (On rank 11 and onwards)</li>
 <li>30 Bee Zone (On rank 40 and onwards)</li>
 <li>35 Bee Zone (On rank 80 and onwards)</li></ul></li></ul></li>
-<li>Collect <span class="mwe-math-element"><span class="mwe-math-mathml-inline mwe-math-mathml-a11y" style="display: none;"><math alttext="{\displaystyle P(X)}" xmlns="http://www.w3.org/1998/Math/MathML">
-<semantics>
-<mrow class="MJX-TeXAtom-ORD">
-<mstyle displaystyle="true" scriptlevel="0">
-<mi>P</mi>
-<mo stretchy="false">(</mo>
-<mi>X</mi>
-<mo stretchy="false">)</mo>
-</mstyle>
-</mrow>
-<annotation encoding="application/x-tex">{\displaystyle P(X)}</annotation>
-</semantics>
-</math></span></span> pollen with the <a href="sticker-seeker.html">Sticker-Seeker</a>.
-<ul><li><span class="mwe-math-element"><span class="mwe-math-mathml-inline mwe-math-mathml-a11y" style="display: none;"><math alttext="{\displaystyle P(X)}" xmlns="http://www.w3.org/1998/Math/MathML">
-<semantics>
-<mrow class="MJX-TeXAtom-ORD">
-<mstyle displaystyle="true" scriptlevel="0">
-<mi>P</mi>
-<mo stretchy="false">(</mo>
-<mi>X</mi>
-<mo stretchy="false">)</mo>
-</mstyle>
-</mrow>
-<annotation encoding="application/x-tex">{\displaystyle P(X)}</annotation>
-</semantics>
-</math></span></span> is equal to <span class="mwe-math-element"><span class="mwe-math-mathml-inline mwe-math-mathml-a11y" style="display: none;"><math alttext="{\displaystyle p(X)=100000+99900000\cdot \left({\frac {X-1}{499}}\right)^{2.25}+25000\cdot (X-1)+\Delta (X)}" xmlns="http://www.w3.org/1998/Math/MathML">
-<semantics>
-<mrow class="MJX-TeXAtom-ORD">
-<mstyle displaystyle="true" scriptlevel="0">
-<mi>p</mi>
-<mo stretchy="false">(</mo>
-<mi>X</mi>
-<mo stretchy="false">)</mo>
-<mo>=</mo>
-<mn>100000</mn>
-<mo>+</mo>
-<mn>99900000</mn>
-<mo>⋅<!-- ⋅ --></mo>
-<msup>
-<mrow>
-<mo>(</mo>
-<mrow class="MJX-TeXAtom-ORD">
-<mfrac>
-<mrow>
-<mi>X</mi>
-<mo>−<!-- − --></mo>
-<mn>1</mn>
-</mrow>
-<mn>499</mn>
-</mfrac>
-</mrow>
-<mo>)</mo>
-</mrow>
-<mrow class="MJX-TeXAtom-ORD">
-<mn>2.25</mn>
-</mrow>
-</msup>
-<mo>+</mo>
-<mn>25000</mn>
-<mo>⋅<!-- ⋅ --></mo>
-<mo stretchy="false">(</mo>
-<mi>X</mi>
-<mo>−<!-- − --></mo>
-<mn>1</mn>
-<mo stretchy="false">)</mo>
-<mo>+</mo>
-<mi mathvariant="normal">Δ<!-- Δ --></mi>
-<mo stretchy="false">(</mo>
-<mi>X</mi>
-<mo stretchy="false">)</mo>
-</mstyle>
-</mrow>
-<annotation encoding="application/x-tex">{\displaystyle p(X)=100000+99900000\cdot \left({\frac {X-1}{499}}\right)^{2.25}+25000\cdot (X-1)+\Delta (X)}</annotation>
-</semantics>
-</math></span></span>, floored to the nearest <span class="mwe-math-element"><span class="mwe-math-mathml-inline mwe-math-mathml-a11y" style="display: none;"><math alttext="{\displaystyle S(p(X))}" xmlns="http://www.w3.org/1998/Math/MathML">
-<semantics>
-<mrow class="MJX-TeXAtom-ORD">
-<mstyle displaystyle="true" scriptlevel="0">
-<mi>S</mi>
-<mo stretchy="false">(</mo>
-<mi>p</mi>
-<mo stretchy="false">(</mo>
-<mi>X</mi>
-<mo stretchy="false">)</mo>
-<mo stretchy="false">)</mo>
-</mstyle>
-</mrow>
-<annotation encoding="application/x-tex">{\displaystyle S(p(X))}</annotation>
-</semantics>
-</math></span></span>.
+<li>Collect <span class="arithmatex">\(P(X)\)</span> pollen with the <a href="sticker-seeker.html">Sticker-Seeker</a>.
+<ul><li><span class="arithmatex">\(P(X)\)</span> is equal to <span class="arithmatex">\(p(X)=100000+99900000\cdot \left({\frac {X-1}{499}}\right)^{2.25}+25000\cdot (X-1)+\Delta (X)\)</span>, floored to the nearest <span class="arithmatex">\(S(p(X))\)</span>.
 <ul><li><i>X</i> represents the quest's rank, or the player's rank plus 1.</li>
-<li><span class="mwe-math-element"><span class="mwe-math-mathml-inline mwe-math-mathml-a11y" style="display: none;"><math alttext="{\displaystyle \Delta(X)}" xmlns="http://www.w3.org/1998/Math/MathML">
-<semantics>
-<mrow class="MJX-TeXAtom-ORD">
-<mstyle displaystyle="true" scriptlevel="0">
-<mi mathvariant="normal">Δ<!-- Δ --></mi>
-<mo stretchy="false">(</mo>
-<mi>X</mi>
-<mo stretchy="false">)</mo>
-</mstyle>
-</mrow>
-<annotation encoding="application/x-tex">{\displaystyle \Delta(X)}</annotation>
-</semantics>
-</math></span></span> is equal to:
-<ul><li><i>0</i> if <span class="mwe-math-element"><span class="mwe-math-mathml-inline mwe-math-mathml-a11y" style="display: none;"><math alttext="{\displaystyle 500&lt;X}" xmlns="http://www.w3.org/1998/Math/MathML">
-<semantics>
-<mrow class="MJX-TeXAtom-ORD">
-<mstyle displaystyle="true" scriptlevel="0">
-<mn>500</mn>
-<mo>&lt;</mo>
-<mi>X</mi>
-</mstyle>
-</mrow>
-<annotation encoding="application/x-tex">{\displaystyle 500&lt;X}</annotation>
-</semantics>
-</math></span></span></li>
-<li><span class="mwe-math-element"><span class="mwe-math-mathml-inline mwe-math-mathml-a11y" style="display: none;"><math alttext="{\displaystyle 1000000*(X-500)}" xmlns="http://www.w3.org/1998/Math/MathML">
-<semantics>
-<mrow class="MJX-TeXAtom-ORD">
-<mstyle displaystyle="true" scriptlevel="0">
-<mn>1000000</mn>
-<mo>∗<!-- ∗ --></mo>
-<mo stretchy="false">(</mo>
-<mi>X</mi>
-<mo>−<!-- − --></mo>
-<mn>500</mn>
-<mo stretchy="false">)</mo>
-</mstyle>
-</mrow>
-<annotation encoding="application/x-tex">{\displaystyle 1000000*(X-500)}</annotation>
-</semantics>
-</math></span></span> otherwise</li></ul></li>
-<li><span class="mwe-math-element"><span class="mwe-math-mathml-inline mwe-math-mathml-a11y" style="display: none;"><math alttext="{\displaystyle S(p(X))}" xmlns="http://www.w3.org/1998/Math/MathML">
-<semantics>
-<mrow class="MJX-TeXAtom-ORD">
-<mstyle displaystyle="true" scriptlevel="0">
-<mi>S</mi>
-<mo stretchy="false">(</mo>
-<mi>p</mi>
-<mo stretchy="false">(</mo>
-<mi>X</mi>
-<mo stretchy="false">)</mo>
-<mo stretchy="false">)</mo>
-</mstyle>
-</mrow>
-<annotation encoding="application/x-tex">{\displaystyle S(p(X))}</annotation>
-</semantics>
-</math></span></span> is equal to:
-<ul><li><i>50000</i> if <span class="mwe-math-element"><span class="mwe-math-mathml-inline mwe-math-mathml-a11y" style="display: none;"><math alttext="{\displaystyle p(X)\geq 1,000,000}" xmlns="http://www.w3.org/1998/Math/MathML">
-<semantics>
-<mrow class="MJX-TeXAtom-ORD">
-<mstyle displaystyle="true" scriptlevel="0">
-<mi>p</mi>
-<mo stretchy="false">(</mo>
-<mi>X</mi>
-<mo stretchy="false">)</mo>
-<mo>≥<!-- ≥ --></mo>
-<mn>1</mn>
-<mo>,</mo>
-<mn>000</mn>
-<mo>,</mo>
-<mn>000</mn>
-</mstyle>
-</mrow>
-<annotation encoding="application/x-tex">{\displaystyle p(X)\geq 1,000,000}</annotation>
-</semantics>
-</math></span></span></li>
-<li><i>25000</i> if <span class="mwe-math-element"><span class="mwe-math-mathml-inline mwe-math-mathml-a11y" style="display: none;"><math alttext="{\displaystyle 500,000\leq p(X)&lt;1,000,000}" xmlns="http://www.w3.org/1998/Math/MathML">
-<semantics>
-<mrow class="MJX-TeXAtom-ORD">
-<mstyle displaystyle="true" scriptlevel="0">
-<mn>500</mn>
-<mo>,</mo>
-<mn>000</mn>
-<mo>≤<!-- ≤ --></mo>
-<mi>p</mi>
-<mo stretchy="false">(</mo>
-<mi>X</mi>
-<mo stretchy="false">)</mo>
-<mo>&lt;</mo>
-<mn>1</mn>
-<mo>,</mo>
-<mn>000</mn>
-<mo>,</mo>
-<mn>000</mn>
-</mstyle>
-</mrow>
-<annotation encoding="application/x-tex">{\displaystyle 500,000\leq p(X)&lt;1,000,000}</annotation>
-</semantics>
-</math></span></span></li>
-<li><i>10000</i> if <span class="mwe-math-element"><span class="mwe-math-mathml-inline mwe-math-mathml-a11y" style="display: none;"><math alttext="{\displaystyle 100,000\leq p(X)&lt;500,000}" xmlns="http://www.w3.org/1998/Math/MathML">
-<semantics>
-<mrow class="MJX-TeXAtom-ORD">
-<mstyle displaystyle="true" scriptlevel="0">
-<mn>100</mn>
-<mo>,</mo>
-<mn>000</mn>
-<mo>≤<!-- ≤ --></mo>
-<mi>p</mi>
-<mo stretchy="false">(</mo>
-<mi>X</mi>
-<mo stretchy="false">)</mo>
-<mo>&lt;</mo>
-<mn>500</mn>
-<mo>,</mo>
-<mn>000</mn>
-</mstyle>
-</mrow>
-<annotation encoding="application/x-tex">{\displaystyle 100,000\leq p(X)&lt;500,000}</annotation>
-</semantics>
-</math></span></span></li>
-<li><i>5000</i> if <span class="mwe-math-element"><span class="mwe-math-mathml-inline mwe-math-mathml-a11y" style="display: none;"><math alttext="{\displaystyle 25,000\leq p(X)&lt;100,000}" xmlns="http://www.w3.org/1998/Math/MathML">
-<semantics>
-<mrow class="MJX-TeXAtom-ORD">
-<mstyle displaystyle="true" scriptlevel="0">
-<mn>25</mn>
-<mo>,</mo>
-<mn>000</mn>
-<mo>≤<!-- ≤ --></mo>
-<mi>p</mi>
-<mo stretchy="false">(</mo>
-<mi>X</mi>
-<mo stretchy="false">)</mo>
-<mo>&lt;</mo>
-<mn>100</mn>
-<mo>,</mo>
-<mn>000</mn>
-</mstyle>
-</mrow>
-<annotation encoding="application/x-tex">{\displaystyle 25,000\leq p(X)&lt;100,000}</annotation>
-</semantics>
-</math></span></span></li>
-<li><i>1000</i> if <span class="mwe-math-element"><span class="mwe-math-mathml-inline mwe-math-mathml-a11y" style="display: none;"><math alttext="{\displaystyle p(X)&lt;25,000}" xmlns="http://www.w3.org/1998/Math/MathML">
-<semantics>
-<mrow class="MJX-TeXAtom-ORD">
-<mstyle displaystyle="true" scriptlevel="0">
-<mi>p</mi>
-<mo stretchy="false">(</mo>
-<mi>X</mi>
-<mo stretchy="false">)</mo>
-<mo>&lt;</mo>
-<mn>25</mn>
-<mo>,</mo>
-<mn>000</mn>
-</mstyle>
-</mrow>
-<annotation encoding="application/x-tex">{\displaystyle p(X)&lt;25,000}</annotation>
-</semantics>
-</math></span></span></li></ul></li></ul></li></ul></li></ul>
+<li><span class="arithmatex">\(\Delta(X)\)</span> is equal to:
+<ul><li><i>0</i> if <span class="arithmatex">\(500&lt;X\)</span></li>
+<li><span class="arithmatex">\(1000000*(X-500)\)</span> otherwise</li></ul></li>
+<li><span class="arithmatex">\(S(p(X))\)</span> is equal to:
+<ul><li><i>50000</i> if <span class="arithmatex">\(p(X)\geq 1,000,000\)</span></li>
+<li><i>25000</i> if <span class="arithmatex">\(500,000\leq p(X)&lt;1,000,000\)</span></li>
+<li><i>10000</i> if <span class="arithmatex">\(100,000\leq p(X)&lt;500,000\)</span></li>
+<li><i>5000</i> if <span class="arithmatex">\(25,000\leq p(X)&lt;100,000\)</span></li>
+<li><i>1000</i> if <span class="arithmatex">\(p(X)&lt;25,000\)</span></li></ul></li></ul></li></ul></li></ul>
 </td></tr></tbody></table>
 
 On every 10th quest, there is also an extra requirement:
@@ -6301,7 +6015,7 @@ Beesmas Beeliever Badge
 1x Night Bell<br/>
 5x Glitters<br/>
 5x Magic Beans<br/>
-<a href="https://bee-swarm-simulator.fandom.com/wiki/Cub_Buddy">Bee Bear Cub Buddy Skin</a>
+<a href="cub-buddy.html">Bee Bear Cub Buddy Skin</a>
 </p>
 </td></tr></tbody></table>
 

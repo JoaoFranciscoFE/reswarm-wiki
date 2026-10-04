@@ -137,102 +137,13 @@ The following formula can be used to calculate how much of a buff a player recei
 
 * Let *t* be the number of seconds left on the buff.
 * Let *min* and *max* be the minimum and maximum possible value of the given buff.
-* Then the amount of the buff the player receives is equal to 
-
-  m
-  i
-  n
-  +
-  (
-  m
-  a
-  x
-  −
-  m
-  i
-  n
-  )
-  ×
-
-  (
-
-  t
-  86400
-  )
-
-  0.7
-  {\displaystyle min+(max-min)\times {({\frac {t}{86400}})}^{0.7}}
-  , rounded to the nearest 0.001.
+* Then the amount of the buff the player receives is equal to \(min+(max-min)\times {({\frac {t}{86400}})}^{0.7}\), rounded to the nearest 0.001.
 
 For example, let's calculate the amount of Blue Pollen a player gets from 18 hours of Comforting Nectar.
 
-* 18 hours is 64800 seconds, so 
-
-  t
-  =
-  64800
-  {\displaystyle t=64800}
-  .
-* Comforting Nectar gives between x1.1 and x1.5 Blue Pollen, so 
-
-  m
-  i
-  n
-  =
-  1.1
-  {\displaystyle min=1.1}
-   and 
-
-  m
-  a
-  x
-  =
-  1.5
-  {\displaystyle max=1.5}
-  .
-* m
-  i
-  n
-  +
-  (
-  m
-  a
-  x
-  −
-  m
-  i
-  n
-  )
-  ×
-
-  (
-
-  t
-  86400
-  )
-
-  0.7
-  =
-  1.1
-  +
-  (
-  1.5
-  −
-  1.1
-  )
-  ×
-
-  (
-
-  64800
-  86400
-  )
-
-  0.7
-  =
-  1.42704150727
-  {\displaystyle min+(max-min)\times {({\frac {t}{86400}})}^{0.7}=1.1+(1.5-1.1)\times {({\frac {64800}{86400}})}^{0.7}=1.42704150727}
-  , which is rounded to 1.427.
+* 18 hours is 64800 seconds, so \(t=64800\).
+* Comforting Nectar gives between x1.1 and x1.5 Blue Pollen, so \(min=1.1\) and \(max=1.5\).
+* \(min+(max-min)\times {({\frac {t}{86400}})}^{0.7}=1.1+(1.5-1.1)\times {({\frac {64800}{86400}})}^{0.7}=1.42704150727\), which is rounded to 1.427.
 * This means the player will get x1.427 Blue Pollen.
 
 ## Gallery

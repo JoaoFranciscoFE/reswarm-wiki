@@ -71,17 +71,17 @@ Fuzzy Bee likes the [Dandelion Field](dandelion-field.md) and [Pine Tree Forest]
 
 ### Abilities
 
-* **[[Fuzz Bombs]](ability-tokens.md#Fuzz_Bombs)** Spawns 2 (+1 every 5 bee lvls) fuzz bombs that wander the [Field](fields.md) for 8 seconds. Catching them collects pollen and [Pollinates](pollination.md) nearby [Flowers](flowers.md). The amount of pollen collected scales with buzz bomb multipliers and bee Level.
-* **[[Buzz Bomb+]](ability-tokens.md#Bomb)** Collects 7 pollen from 29 surrounding flowers (+10% pollen per Level). This combined with other bombs will increase power.
-* **[[🌟Gifted Ability: Pollen Haze]](ability-tokens.md#Pollen_Haze)** Summons a yellow haze over the field for 30s that pollinates up to 30 random flowers every second and improves flower growth rate. Bomb Tokens within the haze are automatically collected and pollinate flowers. If there has been a Pollen Haze over the field within the last 3 minutes, this summons fuzz bombs instead.
-* **[[Passive: Fuzzy Coat]](passive-abilities.md#Fuzzy_Coat)** This bee may pollinate up to 5 nearby flowers (9 if gifted) every time it gathers. Pollinated flowers are temporarily upgraded to grant and store more pollen and grow faster. Lower tier flowers have a higher chance of being pollinated.
+* **[Fuzz Bombs](ability-tokens.md#Fuzz_Bombs)** Spawns 2 (+1 every 5 bee lvls) fuzz bombs that wander the [Field](fields.md) for 8 seconds. Catching them collects pollen and [Pollinates](pollination.md) nearby [Flowers](flowers.md). The amount of pollen collected scales with buzz bomb multipliers and bee Level.
+* **[Buzz Bomb+](ability-tokens.md#Bomb)** Collects 7 pollen from 29 surrounding flowers (+10% pollen per Level). This combined with other bombs will increase power.
+* **[🌟Gifted Ability: Pollen Haze](ability-tokens.md#Pollen_Haze)** Summons a yellow haze over the field for 30s that pollinates up to 30 random flowers every second and improves flower growth rate. Bomb Tokens within the haze are automatically collected and pollinate flowers. If there has been a Pollen Haze over the field within the last 3 minutes, this summons fuzz bombs instead.
+* **[Passive: Fuzzy Coat](passive-abilities.md#Fuzzy_Coat)** This bee may pollinate up to 5 nearby flowers (9 if gifted) every time it gathers. Pollinated flowers are temporarily upgraded to grant and store more pollen and grow faster. Lower tier flowers have a higher chance of being pollinated.
 
 <table style="font-size:1.5vh; color:#000; width:100%; background:#fff; padding: 15px 0; border:none; color:#000; border-left:15px #000 solid">
 <tbody><tr>
 <td style="width:100%; text-align:center">
-<p>Fuzzy Bee has a base pollen collection of <b>100 <strong class="error"><span class="scribunto-error mw-scribunto-error-dd44d918">Lua error in Module:Item_image at line 88: Template error! There's no such file named File:White Boost Token.png for Template:I.</span></strong></b> in <b>6 seconds</b>. 
-</p><p>That's equivalent to 16.66667 <strong class="error"><span class="scribunto-error mw-scribunto-error-dd44d918">Lua error in Module:Item_image at line 88: Template error! There's no such file named File:White Boost Token.png for Template:I.</span></strong> per second. 
-</p><p>(<b>200 <strong class="error"><span class="scribunto-error mw-scribunto-error-dd44d918">Lua error in Module:Item_image at line 88: Template error! There's no such file named File:White Boost Token.png for Template:I.</span></strong></b> in <b>6 seconds</b> with x2 Bee Pollen gamepass)
+<p>Fuzzy Bee has a base pollen collection of <b>100 </b> in <b>6 seconds</b>. 
+</p><p>That's equivalent to 16.66667  per second. 
+</p><p>(<b>200 </b> in <b>6 seconds</b> with x2 Bee Pollen gamepass)
 </p>
 </td></tr></tbody></table>
 
@@ -413,4 +413,3 @@ Fuzzy Bee likes the [Dandelion Field](dandelion-field.md) and [Pine Tree Forest]
 <td class="NavLinks NavLinksEvent"><b><span typeof="mw:Error mw:File"></span> <a href="bear-bee.html">Bear Bee</a> • <span typeof="mw:Error mw:File"></span> <a href="cobalt-bee.html">Cobalt Bee</a> • <span typeof="mw:Error mw:File"></span> <a href="crimson-bee.html">Crimson Bee</a> • <span typeof="mw:Error mw:File"></span> <a href="digital-bee.html">Digital Bee</a> • <span typeof="mw:Error mw:File"></span> <a href="festive-bee.html">Festive Bee</a> • <span typeof="mw:Error mw:File"></span> <a href="gummy-bee.html">Gummy Bee</a> • <span typeof="mw:Error mw:File"></span> <a href="photon-bee.html">Photon Bee</a> • <span typeof="mw:Error mw:File"></span> <a href="puppy-bee.html">Puppy Bee</a> • <span typeof="mw:Error mw:File"></span> <a href="tabby-bee.html">Tabby Bee</a> • <span typeof="mw:Error mw:File"></span> <a href="vicious-bee.html">Vicious Bee</a> • <span typeof="mw:Error mw:File"></span> <a href="windy-bee.html">Windy Bee</a></b>
 </td></tr></tbody></table>
 
-zh-tw:絨毛蜂

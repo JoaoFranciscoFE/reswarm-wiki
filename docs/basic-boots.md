@@ -247,4 +247,3 @@ The **Basic Boots** are a pair of boots that were added in the [2018-09-10 updat
 </td></tr></tbody></table>
 </td></tr></tbody></table>
 
-zh-tw:基本靴

@@ -31,141 +31,14 @@ The Brick is used as the main currency of the [Retro Swarm Challenge](retro-swar
 
 ## Cost of buying bricks
 
-Let n be the number of bricks already bought. The cost of the next brick is equal to 
-
-Cost
-(
-n
-)
-=
-
-⌊
-
-n
-
-x
-(
-n
-+
-1
-)
-⋅
-
-y
-(
-n
-+
-1
-)
-
-⌋
-{\displaystyle {\text{Cost}}(n)={\Big \lfloor }n^{{\text{x}}(n+1)}\cdot {\text{y}}(n+1){\Big \rfloor }}
+Let n be the number of bricks already bought. The cost of the next brick is equal to \({\text{Cost}}(n)={\Big \lfloor }n^{{\text{x}}(n+1)}\cdot {\text{y}}(n+1){\Big \rfloor }\)
 
 where
 
-* x
-  (
-  n
-  )
-  =
+* \({\text{x}}(n)={\begin{cases}1.2&{\text{if }}n<50\\1.5&{\text{if }}50\leq n<100\\1.75&{\text{if }}100\leq n<250\\2&{\text{if }}n\geq 250\end{cases}}\)
+* \({\text{y}}(n)={\begin{cases}10&{\text{if }}n<1000\\20&{\text{if }}1000\leq n<2000\\30&{\text{if }}2000\leq n<5000\\40&{\text{if }}n\geq 5000\end{cases}}\)
 
-  {
-
-  1.2
-
-  if 
-  n
-  <
-  50
-
-  1.5
-
-  if 
-  50
-  ≤
-  n
-  <
-  100
-
-  1.75
-
-  if 
-  100
-  ≤
-  n
-  <
-  250
-
-  2
-
-  if 
-  n
-  ≥
-  250
-
-  {\displaystyle {\text{x}}(n)={\begin{cases}1.2&{\text{if }}n<50\\1.5&{\text{if }}50\leq n<100\\1.75&{\text{if }}100\leq n<250\\2&{\text{if }}n\geq 250\end{cases}}}
-* y
-  (
-  n
-  )
-  =
-
-  {
-
-  10
-
-  if 
-  n
-  <
-  1000
-
-  20
-
-  if 
-  1000
-  ≤
-  n
-  <
-  2000
-
-  30
-
-  if 
-  2000
-  ≤
-  n
-  <
-  5000
-
-  40
-
-  if 
-  n
-  ≥
-  5000
-
-  {\displaystyle {\text{y}}(n)={\begin{cases}10&{\text{if }}n<1000\\20&{\text{if }}1000\leq n<2000\\30&{\text{if }}2000\leq n<5000\\40&{\text{if }}n\geq 5000\end{cases}}}
-
-As an example, if the player were to have 110 bricks already bought, then the cost of the next brick is equal to 
-
-Cost
-(
-n
-)
-=
-
-⌊
-
-111
-
-1.75
-⋅
-10
-
-⌋
-≈
-{\displaystyle {\text{Cost}}(n)={\Big \lfloor }111^{1.75}\cdot 10{\Big \rfloor }\approx }
- 37,363 [Honey](honey.md).
+As an example, if the player were to have 110 bricks already bought, then the cost of the next brick is equal to \({\text{Cost}}(n)={\Big \lfloor }111^{1.75}\cdot 10{\Big \rfloor }\approx\) 37,363 [Honey](honey.md).
 
 ### The methods below are no longer possible.
 

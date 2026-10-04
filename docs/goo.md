@@ -11,13 +11,7 @@ tags: ["Pages with broken file links", "Mechanics", "Gummy Invasion", "Goo"]
 
 **Goo** is a purple-to-teal substance that gives the player bonus [honey](honey.md) when spread across [flowers](flowers.md). Using [gumdrops](gumdrops.md) is the easiest and most common way to manually spread goo. To collect goo, collect pollen as usual (with [tools](tools.md), [bees](bees.md), and/or their [ability tokens](ability-tokens.md)) from flowers that are covered in goo.
 
-The following formula shows how much bonus honey a player gets from goo. Let *p* equal the amount of pollen collected from a puddle of goo, and *f* the amount of flowers inside the puddle.
-
-p
-
-f
-200
-{\displaystyle p\sqrt{\frac{f}{200}}}
+The following formula shows how much bonus honey a player gets from goo. Let *p* equal the amount of pollen collected from a puddle of goo, and *f* the amount of flowers inside the puddle. \(p\sqrt{\frac{f}{200}}\)
 
 This means that the larger the goo puddle, the more bonus honey the player gets. For example, collecting 500,000 pollen from a goo puddle of 80 flowers would grant roughly 316,228 bonus honey.
 

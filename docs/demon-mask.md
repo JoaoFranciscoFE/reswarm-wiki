@@ -307,4 +307,3 @@ Once the 25th battle [Ability Token](ability-tokens.md) is collected, Demon Mask
 </td></tr></tbody></table>
 </td></tr></tbody></table>
 
-zh-tw:惡魔頭罩

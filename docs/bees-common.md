@@ -91,4 +91,3 @@ tags: ["Pages with broken file links", "Bees", "Common"]
 * The Common rarity is the rarity with the least amount of bee types, having only 1 bee type.
 * This rarity has only three ways of getting a bee of this rarity which are [Basic Eggs](egg.md#Basic_Egg), [Star Eggs](egg.md#Star_Egg), and the [Basic Bee Jelly](royal-jelly.md#Specific_Bee_Jelly_Variants).
 
-zh-tw:蜜蜂/普通蜂

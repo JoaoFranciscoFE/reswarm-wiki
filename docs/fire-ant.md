@@ -11,15 +11,6 @@ tags: ["Mobs", "Ant Challenge"]
 <h3 class="pi-data-label pi-secondary-font">Location</h3>
 <div class="pi-data-value pi-font"><a href="ant-field.html">Ant Field</a> while the <a href="ant-challenge.html">Ant Challenge</a> is active.</div>
 </div>
-<section class="pi-item pi-group pi-border-color">
-<p>@@BLOCO0@@</p>
-</section>
-<section class="pi-item pi-group pi-border-color">
-<p>@@BLOCO1@@</p>
-</section>
-<section class="pi-item pi-group pi-border-color">
-<p>@@BLOCO2@@</p>
-</section>
 </aside>
 
 A **Fire Ant** is one of five [ants](ants.md) that are exclusively found in the [Ant Challenge](ant-challenge.md), past the [Ant Gate](ant-gate.md).

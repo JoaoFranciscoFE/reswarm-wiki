@@ -253,4 +253,3 @@ The **Mondo Belt Bag** is a belt accessory located in the [Mountain Top Shop](mo
 </td></tr></tbody></table>
 </td></tr></tbody></table>
 
-zh-tw:卓越腰包
