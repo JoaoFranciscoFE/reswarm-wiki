@@ -44,7 +44,7 @@ All 72 pages in Leaderboards.
 <a class="wiki-card" href="daily-top-damage-to-a-single-puffshroom.html"><img src="img/Daily_Top_Damage_to_A_Single_Puffshroom.png" alt="" loading="lazy"><span>Daily Top Damage to A Single Puffshroom</span></a>
 <a class="wiki-card" href="daily-top-dandelion-field-collectors.html"><img src="img/Daily_Top_Dandelion_Field_Collectors.png" alt="" loading="lazy"><span>Daily Top Dandelion Field Collectors</span></a>
 <a class="wiki-card" href="daily-top-epic-bee-pollen-collectors.html"><img src="img/Daily_Top_Epic_Bee_Pollen_Collectors.png" alt="" loading="lazy"><span>Daily Top Epic Bee Pollen Collectors</span></a>
-<a class="wiki-card" href="daily-top-firefly-chasers.html"><img src="img/Shining_Star.png" alt="" loading="lazy"><span>Daily Top Firefly Chasers</span></a>
+<a class="wiki-card wiki-card--noicon" href="daily-top-firefly-chasers.html"><img src="images/no-icon.svg" alt="" loading="lazy"><span>Daily Top Firefly Chasers</span></a>
 <a class="wiki-card" href="daily-top-gummy-soldiers.html"><img src="img/Daily_Top_Gummy_Soldiers.png" alt="" loading="lazy"><span>Daily Top Gummy Soldiers</span></a>
 <a class="wiki-card" href="daily-top-haste-token-collectors.html"><img src="img/Daily_Top_Haste_Token_Collectors.png" alt="" loading="lazy"><span>Daily Top Haste Token Collectors</span></a>
 <a class="wiki-card" href="daily-top-honey-gift-receivers.html"><img src="img/Daily_Top_Honey_Gift_Receivers.png" alt="" loading="lazy"><span>Daily Top Honey Gift Receivers</span></a>
@@ -80,5 +80,5 @@ All 72 pages in Leaderboards.
 <a class="wiki-card" href="highest-snowbear-level.html"><img src="img/Highest_Snowbear_Level.png" alt="" loading="lazy"><span>Highest Snowbear Level</span></a>
 <a class="wiki-card" href="leaderboards.html"><img src="img/Leaderboards.png" alt="" loading="lazy"><span>Leaderboards</span></a>
 <a class="wiki-card" href="monthly-top-honeymakers.html"><img src="img/Monthly_Top_Honeymakers.png" alt="" loading="lazy"><span>Monthly Top Honeymakers</span></a>
-<a class="wiki-card" href="most-commando-captures.html"><img src="img/Shining_Star.png" alt="" loading="lazy"><span>Most Commando Captures</span></a>
+<a class="wiki-card wiki-card--noicon" href="most-commando-captures.html"><img src="images/no-icon.svg" alt="" loading="lazy"><span>Most Commando Captures</span></a>
 </div>
