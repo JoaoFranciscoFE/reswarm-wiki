@@ -5,6 +5,8 @@ tags: ["Beesmas", "Locations", "Machines", "Beesmas Decorations"]
 
 # Onett's Lid Art
 
+![Onett's Lid Art](img/places/Onett's_Lid_Art.png){ .wiki-photo }
+
 This piece of content goes bye bye.
 
 The following content has been removed from the game. The contents below may be archival, but feel free to edit below.

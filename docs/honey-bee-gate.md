@@ -7,6 +7,7 @@ tags: ["Locations", "Gates"]
 
 <aside class="portable-infobox pi-background pi-border-color pi-theme-wikia pi-layout-default" role="region">
 <h2 class="pi-item pi-item-spacing pi-title pi-secondary-background" data-source="title1">Honey Bee Gate</h2>
+<figure class="pi-item pi-image pi-photo"><img alt="Honey Bee Gate" src="img/places/Honey_Bee_Gate.png" width="640" height="385"/></figure>
 <div class="pi-item pi-data pi-item-spacing pi-border-color" data-source="mobs">
 <h3 class="pi-data-label pi-secondary-font">Mobs</h3>
 <div class="pi-data-value pi-font"><ul><li><a href="werewolf.html">Werewolf</a>.</li><li><a href="cave-monster.html">Cave Monsters</a>.</li><li><a href="mantis.html">Mantises</a>.</li><li><a href="scorpion.html">Scorpions</a>.</li></ul></div>

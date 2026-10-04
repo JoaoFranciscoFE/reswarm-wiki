@@ -5,7 +5,6 @@ tags: ["Shops", "Locations", "Machines"]
 
 # Ticket Shop
 
-![Ticket Shop](img/Ticket_Shop.png){ align=right width=150 }
 
 This piece of content contains information obtained through datamining.
 
@@ -15,6 +14,7 @@ Datamined information: The formula for calculating the cost of buying a ticket. 
 
 <aside class="portable-infobox pi-background pi-border-color pi-theme-wikia pi-layout-default" role="region">
 <h2 class="pi-item pi-item-spacing pi-title pi-secondary-background" data-source="title1">Ticket Shop</h2>
+<figure class="pi-item pi-image pi-photo"><img alt="Ticket Shop" src="img/places/Ticket_Shop.png" width="640" height="385"/></figure>
 <div class="pi-item pi-data pi-item-spacing pi-border-color" data-source="row1">
 <h3 class="pi-data-label pi-secondary-font">Location</h3>
 <div class="pi-data-value pi-font">Outside the <a href="mountain-top-shop.html">Mountain Top Shop</a></div>

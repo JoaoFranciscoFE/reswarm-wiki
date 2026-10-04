@@ -16,7 +16,7 @@ All 49 pages in Mechanics.
 <a class="wiki-card" href="battle-points.html"><img src="img/Battle_Points.png" alt="" loading="lazy"><span>Battle Points</span></a>
 <a class="wiki-card" href="bee-attack.html"><img src="img/Bee_Attack.png" alt="" loading="lazy"><span>Bee Attack</span></a>
 <a class="wiki-card wiki-card--noicon" href="beequip-generation.html"><img src="images/no-icon.svg" alt="" loading="lazy"><span>Beequip Generation</span></a>
-<a class="wiki-card wiki-card--noicon" href="blender.html"><img src="images/no-icon.svg" alt="" loading="lazy"><span>Blender</span></a>
+<a class="wiki-card wiki-card--photo" href="blender.html"><img src="img/places/Blender.png" alt="" loading="lazy"><span>Blender</span></a>
 <a class="wiki-card" href="bond.html"><img src="img/Bond.png" alt="" loading="lazy"><span>Bond</span></a>
 <a class="wiki-card" href="bubble.html"><img src="img/Bubble.png" alt="" loading="lazy"><span>Bubble</span></a>
 <a class="wiki-card" href="buffs-debuffs.html"><img src="img/Buffs_&_Debuffs.png" alt="" loading="lazy"><span>Buffs &amp; Debuffs</span></a>

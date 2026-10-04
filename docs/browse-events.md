@@ -21,17 +21,17 @@ All 27 pages in Events.
 <a class="wiki-card wiki-card--noicon" href="gummy-beacon.html"><img src="images/no-icon.svg" alt="" loading="lazy"><span>Gummy Beacon</span></a>
 <a class="wiki-card" href="honey-wreath.html"><img src="img/Honey_Wreath.png" alt="" loading="lazy"><span>Honey Wreath</span></a>
 <a class="wiki-card" href="honeyday-candles.html"><img src="img/Honeyday_Candles.png" alt="" loading="lazy"><span>Honeyday Candles</span></a>
-<a class="wiki-card wiki-card--noicon" href="honeystorm.html"><img src="images/no-icon.svg" alt="" loading="lazy"><span>Honeystorm</span></a>
+<a class="wiki-card wiki-card--photo" href="honeystorm.html"><img src="img/places/Honeystorm.png" alt="" loading="lazy"><span>Honeystorm</span></a>
 <a class="wiki-card wiki-card--noicon" href="mazes.html"><img src="images/no-icon.svg" alt="" loading="lazy"><span>Mazes</span></a>
 <a class="wiki-card" href="memory-match.html"><img src="img/Memory_Match.png" alt="" loading="lazy"><span>Memory Match</span></a>
 <a class="wiki-card" href="mythic-meteor-shower.html"><img src="img/Mythic_Meteor_Shower.png" alt="" loading="lazy"><span>Mythic Meteor Shower</span></a>
-<a class="wiki-card wiki-card--noicon" href="naughty-list.html"><img src="images/no-icon.svg" alt="" loading="lazy"><span>Naughty List</span></a>
+<a class="wiki-card wiki-card--photo" href="naughty-list.html"><img src="img/places/Naughty_List.png" alt="" loading="lazy"><span>Naughty List</span></a>
 <a class="wiki-card wiki-card--noicon" href="obstacle-courses.html"><img src="images/no-icon.svg" alt="" loading="lazy"><span>Obstacle Courses</span></a>
 <a class="wiki-card" href="present-2025.html"><img src="img/Present/2025.png" alt="" loading="lazy"><span>Present/2025</span></a>
 <a class="wiki-card" href="retro-swarm-challenge.html"><img src="img/Retro_Swarm_Challenge.png" alt="" loading="lazy"><span>Retro Swarm Challenge</span></a>
 <a class="wiki-card" href="robo-bear-challenge.html"><img src="img/Robo_Bear_Challenge.png" alt="" loading="lazy"><span>Robo Bear Challenge</span></a>
 <a class="wiki-card" href="robo-party-cake.html"><img src="img/Robo_Party_Cake.png" alt="" loading="lazy"><span>Robo Party Cake</span></a>
-<a class="wiki-card wiki-card--noicon" href="samovar.html"><img src="images/no-icon.svg" alt="" loading="lazy"><span>Samovar</span></a>
+<a class="wiki-card wiki-card--photo" href="samovar.html"><img src="img/places/Samovar.png" alt="" loading="lazy"><span>Samovar</span></a>
 <a class="wiki-card" href="snow-machine.html"><img src="img/Snow_Machine.png" alt="" loading="lazy"><span>Snow Machine</span></a>
 <a class="wiki-card" href="snow-storm.html"><img src="img/Snow_Storm.png" alt="" loading="lazy"><span>Snow Storm</span></a>
 <a class="wiki-card" href="stick-bug-challenge.html"><img src="img/Stick_Bug_Challenge.png" alt="" loading="lazy"><span>Stick Bug Challenge</span></a>

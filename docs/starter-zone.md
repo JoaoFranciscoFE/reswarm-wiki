@@ -5,6 +5,8 @@ tags: ["Locations", "Starter Zone"]
 
 # Starter Zone
 
+![Starter Zone](img/places/Starter_Zone.png){ .wiki-photo }
+
 The **Starter Zone** is the collection of places that do not need any [bee](bees.md) prerequisites to access. Any player can access the Starter Zone, no matter how far they are into the game. This is also where the players' [hives](hive.md) are.
 
 ## [Music](music.md)

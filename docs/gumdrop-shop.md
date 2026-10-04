@@ -5,7 +5,7 @@ tags: ["Shops", "Locations", "Gummy Invasion", "Goo", "Machines"]
 
 # Gumdrop Shop
 
-![Gumdrop Shop](img/Gumdrop_Shop.png){ align=right width=150 }
+![Gumdrop Shop](img/places/Gumdrop_Shop.png){ .wiki-photo }
 
 <figure class="thumb" style="width: 250px" typeof="mw:File/Thumb">  <figcaption class="thumbcaption"> <p class="caption"><i>The design of the Gumdrop Shop.</i></p> </figcaption> </figure>
 

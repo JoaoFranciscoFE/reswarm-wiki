@@ -5,6 +5,8 @@ tags: ["Transport", "Locations", "Machines", "Red"]
 
 # Red Teleporter
 
+![Red Teleporter](img/places/Red_Teleporter.png){ .wiki-photo }
+
 <figure class="thumb" style="width: 202px" typeof="mw:File/Thumb">  <figcaption class="thumbcaption"> <p class="caption">The Red Teleporter pad in the Red HQ.</p> </figcaption> </figure>
 
 <figure class="thumb" style="width: 270px" typeof="mw:File/Thumb">  <figcaption class="thumbcaption"> <p class="caption">The destination of the Red Teleporter, behind Science Bear.</p> </figcaption> </figure>

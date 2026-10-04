@@ -5,6 +5,8 @@ tags: ["Locations", "Starter Zone"]
 
 # Star Hall
 
+![Star Hall](img/places/Star_Hall.png){ .wiki-photo }
+
 <figure class="thumb" style="width: 268px" typeof="mw:File/Thumb">  <figcaption class="thumbcaption"> <p class="caption">The entrance of the Star Hall.</p> </figcaption> </figure>
 
 <figure class="thumb" style="width: 271px" typeof="mw:File/Thumb">  <figcaption class="thumbcaption"> <p class="caption">The interior of the Star Hall.</p> </figcaption> </figure>

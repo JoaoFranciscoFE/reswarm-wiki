@@ -5,6 +5,8 @@ tags: ["Shops", "Locations"]
 
 # Mountain Top Shop
 
+![Mountain Top Shop](img/places/Mountain_Top_Shop.png){ .wiki-photo }
+
 <figure class="mw-halign-right" typeof="mw:Error mw:File"><figcaption>the Mountain Top Shop at an angle.</figcaption></figure>
 
 The **Mountain Top Shop**, also called the **Top Shop**, is a [shop](shops.md) located past the [Lion Bee Gate](lion-bee-gate.md). Before the [Mountain Top Field's](mountain-top-field.md) name was known, this shop used to be called the **25 Bee Shop**. The shop sells various high-end [items](items.md) and is run by [Top Bear](top-bear.md).

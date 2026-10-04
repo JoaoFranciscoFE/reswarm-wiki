@@ -5,7 +5,7 @@ tags: ["Beesmas", "Shops"]
 
 # Bee Bear's Catalog
 
-![Bee Bear's Catalog](img/Bee_Bear's_Catalog.png){ align=right width=150 }
+![Bee Bear's Catalog](img/places/Bee_Bear's_Catalog.png){ .wiki-photo }
 
 This piece of content goes bye bye.
 

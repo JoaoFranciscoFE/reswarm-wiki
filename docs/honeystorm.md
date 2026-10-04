@@ -5,6 +5,8 @@ tags: ["Locations", "Machines", "Summoner", "Starter Zone"]
 
 # Honeystorm
 
+![Honeystorm](img/places/Honeystorm.png){ .wiki-photo }
+
 <figure class="thumb" style="width: 180px" typeof="mw:File/Thumb">  <figcaption class="thumbcaption"> <p class="caption">The Honeystorm summoner.</p> </figcaption> </figure>
 
 A **Honeystorm** is a server-wide event that can be summoned by using the pad near [Brown Bear](brown-bear.md) by anyone who has discovered at least four [Legendary Bee](bees-legendary.md) types. When summoned, a server-wide announcement will state:  

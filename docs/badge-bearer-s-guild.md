@@ -5,6 +5,8 @@ tags: ["Shops", "Locations"]
 
 # Badge Bearer's Guild
 
+![Badge Bearer's Guild](img/places/Badge_Bearer's_Guild.png){ .wiki-photo }
+
 <figure class="mw-halign-right" typeof="mw:Error mw:File"><figcaption></figcaption></figure>
 
 The **Badge Bearer's Guild** is a [shop](shops.md) located near the [Pine Tree Forest](pine-tree-forest.md). The player will need at least 15 [badges](badges.md) of any rank past Junior to be permitted to enter the shop.

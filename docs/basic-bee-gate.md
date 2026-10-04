@@ -7,6 +7,7 @@ tags: ["Locations", "Gates"]
 
 <aside class="portable-infobox pi-background pi-border-color pi-theme-wikia pi-layout-default" role="region">
 <h2 class="pi-item pi-item-spacing pi-title pi-secondary-background" data-source="title1">Basic Bee Gate</h2>
+<figure class="pi-item pi-image pi-photo"><img alt="Basic Bee Gate" src="img/places/Basic_Bee_Gate.png" width="640" height="385"/></figure>
 <div class="pi-item pi-data pi-item-spacing pi-border-color" data-source="mobs">
 <h3 class="pi-data-label pi-secondary-font">Mobs</h3>
 <div class="pi-data-value pi-font"><ul><li>1 <a href="spider.html">Spider</a>.</li><li>2 <a href="rhino-beetle.html">Rhino Beetles</a>.</li><li>2 <a href="ladybug.html">Ladybugs</a>.</li></ul></div>

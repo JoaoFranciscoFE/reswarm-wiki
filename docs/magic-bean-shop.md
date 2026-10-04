@@ -5,7 +5,7 @@ tags: ["Locations", "Shops", "Machines"]
 
 # Magic Bean Shop
 
-![Magic Bean Shop](img/Magic_Bean_Shop.png){ align=right width=150 }
+![Magic Bean Shop](img/places/Magic_Bean_Shop.png){ .wiki-photo }
 
 <figure class="thumb" style="width: 180px" typeof="mw:File/Thumb">  <figcaption class="thumbcaption"> <p class="caption">The Magic Bean Shop.</p> </figcaption> </figure>
 

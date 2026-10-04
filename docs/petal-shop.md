@@ -7,6 +7,7 @@ tags: ["Shops", "Locations"]
 
 <aside class="portable-infobox pi-background pi-border-color pi-theme-wikia pi-layout-default" role="region">
 <h2 class="pi-item pi-item-spacing pi-title pi-secondary-background" data-source="title1">Petal Shop</h2>
+<figure class="pi-item pi-image pi-photo"><img alt="Petal Shop" src="img/places/Petal_Shop.png" width="640" height="385"/></figure>
 <div class="pi-item pi-data pi-item-spacing pi-border-color" data-source="row1">
 <h3 class="pi-data-label pi-secondary-font">Location</h3>
 <div class="pi-data-value pi-font">In the cave near the Windy Bee Gate, under the Wind Shrine.</div>

@@ -5,6 +5,8 @@ tags: ["NPC", "Bears"]
 
 # Pro Bear
 
+![Pro Bear](img/places/Pro_Bear.png){ .wiki-photo }
+
 <table class="infobox" style="font-size:12px; color:white; width:300px; background:#a58b59;padding:0; border:none; color:#FFF;">
 <tbody><tr>
 <td colspan="2" style="background-color:#684a12; font-size:2vh; text-align: center; padding: 15px 0; color:#FFF"><b>Pro Bear</b>

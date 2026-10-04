@@ -5,6 +5,8 @@ tags: ["Locations", "Shops", "Goo"]
 
 # Gummy Bear's Lair
 
+![Gummy Bear's Lair](img/places/Gummy_Bear's_Lair.png){ .wiki-photo }
+
 <figure class="thumb" style="width: 220px" typeof="mw:File/Thumb">  <figcaption class="thumbcaption"> <p class="caption">Gummy Bear's Lair.</p> </figcaption> </figure>
 
 <figure class="thumb" style="width: 180px" typeof="mw:File/Thumb">  <figcaption class="thumbcaption"> <p class="caption">The platform to talk to Gummy Bear. This was used for Gummy Bear's Beesmas 2020 quest, or now to teleport out of the lair. Only players with the Gummy Mask can use this.</p> </figcaption> </figure>
