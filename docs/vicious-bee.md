@@ -12,8 +12,8 @@ tags: ["Pages with broken file links", "Bees", "Event", "Blue"]
 <label for="bee-tab-original">Original</label>
 <input type="radio" name="bee-infobox-tab" id="bee-tab-gifted">
 <label for="bee-tab-gifted">Gifted</label>
-<div class="bee-infobox-image bee-tab-original"><img alt="Vicious Bee" src="img/Vicious_Bee.png" width="150" height="150"></div>
-<div class="bee-infobox-image bee-tab-gifted"><img alt="Gifted Vicious Bee" src="img/Gifted_Vicious_Bee.png" width="150" height="150"></div>
+<div class="bee-infobox-image bee-tab-original"><img alt="Vicious Bee" src="img/Vicious_Bee.png" width="150"></div>
+<div class="bee-infobox-image bee-tab-gifted"><img alt="Gifted Vicious Bee" src="img/Gifted_Vicious_Bee.png" width="150"></div>
 </div>
 <div class="bee-infobox-quote"><i>"This cold-blooded bee takes great pleasure in inflicting pain."</i></div>
 <div class="bee-infobox-row"><b>Rarity</b><span>Event</span></div>

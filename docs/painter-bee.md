@@ -12,8 +12,8 @@ tags: ["Bees", "Event", "Colorless", "Painter Bee Event", "Re://:Swarm"]
 <label for="bee-tab-original">Original</label>
 <input type="radio" name="bee-infobox-tab" id="bee-tab-gifted">
 <label for="bee-tab-gifted">Gifted</label>
-<div class="bee-infobox-image bee-tab-original"><img alt="Painter Bee" src="img/Painter_Bee.png" width="150" height="150"></div>
-<div class="bee-infobox-image bee-tab-gifted"><img alt="Gifted Painter Bee" src="img/Gifted_Painter_Bee.png" width="150" height="150"></div>
+<div class="bee-infobox-image bee-tab-original"><img alt="Painter Bee" src="img/Painter_Bee.png" width="150"></div>
+<div class="bee-infobox-image bee-tab-gifted"><img alt="Gifted Painter Bee" src="img/Gifted_Painter_Bee.png" width="150"></div>
 </div>
 <div class="bee-infobox-quote"><i>"An artistic bee who sees every field as a blank canvas."</i></div>
 <div class="bee-infobox-row"><b>Rarity</b><span>Event</span></div>

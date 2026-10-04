@@ -12,8 +12,8 @@ tags: ["Pages with broken file links", "Bees", "Legendary", "Red"]
 <label for="bee-tab-original">Original</label>
 <input type="radio" name="bee-infobox-tab" id="bee-tab-gifted">
 <label for="bee-tab-gifted">Gifted</label>
-<div class="bee-infobox-image bee-tab-original"><img alt="Shy Bee" src="img/Shy_Bee.png" width="150" height="150"></div>
-<div class="bee-infobox-image bee-tab-gifted"><img alt="Gifted Shy Bee" src="img/Gifted_Shy_Bee.png" width="150" height="150"></div>
+<div class="bee-infobox-image bee-tab-original"><img alt="Shy Bee" src="img/Shy_Bee.png" width="150"></div>
+<div class="bee-infobox-image bee-tab-gifted"><img alt="Gifted Shy Bee" src="img/Gifted_Shy_Bee.png" width="150"></div>
 </div>
 <div class="bee-infobox-quote"><i>"This talented bee doesn't like to socialize, it just wants to work and be left alone."</i></div>
 <div class="bee-infobox-row"><b>Rarity</b><span>Legendary</span></div>

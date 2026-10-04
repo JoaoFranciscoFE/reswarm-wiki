@@ -12,8 +12,8 @@ tags: ["Pages with broken file links", "Bees", "Colorless", "Event"]
 <label for="bee-tab-original">Original</label>
 <input type="radio" name="bee-infobox-tab" id="bee-tab-gifted">
 <label for="bee-tab-gifted">Gifted</label>
-<div class="bee-infobox-image bee-tab-original"><img alt="Tabby Bee" src="img/Tabby_Bee.png" width="150" height="150"></div>
-<div class="bee-infobox-image bee-tab-gifted"><img alt="Gifted Tabby Bee" src="img/Gifted_Tabby_Bee.png" width="150" height="150"></div>
+<div class="bee-infobox-image bee-tab-original"><img alt="Tabby Bee" src="img/Tabby_Bee.png" width="150"></div>
+<div class="bee-infobox-image bee-tab-gifted"><img alt="Gifted Tabby Bee" src="img/Gifted_Tabby_Bee.png" width="150"></div>
 </div>
 <div class="bee-infobox-quote"><i>"This affectionate bee was raised by cats. It becomes a better worker as it warms up to you."</i></div>
 <div class="bee-infobox-row"><b>Rarity</b><span>Event</span></div>

@@ -12,8 +12,8 @@ tags: ["Pages with broken file links", "Bees", "Legendary", "Colorless"]
 <label for="bee-tab-original">Original</label>
 <input type="radio" name="bee-infobox-tab" id="bee-tab-gifted">
 <label for="bee-tab-gifted">Gifted</label>
-<div class="bee-infobox-image bee-tab-original"><img alt="Lion Bee" src="img/Lion_Bee.png" width="150" height="150"></div>
-<div class="bee-infobox-image bee-tab-gifted"><img alt="Gifted Lion Bee" src="img/Gifted_Lion_Bee.png" width="150" height="150"></div>
+<div class="bee-infobox-image bee-tab-original"><img alt="Lion Bee" src="img/Lion_Bee.png" width="150"></div>
+<div class="bee-infobox-image bee-tab-gifted"><img alt="Gifted Lion Bee" src="img/Gifted_Lion_Bee.png" width="150"></div>
 </div>
 <div class="bee-infobox-quote"><i>"Half lion, half bee. This is the king of both the jungle and bee hive."</i></div>
 <div class="bee-infobox-row"><b>Rarity</b><span>Legendary</span></div>
