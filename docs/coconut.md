@@ -13,7 +13,7 @@ Coconut
 
 COOLDOWN
 
-10 seconds
+3 seconds
 
 CAP
 

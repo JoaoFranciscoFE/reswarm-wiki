@@ -12,8 +12,8 @@ tags: ["Bees", "Epic", "Colorless"]
 <label for="bee-tab-original">Original</label>
 <input type="radio" name="bee-infobox-tab" id="bee-tab-gifted">
 <label for="bee-tab-gifted">Gifted</label>
-<div class="bee-infobox-image bee-tab-original"><img alt="Honey Bee" src="img/Honey_Bee.png" width="150" height="150"></div>
-<div class="bee-infobox-image bee-tab-gifted"><img alt="Gifted Honey Bee" src="img/Gifted_Honey_Bee.png" width="150" height="150"></div>
+<div class="bee-infobox-image bee-tab-original"><img alt="Honey Bee" src="img/Honey_Bee.png" width="150"></div>
+<div class="bee-infobox-image bee-tab-gifted"><img alt="Gifted Honey Bee" src="img/Gifted_Honey_Bee.png" width="150"></div>
 </div>
 <div class="bee-infobox-quote"><i>"A satisfied bee always full with the finest honey. If you're lucky it will share some."</i></div>
 <div class="bee-infobox-row"><b>Rarity</b><span>Epic</span></div>
@@ -42,7 +42,7 @@ Honey Bee likes the [Pumpkin Patch](pumpkin-patch.md) and the [Mountain Top Fiel
 
 * Collects 10 [Pollen](pollen.md) in 4 seconds.
 * Makes 360 [Honey](honey.md) in 2 seconds.
-* +280 [Convert Amount](system-page.md#Convert_Amount), +50% convert speed.
+* +280 [Convert Amount](system-page.md#Convert_Amount), +50% convert speed, +1 [Attack](stats.md#Attack).
 * 🌟 [Gifted Hive Bonus](gifted-bee.md): x1.5 [Honey From Tokens](system-page.md#Honey_From_Tokens).
 
 ### Abilities

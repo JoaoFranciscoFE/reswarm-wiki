@@ -12,8 +12,8 @@ tags: ["Bees", "Red", "Mythic"]
 <label for="bee-tab-original">Original</label>
 <input type="radio" name="bee-infobox-tab" id="bee-tab-gifted">
 <label for="bee-tab-gifted">Gifted</label>
-<div class="bee-infobox-image bee-tab-original"><img alt="Spicy Bee" src="img/Spicy_Bee.png" width="150" height="150"></div>
-<div class="bee-infobox-image bee-tab-gifted"><img alt="Gifted Spicy Bee" src="img/Gifted_Spicy_Bee.png" width="150" height="150"></div>
+<div class="bee-infobox-image bee-tab-original"><img alt="Spicy Bee" src="img/Spicy_Bee.png" width="150"></div>
+<div class="bee-infobox-image bee-tab-gifted"><img alt="Gifted Spicy Bee" src="img/Gifted_Spicy_Bee.png" width="150"></div>
 </div>
 <div class="bee-infobox-quote"><i>"Some like it hot - this bee likes it scorching. Even the honey it makes is spicy."</i></div>
 <div class="bee-infobox-row"><b>Rarity</b><span>Mythic</span></div>

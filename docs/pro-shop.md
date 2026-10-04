@@ -81,7 +81,7 @@ As with the [Noob Shop](noob-shop.md), the game does not explicitly name the sho
 <td><img alt="Honey" height="25" src="img/Honey.png" width="25"/>50,000 <a href="honey.html"><span class="color-template color-template-honey">Honey</span></a>
 </td>
 <td>A humongous jug!
-<ul><li>+25,000 Capacity.</li>
+<ul><li>+250,000 Capacity.</li>
 <li>+40% <a href="system-page.html#Convert_Rate">Convert Rate</a>.</li></ul>
 </td></tr>
 <tr>
@@ -90,7 +90,7 @@ As with the [Noob Shop](noob-shop.md), the game does not explicitly name the sho
 <td><img alt="Honey" height="25" src="img/Honey.png" width="25"/>160,000 <a href="honey.html"><span class="color-template color-template-honey">Honey</span></a>
 </td>
 <td>A machine which packs <a href="pollen.html">pollen</a> to increase space.
-<ul><li>+50,000 Capacity.</li>
+<ul><li>+500,000 Capacity.</li>
 <li>+55% Convert Rate.</li></ul>
 </td></tr>
 <tr>
@@ -99,7 +99,7 @@ As with the [Noob Shop](noob-shop.md), the game does not explicitly name the sho
 <td><img alt="Honey" height="25" src="img/Honey.png" width="25"/>650,000 <a href="honey.html"><span class="color-template color-template-honey">Honey</span></a>
 </td>
 <td>The worlds <i>[sic]</i> most advanced barrel. Increases pollen from certain fields.
-<ul><li>+125,000 Capacity.</li>
+<ul><li>+1,250,000 Capacity.</li>
 <li>+70% Convert Rate.</li></ul>
 </td></tr>
 <tr>
@@ -108,7 +108,7 @@ As with the [Noob Shop](noob-shop.md), the game does not explicitly name the sho
 <td><img alt="Honey" height="25" src="img/Honey.png" width="25"/>1,250,000 <a href="honey.html"><span class="color-template color-template-honey">Honey</span></a>
 </td>
 <td>A miniature hive you can wear on your back! Instantly converts some pollen to honey.
-<ul><li>+250,000 Capacity.</li>
+<ul><li>+2,500,000 Capacity.</li>
 <li>+100% Convert Rate.</li>
 <li>+5% <a href="system-page.html#Instant_Conversion">Instant Conversion</a>.</li></ul>
 </td></tr></tbody></table>
@@ -215,7 +215,7 @@ As with the [Noob Shop](noob-shop.md), the game does not explicitly name the sho
 </td>
 <td>A durable pair of boots helpful for traversing the mountain.
 <ul><li>[Boots]</li>
-<li>+6 Movespeed.</li>
+<li>+5 Movespeed.</li>
 <li>+10 Jump Power.</li>
 <li>+6 <a href="movement-collection.html">Movement Collection</a>.</li></ul>
 </td></tr></tbody></table>

@@ -35,7 +35,7 @@ The **Porcelain Port-O-Hive** is a [bag](bags.md) that can be purchased in the [
 
 ## Stats
 
-* +600,000 Capacity.
+* +6,000,000 Capacity.
 * +250% [Convert Rate](system-page.md#Convert_Rate).
 * x1.25 Convert Rate at Hive.
 * +10% [Instant Conversion](instant-conversion.md).

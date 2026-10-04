@@ -14,8 +14,8 @@ tags: ["Bees", "Epic", "Red"]
 <label for="bee-tab-original">Original</label>
 <input type="radio" name="bee-infobox-tab" id="bee-tab-gifted">
 <label for="bee-tab-gifted">Gifted</label>
-<div class="bee-infobox-image bee-tab-original"><img alt="Riley Bee" src="img/Riley_Bee.png" width="150" height="150"></div>
-<div class="bee-infobox-image bee-tab-gifted"><img alt="Gifted Riley Bee" src="img/Gifted_Riley_Bee.png" width="150" height="150"></div>
+<div class="bee-infobox-image bee-tab-original"><img alt="Riley Bee" src="img/Riley_Bee.png" width="150"></div>
+<div class="bee-infobox-image bee-tab-gifted"><img alt="Gifted Riley Bee" src="img/Gifted_Riley_Bee.png" width="150"></div>
 </div>
 <div class="bee-infobox-quote"><i>"Leader of the Red bees, and a long time rival of Bucko Bee. Its fiery nature has elevated it above the rest."</i></div>
 <div class="bee-infobox-row"><b>Rarity</b><span>Epic</span></div>
@@ -42,7 +42,7 @@ Riley Bee likes the [Mushroom Field](mushroom-field.md), [Strawberry Field](stra
 
 * Collects 10 [Pollen](pollen.md) in 2 seconds.
 * Makes 140 [Honey](honey.md) in 4 seconds.
-* +10% [Movespeed](stats.md#Speed), +25% [Energy](energy.md), +4 [Attack](stats.md#Attack), +50% gather speed, +60 [Convert Amount](system-page.md#Convert_Amount).
+* +10% [Movespeed](stats.md#Speed), +25% [Energy](energy.md), +5 [Attack](stats.md#Attack), +50% gather speed, +60 [Convert Amount](system-page.md#Convert_Amount).
 * 🌟 [Gifted Hive Bonus](gifted-bee.md): +20% Red Field Capacity.
 
 ### Abilities

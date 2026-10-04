@@ -34,7 +34,7 @@ The **Elite Barrel** is a [Bag](bags.md) that can be purchased in the [Pro Shop]
 
 ## Stats
 
-* +125,000 Capacity.
+* +1,250,000 Capacity.
 * +70% [Convert Rate](system-page.md#Convert_Rate).
 
 ## Trivia

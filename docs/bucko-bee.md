@@ -14,8 +14,8 @@ tags: ["Bees", "Epic", "Blue"]
 <label for="bee-tab-original">Original</label>
 <input type="radio" name="bee-infobox-tab" id="bee-tab-gifted">
 <label for="bee-tab-gifted">Gifted</label>
-<div class="bee-infobox-image bee-tab-original"><img alt="Bucko Bee" src="img/Bucko_Bee.png" width="150" height="150"></div>
-<div class="bee-infobox-image bee-tab-gifted"><img alt="Gifted Bucko Bee" src="img/Gifted_Bucko_Bee.png" width="150" height="150"></div>
+<div class="bee-infobox-image bee-tab-original"><img alt="Bucko Bee" src="img/Bucko_Bee.png" width="150"></div>
+<div class="bee-infobox-image bee-tab-gifted"><img alt="Gifted Bucko Bee" src="img/Gifted_Bucko_Bee.png" width="150"></div>
 </div>
 <div class="bee-infobox-quote"><i>"Leader of the Blue bees, and a long time rival of Riley Bee. Its tenacity is its greatest strength."</i></div>
 <div class="bee-infobox-row"><b>Rarity</b><span>Epic</span></div>
@@ -42,7 +42,7 @@ Bucko Bee likes the [Blue Flower Field](blue-flower-field.md), [Bamboo Field](ba
 
 * Collects 17 [Pollen](pollen.md) in 4 seconds.
 * Makes 80 [Honey](honey.md) in 3 seconds.
-* +10% [Movespeed](stats.md#Speed), +50% [Energy](energy.md), +4 [Attack](stats.md#Attack), +7 [Gather Amount](stats.md#Gather_Amount), +25% convert speed.
+* +10% [Movespeed](stats.md#Speed), +50% [Energy](energy.md), +5 [Attack](stats.md#Attack), +7 [Gather Amount](stats.md#Gather_Amount), +25% convert speed.
 * 🌟 [Gifted Hive Bonus](gifted-bee.md): +20% Blue Field Capacity.
 
 ### Abilities

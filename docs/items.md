@@ -247,7 +247,7 @@ The following is a list of all of the **items** in [Re://:Swarm](re-swarm.md).
 <tr>
 <td><figure class="mw-halign-center" typeof="mw:File"><img alt="Pouch" data-image-key="Pouch.png" data-image-name="Pouch.png" data-relevant="1" height="70" src="img/Pouch.png" width="70"/><figcaption></figcaption></figure><div style="text-align: center;"><a href="pouch.html">Pouch</a>
 </div></td>
-<td>Holds 200 <a href="pollen.html">pollen</a>.
+<td>Holds 2,000 <a href="pollen.html">pollen</a>.
 </td>
 <td><img alt="Honey" height="25" src="img/Honey.png" width="25"/>0 <a href="honey.html"><span class="color-template color-template-honey">Honey</span></a>(Default bag)
 </td>
@@ -256,7 +256,7 @@ The following is a list of all of the **items** in [Re://:Swarm](re-swarm.md).
 <tr>
 <td><figure class="mw-halign-center" typeof="mw:File"><img alt="Jar" data-image-key="Jar.png" data-image-name="Jar.png" data-relevant="1" height="70" src="img/Jar.png" width="70"/><figcaption></figcaption></figure><div style="text-align: center;"><a href="jar.html">Jar</a>
 </div></td>
-<td>Holds 750 <a href="pollen.html">pollen</a>.
+<td>Holds 7,500 <a href="pollen.html">pollen</a>.
 </td>
 <td><img alt="Honey" height="25" src="img/Honey.png" width="25"/>650 <a href="honey.html"><span class="color-template color-template-honey">Honey</span></a>
 </td>
@@ -265,7 +265,7 @@ The following is a list of all of the **items** in [Re://:Swarm](re-swarm.md).
 <tr>
 <td><figure class="mw-halign-center" typeof="mw:File"><img alt="Backpack" data-image-key="Backpack.png" data-image-name="Backpack.png" data-relevant="1" height="70" src="img/Backpack.png" width="70"/><figcaption></figcaption></figure><div style="text-align: center;"><a href="backpack.html">Backpack</a>
 </div></td>
-<td>Holds 3,500 <a href="pollen.html">pollen</a>.
+<td>Holds 35,000 <a href="pollen.html">pollen</a>.
 </td>
 <td><img alt="Honey" height="25" src="img/Honey.png" width="25"/>5,500 <a href="honey.html"><span class="color-template color-template-honey">Honey</span></a>
 </td>
@@ -274,7 +274,7 @@ The following is a list of all of the **items** in [Re://:Swarm](re-swarm.md).
 <tr>
 <td><figure class="mw-halign-center" typeof="mw:File"><img alt="Canister" data-image-key="Canister.png" data-image-name="Canister.png" data-relevant="1" height="70" src="img/Canister.png" width="70"/><figcaption></figcaption></figure><div style="text-align: center;"><a href="canister.html">Canister</a>
 </div></td>
-<td>Holds 10,000 <a href="pollen.html">pollen</a>.
+<td>Holds 100,000 <a href="pollen.html">pollen</a>.
 <ul><li>+30% <a href="system-page.html#Convert_Rate">Convert Rate</a></li></ul>
 </td>
 <td><img alt="Honey" height="25" src="img/Honey.png" width="25"/>22,000 <a href="honey.html"><span class="color-template color-template-honey">Honey</span></a>
@@ -284,7 +284,7 @@ The following is a list of all of the **items** in [Re://:Swarm](re-swarm.md).
 <tr>
 <td><figure class="mw-halign-center" typeof="mw:File"><img alt="Mega-Jug" data-image-key="Mega-Jug.png" data-image-name="Mega-Jug.png" data-relevant="1" height="70" src="img/Mega-Jug.png" width="70"/><figcaption></figcaption></figure><div style="text-align: center;"><a href="mega-jug.html">Mega-Jug</a>
 </div></td>
-<td>Holds 25,000 <a href="pollen.html">pollen</a>.
+<td>Holds 250,000 <a href="pollen.html">pollen</a>.
 <ul><li>+40% <a href="system-page.html#Convert_Rate">Convert Rate</a></li></ul>
 </td>
 <td><img alt="Honey" height="25" src="img/Honey.png" width="25"/>50,000 <a href="honey.html"><span class="color-template color-template-honey">Honey</span></a>
@@ -294,7 +294,7 @@ The following is a list of all of the **items** in [Re://:Swarm](re-swarm.md).
 <tr>
 <td><figure class="mw-halign-center" typeof="mw:File"><img alt="Compressor" data-image-key="Compressor.png" data-image-name="Compressor.png" data-relevant="1" height="70" src="img/Compressor.png" width="70"/><figcaption></figcaption></figure><div style="text-align: center;"><a href="compressor.html">Compressor</a>
 </div></td>
-<td>Holds 50,000 <a href="pollen.html">pollen</a>.
+<td>Holds 500,000 <a href="pollen.html">pollen</a>.
 <ul><li>+55% <a href="system-page.html#Convert_Rate">Convert Rate</a></li></ul>
 </td>
 <td><img alt="Honey" height="25" src="img/Honey.png" width="25"/>160,000 <a href="honey.html"><span class="color-template color-template-honey">Honey</span></a>
@@ -304,7 +304,7 @@ The following is a list of all of the **items** in [Re://:Swarm](re-swarm.md).
 <tr>
 <td><figure class="mw-halign-center" typeof="mw:File"><img alt="Elite Barrel" data-image-key="Elite_Barrel.png" data-image-name="Elite Barrel.png" data-relevant="1" height="70" src="img/Elite_Barrel.png" width="70"/><figcaption></figcaption></figure><div style="text-align: center;"><a href="elite-barrel.html">Elite Barrel</a>
 </div></td>
-<td>Holds 125,000 <a href="pollen.html">pollen</a>.
+<td>Holds 1,250,000 <a href="pollen.html">pollen</a>.
 <ul><li>+70% <a href="system-page.html#Convert_Rate">Convert Rate</a></li></ul>
 </td>
 <td><img alt="Honey" height="25" src="img/Honey.png" width="25"/>650,000 <a href="honey.html"><span class="color-template color-template-honey">Honey</span></a>
@@ -314,7 +314,7 @@ The following is a list of all of the **items** in [Re://:Swarm](re-swarm.md).
 <tr>
 <td><figure class="mw-halign-center" typeof="mw:File"><img alt="Port-O-Hive" data-image-key="Port-O-Hive.png" data-image-name="Port-O-Hive.png" data-relevant="1" height="70" src="img/Port-O-Hive.png" width="70"/><figcaption></figcaption></figure><div style="text-align: center;"><a href="port-o-hive.html">Port-O-Hive</a>
 </div></td>
-<td>Holds 250,000 <a href="pollen.html">pollen</a>.
+<td>Holds 2,500,000 <a href="pollen.html">pollen</a>.
 <ul><li>+100% <a href="system-page.html#Convert_Rate">Convert Rate</a></li>
 <li>+5% <a href="instant-conversion.html">Instant Conversion</a>.</li></ul>
 </td>
@@ -325,11 +325,11 @@ The following is a list of all of the **items** in [Re://:Swarm](re-swarm.md).
 <tr>
 <td><figure class="mw-halign-center" typeof="mw:File"><img alt="Blue Port-O-Hive" data-image-key="Blue_Port-O-Hive.png" data-image-name="Blue Port-O-Hive.png" data-relevant="1" height="70" src="img/Blue_Port-O-Hive.png" width="70"/><figcaption></figcaption></figure><div style="text-align: center;"><a href="blue-port-o-hive.html">Blue Port-O-Hive</a>
 </div></td>
-<td>Holds 400,000 <a href="pollen.html">pollen</a>.
+<td>Holds 4,000,000 <a href="pollen.html">pollen</a>.
 <ul><li>+150% <a href="system-page.html#Convert_Rate">Convert Rate</a></li>
 <li>+10% <a href="system-page.html#Instant_Blue_Conversion">Instant Blue Conversion</a></li>
-<li>+5% <a href="system-page.html#Blue_Pollen">Blue Pollen</a></li>
-<li>+1 <a href="system-page.html#Blue_Attack">Blue Bee Attack</a></li></ul>
+<li>+10% <a href="system-page.html#Blue_Pollen">Blue Pollen</a></li>
+<li>+10% Blue Bee Convert Rate</li></ul>
 </td>
 <td><img alt="Honey" height="25" src="img/Honey.png" width="25"/>12,500,000 <a href="honey.html"><span class="color-template color-template-honey">Honey</span></a><br/>
 <p><img alt="Blue Extract" height="25" src="img/Blue_Extract.png" width="25"/>2 <a href="blue-extract.html"><span class="color-template color-template-blue-extract color-template-background-clip">Blue Extracts</span></a><br/>
@@ -341,11 +341,11 @@ The following is a list of all of the **items** in [Re://:Swarm](re-swarm.md).
 <tr>
 <td><figure class="mw-halign-center" typeof="mw:File"><img alt="Red Port-O-Hive" data-image-key="Red_Port-O-Hive.png" data-image-name="Red Port-O-Hive.png" data-relevant="1" height="70" src="img/Red_Port-O-Hive.png" width="70"/><figcaption></figcaption></figure><div style="text-align: center;"><a href="red-port-o-hive.html">Red Port-O-Hive</a>
 </div></td>
-<td>Holds 400,000 <a href="pollen.html">pollen</a>.
+<td>Holds 4,000,000 <a href="pollen.html">pollen</a>.
 <ul><li>+150% <a href="system-page.html#Convert_Rate">Convert Rate</a></li>
 <li>+10% <a href="system-page.html#Instant_Red_Conversion">Instant Red Conversion</a></li>
-<li>+5% <a href="system-page.html#Red_Pollen">Red Pollen</a></li>
-<li>+1 <a href="system-page.html#Red_Attack">Red Bee Attack</a></li></ul>
+<li>+10% <a href="system-page.html#Red_Pollen">Red Pollen</a></li>
+<li>+10% Red Bee Convert Rate</li></ul>
 </td>
 <td><img alt="Honey" height="25" src="img/Honey.png" width="25"/>12,500,000 <a href="honey.html"><span class="color-template color-template-honey">Honey</span></a><br/>
 <p><img alt="Red Extract" height="25" src="img/Red_Extract.png" width="25"/>2 <a href="red-extract.html"><span class="color-template color-template-red-extract color-template-background-clip">Red Extracts</span></a><br/>
@@ -357,13 +357,11 @@ The following is a list of all of the **items** in [Re://:Swarm](re-swarm.md).
 <tr>
 <td><figure class="mw-halign-center" typeof="mw:File"><img alt="Porcelain Port-O-Hive" data-image-key="Porcelain_Port-O-Hive.png" data-image-name="Porcelain Port-O-Hive.png" data-relevant="1" height="70" src="img/Porcelain_Port-O-Hive.png" width="70"/><figcaption></figcaption></figure><div style="text-align: center;"><a href="porcelain-port-o-hive.html">Porcelain Port-O-Hive</a>
 </div></td>
-<td>Holds 600,000 <a href="pollen.html">pollen</a>.
+<td>Holds 6,000,000 <a href="pollen.html">pollen</a>.
 <ul><li>+250% <a href="system-page.html#Convert_Rate">Convert Rate</a></li>
 <li>+10% <a href="instant-conversion.html">Instant Conversion</a></li>
 <li>+50% <a href="system-page.html#White_Pollen">White Pollen</a></li>
-<li>+10% <a href="system-page.html#Red_Pollen">Red Pollen</a></li>
-<li>+10% <a href="system-page.html#Blue_Pollen">Blue Pollen</a></li>
-<li>+1 <a href="system-page.html#Bee_Attack">Bee Attack</a></li></ul>
+<li>x1.25 Convert Rate at Hive</li></ul>
 </td>
 <td><img alt="Honey" height="25" src="img/Honey.png" width="25"/>250,000,000 <a href="honey.html"><span class="color-template color-template-honey">Honey</span></a><br/>
 <p><img alt="Glitter" height="25" src="img/Glitter.png" width="25"/>3 <a href="glitter.html"><span class="color-template color-template-glitter color-template-background-clip">Glitter</span></a><br/>
@@ -376,13 +374,13 @@ The following is a list of all of the **items** in [Re://:Swarm](re-swarm.md).
 <tr>
 <td><figure class="mw-halign-center" typeof="mw:File"><img alt="Coconut Canister" data-image-key="Coconut_Canister.png" data-image-name="Coconut Canister.png" data-relevant="1" height="70" src="img/Coconut_Canister.png" width="70"/><figcaption></figcaption></figure><div style="text-align: center;"><a href="coconut-canister.html">Coconut Canister</a>
 </div></td>
-<td>Holds 1,000,000 <a href="pollen.html">pollen</a>.
+<td>Holds 10,000,000 <a href="pollen.html">pollen</a>.
 <ul><li>+400% <a href="system-page.html#Convert_Rate">Convert Rate</a></li>
 <li>+10% <a href="instant-conversion.html">Instant Conversion</a></li>
 <li>+10% <a href="system-page.html#Instant_White_Conversion">Instant White Conversion</a></li>
 <li>+100% <a href="system-page.html#White_Pollen">White Pollen</a></li>
-<li>+5% <a href="pollen.html">Pollen</a></li>
-<li>+1 <a href="system-page.html#Bee_Attack">Bee Attack</a></li>
+<li>x1.25 <a href="capacity.html">Capacity</a></li>
+<li>x1.5 Convert Rate At Hive</li>
 <li><a href="passive-abilities.html#Emergency_Coconut_Shield">+Passive: Emergency Coconut Shield</a></li>
 <li><a href="passive-abilities.html#Inspire_Coconuts">+Passive: Inspire Coconuts</a></li></ul>
 </td>
@@ -485,7 +483,7 @@ The following is a list of all of the **items** in [Re://:Swarm](re-swarm.md).
 <td>Ignite your mind to enhance your Red bees.
 <ul><li>x1.5 <a href="system-page.html#Red_Pollen">Red Pollen</a></li>
 <li>+15% <a href="system-page.html#Instant_Red_Conversion">Instant Red Conversion</a></li>
-<li>x1.25 Capacity</li>
+<li>x1.5 Capacity</li>
 <li>+50% Instant Flame Conversion</li>
 <li>+15% <a href="system-page.html#Red_Attack">Bee Attack</a></li>
 <li>+35% <a href="system-page.html#Defense">Defense</a></li>
@@ -615,9 +613,9 @@ The following is a list of all of the **items** in [Re://:Swarm](re-swarm.md).
 <td><figure class="mw-halign-center" typeof="mw:Error mw:File"><figcaption></figcaption></figure><div style="text-align: center;">Mondo Bubble Bee Man Mask
 </div></td>
 <td>
-<ul><li>+250,000 <a href="system-page.html#Capacity_Multiplier">Capacity</a></li>
+<ul><li>+500,000 <a href="system-page.html#Capacity_Multiplier">Capacity</a></li>
 <li>+50 <a href="system-page.html#Convert_Amount">Convert Amount</a></li>
-<li>+100% <a href="system-page.html#Honey_From_Tokens">Honey From Tokens</a></li>
+<li>+50% <a href="system-page.html#Honey_From_Tokens">Honey From Tokens</a></li>
 <li>+1 <a href="system-page.html#Bee_Attack">Bee Attack</a></li></ul>
 </td>
 <td>Obtained by completing Bubble Bee Man's quest, "B.B.M. Mission", which was given out in the 30 Bee Zone during the Beesmas 2018 Event.
@@ -878,7 +876,7 @@ The following is a list of all of the **items** in [Re://:Swarm](re-swarm.md).
 <td>Attaches to your waist to expand the size of your container.
 <ul><li>+5,000 <a href="system-page.html#Capacity_Multiplier">Capacity</a></li>
 <li>+10 <a href="system-page.html#Convert_Amount">Convert Amount</a></li>
-<li>+15% <a href="loot-luck.html">Loot Luck</a></li></ul>
+<li>+25% <a href="loot-luck.html">Loot Luck</a></li></ul>
 </td>
 <td><img alt="Honey" height="25" src="img/Honey.png" width="25"/>14,000 <a href="honey.html"><span class="color-template color-template-honey">Honey</span></a><br/>
 <p><img alt="Sunflower Seed" height="25" src="img/Sunflower_Seed.png" width="25"/>10 <a href="sunflower-seed.html"><span class="color-template color-template-sunflower-seed color-template-background-clip">Sunflower Seeds</span></a>
@@ -950,7 +948,7 @@ The following is a list of all of the **items** in [Re://:Swarm](re-swarm.md).
 <li>+100 <a href="system-page.html#Convert_Amount">Convert Amount</a></li>
 <li>+101% <a href="loot-luck.html">Loot Luck</a></li>
 <li>+75% <a href="system-page.html#Honey_From_Tokens">Honey From Tokens</a></li>
-<li>+25% <a href="system-page.html#Buzz_Bomb_Pollen">Buzz Bomb Pollen</a></li>
+<li>+30% <a href="system-page.html#Buzz_Bomb_Pollen">Buzz Bomb Pollen</a></li>
 <li>+1 <a href="system-page.html#Colourless_Attack">Colorless Bee Attack</a></li>
 <li><a href="passive-abilities.html#Petal_Storm">+Passive: Petal Storm</a></li></ul>
 </td>
@@ -1035,7 +1033,7 @@ The following is a list of all of the **items** in [Re://:Swarm](re-swarm.md).
 <td><figure class="mw-halign-center" typeof="mw:File"><img alt="Beekeeper's Boots" data-image-key="Beekeeper%27s_Boots.png" data-image-name="Beekeeper's Boots.png" data-relevant="1" height="70" src="img/Beekeeper's_Boots.png" width="70"/><figcaption></figcaption></figure><div style="text-align: center;"><a href="beekeeper-s-boots.html">Beekeeper's Boots</a>
 </div></td>
 <td>Practical and stylish boots that aid in the beekeeping process.
-<ul><li>+20% <a href="system-page.html#Bee_Gather_Pollen">Bee Gather Pollen</a></li>
+<ul><li>+25% <a href="system-page.html#Bee_Gather_Pollen">Bee Gather Pollen</a></li>
 <li>+6 <a href="system-page.html#Movespeed">Player Movespeed</a></li>
 <li>+20 <a href="system-page.html#Jump_Power">Jump Power</a></li>
 <li>+10 <a href="movement-collection.html">Movement Collection</a></li></ul>
@@ -1736,7 +1734,7 @@ The following is a list of all of the **items** in [Re://:Swarm](re-swarm.md).
 <tr>
 <td><figure class="mw-halign-center" typeof="mw:Error mw:File"><figcaption>thumbs</figcaption></figure><div style="text-align: center;"><a href="tropical-drink.html"><span class="color-template color-template-tropical-drink color-template-background-clip">Tropical Drink</span></a>
 </div></td>
-<td>Grants x1.25 White Pollen and +5% Critical Chance for 10 minutes.
+<td>Grants x1.25 White Pollen, +10% Instant Conversion and +5% Critical Chance for 10 minutes.
 </td>
 <td><img alt="Coconut" height="25" src="img/Coconut.png" width="25"/>10 <a href="coconut.html"><span class="color-template color-template-coconut color-template-background-clip">Coconuts</span></a><br/>
 <p><img alt="Enzymes" height="25" src="img/Enzymes.png" width="25"/>2 <a href="enzymes.html"><span class="color-template color-template-enzymes color-template-background-clip">Enzymes</span></a><br/>
@@ -1774,7 +1772,7 @@ The following is a list of all of the **items** in [Re://:Swarm](re-swarm.md).
 <tr>
 <td><figure class="mw-halign-center" typeof="mw:Error mw:File"><figcaption></figcaption></figure><div style="text-align: center;"><a href="marshmallow-bee.html"><span class="color-template color-template-marshmallow-bee color-template-background-clip">Marshmallow Bee</span></a>
 </div></td>
-<td>50% White Pollen, +50% Capacity, and +250% Conversion Rate for 30 minutes.
+<td>+50% White Pollen, +50% Capacity, and +250% Conversion Rate for 30 minutes.
 </td>
 <td>None
 </td>
@@ -2480,7 +2478,7 @@ The following is a list of all of the **items** in [Re://:Swarm](re-swarm.md).
 <tr>
 <td><figure class="mw-halign-center" typeof="mw:Error mw:File"><figcaption></figcaption></figure><div style="text-align: center;"><a href="royal-jelly.html"><span class="color-template color-template-royal-jelly color-template-background-clip">Royal Jelly</span></a>
 </div></td>
-<td>Transforms a bee into a random Rare, Epic, Legendary, or Mythic bee.
+<td>Transforms a bee into a random Rare, Epic, or Legendary bee.
 </td>
 <td>Varies
 </td>
@@ -2489,7 +2487,7 @@ The following is a list of all of the **items** in [Re://:Swarm](re-swarm.md).
 <tr>
 <td><figure class="mw-halign-center" typeof="mw:Error mw:File"><figcaption></figcaption></figure><div style="text-align: center;"><a href="royal-jelly.html#Star_Jelly"><span class="color-template color-template-star-jelly color-template-background-clip">Star Jelly</span></a>
 </div></td>
-<td>Transforms a bee into a random <a href="gifted-bee.html">Gifted</a> Rare, Epic, Legendary, or Mythic bee.
+<td>Transforms a bee into a random <a href="gifted-bee.html">Gifted</a> Rare, Epic, or Legendary bee.
 </td>
 <td>Varies
 </td>

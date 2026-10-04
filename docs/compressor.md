@@ -34,7 +34,7 @@ The **Compressor** is a [bag](bags.md) that can be purchased from the [Pro Shop]
 
 ## Stats
 
-* +50,000 Capacity.
+* +500,000 Capacity.
 * +55% [Convert Rate](system-page.md#Convert_Rate).
 
 ## Trivia

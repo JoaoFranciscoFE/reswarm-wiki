@@ -159,7 +159,7 @@ You can tell what gifted bees you have by looking at the "⭐" icon in the bee m
 <tr>
 <td><img alt="Carpenter Bee" height="35" src="img/Carpenter_Bee.png" width="35"/><a href="carpenter-bee.html">Carpenter Bee</a>
 </td>
-<td>x1.25 <a href="system-page.html#Tool_Pollen">Tool Pollen</a> (previously +25% Tool Pollen)
+<td>+25% <a href="system-page.html#Tool_Pollen">Tool Pollen</a>
 </td></tr>
 <tr>
 <td><img alt="Demon Bee" height="35" src="img/Demon_Bee.png" width="35"/><a href="demon-bee.html">Demon Bee</a>
@@ -229,12 +229,12 @@ You can tell what gifted bees you have by looking at the "⭐" icon in the bee m
 <tr>
 <td><img alt="Cobalt Bee" height="35" src="img/Cobalt_Bee.png" width="35"/><a href="cobalt-bee.html">Cobalt Bee</a>
 </td>
-<td>+15% Instant Blue Conversion
+<td>x1.25 Blue Pollen
 </td></tr>
 <tr>
 <td><img alt="Crimson Bee" height="35" src="img/Crimson_Bee.png" width="35"/><a href="crimson-bee.html">Crimson Bee</a>
 </td>
-<td>+15% Instant Red Conversion
+<td>x1.25 Red Pollen
 </td></tr>
 <tr>
 <td><img alt="Digital Bee" height="35" src="img/Digital_Bee.png" width="35"/><a href="digital-bee.html">Digital Bee</a>

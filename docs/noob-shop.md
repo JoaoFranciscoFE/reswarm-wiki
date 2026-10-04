@@ -91,7 +91,7 @@ Behind the Honey Dispenser is a hidden [obstacle course](obstacle-courses.md#Lav
 </p>
 </td>
 <td>A small bag.
-<ul><li>+200 Capacity.</li></ul>
+<ul><li>+2,000 Capacity.</li></ul>
 </td></tr>
 <tr>
 <td><figure class="mw-halign-center" typeof="mw:File"><img alt="Jar" data-image-key="Jar.png" data-image-name="Jar.png" data-relevant="1" height="80" src="img/Jar.png" width="80"/><figcaption></figcaption></figure><div style="text-align: center;"><a href="jar.html">Jar</a></div>
@@ -99,7 +99,7 @@ Behind the Honey Dispenser is a hidden [obstacle course](obstacle-courses.md#Lav
 <td><img alt="Honey" height="25" src="img/Honey.png" width="25"/>650 <a href="honey.html"><span class="color-template color-template-honey">Honey</span></a>
 </td>
 <td>A durable plastic jar. Holds over twice as much as the Pouch!
-<ul><li>+750 Capacity.</li></ul>
+<ul><li>+7,500 Capacity.</li></ul>
 </td></tr>
 <tr>
 <td><figure class="mw-halign-center" typeof="mw:File"><img alt="Backpack" data-image-key="Backpack.png" data-image-name="Backpack.png" data-relevant="1" height="80" src="img/Backpack.png" width="80"/><figcaption></figcaption></figure><div style="text-align: center;"><a href="backpack.html">Backpack</a></div>
@@ -107,7 +107,7 @@ Behind the Honey Dispenser is a hidden [obstacle course](obstacle-courses.md#Lav
 <td><img alt="Honey" height="25" src="img/Honey.png" width="25"/>5,500 <a href="honey.html"><span class="color-template color-template-honey">Honey</span></a>
 </td>
 <td>A heavy-duty backpack.
-<ul><li>+3,500 Capacity.</li></ul>
+<ul><li>+35,000 Capacity.</li></ul>
 </td></tr>
 <tr>
 <td><figure class="mw-halign-center" typeof="mw:File"><img alt="Canister" data-image-key="Canister.png" data-image-name="Canister.png" data-relevant="1" height="80" src="img/Canister.png" width="80"/><figcaption></figcaption></figure><div style="text-align: center;"><a href="canister.html">Canister</a></div>
@@ -115,7 +115,7 @@ Behind the Honey Dispenser is a hidden [obstacle course](obstacle-courses.md#Lav
 <td><img alt="Honey" height="25" src="img/Honey.png" width="25"/>22,000 <a href="honey.html"><span class="color-template color-template-honey">Honey</span></a>
 </td>
 <td>A high-tech container that improves conversion speed.
-<ul><li>+10,000 Capacity.</li>
+<ul><li>+100,000 Capacity.</li>
 <li>+30% <a href="system-page.html#Convert_Rate">Convert Rate</a>.</li></ul>
 </td></tr></tbody></table>
 
@@ -165,7 +165,7 @@ Behind the Honey Dispenser is a hidden [obstacle course](obstacle-courses.md#Lav
 </td>
 <td>Collect pollen as you walk through <a href="flowers.html">flowers</a>!
 <ul><li>[Boots]</li>
-<li>+5 <a href="system-page.html#Movespeed">Player Movespeed</a>.</li>
+<li>+4 <a href="system-page.html#Movespeed">Player Movespeed</a>.</li>
 <li>+2 <a href="movement-collection.html">Movement Collection</a>.</li></ul>
 </td></tr>
 <tr>

@@ -52,7 +52,7 @@ The interior contains the Fastest Crab Slayers Leaderboard, the [Coconut Dispens
 </p>
 </td>
 <td>A back-mounted coconut that protects you during emergencies.
-<ul><li>+1,000,000 Capacity</li>
+<ul><li>+10,000,000 Capacity</li>
 <li>x1.25 <a href="capacity.html">Capacity</a></li>
 <li>+400% <a href="system-page.html#Convert_Rate">Convert Rate</a></li>
 <li>x1.5 Conversion Rate At Hive</li>

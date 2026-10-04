@@ -12,8 +12,8 @@ tags: ["Bees", "Rare", "Blue"]
 <label for="bee-tab-original">Original</label>
 <input type="radio" name="bee-infobox-tab" id="bee-tab-gifted">
 <label for="bee-tab-gifted">Gifted</label>
-<div class="bee-infobox-image bee-tab-original"><img alt="Cool Bee" src="img/Cool_Bee.png" width="150" height="150"></div>
-<div class="bee-infobox-image bee-tab-gifted"><img alt="Gifted Cool Bee" src="img/Gifted_Cool_Bee.png" width="150" height="150"></div>
+<div class="bee-infobox-image bee-tab-original"><img alt="Cool Bee" src="img/Cool_Bee.png" width="150"></div>
+<div class="bee-infobox-image bee-tab-gifted"><img alt="Gifted Cool Bee" src="img/Gifted_Cool_Bee.png" width="150"></div>
 </div>
 <div class="bee-infobox-quote"><i>"A sarcastic bee who's a little better than the others. Sometimes boosts pollen from Blue flowers."</i></div>
 <div class="bee-infobox-row"><b>Rarity</b><span>Rare</span></div>

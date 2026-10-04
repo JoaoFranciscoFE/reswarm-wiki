@@ -34,7 +34,7 @@ The **Canister** is a [Bag](bags.md) that can be purchased in the [Noob Shop](no
 
 ## Stats
 
-* +10,000 Capacity.
+* +100,000 Capacity.
 * +30% [Convert Rate](system-page.md#Convert_Rate).
 
 ## Trivia

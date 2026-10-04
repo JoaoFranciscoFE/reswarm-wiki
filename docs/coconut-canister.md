@@ -42,8 +42,8 @@ The following audio plays whenever the Emergency Coconut Shield passive ability 
 
 ## Stats
 
-* +1,000,000 Capacity.
-* x1.25 [Coconut Field](coconut-field.md) [Capacity](field-capacity.md).
+* +10,000,000 Capacity.
+* x1.25 [Capacity](capacity.md).
 * +400% [Convert Rate](system-page.md#Convert_Rate).
 * x1.5 [Convert Rate at Hive](system-page.md)
 * +10% [Instant Conversion](instant-conversion.md).
@@ -66,7 +66,6 @@ The following audio plays whenever the Emergency Coconut Shield passive ability 
 * Note that the player must take damage directly from a mob to activate the Emergency Coconut Shield. For example, taking damage from the fire trail of [Fire Ants](fire-ant.md), from the lawn mower or dying from an [Obby](obstacle-courses.md) does not activate this ability.
   * When the Emergency Coconut Shield is activated, it does not protect you from the 'Twigs' ability from [Stick Bug](stick-bug.md).
   * There is a rare bug that makes it when the Emergency Coconut Shield is activated when you should've died, you will have a very small amount of health instead.
-* The Coconut Canister's stats used to display a x1.25 Capacity buff in game; however, it is meant to be a x1.25 Coconut Field Capacity buff. In spite of this, this buff did not function and granted no capacity multiplier. This has since been patched.
 
 <table class="mw-collapsible autocollapse" style="margin:auto; background:#000; font-size: 10pt; border:5px solid #56CB5A; width: 100%; border-radius: 20px; -moz-border-radius: 20px; -webkit-border-radius: 20px; -khtml-border-radius: 20px; -icab-border-radius: 20px; -o-border-radius: 20px;">
 <tbody><tr>

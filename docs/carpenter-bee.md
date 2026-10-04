@@ -12,8 +12,8 @@ tags: ["Bees", "Legendary", "Colorless"]
 <label for="bee-tab-original">Original</label>
 <input type="radio" name="bee-infobox-tab" id="bee-tab-gifted">
 <label for="bee-tab-gifted">Gifted</label>
-<div class="bee-infobox-image bee-tab-original"><img alt="Carpenter Bee" src="img/Carpenter_Bee.png" width="150" height="150"></div>
-<div class="bee-infobox-image bee-tab-gifted"><img alt="Gifted Carpenter Bee" src="img/Gifted_Carpenter_Bee.png" width="150" height="150"></div>
+<div class="bee-infobox-image bee-tab-original"><img alt="Carpenter Bee" src="img/Carpenter_Bee.png" width="150"></div>
+<div class="bee-infobox-image bee-tab-gifted"><img alt="Gifted Carpenter Bee" src="img/Gifted_Carpenter_Bee.png" width="150"></div>
 </div>
 <div class="bee-infobox-quote"><i>"A bee with a knack for construction. It built its own body out of wood."</i></div>
 <div class="bee-infobox-row"><b>Rarity</b><span>Legendary</span></div>
@@ -41,7 +41,7 @@ Carpenter Bee likes the [Bamboo Field](bamboo-field.md), and [Pine Tree Forest](
 * Collects 10 [Pollen](pollen.md) in 3 seconds.
 * Makes 120 [honey](honey.md) in 4 seconds.
 * -20% [Movespeed](stats.md#Speed), +25% [Energy](energy.md), +25% gather speed, +40 [Convert Amount](system-page.md#Convert_Amount), +4 [Attack](stats.md#Attack).
-* 🌟[Gifted Hive Bonus](gifted-bee.md): x1.25 [Tool Pollen](system-page.md#Tool_Pollen).
+* 🌟[Gifted Hive Bonus](gifted-bee.md): +25% [Tool Pollen](system-page.md#Tool_Pollen).
 
 ## Abilities
 

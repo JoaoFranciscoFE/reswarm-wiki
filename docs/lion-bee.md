@@ -12,8 +12,8 @@ tags: ["Bees", "Legendary", "Colorless"]
 <label for="bee-tab-original">Original</label>
 <input type="radio" name="bee-infobox-tab" id="bee-tab-gifted">
 <label for="bee-tab-gifted">Gifted</label>
-<div class="bee-infobox-image bee-tab-original"><img alt="Lion Bee" src="img/Lion_Bee.png" width="150" height="150"></div>
-<div class="bee-infobox-image bee-tab-gifted"><img alt="Gifted Lion Bee" src="img/Gifted_Lion_Bee.png" width="150" height="150"></div>
+<div class="bee-infobox-image bee-tab-original"><img alt="Lion Bee" src="img/Lion_Bee.png" width="150"></div>
+<div class="bee-infobox-image bee-tab-gifted"><img alt="Gifted Lion Bee" src="img/Gifted_Lion_Bee.png" width="150"></div>
 </div>
 <div class="bee-infobox-quote"><i>"Half lion, half bee. This is the king of both the jungle and bee hive."</i></div>
 <div class="bee-infobox-row"><b>Rarity</b><span>Legendary</span></div>
@@ -39,7 +39,7 @@ Lion Bee likes the [Ant Field](ant-field.md) and the [Pineapple Patch](pineapple
 ## Stats
 
 * Collects 20 [Pollen](pollen.md) in 4 seconds.
-* Makes 160 [Honey](honey.md) in 2 seconds.
+* Makes 180 [Honey](honey.md) in 2 seconds.
 * +200% [Energy](energy.md), +40% [Movespeed](stats.md#Speed), +50% convert speed, +100 [Convert Amount](system-page.md#Convert_Amount), +10 [Gather Amount](stats.md#Gather_Amount), +9 [Attack](stats.md#Attack).
 * 🌟[Gifted Hive Bonus](gifted-bee.md): +5% Gifted Bee Pollen
 
@@ -344,7 +344,7 @@ Lion Bee likes the [Ant Field](ant-field.md) and the [Pineapple Patch](pineapple
   * Lion Bee is the only Legendary bee that is based on a real-life non-bee species of animal.
 * Lion Bee is also the only bee in the game that likes the Ant Field.
   * Lion Bee may like the Ant Field as a reference to [antlions](https://en.wikipedia.org/wiki/Antlion) in real life.
-  * It might also like the Ant Field because it has the highest base attack stat in the game and the Ant Challenge is about fighting [ants](ants.md).
+  * It might also like the Ant Field because of its high base attack and the Ant Challenge is about fighting [ants](ants.md).
 
 <table class="mw-collapsible mw-collapsed NavTable">
 <tbody><tr>

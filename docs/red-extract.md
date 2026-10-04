@@ -13,7 +13,7 @@ Red Extract
 
 COOLDOWN
 
-1 second
+10 minutes
 
 A **Red Extract** is an inventory item that was added in the [2018-11-25 update](updates.md#2018-11-25). The purpose of it is to use it as a material to craft accessories, or for a 10-minute boost that grants x1.25 [Red Pollen](system-page.md#Red_Pollen). The [buff](buffs-debuffs.md#From_Items) cannot stack and will only reset its timer if you used a **Red Extract** when there is another one active. Using a [Purple Potion](purple-potion.md) or [Super Smoothie](super-smoothie.md) will override the buff.
 

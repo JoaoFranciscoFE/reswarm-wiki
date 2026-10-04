@@ -12,8 +12,8 @@ tags: ["Bees", "Event", "Colorless", "Gummy Invasion", "Goo"]
 <label for="bee-tab-original">Original</label>
 <input type="radio" name="bee-infobox-tab" id="bee-tab-gifted">
 <label for="bee-tab-gifted">Gifted</label>
-<div class="bee-infobox-image bee-tab-original"><img alt="Gummy Bee" src="img/Gummy_Bee.png" width="150" height="150"></div>
-<div class="bee-infobox-image bee-tab-gifted"><img alt="Gifted Gummy Bee" src="img/Gifted_Gummy_Bee.png" width="150" height="150"></div>
+<div class="bee-infobox-image bee-tab-original"><img alt="Gummy Bee" src="img/Gummy_Bee.png" width="150"></div>
+<div class="bee-infobox-image bee-tab-gifted"><img alt="Gifted Gummy Bee" src="img/Gifted_Gummy_Bee.png" width="150"></div>
 </div>
 <div class="bee-infobox-quote"><i>"A squishy bee who's sweet as sugar. Covers flowers in goo to grant you bonus honey!"</i></div>
 <div class="bee-infobox-row"><b>Rarity</b><span>Event</span></div>
@@ -40,7 +40,7 @@ Gummy Bee likes the [Pineapple Patch](pineapple-patch.md), [Mountain Top Field](
 
 * Collects 10 [Pollen](pollen.md) in 4 seconds.
 * Makes 700 [Honey](honey.md) in 4 seconds.
-* +150% [Energy](energy.md), +620 [Convert Amount](system-page.md#Convert_Amount), +2 [Attack](stats.md#Attack).
+* +150% [Energy](energy.md), +620 [Convert Amount](system-page.md#Convert_Amount), +3 [Attack](stats.md#Attack).
 * 🌟 [Gifted Hive Bonus](gifted-bee.md): +5% [Honey Per Pollen](system-page.md#Honey_Per_Pollen).
 
 ### Abilities

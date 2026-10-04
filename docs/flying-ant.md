@@ -32,7 +32,7 @@ A Flying Ant's level can increase depending on what wave of the Ant Challenge th
 <tr>
 <td>1
 </td>
-<td>?
+<td>20
 </td></tr>
 <tr>
 <td>2

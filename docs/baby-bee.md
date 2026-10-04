@@ -12,8 +12,8 @@ tags: ["Bees", "Legendary", "Colorless"]
 <label for="bee-tab-original">Original</label>
 <input type="radio" name="bee-infobox-tab" id="bee-tab-gifted">
 <label for="bee-tab-gifted">Gifted</label>
-<div class="bee-infobox-image bee-tab-original"><img alt="Baby Bee" src="img/Baby_Bee.png" width="150" height="150"></div>
-<div class="bee-infobox-image bee-tab-gifted"><img alt="Gifted Baby Bee" src="img/Gifted_Baby_Bee.png" width="150" height="150"></div>
+<div class="bee-infobox-image bee-tab-original"><img alt="Baby Bee" src="img/Baby_Bee.png" width="150"></div>
+<div class="bee-infobox-image bee-tab-gifted"><img alt="Gifted Baby Bee" src="img/Gifted_Baby_Bee.png" width="150"></div>
 </div>
 <div class="bee-infobox-quote"><i>"This little bee isn't very good at bee tasks yet, but it's guaranteed to bring you joy (and luck)."</i></div>
 <div class="bee-infobox-row"><b>Rarity</b><span>Legendary</span></div>

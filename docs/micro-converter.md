@@ -13,7 +13,7 @@ Micro-Converter
 
 COOLDOWN
 
-5 seconds
+4 seconds
 
 CAP
 

@@ -13,7 +13,7 @@ Enzymes
 
 COOLDOWN
 
-1 second
+10 minutes
 
 **Enzymes** are an inventory item that was added in the [2018-11-25 update](updates.md#2018-11-25). When used, it grants +10% [Instant Conversion](system-page.md#Instant_Conversion) and x1.25 [Convert Rate](system-page.md#Convert_Rate) for 10 minutes when activated. Using another **Enzymes** will not stack them, but will reset the timer. **Enzymes** can also be used for crafting other accessories or items. Using a [Super Smoothie](super-smoothie.md) will override the buff.
 

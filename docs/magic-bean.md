@@ -13,7 +13,7 @@ Magic Bean
 
 COOLDOWN
 
-5 seconds
+3 seconds
 
 > *Were you looking for [Sprout](sprout.md) or [Festive Bean](festive-bean.md)?*
 

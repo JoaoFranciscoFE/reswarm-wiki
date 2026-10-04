@@ -28,11 +28,11 @@ tags: ["Bees", "Mythic"]
 <td>This unkempt ball of fluff is actually a bee. Its fur aids in the pollination of flowers.
 </td></tr>
 <tr>
-<td><img alt="Mortar Bee" height="35" src="img/Happy_Mortar_Bee.png" width="35"/> <a href="mortar-bee.html">Mortar Bee</a>
+<td><img alt="Mortar Bee" height="35" src="img/Mortar_Bee.png"/> <a href="mortar-bee.html">Mortar Bee</a>
 </td>
 <td><span typeof="mw:Error mw:File"></span>
 </td>
-<td>No in-game description yet.
+<td>A lazy artillery bee who would rather shell the field than work.
 </td></tr>
 <tr>
 <td><img alt="Precise Bee" height="35" src="img/Precise_Bee.png" width="35"/> <a href="precise-bee.html">Precise Bee</a>

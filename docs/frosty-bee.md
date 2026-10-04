@@ -12,8 +12,8 @@ tags: ["Bees", "Epic", "Blue"]
 <label for="bee-tab-original">Original</label>
 <input type="radio" name="bee-infobox-tab" id="bee-tab-gifted">
 <label for="bee-tab-gifted">Gifted</label>
-<div class="bee-infobox-image bee-tab-original"><img alt="Frosty Bee" src="img/Frosty_Bee.png" width="150" height="150"></div>
-<div class="bee-infobox-image bee-tab-gifted"><img alt="Gifted Frosty Bee" src="img/Gifted_Frosty_Bee.png" width="150" height="150"></div>
+<div class="bee-infobox-image bee-tab-original"><img alt="Frosty Bee" src="img/Frosty_Bee.png" width="150"></div>
+<div class="bee-infobox-image bee-tab-gifted"><img alt="Gifted Frosty Bee" src="img/Gifted_Frosty_Bee.png" width="150"></div>
 </div>
 <div class="bee-infobox-quote"><i>"A bee made of snow. It magically came to life after someone put a top hat on its head."</i></div>
 <div class="bee-infobox-row"><b>Rarity</b><span>Epic</span></div>
@@ -40,7 +40,7 @@ Frosty Bee likes the [Blue Flower Field](blue-flower-field.md), and the [Mounta
 
 * Collects 10 [Pollen](pollen.md) in 4 seconds.
 * Makes 80 [Honey](honey.md) in 4 seconds.
-* +25% [Energy](energy.md), -20% [Movespeed](stats.md#Speed).
+* +25% [Energy](energy.md), -20% [Movespeed](stats.md#Speed), +1 [Attack](stats.md#Attack).
 * 🌟 [Gifted Hive Bonus](gifted-bee.md): x1.25 [Blue Bomb Pollen](system-page.md#Blue_Bomb_Pollen).
 
 ### Abilities

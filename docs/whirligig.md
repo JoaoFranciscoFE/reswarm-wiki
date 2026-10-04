@@ -13,7 +13,7 @@ Whirligig
 
 COOLDOWN
 
-3 minutes
+5 seconds
 
 CAP
 

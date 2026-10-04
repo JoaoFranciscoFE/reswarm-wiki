@@ -5,7 +5,7 @@ tags: ["Mobs"]
 
 # Mobs
 
-There are 34 different kinds of **enemies/creatures/monsters** (colloquially called “**mobs**”) in [Re://:Swarm](re-swarm.md).
+There are many different kinds of **enemies/creatures/monsters** (colloquially called “**mobs**”) in [Re://:Swarm](re-swarm.md).
 
 The most abundant mob in terms of spawn points is the [rhino beetle](rhino-beetle.md), as there are five spawn points for them in the game, with [Ladybugs](ladybug.md) being the second, with four spawn points. The mob with the longest spawn time is the [Stump Snail](stump-snail.md), respawning in 96 hours.
 

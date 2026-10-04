@@ -12,8 +12,8 @@ tags: ["Bees", "Rare", "Colorless"]
 <label for="bee-tab-original">Original</label>
 <input type="radio" name="bee-infobox-tab" id="bee-tab-gifted">
 <label for="bee-tab-gifted">Gifted</label>
-<div class="bee-infobox-image bee-tab-original"><img alt="Stubborn Bee" src="img/Stubborn_Bee.png" width="150" height="150"></div>
-<div class="bee-infobox-image bee-tab-gifted"><img alt="Gifted Stubborn Bee" src="img/Gifted_Stubborn_Bee.png" width="150" height="150"></div>
+<div class="bee-infobox-image bee-tab-original"><img alt="Stubborn Bee" src="img/Stubborn_Bee.png" width="150"></div>
+<div class="bee-infobox-image bee-tab-gifted"><img alt="Gifted Stubborn Bee" src="img/Gifted_Stubborn_Bee.png" width="150"></div>
 </div>
 <div class="bee-infobox-quote"><i>"A hard-headed bee who can't be bossed around. It tells others where to go."</i></div>
 <div class="bee-infobox-row"><b>Rarity</b><span>Rare</span></div>

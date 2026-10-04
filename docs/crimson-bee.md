@@ -12,8 +12,8 @@ tags: ["Bees", "Red", "Event"]
 <label for="bee-tab-original">Original</label>
 <input type="radio" name="bee-infobox-tab" id="bee-tab-gifted">
 <label for="bee-tab-gifted">Gifted</label>
-<div class="bee-infobox-image bee-tab-original"><img alt="Crimson Bee" src="img/Crimson_Bee.png" width="150" height="150"></div>
-<div class="bee-infobox-image bee-tab-gifted"><img alt="Gifted Crimson Bee" src="img/Gifted_Crimson_Bee.png" width="150" height="150"></div>
+<div class="bee-infobox-image bee-tab-original"><img alt="Crimson Bee" src="img/Crimson_Bee.png" width="150"></div>
+<div class="bee-infobox-image bee-tab-gifted"><img alt="Gifted Crimson Bee" src="img/Gifted_Crimson_Bee.png" width="150"></div>
 </div>
 <div class="bee-infobox-quote"><i>""A Superhero and Defender of all things Red! Together with <a href="cobalt-bee.html">Cobalt Bee</a> it works to unite bees of all colors.""</i></div>
 <div class="bee-infobox-row"><b>Rarity</b><span>Event</span></div>
@@ -43,7 +43,7 @@ Crimson Bee likes the [Clover Field](clover-field.md) and the [Rose Field](rose-
 * Collects 10 [Pollen](pollen.md) in 4 seconds.
 * Makes 140 [Honey](honey.md) in 3 seconds.
 * +75% [Energy](energy.md), +30% [Movespeed](stats.md#Speed), +25% Convert Speed, +60 [Convert Amount](system-page.md#Convert_Amount), 10% [Instant Conversion](instant-conversion.md), +6 [Attack](stats.md#Attack), 5% [Critical Chance](critical-hits.md).
-* 🌟 [Gifted Hive Bonus](gifted-bee.md): +15% [Instant Red Conversion](system-page.md#Instant_Red_Conversion).
+* 🌟 [Gifted Hive Bonus](gifted-bee.md): x1.25 [Red Pollen](system-page.md#Red_Pollen).
 
 ### Abilities
 

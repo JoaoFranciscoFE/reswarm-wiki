@@ -12,8 +12,8 @@ tags: ["Bees", "Legendary", "Blue"]
 <label for="bee-tab-original">Original</label>
 <input type="radio" name="bee-infobox-tab" id="bee-tab-gifted">
 <label for="bee-tab-gifted">Gifted</label>
-<div class="bee-infobox-image bee-tab-original"><img alt="Ninja Bee" src="img/Ninja_Bee.png" width="150" height="150"></div>
-<div class="bee-infobox-image bee-tab-gifted"><img alt="Gifted Ninja Bee" src="img/Gifted_Ninja_Bee.png" width="150" height="150"></div>
+<div class="bee-infobox-image bee-tab-original"><img alt="Ninja Bee" src="img/Ninja_Bee.png" width="150"></div>
+<div class="bee-infobox-image bee-tab-gifted"><img alt="Gifted Ninja Bee" src="img/Gifted_Ninja_Bee.png" width="150"></div>
 </div>
 <div class="bee-infobox-quote"><i>"This bee trained vigorously for years to become the swiftest bee that has ever lived."</i></div>
 <div class="bee-infobox-row"><b>Rarity</b><span>Legendary</span></div>

@@ -12,8 +12,8 @@ tags: ["Bees", "Mythic", "Colorless"]
 <label for="bee-tab-original">Original</label>
 <input type="radio" name="bee-infobox-tab" id="bee-tab-gifted">
 <label for="bee-tab-gifted">Gifted</label>
-<div class="bee-infobox-image bee-tab-original"><img alt="Fuzzy Bee" src="img/Fuzzy_Bee.png" width="150" height="150"></div>
-<div class="bee-infobox-image bee-tab-gifted"><img alt="Gifted Fuzzy Bee" src="img/Gifted_Fuzzy_Bee.png" width="150" height="150"></div>
+<div class="bee-infobox-image bee-tab-original"><img alt="Fuzzy Bee" src="img/Fuzzy_Bee.png" width="150"></div>
+<div class="bee-infobox-image bee-tab-gifted"><img alt="Gifted Fuzzy Bee" src="img/Gifted_Fuzzy_Bee.png" width="150"></div>
 </div>
 <div class="bee-infobox-quote"><i>"This unkempt ball of fluff is actually a bee. Its fur aids in the pollination of flowers."</i></div>
 <div class="bee-infobox-row"><b>Rarity</b><span>Mythic</span></div>

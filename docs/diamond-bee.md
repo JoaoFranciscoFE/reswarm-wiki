@@ -12,8 +12,8 @@ tags: ["Bees", "Legendary", "Blue"]
 <label for="bee-tab-original">Original</label>
 <input type="radio" name="bee-infobox-tab" id="bee-tab-gifted">
 <label for="bee-tab-gifted">Gifted</label>
-<div class="bee-infobox-image bee-tab-original"><img alt="Diamond Bee" src="img/Diamond_Bee.png" width="150" height="150"></div>
-<div class="bee-infobox-image bee-tab-gifted"><img alt="Gifted Diamond Bee" src="img/Gifted_Diamond_Bee.png" width="150" height="150"></div>
+<div class="bee-infobox-image bee-tab-original"><img alt="Diamond Bee" src="img/Diamond_Bee.png" width="150"></div>
+<div class="bee-infobox-image bee-tab-gifted"><img alt="Gifted Diamond Bee" src="img/Gifted_Diamond_Bee.png" width="150"></div>
 </div>
 <div class="bee-infobox-quote"><i>"An extremely wealthy and pompous bee who has the money and talent to justify its attitude."</i></div>
 <div class="bee-infobox-row"><b>Rarity</b><span>Legendary</span></div>

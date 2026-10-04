@@ -30,11 +30,10 @@ The **Backpack** is a [bag](bags.md) that can be purchased in the [Noob Shop](no
 
 ## Stats
 
-* +3,500 Capacity.
+* +35,000 Capacity.
 
 ## Trivia
 
-* This and the [Canister](canister.md) are the only bags in the Noob Shop that cost more [Honey](honey.md) than their base Capacity.
 * This is the 2nd most expensive Bag in the Noob Shop, behind the [Canister](canister.md).
 * This and the [Pouch](pouch.md) are the only visually realistic bags, and the only bag that has a texture in the whole game.
 

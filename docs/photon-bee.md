@@ -12,8 +12,8 @@ tags: ["Bees", "Colorless", "Event"]
 <label for="bee-tab-original">Original</label>
 <input type="radio" name="bee-infobox-tab" id="bee-tab-gifted">
 <label for="bee-tab-gifted">Gifted</label>
-<div class="bee-infobox-image bee-tab-original"><img alt="Photon Bee" src="img/Photon_Bee.png" width="150" height="150"></div>
-<div class="bee-infobox-image bee-tab-gifted"><img alt="Gifted Photon Bee" src="img/Gifted_Photon_Bee.png" width="150" height="150"></div>
+<div class="bee-infobox-image bee-tab-original"><img alt="Photon Bee" src="img/Photon_Bee.png" width="150"></div>
+<div class="bee-infobox-image bee-tab-gifted"><img alt="Gifted Photon Bee" src="img/Gifted_Photon_Bee.png" width="150"></div>
 </div>
 <div class="bee-infobox-quote"><i>"An entity made of pure light temporarily taking on the form of a bee."</i></div>
 <div class="bee-infobox-row"><b>Rarity</b><span>Event</span></div>

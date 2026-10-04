@@ -12,8 +12,8 @@ tags: ["Bees", "Mythic", "Blue"]
 <label for="bee-tab-original">Original</label>
 <input type="radio" name="bee-infobox-tab" id="bee-tab-gifted">
 <label for="bee-tab-gifted">Gifted</label>
-<div class="bee-infobox-image bee-tab-original"><img alt="Buoyant Bee" src="img/Buoyant_Bee.png" width="150" height="150"></div>
-<div class="bee-infobox-image bee-tab-gifted"><img alt="Gifted Buoyant Bee" src="img/Gifted_Buoyant_Bee.png" width="150" height="150"></div>
+<div class="bee-infobox-image bee-tab-original"><img alt="Buoyant Bee" src="img/Buoyant_Bee.png" width="150"></div>
+<div class="bee-infobox-image bee-tab-gifted"><img alt="Gifted Buoyant Bee" src="img/Gifted_Buoyant_Bee.png" width="150"></div>
 </div>
 <div class="bee-infobox-quote"><i>"Just like a balloon, nothing can keep this bee down. It's always ready to party."</i></div>
 <div class="bee-infobox-row"><b>Rarity</b><span>Mythic</span></div>

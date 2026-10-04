@@ -12,8 +12,8 @@ tags: ["Bees", "Event", "Blue"]
 <label for="bee-tab-original">Original</label>
 <input type="radio" name="bee-infobox-tab" id="bee-tab-gifted">
 <label for="bee-tab-gifted">Gifted</label>
-<div class="bee-infobox-image bee-tab-original"><img alt="Cobalt Bee" src="img/Cobalt_Bee.png" width="150" height="150"></div>
-<div class="bee-infobox-image bee-tab-gifted"><img alt="Gifted Cobalt Bee" src="img/Gifted_Cobalt_Bee.png" width="150" height="150"></div>
+<div class="bee-infobox-image bee-tab-original"><img alt="Cobalt Bee" src="img/Cobalt_Bee.png" width="150"></div>
+<div class="bee-infobox-image bee-tab-gifted"><img alt="Gifted Cobalt Bee" src="img/Gifted_Cobalt_Bee.png" width="150"></div>
 </div>
 <div class="bee-infobox-quote"><i>"A superhero and defender of all things Blue! Together with <a href="crimson-bee.html">Crimson Bee</a> it works to unite bees of all colors."</i></div>
 <div class="bee-infobox-row"><b>Rarity</b><span>Event</span></div>
@@ -43,7 +43,7 @@ Cobalt Bee likes the [Clover Field](clover-field.md) and the [Pine Tree Forest](
 * Collects 10 [Pollen](pollen.md) in 4 seconds.
 * Makes 140 [Honey](honey.md) in 3 seconds.
 * +75% [Energy](energy.md), +30% [Movespeed](stats.md#Speed), +25% Convert Speed, +60 [Convert Amount](system-page.md#Convert_Amount), 10% [Instant Conversion](instant-conversion.md), +6 [Attack](stats.md#Attack), 5% [Critical Chance](critical-hits.md).
-* 🌟 [Gifted Hive Bonus](gifted-bee.md): +15% [Instant Blue Conversion](system-page.md#Instant_Blue_Conversion).
+* 🌟 [Gifted Hive Bonus](gifted-bee.md): x1.25 [Blue Pollen](system-page.md#Blue_Pollen).
 
 ### Abilities
 
