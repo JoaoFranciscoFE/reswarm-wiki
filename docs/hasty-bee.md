@@ -45,7 +45,7 @@ Hasty Bee likes the [Sunflower Field](sunflower-field.md) and [Cactus Field](cac
 
 ### Abilities
 
-* **[Haste](ability-tokens.md#Haste)** Grants +10% Player Movespeed for 20 seconds. Stacks up to 10 times (i.e. x5 haste means +50% Movespeed).
+* <img alt="Haste" src="img/Haste.png" style="height:1.6em;width:auto;vertical-align:middle"/> **[Haste](ability-tokens.md#Haste)** Grants +10% Player Movespeed for 20 seconds. Stacks up to 10 times (i.e. x5 haste means +50% Movespeed).
 
 <table style="font-size:1.5vh; color:#000; width:100%; background:#fff; padding: 15px 0; border:none; color:#000; border-left:15px #000 solid">
 <tbody><tr>

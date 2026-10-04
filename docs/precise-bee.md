@@ -45,7 +45,7 @@ Precise Bee likes the [Mountain Top Field](mountain-top-field.md) and [Rose Fiel
 
 ### Abilities
 
-* **[Target Practice](ability-tokens.md#Target_Practice)** Causes the bee to fly into the air and project 3 targets on the field for a few seconds. Running on a target activates it.
+* <img alt="Target Practice" src="img/Target_Practice.png" style="height:1.6em;width:auto;vertical-align:middle"/> **[Target Practice](ability-tokens.md#Target_Practice)** Causes the bee to fly into the air and project 3 targets on the field for a few seconds. Running on a target activates it.
   * When all 3 targets are activated, this collects all ability tokens and grants a stack of [Precision](buffs-debuffs.md#From_Ability_Tokens), which grants +2% Super-Crit Chance for 60s and stacks up to 10 times. Super-Crits can only occur for Critical hits and gain x2 power and 100% [Instant Conversion](instant-conversion.md).
   * After a few seconds, any target activated will generate a [Focus](ability-tokens.md#Focus) token and be shot, collecting pollen equal to double this bee's attack (+10% per [Level](bond.md)) from 29 [Flowers](flowers.md). With Flame Heat, the shots gain up to x4 Pollen and up to 50% instant conversion. Any unactivated target spawns a [Red Boost](ability-tokens.md#Boost) token instead.
   * If the player is shot while standing on a target, this collects all ability tokens and consumes your [Flame Heat](flame.md#Flame_Heat) to instantly convert Pollen in your bag, with half turning into Honey Tokens. The amount converted is equal to 50% of your Convert Total + 10x this bee's convert amount and scales up to x10 with the Flame Heat consumed and up to x3 with your current field's boost stacks.

@@ -45,8 +45,8 @@ Diamond Bee likes the [Blue Flower Field](blue-flower-field.md), and [Pineapple 
 
 ### Abilities
 
-* **[Blue Boost](ability-tokens.md#Boost)** Grants x1.2 pollen from Blue flowers for 15 seconds. Stacks up to 10 times.
-* **[Honey Gift+](ability-tokens.md#Honey_Gift)** Sometimes spawns a Honey Token. The amount of honey is equal to 250 \* bee level \* bee level. (250 times the bee's level squared)
+* <img alt="Blue Boost" src="img/Blue_Boost.png" style="height:1.6em;width:auto;vertical-align:middle"/> **[Blue Boost](ability-tokens.md#Boost)** Grants x1.2 pollen from Blue flowers for 15 seconds. Stacks up to 10 times.
+* <img alt="Honey Gift+" src="img/Honey_Gift+.png" style="height:1.6em;width:auto;vertical-align:middle"/> **[Honey Gift+](ability-tokens.md#Honey_Gift)** Sometimes spawns a Honey Token. The amount of honey is equal to 250 \* bee level \* bee level. (250 times the bee's level squared)
 * **[Passive: Shimmering Honey](passive-abilities.md#Shimmering_Honey)** When converting at the hive, this bee grants 25% bonus honey (+2.5% per level). This bonus is doubled if Gifted. This is noticeable by the light blue conversion link when converting.
 
 <table style="font-size:1.5vh; color:#000; width:100%; background:#fff; padding: 15px 0; border:none; color:#000; border-left:15px #2fa0fc solid">

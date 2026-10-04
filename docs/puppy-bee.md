@@ -45,8 +45,8 @@ Puppy Bee likes the [Clover Field](clover-field.md) and the [Pumpkin Patch](pump
 
 ### Abilities
 
-* **[Fetch](ability-tokens.md#Fetch)** Creates a ball that collects tokens and increases pollen by 100% (+15% per [Level](bond.md)) as you and Puppy Bee kick it to each other. Collection increases per kick. Combo hits to win [Treats](treat.md).
-* **[Puppy Love](ability-tokens.md#Puppy_Love)** Increases your bond with up to 10 nearby bees by 60 (+20 per lvl). Grants +10% Bee Movespeed and +50% Bee Gather Amount for 10 seconds (+1s per lvl).
+* <img alt="Fetch" src="img/Fetch.png" style="height:1.6em;width:auto;vertical-align:middle"/> **[Fetch](ability-tokens.md#Fetch)** Creates a ball that collects tokens and increases pollen by 100% (+15% per [Level](bond.md)) as you and Puppy Bee kick it to each other. Collection increases per kick. Combo hits to win [Treats](treat.md).
+* <img alt="Puppy Love" src="img/Puppy_Love.png" style="height:1.6em;width:auto;vertical-align:middle"/> **[Puppy Love](ability-tokens.md#Puppy_Love)** Increases your bond with up to 10 nearby bees by 60 (+20 per lvl). Grants +10% Bee Movespeed and +50% Bee Gather Amount for 10 seconds (+1s per lvl).
 
 <table style="font-size:1.5vh; color:#000; width:100%; background:#fff; padding: 15px 0; border:none; color:#000; border-left:15px #000 solid">
 <tbody><tr>

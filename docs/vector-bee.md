@@ -45,12 +45,12 @@ Vector Bee likes the [Spider Field](spider-field.md) and the [Coconut Field](coc
 
 ### Abilities
 
-* **[Pollen Mark+](ability-tokens.md#Mark)** Marks a large random area on the [Field](fields.md) for 8 seconds (+0.25s per Level) that increases all pollen by 50% while that player stands in it. Stacks up to 3 times.
-* **[Triangulate](ability-tokens.md#Triangulate)** Draws a triangle between the player, the bee, and the token. After 3s, it collects [Ability tokens](ability-tokens.md) and 10 pollen (+2 per Level) from all [Flowers](flowers.md) inside. All Marks within the triangle increase the pollen by 50%.
+* <img alt="Pollen Mark+" src="img/Pollen_Mark+.png" style="height:1.6em;width:auto;vertical-align:middle"/> **[Pollen Mark+](ability-tokens.md#Mark)** Marks a large random area on the [Field](fields.md) for 8 seconds (+0.25s per Level) that increases all pollen by 50% while that player stands in it. Stacks up to 3 times.
+* <img alt="Triangulate" src="img/Triangulate.png" style="height:1.6em;width:auto;vertical-align:middle"/> **[Triangulate](ability-tokens.md#Triangulate)** Draws a triangle between the player, the bee, and the token. After 3s, it collects [Ability tokens](ability-tokens.md) and 10 pollen (+2 per Level) from all [Flowers](flowers.md) inside. All Marks within the triangle increase the pollen by 50%.
   * If the triangle contains a Pollen Mark, it gains x2 White pollen.
   * If the triangle contains a Honey Mark or Festive Mark, it gains 50% instant conversion.
   * If the triangle contains a Precise Mark, it always deals critical hits.
-* **[🌟Gifted Ability: Mark Surge](ability-tokens.md#Mark_Surge)** Causes all of the player's active Marks to collect 7 Pollen (+10% per Level) from all flowers in their radius. Extends the duration of the Marks by 1s (+0.1s per Level). Each mark can perform up to 5 surges.
+* <img alt="Mark Surge" src="img/Mark_Surge.png" style="height:1.6em;width:auto;vertical-align:middle"/> **[🌟Gifted Ability: Mark Surge](ability-tokens.md#Mark_Surge)** Causes all of the player's active Marks to collect 7 Pollen (+10% per Level) from all flowers in their radius. Extends the duration of the Marks by 1s (+0.1s per Level). Each mark can perform up to 5 surges.
   * When a Honey Mark or Festive Mark surges, the Pollen is Instantly Converted.
   * When a Precise Mark surges, it always does Critical Hits.
 

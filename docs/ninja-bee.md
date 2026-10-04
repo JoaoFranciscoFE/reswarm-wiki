@@ -45,8 +45,8 @@ Ninja Bee likes the [Blue Flower Field](blue-flower-field.md) and [Bamboo Field]
 
 ### Abilities
 
-* **[Haste](ability-tokens.md#Haste)** Grants +10% [Player Movespeed](system-page.md#Movespeed) for 20 seconds. Stacks up to 10 times.
-* **[Blue Bomb+](ability-tokens.md#Bomb)** Collects 10 pollen from 29 surrounding Blue [Flowers](flowers.md) (+10% pollen per Level). Combo with other bombs to increase power.
+* <img alt="Haste" src="img/Haste.png" style="height:1.6em;width:auto;vertical-align:middle"/> **[Haste](ability-tokens.md#Haste)** Grants +10% [Player Movespeed](system-page.md#Movespeed) for 20 seconds. Stacks up to 10 times.
+* <img alt="Blue Bomb+" src="img/Blue_Bomb+.png" style="height:1.6em;width:auto;vertical-align:middle"/> **[Blue Bomb+](ability-tokens.md#Bomb)** Collects 10 pollen from 29 surrounding Blue [Flowers](flowers.md) (+10% pollen per Level). Combo with other bombs to increase power.
 
 <table style="font-size:1.5vh; color:#000; width:100%; background:#fff; padding: 15px 0; border:none; color:#000; border-left:15px #2fa0fc solid">
 <tbody><tr>

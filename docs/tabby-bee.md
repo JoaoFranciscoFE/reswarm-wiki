@@ -51,8 +51,8 @@ Unlike other bees, this bee has a unique perk: its stats increase permanently wi
 
 ### Abilities
 
-* **[Scratch](ability-tokens.md#Scratch)** Collects 7 (+1 per lvl) Pollen from 3 lines of 4 [Flowers](flowers.md). If Gifted, Scratch always does Critical hits.
-* **[Tabby Love](ability-tokens.md#Tabby_Love)** Permanently grants Tabby Bee +1% Gather Amount, Convert Amount, and pollen from Scratch. Stacks up to 1,000 times.
+* <img alt="Scratch" src="img/Scratch.png" style="height:1.6em;width:auto;vertical-align:middle"/> **[Scratch](ability-tokens.md#Scratch)** Collects 7 (+1 per lvl) Pollen from 3 lines of 4 [Flowers](flowers.md). If Gifted, Scratch always does Critical hits.
+* <img alt="Tabby Love" src="img/Tabby_Love.png" style="height:1.6em;width:auto;vertical-align:middle"/> **[Tabby Love](ability-tokens.md#Tabby_Love)** Permanently grants Tabby Bee +1% Gather Amount, Convert Amount, and pollen from Scratch. Stacks up to 1,000 times.
   * If at max stacks, Tabby Love grants Tabby Blessing, giving +1% Critical Chance and +25% Critical Power for 20 seconds (+2s per level). If Gifted, it grants Tabby Blessing+, which adds +1% Super-Crit Chance as well.
 
 <table style="font-size:1.5vh; color:#000; width:100%; background:#fff; padding: 15px 0; border:none; color:#000; border-left:15px #000 solid">

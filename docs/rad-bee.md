@@ -45,7 +45,7 @@ Rad Bee likes the [Mushroom Field](mushroom-field.md) and the [Rose Field](rose-
 
 ### Abilities
 
-* **[Red Boost](ability-tokens.md#Boost)** Grants x1.2 pollen from red [flowers](flowers.md) for 15s. Stacks up to 10 times.
+* <img alt="Red Boost" src="img/Red_Boost.png" style="height:1.6em;width:auto;vertical-align:middle"/> **[Red Boost](ability-tokens.md#Boost)** Grants x1.2 pollen from red [flowers](flowers.md) for 15s. Stacks up to 10 times.
 
 <table style="font-size:1.5vh; color:#000; width:100%; background:#fff; padding: 15px 0; border:none; color:#000; border-left:15px #af2136 solid">
 <tbody><tr>

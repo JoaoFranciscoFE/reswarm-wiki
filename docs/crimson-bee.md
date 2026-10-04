@@ -47,9 +47,9 @@ Crimson Bee likes the [Clover Field](clover-field.md) and the [Rose Field](rose-
 
 ### Abilities
 
-* **[Red Pulse](ability-tokens.md#Pulse)** Fires a pulse that hops between your red bees, collecting pollen around them (+10% per level). Power increases with each hop. If you own Cobalt Bee, fires a [Blue Pulse](ability-tokens.md#Pulse) as well.
+* <img alt="Red Pulse" src="img/Red_Pulse.png" style="height:1.6em;width:auto;vertical-align:middle"/> **[Red Pulse](ability-tokens.md#Pulse)** Fires a pulse that hops between your red bees, collecting pollen around them (+10% per level). Power increases with each hop. If you own Cobalt Bee, fires a [Blue Pulse](ability-tokens.md#Pulse) as well.
   * If Gifted, the pulse also causes bees to instantly convert pollen equal to 25% of the bee's Convert Amount (+25% per Field Boost stack).
-* **[Red Bomb Sync](ability-tokens.md#Bomb_Sync)** Grants 10% Red Pollen and Instant Red Conversion and allows [Red Bombs](ability-tokens.md#Bomb) to collect from white [Flowers](flowers.md) for 30 sec. If [Blue Bomb Sync](ability-tokens.md#Bomb_Sync) is active, applies to blue flowers as well.
+* <img alt="Red Bomb Sync" src="img/Red_Bomb_Sync.png" style="height:1.6em;width:auto;vertical-align:middle"/> **[Red Bomb Sync](ability-tokens.md#Bomb_Sync)** Grants 10% Red Pollen and Instant Red Conversion and allows [Red Bombs](ability-tokens.md#Bomb) to collect from white [Flowers](flowers.md) for 30 sec. If [Blue Bomb Sync](ability-tokens.md#Bomb_Sync) is active, applies to blue flowers as well.
 
 <table style="font-size:1.5vh; color:#000; width:100%; background:#fff; padding: 15px 0; border:none; color:#000; border-left:15px #af2136 solid">
 <tbody><tr>

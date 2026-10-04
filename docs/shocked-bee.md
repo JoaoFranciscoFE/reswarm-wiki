@@ -45,8 +45,8 @@ Shocked Bee likes the [Spider Field](spider-field.md) and the [Pineapple Patch](
 
 ### Abilities
 
-* **[Haste](ability-tokens.md#Haste)** Grants +10% [Player Movespeed](system-page.md#Movespeed) for 20 seconds. Stacks up to 10 times.
-* **[Token Link](ability-tokens.md#Token_Link)** Collects all other [Ability Tokens](ability-tokens.md), granting 25 [Honey](honey.md) (+10 per lvl) per token collected.
+* <img alt="Haste" src="img/Haste.png" style="height:1.6em;width:auto;vertical-align:middle"/> **[Haste](ability-tokens.md#Haste)** Grants +10% [Player Movespeed](system-page.md#Movespeed) for 20 seconds. Stacks up to 10 times.
+* <img alt="Token Link" src="img/Token_Link.png" style="height:1.6em;width:auto;vertical-align:middle"/> **[Token Link](ability-tokens.md#Token_Link)** Collects all other [Ability Tokens](ability-tokens.md), granting 25 [Honey](honey.md) (+10 per lvl) per token collected.
 
 <table style="font-size:1.5vh; color:#000; width:100%; background:#fff; padding: 15px 0; border:none; color:#000; border-left:15px #000 solid">
 <tbody><tr>
