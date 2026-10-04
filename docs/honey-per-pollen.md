@@ -5,6 +5,8 @@ tags: ["Mechanics"]
 
 # Honey Per Pollen
 
+![Honey Per Pollen](img/Honey_Per_Pollen.png){ align=right width=150 }
+
 **Honey Per Pollen** is a [mechanic](mechanics.md) that increases the amount of [honey](honey.md) earned when converting [pollen](pollen.md). For example, if a player has 10 pollen in their [container](bags.md), with a 110% Honey Per Pollen multiplier, they would receive 11 honey if converted. 20 to 22, etc. To determine how much honey will be earned when converting pollen, multiply bag space *B*, by Honey Per Pollen percentage.
 
 Similar to many other boosts, (for example, [Instant Conversion](instant-conversion.md)) the player can always check their current percentage of Honey Per Pollen on the [System Page](system-page.md). It starts off at 100% and increases later on when the player gets more and more Honey Per Pollen boosts.

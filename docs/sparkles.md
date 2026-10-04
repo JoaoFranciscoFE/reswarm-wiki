@@ -5,6 +5,8 @@ tags: ["Mechanics"]
 
 # Sparkles
 
+![Sparkles](img/Sparkles.png){ align=right width=150 }
+
 <figure class="thumb" style="width: 180px" typeof="mw:File/Thumb">  <figcaption class="thumbcaption"> <p class="caption">A patch of flowers that has sparkles.</p> </figcaption> </figure>
 
 **Sparkles** are an effect applied to certain patches of [flowers](flowers.md) that yields a token containing [Honey](honey.md), random [treats](treats.md) corresponding to the [field](fields.md) it is in, [Moon Charms](moon-charm.md), or rarely [Tickets](ticket.md), [Royal Jelly](royal-jelly.md), [Neonberry](neonberry.md), [Star Jelly](royal-jelly.md#Star_Jelly), or [Glitter](glitter.md) when harvested. When enough [pollen](pollen.md) is collected from a sparkling flower, it will yield a token for any player to collect. If it isn't collected within 10 seconds, the token will disappear.

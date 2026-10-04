@@ -5,6 +5,8 @@ tags: ["Gameplay", "Mechanics"]
 
 # Codes
 
+![Codes](img/Codes.png){ align=right width=150 }
+
 <figure class="thumb" style="width: 288px" typeof="mw:File/Thumb">  <figcaption class="thumbcaption"> <p class="caption">The codes menu.</p> </figcaption> </figure>
 
 Promo **codes** can be redeemed in Re://:Swarm for prizes such as items, stickers and boosts.

@@ -5,6 +5,8 @@ tags: ["Locations", "Leaderboards", "Starter Zone"]
 
 # All-Time Top Honeymakers
 
+![All-Time Top Honeymakers](img/All-Time_Top_Honeymakers.png){ align=right width=150 }
+
 The **All-Time Top Honeymakers** is one of the 64 [leaderboards](leaderboards.md) in the game. This leaderboard shows how much [honey](honey.md) players have collected over time. It shows 10 leaderboard positions at one time. The player can scroll down the leaderboard to see more players, all the way to the 100th place. Only legitimate players appear on the leaderboards for lengths of time (exploiters will be removed).
 
 If the player steps on the white pad in front of it, the message "You've made [x] Honey" will appear; x being the amount of honey the player has made in total.

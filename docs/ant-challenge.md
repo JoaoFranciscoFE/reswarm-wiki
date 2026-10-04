@@ -5,6 +5,8 @@ tags: ["Locations", "Challenges", "Ant Challenge"]
 
 # Ant Challenge
 
+![Ant Challenge](img/Ant_Challenge.png){ align=right width=150 }
+
 <figure class="thumb" style="width: 180px" typeof="mw:File/Thumb">  <figcaption class="thumbcaption"> <p class="caption">The interior of the Ant Challenge area.</p> </figcaption> </figure>
 
 <figure class="thumb" style="width: 180px" typeof="mw:File/Thumb">  <figcaption class="thumbcaption"> <p class="caption">The exterior of the Ant Challenge area.</p> </figcaption> </figure>

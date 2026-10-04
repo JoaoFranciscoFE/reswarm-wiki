@@ -5,6 +5,8 @@ tags: ["Mechanics"]
 
 # Energy
 
+![Energy](img/Energy.png){ align=right width=150 }
+
 **Energy** represents the number of times a [bee](bees.md) will gather [pollen](pollen.md) from a [flower](flowers.md), sip [nectar](nectar.md), and [attack](bee-attack.md) [mobs](mobs.md) before returning to the [hive](hive.md) to rest. Each action costs one energy. Spawning [Ability Tokens](ability-tokens.md) does not use up energy. The energy of all bees in a hive can be increased with stacks of [Polar Power](buffs-debuffs.md#From_NPCs) from [Polar Bear](polar-bear.md)'s quests, certain [mutations](mutation.md), certain [Beequips](beequip.md) or by [leveling up](bond.md) bees.
 
 It takes 30 seconds for a bee to rest and recover all its energy in the hive. However, there are some exceptions. [Shocked Bee](shocked-bee.md) takes a lesser time to sleep, as well as [Exhausted Bee](exhausted-bee.md) and [Photon Bee](photon-bee.md) never sleeping at all. However, if the player dies or resets all bees will return to the hive to sleep regardless of any buffs, and they sleep for 30 seconds except Shocked Bee who sleeps for only 15 seconds.

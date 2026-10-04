@@ -34,7 +34,7 @@ All 50 pages in Probabilities.
 <a class="wiki-card" href="lei-probability.html"><img src="img/Lei.png" alt="" loading="lazy"><span>Lei</span></a>
 <a class="wiki-card" href="lump-of-coal-probability.html"><img src="img/Lump_Of_Coal.png" alt="" loading="lazy"><span>Lump Of Coal</span></a>
 <a class="wiki-card" href="moon-amulet-probability.html"><img src="img/Moon_Amulet.png" alt="" loading="lazy"><span>Moon Amulet</span></a>
-<a class="wiki-card wiki-card--noicon" href="mutation-probability.html"><img src="images/no-icon.svg" alt="" loading="lazy"><span>Mutation</span></a>
+<a class="wiki-card" href="mutation-probability.html"><img src="img/Mutation.png" alt="" loading="lazy"><span>Mutation</span></a>
 <a class="wiki-card" href="paper-angel-probability.html"><img src="img/Paper_Angel.png" alt="" loading="lazy"><span>Paper Angel</span></a>
 <a class="wiki-card" href="paperclip-probability.html"><img src="img/Paperclip.png" alt="" loading="lazy"><span>Paperclip</span></a>
 <a class="wiki-card" href="peppermint-antennas-probability.html"><img src="img/Peppermint_Antennas.png" alt="" loading="lazy"><span>Peppermint Antennas</span></a>

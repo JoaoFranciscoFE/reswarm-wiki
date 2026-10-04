@@ -5,6 +5,8 @@ tags: ["Re://:Swarm Wiki"]
 
 # Medals
 
+![Medals](img/Medals.png){ align=right width=150 }
+
 Medals
 
 A feature of the Re://:Swarm Wiki.

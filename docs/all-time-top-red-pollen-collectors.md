@@ -5,6 +5,8 @@ tags: ["Leaderboards", "Locations", "Red"]
 
 # All-Time Top Red Pollen Collectors
 
+![All-Time Top Red Pollen Collectors](img/All-Time_Top_Red_Pollen_Collectors.png){ align=right width=150 }
+
 The **All-Time Top Red Pollen Collectors** is one of 64 [leaderboards](leaderboards.md) in the game. This leaderboard shows how much red [pollen](pollen.md) players have collected over time. It shows 10 leaderboard positions at a time. The player can scroll down the leaderboard to see more leaderboard positions, all the way to 100th place. Only legitimate players appear on the leaderboards for lengths of time (hackers/exploiters will be removed).
 
 If the player steps on the white pad in front of it, the message "You've collected "x" Red Pollen" will appear, "x" being the total amount of red pollen you have collected in total.

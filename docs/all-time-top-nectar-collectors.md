@@ -5,6 +5,8 @@ tags: ["Leaderboards"]
 
 # All-Time Top Nectar Collectors
 
+![All-Time Top Nectar Collectors](img/All-Time_Top_Nectar_Collectors.png){ align=right width=150 }
+
 The **All-Time Top Nectar Collectors** is one of the 64 [leaderboards](leaderboards.md) in the game, and is only viewable via the Global Leaderboards menu in the [System Page](system-page.md). This leaderboard shows how much [Nectar](nectar.md) players have collected over time. It shows 10 leaderboard positions at a time. The player can scroll down the leaderboard to see more players, all the way to the 100th place. Only legitimate players appear on the leaderboards for lengths of time (hackers/exploiters will be removed).
 
 <table class="mw-collapsible mw-collapsed NavTable">

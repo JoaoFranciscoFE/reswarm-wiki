@@ -5,6 +5,8 @@ tags: ["Removed Content", "Beesmas", "Locations", "Leaderboards", "Robo Party"]
 
 # Highest Robo Party Cake Rank
 
+![Highest Robo Party Cake Rank](img/Highest_Robo_Party_Cake_Rank.png){ align=right width=150 }
+
 This piece of content goes bye bye.
 
 The following content has been removed from the game. The contents below may be archival, but feel free to edit below.

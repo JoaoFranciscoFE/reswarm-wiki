@@ -5,6 +5,8 @@ tags: ["Removed Content", "Mobs", "Egg Hunt 2020", "Bosses", "Mini Bosses", "Mul
 
 # Chicks
 
+![Chicks](img/Chicks.png){ align=right width=150 }
+
 <figure class="thumb" style="width: 180px" typeof="mw:File/Thumb">  <figcaption class="thumbcaption"> <p class="caption">A Level 4 Chick, which is now removed.</p> </figcaption> </figure>
 
 **Chicks** are [mobs](mobs.md) that were added as part of the Egg Hunt 2020 event. They could spawn in a variety of places depending on their type, and have a special ability to hide inside their eggshells, increasing their defense and the chance for a bee's attacks to be blocked.

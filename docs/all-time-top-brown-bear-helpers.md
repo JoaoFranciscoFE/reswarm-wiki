@@ -5,6 +5,8 @@ tags: ["Leaderboards", "Locations", "Starter Zone"]
 
 # All-Time Top Brown Bear Helpers
 
+![All-Time Top Brown Bear Helpers](img/All-Time_Top_Brown_Bear_Helpers.png){ align=right width=150 }
+
 The **Top Brown Bear Helpers** is one of the 64 [leaderboards](leaderboards.md) in the game. This leaderboard shows the top 100 people who've completed the most [quests](quests.md) for [Brown Bear](brown-bear.md). It shows 10 leaderboard positions at one time. The player can scroll down the leaderboard to see more players, all the way to the 100th place. Unlike other leaderboards, there is no pad under the leaderboard for the player to see how many quests they have completed.
 
 ## Location

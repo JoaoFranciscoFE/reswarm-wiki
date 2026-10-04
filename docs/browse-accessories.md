@@ -61,7 +61,7 @@ All 47 pages in Accessories, sorted by equipment tier (1 to 3 stars).
 <a class="wiki-card" href="amulet.html"><img src="img/Ant_Amulet.png" alt="" loading="lazy"><span>Amulet</span></a>
 <a class="wiki-card" href="ant-amulet.html"><img src="img/Ant_Amulet.png" alt="" loading="lazy"><span>Ant Amulet</span></a>
 <a class="wiki-card" href="b-b-m-mask.html"><img src="img/B.B.M._Mask.png" alt="" loading="lazy"><span>B.B.M. Mask</span></a>
-<a class="wiki-card wiki-card--noicon" href="bags.html"><img src="images/no-icon.svg" alt="" loading="lazy"><span>Bags</span></a>
+<a class="wiki-card" href="bags.html"><img src="img/Bags.png" alt="" loading="lazy"><span>Bags</span></a>
 <a class="wiki-card" href="cog-amulet.html"><img src="img/Cog_Amulet.png" alt="" loading="lazy"><span>Cog Amulet</span></a>
 <a class="wiki-card" href="eviction.html"><img src="img/Eviction.png" alt="" loading="lazy"><span>Eviction</span></a>
 <a class="wiki-card wiki-card--noicon" href="glider.html"><img src="images/no-icon.svg" alt="" loading="lazy"><span>Glider</span></a>

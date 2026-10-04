@@ -5,6 +5,8 @@ tags: ["Leaderboards", "Locations", "Colorless"]
 
 # All-Time Top White Pollen Collectors
 
+![All-Time Top White Pollen Collectors](img/All-Time_Top_White_Pollen_Collectors.png){ align=right width=150 }
+
 The **All-Time Top White Pollen Collectors** is one of the 64 [leaderboards](leaderboards.md) in the game, and one of the 20 leaderboards with an in-game model. This leaderboard shows how much white [pollen](pollen.md) players have collected over time. It shows 10 leaderboard positions at a time. The player can scroll down the leaderboard to see more players, all the way to the 100th place. Only legitimate players appear on the leaderboards for lengths of time (hackers/exploiters will be removed).
 
 If the player steps on the white pad in front of it, the message "You've collected "x" White Pollen" will appear. "x" being the amount of white pollen you have collected.

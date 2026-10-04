@@ -5,6 +5,8 @@ tags: ["Stickers", "Painter Bee Event", "Re://:Swarm"]
 
 # Painter Stickers
 
+![Painter Stickers](img/Painter_Stickers.png){ align=right width=150 }
+
 The **Painter stickers** are a set of [stickers](sticker.md) added in the [Painter Bee event](painter-bee-event.md).
 
 ## Stickers

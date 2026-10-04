@@ -5,6 +5,8 @@ tags: ["Mobs", "Robo Bear Challenge", "Robo Bear"]
 
 # Mega Mechsquito
 
+![Mega Mechsquito](img/Mega_Mechsquito.png){ align=right width=150 }
+
 *Not to be confused with [Mechsquitos](mechsquito.md), the smaller counterparts of Mega Mechsquitos or [Party Mega Mechsquitos](party-mega-mechsquito.md), the Beesmas Edition of these.*
 
 <aside class="portable-infobox pi-background pi-border-color pi-theme-wikia pi-layout-stacked" role="region">

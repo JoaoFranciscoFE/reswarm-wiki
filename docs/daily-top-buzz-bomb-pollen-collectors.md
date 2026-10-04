@@ -5,6 +5,8 @@ tags: ["Leaderboards"]
 
 # Daily Top Buzz Bomb Pollen Collectors
 
+![Daily Top Buzz Bomb Pollen Collectors](img/Daily_Top_Buzz_Bomb_Pollen_Collectors.png){ align=right width=150 }
+
 The **Daily Top Buzz Bomb Pollen Collectors** is one of the 64 [leaderboards](leaderboards.md) in the game, and is only viewable via the Global Leaderboards menu in the [System Page](system-page.md). This leaderboard shows how much [pollen](pollen.md) players have collected with only [Buzz Bombs](ability-tokens.md#Bomb) on that day. It shows 10 leaderboard positions at a time. The player can scroll down the leaderboard to see more players, all the way to the 100th place. It resets every day at 12:00 AM CST.
 
 ## Prizes

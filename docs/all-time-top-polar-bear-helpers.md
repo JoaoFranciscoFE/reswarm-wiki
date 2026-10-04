@@ -5,6 +5,8 @@ tags: ["Leaderboards"]
 
 # All-Time Top Polar Bear Helpers
 
+![All-Time Top Polar Bear Helpers](img/All-Time_Top_Polar_Bear_Helpers.png){ align=right width=150 }
+
 The **All-Time Top Polar Bear Helpers** is one of the 64 [leaderboards](leaderboards.md) in the game, and one of the 41 leaderboards without an in-game model. This leaderboard shows how much [Polar Bear](polar-bear.md) [Quests](quests.md) players have completed over time. It shows 10 leaderboard positions at a time. The player can scroll down the leaderboard to see more players, all the way to the 100th place.
 
 <table class="mw-collapsible mw-collapsed NavTable">
