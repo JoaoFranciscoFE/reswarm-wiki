@@ -11,11 +11,12 @@ A Puffshroom has to be at least **level 15** before it can become Supreme. For c
 
 ## Drops
 
-* [Fluxite Wax](fluxite-wax.md), with a 1 in 10 chance. Loot multipliers do not change this chance.
+* [Fluxite Wax](fluxite-wax.md) (1 in 10). Loot multipliers do not change this chance.
+* Supreme Puffshroom sticker (1 in 100).
 
 ## Supreme Puffshroom sticker
 
-There is also a Supreme Puffshroom sticker, one of the six [Painter stickers](painter-stickers.md) that stack into Painter Bee's Artistic Hive Skin.
+The Supreme Puffshroom sticker is one of the [Painter stickers](painter-stickers.md). Stacking it gives +1% Bee Ability Rate and 5 Neonberry.
 
 ## Hiding Puffshrooms
 

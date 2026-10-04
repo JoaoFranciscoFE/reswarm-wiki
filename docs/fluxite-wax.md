@@ -5,17 +5,31 @@ tags: ["Items", "Inventory", "Waxes", "Crafted", "Consumables", "Painter Bee Eve
 
 # Fluxite Wax
 
-**Fluxite Wax** is a [wax](waxes.md) added in the [Painter Bee event](painter-bee-event.md). Using it on a [Beequip](beequip.md) rerolls that Beequip's potential.
+*"Rerolls a Beequip's potential: 1 pot (38%), 2 pot (30%), 3 pot (20%), 4 pot (9%), or 5 pot (3%). Doesn't use a Wax slot."*
 
-Unlike other waxes, Fluxite Wax does **not** use up one of the Beequip's wax slots.
+**Fluxite Wax** is a [wax](waxes.md) added in the [Painter Bee event](painter-bee-event.md). Using it on a [Beequip](beequip.md) rerolls that Beequip's potential. Unlike other waxes, it does **not** use up a wax slot.
+
+## Potential chances
+
+| Potential | Chance |
+|---|---|
+| 1 | 38% |
+| 2 | 30% |
+| 3 | 20% |
+| 4 | 9% |
+| 5 | 3% |
 
 ## Ways to obtain
 
-* Crafting it in the [Blender](blender.md).
-* As a drop from [Supreme Puffshrooms](supreme-puffshroom.md), with a 1 in 10 chance.
-* Buying it as a developer product in the shop.
-
-Fluxite Wax drops are never affected by loot multipliers, so the drop chance stays at 1 in 10.
+* **[Blender](blender.md)** (takes 300 seconds):
+  * 10 Debug Wax
+  * 750 [Caustic Wax](caustic-wax.md)
+  * 2,000 [Swirled Wax](swirled-wax.md)
+  * 4,000 [Hard Wax](hard-wax.md)
+  * 7,500 [Soft Wax](soft-wax.md)
+  * 3 [Turpentine](turpentine.md)
+* Dropped by [Supreme Puffshrooms](supreme-puffshroom.md) (1 in 10). Loot multipliers never change this chance.
+* Sold in the [Robux Shop](robux-shop.md).
 
 ## See also
 
