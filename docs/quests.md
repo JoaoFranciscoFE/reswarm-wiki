@@ -1307,6 +1307,206 @@ This piece of content goes bye bye.
 
 The following content has been removed from the game. The contents below may be archival, but feel free to edit below.
 
+### Repeatable Quests (Old)
+
+After completing his 20 star jelly quests, Black Bear would randomly assign quests that can be completed indefinitely, similar to [Polar Bear](polar-bear.md) and [Brown Bear](brown-bear.md). The rewards below are guaranteed, but Black Bear may also give other rewards. The player can only get 1 quest per hour.
+
+<table class="article-table mw-collapsible mw-collapsed">
+<tbody><tr>
+<th>Quest Name
+</th>
+<th>Requirements
+</th>
+<th>Reward
+</th></tr>
+<tr>
+<td>Black Bear: Just White
+</td>
+<td>
+<ul><li>Collect 1,000,000 White Pollen.</li></ul>
+</td>
+<td>1x Ticket<br/>
+<p>5x Sunflower Seed<br/>
+500,000 Honey
+</p>
+</td></tr>
+<tr>
+<td>Black Bear: Just Red
+</td>
+<td>
+<ul><li>Collect 1,000,000 Red Pollen.</li></ul>
+</td>
+<td>1x Ticket<br/>
+<p>5x Strawberry<br/>
+500,000 Honey
+</p>
+</td></tr>
+<tr>
+<td>Black Bear: Just Blue
+</td>
+<td>
+<ul><li>Collect 1,000,000 Blue Pollen.</li></ul>
+</td>
+<td>1x Ticket<br/>
+<p>5x Blueberry<br/>
+500,000 Honey
+</p>
+</td></tr>
+<tr>
+<td>Black Bear: A Bit Of Both
+</td>
+<td>
+<ul><li>Collect 750,000 Blue Pollen.</li>
+<li>Collect 750,000 Red Pollen.</li></ul>
+</td>
+<td><br/>
+<p>15x Strawberry<br/>
+15x Blueberry<br/>
+500,000 Honey
+</p>
+</td></tr>
+<tr>
+<td>Black Bear: Any Pollen
+</td>
+<td>
+<ul><li>Collect 2,000,000 Pollen.</li></ul>
+</td>
+<td>1x Ticket<br/>
+<p>1x Royal Jelly<br/>
+500,000 Honey
+</p>
+</td></tr>
+<tr>
+<td>Black Bear: The Whole Lot
+</td>
+<td>
+<ul><li>Collect 1,500,000 Red Pollen.</li>
+<li>Collect 1,500,000 Blue Pollen.</li>
+<li>Collect 1,500,000 White Pollen.</li></ul>
+</td>
+<td>1x Ticket<br/>
+<p>3x Royal Jelly<br/>
+10x Pineapple<br/>
+1,500,000 Honey
+</p>
+</td></tr>
+<tr>
+<td>Black Bear: Between the Bamboo
+</td>
+<td>
+<ul><li>Collect 750,000 Pollen from the Bamboo Field.</li></ul>
+</td>
+<td>1x Royal Jelly<br/>
+<p>25x Treat<br/>
+500,000 Honey
+</p>
+</td></tr>
+<tr>
+<td>Black Bear: Play In The Pumpkins
+</td>
+<td>
+<ul><li>Collect 750,000 Pollen from the Pumpkin Patch.</li></ul>
+</td>
+<td>1x Royal Jelly<br/>
+<p>25x Treat<br/>
+500,000 Honey
+</p>
+</td></tr>
+<tr>
+<td>Black Bear: Plundering Pineapples
+</td>
+<td>
+<ul><li>Collect 750,000 Pollen from the Pineapple Patch.</li></ul>
+</td>
+<td>1x Royal Jelly<br/>
+<p>25x Treat<br/>
+500,000 Honey
+</p>
+</td></tr>
+<tr>
+<td>Black Bear: Stroll In The Strawberries
+</td>
+<td>
+<ul><li>Collect 750,000 Pollen from the Strawberry Field.</li></ul>
+</td>
+<td>1x Royal Jelly<br/>
+<p>25x Treat<br/>
+500,000 Honey
+</p>
+</td></tr>
+<tr>
+<td>Black Bear: Mid-Level Mission
+</td>
+<td>
+<ul><li>Collect 500,000 Pollen from the Spider Field</li>
+<li>Collect 500,000 Pollen from the Strawberry Field</li>
+<li>Collect 500,000 Pollen from the Bamboo Field</li></ul>
+</td>
+<td>3x Royal Jelly<br/>
+<p>50x Treat<br/>
+1,000,000 Honey
+</p>
+</td></tr>
+<tr>
+<td>Black Bear: Blue Flower Bliss
+</td>
+<td>
+<ul><li>Collect 2,000,000 Pollen from the Blue Flower Field.</li></ul>
+</td>
+<td>1x Ticket<br/>
+<p>50x Treat<br/>
+1,000,000 Honey
+</p>
+</td></tr>
+<tr>
+<td>Black Bear: Delve into Dandelions
+</td>
+<td>
+<ul><li>Collect 2,000,000 Pollen from the Dandelion Field.</li></ul>
+</td>
+<td>1x Ticket<br/>
+<p>50x Treat<br/>
+1,000,000 Honey
+</p>
+</td></tr>
+<tr>
+<td>Black Bear: Fun in the Sunflowers
+</td>
+<td>
+<ul><li>Collect 2,000,000 Pollen from the Sunflower Field.</li></ul>
+</td>
+<td>1x Ticket<br/>
+<p>50x Treat<br/>
+1,000,000 Honey
+</p>
+</td></tr>
+<tr>
+<td>Black Bear: Mission for Mushrooms
+</td>
+<td>
+<ul><li>Collect 2,000,000 Pollen from the Mushroom Field.</li></ul>
+</td>
+<td>1x Ticket<br/>
+<p>50x Treat<br/>
+1,000,000 Honey
+</p>
+</td></tr>
+<tr>
+<td>Black Bear: Leisurely Lowlands
+</td>
+<td>
+<ul><li>Collect 1,000,000 Pollen from the Dandelion Field.</li>
+<li>Collect 1,000,000 Pollen from the Sunflower Field.</li>
+<li>Collect 1,000,000 Pollen from the Mushroom Field.</li>
+<li>Collect 1,000,000 Pollen from the Blue Flower Field.</li></ul>
+</td>
+<td>1x Ticket<br/>
+<p>3x Royal Jelly<br/>
+100x Treat<br/>
+2,000,000 Honey
+</p>
+</td></tr></tbody></table>
+
 ### Mother Bear
 
 <figure class="thumb mw-halign-right" style="width: 180px" typeof="mw:File/Thumb">  <figcaption class="thumbcaption"> </figcaption> </figure>
