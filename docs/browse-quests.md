@@ -9,24 +9,24 @@ hide:
 All 20 pages in Quests.
 
 <div class="wiki-cards">
-<a class="wiki-card wiki-card--text" href="bee-bear.html"><span>Bee Bear</span></a>
-<a class="wiki-card wiki-card--text" href="black-bear.html"><span>Black Bear</span></a>
-<a class="wiki-card wiki-card--text" href="brown-bear.html"><span>Brown Bear</span></a>
-<a class="wiki-card wiki-card--text" href="bubble-bee-man.html"><span>Bubble Bee Man</span></a>
-<a class="wiki-card wiki-card--text" href="dapper-bear.html"><span>Dapper Bear</span></a>
+<a class="wiki-card" href="bee-bear.html"><img src="img/Honey_Bee_Bear.png" alt="" loading="lazy"><span>Bee Bear</span></a>
+<a class="wiki-card wiki-card--noicon" href="black-bear.html"><img src="images/no-icon.svg" alt="" loading="lazy"><span>Black Bear</span></a>
+<a class="wiki-card" href="brown-bear.html"><img src="img/Shy_Brown_Bear.png" alt="" loading="lazy"><span>Brown Bear</span></a>
+<a class="wiki-card wiki-card--noicon" href="bubble-bee-man.html"><img src="images/no-icon.svg" alt="" loading="lazy"><span>Bubble Bee Man</span></a>
+<a class="wiki-card wiki-card--noicon" href="dapper-bear.html"><img src="images/no-icon.svg" alt="" loading="lazy"><span>Dapper Bear</span></a>
 <a class="wiki-card" href="gifted-bucko-bee.html"><img src="img/Gifted_Bucko_Bee.png" alt="" loading="lazy"><span>Gifted Bucko Bee</span></a>
 <a class="wiki-card" href="gifted-riley-bee.html"><img src="img/Gifted_Riley_Bee.png" alt="" loading="lazy"><span>Gifted Riley Bee</span></a>
-<a class="wiki-card wiki-card--text" href="gummy-bear.html"><span>Gummy Bear</span></a>
-<a class="wiki-card wiki-card--text" href="honey-bee-npc.html"><span>Honey Bee (NPC)</span></a>
-<a class="wiki-card wiki-card--text" href="hub-field-shop.html"><span>Hub Field Shop</span></a>
-<a class="wiki-card wiki-card--text" href="mother-bear.html"><span>Mother Bear</span></a>
-<a class="wiki-card wiki-card--text" href="onett.html"><span>Onett</span></a>
-<a class="wiki-card wiki-card--text" href="panda-bear.html"><span>Panda Bear</span></a>
-<a class="wiki-card wiki-card--text" href="polar-bear.html"><span>Polar Bear</span></a>
-<a class="wiki-card wiki-card--text" href="robo-bear.html"><span>Robo Bear</span></a>
-<a class="wiki-card wiki-card--text" href="science-bear.html"><span>Science Bear</span></a>
-<a class="wiki-card wiki-card--text" href="spirit-bear.html"><span>Spirit Bear</span></a>
-<a class="wiki-card wiki-card--text" href="stick-bug.html"><span>Stick Bug</span></a>
-<a class="wiki-card wiki-card--text" href="sticker-seeker-quest-machine.html"><span>Sticker-Seeker Quest Machine</span></a>
-<a class="wiki-card wiki-card--text" href="sun-bear.html"><span>Sun Bear</span></a>
+<a class="wiki-card" href="gummy-bear.html"><img src="img/Glowering_Gummy_Bear.png" alt="" loading="lazy"><span>Gummy Bear</span></a>
+<a class="wiki-card wiki-card--noicon" href="honey-bee-npc.html"><img src="images/no-icon.svg" alt="" loading="lazy"><span>Honey Bee (NPC)</span></a>
+<a class="wiki-card wiki-card--noicon" href="hub-field-shop.html"><img src="images/no-icon.svg" alt="" loading="lazy"><span>Hub Field Shop</span></a>
+<a class="wiki-card" href="mother-bear.html"><img src="img/Sitting_Mother_Bear.png" alt="" loading="lazy"><span>Mother Bear</span></a>
+<a class="wiki-card wiki-card--noicon" href="onett.html"><img src="images/no-icon.svg" alt="" loading="lazy"><span>Onett</span></a>
+<a class="wiki-card wiki-card--noicon" href="panda-bear.html"><img src="images/no-icon.svg" alt="" loading="lazy"><span>Panda Bear</span></a>
+<a class="wiki-card" href="polar-bear.html"><img src="img/Chef_Hat_Polar_Bear.png" alt="" loading="lazy"><span>Polar Bear</span></a>
+<a class="wiki-card" href="robo-bear.html"><img src="img/Party_Robo_Bear.png" alt="" loading="lazy"><span>Robo Bear</span></a>
+<a class="wiki-card" href="science-bear.html"><img src="img/Panicked_Science_Bear.png" alt="" loading="lazy"><span>Science Bear</span></a>
+<a class="wiki-card" href="spirit-bear.html"><img src="img/Sideways_Spirit_Bear.png" alt="" loading="lazy"><span>Spirit Bear</span></a>
+<a class="wiki-card wiki-card--noicon" href="stick-bug.html"><img src="images/no-icon.svg" alt="" loading="lazy"><span>Stick Bug</span></a>
+<a class="wiki-card wiki-card--noicon" href="sticker-seeker-quest-machine.html"><img src="images/no-icon.svg" alt="" loading="lazy"><span>Sticker-Seeker Quest Machine</span></a>
+<a class="wiki-card" href="sun-bear.html"><img src="img/Stranded_Sun_Bear.png" alt="" loading="lazy"><span>Sun Bear</span></a>
 </div>
