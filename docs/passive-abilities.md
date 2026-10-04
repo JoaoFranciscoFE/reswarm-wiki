@@ -5,6 +5,8 @@ tags: ["Mechanics"]
 
 # Passive Abilities
 
+![Passive Abilities](img/Passive_Abilities.png){ align=right width=150 }
+
 <figure class="thumb" style="width: 250px" typeof="mw:File/Thumb">  <figcaption class="thumbcaption"> <p class="caption">Passive Ability icons which can be seen above the hotbar, or bottom right next to the hotbar on mobile. These icons are for Haste Pulser, Coconut Haste Surge, Ignite, X-Flame, and Emergency Coconut Shield.</p> </figcaption> </figure>
 
 **Passive Abilities,** or simply **passives** are effects found on some accessories, [amulets](amulet.md), or [bees](bees.md). These abilities are active all the time or only activate when specific actions are done, as an additional effect of those actions.

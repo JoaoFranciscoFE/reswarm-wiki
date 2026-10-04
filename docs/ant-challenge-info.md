@@ -5,6 +5,8 @@ tags: ["Locations", "Ant Challenge", "NPC"]
 
 # Ant Challenge Info
 
+![Ant Challenge Info](img/Ant_Challenge_Info.png){ align=right width=150 }
+
 <figure class="thumb" style="width: 180px" typeof="mw:File/Thumb">  <figcaption class="thumbcaption"> <p class="caption">The Ant Challenge Info.</p> </figcaption> </figure>
 
 The **Ant Challenge Info** is located behind the [Ant Gate](ant-gate.md) and to the right of the [Ant Challenge](ant-challenge.md). It provides basic information on the Ant Challenge. When the players steps on the white pad, they will be prompted with a message that reads, "Read Ant Challenge Info".

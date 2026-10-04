@@ -1,9 +1,11 @@
 ---
 title: "Party Mechsquito"
-tags: ["Removed Content", "Mobs", "Robo Bear", "Robo Party", "Beesmas"]
+tags: ["Mobs", "Robo Bear", "Robo Party", "Beesmas"]
 ---
 
 # Party Mechsquito
+
+![Party Mechsquito](img/Party_Mechsquito.png){ align=right width=150 }
 
 This piece of content goes bye bye.
 

@@ -1,9 +1,11 @@
 ---
 title: "Daily Top Blue Brick Field Collectors"
-tags: ["Removed Content", "Leaderboards", "Retro Swarm Challenge"]
+tags: ["Leaderboards", "Retro Swarm Challenge"]
 ---
 
 # Daily Top Blue Brick Field Collectors
+
+![Daily Top Blue Brick Field Collectors](img/Daily_Top_Blue_Brick_Field_Collectors.png){ align=right width=150 }
 
 This piece of content goes bye bye.
 

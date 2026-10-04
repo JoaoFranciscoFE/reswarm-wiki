@@ -5,6 +5,8 @@ tags: ["Challenges", "Robo Bear Challenge", "Robo Bear"]
 
 # Robo Bear Challenge
 
+![Robo Bear Challenge](img/Robo_Bear_Challenge.png){ align=right width=150 }
+
 This piece of content contains information obtained through datamining.
 
 Due to the nature of the information, details may be inaccurate or outdated.

@@ -5,6 +5,8 @@ tags: ["Mechanics"]
 
 # Capacity
 
+![Capacity](img/Capacity.png){ align=right width=150 }
+
 **Capacity** is a [mechanic](mechanics.md) that shows how much [pollen](pollen.md) the player can store at a time. Capacity can be increased in a variety of ways including [buffs](buffs-debuffs.md), [items](items.md), [stickers](sticker.md), and [amulets](amulet.md). Capacity can be increased by static amounts or by multipliers. Static increases can be shown simply through addition symbols (+) while multipliers can be shown through multiplication symbols (x) or percentages (%). The player's Capacity is displayed in the top-middle section, labelled as "Pollen" and also on the player's bag. The player can see how much their capacity is multiplied by looking for the Capacity Multiplier stat in the [System Page](system-page.md).
 
 <figure class="thumb" style="width: 180px" typeof="mw:File/Frame">  <figcaption class="thumbcaption"> </figcaption> </figure>
@@ -61,8 +63,6 @@ Each guard adds a static amount of Capacity for the player.
 There are several hats/masks that add a static amount of Capacity or give a Capacity Multiplier for the player.
 
 * The Strange Goggles give +77 Capacity.
-* The [B.B.M. Mask](b-b-m-mask.md) gives +75,000 Capacity.
-* The [Mondo B.B.M. Mask](mondo-b-b-m-mask.md) gives +250,000 Capacity.
 * The [Honey Mask](honey-mask.md) gives a x1.25 Capacity Multiplier.
 * The [Fire Mask](fire-mask.md) gives a x1.25 Capacity Multiplier.
 * The [Bubble Mask](bubble-mask.md) gives a x1.5 Capacity Multiplier.
@@ -214,8 +214,7 @@ There are certain upgrades that can be bought with cogs during the Robo Bear Cha
 
 ## Trivia
 
-* The highest static Capacity the player can have at a time if you were to remove all multipliers is 4,807,000. This is achieved by having:
-  * Mondo B.B.M. Mask (+250K)
+* The highest static Capacity the player can have at a time if you were to remove all multipliers is 4,557,000. This is achieved by having:
   * Coconut Canister (+1M)
   * Crimson Guard (+250K)
   * Cobalt Guard (+250K)
@@ -235,7 +234,7 @@ There are certain upgrades that can be bought with cogs during the Robo Bear Cha
     * If all +(%) multipliers are applied, the player would have a total of 15,704,500 Capacity.
     * If all multipliers were applied, the player would have a total of 771,391,706,905,963 Capacity.
       * This Is achieved by having Most from above and:
-        * Replace Mondo B.B.M. Mask With Diamond Mask (-250k but x3)
+        * Diamond Mask (x3)
         * Supreme Star Amulet (x2.5)
         * Gifted Hive Bonuses (x1.1 & x1.2)
         * Replace one Beret With [Puppy Bee's Antlers](beequip.md)

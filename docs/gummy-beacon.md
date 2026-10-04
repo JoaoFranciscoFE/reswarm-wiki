@@ -1,6 +1,6 @@
 ---
 title: "Gummy Beacon"
-tags: ["Removed Content", "Beesmas", "Locations", "Machines", "Goo", "Summoner", "Beesmas Decorations", "Starter Zone"]
+tags: ["Beesmas", "Locations", "Machines", "Goo", "Summoner", "Beesmas Decorations", "Starter Zone"]
 ---
 
 # Gummy Beacon

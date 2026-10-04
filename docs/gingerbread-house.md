@@ -1,9 +1,11 @@
 ---
 title: "Gingerbread House"
-tags: ["Removed Content", "Locations", "Machines", "Beesmas", "Beesmas Decorations", "Starter Zone"]
+tags: ["Locations", "Machines", "Beesmas", "Beesmas Decorations", "Starter Zone"]
 ---
 
 # Gingerbread House
+
+![Gingerbread House](img/Gingerbread_House.png){ align=right width=150 }
 
 This piece of content goes bye bye.
 

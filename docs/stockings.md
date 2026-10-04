@@ -1,9 +1,11 @@
 ---
 title: "Stockings"
-tags: ["Removed Content", "Machines", "Beesmas", "Locations", "Beesmas Decorations", "Starter Zone"]
+tags: ["Machines", "Beesmas", "Locations", "Beesmas Decorations", "Starter Zone"]
 ---
 
 # Stockings
+
+![Stockings](img/Stockings.png){ align=right width=150 }
 
 This piece of content goes bye bye.
 

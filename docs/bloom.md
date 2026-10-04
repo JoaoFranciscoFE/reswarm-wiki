@@ -1,9 +1,11 @@
 ---
 title: "Bloom"
-tags: ["Recent Update", "Mobs", "Passive Mobs"]
+tags: ["Mobs", "Passive Mobs"]
 ---
 
 # Bloom
+
+![Bloom](img/Bloom.png){ align=right width=150 }
 
 *For a similar mob that only appears in Retro Swarm Challenge, see [Brick Bloom](brick-bloom.md).*
 

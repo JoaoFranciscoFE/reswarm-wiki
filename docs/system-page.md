@@ -21,7 +21,7 @@ The tab also lists many of the player's active stat values, though not all of th
 
 Boosts the base conversion of your bees before multipliers by a certain amount.  
 Example: A [Basic Bee](basic-bee.md) with 20 Convert Amount will convert 100 [Honey](honey.md) in 4 seconds instead of 80 [Honey](honey.md) in 4 seconds.  
-It can be boosted with [amulets](amulet.md), the [B.B.M. Mask](b-b-m-mask.md), the [Honey Mask](honey-mask.md) and certain belts. This stat was formerly named 'Conversion Amount' until it was changed in the Beesmas 2019 update.
+It can be boosted with [amulets](amulet.md), the [Honey Mask](honey-mask.md) and certain belts. This stat was formerly named 'Conversion Amount' until it was changed in the Beesmas 2019 update.
 
 ### Convert Rate
 

@@ -1,9 +1,11 @@
 ---
 title: "Party Cogmower"
-tags: ["Removed Content", "Mobs", "Robo Bear", "Robo Party", "Beesmas"]
+tags: ["Mobs", "Robo Bear", "Robo Party", "Beesmas"]
 ---
 
 # Party Cogmower
+
+![Party Cogmower](img/Party_Cogmower.png){ align=right width=150 }
 
 This piece of content goes bye bye.
 

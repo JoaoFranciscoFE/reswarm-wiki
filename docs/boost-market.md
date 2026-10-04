@@ -1,9 +1,11 @@
 ---
 title: "Boost Market"
-tags: ["Removed Content", "Shops", "Locations", "Machines"]
+tags: ["Shops", "Locations", "Machines"]
 ---
 
 # Boost Market
+
+![Boost Market](img/Boost_Market.png){ align=right width=150 }
 
 This piece of content goes bye bye.
 

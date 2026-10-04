@@ -5,6 +5,8 @@ tags: ["Locations", "Egg Claims"]
 
 # Vicious Bee Egg Claim
 
+![Vicious Bee Egg Claim](img/Vicious_Bee_Egg_Claim.png){ align=right width=150 }
+
 <figure class="thumb" style="width: 180px" typeof="mw:File/Thumb">  <figcaption class="thumbcaption"> <p class="caption">The Vicious Bee Egg Claim.</p> </figcaption> </figure>
 
 The **Vicious Bee Egg Claim** is a platform found between the [Spider Field](spider-field.md) and [Strawberry Field](strawberry-field.md) that lets the player exchange 250 [stingers](stinger.md) for a [Vicious Bee egg](egg.md#Event_Bee_Eggs). The platform is decorated with a large Vicious Bee and a "⚠️ WANTED ⚠️" sign. The pad's color is black, and the number "250" is printed on it, indicating that the player needs 250 stingers to claim a Vicious Bee egg. This exchange can only be done once per player. When the player walks on the platform and they do not have 250 or more stingers, a message on the top of the screen shows “Turn in 250 Stingers to Claim a Vicious Bee (Number of stingers/250)".

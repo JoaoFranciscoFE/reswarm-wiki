@@ -5,6 +5,8 @@ tags: ["Mechanics"]
 
 # Buffs & Debuffs
 
+![Buffs & Debuffs](img/Buffs_&_Debuffs.png){ align=right width=150 }
+
 **Buffs and Debuffs** are one of the core gameplay [mechanics](mechanics.md). The player can obtain them from [amulets](amulet.md), [quest givers](quest-givers.md), [items](items.md), [ability tokens](ability-tokens.md), [codes](codes.md), and different dispensers. Some buffs and debuffs are exclusive to one source, such as the Splinter Trap can only be obtained from the [Stick Bug Challenge](stick-bug-challenge.md), while others can be obtained in different ways, such as [blue boosts](ability-tokens.md#Boost) can be obtained from the [Blueberry Dispenser](blueberry-dispenser.md), [bees](bees.md), and [flowers](flowers.md).
 
 All status effects can be found in the top margin of the screen, above the main menu. The effects are sorted from left to right, with newer effects appearing on the right. Hovering over the icon for a buff/debuff will give information on the stack amount, effect, and duration (if possible). On certain devices, icons for accessories can also be found here instead of next to the hotbar.

@@ -5,6 +5,8 @@ tags: ["Locations", "Machines", "Summoner"]
 
 # Mythic Meteor Shower
 
+![Mythic Meteor Shower](img/Mythic_Meteor_Shower.png){ align=right width=150 }
+
 <figure class="thumb" style="width: 180px" typeof="mw:File/Thumb">  <figcaption class="thumbcaption"> <p class="caption">The Mythic Meteor Shower summoner.</p> </figcaption> </figure>
 
 A **Mythic Meteor Shower** is a server-wide event that was added in the 2020-06-06 update. Its original location was on top of the [Pro Shop](pro-shop.md) but has since been changed to be on [Badge Bearer's Guild](badge-bearer-s-guild.md) in the 2024-01-12 update. Any player who has discovered at least 3 [Mythic Bee](bees-mythic.md) types can summon it and it has a cooldown of 22 hours.

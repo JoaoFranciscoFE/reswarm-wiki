@@ -1,9 +1,11 @@
 ---
 title: "Panda Bear"
-tags: ["Removed Content", "NPC", "Bears", "Quest Giver"]
+tags: ["NPC", "Bears", "Quest Giver"]
 ---
 
 # Panda Bear
+
+![Panda Bear](img/Panda_Bear.png){ align=right width=150 }
 
 <table class="infobox" style="font-size:12px; color:white; width:300px; background:#a58b59;padding:0; border:none; color:#FFF;">
 <tbody><tr>

@@ -5,6 +5,8 @@ tags: ["Locations", "Fields", "Retro Swarm Challenge"]
 
 # Mixed Brick Field
 
+![Mixed Brick Field](img/Mixed_Brick_Field.png){ align=right width=150 }
+
 Mixed Brick Field
 
 FIELD COLOR

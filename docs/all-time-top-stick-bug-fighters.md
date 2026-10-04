@@ -5,6 +5,8 @@ tags: ["Locations", "Leaderboards", "Stick Bug Challenge", "Starter Zone"]
 
 # All-Time Top Stick Bug Fighters
 
+![All-Time Top Stick Bug Fighters](img/All-Time_Top_Stick_Bug_Fighters.png){ align=right width=150 }
+
 The **Global Top Stick Bug Fighters** is one of the 64 [leaderboards](leaderboards.md) in the game. It can display 10 leaderboard positions at a time
 If the player stands on the white pad in front of the leaderboard, "Your highscore: "..ScoreVariable.."" "ScoreVariable" being the score obtained from the [Stick Bug Challenge](stick-bug-challenge.md) This allows for players to view their current Highscore for the Stick Bug Challenge. This leaderboard tracks the top 100 scores from fighting [Stick Bug](stick-bug.md) in the Stick Bug Challenge. The player can scroll down the leaderboard to see more players, all the way to the 100th place.
 

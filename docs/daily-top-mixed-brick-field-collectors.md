@@ -1,9 +1,11 @@
 ---
 title: "Daily Top Mixed Brick Field Collectors"
-tags: ["Removed Content", "Leaderboards", "Retro Swarm Challenge"]
+tags: ["Leaderboards", "Retro Swarm Challenge"]
 ---
 
 # Daily Top Mixed Brick Field Collectors
+
+![Daily Top Mixed Brick Field Collectors](img/Daily_Top_Mixed_Brick_Field_Collectors.png){ align=right width=150 }
 
 This piece of content goes bye bye.
 

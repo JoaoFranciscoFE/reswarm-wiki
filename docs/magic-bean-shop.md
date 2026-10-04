@@ -5,6 +5,8 @@ tags: ["Locations", "Shops", "Machines"]
 
 # Magic Bean Shop
 
+![Magic Bean Shop](img/Magic_Bean_Shop.png){ align=right width=150 }
+
 <figure class="thumb" style="width: 180px" typeof="mw:File/Thumb">  <figcaption class="thumbcaption"> <p class="caption">The Magic Bean Shop.</p> </figcaption> </figure>
 
 The **Magic Bean Shop** is a [shop](shops.md) added in the 2018-11-25 update, located next to the [Stump Field](stump-field.md). It can be used to purchase [magic beans](magic-bean.md) with [tickets](ticket.md), in increments of 1 and 10, with each bean being 20 tickets.

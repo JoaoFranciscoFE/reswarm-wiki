@@ -1,9 +1,11 @@
 ---
 title: "Highest Robo Party Cake Rank"
-tags: ["Removed Content", "Beesmas", "Locations", "Leaderboards", "Robo Party"]
+tags: ["Beesmas", "Locations", "Leaderboards", "Robo Party"]
 ---
 
 # Highest Robo Party Cake Rank
+
+![Highest Robo Party Cake Rank](img/Highest_Robo_Party_Cake_Rank.png){ align=right width=150 }
 
 This piece of content goes bye bye.
 

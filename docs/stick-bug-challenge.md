@@ -5,6 +5,8 @@ tags: ["Challenges", "Stick Bug Challenge"]
 
 # Stick Bug Challenge
 
+![Stick Bug Challenge](img/Stick_Bug_Challenge.png){ align=right width=150 }
+
 The **Stick Bug Challenge** is a boss fight feature that lasts 10 minutes. It is primarily activated when a player talks to [Stick Bug](stick-bug.md) and starts the challenge but can also initiate when a player begins [Spirit Bear](spirit-bear.md)'s "Dancing With Stick Bug" [quest](quests.md), when Onett chooses to activate it globally, and during Beesmas when completing Stick Bug's Beesmas quest or giving him a present. Starting the challenge by yourself requires having given a [translator](translator.md) to Stick Bug, and either costs 50 [tickets](ticket.md) or can be started for free once every 36 hours/1.5 days. The option to pay 50 tickets will be unavailable if the challenge can be started for free. The challenge takes place across the entire server and can be participated in by anyone. Giving a [present](present.md) to Stick Bug or starting the Egg Hunt quest will also start the challenge (if a translator has been given to Stick Bug).
 
 <figure class="thumb" style="width: 200px" typeof="mw:File/Thumb">  <figcaption class="thumbcaption"> <p class="caption">This message that pops up when Onett is about to start the Stick Bug Challenge.</p> </figcaption> </figure>

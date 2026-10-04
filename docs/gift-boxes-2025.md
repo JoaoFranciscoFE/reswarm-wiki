@@ -1,6 +1,6 @@
 ---
 title: "Gift Boxes/2025"
-tags: ["Removed Content", "Beesmas", "Beesmas Decorations", "Locations"]
+tags: ["Beesmas", "Beesmas Decorations", "Locations"]
 ---
 
 # Gift Boxes/2025

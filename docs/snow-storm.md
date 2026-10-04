@@ -1,9 +1,11 @@
 ---
 title: "Snow Storm"
-tags: ["Removed Content", "Beesmas"]
+tags: ["Beesmas"]
 ---
 
 # Snow Storm
+
+![Snow Storm](img/Snow_Storm.png){ align=right width=150 }
 
 This piece of content goes bye bye.
 

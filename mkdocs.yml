@@ -1,12 +1,9 @@
 site_name: "Re://:Swarm Wiki"
-# site_url: https://SEU-USUARIO.github.io/NOME-DO-REPOSITORIO/
+site_url: https://reswarm.org/
 use_directory_urls: false
 theme:
   name: material
   language: en
-  font:
-    text: Rubik
-    code: Roboto Mono
   features: [search.suggest, search.highlight, navigation.top, navigation.instant, navigation.indexes, navigation.footer]
   palette:
     - scheme: slate
@@ -31,7 +28,8 @@ markdown_extensions:
       permalink: true
   - pymdownx.arithmatex:
       generic: true
-extra_css: [stylesheets/extra.css, stylesheets/fandom.css]
+extra_css: [stylesheets/wiki.css]
+hooks: [hooks/cache_bust.py]
 extra_javascript:
   - javascripts/mathjax.js
   - https://cdn.jsdelivr.net/npm/mathjax@3/es5/tex-mml-chtml.js
@@ -228,7 +226,6 @@ nav:
       - "Ant Pass": ant-pass.md
       - "Atomic Treat": atomic-treat.md
       - "Autumn Sunhat": autumn-sunhat.md
-      - "B.B.M. Mask": b-b-m-mask.md
       - "Backpack": backpack.md
       - "Bags": bags.md
       - "Balloon": balloon.md
@@ -339,7 +336,6 @@ nav:
       - "Marshmallow Bee": marshmallow-bee.md
       - "Mega-Jug": mega-jug.md
       - "Micro-Converter": micro-converter.md
-      - "Mondo B.B.M. Mask": mondo-b-b-m-mask.md
       - "Mondo Belt Bag": mondo-belt-bag.md
       - "Moon Charm": moon-charm.md
       - "Motivating Vial": motivating-vial.md
@@ -446,7 +442,6 @@ nav:
       - browse-accessories.md
       - "Amulet": amulet.md
       - "Ant Amulet": ant-amulet.md
-      - "B.B.M. Mask": b-b-m-mask.md
       - "Bags": bags.md
       - "Basic Boots": basic-boots.md
       - "Beekeeper's Boots": beekeeper-s-boots.md
@@ -480,7 +475,6 @@ nav:
       - "Honeycomb Belt": honeycomb-belt.md
       - "King Beetle Amulet": king-beetle-amulet.md
       - "Looker Guard": looker-guard.md
-      - "Mondo B.B.M. Mask": mondo-b-b-m-mask.md
       - "Mondo Belt Bag": mondo-belt-bag.md
       - "Moon Amulet": moon-amulet.md
       - "Parachute": parachute.md

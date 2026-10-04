@@ -5,6 +5,8 @@ tags: ["Events", "Update Logs", "Painter Bee Event", "Re://:Swarm"]
 
 # Painter Bee Event
 
+![Painter Bee Event](img/Painter_Bee_Event.png){ align=right width=150 }
+
 The **Painter Bee event** is a Re://:Swarm update built around the new [Painter Bee](painter-bee.md). During the event the game is titled *[PAINTER BEE] Re://:Swarm*.
 
 ## What's new

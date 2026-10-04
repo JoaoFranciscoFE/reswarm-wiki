@@ -1,9 +1,11 @@
 ---
 title: "Robo Party Cake"
-tags: ["Removed Content", "Beesmas", "Beesmas Decorations", "Locations", "Machines", "Robo Bear", "Robo Party", "Summoner"]
+tags: ["Beesmas", "Beesmas Decorations", "Locations", "Machines", "Robo Bear", "Robo Party", "Summoner"]
 ---
 
 # Robo Party Cake
+
+![Robo Party Cake](img/Robo_Party_Cake.png){ align=right width=150 }
 
 This piece of content goes bye bye.
 

@@ -1,6 +1,6 @@
 ---
 title: "Robo Bear"
-tags: ["Removed Content", "NPC", "Bears", "Quest Giver", "Robo Bear Challenge", "Robo Bear"]
+tags: ["NPC", "Bears", "Quest Giver", "Robo Bear Challenge", "Robo Bear"]
 ---
 
 # Robo Bear

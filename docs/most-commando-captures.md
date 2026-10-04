@@ -1,6 +1,6 @@
 ---
 title: "Most Commando Captures"
-tags: ["Removed Content", "Leaderboards", "Locations"]
+tags: ["Leaderboards", "Locations"]
 ---
 
 # Most Commando Captures

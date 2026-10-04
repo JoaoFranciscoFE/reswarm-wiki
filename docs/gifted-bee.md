@@ -5,6 +5,8 @@ tags: ["Mechanics", "Bees"]
 
 # Gifted Bee
 
+![Gifted Bee](img/Gifted_Bee.png){ align=right width=150 }
+
 <figure class="thumb" style="width: 250px" typeof="mw:File/Thumb">  <figcaption class="thumbcaption"> <p class="caption">A bee can be identified as gifted if there is a yellow hexagon around its <a href="hive-slot.html">hive slot</a>.</p> </figcaption> </figure>
 
 <figure class="thumb" style="width: 250px" typeof="mw:File/Thumb">  <figcaption class="thumbcaption"> <p class="caption">A bee becoming gifted when fed its favorite treat, star treat, gingerbread bear, or an aged gingerbread bear.</p> </figcaption> </figure>

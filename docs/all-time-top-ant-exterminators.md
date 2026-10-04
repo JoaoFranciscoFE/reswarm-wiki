@@ -5,6 +5,8 @@ tags: ["Locations", "Leaderboards", "Ant Challenge"]
 
 # All-Time Top Ant Exterminators
 
+![All-Time Top Ant Exterminators](img/All-Time_Top_Ant_Exterminators.png){ align=right width=150 }
+
 The **Global Top Ant Exterminators Leaderboard** is one of the 64 [leaderboards](leaderboards.md) in the game. This leaderboard shows the top [Ant Challenge](ant-challenge.md) scores of players. It shows 10 leaderboard positions at one time. However, the player can scroll down the leaderboard to see more scores of other players, all the way down to the 100th place.
 
 If the player steps on the white pad in front of it, the message "Your Highscore: X" will appear. (X = Your Highscore)

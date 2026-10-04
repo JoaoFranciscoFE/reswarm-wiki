@@ -5,6 +5,8 @@ tags: []
 
 # Bee Bear's Catalog/2025
 
+![Bee Bear's Catalog/2025](img/Bee_Bear's_Catalog/2025.png){ align=right width=150 }
+
 ## 2025
 
 ### Bundles

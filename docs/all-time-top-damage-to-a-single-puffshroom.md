@@ -5,6 +5,8 @@ tags: ["Leaderboards", "Locations"]
 
 # All-Time Top Damage to a Single Puffshroom
 
+![All-Time Top Damage to a Single Puffshroom](img/All-Time_Top_Damage_to_a_Single_Puffshroom.png){ align=right width=150 }
+
 The **Highest Damage to a Single Puffshroom** is one of 64 [leaderboards](leaderboards.md) in the game. This leaderboard shows the most amount of damage a player has done to a single [Puffshroom](puffshroom.md). Only 10 positions appear at a time, and you can scroll down to see the other 90.
 
 ## Location

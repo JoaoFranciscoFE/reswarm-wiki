@@ -5,6 +5,8 @@ tags: ["Locations", "Leaderboards"]
 
 # All-Time Top Riley Bee Helpers
 
+![All-Time Top Riley Bee Helpers](img/All-Time_Top_Riley_Bee_Helpers.png){ align=right width=150 }
+
 The **All-Time Top Riley Bee Helpers** is one of the 64 [leaderboards](leaderboards.md) in the game. It displays the top 100 people who've completed the most [quests](quests.md) from Gifted Riley Bee. It shows 10 leaderboard positions at one time. If the player stands on the white circle in front of it, they can see how many Gifted Riley Bee quests they've completed.
 
 ## Location

@@ -1,9 +1,11 @@
 ---
 title: "Festive Nymph"
-tags: ["Removed Content", "Mobs", "Beesmas", "Stick Bug Challenge"]
+tags: ["Mobs", "Beesmas", "Stick Bug Challenge"]
 ---
 
 # Festive Nymph
+
+![Festive Nymph](img/Festive_Nymph.png){ align=right width=150 }
 
 This piece of content goes bye bye.
 

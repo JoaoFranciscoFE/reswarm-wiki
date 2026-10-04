@@ -1,9 +1,11 @@
 ---
 title: "Party Cogturret"
-tags: ["Removed Content", "Mobs", "Robo Bear", "Robo Party", "Beesmas"]
+tags: ["Mobs", "Robo Bear", "Robo Party", "Beesmas"]
 ---
 
 # Party Cogturret
+
+![Party Cogturret](img/Party_Cogturret.png){ align=right width=150 }
 
 This piece of content goes bye bye.
 

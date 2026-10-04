@@ -1,9 +1,11 @@
 ---
 title: "Beesmas Lights"
-tags: ["Removed Content", "Beesmas", "Locations", "Beesmas Decorations"]
+tags: ["Beesmas", "Locations", "Beesmas Decorations"]
 ---
 
 # Beesmas Lights
+
+![Beesmas Lights](img/Beesmas_Lights.png){ align=right width=150 }
 
 This piece of content goes bye bye.
 

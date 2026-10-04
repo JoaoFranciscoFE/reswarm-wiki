@@ -1,9 +1,11 @@
 ---
 title: "Highest Snowbear Level"
-tags: ["Removed Content", "Locations", "Leaderboards", "Beesmas"]
+tags: ["Locations", "Leaderboards", "Beesmas"]
 ---
 
 # Highest Snowbear Level
+
+![Highest Snowbear Level](img/Highest_Snowbear_Level.png){ align=right width=150 }
 
 This piece of content goes bye bye.
 

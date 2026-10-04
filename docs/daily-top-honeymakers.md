@@ -5,6 +5,8 @@ tags: ["Locations", "Leaderboards", "Starter Zone"]
 
 # Daily Top Honeymakers
 
+![Daily Top Honeymakers](img/Daily_Top_Honeymakers.png){ align=right width=150 }
+
 The **Daily Top Honeymakers** is one of the 64 [leaderboards](leaderboards.md) in the game. This leaderboard shows how much [honey](honey.md) players have made each day. It shows 10 leaderboard positions at a time, with the scroll bar going all the way down to the 100th place. It resets every day at 12:00 AM, CST.
 
 If the player steps on the white pad in front of it, the message, "You've made *(x)* Honey today", will appear, with x being the number of honey you made since the last daily reset.

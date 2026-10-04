@@ -5,6 +5,8 @@ tags: ["Mechanics", "Fields"]
 
 # Field Boost
 
+![Field Boost](img/Field_Boost.png){ align=right width=150 }
+
 A **Field Boost** is a stacking [buff](buffs-debuffs.md) that provides a bonus to [pollen](pollen.md) gained, from all sources, from a specific field. Each stack of a field boost increases pollen gained from its field by 100% and has a limit of 400% or x4. Unlike [field winds](field-wind.md), which last for 30 minutes, field boosts last for 15 minutes, regardless of the source.
 
 Field boosts are obtained through the following methods:

@@ -5,6 +5,8 @@ tags: ["Leaderboards", "Locations"]
 
 # Leaderboards
 
+![Leaderboards](img/Leaderboards.png){ align=right width=150 }
+
 *This page is for the in-game leaderboards. For this wiki's Achievement Leaderboard, see the Achievement page.*
 
 **Leaderboards** are a feature within the game. Each leaderboard displays the ranks of the top 100 players, showing ten ranks at a time. Leaderboards are usually not in real-time but update very often. Upon standing on the white pad in front of a leaderboard, it will show a message stating the player's score for the corresponding leaderboard.

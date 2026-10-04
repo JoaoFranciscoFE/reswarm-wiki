@@ -1,6 +1,6 @@
 ---
 title: "Sun Bear"
-tags: ["Removed Content", "NPC", "Bears", "Traveling Bears", "Quest Giver", "Egg Hunt 2020", "Events"]
+tags: ["NPC", "Bears", "Traveling Bears", "Quest Giver", "Events"]
 ---
 
 # Sun Bear

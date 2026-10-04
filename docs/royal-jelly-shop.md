@@ -5,6 +5,8 @@ tags: ["Shops", "Locations", "Machines"]
 
 # Royal Jelly Shop
 
+![Royal Jelly Shop](img/Royal_Jelly_Shop.png){ align=right width=150 }
+
 <figure class="mw-halign-right" typeof="mw:Error mw:File"><figcaption>The Royal Jelly Shop.</figcaption></figure>
 
 *Not to be confused with the [Royal Jelly Dispenser](royal-jelly-dispenser.md).*

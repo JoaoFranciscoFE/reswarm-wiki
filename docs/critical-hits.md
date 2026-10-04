@@ -1,9 +1,11 @@
 ---
 title: "Critical Hits"
-tags: ["Recent Update", "Mechanics"]
+tags: ["Mechanics"]
 ---
 
 # Critical Hits
+
+![Critical Hits](img/Critical_Hits.png){ align=right width=150 }
 
 This piece of content recently got an update.
 

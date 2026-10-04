@@ -1,9 +1,11 @@
 ---
 title: "Bee Bear/2025"
-tags: ["Removed Content"]
+tags: []
 ---
 
 # Bee Bear/2025
+
+![Bee Bear/2025](img/Bee_Bear/2025.png){ align=right width=150 }
 
 This piece of content goes bye bye.
 

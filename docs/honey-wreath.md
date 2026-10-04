@@ -1,9 +1,11 @@
 ---
 title: "Honey Wreath"
-tags: ["Removed Content", "Machines", "Beesmas", "Locations", "Beesmas Decorations", "Summoner", "Starter Zone"]
+tags: ["Machines", "Beesmas", "Locations", "Beesmas Decorations", "Summoner", "Starter Zone"]
 ---
 
 # Honey Wreath
+
+![Honey Wreath](img/Honey_Wreath.png){ align=right width=150 }
 
 This piece of content goes bye bye.
 

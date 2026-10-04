@@ -5,6 +5,8 @@ tags: ["Gameplay", "Mechanics", "Re://:Swarm"]
 
 # Badges
 
+![Badges](img/Badges.png){ align=right width=150 }
+
 <figure class="thumb" style="width: 180px" typeof="mw:File/Thumb">  <figcaption class="thumbcaption"> <p class="caption">The badge icon.</p> </figcaption> </figure>
 
 **Badges** are part of the achievement system of [Re://:Swarm](re-swarm.md). There are currently 155 badges in Re://:Swarm (including inactive badges). 30 of the badges are currently unobtainable.
@@ -17,7 +19,7 @@ Certain badges also unlock the chance to obtain special one-time badge rewards f
 
 To get more [Coconuts](coconut.md) from the [Coconut Dispenser](coconut-dispenser.md), the player must get better Coconut Badges, and to get more [Glue](glue.md) from the [Glue Dispenser](glue-dispenser.md), better Goo Badges are needed.
 
-Event badges are the only badges that don't give any tickets, permanent buffs, or even show up in the badge menu, but the Beesmas badges allow the player to get two different masks with some buffs (the [B.B.M. Mask](b-b-m-mask.md) and the [Mondo B.B.M. Mask](mondo-b-b-m-mask.md)), and the Egg Hunt 2019, Egg Hunt 2020, and the Ready Player Two badges each gave an item for the player's Roblox avatar. The only exception to this were the fifteen badges from The Classic, the eight badges from The Games, and the 2 badges from the Winter Spotlight. which didn't give any avatar items, but counted as currency in the event hubs.
+Event badges are the only badges that don't give any tickets, permanent buffs, or even show up in the badge menu, and the Egg Hunt 2019, Egg Hunt 2020, and the Ready Player Two badges each gave an item for the player's Roblox avatar. The only exception to this were the fifteen badges from The Classic, the eight badges from The Games, and the 2 badges from the Winter Spotlight. which didn't give any avatar items, but counted as currency in the event hubs.
 
 Upon claiming any non-event badge, it will be announced in the server publicly, and a cheerful audio will play in the background, saying:
 
@@ -1458,7 +1460,6 @@ There are currently no obtainable event badges.
 <td>Complete either of <a href="bubble-bee-man.html">Bubble Bee Man's</a> 2018 quests.
 </td>
 <td>
-<ul><li><a href="b-b-m-mask.html">B.B.M. Mask</a> (Or <a href="mondo-b-b-m-mask.html">Mondo B.B.M. Mask</a> if the player completed B.B.M. Mission)</li></ul>
 </td></tr>
 <tr>
 <td><figure class="mw-halign-center" typeof="mw:Error mw:File"><figcaption></figcaption></figure> Egg Hunt 2019

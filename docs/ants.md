@@ -5,6 +5,8 @@ tags: ["Mobs", "Ant Challenge"]
 
 # Ants
 
+![Ants](img/Ants.png){ align=right width=150 }
+
 <figure class="thumb" style="width: 224px" typeof="mw:File/Thumb">  <figcaption class="thumbcaption"> <p class="caption">A statue of an Army Ant on the Ant Gate.</p> </figcaption> </figure>
 
 **Ants** are [mobs](mobs.md) exclusively found in the [Ant Field](ant-field.md) during the [Ant Challenge](ant-challenge.md), past the [Ant Gate](ant-gate.md). In the Ant Challenge, the player fights waves of ants before the timer runs out. The level and health of the ants gradually increase as the player completes more rounds in the Ant Challenge.

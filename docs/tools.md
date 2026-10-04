@@ -5,6 +5,8 @@ tags: ["Tools", "Items", "Gameplay"]
 
 # Tools
 
+![Tools](img/Tools.png){ align=right width=150 }
+
 **Tools** are items that can gather [pollen](pollen.md). Some tools have special abilities that help assist in gathering pollen, while some collect better from certain colored [flowers](flowers.md), which include white, red, and blue. All tools can be boosted through the [Tool Pollen](system-page.md#Tool_Pollen) stat. The newest tool in the game was the [Sticker-Seeker](sticker-seeker.md). There are currently twenty tools in the game.
 
 Every player starts out with the [Scooper](scooper.md). Better tools can be bought from different [shops](shops.md). The [Noob Shop](noob-shop.md) sells the cheapest tools, ranging from 0 - 14 thousand [honey](honey.md). The [Pro Shop](pro-shop.md) follows with tools ranging from 40 thousand - 1.5 million honey, while the [Red HQ](red-hq.md) and [Blue HQ](blue-hq.md) both have 2 tools each that can range from 3.5 million honey - 2.5 trillion honey. The [Mountain Top Shop](mountain-top-shop.md) has the fourth most expensive tools, with prices that range from 20 million - 150 million honey. The [Petal Shop](petal-shop.md) has the third most expensive tool at 1.5 billion honey. Currently, the most expensive tool in the game is the [Gummyballer](gummyballer.md), which can be bought for 10 trillion honey and other various crafting materials in the [Gummy Bear's Lair](gummy-bear-s-lair.md). Unlike any other tool, the Gummyballer can directly take [goo](goo.md) off a field.

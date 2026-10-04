@@ -5,6 +5,8 @@ tags: ["Mechanics"]
 
 # Field Capacity
 
+![Field Capacity](img/Field_Capacity.png){ align=right width=150 }
+
 <figure class="thumb" style="width: 180px" typeof="mw:File/Thumb">  <figcaption class="thumbcaption"> <p class="caption">The Pepper Patch Capacity Buff Icon.</p> </figcaption> </figure>
 
 **Field Capacity** is a [mechanic](mechanics.md) that increases the player's [Capacity Multiplier](capacity.md) depending on what kind of [field](fields.md) they are in. There are 2 types of field capacity: colored field capacity (shown as a stat) and field capacity for a specific field (shown as a buff).

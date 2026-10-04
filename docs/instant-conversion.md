@@ -5,6 +5,8 @@ tags: ["Mechanics"]
 
 # Instant Conversion
 
+![Instant Conversion](img/Instant_Conversion.png){ align=right width=150 }
+
 **Instant Conversion** is a [mechanic](mechanics.md) that instantly converts some of the player's collected [pollen](pollen.md) into [honey](honey.md). The amount of converted pollen depends on how much instant conversion (%) the player has, with support from the respective type of instant conversion (white, red, and blue instant conversion, etc.). This effectively makes the player's [bag](bags.md) bigger, in the sense that the player can collect more pollen than the bag would normally hold. The player's [Honey Per Pollen](honey-per-pollen.md) stat boosts the amount of honey received from instant conversion. There are also color variants for each [flower](flowers.md) color (blue, red, white) that only instantly convert pollen of their respective colors.
 
 ## Instant Conversion Variants

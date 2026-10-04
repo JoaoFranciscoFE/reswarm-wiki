@@ -1,9 +1,11 @@
 ---
 title: "Stick Bug"
-tags: ["Removed Content", "Mobs", "Bosses", "Multiplayer Bosses", "NPC", "Quest Giver", "Stick Bug Challenge", "Requires Translator", "Starter Zone"]
+tags: ["Mobs", "Bosses", "Multiplayer Bosses", "NPC", "Quest Giver", "Stick Bug Challenge", "Requires Translator", "Starter Zone"]
 ---
 
 # Stick Bug
+
+![Stick Bug](img/Stick_Bug.png){ align=right width=150 }
 
 <aside class="portable-infobox pi-background pi-border-color pi-theme-wikia pi-layout-stacked" role="region">
 <h2 class="pi-item pi-item-spacing pi-title pi-secondary-background" data-source="title">Stick Bug</h2>

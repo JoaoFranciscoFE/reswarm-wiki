@@ -1,9 +1,11 @@
 ---
 title: "Snow Machine"
-tags: ["Removed Content", "Locations", "Machines", "Beesmas", "Summoner", "Beesmas Decorations", "Starter Zone"]
+tags: ["Locations", "Machines", "Beesmas", "Summoner", "Beesmas Decorations", "Starter Zone"]
 ---
 
 # Snow Machine
+
+![Snow Machine](img/Snow_Machine.png){ align=right width=150 }
 
 This piece of content goes bye bye.
 

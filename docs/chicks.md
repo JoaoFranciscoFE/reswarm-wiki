@@ -1,9 +1,11 @@
 ---
 title: "Chicks"
-tags: ["Removed Content", "Mobs", "Egg Hunt 2020", "Bosses", "Mini Bosses", "Multiplayer Bosses", "Passive Mobs"]
+tags: ["Mobs", "Bosses", "Mini Bosses", "Multiplayer Bosses", "Passive Mobs"]
 ---
 
 # Chicks
+
+![Chicks](img/Chicks.png){ align=right width=150 }
 
 <figure class="thumb" style="width: 180px" typeof="mw:File/Thumb">  <figcaption class="thumbcaption"> <p class="caption">A Level 4 Chick, which is now removed.</p> </figcaption> </figure>
 

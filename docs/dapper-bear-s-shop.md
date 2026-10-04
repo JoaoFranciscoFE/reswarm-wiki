@@ -5,6 +5,8 @@ tags: ["Shops", "Locations"]
 
 # Dapper Bear's Shop
 
+![Dapper Bear's Shop](img/Dapper_Bear's_Shop.png){ align=right width=150 }
+
 <aside class="portable-infobox pi-background pi-border-color pi-theme-wikia pi-layout-default" role="region">
 <h2 class="pi-item pi-item-spacing pi-title pi-secondary-background" data-source="title1">Dapper Bear's Shop</h2>
 <div class="pi-item pi-data pi-item-spacing pi-border-color" data-source="row1">
@@ -15,7 +17,7 @@ tags: ["Shops", "Locations"]
 
 **Dapper Bear's Shop** is a shop located behind the Brave Bee Gate. Located on a hilltop, the player is able to access the shop by jumping between ledges to climb the hill. The shop sells reusable [Planters](planter.md) and 6 beequips, with the 3rd, 4th, 5th, and 6th beequips requiring you to complete a certain number of [Dapper Bear](dapper-bear.md)'s quests in order to unlock them. You also have to pay honey and tickets for each beequip with the amounts scaling from the quality of the beequip. This is also where [Dapper Bear](dapper-bear.md) is located.
 
-To enter Dapper Bear's Shop, the player must be equipped with the [Propeller Hat](propeller-hat.md) and the [Hiking Boots](hiking-boots.md), or any hat and boots of higher quality. If the player approaches wearing gear of a lower tier (such as the [Helmet](helmet.md), Strange Goggles, [B.B.M. Mask](b-b-m-mask.md), [Mondo B.B.M. Mask](mondo-b-b-m-mask.md), or [Basic Boots](basic-boots.md)), a red barrier will block entry and display the message:
+To enter Dapper Bear's Shop, the player must be equipped with the [Propeller Hat](propeller-hat.md) and the [Hiking Boots](hiking-boots.md), or any hat and boots of higher quality. If the player approaches wearing gear of a lower tier (such as the [Helmet](helmet.md), Strange Goggles, or [Basic Boots](basic-boots.md)), a red barrier will block entry and display the message:
 You Must Wear a Nice Hat and Cool Boots to enter Dapper Bear's Shop.
 
 The shop has a tan interior with a blue floor and ceiling, as well as two windows in the front. Above the entrance is an image of a Beequip Case. On the left side of the interior, there is the Beequip shop and the Highest Damage to a Single Puffshroom leaderboard. On the right side of the shop is the Planter shop. The roof of the shop has a [Royal Jelly](royal-jelly.md) token, 25 [Honeysuckles](honeysuckle.md), 3 [Smooth Dice](smooth-dice.md) and a [Bloom Shaker](bloom-shaker.md).
