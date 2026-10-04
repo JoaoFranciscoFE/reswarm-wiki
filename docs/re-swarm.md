@@ -5,9 +5,9 @@ tags: ["Pages with broken file links", "Community", "Re://:Swarm"]
 
 # Re://:Swarm
 
-<figure class="thumb" style="width: 180px" typeof="mw:File/Thumb">  <figcaption class="thumbcaption"> <p class="caption">The most used icon for Re://:Swarm.</p> </figcaption> </figure>
+<figure class="thumb" style="width: 180px" typeof="mw:File/Thumb"> <img alt="Re://:Swarm game icon" src="images/game-icon.png" width="180"/> <figcaption class="thumbcaption"> <p class="caption">The most used icon for Re://:Swarm.</p> </figcaption> </figure>
 
-<figure class="thumb" style="width: 180px" typeof="mw:File/Thumb">  <figcaption class="thumbcaption"> <p class="caption">Re://:Swarm's logo.</p> </figcaption> </figure>
+<figure class="thumb" style="width: 180px" typeof="mw:File/Thumb"> <img alt="Re://:Swarm game thumbnail" src="images/game-banner.png" width="180"/> <figcaption class="thumbcaption"> <p class="caption">Re://:Swarm's logo.</p> </figcaption> </figure>
 
 **[Bee Swarm Simulator](https://www.roblox.com/games/1537690962/)** is an online multiplayer game made in **[Roblox](https://roblox.fandom.com/wiki/Roblox)** by **[Onett](onett-developer.md)**. The purpose of the game is to hatch [bees](bees.md) to make a swarm, collect [pollen](pollen.md), and make it into [honey](honey.md). The game was in development for about three months[1][2] until it was created on March 21, 2018, and was released to the public on March 23, 2018.
 
