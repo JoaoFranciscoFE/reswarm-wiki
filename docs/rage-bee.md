@@ -408,7 +408,7 @@ Rage Bee likes the [Spider Field](spider-field.md) and [Rose Field](rose-field.m
   * This bee is also the only non-[Event bee](bees-event.md) to do so.
 * Rage Bee and [Spicy Bee](spicy-bee.md) are the only bees that can produce rage tokens.
 * Rage Bee has three different skin colors, similar to [Baby Bee](baby-bee.md). When gifted, it only has two different skin colors, while gifted Baby Bee maintains this trait.
-* A [Special Jelly](royal-jelly.md#Specific_Bee_Jelly) that changes a bee into a Rage Bee could be obtained by giving [Panda Bear](panda-bear.md) a [Present](present.md) during the [Beesmas 2018 event](updates.md#2018-12-19) (no longer obtainable).
+* A [Special Jelly](royal-jelly.md#Specific_Bee_Jelly) that changes a bee into a Rage Bee could be obtained by giving [Panda Bear](panda-bear.md) a [Present](present.md) during the Beesmas 2018 event (no longer obtainable).
 * The [Rage Aphid](aphid.md#Rage_Aphid) and gifted Spicy Bee has a similar color scheme to Rage Bee's gifted form.
 * This is one of the only bees that can have an extra ability from [Beequips](beequip.md) (specifically [Melody](ability-tokens.md#Melody) from the [Toy Horn](toy-horn.md) Beequip).
 * The ability could previously stack up to only 3 times.

@@ -9,7 +9,7 @@ This piece of content goes bye bye.
 
 The following content has been removed from the game. The contents below may be archival, but feel free to edit below.
 
-*Not to be confused with [Presents](present.md) and [Ornament Presents](ornament-presents.md).*
+*Not to be confused with [Presents](present.md) and Ornament Presents.*
 
 **Gift Boxes** are presents that appear during each Beesmas update, which are located around the map. To open them, the player needs to help a certain number of NPCs complete their Beesmas decorations by completing their [quests](quests.md). There are 13 gift boxes this year.
 
@@ -249,26 +249,6 @@ One from the following pool:
 </td>
 <td>TBA
 </td></tr></tbody></table>
-
-### 2024 (Winter)
-
-Gift Boxes/2024 (Winter)
-
-### 2024 (Summer)
-
-Gift Boxes/2024 (Summer)
-
-### 2022
-
-Gift Boxes/2022
-
-### 2021
-
-Gift Boxes/2021
-
-### 2020
-
-Gift Boxes/2020
 
 ## Trivia
 

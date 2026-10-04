@@ -67,23 +67,6 @@ Moon charm tokens last for 10 seconds before disappearing.
   * Space Oblivion Gives 250 moon charms.
   * Echoing Call gives 250 moon charms.
 
-### Outdated Ways
-
-<table class="mw-collapsible mw-collapsed article-table">
-<caption>
-</caption>
-<tbody><tr>
-<td>
-<ul><li>Redeeming Certain Codes:
-<ul><li>FourYearFiesta (Gives 4 moon charms + other stuff).</li>
-<li>10mMembers (Gave 10 moon charms + other stuff).</li>
-<li>1MLikes (Gives 1 moon charm + other stuff).</li></ul></li>
-<li>A Moon Charm token located in the Beesmas Tree gave 5 Moon Charms.</li>
-<li>Purchasing the Night Bundle from <a href="bee-bear-s-catalog.html">Bee Bear's Catalog</a> granted 25 moon charms.</li>
-<li>By opening certain Gift Boxes:
-<ul><li>The Midnight Gift Box gave 20 moon charms during Beesmas 2021.</li></ul></li></ul>
-</td></tr></tbody></table>
-
 ## Crafting Uses
 
 Total required for all single-purchase items: 114 **Moon Charms**
@@ -243,7 +226,7 @@ Total required for all single-purchase items: 114 **Moon Charms**
 </th>
 <th class="NavCategory">Quest Exclusive
 </th>
-<td class="NavLinks NavLinksBasicEven"><b><img alt="Translator" height="35" src="img/Translator.png" width="35"/> <a href="translator.html">Translator</a> • <img alt="Spirit Petal" height="35" src="img/Spirit_Petal.png" width="35"/> <a href="spirit-petal.html">Spirit Petal</a> • <img alt="Debug Wax" height="35" src="img/Debug_Wax.png" width="35"/> <a href="debug-wax.html">Debug Wax</a> • <img alt="Nectar Tester" height="35" src="img/Nectar_Tester.png" width="35"/> <a href="nectar-tester.html">Nectar Tester</a></b> • <span typeof="mw:Error mw:File"></span> <a href="bbm-s-apology.html">BBM's Apology</a><b></b>
+<td class="NavLinks NavLinksBasicEven"><b><img alt="Translator" height="35" src="img/Translator.png" width="35"/> <a href="translator.html">Translator</a> • <img alt="Spirit Petal" height="35" src="img/Spirit_Petal.png" width="35"/> <a href="spirit-petal.html">Spirit Petal</a> • <img alt="Debug Wax" height="35" src="img/Debug_Wax.png" width="35"/> <a href="debug-wax.html">Debug Wax</a> • <img alt="Nectar Tester" height="35" src="img/Nectar_Tester.png" width="35"/> <a href="nectar-tester.html">Nectar Tester</a></b> • <span typeof="mw:Error mw:File"></span> <b></b>
 </td></tr>
 <tr>
 <th class="NavCategory">Beesmas

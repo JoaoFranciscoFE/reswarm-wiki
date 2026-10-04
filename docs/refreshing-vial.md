@@ -19,7 +19,7 @@ CAP
 
 10
 
-The **Refreshing Vial** is a consumable [nectar vial](nectar-vial.md) [item](items.md) that was added in the [2022-12-26 update](updates.md#2022-12-26). Once used, it grants the player 4 hours of the [Refreshing Nectar](nectar.md) [buff](buffs-debuffs.md) instantly. It can also be used to craft other accessories.
+The **Refreshing Vial** is a consumable [nectar vial](nectar-vial.md) [item](items.md) that was added in the 2022-12-26 update. Once used, it grants the player 4 hours of the [Refreshing Nectar](nectar.md) [buff](buffs-debuffs.md) instantly. It can also be used to craft other accessories.
 
 ## Ways to Obtain
 
@@ -27,22 +27,6 @@ The **Refreshing Vial** is a consumable [nectar vial](nectar-vial.md) [item](ite
 * Using the [Nectar Condenser](nectar-condenser.md) to condense 12 hours of Refreshing Nectar.
 * Adding the Refreshing Nectar Icon to the [Sticker Stack](sticker-stack.md) rewards 1 **Refreshing Vial**.
 * Completing Dapper Bear's Beesmas quest rewards 1 **Refreshing Vial** and other items.
-
-### Outdated Ways
-
-<table class="mw-collapsible mw-collapsed article-table">
-<caption>
-</caption>
-<tbody><tr>
-<td>
-<ul><li>From purchasing certain bundles from <a href="bee-bear-s-catalog.html">Bee Bear's Catalog</a>.
-<ul><li>Purchasing the Tropical Bundle from Summer 2024 for <img alt="Snowflake" height="25" src="img/Snowflake.png" width="25"/>2,500 <a href="snowflake.html"><span class="color-template color-template-snowflake color-template-background-clip">Snowflakes</span></a> and <img alt="Gingerbread Bear" height="25" src="img/Gingerbread_Bear.png" width="25"/>100 <a href="gingerbread-bear.html"><span class="color-template color-template-gingerbread-bear color-template-background-clip">Gingerbread Bears</span></a> granted <img alt="Refreshing Vial" height="25" src="img/Refreshing_Vial.png" width="25"/>1 <strong class="mw-selflink selflink"><span class="color-template color-template-refreshing-vial color-template-background-clip">Refreshing Vial</span></strong> and other items.</li>
-<li>Purchasing the Refreshing Bundle from Beesmas 2022 for <img alt="Snowflake" height="25" src="img/Snowflake.png" width="25"/>50 <a href="snowflake.html"><span class="color-template color-template-snowflake color-template-background-clip">Snowflakes</span></a> and <img alt="Gingerbread Bear" height="25" src="img/Gingerbread_Bear.png" width="25"/>5 <a href="gingerbread-bear.html"><span class="color-template color-template-gingerbread-bear color-template-background-clip">Gingerbread Bears</span></a> granted <img alt="Refreshing Vial" height="25" src="img/Refreshing_Vial.png" width="25"/>1 <strong class="mw-selflink selflink"><span class="color-template color-template-refreshing-vial color-template-background-clip">Refreshing Vial</span></strong> and other items.</li>
-<li>Purchasing the Hefty Honeyday Bundle from Beesmas 2022 for <img alt="Snowflake" height="25" src="img/Snowflake.png" width="25"/>25,000 <a href="snowflake.html"><span class="color-template color-template-snowflake color-template-background-clip">Snowflakes</span></a> and <img alt="Gingerbread Bear" height="25" src="img/Gingerbread_Bear.png" width="25"/>50 <a href="gingerbread-bear.html"><span class="color-template color-template-gingerbread-bear color-template-background-clip">Gingerbread Bears</span></a> granted <img alt="Refreshing Vial" height="25" src="img/Refreshing_Vial.png" width="25"/>5 <strong class="mw-selflink selflink"><span class="color-template color-template-refreshing-vial color-template-background-clip">Refreshing Vials</span></strong> and other items.</li></ul></li>
-<li>Purchasing the Nighttime Nectar Pack in the <a href="robux-shop.html">Robux Shop</a> for <span typeof="mw:Error mw:File"></span>400 <span class="color-template color-template-robux color-template-background-clip">Robux</span> granted <img alt="Refreshing Vial" height="25" src="img/Refreshing_Vial.png" width="25"/>1 <strong class="mw-selflink selflink"><span class="color-template color-template-refreshing-vial color-template-background-clip">Refreshing Vial</span></strong> and other items.</li>
-<li>Opening the <a href="gift-boxes.html#2022">Tropical Gift Box</a> granted <img alt="Refreshing Vial" height="25" src="img/Refreshing_Vial.png" width="25"/>1 <strong class="mw-selflink selflink"><span class="color-template color-template-refreshing-vial color-template-background-clip">Refreshing Vial</span></strong> and other items.</li>
-<li>Completing <a href="onett.html#Beesmas_Event_2022_-_Yard_Art_on_The_Lid">Onett's Beesmas 2022 Quest</a> rewarded <img alt="Refreshing Vial" height="25" src="img/Refreshing_Vial.png" width="25"/>1 <strong class="mw-selflink selflink"><span class="color-template color-template-refreshing-vial color-template-background-clip">Refreshing Vial</span></strong> and other items.</li></ul>
-</td></tr></tbody></table>
 
 ## Crafting Uses
 
@@ -160,7 +144,7 @@ Total required for all single-purchase items: 6 **Refreshing Vials**
 </th>
 <th class="NavCategory">Quest Exclusive
 </th>
-<td class="NavLinks NavLinksBasicEven"><b><img alt="Translator" height="35" src="img/Translator.png" width="35"/> <a href="translator.html">Translator</a> • <img alt="Spirit Petal" height="35" src="img/Spirit_Petal.png" width="35"/> <a href="spirit-petal.html">Spirit Petal</a> • <img alt="Debug Wax" height="35" src="img/Debug_Wax.png" width="35"/> <a href="debug-wax.html">Debug Wax</a> • <img alt="Nectar Tester" height="35" src="img/Nectar_Tester.png" width="35"/> <a href="nectar-tester.html">Nectar Tester</a></b> • <span typeof="mw:Error mw:File"></span> <a href="bbm-s-apology.html">BBM's Apology</a><b></b>
+<td class="NavLinks NavLinksBasicEven"><b><img alt="Translator" height="35" src="img/Translator.png" width="35"/> <a href="translator.html">Translator</a> • <img alt="Spirit Petal" height="35" src="img/Spirit_Petal.png" width="35"/> <a href="spirit-petal.html">Spirit Petal</a> • <img alt="Debug Wax" height="35" src="img/Debug_Wax.png" width="35"/> <a href="debug-wax.html">Debug Wax</a> • <img alt="Nectar Tester" height="35" src="img/Nectar_Tester.png" width="35"/> <a href="nectar-tester.html">Nectar Tester</a></b> • <span typeof="mw:Error mw:File"></span> <b></b>
 </td></tr>
 <tr>
 <th class="NavCategory">Beesmas

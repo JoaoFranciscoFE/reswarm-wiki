@@ -15,7 +15,7 @@ Due to the nature of the information, details may be inaccurate or outdated.
 
 Datamined information: The probability of getting every item. — December 19th, 2024
 
-The **Stockings** are a Beesmas-exclusive machine that could be unlocked after completing [Brown Bear](brown-bear.md)'s Beesmas quest. Introduced during [Beesmas 2020](updates.md#2020-12-25), they have returned every Beesmas since.
+The **Stockings** are a Beesmas-exclusive machine that could be unlocked after completing [Brown Bear](brown-bear.md)'s Beesmas quest. Introduced during Beesmas 2020, they have returned every Beesmas since.
 
 The Stockings are located at the bottom of the hill where Brown Bear stands, next to the [Clover Field](clover-field.md). When used, they will spawn one random [Beequip](beequip.md) and two additional random items in front of them. The cooldown for use is 1 hour.
 

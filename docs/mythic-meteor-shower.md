@@ -7,9 +7,9 @@ tags: ["Locations", "Machines", "Summoner"]
 
 <figure class="thumb" style="width: 180px" typeof="mw:File/Thumb">  <figcaption class="thumbcaption"> <p class="caption">The Mythic Meteor Shower summoner.</p> </figcaption> </figure>
 
-A **Mythic Meteor Shower** is a server-wide event that was added in the [2020-06-06 update](updates.md#2020-06-06). Its original location was on top of the [Pro Shop](pro-shop.md) but has since been changed to be on [Badge Bearer's Guild](badge-bearer-s-guild.md) in the [2024-01-12 update](updates.md#2024-01-12). Any player who has discovered at least 3 [Mythic Bee](bees-mythic.md) types can summon it and it has a cooldown of 22 hours.
+A **Mythic Meteor Shower** is a server-wide event that was added in the 2020-06-06 update. Its original location was on top of the [Pro Shop](pro-shop.md) but has since been changed to be on [Badge Bearer's Guild](badge-bearer-s-guild.md) in the 2024-01-12 update. Any player who has discovered at least 3 [Mythic Bee](bees-mythic.md) types can summon it and it has a cooldown of 22 hours.
 
-When summoned by a player, the distorted voice of [IcedTeaLatte](bss-staff.md#IcedTeaLatte) says "Mythic Meteors", and a server-wide announcement will state:
+When summoned by a player, the distorted voice of IcedTeaLatte says "Mythic Meteors", and a server-wide announcement will state:
   
 
 {Username} has summoned a Mythic Meteor Shower!
@@ -19,7 +19,7 @@ Rarely, Onett himself will summon a global meteor shower. Most of the time, he w
 
 A Mythic Meteor Shower has been summoned!
 
-Sometimes, usually before Beesmas ends, [Onett](onett-developer.md) will summon Mythic Meteor Showers under an alias.
+Sometimes, usually before Beesmas ends, Onett will summon Mythic Meteor Showers under an alias.
 
 A light purple fog will appear, and meteors will start raining down on 3 random [fields](fields.md), those of which will show white boxes falling from the sky onto them (similar to the [pollen haze](ability-tokens.md#Pollen_Haze) box). These boxes will appear vibrant from a distance but will dim when the player enters the field, and they indicate that meteors are falling onto those fields. The prizes scale with size, for the smaller the meteor, the higher the chance to get more valuable rewards. If the Meteor Shower was activated by a player, the meteors will collect and instantly convert pollen for them, and the amounts collected are based on the number of Mythic and [Gifted](gifted-bee.md) Mythic bees in their hive. If a player catches a meteor from a player-summoned mythic meteor shower, it will collect two times as much pollen from the field and give it to the player who summoned it. The event lasts for 3 minutes, and the chosen fields will swap a total of 3 times during that time period with the swap occurring approximately once every minute.
 
@@ -68,8 +68,6 @@ When a player stands on the drop zone of a meteor (which is indicated by a purpl
 The following audios play when a meteor shower is summoned:
 
 ## Gallery
-
-
 
 Onett is able to manipulate the function of the Mythic Meteor Shower event to activate it globally, sometimes under unique names.
 
@@ -127,5 +125,5 @@ Onett is able to manipulate the function of the Mythic Meteor Shower event to ac
 <tr>
 <th class="NavCategory">Event<br/>Locations
 </th>
-<td class="NavLinks NavLinksBasicEven"><b><a href="beesmas-tree.html">Beesmas Tree</a> • <a href="ornament-presents.html">Ornament Presents</a> • <span class="new" data-uncrawlable-url="L3dpa2kvQ29tcHV0ZXI/YWN0aW9uPWVkaXQmcmVkbGluaz0x" title="Computer (page does not exist)">Computer</span> • <a href="gift-boxes.html">Gift Boxes</a> • <a href="honey-wreath.html">Honey Wreath</a> • <a href="stockings.html">Stockings</a> • <a href="gingerbread-house.html">Gingerbread House</a> • <a href="snowbear-summoner.html">Snowbear Summoner</a> • <a href="beesmas-lights.html">Beesmas Lights</a> • <a href="samovar.html">Samovar</a> • <a href="beesmas-feast.html">Beesmas Feast</a> • <a href="onett-s-lid-art.html">Onett's Lid Art</a> • <a href="wind-shrine.html#Galentine_Shrine">Galentine Shrine</a> • <a href="memory-match.html#Winter_Memory_Match">Winter Memory Match</a> • <a href="snow-machine.html">Snow Machine</a> • <a href="honeyday-candles.html">Honeyday Candles</a> • <a href="robo-party-cake.html">Robo Party Cake</a> • <a href="gummy-beacon.html">Gummy Beacon</a> • <a href="naughty-list.html">Naughty List</a></b>
+<td class="NavLinks NavLinksBasicEven"><b><a href="beesmas-tree.html">Beesmas Tree</a> • <span class="new" data-uncrawlable-url="L3dpa2kvQ29tcHV0ZXI/YWN0aW9uPWVkaXQmcmVkbGluaz0x" title="Computer (page does not exist)">Computer</span> • <a href="gift-boxes.html">Gift Boxes</a> • <a href="honey-wreath.html">Honey Wreath</a> • <a href="stockings.html">Stockings</a> • <a href="gingerbread-house.html">Gingerbread House</a> • <a href="snowbear-summoner.html">Snowbear Summoner</a> • <a href="beesmas-lights.html">Beesmas Lights</a> • <a href="samovar.html">Samovar</a> • <a href="beesmas-feast.html">Beesmas Feast</a> • <a href="onett-s-lid-art.html">Onett's Lid Art</a> • <a href="wind-shrine.html#Galentine_Shrine">Galentine Shrine</a> • <a href="memory-match.html#Winter_Memory_Match">Winter Memory Match</a> • <a href="snow-machine.html">Snow Machine</a> • <a href="honeyday-candles.html">Honeyday Candles</a> • <a href="robo-party-cake.html">Robo Party Cake</a> • <a href="gummy-beacon.html">Gummy Beacon</a> • <a href="naughty-list.html">Naughty List</a></b>
 </td></tr></tbody></table>

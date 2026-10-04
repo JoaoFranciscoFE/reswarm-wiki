@@ -314,7 +314,7 @@ Photon Bee likes the [Pineapple Patch](pineapple-patch.md) and the [Pumpkin Patc
 * This bee, Bear Bee, Festive Bee, Gummy Bee, [Tadpole Bee](tadpole-bee.md) and [Tabby Bee](tabby-bee.md) are the only bees to have a [Gifted Bonus](gifted-bee.md#List_of_Hive_Bonuses) that affects their signature ability.
   * If Photon Bee is gifted, its Beamstorm is white instead of yellow and instantly converts its collected pollen.
 * The sun model on Photon Bee's rear has 20 spikes.
-* Because Photon Bee has infinite energy, there is a [glitch](glitches.md) if a [Royal jelly](royal-jelly.md) is used on a Photon Bee, the transformed bee will have a ridiculous amount of energy.
+* Because Photon Bee has infinite energy, there is a glitch if a [Royal jelly](royal-jelly.md) is used on a Photon Bee, the transformed bee will have a ridiculous amount of energy.
   * This glitch is also shared when transforming an Exhausted Bee, since that has endless energy as well.
 * All versions of the Ticket Tent have had this bee on top, except for the initial release.
 * Although Photon Bee's energy is infinite, it is still possible to get an energy [mutation](mutation.md) on Photon Bee. However, the mutation will have no effect, similar to an attack mutation on a [Baby Bee](baby-bee.md).

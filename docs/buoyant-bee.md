@@ -413,7 +413,7 @@ Buoyant Bee likes the [Blue Flower Field](blue-flower-field.md), [Bamboo Field](
 * This bee, [Commander Bee](commander-bee.md) and [Frosty Bee](frosty-bee.md) are the only 3 [bees](bees.md) in the game that wear hats.
   * As such, the Buoyant Bee is the only hat-wearing bee that is not an Epic.
 * This is the only bee to not dislike any field.
-  * [Onett](onett-developer.md) stated on Discord that the reason why Buoyant Bee has no disliked fields is that it's supposed to be a "happy" bee.
+  * Onett stated on Discord that the reason why Buoyant Bee has no disliked fields is that it's supposed to be a "happy" bee.
 * The Buoyant Bee and the [Lion Bee](lion-bee.md) have the most amount of finite [energy](energy.md).
 * The Buoyant Bee, [Precise Bee](precise-bee.md), and [Fuzzy Bee](fuzzy-bee.md) are the only Mythic bees to be added since the release of the original three [Mythic bees](bees-mythic.md).
 * The Buoyant Bee and the Precise Bee are the only two bees to have their own Robux pack in the same update.
@@ -423,7 +423,7 @@ Buoyant Bee likes the [Blue Flower Field](blue-flower-field.md), [Bamboo Field](
 * Gifted Buoyant Bee's hat glows.
 * This bee's gifted form is similar to [Bumble Bee's](bumble-bee.md) gifted appearance.
   * Additionally, both Buoyant Bee and Bumble Bee are the only bees to have gifted abilities that multiply a player's base capacity.
-* This bee used to be able to summon Blue Bomb+ tokens, but it was nerfed to Blue Bomb in the [2022-12-26 update](updates.md#2022-12-26).
+* This bee used to be able to summon Blue Bomb+ tokens, but it was nerfed to Blue Bomb in the 2022-12-26 update.
 
 <table class="mw-collapsible mw-collapsed NavTable">
 <tbody><tr>

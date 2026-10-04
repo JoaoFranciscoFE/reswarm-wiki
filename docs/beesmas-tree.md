@@ -27,82 +27,6 @@ The bottom row holds five ornaments. They are given, from left to right, from [B
 
 Hidden at the bottom of the tree, there is 1 [Whirligig](whirligig.md) along with 5 [Bitterberries](bitterberry.md). On top of the trunk of the Beesmas Tree, there is 1 [Gingerbread Bear](gingerbread-bear.md) token.
 
-## Beesmas 2024 (Winter)
-
-This piece of content goes bye bye.
-
-The following content has been removed from the game. The contents below may be archival, but feel free to edit below.
-
-The Beesmas Tree made another return in 2024's Winter Beesmas, functioning the exact same way as during Summer Beesmas 2024. Conducting a gift exchange with an NPC would grant players an ornament that would grant special boosts on the Beesmas Tree.
-
-The bottom row holds five ornaments. They are given, from left to right, from [Black Bear](black-bear.md), [Mother Bear](mother-bear.md), [Brown Bear](brown-bear.md), [Panda Bear](panda-bear.md), and [Science Bear](science-bear.md). The second row of the tree holds another five ornaments. They are, from left to right, from [Polar Bear](polar-bear.md), [Dapper Bear](dapper-bear.md), [Onett](onett.md), [Spirit Bear](spirit-bear.md), and [Robo Bear](robo-bear.md). The third row of the tree holds four ornaments. They are, from left to right, from [Gifted Riley Bee](gifted-riley-bee.md), [Gifted Bucko Bee](gifted-bucko-bee.md), [Stick Bug](stick-bug.md), and [Sun Bear](sun-bear.md). The ornaments on the 4th row of the Beesmas Tree hold two ornaments. They are, from left to right, from [Honey Bee (NPC)](honey-bee-npc.md) and [Gummy Bear](gummy-bear.md). The ornament on the top of the tree is [Bubble Bee Man](bubble-bee-man.md)'s ornament.
-
-There is a [Neonberry](neonberry.md) token under the Beesmas Tree and 25 [Snowflakes](snowflake.md) token at the top of the trunk of the Beesmas Tree.
-
-## Beesmas 2024 (Summer)
-
-This piece of content goes bye bye.
-
-The following content has been removed from the game. The contents below may be archival, but feel free to edit below.
-
-The Beesmas Tree made another return in 2024's Summer Beesmas, functioning the exact same way as during Beesmas 2022. Conducting a gift exchange with an NPC would grant players an ornament that would grant special boosts on the Beesmas Tree.
-
-The bottom row holds five ornaments. They are given, from left to right, from [Black Bear](black-bear.md), [Mother Bear](mother-bear.md), [Brown Bear](brown-bear.md), [Panda Bear](panda-bear.md), and [Science Bear](science-bear.md). The second row of the tree holds another five ornaments. They are, from left to right, from [Polar Bear](polar-bear.md), [Dapper Bear](dapper-bear.md), [Onett](onett.md), [Spirit Bear](spirit-bear.md), and [Robo Bear](robo-bear.md). The third row of the tree holds three ornaments. They are, from left to right, from [Gifted Riley Bee](gifted-riley-bee.md), [Gifted Bucko Bee](gifted-bucko-bee.md), and [Stick Bug](stick-bug.md). The ornaments on the 4th row of the Beesmas Tree hold two ornaments. They are, from left to right, from [Honey Bee (NPC)](honey-bee-npc.md) and [Gummy Bear](gummy-bear.md). The ornament on the top of the tree is [Bubble Bee Man](bubble-bee-man.md)'s ornament.
-
-There is a [Neonberry](neonberry.md) and [Whirligig](whirligig.md) token under the Beesmas Tree and a [Gingerbread Bear](gingerbread-bear.md) token at the top of the trunk of the Beesmas Tree.
-
-## Beesmas 2022
-
-This piece of content goes bye bye.
-
-The following content has been removed from the game. The contents below may be archival, but feel free to edit below.
-
-The Beesmas Tree made another return in 2022, functioning the exact same way as during Beesmas 2021. Conducting a gift exchange with an NPC would grant players an ornament that would grant special boosts on the Beesmas Tree.
-
-The bottom row holds five ornaments. They are given, from left to right, from [Black Bear](black-bear.md), [Mother Bear](mother-bear.md), [Brown Bear](brown-bear.md), [Panda Bear](panda-bear.md), and [Science Bear](science-bear.md). The second row of the tree holds another five ornaments. They are, from left to right, from [Polar Bear](polar-bear.md), [Dapper Bear](dapper-bear.md), [Onett](onett.md), [Spirit Bear](spirit-bear.md), and [Robo Bear](robo-bear.md). The third row of the tree holds three ornaments. They are, from left to right, from [Gifted Riley Bee](gifted-riley-bee.md), [Gifted Bucko Bee](gifted-bucko-bee.md), and [Stick Bug](stick-bug.md). The ornaments on the 4th row of the Beesmas Tree hold two ornaments. They are, from left to right, from [Honey Bee (NPC)](honey-bee-npc.md) and [Gummy Bear](gummy-bear.md). The ornament on the top of the tree is [Bubble Bee Man](bubble-bee-man.md)'s ornament.
-
-There is a [Neonberry](neonberry.md) token under the Beesmas Tree and a [Robo Pass](robo-pass.md) token at the top of the trunk of the Beesmas Tree.
-
-## Beesmas 2021
-
-This piece of content goes bye bye.
-
-The following content has been removed from the game. The contents below may be archival, but feel free to edit below.
-
-The Beesmas Tree made another return in 2021, functioning the exact same way as during Beesmas 2020. Conducting a gift exchange with an NPC would grant players an ornament that would grant special boosts on the Beesmas Tree.
-
-The bottom row held five ornaments. They were given, from left to right, from [Black Bear](black-bear.md), [Mother Bear](mother-bear.md), [Brown Bear](brown-bear.md), [Panda Bear](panda-bear.md) and [Science Bear](science-bear.md). The second row of the tree held another four ornaments. They were, from left to right, from [Polar Bear](polar-bear.md), [Dapper Bear](dapper-bear.md), [Onett](onett.md), and [Spirit Bear](spirit-bear.md). The third row of the tree held three ornaments. They were, from left to right, from [Gifted Riley Bee](gifted-riley-bee.md), [Gifted Bucko Bee](gifted-bucko-bee.md), and [Stick Bug](stick-bug.md). An additional three ornaments could also be added to the tree, and they were, from left to top, [Honey Bee (NPC)](honey-bee-npc.md), [Gummy Bear](gummy-bear.md), and [Bubble Bee Man](bubble-bee-man.md).
-
-There is a Honeysuckle token at the bottom, a [Neonberry](neonberry.md) to the left, a [Whirligig](whirligig.md) token, and a [Smooth Dice](smooth-dice.md) token above the Beesmas Tree.
-
-## Beesmas 2020
-
-This piece of content goes bye bye.
-
-The following content has been removed from the game. The contents below may be archival, but feel free to edit below.
-
-The Beesmas Tree returned in 2020, and it functioned the same. To put ornaments on the tree the player needed to collect and give [presents](present.md) to each corresponding NPC. In exchange, the player would receive their ornament along with a few special boosts.
-
-<figure class="thumb" style="width: 180px" typeof="mw:File/Thumb">  <figcaption class="thumbcaption"> <p class="caption">The Gingerbread Bear under the Beesmas Tree.</p> </figcaption> </figure>
-
-The bottom row held four ornaments. They were given, from left to right, from [Black Bear](black-bear.md), [Mother Bear](mother-bear.md), [Brown Bear](brown-bear.md), and [Panda Bear](panda-bear.md). The second row of the tree held another four ornaments. They were, from left to right, from [Science Bear](science-bear.md), [Polar Bear](polar-bear.md), [Onett](onett.md), and [Spirit Bear](spirit-bear.md). The third row of the tree held three ornaments. They were, from left to right, from [Gifted Riley Bee](gifted-riley-bee.md), [Gifted Bucko Bee](gifted-bucko-bee.md), and [Stick Bug](stick-bug.md). An additional three ornaments could also be added to the tree, and they were, from left to top, [Honey Bee (NPC)](honey-bee-npc.md), [Gummy Bear](gummy-bear.md), and [Bubble Bee Man](bubble-bee-man.md).
-
-There was a [Gingerbread Bear](gingerbread-bear.md) token at the bottom and a [Neonberry](neonberry.md) token at the top of the trunk of the Beesmas Tree.
-
-## Beesmas 2019
-
-This piece of content goes bye bye.
-
-The following content has been removed from the game. The contents below may be archival, but feel free to edit below.
-
-To put ornaments on the tree, the player had to complete the [quest](quests.md) of the corresponding NPC, then talk to them. The ornament would then automatically go onto the tree.
-
-<figure class="thumb" style="width: 180px" typeof="mw:File/Thumb">  <figcaption class="thumbcaption"> <p class="caption">Some ornaments on the Beesmas Tree.</p> </figcaption> </figure>
-
-The bottom row of the tree held four ornaments. They were given, in order from left to right, from [Black Bear](black-bear.md), [Mother Bear](mother-bear.md), [Brown Bear](brown-bear.md), and [Panda Bear](panda-bear.md). The second row of the tree held another four ornaments. They were, from left to right, from [Science Bear](science-bear.md), [Polar Bear](polar-bear.md), [Onett](onett.md), and [Spirit Bear](spirit-bear.md). The third row of the tree held three ornaments. They were, from left to right, from [Gifted Riley Bee](gifted-riley-bee.md), [Gifted Bucko Bee](gifted-bucko-bee.md), and [Stick Bug](stick-bug.md). The ornament placed on the highest row of the tree was from [Bubble Bee Man](bubble-bee-man.md).
-
-There was a [Field Dice](field-dice.md), 5 [Gumdrops](gumdrops.md), and 5 [Moon Charms](moon-charm.md) located in the Beesmas Tree. On the top of its trunk, there were 10 [Bitterberries](bitterberry.md). To access the platform and the token on it, players had to glide down from on top of [Noob Shop](noob-shop.md) or drop down from the Ant Gate.
-
 ## Trivia
 
 * The Beesmas Tree uses the same model as the [Christmas Tree Roblox hat](https://www.roblox.com/catalog/42781787/Christmas-Tree).
@@ -149,5 +73,5 @@ There was a [Field Dice](field-dice.md), 5 [Gumdrops](gumdrops.md), and 5 [Moon 
 <tr>
 <th class="NavCategory">Event<br/>Locations
 </th>
-<td class="NavLinks NavLinksBasicEven"><b><strong class="mw-selflink selflink">Beesmas Tree</strong> • <a href="ornament-presents.html">Ornament Presents</a> • <span class="new" data-uncrawlable-url="L3dpa2kvQ29tcHV0ZXI/YWN0aW9uPWVkaXQmcmVkbGluaz0x" title="Computer (page does not exist)">Computer</span> • <a href="gift-boxes.html">Gift Boxes</a> • <a href="honey-wreath.html">Honey Wreath</a> • <a href="stockings.html">Stockings</a> • <a href="gingerbread-house.html">Gingerbread House</a> • <a href="snowbear-summoner.html">Snowbear Summoner</a> • <a href="beesmas-lights.html">Beesmas Lights</a> • <a href="samovar.html">Samovar</a> • <a href="beesmas-feast.html">Beesmas Feast</a> • <a href="onett-s-lid-art.html">Onett's Lid Art</a> • <a href="wind-shrine.html#Galentine_Shrine">Galentine Shrine</a> • <a href="memory-match.html#Winter_Memory_Match">Winter Memory Match</a> • <a href="snow-machine.html">Snow Machine</a> • <a href="honeyday-candles.html">Honeyday Candles</a> • <a href="robo-party-cake.html">Robo Party Cake</a> • <a href="gummy-beacon.html">Gummy Beacon</a> • <a href="naughty-list.html">Naughty List</a></b>
+<td class="NavLinks NavLinksBasicEven"><b><strong class="mw-selflink selflink">Beesmas Tree</strong> • <span class="new" data-uncrawlable-url="L3dpa2kvQ29tcHV0ZXI/YWN0aW9uPWVkaXQmcmVkbGluaz0x" title="Computer (page does not exist)">Computer</span> • <a href="gift-boxes.html">Gift Boxes</a> • <a href="honey-wreath.html">Honey Wreath</a> • <a href="stockings.html">Stockings</a> • <a href="gingerbread-house.html">Gingerbread House</a> • <a href="snowbear-summoner.html">Snowbear Summoner</a> • <a href="beesmas-lights.html">Beesmas Lights</a> • <a href="samovar.html">Samovar</a> • <a href="beesmas-feast.html">Beesmas Feast</a> • <a href="onett-s-lid-art.html">Onett's Lid Art</a> • <a href="wind-shrine.html#Galentine_Shrine">Galentine Shrine</a> • <a href="memory-match.html#Winter_Memory_Match">Winter Memory Match</a> • <a href="snow-machine.html">Snow Machine</a> • <a href="honeyday-candles.html">Honeyday Candles</a> • <a href="robo-party-cake.html">Robo Party Cake</a> • <a href="gummy-beacon.html">Gummy Beacon</a> • <a href="naughty-list.html">Naughty List</a></b>
 </td></tr></tbody></table>

@@ -86,14 +86,14 @@ Sometimes, a flower patch might emit green [leaves](leaves.md). Collecting polle
 
 ## Trivia
 
-* There are decals of yellow flowers in [Onett's](onett-developer.md) inventory, but they have never made an appearance in the game itself. They were most likely scrapped during the game's development.
+* There are decals of yellow flowers in Onett's inventory, but they have never made an appearance in the game itself. They were most likely scrapped during the game's development.
 * White flowers are the most common in the game, as practically all fields have white flowers. The only field that doesn't have white flowers is the [Mountain Top Field](mountain-top-field.md).
   * The only field with exactly one color of flowers is the [Spider Field](spider-field.md), the color being white.
 * [Stump Field](stump-field.md) is the only blue field to have red flowers.
 * The [Ant Field](ant-field.md), Stump Field, Mountain Top Field, [Coconut Field](coconut-field.md), and [Pepper Patch](pepper-patch.md) are the only fields with exactly one type of flower size (single for Ant Field, triple for the rest).
 * Star flowers glow during [nighttime](day-night-cycle.md).
 * Ant Field flowers hold 50 pollen, plus 10 pollen per tier (up to 90 pollen).
-* Before the [2020-04-06 update](updates.md#2020-04-06), the flower designs were different, and the sizes were only small, double, and large.
+* Before the 2020-04-06 update, the flower designs were different, and the sizes were only small, double, and large.
 * If the player looks at a field from a nearly flat angle, the flowers will appear to turn to their corresponding colors.
 * [Fuzzy Bee's](fuzzy-bee.md) abilities and [passive ability](passive-abilities.md#Fuzzy_Coat), the [Diamond Drain](passive-abilities.md#Diamond_Drain) passive, the [Guiding Star](passive-abilities.md#Guiding_Star) passive, and a bee with the [Poinsettia](poinsettia.md) or [Lei](lei.md) Beequip are the only ways to pollinate flowers.
 * Blue flowers are stated by [Black Bear](black-bear.md) to taste minty, with red flowers tasting spicy, and white flowers tasting neutral.

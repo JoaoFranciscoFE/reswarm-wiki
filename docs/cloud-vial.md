@@ -19,9 +19,9 @@ CAP
 
 10
 
-The **Cloud Vial** is a consumable inventory item that was added in the [2019-09-28 update](updates.md). Once used, it will spawn a cloud in the field you are standing in.
+The **Cloud Vial** is a consumable inventory item that was added in the 2019-09-28 update. Once used, it will spawn a cloud in the field you are standing in.
 
-The player can have a maximum of 10 in their inventory at a time. Obtaining more than 10 will not be added into the inventory unless obtained from a [quest](quests.md), [Sticker Stack](sticker-stack.md) reward, or [Ornament Presents](ornament-presents.md).
+The player can have a maximum of 10 in their inventory at a time. Obtaining more than 10 will not be added into the inventory unless obtained from a [quest](quests.md), [Sticker Stack](sticker-stack.md) reward, or Ornament Presents.
 
 The summoned cloud will move around the [field](fields.md). It grants a 25% (50% with [Gifted](gifted-bee.md) [Windy Bee](windy-bee.md)) [pollen](pollen.md) boost if the player is under it, while causing [flowers](flowers.md) under the cloud and [sprouts](sprout.md) in the field to grow faster. If there is a sprout in the field, the clouds will help the sprout grow by connecting to the sprout with a straight blue line. The growing speed applied to the sprout increases with the pollen amount required for the sprout. Using it on a field with a [planter](planter.md) causes the planter to grow 8% faster per cloud, capping at 20%. Each field has a limit of clouds, with bigger and higher-tier fields having a higher limit. If the limit for clouds has reached, using anymore clouds will result in the following message:
 There are too many clouds in this field. Windy Bee's [Rain Cloud](ability-tokens.md#Rain_Cloud) ability will ignore this field and will not further summon anymore clouds into the field.
@@ -59,7 +59,7 @@ The following audio plays when a **Cloud Vial** is used:
 <tbody><tr>
 <td>
 <ul><li>Completing Spirit Bear's Ornament Quest rewarded <img alt="Cloud Vial" height="25" src="img/Cloud_Vial.png" width="25"/>10 <strong class="mw-selflink selflink"><span class="color-template color-template-cloud-vial color-template-background-clip">Cloud Vials</span></strong> and other <a href="items.html">items</a>.</li>
-<li>Opening the <a href="ornament-presents.html">Pearly Present</a> gave <img alt="Cloud Vial" height="25" src="img/Cloud_Vial.png" width="25"/>30 <strong class="mw-selflink selflink"><span class="color-template color-template-cloud-vial color-template-background-clip">Cloud Vials</span></strong> and other items.</li>
+<li>Opening the Pearly Present gave <img alt="Cloud Vial" height="25" src="img/Cloud_Vial.png" width="25"/>30 <strong class="mw-selflink selflink"><span class="color-template color-template-cloud-vial color-template-background-clip">Cloud Vials</span></strong> and other items.</li>
 <li>Purchasing packs in the <a href="robux-shop.html">Robux Shop</a>:
 <ul><li>The Beginner's Bean Bundle gave <img alt="Cloud Vial" height="25" src="img/Cloud_Vial.png" width="25"/>5 <strong class="mw-selflink selflink"><span class="color-template color-template-cloud-vial color-template-background-clip">Cloud Vials</span></strong> and other items.</li>
 <li>The Star Treat Special gave <img alt="Cloud Vial" height="25" src="img/Cloud_Vial.png" width="25"/>10 <strong class="mw-selflink selflink"><span class="color-template color-template-cloud-vial color-template-background-clip">Cloud Vials</span></strong> and other items.</li></ul></li>
@@ -144,7 +144,7 @@ The following audio plays when a **Cloud Vial** is used:
 </th>
 <th class="NavCategory">Quest Exclusive
 </th>
-<td class="NavLinks NavLinksBasicEven"><b><img alt="Translator" height="35" src="img/Translator.png" width="35"/> <a href="translator.html">Translator</a> • <img alt="Spirit Petal" height="35" src="img/Spirit_Petal.png" width="35"/> <a href="spirit-petal.html">Spirit Petal</a> • <img alt="Debug Wax" height="35" src="img/Debug_Wax.png" width="35"/> <a href="debug-wax.html">Debug Wax</a> • <img alt="Nectar Tester" height="35" src="img/Nectar_Tester.png" width="35"/> <a href="nectar-tester.html">Nectar Tester</a></b> • <span typeof="mw:Error mw:File"></span> <a href="bbm-s-apology.html">BBM's Apology</a><b></b>
+<td class="NavLinks NavLinksBasicEven"><b><img alt="Translator" height="35" src="img/Translator.png" width="35"/> <a href="translator.html">Translator</a> • <img alt="Spirit Petal" height="35" src="img/Spirit_Petal.png" width="35"/> <a href="spirit-petal.html">Spirit Petal</a> • <img alt="Debug Wax" height="35" src="img/Debug_Wax.png" width="35"/> <a href="debug-wax.html">Debug Wax</a> • <img alt="Nectar Tester" height="35" src="img/Nectar_Tester.png" width="35"/> <a href="nectar-tester.html">Nectar Tester</a></b> • <span typeof="mw:Error mw:File"></span> <b></b>
 </td></tr>
 <tr>
 <th class="NavCategory">Beesmas

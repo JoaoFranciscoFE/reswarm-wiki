@@ -7587,13 +7587,13 @@ Show/hide tables
 * The Diamond Star Amulet and Supreme Star Amulet are the only two Amulets in the game that can have or always have passive abilities on them.
 * The Diamond Star Amulet can only give 2 types of [passive abilities](passive-abilities.md), being Guiding Star and Star Shower.
 
-* The Supreme Star Amulet is the only Star Amulet added after the original release of Star Amulets. It was introduced in the [2020-06-06 update](updates.md#2020-06-06), while the others were released in the [2018-07-11 update](updates.md#2018-07-11).
+* The Supreme Star Amulet is the only Star Amulet added after the original release of Star Amulets. It was introduced in the 2020-06-06 update, while the others were released in the 2018-07-11 update.
   * The Star Amulets used to require the gifted bee types in the player's [hive](hive.md). However, this was changed to only requiring discovering gifted bee types when the Supreme Star Amulet was added in the game.
 
 * The Supreme Star Amulet is the only Star Amulet that can have double passive abilities.
 
 * The Diamond Star Amulet is the only Star Amulet that has received a buff after its release.
-  * In the [2020-06-06 update](updates.md#2020-06-06), Diamond Star Amulets got a 1/100 chance of getting a passive when generated.
+  * In the 2020-06-06 update, Diamond Star Amulets got a 1/100 chance of getting a passive when generated.
 
 * The summoned Gummy Star/Pop Star/Scorching Star rotates counterclockwise around the player.
 * The background audio of Supreme Star Amulet passive abilities plays 3 times for Gummy and Scorching star, 1.5 times for Pop star and 7 times for Star Saw.
@@ -7670,7 +7670,7 @@ Show/hide tables
 </th>
 <th class="NavCategory">Quest Exclusive
 </th>
-<td class="NavLinks NavLinksBasicEven"><b><img alt="Translator" height="35" src="img/Translator.png" width="35"/> <a href="translator.html">Translator</a> • <img alt="Spirit Petal" height="35" src="img/Spirit_Petal.png" width="35"/> <a href="spirit-petal.html">Spirit Petal</a> • <img alt="Debug Wax" height="35" src="img/Debug_Wax.png" width="35"/> <a href="debug-wax.html">Debug Wax</a> • <img alt="Nectar Tester" height="35" src="img/Nectar_Tester.png" width="35"/> <a href="nectar-tester.html">Nectar Tester</a></b> • <span typeof="mw:Error mw:File"></span> <a href="bbm-s-apology.html">BBM's Apology</a><b></b>
+<td class="NavLinks NavLinksBasicEven"><b><img alt="Translator" height="35" src="img/Translator.png" width="35"/> <a href="translator.html">Translator</a> • <img alt="Spirit Petal" height="35" src="img/Spirit_Petal.png" width="35"/> <a href="spirit-petal.html">Spirit Petal</a> • <img alt="Debug Wax" height="35" src="img/Debug_Wax.png" width="35"/> <a href="debug-wax.html">Debug Wax</a> • <img alt="Nectar Tester" height="35" src="img/Nectar_Tester.png" width="35"/> <a href="nectar-tester.html">Nectar Tester</a></b> • <span typeof="mw:Error mw:File"></span> <b></b>
 </td></tr>
 <tr>
 <th class="NavCategory">Beesmas

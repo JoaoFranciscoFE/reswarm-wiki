@@ -310,15 +310,15 @@ Bear Bee likes the [Pumpkin Patch](pumpkin-patch.md) and the [Pine Tree Forest](
 * This bee, Festive Bee, [Gummy Bee](gummy-bee.md), [Vicious Bee](vicious-bee.md), Windy Bee, and Digital Bee are the only Event bees obtainable without spending tickets.
   * Gummy Bee was previously purchasable with tickets and the Festive Bee is currently purchasable for 500 tickets.
 * This bee, Gummy Bee, [Tabby Bee](tabby-bee.md), Puppy Bee, Festive Bee, Windy Bee, and Digital Bee are the only bees that can be a First Edition Bee.
-* Before the [2018-11-25 update](updates.md#2018-11-25), Bear Bee's [Gifted Hive Bonus](gifted-bee.md#List_of_Hive_Bonuses) was +20% [White Pollen](system-page.md#White_Pollen). It was later changed to +40% White Pollen and then to +5% Pollen. The current [Gifted Hive Bonus](gifted-bee.md#List_of_Hive_Bonuses) is +10% Pollen.
+* Before the 2018-11-25 update, Bear Bee's [Gifted Hive Bonus](gifted-bee.md#List_of_Hive_Bonuses) was +20% [White Pollen](system-page.md#White_Pollen). It was later changed to +40% White Pollen and then to +5% Pollen. The current [Gifted Hive Bonus](gifted-bee.md#List_of_Hive_Bonuses) is +10% Pollen.
 * This bee, Tabby Bee, Puppy Bee, [Tadpole Bee](tadpole-bee.md), and [Lion Bee](lion-bee.md) are the only bees based on real life animals other than bees.
 * This bee, Festive Bee, Gummy Bee, [Photon Bee](photon-bee.md), and Tabby Bee are the only bees to have a gifted bonus that affects its signature ability.
-  * This enhanced Bear Morph in the gifted hive bonus, adding Science Bear and Mother Bear morphs, was added in the [2019-04-17 Update](updates.md#2019-04-17).
+  * This enhanced Bear Morph in the gifted hive bonus, adding Science Bear and Mother Bear morphs, was added in the 2019-04-17 Update.
 * This bee is the only bee who can transform the player into a bear, and one of three ways to do so. The other ways are by using the [Gummy Mask](gummy-mask.md), which can transform the player into [Gummy Bear](gummy-bear.md), and redeeming certain expired [codes](codes.md).
 * This is the only Event bee that can become gifted without the use of a star treat or gingerbread bear, as all First Edition Bear Bees become automatically gifted when the owner joins the game if they are not gifted yet.
 * There is a glitch in which dying with bear morph active will leave the player's character without a head when it deactivates.
 * There is a [sticker](sticker.md) that can be obtained by a Gifted Bear Bee, that being the Bear Bee Offer Sticker, as an extremely rare drop while gathering in the [Pineapple Patch](pineapple-patch.md), or a 1/3 chance from feeding it a [Star Treat](star-treat.md).
-* Bear Bee LLC, the company created by [Onett](onett-developer.md) that owns the Re://:Swarm trademark, uses this bee for the company's name.[1]
+* Bear Bee LLC, the company created by Onett that owns the Re://:Swarm trademark, uses this bee for the company's name.[1]
 
 <table class="mw-collapsible mw-collapsed NavTable">
 <tbody><tr>
@@ -349,7 +349,6 @@ Bear Bee likes the [Pumpkin Patch](pumpkin-patch.md) and the [Pine Tree Forest](
 </th>
 <td class="NavLinks NavLinksEvent"><b><img alt="Bear Bee" height="35" src="img/Bear_Bee.png" width="35"/> <strong class="mw-selflink selflink">Bear Bee</strong> • <img alt="Cobalt Bee" height="35" src="img/Cobalt_Bee.png" width="35"/> <a href="cobalt-bee.html">Cobalt Bee</a> • <img alt="Crimson Bee" height="35" src="img/Crimson_Bee.png" width="35"/> <a href="crimson-bee.html">Crimson Bee</a> • <img alt="Digital Bee" height="35" src="img/Digital_Bee.png" width="35"/> <a href="digital-bee.html">Digital Bee</a> • <img alt="Festive Bee" height="35" src="img/Festive_Bee.png" width="35"/> <a href="festive-bee.html">Festive Bee</a> • <img alt="Gummy Bee" height="35" src="img/Gummy_Bee.png" width="35"/> <a href="gummy-bee.html">Gummy Bee</a> • <img alt="Photon Bee" height="35" src="img/Photon_Bee.png" width="35"/> <a href="photon-bee.html">Photon Bee</a> • <img alt="Puppy Bee" height="35" src="img/Puppy_Bee.png" width="35"/> <a href="puppy-bee.html">Puppy Bee</a> • <img alt="Tabby Bee" height="35" src="img/Tabby_Bee.png" width="35"/> <a href="tabby-bee.html">Tabby Bee</a> • <img alt="Vicious Bee" height="35" src="img/Vicious_Bee.png" width="35"/> <a href="vicious-bee.html">Vicious Bee</a> • <img alt="Windy Bee" height="35" src="img/Windy_Bee.png" width="35"/> <a href="windy-bee.html">Windy Bee</a></b>
 </td></tr></tbody></table>
-
 
 1. ↑ [[1]](https://trademarks.justia.com/owners/bear-bee-llc-3823322/) Trademarks owned by Bear Bee LLC.
 

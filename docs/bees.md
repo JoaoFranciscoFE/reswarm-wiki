@@ -1281,7 +1281,7 @@ The following table contains all the ways to obtain summoned bees.
 
 ## Trivia
 
-* The [Mythic](bees-mythic.md) bee type is the first and only bee rarity type to be added in an [update](updates.md#2019-12-23).
+* The [Mythic](bees-mythic.md) bee type is the first and only bee rarity type to be added in an update.
 * [Buoyant Bee](buoyant-bee.md) is the only bee to dislike no fields.
 * If the player's internet is lagging (slow internet), the bees have a high chance of being slower at fighting mobs, making honey, and collecting pollen.
 * If the player moves off the pad in front of their hive while converting honey, the bees will stop converting. However, they will not stop if the player only barely leaves the hive.

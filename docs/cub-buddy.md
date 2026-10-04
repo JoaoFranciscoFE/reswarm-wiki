@@ -40,36 +40,6 @@ Cub Buddies age depending on how long it has been equipped while the player is i
   * For the end of challenge reward, the odds vary from around 1 in 25,000 (10 million score) to around 1 in 670 (over 1,000,000,000 score) [1]
 * Obtainable by sticking all 12 Star Signs to the [Sticker Stack](sticker-stack.md), rolling it from the [Sticker Printer](sticker-printer.md), or from purchasing a [Diamond Star Amulet](star-amulet.md#Diamond_Star_Amulet) (1 in 1,000,000 chance) (gives the Star Cub skin).
 
-### Outdated Ways
-
-<table class="mw-collapsible mw-collapsed article-table">
-<caption>
-</caption>
-<tbody><tr>
-<td>
-<ul><li>Purchasing in the <a href="ticket-tent.html">Ticket Tent</a> for <img alt="Ticket" height="25" src="img/Ticket.png" width="25"/>2,000 <a href="ticket.html"><span class="color-template color-template-ticket color-template-background-clip">Tickets</span></a> (gives a cub buddy and the Black Cub skin).</li>
-<li>Beesmas 2019:
-<ul><li>Completing <a href="bee-bear.html">Bee Bear's</a> 10th quest, "A Beesmas Miracle" (gave a cub buddy and the Black Cub skin).</li>
-<li>Completing <a href="bee-bear.html">Bee Bear's</a> 15th quest, "Bee Cub Workshop 5" (gave the Bee Cub skin).</li>
-<li>Purchasing the Cub Buddy Launch Pack for 800R$ (gave a cub buddy, the Black Cub skin, and the Noob Cub skin).</li></ul></li>
-<li>Beesmas 2020: Purchasing in Bee Bear's Catalog for <img alt="Gingerbread Bear" height="25" src="img/Gingerbread_Bear.png" width="25"/>250 <a href="gingerbread-bear.html"><span class="color-template color-template-gingerbread-bear color-template-background-clip">Gingerbread Bears</span></a> (gives a cub buddy (only if not already owned), the Black Cub Skin, Gingerbread Cub skin and a star treat (2 if the player already owns a cub buddy when buying it).</li>
-<li>Beesmas 2021:
-<ul><li>Completing <a href="bee-bear.html">Bee Bear's</a> 15th quest, "Cub Buddy Beckoning" (gave the Black Cub skin or a <img alt="Star Treat" height="35" src="img/Star_Treat.png" width="35"/><a href="star-treat.html"><span class="color-template color-template-star-treat color-template-background-clip">Star Treat</span></a> if the player already has a cub buddy)</li>
-<li>Completing <a href="bee-bear.html">Bee Bear's</a> 20th quest, "Snow Cub Reformation 5/5" (gave the Snow Cub skin).</li></ul></li></ul>
-<ul><li>Beesmas 2022:
-<ul><li>Completing <a href="bee-bear.html">Bee Bear's</a> 15th quest, "Cogs For The Cub Buddy" (gave a cub buddy and the Black Cub skin, or a <a href="treats.html">star treat</a> if the player already has a cub buddy).</li>
-<li>Completing <a href="bee-bear.html">Bee Bear's</a> 20th quest, "Peppermint Preparation (5/5)" (gave the Peppermint Robo Cub).</li></ul></li></ul>
-<ul><li>Beesmas 2024 (Summer):
-<ul><li>Completing <a href="bee-bear.html">Bee Bear's</a> 15th quest, "Here comes Cub Buddy" (gave a cub buddy voucher, redeemable for a Black Cub skin along with the actual Cub Buddy itself).</li>
-<li>Completing <a href="bee-bear.html">Bee Bear's</a> 20th quest, "Doodle Cub Creation (5/5)" (gave the Doodle Cub skin).</li></ul></li></ul>
-<ul><li>Beesmas 2024 (Winter):
-<ul><li>Completing <a href="bee-bear.html">Bee Bear's</a> "Crafting a Cub Buddy" quest. (Gave either a Cub Buddy, if the player does not have a Cub Buddy, or a Cub Buddy Voucher.)</li>
-<li>Completing <a href="bee-bear.html">Bee Bear</a>'s "Cheering Up Gloomy Cub (5/5): Anything???" quest. (Gave the Gloomy Cub skin.)</li></ul></li>
-<li>Beesmas 2025:
-<ul><li>Completing <a href="bee-bear.html">Bee Bear's</a> 15th quest, "Festive Bee's Trial". (Gave either a Cub Buddy, if the player does not have a Cub Buddy, or a Cub Buddy Voucher.)</li>
-<li>Completing <a href="bee-bear.html">Bee Bear</a>'s "Presents for Petal Cub (5/5): The Final Bouquet" quest. (Gave the Petal Cub skin.)</li></ul></li></ul>
-</td></tr></tbody></table>
-
 ## Skins
 
 ### Regular Skins
@@ -390,8 +360,6 @@ Cub buddies will produce gifts in a ring of 5 tokens, which usually contain comm
 
 ## Cub Faces
 
-
-
 ## Trivia
 
 * While Bee Bear said that the cub buddies are dolls animated by "Beesmas magic," [Polar Bear](polar-bear.md) said, "He says the [Cub Buddies] are animated by the magic of Beesmas... But in reality, Bee Bear had to build and program them himself.” Also, [Science Bear](science-bear.md) said, "They're just robots, you know. But they're so lifelike, it's uncanny!"
@@ -401,7 +369,7 @@ Cub buddies will produce gifts in a ring of 5 tokens, which usually contain comm
 * A cub buddy uses the wave emote when idle, the point emote when collecting a token, the dance emote before it produces gifts, and the cheer emote when it makes the gifts.
 * Most cub buddies use the [Cartoony Animation Package](https://www.roblox.com/bundles/56/Cartoony-Animation-Package). The Brown Cub, Snow Cub, Robo Cub, Peppermint Robo Cub, Petal Cub, and Gloomy Cub are the only cubs to use a different one, being the [Knight Animation Package](https://www.roblox.com/bundles/68/Knight-Animation-Package), the [Ninja Animation Package](https://www.roblox.com/bundles/75/Ninja-Animation-Package) and [Robot Animation Package](https://www.roblox.com/bundles/82/Robot-Animation-Pack), [Stylish Animation Package](https://www.roblox.com/bundles/83/Stylish-Animation-Packkage), and [Elder Animation Package](https://www.roblox.com/bundles/48/Elder-Animation-Package) respectively.
   * Coincidentally, the Cartoony Animation Package is the one used by [Black Bear](black-bear.md), [Noob Bear](noob-bear.md), and [Bee Bear](bee-bear.md).
-* There used to be a [glitch](glitches.md) that would make cub buddies "wear" an item if they teleported on top of it, such as the [Demon Mask](demon-mask.md), [Elite Blue Guard](elite-blue-guard.md), and [Riley Guard](riley-guard.md). This could also happen if the owner died/reset on top of the cub buddy. This was because the cub buddy is a Humanoid Model. This [Glitch](glitches.md) was patched in an unknown update.
+* There used to be a glitch that would make cub buddies "wear" an item if they teleported on top of it, such as the [Demon Mask](demon-mask.md), [Elite Blue Guard](elite-blue-guard.md), and [Riley Guard](riley-guard.md). This could also happen if the owner died/reset on top of the cub buddy. This was because the cub buddy is a Humanoid Model. This Glitch was patched in an unknown update.
 * There is a glitch that causes cub buddies to stay in the game after their owners leave. The cub buddy can still collect any public tokens when it is left in the game, but it doesn't give the rewards to their owner.
 * Cub buddies used to be the most expensive item in the [Ticket Tent](ticket-tent.md), costing 2,000 tickets.
 * The maximum number of characters in a cub buddy name is 16. The name can also be filtered by Roblox.

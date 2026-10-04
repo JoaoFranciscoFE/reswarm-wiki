@@ -15,7 +15,7 @@ COOLDOWN
 
 10 minutes
 
-**Oil** is an inventory item that was added in the [2018-11-25 update](updates.md). When used, it grants x1.2 [Bee](stats.md#Speed) and [Player Movespeed](system-page.md#Movespeed) for 10 minutes when activated. Using another will reset the timer, but it does not stack. It can also be used to craft other accessories or [items](items.md). Using a [Super Smoothie](super-smoothie.md) will override the buff.
+**Oil** is an inventory item that was added in the 2018-11-25 update. When used, it grants x1.2 [Bee](stats.md#Speed) and [Player Movespeed](system-page.md#Movespeed) for 10 minutes when activated. Using another will reset the timer, but it does not stack. It can also be used to craft other accessories or [items](items.md). Using a [Super Smoothie](super-smoothie.md) will override the buff.
 
 ## Ways to Obtain
 
@@ -70,47 +70,6 @@ COOLDOWN
   * Subsidized Agriculture gives 1 oil and other items.
   * Meditating On Phenomenon gives 1 oil and other items.
 * [Polar Bear](polar-bear.md) occasionally gives oil after the completion of one of his quests.
-
-### Outdated Ways
-
-<table class="mw-collapsible mw-collapsed article-table">
-<caption>
-</caption>
-<tbody><tr>
-<td>
-<ul><li>Activating the Target in the Sunflower Field in front of the <a href="red-hq.html">Red HQ</a>.</li>
-<li>Opening the Shimmering gift box gives 5 oils + other items.</li>
-<li>By purchasing the Brass Bundle in the <a href="bee-bear-s-catalog.html">Bee Bear's Catalog</a>.</li>
-<li>By purchasing the Whirling Bundle in the <a href="bee-bear-s-catalog.html">Bee Bear's Catalog</a>.</li>
-<li>Purchasing certain bundles in the <a href="robux-shop.html">Robux Shop</a>:
-<ul><li>Colossal Crafts Pack for <span typeof="mw:Error mw:File"></span>3,400 <span class="color-template color-template-robux color-template-background-clip">Robux</span> (Granted <img alt="Oil" height="25" src="img/Oil.png" width="25"/>50 <strong class="mw-selflink selflink"><span class="color-template color-template-oil color-template-background-clip">Oils</span></strong> + other stuff)</li>
-<li>Festive Bee Pack for <span typeof="mw:Error mw:File"></span>1,600 <span class="color-template color-template-robux color-template-background-clip">Robux</span> (Granted <img alt="Oil" height="25" src="img/Oil.png" width="25"/>30 <strong class="mw-selflink selflink"><span class="color-template color-template-oil color-template-background-clip">Oils</span></strong> + other stuff)</li>
-<li>Spikey Spring Basket for <span typeof="mw:Error mw:File"></span>2,700 <span class="color-template color-template-robux color-template-background-clip">Robux</span> (Granted <img alt="Oil" height="25" src="img/Oil.png" width="25"/>75 <strong class="mw-selflink selflink"><span class="color-template color-template-oil color-template-background-clip">Oils</span></strong> + other stuff)</li>
-<li>Gooey Goodies Pack for <span typeof="mw:Error mw:File"></span>800 <span class="color-template color-template-robux color-template-background-clip">Robux</span> (Granted <img alt="Oil" height="25" src="img/Oil.png" width="25"/>50 <strong class="mw-selflink selflink"><span class="color-template color-template-oil color-template-background-clip">Oils</span></strong> + other stuff)</li>
-<li>New Year Booster Bundle for <span typeof="mw:Error mw:File"></span>400 <span class="color-template color-template-robux color-template-background-clip">Robux</span> (Granted <img alt="Oil" height="25" src="img/Oil.png" width="25"/>15 <strong class="mw-selflink selflink"><span class="color-template color-template-oil color-template-background-clip">Oils</span></strong> + other stuff)</li></ul></li>
-<li>Giving <a href="present.html">presents</a> to certain NPCs during the Beesmas 2018 Event.
-<ul><li>Science Bear activated the oil buff and gave other things.</li>
-<li><a href="polar-bear.html">Polar Bear</a> gave 3 oil and other things.</li>
-<li><a href="onett.html">Onett</a> activated the oil buff and gave other things.</li></ul></li>
-<li>Opening the <a href="ornament-presents.html">Golden Present</a> rewarded 2 oil and other things.</li>
-<li>Completing <a href="bubble-bee-man.html">Bubble Bee Man's</a> B.B.M. Mission rewarded 1 oil (Was obtainable during Beesmas 2019).</li>
-<li>Purchasing the Booster Bundle from <a href="bee-bear-s-catalog.html">Bee Bear's Catalog</a> gave 3 oil + other stuff (Was obtainable during Beesmas 2020).</li>
-<li><a href="bee-bear.html">Bee Bear</a> gave oil during Beesmas 2019 on the following quests:
-<ul><li>Beesmas Rush gave 1 oil and other items.</li>
-<li>Beesmas Blitz gave 1 oil and other items.</li>
-<li>Bee Cub Workshop 2 gave 1 oil and other items.</li></ul></li>
-<li>Opening certain <a href="gift-boxes.html">Gift Boxes</a>:
-<ul><li>Gilded Gift Box gave 3 oils.</li></ul></li>
-<li>Redeeming certain expired codes:
-<ul><li>2YearsAfterParty (Activated the buff + other stuff).</li>
-<li>2MFavorites (Gave 1 oil + other stuff).</li>
-<li>Discord50k (Activated the buff + other stuff).</li>
-<li>ThatGuyGift (Gave 1 oil + other stuff).</li>
-<li>GravyGoodies (Gave 1 oil + other stuff).</li>
-<li>kotиkbean (Activated the buff + other stuff).</li>
-<li>3YearParty (Gave 1 oil + other stuff).</li>
-<li>SecretProfileCode (Activates the buff and other stuff).</li></ul></li></ul>
-</td></tr></tbody></table>
 
 ## Crafting Uses
 
@@ -323,7 +282,7 @@ Total required for all single-purchase items: 506 **Oils**
 </th>
 <th class="NavCategory">Quest Exclusive
 </th>
-<td class="NavLinks NavLinksBasicEven"><b><img alt="Translator" height="35" src="img/Translator.png" width="35"/> <a href="translator.html">Translator</a> • <img alt="Spirit Petal" height="35" src="img/Spirit_Petal.png" width="35"/> <a href="spirit-petal.html">Spirit Petal</a> • <img alt="Debug Wax" height="35" src="img/Debug_Wax.png" width="35"/> <a href="debug-wax.html">Debug Wax</a> • <img alt="Nectar Tester" height="35" src="img/Nectar_Tester.png" width="35"/> <a href="nectar-tester.html">Nectar Tester</a></b> • <span typeof="mw:Error mw:File"></span> <a href="bbm-s-apology.html">BBM's Apology</a><b></b>
+<td class="NavLinks NavLinksBasicEven"><b><img alt="Translator" height="35" src="img/Translator.png" width="35"/> <a href="translator.html">Translator</a> • <img alt="Spirit Petal" height="35" src="img/Spirit_Petal.png" width="35"/> <a href="spirit-petal.html">Spirit Petal</a> • <img alt="Debug Wax" height="35" src="img/Debug_Wax.png" width="35"/> <a href="debug-wax.html">Debug Wax</a> • <img alt="Nectar Tester" height="35" src="img/Nectar_Tester.png" width="35"/> <a href="nectar-tester.html">Nectar Tester</a></b> • <span typeof="mw:Error mw:File"></span> <b></b>
 </td></tr>
 <tr>
 <th class="NavCategory">Beesmas

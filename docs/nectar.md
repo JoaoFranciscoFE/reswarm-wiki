@@ -15,7 +15,7 @@ Datamined information: The scaling of all Nectars' buffs. — December 19th, 202
 
 <figure class="thumb" style="width: 162px" typeof="mw:File/Thumb">  <figcaption class="thumbcaption"> <p class="caption">The <a href="nectar-condenser.html">Nectar Condenser</a> located in the 35 Bee zone</p> </figcaption> </figure>
 
-**Nectar** is a set of [buffs](buffs-debuffs.md) that were added in the [2021-12-26 update](updates.md#2021-12-26). It is granted from [planters](planter.md), either through harvesting them, having [bees](bees.md) sip from planters, using [Dapper Bear](dapper-bear.md)'s [Samovar](samovar.md) during Beesmas, or using a nectar vial item. Some [quests](quests.md) require a certain amount and type of nectar to be collected. All sources of getting Nectar can contribute to those quests (except collecting Nectar from the Nectar Pot).
+**Nectar** is a set of [buffs](buffs-debuffs.md) that were added in the 2021-12-26 update. It is granted from [planters](planter.md), either through harvesting them, having [bees](bees.md) sip from planters, using [Dapper Bear](dapper-bear.md)'s [Samovar](samovar.md) during Beesmas, or using a nectar vial item. Some [quests](quests.md) require a certain amount and type of nectar to be collected. All sources of getting Nectar can contribute to those quests (except collecting Nectar from the Nectar Pot).
 
 There are five types of Nectar: Invigorating, Satisfying, Motivating, Comforting and Refreshing.
 

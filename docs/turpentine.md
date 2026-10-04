@@ -15,7 +15,7 @@ CAP
 
 25
 
-**Turpentine** is a craftable inventory [item](items.md) added in the [2021-12-26 update](updates.md#2021-12-26). It is used to remove all [waxes](waxes.md) from a [Beequip](beequip.md).
+**Turpentine** is a craftable inventory [item](items.md) added in the 2021-12-26 update. It is used to remove all [waxes](waxes.md) from a [Beequip](beequip.md).
 
 **Turpentine** have a maximum cap of 25. Obtaining while having more than 25 turpentines will not add them to the player's inventory unless received through [quests](quests.md), redeeming [codes](codes.md), or purchasing them in the [Robux Shop](robux-shop.md) through limited-time offers.
 
@@ -38,23 +38,6 @@ CAP
 * As a drop from certain Beesmas decorations:
   * Dapper Bear's [Samovar](samovar.md) drops a Turpentine on the 25th use.
   * Completing Robo Party on rank 45 and 50 for the first time gives the player who started it a Turpentine and other rewards.
-
-### Outdated Ways
-
-<table class="mw-collapsible mw-collapsed article-table">
-<caption>
-</caption>
-<tbody><tr>
-<td>
-<ul><li>Opening the <a href="gift-boxes.html">Mondo Gift Box</a> during Beesmas 2021 and beyond gave 1 Turpentine + other items.</li>
-<li>From Purchasing the Hefty Honeyday Bundle in <a href="bee-bear-s-catalog.html">Bee Bear's Catalog</a> (Gave 1 Turpentine + other items).</li>
-<li>Purchasing the Merry Mondo Bundle from Bee Bear’s Catalog gave 1 Turpentine + other items.</li>
-<li>Purchasing the Triumphant Turp Pack from <a href="bee-bear-s-catalog.html">Bee Bear's Catalog</a> gave 1 Turpentine + other items.</li>
-<li>By purchasing certain packs from the Robux Shop.
-<ul><li>Purchasing the Mondo Robo Bundle for <span typeof="mw:Error mw:File"></span>4,500 <span class="color-template color-template-robux color-template-background-clip">Robux</span> gave 1 Turpentine + other items.</li>
-<li>Purchasing the Gifted Giga-Bundle for <span typeof="mw:Error mw:File"></span>4,500 <span class="color-template color-template-robux color-template-background-clip">Robux</span> gave 1 Turpentine + other items.</li>
-<li>Purchasing the Royal Winter Wonder Haul for <span typeof="mw:Error mw:File"></span>4,500 <span class="color-template color-template-robux color-template-background-clip">Robux</span> gave 1 Turpentine + other items.</li></ul></li></ul>
-</td></tr></tbody></table>
 
 ## Crafting uses
 
@@ -209,7 +192,7 @@ Total required for all single-purchase items: 35 **Turpentines**
 </th>
 <th class="NavCategory">Quest Exclusive
 </th>
-<td class="NavLinks NavLinksBasicEven"><b><img alt="Translator" height="35" src="img/Translator.png" width="35"/> <a href="translator.html">Translator</a> • <img alt="Spirit Petal" height="35" src="img/Spirit_Petal.png" width="35"/> <a href="spirit-petal.html">Spirit Petal</a> • <img alt="Debug Wax" height="35" src="img/Debug_Wax.png" width="35"/> <a href="debug-wax.html">Debug Wax</a> • <img alt="Nectar Tester" height="35" src="img/Nectar_Tester.png" width="35"/> <a href="nectar-tester.html">Nectar Tester</a></b> • <span typeof="mw:Error mw:File"></span> <a href="bbm-s-apology.html">BBM's Apology</a><b></b>
+<td class="NavLinks NavLinksBasicEven"><b><img alt="Translator" height="35" src="img/Translator.png" width="35"/> <a href="translator.html">Translator</a> • <img alt="Spirit Petal" height="35" src="img/Spirit_Petal.png" width="35"/> <a href="spirit-petal.html">Spirit Petal</a> • <img alt="Debug Wax" height="35" src="img/Debug_Wax.png" width="35"/> <a href="debug-wax.html">Debug Wax</a> • <img alt="Nectar Tester" height="35" src="img/Nectar_Tester.png" width="35"/> <a href="nectar-tester.html">Nectar Tester</a></b> • <span typeof="mw:Error mw:File"></span> <b></b>
 </td></tr>
 <tr>
 <th class="NavCategory">Beesmas

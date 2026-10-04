@@ -3671,24 +3671,6 @@ Show/hide tables
 
 **There are currently no ways to obtain a **Toy Drum** without trading.**
 
-### Outdated Ways
-
-<table class="mw-collapsible mw-collapsed article-table">
-<caption>
-</caption>
-<tbody><tr>
-<td>*As a reward from the <a href="gift-boxes.html">Tan Gift Box</a>.
-<ul><li>As an item from the Merry Mythic Pack in the <a href="robux-shop.html">Robux Shop</a>.</li>
-<li>Purchasing the Beequip pack in Bee Bear's Catalog gave 1 Toy Drum + Other items.</li>
-<li>Completing <a href="gummy-bear.html">Gummy Bear's</a> Beesmas <a href="quests.html">quest</a> gave 1 Toy Drum + Other items.</li>
-<li>As a reward from the <a href="gift-boxes.html">Obnoxious Gift Box</a>.</li>
-<li>Purchasing the Percusive Bundle from Bee Bear's Catalog gave 1 Toy Drum + Other items.</li>
-<li>Purchasing the Musical Mega-Bundle from <a href="bee-bear-s-catalog.html">Bee Bear's Catalog</a>.</li>
-<li>As a possible drop from the <a href="gift-boxes.html#2024_(Winter)">Aureolin Gift Box</a>.</li>
-<li>As a possible drop from the <a href="stockings.html">Stockings</a>.</li>
-<li>As an item from the Merry Mythic Mondo-Haul in the <a href="robux-shop.html">Robux Shop</a>.</li></ul>
-</td></tr></tbody></table>
-
 ## Trivia
 
 * This is one of three instrumental Beequips.
@@ -3757,7 +3739,7 @@ Show/hide tables
 </th>
 <th class="NavCategory">Quest Exclusive
 </th>
-<td class="NavLinks NavLinksBasicEven"><b><img alt="Translator" height="35" src="img/Translator.png" width="35"/> <a href="translator.html">Translator</a> • <img alt="Spirit Petal" height="35" src="img/Spirit_Petal.png" width="35"/> <a href="spirit-petal.html">Spirit Petal</a> • <img alt="Debug Wax" height="35" src="img/Debug_Wax.png" width="35"/> <a href="debug-wax.html">Debug Wax</a> • <img alt="Nectar Tester" height="35" src="img/Nectar_Tester.png" width="35"/> <a href="nectar-tester.html">Nectar Tester</a></b> • <span typeof="mw:Error mw:File"></span> <a href="bbm-s-apology.html">BBM's Apology</a><b></b>
+<td class="NavLinks NavLinksBasicEven"><b><img alt="Translator" height="35" src="img/Translator.png" width="35"/> <a href="translator.html">Translator</a> • <img alt="Spirit Petal" height="35" src="img/Spirit_Petal.png" width="35"/> <a href="spirit-petal.html">Spirit Petal</a> • <img alt="Debug Wax" height="35" src="img/Debug_Wax.png" width="35"/> <a href="debug-wax.html">Debug Wax</a> • <img alt="Nectar Tester" height="35" src="img/Nectar_Tester.png" width="35"/> <a href="nectar-tester.html">Nectar Tester</a></b> • <span typeof="mw:Error mw:File"></span> <b></b>
 </td></tr>
 <tr>
 <th class="NavCategory">Beesmas

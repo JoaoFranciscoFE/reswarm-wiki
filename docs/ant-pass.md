@@ -19,7 +19,7 @@ CAP
 
 10
 
-An **Ant Pass** is an inventory item that was added in the [2018-07-11 update](updates.md). You must use one in order to participate in the [Ant Challenge](ant-challenge.md). Players can only have a maximum of 10 ant passes in their inventory at a time (unless they had more than 10 passes before the 2019-04-05 update, purchased them from [Robux packs](robux-shop.md), or received them from quests).
+An **Ant Pass** is an inventory item that was added in the 2018-07-11 update. You must use one in order to participate in the [Ant Challenge](ant-challenge.md). Players can only have a maximum of 10 ant passes in their inventory at a time (unless they had more than 10 passes before the 2019-04-05 update, purchased them from [Robux packs](robux-shop.md), or received them from quests).
 
 An ant pass can be used by stepping on the pad in front of the Ant Challenge and pressing "E" on the player's keyboard or by clicking on the prompt.
 
@@ -37,20 +37,6 @@ An ant pass can be used by stepping on the pad in front of the Ant Challenge and
   * At the very back of the [Star Hall](star-hall.md) behind the Supreme Star Amulet Generator.
 * Summoning and defeating a level 4 [Snowbear](snowbear.md) rewards 3 **Ant Passes**.
 * Purchasing the Poinsettia Bundle from [Bee Bear's Catalog](bee-bear-s-catalog.md) for 250 [Snowflakes](snowflake.md) and 25 [Gingerbread Bears](gingerbread-bear.md) gives 5 **Ant Passes** and other items.
-
-### Outdated Methods
-
-<table class="mw-collapsible mw-collapsed article-table">
-<caption>
-</caption>
-<tbody><tr>
-<td>
-<ul><li>Redeeming certain expired codes:
-<ul><li>Oodlesofnoodles (Granted <img alt="Ant Pass" height="25" src="img/Ant_Pass.png" width="25"/>1 <strong class="mw-selflink selflink"><span class="color-template color-template-ant-pass color-template-background-clip">Ant Pass</span></strong> and other stuff).</li>
-<li>ExtraPass (Granted 1 Ant Pass).</li>
-<li>SecretProfilecode (Granted <img alt="Ant Pass" height="25" src="img/Ant_Pass.png" width="25"/>1 <strong class="mw-selflink selflink"><span class="color-template color-template-ant-pass color-template-background-clip">Ant Pass</span></strong> and other stuff).</li></ul></li>
-<li>Finishing <a href="bubble-bee-man.html">Bubble Bee Man's</a> B.B.M. Mission quest rewarded an ant pass.</li></ul>
-</td></tr></tbody></table>
 
 ## Trivia
 
@@ -118,7 +104,7 @@ An ant pass can be used by stepping on the pad in front of the Ant Challenge and
 </th>
 <th class="NavCategory">Quest Exclusive
 </th>
-<td class="NavLinks NavLinksBasicEven"><b><img alt="Translator" height="35" src="img/Translator.png" width="35"/> <a href="translator.html">Translator</a> • <img alt="Spirit Petal" height="35" src="img/Spirit_Petal.png" width="35"/> <a href="spirit-petal.html">Spirit Petal</a> • <img alt="Debug Wax" height="35" src="img/Debug_Wax.png" width="35"/> <a href="debug-wax.html">Debug Wax</a> • <img alt="Nectar Tester" height="35" src="img/Nectar_Tester.png" width="35"/> <a href="nectar-tester.html">Nectar Tester</a></b> • <span typeof="mw:Error mw:File"></span> <a href="bbm-s-apology.html">BBM's Apology</a><b></b>
+<td class="NavLinks NavLinksBasicEven"><b><img alt="Translator" height="35" src="img/Translator.png" width="35"/> <a href="translator.html">Translator</a> • <img alt="Spirit Petal" height="35" src="img/Spirit_Petal.png" width="35"/> <a href="spirit-petal.html">Spirit Petal</a> • <img alt="Debug Wax" height="35" src="img/Debug_Wax.png" width="35"/> <a href="debug-wax.html">Debug Wax</a> • <img alt="Nectar Tester" height="35" src="img/Nectar_Tester.png" width="35"/> <a href="nectar-tester.html">Nectar Tester</a></b> • <span typeof="mw:Error mw:File"></span> <b></b>
 </td></tr>
 <tr>
 <th class="NavCategory">Beesmas

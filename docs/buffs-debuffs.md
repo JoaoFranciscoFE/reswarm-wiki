@@ -1393,7 +1393,7 @@ Buffs that aren't obtained from any other way on this page.
 </td>
 <td><span typeof="mw:Error mw:File"></span>
 </td>
-<td>Claiming a <a href="hive.html">hive</a> during Beesmas, opening the <a href="ornament-presents.html">Mondo Present</a> (Beesmas 2019), opening the <a href="gift-boxes.html">Mondo Gift Box</a> (Beesmas 2020, Beesmas 2021 and Beesmas 2022) and through certain codes.
+<td>Claiming a <a href="hive.html">hive</a> during Beesmas, opening the Mondo Present (Beesmas 2019), opening the <a href="gift-boxes.html">Mondo Gift Box</a> (Beesmas 2020, Beesmas 2021 and Beesmas 2022) and through certain codes.
 </td>
 <td>2x Pollen and Convert Rate
 </td>

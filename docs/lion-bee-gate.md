@@ -33,13 +33,13 @@ This area contains the [Mountain Top Field](mountain-top-field.md), [Mondo Chick
 
 ## Trivia
 
-* As of the [2019-09-28 update](updates.md#2019-09-28), the player will be teleported back to spawn if they manage to bypass the gate, whether if it was by jumping around it or using the [Red Cannon](red-cannon.md) without 25 bees.
+* As of the 2019-09-28 update, the player will be teleported back to spawn if they manage to bypass the gate, whether if it was by jumping around it or using the [Red Cannon](red-cannon.md) without 25 bees.
 * This and the [Ant Gate](ant-gate.md) share a few similarities.
   * They are the only gates that don't have a [quest giver](quest-givers.md) behind them.
     * If one were to count the [Sticker-Seeker Quest Machine](sticker-seeker-quest-machine.md) inside the [Hive Hub Portal](hive-hub.md) past the Ant Gate, or [Gummy Bear](gummy-bear.md), then this would be the only gate that doesn't have a quest giver behind it.
   * They are the only gates that only contain 1 [field](fields.md).
     * If one were to count the [Hub Field](hub-field.md) inside the [Hive Hub Portal](hive-hub.md) past the Ant Gate, then this would be the only gate that contains 1 field.
-* This used to be the final gate accessed in the game, until the Bear Gate was added in the [2018-7-11 update](updates.md).
+* This used to be the final gate accessed in the game, until the Bear Gate was added in the 2018-7-11 update.
 
 <table class="mw-collapsible mw-collapsed NavTable">
 <tbody><tr>
@@ -83,5 +83,5 @@ This area contains the [Mountain Top Field](mountain-top-field.md), [Mondo Chick
 <tr>
 <th class="NavCategory">Event<br/>Locations
 </th>
-<td class="NavLinks NavLinksBasicEven"><b><a href="beesmas-tree.html">Beesmas Tree</a> • <a href="ornament-presents.html">Ornament Presents</a> • <span class="new" data-uncrawlable-url="L3dpa2kvQ29tcHV0ZXI/YWN0aW9uPWVkaXQmcmVkbGluaz0x" title="Computer (page does not exist)">Computer</span> • <a href="gift-boxes.html">Gift Boxes</a> • <a href="honey-wreath.html">Honey Wreath</a> • <a href="stockings.html">Stockings</a> • <a href="gingerbread-house.html">Gingerbread House</a> • <a href="snowbear-summoner.html">Snowbear Summoner</a> • <a href="beesmas-lights.html">Beesmas Lights</a> • <a href="samovar.html">Samovar</a> • <a href="beesmas-feast.html">Beesmas Feast</a> • <a href="onett-s-lid-art.html">Onett's Lid Art</a> • <a href="wind-shrine.html#Galentine_Shrine">Galentine Shrine</a> • <a href="memory-match.html#Winter_Memory_Match">Winter Memory Match</a> • <a href="snow-machine.html">Snow Machine</a> • <a href="honeyday-candles.html">Honeyday Candles</a> • <a href="robo-party-cake.html">Robo Party Cake</a> • <a href="gummy-beacon.html">Gummy Beacon</a> • <a href="naughty-list.html">Naughty List</a></b>
+<td class="NavLinks NavLinksBasicEven"><b><a href="beesmas-tree.html">Beesmas Tree</a> • <span class="new" data-uncrawlable-url="L3dpa2kvQ29tcHV0ZXI/YWN0aW9uPWVkaXQmcmVkbGluaz0x" title="Computer (page does not exist)">Computer</span> • <a href="gift-boxes.html">Gift Boxes</a> • <a href="honey-wreath.html">Honey Wreath</a> • <a href="stockings.html">Stockings</a> • <a href="gingerbread-house.html">Gingerbread House</a> • <a href="snowbear-summoner.html">Snowbear Summoner</a> • <a href="beesmas-lights.html">Beesmas Lights</a> • <a href="samovar.html">Samovar</a> • <a href="beesmas-feast.html">Beesmas Feast</a> • <a href="onett-s-lid-art.html">Onett's Lid Art</a> • <a href="wind-shrine.html#Galentine_Shrine">Galentine Shrine</a> • <a href="memory-match.html#Winter_Memory_Match">Winter Memory Match</a> • <a href="snow-machine.html">Snow Machine</a> • <a href="honeyday-candles.html">Honeyday Candles</a> • <a href="robo-party-cake.html">Robo Party Cake</a> • <a href="gummy-beacon.html">Gummy Beacon</a> • <a href="naughty-list.html">Naughty List</a></b>
 </td></tr></tbody></table>

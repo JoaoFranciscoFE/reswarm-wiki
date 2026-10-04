@@ -13,4 +13,3 @@ If the player has reached the top 10 by the end of the day, they will be awarded
 
 If the player has reached the top 100 by the end of the day, they will be awarded with 25 [Tickets](ticket.md).
 
-

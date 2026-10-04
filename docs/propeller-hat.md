@@ -53,8 +53,8 @@ The **Propeller Hat** is a Hat Accessory that can be bought at the [Pro Shop](pr
 * This along with the [Hiking Boots](hiking-boots.md) are required in order to access [Dapper Bear's Shop](dapper-bear-s-shop.md).
 * This, the [Beekeeper's Mask](beekeeper-s-mask.md), the [Helmet](helmet.md), and the Strange Goggles are the only masks not to be based off bees and NPCs.
 * This hat can be used along with the [Hiking Boots](hiking-boots.md) to access the [Rose Field](rose-field.md) from the [Sunflower Field](sunflower-field.md) and enable access to various [Royal Jelly](royal-jelly.md) tokens around the map.
-* After the [2018-09-10 Update](updates.md#2018-09-10), its stats were nerfed. +15 Jump Power was reduced to +10, and +4 [Movespeed](system-page.md#Movespeed) was removed.
-* Before the [2018-11-25 Update](updates.md#2018-11-25), it cost 3,000,000 honey and no Crafting Materials.
+* After the 2018-09-10 Update, its stats were nerfed. +15 Jump Power was reduced to +10, and +4 [Movespeed](system-page.md#Movespeed) was removed.
+* Before the 2018-11-25 Update, it cost 3,000,000 honey and no Crafting Materials.
 * After the 2018-09-10 update, this became the only hat to grant Jump Power.
 
 <table class="mw-collapsible autocollapse" style="margin:auto; background:#000; font-size: 10pt; border:5px solid #56CB5A; width: 100%; border-radius: 20px; -moz-border-radius: 20px; -webkit-border-radius: 20px; -khtml-border-radius: 20px; -icab-border-radius: 20px; -o-border-radius: 20px;">
@@ -118,7 +118,7 @@ The **Propeller Hat** is a Hat Accessory that can be bought at the [Pro Shop](pr
 </th>
 <th class="NavCategory">Quest Exclusive
 </th>
-<td class="NavLinks NavLinksBasicEven"><b><img alt="Translator" height="35" src="img/Translator.png" width="35"/> <a href="translator.html">Translator</a> • <img alt="Spirit Petal" height="35" src="img/Spirit_Petal.png" width="35"/> <a href="spirit-petal.html">Spirit Petal</a> • <img alt="Debug Wax" height="35" src="img/Debug_Wax.png" width="35"/> <a href="debug-wax.html">Debug Wax</a> • <img alt="Nectar Tester" height="35" src="img/Nectar_Tester.png" width="35"/> <a href="nectar-tester.html">Nectar Tester</a></b> • <span typeof="mw:Error mw:File"></span> <a href="bbm-s-apology.html">BBM's Apology</a><b></b>
+<td class="NavLinks NavLinksBasicEven"><b><img alt="Translator" height="35" src="img/Translator.png" width="35"/> <a href="translator.html">Translator</a> • <img alt="Spirit Petal" height="35" src="img/Spirit_Petal.png" width="35"/> <a href="spirit-petal.html">Spirit Petal</a> • <img alt="Debug Wax" height="35" src="img/Debug_Wax.png" width="35"/> <a href="debug-wax.html">Debug Wax</a> • <img alt="Nectar Tester" height="35" src="img/Nectar_Tester.png" width="35"/> <a href="nectar-tester.html">Nectar Tester</a></b> • <span typeof="mw:Error mw:File"></span> <b></b>
 </td></tr>
 <tr>
 <th class="NavCategory">Beesmas

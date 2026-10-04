@@ -17,7 +17,7 @@ COOLDOWN
 
 > *Were you looking for [Sprout](sprout.md) or [Festive Bean](festive-bean.md)?*
 
-A **Magic Bean** is an inventory item that was added in the [2018-11-25 update](updates.md#2018-11-25). It can be used to summon a random sprout in the [field](fields.md) the player is standing in. When one is planted, a server-wide message will appear saying:
+A **Magic Bean** is an inventory item that was added in the 2018-11-25 update. It can be used to summon a random sprout in the [field](fields.md) the player is standing in. When one is planted, a server-wide message will appear saying:
 🌱{Username} has planted a (Sprout Rarity) Sprout...🌱
 
 ## Ways to Obtain
@@ -84,66 +84,6 @@ A **Magic Bean** is an inventory item that was added in the [2018-11-25 update](
   * Bear Without Despair rewards 10 magic beans and other items.
   * Echoing Call rewards 50 magic beans and other items.
 * As a rare quest reward from [Gifted Riley Bee](gifted-riley-bee.md) and [Gifted Bucko Bee](gifted-bucko-bee.md).
-
-### Outdated Ways
-
-<table class="mw-collapsible mw-collapsed article-table">
-<caption>
-</caption>
-<tbody><tr>
-<td>
-<ul><li>If the player completed <a href="science-bear.html">Science Bear's</a> "Epistemological Endeavor" quest before its nerf in the <a href="updates.html#2019-04-05">2019-04-05 update</a>, they would be rewarded 10 magic beans along with 100 tickets.</li>
-<li>Was a rare drop from a <a href="festive-nymph.html">Festive Nymph</a>.</li>
-<li>Was a rare reward of <a href="brown-bear.html">Brown Bear's</a> former repeatable quests.</li>
-<li>Giving <a href="present.html">presents</a> to certain NPCs during Beesmas 2018:
-<ul><li><a href="black-bear.html">Black Bear</a> gave 1 magic bean and other items.</li>
-<li><a href="onett.html">Onett</a> gave 5 magic beans and other items.</li></ul></li>
-<li>Giving presents to certain NPCs during Beesmas 2020:
-<ul><li><a href="gifted-bucko-bee.html">Gifted Bucko Bee</a> gave 2 magic beans and other items.</li></ul></li>
-<li>Giving presents to certain NPCs during Beesmas 2021:
-<ul><li>Gifted Bucko Bee gave 2 magic beans and other items.</li></ul></li>
-<li>Giving presents to certain NPCs during Beesmas 2022:
-<ul><li>Onett gave 1 magic bean and other items.</li></ul></li>
-<li>Purchasing the Blessed Bean Bundle in <a href="bee-bear-s-catalog.html">Bee Bear's Catalog</a> gave <img alt="Magic Bean" height="25" src="img/Magic_Bean.png" width="25"/>50 <strong class="mw-selflink selflink"><span class="color-template color-template-magic-bean color-template-background-clip">Magic Beans</span></strong> + other items.</li>
-<li>Completing <a href="honey-bee-npc.html">Honey Bee's</a> Beesmas 2022 quest gave <img alt="Magic Bean" height="25" src="img/Magic_Bean.png" width="25"/>9 <strong class="mw-selflink selflink"><span class="color-template color-template-magic-bean color-template-background-clip">Magic Beans</span></strong> + other items.</li>
-<li><a href="bee-bear.html">Bee Bear</a> gave magic beans on the following quests during certain Beesmas years:
-<ul><li>Beesmas 2018:
-<ul><li>Bee-liz Honeydad rewarded 1 magic bean and other items.</li>
-<li>Festive Bee Workshop 1 rewarded 1 magic bean and other items.</li>
-<li>Festive Bee Workshop 2 rewarded 1 magic bean and other items.</li></ul></li>
-<li>Beesmas 2019:
-<ul><li>Naughty Or Nice rewarded 2 magic beans upon receiving the quest.</li>
-<li>A Beesmas Miracle rewarded 3 magic beans and other items.</li>
-<li>Bee Cub Workshop 1 rewarded 3 magic beans and other items.</li>
-<li>Bee Cub Workshop 5 rewarded 5 magic beans and other items.</li></ul></li>
-<li>Beesmas 2020:
-<ul><li><img alt="Present" height="35" src="img/Present.png" width="35"/><a href="present.html"><span class="color-template color-template-present color-template-background-clip">Presents</span></a> to Polar Bear rewarded 1 magic bean and other items.</li>
-<li>Holly Jolly Tokens rewarded 1 magic bean and other items.</li>
-<li>Festive Wreath Workshop 4 rewarded 3 magic beans and other items.</li></ul></li>
-<li>Beesmas 2021:
-<ul><li>The Wonders of Unwrapping rewarded 1 magic bean and other items.</li>
-<li>Puffshrooms for <img alt="Present" height="35" src="img/Present.png" width="35"/><a href="present.html"><span class="color-template color-template-present color-template-background-clip">Presents</span></a> rewarded 3 magic beans and other items.</li>
-<li>Snow Cub Reformation (4/5) rewarded 3 magic beans and other items.</li></ul></li>
-<li>Beesmas 2022:
-<ul><li>Shiverin' in the Snow rewarded 1 magic bean and other items.</li>
-<li>Peppermint Preparation (2/5) rewarded 5 magic beans and other items.</li>
-<li>Peppermint Preparation (4/5) rewarded 5 magic beans and other items.</li></ul></li></ul></li>
-<li>Purchasing certain packs in the <span typeof="mw:Error mw:File"></span><span class="color-template color-template-robux color-template-background-clip">Robux</span> Shop:
-<ul><li>The Sparkly Starter Pack cost 400 robux and gave 5 magic beans and other items.</li>
-<li>The Shining Star Pack cost 2000 robux and gave 25 magic beans and other items.</li>
-<li>The Festive Bee pack cost 1600 robux and gave 30 magic beans and other items.</li>
-<li>The Stocking Stuffer Pack cost 450 robux and gave 5 magic beans and other items.</li>
-<li>The Beginner's Bean Bundle cost 400 robux and gave 25 magic beans and other items.</li>
-<li>The Stocking Suffer Pack cost 400 robux and gave 5 magic beans and other items.</li>
-<li>The Jumbo June Pack cost 1700 robux and gave 25 magic beans and other items.</li>
-<li>Purchasing the Cyber Monday Deal gave 10 magic beans and other items.</li></ul></li>
-<li>Redeeming certain expired codes:
-<ul><li>BloxyCelebration (Gave 1 magic bean and other stuff).</li>
-<li>Breeze (Gave 1 magic bean and other stuff).</li>
-<li>NoobashaBonus (Gave 1 magic bean and other stuff).</li>
-<li>MagicMittens (Gave 1 magic bean and other stuff).</li>
-<li>kotиkbean (Gave 1 magic bean and other stuff).</li></ul></li></ul>
-</td></tr></tbody></table>
 
 ## Crafting Uses
 
@@ -339,7 +279,7 @@ Total required for all single-purchase items: 801 **Magic Beans**
 </th>
 <th class="NavCategory">Quest Exclusive
 </th>
-<td class="NavLinks NavLinksBasicEven"><b><img alt="Translator" height="35" src="img/Translator.png" width="35"/> <a href="translator.html">Translator</a> • <img alt="Spirit Petal" height="35" src="img/Spirit_Petal.png" width="35"/> <a href="spirit-petal.html">Spirit Petal</a> • <img alt="Debug Wax" height="35" src="img/Debug_Wax.png" width="35"/> <a href="debug-wax.html">Debug Wax</a> • <img alt="Nectar Tester" height="35" src="img/Nectar_Tester.png" width="35"/> <a href="nectar-tester.html">Nectar Tester</a></b> • <span typeof="mw:Error mw:File"></span> <a href="bbm-s-apology.html">BBM's Apology</a><b></b>
+<td class="NavLinks NavLinksBasicEven"><b><img alt="Translator" height="35" src="img/Translator.png" width="35"/> <a href="translator.html">Translator</a> • <img alt="Spirit Petal" height="35" src="img/Spirit_Petal.png" width="35"/> <a href="spirit-petal.html">Spirit Petal</a> • <img alt="Debug Wax" height="35" src="img/Debug_Wax.png" width="35"/> <a href="debug-wax.html">Debug Wax</a> • <img alt="Nectar Tester" height="35" src="img/Nectar_Tester.png" width="35"/> <a href="nectar-tester.html">Nectar Tester</a></b> • <span typeof="mw:Error mw:File"></span> <b></b>
 </td></tr>
 <tr>
 <th class="NavCategory">Beesmas

@@ -305,13 +305,13 @@ Gummy Bee likes the [Pineapple Patch](pineapple-patch.md), [Mountain Top Field](
 * There is a model of the Gummy Bee on the [Gummy Bee Egg Claim](gummy-bee-egg-claim.md). Using [gumdrops](gumdrops.md) right after touching it and receiving the message; "The Gummy Bee wants gumdrops" will teleport the player to [Gummy Bear's Lair](gummy-bear-s-lair.md). The player must have the [Goo Hotshot Badge](badges.md#Goo_Badge) to enter the lair, or else there is a message that says "Only Goo Hotshots can hear Gummy Bee...".
 * Gummy Bee is the only [Event bee](bees-event.md) that doesn't have extra body parts.
 * Gummy Bee and [Fireflies](fireflies.md) share the same face, which resembles [Basic Bee's](basic-bee.md) face.
-* The Gummy Bee is the fourth [Event bee](bees-event.md) to be released in an [Update](updates.md).
+* The Gummy Bee is the fourth [Event bee](bees-event.md) to be released in an Update.
   * This bee was also the first bee to ever be a prize for completing the [Quests](quests.md) of a Traveling Bear.
   * It was also the third bee to have been unobtainable for a while.
 * The Gummy Bee, [Bear Bee](bear-bee.md), [Tabby Bee](tabby-bee.md), [Puppy Bee](puppy-bee.md), [Festive Bee](festive-bee.md), [Digital Bee](digital-bee.md), and [Windy Bee](windy-bee.md) are the only Event bees which can be a [First Edition Bee](first-edition-bee.md).
 * This is the only bee that is translucent.
 * The Gummy Bee was once obtainable through completing all 15 quests of [Gummy Bear](gummy-bear.md).
-  * Before the [2019-04-05 Update](updates.md#2019-04-05), the player could buy Gummy Bee in the [Ticket Tent](ticket-tent.md) for 500 [Tickets](ticket.md).
+  * Before the 2019-04-05 Update, the player could buy Gummy Bee in the [Ticket Tent](ticket-tent.md) for 500 [Tickets](ticket.md).
   * [Festive Bee](festive-bee.md) took the place of Gummy Bee in the Ticket Tent after the 2019-04-05 Update.
 * The Gummy Bee and [Diamond Bee](diamond-bee.md) are the only bees that have a sparkle effect that surrounds their bodies.
 * Gummy Bee emits a faint light from its eyes that can be easily seen in dark places.

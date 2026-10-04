@@ -9,7 +9,7 @@ tags: ["Community", "Re://:Swarm"]
 
 <figure class="thumb" style="width: 180px" typeof="mw:File/Thumb"> <img alt="Re://:Swarm game thumbnail" src="images/game-banner.png" width="180"/> <figcaption class="thumbcaption"> <p class="caption">Re://:Swarm's logo.</p> </figcaption> </figure>
 
-**[Bee Swarm Simulator](https://www.roblox.com/games/1537690962/)** is an online multiplayer game made in **[Roblox](https://roblox.fandom.com/wiki/Roblox)** by **[Onett](onett-developer.md)**. The purpose of the game is to hatch [bees](bees.md) to make a swarm, collect [pollen](pollen.md), and make it into [honey](honey.md). The game was in development for about three months[1][2] until it was created on March 21, 2018, and was released to the public on March 23, 2018.
+**[Bee Swarm Simulator](https://www.roblox.com/games/1537690962/)** is an online multiplayer game made in **[Roblox](https://roblox.fandom.com/wiki/Roblox)** by **Onett**. The purpose of the game is to hatch [bees](bees.md) to make a swarm, collect [pollen](pollen.md), and make it into [honey](honey.md). The game was in development for about three months[1][2] until it was created on March 21, 2018, and was released to the public on March 23, 2018.
 
 ***Please note that this page does not need much expansion or information as this wiki is dedicated to the game. Please check out the other pages for more info.***
 
@@ -31,7 +31,7 @@ If a private server becomes inactive by not paying for it, banned players will b
 
 ## Contributors
 
-* [Onett](onett-developer.md) is the owner, main composer, builder, and sole programmer for the game.
+* Onett is the owner, main composer, builder, and sole programmer for the game.
 * [IcedTeaLatte](https://www.roblox.com/users/540648336/profile) voiced the [Honeystorm](honeystorm.md) & [Mythic Meteor Shower](mythic-meteor-shower.md) voicelines, composed [StarHall](music.md), and helped with many of the sound effects in-game.[3][4]
 * [Not\_Nert](https://www.roblox.com/users/87520897/profile) created all [planter](planter.md) models.[5]
 
@@ -67,7 +67,7 @@ If a private server becomes inactive by not paying for it, banned players will b
 <td>Expired Code: ThreeBeeVee
 </td></tr>
 <tr>
-<td><a href="bee-swarm-simulator-club.html">BSS Club</a> hit 15 million members
+<td>BSS Club hit 15 million members
 </td>
 <td>2024-03-10
 </td>
@@ -189,11 +189,7 @@ Re://:Swarm is the third most visited simulator on Roblox.
 
 ## Thumbnails
 
-
-
 ## Icons
-
-
 
 ## References
 

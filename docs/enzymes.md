@@ -15,7 +15,7 @@ COOLDOWN
 
 10 minutes
 
-**Enzymes** are an inventory item that was added in the [2018-11-25 update](updates.md#2018-11-25). When used, it grants +10% [Instant Conversion](system-page.md#Instant_Conversion) and x1.25 [Convert Rate](system-page.md#Convert_Rate) for 10 minutes when activated. Using another **Enzymes** will not stack them, but will reset the timer. **Enzymes** can also be used for crafting other accessories or items. Using a [Super Smoothie](super-smoothie.md) will override the buff.
+**Enzymes** are an inventory item that was added in the 2018-11-25 update. When used, it grants +10% [Instant Conversion](system-page.md#Instant_Conversion) and x1.25 [Convert Rate](system-page.md#Convert_Rate) for 10 minutes when activated. Using another **Enzymes** will not stack them, but will reset the timer. **Enzymes** can also be used for crafting other accessories or items. Using a [Super Smoothie](super-smoothie.md) will override the buff.
 
 ## Ways to Obtain
 
@@ -75,46 +75,6 @@ COOLDOWN
 * There is an **Enzymes** token in the bottom left corner of [Gummy Bear's Lair](gummy-bear-s-lair.md).
 * Right beside [Night Memory Match](memory-match.md#Night_Memory_Match) inside the [Bear Gate](bear-gate.md).
 * There is an **Enzymes** token in the tunnel that can be accessed through the hole above the [Coconut Dispenser](coconut-dispenser.md).
-
-### Outdated Ways
-
-<table class="mw-collapsible mw-collapsed article-table">
-<caption>
-</caption>
-<tbody><tr>
-<td>
-<ul><li>Giving a <img alt="Present" height="35" src="img/Present.png" width="35"/><a href="present.html"><span class="color-template color-template-present color-template-background-clip">Present</span></a> to certain NPCs.
-<ul><li>Science Bear gave you <img alt="Enzymes" height="25" src="img/Enzymes.png" width="25"/>1 <strong class="mw-selflink selflink"><span class="color-template color-template-enzymes color-template-background-clip">Enzymes</span></strong>, activated the buff as well, and gave other stuff.</li>
-<li><a href="onett.html">Onett</a> activated the buff and gave other boosts and items.</li>
-<li><a href="stick-bug.html">Stick Bug</a> gave <img alt="Enzymes" height="25" src="img/Enzymes.png" width="25"/>3 <strong class="mw-selflink selflink"><span class="color-template color-template-enzymes color-template-background-clip">Enzymes</span></strong> and other items.</li></ul></li>
-<li>Completing <a href="bubble-bee-man.html">Bubble Bee Man's</a> B.B.M. Mission gave <img alt="Enzymes" height="25" src="img/Enzymes.png" width="25"/>1 <strong class="mw-selflink selflink"><span class="color-template color-template-enzymes color-template-background-clip">Enzymes</span></strong>.</li>
-<li>Science Bear's Epistemological Endeavor quest used to give <img alt="Enzymes" height="25" src="img/Enzymes.png" width="25"/>5 <strong class="mw-selflink selflink"><span class="color-template color-template-enzymes color-template-background-clip">Enzymes</span></strong> instead of 4.</li>
-<li>Science Bear's <a href="science-bear.html#Ornament_Quest">ornament quest</a> gave <img alt="Enzymes" height="25" src="img/Enzymes.png" width="25"/>1 <strong class="mw-selflink selflink"><span class="color-template color-template-enzymes color-template-background-clip">Enzymes</span></strong> after completion.</li>
-<li>As a drop from <a href="dapper-bear.html">Dapper Bear's</a> <a href="samovar.html">Samovar</a>. (Appears after every 2nd use and every 5 uses.)</li>
-<li><a href="bee-bear.html">Bee Bear</a> gives enzymes on the following quests:
-<ul><li>Shiverin' In The Snow gives <img alt="Enzymes" height="25" src="img/Enzymes.png" width="25"/>3 <strong class="mw-selflink selflink"><span class="color-template color-template-enzymes color-template-background-clip">Enzymes</span></strong> and other items</li>
-<li>Merry Mechquitos gives <img alt="Enzymes" height="25" src="img/Enzymes.png" width="25"/>5 <strong class="mw-selflink selflink"><span class="color-template color-template-enzymes color-template-background-clip">Enzymes</span></strong> and other items.</li>
-<li>Bee Cub Workshop 3 gave <img alt="Enzymes" height="25" src="img/Enzymes.png" width="25"/>1 <strong class="mw-selflink selflink"><span class="color-template color-template-enzymes color-template-background-clip">Enzymes</span></strong> and other items.</li></ul></li>
-<li>Purchasing certain expired packs in the <a href="robux-shop.html">Robux Shop</a>:
-<ul><li>The Colossal Crafts Pack cost 3400 robux and gave <img alt="Enzymes" height="25" src="img/Enzymes.png" width="25"/>50 <strong class="mw-selflink selflink"><span class="color-template color-template-enzymes color-template-background-clip">Enzymes</span></strong> and other items.</li>
-<li>The Winter Wonder Pack cost 3400 robux and gave <img alt="Enzymes" height="25" src="img/Enzymes.png" width="25"/>60 <strong class="mw-selflink selflink"><span class="color-template color-template-enzymes color-template-background-clip">Enzymes</span></strong> and other items.</li>
-<li>The Merry Mutations Pack cost 1700 robux and gave <img alt="Enzymes" height="25" src="img/Enzymes.png" width="25"/>100 <strong class="mw-selflink selflink"><span class="color-template color-template-enzymes color-template-background-clip">Enzymes</span></strong> and other items.</li>
-<li>The Jumbo June Pack cost 1700 robux and gave <img alt="Enzymes" height="25" src="img/Enzymes.png" width="25"/>25 <strong class="mw-selflink selflink"><span class="color-template color-template-enzymes color-template-background-clip">Enzymes</span></strong> and other items.</li></ul></li>
-<li>Redeeming certain expired codes:
-<ul><li>2YearsAfterParty (Activated the buff + other stuff).</li>
-<li>Discord50k (Activated the buff + other stuff).</li>
-<li>MagicMittens (Activated the buff + other stuff).</li>
-<li>GummySausage (Gave <img alt="Enzymes" height="25" src="img/Enzymes.png" width="25"/>1 <strong class="mw-selflink selflink"><span class="color-template color-template-enzymes color-template-background-clip">Enzymes</span></strong> + other stuff).</li>
-<li>DarzethPack (Gave <img alt="Enzymes" height="25" src="img/Enzymes.png" width="25"/>1 <strong class="mw-selflink selflink"><span class="color-template color-template-enzymes color-template-background-clip">Enzymes</span></strong> + other stuff).</li>
-<li>3YearParty (Gave <img alt="Enzymes" height="25" src="img/Enzymes.png" width="25"/>1 <strong class="mw-selflink selflink"><span class="color-template color-template-enzymes color-template-background-clip">Enzymes</span></strong> + other stuff).</li></ul></li>
-<li>Buying the Pinecone Bundle from the <a href="bee-bear-s-catalog.html">Bee Bear's Catalog</a> gives <img alt="Enzymes" height="25" src="img/Enzymes.png" width="25"/>30 <strong class="mw-selflink selflink"><span class="color-template color-template-enzymes color-template-background-clip">Enzymes</span></strong> + other stuff.</li>
-<li>Purchasing the Brass Bundle in Bee Bear's Catalog gives <img alt="Enzymes" height="25" src="img/Enzymes.png" width="25"/>15 <strong class="mw-selflink selflink"><span class="color-template color-template-enzymes color-template-background-clip">Enzymes</span></strong> and other items.</li>
-<li>Opening certain <a href="gift-boxes.html">gift boxes</a>:
-<ul><li>The Soft Gift Box gave <img alt="Enzymes" height="25" src="img/Enzymes.png" width="25"/>2 <strong class="mw-selflink selflink"><span class="color-template color-template-enzymes color-template-background-clip">Enzymes</span></strong> + other items.</li>
-<li>The Brass Gift Box gave <img alt="Enzymes" height="25" src="img/Enzymes.png" width="25"/>20 <strong class="mw-selflink selflink"><span class="color-template color-template-enzymes color-template-background-clip">Enzymes</span></strong> + other items.</li>
-<li>The Beige Gift Box gave <img alt="Enzymes" height="25" src="img/Enzymes.png" width="25"/>3 <strong class="mw-selflink selflink"><span class="color-template color-template-enzymes color-template-background-clip">Enzymes</span></strong> + other items.</li>
-<li>The Earthen Gift Box gave <img alt="Enzymes" height="25" src="img/Enzymes.png" width="25"/>10 <strong class="mw-selflink selflink"><span class="color-template color-template-enzymes color-template-background-clip">Enzymes</span></strong> + other items.</li></ul></li></ul>
-</td></tr></tbody></table>
 
 ## Crafting Uses
 
@@ -320,7 +280,7 @@ Total required for all single-purchase items: 480 **Enzymes**
 </th>
 <th class="NavCategory">Quest Exclusive
 </th>
-<td class="NavLinks NavLinksBasicEven"><b><img alt="Translator" height="35" src="img/Translator.png" width="35"/> <a href="translator.html">Translator</a> • <img alt="Spirit Petal" height="35" src="img/Spirit_Petal.png" width="35"/> <a href="spirit-petal.html">Spirit Petal</a> • <img alt="Debug Wax" height="35" src="img/Debug_Wax.png" width="35"/> <a href="debug-wax.html">Debug Wax</a> • <img alt="Nectar Tester" height="35" src="img/Nectar_Tester.png" width="35"/> <a href="nectar-tester.html">Nectar Tester</a></b> • <span typeof="mw:Error mw:File"></span> <a href="bbm-s-apology.html">BBM's Apology</a><b></b>
+<td class="NavLinks NavLinksBasicEven"><b><img alt="Translator" height="35" src="img/Translator.png" width="35"/> <a href="translator.html">Translator</a> • <img alt="Spirit Petal" height="35" src="img/Spirit_Petal.png" width="35"/> <a href="spirit-petal.html">Spirit Petal</a> • <img alt="Debug Wax" height="35" src="img/Debug_Wax.png" width="35"/> <a href="debug-wax.html">Debug Wax</a> • <img alt="Nectar Tester" height="35" src="img/Nectar_Tester.png" width="35"/> <a href="nectar-tester.html">Nectar Tester</a></b> • <span typeof="mw:Error mw:File"></span> <b></b>
 </td></tr>
 <tr>
 <th class="NavCategory">Beesmas

@@ -35,41 +35,6 @@ An **Atomic Treat**, when fed to a [bee](bees.md), raises its [bond](bond.md) by
 * Completing [Bee Bear](bee-bear.md)’s “Searching For Snowflakes” quest rewards 1 **Atomic Treat** and other items.
 * Purchasing the Radioactive Bundle in [Bee Bear's Catalog](bee-bear-s-catalog.md) for 150 [Snowflakes](snowflake.md) and 150 [Gingerbread Bears](gingerbread-bear.md) grants5 **Atomic Treats** and other items.
 
-### Outdated Ways
-
-<table class="mw-collapsible mw-collapsed article-table">
-<caption>
-</caption>
-<tbody><tr>
-<td>
-<ul><li>From purchasing certain bundles from <a href="bee-bear-s-catalog.html">Bee Bear's Catalog</a>:
-<ul><li>Purchasing the Tempting Treat Pack for <img alt="Gingerbread Bear" height="25" src="img/Gingerbread_Bear.png" width="25"/>10 <a href="gingerbread-bear.html"><span class="color-template color-template-gingerbread-bear color-template-background-clip">Gingerbread Bears</span></a> during Beesmas 2024 granted <img alt="Atomic Treat" height="25" src="img/Atomic_Treat.png" width="25"/>3 <strong class="mw-selflink selflink"><span class="color-template color-template-atomic-treat color-template-background-clip">Atomic Treats</span></strong> and other items.</li>
-<li>Purchasing it for the price of <img alt="Snowflake" height="25" src="img/Snowflake.png" width="25"/>1,000 <a href="snowflake.html"><span class="color-template color-template-snowflake color-template-background-clip">Snowflakes</span></a> during Beesmas 2021.</li>
-<li>Purchasing it for the price of <img alt="Gingerbread Bear" height="25" src="img/Gingerbread_Bear.png" width="25"/>10 <a href="gingerbread-bear.html"><span class="color-template color-template-gingerbread-bear color-template-background-clip">Gingerbread Bears</span></a> during Beesmas 2020.</li></ul></li>
-<li>Completing <span class="new" data-uncrawlable-url="L3dpa2kvRGlnaXRhbF9CZWVfKE5QQyk/YWN0aW9uPWVkaXQmcmVkbGluaz0x" title="Digital Bee (NPC) (page does not exist)">Digital Bee</span>'s final puzzle in the <i><span class="new" data-uncrawlable-url="L3dpa2kvUmVhZHlfUGxheWVyX1R3bz9hY3Rpb249ZWRpdCZyZWRsaW5rPTE=" title="Ready Player Two (page does not exist)">Ready Player 2 Event</span></i>.</li>
-<li>As a reward from certain quests:
-<ul><li>Completing Bee Bear's "Retro Ho Ho" quest from Winter 2024 rewarded <img alt="Atomic Treat" height="25" src="img/Atomic_Treat.png" width="25"/>1 <strong class="mw-selflink selflink"><span class="color-template color-template-atomic-treat color-template-background-clip">Atomic Treat</span></strong> and other items.</li>
-<li>Completing Bee Bear's "Peppermint Preparation (4/5)" quest from Beesmas 2022 rewarded <img alt="Atomic Treat" height="25" src="img/Atomic_Treat.png" width="25"/>3 <strong class="mw-selflink selflink"><span class="color-template color-template-atomic-treat color-template-background-clip">Atomic Treats</span></strong> and other items.</li>
-<li>Completing Bee Bear's 'Snow Cub Reformation (5/5)' quest from Beesmas 2021 rewarded <img alt="Atomic Treat" height="25" src="img/Atomic_Treat.png" width="25"/>3 <strong class="mw-selflink selflink"><span class="color-template color-template-atomic-treat color-template-background-clip">Atomic Treats</span></strong> and other items.</li>
-<li>Completing Bee Bear's "A Beesmas Miracle" quest from Beesmas 2021 rewarded <img alt="Atomic Treat" height="25" src="img/Atomic_Treat.png" width="25"/>1 <strong class="mw-selflink selflink"><span class="color-template color-template-atomic-treat color-template-background-clip">Atomic Treat</span></strong> and other items.</li>
-<li>Completing Bee Bear's "Bee Cub Workshop 5" quest from Beesmas 2019 rewarded <img alt="Atomic Treat" height="25" src="img/Atomic_Treat.png" width="25"/>1 <strong class="mw-selflink selflink"><span class="color-template color-template-atomic-treat color-template-background-clip">Atomic Treat</span></strong> and other items.</li>
-<li>Brown Bear's Beesmas 2022 quest rewards <img alt="Atomic Treat" height="25" src="img/Atomic_Treat.png" width="25"/>1 <strong class="mw-selflink selflink"><span class="color-template color-template-atomic-treat color-template-background-clip">Atomic Treat</span></strong>.</li></ul></li>
-<li>Opening the <a href="ornament-presents.html">Shady Present</a> rewarded <img alt="Atomic Treat" height="25" src="img/Atomic_Treat.png" width="25"/>5 <strong class="mw-selflink selflink"><span class="color-template color-template-atomic-treat color-template-background-clip">Atomic Treats</span></strong> and other items.</li>
-<li>Opening the Mondo Present rewarded <img alt="Atomic Treat" height="25" src="img/Atomic_Treat.png" width="25"/>6 <strong class="mw-selflink selflink"><span class="color-template color-template-atomic-treat color-template-background-clip">Atomic Treats</span></strong> and other items.</li>
-<li>Redeeming certain expired <a href="codes.html">codes</a>:
-<ul><li>3YearParty (Gave <img alt="Atomic Treat" height="25" src="img/Atomic_Treat.png" width="25"/>1 <strong class="mw-selflink selflink"><span class="color-template color-template-atomic-treat color-template-background-clip">Atomic Treat</span></strong> + other stuff).</li>
-<li>BillionVisits (Gave <img alt="Atomic Treat" height="25" src="img/Atomic_Treat.png" width="25"/>1 <strong class="mw-selflink selflink"><span class="color-template color-template-atomic-treat color-template-background-clip">Atomic Treat</span></strong> + other stuff).</li>
-<li>"FourYearFiesta" (Gave <img alt="Atomic Treat" height="25" src="img/Atomic_Treat.png" width="25"/>1 <strong class="mw-selflink selflink"><span class="color-template color-template-atomic-treat color-template-background-clip">Atomic Treat</span></strong> + other stuff).</li></ul></li>
-<li>Purchasing certain offers in the Robux Shop:
-<ul><li>Purchasing the Merry Mutations Pack for <span typeof="mw:Error mw:File"></span>1,700 <span class="color-template color-template-robux color-template-background-clip">Robux</span> granted <img alt="Atomic Treat" height="25" src="img/Atomic_Treat.png" width="25"/>5 <strong class="mw-selflink selflink"><span class="color-template color-template-atomic-treat color-template-background-clip">Atomic Treats</span></strong> and other items.</li>
-<li>Purchasing the Merry Mythic Pack for <span typeof="mw:Error mw:File"></span>800 <span class="color-template color-template-robux color-template-background-clip">Robux</span> granted <img alt="Atomic Treat" height="25" src="img/Atomic_Treat.png" width="25"/>5 <strong class="mw-selflink selflink"><span class="color-template color-template-atomic-treat color-template-background-clip">Atomic Treats</span></strong> and other items.</li>
-<li>Purchasing the Cyber Monday Pack for <span typeof="mw:Error mw:File"></span>800 <span class="color-template color-template-robux color-template-background-clip">Robux</span> granted <img alt="Atomic Treat" height="25" src="img/Atomic_Treat.png" width="25"/>1 <strong class="mw-selflink selflink"><span class="color-template color-template-atomic-treat color-template-background-clip">Atomic Treat</span></strong> and other items.</li>
-<li>Purchasing the Cyber Monday Special for <span typeof="mw:Error mw:File"></span>800 <span class="color-template color-template-robux color-template-background-clip">Robux</span> granted <img alt="Atomic Treat" height="25" src="img/Atomic_Treat.png" width="25"/>1 <strong class="mw-selflink selflink"><span class="color-template color-template-atomic-treat color-template-background-clip">Atomic Treat</span></strong> and other items.</li></ul></li>
-<li>Completing <a href="gummy-bear.html">Gummy Bear</a>'s <a href="gummy-beacon.html">Gummy Beacon</a> quest rewarded <img alt="Atomic Treat" height="25" src="img/Atomic_Treat.png" width="25"/>10 <strong class="mw-selflink selflink"><span class="color-template color-template-atomic-treat color-template-background-clip">Atomic Treats</span></strong> and other items.</li>
-<li>Opening the <a href="gift-boxes.html">Emerald Gift Box</a> rewarded <img alt="Atomic Treat" height="25" src="img/Atomic_Treat.png" width="25"/>1 <strong class="mw-selflink selflink"><span class="color-template color-template-atomic-treat color-template-background-clip">Atomic Treat</span></strong> and other items.</li>
-<li>Giving Science Bear a present rewarded <img alt="Atomic Treat" height="25" src="img/Atomic_Treat.png" width="25"/>1 <strong class="mw-selflink selflink"><span class="color-template color-template-atomic-treat color-template-background-clip">Atomic Treat</span></strong> and other items.</li></ul>
-</td></tr></tbody></table>
-
 <table class="mw-collapsible mw-collapsed NavTable">
 <tbody><tr>
 <th class="NavTitle" colspan="3">Inventory
@@ -124,7 +89,7 @@ An **Atomic Treat**, when fed to a [bee](bees.md), raises its [bond](bond.md) by
 </th>
 <th class="NavCategory">Quest Exclusive
 </th>
-<td class="NavLinks NavLinksBasicEven"><b><img alt="Translator" height="35" src="img/Translator.png" width="35"/> <a href="translator.html">Translator</a> • <img alt="Spirit Petal" height="35" src="img/Spirit_Petal.png" width="35"/> <a href="spirit-petal.html">Spirit Petal</a> • <img alt="Debug Wax" height="35" src="img/Debug_Wax.png" width="35"/> <a href="debug-wax.html">Debug Wax</a> • <img alt="Nectar Tester" height="35" src="img/Nectar_Tester.png" width="35"/> <a href="nectar-tester.html">Nectar Tester</a></b> • <span typeof="mw:Error mw:File"></span> <a href="bbm-s-apology.html">BBM's Apology</a><b></b>
+<td class="NavLinks NavLinksBasicEven"><b><img alt="Translator" height="35" src="img/Translator.png" width="35"/> <a href="translator.html">Translator</a> • <img alt="Spirit Petal" height="35" src="img/Spirit_Petal.png" width="35"/> <a href="spirit-petal.html">Spirit Petal</a> • <img alt="Debug Wax" height="35" src="img/Debug_Wax.png" width="35"/> <a href="debug-wax.html">Debug Wax</a> • <img alt="Nectar Tester" height="35" src="img/Nectar_Tester.png" width="35"/> <a href="nectar-tester.html">Nectar Tester</a></b> • <span typeof="mw:Error mw:File"></span> <b></b>
 </td></tr>
 <tr>
 <th class="NavCategory">Beesmas

@@ -137,56 +137,6 @@ Royal Jelly does **NOT** necessarily turn a bee into a better rarity. For exampl
 * Need 30 bees plus at [night](day-night-cycle.md):
   1. On top of the 30-bee area in the front of [Bubble Bee Man](bubble-bee-man.md) (Parkour starting at the right of the big platform from the entrance where Onett and the lid are on there).
 
-### Outdated Ways
-
-<table class="mw-collapsible mw-collapsed article-table">
-<caption>
-</caption>
-<tbody><tr>
-<td>
-<ul><li>Redeeming certain expired codes:
-<ul><li>Soup (Granted 1 Royal Jelly + other stuff).</li>
-<li>Change (Granted 1 Royal Jelly).</li>
-<li>Friday (Granted 1 Royal Jelly + other stuff).</li>
-<li>AccentMaster (Granted 1 Royal Jelly + other stuff)</li>
-<li>JellyHill (Granted 1 Royal Jelly + other stuff).</li>
-<li>Unity (Granted 1 Royal Jelly + other stuff).</li>
-<li>100mvisits (Granted 1 Royal Jelly + other stuff).</li>
-<li>ClubJellies (Granted 3 Royal Jellies).</li>
-<li>ThnxCyaBoost (Granted 1 Royal Jelly + other stuff).</li>
-<li>Shutdown (Granted 1 Royal Jelly + other stuff).</li>
-<li>1MoreTime (Granted 1 Royal Jelly + other stuff).</li>
-<li>ClubSnacks (Granted 1 Royal Jelly + other stuff).</li>
-<li>SaleEnd (Granted 1 Royal Jelly + other stuff).</li>
-<li>RoyalRobzi (Granted 1 Royal Jelly + other stuff).</li>
-<li>Summer (Granted 1 Royal Jelly + other stuff).</li>
-<li>Noobasha+ (Granted 1 Royal Jelly + other stuff).</li>
-<li>Berlin (Granted 1 Royal Jelly + other stuff).</li>
-<li>SunBearSendoff (Granted 1 Royal Jelly + other stuff).</li>
-<li>TrickOrTreat (Granted 1 Royal Jelly + other stuff).</li>
-<li>Elladiely (Granted 1 Royal Jelly + other stuff).</li>
-<li>1mFavorites (Granted 1 Royal Jelly + other stuff).</li>
-<li>SunSample (Granted 1 Royal Jelly).</li>
-<li>MoonMiracle (Granted 1 Royal Jelly + other stuff).</li>
-<li>TeraTreasure (Granted 1 Royal Jelly + other stuff).</li>
-<li>Crafty (Granted 1 Royal Jelly + other stuff).</li>
-<li>BeeMine (Granted 1 Royal Jelly + other stuff).</li>
-<li>300MVisits (Granted 1 Royal Jelly + other stuff).</li>
-<li>2MFavorites (Granted 1 Royal Jelly + other stuff).</li>
-<li>ClubBasket (Granted 1 Royal Jelly + other stuff).</li>
-<li>WikiHonor (Granted 1 Royal Jelly + other stuff).</li>
-<li>JollyJelly (Granted 1 Royal Jelly + other stuff).</li>
-<li>4MilMembers (Granted 1 Royal Jelly + other stuff).</li>
-<li>Tornado (Granted 1 Royal Jelly + other stuff).</li>
-<li>WinterEnds (Granted 1 Royal Jelly + other stuff).</li></ul></li>
-<li>As a drop from the <a href="stockings.html">Stockings</a>.</li>
-<li>Purchasing from Bee Bear’s Catalog for 10 <a href="snowflake.html">Snowflakes</a> (one time purchase).</li>
-<li>Opening the Beige <a href="gift-boxes.html">Gift Box</a> gave 5 Royal Jelly + other items.</li>
-<li>Opening the <a href="ornament-presents.html">Colorful Present</a>.</li>
-<li>Opening the Soft Gift Box gave 6 Royal Jelly + other items.</li>
-<li>To the left of the Mythic Present (Beesmas 2019)</li></ul>
-</td></tr></tbody></table>
-
 ## Star Jelly
 
 Star Jelly turns a bee into a random gifted bee, with the same rarity chances as normal Royal Jellies.
@@ -232,25 +182,6 @@ Star Jelly turns a bee into a random gifted bee, with the same rarity chances as
 * On top of the blender at [Badge Bearer's Guild](badge-bearer-s-guild.md).
 * In front of the big hive at the [Badge Bearer's Guild](badge-bearer-s-guild.md) Ace Shop.
 * Behind the glass wall in the [Blue Maze](mazes.md#Blue_Maze) that can be accessed by going through the wall behind the [Petal Shop](petal-shop.md).
-
-### Outdated Ways
-
-<table class="mw-collapsible mw-collapsed article-table">
-<caption>
-</caption>
-<tbody><tr>
-<td>
-<ul><li>Completing all of <span class="new" data-uncrawlable-url="L3dpa2kvRGlnaXRhbF9CZWVfKE5QQyk/YWN0aW9uPWVkaXQmcmVkbGluaz0x" title="Digital Bee (NPC) (page does not exist)">Digital Bee's</span> quests during the <span class="new" data-uncrawlable-url="L3dpa2kvUmVhZHlfUGxheWVyX1R3bz9hY3Rpb249ZWRpdCZyZWRsaW5rPTE=" title="Ready Player Two (page does not exist)">Ready Player 2</span> event.</li>
-<li>Purchasing from Bee Bear’s Catalog for <img alt="Snowflake" height="25" src="img/Snowflake.png" width="25"/>500 <a href="snowflake.html"><span class="color-template color-template-snowflake color-template-background-clip">Snowflakes</span></a> (one time purchase).</li>
-<li>Joining the game at the Honeyday event after Onett's apology for making the Beesmas 2020 event late. If the player joined when the update was announced and the server shut down immediately afterwards, the cutscene would reappear and the player would get two star jellies instead.</li>
-<li>By purchasing the Star Jelly in Bee Bear's Catalog.</li>
-<li>As a reward from <a href="memory-match.html#Winter_Memory_Match">Winter Memory Match.</a></li>
-<li>Chance to be obtained from <a href="onett-s-lid-art.html">Onett's Lid Art</a>.</li>
-<li>Opening certain <a href="gift-boxes.html">Gift Boxes</a>:
-<ul><li>The Midnight Gift Box gives 1 Star Jelly + other stuff.</li>
-<li>The Pristine Gift Box gives 15 Star Jelly + other stuff.</li></ul></li>
-<li>When joining the game during Beesmas 2020, 2021, 2022 and 2024, Onett would give a Star Jelly and other items.</li></ul>
-</td></tr></tbody></table>
 
 ## Specific Bee Jelly Variants
 
@@ -718,7 +649,7 @@ Total required for all single-purchase items: 35 Star Jellies
 </th>
 <th class="NavCategory">Quest Exclusive
 </th>
-<td class="NavLinks NavLinksBasicEven"><b><img alt="Translator" height="35" src="img/Translator.png" width="35"/> <a href="translator.html">Translator</a> • <img alt="Spirit Petal" height="35" src="img/Spirit_Petal.png" width="35"/> <a href="spirit-petal.html">Spirit Petal</a> • <img alt="Debug Wax" height="35" src="img/Debug_Wax.png" width="35"/> <a href="debug-wax.html">Debug Wax</a> • <img alt="Nectar Tester" height="35" src="img/Nectar_Tester.png" width="35"/> <a href="nectar-tester.html">Nectar Tester</a></b> • <span typeof="mw:Error mw:File"></span> <a href="bbm-s-apology.html">BBM's Apology</a><b></b>
+<td class="NavLinks NavLinksBasicEven"><b><img alt="Translator" height="35" src="img/Translator.png" width="35"/> <a href="translator.html">Translator</a> • <img alt="Spirit Petal" height="35" src="img/Spirit_Petal.png" width="35"/> <a href="spirit-petal.html">Spirit Petal</a> • <img alt="Debug Wax" height="35" src="img/Debug_Wax.png" width="35"/> <a href="debug-wax.html">Debug Wax</a> • <img alt="Nectar Tester" height="35" src="img/Nectar_Tester.png" width="35"/> <a href="nectar-tester.html">Nectar Tester</a></b> • <span typeof="mw:Error mw:File"></span> <b></b>
 </td></tr>
 <tr>
 <th class="NavCategory">Beesmas

@@ -1794,7 +1794,7 @@ The following is a list of all of the **items** in [Re://:Swarm](re-swarm.md).
 </td>
 <td>None
 </td>
-<td>Very rare chance from <a href="ability-tokens.html#Festive_Gift">Festive Gift</a>, certain <a href="ornament-presents.html">Ornament Presents</a>, gift boxes and packs during Beesmas.
+<td>Very rare chance from <a href="ability-tokens.html#Festive_Gift">Festive Gift</a>, certain Ornament Presents, gift boxes and packs during Beesmas.
 </td></tr>
 <tr>
 <td><figure class="mw-halign-center" typeof="mw:Error mw:File"><figcaption>thumbs</figcaption></figure><div style="text-align: center;"><a href="cloud-vial.html"><span class="color-template color-template-cloud-vial color-template-background-clip">Cloud Vial</span></a>
@@ -2495,58 +2495,3 @@ The following is a list of all of the **items** in [Re://:Swarm](re-swarm.md).
 </td>
 </tr>
 </tbody></table>
-
-### Removed
-
-<table class="article-table">
-<tbody><tr>
-<th style="text-align: center">Item
-</th>
-<th style="width:30%">Use
-</th>
-<th style="width:27%">Cost
-</th>
-<th>Source
-</th></tr>
-<tr>
-<td><figure class="mw-halign-center" typeof="mw:Error mw:File"><figcaption></figcaption></figure><div style="text-align: center;"><a href="eviction.html"><span class="color-template color-template-eviction">Eviction</span></a>
-</div></td>
-<td>Removes a bee in your hive.
-</td>
-<td><img alt="Honey" height="25" src="img/Honey.png" width="25"/>50,000 <a href="honey.html"><span class="color-template color-template-honey">Honey</span></a>
-</td>
-<td><a href="mountain-top-shop.html">Mountain Top Shop</a>, one of <a href="bubble-bee-man.html">Bubble Bee Man</a>’s quests (Permanently Unobtainable)
-</td></tr>
-<tr>
-<td><figure class="mw-halign-center" typeof="mw:Error mw:File"><figcaption>thumbs</figcaption></figure><div style="text-align: center;"><span class="new" data-uncrawlable-url="L3dpa2kvUGxhc3RpY19FZ2c/YWN0aW9uPWVkaXQmcmVkbGluaz0x" title="Plastic Egg (page does not exist)"><span class="color-template color-template-plastic-egg color-template-background-clip">Plastic Egg</span></span>
-</div></td>
-<td>Turn in 3 to Brown Bear for a prize!
-</td>
-<td>None
-</td>
-<td>Around the <a href="starter-zone.html">Starter Zone</a> (Currently unobtainable)
-</td></tr>
-<tr>
-<td><figure class="mw-halign-center" typeof="mw:Error mw:File"><figcaption></figcaption></figure><div style="text-align: center;"><span class="new" data-uncrawlable-url="L3dpa2kvNy1Qcm9uZ2VkX0NvZz9hY3Rpb249ZWRpdCZyZWRsaW5rPTE=" title="7-Pronged Cog (page does not exist)"><span class="color-template color-template-7-pronged-cog color-template-background-clip">7-Pronged Cog</span></span>
-</div></td>
-<td>A component used in mysterious electronics.
-</td>
-<td>None
-</td>
-<td>Redeeming certain <a href="codes.html">Codes</a>
-</td></tr>
-<tr>
-<td><figure class="mw-halign-center" typeof="mw:Error mw:File"><figcaption></figcaption></figure><div style="text-align: center;"><span class="new" data-uncrawlable-url="L3dpa2kvU3RyYW5nZV9Hb2dnbGVzP2FjdGlvbj1lZGl0JnJlZGxpbms9MQ==" title="Strange Goggles (page does not exist)">Strange Goggles</span>
-</div></td>
-<td>This futuristic looking headset doesn't seem to do very much...
-<ul><li>+77 <a href="system-page.html#Capacity">Capacity</a></li>
-<li>+7% <a href="system-page.html#Defense">Defense</a></li></ul>
-</td>
-<td><img alt="Honey" height="25" src="img/Honey.png" width="25"/>77 <a href="honey.html"><span class="color-template color-template-honey">Honey</span></a><br/>
-<p><img alt="Micro-Converter" height="25" src="img/Micro-Converter.png" width="25"/>1 <a href="micro-converter.html"><span class="color-template color-template-micro-converter color-template-background-clip">Micro-Converter</span></a><br/>
-<span typeof="mw:Error mw:File"></span>7 <span class="new" data-uncrawlable-url="L3dpa2kvNy1Qcm9uZ2VkX0NvZz9hY3Rpb249ZWRpdCZyZWRsaW5rPTE=" title="7-Pronged Cog (page does not exist)"><span class="color-template color-template-7-pronged-cog color-template-background-clip">7-Pronged Cogs</span></span>
-</p>
-</td>
-<td><a href="noob-shop.html">Noob Shop</a>
-</td></tr></tbody></table>
-

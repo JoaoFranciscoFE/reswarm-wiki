@@ -7,7 +7,7 @@ tags: ["Mechanics"]
 
 <figure class="thumb" style="width: 180px" typeof="mw:File/Thumb">  <figcaption class="thumbcaption"> <p class="caption">Two players trading in the trading menu.</p> </figcaption> </figure>
 
-**Trading** is a mechanic added in the [2024-01-12 update](updates.md), which allows players to trade [Beequips](beequip.md), [Cub Buddy Skins](cub-buddy.md) and [stickers](sticker.md).
+**Trading** is a mechanic added in the 2024-01-12 update, which allows players to trade [Beequips](beequip.md), [Cub Buddy Skins](cub-buddy.md) and [stickers](sticker.md).
 
 Players may request a trade from another player using the trade request menu, accessible in the [settings menu](system-page.md), or by accepting the prompt shown when walking over the requested player's hive. If the requested player accepts the trade, a new menu will pop up, where both players can add or remove an item by interacting with the button in the top left corner of the item. When ready, both players select the accept button before waiting for a length of time dependant on the total value of the trade. Once the time is over, the trade menu closes, and both players receive their items and get taken to the items' stats. If one of the players instead decides to cancel the trade, both players keep their items, and the trade menu closes before a popup appears telling both players that the trade has been cancelled.
 
@@ -32,7 +32,7 @@ If a player is unable to receive trading requests, the requester will receive on
 
 There are also many other notifications that can pop up, which can be viewed below.
 
-[Onett](onett-developer.md) may decide to disable trading for any number of reasons for a period of time. During this period, no player can request a trade or use the [Public Sticker Board](public-sticker-board.md). This has been observed a number of times:
+Onett may decide to disable trading for any number of reasons for a period of time. During this period, no player can request a trade or use the [Public Sticker Board](public-sticker-board.md). This has been observed a number of times:
 
 * Trading was disabled for short periods to fix bugs when it was first introduced, on January 13 and January 16, 2024.
 * The first long period started on September 26, 2025, and was fully re-enabled on December 28, 2025, lasting 93 days.
@@ -51,11 +51,7 @@ Onett may also decide to restrict trading items that were created or traded duri
 
 ### General
 
-
-
 ### Notifications
-
-
 
 ## Trivia
 

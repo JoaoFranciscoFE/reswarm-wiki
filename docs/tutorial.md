@@ -325,27 +325,7 @@ The **Tutorial**, also nicknamed **Help**, gives information on the game and its
 
 ### Oh, also...
 
-### Page 37 (Removed)
-
-*You can enter Promo-Codes in the ⚙ System Menu! As an example, solve this riddle:*
-
-(Note: This tutorial page has been removed. It was added in as an addition to the Ready Player Two event.)
-
-<figure class="mw-halign-right" typeof="mw:Error mw:File"><figcaption></figcaption></figure>
-
-<figure class="mw-halign-right" typeof="mw:Error mw:File"><figcaption></figcaption></figure>
-
 ### >> ☺
-
-### Page 38 (Removed)
-
-*>> ☺ These educational games make learning fun. Hop into them and it's begun!*
-
-(Note: This tutorial page has been removed. It was added in as an addition to the Ready Player Two event.)
-
-<figure class="mw-halign-right" typeof="mw:Error mw:File"><figcaption></figcaption></figure>
-
-<figure class="mw-halign-right" typeof="mw:Error mw:File"><figcaption></figcaption></figure>
 
 ## Trivia
 

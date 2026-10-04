@@ -95,13 +95,13 @@ Possible:
 
 * Rhino beetles behave similarly to most Mobs: it pauses to aim, then lunges. If the player stops to let them aim, then move, it will attack the spot where the Player used to be, not the Player's current location.
 * Some fields have objects that the player can try hiding behind, such as the stalks of Bamboo in the Bamboo Field.
-* The [Frozen Field Defenders Glitch](glitches.md#Frozen_Field_Defenders) works very well against rhino beetles.
+* The Frozen Field Defenders Glitch works very well against rhino beetles.
 
 ## Trivia
 
 * The respawn timer for a rhino beetle currently counts down from 5 minutes. However, as with most mobs, a rhino beetle doesn't always respawn immediately after its timer runs out. (Usually a 5-10 second delay).
 * Rhino beetles are the most common mob, having five distinct spawning points. It also guards the most fields; being four.
-* There is a mob similar to the rhino beetle called the [King Beetle](king-beetle.md). In fact, King Beetle is a hybrid, made up of a Ladybug and a Rhino beetle, as stated by [Onett](onett-developer.md) on Discord.
+* There is a mob similar to the rhino beetle called the [King Beetle](king-beetle.md). In fact, King Beetle is a hybrid, made up of a Ladybug and a Rhino beetle, as stated by Onett on Discord.
 * It has the lowest health out of all mobs, with merely 10 health at level 1.
 * This is Onett's favorite mob. [1]
 

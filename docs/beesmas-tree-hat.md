@@ -3795,24 +3795,6 @@ Show/hide tables
 
 **There are currently no ways to obtain a **Beesmas Tree Hat** without trading.**
 
-### Outdated Ways
-
-<table class="mw-collapsible mw-collapsed article-table">
-<caption>
-</caption>
-<tbody><tr>
-<td>
-<ul><li>Buying the Festive Bundle from Bee Bear’s Catalog (2021 and Summer 2024)</li>
-<li>By completing <a href="bee-bear.html">Bee Bear's</a> Snow Cub Reformation (5/5).</li>
-<li>From the Honeyday Mega-Haul pack in the <a href="robux-shop.html">Robux Shop</a>.</li>
-<li>Opening the <a href="gift-boxes.html">Merry Gift Box</a>.</li>
-<li>Completing 20th <a href="bee-bear.html">Bee Bear's</a> Beesmas 2022 quest gives 1 Beesmas Tree Hat.</li>
-<li>Buying the Brilliant Beesmas Bundle from Bee Bear's Catalog during Beesmas Winter 2024.</li>
-<li>Purchasing the Radiocative Bundle from <a href="bee-bear-s-catalog.html">Bee Bear's Catalog</a>.</li>
-<li>As a drop from <a href="tunnel-bear.html">Tunnel Bear</a>.</li>
-<li>As a drop from the <a href="stockings.html">Stockings</a>.</li></ul>
-</td></tr></tbody></table>
-
 ## Trivia
 
 * When the [Retro Swarm Challenge](retro-swarm-challenge.md) released, there was a glitch that made it obtainable from [Stick Bug](stick-bug.md), outside of Beesmas.
@@ -3878,7 +3860,7 @@ Show/hide tables
 </th>
 <th class="NavCategory">Quest Exclusive
 </th>
-<td class="NavLinks NavLinksBasicEven"><b><img alt="Translator" height="35" src="img/Translator.png" width="35"/> <a href="translator.html">Translator</a> • <img alt="Spirit Petal" height="35" src="img/Spirit_Petal.png" width="35"/> <a href="spirit-petal.html">Spirit Petal</a> • <img alt="Debug Wax" height="35" src="img/Debug_Wax.png" width="35"/> <a href="debug-wax.html">Debug Wax</a> • <img alt="Nectar Tester" height="35" src="img/Nectar_Tester.png" width="35"/> <a href="nectar-tester.html">Nectar Tester</a></b> • <span typeof="mw:Error mw:File"></span> <a href="bbm-s-apology.html">BBM's Apology</a><b></b>
+<td class="NavLinks NavLinksBasicEven"><b><img alt="Translator" height="35" src="img/Translator.png" width="35"/> <a href="translator.html">Translator</a> • <img alt="Spirit Petal" height="35" src="img/Spirit_Petal.png" width="35"/> <a href="spirit-petal.html">Spirit Petal</a> • <img alt="Debug Wax" height="35" src="img/Debug_Wax.png" width="35"/> <a href="debug-wax.html">Debug Wax</a> • <img alt="Nectar Tester" height="35" src="img/Nectar_Tester.png" width="35"/> <a href="nectar-tester.html">Nectar Tester</a></b> • <span typeof="mw:Error mw:File"></span> <b></b>
 </td></tr>
 <tr>
 <th class="NavCategory">Beesmas

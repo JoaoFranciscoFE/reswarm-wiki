@@ -243,7 +243,7 @@ tags: ["Items", "Tools"]
 </td></tr>
 </tbody></table>
 
-The **Porcelain Dipper** is a [tool](tools.md) that was added in the [2018-06-02 update](updates.md#2018-06-02). It can be purchased in the [Mountain Top Shop](mountain-top-shop.md).
+The **Porcelain Dipper** is a [tool](tools.md) that was added in the 2018-06-02 update. It can be purchased in the [Mountain Top Shop](mountain-top-shop.md).
 
 <table class="article-table">
 <tbody><tr>
@@ -259,8 +259,8 @@ Every 10th swing will summon a large copy of this tool rising up, it then summon
 
 ## Trivia
 
-* The price was increased from 100,000,000 (100 million) honey to 150,000,000 (150 million) honey after the [2019-04-05 update](updates.md#2019-04-05), because an ability was added to it.
-* It used to collect more patches prior to the [2019-04-05 update](updates.md#2019-04-05).
+* The price was increased from 100,000,000 (100 million) honey to 150,000,000 (150 million) honey after the 2019-04-05 update, because an ability was added to it.
+* It used to collect more patches prior to the 2019-04-05 update.
 * The Porcelain Dipper is an upgraded version of the [Honey Dipper](honey-dipper.md), which can be bought in the [Pro Shop](pro-shop.md).
 * This was the second tool to have an ability, first being the [Golden Rake](golden-rake.md).
 * Some decals aren't visible through the glass of a porcelain dipper (such as bee faces in a hive, or the flame effect on the scythe) similar to the water of the sprinklers.
@@ -333,7 +333,7 @@ Every 10th swing will summon a large copy of this tool rising up, it then summon
 </th>
 <th class="NavCategory">Quest Exclusive
 </th>
-<td class="NavLinks NavLinksBasicEven"><b><img alt="Translator" height="35" src="img/Translator.png" width="35"/> <a href="translator.html">Translator</a> • <img alt="Spirit Petal" height="35" src="img/Spirit_Petal.png" width="35"/> <a href="spirit-petal.html">Spirit Petal</a> • <img alt="Debug Wax" height="35" src="img/Debug_Wax.png" width="35"/> <a href="debug-wax.html">Debug Wax</a> • <img alt="Nectar Tester" height="35" src="img/Nectar_Tester.png" width="35"/> <a href="nectar-tester.html">Nectar Tester</a></b> • <span typeof="mw:Error mw:File"></span> <a href="bbm-s-apology.html">BBM's Apology</a><b></b>
+<td class="NavLinks NavLinksBasicEven"><b><img alt="Translator" height="35" src="img/Translator.png" width="35"/> <a href="translator.html">Translator</a> • <img alt="Spirit Petal" height="35" src="img/Spirit_Petal.png" width="35"/> <a href="spirit-petal.html">Spirit Petal</a> • <img alt="Debug Wax" height="35" src="img/Debug_Wax.png" width="35"/> <a href="debug-wax.html">Debug Wax</a> • <img alt="Nectar Tester" height="35" src="img/Nectar_Tester.png" width="35"/> <a href="nectar-tester.html">Nectar Tester</a></b> • <span typeof="mw:Error mw:File"></span> <b></b>
 </td></tr>
 <tr>
 <th class="NavCategory">Beesmas

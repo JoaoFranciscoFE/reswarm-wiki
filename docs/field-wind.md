@@ -401,4 +401,4 @@ Specific items donated to the Wind Shrine can give specific winds. For example, 
 
 ## Trivia
 
-* Prior to the [2021-12-26 update](updates.md#2021-12-26), field winds only lasted for fifteen minutes.
+* Prior to the 2021-12-26 update, field winds only lasted for fifteen minutes.

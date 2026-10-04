@@ -539,11 +539,7 @@ Note that the sound is slightly faster in-game.
 
 ## Gallery
 
-
-
 ### Bee Wings
-
-
 
 * Level 1 Bee wings do not exist, as the wings will have no decal.
 
@@ -551,7 +547,7 @@ Note that the sound is slightly faster in-game.
 
 * The maximum Bond from Treats currently possible is 133%: 100% as a base, 20% from Gifted [Puppy Bee's](puppy-bee.md) Hive Bonus, 10% from Moon Amulet and 3% from the [Reindeer Antlers](reindeer-antlers.md) Beequip.
 * [Temporary bees](bees.md#Summoned_Bees) can still be leveled up.
-* Prior to the [2018-11-25 update](updates.md#2018-11-25), the bee information page always showed the bee's total bond, not the current bond-to-next-level.
+* Prior to the 2018-11-25 update, the bee information page always showed the bee's total bond, not the current bond-to-next-level.
 * Leveling a full hive of 50 bees from level 0 to level 25 would cost 500Qn [Honey](honey.md) (500 quintillion) honey in treats.
   * With the maximum Bond from Treats currently possible (133%), this cost could be reduced to about 376Qn [Honey](honey.md) (376 quintillion) honey in treats.
 

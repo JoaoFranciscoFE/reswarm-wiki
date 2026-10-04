@@ -337,7 +337,7 @@ Hasty Bee likes the [Sunflower Field](sunflower-field.md) and [Cactus Field](cac
 
 * The [Hasty Guard](hasty-guard.md), which can be bought in the [Pro Shop](pro-shop.md), has a special design, name, and stats dedicated to Hasty Bee.
 * This is the only [bee](bees.md) to have a [gifted bonus](gifted-bee.md#List_of_Hive_Bonuses) that affects Player Movespeed.
-  * However, [Ninja Bee](ninja-bee.md) also originally gave the same gifted bonus before it was changed to +5% Bee Movespeed in the [2018-11-25 update](updates.md#2018-11-25).
+  * However, [Ninja Bee](ninja-bee.md) also originally gave the same gifted bonus before it was changed to +5% Bee Movespeed in the 2018-11-25 update.
 * This bee, [Shocked Bee](shocked-bee.md), [Shy Bee](shy-bee.md), and [Rascal Bee](rascal-bee.md) are the only bees that have either a spelling or grammar mistake in their description.
 * A [special jelly](royal-jelly.md#Specific_Bee_Jelly) that changes a bee into a Hasty Bee can be obtained by using the [code](codes.md), 'HasteHelper' (expired).
 * This bee, Shocked Bee, Ninja Bee, and [Photon Bee](photon-bee.md), are the only bees that grant the Haste token without any certain [Beequips](beequip.md).

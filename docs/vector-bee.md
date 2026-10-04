@@ -351,7 +351,7 @@ Vector Bee likes the [Spider Field](spider-field.md) and the [Coconut Field](coc
   * Triangulation is a method to determine the location of a point through forming triangles from known points.
 * Vector Bee, [Spicy Bee](spicy-bee.md), [Precise Bee](precise-bee.md) and [Buoyant Bee](buoyant-bee.md) emit light when they are gifted.
 * Vector Bee shares similar color schemes with [Brave Bee](brave-bee.md).
-* Triangulate is [Onett](onett-developer.md)'s favorite ability, due to the fact that he thinks it's satisfying.
+* Triangulate is Onett's favorite ability, due to the fact that he thinks it's satisfying.
 * Mark Surge token is considered by the game as "mark" token despite what the ability does doesn't create mark like what all other mark tokens do. This means the collection of Mark Surge token counts toward some quests, [Coin Scatter passive ability](passive-abilities.md#Coin_Scatter), and anything that requires the collection of "mark" tokens.
   * Triangulate, however, is not considered as "mark" ability token.
   * In a similar fashion, Fuzz Bombs ([Fuzzy Bee](fuzzy-bee.md)'s ability token), Bomb Sync ([Cobalt Bee](cobalt-bee.md) and [Crimson Bee](crimson-bee.md)'s ability token) are not considered "bomb" ability tokens, and Honey Mark isn't considered as "honey" token.

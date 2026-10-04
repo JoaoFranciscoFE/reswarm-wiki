@@ -338,8 +338,6 @@ Basic Bee likes the [Sunflower Field](sunflower-field.md), [Clover Field](clover
 
 *For a list of icons and thumbnails, see [Re://:Swarm](re-swarm.md).*
 
-
-
 ## Trivia
 
 * Basic Bee is the only type of Common bee.
@@ -355,12 +353,12 @@ Basic Bee likes the [Sunflower Field](sunflower-field.md), [Clover Field](clover
 * The [code](codes.md), "DontUseThisJelly" (expired) gave a [Basic Bee jelly](royal-jelly.md#Royal_Jelly_Variants) that could be used on a bee to transform any bee into a Basic Bee.
 * Basic Bee and [Demo Bee](demo-bee.md) share the same skin color pattern when they are not in their gifted forms.
 * Basic Bee and [Honey Bee](honey-bee.md) possess the same colors but in a different pattern.
-* Basic Bee's gifted bonus used to give +20% [Pollen](system-page.md#Pollen), but it later got buffed after the [2019-04-05 update](updates.md#2019-04-05) into x1.2 Pollen, so it can now increase with any additional pollen multipliers that the player has.
+* Basic Bee's gifted bonus used to give +20% [Pollen](system-page.md#Pollen), but it later got buffed after the 2019-04-05 update into x1.2 Pollen, so it can now increase with any additional pollen multipliers that the player has.
 * An image of a winking Basic Bee face appears at the end of the White Tunnel.
   * This may refer to the currently valid code called "Wink".
-  * This also appeared in the thumbnail of the [2018-06-02 update.](updates.md#2018-06-02)
+  * This also appeared in the thumbnail of the 2018-06-02 update.
 * Basic Bee is the only kind of bee to appear in every different version of the thumbnail for the game.
-* Basic Bee, along with Tabby Bee and [Rascal Bee](rascal-bee.md), are all of [Onett's](onett-developer.md) favorite bees.
+* Basic Bee, along with Tabby Bee and [Rascal Bee](rascal-bee.md), are all of Onett's favorite bees.
   * This was revealed through Onett's dialogue.
 * Basic Bee's face appears on the bee menu icon, found near the top left corner of the screen.
   * Its face is also visible on [Treats](treat.md), [Tickets](ticket.md), and the [Beequip Case](beequip.md).

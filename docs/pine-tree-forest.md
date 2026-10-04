@@ -147,29 +147,6 @@ This is a 23x31 field, containing 713 [flowers](flowers.md). The flowers are whi
 * The [Pinecone](pinecone.md) [Beequip](beequip.md) can grant up to +15% Pine Tree [Forest Capacity](field-capacity.md) and +10% Pine Tree Forest Pollen.
 * Giving [Honey Bee](honey-bee-npc.md) a [present](present.md) during the Beesmas 2025 event gives you a x3 Pine Tree Forest boost.
 
-### Outdated Methods
-
-* Giving [Honey Bee](honey-bee-npc.md) a [present](present.md) during the Beesmas 2020 and 2024 event gives you a x3 Pine Tree Forest boost.
-* Redeeming certain expired codes:
-  * 300mVisit (Gave Pine Tree Forest Boost x2 + other stuff).
-  * WordFactory (Activates Pine Tree Forest Code Buff + other stuff).
-  * PlushFriday (Gives Pine Tree Forest Code Buff + other stuff).
-  * DemiDecade (Gives Pine Tree Forest x4 + Pine Tree Winds x15 + other stuff).
-  * ByeBeeBear (Gave Pine Tree Forest Boost x1 + other stuff).
-  * MinhMaMaMoons (Gave Pine Tree Forest Boost x2 + other stuff).
-  * 12hourgeneral (Gave Pine Tree Forest Boost x1 + other stuff).
-  * YTFMMoons (Gave Pine Tree Forest Boost x3 + other stuff).
-  * RoyalRobzi (Gave Pine Tree Forest Boost x3 + other stuff).
-  * GummyBoost (Gave Pine Tree Forest Boost x3 + other stuff).
-  * Afternoon (Gave Pine Tree Forest Boost x2 + other stuff).
-  * LateNightGumdrops (Gave Pine Tree Forest Boost x2 + other stuff).
-  * WintersEnd (Activates Pine Tree Forest Code Buff + other stuff).
-  * 5mMembers (Gave Pine Tree Forest Boost x2 and Pine Tree Forest Capacity x3 + other stuff).
-  * RebootFriday (Gave Pine Tree Forest Code Buff + other stuff).
-  * 2Billion (Gave Pine Tree Forest Winds x15 and Pine Tree Forest Code buff + other stuff).
-  * Discord100k (Gave Pine Tree Forest Boost x3 + other stuff).
-* Purchasing a Pine Tree Forest [Market Boost](buffs-debuffs.md#From_Areas) from the [Boost Market](boost-market.md) will give x1.5 Pine Tree [Forest Capacity](field-capacity.md), x1.25 Pine Tree Forest Pollen. x1.25 [Blue Bomb Pollen](system-page.md#Blue_Bomb_Pollen), and x1.25 [Convert Rate At Hive](system-page.md#Hive_Convert_Rate).
-
 ## Trivia
 
 * Festive Bee likes the Pine Tree Forest likely since most Christmas trees are coniferous trees, like pine trees.
@@ -178,7 +155,7 @@ This is a 23x31 field, containing 713 [flowers](flowers.md). The flowers are whi
 * This field is guarded by the werewolf and 2 mantises. This makes the Pine Tree Forest the field with the most [mobs](mobs.md) guarding it, at 3.
   * Standing in the area of the field closest to the [Sticker Stack](sticker-stack.md) will prevent the werewolf from detecting the player.
 * There is a [royal jelly](royal-jelly.md) token on top of the tallest pine tree in this field. To get it, the player can do the [Cloud Obby](obstacle-courses.md#Cloud_Obby) starting near [Polar Bear](polar-bear.md) using the [Parachute](parachute.md) to glide to the next step. However, it is much easier to use the [Red Cannon](red-cannon.md) and the Parachute/[Glider](glider.md).
-* As of the [2020-06-06 update](updates.md#2020-06-06), [Honey Bee](honey-bee-npc.md) can be found on the gray platform behind the Pine Tree Forest.
+* As of the 2020-06-06 update, [Honey Bee](honey-bee-npc.md) can be found on the gray platform behind the Pine Tree Forest.
 * The Pine Tree Forest has shrunk since it was released. Before the Badge Bearer's Guild was added, the field stretched all the way to where the Badge Bearer's Guild currently is. When the Badge Bearer's Guild was added, the field was shrunken to end at the door of the guild. It has been shrunken again, now being farther from the guild's door.
   * One of the pine trees still remains near the [Honey Bee Gate](honey-bee-gate.md) from the field's original spot.
 
@@ -224,5 +201,5 @@ This is a 23x31 field, containing 713 [flowers](flowers.md). The flowers are whi
 <tr>
 <th class="NavCategory">Event<br/>Locations
 </th>
-<td class="NavLinks NavLinksBasicEven"><b><a href="beesmas-tree.html">Beesmas Tree</a> • <a href="ornament-presents.html">Ornament Presents</a> • <span class="new" data-uncrawlable-url="L3dpa2kvQ29tcHV0ZXI/YWN0aW9uPWVkaXQmcmVkbGluaz0x" title="Computer (page does not exist)">Computer</span> • <a href="gift-boxes.html">Gift Boxes</a> • <a href="honey-wreath.html">Honey Wreath</a> • <a href="stockings.html">Stockings</a> • <a href="gingerbread-house.html">Gingerbread House</a> • <a href="snowbear-summoner.html">Snowbear Summoner</a> • <a href="beesmas-lights.html">Beesmas Lights</a> • <a href="samovar.html">Samovar</a> • <a href="beesmas-feast.html">Beesmas Feast</a> • <a href="onett-s-lid-art.html">Onett's Lid Art</a> • <a href="wind-shrine.html#Galentine_Shrine">Galentine Shrine</a> • <a href="memory-match.html#Winter_Memory_Match">Winter Memory Match</a> • <a href="snow-machine.html">Snow Machine</a> • <a href="honeyday-candles.html">Honeyday Candles</a> • <a href="robo-party-cake.html">Robo Party Cake</a> • <a href="gummy-beacon.html">Gummy Beacon</a> • <a href="naughty-list.html">Naughty List</a></b>
+<td class="NavLinks NavLinksBasicEven"><b><a href="beesmas-tree.html">Beesmas Tree</a> • <span class="new" data-uncrawlable-url="L3dpa2kvQ29tcHV0ZXI/YWN0aW9uPWVkaXQmcmVkbGluaz0x" title="Computer (page does not exist)">Computer</span> • <a href="gift-boxes.html">Gift Boxes</a> • <a href="honey-wreath.html">Honey Wreath</a> • <a href="stockings.html">Stockings</a> • <a href="gingerbread-house.html">Gingerbread House</a> • <a href="snowbear-summoner.html">Snowbear Summoner</a> • <a href="beesmas-lights.html">Beesmas Lights</a> • <a href="samovar.html">Samovar</a> • <a href="beesmas-feast.html">Beesmas Feast</a> • <a href="onett-s-lid-art.html">Onett's Lid Art</a> • <a href="wind-shrine.html#Galentine_Shrine">Galentine Shrine</a> • <a href="memory-match.html#Winter_Memory_Match">Winter Memory Match</a> • <a href="snow-machine.html">Snow Machine</a> • <a href="honeyday-candles.html">Honeyday Candles</a> • <a href="robo-party-cake.html">Robo Party Cake</a> • <a href="gummy-beacon.html">Gummy Beacon</a> • <a href="naughty-list.html">Naughty List</a></b>
 </td></tr></tbody></table>

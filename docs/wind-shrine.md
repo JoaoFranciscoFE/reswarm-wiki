@@ -1475,47 +1475,6 @@ The following equation determines the probability of receiving the Galentine's B
 </p>
 </td></tr></tbody></table>
 
-### 2020
-
-<table class="article-table">
-<tbody><tr>
-<th>Buffs (<a href="buffs-debuffs.html#From_Areas">Galentine's Blessing</a>)
-</th>
-<th>Rewards
-</th></tr>
-<tr>
-<td>
-<ul><li>+50% Capacity</li>
-<li>+20% Instant Bee Ability conversion</li>
-<li>+10% Instant Bubble Conversion</li>
-<li>+50% <a href="rose-field.html">Rose Field</a> pollen</li>
-<li>+50% <a href="blue-flower-field.html">Blue Flower Field</a> pollen</li>
-<li>+50% <a href="sunflower-field.html">Sunflower Field</a> pollen</li>
-<li>+5% Ticket Chance</li>
-<li>+5% Loot Luck</li></ul>
-</td>
-<td><img alt="Present" height="25" src="img/Present.png" width="25"/>1 <a href="present.html"><span class="color-template color-template-present color-template-background-clip">Present</span></a><br/>
-<p><img alt="Jelly Beans" height="25" src="img/Jelly_Beans.png" width="25"/>5 <a href="jelly-beans.html"><span class="color-template color-template-jelly-beans color-template-background-clip">Jelly Beans</span></a><br/>
-<img alt="Purple Potion" height="25" src="img/Purple_Potion.png" width="25"/>5 <a href="purple-potion.html"><span class="color-template color-template-purple-potion color-template-background-clip">Purple Potions</span></a><br/>
-<img alt="Gold Egg" height="25" src="img/Gold_Egg.png" width="25"/>1 <a href="egg.html#Gold_Egg"><span class="color-template color-template-gold-egg color-template-background-clip">Gold Egg</span></a><br/>
-<img alt="Gumdrops" height="25" src="img/Gumdrops.png" width="25"/>25 <a href="gumdrops.html"><span class="color-template color-template-gumdrops color-template-background-clip">Gumdrops</span></a><br/>
-<img alt="Ticket" height="25" src="img/Ticket.png" width="25"/>25 <a href="ticket.html"><span class="color-template color-template-ticket color-template-background-clip">Tickets</span></a>
-</p>
-</td></tr></tbody></table>
-
-<table class="article-table">
-<tbody><tr>
-<th>Dialogue
-</th></tr>
-<tr>
-<td>A swift, warm gale blows out from the Galentine's Shrine...<br/>
-<p>You feel the tingle of butterflies in your stomach...<br/>
-Your bees buzz in a plitter patter of delight!<br/>
-What's come over you and your swarm? Could it be love?<br/>
-❤Happy Galentines Day!❤ 
-</p>
-</td></tr></tbody></table>
-
 ## Trivia
 
 * The Wind Shrine is based on a percussion instrument, the wind chimes.
@@ -1596,5 +1555,5 @@ What's come over you and your swarm? Could it be love?<br/>
 <tr>
 <th class="NavCategory">Event<br/>Locations
 </th>
-<td class="NavLinks NavLinksBasicEven"><b><a href="beesmas-tree.html">Beesmas Tree</a> • <a href="ornament-presents.html">Ornament Presents</a> • <span class="new" data-uncrawlable-url="L3dpa2kvQ29tcHV0ZXI/YWN0aW9uPWVkaXQmcmVkbGluaz0x" title="Computer (page does not exist)">Computer</span> • <a href="gift-boxes.html">Gift Boxes</a> • <a href="honey-wreath.html">Honey Wreath</a> • <a href="stockings.html">Stockings</a> • <a href="gingerbread-house.html">Gingerbread House</a> • <a href="snowbear-summoner.html">Snowbear Summoner</a> • <a href="beesmas-lights.html">Beesmas Lights</a> • <a href="samovar.html">Samovar</a> • <a href="beesmas-feast.html">Beesmas Feast</a> • <a href="onett-s-lid-art.html">Onett's Lid Art</a> • Galentine Shrine • <a href="memory-match.html#Winter_Memory_Match">Winter Memory Match</a> • <a href="snow-machine.html">Snow Machine</a> • <a href="honeyday-candles.html">Honeyday Candles</a> • <a href="robo-party-cake.html">Robo Party Cake</a> • <a href="gummy-beacon.html">Gummy Beacon</a> • <a href="naughty-list.html">Naughty List</a></b>
+<td class="NavLinks NavLinksBasicEven"><b><a href="beesmas-tree.html">Beesmas Tree</a> • <span class="new" data-uncrawlable-url="L3dpa2kvQ29tcHV0ZXI/YWN0aW9uPWVkaXQmcmVkbGluaz0x" title="Computer (page does not exist)">Computer</span> • <a href="gift-boxes.html">Gift Boxes</a> • <a href="honey-wreath.html">Honey Wreath</a> • <a href="stockings.html">Stockings</a> • <a href="gingerbread-house.html">Gingerbread House</a> • <a href="snowbear-summoner.html">Snowbear Summoner</a> • <a href="beesmas-lights.html">Beesmas Lights</a> • <a href="samovar.html">Samovar</a> • <a href="beesmas-feast.html">Beesmas Feast</a> • <a href="onett-s-lid-art.html">Onett's Lid Art</a> • Galentine Shrine • <a href="memory-match.html#Winter_Memory_Match">Winter Memory Match</a> • <a href="snow-machine.html">Snow Machine</a> • <a href="honeyday-candles.html">Honeyday Candles</a> • <a href="robo-party-cake.html">Robo Party Cake</a> • <a href="gummy-beacon.html">Gummy Beacon</a> • <a href="naughty-list.html">Naughty List</a></b>
 </td></tr></tbody></table>

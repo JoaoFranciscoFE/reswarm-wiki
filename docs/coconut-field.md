@@ -35,7 +35,7 @@ DISLIKE
 
 None
 
-The **Coconut Field** is a [field](fields.md) added in the [September 28, 2019 update](updates.md#2019-09-28), located past the [Windy Bee Gate](windy-bee-gate.md) and next to [Spirit Bear](spirit-bear.md). It is home to and protected by the [Coconut Crab](coconut-crab.md).
+The **Coconut Field** is a [field](fields.md) added in the September 28, 2019 update, located past the [Windy Bee Gate](windy-bee-gate.md) and next to [Spirit Bear](spirit-bear.md). It is home to and protected by the [Coconut Crab](coconut-crab.md).
 
 The field can spawn [honey](honey.md), [treats](treat.md), [coconuts](coconut.md), [tropical drinks](tropical-drink.md), [ticket](ticket.md) and [magic bean](magic-bean.md) tokens when collecting [pollen](pollen.md).
 
@@ -173,7 +173,7 @@ This is a 30x21 field, containing 630 [flowers](flowers.md). The flowers are whi
 * Like the [Pepper Badge](badges.md#Pepper_Badge), the [Coconut Badge](badges.md#Coconut_Badge) requires more pollen collected than the other field badges. For example, the cadet badge for the Coconut Field requires 50,000,000 (50 million) pollen, compared to the normal requirement of 250,000 (250 thousand) pollen.
 * It is possible to gather pollen from this field without 35 [bees](bees.md) from the ledge facing the [Ticket Tent](ticket-tent.md).
   * Players can also collect from the field by going outside the map and finding the back of the Ticket Tent. Jumping on the Ticket Tent with enough jump height will reach the field, allowing bees to farm.
-* The Coconut Dispenser used to boost this field differently based on the player's Coconut Badge, with the Junior badge giving no boost, Cadet giving a +100% pollen boost, Hotshot giving a +200% pollen boost, and anything Ace and above giving a +300% pollen boost. After the [Beesmas 2019 update](updates.md#2019-12-23), the Coconut Dispenser will always provide a +100% pollen boost, regardless of the player's Coconut Badge.
+* The Coconut Dispenser used to boost this field differently based on the player's Coconut Badge, with the Junior badge giving no boost, Cadet giving a +100% pollen boost, Hotshot giving a +200% pollen boost, and anything Ace and above giving a +300% pollen boost. After the Beesmas 2019 update, the Coconut Dispenser will always provide a +100% pollen boost, regardless of the player's Coconut Badge.
 * This field, the [Ant Field](ant-field.md) and the [Hub Field](hub-field.md) are the only fields without any bees to dislike them.
 
 <table class="mw-collapsible mw-collapsed NavTable">
@@ -218,5 +218,5 @@ This is a 30x21 field, containing 630 [flowers](flowers.md). The flowers are whi
 <tr>
 <th class="NavCategory">Event<br/>Locations
 </th>
-<td class="NavLinks NavLinksBasicEven"><b><a href="beesmas-tree.html">Beesmas Tree</a> • <a href="ornament-presents.html">Ornament Presents</a> • <span class="new" data-uncrawlable-url="L3dpa2kvQ29tcHV0ZXI/YWN0aW9uPWVkaXQmcmVkbGluaz0x" title="Computer (page does not exist)">Computer</span> • <a href="gift-boxes.html">Gift Boxes</a> • <a href="honey-wreath.html">Honey Wreath</a> • <a href="stockings.html">Stockings</a> • <a href="gingerbread-house.html">Gingerbread House</a> • <a href="snowbear-summoner.html">Snowbear Summoner</a> • <a href="beesmas-lights.html">Beesmas Lights</a> • <a href="samovar.html">Samovar</a> • <a href="beesmas-feast.html">Beesmas Feast</a> • <a href="onett-s-lid-art.html">Onett's Lid Art</a> • <a href="wind-shrine.html#Galentine_Shrine">Galentine Shrine</a> • <a href="memory-match.html#Winter_Memory_Match">Winter Memory Match</a> • <a href="snow-machine.html">Snow Machine</a> • <a href="honeyday-candles.html">Honeyday Candles</a> • <a href="robo-party-cake.html">Robo Party Cake</a> • <a href="gummy-beacon.html">Gummy Beacon</a> • <a href="naughty-list.html">Naughty List</a></b>
+<td class="NavLinks NavLinksBasicEven"><b><a href="beesmas-tree.html">Beesmas Tree</a> • <span class="new" data-uncrawlable-url="L3dpa2kvQ29tcHV0ZXI/YWN0aW9uPWVkaXQmcmVkbGluaz0x" title="Computer (page does not exist)">Computer</span> • <a href="gift-boxes.html">Gift Boxes</a> • <a href="honey-wreath.html">Honey Wreath</a> • <a href="stockings.html">Stockings</a> • <a href="gingerbread-house.html">Gingerbread House</a> • <a href="snowbear-summoner.html">Snowbear Summoner</a> • <a href="beesmas-lights.html">Beesmas Lights</a> • <a href="samovar.html">Samovar</a> • <a href="beesmas-feast.html">Beesmas Feast</a> • <a href="onett-s-lid-art.html">Onett's Lid Art</a> • <a href="wind-shrine.html#Galentine_Shrine">Galentine Shrine</a> • <a href="memory-match.html#Winter_Memory_Match">Winter Memory Match</a> • <a href="snow-machine.html">Snow Machine</a> • <a href="honeyday-candles.html">Honeyday Candles</a> • <a href="robo-party-cake.html">Robo Party Cake</a> • <a href="gummy-beacon.html">Gummy Beacon</a> • <a href="naughty-list.html">Naughty List</a></b>
 </td></tr></tbody></table>

@@ -19,29 +19,13 @@ CAP
 
 10
 
-The **Satisfying Vial** is a consumable [nectar vial](nectar-vial.md) [item](items.md) that was added in the [2022-12-26 update](updates.md#2022-12-26). Once used, it grants the player 4 hours of the [Satisfying Nectar buff](nectar.md) instantly. It can also be used to craft other accessories and [tools](tools.md).
+The **Satisfying Vial** is a consumable [nectar vial](nectar-vial.md) [item](items.md) that was added in the 2022-12-26 update. Once used, it grants the player 4 hours of the [Satisfying Nectar buff](nectar.md) instantly. It can also be used to craft other accessories and [tools](tools.md).
 
 ## Ways to Obtain
 
 * Completing [Dapper Bear's](dapper-bear.md) 5th, 11th and 15th quests each reward 1 **Satisfying Vial** each and other items.
 * Using the [Nectar Condenser](nectar-condenser.md) to condense 12 hours of Satisfying Nectar.
 * Adding the Satisfying Nectar Icon to the [Sticker Stack](sticker-stack.md) rewards 1 **Satisfying Vial**.
-
-### Outdated Ways
-
-<table class="mw-collapsible mw-collapsed article-table">
-<caption>
-</caption>
-<tbody><tr>
-<td>
-<ul><li>Purchasing the Hefty Honeyday Bundle from <a href="bee-bear-s-catalog.html">Bee Bear's Catalog</a> granted <img alt="Satisfying Vial" height="25" src="img/Satisfying_Vial.png" width="25"/>5 <strong class="mw-selflink selflink"><span class="color-template color-template-satisfying-vial color-template-background-clip">Satisfying Vials</span></strong> and other items.</li>
-<li>Purchasing the Nighttime Nectar Pack in the <a href="robux-shop.html">Robux Shop</a> granted <img alt="Satisfying Vial" height="25" src="img/Satisfying_Vial.png" width="25"/>1 <strong class="mw-selflink selflink"><span class="color-template color-template-satisfying-vial color-template-background-clip">Satisfying Vial</span></strong> and other items.</li>
-<li>Completing <a href="polar-bear.html">Polar Bear</a>'s Beesmas 2022 quest rewarded <img alt="Satisfying Vial" height="25" src="img/Satisfying_Vial.png" width="25"/>1 <strong class="mw-selflink selflink"><span class="color-template color-template-satisfying-vial color-template-background-clip">Satisfying Vial</span></strong> and other items.</li>
-<li>Opening the <a href="gift-boxes.html#2022">Gooey Gift Box</a> rewarded <img alt="Satisfying Vial" height="25" src="img/Satisfying_Vial.png" width="25"/>1 <strong class="mw-selflink selflink"><span class="color-template color-template-satisfying-vial color-template-background-clip">Satisfying Vial</span></strong> and other items.</li>
-<li>Opening the <span class="new" data-uncrawlable-url="L3dpa2kvR2lmdF9Cb3hlcy8yMDI0XyhXaW50ZXIpP2FjdGlvbj1lZGl0JnJlZGxpbms9MQ==" title="Gift Boxes/2024 (Winter) (page does not exist)">Silky Gift Box</span> rewarded <img alt="Satisfying Vial" height="25" src="img/Satisfying_Vial.png" width="25"/>1 <strong class="mw-selflink selflink"><span class="color-template color-template-satisfying-vial color-template-background-clip">Satisfying Vial</span></strong> and other items.</li>
-<li>Purchasing the Angelic Bundle from <a href="bee-bear-s-catalog.html">Bee Bear's Catalog</a> granted <img alt="Satisfying Vial" height="25" src="img/Satisfying_Vial.png" width="25"/>1 <strong class="mw-selflink selflink"><span class="color-template color-template-satisfying-vial color-template-background-clip">Satisfying Vial</span></strong> and other items.</li>
-<li>Completing <a href="bee-bear.html">Bee Bear</a>'s Peppermint Preparation (5/5) rewarded <img alt="Satisfying Vial" height="25" src="img/Satisfying_Vial.png" width="25"/>5 <strong class="mw-selflink selflink"><span class="color-template color-template-satisfying-vial color-template-background-clip">Satisfying Vials</span></strong> and other items.</li></ul>
-</td></tr></tbody></table>
 
 ## Crafting Uses
 
@@ -157,7 +141,7 @@ Total required for all single-purchase items: 5 **Satisfying Vials**
 </th>
 <th class="NavCategory">Quest Exclusive
 </th>
-<td class="NavLinks NavLinksBasicEven"><b><img alt="Translator" height="35" src="img/Translator.png" width="35"/> <a href="translator.html">Translator</a> • <img alt="Spirit Petal" height="35" src="img/Spirit_Petal.png" width="35"/> <a href="spirit-petal.html">Spirit Petal</a> • <img alt="Debug Wax" height="35" src="img/Debug_Wax.png" width="35"/> <a href="debug-wax.html">Debug Wax</a> • <img alt="Nectar Tester" height="35" src="img/Nectar_Tester.png" width="35"/> <a href="nectar-tester.html">Nectar Tester</a></b> • <span typeof="mw:Error mw:File"></span> <a href="bbm-s-apology.html">BBM's Apology</a><b></b>
+<td class="NavLinks NavLinksBasicEven"><b><img alt="Translator" height="35" src="img/Translator.png" width="35"/> <a href="translator.html">Translator</a> • <img alt="Spirit Petal" height="35" src="img/Spirit_Petal.png" width="35"/> <a href="spirit-petal.html">Spirit Petal</a> • <img alt="Debug Wax" height="35" src="img/Debug_Wax.png" width="35"/> <a href="debug-wax.html">Debug Wax</a> • <img alt="Nectar Tester" height="35" src="img/Nectar_Tester.png" width="35"/> <a href="nectar-tester.html">Nectar Tester</a></b> • <span typeof="mw:Error mw:File"></span> <b></b>
 </td></tr>
 <tr>
 <th class="NavCategory">Beesmas

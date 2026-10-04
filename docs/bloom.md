@@ -9,7 +9,7 @@ tags: ["Recent Update", "Mobs", "Passive Mobs"]
 
 <figure class="thumb" style="width: 180px" typeof="mw:File/Thumb">  <figcaption class="thumbcaption"> <p class="caption">A Bloom.</p> </figcaption> </figure>
 
-**Blooms** are passive field-based entities that can spawn naturally on fields or be summoned using a [Bloom Shaker](bloom-shaker.md). It first appeared in the [2025-12-25 update](updates.md#2025-12-25). They manifest as large flowers adorned with colored petals. The maximum amount of petals a bloom can contain scales with its level.
+**Blooms** are passive field-based entities that can spawn naturally on fields or be summoned using a [Bloom Shaker](bloom-shaker.md). It first appeared in the 2025-12-25 update. They manifest as large flowers adorned with colored petals. The maximum amount of petals a bloom can contain scales with its level.
 
 Collecting petals from blooms gives the respective petal's buff, and honey equal to half of its original HP. Petals will give at least guaranteed 50 honey when collected, even if the bloom's health is under 100 pollen.
 
@@ -842,7 +842,7 @@ Additionally, each petal provides a temporary boost corresponding to its color, 
 
 * The Merigold Petal is misspelled throughout the game. The correct spelling should be 'Marigold'.
   * The [Merigold Jelly Bean](jelly-beans.md#Types_and_Effects) also has this issue.
-  * The "Festive Fetching Frolic" quest given by [Bee Bear](bee-bear.md#2025) for Beesmas 2025 used the correct spelling prior to the [2026-01-16 update](updates.md#2026-01-16).
+  * The "Festive Fetching Frolic" quest given by [Bee Bear](bee-bear.md#2025) for Beesmas 2025 used the correct spelling prior to the 2026-01-16 update.
 * Unique to others, Merigold, Scarlet, Violet and Periwinkle Petals have glitter-like particles when falling down.
 
 <table class="mw-collapsible NavTable">

@@ -261,8 +261,8 @@ The equation is roughly: \(y=4^{\left(-8\sin \left(0.1x-1\right)+x+3.8\right)}\)
 
 ## Trivia
 
-* Hive slots were added in the [first update after the game released](updates.md#2018-04-10), with a maximum of 40.
-  * Later, in the [2018-05-26 update,](updates.md#2018-05-26) the maximum amount of hive slots was increased to 50.
+* Hive slots were added in the first update after the game released, with a maximum of 40.
+  * Later, in the 2018-05-26 update, the maximum amount of hive slots was increased to 50.
 * SDMittens was the first person to obtain fifty hive slots, which she bought on April 22, 2019.
 * Originally, Onett planned to add five additional hive slots that cost Robux, but this was canceled.
   * This was also seen in the Test Realm for some time.
@@ -329,7 +329,7 @@ The equation is roughly: \(y=4^{\left(-8\sin \left(0.1x-1\right)+x+3.8\right)}\)
 </th>
 <th class="NavCategory">Quest Exclusive
 </th>
-<td class="NavLinks NavLinksBasicEven"><b><img alt="Translator" height="35" src="img/Translator.png" width="35"/> <a href="translator.html">Translator</a> • <img alt="Spirit Petal" height="35" src="img/Spirit_Petal.png" width="35"/> <a href="spirit-petal.html">Spirit Petal</a> • <img alt="Debug Wax" height="35" src="img/Debug_Wax.png" width="35"/> <a href="debug-wax.html">Debug Wax</a> • <img alt="Nectar Tester" height="35" src="img/Nectar_Tester.png" width="35"/> <a href="nectar-tester.html">Nectar Tester</a></b> • <span typeof="mw:Error mw:File"></span> <a href="bbm-s-apology.html">BBM's Apology</a><b></b>
+<td class="NavLinks NavLinksBasicEven"><b><img alt="Translator" height="35" src="img/Translator.png" width="35"/> <a href="translator.html">Translator</a> • <img alt="Spirit Petal" height="35" src="img/Spirit_Petal.png" width="35"/> <a href="spirit-petal.html">Spirit Petal</a> • <img alt="Debug Wax" height="35" src="img/Debug_Wax.png" width="35"/> <a href="debug-wax.html">Debug Wax</a> • <img alt="Nectar Tester" height="35" src="img/Nectar_Tester.png" width="35"/> <a href="nectar-tester.html">Nectar Tester</a></b> • <span typeof="mw:Error mw:File"></span> <b></b>
 </td></tr>
 <tr>
 <th class="NavCategory">Beesmas

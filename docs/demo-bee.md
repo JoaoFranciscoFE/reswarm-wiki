@@ -340,7 +340,7 @@ Demo Bee likes the [Dandelion Field](dandelion-field.md) and the [Cactus Field](
   * Demo Bee shares very similar abilities and descriptions to Bomber Bee.
   * Demo Bee and Bomber Bee like the same [Fields](fields.md), but dislike different fields.
 * In the in-game stat menu for Demo Bee, its convert amount is stated to be 170 more than the normal amount (80). However, it is actually 250 more.
-  * The reason for this is speculated to be an oversight from the developer of the game, [Onett](onett-developer.md), after buffing its convert amount from 250 to 330.
+  * The reason for this is speculated to be an oversight from the developer of the game, Onett, after buffing its convert amount from 250 to 330.
 
 <table class="mw-collapsible mw-collapsed NavTable">
 <tbody><tr>

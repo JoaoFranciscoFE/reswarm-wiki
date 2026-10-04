@@ -11,14 +11,6 @@ Throughout the map, plenty of **Easter Eggs** can be found. Some of them have be
 
 [Codes](codes.md) or hints for codes have been scattered across the map. They are written in white and are usually in peculiar places. The codes and their hiding places are:
 
-
-
-## Tutorial Decals (Removed)
-
-<figure class="thumb" style="width: 220px" typeof="mw:File/Thumb">  <figcaption class="thumbcaption"> <p class="caption">The help textures outside the map.</p> </figcaption> </figure>
-
-When starting the game or throughout, there is a [help section](tutorial.md) which can be accessed by pressing the little red ? on the far right side. The textures used for the screenshots were able to be found underneath the map, by the side.
-
 ## Puppy Bee with Reindeer Antlers and Festive Bee with Festive Wreath (Level 2)
 
 <figure class="thumb" style="width: 180px" typeof="mw:File/Thumb">  <figcaption class="thumbcaption"> <p class="caption">Puppy Bee with Reindeer Antlers</p> </figcaption> </figure>
@@ -91,28 +83,6 @@ In the same area as the strange drawing in the honey void, there are two bee mod
 If you go out of bounds to the right of the map, you will see a Vicious Bee and Windy Bee statue that are level 2. They cannot be interacted with.
 
 <figure class="thumb" style="width: 220px" typeof="mw:File/Thumb">  <figcaption class="thumbcaption"> <p class="caption">The Vicious and Windy Bee statues.</p> </figcaption> </figure>
-
-## Tabby Bee Block (Removed)
-
-During the Tabby Bee Update (2018-05-12), there had been sightings of a block with a [Tabby Bee](tabby-bee.md) image on it outside of the map. It was there along with the Tabby Bee itself to hint players of the [code](codes.md) "Meow" (expired) which gave 5 [Tickets](ticket.md).
-
-<figure class="thumb" style="width: 180px" typeof="mw:File/Thumb">  <figcaption class="thumbcaption"> <p class="caption">The Tabby Bee block.</p> </figcaption> </figure>
-
-## Invisible Platform (Removed)
-
-There was an invisible platform in the air, above and just in front of the middle hive. To find it, you could use a cannon and the glider to approach the middle hive, and close the glider when you were right over the hive's white platform. This is no longer possible because there are now 6 hives.
-
-<figure class="thumb" style="width: 155px" typeof="mw:File/Thumb">  <figcaption class="thumbcaption"> <p class="caption">A player standing on the invisible platform.</p> </figcaption> </figure>
-
-## Mysterious Figure (Removed)
-
-Main article: Mysterious Figure
-
-<figure class="thumb" style="width: 185px" typeof="mw:File/Thumb">  <figcaption class="thumbcaption"> <p class="caption">The Mysterious Figure</p> </figcaption> </figure>
-
-The Mysterious Figure, also known as Eggwick from the Egg Hunt 2019 event, was in the [Blue Maze](mazes.md#Blue_Maze) to the right of the [Festive Bee](festive-bee.md) on the [Ticket Tent](ticket-tent.md). After the Egg Hunt 2019 event ended, the statue was removed. Along with the maze, there was 1 Plastic Egg (now a ticket token) and 1 [Jelly Beans](jelly-beans.md).
-
-He is the second statue in the game, the first being the Onett statue. The figure has been replaced by a [Star Jelly](royal-jelly.md#Star_Jelly) token.
 
 ## +5 Pollen Text
 

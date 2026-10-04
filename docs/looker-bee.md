@@ -339,7 +339,7 @@ Looker Bee likes the [Clover Field](clover-field.md) and the [Mountain Top Field
 * Looker Bee was the first [bee](bees.md) to have a [royal jelly](royal-jelly.md#Royal_Jelly_Variant) only turning a bee into it. The jelly was obtainable by using the [code](codes.md), 'ThoseEyes' (expired).
 * The [Looker Guard](looker-guard.md), which can be bought in the [Pro Shop](pro-shop.md), has a special design, name, and stats dedicated to Looker Bee.
 * Looker Bee used to have the same gifted hive bonus as [Tabby Bee](tabby-bee.md) before the nerf on 2021-12-26 update
-* Looker Bee was one of the first bees that were added to the game in an [update](updates.md), along with [Commander Bee](commander-bee.md), [Music Bee](music-bee.md), and [Photon Bee](photon-bee.md).
+* Looker Bee was one of the first bees that were added to the game in an update, along with [Commander Bee](commander-bee.md), [Music Bee](music-bee.md), and [Photon Bee](photon-bee.md).
 * Looker Bee and [Stubborn Bee](stubborn-bee.md) are the only Rare bees that were added after the game's launch.
 * Looker Bee's skin is the same as Commander Bee's skin.
 * Looker Bee is the only bee that dislikes Sunflower Field.

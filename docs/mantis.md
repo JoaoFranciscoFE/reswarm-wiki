@@ -85,7 +85,7 @@ Possible:
 
 ## Strategy
 
-Due to the Mantis' long attack range, the player's [Bees](bees.md) normally won't target it until they get closer/when the mantis itself attacks. Try to get at the very edge of its enormous jump range. Then, when it stops to get ready to attack, walk in a very wide circle around it. If done correctly, the mantis will undershoot and land where you were a few seconds before. This is often close enough for your Bees to start attacking, even once it retreats back. Also, keep in mind the [Frozen Field Defenders Glitch](glitches.md#Frozen_Field_Defenders) can be used to defeat it, just like with most other mobs. When a Mantis is stuck in an object, the player can also defeat it more easily.
+Due to the Mantis' long attack range, the player's [Bees](bees.md) normally won't target it until they get closer/when the mantis itself attacks. Try to get at the very edge of its enormous jump range. Then, when it stops to get ready to attack, walk in a very wide circle around it. If done correctly, the mantis will undershoot and land where you were a few seconds before. This is often close enough for your Bees to start attacking, even once it retreats back. Also, keep in mind the Frozen Field Defenders Glitch can be used to defeat it, just like with most other mobs. When a Mantis is stuck in an object, the player can also defeat it more easily.
 
 ## Trivia
 
@@ -94,7 +94,7 @@ Due to the Mantis' long attack range, the player's [Bees](bees.md) normally won'
   * In [Bee Bear's](bee-bear.md) dialogue for his quests, he asks you to defeat x "Mantises", but in the quest list, it still says "Mantiss".
 * In Bee Bear's quest, ‘*BEE-liz Honey-dad*’, he told the player to defeat 10 Mantises, but if the player talked to him again, he didn't mention this.
 * The mantis in the Pineapple Patch can get stuck in the wall surrounding the field or in the smaller pineapple behind the [Treat Dispenser](treat-dispenser.md), though this is rare.
-  * Before the [2019-09-28 Update](updates.md#2019-09-28), the pine trees in the [Pine Tree Forest](pine-tree-forest.md) could be collided with and the mantises could get stuck in them.
+  * Before the 2019-09-28 Update, the pine trees in the [Pine Tree Forest](pine-tree-forest.md) could be collided with and the mantises could get stuck in them.
 * Mantises have the longest attack jump length of any mob, only rivaled by the [Werewolf](werewolf.md). Because of this, the mantises can jump outside of the field that they're defending into others.
 * The mantis has the same respawn time as the [Scorpion](scorpion.md).
 * During Beesmas 2020, you could get the [Beesmas Top](beesmas-top.md) from the Mantis.

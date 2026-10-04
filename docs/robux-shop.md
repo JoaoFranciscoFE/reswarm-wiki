@@ -328,59 +328,6 @@ This shop sells gamepasses, [Eggs](egg.md), [Royal Jelly](royal-jelly.md), [Hone
 <td>Instantly gain 5,000,000 <a href="honey.html"><span class="color-template color-template-honey">Honey</span></a>.
 </td></tr></tbody></table>
 
-### Removed
-
-Prior to their removal, all gamepasses were a one-time purchase.
-
-<table class="article-table">
-<tbody><tr>
-<th>Icon
-</th>
-<th>Item Name
-</th>
-<th><span typeof="mw:Error mw:File"></span><span class="color-template color-template-robux color-template-background-clip">Robux</span>
-</th>
-<th>Description
-</th></tr>
-<tr>
-<td><img alt="Bear Bee" height="50" src="img/Bear_Bee.png" width="50"/>
-</td>
-<td><a href="bear-bee.html">Bear Bee</a>
-</td>
-<td>800
-</td>
-<td>Gives permanent access to <a href="bear-bee.html">Bear Bee</a>. It periodically transforms you into a bear, granting x2 pollen, increased movement speed, and higher jump power!
-<p><sup>(This part is not included in the description.)</sup> (This is the 2nd Edition <a href="bear-bee.html">Bear Bee</a> version. The 1st Edition version was available during the first month of the game's release for 650 robux. For those that bought it during that time, it will become gifted and will also have a <a href="first-edition-bee.html">1st Edition Flag</a> on it.)
-</p>
-</td></tr>
-<tr>
-<td><span typeof="mw:Error mw:File"></span>
-</td>
-<td>x2 <a href="system-page.html#Convert_Rate_At_Hive">Honey Speed</a> Pass
-</td>
-<td>250
-</td>
-<td>Allows your bees to convert pollen at the hive into honey twice as fast.
-</td></tr>
-<tr>
-<td><span typeof="mw:Error mw:File"></span>
-</td>
-<td>x2 <a href="system-page.html#Pollen_from_Bees">Bee Pollen</a> Pass
-</td>
-<td>400
-</td>
-<td>Allows your bees to collect twice as much pollen at a time when gathering from flowers.
-</td></tr>
-<tr>
-<td><span typeof="mw:Error mw:File"></span>
-</td>
-<td>x2 Ticket Chance Pass
-</td>
-<td>700
-</td>
-<td>Doubled your chance of receiving a ticket when defeating mobs and collecting pollen.
-</td></tr></tbody></table>
-
 ### Expired Limited Edition Items/Packs
 
 <table class="sortable mw-collapsible mw-collapsed article-table" style="width: 100%">
@@ -1176,7 +1123,7 @@ Permanently obtainable in game as a reward from <a href="robo-bear-challenge.htm
   * The Festive Bee Pack, Fuzzy Bee Pack, Buoyant Pack, Precise Pack, Digital Bee Pack, Carpenter's crafting pack and Starry Night Special are the only packs in the Robux Shop that gave a [Bee Egg](egg.md#Specific_Bee_Eggs), as Bear Bee is not a pack, nor was the Windy Bee deal.
 * The honey offers got increased at one point, as the Honey Vault used to only give 200,000 honey.
 * Royal Jelly used to cost 50 robux each and the pack of 10 used to cost 400 robux each.
-* Bear Bee used to cost 1000 robux before the [2019-09-28 update](updates.md#2019-09-28). It now costs 800 robux.
+* Bear Bee used to cost 1000 robux before the 2019-09-28 update. It now costs 800 robux.
   * Similar to Bear Bee, Star Eggs are now 800 robux after being lowered from 1000 robux.
 * Bear Bee was the only gamepass that was removed for a certain amount of time, then re-added.
 * The Gifted Giga-Bundle, Mondo Robo-Bundle, Honeyday Megahaul, Festive Frenzy Haul and 1800 tickets are the most expensive items in the Robux Shop (4500 robux for each item) and 1 ticket is the cheapest item in the Robux Shop (10 robux for each ticket).
@@ -1225,5 +1172,5 @@ Permanently obtainable in game as a reward from <a href="robo-bear-challenge.htm
 <tr>
 <th class="NavCategory">Event<br/>Locations
 </th>
-<td class="NavLinks NavLinksBasicEven"><b><a href="beesmas-tree.html">Beesmas Tree</a> • <a href="ornament-presents.html">Ornament Presents</a> • <span class="new" data-uncrawlable-url="L3dpa2kvQ29tcHV0ZXI/YWN0aW9uPWVkaXQmcmVkbGluaz0x" title="Computer (page does not exist)">Computer</span> • <a href="gift-boxes.html">Gift Boxes</a> • <a href="honey-wreath.html">Honey Wreath</a> • <a href="stockings.html">Stockings</a> • <a href="gingerbread-house.html">Gingerbread House</a> • <a href="snowbear-summoner.html">Snowbear Summoner</a> • <a href="beesmas-lights.html">Beesmas Lights</a> • <a href="samovar.html">Samovar</a> • <a href="beesmas-feast.html">Beesmas Feast</a> • <a href="onett-s-lid-art.html">Onett's Lid Art</a> • <a href="wind-shrine.html#Galentine_Shrine">Galentine Shrine</a> • <a href="memory-match.html#Winter_Memory_Match">Winter Memory Match</a> • <a href="snow-machine.html">Snow Machine</a> • <a href="honeyday-candles.html">Honeyday Candles</a> • <a href="robo-party-cake.html">Robo Party Cake</a> • <a href="gummy-beacon.html">Gummy Beacon</a> • <a href="naughty-list.html">Naughty List</a></b>
+<td class="NavLinks NavLinksBasicEven"><b><a href="beesmas-tree.html">Beesmas Tree</a> • <span class="new" data-uncrawlable-url="L3dpa2kvQ29tcHV0ZXI/YWN0aW9uPWVkaXQmcmVkbGluaz0x" title="Computer (page does not exist)">Computer</span> • <a href="gift-boxes.html">Gift Boxes</a> • <a href="honey-wreath.html">Honey Wreath</a> • <a href="stockings.html">Stockings</a> • <a href="gingerbread-house.html">Gingerbread House</a> • <a href="snowbear-summoner.html">Snowbear Summoner</a> • <a href="beesmas-lights.html">Beesmas Lights</a> • <a href="samovar.html">Samovar</a> • <a href="beesmas-feast.html">Beesmas Feast</a> • <a href="onett-s-lid-art.html">Onett's Lid Art</a> • <a href="wind-shrine.html#Galentine_Shrine">Galentine Shrine</a> • <a href="memory-match.html#Winter_Memory_Match">Winter Memory Match</a> • <a href="snow-machine.html">Snow Machine</a> • <a href="honeyday-candles.html">Honeyday Candles</a> • <a href="robo-party-cake.html">Robo Party Cake</a> • <a href="gummy-beacon.html">Gummy Beacon</a> • <a href="naughty-list.html">Naughty List</a></b>
 </td></tr></tbody></table>

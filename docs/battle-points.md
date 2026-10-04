@@ -29,4 +29,4 @@ The player can see how many battle points they have by stepping on the pad in fr
 
 * The first player to get the Battle Master Badge was DB4444.
 * The first player to get the Battle Grandmaster Badge was MunkNull.
-* No mob has been added since the [2019-09-28](updates.md#2019-09-28) update that gives Battle Points.
+* No mob has been added since the 2019-09-28 update that gives Battle Points.

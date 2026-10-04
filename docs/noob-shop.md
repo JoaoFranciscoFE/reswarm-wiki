@@ -15,7 +15,7 @@ tags: ["Shops", "Locations", "Starter Zone"]
 
 The **Noob Shop** is a [shop](shops.md) run by [Noob Bear](noob-bear.md). This shop sells four [bags](bags.md), five [tools](tools.md), one hat, one pair of boots, and one belt. It is located right next to the [Dandelion Field](dandelion-field.md), and below the entrance of the [Star Hall](star-hall.md). It is the first shop, other than the [Ticket Tent](ticket-tent.md), players have access to.
 
-[Onett](onett-developer.md) has not yet revealed the official name of this shop; it has been named "Noob Shop" by the players because the bear inside is labeled "Noob Bear". However, when [Mother Bear](mother-bear.md) talks about [amulets](amulet.md) with the player, she calls the shop, "Noob Bear's Shop."
+Onett has not yet revealed the official name of this shop; it has been named "Noob Shop" by the players because the bear inside is labeled "Noob Bear". However, when [Mother Bear](mother-bear.md) talks about [amulets](amulet.md) with the player, she calls the shop, "Noob Bear's Shop."
 
 Outside of the shop, there is a [Honey Dispenser](honey-dispenser.md), which can only be used by members of the [Bee Swarm Simulator Club](https://www.roblox.com/groups/3982592/Bee-Swarm-Simulator-Club#!/about).
 
@@ -190,7 +190,7 @@ This [audio](music.md) is known as "Vendor" and also plays inside the [Pro Shop]
 
 ## Trivia
 
-* After the [2018-05-12 update](updates.md#2018-05-12), a green cog appeared on top of this shop. This is a hint for the [code](codes.md) "cog".
+* After the 2018-05-12 update, a green cog appeared on top of this shop. This is a hint for the [code](codes.md) "cog".
   * On top of this cog, there is a [Robo Pass](robo-pass.md) token.
 * Out of the three shops that have a shop bear, this is the only one that doesn't sell a Gliding Tool.
 * The [Helmet](helmet.md) is the most expensive item in the Noob Shop.
@@ -238,5 +238,5 @@ This [audio](music.md) is known as "Vendor" and also plays inside the [Pro Shop]
 <tr>
 <th class="NavCategory">Event<br/>Locations
 </th>
-<td class="NavLinks NavLinksBasicEven"><b><a href="beesmas-tree.html">Beesmas Tree</a> • <a href="ornament-presents.html">Ornament Presents</a> • <span class="new" data-uncrawlable-url="L3dpa2kvQ29tcHV0ZXI/YWN0aW9uPWVkaXQmcmVkbGluaz0x" title="Computer (page does not exist)">Computer</span> • <a href="gift-boxes.html">Gift Boxes</a> • <a href="honey-wreath.html">Honey Wreath</a> • <a href="stockings.html">Stockings</a> • <a href="gingerbread-house.html">Gingerbread House</a> • <a href="snowbear-summoner.html">Snowbear Summoner</a> • <a href="beesmas-lights.html">Beesmas Lights</a> • <a href="samovar.html">Samovar</a> • <a href="beesmas-feast.html">Beesmas Feast</a> • <a href="onett-s-lid-art.html">Onett's Lid Art</a> • <a href="wind-shrine.html#Galentine_Shrine">Galentine Shrine</a> • <a href="memory-match.html#Winter_Memory_Match">Winter Memory Match</a> • <a href="snow-machine.html">Snow Machine</a> • <a href="honeyday-candles.html">Honeyday Candles</a> • <a href="robo-party-cake.html">Robo Party Cake</a> • <a href="gummy-beacon.html">Gummy Beacon</a> • <a href="naughty-list.html">Naughty List</a></b>
+<td class="NavLinks NavLinksBasicEven"><b><a href="beesmas-tree.html">Beesmas Tree</a> • <span class="new" data-uncrawlable-url="L3dpa2kvQ29tcHV0ZXI/YWN0aW9uPWVkaXQmcmVkbGluaz0x" title="Computer (page does not exist)">Computer</span> • <a href="gift-boxes.html">Gift Boxes</a> • <a href="honey-wreath.html">Honey Wreath</a> • <a href="stockings.html">Stockings</a> • <a href="gingerbread-house.html">Gingerbread House</a> • <a href="snowbear-summoner.html">Snowbear Summoner</a> • <a href="beesmas-lights.html">Beesmas Lights</a> • <a href="samovar.html">Samovar</a> • <a href="beesmas-feast.html">Beesmas Feast</a> • <a href="onett-s-lid-art.html">Onett's Lid Art</a> • <a href="wind-shrine.html#Galentine_Shrine">Galentine Shrine</a> • <a href="memory-match.html#Winter_Memory_Match">Winter Memory Match</a> • <a href="snow-machine.html">Snow Machine</a> • <a href="honeyday-candles.html">Honeyday Candles</a> • <a href="robo-party-cake.html">Robo Party Cake</a> • <a href="gummy-beacon.html">Gummy Beacon</a> • <a href="naughty-list.html">Naughty List</a></b>
 </td></tr></tbody></table>

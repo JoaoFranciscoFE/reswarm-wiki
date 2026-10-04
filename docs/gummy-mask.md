@@ -70,15 +70,15 @@ The appearance of the Gummy Mask has a teal gumdrop on top emitting tiny bubbles
 * If the ingredients to craft this item were to be crafted, a total of 5,000,000,000 Honey, 75,000 [Blueberries](blueberry.md), 75,000 [Strawberries](strawberry.md), 92,500 [Pineapples](pineapple.md), 5,000 [Sunflower Seeds](sunflower-seed.md), 8,000 [Royal Jellies](royal-jelly.md), 100 [Magic Beans](magic-bean.md) and 1 [Satisfying Vial](satisfying-vial.md) of nectar are needed.
 * Upon activating the Gummy Morph, [Gummy Bee](gummy-bee.md) will have the highest Base Attack Power of 303 damage in total.
 * This is the only mask that represents an [Event bee](bees-event.md) (Gummy Bee), as the other masks are based on [Epic](bees-epic.md) and [Legendary Bees](bees-legendary.md).
-* The Gummy Mask was nerfed in the [2019-04-05 Update](updates.md#2019-04-05) because it was too powerful.
-  * It was later buffed a little in the [2019-04-17 Update](updates.md#2019-04-17), as people were complaining that it was extremely bad with the nerf.
-* Before the [2019-09-28 Update](updates.md#2019-09-28), if the [Unlimited Gumdrops](buffs-debuffs.md#From_Areas) buff is active, the passive ability would not be activated from gumdrops. This is because gumdrops in the inventory weren't technically consumed upon use with the Unlimited Gumdrops buff.
+* The Gummy Mask was nerfed in the 2019-04-05 Update because it was too powerful.
+  * It was later buffed a little in the 2019-04-17 Update, as people were complaining that it was extremely bad with the nerf.
+* Before the 2019-09-28 Update, if the [Unlimited Gumdrops](buffs-debuffs.md#From_Areas) buff is active, the passive ability would not be activated from gumdrops. This is because gumdrops in the inventory weren't technically consumed upon use with the Unlimited Gumdrops buff.
   * After the update, it can now be activated with Unlimited Gumdrops.
 * The [music](music.md) that plays when the Gummy Bear Morph is active is a slight rendition of [Gummy Bear's](gummy-bear.md) theme that plays in the Gummy Bear's Lair.
 * This and the [Honey Mask](honey-mask.md) are the only masks in the game that requires a badge to access and purchase.
   * Coincidentally, the Honey Mask is also required to unlock the coin scatter ability on this mask.
 * The Gummy Mask is the only mask in the game that requires a specific badge to access it.
-  * This is the only way to get a Bear Morph ability without Robux and codes before the [2024-05-23 Update](updates.md#2024-05-23).
+  * This is the only way to get a Bear Morph ability without Robux and codes before the 2024-05-23 Update.
 * Either this mask or the [Gummy Boots](gummy-boots.md) were needed in order to receive Gummy Bear's Beesmas quest.
 * The Gummy Morph icon is the same icon as the one for the Goo badge.
 * This and the Strange Goggles are the only items that are required to interact with NPCs. However, during Beesmas, the Honey Mask was also needed to give [Honey Bee](honey-bee-npc.md) a present and to receive its Beesmas quest.
@@ -147,7 +147,7 @@ The appearance of the Gummy Mask has a teal gumdrop on top emitting tiny bubbles
 </th>
 <th class="NavCategory">Quest Exclusive
 </th>
-<td class="NavLinks NavLinksBasicEven"><b><img alt="Translator" height="35" src="img/Translator.png" width="35"/> <a href="translator.html">Translator</a> • <img alt="Spirit Petal" height="35" src="img/Spirit_Petal.png" width="35"/> <a href="spirit-petal.html">Spirit Petal</a> • <img alt="Debug Wax" height="35" src="img/Debug_Wax.png" width="35"/> <a href="debug-wax.html">Debug Wax</a> • <img alt="Nectar Tester" height="35" src="img/Nectar_Tester.png" width="35"/> <a href="nectar-tester.html">Nectar Tester</a></b> • <span typeof="mw:Error mw:File"></span> <a href="bbm-s-apology.html">BBM's Apology</a><b></b>
+<td class="NavLinks NavLinksBasicEven"><b><img alt="Translator" height="35" src="img/Translator.png" width="35"/> <a href="translator.html">Translator</a> • <img alt="Spirit Petal" height="35" src="img/Spirit_Petal.png" width="35"/> <a href="spirit-petal.html">Spirit Petal</a> • <img alt="Debug Wax" height="35" src="img/Debug_Wax.png" width="35"/> <a href="debug-wax.html">Debug Wax</a> • <img alt="Nectar Tester" height="35" src="img/Nectar_Tester.png" width="35"/> <a href="nectar-tester.html">Nectar Tester</a></b> • <span typeof="mw:Error mw:File"></span> <b></b>
 </td></tr>
 <tr>
 <th class="NavCategory">Beesmas

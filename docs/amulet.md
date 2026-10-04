@@ -13,13 +13,13 @@ Datamined information: How Amulets are generated. — December 19th, 2024
 
 <figure class="thumb" style="width: 246px" typeof="mw:File/Thumb">  <figcaption class="thumbcaption"> <p class="caption">The scheme for the Ant Amulet.</p> </figcaption> </figure>
 
-An **amulet** is an item introduced in the [2018-07-11 update](updates.md#2018-07-11). They grant several [buffs](buffs-debuffs.md) to the player and/or their [bees](bees.md), and can be obtained by completing certain special challenges.
+An **amulet** is an item introduced in the 2018-07-11 update. They grant several [buffs](buffs-debuffs.md) to the player and/or their [bees](bees.md), and can be obtained by completing certain special challenges.
 
 ## Obtaining
 
 Collecting an amulet will bring up a table with the old and new amulets' stats, and the option to keep the old amulet or replace it. The scheme on the left shows an example table, with the player's amulet type as well as other rewards. If the player has obtained the amulet from the Ant Challenge or Stick Bug Challenge, their score will be shown above the rewards.
 
-Clicking "**Keep Old**" will cause the player to keep their current amulet and clicking "**Replace**" will cause the player to receive a confirmation message asking if they want to replace it. If the player has agreed to replace their amulet after the confirmation message, the player's old amulet will be replaced with the new one. **This cannot be reversed**. Note that the drops will still be received even if the player didn't replace their amulet. If two or more tables are shown, the previous table(s) are closed, and the newest table is displayed. As of the [2020-06-06 update](updates.md#2020-06-06), a confirmation message will now pop up if the player tries to replace an amulet if they already had that type of amulet, and, as of the [2021-12-26 update](updates.md#2021-12-26), disconnecting while a recently generated amulet is undecided gives the player another chance to choose upon going back in a server.
+Clicking "**Keep Old**" will cause the player to keep their current amulet and clicking "**Replace**" will cause the player to receive a confirmation message asking if they want to replace it. If the player has agreed to replace their amulet after the confirmation message, the player's old amulet will be replaced with the new one. **This cannot be reversed**. Note that the drops will still be received even if the player didn't replace their amulet. If two or more tables are shown, the previous table(s) are closed, and the newest table is displayed. As of the 2020-06-06 update, a confirmation message will now pop up if the player tries to replace an amulet if they already had that type of amulet, and, as of the 2021-12-26 update, disconnecting while a recently generated amulet is undecided gives the player another chance to choose upon going back in a server.
 
 ## Generation
 

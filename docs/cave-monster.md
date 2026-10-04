@@ -31,7 +31,7 @@ It is possible to defeat the cave monster. However, they move very fast, so some
 
 ## Trivia
 
-* [Onett](onett-developer.md) had stated that cave monsters have a rare drop and can only be obtained by defeating them, but he also said that the drop is not very useful. This was later confirmed to be a Honey Bee egg. Onett had also jokingly said that "Saving the [honey bee](honey-bee.md) from the cave monsters was the ultimate goal of [Re://:Swarm](re-swarm.md)."[1]
+* Onett had stated that cave monsters have a rare drop and can only be obtained by defeating them, but he also said that the drop is not very useful. This was later confirmed to be a Honey Bee egg. Onett had also jokingly said that "Saving the [honey bee](honey-bee.md) from the cave monsters was the ultimate goal of [Re://:Swarm](re-swarm.md)."[1]
 * Their noises can be heard throughout the entire map, along with [Mondo Chick](mondo-chick.md), [Commando Chick](commando-chick.md), and a few other things.
 * Cave monsters were the first mobs that are able to instantly kill the player and one of two mobs that instantly kill the player upon touching them (the other being [Tunnel Bear](tunnel-bear.md)).
   * This makes the cave monsters the most lethal non-boss mob in the game.
@@ -42,7 +42,7 @@ It is possible to defeat the cave monster. However, they move very fast, so some
   * Cave monsters, Coconut Crab, [RBC Mobs](robo-bear-challenge.md), [Snowbear](snowbear.md), and ants are the only mobs that don't drop honey upon death.
 * Cave monsters are currently the only mobs with a set respawn time that [quest givers](quest-givers.md) do not require the player to defeat.
 * Cave monsters are the only defeatable mobs that do not have a health bar.
-  * Between the [2018-11-25](updates.md#2018-11-25) and the [2018-12-25](updates.md#2018-12-25) [updates](updates.md), the Cave Monsters had a health bar that revealed they were level 11 and had 400 health.
+  * Between the 2018-11-25 and the 2018-12-25 updates, the Cave Monsters had a health bar that revealed they were level 11 and had 400 health.
 * When donating the Honey Bee Egg to the [Wind Shrine](wind-shrine.md), there is a decent chance it will spawn [Bean Bugs](bean-bug.md). This makes killing the Cave Monster somewhat useful as some quests require collecting tokens from Bean Bugs.
 
 ## References

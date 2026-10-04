@@ -9,7 +9,7 @@ tags: ["Locations"]
 
 ## Blue Maze
 
-The **Blue Maze** is located next to the [Ticket Tent](ticket-tent.md) (or behind the Beige Gift Box in Beesmas 2021) . It was added in the [Egg Hunt 2019 Update](updates.md#2019-04-17). This requires no [bee](bees.md) requisites to enter since it's located in the [Starter Zone](starter-zone.md).
+The **Blue Maze** is located next to the [Ticket Tent](ticket-tent.md) (or behind the Beige Gift Box in Beesmas 2021) . It was added in the Egg Hunt 2019 Update. This requires no [bee](bees.md) requisites to enter since it's located in the [Starter Zone](starter-zone.md).
 
 Inside the maze, the player can obtain 5 [tickets](ticket.md) by taking a left turn first and then a right turn, and a [jelly bean](jelly-beans.md) token by taking the path on the right. There used to be a plastic egg where the tickets were in the 2019 Egg Hunt. The player can also find a [star jelly](royal-jelly.md#Star_Jelly) token on the right, but it is blocked by a glass wall. It can be obtained by going through a passage behind the [Petal Shop](petal-shop.md).
 
@@ -29,7 +29,7 @@ If the player gets close enough, they can grab both tokens through the walls, ma
 
 ## Trivia
 
-* Before the Egg Hunt 2019 Event ended on [2019-05-13](updates.md#2019-05-13), there was a plastic egg token in place of the ticket token and the Mysterious Figure was in the Blue Maze in place of the star jelly token. These have been removed in the following minor update, as well as other Egg Hunt content with it. The room it was located in is still present, however.
+* Before the Egg Hunt 2019 Event ended on 2019-05-13, there was a plastic egg token in place of the ticket token and the Mysterious Figure was in the Blue Maze in place of the star jelly token. These have been removed in the following minor update, as well as other Egg Hunt content with it. The room it was located in is still present, however.
 
 <table class="mw-collapsible mw-collapsed NavTable">
 <tbody><tr>
@@ -73,5 +73,5 @@ If the player gets close enough, they can grab both tokens through the walls, ma
 <tr>
 <th class="NavCategory">Event<br/>Locations
 </th>
-<td class="NavLinks NavLinksBasicEven"><b><a href="beesmas-tree.html">Beesmas Tree</a> • <a href="ornament-presents.html">Ornament Presents</a> • <span class="new" data-uncrawlable-url="L3dpa2kvQ29tcHV0ZXI/YWN0aW9uPWVkaXQmcmVkbGluaz0x" title="Computer (page does not exist)">Computer</span> • <a href="gift-boxes.html">Gift Boxes</a> • <a href="honey-wreath.html">Honey Wreath</a> • <a href="stockings.html">Stockings</a> • <a href="gingerbread-house.html">Gingerbread House</a> • <a href="snowbear-summoner.html">Snowbear Summoner</a> • <a href="beesmas-lights.html">Beesmas Lights</a> • <a href="samovar.html">Samovar</a> • <a href="beesmas-feast.html">Beesmas Feast</a> • <a href="onett-s-lid-art.html">Onett's Lid Art</a> • <a href="wind-shrine.html#Galentine_Shrine">Galentine Shrine</a> • <a href="memory-match.html#Winter_Memory_Match">Winter Memory Match</a> • <a href="snow-machine.html">Snow Machine</a> • <a href="honeyday-candles.html">Honeyday Candles</a> • <a href="robo-party-cake.html">Robo Party Cake</a> • <a href="gummy-beacon.html">Gummy Beacon</a> • <a href="naughty-list.html">Naughty List</a></b>
+<td class="NavLinks NavLinksBasicEven"><b><a href="beesmas-tree.html">Beesmas Tree</a> • <span class="new" data-uncrawlable-url="L3dpa2kvQ29tcHV0ZXI/YWN0aW9uPWVkaXQmcmVkbGluaz0x" title="Computer (page does not exist)">Computer</span> • <a href="gift-boxes.html">Gift Boxes</a> • <a href="honey-wreath.html">Honey Wreath</a> • <a href="stockings.html">Stockings</a> • <a href="gingerbread-house.html">Gingerbread House</a> • <a href="snowbear-summoner.html">Snowbear Summoner</a> • <a href="beesmas-lights.html">Beesmas Lights</a> • <a href="samovar.html">Samovar</a> • <a href="beesmas-feast.html">Beesmas Feast</a> • <a href="onett-s-lid-art.html">Onett's Lid Art</a> • <a href="wind-shrine.html#Galentine_Shrine">Galentine Shrine</a> • <a href="memory-match.html#Winter_Memory_Match">Winter Memory Match</a> • <a href="snow-machine.html">Snow Machine</a> • <a href="honeyday-candles.html">Honeyday Candles</a> • <a href="robo-party-cake.html">Robo Party Cake</a> • <a href="gummy-beacon.html">Gummy Beacon</a> • <a href="naughty-list.html">Naughty List</a></b>
 </td></tr></tbody></table>

@@ -20,5 +20,5 @@ When in the hideout, the following audio "Crawlers" plays:
 ## Trivia
 
 * This location used to house the [Most Commando Captures leaderboard](most-commando-captures.md) before it was removed from the game.
-* In Beesmas 2019, this location contained the [Golden Present](ornament-presents.md).
-  * The obstacle course remained after the presents were removed. When the [2020-04-06 update](updates.md#2020-04-06) came out, it was repurposed into the hideout.
+* In Beesmas 2019, this location contained the Golden Present.
+  * The obstacle course remained after the presents were removed. When the 2020-04-06 update came out, it was repurposed into the hideout.

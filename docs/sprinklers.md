@@ -22,7 +22,7 @@ The Basic Sprinkler is unlocked as soon as a player is able to enter the Badge B
 Players cannot place their own sprinklers within 8 flowers of each other. However, they can place their sprinklers right next to a different player's sprinkler. When they place their sprinkler too close to another one of theirs, the player gets a message that says:
 Cannot place sprinklers this close to eachother *[sic]*
 
-However, the the [Sprinkler Glitch](glitches.md#Sprinkler_Glitch) can occur if the player places a sprinkler mid-air, overriding the restriction and planting sprinklers closer than normal.
+However, the the Sprinkler Glitch can occur if the player places a sprinkler mid-air, overriding the restriction and planting sprinklers closer than normal.
 
 Note that what players are able to buy is actually a sprinkler *builder*, which is a permanent tool that players can access via the eggs/items tab whenever they like. Players can activate it by placing the item on the bottom middle of their screen and clicking it (or their corresponding hotkeys, if the player is on a PC). If a player places more sprinklers than they can place, the oldest one will be removed. A sprinkler that is placed in a field will stay there until the player who placed it removes it by placing it elsewhere, or until the player dies or leaves the game.
 

@@ -291,7 +291,7 @@ Touching a Dark Flame grants 33% more growth to [Scorching Stars](passive-abilit
   * 450 [Magic Beans](magic-bean.md) or 9,000 [Tickets](ticket.md)
   * 150 [Stingers](stinger.md) or 1,500 [Tickets](ticket.md)
   * 3 [Invigorating Vials](invigorating-vial.md) or 36 hours of Invigorating Nectar
-* On December 28, 2021, there was an exploit that could have been used to obtain the Dark Scythe, as well as Tide Popper and Gummyballer for free. This was later patched by [Onett](onett-developer.md), and everybody who used the exploit got a full reset on their account.
+* On December 28, 2021, there was an exploit that could have been used to obtain the Dark Scythe, as well as Tide Popper and Gummyballer for free. This was later patched by Onett, and everybody who used the exploit got a full reset on their account.
 * There was a glitch allowing players to buy the Dark Scythe without completing 250 [Gifted Riley Bee](gifted-riley-bee.md) quests. If the Dark Scythe was bought without doing 250 [Gifted Riley Bee](gifted-riley-bee.md) quests, the player could only equip the item after doing 250 [Gifted Riley Bee](gifted-riley-bee.md) quests.
   * This was also the case with the [Tide Popper](tide-popper.md).
 * The Dark Scythe, alongside the Tide Popper and [Gummyballer](gummyballer.md) are the only items without an in-game description which details stats.
@@ -358,7 +358,7 @@ Touching a Dark Flame grants 33% more growth to [Scorching Stars](passive-abilit
 </th>
 <th class="NavCategory">Quest Exclusive
 </th>
-<td class="NavLinks NavLinksBasicEven"><b><img alt="Translator" height="35" src="img/Translator.png" width="35"/> <a href="translator.html">Translator</a> • <img alt="Spirit Petal" height="35" src="img/Spirit_Petal.png" width="35"/> <a href="spirit-petal.html">Spirit Petal</a> • <img alt="Debug Wax" height="35" src="img/Debug_Wax.png" width="35"/> <a href="debug-wax.html">Debug Wax</a> • <img alt="Nectar Tester" height="35" src="img/Nectar_Tester.png" width="35"/> <a href="nectar-tester.html">Nectar Tester</a></b> • <span typeof="mw:Error mw:File"></span> <a href="bbm-s-apology.html">BBM's Apology</a><b></b>
+<td class="NavLinks NavLinksBasicEven"><b><img alt="Translator" height="35" src="img/Translator.png" width="35"/> <a href="translator.html">Translator</a> • <img alt="Spirit Petal" height="35" src="img/Spirit_Petal.png" width="35"/> <a href="spirit-petal.html">Spirit Petal</a> • <img alt="Debug Wax" height="35" src="img/Debug_Wax.png" width="35"/> <a href="debug-wax.html">Debug Wax</a> • <img alt="Nectar Tester" height="35" src="img/Nectar_Tester.png" width="35"/> <a href="nectar-tester.html">Nectar Tester</a></b> • <span typeof="mw:Error mw:File"></span> <b></b>
 </td></tr>
 <tr>
 <th class="NavCategory">Beesmas

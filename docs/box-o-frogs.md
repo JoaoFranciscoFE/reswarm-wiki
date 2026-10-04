@@ -19,7 +19,7 @@ CAP
 
 15
 
-**Box-O-Frogs** is an inventory item that was added in the [Beesmas 2019 update](updates.md#2019-12-25). When used, three gifted [frogs](frog.md) will be summoned in any [field](fields.md) the player is currently standing in, which last for three minutes, that can collect [tokens](ability-tokens.md), produce [bubbles](passive-abilities.md#Gathering_Bubbles) around the field (if spawned in a field), and attack hostile [mobs](mobs.md).
+**Box-O-Frogs** is an inventory item that was added in the Beesmas 2019 update. When used, three gifted [frogs](frog.md) will be summoned in any [field](fields.md) the player is currently standing in, which last for three minutes, that can collect [tokens](ability-tokens.md), produce [bubbles](passive-abilities.md#Gathering_Bubbles) around the field (if spawned in a field), and attack hostile [mobs](mobs.md).
 
 It can also be used outside of a field, but the frogs summoned will aimlessly hop, which then won't do anything unless one of the frogs is in the field. The frogs have infinite HP and cannot die.
 
@@ -32,29 +32,6 @@ It can also be used outside of a field, but the frogs summoned will aimlessly ho
 * Adding the [BBM From Below Sticker](sticker.md#Sticker_Index) to the [Sticker Stack](sticker-stack.md) rewards 1 **Box-O-Frogs**.
 * A low chance to drop from [Onett's Lid Art](onett-s-lid-art.md).
 * A low chance to drop from [Brown Bear's Stockings](stockings.md).
-
-### Outdated Ways
-
-<table class="mw-collapsible mw-collapsed article-table">
-<caption>
-</caption>
-<tbody><tr>
-<td>
-<ul><li>Completing <a href="onett.html">Onett's</a> “Yard Art On The Lid” rewarded <img alt="Box-O-Frogs" height="25" src="img/Box-O-Frogs.png" width="25"/>1 <strong class="mw-selflink selflink"><span class="color-template color-template-box-o-frogs color-template-background-clip">Box-O-Frogs</span></strong> and other items.</li>
-<li>Completing Bubble Bee Man's "B.B.M's Naughty List" during Beesmas 2021 rewarded <img alt="Box-O-Frogs" height="25" src="img/Box-O-Frogs.png" width="25"/>11 <strong class="mw-selflink selflink"><span class="color-template color-template-box-o-frogs color-template-background-clip">Boxes-O-Frogs</span></strong> and other items.</li>
-<li>Completing Bubble Bee Man's "B.B.M's Naughty List" during Beesmas 2022 rewarded <img alt="Box-O-Frogs" height="25" src="img/Box-O-Frogs.png" width="25"/>12 <strong class="mw-selflink selflink"><span class="color-template color-template-box-o-frogs color-template-background-clip">Boxes-O-Frogs</span></strong> and other items.</li>
-<li>Giving Bubble Bee Man a present during Beesmas 2021 gave <img alt="Box-O-Frogs" height="25" src="img/Box-O-Frogs.png" width="25"/>5 <strong class="mw-selflink selflink"><span class="color-template color-template-box-o-frogs color-template-background-clip">Boxes-O-Frogs</span></strong> and other items.</li>
-<li>Purchasing the <a href="robux-shop.html#Items">Stocking Stuffer Special pack</a> for <span typeof="mw:Error mw:File"></span>400 <span class="color-template color-template-robux color-template-background-clip">Robux</span> in the <a href="robux-shop.html">Robux Shop</a> gave <img alt="Box-O-Frogs" height="25" src="img/Box-O-Frogs.png" width="25"/>10 <strong class="mw-selflink selflink"><span class="color-template color-template-box-o-frogs color-template-background-clip">Boxes-O-Frogs</span></strong> and other items.</li>
-<li>Opening the <a href="ornament-presents.html">Shady Present</a> gave <img alt="Box-O-Frogs" height="25" src="img/Box-O-Frogs.png" width="25"/>6 <strong class="mw-selflink selflink"><span class="color-template color-template-box-o-frogs color-template-background-clip">Boxes-O-Frogs</span></strong> and other items.</li>
-<li>Completing <a href="bee-bear.html">Bee Bear</a>’s "Festive Wreath Workshop 8" quest rewarded <img alt="Box-O-Frogs" height="25" src="img/Box-O-Frogs.png" width="25"/>3 <strong class="mw-selflink selflink"><span class="color-template color-template-box-o-frogs color-template-background-clip">Boxes-O-Frogs</span></strong> and other items.</li>
-<li>Giving Bubble Bee Man a present during Beesmas 2020 gave <img alt="Box-O-Frogs" height="25" src="img/Box-O-Frogs.png" width="25"/>6 <strong class="mw-selflink selflink"><span class="color-template color-template-box-o-frogs color-template-background-clip">Boxes-O-Frogs</span></strong> and other items.</li>
-<li>Redeeming certain expired codes:
-<ul><li>FestiveFrogs (Gave <img alt="Box-O-Frogs" height="25" src="img/Box-O-Frogs.png" width="25"/>1 <strong class="mw-selflink selflink"><span class="color-template color-template-box-o-frogs color-template-background-clip">Box-O-Frogs</span></strong> + other items)</li>
-<li>3YearParty (Gave <img alt="Box-O-Frogs" height="25" src="img/Box-O-Frogs.png" width="25"/>1 <strong class="mw-selflink selflink"><span class="color-template color-template-box-o-frogs color-template-background-clip">Box-O-Frogs</span></strong> + other items)</li></ul></li>
-<li>Completing Bee Bear's 9th quest gave <img alt="Box-O-Frogs" height="25" src="img/Box-O-Frogs.png" width="25"/>1 <strong class="mw-selflink selflink"><span class="color-template color-template-box-o-frogs color-template-background-clip">Box-O-Frogs</span></strong> during Beesmas 2022.</li>
-<li>Completing Bee Bear's "Cheering Up Gloomy Cub (4/5): Material Things?" rewards <img alt="Box-O-Frogs" height="25" src="img/Box-O-Frogs.png" width="25"/>3 <strong class="mw-selflink selflink"><span class="color-template color-template-box-o-frogs color-template-background-clip">Boxes-O-Frogs</span></strong> and other items.</li>
-<li>Completing Bubble Bee Man's "B.B.M's Naughty List" during Winter Beesmas 2024 rewards <img alt="Box-O-Frogs" height="25" src="img/Box-O-Frogs.png" width="25"/>10 <strong class="mw-selflink selflink"><span class="color-template color-template-box-o-frogs color-template-background-clip">Boxes-O-Frogs</span></strong> and other items.</li></ul>
-</td></tr></tbody></table>
 
 ## Trivia
 
@@ -123,7 +100,7 @@ It can also be used outside of a field, but the frogs summoned will aimlessly ho
 </th>
 <th class="NavCategory">Quest Exclusive
 </th>
-<td class="NavLinks NavLinksBasicEven"><b><img alt="Translator" height="35" src="img/Translator.png" width="35"/> <a href="translator.html">Translator</a> • <img alt="Spirit Petal" height="35" src="img/Spirit_Petal.png" width="35"/> <a href="spirit-petal.html">Spirit Petal</a> • <img alt="Debug Wax" height="35" src="img/Debug_Wax.png" width="35"/> <a href="debug-wax.html">Debug Wax</a> • <img alt="Nectar Tester" height="35" src="img/Nectar_Tester.png" width="35"/> <a href="nectar-tester.html">Nectar Tester</a></b> • <span typeof="mw:Error mw:File"></span> <a href="bbm-s-apology.html">BBM's Apology</a><b></b>
+<td class="NavLinks NavLinksBasicEven"><b><img alt="Translator" height="35" src="img/Translator.png" width="35"/> <a href="translator.html">Translator</a> • <img alt="Spirit Petal" height="35" src="img/Spirit_Petal.png" width="35"/> <a href="spirit-petal.html">Spirit Petal</a> • <img alt="Debug Wax" height="35" src="img/Debug_Wax.png" width="35"/> <a href="debug-wax.html">Debug Wax</a> • <img alt="Nectar Tester" height="35" src="img/Nectar_Tester.png" width="35"/> <a href="nectar-tester.html">Nectar Tester</a></b> • <span typeof="mw:Error mw:File"></span> <b></b>
 </td></tr>
 <tr>
 <th class="NavCategory">Beesmas

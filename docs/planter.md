@@ -430,13 +430,13 @@ x1.02 - x1.10 <a href="system-page.html#Bee_Attack">Bee Attack</a>
 
 ## Trivia
 
-* All planters (except the [Heat-Treated Planter](heat-treated-planter.md), [Hydroponic Planter](hydroponic-planter.md) and [Sticker Planter](sticker-planter.md)) were added in the [2021-12-26 update](updates.md).
+* All planters (except the [Heat-Treated Planter](heat-treated-planter.md), [Hydroponic Planter](hydroponic-planter.md) and [Sticker Planter](sticker-planter.md)) were added in the 2021-12-26 update.
 * There are currently 10 reusable planters, thus adding 10 more inventory items that are reusable.
 * Onett hired [Not\_Nert](https://www.roblox.com/users/87520897/profile) for modelling all of the planter models.
 * Similarly to certain other items that can be placed down, any planters that have been placed down before the player has joined will not appear for that player.
 * [Festive Planter](festive-planter.md) is the only planter that can drop [Gingerbread Bears](gingerbread-bear.md) and [Festive Beans](festive-bean.md).
 * The pollen gained from planters counts toward [quests](quests.md) that require [pollen](pollen.md).
-* [Sticker Planter](sticker-planter.md) is the newest planter, being added in the [2024-01-12 update](updates.md).
+* [Sticker Planter](sticker-planter.md) is the newest planter, being added in the 2024-01-12 update.
 * Bees do not sip from planters during battle.
 * In spite of the game labelling many planters with "1/1" in the player's inventory, many of them listed above are reusable meaning the player can use them an infinite number of times after purchase.
 * The amount of time taken for a bee to sip nectar from a planter is twice the bee's gathering speed.
@@ -502,7 +502,7 @@ x1.02 - x1.10 <a href="system-page.html#Bee_Attack">Bee Attack</a>
 </th>
 <th class="NavCategory">Quest Exclusive
 </th>
-<td class="NavLinks NavLinksBasicEven"><b><img alt="Translator" height="35" src="img/Translator.png" width="35"/> <a href="translator.html">Translator</a> • <img alt="Spirit Petal" height="35" src="img/Spirit_Petal.png" width="35"/> <a href="spirit-petal.html">Spirit Petal</a> • <img alt="Debug Wax" height="35" src="img/Debug_Wax.png" width="35"/> <a href="debug-wax.html">Debug Wax</a> • <img alt="Nectar Tester" height="35" src="img/Nectar_Tester.png" width="35"/> <a href="nectar-tester.html">Nectar Tester</a></b> • <span typeof="mw:Error mw:File"></span> <a href="bbm-s-apology.html">BBM's Apology</a><b></b>
+<td class="NavLinks NavLinksBasicEven"><b><img alt="Translator" height="35" src="img/Translator.png" width="35"/> <a href="translator.html">Translator</a> • <img alt="Spirit Petal" height="35" src="img/Spirit_Petal.png" width="35"/> <a href="spirit-petal.html">Spirit Petal</a> • <img alt="Debug Wax" height="35" src="img/Debug_Wax.png" width="35"/> <a href="debug-wax.html">Debug Wax</a> • <img alt="Nectar Tester" height="35" src="img/Nectar_Tester.png" width="35"/> <a href="nectar-tester.html">Nectar Tester</a></b> • <span typeof="mw:Error mw:File"></span> <b></b>
 </td></tr>
 <tr>
 <th class="NavCategory">Beesmas

@@ -335,10 +335,10 @@ Stubborn Bee likes the [Dandelion Field](dandelion-field.md) and the [Pineapple
 
 ## Trivia
 
-* Stubborn Bee was one of the two bees added in the [2018-11-25 update](updates.md#2018-11-25), the other being [Carpenter Bee](carpenter-bee.md).
+* Stubborn Bee was one of the two bees added in the 2018-11-25 update, the other being [Carpenter Bee](carpenter-bee.md).
 * Stubborn Bee and [Looker Bee](looker-bee.md) are the only Rare bees added after the game launch.
 * The gifted hive bonus (+15% ability token lifespan) used to be broken. The player could have a Gifted Stubborn Bee in their hive, but the ability token lifespan would not apply. This was fixed on an unknown update in February 2021.
-* Stubborn Bee is the only Colorless Rare Bee that does not have its own guard in the [Pro Shop](pro-shop.md). This is because it was added in the [2018-11-25](updates.md#2018-11-25) update, after the guards were added.
+* Stubborn Bee is the only Colorless Rare Bee that does not have its own guard in the [Pro Shop](pro-shop.md). This is because it was added in the 2018-11-25 update, after the guards were added.
 
 <table class="mw-collapsible mw-collapsed NavTable">
 <tbody><tr>
