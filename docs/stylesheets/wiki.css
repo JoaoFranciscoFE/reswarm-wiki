@@ -54,6 +54,10 @@ figure img { max-width: 100%; height: auto; }
 }
 [data-md-color-scheme="default"] .md-main__inner { background: #ffffff; }
 .md-sidebar__scrollwrap { scrollbar-color: #2c3c3d transparent; }
+/* keep the whole sidebar inside the panel on short pages */
+@media screen and (min-width: 76.25em) {
+  .md-main__inner { min-height: 36rem; }
+}
 
 /* Sidebars */
 .md-nav__title { color: var(--md-default-fg-color--light); text-transform: uppercase; letter-spacing: .05em; }
@@ -92,6 +96,8 @@ figure img { max-width: 100%; height: auto; }
 [data-md-color-scheme="default"] .md-typeset .wikitable th,
 [data-md-color-scheme="default"] .md-typeset .article-table th,
 [data-md-color-scheme="default"] .md-typeset table:not([class]) th { background: #e6eef0; }
+/* wide tables scroll sideways instead of running over the table of contents */
+.md-typeset .wikitable, .md-typeset .article-table { display: inline-block; max-width: 100%; overflow-x: auto; }
 
 /* Footer */
 .md-footer, .md-footer-meta { background: #081011; }
