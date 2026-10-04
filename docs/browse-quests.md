@@ -27,6 +27,6 @@ All 20 pages in Quests.
 <a class="wiki-card" href="science-bear.html"><img src="img/Panicked_Science_Bear.png" alt="" loading="lazy"><span>Science Bear</span></a>
 <a class="wiki-card" href="spirit-bear.html"><img src="img/Sideways_Spirit_Bear.png" alt="" loading="lazy"><span>Spirit Bear</span></a>
 <a class="wiki-card wiki-card--noicon" href="stick-bug.html"><img src="images/no-icon.svg" alt="" loading="lazy"><span>Stick Bug</span></a>
-<a class="wiki-card wiki-card--noicon" href="sticker-seeker-quest-machine.html"><img src="images/no-icon.svg" alt="" loading="lazy"><span>Sticker-Seeker Quest Machine</span></a>
+<a class="wiki-card" href="sticker-seeker-quest-machine.html"><img src="img/Sticker-Seeker.png" alt="" loading="lazy"><span>Sticker-Seeker Quest Machine</span></a>
 <a class="wiki-card" href="sun-bear.html"><img src="img/Stranded_Sun_Bear.png" alt="" loading="lazy"><span>Sun Bear</span></a>
 </div>
