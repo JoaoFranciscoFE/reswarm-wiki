@@ -34,7 +34,7 @@ tags: ["Pages with broken file links", "Bees", "Event", "Colorless"]
 
 **Digital Bee** is a Colorless [Event bee](bees-event.md) that hatches out of a [Digital Bee egg](egg.md#Event_Bee_Eggs), which is available in the [Robo Bear's Shop](robo-bear-s-shop.md) for 7,777,777 [Honey](honey.md), 5 [Red Drives](drives.md#Red_Drive), 5 [Blue Drives](drives.md#Blue_Drive), 5 [White Drives](drives.md#White_Drive), and 5 [Glitched Drives](drives.md#Glitched_Drive). It also requires the player to unlock (not equip) the [Diamond Cog Amulet](cog-amulet.md) to unlock crafting it. If Digital Bee is already owned, 1,000 [Tickets](ticket.md) will be granted instead.
 
-Like all other Event bees, this bee does not have a favorite treat, and the only way to make it gifted is by feeding it a [Star Treat](star-treat.md), [Gingerbread Bears](gingerbread-bear.md) or [Aged Gingerbread Bears](aged-gingerbread-bear.md).
+Unlike most other Event bees, Digital Bee has favorite treats: [Caustic Wax](caustic-wax.md), [Sunflower Seeds](sunflower-seed.md), [Pineapples](pineapple.md) and [Moon Charms](moon-charm.md). It can also be made gifted by feeding it a [Star Treat](star-treat.md), [Gingerbread Bears](gingerbread-bear.md) or [Aged Gingerbread Bears](aged-gingerbread-bear.md).
 
 Digital Bee likes the [Dandelion Field](dandelion-field.md), [Mountain Top Field](mountain-top-field.md), and [Coconut Field](coconut-field.md). It dislikes the [Pine Tree Forest](pine-tree-forest.md).
 

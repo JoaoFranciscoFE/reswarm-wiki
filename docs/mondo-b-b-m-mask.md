@@ -18,7 +18,7 @@ tags: ["Pages with broken file links", "Unobtainable", "Items", "Accessories", "
 <h2 class="pi-item pi-item-spacing pi-title pi-secondary-background" data-source="title1">Mondo B.B.M. Mask</h2>
 <div class="pi-item pi-data pi-item-spacing pi-border-color" data-source="stats">
 <h3 class="pi-data-label pi-secondary-font">Bonus Stats</h3>
-<div class="pi-data-value pi-font">+250,000 Capacity<br/><p>+50 Convert Amount<br/>+100% Honey From Tokens<br/>+1 Bee Attack</p></div>
+<div class="pi-data-value pi-font">+500,000 Capacity<br/><p>+50 Convert Amount<br/>+50% Honey From Tokens<br/>+1 Bee Attack</p></div>
 </div>
 </aside>
 
@@ -31,7 +31,7 @@ To obtain the quest the player would have needed to complete [Bee Bear's](bee-be
 * +500,000 [Capacity](capacity.md)
 * +10% [Pollen](pollen.md)
 * +10% [Bee Gather Pollen](system-page.md#Bee_Gather_Pollen)
-* +50% [Conversion Rate](system-page.md#Convert_Rate)
+* +50 [Convert Amount](system-page.md#Convert_Amount)
 * +50% [Honey From Tokens](system-page.md#Honey_From_Tokens)
 * +1 [Bee Attack](bee-attack.md)
 

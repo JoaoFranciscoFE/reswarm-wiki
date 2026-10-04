@@ -13,7 +13,7 @@ White Balloon
 
 COOLDOWN
 
-7 min
+10 min
 
 CAP
 

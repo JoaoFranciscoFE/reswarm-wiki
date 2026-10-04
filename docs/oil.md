@@ -13,7 +13,7 @@ Oil
 
 COOLDOWN
 
-1 second
+10 minutes
 
 **Oil** is an inventory item that was added in the [2018-11-25 update](updates.md). When used, it grants x1.2 [Bee](stats.md#Speed) and [Player Movespeed](system-page.md#Movespeed) for 10 minutes when activated. Using another will reset the timer, but it does not stack. It can also be used to craft other accessories or [items](items.md). Using a [Super Smoothie](super-smoothie.md) will override the buff.
 

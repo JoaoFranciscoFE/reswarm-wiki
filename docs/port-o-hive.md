@@ -38,7 +38,7 @@ The **Port-O-Hive** is a [bag](bags.md) that can be purchased in the [Pro Shop](
 
 ## Stats
 
-* +250,000 Capacity.
+* +2,500,000 Capacity.
 * +100% [Convert Rate](system-page.md#Convert_Rate).
 * +5% [Instant Conversion](instant-conversion.md).
 

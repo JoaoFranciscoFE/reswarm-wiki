@@ -40,7 +40,7 @@ Exhausted Bee likes the [Stump Field](stump-field.md), the [Sunflower Field](su
 
 * Collects 10 [Pollen](pollen.md) in 4.6 seconds.
 * Makes 240 [Honey](honey.md) in 4 seconds.
-* -25% [Move Speed](stats.md#Speed) and gather speed. +160 [Convert Amount](system-page.md#Convert_Amount). Doesn't require [Sleep](energy.md).
+* -25% [Move Speed](stats.md#Speed), -15% gather speed, +1 [Attack](stats.md#Attack). +160 [Convert Amount](system-page.md#Convert_Amount). Doesn't require [Sleep](energy.md).
 * 🌟 [Gifted Hive Bonus](gifted-bee.md): +20% White Field Capacity.
 
 ### Abilities

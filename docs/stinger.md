@@ -13,7 +13,7 @@ Stinger
 
 COOLDOWN
 
-1 second
+None
 
 **Stingers** are an inventory item added in the [2018-09-10 update](updates.md#2018-09-10). When used, it will grant x1.5 [Bee attack](bee-attack.md) for 30 seconds. It can also be used to obtain [Vicious Bee](vicious-bee.md) (costs 250 **Stingers**). Stingers are also used in many crafting recipes.
 

@@ -13,7 +13,7 @@ Box-O-Frogs
 
 COOLDOWN
 
-None
+60 seconds
 
 CAP
 

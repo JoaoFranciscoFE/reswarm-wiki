@@ -16,7 +16,7 @@ Bees are hatched from [eggs](egg.md), with the probability of hatching a bee of 
 
 The eight types of eggs are [Basic Eggs](egg.md#Basic_Egg), [Silver Eggs](egg.md#Silver_Egg), [Gold Eggs](egg.md#Gold_Egg), [Diamond Eggs](egg.md#Diamond_Egg), [Star Eggs](egg.md#Star_Egg), [Mythic Eggs](egg.md#Mythic_Egg), specific bee eggs, and event bee [eggs](egg.md), along with gifted variants of silver/gold/diamond/mythic eggs and the [Choose-A-Mythic Egg](egg.md#Choose-A-Mythic_Egg).
 
-There are currently 46 bee types that can be discovered and collected. [Bear Bee](bear-bee.md) used to only be obtainable by spending Robux, but ever since the July 2024 update, you can now obtain a [voucher](sticker.md) for the [Bear Bee Egg](egg.md#Bear_Bee_Egg) as a reward from the [retro challenge](retro-swarm-challenge.md), by killing the [Tunnel Bear](tunnel-bear.md), or by trading for it.
+Re://:Swarm's game data has 50 bee types. Four of them are not in Bee Swarm Simulator: Crimbolt Bee, Mortar Bee, Painter Bee and Hell Bee (Hell Bee still has placeholder text). [Bear Bee](bear-bee.md) used to only be obtainable by spending Robux, but ever since the July 2024 update, you can now obtain a [voucher](sticker.md) for the [Bear Bee Egg](egg.md#Bear_Bee_Egg) as a reward from the [retro challenge](retro-swarm-challenge.md), by killing the [Tunnel Bear](tunnel-bear.md), or by trading for it.
 
 A [gifted bee](gifted-bee.md) is a type of bee that has improved stats and gives the entire hive or the player a bonus which varies from bee to bee and cannot stack. Some gifted bees have their gifted abilities, and most Gifted Event bees have enhanced abilities, such as Photon Bee's [beamstorm](ability-tokens.md#Beamstorm). There is a 1/8000 (0.0125%) chance that feeding a [Rare bee](bees-rare.md) its favorite treat will make it gifted, a 1/10000 (0.01%) chance for [Epic bees](bees-epic.md), a 1/12000 (0.0083%) chance for both [Legendary bees](bees-legendary.md) and [Common bees](bees-common.md), and a 1/24000 (0.004%) chance for [Mythic bees](bees-mythic.md). In addition, there is a 1/287 chance of getting a gifted bee by using royal jelly or by hatching it from a [Basic Egg](egg.md#Basic_Egg). There is also a guaranteed chance of getting a gifted bee from a [Star Jelly](royal-jelly.md#Star_Jelly), feeding them a [Star Treat](star-treat.md), or hatching one from a star egg. There is also a 1% chance of getting a gifted bee from [Gingerbread Bears](gingerbread-bear.md), which is available in the Beesmas 2020+ event for a limited time. and a 1.1% chance from [Aged Gingerbread Bears](aged-gingerbread-bear.md) is also available when they have not used the gingerbread bears in previous Beesmas events.
 
@@ -123,7 +123,7 @@ Bees/Event|Event||
 <td>Colorless</td>
 <td>30</td>
 <td>16.8</td>
-<td>5
+<td>6
 </td>
 <td>10 Pollen</td>
 <td>4 s</td>
@@ -145,7 +145,7 @@ Bees/Event|Event||
 <td>Rare
 </td>
 <td>Blue</td>
-<td>50</td>
+<td>40</td>
 <td>10.5</td>
 <td>1
 </td>
@@ -340,7 +340,7 @@ Bees/Event|Event||
 <td>Blue</td>
 <td>30</td>
 <td>15.4</td>
-<td>5
+<td>6
 </td>
 <td>17 Pollen</td>
 <td>4 s</td>
@@ -394,7 +394,7 @@ Bees/Event|Event||
 </td>
 <td>10 Pollen</td>
 <td>4 s</td>
-<td><span typeof="mw:Error mw:File"></span>200 <a href="honey.html"><span class="color-template color-template-honey">Honey</span></a></td>
+<td><span typeof="mw:Error mw:File"></span>330 <a href="honey.html"><span class="color-template color-template-honey">Honey</span></a></td>
 <td>4 s
 </td>
 <td>-
@@ -415,7 +415,7 @@ Bees/Event|Event||
 <td>Colorless</td>
 <td data-sort-value="250">Unlimited</td>
 <td>10.5</td>
-<td>1
+<td>2
 </td>
 <td>10 Pollen</td>
 <td>4.6 s</td>
@@ -465,7 +465,7 @@ Bees/Event|Event||
 <td>Blue</td>
 <td>25</td>
 <td>11.2</td>
-<td>1
+<td>2
 </td>
 <td>10 Pollen</td>
 <td>4 s</td>
@@ -490,7 +490,7 @@ Bees/Event|Event||
 <td>Colorless</td>
 <td>20</td>
 <td>14</td>
-<td>1
+<td>2
 </td>
 <td>10 Pollen</td>
 <td>4 s</td>
@@ -515,7 +515,7 @@ Bees/Event|Event||
 <td>Red</td>
 <td>20</td>
 <td>15.4</td>
-<td>4
+<td>5
 </td>
 <td>10 Pollen</td>
 <td>4 s</td>
@@ -540,7 +540,7 @@ Bees/Event|Event||
 <td>Red</td>
 <td>25</td>
 <td>15.4</td>
-<td>5
+<td>6
 </td>
 <td>10 Pollen</td>
 <td>2 s</td>
@@ -615,7 +615,7 @@ Bees/Event|Event||
 <td>Colorless</td>
 <td>25</td>
 <td>11.2</td>
-<td>4
+<td>5
 </td>
 <td>10 Pollen</td>
 <td>3 s</td>
@@ -624,7 +624,7 @@ Bees/Event|Event||
 </td>
 <td>-
 </td>
-<td>x1.25 Tool Pollen
+<td>+25% Tool Pollen
 </td>
 <td><li><span typeof="mw:Error mw:File"></span> <a href="ability-tokens.html#Mark">Pollen Mark</a></li> <li><span typeof="mw:Error mw:File"></span> <a href="ability-tokens.html#Mark">Honey Mark+</a></li>
 </td>
@@ -690,11 +690,11 @@ Bees/Event|Event||
 <td>Colorless</td>
 <td>60</td>
 <td>19.6</td>
-<td>9
+<td>10
 </td>
 <td>20 Pollen</td>
 <td>4 s</td>
-<td><span typeof="mw:Error mw:File"></span>160 <a href="honey.html"><span class="color-template color-template-honey">Honey</span></a></td>
+<td><span typeof="mw:Error mw:File"></span>180 <a href="honey.html"><span class="color-template color-template-honey">Honey</span></a></td>
 <td>2 s
 </td>
 <td>-
@@ -745,7 +745,7 @@ Bees/Event|Event||
 <td>10 Pollen</td>
 <td>2 s</td>
 <td><span typeof="mw:Error mw:File"></span>80 <a href="honey.html"><span class="color-template color-template-honey">Honey</span></a></td>
-<td>3 s
+<td>2 s
 </td>
 <td>-
 </td>
@@ -790,7 +790,7 @@ Bees/Event|Event||
 <td>Blue</td>
 <td>60</td>
 <td>14</td>
-<td>3
+<td>4
 </td>
 <td>15 Pollen</td>
 <td>5 s</td>
@@ -801,7 +801,7 @@ Bees/Event|Event||
 </td>
 <td>x1.2 Capacity
 </td>
-<td><li><span typeof="mw:Error mw:File"></span> <a href="ability-tokens.html#Bomb">Blue Bomb</a></li> <li><span typeof="mw:Error mw:File"></span> <a href="ability-tokens.html#Inflate_Balloon">Inflate Balloon</a></li> <li><span typeof="mw:Error mw:File"></span> <a href="ability-tokens.html#Surprise_Party">Surprise Party</a> (Gifted)</li>
+<td><li><span typeof="mw:Error mw:File"></span> <a href="ability-tokens.html#Bomb">Blue Bomb</a></li> <li><span typeof="mw:Error mw:File"></span> <a href="ability-tokens.html#Inflate_Balloon">Inflate Balloons</a></li> <li><span typeof="mw:Error mw:File"></span> <a href="ability-tokens.html#Surprise_Party">Surprise Party</a> (Gifted)</li>
 </td>
 <td><a href="passive-abilities.html#Balloon_Enthusiast">Balloon Enthusiast</a>
 </td>
@@ -844,7 +844,7 @@ Bees/Event|Event||
 </td>
 <td>20 Pollen</td>
 <td>4 s</td>
-<td><span typeof="mw:Error mw:File"></span>130 <a href="honey.html"><span class="color-template color-template-honey">Honey</span></a></td>
+<td><span typeof="mw:Error mw:File"></span>80 <a href="honey.html"><span class="color-template color-template-honey">Honey</span></a></td>
 <td>4 s
 </td>
 <td><li>+5% Critical Chance</li> <li>+3% Super-Crit Chance</li>
@@ -869,7 +869,7 @@ Bees/Event|Event||
 </td>
 <td>14 Pollen</td>
 <td>4 s</td>
-<td><span typeof="mw:Error mw:File"></span>200 <a href="honey.html"><span class="color-template color-template-honey">Honey</span></a></td>
+<td><span typeof="mw:Error mw:File"></span>300 <a href="honey.html"><span class="color-template color-template-honey">Honey</span></a></td>
 <td>2 s
 </td>
 <td>-
@@ -965,16 +965,16 @@ Bees/Event|Event||
 <td>Blue</td>
 <td>35</td>
 <td>18.2</td>
-<td>6
+<td>7
 </td>
 <td>10 Pollen</td>
 <td>4 s</td>
-<td><span typeof="mw:Error mw:File"></span>120 <a href="honey.html"><span class="color-template color-template-honey">Honey</span></a></td>
+<td><span typeof="mw:Error mw:File"></span>140 <a href="honey.html"><span class="color-template color-template-honey">Honey</span></a></td>
 <td>3 s
 </td>
 <td>-
 </td>
-<td>+15% Instant Blue Conversion
+<td>x1.25 Blue Pollen
 </td>
 <td><li><span typeof="mw:Error mw:File"></span> Blue Pulse</li> <li><span typeof="mw:Error mw:File"></span> Blue Bomb Sync</li>
 </td>
@@ -990,16 +990,16 @@ Bees/Event|Event||
 <td>Red</td>
 <td>35</td>
 <td>18.2</td>
-<td>6
+<td>7
 </td>
 <td>10 Pollen</td>
 <td>4 s</td>
-<td><span typeof="mw:Error mw:File"></span>120 <a href="honey.html"><span class="color-template color-template-honey">Honey</span></a></td>
+<td><span typeof="mw:Error mw:File"></span>140 <a href="honey.html"><span class="color-template color-template-honey">Honey</span></a></td>
 <td>3 s
 </td>
 <td>-
 </td>
-<td>+15% Instant Red Conversion
+<td>x1.25 Red Pollen
 </td>
 <td><li><span typeof="mw:Error mw:File"></span> Red Pulse</li> <li><span typeof="mw:Error mw:File"></span> Red Bomb Sync</li>
 </td>
@@ -1065,7 +1065,7 @@ Bees/Event|Event||
 <td>Colorless</td>
 <td>50</td>
 <td>14</td>
-<td>3
+<td>4
 </td>
 <td>10 Pollen</td>
 <td>4s</td>
@@ -1090,7 +1090,7 @@ Bees/Event|Event||
 <td>Colorless</td>
 <td data-sort-value="250">Unlimited</td>
 <td>21</td>
-<td>3
+<td>4
 </td>
 <td>20 Pollen</td>
 <td>2 s</td>
@@ -1165,7 +1165,7 @@ Bees/Event|Event||
 <td>Blue</td>
 <td>50</td>
 <td>17.5</td>
-<td>8
+<td>9
 </td>
 <td>10 Pollen</td>
 <td>4 s</td>
@@ -1190,7 +1190,7 @@ Bees/Event|Event||
 <td>Colorless</td>
 <td>20</td>
 <td>19.6</td>
-<td>3
+<td>4
 </td>
 <td>10 Pollen</td>
 <td>3 s</td>

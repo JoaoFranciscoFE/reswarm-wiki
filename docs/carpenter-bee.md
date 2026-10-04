@@ -41,7 +41,7 @@ Carpenter Bee likes the [Bamboo Field](bamboo-field.md), and [Pine Tree Forest](
 * Collects 10 [Pollen](pollen.md) in 3 seconds.
 * Makes 120 [honey](honey.md) in 4 seconds.
 * -20% [Movespeed](stats.md#Speed), +25% [Energy](energy.md), +25% gather speed, +40 [Convert Amount](system-page.md#Convert_Amount), +4 [Attack](stats.md#Attack).
-* 🌟[Gifted Hive Bonus](gifted-bee.md): x1.25 [Tool Pollen](system-page.md#Tool_Pollen).
+* 🌟[Gifted Hive Bonus](gifted-bee.md): +25% [Tool Pollen](system-page.md#Tool_Pollen).
 
 ## Abilities
 

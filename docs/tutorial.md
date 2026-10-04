@@ -5,7 +5,9 @@ tags: ["Pages with broken file links", "Re://:Swarm"]
 
 # Tutorial
 
-The **Tutorial**, also nicknamed **Help** gives information on the game and its aspects. For new players, it opens automatically once the game loads. Established players can turn off the tutorial by simply closing the window – the game will remember that setting next time it is started. The tutorial can be reopened by pressing the red circle with a question mark on it, located at the top right.
+The **Tutorial**, also nicknamed **Help**, gives information on the game and its aspects. New players are not shown it as soon as the game loads: after they claim a [hive](hive.md) and [Onett](onett.md)'s Honeyday welcome closes, the game asks *"You look new here! Want to do the tutorial?"* and the player can choose whether to start it. While any NPC conversation is open, the tutorial's dialog panel hides itself so it does not cover the conversation.
+
+*The tutorial pages below were adapted from the Bee Swarm Simulator Wiki and may not match the Re://:Swarm tutorial word for word.*
 
 ## Tutorial
 

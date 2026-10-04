@@ -40,7 +40,7 @@ Frosty Bee likes the [Blue Flower Field](blue-flower-field.md), and the [Mounta
 
 * Collects 10 [Pollen](pollen.md) in 4 seconds.
 * Makes 80 [Honey](honey.md) in 4 seconds.
-* +25% [Energy](energy.md), -20% [Movespeed](stats.md#Speed).
+* +25% [Energy](energy.md), -20% [Movespeed](stats.md#Speed), +1 [Attack](stats.md#Attack).
 * 🌟 [Gifted Hive Bonus](gifted-bee.md): x1.25 [Blue Bomb Pollen](system-page.md#Blue_Bomb_Pollen).
 
 ### Abilities

@@ -13,7 +13,7 @@ Blue Extract
 
 COOLDOWN
 
-1 second
+10 minutes
 
 The **Blue Extract** is an inventory item added in the [2018-11-25 update](updates.md#2018-11-25). The purpose of it is to use it as material to craft equipment and accessories, or for a 10-minute boost that grants x1.25 [Blue Pollen](system-page.md#Blue_Pollen). The [buff](buffs-debuffs.md#From_Items) cannot stack, and will only reset its timer if the player used a **Blue Extract** when the effect is already active. Using a [Purple Potion](purple-potion.md) or [Super Smoothie](super-smoothie.md) will override the buff.
 

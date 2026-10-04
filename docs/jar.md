@@ -34,15 +34,14 @@ The **Jar** is a [Bag](bags.md) that can be purchased in the [Noob Shop](noob-sh
 
 ## Stats
 
-* +750 Capacity.
+* +7,500 Capacity.
 
 ## Trivia
 
 * This is the cheapest Bag that can be purchased in the Noob Shop and overall, in the game.
 * This is the third cheapest item in terms of Honey, only beaten by the [Pouch](pouch.md), [Scooper](scooper.md) and Strange Goggles.
-* This and the Pouch are the only Bags that cost less honey than their base Capacity.
 * Its description reads that it holds over twice as much as the Pouch, but it holds over three times as much.
-* There is a larger version of the Jar that can be purchased in the [Pro Shop](pro-shop.md), called the [Mega-Jug](mega-jug.md), which has a base Capacity of 25,000 Pollen for a price of 50,000 [Honey](honey.md).
+* There is a larger version of the Jar that can be purchased in the [Pro Shop](pro-shop.md), called the [Mega-Jug](mega-jug.md), which has a base Capacity of 250,000 Pollen for a price of 50,000 [Honey](honey.md).
 
 <table class="mw-collapsible autocollapse" style="margin:auto; background:#000; font-size: 10pt; border:5px solid #56CB5A; width: 100%; border-radius: 20px; -moz-border-radius: 20px; -webkit-border-radius: 20px; -khtml-border-radius: 20px; -icab-border-radius: 20px; -o-border-radius: 20px;">
 <tbody><tr>

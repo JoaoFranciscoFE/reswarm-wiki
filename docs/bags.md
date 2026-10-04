@@ -29,7 +29,7 @@ This is a list of all 12 bags currently in the game:
 </td>
 <td><a href="pouch.html">Pouch</a>
 </td>
-<td>Holds 200 <a href="pollen.html">pollen</a>.
+<td>Holds 2,000 <a href="pollen.html">pollen</a>.
 </td>
 <td>-
 </td>
@@ -40,7 +40,7 @@ This is a list of all 12 bags currently in the game:
 </td>
 <td><a href="jar.html">Jar</a>
 </td>
-<td>Holds 750 pollen.
+<td>Holds 7,500 pollen.
 </td>
 <td><span typeof="mw:Error mw:File"></span>650 <a href="honey.html"><span class="color-template color-template-honey">Honey</span></a>
 </td>
@@ -51,7 +51,7 @@ This is a list of all 12 bags currently in the game:
 </td>
 <td><a href="backpack.html">Backpack</a>
 </td>
-<td>Holds 3,500 pollen.
+<td>Holds 35,000 pollen.
 </td>
 <td><span typeof="mw:Error mw:File"></span>5,500 <a href="honey.html"><span class="color-template color-template-honey">Honey</span></a>
 </td>
@@ -62,7 +62,7 @@ This is a list of all 12 bags currently in the game:
 </td>
 <td><a href="canister.html">Canister</a>
 </td>
-<td>Holds 10,000 pollen, +30% <a href="system-page.html#Convert_Rate">Convert Rate</a>.
+<td>Holds 100,000 pollen, +30% <a href="system-page.html#Convert_Rate">Convert Rate</a>.
 </td>
 <td><span typeof="mw:Error mw:File"></span>22,000 <a href="honey.html"><span class="color-template color-template-honey">Honey</span></a>
 </td>
@@ -73,7 +73,7 @@ This is a list of all 12 bags currently in the game:
 </td>
 <td><a href="mega-jug.html">Mega-Jug</a>
 </td>
-<td>Holds 25,000 pollen, +40% Convert Rate.
+<td>Holds 250,000 pollen, +40% Convert Rate.
 </td>
 <td><span typeof="mw:Error mw:File"></span>50,000 <a href="honey.html"><span class="color-template color-template-honey">Honey</span></a>
 </td>
@@ -84,7 +84,7 @@ This is a list of all 12 bags currently in the game:
 </td>
 <td><a href="compressor.html">Compressor</a>
 </td>
-<td>Holds 50,000 pollen, +55% Convert Rate.
+<td>Holds 500,000 pollen, +55% Convert Rate.
 </td>
 <td><span typeof="mw:Error mw:File"></span>160,000 <a href="honey.html"><span class="color-template color-template-honey">Honey</span></a>
 </td>
@@ -95,7 +95,7 @@ This is a list of all 12 bags currently in the game:
 </td>
 <td><a href="elite-barrel.html">Elite Barrel</a>
 </td>
-<td>Holds 125,000 pollen, +70% Convert Rate.
+<td>Holds 1,250,000 pollen, +70% Convert Rate.
 </td>
 <td><span typeof="mw:Error mw:File"></span>650,000 <a href="honey.html"><span class="color-template color-template-honey">Honey</span></a>
 </td>
@@ -106,7 +106,7 @@ This is a list of all 12 bags currently in the game:
 </td>
 <td><a href="port-o-hive.html">Port-O-Hive</a>
 </td>
-<td>Holds 250,000 pollen, +100% Convert Rate, +5% <a href="instant-conversion.html">Instant Conversion</a>.
+<td>Holds 2,500,000 pollen, +100% Convert Rate, +5% <a href="instant-conversion.html">Instant Conversion</a>.
 </td>
 <td><span typeof="mw:Error mw:File"></span>1,250,000 <a href="honey.html"><span class="color-template color-template-honey">Honey</span></a>
 </td>
@@ -117,7 +117,7 @@ This is a list of all 12 bags currently in the game:
 </td>
 <td><a href="blue-port-o-hive.html">Blue Port-O-Hive</a>
 </td>
-<td>Holds 400,000 pollen, +150% <a href="system-page.html#Convert_Rate">Convert Rate</a>, +10% <a href="system-page.html#Instant_Blue_Conversion">Instant Blue Conversion</a>, +10% <a href="system-page.html#Blue_Pollen">Blue Pollen</a>, +1 <a href="system-page.html#Blue_Attack">Blue Bee Attack</a>.
+<td>Holds 4,000,000 pollen, +150% <a href="system-page.html#Convert_Rate">Convert Rate</a>, +10% Blue Bee Convert Rate, +10% <a href="system-page.html#Instant_Blue_Conversion">Instant Blue Conversion</a>, +10% <a href="system-page.html#Blue_Pollen">Blue Pollen</a>.
 </td>
 <td><span typeof="mw:Error mw:File"></span>12,500,000 <a href="honey.html"><span class="color-template color-template-honey">Honey</span></a><br/><span typeof="mw:Error mw:File"></span>2 <a href="soft-wax.html"><span class="color-template color-template-soft-wax">Soft Waxes</span></a><br/><span typeof="mw:Error mw:File"></span>2 <a href="blue-extract.html"><span class="color-template color-template-blue-extract color-template-background-clip">Blue Extracts</span></a>
 </td>
@@ -128,7 +128,7 @@ This is a list of all 12 bags currently in the game:
 </td>
 <td><a href="red-port-o-hive.html">Red Port-O-Hive</a>
 </td>
-<td>Holds 400,000 pollen, +150% Convert Rate, +10% <a href="system-page.html#Instant_Red_Conversion">Instant Red Conversion</a>, +10% <a href="system-page.html#Red_Pollen">Red Pollen</a>, +1 <a href="system-page.html#Red_Attack">Red Bee Attack</a>.
+<td>Holds 4,000,000 pollen, +150% Convert Rate, +10% Red Bee Convert Rate, +10% <a href="system-page.html#Instant_Red_Conversion">Instant Red Conversion</a>, +10% <a href="system-page.html#Red_Pollen">Red Pollen</a>.
 </td>
 <td><span typeof="mw:Error mw:File"></span>12,500,000 <a href="honey.html"><span class="color-template color-template-honey">Honey</span></a><br/><span typeof="mw:Error mw:File"></span>2 <a href="soft-wax.html"><span class="color-template color-template-soft-wax">Soft Waxes</span></a><br/><span typeof="mw:Error mw:File"></span>2 <a href="red-extract.html"><span class="color-template color-template-red-extract color-template-background-clip">Red Extracts</span></a>
 </td>
@@ -139,7 +139,7 @@ This is a list of all 12 bags currently in the game:
 </td>
 <td><a href="porcelain-port-o-hive.html">Porcelain Port-O-Hive</a>
 </td>
-<td>Holds 600,000 pollen, +250% Convert Rate, +10% Instant Conversion, x1.25 Convert Rate at Hive, +50% White Pollen
+<td>Holds 6,000,000 pollen, +250% Convert Rate, +10% Instant Conversion, x1.25 Convert Rate at Hive, +50% White Pollen
 </td>
 <td><span typeof="mw:Error mw:File"></span>250,000,000 <a href="honey.html"><span class="color-template color-template-honey">Honey</span></a><br/>
 <p><span typeof="mw:Error mw:File"></span>3 <a href="glitter.html"><span class="color-template color-template-glitter color-template-background-clip">Glitter</span></a><br/>
@@ -154,7 +154,7 @@ This is a list of all 12 bags currently in the game:
 </td>
 <td><a href="coconut-canister.html">Coconut Canister</a>
 </td>
-<td>Holds 1,000,000 pollen, x1.25 Capacity, +400% Convert Rate, x1.5 Convert Rate at Hive +10% Instant Conversion, +10% <a href="system-page.html#Instant_White_Conversion">Instant White Conversion</a>, +100% White Pollen, <a href="passive-abilities.html#Emergency_Coconut_Shield">+Passive: Emergency Coconut Shield</a>, <a href="passive-abilities.html#Inspire_Coconuts">+Passive: Inspire Coconuts</a>.
+<td>Holds 10,000,000 pollen, x1.25 Capacity, +400% Convert Rate, x1.5 Convert Rate at Hive +10% Instant Conversion, +10% <a href="system-page.html#Instant_White_Conversion">Instant White Conversion</a>, +100% White Pollen, <a href="passive-abilities.html#Emergency_Coconut_Shield">+Passive: Emergency Coconut Shield</a>, <a href="passive-abilities.html#Inspire_Coconuts">+Passive: Inspire Coconuts</a>.
 </td>
 <td><span typeof="mw:Error mw:File"></span><span style="border-bottom:1px dotted;" title="25,000,000,000">25B</span> <a href="honey.html"><span class="color-template color-template-honey">Honey</span></a><br/>
 <p><span typeof="mw:Error mw:File"></span>250 <a href="coconut.html"><span class="color-template color-template-coconut color-template-background-clip">Coconuts</span></a><br/>

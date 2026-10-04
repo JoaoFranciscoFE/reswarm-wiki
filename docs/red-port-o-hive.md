@@ -41,7 +41,7 @@ The **Red Port-O-Hive** is a [bag](bags.md) that was added in the [2019-04-05 Up
 
 ## Stats
 
-* +400,000 Capacity.
+* +4,000,000 Capacity.
 * +150% [Convert Rate](system-page.md#Convert_Rate).
 * +10% Red Bee Convert Rate
 * +10% [Instant Red Conversion](system-page.md#Instant_Red_Conversion).

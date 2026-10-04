@@ -27,7 +27,7 @@ The loot it drops is scattered around the field, similar to a [Sprout](sprout.md
 
 The Coconut Crab alternates between two attack types:
 
-* Claw attack: The Coconut Crab will try and line itself up with the player, then proceed to jab quickly with its claws. Each hit deals 40 damage before [Defense](system-page.md#Defense) is applied. It will attack 7 times, then pause to move to where the player is standing and repeat it twice more, attempting to claw the player 21 times in total.
+* Claw attack: The Coconut Crab will try and line itself up with the player, then proceed to jab quickly with its claws. Each hit deals 180 damage before [Defense](system-page.md#Defense) is applied. It will attack 7 times, then pause to move to where the player is standing and repeat it twice more, attempting to claw the player 21 times in total.
 * Coconut attack: The Coconut Crab will move to the middle of the back wall. It will then jump up a total of 8 times, each jump causing 1 large coconut to fall into the field. Each coconut deals 150 damage before defense is applied. The first coconut to fall will always target the player, but the others will randomly fall around the field.
 
 ## Drops

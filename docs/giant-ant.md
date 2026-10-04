@@ -34,7 +34,7 @@ Giant Ants are one of the most threatening of the five ant types, as they are ha
 <tr>
 <td>1
 </td>
-<td>?
+<td>400
 </td></tr>
 <tr>
 <td>2
