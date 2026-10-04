@@ -45,7 +45,7 @@ Looker Bee likes the [Clover Field](clover-field.md) and the [Mountain Top Field
 
 ### Abilities
 
-* **[Focus](ability-tokens.md#Focus)** Grants +3% [Critical Chance](system-page.md#Critical_Chance) for 20 seconds. Stacks up to 10 times. [Critical Hits](critical-hits.md) increase pollen and damage by 100%.
+* <img alt="Focus" src="img/Focus.png" style="height:1.6em;width:auto;vertical-align:middle"/> **[Focus](ability-tokens.md#Focus)** Grants +3% [Critical Chance](system-page.md#Critical_Chance) for 20 seconds. Stacks up to 10 times. [Critical Hits](critical-hits.md) increase pollen and damage by 100%.
 
 <table style="font-size:1.5vh; color:#000; width:100%; background:#fff; padding: 15px 0; border:none; color:#000; border-left:15px #000 solid">
 <tbody><tr>

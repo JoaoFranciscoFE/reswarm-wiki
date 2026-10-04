@@ -45,8 +45,8 @@ Rage Bee likes the [Spider Field](spider-field.md) and [Rose Field](rose-field.m
 
 ### Abilities
 
-* **[Rage](ability-tokens.md#Rage)** Grants your [Bees](bees.md) +1 attack for 45s. Stacks up to 4 times.
-* **[Token Link](ability-tokens.md#Token_Link)** Collects all other [Ability Tokens](ability-tokens.md) (except for other token links), granting 25 honey (+10 per Level) per token collected.
+* <img alt="Rage" src="img/Rage.png" style="height:1.6em;width:auto;vertical-align:middle"/> **[Rage](ability-tokens.md#Rage)** Grants your [Bees](bees.md) +1 attack for 45s. Stacks up to 4 times.
+* <img alt="Token Link" src="img/Token_Link.png" style="height:1.6em;width:auto;vertical-align:middle"/> **[Token Link](ability-tokens.md#Token_Link)** Collects all other [Ability Tokens](ability-tokens.md) (except for other token links), granting 25 honey (+10 per Level) per token collected.
 
 <table style="font-size:1.5vh; color:#000; width:100%; background:#fff; padding: 15px 0; border:none; color:#000; border-left:15px #af2136 solid">
 <tbody><tr>

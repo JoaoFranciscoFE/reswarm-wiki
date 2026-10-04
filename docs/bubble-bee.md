@@ -45,7 +45,7 @@ Bubble Bee likes the [Blue Flower Field](blue-flower-field.md) and the [Pine Tre
 
 ### Abilities
 
-* **[Blue Bomb](ability-tokens.md#Bomb)** Collects 10 pollen from 13 surrounding blue [Flowers](flowers.md) (+10% pollen per level). Combo with other Bombs to increase power.
+* <img alt="Blue Bomb" src="img/Blue_Bomb.png" style="height:1.6em;width:auto;vertical-align:middle"/> **[Blue Bomb](ability-tokens.md#Bomb)** Collects 10 pollen from 13 surrounding blue [Flowers](flowers.md) (+10% pollen per level). Combo with other Bombs to increase power.
 * **[[Passive:](passive-abilities.md#Gathering_Bubbles) [Gathering Bubbles]](bubble.md#Gathering_Bubbles)** 35% chance (50% if Gifted) to spawn a [bubble](bubble.md) when gathering. If any Player touches it, it pops, collecting 4 red/6 white/8 blue pollen (+15% per gifted blue bee type, +5% per bee level) from 29 nearby Flowers and causing them to grow.
 
 <table style="font-size:1.5vh; color:#000; width:100%; background:#fff; padding: 15px 0; border:none; color:#000; border-left:15px #2fa0fc solid">

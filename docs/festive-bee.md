@@ -45,9 +45,9 @@ Festive Bee likes the [Mountain Top Field](mountain-top-field.md), [Mushroom Fie
 
 ### Abilities
 
-* **[Festive Gift](ability-tokens.md#Festive_Gift)**: Grants random gifts including [Treats](treats.md), honey, and "[Festive Blessing](ability-tokens.md#Festive_Blessing)" to all players on the server. Gifts are improved with Level. A message will appear saying "🎁 Festive Gifts from [Player's Display Name]! 🎁". If Gifted, can grant rarer gifts and "[Beesmas Cheer](ability-tokens.md#Beesmas_Cheer)".
-* **[Honey Mark](ability-tokens.md#Mark)**  : Marks a random area on the [field](fields.md) for 7 seconds (+0.2s per level) that grants 2 Conversion Links and x1.25 Convert Rate while you stand in it. Stacks up to 3 times.
-* **[Red Bomb+](ability-tokens.md#Bomb)**: Collects 10 pollen from 29 surrounding red [Flowers](flowers.md) (+10% pollen per level). You can combo with other bombs to increase power.
+* <img alt="Festive Gift" src="img/Festive_Gift.png" style="height:1.6em;width:auto;vertical-align:middle"/> **[Festive Gift](ability-tokens.md#Festive_Gift)**: Grants random gifts including [Treats](treats.md), honey, and "[Festive Blessing](ability-tokens.md#Festive_Blessing)" to all players on the server. Gifts are improved with Level. A message will appear saying "🎁 Festive Gifts from [Player's Display Name]! 🎁". If Gifted, can grant rarer gifts and "[Beesmas Cheer](ability-tokens.md#Beesmas_Cheer)".
+* <img alt="Honey Mark" src="img/Honey_Mark.png" style="height:1.6em;width:auto;vertical-align:middle"/> **[Honey Mark](ability-tokens.md#Mark)**  : Marks a random area on the [field](fields.md) for 7 seconds (+0.2s per level) that grants 2 Conversion Links and x1.25 Convert Rate while you stand in it. Stacks up to 3 times.
+* <img alt="Red Bomb+" src="img/Red_Bomb+.png" style="height:1.6em;width:auto;vertical-align:middle"/> **[Red Bomb+](ability-tokens.md#Bomb)**: Collects 10 pollen from 29 surrounding red [Flowers](flowers.md) (+10% pollen per level). You can combo with other bombs to increase power.
 
 <table style="font-size:1.5vh; color:#000; width:100%; background:#fff; padding: 15px 0; border:none; color:#000; border-left:15px #af2136 solid">
 <tbody><tr>

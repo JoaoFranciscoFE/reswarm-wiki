@@ -45,7 +45,7 @@ Lion Bee likes the [Ant Field](ant-field.md) and the [Pineapple Patch](pineapple
 
 ### Abilities
 
-* **[Buzz Bomb+](ability-tokens.md#Bomb)** Collects 7 pollen from 29 surrounding [Flowers](flowers.md) (+10% pollen per level). Combo with other bombs to increase power.
+* <img alt="Buzz Bomb+" src="img/Buzz_Bomb+.png" style="height:1.6em;width:auto;vertical-align:middle"/> **[Buzz Bomb+](ability-tokens.md#Bomb)** Collects 7 pollen from 29 surrounding [Flowers](flowers.md) (+10% pollen per level). Combo with other bombs to increase power.
 
 <table style="font-size:1.5vh; color:#000; width:100%; background:#fff; padding: 15px 0; border:none; color:#000; border-left:15px #000 solid">
 <tbody><tr>

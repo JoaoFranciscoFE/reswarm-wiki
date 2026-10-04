@@ -45,9 +45,9 @@ Music Bee likes the [Clover Field](clover-field.md) and the [Dandelion Field](da
 
 ### Abilities
 
-* **[Melody](ability-tokens.md#Melody)** Grants +100% [Critical Power](system-page.md#Critical_Power) for 30 seconds. Critical Power increases the pollen and damage of critical hits.
-* **[Focus](ability-tokens.md#Focus)** Grants +3% [Critical Chance](system-page.md#Critical_Chance) for 20 seconds. Stacks up to 10 times. Critical hits increase pollen and damage by 100%.
-* **[Token Link](ability-tokens.md#Token_Link)** Collects all other [Ability Tokens](ability-tokens.md), granting 25 [Honey](honey.md) (+10 per Level) per token collected.
+* <img alt="Melody" src="img/Melody.png" style="height:1.6em;width:auto;vertical-align:middle"/> **[Melody](ability-tokens.md#Melody)** Grants +100% [Critical Power](system-page.md#Critical_Power) for 30 seconds. Critical Power increases the pollen and damage of critical hits.
+* <img alt="Focus" src="img/Focus.png" style="height:1.6em;width:auto;vertical-align:middle"/> **[Focus](ability-tokens.md#Focus)** Grants +3% [Critical Chance](system-page.md#Critical_Chance) for 20 seconds. Stacks up to 10 times. Critical hits increase pollen and damage by 100%.
+* <img alt="Token Link" src="img/Token_Link.png" style="height:1.6em;width:auto;vertical-align:middle"/> **[Token Link](ability-tokens.md#Token_Link)** Collects all other [Ability Tokens](ability-tokens.md), granting 25 [Honey](honey.md) (+10 per Level) per token collected.
 
 <table style="font-size:1.5vh; color:#000; width:100%; background:#fff; padding: 15px 0; border:none; color:#000; border-left:15px #000 solid">
 <tbody><tr>

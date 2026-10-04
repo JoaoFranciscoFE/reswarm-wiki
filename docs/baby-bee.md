@@ -45,7 +45,7 @@ Baby Bee likes the [Dandelion Field](dandelion-field.md), [Sunflower Field](sunf
 
 ### Abilities
 
-* **[Baby Love](ability-tokens.md#Baby_Love)** Grants x2 [Pollen](system-page.md#Pollen) and +50% Loot Luck for 30 seconds. Loot Luck increases your chance of obtaining prizes from defeating enemies.
+* <img alt="Baby Love" src="img/Baby_Love.png" style="height:1.6em;width:auto;vertical-align:middle"/> **[Baby Love](ability-tokens.md#Baby_Love)** Grants x2 [Pollen](system-page.md#Pollen) and +50% Loot Luck for 30 seconds. Loot Luck increases your chance of obtaining prizes from defeating enemies.
 
 <table style="font-size:1.5vh; color:#000; width:100%; background:#fff; padding: 15px 0; border:none; color:#000; border-left:15px #2fa0fc solid">
 <tbody><tr>

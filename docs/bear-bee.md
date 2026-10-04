@@ -47,7 +47,7 @@ Bear Bee likes the [Pumpkin Patch](pumpkin-patch.md) and the [Pine Tree Forest](
 
 ### Abilities
 
-* **[Bear Morph](ability-tokens.md#Bear_Morph)** Transforms you into a random bear! Grants ×2 Pollen and boosts [Speed](system-page.md#Movespeed) and [Jump Power](system-page.md#Jump_Power). If Gifted, has a 20% chance to transform the player into a rare bear that gives special boosts (either [Mother Bear](mother-bear.md), which gives x2.5 Pollen and an additional x1.5 [Pollen from Bee Gathering](system-page.md#Bee_Gather_Pollen) or [Science Bear](science-bear.md), which adds +1 Conversion Link).
+* <img alt="Brown Bear Morph" src="img/Brown_Bear_Morph.png" style="height:1.6em;width:auto;vertical-align:middle"/> **[Bear Morph](ability-tokens.md#Bear_Morph)** Transforms you into a random bear! Grants ×2 Pollen and boosts [Speed](system-page.md#Movespeed) and [Jump Power](system-page.md#Jump_Power). If Gifted, has a 20% chance to transform the player into a rare bear that gives special boosts (either [Mother Bear](mother-bear.md), which gives x2.5 Pollen and an additional x1.5 [Pollen from Bee Gathering](system-page.md#Bee_Gather_Pollen) or [Science Bear](science-bear.md), which adds +1 Conversion Link).
 
 <table style="font-size:1.5vh; color:#000; width:100%; background:#fff; padding: 15px 0; border:none; color:#000; border-left:15px #000 solid">
 <tbody><tr>
