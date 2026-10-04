@@ -12,8 +12,8 @@ tags: ["Pages with broken file links", "Bees", "Event", "Colorless", "Gummy Inva
 <label for="bee-tab-original">Original</label>
 <input type="radio" name="bee-infobox-tab" id="bee-tab-gifted">
 <label for="bee-tab-gifted">Gifted</label>
-<div class="bee-infobox-image bee-tab-original"><img alt="Gummy Bee" src="img/Gummy_Bee.png" width="150" height="150"></div>
-<div class="bee-infobox-image bee-tab-gifted"><img alt="Gifted Gummy Bee" src="img/Gifted_Gummy_Bee.png" width="150" height="150"></div>
+<div class="bee-infobox-image bee-tab-original"><img alt="Gummy Bee" src="img/Gummy_Bee.png" width="150"></div>
+<div class="bee-infobox-image bee-tab-gifted"><img alt="Gifted Gummy Bee" src="img/Gifted_Gummy_Bee.png" width="150"></div>
 </div>
 <div class="bee-infobox-quote"><i>"A squishy bee who's sweet as sugar. Covers flowers in goo to grant you bonus honey!"</i></div>
 <div class="bee-infobox-row"><b>Rarity</b><span>Event</span></div>

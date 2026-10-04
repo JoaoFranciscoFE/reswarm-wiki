@@ -14,8 +14,8 @@ tags: ["Pages with broken file links", "Bees", "Epic", "Blue"]
 <label for="bee-tab-original">Original</label>
 <input type="radio" name="bee-infobox-tab" id="bee-tab-gifted">
 <label for="bee-tab-gifted">Gifted</label>
-<div class="bee-infobox-image bee-tab-original"><img alt="Bucko Bee" src="img/Bucko_Bee.png" width="150" height="150"></div>
-<div class="bee-infobox-image bee-tab-gifted"><img alt="Gifted Bucko Bee" src="img/Gifted_Bucko_Bee.png" width="150" height="150"></div>
+<div class="bee-infobox-image bee-tab-original"><img alt="Bucko Bee" src="img/Bucko_Bee.png" width="150"></div>
+<div class="bee-infobox-image bee-tab-gifted"><img alt="Gifted Bucko Bee" src="img/Gifted_Bucko_Bee.png" width="150"></div>
 </div>
 <div class="bee-infobox-quote"><i>"Leader of the Blue bees, and a long time rival of Riley Bee. Its tenacity is its greatest strength."</i></div>
 <div class="bee-infobox-row"><b>Rarity</b><span>Epic</span></div>

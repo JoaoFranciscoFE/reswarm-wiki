@@ -12,8 +12,8 @@ tags: ["Pages with broken file links", "Bees", "Red", "Event"]
 <label for="bee-tab-original">Original</label>
 <input type="radio" name="bee-infobox-tab" id="bee-tab-gifted">
 <label for="bee-tab-gifted">Gifted</label>
-<div class="bee-infobox-image bee-tab-original"><img alt="Crimson Bee" src="img/Crimson_Bee.png" width="150" height="150"></div>
-<div class="bee-infobox-image bee-tab-gifted"><img alt="Gifted Crimson Bee" src="img/Gifted_Crimson_Bee.png" width="150" height="150"></div>
+<div class="bee-infobox-image bee-tab-original"><img alt="Crimson Bee" src="img/Crimson_Bee.png" width="150"></div>
+<div class="bee-infobox-image bee-tab-gifted"><img alt="Gifted Crimson Bee" src="img/Gifted_Crimson_Bee.png" width="150"></div>
 </div>
 <div class="bee-infobox-quote"><i>""A Superhero and Defender of all things Red! Together with <a href="cobalt-bee.html">Cobalt Bee</a> it works to unite bees of all colors.""</i></div>
 <div class="bee-infobox-row"><b>Rarity</b><span>Event</span></div>
