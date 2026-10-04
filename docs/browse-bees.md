@@ -89,16 +89,16 @@ Every bee in Re://:Swarm, sorted by rarity. Pick a bee to see its stats, abiliti
 ## More about bees
 
 <div class="wiki-cards">
-<a class="wiki-card" href="bees.html"><img src="img/Basic_Bee.png" alt="" loading="lazy"><span>Bees</span></a>
-<a class="wiki-card" href="bees-common.html"><img src="img/Basic_Bee.png" alt="" loading="lazy"><span>Bees/Common</span></a>
-<a class="wiki-card" href="bees-epic.html"><img src="img/Basic_Bee.png" alt="" loading="lazy"><span>Bees/Epic</span></a>
-<a class="wiki-card" href="bees-event.html"><img src="img/Basic_Bee.png" alt="" loading="lazy"><span>Bees/Event</span></a>
-<a class="wiki-card" href="bees-legendary.html"><img src="img/Basic_Bee.png" alt="" loading="lazy"><span>Bees/Legendary</span></a>
-<a class="wiki-card" href="bees-mythic.html"><img src="img/Basic_Bee.png" alt="" loading="lazy"><span>Bees/Mythic</span></a>
-<a class="wiki-card" href="bees-rare.html"><img src="img/Basic_Bee.png" alt="" loading="lazy"><span>Bees/Rare</span></a>
-<a class="wiki-card" href="first-edition-bee.html"><img src="img/Basic_Bee.png" alt="" loading="lazy"><span>First Edition Bee</span></a>
-<a class="wiki-card" href="gifted-bee.html"><img src="img/Basic_Bee.png" alt="" loading="lazy"><span>Gifted Bee</span></a>
-<a class="wiki-card" href="honey-bee-npc.html"><img src="img/Basic_Bee.png" alt="" loading="lazy"><span>Honey Bee (NPC)</span></a>
-<a class="wiki-card" href="rogue-vicious-bee.html"><img src="img/Basic_Bee.png" alt="" loading="lazy"><span>Rogue Vicious Bee</span></a>
-<a class="wiki-card" href="wild-windy-bee.html"><img src="img/Basic_Bee.png" alt="" loading="lazy"><span>Wild Windy Bee</span></a>
+<a class="wiki-card wiki-card--text" href="bees.html"><span>Bees</span></a>
+<a class="wiki-card wiki-card--text" href="bees-common.html"><span>Bees/Common</span></a>
+<a class="wiki-card wiki-card--text" href="bees-epic.html"><span>Bees/Epic</span></a>
+<a class="wiki-card wiki-card--text" href="bees-event.html"><span>Bees/Event</span></a>
+<a class="wiki-card wiki-card--text" href="bees-legendary.html"><span>Bees/Legendary</span></a>
+<a class="wiki-card wiki-card--text" href="bees-mythic.html"><span>Bees/Mythic</span></a>
+<a class="wiki-card wiki-card--text" href="bees-rare.html"><span>Bees/Rare</span></a>
+<a class="wiki-card wiki-card--text" href="first-edition-bee.html"><span>First Edition Bee</span></a>
+<a class="wiki-card wiki-card--text" href="gifted-bee.html"><span>Gifted Bee</span></a>
+<a class="wiki-card wiki-card--text" href="honey-bee-npc.html"><span>Honey Bee (NPC)</span></a>
+<a class="wiki-card wiki-card--text" href="rogue-vicious-bee.html"><span>Rogue Vicious Bee</span></a>
+<a class="wiki-card wiki-card--text" href="wild-windy-bee.html"><span>Wild Windy Bee</span></a>
 </div>

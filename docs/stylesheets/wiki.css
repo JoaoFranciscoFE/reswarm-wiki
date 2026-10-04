@@ -1,3 +1,18 @@
+/* Re://:Swarm Wiki styles */
+.portable-infobox { float: right; width: 280px; margin: 0 0 1em 1em; padding: .5em;
+  border: 1px solid var(--md-default-fg-color--lightest); border-radius: 8px;
+  background: var(--md-code-bg-color); font-size: .75rem; }
+.portable-infobox .pi-title { margin: .2em 0; font-size: 1rem; text-align: center; }
+.portable-infobox img { max-width: 100%; height: auto; display: block; margin: 0 auto; }
+.portable-infobox .pi-item { padding: .3em 0; border-top: 1px solid var(--md-default-fg-color--lightest); }
+.portable-infobox .pi-data-label { margin: 0; font-size: .7rem; }
+.portable-infobox .pi-horizontal-group { width: 100%; }
+figure { display: inline-block; margin: .5em; text-align: center; }
+figure img { max-width: 100%; height: auto; }
+.wikia-gallery, .gallery { display: flex; flex-wrap: wrap; gap: .5em; }
+.md-typeset table:not([class]) { font-size: .7rem; }
+@media (max-width: 700px) { .portable-infobox { float: none; width: 100%; margin: 0 0 1em 0; } }
+
 /* Fandom-style look for the whole site (dark, like the Bee Swarm Simulator Fandom wiki) */
 [data-md-color-scheme="slate"] {
   --md-hue: 190;
@@ -20,7 +35,6 @@
   --md-primary-fg-color: #0d1819;
   --md-primary-bg-color: #ffffff;
 }
-body { font-size: 15px; }
 
 /* Header: game banner behind a dark bar */
 .md-header {
@@ -42,7 +56,6 @@ body { font-size: 15px; }
 .md-sidebar__scrollwrap { scrollbar-color: #2c3c3d transparent; }
 
 /* Sidebars */
-.md-nav { font-size: .68rem; }
 .md-nav__title { color: var(--md-default-fg-color--light); text-transform: uppercase; letter-spacing: .05em; }
 .md-nav__link--active, .md-nav__link:hover { color: var(--md-typeset-a-color) !important; }
 
@@ -56,7 +69,6 @@ body { font-size: 15px; }
 .md-typeset .md-tags .md-tag:hover { background: none; text-decoration: underline; }
 
 /* Typography */
-.md-typeset { font-size: .78rem; line-height: 1.65; }
 .md-typeset h1 { color: var(--md-default-fg-color); font-weight: 400; font-size: 2em; margin-bottom: .8em; }
 .md-typeset h2 {
   font-weight: 500; font-size: 1.35em; margin-top: 1.4em;
@@ -132,7 +144,7 @@ body { font-size: 15px; }
 @media screen and (min-width: 76.25em) {
   .md-nav--primary > .md-nav__list > .md-nav__item > .md-nav__link,
   .md-nav--primary > .md-nav__list > .md-nav__item > .md-nav__container > .md-nav__link {
-    padding: .45em .7em; margin: .15em 0; border-radius: 6px; font-weight: 500; font-size: .74rem;
+    padding: .45em .7em; margin: .15em 0; border-radius: 6px; font-weight: 500;
   }
   .md-nav--primary > .md-nav__list > .md-nav__item--active > .md-nav__link,
   .md-nav--primary > .md-nav__list > .md-nav__item--active > .md-nav__container > .md-nav__link {
@@ -143,31 +155,62 @@ body { font-size: 15px; }
 /* Bigger search box in the header */
 @media screen and (min-width: 60em) {
   .md-search__inner { width: 24rem; }
-  .md-search__input { font-size: .8rem; }
 }
 @media screen and (min-width: 76.25em) { .md-search__inner { width: 30rem; } }
 
-/* Card grids */
-.wiki-cards { display: grid; grid-template-columns: repeat(auto-fill, minmax(9.5rem, 1fr)); gap: .6rem; margin: .8em 0 1.4em; }
-.md-typeset .wiki-card {
-  display: flex; align-items: center; gap: .6em; padding: .5em .7em; border-radius: 8px;
-  background: #142224; border: 1px solid #263738; color: var(--md-default-fg-color);
-  text-decoration: none; transition: border-color .15s, transform .15s, background .15s;
+/* Card grids: equal tiles, fixed square picture box, label centred underneath */
+.md-typeset .wiki-cards {
+  display: grid; grid-template-columns: repeat(auto-fill, minmax(7.5rem, 1fr));
+  gap: .6rem; margin: .8em 0 1.6em; padding: 0;
 }
-.md-typeset .wiki-card:hover { border-color: var(--md-typeset-a-color); background: #18292b; transform: translateY(-1px); text-decoration: none; }
-.md-typeset .wiki-card img { width: 2.6rem; height: 2.6rem; object-fit: contain; flex: none; }
-.md-typeset .wiki-card span { font-size: .72rem; line-height: 1.25; }
-.wiki-cards--small { grid-template-columns: repeat(auto-fill, minmax(7.5rem, 1fr)); gap: .35rem; }
-.md-typeset .wiki-cards--small .wiki-card { padding: .25em .5em; }
-.md-typeset .wiki-cards--small .wiki-card span { font-size: .65rem; }
-.md-typeset .wiki-cards--small .wiki-card img { width: 2rem; height: 2rem; }
-.wiki-cards--big { grid-template-columns: repeat(auto-fill, minmax(8rem, 1fr)); gap: .8rem; }
-.md-typeset .wiki-cards--big .wiki-card { flex-direction: column; text-align: center; padding: 1em .5em .8em; }
-.md-typeset .wiki-cards--big .wiki-card img { width: 4rem; height: 4rem; }
-.md-typeset .wiki-cards--big .wiki-card span { font-size: .8rem; font-weight: 600; }
-[data-md-color-scheme="default"] .md-typeset .wiki-card { background: #f3f6f7; border-color: #dbe3e5; }
+.md-typeset .wiki-cards > a.wiki-card {
+  display: flex; flex-direction: column; align-items: center; justify-content: flex-start;
+  gap: .4rem; min-width: 0; padding: .7rem .5rem .6rem; margin: 0;
+  border-radius: 8px; background: #142224; border: 1px solid #263738;
+  color: var(--md-default-fg-color); text-align: center; text-decoration: none;
+  transition: border-color .15s, background .15s;
+}
+.md-typeset .wiki-cards > a.wiki-card:hover { border-color: var(--md-typeset-a-color); background: #18292b; text-decoration: none; }
+.md-typeset .wiki-cards > a.wiki-card > img {
+  display: block; flex: none; width: 4rem; height: 4rem; max-width: none; margin: 0;
+  object-fit: contain; object-position: center;
+}
+.md-typeset .wiki-cards > a.wiki-card > span {
+  display: block; width: 100%; font-size: .7rem; line-height: 1.3; overflow-wrap: anywhere;
+}
+.md-typeset .wiki-cards > a.wiki-card--text { justify-content: center; min-height: 3rem; }
+.md-typeset .wiki-cards--big { grid-template-columns: repeat(auto-fill, minmax(8.5rem, 1fr)); gap: .8rem; }
+.md-typeset .wiki-cards--big > a.wiki-card > img { width: 4.5rem; height: 4.5rem; }
+.md-typeset .wiki-cards--big > a.wiki-card > span { font-size: .8rem; font-weight: 600; }
+.md-typeset .wiki-cards--small { grid-template-columns: repeat(auto-fill, minmax(6rem, 1fr)); gap: .4rem; }
+.md-typeset .wiki-cards--small > a.wiki-card { padding: .45rem .3rem .4rem; gap: .25rem; }
+.md-typeset .wiki-cards--small > a.wiki-card > img { width: 2.8rem; height: 2.8rem; }
+.md-typeset .wiki-cards--small > a.wiki-card > span { font-size: .62rem; }
+[data-md-color-scheme="default"] .md-typeset .wiki-cards > a.wiki-card { background: #f3f6f7; border-color: #dbe3e5; }
 
 /* Home page hero */
 .md-typeset h1.wiki-hero-title { text-align: center; font-size: 2.4em; font-weight: 500; margin: .2em 0 .6em; }
 .wiki-hero { text-align: center; max-width: 30rem; margin: 0 auto 1.5em; }
-.md-typeset .wiki-hero-banner { width: 100%; border-radius: 10px; box-shadow: 0 4px 16px rgba(0, 0, 0, .45); margin-bottom: .8em; }
+.md-typeset .wiki-hero-banner { width: 100%; height: auto; border-radius: 10px; box-shadow: 0 4px 16px rgba(0, 0, 0, .45); margin-bottom: .8em; }
+
+/* Item infoboxes: same card look as the bee infobox, stacked under any right-floated picture */
+.md-typeset img[align=right] { clear: right; margin: 0 0 1em 1.2em; }
+.md-typeset .portable-infobox {
+  float: right; clear: right; width: 270px; margin: 0 0 1em 1.2em; padding: 0; overflow: hidden;
+  border: 1px solid #263738; border-radius: 6px; background: #142224; font-size: .72rem;
+}
+.md-typeset .portable-infobox .pi-title {
+  margin: 0; padding: .7em .5em; font-size: .95rem; font-weight: 700; text-align: center;
+  background: #c9a51c; color: #111; border: 0;
+}
+.md-typeset .portable-infobox .pi-header {
+  margin: 0; padding: .3em .5em; font-size: .75rem; font-weight: 500; text-align: center; text-transform: uppercase;
+  background: #1c2e30; border: 0;
+}
+.md-typeset .portable-infobox .pi-header:last-child { display: none; }
+.md-typeset .portable-infobox .pi-image { display: block; margin: 0; padding: .8em 0; text-align: center; }
+.md-typeset .portable-infobox .pi-image img { display: block; margin: 0 auto; width: 150px; height: 150px; object-fit: contain; }
+.md-typeset .portable-infobox .pi-data { padding: .45em .8em; border-top: 1px solid #263738; }
+.md-typeset .portable-infobox .pi-data-label { margin: 0 0 .15em; font-size: .72rem; font-weight: 700; }
+.md-typeset .portable-infobox .pi-data-value p { margin: .4em 0 0; }
+@media (max-width: 700px) { .md-typeset .portable-infobox, .md-typeset img[align=right] { float: none; margin: 0 auto 1em; display: block; } }
