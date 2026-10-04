@@ -1,6 +1,6 @@
 ---
 title: "Chicks"
-tags: ["Removed Content", "Mobs", "Egg Hunt 2020", "Bosses", "Mini Bosses", "Multiplayer Bosses", "Passive Mobs"]
+tags: ["Mobs", "Bosses", "Mini Bosses", "Multiplayer Bosses", "Passive Mobs"]
 ---
 
 # Chicks

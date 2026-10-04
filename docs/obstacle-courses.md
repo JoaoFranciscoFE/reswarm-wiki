@@ -1,6 +1,6 @@
 ---
 title: "Obstacle Courses"
-tags: ["Removed Content", "Locations"]
+tags: ["Locations"]
 ---
 
 # Obstacle Courses

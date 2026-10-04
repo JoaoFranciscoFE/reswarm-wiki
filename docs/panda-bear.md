@@ -1,6 +1,6 @@
 ---
 title: "Panda Bear"
-tags: ["Removed Content", "NPC", "Bears", "Quest Giver"]
+tags: ["NPC", "Bears", "Quest Giver"]
 ---
 
 # Panda Bear

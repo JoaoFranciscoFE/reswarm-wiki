@@ -1,6 +1,6 @@
 ---
 title: "Festive Nymph"
-tags: ["Removed Content", "Mobs", "Beesmas", "Stick Bug Challenge"]
+tags: ["Mobs", "Beesmas", "Stick Bug Challenge"]
 ---
 
 # Festive Nymph

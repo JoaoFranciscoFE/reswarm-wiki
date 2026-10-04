@@ -1,6 +1,6 @@
 ---
 title: "Onett"
-tags: ["NPC", "Removed Content", "Quest Giver"]
+tags: ["NPC", "Quest Giver"]
 ---
 
 # Onett

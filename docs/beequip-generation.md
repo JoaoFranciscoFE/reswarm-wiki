@@ -1,6 +1,6 @@
 ---
 title: "Beequip/Generation"
-tags: ["Recent Update"]
+tags: []
 ---
 
 # Beequip/Generation

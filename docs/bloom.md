@@ -1,6 +1,6 @@
 ---
 title: "Bloom"
-tags: ["Recent Update", "Mobs", "Passive Mobs"]
+tags: ["Mobs", "Passive Mobs"]
 ---
 
 # Bloom

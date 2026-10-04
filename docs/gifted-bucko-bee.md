@@ -1,6 +1,6 @@
 ---
 title: "Gifted Bucko Bee"
-tags: ["Removed Content", "NPC", "Blue", "Quest Giver", "Quest Bees", "Requires Translator"]
+tags: ["NPC", "Blue", "Quest Giver", "Quest Bees", "Requires Translator"]
 ---
 
 # Gifted Bucko Bee

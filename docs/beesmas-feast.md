@@ -1,6 +1,6 @@
 ---
 title: "Beesmas Feast"
-tags: ["Removed Content", "Machines", "Locations", "Beesmas", "Beesmas Decorations"]
+tags: ["Machines", "Locations", "Beesmas", "Beesmas Decorations"]
 ---
 
 # Beesmas Feast

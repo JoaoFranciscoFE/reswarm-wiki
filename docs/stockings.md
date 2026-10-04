@@ -1,6 +1,6 @@
 ---
 title: "Stockings"
-tags: ["Removed Content", "Machines", "Beesmas", "Locations", "Beesmas Decorations", "Starter Zone"]
+tags: ["Machines", "Beesmas", "Locations", "Beesmas Decorations", "Starter Zone"]
 ---
 
 # Stockings

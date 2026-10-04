@@ -1,6 +1,6 @@
 ---
 title: "Bee Bear's Catalog"
-tags: ["Removed Content", "Beesmas", "Shops"]
+tags: ["Beesmas", "Shops"]
 ---
 
 # Bee Bear's Catalog

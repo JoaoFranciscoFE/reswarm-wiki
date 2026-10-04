@@ -1,6 +1,6 @@
 ---
 title: "Bubble Bee Man"
-tags: ["Removed Content", "NPC", "Quest Giver"]
+tags: ["NPC", "Quest Giver"]
 ---
 
 # Bubble Bee Man
@@ -38,8 +38,6 @@ tags: ["Removed Content", "NPC", "Quest Giver"]
 <table>
 </table>
 </td></tr></tbody></table>
-
-*This article is about the quest giver, you might also be looking for the article about the [B.B.M. Mask](b-b-m-mask.md).*
 
 **Bubble Bee Man** is a temporary [quest giver](quest-givers.md) on the inner top of the [Bear Gate](bear-gate.md) (only accessible during [nighttime](day-night-cycle.md) due to the moon platforms, and also requiring a Moon Amulet to be owned). Bubble Bee Man is one of the four temporary quest givers, along with [Sun Bear](sun-bear.md), [Gummy Bear](gummy-bear.md), and [Bee Bear](bee-bear.md).
 
@@ -231,11 +229,9 @@ Nice. You did it, nice. That was sorta hard. Well... uhh... Ok I guess this is i
 * Bubble Bee Man is actually a [Roblox Hat](https://www.roblox.com/catalog/17735318/Bubble-Bee-Man).
   * Strangely, as the Roblox hat, both the texture and the model have the name: Bubble Bee Man.
 * Bubble Bee Man is the only NPC whose dialogue contains references to other Roblox games.
-* Sometimes, the icon of the B.B.M. Mask will appear to be invisible, but hovering over where the icon should appear will still show its stats.
 * Bubble Bee Man is one of the six [Quest Givers](quest-givers.md) that are not bears, along with [Onett](onett.md), [Gifted Bucko Bee](gifted-bucko-bee.md), [Gifted Riley Bee](gifted-riley-bee.md), Honey Bee, and Stick Bug.
 * Bubble Bee Man is one of the three quest givers that require the player to defeat the Stump Snail, the others being Stick Bug and Onett.
 * In old servers, you can still see Bubble Bee Man giving his dialogue even if you did not complete his quest.
-* Bubble Bee Man is the only quest giver that gives out two different kinds of hats, the [B.B.M. Mask](b-b-m-mask.md) and [Mondo B.B.M. Mask](mondo-b-b-m-mask.md) .
 * After the 2019-02-01 Update, there is a royal jelly token in front of Bubble Bee Man and an enzyme token on the other side of the platform where one of the [present](present.md) tokens was previously located.
 * Regarding the quests needed to get completed, including Bee Bear's quests, the five Gifted Riley Bee quests, the five Gifted Bucko Bee quests, and [Science Bear's](science-bear.md) quests to get the translators for delivering the presents, you needed to complete at least 100 quests in total in order to complete Bubble Bee Man’s Beesmas 2018 quest (B.B.M. Mission).
 * During Beesmas 2018, if the player tried to talk to Bubble Bee Man before making a present with Bee Bear, he would say to come back later when they have made a present with Bee Bear, meaning they would need to earn the first Beesmas 2018 Badge (Beesmas Beeliever) before being able to start his quest.

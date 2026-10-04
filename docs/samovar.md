@@ -1,6 +1,6 @@
 ---
 title: "Samovar"
-tags: ["Removed Content", "Machines", "Beesmas", "Locations", "Beesmas Decorations"]
+tags: ["Machines", "Beesmas", "Locations", "Beesmas Decorations"]
 ---
 
 # Samovar

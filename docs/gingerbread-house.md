@@ -1,6 +1,6 @@
 ---
 title: "Gingerbread House"
-tags: ["Removed Content", "Locations", "Machines", "Beesmas", "Beesmas Decorations", "Starter Zone"]
+tags: ["Locations", "Machines", "Beesmas", "Beesmas Decorations", "Starter Zone"]
 ---
 
 # Gingerbread House

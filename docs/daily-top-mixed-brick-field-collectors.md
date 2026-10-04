@@ -1,6 +1,6 @@
 ---
 title: "Daily Top Mixed Brick Field Collectors"
-tags: ["Removed Content", "Leaderboards", "Retro Swarm Challenge"]
+tags: ["Leaderboards", "Retro Swarm Challenge"]
 ---
 
 # Daily Top Mixed Brick Field Collectors

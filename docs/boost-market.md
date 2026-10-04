@@ -1,6 +1,6 @@
 ---
 title: "Boost Market"
-tags: ["Removed Content", "Shops", "Locations", "Machines"]
+tags: ["Shops", "Locations", "Machines"]
 ---
 
 # Boost Market

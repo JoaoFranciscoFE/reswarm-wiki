@@ -1,6 +1,6 @@
 ---
 title: "Honeyday Candles"
-tags: ["Removed Content", "Beesmas", "Locations", "Machines", "Summoner", "Beesmas Decorations"]
+tags: ["Beesmas", "Locations", "Machines", "Summoner", "Beesmas Decorations"]
 ---
 
 # Honeyday Candles

@@ -1,6 +1,6 @@
 ---
 title: "Highest Snowbear Level"
-tags: ["Removed Content", "Locations", "Leaderboards", "Beesmas"]
+tags: ["Locations", "Leaderboards", "Beesmas"]
 ---
 
 # Highest Snowbear Level

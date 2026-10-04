@@ -1,6 +1,6 @@
 ---
 title: "Robo Party Cake"
-tags: ["Removed Content", "Beesmas", "Beesmas Decorations", "Locations", "Machines", "Robo Bear", "Robo Party", "Summoner"]
+tags: ["Beesmas", "Beesmas Decorations", "Locations", "Machines", "Robo Bear", "Robo Party", "Summoner"]
 ---
 
 # Robo Party Cake

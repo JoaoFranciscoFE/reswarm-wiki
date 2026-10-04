@@ -1,6 +1,6 @@
 ---
 title: "Gifted Riley Bee"
-tags: ["Removed Content", "NPC", "Red", "Quest Giver", "Quest Bees", "Requires Translator"]
+tags: ["NPC", "Red", "Quest Giver", "Quest Bees", "Requires Translator"]
 ---
 
 # Gifted Riley Bee

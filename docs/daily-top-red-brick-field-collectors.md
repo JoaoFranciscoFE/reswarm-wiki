@@ -1,6 +1,6 @@
 ---
 title: "Daily Top Red Brick Field Collectors"
-tags: ["Removed Content", "Leaderboards", "Retro Swarm Challenge"]
+tags: ["Leaderboards", "Retro Swarm Challenge"]
 ---
 
 # Daily Top Red Brick Field Collectors

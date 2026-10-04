@@ -1,6 +1,6 @@
 ---
 title: "Quests"
-tags: ["Removed Content", "Recent Update", "Stubs", "Mechanics"]
+tags: ["Mechanics"]
 ---
 
 # Quests
@@ -6284,8 +6284,7 @@ The following content has been removed from the game. The contents below may be 
 <li>Defeat 1 <a href="stump-snail.html">Stump Snail</a>.</li></ul>
 </td>
 <td>
-<ul><li><a href="mondo-b-b-m-mask.html">Mondo B.B.M. Mask</a></li>
-<li>1x <a href="festive-bean.html">Festive Bean</a></li>
+<ul><li>1x <a href="festive-bean.html">Festive Bean</a></li>
 <li>122471x <a href="treats.html">Treat</a></li>
 <li>21x <a href="sunflower-seed.html">Sunflower Seed</a></li>
 <li>1x <a href="oil.html">Oil</a></li>

@@ -6,7 +6,7 @@ hide:
 
 # Accessories
 
-All 47 pages in Accessories, sorted by equipment tier (1 to 3 stars).
+All 45 pages in Accessories, sorted by equipment tier (1 to 3 stars).
 
 ## Tier 1
 
@@ -60,14 +60,12 @@ All 47 pages in Accessories, sorted by equipment tier (1 to 3 stars).
 <div class="wiki-cards">
 <a class="wiki-card" href="amulet.html"><img src="img/Ant_Amulet.png" alt="" loading="lazy"><span>Amulet</span></a>
 <a class="wiki-card" href="ant-amulet.html"><img src="img/Ant_Amulet.png" alt="" loading="lazy"><span>Ant Amulet</span></a>
-<a class="wiki-card" href="b-b-m-mask.html"><img src="img/B.B.M._Mask.png" alt="" loading="lazy"><span>B.B.M. Mask</span></a>
 <a class="wiki-card" href="bags.html"><img src="img/Bags.png" alt="" loading="lazy"><span>Bags</span></a>
 <a class="wiki-card" href="cog-amulet.html"><img src="img/Cog_Amulet.png" alt="" loading="lazy"><span>Cog Amulet</span></a>
 <a class="wiki-card" href="eviction.html"><img src="img/Eviction.png" alt="" loading="lazy"><span>Eviction</span></a>
 <a class="wiki-card wiki-card--noicon" href="glider.html"><img src="images/no-icon.svg" alt="" loading="lazy"><span>Glider</span></a>
 <a class="wiki-card" href="hive-slot.html"><img src="img/Shocked_Hive_Slot.png" alt="" loading="lazy"><span>Hive Slot</span></a>
 <a class="wiki-card" href="king-beetle-amulet.html"><img src="img/King_Beetle_Amulet.png" alt="" loading="lazy"><span>King Beetle Amulet</span></a>
-<a class="wiki-card" href="mondo-b-b-m-mask.html"><img src="img/Mondo_B.B.M._Mask.png" alt="" loading="lazy"><span>Mondo B.B.M. Mask</span></a>
 <a class="wiki-card" href="moon-amulet.html"><img src="img/Moon_Amulet.png" alt="" loading="lazy"><span>Moon Amulet</span></a>
 <a class="wiki-card wiki-card--noicon" href="parachute.html"><img src="images/no-icon.svg" alt="" loading="lazy"><span>Parachute</span></a>
 <a class="wiki-card" href="shell-amulet.html"><img src="img/Shell_Amulet.png" alt="" loading="lazy"><span>Shell Amulet</span></a>

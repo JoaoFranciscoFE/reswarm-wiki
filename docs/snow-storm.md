@@ -1,6 +1,6 @@
 ---
 title: "Snow Storm"
-tags: ["Removed Content", "Beesmas"]
+tags: ["Beesmas"]
 ---
 
 # Snow Storm

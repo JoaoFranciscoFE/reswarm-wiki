@@ -6,7 +6,7 @@ hide:
 
 # Items
 
-All 211 pages in Items, sorted by equipment tier (1 to 3 stars).
+All 209 pages in Items, sorted by equipment tier (1 to 3 stars).
 
 ## Tier 1
 
@@ -75,7 +75,6 @@ All 211 pages in Items, sorted by equipment tier (1 to 3 stars).
 <a class="wiki-card" href="ant-pass.html"><img src="img/Ant_Pass.png" alt="" loading="lazy"><span>Ant Pass</span></a>
 <a class="wiki-card" href="atomic-treat.html"><img src="img/Atomic_Treat.png" alt="" loading="lazy"><span>Atomic Treat</span></a>
 <a class="wiki-card" href="autumn-sunhat.html"><img src="img/Autumn_Sunhat.png" alt="" loading="lazy"><span>Autumn Sunhat</span></a>
-<a class="wiki-card" href="b-b-m-mask.html"><img src="img/B.B.M._Mask.png" alt="" loading="lazy"><span>B.B.M. Mask</span></a>
 <a class="wiki-card" href="bags.html"><img src="img/Bags.png" alt="" loading="lazy"><span>Bags</span></a>
 <a class="wiki-card" href="balloon.html"><img src="img/Red_Balloon.png" alt="" loading="lazy"><span>Balloon</span></a>
 <a class="wiki-card" href="bandage.html"><img src="img/Bandage.png" alt="" loading="lazy"><span>Bandage</span></a>
@@ -151,7 +150,6 @@ All 211 pages in Items, sorted by equipment tier (1 to 3 stars).
 <a class="wiki-card" href="magnet.html"><img src="img/Magnet.png" alt="" loading="lazy"><span>Magnet</span></a>
 <a class="wiki-card" href="marshmallow-bee.html"><img src="img/Marshmallow_Bee.png" alt="" loading="lazy"><span>Marshmallow Bee</span></a>
 <a class="wiki-card" href="micro-converter.html"><img src="img/Micro-Converter.png" alt="" loading="lazy"><span>Micro-Converter</span></a>
-<a class="wiki-card" href="mondo-b-b-m-mask.html"><img src="img/Mondo_B.B.M._Mask.png" alt="" loading="lazy"><span>Mondo B.B.M. Mask</span></a>
 <a class="wiki-card" href="moon-charm.html"><img src="img/Moon_Charm.png" alt="" loading="lazy"><span>Moon Charm</span></a>
 <a class="wiki-card" href="motivating-vial.html"><img src="img/Motivating_Vial.png" alt="" loading="lazy"><span>Motivating Vial</span></a>
 <a class="wiki-card" href="nectar-shower-vial.html"><img src="img/Nectar_Shower_Vial.png" alt="" loading="lazy"><span>Nectar Shower Vial</span></a>

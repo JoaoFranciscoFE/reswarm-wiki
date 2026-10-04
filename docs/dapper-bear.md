@@ -1,6 +1,6 @@
 ---
 title: "Dapper Bear"
-tags: ["NPC", "Bears", "Removed Content", "Quest Giver"]
+tags: ["NPC", "Bears", "Quest Giver"]
 ---
 
 # Dapper Bear
