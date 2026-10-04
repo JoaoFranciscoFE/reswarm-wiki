@@ -5,6 +5,8 @@ tags: []
 
 # Re://:Swarm Wiki
 
+![Re://:Swarm](images/game-banner.png)
+
 Welcome to the Re://:Swarm Wiki!
 
 The community encyclopedia for **[Re://:Swarm](re-swarm.md)** – hatch bees, collect pollen, make honey and complete quests. Anyone can edit!
