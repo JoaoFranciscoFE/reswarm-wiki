@@ -110,7 +110,6 @@ When claimed, the planter gives up to 25 tokens worth of items. If the planter w
 * As a reward from certain [quests](quests.md):
   * If the player completes Dapper Bear's quests and they already got Beequip slots from [Bee Bear](bee-bear.md) in previous years, they get a Ticket Planter for each Beequip slot.
   * Bee Bear's "Searching For Snowflakes" quest rewards 1 Ticket Planter and other items.
-* As a rare reward from the [Retro Swarm Challenge](retro-swarm-challenge.md).
 * As a rare drop from [Sticker Sprouts](sprout.md#Variants).
 * As a Stack Reward for adding certain stickers to the [Sticker Stack](sticker-stack.md):
   * [Dapper From Above Sticker](sticker.md#Sticker_Index) rewards 1 Ticket Planter.

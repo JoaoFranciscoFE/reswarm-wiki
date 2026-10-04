@@ -224,7 +224,6 @@ All jelly bean types stack up to 3 times, except for Spoiled Jelly Bean, which o
 
 ## Ways To Obtain
 
-* As a reward from the [Retro Swarm Challenge](retro-swarm-challenge.md)
 * As a reward from the [Ant Challenge](ant-challenge.md).
 * A common reward from [Robo Bear Challenge](robo-bear-challenge.md).
 * As a reward from [Memory Match](memory-match.md).
@@ -375,7 +374,7 @@ Whenever a jelly bean token is collected, one of the five following audios will 
 <tr>
 <th class="NavCategory">Currencies
 </th>
-<td class="NavLinks NavLinksBasicOdd" colspan="2"><b><img alt="Brick" height="35" src="img/Brick.png" width="35"/> <a href="brick.html">Brick</a> • <img alt="Cog" height="35" src="img/Cog.png" width="35"/> <a href="cog.html">Cog</a> • <img alt="Ticket" height="35" src="img/Ticket.png" width="35"/> <a href="ticket.html">Ticket</a></b>
+<td class="NavLinks NavLinksBasicOdd" colspan="2"><b><img alt="Cog" height="35" src="img/Cog.png" width="35"/> <a href="cog.html">Cog</a> • <img alt="Ticket" height="35" src="img/Ticket.png" width="35"/> <a href="ticket.html">Ticket</a></b>
 </td></tr></tbody></table>
 </td></tr>
 <tr>

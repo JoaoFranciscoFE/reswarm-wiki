@@ -32,7 +32,7 @@ tags: ["Bees", "Event", "Colorless"]
 
 *This article is about the bee called the "Bear Bee." For the Bear NPC of a similar name, see "[Bee Bear](bee-bear.md)."*
 
-**Bear Bee** is a Colorless [Event bee](bees-event.md). You can get this bee by redeeming a [Bear Bee Voucher](sticker.md#Sticker_Index), which can be obtained by purchasing in the [Robux Shop](robux-shop.md) for 800 Robux, from trading, as an incredibly rare drop from [Tunnel Bear](tunnel-bear.md) and very rarely from the [Retro Swarm Challenge](retro-swarm-challenge.md).
+**Bear Bee** is a Colorless [Event bee](bees-event.md). You can get this bee by redeeming a [Bear Bee Voucher](sticker.md#Sticker_Index), which can be obtained by purchasing in the [Robux Shop](robux-shop.md) for 800 Robux, from trading, as an incredibly rare drop from [Tunnel Bear](tunnel-bear.md).
 
 Similar to all other Event bees, this bee does not have a favorite treat, and can only become [gifted](gifted-bee.md) if the player bought it during its release, by feeding it a [Star Treat](star-treat.md), [Gingerbread Bears](gingerbread-bear.md) or [Aged Gingerbread Bears](aged-gingerbread-bear.md).
 

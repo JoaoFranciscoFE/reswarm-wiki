@@ -643,44 +643,6 @@ Loses health over time.
 </p>
 </td></tr>
 <tr>
-<td><a href="zombie.html">Zombie</a>
-</td>
-<td><a href="retro-swarm-challenge.html">Retro Swarm Challenge</a>
-</td>
-<td>1-25+
-</td>
-<td>No
-</td>
-<td>Targets nearby players, but does not jump at the player.<br/>
-<p>If no player is nearby, walks in a straight line to the hives.
-</p>
-</td></tr>
-<tr>
-<td><a href="slime.html">Slime</a>
-</td>
-<td><a href="retro-swarm-challenge.html">Retro Swarm Challenge</a>
-</td>
-<td>1-25+
-</td>
-<td>No
-</td>
-<td>Rolls in a straight line to the hives, ignoring all players.
-</td></tr>
-<tr>
-<td><a href="brick-bloom.html">Brick Bloom</a>
-</td>
-<td>Any field in the <a href="retro-swarm-challenge.html">Retro Swarm Challenge</a>
-</td>
-<td>1-25+
-</td>
-<td>Yes
-</td>
-<td>Require collecting pollen to defeat.<br/>
-<p>Rewards Bricks for all players in the server when defeated in the form of tokens. <br/>
-Rewards and pollen scale up by level. 
-</p>
-</td></tr>
-<tr>
 <td><a href="bloom.html">Bloom</a>
 </td>
 <td>Any field in the main area and <a href="hub-field.html">Hub Field</a>

@@ -43,7 +43,6 @@ When a sprinkler regenerates flowers, the following audio plays:
 * SDMittens was the first player to buy The Supreme Saturator. She purchased it on September 19, 2018, and an in-game message appeared in every server in order to congratulate her on the achievement. The message said: "Wow! SDMittens has unleashed THE SUPREME SATURATOR on the mountain!"
 * This is the only sprinkler capable of completely covering a single field; those being:
   * The [Stump Field](stump-field.md).
-  * The Mixed, Blue, Red and White [Brick Fields](retro-swarm-challenge.md).
   * Theoretically, it could also cover the [Hub Field](hub-field.md) as well.
 
 <table class="mw-collapsible autocollapse" style="margin:auto; background:#000; font-size: 10pt; border:5px solid #56CB5A; width: 100%; border-radius: 20px; -moz-border-radius: 20px; -webkit-border-radius: 20px; -khtml-border-radius: 20px; -icab-border-radius: 20px; -o-border-radius: 20px;">
@@ -132,7 +131,7 @@ When a sprinkler regenerates flowers, the following audio plays:
 <tr>
 <th class="NavCategory">Currencies
 </th>
-<td class="NavLinks NavLinksBasicOdd" colspan="2"><b><img alt="Brick" height="35" src="img/Brick.png" width="35"/> <a href="brick.html">Brick</a> • <img alt="Cog" height="35" src="img/Cog.png" width="35"/> <a href="cog.html">Cog</a> • <img alt="Ticket" height="35" src="img/Ticket.png" width="35"/> <a href="ticket.html">Ticket</a></b>
+<td class="NavLinks NavLinksBasicOdd" colspan="2"><b><img alt="Cog" height="35" src="img/Cog.png" width="35"/> <a href="cog.html">Cog</a> • <img alt="Ticket" height="35" src="img/Ticket.png" width="35"/> <a href="ticket.html">Ticket</a></b>
 </td></tr></tbody></table>
 </td></tr>
 <tr>

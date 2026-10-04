@@ -598,8 +598,6 @@ The following content has been removed from the game. The contents below may be 
 <li>Collect 10,000 Battle <a href="ability-tokens.html">Tokens</a>.</li>
 <li>Complete 10 “Collect Goo” Quests in <a href="robo-bear-challenge.html">Robo Bear's Challenge</a>.</li>
 <li>Purchase the Fluid Simulation Upgrade in Robo Bear's Challenge.</li>
-<li>Deal 2,500,000 Damage with the <a href="retro-swarm-challenge.html#Weapons">Rocket Launcher</a>.</li>
-<li>Defeat 2,000 <a href="slime.html">Slimes</a>.</li>
 <li>Defeat 500 <a href="party-cogmower.html">Party Cogmowers</a>.</li>
 <li>Summon and Defeat a Level 16 <a href="snowbear.html">Snowbear</a>.</li>
 <li>Pop 1 Legendary <a href="puffshroom.html">Puffshroom</a>.</li>

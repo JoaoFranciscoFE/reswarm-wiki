@@ -15,7 +15,7 @@ The following content has been removed from the game. The contents below may be 
 
 **Beesmas Lights** would appear in fields as the player collects pollen after completing [Science Bear's](science-bear.md) Beesmas Lights [quest](quests.md).
 
-They fall from the sky in a similar way to the [Star Shower passive](passive-abilities.md#Star_Shower), taking 2 seconds to fall. Whenever a Beesmas Light is caught, it grants the [Inspire](ability-tokens.md#Inspire) buff and converts based on the player's [convert total](system-page.md#Convert_Total). If the player doesn't catch it, the light collects pollen instead. Beesmas Lights spawn after collecting 25 Ability Tokens (with a 30 second cooldown), dropping 5 lights into the field. Beesmas Lights spawn in any field, including the [Ant Field](ant-field.md) and the fields in [Retro Swarm Challenge](retro-swarm-challenge.md).
+They fall from the sky in a similar way to the [Star Shower passive](passive-abilities.md#Star_Shower), taking 2 seconds to fall. Whenever a Beesmas Light is caught, it grants the [Inspire](ability-tokens.md#Inspire) buff and converts based on the player's [convert total](system-page.md#Convert_Total). If the player doesn't catch it, the light collects pollen instead. Beesmas Lights spawn after collecting 25 Ability Tokens (with a 30 second cooldown), dropping 5 lights into the field. Beesmas Lights spawn in any field, including the [Ant Field](ant-field.md).
 
 If the player approaches the switch for the Beesmas Lights, located beside [Science Bear](science-bear.md) and has not yet completed his quest, a text box will display reading the following text: "This [*sic*] Beesmas Lights aren't powering on..."
 

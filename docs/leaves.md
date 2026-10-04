@@ -11,7 +11,7 @@ tags: ["Mechanics"]
 
 **Leaves** are entities that appear in most [fields](fields.md). They work similarly to [sparkles](sparkles.md) and emit leaf particles. To gather leaves, the player needs to collect [pollen](pollen.md) on the tile it is on, similar to sparkles. When the leaves are gathered, a rustling sound plays, and multiple leaf particles fly out before the token appears. Rewards vary depending on which field the leaves are in but will always be in quantities of 1. For example, leaves will often spawn blueberries in blue fields. Leaves also have a rare chance of spawning an [aphid](aphid.md) that varies based on field activity, with the chance increasing if a field has been inactive for a while. They can also summon leaf [stickers](sticker.md#Sticker_Index) in most fields.
 
-Leaves in the [Mountain Top Field](mountain-top-field.md) are noticeably much rarer than in any other field and will always spawn an [aphid](aphid.md) or [Lyrate Leaf Sticker](sticker.md#Sticker_Index), and on rarer occasions, a [Bitterberry](bitterberry.md), [Neonberry](neonberry.md), [Magic Bean](magic-bean.md), [Blowing Leaf Sticker](sticker.md#Sticker_Index) or [Super Smoothie](super-smoothie.md) token. Leaves in the [Stump Field](stump-field.md) and [Ant Field](ant-field.md) cannot spawn aphids, however leaves in the [Retro Swarm Challenge](retro-swarm-challenge.md) can.
+Leaves in the [Mountain Top Field](mountain-top-field.md) are noticeably much rarer than in any other field and will always spawn an [aphid](aphid.md) or [Lyrate Leaf Sticker](sticker.md#Sticker_Index), and on rarer occasions, a [Bitterberry](bitterberry.md), [Neonberry](neonberry.md), [Magic Bean](magic-bean.md), [Blowing Leaf Sticker](sticker.md#Sticker_Index) or [Super Smoothie](super-smoothie.md) token. Leaves in the [Stump Field](stump-field.md) and [Ant Field](ant-field.md) cannot spawn aphids.
 
 Rewards from leaves include:
 
@@ -138,34 +138,6 @@ Rewards from leaves include:
 <img alt="Sticker" height="35" src="img/Sticker.png" width="35"/><a href="sticker.html#Sticker_Index"><span class="color-template color-template-reniform-leaf-sticker color-template-background-clip">Reniform Leaf Sticker</span></a><br/>
 <img alt="Sticker" height="35" src="img/Sticker.png" width="35"/><a href="sticker.html#Sticker_Index"><span class="color-template color-template-rhomboid-leaf-sticker color-template-background-clip">Rhomboid Leaf Sticker</span></a><br/>
 <img alt="Sticker" height="35" src="img/Sticker.png" width="35"/><a href="sticker.html#Sticker_Index"><span class="color-template color-template-blowing-leaf-sticker color-template-background-clip">Blowing Leaf Sticker</span></a> (Extremely Rare)
-</p>
-</td></tr>
-<tr>
-<td><figure class="mw-halign-center" typeof="mw:Error mw:File"><figcaption></figcaption></figure><div style="text-align: center;"><a href="mixed-brick-field.html">Mixed Brick Field</a>
-</div></td>
-<td><img alt="Brick" height="35" src="img/Brick.png" width="35"/><a href="brick.html"><span class="color-template color-template-brick color-template-background-clip">Bricks</span></a><br/>
-<p><img alt="Sticker" height="35" src="img/Sticker.png" width="35"/><a href="sticker.html#Sticker_Index"><span class="color-template color-template-blowing-leaf-sticker color-template-background-clip">Blowing Leaf Sticker</span></a> (Extremely Rare)
-</p>
-</td></tr>
-<tr>
-<td><figure class="mw-halign-center" typeof="mw:Error mw:File"><figcaption></figcaption></figure><div style="text-align: center;"><a href="blue-brick-field.html">Blue Brick Field</a>
-</div></td>
-<td><img alt="Brick" height="35" src="img/Brick.png" width="35"/><a href="brick.html"><span class="color-template color-template-brick color-template-background-clip">Bricks</span></a><br/>
-<p><img alt="Sticker" height="35" src="img/Sticker.png" width="35"/><a href="sticker.html#Sticker_Index"><span class="color-template color-template-blowing-leaf-sticker color-template-background-clip">Blowing Leaf Sticker</span></a> (Extremely Rare)
-</p>
-</td></tr>
-<tr>
-<td><figure class="mw-halign-center" typeof="mw:Error mw:File"><figcaption></figcaption></figure><div style="text-align: center;"><a href="red-brick-field.html">Red Brick Field</a>
-</div></td>
-<td><img alt="Brick" height="35" src="img/Brick.png" width="35"/><a href="brick.html"><span class="color-template color-template-brick color-template-background-clip">Bricks</span></a><br/>
-<p><img alt="Sticker" height="35" src="img/Sticker.png" width="35"/><a href="sticker.html#Sticker_Index"><span class="color-template color-template-blowing-leaf-sticker color-template-background-clip">Blowing Leaf Sticker</span></a> (Extremely Rare)
-</p>
-</td></tr>
-<tr>
-<td><figure class="mw-halign-center" typeof="mw:Error mw:File"><figcaption></figcaption></figure><div style="text-align: center;"><a href="white-brick-field.html">White Brick Field</a>
-</div></td>
-<td><img alt="Brick" height="35" src="img/Brick.png" width="35"/><a href="brick.html"><span class="color-template color-template-brick color-template-background-clip">Bricks</span></a><br/>
-<p><img alt="Sticker" height="35" src="img/Sticker.png" width="35"/><a href="sticker.html#Sticker_Index"><span class="color-template color-template-blowing-leaf-sticker color-template-background-clip">Blowing Leaf Sticker</span></a> (Extremely Rare)
 </p>
 </td></tr>
 <tr>

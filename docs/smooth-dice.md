@@ -34,7 +34,6 @@ The **Smooth Dice** is an inventory item that was added in the 2021-12-26 update
 * As a bonus drop by harvesting a planter in the [Clover Field](clover-field.md).
 * As a rare drop from [Puffshrooms](puffshroom.md) except for common puffshroom.
 * As a reward from the [Robo Bear Challenge](robo-bear-challenge.md).
-* As a reward from the Retro Swarm Challenge.
 * As a Stack Reward for adding certain [stickers](sticker.md) to the [Sticker Stack](sticker-stack.md):
   * The Orange Swirled Marble rewards 3 smooth dice.
   * The Blue and Green Marble rewards 3 smooth dice.
@@ -168,7 +167,7 @@ You are already rolling a dice
 <tr>
 <th class="NavCategory">Currencies
 </th>
-<td class="NavLinks NavLinksBasicOdd" colspan="2"><b><img alt="Brick" height="35" src="img/Brick.png" width="35"/> <a href="brick.html">Brick</a> • <img alt="Cog" height="35" src="img/Cog.png" width="35"/> <a href="cog.html">Cog</a> • <img alt="Ticket" height="35" src="img/Ticket.png" width="35"/> <a href="ticket.html">Ticket</a></b>
+<td class="NavLinks NavLinksBasicOdd" colspan="2"><b><img alt="Cog" height="35" src="img/Cog.png" width="35"/> <a href="cog.html">Cog</a> • <img alt="Ticket" height="35" src="img/Ticket.png" width="35"/> <a href="ticket.html">Ticket</a></b>
 </td></tr></tbody></table>
 </td></tr>
 <tr>

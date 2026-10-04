@@ -466,7 +466,6 @@ The following content has been removed from the game. The contents below may be 
 <tr>
 <td>
 <ul><li>Collect 500,000,000 Pollen from the <a href="rose-field.html">Rose Field</a>.</li>
-<li>Collect 50,000,000 Pollen from the <a href="red-brick-field.html">Red Brick Field</a>.</li>
 <li>Catch 1,000 <a href="bloom.html">Red Bloom</a> Petals.</li>
 <li>Catch 100 Scarlet Bloom Petals.</li>
 <li>Use 25 <a href="soft-wax.html">Soft Waxes</a>.</li>

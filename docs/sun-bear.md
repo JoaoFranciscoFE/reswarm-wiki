@@ -844,8 +844,6 @@ He made five appearances. His first visit was from April 27, 2018, to May 13, 20
 <li>Collect 300,000,000 Pollen from the Blue Flower Field.</li>
 <li>Collect 150,000,000 Pollen from the Dandelion Field.</li>
 <li>Collect 100 Tokens from Bean Bugs.</li>
-<li>Collect 500 Tokens from Brick Blooms.</li>
-<li>Complete 20 Rounds of the Retro Swarm Challenge.</li>
 <li>One of the following:
 <ul><li>Obtain 1 (randomized) Nectar Icon Sticker to give to Sun Bear.</li>
 <li>Obtain 1 (randomized) Beesmas Light Sticker to give to Sun Bear.</li>

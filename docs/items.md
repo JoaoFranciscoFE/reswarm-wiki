@@ -2247,7 +2247,7 @@ The following is a list of all of the **items** in [Re://:Swarm](re-swarm.md).
 </td>
 <td>None
 </td>
-<td><a href="retro-swarm-challenge.html">Retro Swarm Challenge</a>, <a href="mobs.html">Mobs</a>
+<td><a href="mobs.html">Mobs</a>
 </td></tr>
 <tr>
 <td><figure class="mw-halign-center" typeof="mw:Error mw:File"><figcaption></figcaption></figure><div style="text-align: center;"><a href="red-balloon.html"><span class="color-template color-template-red-balloon color-template-background-clip">Red Balloon</span></a>

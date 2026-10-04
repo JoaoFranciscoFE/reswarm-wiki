@@ -100,7 +100,6 @@ All-Time Top Battlers (Most Battle Points)
 All-Time Top Ant Exterminators
 All-Time Top Stick Bug Fighters
 All-Time Top Robo Bear Challenge Scores
-All-Time Top Retro Swarm Hive Defenders
 All-Time Fastest Crab Slayers
 </tabview>
 
@@ -110,7 +109,6 @@ All-Time Fastest Crab Slayers
 Daily Top Ant Exterminators
 Daily Top Stick Bug Fighters
 Daily Top Robo Bear Challenge Scores
-Daily Top Retro Swarm Hive Defenders
 Daily Fastest Crab Slayers
 Daily Top Aphid Exterminators
 </tabview>

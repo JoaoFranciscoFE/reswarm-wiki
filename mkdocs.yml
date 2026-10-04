@@ -145,7 +145,6 @@ nav:
       - browse-fields.md
       - "Ant Field": ant-field.md
       - "Bamboo Field": bamboo-field.md
-      - "Blue Brick Field": blue-brick-field.md
       - "Blue Flower Field": blue-flower-field.md
       - "Cactus Field": cactus-field.md
       - "Clover Field": clover-field.md
@@ -156,20 +155,17 @@ nav:
       - "Fields": fields.md
       - "Flowers": flowers.md
       - "Hub Field": hub-field.md
-      - "Mixed Brick Field": mixed-brick-field.md
       - "Mountain Top Field": mountain-top-field.md
       - "Mushroom Field": mushroom-field.md
       - "Pepper Patch": pepper-patch.md
       - "Pine Tree Forest": pine-tree-forest.md
       - "Pineapple Patch": pineapple-patch.md
       - "Pumpkin Patch": pumpkin-patch.md
-      - "Red Brick Field": red-brick-field.md
       - "Rose Field": rose-field.md
       - "Spider Field": spider-field.md
       - "Strawberry Field": strawberry-field.md
       - "Stump Field": stump-field.md
       - "Sunflower Field": sunflower-field.md
-      - "White Brick Field": white-brick-field.md
   - "Mobs":
       - browse-mobs.md
       - "Ant": ant.md
@@ -178,7 +174,6 @@ nav:
       - "Army Ant": army-ant.md
       - "Bean Bug": bean-bug.md
       - "Bloom": bloom.md
-      - "Brick Bloom": brick-bloom.md
       - "Cave Monster": cave-monster.md
       - "Chicks": chicks.md
       - "Coconut Crab": coconut-crab.md
@@ -208,7 +203,6 @@ nav:
       - "Rhino Beetle": rhino-beetle.md
       - "Rogue Vicious Bee": rogue-vicious-bee.md
       - "Scorpion": scorpion.md
-      - "Slime": slime.md
       - "Snowbear": snowbear.md
       - "Spider": spider.md
       - "Stick Bug": stick-bug.md
@@ -218,7 +212,6 @@ nav:
       - "Tunnel Bear": tunnel-bear.md
       - "Werewolf": werewolf.md
       - "Wild Windy Bee": wild-windy-bee.md
-      - "Zombie": zombie.md
   - "Items":
       - browse-items.md
       - "Aged Gingerbread Bear": aged-gingerbread-bear.md
@@ -254,7 +247,6 @@ nav:
       - "Bottle Cap": bottle-cap.md
       - "Box-O-Frogs": box-o-frogs.md
       - "Brave Guard": brave-guard.md
-      - "Brick": brick.md
       - "Broken Drive": broken-drive.md
       - "Bubble Light": bubble-light.md
       - "Bubble Mask": bubble-mask.md
@@ -643,7 +635,6 @@ nav:
       - "Naughty List": naughty-list.md
       - "Obstacle Courses": obstacle-courses.md
       - "Present/2025": present-2025.md
-      - "Retro Swarm Challenge": retro-swarm-challenge.md
       - "Robo Bear Challenge": robo-bear-challenge.md
       - "Robo Party Cake": robo-party-cake.md
       - "Samovar": samovar.md
@@ -667,7 +658,6 @@ nav:
       - "All-Time Top Nectar Collectors": all-time-top-nectar-collectors.md
       - "All-Time Top Polar Bear Helpers": all-time-top-polar-bear-helpers.md
       - "All-Time Top Red Pollen Collectors": all-time-top-red-pollen-collectors.md
-      - "All-Time Top Retro Swarm Hive Defenders": all-time-top-retro-swarm-hive-defenders.md
       - "All-Time Top Riley Bee Helpers": all-time-top-riley-bee-helpers.md
       - "All-Time Top Robo Bear Challenge Scores": all-time-top-robo-bear-challenge-scores.md
       - "All-Time Top Stick Bug Fighters": all-time-top-stick-bug-fighters.md
@@ -677,7 +667,6 @@ nav:
       - "Daily Top Ant Exterminators": daily-top-ant-exterminators.md
       - "Daily Top Aphid Exterminators": daily-top-aphid-exterminators.md
       - "Daily Top Bamboo Field Collectors": daily-top-bamboo-field-collectors.md
-      - "Daily Top Blue Brick Field Collectors": daily-top-blue-brick-field-collectors.md
       - "Daily Top Blue Flower Field Collectors": daily-top-blue-flower-field-collectors.md
       - "Daily Top Blue Pollen Collectors": daily-top-blue-pollen-collectors.md
       - "Daily Top Buzz Bomb Pollen Collectors": daily-top-buzz-bomb-pollen-collectors.md
@@ -696,7 +685,6 @@ nav:
       - "Daily Top Hub Field Collectors": daily-top-hub-field-collectors.md
       - "Daily Top Legendary Bee Pollen Collectors": daily-top-legendary-bee-pollen-collectors.md
       - "Daily Top Memory Matchers": daily-top-memory-matchers.md
-      - "Daily Top Mixed Brick Field Collectors": daily-top-mixed-brick-field-collectors.md
       - "Daily Top Mountain Top Field Collectors": daily-top-mountain-top-field-collectors.md
       - "Daily Top Mushroom Field Collectors": daily-top-mushroom-field-collectors.md
       - "Daily Top Mythic Bee Pollen Collectors": daily-top-mythic-bee-pollen-collectors.md
@@ -706,9 +694,7 @@ nav:
       - "Daily Top Pineapple Patch Collectors": daily-top-pineapple-patch-collectors.md
       - "Daily Top Pumpkin Patch Collectors": daily-top-pumpkin-patch-collectors.md
       - "Daily Top Rare Bee Pollen Collectors": daily-top-rare-bee-pollen-collectors.md
-      - "Daily Top Red Brick Field Collectors": daily-top-red-brick-field-collectors.md
       - "Daily Top Red Pollen Collectors": daily-top-red-pollen-collectors.md
-      - "Daily Top Retro Swarm Hive Defenders": daily-top-retro-swarm-hive-defenders.md
       - "Daily Top Robo Bear Challenge Scores": daily-top-robo-bear-challenge-scores.md
       - "Daily Top Rose Field Collectors": daily-top-rose-field-collectors.md
       - "Daily Top Spider Field Collectors": daily-top-spider-field-collectors.md
@@ -717,7 +703,6 @@ nav:
       - "Daily Top Strawberry Field Collectors": daily-top-strawberry-field-collectors.md
       - "Daily Top Stump Field Collectors": daily-top-stump-field-collectors.md
       - "Daily Top Sunflower Field Collectors": daily-top-sunflower-field-collectors.md
-      - "Daily Top White Brick Field Collectors": daily-top-white-brick-field-collectors.md
       - "Daily Top White Pollen Collectors": daily-top-white-pollen-collectors.md
       - "Daily Top Wild Windy Token Collectors": daily-top-wild-windy-token-collectors.md
       - "Highest Robo Party Cake Rank": highest-robo-party-cake-rank.md

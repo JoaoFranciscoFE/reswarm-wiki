@@ -26,7 +26,6 @@ Unlike most consumables, this cannot be dragged to the hotbar. There is, however
   * Planters in [Blue Flower Field](blue-flower-field.md), [Rose Field](rose-field.md) and especially [Sunflower Field](sunflower-field.md) give honeysuckles more often than other fields.
   * The [Blue Clay Planters](blue-clay-planter.md) drops honeysuckles as a bonus drop.
 * As a reward from the [Robo Bear Challenge](robo-bear-challenge.md).
-* As a common reward from [Retro Swarm Challenge](retro-swarm-challenge.md).
 * As a reward from the [Memory Match](memory-match.md), [Mega Memory Match](memory-match.md#Mega_Memory_Match), [Night Memory Match](memory-match.md#Night_Memory_Match) or [Extreme Memory Match](memory-match.md#Extreme_Memory_Match).
 * As a Stack Reward for adding certain [stickers](sticker.md) to the [Sticker Stack](sticker-stack.md):
   * The Small Tickseed rewards 10 honeysuckles.
@@ -170,7 +169,7 @@ Total required for all single-purchase items: 1,005 **Honeysuckles**
 <tr>
 <th class="NavCategory">Currencies
 </th>
-<td class="NavLinks NavLinksBasicOdd" colspan="2"><b><img alt="Brick" height="35" src="img/Brick.png" width="35"/> <a href="brick.html">Brick</a> • <img alt="Cog" height="35" src="img/Cog.png" width="35"/> <a href="cog.html">Cog</a> • <img alt="Ticket" height="35" src="img/Ticket.png" width="35"/> <a href="ticket.html">Ticket</a></b>
+<td class="NavLinks NavLinksBasicOdd" colspan="2"><b><img alt="Cog" height="35" src="img/Cog.png" width="35"/> <a href="cog.html">Cog</a> • <img alt="Ticket" height="35" src="img/Ticket.png" width="35"/> <a href="ticket.html">Ticket</a></b>
 </td></tr></tbody></table>
 </td></tr>
 <tr>

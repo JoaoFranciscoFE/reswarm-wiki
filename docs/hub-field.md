@@ -151,7 +151,7 @@ Only through the use of glitches, this field grants Comforting [Nectar](nectar.m
 * This, the [Mountain Top Field](mountain-top-field.md), Ant Field, and the Coconut Field are the only fields that can't be given a field boost by [field boosters](field-booster.md).
 * This field is one of three fields with no decorations in it, indicating what field it is. The other two fields to do this are the Ant Field and the Mountain Top Field.
   * This field gets its name from the place it is located in, the [Hive Hub](hive-hub.md).
-* The Hub Field and the Brick Fields are the only field in the entire game without a truly unique field boost icon. Instead, the Hub Field’s icon is reused from its associated [field stamp](sticker.md#Stickers).
+* The Hub Field is the only field in the entire game without a truly unique field boost icon. Instead, the Hub Field’s icon is reused from its associated [field stamp](sticker.md#Stickers).
 * You cannot use many types of consumable items while on this field.
   * The player cannot use [sprinklers](sprinklers.md), [stingers](stinger.md), [cloud vials](cloud-vial.md), [balloons](balloon.md), [snowflakes](snowflake.md), [planters](planter.md), [whirligigs](whirligig.md), [night bells](night-bell.md) or any kind of dice while in this field.
     * As such, this is the only field in the game where [Sprinklers](sprinklers.md) are completely disabled.

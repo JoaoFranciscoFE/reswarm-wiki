@@ -6,7 +6,7 @@ hide:
 
 # Mobs
 
-All 47 pages in Mobs.
+All 44 pages in Mobs.
 
 <div class="wiki-cards">
 <a class="wiki-card" href="ant.html"><img src="img/Fire_Ant.png" alt="" loading="lazy"><span>Ant</span></a>
@@ -15,7 +15,6 @@ All 47 pages in Mobs.
 <a class="wiki-card" href="army-ant.html"><img src="img/Army_Ant.png" alt="" loading="lazy"><span>Army Ant</span></a>
 <a class="wiki-card" href="bean-bug.html"><img src="img/Standing_Bean_Bug.png" alt="" loading="lazy"><span>Bean Bug</span></a>
 <a class="wiki-card" href="bloom.html"><img src="img/Bloom.png" alt="" loading="lazy"><span>Bloom</span></a>
-<a class="wiki-card" href="brick-bloom.html"><img src="img/Brick_Bloom.png" alt="" loading="lazy"><span>Brick Bloom</span></a>
 <a class="wiki-card wiki-card--noicon" href="cave-monster.html"><img src="images/no-icon.svg" alt="" loading="lazy"><span>Cave Monster</span></a>
 <a class="wiki-card" href="chicks.html"><img src="img/Chicks.png" alt="" loading="lazy"><span>Chicks</span></a>
 <a class="wiki-card" href="coconut-crab.html"><img src="img/Coconut_Crab.png" alt="" loading="lazy"><span>Coconut Crab</span></a>
@@ -45,7 +44,6 @@ All 47 pages in Mobs.
 <a class="wiki-card wiki-card--noicon" href="rhino-beetle.html"><img src="images/no-icon.svg" alt="" loading="lazy"><span>Rhino Beetle</span></a>
 <a class="wiki-card" href="rogue-vicious-bee.html"><img src="img/Rogue_Vicious_Bee.png" alt="" loading="lazy"><span>Rogue Vicious Bee</span></a>
 <a class="wiki-card" href="scorpion.html"><img src="img/Little_Scorpion.png" alt="" loading="lazy"><span>Scorpion</span></a>
-<a class="wiki-card wiki-card--noicon" href="slime.html"><img src="images/no-icon.svg" alt="" loading="lazy"><span>Slime</span></a>
 <a class="wiki-card" href="snowbear.html"><img src="img/Snowbear.png" alt="" loading="lazy"><span>Snowbear</span></a>
 <a class="wiki-card" href="spider.html"><img src="img/Forward_Facing_Spider.png" alt="" loading="lazy"><span>Spider</span></a>
 <a class="wiki-card" href="stick-bug.html"><img src="img/Stick_Bug.png" alt="" loading="lazy"><span>Stick Bug</span></a>
@@ -55,5 +53,4 @@ All 47 pages in Mobs.
 <a class="wiki-card" href="tunnel-bear.html"><img src="img/Tunnel_Bear.png" alt="" loading="lazy"><span>Tunnel Bear</span></a>
 <a class="wiki-card wiki-card--noicon" href="werewolf.html"><img src="images/no-icon.svg" alt="" loading="lazy"><span>Werewolf</span></a>
 <a class="wiki-card" href="wild-windy-bee.html"><img src="img/Wild_Windy_Bee.png" alt="" loading="lazy"><span>Wild Windy Bee</span></a>
-<a class="wiki-card wiki-card--noicon" href="zombie.html"><img src="images/no-icon.svg" alt="" loading="lazy"><span>Zombie</span></a>
 </div>

@@ -29,7 +29,6 @@ You must claim a hive to use a Whirligig
 ## Ways to Obtain
 
 * A common drop from the [Robo Bear Challenge](robo-bear-challenge.md).
-* A reward from [Retro Swarm Challenge](retro-swarm-challenge.md).
 * As a rare drop from [mobs](mobs.md) such as [Rhino Beetles](rhino-beetle.md) and [Mantises](mantis.md).
 * As a reward from finishing your own Robo Party.
 * As a drop from Robo Party mobs.
@@ -170,7 +169,7 @@ You must claim a hive to use a Whirligig
 <tr>
 <th class="NavCategory">Currencies
 </th>
-<td class="NavLinks NavLinksBasicOdd" colspan="2"><b><img alt="Brick" height="35" src="img/Brick.png" width="35"/> <a href="brick.html">Brick</a> • <img alt="Cog" height="35" src="img/Cog.png" width="35"/> <a href="cog.html">Cog</a> • <img alt="Ticket" height="35" src="img/Ticket.png" width="35"/> <a href="ticket.html">Ticket</a></b>
+<td class="NavLinks NavLinksBasicOdd" colspan="2"><b><img alt="Cog" height="35" src="img/Cog.png" width="35"/> <a href="cog.html">Cog</a> • <img alt="Ticket" height="35" src="img/Ticket.png" width="35"/> <a href="ticket.html">Ticket</a></b>
 </td></tr></tbody></table>
 </td></tr>
 <tr>

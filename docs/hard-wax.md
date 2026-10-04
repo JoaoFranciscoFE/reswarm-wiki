@@ -31,7 +31,6 @@ The Wax didn't seem to help...
   * 33 [Bitterberries](bitterberry.md)
   * 33 [Royal Jellies](royal-jelly.md)
 * As a common reward from [Robo Bear Challenge](robo-bear-challenge.md).
-* As a common reward from [Retro Swarm Challenge](retro-swarm-challenge.md).
 * As a stack reward for adding certain [stickers](sticker.md) to the [Sticker Stack](sticker-stack.md):
   * The [Precise Eye Sticker](sticker.md#Sticker_Index) rewards 1 hard wax.
   * The Red Palm Hand rewards 1 hard wax.
@@ -264,7 +263,7 @@ Total required for all single-purchase items: 465 **Hard Waxes**
 <tr>
 <th class="NavCategory">Currencies
 </th>
-<td class="NavLinks NavLinksBasicOdd" colspan="2"><b><img alt="Brick" height="35" src="img/Brick.png" width="35"/> <a href="brick.html">Brick</a> • <img alt="Cog" height="35" src="img/Cog.png" width="35"/> <a href="cog.html">Cog</a> • <img alt="Ticket" height="35" src="img/Ticket.png" width="35"/> <a href="ticket.html">Ticket</a></b>
+<td class="NavLinks NavLinksBasicOdd" colspan="2"><b><img alt="Cog" height="35" src="img/Cog.png" width="35"/> <a href="cog.html">Cog</a> • <img alt="Ticket" height="35" src="img/Ticket.png" width="35"/> <a href="ticket.html">Ticket</a></b>
 </td></tr></tbody></table>
 </td></tr>
 <tr>
