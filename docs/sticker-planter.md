@@ -1,6 +1,6 @@
 ---
 title: "Sticker Planter"
-tags: ["Pages with broken file links", "Inventory", "Items", "Planter", "Consumables"]
+tags: ["Inventory", "Items", "Planter", "Consumables"]
 ---
 
 # Sticker Planter

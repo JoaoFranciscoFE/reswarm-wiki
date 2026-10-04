@@ -1,6 +1,6 @@
 ---
 title: "Gifted Bee"
-tags: ["Pages with broken file links", "Mechanics", "Bees"]
+tags: ["Mechanics", "Bees"]
 ---
 
 # Gifted Bee

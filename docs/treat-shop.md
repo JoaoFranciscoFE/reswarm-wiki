@@ -1,6 +1,6 @@
 ---
 title: "Treat Shop"
-tags: ["Pages with broken file links", "Shops", "Locations", "Machines", "Starter Zone"]
+tags: ["Shops", "Locations", "Machines", "Starter Zone"]
 ---
 
 # Treat Shop

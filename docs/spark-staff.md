@@ -1,6 +1,6 @@
 ---
 title: "Spark Staff"
-tags: ["Pages with broken file links", "Items", "Tools"]
+tags: ["Items", "Tools"]
 ---
 
 # Spark Staff

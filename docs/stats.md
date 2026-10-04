@@ -1,6 +1,6 @@
 ---
 title: "Stats"
-tags: ["Pages with broken file links", "Mechanics", "System"]
+tags: ["Mechanics", "System"]
 ---
 
 # Stats

@@ -1,6 +1,6 @@
 ---
 title: "Diamond Mask"
-tags: ["Items", "Accessories", "Pages with broken file links", "Hats", "Crafted", "Blue"]
+tags: ["Items", "Accessories", "Hats", "Crafted", "Blue"]
 ---
 
 # Diamond Mask

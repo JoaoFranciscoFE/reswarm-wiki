@@ -1,6 +1,6 @@
 ---
 title: "Wild Windy Bee"
-tags: ["Mobs", "Pages with broken file links", "Mini Bosses", "Multiplayer Bosses", "Bees"]
+tags: ["Mobs", "Mini Bosses", "Multiplayer Bosses", "Bees"]
 ---
 
 # Wild Windy Bee

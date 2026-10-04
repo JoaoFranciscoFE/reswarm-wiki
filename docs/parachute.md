@@ -1,6 +1,6 @@
 ---
 title: "Parachute"
-tags: ["Pages with broken file links", "Items", "Gliding Tools", "Accessories", "Transport"]
+tags: ["Items", "Gliding Tools", "Accessories", "Transport"]
 ---
 
 # Parachute

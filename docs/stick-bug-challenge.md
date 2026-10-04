@@ -1,6 +1,6 @@
 ---
 title: "Stick Bug Challenge"
-tags: ["Pages with broken file links", "Challenges", "Stick Bug Challenge"]
+tags: ["Challenges", "Stick Bug Challenge"]
 ---
 
 # Stick Bug Challenge

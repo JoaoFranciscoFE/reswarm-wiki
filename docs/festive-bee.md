@@ -1,6 +1,6 @@
 ---
 title: "Festive Bee"
-tags: ["Pages with broken file links", "Bees", "Red", "Event"]
+tags: ["Bees", "Red", "Event"]
 ---
 
 # Festive Bee
@@ -430,3 +430,6 @@ Festive Bee likes the [Mountain Top Field](mountain-top-field.md), [Mushroom Fie
 <td class="NavLinks NavLinksEvent"><b><img alt="Bear Bee" height="35" src="img/Bear_Bee.png" width="35"/> <a href="bear-bee.html">Bear Bee</a> • <img alt="Cobalt Bee" height="35" src="img/Cobalt_Bee.png" width="35"/> <a href="cobalt-bee.html">Cobalt Bee</a> • <img alt="Crimson Bee" height="35" src="img/Crimson_Bee.png" width="35"/> <a href="crimson-bee.html">Crimson Bee</a> • <img alt="Digital Bee" height="35" src="img/Digital_Bee.png" width="35"/> <a href="digital-bee.html">Digital Bee</a> • <img alt="Festive Bee" height="35" src="img/Festive_Bee.png" width="35"/> <strong class="mw-selflink selflink">Festive Bee</strong> • <img alt="Gummy Bee" height="35" src="img/Gummy_Bee.png" width="35"/> <a href="gummy-bee.html">Gummy Bee</a> • <img alt="Photon Bee" height="35" src="img/Photon_Bee.png" width="35"/> <a href="photon-bee.html">Photon Bee</a> • <img alt="Puppy Bee" height="35" src="img/Puppy_Bee.png" width="35"/> <a href="puppy-bee.html">Puppy Bee</a> • <img alt="Tabby Bee" height="35" src="img/Tabby_Bee.png" width="35"/> <a href="tabby-bee.html">Tabby Bee</a> • <img alt="Vicious Bee" height="35" src="img/Vicious_Bee.png" width="35"/> <a href="vicious-bee.html">Vicious Bee</a> • <img alt="Windy Bee" height="35" src="img/Windy_Bee.png" width="35"/> <a href="windy-bee.html">Windy Bee</a></b>
 </td></tr></tbody></table>
 
+## All bees
+
+--8<-- "all-bees.md"

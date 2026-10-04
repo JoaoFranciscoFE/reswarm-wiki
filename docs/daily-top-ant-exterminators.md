@@ -1,6 +1,6 @@
 ---
 title: "Daily Top Ant Exterminators"
-tags: ["Pages with broken file links", "Leaderboards", "Ant Challenge"]
+tags: ["Leaderboards", "Ant Challenge"]
 ---
 
 # Daily Top Ant Exterminators

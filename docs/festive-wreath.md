@@ -1,6 +1,6 @@
 ---
 title: "Festive Wreath"
-tags: ["Pages with broken file links", "Unobtainable", "Inventory", "Items", "Beequips", "Beesmas", "Permanent Beequip", "Red"]
+tags: ["Unobtainable", "Inventory", "Items", "Beequips", "Beesmas", "Permanent Beequip", "Red"]
 ---
 
 # Festive Wreath

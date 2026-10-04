@@ -1,6 +1,6 @@
 ---
 title: "Daily Top Stick Bug Fighters"
-tags: ["Pages with broken file links", "Leaderboards"]
+tags: ["Leaderboards"]
 ---
 
 # Daily Top Stick Bug Fighters

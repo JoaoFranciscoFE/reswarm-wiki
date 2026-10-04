@@ -1,6 +1,6 @@
 ---
 title: "First Edition Bee"
-tags: ["Pages with broken file links", "Bees"]
+tags: ["Bees"]
 ---
 
 # First Edition Bee

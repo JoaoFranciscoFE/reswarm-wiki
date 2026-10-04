@@ -1,6 +1,6 @@
 ---
 title: "Items"
-tags: ["Pages with broken file links", "Items", "Crafted", "Re://:Swarm"]
+tags: ["Items", "Crafted", "Re://:Swarm"]
 ---
 
 # Items

@@ -1,6 +1,6 @@
 ---
 title: "The Supreme Saturator"
-tags: ["Items", "Sprinklers", "Pages with broken file links"]
+tags: ["Items", "Sprinklers"]
 ---
 
 # The Supreme Saturator

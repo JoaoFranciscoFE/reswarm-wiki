@@ -1,6 +1,6 @@
 ---
 title: "Retro Swarm Challenge"
-tags: ["Pages with broken file links", "Removed Content", "Challenges", "Retro Swarm Challenge"]
+tags: ["Removed Content", "Challenges", "Retro Swarm Challenge"]
 ---
 
 # Retro Swarm Challenge

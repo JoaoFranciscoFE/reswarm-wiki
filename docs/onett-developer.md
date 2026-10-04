@@ -1,6 +1,6 @@
 ---
 title: "Onett (Developer)"
-tags: ["Pages with broken file links", "Community", "Bee Swarm Simulator"]
+tags: ["Community", "Bee Swarm Simulator"]
 ---
 
 # Onett (Developer)

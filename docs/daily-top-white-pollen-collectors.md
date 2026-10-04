@@ -1,6 +1,6 @@
 ---
 title: "Daily Top White Pollen Collectors"
-tags: ["Pages with broken file links", "Leaderboards", "Locations", "Colorless"]
+tags: ["Leaderboards", "Locations", "Colorless"]
 ---
 
 # Daily Top White Pollen Collectors

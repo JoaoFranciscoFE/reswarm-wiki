@@ -1,6 +1,6 @@
 ---
 title: "Aged Gingerbread Bear"
-tags: ["Pages with broken file links", "Unobtainable", "Items", "Inventory", "Beesmas", "Treats"]
+tags: ["Unobtainable", "Items", "Inventory", "Beesmas", "Treats"]
 ---
 
 # Aged Gingerbread Bear

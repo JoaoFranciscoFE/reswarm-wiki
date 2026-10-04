@@ -1,6 +1,6 @@
 ---
 title: "Cog Amulet"
-tags: ["Pages with broken file links", "Amulet", "Robo Bear Challenge", "Accessories"]
+tags: ["Amulet", "Robo Bear Challenge", "Accessories"]
 ---
 
 # Cog Amulet

@@ -1,6 +1,6 @@
 ---
 title: "Ticket Tent"
-tags: ["Pages with broken file links", "Shops", "Locations", "Starter Zone"]
+tags: ["Shops", "Locations", "Starter Zone"]
 ---
 
 # Ticket Tent

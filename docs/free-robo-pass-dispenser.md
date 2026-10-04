@@ -1,6 +1,6 @@
 ---
 title: "Free Robo Pass Dispenser"
-tags: ["Pages with broken file links", "Machines", "Dispenser", "Locations", "Robo Bear Challenge"]
+tags: ["Machines", "Dispenser", "Locations", "Robo Bear Challenge"]
 ---
 
 # Free Robo Pass Dispenser

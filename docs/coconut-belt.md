@@ -1,6 +1,6 @@
 ---
 title: "Coconut Belt"
-tags: ["Items", "Accessories", "Pages with broken file links", "Belts", "Crafted"]
+tags: ["Items", "Accessories", "Belts", "Crafted"]
 ---
 
 # Coconut Belt

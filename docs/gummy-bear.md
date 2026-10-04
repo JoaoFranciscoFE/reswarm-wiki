@@ -1,6 +1,6 @@
 ---
 title: "Gummy Bear"
-tags: ["Pages with broken file links", "Removed Content", "NPC", "Bears", "Traveling Bears", "Gummy Invasion", "Goo", "Quest Giver"]
+tags: ["Removed Content", "NPC", "Bears", "Traveling Bears", "Gummy Invasion", "Goo", "Quest Giver"]
 ---
 
 # Gummy Bear

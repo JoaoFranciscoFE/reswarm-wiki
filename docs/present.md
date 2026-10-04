@@ -1,6 +1,6 @@
 ---
 title: "Present"
-tags: ["Pages with broken file links", "Items", "Inventory", "Beesmas", "Events"]
+tags: ["Items", "Inventory", "Beesmas", "Events"]
 ---
 
 # Present

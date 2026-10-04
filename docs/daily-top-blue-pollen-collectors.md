@@ -1,6 +1,6 @@
 ---
 title: "Daily Top Blue Pollen Collectors"
-tags: ["Pages with broken file links", "Leaderboards", "Locations", "Blue"]
+tags: ["Leaderboards", "Locations", "Blue"]
 ---
 
 # Daily Top Blue Pollen Collectors

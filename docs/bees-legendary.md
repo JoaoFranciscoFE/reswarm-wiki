@@ -1,6 +1,6 @@
 ---
 title: "Bees/Legendary"
-tags: ["Pages with broken file links", "Bees", "Legendary"]
+tags: ["Bees", "Legendary"]
 ---
 
 # Bees/Legendary

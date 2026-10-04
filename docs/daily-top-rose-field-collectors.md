@@ -1,6 +1,6 @@
 ---
 title: "Daily Top Rose Field Collectors"
-tags: ["Pages with broken file links", "Leaderboards"]
+tags: ["Leaderboards"]
 ---
 
 # Daily Top Rose Field Collectors

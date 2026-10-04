@@ -1,6 +1,6 @@
 ---
 title: "Coconut Canister"
-tags: ["Bags", "Pages with broken file links", "Items", "Crafted"]
+tags: ["Bags", "Items", "Crafted"]
 ---
 
 # Coconut Canister

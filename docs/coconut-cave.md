@@ -1,6 +1,6 @@
 ---
 title: "Coconut Cave"
-tags: ["Pages with broken file links", "Shops", "Locations"]
+tags: ["Shops", "Locations"]
 ---
 
 # Coconut Cave

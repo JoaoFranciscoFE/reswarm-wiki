@@ -1,6 +1,6 @@
 ---
 title: "Bloom Shaker"
-tags: ["Pages with broken file links", "Recent Update", "Items", "Inventory", "Consumables"]
+tags: ["Recent Update", "Items", "Inventory", "Consumables"]
 ---
 
 # Bloom Shaker

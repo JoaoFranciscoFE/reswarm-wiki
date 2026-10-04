@@ -1,6 +1,6 @@
 ---
 title: "Werewolf's Cave"
-tags: ["Pages with broken file links", "Locations"]
+tags: ["Locations"]
 ---
 
 # Werewolf's Cave

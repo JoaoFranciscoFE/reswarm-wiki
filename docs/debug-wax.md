@@ -1,6 +1,6 @@
 ---
 title: "Debug Wax"
-tags: ["Pages with broken file links", "Unobtainable", "Items", "Inventory", "Waxes", "Consumables"]
+tags: ["Unobtainable", "Items", "Inventory", "Waxes", "Consumables"]
 ---
 
 # Debug Wax

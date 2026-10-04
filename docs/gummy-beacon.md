@@ -1,6 +1,6 @@
 ---
 title: "Gummy Beacon"
-tags: ["Pages with broken file links", "Removed Content", "Beesmas", "Locations", "Machines", "Goo", "Summoner", "Beesmas Decorations", "Starter Zone"]
+tags: ["Removed Content", "Beesmas", "Locations", "Machines", "Goo", "Summoner", "Beesmas Decorations", "Starter Zone"]
 ---
 
 # Gummy Beacon

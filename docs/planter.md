@@ -1,6 +1,6 @@
 ---
 title: "Planter"
-tags: ["Pages with broken file links", "Inventory", "Items", "Planter"]
+tags: ["Inventory", "Items", "Planter"]
 ---
 
 # Planter

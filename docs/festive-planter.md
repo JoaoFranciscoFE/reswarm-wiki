@@ -1,6 +1,6 @@
 ---
 title: "Festive Planter"
-tags: ["Pages with broken file links", "Unobtainable", "Inventory", "Items", "Planter", "Beesmas", "Consumables"]
+tags: ["Unobtainable", "Inventory", "Items", "Planter", "Beesmas", "Consumables"]
 ---
 
 # Festive Planter

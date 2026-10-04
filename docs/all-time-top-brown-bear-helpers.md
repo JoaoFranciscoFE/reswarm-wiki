@@ -1,6 +1,6 @@
 ---
 title: "All-Time Top Brown Bear Helpers"
-tags: ["Pages with broken file links", "Leaderboards", "Locations", "Starter Zone"]
+tags: ["Leaderboards", "Locations", "Starter Zone"]
 ---
 
 # All-Time Top Brown Bear Helpers

@@ -1,6 +1,6 @@
 ---
 title: "Egg"
-tags: ["Pages with broken file links", "Items", "Inventory"]
+tags: ["Items", "Inventory"]
 ---
 
 # Egg

@@ -1,6 +1,6 @@
 ---
 title: "Ant Pass"
-tags: ["Pages with broken file links", "Items", "Inventory", "Ant Challenge"]
+tags: ["Items", "Inventory", "Ant Challenge"]
 ---
 
 # Ant Pass

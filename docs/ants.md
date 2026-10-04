@@ -1,6 +1,6 @@
 ---
 title: "Ants"
-tags: ["Pages with broken file links", "Mobs", "Ant Challenge"]
+tags: ["Mobs", "Ant Challenge"]
 ---
 
 # Ants

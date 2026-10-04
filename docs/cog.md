@@ -1,6 +1,6 @@
 ---
 title: "Cog"
-tags: ["Pages with broken file links", "Items", "Inventory", "Robo Bear Challenge", "Currency"]
+tags: ["Items", "Inventory", "Robo Bear Challenge", "Currency"]
 ---
 
 # Cog

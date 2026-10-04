@@ -1,6 +1,6 @@
 ---
 title: "Beesmas Feast"
-tags: ["Pages with broken file links", "Removed Content", "Machines", "Locations", "Beesmas", "Beesmas Decorations"]
+tags: ["Removed Content", "Machines", "Locations", "Beesmas", "Beesmas Decorations"]
 ---
 
 # Beesmas Feast

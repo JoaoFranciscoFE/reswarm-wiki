@@ -1,6 +1,6 @@
 ---
 title: "Red Port-O-Hive"
-tags: ["Bags", "Pages with broken file links", "Items", "Red", "Crafted"]
+tags: ["Bags", "Items", "Red", "Crafted"]
 ---
 
 # Red Port-O-Hive

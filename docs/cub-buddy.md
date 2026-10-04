@@ -1,6 +1,6 @@
 ---
 title: "Cub Buddy"
-tags: ["Pages with broken file links", "Mechanics"]
+tags: ["Mechanics"]
 ---
 
 # Cub Buddy

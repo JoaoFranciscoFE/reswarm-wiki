@@ -1,6 +1,6 @@
 ---
 title: "BBM's Apology"
-tags: ["Pages with broken file links", "Items", "Inventory", "Consumables"]
+tags: ["Items", "Inventory", "Consumables"]
 ---
 
 # BBM's Apology

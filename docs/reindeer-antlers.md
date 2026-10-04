@@ -1,6 +1,6 @@
 ---
 title: "Reindeer Antlers"
-tags: ["Pages with broken file links", "Unobtainable", "Inventory", "Items", "Beequips", "Beesmas", "Permanent Beequip"]
+tags: ["Unobtainable", "Inventory", "Items", "Beequips", "Beesmas", "Permanent Beequip"]
 ---
 
 # Reindeer Antlers

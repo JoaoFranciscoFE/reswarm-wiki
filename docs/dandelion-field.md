@@ -1,6 +1,6 @@
 ---
 title: "Dandelion Field"
-tags: ["Pages with broken file links", "Locations", "Fields", "Colorless", "Starter Zone"]
+tags: ["Locations", "Fields", "Colorless", "Starter Zone"]
 ---
 
 # Dandelion Field

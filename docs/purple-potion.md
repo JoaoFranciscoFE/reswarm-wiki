@@ -1,6 +1,6 @@
 ---
 title: "Purple Potion"
-tags: ["Pages with broken file links", "Items", "Inventory", "Consumables", "Crafted"]
+tags: ["Items", "Inventory", "Consumables", "Crafted"]
 ---
 
 # Purple Potion

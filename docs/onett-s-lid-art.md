@@ -1,6 +1,6 @@
 ---
 title: "Onett's Lid Art"
-tags: ["Pages with broken file links", "Removed Content", "Beesmas", "Locations", "Machines", "Beesmas Decorations"]
+tags: ["Removed Content", "Beesmas", "Locations", "Machines", "Beesmas Decorations"]
 ---
 
 # Onett's Lid Art

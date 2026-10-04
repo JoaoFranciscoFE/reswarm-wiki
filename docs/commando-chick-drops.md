@@ -1,6 +1,6 @@
 ---
 title: "Commando Chick/Drops"
-tags: ["Stubs", "Pages with broken file links", "Mobs", "Mini Bosses", "Multiplayer Bosses"]
+tags: ["Stubs", "Mobs", "Mini Bosses", "Multiplayer Bosses"]
 ---
 
 # Commando Chick/Drops

@@ -1,6 +1,6 @@
 ---
 title: "Mythic Meteor Shower"
-tags: ["Pages with broken file links", "Locations", "Machines", "Summoner"]
+tags: ["Locations", "Machines", "Summoner"]
 ---
 
 # Mythic Meteor Shower

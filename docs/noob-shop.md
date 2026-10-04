@@ -1,6 +1,6 @@
 ---
 title: "Noob Shop"
-tags: ["Pages with broken file links", "Shops", "Locations", "Starter Zone"]
+tags: ["Shops", "Locations", "Starter Zone"]
 ---
 
 # Noob Shop

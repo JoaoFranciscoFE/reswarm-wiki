@@ -1,6 +1,6 @@
 ---
 title: "Bee Bear/2025"
-tags: ["Pages with broken file links", "Removed Content"]
+tags: ["Removed Content"]
 ---
 
 # Bee Bear/2025

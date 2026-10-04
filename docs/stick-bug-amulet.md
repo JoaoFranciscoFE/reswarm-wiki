@@ -1,6 +1,6 @@
 ---
 title: "Stick Bug Amulet"
-tags: ["Pages with broken file links", "Amulet", "Stick Bug Challenge", "Accessories"]
+tags: ["Amulet", "Stick Bug Challenge", "Accessories"]
 ---
 
 # Stick Bug Amulet

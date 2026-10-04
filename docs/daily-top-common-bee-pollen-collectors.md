@@ -1,6 +1,6 @@
 ---
 title: "Daily Top Common Bee Pollen Collectors"
-tags: ["Pages with broken file links", "Leaderboards"]
+tags: ["Leaderboards"]
 ---
 
 # Daily Top Common Bee Pollen Collectors

@@ -1,6 +1,6 @@
 ---
 title: "Stinger Shop"
-tags: ["Pages with broken file links", "Shops", "Locations", "Machines"]
+tags: ["Shops", "Locations", "Machines"]
 ---
 
 # Stinger Shop

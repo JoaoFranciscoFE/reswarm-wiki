@@ -1,6 +1,6 @@
 ---
 title: "Oil"
-tags: ["Pages with broken file links", "Items", "Inventory", "Crafted", "Consumables"]
+tags: ["Items", "Inventory", "Crafted", "Consumables"]
 ---
 
 # Oil

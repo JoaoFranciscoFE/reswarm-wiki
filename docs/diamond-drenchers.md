@@ -1,6 +1,6 @@
 ---
 title: "Diamond Drenchers"
-tags: ["Items", "Sprinklers", "Pages with broken file links"]
+tags: ["Items", "Sprinklers"]
 ---
 
 # Diamond Drenchers

@@ -1,6 +1,6 @@
 ---
 title: "Coconut Field"
-tags: ["Pages with broken file links", "Locations", "Fields", "Colorless"]
+tags: ["Locations", "Fields", "Colorless"]
 ---
 
 # Coconut Field

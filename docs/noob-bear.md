@@ -1,6 +1,6 @@
 ---
 title: "Noob Bear"
-tags: ["Pages with broken file links", "NPC", "Bears"]
+tags: ["NPC", "Bears"]
 ---
 
 # Noob Bear

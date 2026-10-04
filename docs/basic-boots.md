@@ -1,6 +1,6 @@
 ---
 title: "Basic Boots"
-tags: ["Items", "Accessories", "Pages with broken file links", "Boots", "Crafted"]
+tags: ["Items", "Accessories", "Boots", "Crafted"]
 ---
 
 # Basic Boots

@@ -1,6 +1,6 @@
 ---
 title: "Daily Top Coconut Field Collectors"
-tags: ["Pages with broken file links", "Leaderboards"]
+tags: ["Leaderboards"]
 ---
 
 # Daily Top Coconut Field Collectors

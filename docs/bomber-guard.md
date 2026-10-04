@@ -1,6 +1,6 @@
 ---
 title: "Bomber Guard"
-tags: ["Items", "Accessories", "Pages with broken file links", "Guards", "Crafted", "Colorless"]
+tags: ["Items", "Accessories", "Guards", "Crafted", "Colorless"]
 ---
 
 # Bomber Guard

@@ -1,6 +1,6 @@
 ---
 title: "Hive Hub"
-tags: ["Pages with broken file links", "Locations", "Hive Hub"]
+tags: ["Locations", "Hive Hub"]
 ---
 
 # Hive Hub

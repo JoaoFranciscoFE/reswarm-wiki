@@ -1,6 +1,6 @@
 ---
 title: "Petal Wand"
-tags: ["Pages with broken file links", "Items", "Tools", "Crafted"]
+tags: ["Items", "Tools", "Crafted"]
 ---
 
 # Petal Wand

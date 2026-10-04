@@ -1,6 +1,6 @@
 ---
 title: "Commando Chick's Hideout"
-tags: ["Pages with broken file links", "Locations", "Starter Zone"]
+tags: ["Locations", "Starter Zone"]
 ---
 
 # Commando Chick's Hideout

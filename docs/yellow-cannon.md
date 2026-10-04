@@ -1,6 +1,6 @@
 ---
 title: "Yellow Cannon"
-tags: ["Pages with broken file links", "Transport", "Locations", "Machines"]
+tags: ["Transport", "Locations", "Machines"]
 ---
 
 # Yellow Cannon

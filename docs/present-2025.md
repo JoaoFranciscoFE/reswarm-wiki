@@ -1,6 +1,6 @@
 ---
 title: "Present/2025"
-tags: ["Pages with broken file links", "Beesmas", "Inventory", "Events"]
+tags: ["Beesmas", "Inventory", "Events"]
 ---
 
 # Present/2025

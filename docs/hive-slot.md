@@ -1,6 +1,6 @@
 ---
 title: "Hive Slot"
-tags: ["Items", "Accessories", "Pages with broken file links"]
+tags: ["Items", "Accessories"]
 ---
 
 # Hive Slot

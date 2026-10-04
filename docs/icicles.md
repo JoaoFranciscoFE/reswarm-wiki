@@ -1,6 +1,6 @@
 ---
 title: "Icicles"
-tags: ["Pages with broken file links", "Unobtainable", "Inventory", "Items", "Beequips", "Beesmas", "Blue"]
+tags: ["Unobtainable", "Inventory", "Items", "Beequips", "Beesmas", "Blue"]
 ---
 
 # Icicles

@@ -1,6 +1,6 @@
 ---
 title: "Pumpkin Patch"
-tags: ["Pages with broken file links", "Locations", "Fields", "Colorless"]
+tags: ["Locations", "Fields", "Colorless"]
 ---
 
 # Pumpkin Patch

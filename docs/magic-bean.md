@@ -1,6 +1,6 @@
 ---
 title: "Magic Bean"
-tags: ["Pages with broken file links", "Items", "Inventory", "Consumables"]
+tags: ["Items", "Inventory", "Consumables"]
 ---
 
 # Magic Bean

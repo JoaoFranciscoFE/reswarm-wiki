@@ -1,6 +1,6 @@
 ---
 title: "Commando Chick"
-tags: ["Pages with broken file links", "Mobs", "Mini Bosses", "Multiplayer Bosses"]
+tags: ["Mobs", "Mini Bosses", "Multiplayer Bosses"]
 ---
 
 # Commando Chick

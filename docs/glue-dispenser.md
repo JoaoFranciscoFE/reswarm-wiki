@@ -1,6 +1,6 @@
 ---
 title: "Glue Dispenser"
-tags: ["Pages with broken file links", "Machines", "Locations", "Dispenser", "Goo"]
+tags: ["Machines", "Locations", "Dispenser", "Goo"]
 ---
 
 # Glue Dispenser

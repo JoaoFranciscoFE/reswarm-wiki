@@ -1,6 +1,6 @@
 ---
 title: "Beesmas Lights"
-tags: ["Pages with broken file links", "Removed Content", "Beesmas", "Locations", "Beesmas Decorations"]
+tags: ["Removed Content", "Beesmas", "Locations", "Beesmas Decorations"]
 ---
 
 # Beesmas Lights

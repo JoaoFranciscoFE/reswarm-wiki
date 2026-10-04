@@ -1,6 +1,6 @@
 ---
 title: "Gummy Bear's Lair"
-tags: ["Pages with broken file links", "Locations", "Shops", "Goo"]
+tags: ["Locations", "Shops", "Goo"]
 ---
 
 # Gummy Bear's Lair

@@ -1,6 +1,6 @@
 ---
 title: "Festive Nymph"
-tags: ["Pages with broken file links", "Removed Content", "Mobs", "Beesmas", "Stick Bug Challenge"]
+tags: ["Removed Content", "Mobs", "Beesmas", "Stick Bug Challenge"]
 ---
 
 # Festive Nymph

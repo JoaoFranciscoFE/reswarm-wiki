@@ -1,6 +1,6 @@
 ---
 title: "Red Clay Planter"
-tags: ["Pages with broken file links", "Inventory", "Items", "Planter", "Red", "Crafted"]
+tags: ["Inventory", "Items", "Planter", "Red", "Crafted"]
 ---
 
 # Red Clay Planter

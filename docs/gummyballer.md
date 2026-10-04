@@ -1,6 +1,6 @@
 ---
 title: "Gummyballer"
-tags: ["Pages with broken file links", "Items", "Tools", "Crafted", "Goo"]
+tags: ["Items", "Tools", "Crafted", "Goo"]
 ---
 
 # Gummyballer

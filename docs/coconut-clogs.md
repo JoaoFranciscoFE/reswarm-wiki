@@ -1,6 +1,6 @@
 ---
 title: "Coconut Clogs"
-tags: ["Items", "Accessories", "Pages with broken file links", "Boots", "Crafted"]
+tags: ["Items", "Accessories", "Boots", "Crafted"]
 ---
 
 # Coconut Clogs

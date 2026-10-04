@@ -1,6 +1,6 @@
 ---
 title: "Caustic Wax"
-tags: ["Pages with broken file links", "Items", "Inventory", "Waxes", "Crafted", "Consumables"]
+tags: ["Items", "Inventory", "Waxes", "Crafted", "Consumables"]
 ---
 
 # Caustic Wax

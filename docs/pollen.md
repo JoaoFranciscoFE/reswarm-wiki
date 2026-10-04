@@ -1,6 +1,6 @@
 ---
 title: "Pollen"
-tags: ["Pages with broken file links", "Currency", "Mechanics"]
+tags: ["Currency", "Mechanics"]
 ---
 
 # Pollen

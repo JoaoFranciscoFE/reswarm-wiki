@@ -1,6 +1,6 @@
 ---
 title: "Ant Field"
-tags: ["Pages with broken file links", "Locations", "Fields", "Ant Challenge"]
+tags: ["Locations", "Fields", "Ant Challenge"]
 ---
 
 # Ant Field

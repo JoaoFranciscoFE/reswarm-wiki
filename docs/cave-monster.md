@@ -1,6 +1,6 @@
 ---
 title: "Cave Monster"
-tags: ["Mobs", "Pages with broken file links"]
+tags: ["Mobs"]
 ---
 
 # Cave Monster

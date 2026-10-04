@@ -1,6 +1,6 @@
 ---
 title: "Ticket"
-tags: ["Pages with broken file links", "Items", "Inventory", "Currency"]
+tags: ["Items", "Inventory", "Currency"]
 ---
 
 # Ticket

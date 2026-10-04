@@ -1,6 +1,6 @@
 ---
 title: "Balloon"
-tags: ["Pages with broken file links", "Mechanics", "Items", "Inventory", "Consumables", "Balloons"]
+tags: ["Mechanics", "Items", "Inventory", "Consumables", "Balloons"]
 ---
 
 # Balloon

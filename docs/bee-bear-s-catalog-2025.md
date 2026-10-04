@@ -1,6 +1,6 @@
 ---
 title: "Bee Bear's Catalog/2025"
-tags: ["Pages with broken file links"]
+tags: []
 ---
 
 # Bee Bear's Catalog/2025

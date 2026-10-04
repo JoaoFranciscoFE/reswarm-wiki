@@ -1,6 +1,6 @@
 ---
 title: "Snow Storm"
-tags: ["Pages with broken file links", "Removed Content", "Beesmas"]
+tags: ["Removed Content", "Beesmas"]
 ---
 
 # Snow Storm

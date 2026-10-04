@@ -1,6 +1,6 @@
 ---
 title: "White Tunnel"
-tags: ["Pages with broken file links", "Locations"]
+tags: ["Locations"]
 ---
 
 # White Tunnel

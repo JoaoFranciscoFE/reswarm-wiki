@@ -1,6 +1,6 @@
 ---
 title: "Festive Bean"
-tags: ["Pages with broken file links", "Items", "Inventory", "Consumables", "Beesmas"]
+tags: ["Items", "Inventory", "Consumables", "Beesmas"]
 ---
 
 # Festive Bean

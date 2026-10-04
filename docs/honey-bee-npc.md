@@ -1,6 +1,6 @@
 ---
 title: "Honey Bee (NPC)"
-tags: ["Pages with broken file links", "Removed Content", "NPC", "Quest Bees", "Quest Giver", "Bees"]
+tags: ["Removed Content", "NPC", "Quest Bees", "Quest Giver", "Bees"]
 ---
 
 # Honey Bee (NPC)

@@ -1,6 +1,6 @@
 ---
 title: "Beequip/Generation"
-tags: ["Pages with broken file links", "Recent Update"]
+tags: ["Recent Update"]
 ---
 
 # Beequip/Generation

@@ -1,6 +1,6 @@
 ---
 title: "Petal Shop"
-tags: ["Pages with broken file links", "Shops", "Locations"]
+tags: ["Shops", "Locations"]
 ---
 
 # Petal Shop

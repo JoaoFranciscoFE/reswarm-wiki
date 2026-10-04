@@ -1,6 +1,6 @@
 ---
 title: "Honeystorm"
-tags: ["Pages with broken file links", "Locations", "Machines", "Summoner", "Starter Zone"]
+tags: ["Locations", "Machines", "Summoner", "Starter Zone"]
 ---
 
 # Honeystorm

@@ -1,6 +1,6 @@
 ---
 title: "Gifted Bucko Bee"
-tags: ["Pages with broken file links", "Removed Content", "NPC", "Blue", "Quest Giver", "Quest Bees", "Requires Translator"]
+tags: ["Removed Content", "NPC", "Blue", "Quest Giver", "Quest Bees", "Requires Translator"]
 ---
 
 # Gifted Bucko Bee

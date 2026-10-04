@@ -1,6 +1,6 @@
 ---
 title: "All-Time Top Retro Swarm Hive Defenders"
-tags: ["Pages with broken file links", "Leaderboards"]
+tags: ["Leaderboards"]
 ---
 
 # All-Time Top Retro Swarm Hive Defenders

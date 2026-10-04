@@ -1,6 +1,6 @@
 ---
 title: "Lei"
-tags: ["Pages with broken file links", "Inventory", "Items", "Beequips"]
+tags: ["Inventory", "Items", "Beequips"]
 ---
 
 # Lei

@@ -1,6 +1,6 @@
 ---
 title: "Daily Top Pepper Patch Collectors"
-tags: ["Pages with broken file links", "Leaderboards"]
+tags: ["Leaderboards"]
 ---
 
 # Daily Top Pepper Patch Collectors

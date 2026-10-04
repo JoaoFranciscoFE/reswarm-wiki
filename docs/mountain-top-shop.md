@@ -1,6 +1,6 @@
 ---
 title: "Mountain Top Shop"
-tags: ["Pages with broken file links", "Shops", "Locations"]
+tags: ["Shops", "Locations"]
 ---
 
 # Mountain Top Shop

@@ -1,6 +1,6 @@
 ---
 title: "Moon Charm"
-tags: ["Pages with broken file links", "Items", "Inventory", "Treats"]
+tags: ["Items", "Inventory", "Treats"]
 ---
 
 # Moon Charm

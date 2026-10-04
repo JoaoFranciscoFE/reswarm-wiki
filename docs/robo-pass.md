@@ -1,6 +1,6 @@
 ---
 title: "Robo Pass"
-tags: ["Pages with broken file links", "Items", "Inventory", "Robo Bear Challenge"]
+tags: ["Items", "Inventory", "Robo Bear Challenge"]
 ---
 
 # Robo Pass

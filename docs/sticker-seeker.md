@@ -1,6 +1,6 @@
 ---
 title: "Sticker-Seeker"
-tags: ["Pages with broken file links", "Items", "Tools", "Crafted"]
+tags: ["Items", "Tools", "Crafted"]
 ---
 
 # Sticker-Seeker

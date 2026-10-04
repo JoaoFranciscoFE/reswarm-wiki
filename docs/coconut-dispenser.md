@@ -1,6 +1,6 @@
 ---
 title: "Coconut Dispenser"
-tags: ["Pages with broken file links", "Machines", "Locations", "Dispenser"]
+tags: ["Machines", "Locations", "Dispenser"]
 ---
 
 # Coconut Dispenser

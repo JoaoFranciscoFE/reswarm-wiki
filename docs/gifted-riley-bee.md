@@ -1,6 +1,6 @@
 ---
 title: "Gifted Riley Bee"
-tags: ["Pages with broken file links", "Removed Content", "NPC", "Red", "Quest Giver", "Quest Bees", "Requires Translator"]
+tags: ["Removed Content", "NPC", "Red", "Quest Giver", "Quest Bees", "Requires Translator"]
 ---
 
 # Gifted Riley Bee

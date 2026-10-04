@@ -1,6 +1,6 @@
 ---
 title: "Vicious Bee Egg Claim"
-tags: ["Pages with broken file links", "Locations", "Egg Claims"]
+tags: ["Locations", "Egg Claims"]
 ---
 
 # Vicious Bee Egg Claim

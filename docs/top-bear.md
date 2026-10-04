@@ -1,6 +1,6 @@
 ---
 title: "Top Bear"
-tags: ["Pages with broken file links", "NPC", "Bears"]
+tags: ["NPC", "Bears"]
 ---
 
 # Top Bear

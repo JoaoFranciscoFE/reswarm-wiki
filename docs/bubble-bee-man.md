@@ -1,6 +1,6 @@
 ---
 title: "Bubble Bee Man"
-tags: ["Pages with broken file links", "Removed Content", "NPC", "Quest Giver"]
+tags: ["Removed Content", "NPC", "Quest Giver"]
 ---
 
 # Bubble Bee Man

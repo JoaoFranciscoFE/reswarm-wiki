@@ -1,6 +1,6 @@
 ---
 title: "King Beetle Amulet"
-tags: ["Pages with broken file links", "Amulet", "Accessories"]
+tags: ["Amulet", "Accessories"]
 ---
 
 # King Beetle Amulet

@@ -1,6 +1,6 @@
 ---
 title: "Naughty List"
-tags: ["Pages with broken file links", "Unobtainable", "Beesmas", "Locations", "Machines", "Summoner", "Beesmas Decorations"]
+tags: ["Unobtainable", "Beesmas", "Locations", "Machines", "Summoner", "Beesmas Decorations"]
 ---
 
 # Naughty List

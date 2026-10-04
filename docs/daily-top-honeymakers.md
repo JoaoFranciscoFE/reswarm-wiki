@@ -1,6 +1,6 @@
 ---
 title: "Daily Top Honeymakers"
-tags: ["Pages with broken file links", "Locations", "Leaderboards", "Starter Zone"]
+tags: ["Locations", "Leaderboards", "Starter Zone"]
 ---
 
 # Daily Top Honeymakers

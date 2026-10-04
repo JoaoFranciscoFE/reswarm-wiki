@@ -1,6 +1,6 @@
 ---
 title: "Rhino Beetle"
-tags: ["Mobs", "Pages with broken file links"]
+tags: ["Mobs"]
 ---
 
 # Rhino Beetle

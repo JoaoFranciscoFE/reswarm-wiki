@@ -1,6 +1,6 @@
 ---
 title: "Daily Top Blue Flower Field Collectors"
-tags: ["Pages with broken file links", "Leaderboards"]
+tags: ["Leaderboards"]
 ---
 
 # Daily Top Blue Flower Field Collectors

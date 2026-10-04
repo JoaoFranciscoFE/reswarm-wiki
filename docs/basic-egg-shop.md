@@ -1,6 +1,6 @@
 ---
 title: "Basic Egg Shop"
-tags: ["Pages with broken file links", "Machines", "Shops", "Locations", "Starter Zone"]
+tags: ["Machines", "Shops", "Locations", "Starter Zone"]
 ---
 
 # Basic Egg Shop

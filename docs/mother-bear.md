@@ -1,6 +1,6 @@
 ---
 title: "Mother Bear"
-tags: ["Pages with broken file links", "Removed Content", "NPC", "Bears", "Quest Giver", "Starter Zone"]
+tags: ["Removed Content", "NPC", "Bears", "Quest Giver", "Starter Zone"]
 ---
 
 # Mother Bear

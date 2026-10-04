@@ -1,6 +1,6 @@
 ---
 title: "Blender"
-tags: ["Machines", "Pages with broken file links", "Locations", "Mechanics"]
+tags: ["Machines", "Locations", "Mechanics"]
 ---
 
 # Blender

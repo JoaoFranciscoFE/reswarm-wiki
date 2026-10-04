@@ -1,6 +1,6 @@
 ---
 title: "Jelly Beans"
-tags: ["Pages with broken file links", "Items", "Inventory", "Consumables", "Egg Hunt 2019", "Egg Hunt Event"]
+tags: ["Items", "Inventory", "Consumables", "Egg Hunt 2019", "Egg Hunt Event"]
 ---
 
 # Jelly Beans

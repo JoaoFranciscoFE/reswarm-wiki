@@ -1,6 +1,6 @@
 ---
 title: "Pine Tree Forest"
-tags: ["Pages with broken file links", "Locations", "Fields", "Blue"]
+tags: ["Locations", "Fields", "Blue"]
 ---
 
 # Pine Tree Forest

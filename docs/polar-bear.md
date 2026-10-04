@@ -1,6 +1,6 @@
 ---
 title: "Polar Bear"
-tags: ["Pages with broken file links", "Removed Content", "NPC", "Bears", "Quest Giver"]
+tags: ["Removed Content", "NPC", "Bears", "Quest Giver"]
 ---
 
 # Polar Bear

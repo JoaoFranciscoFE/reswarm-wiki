@@ -1,6 +1,6 @@
 ---
 title: "Bee Bear's Catalog"
-tags: ["Pages with broken file links", "Removed Content", "Beesmas", "Shops"]
+tags: ["Removed Content", "Beesmas", "Shops"]
 ---
 
 # Bee Bear's Catalog

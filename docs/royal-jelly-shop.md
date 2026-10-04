@@ -1,6 +1,6 @@
 ---
 title: "Royal Jelly Shop"
-tags: ["Pages with broken file links", "Shops", "Locations", "Machines"]
+tags: ["Shops", "Locations", "Machines"]
 ---
 
 # Royal Jelly Shop

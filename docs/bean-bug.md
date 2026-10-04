@@ -1,6 +1,6 @@
 ---
 title: "Bean Bug"
-tags: ["Mobs", "Pages with broken file links", "Egg Hunt Event", "Passive Mobs"]
+tags: ["Mobs", "Egg Hunt Event", "Passive Mobs"]
 ---
 
 # Bean Bug

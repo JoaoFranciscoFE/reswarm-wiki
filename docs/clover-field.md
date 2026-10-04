@@ -1,6 +1,6 @@
 ---
 title: "Clover Field"
-tags: ["Pages with broken file links", "Locations", "Fields", "Starter Zone"]
+tags: ["Locations", "Fields", "Starter Zone"]
 ---
 
 # Clover Field

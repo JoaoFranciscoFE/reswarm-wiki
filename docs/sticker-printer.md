@@ -1,6 +1,6 @@
 ---
 title: "Sticker Printer"
-tags: ["Machines", "Pages with broken file links", "Locations"]
+tags: ["Machines", "Locations"]
 ---
 
 # Sticker Printer

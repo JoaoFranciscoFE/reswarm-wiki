@@ -1,6 +1,6 @@
 ---
 title: "Tutorial"
-tags: ["Pages with broken file links", "Re://:Swarm"]
+tags: ["Re://:Swarm"]
 ---
 
 # Tutorial

@@ -1,6 +1,6 @@
 ---
 title: "Field Booster"
-tags: ["Pages with broken file links", "Locations", "Machines", "Field Boosters"]
+tags: ["Locations", "Machines", "Field Boosters"]
 ---
 
 # Field Booster

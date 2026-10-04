@@ -1,6 +1,6 @@
 ---
 title: "Daily Top Mushroom Field Collectors"
-tags: ["Pages with broken file links", "Leaderboards"]
+tags: ["Leaderboards"]
 ---
 
 # Daily Top Mushroom Field Collectors

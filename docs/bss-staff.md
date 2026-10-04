@@ -1,6 +1,6 @@
 ---
 title: "BSS Staff"
-tags: ["Pages with broken file links", "Community"]
+tags: ["Community"]
 ---
 
 # BSS Staff

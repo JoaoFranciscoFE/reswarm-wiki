@@ -1,6 +1,6 @@
 ---
 title: "Robo Bear Challenge"
-tags: ["Pages with broken file links", "Challenges", "Robo Bear Challenge", "Robo Bear"]
+tags: ["Challenges", "Robo Bear Challenge", "Robo Bear"]
 ---
 
 # Robo Bear Challenge

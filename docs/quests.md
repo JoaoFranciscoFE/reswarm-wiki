@@ -1,6 +1,6 @@
 ---
 title: "Quests"
-tags: ["Pages with broken file links", "Removed Content", "Recent Update", "Stubs", "Mechanics"]
+tags: ["Removed Content", "Recent Update", "Stubs", "Mechanics"]
 ---
 
 # Quests

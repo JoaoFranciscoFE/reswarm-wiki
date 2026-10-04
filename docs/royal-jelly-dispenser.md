@@ -1,6 +1,6 @@
 ---
 title: "Royal Jelly Dispenser"
-tags: ["Pages with broken file links", "Machines", "Locations", "Dispenser", "Starter Zone"]
+tags: ["Machines", "Locations", "Dispenser", "Starter Zone"]
 ---
 
 # Royal Jelly Dispenser

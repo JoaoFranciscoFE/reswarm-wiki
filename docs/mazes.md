@@ -1,6 +1,6 @@
 ---
 title: "Mazes"
-tags: ["Pages with broken file links", "Locations"]
+tags: ["Locations"]
 ---
 
 # Mazes

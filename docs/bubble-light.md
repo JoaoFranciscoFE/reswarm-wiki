@@ -1,6 +1,6 @@
 ---
 title: "Bubble Light"
-tags: ["Pages with broken file links", "Unobtainable", "Inventory", "Items", "Beequips", "Beesmas"]
+tags: ["Unobtainable", "Inventory", "Items", "Beequips", "Beesmas"]
 ---
 
 # Bubble Light

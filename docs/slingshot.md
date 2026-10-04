@@ -1,6 +1,6 @@
 ---
 title: "Slingshot"
-tags: ["Pages with broken file links", "Locations", "Transport", "Machines", "Starter Zone"]
+tags: ["Locations", "Transport", "Machines", "Starter Zone"]
 ---
 
 # Slingshot

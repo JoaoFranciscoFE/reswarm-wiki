@@ -1,6 +1,6 @@
 ---
 title: "Basic Bee Gate"
-tags: ["Locations", "Gates", "Pages with broken file links"]
+tags: ["Locations", "Gates"]
 ---
 
 # Basic Bee Gate

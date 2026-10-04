@@ -1,6 +1,6 @@
 ---
 title: "Daily Top Aphid Exterminators"
-tags: ["Pages with broken file links", "Leaderboards"]
+tags: ["Leaderboards"]
 ---
 
 # Daily Top Aphid Exterminators

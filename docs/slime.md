@@ -1,6 +1,6 @@
 ---
 title: "Slime"
-tags: ["Mobs", "Pages with broken file links", "Retro Swarm Challenge"]
+tags: ["Mobs", "Retro Swarm Challenge"]
 ---
 
 # Slime

@@ -1,6 +1,6 @@
 ---
 title: "All-Time Top Robo Bear Challenge Scores"
-tags: ["Pages with broken file links", "Leaderboards", "Locations", "Robo Bear Challenge"]
+tags: ["Leaderboards", "Locations", "Robo Bear Challenge"]
 ---
 
 # All-Time Top Robo Bear Challenge Scores

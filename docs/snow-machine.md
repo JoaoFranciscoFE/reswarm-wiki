@@ -1,6 +1,6 @@
 ---
 title: "Snow Machine"
-tags: ["Pages with broken file links", "Removed Content", "Locations", "Machines", "Beesmas", "Summoner", "Beesmas Decorations", "Starter Zone"]
+tags: ["Removed Content", "Locations", "Machines", "Beesmas", "Summoner", "Beesmas Decorations", "Starter Zone"]
 ---
 
 # Snow Machine

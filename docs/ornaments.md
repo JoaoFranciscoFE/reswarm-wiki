@@ -1,6 +1,6 @@
 ---
 title: "Ornaments"
-tags: ["Pages with broken file links", "Removed Content", "Items", "Beesmas"]
+tags: ["Removed Content", "Items", "Beesmas"]
 ---
 
 # Ornaments

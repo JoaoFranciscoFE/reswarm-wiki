@@ -1,6 +1,6 @@
 ---
 title: "Moon Amulet"
-tags: ["Pages with broken file links", "Amulet", "Accessories"]
+tags: ["Amulet", "Accessories"]
 ---
 
 # Moon Amulet

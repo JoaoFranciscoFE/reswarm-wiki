@@ -1,6 +1,6 @@
 ---
 title: "Robux Shop"
-tags: ["Pages with broken file links", "Shops", "Mechanics"]
+tags: ["Shops", "Mechanics"]
 ---
 
 # Robux Shop

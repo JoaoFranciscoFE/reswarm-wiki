@@ -1,6 +1,6 @@
 ---
 title: "Badges"
-tags: ["Pages with broken file links", "Gameplay", "Mechanics", "Re://:Swarm"]
+tags: ["Gameplay", "Mechanics", "Re://:Swarm"]
 ---
 
 # Badges

@@ -1,6 +1,6 @@
 ---
 title: "Coconut Crab"
-tags: ["Pages with broken file links", "Mobs", "Bosses"]
+tags: ["Mobs", "Bosses"]
 ---
 
 # Coconut Crab

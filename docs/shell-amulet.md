@@ -1,6 +1,6 @@
 ---
 title: "Shell Amulet"
-tags: ["Pages with broken file links", "Amulet", "Accessories"]
+tags: ["Amulet", "Accessories"]
 ---
 
 # Shell Amulet

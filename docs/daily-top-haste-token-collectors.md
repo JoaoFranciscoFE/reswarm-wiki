@@ -1,6 +1,6 @@
 ---
 title: "Daily Top Haste Token Collectors"
-tags: ["Pages with broken file links", "Leaderboards"]
+tags: ["Leaderboards"]
 ---
 
 # Daily Top Haste Token Collectors

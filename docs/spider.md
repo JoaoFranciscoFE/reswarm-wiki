@@ -1,6 +1,6 @@
 ---
 title: "Spider"
-tags: ["Mobs", "Pages with broken file links"]
+tags: ["Mobs"]
 ---
 
 # Spider

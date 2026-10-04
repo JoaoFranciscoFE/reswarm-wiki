@@ -1,6 +1,6 @@
 ---
 title: "Stinger"
-tags: ["Pages with broken file links", "Items", "Inventory", "Consumables"]
+tags: ["Items", "Inventory", "Consumables"]
 ---
 
 # Stinger

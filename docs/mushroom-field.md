@@ -1,6 +1,6 @@
 ---
 title: "Mushroom Field"
-tags: ["Pages with broken file links", "Locations", "Fields", "Red", "Starter Zone"]
+tags: ["Locations", "Fields", "Red", "Starter Zone"]
 ---
 
 # Mushroom Field

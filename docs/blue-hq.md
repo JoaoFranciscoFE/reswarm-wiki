@@ -1,6 +1,6 @@
 ---
 title: "Blue HQ"
-tags: ["Pages with broken file links", "Shops", "Locations", "Blue", "Starter Zone"]
+tags: ["Shops", "Locations", "Blue", "Starter Zone"]
 ---
 
 # Blue HQ

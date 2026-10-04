@@ -1,6 +1,6 @@
 ---
 title: "Spirit Petal"
-tags: ["Pages with broken file links", "Items", "Inventory"]
+tags: ["Items", "Inventory"]
 ---
 
 # Spirit Petal

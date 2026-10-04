@@ -1,6 +1,6 @@
 ---
 title: "Bubble Wand"
-tags: ["Pages with broken file links", "Items", "Tools", "Blue"]
+tags: ["Items", "Tools", "Blue"]
 ---
 
 # Bubble Wand

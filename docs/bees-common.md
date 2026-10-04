@@ -1,6 +1,6 @@
 ---
 title: "Bees/Common"
-tags: ["Pages with broken file links", "Bees", "Common"]
+tags: ["Bees", "Common"]
 ---
 
 # Bees/Common

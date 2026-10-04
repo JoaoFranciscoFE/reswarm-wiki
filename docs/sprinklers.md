@@ -1,6 +1,6 @@
 ---
 title: "Sprinklers"
-tags: ["Pages with broken file links", "Items", "Inventory", "Sprinklers"]
+tags: ["Items", "Inventory", "Sprinklers"]
 ---
 
 # Sprinklers

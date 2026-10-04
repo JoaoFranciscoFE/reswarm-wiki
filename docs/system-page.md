@@ -1,6 +1,6 @@
 ---
 title: "System Page"
-tags: ["Pages with broken file links", "Gameplay", "Mechanics", "System"]
+tags: ["Gameplay", "Mechanics", "System"]
 ---
 
 # System Page

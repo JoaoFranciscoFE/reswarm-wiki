@@ -1,6 +1,6 @@
 ---
 title: "Daily Top Firefly Chasers"
-tags: ["Pages with broken file links", "Leaderboards"]
+tags: ["Leaderboards"]
 ---
 
 # Daily Top Firefly Chasers

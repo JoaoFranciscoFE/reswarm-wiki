@@ -1,6 +1,6 @@
 ---
 title: "Ability Tokens"
-tags: ["Pages with broken file links", "Mechanics"]
+tags: ["Mechanics"]
 ---
 
 # Ability Tokens

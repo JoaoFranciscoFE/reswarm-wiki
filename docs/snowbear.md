@@ -1,6 +1,6 @@
 ---
 title: "Snowbear"
-tags: ["Pages with broken file links", "Removed Content", "Mobs", "Mini Bosses", "Bears", "Beesmas", "Multiplayer Bosses"]
+tags: ["Removed Content", "Mobs", "Mini Bosses", "Bears", "Beesmas", "Multiplayer Bosses"]
 ---
 
 # Snowbear

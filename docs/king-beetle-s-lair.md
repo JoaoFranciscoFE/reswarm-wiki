@@ -1,6 +1,6 @@
 ---
 title: "King Beetle's Lair"
-tags: ["Pages with broken file links", "Locations", "Starter Zone"]
+tags: ["Locations", "Starter Zone"]
 ---
 
 # King Beetle's Lair

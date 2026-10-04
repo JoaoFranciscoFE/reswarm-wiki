@@ -1,6 +1,6 @@
 ---
 title: "Tide Popper"
-tags: ["Pages with broken file links", "Items", "Tools", "Crafted", "Blue"]
+tags: ["Items", "Tools", "Crafted", "Blue"]
 ---
 
 # Tide Popper

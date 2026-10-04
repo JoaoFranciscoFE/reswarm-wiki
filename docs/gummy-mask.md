@@ -1,6 +1,6 @@
 ---
 title: "Gummy Mask"
-tags: ["Items", "Accessories", "Pages with broken file links", "Hats", "Crafted", "Goo", "Colorless"]
+tags: ["Items", "Accessories", "Hats", "Crafted", "Goo", "Colorless"]
 ---
 
 # Gummy Mask

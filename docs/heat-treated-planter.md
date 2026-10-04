@@ -1,6 +1,6 @@
 ---
 title: "Heat-Treated Planter"
-tags: ["Pages with broken file links", "Inventory", "Items", "Planter", "Crafted", "Red"]
+tags: ["Inventory", "Items", "Planter", "Crafted", "Red"]
 ---
 
 # Heat-Treated Planter

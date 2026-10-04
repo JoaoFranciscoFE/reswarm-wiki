@@ -1,6 +1,6 @@
 ---
 title: "Glitter"
-tags: ["Pages with broken file links", "Items", "Inventory", "Crafted", "Consumables", "Field Boosters"]
+tags: ["Items", "Inventory", "Crafted", "Consumables", "Field Boosters"]
 ---
 
 # Glitter

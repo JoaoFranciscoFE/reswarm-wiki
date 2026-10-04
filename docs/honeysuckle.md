@@ -1,6 +1,6 @@
 ---
 title: "Honeysuckle"
-tags: ["Pages with broken file links", "Items", "Inventory", "Consumables"]
+tags: ["Items", "Inventory", "Consumables"]
 ---
 
 # Honeysuckle

@@ -1,6 +1,6 @@
 ---
 title: "Snowbear Summoner"
-tags: ["Pages with broken file links", "Removed Content", "Summoner", "Machines", "Beesmas", "Locations", "Beesmas Decorations"]
+tags: ["Removed Content", "Summoner", "Machines", "Beesmas", "Locations", "Beesmas Decorations"]
 ---
 
 # Snowbear Summoner

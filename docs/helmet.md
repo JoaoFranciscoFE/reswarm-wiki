@@ -1,6 +1,6 @@
 ---
 title: "Helmet"
-tags: ["Items", "Accessories", "Pages with broken file links", "Hats", "Crafted"]
+tags: ["Items", "Accessories", "Hats", "Crafted"]
 ---
 
 # Helmet

@@ -1,6 +1,6 @@
 ---
 title: "Riley Guard"
-tags: ["Items", "Accessories", "Pages with broken file links", "Guards", "Crafted", "Red"]
+tags: ["Items", "Accessories", "Guards", "Crafted", "Red"]
 ---
 
 # Riley Guard

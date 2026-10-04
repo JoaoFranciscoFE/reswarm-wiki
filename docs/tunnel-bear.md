@@ -1,6 +1,6 @@
 ---
 title: "Tunnel Bear"
-tags: ["Mobs", "Pages with broken file links", "Bosses", "Bears"]
+tags: ["Mobs", "Bosses", "Bears"]
 ---
 
 # Tunnel Bear

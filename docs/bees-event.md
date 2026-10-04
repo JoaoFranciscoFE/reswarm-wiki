@@ -1,6 +1,6 @@
 ---
 title: "Bees/Event"
-tags: ["Pages with broken file links", "Bees", "Event"]
+tags: ["Bees", "Event"]
 ---
 
 # Bees/Event

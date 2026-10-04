@@ -1,6 +1,6 @@
 ---
 title: "Gingerbread Bear"
-tags: ["Pages with broken file links", "Items", "Inventory", "Beesmas", "Currency", "Treats"]
+tags: ["Items", "Inventory", "Beesmas", "Currency", "Treats"]
 ---
 
 # Gingerbread Bear

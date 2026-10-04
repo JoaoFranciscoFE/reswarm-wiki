@@ -1,6 +1,6 @@
 ---
 title: "Re://:Swarm"
-tags: ["Pages with broken file links", "Community", "Re://:Swarm"]
+tags: ["Community", "Re://:Swarm"]
 ---
 
 # Re://:Swarm

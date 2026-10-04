@@ -1,6 +1,6 @@
 ---
 title: "Honey"
-tags: ["Pages with broken file links", "Currency", "Gameplay", "Mechanics"]
+tags: ["Currency", "Gameplay", "Mechanics"]
 ---
 
 # Honey

@@ -1,6 +1,6 @@
 ---
 title: "Puffshroom"
-tags: ["Pages with broken file links", "Passive Mobs", "Mobs"]
+tags: ["Passive Mobs", "Mobs"]
 ---
 
 # Puffshroom

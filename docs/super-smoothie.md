@@ -1,6 +1,6 @@
 ---
 title: "Super Smoothie"
-tags: ["Pages with broken file links", "Items", "Inventory", "Consumables", "Crafted"]
+tags: ["Items", "Inventory", "Consumables", "Crafted"]
 ---
 
 # Super Smoothie

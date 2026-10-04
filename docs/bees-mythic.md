@@ -1,6 +1,6 @@
 ---
 title: "Bees/Mythic"
-tags: ["Pages with broken file links", "Bees", "Mythic"]
+tags: ["Bees", "Mythic"]
 ---
 
 # Bees/Mythic

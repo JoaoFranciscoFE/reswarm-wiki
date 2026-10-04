@@ -1,6 +1,6 @@
 ---
 title: "Dapper Bear's Shop"
-tags: ["Pages with broken file links", "Shops", "Locations"]
+tags: ["Shops", "Locations"]
 ---
 
 # Dapper Bear's Shop

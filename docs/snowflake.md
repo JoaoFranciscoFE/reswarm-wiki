@@ -1,6 +1,6 @@
 ---
 title: "Snowflake"
-tags: ["Pages with broken file links", "Items", "Inventory", "Beesmas", "Currency", "Consumables"]
+tags: ["Items", "Inventory", "Beesmas", "Currency", "Consumables"]
 ---
 
 # Snowflake

@@ -1,6 +1,6 @@
 ---
 title: "Warm Scarf"
-tags: ["Pages with broken file links", "Inventory", "Items", "Beequips", "Beesmas"]
+tags: ["Inventory", "Items", "Beequips", "Beesmas"]
 ---
 
 # Warm Scarf

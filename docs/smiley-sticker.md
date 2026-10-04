@@ -1,6 +1,6 @@
 ---
 title: "Smiley Sticker"
-tags: ["Pages with broken file links", "Inventory", "Items", "Beequips"]
+tags: ["Inventory", "Items", "Beequips"]
 ---
 
 # Smiley Sticker

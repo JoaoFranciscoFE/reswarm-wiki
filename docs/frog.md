@@ -1,6 +1,6 @@
 ---
 title: "Frog"
-tags: ["Mobs", "Pages with broken file links", "Passive Mobs"]
+tags: ["Mobs", "Passive Mobs"]
 ---
 
 # Frog

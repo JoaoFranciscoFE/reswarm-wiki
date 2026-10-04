@@ -1,6 +1,6 @@
 ---
 title: "Golden Gushers"
-tags: ["Items", "Sprinklers", "Pages with broken file links"]
+tags: ["Items", "Sprinklers"]
 ---
 
 # Golden Gushers

@@ -1,6 +1,6 @@
 ---
 title: "Mondo B.B.M. Mask"
-tags: ["Pages with broken file links", "Unobtainable", "Items", "Accessories", "Hats", "Beesmas"]
+tags: ["Unobtainable", "Items", "Accessories", "Hats", "Beesmas"]
 ---
 
 # Mondo B.B.M. Mask

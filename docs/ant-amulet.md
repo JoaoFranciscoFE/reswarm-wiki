@@ -1,6 +1,6 @@
 ---
 title: "Ant Amulet"
-tags: ["Pages with broken file links", "Amulet", "Ant Challenge", "Accessories"]
+tags: ["Amulet", "Ant Challenge", "Accessories"]
 ---
 
 # Ant Amulet

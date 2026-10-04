@@ -1,6 +1,6 @@
 ---
 title: "Brick"
-tags: ["Pages with broken file links", "Items", "Inventory", "Currency", "Retro Swarm Challenge"]
+tags: ["Items", "Inventory", "Currency", "Retro Swarm Challenge"]
 ---
 
 # Brick

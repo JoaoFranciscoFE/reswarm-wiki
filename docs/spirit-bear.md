@@ -1,6 +1,6 @@
 ---
 title: "Spirit Bear"
-tags: ["Pages with broken file links", "Removed Content", "NPC", "Bears", "Quest Giver"]
+tags: ["Removed Content", "NPC", "Bears", "Quest Giver"]
 ---
 
 # Spirit Bear

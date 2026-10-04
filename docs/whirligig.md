@@ -1,6 +1,6 @@
 ---
 title: "Whirligig"
-tags: ["Pages with broken file links", "Items", "Inventory", "Consumables", "Transport"]
+tags: ["Items", "Inventory", "Consumables", "Transport"]
 ---
 
 # Whirligig

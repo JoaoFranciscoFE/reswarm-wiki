@@ -1,6 +1,6 @@
 ---
 title: "Memory Match"
-tags: ["Pages with broken file links", "Machines", "Locations"]
+tags: ["Machines", "Locations"]
 ---
 
 # Memory Match

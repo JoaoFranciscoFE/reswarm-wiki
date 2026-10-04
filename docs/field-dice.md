@@ -1,6 +1,6 @@
 ---
 title: "Field Dice"
-tags: ["Pages with broken file links", "Items", "Inventory", "Dice", "Consumables", "Field Boosters", "Crafted"]
+tags: ["Items", "Inventory", "Dice", "Consumables", "Field Boosters", "Crafted"]
 ---
 
 # Field Dice

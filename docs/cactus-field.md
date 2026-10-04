@@ -1,6 +1,6 @@
 ---
 title: "Cactus Field"
-tags: ["Pages with broken file links", "Locations", "Fields", "Red", "Blue"]
+tags: ["Locations", "Fields", "Red", "Blue"]
 ---
 
 # Cactus Field

@@ -1,6 +1,6 @@
 ---
 title: "Magic Bean Shop"
-tags: ["Pages with broken file links", "Locations", "Shops", "Machines"]
+tags: ["Locations", "Shops", "Machines"]
 ---
 
 # Magic Bean Shop

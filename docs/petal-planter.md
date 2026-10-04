@@ -1,6 +1,6 @@
 ---
 title: "Petal Planter"
-tags: ["Pages with broken file links", "Inventory", "Items", "Planter", "Colorless", "Crafted"]
+tags: ["Inventory", "Items", "Planter", "Colorless", "Crafted"]
 ---
 
 # Petal Planter

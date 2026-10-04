@@ -1,6 +1,6 @@
 ---
 title: "Mantis"
-tags: ["Mobs", "Pages with broken file links"]
+tags: ["Mobs"]
 ---
 
 # Mantis

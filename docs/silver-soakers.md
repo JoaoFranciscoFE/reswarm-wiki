@@ -1,6 +1,6 @@
 ---
 title: "Silver Soakers"
-tags: ["Items", "Sprinklers", "Pages with broken file links"]
+tags: ["Items", "Sprinklers"]
 ---
 
 # Silver Soakers

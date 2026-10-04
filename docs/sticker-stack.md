@@ -1,6 +1,6 @@
 ---
 title: "Sticker Stack"
-tags: ["Pages with broken file links", "Locations", "Machines"]
+tags: ["Locations", "Machines"]
 ---
 
 # Sticker Stack

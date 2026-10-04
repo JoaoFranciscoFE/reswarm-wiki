@@ -1,6 +1,6 @@
 ---
 title: "Refreshing Vial"
-tags: ["Pages with broken file links", "Items", "Inventory", "Consumables", "Nectar Vials"]
+tags: ["Items", "Inventory", "Consumables", "Nectar Vials"]
 ---
 
 # Refreshing Vial

@@ -1,6 +1,6 @@
 ---
 title: "Wind Shrine"
-tags: ["Pages with broken file links", "Locations", "Machines"]
+tags: ["Locations", "Machines"]
 ---
 
 # Wind Shrine

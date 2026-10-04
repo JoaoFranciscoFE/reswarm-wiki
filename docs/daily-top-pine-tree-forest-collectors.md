@@ -1,6 +1,6 @@
 ---
 title: "Daily Top Pine Tree Forest Collectors"
-tags: ["Pages with broken file links", "Leaderboards"]
+tags: ["Leaderboards"]
 ---
 
 # Daily Top Pine Tree Forest Collectors

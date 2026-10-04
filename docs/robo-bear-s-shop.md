@@ -1,6 +1,6 @@
 ---
 title: "Robo Bear's Shop"
-tags: ["Pages with broken file links", "Shops", "Locations"]
+tags: ["Shops", "Locations"]
 ---
 
 # Robo Bear's Shop

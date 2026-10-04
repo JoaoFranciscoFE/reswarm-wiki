@@ -1,6 +1,6 @@
 ---
 title: "Brown Bear"
-tags: ["Pages with broken file links", "Removed Content", "NPC", "Bears", "Quest Giver", "Starter Zone"]
+tags: ["Removed Content", "NPC", "Bears", "Quest Giver", "Starter Zone"]
 ---
 
 # Brown Bear

@@ -1,6 +1,6 @@
 ---
 title: "Ticket Shop"
-tags: ["Pages with broken file links", "Shops", "Locations", "Machines"]
+tags: ["Shops", "Locations", "Machines"]
 ---
 
 # Ticket Shop

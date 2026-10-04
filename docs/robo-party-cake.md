@@ -1,6 +1,6 @@
 ---
 title: "Robo Party Cake"
-tags: ["Pages with broken file links", "Removed Content", "Beesmas", "Beesmas Decorations", "Locations", "Machines", "Robo Bear", "Robo Party", "Summoner"]
+tags: ["Removed Content", "Beesmas", "Beesmas Decorations", "Locations", "Machines", "Robo Bear", "Robo Party", "Summoner"]
 ---
 
 # Robo Party Cake

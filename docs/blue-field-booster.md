@@ -1,6 +1,6 @@
 ---
 title: "Blue Field Booster"
-tags: ["Machines", "Pages with broken file links", "Locations", "Blue", "Field Boosters"]
+tags: ["Machines", "Locations", "Blue", "Field Boosters"]
 ---
 
 # Blue Field Booster

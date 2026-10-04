@@ -1,6 +1,6 @@
 ---
 title: "Daily Top Sprout Token Collectors"
-tags: ["Pages with broken file links", "Leaderboards"]
+tags: ["Leaderboards"]
 ---
 
 # Daily Top Sprout Token Collectors

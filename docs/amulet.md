@@ -1,6 +1,6 @@
 ---
 title: "Amulet"
-tags: ["Pages with broken file links", "Amulet", "Mechanics", "Items", "Accessories"]
+tags: ["Amulet", "Mechanics", "Items", "Accessories"]
 ---
 
 # Amulet

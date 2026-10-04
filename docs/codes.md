@@ -1,6 +1,6 @@
 ---
 title: "Codes"
-tags: ["Pages with broken file links", "Gameplay", "Mechanics"]
+tags: ["Gameplay", "Mechanics"]
 ---
 
 # Codes

@@ -1,6 +1,6 @@
 ---
 title: "Porcelain Dipper"
-tags: ["Pages with broken file links", "Items", "Tools"]
+tags: ["Items", "Tools"]
 ---
 
 # Porcelain Dipper

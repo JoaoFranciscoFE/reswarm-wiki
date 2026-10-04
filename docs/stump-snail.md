@@ -1,6 +1,6 @@
 ---
 title: "Stump Snail"
-tags: ["Mobs", "Pages with broken file links", "Mini Bosses"]
+tags: ["Mobs", "Mini Bosses"]
 ---
 
 # Stump Snail

@@ -1,6 +1,6 @@
 ---
 title: "Party Cogturret"
-tags: ["Pages with broken file links", "Removed Content", "Mobs", "Robo Bear", "Robo Party", "Beesmas"]
+tags: ["Removed Content", "Mobs", "Robo Bear", "Robo Party", "Beesmas"]
 ---
 
 # Party Cogturret

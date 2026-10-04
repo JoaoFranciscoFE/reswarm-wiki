@@ -92,3 +92,7 @@ If that flower is already your colour and at max tier, the paint goes to another
 * [Painter Bee event](painter-bee-event.md)
 * [Painter Stickers](painter-stickers.md)
 * [Bees/Event](bees-event.md)
+
+## All bees
+
+--8<-- "all-bees.md"

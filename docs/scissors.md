@@ -1,6 +1,6 @@
 ---
 title: "Scissors"
-tags: ["Pages with broken file links", "Items", "Tools"]
+tags: ["Items", "Tools"]
 ---
 
 # Scissors

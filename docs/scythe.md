@@ -1,6 +1,6 @@
 ---
 title: "Scythe"
-tags: ["Pages with broken file links", "Items", "Tools", "Red"]
+tags: ["Items", "Tools", "Red"]
 ---
 
 # Scythe

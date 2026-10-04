@@ -1,6 +1,6 @@
 ---
 title: "Daily Top Dandelion Field Collectors"
-tags: ["Pages with broken file links", "Leaderboards"]
+tags: ["Leaderboards"]
 ---
 
 # Daily Top Dandelion Field Collectors

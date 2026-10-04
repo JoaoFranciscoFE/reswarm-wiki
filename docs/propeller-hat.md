@@ -1,6 +1,6 @@
 ---
 title: "Propeller Hat"
-tags: ["Items", "Accessories", "Pages with broken file links", "Hats", "Crafted"]
+tags: ["Items", "Accessories", "Hats", "Crafted"]
 ---
 
 # Propeller Hat

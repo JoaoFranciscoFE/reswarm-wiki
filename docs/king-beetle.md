@@ -1,6 +1,6 @@
 ---
 title: "King Beetle"
-tags: ["Mobs", "Pages with broken file links", "Bosses"]
+tags: ["Mobs", "Bosses"]
 ---
 
 # King Beetle

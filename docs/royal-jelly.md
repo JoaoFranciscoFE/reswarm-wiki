@@ -1,6 +1,6 @@
 ---
 title: "Royal Jelly"
-tags: ["Pages with broken file links", "Items", "Inventory", "Crafted"]
+tags: ["Items", "Inventory", "Crafted"]
 ---
 
 # Royal Jelly

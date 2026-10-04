@@ -1,6 +1,6 @@
 ---
 title: "Marshmallow Bee"
-tags: ["Pages with broken file links", "Items", "Inventory", "Consumables", "Egg Hunt 2019"]
+tags: ["Items", "Inventory", "Consumables", "Egg Hunt 2019"]
 ---
 
 # Marshmallow Bee

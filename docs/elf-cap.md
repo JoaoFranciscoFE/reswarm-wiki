@@ -1,6 +1,6 @@
 ---
 title: "Elf Cap"
-tags: ["Pages with broken file links", "Unobtainable", "Inventory", "Items", "Beequips", "Beesmas"]
+tags: ["Unobtainable", "Inventory", "Items", "Beequips", "Beesmas"]
 ---
 
 # Elf Cap

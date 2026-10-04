@@ -1,6 +1,6 @@
 ---
 title: "Ant Pass Dispenser"
-tags: ["Pages with broken file links", "Machines", "Locations", "Dispenser", "Ant Challenge"]
+tags: ["Machines", "Locations", "Dispenser", "Ant Challenge"]
 ---
 
 # Ant Pass Dispenser

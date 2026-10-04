@@ -1,6 +1,6 @@
 ---
 title: "Night Bell"
-tags: ["Pages with broken file links", "Items", "Inventory", "Consumables", "Summoner"]
+tags: ["Items", "Inventory", "Consumables", "Summoner"]
 ---
 
 # Night Bell

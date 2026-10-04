@@ -1,6 +1,6 @@
 ---
 title: "Daily Top Nectar Collectors"
-tags: ["Pages with broken file links", "Leaderboards"]
+tags: ["Leaderboards"]
 ---
 
 # Daily Top Nectar Collectors

@@ -1,6 +1,6 @@
 ---
 title: "Star Amulet"
-tags: ["Pages with broken file links", "Amulet", "Accessories"]
+tags: ["Amulet", "Accessories"]
 ---
 
 # Star Amulet

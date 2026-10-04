@@ -1,6 +1,6 @@
 ---
 title: "Daily Top Damage to A Single Puffshroom"
-tags: ["Pages with broken file links", "Leaderboards"]
+tags: ["Leaderboards"]
 ---
 
 # Daily Top Damage to A Single Puffshroom

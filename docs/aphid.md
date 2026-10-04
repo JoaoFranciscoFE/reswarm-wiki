@@ -1,6 +1,6 @@
 ---
 title: "Aphid"
-tags: ["Mobs", "Pages with broken file links"]
+tags: ["Mobs"]
 ---
 
 # Aphid

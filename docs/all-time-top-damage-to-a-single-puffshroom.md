@@ -1,6 +1,6 @@
 ---
 title: "All-Time Top Damage to a Single Puffshroom"
-tags: ["Pages with broken file links", "Leaderboards", "Locations"]
+tags: ["Leaderboards", "Locations"]
 ---
 
 # All-Time Top Damage to a Single Puffshroom

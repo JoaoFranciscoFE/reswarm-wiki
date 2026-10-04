@@ -1,6 +1,6 @@
 ---
 title: "Daily Top Cactus Field Collectors"
-tags: ["Pages with broken file links", "Leaderboards"]
+tags: ["Leaderboards"]
 ---
 
 # Daily Top Cactus Field Collectors

@@ -1,6 +1,6 @@
 ---
 title: "Daily Top Pumpkin Patch Collectors"
-tags: ["Pages with broken file links", "Leaderboards"]
+tags: ["Leaderboards"]
 ---
 
 # Daily Top Pumpkin Patch Collectors

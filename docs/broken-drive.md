@@ -1,6 +1,6 @@
 ---
 title: "Broken Drive"
-tags: ["Pages with broken file links", "Items", "Inventory", "Robo Bear Challenge"]
+tags: ["Items", "Inventory", "Robo Bear Challenge"]
 ---
 
 # Broken Drive

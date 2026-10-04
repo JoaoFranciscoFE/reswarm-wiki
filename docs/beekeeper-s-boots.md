@@ -1,6 +1,6 @@
 ---
 title: "Beekeeper's Boots"
-tags: ["Items", "Accessories", "Pages with broken file links", "Boots", "Crafted"]
+tags: ["Items", "Accessories", "Boots", "Crafted"]
 ---
 
 # Beekeeper's Boots

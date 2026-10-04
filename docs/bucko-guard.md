@@ -1,6 +1,6 @@
 ---
 title: "Bucko Guard"
-tags: ["Items", "Accessories", "Pages with broken file links", "Guards", "Crafted", "Blue"]
+tags: ["Items", "Accessories", "Guards", "Crafted", "Blue"]
 ---
 
 # Bucko Guard

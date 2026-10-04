@@ -1,6 +1,6 @@
 ---
 title: "Daily Top Honey Gift Receivers"
-tags: ["Pages with broken file links", "Leaderboards"]
+tags: ["Leaderboards"]
 ---
 
 # Daily Top Honey Gift Receivers

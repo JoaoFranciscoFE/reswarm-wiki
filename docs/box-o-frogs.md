@@ -1,6 +1,6 @@
 ---
 title: "Box-O-Frogs"
-tags: ["Pages with broken file links", "Items", "Inventory", "Consumables", "Summoner"]
+tags: ["Items", "Inventory", "Consumables", "Summoner"]
 ---
 
 # Box-O-Frogs

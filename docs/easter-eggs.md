@@ -1,6 +1,6 @@
 ---
 title: "Easter Eggs"
-tags: ["Pages with broken file links", "Gameplay", "Locations"]
+tags: ["Gameplay", "Locations"]
 ---
 
 # Easter Eggs

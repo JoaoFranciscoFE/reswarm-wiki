@@ -1,6 +1,6 @@
 ---
 title: "Pepper Patch"
-tags: ["Pages with broken file links", "Locations", "Fields", "Red"]
+tags: ["Locations", "Fields", "Red"]
 ---
 
 # Pepper Patch

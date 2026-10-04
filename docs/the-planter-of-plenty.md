@@ -1,6 +1,6 @@
 ---
 title: "The Planter Of Plenty"
-tags: ["Pages with broken file links", "Inventory", "Items", "Planter", "Crafted"]
+tags: ["Inventory", "Items", "Planter", "Crafted"]
 ---
 
 # The Planter Of Plenty

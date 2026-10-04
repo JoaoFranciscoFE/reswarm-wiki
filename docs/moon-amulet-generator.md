@@ -1,6 +1,6 @@
 ---
 title: "Moon Amulet Generator"
-tags: ["Pages with broken file links", "Locations", "Machines"]
+tags: ["Locations", "Machines"]
 ---
 
 # Moon Amulet Generator

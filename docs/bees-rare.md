@@ -1,6 +1,6 @@
 ---
 title: "Bees/Rare"
-tags: ["Pages with broken file links", "Bees", "Rare"]
+tags: ["Bees", "Rare"]
 ---
 
 # Bees/Rare

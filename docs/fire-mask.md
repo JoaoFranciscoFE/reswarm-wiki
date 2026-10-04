@@ -1,6 +1,6 @@
 ---
 title: "Fire Mask"
-tags: ["Items", "Accessories", "Pages with broken file links", "Hats", "Crafted", "Red"]
+tags: ["Items", "Accessories", "Hats", "Crafted", "Red"]
 ---
 
 # Fire Mask

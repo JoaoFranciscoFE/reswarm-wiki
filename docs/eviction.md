@@ -1,6 +1,6 @@
 ---
 title: "Eviction"
-tags: ["Pages with broken file links", "Removed Content", "Items", "Accessories", "Inventory"]
+tags: ["Removed Content", "Items", "Accessories", "Inventory"]
 ---
 
 # Eviction

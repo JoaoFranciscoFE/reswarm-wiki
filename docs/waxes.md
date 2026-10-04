@@ -1,6 +1,6 @@
 ---
 title: "Waxes"
-tags: ["Pages with broken file links", "Inventory", "Items", "Waxes", "Consumables"]
+tags: ["Inventory", "Items", "Waxes", "Consumables"]
 ---
 
 # Waxes

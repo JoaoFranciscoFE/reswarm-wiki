@@ -1,6 +1,6 @@
 ---
 title: "Robo Bear"
-tags: ["Pages with broken file links", "Removed Content", "NPC", "Bears", "Quest Giver", "Robo Bear Challenge", "Robo Bear"]
+tags: ["Removed Content", "NPC", "Bears", "Quest Giver", "Robo Bear Challenge", "Robo Bear"]
 ---
 
 # Robo Bear

@@ -1,6 +1,6 @@
 ---
 title: "Blue Brick Field"
-tags: ["Pages with broken file links", "Locations", "Fields", "Retro Swarm Challenge", "Blue"]
+tags: ["Locations", "Fields", "Retro Swarm Challenge", "Blue"]
 ---
 
 # Blue Brick Field

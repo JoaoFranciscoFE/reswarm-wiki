@@ -1,6 +1,6 @@
 ---
 title: "Electric Candle"
-tags: ["Pages with broken file links", "Unobtainable", "Inventory", "Items", "Beequips", "Beesmas", "Red"]
+tags: ["Unobtainable", "Inventory", "Items", "Beequips", "Beesmas", "Red"]
 ---
 
 # Electric Candle

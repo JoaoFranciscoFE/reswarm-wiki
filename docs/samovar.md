@@ -1,6 +1,6 @@
 ---
 title: "Samovar"
-tags: ["Pages with broken file links", "Removed Content", "Machines", "Beesmas", "Locations", "Beesmas Decorations"]
+tags: ["Removed Content", "Machines", "Beesmas", "Locations", "Beesmas Decorations"]
 ---
 
 # Samovar

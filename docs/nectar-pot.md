@@ -1,6 +1,6 @@
 ---
 title: "Nectar Pot"
-tags: ["Pages with broken file links", "Locations", "Machines"]
+tags: ["Locations", "Machines"]
 ---
 
 # Nectar Pot

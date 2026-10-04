@@ -1,6 +1,6 @@
 ---
 title: "Red Extract"
-tags: ["Pages with broken file links", "Items", "Inventory", "Crafted", "Consumables", "Red"]
+tags: ["Items", "Inventory", "Crafted", "Consumables", "Red"]
 ---
 
 # Red Extract

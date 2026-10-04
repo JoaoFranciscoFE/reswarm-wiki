@@ -1,6 +1,6 @@
 ---
 title: "Clippers"
-tags: ["Pages with broken file links", "Items", "Tools"]
+tags: ["Items", "Tools"]
 ---
 
 # Clippers

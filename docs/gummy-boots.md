@@ -1,6 +1,6 @@
 ---
 title: "Gummy Boots"
-tags: ["Items", "Accessories", "Pages with broken file links", "Boots", "Crafted", "Goo"]
+tags: ["Items", "Accessories", "Boots", "Crafted", "Goo"]
 ---
 
 # Gummy Boots

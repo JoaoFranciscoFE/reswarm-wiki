@@ -1,6 +1,6 @@
 ---
 title: "White Balloon"
-tags: ["Pages with broken file links", "Items", "Inventory", "Consumables", "Balloons", "Colorless"]
+tags: ["Items", "Inventory", "Consumables", "Balloons", "Colorless"]
 ---
 
 # White Balloon

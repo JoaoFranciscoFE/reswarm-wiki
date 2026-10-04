@@ -1,6 +1,6 @@
 ---
 title: "Blue Flower Field"
-tags: ["Pages with broken file links", "Locations", "Fields", "Blue", "Starter Zone"]
+tags: ["Locations", "Fields", "Blue", "Starter Zone"]
 ---
 
 # Blue Flower Field

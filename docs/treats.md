@@ -1,6 +1,6 @@
 ---
 title: "Treats"
-tags: ["Pages with broken file links", "Items", "Inventory", "Gameplay", "Treats"]
+tags: ["Items", "Inventory", "Gameplay", "Treats"]
 ---
 
 # Treats

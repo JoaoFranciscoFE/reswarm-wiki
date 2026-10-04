@@ -1,6 +1,6 @@
 ---
 title: "Red HQ"
-tags: ["Pages with broken file links", "Shops", "Locations", "Red"]
+tags: ["Shops", "Locations", "Red"]
 ---
 
 # Red HQ

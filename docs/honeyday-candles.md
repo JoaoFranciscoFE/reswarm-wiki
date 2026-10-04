@@ -1,6 +1,6 @@
 ---
 title: "Honeyday Candles"
-tags: ["Pages with broken file links", "Removed Content", "Beesmas", "Locations", "Machines", "Summoner", "Beesmas Decorations"]
+tags: ["Removed Content", "Beesmas", "Locations", "Machines", "Summoner", "Beesmas Decorations"]
 ---
 
 # Honeyday Candles

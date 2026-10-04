@@ -1,6 +1,6 @@
 ---
 title: "Gumdrops"
-tags: ["Pages with broken file links", "Items", "Inventory", "Gummy Invasion", "Crafted", "Consumables", "Goo"]
+tags: ["Items", "Inventory", "Gummy Invasion", "Crafted", "Consumables", "Goo"]
 ---
 
 # Gumdrops

@@ -1,6 +1,6 @@
 ---
 title: "Glitches"
-tags: ["Pages with broken file links", "Gameplay"]
+tags: ["Gameplay"]
 ---
 
 # Glitches

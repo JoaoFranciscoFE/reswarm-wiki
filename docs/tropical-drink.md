@@ -1,6 +1,6 @@
 ---
 title: "Tropical Drink"
-tags: ["Pages with broken file links", "Items", "Inventory", "Consumables", "Crafted"]
+tags: ["Items", "Inventory", "Consumables", "Crafted"]
 ---
 
 # Tropical Drink

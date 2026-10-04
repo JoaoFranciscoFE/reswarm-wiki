@@ -1,6 +1,6 @@
 ---
 title: "Demon Talisman"
-tags: ["Pages with broken file links", "Inventory", "Items", "Beequips", "Red"]
+tags: ["Inventory", "Items", "Beequips", "Red"]
 ---
 
 # Demon Talisman

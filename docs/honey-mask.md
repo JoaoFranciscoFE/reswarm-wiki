@@ -1,6 +1,6 @@
 ---
 title: "Honey Mask"
-tags: ["Items", "Accessories", "Pages with broken file links", "Hats", "Crafted", "Colorless"]
+tags: ["Items", "Accessories", "Hats", "Crafted", "Colorless"]
 ---
 
 # Honey Mask

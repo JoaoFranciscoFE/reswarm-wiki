@@ -1,6 +1,6 @@
 ---
 title: "Stick Bug"
-tags: ["Pages with broken file links", "Removed Content", "Mobs", "Bosses", "Multiplayer Bosses", "NPC", "Quest Giver", "Stick Bug Challenge", "Requires Translator", "Starter Zone"]
+tags: ["Removed Content", "Mobs", "Bosses", "Multiplayer Bosses", "NPC", "Quest Giver", "Stick Bug Challenge", "Requires Translator", "Starter Zone"]
 ---
 
 # Stick Bug

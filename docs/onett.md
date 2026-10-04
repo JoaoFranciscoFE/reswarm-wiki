@@ -1,6 +1,6 @@
 ---
 title: "Onett"
-tags: ["Pages with broken file links", "NPC", "Removed Content", "Quest Giver"]
+tags: ["NPC", "Removed Content", "Quest Giver"]
 ---
 
 # Onett

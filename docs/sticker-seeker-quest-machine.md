@@ -1,6 +1,6 @@
 ---
 title: "Sticker-Seeker Quest Machine"
-tags: ["Pages with broken file links", "Hive Hub", "Quest Giver"]
+tags: ["Hive Hub", "Quest Giver"]
 ---
 
 # Sticker-Seeker Quest Machine

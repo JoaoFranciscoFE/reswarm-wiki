@@ -1,6 +1,6 @@
 ---
 title: "Bang Snap"
-tags: ["Pages with broken file links", "Inventory", "Items", "Beequips"]
+tags: ["Inventory", "Items", "Beequips"]
 ---
 
 # Bang Snap

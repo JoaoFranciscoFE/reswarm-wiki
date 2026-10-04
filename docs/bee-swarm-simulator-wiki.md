@@ -1,6 +1,6 @@
 ---
 title: "Bee Swarm Simulator Wiki"
-tags: ["Pages with broken file links", "Bee Swarm Simulator Wiki"]
+tags: ["Bee Swarm Simulator Wiki"]
 ---
 
 # Bee Swarm Simulator Wiki

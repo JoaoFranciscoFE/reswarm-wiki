@@ -1,6 +1,6 @@
 ---
 title: "Nectar Tester"
-tags: ["Pages with broken file links", "Items", "Inventory", "Unobtainable", "Nectar Vials", "Consumables"]
+tags: ["Items", "Inventory", "Unobtainable", "Nectar Vials", "Consumables"]
 ---
 
 # Nectar Tester

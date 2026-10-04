@@ -1,6 +1,6 @@
 ---
 title: "Mondo Chick"
-tags: ["Pages with broken file links", "Mobs", "Multiplayer Bosses", "Bosses"]
+tags: ["Mobs", "Multiplayer Bosses", "Bosses"]
 ---
 
 # Mondo Chick

@@ -1,6 +1,6 @@
 ---
 title: "Nectar Vial"
-tags: ["Pages with broken file links", "Inventory", "Nectar Vials", "Consumables", "Items"]
+tags: ["Inventory", "Nectar Vials", "Consumables", "Items"]
 ---
 
 # Nectar Vial

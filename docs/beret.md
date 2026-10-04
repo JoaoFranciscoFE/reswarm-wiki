@@ -1,6 +1,6 @@
 ---
 title: "Beret"
-tags: ["Pages with broken file links", "Inventory", "Items", "Beequips", "Blue"]
+tags: ["Inventory", "Items", "Beequips", "Blue"]
 ---
 
 # Beret

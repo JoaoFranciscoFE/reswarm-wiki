@@ -1,6 +1,6 @@
 ---
 title: "Boost Market"
-tags: ["Pages with broken file links", "Removed Content", "Shops", "Locations", "Machines"]
+tags: ["Removed Content", "Shops", "Locations", "Machines"]
 ---
 
 # Boost Market

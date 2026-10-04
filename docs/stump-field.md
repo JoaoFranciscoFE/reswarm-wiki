@@ -1,6 +1,6 @@
 ---
 title: "Stump Field"
-tags: ["Pages with broken file links", "Locations", "Fields", "Blue"]
+tags: ["Locations", "Fields", "Blue"]
 ---
 
 # Stump Field

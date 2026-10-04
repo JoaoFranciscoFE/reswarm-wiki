@@ -1,6 +1,6 @@
 ---
 title: "Mondo Belt Bag"
-tags: ["Items", "Accessories", "Pages with broken file links", "Belts", "Crafted"]
+tags: ["Items", "Accessories", "Belts", "Crafted"]
 ---
 
 # Mondo Belt Bag

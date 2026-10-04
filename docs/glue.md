@@ -1,6 +1,6 @@
 ---
 title: "Glue"
-tags: ["Pages with broken file links", "Items", "Inventory", "Crafted", "Consumables", "Goo"]
+tags: ["Items", "Inventory", "Crafted", "Consumables", "Goo"]
 ---
 
 # Glue

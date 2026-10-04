@@ -1,6 +1,6 @@
 ---
 title: "Daily Top Robo Bear Challenge Scores"
-tags: ["Pages with broken file links", "Leaderboards", "Robo Bear Challenge"]
+tags: ["Leaderboards", "Robo Bear Challenge"]
 ---
 
 # Daily Top Robo Bear Challenge Scores

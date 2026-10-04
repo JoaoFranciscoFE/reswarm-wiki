@@ -1,6 +1,6 @@
 ---
 title: "Daily Top Sunflower Field Collectors"
-tags: ["Pages with broken file links", "Leaderboards"]
+tags: ["Leaderboards"]
 ---
 
 # Daily Top Sunflower Field Collectors

@@ -1,6 +1,6 @@
 ---
 title: "Bear Gate"
-tags: ["Pages with broken file links", "Locations", "Gates"]
+tags: ["Locations", "Gates"]
 ---
 
 # Bear Gate

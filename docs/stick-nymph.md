@@ -1,6 +1,6 @@
 ---
 title: "Stick Nymph"
-tags: ["Pages with broken file links", "Mobs", "Stick Bug Challenge"]
+tags: ["Mobs", "Stick Bug Challenge"]
 ---
 
 # Stick Nymph

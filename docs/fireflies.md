@@ -1,6 +1,6 @@
 ---
 title: "Fireflies"
-tags: ["Pages with broken file links", "Mobs", "Passive Mobs"]
+tags: ["Mobs", "Passive Mobs"]
 ---
 
 # Fireflies

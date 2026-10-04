@@ -1,6 +1,6 @@
 ---
 title: "Strawberry Field"
-tags: ["Pages with broken file links", "Locations", "Fields", "Red"]
+tags: ["Locations", "Fields", "Red"]
 ---
 
 # Strawberry Field

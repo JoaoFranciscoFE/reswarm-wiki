@@ -1,6 +1,6 @@
 ---
 title: "Golden Cogmower"
-tags: ["Mobs", "Pages with broken file links", "Robo Bear Challenge", "Robo Bear"]
+tags: ["Mobs", "Robo Bear Challenge", "Robo Bear"]
 ---
 
 # Golden Cogmower

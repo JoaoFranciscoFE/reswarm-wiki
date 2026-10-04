@@ -1,6 +1,6 @@
 ---
 title: "Daily Top Gummy Soldiers"
-tags: ["Pages with broken file links", "Leaderboards"]
+tags: ["Leaderboards"]
 ---
 
 # Daily Top Gummy Soldiers

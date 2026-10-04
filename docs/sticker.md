@@ -1,6 +1,6 @@
 ---
 title: "Sticker"
-tags: ["Pages with broken file links", "Inventory", "Mechanics"]
+tags: ["Inventory", "Mechanics"]
 ---
 
 # Sticker

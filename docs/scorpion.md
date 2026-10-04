@@ -1,6 +1,6 @@
 ---
 title: "Scorpion"
-tags: ["Mobs", "Pages with broken file links"]
+tags: ["Mobs"]
 ---
 
 # Scorpion

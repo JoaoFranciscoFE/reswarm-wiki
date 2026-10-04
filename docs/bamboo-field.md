@@ -1,6 +1,6 @@
 ---
 title: "Bamboo Field"
-tags: ["Pages with broken file links", "Locations", "Fields", "Blue"]
+tags: ["Locations", "Fields", "Blue"]
 ---
 
 # Bamboo Field

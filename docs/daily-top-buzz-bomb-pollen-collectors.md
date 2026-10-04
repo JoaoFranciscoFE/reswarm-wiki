@@ -1,6 +1,6 @@
 ---
 title: "Daily Top Buzz Bomb Pollen Collectors"
-tags: ["Pages with broken file links", "Leaderboards"]
+tags: ["Leaderboards"]
 ---
 
 # Daily Top Buzz Bomb Pollen Collectors

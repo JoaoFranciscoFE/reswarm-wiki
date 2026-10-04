@@ -1,6 +1,6 @@
 ---
 title: "Rose Field"
-tags: ["Pages with broken file links", "Locations", "Fields", "Red"]
+tags: ["Locations", "Fields", "Red"]
 ---
 
 # Rose Field

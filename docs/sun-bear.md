@@ -1,6 +1,6 @@
 ---
 title: "Sun Bear"
-tags: ["Pages with broken file links", "Removed Content", "NPC", "Bears", "Traveling Bears", "Quest Giver", "Egg Hunt 2020", "Events"]
+tags: ["Removed Content", "NPC", "Bears", "Traveling Bears", "Quest Giver", "Egg Hunt 2020", "Events"]
 ---
 
 # Sun Bear

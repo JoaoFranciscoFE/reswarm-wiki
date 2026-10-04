@@ -1,6 +1,6 @@
 ---
 title: "Translator"
-tags: ["Pages with broken file links", "Items", "Inventory"]
+tags: ["Items", "Inventory"]
 ---
 
 # Translator

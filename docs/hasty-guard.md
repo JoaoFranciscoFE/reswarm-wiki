@@ -1,6 +1,6 @@
 ---
 title: "Hasty Guard"
-tags: ["Items", "Accessories", "Pages with broken file links", "Guards", "Crafted", "Colorless"]
+tags: ["Items", "Accessories", "Guards", "Crafted", "Colorless"]
 ---
 
 # Hasty Guard

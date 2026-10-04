@@ -1,6 +1,6 @@
 ---
 title: "Bee Bear"
-tags: ["Pages with broken file links", "Removed Content", "NPC", "Bears", "Traveling Bears", "Quest Giver", "Beesmas", "Events"]
+tags: ["Removed Content", "NPC", "Bears", "Traveling Bears", "Quest Giver", "Beesmas", "Events"]
 ---
 
 # Bee Bear

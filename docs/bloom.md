@@ -1,6 +1,6 @@
 ---
 title: "Bloom"
-tags: ["Pages with broken file links", "Recent Update", "Mobs", "Passive Mobs"]
+tags: ["Recent Update", "Mobs", "Passive Mobs"]
 ---
 
 # Bloom

@@ -1,6 +1,6 @@
 ---
 title: "Honey Wreath"
-tags: ["Pages with broken file links", "Removed Content", "Machines", "Beesmas", "Locations", "Beesmas Decorations", "Summoner", "Starter Zone"]
+tags: ["Removed Content", "Machines", "Beesmas", "Locations", "Beesmas Decorations", "Summoner", "Starter Zone"]
 ---
 
 # Honey Wreath

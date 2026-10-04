@@ -1,6 +1,6 @@
 ---
 title: "Strawberry Dispenser"
-tags: ["Pages with broken file links", "Machines", "Locations", "Dispenser", "Red"]
+tags: ["Machines", "Locations", "Dispenser", "Red"]
 ---
 
 # Strawberry Dispenser

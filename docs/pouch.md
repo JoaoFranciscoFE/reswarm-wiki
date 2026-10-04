@@ -1,6 +1,6 @@
 ---
 title: "Pouch"
-tags: ["Bags", "Pages with broken file links", "Items"]
+tags: ["Bags", "Items"]
 ---
 
 # Pouch

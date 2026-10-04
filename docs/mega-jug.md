@@ -1,6 +1,6 @@
 ---
 title: "Mega-Jug"
-tags: ["Bags", "Pages with broken file links", "Items"]
+tags: ["Bags", "Items"]
 ---
 
 # Mega-Jug

@@ -1,6 +1,6 @@
 ---
 title: "Pro Bear"
-tags: ["Pages with broken file links", "NPC", "Bears"]
+tags: ["NPC", "Bears"]
 ---
 
 # Pro Bear

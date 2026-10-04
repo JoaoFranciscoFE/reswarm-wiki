@@ -1,6 +1,6 @@
 ---
 title: "Hub Field Shop"
-tags: ["Pages with broken file links", "Locations", "Shops", "Quest Giver", "Hive Hub"]
+tags: ["Locations", "Shops", "Quest Giver", "Hive Hub"]
 ---
 
 # Hub Field Shop

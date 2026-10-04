@@ -1,6 +1,6 @@
 ---
 title: "Hub Field"
-tags: ["Pages with broken file links", "Locations", "Fields", "Hive Hub"]
+tags: ["Locations", "Fields", "Hive Hub"]
 ---
 
 # Hub Field

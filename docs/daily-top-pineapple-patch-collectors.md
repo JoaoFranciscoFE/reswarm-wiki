@@ -1,6 +1,6 @@
 ---
 title: "Daily Top Pineapple Patch Collectors"
-tags: ["Pages with broken file links", "Leaderboards"]
+tags: ["Leaderboards"]
 ---
 
 # Daily Top Pineapple Patch Collectors

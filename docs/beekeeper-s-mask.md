@@ -1,6 +1,6 @@
 ---
 title: "Beekeeper's Mask"
-tags: ["Items", "Accessories", "Pages with broken file links", "Hats", "Crafted"]
+tags: ["Items", "Accessories", "Hats", "Crafted"]
 ---
 
 # Beekeeper's Mask

@@ -1,6 +1,6 @@
 ---
 title: "Mixed Brick Field"
-tags: ["Pages with broken file links", "Locations", "Fields", "Retro Swarm Challenge"]
+tags: ["Locations", "Fields", "Retro Swarm Challenge"]
 ---
 
 # Mixed Brick Field

@@ -1,6 +1,6 @@
 ---
 title: "Basic Sprinkler"
-tags: ["Items", "Sprinklers", "Pages with broken file links"]
+tags: ["Items", "Sprinklers"]
 ---
 
 # Basic Sprinkler

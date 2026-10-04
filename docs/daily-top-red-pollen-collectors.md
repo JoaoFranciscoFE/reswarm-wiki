@@ -1,6 +1,6 @@
 ---
 title: "Daily Top Red Pollen Collectors"
-tags: ["Pages with broken file links", "Leaderboards", "Locations", "Red"]
+tags: ["Leaderboards", "Locations", "Red"]
 ---
 
 # Daily Top Red Pollen Collectors

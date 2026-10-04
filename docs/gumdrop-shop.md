@@ -1,6 +1,6 @@
 ---
 title: "Gumdrop Shop"
-tags: ["Pages with broken file links", "Shops", "Locations", "Gummy Invasion", "Goo", "Machines"]
+tags: ["Shops", "Locations", "Gummy Invasion", "Goo", "Machines"]
 ---
 
 # Gumdrop Shop

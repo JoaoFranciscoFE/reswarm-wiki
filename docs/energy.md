@@ -1,6 +1,6 @@
 ---
 title: "Energy"
-tags: ["Pages with broken file links", "Mechanics"]
+tags: ["Mechanics"]
 ---
 
 # Energy

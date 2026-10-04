@@ -1,6 +1,6 @@
 ---
 title: "Dapper Bear"
-tags: ["Pages with broken file links", "NPC", "Bears", "Removed Content", "Quest Giver"]
+tags: ["NPC", "Bears", "Removed Content", "Quest Giver"]
 ---
 
 # Dapper Bear

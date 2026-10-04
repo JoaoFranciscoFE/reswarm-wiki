@@ -1,6 +1,6 @@
 ---
 title: "Golden Rake"
-tags: ["Pages with broken file links", "Items", "Tools"]
+tags: ["Items", "Tools"]
 ---
 
 # Golden Rake
