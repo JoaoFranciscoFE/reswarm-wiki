@@ -5,6 +5,8 @@ tags: ["Locations", "Fields", "Red", "Starter Zone"]
 
 # Mushroom Field
 
+![Mushroom Field](img/Mushroom_Field_Stamp.png){ align=right width=150 }
+
 Mushroom Field
 
 FIELD COLOR

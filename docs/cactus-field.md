@@ -5,6 +5,8 @@ tags: ["Locations", "Fields", "Red", "Blue"]
 
 # Cactus Field
 
+![Cactus Field](img/Cactus_Field_Stamp.png){ align=right width=150 }
+
 Cactus Field
 
 FIELD COLOR

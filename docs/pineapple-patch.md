@@ -5,6 +5,8 @@ tags: ["Locations", "Fields", "Colorless"]
 
 # Pineapple Patch
 
+![Pineapple Patch](img/Pineapple_Patch_Stamp.png){ align=right width=150 }
+
 Pineapple Patch
 
 FIELD COLOR

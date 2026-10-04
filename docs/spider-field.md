@@ -5,6 +5,8 @@ tags: ["Locations", "Fields", "Colorless"]
 
 # Spider Field
 
+![Spider Field](img/Spider_Field_Stamp.png){ align=right width=150 }
+
 Spider Field
 
 FIELD COLOR

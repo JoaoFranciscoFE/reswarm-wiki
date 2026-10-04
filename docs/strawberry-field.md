@@ -5,6 +5,8 @@ tags: ["Locations", "Fields", "Red"]
 
 # Strawberry Field
 
+![Strawberry Field](img/Strawberry_Field_Stamp.png){ align=right width=150 }
+
 Strawberry Field
 
 FIELD COLOR

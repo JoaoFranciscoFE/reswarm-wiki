@@ -5,6 +5,8 @@ tags: ["Locations", "Fields", "Hive Hub"]
 
 # Hub Field
 
+![Hub Field](img/Hub_Field_Stamp.png){ align=right width=150 }
+
 Hub Field
 
 FIELD COLOR

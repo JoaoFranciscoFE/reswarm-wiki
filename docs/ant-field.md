@@ -5,6 +5,8 @@ tags: ["Locations", "Fields", "Ant Challenge"]
 
 # Ant Field
 
+![Ant Field](img/Ant_Field_Stamp.png){ align=right width=150 }
+
 Ant Field
 
 FIELD COLOR

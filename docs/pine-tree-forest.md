@@ -5,6 +5,8 @@ tags: ["Locations", "Fields", "Blue"]
 
 # Pine Tree Forest
 
+![Pine Tree Forest](img/Pine_Tree_Forest_Stamp.png){ align=right width=150 }
+
 Pine Tree Forest
 
 FIELD COLOR

@@ -5,6 +5,8 @@ tags: ["Locations", "Fields", "Starter Zone"]
 
 # Clover Field
 
+![Clover Field](img/Clover_Field_Stamp.png){ align=right width=150 }
+
 Clover Field
 
 FIELD COLOR

@@ -5,6 +5,8 @@ tags: ["Locations", "Fields", "Blue"]
 
 # Bamboo Field
 
+![Bamboo Field](img/Bamboo_Field_Stamp.png){ align=right width=150 }
+
 Bamboo Field
 
 FIELD COLOR
