@@ -10,7 +10,7 @@ All 47 pages in Accessories.
 
 <div class="wiki-cards">
 <a class="wiki-card" href="amulet.html"><img src="img/Beekeeper's_Mask.png" alt="" loading="lazy"><span>Amulet</span></a>
-<a class="wiki-card" href="ant-amulet.html"><img src="img/Beekeeper's_Mask.png" alt="" loading="lazy"><span>Ant Amulet</span></a>
+<a class="wiki-card" href="ant-amulet.html"><img src="img/Ant_Amulet.png" alt="" loading="lazy"><span>Ant Amulet</span></a>
 <a class="wiki-card" href="b-b-m-mask.html"><img src="img/B.B.M._Mask.png" alt="" loading="lazy"><span>B.B.M. Mask</span></a>
 <a class="wiki-card" href="bags.html"><img src="img/Beekeeper's_Mask.png" alt="" loading="lazy"><span>Bags</span></a>
 <a class="wiki-card" href="basic-boots.html"><img src="img/Basic_Boots.png" alt="" loading="lazy"><span>Basic Boots</span></a>
@@ -26,7 +26,7 @@ All 47 pages in Accessories.
 <a class="wiki-card" href="cobalt-guard.html"><img src="img/Cobalt_Guard.png" alt="" loading="lazy"><span>Cobalt Guard</span></a>
 <a class="wiki-card" href="coconut-belt.html"><img src="img/Coconut_Belt.png" alt="" loading="lazy"><span>Coconut Belt</span></a>
 <a class="wiki-card" href="coconut-clogs.html"><img src="img/Coconut_Clogs.png" alt="" loading="lazy"><span>Coconut Clogs</span></a>
-<a class="wiki-card" href="cog-amulet.html"><img src="img/Beekeeper's_Mask.png" alt="" loading="lazy"><span>Cog Amulet</span></a>
+<a class="wiki-card" href="cog-amulet.html"><img src="img/Cog_Amulet.png" alt="" loading="lazy"><span>Cog Amulet</span></a>
 <a class="wiki-card" href="crimson-guard.html"><img src="img/Crimson_Guard.png" alt="" loading="lazy"><span>Crimson Guard</span></a>
 <a class="wiki-card" href="demon-mask.html"><img src="img/Demon_Mask.png" alt="" loading="lazy"><span>Demon Mask</span></a>
 <a class="wiki-card" href="diamond-mask.html"><img src="img/Diamond_Mask.png" alt="" loading="lazy"><span>Diamond Mask</span></a>
@@ -43,17 +43,17 @@ All 47 pages in Accessories.
 <a class="wiki-card" href="hive-slot.html"><img src="img/Beekeeper's_Mask.png" alt="" loading="lazy"><span>Hive Slot</span></a>
 <a class="wiki-card" href="honey-mask.html"><img src="img/Honey_Mask.png" alt="" loading="lazy"><span>Honey Mask</span></a>
 <a class="wiki-card" href="honeycomb-belt.html"><img src="img/Honeycomb_Belt.png" alt="" loading="lazy"><span>Honeycomb Belt</span></a>
-<a class="wiki-card" href="king-beetle-amulet.html"><img src="img/Beekeeper's_Mask.png" alt="" loading="lazy"><span>King Beetle Amulet</span></a>
+<a class="wiki-card" href="king-beetle-amulet.html"><img src="img/King_Beetle_Amulet.png" alt="" loading="lazy"><span>King Beetle Amulet</span></a>
 <a class="wiki-card" href="looker-guard.html"><img src="img/Looker_Guard.png" alt="" loading="lazy"><span>Looker Guard</span></a>
 <a class="wiki-card" href="mondo-b-b-m-mask.html"><img src="img/Mondo_B.B.M._Mask.png" alt="" loading="lazy"><span>Mondo B.B.M. Mask</span></a>
 <a class="wiki-card" href="mondo-belt-bag.html"><img src="img/Mondo_Belt_Bag.png" alt="" loading="lazy"><span>Mondo Belt Bag</span></a>
-<a class="wiki-card" href="moon-amulet.html"><img src="img/Beekeeper's_Mask.png" alt="" loading="lazy"><span>Moon Amulet</span></a>
+<a class="wiki-card" href="moon-amulet.html"><img src="img/Moon_Amulet.png" alt="" loading="lazy"><span>Moon Amulet</span></a>
 <a class="wiki-card" href="parachute.html"><img src="img/Beekeeper's_Mask.png" alt="" loading="lazy"><span>Parachute</span></a>
 <a class="wiki-card" href="petal-belt.html"><img src="img/Petal_Belt.png" alt="" loading="lazy"><span>Petal Belt</span></a>
 <a class="wiki-card" href="propeller-hat.html"><img src="img/Propeller_Hat.png" alt="" loading="lazy"><span>Propeller Hat</span></a>
 <a class="wiki-card" href="red-guard.html"><img src="img/Red_Guard.png" alt="" loading="lazy"><span>Red Guard</span></a>
 <a class="wiki-card" href="riley-guard.html"><img src="img/Riley_Guard.png" alt="" loading="lazy"><span>Riley Guard</span></a>
-<a class="wiki-card" href="shell-amulet.html"><img src="img/Beekeeper's_Mask.png" alt="" loading="lazy"><span>Shell Amulet</span></a>
-<a class="wiki-card" href="star-amulet.html"><img src="img/Beekeeper's_Mask.png" alt="" loading="lazy"><span>Star Amulet</span></a>
-<a class="wiki-card" href="stick-bug-amulet.html"><img src="img/Beekeeper's_Mask.png" alt="" loading="lazy"><span>Stick Bug Amulet</span></a>
+<a class="wiki-card" href="shell-amulet.html"><img src="img/Shell_Amulet.png" alt="" loading="lazy"><span>Shell Amulet</span></a>
+<a class="wiki-card" href="star-amulet.html"><img src="img/Star_Amulet.png" alt="" loading="lazy"><span>Star Amulet</span></a>
+<a class="wiki-card" href="stick-bug-amulet.html"><img src="img/Stick_Bug_Amulet.png" alt="" loading="lazy"><span>Stick Bug Amulet</span></a>
 </div>

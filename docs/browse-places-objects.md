@@ -41,9 +41,9 @@ All 40 pages in Places & Objects.
 <a class="wiki-card" href="star-hall.html"><img src="img/Port-O-Hive.png" alt="" loading="lazy"><span>Star Hall</span></a>
 <a class="wiki-card" href="starter-zone.html"><img src="img/Port-O-Hive.png" alt="" loading="lazy"><span>Starter Zone</span></a>
 <a class="wiki-card" href="sticker-printer.html"><img src="img/Port-O-Hive.png" alt="" loading="lazy"><span>Sticker Printer</span></a>
-<a class="wiki-card" href="sticker-stack.html"><img src="img/Port-O-Hive.png" alt="" loading="lazy"><span>Sticker Stack</span></a>
+<a class="wiki-card" href="sticker-stack.html"><img src="img/Sticker_Stack.png" alt="" loading="lazy"><span>Sticker Stack</span></a>
 <a class="wiki-card" href="ticket-tent.html"><img src="img/Port-O-Hive.png" alt="" loading="lazy"><span>Ticket Tent</span></a>
-<a class="wiki-card" href="wealth-clock.html"><img src="img/Port-O-Hive.png" alt="" loading="lazy"><span>Wealth Clock</span></a>
+<a class="wiki-card" href="wealth-clock.html"><img src="img/Wealth_Clock.png" alt="" loading="lazy"><span>Wealth Clock</span></a>
 <a class="wiki-card" href="werewolf-s-cave.html"><img src="img/Port-O-Hive.png" alt="" loading="lazy"><span>Werewolf&#x27;s Cave</span></a>
 <a class="wiki-card" href="white-tunnel.html"><img src="img/Port-O-Hive.png" alt="" loading="lazy"><span>White Tunnel</span></a>
 <a class="wiki-card" href="wind-shrine.html"><img src="img/Port-O-Hive.png" alt="" loading="lazy"><span>Wind Shrine</span></a>

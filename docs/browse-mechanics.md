@@ -24,7 +24,7 @@ All 49 pages in Mechanics.
 <a class="wiki-card" href="cloud.html"><img src="img/Field_Dice.png" alt="" loading="lazy"><span>Cloud</span></a>
 <a class="wiki-card" href="codes.html"><img src="img/Field_Dice.png" alt="" loading="lazy"><span>Codes</span></a>
 <a class="wiki-card" href="critical-hits.html"><img src="img/Field_Dice.png" alt="" loading="lazy"><span>Critical Hits</span></a>
-<a class="wiki-card" href="cub-buddy.html"><img src="img/Field_Dice.png" alt="" loading="lazy"><span>Cub Buddy</span></a>
+<a class="wiki-card" href="cub-buddy.html"><img src="img/Cub_Buddy.png" alt="" loading="lazy"><span>Cub Buddy</span></a>
 <a class="wiki-card" href="day-night-cycle.html"><img src="img/Field_Dice.png" alt="" loading="lazy"><span>Day/Night Cycle</span></a>
 <a class="wiki-card" href="emoticons.html"><img src="img/Field_Dice.png" alt="" loading="lazy"><span>Emoticons</span></a>
 <a class="wiki-card" href="energy.html"><img src="img/Field_Dice.png" alt="" loading="lazy"><span>Energy</span></a>
@@ -36,7 +36,7 @@ All 49 pages in Mechanics.
 <a class="wiki-card" href="gifted-bee.html"><img src="img/Field_Dice.png" alt="" loading="lazy"><span>Gifted Bee</span></a>
 <a class="wiki-card" href="goo.html"><img src="img/Field_Dice.png" alt="" loading="lazy"><span>Goo</span></a>
 <a class="wiki-card" href="hive.html"><img src="img/Field_Dice.png" alt="" loading="lazy"><span>Hive</span></a>
-<a class="wiki-card" href="honey.html"><img src="img/Field_Dice.png" alt="" loading="lazy"><span>Honey</span></a>
+<a class="wiki-card" href="honey.html"><img src="img/Honey.png" alt="" loading="lazy"><span>Honey</span></a>
 <a class="wiki-card" href="honey-per-pollen.html"><img src="img/Field_Dice.png" alt="" loading="lazy"><span>Honey Per Pollen</span></a>
 <a class="wiki-card" href="instant-conversion.html"><img src="img/Field_Dice.png" alt="" loading="lazy"><span>Instant Conversion</span></a>
 <a class="wiki-card" href="leaves.html"><img src="img/Field_Dice.png" alt="" loading="lazy"><span>Leaves</span></a>
@@ -55,7 +55,7 @@ All 49 pages in Mechanics.
 <a class="wiki-card" href="sparkles.html"><img src="img/Field_Dice.png" alt="" loading="lazy"><span>Sparkles</span></a>
 <a class="wiki-card" href="sprout.html"><img src="img/Sprout.png" alt="" loading="lazy"><span>Sprout</span></a>
 <a class="wiki-card" href="stats.html"><img src="img/Field_Dice.png" alt="" loading="lazy"><span>Stats</span></a>
-<a class="wiki-card" href="sticker.html"><img src="img/Field_Dice.png" alt="" loading="lazy"><span>Sticker</span></a>
+<a class="wiki-card" href="sticker.html"><img src="img/Sticker.png" alt="" loading="lazy"><span>Sticker</span></a>
 <a class="wiki-card" href="system-page.html"><img src="img/Field_Dice.png" alt="" loading="lazy"><span>System Page</span></a>
 <a class="wiki-card" href="trading.html"><img src="img/Field_Dice.png" alt="" loading="lazy"><span>Trading</span></a>
 </div>

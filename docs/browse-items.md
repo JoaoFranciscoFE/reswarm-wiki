@@ -131,7 +131,7 @@ All 212 pages in Items.
 <a class="wiki-card" href="moon-charm.html"><img src="img/Moon_Charm.png" alt="" loading="lazy"><span>Moon Charm</span></a>
 <a class="wiki-card" href="motivating-vial.html"><img src="img/Motivating_Vial.png" alt="" loading="lazy"><span>Motivating Vial</span></a>
 <a class="wiki-card" href="nectar-shower-vial.html"><img src="img/Nectar_Shower_Vial.png" alt="" loading="lazy"><span>Nectar Shower Vial</span></a>
-<a class="wiki-card" href="nectar-tester.html"><img src="img/Royal_Jelly.png" alt="" loading="lazy"><span>Nectar Tester</span></a>
+<a class="wiki-card" href="nectar-tester.html"><img src="img/Nectar_Tester.png" alt="" loading="lazy"><span>Nectar Tester</span></a>
 <a class="wiki-card" href="nectar-vial.html"><img src="img/Royal_Jelly.png" alt="" loading="lazy"><span>Nectar Vial</span></a>
 <a class="wiki-card" href="neonberry.html"><img src="img/Neonberry.png" alt="" loading="lazy"><span>Neonberry</span></a>
 <a class="wiki-card" href="night-bell.html"><img src="img/Night_Bell.png" alt="" loading="lazy"><span>Night Bell</span></a>
@@ -191,7 +191,7 @@ All 212 pages in Items.
 <a class="wiki-card" href="sprinklers.html"><img src="img/Royal_Jelly.png" alt="" loading="lazy"><span>Sprinklers</span></a>
 <a class="wiki-card" href="star-treat.html"><img src="img/Star_Treat.png" alt="" loading="lazy"><span>Star Treat</span></a>
 <a class="wiki-card" href="sticker-planter.html"><img src="img/Sticker_Planter.png" alt="" loading="lazy"><span>Sticker Planter</span></a>
-<a class="wiki-card" href="sticker-seeker.html"><img src="img/Royal_Jelly.png" alt="" loading="lazy"><span>Sticker-Seeker</span></a>
+<a class="wiki-card" href="sticker-seeker.html"><img src="img/Sticker-Seeker.png" alt="" loading="lazy"><span>Sticker-Seeker</span></a>
 <a class="wiki-card" href="stinger.html"><img src="img/Stinger.png" alt="" loading="lazy"><span>Stinger</span></a>
 <a class="wiki-card" href="strawberry.html"><img src="img/Strawberry.png" alt="" loading="lazy"><span>Strawberry</span></a>
 <a class="wiki-card" href="sunflower-seed.html"><img src="img/Sunflower_Seed.png" alt="" loading="lazy"><span>Sunflower Seed</span></a>
@@ -209,7 +209,7 @@ All 212 pages in Items.
 <a class="wiki-card" href="tide-popper.html"><img src="img/Tide_Popper.png" alt="" loading="lazy"><span>Tide Popper</span></a>
 <a class="wiki-card" href="tools.html"><img src="img/Royal_Jelly.png" alt="" loading="lazy"><span>Tools</span></a>
 <a class="wiki-card" href="toy-drum.html"><img src="img/Toy_Drum.png" alt="" loading="lazy"><span>Toy Drum</span></a>
-<a class="wiki-card" href="toy-horn.html"><img src="img/Royal_Jelly.png" alt="" loading="lazy"><span>Toy Horn</span></a>
+<a class="wiki-card" href="toy-horn.html"><img src="img/Toy_Horn.png" alt="" loading="lazy"><span>Toy Horn</span></a>
 <a class="wiki-card" href="translator.html"><img src="img/Translator.png" alt="" loading="lazy"><span>Translator</span></a>
 <a class="wiki-card" href="treat.html"><img src="img/Treat.png" alt="" loading="lazy"><span>Treat</span></a>
 <a class="wiki-card" href="treats.html"><img src="img/Royal_Jelly.png" alt="" loading="lazy"><span>Treats</span></a>
@@ -217,7 +217,7 @@ All 212 pages in Items.
 <a class="wiki-card" href="turpentine.html"><img src="img/Turpentine.png" alt="" loading="lazy"><span>Turpentine</span></a>
 <a class="wiki-card" href="vacuum.html"><img src="img/Vacuum.png" alt="" loading="lazy"><span>Vacuum</span></a>
 <a class="wiki-card" href="warm-scarf.html"><img src="img/Warm_Scarf.png" alt="" loading="lazy"><span>Warm Scarf</span></a>
-<a class="wiki-card" href="waxes.html"><img src="img/Royal_Jelly.png" alt="" loading="lazy"><span>Waxes</span></a>
+<a class="wiki-card" href="waxes.html"><img src="img/Waxes.png" alt="" loading="lazy"><span>Waxes</span></a>
 <a class="wiki-card" href="whirligig.html"><img src="img/Whirligig.png" alt="" loading="lazy"><span>Whirligig</span></a>
 <a class="wiki-card" href="whistle.html"><img src="img/Whistle.png" alt="" loading="lazy"><span>Whistle</span></a>
 <a class="wiki-card" href="white-balloon.html"><img src="img/White_Balloon.png" alt="" loading="lazy"><span>White Balloon</span></a>
