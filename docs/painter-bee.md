@@ -5,7 +5,30 @@ tags: ["Bees", "Event", "Colorless", "Painter Bee Event", "Re://:Swarm"]
 
 # Painter Bee
 
-*"An artistic bee who sees every field as a blank canvas."*
+<div class="bee-infobox bee-rarity-event">
+<div class="bee-infobox-title">Painter Bee</div>
+<div class="bee-infobox-tabs">
+<input type="radio" name="bee-infobox-tab" id="bee-tab-original" checked>
+<label for="bee-tab-original">Original</label>
+<input type="radio" name="bee-infobox-tab" id="bee-tab-gifted">
+<label for="bee-tab-gifted">Gifted</label>
+<div class="bee-infobox-image bee-tab-original"><img alt="Painter Bee" src="img/Painter_Bee.png" width="150" height="150"></div>
+<div class="bee-infobox-image bee-tab-gifted"><img alt="Gifted Painter Bee" src="img/Gifted_Painter_Bee.png" width="150" height="150"></div>
+</div>
+<div class="bee-infobox-quote"><i>"An artistic bee who sees every field as a blank canvas."</i></div>
+<div class="bee-infobox-row"><b>Rarity</b><span>Event</span></div>
+<div class="bee-infobox-row"><b>Color</b><span>Colorless</span></div>
+<div class="bee-infobox-stats">
+<div><b>Energy</b><span>45</span></div>
+<div><b>Speed</b><span>12</span></div>
+<div><b>Attack</b><span>4</span></div>
+</div>
+<div class="bee-infobox-header">Color Scheme</div>
+<div class="bee-infobox-scheme">
+<div class="bee-infobox-stripes"><span style="background:#929baa"></span><span style="background:#572590"></span><span style="background:#929baa"></span></div>
+<div class="bee-infobox-swatch"><b>Skin</b><code>#929baa</code><code>#572590</code><code>#929baa</code></div>
+</div>
+</div>
 
 **Painter Bee** is a Colorless [Event bee](bees-event.md) added in the [Painter Bee event](painter-bee-event.md). Its body is grey, and the [Gifted](gifted-bee.md) version is light blue.
 

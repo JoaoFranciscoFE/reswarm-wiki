@@ -5,56 +5,30 @@ tags: ["Pages with broken file links", "Bees", "Epic", "Colorless"]
 
 # Exhausted Bee
 
-<table class="infobox templateBeeDefault">
-<tbody><tr>
-<td class="templateBeeTitle templateBeeEpicText" colspan="3"><b>Exhausted Bee</b>
-</td></tr>
-<tr>
-<td class="templateBeeTabber" colspan="3"><center>
-<div><h3>Original</h3>
-<p><img alt="Exhausted Bee" height="150" src="img/Exhausted_Bee.png" width="150"/>
-</p>
-<h3>Gifted</h3>
-<p><img alt="Gifted Exhausted Bee" height="150" src="img/Gifted_Exhausted_Bee.png" width="150"/>
-</p>
+<div class="bee-infobox bee-rarity-epic">
+<div class="bee-infobox-title">Exhausted Bee</div>
+<div class="bee-infobox-tabs">
+<input type="radio" name="bee-infobox-tab" id="bee-tab-original" checked>
+<label for="bee-tab-original">Original</label>
+<input type="radio" name="bee-infobox-tab" id="bee-tab-gifted">
+<label for="bee-tab-gifted">Gifted</label>
+<div class="bee-infobox-image bee-tab-original"><img alt="Exhausted Bee" src="img/Exhausted_Bee.png" width="150" height="150"></div>
+<div class="bee-infobox-image bee-tab-gifted"><img alt="Gifted Exhausted Bee" src="img/Gifted_Exhausted_Bee.png" width="150" height="150"></div>
 </div>
-</center>
-</td></tr>
-<tr>
-<td class="templateBeeDesc" colspan="3"><i>"This bee suffers from insomnia. It moves slowly, but it never has to sleep."</i>
-</td></tr>
-<tr>
-<td class="templateBeeDefaultCell" colspan="3"><b>Rarity</b> <br/> Epic
-</td></tr>
-<tr>
-<td class="templateBeeDefaultCell" colspan="3"><b>Color</b> <br/> Colorless
-</td></tr>
-<tr>
-<td class="templateBeeStatCell templateBeeGoodStat"><b>Energy</b> <br/> Unlimited
-</td>
-<td class="templateBeeStatCell templateBeeBadStat"><b>Speed</b> <br/> 10.5
-</td>
-<td class="templateBeeStatCell templateBeeGoodStat"><b>Attack</b> <br/> 2
-</td></tr>
-<tr>
-<td class="templateBeeHeader templateBeeEpicText" colspan="3">COLOR SCHEME
-</td></tr>
-<tr>
-<td colspan="3"><table class="templateBeeDefaultStripeTable">
-<tbody><tr>
-<td>
-<div class="templateBeeLeftStripeBar templateBeeExhaustedBeeSkinColor1" style="background-color: #1b2a36"> </div>
-<div class="templateBeeMiddleStripeBar templateBeeExhaustedBeeSkinColor2" style="background-color: #9f9f9f"> </div>
-<div class="templateBeeRightStripeBar templateBeeExhaustedBeeSkinColor3" style="background-color: #1b2a36"> </div>
-<p class="templateBeeSeparator1"><br class="templateBeeSeparator2"/></p>
-<div class="templateBeeColorBox">
-<p class="templateBeeSkinColorHeader">Skin</p>
-<p class="templateBeeSkinColorText templateBeeSkinColorText1">#1b2a36</p>
-<p class="templateBeeSkinColorText templateBeeSkinColorText2">#9f9f9f</p>
-<p class="templateBeeSkinColorText templateBeeSkinColorText3">#1b2a36</p></div>
-</td></tr>
-</tbody></table>
-</td></tr></tbody></table>
+<div class="bee-infobox-quote"><i>"This bee suffers from insomnia. It moves slowly, but it never has to sleep."</i></div>
+<div class="bee-infobox-row"><b>Rarity</b><span>Epic</span></div>
+<div class="bee-infobox-row"><b>Color</b><span>Colorless</span></div>
+<div class="bee-infobox-stats">
+<div><b>Energy</b><span>∞</span></div>
+<div><b>Speed</b><span>10.5</span></div>
+<div><b>Attack</b><span>2</span></div>
+</div>
+<div class="bee-infobox-header">Color Scheme</div>
+<div class="bee-infobox-scheme">
+<div class="bee-infobox-stripes"><span style="background:#1b2a36"></span><span style="background:#9f9f9f"></span><span style="background:#1b2a36"></span></div>
+<div class="bee-infobox-swatch"><b>Skin</b><code>#1b2a36</code><code>#9f9f9f</code><code>#1b2a36</code></div>
+</div>
+</div>
 
 **Exhausted Bee** is a Colorless [Epic bee](bees-epic.md).
 

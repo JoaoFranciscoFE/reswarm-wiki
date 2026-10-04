@@ -5,56 +5,30 @@ tags: ["Pages with broken file links", "Bees", "Event", "Colorless"]
 
 # Puppy Bee
 
-<table class="infobox templateBeeDefault">
-<tbody><tr>
-<td class="templateBeeTitle templateBeeEventText" colspan="3"><b>Puppy Bee</b>
-</td></tr>
-<tr>
-<td class="templateBeeTabber" colspan="3"><center>
-<div><h3>Original</h3>
-<p><img alt="Puppy Bee" height="150" src="img/Puppy_Bee.png" width="150"/>
-</p>
-<h3>Gifted</h3>
-<p><img alt="Gifted Puppy Bee" height="150" src="img/Gifted_Puppy_Bee.png" width="150"/>
-</p>
+<div class="bee-infobox bee-rarity-event">
+<div class="bee-infobox-title">Puppy Bee</div>
+<div class="bee-infobox-tabs">
+<input type="radio" name="bee-infobox-tab" id="bee-tab-original" checked>
+<label for="bee-tab-original">Original</label>
+<input type="radio" name="bee-infobox-tab" id="bee-tab-gifted">
+<label for="bee-tab-gifted">Gifted</label>
+<div class="bee-infobox-image bee-tab-original"><img alt="Puppy Bee" src="img/Puppy_Bee.png" width="150" height="150"></div>
+<div class="bee-infobox-image bee-tab-gifted"><img alt="Gifted Puppy Bee" src="img/Gifted_Puppy_Bee.png" width="150" height="150"></div>
 </div>
-</center>
-</td></tr>
-<tr>
-<td class="templateBeeDesc" colspan="3"><i>"A playful bee who only cares about two things, its tennis ball and you!"</i>
-</td></tr>
-<tr>
-<td class="templateBeeDefaultCell" colspan="3"><b>Rarity</b> <br/> Event
-</td></tr>
-<tr>
-<td class="templateBeeDefaultCell" colspan="3"><b>Color</b> <br/> Colorless
-</td></tr>
-<tr>
-<td class="templateBeeStatCell templateBeeGoodStat"><b>Energy</b> <br/> 40
-</td>
-<td class="templateBeeStatCell templateBeeGoodStat"><b>Speed</b> <br/> 16.1
-</td>
-<td class="templateBeeStatCell templateBeeGoodStat"><b>Attack</b> <br/> 2
-</td></tr>
-<tr>
-<td class="templateBeeHeader templateBeeEventText" colspan="3">COLOR SCHEME
-</td></tr>
-<tr>
-<td colspan="3"><table class="templateBeeDefaultStripeTable">
-<tbody><tr>
-<td>
-<div class="templateBeeLeftStripeBar templateBeePuppyBeeSkinColor1" style="background-color: #ffe089"> </div>
-<div class="templateBeeMiddleStripeBar templateBeePuppyBeeSkinColor2" style="background-color: #453529"> </div>
-<div class="templateBeeRightStripeBar templateBeePuppyBeeSkinColor3" style="background-color: #ffe089"> </div>
-<p class="templateBeeSeparator1"><br class="templateBeeSeparator2"/></p>
-<div class="templateBeeColorBox">
-<p class="templateBeeSkinColorHeader">Skin</p>
-<p class="templateBeeSkinColorText templateBeeSkinColorText1">#ffe089</p>
-<p class="templateBeeSkinColorText templateBeeSkinColorText2">#453529</p>
-<p class="templateBeeSkinColorText templateBeeSkinColorText3">#ffe089</p></div>
-</td></tr>
-</tbody></table>
-</td></tr></tbody></table>
+<div class="bee-infobox-quote"><i>"A playful bee who only cares about two things, its tennis ball and you!"</i></div>
+<div class="bee-infobox-row"><b>Rarity</b><span>Event</span></div>
+<div class="bee-infobox-row"><b>Color</b><span>Colorless</span></div>
+<div class="bee-infobox-stats">
+<div><b>Energy</b><span>40</span></div>
+<div><b>Speed</b><span>16.1</span></div>
+<div><b>Attack</b><span>2</span></div>
+</div>
+<div class="bee-infobox-header">Color Scheme</div>
+<div class="bee-infobox-scheme">
+<div class="bee-infobox-stripes"><span style="background:#ffe089"></span><span style="background:#453529"></span><span style="background:#ffe089"></span></div>
+<div class="bee-infobox-swatch"><b>Skin</b><code>#ffe089</code><code>#453529</code><code>#ffe089</code></div>
+</div>
+</div>
 
 **Puppy Bee** is a Colorless [Event bee](bees-event.md). It hatches out of a [Puppy Bee Egg](egg.md#Puppy_Bee_Egg), which is available in the [Ticket Tent](ticket-tent.md) for 500 [Tickets](ticket.md).
 

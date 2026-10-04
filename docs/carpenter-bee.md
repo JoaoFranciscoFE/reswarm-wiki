@@ -5,56 +5,30 @@ tags: ["Pages with broken file links", "Bees", "Legendary", "Colorless"]
 
 # Carpenter Bee
 
-<table class="infobox templateBeeDefault">
-<tbody><tr>
-<td class="templateBeeTitle templateBeeLegendaryText" colspan="3"><b>Carpenter Bee</b>
-</td></tr>
-<tr>
-<td class="templateBeeTabber" colspan="3"><center>
-<div><h3>Original</h3>
-<p><img alt="Carpenter Bee" height="150" src="img/Carpenter_Bee.png" width="150"/>
-</p>
-<h3>Gifted</h3>
-<p><img alt="Gifted Carpenter Bee" height="150" src="img/Gifted_Carpenter_Bee.png" width="150"/>
-</p>
+<div class="bee-infobox bee-rarity-legendary">
+<div class="bee-infobox-title">Carpenter Bee</div>
+<div class="bee-infobox-tabs">
+<input type="radio" name="bee-infobox-tab" id="bee-tab-original" checked>
+<label for="bee-tab-original">Original</label>
+<input type="radio" name="bee-infobox-tab" id="bee-tab-gifted">
+<label for="bee-tab-gifted">Gifted</label>
+<div class="bee-infobox-image bee-tab-original"><img alt="Carpenter Bee" src="img/Carpenter_Bee.png" width="150" height="150"></div>
+<div class="bee-infobox-image bee-tab-gifted"><img alt="Gifted Carpenter Bee" src="img/Gifted_Carpenter_Bee.png" width="150" height="150"></div>
 </div>
-</center>
-</td></tr>
-<tr>
-<td class="templateBeeDesc" colspan="3"><i>"A bee with a knack for construction. It built its own body out of wood."</i>
-</td></tr>
-<tr>
-<td class="templateBeeDefaultCell" colspan="3"><b>Rarity</b> <br/> Legendary
-</td></tr>
-<tr>
-<td class="templateBeeDefaultCell" colspan="3"><b>Color</b> <br/> Colorless
-</td></tr>
-<tr>
-<td class="templateBeeStatCell templateBeeGoodStat"><b>Energy</b> <br/> 25
-</td>
-<td class="templateBeeStatCell templateBeeBadStat"><b>Speed</b> <br/> 11.2
-</td>
-<td class="templateBeeStatCell templateBeeGoodStat"><b>Attack</b> <br/> 5
-</td></tr>
-<tr>
-<td class="templateBeeHeader templateBeeLegendaryText" colspan="3">COLOR SCHEME
-</td></tr>
-<tr>
-<td colspan="3"><table class="templateBeeDefaultStripeTable">
-<tbody><tr>
-<td>
-<div class="templateBeeLeftStripeBar templateBeeCarpenterBeeSkinColor1" style="background-color: #966A55"> </div>
-<div class="templateBeeMiddleStripeBar templateBeeCarpenterBeeSkinColor2" style="background-color: #FFC812"> </div>
-<div class="templateBeeRightStripeBar templateBeeCarpenterBeeSkinColor3" style="background-color: #966A55"> </div>
-<p class="templateBeeSeparator1"><br class="templateBeeSeparator2"/></p>
-<div class="templateBeeColorBox">
-<p class="templateBeeSkinColorHeader">Skin</p>
-<p class="templateBeeSkinColorText templateBeeSkinColorText1">#966A55</p>
-<p class="templateBeeSkinColorText templateBeeSkinColorText2">#FFC812</p>
-<p class="templateBeeSkinColorText templateBeeSkinColorText3">#966A55</p></div>
-</td></tr>
-</tbody></table>
-</td></tr></tbody></table>
+<div class="bee-infobox-quote"><i>"A bee with a knack for construction. It built its own body out of wood."</i></div>
+<div class="bee-infobox-row"><b>Rarity</b><span>Legendary</span></div>
+<div class="bee-infobox-row"><b>Color</b><span>Colorless</span></div>
+<div class="bee-infobox-stats">
+<div><b>Energy</b><span>25</span></div>
+<div><b>Speed</b><span>11.2</span></div>
+<div><b>Attack</b><span>5</span></div>
+</div>
+<div class="bee-infobox-header">Color Scheme</div>
+<div class="bee-infobox-scheme">
+<div class="bee-infobox-stripes"><span style="background:#966a55"></span><span style="background:#ffc812"></span><span style="background:#966a55"></span></div>
+<div class="bee-infobox-swatch"><b>Skin</b><code>#966a55</code><code>#ffc812</code><code>#966a55</code></div>
+</div>
+</div>
 
 **Carpenter Bee** is a Colorless [Legendary bee](bees-legendary.md).
 

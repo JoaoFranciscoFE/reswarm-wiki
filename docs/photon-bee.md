@@ -5,56 +5,30 @@ tags: ["Pages with broken file links", "Bees", "Colorless", "Event"]
 
 # Photon Bee
 
-<table class="infobox templateBeeDefault">
-<tbody><tr>
-<td class="templateBeeTitle templateBeeEventText" colspan="3"><b>Photon Bee</b>
-</td></tr>
-<tr>
-<td class="templateBeeTabber" colspan="3"><center>
-<div><h3>Original</h3>
-<p><img alt="Photon Bee" height="150" src="img/Photon_Bee.png" width="150"/>
-</p>
-<h3>Gifted</h3>
-<p><img alt="Gifted Photon Bee" height="150" src="img/Gifted_Photon_Bee.png" width="150"/>
-</p>
+<div class="bee-infobox bee-rarity-event">
+<div class="bee-infobox-title">Photon Bee</div>
+<div class="bee-infobox-tabs">
+<input type="radio" name="bee-infobox-tab" id="bee-tab-original" checked>
+<label for="bee-tab-original">Original</label>
+<input type="radio" name="bee-infobox-tab" id="bee-tab-gifted">
+<label for="bee-tab-gifted">Gifted</label>
+<div class="bee-infobox-image bee-tab-original"><img alt="Photon Bee" src="img/Photon_Bee.png" width="150" height="150"></div>
+<div class="bee-infobox-image bee-tab-gifted"><img alt="Gifted Photon Bee" src="img/Gifted_Photon_Bee.png" width="150" height="150"></div>
 </div>
-</center>
-</td></tr>
-<tr>
-<td class="templateBeeDesc" colspan="3"><i>"An entity made of pure light temporarily taking on the form of a bee."</i>
-</td></tr>
-<tr>
-<td class="templateBeeDefaultCell" colspan="3"><b>Rarity</b> <br/> Event
-</td></tr>
-<tr>
-<td class="templateBeeDefaultCell" colspan="3"><b>Color</b> <br/> Colorless
-</td></tr>
-<tr>
-<td class="templateBeeStatCell templateBeeGoodStat"><b>Energy</b> <br/> Unlimited
-</td>
-<td class="templateBeeStatCell templateBeeGoodStat"><b>Speed</b> <br/> 21
-</td>
-<td class="templateBeeStatCell templateBeeGoodStat"><b>Attack</b> <br/> 4
-</td></tr>
-<tr>
-<td class="templateBeeHeader templateBeeEventText" colspan="3">COLOR SCHEME
-</td></tr>
-<tr>
-<td colspan="3"><table class="templateBeeDefaultStripeTable">
-<tbody><tr>
-<td>
-<div class="templateBeeLeftStripeBar templateBeePhotonBeeSkinColor1" style="background-color: #e7ff2c"> </div>
-<div class="templateBeeMiddleStripeBar templateBeePhotonBeeSkinColor2" style="background-color: #f1f1f1"> </div>
-<div class="templateBeeRightStripeBar templateBeePhotonBeeSkinColor3" style="background-color: #e7ff2c"> </div>
-<p class="templateBeeSeparator1"><br class="templateBeeSeparator2"/></p>
-<div class="templateBeeColorBox">
-<p class="templateBeeSkinColorHeader">Skin</p>
-<p class="templateBeeSkinColorText templateBeeSkinColorText1">#e7ff2c</p>
-<p class="templateBeeSkinColorText templateBeeSkinColorText2">#f1f1f1</p>
-<p class="templateBeeSkinColorText templateBeeSkinColorText3">#e7ff2c</p></div>
-</td></tr>
-</tbody></table>
-</td></tr></tbody></table>
+<div class="bee-infobox-quote"><i>"An entity made of pure light temporarily taking on the form of a bee."</i></div>
+<div class="bee-infobox-row"><b>Rarity</b><span>Event</span></div>
+<div class="bee-infobox-row"><b>Color</b><span>Colorless</span></div>
+<div class="bee-infobox-stats">
+<div><b>Energy</b><span>∞</span></div>
+<div><b>Speed</b><span>21</span></div>
+<div><b>Attack</b><span>4</span></div>
+</div>
+<div class="bee-infobox-header">Color Scheme</div>
+<div class="bee-infobox-scheme">
+<div class="bee-infobox-stripes"><span style="background:#e7ff2c"></span><span style="background:#f1f1f1"></span><span style="background:#e7ff2c"></span></div>
+<div class="bee-infobox-swatch"><b>Skin</b><code>#e7ff2c</code><code>#f1f1f1</code><code>#e7ff2c</code></div>
+</div>
+</div>
 
 **Photon Bee** is a Colorless [Event bee](bees-event.md) that hatches out of a [Photon Bee Egg](egg.md#Photon_Bee_Egg), which is available in the [Ticket Tent](ticket-tent.md) for 500 [Tickets](ticket.md).
 

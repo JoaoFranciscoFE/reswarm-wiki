@@ -5,56 +5,30 @@ tags: ["Pages with broken file links", "Bees", "Rare", "Colorless"]
 
 # Brave Bee
 
-<table class="infobox templateBeeDefault">
-<tbody><tr>
-<td class="templateBeeTitle templateBeeRareText" colspan="3"><b>Brave Bee</b>
-</td></tr>
-<tr>
-<td class="templateBeeTabber" colspan="3"><center>
-<div><h3>Original</h3>
-<p><img alt="Brave Bee" height="150" src="img/Brave_Bee.png" width="150"/>
-</p>
-<h3>Gifted</h3>
-<p><img alt="Gifted Brave Bee" height="150" src="img/Gifted_Brave_Bee.png" width="150"/>
-</p>
+<div class="bee-infobox bee-rarity-rare">
+<div class="bee-infobox-title">Brave Bee</div>
+<div class="bee-infobox-tabs">
+<input type="radio" name="bee-infobox-tab" id="bee-tab-original" checked>
+<label for="bee-tab-original">Original</label>
+<input type="radio" name="bee-infobox-tab" id="bee-tab-gifted">
+<label for="bee-tab-gifted">Gifted</label>
+<div class="bee-infobox-image bee-tab-original"><img alt="Brave Bee" src="img/Brave_Bee.png" width="150" height="150"></div>
+<div class="bee-infobox-image bee-tab-gifted"><img alt="Gifted Brave Bee" src="img/Gifted_Brave_Bee.png" width="150" height="150"></div>
 </div>
-</center>
-</td></tr>
-<tr>
-<td class="templateBeeDesc" colspan="3"><i>"This loyal bee will do anything to protect its owner."</i>
-</td></tr>
-<tr>
-<td class="templateBeeDefaultCell" colspan="3"><b>Rarity</b> <br/> Rare
-</td></tr>
-<tr>
-<td class="templateBeeDefaultCell" colspan="3"><b>Color</b> <br/> Colorless
-</td></tr>
-<tr>
-<td class="templateBeeStatCell templateBeeGoodStat"><b>Energy</b> <br/> 30
-</td>
-<td class="templateBeeStatCell templateBeeGoodStat"><b>Speed</b> <br/> 16.8
-</td>
-<td class="templateBeeStatCell templateBeeGoodStat"><b>Attack</b> <br/> 6
-</td></tr>
-<tr>
-<td class="templateBeeHeader templateBeeRareText" colspan="3">COLOR SCHEME
-</td></tr>
-<tr>
-<td colspan="3"><table class="templateBeeDefaultStripeTable">
-<tbody><tr>
-<td>
-<div class="templateBeeLeftStripeBar templateBeeBraveBeeSkinColor1" style="background-color: #9f9f9f"> </div>
-<div class="templateBeeMiddleStripeBar templateBeeBraveBeeSkinColor2" style="background-color: #f1f1f1"> </div>
-<div class="templateBeeRightStripeBar templateBeeBraveBeeSkinColor3" style="background-color: #9f9f9f"> </div>
-<p class="templateBeeSeparator1"><br class="templateBeeSeparator2"/></p>
-<div class="templateBeeColorBox">
-<p class="templateBeeSkinColorHeader">Skin</p>
-<p class="templateBeeSkinColorText templateBeeSkinColorText1">#9f9f9f</p>
-<p class="templateBeeSkinColorText templateBeeSkinColorText2">#f1f1f1</p>
-<p class="templateBeeSkinColorText templateBeeSkinColorText3">#9f9f9f</p></div>
-</td></tr>
-</tbody></table>
-</td></tr></tbody></table>
+<div class="bee-infobox-quote"><i>"This loyal bee will do anything to protect its owner."</i></div>
+<div class="bee-infobox-row"><b>Rarity</b><span>Rare</span></div>
+<div class="bee-infobox-row"><b>Color</b><span>Colorless</span></div>
+<div class="bee-infobox-stats">
+<div><b>Energy</b><span>30</span></div>
+<div><b>Speed</b><span>16.8</span></div>
+<div><b>Attack</b><span>6</span></div>
+</div>
+<div class="bee-infobox-header">Color Scheme</div>
+<div class="bee-infobox-scheme">
+<div class="bee-infobox-stripes"><span style="background:#9f9f9f"></span><span style="background:#f1f1f1"></span><span style="background:#9f9f9f"></span></div>
+<div class="bee-infobox-swatch"><b>Skin</b><code>#9f9f9f</code><code>#f1f1f1</code><code>#9f9f9f</code></div>
+</div>
+</div>
 
 **Brave Bee** is a Colorless [Rare Bee](bees-rare.md).
 

@@ -5,56 +5,30 @@ tags: ["Pages with broken file links", "Bees", "Event", "Colorless"]
 
 # Digital Bee
 
-<table class="infobox templateBeeDefault">
-<tbody><tr>
-<td class="templateBeeTitle templateBeeEventText" colspan="3"><b>Digital Bee</b>
-</td></tr>
-<tr>
-<td class="templateBeeTabber" colspan="3"><center>
-<div><h3>Original</h3>
-<p><img alt="Digital Bee" height="150" src="img/Digital_Bee.png" width="150"/>
-</p>
-<h3>Gifted</h3>
-<p><img alt="Gifted Digital Bee" height="150" src="img/Gifted_Digital_Bee.png" width="150"/>
-</p>
+<div class="bee-infobox bee-rarity-event">
+<div class="bee-infobox-title">Digital Bee</div>
+<div class="bee-infobox-tabs">
+<input type="radio" name="bee-infobox-tab" id="bee-tab-original" checked>
+<label for="bee-tab-original">Original</label>
+<input type="radio" name="bee-infobox-tab" id="bee-tab-gifted">
+<label for="bee-tab-gifted">Gifted</label>
+<div class="bee-infobox-image bee-tab-original"><img alt="Digital Bee" src="img/Digital_Bee.png" width="150" height="150"></div>
+<div class="bee-infobox-image bee-tab-gifted"><img alt="Gifted Digital Bee" src="img/Gifted_Digital_Bee.png" width="150" height="150"></div>
 </div>
-</center>
-</td></tr>
-<tr>
-<td class="templateBeeDesc" colspan="3"><i>"A virtual bee with malfunctioning AI. It corrupts the game itself."</i>
-</td></tr>
-<tr>
-<td class="templateBeeDefaultCell" colspan="3"><b>Rarity</b> <br/> Event
-</td></tr>
-<tr>
-<td class="templateBeeDefaultCell" colspan="3"><b>Color</b> <br/> Colorless
-</td></tr>
-<tr>
-<td class="templateBeeStatCell"><b>Energy</b> <br/> 20
-</td>
-<td class="templateBeeStatCell templateBeeBadStat"><b>Speed</b> <br/> 11.9
-</td>
-<td class="templateBeeStatCell"><b>Attack</b> <br/> 1
-</td></tr>
-<tr>
-<td class="templateBeeHeader templateBeeEventText" colspan="3">COLOR SCHEME
-</td></tr>
-<tr>
-<td colspan="3"><table class="templateBeeDefaultStripeTable">
-<tbody><tr>
-<td>
-<div class="templateBeeLeftStripeBar templateBeeDigitalBeeSkinColor1" style="background-color: #717779"> </div>
-<div class="templateBeeMiddleStripeBar templateBeeDigitalBeeSkinColor2" style="background-color: #bab088"> </div>
-<div class="templateBeeRightStripeBar templateBeeDigitalBeeSkinColor3" style="background-color: #e7daaa"> </div>
-<p class="templateBeeSeparator1"><br class="templateBeeSeparator2"/></p>
-<div class="templateBeeColorBox">
-<p class="templateBeeSkinColorHeader">Skin</p>
-<p class="templateBeeSkinColorText templateBeeSkinColorText1">#717779</p>
-<p class="templateBeeSkinColorText templateBeeSkinColorText2">#bab088</p>
-<p class="templateBeeSkinColorText templateBeeSkinColorText3">#e7daaa</p></div>
-</td></tr>
-</tbody></table>
-</td></tr></tbody></table>
+<div class="bee-infobox-quote"><i>"A virtual bee with malfunctioning AI. It corrupts the game itself."</i></div>
+<div class="bee-infobox-row"><b>Rarity</b><span>Event</span></div>
+<div class="bee-infobox-row"><b>Color</b><span>Colorless</span></div>
+<div class="bee-infobox-stats">
+<div><b>Energy</b><span>20</span></div>
+<div><b>Speed</b><span>11.9</span></div>
+<div><b>Attack</b><span>1</span></div>
+</div>
+<div class="bee-infobox-header">Color Scheme</div>
+<div class="bee-infobox-scheme">
+<div class="bee-infobox-stripes"><span style="background:#717779"></span><span style="background:#bab088"></span><span style="background:#e7daaa"></span></div>
+<div class="bee-infobox-swatch"><b>Skin</b><code>#717779</code><code>#bab088</code><code>#e7daaa</code></div>
+</div>
+</div>
 
 *Not to be confused with Digital Bee's NPC counterpart from the Ready Player Two event.*
 

@@ -5,56 +5,30 @@ tags: ["Pages with broken file links", "Bees", "Event", "Blue"]
 
 # Cobalt Bee
 
-<table class="infobox templateBeeDefault templateBeeBlueBackground">
-<tbody><tr>
-<td class="templateBeeTitle templateBeeEventText" colspan="3"><b>Cobalt Bee</b>
-</td></tr>
-<tr>
-<td class="templateBeeTabber" colspan="3"><center>
-<div><h3>Original</h3>
-<p><img alt="Cobalt Bee" height="150" src="img/Cobalt_Bee.png" width="150"/>
-</p>
-<h3>Gifted</h3>
-<p><img alt="Gifted Cobalt Bee" height="150" src="img/Gifted_Cobalt_Bee.png" width="150"/>
-</p>
+<div class="bee-infobox bee-rarity-event">
+<div class="bee-infobox-title">Cobalt Bee</div>
+<div class="bee-infobox-tabs">
+<input type="radio" name="bee-infobox-tab" id="bee-tab-original" checked>
+<label for="bee-tab-original">Original</label>
+<input type="radio" name="bee-infobox-tab" id="bee-tab-gifted">
+<label for="bee-tab-gifted">Gifted</label>
+<div class="bee-infobox-image bee-tab-original"><img alt="Cobalt Bee" src="img/Cobalt_Bee.png" width="150" height="150"></div>
+<div class="bee-infobox-image bee-tab-gifted"><img alt="Gifted Cobalt Bee" src="img/Gifted_Cobalt_Bee.png" width="150" height="150"></div>
 </div>
-</center>
-</td></tr>
-<tr>
-<td class="templateBeeDesc" colspan="3"><i>"A superhero and defender of all things Blue! Together with <a href="crimson-bee.html">Crimson Bee</a> it works to unite bees of all colors."</i>
-</td></tr>
-<tr>
-<td class="templateBeeDefaultCell" colspan="3"><b>Rarity</b> <br/> Event
-</td></tr>
-<tr>
-<td class="templateBeeDefaultCell" colspan="3"><b>Color</b> <br/> Blue
-</td></tr>
-<tr>
-<td class="templateBeeStatCell templateBeeGoodStat"><b>Energy</b> <br/> 35
-</td>
-<td class="templateBeeStatCell templateBeeGoodStat"><b>Speed</b> <br/> 18.2
-</td>
-<td class="templateBeeStatCell templateBeeGoodStat"><b>Attack</b> <br/> 7
-</td></tr>
-<tr>
-<td class="templateBeeHeader templateBeeEventText" colspan="3">COLOR SCHEME
-</td></tr>
-<tr>
-<td colspan="3"><table class="templateBeeDefaultStripeTable">
-<tbody><tr>
-<td>
-<div class="templateBeeLeftStripeBar templateBeeCobaltBeeSkinColor1" style="background-color: #0000ff"> </div>
-<div class="templateBeeMiddleStripeBar templateBeeCobaltBeeSkinColor2" style="background-color: #ffffff"> </div>
-<div class="templateBeeRightStripeBar templateBeeCobaltBeeSkinColor3" style="background-color: #0000ff"> </div>
-<p class="templateBeeSeparator1"><br class="templateBeeSeparator2"/></p>
-<div class="templateBeeColorBox">
-<p class="templateBeeSkinColorHeader">Skin</p>
-<p class="templateBeeSkinColorText templateBeeSkinColorText1">#0000ff</p>
-<p class="templateBeeSkinColorText templateBeeSkinColorText2">#ffffff</p>
-<p class="templateBeeSkinColorText templateBeeSkinColorText3">#0000ff</p></div>
-</td></tr>
-</tbody></table>
-</td></tr></tbody></table>
+<div class="bee-infobox-quote"><i>"A superhero and defender of all things Blue! Together with <a href="crimson-bee.html">Crimson Bee</a> it works to unite bees of all colors."</i></div>
+<div class="bee-infobox-row"><b>Rarity</b><span>Event</span></div>
+<div class="bee-infobox-row"><b>Color</b><span>Blue</span></div>
+<div class="bee-infobox-stats">
+<div><b>Energy</b><span>35</span></div>
+<div><b>Speed</b><span>18.2</span></div>
+<div><b>Attack</b><span>7</span></div>
+</div>
+<div class="bee-infobox-header">Color Scheme</div>
+<div class="bee-infobox-scheme">
+<div class="bee-infobox-stripes"><span style="background:#0000ff"></span><span style="background:#ffffff"></span><span style="background:#0000ff"></span></div>
+<div class="bee-infobox-swatch"><b>Skin</b><code>#0000ff</code><code>#ffffff</code><code>#0000ff</code></div>
+</div>
+</div>
 
 **Cobalt Bee** is a Blue [Event bee](bees-event.md). It can be obtained by purchasing a [Cobalt Bee Egg](egg.md#Cobalt_Bee_Egg) in the [Ticket Tent](ticket-tent.md) for 250 [Tickets](ticket.md).
 

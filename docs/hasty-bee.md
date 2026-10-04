@@ -5,56 +5,30 @@ tags: ["Pages with broken file links", "Bees", "Rare", "Colorless"]
 
 # Hasty Bee
 
-<table class="infobox templateBeeDefault">
-<tbody><tr>
-<td class="templateBeeTitle templateBeeRareText" colspan="3"><b>Hasty Bee</b>
-</td></tr>
-<tr>
-<td class="templateBeeTabber" colspan="3"><center>
-<div><h3>Original</h3>
-<p><img alt="Hasty Bee" height="150" src="img/Hasty_Bee.png" width="150"/>
-</p>
-<h3>Gifted</h3>
-<p><img alt="Gifted Hasty Bee" height="150" src="img/Gifted_Hasty_Bee.png" width="150"/>
-</p>
+<div class="bee-infobox bee-rarity-rare">
+<div class="bee-infobox-title">Hasty Bee</div>
+<div class="bee-infobox-tabs">
+<input type="radio" name="bee-infobox-tab" id="bee-tab-original" checked>
+<label for="bee-tab-original">Original</label>
+<input type="radio" name="bee-infobox-tab" id="bee-tab-gifted">
+<label for="bee-tab-gifted">Gifted</label>
+<div class="bee-infobox-image bee-tab-original"><img alt="Hasty Bee" src="img/Hasty_Bee.png" width="150" height="150"></div>
+<div class="bee-infobox-image bee-tab-gifted"><img alt="Gifted Hasty Bee" src="img/Gifted_Hasty_Bee.png" width="150" height="150"></div>
 </div>
-</center>
-</td></tr>
-<tr>
-<td class="templateBeeDesc" colspan="3"><i>"A quick bee who always zips arounds </i>[sic]<i>. Sometimes it even makes YOU move faster."</i>
-</td></tr>
-<tr>
-<td class="templateBeeDefaultCell" colspan="3"><b>Rarity</b> <br/> Rare
-</td></tr>
-<tr>
-<td class="templateBeeDefaultCell" colspan="3"><b>Color</b> <br/> Colorless
-</td></tr>
-<tr>
-<td class="templateBeeStatCell"><b>Energy</b> <br/> 20
-</td>
-<td class="templateBeeStatCell templateBeeGoodStat"><b>Speed</b> <br/> 19.6
-</td>
-<td class="templateBeeStatCell"><b>Attack</b> <br/> 1
-</td></tr>
-<tr>
-<td class="templateBeeHeader templateBeeRareText" colspan="3">COLOR SCHEME
-</td></tr>
-<tr>
-<td colspan="3"><table class="templateBeeDefaultStripeTable">
-<tbody><tr>
-<td>
-<div class="templateBeeLeftStripeBar templateBeeHastyBeeSkinColor1" style="background-color: #f1f1f1"> </div>
-<div class="templateBeeMiddleStripeBar templateBeeHastyBeeSkinColor2" style="background-color: #e5cf38"> </div>
-<div class="templateBeeRightStripeBar templateBeeHastyBeeSkinColor3" style="background-color: #f1f1f1"> </div>
-<p class="templateBeeSeparator1"><br class="templateBeeSeparator2"/></p>
-<div class="templateBeeColorBox">
-<p class="templateBeeSkinColorHeader">Skin</p>
-<p class="templateBeeSkinColorText templateBeeSkinColorText1">#f1f1f1</p>
-<p class="templateBeeSkinColorText templateBeeSkinColorText2">#e5cf38</p>
-<p class="templateBeeSkinColorText templateBeeSkinColorText3">#f1f1f1</p></div>
-</td></tr>
-</tbody></table>
-</td></tr></tbody></table>
+<div class="bee-infobox-quote"><i>"A quick bee who always zips arounds </i>[sic]<i>. Sometimes it even makes YOU move faster."</i></div>
+<div class="bee-infobox-row"><b>Rarity</b><span>Rare</span></div>
+<div class="bee-infobox-row"><b>Color</b><span>Colorless</span></div>
+<div class="bee-infobox-stats">
+<div><b>Energy</b><span>20</span></div>
+<div><b>Speed</b><span>19.6</span></div>
+<div><b>Attack</b><span>1</span></div>
+</div>
+<div class="bee-infobox-header">Color Scheme</div>
+<div class="bee-infobox-scheme">
+<div class="bee-infobox-stripes"><span style="background:#f1f1f1"></span><span style="background:#e5cf38"></span><span style="background:#f1f1f1"></span></div>
+<div class="bee-infobox-swatch"><b>Skin</b><code>#f1f1f1</code><code>#e5cf38</code><code>#f1f1f1</code></div>
+</div>
+</div>
 
 **Hasty Bee** is a Colorless [Rare bee](bees-rare.md).
 

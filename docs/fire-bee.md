@@ -5,56 +5,30 @@ tags: ["Pages with broken file links", "Bees", "Epic", "Red"]
 
 # Fire Bee
 
-<table class="infobox templateBeeDefault templateBeeRedBackground">
-<tbody><tr>
-<td class="templateBeeTitle templateBeeEpicText" colspan="3"><b>Fire Bee</b>
-</td></tr>
-<tr>
-<td class="templateBeeTabber" colspan="3"><center>
-<div><h3>Original</h3>
-<p><img alt="Fire Bee" height="150" src="img/Fire_Bee.png" width="150"/>
-</p>
-<h3>Gifted</h3>
-<p><img alt="Gifted Fire Bee" height="150" src="img/Gifted_Fire_Bee.png" width="150"/>
-</p>
+<div class="bee-infobox bee-rarity-epic">
+<div class="bee-infobox-title">Fire Bee</div>
+<div class="bee-infobox-tabs">
+<input type="radio" name="bee-infobox-tab" id="bee-tab-original" checked>
+<label for="bee-tab-original">Original</label>
+<input type="radio" name="bee-infobox-tab" id="bee-tab-gifted">
+<label for="bee-tab-gifted">Gifted</label>
+<div class="bee-infobox-image bee-tab-original"><img alt="Fire Bee" src="img/Fire_Bee.png" width="150" height="150"></div>
+<div class="bee-infobox-image bee-tab-gifted"><img alt="Gifted Fire Bee" src="img/Gifted_Fire_Bee.png" width="150" height="150"></div>
 </div>
-</center>
-</td></tr>
-<tr>
-<td class="templateBeeDesc" colspan="3"><i>"As an egg, this bee was accidentally left in the trunk of a car in the middle of the summer for over 3 days!"</i>
-</td></tr>
-<tr>
-<td class="templateBeeDefaultCell" colspan="3"><b>Rarity</b> <br/> Epic
-</td></tr>
-<tr>
-<td class="templateBeeDefaultCell" colspan="3"><b>Color</b> <br/> Red
-</td></tr>
-<tr>
-<td class="templateBeeStatCell templateBeeGoodStat"><b>Energy</b> <br/> 25
-</td>
-<td class="templateBeeStatCell templateBeeBadStat"><b>Speed</b> <br/> 11.2
-</td>
-<td class="templateBeeStatCell templateBeeGoodStat"><b>Attack</b> <br/> 4
-</td></tr>
-<tr>
-<td class="templateBeeHeader templateBeeEpicText" colspan="3">COLOR SCHEME
-</td></tr>
-<tr>
-<td colspan="3"><table class="templateBeeDefaultStripeTable">
-<tbody><tr>
-<td>
-<div class="templateBeeLeftStripeBar templateBeeFireBeeSkinColor1" style="background-color: #9d2916"> </div>
-<div class="templateBeeMiddleStripeBar templateBeeFireBeeSkinColor2" style="background-color: #f3492d"> </div>
-<div class="templateBeeRightStripeBar templateBeeFireBeeSkinColor3" style="background-color: #9d2916"> </div>
-<p class="templateBeeSeparator1"><br class="templateBeeSeparator2"/></p>
-<div class="templateBeeColorBox">
-<p class="templateBeeSkinColorHeader">Skin</p>
-<p class="templateBeeSkinColorText templateBeeSkinColorText1">#9d2916</p>
-<p class="templateBeeSkinColorText templateBeeSkinColorText2">#f3492d</p>
-<p class="templateBeeSkinColorText templateBeeSkinColorText3">#9d2916</p></div>
-</td></tr>
-</tbody></table>
-</td></tr></tbody></table>
+<div class="bee-infobox-quote"><i>"As an egg, this bee was accidentally left in the trunk of a car in the middle of the summer for over 3 days!"</i></div>
+<div class="bee-infobox-row"><b>Rarity</b><span>Epic</span></div>
+<div class="bee-infobox-row"><b>Color</b><span>Red</span></div>
+<div class="bee-infobox-stats">
+<div><b>Energy</b><span>25</span></div>
+<div><b>Speed</b><span>11.2</span></div>
+<div><b>Attack</b><span>4</span></div>
+</div>
+<div class="bee-infobox-header">Color Scheme</div>
+<div class="bee-infobox-scheme">
+<div class="bee-infobox-stripes"><span style="background:#9d2916"></span><span style="background:#f3492d"></span><span style="background:#9d2916"></span></div>
+<div class="bee-infobox-swatch"><b>Skin</b><code>#9d2916</code><code>#f3492d</code><code>#9d2916</code></div>
+</div>
+</div>
 
 **Fire Bee** is a Red [Epic bee](bees-epic.md).
 

@@ -5,56 +5,30 @@ tags: ["Pages with broken file links", "Bees", "Colorless", "Event"]
 
 # Tabby Bee
 
-<table class="infobox templateBeeDefault">
-<tbody><tr>
-<td class="templateBeeTitle templateBeeEventText" colspan="3"><b>Tabby Bee</b>
-</td></tr>
-<tr>
-<td class="templateBeeTabber" colspan="3"><center>
-<div><h3>Original</h3>
-<p><img alt="Tabby Bee" height="150" src="img/Tabby_Bee.png" width="150"/>
-</p>
-<h3>Gifted</h3>
-<p><img alt="Gifted Tabby Bee" height="150" src="img/Gifted_Tabby_Bee.png" width="150"/>
-</p>
+<div class="bee-infobox bee-rarity-event">
+<div class="bee-infobox-title">Tabby Bee</div>
+<div class="bee-infobox-tabs">
+<input type="radio" name="bee-infobox-tab" id="bee-tab-original" checked>
+<label for="bee-tab-original">Original</label>
+<input type="radio" name="bee-infobox-tab" id="bee-tab-gifted">
+<label for="bee-tab-gifted">Gifted</label>
+<div class="bee-infobox-image bee-tab-original"><img alt="Tabby Bee" src="img/Tabby_Bee.png" width="150" height="150"></div>
+<div class="bee-infobox-image bee-tab-gifted"><img alt="Gifted Tabby Bee" src="img/Gifted_Tabby_Bee.png" width="150" height="150"></div>
 </div>
-</center>
-</td></tr>
-<tr>
-<td class="templateBeeDesc" colspan="3"><i>"This affectionate bee was raised by cats. It becomes a better worker as it warms up to you."</i>
-</td></tr>
-<tr>
-<td class="templateBeeDefaultCell" colspan="3"><b>Rarity</b> <br/> Event
-</td></tr>
-<tr>
-<td class="templateBeeDefaultCell" colspan="3"><b>Color</b> <br/> Colorless
-</td></tr>
-<tr>
-<td class="templateBeeStatCell templateBeeGoodStat"><b>Energy</b> <br/> 28
-</td>
-<td class="templateBeeStatCell templateBeeGoodStat"><b>Speed</b> <br/> 16.1
-</td>
-<td class="templateBeeStatCell templateBeeGoodStat"><b>Attack</b> <br/> 4
-</td></tr>
-<tr>
-<td class="templateBeeHeader templateBeeEventText" colspan="3">COLOR SCHEME
-</td></tr>
-<tr>
-<td colspan="3"><table class="templateBeeDefaultStripeTable">
-<tbody><tr>
-<td>
-<div class="templateBeeLeftStripeBar templateBeeTabbyBeeSkinColor1" style="background-color: #f99d28"> </div>
-<div class="templateBeeMiddleStripeBar templateBeeTabbyBeeSkinColor2" style="background-color: #634927"> </div>
-<div class="templateBeeRightStripeBar templateBeeTabbyBeeSkinColor3" style="background-color: #f99d28"> </div>
-<p class="templateBeeSeparator1"><br class="templateBeeSeparator2"/></p>
-<div class="templateBeeColorBox">
-<p class="templateBeeSkinColorHeader">Skin</p>
-<p class="templateBeeSkinColorText templateBeeSkinColorText1">#f99d28</p>
-<p class="templateBeeSkinColorText templateBeeSkinColorText2">#634927</p>
-<p class="templateBeeSkinColorText templateBeeSkinColorText3">#f99d28</p></div>
-</td></tr>
-</tbody></table>
-</td></tr></tbody></table>
+<div class="bee-infobox-quote"><i>"This affectionate bee was raised by cats. It becomes a better worker as it warms up to you."</i></div>
+<div class="bee-infobox-row"><b>Rarity</b><span>Event</span></div>
+<div class="bee-infobox-row"><b>Color</b><span>Colorless</span></div>
+<div class="bee-infobox-stats">
+<div><b>Energy</b><span>28</span></div>
+<div><b>Speed</b><span>16.1</span></div>
+<div><b>Attack</b><span>4</span></div>
+</div>
+<div class="bee-infobox-header">Color Scheme</div>
+<div class="bee-infobox-scheme">
+<div class="bee-infobox-stripes"><span style="background:#f99d28"></span><span style="background:#634927"></span><span style="background:#f99d28"></span></div>
+<div class="bee-infobox-swatch"><b>Skin</b><code>#f99d28</code><code>#634927</code><code>#f99d28</code></div>
+</div>
+</div>
 
 **Tabby Bee** is a Colorless [Event bee](bees-event.md) that hatches out of a [Tabby Bee Egg](egg.md#Tabby_Bee_Egg), which is currently available in the [Ticket Tent](ticket-tent.md) for 500 [Tickets](ticket.md).
 

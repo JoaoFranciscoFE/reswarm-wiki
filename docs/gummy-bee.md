@@ -5,56 +5,30 @@ tags: ["Pages with broken file links", "Bees", "Event", "Colorless", "Gummy Inva
 
 # Gummy Bee
 
-<table class="infobox templateBeeDefault">
-<tbody><tr>
-<td class="templateBeeTitle templateBeeEventText" colspan="3"><b>Gummy Bee</b>
-</td></tr>
-<tr>
-<td class="templateBeeTabber" colspan="3"><center>
-<div><h3>Original</h3>
-<p><img alt="Gummy Bee" height="150" src="img/Gummy_Bee.png" width="150"/>
-</p>
-<h3>Gifted</h3>
-<p><img alt="Gifted Gummy Bee" height="150" src="img/Gifted_Gummy_Bee.png" width="150"/>
-</p>
+<div class="bee-infobox bee-rarity-event">
+<div class="bee-infobox-title">Gummy Bee</div>
+<div class="bee-infobox-tabs">
+<input type="radio" name="bee-infobox-tab" id="bee-tab-original" checked>
+<label for="bee-tab-original">Original</label>
+<input type="radio" name="bee-infobox-tab" id="bee-tab-gifted">
+<label for="bee-tab-gifted">Gifted</label>
+<div class="bee-infobox-image bee-tab-original"><img alt="Gummy Bee" src="img/Gummy_Bee.png" width="150" height="150"></div>
+<div class="bee-infobox-image bee-tab-gifted"><img alt="Gifted Gummy Bee" src="img/Gifted_Gummy_Bee.png" width="150" height="150"></div>
 </div>
-</center>
-</td></tr>
-<tr>
-<td class="templateBeeDesc" colspan="3"><i>"A squishy bee who's sweet as sugar. Covers flowers in goo to grant you bonus honey!"</i>
-</td></tr>
-<tr>
-<td class="templateBeeDefaultCell" colspan="3"><b>Rarity</b> <br/> Event
-</td></tr>
-<tr>
-<td class="templateBeeDefaultCell" colspan="3"><b>Color</b> <br/> Colorless
-</td></tr>
-<tr>
-<td class="templateBeeStatCell templateBeeGoodStat"><b>Energy</b> <br/> 50
-</td>
-<td class="templateBeeStatCell"><b>Speed</b> <br/> 14
-</td>
-<td class="templateBeeStatCell templateBeeGoodStat"><b>Attack</b> <br/> 3
-</td></tr>
-<tr>
-<td class="templateBeeHeader templateBeeEventText" colspan="3">COLOR SCHEME
-</td></tr>
-<tr>
-<td colspan="3"><table class="templateBeeDefaultStripeTable">
-<tbody><tr>
-<td>
-<div class="templateBeeLeftStripeBar templateBeeGummyBeeSkinColor1" style="background-color: #ff77f4"> </div>
-<div class="templateBeeMiddleStripeBar templateBeeGummyBeeSkinColor2" style="background-color: #1aff6b"> </div>
-<div class="templateBeeRightStripeBar templateBeeGummyBeeSkinColor3" style="background-color: #ff77f4"> </div>
-<p class="templateBeeSeparator1"><br class="templateBeeSeparator2"/></p>
-<div class="templateBeeColorBox">
-<p class="templateBeeSkinColorHeader">Skin</p>
-<p class="templateBeeSkinColorText templateBeeSkinColorText1">#ff77f4</p>
-<p class="templateBeeSkinColorText templateBeeSkinColorText2">#1aff6b</p>
-<p class="templateBeeSkinColorText templateBeeSkinColorText3">#ff77f4</p></div>
-</td></tr>
-</tbody></table>
-</td></tr></tbody></table>
+<div class="bee-infobox-quote"><i>"A squishy bee who's sweet as sugar. Covers flowers in goo to grant you bonus honey!"</i></div>
+<div class="bee-infobox-row"><b>Rarity</b><span>Event</span></div>
+<div class="bee-infobox-row"><b>Color</b><span>Colorless</span></div>
+<div class="bee-infobox-stats">
+<div><b>Energy</b><span>50</span></div>
+<div><b>Speed</b><span>14</span></div>
+<div><b>Attack</b><span>4</span></div>
+</div>
+<div class="bee-infobox-header">Color Scheme</div>
+<div class="bee-infobox-scheme">
+<div class="bee-infobox-stripes"><span style="background:#ff77f4"></span><span style="background:#1aff6b"></span><span style="background:#ff77f4"></span></div>
+<div class="bee-infobox-swatch"><b>Skin</b><code>#ff77f4</code><code>#1aff6b</code><code>#ff77f4</code></div>
+</div>
+</div>
 
 **Gummy Bee** is a Colorless [Event bee](bees-event.md). It can be purchased for 2,500 [Gumdrops](gumdrops.md) from the [Gummy Bee Egg Claim](gummy-bee-egg-claim.md).
 

@@ -5,56 +5,30 @@ tags: ["Pages with broken file links", "Bees", "Legendary", "Colorless"]
 
 # Music Bee
 
-<table class="infobox templateBeeDefault">
-<tbody><tr>
-<td class="templateBeeTitle templateBeeLegendaryText" colspan="3"><b>Music Bee</b>
-</td></tr>
-<tr>
-<td class="templateBeeTabber" colspan="3"><center>
-<div><h3>Original</h3>
-<p><img alt="Music Bee" height="150" src="img/Music_Bee.png" width="150"/>
-</p>
-<h3>Gifted</h3>
-<p><img alt="Gifted Music Bee" height="150" src="img/Gifted_Music_Bee.png" width="150"/>
-</p>
+<div class="bee-infobox bee-rarity-legendary">
+<div class="bee-infobox-title">Music Bee</div>
+<div class="bee-infobox-tabs">
+<input type="radio" name="bee-infobox-tab" id="bee-tab-original" checked>
+<label for="bee-tab-original">Original</label>
+<input type="radio" name="bee-infobox-tab" id="bee-tab-gifted">
+<label for="bee-tab-gifted">Gifted</label>
+<div class="bee-infobox-image bee-tab-original"><img alt="Music Bee" src="img/Music_Bee.png" width="150" height="150"></div>
+<div class="bee-infobox-image bee-tab-gifted"><img alt="Gifted Music Bee" src="img/Gifted_Music_Bee.png" width="150" height="150"></div>
 </div>
-</center>
-</td></tr>
-<tr>
-<td class="templateBeeDesc" colspan="3"><i>"This bee's buzz is so beautiful it can bring anyone to tears. It uses this gift to motivate others."</i>
-</td></tr>
-<tr>
-<td class="templateBeeDefaultCell" colspan="3"><b>Rarity</b> <br/> Legendary
-</td></tr>
-<tr>
-<td class="templateBeeDefaultCell" colspan="3"><b>Color</b> <br/> Colorless
-</td></tr>
-<tr>
-<td class="templateBeeStatCell"><b>Energy</b> <br/> 20
-</td>
-<td class="templateBeeStatCell templateBeeGoodStat"><b>Speed</b> <br/> 16.1
-</td>
-<td class="templateBeeStatCell"><b>Attack</b> <br/> 1
-</td></tr>
-<tr>
-<td class="templateBeeHeader templateBeeLegendaryText" colspan="3">COLOR SCHEME
-</td></tr>
-<tr>
-<td colspan="3"><table class="templateBeeDefaultStripeTable">
-<tbody><tr>
-<td>
-<div class="templateBeeLeftStripeBar templateBeeMusicBeeSkinColor1" style="background-color: #1b2a35"> </div>
-<div class="templateBeeMiddleStripeBar templateBeeMusicBeeSkinColor2" style="background-color: #f1f1f1"> </div>
-<div class="templateBeeRightStripeBar templateBeeMusicBeeSkinColor3" style="background-color: #1b2a35"> </div>
-<p class="templateBeeSeparator1"><br class="templateBeeSeparator2"/></p>
-<div class="templateBeeColorBox">
-<p class="templateBeeSkinColorHeader">Skin</p>
-<p class="templateBeeSkinColorText templateBeeSkinColorText1">#1b2a35</p>
-<p class="templateBeeSkinColorText templateBeeSkinColorText2">#f1f1f1</p>
-<p class="templateBeeSkinColorText templateBeeSkinColorText3">#1b2a35</p></div>
-</td></tr>
-</tbody></table>
-</td></tr></tbody></table>
+<div class="bee-infobox-quote"><i>"This bee's buzz is so beautiful it can bring anyone to tears. It uses this gift to motivate others."</i></div>
+<div class="bee-infobox-row"><b>Rarity</b><span>Legendary</span></div>
+<div class="bee-infobox-row"><b>Color</b><span>Colorless</span></div>
+<div class="bee-infobox-stats">
+<div><b>Energy</b><span>20</span></div>
+<div><b>Speed</b><span>16.1</span></div>
+<div><b>Attack</b><span>1</span></div>
+</div>
+<div class="bee-infobox-header">Color Scheme</div>
+<div class="bee-infobox-scheme">
+<div class="bee-infobox-stripes"><span style="background:#1b2a35"></span><span style="background:#f1f1f1"></span><span style="background:#1b2a35"></span></div>
+<div class="bee-infobox-swatch"><b>Skin</b><code>#1b2a35</code><code>#f1f1f1</code><code>#1b2a35</code></div>
+</div>
+</div>
 
 **Music Bee** is a Colorless [Legendary bee](bees-legendary.md).
 

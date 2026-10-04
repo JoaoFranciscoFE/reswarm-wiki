@@ -12,3 +12,40 @@ figure img { max-width: 100%; height: auto; }
 .wikia-gallery, .gallery { display: flex; flex-wrap: wrap; gap: .5em; }
 .md-typeset table:not([class]) { font-size: .7rem; }
 @media (max-width: 700px) { .portable-infobox { float: none; width: 100%; margin: 0 0 1em 0; } }
+
+/* Bee infobox (Fandom style) */
+.bee-infobox { --bee-rarity: #c9a51c; float: right; clear: right; width: 270px; margin: 0 0 1em 1.2em;
+  background: color-mix(in srgb, var(--bee-rarity) 22%, #f6efd6); color: #1b1b1b; font-size: .72rem;
+  border-radius: 4px; overflow: hidden; box-shadow: 0 1px 4px rgba(0,0,0,.35); }
+.bee-rarity-common { --bee-rarity: #c9a51c; }
+.bee-rarity-rare { --bee-rarity: #b7bec6; }
+.bee-rarity-epic { --bee-rarity: #f2d65e; }
+.bee-rarity-legendary { --bee-rarity: #3fcfc4; }
+.bee-rarity-mythic { --bee-rarity: #b18cf0; }
+.bee-rarity-event { --bee-rarity: #6fcf63; }
+.bee-infobox-title, .bee-infobox-header { background: var(--bee-rarity); color: #111; text-align: center; }
+.bee-infobox-title { padding: .9em .5em; font-size: 1rem; font-weight: 700; }
+.bee-infobox-header { padding: .3em; font-size: .8rem; text-transform: uppercase; margin-top: .6em; }
+.bee-infobox-tabs { display: flex; flex-wrap: wrap; }
+.bee-infobox-tabs label { order: 0; }
+.bee-infobox-tabs input { display: none; }
+.bee-infobox-tabs label { padding: .6em .9em .5em; cursor: pointer; font-weight: 700; color: #777;
+  border-bottom: 2px solid transparent; }
+.bee-infobox-tabs label:hover { color: #333; }
+.bee-infobox-image { display: none; order: 1; width: 100%; padding: .8em 0; text-align: center;
+  border-bottom: 1px solid rgba(0,0,0,.15); }
+.bee-infobox-image img { width: 150px; height: 150px; object-fit: contain; }
+#bee-tab-original:checked + label, #bee-tab-gifted:checked + label { color: #0a7f86; border-bottom-color: #0a7f86; }
+#bee-tab-original:checked ~ .bee-tab-original, #bee-tab-gifted:checked ~ .bee-tab-gifted { display: block; }
+.bee-infobox-quote { padding: .4em .9em; text-align: center; font-style: italic; }
+.bee-infobox-row { padding: .25em .6em; }
+.bee-infobox-row b, .bee-infobox-row span, .bee-infobox-stats b, .bee-infobox-stats span { display: block; }
+.bee-infobox-stats { display: flex; padding: .5em .3em 0; text-align: center; }
+.bee-infobox-stats > div { flex: 1; }
+.bee-infobox-scheme { width: 130px; margin: .6em auto .8em; border-radius: 8px; overflow: hidden; background: #fff; }
+.bee-infobox-stripes { display: flex; height: 70px; }
+.bee-infobox-stripes span { flex: 1; }
+.bee-infobox-swatch { padding: .5em; text-align: center; }
+.bee-infobox-swatch b { display: block; font-size: .85rem; margin-bottom: .2em; }
+.md-typeset .bee-infobox-swatch code { display: block; padding: 0; background: none; color: #111; font-size: .6rem; }
+@media (max-width: 700px) { .bee-infobox { float: none; width: 100%; max-width: 320px; margin: 0 auto 1em; } }
