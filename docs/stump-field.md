@@ -5,6 +5,8 @@ tags: ["Locations", "Fields", "Blue"]
 
 # Stump Field
 
+![Stump Field](img/Stump_Field_Stamp.png){ align=right width=150 }
+
 Stump Field
 
 FIELD COLOR

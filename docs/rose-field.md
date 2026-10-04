@@ -5,6 +5,8 @@ tags: ["Locations", "Fields", "Red"]
 
 # Rose Field
 
+![Rose Field](img/Rose_Field_Stamp.png){ align=right width=150 }
+
 Rose Field
 
 FIELD COLOR

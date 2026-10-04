@@ -5,6 +5,8 @@ tags: ["Locations", "Fields"]
 
 # Mountain Top Field
 
+![Mountain Top Field](img/Mountain_Top_Field_Stamp.png){ align=right width=150 }
+
 Mountain Top Field
 
 FIELD COLOR
