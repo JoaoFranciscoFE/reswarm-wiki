@@ -1,6 +1,6 @@
 ---
 title: "All-Time Top Sticker-Seekers"
-tags: ["Pages with broken file links", "Leaderboards", "Locations", "Hive Hub"]
+tags: ["Leaderboards", "Locations", "Hive Hub"]
 ---
 
 # All-Time Top Sticker-Seekers

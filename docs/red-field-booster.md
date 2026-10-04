@@ -1,6 +1,6 @@
 ---
 title: "Red Field Booster"
-tags: ["Pages with broken file links", "Locations", "Machines", "Red", "Field Boosters"]
+tags: ["Locations", "Machines", "Red", "Field Boosters"]
 ---
 
 # Red Field Booster
@@ -17,10 +17,6 @@ The following audio plays when the Red Field Booster has been activated:
 * [Strawberry Field](strawberry-field.md): +100% Pollen
 * [Rose Field](rose-field.md): +100% Pollen
 * [Pepper Patch](pepper-patch.md): +100% Pollen (only if player has 35+ Bees)
-
-## Gallery
-
-<div class="wikia-gallery wikia-gallery-caption-below wikia-gallery-position-left wikia-gallery-spacing-medium wikia-gallery-border-small wikia-gallery-captions-left wikia-gallery-caption-size-medium" data-seq-no="0" hash="d8f4af191e25cc5ecaf0f39fa4f696f3" id="gallery-0"><div class="wikia-gallery-caption"></div><div class="wikia-gallery-item" style="width:187px; "><div class="thumb" style="height:187px;"><div class="gallery-image-wrapper accent" id="RoseFieldBoostSparkles-png" style="position: relative; height:185px; width:185px;"><span style="line-height: 1;">RoseFieldBoostSparkles.png</span></div></div><div class="lightbox-caption" style="width:185px;">A boosted Rose Field.</div></div><div class="wikia-gallery-item" style="width:187px; "><div class="thumb" style="height:187px;"><div class="gallery-image-wrapper accent" id="RoseFieldBoost-png" style="position: relative; height:185px; width:185px;"><span style="line-height: 1;">RoseFieldBoost.png</span></div></div><div class="lightbox-caption" style="width:185px;">The old Red Field boost icon.</div></div><div class="wikia-gallery-item" style="width:187px; "><div class="thumb" style="height:187px;"><div class="gallery-image-wrapper accent" id="Mushroom_Field_Icon-png" style="position: relative; height:185px; width:185px;"><span style="line-height: 1;">Mushroom Field Icon.png</span></div></div><div class="lightbox-caption" style="width:185px;">The Mushroom Field boost icon.</div></div><div class="wikia-gallery-item" style="width:187px; "><div class="thumb" style="height:187px;"><div class="gallery-image-wrapper accent" id="Strawberry_Field_Icon-png" style="position: relative; height:185px; width:185px;"><span style="line-height: 1;">Strawberry Field Icon.png</span></div></div><div class="lightbox-caption" style="width:185px;">The Strawberry Field boost icon.</div></div><div class="wikia-gallery-item" style="width:187px; "><div class="thumb" style="height:187px;"><div class="gallery-image-wrapper accent" id="Rose_Field_Icon-png" style="position: relative; height:185px; width:185px;"><span style="line-height: 1;">Rose Field Icon.png</span></div></div><div class="lightbox-caption" style="width:185px;">The Rose Field boost icon.</div></div><div class="wikia-gallery-item" style="width:187px; "><div class="thumb" style="height:187px;"><div class="gallery-image-wrapper accent" id="Pepper_Patch_Icon-png" style="position: relative; height:185px; width:185px;"><span style="line-height: 1;">Pepper Patch Icon.png</span></div></div><div class="lightbox-caption" style="width:185px;">The Pepper Patch boost icon.</div></div></div>
 
 ## Trivia
 

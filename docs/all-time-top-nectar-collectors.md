@@ -1,6 +1,6 @@
 ---
 title: "All-Time Top Nectar Collectors"
-tags: ["Pages with broken file links", "Leaderboards"]
+tags: ["Leaderboards"]
 ---
 
 # All-Time Top Nectar Collectors

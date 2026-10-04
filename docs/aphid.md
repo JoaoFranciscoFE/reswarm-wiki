@@ -1,6 +1,6 @@
 ---
 title: "Aphid"
-tags: ["Mobs", "Pages with broken file links"]
+tags: ["Mobs"]
 ---
 
 # Aphid
@@ -39,16 +39,16 @@ This is the most common aphid that can be encountered. They possess the least am
 </th></tr>
 <tr>
 <td>10 <a href="battle-points.html">Battle Points</a><br/>
-<p><span typeof="mw:Error mw:File"></span><a href="honey.html"><span class="color-template color-template-honey">Honey</span></a><br/>
-<span typeof="mw:Error mw:File"></span><a href="micro-converter.html"><span class="color-template color-template-micro-converter color-template-background-clip">Micro-Converters</span></a><br/>
-<span typeof="mw:Error mw:File"></span><a href="magic-bean.html"><span class="color-template color-template-magic-bean color-template-background-clip">Magic Beans</span></a><br/>
-<span typeof="mw:Error mw:File"></span><a href="gumdrops.html"><span class="color-template color-template-gumdrops color-template-background-clip">Gumdrops</span></a><br/>
-<span typeof="mw:Error mw:File"></span><a href="treat.html"><span class="color-template color-template-treat">Treats</span></a><br/>
-<span typeof="mw:Error mw:File"></span><a href="soft-wax.html"><span class="color-template color-template-soft-wax">Soft Waxes</span></a> (Guaranteed)<br/>
-<span typeof="mw:Error mw:File"></span><a href="field-dice.html"><span class="color-template color-template-field-dice color-template-background-clip">Field Dice</span></a> (Rare)<br/>
-<span typeof="mw:Error mw:File"></span><a href="ticket.html"><span class="color-template color-template-ticket color-template-background-clip">Tickets</span></a> (Rare)<br/>
-<span typeof="mw:Error mw:File"></span><a href="gingerbread-bear.html"><span class="color-template color-template-gingerbread-bear color-template-background-clip">Gingerbread Bears</span></a> (Beesmas Only)<br/>
-<span typeof="mw:Error mw:File"></span><a href="sticker.html#Sticker_Index"><span class="color-template color-template-forward-facing-aphid-sticker color-template-background-clip">Forward Facing Aphid Sticker</span></a> (Rare) 
+<p><img alt="Honey" height="35" src="img/Honey.png" width="35"/><a href="honey.html"><span class="color-template color-template-honey">Honey</span></a><br/>
+<img alt="Micro-Converter" height="35" src="img/Micro-Converter.png" width="35"/><a href="micro-converter.html"><span class="color-template color-template-micro-converter color-template-background-clip">Micro-Converters</span></a><br/>
+<img alt="Magic Bean" height="35" src="img/Magic_Bean.png" width="35"/><a href="magic-bean.html"><span class="color-template color-template-magic-bean color-template-background-clip">Magic Beans</span></a><br/>
+<img alt="Gumdrops" height="35" src="img/Gumdrops.png" width="35"/><a href="gumdrops.html"><span class="color-template color-template-gumdrops color-template-background-clip">Gumdrops</span></a><br/>
+<img alt="Treat" height="35" src="img/Treat.png" width="35"/><a href="treat.html"><span class="color-template color-template-treat">Treats</span></a><br/>
+<img alt="Soft Wax" height="35" src="img/Soft_Wax.png" width="35"/><a href="soft-wax.html"><span class="color-template color-template-soft-wax">Soft Waxes</span></a> (Guaranteed)<br/>
+<img alt="Field Dice" height="35" src="img/Field_Dice.png" width="35"/><a href="field-dice.html"><span class="color-template color-template-field-dice color-template-background-clip">Field Dice</span></a> (Rare)<br/>
+<img alt="Ticket" height="35" src="img/Ticket.png" width="35"/><a href="ticket.html"><span class="color-template color-template-ticket color-template-background-clip">Tickets</span></a> (Rare)<br/>
+<img alt="Gingerbread Bear" height="35" src="img/Gingerbread_Bear.png" width="35"/><a href="gingerbread-bear.html"><span class="color-template color-template-gingerbread-bear color-template-background-clip">Gingerbread Bears</span></a> (Beesmas Only)<br/>
+<img alt="Sticker" height="35" src="img/Sticker.png" width="35"/><a href="sticker.html#Sticker_Index"><span class="color-template color-template-forward-facing-aphid-sticker color-template-background-clip">Forward Facing Aphid Sticker</span></a> (Rare) 
 </p>
 </td></tr></tbody></table>
 
@@ -66,22 +66,22 @@ The Rage Aphid is one of the 3 rare types of aphids, the others being Armored Ap
 </th></tr>
 <tr>
 <td>20 <a href="battle-points.html">Battle Points</a><br/>
-<p><span typeof="mw:Error mw:File"></span><a href="honey.html"><span class="color-template color-template-honey">Honey</span></a><br/>
-<span typeof="mw:Error mw:File"></span><a href="micro-converter.html"><span class="color-template color-template-micro-converter color-template-background-clip">Micro-Converters</span></a><br/>
-<span typeof="mw:Error mw:File"></span><a href="magic-bean.html"><span class="color-template color-template-magic-bean color-template-background-clip">Magic Beans</span></a><br/>
-<span typeof="mw:Error mw:File"></span><a href="gumdrops.html"><span class="color-template color-template-gumdrops color-template-background-clip">Gumdrops</span></a><br/>
-<span typeof="mw:Error mw:File"></span><a href="strawberry.html"><span class="color-template color-template-strawberry color-template-background-clip">Strawberries</span></a><br/>
-<span typeof="mw:Error mw:File"></span><a href="pineapple.html"><span class="color-template color-template-pineapple color-template-background-clip">Pineapples</span></a><br/>
-<span typeof="mw:Error mw:File"></span><a href="bitterberry.html"><span class="color-template color-template-bitterberry color-template-background-clip">Bitterberries</span></a><br/>
-<span typeof="mw:Error mw:File"></span><a href="stinger.html"><span class="color-template color-template-stinger color-template-background-clip">Stingers</span></a><br/>
+<p><img alt="Honey" height="35" src="img/Honey.png" width="35"/><a href="honey.html"><span class="color-template color-template-honey">Honey</span></a><br/>
+<img alt="Micro-Converter" height="35" src="img/Micro-Converter.png" width="35"/><a href="micro-converter.html"><span class="color-template color-template-micro-converter color-template-background-clip">Micro-Converters</span></a><br/>
+<img alt="Magic Bean" height="35" src="img/Magic_Bean.png" width="35"/><a href="magic-bean.html"><span class="color-template color-template-magic-bean color-template-background-clip">Magic Beans</span></a><br/>
+<img alt="Gumdrops" height="35" src="img/Gumdrops.png" width="35"/><a href="gumdrops.html"><span class="color-template color-template-gumdrops color-template-background-clip">Gumdrops</span></a><br/>
+<img alt="Strawberry" height="35" src="img/Strawberry.png" width="35"/><a href="strawberry.html"><span class="color-template color-template-strawberry color-template-background-clip">Strawberries</span></a><br/>
+<img alt="Pineapple" height="35" src="img/Pineapple.png" width="35"/><a href="pineapple.html"><span class="color-template color-template-pineapple color-template-background-clip">Pineapples</span></a><br/>
+<img alt="Bitterberry" height="35" src="img/Bitterberry.png" width="35"/><a href="bitterberry.html"><span class="color-template color-template-bitterberry color-template-background-clip">Bitterberries</span></a><br/>
+<img alt="Stinger" height="35" src="img/Stinger.png" width="35"/><a href="stinger.html"><span class="color-template color-template-stinger color-template-background-clip">Stingers</span></a><br/>
 <span typeof="mw:Error mw:File"></span>1-5 <a href="red-extract.html"><span class="color-template color-template-red-extract color-template-background-clip">Red Extract</span></a><br/>
-<span typeof="mw:Error mw:File"></span><a href="enzymes.html"><span class="color-template color-template-enzymes color-template-background-clip">Enzymes</span></a><br/>
-<span typeof="mw:Error mw:File"></span><a href="ant-pass.html"><span class="color-template color-template-ant-pass color-template-background-clip">Ant Passes</span></a><br/>
-<span typeof="mw:Error mw:File"></span><a href="hard-wax.html"><span class="color-template color-template-hard-wax">Hard Waxes</span></a><br/>
-<span typeof="mw:Error mw:File"></span><a href="caustic-wax.html"><span class="color-template color-template-caustic-wax">Caustic Waxes</span></a><br/>
-<span typeof="mw:Error mw:File"></span><a href="purple-potion.html"><span class="color-template color-template-purple-potion color-template-background-clip">Purple Potion</span></a> (Rare)<br/>
-<span typeof="mw:Error mw:File"></span><a href="gingerbread-bear.html"><span class="color-template color-template-gingerbread-bear color-template-background-clip">Gingerbread Bear</span></a> (Beesmas Only)<br/>
-<span typeof="mw:Error mw:File"></span><a href="sticker.html#Sticker_Index"><span class="color-template color-template-red-wailing-cry-sticker color-template-background-clip">Red Wailing Cry Sticker</span></a> (Extremely Rare)
+<img alt="Enzymes" height="35" src="img/Enzymes.png" width="35"/><a href="enzymes.html"><span class="color-template color-template-enzymes color-template-background-clip">Enzymes</span></a><br/>
+<img alt="Ant Pass" height="35" src="img/Ant_Pass.png" width="35"/><a href="ant-pass.html"><span class="color-template color-template-ant-pass color-template-background-clip">Ant Passes</span></a><br/>
+<img alt="Hard Wax" height="35" src="img/Hard_Wax.png" width="35"/><a href="hard-wax.html"><span class="color-template color-template-hard-wax">Hard Waxes</span></a><br/>
+<img alt="Caustic Wax" height="35" src="img/Caustic_Wax.png" width="35"/><a href="caustic-wax.html"><span class="color-template color-template-caustic-wax">Caustic Waxes</span></a><br/>
+<img alt="Purple Potion" height="35" src="img/Purple_Potion.png" width="35"/><a href="purple-potion.html"><span class="color-template color-template-purple-potion color-template-background-clip">Purple Potion</span></a> (Rare)<br/>
+<img alt="Gingerbread Bear" height="35" src="img/Gingerbread_Bear.png" width="35"/><a href="gingerbread-bear.html"><span class="color-template color-template-gingerbread-bear color-template-background-clip">Gingerbread Bear</span></a> (Beesmas Only)<br/>
+<img alt="Sticker" height="35" src="img/Sticker.png" width="35"/><a href="sticker.html#Sticker_Index"><span class="color-template color-template-red-wailing-cry-sticker color-template-background-clip">Red Wailing Cry Sticker</span></a> (Extremely Rare)
 </p>
 </td></tr></tbody></table>
 
@@ -99,23 +99,23 @@ The Armored Aphid is one of the 3 rare types of aphids, the others being Rage Ap
 </th></tr>
 <tr>
 <td>20 <a href="battle-points.html">Battle Points</a><br/>
-<p><span typeof="mw:Error mw:File"></span><a href="honey.html"><span class="color-template color-template-honey">Honey</span></a><br/>
-<span typeof="mw:Error mw:File"></span><a href="treat.html"><span class="color-template color-template-treat">Treats</span></a><br/>
-<span typeof="mw:Error mw:File"></span><a href="micro-converter.html"><span class="color-template color-template-micro-converter color-template-background-clip">Micro-Converters</span></a> (Increments of 1 and 5)<br/>
-<span typeof="mw:Error mw:File"></span><a href="magic-bean.html"><span class="color-template color-template-magic-bean color-template-background-clip">Magic Beans</span></a><br/>
-<span typeof="mw:Error mw:File"></span><a href="gumdrops.html"><span class="color-template color-template-gumdrops color-template-background-clip">Gumdrops</span></a> (Increments of 3)<br/>
-<span typeof="mw:Error mw:File"></span><a href="sunflower-seed.html"><span class="color-template color-template-sunflower-seed color-template-background-clip">Sunflower Seeds</span></a><br/>
-<span typeof="mw:Error mw:File"></span><a href="stinger.html"><span class="color-template color-template-stinger color-template-background-clip">Stingers</span></a><br/>
-<span typeof="mw:Error mw:File"></span><a href="coconut.html"><span class="color-template color-template-coconut color-template-background-clip">Coconuts</span></a> (Increments of 1 and 5)<br/>
-<span typeof="mw:Error mw:File"></span><a href="oil.html"><span class="color-template color-template-oil color-template-background-clip">Oils</span></a> (Increments of 1 and 3)<br/>
-<span typeof="mw:Error mw:File"></span><a href="enzymes.html"><span class="color-template color-template-enzymes color-template-background-clip">Enzymes</span></a><br/>
-<span typeof="mw:Error mw:File"></span><a href="glue.html"><span class="color-template color-template-glue color-template-background-clip">Glues</span></a><br/>
-<span typeof="mw:Error mw:File"></span><a href="robo-pass.html"><span class="color-template color-template-robo-pass color-template-background-clip">Robo Passes</span></a><br/>
-<span typeof="mw:Error mw:File"></span><a href="hard-wax.html"><span class="color-template color-template-hard-wax">Hard Waxes</span></a><br/>
-<span typeof="mw:Error mw:File"></span><a href="tropical-drink.html"><span class="color-template color-template-tropical-drink color-template-background-clip">Tropical Drink</span></a> (Rare)<br/>
-<span typeof="mw:Error mw:File"></span><a href="snowflake.html"><span class="color-template color-template-snowflake color-template-background-clip">Snowflakes</span></a> (Beesmas exclusive)<br/>
-<span typeof="mw:Error mw:File"></span><a href="gingerbread-bear.html"><span class="color-template color-template-gingerbread-bear color-template-background-clip">Gingerbread Bears</span></a> (Beesmas exclusive)<br/>
-<span typeof="mw:Error mw:File"></span><a href="sticker.html#Sticker_Index"><span class="color-template color-template-small-shield-sticker color-template-background-clip">Small Shield Sticker</span></a> (Extremely Rare)
+<p><img alt="Honey" height="35" src="img/Honey.png" width="35"/><a href="honey.html"><span class="color-template color-template-honey">Honey</span></a><br/>
+<img alt="Treat" height="35" src="img/Treat.png" width="35"/><a href="treat.html"><span class="color-template color-template-treat">Treats</span></a><br/>
+<img alt="Micro-Converter" height="35" src="img/Micro-Converter.png" width="35"/><a href="micro-converter.html"><span class="color-template color-template-micro-converter color-template-background-clip">Micro-Converters</span></a> (Increments of 1 and 5)<br/>
+<img alt="Magic Bean" height="35" src="img/Magic_Bean.png" width="35"/><a href="magic-bean.html"><span class="color-template color-template-magic-bean color-template-background-clip">Magic Beans</span></a><br/>
+<img alt="Gumdrops" height="35" src="img/Gumdrops.png" width="35"/><a href="gumdrops.html"><span class="color-template color-template-gumdrops color-template-background-clip">Gumdrops</span></a> (Increments of 3)<br/>
+<img alt="Sunflower Seed" height="35" src="img/Sunflower_Seed.png" width="35"/><a href="sunflower-seed.html"><span class="color-template color-template-sunflower-seed color-template-background-clip">Sunflower Seeds</span></a><br/>
+<img alt="Stinger" height="35" src="img/Stinger.png" width="35"/><a href="stinger.html"><span class="color-template color-template-stinger color-template-background-clip">Stingers</span></a><br/>
+<img alt="Coconut" height="35" src="img/Coconut.png" width="35"/><a href="coconut.html"><span class="color-template color-template-coconut color-template-background-clip">Coconuts</span></a> (Increments of 1 and 5)<br/>
+<img alt="Oil" height="35" src="img/Oil.png" width="35"/><a href="oil.html"><span class="color-template color-template-oil color-template-background-clip">Oils</span></a> (Increments of 1 and 3)<br/>
+<img alt="Enzymes" height="35" src="img/Enzymes.png" width="35"/><a href="enzymes.html"><span class="color-template color-template-enzymes color-template-background-clip">Enzymes</span></a><br/>
+<img alt="Glue" height="35" src="img/Glue.png" width="35"/><a href="glue.html"><span class="color-template color-template-glue color-template-background-clip">Glues</span></a><br/>
+<img alt="Robo Pass" height="35" src="img/Robo_Pass.png" width="35"/><a href="robo-pass.html"><span class="color-template color-template-robo-pass color-template-background-clip">Robo Passes</span></a><br/>
+<img alt="Hard Wax" height="35" src="img/Hard_Wax.png" width="35"/><a href="hard-wax.html"><span class="color-template color-template-hard-wax">Hard Waxes</span></a><br/>
+<img alt="Tropical Drink" height="35" src="img/Tropical_Drink.png" width="35"/><a href="tropical-drink.html"><span class="color-template color-template-tropical-drink color-template-background-clip">Tropical Drink</span></a> (Rare)<br/>
+<img alt="Snowflake" height="35" src="img/Snowflake.png" width="35"/><a href="snowflake.html"><span class="color-template color-template-snowflake color-template-background-clip">Snowflakes</span></a> (Beesmas exclusive)<br/>
+<img alt="Gingerbread Bear" height="35" src="img/Gingerbread_Bear.png" width="35"/><a href="gingerbread-bear.html"><span class="color-template color-template-gingerbread-bear color-template-background-clip">Gingerbread Bears</span></a> (Beesmas exclusive)<br/>
+<img alt="Sticker" height="35" src="img/Sticker.png" width="35"/><a href="sticker.html#Sticker_Index"><span class="color-template color-template-small-shield-sticker color-template-background-clip">Small Shield Sticker</span></a> (Extremely Rare)
 </p>
 </td></tr></tbody></table>
 
@@ -133,26 +133,26 @@ The Diamond Aphid is one of the 3 rare types of aphids, the others being Rage Ap
 </th></tr>
 <tr>
 <td>20 <a href="battle-points.html">Battle Points</a><br/>
-<p><span typeof="mw:Error mw:File"></span><a href="honey.html"><span class="color-template color-template-honey">Honey</span></a><br/>
-<span typeof="mw:Error mw:File"></span><a href="treat.html"><span class="color-template color-template-treat">Treats</span></a><br/>
-<span typeof="mw:Error mw:File"></span><a href="micro-converter.html"><span class="color-template color-template-micro-converter color-template-background-clip">Micro-Converters</span></a><br/>
-<span typeof="mw:Error mw:File"></span><a href="field-dice.html"><span class="color-template color-template-field-dice color-template-background-clip">Field Dice</span></a><br/>
-<span typeof="mw:Error mw:File"></span><a href="magic-bean.html"><span class="color-template color-template-magic-bean color-template-background-clip">Magic Beans</span></a><br/>
-<span typeof="mw:Error mw:File"></span><a href="gumdrops.html"><span class="color-template color-template-gumdrops color-template-background-clip">Gumdrops</span></a><br/>
-<span typeof="mw:Error mw:File"></span><a href="blue-extract.html"><span class="color-template color-template-blue-extract color-template-background-clip">Blue Extracts</span></a><br/>
-<span typeof="mw:Error mw:File"></span><a href="blueberry.html"><span class="color-template color-template-blueberry color-template-background-clip">Blueberries</span></a><br/>
-<span typeof="mw:Error mw:File"></span><a href="hard-wax.html"><span class="color-template color-template-hard-wax">Hard Waxes</span></a><br/>
-<span typeof="mw:Error mw:File"></span><a href="moon-charm.html"><span class="color-template color-template-moon-charm color-template-background-clip">Moon Charms</span></a><br/>
-<span typeof="mw:Error mw:File"></span><a href="ticket.html"><span class="color-template color-template-ticket color-template-background-clip">Tickets</span></a><br/>
-<span typeof="mw:Error mw:File"></span><a href="glitter.html"><span class="color-template color-template-glitter color-template-background-clip">Glitter</span></a> (Rare)<br/>
-<span typeof="mw:Error mw:File"></span><a href="swirled-wax.html"><span class="color-template color-template-swirled-wax color-template-background-clip">Swirled Wax</span></a> (Rare)<br/>
-<span typeof="mw:Error mw:File"></span><a href="purple-potion.html"><span class="color-template color-template-purple-potion color-template-background-clip">Purple Potion</span></a> (Rare)<br/>
-<span typeof="mw:Error mw:File"></span><a href="egg.html#Diamond_Egg"><span class="color-template color-template-diamond-egg color-template-background-clip">Diamond Egg</span></a> (Rare)<br/>
-<span typeof="mw:Error mw:File"></span><a href="super-smoothie.html"><span class="color-template color-template-super-smoothie color-template-background-clip">Super Smoothie</span></a> (Very Rare)<br/>
-<span typeof="mw:Error mw:File"></span><a href="snowflake.html"><span class="color-template color-template-snowflake color-template-background-clip">Snowflake</span></a> (Beesmas exclusive)<br/>
-<span typeof="mw:Error mw:File"></span><a href="sticker.html#Sticker_Index"><span class="color-template color-template-diamond-trim-sticker color-template-background-clip">Diamond Trim Sticker</span></a> (Uncommon)<br/>
-<span typeof="mw:Error mw:File"></span><a href="sticker.html#Sticker_Index"><span class="color-template color-template-diamond-cluster-sticker color-template-background-clip">Diamond Cluster Sticker</span></a> (Very Rare)<br/>
-<span typeof="mw:Error mw:File"></span><a href="sticker.html#Sticker_Index"><span class="color-template color-template-wavy-cyan-hive-skin color-template-background-clip">Wavy Cyan Hive Skin</span></a> (Unbelievably Rare)
+<p><img alt="Honey" height="35" src="img/Honey.png" width="35"/><a href="honey.html"><span class="color-template color-template-honey">Honey</span></a><br/>
+<img alt="Treat" height="35" src="img/Treat.png" width="35"/><a href="treat.html"><span class="color-template color-template-treat">Treats</span></a><br/>
+<img alt="Micro-Converter" height="35" src="img/Micro-Converter.png" width="35"/><a href="micro-converter.html"><span class="color-template color-template-micro-converter color-template-background-clip">Micro-Converters</span></a><br/>
+<img alt="Field Dice" height="35" src="img/Field_Dice.png" width="35"/><a href="field-dice.html"><span class="color-template color-template-field-dice color-template-background-clip">Field Dice</span></a><br/>
+<img alt="Magic Bean" height="35" src="img/Magic_Bean.png" width="35"/><a href="magic-bean.html"><span class="color-template color-template-magic-bean color-template-background-clip">Magic Beans</span></a><br/>
+<img alt="Gumdrops" height="35" src="img/Gumdrops.png" width="35"/><a href="gumdrops.html"><span class="color-template color-template-gumdrops color-template-background-clip">Gumdrops</span></a><br/>
+<img alt="Blue Extract" height="35" src="img/Blue_Extract.png" width="35"/><a href="blue-extract.html"><span class="color-template color-template-blue-extract color-template-background-clip">Blue Extracts</span></a><br/>
+<img alt="Blueberry" height="35" src="img/Blueberry.png" width="35"/><a href="blueberry.html"><span class="color-template color-template-blueberry color-template-background-clip">Blueberries</span></a><br/>
+<img alt="Hard Wax" height="35" src="img/Hard_Wax.png" width="35"/><a href="hard-wax.html"><span class="color-template color-template-hard-wax">Hard Waxes</span></a><br/>
+<img alt="Moon Charm" height="35" src="img/Moon_Charm.png" width="35"/><a href="moon-charm.html"><span class="color-template color-template-moon-charm color-template-background-clip">Moon Charms</span></a><br/>
+<img alt="Ticket" height="35" src="img/Ticket.png" width="35"/><a href="ticket.html"><span class="color-template color-template-ticket color-template-background-clip">Tickets</span></a><br/>
+<img alt="Glitter" height="35" src="img/Glitter.png" width="35"/><a href="glitter.html"><span class="color-template color-template-glitter color-template-background-clip">Glitter</span></a> (Rare)<br/>
+<img alt="Swirled Wax" height="35" src="img/Swirled_Wax.png" width="35"/><a href="swirled-wax.html"><span class="color-template color-template-swirled-wax color-template-background-clip">Swirled Wax</span></a> (Rare)<br/>
+<img alt="Purple Potion" height="35" src="img/Purple_Potion.png" width="35"/><a href="purple-potion.html"><span class="color-template color-template-purple-potion color-template-background-clip">Purple Potion</span></a> (Rare)<br/>
+<img alt="Diamond Egg" height="35" src="img/Diamond_Egg.png" width="35"/><a href="egg.html#Diamond_Egg"><span class="color-template color-template-diamond-egg color-template-background-clip">Diamond Egg</span></a> (Rare)<br/>
+<img alt="Super Smoothie" height="35" src="img/Super_Smoothie.png" width="35"/><a href="super-smoothie.html"><span class="color-template color-template-super-smoothie color-template-background-clip">Super Smoothie</span></a> (Very Rare)<br/>
+<img alt="Snowflake" height="35" src="img/Snowflake.png" width="35"/><a href="snowflake.html"><span class="color-template color-template-snowflake color-template-background-clip">Snowflake</span></a> (Beesmas exclusive)<br/>
+<img alt="Sticker" height="35" src="img/Sticker.png" width="35"/><a href="sticker.html#Sticker_Index"><span class="color-template color-template-diamond-trim-sticker color-template-background-clip">Diamond Trim Sticker</span></a> (Uncommon)<br/>
+<img alt="Sticker" height="35" src="img/Sticker.png" width="35"/><a href="sticker.html#Sticker_Index"><span class="color-template color-template-diamond-cluster-sticker color-template-background-clip">Diamond Cluster Sticker</span></a> (Very Rare)<br/>
+<img alt="Wavy Cyan Hive Skin" height="35" src="img/Wavy_Cyan_Hive_Skin.png" width="35"/><a href="sticker.html#Sticker_Index"><span class="color-template color-template-wavy-cyan-hive-skin color-template-background-clip">Wavy Cyan Hive Skin</span></a> (Unbelievably Rare)
 </p>
 </td></tr></tbody></table>
 
@@ -161,10 +161,6 @@ The Diamond Aphid is one of the 3 rare types of aphids, the others being Rage Ap
 * Jumping and/or running around aphids will prevent them from attacking effectively since they slowly follow players.
 * If players cannot defeat an aphid due to higher level and health, leveling up bees and having bees specializing in attack, such as [Vicious Bee](vicious-bee.md), will help kill the aphid faster.
 * Using various consumables and [passives](passive-abilities.md) such as [Stingers](stinger.md), [Coconuts](coconut.md), [Tropical Drinks](tropical-drink.md), [Oils](oil.md), or [Star Saw](passive-abilities.md#Star_Saw) can help defeat aphids faster.
-
-## Gallery
-
-<div class="wikia-gallery wikia-gallery-caption-below wikia-gallery-position-left wikia-gallery-spacing-medium wikia-gallery-border-small wikia-gallery-captions-left wikia-gallery-caption-size-medium" data-seq-no="0" hash="dce2604dc990ff2792723929a0ec5c18" id="gallery-0"><div class="wikia-gallery-caption"></div><div class="wikia-gallery-item" style="width:187px; "><div class="thumb" style="height:187px;"><div class="gallery-image-wrapper accent" id="ImageImage-jpg" style="position: relative; height:185px; width:185px;"><span style="line-height: 1;">ImageImage.jpg</span></div></div><div class="lightbox-caption" style="width:185px;">An aphid in <a href="mountain-top-field.html">Mountain Top Field</a>.</div></div><div class="wikia-gallery-item" style="width:187px; "><div class="thumb" style="height:187px;"><div class="gallery-image-wrapper accent" id="ArmoredAphid-png" style="position: relative; height:185px; width:185px;"><span style="line-height: 1;">ArmoredAphid.png</span></div></div><div class="lightbox-caption" style="width:185px;">An Armored Aphid in the <a href="coconut-field.html">Coconut Field</a>.</div></div><div class="wikia-gallery-item" style="width:187px; "><div class="thumb" style="height:187px;"><div class="gallery-image-wrapper accent" id="Rage_Aphid_Rose_Field-png" style="position: relative; height:185px; width:185px;"><span style="line-height: 1;">Rage Aphid Rose Field.png</span></div></div><div class="lightbox-caption" style="width:185px;">A Rage Aphid in the <a href="rose-field.html">Rose Field</a>.</div></div><div class="wikia-gallery-item" style="width:187px; "><div class="thumb" style="height:187px;"><div class="gallery-image-wrapper accent" id="Diamond_aphid-png" style="position: relative; height:185px; width:185px;"><span style="line-height: 1;">Diamond aphid.png</span></div></div><div class="lightbox-caption" style="width:185px;">A Diamond Aphid in the Mountain Top Field.</div></div><div class="wikia-gallery-item" style="width:187px; "><div class="thumb" style="height:187px;"><div class="gallery-image-wrapper accent" id="AphidBall-png" style="position: relative; height:185px; width:185px;"><span style="line-height: 1;">AphidBall.png</span></div></div><div class="lightbox-caption" style="width:185px;">An Aphid with a bugged mesh, caused by a bug in the <a href="updates.html#2026-04-23">2026-04-23 update</a>.</div></div><div class="wikia-gallery-item" style="width:187px; "><div class="thumb" style="height:187px;"><div class="gallery-image-wrapper accent" id="Hivesticker_forward_facing_aphid-png" style="position: relative; height:185px; width:185px;"><span style="line-height: 1;">Hivesticker forward facing aphid.png</span></div></div><div class="lightbox-caption" style="width:185px;">The Forward Facing Aphid <a href="sticker.html">Sticker</a>.</div></div></div>
 
 ## Trivia
 

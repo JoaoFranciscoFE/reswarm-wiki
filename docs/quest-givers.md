@@ -1,6 +1,6 @@
 ---
 title: "Quest Givers"
-tags: ["Pages with broken file links", "Bears", "Quest Bees", "NPC"]
+tags: ["Bears", "Quest Bees", "NPC"]
 ---
 
 # Quest Givers

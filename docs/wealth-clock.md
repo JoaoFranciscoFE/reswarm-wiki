@@ -1,6 +1,6 @@
 ---
 title: "Wealth Clock"
-tags: ["Pages with broken file links", "Locations", "Machines", "Starter Zone"]
+tags: ["Locations", "Machines", "Starter Zone"]
 ---
 
 # Wealth Clock

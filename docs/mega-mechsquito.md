@@ -95,10 +95,6 @@ In Round 15 of the Robo Bear Challenge, the player has to defeat 10 Mega Mechsqu
 * Stand near the Mega Mechsquito, this will allow your bees to lock on to the Mechsquito and quickly deal damage.
 * [Vicious Bee](vicious-bee.md) and [Windy Bee](windy-bee.md) provide excellent crowd control, especially since Mega Mechsquitos often come in pairs or packs. [Digital Bee](digital-bee.md) can also stun many Mega Mechsquitos at once and allow them to take extra damage via [Mind Hack](ability-tokens.md#Mind_Hack).
 
-## Gallery
-
-<div class="wikia-gallery wikia-gallery-caption-below wikia-gallery-position-left wikia-gallery-spacing-medium wikia-gallery-border-small wikia-gallery-captions-left wikia-gallery-caption-size-medium" data-seq-no="0" hash="df745577e74548f472ec6d016173c202" id="gallery-0"><div class="wikia-gallery-caption"></div><div class="wikia-gallery-item" style="width:187px; "><div class="thumb" style="height:187px;"><div class="gallery-image-wrapper accent" id="MegaMechsquitoImage1-png" style="position: relative; height:185px; width:185px;"><span style="line-height: 1;">MegaMechsquitoImage1.png</span></div></div><div class="lightbox-caption" style="width:185px;">Three Mega Mechsquitos near the Spider Field.</div></div><div class="wikia-gallery-item" style="width:187px; "><div class="thumb" style="height:187px;"><div class="gallery-image-wrapper accent" id="MegaMechsquitoImage2-png" style="position: relative; height:185px; width:185px;"><span style="line-height: 1;">MegaMechsquitoImage2.png</span></div></div><div class="lightbox-caption" style="width:185px;">A Mega Mechsquito next to a Cogturret.</div></div></div>
-
 ## Trivia
 
 * Mega Mechsquitos have a party variant of them called a Party Mega Mechsquito.

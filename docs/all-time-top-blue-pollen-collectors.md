@@ -1,6 +1,6 @@
 ---
 title: "All-Time Top Blue Pollen Collectors"
-tags: ["Pages with broken file links", "Leaderboards", "Locations", "Blue"]
+tags: ["Leaderboards", "Locations", "Blue"]
 ---
 
 # All-Time Top Blue Pollen Collectors

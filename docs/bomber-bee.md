@@ -1,6 +1,6 @@
 ---
 title: "Bomber Bee"
-tags: ["Pages with broken file links", "Bees", "Rare", "Colorless"]
+tags: ["Bees", "Rare", "Colorless"]
 ---
 
 # Bomber Bee
@@ -332,10 +332,6 @@ Bomber Bee likes the [Dandelion Field](dandelion-field.md) and the [Cactus Field
 </td><td>7.77778%
 </td></tr>
 </tbody></table>
-
-## Gallery
-
-<div class="wikia-gallery wikia-gallery-caption-below wikia-gallery-position-left wikia-gallery-spacing-medium wikia-gallery-border-small wikia-gallery-captions-left wikia-gallery-caption-size-medium" data-seq-no="0" hash="7520f6b07eab5caac510c2864d8046d2" id="gallery-0"><div class="wikia-gallery-caption"></div><div class="wikia-gallery-item" style="width:187px; "><div class="thumb" style="height:187px;"><div class="gallery-image-wrapper accent" id="BomberBee_Hive-png" style="position: relative; height:185px; width:185px;"><span style="line-height: 1;">BomberBee Hive.png</span></div></div><div class="lightbox-caption" style="width:185px;">Bomber Bee's old hive slot design.</div></div><div class="wikia-gallery-item" style="width:187px; "><div class="thumb" style="height:187px;"><div class="gallery-image-wrapper accent" id="Giftedbomberbeehive-PNG" style="position: relative; height:185px; width:185px;"><span style="line-height: 1;">Giftedbomberbeehive.PNG</span></div></div><div class="lightbox-caption" style="width:185px;">A Gifted Bomber Bee hive slot.</div></div><div class="wikia-gallery-item" style="width:187px; "><div class="thumb" style="height:187px;"><div class="gallery-image-wrapper accent" id="BomberFace-png" style="position: relative; height:185px; width:185px;"><span style="line-height: 1;">BomberFace.png</span></div></div><div class="lightbox-caption" style="width:185px;">Bomber Bee's face.</div></div><div class="wikia-gallery-item" style="width:187px; "><div class="thumb" style="height:187px;"><div class="gallery-image-wrapper accent" id="Bomberfaceoriginal-png" style="position: relative; height:185px; width:185px;"><span style="line-height: 1;">Bomberfaceoriginal.png</span></div></div><div class="lightbox-caption" style="width:185px;">Bomber Bee's original face.</div></div><div class="wikia-gallery-item" style="width:187px; "><div class="thumb" style="height:187px;"><div class="gallery-image-wrapper accent" id="Screenshot_2021-07-07_9-17-57_PM-png" style="position: relative; height:185px; width:185px;"><span style="line-height: 1;">Screenshot 2021-07-07 9.17.57 PM.png</span></div></div><div class="lightbox-caption" style="width:185px;">Bomber Bee on the game thumbnail.</div></div></div>
 
 ## Trivia
 

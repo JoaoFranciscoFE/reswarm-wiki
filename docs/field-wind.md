@@ -1,6 +1,6 @@
 ---
 title: "Field Wind"
-tags: ["Pages with broken file links", "Mechanics", "Fields"]
+tags: ["Mechanics", "Fields"]
 ---
 
 # Field Wind

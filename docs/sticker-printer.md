@@ -1,6 +1,6 @@
 ---
 title: "Sticker Printer"
-tags: ["Machines", "Pages with broken file links", "Locations"]
+tags: ["Machines", "Locations"]
 ---
 
 # Sticker Printer
@@ -30,7 +30,7 @@ To use the Sticker Printer, the user's Roblox account must be at least 7 days ol
 
 The Printer will print one sticker upon use and has a cooldown of 1 hour before it can be used again.
 
-<div class="wikia-gallery wikia-gallery-caption-below wikia-gallery-position-left wikia-gallery-spacing-medium wikia-gallery-border-small wikia-gallery-captions-left wikia-gallery-caption-size-medium" data-seq-no="0" hash="053b62f4ef4965306e71d64c300eb5fd" id="gallery-0"><div class="wikia-gallery-caption"></div><div class="wikia-gallery-item" style="width:187px; "><div class="thumb" style="height:187px;"><div class="gallery-image-wrapper accent" id="StickerPrinterMenu-png" style="position: relative; height:185px; width:185px;"><span style="line-height: 1;">StickerPrinterMenu.png</span></div></div><div class="lightbox-caption" style="width:185px;">The menu of the Sticker Printer.</div></div><div class="wikia-gallery-item" style="width:187px; "><div class="thumb" style="height:187px;"><div class="gallery-image-wrapper accent" id="Sticker_printer_animation-gif" style="position: relative; height:185px; width:185px;"><span style="line-height: 1;">Sticker printer animation.gif</span></div></div><div class="lightbox-caption" style="width:185px;">The Sticker Printer spinning.</div></div></div>
+
 
 ## Egg Chances
 

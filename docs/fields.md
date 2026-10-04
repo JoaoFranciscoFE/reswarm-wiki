@@ -1,6 +1,6 @@
 ---
 title: "Fields"
-tags: ["Pages with broken file links", "Locations", "Fields"]
+tags: ["Locations", "Fields"]
 ---
 
 # Fields

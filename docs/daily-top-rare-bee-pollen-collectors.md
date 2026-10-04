@@ -1,6 +1,6 @@
 ---
 title: "Daily Top Rare Bee Pollen Collectors"
-tags: ["Pages with broken file links", "Leaderboards"]
+tags: ["Leaderboards"]
 ---
 
 # Daily Top Rare Bee Pollen Collectors

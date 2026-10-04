@@ -1,6 +1,6 @@
 ---
 title: "Memory Match"
-tags: ["Pages with broken file links", "Machines", "Locations"]
+tags: ["Machines", "Locations"]
 ---
 
 # Memory Match
@@ -46,7 +46,7 @@ There's also a memory match that is started upon receiving certain quests.
 </div>
 <div class="pi-item pi-data pi-item-spacing pi-border-color" data-source="cost">
 <h3 class="pi-data-label pi-secondary-font">Cost</h3>
-<div class="pi-data-value pi-font"><span typeof="mw:Error mw:File"></span>25,000 <a href="honey.html"><span class="color-template color-template-honey">Honey</span></a></div>
+<div class="pi-data-value pi-font"><img alt="Honey" height="25" src="img/Honey.png" width="25"/>25,000 <a href="honey.html"><span class="color-template color-template-honey">Honey</span></a></div>
 </div>
 <div class="pi-item pi-data pi-item-spacing pi-border-color" data-source="cooldown">
 <h3 class="pi-data-label pi-secondary-font">Cooldown</h3>
@@ -99,7 +99,7 @@ As a result, the exact chance of a pair appearing is significantly higher than t
 </div>
 <div class="pi-item pi-data pi-item-spacing pi-border-color" data-source="cost">
 <h3 class="pi-data-label pi-secondary-font">Cost</h3>
-<div class="pi-data-value pi-font"><span typeof="mw:Error mw:File"></span>500,000 <a href="honey.html"><span class="color-template color-template-honey">Honey</span></a></div>
+<div class="pi-data-value pi-font"><img alt="Honey" height="25" src="img/Honey.png" width="25"/>500,000 <a href="honey.html"><span class="color-template color-template-honey">Honey</span></a></div>
 </div>
 <div class="pi-item pi-data pi-item-spacing pi-border-color" data-source="cooldown">
 <h3 class="pi-data-label pi-secondary-font">Cooldown</h3>
@@ -157,7 +157,7 @@ As a result, the exact chance of a pair appearing is significantly higher than t
 </div>
 <div class="pi-item pi-data pi-item-spacing pi-border-color" data-source="cost">
 <h3 class="pi-data-label pi-secondary-font">Cost</h3>
-<div class="pi-data-value pi-font"><span typeof="mw:Error mw:File"></span>5,000,000 <a href="honey.html"><span class="color-template color-template-honey">Honey</span></a></div>
+<div class="pi-data-value pi-font"><img alt="Honey" height="25" src="img/Honey.png" width="25"/>5,000,000 <a href="honey.html"><span class="color-template color-template-honey">Honey</span></a></div>
 </div>
 <div class="pi-item pi-data pi-item-spacing pi-border-color" data-source="cooldown">
 <h3 class="pi-data-label pi-secondary-font">Cooldown</h3>
@@ -206,7 +206,7 @@ As a result, the exact chance of a pair appearing is significantly higher than t
 </div>
 <div class="pi-item pi-data pi-item-spacing pi-border-color" data-source="cost">
 <h3 class="pi-data-label pi-secondary-font">Cost</h3>
-<div class="pi-data-value pi-font"><span typeof="mw:Error mw:File"></span>25,000,000 <a href="honey.html"><span class="color-template color-template-honey">Honey</span></a></div>
+<div class="pi-data-value pi-font"><img alt="Honey" height="25" src="img/Honey.png" width="25"/>25,000,000 <a href="honey.html"><span class="color-template color-template-honey">Honey</span></a></div>
 </div>
 <div class="pi-item pi-data pi-item-spacing pi-border-color" data-source="cooldown">
 <h3 class="pi-data-label pi-secondary-font">Cooldown</h3>
@@ -272,7 +272,7 @@ As a result, the exact chance of a pair appearing is significantly higher than t
 </div>
 <div class="pi-item pi-data pi-item-spacing pi-border-color" data-source="cost">
 <h3 class="pi-data-label pi-secondary-font">Cost</h3>
-<div class="pi-data-value pi-font"><span typeof="mw:Error mw:File"></span>100 <a href="snowflake.html"><span class="color-template color-template-snowflake color-template-background-clip">Snowflakes</span></a></div>
+<div class="pi-data-value pi-font"><img alt="Snowflake" height="25" src="img/Snowflake.png" width="25"/>100 <a href="snowflake.html"><span class="color-template color-template-snowflake color-template-background-clip">Snowflakes</span></a></div>
 </div>
 <div class="pi-item pi-data pi-item-spacing pi-border-color" data-source="cooldown">
 <h3 class="pi-data-label pi-secondary-font">Cooldown</h3>
@@ -372,10 +372,6 @@ As a result, the exact chance of a pair appearing is significantly higher than t
 * 1,000 [Treats](treat.md) (~0.82%)
 * 2 [Oils](oil.md) (~0.82%)
 * 2 [Enzymes](enzymes.md) (~0.82%)
-
-## Gallery
-
-<div class="wikia-gallery wikia-gallery-caption-below wikia-gallery-position-left wikia-gallery-spacing-medium wikia-gallery-border-small wikia-gallery-captions-left wikia-gallery-caption-size-medium" data-seq-no="0" hash="5ca8b110e941b8b5ee7686a685379cac" id="gallery-0"><div class="wikia-gallery-caption"></div><div class="wikia-gallery-item" style="width:187px; "><div class="thumb" style="height:187px;"><div class="gallery-image-wrapper accent" id="Mma-png" style="position: relative; height:185px; width:185px;"><span style="line-height: 1;">Mma.png</span></div></div><div class="lightbox-caption" style="width:185px;">The access notification for Memory Match.</div></div><div class="wikia-gallery-item" style="width:187px; "><div class="thumb" style="height:187px;"><div class="gallery-image-wrapper accent" id="Winter_Memory_Match_pricetag-png" style="position: relative; height:185px; width:185px;"><span style="line-height: 1;">Winter Memory Match pricetag.png</span></div></div><div class="lightbox-caption" style="width:185px;">The access notification for Winter Memory Match.</div></div><div class="wikia-gallery-item" style="width:187px; "><div class="thumb" style="height:187px;"><div class="gallery-image-wrapper accent" id="WinterMMError-png" style="position: relative; height:185px; width:185px;"><span style="line-height: 1;">WinterMMError.png</span></div></div><div class="lightbox-caption" style="width:185px;">The prompt that appears when the player chances to play the Winter Memory Match but has not finished the quest "Spirit Bear's Galentine Shrine".</div></div></div>
 
 ## Audio
 

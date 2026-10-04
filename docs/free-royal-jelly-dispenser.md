@@ -1,6 +1,6 @@
 ---
 title: "Free Royal Jelly Dispenser"
-tags: ["Pages with broken file links", "Machines", "Locations", "Dispenser"]
+tags: ["Machines", "Locations", "Dispenser"]
 ---
 
 # Free Royal Jelly Dispenser
@@ -11,7 +11,7 @@ tags: ["Pages with broken file links", "Machines", "Locations", "Dispenser"]
 <h2 class="pi-item pi-header pi-secondary-font pi-item-spacing pi-secondary-background">Information</h2>
 <div class="pi-item pi-data pi-item-spacing pi-border-color" data-source="usage">
 <h3 class="pi-data-label pi-secondary-font">Usage</h3>
-<div class="pi-data-value pi-font">Grants <span typeof="mw:Error mw:File"></span><a href="royal-jelly.html"><span class="color-template color-template-royal-jelly color-template-background-clip">Royal Jellies</span></a> based on the number of gifted bees in the player's hive</div>
+<div class="pi-data-value pi-font">Grants <img alt="Royal Jelly" height="35" src="img/Royal_Jelly.png" width="35"/><a href="royal-jelly.html"><span class="color-template color-template-royal-jelly color-template-background-clip">Royal Jellies</span></a> based on the number of gifted bees in the player's hive</div>
 </div>
 <div class="pi-item pi-data pi-item-spacing pi-border-color" data-source="requirement">
 <h3 class="pi-data-label pi-secondary-font">Requirement(s)</h3>
@@ -33,10 +33,6 @@ tags: ["Pages with broken file links", "Machines", "Locations", "Dispenser"]
 The **Free Royal Jelly Dispenser** is a dispenser that is located in the [Star Hall](star-hall.md). It requires at least 1 [gifted bee type](gifted-bee.md) to redeem [Royal Jelly](royal-jelly.md) and [Haste+](ability-tokens.md#Haste). The number of royal jellies the player receives is based on how many [gifted bees](gifted-bee.md) they currently have in their [hive](hive.md). For example, if the player has 15 gifted bees, but two of them are the same gifted bee, they will still get 15 [Royal Jellies](royal-jelly.md).
 
 This dispenser has a cooldown of 22 hours. Currently, players can get a maximum of 50 royal jellies per use with 50 gifted bees.
-
-## Gallery
-
-<div class="wikia-gallery wikia-gallery-caption-below wikia-gallery-position-left wikia-gallery-spacing-medium wikia-gallery-border-small wikia-gallery-captions-left wikia-gallery-caption-size-medium" data-seq-no="0" hash="6bea780f4d3363532a4808a85068bce9" id="gallery-0"><div class="wikia-gallery-caption"></div><div class="wikia-gallery-item" style="width:187px; "><div class="thumb" style="height:187px;"><div class="gallery-image-wrapper accent" id="Message_when_no_gifted_bees_-png" style="position: relative; height:185px; width:185px;"><span style="line-height: 1;">Message when no gifted bees .png</span></div></div><div class="lightbox-caption" style="width:185px;">The message when the player has no gifted bees.</div></div></div>
 
 ## Trivia
 

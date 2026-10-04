@@ -1,6 +1,6 @@
 ---
 title: "Spider Field"
-tags: ["Pages with broken file links", "Locations", "Fields", "Colorless"]
+tags: ["Locations", "Fields", "Colorless"]
 ---
 
 # Spider Field
@@ -174,10 +174,6 @@ It is a 26x28 field, containing 728 [flowers](flowers.md). The flowers are all w
   * NewMic (Gave Spider Field Boost x3 + other stuff).
   * WintersEnd (Gave Spider Field Code Buff + other stuff).
   * Discord100k (Gave Spider Field Boost x3 + other stuff).
-
-## Gallery
-
-<div class="wikia-gallery wikia-gallery-caption-below wikia-gallery-position-left wikia-gallery-spacing-medium wikia-gallery-border-small wikia-gallery-captions-left wikia-gallery-caption-size-medium" data-seq-no="0" hash="6540145463772c4d7525fb2b788f8da9" id="gallery-0"><div class="wikia-gallery-caption"></div><div class="wikia-gallery-item" style="width:187px; "><div class="thumb" style="height:187px;"><div class="gallery-image-wrapper accent" id="Hivesticker_spider_field_stamp-png" style="position: relative; height:185px; width:185px;"><span style="line-height: 1;">Hivesticker spider field stamp.png</span></div></div><div class="lightbox-caption" style="width:185px;">The Spider Field's associated <a href="sticker.html">field stamp</a>.</div></div></div>
 
 ## Trivia
 

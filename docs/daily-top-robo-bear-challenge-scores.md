@@ -1,6 +1,6 @@
 ---
 title: "Daily Top Robo Bear Challenge Scores"
-tags: ["Pages with broken file links", "Leaderboards", "Robo Bear Challenge"]
+tags: ["Leaderboards", "Robo Bear Challenge"]
 ---
 
 # Daily Top Robo Bear Challenge Scores
@@ -13,7 +13,7 @@ If the player has reached the top 5 by the end of the day, they will be awarded 
 
 If the player has reached the top 100 by the end of the day, they will be awarded with a [Ticket Voucher](sticker.md#Sticker_Index).
 
-<div class="wikia-gallery wikia-gallery-caption-below wikia-gallery-position-left wikia-gallery-spacing-medium wikia-gallery-border-small wikia-gallery-captions-left wikia-gallery-caption-size-medium" data-seq-no="0" hash="69948b0dd37852407a7b93441e75d763" id="gallery-0"><div class="wikia-gallery-caption"></div><div class="wikia-gallery-item" style="width:187px; "><div class="thumb" style="height:187px;"><div class="gallery-image-wrapper accent" id="RoboCub-png" style="position: relative; height:185px; width:185px;"><span style="line-height: 1;">RoboCub.png</span></div></div><div class="lightbox-caption" style="width:185px;">Top 5 Prize for Daily Top Robo Bear Challenge Scores.</div></div></div>
+
 
 <table class="mw-collapsible mw-collapsed NavTable">
 <tbody><tr>

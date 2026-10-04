@@ -1,6 +1,6 @@
 ---
 title: "All-Time Top Red Pollen Collectors"
-tags: ["Pages with broken file links", "Leaderboards", "Locations", "Red"]
+tags: ["Leaderboards", "Locations", "Red"]
 ---
 
 # All-Time Top Red Pollen Collectors

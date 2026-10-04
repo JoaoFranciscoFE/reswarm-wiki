@@ -1,6 +1,6 @@
 ---
 title: "Shocked Bee"
-tags: ["Pages with broken file links", "Bees", "Epic", "Colorless"]
+tags: ["Bees", "Epic", "Colorless"]
 ---
 
 # Shocked Bee
@@ -333,10 +333,6 @@ Shocked Bee likes the [Spider Field](spider-field.md) and the [Pineapple Patch](
 </td><td>2.45455%
 </td></tr>
 </tbody></table>
-
-## Gallery
-
-<div class="wikia-gallery wikia-gallery-caption-below wikia-gallery-position-left wikia-gallery-spacing-medium wikia-gallery-border-small wikia-gallery-captions-left wikia-gallery-caption-size-medium" data-seq-no="0" hash="7490ef43974003c22d9ecea94767b6b9" id="gallery-0"><div class="wikia-gallery-caption"></div><div class="wikia-gallery-item" style="width:187px; "><div class="thumb" style="height:187px;"><div class="gallery-image-wrapper accent" id="ShockedBee_Hive-png" style="position: relative; height:185px; width:185px;"><span style="line-height: 1;">ShockedBee Hive.png</span></div></div><div class="lightbox-caption" style="width:185px;">Shocked Bee's old hive slot design.</div></div><div class="wikia-gallery-item" style="width:187px; "><div class="thumb" style="height:187px;"><div class="gallery-image-wrapper accent" id="Gifted_Shocked_Bee_hive-png" style="position: relative; height:185px; width:185px;"><span style="line-height: 1;">Gifted Shocked Bee hive.png</span></div></div><div class="lightbox-caption" style="width:185px;">A Gifted Shocked Bee hive slot.</div></div><div class="wikia-gallery-item" style="width:187px; "><div class="thumb" style="height:187px;"><div class="gallery-image-wrapper accent" id="Png_-17--png" style="position: relative; height:185px; width:185px;"><span style="line-height: 1;">Png (17).png</span></div></div><div class="lightbox-caption" style="width:185px;">Shocked bee's face.</div></div><div class="wikia-gallery-item" style="width:187px; "><div class="thumb" style="height:187px;"><div class="gallery-image-wrapper accent" id="Ambushripoffjoke-png" style="position: relative; height:185px; width:185px;"><span style="line-height: 1;">Ambushripoffjoke.png</span></div></div><div class="lightbox-caption" style="width:185px;">Shocked Bee's original face.</div></div><div class="wikia-gallery-item" style="width:187px; "><div class="thumb" style="height:187px;"><div class="gallery-image-wrapper accent" id="ShockedBeeJelly-png" style="position: relative; height:185px; width:185px;"><span style="line-height: 1;">ShockedBeeJelly.png</span></div></div><div class="lightbox-caption" style="width:185px;">A Shocked Bee Jelly in a player's inventory.</div></div></div>
 
 ## Trivia
 

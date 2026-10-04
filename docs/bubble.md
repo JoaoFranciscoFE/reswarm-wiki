@@ -1,6 +1,6 @@
 ---
 title: "Bubble"
-tags: ["Pages with broken file links", "Mechanics"]
+tags: ["Mechanics"]
 ---
 
 # Bubble
@@ -83,10 +83,6 @@ Certain upgrades from the Robo Bear Challenge can be used to improve bubbles.
 * Epic Upgrades:
   * Invert: This upgrade makes bubbles collect x4 pollen from red flowers.
   * Pop-Up: This upgrade gives x1.5 Bubble Lifespan.
-
-## Gallery
-
-<div class="wikia-gallery wikia-gallery-caption-below wikia-gallery-position-left wikia-gallery-spacing-medium wikia-gallery-border-small wikia-gallery-captions-left wikia-gallery-caption-size-medium" data-seq-no="0" hash="48603b73976cba59f0af8a8437145ef7" id="gallery-0"><div class="wikia-gallery-caption"></div><div class="wikia-gallery-item" style="width:187px; "><div class="thumb" style="height:187px;"><div class="gallery-image-wrapper accent" id="2019-12-23_-7--png" style="position: relative; height:185px; width:185px;"><span style="line-height: 1;">2019-12-23 (7).png</span></div></div><div class="lightbox-caption" style="width:185px;">A bubble in a field.</div></div><div class="wikia-gallery-item" style="width:187px; "><div class="thumb" style="height:187px;"><div class="gallery-image-wrapper accent" id="Bubbles-png" style="position: relative; height:185px; width:185px;"><span style="line-height: 1;">Bubbles.png</span></div></div><div class="lightbox-caption" style="width:185px;">Two bubbles in the Spider Field.</div></div><div class="wikia-gallery-item" style="width:187px; "><div class="thumb" style="height:187px;"><div class="gallery-image-wrapper accent" id="GoldenBubble-png" style="position: relative; height:185px; width:185px;"><span style="line-height: 1;">GoldenBubble.png</span></div></div><div class="lightbox-caption" style="width:185px;">A golden bubble in a field.</div></div><div class="wikia-gallery-item" style="width:187px; "><div class="thumb" style="height:187px;"><div class="gallery-image-wrapper accent" id="GoldenBubbles1-png" style="position: relative; height:185px; width:185px;"><span style="line-height: 1;">GoldenBubbles1.png</span></div></div><div class="lightbox-caption" style="width:185px;">Multiple golden bubbles in the Pumpkin Patch.</div></div><div class="wikia-gallery-item" style="width:187px; "><div class="thumb" style="height:187px;"><div class="gallery-image-wrapper accent" id="Bubblebloat-png" style="position: relative; height:185px; width:185px;"><span style="line-height: 1;">Bubblebloat.png</span></div></div><div class="lightbox-caption" style="width:185px;">Bubble Bloat buff icon.</div></div></div>
 
 ## Trivia
 

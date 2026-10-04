@@ -1,6 +1,6 @@
 ---
 title: "Codes"
-tags: ["Pages with broken file links", "Gameplay", "Mechanics"]
+tags: ["Gameplay", "Mechanics"]
 ---
 
 # Codes
@@ -40,7 +40,7 @@ Promo **codes** are a feature added in the May 18, 2018 update. It is located at
 </td>
 <td>2026-02-20
 </td>
-<td><span typeof="mw:Error mw:File"></span>Honeyday Event<br/><span typeof="mw:Error mw:File"></span>1 <a href="marshmallow-bee.html"><span class="color-template color-template-marshmallow-bee color-template-background-clip">Marshmallow Bee</span></a><br/><span typeof="mw:Error mw:File"></span>4 <a href="strawberry.html"><span class="color-template color-template-strawberry color-template-background-clip">Strawberries</span></a><br/><span typeof="mw:Error mw:File"></span>4 <a href="sunflower-seed.html"><span class="color-template color-template-sunflower-seed color-template-background-clip">Sunflower Seeds</span></a><br/><span typeof="mw:Error mw:File"></span>4 <a href="blueberry.html"><span class="color-template color-template-blueberry color-template-background-clip">Blueberries</span></a><br/><span typeof="mw:Error mw:File"></span>4 <a href="pineapple.html"><span class="color-template color-template-pineapple color-template-background-clip">Pineapples</span></a><br/><span typeof="mw:Error mw:File"></span>4 <a href="micro-converter.html"><span class="color-template color-template-micro-converter color-template-background-clip">Micro-Converters</span></a><br/><span typeof="mw:Error mw:File"></span>4 <a href="field-dice.html"><span class="color-template color-template-field-dice color-template-background-clip">Field Dice</span></a><br/><span typeof="mw:Error mw:File"></span>4 <a href="gumdrops.html"><span class="color-template color-template-gumdrops color-template-background-clip">Gumdrops</span></a><br/><span typeof="mw:Error mw:File"></span>4 <a href="jelly-beans.html"><span class="color-template color-template-jelly-beans color-template-background-clip">Jelly Beans</span></a><br/><span typeof="mw:Error mw:File"></span>4 <a href="stinger.html"><span class="color-template color-template-stinger color-template-background-clip">Stingers</span></a>
+<td><span typeof="mw:Error mw:File"></span>Honeyday Event<br/><img alt="Marshmallow Bee" height="25" src="img/Marshmallow_Bee.png" width="25"/>1 <a href="marshmallow-bee.html"><span class="color-template color-template-marshmallow-bee color-template-background-clip">Marshmallow Bee</span></a><br/><img alt="Strawberry" height="25" src="img/Strawberry.png" width="25"/>4 <a href="strawberry.html"><span class="color-template color-template-strawberry color-template-background-clip">Strawberries</span></a><br/><img alt="Sunflower Seed" height="25" src="img/Sunflower_Seed.png" width="25"/>4 <a href="sunflower-seed.html"><span class="color-template color-template-sunflower-seed color-template-background-clip">Sunflower Seeds</span></a><br/><img alt="Blueberry" height="25" src="img/Blueberry.png" width="25"/>4 <a href="blueberry.html"><span class="color-template color-template-blueberry color-template-background-clip">Blueberries</span></a><br/><img alt="Pineapple" height="25" src="img/Pineapple.png" width="25"/>4 <a href="pineapple.html"><span class="color-template color-template-pineapple color-template-background-clip">Pineapples</span></a><br/><img alt="Micro-Converter" height="25" src="img/Micro-Converter.png" width="25"/>4 <a href="micro-converter.html"><span class="color-template color-template-micro-converter color-template-background-clip">Micro-Converters</span></a><br/><img alt="Field Dice" height="25" src="img/Field_Dice.png" width="25"/>4 <a href="field-dice.html"><span class="color-template color-template-field-dice color-template-background-clip">Field Dice</span></a><br/><img alt="Gumdrops" height="25" src="img/Gumdrops.png" width="25"/>4 <a href="gumdrops.html"><span class="color-template color-template-gumdrops color-template-background-clip">Gumdrops</span></a><br/><img alt="Jelly Beans" height="25" src="img/Jelly_Beans.png" width="25"/>4 <a href="jelly-beans.html"><span class="color-template color-template-jelly-beans color-template-background-clip">Jelly Beans</span></a><br/><img alt="Stinger" height="25" src="img/Stinger.png" width="25"/>4 <a href="stinger.html"><span class="color-template color-template-stinger color-template-background-clip">Stingers</span></a>
 </td></tr>
 <tr>
 <td>ThreeBeeVee<br/>(Removed Honeyday)
@@ -49,7 +49,7 @@ Promo **codes** are a feature added in the May 18, 2018 update. It is located at
 </td>
 <td>2026-01-05
 </td>
-<td><span typeof="mw:Error mw:File"></span>1 <a href="marshmallow-bee.html"><span class="color-template color-template-marshmallow-bee color-template-background-clip">Marshmallow Bee</span></a><br/><span typeof="mw:Error mw:File"></span>1 <a href="loaded-dice.html"><span class="color-template color-template-loaded-dice color-template-background-clip">Loaded Dice</span></a><br/>Mountain Top Field Code<br/>Mountain Top Field Boost x3<br/>Mountain Top Field Winds x13
+<td><img alt="Marshmallow Bee" height="25" src="img/Marshmallow_Bee.png" width="25"/>1 <a href="marshmallow-bee.html"><span class="color-template color-template-marshmallow-bee color-template-background-clip">Marshmallow Bee</span></a><br/><img alt="Loaded Dice" height="25" src="img/Loaded_Dice.png" width="25"/>1 <a href="loaded-dice.html"><span class="color-template color-template-loaded-dice color-template-background-clip">Loaded Dice</span></a><br/>Mountain Top Field Code<br/>Mountain Top Field Boost x3<br/>Mountain Top Field Winds x13
 </td></tr>
 <tr>
 <td>15MMembers<br/>(Exclusive to club members)
@@ -58,7 +58,7 @@ Promo **codes** are a feature added in the May 18, 2018 update. It is located at
 </td>
 <td>2024-03-13
 </td>
-<td><span typeof="mw:Error mw:File"></span>1 <a href="red-balloon.html"><span class="color-template color-template-red-balloon color-template-background-clip">Red Balloon</span></a><br/><span typeof="mw:Error mw:File"></span>1 <a href="marshmallow-bee.html"><span class="color-template color-template-marshmallow-bee color-template-background-clip">Marshmallow Bee</span></a><br/><span typeof="mw:Error mw:File"></span>15 <a href="strawberry.html"><span class="color-template color-template-strawberry color-template-background-clip">Strawberries</span></a><br/><span typeof="mw:Error mw:File"></span>15 <a href="blueberry.html"><span class="color-template color-template-blueberry color-template-background-clip">Blueberries</span></a><br/><span typeof="mw:Error mw:File"></span>15 <a href="sunflower-seed.html"><span class="color-template color-template-sunflower-seed color-template-background-clip">Sunflower Seeds</span></a><br/><span typeof="mw:Error mw:File"></span>15 <a href="pineapple.html"><span class="color-template color-template-pineapple color-template-background-clip">Pineapples</span></a><br/><span typeof="mw:Error mw:File"></span>15 <a href="bitterberry.html"><span class="color-template color-template-bitterberry color-template-background-clip">Bitterberries</span></a><br/><span typeof="mw:Error mw:File"></span>15 <a href="gumdrops.html"><span class="color-template color-template-gumdrops color-template-background-clip">Gumdrops</span></a><br/>Bamboo Field Boost x4<br/>Bamboo Field Winds x15<br/>Rose Field Boost x4<br/>Rose Field Winds x15<br/>Coconut Field Boost x4<br/>Coconut Field Winds x15
+<td><img alt="Red Balloon" height="25" src="img/Red_Balloon.png" width="25"/>1 <a href="red-balloon.html"><span class="color-template color-template-red-balloon color-template-background-clip">Red Balloon</span></a><br/><img alt="Marshmallow Bee" height="25" src="img/Marshmallow_Bee.png" width="25"/>1 <a href="marshmallow-bee.html"><span class="color-template color-template-marshmallow-bee color-template-background-clip">Marshmallow Bee</span></a><br/><img alt="Strawberry" height="25" src="img/Strawberry.png" width="25"/>15 <a href="strawberry.html"><span class="color-template color-template-strawberry color-template-background-clip">Strawberries</span></a><br/><img alt="Blueberry" height="25" src="img/Blueberry.png" width="25"/>15 <a href="blueberry.html"><span class="color-template color-template-blueberry color-template-background-clip">Blueberries</span></a><br/><img alt="Sunflower Seed" height="25" src="img/Sunflower_Seed.png" width="25"/>15 <a href="sunflower-seed.html"><span class="color-template color-template-sunflower-seed color-template-background-clip">Sunflower Seeds</span></a><br/><img alt="Pineapple" height="25" src="img/Pineapple.png" width="25"/>15 <a href="pineapple.html"><span class="color-template color-template-pineapple color-template-background-clip">Pineapples</span></a><br/><img alt="Bitterberry" height="25" src="img/Bitterberry.png" width="25"/>15 <a href="bitterberry.html"><span class="color-template color-template-bitterberry color-template-background-clip">Bitterberries</span></a><br/><img alt="Gumdrops" height="25" src="img/Gumdrops.png" width="25"/>15 <a href="gumdrops.html"><span class="color-template color-template-gumdrops color-template-background-clip">Gumdrops</span></a><br/>Bamboo Field Boost x4<br/>Bamboo Field Winds x15<br/>Rose Field Boost x4<br/>Rose Field Winds x15<br/>Coconut Field Boost x4<br/>Coconut Field Winds x15
 </td></tr>
 <tr>
 <td>BeesBuzz123
@@ -67,7 +67,7 @@ Promo **codes** are a feature added in the May 18, 2018 update. It is located at
 </td>
 <td>2019-09-26
 </td>
-<td><span typeof="mw:Error mw:File"></span>1 <a href="cloud-vial.html"><span class="color-template color-template-cloud-vial color-template-background-clip">Cloud Vial</span></a><br/><span typeof="mw:Error mw:File"></span>5 <a href="bitterberry.html"><span class="color-template color-template-bitterberry color-template-background-clip">Bitterberries</span></a><br/><span typeof="mw:Error mw:File"></span>10 <a href="gumdrops.html"><span class="color-template color-template-gumdrops color-template-background-clip">Gumdrops</span></a>
+<td><img alt="Cloud Vial" height="25" src="img/Cloud_Vial.png" width="25"/>1 <a href="cloud-vial.html"><span class="color-template color-template-cloud-vial color-template-background-clip">Cloud Vial</span></a><br/><img alt="Bitterberry" height="25" src="img/Bitterberry.png" width="25"/>5 <a href="bitterberry.html"><span class="color-template color-template-bitterberry color-template-background-clip">Bitterberries</span></a><br/><img alt="Gumdrops" height="25" src="img/Gumdrops.png" width="25"/>10 <a href="gumdrops.html"><span class="color-template color-template-gumdrops color-template-background-clip">Gumdrops</span></a>
 </td></tr>
 <tr>
 <td>GumdropsForScience<br/>(Exclusive to club members)
@@ -76,7 +76,7 @@ Promo **codes** are a feature added in the May 18, 2018 update. It is located at
 </td>
 <td>2018-12-19 –<br/>Undocumented (2024)<br/><br/>2025-06-30 (Estimated date)
 </td>
-<td><span typeof="mw:Error mw:File"></span>15 <a href="gumdrops.html"><span class="color-template color-template-gumdrops color-template-background-clip">Gumdrops</span></a>
+<td><img alt="Gumdrops" height="25" src="img/Gumdrops.png" width="25"/>15 <a href="gumdrops.html"><span class="color-template color-template-gumdrops color-template-background-clip">Gumdrops</span></a>
 </td></tr>
 <tr>
 <td>ClubBean
@@ -85,7 +85,7 @@ Promo **codes** are a feature added in the May 18, 2018 update. It is located at
 </td>
 <td>2018-11-28
 </td>
-<td><span typeof="mw:Error mw:File"></span>1 <a href="magic-bean.html"><span class="color-template color-template-magic-bean color-template-background-clip">Magic Bean</span></a><br/>Pineapple Patch Boost x2
+<td><img alt="Magic Bean" height="25" src="img/Magic_Bean.png" width="25"/>1 <a href="magic-bean.html"><span class="color-template color-template-magic-bean color-template-background-clip">Magic Bean</span></a><br/>Pineapple Patch Boost x2
 </td></tr>
 <tr>
 <td>38217
@@ -94,7 +94,7 @@ Promo **codes** are a feature added in the May 18, 2018 update. It is located at
 </td>
 <td>2018-05-18
 </td>
-<td><span typeof="mw:Error mw:File"></span>5 <a href="ticket.html"><span class="color-template color-template-ticket color-template-background-clip">Tickets</span></a>
+<td><img alt="Ticket" height="25" src="img/Ticket.png" width="25"/>5 <a href="ticket.html"><span class="color-template color-template-ticket color-template-background-clip">Tickets</span></a>
 </td></tr>
 <tr>
 <td>Bopmaster
@@ -103,7 +103,7 @@ Promo **codes** are a feature added in the May 18, 2018 update. It is located at
 </td>
 <td>2018-05-18
 </td>
-<td><span typeof="mw:Error mw:File"></span>5 <a href="ticket.html"><span class="color-template color-template-ticket color-template-background-clip">Tickets</span></a>
+<td><img alt="Ticket" height="25" src="img/Ticket.png" width="25"/>5 <a href="ticket.html"><span class="color-template color-template-ticket color-template-background-clip">Tickets</span></a>
 </td></tr>
 <tr>
 <td>Connoisseur
@@ -112,7 +112,7 @@ Promo **codes** are a feature added in the May 18, 2018 update. It is located at
 </td>
 <td>2018-05-18
 </td>
-<td><span typeof="mw:Error mw:File"></span>5 <a href="ticket.html"><span class="color-template color-template-ticket color-template-background-clip">Tickets</span></a>
+<td><img alt="Ticket" height="25" src="img/Ticket.png" width="25"/>5 <a href="ticket.html"><span class="color-template color-template-ticket color-template-background-clip">Tickets</span></a>
 </td></tr>
 <tr>
 <td>Crawlers
@@ -121,7 +121,7 @@ Promo **codes** are a feature added in the May 18, 2018 update. It is located at
 </td>
 <td>2018-05-18
 </td>
-<td><span typeof="mw:Error mw:File"></span>5 <a href="ticket.html"><span class="color-template color-template-ticket color-template-background-clip">Tickets</span></a>
+<td><img alt="Ticket" height="25" src="img/Ticket.png" width="25"/>5 <a href="ticket.html"><span class="color-template color-template-ticket color-template-background-clip">Tickets</span></a>
 </td></tr>
 <tr>
 <td>Nectar
@@ -130,7 +130,7 @@ Promo **codes** are a feature added in the May 18, 2018 update. It is located at
 </td>
 <td>2018-05-18
 </td>
-<td><span typeof="mw:Error mw:File"></span>5,000 <a href="honey.html"><span class="color-template color-template-honey">Honey</span></a>
+<td><img alt="Honey" height="25" src="img/Honey.png" width="25"/>5,000 <a href="honey.html"><span class="color-template color-template-honey">Honey</span></a>
 </td></tr>
 <tr>
 <td>Roof
@@ -139,7 +139,7 @@ Promo **codes** are a feature added in the May 18, 2018 update. It is located at
 </td>
 <td>2018-05-18
 </td>
-<td><span typeof="mw:Error mw:File"></span>5 <a href="ticket.html"><span class="color-template color-template-ticket color-template-background-clip">Tickets</span></a>
+<td><img alt="Ticket" height="25" src="img/Ticket.png" width="25"/>5 <a href="ticket.html"><span class="color-template color-template-ticket color-template-background-clip">Tickets</span></a>
 </td></tr>
 <tr>
 <td>Wax
@@ -148,7 +148,7 @@ Promo **codes** are a feature added in the May 18, 2018 update. It is located at
 </td>
 <td>2018-05-18
 </td>
-<td><span typeof="mw:Error mw:File"></span>5 <a href="ticket.html"><span class="color-template color-template-ticket color-template-background-clip">Tickets</span></a><br/><span typeof="mw:Error mw:File"></span>5,000 <a href="honey.html"><span class="color-template color-template-honey">Honey</span></a>
+<td><img alt="Ticket" height="25" src="img/Ticket.png" width="25"/>5 <a href="ticket.html"><span class="color-template color-template-ticket color-template-background-clip">Tickets</span></a><br/><img alt="Honey" height="25" src="img/Honey.png" width="25"/>5,000 <a href="honey.html"><span class="color-template color-template-honey">Honey</span></a>
 </td></tr></tbody></table>
 
 ## Expired codes
@@ -170,7 +170,7 @@ Promo **codes** are a feature added in the May 18, 2018 update. It is located at
 </td>
 <td>2018-05-18 –<br/>2018-05-18
 </td>
-<td><span typeof="mw:Error mw:File"></span>10 <a href="ticket.html"><span class="color-template color-template-ticket color-template-background-clip">Tickets</span></a><br/><span typeof="mw:Error mw:File"></span>1 <a href="royal-jelly.html"><span class="color-template color-template-royal-jelly color-template-background-clip">Royal Jelly</span></a><br/><span typeof="mw:Error mw:File"></span>5,000 <a href="honey.html"><span class="color-template color-template-honey">Honey</span></a>
+<td><img alt="Ticket" height="25" src="img/Ticket.png" width="25"/>10 <a href="ticket.html"><span class="color-template color-template-ticket color-template-background-clip">Tickets</span></a><br/><img alt="Royal Jelly" height="25" src="img/Royal_Jelly.png" width="25"/>1 <a href="royal-jelly.html"><span class="color-template color-template-royal-jelly color-template-background-clip">Royal Jelly</span></a><br/><img alt="Honey" height="25" src="img/Honey.png" width="25"/>5,000 <a href="honey.html"><span class="color-template color-template-honey">Honey</span></a>
 </td></tr>
 <tr>
 <td>General
@@ -179,7 +179,7 @@ Promo **codes** are a feature added in the May 18, 2018 update. It is located at
 </td>
 <td>2018-05-19<br/>(1 hour)
 </td>
-<td><span typeof="mw:Error mw:File"></span>10,000 <a href="honey.html"><span class="color-template color-template-honey">Honey</span></a><br/><span typeof="mw:Error mw:File"></span>5 <a href="ticket.html"><span class="color-template color-template-ticket color-template-background-clip">Tickets</span></a>
+<td><img alt="Honey" height="25" src="img/Honey.png" width="25"/>10,000 <a href="honey.html"><span class="color-template color-template-honey">Honey</span></a><br/><img alt="Ticket" height="25" src="img/Ticket.png" width="25"/>5 <a href="ticket.html"><span class="color-template color-template-ticket color-template-background-clip">Tickets</span></a>
 </td></tr>
 <tr>
 <td>ThoseEyes
@@ -188,7 +188,7 @@ Promo **codes** are a feature added in the May 18, 2018 update. It is located at
 </td>
 <td>2018-05-19 –<br/>2018-05-19
 </td>
-<td>Looker Bee Jelly x1<br/><span typeof="mw:Error mw:File"></span>2 <a href="ticket.html"><span class="color-template color-template-ticket color-template-background-clip">Tickets</span></a><br/><span typeof="mw:Error mw:File"></span>4,000 <a href="honey.html"><span class="color-template color-template-honey">Honey</span></a>
+<td>Looker Bee Jelly x1<br/><img alt="Ticket" height="25" src="img/Ticket.png" width="25"/>2 <a href="ticket.html"><span class="color-template color-template-ticket color-template-background-clip">Tickets</span></a><br/><img alt="Honey" height="25" src="img/Honey.png" width="25"/>4,000 <a href="honey.html"><span class="color-template color-template-honey">Honey</span></a>
 </td></tr>
 <tr>
 <td>NotHoney
@@ -197,7 +197,7 @@ Promo **codes** are a feature added in the May 18, 2018 update. It is located at
 </td>
 <td>2018-05-19 –<br/>2018-05-19
 </td>
-<td><span typeof="mw:Error mw:File"></span>1 <a href="honey.html"><span class="color-template color-template-honey">Honey</span></a><br/>turns you into a bear (<a href="ability-tokens.html#Bear_Morph">Bear Morph</a>)
+<td><img alt="Honey" height="25" src="img/Honey.png" width="25"/>1 <a href="honey.html"><span class="color-template color-template-honey">Honey</span></a><br/>turns you into a bear (<a href="ability-tokens.html#Bear_Morph">Bear Morph</a>)
 </td></tr>
 <tr>
 <td>Decaboost
@@ -233,7 +233,7 @@ Promo **codes** are a feature added in the May 18, 2018 update. It is located at
 </td>
 <td>2018-05-19 –<br/>2018-05-21
 </td>
-<td>Rad Bee Jelly x1<br/>Red Boost x10<br/>Mushroom Field Boost<br/><span typeof="mw:Error mw:File"></span>5 <a href="ticket.html"><span class="color-template color-template-ticket color-template-background-clip">Tickets</span></a><br/><span typeof="mw:Error mw:File"></span>5,000 <a href="honey.html"><span class="color-template color-template-honey">Honey</span></a>
+<td>Rad Bee Jelly x1<br/>Red Boost x10<br/>Mushroom Field Boost<br/><img alt="Ticket" height="25" src="img/Ticket.png" width="25"/>5 <a href="ticket.html"><span class="color-template color-template-ticket color-template-background-clip">Tickets</span></a><br/><img alt="Honey" height="25" src="img/Honey.png" width="25"/>5,000 <a href="honey.html"><span class="color-template color-template-honey">Honey</span></a>
 </td></tr>
 <tr>
 <td>Change
@@ -242,7 +242,7 @@ Promo **codes** are a feature added in the May 18, 2018 update. It is located at
 </td>
 <td>2018-05-18 –<br/>2018-05-02?
 </td>
-<td><span typeof="mw:Error mw:File"></span>1 <a href="royal-jelly.html"><span class="color-template color-template-royal-jelly color-template-background-clip">Royal Jelly</span></a>
+<td><img alt="Royal Jelly" height="25" src="img/Royal_Jelly.png" width="25"/>1 <a href="royal-jelly.html"><span class="color-template color-template-royal-jelly color-template-background-clip">Royal Jelly</span></a>
 </td></tr>
 <tr>
 <td>Keen4
@@ -251,7 +251,7 @@ Promo **codes** are a feature added in the May 18, 2018 update. It is located at
 </td>
 <td>2018-05-22<br/>(30 minutes)
 </td>
-<td>Commander Bee Jelly x1<br/>Mountain Top Field Boost x3<br/><span typeof="mw:Error mw:File"></span>3 <a href="ticket.html"><span class="color-template color-template-ticket color-template-background-clip">Tickets</span></a><br/><span typeof="mw:Error mw:File"></span>10,000 <a href="honey.html"><span class="color-template color-template-honey">Honey</span></a>
+<td>Commander Bee Jelly x1<br/>Mountain Top Field Boost x3<br/><img alt="Ticket" height="25" src="img/Ticket.png" width="25"/>3 <a href="ticket.html"><span class="color-template color-template-ticket color-template-background-clip">Tickets</span></a><br/><img alt="Honey" height="25" src="img/Honey.png" width="25"/>10,000 <a href="honey.html"><span class="color-template color-template-honey">Honey</span></a>
 </td></tr>
 <tr>
 <td>PandaPower
@@ -260,7 +260,7 @@ Promo **codes** are a feature added in the May 18, 2018 update. It is located at
 </td>
 <td>2018-05-21 –<br/>2018-05-22
 </td>
-<td>Panda Bear Morph<br/>Bamboo Field Boost<br/><a href="ability-tokens.html#Haste">Haste</a> x10<br/><a href="ability-tokens.html#Focus">Focus</a> x10<br/><a href="ability-tokens.html#Rage">Rage</a><br/><span typeof="mw:Error mw:File"></span>3 <a href="ticket.html"><span class="color-template color-template-ticket color-template-background-clip">Tickets</span></a><br/><span typeof="mw:Error mw:File"></span>3,000 <a href="honey.html"><span class="color-template color-template-honey">Honey</span></a>
+<td>Panda Bear Morph<br/>Bamboo Field Boost<br/><a href="ability-tokens.html#Haste">Haste</a> x10<br/><a href="ability-tokens.html#Focus">Focus</a> x10<br/><a href="ability-tokens.html#Rage">Rage</a><br/><img alt="Ticket" height="25" src="img/Ticket.png" width="25"/>3 <a href="ticket.html"><span class="color-template color-template-ticket color-template-background-clip">Tickets</span></a><br/><img alt="Honey" height="25" src="img/Honey.png" width="25"/>3,000 <a href="honey.html"><span class="color-template color-template-honey">Honey</span></a>
 </td></tr>
 <tr>
 <td>Friday
@@ -269,7 +269,7 @@ Promo **codes** are a feature added in the May 18, 2018 update. It is located at
 </td>
 <td>2018-05-25 –<br/>2018-05-26
 </td>
-<td><span typeof="mw:Error mw:File"></span>10,000 <a href="honey.html"><span class="color-template color-template-honey">Honey</span></a><br/><span typeof="mw:Error mw:File"></span>5 <a href="ticket.html"><span class="color-template color-template-ticket color-template-background-clip">Tickets</span></a><br/>Bamboo Field Boost x5<br/>Strawberry Field x5<br/><span typeof="mw:Error mw:File"></span>1 <a href="royal-jelly.html"><span class="color-template color-template-royal-jelly color-template-background-clip">Royal Jelly</span></a><br/>Haste+
+<td><img alt="Honey" height="25" src="img/Honey.png" width="25"/>10,000 <a href="honey.html"><span class="color-template color-template-honey">Honey</span></a><br/><img alt="Ticket" height="25" src="img/Ticket.png" width="25"/>5 <a href="ticket.html"><span class="color-template color-template-ticket color-template-background-clip">Tickets</span></a><br/>Bamboo Field Boost x5<br/>Strawberry Field x5<br/><img alt="Royal Jelly" height="25" src="img/Royal_Jelly.png" width="25"/>1 <a href="royal-jelly.html"><span class="color-template color-template-royal-jelly color-template-background-clip">Royal Jelly</span></a><br/>Haste+
 </td></tr>
 <tr>
 <td>Wax2
@@ -278,7 +278,7 @@ Promo **codes** are a feature added in the May 18, 2018 update. It is located at
 </td>
 <td>2018-05-18 –<br/>before 2018-06-01
 </td>
-<td><span typeof="mw:Error mw:File"></span>5 <a href="ticket.html"><span class="color-template color-template-ticket color-template-background-clip">Tickets</span></a> ("wax2 was a code by accident for a while. When I was testing codes I put it in there and forgot to take it out")
+<td><img alt="Ticket" height="25" src="img/Ticket.png" width="25"/>5 <a href="ticket.html"><span class="color-template color-template-ticket color-template-background-clip">Tickets</span></a> ("wax2 was a code by accident for a while. When I was testing codes I put it in there and forgot to take it out")
 </td></tr>
 <tr>
 <td>Arizona
@@ -287,7 +287,7 @@ Promo **codes** are a feature added in the May 18, 2018 update. It is located at
 </td>
 <td>2018-05-31 –<br/>2018-06-02
 </td>
-<td><span typeof="mw:Error mw:File"></span>5 <a href="ticket.html"><span class="color-template color-template-ticket color-template-background-clip">Tickets</span></a><br/><span typeof="mw:Error mw:File"></span>10 <a href="gumdrops.html"><span class="color-template color-template-gumdrops color-template-background-clip">Gumdrops</span></a><br/>Baby Love<br/>Polar Bear Morph<br/>Haste+<br/>Cactus Field Boost x4
+<td><img alt="Ticket" height="25" src="img/Ticket.png" width="25"/>5 <a href="ticket.html"><span class="color-template color-template-ticket color-template-background-clip">Tickets</span></a><br/><img alt="Gumdrops" height="25" src="img/Gumdrops.png" width="25"/>10 <a href="gumdrops.html"><span class="color-template color-template-gumdrops color-template-background-clip">Gumdrops</span></a><br/>Baby Love<br/>Polar Bear Morph<br/>Haste+<br/>Cactus Field Boost x4
 </td></tr>
 <tr>
 <td>AccentMaster
@@ -296,7 +296,7 @@ Promo **codes** are a feature added in the May 18, 2018 update. It is located at
 </td>
 <td>2018-05-22 –<br/>2018-06-02
 </td>
-<td>Baby Love<br/>Mushroom Field Boost<br/>Sunflower Field Boost<br/>Dandelion Field Boost<br/>Blue Flower Field Boost<br/><span typeof="mw:Error mw:File"></span>1 <a href="royal-jelly.html"><span class="color-template color-template-royal-jelly color-template-background-clip">Royal Jelly</span></a><br/><span typeof="mw:Error mw:File"></span>1 <a href="ticket.html"><span class="color-template color-template-ticket color-template-background-clip">Ticket</span></a><br/><span typeof="mw:Error mw:File"></span>5,000 <a href="honey.html"><span class="color-template color-template-honey">Honey</span></a>
+<td>Baby Love<br/>Mushroom Field Boost<br/>Sunflower Field Boost<br/>Dandelion Field Boost<br/>Blue Flower Field Boost<br/><img alt="Royal Jelly" height="25" src="img/Royal_Jelly.png" width="25"/>1 <a href="royal-jelly.html"><span class="color-template color-template-royal-jelly color-template-background-clip">Royal Jelly</span></a><br/><img alt="Ticket" height="25" src="img/Ticket.png" width="25"/>1 <a href="ticket.html"><span class="color-template color-template-ticket color-template-background-clip">Ticket</span></a><br/><img alt="Honey" height="25" src="img/Honey.png" width="25"/>5,000 <a href="honey.html"><span class="color-template color-template-honey">Honey</span></a>
 </td></tr>
 <tr>
 <td>Tabby
@@ -305,7 +305,7 @@ Promo **codes** are a feature added in the May 18, 2018 update. It is located at
 </td>
 <td>2018-05-28 –<br/>2018-05-29
 </td>
-<td><span typeof="mw:Error mw:File"></span>5 <a href="ticket.html"><span class="color-template color-template-ticket color-template-background-clip">Tickets</span></a><br/><span typeof="mw:Error mw:File"></span>5 <a href="gumdrops.html"><span class="color-template color-template-gumdrops color-template-background-clip">Gumdrops</span></a><br/><span typeof="mw:Error mw:File"></span>5,000 <a href="honey.html"><span class="color-template color-template-honey">Honey</span></a><br/>Spider Field Boost<br/>Pineapple Patch Boost<br/>Pumpkin Patch Boost
+<td><img alt="Ticket" height="25" src="img/Ticket.png" width="25"/>5 <a href="ticket.html"><span class="color-template color-template-ticket color-template-background-clip">Tickets</span></a><br/><img alt="Gumdrops" height="25" src="img/Gumdrops.png" width="25"/>5 <a href="gumdrops.html"><span class="color-template color-template-gumdrops color-template-background-clip">Gumdrops</span></a><br/><img alt="Honey" height="25" src="img/Honey.png" width="25"/>5,000 <a href="honey.html"><span class="color-template color-template-honey">Honey</span></a><br/>Spider Field Boost<br/>Pineapple Patch Boost<br/>Pumpkin Patch Boost
 </td></tr>
 <tr>
 <td>JellyHill
@@ -314,7 +314,7 @@ Promo **codes** are a feature added in the May 18, 2018 update. It is located at
 </td>
 <td>2018-06-01 –<br/>2018-06-02
 </td>
-<td><span typeof="mw:Error mw:File"></span>1 <a href="royal-jelly.html"><span class="color-template color-template-royal-jelly color-template-background-clip">Royal Jelly</span></a><br/><span typeof="mw:Error mw:File"></span>3 <a href="ticket.html"><span class="color-template color-template-ticket color-template-background-clip">Tickets</span></a><br/><span typeof="mw:Error mw:File"></span>5 <a href="gumdrops.html"><span class="color-template color-template-gumdrops color-template-background-clip">Gumdrops</span></a><br/>Melody<br/>Focus x10<br/>Brown Bear Morph<br/>Haste+<br/>Clover Field Boost x6
+<td><img alt="Royal Jelly" height="25" src="img/Royal_Jelly.png" width="25"/>1 <a href="royal-jelly.html"><span class="color-template color-template-royal-jelly color-template-background-clip">Royal Jelly</span></a><br/><img alt="Ticket" height="25" src="img/Ticket.png" width="25"/>3 <a href="ticket.html"><span class="color-template color-template-ticket color-template-background-clip">Tickets</span></a><br/><img alt="Gumdrops" height="25" src="img/Gumdrops.png" width="25"/>5 <a href="gumdrops.html"><span class="color-template color-template-gumdrops color-template-background-clip">Gumdrops</span></a><br/>Melody<br/>Focus x10<br/>Brown Bear Morph<br/>Haste+<br/>Clover Field Boost x6
 </td></tr>
 <tr>
 <td>MischiefMaker
@@ -323,7 +323,7 @@ Promo **codes** are a feature added in the May 18, 2018 update. It is located at
 </td>
 <td>2018-06-06<br/>(1 hour)
 </td>
-<td>Rascal Bee Jelly x1<br/><span typeof="mw:Error mw:File"></span>1 <a href="ticket.html"><span class="color-template color-template-ticket color-template-background-clip">Ticket</span></a><br/><span typeof="mw:Error mw:File"></span>10 <a href="gumdrops.html"><span class="color-template color-template-gumdrops color-template-background-clip">Gumdrops</span></a><br/>Bomb Combo x10<br/>Red Bomb Sync<br/>Blue Bomb Sync<br/>Mushroom Field Boost x6
+<td>Rascal Bee Jelly x1<br/><img alt="Ticket" height="25" src="img/Ticket.png" width="25"/>1 <a href="ticket.html"><span class="color-template color-template-ticket color-template-background-clip">Ticket</span></a><br/><img alt="Gumdrops" height="25" src="img/Gumdrops.png" width="25"/>10 <a href="gumdrops.html"><span class="color-template color-template-gumdrops color-template-background-clip">Gumdrops</span></a><br/>Bomb Combo x10<br/>Red Bomb Sync<br/>Blue Bomb Sync<br/>Mushroom Field Boost x6
 </td></tr>
 <tr>
 <td>Meow
@@ -332,7 +332,7 @@ Promo **codes** are a feature added in the May 18, 2018 update. It is located at
 </td>
 <td>2018-05-18 –<br/>2018-06-09
 </td>
-<td><span typeof="mw:Error mw:File"></span>5 <a href="ticket.html"><span class="color-template color-template-ticket color-template-background-clip">Tickets</span></a>
+<td><img alt="Ticket" height="25" src="img/Ticket.png" width="25"/>5 <a href="ticket.html"><span class="color-template color-template-ticket color-template-background-clip">Tickets</span></a>
 </td></tr>
 <tr>
 <td>Cornsyrup
@@ -341,7 +341,7 @@ Promo **codes** are a feature added in the May 18, 2018 update. It is located at
 </td>
 <td>2018-06-09 –<br/>2018-06-11
 </td>
-<td><span typeof="mw:Error mw:File"></span>30 <a href="gumdrops.html"><span class="color-template color-template-gumdrops color-template-background-clip">Gumdrops</span></a>
+<td><img alt="Gumdrops" height="25" src="img/Gumdrops.png" width="25"/>30 <a href="gumdrops.html"><span class="color-template color-template-gumdrops color-template-background-clip">Gumdrops</span></a>
 </td></tr>
 <tr>
 <td>Unity<br/>(Exclusive to club members)
@@ -350,7 +350,7 @@ Promo **codes** are a feature added in the May 18, 2018 update. It is located at
 </td>
 <td>2018-06-02 –<br/>2018-06-13
 </td>
-<td><span typeof="mw:Error mw:File"></span>1 <a href="royal-jelly.html"><span class="color-template color-template-royal-jelly color-template-background-clip">Royal Jelly</span></a><br/><span typeof="mw:Error mw:File"></span>5 <a href="ticket.html"><span class="color-template color-template-ticket color-template-background-clip">Tickets</span></a><br/><span typeof="mw:Error mw:File"></span>5 <a href="gumdrops.html"><span class="color-template color-template-gumdrops color-template-background-clip">Gumdrops</span></a><br/>Haste+
+<td><img alt="Royal Jelly" height="25" src="img/Royal_Jelly.png" width="25"/>1 <a href="royal-jelly.html"><span class="color-template color-template-royal-jelly color-template-background-clip">Royal Jelly</span></a><br/><img alt="Ticket" height="25" src="img/Ticket.png" width="25"/>5 <a href="ticket.html"><span class="color-template color-template-ticket color-template-background-clip">Tickets</span></a><br/><img alt="Gumdrops" height="25" src="img/Gumdrops.png" width="25"/>5 <a href="gumdrops.html"><span class="color-template color-template-gumdrops color-template-background-clip">Gumdrops</span></a><br/>Haste+
 </td></tr>
 <tr>
 <td>Starch
@@ -359,7 +359,7 @@ Promo **codes** are a feature added in the May 18, 2018 update. It is located at
 </td>
 <td>2018-06-08 –<br/>2018-06-18
 </td>
-<td><span typeof="mw:Error mw:File"></span>30 <a href="gumdrops.html"><span class="color-template color-template-gumdrops color-template-background-clip">Gumdrops</span></a>
+<td><img alt="Gumdrops" height="25" src="img/Gumdrops.png" width="25"/>30 <a href="gumdrops.html"><span class="color-template color-template-gumdrops color-template-background-clip">Gumdrops</span></a>
 </td></tr>
 <tr>
 <td>100mvisits
@@ -368,7 +368,7 @@ Promo **codes** are a feature added in the May 18, 2018 update. It is located at
 </td>
 <td>2018-06-04 –<br/>2018-06-19
 </td>
-<td><span typeof="mw:Error mw:File"></span>1 <a href="royal-jelly.html"><span class="color-template color-template-royal-jelly color-template-background-clip">Royal Jelly</span></a><br/><span typeof="mw:Error mw:File"></span>5 <a href="ticket.html"><span class="color-template color-template-ticket color-template-background-clip">Tickets</span></a><br/><span typeof="mw:Error mw:File"></span>5 <a href="gumdrops.html"><span class="color-template color-template-gumdrops color-template-background-clip">Gumdrops</span></a><br/><span typeof="mw:Error mw:File"></span>5,000 <a href="honey.html"><span class="color-template color-template-honey">Honey</span></a><br/>Haste+<br/>Black Bear Morph<br/>Baby Love<br/>Melody<br/>Blue Boost x10<br/>Red Boost x10<br/>Focus x10<br/>Sunflower Field Boost x6<br/>Mountain Top Field Boost x3
+<td><img alt="Royal Jelly" height="25" src="img/Royal_Jelly.png" width="25"/>1 <a href="royal-jelly.html"><span class="color-template color-template-royal-jelly color-template-background-clip">Royal Jelly</span></a><br/><img alt="Ticket" height="25" src="img/Ticket.png" width="25"/>5 <a href="ticket.html"><span class="color-template color-template-ticket color-template-background-clip">Tickets</span></a><br/><img alt="Gumdrops" height="25" src="img/Gumdrops.png" width="25"/>5 <a href="gumdrops.html"><span class="color-template color-template-gumdrops color-template-background-clip">Gumdrops</span></a><br/><img alt="Honey" height="25" src="img/Honey.png" width="25"/>5,000 <a href="honey.html"><span class="color-template color-template-honey">Honey</span></a><br/>Haste+<br/>Black Bear Morph<br/>Baby Love<br/>Melody<br/>Blue Boost x10<br/>Red Boost x10<br/>Focus x10<br/>Sunflower Field Boost x6<br/>Mountain Top Field Boost x3
 </td></tr>
 <tr>
 <td>Xanthan
@@ -377,7 +377,7 @@ Promo **codes** are a feature added in the May 18, 2018 update. It is located at
 </td>
 <td>2018-06-12 –<br/>2018-06-19
 </td>
-<td><span typeof="mw:Error mw:File"></span>5 <a href="ticket.html"><span class="color-template color-template-ticket color-template-background-clip">Tickets</span></a><br/><span typeof="mw:Error mw:File"></span>30 <a href="gumdrops.html"><span class="color-template color-template-gumdrops color-template-background-clip">Gumdrops</span></a><br/><span typeof="mw:Error mw:File"></span>5,000 <a href="honey.html"><span class="color-template color-template-honey">Honey</span></a><br/>Blue Flower Field Boost x5<br/>Pumpkin Patch Boost x4<br/>Mountain Top Field Boost x3
+<td><img alt="Ticket" height="25" src="img/Ticket.png" width="25"/>5 <a href="ticket.html"><span class="color-template color-template-ticket color-template-background-clip">Tickets</span></a><br/><img alt="Gumdrops" height="25" src="img/Gumdrops.png" width="25"/>30 <a href="gumdrops.html"><span class="color-template color-template-gumdrops color-template-background-clip">Gumdrops</span></a><br/><img alt="Honey" height="25" src="img/Honey.png" width="25"/>5,000 <a href="honey.html"><span class="color-template color-template-honey">Honey</span></a><br/>Blue Flower Field Boost x5<br/>Pumpkin Patch Boost x4<br/>Mountain Top Field Boost x3
 </td></tr>
 <tr>
 <td>Gel
@@ -386,7 +386,7 @@ Promo **codes** are a feature added in the May 18, 2018 update. It is located at
 </td>
 <td>2018-06-15 –<br/>2018-06-19
 </td>
-<td><span typeof="mw:Error mw:File"></span>1 <a href="ticket.html"><span class="color-template color-template-ticket color-template-background-clip">Ticket</span></a><br/><span typeof="mw:Error mw:File"></span>15 <a href="gumdrops.html"><span class="color-template color-template-gumdrops color-template-background-clip">Gumdrops</span></a><br/>Sunflower Field Boost x5<br/><span typeof="mw:Error mw:File"></span>2,500 <a href="honey.html"><span class="color-template color-template-honey">Honey</span></a>
+<td><img alt="Ticket" height="25" src="img/Ticket.png" width="25"/>1 <a href="ticket.html"><span class="color-template color-template-ticket color-template-background-clip">Ticket</span></a><br/><img alt="Gumdrops" height="25" src="img/Gumdrops.png" width="25"/>15 <a href="gumdrops.html"><span class="color-template color-template-gumdrops color-template-background-clip">Gumdrops</span></a><br/>Sunflower Field Boost x5<br/><img alt="Honey" height="25" src="img/Honey.png" width="25"/>2,500 <a href="honey.html"><span class="color-template color-template-honey">Honey</span></a>
 </td></tr>
 <tr>
 <td>LateNightGumdrops
@@ -395,7 +395,7 @@ Promo **codes** are a feature added in the May 18, 2018 update. It is located at
 </td>
 <td>2018-06-24<br/>(1 hour)
 </td>
-<td><span typeof="mw:Error mw:File"></span>1 <a href="ticket.html"><span class="color-template color-template-ticket color-template-background-clip">Ticket</span></a><br/><span typeof="mw:Error mw:File"></span>20 <a href="gumdrops.html"><span class="color-template color-template-gumdrops color-template-background-clip">Gumdrops</span></a><br/>Baby Love<br/>Spider Field Boost x2<br/>Pineapple Patch Boost x2<br/>Rose Field Boost x2<br/>Pine Tree Forest Boost x2
+<td><img alt="Ticket" height="25" src="img/Ticket.png" width="25"/>1 <a href="ticket.html"><span class="color-template color-template-ticket color-template-background-clip">Ticket</span></a><br/><img alt="Gumdrops" height="25" src="img/Gumdrops.png" width="25"/>20 <a href="gumdrops.html"><span class="color-template color-template-gumdrops color-template-background-clip">Gumdrops</span></a><br/>Baby Love<br/>Spider Field Boost x2<br/>Pineapple Patch Boost x2<br/>Rose Field Boost x2<br/>Pine Tree Forest Boost x2
 </td></tr>
 <tr>
 <td>Afternoon
@@ -404,7 +404,7 @@ Promo **codes** are a feature added in the May 18, 2018 update. It is located at
 </td>
 <td>2018-06-22 –<br/>2018-06-25
 </td>
-<td><span typeof="mw:Error mw:File"></span>5 <a href="ticket.html"><span class="color-template color-template-ticket color-template-background-clip">Tickets</span></a><br/><span typeof="mw:Error mw:File"></span>20 <a href="gumdrops.html"><span class="color-template color-template-gumdrops color-template-background-clip">Gumdrops</span></a><br/>Baby Love<br/>Melody<br/>Focus x10<br/>Haste+<br/>Dandelion Field Boost x5<br/>Rose Field Boost x3<br/>Pine Tree Forest Boost x3
+<td><img alt="Ticket" height="25" src="img/Ticket.png" width="25"/>5 <a href="ticket.html"><span class="color-template color-template-ticket color-template-background-clip">Tickets</span></a><br/><img alt="Gumdrops" height="25" src="img/Gumdrops.png" width="25"/>20 <a href="gumdrops.html"><span class="color-template color-template-gumdrops color-template-background-clip">Gumdrops</span></a><br/>Baby Love<br/>Melody<br/>Focus x10<br/>Haste+<br/>Dandelion Field Boost x5<br/>Rose Field Boost x3<br/>Pine Tree Forest Boost x3
 </td></tr>
 <tr>
 <td>PreUpdate
@@ -413,7 +413,7 @@ Promo **codes** are a feature added in the May 18, 2018 update. It is located at
 </td>
 <td>2018-06-25 –<br/>2018-06-28
 </td>
-<td><span typeof="mw:Error mw:File"></span>5 <a href="ticket.html"><span class="color-template color-template-ticket color-template-background-clip">Tickets</span></a><br/><span typeof="mw:Error mw:File"></span>5,000 <a href="honey.html"><span class="color-template color-template-honey">Honey</span></a><br/><span typeof="mw:Error mw:File"></span>1 <a href="egg.html#Silver_Egg"><span class="color-template color-template-silver-egg color-template-background-clip">Silver Egg</span></a>
+<td><img alt="Ticket" height="25" src="img/Ticket.png" width="25"/>5 <a href="ticket.html"><span class="color-template color-template-ticket color-template-background-clip">Tickets</span></a><br/><img alt="Honey" height="25" src="img/Honey.png" width="25"/>5,000 <a href="honey.html"><span class="color-template color-template-honey">Honey</span></a><br/><img alt="Silver Egg" height="25" src="img/Silver_Egg.png" width="25"/>1 <a href="egg.html#Silver_Egg"><span class="color-template color-template-silver-egg color-template-background-clip">Silver Egg</span></a>
 </td></tr>
 <tr>
 <td>SugarRush
@@ -422,7 +422,7 @@ Promo **codes** are a feature added in the May 18, 2018 update. It is located at
 </td>
 <td>2018-06-19 –<br/>2018-07-01
 </td>
-<td><span typeof="mw:Error mw:File"></span>5 <a href="ticket.html"><span class="color-template color-template-ticket color-template-background-clip">Tickets</span></a><br/><span typeof="mw:Error mw:File"></span>10 <a href="gumdrops.html"><span class="color-template color-template-gumdrops color-template-background-clip">Gumdrops</span></a><br/>Baby Love<br/>Black Bear Morph<br/>Haste x10<br/>Haste+<br/>Strawberry Field Boost x3<br/>Pineapple Patch Boost x4
+<td><img alt="Ticket" height="25" src="img/Ticket.png" width="25"/>5 <a href="ticket.html"><span class="color-template color-template-ticket color-template-background-clip">Tickets</span></a><br/><img alt="Gumdrops" height="25" src="img/Gumdrops.png" width="25"/>10 <a href="gumdrops.html"><span class="color-template color-template-gumdrops color-template-background-clip">Gumdrops</span></a><br/>Baby Love<br/>Black Bear Morph<br/>Haste x10<br/>Haste+<br/>Strawberry Field Boost x3<br/>Pineapple Patch Boost x4
 </td></tr>
 <tr>
 <td>GummyBoost
@@ -431,7 +431,7 @@ Promo **codes** are a feature added in the May 18, 2018 update. It is located at
 </td>
 <td>2018-06-23 –<br/>2018-07-01
 </td>
-<td><span typeof="mw:Error mw:File"></span>10,000 <a href="honey.html"><span class="color-template color-template-honey">Honey</span></a><br/><span typeof="mw:Error mw:File"></span>30 <a href="gumdrops.html"><span class="color-template color-template-gumdrops color-template-background-clip">Gumdrops</span></a><br/>Spider Field Boost x3<br/>Cactus Field Boost x3<br/>Rose Field Boost x3<br/>Pine Tree Forest Boost x3
+<td><img alt="Honey" height="25" src="img/Honey.png" width="25"/>10,000 <a href="honey.html"><span class="color-template color-template-honey">Honey</span></a><br/><img alt="Gumdrops" height="25" src="img/Gumdrops.png" width="25"/>30 <a href="gumdrops.html"><span class="color-template color-template-gumdrops color-template-background-clip">Gumdrops</span></a><br/>Spider Field Boost x3<br/>Cactus Field Boost x3<br/>Rose Field Boost x3<br/>Pine Tree Forest Boost x3
 </td></tr>
 <tr>
 <td>ClubJellies<br/>(Exclusive to club members)
@@ -440,7 +440,7 @@ Promo **codes** are a feature added in the May 18, 2018 update. It is located at
 </td>
 <td>2018-06-20 –<br/>2018-07-04
 </td>
-<td><span typeof="mw:Error mw:File"></span>3 <a href="royal-jelly.html"><span class="color-template color-template-royal-jelly color-template-background-clip">Royal Jellies</span></a>
+<td><img alt="Royal Jelly" height="25" src="img/Royal_Jelly.png" width="25"/>3 <a href="royal-jelly.html"><span class="color-template color-template-royal-jelly color-template-background-clip">Royal Jellies</span></a>
 </td></tr>
 <tr>
 <td>Pectin
@@ -449,7 +449,7 @@ Promo **codes** are a feature added in the May 18, 2018 update. It is located at
 </td>
 <td>2018-05-26 –<br/>2018-07-22
 </td>
-<td><span typeof="mw:Error mw:File"></span>10 <a href="gumdrops.html"><span class="color-template color-template-gumdrops color-template-background-clip">Gumdrops</span></a>
+<td><img alt="Gumdrops" height="25" src="img/Gumdrops.png" width="25"/>10 <a href="gumdrops.html"><span class="color-template color-template-gumdrops color-template-background-clip">Gumdrops</span></a>
 </td></tr>
 <tr>
 <td>Tapioca
@@ -458,7 +458,7 @@ Promo **codes** are a feature added in the May 18, 2018 update. It is located at
 </td>
 <td>2018-05-25 –<br/>2018-07-22
 </td>
-<td><span typeof="mw:Error mw:File"></span>10 <a href="gumdrops.html"><span class="color-template color-template-gumdrops color-template-background-clip">Gumdrops</span></a>
+<td><img alt="Gumdrops" height="25" src="img/Gumdrops.png" width="25"/>10 <a href="gumdrops.html"><span class="color-template color-template-gumdrops color-template-background-clip">Gumdrops</span></a>
 </td></tr>
 <tr>
 <td>ThnxCyaBoost
@@ -467,7 +467,7 @@ Promo **codes** are a feature added in the May 18, 2018 update. It is located at
 </td>
 <td>2018-06-20 –<br/>2018-07-22
 </td>
-<td><span typeof="mw:Error mw:File"></span>1 <a href="royal-jelly.html"><span class="color-template color-template-royal-jelly color-template-background-clip">Royal Jelly</span></a><br/><span typeof="mw:Error mw:File"></span>5 <a href="ticket.html"><span class="color-template color-template-ticket color-template-background-clip">Tickets</span></a><br/>Clover Field Boost x5<br/>Spider Field Boost x5
+<td><img alt="Royal Jelly" height="25" src="img/Royal_Jelly.png" width="25"/>1 <a href="royal-jelly.html"><span class="color-template color-template-royal-jelly color-template-background-clip">Royal Jelly</span></a><br/><img alt="Ticket" height="25" src="img/Ticket.png" width="25"/>5 <a href="ticket.html"><span class="color-template color-template-ticket color-template-background-clip">Tickets</span></a><br/>Clover Field Boost x5<br/>Spider Field Boost x5
 </td></tr>
 <tr>
 <td>Whoops
@@ -476,7 +476,7 @@ Promo **codes** are a feature added in the May 18, 2018 update. It is located at
 </td>
 <td>2018-07-01 –<br/>2018-07-22
 </td>
-<td><span typeof="mw:Error mw:File"></span>5 <a href="ticket.html"><span class="color-template color-template-ticket color-template-background-clip">Tickets</span></a><br/><span typeof="mw:Error mw:File"></span>5,000 <a href="honey.html"><span class="color-template color-template-honey">Honey</span></a><br/>Haste+<br/>Panda Bear Morph<br/>Mountain Top Field Boost x3<br/>Clover Field Boost x5
+<td><img alt="Ticket" height="25" src="img/Ticket.png" width="25"/>5 <a href="ticket.html"><span class="color-template color-template-ticket color-template-background-clip">Tickets</span></a><br/><img alt="Honey" height="25" src="img/Honey.png" width="25"/>5,000 <a href="honey.html"><span class="color-template color-template-honey">Honey</span></a><br/>Haste+<br/>Panda Bear Morph<br/>Mountain Top Field Boost x3<br/>Clover Field Boost x5
 </td></tr>
 <tr>
 <td>Reboot
@@ -485,7 +485,7 @@ Promo **codes** are a feature added in the May 18, 2018 update. It is located at
 </td>
 <td>2018-07-22<br/>(~two hours)
 </td>
-<td><span typeof="mw:Error mw:File"></span>10 <a href="ticket.html"><span class="color-template color-template-ticket color-template-background-clip">Tickets</span></a><br/>Inspire x5<br/>Rose Field Boost x3<br/>Sunflower Field Boost x6
+<td><img alt="Ticket" height="25" src="img/Ticket.png" width="25"/>10 <a href="ticket.html"><span class="color-template color-template-ticket color-template-background-clip">Tickets</span></a><br/>Inspire x5<br/>Rose Field Boost x3<br/>Sunflower Field Boost x6
 </td></tr>
 <tr>
 <td>MillionMembers
@@ -494,7 +494,7 @@ Promo **codes** are a feature added in the May 18, 2018 update. It is located at
 </td>
 <td>2018-06-05 –<br/>2018-07-23
 </td>
-<td><span typeof="mw:Error mw:File"></span>10 <a href="ticket.html"><span class="color-template color-template-ticket color-template-background-clip">Tickets</span></a><br/><span typeof="mw:Error mw:File"></span>10 <a href="gumdrops.html"><span class="color-template color-template-gumdrops color-template-background-clip">Gumdrops</span></a><br/><span typeof="mw:Error mw:File"></span>10,000 <a href="honey.html"><span class="color-template color-template-honey">Honey</span></a>
+<td><img alt="Ticket" height="25" src="img/Ticket.png" width="25"/>10 <a href="ticket.html"><span class="color-template color-template-ticket color-template-background-clip">Tickets</span></a><br/><img alt="Gumdrops" height="25" src="img/Gumdrops.png" width="25"/>10 <a href="gumdrops.html"><span class="color-template color-template-gumdrops color-template-background-clip">Gumdrops</span></a><br/><img alt="Honey" height="25" src="img/Honey.png" width="25"/>10,000 <a href="honey.html"><span class="color-template color-template-honey">Honey</span></a>
 </td></tr>
 <tr>
 <td>Shutdown
@@ -503,7 +503,7 @@ Promo **codes** are a feature added in the May 18, 2018 update. It is located at
 </td>
 <td>2018-07-23<br/>(~2 hours)
 </td>
-<td><span typeof="mw:Error mw:File"></span>5 <a href="ticket.html"><span class="color-template color-template-ticket color-template-background-clip">Tickets</span></a><br/>Inspire x5<br/>Pineapple Patch Boost x5<br/><span typeof="mw:Error mw:File"></span>1 <a href="royal-jelly.html"><span class="color-template color-template-royal-jelly color-template-background-clip">Royal Jelly</span></a>
+<td><img alt="Ticket" height="25" src="img/Ticket.png" width="25"/>5 <a href="ticket.html"><span class="color-template color-template-ticket color-template-background-clip">Tickets</span></a><br/>Inspire x5<br/>Pineapple Patch Boost x5<br/><img alt="Royal Jelly" height="25" src="img/Royal_Jelly.png" width="25"/>1 <a href="royal-jelly.html"><span class="color-template color-template-royal-jelly color-template-background-clip">Royal Jelly</span></a>
 </td></tr>
 <tr>
 <td>1MoreTime
@@ -512,7 +512,7 @@ Promo **codes** are a feature added in the May 18, 2018 update. It is located at
 </td>
 <td>2018-07-26<br/>(6.5 hours)
 </td>
-<td><span typeof="mw:Error mw:File"></span>1 <a href="royal-jelly.html"><span class="color-template color-template-royal-jelly color-template-background-clip">Royal Jelly</span></a><br/><span typeof="mw:Error mw:File"></span>5 <a href="pineapple.html"><span class="color-template color-template-pineapple color-template-background-clip">Pineapples</span></a><br/><span typeof="mw:Error mw:File"></span>5 <a href="ticket.html"><span class="color-template color-template-ticket color-template-background-clip">Tickets</span></a><br/>Pineapple Patch Boost x2<br/>Clover Field Boost x5
+<td><img alt="Royal Jelly" height="25" src="img/Royal_Jelly.png" width="25"/>1 <a href="royal-jelly.html"><span class="color-template color-template-royal-jelly color-template-background-clip">Royal Jelly</span></a><br/><img alt="Pineapple" height="25" src="img/Pineapple.png" width="25"/>5 <a href="pineapple.html"><span class="color-template color-template-pineapple color-template-background-clip">Pineapples</span></a><br/><img alt="Ticket" height="25" src="img/Ticket.png" width="25"/>5 <a href="ticket.html"><span class="color-template color-template-ticket color-template-background-clip">Tickets</span></a><br/>Pineapple Patch Boost x2<br/>Clover Field Boost x5
 </td></tr>
 <tr>
 <td>ClubSnacks<br/>(Exclusive to club members)
@@ -521,7 +521,7 @@ Promo **codes** are a feature added in the May 18, 2018 update. It is located at
 </td>
 <td>2018-07-22 –<br/>2018-07-29
 </td>
-<td><span typeof="mw:Error mw:File"></span>5 <a href="ticket.html"><span class="color-template color-template-ticket color-template-background-clip">Tickets</span></a><br/><span typeof="mw:Error mw:File"></span>1 <a href="royal-jelly.html"><span class="color-template color-template-royal-jelly color-template-background-clip">Royal Jelly</span></a><br/><span typeof="mw:Error mw:File"></span>30 <a href="treat.html"><span class="color-template color-template-treat">Treats</span></a><br/><span typeof="mw:Error mw:File"></span>15 <a href="pineapple.html"><span class="color-template color-template-pineapple color-template-background-clip">Pineapples</span></a><br/><span typeof="mw:Error mw:File"></span>15 <a href="strawberry.html"><span class="color-template color-template-strawberry color-template-background-clip">Strawberries</span></a>
+<td><img alt="Ticket" height="25" src="img/Ticket.png" width="25"/>5 <a href="ticket.html"><span class="color-template color-template-ticket color-template-background-clip">Tickets</span></a><br/><img alt="Royal Jelly" height="25" src="img/Royal_Jelly.png" width="25"/>1 <a href="royal-jelly.html"><span class="color-template color-template-royal-jelly color-template-background-clip">Royal Jelly</span></a><br/><img alt="Treat" height="25" src="img/Treat.png" width="25"/>30 <a href="treat.html"><span class="color-template color-template-treat">Treats</span></a><br/><img alt="Pineapple" height="25" src="img/Pineapple.png" width="25"/>15 <a href="pineapple.html"><span class="color-template color-template-pineapple color-template-background-clip">Pineapples</span></a><br/><img alt="Strawberry" height="25" src="img/Strawberry.png" width="25"/>15 <a href="strawberry.html"><span class="color-template color-template-strawberry color-template-background-clip">Strawberries</span></a>
 </td></tr>
 <tr>
 <td>SaleEnd
@@ -530,7 +530,7 @@ Promo **codes** are a feature added in the May 18, 2018 update. It is located at
 </td>
 <td>2018-08-01<br/>(~2 hours)
 </td>
-<td><span typeof="mw:Error mw:File"></span>1 <a href="royal-jelly.html"><span class="color-template color-template-royal-jelly color-template-background-clip">Royal Jelly</span></a><br/>Mountain Top Field Boost x3<br/>Sunflower Field Boost x5
+<td><img alt="Royal Jelly" height="25" src="img/Royal_Jelly.png" width="25"/>1 <a href="royal-jelly.html"><span class="color-template color-template-royal-jelly color-template-background-clip">Royal Jelly</span></a><br/>Mountain Top Field Boost x3<br/>Sunflower Field Boost x5
 </td></tr>
 <tr>
 <td>Reboots
@@ -548,7 +548,7 @@ Promo **codes** are a feature added in the May 18, 2018 update. It is located at
 </td>
 <td>2018-07-11 –<br/>2018-09-17
 </td>
-<td><span typeof="mw:Error mw:File"></span>10 <a href="treat.html"><span class="color-template color-template-treat">Treats</span></a><br/><span typeof="mw:Error mw:File"></span>1 <a href="strawberry.html"><span class="color-template color-template-strawberry color-template-background-clip">Strawberry</span></a><br/><span typeof="mw:Error mw:File"></span>1 <a href="blueberry.html"><span class="color-template color-template-blueberry color-template-background-clip">Blueberry</span></a>
+<td><img alt="Treat" height="25" src="img/Treat.png" width="25"/>10 <a href="treat.html"><span class="color-template color-template-treat">Treats</span></a><br/><img alt="Strawberry" height="25" src="img/Strawberry.png" width="25"/>1 <a href="strawberry.html"><span class="color-template color-template-strawberry color-template-background-clip">Strawberry</span></a><br/><img alt="Blueberry" height="25" src="img/Blueberry.png" width="25"/>1 <a href="blueberry.html"><span class="color-template color-template-blueberry color-template-background-clip">Blueberry</span></a>
 </td></tr>
 <tr>
 <td>FruitSalad
@@ -557,7 +557,7 @@ Promo **codes** are a feature added in the May 18, 2018 update. It is located at
 </td>
 <td>2018-07-11 –<br/>2018-09-17
 </td>
-<td><span typeof="mw:Error mw:File"></span>3 <a href="pineapple.html"><span class="color-template color-template-pineapple color-template-background-clip">Pineapples</span></a><br/><span typeof="mw:Error mw:File"></span>3 <a href="strawberry.html"><span class="color-template color-template-strawberry color-template-background-clip">Strawberries</span></a><br/><span typeof="mw:Error mw:File"></span>3 <a href="blueberry.html"><span class="color-template color-template-blueberry color-template-background-clip">Blueberries</span></a>
+<td><img alt="Pineapple" height="25" src="img/Pineapple.png" width="25"/>3 <a href="pineapple.html"><span class="color-template color-template-pineapple color-template-background-clip">Pineapples</span></a><br/><img alt="Strawberry" height="25" src="img/Strawberry.png" width="25"/>3 <a href="strawberry.html"><span class="color-template color-template-strawberry color-template-background-clip">Strawberries</span></a><br/><img alt="Blueberry" height="25" src="img/Blueberry.png" width="25"/>3 <a href="blueberry.html"><span class="color-template color-template-blueberry color-template-background-clip">Blueberries</span></a>
 </td></tr>
 <tr>
 <td>NikTacAttack
@@ -566,7 +566,7 @@ Promo **codes** are a feature added in the May 18, 2018 update. It is located at
 </td>
 <td>2018-07-22 –<br/>2018-09-17
 </td>
-<td><span typeof="mw:Error mw:File"></span>25 <a href="treat.html"><span class="color-template color-template-treat">Treats</span></a><br/>Cactus Field Boost x3<br/>Dandelion Field Boost x5<br/>Haste+<br/>Panda Bear Morph<br/>Rage x5
+<td><img alt="Treat" height="25" src="img/Treat.png" width="25"/>25 <a href="treat.html"><span class="color-template color-template-treat">Treats</span></a><br/>Cactus Field Boost x3<br/>Dandelion Field Boost x5<br/>Haste+<br/>Panda Bear Morph<br/>Rage x5
 </td></tr>
 <tr>
 <td>MegaMittens
@@ -575,7 +575,7 @@ Promo **codes** are a feature added in the May 18, 2018 update. It is located at
 </td>
 <td>2018-07-22 –<br/>2018-09-17
 </td>
-<td><span typeof="mw:Error mw:File"></span>10 <a href="treat.html"><span class="color-template color-template-treat">Treats</span></a><br/><span typeof="mw:Error mw:File"></span>10 <a href="blueberry.html"><span class="color-template color-template-blueberry color-template-background-clip">Blueberries</span></a><br/>Mountain Top Field Boost x3<br/>Clover Field Boost x5<br/>Rage x5<br/>Haste+<br/>Baby Love
+<td><img alt="Treat" height="25" src="img/Treat.png" width="25"/>10 <a href="treat.html"><span class="color-template color-template-treat">Treats</span></a><br/><img alt="Blueberry" height="25" src="img/Blueberry.png" width="25"/>10 <a href="blueberry.html"><span class="color-template color-template-blueberry color-template-background-clip">Blueberries</span></a><br/>Mountain Top Field Boost x3<br/>Clover Field Boost x5<br/>Rage x5<br/>Haste+<br/>Baby Love
 </td></tr>
 <tr>
 <td>RoyalRobzi
@@ -584,7 +584,7 @@ Promo **codes** are a feature added in the May 18, 2018 update. It is located at
 </td>
 <td>2018-07-23 –<br/>2018-09-17
 </td>
-<td><span typeof="mw:Error mw:File"></span>1 <a href="royal-jelly.html"><span class="color-template color-template-royal-jelly color-template-background-clip">Royal Jelly</span></a><br/><span typeof="mw:Error mw:File"></span>5 <a href="ticket.html"><span class="color-template color-template-ticket color-template-background-clip">Tickets</span></a><br/>Pine Tree Forest Boost x3<br/>Mushroom Field Boost x5<br/>Melody<br/>Focus x10<br/>Rage x5<br/>Haste+
+<td><img alt="Royal Jelly" height="25" src="img/Royal_Jelly.png" width="25"/>1 <a href="royal-jelly.html"><span class="color-template color-template-royal-jelly color-template-background-clip">Royal Jelly</span></a><br/><img alt="Ticket" height="25" src="img/Ticket.png" width="25"/>5 <a href="ticket.html"><span class="color-template color-template-ticket color-template-background-clip">Tickets</span></a><br/>Pine Tree Forest Boost x3<br/>Mushroom Field Boost x5<br/>Melody<br/>Focus x10<br/>Rage x5<br/>Haste+
 </td></tr>
 <tr>
 <td>PumpkinofJustice
@@ -602,7 +602,7 @@ Promo **codes** are a feature added in the May 18, 2018 update. It is located at
 </td>
 <td>2018-07-29 –<br/>2018-09-17
 </td>
-<td><span typeof="mw:Error mw:File"></span>1 <a href="royal-jelly.html"><span class="color-template color-template-royal-jelly color-template-background-clip">Royal Jelly</span></a><br/><span typeof="mw:Error mw:File"></span>1 <a href="ant-pass.html"><span class="color-template color-template-ant-pass color-template-background-clip">Ant Pass</span></a><br/><span typeof="mw:Error mw:File"></span>10 <a href="treat.html"><span class="color-template color-template-treat">Treats</span></a><br/><span typeof="mw:Error mw:File"></span>10 <a href="sunflower-seed.html"><span class="color-template color-template-sunflower-seed color-template-background-clip">Sunflower Seeds</span></a>
+<td><img alt="Royal Jelly" height="25" src="img/Royal_Jelly.png" width="25"/>1 <a href="royal-jelly.html"><span class="color-template color-template-royal-jelly color-template-background-clip">Royal Jelly</span></a><br/><img alt="Ant Pass" height="25" src="img/Ant_Pass.png" width="25"/>1 <a href="ant-pass.html"><span class="color-template color-template-ant-pass color-template-background-clip">Ant Pass</span></a><br/><img alt="Treat" height="25" src="img/Treat.png" width="25"/>10 <a href="treat.html"><span class="color-template color-template-treat">Treats</span></a><br/><img alt="Sunflower Seed" height="25" src="img/Sunflower_Seed.png" width="25"/>10 <a href="sunflower-seed.html"><span class="color-template color-template-sunflower-seed color-template-background-clip">Sunflower Seeds</span></a>
 </td></tr>
 <tr>
 <td>GremlinGoodies
@@ -611,7 +611,7 @@ Promo **codes** are a feature added in the May 18, 2018 update. It is located at
 </td>
 <td>2018-07-25 –<br/>2018-09-17
 </td>
-<td><span typeof="mw:Error mw:File"></span>15 <a href="treat.html"><span class="color-template color-template-treat">Treats</span></a><br/><span typeof="mw:Error mw:File"></span>15 <a href="strawberry.html"><span class="color-template color-template-strawberry color-template-background-clip">Strawberries</span></a><br/><span typeof="mw:Error mw:File"></span>15 <a href="pineapple.html"><span class="color-template color-template-pineapple color-template-background-clip">Pineapples</span></a><br/>Sunflower Boost x5<br/>Rage x5<br/>Black Bear Morph<br/>Baby Love<br/><a href="ability-tokens.html#Inspire">Inspire</a><br/>Melody<br/><span typeof="mw:Error mw:File"></span>5,000 <a href="honey.html"><span class="color-template color-template-honey">Honey</span></a>
+<td><img alt="Treat" height="25" src="img/Treat.png" width="25"/>15 <a href="treat.html"><span class="color-template color-template-treat">Treats</span></a><br/><img alt="Strawberry" height="25" src="img/Strawberry.png" width="25"/>15 <a href="strawberry.html"><span class="color-template color-template-strawberry color-template-background-clip">Strawberries</span></a><br/><img alt="Pineapple" height="25" src="img/Pineapple.png" width="25"/>15 <a href="pineapple.html"><span class="color-template color-template-pineapple color-template-background-clip">Pineapples</span></a><br/>Sunflower Boost x5<br/>Rage x5<br/>Black Bear Morph<br/>Baby Love<br/><a href="ability-tokens.html#Inspire">Inspire</a><br/>Melody<br/><img alt="Honey" height="25" src="img/Honey.png" width="25"/>5,000 <a href="honey.html"><span class="color-template color-template-honey">Honey</span></a>
 </td></tr>
 <tr>
 <td>Oodlesofnoodles
@@ -620,7 +620,7 @@ Promo **codes** are a feature added in the May 18, 2018 update. It is located at
 </td>
 <td>2018-07-29 –<br/>2018-09-17
 </td>
-<td><span typeof="mw:Error mw:File"></span>1 <a href="ant-pass.html"><span class="color-template color-template-ant-pass color-template-background-clip">Ant Pass</span></a><br/><span typeof="mw:Error mw:File"></span>10 <a href="blueberry.html"><span class="color-template color-template-blueberry color-template-background-clip">Blueberries</span></a><br/>Blue Flower Boost x5<br/>Inspire x5<br/><span typeof="mw:Error mw:File"></span>5,000 <a href="honey.html"><span class="color-template color-template-honey">Honey</span></a>
+<td><img alt="Ant Pass" height="25" src="img/Ant_Pass.png" width="25"/>1 <a href="ant-pass.html"><span class="color-template color-template-ant-pass color-template-background-clip">Ant Pass</span></a><br/><img alt="Blueberry" height="25" src="img/Blueberry.png" width="25"/>10 <a href="blueberry.html"><span class="color-template color-template-blueberry color-template-background-clip">Blueberries</span></a><br/>Blue Flower Boost x5<br/>Inspire x5<br/><img alt="Honey" height="25" src="img/Honey.png" width="25"/>5,000 <a href="honey.html"><span class="color-template color-template-honey">Honey</span></a>
 </td></tr>
 <tr>
 <td>Wealthclock1
@@ -638,7 +638,7 @@ Promo **codes** are a feature added in the May 18, 2018 update. It is located at
 </td>
 <td>2018-09-22 –<br/>2018-09-23
 </td>
-<td><span typeof="mw:Error mw:File"></span>5 <a href="ticket.html"><span class="color-template color-template-ticket color-template-background-clip">Tickets</span></a><br/><span typeof="mw:Error mw:File"></span>10 <a href="treat.html"><span class="color-template color-template-treat">Treats</span></a><br/>Clover Field Boost x2<br/>Pumpkin Patch Boost x2<br/>Mountain Top Field Boost x1
+<td><img alt="Ticket" height="25" src="img/Ticket.png" width="25"/>5 <a href="ticket.html"><span class="color-template color-template-ticket color-template-background-clip">Tickets</span></a><br/><img alt="Treat" height="25" src="img/Treat.png" width="25"/>10 <a href="treat.html"><span class="color-template color-template-treat">Treats</span></a><br/>Clover Field Boost x2<br/>Pumpkin Patch Boost x2<br/>Mountain Top Field Boost x1
 </td></tr>
 <tr>
 <td>Noobasha+
@@ -647,7 +647,7 @@ Promo **codes** are a feature added in the May 18, 2018 update. It is located at
 </td>
 <td>2018-09-20 –<br/>2018-10-05
 </td>
-<td><span typeof="mw:Error mw:File"></span>3 <a href="moon-charm.html"><span class="color-template color-template-moon-charm color-template-background-clip">Moon Charms</span></a><br/><span typeof="mw:Error mw:File"></span>1 <a href="royal-jelly.html"><span class="color-template color-template-royal-jelly color-template-background-clip">Royal Jelly</span></a><br/>Haste+<br/>Polar Bear Morph<br/>Wealth Clock Buff x1<br/>Dandelion Field Boost x6
+<td><img alt="Moon Charm" height="25" src="img/Moon_Charm.png" width="25"/>3 <a href="moon-charm.html"><span class="color-template color-template-moon-charm color-template-background-clip">Moon Charms</span></a><br/><img alt="Royal Jelly" height="25" src="img/Royal_Jelly.png" width="25"/>1 <a href="royal-jelly.html"><span class="color-template color-template-royal-jelly color-template-background-clip">Royal Jelly</span></a><br/>Haste+<br/>Polar Bear Morph<br/>Wealth Clock Buff x1<br/>Dandelion Field Boost x6
 </td></tr>
 <tr>
 <td>ThatGuysCrew
@@ -656,7 +656,7 @@ Promo **codes** are a feature added in the May 18, 2018 update. It is located at
 </td>
 <td>2018-09-21 –<br/>2018-10-05
 </td>
-<td><span typeof="mw:Error mw:File"></span>1 <a href="stinger.html"><span class="color-template color-template-stinger color-template-background-clip">Stinger</span></a><br/><span typeof="mw:Error mw:File"></span>15 <a href="treat.html"><span class="color-template color-template-treat">Treats</span></a><br/>Wealth Clock Buff x1<br/>Rage x5<br/>Panda Bear Morph<br/>Sunflower Field Boost x6
+<td><img alt="Stinger" height="25" src="img/Stinger.png" width="25"/>1 <a href="stinger.html"><span class="color-template color-template-stinger color-template-background-clip">Stinger</span></a><br/><img alt="Treat" height="25" src="img/Treat.png" width="25"/>15 <a href="treat.html"><span class="color-template color-template-treat">Treats</span></a><br/>Wealth Clock Buff x1<br/>Rage x5<br/>Panda Bear Morph<br/>Sunflower Field Boost x6
 </td></tr>
 <tr>
 <td>FruitMachine
@@ -665,7 +665,7 @@ Promo **codes** are a feature added in the May 18, 2018 update. It is located at
 </td>
 <td>2018-09-22 –<br/>2018-10-07
 </td>
-<td><span typeof="mw:Error mw:File"></span>5 <a href="strawberry.html"><span class="color-template color-template-strawberry color-template-background-clip">Strawberries</span></a><br/><span typeof="mw:Error mw:File"></span>5 <a href="pineapple.html"><span class="color-template color-template-pineapple color-template-background-clip">Pineapples</span></a><br/><span typeof="mw:Error mw:File"></span>5 <a href="blueberry.html"><span class="color-template color-template-blueberry color-template-background-clip">Blueberries</span></a><br/>Strawberry Field Boost x1<br/>Pineapple Patch Boost x1
+<td><img alt="Strawberry" height="25" src="img/Strawberry.png" width="25"/>5 <a href="strawberry.html"><span class="color-template color-template-strawberry color-template-background-clip">Strawberries</span></a><br/><img alt="Pineapple" height="25" src="img/Pineapple.png" width="25"/>5 <a href="pineapple.html"><span class="color-template color-template-pineapple color-template-background-clip">Pineapples</span></a><br/><img alt="Blueberry" height="25" src="img/Blueberry.png" width="25"/>5 <a href="blueberry.html"><span class="color-template color-template-blueberry color-template-background-clip">Blueberries</span></a><br/>Strawberry Field Boost x1<br/>Pineapple Patch Boost x1
 </td></tr>
 <tr>
 <td>RobziRobot
@@ -674,7 +674,7 @@ Promo **codes** are a feature added in the May 18, 2018 update. It is located at
 </td>
 <td>2018-09-22 –<br/>2018-10-07
 </td>
-<td><span typeof="mw:Error mw:File"></span>3 <a href="ticket.html"><span class="color-template color-template-ticket color-template-background-clip">Tickets</span></a><br/><span typeof="mw:Error mw:File"></span>15 <a href="treat.html"><span class="color-template color-template-treat">Treats</span></a><br/>Haste+<br/>Baby Love<br/>Wealth Clock Buff x2<br/>Bamboo Field Boost x4
+<td><img alt="Ticket" height="25" src="img/Ticket.png" width="25"/>3 <a href="ticket.html"><span class="color-template color-template-ticket color-template-background-clip">Tickets</span></a><br/><img alt="Treat" height="25" src="img/Treat.png" width="25"/>15 <a href="treat.html"><span class="color-template color-template-treat">Treats</span></a><br/>Haste+<br/>Baby Love<br/>Wealth Clock Buff x2<br/>Bamboo Field Boost x4
 </td></tr>
 <tr>
 <td>Berlin
@@ -683,7 +683,7 @@ Promo **codes** are a feature added in the May 18, 2018 update. It is located at
 </td>
 <td>2018-08-16 –<br/>2018-10-07
 </td>
-<td><span typeof="mw:Error mw:File"></span>1 <a href="royal-jelly.html"><span class="color-template color-template-royal-jelly color-template-background-clip">Royal Jelly</span></a><br/><span typeof="mw:Error mw:File"></span>5 <a href="ticket.html"><span class="color-template color-template-ticket color-template-background-clip">Tickets</span></a><br/><span typeof="mw:Error mw:File"></span>25 <a href="strawberry.html"><span class="color-template color-template-strawberry color-template-background-clip">Strawberries</span></a><br/>Black Bear Morph<br/>Strawberry Field Boost x4<br/>Blue Flower Boost x6
+<td><img alt="Royal Jelly" height="25" src="img/Royal_Jelly.png" width="25"/>1 <a href="royal-jelly.html"><span class="color-template color-template-royal-jelly color-template-background-clip">Royal Jelly</span></a><br/><img alt="Ticket" height="25" src="img/Ticket.png" width="25"/>5 <a href="ticket.html"><span class="color-template color-template-ticket color-template-background-clip">Tickets</span></a><br/><img alt="Strawberry" height="25" src="img/Strawberry.png" width="25"/>25 <a href="strawberry.html"><span class="color-template color-template-strawberry color-template-background-clip">Strawberries</span></a><br/>Black Bear Morph<br/>Strawberry Field Boost x4<br/>Blue Flower Boost x6
 </td></tr>
 <tr>
 <td>AceUnhatched
@@ -692,7 +692,7 @@ Promo **codes** are a feature added in the May 18, 2018 update. It is located at
 </td>
 <td>2018-09-24 –<br/>2018-10-08
 </td>
-<td><span typeof="mw:Error mw:File"></span>1 <a href="stinger.html"><span class="color-template color-template-stinger color-template-background-clip">Stinger</span></a><br/>Stinger (buff)<br/>Rage x5<br/>Focus x10<br/>Melody x1<br/>Wealth Clock Buff x1<br/>Spider Field Boost x5
+<td><img alt="Stinger" height="25" src="img/Stinger.png" width="25"/>1 <a href="stinger.html"><span class="color-template color-template-stinger color-template-background-clip">Stinger</span></a><br/>Stinger (buff)<br/>Rage x5<br/>Focus x10<br/>Melody x1<br/>Wealth Clock Buff x1<br/>Spider Field Boost x5
 </td></tr>
 <tr>
 <td>SunBearSendoff
@@ -701,7 +701,7 @@ Promo **codes** are a feature added in the May 18, 2018 update. It is located at
 </td>
 <td>2018-10-05 –<br/>2018-10-09
 </td>
-<td><span typeof="mw:Error mw:File"></span>1 <a href="stinger.html"><span class="color-template color-template-stinger color-template-background-clip">Stinger</span></a><br/><span typeof="mw:Error mw:File"></span>1 <a href="royal-jelly.html"><span class="color-template color-template-royal-jelly color-template-background-clip">Royal Jelly</span></a><br/>Wealth Clock Buff x1<br/>Dandelion Field Boost x6<br/>Mountain Top Field Boost x3
+<td><img alt="Stinger" height="25" src="img/Stinger.png" width="25"/>1 <a href="stinger.html"><span class="color-template color-template-stinger color-template-background-clip">Stinger</span></a><br/><img alt="Royal Jelly" height="25" src="img/Royal_Jelly.png" width="25"/>1 <a href="royal-jelly.html"><span class="color-template color-template-royal-jelly color-template-background-clip">Royal Jelly</span></a><br/>Wealth Clock Buff x1<br/>Dandelion Field Boost x6<br/>Mountain Top Field Boost x3
 </td></tr>
 <tr>
 <td>TrickOrTreat
@@ -710,7 +710,7 @@ Promo **codes** are a feature added in the May 18, 2018 update. It is located at
 </td>
 <td>2018-10-31 –<br/>2018-11-01
 </td>
-<td><span typeof="mw:Error mw:File"></span>1 <a href="royal-jelly.html"><span class="color-template color-template-royal-jelly color-template-background-clip">Royal Jelly</span></a><br/><span typeof="mw:Error mw:File"></span>5 <a href="ticket.html"><span class="color-template color-template-ticket color-template-background-clip">Tickets</span></a><br/><span typeof="mw:Error mw:File"></span>50 <a href="treat.html"><span class="color-template color-template-treat">Treats</span></a><br/><span typeof="mw:Error mw:File"></span>10 <a href="sunflower-seed.html"><span class="color-template color-template-sunflower-seed color-template-background-clip">Sunflower Seeds</span></a><br/><span typeof="mw:Error mw:File"></span>10 <a href="pineapple.html"><span class="color-template color-template-pineapple color-template-background-clip">Pineapples</span></a><br/><span typeof="mw:Error mw:File"></span>10 <a href="strawberry.html"><span class="color-template color-template-strawberry color-template-background-clip">Strawberries</span></a><br/><span typeof="mw:Error mw:File"></span>10 <a href="blueberry.html"><span class="color-template color-template-blueberry color-template-background-clip">Blueberries</span></a><br/>Wealth Clock Buff x5<br/>Pumpkin Patch Boost x6<br/>Black Bear Morph
+<td><img alt="Royal Jelly" height="25" src="img/Royal_Jelly.png" width="25"/>1 <a href="royal-jelly.html"><span class="color-template color-template-royal-jelly color-template-background-clip">Royal Jelly</span></a><br/><img alt="Ticket" height="25" src="img/Ticket.png" width="25"/>5 <a href="ticket.html"><span class="color-template color-template-ticket color-template-background-clip">Tickets</span></a><br/><img alt="Treat" height="25" src="img/Treat.png" width="25"/>50 <a href="treat.html"><span class="color-template color-template-treat">Treats</span></a><br/><img alt="Sunflower Seed" height="25" src="img/Sunflower_Seed.png" width="25"/>10 <a href="sunflower-seed.html"><span class="color-template color-template-sunflower-seed color-template-background-clip">Sunflower Seeds</span></a><br/><img alt="Pineapple" height="25" src="img/Pineapple.png" width="25"/>10 <a href="pineapple.html"><span class="color-template color-template-pineapple color-template-background-clip">Pineapples</span></a><br/><img alt="Strawberry" height="25" src="img/Strawberry.png" width="25"/>10 <a href="strawberry.html"><span class="color-template color-template-strawberry color-template-background-clip">Strawberries</span></a><br/><img alt="Blueberry" height="25" src="img/Blueberry.png" width="25"/>10 <a href="blueberry.html"><span class="color-template color-template-blueberry color-template-background-clip">Blueberries</span></a><br/>Wealth Clock Buff x5<br/>Pumpkin Patch Boost x6<br/>Black Bear Morph
 </td></tr>
 <tr>
 <td>GravycatFan
@@ -719,7 +719,7 @@ Promo **codes** are a feature added in the May 18, 2018 update. It is located at
 </td>
 <td>2018-09-25 –<br/>2018-11-06
 </td>
-<td><span typeof="mw:Error mw:File"></span>3 <a href="moon-charm.html"><span class="color-template color-template-moon-charm color-template-background-clip">Moon Charms</span></a><br/><span typeof="mw:Error mw:File"></span>10 <a href="pineapple.html"><span class="color-template color-template-pineapple color-template-background-clip">Pineapples</span></a><br/>Wealth Clock Buff x1<br/>Brown Bear Morph<br/>Pumpkin Patch Boost x4<br/><span typeof="mw:Error mw:File"></span>5,000 <a href="honey.html"><span class="color-template color-template-honey">Honey</span></a>
+<td><img alt="Moon Charm" height="25" src="img/Moon_Charm.png" width="25"/>3 <a href="moon-charm.html"><span class="color-template color-template-moon-charm color-template-background-clip">Moon Charms</span></a><br/><img alt="Pineapple" height="25" src="img/Pineapple.png" width="25"/>10 <a href="pineapple.html"><span class="color-template color-template-pineapple color-template-background-clip">Pineapples</span></a><br/>Wealth Clock Buff x1<br/>Brown Bear Morph<br/>Pumpkin Patch Boost x4<br/><img alt="Honey" height="25" src="img/Honey.png" width="25"/>5,000 <a href="honey.html"><span class="color-template color-template-honey">Honey</span></a>
 </td></tr>
 <tr>
 <td>YTFMMoons
@@ -728,7 +728,7 @@ Promo **codes** are a feature added in the May 18, 2018 update. It is located at
 </td>
 <td>2018-09-26 –<br/>2018-11-06
 </td>
-<td><span typeof="mw:Error mw:File"></span>3 <a href="moon-charm.html"><span class="color-template color-template-moon-charm color-template-background-clip">Moon Charms</span></a><br/><span typeof="mw:Error mw:File"></span>10 <a href="strawberry.html"><span class="color-template color-template-strawberry color-template-background-clip">Strawberries</span></a><br/>Wealth Clock Buff x1<br/>Haste+<br/>Melody<br/>Baby Love<br/>Pine Tree Forest Boost x3
+<td><img alt="Moon Charm" height="25" src="img/Moon_Charm.png" width="25"/>3 <a href="moon-charm.html"><span class="color-template color-template-moon-charm color-template-background-clip">Moon Charms</span></a><br/><img alt="Strawberry" height="25" src="img/Strawberry.png" width="25"/>10 <a href="strawberry.html"><span class="color-template color-template-strawberry color-template-background-clip">Strawberries</span></a><br/>Wealth Clock Buff x1<br/>Haste+<br/>Melody<br/>Baby Love<br/>Pine Tree Forest Boost x3
 </td></tr>
 <tr>
 <td>Elladiely
@@ -737,7 +737,7 @@ Promo **codes** are a feature added in the May 18, 2018 update. It is located at
 </td>
 <td>2018-09-26 –<br/>2018-11-06
 </td>
-<td><span typeof="mw:Error mw:File"></span>1 <a href="royal-jelly.html"><span class="color-template color-template-royal-jelly color-template-background-clip">Royal Jelly</span></a><br/><span typeof="mw:Error mw:File"></span>10 <a href="sunflower-seed.html"><span class="color-template color-template-sunflower-seed color-template-background-clip">Sunflower Seeds</span></a><br/>Wealth Clock Buff x1<br/>Red Boost x10<br/>Haste x10<br/>Focus x10<br/>Clover Field Boost x5
+<td><img alt="Royal Jelly" height="25" src="img/Royal_Jelly.png" width="25"/>1 <a href="royal-jelly.html"><span class="color-template color-template-royal-jelly color-template-background-clip">Royal Jelly</span></a><br/><img alt="Sunflower Seed" height="25" src="img/Sunflower_Seed.png" width="25"/>10 <a href="sunflower-seed.html"><span class="color-template color-template-sunflower-seed color-template-background-clip">Sunflower Seeds</span></a><br/>Wealth Clock Buff x1<br/>Red Boost x10<br/>Haste x10<br/>Focus x10<br/>Clover Field Boost x5
 </td></tr>
 <tr>
 <td>DarzethDonation
@@ -746,7 +746,7 @@ Promo **codes** are a feature added in the May 18, 2018 update. It is located at
 </td>
 <td>2018-09-28 –<br/>2018-11-06
 </td>
-<td><span typeof="mw:Error mw:File"></span>1 <a href="stinger.html"><span class="color-template color-template-stinger color-template-background-clip">Stinger</span></a><br/><span typeof="mw:Error mw:File"></span>3 <a href="moon-charm.html"><span class="color-template color-template-moon-charm color-template-background-clip">Moon Charms</span></a><br/><span typeof="mw:Error mw:File"></span>15 <a href="treat.html"><span class="color-template color-template-treat">Treats</span></a><br/>Wealth Clock Buff x1<br/>Haste+<br/>Baby Love<br/>Melody<br/>Pineapple Patch Boost x5
+<td><img alt="Stinger" height="25" src="img/Stinger.png" width="25"/>1 <a href="stinger.html"><span class="color-template color-template-stinger color-template-background-clip">Stinger</span></a><br/><img alt="Moon Charm" height="25" src="img/Moon_Charm.png" width="25"/>3 <a href="moon-charm.html"><span class="color-template color-template-moon-charm color-template-background-clip">Moon Charms</span></a><br/><img alt="Treat" height="25" src="img/Treat.png" width="25"/>15 <a href="treat.html"><span class="color-template color-template-treat">Treats</span></a><br/>Wealth Clock Buff x1<br/>Haste+<br/>Baby Love<br/>Melody<br/>Pineapple Patch Boost x5
 </td></tr>
 <tr>
 <td>TeraBriteFight
@@ -755,7 +755,7 @@ Promo **codes** are a feature added in the May 18, 2018 update. It is located at
 </td>
 <td>2018-10-01 –<br/>2018-11-06
 </td>
-<td><span typeof="mw:Error mw:File"></span>1 <a href="stinger.html"><span class="color-template color-template-stinger color-template-background-clip">Stinger</span></a><br/><span typeof="mw:Error mw:File"></span>10 <a href="blueberry.html"><span class="color-template color-template-blueberry color-template-background-clip">Blueberries</span></a><br/>Wealth Clock Buff x1<br/>Black Bear Morph<br/>Rage x5<br/>Rose Field Boost x3
+<td><img alt="Stinger" height="25" src="img/Stinger.png" width="25"/>1 <a href="stinger.html"><span class="color-template color-template-stinger color-template-background-clip">Stinger</span></a><br/><img alt="Blueberry" height="25" src="img/Blueberry.png" width="25"/>10 <a href="blueberry.html"><span class="color-template color-template-blueberry color-template-background-clip">Blueberries</span></a><br/>Wealth Clock Buff x1<br/>Black Bear Morph<br/>Rage x5<br/>Rose Field Boost x3
 </td></tr>
 <tr>
 <td>12hourgeneral
@@ -791,7 +791,7 @@ Promo **codes** are a feature added in the May 18, 2018 update. It is located at
 </td>
 <td>2018-07-04 –<br/>2018-12-08
 </td>
-<td>x1 field boost for every field <i>except</i> Dandelion<br/>Baby Love<br/>Melody<br/>Blue Boost x10<br/>Red Boost x10<br/>Focus x10<br/>Blue Bomb Sync<br/>Red Bomb Sync<br/>Haste+<br/>Haste x10<br/>Black Bear Morph<br/>Brown Bear Morph<br/><span typeof="mw:Error mw:File"></span>1 <a href="royal-jelly.html"><span class="color-template color-template-royal-jelly color-template-background-clip">Royal Jelly</span></a><br/><span typeof="mw:Error mw:File"></span>5 <a href="ticket.html"><span class="color-template color-template-ticket color-template-background-clip">Tickets</span></a><br/><span typeof="mw:Error mw:File"></span>5 <a href="gumdrops.html"><span class="color-template color-template-gumdrops color-template-background-clip">Gumdrops</span></a><br/><span typeof="mw:Error mw:File"></span>5,000 <a href="honey.html"><span class="color-template color-template-honey">Honey</span></a>
+<td>x1 field boost for every field <i>except</i> Dandelion<br/>Baby Love<br/>Melody<br/>Blue Boost x10<br/>Red Boost x10<br/>Focus x10<br/>Blue Bomb Sync<br/>Red Bomb Sync<br/>Haste+<br/>Haste x10<br/>Black Bear Morph<br/>Brown Bear Morph<br/><img alt="Royal Jelly" height="25" src="img/Royal_Jelly.png" width="25"/>1 <a href="royal-jelly.html"><span class="color-template color-template-royal-jelly color-template-background-clip">Royal Jelly</span></a><br/><img alt="Ticket" height="25" src="img/Ticket.png" width="25"/>5 <a href="ticket.html"><span class="color-template color-template-ticket color-template-background-clip">Tickets</span></a><br/><img alt="Gumdrops" height="25" src="img/Gumdrops.png" width="25"/>5 <a href="gumdrops.html"><span class="color-template color-template-gumdrops color-template-background-clip">Gumdrops</span></a><br/><img alt="Honey" height="25" src="img/Honey.png" width="25"/>5,000 <a href="honey.html"><span class="color-template color-template-honey">Honey</span></a>
 </td></tr>
 <tr>
 <td>HasteHelper
@@ -809,7 +809,7 @@ Promo **codes** are a feature added in the May 18, 2018 update. It is located at
 </td>
 <td>2018-09-10 –<br/>2018-12-08
 </td>
-<td><span typeof="mw:Error mw:File"></span>1 <a href="royal-jelly.html"><span class="color-template color-template-royal-jelly color-template-background-clip">Royal Jelly</span></a>
+<td><img alt="Royal Jelly" height="25" src="img/Royal_Jelly.png" width="25"/>1 <a href="royal-jelly.html"><span class="color-template color-template-royal-jelly color-template-background-clip">Royal Jelly</span></a>
 </td></tr>
 <tr>
 <td>ExtraPass
@@ -827,7 +827,7 @@ Promo **codes** are a feature added in the May 18, 2018 update. It is located at
 </td>
 <td>2018-09-15 –<br/>2018-12-08
 </td>
-<td><span typeof="mw:Error mw:File"></span>1 <a href="stinger.html"><span class="color-template color-template-stinger color-template-background-clip">Stinger</span></a><br/>Black Bear Morph<br/><span typeof="mw:Error mw:File"></span>3 <a href="ticket.html"><span class="color-template color-template-ticket color-template-background-clip">Tickets</span></a><br/>Wealth Clock Buff x1<br/>Blue Flower Field Boost x6<br/>Mushroom Field Boost x6
+<td><img alt="Stinger" height="25" src="img/Stinger.png" width="25"/>1 <a href="stinger.html"><span class="color-template color-template-stinger color-template-background-clip">Stinger</span></a><br/>Black Bear Morph<br/><img alt="Ticket" height="25" src="img/Ticket.png" width="25"/>3 <a href="ticket.html"><span class="color-template color-template-ticket color-template-background-clip">Tickets</span></a><br/>Wealth Clock Buff x1<br/>Blue Flower Field Boost x6<br/>Mushroom Field Boost x6
 </td></tr>
 <tr>
 <td>MoonMiracle
@@ -836,7 +836,7 @@ Promo **codes** are a feature added in the May 18, 2018 update. It is located at
 </td>
 <td>2018-09-15 –<br/>2018-12-08
 </td>
-<td><span typeof="mw:Error mw:File"></span>3 <a href="moon-charm.html"><span class="color-template color-template-moon-charm color-template-background-clip">Moon Charms</span></a><br/><span typeof="mw:Error mw:File"></span>3 <a href="ticket.html"><span class="color-template color-template-ticket color-template-background-clip">Tickets</span></a><br/><span typeof="mw:Error mw:File"></span>1 <a href="royal-jelly.html"><span class="color-template color-template-royal-jelly color-template-background-clip">Royal Jelly</span></a><br/>Cactus Field Boost x4
+<td><img alt="Moon Charm" height="25" src="img/Moon_Charm.png" width="25"/>3 <a href="moon-charm.html"><span class="color-template color-template-moon-charm color-template-background-clip">Moon Charms</span></a><br/><img alt="Ticket" height="25" src="img/Ticket.png" width="25"/>3 <a href="ticket.html"><span class="color-template color-template-ticket color-template-background-clip">Tickets</span></a><br/><img alt="Royal Jelly" height="25" src="img/Royal_Jelly.png" width="25"/>1 <a href="royal-jelly.html"><span class="color-template color-template-royal-jelly color-template-background-clip">Royal Jelly</span></a><br/>Cactus Field Boost x4
 </td></tr>
 <tr>
 <td>HappyNewYear
@@ -845,7 +845,7 @@ Promo **codes** are a feature added in the May 18, 2018 update. It is located at
 </td>
 <td>2019-01-01 –<br/>2019-01-02
 </td>
-<td><span typeof="mw:Error mw:File"></span>2,019 <a href="honey.html"><span class="color-template color-template-honey">Honey</span></a><br/><span typeof="mw:Error mw:File"></span>1 <a href="royal-jelly.html"><span class="color-template color-template-royal-jelly color-template-background-clip">Royal Jelly</span></a><br/><span typeof="mw:Error mw:File"></span>20 <a href="gumdrops.html"><span class="color-template color-template-gumdrops color-template-background-clip">Gumdrops</span></a><br/><span typeof="mw:Error mw:File"></span>19 <a href="pineapple.html"><span class="color-template color-template-pineapple color-template-background-clip">Pineapples</span></a><br/><span typeof="mw:Error mw:File"></span>20 <a href="treat.html"><span class="color-template color-template-treat">Treats</span></a><br/><span typeof="mw:Error mw:File"></span>19 <a href="blueberry.html"><span class="color-template color-template-blueberry color-template-background-clip">Blueberries</span></a><br/>Clover Field Boost x5<br/>Baby love<br/>Melody<br/>Gummy Bear Morph<br/>Glue Buff<br/>Wealth Clock Buff x1<br/>Unlimited Gumdrops Buff (Duration: 2 minutes)<br/>Inspire
+<td><img alt="Honey" height="25" src="img/Honey.png" width="25"/>2,019 <a href="honey.html"><span class="color-template color-template-honey">Honey</span></a><br/><img alt="Royal Jelly" height="25" src="img/Royal_Jelly.png" width="25"/>1 <a href="royal-jelly.html"><span class="color-template color-template-royal-jelly color-template-background-clip">Royal Jelly</span></a><br/><img alt="Gumdrops" height="25" src="img/Gumdrops.png" width="25"/>20 <a href="gumdrops.html"><span class="color-template color-template-gumdrops color-template-background-clip">Gumdrops</span></a><br/><img alt="Pineapple" height="25" src="img/Pineapple.png" width="25"/>19 <a href="pineapple.html"><span class="color-template color-template-pineapple color-template-background-clip">Pineapples</span></a><br/><img alt="Treat" height="25" src="img/Treat.png" width="25"/>20 <a href="treat.html"><span class="color-template color-template-treat">Treats</span></a><br/><img alt="Blueberry" height="25" src="img/Blueberry.png" width="25"/>19 <a href="blueberry.html"><span class="color-template color-template-blueberry color-template-background-clip">Blueberries</span></a><br/>Clover Field Boost x5<br/>Baby love<br/>Melody<br/>Gummy Bear Morph<br/>Glue Buff<br/>Wealth Clock Buff x1<br/>Unlimited Gumdrops Buff (Duration: 2 minutes)<br/>Inspire
 </td></tr>
 <tr>
 <td>kot?kbean<br/>(Exclusive to club members)
@@ -854,7 +854,7 @@ Promo **codes** are a feature added in the May 18, 2018 update. It is located at
 </td>
 <td>2018-11-29 –<br/>2019-01-19
 </td>
-<td><span typeof="mw:Error mw:File"></span>1 <a href="magic-bean.html"><span class="color-template color-template-magic-bean color-template-background-clip">Magic Bean</span></a><br/>Oil Buff<br/>Wealth Clock
+<td><img alt="Magic Bean" height="25" src="img/Magic_Bean.png" width="25"/>1 <a href="magic-bean.html"><span class="color-template color-template-magic-bean color-template-background-clip">Magic Bean</span></a><br/>Oil Buff<br/>Wealth Clock
 </td></tr>
 <tr>
 <td>MayRuTreats
@@ -863,7 +863,7 @@ Promo **codes** are a feature added in the May 18, 2018 update. It is located at
 </td>
 <td>2018-11-30 –<br/>2019-01-19
 </td>
-<td><span typeof="mw:Error mw:File"></span>5 <a href="treat.html"><span class="color-template color-template-treat">Treats</span></a><br/><span typeof="mw:Error mw:File"></span>5 <a href="blueberry.html"><span class="color-template color-template-blueberry color-template-background-clip">Blueberries</span></a><br/><span typeof="mw:Error mw:File"></span>5 <a href="strawberry.html"><span class="color-template color-template-strawberry color-template-background-clip">Strawberries</span></a><br/><span typeof="mw:Error mw:File"></span>5 <a href="sunflower-seed.html"><span class="color-template color-template-sunflower-seed color-template-background-clip">Sunflower Seeds</span></a><br/><span typeof="mw:Error mw:File"></span>5 <a href="pineapple.html"><span class="color-template color-template-pineapple color-template-background-clip">Pineapples</span></a><br/><span typeof="mw:Error mw:File"></span>5 <a href="gumdrops.html"><span class="color-template color-template-gumdrops color-template-background-clip">Gumdrops</span></a><br/>Spider Field Boost x3
+<td><img alt="Treat" height="25" src="img/Treat.png" width="25"/>5 <a href="treat.html"><span class="color-template color-template-treat">Treats</span></a><br/><img alt="Blueberry" height="25" src="img/Blueberry.png" width="25"/>5 <a href="blueberry.html"><span class="color-template color-template-blueberry color-template-background-clip">Blueberries</span></a><br/><img alt="Strawberry" height="25" src="img/Strawberry.png" width="25"/>5 <a href="strawberry.html"><span class="color-template color-template-strawberry color-template-background-clip">Strawberries</span></a><br/><img alt="Sunflower Seed" height="25" src="img/Sunflower_Seed.png" width="25"/>5 <a href="sunflower-seed.html"><span class="color-template color-template-sunflower-seed color-template-background-clip">Sunflower Seeds</span></a><br/><img alt="Pineapple" height="25" src="img/Pineapple.png" width="25"/>5 <a href="pineapple.html"><span class="color-template color-template-pineapple color-template-background-clip">Pineapples</span></a><br/><img alt="Gumdrops" height="25" src="img/Gumdrops.png" width="25"/>5 <a href="gumdrops.html"><span class="color-template color-template-gumdrops color-template-background-clip">Gumdrops</span></a><br/>Spider Field Boost x3
 </td></tr>
 <tr>
 <td>MinhMaMaMoons
@@ -872,7 +872,7 @@ Promo **codes** are a feature added in the May 18, 2018 update. It is located at
 </td>
 <td>2018-11-30 –<br/>2019-01-19
 </td>
-<td><span typeof="mw:Error mw:File"></span>5 <a href="moon-charm.html"><span class="color-template color-template-moon-charm color-template-background-clip">Moon Charms</span></a><br/><span typeof="mw:Error mw:File"></span>10 <a href="treat.html"><span class="color-template color-template-treat">Treats</span></a><br/>Pine Tree Forest Boost x2<br/>Wealth Clock Buff x2
+<td><img alt="Moon Charm" height="25" src="img/Moon_Charm.png" width="25"/>5 <a href="moon-charm.html"><span class="color-template color-template-moon-charm color-template-background-clip">Moon Charms</span></a><br/><img alt="Treat" height="25" src="img/Treat.png" width="25"/>10 <a href="treat.html"><span class="color-template color-template-treat">Treats</span></a><br/>Pine Tree Forest Boost x2<br/>Wealth Clock Buff x2
 </td></tr>
 <tr>
 <td>RobziRampage
@@ -881,7 +881,7 @@ Promo **codes** are a feature added in the May 18, 2018 update. It is located at
 </td>
 <td>2018-12-01 –<br/>2019-01-19
 </td>
-<td><span typeof="mw:Error mw:File"></span>2 <a href="stinger.html"><span class="color-template color-template-stinger color-template-background-clip">Stingers</span></a><br/>Rage x5<br/>Focus x10<br/>Melody<br/>Panda Bear Morph<br/>Stump Field Boost x1<br/>Wealth Clock
+<td><img alt="Stinger" height="25" src="img/Stinger.png" width="25"/>2 <a href="stinger.html"><span class="color-template color-template-stinger color-template-background-clip">Stingers</span></a><br/>Rage x5<br/>Focus x10<br/>Melody<br/>Panda Bear Morph<br/>Stump Field Boost x1<br/>Wealth Clock
 </td></tr>
 <tr>
 <td>DarzethPack
@@ -890,7 +890,7 @@ Promo **codes** are a feature added in the May 18, 2018 update. It is located at
 </td>
 <td>2018-12-01 –<br/>2019-01-19
 </td>
-<td><span typeof="mw:Error mw:File"></span>1 <a href="stinger.html"><span class="color-template color-template-stinger color-template-background-clip">Stinger</span></a><br/><span typeof="mw:Error mw:File"></span>1 <a href="enzymes.html"><span class="color-template color-template-enzymes color-template-background-clip">Enzymes</span></a><br/><span typeof="mw:Error mw:File"></span>10 <a href="sunflower-seed.html"><span class="color-template color-template-sunflower-seed color-template-background-clip">Sunflower Seeds</span></a><br/><span typeof="mw:Error mw:File"></span>10 <a href="pineapple.html"><span class="color-template color-template-pineapple color-template-background-clip">Pineapples</span></a><br/>Pumpkin Patch Boost x3<br/>Wealth Clock
+<td><img alt="Stinger" height="25" src="img/Stinger.png" width="25"/>1 <a href="stinger.html"><span class="color-template color-template-stinger color-template-background-clip">Stinger</span></a><br/><img alt="Enzymes" height="25" src="img/Enzymes.png" width="25"/>1 <a href="enzymes.html"><span class="color-template color-template-enzymes color-template-background-clip">Enzymes</span></a><br/><img alt="Sunflower Seed" height="25" src="img/Sunflower_Seed.png" width="25"/>10 <a href="sunflower-seed.html"><span class="color-template color-template-sunflower-seed color-template-background-clip">Sunflower Seeds</span></a><br/><img alt="Pineapple" height="25" src="img/Pineapple.png" width="25"/>10 <a href="pineapple.html"><span class="color-template color-template-pineapple color-template-background-clip">Pineapples</span></a><br/>Pumpkin Patch Boost x3<br/>Wealth Clock
 </td></tr>
 <tr>
 <td>Gummysausage
@@ -899,7 +899,7 @@ Promo **codes** are a feature added in the May 18, 2018 update. It is located at
 </td>
 <td>2018-12-02 –<br/>2019-01-19
 </td>
-<td><span typeof="mw:Error mw:File"></span>1 <a href="enzymes.html"><span class="color-template color-template-enzymes color-template-background-clip">Enzymes</span></a><br/>Glue Buff<br/><span typeof="mw:Error mw:File"></span>10 <a href="gumdrops.html"><span class="color-template color-template-gumdrops color-template-background-clip">Gumdrops</span></a><br/>Unlimited Gumdrops Buff (Duration: 1 minute)<br/>Cactus Field Boost x2<br/>Wealth Clock
+<td><img alt="Enzymes" height="25" src="img/Enzymes.png" width="25"/>1 <a href="enzymes.html"><span class="color-template color-template-enzymes color-template-background-clip">Enzymes</span></a><br/>Glue Buff<br/><img alt="Gumdrops" height="25" src="img/Gumdrops.png" width="25"/>10 <a href="gumdrops.html"><span class="color-template color-template-gumdrops color-template-background-clip">Gumdrops</span></a><br/>Unlimited Gumdrops Buff (Duration: 1 minute)<br/>Cactus Field Boost x2<br/>Wealth Clock
 </td></tr>
 <tr>
 <td>ExoExtract
@@ -908,7 +908,7 @@ Promo **codes** are a feature added in the May 18, 2018 update. It is located at
 </td>
 <td>2018-12-02 –<br/>2019-01-19
 </td>
-<td><span typeof="mw:Error mw:File"></span>1 <a href="red-extract.html"><span class="color-template color-template-red-extract color-template-background-clip">Red Extract</span></a><br/><span typeof="mw:Error mw:File"></span>1 <a href="stinger.html"><span class="color-template color-template-stinger color-template-background-clip">Stinger</span></a><br/><span typeof="mw:Error mw:File"></span>20 <a href="pineapple.html"><span class="color-template color-template-pineapple color-template-background-clip">Pineapples</span></a><br/>Bamboo Field Boost x3<br/>Wealth Clock
+<td><img alt="Red Extract" height="25" src="img/Red_Extract.png" width="25"/>1 <a href="red-extract.html"><span class="color-template color-template-red-extract color-template-background-clip">Red Extract</span></a><br/><img alt="Stinger" height="25" src="img/Stinger.png" width="25"/>1 <a href="stinger.html"><span class="color-template color-template-stinger color-template-background-clip">Stinger</span></a><br/><img alt="Pineapple" height="25" src="img/Pineapple.png" width="25"/>20 <a href="pineapple.html"><span class="color-template color-template-pineapple color-template-background-clip">Pineapples</span></a><br/>Bamboo Field Boost x3<br/>Wealth Clock
 </td></tr>
 <tr>
 <td>RedCatBee
@@ -917,7 +917,7 @@ Promo **codes** are a feature added in the May 18, 2018 update. It is located at
 </td>
 <td>2018-12-03 –<br/>2019-01-19
 </td>
-<td><span typeof="mw:Error mw:File"></span>1 <a href="red-extract.html"><span class="color-template color-template-red-extract color-template-background-clip">Red Extract</span></a><br/><span typeof="mw:Error mw:File"></span>15 <a href="pineapple.html"><span class="color-template color-template-pineapple color-template-background-clip">Pineapples</span></a><br/><span typeof="mw:Error mw:File"></span>15 <a href="sunflower-seed.html"><span class="color-template color-template-sunflower-seed color-template-background-clip">Sunflower Seeds</span></a><br/>Mushroom Field Boost x3<br/>Wealth Clock
+<td><img alt="Red Extract" height="25" src="img/Red_Extract.png" width="25"/>1 <a href="red-extract.html"><span class="color-template color-template-red-extract color-template-background-clip">Red Extract</span></a><br/><img alt="Pineapple" height="25" src="img/Pineapple.png" width="25"/>15 <a href="pineapple.html"><span class="color-template color-template-pineapple color-template-background-clip">Pineapples</span></a><br/><img alt="Sunflower Seed" height="25" src="img/Sunflower_Seed.png" width="25"/>15 <a href="sunflower-seed.html"><span class="color-template color-template-sunflower-seed color-template-background-clip">Sunflower Seeds</span></a><br/>Mushroom Field Boost x3<br/>Wealth Clock
 </td></tr>
 <tr>
 <td>GravyGoodies
@@ -926,7 +926,7 @@ Promo **codes** are a feature added in the May 18, 2018 update. It is located at
 </td>
 <td>2018-12-05 –<br/>2019-01-19
 </td>
-<td><span typeof="mw:Error mw:File"></span>1 <a href="oil.html"><span class="color-template color-template-oil color-template-background-clip">Oil</span></a><br/><span typeof="mw:Error mw:File"></span>5 <a href="strawberry.html"><span class="color-template color-template-strawberry color-template-background-clip">Strawberries</span></a><br/><span typeof="mw:Error mw:File"></span>5 <a href="blueberry.html"><span class="color-template color-template-blueberry color-template-background-clip">Blueberries</span></a><br/>Stump Field Boost x1<br/>Wealth Clock
+<td><img alt="Oil" height="25" src="img/Oil.png" width="25"/>1 <a href="oil.html"><span class="color-template color-template-oil color-template-background-clip">Oil</span></a><br/><img alt="Strawberry" height="25" src="img/Strawberry.png" width="25"/>5 <a href="strawberry.html"><span class="color-template color-template-strawberry color-template-background-clip">Strawberries</span></a><br/><img alt="Blueberry" height="25" src="img/Blueberry.png" width="25"/>5 <a href="blueberry.html"><span class="color-template color-template-blueberry color-template-background-clip">Blueberries</span></a><br/>Stump Field Boost x1<br/>Wealth Clock
 </td></tr>
 <tr>
 <td>MagicMittens<br/>(Exclusive to club members)
@@ -935,7 +935,7 @@ Promo **codes** are a feature added in the May 18, 2018 update. It is located at
 </td>
 <td>2018-12-06 –<br/>2019-01-19
 </td>
-<td><span typeof="mw:Error mw:File"></span>1 <a href="magic-bean.html"><span class="color-template color-template-magic-bean color-template-background-clip">Magic Bean</span></a><br/><span typeof="mw:Error mw:File"></span>10 <a href="pineapple.html"><span class="color-template color-template-pineapple color-template-background-clip">Pineapples</span></a><br/>Enzymes Buff x1<br/>Mountain Top Field Boost x1<br/>Wealth Clock Buff x1
+<td><img alt="Magic Bean" height="25" src="img/Magic_Bean.png" width="25"/>1 <a href="magic-bean.html"><span class="color-template color-template-magic-bean color-template-background-clip">Magic Bean</span></a><br/><img alt="Pineapple" height="25" src="img/Pineapple.png" width="25"/>10 <a href="pineapple.html"><span class="color-template color-template-pineapple color-template-background-clip">Pineapples</span></a><br/>Enzymes Buff x1<br/>Mountain Top Field Boost x1<br/>Wealth Clock Buff x1
 </td></tr>
 <tr>
 <td>Willgoold<br/>(Exclusive to club members)
@@ -944,7 +944,7 @@ Promo **codes** are a feature added in the May 18, 2018 update. It is located at
 </td>
 <td>2018-12-07 –<br/>2019-01-19
 </td>
-<td><span typeof="mw:Error mw:File"></span>1 <a href="glue.html"><span class="color-template color-template-glue color-template-background-clip">Glue</span></a><br/>Glue Buff x1<br/><span typeof="mw:Error mw:File"></span>10 <a href="gumdrops.html"><span class="color-template color-template-gumdrops color-template-background-clip">Gumdrops</span></a><br/>Unlimited Gumdrops Buff (Duration: 1 minute)<br/>Stump Field Boost x1<br/>Wealth Clock
+<td><img alt="Glue" height="25" src="img/Glue.png" width="25"/>1 <a href="glue.html"><span class="color-template color-template-glue color-template-background-clip">Glue</span></a><br/>Glue Buff x1<br/><img alt="Gumdrops" height="25" src="img/Gumdrops.png" width="25"/>10 <a href="gumdrops.html"><span class="color-template color-template-gumdrops color-template-background-clip">Gumdrops</span></a><br/>Unlimited Gumdrops Buff (Duration: 1 minute)<br/>Stump Field Boost x1<br/>Wealth Clock
 </td></tr>
 <tr>
 <td>ThatGuyGift<br/>(Exclusive to club members)
@@ -953,7 +953,7 @@ Promo **codes** are a feature added in the May 18, 2018 update. It is located at
 </td>
 <td>2018-12-10 –<br/>2019-01-19
 </td>
-<td><span typeof="mw:Error mw:File"></span>1 <a href="oil.html"><span class="color-template color-template-oil color-template-background-clip">Oil</span></a><br/><span typeof="mw:Error mw:File"></span>10 <a href="pineapple.html"><span class="color-template color-template-pineapple color-template-background-clip">Pineapples</span></a><br/><span typeof="mw:Error mw:File"></span>10 <a href="blueberry.html"><span class="color-template color-template-blueberry color-template-background-clip">Blueberries</span></a><br/>Rose Field Boost x2<br/>Wealth Clock
+<td><img alt="Oil" height="25" src="img/Oil.png" width="25"/>1 <a href="oil.html"><span class="color-template color-template-oil color-template-background-clip">Oil</span></a><br/><img alt="Pineapple" height="25" src="img/Pineapple.png" width="25"/>10 <a href="pineapple.html"><span class="color-template color-template-pineapple color-template-background-clip">Pineapples</span></a><br/><img alt="Blueberry" height="25" src="img/Blueberry.png" width="25"/>10 <a href="blueberry.html"><span class="color-template color-template-blueberry color-template-background-clip">Blueberries</span></a><br/>Rose Field Boost x2<br/>Wealth Clock
 </td></tr>
 <tr>
 <td>SDMittens1T
@@ -962,7 +962,7 @@ Promo **codes** are a feature added in the May 18, 2018 update. It is located at
 </td>
 <td>2018-12-15 –<br/>2019-01-19
 </td>
-<td><span typeof="mw:Error mw:File"></span>1 <a href="stinger.html"><span class="color-template color-template-stinger color-template-background-clip">Stinger</span></a><br/><span typeof="mw:Error mw:File"></span>1 <a href="glitter.html"><span class="color-template color-template-glitter color-template-background-clip">Glitter</span></a><br/>Dandelion Field Boost x3<br/>Mountain Top Field Boost x1<br/>Pollen Boost x30<br/>Wealth Clock
+<td><img alt="Stinger" height="25" src="img/Stinger.png" width="25"/>1 <a href="stinger.html"><span class="color-template color-template-stinger color-template-background-clip">Stinger</span></a><br/><img alt="Glitter" height="25" src="img/Glitter.png" width="25"/>1 <a href="glitter.html"><span class="color-template color-template-glitter color-template-background-clip">Glitter</span></a><br/>Dandelion Field Boost x3<br/>Mountain Top Field Boost x1<br/>Pollen Boost x30<br/>Wealth Clock
 </td></tr>
 <tr>
 <td>AceUnhackedLoot
@@ -971,7 +971,7 @@ Promo **codes** are a feature added in the May 18, 2018 update. It is located at
 </td>
 <td>2018-12-16 –<br/>2019-01-19
 </td>
-<td><span typeof="mw:Error mw:File"></span>2 <a href="stinger.html"><span class="color-template color-template-stinger color-template-background-clip">Stingers</span></a><br/><span typeof="mw:Error mw:File"></span>50 <a href="pineapple.html"><span class="color-template color-template-pineapple color-template-background-clip">Pineapples</span></a><br/>Blue Flower Field Boost x2<br/>Wealth Clock
+<td><img alt="Stinger" height="25" src="img/Stinger.png" width="25"/>2 <a href="stinger.html"><span class="color-template color-template-stinger color-template-background-clip">Stingers</span></a><br/><img alt="Pineapple" height="25" src="img/Pineapple.png" width="25"/>50 <a href="pineapple.html"><span class="color-template color-template-pineapple color-template-background-clip">Pineapples</span></a><br/>Blue Flower Field Boost x2<br/>Wealth Clock
 </td></tr>
 <tr>
 <td>ByeBeeBear
@@ -980,7 +980,7 @@ Promo **codes** are a feature added in the May 18, 2018 update. It is located at
 </td>
 <td>2019-01-30 –<br/>2019-01-31
 </td>
-<td><span typeof="mw:Error mw:File"></span>1 <a href="present.html"><span class="color-template color-template-present color-template-background-clip">Present</span></a><br/><span typeof="mw:Error mw:File"></span>10 <a href="ticket.html"><span class="color-template color-template-ticket color-template-background-clip">Tickets</span></a><br/>Pine Tree Forest Boost x1<br/>Spider Field Boost x3
+<td><img alt="Present" height="25" src="img/Present.png" width="25"/>1 <a href="present.html"><span class="color-template color-template-present color-template-background-clip">Present</span></a><br/><img alt="Ticket" height="25" src="img/Ticket.png" width="25"/>10 <a href="ticket.html"><span class="color-template color-template-ticket color-template-background-clip">Tickets</span></a><br/>Pine Tree Forest Boost x1<br/>Spider Field Boost x3
 </td></tr>
 <tr>
 <td>PingBoost
@@ -989,7 +989,7 @@ Promo **codes** are a feature added in the May 18, 2018 update. It is located at
 </td>
 <td>2018-11-18 –<br/>2019-02-01
 </td>
-<td>Wealth Clock Buff x5<br/><span typeof="mw:Error mw:File"></span>10 <a href="sunflower-seed.html"><span class="color-template color-template-sunflower-seed color-template-background-clip">Sunflower Seeds</span></a><br/><span typeof="mw:Error mw:File"></span>10 <a href="strawberry.html"><span class="color-template color-template-strawberry color-template-background-clip">Strawberries</span></a><br/><span typeof="mw:Error mw:File"></span>10 <a href="blueberry.html"><span class="color-template color-template-blueberry color-template-background-clip">Blueberries</span></a><br/><span typeof="mw:Error mw:File"></span>10 <a href="pineapple.html"><span class="color-template color-template-pineapple color-template-background-clip">Pineapples</span></a><br/>Cactus Boost x3<br/>Blue Flower Boost x4<br/>Mushroom Boost x4
+<td>Wealth Clock Buff x5<br/><img alt="Sunflower Seed" height="25" src="img/Sunflower_Seed.png" width="25"/>10 <a href="sunflower-seed.html"><span class="color-template color-template-sunflower-seed color-template-background-clip">Sunflower Seeds</span></a><br/><img alt="Strawberry" height="25" src="img/Strawberry.png" width="25"/>10 <a href="strawberry.html"><span class="color-template color-template-strawberry color-template-background-clip">Strawberries</span></a><br/><img alt="Blueberry" height="25" src="img/Blueberry.png" width="25"/>10 <a href="blueberry.html"><span class="color-template color-template-blueberry color-template-background-clip">Blueberries</span></a><br/><img alt="Pineapple" height="25" src="img/Pineapple.png" width="25"/>10 <a href="pineapple.html"><span class="color-template color-template-pineapple color-template-background-clip">Pineapples</span></a><br/>Cactus Boost x3<br/>Blue Flower Boost x4<br/>Mushroom Boost x4
 </td></tr>
 <tr>
 <td>NoobashaBonus<br/>(Exclusive to club members)
@@ -998,7 +998,7 @@ Promo **codes** are a feature added in the May 18, 2018 update. It is located at
 </td>
 <td>2018-12-04 –<br/>2019-02-01
 </td>
-<td><span typeof="mw:Error mw:File"></span>1 <a href="magic-bean.html"><span class="color-template color-template-magic-bean color-template-background-clip">Magic Bean</span></a><br/><span typeof="mw:Error mw:File"></span>1 <a href="moon-charm.html"><span class="color-template color-template-moon-charm color-template-background-clip">Moon Charm</span></a><br/><span typeof="mw:Error mw:File"></span>5 <a href="pineapple.html"><span class="color-template color-template-pineapple color-template-background-clip">Pineapples</span></a><br/><span typeof="mw:Error mw:File"></span>5 <a href="sunflower-seed.html"><span class="color-template color-template-sunflower-seed color-template-background-clip">Sunflower Seeds</span></a><br/>Sunflower Field Boost x4
+<td><img alt="Magic Bean" height="25" src="img/Magic_Bean.png" width="25"/>1 <a href="magic-bean.html"><span class="color-template color-template-magic-bean color-template-background-clip">Magic Bean</span></a><br/><img alt="Moon Charm" height="25" src="img/Moon_Charm.png" width="25"/>1 <a href="moon-charm.html"><span class="color-template color-template-moon-charm color-template-background-clip">Moon Charm</span></a><br/><img alt="Pineapple" height="25" src="img/Pineapple.png" width="25"/>5 <a href="pineapple.html"><span class="color-template color-template-pineapple color-template-background-clip">Pineapples</span></a><br/><img alt="Sunflower Seed" height="25" src="img/Sunflower_Seed.png" width="25"/>5 <a href="sunflower-seed.html"><span class="color-template color-template-sunflower-seed color-template-background-clip">Sunflower Seeds</span></a><br/>Sunflower Field Boost x4
 </td></tr>
 <tr>
 <td>BeesmasCheer
@@ -1007,7 +1007,7 @@ Promo **codes** are a feature added in the May 18, 2018 update. It is located at
 </td>
 <td>2018-12-19 –<br/>2019-02-01
 </td>
-<td><span typeof="mw:Error mw:File"></span>1 <a href="glitter.html"><span class="color-template color-template-glitter color-template-background-clip">Glitter</span></a>
+<td><img alt="Glitter" height="25" src="img/Glitter.png" width="25"/>1 <a href="glitter.html"><span class="color-template color-template-glitter color-template-background-clip">Glitter</span></a>
 </td></tr>
 <tr>
 <td>TeraTreasure
@@ -1016,7 +1016,7 @@ Promo **codes** are a feature added in the May 18, 2018 update. It is located at
 </td>
 <td>2018-12-20 –<br/>2019-02-01
 </td>
-<td><span typeof="mw:Error mw:File"></span>1 <a href="royal-jelly.html"><span class="color-template color-template-royal-jelly color-template-background-clip">Royal Jelly</span></a><br/><span typeof="mw:Error mw:File"></span>3 <a href="moon-charm.html"><span class="color-template color-template-moon-charm color-template-background-clip">Moon Charms</span></a><br/><span typeof="mw:Error mw:File"></span>10 <a href="sunflower-seed.html"><span class="color-template color-template-sunflower-seed color-template-background-clip">Sunflower Seeds</span></a><br/>Rose Field Boost x2
+<td><img alt="Royal Jelly" height="25" src="img/Royal_Jelly.png" width="25"/>1 <a href="royal-jelly.html"><span class="color-template color-template-royal-jelly color-template-background-clip">Royal Jelly</span></a><br/><img alt="Moon Charm" height="25" src="img/Moon_Charm.png" width="25"/>3 <a href="moon-charm.html"><span class="color-template color-template-moon-charm color-template-background-clip">Moon Charms</span></a><br/><img alt="Sunflower Seed" height="25" src="img/Sunflower_Seed.png" width="25"/>10 <a href="sunflower-seed.html"><span class="color-template color-template-sunflower-seed color-template-background-clip">Sunflower Seeds</span></a><br/>Rose Field Boost x2
 </td></tr>
 <tr>
 <td>RebootBoost
@@ -1034,7 +1034,7 @@ Promo **codes** are a feature added in the May 18, 2018 update. It is located at
 </td>
 <td>2018-12-07 –<br/>2019-02-07
 </td>
-<td><span typeof="mw:Error mw:File"></span>1 <a href="stinger.html"><span class="color-template color-template-stinger color-template-background-clip">Stinger</span></a><br/><span typeof="mw:Error mw:File"></span>10 <a href="strawberry.html"><span class="color-template color-template-strawberry color-template-background-clip">Strawberries</span></a><br/><span typeof="mw:Error mw:File"></span>10 <a href="blueberry.html"><span class="color-template color-template-blueberry color-template-background-clip">Blueberries</span></a><br/><span typeof="mw:Error mw:File"></span>10 <a href="sunflower-seed.html"><span class="color-template color-template-sunflower-seed color-template-background-clip">Sunflower Seeds</span></a><br/><span typeof="mw:Error mw:File"></span>10 <a href="pineapple.html"><span class="color-template color-template-pineapple color-template-background-clip">Pineapples</span></a><br/>Glue Buff<br/>Oil Buff<br/>Enzymes Buff<br/>Red Extract Buff<br/>Blue Extract Buff<br/>Unlimited Gumdrops Buff (Duration: 3 minutes)<br/>Blue Flower Field Boost x4
+<td><img alt="Stinger" height="25" src="img/Stinger.png" width="25"/>1 <a href="stinger.html"><span class="color-template color-template-stinger color-template-background-clip">Stinger</span></a><br/><img alt="Strawberry" height="25" src="img/Strawberry.png" width="25"/>10 <a href="strawberry.html"><span class="color-template color-template-strawberry color-template-background-clip">Strawberries</span></a><br/><img alt="Blueberry" height="25" src="img/Blueberry.png" width="25"/>10 <a href="blueberry.html"><span class="color-template color-template-blueberry color-template-background-clip">Blueberries</span></a><br/><img alt="Sunflower Seed" height="25" src="img/Sunflower_Seed.png" width="25"/>10 <a href="sunflower-seed.html"><span class="color-template color-template-sunflower-seed color-template-background-clip">Sunflower Seeds</span></a><br/><img alt="Pineapple" height="25" src="img/Pineapple.png" width="25"/>10 <a href="pineapple.html"><span class="color-template color-template-pineapple color-template-background-clip">Pineapples</span></a><br/>Glue Buff<br/>Oil Buff<br/>Enzymes Buff<br/>Red Extract Buff<br/>Blue Extract Buff<br/>Unlimited Gumdrops Buff (Duration: 3 minutes)<br/>Blue Flower Field Boost x4
 </td></tr>
 <tr>
 <td>Crafty
@@ -1043,7 +1043,7 @@ Promo **codes** are a feature added in the May 18, 2018 update. It is located at
 </td>
 <td>2018-11-26 –<br/>2019-02-08
 </td>
-<td>Unlimited Gumdrops Buff (Duration: 5 minutes)<br/><span typeof="mw:Error mw:File"></span>1 <a href="red-extract.html"><span class="color-template color-template-red-extract color-template-background-clip">Red Extract</span></a><br/><span typeof="mw:Error mw:File"></span>1 <a href="blue-extract.html"><span class="color-template color-template-blue-extract color-template-background-clip">Blue Extract</span></a><br/><span typeof="mw:Error mw:File"></span>25 <a href="gumdrops.html"><span class="color-template color-template-gumdrops color-template-background-clip">Gumdrops</span></a><br/><span typeof="mw:Error mw:File"></span>10 <a href="strawberry.html"><span class="color-template color-template-strawberry color-template-background-clip">Strawberries</span></a><br/><span typeof="mw:Error mw:File"></span>10 <a href="blueberry.html"><span class="color-template color-template-blueberry color-template-background-clip">Blueberries</span></a><br/><span typeof="mw:Error mw:File"></span>10 <a href="pineapple.html"><span class="color-template color-template-pineapple color-template-background-clip">Pineapples</span></a><br/><span typeof="mw:Error mw:File"></span>10 <a href="sunflower-seed.html"><span class="color-template color-template-sunflower-seed color-template-background-clip">Sunflower Seeds</span></a><br/><span typeof="mw:Error mw:File"></span>1 <a href="royal-jelly.html"><span class="color-template color-template-royal-jelly color-template-background-clip">Royal Jelly</span></a><br/>Dandelion Field Boost x4
+<td>Unlimited Gumdrops Buff (Duration: 5 minutes)<br/><img alt="Red Extract" height="25" src="img/Red_Extract.png" width="25"/>1 <a href="red-extract.html"><span class="color-template color-template-red-extract color-template-background-clip">Red Extract</span></a><br/><img alt="Blue Extract" height="25" src="img/Blue_Extract.png" width="25"/>1 <a href="blue-extract.html"><span class="color-template color-template-blue-extract color-template-background-clip">Blue Extract</span></a><br/><img alt="Gumdrops" height="25" src="img/Gumdrops.png" width="25"/>25 <a href="gumdrops.html"><span class="color-template color-template-gumdrops color-template-background-clip">Gumdrops</span></a><br/><img alt="Strawberry" height="25" src="img/Strawberry.png" width="25"/>10 <a href="strawberry.html"><span class="color-template color-template-strawberry color-template-background-clip">Strawberries</span></a><br/><img alt="Blueberry" height="25" src="img/Blueberry.png" width="25"/>10 <a href="blueberry.html"><span class="color-template color-template-blueberry color-template-background-clip">Blueberries</span></a><br/><img alt="Pineapple" height="25" src="img/Pineapple.png" width="25"/>10 <a href="pineapple.html"><span class="color-template color-template-pineapple color-template-background-clip">Pineapples</span></a><br/><img alt="Sunflower Seed" height="25" src="img/Sunflower_Seed.png" width="25"/>10 <a href="sunflower-seed.html"><span class="color-template color-template-sunflower-seed color-template-background-clip">Sunflower Seeds</span></a><br/><img alt="Royal Jelly" height="25" src="img/Royal_Jelly.png" width="25"/>1 <a href="royal-jelly.html"><span class="color-template color-template-royal-jelly color-template-background-clip">Royal Jelly</span></a><br/>Dandelion Field Boost x4
 </td></tr>
 <tr>
 <td>AnniversaBee
@@ -1079,7 +1079,7 @@ Promo **codes** are a feature added in the May 18, 2018 update. It is located at
 </td>
 <td>2019-04-14<br/>(2 hours)
 </td>
-<td>Conversion Boost (Duration: 1 hour)<br/><span typeof="mw:Error mw:File"></span>3 <a href="field-dice.html"><span class="color-template color-template-field-dice color-template-background-clip">Field Dice</span></a>
+<td>Conversion Boost (Duration: 1 hour)<br/><img alt="Field Dice" height="25" src="img/Field_Dice.png" width="25"/>3 <a href="field-dice.html"><span class="color-template color-template-field-dice color-template-background-clip">Field Dice</span></a>
 </td></tr>
 <tr>
 <td>TallTallMountain
@@ -1088,7 +1088,7 @@ Promo **codes** are a feature added in the May 18, 2018 update. It is located at
 </td>
 <td>2019-04-15 –<br/>2019-04-16
 </td>
-<td>Mountain Top Boost x2<br/><span typeof="mw:Error mw:File"></span>1 <a href="moon-charm.html"><span class="color-template color-template-moon-charm color-template-background-clip">Moon Charm</span></a><br/><span typeof="mw:Error mw:File"></span>1 <a href="strawberry.html"><span class="color-template color-template-strawberry color-template-background-clip">Strawberry</span></a><br/><span typeof="mw:Error mw:File"></span>1 <a href="blueberry.html"><span class="color-template color-template-blueberry color-template-background-clip">Blueberry</span></a><br/><span typeof="mw:Error mw:File"></span>3 <a href="micro-converter.html"><span class="color-template color-template-micro-converter color-template-background-clip">Micro-Converters</span></a>
+<td>Mountain Top Boost x2<br/><img alt="Moon Charm" height="25" src="img/Moon_Charm.png" width="25"/>1 <a href="moon-charm.html"><span class="color-template color-template-moon-charm color-template-background-clip">Moon Charm</span></a><br/><img alt="Strawberry" height="25" src="img/Strawberry.png" width="25"/>1 <a href="strawberry.html"><span class="color-template color-template-strawberry color-template-background-clip">Strawberry</span></a><br/><img alt="Blueberry" height="25" src="img/Blueberry.png" width="25"/>1 <a href="blueberry.html"><span class="color-template color-template-blueberry color-template-background-clip">Blueberry</span></a><br/><img alt="Micro-Converter" height="25" src="img/Micro-Converter.png" width="25"/>3 <a href="micro-converter.html"><span class="color-template color-template-micro-converter color-template-background-clip">Micro-Converters</span></a>
 </td></tr>
 <tr>
 <td>BloxyBoost
@@ -1097,7 +1097,7 @@ Promo **codes** are a feature added in the May 18, 2018 update. It is located at
 </td>
 <td>2019-02-06 –<br/>2019-04-19
 </td>
-<td><span typeof="mw:Error mw:File"></span>5 <a href="ticket.html"><span class="color-template color-template-ticket color-template-background-clip">Tickets</span></a><br/>Mushroom Field Boost x5<br/>Conversion Boost (Duration: 1 hour)
+<td><img alt="Ticket" height="25" src="img/Ticket.png" width="25"/>5 <a href="ticket.html"><span class="color-template color-template-ticket color-template-background-clip">Tickets</span></a><br/>Mushroom Field Boost x5<br/>Conversion Boost (Duration: 1 hour)
 </td></tr>
 <tr>
 <td>BeeMine
@@ -1106,7 +1106,7 @@ Promo **codes** are a feature added in the May 18, 2018 update. It is located at
 </td>
 <td>2019-02-14 –<br/>2019-04-19
 </td>
-<td><span typeof="mw:Error mw:File"></span>1 <a href="royal-jelly.html"><span class="color-template color-template-royal-jelly color-template-background-clip">Royal Jelly</span></a><br/><span typeof="mw:Error mw:File"></span>10 <a href="strawberry.html"><span class="color-template color-template-strawberry color-template-background-clip">Strawberries</span></a><br/>Conversion Boost (Duration: 1 hour)<br/>Rose Field Boost x3
+<td><img alt="Royal Jelly" height="25" src="img/Royal_Jelly.png" width="25"/>1 <a href="royal-jelly.html"><span class="color-template color-template-royal-jelly color-template-background-clip">Royal Jelly</span></a><br/><img alt="Strawberry" height="25" src="img/Strawberry.png" width="25"/>10 <a href="strawberry.html"><span class="color-template color-template-strawberry color-template-background-clip">Strawberries</span></a><br/>Conversion Boost (Duration: 1 hour)<br/>Rose Field Boost x3
 </td></tr>
 <tr>
 <td>Trying
@@ -1124,7 +1124,7 @@ Promo **codes** are a feature added in the May 18, 2018 update. It is located at
 </td>
 <td>2018-11-05 –<br/>2019-05-10
 </td>
-<td><span typeof="mw:Error mw:File"></span>1 <a href="royal-jelly.html"><span class="color-template color-template-royal-jelly color-template-background-clip">Royal Jelly</span></a><br/>Wealth Clock Buff x1<br/>Pine Tree Forest Boost x2<br/>Rose Field Boost x2<br/>Sunflower Field Boost x2<br/><span typeof="mw:Error mw:File"></span>10 <a href="treat.html"><span class="color-template color-template-treat">Treats</span></a>
+<td><img alt="Royal Jelly" height="25" src="img/Royal_Jelly.png" width="25"/>1 <a href="royal-jelly.html"><span class="color-template color-template-royal-jelly color-template-background-clip">Royal Jelly</span></a><br/>Wealth Clock Buff x1<br/>Pine Tree Forest Boost x2<br/>Rose Field Boost x2<br/>Sunflower Field Boost x2<br/><img alt="Treat" height="25" src="img/Treat.png" width="25"/>10 <a href="treat.html"><span class="color-template color-template-treat">Treats</span></a>
 </td></tr>
 <tr>
 <td>2MFavorites
@@ -1133,7 +1133,7 @@ Promo **codes** are a feature added in the May 18, 2018 update. It is located at
 </td>
 <td>2019-01-10 –<br/>2019-05-10
 </td>
-<td><span typeof="mw:Error mw:File"></span>1 <a href="royal-jelly.html"><span class="color-template color-template-royal-jelly color-template-background-clip">Royal Jelly</span></a><br/><span typeof="mw:Error mw:File"></span>5 <a href="ticket.html"><span class="color-template color-template-ticket color-template-background-clip">Tickets</span></a><br/>Oil<br/><span typeof="mw:Error mw:File"></span>5 <a href="strawberry.html"><span class="color-template color-template-strawberry color-template-background-clip">Strawberries</span></a><br/><span typeof="mw:Error mw:File"></span>5 <a href="blueberry.html"><span class="color-template color-template-blueberry color-template-background-clip">Blueberries</span></a><br/>Wealth Clock Buff x5<br/>Haste+<br/>Baby Love<br/>Black Bear Morph<br/>Sunflower Field Boost x5<br/>Stump Field Boost x2
+<td><img alt="Royal Jelly" height="25" src="img/Royal_Jelly.png" width="25"/>1 <a href="royal-jelly.html"><span class="color-template color-template-royal-jelly color-template-background-clip">Royal Jelly</span></a><br/><img alt="Ticket" height="25" src="img/Ticket.png" width="25"/>5 <a href="ticket.html"><span class="color-template color-template-ticket color-template-background-clip">Tickets</span></a><br/>Oil<br/><img alt="Strawberry" height="25" src="img/Strawberry.png" width="25"/>5 <a href="strawberry.html"><span class="color-template color-template-strawberry color-template-background-clip">Strawberries</span></a><br/><img alt="Blueberry" height="25" src="img/Blueberry.png" width="25"/>5 <a href="blueberry.html"><span class="color-template color-template-blueberry color-template-background-clip">Blueberries</span></a><br/>Wealth Clock Buff x5<br/>Haste+<br/>Baby Love<br/>Black Bear Morph<br/>Sunflower Field Boost x5<br/>Stump Field Boost x2
 </td></tr>
 <tr>
 <td>RebootCode
@@ -1142,7 +1142,7 @@ Promo **codes** are a feature added in the May 18, 2018 update. It is located at
 </td>
 <td>2019-05-13 –<br/>2019-05-14
 </td>
-<td>Wealth Clock Buff x5<br/>Conversion Boost (Duration: 1 hour)<br/>Dandelion Field Boost x5<br/>Cactus Field Boost x1<br/><span typeof="mw:Error mw:File"></span>1 <a href="micro-converter.html"><span class="color-template color-template-micro-converter color-template-background-clip">Micro-Converter</span></a>
+<td>Wealth Clock Buff x5<br/>Conversion Boost (Duration: 1 hour)<br/>Dandelion Field Boost x5<br/>Cactus Field Boost x1<br/><img alt="Micro-Converter" height="25" src="img/Micro-Converter.png" width="25"/>1 <a href="micro-converter.html"><span class="color-template color-template-micro-converter color-template-background-clip">Micro-Converter</span></a>
 </td></tr>
 <tr>
 <td>Poke
@@ -1151,7 +1151,7 @@ Promo **codes** are a feature added in the May 18, 2018 update. It is located at
 </td>
 <td>2019-08-04 –<br/>2019-08-06
 </td>
-<td>Sunflower Field Boost x5<br/>Cactus Field Boost x3<br/><span typeof="mw:Error mw:File"></span>5 <a href="stinger.html"><span class="color-template color-template-stinger color-template-background-clip">Stingers</span></a><br/><span typeof="mw:Error mw:File"></span>10 <a href="moon-charm.html"><span class="color-template color-template-moon-charm color-template-background-clip">Moon Charms</span></a><br/>Demo Bee Jelly x1
+<td>Sunflower Field Boost x5<br/>Cactus Field Boost x3<br/><img alt="Stinger" height="25" src="img/Stinger.png" width="25"/>5 <a href="stinger.html"><span class="color-template color-template-stinger color-template-background-clip">Stingers</span></a><br/><img alt="Moon Charm" height="25" src="img/Moon_Charm.png" width="25"/>10 <a href="moon-charm.html"><span class="color-template color-template-moon-charm color-template-background-clip">Moon Charms</span></a><br/>Demo Bee Jelly x1
 </td></tr>
 <tr>
 <td>August
@@ -1160,7 +1160,7 @@ Promo **codes** are a feature added in the May 18, 2018 update. It is located at
 </td>
 <td>2019-08-21 –<br/>2019-09-02
 </td>
-<td>Rose Field Boost x3<br/>Bamboo Field Boost x3<br/>Conversion Boost<br/><span typeof="mw:Error mw:File"></span>1 <a href="glitter.html"><span class="color-template color-template-glitter color-template-background-clip">Glitter</span></a>
+<td>Rose Field Boost x3<br/>Bamboo Field Boost x3<br/>Conversion Boost<br/><img alt="Glitter" height="25" src="img/Glitter.png" width="25"/>1 <a href="glitter.html"><span class="color-template color-template-glitter color-template-background-clip">Glitter</span></a>
 </td></tr>
 <tr>
 <td>Breeze
@@ -1169,7 +1169,7 @@ Promo **codes** are a feature added in the May 18, 2018 update. It is located at
 </td>
 <td>2019-09-21 –<br/>2019-09-26
 </td>
-<td>Cactus Field Boost x2<br/>Dandelion Field Boost x3<br/>Mushroom Field Boost x3<br/><span typeof="mw:Error mw:File"></span>1 <a href="magic-bean.html"><span class="color-template color-template-magic-bean color-template-background-clip">Magic Bean</span></a><br/><span typeof="mw:Error mw:File"></span>20 <a href="sunflower-seed.html"><span class="color-template color-template-sunflower-seed color-template-background-clip">Sunflower Seeds</span></a><br/><span typeof="mw:Error mw:File"></span>3 <a href="micro-converter.html"><span class="color-template color-template-micro-converter color-template-background-clip">Micro-Converters</span></a>
+<td>Cactus Field Boost x2<br/>Dandelion Field Boost x3<br/>Mushroom Field Boost x3<br/><img alt="Magic Bean" height="25" src="img/Magic_Bean.png" width="25"/>1 <a href="magic-bean.html"><span class="color-template color-template-magic-bean color-template-background-clip">Magic Bean</span></a><br/><img alt="Sunflower Seed" height="25" src="img/Sunflower_Seed.png" width="25"/>20 <a href="sunflower-seed.html"><span class="color-template color-template-sunflower-seed color-template-background-clip">Sunflower Seeds</span></a><br/><img alt="Micro-Converter" height="25" src="img/Micro-Converter.png" width="25"/>3 <a href="micro-converter.html"><span class="color-template color-template-micro-converter color-template-background-clip">Micro-Converters</span></a>
 </td></tr>
 <tr>
 <td>MoreTime
@@ -1178,7 +1178,7 @@ Promo **codes** are a feature added in the May 18, 2018 update. It is located at
 </td>
 <td>2019-09-13 –<br/>2019-09-26
 </td>
-<td>Pumpkin Patch Boost x3<br/>Clover Field Boost x3<br/>Stump Field Boost x1<br/><span typeof="mw:Error mw:File"></span>20 <a href="moon-charm.html"><span class="color-template color-template-moon-charm color-template-background-clip">Moon Charms</span></a><br/><span typeof="mw:Error mw:File"></span>5 <a href="micro-converter.html"><span class="color-template color-template-micro-converter color-template-background-clip">Micro-Converters</span></a><br/><span typeof="mw:Error mw:File"></span>3 <a href="jelly-beans.html"><span class="color-template color-template-jelly-beans color-template-background-clip">Jelly Beans</span></a><br/>Wealth Clock Buff x3
+<td>Pumpkin Patch Boost x3<br/>Clover Field Boost x3<br/>Stump Field Boost x1<br/><img alt="Moon Charm" height="25" src="img/Moon_Charm.png" width="25"/>20 <a href="moon-charm.html"><span class="color-template color-template-moon-charm color-template-background-clip">Moon Charms</span></a><br/><img alt="Micro-Converter" height="25" src="img/Micro-Converter.png" width="25"/>5 <a href="micro-converter.html"><span class="color-template color-template-micro-converter color-template-background-clip">Micro-Converters</span></a><br/><img alt="Jelly Beans" height="25" src="img/Jelly_Beans.png" width="25"/>3 <a href="jelly-beans.html"><span class="color-template color-template-jelly-beans color-template-background-clip">Jelly Beans</span></a><br/>Wealth Clock Buff x3
 </td></tr>
 <tr>
 <td>WindyReboot
@@ -1187,7 +1187,7 @@ Promo **codes** are a feature added in the May 18, 2018 update. It is located at
 </td>
 <td>2019-09-28 –<br/>2019-09-26
 </td>
-<td>Clover Field Boost x3<br/>Clover Field Winds x3<br/>Conversion Boost (Duration: 1 hour)<br/><span typeof="mw:Error mw:File"></span>1 <a href="cloud-vial.html"><span class="color-template color-template-cloud-vial color-template-background-clip">Cloud Vial</span></a><br/><span typeof="mw:Error mw:File"></span>3 <a href="coconut.html"><span class="color-template color-template-coconut color-template-background-clip">Coconuts</span></a>
+<td>Clover Field Boost x3<br/>Clover Field Winds x3<br/>Conversion Boost (Duration: 1 hour)<br/><img alt="Cloud Vial" height="25" src="img/Cloud_Vial.png" width="25"/>1 <a href="cloud-vial.html"><span class="color-template color-template-cloud-vial color-template-background-clip">Cloud Vial</span></a><br/><img alt="Coconut" height="25" src="img/Coconut.png" width="25"/>3 <a href="coconut.html"><span class="color-template color-template-coconut color-template-background-clip">Coconuts</span></a>
 </td></tr>
 <tr>
 <td>RebootCloud
@@ -1196,7 +1196,7 @@ Promo **codes** are a feature added in the May 18, 2018 update. It is located at
 </td>
 <td>2019-09-29 –<br/>2019-10-01
 </td>
-<td>Spider Field Boost x3<br/>Spider Field Winds x3<br/><span typeof="mw:Error mw:File"></span>1 <a href="cloud-vial.html"><span class="color-template color-template-cloud-vial color-template-background-clip">Cloud Vial</span></a><br/><span typeof="mw:Error mw:File"></span>3 <a href="coconut.html"><span class="color-template color-template-coconut color-template-background-clip">Coconuts</span></a><br/>Conversion Boost x2 (Duration: 30 minutes)<br/>Wealth Clock Buff x3
+<td>Spider Field Boost x3<br/>Spider Field Winds x3<br/><img alt="Cloud Vial" height="25" src="img/Cloud_Vial.png" width="25"/>1 <a href="cloud-vial.html"><span class="color-template color-template-cloud-vial color-template-background-clip">Cloud Vial</span></a><br/><img alt="Coconut" height="25" src="img/Coconut.png" width="25"/>3 <a href="coconut.html"><span class="color-template color-template-coconut color-template-background-clip">Coconuts</span></a><br/>Conversion Boost x2 (Duration: 30 minutes)<br/>Wealth Clock Buff x3
 </td></tr>
 <tr>
 <td>BeeDay2019
@@ -1205,7 +1205,7 @@ Promo **codes** are a feature added in the May 18, 2018 update. It is located at
 </td>
 <td>2019-05-20 –<br/>2019-10-02
 </td>
-<td>Bumble Bee Jelly x1<br/><span typeof="mw:Error mw:File"></span>1 <a href="jelly-beans.html"><span class="color-template color-template-jelly-beans color-template-background-clip">Jelly Beans</span></a><br/><span typeof="mw:Error mw:File"></span>1 <a href="field-dice.html"><span class="color-template color-template-field-dice color-template-background-clip">Field Dice</span></a><br/><span typeof="mw:Error mw:File"></span>1 <a href="micro-converter.html"><span class="color-template color-template-micro-converter color-template-background-clip">Micro-Converter</span></a><br/><span typeof="mw:Error mw:File"></span>1 <a href="gumdrops.html"><span class="color-template color-template-gumdrops color-template-background-clip">Gumdrops</span></a><br/><span typeof="mw:Error mw:File"></span>1 <a href="strawberry.html"><span class="color-template color-template-strawberry color-template-background-clip">Strawberry</span></a><br/><span typeof="mw:Error mw:File"></span>1 <a href="blueberry.html"><span class="color-template color-template-blueberry color-template-background-clip">Blueberry</span></a><br/><span typeof="mw:Error mw:File"></span>1 <a href="pineapple.html"><span class="color-template color-template-pineapple color-template-background-clip">Pineapple</span></a><br/><span typeof="mw:Error mw:File"></span>1 <a href="sunflower-seed.html"><span class="color-template color-template-sunflower-seed color-template-background-clip">Sunflower Seed</span></a><br/>Conversion Boost (Duration: 30 minutes)<br/>Pumpkin Patch Boost x4<br/>Mother Bear Morph x3
+<td>Bumble Bee Jelly x1<br/><img alt="Jelly Beans" height="25" src="img/Jelly_Beans.png" width="25"/>1 <a href="jelly-beans.html"><span class="color-template color-template-jelly-beans color-template-background-clip">Jelly Beans</span></a><br/><img alt="Field Dice" height="25" src="img/Field_Dice.png" width="25"/>1 <a href="field-dice.html"><span class="color-template color-template-field-dice color-template-background-clip">Field Dice</span></a><br/><img alt="Micro-Converter" height="25" src="img/Micro-Converter.png" width="25"/>1 <a href="micro-converter.html"><span class="color-template color-template-micro-converter color-template-background-clip">Micro-Converter</span></a><br/><img alt="Gumdrops" height="25" src="img/Gumdrops.png" width="25"/>1 <a href="gumdrops.html"><span class="color-template color-template-gumdrops color-template-background-clip">Gumdrops</span></a><br/><img alt="Strawberry" height="25" src="img/Strawberry.png" width="25"/>1 <a href="strawberry.html"><span class="color-template color-template-strawberry color-template-background-clip">Strawberry</span></a><br/><img alt="Blueberry" height="25" src="img/Blueberry.png" width="25"/>1 <a href="blueberry.html"><span class="color-template color-template-blueberry color-template-background-clip">Blueberry</span></a><br/><img alt="Pineapple" height="25" src="img/Pineapple.png" width="25"/>1 <a href="pineapple.html"><span class="color-template color-template-pineapple color-template-background-clip">Pineapple</span></a><br/><img alt="Sunflower Seed" height="25" src="img/Sunflower_Seed.png" width="25"/>1 <a href="sunflower-seed.html"><span class="color-template color-template-sunflower-seed color-template-background-clip">Sunflower Seed</span></a><br/>Conversion Boost (Duration: 30 minutes)<br/>Pumpkin Patch Boost x4<br/>Mother Bear Morph x3
 </td></tr>
 <tr>
 <td>BloxyCelebration
@@ -1214,7 +1214,7 @@ Promo **codes** are a feature added in the May 18, 2018 update. It is located at
 </td>
 <td>2019-02-23 –<br/>2019-10-02
 </td>
-<td><span typeof="mw:Error mw:File"></span>5 <a href="ticket.html"><span class="color-template color-template-ticket color-template-background-clip">Tickets</span></a><br/><span typeof="mw:Error mw:File"></span>1 <a href="magic-bean.html"><span class="color-template color-template-magic-bean color-template-background-clip">Magic Bean</span></a><br/>Baby Love x1<br/>Conversion Boost (Duration: 6 hours)<br/>Mountain Top Field Boost x3<br/>Clover Field Boost x5
+<td><img alt="Ticket" height="25" src="img/Ticket.png" width="25"/>5 <a href="ticket.html"><span class="color-template color-template-ticket color-template-background-clip">Tickets</span></a><br/><img alt="Magic Bean" height="25" src="img/Magic_Bean.png" width="25"/>1 <a href="magic-bean.html"><span class="color-template color-template-magic-bean color-template-background-clip">Magic Bean</span></a><br/>Baby Love x1<br/>Conversion Boost (Duration: 6 hours)<br/>Mountain Top Field Boost x3<br/>Clover Field Boost x5
 </td></tr>
 <tr>
 <td>TornadoGlitch
@@ -1223,7 +1223,7 @@ Promo **codes** are a feature added in the May 18, 2018 update. It is located at
 </td>
 <td>2019-09-30 –<br/>2019-10-03
 </td>
-<td>Dandelion Field Boost x3<br/>Dandelion Field Winds x3<br/><span typeof="mw:Error mw:File"></span>1 <a href="cloud-vial.html"><span class="color-template color-template-cloud-vial color-template-background-clip">Cloud Vial</span></a><br/><span typeof="mw:Error mw:File"></span>5 <a href="coconut.html"><span class="color-template color-template-coconut color-template-background-clip">Coconuts</span></a>
+<td>Dandelion Field Boost x3<br/>Dandelion Field Winds x3<br/><img alt="Cloud Vial" height="25" src="img/Cloud_Vial.png" width="25"/>1 <a href="cloud-vial.html"><span class="color-template color-template-cloud-vial color-template-background-clip">Cloud Vial</span></a><br/><img alt="Coconut" height="25" src="img/Coconut.png" width="25"/>5 <a href="coconut.html"><span class="color-template color-template-coconut color-template-background-clip">Coconuts</span></a>
 </td></tr>
 <tr>
 <td>WindyWeekend
@@ -1232,7 +1232,7 @@ Promo **codes** are a feature added in the May 18, 2018 update. It is located at
 </td>
 <td>2019-10-26 –<br/>2019-10-28
 </td>
-<td><span typeof="mw:Error mw:File"></span>1 <a href="cloud-vial.html"><span class="color-template color-template-cloud-vial color-template-background-clip">Cloud Vial</span></a><br/><span typeof="mw:Error mw:File"></span>1 <a href="jelly-beans.html"><span class="color-template color-template-jelly-beans color-template-background-clip">Jelly Beans</span></a><br/>Mountain Top Field Boost<br/>Mountain Top Field Winds x3<br/>Dandelion Field Boost<br/>Dandelion Field Winds x3<br/>Conversion Boost x2
+<td><img alt="Cloud Vial" height="25" src="img/Cloud_Vial.png" width="25"/>1 <a href="cloud-vial.html"><span class="color-template color-template-cloud-vial color-template-background-clip">Cloud Vial</span></a><br/><img alt="Jelly Beans" height="25" src="img/Jelly_Beans.png" width="25"/>1 <a href="jelly-beans.html"><span class="color-template color-template-jelly-beans color-template-background-clip">Jelly Beans</span></a><br/>Mountain Top Field Boost<br/>Mountain Top Field Winds x3<br/>Dandelion Field Boost<br/>Dandelion Field Winds x3<br/>Conversion Boost x2
 </td></tr>
 <tr>
 <td>OffToOrlando
@@ -1241,7 +1241,7 @@ Promo **codes** are a feature added in the May 18, 2018 update. It is located at
 </td>
 <td>2019-10-28 –<br/>(6 hours)
 </td>
-<td><span typeof="mw:Error mw:File"></span>3 <a href="jelly-beans.html"><span class="color-template color-template-jelly-beans color-template-background-clip">Jelly Beans</span></a><br/><span typeof="mw:Error mw:File"></span>10 <a href="coconut.html"><span class="color-template color-template-coconut color-template-background-clip">Coconuts</span></a><br/>Pineapple Patch Boost x3<br/>Pineapple Patch Winds x5<br/>Wealth Clock Buff x5
+<td><img alt="Jelly Beans" height="25" src="img/Jelly_Beans.png" width="25"/>3 <a href="jelly-beans.html"><span class="color-template color-template-jelly-beans color-template-background-clip">Jelly Beans</span></a><br/><img alt="Coconut" height="25" src="img/Coconut.png" width="25"/>10 <a href="coconut.html"><span class="color-template color-template-coconut color-template-background-clip">Coconuts</span></a><br/>Pineapple Patch Boost x3<br/>Pineapple Patch Winds x5<br/>Wealth Clock Buff x5
 </td></tr>
 <tr>
 <td>Cactus4Now
@@ -1259,7 +1259,7 @@ Promo **codes** are a feature added in the May 18, 2018 update. It is located at
 </td>
 <td>2019-11-29 –<br/>2019-12-23
 </td>
-<td><span typeof="mw:Error mw:File"></span>10 <a href="strawberry.html"><span class="color-template color-template-strawberry color-template-background-clip">Strawberries</span></a><br/><span typeof="mw:Error mw:File"></span>10 <a href="blueberry.html"><span class="color-template color-template-blueberry color-template-background-clip">Blueberries</span></a><br/><span typeof="mw:Error mw:File"></span>10 <a href="pineapple.html"><span class="color-template color-template-pineapple color-template-background-clip">Pineapples</span></a><br/><span typeof="mw:Error mw:File"></span>10 <a href="gumdrops.html"><span class="color-template color-template-gumdrops color-template-background-clip">Gumdrops</span></a><br/><span typeof="mw:Error mw:File"></span>1 <a href="jelly-beans.html"><span class="color-template color-template-jelly-beans color-template-background-clip">Jelly Beans</span></a><br/>Pumpkin Patch Boost x3<br/>Pumpkin Patch Winds x3
+<td><img alt="Strawberry" height="25" src="img/Strawberry.png" width="25"/>10 <a href="strawberry.html"><span class="color-template color-template-strawberry color-template-background-clip">Strawberries</span></a><br/><img alt="Blueberry" height="25" src="img/Blueberry.png" width="25"/>10 <a href="blueberry.html"><span class="color-template color-template-blueberry color-template-background-clip">Blueberries</span></a><br/><img alt="Pineapple" height="25" src="img/Pineapple.png" width="25"/>10 <a href="pineapple.html"><span class="color-template color-template-pineapple color-template-background-clip">Pineapples</span></a><br/><img alt="Gumdrops" height="25" src="img/Gumdrops.png" width="25"/>10 <a href="gumdrops.html"><span class="color-template color-template-gumdrops color-template-background-clip">Gumdrops</span></a><br/><img alt="Jelly Beans" height="25" src="img/Jelly_Beans.png" width="25"/>1 <a href="jelly-beans.html"><span class="color-template color-template-jelly-beans color-template-background-clip">Jelly Beans</span></a><br/>Pumpkin Patch Boost x3<br/>Pumpkin Patch Winds x3
 </td></tr>
 <tr>
 <td>Buzzy
@@ -1277,7 +1277,7 @@ Promo **codes** are a feature added in the May 18, 2018 update. It is located at
 </td>
 <td>2019-04-18 –<br/>2019-12-24
 </td>
-<td><span typeof="mw:Error mw:File"></span>1 <a href="royal-jelly.html"><span class="color-template color-template-royal-jelly color-template-background-clip">Royal Jelly</span></a><br/><span typeof="mw:Error mw:File"></span>10 <a href="gumdrops.html"><span class="color-template color-template-gumdrops color-template-background-clip">Gumdrops</span></a><br/><span typeof="mw:Error mw:File"></span>3 <a href="jelly-beans.html"><span class="color-template color-template-jelly-beans color-template-background-clip">Jelly Beans</span></a><br/>Blue Flower Field Boost x2<br/>Sunflower Field Boost x2<br/>Mushroom Field Boost x2
+<td><img alt="Royal Jelly" height="25" src="img/Royal_Jelly.png" width="25"/>1 <a href="royal-jelly.html"><span class="color-template color-template-royal-jelly color-template-background-clip">Royal Jelly</span></a><br/><img alt="Gumdrops" height="25" src="img/Gumdrops.png" width="25"/>10 <a href="gumdrops.html"><span class="color-template color-template-gumdrops color-template-background-clip">Gumdrops</span></a><br/><img alt="Jelly Beans" height="25" src="img/Jelly_Beans.png" width="25"/>3 <a href="jelly-beans.html"><span class="color-template color-template-jelly-beans color-template-background-clip">Jelly Beans</span></a><br/>Blue Flower Field Boost x2<br/>Sunflower Field Boost x2<br/>Mushroom Field Boost x2
 </td></tr>
 <tr>
 <td>WikiHonor
@@ -1286,7 +1286,7 @@ Promo **codes** are a feature added in the May 18, 2018 update. It is located at
 </td>
 <td>2018-12-11 –2019-12-24
 </td>
-<td><span typeof="mw:Error mw:File"></span>1 <a href="royal-jelly.html"><span class="color-template color-template-royal-jelly color-template-background-clip">Royal Jelly</span></a><br/><span typeof="mw:Error mw:File"></span>1 <a href="stinger.html"><span class="color-template color-template-stinger color-template-background-clip">Stinger</span></a><br/><span typeof="mw:Error mw:File"></span>10 <a href="pineapple.html"><span class="color-template color-template-pineapple color-template-background-clip">Pineapples</span></a><br/><span typeof="mw:Error mw:File"></span>10 <a href="gumdrops.html"><span class="color-template color-template-gumdrops color-template-background-clip">Gumdrops</span></a><br/>Strawberry Field Boost x3<br/>Inspire x5
+<td><img alt="Royal Jelly" height="25" src="img/Royal_Jelly.png" width="25"/>1 <a href="royal-jelly.html"><span class="color-template color-template-royal-jelly color-template-background-clip">Royal Jelly</span></a><br/><img alt="Stinger" height="25" src="img/Stinger.png" width="25"/>1 <a href="stinger.html"><span class="color-template color-template-stinger color-template-background-clip">Stinger</span></a><br/><img alt="Pineapple" height="25" src="img/Pineapple.png" width="25"/>10 <a href="pineapple.html"><span class="color-template color-template-pineapple color-template-background-clip">Pineapples</span></a><br/><img alt="Gumdrops" height="25" src="img/Gumdrops.png" width="25"/>10 <a href="gumdrops.html"><span class="color-template color-template-gumdrops color-template-background-clip">Gumdrops</span></a><br/>Strawberry Field Boost x3<br/>Inspire x5
 </td></tr>
 <tr>
 <td>WikiAwardClock
@@ -1304,7 +1304,7 @@ Promo **codes** are a feature added in the May 18, 2018 update. It is located at
 </td>
 <td>2019-09-28 –<br/>2019-12-24
 </td>
-<td><span typeof="mw:Error mw:File"></span>1 <a href="cloud-vial.html"><span class="color-template color-template-cloud-vial color-template-background-clip">Cloud Vial</span></a><br/><span typeof="mw:Error mw:File"></span>1 <a href="jelly-beans.html"><span class="color-template color-template-jelly-beans color-template-background-clip">Jelly Beans</span></a><br/><span typeof="mw:Error mw:File"></span>1 <a href="field-dice.html"><span class="color-template color-template-field-dice color-template-background-clip">Field Dice</span></a><br/><span typeof="mw:Error mw:File"></span>1 <a href="micro-converter.html"><span class="color-template color-template-micro-converter color-template-background-clip">Micro-Converter</span></a>
+<td><img alt="Cloud Vial" height="25" src="img/Cloud_Vial.png" width="25"/>1 <a href="cloud-vial.html"><span class="color-template color-template-cloud-vial color-template-background-clip">Cloud Vial</span></a><br/><img alt="Jelly Beans" height="25" src="img/Jelly_Beans.png" width="25"/>1 <a href="jelly-beans.html"><span class="color-template color-template-jelly-beans color-template-background-clip">Jelly Beans</span></a><br/><img alt="Field Dice" height="25" src="img/Field_Dice.png" width="25"/>1 <a href="field-dice.html"><span class="color-template color-template-field-dice color-template-background-clip">Field Dice</span></a><br/><img alt="Micro-Converter" height="25" src="img/Micro-Converter.png" width="25"/>1 <a href="micro-converter.html"><span class="color-template color-template-micro-converter color-template-background-clip">Micro-Converter</span></a>
 </td></tr>
 <tr>
 <td>RebootCheer
@@ -1313,7 +1313,7 @@ Promo **codes** are a feature added in the May 18, 2018 update. It is located at
 </td>
 <td>2019-12-30 –<br/>2020-01-01
 </td>
-<td><span typeof="mw:Error mw:File"></span>10 <a href="bitterberry.html"><span class="color-template color-template-bitterberry color-template-background-clip">Bitterberries</span></a><br/><span typeof="mw:Error mw:File"></span>1 <a href="jelly-beans.html"><span class="color-template color-template-jelly-beans color-template-background-clip">Jelly Beans</span></a><br/>Mountain Top Field Boost x3<br/>Mountain Top Field Winds x3<br/>Wealth Clock Buff x5<br/>Conversion Boost (Duration: 1 hour)<br/>Beesmas Cheer (Duration: 2 minutes) (Was formally 5 minutes until 2019-12-31)
+<td><img alt="Bitterberry" height="25" src="img/Bitterberry.png" width="25"/>10 <a href="bitterberry.html"><span class="color-template color-template-bitterberry color-template-background-clip">Bitterberries</span></a><br/><img alt="Jelly Beans" height="25" src="img/Jelly_Beans.png" width="25"/>1 <a href="jelly-beans.html"><span class="color-template color-template-jelly-beans color-template-background-clip">Jelly Beans</span></a><br/>Mountain Top Field Boost x3<br/>Mountain Top Field Winds x3<br/>Wealth Clock Buff x5<br/>Conversion Boost (Duration: 1 hour)<br/>Beesmas Cheer (Duration: 2 minutes) (Was formally 5 minutes until 2019-12-31)
 </td></tr>
 <tr>
 <td>Reboot2020
@@ -1322,7 +1322,7 @@ Promo **codes** are a feature added in the May 18, 2018 update. It is located at
 </td>
 <td>2020-01-03 –<br/>2020-01-05
 </td>
-<td><span typeof="mw:Error mw:File"></span>10 <a href="bitterberry.html"><span class="color-template color-template-bitterberry color-template-background-clip">Bitterberries</span></a><br/><span typeof="mw:Error mw:File"></span>1 <a href="field-dice.html"><span class="color-template color-template-field-dice color-template-background-clip">Field Dice</span></a><br/>Cactus Field Boost x3<br/>Cactus Field Winds x3<br/>Wealth Clock Buff x5<br/>Conversion Boost (Duration: 1 hour)<br/>Beesmas Cheer (Duration: 2 minutes)
+<td><img alt="Bitterberry" height="25" src="img/Bitterberry.png" width="25"/>10 <a href="bitterberry.html"><span class="color-template color-template-bitterberry color-template-background-clip">Bitterberries</span></a><br/><img alt="Field Dice" height="25" src="img/Field_Dice.png" width="25"/>1 <a href="field-dice.html"><span class="color-template color-template-field-dice color-template-background-clip">Field Dice</span></a><br/>Cactus Field Boost x3<br/>Cactus Field Winds x3<br/>Wealth Clock Buff x5<br/>Conversion Boost (Duration: 1 hour)<br/>Beesmas Cheer (Duration: 2 minutes)
 </td></tr>
 <tr>
 <td>FestiveFrogs
@@ -1331,7 +1331,7 @@ Promo **codes** are a feature added in the May 18, 2018 update. It is located at
 </td>
 <td>2019-12-23 –<br/>2020-02-10
 </td>
-<td><span typeof="mw:Error mw:File"></span>1 <a href="box-o-frogs.html"><span class="color-template color-template-box-o-frogs color-template-background-clip">Box-O-Frogs</span></a><br/>Bamboo Field Boost x3<br/>Bamboo Field Winds x3
+<td><img alt="Box-O-Frogs" height="25" src="img/Box-O-Frogs.png" width="25"/>1 <a href="box-o-frogs.html"><span class="color-template color-template-box-o-frogs color-template-background-clip">Box-O-Frogs</span></a><br/>Bamboo Field Boost x3<br/>Bamboo Field Winds x3
 </td></tr>
 <tr>
 <td>FestiveFinale
@@ -1340,7 +1340,7 @@ Promo **codes** are a feature added in the May 18, 2018 update. It is located at
 </td>
 <td>2020-02-05 –<br/>2020-02-10
 </td>
-<td>Strawberry Field Boost x3<br/>Bamboo Field Boost x3<br/>Dandelion Field Boost x3<br/>Strawberry Field Winds x2<br/>Bamboo Field Winds x2<br/>Dandelion Field Winds x4<br/><span typeof="mw:Error mw:File"></span>10 <a href="bitterberry.html"><span class="color-template color-template-bitterberry color-template-background-clip">Bitterberries</span></a><br/>Wealth Clock Buff x5<br/>Marshmallow Bee Buff<br/>Conversion Boost (Duration: 4 hours)
+<td>Strawberry Field Boost x3<br/>Bamboo Field Boost x3<br/>Dandelion Field Boost x3<br/>Strawberry Field Winds x2<br/>Bamboo Field Winds x2<br/>Dandelion Field Winds x4<br/><img alt="Bitterberry" height="25" src="img/Bitterberry.png" width="25"/>10 <a href="bitterberry.html"><span class="color-template color-template-bitterberry color-template-background-clip">Bitterberries</span></a><br/>Wealth Clock Buff x5<br/>Marshmallow Bee Buff<br/>Conversion Boost (Duration: 4 hours)
 </td></tr>
 <tr>
 <td>JollyJelly
@@ -1349,7 +1349,7 @@ Promo **codes** are a feature added in the May 18, 2018 update. It is located at
 </td>
 <td>2019-12-23 –<br/>2020-02-10
 </td>
-<td><span typeof="mw:Error mw:File"></span>1 <a href="royal-jelly.html"><span class="color-template color-template-royal-jelly color-template-background-clip">Royal Jelly</span></a><br/><span typeof="mw:Error mw:File"></span>1 <a href="jelly-beans.html"><span class="color-template color-template-jelly-beans color-template-background-clip">Jelly Beans</span></a><br/><span typeof="mw:Error mw:File"></span>1 <a href="micro-converter.html"><span class="color-template color-template-micro-converter color-template-background-clip">Micro-Converter</span></a><br/>Strawberry Field Boost x3<br/>Strawberry Field Winds x3
+<td><img alt="Royal Jelly" height="25" src="img/Royal_Jelly.png" width="25"/>1 <a href="royal-jelly.html"><span class="color-template color-template-royal-jelly color-template-background-clip">Royal Jelly</span></a><br/><img alt="Jelly Beans" height="25" src="img/Jelly_Beans.png" width="25"/>1 <a href="jelly-beans.html"><span class="color-template color-template-jelly-beans color-template-background-clip">Jelly Beans</span></a><br/><img alt="Micro-Converter" height="25" src="img/Micro-Converter.png" width="25"/>1 <a href="micro-converter.html"><span class="color-template color-template-micro-converter color-template-background-clip">Micro-Converter</span></a><br/>Strawberry Field Boost x3<br/>Strawberry Field Winds x3
 </td></tr>
 <tr>
 <td>BeesmasBegins
@@ -1358,7 +1358,7 @@ Promo **codes** are a feature added in the May 18, 2018 update. It is located at
 </td>
 <td>2019-12-23 –<br/>2020-02-10
 </td>
-<td><span typeof="mw:Error mw:File"></span>5 <a href="gumdrops.html"><span class="color-template color-template-gumdrops color-template-background-clip">Gumdrops</span></a><br/><span typeof="mw:Error mw:File"></span>5 <a href="bitterberry.html"><span class="color-template color-template-bitterberry color-template-background-clip">Bitterberries</span></a><br/><span typeof="mw:Error mw:File"></span>5 <a href="moon-charm.html"><span class="color-template color-template-moon-charm color-template-background-clip">Moon Charms</span></a><br/><span typeof="mw:Error mw:File"></span>1 <a href="field-dice.html"><span class="color-template color-template-field-dice color-template-background-clip">Field Dice</span></a><br/>Dandelion Field Boost x3<br/>Dandelion Field Winds x6<br/>Conversion Boost (Duration: 30 minutes)
+<td><img alt="Gumdrops" height="25" src="img/Gumdrops.png" width="25"/>5 <a href="gumdrops.html"><span class="color-template color-template-gumdrops color-template-background-clip">Gumdrops</span></a><br/><img alt="Bitterberry" height="25" src="img/Bitterberry.png" width="25"/>5 <a href="bitterberry.html"><span class="color-template color-template-bitterberry color-template-background-clip">Bitterberries</span></a><br/><img alt="Moon Charm" height="25" src="img/Moon_Charm.png" width="25"/>5 <a href="moon-charm.html"><span class="color-template color-template-moon-charm color-template-background-clip">Moon Charms</span></a><br/><img alt="Field Dice" height="25" src="img/Field_Dice.png" width="25"/>1 <a href="field-dice.html"><span class="color-template color-template-field-dice color-template-background-clip">Field Dice</span></a><br/>Dandelion Field Boost x3<br/>Dandelion Field Winds x6<br/>Conversion Boost (Duration: 30 minutes)
 </td></tr>
 <tr>
 <td>RebootBag
@@ -1376,7 +1376,7 @@ Promo **codes** are a feature added in the May 18, 2018 update. It is located at
 </td>
 <td>2020-02-14
 </td>
-<td><span typeof="mw:Error mw:File"></span>25 <a href="strawberry.html"><span class="color-template color-template-strawberry color-template-background-clip">Strawberries</span></a><br/>Baby Love Buff<br/>Red Extract Buff<br/>Rose Field Boost x3<br/>Rose Field Capacity Boost (+300% for 30 minutes)
+<td><img alt="Strawberry" height="25" src="img/Strawberry.png" width="25"/>25 <a href="strawberry.html"><span class="color-template color-template-strawberry color-template-background-clip">Strawberries</span></a><br/>Baby Love Buff<br/>Red Extract Buff<br/>Rose Field Boost x3<br/>Rose Field Capacity Boost (+300% for 30 minutes)
 </td></tr>
 <tr>
 <td>Market
@@ -1385,7 +1385,7 @@ Promo **codes** are a feature added in the May 18, 2018 update. It is located at
 </td>
 <td>2020-02-10
 </td>
-<td><span typeof="mw:Error mw:File"></span>10 <a href="bitterberry.html"><span class="color-template color-template-bitterberry color-template-background-clip">Bitterberries</span></a><br/>Pollen Boost (Duration: 1 hour and 20 minutes)<br/>Pineapple Patch Market Boost (Duration: 1 hour)<br/>Sunflower Field Market Boost (Duration: 1 hour)
+<td><img alt="Bitterberry" height="25" src="img/Bitterberry.png" width="25"/>10 <a href="bitterberry.html"><span class="color-template color-template-bitterberry color-template-background-clip">Bitterberries</span></a><br/>Pollen Boost (Duration: 1 hour and 20 minutes)<br/>Pineapple Patch Market Boost (Duration: 1 hour)<br/>Sunflower Field Market Boost (Duration: 1 hour)
 </td></tr>
 <tr>
 <td>2YearsAfterParty
@@ -1403,7 +1403,7 @@ Promo **codes** are a feature added in the May 18, 2018 update. It is located at
 </td>
 <td>2020-03-21 –<br/>2020-03-31
 </td>
-<td><span typeof="mw:Error mw:File"></span>1 <a href="atomic-treat.html"><span class="color-template color-template-atomic-treat color-template-background-clip">Atomic Treat</span></a><br/><span typeof="mw:Error mw:File"></span>1 <a href="marshmallow-bee.html"><span class="color-template color-template-marshmallow-bee color-template-background-clip">Marshmallow Bee</span></a><br/><span typeof="mw:Error mw:File"></span>3 <a href="field-dice.html"><span class="color-template color-template-field-dice color-template-background-clip">Field Dice</span></a><br/><span typeof="mw:Error mw:File"></span>3 <a href="micro-converter.html"><span class="color-template color-template-micro-converter color-template-background-clip">Micro-Converters</span></a><br/><span typeof="mw:Error mw:File"></span>10 <a href="ticket.html"><span class="color-template color-template-ticket color-template-background-clip">Tickets</span></a><br/>Mountain Top Boost x3<br/>Capacity Code buff (Duration: 48 hours)
+<td><img alt="Atomic Treat" height="25" src="img/Atomic_Treat.png" width="25"/>1 <a href="atomic-treat.html"><span class="color-template color-template-atomic-treat color-template-background-clip">Atomic Treat</span></a><br/><img alt="Marshmallow Bee" height="25" src="img/Marshmallow_Bee.png" width="25"/>1 <a href="marshmallow-bee.html"><span class="color-template color-template-marshmallow-bee color-template-background-clip">Marshmallow Bee</span></a><br/><img alt="Field Dice" height="25" src="img/Field_Dice.png" width="25"/>3 <a href="field-dice.html"><span class="color-template color-template-field-dice color-template-background-clip">Field Dice</span></a><br/><img alt="Micro-Converter" height="25" src="img/Micro-Converter.png" width="25"/>3 <a href="micro-converter.html"><span class="color-template color-template-micro-converter color-template-background-clip">Micro-Converters</span></a><br/><img alt="Ticket" height="25" src="img/Ticket.png" width="25"/>10 <a href="ticket.html"><span class="color-template color-template-ticket color-template-background-clip">Tickets</span></a><br/>Mountain Top Boost x3<br/>Capacity Code buff (Duration: 48 hours)
 </td></tr>
 <tr>
 <td>EggReboot
@@ -1430,7 +1430,7 @@ Promo **codes** are a feature added in the May 18, 2018 update. It is located at
 </td>
 <td>2019-10-19 –<br/>2020-04-18
 </td>
-<td><span typeof="mw:Error mw:File"></span>1 <a href="royal-jelly.html"><span class="color-template color-template-royal-jelly color-template-background-clip">Royal Jelly</span></a><br/><span typeof="mw:Error mw:File"></span>4 <a href="field-dice.html"><span class="color-template color-template-field-dice color-template-background-clip">Field Dice</span></a><br/><span typeof="mw:Error mw:File"></span>4 <a href="micro-converter.html"><span class="color-template color-template-micro-converter color-template-background-clip">Micro-Converters</span></a><br/>Clover Field Boost x1<br/>Clover Field Winds x4<br/>Mother Bear Morph
+<td><img alt="Royal Jelly" height="25" src="img/Royal_Jelly.png" width="25"/>1 <a href="royal-jelly.html"><span class="color-template color-template-royal-jelly color-template-background-clip">Royal Jelly</span></a><br/><img alt="Field Dice" height="25" src="img/Field_Dice.png" width="25"/>4 <a href="field-dice.html"><span class="color-template color-template-field-dice color-template-background-clip">Field Dice</span></a><br/><img alt="Micro-Converter" height="25" src="img/Micro-Converter.png" width="25"/>4 <a href="micro-converter.html"><span class="color-template color-template-micro-converter color-template-background-clip">Micro-Converters</span></a><br/>Clover Field Boost x1<br/>Clover Field Winds x4<br/>Mother Bear Morph
 </td></tr>
 <tr>
 <td>BrownBearReboot
@@ -1448,7 +1448,7 @@ Promo **codes** are a feature added in the May 18, 2018 update. It is located at
 </td>
 <td>2020-03-15 –<br/>2020-04-25
 </td>
-<td><span typeof="mw:Error mw:File"></span>15 <a href="pineapple.html"><span class="color-template color-template-pineapple color-template-background-clip">Pineapples</span></a><br/><span typeof="mw:Error mw:File"></span>1 <a href="tropical-drink.html"><span class="color-template color-template-tropical-drink color-template-background-clip">Tropical Drink</span></a><br/>Marshmallow Bee buff<br/>Capacity Code buff (Duration: 48 hours)<br/>Pineapple Patch Boost x3<br/>Pineapple Patch Capacity Boost (+300% for 30 minutes)
+<td><img alt="Pineapple" height="25" src="img/Pineapple.png" width="25"/>15 <a href="pineapple.html"><span class="color-template color-template-pineapple color-template-background-clip">Pineapples</span></a><br/><img alt="Tropical Drink" height="25" src="img/Tropical_Drink.png" width="25"/>1 <a href="tropical-drink.html"><span class="color-template color-template-tropical-drink color-template-background-clip">Tropical Drink</span></a><br/>Marshmallow Bee buff<br/>Capacity Code buff (Duration: 48 hours)<br/>Pineapple Patch Boost x3<br/>Pineapple Patch Capacity Boost (+300% for 30 minutes)
 </td></tr>
 <tr>
 <td>Strawbeary<br/>(Exclusive to club members)
@@ -1457,7 +1457,7 @@ Promo **codes** are a feature added in the May 18, 2018 update. It is located at
 </td>
 <td>2020-04-24 –<br/>2020-04-29
 </td>
-<td>Rad Bee Jelly x1<br/><span typeof="mw:Error mw:File"></span>1 <a href="tropical-drink.html"><span class="color-template color-template-tropical-drink color-template-background-clip">Tropical Drink</span></a><br/><span typeof="mw:Error mw:File"></span>10 <a href="strawberry.html"><span class="color-template color-template-strawberry color-template-background-clip">Strawberries</span></a><br/>Strawberry Field Boost x3<br/>Strawberry Field Capacity x3<br/>Mother Bear Morph
+<td>Rad Bee Jelly x1<br/><img alt="Tropical Drink" height="25" src="img/Tropical_Drink.png" width="25"/>1 <a href="tropical-drink.html"><span class="color-template color-template-tropical-drink color-template-background-clip">Tropical Drink</span></a><br/><img alt="Strawberry" height="25" src="img/Strawberry.png" width="25"/>10 <a href="strawberry.html"><span class="color-template color-template-strawberry color-template-background-clip">Strawberries</span></a><br/>Strawberry Field Boost x3<br/>Strawberry Field Capacity x3<br/>Mother Bear Morph
 </td></tr>
 <tr>
 <td>BlackBearMythic
@@ -1475,7 +1475,7 @@ Promo **codes** are a feature added in the May 18, 2018 update. It is located at
 </td>
 <td>2019-09-28 –<br/>2020-05-08
 </td>
-<td><span typeof="mw:Error mw:File"></span>1 <a href="cloud-vial.html"><span class="color-template color-template-cloud-vial color-template-background-clip">Cloud Vial</span></a><br/><span typeof="mw:Error mw:File"></span>3 <a href="jelly-beans.html"><span class="color-template color-template-jelly-beans color-template-background-clip">Jelly Beans</span></a><br/><span typeof="mw:Error mw:File"></span>1 <a href="royal-jelly.html"><span class="color-template color-template-royal-jelly color-template-background-clip">Royal Jelly</span></a>
+<td><img alt="Cloud Vial" height="25" src="img/Cloud_Vial.png" width="25"/>1 <a href="cloud-vial.html"><span class="color-template color-template-cloud-vial color-template-background-clip">Cloud Vial</span></a><br/><img alt="Jelly Beans" height="25" src="img/Jelly_Beans.png" width="25"/>3 <a href="jelly-beans.html"><span class="color-template color-template-jelly-beans color-template-background-clip">Jelly Beans</span></a><br/><img alt="Royal Jelly" height="25" src="img/Royal_Jelly.png" width="25"/>1 <a href="royal-jelly.html"><span class="color-template color-template-royal-jelly color-template-background-clip">Royal Jelly</span></a>
 </td></tr>
 <tr>
 <td>FuzzyFarewell
@@ -1484,7 +1484,7 @@ Promo **codes** are a feature added in the May 18, 2018 update. It is located at
 </td>
 <td>2020-05-15 –<br/>2020-05-18
 </td>
-<td><span typeof="mw:Error mw:File"></span>3 <a href="micro-converter.html"><span class="color-template color-template-micro-converter color-template-background-clip">Micro-Converters</span></a><br/><span typeof="mw:Error mw:File"></span>15 <a href="pineapple.html"><span class="color-template color-template-pineapple color-template-background-clip">Pineapples</span></a><br/>Sunflower Field Boost x3<br/>Sunflower Field Capacity x3<br/>Capacity Code buff (Duration: 48 hours)
+<td><img alt="Micro-Converter" height="25" src="img/Micro-Converter.png" width="25"/>3 <a href="micro-converter.html"><span class="color-template color-template-micro-converter color-template-background-clip">Micro-Converters</span></a><br/><img alt="Pineapple" height="25" src="img/Pineapple.png" width="25"/>15 <a href="pineapple.html"><span class="color-template color-template-pineapple color-template-background-clip">Pineapples</span></a><br/>Sunflower Field Boost x3<br/>Sunflower Field Capacity x3<br/>Capacity Code buff (Duration: 48 hours)
 </td></tr>
 <tr>
 <td>SpaceReboot
@@ -1493,7 +1493,7 @@ Promo **codes** are a feature added in the May 18, 2018 update. It is located at
 </td>
 <td>2020-06-06 –<br/>2020-06-09
 </td>
-<td><span typeof="mw:Error mw:File"></span>10 <a href="moon-charm.html"><span class="color-template color-template-moon-charm color-template-background-clip">Moon Charms</span></a><br/><span typeof="mw:Error mw:File"></span>5 <a href="micro-converter.html"><span class="color-template color-template-micro-converter color-template-background-clip">Micro-Converters</span></a><br/>Wealth Clock Buff x5<br/>Mountain Top Field Boost x3<br/>Mountain Top Field Capacity Boost x3<br/>Dandelion Field Boost x3<br/>Dandelion Field Capacity Boost x3
+<td><img alt="Moon Charm" height="25" src="img/Moon_Charm.png" width="25"/>10 <a href="moon-charm.html"><span class="color-template color-template-moon-charm color-template-background-clip">Moon Charms</span></a><br/><img alt="Micro-Converter" height="25" src="img/Micro-Converter.png" width="25"/>5 <a href="micro-converter.html"><span class="color-template color-template-micro-converter color-template-background-clip">Micro-Converters</span></a><br/>Wealth Clock Buff x5<br/>Mountain Top Field Boost x3<br/>Mountain Top Field Capacity Boost x3<br/>Dandelion Field Boost x3<br/>Dandelion Field Capacity Boost x3
 </td></tr>
 <tr>
 <td>Sriracha
@@ -1511,7 +1511,7 @@ Promo **codes** are a feature added in the May 18, 2018 update. It is located at
 </td>
 <td>2019-09-26 –<br/>2020-06-27
 </td>
-<td>Pepper Patch Boost x1<br/>Pepper Patch Winds x3<br/>Coconut Field Boost x1<br/>Coconut Field Winds x3<br/>Blue Flower Field Boost x2<br/>Blue Flower Field Winds x3<br/><span typeof="mw:Error mw:File"></span>1 <a href="cloud-vial.html"><span class="color-template color-template-cloud-vial color-template-background-clip">Cloud Vial</span></a><br/><span typeof="mw:Error mw:File"></span>15 <a href="pineapple.html"><span class="color-template color-template-pineapple color-template-background-clip">Pineapples</span></a>
+<td>Pepper Patch Boost x1<br/>Pepper Patch Winds x3<br/>Coconut Field Boost x1<br/>Coconut Field Winds x3<br/>Blue Flower Field Boost x2<br/>Blue Flower Field Winds x3<br/><img alt="Cloud Vial" height="25" src="img/Cloud_Vial.png" width="25"/>1 <a href="cloud-vial.html"><span class="color-template color-template-cloud-vial color-template-background-clip">Cloud Vial</span></a><br/><img alt="Pineapple" height="25" src="img/Pineapple.png" width="25"/>15 <a href="pineapple.html"><span class="color-template color-template-pineapple color-template-background-clip">Pineapples</span></a>
 </td></tr>
 <tr>
 <td>BillionVisits
@@ -1520,7 +1520,7 @@ Promo **codes** are a feature added in the May 18, 2018 update. It is located at
 </td>
 <td>2020-08-12 –<br/>2020-09-01
 </td>
-<td><span typeof="mw:Error mw:File"></span>1 <a href="atomic-treat.html"><span class="color-template color-template-atomic-treat color-template-background-clip">Atomic Treat</span></a><br/><span typeof="mw:Error mw:File"></span>10 <a href="micro-converter.html"><span class="color-template color-template-micro-converter color-template-background-clip">Micro-Converters</span></a><br/>Mountain Top Field Winds x10<br/>Sunflower Field Winds x10<br/><span typeof="mw:Error mw:File"></span>Honeyday Event
+<td><img alt="Atomic Treat" height="25" src="img/Atomic_Treat.png" width="25"/>1 <a href="atomic-treat.html"><span class="color-template color-template-atomic-treat color-template-background-clip">Atomic Treat</span></a><br/><img alt="Micro-Converter" height="25" src="img/Micro-Converter.png" width="25"/>10 <a href="micro-converter.html"><span class="color-template color-template-micro-converter color-template-background-clip">Micro-Converters</span></a><br/>Mountain Top Field Winds x10<br/>Sunflower Field Winds x10<br/><span typeof="mw:Error mw:File"></span>Honeyday Event
 </td></tr>
 <tr>
 <td>NewMic
@@ -1529,7 +1529,7 @@ Promo **codes** are a feature added in the May 18, 2018 update. It is located at
 </td>
 <td>2020-09-05 (A few hours)
 </td>
-<td>Shy Bee Jelly x1<br/>Spider Field Boost x3<br/><span typeof="mw:Error mw:File"></span>10 <a href="field-dice.html"><span class="color-template color-template-field-dice color-template-background-clip">Field Dice</span></a><br/><span typeof="mw:Error mw:File"></span>10 <a href="micro-converter.html"><span class="color-template color-template-micro-converter color-template-background-clip">Micro-Converters</span></a><br/><span typeof="mw:Error mw:File"></span>1 <a href="egg.html#Diamond_Egg"><span class="color-template color-template-diamond-egg color-template-background-clip">Diamond Egg</span></a>
+<td>Shy Bee Jelly x1<br/>Spider Field Boost x3<br/><img alt="Field Dice" height="25" src="img/Field_Dice.png" width="25"/>10 <a href="field-dice.html"><span class="color-template color-template-field-dice color-template-background-clip">Field Dice</span></a><br/><img alt="Micro-Converter" height="25" src="img/Micro-Converter.png" width="25"/>10 <a href="micro-converter.html"><span class="color-template color-template-micro-converter color-template-background-clip">Micro-Converters</span></a><br/><img alt="Diamond Egg" height="25" src="img/Diamond_Egg.png" width="25"/>1 <a href="egg.html#Diamond_Egg"><span class="color-template color-template-diamond-egg color-template-background-clip">Diamond Egg</span></a>
 </td></tr>
 <tr>
 <td>RebootPC
@@ -1547,7 +1547,7 @@ Promo **codes** are a feature added in the May 18, 2018 update. It is located at
 </td>
 <td>2020-11-27 –<br/>2020-11-28
 </td>
-<td>Bamboo Field Code Buff<br/>Capacity Code buff (Duration: 1 hour)<br/>Black Bear Morph<br/><span typeof="mw:Error mw:File"></span>1 <a href="field-dice.html"><span class="color-template color-template-field-dice color-template-background-clip">Field Dice</span></a>
+<td>Bamboo Field Code Buff<br/>Capacity Code buff (Duration: 1 hour)<br/>Black Bear Morph<br/><img alt="Field Dice" height="25" src="img/Field_Dice.png" width="25"/>1 <a href="field-dice.html"><span class="color-template color-template-field-dice color-template-background-clip">Field Dice</span></a>
 </td></tr>
 <tr>
 <td>RebootXmas
@@ -1556,7 +1556,7 @@ Promo **codes** are a feature added in the May 18, 2018 update. It is located at
 </td>
 <td>2020-12-26 –<br/>2020-12-27
 </td>
-<td><span typeof="mw:Error mw:File"></span>1 <a href="gingerbread-bear.html"><span class="color-template color-template-gingerbread-bear color-template-background-clip">Gingerbread Bear</span></a><br/>Wealth Clock Buff x1<br/>Clover Field Boost x1<br/>Clover Field Capacity Buff x1
+<td><img alt="Gingerbread Bear" height="25" src="img/Gingerbread_Bear.png" width="25"/>1 <a href="gingerbread-bear.html"><span class="color-template color-template-gingerbread-bear color-template-background-clip">Gingerbread Bear</span></a><br/>Wealth Clock Buff x1<br/>Clover Field Boost x1<br/>Clover Field Capacity Buff x1
 </td></tr>
 <tr>
 <td>Buoyant
@@ -1565,7 +1565,7 @@ Promo **codes** are a feature added in the May 18, 2018 update. It is located at
 </td>
 <td>2020-02-22 –<br/>2021-01-13
 </td>
-<td><span typeof="mw:Error mw:File"></span>15 <a href="blueberry.html"><span class="color-template color-template-blueberry color-template-background-clip">Blueberries</span></a><br/>Blue Extract buff<br/>Capacity Code buff (Duration: 48 hours)<br/>Blue Flower Boost x3<br/>Blue Flower Field Capacity Boost (+300% for 30 minutes)<br/>Blue Flower Field Market Boost (Duration: 2 hours)
+<td><img alt="Blueberry" height="25" src="img/Blueberry.png" width="25"/>15 <a href="blueberry.html"><span class="color-template color-template-blueberry color-template-background-clip">Blueberries</span></a><br/>Blue Extract buff<br/>Capacity Code buff (Duration: 48 hours)<br/>Blue Flower Boost x3<br/>Blue Flower Field Capacity Boost (+300% for 30 minutes)<br/>Blue Flower Field Market Boost (Duration: 2 hours)
 </td></tr>
 <tr>
 <td>BigBag
@@ -1583,7 +1583,7 @@ Promo **codes** are a feature added in the May 18, 2018 update. It is located at
 </td>
 <td>2020-04-16 –<br/>2021-02-28
 </td>
-<td><span typeof="mw:Error mw:File"></span>5 <a href="bitterberry.html"><span class="color-template color-template-bitterberry color-template-background-clip">Bitterberries</span></a><br/><span typeof="mw:Error mw:File"></span>5 <a href="strawberry.html"><span class="color-template color-template-strawberry color-template-background-clip">Strawberries</span></a><br/><span typeof="mw:Error mw:File"></span>5 <a href="blueberry.html"><span class="color-template color-template-blueberry color-template-background-clip">Blueberries</span></a><br/><span typeof="mw:Error mw:File"></span>5 <a href="sunflower-seed.html"><span class="color-template color-template-sunflower-seed color-template-background-clip">Sunflower Seeds</span></a><br/><span typeof="mw:Error mw:File"></span>5 <a href="pineapple.html"><span class="color-template color-template-pineapple color-template-background-clip">Pineapples</span></a><br/><span typeof="mw:Error mw:File"></span>5 <a href="moon-charm.html"><span class="color-template color-template-moon-charm color-template-background-clip">Moon Charms</span></a><br/>Rose Field Boost x2<br/>Rose Field Capacity Boost x3<br/>Pine Tree Forest Boost x2<br/>Pine Tree Forest Capacity Boost x3<br/>Science Bear Morph<br/>Conversion Boost buff (Duration: 30 minutes)
+<td><img alt="Bitterberry" height="25" src="img/Bitterberry.png" width="25"/>5 <a href="bitterberry.html"><span class="color-template color-template-bitterberry color-template-background-clip">Bitterberries</span></a><br/><img alt="Strawberry" height="25" src="img/Strawberry.png" width="25"/>5 <a href="strawberry.html"><span class="color-template color-template-strawberry color-template-background-clip">Strawberries</span></a><br/><img alt="Blueberry" height="25" src="img/Blueberry.png" width="25"/>5 <a href="blueberry.html"><span class="color-template color-template-blueberry color-template-background-clip">Blueberries</span></a><br/><img alt="Sunflower Seed" height="25" src="img/Sunflower_Seed.png" width="25"/>5 <a href="sunflower-seed.html"><span class="color-template color-template-sunflower-seed color-template-background-clip">Sunflower Seeds</span></a><br/><img alt="Pineapple" height="25" src="img/Pineapple.png" width="25"/>5 <a href="pineapple.html"><span class="color-template color-template-pineapple color-template-background-clip">Pineapples</span></a><br/><img alt="Moon Charm" height="25" src="img/Moon_Charm.png" width="25"/>5 <a href="moon-charm.html"><span class="color-template color-template-moon-charm color-template-background-clip">Moon Charms</span></a><br/>Rose Field Boost x2<br/>Rose Field Capacity Boost x3<br/>Pine Tree Forest Boost x2<br/>Pine Tree Forest Capacity Boost x3<br/>Science Bear Morph<br/>Conversion Boost buff (Duration: 30 minutes)
 </td></tr>
 <tr>
 <td>WintersEnd
@@ -1592,7 +1592,7 @@ Promo **codes** are a feature added in the May 18, 2018 update. It is located at
 </td>
 <td>2021-02-26 –<br/>2021-03-01
 </td>
-<td>Spider Field Code Buff<br/>Pine Tree Forest Code Buff<br/>Wealth Clock Buff x5<br/><span typeof="mw:Error mw:File"></span>1 <a href="gingerbread-bear.html"><span class="color-template color-template-gingerbread-bear color-template-background-clip">Gingerbread Bear</span></a><br/><span typeof="mw:Error mw:File"></span>1 <a href="micro-converter.html"><span class="color-template color-template-micro-converter color-template-background-clip">Micro-Converter</span></a><br/><span typeof="mw:Error mw:File"></span>1 <a href="royal-jelly.html"><span class="color-template color-template-royal-jelly color-template-background-clip">Royal Jelly</span></a><br/><span typeof="mw:Error mw:File"></span>1 <a href="electric-candle.html"><span class="color-template color-template-electric-candle color-template-background-clip">Electric Candle</span></a>
+<td>Spider Field Code Buff<br/>Pine Tree Forest Code Buff<br/>Wealth Clock Buff x5<br/><img alt="Gingerbread Bear" height="25" src="img/Gingerbread_Bear.png" width="25"/>1 <a href="gingerbread-bear.html"><span class="color-template color-template-gingerbread-bear color-template-background-clip">Gingerbread Bear</span></a><br/><img alt="Micro-Converter" height="25" src="img/Micro-Converter.png" width="25"/>1 <a href="micro-converter.html"><span class="color-template color-template-micro-converter color-template-background-clip">Micro-Converter</span></a><br/><img alt="Royal Jelly" height="25" src="img/Royal_Jelly.png" width="25"/>1 <a href="royal-jelly.html"><span class="color-template color-template-royal-jelly color-template-background-clip">Royal Jelly</span></a><br/><img alt="Electric Candle" height="25" src="img/Electric_Candle.png" width="25"/>1 <a href="electric-candle.html"><span class="color-template color-template-electric-candle color-template-background-clip">Electric Candle</span></a>
 </td></tr>
 <tr>
 <td>3YearFix
@@ -1619,7 +1619,7 @@ Promo **codes** are a feature added in the May 18, 2018 update. It is located at
 </td>
 <td>2021-03-21 –<br/>2021-03-28
 </td>
-<td><span typeof="mw:Error mw:File"></span>1 <a href="atomic-treat.html"><span class="color-template color-template-atomic-treat color-template-background-clip">Atomic Treat</span></a><br/><span typeof="mw:Error mw:File"></span>1 <a href="field-dice.html"><span class="color-template color-template-field-dice color-template-background-clip">Field Dice</span></a><br/><span typeof="mw:Error mw:File"></span>5 <a href="micro-converter.html"><span class="color-template color-template-micro-converter color-template-background-clip">Micro-Converters</span></a><br/><span typeof="mw:Error mw:File"></span>1 <a href="marshmallow-bee.html"><span class="color-template color-template-marshmallow-bee color-template-background-clip">Marshmallow Bee</span></a><br/><span typeof="mw:Error mw:File"></span>1 <a href="glitter.html"><span class="color-template color-template-glitter color-template-background-clip">Glitter</span></a><br/><span typeof="mw:Error mw:File"></span>1 <a href="red-extract.html"><span class="color-template color-template-red-extract color-template-background-clip">Red Extract</span></a><br/><span typeof="mw:Error mw:File"></span>1 <a href="blue-extract.html"><span class="color-template color-template-blue-extract color-template-background-clip">Blue Extract</span></a><br/><span typeof="mw:Error mw:File"></span>1 <a href="oil.html"><span class="color-template color-template-oil color-template-background-clip">Oil</span></a><br/><span typeof="mw:Error mw:File"></span>1 <a href="enzymes.html"><span class="color-template color-template-enzymes color-template-background-clip">Enzymes</span></a><br/><span typeof="mw:Error mw:File"></span>1 <a href="box-o-frogs.html"><span class="color-template color-template-box-o-frogs color-template-background-clip">Box-O-Frogs</span></a><br/><span typeof="mw:Error mw:File"></span>Honeyday Event<br/>Wealth Clock Buff x5<br/>Super Smoothie Buff<br/>Mountain Top Field Boost x3<br/>Mountain Top Field Capacity x3<br/>Mountain Top Field Market Boost (Duration: 30 minutes)
+<td><img alt="Atomic Treat" height="25" src="img/Atomic_Treat.png" width="25"/>1 <a href="atomic-treat.html"><span class="color-template color-template-atomic-treat color-template-background-clip">Atomic Treat</span></a><br/><img alt="Field Dice" height="25" src="img/Field_Dice.png" width="25"/>1 <a href="field-dice.html"><span class="color-template color-template-field-dice color-template-background-clip">Field Dice</span></a><br/><img alt="Micro-Converter" height="25" src="img/Micro-Converter.png" width="25"/>5 <a href="micro-converter.html"><span class="color-template color-template-micro-converter color-template-background-clip">Micro-Converters</span></a><br/><img alt="Marshmallow Bee" height="25" src="img/Marshmallow_Bee.png" width="25"/>1 <a href="marshmallow-bee.html"><span class="color-template color-template-marshmallow-bee color-template-background-clip">Marshmallow Bee</span></a><br/><img alt="Glitter" height="25" src="img/Glitter.png" width="25"/>1 <a href="glitter.html"><span class="color-template color-template-glitter color-template-background-clip">Glitter</span></a><br/><img alt="Red Extract" height="25" src="img/Red_Extract.png" width="25"/>1 <a href="red-extract.html"><span class="color-template color-template-red-extract color-template-background-clip">Red Extract</span></a><br/><img alt="Blue Extract" height="25" src="img/Blue_Extract.png" width="25"/>1 <a href="blue-extract.html"><span class="color-template color-template-blue-extract color-template-background-clip">Blue Extract</span></a><br/><img alt="Oil" height="25" src="img/Oil.png" width="25"/>1 <a href="oil.html"><span class="color-template color-template-oil color-template-background-clip">Oil</span></a><br/><img alt="Enzymes" height="25" src="img/Enzymes.png" width="25"/>1 <a href="enzymes.html"><span class="color-template color-template-enzymes color-template-background-clip">Enzymes</span></a><br/><img alt="Box-O-Frogs" height="25" src="img/Box-O-Frogs.png" width="25"/>1 <a href="box-o-frogs.html"><span class="color-template color-template-box-o-frogs color-template-background-clip">Box-O-Frogs</span></a><br/><span typeof="mw:Error mw:File"></span>Honeyday Event<br/>Wealth Clock Buff x5<br/>Super Smoothie Buff<br/>Mountain Top Field Boost x3<br/>Mountain Top Field Capacity x3<br/>Mountain Top Field Market Boost (Duration: 30 minutes)
 </td></tr>
 <tr>
 <td>RebootFriday
@@ -1637,7 +1637,7 @@ Promo **codes** are a feature added in the May 18, 2018 update. It is located at
 </td>
 <td>2021-11-26 –<br/>2021-12-27
 </td>
-<td><span typeof="mw:Error mw:File"></span>1 <a href="marshmallow-bee.html"><span class="color-template color-template-marshmallow-bee color-template-background-clip">Marshmallow Bee</span></a><br/><span typeof="mw:Error mw:File"></span>1 <a href="neonberry.html"><span class="color-template color-template-neonberry color-template-background-clip">Neonberry</span></a><br/><span typeof="mw:Error mw:File"></span>1 <a href="micro-converter.html"><span class="color-template color-template-micro-converter color-template-background-clip">Micro-Converter</span></a><br/>Conversion Boost (Duration: 1 hour)<br/>Pine Tree Forest Code Buff<br/>Rose Field Code Buff<br/>Dandelion Field Code Buff<br/>Super Smoothie Buff
+<td><img alt="Marshmallow Bee" height="25" src="img/Marshmallow_Bee.png" width="25"/>1 <a href="marshmallow-bee.html"><span class="color-template color-template-marshmallow-bee color-template-background-clip">Marshmallow Bee</span></a><br/><img alt="Neonberry" height="25" src="img/Neonberry.png" width="25"/>1 <a href="neonberry.html"><span class="color-template color-template-neonberry color-template-background-clip">Neonberry</span></a><br/><img alt="Micro-Converter" height="25" src="img/Micro-Converter.png" width="25"/>1 <a href="micro-converter.html"><span class="color-template color-template-micro-converter color-template-background-clip">Micro-Converter</span></a><br/>Conversion Boost (Duration: 1 hour)<br/>Pine Tree Forest Code Buff<br/>Rose Field Code Buff<br/>Dandelion Field Code Buff<br/>Super Smoothie Buff
 </td></tr>
 <tr>
 <td>Mocito100T
@@ -1646,7 +1646,7 @@ Promo **codes** are a feature added in the May 18, 2018 update. It is located at
 </td>
 <td>2020-06-27 –<br/>2022-03-23
 </td>
-<td>Coconut Field Boost x2<br/>Coconut Field Capacity x2<br/><span typeof="mw:Error mw:File"></span>3 <a href="stinger.html"><span class="color-template color-template-stinger color-template-background-clip">Stingers</span></a><br/><span typeof="mw:Error mw:File"></span>5 <a href="gumdrops.html"><span class="color-template color-template-gumdrops color-template-background-clip">Gumdrops</span></a><br/><span typeof="mw:Error mw:File"></span>10 <a href="coconut.html"><span class="color-template color-template-coconut color-template-background-clip">Coconuts</span></a><br/>Inspire x5
+<td>Coconut Field Boost x2<br/>Coconut Field Capacity x2<br/><img alt="Stinger" height="25" src="img/Stinger.png" width="25"/>3 <a href="stinger.html"><span class="color-template color-template-stinger color-template-background-clip">Stingers</span></a><br/><img alt="Gumdrops" height="25" src="img/Gumdrops.png" width="25"/>5 <a href="gumdrops.html"><span class="color-template color-template-gumdrops color-template-background-clip">Gumdrops</span></a><br/><img alt="Coconut" height="25" src="img/Coconut.png" width="25"/>10 <a href="coconut.html"><span class="color-template color-template-coconut color-template-background-clip">Coconuts</span></a><br/>Inspire x5
 </td></tr>
 <tr>
 <td>RedMarket
@@ -1664,7 +1664,7 @@ Promo **codes** are a feature added in the May 18, 2018 update. It is located at
 </td>
 <td>2019-07-06 –<br/>2022-03-23
 </td>
-<td>Marshmallow Bee Buff<br/>Rose Field Boost x3<br/>Pine Tree Forest Boost x3<br/>Spider Field Boost x3<br/><span typeof="mw:Error mw:File"></span>3 <a href="gumdrops.html"><span class="color-template color-template-gumdrops color-template-background-clip">Gumdrops</span></a><br/><span typeof="mw:Error mw:File"></span>3 <a href="moon-charm.html"><span class="color-template color-template-moon-charm color-template-background-clip">Moon Charms</span></a><br/><span typeof="mw:Error mw:File"></span>3 <a href="ticket.html"><span class="color-template color-template-ticket color-template-background-clip">Tickets</span></a>
+<td>Marshmallow Bee Buff<br/>Rose Field Boost x3<br/>Pine Tree Forest Boost x3<br/>Spider Field Boost x3<br/><img alt="Gumdrops" height="25" src="img/Gumdrops.png" width="25"/>3 <a href="gumdrops.html"><span class="color-template color-template-gumdrops color-template-background-clip">Gumdrops</span></a><br/><img alt="Moon Charm" height="25" src="img/Moon_Charm.png" width="25"/>3 <a href="moon-charm.html"><span class="color-template color-template-moon-charm color-template-background-clip">Moon Charms</span></a><br/><img alt="Ticket" height="25" src="img/Ticket.png" width="25"/>3 <a href="ticket.html"><span class="color-template color-template-ticket color-template-background-clip">Tickets</span></a>
 </td></tr>
 <tr>
 <td>MondoOutage
@@ -1673,7 +1673,7 @@ Promo **codes** are a feature added in the May 18, 2018 update. It is located at
 </td>
 <td>2021-10-31 –<br/>2022-03-23
 </td>
-<td><span typeof="mw:Error mw:File"></span>3 <a href="micro-converter.html"><span class="color-template color-template-micro-converter color-template-background-clip">Micro-Converters</span></a><br/><span typeof="mw:Error mw:File"></span>10 <a href="moon-charm.html"><span class="color-template color-template-moon-charm color-template-background-clip">Moon Charms</span></a><br/><span typeof="mw:Error mw:File"></span>1 <a href="neonberry.html"><span class="color-template color-template-neonberry color-template-background-clip">Neonberry</span></a><br/><span typeof="mw:Error mw:File"></span>1 <a href="marshmallow-bee.html"><span class="color-template color-template-marshmallow-bee color-template-background-clip">Marshmallow Bee</span></a><br/>Mountain Top Field Code Buff<br/>Purple Potion Buff
+<td><img alt="Micro-Converter" height="25" src="img/Micro-Converter.png" width="25"/>3 <a href="micro-converter.html"><span class="color-template color-template-micro-converter color-template-background-clip">Micro-Converters</span></a><br/><img alt="Moon Charm" height="25" src="img/Moon_Charm.png" width="25"/>10 <a href="moon-charm.html"><span class="color-template color-template-moon-charm color-template-background-clip">Moon Charms</span></a><br/><img alt="Neonberry" height="25" src="img/Neonberry.png" width="25"/>1 <a href="neonberry.html"><span class="color-template color-template-neonberry color-template-background-clip">Neonberry</span></a><br/><img alt="Marshmallow Bee" height="25" src="img/Marshmallow_Bee.png" width="25"/>1 <a href="marshmallow-bee.html"><span class="color-template color-template-marshmallow-bee color-template-background-clip">Marshmallow Bee</span></a><br/>Mountain Top Field Code Buff<br/>Purple Potion Buff
 </td></tr>
 <tr>
 <td>5MFavorites
@@ -1682,7 +1682,7 @@ Promo **codes** are a feature added in the May 18, 2018 update. It is located at
 </td>
 <td>2022-06-25 –<br/>Undocumented (2022)
 </td>
-<td><span typeof="mw:Error mw:File"></span>1 <a href="red-balloon.html"><span class="color-template color-template-red-balloon color-template-background-clip">Red Balloon</span></a><br/><span typeof="mw:Error mw:File"></span>Honeyday Event
+<td><img alt="Red Balloon" height="25" src="img/Red_Balloon.png" width="25"/>1 <a href="red-balloon.html"><span class="color-template color-template-red-balloon color-template-background-clip">Red Balloon</span></a><br/><span typeof="mw:Error mw:File"></span>Honeyday Event
 </td></tr>
 <tr>
 <td>FrozenBugReboot
@@ -1691,7 +1691,7 @@ Promo **codes** are a feature added in the May 18, 2018 update. It is located at
 </td>
 <td>2022-07-21 –<br/>Undocumented (2022)
 </td>
-<td>Wealth Clock Buff x5<br/><span typeof="mw:Error mw:File"></span>1 <a href="loaded-dice.html"><span class="color-template color-template-loaded-dice color-template-background-clip">Loaded Dice</span></a><br/>Pepper Patch Boost x4<br/>Stump Field Boost x4<br/>Mountain Top Field Boost x4<br/>Coconut Field Boost x4<br/>Clover Field Boost x4<br/>Pepper Patch Code Buff<br/>Stump Field Code Buff<br/>Mountain Top Field Code Buff<br/>Clover Field Code Buff
+<td>Wealth Clock Buff x5<br/><img alt="Loaded Dice" height="25" src="img/Loaded_Dice.png" width="25"/>1 <a href="loaded-dice.html"><span class="color-template color-template-loaded-dice color-template-background-clip">Loaded Dice</span></a><br/>Pepper Patch Boost x4<br/>Stump Field Boost x4<br/>Mountain Top Field Boost x4<br/>Coconut Field Boost x4<br/>Clover Field Boost x4<br/>Pepper Patch Code Buff<br/>Stump Field Code Buff<br/>Mountain Top Field Code Buff<br/>Clover Field Code Buff
 </td></tr>
 <tr>
 <td>BFCM2022
@@ -1700,7 +1700,7 @@ Promo **codes** are a feature added in the May 18, 2018 update. It is located at
 </td>
 <td>2022-11-25 –<br/>2022-12-12
 </td>
-<td><span typeof="mw:Error mw:File"></span>1 <a href="jelly-beans.html"><span class="color-template color-template-jelly-beans color-template-background-clip">Jelly Beans</span></a><br/>Clover Field Code Buff
+<td><img alt="Jelly Beans" height="25" src="img/Jelly_Beans.png" width="25"/>1 <a href="jelly-beans.html"><span class="color-template color-template-jelly-beans color-template-background-clip">Jelly Beans</span></a><br/>Clover Field Code Buff
 </td></tr>
 <tr>
 <td>2Billion
@@ -1709,7 +1709,7 @@ Promo **codes** are a feature added in the May 18, 2018 update. It is located at
 </td>
 <td>2022-09-04 –<br/>2022-12-26
 </td>
-<td><span typeof="mw:Error mw:File"></span>2 <a href="blueberry.html"><span class="color-template color-template-blueberry color-template-background-clip">Blueberries</span></a><br/><span typeof="mw:Error mw:File"></span>Honeyday Event<br/><span typeof="mw:Error mw:File"></span>1 <a href="ticket-planter.html"><span class="color-template color-template-ticket-planter color-template-background-clip">Ticket Planter</span></a><br/><span typeof="mw:Error mw:File"></span>1 <a href="marshmallow-bee.html"><span class="color-template color-template-marshmallow-bee color-template-background-clip">Marshmallow Bee</span></a><br/>Rose Field Code Buff<br/>Pine Tree Forest Code Buff<br/>Cactus Field Code Buff<br/>Pumpkin Patch Code Buff<br/>Rose Field Winds x15<br/>Pine Tree Forest Winds x15<br/>Cactus Field Winds x15<br/>Pumpkin Patch Winds x15<br/>Rose Field Winds x15
+<td><img alt="Blueberry" height="25" src="img/Blueberry.png" width="25"/>2 <a href="blueberry.html"><span class="color-template color-template-blueberry color-template-background-clip">Blueberries</span></a><br/><span typeof="mw:Error mw:File"></span>Honeyday Event<br/><img alt="Ticket Planter" height="25" src="img/Ticket_Planter.png" width="25"/>1 <a href="ticket-planter.html"><span class="color-template color-template-ticket-planter color-template-background-clip">Ticket Planter</span></a><br/><img alt="Marshmallow Bee" height="25" src="img/Marshmallow_Bee.png" width="25"/>1 <a href="marshmallow-bee.html"><span class="color-template color-template-marshmallow-bee color-template-background-clip">Marshmallow Bee</span></a><br/>Rose Field Code Buff<br/>Pine Tree Forest Code Buff<br/>Cactus Field Code Buff<br/>Pumpkin Patch Code Buff<br/>Rose Field Winds x15<br/>Pine Tree Forest Winds x15<br/>Cactus Field Winds x15<br/>Pumpkin Patch Winds x15<br/>Rose Field Winds x15
 </td></tr>
 <tr>
 <td>PeppermintReboot
@@ -1727,7 +1727,7 @@ Promo **codes** are a feature added in the May 18, 2018 update. It is located at
 </td>
 <td>2022-03-21 –<br/>Undocumented (2023)
 </td>
-<td><span typeof="mw:Error mw:File"></span>1 <a href="atomic-treat.html"><span class="color-template color-template-atomic-treat color-template-background-clip">Atomic Treat</span></a><br/><span typeof="mw:Error mw:File"></span>1 <a href="marshmallow-bee.html"><span class="color-template color-template-marshmallow-bee color-template-background-clip">Marshmallow Bee</span></a><br/><span typeof="mw:Error mw:File"></span>1 <a href="loaded-dice.html"><span class="color-template color-template-loaded-dice color-template-background-clip">Loaded Dice</span></a><br/><span typeof="mw:Error mw:File"></span>1 <a href="pink-balloon.html"><span class="color-template color-template-pink-balloon color-template-background-clip">Pink Balloon</span></a><br/><span typeof="mw:Error mw:File"></span>1 <a href="white-balloon.html"><span class="color-template color-template-white-balloon color-template-background-clip">White Balloon</span></a><br/><span typeof="mw:Error mw:File"></span>1 <a href="hard-wax.html"><span class="color-template color-template-hard-wax">Hard Wax</span></a><br/><span typeof="mw:Error mw:File"></span>1 <a href="tropical-drink.html"><span class="color-template color-template-tropical-drink color-template-background-clip">Tropical Drink</span></a><br/><span typeof="mw:Error mw:File"></span>1 <a href="neonberry.html"><span class="color-template color-template-neonberry color-template-background-clip">Neonberry</span></a><br/><span typeof="mw:Error mw:File"></span>4 <a href="micro-converter.html"><span class="color-template color-template-micro-converter color-template-background-clip">Micro-Converters</span></a><br/><span typeof="mw:Error mw:File"></span>4 <a href="ticket.html"><span class="color-template color-template-ticket color-template-background-clip">Tickets</span></a><br/><span typeof="mw:Error mw:File"></span>4 <a href="honeysuckle.html"><span class="color-template color-template-honeysuckle color-template-background-clip">Honeysuckles</span></a><br/><span typeof="mw:Error mw:File"></span>4 <a href="strawberry.html"><span class="color-template color-template-strawberry color-template-background-clip">Strawberries</span></a><br/><span typeof="mw:Error mw:File"></span>4 <a href="blueberry.html"><span class="color-template color-template-blueberry color-template-background-clip">Blueberries</span></a><br/><span typeof="mw:Error mw:File"></span>4 <a href="pineapple.html"><span class="color-template color-template-pineapple color-template-background-clip">Pineapples</span></a><br/><span typeof="mw:Error mw:File"></span>4 <a href="sunflower-seed.html"><span class="color-template color-template-sunflower-seed color-template-background-clip">Sunflower Seeds</span></a><br/><span typeof="mw:Error mw:File"></span>4 <a href="bitterberry.html"><span class="color-template color-template-bitterberry color-template-background-clip">Bitterberries</span></a><br/><span typeof="mw:Error mw:File"></span>4 <a href="moon-charm.html"><span class="color-template color-template-moon-charm color-template-background-clip">Moon Charms</span></a><br/>Wealth Clock Buff x5<br/>Cactus Field Boost x4<br/>Sunflower Field Boost x4<br/>Cactus Field Winds x15<br/>Sunflower Field Winds x15<br/>Super Smoothie Buff<br/>Haste x10<br/>Red Boost x10<br/>White Boost x10<br/>Blue Boost x10<br/>Precision x10
+<td><img alt="Atomic Treat" height="25" src="img/Atomic_Treat.png" width="25"/>1 <a href="atomic-treat.html"><span class="color-template color-template-atomic-treat color-template-background-clip">Atomic Treat</span></a><br/><img alt="Marshmallow Bee" height="25" src="img/Marshmallow_Bee.png" width="25"/>1 <a href="marshmallow-bee.html"><span class="color-template color-template-marshmallow-bee color-template-background-clip">Marshmallow Bee</span></a><br/><img alt="Loaded Dice" height="25" src="img/Loaded_Dice.png" width="25"/>1 <a href="loaded-dice.html"><span class="color-template color-template-loaded-dice color-template-background-clip">Loaded Dice</span></a><br/><img alt="Pink Balloon" height="25" src="img/Pink_Balloon.png" width="25"/>1 <a href="pink-balloon.html"><span class="color-template color-template-pink-balloon color-template-background-clip">Pink Balloon</span></a><br/><img alt="White Balloon" height="25" src="img/White_Balloon.png" width="25"/>1 <a href="white-balloon.html"><span class="color-template color-template-white-balloon color-template-background-clip">White Balloon</span></a><br/><img alt="Hard Wax" height="25" src="img/Hard_Wax.png" width="25"/>1 <a href="hard-wax.html"><span class="color-template color-template-hard-wax">Hard Wax</span></a><br/><img alt="Tropical Drink" height="25" src="img/Tropical_Drink.png" width="25"/>1 <a href="tropical-drink.html"><span class="color-template color-template-tropical-drink color-template-background-clip">Tropical Drink</span></a><br/><img alt="Neonberry" height="25" src="img/Neonberry.png" width="25"/>1 <a href="neonberry.html"><span class="color-template color-template-neonberry color-template-background-clip">Neonberry</span></a><br/><img alt="Micro-Converter" height="25" src="img/Micro-Converter.png" width="25"/>4 <a href="micro-converter.html"><span class="color-template color-template-micro-converter color-template-background-clip">Micro-Converters</span></a><br/><img alt="Ticket" height="25" src="img/Ticket.png" width="25"/>4 <a href="ticket.html"><span class="color-template color-template-ticket color-template-background-clip">Tickets</span></a><br/><img alt="Honeysuckle" height="25" src="img/Honeysuckle.png" width="25"/>4 <a href="honeysuckle.html"><span class="color-template color-template-honeysuckle color-template-background-clip">Honeysuckles</span></a><br/><img alt="Strawberry" height="25" src="img/Strawberry.png" width="25"/>4 <a href="strawberry.html"><span class="color-template color-template-strawberry color-template-background-clip">Strawberries</span></a><br/><img alt="Blueberry" height="25" src="img/Blueberry.png" width="25"/>4 <a href="blueberry.html"><span class="color-template color-template-blueberry color-template-background-clip">Blueberries</span></a><br/><img alt="Pineapple" height="25" src="img/Pineapple.png" width="25"/>4 <a href="pineapple.html"><span class="color-template color-template-pineapple color-template-background-clip">Pineapples</span></a><br/><img alt="Sunflower Seed" height="25" src="img/Sunflower_Seed.png" width="25"/>4 <a href="sunflower-seed.html"><span class="color-template color-template-sunflower-seed color-template-background-clip">Sunflower Seeds</span></a><br/><img alt="Bitterberry" height="25" src="img/Bitterberry.png" width="25"/>4 <a href="bitterberry.html"><span class="color-template color-template-bitterberry color-template-background-clip">Bitterberries</span></a><br/><img alt="Moon Charm" height="25" src="img/Moon_Charm.png" width="25"/>4 <a href="moon-charm.html"><span class="color-template color-template-moon-charm color-template-background-clip">Moon Charms</span></a><br/>Wealth Clock Buff x5<br/>Cactus Field Boost x4<br/>Sunflower Field Boost x4<br/>Cactus Field Winds x15<br/>Sunflower Field Winds x15<br/>Super Smoothie Buff<br/>Haste x10<br/>Red Boost x10<br/>White Boost x10<br/>Blue Boost x10<br/>Precision x10
 </td></tr>
 <tr>
 <td>WonkyFlop
@@ -1736,7 +1736,7 @@ Promo **codes** are a feature added in the May 18, 2018 update. It is located at
 </td>
 <td>2023-09-30 –<br/>2023-10-01
 </td>
-<td><span typeof="mw:Error mw:File"></span>1 <a href="marshmallow-bee.html"><span class="color-template color-template-marshmallow-bee color-template-background-clip">Marshmallow Bee</span></a><br/>Wealth Clock Buff x5<br/>Super Smoothie Buff<br/>Sunflower Field Boost x4<br/>Mushroom Field Boost x4<br/>Blue Flower Field Boost x4<br/>Sunflower Field Winds x10<br/>Mushroom Field Winds x10<br/>Blue Flower Field Winds x10
+<td><img alt="Marshmallow Bee" height="25" src="img/Marshmallow_Bee.png" width="25"/>1 <a href="marshmallow-bee.html"><span class="color-template color-template-marshmallow-bee color-template-background-clip">Marshmallow Bee</span></a><br/>Wealth Clock Buff x5<br/>Super Smoothie Buff<br/>Sunflower Field Boost x4<br/>Mushroom Field Boost x4<br/>Blue Flower Field Boost x4<br/>Sunflower Field Winds x10<br/>Mushroom Field Winds x10<br/>Blue Flower Field Winds x10
 </td></tr>
 <tr>
 <td>5Years
@@ -1745,7 +1745,7 @@ Promo **codes** are a feature added in the May 18, 2018 update. It is located at
 </td>
 <td>2023-03-20 –<br/>2023-10-25
 </td>
-<td><span typeof="mw:Error mw:File"></span>Honeyday Event<br/>Super Smoothie Buff<br/>Wealth Clock Buff x5<br/><span typeof="mw:Error mw:File"></span>5 <a href="ticket.html"><span class="color-template color-template-ticket color-template-background-clip">Tickets</span></a><br/><span typeof="mw:Error mw:File"></span>5 <a href="micro-converter.html"><span class="color-template color-template-micro-converter color-template-background-clip">Micro-Converters</span></a><br/><span typeof="mw:Error mw:File"></span>5 <a href="neonberry.html"><span class="color-template color-template-neonberry color-template-background-clip">Neonberries</span></a><br/><span typeof="mw:Error mw:File"></span>5 <a href="smooth-dice.html"><span class="color-template color-template-smooth-dice color-template-background-clip">Smooth Dice</span></a><br/><span typeof="mw:Error mw:File"></span>5 <a href="marshmallow-bee.html"><span class="color-template color-template-marshmallow-bee color-template-background-clip">Marshmallow Bees</span></a>
+<td><span typeof="mw:Error mw:File"></span>Honeyday Event<br/>Super Smoothie Buff<br/>Wealth Clock Buff x5<br/><img alt="Ticket" height="25" src="img/Ticket.png" width="25"/>5 <a href="ticket.html"><span class="color-template color-template-ticket color-template-background-clip">Tickets</span></a><br/><img alt="Micro-Converter" height="25" src="img/Micro-Converter.png" width="25"/>5 <a href="micro-converter.html"><span class="color-template color-template-micro-converter color-template-background-clip">Micro-Converters</span></a><br/><img alt="Neonberry" height="25" src="img/Neonberry.png" width="25"/>5 <a href="neonberry.html"><span class="color-template color-template-neonberry color-template-background-clip">Neonberries</span></a><br/><img alt="Smooth Dice" height="25" src="img/Smooth_Dice.png" width="25"/>5 <a href="smooth-dice.html"><span class="color-template color-template-smooth-dice color-template-background-clip">Smooth Dice</span></a><br/><img alt="Marshmallow Bee" height="25" src="img/Marshmallow_Bee.png" width="25"/>5 <a href="marshmallow-bee.html"><span class="color-template color-template-marshmallow-bee color-template-background-clip">Marshmallow Bees</span></a>
 </td></tr>
 <tr>
 <td>SonyXbox
@@ -1754,7 +1754,7 @@ Promo **codes** are a feature added in the May 18, 2018 update. It is located at
 </td>
 <td>2023-10-23 –<br/>2023-11-26
 </td>
-<td>Console Launch Boost (2 days)<br/><span typeof="mw:Error mw:File"></span>1 <a href="royal-jelly.html"><span class="color-template color-template-royal-jelly color-template-background-clip">Royal Jelly</span></a><br/><span typeof="mw:Error mw:File"></span>1 <a href="micro-converter.html"><span class="color-template color-template-micro-converter color-template-background-clip">Micro-Converter</span></a><br/><span typeof="mw:Error mw:File"></span>1 <a href="field-dice.html"><span class="color-template color-template-field-dice color-template-background-clip">Field Dice</span></a><br/><span typeof="mw:Error mw:File"></span>5 <a href="whirligig.html"><span class="color-template color-template-whirligig color-template-background-clip">Whirligigs</span></a><br/><span typeof="mw:Error mw:File"></span>5 <a href="honeysuckle.html"><span class="color-template color-template-honeysuckle color-template-background-clip">Honeysuckles</span></a>
+<td>Console Launch Boost (2 days)<br/><img alt="Royal Jelly" height="25" src="img/Royal_Jelly.png" width="25"/>1 <a href="royal-jelly.html"><span class="color-template color-template-royal-jelly color-template-background-clip">Royal Jelly</span></a><br/><img alt="Micro-Converter" height="25" src="img/Micro-Converter.png" width="25"/>1 <a href="micro-converter.html"><span class="color-template color-template-micro-converter color-template-background-clip">Micro-Converter</span></a><br/><img alt="Field Dice" height="25" src="img/Field_Dice.png" width="25"/>1 <a href="field-dice.html"><span class="color-template color-template-field-dice color-template-background-clip">Field Dice</span></a><br/><img alt="Whirligig" height="25" src="img/Whirligig.png" width="25"/>5 <a href="whirligig.html"><span class="color-template color-template-whirligig color-template-background-clip">Whirligigs</span></a><br/><img alt="Honeysuckle" height="25" src="img/Honeysuckle.png" width="25"/>5 <a href="honeysuckle.html"><span class="color-template color-template-honeysuckle color-template-background-clip">Honeysuckles</span></a>
 </td></tr>
 <tr>
 <td>BlackReboot
@@ -1763,7 +1763,7 @@ Promo **codes** are a feature added in the May 18, 2018 update. It is located at
 </td>
 <td>2023-11-24 –<br/>2023-11-26
 </td>
-<td>Wealth Clock Buff x5<br/><span typeof="mw:Error mw:File"></span>3 <a href="micro-converter.html"><span class="color-template color-template-micro-converter color-template-background-clip">Micro-Converters</span></a><br/>Mountain Top Field Boost x4<br/>Mountain Top Field Winds x15
+<td>Wealth Clock Buff x5<br/><img alt="Micro-Converter" height="25" src="img/Micro-Converter.png" width="25"/>3 <a href="micro-converter.html"><span class="color-template color-template-micro-converter color-template-background-clip">Micro-Converters</span></a><br/>Mountain Top Field Boost x4<br/>Mountain Top Field Winds x15
 </td></tr>
 <tr>
 <td>2MLikes
@@ -1772,7 +1772,7 @@ Promo **codes** are a feature added in the May 18, 2018 update. It is located at
 </td>
 <td>2023-11-26 –<br/>Undocumented (2024)
 </td>
-<td><span typeof="mw:Error mw:File"></span>2 <a href="pink-balloon.html"><span class="color-template color-template-pink-balloon color-template-background-clip">Pink Balloons</span></a><br/><span typeof="mw:Error mw:File"></span>2 <a href="marshmallow-bee.html"><span class="color-template color-template-marshmallow-bee color-template-background-clip">Marshmallow Bees</span></a><br/><span typeof="mw:Error mw:File"></span>Honeyday Event
+<td><img alt="Pink Balloon" height="25" src="img/Pink_Balloon.png" width="25"/>2 <a href="pink-balloon.html"><span class="color-template color-template-pink-balloon color-template-background-clip">Pink Balloons</span></a><br/><img alt="Marshmallow Bee" height="25" src="img/Marshmallow_Bee.png" width="25"/>2 <a href="marshmallow-bee.html"><span class="color-template color-template-marshmallow-bee color-template-background-clip">Marshmallow Bees</span></a><br/><span typeof="mw:Error mw:File"></span>Honeyday Event
 </td></tr>
 <tr>
 <td>BeequipTradeReboot
@@ -1781,7 +1781,7 @@ Promo **codes** are a feature added in the May 18, 2018 update. It is located at
 </td>
 <td>2024-01-17 –<br/>2024-01-25
 </td>
-<td><span typeof="mw:Error mw:File"></span>1 <a href="marshmallow-bee.html"><span class="color-template color-template-marshmallow-bee color-template-background-clip">Marshmallow Bee</span></a><br/>Wealth Clock Buff x5<br/>Hub Field Boost x4<br/>Hub Field Winds x15<br/>Mountain Top Field Boost x4<br/>Mountain Top Field Winds x15
+<td><img alt="Marshmallow Bee" height="25" src="img/Marshmallow_Bee.png" width="25"/>1 <a href="marshmallow-bee.html"><span class="color-template color-template-marshmallow-bee color-template-background-clip">Marshmallow Bee</span></a><br/>Wealth Clock Buff x5<br/>Hub Field Boost x4<br/>Hub Field Winds x15<br/>Mountain Top Field Boost x4<br/>Mountain Top Field Winds x15
 </td></tr>
 <tr>
 <td>10mMembers
@@ -1790,7 +1790,7 @@ Promo **codes** are a feature added in the May 18, 2018 update. It is located at
 </td>
 <td>2021-11-29 –<br/>2024-03-13
 </td>
-<td><span typeof="mw:Error mw:File"></span>10 <a href="neonberry.html"><span class="color-template color-template-neonberry color-template-background-clip">Neonberries</span></a><br/><span typeof="mw:Error mw:File"></span>10 <a href="strawberry.html"><span class="color-template color-template-strawberry color-template-background-clip">Strawberries</span></a><br/><span typeof="mw:Error mw:File"></span>10 <a href="blueberry.html"><span class="color-template color-template-blueberry color-template-background-clip">Blueberries</span></a><br/><span typeof="mw:Error mw:File"></span>10 <a href="pineapple.html"><span class="color-template color-template-pineapple color-template-background-clip">Pineapples</span></a><br/><span typeof="mw:Error mw:File"></span>10 <a href="sunflower-seed.html"><span class="color-template color-template-sunflower-seed color-template-background-clip">Sunflower Seeds</span></a><br/><span typeof="mw:Error mw:File"></span>10 <a href="gumdrops.html"><span class="color-template color-template-gumdrops color-template-background-clip">Gumdrops</span></a><br/><span typeof="mw:Error mw:File"></span>10 <a href="moon-charm.html"><span class="color-template color-template-moon-charm color-template-background-clip">Moon Charms</span></a><br/>Haste x10<br/>Focus x10<br/>Red Boost x10<br/>Blue Boost x10<br/>White Boost x10<br/>Black Bear Morph<br/>Conversion Boost (Duration: 1 hour)<br/>Pineapple Patch Code Buff<br/>Pepper Patch Code Buff<br/>Stump Field Code Buff
+<td><img alt="Neonberry" height="25" src="img/Neonberry.png" width="25"/>10 <a href="neonberry.html"><span class="color-template color-template-neonberry color-template-background-clip">Neonberries</span></a><br/><img alt="Strawberry" height="25" src="img/Strawberry.png" width="25"/>10 <a href="strawberry.html"><span class="color-template color-template-strawberry color-template-background-clip">Strawberries</span></a><br/><img alt="Blueberry" height="25" src="img/Blueberry.png" width="25"/>10 <a href="blueberry.html"><span class="color-template color-template-blueberry color-template-background-clip">Blueberries</span></a><br/><img alt="Pineapple" height="25" src="img/Pineapple.png" width="25"/>10 <a href="pineapple.html"><span class="color-template color-template-pineapple color-template-background-clip">Pineapples</span></a><br/><img alt="Sunflower Seed" height="25" src="img/Sunflower_Seed.png" width="25"/>10 <a href="sunflower-seed.html"><span class="color-template color-template-sunflower-seed color-template-background-clip">Sunflower Seeds</span></a><br/><img alt="Gumdrops" height="25" src="img/Gumdrops.png" width="25"/>10 <a href="gumdrops.html"><span class="color-template color-template-gumdrops color-template-background-clip">Gumdrops</span></a><br/><img alt="Moon Charm" height="25" src="img/Moon_Charm.png" width="25"/>10 <a href="moon-charm.html"><span class="color-template color-template-moon-charm color-template-background-clip">Moon Charms</span></a><br/>Haste x10<br/>Focus x10<br/>Red Boost x10<br/>Blue Boost x10<br/>White Boost x10<br/>Black Bear Morph<br/>Conversion Boost (Duration: 1 hour)<br/>Pineapple Patch Code Buff<br/>Pepper Patch Code Buff<br/>Stump Field Code Buff
 </td></tr>
 <tr>
 <td>PlushFriday
@@ -1799,7 +1799,7 @@ Promo **codes** are a feature added in the May 18, 2018 update. It is located at
 </td>
 <td>2021-11-26 –<br/>Undocumented (2024)
 </td>
-<td><span typeof="mw:Error mw:File"></span>1 <a href="marshmallow-bee.html"><span class="color-template color-template-marshmallow-bee color-template-background-clip">Marshmallow Bee</span></a><br/><span typeof="mw:Error mw:File"></span>1 <a href="neonberry.html"><span class="color-template color-template-neonberry color-template-background-clip">Neonberry</span></a><br/><span typeof="mw:Error mw:File"></span>1 <a href="micro-converter.html"><span class="color-template color-template-micro-converter color-template-background-clip">Micro-Converter</span></a>
+<td><img alt="Marshmallow Bee" height="25" src="img/Marshmallow_Bee.png" width="25"/>1 <a href="marshmallow-bee.html"><span class="color-template color-template-marshmallow-bee color-template-background-clip">Marshmallow Bee</span></a><br/><img alt="Neonberry" height="25" src="img/Neonberry.png" width="25"/>1 <a href="neonberry.html"><span class="color-template color-template-neonberry color-template-background-clip">Neonberry</span></a><br/><img alt="Micro-Converter" height="25" src="img/Micro-Converter.png" width="25"/>1 <a href="micro-converter.html"><span class="color-template color-template-micro-converter color-template-background-clip">Micro-Converter</span></a>
 </td></tr>
 <tr>
 <td>500mil
@@ -1808,7 +1808,7 @@ Promo **codes** are a feature added in the May 18, 2018 update. It is located at
 </td>
 <td>2019-05-04 –<br/>Undocumented (2024)
 </td>
-<td><span typeof="mw:Error mw:File"></span>5 <a href="field-dice.html"><span class="color-template color-template-field-dice color-template-background-clip">Field Dice</span></a><br/><span typeof="mw:Error mw:File"></span>5 <a href="gumdrops.html"><span class="color-template color-template-gumdrops color-template-background-clip">Gumdrops</span></a><br/>Wealth Clock Buff x5<br/>Conversion Boost (Duration: 1 hour)<br/>Stump Field Boost x2<br/>Bamboo Field Boost x3<br/>Science Bear Morph
+<td><img alt="Field Dice" height="25" src="img/Field_Dice.png" width="25"/>5 <a href="field-dice.html"><span class="color-template color-template-field-dice color-template-background-clip">Field Dice</span></a><br/><img alt="Gumdrops" height="25" src="img/Gumdrops.png" width="25"/>5 <a href="gumdrops.html"><span class="color-template color-template-gumdrops color-template-background-clip">Gumdrops</span></a><br/>Wealth Clock Buff x5<br/>Conversion Boost (Duration: 1 hour)<br/>Stump Field Boost x2<br/>Bamboo Field Boost x3<br/>Science Bear Morph
 </td></tr>
 <tr>
 <td>DemiDecade<br/>(Exclusive to club members)
@@ -1826,7 +1826,7 @@ Promo **codes** are a feature added in the May 18, 2018 update. It is located at
 </td>
 <td>2024-03-20 –<br/>2024-04-05
 </td>
-<td>"🎂Happy 6th Birthday to BSS! 🎈"<br/><span typeof="mw:Error mw:File"></span>Honeyday Event<br/>Super Smoothie Buff<br/>Unlimited Gumdrops (Duration: 6 minutes)<br/>Red Boost x6<br/>White Boost x6<br/>Blue Boost x6<br/>Focus x6<br/>Haste x6<br/>Precision x6<br/>Inspire x6<br/>Mountain Top Field Boost x6<br/>Mountain Top Field Winds x6<br/>Hub Field Boost x6<br/><span typeof="mw:Error mw:File"></span>6 <a href="jelly-beans.html"><span class="color-template color-template-jelly-beans color-template-background-clip">Jelly Beans</span></a><br/><span typeof="mw:Error mw:File"></span>6 <a href="honeysuckle.html"><span class="color-template color-template-honeysuckle color-template-background-clip">Honeysuckles</span></a><br/><span typeof="mw:Error mw:File"></span>6 <a href="ticket.html"><span class="color-template color-template-ticket color-template-background-clip">Tickets</span></a><br/><span typeof="mw:Error mw:File"></span>1 <a href="white-balloon.html"><span class="color-template color-template-white-balloon color-template-background-clip">White Balloon</span></a>
+<td>"🎂Happy 6th Birthday to BSS! 🎈"<br/><span typeof="mw:Error mw:File"></span>Honeyday Event<br/>Super Smoothie Buff<br/>Unlimited Gumdrops (Duration: 6 minutes)<br/>Red Boost x6<br/>White Boost x6<br/>Blue Boost x6<br/>Focus x6<br/>Haste x6<br/>Precision x6<br/>Inspire x6<br/>Mountain Top Field Boost x6<br/>Mountain Top Field Winds x6<br/>Hub Field Boost x6<br/><img alt="Jelly Beans" height="25" src="img/Jelly_Beans.png" width="25"/>6 <a href="jelly-beans.html"><span class="color-template color-template-jelly-beans color-template-background-clip">Jelly Beans</span></a><br/><img alt="Honeysuckle" height="25" src="img/Honeysuckle.png" width="25"/>6 <a href="honeysuckle.html"><span class="color-template color-template-honeysuckle color-template-background-clip">Honeysuckles</span></a><br/><img alt="Ticket" height="25" src="img/Ticket.png" width="25"/>6 <a href="ticket.html"><span class="color-template color-template-ticket color-template-background-clip">Tickets</span></a><br/><img alt="White Balloon" height="25" src="img/White_Balloon.png" width="25"/>1 <a href="white-balloon.html"><span class="color-template color-template-white-balloon color-template-background-clip">White Balloon</span></a>
 </td></tr>
 <tr>
 <td>BoxWhoops
@@ -1835,7 +1835,7 @@ Promo **codes** are a feature added in the May 18, 2018 update. It is located at
 </td>
 <td>2024-06-06 –<br/>2024-06-08
 </td>
-<td><span typeof="mw:Error mw:File"></span>1 <a href="marshmallow-bee.html"><span class="color-template color-template-marshmallow-bee color-template-background-clip">Marshmallow Bee</span></a><br/><span typeof="mw:Error mw:File"></span>1 <a href="pink-balloon.html"><span class="color-template color-template-pink-balloon color-template-background-clip">Pink Balloon</span></a><br/><span typeof="mw:Error mw:File"></span>10 <a href="gumdrops.html"><span class="color-template color-template-gumdrops color-template-background-clip">Gumdrops</span></a><br/><span typeof="mw:Error mw:File"></span>10 <a href="honeysuckle.html"><span class="color-template color-template-honeysuckle color-template-background-clip">Honeysuckles</span></a><br/><span typeof="mw:Error mw:File"></span>1 <a href="smooth-dice.html"><span class="color-template color-template-smooth-dice color-template-background-clip">Smooth Dice</span></a><br/><span typeof="mw:Error mw:File"></span>1 <a href="micro-converter.html"><span class="color-template color-template-micro-converter color-template-background-clip">Micro-Converter</span></a><br/>Super Smoothie Buff<br/>Marshmallow Bee Buff<br/>Wealth Clock Buff x5<br/>Spider Field Boost x4<br/>Strawberry Field Boost x4<br/>Bamboo Field Boost x4<br/>Spider Field Code Buff (Duration: 1 hour)<br/>Strawberry Field Code Buff (Duration: 1 hour)<br/>Bamboo Field Code Buff (Duration: 1 hour)
+<td><img alt="Marshmallow Bee" height="25" src="img/Marshmallow_Bee.png" width="25"/>1 <a href="marshmallow-bee.html"><span class="color-template color-template-marshmallow-bee color-template-background-clip">Marshmallow Bee</span></a><br/><img alt="Pink Balloon" height="25" src="img/Pink_Balloon.png" width="25"/>1 <a href="pink-balloon.html"><span class="color-template color-template-pink-balloon color-template-background-clip">Pink Balloon</span></a><br/><img alt="Gumdrops" height="25" src="img/Gumdrops.png" width="25"/>10 <a href="gumdrops.html"><span class="color-template color-template-gumdrops color-template-background-clip">Gumdrops</span></a><br/><img alt="Honeysuckle" height="25" src="img/Honeysuckle.png" width="25"/>10 <a href="honeysuckle.html"><span class="color-template color-template-honeysuckle color-template-background-clip">Honeysuckles</span></a><br/><img alt="Smooth Dice" height="25" src="img/Smooth_Dice.png" width="25"/>1 <a href="smooth-dice.html"><span class="color-template color-template-smooth-dice color-template-background-clip">Smooth Dice</span></a><br/><img alt="Micro-Converter" height="25" src="img/Micro-Converter.png" width="25"/>1 <a href="micro-converter.html"><span class="color-template color-template-micro-converter color-template-background-clip">Micro-Converter</span></a><br/>Super Smoothie Buff<br/>Marshmallow Bee Buff<br/>Wealth Clock Buff x5<br/>Spider Field Boost x4<br/>Strawberry Field Boost x4<br/>Bamboo Field Boost x4<br/>Spider Field Code Buff (Duration: 1 hour)<br/>Strawberry Field Code Buff (Duration: 1 hour)<br/>Bamboo Field Code Buff (Duration: 1 hour)
 </td></tr>
 <tr>
 <td>Cog
@@ -1844,7 +1844,7 @@ Promo **codes** are a feature added in the May 18, 2018 update. It is located at
 </td>
 <td>2018-05-18 –<br/>Undocumented (2024)
 </td>
-<td><span typeof="mw:Error mw:File"></span>5 <a href="ticket.html"><span class="color-template color-template-ticket color-template-background-clip">Tickets</span></a>
+<td><img alt="Ticket" height="25" src="img/Ticket.png" width="25"/>5 <a href="ticket.html"><span class="color-template color-template-ticket color-template-background-clip">Tickets</span></a>
 </td></tr>
 <tr>
 <td>Buzz
@@ -1853,7 +1853,7 @@ Promo **codes** are a feature added in the May 18, 2018 update. It is located at
 </td>
 <td>2018-05-18 –<br/>Undocumented (2024)
 </td>
-<td><span typeof="mw:Error mw:File"></span>5,000 <a href="honey.html"><span class="color-template color-template-honey">Honey</span></a>
+<td><img alt="Honey" height="25" src="img/Honey.png" width="25"/>5,000 <a href="honey.html"><span class="color-template color-template-honey">Honey</span></a>
 </td></tr>
 <tr>
 <td>Wink
@@ -1862,7 +1862,7 @@ Promo **codes** are a feature added in the May 18, 2018 update. It is located at
 </td>
 <td>2018-06-08 –<br/>Undocumented (2024)
 </td>
-<td><span typeof="mw:Error mw:File"></span>5 <a href="ticket.html"><span class="color-template color-template-ticket color-template-background-clip">Tickets</span></a><br/><span typeof="mw:Error mw:File"></span>5,000 <a href="honey.html"><span class="color-template color-template-honey">Honey</span></a><br/>Black Bear Morph<br/>Dandelion Field Boost x7
+<td><img alt="Ticket" height="25" src="img/Ticket.png" width="25"/>5 <a href="ticket.html"><span class="color-template color-template-ticket color-template-background-clip">Tickets</span></a><br/><img alt="Honey" height="25" src="img/Honey.png" width="25"/>5,000 <a href="honey.html"><span class="color-template color-template-honey">Honey</span></a><br/>Black Bear Morph<br/>Dandelion Field Boost x7
 </td></tr>
 <tr>
 <td>SecretProfileCode<br/>(Exclusive to club members)
@@ -1880,7 +1880,7 @@ Promo **codes** are a feature added in the May 18, 2018 update. It is located at
 </td>
 <td>2019-02-21 –<br/>Undocumented (2024)
 </td>
-<td>Conversion Boost (Duration: 30 minutes)<br/>Dandelion Field Boost x3<br/><span typeof="mw:Error mw:File"></span>2,500 <a href="honey.html"><span class="color-template color-template-honey">Honey</span></a>
+<td>Conversion Boost (Duration: 30 minutes)<br/>Dandelion Field Boost x3<br/><img alt="Honey" height="25" src="img/Honey.png" width="25"/>2,500 <a href="honey.html"><span class="color-template color-template-honey">Honey</span></a>
 </td></tr>
 <tr>
 <td>ClubConverters<br/>(Exclusive to club members)
@@ -1889,7 +1889,7 @@ Promo **codes** are a feature added in the May 18, 2018 update. It is located at
 </td>
 <td>2019-04-14 –<br/>Undocumented (2024)
 </td>
-<td><span typeof="mw:Error mw:File"></span>10 <a href="micro-converter.html"><span class="color-template color-template-micro-converter color-template-background-clip">Micro-Converters</span></a>
+<td><img alt="Micro-Converter" height="25" src="img/Micro-Converter.png" width="25"/>10 <a href="micro-converter.html"><span class="color-template color-template-micro-converter color-template-background-clip">Micro-Converters</span></a>
 </td></tr>
 <tr>
 <td>Marshmallow
@@ -1898,7 +1898,7 @@ Promo **codes** are a feature added in the May 18, 2018 update. It is located at
 </td>
 <td>2019-04-18 –<br/>Undocumented (2024)
 </td>
-<td><span typeof="mw:Error mw:File"></span>1 <a href="marshmallow-bee.html"><span class="color-template color-template-marshmallow-bee color-template-background-clip">Marshmallow Bee</span></a><br/>Conversion Boost (Duration: 1 hour)
+<td><img alt="Marshmallow Bee" height="25" src="img/Marshmallow_Bee.png" width="25"/>1 <a href="marshmallow-bee.html"><span class="color-template color-template-marshmallow-bee color-template-background-clip">Marshmallow Bee</span></a><br/>Conversion Boost (Duration: 1 hour)
 </td></tr>
 <tr>
 <td>Teespring
@@ -1907,7 +1907,7 @@ Promo **codes** are a feature added in the May 18, 2018 update. It is located at
 </td>
 <td>2019-10-29 –<br/>Undocumented (2024)
 </td>
-<td><span typeof="mw:Error mw:File"></span>1 <a href="marshmallow-bee.html"><span class="color-template color-template-marshmallow-bee color-template-background-clip">Marshmallow Bee</span></a><br/>Bamboo Field Boost x3<br/>Bamboo Field Winds x3
+<td><img alt="Marshmallow Bee" height="25" src="img/Marshmallow_Bee.png" width="25"/>1 <a href="marshmallow-bee.html"><span class="color-template color-template-marshmallow-bee color-template-background-clip">Marshmallow Bee</span></a><br/>Bamboo Field Boost x3<br/>Bamboo Field Winds x3
 </td></tr>
 <tr>
 <td>Cubly
@@ -1916,7 +1916,7 @@ Promo **codes** are a feature added in the May 18, 2018 update. It is located at
 </td>
 <td>2020-04-24 –<br/>Undocumented (2024)
 </td>
-<td>Bumble Bee Jelly x1<br/><span typeof="mw:Error mw:File"></span>10 <a href="bitterberry.html"><span class="color-template color-template-bitterberry color-template-background-clip">Bitterberries</span></a><br/><span typeof="mw:Error mw:File"></span>1 <a href="micro-converter.html"><span class="color-template color-template-micro-converter color-template-background-clip">Micro-Converter</span></a><br/>Capacity Code Buff (Duration: 1 hour)
+<td>Bumble Bee Jelly x1<br/><img alt="Bitterberry" height="25" src="img/Bitterberry.png" width="25"/>10 <a href="bitterberry.html"><span class="color-template color-template-bitterberry color-template-background-clip">Bitterberries</span></a><br/><img alt="Micro-Converter" height="25" src="img/Micro-Converter.png" width="25"/>1 <a href="micro-converter.html"><span class="color-template color-template-micro-converter color-template-background-clip">Micro-Converter</span></a><br/>Capacity Code Buff (Duration: 1 hour)
 </td></tr>
 <tr>
 <td>BANNED
@@ -1934,7 +1934,7 @@ Promo **codes** are a feature added in the May 18, 2018 update. It is located at
 </td>
 <td>2020-12-13 –<br/>Undocumented (2024)
 </td>
-<td>Super Smoothie Buff<br/>Unlimited Gumdrops Buff (Duration: 1 minute)<br/>Mother Bear Morph<br/>Blue Boost x1<br/>Red Boost x1<br/>White Boost x1<br/>Baby Love Buff<br/>Melody Buff<br/>Mountain Top Field Boost x1<br/>Clover Field Boost x1<br/>Blue Flower Field Boost x1<br/>Sunflower Field Boost x1<br/>Mushroom Field Boost x1<br/>Spider Field Boost x1<br/>Strawberry Field Boost x1<br/>Bamboo Field Boost x1<br/>Pineapple Patch Boost x1<br/>Capacity Code Buff (Duration: 1 hour)<br/>Wealth Clock Buff x1<br/><span typeof="mw:Error mw:File"></span>1 <a href="ticket.html"><span class="color-template color-template-ticket color-template-background-clip">Ticket</span></a><br/><span typeof="mw:Error mw:File"></span>1 <a href="treat.html"><span class="color-template color-template-treat">Treat</span></a><br/><span typeof="mw:Error mw:File"></span>1 <a href="bitterberry.html"><span class="color-template color-template-bitterberry color-template-background-clip">Bitterberry</span></a><br/><span typeof="mw:Error mw:File"></span>1 <a href="sunflower-seed.html"><span class="color-template color-template-sunflower-seed color-template-background-clip">Sunflower Seed</span></a><br/><span typeof="mw:Error mw:File"></span>1 <a href="strawberry.html"><span class="color-template color-template-strawberry color-template-background-clip">Strawberry</span></a><br/><span typeof="mw:Error mw:File"></span>1 <a href="blueberry.html"><span class="color-template color-template-blueberry color-template-background-clip">Blueberry</span></a><br/><span typeof="mw:Error mw:File"></span>1 <a href="pineapple.html"><span class="color-template color-template-pineapple color-template-background-clip">Pineapple</span></a><br/><span typeof="mw:Error mw:File"></span>1 <a href="moon-charm.html"><span class="color-template color-template-moon-charm color-template-background-clip">Moon Charm</span></a><br/><span typeof="mw:Error mw:File"></span>1 <a href="cloud-vial.html"><span class="color-template color-template-cloud-vial color-template-background-clip">Cloud Vial</span></a><br/><span typeof="mw:Error mw:File"></span>1 <a href="ant-pass.html"><span class="color-template color-template-ant-pass color-template-background-clip">Ant Pass</span></a><br/><span typeof="mw:Error mw:File"></span>1 <a href="field-dice.html"><span class="color-template color-template-field-dice color-template-background-clip">Field Dice</span></a><br/><span typeof="mw:Error mw:File"></span>1 <a href="micro-converter.html"><span class="color-template color-template-micro-converter color-template-background-clip">Micro-Converter</span></a><br/><span typeof="mw:Error mw:File"></span>1 <a href="coconut.html"><span class="color-template color-template-coconut color-template-background-clip">Coconut</span></a><br/><span typeof="mw:Error mw:File"></span>1 <a href="stinger.html"><span class="color-template color-template-stinger color-template-background-clip">Stinger</span></a><br/><span typeof="mw:Error mw:File"></span>1 <a href="gumdrops.html"><span class="color-template color-template-gumdrops color-template-background-clip">Gumdrops</span></a><br/><span typeof="mw:Error mw:File"></span>1 <a href="honey.html"><span class="color-template color-template-honey">Honey</span></a>
+<td>Super Smoothie Buff<br/>Unlimited Gumdrops Buff (Duration: 1 minute)<br/>Mother Bear Morph<br/>Blue Boost x1<br/>Red Boost x1<br/>White Boost x1<br/>Baby Love Buff<br/>Melody Buff<br/>Mountain Top Field Boost x1<br/>Clover Field Boost x1<br/>Blue Flower Field Boost x1<br/>Sunflower Field Boost x1<br/>Mushroom Field Boost x1<br/>Spider Field Boost x1<br/>Strawberry Field Boost x1<br/>Bamboo Field Boost x1<br/>Pineapple Patch Boost x1<br/>Capacity Code Buff (Duration: 1 hour)<br/>Wealth Clock Buff x1<br/><img alt="Ticket" height="25" src="img/Ticket.png" width="25"/>1 <a href="ticket.html"><span class="color-template color-template-ticket color-template-background-clip">Ticket</span></a><br/><img alt="Treat" height="25" src="img/Treat.png" width="25"/>1 <a href="treat.html"><span class="color-template color-template-treat">Treat</span></a><br/><img alt="Bitterberry" height="25" src="img/Bitterberry.png" width="25"/>1 <a href="bitterberry.html"><span class="color-template color-template-bitterberry color-template-background-clip">Bitterberry</span></a><br/><img alt="Sunflower Seed" height="25" src="img/Sunflower_Seed.png" width="25"/>1 <a href="sunflower-seed.html"><span class="color-template color-template-sunflower-seed color-template-background-clip">Sunflower Seed</span></a><br/><img alt="Strawberry" height="25" src="img/Strawberry.png" width="25"/>1 <a href="strawberry.html"><span class="color-template color-template-strawberry color-template-background-clip">Strawberry</span></a><br/><img alt="Blueberry" height="25" src="img/Blueberry.png" width="25"/>1 <a href="blueberry.html"><span class="color-template color-template-blueberry color-template-background-clip">Blueberry</span></a><br/><img alt="Pineapple" height="25" src="img/Pineapple.png" width="25"/>1 <a href="pineapple.html"><span class="color-template color-template-pineapple color-template-background-clip">Pineapple</span></a><br/><img alt="Moon Charm" height="25" src="img/Moon_Charm.png" width="25"/>1 <a href="moon-charm.html"><span class="color-template color-template-moon-charm color-template-background-clip">Moon Charm</span></a><br/><img alt="Cloud Vial" height="25" src="img/Cloud_Vial.png" width="25"/>1 <a href="cloud-vial.html"><span class="color-template color-template-cloud-vial color-template-background-clip">Cloud Vial</span></a><br/><img alt="Ant Pass" height="25" src="img/Ant_Pass.png" width="25"/>1 <a href="ant-pass.html"><span class="color-template color-template-ant-pass color-template-background-clip">Ant Pass</span></a><br/><img alt="Field Dice" height="25" src="img/Field_Dice.png" width="25"/>1 <a href="field-dice.html"><span class="color-template color-template-field-dice color-template-background-clip">Field Dice</span></a><br/><img alt="Micro-Converter" height="25" src="img/Micro-Converter.png" width="25"/>1 <a href="micro-converter.html"><span class="color-template color-template-micro-converter color-template-background-clip">Micro-Converter</span></a><br/><img alt="Coconut" height="25" src="img/Coconut.png" width="25"/>1 <a href="coconut.html"><span class="color-template color-template-coconut color-template-background-clip">Coconut</span></a><br/><img alt="Stinger" height="25" src="img/Stinger.png" width="25"/>1 <a href="stinger.html"><span class="color-template color-template-stinger color-template-background-clip">Stinger</span></a><br/><img alt="Gumdrops" height="25" src="img/Gumdrops.png" width="25"/>1 <a href="gumdrops.html"><span class="color-template color-template-gumdrops color-template-background-clip">Gumdrops</span></a><br/><img alt="Honey" height="25" src="img/Honey.png" width="25"/>1 <a href="honey.html"><span class="color-template color-template-honey">Honey</span></a>
 </td></tr>
 <tr>
 <td>WalmartToys
@@ -1943,7 +1943,7 @@ Promo **codes** are a feature added in the May 18, 2018 update. It is located at
 </td>
 <td>2022-03-23 –<br/>Undocumented (2024)
 </td>
-<td>"🧸 Bee Swarm toys available now at Walmart Supercenters! 🎈"<br/><span typeof="mw:Error mw:File"></span>1 <a href="marshmallow-bee.html"><span class="color-template color-template-marshmallow-bee color-template-background-clip">Marshmallow Bee</span></a><br/><span typeof="mw:Error mw:File"></span>1 <a href="field-dice.html"><span class="color-template color-template-field-dice color-template-background-clip">Field Dice</span></a><br/><span typeof="mw:Error mw:File"></span>3 <a href="micro-converter.html"><span class="color-template color-template-micro-converter color-template-background-clip">Micro-Converters</span></a><br/>Pineapple Patch Boost x4<br/>Pineapple Patch Code Buff<br/>Pineapple Patch Winds x10<br/>Super Smoothie Buff<br/>Wealth Clock Buff x1
+<td>"🧸 Bee Swarm toys available now at Walmart Supercenters! 🎈"<br/><img alt="Marshmallow Bee" height="25" src="img/Marshmallow_Bee.png" width="25"/>1 <a href="marshmallow-bee.html"><span class="color-template color-template-marshmallow-bee color-template-background-clip">Marshmallow Bee</span></a><br/><img alt="Field Dice" height="25" src="img/Field_Dice.png" width="25"/>1 <a href="field-dice.html"><span class="color-template color-template-field-dice color-template-background-clip">Field Dice</span></a><br/><img alt="Micro-Converter" height="25" src="img/Micro-Converter.png" width="25"/>3 <a href="micro-converter.html"><span class="color-template color-template-micro-converter color-template-background-clip">Micro-Converters</span></a><br/>Pineapple Patch Boost x4<br/>Pineapple Patch Code Buff<br/>Pineapple Patch Winds x10<br/>Super Smoothie Buff<br/>Wealth Clock Buff x1
 </td></tr>
 <tr>
 <td>ThnxCyasToyBox
@@ -1952,7 +1952,7 @@ Promo **codes** are a feature added in the May 18, 2018 update. It is located at
 </td>
 <td>2022-03-30 –<br/>Undocumented (2024)
 </td>
-<td><span typeof="mw:Error mw:File"></span>1 <a href="marshmallow-bee.html"><span class="color-template color-template-marshmallow-bee color-template-background-clip">Marshmallow Bee</span></a><br/><span typeof="mw:Error mw:File"></span>1 <a href="smooth-dice.html"><span class="color-template color-template-smooth-dice color-template-background-clip">Smooth Dice</span></a><br/><span typeof="mw:Error mw:File"></span>1 <a href="jelly-beans.html"><span class="color-template color-template-jelly-beans color-template-background-clip">Jelly Beans</span></a><br/><span typeof="mw:Error mw:File"></span>1 <a href="micro-converter.html"><span class="color-template color-template-micro-converter color-template-background-clip">Micro-Converter</span></a><br/><span typeof="mw:Error mw:File"></span>1 <a href="cloud-vial.html"><span class="color-template color-template-cloud-vial color-template-background-clip">Cloud Vial</span></a><br/><span typeof="mw:Error mw:File"></span>1 <a href="whirligig.html"><span class="color-template color-template-whirligig color-template-background-clip">Whirligig</span></a><br/><span typeof="mw:Error mw:File"></span>10 <a href="honeysuckle.html"><span class="color-template color-template-honeysuckle color-template-background-clip">Honeysuckles</span></a><br/><span typeof="mw:Error mw:File"></span>1 <a href="pink-balloon.html"><span class="color-template color-template-pink-balloon color-template-background-clip">Pink Balloon</span></a><br/>Pumpkin Patch Boost x3<br/>Pumpkin Patch Code Buff
+<td><img alt="Marshmallow Bee" height="25" src="img/Marshmallow_Bee.png" width="25"/>1 <a href="marshmallow-bee.html"><span class="color-template color-template-marshmallow-bee color-template-background-clip">Marshmallow Bee</span></a><br/><img alt="Smooth Dice" height="25" src="img/Smooth_Dice.png" width="25"/>1 <a href="smooth-dice.html"><span class="color-template color-template-smooth-dice color-template-background-clip">Smooth Dice</span></a><br/><img alt="Jelly Beans" height="25" src="img/Jelly_Beans.png" width="25"/>1 <a href="jelly-beans.html"><span class="color-template color-template-jelly-beans color-template-background-clip">Jelly Beans</span></a><br/><img alt="Micro-Converter" height="25" src="img/Micro-Converter.png" width="25"/>1 <a href="micro-converter.html"><span class="color-template color-template-micro-converter color-template-background-clip">Micro-Converter</span></a><br/><img alt="Cloud Vial" height="25" src="img/Cloud_Vial.png" width="25"/>1 <a href="cloud-vial.html"><span class="color-template color-template-cloud-vial color-template-background-clip">Cloud Vial</span></a><br/><img alt="Whirligig" height="25" src="img/Whirligig.png" width="25"/>1 <a href="whirligig.html"><span class="color-template color-template-whirligig color-template-background-clip">Whirligig</span></a><br/><img alt="Honeysuckle" height="25" src="img/Honeysuckle.png" width="25"/>10 <a href="honeysuckle.html"><span class="color-template color-template-honeysuckle color-template-background-clip">Honeysuckles</span></a><br/><img alt="Pink Balloon" height="25" src="img/Pink_Balloon.png" width="25"/>1 <a href="pink-balloon.html"><span class="color-template color-template-pink-balloon color-template-background-clip">Pink Balloon</span></a><br/>Pumpkin Patch Boost x3<br/>Pumpkin Patch Code Buff
 </td></tr>
 <tr>
 <td>DarzethDoodads
@@ -1961,7 +1961,7 @@ Promo **codes** are a feature added in the May 18, 2018 update. It is located at
 </td>
 <td>2022-04-03 –<br/>Undocumented (2024)
 </td>
-<td><span typeof="mw:Error mw:File"></span>1 <a href="marshmallow-bee.html"><span class="color-template color-template-marshmallow-bee color-template-background-clip">Marshmallow Bee</span></a><br/><span typeof="mw:Error mw:File"></span>1 <a href="tropical-drink.html"><span class="color-template color-template-tropical-drink color-template-background-clip">Tropical Drink</span></a><br/><span typeof="mw:Error mw:File"></span>1 <a href="jelly-beans.html"><span class="color-template color-template-jelly-beans color-template-background-clip">Jelly Beans</span></a><br/><span typeof="mw:Error mw:File"></span>1 <a href="stinger.html"><span class="color-template color-template-stinger color-template-background-clip">Stinger</span></a><br/><span typeof="mw:Error mw:File"></span>3 <a href="ticket.html"><span class="color-template color-template-ticket color-template-background-clip">Tickets</span></a><br/><span typeof="mw:Error mw:File"></span>1 <a href="red-balloon.html"><span class="color-template color-template-red-balloon color-template-background-clip">Red Balloon</span></a><br/>Clover Field Code Buff<br/>Coconut Field Code Buff
+<td><img alt="Marshmallow Bee" height="25" src="img/Marshmallow_Bee.png" width="25"/>1 <a href="marshmallow-bee.html"><span class="color-template color-template-marshmallow-bee color-template-background-clip">Marshmallow Bee</span></a><br/><img alt="Tropical Drink" height="25" src="img/Tropical_Drink.png" width="25"/>1 <a href="tropical-drink.html"><span class="color-template color-template-tropical-drink color-template-background-clip">Tropical Drink</span></a><br/><img alt="Jelly Beans" height="25" src="img/Jelly_Beans.png" width="25"/>1 <a href="jelly-beans.html"><span class="color-template color-template-jelly-beans color-template-background-clip">Jelly Beans</span></a><br/><img alt="Stinger" height="25" src="img/Stinger.png" width="25"/>1 <a href="stinger.html"><span class="color-template color-template-stinger color-template-background-clip">Stinger</span></a><br/><img alt="Ticket" height="25" src="img/Ticket.png" width="25"/>3 <a href="ticket.html"><span class="color-template color-template-ticket color-template-background-clip">Tickets</span></a><br/><img alt="Red Balloon" height="25" src="img/Red_Balloon.png" width="25"/>1 <a href="red-balloon.html"><span class="color-template color-template-red-balloon color-template-background-clip">Red Balloon</span></a><br/>Clover Field Code Buff<br/>Coconut Field Code Buff
 </td></tr>
 <tr>
 <td>WeekExtension
@@ -1970,7 +1970,7 @@ Promo **codes** are a feature added in the May 18, 2018 update. It is located at
 </td>
 <td>2023-04-29 –<br/>Undocumented (2024)
 </td>
-<td><span typeof="mw:Error mw:File"></span>1 <a href="marshmallow-bee.html"><span class="color-template color-template-marshmallow-bee color-template-background-clip">Marshmallow Bee</span></a><br/>Wealth Clock Buff x5<br/>Robo Party Blessing x5<br/>Spider Field Boost x3<br/>Strawberry Field Boost x3<br/>Bamboo Field Boost x3<br/>Spider Field Winds x10<br/>Strawberry Field Winds x10<br/>Bamboo Field Winds x10
+<td><img alt="Marshmallow Bee" height="25" src="img/Marshmallow_Bee.png" width="25"/>1 <a href="marshmallow-bee.html"><span class="color-template color-template-marshmallow-bee color-template-background-clip">Marshmallow Bee</span></a><br/>Wealth Clock Buff x5<br/>Robo Party Blessing x5<br/>Spider Field Boost x3<br/>Strawberry Field Boost x3<br/>Bamboo Field Boost x3<br/>Spider Field Winds x10<br/>Strawberry Field Winds x10<br/>Bamboo Field Winds x10
 </td></tr>
 <tr>
 <td>Summersmas
@@ -1997,7 +1997,7 @@ Promo **codes** are a feature added in the May 18, 2018 update. It is located at
 </td>
 <td>2024-10-13 –<br/>2024-10-28
 </td>
-<td><span typeof="mw:Error mw:File"></span>10 <a href="gumdrops.html"><span class="color-template color-template-gumdrops color-template-background-clip">Gumdrops</span></a><br/><span typeof="mw:Error mw:File"></span>5 <a href="jelly-beans.html"><span class="color-template color-template-jelly-beans color-template-background-clip">Jelly Beans</span></a><br/><span typeof="mw:Error mw:File"></span>1 <a href="marshmallow-bee.html"><span class="color-template color-template-marshmallow-bee color-template-background-clip">Marshmallow Bee</span></a><br/><span typeof="mw:Error mw:File"></span>1 <a href="smooth-dice.html"><span class="color-template color-template-smooth-dice color-template-background-clip">Smooth Dice</span></a><br/>Rascal Bee Jelly x1<br/>Pumpkin Patch Boost x4<br/>Pumpkin Patch Winds x15<br/>Conversion Boost (Duration: 1 hour)<br/>Super Smoothie Buff<br/>Unlimited Gumdrops Buff (Duration: 1 minute)
+<td><img alt="Gumdrops" height="25" src="img/Gumdrops.png" width="25"/>10 <a href="gumdrops.html"><span class="color-template color-template-gumdrops color-template-background-clip">Gumdrops</span></a><br/><img alt="Jelly Beans" height="25" src="img/Jelly_Beans.png" width="25"/>5 <a href="jelly-beans.html"><span class="color-template color-template-jelly-beans color-template-background-clip">Jelly Beans</span></a><br/><img alt="Marshmallow Bee" height="25" src="img/Marshmallow_Bee.png" width="25"/>1 <a href="marshmallow-bee.html"><span class="color-template color-template-marshmallow-bee color-template-background-clip">Marshmallow Bee</span></a><br/><img alt="Smooth Dice" height="25" src="img/Smooth_Dice.png" width="25"/>1 <a href="smooth-dice.html"><span class="color-template color-template-smooth-dice color-template-background-clip">Smooth Dice</span></a><br/>Rascal Bee Jelly x1<br/>Pumpkin Patch Boost x4<br/>Pumpkin Patch Winds x15<br/>Conversion Boost (Duration: 1 hour)<br/>Super Smoothie Buff<br/>Unlimited Gumdrops Buff (Duration: 1 minute)
 </td></tr>
 <tr>
 <td>ThreeBeeVee<br/>(With Honeyday)
@@ -2008,7 +2008,7 @@ Promo **codes** are a feature added in the May 18, 2018 update. It is located at
 <p>2024-12-30 –<br/>2025-01-05
 </p>
 </td>
-<td><span typeof="mw:Error mw:File"></span>Honeyday Event<br/><span typeof="mw:Error mw:File"></span>1 <a href="marshmallow-bee.html"><span class="color-template color-template-marshmallow-bee color-template-background-clip">Marshmallow Bee</span></a><br/><span typeof="mw:Error mw:File"></span>1 <a href="loaded-dice.html"><span class="color-template color-template-loaded-dice color-template-background-clip">Loaded Dice</span></a><br/>Mountain Top Field Code<br/>Mountain Top Field Boost x3<br/>Mountain Top Field Winds x13
+<td><span typeof="mw:Error mw:File"></span>Honeyday Event<br/><img alt="Marshmallow Bee" height="25" src="img/Marshmallow_Bee.png" width="25"/>1 <a href="marshmallow-bee.html"><span class="color-template color-template-marshmallow-bee color-template-background-clip">Marshmallow Bee</span></a><br/><img alt="Loaded Dice" height="25" src="img/Loaded_Dice.png" width="25"/>1 <a href="loaded-dice.html"><span class="color-template color-template-loaded-dice color-template-background-clip">Loaded Dice</span></a><br/>Mountain Top Field Code<br/>Mountain Top Field Boost x3<br/>Mountain Top Field Winds x13
 </td></tr>
 <tr>
 <td>MarchIsMerry<br/>(Exclusive to club members)
@@ -2017,7 +2017,7 @@ Promo **codes** are a feature added in the May 18, 2018 update. It is located at
 </td>
 <td>2025-02-28 –<br/>2025-03-15
 </td>
-<td><span typeof="mw:Error mw:File"></span>1 <a href="marshmallow-bee.html"><span class="color-template color-template-marshmallow-bee color-template-background-clip">Marshmallow Bee</span></a><br/><span typeof="mw:Error mw:File"></span>1 <a href="pink-balloon.html"><span class="color-template color-template-pink-balloon color-template-background-clip">Pink Balloon</span></a><br/>Wealth Clock Buff x5<br/>Robo Party Blessing x10<br/>Festive Nymph Blessing x10<br/>Beesmas Repentance (Duration: 8 hours)<br/>Super Smoothie Buff<br/>Cactus Field Boost x4<br/>Cactus Field Winds x15<br/>Cactus Field Code (Duration: 30 minutes)
+<td><img alt="Marshmallow Bee" height="25" src="img/Marshmallow_Bee.png" width="25"/>1 <a href="marshmallow-bee.html"><span class="color-template color-template-marshmallow-bee color-template-background-clip">Marshmallow Bee</span></a><br/><img alt="Pink Balloon" height="25" src="img/Pink_Balloon.png" width="25"/>1 <a href="pink-balloon.html"><span class="color-template color-template-pink-balloon color-template-background-clip">Pink Balloon</span></a><br/>Wealth Clock Buff x5<br/>Robo Party Blessing x10<br/>Festive Nymph Blessing x10<br/>Beesmas Repentance (Duration: 8 hours)<br/>Super Smoothie Buff<br/>Cactus Field Boost x4<br/>Cactus Field Winds x15<br/>Cactus Field Code (Duration: 30 minutes)
 </td></tr>
 <tr>
 <td>LatePresents<br/>(Exclusive to club members)
@@ -2026,7 +2026,7 @@ Promo **codes** are a feature added in the May 18, 2018 update. It is located at
 </td>
 <td>2025-04-29 –<br/>2025-04-30
 </td>
-<td><span typeof="mw:Error mw:File"></span>2 <a href="present.html"><span class="color-template color-template-present color-template-background-clip">Presents</span></a>
+<td><img alt="Present" height="25" src="img/Present.png" width="25"/>2 <a href="present.html"><span class="color-template color-template-present color-template-background-clip">Presents</span></a>
 </td></tr>
 <tr>
 <td>LatePresent<br/>(Exclusive to club members)
@@ -2035,7 +2035,7 @@ Promo **codes** are a feature added in the May 18, 2018 update. It is located at
 </td>
 <td>2025-04-29 –<br/>2025-04-30
 </td>
-<td><span typeof="mw:Error mw:File"></span>1 <a href="present.html"><span class="color-template color-template-present color-template-background-clip">Present</span></a>
+<td><img alt="Present" height="25" src="img/Present.png" width="25"/>1 <a href="present.html"><span class="color-template color-template-present color-template-background-clip">Present</span></a>
 </td></tr>
 <tr>
 <td>777
@@ -2044,7 +2044,7 @@ Promo **codes** are a feature added in the May 18, 2018 update. It is located at
 </td>
 <td>2025-04-05 –<br/>2025-12-26
 </td>
-<td>"🎂Happy 7th Birthday to BSS! 🎈"<br/><span typeof="mw:Error mw:File"></span>Honeyday Event<br/>Super Smoothie Buff<br/>Unlimited Gumdrops (Duration: 7 minutes)<br/>Red Boost x7<br/>White Boost x7<br/>Blue Boost x7<br/>Focus x7<br/>Haste x7<br/>Precision x7<br/>Coconut Field Winds x7<br/>Pine Tree Forest Winds x7<br/>Pepper Patch Winds x7<br/><span typeof="mw:Error mw:File"></span>7 <a href="bitterberry.html"><span class="color-template color-template-bitterberry color-template-background-clip">Bitterberries</span></a><br/><span typeof="mw:Error mw:File"></span>7 <a href="field-dice.html"><span class="color-template color-template-field-dice color-template-background-clip">Field Dice</span></a><br/><span typeof="mw:Error mw:File"></span>7 <a href="whirligig.html"><span class="color-template color-template-whirligig color-template-background-clip">Whirligigs</span></a><br/><span typeof="mw:Error mw:File"></span>7 <a href="ticket.html"><span class="color-template color-template-ticket color-template-background-clip">Tickets</span></a><br/><span typeof="mw:Error mw:File"></span>1 <a href="white-balloon.html"><span class="color-template color-template-white-balloon color-template-background-clip">White Balloon</span></a>
+<td>"🎂Happy 7th Birthday to BSS! 🎈"<br/><span typeof="mw:Error mw:File"></span>Honeyday Event<br/>Super Smoothie Buff<br/>Unlimited Gumdrops (Duration: 7 minutes)<br/>Red Boost x7<br/>White Boost x7<br/>Blue Boost x7<br/>Focus x7<br/>Haste x7<br/>Precision x7<br/>Coconut Field Winds x7<br/>Pine Tree Forest Winds x7<br/>Pepper Patch Winds x7<br/><img alt="Bitterberry" height="25" src="img/Bitterberry.png" width="25"/>7 <a href="bitterberry.html"><span class="color-template color-template-bitterberry color-template-background-clip">Bitterberries</span></a><br/><img alt="Field Dice" height="25" src="img/Field_Dice.png" width="25"/>7 <a href="field-dice.html"><span class="color-template color-template-field-dice color-template-background-clip">Field Dice</span></a><br/><img alt="Whirligig" height="25" src="img/Whirligig.png" width="25"/>7 <a href="whirligig.html"><span class="color-template color-template-whirligig color-template-background-clip">Whirligigs</span></a><br/><img alt="Ticket" height="25" src="img/Ticket.png" width="25"/>7 <a href="ticket.html"><span class="color-template color-template-ticket color-template-background-clip">Tickets</span></a><br/><img alt="White Balloon" height="25" src="img/White_Balloon.png" width="25"/>1 <a href="white-balloon.html"><span class="color-template color-template-white-balloon color-template-background-clip">White Balloon</span></a>
 </td></tr>
 <tr>
 <td>DiscordMillion
@@ -2053,7 +2053,7 @@ Promo **codes** are a feature added in the May 18, 2018 update. It is located at
 </td>
 <td>2026-01-18 –<br/>2026-02-04
 </td>
-<td><span typeof="mw:Error mw:File"></span>Honeyday Event<br/>Mondo Blessing x10<br/><span typeof="mw:Error mw:File"></span>1 <a href="marshmallow-bee.html"><span class="color-template color-template-marshmallow-bee color-template-background-clip">Marshmallow Bee</span></a><br/><span typeof="mw:Error mw:File"></span>1 <a href="pink-balloon.html"><span class="color-template color-template-pink-balloon color-template-background-clip">Pink Balloon</span></a>
+<td><span typeof="mw:Error mw:File"></span>Honeyday Event<br/>Mondo Blessing x10<br/><img alt="Marshmallow Bee" height="25" src="img/Marshmallow_Bee.png" width="25"/>1 <a href="marshmallow-bee.html"><span class="color-template color-template-marshmallow-bee color-template-background-clip">Marshmallow Bee</span></a><br/><img alt="Pink Balloon" height="25" src="img/Pink_Balloon.png" width="25"/>1 <a href="pink-balloon.html"><span class="color-template color-template-pink-balloon color-template-background-clip">Pink Balloon</span></a>
 </td></tr>
 <tr>
 <td>FrogFix
@@ -2062,7 +2062,7 @@ Promo **codes** are a feature added in the May 18, 2018 update. It is located at
 </td>
 <td>2026-01-30 –<br/>2026-02-04
 </td>
-<td><span typeof="mw:Error mw:File"></span>1 <a href="gingerbread-bear.html"><span class="color-template color-template-gingerbread-bear color-template-background-clip">Gingerbread Bear</span></a><br/><span typeof="mw:Error mw:File"></span>1 <a href="marshmallow-bee.html"><span class="color-template color-template-marshmallow-bee color-template-background-clip">Marshmallow Bee</span></a><br/>Wealth Clock Buff x5<br/>Mountain Top Field Boost<br/>Mountain Top Field Capacity
+<td><img alt="Gingerbread Bear" height="25" src="img/Gingerbread_Bear.png" width="25"/>1 <a href="gingerbread-bear.html"><span class="color-template color-template-gingerbread-bear color-template-background-clip">Gingerbread Bear</span></a><br/><img alt="Marshmallow Bee" height="25" src="img/Marshmallow_Bee.png" width="25"/>1 <a href="marshmallow-bee.html"><span class="color-template color-template-marshmallow-bee color-template-background-clip">Marshmallow Bee</span></a><br/>Wealth Clock Buff x5<br/>Mountain Top Field Boost<br/>Mountain Top Field Capacity
 </td></tr></tbody></table>
 
 ### Ready Player Two codes

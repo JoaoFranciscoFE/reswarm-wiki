@@ -1,6 +1,6 @@
 ---
 title: "Magic Bean Shop"
-tags: ["Pages with broken file links", "Locations", "Shops", "Machines"]
+tags: ["Locations", "Shops", "Machines"]
 ---
 
 # Magic Bean Shop
@@ -15,9 +15,9 @@ It is decorated with a small normal sprout on top, along with the magic bean ico
 
 <table class="article-table">
 <tbody><tr>
-<th><span typeof="mw:Error mw:File"></span><a href="magic-bean.html"><span class="color-template color-template-magic-bean color-template-background-clip">Magic Beans</span></a>
+<th><img alt="Magic Bean" height="35" src="img/Magic_Bean.png" width="35"/><a href="magic-bean.html"><span class="color-template color-template-magic-bean color-template-background-clip">Magic Beans</span></a>
 </th>
-<th><span typeof="mw:Error mw:File"></span><a href="ticket.html"><span class="color-template color-template-ticket color-template-background-clip">Tickets</span></a>
+<th><img alt="Ticket" height="35" src="img/Ticket.png" width="35"/><a href="ticket.html"><span class="color-template color-template-ticket color-template-background-clip">Tickets</span></a>
 </th></tr>
 <tr>
 <td>1

@@ -1,6 +1,6 @@
 ---
 title: "Ticket Tent"
-tags: ["Pages with broken file links", "Shops", "Locations", "Starter Zone"]
+tags: ["Shops", "Locations", "Starter Zone"]
 ---
 
 # Ticket Tent
@@ -25,7 +25,7 @@ The **Ticket Tent** is a [shop](shops.md) located behind the [Red Cannon](red-ca
 <tbody><tr>
 <th>Item
 </th>
-<th><span typeof="mw:Error mw:File"></span><a href="ticket.html"><span class="color-template color-template-ticket color-template-background-clip">Tickets</span></a>
+<th><img alt="Ticket" height="35" src="img/Ticket.png" width="35"/><a href="ticket.html"><span class="color-template color-template-ticket color-template-background-clip">Tickets</span></a>
 </th>
 <th>Description
 </th></tr>
@@ -64,7 +64,7 @@ The **Ticket Tent** is a [shop](shops.md) located behind the [Red Cannon](red-ca
 <tbody><tr>
 <th>Item
 </th>
-<th><span typeof="mw:Error mw:File"></span><a href="ticket.html"><span class="color-template color-template-ticket color-template-background-clip">Tickets</span></a>
+<th><img alt="Ticket" height="35" src="img/Ticket.png" width="35"/><a href="ticket.html"><span class="color-template color-template-ticket color-template-background-clip">Tickets</span></a>
 </th>
 <th>Description
 </th></tr>
@@ -117,7 +117,7 @@ The **Ticket Tent** is a [shop](shops.md) located behind the [Red Cannon](red-ca
 <tbody><tr>
 <th>Item
 </th>
-<th><span typeof="mw:Error mw:File"></span><a href="ticket.html"><span class="color-template color-template-ticket color-template-background-clip">Tickets</span></a>
+<th><img alt="Ticket" height="35" src="img/Ticket.png" width="35"/><a href="ticket.html"><span class="color-template color-template-ticket color-template-background-clip">Tickets</span></a>
 </th>
 <th>Description
 </th></tr>
@@ -135,7 +135,7 @@ The **Ticket Tent** is a [shop](shops.md) located behind the [Red Cannon](red-ca
 <tbody><tr>
 <th>Item
 </th>
-<th><span typeof="mw:Error mw:File"></span><a href="ticket.html"><span class="color-template color-template-ticket color-template-background-clip">Tickets</span></a>
+<th><img alt="Ticket" height="35" src="img/Ticket.png" width="35"/><a href="ticket.html"><span class="color-template color-template-ticket color-template-background-clip">Tickets</span></a>
 </th>
 <th>Description
 </th></tr>
@@ -153,10 +153,6 @@ The **Ticket Tent** is a [shop](shops.md) located behind the [Red Cannon](red-ca
 </td>
 <td>A baby bear who follows you around, collecting Tokens and occasionally granting gifts!
 </td></tr></tbody></table>
-
-## Gallery
-
-<div class="wikia-gallery wikia-gallery-caption-below wikia-gallery-position-left wikia-gallery-spacing-medium wikia-gallery-border-small wikia-gallery-captions-left wikia-gallery-caption-size-medium" data-seq-no="0" hash="a2f686b1c40749c30074d1fcb9a9c35c" id="gallery-0"><div class="wikia-gallery-caption"></div><div class="wikia-gallery-item" style="width:187px; "><div class="thumb" style="height:187px;"><div class="gallery-image-wrapper accent" id="Image_2024-10-10_140310517-png" style="position: relative; height:185px; width:185px;"><span style="line-height: 1;">Image 2024-10-10 140310517.png</span></div></div><div class="lightbox-caption" style="width:185px;">A player standing out of bounds, next to the Ticket Tent.</div></div></div>
 
 ## Trivia
 

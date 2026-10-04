@@ -1,6 +1,6 @@
 ---
 title: "Goo"
-tags: ["Pages with broken file links", "Mechanics", "Gummy Invasion", "Goo"]
+tags: ["Mechanics", "Gummy Invasion", "Goo"]
 ---
 
 # Goo

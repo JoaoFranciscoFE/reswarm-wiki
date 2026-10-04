@@ -1,6 +1,6 @@
 ---
 title: "Fire Bee"
-tags: ["Pages with broken file links", "Bees", "Epic", "Red"]
+tags: ["Bees", "Epic", "Red"]
 ---
 
 # Fire Bee
@@ -401,10 +401,6 @@ Fire Bee likes the [Mushroom Field](mushroom-field.md), and [Strawberry Field](s
 </td><td>2.45455%
 </td></tr>
 </tbody></table>
-
-## Gallery
-
-<div class="wikia-gallery wikia-gallery-caption-below wikia-gallery-position-left wikia-gallery-spacing-medium wikia-gallery-border-small wikia-gallery-captions-left wikia-gallery-caption-size-medium" data-seq-no="0" hash="d8deb1dc9fbf8eb7f9ee8a3e845a85f3" id="gallery-0"><div class="wikia-gallery-caption"></div><div class="wikia-gallery-item" style="width:187px; "><div class="thumb" style="height:187px;"><div class="gallery-image-wrapper accent" id="Firebee-PNG" style="position: relative; height:185px; width:185px;"><span style="line-height: 1;">Firebee.PNG</span></div></div><div class="lightbox-caption" style="width:185px;">A Fire Bee hive slot.</div></div><div class="wikia-gallery-item" style="width:187px; "><div class="thumb" style="height:187px;"><div class="gallery-image-wrapper accent" id="FireBeeHiveSlotOld-jpg" style="position: relative; height:185px; width:185px;"><span style="line-height: 1;">FireBeeHiveSlotOld.jpg</span></div></div><div class="lightbox-caption" style="width:185px;">An old Fire Bee hive slot.</div></div><div class="wikia-gallery-item" style="width:187px; "><div class="thumb" style="height:187px;"><div class="gallery-image-wrapper accent" id="Png_-12--png" style="position: relative; height:185px; width:185px;"><span style="line-height: 1;">Png (12).png</span></div></div><div class="lightbox-caption" style="width:185px;">Fire Bee's face.</div></div><div class="wikia-gallery-item" style="width:187px; "><div class="thumb" style="height:187px;"><div class="gallery-image-wrapper accent" id="Firefaceoriginal-png" style="position: relative; height:185px; width:185px;"><span style="line-height: 1;">Firefaceoriginal.png</span></div></div><div class="lightbox-caption" style="width:185px;">Fire Bee's original face.</div></div><div class="wikia-gallery-item" style="width:187px; "><div class="thumb" style="height:187px;"><div class="gallery-image-wrapper accent" id="FireBeeNotification-png" style="position: relative; height:185px; width:185px;"><span style="line-height: 1;">FireBeeNotification.png</span></div></div><div class="lightbox-caption" style="width:185px;">Looker Bee transforming into a Fire Bee.</div></div><div class="wikia-gallery-item" style="width:187px; "><div class="thumb" style="height:187px;"><div class="gallery-image-wrapper accent" id="FireBeeJelly-png" style="position: relative; height:185px; width:185px;"><span style="line-height: 1;">FireBeeJelly.png</span></div></div><div class="lightbox-caption" style="width:185px;">A Fire Bee Jelly in a player's inventory.</div></div></div>
 
 ## Trivia
 

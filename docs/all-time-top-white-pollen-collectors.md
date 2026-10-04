@@ -1,6 +1,6 @@
 ---
 title: "All-Time Top White Pollen Collectors"
-tags: ["Pages with broken file links", "Leaderboards", "Locations", "Colorless"]
+tags: ["Leaderboards", "Locations", "Colorless"]
 ---
 
 # All-Time Top White Pollen Collectors

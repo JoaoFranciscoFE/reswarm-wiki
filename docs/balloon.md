@@ -1,6 +1,6 @@
 ---
 title: "Balloon"
-tags: ["Pages with broken file links", "Mechanics", "Items", "Inventory", "Consumables", "Balloons"]
+tags: ["Mechanics", "Items", "Inventory", "Consumables", "Balloons"]
 ---
 
 # Balloon
@@ -133,10 +133,6 @@ Gold balloons are able to buff [bubbles](passive-abilities.md#Gathering_Bubbles)
 ## Audio
 
 The sounds Inflate Balloons make.
-
-## Gallery
-
-<div class="wikia-gallery wikia-gallery-caption-below wikia-gallery-position-left wikia-gallery-spacing-medium wikia-gallery-border-small wikia-gallery-captions-left wikia-gallery-caption-size-medium" data-seq-no="0" hash="6e69ff9947eaaa75af9b43d3939e337f" id="gallery-0"><div class="wikia-gallery-caption"></div><div class="wikia-gallery-item" style="width:187px; "><div class="thumb" style="height:187px;"><div class="gallery-image-wrapper accent" id="Ballon-png" style="position: relative; height:185px; width:185px;"><span style="line-height: 1;">Ballon.png</span></div></div><div class="lightbox-caption" style="width:185px;">A blue balloon summoned by a <a href="buoyant-bee.html">Buoyant Bee</a>.</div></div><div class="wikia-gallery-item" style="width:187px; "><div class="thumb" style="height:187px;"><div class="gallery-image-wrapper accent" id="GoldenBalloon-png" style="position: relative; height:185px; width:185px;"><span style="line-height: 1;">GoldenBalloon.png</span></div></div><div class="lightbox-caption" style="width:185px;">A gold balloon summoned by a Surprise Party.</div></div><div class="wikia-gallery-item" style="width:187px; "><div class="thumb" style="height:187px;"><div class="gallery-image-wrapper accent" id="Red_Balloom-webp" style="position: relative; height:185px; width:185px;"><span style="line-height: 1;">Red Balloom.webp</span></div></div><div class="lightbox-caption" style="width:185px;">A red balloon summoned by a player.</div></div><div class="wikia-gallery-item" style="width:187px; "><div class="thumb" style="height:187px;"><div class="gallery-image-wrapper accent" id="Black_Balloom-webp" style="position: relative; height:185px; width:185px;"><span style="line-height: 1;">Black Balloom.webp</span></div></div><div class="lightbox-caption" style="width:185px;">A black balloon summoned by a player.</div></div><div class="wikia-gallery-item" style="width:187px; "><div class="thumb" style="height:187px;"><div class="gallery-image-wrapper accent" id="Pink_balloon-webp" style="position: relative; height:185px; width:185px;"><span style="line-height: 1;">Pink balloon.webp</span></div></div><div class="lightbox-caption" style="width:185px;">A pink balloon summoned by a player.</div></div><div class="wikia-gallery-item" style="width:187px; "><div class="thumb" style="height:187px;"><div class="gallery-image-wrapper accent" id="White_Balloom-webp" style="position: relative; height:185px; width:185px;"><span style="line-height: 1;">White Balloom.webp</span></div></div><div class="lightbox-caption" style="width:185px;">A white balloon summoned by a player.</div></div><div class="wikia-gallery-item" style="width:187px; "><div class="thumb" style="height:187px;"><div class="gallery-image-wrapper accent" id="BalloonAura-png" style="position: relative; height:185px; width:185px;"><span style="line-height: 1;">BalloonAura.png</span></div></div><div class="lightbox-caption" style="width:185px;">The Balloon Aura icon.</div></div><div class="wikia-gallery-item" style="width:187px; "><div class="thumb" style="height:187px;"><div class="gallery-image-wrapper accent" id="Blessing-png" style="position: relative; height:185px; width:185px;"><span style="line-height: 1;">Blessing.png</span></div></div><div class="lightbox-caption" style="width:185px;">The Balloon Blessing icon.</div></div></div>
 
 ## Trivia
 

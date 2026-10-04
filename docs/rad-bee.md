@@ -1,6 +1,6 @@
 ---
 title: "Rad Bee"
-tags: ["Pages with broken file links", "Bees", "Rare", "Red"]
+tags: ["Bees", "Rare", "Red"]
 ---
 
 # Rad Bee
@@ -400,10 +400,6 @@ Rad Bee likes the [Mushroom Field](mushroom-field.md) and the [Rose Field](rose-
 </td><td>7.77778%
 </td></tr>
 </tbody></table>
-
-## Gallery
-
-<div class="wikia-gallery wikia-gallery-caption-below wikia-gallery-position-left wikia-gallery-spacing-medium wikia-gallery-border-small wikia-gallery-captions-left wikia-gallery-caption-size-medium" data-seq-no="0" hash="13ff159599925cbac7b0e55169ec2df1" id="gallery-0"><div class="wikia-gallery-caption"></div><div class="wikia-gallery-item" style="width:187px; "><div class="thumb" style="height:187px;"><div class="gallery-image-wrapper accent" id="RadBee_Hive-png" style="position: relative; height:185px; width:185px;"><span style="line-height: 1;">RadBee Hive.png</span></div></div><div class="lightbox-caption" style="width:185px;">Rad Bee's old hive design.</div></div><div class="wikia-gallery-item" style="width:187px; "><div class="thumb" style="height:187px;"><div class="gallery-image-wrapper accent" id="GiftedRadBeeHive-PNG" style="position: relative; height:185px; width:185px;"><span style="line-height: 1;">GiftedRadBeeHive.PNG</span></div></div><div class="lightbox-caption" style="width:185px;">A Gifted Rad Bee hive slot.</div></div><div class="wikia-gallery-item" style="width:187px; "><div class="thumb" style="height:187px;"><div class="gallery-image-wrapper accent" id="Png_-6--png" style="position: relative; height:185px; width:185px;"><span style="line-height: 1;">Png (6).png</span></div></div><div class="lightbox-caption" style="width:185px;">Rad Bee's face.</div></div><div class="wikia-gallery-item" style="width:187px; "><div class="thumb" style="height:187px;"><div class="gallery-image-wrapper accent" id="Radbeejelly-png" style="position: relative; height:185px; width:185px;"><span style="line-height: 1;">Radbeejelly.png</span></div></div><div class="lightbox-caption" style="width:185px;">A Rad Bee jelly in a player's inventory.</div></div><div class="wikia-gallery-item" style="width:187px; "><div class="thumb" style="height:187px;"><div class="gallery-image-wrapper accent" id="Mutated_rad_bee-png" style="position: relative; height:185px; width:185px;"><span style="line-height: 1;">Mutated rad bee.png</span></div></div><div class="lightbox-caption" style="width:185px;">A mutated Rad Bee.</div></div><div class="wikia-gallery-item" style="width:187px; "><div class="thumb" style="height:187px;"><div class="gallery-image-wrapper accent" id="Hivesticker_flying_rad_bee-png" style="position: relative; height:185px; width:185px;"><span style="line-height: 1;">Hivesticker flying rad bee.png</span></div></div><div class="lightbox-caption" style="width:185px;">The Flying Rad Bee <a href="sticker.html">sticker</a>.</div></div></div>
 
 ## Trivia
 

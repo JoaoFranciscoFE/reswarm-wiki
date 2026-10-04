@@ -1,6 +1,6 @@
 ---
 title: "Blue Field Booster"
-tags: ["Machines", "Pages with broken file links", "Locations", "Blue", "Field Boosters"]
+tags: ["Machines", "Locations", "Blue", "Field Boosters"]
 ---
 
 # Blue Field Booster
@@ -38,10 +38,6 @@ The following audio plays when the Blue Field Booster is activated:
 * [Bamboo Field](bamboo-field.md): +100% Pollen
 * [Pine Tree Forest](pine-tree-forest.md): +100% Pollen
 * [Stump Field](stump-field.md): +100% Pollen (only if Stump Snail is on respawn cooldown.)
-
-## Gallery
-
-<div class="wikia-gallery wikia-gallery-caption-below wikia-gallery-position-left wikia-gallery-spacing-medium wikia-gallery-border-small wikia-gallery-captions-left wikia-gallery-caption-size-medium" data-seq-no="0" hash="35ab2a768f373b9a6680b66bc8f433e0" id="gallery-0"><div class="wikia-gallery-caption"></div><div class="wikia-gallery-item" style="width:187px; "><div class="thumb" style="height:187px;"><div class="gallery-image-wrapper accent" id="Blue_Flower_Field_Icon-png" style="position: relative; height:185px; width:185px;"><span style="line-height: 1;">Blue Flower Field Icon.png</span></div></div><div class="lightbox-caption" style="width:185px;">The Blue Flower Field boost icon.</div></div><div class="wikia-gallery-item" style="width:187px; "><div class="thumb" style="height:187px;"><div class="gallery-image-wrapper accent" id="Bamboo_Field_Icon-png" style="position: relative; height:185px; width:185px;"><span style="line-height: 1;">Bamboo Field Icon.png</span></div></div><div class="lightbox-caption" style="width:185px;">The Bamboo Field boost icon.</div></div><div class="wikia-gallery-item" style="width:187px; "><div class="thumb" style="height:187px;"><div class="gallery-image-wrapper accent" id="Pine_Tree_Forest_Icon-png" style="position: relative; height:185px; width:185px;"><span style="line-height: 1;">Pine Tree Forest Icon.png</span></div></div><div class="lightbox-caption" style="width:185px;">The Pine Tree Forest boost icon.</div></div><div class="wikia-gallery-item" style="width:187px; "><div class="thumb" style="height:187px;"><div class="gallery-image-wrapper accent" id="Stump_Field_Icon-png" style="position: relative; height:185px; width:185px;"><span style="line-height: 1;">Stump Field Icon.png</span></div></div><div class="lightbox-caption" style="width:185px;">The Stump Field boost icon.</div></div></div>
 
 ## Trivia
 

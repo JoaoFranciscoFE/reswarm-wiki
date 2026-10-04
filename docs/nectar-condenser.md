@@ -1,6 +1,6 @@
 ---
 title: "Nectar Condenser"
-tags: ["Machines", "Pages with broken file links", "Locations"]
+tags: ["Machines", "Locations"]
 ---
 
 # Nectar Condenser
@@ -43,10 +43,6 @@ When condensing nectar, it has a 1/25 (4%) chance to drop a [sticker](sticker.md
 * Invigorating in [Pepper Patch](pepper-patch.md).
 
 If you try to condense a nectar but already have 10 or more of that type of vial, a message will pop up saying: “You already have 10 or more [nectar type] Vials."
-
-## Gallery
-
-<div class="wikia-gallery wikia-gallery-caption-below wikia-gallery-position-left wikia-gallery-spacing-medium wikia-gallery-border-small wikia-gallery-captions-left wikia-gallery-caption-size-medium" data-seq-no="1" hash="a528cf7a8f975efbd92ea4ae542ccb4c" id="gallery-1"><div class="wikia-gallery-caption"></div><div class="wikia-gallery-item" style="width:187px; "><div class="thumb" style="height:187px;"><div class="gallery-image-wrapper accent" id="NectarCondenserLocked-png" style="position: relative; height:185px; width:185px;"><span style="line-height: 1;">NectarCondenserLocked.png</span></div></div><div class="lightbox-caption" style="width:185px;">Being unable to use the Nectar Condenser.</div></div><div class="wikia-gallery-item" style="width:187px; "><div class="thumb" style="height:187px;"><div class="gallery-image-wrapper accent" id="Condenser_max-png" style="position: relative; height:185px; width:185px;"><span style="line-height: 1;">Condenser max.png</span></div></div><div class="lightbox-caption" style="width:185px;">The message that appears when a player has 10 or more of a certain type of Nectar Vial.</div></div></div>
 
 ## Trivia
 

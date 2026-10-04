@@ -1,6 +1,6 @@
 ---
 title: "Beequip"
-tags: ["Pages with broken file links", "Items", "Beequips", "Inventory"]
+tags: ["Items", "Beequips", "Inventory"]
 ---
 
 # Beequip
@@ -43,7 +43,7 @@ Permanent beequips can be stored in the 'Permanents' section of the Beequip Stor
 <caption>Extra storage slots
 </caption>
 <tbody><tr>
-<th><span typeof="mw:Error mw:File"></span><a href="ticket.html"><span class="color-template color-template-ticket color-template-background-clip">Tickets</span></a>
+<th><img alt="Ticket" height="35" src="img/Ticket.png" width="35"/><a href="ticket.html"><span class="color-template color-template-ticket color-template-background-clip">Tickets</span></a>
 </th>
 <th>Total storage
 </th></tr>
@@ -138,7 +138,7 @@ Permanent beequips can be stored in the 'Permanents' section of the Beequip Stor
 <td>100
 </td></tr>
 <tr>
-<th colspan="2">Total: <span typeof="mw:Error mw:File"></span>123,500 <a href="ticket.html"><span class="color-template color-template-ticket color-template-background-clip">Tickets</span></a>
+<th colspan="2">Total: <img alt="Ticket" height="25" src="img/Ticket.png" width="25"/>123,500 <a href="ticket.html"><span class="color-template color-template-ticket color-template-background-clip">Tickets</span></a>
 </th></tr></tbody></table>
 
 ## Generation
@@ -184,22 +184,22 @@ The amount of wax points a wax can give is given by the below table:
 <th>Wax points
 </th></tr>
 <tr>
-<td><span typeof="mw:Error mw:File"></span><a href="soft-wax.html"><span class="color-template color-template-soft-wax">Soft Wax</span></a>
+<td><img alt="Soft Wax" height="35" src="img/Soft_Wax.png" width="35"/><a href="soft-wax.html"><span class="color-template color-template-soft-wax">Soft Wax</span></a>
 </td>
 <td>1
 </td></tr>
 <tr>
-<td><span typeof="mw:Error mw:File"></span><a href="hard-wax.html"><span class="color-template color-template-hard-wax">Hard Wax</span></a>
+<td><img alt="Hard Wax" height="35" src="img/Hard_Wax.png" width="35"/><a href="hard-wax.html"><span class="color-template color-template-hard-wax">Hard Wax</span></a>
 </td>
 <td>2
 </td></tr>
 <tr>
-<td><span typeof="mw:Error mw:File"></span><a href="caustic-wax.html"><span class="color-template color-template-caustic-wax">Caustic Wax</span></a> / <span typeof="mw:Error mw:File"></span><a href="debug-wax.html"><span class="color-template color-template-debug-wax">Debug Wax</span></a>
+<td><img alt="Caustic Wax" height="35" src="img/Caustic_Wax.png" width="35"/><a href="caustic-wax.html"><span class="color-template color-template-caustic-wax">Caustic Wax</span></a> / <img alt="Debug Wax" height="35" src="img/Debug_Wax.png" width="35"/><a href="debug-wax.html"><span class="color-template color-template-debug-wax">Debug Wax</span></a>
 </td>
 <td>4
 </td></tr>
 <tr>
-<td><span typeof="mw:Error mw:File"></span><a href="swirled-wax.html"><span class="color-template color-template-swirled-wax color-template-background-clip">Swirled Wax</span></a>
+<td><img alt="Swirled Wax" height="35" src="img/Swirled_Wax.png" width="35"/><a href="swirled-wax.html"><span class="color-template color-template-swirled-wax color-template-background-clip">Swirled Wax</span></a>
 </td>
 <td>0
 </td></tr></tbody></table>
@@ -213,10 +213,6 @@ A stat may only be upgraded a certain number of times. When a stat reaches its m
 Usually, the better the beequip's potential is, the more likely the wax point is to choose rarer stats, and the wax point is more likely to upgrade the chosen stat by a higher amount. However, due to some quirks with the generation, this may not be the case, and the probability of a wax point picking a stat is randomized.
 
 Interally, this process is done using a complex function. For more information on how this function works, visit the linked module page. For more information on how this function is used, visit [the linked subsection.](beequip-generation.md#Upgrade)
-
-## Gallery
-
-<div class="wikia-gallery wikia-gallery-caption-below wikia-gallery-position-left wikia-gallery-spacing-medium wikia-gallery-border-small wikia-gallery-captions-left wikia-gallery-caption-size-medium" data-seq-no="0" hash="5070d46f17a66c3e15312f4413c89391" id="gallery-0"><div class="wikia-gallery-caption"></div><div class="wikia-gallery-item" style="width:187px; "><div class="thumb" style="height:187px;"><div class="gallery-image-wrapper accent" id="BeequipSample-png" style="position: relative; height:185px; width:185px;"><span style="line-height: 1;">BeequipSample.png</span></div></div><div class="lightbox-caption" style="width:185px;">A beequip in the Beequip Storage or Case.</div></div><div class="wikia-gallery-item" style="width:187px; "><div class="thumb" style="height:187px;"><div class="gallery-image-wrapper accent" id="BeequipLevelCropped-png" style="position: relative; height:185px; width:185px;"><span style="line-height: 1;">BeequipLevelCropped.png</span></div></div><div class="lightbox-caption" style="width:185px;">Clicking the level for a beequip.</div></div><div class="wikia-gallery-item" style="width:187px; "><div class="thumb" style="height:187px;"><div class="gallery-image-wrapper accent" id="BeequipColorCropped-png" style="position: relative; height:185px; width:185px;"><span style="line-height: 1;">BeequipColorCropped.png</span></div></div><div class="lightbox-caption" style="width:185px;">Clicking the color for a beequip.</div></div><div class="wikia-gallery-item" style="width:187px; "><div class="thumb" style="height:187px;"><div class="gallery-image-wrapper accent" id="BeequipLimitCropped-png" style="position: relative; height:185px; width:185px;"><span style="line-height: 1;">BeequipLimitCropped.png</span></div></div><div class="lightbox-caption" style="width:185px;">Clicking the limit for a beequip.</div></div><div class="wikia-gallery-item" style="width:187px; "><div class="thumb" style="height:187px;"><div class="gallery-image-wrapper accent" id="BeequipPotentialCropped-png" style="position: relative; height:185px; width:185px;"><span style="line-height: 1;">BeequipPotentialCropped.png</span></div></div><div class="lightbox-caption" style="width:185px;">Clicking the potential for a beequip.</div></div><div class="wikia-gallery-item" style="width:187px; "><div class="thumb" style="height:187px;"><div class="gallery-image-wrapper accent" id="BeequipBeesmasCropped-png" style="position: relative; height:185px; width:185px;"><span style="line-height: 1;">BeequipBeesmasCropped.png</span></div></div><div class="lightbox-caption" style="width:185px;">Clicking the Beesmas icon for a Beesmas beequip.</div></div><div class="wikia-gallery-item" style="width:187px; "><div class="thumb" style="height:187px;"><div class="gallery-image-wrapper accent" id="BeequipToken1-png" style="position: relative; height:185px; width:185px;"><span style="line-height: 1;">BeequipToken1.png</span></div></div><div class="lightbox-caption" style="width:185px;">A beequip token's old design, with an orange color.</div></div><div class="wikia-gallery-item" style="width:187px; "><div class="thumb" style="height:187px;"><div class="gallery-image-wrapper accent" id="BeequipToken2-png" style="position: relative; height:185px; width:185px;"><span style="line-height: 1;">BeequipToken2.png</span></div></div><div class="lightbox-caption" style="width:185px;">A beequip token's current design, with a green color.</div></div><div class="wikia-gallery-item" style="width:187px; "><div class="thumb" style="height:187px;"><div class="gallery-image-wrapper accent" id="Permanent_Beequip-webp" style="position: relative; height:185px; width:185px;"><span style="line-height: 1;">Permanent Beequip.webp</span></div></div><div class="lightbox-caption" style="width:185px;">A permanent beequip in a player's Beequip Case prior to the <a href="updates.html">2024-05-23 update</a>.</div></div></div>
 
 ## Beequips
 

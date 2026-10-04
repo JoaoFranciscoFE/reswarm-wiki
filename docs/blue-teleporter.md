@@ -1,6 +1,6 @@
 ---
 title: "Blue Teleporter"
-tags: ["Pages with broken file links", "Transport", "Locations", "Machines", "Blue"]
+tags: ["Transport", "Locations", "Machines", "Blue"]
 ---
 
 # Blue Teleporter

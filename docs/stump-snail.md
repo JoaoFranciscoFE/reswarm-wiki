@@ -1,6 +1,6 @@
 ---
 title: "Stump Snail"
-tags: ["Mobs", "Pages with broken file links", "Mini Bosses"]
+tags: ["Mobs", "Mini Bosses"]
 ---
 
 # Stump Snail
@@ -31,7 +31,7 @@ Once defeated, it takes 96 hours (4 days) to respawn. If the player has the [Gif
 </th></tr>
 <tr>
 <td><a href="shell-amulet.html">Shell Amulet</a> (at least bronze)<br/>
-<p><span typeof="mw:Error mw:File"></span>30,000,000 <a href="honey.html"><span class="color-template color-template-honey">Honey</span></a><br/>
+<p><img alt="Honey" height="25" src="img/Honey.png" width="25"/>30,000,000 <a href="honey.html"><span class="color-template color-template-honey">Honey</span></a><br/>
 <span typeof="mw:Error mw:File"></span>1-100 <a href="glue.html"><span class="color-template color-template-glue color-template-background-clip">Glues</span></a><br/>
 <span typeof="mw:Error mw:File"></span>1-10 <a href="royal-jelly.html#Star_Jelly"><span class="color-template color-template-star-jelly color-template-background-clip">Star Jellies</span></a><br/>
 <span typeof="mw:Error mw:File"></span>5-25 <a href="gingerbread-bear.html"><span class="color-template color-template-gingerbread-bear color-template-background-clip">Gingerbread Bears</span></a> (Beesmas only)
@@ -54,17 +54,17 @@ Once defeated, it takes 96 hours (4 days) to respawn. If the player has the [Gif
 <span typeof="mw:Error mw:File"></span>100-2,500 <a href="gumdrops.html"><span class="color-template color-template-gumdrops color-template-background-clip">Gumdrops</span></a><br/>
 <span typeof="mw:Error mw:File"></span>1-25 <a href="magic-bean.html"><span class="color-template color-template-magic-bean color-template-background-clip">Magic Beans</span></a><br/>
 <span typeof="mw:Error mw:File"></span>1-100 <a href="neonberry.html"><span class="color-template color-template-neonberry color-template-background-clip">Neonberries</span></a><br/>
-<span typeof="mw:Error mw:File"></span><a href="egg.html#Gold_Egg"><span class="color-template color-template-gold-egg color-template-background-clip">Gold Egg</span></a> (Rare)<br/>
-<span typeof="mw:Error mw:File"></span><a href="egg.html#Diamond_Egg"><span class="color-template color-template-diamond-egg color-template-background-clip">Diamond Egg</span></a> (Rare)<br/>
-<span typeof="mw:Error mw:File"></span><a href="egg.html#Gifted_Silver_Egg"><span class="color-template color-template-gifted-silver-egg color-template-background-clip">Gifted Silver Egg</span></a> (Very Rare)<br/>
-<span typeof="mw:Error mw:File"></span><a href="egg.html#Gifted_Gold_Egg"><span class="color-template color-template-gifted-gold-egg color-template-background-clip">Gifted Gold Egg</span></a> (Very Rare)<br/>
-<span typeof="mw:Error mw:File"></span><a href="egg.html#Gifted_Diamond_Egg"><span class="color-template color-template-gifted-diamond-egg color-template-background-clip">Gifted Diamond Egg</span></a> (Very Rare)<br/>
-<span typeof="mw:Error mw:File"></span><a href="egg.html#Star_Egg"><span class="color-template color-template-star-egg color-template-background-clip">Star Egg</span></a> (Nearly Impossible)<br/>
-<span typeof="mw:Error mw:File"></span><a href="egg.html#Mythic_Egg"><span class="color-template color-template-mythic-egg color-template-background-clip">Mythic Egg</span></a> (Extremely Rare)<br/>
-<span typeof="mw:Error mw:File"></span><a href="sticker.html#Sticker_Index"><span class="color-template color-template-right-facing-stump-snail-sticker color-template-background-clip">Right Facing Stump Snail Sticker</span></a> (Rare)<br/>
-<span typeof="mw:Error mw:File"></span><a href="sticker.html#Sticker_Index"><span class="color-template color-template-basic-green-hive-skin color-template-background-clip">Basic Green Hive Skin</span></a> (Extremely Rare)<br/>
-<span typeof="mw:Error mw:File"></span><a href="sticker.html#Sticker_Index"><span class="color-template color-template-left-gold-swirl-fleuron-sticker color-template-background-clip">Left Gold Swirl Fleuron Sticker</span></a> (Unfathomably Rare)<br/>
-<span typeof="mw:Error mw:File"></span><a href="sticker.html#Sticker_Index"><span class="color-template color-template-right-gold-swirl-fleuron-sticker color-template-background-clip">Right Gold Swirl Fleuron Sticker</span></a> (Unfathomably Rare)
+<img alt="Gold Egg" height="35" src="img/Gold_Egg.png" width="35"/><a href="egg.html#Gold_Egg"><span class="color-template color-template-gold-egg color-template-background-clip">Gold Egg</span></a> (Rare)<br/>
+<img alt="Diamond Egg" height="35" src="img/Diamond_Egg.png" width="35"/><a href="egg.html#Diamond_Egg"><span class="color-template color-template-diamond-egg color-template-background-clip">Diamond Egg</span></a> (Rare)<br/>
+<img alt="Gifted Silver Egg" height="35" src="img/Gifted_Silver_Egg.png" width="35"/><a href="egg.html#Gifted_Silver_Egg"><span class="color-template color-template-gifted-silver-egg color-template-background-clip">Gifted Silver Egg</span></a> (Very Rare)<br/>
+<img alt="Gifted Gold Egg" height="35" src="img/Gifted_Gold_Egg.png" width="35"/><a href="egg.html#Gifted_Gold_Egg"><span class="color-template color-template-gifted-gold-egg color-template-background-clip">Gifted Gold Egg</span></a> (Very Rare)<br/>
+<img alt="Gifted Diamond Egg" height="35" src="img/Gifted_Diamond_Egg.png" width="35"/><a href="egg.html#Gifted_Diamond_Egg"><span class="color-template color-template-gifted-diamond-egg color-template-background-clip">Gifted Diamond Egg</span></a> (Very Rare)<br/>
+<img alt="Star Egg" height="35" src="img/Star_Egg.png" width="35"/><a href="egg.html#Star_Egg"><span class="color-template color-template-star-egg color-template-background-clip">Star Egg</span></a> (Nearly Impossible)<br/>
+<img alt="Mythic Egg" height="35" src="img/Mythic_Egg.png" width="35"/><a href="egg.html#Mythic_Egg"><span class="color-template color-template-mythic-egg color-template-background-clip">Mythic Egg</span></a> (Extremely Rare)<br/>
+<img alt="Sticker" height="35" src="img/Sticker.png" width="35"/><a href="sticker.html#Sticker_Index"><span class="color-template color-template-right-facing-stump-snail-sticker color-template-background-clip">Right Facing Stump Snail Sticker</span></a> (Rare)<br/>
+<img alt="Basic Green Hive Skin" height="35" src="img/Basic_Green_Hive_Skin.png" width="35"/><a href="sticker.html#Sticker_Index"><span class="color-template color-template-basic-green-hive-skin color-template-background-clip">Basic Green Hive Skin</span></a> (Extremely Rare)<br/>
+<img alt="Sticker" height="35" src="img/Sticker.png" width="35"/><a href="sticker.html#Sticker_Index"><span class="color-template color-template-left-gold-swirl-fleuron-sticker color-template-background-clip">Left Gold Swirl Fleuron Sticker</span></a> (Unfathomably Rare)<br/>
+<img alt="Sticker" height="35" src="img/Sticker.png" width="35"/><a href="sticker.html#Sticker_Index"><span class="color-template color-template-right-gold-swirl-fleuron-sticker color-template-background-clip">Right Gold Swirl Fleuron Sticker</span></a> (Unfathomably Rare)
 </p>
 </td></tr></tbody></table>
 
@@ -80,10 +80,6 @@ Once defeated, it takes 96 hours (4 days) to respawn. If the player has the [Gif
 * When AFK, a [cub buddy](cub-buddy.md) is recommended as it is capable of collecting tokens the player would otherwise miss.
 * [Stingers](stinger.md) greatly boost attack, [Oil](oil.md) increases [Bee Movespeed](stats.md#Speed), and [Tropical Drinks](tropical-drink.md) increase critical chance by 5%.
 * During the Beesmas 2020, 2021, 2022, summer 2024 events, and 2025, the summoned bees from [Onett's Lid Art](onett-s-lid-art.md), [Honeyday Candles](honeyday-candles.md), and Gummy Siege could be used to attack the Stump Snail.
-
-## Gallery
-
-<div class="wikia-gallery wikia-gallery-caption-below wikia-gallery-position-left wikia-gallery-spacing-medium wikia-gallery-border-small wikia-gallery-captions-left wikia-gallery-caption-size-medium" data-seq-no="0" hash="f276f066395679de81baf1da15680896" id="gallery-0"><div class="wikia-gallery-caption"></div><div class="wikia-gallery-item" style="width:187px; "><div class="thumb" style="height:187px;"><div class="gallery-image-wrapper accent" id="Hivesticker_right_facing_stump_snail-png" style="position: relative; height:185px; width:185px;"><span style="line-height: 1;">Hivesticker right facing stump snail.png</span></div></div><div class="lightbox-caption" style="width:185px;">The Right Facing Stump Snail <a href="sticker.html">Sticker</a>.</div></div></div>
 
 ## Trivia
 

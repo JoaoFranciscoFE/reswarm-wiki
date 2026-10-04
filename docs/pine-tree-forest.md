@@ -1,6 +1,6 @@
 ---
 title: "Pine Tree Forest"
-tags: ["Pages with broken file links", "Locations", "Fields", "Blue"]
+tags: ["Locations", "Fields", "Blue"]
 ---
 
 # Pine Tree Forest
@@ -169,10 +169,6 @@ This is a 23x31 field, containing 713 [flowers](flowers.md). The flowers are whi
   * 2Billion (Gave Pine Tree Forest Winds x15 and Pine Tree Forest Code buff + other stuff).
   * Discord100k (Gave Pine Tree Forest Boost x3 + other stuff).
 * Purchasing a Pine Tree Forest [Market Boost](buffs-debuffs.md#From_Areas) from the [Boost Market](boost-market.md) will give x1.5 Pine Tree [Forest Capacity](field-capacity.md), x1.25 Pine Tree Forest Pollen. x1.25 [Blue Bomb Pollen](system-page.md#Blue_Bomb_Pollen), and x1.25 [Convert Rate At Hive](system-page.md#Hive_Convert_Rate).
-
-## Gallery
-
-<div class="wikia-gallery wikia-gallery-caption-below wikia-gallery-position-left wikia-gallery-spacing-medium wikia-gallery-border-small wikia-gallery-captions-left wikia-gallery-caption-size-medium" data-seq-no="0" hash="dad501d8fcfe6cf02b380ec2d0bbef15" id="gallery-0"><div class="wikia-gallery-caption"></div><div class="wikia-gallery-item" style="width:187px; "><div class="thumb" style="height:187px;"><div class="gallery-image-wrapper accent" id="Static_Pine_Tree-png" style="position: relative; height:185px; width:185px;"><span style="line-height: 1;">Static Pine Tree.png</span></div></div><div class="lightbox-caption" style="width:185px;">One of the field's pine trees that hasn't moved, located by the Honey Bee Gate.</div></div><div class="wikia-gallery-item" style="width:187px; "><div class="thumb" style="height:187px;"><div class="gallery-image-wrapper accent" id="Pine_Tree_Forest_Icon-png" style="position: relative; height:185px; width:185px;"><span style="line-height: 1;">Pine Tree Forest Icon.png</span></div></div><div class="lightbox-caption" style="width:185px;">The Pine Tree Forest boost icon.</div></div><div class="wikia-gallery-item" style="width:187px; "><div class="thumb" style="height:187px;"><div class="gallery-image-wrapper accent" id="Hivesticker_pine_tree_forest_stamp-png" style="position: relative; height:185px; width:185px;"><span style="line-height: 1;">Hivesticker pine tree forest stamp.png</span></div></div><div class="lightbox-caption" style="width:185px;">The Pine Tree Forest's associated <a href="sticker.html">field stamp</a>.</div></div></div>
 
 ## Trivia
 

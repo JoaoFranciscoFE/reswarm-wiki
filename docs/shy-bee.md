@@ -1,6 +1,6 @@
 ---
 title: "Shy Bee"
-tags: ["Pages with broken file links", "Bees", "Legendary", "Red"]
+tags: ["Bees", "Legendary", "Red"]
 ---
 
 # Shy Bee
@@ -402,10 +402,6 @@ Shy Bee likes the [Strawberry Field](strawberry-field.md) and the [Pumpkin Patch
 </td><td>0.375%
 </td></tr>
 </tbody></table>
-
-## Gallery
-
-<div class="wikia-gallery wikia-gallery-caption-below wikia-gallery-position-left wikia-gallery-spacing-medium wikia-gallery-border-small wikia-gallery-captions-left wikia-gallery-caption-size-medium" data-seq-no="0" hash="751a32f18bfe47501b2cec044b87176e" id="gallery-0"><div class="wikia-gallery-caption"></div><div class="wikia-gallery-item" style="width:187px; "><div class="thumb" style="height:187px;"><div class="gallery-image-wrapper accent" id="ShyBee_Hive-png" style="position: relative; height:185px; width:185px;"><span style="line-height: 1;">ShyBee Hive.png</span></div></div><div class="lightbox-caption" style="width:185px;">Shy Bee's old hive slot design.</div></div><div class="wikia-gallery-item" style="width:187px; "><div class="thumb" style="height:187px;"><div class="gallery-image-wrapper accent" id="Gifted_Shy_Bee-PNG" style="position: relative; height:185px; width:185px;"><span style="line-height: 1;">Gifted Shy Bee.PNG</span></div></div><div class="lightbox-caption" style="width:185px;">A Gifted Shy Bee hive slot.</div></div><div class="wikia-gallery-item" style="width:187px; "><div class="thumb" style="height:187px;"><div class="gallery-image-wrapper accent" id="575F2148-83DD-43BE-8BF5-3861C4F9FD9C-jpeg" style="position: relative; height:185px; width:185px;"><span style="line-height: 1;">575F2148-83DD-43BE-8BF5-3861C4F9FD9C.jpeg</span></div></div><div class="lightbox-caption" style="width:185px;">The smoke trail from a Shy Bee.</div></div><div class="wikia-gallery-item" style="width:187px; "><div class="thumb" style="height:187px;"><div class="gallery-image-wrapper accent" id="Png_-24--png" style="position: relative; height:185px; width:185px;"><span style="line-height: 1;">Png (24).png</span></div></div><div class="lightbox-caption" style="width:185px;">Shy Bee's face.</div></div><div class="wikia-gallery-item" style="width:187px; "><div class="thumb" style="height:187px;"><div class="gallery-image-wrapper accent" id="Shyfaceoriginal-png" style="position: relative; height:185px; width:185px;"><span style="line-height: 1;">Shyfaceoriginal.png</span></div></div><div class="lightbox-caption" style="width:185px;">Shy Bee's original face.</div></div></div>
 
 ## Trivia
 

@@ -1,6 +1,6 @@
 ---
 title: "Rage Bee"
-tags: ["Pages with broken file links", "Bees", "Epic", "Red"]
+tags: ["Bees", "Epic", "Red"]
 ---
 
 # Rage Bee
@@ -401,10 +401,6 @@ Rage Bee likes the [Spider Field](spider-field.md) and [Rose Field](rose-field.m
 </td><td>2.45455%
 </td></tr>
 </tbody></table>
-
-## Gallery
-
-<div class="wikia-gallery wikia-gallery-caption-below wikia-gallery-position-left wikia-gallery-spacing-medium wikia-gallery-border-small wikia-gallery-captions-left wikia-gallery-caption-size-medium" data-seq-no="0" hash="991bee7bae44bf8cd029acde280525a8" id="gallery-0"><div class="wikia-gallery-caption"></div><div class="wikia-gallery-item" style="width:187px; "><div class="thumb" style="height:187px;"><div class="gallery-image-wrapper accent" id="GiftedRageBee_Slot-png" style="position: relative; height:185px; width:185px;"><span style="line-height: 1;">GiftedRageBee Slot.png</span></div></div><div class="lightbox-caption" style="width:185px;">A Gifted Rage Bee hive slot.</div></div><div class="wikia-gallery-item" style="width:187px; "><div class="thumb" style="height:187px;"><div class="gallery-image-wrapper accent" id="Rage-png" style="position: relative; height:185px; width:185px;"><span style="line-height: 1;">Rage.png</span></div></div><div class="lightbox-caption" style="width:185px;">A Rage Token.</div></div><div class="wikia-gallery-item" style="width:187px; "><div class="thumb" style="height:187px;"><div class="gallery-image-wrapper accent" id="RageFace-png" style="position: relative; height:185px; width:185px;"><span style="line-height: 1;">RageFace.png</span></div></div><div class="lightbox-caption" style="width:185px;">Rage Bee's face.</div></div><div class="wikia-gallery-item" style="width:187px; "><div class="thumb" style="height:187px;"><div class="gallery-image-wrapper accent" id="Rage_Bee_Jelly-png" style="position: relative; height:185px; width:185px;"><span style="line-height: 1;">Rage Bee Jelly.png</span></div></div><div class="lightbox-caption" style="width:185px;">A Rage Bee Jelly in a player's inventory.</div></div></div>
 
 ## Trivia
 

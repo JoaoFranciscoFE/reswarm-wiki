@@ -1,6 +1,6 @@
 ---
 title: "All-Time Top Honeymakers"
-tags: ["Pages with broken file links", "Locations", "Leaderboards", "Starter Zone"]
+tags: ["Locations", "Leaderboards", "Starter Zone"]
 ---
 
 # All-Time Top Honeymakers
@@ -340,10 +340,6 @@ It is located near the [hives](hive.md) and on the opposite side of the fence to
 </td>
 <td>ruiream surpassed FragileSilence.
 </td></tr></tbody></table>
-
-## Gallery
-
-<div class="wikia-gallery wikia-gallery-caption-below wikia-gallery-position-left wikia-gallery-spacing-medium wikia-gallery-border-small wikia-gallery-captions-left wikia-gallery-caption-size-medium" data-seq-no="0" hash="e2d7616951649c2569d1fe7d277a543c" id="gallery-0"><div class="wikia-gallery-caption"></div><div class="wikia-gallery-item" style="width:187px; "><div class="thumb" style="height:187px;"><div class="gallery-image-wrapper accent" id="SDMittens100Bil-png" style="position: relative; height:185px; width:185px;"><span style="line-height: 1;">SDMittens100Bil.png</span></div></div><div class="lightbox-caption" style="width:185px;">The game-wide message when SDMittens reached 100 billion total honey.</div></div><div class="wikia-gallery-item" style="width:187px; "><div class="thumb" style="height:187px;"><div class="gallery-image-wrapper accent" id="SDMittens1Tril-png" style="position: relative; height:185px; width:185px;"><span style="line-height: 1;">SDMittens1Tril.png</span></div></div><div class="lightbox-caption" style="width:185px;">The game-wide message when SDMittens reached 1 trillion total honey.</div></div><div class="wikia-gallery-item" style="width:187px; "><div class="thumb" style="height:187px;"><div class="gallery-image-wrapper accent" id="Gumaden10Tril-png" style="position: relative; height:185px; width:185px;"><span style="line-height: 1;">Gumaden10Tril.png</span></div></div><div class="lightbox-caption" style="width:185px;">The game-wide message when Gumaden reached 10 trillion total honey.</div></div><div class="wikia-gallery-item" style="width:187px; "><div class="thumb" style="height:187px;"><div class="gallery-image-wrapper accent" id="Mocito100tril-png" style="position: relative; height:185px; width:185px;"><span style="line-height: 1;">Mocito100tril.png</span></div></div><div class="lightbox-caption" style="width:185px;">The game-wide announcement when MrMocito reached 100 trillion total honey.</div></div><div class="wikia-gallery-item" style="width:187px; "><div class="thumb" style="height:187px;"><div class="gallery-image-wrapper accent" id="HoneydayMiracle1T_e_lol-png" style="position: relative; height:185px; width:185px;"><span style="line-height: 1;">HoneydayMiracle1T e lol.png</span></div></div><div class="lightbox-caption" style="width:185px;">The game-wide message when e_lolYouTube reached 1 quadrillion total honey.</div></div></div>
 
 ## History
 

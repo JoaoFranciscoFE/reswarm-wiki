@@ -1,6 +1,6 @@
 ---
 title: "Top Bear"
-tags: ["Pages with broken file links", "NPC", "Bears"]
+tags: ["NPC", "Bears"]
 ---
 
 # Top Bear
@@ -79,10 +79,6 @@ tags: ["Pages with broken file links", "NPC", "Bears"]
 **Top Bear** is a bear who runs the [Mountain Top Shop](mountain-top-shop.md). Like other Shop Bears, Top Bear's presence is not required to make any purchases in the shop.
 
 Top Bear's appearance is yellow skin, white shirt, green pants, and a smiley face. Top Bear is similar to [Noob Bear](noob-bear.md) and [Pro Bear](pro-bear.md), as the only difference between them is the colors of their clothing.
-
-## Gallery
-
-<div class="wikia-gallery wikia-gallery-caption-below wikia-gallery-position-left wikia-gallery-spacing-medium wikia-gallery-border-small wikia-gallery-captions-left wikia-gallery-caption-size-medium" data-seq-no="0" hash="33a6044860b6e6e9255d77a19eba1f04" id="gallery-0"><div class="wikia-gallery-caption"></div><div class="wikia-gallery-item" style="width:187px; "><div class="thumb" style="height:187px;"><div class="gallery-image-wrapper accent" id="Top_Bear_killed-gif" style="position: relative; height:185px; width:185px;"><span style="line-height: 1;">Top Bear killed.gif</span></div></div><div class="lightbox-caption" style="width:185px;">Top Bear killed by a Vicious Bee.</div></div></div>
 
 ## Trivia
 

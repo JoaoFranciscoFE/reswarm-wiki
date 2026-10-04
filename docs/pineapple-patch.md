@@ -1,6 +1,6 @@
 ---
 title: "Pineapple Patch"
-tags: ["Pages with broken file links", "Locations", "Fields", "Colorless"]
+tags: ["Locations", "Fields", "Colorless"]
 ---
 
 # Pineapple Patch
@@ -176,10 +176,6 @@ This is a 33x23 field, containing 759 [flowers](flowers.md). The flowers are whi
   * OffToOrlando (Gave Pineapple Patch Boost x3 and Pineapple Patch Winds x5 + other stuff).
   * Market (Gave Pineapple Patch Market Boost + other stuff).
   * PineappleParty (Gave Pineapple Patch Boost x3, Pineapple Patch Capacity x3, and Pineapple Market Boost x3 + other stuff.)
-
-## Gallery
-
-<div class="wikia-gallery wikia-gallery-caption-below wikia-gallery-position-left wikia-gallery-spacing-medium wikia-gallery-border-small wikia-gallery-captions-left wikia-gallery-caption-size-medium" data-seq-no="0" hash="d2411c2a260ce0cae12608c2b8d68989" id="gallery-0"><div class="wikia-gallery-caption"></div><div class="wikia-gallery-item" style="width:187px; "><div class="thumb" style="height:141px;"><div class="gallery-image-wrapper accent" id="Pineapple_face-png" style="position: relative; height:139px; width:185px;"><span style="line-height: 1;">Pineapple face.png</span></div></div><div class="lightbox-caption" style="width:185px;">The Pineapple's face when it is blowing <a href="sparkles.html">sparkles</a>.</div></div><div class="wikia-gallery-item" style="width:187px; "><div class="thumb" style="height:141px;"><div class="gallery-image-wrapper accent" id="Currentpineappletoken-png" style="position: relative; height:139px; width:185px;"><span style="line-height: 1;">Currentpineappletoken.png</span></div></div><div class="lightbox-caption" style="width:185px;">The pineapple token behind the pineapple closest to the Pro Shop.</div></div><div class="wikia-gallery-item" style="width:187px; "><div class="thumb" style="height:141px;"><div class="gallery-image-wrapper accent" id="Ticketonpineapple-png" style="position: relative; height:139px; width:185px;"><span style="line-height: 1;">Ticketonpineapple.png</span></div></div><div class="lightbox-caption" style="width:185px;">The ticket token on the giant pineapple.</div></div><div class="wikia-gallery-item" style="width:187px; "><div class="thumb" style="height:141px;"><div class="gallery-image-wrapper accent" id="PineappleSpitFace-png" style="position: relative; height:139px; width:185px;"><span style="line-height: 1;">PineappleSpitFace.png</span></div></div><div class="lightbox-caption" style="width:185px;">The Pineapple's face before blowing sparkles.</div></div><div class="wikia-gallery-item" style="width:187px; "><div class="thumb" style="height:141px;"><div class="gallery-image-wrapper accent" id="Hivesticker_pineapple_patch_stamp-png" style="position: relative; height:139px; width:185px;"><span style="line-height: 1;">Hivesticker pineapple patch stamp.png</span></div></div><div class="lightbox-caption" style="width:185px;">The Pineapple Patch's associated <a href="sticker.html">field stamp</a>.</div></div></div>
 
 ## Trivia
 

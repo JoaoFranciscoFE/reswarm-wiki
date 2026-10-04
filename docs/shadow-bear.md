@@ -1,6 +1,6 @@
 ---
 title: "Shadow Bear"
-tags: ["Pages with broken file links", "Bears", "NPC"]
+tags: ["Bears", "NPC"]
 ---
 
 # Shadow Bear

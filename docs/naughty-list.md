@@ -1,6 +1,6 @@
 ---
 title: "Naughty List"
-tags: ["Pages with broken file links", "Unobtainable", "Beesmas", "Locations", "Machines", "Summoner", "Beesmas Decorations"]
+tags: ["Unobtainable", "Beesmas", "Locations", "Machines", "Summoner", "Beesmas Decorations"]
 ---
 
 # Naughty List
@@ -21,10 +21,6 @@ It is located on top of the [30 Bee Gate](bear-gate.md), between [Night Memory M
 If a player attempts to use it without completing Bubble Bee Man's quest, the pop up will read: There aren't any names on the Naughty List. That can't be right...
 
 ## Audio
-
-## Gallery
-
-<div class="wikia-gallery wikia-gallery-caption-below wikia-gallery-position-left wikia-gallery-spacing-medium wikia-gallery-border-small wikia-gallery-captions-left wikia-gallery-caption-size-medium" data-seq-no="0" hash="1297ad5d2ac723beafb006e4f53e127d" id="gallery-0"><div class="wikia-gallery-caption"></div><div class="wikia-gallery-item" style="width:187px; "><div class="thumb" style="height:187px;"><div class="gallery-image-wrapper accent" id="Naughty_List_b-png" style="position: relative; height:185px; width:185px;"><span style="line-height: 1;">Naughty List b.png</span></div></div><div class="lightbox-caption" style="width:185px;">Bubble Bee Man’s naughty list before completing Bubble Bee Man's quest During Beesmas 2020.</div></div><div class="wikia-gallery-item" style="width:187px; "><div class="thumb" style="height:187px;"><div class="gallery-image-wrapper accent" id="Screenshot_2021-02-10_085723-png" style="position: relative; height:185px; width:185px;"><span style="line-height: 1;">Screenshot 2021-02-10 085723.png</span></div></div><div class="lightbox-caption" style="width:185px;">Bubble Bee Man's Naughty List text after completing his Beesmas quest.</div></div><div class="wikia-gallery-item" style="width:187px; "><div class="thumb" style="height:187px;"><div class="gallery-image-wrapper accent" id="Flying_coal-png" style="position: relative; height:185px; width:185px;"><span style="line-height: 1;">Flying coal.png</span></div></div><div class="lightbox-caption" style="width:185px;">The coal that attempts to kill the player when someone uses Bubble Bee Man's naughty list.</div></div><div class="wikia-gallery-item" style="width:187px; "><div class="thumb" style="height:187px;"><div class="gallery-image-wrapper accent" id="91220A96-42FE-4594-AA79-B05439647154-jpg" style="position: relative; height:185px; width:185px;"><span style="line-height: 1;">91220A96-42FE-4594-AA79-B05439647154.jpg</span></div></div><div class="lightbox-caption" style="width:185px;">The Beesmas Repentance Buff.</div></div><div class="wikia-gallery-item" style="width:187px; "><div class="thumb" style="height:187px;"><div class="gallery-image-wrapper accent" id="Lump_Of_Coal-png" style="position: relative; height:185px; width:185px;"><span style="line-height: 1;">Lump Of Coal.png</span></div></div><div class="lightbox-caption" style="width:185px;">A Lump of Coal icon.</div></div></div>
 
 ## Trivia
 

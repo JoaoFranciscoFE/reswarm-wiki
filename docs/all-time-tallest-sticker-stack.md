@@ -1,6 +1,6 @@
 ---
 title: "All-Time Tallest Sticker Stack"
-tags: ["Pages with broken file links", "Leaderboards", "Locations"]
+tags: ["Leaderboards", "Locations"]
 ---
 
 # All-Time Tallest Sticker Stack

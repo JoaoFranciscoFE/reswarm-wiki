@@ -1,6 +1,6 @@
 ---
 title: "Blueberry Dispenser"
-tags: ["Pages with broken file links", "Machines", "Locations", "Dispenser", "Blue"]
+tags: ["Machines", "Locations", "Dispenser", "Blue"]
 ---
 
 # Blueberry Dispenser
@@ -17,7 +17,7 @@ Datamined information: The formula for the amount of Honey and Blueberries recei
 <h2 class="pi-item pi-header pi-secondary-font pi-item-spacing pi-secondary-background">Information</h2>
 <div class="pi-item pi-data pi-item-spacing pi-border-color" data-source="usage">
 <h3 class="pi-data-label pi-secondary-font">Usage</h3>
-<div class="pi-data-value pi-font">Grants:<p><span typeof="mw:Error mw:File"></span><a href="blueberry.html"><span class="color-template color-template-blueberry color-template-background-clip">Blueberries</span></a> <br/><span typeof="mw:Error mw:File"></span><a href="honey.html"><span class="color-template color-template-honey">Honey</span></a> <br/><span typeof="mw:Error mw:File"></span>x10 <a href="ability-tokens.html#Boost"><span class="color-template color-template-blue-boost-token color-template-background-clip">Blue Boost Tokens</span></a> <br/><span typeof="mw:Error mw:File"></span>x5 <a href="ability-tokens.html#Haste"><span class="color-template color-template-haste color-template-background-clip">Haste</span></a> <br/></p></div>
+<div class="pi-data-value pi-font">Grants:<p><img alt="Blueberry" height="35" src="img/Blueberry.png" width="35"/><a href="blueberry.html"><span class="color-template color-template-blueberry color-template-background-clip">Blueberries</span></a> <br/><img alt="Honey" height="35" src="img/Honey.png" width="35"/><a href="honey.html"><span class="color-template color-template-honey">Honey</span></a> <br/><span typeof="mw:Error mw:File"></span>x10 <a href="ability-tokens.html#Boost"><span class="color-template color-template-blue-boost-token color-template-background-clip">Blue Boost Tokens</span></a> <br/><img alt="Haste" height="25" src="img/Haste.png" width="25"/>x5 <a href="ability-tokens.html#Haste"><span class="color-template color-template-haste color-template-background-clip">Haste</span></a> <br/></p></div>
 </div>
 <div class="pi-item pi-data pi-item-spacing pi-border-color" data-source="requirement">
 <h3 class="pi-data-label pi-secondary-font">Requirement(s)</h3>

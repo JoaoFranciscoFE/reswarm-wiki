@@ -1,6 +1,6 @@
 ---
 title: "All-Time Top Polar Bear Helpers"
-tags: ["Pages with broken file links", "Leaderboards"]
+tags: ["Leaderboards"]
 ---
 
 # All-Time Top Polar Bear Helpers

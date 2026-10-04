@@ -1,6 +1,6 @@
 ---
 title: "Treat Dispenser"
-tags: ["Pages with broken file links", "Machines", "Locations", "Dispenser"]
+tags: ["Machines", "Locations", "Dispenser"]
 ---
 
 # Treat Dispenser
@@ -17,7 +17,7 @@ Datamined information: The formula for the amount of Honey and Treats received b
 <h2 class="pi-item pi-header pi-secondary-font pi-item-spacing pi-secondary-background">Information</h2>
 <div class="pi-item pi-data pi-item-spacing pi-border-color" data-source="usage">
 <h3 class="pi-data-label pi-secondary-font">Usage</h3>
-<div class="pi-data-value pi-font">Gives <span typeof="mw:Error mw:File"></span><a href="honey.html"><span class="color-template color-template-honey">Honey</span></a>, <span typeof="mw:Error mw:File"></span><a href="treat.html"><span class="color-template color-template-treat">Treats</span></a>, <span typeof="mw:Error mw:File"></span><a href="pineapple.html"><span class="color-template color-template-pineapple color-template-background-clip">Pineapples</span></a> and <span typeof="mw:Error mw:File"></span><a href="ability-tokens.html#Haste"><span class="color-template color-template-haste color-template-background-clip">Haste</span></a></div>
+<div class="pi-data-value pi-font">Gives <img alt="Honey" height="35" src="img/Honey.png" width="35"/><a href="honey.html"><span class="color-template color-template-honey">Honey</span></a>, <img alt="Treat" height="35" src="img/Treat.png" width="35"/><a href="treat.html"><span class="color-template color-template-treat">Treats</span></a>, <img alt="Pineapple" height="35" src="img/Pineapple.png" width="35"/><a href="pineapple.html"><span class="color-template color-template-pineapple color-template-background-clip">Pineapples</span></a> and <img alt="Haste" height="35" src="img/Haste.png" width="35"/><a href="ability-tokens.html#Haste"><span class="color-template color-template-haste color-template-background-clip">Haste</span></a></div>
 </div>
 <div class="pi-item pi-data pi-item-spacing pi-border-color" data-source="requirement">
 <h3 class="pi-data-label pi-secondary-font">Requirement(s)</h3>
@@ -51,15 +51,15 @@ Below is a table of the amount of honey and treats a player receives, given the 
 <tbody><tr>
 <th>Bees
 </th>
-<th><span typeof="mw:Error mw:File"></span><a href="honey.html"><span class="color-template color-template-honey">Honey</span></a>
+<th><img alt="Honey" height="35" src="img/Honey.png" width="35"/><a href="honey.html"><span class="color-template color-template-honey">Honey</span></a>
 </th>
-<th><span typeof="mw:Error mw:File"></span><a href="treat.html"><span class="color-template color-template-treat">Treats</span></a>
+<th><img alt="Treat" height="35" src="img/Treat.png" width="35"/><a href="treat.html"><span class="color-template color-template-treat">Treats</span></a>
 </th>
 <th>Bees
 </th>
-<th><span typeof="mw:Error mw:File"></span><a href="honey.html"><span class="color-template color-template-honey">Honey</span></a>
+<th><img alt="Honey" height="35" src="img/Honey.png" width="35"/><a href="honey.html"><span class="color-template color-template-honey">Honey</span></a>
 </th>
-<th><span typeof="mw:Error mw:File"></span><a href="treat.html"><span class="color-template color-template-treat">Treats</span></a>
+<th><img alt="Treat" height="35" src="img/Treat.png" width="35"/><a href="treat.html"><span class="color-template color-template-treat">Treats</span></a>
 </th></tr>
 <tr>
 <td><span style="border-bottom:1px dotted;" title="You cannot use the Treat Dispenser if you have less than 10 bees.">0-9</span>
@@ -334,10 +334,6 @@ Below is a table of the amount of honey and treats a player receives, given the 
 </td>
 <td>177
 </td></tr></tbody></table>
-
-## Gallery
-
-<div class="wikia-gallery wikia-gallery-caption-below wikia-gallery-position-left wikia-gallery-spacing-medium wikia-gallery-border-small wikia-gallery-captions-left wikia-gallery-caption-size-medium" data-seq-no="0" hash="e7dbfa3a11337568d421baac4901b98d" id="gallery-0"><div class="wikia-gallery-caption"></div><div class="wikia-gallery-item" style="width:187px; "><div class="thumb" style="height:187px;"><div class="gallery-image-wrapper accent" id="RobloxScreenShot20200924_160948470_-1--png" style="position: relative; height:185px; width:185px;"><span style="line-height: 1;">RobloxScreenShot20200924 160948470 (1).png</span></div></div><div class="lightbox-caption" style="width:185px;">The cooldown timer for attempting to use the Treat Dispenser within an hour of its last usage.</div></div><div class="wikia-gallery-item" style="width:187px; "><div class="thumb" style="height:187px;"><div class="gallery-image-wrapper accent" id="TreatDispenser1-png" style="position: relative; height:185px; width:185px;"><span style="line-height: 1;">TreatDispenser1.png</span></div></div><div class="lightbox-caption" style="width:185px;">The rewards from using the Treat Dispenser with 50 bees.</div></div></div>
 
 ## Trivia
 

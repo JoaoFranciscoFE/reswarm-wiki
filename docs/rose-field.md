@@ -1,6 +1,6 @@
 ---
 title: "Rose Field"
-tags: ["Pages with broken file links", "Locations", "Fields", "Red"]
+tags: ["Locations", "Fields", "Red"]
 ---
 
 # Rose Field
@@ -167,10 +167,6 @@ This is a 20×31 field, containing 620 [flowers](flowers.md). The flowers are re
   * RebootFriday (Gave Rose Field Code Boost + other stuff).
   * 5mMembers (Gave Rose Field Boost x3 and Rose Field Capacity x3 + other stuff).
 * Purchasing a Rose Field [Market Boost](buffs-debuffs.md#From_Areas) from the [Boost Market](boost-market.md) gave 1.25x Rose Field Pollen along with x1.5 Rose [Field Capacity](field-capacity.md), +10% [Bee Attack](system-page.md#Bee_Attack), and +50 [Convert Amount](system-page.md#Convert_Amount).
-
-## Gallery
-
-<div class="wikia-gallery wikia-gallery-caption-below wikia-gallery-position-left wikia-gallery-spacing-medium wikia-gallery-border-small wikia-gallery-captions-left wikia-gallery-caption-size-medium" data-seq-no="0" hash="a015c1041db420d6ac6b047a35895ad5" id="gallery-0"><div class="wikia-gallery-caption"></div><div class="wikia-gallery-item" style="width:187px; "><div class="thumb" style="height:187px;"><div class="gallery-image-wrapper accent" id="Screenshot_11-png" style="position: relative; height:185px; width:185px;"><span style="line-height: 1;">Screenshot 11.png</span></div></div><div class="lightbox-caption" style="width:185px;">The part of the field that used to clip outside of the map.</div></div><div class="wikia-gallery-item" style="width:187px; "><div class="thumb" style="height:187px;"><div class="gallery-image-wrapper accent" id="CurrentLookOfTheRoseFieldRJToken-png" style="position: relative; height:185px; width:185px;"><span style="line-height: 1;">CurrentLookOfTheRoseFieldRJToken.png</span></div></div><div class="lightbox-caption" style="width:185px;">The royal jelly token above Rose Field.</div></div><div class="wikia-gallery-item" style="width:187px; "><div class="thumb" style="height:187px;"><div class="gallery-image-wrapper accent" id="Hivesticker_rose_field_stamp-png" style="position: relative; height:185px; width:185px;"><span style="line-height: 1;">Hivesticker rose field stamp.png</span></div></div><div class="lightbox-caption" style="width:185px;">The Rose Field's associated <a href="sticker.html">field stamp</a>.</div></div></div>
 
 ## Trivia
 

@@ -1,6 +1,6 @@
 ---
 title: "Daily Top Memory Matchers"
-tags: ["Pages with broken file links", "Leaderboards"]
+tags: ["Leaderboards"]
 ---
 
 # Daily Top Memory Matchers

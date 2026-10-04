@@ -1,6 +1,6 @@
 ---
 title: "All-Time Top Ant Exterminators"
-tags: ["Pages with broken file links", "Locations", "Leaderboards", "Ant Challenge"]
+tags: ["Locations", "Leaderboards", "Ant Challenge"]
 ---
 
 # All-Time Top Ant Exterminators

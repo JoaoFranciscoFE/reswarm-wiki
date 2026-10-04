@@ -1,6 +1,6 @@
 ---
 title: "Honey Bee (NPC)"
-tags: ["Pages with broken file links", "Removed Content", "NPC", "Quest Bees", "Quest Giver", "Bees"]
+tags: ["Removed Content", "NPC", "Quest Bees", "Quest Giver", "Bees"]
 ---
 
 # Honey Bee (NPC)
@@ -58,7 +58,7 @@ Honey Bee only gives one single, repeatable quest that solely revolve around col
 </p>
 </td>
 <td><span typeof="mw:Error mw:File"></span><span class="arithmatex">\(1,000\times n^{2}+10,000\)</span> <a href="honey.html"><span class="color-template color-template-honey">Honey</span></a>
-<p><span typeof="mw:Error mw:File"></span> <a href="buffs-debuffs.html#From_NPCs">Conversion Boost</a> (30 minutes) <br/>
+<p><img alt="Conversion Boost" height="35" src="img/Conversion_Boost.png" width="35"/> <a href="buffs-debuffs.html#From_NPCs">Conversion Boost</a> (30 minutes) <br/>
 Other items (see #Rewards)
 </p>
 </td></tr></tbody></table>
@@ -74,27 +74,27 @@ An extra reward is chosen based on this table:
 <th>Chance
 </th></tr>
 <tr>
-<td><span typeof="mw:Error mw:File"></span>1 <a href="ticket.html"><span class="color-template color-template-ticket color-template-background-clip">Ticket</span></a>
+<td><img alt="Ticket" height="25" src="img/Ticket.png" width="25"/>1 <a href="ticket.html"><span class="color-template color-template-ticket color-template-background-clip">Ticket</span></a>
 </td>
 <td>~24.39%
 </td></tr>
 <tr>
-<td><span typeof="mw:Error mw:File"></span>10 <a href="treat.html"><span class="color-template color-template-treat">Treats</span></a>
+<td><img alt="Treat" height="25" src="img/Treat.png" width="25"/>10 <a href="treat.html"><span class="color-template color-template-treat">Treats</span></a>
 </td>
 <td>~24.39%
 </td></tr>
 <tr>
-<td><span typeof="mw:Error mw:File"></span>1 <a href="royal-jelly.html"><span class="color-template color-template-royal-jelly color-template-background-clip">Royal Jelly</span></a>
+<td><img alt="Royal Jelly" height="25" src="img/Royal_Jelly.png" width="25"/>1 <a href="royal-jelly.html"><span class="color-template color-template-royal-jelly color-template-background-clip">Royal Jelly</span></a>
 </td>
 <td>~24.39%
 </td></tr>
 <tr>
-<td><span typeof="mw:Error mw:File"></span>5 <a href="sunflower-seed.html"><span class="color-template color-template-sunflower-seed color-template-background-clip">Sunflower Seeds</span></a>
+<td><img alt="Sunflower Seed" height="25" src="img/Sunflower_Seed.png" width="25"/>5 <a href="sunflower-seed.html"><span class="color-template color-template-sunflower-seed color-template-background-clip">Sunflower Seeds</span></a>
 </td>
 <td>~24.39%
 </td></tr>
 <tr>
-<td><span typeof="mw:Error mw:File"></span>1 <a href="magic-bean.html"><span class="color-template color-template-magic-bean color-template-background-clip">Magic Bean</span></a>
+<td><img alt="Magic Bean" height="25" src="img/Magic_Bean.png" width="25"/>1 <a href="magic-bean.html"><span class="color-template color-template-magic-bean color-template-background-clip">Magic Bean</span></a>
 </td>
 <td>~2.439%
 </td></tr></tbody></table>
@@ -146,15 +146,15 @@ You need to be equipping the [Honey Mask](honey-mask.md) and have completed [Bla
 <li>Collect 99 Tokens from the <a href="honey-wreath.html">Honey Wreath</a>.</li>
 <li>Catch 99 Merigold Bloom Petals.</li></ul>
 </td>
-<td><span typeof="mw:Error mw:File"></span>9,999,999,999 <a href="honey.html"><span class="color-template color-template-honey">Honey</span></a><br/>
-<p><span typeof="mw:Error mw:File"></span>99 <a href="ticket.html"><span class="color-template color-template-ticket color-template-background-clip">Tickets</span></a><br/>
-<span typeof="mw:Error mw:File"></span>999,999 <a href="treat.html"><span class="color-template color-template-treat">Treats</span></a><br/>
-<span typeof="mw:Error mw:File"></span>9 <a href="bloom-shaker.html"><span class="color-template color-template-bloom-shaker color-template-background-clip">Bloom Shakers</span></a><br/>
-<span typeof="mw:Error mw:File"></span>9 <a href="enzymes.html"><span class="color-template color-template-enzymes color-template-background-clip">Enzymes</span></a><br/>
-<span typeof="mw:Error mw:File"></span>9 <a href="tropical-drink.html"><span class="color-template color-template-tropical-drink color-template-background-clip">Tropical Drinks</span></a><br/>
-<span typeof="mw:Error mw:File"></span>9 <a href="marshmallow-bee.html"><span class="color-template color-template-marshmallow-bee color-template-background-clip">Marshmallow Bees</span></a><br/>
-<span typeof="mw:Error mw:File"></span>9 <a href="gingerbread-bear.html"><span class="color-template color-template-gingerbread-bear color-template-background-clip">Gingerbread Bears</span></a><br/>
-<span typeof="mw:Error mw:File"></span>1 <a href="pink-shades.html"><span class="color-template color-template-pink-shades color-template-background-clip">Pink Shades</span></a><br/>
+<td><img alt="Honey" height="25" src="img/Honey.png" width="25"/>9,999,999,999 <a href="honey.html"><span class="color-template color-template-honey">Honey</span></a><br/>
+<p><img alt="Ticket" height="25" src="img/Ticket.png" width="25"/>99 <a href="ticket.html"><span class="color-template color-template-ticket color-template-background-clip">Tickets</span></a><br/>
+<img alt="Treat" height="25" src="img/Treat.png" width="25"/>999,999 <a href="treat.html"><span class="color-template color-template-treat">Treats</span></a><br/>
+<img alt="Bloom Shaker" height="25" src="img/Bloom_Shaker.png" width="25"/>9 <a href="bloom-shaker.html"><span class="color-template color-template-bloom-shaker color-template-background-clip">Bloom Shakers</span></a><br/>
+<img alt="Enzymes" height="25" src="img/Enzymes.png" width="25"/>9 <a href="enzymes.html"><span class="color-template color-template-enzymes color-template-background-clip">Enzymes</span></a><br/>
+<img alt="Tropical Drink" height="25" src="img/Tropical_Drink.png" width="25"/>9 <a href="tropical-drink.html"><span class="color-template color-template-tropical-drink color-template-background-clip">Tropical Drinks</span></a><br/>
+<img alt="Marshmallow Bee" height="25" src="img/Marshmallow_Bee.png" width="25"/>9 <a href="marshmallow-bee.html"><span class="color-template color-template-marshmallow-bee color-template-background-clip">Marshmallow Bees</span></a><br/>
+<img alt="Gingerbread Bear" height="25" src="img/Gingerbread_Bear.png" width="25"/>9 <a href="gingerbread-bear.html"><span class="color-template color-template-gingerbread-bear color-template-background-clip">Gingerbread Bears</span></a><br/>
+<img alt="Pink Shades" height="25" src="img/Pink_Shades.png" width="25"/>1 <a href="pink-shades.html"><span class="color-template color-template-pink-shades color-template-background-clip">Pink Shades</span></a><br/>
 <span typeof="mw:Error mw:File"></span> Conversion Boost (2 hours)<br/>
 Summons a <a href="honeystorm.html">Honeystorm</a><br/>
 An upgrade to the <a href="honey-wreath.html">Honey Wreath</a>
@@ -200,15 +200,15 @@ You need to be equipping the [Honey Mask](honey-mask.md) and have completed [Bla
 <li>Collect 99 Tokens from the Honey Wreath.</li>
 <li>Collect 99 Honeysuckles.</li></ul>
 </td>
-<td><span typeof="mw:Error mw:File"></span>9,999,999,999 <a href="honey.html"><span class="color-template color-template-honey">Honey</span></a><br/>
-<p><span typeof="mw:Error mw:File"></span>999,999 <a href="treat.html"><span class="color-template color-template-treat">Treats</span></a><br/>
-<span typeof="mw:Error mw:File"></span>99 <a href="ticket.html"><span class="color-template color-template-ticket color-template-background-clip">Tickets</span></a><br/>
-<span typeof="mw:Error mw:File"></span>9 <a href="marshmallow-bee.html"><span class="color-template color-template-marshmallow-bee color-template-background-clip">Marshmallow Bees</span></a><br/>
-<span typeof="mw:Error mw:File"></span>9 <a href="gingerbread-bear.html"><span class="color-template color-template-gingerbread-bear color-template-background-clip">Gingerbread Bears</span></a><br/>
-<span typeof="mw:Error mw:File"></span>9 <a href="enzymes.html"><span class="color-template color-template-enzymes color-template-background-clip">Enzymes</span></a><br/>
-<span typeof="mw:Error mw:File"></span>9 <a href="tropical-drink.html"><span class="color-template color-template-tropical-drink color-template-background-clip">Tropical Drinks</span></a><br/>
-<span typeof="mw:Error mw:File"></span>9 <a href="micro-converter.html"><span class="color-template color-template-micro-converter color-template-background-clip">Micro-Converters</span></a><br/>
-<span typeof="mw:Error mw:File"></span>1 <a href="pink-shades.html"><span class="color-template color-template-pink-shades color-template-background-clip">Pink Shades</span></a><br/>
+<td><img alt="Honey" height="25" src="img/Honey.png" width="25"/>9,999,999,999 <a href="honey.html"><span class="color-template color-template-honey">Honey</span></a><br/>
+<p><img alt="Treat" height="25" src="img/Treat.png" width="25"/>999,999 <a href="treat.html"><span class="color-template color-template-treat">Treats</span></a><br/>
+<img alt="Ticket" height="25" src="img/Ticket.png" width="25"/>99 <a href="ticket.html"><span class="color-template color-template-ticket color-template-background-clip">Tickets</span></a><br/>
+<img alt="Marshmallow Bee" height="25" src="img/Marshmallow_Bee.png" width="25"/>9 <a href="marshmallow-bee.html"><span class="color-template color-template-marshmallow-bee color-template-background-clip">Marshmallow Bees</span></a><br/>
+<img alt="Gingerbread Bear" height="25" src="img/Gingerbread_Bear.png" width="25"/>9 <a href="gingerbread-bear.html"><span class="color-template color-template-gingerbread-bear color-template-background-clip">Gingerbread Bears</span></a><br/>
+<img alt="Enzymes" height="25" src="img/Enzymes.png" width="25"/>9 <a href="enzymes.html"><span class="color-template color-template-enzymes color-template-background-clip">Enzymes</span></a><br/>
+<img alt="Tropical Drink" height="25" src="img/Tropical_Drink.png" width="25"/>9 <a href="tropical-drink.html"><span class="color-template color-template-tropical-drink color-template-background-clip">Tropical Drinks</span></a><br/>
+<img alt="Micro-Converter" height="25" src="img/Micro-Converter.png" width="25"/>9 <a href="micro-converter.html"><span class="color-template color-template-micro-converter color-template-background-clip">Micro-Converters</span></a><br/>
+<img alt="Pink Shades" height="25" src="img/Pink_Shades.png" width="25"/>1 <a href="pink-shades.html"><span class="color-template color-template-pink-shades color-template-background-clip">Pink Shades</span></a><br/>
 Summons a <a href="honeystorm.html">Honeystorm</a><br/>
 An upgrade to the <a href="honey-wreath.html">Honey Wreath</a>
 </p>
@@ -254,17 +254,17 @@ You need to be equipping the [Honey Mask](honey-mask.md) and have completed [Bla
 <li>Obtain 9 Honey Dipper Stickers to give to Honey Bee.</li>
 <li>Obtain 9 Honey Bee Bear Stickers to give to Honey Bee.</li></ul>
 </td>
-<td><span typeof="mw:Error mw:File"></span>999,999,999 <a href="honey.html"><span class="color-template color-template-honey">Honey</span></a><br/>
-<p><span typeof="mw:Error mw:File"></span>999,999 <a href="treat.html"><span class="color-template color-template-treat">Treats</span></a><br/>
-<span typeof="mw:Error mw:File"></span>99 <a href="ticket.html"><span class="color-template color-template-ticket color-template-background-clip">Tickets</span></a><br/>
-<span typeof="mw:Error mw:File"></span>9 <a href="marshmallow-bee.html"><span class="color-template color-template-marshmallow-bee color-template-background-clip">Marshmallow Bees</span></a><br/>
-<span typeof="mw:Error mw:File"></span>9 <a href="gingerbread-bear.html"><span class="color-template color-template-gingerbread-bear color-template-background-clip">Gingerbread Bears</span></a><br/>
-<span typeof="mw:Error mw:File"></span>9 <a href="royal-jelly.html#Star_Jelly"><span class="color-template color-template-star-jelly color-template-background-clip">Star Jellies</span></a><br/>
-<span typeof="mw:Error mw:File"></span>9 <a href="purple-potion.html"><span class="color-template color-template-purple-potion color-template-background-clip">Purple Potions</span></a><br/>
-<span typeof="mw:Error mw:File"></span>9 <a href="tropical-drink.html"><span class="color-template color-template-tropical-drink color-template-background-clip">Tropical Drinks</span></a><br/>
-<span typeof="mw:Error mw:File"></span>9 <a href="magic-bean.html"><span class="color-template color-template-magic-bean color-template-background-clip">Magic Beans</span></a><br/>
-<span typeof="mw:Error mw:File"></span>9 <a href="micro-converter.html"><span class="color-template color-template-micro-converter color-template-background-clip">Micro-Converters</span></a><br/>
-<span typeof="mw:Error mw:File"></span>1 <a href="pink-shades.html"><span class="color-template color-template-pink-shades color-template-background-clip">Pink Shades</span></a><br/>
+<td><img alt="Honey" height="25" src="img/Honey.png" width="25"/>999,999,999 <a href="honey.html"><span class="color-template color-template-honey">Honey</span></a><br/>
+<p><img alt="Treat" height="25" src="img/Treat.png" width="25"/>999,999 <a href="treat.html"><span class="color-template color-template-treat">Treats</span></a><br/>
+<img alt="Ticket" height="25" src="img/Ticket.png" width="25"/>99 <a href="ticket.html"><span class="color-template color-template-ticket color-template-background-clip">Tickets</span></a><br/>
+<img alt="Marshmallow Bee" height="25" src="img/Marshmallow_Bee.png" width="25"/>9 <a href="marshmallow-bee.html"><span class="color-template color-template-marshmallow-bee color-template-background-clip">Marshmallow Bees</span></a><br/>
+<img alt="Gingerbread Bear" height="25" src="img/Gingerbread_Bear.png" width="25"/>9 <a href="gingerbread-bear.html"><span class="color-template color-template-gingerbread-bear color-template-background-clip">Gingerbread Bears</span></a><br/>
+<img alt="Star Jelly" height="25" src="img/Star_Jelly.png" width="25"/>9 <a href="royal-jelly.html#Star_Jelly"><span class="color-template color-template-star-jelly color-template-background-clip">Star Jellies</span></a><br/>
+<img alt="Purple Potion" height="25" src="img/Purple_Potion.png" width="25"/>9 <a href="purple-potion.html"><span class="color-template color-template-purple-potion color-template-background-clip">Purple Potions</span></a><br/>
+<img alt="Tropical Drink" height="25" src="img/Tropical_Drink.png" width="25"/>9 <a href="tropical-drink.html"><span class="color-template color-template-tropical-drink color-template-background-clip">Tropical Drinks</span></a><br/>
+<img alt="Magic Bean" height="25" src="img/Magic_Bean.png" width="25"/>9 <a href="magic-bean.html"><span class="color-template color-template-magic-bean color-template-background-clip">Magic Beans</span></a><br/>
+<img alt="Micro-Converter" height="25" src="img/Micro-Converter.png" width="25"/>9 <a href="micro-converter.html"><span class="color-template color-template-micro-converter color-template-background-clip">Micro-Converters</span></a><br/>
+<img alt="Pink Shades" height="25" src="img/Pink_Shades.png" width="25"/>1 <a href="pink-shades.html"><span class="color-template color-template-pink-shades color-template-background-clip">Pink Shades</span></a><br/>
 Summons a <a href="honeystorm.html">Honeystorm</a><br/>
 An upgrade to the <a href="honey-wreath.html">Honey Wreath</a>
 </p>
@@ -331,16 +331,16 @@ You need to be equipping the [Honey Mask](honey-mask.md) and have completed [Bla
 <li>Use 9 <a href="enzymes.html">Enzymes</a>.</li>
 <li>Defeat 9 <a href="golden-cogmower.html">Golden Cogmowers</a>.</li></ul>
 </td>
-<td><span typeof="mw:Error mw:File"></span>999,999,999 <a href="honey.html"><span class="color-template color-template-honey">Honey</span></a><br/>
-<p><span typeof="mw:Error mw:File"></span>999,999 <a href="treat.html"><span class="color-template color-template-treat">Treats</span></a><br/>
-<span typeof="mw:Error mw:File"></span>9 <a href="gingerbread-bear.html"><span class="color-template color-template-gingerbread-bear color-template-background-clip">Gingerbread Bears</span></a><br/>
-<span typeof="mw:Error mw:File"></span>9 <a href="ticket.html"><span class="color-template color-template-ticket color-template-background-clip">Tickets</span></a><br/>
-<span typeof="mw:Error mw:File"></span>9 <a href="magic-bean.html"><span class="color-template color-template-magic-bean color-template-background-clip">Magic Beans</span></a><br/>
-<span typeof="mw:Error mw:File"></span>9 <a href="royal-jelly.html"><span class="color-template color-template-royal-jelly color-template-background-clip">Royal Jellies</span></a><br/>
-<span typeof="mw:Error mw:File"></span>9 <a href="tropical-drink.html"><span class="color-template color-template-tropical-drink color-template-background-clip">Tropical Drinks</span></a><br/>
-<span typeof="mw:Error mw:File"></span>9 <a href="purple-potion.html"><span class="color-template color-template-purple-potion color-template-background-clip">Purple Potions</span></a><br/>
-<span typeof="mw:Error mw:File"></span>9 <a href="micro-converter.html"><span class="color-template color-template-micro-converter color-template-background-clip">Micro-Converters</span></a><br/>
-<span typeof="mw:Error mw:File"></span>1 <a href="pink-shades.html"><span class="color-template color-template-pink-shades color-template-background-clip">Pink Shades</span></a><br/>
+<td><img alt="Honey" height="25" src="img/Honey.png" width="25"/>999,999,999 <a href="honey.html"><span class="color-template color-template-honey">Honey</span></a><br/>
+<p><img alt="Treat" height="25" src="img/Treat.png" width="25"/>999,999 <a href="treat.html"><span class="color-template color-template-treat">Treats</span></a><br/>
+<img alt="Gingerbread Bear" height="25" src="img/Gingerbread_Bear.png" width="25"/>9 <a href="gingerbread-bear.html"><span class="color-template color-template-gingerbread-bear color-template-background-clip">Gingerbread Bears</span></a><br/>
+<img alt="Ticket" height="25" src="img/Ticket.png" width="25"/>9 <a href="ticket.html"><span class="color-template color-template-ticket color-template-background-clip">Tickets</span></a><br/>
+<img alt="Magic Bean" height="25" src="img/Magic_Bean.png" width="25"/>9 <a href="magic-bean.html"><span class="color-template color-template-magic-bean color-template-background-clip">Magic Beans</span></a><br/>
+<img alt="Royal Jelly" height="25" src="img/Royal_Jelly.png" width="25"/>9 <a href="royal-jelly.html"><span class="color-template color-template-royal-jelly color-template-background-clip">Royal Jellies</span></a><br/>
+<img alt="Tropical Drink" height="25" src="img/Tropical_Drink.png" width="25"/>9 <a href="tropical-drink.html"><span class="color-template color-template-tropical-drink color-template-background-clip">Tropical Drinks</span></a><br/>
+<img alt="Purple Potion" height="25" src="img/Purple_Potion.png" width="25"/>9 <a href="purple-potion.html"><span class="color-template color-template-purple-potion color-template-background-clip">Purple Potions</span></a><br/>
+<img alt="Micro-Converter" height="25" src="img/Micro-Converter.png" width="25"/>9 <a href="micro-converter.html"><span class="color-template color-template-micro-converter color-template-background-clip">Micro-Converters</span></a><br/>
+<img alt="Pink Shades" height="25" src="img/Pink_Shades.png" width="25"/>1 <a href="pink-shades.html"><span class="color-template color-template-pink-shades color-template-background-clip">Pink Shades</span></a><br/>
 Summons a <a href="honeystorm.html">Honeystorm</a><br/>
 An upgrade to the <a href="honey-wreath.html">Honey Wreath</a>
 </p>
@@ -388,15 +388,15 @@ You need to be equipping the [Honey Mask](honey-mask.md) and have completed [Bla
 <li>Use 9 Enzymes.</li></ul>
 </td>
 <td>
-<p><span typeof="mw:Error mw:File"></span>99,999,999 <a href="honey.html"><span class="color-template color-template-honey">Honey</span></a><br/>
-<span typeof="mw:Error mw:File"></span>9 <a href="ticket.html"><span class="color-template color-template-ticket color-template-background-clip">Tickets</span></a><br/>
-<span typeof="mw:Error mw:File"></span>99,999 <a href="treat.html"><span class="color-template color-template-treat">Treats</span></a><br/>
-<span typeof="mw:Error mw:File"></span>9 <a href="gingerbread-bear.html"><span class="color-template color-template-gingerbread-bear color-template-background-clip">Gingerbread Bears</span></a><br/>
-<span typeof="mw:Error mw:File"></span>9 <a href="royal-jelly.html"><span class="color-template color-template-royal-jelly color-template-background-clip">Royal Jellies</span></a><br/>
-<span typeof="mw:Error mw:File"></span>9 <a href="oil.html"><span class="color-template color-template-oil color-template-background-clip">Oils</span></a><br/>
-<span typeof="mw:Error mw:File"></span>9 <a href="soft-wax.html"><span class="color-template color-template-soft-wax">Soft Waxes</span></a><br/>
-<span typeof="mw:Error mw:File"></span>9 <a href="smooth-dice.html"><span class="color-template color-template-smooth-dice color-template-background-clip">Smooth Dice</span></a><br/>
-<span typeof="mw:Error mw:File"></span>9 <a href="micro-converter.html"><span class="color-template color-template-micro-converter color-template-background-clip">Micro-Converters</span></a>
+<p><img alt="Honey" height="25" src="img/Honey.png" width="25"/>99,999,999 <a href="honey.html"><span class="color-template color-template-honey">Honey</span></a><br/>
+<img alt="Ticket" height="25" src="img/Ticket.png" width="25"/>9 <a href="ticket.html"><span class="color-template color-template-ticket color-template-background-clip">Tickets</span></a><br/>
+<img alt="Treat" height="25" src="img/Treat.png" width="25"/>99,999 <a href="treat.html"><span class="color-template color-template-treat">Treats</span></a><br/>
+<img alt="Gingerbread Bear" height="25" src="img/Gingerbread_Bear.png" width="25"/>9 <a href="gingerbread-bear.html"><span class="color-template color-template-gingerbread-bear color-template-background-clip">Gingerbread Bears</span></a><br/>
+<img alt="Royal Jelly" height="25" src="img/Royal_Jelly.png" width="25"/>9 <a href="royal-jelly.html"><span class="color-template color-template-royal-jelly color-template-background-clip">Royal Jellies</span></a><br/>
+<img alt="Oil" height="25" src="img/Oil.png" width="25"/>9 <a href="oil.html"><span class="color-template color-template-oil color-template-background-clip">Oils</span></a><br/>
+<img alt="Soft Wax" height="25" src="img/Soft_Wax.png" width="25"/>9 <a href="soft-wax.html"><span class="color-template color-template-soft-wax">Soft Waxes</span></a><br/>
+<img alt="Smooth Dice" height="25" src="img/Smooth_Dice.png" width="25"/>9 <a href="smooth-dice.html"><span class="color-template color-template-smooth-dice color-template-background-clip">Smooth Dice</span></a><br/>
+<img alt="Micro-Converter" height="25" src="img/Micro-Converter.png" width="25"/>9 <a href="micro-converter.html"><span class="color-template color-template-micro-converter color-template-background-clip">Micro-Converters</span></a>
 </p>
 </td></tr></tbody></table>
 
@@ -426,12 +426,12 @@ You need to be equipping the [Honey Mask](honey-mask.md) and have completed [Bla
 <li>Use 9 <a href="enzymes.html">Enzymes</a>.</li></ul>
 </td>
 <td>
-<p><span typeof="mw:Error mw:File"></span>99,999,999 <a href="honey.html"><span class="color-template color-template-honey">Honey</span></a><br/>
-<span typeof="mw:Error mw:File"></span>99,999 <a href="treat.html"><span class="color-template color-template-treat">Treats</span></a><br/>
-<span typeof="mw:Error mw:File"></span>9 <a href="gingerbread-bear.html"><span class="color-template color-template-gingerbread-bear color-template-background-clip">Gingerbread Bears</span></a><br/>
-<span typeof="mw:Error mw:File"></span>9 <a href="royal-jelly.html#Star_Jelly"><span class="color-template color-template-star-jelly color-template-background-clip">Star Jellies</span></a><br/>
-<span typeof="mw:Error mw:File"></span>9 <a href="micro-converter.html"><span class="color-template color-template-micro-converter color-template-background-clip">Micro-Converters</span></a><br/>
-<span typeof="mw:Error mw:File"></span>9 <a href="oil.html"><span class="color-template color-template-oil color-template-background-clip">Oils</span></a><br/>
+<p><img alt="Honey" height="25" src="img/Honey.png" width="25"/>99,999,999 <a href="honey.html"><span class="color-template color-template-honey">Honey</span></a><br/>
+<img alt="Treat" height="25" src="img/Treat.png" width="25"/>99,999 <a href="treat.html"><span class="color-template color-template-treat">Treats</span></a><br/>
+<img alt="Gingerbread Bear" height="25" src="img/Gingerbread_Bear.png" width="25"/>9 <a href="gingerbread-bear.html"><span class="color-template color-template-gingerbread-bear color-template-background-clip">Gingerbread Bears</span></a><br/>
+<img alt="Star Jelly" height="25" src="img/Star_Jelly.png" width="25"/>9 <a href="royal-jelly.html#Star_Jelly"><span class="color-template color-template-star-jelly color-template-background-clip">Star Jellies</span></a><br/>
+<img alt="Micro-Converter" height="25" src="img/Micro-Converter.png" width="25"/>9 <a href="micro-converter.html"><span class="color-template color-template-micro-converter color-template-background-clip">Micro-Converters</span></a><br/>
+<img alt="Oil" height="25" src="img/Oil.png" width="25"/>9 <a href="oil.html"><span class="color-template color-template-oil color-template-background-clip">Oils</span></a><br/>
 <span typeof="mw:Error mw:File"></span> Conversion Boost (2 hours)<br/>
 Summons a <a href="honeystorm.html">Honeystorm</a><br/>
 An upgrade to the <a href="honey-wreath.html">Honey Wreath</a>
@@ -452,10 +452,6 @@ An upgrade to the <a href="honey-wreath.html">Honey Wreath</a>
 </p><p>Bzz zzuh zuh! (Honey Bee smiles towards the wreath) (It’s smile grows more and more grotesquely wide) BUZZUH!! (Pure satisfaction can be felt in the bee’s gaze) Bzzz zzz buzz zuh. Zuh zuzh zhhzhh zzz zuh zuh. Buzz buzz zuh. Zzzz ZZZZ bzz. (You aren’t sure what the bee is trying to say) (But somehow you can sense that the Honey Wreath will now grant 50% more honey) (And that it’ll summon a Lvl 20 Honey Bee with each use... maybe)
 </p>
 </td></tr></tbody></table>
-
-## Gallery
-
-<div class="wikia-gallery wikia-gallery-caption-below wikia-gallery-position-left wikia-gallery-spacing-medium wikia-gallery-border-small wikia-gallery-captions-left wikia-gallery-caption-size-medium" data-seq-no="0" hash="d124ab451f5958ab1fb30fa85cafd15c" id="gallery-0"><div class="wikia-gallery-caption"></div><div class="wikia-gallery-item" style="width:187px; "><div class="thumb" style="height:187px;"><div class="gallery-image-wrapper accent" id="Honeybeeboost-png" style="position: relative; height:185px; width:185px;"><span style="line-height: 1;">Honeybeeboost.png</span></div></div><div class="lightbox-caption" style="width:185px;">The x2 Conversion Boost.</div></div><div class="wikia-gallery-item" style="width:187px; "><div class="thumb" style="height:187px;"><div class="gallery-image-wrapper accent" id="Dehoneybeebutcurrent-png" style="position: relative; height:185px; width:185px;"><span style="line-height: 1;">Dehoneybeebutcurrent.png</span></div></div><div class="lightbox-caption" style="width:185px;">Honey Bee's Oldest Location.</div></div><div class="wikia-gallery-item" style="width:187px; "><div class="thumb" style="height:187px;"><div class="gallery-image-wrapper accent" id="07247D7C-E41C-40E5-AD2B-1D85ED8A561C-jpg" style="position: relative; height:185px; width:185px;"><span style="line-height: 1;">07247D7C-E41C-40E5-AD2B-1D85ED8A561C.jpg</span></div></div><div class="lightbox-caption" style="width:185px;">Honey Bee summoning a honeystorm.</div></div><div class="wikia-gallery-item" style="width:187px; "><div class="thumb" style="height:187px;"><div class="gallery-image-wrapper accent" id="HoniNPC-png" style="position: relative; height:185px; width:185px;"><span style="line-height: 1;">HoniNPC.png</span></div></div><div class="lightbox-caption" style="width:185px;">Exclamation Mark when Honey Bee's quest is ready or finished.</div></div><div class="wikia-gallery-item" style="width:187px; "><div class="thumb" style="height:187px;"><div class="gallery-image-wrapper accent" id="Dehoneybeeebutcurrentpart2-png" style="position: relative; height:185px; width:185px;"><span style="line-height: 1;">Dehoneybeeebutcurrentpart2.png</span></div></div><div class="lightbox-caption" style="width:185px;">Honey Bee's Previous Location.</div></div><div class="wikia-gallery-item" style="width:187px; "><div class="thumb" style="height:187px;"><div class="gallery-image-wrapper accent" id="Dehoneybeeebutcurrentpart3-png" style="position: relative; height:185px; width:185px;"><span style="line-height: 1;">Dehoneybeeebutcurrentpart3.png</span></div></div><div class="lightbox-caption" style="width:185px;">Honey Bee's Current Location.</div></div><div class="wikia-gallery-item" style="width:187px; "><div class="thumb" style="height:187px;"><div class="gallery-image-wrapper accent" id="ExtendHoney-png" style="position: relative; height:185px; width:185px;"><span style="line-height: 1;">ExtendHoney.png</span></div></div><div class="lightbox-caption" style="width:185px;">A better view of Honey Bee's previous location after the area was amplified.</div></div><div class="wikia-gallery-item" style="width:187px; "><div class="thumb" style="height:187px;"><div class="gallery-image-wrapper accent" id="StickerStackHoney-png" style="position: relative; height:185px; width:185px;"><span style="line-height: 1;">StickerStackHoney.png</span></div></div><div class="lightbox-caption" style="width:185px;">A better view of Honey Bee's current location after the addition of the <a href="sticker-stack.html">Sticker Stack</a>.</div></div></div>
 
 ## Tips
 

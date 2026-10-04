@@ -1,6 +1,6 @@
 ---
 title: "Amulet"
-tags: ["Pages with broken file links", "Amulet", "Mechanics", "Items", "Accessories"]
+tags: ["Amulet", "Mechanics", "Items", "Accessories"]
 ---
 
 # Amulet
@@ -63,10 +63,6 @@ Shell Amulet
 Stick Bug Amulet
 Cog Amulet
 </tabview>
-
-## Gallery
-
-<div class="wikia-gallery wikia-gallery-caption-below wikia-gallery-position-left wikia-gallery-spacing-medium wikia-gallery-border-small wikia-gallery-captions-left wikia-gallery-caption-size-medium" data-seq-no="0" hash="cd6d29f70319ecffa33c04daf914c83b" id="gallery-0"><div class="wikia-gallery-caption"></div><div class="wikia-gallery-item" style="width:187px; "><div class="thumb" style="height:187px;"><div class="gallery-image-wrapper accent" id="Equipnewamulet-png" style="position: relative; height:185px; width:185px;"><span style="line-height: 1;">Equipnewamulet.png</span></div></div><div class="lightbox-caption" style="width:185px;">The confirmation message that appears when the player wants to replace their amulet.</div></div><div class="wikia-gallery-item" style="width:187px; "><div class="thumb" style="height:187px;"><div class="gallery-image-wrapper accent" id="Amulet_disconnection_message-png" style="position: relative; height:185px; width:185px;"><span style="line-height: 1;">Amulet disconnection message.png</span></div></div><div class="lightbox-caption" style="width:185px;">The message that appears when a player joins a server after disconnecting with an undecided amulet.</div></div><div class="wikia-gallery-item" style="width:187px; "><div class="thumb" style="height:187px;"><div class="gallery-image-wrapper accent" id="Black_Supreme_Amulets-png" style="position: relative; height:185px; width:185px;"><span style="line-height: 1;">Black Supreme Amulets.png</span></div></div><div class="lightbox-caption" style="width:185px;">A visual bug where the Supreme Star and Ant Amulets are colored black.</div></div></div>
 
 ## Trivia
 

@@ -1,6 +1,6 @@
 ---
 title: "All-Time Top Riley Bee Helpers"
-tags: ["Pages with broken file links", "Locations", "Leaderboards"]
+tags: ["Locations", "Leaderboards"]
 ---
 
 # All-Time Top Riley Bee Helpers

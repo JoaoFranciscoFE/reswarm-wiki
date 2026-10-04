@@ -1,6 +1,6 @@
 ---
 title: "Red Cannon"
-tags: ["Pages with broken file links", "Transport", "Locations", "Machines", "Starter Zone"]
+tags: ["Transport", "Locations", "Machines", "Starter Zone"]
 ---
 
 # Red Cannon

@@ -1,6 +1,6 @@
 ---
 title: "Day/Night Cycle"
-tags: ["Pages with broken file links", "Mechanics"]
+tags: ["Mechanics"]
 ---
 
 # Day/Night Cycle

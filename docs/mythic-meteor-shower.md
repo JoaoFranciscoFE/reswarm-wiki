@@ -1,6 +1,6 @@
 ---
 title: "Mythic Meteor Shower"
-tags: ["Pages with broken file links", "Locations", "Machines", "Summoner"]
+tags: ["Locations", "Machines", "Summoner"]
 ---
 
 # Mythic Meteor Shower
@@ -69,7 +69,7 @@ The following audios play when a meteor shower is summoned:
 
 ## Gallery
 
-<div class="wikia-gallery wikia-gallery-caption-below wikia-gallery-position-left wikia-gallery-spacing-medium wikia-gallery-border-small wikia-gallery-captions-left wikia-gallery-caption-size-medium" data-seq-no="0" hash="6f0ab9082a6a6415111466d45343cd1c" id="gallery-0"><div class="wikia-gallery-caption"></div><div class="wikia-gallery-item" style="width:187px; "><div class="thumb" style="height:187px;"><div class="gallery-image-wrapper accent" id="Meteor_Shower-png" style="position: relative; height:185px; width:185px;"><span style="line-height: 1;">Meteor Shower.png</span></div></div><div class="lightbox-caption" style="width:185px;">A mythic meteor shower being summoned.</div></div><div class="wikia-gallery-item" style="width:187px; "><div class="thumb" style="height:187px;"><div class="gallery-image-wrapper accent" id="Meteoraim-png" style="position: relative; height:185px; width:185px;"><span style="line-height: 1;">Meteoraim.png</span></div></div><div class="lightbox-caption" style="width:185px;">Purple circles indicating where meteors will land.</div></div><div class="wikia-gallery-item" style="width:187px; "><div class="thumb" style="height:187px;"><div class="gallery-image-wrapper accent" id="Showerloot-png" style="position: relative; height:185px; width:185px;"><span style="line-height: 1;">Showerloot.png</span></div></div><div class="lightbox-caption" style="width:185px;">The line of loot from a mythic meteor.</div></div><div class="wikia-gallery-item" style="width:187px; "><div class="thumb" style="height:187px;"><div class="gallery-image-wrapper accent" id="Meteor-webp" style="position: relative; height:185px; width:185px;"><span style="line-height: 1;">Meteor.webp</span></div></div><div class="lightbox-caption" style="width:185px;">A mythic meteor falling</div></div><div class="wikia-gallery-item" style="width:187px; "><div class="thumb" style="height:187px;"><div class="gallery-image-wrapper accent" id="The_real_master_of_meatballs-png" style="position: relative; height:185px; width:185px;"><span style="line-height: 1;">The real master of meatballs.png</span></div></div><div class="lightbox-caption" style="width:185px;">A user summoning a mythic meteor shower.</div></div><div class="wikia-gallery-item" style="width:187px; "><div class="thumb" style="height:187px;"><div class="gallery-image-wrapper accent" id="Meteor_shower_without_fog-png" style="position: relative; height:185px; width:185px;"><span style="line-height: 1;">Meteor shower without fog.png</span></div></div><div class="lightbox-caption" style="width:185px;">A mythic meteor shower without the purple fog.</div></div></div>
+
 
 Onett is able to manipulate the function of the Mythic Meteor Shower event to activate it globally, sometimes under unique names.
 

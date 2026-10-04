@@ -1,6 +1,6 @@
 ---
 title: "Noob Bear"
-tags: ["Pages with broken file links", "NPC", "Bears"]
+tags: ["NPC", "Bears"]
 ---
 
 # Noob Bear
@@ -77,10 +77,6 @@ tags: ["Pages with broken file links", "NPC", "Bears"]
 </td></tr></tbody></table>
 
 **Noob Bear** is the bear who runs the [Noob Shop](noob-shop.md). Like other Shop Bears, his presence is not required to purchase from the shop, and players cannot interact with him.
-
-## Gallery
-
-<div class="wikia-gallery wikia-gallery-caption-below wikia-gallery-position-left wikia-gallery-spacing-medium wikia-gallery-border-small wikia-gallery-captions-left wikia-gallery-caption-size-medium" data-seq-no="0" hash="6795cf29e2ab70046c2178a722c83c8a" id="gallery-0"><div class="wikia-gallery-caption"></div><div class="wikia-gallery-item" style="width:187px; "><div class="thumb" style="height:187px;"><div class="gallery-image-wrapper accent" id="NoobCub-png" style="position: relative; height:185px; width:185px;"><span style="line-height: 1;">NoobCub.png</span></div></div><div class="lightbox-caption" style="width:185px;">The Noob Cub Skin from the Cub Buddy Launch Pack.</div></div><div class="wikia-gallery-item" style="width:187px; "><div class="thumb" style="height:187px;"><div class="gallery-image-wrapper accent" id="RobloxScreenShot20180430_183336660-png" style="position: relative; height:185px; width:185px;"><span style="line-height: 1;">RobloxScreenShot20180430 183336660.png</span></div></div><div class="lightbox-caption" style="width:185px;">Noob Bear when killed.</div></div><div class="wikia-gallery-item" style="width:187px; "><div class="thumb" style="height:187px;"><div class="gallery-image-wrapper accent" id="Noobimage-webp" style="position: relative; height:185px; width:185px;"><span style="line-height: 1;">Noobimage.webp</span></div></div><div class="lightbox-caption" style="width:185px;">The stereotypical Roblox noob Noob Bear is based on.</div></div><div class="wikia-gallery-item" style="width:187px; "><div class="thumb" style="height:187px;"><div class="gallery-image-wrapper accent" id="Defendfieldsagainstretroswarms-jpeg" style="position: relative; height:185px; width:185px;"><span style="line-height: 1;">Defendfieldsagainstretroswarms.jpeg</span></div></div><div class="lightbox-caption" style="width:185px;">Noob Bear in a banner of The Classic event.</div></div></div>
 
 ## Trivia
 

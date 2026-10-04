@@ -1,6 +1,6 @@
 ---
 title: "Hub Field"
-tags: ["Pages with broken file links", "Locations", "Fields", "Hive Hub"]
+tags: ["Locations", "Fields", "Hive Hub"]
 ---
 
 # Hub Field
@@ -147,10 +147,6 @@ Only through the use of glitches, this field grants Comforting [Nectar](nectar.m
 * Redeeming expired [codes](codes.md):
   * BeequipTradeReboot (gave x4 Hub Field Boost and x15 Hub Field Winds + other stuff).
   * 6irthday (gave x6 Hub Field Boost + other stuff).
-
-## Gallery
-
-<div class="wikia-gallery wikia-gallery-caption-below wikia-gallery-position-left wikia-gallery-spacing-medium wikia-gallery-border-small wikia-gallery-captions-left wikia-gallery-caption-size-medium" data-seq-no="0" hash="359418b934264938f1c7c55682b64005" id="gallery-0"><div class="wikia-gallery-caption"></div><div class="wikia-gallery-item" style="width:187px; "><div class="thumb" style="height:187px;"><div class="gallery-image-wrapper accent" id="Hivesticker_hub_field_stamp-png" style="position: relative; height:185px; width:185px;"><span style="line-height: 1;">Hivesticker hub field stamp.png</span></div></div><div class="lightbox-caption" style="width:185px;">The Hub Field's associated <a href="sticker.html#Stickers">field stamp</a> and <a href="field-boost.html">boost icon</a>.</div></div></div>
 
 ## Trivia
 

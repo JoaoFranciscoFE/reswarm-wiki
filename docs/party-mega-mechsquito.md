@@ -1,6 +1,6 @@
 ---
 title: "Party Mega Mechsquito"
-tags: ["Pages with broken file links", "Removed Content", "Mobs", "Robo Bear", "Robo Party", "Beesmas"]
+tags: ["Removed Content", "Mobs", "Robo Bear", "Robo Party", "Beesmas"]
 ---
 
 # Party Mega Mechsquito
@@ -136,10 +136,6 @@ Since they are essentially the same as their normal counterparts, Mega Mechsquit
 * Stand near the Party Mega Mechsquito, this will allow your bees to lock on to the Party Mega Mechsquito and quickly deal damage.
 * [Vicious Bee](vicious-bee.md) and [Windy Bee](windy-bee.md) provide excellent crowd control, especially since Party Mega Mechsquitos often come in pairs or packs. [Digital Bee](digital-bee.md) can also stun many Party Mega Mechsquitos at once and allow them to take extra damage via [Mind Hack](ability-tokens.md#Mind_Hack).
 * Unlike their normal counterparts, they stay in fields which can be used for the players advantage. Stand right outside the field they are in and your bees will attack it while it doesn't aim for you. Note that this can be a bit risky since they can hover around the other parts of the field and don't come close enough for your bees to target them.
-
-## Gallery
-
-<div class="wikia-gallery wikia-gallery-caption-below wikia-gallery-position-left wikia-gallery-spacing-medium wikia-gallery-border-small wikia-gallery-captions-left wikia-gallery-caption-size-medium" data-seq-no="0" hash="6e86e06c7950aef084c312a4910c274c" id="gallery-0"><div class="wikia-gallery-caption"></div><div class="wikia-gallery-item" style="width:187px; "><div class="thumb" style="height:187px;"><div class="gallery-image-wrapper accent" id="Screenshot_2023-04-03_160533-png" style="position: relative; height:185px; width:185px;"><span style="line-height: 1;">Screenshot 2023-04-03 160533.png</span></div></div><div class="lightbox-caption" style="width:185px;">A Party Mega Mechsquito hovering over a field during nighttime.</div></div><div class="wikia-gallery-item" style="width:187px; "><div class="thumb" style="height:187px;"><div class="gallery-image-wrapper accent" id="PartyMegaMechsquito1-png" style="position: relative; height:185px; width:185px;"><span style="line-height: 1;">PartyMegaMechsquito1.png</span></div></div><div class="lightbox-caption" style="width:185px;">A Party Mega Mechsquito hovering around the Cactus Field.</div></div><div class="wikia-gallery-item" style="width:187px; "><div class="thumb" style="height:187px;"><div class="gallery-image-wrapper accent" id="PartyMegaMechsquito2-png" style="position: relative; height:185px; width:185px;"><span style="line-height: 1;">PartyMegaMechsquito2.png</span></div></div><div class="lightbox-caption" style="width:185px;">A Party Mega Mechsquito getting hit by a player's Gifted Vicious Bee's Impale.</div></div></div>
 
 ## Trivia
 

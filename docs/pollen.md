@@ -1,6 +1,6 @@
 ---
 title: "Pollen"
-tags: ["Pages with broken file links", "Currency", "Mechanics"]
+tags: ["Currency", "Mechanics"]
 ---
 
 # Pollen
@@ -99,10 +99,6 @@ Main article: [Pollination](pollination.md)
 
 When a flower is pollinated, it upgrades any kind of flower, with star flowers being the exception. Flowers can be pollinated by [Fuzzy Bee](fuzzy-bee.md), The [Diamond Drain](passive-abilities.md#Diamond_Drain) Passive, bees with the [Poinsettia](poinsettia.md) or [Lei](lei.md) beequip, and [Guiding Star](passive-abilities.md#Guiding_Star).
 
-## Gallery
-
-<div class="wikia-gallery wikia-gallery-caption-below wikia-gallery-position-left wikia-gallery-spacing-medium wikia-gallery-border-small wikia-gallery-captions-left wikia-gallery-caption-size-medium" data-seq-no="0" hash="ce282040b0fd264c1f338750e9b50934" id="gallery-0"><div class="wikia-gallery-caption"></div><div class="wikia-gallery-item" style="width:152px; "><div class="thumb" style="height:152px;"><div class="gallery-image-wrapper accent" id="SmallFlower-png" style="position: relative; height:150px; width:150px;"><span style="line-height: 1;">SmallFlower.png</span></div></div><div class="lightbox-caption" style="width:150px;">The original single white flower.</div></div><div class="wikia-gallery-item" style="width:152px; "><div class="thumb" style="height:152px;"><div class="gallery-image-wrapper accent" id="MediumWhiteFlower-png" style="position: relative; height:150px; width:150px;"><span style="line-height: 1;">MediumWhiteFlower.png</span></div></div><div class="lightbox-caption" style="width:150px;">The original double white flower.</div></div><div class="wikia-gallery-item" style="width:152px; "><div class="thumb" style="height:152px;"><div class="gallery-image-wrapper accent" id="LargeWhiteFlower-png" style="position: relative; height:150px; width:150px;"><span style="line-height: 1;">LargeWhiteFlower.png</span></div></div><div class="lightbox-caption" style="width:150px;">The original triple white flower, which was instead a big flower.</div></div><div class="wikia-gallery-item" style="width:152px; "><div class="thumb" style="height:152px;"><div class="gallery-image-wrapper accent" id="Pollination-gif" style="position: relative; height:150px; width:150px;"><span style="line-height: 1;">Pollination.gif</span></div></div><div class="lightbox-caption" style="width:150px;">A blue flower being pollinated.</div></div></div>
-
 ## Trivia
 
 * Single, double, and triple flowers are the only types of flowers that can naturally spawn in fields. Large and star flowers can only be spawned through pollination.
@@ -114,6 +110,6 @@ When a flower is pollinated, it upgrades any kind of flower, with star flowers b
 <th class="NavTitle">Currencies
 </th></tr>
 <tr>
-<td class="NavLinks NavLinksBasicEven"><b><span typeof="mw:Error mw:File"></span> <strong class="mw-selflink selflink">Pollen</strong> • <span typeof="mw:Error mw:File"></span> <a href="honey.html">Honey</a> • <img alt="Ticket" height="35" src="img/Ticket.png" width="35"/> <a href="ticket.html">Ticket</a> • <img alt="Brick" height="35" src="img/Brick.png" width="35"/> <a href="brick.html">Brick</a> • <img alt="Cog" height="35" src="img/Cog.png" width="35"/> <a href="cog.html">Cog</a> • <img alt="Snowflake" height="35" src="img/Snowflake.png" width="35"/> <a href="snowflake.html">Snowflake</a> • <img alt="Gingerbread Bear" height="35" src="img/Gingerbread_Bear.png" width="35"/> <a href="gingerbread-bear.html">Gingerbread Bear</a></b>
+<td class="NavLinks NavLinksBasicEven"><b><span typeof="mw:Error mw:File"></span> <strong class="mw-selflink selflink">Pollen</strong> • <img alt="Honey" height="35" src="img/Honey.png" width="35"/> <a href="honey.html">Honey</a> • <img alt="Ticket" height="35" src="img/Ticket.png" width="35"/> <a href="ticket.html">Ticket</a> • <img alt="Brick" height="35" src="img/Brick.png" width="35"/> <a href="brick.html">Brick</a> • <img alt="Cog" height="35" src="img/Cog.png" width="35"/> <a href="cog.html">Cog</a> • <img alt="Snowflake" height="35" src="img/Snowflake.png" width="35"/> <a href="snowflake.html">Snowflake</a> • <img alt="Gingerbread Bear" height="35" src="img/Gingerbread_Bear.png" width="35"/> <a href="gingerbread-bear.html">Gingerbread Bear</a></b>
 </td></tr></tbody></table>
 

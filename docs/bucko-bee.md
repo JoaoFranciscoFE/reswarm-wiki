@@ -1,6 +1,6 @@
 ---
 title: "Bucko Bee"
-tags: ["Pages with broken file links", "Bees", "Epic", "Blue"]
+tags: ["Bees", "Epic", "Blue"]
 ---
 
 # Bucko Bee
@@ -402,10 +402,6 @@ Bucko Bee likes the [Blue Flower Field](blue-flower-field.md), [Bamboo Field](ba
 </td><td>2.45455%
 </td></tr>
 </tbody></table>
-
-## Gallery
-
-<div class="wikia-gallery wikia-gallery-caption-below wikia-gallery-position-left wikia-gallery-spacing-medium wikia-gallery-border-small wikia-gallery-captions-left wikia-gallery-caption-size-medium" data-seq-no="0" hash="ceec1e3f703cf9236281ca0979eff17a" id="gallery-0"><div class="wikia-gallery-caption"></div><div class="wikia-gallery-item" style="width:187px; "><div class="thumb" style="height:187px;"><div class="gallery-image-wrapper accent" id="BuckoBee_Hive-png" style="position: relative; height:185px; width:185px;"><span style="line-height: 1;">BuckoBee Hive.png</span></div></div><div class="lightbox-caption" style="width:185px;">Bucko Bee's old hive slot design.</div></div><div class="wikia-gallery-item" style="width:187px; "><div class="thumb" style="height:187px;"><div class="gallery-image-wrapper accent" id="GiftedBuckoBeehive-PNG" style="position: relative; height:185px; width:185px;"><span style="line-height: 1;">GiftedBuckoBeehive.PNG</span></div></div><div class="lightbox-caption" style="width:185px;">A Gifted Bucko Bee hive slot.</div></div><div class="wikia-gallery-item" style="width:187px; "><div class="thumb" style="height:187px;"><div class="gallery-image-wrapper accent" id="BuckoFace-png" style="position: relative; height:185px; width:185px;"><span style="line-height: 1;">BuckoFace.png</span></div></div><div class="lightbox-caption" style="width:185px;">Bucko Bee's face.</div></div><div class="wikia-gallery-item" style="width:187px; "><div class="thumb" style="height:187px;"><div class="gallery-image-wrapper accent" id="Screenshot_2022-09-16_164205-png" style="position: relative; height:185px; width:185px;"><span style="line-height: 1;">Screenshot 2022-09-16 164205.png</span></div></div><div class="lightbox-caption" style="width:185px;">Bucko Bee transformed into Gifted Bucko Bee.</div></div><div class="wikia-gallery-item" style="width:187px; "><div class="thumb" style="height:187px;"><div class="gallery-image-wrapper accent" id="Buckingbea-png" style="position: relative; height:185px; width:185px;"><span style="line-height: 1;">Buckingbea.png</span></div></div><div class="lightbox-caption" style="width:185px;">Bucko Bee's original face.</div></div></div>
 
 ## Trivia
 

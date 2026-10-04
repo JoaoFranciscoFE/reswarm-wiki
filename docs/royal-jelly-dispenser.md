@@ -1,6 +1,6 @@
 ---
 title: "Royal Jelly Dispenser"
-tags: ["Pages with broken file links", "Machines", "Locations", "Dispenser", "Starter Zone"]
+tags: ["Machines", "Locations", "Dispenser", "Starter Zone"]
 ---
 
 # Royal Jelly Dispenser
@@ -11,11 +11,11 @@ tags: ["Pages with broken file links", "Machines", "Locations", "Dispenser", "St
 <h2 class="pi-item pi-header pi-secondary-font pi-item-spacing pi-secondary-background">Information</h2>
 <div class="pi-item pi-data pi-item-spacing pi-border-color" data-source="usage">
 <h3 class="pi-data-label pi-secondary-font">Usage</h3>
-<div class="pi-data-value pi-font">Gives <span typeof="mw:Error mw:File"></span>1 <a href="royal-jelly.html"><span class="color-template color-template-royal-jelly color-template-background-clip">Royal Jelly</span></a> and <span typeof="mw:Error mw:File"></span>x10 <a href="ability-tokens.html#Haste"><span class="color-template color-template-haste color-template-background-clip">Haste</span></a></div>
+<div class="pi-data-value pi-font">Gives <img alt="Royal Jelly" height="25" src="img/Royal_Jelly.png" width="25"/>1 <a href="royal-jelly.html"><span class="color-template color-template-royal-jelly color-template-background-clip">Royal Jelly</span></a> and <img alt="Haste" height="25" src="img/Haste.png" width="25"/>x10 <a href="ability-tokens.html#Haste"><span class="color-template color-template-haste color-template-background-clip">Haste</span></a></div>
 </div>
 <div class="pi-item pi-data pi-item-spacing pi-border-color" data-source="requirement">
 <h3 class="pi-data-label pi-secondary-font">Requirement(s)</h3>
-<div class="pi-data-value pi-font"><span typeof="mw:Error mw:File"></span>6 <a href="ticket.html"><span class="color-template color-template-ticket color-template-background-clip">Tickets</span></a></div>
+<div class="pi-data-value pi-font"><img alt="Ticket" height="25" src="img/Ticket.png" width="25"/>6 <a href="ticket.html"><span class="color-template color-template-ticket color-template-background-clip">Tickets</span></a></div>
 </div>
 <div class="pi-item pi-data pi-item-spacing pi-border-color" data-source="cooldown">
 <h3 class="pi-data-label pi-secondary-font">Cooldown</h3>
@@ -33,10 +33,6 @@ tags: ["Pages with broken file links", "Machines", "Locations", "Dispenser", "St
 The **Royal Jelly Dispenser** is a dispenser that is located near the [Clover Field](clover-field.md) and the [Noob Shop](noob-shop.md). It requires 6 [Tickets](ticket.md) to be exchanged for 1 [Royal Jelly](royal-jelly.md) and 10× [Haste](ability-tokens.md#Haste).
 
 The dispenser has a cooldown of 3 seconds.
-
-## Gallery
-
-<div class="wikia-gallery wikia-gallery-caption-below wikia-gallery-position-left wikia-gallery-spacing-medium wikia-gallery-border-small wikia-gallery-captions-left wikia-gallery-caption-size-medium" data-seq-no="0" hash="9155e244faabd2832c5e55b18fcd950c" id="gallery-0"><div class="wikia-gallery-caption"></div><div class="wikia-gallery-item" style="width:187px; "><div class="thumb" style="height:187px;"><div class="gallery-image-wrapper accent" id="RoyalJellyTicketDispenser1-png" style="position: relative; height:185px; width:185px;"><span style="line-height: 1;">RoyalJellyTicketDispenser1.png</span></div></div><div class="lightbox-caption" style="width:185px;">The Royal Jelly Ticket Dispenser ready to be used.</div></div><div class="wikia-gallery-item" style="width:187px; "><div class="thumb" style="height:187px;"><div class="gallery-image-wrapper accent" id="RoyalJellyTicketDispenser2-png" style="position: relative; height:185px; width:185px;"><span style="line-height: 1;">RoyalJellyTicketDispenser2.png</span></div></div><div class="lightbox-caption" style="width:185px;">The Royal Jelly Dispenser needed to be used 101 times for the BBM's Naughty List quest.</div></div><div class="wikia-gallery-item" style="width:187px; "><div class="thumb" style="height:187px;"><div class="gallery-image-wrapper accent" id="RoyalJellyTicketDispenser3-png" style="position: relative; height:185px; width:185px;"><span style="line-height: 1;">RoyalJellyTicketDispenser3.png</span></div></div><div class="lightbox-caption" style="width:185px;">The rewards from the Royal Jelly Ticket Dispenser.</div></div></div>
 
 ## Trivia
 

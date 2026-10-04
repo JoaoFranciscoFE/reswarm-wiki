@@ -1,6 +1,6 @@
 ---
 title: "Ladybug"
-tags: ["Mobs", "Pages with broken file links"]
+tags: ["Mobs"]
 ---
 
 # Ladybug
@@ -81,7 +81,7 @@ A ladybug's level can range from 1–3, depending on the field it is located in.
 <th>Guaranteed Drops list
 </th></tr>
 <tr>
-<td><span typeof="mw:Error mw:File"></span>75 <a href="honey.html"><span class="color-template color-template-honey">Honey</span></a> (increased by <a href="system-page.html#Honey_From_Tokens">Honey From Tokens</a>)
+<td><img alt="Honey" height="25" src="img/Honey.png" width="25"/>75 <a href="honey.html"><span class="color-template color-template-honey">Honey</span></a> (increased by <a href="system-page.html#Honey_From_Tokens">Honey From Tokens</a>)
 </td></tr></tbody></table>
 
 <table class="article-table">
@@ -89,23 +89,23 @@ A ladybug's level can range from 1–3, depending on the field it is located in.
 <th>Possible Drops list
 </th></tr>
 <tr>
-<td><span typeof="mw:Error mw:File"></span><a href="ticket.html"><span class="color-template color-template-ticket color-template-background-clip">Tickets</span></a> (2% Chance, Increments of 1, 5 or 10)<br/>
-<p><span typeof="mw:Error mw:File"></span><a href="strawberry.html"><span class="color-template color-template-strawberry color-template-background-clip">Strawberries</span></a> (Increments of 1, 5 or 10)<br/>
-<span typeof="mw:Error mw:File"></span><a href="gumdrops.html"><span class="color-template color-template-gumdrops color-template-background-clip">Gumdrops</span></a> (Increments of 1, 5 or 10)<br/>
-<span typeof="mw:Error mw:File"></span><a href="treat.html"><span class="color-template color-template-treat">Treats</span></a> (Increments of 1 or 50)<br/>
-<span typeof="mw:Error mw:File"></span><a href="royal-jelly.html"><span class="color-template color-template-royal-jelly color-template-background-clip">Royal Jelly</span></a> (Uncommon)<br/>
-<span typeof="mw:Error mw:File"></span><a href="robo-pass.html"><span class="color-template color-template-robo-pass color-template-background-clip">Robo Pass</span></a> (Rare)<br/>
-<span typeof="mw:Error mw:File"></span><a href="magic-bean.html"><span class="color-template color-template-magic-bean color-template-background-clip">Magic Bean</span></a> (Rare)<br/>
-<span typeof="mw:Error mw:File"></span><a href="red-extract.html"><span class="color-template color-template-red-extract color-template-background-clip">Red Extract</span></a> (Rare)<br/>
-<span typeof="mw:Error mw:File"></span><a href="field-dice.html"><span class="color-template color-template-field-dice color-template-background-clip">Field Dice</span></a> (Rare)<br/>
-<span typeof="mw:Error mw:File"></span><a href="honeysuckle.html"><span class="color-template color-template-honeysuckle color-template-background-clip">Honeysuckle</span></a> (Rare)<br/>
-<span typeof="mw:Error mw:File"></span><a href="bitterberry.html"><span class="color-template color-template-bitterberry color-template-background-clip">Bitterberries</span></a> (Rare, increments of 1 or 5)<br/>
-<span typeof="mw:Error mw:File"></span><a href="neonberry.html"><span class="color-template color-template-neonberry color-template-background-clip">Neonberry</span></a> (Very Rare)<br/>
-<span typeof="mw:Error mw:File"></span><a href="ant-pass.html"><span class="color-template color-template-ant-pass color-template-background-clip">Ant Pass</span></a> (Very Rare)<br/>
-<span typeof="mw:Error mw:File"></span><a href="elf-cap.html"><span class="color-template color-template-elf-cap color-template-background-clip">Elf Cap</span></a> (Rare, Exclusive to Beesmas only)<br/>
-<span typeof="mw:Error mw:File"></span><a href="gingerbread-bear.html"><span class="color-template color-template-gingerbread-bear color-template-background-clip">Gingerbread Bear</span></a> (Rare, Exclusive to Beesmas only)<br/>
-<span typeof="mw:Error mw:File"></span><a href="egg.html#Rascal_Bee_Egg"><span class="color-template color-template-rascal-bee-egg color-template-background-clip">Rascal Bee Egg</span></a> (Exceptionally Rare)<br/>
-<span typeof="mw:Error mw:File"></span><a href="pink-balloon.html"><span class="color-template color-template-pink-balloon color-template-background-clip">Pink Balloon</span></a> (Nearly Impossible)
+<td><img alt="Ticket" height="35" src="img/Ticket.png" width="35"/><a href="ticket.html"><span class="color-template color-template-ticket color-template-background-clip">Tickets</span></a> (2% Chance, Increments of 1, 5 or 10)<br/>
+<p><img alt="Strawberry" height="35" src="img/Strawberry.png" width="35"/><a href="strawberry.html"><span class="color-template color-template-strawberry color-template-background-clip">Strawberries</span></a> (Increments of 1, 5 or 10)<br/>
+<img alt="Gumdrops" height="35" src="img/Gumdrops.png" width="35"/><a href="gumdrops.html"><span class="color-template color-template-gumdrops color-template-background-clip">Gumdrops</span></a> (Increments of 1, 5 or 10)<br/>
+<img alt="Treat" height="35" src="img/Treat.png" width="35"/><a href="treat.html"><span class="color-template color-template-treat">Treats</span></a> (Increments of 1 or 50)<br/>
+<img alt="Royal Jelly" height="35" src="img/Royal_Jelly.png" width="35"/><a href="royal-jelly.html"><span class="color-template color-template-royal-jelly color-template-background-clip">Royal Jelly</span></a> (Uncommon)<br/>
+<img alt="Robo Pass" height="35" src="img/Robo_Pass.png" width="35"/><a href="robo-pass.html"><span class="color-template color-template-robo-pass color-template-background-clip">Robo Pass</span></a> (Rare)<br/>
+<img alt="Magic Bean" height="35" src="img/Magic_Bean.png" width="35"/><a href="magic-bean.html"><span class="color-template color-template-magic-bean color-template-background-clip">Magic Bean</span></a> (Rare)<br/>
+<img alt="Red Extract" height="35" src="img/Red_Extract.png" width="35"/><a href="red-extract.html"><span class="color-template color-template-red-extract color-template-background-clip">Red Extract</span></a> (Rare)<br/>
+<img alt="Field Dice" height="35" src="img/Field_Dice.png" width="35"/><a href="field-dice.html"><span class="color-template color-template-field-dice color-template-background-clip">Field Dice</span></a> (Rare)<br/>
+<img alt="Honeysuckle" height="35" src="img/Honeysuckle.png" width="35"/><a href="honeysuckle.html"><span class="color-template color-template-honeysuckle color-template-background-clip">Honeysuckle</span></a> (Rare)<br/>
+<img alt="Bitterberry" height="35" src="img/Bitterberry.png" width="35"/><a href="bitterberry.html"><span class="color-template color-template-bitterberry color-template-background-clip">Bitterberries</span></a> (Rare, increments of 1 or 5)<br/>
+<img alt="Neonberry" height="35" src="img/Neonberry.png" width="35"/><a href="neonberry.html"><span class="color-template color-template-neonberry color-template-background-clip">Neonberry</span></a> (Very Rare)<br/>
+<img alt="Ant Pass" height="35" src="img/Ant_Pass.png" width="35"/><a href="ant-pass.html"><span class="color-template color-template-ant-pass color-template-background-clip">Ant Pass</span></a> (Very Rare)<br/>
+<img alt="Elf Cap" height="35" src="img/Elf_Cap.png" width="35"/><a href="elf-cap.html"><span class="color-template color-template-elf-cap color-template-background-clip">Elf Cap</span></a> (Rare, Exclusive to Beesmas only)<br/>
+<img alt="Gingerbread Bear" height="35" src="img/Gingerbread_Bear.png" width="35"/><a href="gingerbread-bear.html"><span class="color-template color-template-gingerbread-bear color-template-background-clip">Gingerbread Bear</span></a> (Rare, Exclusive to Beesmas only)<br/>
+<img alt="Basic Egg" height="35" src="img/Basic_Egg.png" width="35"/><a href="egg.html#Rascal_Bee_Egg"><span class="color-template color-template-rascal-bee-egg color-template-background-clip">Rascal Bee Egg</span></a> (Exceptionally Rare)<br/>
+<img alt="Pink Balloon" height="35" src="img/Pink_Balloon.png" width="35"/><a href="pink-balloon.html"><span class="color-template color-template-pink-balloon color-template-background-clip">Pink Balloon</span></a> (Nearly Impossible)
 </p>
 </td></tr></tbody></table>
 

@@ -1,6 +1,6 @@
 ---
 title: "Nectar"
-tags: ["Pages with broken file links", "Mechanics"]
+tags: ["Mechanics"]
 ---
 
 # Nectar
@@ -145,10 +145,6 @@ For example, let's calculate the amount of Blue Pollen a player gets from 18 hou
 * Comforting Nectar gives between x1.1 and x1.5 Blue Pollen, so \(min=1.1\) and \(max=1.5\).
 * \(min+(max-min)\times {({\frac {t}{86400}})}^{0.7}=1.1+(1.5-1.1)\times {({\frac {64800}{86400}})}^{0.7}=1.42704150727\), which is rounded to 1.427.
 * This means the player will get x1.427 Blue Pollen.
-
-## Gallery
-
-<div class="wikia-gallery wikia-gallery-caption-below wikia-gallery-position-left wikia-gallery-spacing-medium wikia-gallery-border-small wikia-gallery-captions-left wikia-gallery-caption-size-medium" data-seq-no="0" hash="e07681285a2cd427be17419b69fb5431" id="gallery-0"><div class="wikia-gallery-caption"></div><div class="wikia-gallery-item" style="width:187px; "><div class="thumb" style="height:187px;"><div class="gallery-image-wrapper accent" id="Hivesticker_satisfying_nectar_icon-png" style="position: relative; height:185px; width:185px;"><span style="line-height: 1;">Hivesticker satisfying nectar icon.png</span></div></div><div class="lightbox-caption" style="width:185px;">The Satisfying Nectar Icon Sticker.</div></div><div class="wikia-gallery-item" style="width:187px; "><div class="thumb" style="height:187px;"><div class="gallery-image-wrapper accent" id="Hivesticker_refreshing_nectar_icon-png" style="position: relative; height:185px; width:185px;"><span style="line-height: 1;">Hivesticker refreshing nectar icon.png</span></div></div><div class="lightbox-caption" style="width:185px;">The Refreshing Nectar Icon Sticker.</div></div><div class="wikia-gallery-item" style="width:187px; "><div class="thumb" style="height:187px;"><div class="gallery-image-wrapper accent" id="Hivesticker_motivating_nectar_icon-png" style="position: relative; height:185px; width:185px;"><span style="line-height: 1;">Hivesticker motivating nectar icon.png</span></div></div><div class="lightbox-caption" style="width:185px;">The Motivating Nectar Icon Sticker.</div></div><div class="wikia-gallery-item" style="width:187px; "><div class="thumb" style="height:187px;"><div class="gallery-image-wrapper accent" id="Hivesticker_invigorating_nectar_icon-png" style="position: relative; height:185px; width:185px;"><span style="line-height: 1;">Hivesticker invigorating nectar icon.png</span></div></div><div class="lightbox-caption" style="width:185px;">The Invigorating Nectar Icon Sticker.</div></div><div class="wikia-gallery-item" style="width:187px; "><div class="thumb" style="height:187px;"><div class="gallery-image-wrapper accent" id="Hivesticker_comforting_nectar_icon-png" style="position: relative; height:185px; width:185px;"><span style="line-height: 1;">Hivesticker comforting nectar icon.png</span></div></div><div class="lightbox-caption" style="width:185px;">The Comforting Nectar Icon Sticker.</div></div></div>
 
 ## Trivia
 

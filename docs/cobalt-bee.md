@@ -1,6 +1,6 @@
 ---
 title: "Cobalt Bee"
-tags: ["Pages with broken file links", "Bees", "Event", "Blue"]
+tags: ["Bees", "Event", "Blue"]
 ---
 
 # Cobalt Bee
@@ -370,10 +370,6 @@ Cobalt Bee likes the [Clover Field](clover-field.md) and the [Pine Tree Forest](
 </tbody></table></div>
 </td></tr>
 </tbody></table>
-
-## Gallery
-
-<div class="wikia-gallery wikia-gallery-caption-below wikia-gallery-position-left wikia-gallery-spacing-medium wikia-gallery-border-small wikia-gallery-captions-left wikia-gallery-caption-size-medium" data-seq-no="0" hash="02c155a1ef0b1c13e0d2a67820dcfde2" id="gallery-0"><div class="wikia-gallery-caption"></div><div class="wikia-gallery-item" style="width:187px; "><div class="thumb" style="height:187px;"><div class="gallery-image-wrapper accent" id="Old_CobaltBee_Slot-png" style="position: relative; height:185px; width:185px;"><span style="line-height: 1;">Old CobaltBee Slot.png</span></div></div><div class="lightbox-caption" style="width:185px;">Cobalt Bee's old hive slot design.</div></div><div class="wikia-gallery-item" style="width:187px; "><div class="thumb" style="height:187px;"><div class="gallery-image-wrapper accent" id="GiftedCobaltBee_Slot-png" style="position: relative; height:185px; width:185px;"><span style="line-height: 1;">GiftedCobaltBee Slot.png</span></div></div><div class="lightbox-caption" style="width:185px;">A Gifted Cobalt Bee hive slot.</div></div><div class="wikia-gallery-item" style="width:187px; "><div class="thumb" style="height:187px;"><div class="gallery-image-wrapper accent" id="CrimsonCobaltIcon-png" style="position: relative; height:185px; width:185px;"><span style="line-height: 1;">CrimsonCobaltIcon.png</span></div></div><div class="lightbox-caption" style="width:185px;">Cobalt and Crimson Bee in a thumbnail of <a href="re-swarm.html">Re://:Swarm</a>.</div></div><div class="wikia-gallery-item" style="width:187px; "><div class="thumb" style="height:187px;"><div class="gallery-image-wrapper accent" id="ColoredPulses_Field-jpeg" style="position: relative; height:185px; width:185px;"><span style="line-height: 1;">ColoredPulses Field.jpeg</span></div></div><div class="lightbox-caption" style="width:185px;">An activated blue and red pulse.</div></div><div class="wikia-gallery-item" style="width:187px; "><div class="thumb" style="height:187px;"><div class="gallery-image-wrapper accent" id="CobaltFace-png" style="position: relative; height:185px; width:185px;"><span style="line-height: 1;">CobaltFace.png</span></div></div><div class="lightbox-caption" style="width:185px;">Cobalt Bee's face.</div></div><div class="wikia-gallery-item" style="width:187px; "><div class="thumb" style="height:187px;"><div class="gallery-image-wrapper accent" id="Blue_Pulse-png" style="position: relative; height:185px; width:185px;"><span style="line-height: 1;">Blue Pulse.png</span></div></div><div class="lightbox-caption" style="width:185px;">The Blue Pulse Icon.</div></div><div class="wikia-gallery-item" style="width:187px; "><div class="thumb" style="height:187px;"><div class="gallery-image-wrapper accent" id="Blue_Bomb_Sync-png" style="position: relative; height:185px; width:185px;"><span style="line-height: 1;">Blue Bomb Sync.png</span></div></div><div class="lightbox-caption" style="width:185px;">The Blue Bomb Sync Icon.</div></div><div class="wikia-gallery-item" style="width:187px; "><div class="thumb" style="height:187px;"><div class="gallery-image-wrapper accent" id="Cobaltbeeoriginalface-png" style="position: relative; height:185px; width:185px;"><span style="line-height: 1;">Cobaltbeeoriginalface.png</span></div></div><div class="lightbox-caption" style="width:185px;">Cobalt Bee's original face.</div></div></div>
 
 ## Trivia
 

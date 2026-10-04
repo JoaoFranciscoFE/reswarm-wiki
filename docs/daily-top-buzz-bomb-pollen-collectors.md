@@ -1,6 +1,6 @@
 ---
 title: "Daily Top Buzz Bomb Pollen Collectors"
-tags: ["Pages with broken file links", "Leaderboards"]
+tags: ["Leaderboards"]
 ---
 
 # Daily Top Buzz Bomb Pollen Collectors
@@ -13,7 +13,7 @@ If the player has reached the top 10 by the end of the day, they will be awarded
 
 If the player has reached the top 100 by the end of the day, they will be awarded with 25 [Tickets](ticket.md).
 
-<div class="wikia-gallery wikia-gallery-caption-below wikia-gallery-position-left wikia-gallery-spacing-medium wikia-gallery-border-small wikia-gallery-captions-left wikia-gallery-caption-size-medium" data-seq-no="0" hash="d1c12d47dcb721be8b18f5ff6868f462" id="gallery-0"><div class="wikia-gallery-caption"></div><div class="wikia-gallery-item" style="width:187px; "><div class="thumb" style="height:187px;"><div class="gallery-image-wrapper accent" id="Hive_model_basic_black-png" style="position: relative; height:185px; width:185px;"><span style="line-height: 1;">Hive model basic black.png</span></div></div><div class="lightbox-caption" style="width:185px;">Top 10 prize for Daily Top Buzz Bomb Pollen Collectors.</div></div></div>
+
 
 <table class="mw-collapsible mw-collapsed NavTable">
 <tbody><tr>
