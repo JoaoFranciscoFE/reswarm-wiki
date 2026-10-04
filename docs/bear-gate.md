@@ -7,6 +7,7 @@ tags: ["Locations", "Gates"]
 
 <aside class="portable-infobox pi-background pi-border-color pi-theme-wikia pi-layout-default" role="region">
 <h2 class="pi-item pi-item-spacing pi-title pi-secondary-background" data-source="title1">Bear Gate</h2>
+<figure class="pi-item pi-image pi-photo"><img alt="Bear Gate" src="img/places/Bear_Gate.png" width="640" height="385"/></figure>
 <div class="pi-item pi-data pi-item-spacing pi-border-color" data-source="bears">
 <h3 class="pi-data-label pi-secondary-font">Quest Givers</h3>
 <div class="pi-data-value pi-font"><ul><li><a href="onett.html">Onett</a></li></ul><ul><li><a href="bubble-bee-man.html">Bubble Bee Man</a></li></ul></div>
