@@ -416,7 +416,7 @@ Precise Bee likes the [Mountain Top Field](mountain-top-field.md) and [Rose Fiel
 * This is the only bee that can attack [mobs](mobs.md) from outside the standard bee range, and likewise the only bee that shoots projectiles towards hostile mobs to deal damage.
 * This bee's attack changes appearance when landing a Critical Hit or Super-Crit. It fires a bigger projectile when landing a Critical Hit, and fires a purple projectile when landing a Super-Crit. This makes Precise Bee the only bee to have a standard attack that changes depending on whether a Critical hit (Or Super-Crit) are rolled.
 * This bee, [Buoyant Bee](buoyant-bee.md), and [Fuzzy Bee](fuzzy-bee.md) are the only mythic bees to be added since the release of the original three Mythic bees, which are [Vector Bee](vector-bee.md), [Tadpole Bee](tadpole-bee.md) and [Spicy Bee](spicy-bee.md).
-  * Precise Bee and Buoyant Bee were both added in the [2021-12-26 update](updates.md#2021-12-26).
+  * Precise Bee and Buoyant Bee were both added in the 2021-12-26 update.
 * This bee, Vector Bee, Spicy Bee and Buoyant Bee all have glowing parts when gifted.
   * This bee is the only bee that has a part of their body that glows even if it is not gifted.
 * This, along with Tabby Bee, are the only bees that have an ability that grants Super-Critical chance.
@@ -425,7 +425,7 @@ Precise Bee likes the [Mountain Top Field](mountain-top-field.md) and [Rose Fiel
   * The Precise Bee target practice of other players is seen as gray to prevent confusion on which one is the player's.
   * If the "Hide Other Bees" option were activated, other player's targets will be invisible instead.
 * This bee, [Cobalt Bee](cobalt-bee.md), [Crimson Bee](crimson-bee.md), [Photon Bee](photon-bee.md), [Windy Bee](windy-bee.md), [Tadpole Bee](tadpole-bee.md), and [Ninja Bee](ninja-bee.md) are the only bees that have a trail.
-* There used to be a [glitch](glitches.md) with Gifted Precise Bee's Precise Mark, that even after the farthest target is activated, it was supposed to summon the mark, but it often wouldn't spawn.
+* There used to be a glitch with Gifted Precise Bee's Precise Mark, that even after the farthest target is activated, it was supposed to summon the mark, but it often wouldn't spawn.
   * Another glitch can occur where when a target is hit, it does not function which commonly occur due to server lag.
   * After giving [Gifted Riley Bee](gifted-riley-bee.md) a [Presents](present.md) during the Beesmas 2022 Event, [Gifted Riley Bee](gifted-riley-bee.md) explains how people would die for a Precise Mark, possibly referencing this specific bug.
 * Precise Bee's attack can still be seen by other Players even if they have their Hide Other Bees option on.

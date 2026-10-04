@@ -88,10 +88,10 @@ If a player walks onto the platform without completing his quest, it displays th
 
 * Polar Bear's feast design is reminiscent to Big Ol' Turkey Legs, a running gag within the [ThnxCya](https://www.youtube.com/user/ThnxCya) community.
   * Polar Bear's dialogue after you complete his Beesmas 2020 quest directly referenced this, with the phrase "*A big ol' turkey and treat...*".
-* [Onett](onett-developer.md) stated on Discord that the Beesmas Feast was made using the Hostage Chicks from the Egg Hunt 2020 event.[1]
+* Onett stated on Discord that the Beesmas Feast was made using the Hostage Chicks from the Egg Hunt 2020 event.[1]
 * The eating sound is a cut out section of the song "*[Nom Nom Nom Nom Nom Nom Nom](https://www.youtube.com/watch?v=SMWi7CLoZ2Q)*", made by Parry Grip.
 * The Beesmas Feast used to drop all the 4 treats but was changed in Beesmas 2022.
-* It was introduced in [Beesmas 2020](updates.md#12.25.2020), and has returned in every Beesmas since.
+* It was introduced in Beesmas 2020, and has returned in every Beesmas since.
 * During the end of Beesmas 2025, after rebooting servers, Onett forgot to remove the Beesmas Feast causing it to stay in older servers after removing the rest of Beesmas.
 
 ## References

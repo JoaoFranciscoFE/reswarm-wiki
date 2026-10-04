@@ -1560,13 +1560,11 @@ There are currently no obtainable event badges.
 
 ## Badge Rims
 
-
-
 ## Trivia
 
-* In the [2018-06-02 update](updates.md#2018-06-02), [Ticket](ticket.md) prizes for badges were increased. If the player had already claimed these badges, they received the extra [Tickets](ticket.md) when they logged back in.
-* Even though Grandmaster Badges were added in the [2018-09-10 update](updates.md#2018-09-10), their icons still show images of the map prior to the [2018-07-11 update](updates.md#2018-07-11).
-* When the first badges were released in the [2018-05-12 update](updates.md#2018-05-12), the Clover Badge was bugged and did not give any loot luck. This was fixed in the [2019-09-28 update](updates.md#2019-09-28).
+* In the 2018-06-02 update, [Ticket](ticket.md) prizes for badges were increased. If the player had already claimed these badges, they received the extra [Tickets](ticket.md) when they logged back in.
+* Even though Grandmaster Badges were added in the 2018-09-10 update, their icons still show images of the map prior to the 2018-07-11 update.
+* When the first badges were released in the 2018-05-12 update, the Clover Badge was bugged and did not give any loot luck. This was fixed in the 2019-09-28 update.
 * The [Hive Hub Badge](hub-field.md), [Coconut Badge](coconut-field.md), [Pepper Badge](pepper-patch.md) and the [Mountain Top Badge](mountain-top-field.md) are the only badges that need more pollen than the other badges (10,000,000 pollen for Hive Hub Cadet, 50,000,000 pollen for Coconut Cadet and Pepper Cadet and 100,000,000 pollen for Mountain Top Cadet, rather than 250,000 for the other fields).
 * Badges can be used to get badge shivers from the [Wind Shrine](wind-shrine.md) for items. However, each shiver can only be obtained once.
 * As of 2026-01-17, the obtainable badges with the least amount of people to achieve them are the Hive Hub Grandmaster and the Mountain Top Grandmaster Badges, with 552 and 413 players respectively.

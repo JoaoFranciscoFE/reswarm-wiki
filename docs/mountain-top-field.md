@@ -152,57 +152,16 @@ This is a 24×28 field, containing 672 [flowers](flowers.md). The flowers are re
 * Redeeming certain valid codes:
   * ThreeBeeVee (Gives Mountain Top Field Boost x3, Mountain Top Field Capacity x3, and Mountain Top Field Code + other stuff).
 
-### Outdated Ways
-
-<table class="mw-collapsible mw-collapsed article-table">
-<caption>
-</caption>
-<tbody><tr>
-<td>
-<ul><li>Giving a <a href="present.html">Present</a> to <a href="onett.html">Onett</a> in 2020 gave Mountain Top Field Boost x1 and other boosts and <a href="items.html">items</a>. In 2021 and 2024, he gave Mountain Top Field Boost x3 and other boosts and items.</li>
-<li>Purchasing a Mountain Top Field <a href="buffs-debuffs.html#From_Areas">Market Boost</a> from the <a href="boost-market.html">Boost Market</a> or certain codes will give x1.5 Mountain Top <a href="field-capacity.html">Field Capacity</a>, x1.25 Mountain Top Field Pollen, +25% <a href="system-page.html#Tool_Pollen">Tool Pollen</a>, and x1.25 <a href="system-page.html#Hive_Convert_Rate">Convert Rate At Hive</a>.</li>
-<li>Redeeming certain expired codes:
-<ul><li>Keen4 (Gave Mountain Top Field Boost x3 + other stuff).</li>
-<li>3YearParty (Gives Mountain Top Field Boost x3, Mountain Top Field Capacity x3, and Mountain Top Field Market Boost + other stuff).</li>
-<li>100mVisits (Gave Mountain Top Field Boost x3 + other stuff).</li>
-<li>Xanthan (Gave Mountain Top Field Boost x3 + other stuff).</li>
-<li>Whoops (Gave Mountain Top Field Boost x3 + other stuff).</li>
-<li>SaleEnd (Gave Mountain Top Field Boost x3 + other stuff).</li>
-<li>Reboots (Gave Mountain Top Field Boost x4 + other stuff).</li>
-<li>MegaMittens (Gave Mountain Top Field Boost x3 + other stuff).</li>
-<li>PuppyPerk (Gave Mountain Top Field Boost x1 + other stuff).</li>
-<li>SunBearSendoff (Gave Mountain Top Field Boost x3 + other stuff).</li>
-<li>12HourGeneral (Gave Mountain Top Field Boost x1 + other stuff).</li>
-<li>Waiting (Gave Mountain Top Field Boost x3 + other stuff).</li>
-<li>1mFavorites (Gave Mountain Top Field Boost x1 + other stuff).</li>
-<li>MagicMittens (Gave Mountain Top Field Boost x1 + other stuff).</li>
-<li>SDMittens1T (Gave Mountain Top Field Boost x1 + other stuff).</li>
-<li>TallTallMountain (Gave Mountain Top Field Boost x2 + other stuff).</li>
-<li>BloxyCelebration (Gave Mountain Top Field Boost x3 + other stuff).</li>
-<li>WindyWeekend (Gave Mountain Top Field Boost x1 and Mountain Top Field Winds x3 + other stuff).</li>
-<li>RebootCheer (Gave Mountain Top Field Boost x3 and Mountain Top Field Winds x3 + other stuff).</li>
-<li>2Years (Gave Mountain Top Field Boost x3 + other stuff).</li>
-<li>2YearsAfterParty (Gave Mountain Top Field Capacity x3 and Mountain Top Field Market Boost + other stuff).</li>
-<li>SpaceReboot (Gave Mountain Top Field Boost x3 and Mountain Top Field Capacity x3 + other stuff).</li>
-<li>BillionVisits (Gave Mountain Top Field Winds x10 + other stuff).</li>
-<li>MondoOutage (Gave Mountain Top Field Code Buff + other stuff).</li>
-<li>FrozenBugReboot (Gave Mountain Top Field Boost x4 and Mountain Top Field Code Buff + other stuff).</li>
-<li>1MLikes (Gave Mountain Top Field Boost x1 + other stuff)</li>
-<li>BlackReboot (Gave Mountain Top Field Boost x4 and Mountain Top Field Winds x15 + other stuff)</li>
-<li>BeequipTradeReboot (Gave Mountain Top Field Boost x4, and Mountain Top Field Winds x15 + other stuff).</li>
-<li>FrogFix (Gave Mountain Top Field Boost x1 and Mountain Top Field Capacity x1 + other stuff).</li></ul></li></ul>
-</td></tr></tbody></table>
-
 ## Trivia
 
 * This is the only field that doesn't produce [treats](treats.md) from farming. However, harvesting [sprouts](sprout.md) in the Mountain Top Field will still drop normal rewards.
 * Leaves in this field are much less frequent, and always either spawn bitterberries, [aphids](aphid.md), or a [sticker](sticker.md).
-* This was the only field that wasn't targeted by the [Gummy Cannon](gummy-cannon.md) during the Gummy Invasion event. (The [Stump Field](stump-field.md), [Coconut Field](coconut-field.md), [Pepper Patch](pepper-patch.md), and the [Ant Field](ant-field.md) were not in the game at that time.)
+* This was the only field that wasn't targeted by the Gummy Cannon during the Gummy Invasion event. (The [Stump Field](stump-field.md), [Coconut Field](coconut-field.md), [Pepper Patch](pepper-patch.md), and the [Ant Field](ant-field.md) were not in the game at that time.)
 * The Mountain Top Field used to not have a badge dedicated to it.
   * This was changed in the 2024-01-12 Update, when the Mountain Top Field received a [badge](badges.md), thus making the Ant Field the only field without a badge, and, later, the Brick Fields as well.
 * This is the first field that consists of only triple flowers, the second being the Stump Field, the third and fourth being the Pepper Patch and the Coconut Field.
   * This is also the only field without any white flowers.
-* Before the [2018-11-25 update](updates.md#2018-11-25), the [Red Cannon](red-cannon.md) required 22 discovered [bee](bees.md) types, but now it requires 25 instead, so the player can't bypass the Lion Bee Gate without 25 bees or 25 bee types discovered.
+* Before the 2018-11-25 update, the [Red Cannon](red-cannon.md) required 22 discovered [bee](bees.md) types, but now it requires 25 instead, so the player can't bypass the Lion Bee Gate without 25 bees or 25 bee types discovered.
   * After the 2019-09-28 update, even by bypassing the Lion Bee Gate with 25 bee types discovered but not 25 bees, the player will be teleported back to spawn.
 * The Mountain Top Field requires the most amount of pollen to unlock its Grandmaster badge, at a grand total of 1 quadrillion pollen.
 * The Mountain Top Field is the only field that cannot be boosted without the help of items or codes.
@@ -249,5 +208,5 @@ This is a 24×28 field, containing 672 [flowers](flowers.md). The flowers are re
 <tr>
 <th class="NavCategory">Event<br/>Locations
 </th>
-<td class="NavLinks NavLinksBasicEven"><b><a href="beesmas-tree.html">Beesmas Tree</a> • <a href="ornament-presents.html">Ornament Presents</a> • <span class="new" data-uncrawlable-url="L3dpa2kvQ29tcHV0ZXI/YWN0aW9uPWVkaXQmcmVkbGluaz0x" title="Computer (page does not exist)">Computer</span> • <a href="gift-boxes.html">Gift Boxes</a> • <a href="honey-wreath.html">Honey Wreath</a> • <a href="stockings.html">Stockings</a> • <a href="gingerbread-house.html">Gingerbread House</a> • <a href="snowbear-summoner.html">Snowbear Summoner</a> • <a href="beesmas-lights.html">Beesmas Lights</a> • <a href="samovar.html">Samovar</a> • <a href="beesmas-feast.html">Beesmas Feast</a> • <a href="onett-s-lid-art.html">Onett's Lid Art</a> • <a href="wind-shrine.html#Galentine_Shrine">Galentine Shrine</a> • <a href="memory-match.html#Winter_Memory_Match">Winter Memory Match</a> • <a href="snow-machine.html">Snow Machine</a> • <a href="honeyday-candles.html">Honeyday Candles</a> • <a href="robo-party-cake.html">Robo Party Cake</a> • <a href="gummy-beacon.html">Gummy Beacon</a> • <a href="naughty-list.html">Naughty List</a></b>
+<td class="NavLinks NavLinksBasicEven"><b><a href="beesmas-tree.html">Beesmas Tree</a> • <span class="new" data-uncrawlable-url="L3dpa2kvQ29tcHV0ZXI/YWN0aW9uPWVkaXQmcmVkbGluaz0x" title="Computer (page does not exist)">Computer</span> • <a href="gift-boxes.html">Gift Boxes</a> • <a href="honey-wreath.html">Honey Wreath</a> • <a href="stockings.html">Stockings</a> • <a href="gingerbread-house.html">Gingerbread House</a> • <a href="snowbear-summoner.html">Snowbear Summoner</a> • <a href="beesmas-lights.html">Beesmas Lights</a> • <a href="samovar.html">Samovar</a> • <a href="beesmas-feast.html">Beesmas Feast</a> • <a href="onett-s-lid-art.html">Onett's Lid Art</a> • <a href="wind-shrine.html#Galentine_Shrine">Galentine Shrine</a> • <a href="memory-match.html#Winter_Memory_Match">Winter Memory Match</a> • <a href="snow-machine.html">Snow Machine</a> • <a href="honeyday-candles.html">Honeyday Candles</a> • <a href="robo-party-cake.html">Robo Party Cake</a> • <a href="gummy-beacon.html">Gummy Beacon</a> • <a href="naughty-list.html">Naughty List</a></b>
 </td></tr></tbody></table>

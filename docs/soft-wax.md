@@ -11,7 +11,7 @@ Soft Wax
 
 *"A squishy hunk of beeswax. Has a 100% chance to slightly improve a bee’s Beequip."*
 
-**Soft Wax** is an inventory item and a type of [wax](waxes.md) added in the [2021-12-26 update](updates.md#2021-12-26) that can be used on a [Beequip](beequip.md) to boost its stats. Upon usage, it has a 100% chance to slightly improve the Beequip's stats. Soft wax has [upgrade value](beequip.md#Stats,_Waxes,_Chances) of 1.
+**Soft Wax** is an inventory item and a type of [wax](waxes.md) added in the 2021-12-26 update that can be used on a [Beequip](beequip.md) to boost its stats. Upon usage, it has a 100% chance to slightly improve the Beequip's stats. Soft wax has [upgrade value](beequip.md#Stats,_Waxes,_Chances) of 1.
 
 It also can be used for crafting items and tools, such as [planters](planter.md), and other types of wax, such as, [Hard Wax](hard-wax.md), [Swirled Wax](swirled-wax.md), and [Caustic Wax](caustic-wax.md). These can all be made in the [Blender](blender.md).
 
@@ -56,24 +56,6 @@ The Wax has Improved the Beequip!
 * [Dapper Bear](dapper-bear.md) gives soft waxes on the following quests:
   * Dapper Bear's Liquid Motivation (#2) rewards 3 soft waxes and other items.
   * Dapper Bear's The Trick To Tickets (#11) rewards 10 soft waxes and other items.
-
-### Outdated Ways
-
-<table class="mw-collapsible mw-collapsed article-table">
-<caption>
-</caption>
-<tbody><tr>
-<td>
-<ul><li>Opening the <a href="gift-boxes.html">Pristine Gift Box</a> rewarded 20 soft waxes and other items.</li>
-<li>Purchasing the Waxy Bundle from Bee Bear’s Catalog rewarded 25 soft waxes + other items.</li>
-<li>Purchasing the New Year Booster Bundle from the Robux shop rewarded 15 soft waxes + other items.</li>
-<li>As a reward from <a href="memory-match.html#Winter_Memory_Match">Winter Memory Match</a>.</li>
-<li>As a drop from <a href="snowbear.html">Snowbear</a> during Beesmas 2021.</li>
-<li>Using Riley Bee's <a href="honeyday-candles.html">Honeyday Candles</a> has a 81.3% chance to give 3 soft wax.</li>
-<li>As a reward from quests.
-<ul><li>Bee Bear's Shiverin' In The Snow (#7) - x3 Soft waxes (2022).</li>
-<li>Bee Bear’s Upgrading The Honeydays (#13) - x10 Soft waxes (2022).</li></ul></li></ul>
-</td></tr></tbody></table>
 
 ## Crafting Uses
 
@@ -324,7 +306,7 @@ Total required for all single-purchase items: 829 **Soft Waxes**
 </th>
 <th class="NavCategory">Quest Exclusive
 </th>
-<td class="NavLinks NavLinksBasicEven"><b><img alt="Translator" height="35" src="img/Translator.png" width="35"/> <a href="translator.html">Translator</a> • <img alt="Spirit Petal" height="35" src="img/Spirit_Petal.png" width="35"/> <a href="spirit-petal.html">Spirit Petal</a> • <img alt="Debug Wax" height="35" src="img/Debug_Wax.png" width="35"/> <a href="debug-wax.html">Debug Wax</a> • <img alt="Nectar Tester" height="35" src="img/Nectar_Tester.png" width="35"/> <a href="nectar-tester.html">Nectar Tester</a></b> • <span typeof="mw:Error mw:File"></span> <a href="bbm-s-apology.html">BBM's Apology</a><b></b>
+<td class="NavLinks NavLinksBasicEven"><b><img alt="Translator" height="35" src="img/Translator.png" width="35"/> <a href="translator.html">Translator</a> • <img alt="Spirit Petal" height="35" src="img/Spirit_Petal.png" width="35"/> <a href="spirit-petal.html">Spirit Petal</a> • <img alt="Debug Wax" height="35" src="img/Debug_Wax.png" width="35"/> <a href="debug-wax.html">Debug Wax</a> • <img alt="Nectar Tester" height="35" src="img/Nectar_Tester.png" width="35"/> <a href="nectar-tester.html">Nectar Tester</a></b> • <span typeof="mw:Error mw:File"></span> <b></b>
 </td></tr>
 <tr>
 <th class="NavCategory">Beesmas

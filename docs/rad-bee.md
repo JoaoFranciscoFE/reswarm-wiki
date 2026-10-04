@@ -403,7 +403,7 @@ Rad Bee likes the [Mushroom Field](mushroom-field.md) and the [Rose Field](rose-
 
 ## Trivia
 
-* Rad Bee used to have the entry: "A stylish bee with a taste for red flowers. Everyone wants to be him." This was changed to the current entry in the [2018-11-25 update](updates.md#2018-11-25).
+* Rad Bee used to have the entry: "A stylish bee with a taste for red flowers. Everyone wants to be him." This was changed to the current entry in the 2018-11-25 update.
 * Its blue counterpart is [Cool Bee](cool-bee.md).
 * A [special jelly](royal-jelly.md#Specific_Bee_Jelly) that changes a bee into a Rad Bee can be obtained from the codes, 'Nonchalant' and 'Strawbeary' (both expired).
 * This bee has the same field preferences as [Rascal Bee](rascal-bee.md).

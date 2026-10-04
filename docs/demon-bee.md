@@ -410,8 +410,8 @@ Demon Bee likes the [Mushroom Field](mushroom-field.md) and the [Spider Field](s
 * Demon Bee, [Riley Bee](riley-bee.md), and [Rascal Bee](rascal-bee.md) have the same skin colors.
 * Both Demon Bee and [Fire Bee](fire-bee.md) have the same flame effect.
 * The [Demon Mask](demon-mask.md), which can be purchasable in the [Lava Obby](obstacle-courses.md#Lava_Obby), has a special design, name, and stats dedicated to Demon Bee.
-* [Onett](onett-developer.md) has said on Discord that during early stages, it was supposed to summon Fire Bees. This role has now been taken over by [Spicy Bee](spicy-bee.md).
-* Before the [2020-04-06 Update](updates.md#2020-04-06), Demon Bee had the highest base gather amount in the game with the exception of a [Tabby Bee](tabby-bee.md) with a 500+ stack of Tabby Love. Since then, [Fuzzy Bee](fuzzy-bee.md) has taken that position.
+* Onett has said on Discord that during early stages, it was supposed to summon Fire Bees. This role has now been taken over by [Spicy Bee](spicy-bee.md).
+* Before the 2020-04-06 Update, Demon Bee had the highest base gather amount in the game with the exception of a [Tabby Bee](tabby-bee.md) with a 500+ stack of Tabby Love. Since then, [Fuzzy Bee](fuzzy-bee.md) has taken that position.
 * Demon Bee is the red counterpart of [Diamond Bee](diamond-bee.md).
 * One reason Demon Bee dislikes the Mountain Top Field might be because it is closer to heaven (the sky) than all other Fields.
 * This bee can be summoned by the [Honeyday Candles](honeyday-candles.md).

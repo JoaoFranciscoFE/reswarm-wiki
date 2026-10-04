@@ -9,9 +9,9 @@ There are many different kinds of **enemies/creatures/monsters** (colloquially c
 
 The most abundant mob in terms of spawn points is the [rhino beetle](rhino-beetle.md), as there are five spawn points for them in the game, with [Ladybugs](ladybug.md) being the second, with four spawn points. The mob with the longest spawn time is the [Stump Snail](stump-snail.md), respawning in 96 hours.
 
-The 8 entities that can attack other mobs are [bees](bees.md), [flames](flame.md), [frogs](frog.md), [Rogue Vicious Bee](rogue-vicious-bee.md), [Wild Windy Bee](wild-windy-bee.md), [abilities](ability-tokens.md), [passives](passive-abilities.md), [coconuts](coconut.md), and the coal summoned from the [Naughty List](naughty-list.md) during Beesmas. One method for defeating mobs that reliably works for any mob that defends a field (everything other than the [King Beetle](king-beetle.md), [Tunnel Bear](tunnel-bear.md), [cave monsters](cave-monster.md), [Stick Bug](stick-bug.md), [Rogue Vicious Bee](rogue-vicious-bee.md), [Wild Windy Bee](wild-windy-bee.md), and the [Commando Chick](chicks.md#Commando_Chick)), with the exception of the [Coconut Crab](coconut-crab.md) and [Mondo Chick](chicks.md#Mondo_Chick), is to jump continuously. It is one of the [glitches](glitches.md) where when jumping, mobs will freeze and not attack which leads to the player's bees thinking the mob isn't a threat and not attack it. Players would have to make sure their bees "know" to attack a mob before starting to jump - if the mob has not started attacking them - by waiting for their bees to begin attacking the mob before jumping.
+The 8 entities that can attack other mobs are [bees](bees.md), [flames](flame.md), [frogs](frog.md), [Rogue Vicious Bee](rogue-vicious-bee.md), [Wild Windy Bee](wild-windy-bee.md), [abilities](ability-tokens.md), [passives](passive-abilities.md), [coconuts](coconut.md), and the coal summoned from the [Naughty List](naughty-list.md) during Beesmas. One method for defeating mobs that reliably works for any mob that defends a field (everything other than the [King Beetle](king-beetle.md), [Tunnel Bear](tunnel-bear.md), [cave monsters](cave-monster.md), [Stick Bug](stick-bug.md), [Rogue Vicious Bee](rogue-vicious-bee.md), [Wild Windy Bee](wild-windy-bee.md), and the [Commando Chick](chicks.md#Commando_Chick)), with the exception of the [Coconut Crab](coconut-crab.md) and [Mondo Chick](chicks.md#Mondo_Chick), is to jump continuously. It is one of the glitches where when jumping, mobs will freeze and not attack which leads to the player's bees thinking the mob isn't a threat and not attack it. Players would have to make sure their bees "know" to attack a mob before starting to jump - if the mob has not started attacking them - by waiting for their bees to begin attacking the mob before jumping.
 
-Before the [2019-02-01 update](updates.md#2019-02-01), rewards from defeating any mob were sent to the player's inventory right after the mob was defeated. After the update, the mobs were altered to drop a ring of tokens around it instead ([battle points](battle-points.md) do not spawn as tokens). Other players cannot collect tokens dropped by the mob if the mob was not spawned by them. The tokens can be collected by a [token link](ability-tokens.md#Token_Link), unless the rewards are from public mobs, meaning other players can collect the drops regardless of whether they attacked it or not.
+Before the 2019-02-01 update, rewards from defeating any mob were sent to the player's inventory right after the mob was defeated. After the update, the mobs were altered to drop a ring of tokens around it instead ([battle points](battle-points.md) do not spawn as tokens). Other players cannot collect tokens dropped by the mob if the mob was not spawned by them. The tokens can be collected by a [token link](ability-tokens.md#Token_Link), unless the rewards are from public mobs, meaning other players can collect the drops regardless of whether they attacked it or not.
 
 Mobs have levels that are shown next to their name. If a player's bees are at a lower level than the mob they are attacking, they have a higher chance of missing their attacks depending on how far the level of the bee is from the level of the mob being attacked. This means that the lower the level of the bee, the more likely a mob that has a higher level than the bee attacking will deflect or dodge the bee's attacks.
 
@@ -114,8 +114,6 @@ Monster Respawn Time can lower the time it takes for these mobs to respawn. For 
 <td>1 hour
 </td></tr></tbody></table>
 
-
-
 ## Mini-Bosses
 
 Mini-bosses don't necessarily fit the qualities of a regular boss, but exhibit a special quality that doesn't fit field mob requirements either.
@@ -211,8 +209,6 @@ Limited-time.
 <td>Spawns when summoned. Has a one-hour and thirty minute cooldown.
 </td></tr></tbody></table>
 
-
-
 ## Bosses
 
 Bosses exhibit special properties, or otherwise drop unique rewards that makes them different from field mobs.
@@ -306,8 +302,6 @@ Level and health scales.
 </td>
 <td>Spawns when Stick Bug Challenge is started
 </td></tr></tbody></table>
-
-
 
 ## Miscellaneous Mobs
 
@@ -566,7 +560,7 @@ Rewards and pollen scale up by level and rarity.
 <tr>
 <td><a href="party-cogmower.html">Party Cogmower</a>
 </td>
-<td>All fields in the main area except for <a href="coconut-field.html">Coconut Field</a> and <a href="ant-field.html">Ant Field</a>. Summoned through initiating a Robo Party by a player or <a href="onett-developer.html">Onett</a>.
+<td>All fields in the main area except for <a href="coconut-field.html">Coconut Field</a> and <a href="ant-field.html">Ant Field</a>. Summoned through initiating a Robo Party by a player or Onett.
 </td>
 <td>1-28
 </td>
@@ -577,7 +571,7 @@ Rewards and pollen scale up by level and rarity.
 <tr>
 <td><a href="party-cogturret.html">Party Cogturret</a>
 </td>
-<td>All fields in the main area except for <a href="coconut-field.html">Coconut Field</a> and <a href="ant-field.html">Ant Field</a>. Summoned through initiating a Robo Party by  a player or <a href="onett-developer.html">Onett</a> (Exclusive in Rank 5+).
+<td>All fields in the main area except for <a href="coconut-field.html">Coconut Field</a> and <a href="ant-field.html">Ant Field</a>. Summoned through initiating a Robo Party by  a player or Onett (Exclusive in Rank 5+).
 </td>
 <td>5-27
 </td>
@@ -590,7 +584,7 @@ Rewards and pollen scale up by level and rarity.
 <tr>
 <td><a href="party-mechsquito.html">Party Mechsquito</a>
 </td>
-<td>All fields in the main area except for <a href="coconut-field.html">Coconut Field</a> and <a href="ant-field.html">Ant Field</a>. Summoned through initiating a Robo Party by a player or <a href="onett-developer.html">Onett</a>.
+<td>All fields in the main area except for <a href="coconut-field.html">Coconut Field</a> and <a href="ant-field.html">Ant Field</a>. Summoned through initiating a Robo Party by a player or Onett.
 </td>
 <td>1-28
 </td>
@@ -603,7 +597,7 @@ Rewards and pollen scale up by level and rarity.
 <tr>
 <td><a href="party-mega-mechsquito.html">Party Mega Mechsquito</a>
 </td>
-<td>All fields in the main area except for <a href="coconut-field.html">Coconut Field</a> and <a href="ant-field.html">Ant Field</a>. Summoned through initiating a Robo Party by  a player or <a href="onett-developer.html">Onett</a> (Exclusive in Rank 15+).
+<td>All fields in the main area except for <a href="coconut-field.html">Coconut Field</a> and <a href="ant-field.html">Ant Field</a>. Summoned through initiating a Robo Party by  a player or Onett (Exclusive in Rank 15+).
 </td>
 <td>11-27
 </td>
@@ -697,6 +691,4 @@ Rewards and pollen scale up by level.
 <p>Spreads petals around itself when defeated, which can be collected for buffs.
 </p>
 </td></tr></tbody></table>
-
-
 

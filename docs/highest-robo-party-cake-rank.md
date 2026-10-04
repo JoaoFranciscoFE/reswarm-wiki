@@ -9,120 +9,7 @@ This piece of content goes bye bye.
 
 The following content has been removed from the game. The contents below may be archival, but feel free to edit below.
 
-*Note: This table was **last updated on 2024-12-29***
-
-<table align="right" cellpadding="3" cellspacing="0" style="border-radius: 2px; -moz-border-radius: 2px; -webkit-border-radius: 2px; -khtml-border-radius: 2px; -icab-border-radius: 2px; -o-border-radius: 2px;; margin-left:5px; margin-bottom:5px; width: 300px; font-size: 65%; border:8px solid #5d391a;">
-<tbody><tr>
-<th colspan="3" style="border-radius: 1px; -moz-border-radius: 1px; -webkit-border-radius: 1px; -khtml-border-radius: 1px; -icab-border-radius: 1px; -o-border-radius: 1px;; text-align:center; font-size:18px; color:#242e2d; background:#deb81d">Highest Robo Party Cake Rank
-</th></tr>
-<tr class="mobile-hidden">
-<td colspan="3" style="padding:0; height:2.5px; background-color:#1d1d1d">
-</td></tr>
-<tr style="color:#0e0e0e; background:#68ccc6;">
-<td style="width:10%;"><b>1:</b>
-</td>
-<td style="font-size:15px; width:50%;"><b>ohFrags</b>
-</td>
-<td style="font-size:15px; width:50%;"><b>5</b>
-</td></tr>
-<tr class="mobile-hidden">
-<td colspan="3" style="padding:0; height:2.5px; background-color:#1d1d1d">
-</td></tr>
-<tr style="color:#0e0e0e; background:#b59005;">
-<td style="width:10%;"><b>2:</b>
-</td>
-<td style="font-size:15px; width:50%;"><b>H0neyMarks</b>
-</td>
-<td style="font-size:15px; width:50%;"><b>5</b>
-</td></tr>
-<tr class="mobile-hidden">
-<td colspan="3" style="padding:0; height:2.5px; background-color:#1d1d1d">
-</td></tr>
-<tr style="color:#0e0e0e; background:#a4a7bb;">
-<td style="width:10%;"><b>3:</b>
-</td>
-<td style="font-size:15px; width:50%;"><b>Tommi_682</b>
-</td>
-<td style="font-size:15px; width:50%;"><b>4</b>
-</td></tr>
-<tr class="mobile-hidden">
-<td colspan="3" style="padding:0; height:2.5px; background-color:#1d1d1d">
-</td></tr>
-<tr style="color:#cfd4d6; background:#473c06;">
-<td style="width:10%;"><b>4:</b>
-</td>
-<td style="font-size:15px; width:50%;"><b>BuffJellybeans_Cardi</b>
-</td>
-<td style="font-size:15px; width:50%;"><b>4</b>
-</td></tr>
-<tr class="mobile-hidden">
-<td colspan="3" style="padding:0; height:2.5px; background-color:#1d1d1d">
-</td></tr>
-<tr style="color:#cfd4d6; background:#473c06;">
-<td style="width:10%;"><b>5:</b>
-</td>
-<td style="font-size:15px; width:50%;"><b>ANormalRandonPlayer</b>
-</td>
-<td style="font-size:15px; width:50%;"><b>4</b>
-</td></tr>
-<tr class="mobile-hidden">
-<td colspan="3" style="padding:0; height:2.5px; background-color:#1d1d1d">
-</td></tr>
-<tr style="color:#cfd4d6; background:#473c06;">
-<td style="width:10%;"><b>6:</b>
-</td>
-<td style="font-size:15px; width:50%;"><b>orri_ic</b>
-</td>
-<td style="font-size:15px; width:50%;"><b>3</b>
-</td></tr>
-<tr class="mobile-hidden">
-<td colspan="3" style="padding:0; height:2.5px; background-color:#1d1d1d">
-</td></tr>
-<tr style="color:#cfd4d6; background:#473c06;">
-<td style="width:10%;"><b>7:</b>
-</td>
-<td style="font-size:15px; width:50%;"><b>rhrghtent</b>
-</td>
-<td style="font-size:15px; width:50%;"><b>3</b>
-</td></tr>
-<tr class="mobile-hidden">
-<td colspan="3" style="padding:0; height:2.5px; background-color:#1d1d1d">
-</td></tr>
-<tr style="color:#cfd4d6; background:#473c06;">
-<td style="width:10%;"><b>8:</b>
-</td>
-<td style="font-size:15px; width:50%;"><b>game28457</b>
-</td>
-<td style="font-size:15px; width:50%;"><b>3</b>
-</td></tr>
-<tr class="mobile-hidden">
-<td colspan="3" style="padding:0; height:2.5px; background-color:#1d1d1d">
-</td></tr>
-<tr style="color:#cfd4d6; background:#473c06;">
-<td style="width:10%;"><b>9:</b>
-</td>
-<td style="font-size:15px; width:50%;"><b>ZakBeast999</b>
-</td>
-<td style="font-size:15px; width:50%;"><b>3</b>
-</td></tr>
-<tr class="mobile-hidden">
-<td colspan="3" style="padding:0; height:2.5px; background-color:#1d1d1d">
-</td></tr>
-<tr style="color:#cfd4d6; background:#473c06;">
-<td style="width:10%;"><b>10:</b>
-</td>
-<td style="font-size:15px; width:50%;"><b>Roblox444GoVNO</b>
-</td>
-<td style="font-size:15px; width:50%;"><b>3</b>
-</td></tr>
-<tr class="mobile-hidden">
-<td colspan="3" style="padding:0; height:2.5px; background-color:#1d1d1d">
-</td></tr>
-<tr style="color:#cfd4d6; background:#473c06;">
-<td colspan="3"><b>Page last updated on 10/3/2026</b><i></i>
-</td></tr></tbody></table>
-
-The **Highest Robo Party Cake Rank** is one of the 64 [leaderboards](leaderboards.md) in the game. It was added in the [2023.04.01 ipdate](updates.md). It is located near the [Rose Field](rose-field.md), to the right side of [Robo Party Cake](robo-party-cake.md). To summon a Robo Party, the player must complete [Robo Bear](robo-bear.md)'s Beesmas quest. Each time the player beats their Robo Party, their Robo Party Cake Rank increases by one. There are 100 ranks in total and each rank requires more party points to achieve than the one before. The player with the highest rank is displayed at the top of the leaderboard. There is no white pad on this leaderboard.
+The **Highest Robo Party Cake Rank** is one of the 64 [leaderboards](leaderboards.md) in the game. It was added in the 2023.04.01 ipdate. It is located near the [Rose Field](rose-field.md), to the right side of [Robo Party Cake](robo-party-cake.md). To summon a Robo Party, the player must complete [Robo Bear](robo-bear.md)'s Beesmas quest. Each time the player beats their Robo Party, their Robo Party Cake Rank increases by one. There are 100 ranks in total and each rank requires more party points to achieve than the one before. The player with the highest rank is displayed at the top of the leaderboard. There is no white pad on this leaderboard.
 
 ## Trivia
 
@@ -171,5 +58,5 @@ The **Highest Robo Party Cake Rank** is one of the 64 [leaderboards](leaderboard
 <tr>
 <th class="NavCategory">Event<br/>Locations
 </th>
-<td class="NavLinks NavLinksBasicEven"><b><a href="beesmas-tree.html">Beesmas Tree</a> • <a href="ornament-presents.html">Ornament Presents</a> • <span class="new" data-uncrawlable-url="L3dpa2kvQ29tcHV0ZXI/YWN0aW9uPWVkaXQmcmVkbGluaz0x" title="Computer (page does not exist)">Computer</span> • <a href="gift-boxes.html">Gift Boxes</a> • <a href="honey-wreath.html">Honey Wreath</a> • <a href="stockings.html">Stockings</a> • <a href="gingerbread-house.html">Gingerbread House</a> • <a href="snowbear-summoner.html">Snowbear Summoner</a> • <a href="beesmas-lights.html">Beesmas Lights</a> • <a href="samovar.html">Samovar</a> • <a href="beesmas-feast.html">Beesmas Feast</a> • <a href="onett-s-lid-art.html">Onett's Lid Art</a> • <a href="wind-shrine.html#Galentine_Shrine">Galentine Shrine</a> • <a href="memory-match.html#Winter_Memory_Match">Winter Memory Match</a> • <a href="snow-machine.html">Snow Machine</a> • <a href="honeyday-candles.html">Honeyday Candles</a> • <a href="robo-party-cake.html">Robo Party Cake</a> • <a href="gummy-beacon.html">Gummy Beacon</a> • <a href="naughty-list.html">Naughty List</a></b>
+<td class="NavLinks NavLinksBasicEven"><b><a href="beesmas-tree.html">Beesmas Tree</a> • <span class="new" data-uncrawlable-url="L3dpa2kvQ29tcHV0ZXI/YWN0aW9uPWVkaXQmcmVkbGluaz0x" title="Computer (page does not exist)">Computer</span> • <a href="gift-boxes.html">Gift Boxes</a> • <a href="honey-wreath.html">Honey Wreath</a> • <a href="stockings.html">Stockings</a> • <a href="gingerbread-house.html">Gingerbread House</a> • <a href="snowbear-summoner.html">Snowbear Summoner</a> • <a href="beesmas-lights.html">Beesmas Lights</a> • <a href="samovar.html">Samovar</a> • <a href="beesmas-feast.html">Beesmas Feast</a> • <a href="onett-s-lid-art.html">Onett's Lid Art</a> • <a href="wind-shrine.html#Galentine_Shrine">Galentine Shrine</a> • <a href="memory-match.html#Winter_Memory_Match">Winter Memory Match</a> • <a href="snow-machine.html">Snow Machine</a> • <a href="honeyday-candles.html">Honeyday Candles</a> • <a href="robo-party-cake.html">Robo Party Cake</a> • <a href="gummy-beacon.html">Gummy Beacon</a> • <a href="naughty-list.html">Naughty List</a></b>
 </td></tr></tbody></table>

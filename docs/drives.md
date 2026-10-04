@@ -5,7 +5,7 @@ tags: ["Inventory", "Items", "Robo Bear Challenge"]
 
 # Drives
 
-**Drives** are inventory items that were introduced in the [2022-12-26 update](updates.md#2022-12-26). They can be used to repair [Robo Bear](robo-bear.md), purchase [Digital Bee](digital-bee.md), upgrade Digital Bee, and grant boosts during a round of the [Robo Bear Challenge](robo-bear-challenge.md). All Drives (except [Broken Drives](broken-drive.md)) can be purchased from Robo Bear's Shop for 50 [Cogs](cog.md) (100 [Cogs](cog.md) for Glitched, and 5 of each other drive), and an increasing amount of [Honey](honey.md) with each purchase.
+**Drives** are inventory items that were introduced in the 2022-12-26 update. They can be used to repair [Robo Bear](robo-bear.md), purchase [Digital Bee](digital-bee.md), upgrade Digital Bee, and grant boosts during a round of the [Robo Bear Challenge](robo-bear-challenge.md). All Drives (except [Broken Drives](broken-drive.md)) can be purchased from Robo Bear's Shop for 50 [Cogs](cog.md) (100 [Cogs](cog.md) for Glitched, and 5 of each other drive), and an increasing amount of [Honey](honey.md) with each purchase.
 
 ## White Drive
 
@@ -25,17 +25,6 @@ The White Drive, when used, grants the following boosts during a single round of
 * Completing [Science Bear](science-bear.md)'s "Repairing The White Drive" quest gives 1 White Drive, replacing the Broken Drive.
 * As a reward for finishing your own Robo Party.
 
-#### Outdated Ways
-
-<table class="mw-collapsible mw-collapsed article-table">
-<caption>
-</caption>
-<tbody><tr>
-<td>
-<ul><li>Purchasing it in Bee Bear's Catalog for <img alt="Snowflake" height="25" src="img/Snowflake.png" width="25"/>222 <a href="snowflake.html"><span class="color-template color-template-snowflake color-template-background-clip">Snowflakes</span></a>.</li>
-<li>Purchasing the <a href="robux-shop.html">Digital Bee pack</a> for <span typeof="mw:Error mw:File"></span>2,500 <span class="color-template color-template-robux color-template-background-clip">Robux</span> granted <span typeof="mw:Error mw:File"></span>10 <span class="color-template color-template-white-drive color-template-background-clip">White Drives</span> + other stuff.</li></ul>
-</td></tr></tbody></table>
-
 ## Red Drive
 
 <figure class="thumb" style="width: 150px" typeof="mw:File/Thumb">  <figcaption class="thumbcaption"> </figcaption> </figure>
@@ -54,18 +43,6 @@ The Red Drive, when used, grants the following boosts during a single round of R
 * Completing [Panda Bear](panda-bear.md)'s "Ready For The Red Drive?" Quest gives 1 Red Drive (Requires you to finish [Science Bear](science-bear.md)'s White Drives quest first)
 * As a reward for finishing your own Robo Party.
 
-#### Outdated Ways
-
-<table class="mw-collapsible mw-collapsed article-table">
-<caption>
-</caption>
-<tbody><tr>
-<td>
-<ul><li>Completing <a href="science-bear.html">Science Bear's</a> 2022 Beesmas quest.</li>
-<li>Purchasing the Digital Bee pack for <span typeof="mw:Error mw:File"></span>2,500 <span class="color-template color-template-robux color-template-background-clip">Robux</span> granted <span typeof="mw:Error mw:File"></span>10 <span class="color-template color-template-red-drive color-template-background-clip">Red Drives</span> + other stuff.</li>
-<li>Opening the Festive Gift Box rewards <span typeof="mw:Error mw:File"></span>5 <span class="color-template color-template-red-drive color-template-background-clip">Red Drives</span>.</li></ul>
-</td></tr></tbody></table>
-
 ## Blue Drive
 
 <figure class="thumb" style="width: 150px" typeof="mw:File/Thumb">  <figcaption class="thumbcaption"> </figcaption> </figure>
@@ -83,16 +60,6 @@ The Blue Drive, when used, grants the following boosts during a single round of 
 * Chance to receive from Robo Bear's Challenge.
 * Completing [Dapper Bear](dapper-bear.md)'s "Barter For The Blue Drive" Quest gives 1 Blue Drive (Requires you to finish [Science Bear](science-bear.md)'s White Drive quest first)
 * As a reward for finishing your own Robo Party.
-
-#### Outdated Ways
-
-<table class="mw-collapsible mw-collapsed article-table">
-<caption>
-</caption>
-<tbody><tr>
-<td>* Completing Dapper Bear's 2022 Beesmas quest.
-<ul><li>Purchasing the Digital Bee pack for <span typeof="mw:Error mw:File"></span>2,500 <span class="color-template color-template-robux color-template-background-clip">Robux</span> granted <span typeof="mw:Error mw:File"></span>10 <span class="color-template color-template-blue-drive color-template-background-clip">Blue Drives</span> + other stuff.</li></ul>
-</td></tr></tbody></table>
 
 ## Glitched Drive
 
@@ -115,27 +82,13 @@ The Glitched Drive, when used, grants the following boosts during a single round
 * Completing [Science Bear](science-bear.md)'s "Corrupting The Glitched Drive" quest gives 1 Glitched Drive (Requires you to complete [Science Bear](science-bear.md)'s White Drive quest, [Dapper Bear](dapper-bear.md)'s Blue Drive quest, and [Panda Bear](panda-bear.md)'s Red Drive quest).
 * As a reward for finishing your own Robo Party.
 
-#### Outdated Ways
-
-<table class="mw-collapsible mw-collapsed article-table">
-<caption>
-</caption>
-<tbody><tr>
-<td>
-<ul><li>Completing <a href="bee-bear.html">Bee Bear's</a> 5th 2022 Beesmas quest.</li>
-<li>Purchasing the Digital Bee pack for <span typeof="mw:Error mw:File"></span>2,500 <span class="color-template color-template-robux color-template-background-clip">Robux</span> granted <span typeof="mw:Error mw:File"></span>10 <span class="color-template color-template-glitched-drive color-template-background-clip">Glitched Drives</span> + other stuff.</li>
-<li>Purchasing the Mondo Robo-Bundle for <span typeof="mw:Error mw:File"></span>4,500 <span class="color-template color-template-robux color-template-background-clip">Robux</span> grants <span typeof="mw:Error mw:File"></span>10 <span class="color-template color-template-glitched-drive color-template-background-clip">Glitched Drives</span> + other stuff.</li>
-<li>Purchasing the Glitching Bundle in <a href="bee-bear-s-catalog.html">Bee Bear's Catalog</a> for <img alt="Gingerbread Bear" height="25" src="img/Gingerbread_Bear.png" width="25"/>111 <a href="gingerbread-bear.html"><span class="color-template color-template-gingerbread-bear color-template-background-clip">Gingerbread Bears</span></a>.</li>
-<li>Opening the Mondo Gift Box rewards with <span typeof="mw:Error mw:File"></span>10 <span class="color-template color-template-glitched-drive color-template-background-clip">Glitched Drives</span>.</li></ul>
-</td></tr></tbody></table>
-
 ## Broken Drive
 
 Main article: [Broken Drive](broken-drive.md)
 
 <figure class="thumb" style="width: 113px" typeof="mw:File/Thumb">  <figcaption class="thumbcaption"> </figcaption> </figure>
 
-The [Broken Drive](broken-drive.md) is a unique drive added in the [2023-05-07 update](updates.md#2023-05-07) that can be collected only once, from an area behind the [Robo Pass Dispenser](robo-pass-dispenser.md) and [Free Robo Pass Dispenser](free-robo-pass-dispenser.md). Once collected, it initiates Science Bear's drive questline. After completing Science Bear's quest, the Broken Drive will be replaced with a White Drive.
+The [Broken Drive](broken-drive.md) is a unique drive added in the 2023-05-07 update that can be collected only once, from an area behind the [Robo Pass Dispenser](robo-pass-dispenser.md) and [Free Robo Pass Dispenser](free-robo-pass-dispenser.md). Once collected, it initiates Science Bear's drive questline. After completing Science Bear's quest, the Broken Drive will be replaced with a White Drive.
 
 #### Ways to Obtain
 
@@ -146,7 +99,7 @@ The [Broken Drive](broken-drive.md) is a unique drive added in the [2023-05-07 u
 * Excluding the Broken Drive, these are the only items that can permanently enhance a [bee](bees.md).
 * Excluding the Broken Drive, these are the only items that can only be used during a challenge.
 * The existence of a Yellow Drive is hinted through Robo Bear's 2022 present dialogue.
-  * This may be a reference to the unused yellow flowers found in [Onett's](onett-developer.md) decal inventory.
+  * This may be a reference to the unused yellow flowers found in Onett's decal inventory.
 
 <table class="mw-collapsible autocollapse" style="margin:auto; background:#000; font-size: 10pt; border:5px solid #56CB5A; width: 100%; border-radius: 20px; -moz-border-radius: 20px; -webkit-border-radius: 20px; -khtml-border-radius: 20px; -icab-border-radius: 20px; -o-border-radius: 20px;">
 <tbody><tr>
@@ -209,7 +162,7 @@ The [Broken Drive](broken-drive.md) is a unique drive added in the [2023-05-07 u
 </th>
 <th class="NavCategory">Quest Exclusive
 </th>
-<td class="NavLinks NavLinksBasicEven"><b><img alt="Translator" height="35" src="img/Translator.png" width="35"/> <a href="translator.html">Translator</a> • <img alt="Spirit Petal" height="35" src="img/Spirit_Petal.png" width="35"/> <a href="spirit-petal.html">Spirit Petal</a> • <img alt="Debug Wax" height="35" src="img/Debug_Wax.png" width="35"/> <a href="debug-wax.html">Debug Wax</a> • <img alt="Nectar Tester" height="35" src="img/Nectar_Tester.png" width="35"/> <a href="nectar-tester.html">Nectar Tester</a></b> • <span typeof="mw:Error mw:File"></span> <a href="bbm-s-apology.html">BBM's Apology</a><b></b>
+<td class="NavLinks NavLinksBasicEven"><b><img alt="Translator" height="35" src="img/Translator.png" width="35"/> <a href="translator.html">Translator</a> • <img alt="Spirit Petal" height="35" src="img/Spirit_Petal.png" width="35"/> <a href="spirit-petal.html">Spirit Petal</a> • <img alt="Debug Wax" height="35" src="img/Debug_Wax.png" width="35"/> <a href="debug-wax.html">Debug Wax</a> • <img alt="Nectar Tester" height="35" src="img/Nectar_Tester.png" width="35"/> <a href="nectar-tester.html">Nectar Tester</a></b> • <span typeof="mw:Error mw:File"></span> <b></b>
 </td></tr>
 <tr>
 <th class="NavCategory">Beesmas

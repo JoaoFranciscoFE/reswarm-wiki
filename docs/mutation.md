@@ -4705,4 +4705,4 @@ Show/hide tables
 * The [Beesmas Tree Hat](beesmas-tree-hat.md) Beequip requires a bee to have a mutation to be equipped, making any mutation potentially useful for any bee.
 * The [Bubble Light](bubble-light.md) Beequip requires a bee to have an Energy mutation to be equipped.
 * When mutating a bee, any equipped Beequip is automatically unequipped and must be re-equipped by the player if they wish to continue using it.
-* Depending on the game's language, the [radiation emoji might be changed](glitches.md#Translation_Glitch).
+* Depending on the game's language, the radiation emoji might be changed.

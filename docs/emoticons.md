@@ -354,7 +354,7 @@ A bee will express unhappiness if it is working in a field it dislikes or if the
 
 ## Trivia
 
-* Emoticons were removed for an unknown period of time, but were reimplemented in the [2024-01-12 update](updates.md#2024-01-12).
+* Emoticons were removed for an unknown period of time, but were reimplemented in the 2024-01-12 update.
 * [Bee Bear](bee-bear.md) refers to emoticons as "emotion bubbles".
 
 ## References

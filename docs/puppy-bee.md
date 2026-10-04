@@ -302,7 +302,7 @@ Puppy Bee likes the [Clover Field](clover-field.md) and the [Pumpkin Patch](pump
 
 ## Trivia
 
-* When Puppy Bee came out on the [2018-09-10 Update](updates.md#2018-09-10), it was on sale in the Ticket Tent for 250 tickets until September 22, 2018.
+* When Puppy Bee came out on the 2018-09-10 Update, it was on sale in the Ticket Tent for 250 tickets until September 22, 2018.
 * It takes 3 hits of the ball by the owner and 3 hits by the Puppy Bee (3 volleys) to drop a [treat token](treat.md). The more times the ball is hit in a row, the more treats are earned from the treat token (Doubled every time a combo is done, starting at 1, capping at 256).
   * Once the treat token reaches the capped amount of treats, the ball will permanently stay light green and will not be able to produce any more treat tokens.
   * It takes a total of 54 hits to reach the max amount of treats, and 60 to get 10x Reindeer Guidance.

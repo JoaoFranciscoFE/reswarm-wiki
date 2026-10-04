@@ -23,7 +23,7 @@ CAP
 
 <figure class="thumb" style="width: 180px" typeof="mw:File/Thumb">  <figcaption class="thumbcaption"> <p class="caption">Robo Pass Dispenser (50 tickets per Robo Pass)</p> </figcaption> </figure>
 
-A **Robo Pass** is an inventory item that was added in the [2022-12-26 update](updates.md). The player must use one in order to participate in the [Robo Bear Challenge](robo-bear-challenge.md). Players can only have a maximum of 10 Robo Passes in their inventory at a time unless purchased from [Robux packs](robux-shop.md) or received from quests.
+A **Robo Pass** is an inventory item that was added in the 2022-12-26 update. The player must use one in order to participate in the [Robo Bear Challenge](robo-bear-challenge.md). Players can only have a maximum of 10 Robo Passes in their inventory at a time unless purchased from [Robux packs](robux-shop.md) or received from quests.
 
 A robo pass can be used by talking to Robo Bear and initiating Round 1 of the Robo Bear Challenge.
 
@@ -39,38 +39,6 @@ A robo pass can be used by talking to Robo Bear and initiating Round 1 of the Ro
 * As a stack reward for adding a certain Sticker to the Sticker Stack
   * Robot Head Sticker rewards 1 Robo Pass.
   * Party Robo Bear Sticker rewards 1 Robo Pass.
-
-### Outdated Ways
-
-<table class="mw-collapsible mw-collapsed article-table">
-<caption>
-</caption>
-<tbody><tr>
-<td>
-<ul><li>There was a Robo Pass token hidden behind the Robo Pass Dispensers. It was replaced by a Broken Drive token after Beesmas 2022 ended.</li>
-<li>There was a Robo Pass token hidden inside The Computer during Beesmas 2022.</li>
-<li>There was a Robo Pass token hidden inside the <a href="beesmas-tree.html">Beesmas Tree</a> during Beesmas 2022.</li>
-<li>Defeating Level 4, 11, and 18 <a href="snowbear.html">Snowbears</a>.</li>
-<li>As a first time reward from beating specific Robo Party ranks.</li>
-<li>The Digital Bee pack gave 10 Robo Passes + other items.</li>
-<li>The Mondo Robo Bundle gave 25 Robo Passes + other items.</li>
-<li>The Robotic Bundle in Bee Bears Catalog gave 10 Robo Passes, along with other items.</li>
-<li>From certain quests:
-<ul><li>Onett's Beesmas 2022 quest gives 3 Robo Passes.</li>
-<li>Riley Bee's Beesmas 2022 quest gives 1 Robo Pass.</li>
-<li>Bucko Bee's Beesmas 2022 quest gives 1 Robo Pass.</li>
-<li>Stick Bug's Beesmas 2022 quest gives 1 Robo Pass.</li></ul></li>
-<li>As a reward from certain <a href="gift-boxes.html">Gift Boxes</a>:
-<ul><li>The Charcoal Gift Box gave 1 Robo Pass.</li>
-<li>The Obnoxious Gift Box gave 1 Robo Pass.</li>
-<li>The Tropical Gift Box gave 1 Robo Pass.</li></ul></li>
-<li>From giving <img alt="Present" height="35" src="img/Present.png" width="35"/><a href="present.html"><span class="color-template color-template-present color-template-background-clip">Presents</span></a> in the Beesmas 2022 Event:
-<ul><li>Giving <a href="stick-bug.html">Stick Bug</a> a Present gave 1 Robo Pass.</li>
-<li>Giving <a href="onett.html">Onett</a> a Present gave 1 Robo Pass.</li>
-<li>Giving <a href="robo-bear.html">Robo Bear</a> a Present gave 1 Robo Pass.</li>
-<li>Giving <a href="gummy-bear.html">Gummy Bear</a> a Present gave 1 Robo Pass.</li></ul></li>
-<li>Purchasing the Reindeer Games Pack from <a href="bee-bear-s-catalog.html">Bee Bear's Catalog</a> for <img alt="Snowflake" height="25" src="img/Snowflake.png" width="25"/>2,000 <a href="snowflake.html"><span class="color-template color-template-snowflake color-template-background-clip">Snowflakes</span></a> and <img alt="Gingerbread Bear" height="25" src="img/Gingerbread_Bear.png" width="25"/>200 <a href="gingerbread-bear.html"><span class="color-template color-template-gingerbread-bear color-template-background-clip">Gingerbread Bears</span></a> gave 10 Robo Passes and other items.</li></ul>
-</td></tr></tbody></table>
 
 ## Trivia
 
@@ -138,7 +106,7 @@ A robo pass can be used by talking to Robo Bear and initiating Round 1 of the Ro
 </th>
 <th class="NavCategory">Quest Exclusive
 </th>
-<td class="NavLinks NavLinksBasicEven"><b><img alt="Translator" height="35" src="img/Translator.png" width="35"/> <a href="translator.html">Translator</a> • <img alt="Spirit Petal" height="35" src="img/Spirit_Petal.png" width="35"/> <a href="spirit-petal.html">Spirit Petal</a> • <img alt="Debug Wax" height="35" src="img/Debug_Wax.png" width="35"/> <a href="debug-wax.html">Debug Wax</a> • <img alt="Nectar Tester" height="35" src="img/Nectar_Tester.png" width="35"/> <a href="nectar-tester.html">Nectar Tester</a></b> • <span typeof="mw:Error mw:File"></span> <a href="bbm-s-apology.html">BBM's Apology</a><b></b>
+<td class="NavLinks NavLinksBasicEven"><b><img alt="Translator" height="35" src="img/Translator.png" width="35"/> <a href="translator.html">Translator</a> • <img alt="Spirit Petal" height="35" src="img/Spirit_Petal.png" width="35"/> <a href="spirit-petal.html">Spirit Petal</a> • <img alt="Debug Wax" height="35" src="img/Debug_Wax.png" width="35"/> <a href="debug-wax.html">Debug Wax</a> • <img alt="Nectar Tester" height="35" src="img/Nectar_Tester.png" width="35"/> <a href="nectar-tester.html">Nectar Tester</a></b> • <span typeof="mw:Error mw:File"></span> <b></b>
 </td></tr>
 <tr>
 <th class="NavCategory">Beesmas

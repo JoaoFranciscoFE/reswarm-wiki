@@ -39,65 +39,12 @@ When used, it grants the following [buffs](buffs-debuffs.md#From_Items) for 30 m
 * The [Confectionary Gift Box](gift-boxes-2025.md) rewards 3 Marshmallow Bees and other items.
 * Completing [Honey Bee's](honey-bee-npc.md) Beesmas quest rewards 9 Marshmallow Bees and other rewards.
 
-### Outdated Ways
-
-<table class="mw-collapsible mw-collapsed article-table">
-<caption>
-</caption>
-<tbody><tr>
-<td>
-<ul><li>Defeating <a href="mondo-chick.html">Mondo Chick</a> dropped at least one Marshmallow Bee. Since the <a href="updates.html#2020-12-25">2020-12-25 update</a>, this method is no longer possible.</li>
-<li>Completing most the Egg Hunt 2019 quests of certain NPCs rewarded the player with at least 1 Marshmallow Bee:
-<ul><li><a href="panda-bear.html">Panda Bear</a> gave 2 Marshmallow Bee and other items.</li>
-<li><a href="science-bear.html">Science Bear</a> and <a href="polar-bear.html">Polar Bear</a> gave 3 Marshmallow Bee each and other items.</li>
-<li><a href="gifted-riley-bee.html">Gifted Riley Bee</a>, <a href="gifted-bucko-bee.html">Gifted Bucko Bee</a>, and <a href="stick-bug.html">Stick Bug</a> gave 5 Marshmallow Bee each and other items.</li></ul></li>
-<li>Completing <a href="sun-bear.html#Egg_Hunt_2020_Quest">Sun Bear's Egg Hunt 2020 quest</a> rewarded 1 Marshmallow Bee along with other stuff.</li>
-<li>Completing <a href="bee-bear.html">Bee Bear's</a> "Snow Cub Reformation (2/5)" gave 3 Marshmallow Bees.</li>
-<li>Completing <a href="honey-bee-npc.html">Honey Bee's</a> 2024 and 2025 Beesmas quest rewarded 9 Marshmallow Bees.</li>
-<li>Completing <a href="mother-bear.html">Mother Bear's</a> "⌛Waiting With Sun Bear (5/6): And Mother Bear, Again" quest rewarded 3 Marshmallow Bees.</li>
-<li>Opening the <a href="ornament-presents.html">Pearly Present</a> gave 2 Marshmallow Bees.</li>
-<li>Opening the <a href="gift-boxes.html#2020">Paper Gift Box</a> from Beesmas 2020 gave 2 Marshmallow Bees.</li>
-<li>Opening the <a href="gift-boxes.html#2024_(Summer)">Minty Gift Box</a> from Beesmas Summer 2024 gave 2 Marshmallow Bees.</li>
-<li>Opening the <a href="gift-boxes.html#2024_(Winter)">Cherry Gift Box</a> from Beesmas Winter 2024 gave 1 Marshmallow Bee.</li>
-<li>Completing the <a href="retro-swarm-challenge.html">Retro Swarm Challenge</a> used to have a chance at rewarding a Marshmallow Bee.</li>
-<li>Redeeming certain expired codes:
-<ul><li>FestiveFinale (Activated the Marshmallow Bee buff + gave other stuff).</li>
-<li>2Years (Gave 1 Marshmallow Bee and other stuff).</li>
-<li>PineappleParty (Activated the Marshmallow Bee buff + gave other stuff).</li>
-<li>3YearParty (Gave 1 Marshmallow Bee + other stuff).</li>
-<li>PlushFriday (Gave 1 Marshmallow Bee + other stuff).</li>
-<li>FestiveFinale (Activated the Marshmallow Bee buff + gave other stuff).</li>
-<li>MondoOutage (Gave 1 Marshmallow Bee + other stuff).</li>
-<li>2Billion (Gave 1 Marshmallow Bee + other stuff).</li>
-<li>FourYearFiesta (Gave 1 Marshmallow + and other stuff).</li>
-<li>WonkyFlop (Gave 1 Marshmallow Bee + other stuff).</li>
-<li>5Years (Gave 5 Marshmallow Bees + other stuff).</li>
-<li>2MLikes (Gave 2 Marshmallow Bees + other stuff).</li>
-<li>BeequipTradeReboot (Gave 1 Marshmallow Bee + other stuff).</li>
-<li>PlushFriday (Gave 1 Marshmallow Bee + other stuff).</li>
-<li>BoxWhoops (Gave 1 Marshmallow Bee, activated the Marshmallow Bee buff + other stuff).</li>
-<li>Marshmallow (Gave 1 Marshmallow Bee + other stuff).</li>
-<li>WalmartToys (Gave 1 Marshmallow Bee + other stuff).</li>
-<li>Thnxcyastoybox (Gave 1 Marshmallow Bee + other stuff).</li>
-<li>DarzethDoodads (Gave 1 Marshmallow Bee + other stuff).</li>
-<li>WeekExtension (Gave 1 Marshmallow Bee + other stuff).</li>
-<li>boo swarm (Gave 1 Marshmallow Bee + other stuff).</li>
-<li>DiscordMillion (Gave 1 Marshmallow Bee + other stuff)</li>
-<li>FrogFix (Gave 1 Marshmallow Bee + other stuff)</li></ul></li></ul>
-<h3><span class="mw-headline" id="Old_Token_Locations">Old Token Locations</span></h3>
-<ul><li>Found behind <a href="gifted-riley-bee.html">Gifted Riley Bee</a>.</li>
-<li>Found between 2 peppers in the <a href="pepper-patch.html">Pepper Patch</a>.</li>
-<li>Found on top of the <a href="pro-shop.html">Pro Shop</a>.</li>
-<li>Found behind <a href="science-bear.html">Science Bear</a>, next to the <a href="red-teleporter.html">Red Teleporter</a>.</li>
-<li>Found next to the <a href="nectar-pot.html">Nectar Pot</a>.</li></ul>
-</td></tr></tbody></table>
-
 ## Trivia
 
 * This is the only item to use the word "eat" instead of "use" in the pop-up when double clicked in the inventory.
 * This is one of the four consumables that increase capacity, the others being the [Purple Potion](purple-potion.md), [Super Smoothie](super-smoothie.md) and [Snowflakes](snowflake.md).
 * There are sugar crystals on the Marshmallow Bee, something most real life marshmallows don't have. This may have taken influence from/be a reference to the brand [Peeps](https://en.wikipedia.org/wiki/Peeps), as they are also animal-shaped marshmallows coated in sugar, and are popular during Easter.
-* Before the [April 6th, 2020 update](updates.md#2020-04-06), there was no capacity limit on how many Marshmallow Bees could be stored in the player's inventory. This was likely because the player could only obtain a limited amount of Marshmallow Bees prior to this update.
+* Before the April 6th, 2020 update, there was no capacity limit on how many Marshmallow Bees could be stored in the player's inventory. This was likely because the player could only obtain a limited amount of Marshmallow Bees prior to this update.
 * Marshmallow bees are one of the few consumable buffs that won't be overridden by a [Super Smoothie](super-smoothie.md) buff. The others being [Snowflakes](snowflake.md), [Stingers](stinger.md), [Jelly Beans](jelly-beans.md) and [Glitter](glitter.md).
 * Marshmallow Bee is the only bee that the player can't have in their hive.
 
@@ -162,7 +109,7 @@ When used, it grants the following [buffs](buffs-debuffs.md#From_Items) for 30 m
 </th>
 <th class="NavCategory">Quest Exclusive
 </th>
-<td class="NavLinks NavLinksBasicEven"><b><img alt="Translator" height="35" src="img/Translator.png" width="35"/> <a href="translator.html">Translator</a> • <img alt="Spirit Petal" height="35" src="img/Spirit_Petal.png" width="35"/> <a href="spirit-petal.html">Spirit Petal</a> • <img alt="Debug Wax" height="35" src="img/Debug_Wax.png" width="35"/> <a href="debug-wax.html">Debug Wax</a> • <img alt="Nectar Tester" height="35" src="img/Nectar_Tester.png" width="35"/> <a href="nectar-tester.html">Nectar Tester</a></b> • <span typeof="mw:Error mw:File"></span> <a href="bbm-s-apology.html">BBM's Apology</a><b></b>
+<td class="NavLinks NavLinksBasicEven"><b><img alt="Translator" height="35" src="img/Translator.png" width="35"/> <a href="translator.html">Translator</a> • <img alt="Spirit Petal" height="35" src="img/Spirit_Petal.png" width="35"/> <a href="spirit-petal.html">Spirit Petal</a> • <img alt="Debug Wax" height="35" src="img/Debug_Wax.png" width="35"/> <a href="debug-wax.html">Debug Wax</a> • <img alt="Nectar Tester" height="35" src="img/Nectar_Tester.png" width="35"/> <a href="nectar-tester.html">Nectar Tester</a></b> • <span typeof="mw:Error mw:File"></span> <b></b>
 </td></tr>
 <tr>
 <th class="NavCategory">Beesmas

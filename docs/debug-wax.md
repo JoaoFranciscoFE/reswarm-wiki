@@ -18,7 +18,7 @@ Debug Wax
 
 *"100% chance to greatly improve a Beequip."*
 
-**Debug Wax** is an inventory item and a type of [wax](waxes.md) added in the [2024-07-17](updates.md#2024-07-17) update that can be used on a [Beequip](beequip.md) to boost its stats. Upon usage, it has a 100% chance of greatly improving the Beequip's stats. Debug Wax has an [Upgrade Value](beequip.md#Stats,_Waxes,_Chances) of 4.
+**Debug Wax** is an inventory item and a type of [wax](waxes.md) added in the 2024-07-17 update that can be used on a [Beequip](beequip.md) to boost its stats. Upon usage, it has a 100% chance of greatly improving the Beequip's stats. Debug Wax has an [Upgrade Value](beequip.md#Stats,_Waxes,_Chances) of 4.
 
 When applying Debug Wax to a bee's Beequip, a message pops up saying:  
 The Wax improved the Beequip!
@@ -27,17 +27,12 @@ The Wax improved the Beequip!
 
 There are currently no ways to obtain a **Debug Wax**.
 
-### Outdated Methods
-
-* As a reward for completing [Bubble Bee Man](bubble-bee-man.md)'s quest "B.B.M's Naughty List" during the Winter Beesmas 2024 event.
-* As a reward for completing Bubble Bee Man's quest "B.B.M's Naughty List" during the Summer Beesmas 2024 event.
-
 ## Trivia
 
 * This is the only wax which is unable to be crafted.
 * This item functions almost the same as a [Caustic Wax](caustic-wax.md), the only difference being that it always succeeds.
-  * This item originally shared its icon with Caustic Wax before the [2024-12-25](updates.md) update.
-* This item originated from the [Test Realm](onett-s-testing-group.md), being a risk-free way to upgrade Beequips, before officially being added to the game.
+  * This item originally shared its icon with Caustic Wax before the 2024-12-25 update.
+* This item originated from the Test Realm, being a risk-free way to upgrade Beequips, before officially being added to the game.
 * This wax, [Soft Wax](soft-wax.md), and [Swirled Wax](swirled-wax.md) are the only waxes guaranteed to change a beequip's stats.
 
 <table class="mw-collapsible autocollapse" style="margin:auto; background:#000; font-size: 10pt; border:5px solid #56CB5A; width: 100%; border-radius: 20px; -moz-border-radius: 20px; -webkit-border-radius: 20px; -khtml-border-radius: 20px; -icab-border-radius: 20px; -o-border-radius: 20px;">
@@ -101,7 +96,7 @@ There are currently no ways to obtain a **Debug Wax**.
 </th>
 <th class="NavCategory">Quest Exclusive
 </th>
-<td class="NavLinks NavLinksBasicEven"><b><img alt="Translator" height="35" src="img/Translator.png" width="35"/> <a href="translator.html">Translator</a> • <img alt="Spirit Petal" height="35" src="img/Spirit_Petal.png" width="35"/> <a href="spirit-petal.html">Spirit Petal</a> • <img alt="Debug Wax" height="35" src="img/Debug_Wax.png" width="35"/> <strong class="mw-selflink selflink">Debug Wax</strong> • <img alt="Nectar Tester" height="35" src="img/Nectar_Tester.png" width="35"/> <a href="nectar-tester.html">Nectar Tester</a></b> • <span typeof="mw:Error mw:File"></span> <a href="bbm-s-apology.html">BBM's Apology</a><b></b>
+<td class="NavLinks NavLinksBasicEven"><b><img alt="Translator" height="35" src="img/Translator.png" width="35"/> <a href="translator.html">Translator</a> • <img alt="Spirit Petal" height="35" src="img/Spirit_Petal.png" width="35"/> <a href="spirit-petal.html">Spirit Petal</a> • <img alt="Debug Wax" height="35" src="img/Debug_Wax.png" width="35"/> <strong class="mw-selflink selflink">Debug Wax</strong> • <img alt="Nectar Tester" height="35" src="img/Nectar_Tester.png" width="35"/> <a href="nectar-tester.html">Nectar Tester</a></b> • <span typeof="mw:Error mw:File"></span> <b></b>
 </td></tr>
 <tr>
 <th class="NavCategory">Beesmas

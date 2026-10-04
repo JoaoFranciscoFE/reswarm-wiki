@@ -5,7 +5,7 @@ tags: ["Challenges", "Stick Bug Challenge"]
 
 # Stick Bug Challenge
 
-The **Stick Bug Challenge** is a boss fight feature that lasts 10 minutes. It is primarily activated when a player talks to [Stick Bug](stick-bug.md) and starts the challenge but can also initiate when a player begins [Spirit Bear](spirit-bear.md)'s "Dancing With Stick Bug" [quest](quests.md), when [Onett](onett-developer.md) chooses to activate it globally, and during Beesmas when completing Stick Bug's Beesmas quest or giving him a present. Starting the challenge by yourself requires having given a [translator](translator.md) to Stick Bug, and either costs 50 [tickets](ticket.md) or can be started for free once every 36 hours/1.5 days. The option to pay 50 tickets will be unavailable if the challenge can be started for free. The challenge takes place across the entire server and can be participated in by anyone. Giving a [present](present.md) to Stick Bug or starting the Egg Hunt quest will also start the challenge (if a translator has been given to Stick Bug).
+The **Stick Bug Challenge** is a boss fight feature that lasts 10 minutes. It is primarily activated when a player talks to [Stick Bug](stick-bug.md) and starts the challenge but can also initiate when a player begins [Spirit Bear](spirit-bear.md)'s "Dancing With Stick Bug" [quest](quests.md), when Onett chooses to activate it globally, and during Beesmas when completing Stick Bug's Beesmas quest or giving him a present. Starting the challenge by yourself requires having given a [translator](translator.md) to Stick Bug, and either costs 50 [tickets](ticket.md) or can be started for free once every 36 hours/1.5 days. The option to pay 50 tickets will be unavailable if the challenge can be started for free. The challenge takes place across the entire server and can be participated in by anyone. Giving a [present](present.md) to Stick Bug or starting the Egg Hunt quest will also start the challenge (if a translator has been given to Stick Bug).
 
 <figure class="thumb" style="width: 200px" typeof="mw:File/Thumb">  <figcaption class="thumbcaption"> <p class="caption">This message that pops up when Onett is about to start the Stick Bug Challenge.</p> </figcaption> </figure>
 
@@ -505,7 +505,7 @@ Upon depleting Stick Bug's health, it will play one of the following audios at r
 * If players join a server that has already started the challenge, the stat file will say Stick Bug is level 1, but when Stick Bug is defeated again, the level in the stat file will return to normal.
 * Giving [Stick Bug](stick-bug.md) a present will start a Stick Bug Challenge.
 * Completing Stick Bug's Beesmas 2020/2021/2024 Summer and Winter/2025 quests will also start a Stick Bug Challenge.
-* There is a [glitch](glitches.md#Invisible_Splinter_Trap) where if the player dies while having the splinter trap activated, it will still keep the effect and damage the player until they die again.
+* There is a glitch where if the player dies while having the splinter trap activated, it will still keep the effect and damage the player until they die again.
   * The pollen counter is still there though, and you can remove them by collecting pollen, it is just invisible.
 * Stick Bug can walk out of the field to attack the player before retracting back to the field and continuing it's usual attack pattern, this attack is inconsistent, but have persisted ever since the challenge was released.
 * When Stick Bug jumps to another field, it maintains its hitbox and can still damage players.

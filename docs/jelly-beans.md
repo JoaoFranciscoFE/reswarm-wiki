@@ -25,11 +25,11 @@ CAP
 
 100
 
-**Jelly Beans** are an inventory item added in the [Egg Hunt 2019 update](updates.md#2019-04-17). When used, it spreads jelly beans of varying colors in the direction the player is facing, with each color representing a different [buff](buffs-debuffs.md). They will turn into jelly bean tokens when they land on [flowers](flowers.md), making them collectable. Each buff lasts for a minute. Each jelly bean item spawns 11-13 jelly bean tokens.
+**Jelly Beans** are an inventory item added in the Egg Hunt 2019 update. When used, it spreads jelly beans of varying colors in the direction the player is facing, with each color representing a different [buff](buffs-debuffs.md). They will turn into jelly bean tokens when they land on [flowers](flowers.md), making them collectable. Each buff lasts for a minute. Each jelly bean item spawns 11-13 jelly bean tokens.
 
 If multiple players are around, a different player picking up the tokens will give both the owner and the collector the token's buffs, as well as the Jelly Bean Sharing Bonus to the owner. Therefore, it is best to share jelly beans.
 
-The player can only hold a maximum of 100 at a time in their inventory. The player will need to use at least one in order to get any more unless they are obtained from [quests](quests.md), purchased from any [Robux pack](robux-shop.md), or from the [Colorful Present](ornament-presents.md) (now unobtainable).
+The player can only hold a maximum of 100 at a time in their inventory. The player will need to use at least one in order to get any more unless they are obtained from [quests](quests.md), purchased from any [Robux pack](robux-shop.md), or from the Colorful Present (now unobtainable).
 
 ***Note:** Jelly Beans can be activated anywhere, though it is recommended to be in a field because if the beans do not land on a field, no tokens will be spawned.*
 
@@ -270,46 +270,6 @@ All jelly bean types stack up to 3 times, except for Spoiled Jelly Bean, which o
 * Going into the [Blue Maze](mazes.md#Blue_Maze) next to the [Ticket Tent](ticket-tent.md). Taking the path to the right will lead to a jelly bean token.
 * Going into the [Coconut Cave](coconut-cave.md) on top of the [Coconut Dispenser](coconut-dispenser.md) there will be a hole, Going through the hole has jelly beans and others.
 
-### Outdated Ways
-
-<table class="mw-collapsible mw-collapsed article-table">
-<caption>
-</caption>
-<tbody><tr>
-<td>
-<ul><li><a href="bee-bear.html">Bee Bear</a> gave jelly beans in certain quests during Beesmas 2020.</li>
-<li>Collecting the token near the <a href="ant-gate.html">Ant Gate</a> entrance where <a href="sun-bear.html">Sun Bear</a> used to be when he left during his third visit.</li>
-<li>Opening the <a href="ornament-presents.html">Colorful Present</a>.</li>
-<li>Black Bear's 2020 Egg Hunt quest rewarded 3 jelly beans and other items.</li>
-<li>Black Bear's Ornament quest rewarded 1 jelly bean and other items.</li>
-<li>Mother Bear's 2019 Egg Hunt quest rewarded 1 jelly bean and other items.</li>
-<li>Science Bear's 2019 Egg Hunt quest rewarded 3 jelly beans and other items.</li>
-<li>Polar Bear's 2019 Egg Hunt quest rewarded 5 jelly beans and other items.</li>
-<li>Placing in the Top 100 for any team in the Test Realm competition rewarded 25 jelly beans along with <a href="ticket.html">tickets</a>.
-<ul><li>If the player was in the winning team (the Blue Team), they would receive an additional 25 jelly beans on top of the rewards if applicable.</li></ul></li>
-<li><a href="bee-bear.html">Bee Bear</a> rewarded jelly beans on the following quests:
-<ul><li>Let it Snow rewarded <img alt="Jelly Beans" height="25" src="img/Jelly_Beans.png" width="25"/>5 <strong class="mw-selflink selflink"><span class="color-template color-template-jelly-beans color-template-background-clip">Jelly Beans</span></strong> and other items after completion.</li>
-<li>Twinkle Up the Night rewarded <img alt="Jelly Beans" height="25" src="img/Jelly_Beans.png" width="25"/>10 <strong class="mw-selflink selflink"><span class="color-template color-template-jelly-beans color-template-background-clip">Jelly Beans</span></strong> and other items after completion.</li></ul></li>
-<li>From various <a href="gift-boxes.html">Gift Boxes</a>:
-<ul><li>Opening the Kitsch Gift Box rewarded <img alt="Jelly Beans" height="25" src="img/Jelly_Beans.png" width="25"/>10 <strong class="mw-selflink selflink"><span class="color-template color-template-jelly-beans color-template-background-clip">Jelly Beans</span></strong> and other items.</li></ul></li>
-<li>Buying certain packs from the Robux Shop:
-<ul><li>The Dual-Diamond Basket cost <span typeof="mw:Error mw:File"></span>700 <span class="color-template color-template-robux color-template-background-clip">Robux</span> and gave 15 jelly beans and other items.</li>
-<li>The Spikey Spring Basket cost <span typeof="mw:Error mw:File"></span>2,700 <span class="color-template color-template-robux color-template-background-clip">Robux</span> and gave 50 jelly beans and other items.</li>
-<li>The Beginner's Bean Bundle cost <span typeof="mw:Error mw:File"></span>400 <span class="color-template color-template-robux color-template-background-clip">Robux</span> and gave 25 jelly beans and other items.</li>
-<li>The Star Treat Special cost <span typeof="mw:Error mw:File"></span>1,700 <span class="color-template color-template-robux color-template-background-clip">Robux</span> and gave 50 jelly beans and other items.</li>
-<li>The Stocking Stuffer Special cost <span typeof="mw:Error mw:File"></span>400 <span class="color-template color-template-robux color-template-background-clip">Robux</span> and gave 25 jelly beans and other items.</li>
-<li>The Silent Night Special cost <span typeof="mw:Error mw:File"></span>500 <span class="color-template color-template-robux color-template-background-clip">Robux</span> and gave 25 jelly beans and other items.</li>
-<li>The Black Friday Bundle cost <span typeof="mw:Error mw:File"></span>800 <span class="color-template color-template-robux color-template-background-clip">Robux</span> and gave 10 jelly beans and other items.</li></ul></li>
-<li>As a drop from the <a href="party-cogmower.html">Party Cogmower</a>.</li>
-<li>Purchasing the Blessed Bean Bundle in <a href="bee-bear-s-catalog.html">Bee Bear's Catalog</a> grants you 100 jelly beans.</li>
-<li>Purchasing the Robotic Bundle in Bee Bear's Catalog grants you 25 jelly beans.</li>
-<li>From certain expired codes:
-<ul><li>ThnxCyasToyBox (Gives 1 jelly bean + other stuff).</li>
-<li>Boo Swarm (Gives 5 jelly beans + other stuff).</li></ul></li>
-<li>As a drop from <a href="party-cogmower.html">Party Cogmowers</a> and <a href="party-cogturret.html">Party Cogturrets</a>.</li>
-<li><a href="bubble-bee-man.html">Bubble Bee Man</a>'s "BBM's Naughty List" rewards 644 jelly beans for completing during Winter Beesmas 2024.</li></ul>
-</td></tr></tbody></table>
-
 ## Audio
 
 Whenever a jelly bean token is collected, one of the five following audios will play:
@@ -321,7 +281,7 @@ Whenever a jelly bean token is collected, one of the five following audios will 
 * The Merigold Jelly Bean is misspelled throughout the game. The correct spelling should be 'Marigold'.
 * The hearts in the Jelly Bean Sharing Bonus buff are similar to the heart of the [Baby Love ability token](ability-tokens.md#Baby_Love), but they are not blushing.
 * Rarer jelly beans emit sparkles when being thrown into a field, and the token will also emit a sparkle effect.
-* Prior to the [2019-09-28 update](updates.md#2019-09-28), Jelly Beans did not have a maximum capacity and players could obtain them in an unlimited amount.
+* Prior to the 2019-09-28 update, Jelly Beans did not have a maximum capacity and players could obtain them in an unlimited amount.
 * If the player donates any number of Jelly Beans for the first time to the [Wind Shrine](wind-shrine.md), it gives back 7 Jelly Beans.
   * After donating, it says "- ( Number ) Jellybeanss". It should be "Jelly Beans" with one S.
   * When claiming the tokens, it says "+ ( Number ) Jelly Beans ( from >>☻︎ ). This is a clue from the Ready Player Two Event.
@@ -390,7 +350,7 @@ Whenever a jelly bean token is collected, one of the five following audios will 
 </th>
 <th class="NavCategory">Quest Exclusive
 </th>
-<td class="NavLinks NavLinksBasicEven"><b><img alt="Translator" height="35" src="img/Translator.png" width="35"/> <a href="translator.html">Translator</a> • <img alt="Spirit Petal" height="35" src="img/Spirit_Petal.png" width="35"/> <a href="spirit-petal.html">Spirit Petal</a> • <img alt="Debug Wax" height="35" src="img/Debug_Wax.png" width="35"/> <a href="debug-wax.html">Debug Wax</a> • <img alt="Nectar Tester" height="35" src="img/Nectar_Tester.png" width="35"/> <a href="nectar-tester.html">Nectar Tester</a></b> • <span typeof="mw:Error mw:File"></span> <a href="bbm-s-apology.html">BBM's Apology</a><b></b>
+<td class="NavLinks NavLinksBasicEven"><b><img alt="Translator" height="35" src="img/Translator.png" width="35"/> <a href="translator.html">Translator</a> • <img alt="Spirit Petal" height="35" src="img/Spirit_Petal.png" width="35"/> <a href="spirit-petal.html">Spirit Petal</a> • <img alt="Debug Wax" height="35" src="img/Debug_Wax.png" width="35"/> <a href="debug-wax.html">Debug Wax</a> • <img alt="Nectar Tester" height="35" src="img/Nectar_Tester.png" width="35"/> <a href="nectar-tester.html">Nectar Tester</a></b> • <span typeof="mw:Error mw:File"></span> <b></b>
 </td></tr>
 <tr>
 <th class="NavCategory">Beesmas

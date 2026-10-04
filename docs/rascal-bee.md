@@ -405,7 +405,7 @@ Rascal Bee likes the [Mushroom Field](mushroom-field.md) and the [Rose Field](ro
 
 * Its blue counterpart is [Bumble Bee](bumble-bee.md).
 * Rascal Bee, [Riley Bee](riley-bee.md), and [Demon Bee](demon-bee.md) have the same skin colors.
-* Rascal Bee is one of [Onett's](onett-developer.md) favorite [bee](bees.md) types because he likes its facial expression.
+* Rascal Bee is one of Onett's favorite [bee](bees.md) types because he likes its facial expression.
 * In Onett's inventory, it is revealed that Rascal Bee was originally going to have a different face.
 * In Rascal Bee's description, "misch**i**evous" is written as "mischev**i**ous", a common misspelling of the word.
 * Defeated [ladybugs](ladybug.md) will sometimes drop [Rascal Bee eggs](egg.md#Specific_Bee_Eggs).

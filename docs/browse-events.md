@@ -6,7 +6,7 @@ hide:
 
 # Events
 
-All 28 pages in Events.
+All 27 pages in Events.
 
 <div class="wiki-cards">
 <a class="wiki-card" href="ant-challenge.html"><img src="img/Beesmas_Tree_Hat.png" alt="" loading="lazy"><span>Ant Challenge</span></a>
@@ -27,7 +27,6 @@ All 28 pages in Events.
 <a class="wiki-card" href="mythic-meteor-shower.html"><img src="img/Beesmas_Tree_Hat.png" alt="" loading="lazy"><span>Mythic Meteor Shower</span></a>
 <a class="wiki-card" href="naughty-list.html"><img src="img/Beesmas_Tree_Hat.png" alt="" loading="lazy"><span>Naughty List</span></a>
 <a class="wiki-card" href="obstacle-courses.html"><img src="img/Beesmas_Tree_Hat.png" alt="" loading="lazy"><span>Obstacle Courses</span></a>
-<a class="wiki-card" href="ornament-presents.html"><img src="img/Beesmas_Tree_Hat.png" alt="" loading="lazy"><span>Ornament Presents</span></a>
 <a class="wiki-card" href="present-2025.html"><img src="img/Beesmas_Tree_Hat.png" alt="" loading="lazy"><span>Present/2025</span></a>
 <a class="wiki-card" href="retro-swarm-challenge.html"><img src="img/Beesmas_Tree_Hat.png" alt="" loading="lazy"><span>Retro Swarm Challenge</span></a>
 <a class="wiki-card" href="robo-bear-challenge.html"><img src="img/Beesmas_Tree_Hat.png" alt="" loading="lazy"><span>Robo Bear Challenge</span></a>

@@ -410,7 +410,7 @@ Ninja Bee likes the [Blue Flower Field](blue-flower-field.md) and [Bamboo Field]
 * This bee, [Shy Bee](shy-bee.md), [Fuzzy Bee](fuzzy-bee.md), and [Windy Bee](windy-bee.md) are currently the only bees that have a solitary colored skin.
 * Ninja Bee is the fastest bee in the game, tied with Photon Bee.
   * In Ninja Bee's description, it is supposedly the "swiftest bee". However, Photon Bee is just as fast.
-* Before the [2018-11-25 Update](updates.md#2018-11-25), Ninja Bee's Gifted Hive Bonus was +20% Player Movespeed instead of +5% Bee Movespeed.
+* Before the 2018-11-25 Update, Ninja Bee's Gifted Hive Bonus was +20% Player Movespeed instead of +5% Bee Movespeed.
 * Ninja Bee, [Cobalt Bee](cobalt-bee.md), and [Vicious Bee](vicious-bee.md) are the only blue bees that do not like [Blueberries](blueberry.md).
   * It is the only non-[Event](bees-event.md) blue bee to not like blueberries.
   * This and [Precise Bee](precise-bee.md) are also the only non-Colorless bee to like [Sunflower Seeds](sunflower-seed.md).

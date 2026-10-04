@@ -117,7 +117,7 @@ A ladybug's level can range from 1–3, depending on the field it is located in.
 
 * The respawn timer for a ladybug currently counts down from 5 minutes (previously 5 minutes and 15 seconds). However, as with most Mobs, ladybugs do not always respawn immediately after their timer runs out. (Usually a 10-20 second delay)
 * The ladybug's detection range in the Mushroom Field is larger than that of the Field, making it react even when the player is not in the field.
-* Before, ladybugs would completely ignore players, but this was patched on the [2018-05-11 Update](updates.md#2018-05-11).
+* Before, ladybugs would completely ignore players, but this was patched on the 2018-05-11 Update.
 * The maximum level of this mob is level 3, which is the lowest maximum level of all mobs.
 * The [King Beetle](king-beetle.md) is a boss mob that shares a similar design to the ladybug, being a hybrid of a ladybug and a [rhino beetle](rhino-beetle.md), as stated by Onett in his Discord server.
 

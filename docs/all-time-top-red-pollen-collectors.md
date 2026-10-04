@@ -5,125 +5,6 @@ tags: ["Leaderboards", "Locations", "Red"]
 
 # All-Time Top Red Pollen Collectors
 
-This article should be regularly looked at for new changes.
-
-Please regularly update the status of the All-Time Top Red Pollen Collectors article with date of change.
-
-Recommended once per week.
-
-*(Leaderboard as of 2026-07-25)*
-
-<table align="right" cellpadding="3" cellspacing="0" style="border-radius: 2px; -moz-border-radius: 2px; -webkit-border-radius: 2px; -khtml-border-radius: 2px; -icab-border-radius: 2px; -o-border-radius: 2px;; margin-left:5px; margin-bottom:5px; width: 300px; font-size: 65%; border:8px solid #5d391a;">
-<tbody><tr>
-<th colspan="3" style="border-radius: 1px; -moz-border-radius: 1px; -webkit-border-radius: 1px; -khtml-border-radius: 1px; -icab-border-radius: 1px; -o-border-radius: 1px;; text-align:center; font-size:18px; color:#242e2d; background:#deb81d">All-Time Top Red Pollen Collectors
-</th></tr>
-<tr class="mobile-hidden">
-<td colspan="3" style="padding:0; height:2.5px; background-color:#1d1d1d">
-</td></tr>
-<tr style="color:#0e0e0e; background:#68ccc6;">
-<td style="width:10%;"><b>1:</b>
-</td>
-<td style="font-size:15px; width:50%;"><b>ruiream</b>
-</td>
-<td style="font-size:15px; width:50%;"><b>803.48 qd</b>
-</td></tr>
-<tr class="mobile-hidden">
-<td colspan="3" style="padding:0; height:2.5px; background-color:#1d1d1d">
-</td></tr>
-<tr style="color:#0e0e0e; background:#b59005;">
-<td style="width:10%;"><b>2:</b>
-</td>
-<td style="font-size:15px; width:50%;"><b>HavingFun2228</b>
-</td>
-<td style="font-size:15px; width:50%;"><b>548.09 qd</b>
-</td></tr>
-<tr class="mobile-hidden">
-<td colspan="3" style="padding:0; height:2.5px; background-color:#1d1d1d">
-</td></tr>
-<tr style="color:#0e0e0e; background:#a4a7bb;">
-<td style="width:10%;"><b>3:</b>
-</td>
-<td style="font-size:15px; width:50%;"><b>leotaranXMaqqty</b>
-</td>
-<td style="font-size:15px; width:50%;"><b>461.08 qd</b>
-</td></tr>
-<tr class="mobile-hidden">
-<td colspan="3" style="padding:0; height:2.5px; background-color:#1d1d1d">
-</td></tr>
-<tr style="color:#cfd4d6; background:#473c06;">
-<td style="width:10%;"><b>4:</b>
-</td>
-<td style="font-size:15px; width:50%;"><b>TokenLinkPaperClip</b>
-</td>
-<td style="font-size:15px; width:50%;"><b>348.45 qd</b>
-</td></tr>
-<tr class="mobile-hidden">
-<td colspan="3" style="padding:0; height:2.5px; background-color:#1d1d1d">
-</td></tr>
-<tr style="color:#cfd4d6; background:#473c06;">
-<td style="width:10%;"><b>5:</b>
-</td>
-<td style="font-size:15px; width:50%;"><b>Gifted_PAT</b>
-</td>
-<td style="font-size:15px; width:50%;"><b>340.29 qd</b>
-</td></tr>
-<tr class="mobile-hidden">
-<td colspan="3" style="padding:0; height:2.5px; background-color:#1d1d1d">
-</td></tr>
-<tr style="color:#cfd4d6; background:#473c06;">
-<td style="width:10%;"><b>6:</b>
-</td>
-<td style="font-size:15px; width:50%;"><b>RebornBxcon</b>
-</td>
-<td style="font-size:15px; width:50%;"><b>307.28 qd</b>
-</td></tr>
-<tr class="mobile-hidden">
-<td colspan="3" style="padding:0; height:2.5px; background-color:#1d1d1d">
-</td></tr>
-<tr style="color:#cfd4d6; background:#473c06;">
-<td style="width:10%;"><b>7:</b>
-</td>
-<td style="font-size:15px; width:50%;"><b>Karto6ka2228</b>
-</td>
-<td style="font-size:15px; width:50%;"><b>288.87 qd</b>
-</td></tr>
-<tr class="mobile-hidden">
-<td colspan="3" style="padding:0; height:2.5px; background-color:#1d1d1d">
-</td></tr>
-<tr style="color:#cfd4d6; background:#473c06;">
-<td style="width:10%;"><b>8:</b>
-</td>
-<td style="font-size:15px; width:50%;"><b>MaqqtyXleotaran</b>
-</td>
-<td style="font-size:15px; width:50%;"><b>285.03 qd</b>
-</td></tr>
-<tr class="mobile-hidden">
-<td colspan="3" style="padding:0; height:2.5px; background-color:#1d1d1d">
-</td></tr>
-<tr style="color:#cfd4d6; background:#473c06;">
-<td style="width:10%;"><b>9:</b>
-</td>
-<td style="font-size:15px; width:50%;"><b>mynameisbob9765</b>
-</td>
-<td style="font-size:15px; width:50%;"><b>265.48 qd</b>
-</td></tr>
-<tr class="mobile-hidden">
-<td colspan="3" style="padding:0; height:2.5px; background-color:#1d1d1d">
-</td></tr>
-<tr style="color:#cfd4d6; background:#473c06;">
-<td style="width:10%;"><b>10:</b>
-</td>
-<td style="font-size:15px; width:50%;"><b>AkariiHD</b>
-</td>
-<td style="font-size:15px; width:50%;"><b>256.69 qd</b>
-</td></tr>
-<tr class="mobile-hidden">
-<td colspan="3" style="padding:0; height:2.5px; background-color:#1d1d1d">
-</td></tr>
-<tr style="color:#cfd4d6; background:#473c06;">
-<td colspan="3"><b>Page last updated on 10/3/2026</b><i></i>
-</td></tr></tbody></table>
-
 The **All-Time Top Red Pollen Collectors** is one of 64 [leaderboards](leaderboards.md) in the game. This leaderboard shows how much red [pollen](pollen.md) players have collected over time. It shows 10 leaderboard positions at a time. The player can scroll down the leaderboard to see more leaderboard positions, all the way to 100th place. Only legitimate players appear on the leaderboards for lengths of time (hackers/exploiters will be removed).
 
 If the player steps on the white pad in front of it, the message "You've collected "x" Red Pollen" will appear, "x" being the total amount of red pollen you have collected in total.
@@ -131,14 +12,6 @@ If the player steps on the white pad in front of it, the message "You've collect
 ## Location
 
 It is located inside the [Red HQ](red-hq.md), between the ladder and the [Dark Scythe](dark-scythe.md).
-
-## Achievements
-
-* McProsephYoutube was the first user to reach 10 trillion total red pollen collected.
-* mineplex6314 was the first user to reach 100 trillion total red pollen collected.
-* e\_lol was the first user to reach 1 quadrillion total red pollen collected.
-* DarnS0cks was the first user to reach 10 quadrillion total red pollen collected.
-* HavingFun2228 was the first user to reach 100 quadrillion total red pollen collected.
 
 <table class="mw-collapsible mw-collapsed NavTable">
 <tbody><tr>
@@ -182,5 +55,5 @@ It is located inside the [Red HQ](red-hq.md), between the ladder and the [Dark S
 <tr>
 <th class="NavCategory">Event<br/>Locations
 </th>
-<td class="NavLinks NavLinksBasicEven"><b><a href="beesmas-tree.html">Beesmas Tree</a> • <a href="ornament-presents.html">Ornament Presents</a> • <span class="new" data-uncrawlable-url="L3dpa2kvQ29tcHV0ZXI/YWN0aW9uPWVkaXQmcmVkbGluaz0x" title="Computer (page does not exist)">Computer</span> • <a href="gift-boxes.html">Gift Boxes</a> • <a href="honey-wreath.html">Honey Wreath</a> • <a href="stockings.html">Stockings</a> • <a href="gingerbread-house.html">Gingerbread House</a> • <a href="snowbear-summoner.html">Snowbear Summoner</a> • <a href="beesmas-lights.html">Beesmas Lights</a> • <a href="samovar.html">Samovar</a> • <a href="beesmas-feast.html">Beesmas Feast</a> • <a href="onett-s-lid-art.html">Onett's Lid Art</a> • <a href="wind-shrine.html#Galentine_Shrine">Galentine Shrine</a> • <a href="memory-match.html#Winter_Memory_Match">Winter Memory Match</a> • <a href="snow-machine.html">Snow Machine</a> • <a href="honeyday-candles.html">Honeyday Candles</a> • <a href="robo-party-cake.html">Robo Party Cake</a> • <a href="gummy-beacon.html">Gummy Beacon</a> • <a href="naughty-list.html">Naughty List</a></b>
+<td class="NavLinks NavLinksBasicEven"><b><a href="beesmas-tree.html">Beesmas Tree</a> • <span class="new" data-uncrawlable-url="L3dpa2kvQ29tcHV0ZXI/YWN0aW9uPWVkaXQmcmVkbGluaz0x" title="Computer (page does not exist)">Computer</span> • <a href="gift-boxes.html">Gift Boxes</a> • <a href="honey-wreath.html">Honey Wreath</a> • <a href="stockings.html">Stockings</a> • <a href="gingerbread-house.html">Gingerbread House</a> • <a href="snowbear-summoner.html">Snowbear Summoner</a> • <a href="beesmas-lights.html">Beesmas Lights</a> • <a href="samovar.html">Samovar</a> • <a href="beesmas-feast.html">Beesmas Feast</a> • <a href="onett-s-lid-art.html">Onett's Lid Art</a> • <a href="wind-shrine.html#Galentine_Shrine">Galentine Shrine</a> • <a href="memory-match.html#Winter_Memory_Match">Winter Memory Match</a> • <a href="snow-machine.html">Snow Machine</a> • <a href="honeyday-candles.html">Honeyday Candles</a> • <a href="robo-party-cake.html">Robo Party Cake</a> • <a href="gummy-beacon.html">Gummy Beacon</a> • <a href="naughty-list.html">Naughty List</a></b>
 </td></tr></tbody></table>

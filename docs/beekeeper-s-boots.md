@@ -26,7 +26,7 @@ tags: ["Items", "Accessories", "Boots", "Crafted"]
 </div>
 </aside>
 
-The **Beekeeper's Boots** are a pair of boots that were added in the [2018-09-10 update](updates.md#2018-09-10). The Beekeeper's Boots can be bought at the [Mountain Top Shop](mountain-top-shop.md) for 15 million honey.
+The **Beekeeper's Boots** are a pair of boots that were added in the 2018-09-10 update. The Beekeeper's Boots can be bought at the [Mountain Top Shop](mountain-top-shop.md) for 15 million honey.
 
 <table class="article-table">
 <tbody><tr>
@@ -52,10 +52,10 @@ The **Beekeeper's Boots** are a pair of boots that were added in the [2018-09-10
 
 * They could have been obtained from [Sun Bear](sun-bear.md) by completing his last quest before he left on 2018-10-08.
 * To craft these boots using the [Blender](blender.md), a total of 15,000,000 honey, 110 [royal jellies](royal-jelly.md), 150 [strawberries](strawberry.md), 150 [blueberries](blueberry.md), and 250 [sunflower seeds](sunflower-seed.md) must be collected. Also, keep in mind that crafting the materials requires a total of 55 minutes of playtime without speeding it up using [tickets](ticket.md).
-* [Onett](onett.md) wears a pair of Beekeeper's Boots. He doesn't wear the [Gummy Boots](gummy-boots.md) or the [Coconut Clogs](coconut-clogs.md) because they were added later in the [2018-11-25 update](updates.md#2018-11-25) and [2019-09-28 updates](updates.md#2019-09-28) respectively.
-  * Onett didn't wear any boots prior to the [2018-09-10 update](updates.md#2018-09-10), as boots weren't added then. Shortly after the 2018-09-10 update, this was changed to Onett's current gear today.
+* [Onett](onett.md) wears a pair of Beekeeper's Boots. He doesn't wear the [Gummy Boots](gummy-boots.md) or the [Coconut Clogs](coconut-clogs.md) because they were added later in the 2018-11-25 update and 2019-09-28 updates respectively.
+  * Onett didn't wear any boots prior to the 2018-09-10 update, as boots weren't added then. Shortly after the 2018-09-10 update, this was changed to Onett's current gear today.
 * The version worn by Sun Bear is much bigger than the one the player wears to fit his model.
-* Prior to the 2018-11-25 [update](updates.md), this item, [Basic Boots](basic-boots.md) and [Hiking Boots](hiking-boots.md) didn't require any items as there was no crafting then.
+* Prior to the 2018-11-25 update, this item, [Basic Boots](basic-boots.md) and [Hiking Boots](hiking-boots.md) didn't require any items as there was no crafting then.
 * After Sun Bear left, the Beekeeper's Boots were transferred over to the Mountain Top Shop for 33,000,000 (33 million) honey.
   * The original price was changed to the current price (15,000,000 honey) in the 2018-11-25 update because of the new crafting materials needed to make it.
 * After the nerf of hats, these replaced the removed bonuses of the [Beekeeper's Mask](beekeeper-s-mask.md), including the Movespeed bonus, which was 6, the Jump Power boost, and the Bee Gather Pollen boost, which was 25%. Now, both the mask and the boots are 30%, meaning that the boost for Bee Gather Pollen is larger when wearing both the Beekeeper's Mask and Beekeeper's Boots.
@@ -123,7 +123,7 @@ The **Beekeeper's Boots** are a pair of boots that were added in the [2018-09-10
 </th>
 <th class="NavCategory">Quest Exclusive
 </th>
-<td class="NavLinks NavLinksBasicEven"><b><img alt="Translator" height="35" src="img/Translator.png" width="35"/> <a href="translator.html">Translator</a> • <img alt="Spirit Petal" height="35" src="img/Spirit_Petal.png" width="35"/> <a href="spirit-petal.html">Spirit Petal</a> • <img alt="Debug Wax" height="35" src="img/Debug_Wax.png" width="35"/> <a href="debug-wax.html">Debug Wax</a> • <img alt="Nectar Tester" height="35" src="img/Nectar_Tester.png" width="35"/> <a href="nectar-tester.html">Nectar Tester</a></b> • <span typeof="mw:Error mw:File"></span> <a href="bbm-s-apology.html">BBM's Apology</a><b></b>
+<td class="NavLinks NavLinksBasicEven"><b><img alt="Translator" height="35" src="img/Translator.png" width="35"/> <a href="translator.html">Translator</a> • <img alt="Spirit Petal" height="35" src="img/Spirit_Petal.png" width="35"/> <a href="spirit-petal.html">Spirit Petal</a> • <img alt="Debug Wax" height="35" src="img/Debug_Wax.png" width="35"/> <a href="debug-wax.html">Debug Wax</a> • <img alt="Nectar Tester" height="35" src="img/Nectar_Tester.png" width="35"/> <a href="nectar-tester.html">Nectar Tester</a></b> • <span typeof="mw:Error mw:File"></span> <b></b>
 </td></tr>
 <tr>
 <th class="NavCategory">Beesmas

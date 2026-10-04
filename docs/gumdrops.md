@@ -15,7 +15,7 @@ COOLDOWN
 
 0.5 seconds
 
-**Gumdrops** are an inventory item that was introduced in the [Gummy Invasion Event](updates.md#2018-05-26). When used, gumdrop blobs fall from the air and splatter [goo](goo.md) if they hit a [flower](flowers.md). Goo grants an additional 40% bonus [honey](honey.md), with bigger goo puddles granting even more bonus honey. **Gumdrops** can also be used to craft other gear, such as the [Gummyballer](gummyballer.md).
+**Gumdrops** are an inventory item that was introduced in the Gummy Invasion Event. When used, gumdrop blobs fall from the air and splatter [goo](goo.md) if they hit a [flower](flowers.md). Goo grants an additional 40% bonus [honey](honey.md), with bigger goo puddles granting even more bonus honey. **Gumdrops** can also be used to craft other gear, such as the [Gummyballer](gummyballer.md).
 
 <figure class="thumb" style="width: 180px" typeof="mw:File/Thumb">  <figcaption class="thumbcaption"> <p class="caption">Gumdrops falling in a field.</p> </figcaption> </figure>
 
@@ -52,70 +52,6 @@ Placing **gumdrops** in a hotbar slot triggers an ON/OFF switch to appear beneat
 * As a drop from certain [mobs](mobs.md). (Anywhere from 0 to 2,500 gumdrops per mob, depending on [Loot Luck](system-page.md#Loot_Luck) and the type of mob.)
 * As a drop from [leaves](leaves.md) in the [Stump Field](stump-field.md).
 * As a drop from a [Gummy Sprout](sprout.md) or a [Festive Sprout](festive-bean.md).
-
-### Outdated Ways
-
-<table class="mw-collapsible mw-collapsed article-table">
-<caption>
-</caption>
-<tbody><tr>
-<td>
-<ul><li>Using the <a href="honey-dispenser.html">Honey Dispenser</a> during the Gummy Invasion (gave <img alt="Gumdrops" height="25" src="img/Gumdrops.png" width="25"/>1 <strong class="mw-selflink selflink"><span class="color-template color-template-gumdrops color-template-background-clip">Gumdrops</span></strong> per use).</li>
-<li>Before <a href="gummy-bear.html">Gummy Bear</a> left, completing his quests each gave <img alt="Gumdrops" height="25" src="img/Gumdrops.png" width="25"/>1 <strong class="mw-selflink selflink"><span class="color-template color-template-gumdrops color-template-background-clip">Gumdrops</span></strong>, except for the last quest, for which the reward was a <img alt="Basic Egg" height="35" src="img/Basic_Egg.png" width="35"/><a href="egg.html#Gummy_Bee_Egg"><span class="color-template color-template-gummy-bee-egg color-template-background-clip">Gummy Bee Egg</span></a>.
-<ul><li>The gumdrop token behind where Gummy Bear used to be during the Gummy Invasion granted <img alt="Gumdrops" height="25" src="img/Gumdrops.png" width="25"/>5 <strong class="mw-selflink selflink"><span class="color-template color-template-gumdrops color-template-background-clip">Gumdrops</span></strong>.</li></ul></li>
-<li>When the <span class="new" data-uncrawlable-url="L3dpa2kvRWdnX0h1bnRfMjAxOT9hY3Rpb249ZWRpdCZyZWRsaW5rPTE=" title="Egg Hunt 2019 (page does not exist)">Egg Hunt 2019 Event</span> was active, the player could find a token behind the <span class="new" data-uncrawlable-url="L3dpa2kvRWdnX0h1bnRfSW5mbz9hY3Rpb249ZWRpdCZyZWRsaW5rPTE=" title="Egg Hunt Info (page does not exist)">Egg Hunt Info</span>. The token is currently covered by a green platform; however, it is close enough to be reached along its wall.</li>
-<li>Under the <a href="beesmas-tree.html">Beesmas Tree</a>, there was a gumdrop token worth <img alt="Gumdrops" height="25" src="img/Gumdrops.png" width="25"/>5 <strong class="mw-selflink selflink"><span class="color-template color-template-gumdrops color-template-background-clip">Gumdrops</span></strong>.</li>
-<li>There was a gumdrop token worth <img alt="Gumdrops" height="25" src="img/Gumdrops.png" width="25"/>15 <strong class="mw-selflink selflink"><span class="color-template color-template-gumdrops color-template-background-clip">Gumdrops</span></strong> behind the <a href="ornament-presents.html">Golden Present</a>.</li>
-<li>Opening the <a href="ornament-presents.html">Gooey Present</a> rewarded <img alt="Gumdrops" height="25" src="img/Gumdrops.png" width="25"/>100 <strong class="mw-selflink selflink"><span class="color-template color-template-gumdrops color-template-background-clip">Gumdrops</span></strong> and other items.</li>
-<li>As a drop from certain <a href="gift-boxes.html">Gift Boxes</a>.
-<ul><li>Opening the <a href="gift-boxes.html#2021">Kitsch Gift Box</a> from Beesmas 2021 rewarded <img alt="Gumdrops" height="25" src="img/Gumdrops.png" width="25"/>10 <strong class="mw-selflink selflink"><span class="color-template color-template-gumdrops color-template-background-clip">Gumdrops</span></strong> and other items.</li>
-<li>Opening the Gummy Gift Box from Beesmas 2021 rewarded <img alt="Gumdrops" height="25" src="img/Gumdrops.png" width="25"/>50 <strong class="mw-selflink selflink"><span class="color-template color-template-gumdrops color-template-background-clip">Gumdrops</span></strong> and other items.</li>
-<li>Opening the <a href="gift-boxes.html#2022">Gummy Gift Box</a> from Beesmas 2022 rewarded <img alt="Gumdrops" height="25" src="img/Gumdrops.png" width="25"/>25 <strong class="mw-selflink selflink"><span class="color-template color-template-gumdrops color-template-background-clip">Gumdrops</span></strong> and other items.</li>
-<li>Opening the Gooey Gift Box from Beesmas 2022 rewarded <img alt="Gumdrops" height="25" src="img/Gumdrops.png" width="25"/>100 <strong class="mw-selflink selflink"><span class="color-template color-template-gumdrops color-template-background-clip">Gumdrops</span></strong> and other items.</li>
-<li>Opening the <a href="gift-boxes.html#2024_(Summer)">Sweet-n-sour Gift Box</a> from Beemas Summer 2024 rewarded <img alt="Gumdrops" height="25" src="img/Gumdrops.png" width="25"/>400 <strong class="mw-selflink selflink"><span class="color-template color-template-gumdrops color-template-background-clip">Gumdrops</span></strong> and other items.</li>
-<li>Opening the <a href="gift-boxes.html#2024_(Winter)">Honeydew Gift Box</a> from Beesmas Winter 2024 rewarded <img alt="Gumdrops" height="25" src="img/Gumdrops.png" width="25"/>500 <strong class="mw-selflink selflink"><span class="color-template color-template-gumdrops color-template-background-clip">Gumdrops</span></strong> and other items.
-<ul><li>Opening the <a href="gift-boxes.html#2025">Confectionery Gift Box</a> from Beesmas 2025 rewarded <img alt="Gumdrops" height="25" src="img/Gumdrops.png" width="25"/>500 <strong class="mw-selflink selflink"><span class="color-template color-template-gumdrops color-template-background-clip">Gumdrops</span></strong> and other items.</li></ul></li></ul></li>
-<li>During a Gummy Siege, the fields targeted by Gummy Bear will spawn Gumdrops.</li>
-<li>There used to be a <img alt="Gumdrops" height="35" src="img/Gumdrops.png" width="35"/><strong class="mw-selflink selflink"><span class="color-template color-template-gumdrops color-template-background-clip">Gumdrops</span></strong> token behind the <a href="gummy-cannon.html">Gummy Cannon</a>.</li>
-<li>Redeeming certain expired codes:
-<ul><li>Arizona (Gave <img alt="Gumdrops" height="25" src="img/Gumdrops.png" width="25"/>10 <strong class="mw-selflink selflink"><span class="color-template color-template-gumdrops color-template-background-clip">Gumdrops</span></strong> + other stuff).</li>
-<li>Tabby (Gave <img alt="Gumdrops" height="25" src="img/Gumdrops.png" width="25"/>5 <strong class="mw-selflink selflink"><span class="color-template color-template-gumdrops color-template-background-clip">Gumdrops</span></strong> + other stuff).</li>
-<li>JellyHill (Gave <img alt="Gumdrops" height="25" src="img/Gumdrops.png" width="25"/>5 <strong class="mw-selflink selflink"><span class="color-template color-template-gumdrops color-template-background-clip">Gumdrops</span></strong> + other stuff).</li>
-<li>MischiefMaker (Gave <img alt="Gumdrops" height="25" src="img/Gumdrops.png" width="25"/>10 <strong class="mw-selflink selflink"><span class="color-template color-template-gumdrops color-template-background-clip">Gumdrops</span></strong> + other stuff).</li>
-<li>CornSyrup (Gave <img alt="Gumdrops" height="25" src="img/Gumdrops.png" width="25"/>10 <strong class="mw-selflink selflink"><span class="color-template color-template-gumdrops color-template-background-clip">Gumdrops</span></strong>).</li>
-<li>Unity (Gave <img alt="Gumdrops" height="25" src="img/Gumdrops.png" width="25"/>5 <strong class="mw-selflink selflink"><span class="color-template color-template-gumdrops color-template-background-clip">Gumdrops</span></strong> + other stuff).</li>
-<li>Starch (Gave <img alt="Gumdrops" height="25" src="img/Gumdrops.png" width="25"/>30 <strong class="mw-selflink selflink"><span class="color-template color-template-gumdrops color-template-background-clip">Gumdrops</span></strong>).</li>
-<li>100mVisits (Gave <img alt="Gumdrops" height="25" src="img/Gumdrops.png" width="25"/>5 <strong class="mw-selflink selflink"><span class="color-template color-template-gumdrops color-template-background-clip">Gumdrops</span></strong> + other stuff).</li>
-<li>Xanthan (Gave <img alt="Gumdrops" height="25" src="img/Gumdrops.png" width="25"/>30 <strong class="mw-selflink selflink"><span class="color-template color-template-gumdrops color-template-background-clip">Gumdrops</span></strong> + other stuff).</li>
-<li>Gel (Gave <img alt="Gumdrops" height="25" src="img/Gumdrops.png" width="25"/>15 <strong class="mw-selflink selflink"><span class="color-template color-template-gumdrops color-template-background-clip">Gumdrops</span></strong> + other stuff).</li>
-<li>LateNightGumdrops (Gave <img alt="Gumdrops" height="25" src="img/Gumdrops.png" width="25"/>20 <strong class="mw-selflink selflink"><span class="color-template color-template-gumdrops color-template-background-clip">Gumdrops</span></strong> + other stuff).</li>
-<li>Afternoon (Gave <img alt="Gumdrops" height="25" src="img/Gumdrops.png" width="25"/>20 <strong class="mw-selflink selflink"><span class="color-template color-template-gumdrops color-template-background-clip">Gumdrops</span></strong> + other stuff).</li>
-<li>SugarRush (Gave <img alt="Gumdrops" height="25" src="img/Gumdrops.png" width="25"/>10 <strong class="mw-selflink selflink"><span class="color-template color-template-gumdrops color-template-background-clip">Gumdrops</span></strong> + other stuff).</li>
-<li>GummyBoost (Gave <img alt="Gumdrops" height="25" src="img/Gumdrops.png" width="25"/>30 <strong class="mw-selflink selflink"><span class="color-template color-template-gumdrops color-template-background-clip">Gumdrops</span></strong> + other stuff).</li>
-<li>Pectin (Gave <img alt="Gumdrops" height="25" src="img/Gumdrops.png" width="25"/>10 <strong class="mw-selflink selflink"><span class="color-template color-template-gumdrops color-template-background-clip">Gumdrops</span></strong>).</li>
-<li>Tapioca (Gave <img alt="Gumdrops" height="25" src="img/Gumdrops.png" width="25"/>10 <strong class="mw-selflink selflink"><span class="color-template color-template-gumdrops color-template-background-clip">Gumdrops</span></strong>).</li>
-<li>MillionMembers (Gave <img alt="Gumdrops" height="25" src="img/Gumdrops.png" width="25"/>10 <strong class="mw-selflink selflink"><span class="color-template color-template-gumdrops color-template-background-clip">Gumdrops</span></strong> + other stuff).</li>
-<li>1mFavorites (Gave <img alt="Gumdrops" height="25" src="img/Gumdrops.png" width="25"/>5 <strong class="mw-selflink selflink"><span class="color-template color-template-gumdrops color-template-background-clip">Gumdrops</span></strong> + other stuff).</li>
-<li>Gumdrops (Gave <img alt="Gumdrops" height="25" src="img/Gumdrops.png" width="25"/>20 <strong class="mw-selflink selflink"><span class="color-template color-template-gumdrops color-template-background-clip">Gumdrops</span></strong> + other stuff).</li>
-<li>MayRuTreats (Gave <img alt="Gumdrops" height="25" src="img/Gumdrops.png" width="25"/>5 <strong class="mw-selflink selflink"><span class="color-template color-template-gumdrops color-template-background-clip">Gumdrops</span></strong> + other stuff).</li>
-<li>GummySausage (Gave <img alt="Gumdrops" height="25" src="img/Gumdrops.png" width="25"/>15 <strong class="mw-selflink selflink"><span class="color-template color-template-gumdrops color-template-background-clip">Gumdrops</span></strong> + other stuff).</li>
-<li>WillGoold (Gave <img alt="Gumdrops" height="25" src="img/Gumdrops.png" width="25"/>10 <strong class="mw-selflink selflink"><span class="color-template color-template-gumdrops color-template-background-clip">Gumdrops</span></strong> + other stuff).</li>
-<li>Crafty (Gave <img alt="Gumdrops" height="25" src="img/Gumdrops.png" width="25"/>25 <strong class="mw-selflink selflink"><span class="color-template color-template-gumdrops color-template-background-clip">Gumdrops</span></strong> + other stuff).</li>
-<li>BeeDay2019 (Gave <img alt="Gumdrops" height="25" src="img/Gumdrops.png" width="25"/>1 <strong class="mw-selflink selflink"><span class="color-template color-template-gumdrops color-template-background-clip">Gumdrops</span></strong> + other stuff).</li>
-<li>Leftovers (Gave <img alt="Gumdrops" height="25" src="img/Gumdrops.png" width="25"/>10 <strong class="mw-selflink selflink"><span class="color-template color-template-gumdrops color-template-background-clip">Gumdrops</span></strong> + other stuff).</li>
-<li>ClubBasket (Gave <img alt="Gumdrops" height="25" src="img/Gumdrops.png" width="25"/>10 <strong class="mw-selflink selflink"><span class="color-template color-template-gumdrops color-template-background-clip">Gumdrops</span></strong> + other stuff).</li>
-<li>WikiHonor (Gave <img alt="Gumdrops" height="25" src="img/Gumdrops.png" width="25"/>10 <strong class="mw-selflink selflink"><span class="color-template color-template-gumdrops color-template-background-clip">Gumdrops</span></strong> + other stuff).</li>
-<li>BeesmasBegins (Gave <img alt="Gumdrops" height="25" src="img/Gumdrops.png" width="25"/>5 <strong class="mw-selflink selflink"><span class="color-template color-template-gumdrops color-template-background-clip">Gumdrops</span></strong> + other stuff).</li>
-<li>Discord100k (Gave <img alt="Gumdrops" height="25" src="img/Gumdrops.png" width="25"/>3 <strong class="mw-selflink selflink"><span class="color-template color-template-gumdrops color-template-background-clip">Gumdrops</span></strong> + other stuff).</li>
-<li>Mocito100T (Gave <img alt="Gumdrops" height="25" src="img/Gumdrops.png" width="25"/>5 <strong class="mw-selflink selflink"><span class="color-template color-template-gumdrops color-template-background-clip">Gumdrops</span></strong> + other stuff).</li>
-<li>1MLikes (Gave <img alt="Gumdrops" height="25" src="img/Gumdrops.png" width="25"/>1 <strong class="mw-selflink selflink"><span class="color-template color-template-gumdrops color-template-background-clip">Gumdrops</span></strong> + other stuff).</li>
-<li>10mMembers (Gave <img alt="Gumdrops" height="25" src="img/Gumdrops.png" width="25"/>10 <strong class="mw-selflink selflink"><span class="color-template color-template-gumdrops color-template-background-clip">Gumdrops</span></strong> + other stuff).</li>
-<li>500mil (Gave <img alt="Gumdrops" height="25" src="img/Gumdrops.png" width="25"/>5 <strong class="mw-selflink selflink"><span class="color-template color-template-gumdrops color-template-background-clip">Gumdrops</span></strong> + other stuff).</li>
-<li>BoxWhoops (Gave <img alt="Gumdrops" height="25" src="img/Gumdrops.png" width="25"/>10 <strong class="mw-selflink selflink"><span class="color-template color-template-gumdrops color-template-background-clip">Gumdrops</span></strong> + other stuff).</li>
-<li>Boo Swarm (Gave <img alt="Gumdrops" height="25" src="img/Gumdrops.png" width="25"/>10 <strong class="mw-selflink selflink"><span class="color-template color-template-gumdrops color-template-background-clip">Gumdrops</span></strong> + other stuff).</li></ul></li>
-<li>As a drop from the <a href="stockings.html">Stockings</a>.</li>
-<li>Using <a href="dapper-bear.html">Dapper Bear</a>'s <a href="samovar.html">Samovar</a> dropped <img alt="Gumdrops" height="25" src="img/Gumdrops.png" width="25"/>25 <strong class="mw-selflink selflink"><span class="color-template color-template-gumdrops color-template-background-clip">Gumdrops</span></strong> after every 5th use except the 25th.</li></ul>
-</td></tr></tbody></table>
 
 ## Crafting Uses
 
@@ -184,8 +120,8 @@ Total required for all single-purchase items: 4,525 **Gumdrops**
 * If the player crafts glue in the Blender, it will say " - [Amount of glues crafting \* 50] *Gumdropss*" instead of "*Gumdrops*". This also happens when donating gumdrops to the [Wind Shrine](wind-shrine.md) and getting Gummy Bee from the Gummy Bee Egg Claim.
 * Unlimited Gumdrops is a buff allows the player to use gumdrops without taking them away from the player's inventory for 3 minutes (only obtainable from [codes](codes.md) and the [Glue Dispenser](glue-dispenser.md)). This does not increase the number of gumdrops the player has.
 * To enter [Gummy Bear's Lair](gummy-bear-s-lair.md), the player will need to use a gumdrop on top of the Gummy Bee at the Gummy Bee Egg Claim near the [Ant Gate](ant-gate.md) after earning the Goo Hotshot badge.
-* Gumdrops are currently the only way to get Gummy Bee after the [2019-04-05 update](updates.md#2019-04-05).
-* After the [2019-09-28 update](updates.md#2019-09-28), the hotkey for gumdrops (G), along with the hotkey of [Stingers](stinger.md) and [Micro-Converters](micro-converter.md), were removed.
+* Gumdrops are currently the only way to get Gummy Bee after the 2019-04-05 update.
+* After the 2019-09-28 update, the hotkey for gumdrops (G), along with the hotkey of [Stingers](stinger.md) and [Micro-Converters](micro-converter.md), were removed.
 * Before the 2019-04-05 update, if the player attempted to use gumdrops before the cooldown was over, a message in the bottom right corner would say: [Must wait X seconds to use gumdrops again]. If the player doesn't have any gumdrops, a message will appear saying: [You don't have any Gumdrops].
 
 <table class="mw-collapsible autocollapse" style="margin:auto; background:#000; font-size: 10pt; border:5px solid #56CB5A; width: 100%; border-radius: 20px; -moz-border-radius: 20px; -webkit-border-radius: 20px; -khtml-border-radius: 20px; -icab-border-radius: 20px; -o-border-radius: 20px;">
@@ -249,7 +185,7 @@ Total required for all single-purchase items: 4,525 **Gumdrops**
 </th>
 <th class="NavCategory">Quest Exclusive
 </th>
-<td class="NavLinks NavLinksBasicEven"><b><img alt="Translator" height="35" src="img/Translator.png" width="35"/> <a href="translator.html">Translator</a> • <img alt="Spirit Petal" height="35" src="img/Spirit_Petal.png" width="35"/> <a href="spirit-petal.html">Spirit Petal</a> • <img alt="Debug Wax" height="35" src="img/Debug_Wax.png" width="35"/> <a href="debug-wax.html">Debug Wax</a> • <img alt="Nectar Tester" height="35" src="img/Nectar_Tester.png" width="35"/> <a href="nectar-tester.html">Nectar Tester</a></b> • <span typeof="mw:Error mw:File"></span> <a href="bbm-s-apology.html">BBM's Apology</a><b></b>
+<td class="NavLinks NavLinksBasicEven"><b><img alt="Translator" height="35" src="img/Translator.png" width="35"/> <a href="translator.html">Translator</a> • <img alt="Spirit Petal" height="35" src="img/Spirit_Petal.png" width="35"/> <a href="spirit-petal.html">Spirit Petal</a> • <img alt="Debug Wax" height="35" src="img/Debug_Wax.png" width="35"/> <a href="debug-wax.html">Debug Wax</a> • <img alt="Nectar Tester" height="35" src="img/Nectar_Tester.png" width="35"/> <a href="nectar-tester.html">Nectar Tester</a></b> • <span typeof="mw:Error mw:File"></span> <b></b>
 </td></tr>
 <tr>
 <th class="NavCategory">Beesmas

@@ -73,7 +73,7 @@ The main strategy players use is to have something in the way between them and t
 
 The run-and-jump method also works: like most Mobs, the werewolf gets confused while the player is in the air and will lunge at the point the player was when they jumped, not where they're at after they jumped.
 
-The [Frozen Field Defenders Glitch](glitches.md#Frozen_Field_Defenders) works well against the werewolf.
+The Frozen Field Defenders Glitch works well against the werewolf.
 
 Players can also just go through the [Honey Bee Gate](honey-bee-gate.md), then quickly run behind the Pine Tree nearest to the [Badge Bearer's Guild](badge-bearer-s-guild.md). Then, if he goes back to the cave, just walk beside him and then run back behind the tree. The player should keep doing this until they defeat him.
 

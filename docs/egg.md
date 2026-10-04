@@ -9,7 +9,7 @@ tags: ["Items", "Inventory"]
 
 **Eggs** are a type of inventory item where the player drags into their [hive](hive.md) to hatch a [bee](bees.md), can be donated to the [Wind Shrine](wind-shrine.md) or are used to roll the [Sticker Printer](sticker-printer.md). They are also the items that help players start playing in the [game](re-swarm.md). Eggs come in many different types, some offering chances at different rarities of bees, and some hatching a specific bee. Currently, a total of 6 (or 11 if counting the [gifted](gifted-bee.md) variants) different types of eggs exist in the game, not including Plastic Eggs, specific bee eggs, the Flight of the Bumble Egg, or the Swarming Egg of the Hive.
 
-Ever since the [2019-09-28 update](updates.md#2019-09-28), players do not need a vacant [hive slot](hive-slot.md) to hatch an egg. Now, players can hatch an egg on top of an existing bee to replace it. The level of the bee remains the same, acting like a [Royal Jelly](royal-jelly.md).
+Ever since the 2019-09-28 update, players do not need a vacant [hive slot](hive-slot.md) to hatch an egg. Now, players can hatch an egg on top of an existing bee to replace it. The level of the bee remains the same, acting like a [Royal Jelly](royal-jelly.md).
 
 Please also note that due to regulations in the United Kingdom, the Netherlands, Belgium, and Australia, any eggs in the [Robux Shop](robux-shop.md) won't be available to purchase for British, Dutch, Belgian, and Australian consumers. This restriction applies to most of the eggs in the shop.
 
@@ -51,21 +51,6 @@ Ways to obtain a Silver Egg:
 * As a drop from a [Festive Planter](festive-planter.md).
 * A rare chance to drop from [stockings](stockings.md).
 * A rare reward from the [Winter Memory Match](memory-match.md#Winter_Memory_Match).
-
-#### Outdated Ways
-
-<table class="mw-collapsible mw-collapsed article-table">
-<caption>
-</caption>
-<tbody><tr>
-<td>
-<ul><li>Using the expired <a href="codes.html">code</a> "PreUpdate" gave <span typeof="mw:Error mw:File"></span>1 <span class="color-template color-template-silver-egg color-template-background-clip">Silver Egg</span> and other items.</li>
-<li>As a reward for completing <a href="bubble-bee-man.html">Bubble Bee Man's</a> quest "B.B.M's Naughty List" during the Beesmas 2020 event.</li>
-<li>By purchasing the Silver Egg in <a href="bee-bear-s-catalog.html">Bee Bear's Catalog</a> for <img alt="Snowflake" height="25" src="img/Snowflake.png" width="25"/>30 <a href="snowflake.html"><span class="color-template color-template-snowflake color-template-background-clip">Snowflakes</span></a> and <img alt="Gingerbread Bear" height="25" src="img/Gingerbread_Bear.png" width="25"/>3 <a href="gingerbread-bear.html"><span class="color-template color-template-gingerbread-bear color-template-background-clip">Gingerbread Bears</span></a> during Beesmas 2020 and 2021.</li>
-<li>By purchasing the Silver Egg in Bee Bear's Catalog for <img alt="Gingerbread Bear" height="25" src="img/Gingerbread_Bear.png" width="25"/>5 <a href="gingerbread-bear.html"><span class="color-template color-template-gingerbread-bear color-template-background-clip">Gingerbread Bears</span></a> during Beesmas 2022.</li>
-<li>By purchasing the <span class="color-template color-template-silver-egg color-template-background-clip">Silver Egg</span> in Bee Bear's Catalog for <img alt="Snowflake" height="25" src="img/Snowflake.png" width="25"/>25 <a href="snowflake.html"><span class="color-template color-template-snowflake color-template-background-clip">Snowflakes</span></a> and <img alt="Gingerbread Bear" height="25" src="img/Gingerbread_Bear.png" width="25"/>5 <a href="gingerbread-bear.html"><span class="color-template color-template-gingerbread-bear color-template-background-clip">Gingerbread Bears</span></a> during Summer Beesmas 2024.</li>
-<li>By purchasing the <span class="color-template color-template-silver-egg color-template-background-clip">Silver Egg</span> in <a href="bee-bear-s-catalog.html">Bee Bear's Catalog</a> for <img alt="Snowflake" height="25" src="img/Snowflake.png" width="25"/>25 <a href="snowflake.html"><span class="color-template color-template-snowflake color-template-background-clip">Snowflakes</span></a> and <img alt="Gingerbread Bear" height="25" src="img/Gingerbread_Bear.png" width="25"/>5 <a href="gingerbread-bear.html"><span class="color-template color-template-gingerbread-bear color-template-background-clip">Gingerbread Bears</span></a> during Winter Beesmas 2024.</li></ul>
-</td></tr></tbody></table>
 
 ### Gifted Silver Egg
 
@@ -114,21 +99,6 @@ Ways to obtain a Gold Egg:
 * A low chance to drop from a [Festive Nymph](festive-nymph.md).
 * As a rare reward from the [Winter Memory Match](memory-match.md#Winter_Memory_Match).
 
-#### Outdated Ways
-
-<table class="mw-collapsible mw-collapsed article-table">
-<caption>
-</caption>
-<tbody><tr>
-<td>
-<ul><li>Opening the <a href="ornament-presents.html">Golden Present</a> gave 1 gold egg and other <a href="items.html">items</a>.</li>
-<li>Purchasing the Black Friday Bundle for <span typeof="mw:Error mw:File"></span>800 <span class="color-template color-template-robux color-template-background-clip">Robux</span> gave 1 gold egg and other items.</li>
-<li>A chance of getting from the <a href="wind-shrine.html">Wind Shrine</a> after donating <img alt="Strawberry" height="35" src="img/Strawberry.png" width="35"/><a href="strawberry.html"><span class="color-template color-template-strawberry color-template-background-clip">Strawberries</span></a>. This was only possible if the player had completed Spirit Bear's Beesmas 2020 or 2021 quest for the Galentine Wind Shrine.</li>
-<li>During Beesmas 2020 and 2021, it could have been purchased in <a href="bee-bear-s-catalog.html">Bee Bear's Catalog</a> for <img alt="Snowflake" height="25" src="img/Snowflake.png" width="25"/>40 <a href="snowflake.html"><span class="color-template color-template-snowflake color-template-background-clip">Snowflakes</span></a> and <img alt="Gingerbread Bear" height="25" src="img/Gingerbread_Bear.png" width="25"/>4 <a href="gingerbread-bear.html"><span class="color-template color-template-gingerbread-bear color-template-background-clip">Gingerbread Bears</span></a>.</li>
-<li>By purchasing the <span class="color-template color-template-gold-egg color-template-background-clip">Gold Egg</span> in <a href="bee-bear-s-catalog.html">Bee Bear's Catalog</a> for <img alt="Gingerbread Bear" height="25" src="img/Gingerbread_Bear.png" width="25"/>10 <a href="gingerbread-bear.html"><span class="color-template color-template-gingerbread-bear color-template-background-clip">Gingerbread Bears</span></a> during Beesmas 2024.</li>
-<li>Opening the <a href="gift-boxes.html">Gilded Gift Box</a> gave <span typeof="mw:Error mw:File"></span>1 <span class="color-template color-template-gold-egg color-template-background-clip">Gold Egg</span> and other items.</li></ul>
-</td></tr></tbody></table>
-
 ### Gifted Gold Egg
 
 <figure class="mw-halign-left" typeof="mw:Error mw:File"><figcaption></figcaption></figure>
@@ -145,16 +115,6 @@ Ways to obtain a Gifted Gold Egg:
 * Completing the 150th quest of the [Sticker-Seeker Quest Machine](sticker-seeker-quest-machine.md) rewards 1 Gifted Gold Egg.
 * A very rare chance of dropping upon defeating the [Stump Snail](stump-snail.md) and the [Coconut Crab](coconut-crab.md).
 * An exceptionally rare chance to drop from [mantis](mantis.md).
-
-#### Outdated Ways
-
-<table class="mw-collapsible mw-collapsed article-table">
-<caption>
-</caption>
-<tbody><tr>
-<td>
-<ul><li>Opening the <a href="ornament-presents.html">Mondo Present</a> during Beesmas 2019 gave 2 gifted gold eggs and other items.</li></ul>
-</td></tr></tbody></table>
 
 ### Diamond Egg
 
@@ -187,36 +147,6 @@ Ways to obtain a Diamond Egg:
 * A rare drop from a [Festive Planter](festive-planter.md).
 * A rare reward from [Winter Memory Match](memory-match.md#Winter_Memory_Match).
 
-#### Outdated Ways
-
-<table class="mw-collapsible mw-collapsed article-table">
-<caption>
-</caption>
-<tbody><tr>
-<td>
-<ul><li>Purchasing certain offers from the <a href="robux-shop.html">Robux Shop</a>:
-<ul><li>The Memorial Day Deal for <span typeof="mw:Error mw:File"></span>700 <span class="color-template color-template-robux color-template-background-clip">Robux</span> gave <span typeof="mw:Error mw:File"></span>1 <span class="color-template color-template-diamond-egg color-template-background-clip">Diamond Egg</span> and other items.</li>
-<li>The Summer Treat Pack for <span typeof="mw:Error mw:File"></span>300 <span class="color-template color-template-robux color-template-background-clip">Robux</span> gave <span typeof="mw:Error mw:File"></span>1 <span class="color-template color-template-diamond-egg color-template-background-clip">Diamond Egg</span> and other items.</li>
-<li>The Diamond Moon Pack for <span typeof="mw:Error mw:File"></span>300 <span class="color-template color-template-robux color-template-background-clip">Robux</span> gave <span typeof="mw:Error mw:File"></span>1 <span class="color-template color-template-diamond-egg color-template-background-clip">Diamond Egg</span> and other items.</li>
-<li>The Sparkly Starter Pack for <span typeof="mw:Error mw:File"></span>400 <span class="color-template color-template-robux color-template-background-clip">Robux</span> gave <span typeof="mw:Error mw:File"></span>1 <span class="color-template color-template-diamond-egg color-template-background-clip">Diamond Egg</span> and other items.</li>
-<li>The Stocking Stuffer Pack for <span typeof="mw:Error mw:File"></span>450 <span class="color-template color-template-robux color-template-background-clip">Robux</span> gave <span typeof="mw:Error mw:File"></span>1 <span class="color-template color-template-diamond-egg color-template-background-clip">Diamond Egg</span> and other items.</li>
-<li>The Dual-Diamond Basket for <span typeof="mw:Error mw:File"></span>500 <span class="color-template color-template-robux color-template-background-clip">Robux</span> gave <span typeof="mw:Error mw:File"></span>2 <span class="color-template color-template-diamond-egg color-template-background-clip">Diamond Eggs</span> and other items.
-<ul><li>This the only offer to give <span typeof="mw:Error mw:File"></span>2 <span class="color-template color-template-diamond-egg color-template-background-clip">Diamond Eggs</span> instead of 1.</li></ul></li>
-<li>The Beginner's Bean Bundle for <span typeof="mw:Error mw:File"></span>400 <span class="color-template color-template-robux color-template-background-clip">Robux</span> gave <span typeof="mw:Error mw:File"></span>1 <span class="color-template color-template-diamond-egg color-template-background-clip">Diamond Egg</span> and other items.</li>
-<li>The Stocking Stuffer Special for <span typeof="mw:Error mw:File"></span>400 <span class="color-template color-template-robux color-template-background-clip">Robux</span> gave <span typeof="mw:Error mw:File"></span>1 <span class="color-template color-template-diamond-egg color-template-background-clip">Diamond Egg</span> and other items.</li>
-<li>The Black Friday Bundle for <span typeof="mw:Error mw:File"></span>800 <span class="color-template color-template-robux color-template-background-clip">Robux</span> gave <span typeof="mw:Error mw:File"></span>1 <span class="color-template color-template-diamond-egg color-template-background-clip">Diamond Egg</span> and other items.</li>
-<li>The Snowy Starter Pack for <span typeof="mw:Error mw:File"></span>400 <span class="color-template color-template-robux color-template-background-clip">Robux</span> gave <span typeof="mw:Error mw:File"></span>1 <span class="color-template color-template-diamond-egg color-template-background-clip">Diamond Egg</span> and other items.</li>
-<li>The New Year Booster Bundle for <span typeof="mw:Error mw:File"></span>400 <span class="color-template color-template-robux color-template-background-clip">Robux</span> gave <span typeof="mw:Error mw:File"></span>1 <span class="color-template color-template-diamond-egg color-template-background-clip">Diamond Egg</span> and other items.</li></ul></li>
-<li>By purchasing Diamond Eggs from <a href="bee-bear-s-catalog.html">Bee Bear's Catalog</a> during certain years:
-<ul><li>Purchasing it for <img alt="Gingerbread Bear" height="25" src="img/Gingerbread_Bear.png" width="25"/>20 <a href="gingerbread-bear.html"><span class="color-template color-template-gingerbread-bear color-template-background-clip">Gingerbread Bears</span></a> during Beesmas 2020.</li>
-<li>Purchasing it for <img alt="Snowflake" height="25" src="img/Snowflake.png" width="25"/>150 <a href="snowflake.html"><span class="color-template color-template-snowflake color-template-background-clip">Snowflakes</span></a> and <img alt="Gingerbread Bear" height="25" src="img/Gingerbread_Bear.png" width="25"/>15 <a href="gingerbread-bear.html"><span class="color-template color-template-gingerbread-bear color-template-background-clip">Gingerbread Bears</span></a> during Beesmas 2021.</li>
-<li>Purchasing it for <img alt="Snowflake" height="25" src="img/Snowflake.png" width="25"/>750 <a href="snowflake.html"><span class="color-template color-template-snowflake color-template-background-clip">Snowflakes</span></a> during Beesmas 2022.</li>
-<li>Purchasing the Diamond Egg in <a href="bee-bear-s-catalog.html">Bee Bear's Catalog</a> for <img alt="Snowflake" height="25" src="img/Snowflake.png" width="25"/>1,000 <a href="snowflake.html"><span class="color-template color-template-snowflake color-template-background-clip">Snowflakes</span></a> during Beesmas 2024.</li></ul></li>
-<li>A very rare chance to drop from a <a href="festive-nymph.html">Festive Nymph</a>.</li>
-<li>A very rare chance to drop from <a href="stockings.html">stockings</a>.</li>
-<li>Redeeming the expired <a href="codes.html">code</a> "NewMic", gave 1 diamond egg.</li></ul>
-</td></tr></tbody></table>
-
 ### Gifted Diamond Egg
 
 <figure class="mw-halign-left" typeof="mw:Error mw:File"><figcaption></figcaption></figure>
@@ -232,16 +162,6 @@ Ways to obtain a Gifted Diamond Egg:
 * Completing 425 [Brown Bear](brown-bear.md) quests awards one Gifted Diamond Egg.
 * Completing the [Sticker-Seeker Quest Machine](sticker-seeker-quest-machine.md) 200th quest awards one Gifted Diamond Egg.
 * An extremely rare chance of dropping upon defeating [Tunnel Bear](tunnel-bear.md), [Stump Snail](stump-snail.md), or the [Coconut Crab](coconut-crab.md).
-
-#### Outdated Ways
-
-<table class="mw-collapsible mw-collapsed article-table">
-<caption>
-</caption>
-<tbody><tr>
-<td>
-<ul><li>Opening the <a href="ornament-presents.html">Mondo Present</a> during Beesmas 2019 gave 2 gifted diamond eggs and other items.</li></ul>
-</td></tr></tbody></table>
 
 ### Mythic Egg
 
@@ -269,38 +189,6 @@ Ways to obtain a Mythic Egg:
 * Purchasing it for 500 [Snowflakes](snowflake.md) and 100 [Gingerbread Bears](gingerbread-bear.md) in [Bee Bear's Catalog](bee-bear-s-catalog.md).
 * Completing [Gummy Bear’s](gummy-bear.md) Goo Year’s Beacon quest during Beesmas 2025 rewards you 1 Mythic Egg and other items.
 
-#### Outdated Ways
-
-<table class="mw-collapsible mw-collapsed article-table">
-<caption>
-</caption>
-<tbody><tr>
-<td>
-<ul><li>Purchasing it for <img alt="Snowflake" height="25" src="img/Snowflake.png" width="25"/>500 <a href="snowflake.html"><span class="color-template color-template-snowflake color-template-background-clip">Snowflakes</span></a> and <img alt="Gingerbread Bear" height="25" src="img/Gingerbread_Bear.png" width="25"/>100 <a href="gingerbread-bear.html"><span class="color-template color-template-gingerbread-bear color-template-background-clip">Gingerbread Bears</span></a> in <a href="bee-bear-s-catalog.html">Bee Bear's Catalog</a> during beesmas 2020, 2021, 2022 and 2024.</li>
-<li>Opening the <a href="gift-boxes.html">Mondo Gift Box</a> awarded <span typeof="mw:Error mw:File"></span>5 <span class="color-template color-template-mythic-egg color-template-background-clip">Mythic Eggs</span> and other items.</li>
-<li>Opening the Mythic Gift Box awarded <span typeof="mw:Error mw:File"></span>1 <span class="color-template color-template-mythic-egg color-template-background-clip">Mythic Egg</span> and other items.</li>
-<li>Purchasing certain expired packs in the <a href="robux-shop.html">Robux Shop</a>:
-<ul><li>The Mythic Pack for <span typeof="mw:Error mw:File"></span>800 <span class="color-template color-template-robux color-template-background-clip">Robux</span> robux gave <span typeof="mw:Error mw:File"></span>1 <span class="color-template color-template-mythic-egg color-template-background-clip">Mythic Egg</span> and other items.</li>
-<li>The Jumbo June Pack for <span typeof="mw:Error mw:File"></span>1,700 <span class="color-template color-template-robux color-template-background-clip">Robux</span> gave <span typeof="mw:Error mw:File"></span>1 <span class="color-template color-template-mythic-egg color-template-background-clip">Mythic Egg</span> and other items.</li>
-<li>The Black Friday Bundle for <span typeof="mw:Error mw:File"></span>800 <span class="color-template color-template-robux color-template-background-clip">Robux</span> robux gave <span typeof="mw:Error mw:File"></span>1 <span class="color-template color-template-mythic-egg color-template-background-clip">Mythic Egg</span> and other items.</li>
-<li>The Merry Mythic Pack for <span typeof="mw:Error mw:File"></span>800 <span class="color-template color-template-robux color-template-background-clip">Robux</span> gave <span typeof="mw:Error mw:File"></span>1 <span class="color-template color-template-mythic-egg color-template-background-clip">Mythic Egg</span> and other items.</li>
-<li>The Cyber Monday Deal for <span typeof="mw:Error mw:File"></span>800 <span class="color-template color-template-robux color-template-background-clip">Robux</span> robux gave <span typeof="mw:Error mw:File"></span>1 <span class="color-template color-template-mythic-egg color-template-background-clip">Mythic Egg</span> and other items.</li>
-<li>The Magical Mythic Pack for <span typeof="mw:Error mw:File"></span>800 <span class="color-template color-template-robux color-template-background-clip">Robux</span> gave <span typeof="mw:Error mw:File"></span>1 <span class="color-template color-template-mythic-egg color-template-background-clip">Mythic Egg</span> and other items.</li>
-<li>The Cyber Monday Special for <span typeof="mw:Error mw:File"></span>800 <span class="color-template color-template-robux color-template-background-clip">Robux</span> robux gave <span typeof="mw:Error mw:File"></span>1 <span class="color-template color-template-mythic-egg color-template-background-clip">Mythic Egg</span> and other items.</li></ul></li>
-<li>Opening the <a href="ornament-presents.html">Mythic Present</a> awarded 1 mythic egg and other items.</li>
-<li>Opening the Mondo Present awarded 2 mythic eggs and other items.</li>
-<li>Opening certain <a href="gift-boxes.html">Gift Boxes</a>:
-<ul><li>The Purple Gift Box from Beesmas 2020 awarded 1 mythic egg and other items.</li>
-<li>The Mondo Gift Box from Beesmas 2020 awarded 3 mythic eggs and other items.</li>
-<li>The Mythic Gift Box from Beesmas 2021 and 2022 awarded 1 mythic egg and other items.</li>
-<li>The Mondo Gift Box from Beesmas 2021 and 2022 awarded 5 mythic eggs and other items.</li></ul></li>
-<li>Opening the Mythic Gift Box In Winter Beesmas 2024 Gives the player 1 Mythic Egg and other items.</li>
-<li>As an extremely rare drop from a <a href="party-mechsquito.html">Party Mechsquito</a>.</li>
-<li>As an extremely rare drop from a <a href="party-cogmower.html">Party Cogmower</a>.</li>
-<li>A very rare reward from the <a href="memory-match.html#Winter_Memory_Match">Winter Memory Match</a>.</li>
-<li>An extremely low chance to drop from <a href="stockings.html">Stockings</a>.</li></ul>
-</td></tr></tbody></table>
-
 ### Gifted Mythic Egg
 
 <figure class="mw-halign-left" typeof="mw:Error mw:File"><figcaption></figcaption></figure>
@@ -314,24 +202,6 @@ Ways to obtain a Gifted Mythic Egg:
 * A nearly impossible drop from the [Robo Bear Challenge](robo-bear-challenge.md).
 * Buying it in the [Bee Bear's Catalog](bee-bear-s-catalog.md) for 10,000 [Snowflakes](snowflake.md) and 150 [Gingerbread Bears](gingerbread-bear.md).
 
-#### Outdated Ways
-
-<table class="mw-collapsible mw-collapsed article-table">
-<caption>
-</caption>
-<tbody><tr>
-<td>
-<ul><li>Purchasing the Hefty Honeyday Bundle in Bee Bear's Catalog for <img alt="Snowflake" height="25" src="img/Snowflake.png" width="25"/>25,000 <a href="snowflake.html"><span class="color-template color-template-snowflake color-template-background-clip">Snowflakes</span></a> and <img alt="Gingerbread Bear" height="25" src="img/Gingerbread_Bear.png" width="25"/>250 <a href="gingerbread-bear.html"><span class="color-template color-template-gingerbread-bear color-template-background-clip">Gingerbread Bears</span></a> gave <span typeof="mw:Error mw:File"></span>1 <span class="color-template color-template-gifted-mythic-egg color-template-background-clip">Gifted Mythic Egg</span> and other items.</li>
-<li>Purchasing the Merry Mondo Bundle in <a href="bee-bear-s-catalog.html">Bee Bear's Catalog</a> for <img alt="Snowflake" height="25" src="img/Snowflake.png" width="25"/>25,000 <a href="snowflake.html"><span class="color-template color-template-snowflake color-template-background-clip">Snowflakes</span></a> and <img alt="Gingerbread Bear" height="25" src="img/Gingerbread_Bear.png" width="25"/>250 <a href="gingerbread-bear.html"><span class="color-template color-template-gingerbread-bear color-template-background-clip">Gingerbread Bears</span></a> gives <span typeof="mw:Error mw:File"></span>1 <span class="color-template color-template-gifted-mythic-egg color-template-background-clip">Gifted Mythic Egg</span> and other items.</li>
-<li>Buying it in <a href="bee-bear-s-catalog.html">Bee Bear's Catalog</a> for <img alt="Snowflake" height="25" src="img/Snowflake.png" width="25"/>10,000 <a href="snowflake.html"><span class="color-template color-template-snowflake color-template-background-clip">Snowflakes</span></a> and <img alt="Gingerbread Bear" height="25" src="img/Gingerbread_Bear.png" width="25"/>150 <a href="gingerbread-bear.html"><span class="color-template color-template-gingerbread-bear color-template-background-clip">Gingerbread Bears</span></a> in Beesmas Winter 2024.</li>
-<li>Opening the <a href="gift-boxes.html">Mondo Gift Box</a> from Beesmas 2020, 2021, 2022, and Summer 2024 awarded <span typeof="mw:Error mw:File"></span>1 <span class="color-template color-template-gifted-mythic-egg color-template-background-clip">Gifted Mythic Egg</span> and other items.</li>
-<li>Purchasing certain limited-time offers in the <a href="robux-shop.html">Robux Shop</a>:
-<ul><li>The Mondo Robo Bundle for <span typeof="mw:Error mw:File"></span>4,500 <span class="color-template color-template-robux color-template-background-clip">Robux</span> gave <span typeof="mw:Error mw:File"></span>1 <span class="color-template color-template-gifted-mythic-egg color-template-background-clip">Gifted Mythic Egg</span> and other items.</li>
-<li>The Festive Frenzy Haul for <span typeof="mw:Error mw:File"></span>4,500 <span class="color-template color-template-robux color-template-background-clip">Robux</span> gave <span typeof="mw:Error mw:File"></span>1 <span class="color-template color-template-gifted-mythic-egg color-template-background-clip">Gifted Mythic Egg</span> and other items.</li>
-<li>The Honeyday Mega-Haul for <span typeof="mw:Error mw:File"></span>4,500 <span class="color-template color-template-robux color-template-background-clip">Robux</span> gave <span typeof="mw:Error mw:File"></span>1 <span class="color-template color-template-gifted-mythic-egg color-template-background-clip">Gifted Mythic Egg</span> and other items.</li>
-<li>Purchasing the Gifted Giga-Bundle from the Robux Shop for <span typeof="mw:Error mw:File"></span>4,500 <span class="color-template color-template-robux color-template-background-clip">Robux</span></li></ul></li></ul>
-</td></tr></tbody></table>
-
 ### Choose-A-Mythic Egg
 
 <figure class="mw-halign-left" typeof="mw:Error mw:File"><figcaption></figcaption></figure>
@@ -341,17 +211,6 @@ A Choose-A-Mythic Egg allows the player to pick whichever Mythic Bee they want w
 Ways to obtain a Choose-A-Mythic Egg:
 
 * Purchasing the Merry Mythic Mondo-Haul from the Robux Shop for 4,500 Robux
-
-#### Outdated Ways
-
-<table class="mw-collapsible mw-collapsed article-table">
-<caption>
-</caption>
-<tbody><tr>
-<td>
-<ul><li>Purchasing the Choose-A-Mythic Egg from the Robux Shop for <span typeof="mw:Error mw:File"></span>800 <span class="color-template color-template-robux color-template-background-clip">Robux</span> during Winter Beesmas 2024 (expired May 1st, 2025).</li>
-<li>By purchasing it along with other items for <span typeof="mw:Error mw:File"></span>1,000 <span class="color-template color-template-robux color-template-background-clip">Robux</span> in the Cyber Monday Mythic Pack (expired December 15, 2025).</li></ul>
-</td></tr></tbody></table>
 
 ### Star Egg
 
@@ -372,21 +231,6 @@ Ways to obtain a Star Egg:
 * An exceptionally rare chance of dropping from a [Festive Planter](festive-planter.md).
 * As an exceptionally rare drop from the [Party Mechsquito](party-mechsquito.md).
 * As an exceptionally rare drop from the Sticker Sprout.
-
-#### Outdated Ways
-
-<table class="mw-collapsible mw-collapsed article-table">
-<caption>
-</caption>
-<tbody><tr>
-<td>
-<ul><li>Purchasing certain limited-time offers in the Robux Shop:
-<ul><li>The Summer Star Pack for <span typeof="mw:Error mw:File"></span>1,500 <span class="color-template color-template-robux color-template-background-clip">Robux</span> gave <span typeof="mw:Error mw:File"></span>1 <span class="color-template color-template-star-egg color-template-background-clip">Star Egg</span> and other items.</li>
-<li>The Happy Honeyday Pack for <span typeof="mw:Error mw:File"></span>900 <span class="color-template color-template-robux color-template-background-clip">Robux</span> gave <span typeof="mw:Error mw:File"></span>1 <span class="color-template color-template-star-egg color-template-background-clip">Star Egg</span> and other items.</li>
-<li>The Silent Night Special for <span typeof="mw:Error mw:File"></span>800 <span class="color-template color-template-robux color-template-background-clip">Robux</span> gave <span typeof="mw:Error mw:File"></span>1 <span class="color-template color-template-star-egg color-template-background-clip">Star Egg</span> and other items.</li>
-<li>The Jolly Jumbo Pack for <span typeof="mw:Error mw:File"></span>1,700 <span class="color-template color-template-robux color-template-background-clip">Robux</span> gave <span typeof="mw:Error mw:File"></span>1 <span class="color-template color-template-star-egg color-template-background-clip">Star Egg</span> and other items.</li>
-<li>The Nighttime Nectar Pack for <span typeof="mw:Error mw:File"></span>400 <span class="color-template color-template-robux color-template-background-clip">Robux</span> gave <span typeof="mw:Error mw:File"></span>1 <span class="color-template color-template-star-egg color-template-background-clip">Star Egg</span> and other items.</li></ul></li></ul>
-</td></tr></tbody></table>
 
 ## Specific Non-Event Bee Eggs
 
@@ -808,7 +652,7 @@ Ways to obtain a Windy Bee Egg:
 </th>
 <th class="NavCategory">Quest Exclusive
 </th>
-<td class="NavLinks NavLinksBasicEven"><b><img alt="Translator" height="35" src="img/Translator.png" width="35"/> <a href="translator.html">Translator</a> • <img alt="Spirit Petal" height="35" src="img/Spirit_Petal.png" width="35"/> <a href="spirit-petal.html">Spirit Petal</a> • <img alt="Debug Wax" height="35" src="img/Debug_Wax.png" width="35"/> <a href="debug-wax.html">Debug Wax</a> • <img alt="Nectar Tester" height="35" src="img/Nectar_Tester.png" width="35"/> <a href="nectar-tester.html">Nectar Tester</a></b> • <span typeof="mw:Error mw:File"></span> <a href="bbm-s-apology.html">BBM's Apology</a><b></b>
+<td class="NavLinks NavLinksBasicEven"><b><img alt="Translator" height="35" src="img/Translator.png" width="35"/> <a href="translator.html">Translator</a> • <img alt="Spirit Petal" height="35" src="img/Spirit_Petal.png" width="35"/> <a href="spirit-petal.html">Spirit Petal</a> • <img alt="Debug Wax" height="35" src="img/Debug_Wax.png" width="35"/> <a href="debug-wax.html">Debug Wax</a> • <img alt="Nectar Tester" height="35" src="img/Nectar_Tester.png" width="35"/> <a href="nectar-tester.html">Nectar Tester</a></b> • <span typeof="mw:Error mw:File"></span> <b></b>
 </td></tr>
 <tr>
 <th class="NavCategory">Beesmas

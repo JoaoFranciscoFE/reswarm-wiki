@@ -85,5 +85,5 @@ Top Bear's appearance is yellow skin, white shirt, green pants, and a smiley fac
 * Top Bear is the only NPC in the [25 Bee Zone](lion-bee-gate.md).
 * This bear is one of the six bears without any function quest-wise, the other five being [Noob Bear](noob-bear.md), [Pro Bear](pro-bear.md), [Shadow Bear](shadow-bear.md), [Tunnel Bear](tunnel-bear.md) and the [Snowbear](snowbear.md).
   * This bear, Noob Bear, Pro Bear, and Shadow Bear are the only bears without a function whatsoever.
-* Unlike the other Shop Bears, Top Bear was introduced in [2018-07-11 update](updates.md#2018-07-11), whereas the other two Shop Bears were already present when the game was released. This means that the Mountain Top Shop was once not run by any bears.
-* Before the [2019-09-28 update](updates.md#2019-09-28), players were able to cause a [Rogue Vicious Bee](rogue-vicious-bee.md) to damage or even kill Top Bear if they stood near him. This was later patched in said update, where the bear was given infinite health.
+* Unlike the other Shop Bears, Top Bear was introduced in 2018-07-11 update, whereas the other two Shop Bears were already present when the game was released. This means that the Mountain Top Shop was once not run by any bears.
+* Before the 2019-09-28 update, players were able to cause a [Rogue Vicious Bee](rogue-vicious-bee.md) to damage or even kill Top Bear if they stood near him. This was later patched in said update, where the bear was given infinite health.

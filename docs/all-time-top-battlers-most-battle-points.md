@@ -5,125 +5,6 @@ tags: ["Locations", "Leaderboards"]
 
 # All-Time Top Battlers (Most Battle Points)
 
-This article should be regularly looked at for new changes.
-
-Please regularly update the status of the All-Time Top Battlers (Most Battle Points) article with date of change.
-
-Recommended once per week.
-
-*(Leaderboard as of 2026-07-22)*
-
-<table align="right" cellpadding="3" cellspacing="0" style="border-radius: 2px; -moz-border-radius: 2px; -webkit-border-radius: 2px; -khtml-border-radius: 2px; -icab-border-radius: 2px; -o-border-radius: 2px;; margin-left:5px; margin-bottom:5px; width: 300px; font-size: 65%; border:8px solid #5d391a;">
-<tbody><tr>
-<th colspan="3" style="border-radius: 1px; -moz-border-radius: 1px; -webkit-border-radius: 1px; -khtml-border-radius: 1px; -icab-border-radius: 1px; -o-border-radius: 1px;; text-align:center; font-size:18px; color:#242e2d; background:#deb81d">All-Time Top Battlers (Most Battle Points)
-</th></tr>
-<tr class="mobile-hidden">
-<td colspan="3" style="padding:0; height:2.5px; background-color:#1d1d1d">
-</td></tr>
-<tr style="color:#0e0e0e; background:#68ccc6;">
-<td style="width:10%;"><b>1:</b>
-</td>
-<td style="font-size:15px; width:50%;"><b>Penangwen</b>
-</td>
-<td style="font-size:15px; width:50%;"><b>9,422,034</b>
-</td></tr>
-<tr class="mobile-hidden">
-<td colspan="3" style="padding:0; height:2.5px; background-color:#1d1d1d">
-</td></tr>
-<tr style="color:#0e0e0e; background:#b59005;">
-<td style="width:10%;"><b>2:</b>
-</td>
-<td style="font-size:15px; width:50%;"><b>spidersgirl1</b>
-</td>
-<td style="font-size:15px; width:50%;"><b>8,392,779</b>
-</td></tr>
-<tr class="mobile-hidden">
-<td colspan="3" style="padding:0; height:2.5px; background-color:#1d1d1d">
-</td></tr>
-<tr style="color:#0e0e0e; background:#a4a7bb;">
-<td style="width:10%;"><b>3:</b>
-</td>
-<td style="font-size:15px; width:50%;"><b>SpazEternal</b>
-</td>
-<td style="font-size:15px; width:50%;"><b>7,626,498</b>
-</td></tr>
-<tr class="mobile-hidden">
-<td colspan="3" style="padding:0; height:2.5px; background-color:#1d1d1d">
-</td></tr>
-<tr style="color:#cfd4d6; background:#473c06;">
-<td style="width:10%;"><b>4:</b>
-</td>
-<td style="font-size:15px; width:50%;"><b>Shaungirl66</b>
-</td>
-<td style="font-size:15px; width:50%;"><b>6,397,422</b>
-</td></tr>
-<tr class="mobile-hidden">
-<td colspan="3" style="padding:0; height:2.5px; background-color:#1d1d1d">
-</td></tr>
-<tr style="color:#cfd4d6; background:#473c06;">
-<td style="width:10%;"><b>5:</b>
-</td>
-<td style="font-size:15px; width:50%;"><b>riaz1987</b>
-</td>
-<td style="font-size:15px; width:50%;"><b>6,186,782</b>
-</td></tr>
-<tr class="mobile-hidden">
-<td colspan="3" style="padding:0; height:2.5px; background-color:#1d1d1d">
-</td></tr>
-<tr style="color:#cfd4d6; background:#473c06;">
-<td style="width:10%;"><b>6:</b>
-</td>
-<td style="font-size:15px; width:50%;"><b>KAR573N</b>
-</td>
-<td style="font-size:15px; width:50%;"><b>6,174,501</b>
-</td></tr>
-<tr class="mobile-hidden">
-<td colspan="3" style="padding:0; height:2.5px; background-color:#1d1d1d">
-</td></tr>
-<tr style="color:#cfd4d6; background:#473c06;">
-<td style="width:10%;"><b>7:</b>
-</td>
-<td style="font-size:15px; width:50%;"><b>7Elevenss</b>
-</td>
-<td style="font-size:15px; width:50%;"><b>5,727,968</b>
-</td></tr>
-<tr class="mobile-hidden">
-<td colspan="3" style="padding:0; height:2.5px; background-color:#1d1d1d">
-</td></tr>
-<tr style="color:#cfd4d6; background:#473c06;">
-<td style="width:10%;"><b>8:</b>
-</td>
-<td style="font-size:15px; width:50%;"><b>Morengatrees</b>
-</td>
-<td style="font-size:15px; width:50%;"><b>5,602,894</b>
-</td></tr>
-<tr class="mobile-hidden">
-<td colspan="3" style="padding:0; height:2.5px; background-color:#1d1d1d">
-</td></tr>
-<tr style="color:#cfd4d6; background:#473c06;">
-<td style="width:10%;"><b>9:</b>
-</td>
-<td style="font-size:15px; width:50%;"><b>etarakro</b>
-</td>
-<td style="font-size:15px; width:50%;"><b>5,390,315</b>
-</td></tr>
-<tr class="mobile-hidden">
-<td colspan="3" style="padding:0; height:2.5px; background-color:#1d1d1d">
-</td></tr>
-<tr style="color:#cfd4d6; background:#473c06;">
-<td style="width:10%;"><b>10:</b>
-</td>
-<td style="font-size:15px; width:50%;"><b>WhiteHiveKing</b>
-</td>
-<td style="font-size:15px; width:50%;"><b>5,353,774</b>
-</td></tr>
-<tr class="mobile-hidden">
-<td colspan="3" style="padding:0; height:2.5px; background-color:#1d1d1d">
-</td></tr>
-<tr style="color:#cfd4d6; background:#473c06;">
-<td colspan="3"><b>Page last updated on 10/3/2026</b><i></i>
-</td></tr></tbody></table>
-
 The **Global Top Battlers** (also called the **[Battle Points](battle-points.md) Leaderboard**) is one of the 64 [leaderboards](leaderboards.md) in the game. This leaderboard shows how many battle points players have collected over time. It shows 10 leaderboard positions at one time. The player can scroll down the leaderboard to see more players, all the way to the 100th place. Only legitimate players appear on the leaderboards for lengths of time (hackers/exploiters will be removed). Battle points are collected from certain mobs in the game.
 
 If the player steps on the white pad in front of it, the message, "You have x Battle Points", x being the number of battle points, will appear.
@@ -132,50 +13,11 @@ If the player steps on the white pad in front of it, the message, "You have x Ba
 
 It is located on the yellow platform, besides [Panda Bear](panda-bear.md), in front of the [Bamboo Field](bamboo-field.md), and behind the [Blue Flower Field](blue-flower-field.md).
 
-## Achievements
-
-<table class="fandom-table">
-<tbody><tr>
-<th>Date
-</th>
-<th>Event/Milestone
-</th></tr>
-<tr>
-<td>August 10, 2019
-</td>
-<td>MunkNull was the first player, excluding hackers/exploiters, who obtained a total of <b>1 million battle points</b>.
-</td></tr>
-<tr>
-<td>September–November, 2020
-</td>
-<td>Sugarsmacks12 was the first player who obtained a total of <b>2 million battle points</b>.
-</td></tr>
-<tr>
-<td>September–October, 2021
-</td>
-<td>Penangwen was the first player who obtained a total of <b>3 million battle points</b>.
-</td></tr>
-<tr>
-<td>September–October, 2022
-</td>
-<td>Penangwen was the first player who obtained a total of <b>4 million battle points</b>.
-</td></tr>
-<tr>
-<td>July 26, 2023
-</td>
-<td>Penangwen was the first player who obtained a total of <b>5 million battle points</b>.
-</td></tr>
-<tr>
-<td>April–May, 2024
-</td>
-<td>Penangwen was the first player who obtained a total of <b>6 million battle points</b>.
-</td></tr></tbody></table>
-
 ## Trivia
 
 * It is one of the two leaderboards to be in the game in its release, the other being the Global Top Honeymakers Leaderboard.
 * Sugarsmacks12 was the number 1 person in the global top battlers for 3 years before being dethroned. It is the longest-sustaining of the number one spot in all of the leaderboards in the game.
-* [Bubble Bee Man](bubble-bee-man.md) used to be located behind this leaderboard before being moved to the [30 Bee Zone](bear-gate.md) in the [Beesmas 2019 update](updates.md#2019-12-23).
+* [Bubble Bee Man](bubble-bee-man.md) used to be located behind this leaderboard before being moved to the [30 Bee Zone](bear-gate.md) in the Beesmas 2019 update.
 
 <table class="mw-collapsible mw-collapsed NavTable">
 <tbody><tr>
@@ -219,5 +61,5 @@ It is located on the yellow platform, besides [Panda Bear](panda-bear.md), in fr
 <tr>
 <th class="NavCategory">Event<br/>Locations
 </th>
-<td class="NavLinks NavLinksBasicEven"><b><a href="beesmas-tree.html">Beesmas Tree</a> • <a href="ornament-presents.html">Ornament Presents</a> • <span class="new" data-uncrawlable-url="L3dpa2kvQ29tcHV0ZXI/YWN0aW9uPWVkaXQmcmVkbGluaz0x" title="Computer (page does not exist)">Computer</span> • <a href="gift-boxes.html">Gift Boxes</a> • <a href="honey-wreath.html">Honey Wreath</a> • <a href="stockings.html">Stockings</a> • <a href="gingerbread-house.html">Gingerbread House</a> • <a href="snowbear-summoner.html">Snowbear Summoner</a> • <a href="beesmas-lights.html">Beesmas Lights</a> • <a href="samovar.html">Samovar</a> • <a href="beesmas-feast.html">Beesmas Feast</a> • <a href="onett-s-lid-art.html">Onett's Lid Art</a> • <a href="wind-shrine.html#Galentine_Shrine">Galentine Shrine</a> • <a href="memory-match.html#Winter_Memory_Match">Winter Memory Match</a> • <a href="snow-machine.html">Snow Machine</a> • <a href="honeyday-candles.html">Honeyday Candles</a> • <a href="robo-party-cake.html">Robo Party Cake</a> • <a href="gummy-beacon.html">Gummy Beacon</a> • <a href="naughty-list.html">Naughty List</a></b>
+<td class="NavLinks NavLinksBasicEven"><b><a href="beesmas-tree.html">Beesmas Tree</a> • <span class="new" data-uncrawlable-url="L3dpa2kvQ29tcHV0ZXI/YWN0aW9uPWVkaXQmcmVkbGluaz0x" title="Computer (page does not exist)">Computer</span> • <a href="gift-boxes.html">Gift Boxes</a> • <a href="honey-wreath.html">Honey Wreath</a> • <a href="stockings.html">Stockings</a> • <a href="gingerbread-house.html">Gingerbread House</a> • <a href="snowbear-summoner.html">Snowbear Summoner</a> • <a href="beesmas-lights.html">Beesmas Lights</a> • <a href="samovar.html">Samovar</a> • <a href="beesmas-feast.html">Beesmas Feast</a> • <a href="onett-s-lid-art.html">Onett's Lid Art</a> • <a href="wind-shrine.html#Galentine_Shrine">Galentine Shrine</a> • <a href="memory-match.html#Winter_Memory_Match">Winter Memory Match</a> • <a href="snow-machine.html">Snow Machine</a> • <a href="honeyday-candles.html">Honeyday Candles</a> • <a href="robo-party-cake.html">Robo Party Cake</a> • <a href="gummy-beacon.html">Gummy Beacon</a> • <a href="naughty-list.html">Naughty List</a></b>
 </td></tr></tbody></table>

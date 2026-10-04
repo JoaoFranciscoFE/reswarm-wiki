@@ -15,7 +15,7 @@ COOLDOWN
 
 None
 
-**Stingers** are an inventory item added in the [2018-09-10 update](updates.md#2018-09-10). When used, it will grant x1.5 [Bee attack](bee-attack.md) for 30 seconds. It can also be used to obtain [Vicious Bee](vicious-bee.md) (costs 250 **Stingers**). Stingers are also used in many crafting recipes.
+**Stingers** are an inventory item added in the 2018-09-10 update. When used, it will grant x1.5 [Bee attack](bee-attack.md) for 30 seconds. It can also be used to obtain [Vicious Bee](vicious-bee.md) (costs 250 **Stingers**). Stingers are also used in many crafting recipes.
 
 ## Ways to Obtain
 
@@ -121,48 +121,6 @@ There are 6 fields where the [Rogue Vicious Bee](rogue-vicious-bee.md) can spawn
 * [Rose Field](rose-field.md).
 * [Mountain Top Field](mountain-top-field.md).
 * [Pepper Patch](pepper-patch.md).
-
-### Outdated Ways
-
-<table class="mw-collapsible mw-collapsed article-table">
-<caption>
-</caption>
-<tbody><tr>
-<td>
-<ul><li>As a guaranteed reward from defeating all party mobs of your Robo Party.</li>
-<li>As a reward from certain quests:
-<ul><li>Receiving <a href="brown-bear.html#Egg_Hunt_Quest_2020">Brown Bear's Egg Hunt 2020 quest</a> gave <img alt="Stinger" height="25" src="img/Stinger.png" width="25"/>5 <strong class="mw-selflink selflink"><span class="color-template color-template-stinger color-template-background-clip">Stingers</span></strong> and other items.</li>
-<li>Completing Bee Bear's 20th quest during Beesmas 2022 rewarded <img alt="Stinger" height="25" src="img/Stinger.png" width="25"/>100 <strong class="mw-selflink selflink"><span class="color-template color-template-stinger color-template-background-clip">Stingers</span></strong> and other items.</li></ul></li>
-<li>By giving a <a href="present.html">present</a> to:
-<ul><li><a href="panda-bear.html">Panda Bear</a> or <a href="stick-bug.html">Stick Bug</a> during the Beesmas 2018.</li>
-<li>Panda Bear during Beesmas 2022.</li>
-<li>Panda Bear or Stick Bug during Beesmas Summer 2024.</li></ul></li>
-<li>Opening certain <a href="gift-boxes.html">Gift Boxes</a>:
-<ul><li>The <a href="gift-boxes.html#2021">Midnight Gift Box</a> from Beesmas 2021 rewarded <img alt="Stinger" height="25" src="img/Stinger.png" width="25"/>6 <strong class="mw-selflink selflink"><span class="color-template color-template-stinger color-template-background-clip">Stingers</span></strong> and other items.</li>
-<li>The <a href="gift-boxes.html#2022">Charcoal Gift Box</a> from Beesmas 2022 rewarded <img alt="Stinger" height="25" src="img/Stinger.png" width="25"/>10 <strong class="mw-selflink selflink"><span class="color-template color-template-stinger color-template-background-clip">Stingers</span></strong> and other items.</li></ul></li>
-<li>Purchasing certain bundles in <a href="bee-bear-s-catalog.html">Bee Bear's Catalog</a>:
-<ul><li>The Night Bundle granted <img alt="Stinger" height="25" src="img/Stinger.png" width="25"/>25 <strong class="mw-selflink selflink"><span class="color-template color-template-stinger color-template-background-clip">Stingers</span></strong> and other items for <img alt="Snowflake" height="25" src="img/Snowflake.png" width="25"/>1,000 <a href="snowflake.html"><span class="color-template color-template-snowflake color-template-background-clip">Snowflakes</span></a>.</li>
-<li>The Anti-Ant Bundle granted <img alt="Stinger" height="25" src="img/Stinger.png" width="25"/>50 <strong class="mw-selflink selflink"><span class="color-template color-template-stinger color-template-background-clip">Stingers</span></strong> and other items for <img alt="Snowflake" height="25" src="img/Snowflake.png" width="25"/>1,000 <a href="snowflake.html"><span class="color-template color-template-snowflake color-template-background-clip">Snowflakes</span></a>.</li>
-<li>The Robotic Bundle granted <img alt="Stinger" height="25" src="img/Stinger.png" width="25"/>100 <strong class="mw-selflink selflink"><span class="color-template color-template-stinger color-template-background-clip">Stingers</span></strong> and other items for <img alt="Snowflake" height="25" src="img/Snowflake.png" width="25"/>2,500 <a href="snowflake.html"><span class="color-template color-template-snowflake color-template-background-clip">Snowflakes</span></a> and <img alt="Gingerbread Bear" height="25" src="img/Gingerbread_Bear.png" width="25"/>50 <a href="gingerbread-bear.html"><span class="color-template color-template-gingerbread-bear color-template-background-clip">Gingerbread Bears</span></a>.</li>
-<li>Purchasing the Super Snowman Bundle from <a href="bee-bear-s-catalog.html">Bee Bear's Catalog</a> gives <img alt="Stinger" height="25" src="img/Stinger.png" width="25"/>25 <strong class="mw-selflink selflink"><span class="color-template color-template-stinger color-template-background-clip">Stingers</span></strong> + other items.</li></ul></li>
-<li>Purchasing certain packs from the <a href="robux-shop.html">Robux Shop</a>:
-<ul><li>Purchasing the September Star Special for <span typeof="mw:Error mw:File"></span>3,500 <span class="color-template color-template-robux color-template-background-clip">Robux</span> granted <img alt="Stinger" height="25" src="img/Stinger.png" width="25"/>100 <strong class="mw-selflink selflink"><span class="color-template color-template-stinger color-template-background-clip">Stingers</span></strong> and other items.</li>
-<li>Purchasing the Stars and Spikes offer for <span typeof="mw:Error mw:File"></span>1,500 <span class="color-template color-template-robux color-template-background-clip">Robux</span> granted <img alt="Stinger" height="25" src="img/Stinger.png" width="25"/>100 <strong class="mw-selflink selflink"><span class="color-template color-template-stinger color-template-background-clip">Stingers</span></strong> and other items.</li>
-<li>Purchasing the Colossal Crafts Pack for <span typeof="mw:Error mw:File"></span>3,400 <span class="color-template color-template-robux color-template-background-clip">Robux</span> granted <img alt="Stinger" height="25" src="img/Stinger.png" width="25"/>200 <strong class="mw-selflink selflink"><span class="color-template color-template-stinger color-template-background-clip">Stingers</span></strong> and other items.</li>
-<li>Purchasing the Extreme Extract Pack for <span typeof="mw:Error mw:File"></span>1,200 <span class="color-template color-template-robux color-template-background-clip">Robux</span> granted <img alt="Stinger" height="25" src="img/Stinger.png" width="25"/>100 <strong class="mw-selflink selflink"><span class="color-template color-template-stinger color-template-background-clip">Stingers</span></strong> and other items.</li>
-<li>Purchasing the Winter Wonder Pack for <span typeof="mw:Error mw:File"></span>3,400 <span class="color-template color-template-robux color-template-background-clip">Robux</span> granted <img alt="Stinger" height="25" src="img/Stinger.png" width="25"/>200 <strong class="mw-selflink selflink"><span class="color-template color-template-stinger color-template-background-clip">Stingers</span></strong> and other items.</li>
-<li>Purchasing the Spikey Spring Basket offer for <span typeof="mw:Error mw:File"></span>2,700 <span class="color-template color-template-robux color-template-background-clip">Robux</span> granted <img alt="Stinger" height="25" src="img/Stinger.png" width="25"/>250 <strong class="mw-selflink selflink"><span class="color-template color-template-stinger color-template-background-clip">Stingers</span></strong> and other items.</li>
-<li>Purchasing the Gooey Goodies Pack for <span typeof="mw:Error mw:File"></span>800 <span class="color-template color-template-robux color-template-background-clip">Robux</span> granted <img alt="Stinger" height="25" src="img/Stinger.png" width="25"/>100 <strong class="mw-selflink selflink"><span class="color-template color-template-stinger color-template-background-clip">Stingers</span></strong> and other items.</li>
-<li>Purchasing the Silent Night Special for <span typeof="mw:Error mw:File"></span>800 <span class="color-template color-template-robux color-template-background-clip">Robux</span> granted <img alt="Stinger" height="25" src="img/Stinger.png" width="25"/>100 <strong class="mw-selflink selflink"><span class="color-template color-template-stinger color-template-background-clip">Stingers</span></strong> and other items.</li>
-<li>Purchasing the Precise Pack for <span typeof="mw:Error mw:File"></span>1,700 <span class="color-template color-template-robux color-template-background-clip">Robux</span> granted <img alt="Stinger" height="25" src="img/Stinger.png" width="25"/>150 <strong class="mw-selflink selflink"><span class="color-template color-template-stinger color-template-background-clip">Stingers</span></strong> and other items.</li>
-<li>Purchasing the Honeyday Mega-Haul for <span typeof="mw:Error mw:File"></span>4,500 <span class="color-template color-template-robux color-template-background-clip">Robux</span> granted <img alt="Stinger" height="25" src="img/Stinger.png" width="25"/>500 <strong class="mw-selflink selflink"><span class="color-template color-template-stinger color-template-background-clip">Stingers</span></strong> and other items.</li>
-<li>Purchasing the Mondo-Robo Bundle for <span typeof="mw:Error mw:File"></span>4,500 <span class="color-template color-template-robux color-template-background-clip">Robux</span> granted <img alt="Stinger" height="25" src="img/Stinger.png" width="25"/>500 <strong class="mw-selflink selflink"><span class="color-template color-template-stinger color-template-background-clip">Stingers</span></strong> and other items.</li>
-<li>Purchasing the Cyber Monday Special for <span typeof="mw:Error mw:File"></span>800 <span class="color-template color-template-robux color-template-background-clip">Robux</span> granted <img alt="Stinger" height="25" src="img/Stinger.png" width="25"/>50 <strong class="mw-selflink selflink"><span class="color-template color-template-stinger color-template-background-clip">Stingers</span></strong> and other items.</li></ul></li>
-<li>Redeeming certain codes:
-<ul><li>Mocito100T (Gave <img alt="Stinger" height="25" src="img/Stinger.png" width="25"/>3 <strong class="mw-selflink selflink"><span class="color-template color-template-stinger color-template-background-clip">Stingers</span></strong> + other stuff).</li>
-<li>1MLikes (Gave <img alt="Stinger" height="25" src="img/Stinger.png" width="25"/>1 <strong class="mw-selflink selflink"><span class="color-template color-template-stinger color-template-background-clip">Stinger</span></strong> + other stuff).</li>
-<li>DarzethDoodads (Gave <img alt="Stinger" height="25" src="img/Stinger.png" width="25"/>1 <strong class="mw-selflink selflink"><span class="color-template color-template-stinger color-template-background-clip">Stinger</span></strong> + other stuff).</li></ul></li></ul>
-</td></tr></tbody></table>
 
 ## Crafting Uses
 
@@ -372,7 +330,7 @@ Total required for all single-purchase items: 1,297 **Stingers**
 </th>
 <th class="NavCategory">Quest Exclusive
 </th>
-<td class="NavLinks NavLinksBasicEven"><b><img alt="Translator" height="35" src="img/Translator.png" width="35"/> <a href="translator.html">Translator</a> • <img alt="Spirit Petal" height="35" src="img/Spirit_Petal.png" width="35"/> <a href="spirit-petal.html">Spirit Petal</a> • <img alt="Debug Wax" height="35" src="img/Debug_Wax.png" width="35"/> <a href="debug-wax.html">Debug Wax</a> • <img alt="Nectar Tester" height="35" src="img/Nectar_Tester.png" width="35"/> <a href="nectar-tester.html">Nectar Tester</a></b> • <span typeof="mw:Error mw:File"></span> <a href="bbm-s-apology.html">BBM's Apology</a><b></b>
+<td class="NavLinks NavLinksBasicEven"><b><img alt="Translator" height="35" src="img/Translator.png" width="35"/> <a href="translator.html">Translator</a> • <img alt="Spirit Petal" height="35" src="img/Spirit_Petal.png" width="35"/> <a href="spirit-petal.html">Spirit Petal</a> • <img alt="Debug Wax" height="35" src="img/Debug_Wax.png" width="35"/> <a href="debug-wax.html">Debug Wax</a> • <img alt="Nectar Tester" height="35" src="img/Nectar_Tester.png" width="35"/> <a href="nectar-tester.html">Nectar Tester</a></b> • <span typeof="mw:Error mw:File"></span> <b></b>
 </td></tr>
 <tr>
 <th class="NavCategory">Beesmas

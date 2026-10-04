@@ -82,7 +82,7 @@ tags: ["NPC", "Bears"]
 
 * He is the first shop bear to be accessed in the game.
 * As with the other bears, Noob Bear can sometimes fall over or fall apart.
-  * This [glitch](glitches.md) has been mostly patched, so it occurs very rarely as of now.
+  * This glitch has been mostly patched, so it occurs very rarely as of now.
 * This bear, [Pro Bear](pro-bear.md), [Top Bear](top-bear.md), and [Shadow Bear](shadow-bear.md) are the only bears without any significant purpose.
 * Noob Bear uses the [Cartoony Animation Package](https://www.roblox.com/bundles/56/Cartoony-Animation-Package).
 * Noob Bear is represented by one of the twelve [Cub Buddy](cub-buddy.md) skins, specifically the [Noob Cub](cub-buddy.md#Skins). This skin was obtainable by buying the [Cub Buddy Launch Pack](robux-shop.md).

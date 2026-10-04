@@ -88,7 +88,7 @@ The following content has been removed from the game. The contents below may be 
 
 In 2018, his [quests](quests.md) were focused on creating [Presents](present.md), which could be later given to NPCs. At the end of his quests, he gave players a special bee, [Festive Bee](festive-bee.md). Alternatively, if the player already had one by buying the [Festive Bee Pack](robux-shop.md) or from the [Ticket Tent](ticket-tent.md), he gave 500 [Tickets](ticket.md) instead. He was located in front of the [Ant Gate](ant-gate.md) between December 19, 2018, to January 31, 2019.
 
-His second visit was from December 22, 2019, to February 10, 2020. Bee Bear rewarded the player a [Cub Buddy](cub-buddy.md#Skins) after the 10 quests that a player completed, and the [Bee Cub](cub-buddy.md#Skins) after another 5 quests. His quests consisted of a variety of different requirements. Some included collecting [Pollen](pollen.md), [Tokens](ability-tokens.md), [Goo](goo.md), defeating [mobs](mobs.md), putting [Ornaments](ornaments.md) on the [Beesmas Tree](beesmas-tree.md), and more. He stood in front of the [Dandelion Field](dandelion-field.md), next to the [Festive Present](ornament-presents.md), the first time that a traveling Bear was not located in front of the Ant Gate.
+His second visit was from December 22, 2019, to February 10, 2020. Bee Bear rewarded the player a [Cub Buddy](cub-buddy.md#Skins) after the 10 quests that a player completed, and the [Bee Cub](cub-buddy.md#Skins) after another 5 quests. His quests consisted of a variety of different requirements. Some included collecting [Pollen](pollen.md), [Tokens](ability-tokens.md), [Goo](goo.md), defeating [mobs](mobs.md), putting [Ornaments](ornaments.md) on the [Beesmas Tree](beesmas-tree.md), and more. He stood in front of the [Dandelion Field](dandelion-field.md), next to the Festive Present, the first time that a traveling Bear was not located in front of the Ant Gate.
 
 His third visit was from December 25, 2020, to March 1, 2021. His quests were used to help introduce [Beequips](beequip.md). His quests also required completing and using Beesmas Decorations from multiple NPCs, collecting [Snowflakes](snowflake.md), purchasing items from his [Catalog](bee-bear-s-catalog.md), and delivering [Presents](present.md). He rewarded players with a Festive Bee ( or 500 [Tickets](ticket.md) if [Festive Bee](festive-bee.md) was already owned by the player) when his first 15 quests were completed, and rewarded a [Festive Wreath](festive-wreath.md) [Beequip](beequip.md) for the Festive Bee when all his quests were completed.
 
@@ -423,7 +423,7 @@ The following content has been removed from the game. The contents below may be 
 <img alt="Gingerbread Bear" height="25" src="img/Gingerbread_Bear.png" width="25"/>3 <a href="gingerbread-bear.html"><span class="color-template color-template-gingerbread-bear color-template-background-clip">Gingerbread Bears</span></a>
 </p>
 <hr/>
-<p><img alt="Ticket" height="25" src="img/Ticket.png" width="25"/>10 <a href="ticket.html"><span class="color-template color-template-ticket color-template-background-clip">Tickets</span></a> (if the player completed the quest before the <a href="updates.html#2026-04-23">2026-04-23 update</a>)
+<p><img alt="Ticket" height="25" src="img/Ticket.png" width="25"/>10 <a href="ticket.html"><span class="color-template color-template-ticket color-template-background-clip">Tickets</span></a> (if the player completed the quest before the 2026-04-23 update)
 </p>
 </td></tr>
 <tr>
@@ -888,12 +888,12 @@ Oh ho ho. That's a nice [Sticker] you stuck up there. I think you deserve anothe
 </p>
 </td></tr>
 <tr>
-<td>Conclusion (before the <a href="updates.html#2026-1-16">2026-1-16 update</a>)
+<td>Conclusion (before the 2026-1-16 update)
 </td>
 <td>Beesmas is in full swing! But I'm wrapping up a few things for my next few quests... Return in a few days, and I'll have more quests that reward a [Cub Buddy Voucher]! Until then, keep helping the other bears with the decorating. Let's cover this whole map in festive nonsense! To celebrate the bees!
 </td></tr>
 <tr>
-<td>Conclusion (before the <a href="updates.html#2026-4-23">2026-4-23 update</a>)
+<td>Conclusion (before the 2026-4-23 update)
 </td>
 <td>Beesmas is in full swing! But I'm wrapping up a few things for my next few quests... Return later this winter, and I'll have more quests for this year's exclusive Cub Buddy skin [sic]Until then, keep helping the other bears with the decorating. Let's cover this whole map in festive nonsense! To celebrate the bees!
 </td></tr>
@@ -902,34 +902,6 @@ Oh ho ho. That's a nice [Sticker] you stuck up there. I think you deserve anothe
 </td>
 <td>My Festive Bee and I can move so fast, that it appears like we're still standing here when we're actually not. We're just popping in every other millisecond to keep things looking festive! Ho ho ho! I'm delivering thousands of gifts as we speak. That's the power of Beesmas! As long as you beelieve.
 </td></tr></tbody></table>
-
-### 2024 (Winter)
-
-Bee Bear/2024 (Winter)
-
-### 2024 (Summer)
-
-Bee Bear/2024 (Summer)
-
-### 2022
-
-Bee Bear/2022
-
-### 2021
-
-Bee Bear/2021
-
-### 2020
-
-Bee Bear/2020
-
-### 2019
-
-Bee Bear/2019
-
-### 2018
-
-Bee Bear/2018
 
 ## Tips
 

@@ -6,7 +6,7 @@ hide:
 
 # Items
 
-All 212 pages in Items.
+All 211 pages in Items.
 
 <div class="wiki-cards">
 <a class="wiki-card" href="aged-gingerbread-bear.html"><img src="img/Aged_Gingerbread_Bear.png" alt="" loading="lazy"><span>Aged Gingerbread Bear</span></a>
@@ -15,7 +15,6 @@ All 212 pages in Items.
 <a class="wiki-card" href="atomic-treat.html"><img src="img/Atomic_Treat.png" alt="" loading="lazy"><span>Atomic Treat</span></a>
 <a class="wiki-card" href="autumn-sunhat.html"><img src="img/Autumn_Sunhat.png" alt="" loading="lazy"><span>Autumn Sunhat</span></a>
 <a class="wiki-card" href="b-b-m-mask.html"><img src="img/B.B.M._Mask.png" alt="" loading="lazy"><span>B.B.M. Mask</span></a>
-<a class="wiki-card" href="bbm-s-apology.html"><img src="img/Royal_Jelly.png" alt="" loading="lazy"><span>BBM&#x27;s Apology</span></a>
 <a class="wiki-card" href="backpack.html"><img src="img/Backpack.png" alt="" loading="lazy"><span>Backpack</span></a>
 <a class="wiki-card" href="bags.html"><img src="img/Royal_Jelly.png" alt="" loading="lazy"><span>Bags</span></a>
 <a class="wiki-card" href="balloon.html"><img src="img/Royal_Jelly.png" alt="" loading="lazy"><span>Balloon</span></a>

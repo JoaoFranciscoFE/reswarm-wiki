@@ -46,41 +46,6 @@ A **Neonberry** is a type of [treat](treats.md) that, when fed to a [bee](bees.m
 
 * Black Bear's Triple Treck gives 1 neonberry.
 
-### Outdated Ways
-
-<table class="mw-collapsible mw-collapsed article-table">
-<caption>
-</caption>
-<tbody><tr>
-<td>
-<ul><li>Opening the <a href="ornament-presents.html">Gooey Present</a> rewarded 10 neonberries and other items.</li>
-<li>Completing <a href="bee-bear.html">Bee Bear's</a> "Unsilent Night" quest.</li>
-<li><a href="festive-nymph.html">Festive Nymphs</a> had a chance to drop 1 neonberry.</li>
-<li>Matching a pair in Winter memory match (stack of 3).</li>
-<li>3 neonberries could be found on top of the 2020 Beesmas Tree.</li>
-<li>Giving a present to Science Bear or Gummy Bear during Beesmas 2020 rewarded the player with 10 neonberries.</li>
-<li>Completing <a href="gummy-bear.html">Gummy Bear's</a> 'Gummy Bear's Goo Year's Beacon' quest gave 100 neonberries + other items during Beesmas 2020 and 2021.</li>
-<li>Opening certain Gift Boxes across the map during Beesmas 2020:
-<ul><li>Glowing Gift Box (Gave 20 neonberries + other stuff).</li></ul></li>
-<li>Opening certain Gift Boxes across the map during Beesmas 2021:
-<ul><li>Emerald Gift Box (Gave 10 neonberries + other stuff).</li>
-<li>Gummy Gift Box (Gave 25 neonberries + other stuff).</li></ul></li>
-<li>Digging in to the <a href="beesmas-feast.html">Beesmas Feast</a>.</li>
-<li>Under the 2021 Beesmas tree.</li>
-<li>As a rare reward from Beesmas Feast.</li>
-<li>Purchasing certain Robux Packs.
-<ul><li>Purchasing the Precise Pack gave 250 neonberries + other items.</li></ul></li>
-<li>Redeeming certain expired codes:
-<ul><li>MondoOutage gave 1 neonberry + other stuff.</li>
-<li>FourYearFiesta gave 1 neonberry + other stuff.</li>
-<li>5Years gave 5 neonberries + other stuff.</li>
-<li>10mMembers gave 10 neonberries + other stuff.</li>
-<li>PlushFriday gave 1 neonberry + other stuff.</li></ul></li>
-<li>From purchasing the Shiny Bundle from <a href="bee-bear-s-catalog.html">Bee Bear's Catalog</a>.</li>
-<li>As a reward from a Robo Party.</li>
-<li>Under the <a href="beesmas-tree.html">Beesmas Tree</a>.</li></ul>
-</td></tr></tbody></table>
-
 ## Crafting Uses
 
 Total required for all single-purchase items: 30 **Neonberries**
@@ -202,7 +167,7 @@ Total required for all single-purchase items: 30 **Neonberries**
 </th>
 <th class="NavCategory">Quest Exclusive
 </th>
-<td class="NavLinks NavLinksBasicEven"><b><img alt="Translator" height="35" src="img/Translator.png" width="35"/> <a href="translator.html">Translator</a> • <img alt="Spirit Petal" height="35" src="img/Spirit_Petal.png" width="35"/> <a href="spirit-petal.html">Spirit Petal</a> • <img alt="Debug Wax" height="35" src="img/Debug_Wax.png" width="35"/> <a href="debug-wax.html">Debug Wax</a> • <img alt="Nectar Tester" height="35" src="img/Nectar_Tester.png" width="35"/> <a href="nectar-tester.html">Nectar Tester</a></b> • <span typeof="mw:Error mw:File"></span> <a href="bbm-s-apology.html">BBM's Apology</a><b></b>
+<td class="NavLinks NavLinksBasicEven"><b><img alt="Translator" height="35" src="img/Translator.png" width="35"/> <a href="translator.html">Translator</a> • <img alt="Spirit Petal" height="35" src="img/Spirit_Petal.png" width="35"/> <a href="spirit-petal.html">Spirit Petal</a> • <img alt="Debug Wax" height="35" src="img/Debug_Wax.png" width="35"/> <a href="debug-wax.html">Debug Wax</a> • <img alt="Nectar Tester" height="35" src="img/Nectar_Tester.png" width="35"/> <a href="nectar-tester.html">Nectar Tester</a></b> • <span typeof="mw:Error mw:File"></span> <b></b>
 </td></tr>
 <tr>
 <th class="NavCategory">Beesmas

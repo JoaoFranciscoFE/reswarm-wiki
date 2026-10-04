@@ -9,120 +9,7 @@ This piece of content goes bye bye.
 
 The following content has been removed from the game. The contents below may be archival, but feel free to edit below.
 
-<table align="right" cellpadding="3" cellspacing="0" style="border-radius: 2px; -moz-border-radius: 2px; -webkit-border-radius: 2px; -khtml-border-radius: 2px; -icab-border-radius: 2px; -o-border-radius: 2px;; margin-left:5px; margin-bottom:5px; width: 300px; font-size: 65%; border:8px solid #5d391a;">
-<tbody><tr>
-<th colspan="3" style="border-radius: 1px; -moz-border-radius: 1px; -webkit-border-radius: 1px; -khtml-border-radius: 1px; -icab-border-radius: 1px; -o-border-radius: 1px;; text-align:center; font-size:18px; color:#242e2d; background:#deb81d">Highest Snowbear Level
-</th></tr>
-<tr class="mobile-hidden">
-<td colspan="3" style="padding:0; height:2.5px; background-color:#1d1d1d">
-</td></tr>
-<tr style="color:#0e0e0e; background:#68ccc6;">
-<td style="width:10%;"><b>1:</b>
-</td>
-<td style="font-size:15px; width:50%;"><b>mikajfg</b>
-</td>
-<td style="font-size:15px; width:50%;"><b>35</b>
-</td></tr>
-<tr class="mobile-hidden">
-<td colspan="3" style="padding:0; height:2.5px; background-color:#1d1d1d">
-</td></tr>
-<tr style="color:#0e0e0e; background:#b59005;">
-<td style="width:10%;"><b>2:</b>
-</td>
-<td style="font-size:15px; width:50%;"><b>CptnMix</b>
-</td>
-<td style="font-size:15px; width:50%;"><b>33</b>
-</td></tr>
-<tr class="mobile-hidden">
-<td colspan="3" style="padding:0; height:2.5px; background-color:#1d1d1d">
-</td></tr>
-<tr style="color:#0e0e0e; background:#a4a7bb;">
-<td style="width:10%;"><b>3:</b>
-</td>
-<td style="font-size:15px; width:50%;"><b>CptnGaddar</b>
-</td>
-<td style="font-size:15px; width:50%;"><b>32</b>
-</td></tr>
-<tr class="mobile-hidden">
-<td colspan="3" style="padding:0; height:2.5px; background-color:#1d1d1d">
-</td></tr>
-<tr style="color:#cfd4d6; background:#473c06;">
-<td style="width:10%;"><b>4:</b>
-</td>
-<td style="font-size:15px; width:50%;"><b>TTburnpy2</b>
-</td>
-<td style="font-size:15px; width:50%;"><b>31</b>
-</td></tr>
-<tr class="mobile-hidden">
-<td colspan="3" style="padding:0; height:2.5px; background-color:#1d1d1d">
-</td></tr>
-<tr style="color:#cfd4d6; background:#473c06;">
-<td style="width:10%;"><b>5:</b>
-</td>
-<td style="font-size:15px; width:50%;"><b>zxcbeast666</b>
-</td>
-<td style="font-size:15px; width:50%;"><b>30</b>
-</td></tr>
-<tr class="mobile-hidden">
-<td colspan="3" style="padding:0; height:2.5px; background-color:#1d1d1d">
-</td></tr>
-<tr style="color:#cfd4d6; background:#473c06;">
-<td style="width:10%;"><b>6:</b>
-</td>
-<td style="font-size:15px; width:50%;"><b>48inco</b>
-</td>
-<td style="font-size:15px; width:50%;"><b>29</b>
-</td></tr>
-<tr class="mobile-hidden">
-<td colspan="3" style="padding:0; height:2.5px; background-color:#1d1d1d">
-</td></tr>
-<tr style="color:#cfd4d6; background:#473c06;">
-<td style="width:10%;"><b>7:</b>
-</td>
-<td style="font-size:15px; width:50%;"><b>hamlet2802</b>
-</td>
-<td style="font-size:15px; width:50%;"><b>29</b>
-</td></tr>
-<tr class="mobile-hidden">
-<td colspan="3" style="padding:0; height:2.5px; background-color:#1d1d1d">
-</td></tr>
-<tr style="color:#cfd4d6; background:#473c06;">
-<td style="width:10%;"><b>8:</b>
-</td>
-<td style="font-size:15px; width:50%;"><b>krutoi_chel127</b>
-</td>
-<td style="font-size:15px; width:50%;"><b>29</b>
-</td></tr>
-<tr class="mobile-hidden">
-<td colspan="3" style="padding:0; height:2.5px; background-color:#1d1d1d">
-</td></tr>
-<tr style="color:#cfd4d6; background:#473c06;">
-<td style="width:10%;"><b>9:</b>
-</td>
-<td style="font-size:15px; width:50%;"><b>kirpichik14_88</b>
-</td>
-<td style="font-size:15px; width:50%;"><b>29</b>
-</td></tr>
-<tr class="mobile-hidden">
-<td colspan="3" style="padding:0; height:2.5px; background-color:#1d1d1d">
-</td></tr>
-<tr style="color:#cfd4d6; background:#473c06;">
-<td style="width:10%;"><b>10:</b>
-</td>
-<td style="font-size:15px; width:50%;"><b>lies365</b>
-</td>
-<td style="font-size:15px; width:50%;"><b>29</b>
-</td></tr>
-<tr class="mobile-hidden">
-<td colspan="3" style="padding:0; height:2.5px; background-color:#1d1d1d">
-</td></tr>
-<tr style="color:#cfd4d6; background:#473c06;">
-<td colspan="3"><b>Page last updated on 10/3/2026</b><i></i>
-</td></tr></tbody></table>
-
-*(Leaderboard as of 2026-01-22)*
-
-The **Highest Snowbear Level** is one of the 64 [leaderboards](leaderboards.md) in the game. It was added in the [2020-12-25 update](updates.md#2020-12-25) and returned in every Beesmas thereafter. It is next to the [Spider Field](spider-field.md), [Bamboo Field](bamboo-field.md), [Gumdrop Shop](gumdrop-shop.md), [Snowbear Summoner](snowbear-summoner.md), [Basic Bee Gate](basic-bee-gate.md), and [Panda Bear](panda-bear.md). To summon a [Snowbear](snowbear.md), the player must complete Panda Bear's Beesmas [quest](quests.md) to gain access to the summoner, allowing them to use the Snowbear Summoner. Each time the player defeats the Snowbear, its level increases by one. The leaderboard displays the players who have the highest top 100 Snowbear levels. This leaderboard does not have a white pad to stand on.
+The **Highest Snowbear Level** is one of the 64 [leaderboards](leaderboards.md) in the game. It was added in the 2020-12-25 update and returned in every Beesmas thereafter. It is next to the [Spider Field](spider-field.md), [Bamboo Field](bamboo-field.md), [Gumdrop Shop](gumdrop-shop.md), [Snowbear Summoner](snowbear-summoner.md), [Basic Bee Gate](basic-bee-gate.md), and [Panda Bear](panda-bear.md). To summon a [Snowbear](snowbear.md), the player must complete Panda Bear's Beesmas [quest](quests.md) to gain access to the summoner, allowing them to use the Snowbear Summoner. Each time the player defeats the Snowbear, its level increases by one. The leaderboard displays the players who have the highest top 100 Snowbear levels. This leaderboard does not have a white pad to stand on.
 
 ## Trivia
 
@@ -172,5 +59,5 @@ The **Highest Snowbear Level** is one of the 64 [leaderboards](leaderboards.md) 
 <tr>
 <th class="NavCategory">Event<br/>Locations
 </th>
-<td class="NavLinks NavLinksBasicEven"><b><a href="beesmas-tree.html">Beesmas Tree</a> • <a href="ornament-presents.html">Ornament Presents</a> • <span class="new" data-uncrawlable-url="L3dpa2kvQ29tcHV0ZXI/YWN0aW9uPWVkaXQmcmVkbGluaz0x" title="Computer (page does not exist)">Computer</span> • <a href="gift-boxes.html">Gift Boxes</a> • <a href="honey-wreath.html">Honey Wreath</a> • <a href="stockings.html">Stockings</a> • <a href="gingerbread-house.html">Gingerbread House</a> • <a href="snowbear-summoner.html">Snowbear Summoner</a> • <a href="beesmas-lights.html">Beesmas Lights</a> • <a href="samovar.html">Samovar</a> • <a href="beesmas-feast.html">Beesmas Feast</a> • <a href="onett-s-lid-art.html">Onett's Lid Art</a> • <a href="wind-shrine.html#Galentine_Shrine">Galentine Shrine</a> • <a href="memory-match.html#Winter_Memory_Match">Winter Memory Match</a> • <a href="snow-machine.html">Snow Machine</a> • <a href="honeyday-candles.html">Honeyday Candles</a> • <a href="robo-party-cake.html">Robo Party Cake</a> • <a href="gummy-beacon.html">Gummy Beacon</a> • <a href="naughty-list.html">Naughty List</a></b>
+<td class="NavLinks NavLinksBasicEven"><b><a href="beesmas-tree.html">Beesmas Tree</a> • <span class="new" data-uncrawlable-url="L3dpa2kvQ29tcHV0ZXI/YWN0aW9uPWVkaXQmcmVkbGluaz0x" title="Computer (page does not exist)">Computer</span> • <a href="gift-boxes.html">Gift Boxes</a> • <a href="honey-wreath.html">Honey Wreath</a> • <a href="stockings.html">Stockings</a> • <a href="gingerbread-house.html">Gingerbread House</a> • <a href="snowbear-summoner.html">Snowbear Summoner</a> • <a href="beesmas-lights.html">Beesmas Lights</a> • <a href="samovar.html">Samovar</a> • <a href="beesmas-feast.html">Beesmas Feast</a> • <a href="onett-s-lid-art.html">Onett's Lid Art</a> • <a href="wind-shrine.html#Galentine_Shrine">Galentine Shrine</a> • <a href="memory-match.html#Winter_Memory_Match">Winter Memory Match</a> • <a href="snow-machine.html">Snow Machine</a> • <a href="honeyday-candles.html">Honeyday Candles</a> • <a href="robo-party-cake.html">Robo Party Cake</a> • <a href="gummy-beacon.html">Gummy Beacon</a> • <a href="naughty-list.html">Naughty List</a></b>
 </td></tr></tbody></table>

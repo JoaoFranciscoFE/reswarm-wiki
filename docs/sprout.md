@@ -50,7 +50,7 @@ There are ten different variants of sprouts:
 * Moon Sprout (Luminescent blue during both night and day, only available during nighttime (common))
 * Gummy Sprout (Translucent pink) (Very Rare)
 * Sticker Sprout (Rainbow, colors shifting) (Spawns only every 3 hours in the [Hub Field](hub-field.md), or an extremely rare chance when planting a magic bean in the Hub Field)
-* Festive Sprout (White and Red stripes) (Planted by [Festive Beans](festive-bean.md) or [Onett](onett-developer.md))
+* Festive Sprout (White and Red stripes) (Planted by [Festive Beans](festive-bean.md) or Onett)
 * Debug Sprout (Black) (Can only be planted by [Onett](onett.md))
 
 The amount of pollen needed for the sprout for it to be harvested depends on the rarity of the sprout and the field it's in.
@@ -344,9 +344,7 @@ Crafting Materials
 
 ## Gallery
 
-
-
-[Onett](onett-developer.md) is able to plant sprouts server-wide throughout the game. Some of them have been planted under unique names.
+Onett is able to plant sprouts server-wide throughout the game. Some of them have been planted under unique names.
 
 ### Festive
 
@@ -391,9 +389,9 @@ As a sprout grows, the following audio is played once the sprout has hit the nex
   * Festive Sprouts have a red notification.
   * Sticker Sprouts have a rainbow notification.
 * Many of the treat drop statistics are mentioned in Spirit Bear's dialogue.
-* Sprouts were originally called "Seedlings" when they were released and then the name got changed in the [2019-12-23 update](updates.md#2019-12-23). Its original message was "🌱A Seedling has sprouted...🌱"
+* Sprouts were originally called "Seedlings" when they were released and then the name got changed in the 2019-12-23 update. Its original message was "🌱A Seedling has sprouted...🌱"
 * The Supreme Sprout previously required half the [pollen](pollen.md) that a Legendary Sprout would need. It now requires 50% more pollen than a Legendary Sprout.
-* Since the [2019-23-12 update](updates.md#2019-12-23), Onett has been able to plant sprouts server-wide throughout the game. They can be planted under unique names.
+* Since the 2019-23-12 update, Onett has been able to plant sprouts server-wide throughout the game. They can be planted under unique names.
 * Supreme Sprouts were formerly named "Mythical Sprouts" before the 2019-12-23 update.
 * If the player turned in [Stick Bug's Egg Hunt 2019 Quest](stick-bug.md#Egg_Hunt_2019_Quest), Stick Bug spawned an Epic, Legendary, and a Supreme Sprout.
 * The "[Special Sprout Summoner](special-sprout-summoner.md)" was formerly called "Sprout Summoner", and it would plant any type of sprout randomly except for Debug, Festive and Sticker Sprouts.

@@ -341,7 +341,7 @@ Commander Bee likes the [Spider Field](spider-field.md) and the [Cactus Field](c
   * Of the three, this one is the only colorless bee to have one.
   * [Festive Bee](festive-bee.md) and [Puppy Bee](puppy-bee.md), however, can have an accessory by using the [Festive Wreath](festive-wreath.md) and [Reindeer Antlers](reindeer-antlers.md) respectively.
 * This bee is one of the 3 bees that have the Focus ability by default, the other 2 are Looker Bee, and [Music Bee](music-bee.md).
-* Commander Bee is the only epic bee added in an [update](updates.md).
+* Commander Bee is the only epic bee added in an update.
 * A [Commander Bee Egg](egg.md#Commander_Bee_Egg) can be obtained by capturing [Commando Chick](commando-chick.md) 200 times.
 * As the name and model suggest, this bee is likely inspired by the eponymous video game protagonist known as Commander Keen.
   * This point is further supported by the expired [code](codes.md) "Keen4", which yielded a [Commander Bee Jelly](egg.md#Commander_Bee_Jelly).

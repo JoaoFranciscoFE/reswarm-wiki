@@ -30,5 +30,5 @@ Upon completing the quest, the Gingerbread House can be used immediately for one
 * The Gingerbread House stores multiple gingerbread bears at the same time, meaning that multiple gingerbread bears can be collected in one go after 4 or more hours.
 * Even though **the cooldown to collect resets once it was collected**, **the timer for generating gingerbread bears does not**. For example, if a player with 3 hours in-game checks the house, they will only get 1 gingerbread bear and the cooldown will reset to 2 hours. The timer saves that extra hour, so the player will get 2 gingerbread bears if they collect after 3 more hours (6 hours total).
   * This now has been changed and now the timer saves.
-* The Gingerbread House was introduced in [Beesmas 2020](updates.md#2020-12-25), and has returned on each Beesmas since.
+* The Gingerbread House was introduced in Beesmas 2020, and has returned on each Beesmas since.
 * Quest givers such as [Bee Bear](bee-bear.md) require the player to interact with the Gingerbread House a varying amount of times.

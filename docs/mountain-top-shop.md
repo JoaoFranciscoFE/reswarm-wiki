@@ -158,24 +158,6 @@ There is a [Royal Jelly](royal-jelly.md) token on the roof and a [Ticket](ticket
 <td>Increases the capacity of your hive, allowing you to hatch an additional bee!
 </td></tr></tbody></table>
 
-### Removed
-
-<table class="article-table">
-<tbody><tr>
-<th>Item
-</th>
-<th style="width: 27%;">Cost
-</th>
-<th>Description
-</th></tr>
-<tr>
-<td><figure class="mw-halign-center" typeof="mw:Error mw:File"><figcaption></figcaption></figure><div style="text-align: center;"><a href="eviction.html">Eviction</a></div>
-</td>
-<td><img alt="Honey" height="25" src="img/Honey.png" width="25"/>50,000 <a href="honey.html"><span class="color-template color-template-honey">Honey</span></a>
-</td>
-<td>Removes a <a href="bees.html">bee</a> from the <a href="hive.html">hive</a>.
-</td></tr></tbody></table>
-
 ## Music
 
 When in the shop, the following audio plays:
@@ -184,9 +166,9 @@ When in the shop, the following audio plays:
 
 * [Mondo Belt Bag](mondo-belt-bag.md) and [Beekeeper's Boots](beekeeper-s-boots.md) could've also been obtained by completing [Sun Bear's](sun-bear.md) quests before he left during his first visit.
 * This shop is the only place in the game where the player can purchase additional [hive slots](hive-slot.md).
-* Top Bear was introduced in [2018-07-11 update](updates.md#2018-07-11), which means this shop was once not run by any bear before said update.
-* This shop used to have the eviction for sale until the [2019-09-28 update](updates.md#2019-09-28), when it was removed.
-* When the game was first released, the only item in this shop was the Glider until the [2018-04-10 update](updates.md#2018-04-10) added the [Beekeeper's Mask](beekeeper-s-mask.md) and Hive Slots.
+* Top Bear was introduced in 2018-07-11 update, which means this shop was once not run by any bear before said update.
+* This shop used to have the eviction for sale until the 2019-09-28 update, when it was removed.
+* When the game was first released, the only item in this shop was the Glider until the 2018-04-10 update added the [Beekeeper's Mask](beekeeper-s-mask.md) and Hive Slots.
 
 <table class="mw-collapsible mw-collapsed NavTable">
 <tbody><tr>
@@ -230,6 +212,6 @@ When in the shop, the following audio plays:
 <tr>
 <th class="NavCategory">Event<br/>Locations
 </th>
-<td class="NavLinks NavLinksBasicEven"><b><a href="beesmas-tree.html">Beesmas Tree</a> • <a href="ornament-presents.html">Ornament Presents</a> • <span class="new" data-uncrawlable-url="L3dpa2kvQ29tcHV0ZXI/YWN0aW9uPWVkaXQmcmVkbGluaz0x" title="Computer (page does not exist)">Computer</span> • <a href="gift-boxes.html">Gift Boxes</a> • <a href="honey-wreath.html">Honey Wreath</a> • <a href="stockings.html">Stockings</a> • <a href="gingerbread-house.html">Gingerbread House</a> • <a href="snowbear-summoner.html">Snowbear Summoner</a> • <a href="beesmas-lights.html">Beesmas Lights</a> • <a href="samovar.html">Samovar</a> • <a href="beesmas-feast.html">Beesmas Feast</a> • <a href="onett-s-lid-art.html">Onett's Lid Art</a> • <a href="wind-shrine.html#Galentine_Shrine">Galentine Shrine</a> • <a href="memory-match.html#Winter_Memory_Match">Winter Memory Match</a> • <a href="snow-machine.html">Snow Machine</a> • <a href="honeyday-candles.html">Honeyday Candles</a> • <a href="robo-party-cake.html">Robo Party Cake</a> • <a href="gummy-beacon.html">Gummy Beacon</a> • <a href="naughty-list.html">Naughty List</a></b>
+<td class="NavLinks NavLinksBasicEven"><b><a href="beesmas-tree.html">Beesmas Tree</a> • <span class="new" data-uncrawlable-url="L3dpa2kvQ29tcHV0ZXI/YWN0aW9uPWVkaXQmcmVkbGluaz0x" title="Computer (page does not exist)">Computer</span> • <a href="gift-boxes.html">Gift Boxes</a> • <a href="honey-wreath.html">Honey Wreath</a> • <a href="stockings.html">Stockings</a> • <a href="gingerbread-house.html">Gingerbread House</a> • <a href="snowbear-summoner.html">Snowbear Summoner</a> • <a href="beesmas-lights.html">Beesmas Lights</a> • <a href="samovar.html">Samovar</a> • <a href="beesmas-feast.html">Beesmas Feast</a> • <a href="onett-s-lid-art.html">Onett's Lid Art</a> • <a href="wind-shrine.html#Galentine_Shrine">Galentine Shrine</a> • <a href="memory-match.html#Winter_Memory_Match">Winter Memory Match</a> • <a href="snow-machine.html">Snow Machine</a> • <a href="honeyday-candles.html">Honeyday Candles</a> • <a href="robo-party-cake.html">Robo Party Cake</a> • <a href="gummy-beacon.html">Gummy Beacon</a> • <a href="naughty-list.html">Naughty List</a></b>
 </td></tr></tbody></table>
 

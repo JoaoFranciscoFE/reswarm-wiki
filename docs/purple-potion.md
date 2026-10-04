@@ -15,7 +15,7 @@ COOLDOWN
 
 None
 
-A **Purple Potion** is a craftable inventory item added in the [2020-04-06 update](updates.md#2020-04-06). When used, it grants the following for 15 minutes:
+A **Purple Potion** is a craftable inventory item added in the 2020-04-06 update. When used, it grants the following for 15 minutes:
 
 * x1.25 [Capacity](system-page.md#Capacity_Multiplier).
 * x1.25 [Convert Rate At Hive](system-page.md#Convert_Rate_At_Hive).
@@ -61,41 +61,6 @@ A Purple Potion buff cannot exist simultaneously along with [Red Extract](red-ex
   * [Festive Planters](festive-planter.md)
 * As a Very Rare drop from [Mythic Meteors](mythic-meteor-shower.md).
 * As an Exceptionally Rare drop from [Wild Windy Bees](wild-windy-bee.md).
-
-### Outdated Ways
-
-<table class="mw-collapsible mw-collapsed article-table">
-<caption>
-</caption>
-<tbody><tr>
-<td>
-<ul><li>During Beesmas, 5 Purple Potions can be obtained from donating strawberries to the <a href="wind-shrine.html">Galentine Shrine</a>.</li>
-<li>By giving <a href="science-bear.html">Science Bear</a> a <a href="present.html">present</a>.</li>
-<li>Purchasing the Booster Bundle in <a href="bee-bear-s-catalog.html">Bee Bear's Catalog</a> for 33 <a href="snowflake.html">Snowflake</a> and 3 <a href="gingerbread-bear.html">Gingerbread Bears</a>.</li>
-<li>Purchasing the Violet Bundle from <a href="bee-bear-s-catalog.html">Bee Bear's Catalog</a> for 400 <a href="snowflake.html">Snowflakes</a> and 20 <a href="gingerbread-bear.html">Gingerbread Bears</a> gives 20 purple potions.</li>
-<li>Purchasing the Extract Bundle from <a href="bee-bear-s-catalog.html">Bee Bear's Catalog</a> for 150 <a href="snowflake.html">Snowflakes</a> and 5 <a href="gingerbread-bear.html">Gingerbread Bears</a>.</li>
-<li>A rare drop from <a href="stockings.html">Stockings</a>.</li>
-<li>As a reward for completing 9th, 14th and 19th <a href="bee-bear.html">Bee Bear's</a> Beesmas 2022 quests gives 1, 1 and 3 accordingly.</li>
-<li>Completing <a href="honey-bee-npc.html">Honey Bee's</a> Beesmas 2022 quest gave 9 Purple Potions.</li>
-<li>Opening the <a href="gift-boxes.html#2022">Mythic Gift Box</a> gave 4 purple potions and other items.</li>
-<li>Opening certain <a href="gift-boxes.html">Gift Boxes</a> across the map.
-<ul><li>The Gummy Gift Box gave 3 purple potions + other items.</li>
-<li>The Mythic Gift Box gave 4 purple potions + other items.</li>
-<li>The Purple Gift Box gave 10 purple potions and other items.</li></ul></li>
-<li>When donating strawberries to the <a href="wind-shrine.html#Galentine_Shrine">Galentine's Shrine</a>, it had a chance of giving 5 purple potions and other items.</li>
-<li>Giving <a href="present.html">presents</a> to certain NPCs during the Beesmas 2020 Event.
-<ul><li><a href="gummy-bear.html">Gummy Bear</a> gave 10 purple potions and other <a href="items.html">items</a>.</li></ul></li>
-<li>Completing <a href="bee-bear.html">Bee Bear's</a> "Festive Wreath Workshop 8" quest.</li>
-<li>Completing Bee Bear's "Snow Cub Reformation (3/5)" 2021 Beesmas quest rewarded the player 1 purple potion and other items.</li>
-<li>Completing Bee Bear's "Snow Cub Reformation (4/5)" 2021 Beesmas quest rewarded the player 3 purple potions and other items.</li>
-<li>Purchasing the Extract Bundle in Bee Bear's Catalog gave 1 purple potion + other items.</li>
-<li>Purchasing the Merry Mondo Bundle in Bee Bear's Catalog gave 100 purple potions + other items.</li>
-<li>Purchasing certain packs:
-<ul><li>Purchasing the Buoyant Pack gave 10 purple potions + other items.</li>
-<li>Purchasing the Festive Frenzy Haul gave 25 purple potions + other items.</li></ul></li>
-<li>Redeeming expired <a href="codes.html">codes</a>:
-<ul><li>Using the code "MondoOutage" (activated the buff and other stuff).</li></ul></li></ul>
-</td></tr></tbody></table>
 
 ## Crafting Uses
 
@@ -148,7 +113,7 @@ Total required for all single-purchase items: 200 **Purple Potions**
 ## Trivia
 
 * It is one of four consumables that can boost capacity, with the first being the [Marshmallow Bee](marshmallow-bee.md), the third being the [Super Smoothie](super-smoothie.md) and the fourth being the [Snowflake](snowflake.md)
-* Prior to the purple potion being officially added to the game, there was a [glitch](glitches.md) that caused it to be obtainable from King Beetle and Tunnel Bear early. The item could not be seen in the inventory, but could be donated to the Wind Shrine, where it had the appearance of a [basic egg](egg.md#Basic_Egg) and had no donation value.
+* Prior to the purple potion being officially added to the game, there was a glitch that caused it to be obtainable from King Beetle and Tunnel Bear early. The item could not be seen in the inventory, but could be donated to the Wind Shrine, where it had the appearance of a [basic egg](egg.md#Basic_Egg) and had no donation value.
 * Donating one purple potion to the wind shrine can give winds ranging from 5x-9x for 4-6 red/blue fields.
 
 * Purple Potion's raw ingredients cost:
@@ -218,7 +183,7 @@ Total required for all single-purchase items: 200 **Purple Potions**
 </th>
 <th class="NavCategory">Quest Exclusive
 </th>
-<td class="NavLinks NavLinksBasicEven"><b><img alt="Translator" height="35" src="img/Translator.png" width="35"/> <a href="translator.html">Translator</a> • <img alt="Spirit Petal" height="35" src="img/Spirit_Petal.png" width="35"/> <a href="spirit-petal.html">Spirit Petal</a> • <img alt="Debug Wax" height="35" src="img/Debug_Wax.png" width="35"/> <a href="debug-wax.html">Debug Wax</a> • <img alt="Nectar Tester" height="35" src="img/Nectar_Tester.png" width="35"/> <a href="nectar-tester.html">Nectar Tester</a></b> • <span typeof="mw:Error mw:File"></span> <a href="bbm-s-apology.html">BBM's Apology</a><b></b>
+<td class="NavLinks NavLinksBasicEven"><b><img alt="Translator" height="35" src="img/Translator.png" width="35"/> <a href="translator.html">Translator</a> • <img alt="Spirit Petal" height="35" src="img/Spirit_Petal.png" width="35"/> <a href="spirit-petal.html">Spirit Petal</a> • <img alt="Debug Wax" height="35" src="img/Debug_Wax.png" width="35"/> <a href="debug-wax.html">Debug Wax</a> • <img alt="Nectar Tester" height="35" src="img/Nectar_Tester.png" width="35"/> <a href="nectar-tester.html">Nectar Tester</a></b> • <span typeof="mw:Error mw:File"></span> <b></b>
 </td></tr>
 <tr>
 <th class="NavCategory">Beesmas

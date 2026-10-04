@@ -21,7 +21,7 @@ The **King Beetle** is a level 7 boss mob that resides in his [lair](king-beetle
 
 He takes 1 day (24 hours) to respawn after being defeated (20 hours and 24 minutes with a [Gifted](gifted-bee.md) [Vicious Bee](vicious-bee.md)). The rewards for defeating him vary, but always include 150 [Battle Points](battle-points.md), as well as [Honey](honey.md), [Royal Jellies](royal-jelly.md), [Tickets](ticket.md) and [Bond](bond.md).
 
-There is a one-in-seven (approximately 14%) chance that he will drop a [King Beetle Amulet](king-beetle-amulet.md) when defeated. Having more [Loot Luck](loot-luck.md) increases the probabilities of other drops but doesn't improve the probability of a King Beetle Amulet dropping. After the [2019-02-01 Update](updates.md#2019-02-01), King Beetle drops honey tokens and rewards in a token circle around the center of the lair unlike all other mobs who drop the circle around the place of their death (except for [Stump Snail](stump-snail.md), [Tunnel Bear](tunnel-bear.md), and [Rogue Vicious Bee](rogue-vicious-bee.md)) unless the player receives a King Beetle Amulet, in which it goes directly into the player's inventory.
+There is a one-in-seven (approximately 14%) chance that he will drop a [King Beetle Amulet](king-beetle-amulet.md) when defeated. Having more [Loot Luck](loot-luck.md) increases the probabilities of other drops but doesn't improve the probability of a King Beetle Amulet dropping. After the 2019-02-01 Update, King Beetle drops honey tokens and rewards in a token circle around the center of the lair unlike all other mobs who drop the circle around the place of their death (except for [Stump Snail](stump-snail.md), [Tunnel Bear](tunnel-bear.md), and [Rogue Vicious Bee](rogue-vicious-bee.md)) unless the player receives a King Beetle Amulet, in which it goes directly into the player's inventory.
 
 ## Drops
 
@@ -127,8 +127,8 @@ Some things can help the player defeat King Beetle, regardless of which strategy
 * King Beetle was the first boss to be added to the game.
 * King Beetle has the fifth-largest amount of health in the game for any mob, with [Tunnel Bear](tunnel-bear.md) being the fourth, [Coconut Crab](coconut-crab.md) the third, [Mondo Chick](chicks.md#Mondo_Chick) the second, and [Stump Snail](stump-snail.md) the first. On certain occasions, Rogue Vicious Bee, [Wild Windy Bee](wild-windy-bee.md), [Aphids](aphid.md), and [Stick Bug](stick-bug.md) will have more health depending on their level. In this case, King Beetle can be considered the weakest boss in terms of health.
 * King Beetle and Stump Snail are the only mobs that can drop an amulet, the [King Beetle Amulet](king-beetle-amulet.md) and the [Shell Amulet](shell-amulet.md) respectively.
-* There was a myth that clicking on King Beetle has an effect. However, this was disproven as [Onett](onett-developer.md) has confirmed that King Beetle does not even have a [click detector](http://robloxdev.com/api-reference/class/ClickDetector).
-* Before the [2018-07-11 Update](updates.md#2018-07-11), King Beetle took two days to respawn after being defeated, granted more battle points and despawned after about 5 minutes.
+* There was a myth that clicking on King Beetle has an effect. However, this was disproven as Onett has confirmed that King Beetle does not even have a [click detector](http://robloxdev.com/api-reference/class/ClickDetector).
+* Before the 2018-07-11 Update, King Beetle took two days to respawn after being defeated, granted more battle points and despawned after about 5 minutes.
 * King Beetle is a hybrid of a [Rhino Beetle](rhino-beetle.md) and a [Ladybug](ladybug.md), as stated by Onett on Discord.[1]
 * Onett stated that the King Beetle emits toxins that makes the player hallucinate, which is why both he and his lair are strangely colored.[2]
 * An active King Beetle's health bar can be seen through the Clover Field and the Blue Flower Field.

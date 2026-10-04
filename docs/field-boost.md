@@ -20,12 +20,10 @@ Multiple sources of field boosts can be used to reach much higher stacks. With e
 
 A field that has been boosted by a field booster or field dice gives off white sparkles. If the player leaves the game and comes back while a boost is still active, the boost in pollen will still be there, but the field will no longer sparkle.
 
-
-
 ## Trivia
 
-* Sometimes, the field [glitches](glitches.md) after the boost is gone and keeps sparkling. This is a purely visual bug, meaning that the boost is not active.
-* Field boosts used to stack up to x10, but after the [2019-04-05 update](updates.md#2019-04-05), it was nerfed to x5. After that, it was nerfed to x3 in the [2019-09-28 update](updates.md#2019-09-28), but it was buffed to x4 in the [2021-12-26 update](updates.md#2021-12-26) to help compensate for the [Jelly Beans](jelly-beans.md) nerf.
+* Sometimes, the field glitches after the boost is gone and keeps sparkling. This is a purely visual bug, meaning that the boost is not active.
+* Field boosts used to stack up to x10, but after the 2019-04-05 update, it was nerfed to x5. After that, it was nerfed to x3 in the 2019-09-28 update, but it was buffed to x4 in the 2021-12-26 update to help compensate for the [Jelly Beans](jelly-beans.md) nerf.
   * If the player redeems certain codes that give a field boost that is x5 or more, it will only give the player a x4 boost.
 * The old icon for field boosts was simply an image of grass placed on a background with a color that corresponded to that of the boosted field.
 * The [Ant Field](ant-field.md) cannot be boosted using glitter, field dice, or field boosters. Trying to boost the Ant Field will result in a message that says, "You can't boost a challenge field."

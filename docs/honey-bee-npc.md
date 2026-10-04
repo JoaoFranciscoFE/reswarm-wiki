@@ -37,7 +37,7 @@ tags: ["Removed Content", "NPC", "Quest Bees", "Quest Giver", "Bees"]
 </table>
 </td></tr></tbody></table>
 
-**Honey Bee** is a [Quest Giver](quest-givers.md) and one of the three permanent Quest Bees, the others being [Gifted Riley Bee](gifted-riley-bee.md) and [Gifted Bucko Bee](gifted-bucko-bee.md). Honey Bee is located on the rock near the [Pine Tree Forest](pine-tree-forest.md). Added in the [2019-02-01 Update](updates.md#2019-02-01), its original purpose was to give players something to do while the next update was being worked on, but it has now become a Permanent Quest Giver.
+**Honey Bee** is a [Quest Giver](quest-givers.md) and one of the three permanent Quest Bees, the others being [Gifted Riley Bee](gifted-riley-bee.md) and [Gifted Bucko Bee](gifted-bucko-bee.md). Honey Bee is located on the rock near the [Pine Tree Forest](pine-tree-forest.md). Added in the 2019-02-01 Update, its original purpose was to give players something to do while the next update was being worked on, but it has now become a Permanent Quest Giver.
 
 It doesn't require a [Translator](translator.md) to give quests, making it different from the other quest-giving bees.
 
@@ -175,101 +175,6 @@ An upgrade to the <a href="honey-wreath.html">Honey Wreath</a>
 </p>
 </td></tr></tbody></table>
 
-### 2024 Winter
-
-This piece of content goes bye bye.
-
-The following content has been removed from the game. The contents below may be archival, but feel free to edit below.
-
-You need to be equipping the [Honey Mask](honey-mask.md) and have completed [Black Bear](black-bear.md)'s Honey Wreath quest to receive this quest.
-
-<table class="article-table mw-collapsible mw-collapsed">
-<tbody><tr>
-<th>Requirements
-</th>
-<th>Rewards
-</th></tr>
-<tr>
-<td>
-<ul><li>Make 999,999,999 Honey.</li>
-<li>Complete 99,999 Honey Conversion Links.</li>
-<li>Collect 99,999 Honey Tokens.</li>
-<li>Collect 9,999 Honey Mark Tokens.</li>
-<li>Collect 9,999 Tokens from Honeystorms.</li>
-<li>Collect 999 Honey Gift Tokens.</li>
-<li>Collect 99 Tokens from the Honey Wreath.</li>
-<li>Collect 99 Honeysuckles.</li></ul>
-</td>
-<td><img alt="Honey" height="25" src="img/Honey.png" width="25"/>9,999,999,999 <a href="honey.html"><span class="color-template color-template-honey">Honey</span></a><br/>
-<p><img alt="Treat" height="25" src="img/Treat.png" width="25"/>999,999 <a href="treat.html"><span class="color-template color-template-treat">Treats</span></a><br/>
-<img alt="Ticket" height="25" src="img/Ticket.png" width="25"/>99 <a href="ticket.html"><span class="color-template color-template-ticket color-template-background-clip">Tickets</span></a><br/>
-<img alt="Marshmallow Bee" height="25" src="img/Marshmallow_Bee.png" width="25"/>9 <a href="marshmallow-bee.html"><span class="color-template color-template-marshmallow-bee color-template-background-clip">Marshmallow Bees</span></a><br/>
-<img alt="Gingerbread Bear" height="25" src="img/Gingerbread_Bear.png" width="25"/>9 <a href="gingerbread-bear.html"><span class="color-template color-template-gingerbread-bear color-template-background-clip">Gingerbread Bears</span></a><br/>
-<img alt="Enzymes" height="25" src="img/Enzymes.png" width="25"/>9 <a href="enzymes.html"><span class="color-template color-template-enzymes color-template-background-clip">Enzymes</span></a><br/>
-<img alt="Tropical Drink" height="25" src="img/Tropical_Drink.png" width="25"/>9 <a href="tropical-drink.html"><span class="color-template color-template-tropical-drink color-template-background-clip">Tropical Drinks</span></a><br/>
-<img alt="Micro-Converter" height="25" src="img/Micro-Converter.png" width="25"/>9 <a href="micro-converter.html"><span class="color-template color-template-micro-converter color-template-background-clip">Micro-Converters</span></a><br/>
-<img alt="Pink Shades" height="25" src="img/Pink_Shades.png" width="25"/>1 <a href="pink-shades.html"><span class="color-template color-template-pink-shades color-template-background-clip">Pink Shades</span></a><br/>
-Summons a <a href="honeystorm.html">Honeystorm</a><br/>
-An upgrade to the <a href="honey-wreath.html">Honey Wreath</a>
-</p>
-</td></tr></tbody></table>
-
-<table class="article-table mw-collapsible mw-collapsed">
-<tbody><tr>
-<th>Dialogue
-</th></tr>
-<tr>
-<td>
-<p>Bzzzz... BUZZ BZZZZ! Buzzz zz ZZ? (Honey Bee sounds concerned) Buzz bzzz? Bzz bzz? BZ BZZ?  (It's staring longingly towards the Honey Wreath) (Its buzz sounds woefully disappointed) Buzz bzz zuh... zz... ZUHZZ BUZZUH!
-</p><p><i>-During-</i>
-</p><p>N/A
-</p><p><i>-Completion-</i>
-</p><p>Bzz zzuh zuh! (Honey Bee smiles towards the Honey Wreath) (Its smile grows more and more grotesquely wide) BUZZZUH!! (Pure satisfaction can be felt in the bee's gaze) Bzzz zzz buzz zuh. Zuh zuzh zhhzhh zzz zuh zuh. Buzz buzz zuh. Zzzz ZZZZ bzz. (You aren't sure what the bee is trying to say) (But somehow you can sense that the Honey Wreath will now grant x2 honey) (And that it'll summon a Lvl 20 Honey Bee with each use... maybe) Buzz buzz!
-</p>
-</td></tr></tbody></table>
-
-### 2024 Summer
-
-This piece of content goes bye bye.
-
-The following content has been removed from the game. The contents below may be archival, but feel free to edit below.
-
-You need to be equipping the [Honey Mask](honey-mask.md) and have completed [Black Bear](black-bear.md)'s Honey Wreath quest to receive this quest.
-
-<table class="article-table mw-collapsible mw-collapsed">
-<tbody><tr>
-<th>Requirements
-</th>
-<th>Rewards
-</th></tr>
-<tr>
-<td>
-<ul><li>Make 999,999,999 Honey.</li>
-<li>Complete 99,999 Honey Conversion Links.</li>
-<li>Collect 9,999 Honey Tokens.</li>
-<li>Collect 999 Tokens from Honeystorms.</li>
-<li>Collect 999 Honey Gift Tokens.</li>
-<li>Collect 99 Tokens from the Honey Wreath.</li>
-<li>Obtain 9 Silly Tongue Stickers to give to Honey Bee.</li>
-<li>Obtain 9 Honey Dipper Stickers to give to Honey Bee.</li>
-<li>Obtain 9 Honey Bee Bear Stickers to give to Honey Bee.</li></ul>
-</td>
-<td><img alt="Honey" height="25" src="img/Honey.png" width="25"/>999,999,999 <a href="honey.html"><span class="color-template color-template-honey">Honey</span></a><br/>
-<p><img alt="Treat" height="25" src="img/Treat.png" width="25"/>999,999 <a href="treat.html"><span class="color-template color-template-treat">Treats</span></a><br/>
-<img alt="Ticket" height="25" src="img/Ticket.png" width="25"/>99 <a href="ticket.html"><span class="color-template color-template-ticket color-template-background-clip">Tickets</span></a><br/>
-<img alt="Marshmallow Bee" height="25" src="img/Marshmallow_Bee.png" width="25"/>9 <a href="marshmallow-bee.html"><span class="color-template color-template-marshmallow-bee color-template-background-clip">Marshmallow Bees</span></a><br/>
-<img alt="Gingerbread Bear" height="25" src="img/Gingerbread_Bear.png" width="25"/>9 <a href="gingerbread-bear.html"><span class="color-template color-template-gingerbread-bear color-template-background-clip">Gingerbread Bears</span></a><br/>
-<img alt="Star Jelly" height="25" src="img/Star_Jelly.png" width="25"/>9 <a href="royal-jelly.html#Star_Jelly"><span class="color-template color-template-star-jelly color-template-background-clip">Star Jellies</span></a><br/>
-<img alt="Purple Potion" height="25" src="img/Purple_Potion.png" width="25"/>9 <a href="purple-potion.html"><span class="color-template color-template-purple-potion color-template-background-clip">Purple Potions</span></a><br/>
-<img alt="Tropical Drink" height="25" src="img/Tropical_Drink.png" width="25"/>9 <a href="tropical-drink.html"><span class="color-template color-template-tropical-drink color-template-background-clip">Tropical Drinks</span></a><br/>
-<img alt="Magic Bean" height="25" src="img/Magic_Bean.png" width="25"/>9 <a href="magic-bean.html"><span class="color-template color-template-magic-bean color-template-background-clip">Magic Beans</span></a><br/>
-<img alt="Micro-Converter" height="25" src="img/Micro-Converter.png" width="25"/>9 <a href="micro-converter.html"><span class="color-template color-template-micro-converter color-template-background-clip">Micro-Converters</span></a><br/>
-<img alt="Pink Shades" height="25" src="img/Pink_Shades.png" width="25"/>1 <a href="pink-shades.html"><span class="color-template color-template-pink-shades color-template-background-clip">Pink Shades</span></a><br/>
-Summons a <a href="honeystorm.html">Honeystorm</a><br/>
-An upgrade to the <a href="honey-wreath.html">Honey Wreath</a>
-</p>
-</td></tr></tbody></table>
-
 ### Quest Dialogue
 
 <table class="article-table mw-collapsible mw-collapsed">
@@ -301,51 +206,6 @@ Buzz buzz!
 </p>
 </td></tr></tbody></table>
 
-### 2022
-
-This piece of content goes bye bye.
-
-The following content has been removed from the game. The contents below may be archival, but feel free to edit below.
-
-You need to be equipping the [Honey Mask](honey-mask.md) and have completed [Black Bear](black-bear.md)'s Honey Wreath quest to receive this quest.
-
-<table class="article-table mw-collapsible mw-collapsed">
-<tbody><tr>
-<th>Requirements
-</th>
-<th>Rewards
-</th></tr>
-<tr>
-<td>
-<ul><li>Make 999,999,999 Honey.</li>
-<li>Complete 99,999 Honey Conversion Links.</li>
-<li>Collect 99,999 Honey Tokens.</li>
-<li>Collect 9,999 <a href="ability-tokens.html">Honey Mark Tokens</a>.</li>
-<li>Collect 4,999 Honey Tokens from <a href="honeystorm.html">Honeystorms</a>.</li>
-<li>Collect 999 <a href="ability-tokens.html">Honey Gift Tokens</a>.</li>
-<li>Complete 9 "Make Honey" Quests in <a href="robo-bear-challenge.html">Robo Bear's Challenge</a>.</li>
-<li>Complete 9 "Convert Pollen" Quests in <a href="robo-bear-challenge.html">Robo Bear's Challenge</a>.</li>
-<li>Use 99 <a href="honeysuckle.html">Honeysuckles</a>.</li>
-<li>Use 9 <a href="hard-wax.html">Hard Waxes</a>.</li>
-<li>Use 9 <a href="oil.html">Oils</a>.</li>
-<li>Use 9 <a href="enzymes.html">Enzymes</a>.</li>
-<li>Defeat 9 <a href="golden-cogmower.html">Golden Cogmowers</a>.</li></ul>
-</td>
-<td><img alt="Honey" height="25" src="img/Honey.png" width="25"/>999,999,999 <a href="honey.html"><span class="color-template color-template-honey">Honey</span></a><br/>
-<p><img alt="Treat" height="25" src="img/Treat.png" width="25"/>999,999 <a href="treat.html"><span class="color-template color-template-treat">Treats</span></a><br/>
-<img alt="Gingerbread Bear" height="25" src="img/Gingerbread_Bear.png" width="25"/>9 <a href="gingerbread-bear.html"><span class="color-template color-template-gingerbread-bear color-template-background-clip">Gingerbread Bears</span></a><br/>
-<img alt="Ticket" height="25" src="img/Ticket.png" width="25"/>9 <a href="ticket.html"><span class="color-template color-template-ticket color-template-background-clip">Tickets</span></a><br/>
-<img alt="Magic Bean" height="25" src="img/Magic_Bean.png" width="25"/>9 <a href="magic-bean.html"><span class="color-template color-template-magic-bean color-template-background-clip">Magic Beans</span></a><br/>
-<img alt="Royal Jelly" height="25" src="img/Royal_Jelly.png" width="25"/>9 <a href="royal-jelly.html"><span class="color-template color-template-royal-jelly color-template-background-clip">Royal Jellies</span></a><br/>
-<img alt="Tropical Drink" height="25" src="img/Tropical_Drink.png" width="25"/>9 <a href="tropical-drink.html"><span class="color-template color-template-tropical-drink color-template-background-clip">Tropical Drinks</span></a><br/>
-<img alt="Purple Potion" height="25" src="img/Purple_Potion.png" width="25"/>9 <a href="purple-potion.html"><span class="color-template color-template-purple-potion color-template-background-clip">Purple Potions</span></a><br/>
-<img alt="Micro-Converter" height="25" src="img/Micro-Converter.png" width="25"/>9 <a href="micro-converter.html"><span class="color-template color-template-micro-converter color-template-background-clip">Micro-Converters</span></a><br/>
-<img alt="Pink Shades" height="25" src="img/Pink_Shades.png" width="25"/>1 <a href="pink-shades.html"><span class="color-template color-template-pink-shades color-template-background-clip">Pink Shades</span></a><br/>
-Summons a <a href="honeystorm.html">Honeystorm</a><br/>
-An upgrade to the <a href="honey-wreath.html">Honey Wreath</a>
-</p>
-</td></tr></tbody></table>
-
 ### Quest Dialogue
 
 <table class="article-table mw-collapsible mw-collapsed">
@@ -358,83 +218,6 @@ An upgrade to the <a href="honey-wreath.html">Honey Wreath</a>
 </p><p>N/A
 </p><p><i>-Completion-</i>
 </p><p>Bzz zzuh zuh! (Honey bee smile towards the Honey Wreath) (Its smile grows more and more grotesquely wide) BUZZZUH!! (Pure satisfaction can be felt in the bee's gaze) Bzzz zzz buzz zuh. Zuh zuzh zhhzhh zzz zuh zuh. Buzz buzz zuh. Zzzz ZZZZ bzz. (You aren't  sure what the bee is trying to say )(But somehow you can sense that the Honey Wreath will now grant 50% more honey) (And that it'll summon a Lvl 20 Honey Bee with each use... maybe) Buzz buzz! 
-</p>
-</td></tr></tbody></table>
-
-### 2021
-
-This piece of content goes bye bye.
-
-The following content has been removed from the game. The contents below may be archival, but feel free to edit below.
-
-You need to be equipping the [Honey Mask](honey-mask.md) and have completed [Black Bear](black-bear.md)'s Honey Wreath quest to receive this quest.
-
-<table class="article-table mw-collapsible mw-collapsed">
-<tbody><tr>
-<th>Requirements
-</th>
-<th>Rewards
-</th></tr>
-<tr>
-<td>
-<ul><li>Complete 99,999 Honey Conversion Links.</li>
-<li>Collect 99,999 Honey Tokens.</li>
-<li>Feed 9,999 Treats to your Bees.</li>
-<li>Collect 999 Honey Gift Tokens.</li>
-<li>Use 999 Honeysuckles.</li>
-<li>Collect 99 Tokens from the Honey Wreath.</li>
-<li>Use the Honey Dispenser 9 times.</li>
-<li>Use 9 Micro-Converters.</li>
-<li>Use 9 Enzymes.</li></ul>
-</td>
-<td>
-<p><img alt="Honey" height="25" src="img/Honey.png" width="25"/>99,999,999 <a href="honey.html"><span class="color-template color-template-honey">Honey</span></a><br/>
-<img alt="Ticket" height="25" src="img/Ticket.png" width="25"/>9 <a href="ticket.html"><span class="color-template color-template-ticket color-template-background-clip">Tickets</span></a><br/>
-<img alt="Treat" height="25" src="img/Treat.png" width="25"/>99,999 <a href="treat.html"><span class="color-template color-template-treat">Treats</span></a><br/>
-<img alt="Gingerbread Bear" height="25" src="img/Gingerbread_Bear.png" width="25"/>9 <a href="gingerbread-bear.html"><span class="color-template color-template-gingerbread-bear color-template-background-clip">Gingerbread Bears</span></a><br/>
-<img alt="Royal Jelly" height="25" src="img/Royal_Jelly.png" width="25"/>9 <a href="royal-jelly.html"><span class="color-template color-template-royal-jelly color-template-background-clip">Royal Jellies</span></a><br/>
-<img alt="Oil" height="25" src="img/Oil.png" width="25"/>9 <a href="oil.html"><span class="color-template color-template-oil color-template-background-clip">Oils</span></a><br/>
-<img alt="Soft Wax" height="25" src="img/Soft_Wax.png" width="25"/>9 <a href="soft-wax.html"><span class="color-template color-template-soft-wax">Soft Waxes</span></a><br/>
-<img alt="Smooth Dice" height="25" src="img/Smooth_Dice.png" width="25"/>9 <a href="smooth-dice.html"><span class="color-template color-template-smooth-dice color-template-background-clip">Smooth Dice</span></a><br/>
-<img alt="Micro-Converter" height="25" src="img/Micro-Converter.png" width="25"/>9 <a href="micro-converter.html"><span class="color-template color-template-micro-converter color-template-background-clip">Micro-Converters</span></a>
-</p>
-</td></tr></tbody></table>
-
-### 2020
-
-This piece of content goes bye bye.
-
-The following content has been removed from the game. The contents below may be archival, but feel free to edit below.
-
-You need to be equipping the [Honey Mask](honey-mask.md) and have completed [Black Bear](black-bear.md)'s Honey Wreath quest to receive this quest.
-
-<table class="article-table mw-collapsible mw-collapsed">
-<tbody><tr>
-<th>Requirements
-</th>
-<th>Rewards
-</th></tr>
-<tr>
-<td>
-<ul><li>Collect 99,999 <a href="honey.html">Honey</a> Tokens.</li>
-<li>Collect 9,999 Tokens from <a href="passive-abilities.html#Coin_Scatter">Coin Scatter</a>.</li>
-<li>Collect 999 <a href="ability-tokens.html#Honey_Gift">Honey Gift</a> Tokens.</li>
-<li>Collect 999 <a href="treat.html">Treat</a> Tokens.</li>
-<li>Collect 99 Tokens from the <a href="honey-wreath.html">Honey Wreath</a>.</li>
-<li>Use the <a href="honey-dispenser.html">Honey Dispenser</a> 9 times.</li>
-<li>Feed 9,999 Treats to your Bees.</li>
-<li>Use 9 <a href="enzymes.html">Enzymes</a>.</li></ul>
-</td>
-<td>
-<p><img alt="Honey" height="25" src="img/Honey.png" width="25"/>99,999,999 <a href="honey.html"><span class="color-template color-template-honey">Honey</span></a><br/>
-<img alt="Treat" height="25" src="img/Treat.png" width="25"/>99,999 <a href="treat.html"><span class="color-template color-template-treat">Treats</span></a><br/>
-<img alt="Gingerbread Bear" height="25" src="img/Gingerbread_Bear.png" width="25"/>9 <a href="gingerbread-bear.html"><span class="color-template color-template-gingerbread-bear color-template-background-clip">Gingerbread Bears</span></a><br/>
-<img alt="Star Jelly" height="25" src="img/Star_Jelly.png" width="25"/>9 <a href="royal-jelly.html#Star_Jelly"><span class="color-template color-template-star-jelly color-template-background-clip">Star Jellies</span></a><br/>
-<img alt="Micro-Converter" height="25" src="img/Micro-Converter.png" width="25"/>9 <a href="micro-converter.html"><span class="color-template color-template-micro-converter color-template-background-clip">Micro-Converters</span></a><br/>
-<img alt="Oil" height="25" src="img/Oil.png" width="25"/>9 <a href="oil.html"><span class="color-template color-template-oil color-template-background-clip">Oils</span></a><br/>
-<span typeof="mw:Error mw:File"></span> Conversion Boost (2 hours)<br/>
-Summons a <a href="honeystorm.html">Honeystorm</a><br/>
-An upgrade to the <a href="honey-wreath.html">Honey Wreath</a>
 </p>
 </td></tr></tbody></table>
 
@@ -474,7 +257,7 @@ An upgrade to the <a href="honey-wreath.html">Honey Wreath</a>
 * Honey Bee is the only Bee Quest giver that you don't need a translator to talk to.
 * Honey Bee, [Science Bear](science-bear.md), and [Polar Bear](polar-bear.md) are the only quest givers to give a buff as a reward for finishing a quest.
 * Honey Bee, along with [Gifted Bucko Bee](gifted-bucko-bee.md), [Gifted Riley Bee](gifted-riley-bee.md), [Onett](onett.md), [Stick Bug](stick-bug.md), and [Bubble Bee Man](bubble-bee-man.md) are the only non-bear quest givers.
-* In the [Egg Hunt 2019 update](updates.md#2019-04-17), there was a Plastic Egg token hidden behind it.
+* In the Egg Hunt 2019 update, there was a Plastic Egg token hidden behind it.
   * It has been replaced by a ticket token granting 3 [Tickets](ticket.md).
   * Honey Bee was one of the three quest givers that did not give an Egg Hunt quest, the others being Onett and [Spirit Bear](spirit-bear.md).
 * Honey Bee is the only NPC whose Beesmas quest affected another NPC's machine (Black Bear's Honey Wreath).
@@ -484,8 +267,8 @@ An upgrade to the <a href="honey-wreath.html">Honey Wreath</a>
 * Honey Bee's quests are the only repeatable quests which don't contain the NPCs name followed by a colon (:).
 * During Beemas 2021, there was an error with Honey Bee’s ornament that made the Bag of Honey ornament and buffs are not visible to the player. This bug has been fixed and all players who gave Honey Bee a present before 2022-01-06 were refunded.
 * Honey Bee is one of the 2 NPCs (the other being Science Bear) that require you to join the [Bee Swarm Simulator Club](https://www.roblox.com/groups/3982592/Bee-Swarm-Simulator-Club#!/about) in order to access the Club Dispensers and complete their quests. Its Beesmas quests require you to use the Honey Dispenser.
-* It used to be located next to the ramp leading to the [Basic Bee Gate](basic-bee-gate.md), but it was moved behind the biggest tree in the Pine Tree Forest in the [2020-06-06 Update](updates.md#2020-06-06).
-  * It was possible to start the quest before the [2020-06-06 Update](updates.md#2020-06-06), and not have 15 bees when it moved, making the quest incompletable until you got 15 bees.
+* It used to be located next to the ramp leading to the [Basic Bee Gate](basic-bee-gate.md), but it was moved behind the biggest tree in the Pine Tree Forest in the 2020-06-06 Update.
+  * It was possible to start the quest before the 2020-06-06 Update, and not have 15 bees when it moved, making the quest incompletable until you got 15 bees.
 * Honey Bee is the only Bee NPC who doesn't have a specific HQ since Gifted Bucko and Gifted Riley represent the Blue and Red HQ respectively and there is currently no Colorless HQ.
 
 ## References

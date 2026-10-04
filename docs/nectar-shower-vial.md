@@ -19,7 +19,7 @@ CAP
 
 10
 
-The **Nectar Shower Vial** is a consumable [nectar vial](nectar-vial.md) [item](items.md) that was added in the [2024-12-25 update](updates.md#2024-12-25). Once used, it grants 4 hours of [all nectar](nectar.md) [buffs](buffs-debuffs.md) to every player in the server.
+The **Nectar Shower Vial** is a consumable [nectar vial](nectar-vial.md) [item](items.md) that was added in the 2024-12-25 update. Once used, it grants 4 hours of [all nectar](nectar.md) [buffs](buffs-debuffs.md) to every player in the server.
 
 When one is used, a message pops up saying
 (Username) has popped open a Nectar Shower Vial! for every player in the server.
@@ -32,13 +32,6 @@ When one is used, a message pops up saying
 * Purchasing the Feelin' Festive Pack for 800 Robux grants 5 **Nectar Shower Vials** and other items.
 * Completing [Spirit Bear](spirit-bear.md)'s Galentine Shrine quest in Beesmas 2025 rewards 1 **Nectar Shower Vial** and other items.
 * Completing [Dapper Bear](dapper-bear.md)'s Sticker Style quest rewards 1 **Nectar Shower Vial** and other items.
-
-### Outdated Ways
-
-* Purchasing the Royal Winter Wonder Haul (Expired April 30, 2025) for 4,500 Robux granted 10 **Nectar Shower Vials** and other items.
-* Completing [Bee Bear](bee-bear.md)'s "Cheering Up Gloomy Cub (4/5): Material Things?" rewarded 3 **Nectar Shower Vials**.
-* Completing [Bubble Bee Man](bubble-bee-man.md)'s "BBM's Naughty List" during Winter Beesmas 2024 rewarded 7 **Nectar Shower Vials**.
-* Purchasing the Cyber Monday Mythic Pack for 1,000 Robux granted 5 **Nectar Shower Vials** and other items.
 
 ## Trivia
 

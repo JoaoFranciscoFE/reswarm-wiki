@@ -21,7 +21,7 @@ Datamined information: The formula for the amount of Honey and Treats received b
 </div>
 <div class="pi-item pi-data pi-item-spacing pi-border-color" data-source="requirement">
 <h3 class="pi-data-label pi-secondary-font">Requirement(s)</h3>
-<div class="pi-data-value pi-font">Membership in the <a href="bee-swarm-simulator-club.html">Bee Swarm Simulator Club</a> group</div>
+<div class="pi-data-value pi-font">Membership in the Bee Swarm Simulator Club group</div>
 </div>
 <div class="pi-item pi-data pi-item-spacing pi-border-color" data-source="cooldown">
 <h3 class="pi-data-label pi-secondary-font">Cooldown</h3>
@@ -34,7 +34,7 @@ Datamined information: The formula for the amount of Honey and Treats received b
 </section>
 </aside>
 
-The **Treat Dispenser** is a dispenser located between the [Pineapple Patch](pineapple-patch.md) and the entrance of the [Pro Shop](pro-shop.md). Members of the [Bee Swarm Simulator Club](bee-swarm-simulator-club.md) can use it to collect [Honey](honey.md), [Treats](treat.md), 1 [Pineapple](pineapple.md), and x5 [Haste](ability-tokens.md#Haste) every hour. The number of [Treats](treat.md) varies, depending on the number of [bees](bees.md) the player has.
+The **Treat Dispenser** is a dispenser located between the [Pineapple Patch](pineapple-patch.md) and the entrance of the [Pro Shop](pro-shop.md). Members of the Bee Swarm Simulator Club can use it to collect [Honey](honey.md), [Treats](treat.md), 1 [Pineapple](pineapple.md), and x5 [Haste](ability-tokens.md#Haste) every hour. The number of [Treats](treat.md) varies, depending on the number of [bees](bees.md) the player has.
 
 If a player tries to use the Treat Dispenser without being in the group, they will get a prompt saying they must join the Bee Swarm Simulator Club.
 
@@ -383,5 +383,5 @@ Below is a table of the amount of honey and treats a player receives, given the 
 <tr>
 <th class="NavCategory">Event<br/>Locations
 </th>
-<td class="NavLinks NavLinksBasicEven"><b><a href="beesmas-tree.html">Beesmas Tree</a> • <a href="ornament-presents.html">Ornament Presents</a> • <span class="new" data-uncrawlable-url="L3dpa2kvQ29tcHV0ZXI/YWN0aW9uPWVkaXQmcmVkbGluaz0x" title="Computer (page does not exist)">Computer</span> • <a href="gift-boxes.html">Gift Boxes</a> • <a href="honey-wreath.html">Honey Wreath</a> • <a href="stockings.html">Stockings</a> • <a href="gingerbread-house.html">Gingerbread House</a> • <a href="snowbear-summoner.html">Snowbear Summoner</a> • <a href="beesmas-lights.html">Beesmas Lights</a> • <a href="samovar.html">Samovar</a> • <a href="beesmas-feast.html">Beesmas Feast</a> • <a href="onett-s-lid-art.html">Onett's Lid Art</a> • <a href="wind-shrine.html#Galentine_Shrine">Galentine Shrine</a> • <a href="memory-match.html#Winter_Memory_Match">Winter Memory Match</a> • <a href="snow-machine.html">Snow Machine</a> • <a href="honeyday-candles.html">Honeyday Candles</a> • <a href="robo-party-cake.html">Robo Party Cake</a> • <a href="gummy-beacon.html">Gummy Beacon</a> • <a href="naughty-list.html">Naughty List</a></b>
+<td class="NavLinks NavLinksBasicEven"><b><a href="beesmas-tree.html">Beesmas Tree</a> • <span class="new" data-uncrawlable-url="L3dpa2kvQ29tcHV0ZXI/YWN0aW9uPWVkaXQmcmVkbGluaz0x" title="Computer (page does not exist)">Computer</span> • <a href="gift-boxes.html">Gift Boxes</a> • <a href="honey-wreath.html">Honey Wreath</a> • <a href="stockings.html">Stockings</a> • <a href="gingerbread-house.html">Gingerbread House</a> • <a href="snowbear-summoner.html">Snowbear Summoner</a> • <a href="beesmas-lights.html">Beesmas Lights</a> • <a href="samovar.html">Samovar</a> • <a href="beesmas-feast.html">Beesmas Feast</a> • <a href="onett-s-lid-art.html">Onett's Lid Art</a> • <a href="wind-shrine.html#Galentine_Shrine">Galentine Shrine</a> • <a href="memory-match.html#Winter_Memory_Match">Winter Memory Match</a> • <a href="snow-machine.html">Snow Machine</a> • <a href="honeyday-candles.html">Honeyday Candles</a> • <a href="robo-party-cake.html">Robo Party Cake</a> • <a href="gummy-beacon.html">Gummy Beacon</a> • <a href="naughty-list.html">Naughty List</a></b>
 </td></tr></tbody></table>

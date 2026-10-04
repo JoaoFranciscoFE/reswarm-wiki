@@ -19,7 +19,7 @@ CAP
 
 25
 
-The **Black Balloon** is a consumable [item](items.md#Misc._Items) that was added in the [2021-12-26 update](updates.md). Once used, it creates a black balloon over the [field](fields.md) the player is in. The balloon floats over the field for 5 minutes before floating to the hive balloon, storing the [pollen](pollen.md) collected underneath it. The pollen collected below is multiplied by 4, and it holds up to 25 times the player's capacity. Only 1 **Black Balloon** can be summoned in a field per player.
+The **Black Balloon** is a consumable [item](items.md#Misc._Items) that was added in the 2021-12-26 update. Once used, it creates a black balloon over the [field](fields.md) the player is in. The balloon floats over the field for 5 minutes before floating to the hive balloon, storing the [pollen](pollen.md) collected underneath it. The pollen collected below is multiplied by 4, and it holds up to 25 times the player's capacity. Only 1 **Black Balloon** can be summoned in a field per player.
 
 Black balloons have a cap of 25 in the player's inventory. Obtaining one while already having 25 will not add a Black Balloon to the player's inventory, unless obtained from robux packs, [quests](quests.md), or [codes](codes.md).
 
@@ -31,35 +31,6 @@ Black balloons have a cap of 25 in the player's inventory. Obtaining one while a
 * Sticking the Black Star Sticker to the Sticker Stacker rewards one Black Balloon.
 * As a drop from Robo Party mobs.
 * Purchasing the Saint Puff's Pack in [Bee Bear's Catalog](bee-bear-s-catalog.md) during Beesmas 2025 gives you 1 **Black Balloon** and other items.
-
-### Outdated Ways
-
-<table class="mw-collapsible mw-collapsed article-table">
-<caption>
-</caption>
-<tbody><tr>
-<td>
-<ul><li>Opening certain <a href="gift-boxes.html">Gift Boxes</a>:
-<ul><li>The Midnight Gift Box gave 1 black balloon + other items.</li></ul></li>
-<li>Purchasing certain offers in the <a href="robux-shop.html">Robux Shop</a>:
-<ul><li>Purchasing the Buoyant Pack for 800 robux gave 3 black balloons and other items.</li>
-<li>Purchasing the Cyber Monday Pack for 800 robux gave 1 black balloon and other items.</li></ul></li>
-<li>Completing <a href="onett.html">Onett</a>'s Beesmas 2021 Quest "Onett's Yard Art on The Lid" rewarded <img alt="Black Balloon" height="25" src="img/Black_Balloon.png" width="25"/>1 <strong class="mw-selflink selflink"><span class="color-template color-template-black-balloon">Black Balloon</span></strong> and other items.</li>
-<li>Completing <a href="bee-bear.html">Bee Bear</a>'s 5th Snow Cub Reformation rewarded <img alt="Black Balloon" height="25" src="img/Black_Balloon.png" width="25"/>3 <strong class="mw-selflink selflink"><span class="color-template color-template-black-balloon">Black Balloons</span></strong> and other items.</li>
-<li>As a reward from completing <a href="panda-bear.html">Panda Bear's</a> Beesmas 2022 quest (Rewards <img alt="Black Balloon" height="25" src="img/Black_Balloon.png" width="25"/>1 <strong class="mw-selflink selflink"><span class="color-template color-template-black-balloon">Black Balloon</span></strong> + other items).</li>
-<li>Purchasing certain offers in <a href="bee-bear-s-catalog.html">Bee Bear's Catalog</a>.
-<ul><li>Purchasing the Balloon Bundle in <a href="bee-bear-s-catalog.html">Bee Bear's Catalog</a> during Beesmas 2022, granting <img alt="Black Balloon" height="25" src="img/Black_Balloon.png" width="25"/>1 <strong class="mw-selflink selflink"><span class="color-template color-template-black-balloon">Black Balloon</span></strong> + other items.</li>
-<li>Purchasing the Dicey Bundle in Beesmas 2024 gave 1 black balloon and other items.</li></ul></li>
-<li>Completing <a href="sun-bear.html">Sun Bear's</a> Waiting With Sun Bear (6/6): Still Stranded rewards 1 Black Balloon and other items.</li>
-<li>As a reward from completing <a href="bee-bear.html">Bee Bear's</a> 20th Beesmas 2022 quest (Rewards 5 Black Balloons + other items).</li></ul>
-</td></tr></tbody></table>
-
-<table class="mw-collapsible autocollapse" style="margin:auto; background:#000; font-size: 10pt; border:5px solid #56CB5A; width: 100%; border-radius: 20px; -moz-border-radius: 20px; -webkit-border-radius: 20px; -khtml-border-radius: 20px; -icab-border-radius: 20px; -o-border-radius: 20px;">
-<tbody><tr>
-<th colspan="2" style="padding-bottom: 1px; background:#FFEB7C; color:#000; border-radius: 15px; -moz-border-radius: 15px; -webkit-border-radius: 15px; -khtml-border-radius: 15px; -icab-border-radius: 15px; -o-border-radius: 15px; padding: 2px 15px;">Items
-</th></tr>
-<tr>
-<td colspan="2"><div style="clear:both"></div>
 
 <table class="mw-collapsible mw-collapsed NavTable">
 <tbody><tr>
@@ -115,7 +86,7 @@ Black balloons have a cap of 25 in the player's inventory. Obtaining one while a
 </th>
 <th class="NavCategory">Quest Exclusive
 </th>
-<td class="NavLinks NavLinksBasicEven"><b><img alt="Translator" height="35" src="img/Translator.png" width="35"/> <a href="translator.html">Translator</a> • <img alt="Spirit Petal" height="35" src="img/Spirit_Petal.png" width="35"/> <a href="spirit-petal.html">Spirit Petal</a> • <img alt="Debug Wax" height="35" src="img/Debug_Wax.png" width="35"/> <a href="debug-wax.html">Debug Wax</a> • <img alt="Nectar Tester" height="35" src="img/Nectar_Tester.png" width="35"/> <a href="nectar-tester.html">Nectar Tester</a></b> • <span typeof="mw:Error mw:File"></span> <a href="bbm-s-apology.html">BBM's Apology</a><b></b>
+<td class="NavLinks NavLinksBasicEven"><b><img alt="Translator" height="35" src="img/Translator.png" width="35"/> <a href="translator.html">Translator</a> • <img alt="Spirit Petal" height="35" src="img/Spirit_Petal.png" width="35"/> <a href="spirit-petal.html">Spirit Petal</a> • <img alt="Debug Wax" height="35" src="img/Debug_Wax.png" width="35"/> <a href="debug-wax.html">Debug Wax</a> • <img alt="Nectar Tester" height="35" src="img/Nectar_Tester.png" width="35"/> <a href="nectar-tester.html">Nectar Tester</a></b> • <span typeof="mw:Error mw:File"></span> <b></b>
 </td></tr>
 <tr>
 <th class="NavCategory">Beesmas

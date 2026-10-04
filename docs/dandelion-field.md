@@ -188,12 +188,12 @@ This is an 18x36 field, containing 648 [flowers](flowers.md). The flowers are wh
 
 ## Trivia
 
-* Before the [2019-09-28 update](updates.md#2019-09-28), the Dandelion Field was the only field that was mob-proof, meaning no mobs could spawn/attack there.
+* Before the 2019-09-28 update, the Dandelion Field was the only field that was mob-proof, meaning no mobs could spawn/attack there.
 * There is a [royal jelly](royal-jelly.md) token on top of the tallest dandelion which can be obtained by using the [Parachute](parachute.md)/[Glider](glider.md) with cannons or from a high place.
   * This is also the only dandelion in the field that has collision at its top.
 * The [Bubble Wand](bubble-wand.md) model on the [Blue HQ](blue-hq.md) can grow a face and blow [sparkles](sparkles.md) onto this field, along with the [Mushroom Field](mushroom-field.md), [Clover Field](clover-field.md), and [Blue Flower Field](blue-flower-field.md).
 * The [All-Time Top Honeymakers Leaderboard](all-time-top-honeymakers.md) is adjacent to the Dandelion Field.
-* There used to be a [glitch](glitches.md) where [Stick Bug](stick-bug.md) could fall from the tallest mushroom and land in the Dandelion Field. This has now been patched.
+* There used to be a glitch where [Stick Bug](stick-bug.md) could fall from the tallest mushroom and land in the Dandelion Field. This has now been patched.
 * During the Ready Player Two event, the field can be seen glitching after using the Computer.
 * [Onett](onett.md) threatens to remove every field but the Dandelion Field if the [bees](bees.md) and bears don't stop complaining in his Star Journey 2 quest dialogue. He then follows this up stating he wouldn't really do this though.
 
@@ -239,5 +239,5 @@ This is an 18x36 field, containing 648 [flowers](flowers.md). The flowers are wh
 <tr>
 <th class="NavCategory">Event<br/>Locations
 </th>
-<td class="NavLinks NavLinksBasicEven"><b><a href="beesmas-tree.html">Beesmas Tree</a> • <a href="ornament-presents.html">Ornament Presents</a> • <span class="new" data-uncrawlable-url="L3dpa2kvQ29tcHV0ZXI/YWN0aW9uPWVkaXQmcmVkbGluaz0x" title="Computer (page does not exist)">Computer</span> • <a href="gift-boxes.html">Gift Boxes</a> • <a href="honey-wreath.html">Honey Wreath</a> • <a href="stockings.html">Stockings</a> • <a href="gingerbread-house.html">Gingerbread House</a> • <a href="snowbear-summoner.html">Snowbear Summoner</a> • <a href="beesmas-lights.html">Beesmas Lights</a> • <a href="samovar.html">Samovar</a> • <a href="beesmas-feast.html">Beesmas Feast</a> • <a href="onett-s-lid-art.html">Onett's Lid Art</a> • <a href="wind-shrine.html#Galentine_Shrine">Galentine Shrine</a> • <a href="memory-match.html#Winter_Memory_Match">Winter Memory Match</a> • <a href="snow-machine.html">Snow Machine</a> • <a href="honeyday-candles.html">Honeyday Candles</a> • <a href="robo-party-cake.html">Robo Party Cake</a> • <a href="gummy-beacon.html">Gummy Beacon</a> • <a href="naughty-list.html">Naughty List</a></b>
+<td class="NavLinks NavLinksBasicEven"><b><a href="beesmas-tree.html">Beesmas Tree</a> • <span class="new" data-uncrawlable-url="L3dpa2kvQ29tcHV0ZXI/YWN0aW9uPWVkaXQmcmVkbGluaz0x" title="Computer (page does not exist)">Computer</span> • <a href="gift-boxes.html">Gift Boxes</a> • <a href="honey-wreath.html">Honey Wreath</a> • <a href="stockings.html">Stockings</a> • <a href="gingerbread-house.html">Gingerbread House</a> • <a href="snowbear-summoner.html">Snowbear Summoner</a> • <a href="beesmas-lights.html">Beesmas Lights</a> • <a href="samovar.html">Samovar</a> • <a href="beesmas-feast.html">Beesmas Feast</a> • <a href="onett-s-lid-art.html">Onett's Lid Art</a> • <a href="wind-shrine.html#Galentine_Shrine">Galentine Shrine</a> • <a href="memory-match.html#Winter_Memory_Match">Winter Memory Match</a> • <a href="snow-machine.html">Snow Machine</a> • <a href="honeyday-candles.html">Honeyday Candles</a> • <a href="robo-party-cake.html">Robo Party Cake</a> • <a href="gummy-beacon.html">Gummy Beacon</a> • <a href="naughty-list.html">Naughty List</a></b>
 </td></tr></tbody></table>

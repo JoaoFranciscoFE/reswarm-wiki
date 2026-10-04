@@ -64,7 +64,7 @@ Once the 30th blue ability token is collected, the Diamond Mask's passive abilit
 
 ## Trivia
 
-* Prior to the [2019-09-28 Update](updates.md#2019-09-28), the player was unable to jump on the moon platforms during the day, similar to the moon platforms in the [Bear Gate](bear-gate.md) and behind [Dapper Bear's Shop](dapper-bear-s-shop.md), even if they already own the Diamond Mask.
+* Prior to the 2019-09-28 Update, the player was unable to jump on the moon platforms during the day, similar to the moon platforms in the [Bear Gate](bear-gate.md) and behind [Dapper Bear's Shop](dapper-bear-s-shop.md), even if they already own the Diamond Mask.
 * If the ingredients to craft this item were to be crafted, a total of 5,000,000,000 honey, 4,000 [Royal Jellies](royal-jelly.md), 12,500 [Blueberries](blueberry.md), 7,500 [Sunflower Seeds](sunflower-seed.md), 100 [Magic Beans](magic-bean.md), 2,500 Moon Charms, and 5 [Diamond Eggs](egg.md#Diamond_Egg) are needed, or 2000 [tickets](ticket.md) if one decides to purchase all the diamond eggs from the [ticket tent](ticket-tent.md).
 * This and the [Honey Mask](honey-mask.md) are the only [items](items.md) that require [eggs](egg.md) to craft.
 * This mask and the [Demon Mask](demon-mask.md) are the only masks in the game that resemble [Legendary bees](bees-legendary.md).
@@ -137,7 +137,7 @@ Once the 30th blue ability token is collected, the Diamond Mask's passive abilit
 </th>
 <th class="NavCategory">Quest Exclusive
 </th>
-<td class="NavLinks NavLinksBasicEven"><b><img alt="Translator" height="35" src="img/Translator.png" width="35"/> <a href="translator.html">Translator</a> • <img alt="Spirit Petal" height="35" src="img/Spirit_Petal.png" width="35"/> <a href="spirit-petal.html">Spirit Petal</a> • <img alt="Debug Wax" height="35" src="img/Debug_Wax.png" width="35"/> <a href="debug-wax.html">Debug Wax</a> • <img alt="Nectar Tester" height="35" src="img/Nectar_Tester.png" width="35"/> <a href="nectar-tester.html">Nectar Tester</a></b> • <span typeof="mw:Error mw:File"></span> <a href="bbm-s-apology.html">BBM's Apology</a><b></b>
+<td class="NavLinks NavLinksBasicEven"><b><img alt="Translator" height="35" src="img/Translator.png" width="35"/> <a href="translator.html">Translator</a> • <img alt="Spirit Petal" height="35" src="img/Spirit_Petal.png" width="35"/> <a href="spirit-petal.html">Spirit Petal</a> • <img alt="Debug Wax" height="35" src="img/Debug_Wax.png" width="35"/> <a href="debug-wax.html">Debug Wax</a> • <img alt="Nectar Tester" height="35" src="img/Nectar_Tester.png" width="35"/> <a href="nectar-tester.html">Nectar Tester</a></b> • <span typeof="mw:Error mw:File"></span> <b></b>
 </td></tr>
 <tr>
 <th class="NavCategory">Beesmas

@@ -15,7 +15,7 @@ COOLDOWN
 
 1 second
 
-**Field Dice** is an inventory item added in the [2019-04-05 update](updates.md#2019-04-05). When used, It boosts a random [field](fields.md) the player has access to, granting a +100% [pollen](pollen.md) [Field Boost](field-boost.md) for that field for 15 minutes. If the player uses another field dice, or any other type of dice while a Field Boost from a dice is still active, the new field boost will override the old one, preventing the Field Boost from stacking up.
+**Field Dice** is an inventory item added in the 2019-04-05 update. When used, It boosts a random [field](fields.md) the player has access to, granting a +100% [pollen](pollen.md) [Field Boost](field-boost.md) for that field for 15 minutes. If the player uses another field dice, or any other type of dice while a Field Boost from a dice is still active, the new field boost will override the old one, preventing the Field Boost from stacking up.
 
 As of the 2021-12-26 Update, there are currently 3 types of dice in the game, those being Field Dice, [Smooth Dice](smooth-dice.md) and [Loaded Dice](loaded-dice.md).
 
@@ -71,41 +71,6 @@ The following audio plays when a field dice is used:
   * Echoing Call gives 10 field dice.
 * [Sun Bear](sun-bear.md) rewards field dice on the following quest:
   * ⛳Golfing With Sun Bear (2/3): Right On Target gives 3 field dice.
-
-### Outdated Ways
-
-<table class="mw-collapsible mw-collapsed article-table">
-<caption>
-</caption>
-<tbody><tr>
-<td>
-<ul><li><a href="bee-bear.html">Bee Bear</a> rewards field dice on the following quests:
-<ul><li>Robotic Beesmas gives 1 field dice.</li>
-<li>Commence The Wrapping gives 5 field dice.</li>
-<li>Merry Mechsquitos gives 10 field dice.</li></ul></li>
-<li>Purchasing the Whirling Bundle in <a href="bee-bear-s-catalog.html">Bee Bear's Catalog</a>.</li>
-<li>As a reward from the Robo Party.</li>
-<li>As a drop from <a href="stockings.html">stockings</a>.</li>
-<li>Opening up the <a href="ornament-presents.html">Funky Present</a> gave 4 field dice along with other items.</li>
-<li>Collecting the field dice token found inside of the <a href="beesmas-tree.html">Beesmas Tree</a> during Beesmas 2019.</li>
-<li>Purchasing the Booster Bundle during Beesmas 2020 from <a href="bee-bear-s-catalog.html">Bee Bear's Catalog</a> gave 5 field dice along with other items.</li>
-<li>Redeeming certain expired codes:
-<ul><li>FeelingLucky (Gave 3 field dice and 1h <a href="buffs-debuffs.html#From_NPCs">Conversion Boost</a>).</li>
-<li>BeeDay2019 (Gave 1 field dice + other stuff).</li>
-<li>ClubCloud (Gave 1 field dice + other stuff).</li>
-<li>Reboot2020 (Gave 1 field dice + other stuff).</li>
-<li>BeesmasBegins (Gave 1 field dice + other stuff).</li>
-<li>2Years (Gave 3 field dice + other stuff).</li>
-<li>4MilMembers (Gave 4 field dice + other stuff).</li>
-<li>NewMic (Gave 10 field dice + other stuff).</li>
-<li>BlackFriday (Gave 1 field dice + other stuff).</li>
-<li>3YearParty (Gave 1 field dice + other stuff).</li>
-<li>500mil (Gave 5 field dice + other stuff).</li>
-<li>1MLikes (Gave 1 field dice + other stuff).</li>
-<li>WalmartToys (Gives 1 field dice + other stuff).</li></ul></li></ul>
-<p>.
-</p>
-</td></tr></tbody></table>
 
 ## Crafting Uses
 
@@ -221,7 +186,7 @@ You are already rolling a dice
 </th>
 <th class="NavCategory">Quest Exclusive
 </th>
-<td class="NavLinks NavLinksBasicEven"><b><img alt="Translator" height="35" src="img/Translator.png" width="35"/> <a href="translator.html">Translator</a> • <img alt="Spirit Petal" height="35" src="img/Spirit_Petal.png" width="35"/> <a href="spirit-petal.html">Spirit Petal</a> • <img alt="Debug Wax" height="35" src="img/Debug_Wax.png" width="35"/> <a href="debug-wax.html">Debug Wax</a> • <img alt="Nectar Tester" height="35" src="img/Nectar_Tester.png" width="35"/> <a href="nectar-tester.html">Nectar Tester</a></b> • <span typeof="mw:Error mw:File"></span> <a href="bbm-s-apology.html">BBM's Apology</a><b></b>
+<td class="NavLinks NavLinksBasicEven"><b><img alt="Translator" height="35" src="img/Translator.png" width="35"/> <a href="translator.html">Translator</a> • <img alt="Spirit Petal" height="35" src="img/Spirit_Petal.png" width="35"/> <a href="spirit-petal.html">Spirit Petal</a> • <img alt="Debug Wax" height="35" src="img/Debug_Wax.png" width="35"/> <a href="debug-wax.html">Debug Wax</a> • <img alt="Nectar Tester" height="35" src="img/Nectar_Tester.png" width="35"/> <a href="nectar-tester.html">Nectar Tester</a></b> • <span typeof="mw:Error mw:File"></span> <b></b>
 </td></tr>
 <tr>
 <th class="NavCategory">Beesmas

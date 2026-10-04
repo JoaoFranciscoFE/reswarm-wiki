@@ -5,7 +5,7 @@ tags: ["Inventory", "Mechanics"]
 
 # Sticker
 
-A **Sticker** is a collectible item added in the [2024-01-12 update](updates.md#2024-01-12). They can be placed on the player's [hive](hive.md) by dragging them from the Sticker Book as cosmetics; stacked on the [Sticker Stack](sticker-stack.md); [traded](trading.md) for other stickers, [Beequips](beequip.md), or hive skins; or turned in for [quests](quests.md).
+A **Sticker** is a collectible item added in the 2024-01-12 update. They can be placed on the player's [hive](hive.md) by dragging them from the Sticker Book as cosmetics; stacked on the [Sticker Stack](sticker-stack.md); [traded](trading.md) for other stickers, [Beequips](beequip.md), or hive skins; or turned in for [quests](quests.md).
 
 Each sticker has a unique method of obtainment; certain stickers are awarded from achievements, which can only be accomplished once per player, while others spawn on walls around the map, are obtained by the [Sticker Printer](sticker-printer.md), and many other ways.
 

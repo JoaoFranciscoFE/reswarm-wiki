@@ -54,8 +54,8 @@ The **Beekeeper's Mask** is a mask that can be purchased from the [Mountain Top 
 ## Trivia
 
 * This, the [Propeller Hat](propeller-hat.md), the [Helmet](helmet.md), and the Strange Goggles are the only hat accessories whose designs are not based on a bee.
-* Prior to the [2018-11-25 update](updates.md#2018-11-25), it was the most expensive hat accessory in the game, costing 25 million honey and no crafting materials.
-* This item was rebalanced in the [2018-09-10 Update](updates.md#2018-09-10). Before the update, its stats were:
+* Prior to the 2018-11-25 update, it was the most expensive hat accessory in the game, costing 25 million honey and no crafting materials.
+* This item was rebalanced in the 2018-09-10 Update. Before the update, its stats were:
   * +25% [Pollen from Bees](system-page.md#Pollen_From_Bees)
   * +25% [Instant Conversion](system-page.md#Instant_Conversion)
   * +25% [Defense](system-page.md#Defense)
@@ -125,7 +125,7 @@ The **Beekeeper's Mask** is a mask that can be purchased from the [Mountain Top 
 </th>
 <th class="NavCategory">Quest Exclusive
 </th>
-<td class="NavLinks NavLinksBasicEven"><b><img alt="Translator" height="35" src="img/Translator.png" width="35"/> <a href="translator.html">Translator</a> • <img alt="Spirit Petal" height="35" src="img/Spirit_Petal.png" width="35"/> <a href="spirit-petal.html">Spirit Petal</a> • <img alt="Debug Wax" height="35" src="img/Debug_Wax.png" width="35"/> <a href="debug-wax.html">Debug Wax</a> • <img alt="Nectar Tester" height="35" src="img/Nectar_Tester.png" width="35"/> <a href="nectar-tester.html">Nectar Tester</a></b> • <span typeof="mw:Error mw:File"></span> <a href="bbm-s-apology.html">BBM's Apology</a><b></b>
+<td class="NavLinks NavLinksBasicEven"><b><img alt="Translator" height="35" src="img/Translator.png" width="35"/> <a href="translator.html">Translator</a> • <img alt="Spirit Petal" height="35" src="img/Spirit_Petal.png" width="35"/> <a href="spirit-petal.html">Spirit Petal</a> • <img alt="Debug Wax" height="35" src="img/Debug_Wax.png" width="35"/> <a href="debug-wax.html">Debug Wax</a> • <img alt="Nectar Tester" height="35" src="img/Nectar_Tester.png" width="35"/> <a href="nectar-tester.html">Nectar Tester</a></b> • <span typeof="mw:Error mw:File"></span> <b></b>
 </td></tr>
 <tr>
 <th class="NavCategory">Beesmas

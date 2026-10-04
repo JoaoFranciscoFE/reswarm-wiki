@@ -68,7 +68,7 @@ BONUS ITEMS
 
 -
 
-The **Paper Planter** is a single-use [planter](planter.md) added in the [2021-12-26 update](updates.md#2021-12-26). Alone, it grows in 1 hour and stores 50,000 pollen. It can be bought in the [Pro Shop](pro-shop.md) for 25,000 [Honey](honey.md) and 1 [Sunflower Seed](sunflower-seed.md). A player can store up to 100 Paper Planters at a time, but only 1 can be active.
+The **Paper Planter** is a single-use [planter](planter.md) added in the 2021-12-26 update. Alone, it grows in 1 hour and stores 50,000 pollen. It can be bought in the [Pro Shop](pro-shop.md) for 25,000 [Honey](honey.md) and 1 [Sunflower Seed](sunflower-seed.md). A player can store up to 100 Paper Planters at a time, but only 1 can be active.
 
 It does not have any growth nor pollen multipliers, and grants x0.75 [nectar](nectar.md).
 

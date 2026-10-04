@@ -386,7 +386,7 @@ Crimson Bee likes the [Clover Field](clover-field.md) and the [Rose Field](rose-
 <figure class="thumb" style="width: 180px" typeof="mw:File/Thumb">  <figcaption class="thumbcaption"> </figcaption> </figure>
 
 * The description of the Red Bomb Sync ability used to be spelled incorrectly as "apples" instead of "applies".
-  * [Onett](onett-developer.md) was aware of this and instead changed the "apples" to "🍎 s".
+  * Onett was aware of this and instead changed the "apples" to "🍎 s".
   * However, this has since been corrected.
 * This bee, Cobalt Bee, [Photon Bee](photon-bee.md), [Windy Bee](windy-bee.md), [Tadpole Bee](tadpole-bee.md), [Ninja Bee](ninja-bee.md) and [Shy Bee](shy-bee.md) are the only bees that create a trail.
 * The [Crimson Guard](crimson-guard.md), which can be purchased in the [Badge Bearer's Guild](badge-bearer-s-guild.md), has a special design, name, and stats dedicated to Crimson Bee.

@@ -466,7 +466,7 @@ Vicious Bee likes the [Cactus Field](cactus-field.md) and the [Rose Field](rose-
 * Vicious Bee, [Ninja Bee](ninja-bee.md), and Cobalt Bee are the only blue bees that don't like [Blueberries](blueberry.md).
 * Vicious Bee, [Bear Bee](bear-bee.md), [Gummy Bee](gummy-bee.md), Windy Bee, and [Digital Bee](digital-bee.md) are the only Event bees that cannot be purchased in the [Ticket Tent](ticket-tent.md). These four bees, along with [Festive Bee](festive-bee.md) and Puppy Bee, are also the only Event bees that could have been obtained without spending tickets. Gummy Bee was in the Ticket Tent at one point, however.
 * Vicious Bee, Cobalt Bee, Crimson Bee, and [Photon Bee](photon-bee.md) are the only event bees that can't have a 1st Edition Flag.
-  * [Onett](onett-developer.md) has stated that the reason a [First Edition](first-edition-bee.md) Vicious Bee does not exist is because there is no room for a 1st Flag on its back with the spikes.[1]
+  * Onett has stated that the reason a [First Edition](first-edition-bee.md) Vicious Bee does not exist is because there is no room for a 1st Flag on its back with the spikes.[1]
 * Vicious Bee, the [Stick Bug Amulet](stick-bug-amulet.md), and the Spider Field [Market Boost](boost-market.md) are the only sources of the -% Mob Respawn Time stats.
 * According to [Black Bear](black-bear.md)'s dialogue during his [quest](quests.md) "Black Bear, Why?", Black Bear dislikes this bee.
 

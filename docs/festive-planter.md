@@ -74,7 +74,7 @@ Eggs
 
 Night Bell
 
-The **Festive Planter** is a Beesmas-exclusive single-use planter added in the [2021-12-26 update](updates.md#2021-12-26). Alone, it grows in 4 hours of playtime and stores 250,000 [pollen](pollen.md). A player can store up to 100 Festive Planters at a time, but only 1 can be active.
+The **Festive Planter** is a Beesmas-exclusive single-use planter added in the 2021-12-26 update. Alone, it grows in 4 hours of playtime and stores 250,000 [pollen](pollen.md). A player can store up to 100 Festive Planters at a time, but only 1 can be active.
 
 It does not have any growth nor pollen multipliers, and grants 3x more [nectar](nectar.md).
 
@@ -141,44 +141,6 @@ When claimed, the planter gives up to 80 tokens worth of items. If the planter w
 ## Ways to Obtain
 
 **There are currently no ways to obtain a **Festive Planter**.**
-
-### Outdated Ways
-
-<table class="mw-collapsible mw-collapsed article-table">
-<caption>
-</caption>
-<tbody><tr>
-<td>
-<ul><li>By purchasing certain items/bundles from <a href="bee-bear-s-catalog.html">Bee Bear's Catalog</a>:
-<ul><li>Buying the Festive Planter for 100 <a href="snowflake.html">Snowflakes</a> and 10 <a href="gingerbread-bear.html">Gingerbread Bears</a> during the 2021, 2022 and 2024 Beesmas events.</li>
-<li>Buying the Hefty Honeyday Bundle in Bee Bear's Catalog for <img alt="Snowflake" height="25" src="img/Snowflake.png" width="25"/>25,000 <a href="snowflake.html"><span class="color-template color-template-snowflake color-template-background-clip">Snowflakes</span></a> and <img alt="Gingerbread Bear" height="25" src="img/Gingerbread_Bear.png" width="25"/>250 <a href="gingerbread-bear.html"><span class="color-template color-template-gingerbread-bear color-template-background-clip">Gingerbread Bears</span></a> gave <img alt="Festive Planter" height="25" src="img/Festive_Planter.png" width="25"/>10 <strong class="mw-selflink selflink"><span class="color-template color-template-festive-planter color-template-background-clip">Festive Planters</span></strong> and other items.</li>
-<li>Purchasing the Purple Planter Pack for 800 Robux gives <img alt="Festive Planter" height="25" src="img/Festive_Planter.png" width="25"/>2 <strong class="mw-selflink selflink"><span class="color-template color-template-festive-planter color-template-background-clip">Festive Planters</span></strong> and other items.</li>
-<li>Buying the Merry Mondo Bundle for <img alt="Snowflake" height="25" src="img/Snowflake.png" width="25"/>25,000 <a href="snowflake.html"><span class="color-template color-template-snowflake color-template-background-clip">Snowflakes</span></a> and <img alt="Gingerbread Bear" height="25" src="img/Gingerbread_Bear.png" width="25"/>250 <a href="gingerbread-bear.html"><span class="color-template color-template-gingerbread-bear color-template-background-clip">Gingerbread Bears</span></a> which gives <img alt="Festive Planter" height="25" src="img/Festive_Planter.png" width="25"/>10 <strong class="mw-selflink selflink"><span class="color-template color-template-festive-planter color-template-background-clip">Festive Planters</span></strong> and other items.</li>
-<li>Purchasing the Festive Bundle For 750 <a href="snowflake.html">Snowflakes</a> and 75 <a href="gingerbread-bear.html">Gingerbread Bear</a> which gives <img alt="Festive Planter" height="25" src="img/Festive_Planter.png" width="25"/>2 <strong class="mw-selflink selflink"><span class="color-template color-template-festive-planter color-template-background-clip">Festive Planters</span></strong> and other items.</li>
-<li>Purchasing in Bee Bear's Catalog for 100 <a href="snowflake.html">Snowflakes</a> and 10 <a href="gingerbread-bear.html">Gingerbread Bears</a>.</li>
-<li>Purchasing the Planter Sampler Pack gives  <img alt="Festive Planter" height="25" src="img/Festive_Planter.png" width="25"/>1 <strong class="mw-selflink selflink"><span class="color-template color-template-festive-planter color-template-background-clip">Festive Planter</span></strong> and other items.</li>
-<li>Purchasing the Triumphant Turp Pack gives <img alt="Festive Planter" height="25" src="img/Festive_Planter.png" width="25"/>10 <strong class="mw-selflink selflink"><span class="color-template color-template-festive-planter color-template-background-clip">Festive Planters</span></strong> and other items.</li>
-<li>Purchasing the "Festive Fun Pack" in <a href="bee-bear-s-catalog.html">Bee Bear's Catalog</a> for <img alt="Snowflake" height="25" src="img/Snowflake.png" width="25"/>1,000 <a href="snowflake.html"><span class="color-template color-template-snowflake color-template-background-clip">Snowflakes</span></a> and  <img alt="Gingerbread Bear" height="25" src="img/Gingerbread_Bear.png" width="25"/>5 <a href="gingerbread-bear.html"><span class="color-template color-template-gingerbread-bear color-template-background-clip">Gingerbread Bears</span></a> during Beesmas 2025 gave <img alt="Festive Planter" height="25" src="img/Festive_Planter.png" width="25"/>1 <strong class="mw-selflink selflink"><span class="color-template color-template-festive-planter color-template-background-clip">Festive Planter</span></strong> and other items.</li>
-<li>Purchasing the "Purple-Turple Mega Pack" in Bee Bear's Catalog for <img alt="Snowflake" height="25" src="img/Snowflake.png" width="25"/>25,000 <a href="snowflake.html"><span class="color-template color-template-snowflake color-template-background-clip">Snowflakes</span></a> and <img alt="Gingerbread Bear" height="25" src="img/Gingerbread_Bear.png" width="25"/>250 <a href="gingerbread-bear.html"><span class="color-template color-template-gingerbread-bear color-template-background-clip">Gingerbread Bears</span></a> during Beesmas 2025 gave <img alt="Festive Planter" height="25" src="img/Festive_Planter.png" width="25"/>10 <strong class="mw-selflink selflink"><span class="color-template color-template-festive-planter color-template-background-clip">Festive Planters</span></strong> and other items.</li></ul></li>
-<li>Completing <a href="bee-bear.html">Bee Bear's</a> 5th and 10th quest of Snow Cub Reformation.</li>
-<li>By opening certain <a href="gift-boxes.html">Gift Boxes</a>:
-<ul><li>Opening the Festive Gift Box from 2021 gave 1 Festive Planter, 2 if the player already had the <a href="festive-wreath.html">Festive Wreath</a>, it also gave other items.</li>
-<li>Opening the Festive Gift Box from 2022  or 2024 gave <img alt="Festive Planter" height="25" src="img/Festive_Planter.png" width="25"/>2 <strong class="mw-selflink selflink"><span class="color-template color-template-festive-planter color-template-background-clip">Festive Planters</span></strong> and other items.</li>
-<li>Opening the Mondo Gift Box from 2021 and 2022 gave <img alt="Festive Planter" height="25" src="img/Festive_Planter.png" width="25"/>5 <strong class="mw-selflink selflink"><span class="color-template color-template-festive-planter color-template-background-clip">Festive Planters</span></strong> and other items.</li></ul></li>
-<li>By purchasing certain offers in the <a href="robux-shop.html">Robux Shop</a>:
-<ul><li>Purchasing the Festive Frenzy Haul for 4,500 robux gave <img alt="Festive Planter" height="25" src="img/Festive_Planter.png" width="25"/>10 <strong class="mw-selflink selflink"><span class="color-template color-template-festive-planter color-template-background-clip">Festive Planters</span></strong> and other items.</li>
-<li>Purchasing the Mondo Robo Bundle gave <img alt="Festive Planter" height="25" src="img/Festive_Planter.png" width="25"/>10 <strong class="mw-selflink selflink"><span class="color-template color-template-festive-planter color-template-background-clip">Festive Planters</span></strong> and other items.</li>
-<li><img alt="Festive Planter" height="25" src="img/Festive_Planter.png" width="25"/>10 <strong class="mw-selflink selflink"><span class="color-template color-template-festive-planter color-template-background-clip">Festive Planters</span></strong> were included in the Royal Winter Wonder Haul in the Robux Shop.</li></ul></li>
-<li>As a reward for completing Onett's Beesmas 2022 or 2024 Quest.</li>
-<li>As a reward for completing Spirit Bear's Beesmas 2022 or 2024 Quest.</li>
-<li>Completing Bee Bear's 10th and 20th quest during Beesmas 2021 or 2022 rewards the player with a Festive Planter.</li>
-<li>Completing the Bee Bear's ¨Festive Planter Prep¨ gives <img alt="Festive Planter" height="25" src="img/Festive_Planter.png" width="25"/>1 <strong class="mw-selflink selflink"><span class="color-template color-template-festive-planter color-template-background-clip">Festive Planter</span></strong> and other items.</li>
-<li>Completing Onett's Winter Beesmas 2024 and Beesmas 2025 Quest gave <img alt="Festive Planter" height="25" src="img/Festive_Planter.png" width="25"/>1 <strong class="mw-selflink selflink"><span class="color-template color-template-festive-planter color-template-background-clip">Festive Planter</span></strong> and other items.</li>
-<li>Completing Spirit Bear's Winter Beesmas 2024 and Beesmas 2025 Quest gave <img alt="Festive Planter" height="25" src="img/Festive_Planter.png" width="25"/>1 <strong class="mw-selflink selflink"><span class="color-template color-template-festive-planter color-template-background-clip">Festive Planter</span></strong> and other items.</li>
-<li>Purchasing the "Feelin' Festive Pack" from the <a href="robux-shop.html">Robux Shop</a> for <span typeof="mw:Error mw:File"></span>800 <span class="color-template color-template-robux color-template-background-clip">Robux</span> during Beesmas 2025 gave <img alt="Festive Planter" height="25" src="img/Festive_Planter.png" width="25"/>5 <strong class="mw-selflink selflink"><span class="color-template color-template-festive-planter color-template-background-clip">Festive Planters</span></strong> and other items.</li>
-<li>Completing <a href="bee-bear.html">Bee Bear</a>'s "An Extra Merry Mission" during Beesmas 2025 rewarded <img alt="Festive Planter" height="25" src="img/Festive_Planter.png" width="25"/>1 <strong class="mw-selflink selflink"><span class="color-template color-template-festive-planter color-template-background-clip">Festive Planter</span></strong>, among other things.</li>
-<li>As a reward for completing Rank 40 and 50 of your Robo Party.</li></ul>
-</td></tr></tbody></table>
 
 ## Trivia
 
@@ -248,7 +210,7 @@ When claimed, the planter gives up to 80 tokens worth of items. If the planter w
 </th>
 <th class="NavCategory">Quest Exclusive
 </th>
-<td class="NavLinks NavLinksBasicEven"><b><img alt="Translator" height="35" src="img/Translator.png" width="35"/> <a href="translator.html">Translator</a> • <img alt="Spirit Petal" height="35" src="img/Spirit_Petal.png" width="35"/> <a href="spirit-petal.html">Spirit Petal</a> • <img alt="Debug Wax" height="35" src="img/Debug_Wax.png" width="35"/> <a href="debug-wax.html">Debug Wax</a> • <img alt="Nectar Tester" height="35" src="img/Nectar_Tester.png" width="35"/> <a href="nectar-tester.html">Nectar Tester</a></b> • <span typeof="mw:Error mw:File"></span> <a href="bbm-s-apology.html">BBM's Apology</a><b></b>
+<td class="NavLinks NavLinksBasicEven"><b><img alt="Translator" height="35" src="img/Translator.png" width="35"/> <a href="translator.html">Translator</a> • <img alt="Spirit Petal" height="35" src="img/Spirit_Petal.png" width="35"/> <a href="spirit-petal.html">Spirit Petal</a> • <img alt="Debug Wax" height="35" src="img/Debug_Wax.png" width="35"/> <a href="debug-wax.html">Debug Wax</a> • <img alt="Nectar Tester" height="35" src="img/Nectar_Tester.png" width="35"/> <a href="nectar-tester.html">Nectar Tester</a></b> • <span typeof="mw:Error mw:File"></span> <b></b>
 </td></tr>
 <tr>
 <th class="NavCategory">Beesmas

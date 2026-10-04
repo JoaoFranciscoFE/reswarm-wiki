@@ -19,7 +19,7 @@ CAP
 
 100
 
-**Whirligigs** are inventory [items](items.md) added in the [Beesmas 2021 update](updates.md#2021-12-26). Using one simply teleports the player and their [bees](bees.md) back to their [hive](hive.md), as well as temporarily increasing Convert Rate.
+**Whirligigs** are inventory [items](items.md) added in the Beesmas 2021 update. Using one simply teleports the player and their [bees](bees.md) back to their [hive](hive.md), as well as temporarily increasing Convert Rate.
 
 Whirligigs have a limit of 100. Obtaining any while having more than 100 whirligigs will not add them to the player's inventory, unless they are obtained through [quests](quests.md) or [codes](codes.md).
 
@@ -40,27 +40,6 @@ You must claim a hive to use a Whirligig
 * As a Stack Reward for adding certain [stickers](sticker.md) to the [Sticker Stack](sticker-stack.md):
   * The Launching Rocket rewards 10 whirligigs.
   * The Simple Mountain rewards 10 whirligigs.
-
-### Outdated Ways
-
-<table class="mw-collapsible mw-collapsed article-table">
-<caption>
-</caption>
-<tbody><tr>
-<td>
-<ul><li>As a reward from quests.
-<ul><li>Bee Bear's Bringing On Beesmas (#1)  - x5 Whirligigs.</li>
-<li>Bee Bear's Very Merry Berries (#7) - x2 Whirligigs.</li>
-<li>Bee Bear's By Golly, Get Jolly (#9) - x10 Whirligigs.</li>
-<li>Bee Bear's Merry Mushroom Mania (#12) - x10 Whirligigs.</li>
-<li>Bee Bear's Cub Buddy Beckoning (#15) - x5 Whirligigs.</li></ul></li>
-<li>Completing <a href="bee-bear.html">Bee Bear's</a> 8th, 10th, and 15th quest. (10, 10 and 25 for those accordingly)</li>
-<li>As a reward from the Whirling Bundle from <a href="bee-bear-s-catalog.html">Bee Bear's Catalog</a>.</li>
-<li>Buying the Starter Sampler Pack from <a href="bee-bear-s-catalog.html">Bee Bear's Catalog</a>.</li>
-<li>Opening certain <a href="gift-boxes.html">Gift Boxes</a> across the map:
-<ul><li>Beige Gift Box gave 10 whirligigs and other items.</li></ul></li>
-<li>Hitting the target on the right wall in the <a href="blue-flower-field.html">Blue Flower Field</a> next to the King Beetle's Lair rewarded 3 whirligigs.</li></ul>
-</td></tr></tbody></table>
 
 ## Crafting Uses
 
@@ -101,7 +80,7 @@ You must claim a hive to use a Whirligig
   * Using a whirligig used to teleport the player away from the challenge, thus ending it.
 * This is also one of the ways to exit the [White Tunnel](white-tunnel.md) other than defeating or being killed by [Tunnel Bear](tunnel-bear.md), leaving and rejoining the game, and using the gray plate at the middle of the tunnel.
 * They are based on maple tree seeds (nicknamed whirligigs), which, when falling, spin, thus traveling further from the tree. This may have inspired the whirligig's mechanic of teleporting or rather "carrying" you back to your hive.
-* Before the [2022-12-26](updates.md) update, Whirligigs had a cooldown of 5 minutes.
+* Before the 2022-12-26 update, Whirligigs had a cooldown of 5 minutes.
 * If the player has the [Frozen debuff](buffs-debuffs.md#Debuffs) (from [Snowbear](snowbear.md)), the whirligig will only teleport the player's bees.
   * This may also occur if the player is lagging.
 
@@ -166,7 +145,7 @@ You must claim a hive to use a Whirligig
 </th>
 <th class="NavCategory">Quest Exclusive
 </th>
-<td class="NavLinks NavLinksBasicEven"><b><img alt="Translator" height="35" src="img/Translator.png" width="35"/> <a href="translator.html">Translator</a> • <img alt="Spirit Petal" height="35" src="img/Spirit_Petal.png" width="35"/> <a href="spirit-petal.html">Spirit Petal</a> • <img alt="Debug Wax" height="35" src="img/Debug_Wax.png" width="35"/> <a href="debug-wax.html">Debug Wax</a> • <img alt="Nectar Tester" height="35" src="img/Nectar_Tester.png" width="35"/> <a href="nectar-tester.html">Nectar Tester</a></b> • <span typeof="mw:Error mw:File"></span> <a href="bbm-s-apology.html">BBM's Apology</a><b></b>
+<td class="NavLinks NavLinksBasicEven"><b><img alt="Translator" height="35" src="img/Translator.png" width="35"/> <a href="translator.html">Translator</a> • <img alt="Spirit Petal" height="35" src="img/Spirit_Petal.png" width="35"/> <a href="spirit-petal.html">Spirit Petal</a> • <img alt="Debug Wax" height="35" src="img/Debug_Wax.png" width="35"/> <a href="debug-wax.html">Debug Wax</a> • <img alt="Nectar Tester" height="35" src="img/Nectar_Tester.png" width="35"/> <a href="nectar-tester.html">Nectar Tester</a></b> • <span typeof="mw:Error mw:File"></span> <b></b>
 </td></tr>
 <tr>
 <th class="NavCategory">Beesmas

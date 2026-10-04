@@ -24,21 +24,6 @@ tags: ["Mechanics"]
   * The [Snow Tiara](snow-tiara.md) grants +2% to +5% Blue Field Capacity and +3% to +5% White Field Capacity.
   * The [Rose Headband](rose-headband.md) grants 14% to +40% Rose Field Capacity.
 
-### Outdated Methods
-
-* Every [Market Boost](buffs-debuffs.md#From_Areas) grants x1.5 field capacity for 30 minutes to the boosted field (only obtainable from codes).
-* All [Beesmas 2020](ornaments.md) and [2021 Ornaments](ornaments.md) (excluding [Honey Bee](honey-bee-npc.md)'s ornament) gave field capacity as a stat.
-* Redeeming certain expired codes:
-  * RebootXmas (gave +100% [Clover Field](clover-field.md) Capacity + other stuff).
-  * Buoyant (gave [Blue Flower Field](blue-flower-field.md) Capacity x3 + other stuff).
-  * WintersEnd (gave +100% Spider Field Capacity, +100% Pine Tree Forest Capacity + and other stuff).
-  * 3YearParty (gave [Mountain Top Field](mountain-top-field.md) Capacity x3 + other stuff).
-  * 5mMembers (gave [Pine Tree Forest](pine-tree-forest.md) Capacity x3 and [Rose Field](rose-field.md) Capacity x3 + other stuff).
-  * RedMarket (gave [Pepper Patch](pepper-patch.md) Capacity x1 + other stuff).
-  * Mocito100T (gave [Coconut Field](coconut-field.md) Capacity x2 + other stuff).
-  * BANNED (gave [Spider Field](spider-field.md) Code Buff [+100% Spider Field pollen, +100% Spider Field Capacity] + other stuff).
-  * All Ready Player Two codes gave Code Buffs on different fields.
-
 ## Colored Field Capacity Formula
 
 The following formula shows how much capacity multiplier a player gets in a field:

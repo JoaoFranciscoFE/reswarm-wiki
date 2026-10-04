@@ -60,7 +60,7 @@ BONUS ITEMS
 
 [Ticket](ticket.md)
 
-A **Ticket Planter** is a single use [planter](planter.md) added in the [2021-12-26 update](updates.md#2021-12-26). Alone, it grows in about 2 hours and stores 50,000 [pollen](pollen.md). When harvested, it grants bonus Tickets. A player can store up to 100 Ticket Planters at a time, but only 1 can be active.
+A **Ticket Planter** is a single use [planter](planter.md) added in the 2021-12-26 update. Alone, it grows in about 2 hours and stores 50,000 [pollen](pollen.md). When harvested, it grants bonus Tickets. A player can store up to 100 Ticket Planters at a time, but only 1 can be active.
 
 It does not have any growth nor pollen multipliers, and grants x2 [nectar](nectar.md).
 
@@ -117,34 +117,6 @@ When claimed, the planter gives up to 25 tokens worth of items. If the planter w
   * [Ticket Voucher](sticker.md#Sticker_Index) rewards 1 Ticket Planter
 * Buying the Tempting Ticket Pack from [Bee Bear's Catalog](bee-bear-s-catalog.md) for 55,555 [Snowflakes](snowflake.md) gives 5 Ticket Planters and other items.
 * As a drop from Dapper Bear's [Samovar](samovar.md) after every 5th use (except for the 25th, which drops a [turpentine](turpentine.md) instead).
-
-### Outdated Ways
-
-<table class="mw-collapsible mw-collapsed article-table">
-<caption>
-</caption>
-<tbody><tr>
-<td>
-<ul><li>By completing <a href="gifted-riley-bee.html">Gifted Riley Bee</a>'s 2021 Beesmas Quest.</li>
-<li>By completing some of <a href="bee-bear.html">Bee Bear's</a> 2021 and 2022 quests.</li>
-<li>By buying certain items/bundles from <a href="bee-bear-s-catalog.html">Bee Bear's Catalog</a>:
-<ul><li>Buying the Festive Bundle for <img alt="Snowflake" height="25" src="img/Snowflake.png" width="25"/>5,000 <a href="snowflake.html"><span class="color-template color-template-snowflake color-template-background-clip">Snowflakes</span></a> and <img alt="Gingerbread Bear" height="25" src="img/Gingerbread_Bear.png" width="25"/>100 <a href="gingerbread-bear.html"><span class="color-template color-template-gingerbread-bear color-template-background-clip">Gingerbread Bears</span></a> during Beesmas 2021 gave 10 Ticket Planters.</li>
-<li>Buying the Ticket Planter for <img alt="Snowflake" height="25" src="img/Snowflake.png" width="25"/>100 <a href="snowflake.html"><span class="color-template color-template-snowflake color-template-background-clip">Snowflakes</span></a>.</li></ul></li>
-<li>Opening certain <a href="gift-boxes.html">Gift Boxes</a>:
-<ul><li>Opening the Gilded Gift Box gave 1 Ticket Planter and other items.</li>
-<li>Opening the Jubilant Gift Box gave 4 Ticket Planters and other items.</li>
-<li>Opening the Vibrant Gift Box gave 1 Ticket Planter and other items.</li>
-<li>Opening the Obnoxious Gift Box gave 1 Ticket Planter and other items.</li>
-<li>Opening the Soothing Gift Box gave 2 Ticket Planters and other items.</li></ul></li>
-<li>Using certain expired <a href="codes.html">codes</a>:
-<ul><li>"2Billion" gave 1 ticket planter and other items.</li></ul></li>
-<li>Purchasing certain Robux packs:
-<ul><li>Purchasing the Cyber Mondo Monday Pack for 800 robux gave 10 Ticket Planters and other items.</li>
-<li>Purchasing the 15 Ticket Planters offer for 400 robux gave 15 Ticket Planters.</li></ul></li>
-<li>As a drop from Robo Party mobs.</li>
-<li>As a reward for completing your Robo Party.</li>
-<li>As a drop from Dapper Bear's <a href="samovar.html">Samovar</a> (Dropped after every 5th use, except the 25th).</li></ul>
-</td></tr></tbody></table>
 
 ## Trivia
 

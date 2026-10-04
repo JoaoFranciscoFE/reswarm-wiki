@@ -19,7 +19,7 @@ CAP
 
 25
 
-The **White Balloon** is a consumable item added in the [2021-12-26 update](updates.md). Once used, it creates a white balloon over the [field](fields.md) the player is in, storing [pollen](pollen.md) collected underneath it. The pollen collected below it increases by 10%, with white pollen increasing by 20%. It holds up to 10x the player's capacity and floats over the field for 5 minutes before floating to the [hive](hive.md) balloon.
+The **White Balloon** is a consumable item added in the 2021-12-26 update. Once used, it creates a white balloon over the [field](fields.md) the player is in, storing [pollen](pollen.md) collected underneath it. The pollen collected below it increases by 10%, with white pollen increasing by 20%. It holds up to 10x the player's capacity and floats over the field for 5 minutes before floating to the [hive](hive.md) balloon.
 
 White balloons have a cap of 25 in the player's inventory, and 1 per player in the field.
 
@@ -33,36 +33,6 @@ White balloons have a cap of 25 in the player's inventory, and 1 per player in t
   * Wandering Ambition rewards 1 white balloon and other items.
   * The Long Haul rewards 1 white balloon and other items.
   * Solitarily Steadfast rewards 3 white balloons and other items.
-
-### Outdated Ways
-
-<table class="mw-collapsible mw-collapsed article-table">
-<caption>
-</caption>
-<tbody><tr>
-<td>
-<ul><li>Completing <a href="bee-bear.html">Bee Bear</a>'s Beesmas Bouquet and Snow Cub Reformation (4/5).</li>
-<li>Purchasing the Buoyant Pack in the <a href="robux-shop.html">Robux Shop</a> gave 3 white balloons and other items.</li>
-<li>Purchasing the Balloon Bundle in Bee Bear’s Catalog during Beesmas 2021, granting 3 White Balloons.</li>
-<li>Opening certain <a href="gift-boxes.html">Gift Boxes</a> during the Beesmas 2021 event:
-<ul><li>The Gilded Gift Box gave <img alt="White Balloon" height="25" src="img/White_Balloon.png" width="25"/>1 <strong class="mw-selflink selflink"><span class="color-template color-template-white-balloon color-template-background-clip">White Balloon</span></strong> and other items.</li></ul></li>
-<li>Opening certain Gift Boxes during the Beesmas 2022 event:
-<ul><li>The Lapis Gift Box gave <img alt="White Balloon" height="25" src="img/White_Balloon.png" width="25"/>2 <strong class="mw-selflink selflink"><span class="color-template color-template-white-balloon color-template-background-clip">White Balloons</span></strong> and other items.</li>
-<li>The Tropical Gift Box gave <img alt="White Balloon" height="25" src="img/White_Balloon.png" width="25"/>3 <strong class="mw-selflink selflink"><span class="color-template color-template-white-balloon color-template-background-clip">White Balloons</span></strong> and other items.</li></ul></li>
-<li>Redeeming certain expired <a href="codes.html">codes</a>
-<ul><li>FourYearFiesta (gave <img alt="White Balloon" height="25" src="img/White_Balloon.png" width="25"/>1 <strong class="mw-selflink selflink"><span class="color-template color-template-white-balloon color-template-background-clip">White Balloon</span></strong> and other stuff).</li>
-<li>6irthday (gave <img alt="White Balloon" height="25" src="img/White_Balloon.png" width="25"/>1 <strong class="mw-selflink selflink"><span class="color-template color-template-white-balloon color-template-background-clip">White Balloon</span></strong> and other stuff).</li></ul></li>
-<li>Giving a present to Science Bear in Beesmas 2022 gives <img alt="White Balloon" height="25" src="img/White_Balloon.png" width="25"/>1 <strong class="mw-selflink selflink"><span class="color-template color-template-white-balloon color-template-background-clip">White Balloon</span></strong> and other items.</li>
-<li>Purchasing the Balloon Bundle in <a href="bee-bear-s-catalog.html">Bee Bear's Catalog</a> for 333 <a href="snowflake.html">Snowflakes</a>, granting <img alt="White Balloon" height="25" src="img/White_Balloon.png" width="25"/>2 <strong class="mw-selflink selflink"><span class="color-template color-template-white-balloon color-template-background-clip">White Balloons</span></strong> and other items.</li>
-<li>As a reward from certain Robo Party ranks.</li></ul>
-</td></tr></tbody></table>
-
-<table class="mw-collapsible autocollapse" style="margin:auto; background:#000; font-size: 10pt; border:5px solid #56CB5A; width: 100%; border-radius: 20px; -moz-border-radius: 20px; -webkit-border-radius: 20px; -khtml-border-radius: 20px; -icab-border-radius: 20px; -o-border-radius: 20px;">
-<tbody><tr>
-<th colspan="2" style="padding-bottom: 1px; background:#FFEB7C; color:#000; border-radius: 15px; -moz-border-radius: 15px; -webkit-border-radius: 15px; -khtml-border-radius: 15px; -icab-border-radius: 15px; -o-border-radius: 15px; padding: 2px 15px;">Items
-</th></tr>
-<tr>
-<td colspan="2"><div style="clear:both"></div>
 
 <table class="mw-collapsible mw-collapsed NavTable">
 <tbody><tr>
@@ -118,7 +88,7 @@ White balloons have a cap of 25 in the player's inventory, and 1 per player in t
 </th>
 <th class="NavCategory">Quest Exclusive
 </th>
-<td class="NavLinks NavLinksBasicEven"><b><img alt="Translator" height="35" src="img/Translator.png" width="35"/> <a href="translator.html">Translator</a> • <img alt="Spirit Petal" height="35" src="img/Spirit_Petal.png" width="35"/> <a href="spirit-petal.html">Spirit Petal</a> • <img alt="Debug Wax" height="35" src="img/Debug_Wax.png" width="35"/> <a href="debug-wax.html">Debug Wax</a> • <img alt="Nectar Tester" height="35" src="img/Nectar_Tester.png" width="35"/> <a href="nectar-tester.html">Nectar Tester</a></b> • <span typeof="mw:Error mw:File"></span> <a href="bbm-s-apology.html">BBM's Apology</a><b></b>
+<td class="NavLinks NavLinksBasicEven"><b><img alt="Translator" height="35" src="img/Translator.png" width="35"/> <a href="translator.html">Translator</a> • <img alt="Spirit Petal" height="35" src="img/Spirit_Petal.png" width="35"/> <a href="spirit-petal.html">Spirit Petal</a> • <img alt="Debug Wax" height="35" src="img/Debug_Wax.png" width="35"/> <a href="debug-wax.html">Debug Wax</a> • <img alt="Nectar Tester" height="35" src="img/Nectar_Tester.png" width="35"/> <a href="nectar-tester.html">Nectar Tester</a></b> • <span typeof="mw:Error mw:File"></span> <b></b>
 </td></tr>
 <tr>
 <th class="NavCategory">Beesmas

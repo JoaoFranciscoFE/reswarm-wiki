@@ -23,7 +23,7 @@ CAP
 
 100
 
-A **Bloom Shaker** is an inventory item added in the [2025-12-25 update](updates.md#2025-12-25). When used, three [blooms](bloom.md) will grow in the field the item is used in. It has a 3-minute cooldown. The blooms that are summoned by the bloom shaker will last for a minute, the default for any blooms. The only current renewable source for Bloom Shakers are [Riley Bee](riley-bee.md)'s and [Bucko Bee](bucko-bee.md)'s "Petals" [quests](quests.md).
+A **Bloom Shaker** is an inventory item added in the 2025-12-25 update. When used, three [blooms](bloom.md) will grow in the field the item is used in. It has a 3-minute cooldown. The blooms that are summoned by the bloom shaker will last for a minute, the default for any blooms. The only current renewable source for Bloom Shakers are [Riley Bee](riley-bee.md)'s and [Bucko Bee](bucko-bee.md)'s "Petals" [quests](quests.md).
 
 ## Ways To Obtain
 
@@ -32,36 +32,6 @@ A **Bloom Shaker** is an inventory item added in the [2025-12-25 update](updates
   * Completing [Riley Bee](gifted-riley-bee.md)'s "Petals" quest rewards 1 **Bloom Shaker** and other items.
   * Completing Dapper Bear's 16th quest rewards 1 **Bloom Shaker** and other items.
 * There is a **Bloom Shaker** token on top of the [Dapper Bear's Shop](dapper-bear-s-shop.md).
-
-### Outdated Ways
-
-<table class="mw-collapsible mw-collapsed article-table">
-<caption>
-</caption>
-<tbody><tr>
-<td>
-<ul><li>Beesmas 2025:
-<ul><li>Purchasing the Merry Mythic Mondo-Haul from the <a href="robux-shop.html">Robux Shop</a> for <span typeof="mw:Error mw:File"></span>4,500 <span class="color-template color-template-robux color-template-background-clip">Robux</span> granted <img alt="Bloom Shaker" height="25" src="img/Bloom_Shaker.png" width="25"/>25 <strong class="mw-selflink selflink"><span class="color-template color-template-bloom-shaker color-template-background-clip">Bloom Shakers</span></strong> and other items.</li>
-<li>Purchasing the Festive Floral Bundle from Bee Bear’s Catalog for <img alt="Snowflake" height="25" src="img/Snowflake.png" width="25"/>400 <a href="snowflake.html"><span class="color-template color-template-snowflake color-template-background-clip">Snowflakes</span></a> granted <img alt="Bloom Shaker" height="25" src="img/Bloom_Shaker.png" width="25"/>1 <strong class="mw-selflink selflink"><span class="color-template color-template-bloom-shaker color-template-background-clip">Bloom Shaker</span></strong> and other items.</li>
-<li>Giving a <img alt="Present" height="35" src="img/Present.png" width="35"/><a href="present.html"><span class="color-template color-template-present color-template-background-clip">Present</span></a> to <a href="onett.html">Onett</a> rewarded <img alt="Bloom Shaker" height="25" src="img/Bloom_Shaker.png" width="25"/>3 <strong class="mw-selflink selflink"><span class="color-template color-template-bloom-shaker color-template-background-clip">Bloom Shakers</span></strong> and other items.</li>
-<li>Giving a <img alt="Present" height="35" src="img/Present.png" width="35"/><a href="present.html"><span class="color-template color-template-present color-template-background-clip">Present</span></a> to <a href="polar-bear.html">Polar Bear</a> rewarded <img alt="Bloom Shaker" height="25" src="img/Bloom_Shaker.png" width="25"/>1 <strong class="mw-selflink selflink"><span class="color-template color-template-bloom-shaker color-template-background-clip">Bloom Shaker</span></strong> and other items.</li>
-<li>Giving a <img alt="Present" height="35" src="img/Present.png" width="35"/><a href="present.html"><span class="color-template color-template-present color-template-background-clip">Present</span></a> to <a href="gummy-bear.html">Gummy Bear</a> rewarded <img alt="Bloom Shaker" height="25" src="img/Bloom_Shaker.png" width="25"/>5 <strong class="mw-selflink selflink"><span class="color-template color-template-bloom-shaker color-template-background-clip">Bloom Shakers</span></strong> and other items.</li>
-<li>Completing <a href="bee-bear.html">Bee Bear</a>'s 9th quest rewarded <img alt="Bloom Shaker" height="25" src="img/Bloom_Shaker.png" width="25"/>1 <strong class="mw-selflink selflink"><span class="color-template color-template-bloom-shaker color-template-background-clip">Bloom Shaker</span></strong> and other items.</li>
-<li>Completing Bee Bear's 13th quest rewarded <img alt="Bloom Shaker" height="25" src="img/Bloom_Shaker.png" width="25"/>3 <strong class="mw-selflink selflink"><span class="color-template color-template-bloom-shaker color-template-background-clip">Bloom Shakers</span></strong> and other items.</li>
-<li>Completing Bee Bear's 14th quest rewarded <img alt="Bloom Shaker" height="25" src="img/Bloom_Shaker.png" width="25"/>1 <strong class="mw-selflink selflink"><span class="color-template color-template-bloom-shaker color-template-background-clip">Bloom Shaker</span></strong> and other items.</li>
-<li>Completing Bee Bear's 15th quest rewarded <img alt="Bloom Shaker" height="25" src="img/Bloom_Shaker.png" width="25"/>3 <strong class="mw-selflink selflink"><span class="color-template color-template-bloom-shaker color-template-background-clip">Bloom Shakers</span></strong> and other items.</li>
-<li>Completing <a href="gummy-bear.html">Gummy Bear</a>'s Beesmas quest gave <img alt="Bloom Shaker" height="25" src="img/Bloom_Shaker.png" width="25"/>10 <strong class="mw-selflink selflink"><span class="color-template color-template-bloom-shaker color-template-background-clip">Bloom Shakers</span></strong> and other items.</li>
-<li>Completing <a href="honey-bee-npc.html">Honey Bee</a>'s Beesmas quest rewarded <img alt="Bloom Shaker" height="25" src="img/Bloom_Shaker.png" width="25"/>9 <strong class="mw-selflink selflink"><span class="color-template color-template-bloom-shaker color-template-background-clip">Bloom Shakers</span></strong> and other items.</li>
-<li>Completing <a href="robo-bear.html">Robo Bear</a>'s Beesmas quest rewarded <img alt="Bloom Shaker" height="25" src="img/Bloom_Shaker.png" width="25"/>2 <strong class="mw-selflink selflink"><span class="color-template color-template-bloom-shaker color-template-background-clip">Bloom Shakers</span></strong> and other items.</li>
-<li>There was a <img alt="Bloom Shaker" height="35" src="img/Bloom_Shaker.png" width="35"/><strong class="mw-selflink selflink"><span class="color-template color-template-bloom-shaker color-template-background-clip">Bloom Shaker</span></strong> token on a cloud platform above the <a href="pineapple-patch.html">Pineapple Patch</a>.</li></ul></li></ul>
-</td></tr></tbody></table>
-
-<table class="mw-collapsible autocollapse" style="margin:auto; background:#000; font-size: 10pt; border:5px solid #56CB5A; width: 100%; border-radius: 20px; -moz-border-radius: 20px; -webkit-border-radius: 20px; -khtml-border-radius: 20px; -icab-border-radius: 20px; -o-border-radius: 20px;">
-<tbody><tr>
-<th colspan="2" style="padding-bottom: 1px; background:#FFEB7C; color:#000; border-radius: 15px; -moz-border-radius: 15px; -webkit-border-radius: 15px; -khtml-border-radius: 15px; -icab-border-radius: 15px; -o-border-radius: 15px; padding: 2px 15px;">Items
-</th></tr>
-<tr>
-<td colspan="2"><div style="clear:both"></div>
 
 <table class="mw-collapsible mw-collapsed NavTable">
 <tbody><tr>
@@ -117,7 +87,7 @@ A **Bloom Shaker** is an inventory item added in the [2025-12-25 update](updates
 </th>
 <th class="NavCategory">Quest Exclusive
 </th>
-<td class="NavLinks NavLinksBasicEven"><b><img alt="Translator" height="35" src="img/Translator.png" width="35"/> <a href="translator.html">Translator</a> • <img alt="Spirit Petal" height="35" src="img/Spirit_Petal.png" width="35"/> <a href="spirit-petal.html">Spirit Petal</a> • <img alt="Debug Wax" height="35" src="img/Debug_Wax.png" width="35"/> <a href="debug-wax.html">Debug Wax</a> • <img alt="Nectar Tester" height="35" src="img/Nectar_Tester.png" width="35"/> <a href="nectar-tester.html">Nectar Tester</a></b> • <span typeof="mw:Error mw:File"></span> <a href="bbm-s-apology.html">BBM's Apology</a><b></b>
+<td class="NavLinks NavLinksBasicEven"><b><img alt="Translator" height="35" src="img/Translator.png" width="35"/> <a href="translator.html">Translator</a> • <img alt="Spirit Petal" height="35" src="img/Spirit_Petal.png" width="35"/> <a href="spirit-petal.html">Spirit Petal</a> • <img alt="Debug Wax" height="35" src="img/Debug_Wax.png" width="35"/> <a href="debug-wax.html">Debug Wax</a> • <img alt="Nectar Tester" height="35" src="img/Nectar_Tester.png" width="35"/> <a href="nectar-tester.html">Nectar Tester</a></b> • <span typeof="mw:Error mw:File"></span> <b></b>
 </td></tr>
 <tr>
 <th class="NavCategory">Beesmas

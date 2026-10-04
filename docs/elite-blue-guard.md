@@ -57,8 +57,8 @@ This guard is one of 3 guards that can be purchased in the Blue HQ, the others b
 
 ## Trivia
 
-* Before the [2018-11-25 update](updates.md#2018-11-25), the Elite Blue Guard cost 8,000,000 (8 million) honey and no crafting materials.
-* Before the second part to the [2020-12-25 update](updates.md#2020-12-25), the player could glitch their [Cub Buddy](cub-buddy.md) into this guard.
+* Before the 2018-11-25 update, the Elite Blue Guard cost 8,000,000 (8 million) honey and no crafting materials.
+* Before the second part to the 2020-12-25 update, the player could glitch their [Cub Buddy](cub-buddy.md) into this guard.
 * This guard's red counterpart is the [Elite Red Guard](elite-red-guard.md).
 
 <table class="mw-collapsible autocollapse" style="margin:auto; background:#000; font-size: 10pt; border:5px solid #56CB5A; width: 100%; border-radius: 20px; -moz-border-radius: 20px; -webkit-border-radius: 20px; -khtml-border-radius: 20px; -icab-border-radius: 20px; -o-border-radius: 20px;">
@@ -122,7 +122,7 @@ This guard is one of 3 guards that can be purchased in the Blue HQ, the others b
 </th>
 <th class="NavCategory">Quest Exclusive
 </th>
-<td class="NavLinks NavLinksBasicEven"><b><img alt="Translator" height="35" src="img/Translator.png" width="35"/> <a href="translator.html">Translator</a> • <img alt="Spirit Petal" height="35" src="img/Spirit_Petal.png" width="35"/> <a href="spirit-petal.html">Spirit Petal</a> • <img alt="Debug Wax" height="35" src="img/Debug_Wax.png" width="35"/> <a href="debug-wax.html">Debug Wax</a> • <img alt="Nectar Tester" height="35" src="img/Nectar_Tester.png" width="35"/> <a href="nectar-tester.html">Nectar Tester</a></b> • <span typeof="mw:Error mw:File"></span> <a href="bbm-s-apology.html">BBM's Apology</a><b></b>
+<td class="NavLinks NavLinksBasicEven"><b><img alt="Translator" height="35" src="img/Translator.png" width="35"/> <a href="translator.html">Translator</a> • <img alt="Spirit Petal" height="35" src="img/Spirit_Petal.png" width="35"/> <a href="spirit-petal.html">Spirit Petal</a> • <img alt="Debug Wax" height="35" src="img/Debug_Wax.png" width="35"/> <a href="debug-wax.html">Debug Wax</a> • <img alt="Nectar Tester" height="35" src="img/Nectar_Tester.png" width="35"/> <a href="nectar-tester.html">Nectar Tester</a></b> • <span typeof="mw:Error mw:File"></span> <b></b>
 </td></tr>
 <tr>
 <th class="NavCategory">Beesmas

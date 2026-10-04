@@ -98,20 +98,20 @@ Aged Gingerbread Bear
 
 <figure class="thumb" style="width: 400px" typeof="mw:File/Thumb">  <figcaption class="thumbcaption"> </figcaption> </figure>
 
-* According to [Onett](onett-developer.md), the chance to get a Gifted bee from feeding favorite treats varies depending on their rarity. The chances are 1 in 8,000 for [Rare bees](bees-rare.md), 1 in 10,000 for [Epic bees](bees-epic.md), 1 in 12,000 for [Legendary](bees-legendary.md) and [Common bees](bees-common.md), and 1 in 24,000 for [Mythic bees](bees-mythic.md).
+* According to Onett, the chance to get a Gifted bee from feeding favorite treats varies depending on their rarity. The chances are 1 in 8,000 for [Rare bees](bees-rare.md), 1 in 10,000 for [Epic bees](bees-epic.md), 1 in 12,000 for [Legendary](bees-legendary.md) and [Common bees](bees-common.md), and 1 in 24,000 for [Mythic bees](bees-mythic.md).
 
 ## Trivia
 
 * A singular star treat or atomic treat gives the most [bond](bond.md) (1,000 bond), followed by a single neonberry and aged gingerbread bear (500 bond), then gingerbread bears and moon charms (250 bond).
-* Before the [2019-04-05 update](updates.md#2019-04-05), when asked to feed strawberries or blueberries to a [bee](bees.md), the plural was incorrectly spelled as "Strawberrys" and "Blueberry" instead of "Strawberries" and "Blueberries."
+* Before the 2019-04-05 update, when asked to feed strawberries or blueberries to a [bee](bees.md), the plural was incorrectly spelled as "Strawberrys" and "Blueberry" instead of "Strawberries" and "Blueberries."
   * However, when using fruit to craft gumdrops, for example, it is still spelled as "Blueberrys" and "Strawberrys."
 * Despite being mentioned by Spirit Bear as once being a Blueberry Field, the Blue Flower Field doesn't seem to yield more blueberries than other blue fields.
 * Treats, pineapples, strawberries, and blueberries are the only treats that can be obtained from dispensers.
-* There is a [glitch](glitches.md) in which dragging an item that is not a treat (ex: magic bean, gumdrops) to the bee causes the hive slot to turn red.
-* [Onett](onett-developer.md) has said that bees don't actually eat the treats, instead, they take them as gifts and hide them in [fields](fields.md) for others to find, though Mother Bear says to feed a treat to a bee in her first quest.
-* Before the [2018-11-25 update](updates.md#2018-11-25), moon charm tokens from [fireflies](fireflies.md) didn't glow.
+* There is a glitch in which dragging an item that is not a treat (ex: magic bean, gumdrops) to the bee causes the hive slot to turn red.
+* Onett has said that bees don't actually eat the treats, instead, they take them as gifts and hide them in [fields](fields.md) for others to find, though Mother Bear says to feed a treat to a bee in her first quest.
+* Before the 2018-11-25 update, moon charm tokens from [fireflies](fireflies.md) didn't glow.
 * Before Beesmas 2019 ended, star treats were the most expensive [item](items.md) in the [Ticket Tent](ticket-tent.md), at the price of 1,000 [tickets](ticket.md). Since then, the cub buddy went on sale for 2,000 tickets. The mythic egg is currently the most expensive item after the removal of cub buddy from the Ticket Tent, at 2,500 tickets.
-* Before the [2019-02-01 update](updates.md#2019-02-01), [Puppy Bee's](puppy-bee.md) [Fetch](ability-tokens.md#Fetch) treat and [Festive Gift's](ability-tokens.md#Festive_Gift) treat tokens were the only treats that the player could collect with [Token Link](ability-tokens.md#Token_Link).
+* Before the 2019-02-01 update, [Puppy Bee's](puppy-bee.md) [Fetch](ability-tokens.md#Fetch) treat and [Festive Gift's](ability-tokens.md#Festive_Gift) treat tokens were the only treats that the player could collect with [Token Link](ability-tokens.md#Token_Link).
 * A normal treat resembles a [Basic Bee's](basic-bee.md) face.
 * A star treat is the only treat that cannot be obtained from sprouts.
 * The star treat formerly gave 100 bond instead of 1,000.
@@ -186,7 +186,7 @@ Aged Gingerbread Bear
 </th>
 <th class="NavCategory">Quest Exclusive
 </th>
-<td class="NavLinks NavLinksBasicEven"><b><img alt="Translator" height="35" src="img/Translator.png" width="35"/> <a href="translator.html">Translator</a> • <img alt="Spirit Petal" height="35" src="img/Spirit_Petal.png" width="35"/> <a href="spirit-petal.html">Spirit Petal</a> • <img alt="Debug Wax" height="35" src="img/Debug_Wax.png" width="35"/> <a href="debug-wax.html">Debug Wax</a> • <img alt="Nectar Tester" height="35" src="img/Nectar_Tester.png" width="35"/> <a href="nectar-tester.html">Nectar Tester</a></b> • <span typeof="mw:Error mw:File"></span> <a href="bbm-s-apology.html">BBM's Apology</a><b></b>
+<td class="NavLinks NavLinksBasicEven"><b><img alt="Translator" height="35" src="img/Translator.png" width="35"/> <a href="translator.html">Translator</a> • <img alt="Spirit Petal" height="35" src="img/Spirit_Petal.png" width="35"/> <a href="spirit-petal.html">Spirit Petal</a> • <img alt="Debug Wax" height="35" src="img/Debug_Wax.png" width="35"/> <a href="debug-wax.html">Debug Wax</a> • <img alt="Nectar Tester" height="35" src="img/Nectar_Tester.png" width="35"/> <a href="nectar-tester.html">Nectar Tester</a></b> • <span typeof="mw:Error mw:File"></span> <b></b>
 </td></tr>
 <tr>
 <th class="NavCategory">Beesmas

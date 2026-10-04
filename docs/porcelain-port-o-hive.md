@@ -45,12 +45,12 @@ The **Porcelain Port-O-Hive** is a [bag](bags.md) that can be purchased in the [
 
 * Out of the four variants of [Port-O-Hive](port-o-hive.md), the Porcelain Port-O-Hive was the second Port-O-Hive added into the game, after the regular Port-O-Hive.
 * The bag's stats were changed multiple times since its addition to the game.
-  * After the [2019-04-05 update](updates.md#2019-04-05), its base capacity was increased from 500,000 pollen to 1,000,000 pollen. This was reverted to 500,000 after the [2019-05-13 Update](updates.md#2019-05-13).
-  * After the [2024-05-23 update](updates.md#2024-05-23):
+  * After the 2019-04-05 update, its base capacity was increased from 500,000 pollen to 1,000,000 pollen. This was reverted to 500,000 after the 2019-05-13 Update.
+  * After the 2024-05-23 update:
     * Its base capacity was increased from 500,000 pollen to 600,000 pollen.
     * It no longer gave +10% Blue Pollen, +10% Red Pollen and +1 Bee Attack.
 * Before the 2019-04-05 update, its description was read as, "The rarest and most precious Port-O-Hive in the world. Can store up to 500,000 pollen."
 * This container is worn by [Onett](onett.md) in the [Bear Gate](bear-gate.md), along with the [Porcelain Dipper](porcelain-dipper.md), [Beekeeper's Boots](beekeeper-s-boots.md), [Mondo Belt Bag](mondo-belt-bag.md), [Beekeeper's Mask](beekeeper-s-mask.md), and the [Riley](riley-guard.md) and [Bucko Guards](bucko-guard.md).
 * This is the only container that emits particles.
-* In the [2026-04-23 update](updates.md#2026-04-23), all Port-O-Hive variants had its mesh scaled down due to a bug. The bug has been fixed and its cause is unknown.
+* In the 2026-04-23 update, all Port-O-Hive variants had its mesh scaled down due to a bug. The bug has been fixed and its cause is unknown.
 

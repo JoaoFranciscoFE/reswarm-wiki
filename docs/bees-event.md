@@ -110,7 +110,7 @@ The following audio plays when an Event Bee notification pops up:
 * This and the [Common](bees-common.md) rarity are the only bee rarities that cannot be obtained through normal [Royal Jellies](royal-jelly.md).
 * This rarity has the least ways of getting a bee of this rarity with only two ways which are Event Bee Eggs and Event Bee Jellies.
 * Bear Bee, Digital Bee, Gummy Bee, Vicious Bee, and Windy Bee are the only Event Bees that aren't obtained by tickets.
-  * Prior to the [2019-04-05 update](updates.md#2019-04-05), Gummy Bee was obtainable by tickets.
+  * Prior to the 2019-04-05 update, Gummy Bee was obtainable by tickets.
 * The audio that plays when an Event Bee notification pops up is the same audio when a [Legendary Bee](bees-legendary.md) notification pops up.
 * Bear Bee and Gummy Bee are the only Event Bees that don't have an ability that directly collects pollen.
 * Digital Bee & Bear Bee are the only Event Bees to have a gifted ability.

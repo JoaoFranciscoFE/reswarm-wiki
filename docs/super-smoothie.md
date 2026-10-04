@@ -15,7 +15,7 @@ COOLDOWN
 
 20 minutes
 
-The **Super Smoothie** is a craftable inventory item added in the [2020-06-06 update](updates.md#2020-06-06). When used, it grants the following buffs for 20 minutes:
+The **Super Smoothie** is a craftable inventory item added in the 2020-06-06 update. When used, it grants the following buffs for 20 minutes:
 
 * x1.5 [Capacity](system-page.md#Capacity_Multiplier);
 * x1.6 [Red Pollen](system-page.md#Red_Pollen);
@@ -50,38 +50,6 @@ The **Super Smoothie** is a craftable inventory item added in the [2020-06-06 up
   * [Dapper Bear](dapper-bear.md)'s "More Than Myth" (#15) gives 1 **Super Smoothie** and other items.
   * [Science Bear](science-bear.md)'s "Corrupting The Glitched Drive" gives 1 **Super Smoothie** and other items.
 * Buying 50 of them from [Bee Bear Catalog](bee-bear-s-catalog.md) Shop for 500 [Gingerbread Bears](gingerbread-bear.md)
-
-### Outdated Ways
-
-<table class="mw-collapsible mw-collapsed article-table">
-<caption>
-</caption>
-<tbody><tr>
-<td>
-<ul><li>Purchasing certain <a href="robux-shop.html">Robux</a> offers:
-<ul><li>Purchasing the Jumbo June Pack for <span typeof="mw:Error mw:File"></span>1,700 <span class="color-template color-template-robux color-template-background-clip">Robux</span> gave <img alt="Super Smoothie" height="25" src="img/Super_Smoothie.png" width="25"/>10 <strong class="mw-selflink selflink"><span class="color-template color-template-super-smoothie color-template-background-clip">Super Smoothies</span></strong> and other items.</li>
-<li>Purchasing the Honeyday Mega-Haul for <span typeof="mw:Error mw:File"></span>4,500 <span class="color-template color-template-robux color-template-background-clip">Robux</span> gave <img alt="Super Smoothie" height="25" src="img/Super_Smoothie.png" width="25"/>25 <strong class="mw-selflink selflink"><span class="color-template color-template-super-smoothie color-template-background-clip">Super Smoothies</span></strong> and other items.</li>
-<li>Purchasing the Festive Frenzy Haul for <span typeof="mw:Error mw:File"></span>1,700 <span class="color-template color-template-robux color-template-background-clip">Robux</span> gave <img alt="Super Smoothie" height="25" src="img/Super_Smoothie.png" width="25"/>10 <strong class="mw-selflink selflink"><span class="color-template color-template-super-smoothie color-template-background-clip">Super Smoothies</span></strong> and other items.</li>
-<li>Purchasing the Magical Mythic Pack for <span typeof="mw:Error mw:File"></span>800 <span class="color-template color-template-robux color-template-background-clip">Robux</span> gave <img alt="Super Smoothie" height="25" src="img/Super_Smoothie.png" width="25"/>5 <strong class="mw-selflink selflink"><span class="color-template color-template-super-smoothie color-template-background-clip">Super Smoothies</span></strong> and other items.</li></ul></li>
-<li>Giving a <img alt="Present" height="35" src="img/Present.png" width="35"/><a href="present.html"><span class="color-template color-template-present color-template-background-clip">Present</span></a> to <a href="onett.html">Onett</a> during 2020, 2021 and 2022 Beesmases activated the buff.</li>
-<li>Completing <a href="onett.html">Onett's</a> Beesmas 2020 Quest rewarded <img alt="Super Smoothie" height="25" src="img/Super_Smoothie.png" width="25"/>1 <strong class="mw-selflink selflink"><span class="color-template color-template-super-smoothie color-template-background-clip">Super Smoothie</span></strong> and other items.</li>
-<li><a href="spirit-bear.html">Spirit Bear</a>'s Galentine's Shrine quest (Beesmas 2020) gave <img alt="Super Smoothie" height="25" src="img/Super_Smoothie.png" width="25"/>1 <strong class="mw-selflink selflink"><span class="color-template color-template-super-smoothie color-template-background-clip">Super Smoothie</span></strong> and other stuff upon completion.</li>
-<li>Opening the <a href="gift-boxes.html">Mondo Gift Box</a> gave <img alt="Super Smoothie" height="25" src="img/Super_Smoothie.png" width="25"/>3 <strong class="mw-selflink selflink"><span class="color-template color-template-super-smoothie color-template-background-clip">Super Smoothies</span></strong> + other items.</li>
-<li>Completing Bee Bear's 10th quest rewarded <img alt="Super Smoothie" height="25" src="img/Super_Smoothie.png" width="25"/>3 <strong class="mw-selflink selflink"><span class="color-template color-template-super-smoothie color-template-background-clip">Super Smoothies</span></strong>.</li>
-<li>Sun Bear’s “⌛Waiting With Sun Bear (6/6): Still Stranded” gives <img alt="Super Smoothie" height="25" src="img/Super_Smoothie.png" width="25"/>1 <strong class="mw-selflink selflink"><span class="color-template color-template-super-smoothie color-template-background-clip">Super Smoothie</span></strong> and other items.</li>
-<li>Bee Bear’s “Cheering Up Gloomy Cub (5/5): Anything???” gives <img alt="Super Smoothie" height="25" src="img/Super_Smoothie.png" width="25"/>5 <strong class="mw-selflink selflink"><span class="color-template color-template-super-smoothie color-template-background-clip">Super Smoothies</span></strong> and other items.</li>
-<li>Buying the 50 Super Smoothie Bundle from Bee Bear’s Catalog during Beesmas 2020, 2021, 2022 and 2024 for <img alt="Gingerbread Bear" height="25" src="img/Gingerbread_Bear.png" width="25"/>500 <a href="gingerbread-bear.html"><span class="color-template color-template-gingerbread-bear color-template-background-clip">Gingerbread Bears</span></a>.</li>
-<li><img alt="Super Smoothie" height="25" src="img/Super_Smoothie.png" width="25"/>10 <strong class="mw-selflink selflink"><span class="color-template color-template-super-smoothie color-template-background-clip">Super Smoothies</span></strong> were included in the Triumphant Turp Pack during Beesmas Winter 2024.</li>
-<li>Completing 10th and 20th <a href="bee-bear.html">Bee Bear's</a> Beesmas 2022 quests give 3 and 1 accordingly.</li>
-<li>Redeeming certain expired <a href="codes.html">codes</a>:
-<ul><li>3YearParty (Activated the buff + other stuff).</li>
-<li>RebootFriday (Activated the buff + other stuff)</li>
-<li>FourYearFiesta (Activated the buff + other stuff).</li>
-<li>boo swarm (Activated the buff + other stuff).</li>
-<li>1MLikes (Activates the buff + other stuff).</li>
-<li>WalmartToys (Activates the buff + other stuff).</li></ul></li>
-<li>As a rare reward from <a href="memory-match.html#Winter_Memory_Match">Winter Memory Match</a>.</li></ul>
-</td></tr></tbody></table>
 
 ## Crafting Uses
 
@@ -261,7 +229,7 @@ Total required for all single-purchase items: 275 **Super Smoothies**
 </th>
 <th class="NavCategory">Quest Exclusive
 </th>
-<td class="NavLinks NavLinksBasicEven"><b><img alt="Translator" height="35" src="img/Translator.png" width="35"/> <a href="translator.html">Translator</a> • <img alt="Spirit Petal" height="35" src="img/Spirit_Petal.png" width="35"/> <a href="spirit-petal.html">Spirit Petal</a> • <img alt="Debug Wax" height="35" src="img/Debug_Wax.png" width="35"/> <a href="debug-wax.html">Debug Wax</a> • <img alt="Nectar Tester" height="35" src="img/Nectar_Tester.png" width="35"/> <a href="nectar-tester.html">Nectar Tester</a></b> • <span typeof="mw:Error mw:File"></span> <a href="bbm-s-apology.html">BBM's Apology</a><b></b>
+<td class="NavLinks NavLinksBasicEven"><b><img alt="Translator" height="35" src="img/Translator.png" width="35"/> <a href="translator.html">Translator</a> • <img alt="Spirit Petal" height="35" src="img/Spirit_Petal.png" width="35"/> <a href="spirit-petal.html">Spirit Petal</a> • <img alt="Debug Wax" height="35" src="img/Debug_Wax.png" width="35"/> <a href="debug-wax.html">Debug Wax</a> • <img alt="Nectar Tester" height="35" src="img/Nectar_Tester.png" width="35"/> <a href="nectar-tester.html">Nectar Tester</a></b> • <span typeof="mw:Error mw:File"></span> <b></b>
 </td></tr>
 <tr>
 <th class="NavCategory">Beesmas

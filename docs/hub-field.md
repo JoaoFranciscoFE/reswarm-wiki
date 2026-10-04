@@ -35,7 +35,7 @@ None
 
 *Not to be confused with the [Hive Hub](hive-hub.md).*
 
-The **Hub Field** is a field that was added in the [2024-01-12 update](updates.md#2024-01-12) and is located in the trading portal beyond the [Ant Gate](ant-gate.md) inside the [Hive Hub](hive-hub.md).
+The **Hub Field** is a field that was added in the 2024-01-12 update and is located in the trading portal beyond the [Ant Gate](ant-gate.md) inside the [Hive Hub](hive-hub.md).
 
 This field contains 697 [flowers](flowers.md). They are white, blue, and red, in single, double, and triple sizes.
 
@@ -141,12 +141,6 @@ Only through the use of glitches, this field grants Comforting [Nectar](nectar.m
 ## Obtaining Boosts
 
 * Using [Glitter](glitter.md) will add 100% Hub Field pollen onto the current boost for 15 minutes if the boost isn't already maxed out.
-
-### Outdated Ways
-
-* Redeeming expired [codes](codes.md):
-  * BeequipTradeReboot (gave x4 Hub Field Boost and x15 Hub Field Winds + other stuff).
-  * 6irthday (gave x6 Hub Field Boost + other stuff).
 
 ## Trivia
 

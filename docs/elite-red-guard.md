@@ -57,7 +57,7 @@ This guard is one of 3 guards that can be purchased in the [Red HQ](red-hq.md), 
 
 ## Trivia
 
-* Before the [2018-11-25 update](updates.md#2018-11-25), the Elite Red Guard costed 8,000,000 honey and no crafting materials.
+* Before the 2018-11-25 update, the Elite Red Guard costed 8,000,000 honey and no crafting materials.
 * Previously in the Ready Player Two event, its description read ">> ☺ Sa livsuee sa dawol, romf nyyeds ot moakab." This is an anagram for "As elusive as Waldo, from Sydney to Bamako". It hinted towards the [code](codes.md#Ready_Player_Two_codes), "CarmenSanDiego".
 * This guard's blue counterpart is the [Elite Blue Guard](elite-blue-guard.md).
 
@@ -122,7 +122,7 @@ This guard is one of 3 guards that can be purchased in the [Red HQ](red-hq.md), 
 </th>
 <th class="NavCategory">Quest Exclusive
 </th>
-<td class="NavLinks NavLinksBasicEven"><b><img alt="Translator" height="35" src="img/Translator.png" width="35"/> <a href="translator.html">Translator</a> • <img alt="Spirit Petal" height="35" src="img/Spirit_Petal.png" width="35"/> <a href="spirit-petal.html">Spirit Petal</a> • <img alt="Debug Wax" height="35" src="img/Debug_Wax.png" width="35"/> <a href="debug-wax.html">Debug Wax</a> • <img alt="Nectar Tester" height="35" src="img/Nectar_Tester.png" width="35"/> <a href="nectar-tester.html">Nectar Tester</a></b> • <span typeof="mw:Error mw:File"></span> <a href="bbm-s-apology.html">BBM's Apology</a><b></b>
+<td class="NavLinks NavLinksBasicEven"><b><img alt="Translator" height="35" src="img/Translator.png" width="35"/> <a href="translator.html">Translator</a> • <img alt="Spirit Petal" height="35" src="img/Spirit_Petal.png" width="35"/> <a href="spirit-petal.html">Spirit Petal</a> • <img alt="Debug Wax" height="35" src="img/Debug_Wax.png" width="35"/> <a href="debug-wax.html">Debug Wax</a> • <img alt="Nectar Tester" height="35" src="img/Nectar_Tester.png" width="35"/> <a href="nectar-tester.html">Nectar Tester</a></b> • <span typeof="mw:Error mw:File"></span> <b></b>
 </td></tr>
 <tr>
 <th class="NavCategory">Beesmas
