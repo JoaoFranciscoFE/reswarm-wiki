@@ -371,7 +371,7 @@ Exhausted Bee likes the [Stump Field](stump-field.md), the [Sunflower Field](su
 * This bee was the first bee to be implemented with unlimited energy, a feature only shared with [Photon Bee](photon-bee.md).
   * This makes the Exhausted Bee the only non-[Event bee](bees-event.md) that has unlimited energy.
   * If a player dies, any Exhausted Bees in their hive will go to sleep no matter what.
-* [Onett](onett-developer.md) often calls himself an Exhausted Bee because he dedicates a lot of time to [Re://:Swarm](re-swarm.md).
+* [Onett](onett-developer.md) often calls himself an Exhausted Bee because he dedicates a lot of time to Bee Swarm Simulator.
   * The [code](codes.md), "OnettJelly" (expired) is a reference to Onett calling himself an Exhausted Bee.
 * Although its description implies that it never sleeps, Exhausted Bee can actually go to sleep because its energy is set to 280,000,000, which is not an unlimited amount. This is because infinity cannot be coded as a number.
 * When gathering in the [Stump Field](stump-field.md), the [Sunflower Field](sunflower-field.md), or the [Dandelion Field](dandelion-field.md), it has an unbelievably rare chance to find a Moai [Sticker](sticker.md).

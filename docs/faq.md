@@ -57,7 +57,7 @@ Check out the pages on [royal jelly](royal-jelly.md) and tickets.
 
 ### What is today's [code](codes.md)?
 
-There's no such thing as "today's code". Codes are issued when Onett deems fit, which is generally not a daily occurrence. ("Monthly" or "yearly" is closer to the truth.) If you've heard that there's a new code, check out the [Codes](codes.md) page.
+There's no such thing as "today's code". Codes are issued by the game's developer, [ReplicatedEvents](re-swarm.md), when they see fit, which is generally not a daily occurrence. If you've heard that there's a new code, check out the [Codes](codes.md) page.
 If you're not a registered user, make sure to click both of the refresh links in the white box at the top of the page — otherwise, you'll get yesterday's page. Heck, even if you *are* a registered user, the refresh links can't hurt.
 
 ### There's a new code and I don't see it on the page! How do I add it?
@@ -70,7 +70,7 @@ There are currently no plans to remove any of the Event bees. "Event Bee" does n
 
 ### How do I access the Test Realm?
 
-You must be in [Onett's Testing Group](onett-s-testing-group.md) to join the Test Realm when it is open. Only Onett approves new members of the group. He tends to only approve new members when he is testing a new update.
+Re://:Swarm has its own test place, separate from Bee Swarm Simulator's Test Realm. [Onett's Testing Group](onett-s-testing-group.md) is for Bee Swarm Simulator and does not give access to it.
 
 ### Royal Jelly Questions
 
@@ -102,7 +102,7 @@ It means that your bee is a [1st edition](first-edition-bee.md). [Bear Bees](bea
 
 ### There's a player stuck in my hive! He never moves, and I can't read their name.
 
-You're in hive #6, aren't you? That's the Onett statue from on top of the hives. (Onett is the game's creator.) Sometimes, he falls down and lands in odd places, like in the honeycomb of hive #6. You should be able to just play as if he weren't there - your bees will ignore him, and the hive will still be functional.
+You're in hive #6, aren't you? That's the Onett statue from on top of the hives. (Onett is the creator of Bee Swarm Simulator, the game Re://:Swarm is based on.) Sometimes, he falls down and lands in odd places, like in the honeycomb of hive #6. You should be able to just play as if he weren't there - your bees will ignore him, and the hive will still be functional.
 
 ### Do the royal jellies or tickets hidden around the map ever respawn?
 

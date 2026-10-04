@@ -348,7 +348,7 @@ Bear Bee likes the [Pumpkin Patch](pumpkin-patch.md) and the [Pine Tree Forest](
 * This is the only Event bee that can become gifted without the use of a star treat or gingerbread bear, as all First Edition Bear Bees become automatically gifted when the owner joins the game if they are not gifted yet.
 * There is a glitch in which dying with bear morph active will leave the player's character without a head when it deactivates.
 * There is a [sticker](sticker.md) that can be obtained by a Gifted Bear Bee, that being the Bear Bee Offer Sticker, as an extremely rare drop while gathering in the [Pineapple Patch](pineapple-patch.md), or a 1/3 chance from feeding it a [Star Treat](star-treat.md).
-* Bear Bee LLC, the company created by [Onett](onett-developer.md) that owns the Re://:Swarm trademark, uses this bee for the company's name.[1]
+* Bear Bee LLC, the company created by [Onett](onett-developer.md) that owns the Bee Swarm Simulator trademark, uses this bee for the company's name.[1]
 
 <table class="mw-collapsible mw-collapsed NavTable">
 <tbody><tr>

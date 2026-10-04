@@ -7,7 +7,7 @@ tags: ["Pages with broken file links", "Gameplay", "Mechanics", "Re://:Swarm"]
 
 <figure class="thumb" style="width: 180px" typeof="mw:File/Thumb">  <figcaption class="thumbcaption"> <p class="caption">The badge icon.</p> </figcaption> </figure>
 
-**Badges** are part of the achievement system of [Re://:Swarm](re-swarm.md). There are currently 155 badges in Re://:Swarm (including inactive badges). 30 of the badges are currently unobtainable.
+**Badges** are part of the achievement system of [Re://:Swarm](re-swarm.md). The badge list below was adapted from Bee Swarm Simulator and may not match the badges in Re://:Swarm.
 
 Most of these badges are based on collecting a certain amount of [pollen](pollen.md) from a certain [field](fields.md). Obtaining a non-event badge awards [Tickets](ticket.md) and a permanent boost. Boosts in the same category do not stack - earning a higher-ranked badge overwrites the old boost with the new one. The number of [Tickets](ticket.md) earned depends on the rank of the badge earned.
 
@@ -1477,7 +1477,7 @@ There are currently no obtainable event badges.
 <ul><li><span class="new" data-uncrawlable-url="L3dpa2kvU3dhcm1pbmdfRWdnX29mX3RoZV9IaXZlP2FjdGlvbj1lZGl0JnJlZGxpbms9MQ==" title="Swarming Egg of the Hive (page does not exist)">Swarming Egg of the Hive</span></li></ul>
 </td></tr>
 <tr>
-<td><figure class="mw-halign-center" typeof="mw:Error mw:File"><figcaption></figcaption></figure> You Played Re://:Swarm!
+<td><figure class="mw-halign-center" typeof="mw:Error mw:File"><figcaption></figcaption></figure> You Played Bee Swarm Simulator!
 </td>
 <td>Solve 3 puzzles from The Computer during Ready Player Two event.
 </td>
@@ -1485,15 +1485,15 @@ There are currently no obtainable event badges.
 <ul><li><span class="new" data-uncrawlable-url="L3dpa2kvSG93X3RvX1Byb2dyYW1fQkFTSUM/YWN0aW9uPWVkaXQmcmVkbGluaz0x" title="How to Program BASIC (page does not exist)">How to Program BASIC</span></li></ul>
 </td></tr>
 <tr>
-<td><figure class="mw-halign-center" typeof="mw:Error mw:File"><figcaption></figcaption></figure> Re://:Swarm: TIX <i>X</i> (10x)
+<td><figure class="mw-halign-center" typeof="mw:Error mw:File"><figcaption></figcaption></figure> Bee Swarm Simulator: TIX <i>X</i> (10x)
 </td>
-<td>Find a total of a total of 10 Tix inside of Re://:Swarm (4 were hidden in the main game, 3 were in the lobby subplace, and 3 were hidden in the <a href="retro-swarm-challenge.html">Retro Swarm Challenge</a>.
+<td>Find a total of a total of 10 Tix inside of Bee Swarm Simulator (4 were hidden in the main game, 3 were in the lobby subplace, and 3 were hidden in the <a href="retro-swarm-challenge.html">Retro Swarm Challenge</a>.
 </td>
 <td>
 <ul><li>+1 Tix currency to spend in the Roblox: <a href="https://www.roblox.com/games/17427651911/The-Classic">The Classic</a> hub (depending on how many badges were obtained).</li></ul>
 </td></tr>
 <tr>
-<td><figure class="mw-halign-center" typeof="mw:Error mw:File"><figcaption></figcaption></figure> Re://:Swarm: OG Token (Round <i>X</i>) (5x)
+<td><figure class="mw-halign-center" typeof="mw:Error mw:File"><figcaption></figcaption></figure> Bee Swarm Simulator: OG Token (Round <i>X</i>) (5x)
 </td>
 <td>A Token was awarded to the player if they managed to beat rounds 2, 4, 6, 8 and 10 in the Retro Swarm Challenge.
 </td>
@@ -1503,7 +1503,7 @@ There are currently no obtainable event badges.
 <tr>
 <td><figure class="mw-halign-center" typeof="mw:Error mw:File"><figcaption></figcaption></figure> The Games: Shine (<i>X</i>/5) (5x)
 </td>
-<td>Find a total of a total of 5 Shines inside of Re://:Swarm. Unlike the <span class="new" data-uncrawlable-url="L3dpa2kvUm9ibG94Ol9UaGVfQ2xhc3NpYz9hY3Rpb249ZWRpdCZyZWRsaW5rPTE=" title="Roblox: The Classic (page does not exist)">Roblox: The Classic</span>, they were all inside the main Re://:Swarm subplace.
+<td>Find a total of a total of 5 Shines inside of Bee Swarm Simulator. Unlike the <span class="new" data-uncrawlable-url="L3dpa2kvUm9ibG94Ol9UaGVfQ2xhc3NpYz9hY3Rpb249ZWRpdCZyZWRsaW5rPTE=" title="Roblox: The Classic (page does not exist)">Roblox: The Classic</span>, they were all inside the main Bee Swarm Simulator subplace.
 </td>
 <td>
 <ul><li>+1 Shine currency to spend in the <a href="https://www.roblox.com/games/18320910606/The-Games">The Games</a> hub (depending on how many badges were obtained).</li></ul>

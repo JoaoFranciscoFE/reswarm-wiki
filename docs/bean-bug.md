@@ -26,7 +26,7 @@ tags: ["Mobs", "Pages with broken file links", "Egg Hunt Event", "Passive Mobs"]
 </section>
 </aside>
 
-The **Bean Bug** is a passive [mob](mobs.md) that can randomly appear in any field (except the [Ant Field](ant-field.md)), be spawned through the [Wind Shrine](wind-shrine.md) by donating 50-100 eggs or be manually spawned by [Onett](onett-developer.md). They often spawn in one field in groups of 3 or more, and later split up.
+The **Bean Bug** is a passive [mob](mobs.md) that can randomly appear in any field (except the [Ant Field](ant-field.md)), be spawned through the [Wind Shrine](wind-shrine.md) by donating 50-100 eggs or be manually spawned by the developer (ReplicatedEvents in Re://:Swarm, [Onett](onett-developer.md) in Bee Swarm Simulator). They often spawn in one field in groups of 3 or more, and later split up.
 
 When they spawn, they spit 1-3 [Jelly Beans](jelly-beans.md) tokens in volleys over the field which any player can pick up, or can also spit out a Standing Bean Bug [Sticker](sticker.md) very rarely. Then they hop to another location on the field and spit more. The tokens only last for a few seconds, much less time than the tokens spawned from regular Jelly Beans. After 7-15 volleys of Jelly Beans, the Bean Bugs hop to other fields to spit Jelly Beans. This process repeats until they despawn after a while. Rarely, it may spawn a [Standing Bean Bug Sticker](sticker.md#Sticker_Index).
 
@@ -48,7 +48,7 @@ Players are unable to damage it, nor can it damage players, hence why it is a pa
 * These and fireflies are the only passive mobs that are able to produce [tokens.](ability-tokens.md)
 * This, [Stick Bug](stick-bug.md), [Snowbears](snowbear.md) and [Mechsquitos](mechsquito.md) are the only mobs being able to spawn a [debuff](buffs-debuffs.md#Debuffs). Stick Bug can spawn the Splinter Trap, Snowbear can Freeze with its Snowballs, Mechsquitos can apply Mechsquito Toxin by firing at the player, and Bean Bugs can spawn spoiled Jelly Beans.
 * As confirmed by Bee Bear, Bean Bugs have small brains and cannot understand the concept of naughty or nice.
-* At the end of Beesmas 2020, Onett spawned them as "The Bean Bug Brigade".
+* In Bee Swarm Simulator, at the end of Beesmas 2020, Onett spawned them as "The Bean Bug Brigade".
   * They then returned at the end of Beesmas 2021 as they "Awoke from Hibernation".
 * Bean Bugs are the first mob that use jumping to move around, with frogs being the second.
   * While, technically, chicks jump when they go inside their egg, this is the only time they do so.

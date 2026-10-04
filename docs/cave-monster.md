@@ -44,7 +44,7 @@ It is possible to defeat the cave monster. However, they move very fast, so some
 
 ## Trivia
 
-* [Onett](onett-developer.md) had stated that cave monsters have a rare drop and can only be obtained by defeating them, but he also said that the drop is not very useful. This was later confirmed to be a Honey Bee egg. Onett had also jokingly said that "Saving the [honey bee](honey-bee.md) from the cave monsters was the ultimate goal of [Re://:Swarm](re-swarm.md)."[1]
+* [Onett](onett-developer.md) had stated that cave monsters have a rare drop and can only be obtained by defeating them, but he also said that the drop is not very useful. This was later confirmed to be a Honey Bee egg. Onett had also jokingly said that "Saving the [honey bee](honey-bee.md) from the cave monsters was the ultimate goal of Bee Swarm Simulator."[1]
 * Their noises can be heard throughout the entire map, along with [Mondo Chick](mondo-chick.md), [Commando Chick](commando-chick.md), and a few other things.
 * Cave monsters were the first mobs that are able to instantly kill the player and one of two mobs that instantly kill the player upon touching them (the other being [Tunnel Bear](tunnel-bear.md)).
   * This makes the cave monsters the most lethal non-boss mob in the game.

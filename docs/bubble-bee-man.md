@@ -924,7 +924,7 @@ Nice. You did it, nice. That was sorta hard. Well... uhh... Ok I guess this is i
 
 ## Trivia
 
-* Bubble Bee Man originated from [Mah\_Bucket's](https://roblox.fandom.com/wiki/Player:Mah_Bucket) fan-event called "Beesmas", which [Re://:Swarm](re-swarm.md) participated in.
+* Bubble Bee Man originated from [Mah\_Bucket's](https://roblox.fandom.com/wiki/Player:Mah_Bucket) fan-event called "Beesmas", which Bee Swarm Simulator participated in.
 * Bubble Bee Man is the only NPC to own two different NPC pads for itself, the other being behind the Global Top Battlers Leaderboard near Panda Bear. However, it was removed during [Beesmas 2019](updates.md#2019-12-23).
   * During Beesmas 2018, Bubble Bee Man also gave the player a quest after they obtained the first [Beesmas Badge](badges.md#Unobtainable) (Beesmas Believer) from [Bee Bear](bee-bear.md).
 * Bubble Bee Man is the only NPC to have deliberate grammatical errors, typos and misspellings in their dialogue.

@@ -4388,7 +4388,7 @@ x1 <a href="purple-potion.html">Purple Potion</a>
 
 ## Sticker Seeker, Quest Bees & Onett
 
-Quest Bees are a variant of quest givers that are based of different types of bees. Onett is a quest giver who is a NPC version of the developer.
+Quest Bees are a variant of quest givers that are based of different types of bees. Onett is a quest giver who is an NPC version of Bee Swarm Simulator's developer.
 
 ### Sticker Seeker Quest Machine
 

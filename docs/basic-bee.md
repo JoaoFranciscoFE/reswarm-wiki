@@ -369,7 +369,7 @@ Basic Bee likes the [Sunflower Field](sunflower-field.md), [Clover Field](clover
 ## Trivia
 
 * Basic Bee is the only type of Common bee.
-* Due to the large number of appearances Basic Bee makes within the game and thumbnails, it is considered the main mascot of Re://:Swarm.
+* Due to the large number of appearances Basic Bee makes within the game and thumbnails, it is considered the main mascot of Bee Swarm Simulator.
 * Basic Bee is one of three bees to have an official plushie on the [Official Bee Swarm Simulator Website](https://shop.beeswarm.com/), the others being Tabby Bee and Vicious Bee.
 * The statistics for all other [bees](bees.md) are described in terms of their difference from Basic Bee’s statistics. For example, +20 collection means that the bee it's describing has collected 20 more pollen than Basic Bee.
 * Basic Bee and [Brave Bee](brave-bee.md) are the only bees without abilities.

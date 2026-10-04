@@ -26,7 +26,7 @@ The player can also customize their hive putting [stickers](sticker.md) on it, a
 * The statue of Onett on the top of the 6th hive has 38217 pollen in his [Port-O-Hive](port-o-hive.md), which is a reference to a [code](codes.md) with the reward of 5 [Tickets](ticket.md).
 * The [2018-07-11 update](updates.md#2018-07-11) introduced a glitch that when looking on another hive, it shows the wrong rarity. This is mostly patched, but still occasionally happens.
 * Prior to the [2018-11-25 update](updates.md#2018-11-25), there were only 5 hives in the game.
-* In the earlier days of Re://:Swarm, bee faces on hive slots were bigger and they also used to sparkle depending on what rarity the bee was. The rarer the bee, the more sparkles they would've emitted (excluding the [Basic Bee](basic-bee.md) hive slot).
+* In the earlier days of Bee Swarm Simulator, bee faces on hive slots were bigger and they also used to sparkle depending on what rarity the bee was. The rarer the bee, the more sparkles they would've emitted (excluding the [Basic Bee](basic-bee.md) hive slot).
 * The blue wall next to the leftmost hive wasn't solid after the [2019-04-05 update](updates.md#2019-04-05). Because of this, it was possible to bypass most of the gates without having the required number of bees. This was fixed in the following update.
   * According to [Onett](onett-developer.md), this was for a test when he was developing the game. However, he forgot to make the wall solid after testing.
 * You can click on your bee's hive slot from any distance, as long as you click the face of the bee.

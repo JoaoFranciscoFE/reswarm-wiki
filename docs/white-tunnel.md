@@ -33,7 +33,7 @@ This [audio](music.md) is known as "Crawlers" and also plays inside the [King Be
 
 ## Trivia
 
-* The winking bee at the end of the tunnel is the same winking bee picture in a previous [Re://:Swarm](re-swarm.md) thumbnail.
+* The winking bee at the end of the tunnel is the same winking bee picture in a previous Bee Swarm Simulator thumbnail.
 * Before the [2018-09-10 update](updates.md#2018-09-10), the tunnel could also be entered by going outside the map and finding the spot on the top of the tunnel where Tunnel Bear enters it. The update buried the tunnel under green grass (white snow during Beesmas) to make it more tunnel-like, so this entrance is now much harder to find. However, the cover is non-collidable so you can pass through it.
 * Before the [2018-11-25 update](updates.md#2018-11-25), the width of the tunnel was the same throughout the entire tunnel, instead of getting narrower.
 * To enter through the alternate entrance, you would have to jump over the wall behind science bear. Best way to do this is to use the Wind Shrine to get on the wall, then make your way over.

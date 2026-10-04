@@ -5,6 +5,24 @@ tags: ["Pages with broken file links", "Gameplay", "Bee Swarm Simulator"]
 
 # Updates
 
+## Recent Re://:Swarm changes
+
+Exact dates for these changes have not been recorded yet.
+
+* Added the **Painter Bee** event: Painter Bee and its Gifted variant, new Painter stickers, the Painter Bee Voucher and 1st Edition Painter Bee Voucher, and Painter Bee's Artistic Hive Skin. The rebirth 35 reward is now a Painter Bee egg.
+* Added the "Painter Bee's Colorful Haul" pack to the shop and code `splat!`. Code `celebration!` expired.
+* Added **Fluxite Wax**, which rerolls a beequip's potential without using a wax slot.
+* Added the **Supreme** [Puffshroom](puffshroom.md) rarity, above Mythic. The "Hide Puffs Below" performance setting also hides field spores.
+* Auto-use from the inventory and from the hotbar now share one runner, so their buttons stay in sync and use the same cooldowns.
+* Item use sounds only play once the server confirms the item was used.
+* Stickers can be set to go straight to the Inbox from the Sticker Index.
+* Bee wing levels are now shown as numbers, so any level displays correctly.
+* The [Tutorial](tutorial.md) is now offered after claiming a hive and finishing Onett's Honeyday welcome.
+
+## Bee Swarm Simulator update history
+
+*The log below is Bee Swarm Simulator's update history, imported from the Bee Swarm Simulator Wiki. It is kept for reference and is not Re://:Swarm's update history.*
+
 ### 2026-06-08
 
 <figure class="thumb" style="width: 180px" typeof="mw:File/Thumb">  <figcaption class="thumbcaption"> </figcaption> </figure>

@@ -32,7 +32,7 @@ A Wild Windy Bee may spawn naturally every two in-game [Day/Night Cycles](day-ni
 
 It can also be spawned by receiving [Spirit Bear's](spirit-bear.md) "Tickle The Wind" [20] [Quest](quests.md) that summons 3 Wild Windy Bees at Mountain Top Field, by completing Spirit Bear's "Space Oblivion" [24] quest that summons a single Wild Windy Bee, And by receiving Spirit Bear's "Spring Out Of The Mountain" [30] Quest that summons a single Wild Windy Bee.
 
-When a Wild Windy Bee spawns, the player needs to find a floating Cloud over a field with Windy Bee inside. It will be camouflaged inside the cloud and have a distinct white trail. Touching the cloud in time will initiate the fight. The starting level of Wild Windy Bee upon discovery is random but can only go up to level 6 (unless spawned by [Onett](onett-developer.md)).
+When a Wild Windy Bee spawns, the player needs to find a floating Cloud over a field with Windy Bee inside. It will be camouflaged inside the cloud and have a distinct white trail. Touching the cloud in time will initiate the fight. The starting level of Wild Windy Bee upon discovery is random but can only go up to level 6 (unless spawned by the developer).
 
 When Windy Bee starts its attack, all players on the server receive the message: "☁️ (Player Username) found Windy Bee in the {field} Field! ☁️". When the Windy Bee's HP reaches 0, the bee will drop rewards and immediately move to a random field, excluding the [Hub Field](hub-field.md), [Ant Field](ant-field.md), and [Stump Field](stump-field.md). It leaves successively better rewards behind each time it's forced to move. When it leaves the map after its 5-minute timer elapses, the server states:  
 ☁️ Windy Bee is fleeing... ☁️
@@ -398,7 +398,8 @@ Every time Wild Windy Bee is defeated, the following rewards may be dropped. Def
 * Windy Bee and [Vicious Bee](vicious-bee.md) are the only bosses/mobs that are [bees](bees.md), Vicious Bee's counterpart being [Rogue Vicious Bee](rogue-vicious-bee.md).
   * Unlike Rogue Vicious Bee, the Wild Windy Bee does not have a gifted variant.
 * Similar to Rogue Vicious Bee's [Impale](ability-tokens.md#Impale) attack, the tornado can deal damage to other mobs.
-* [Onett](onett-developer.md) would sometimes spawn Wild Windy Bee in fields, including fields where it wouldn't naturally appear, usually to help grow [sprouts](sprout.md) that he also spawns.
+* In Re://:Swarm, the game's developer, ReplicatedEvents, can spawn Wild Windy Bees in a server or in every server with an admin command. 
+* In Bee Swarm Simulator, [Onett](onett-developer.md) would sometimes spawn Wild Windy Bee in fields, including fields where it wouldn't naturally appear, usually to help grow [sprouts](sprout.md) that he also spawns.
   * If Onett spawns them in the [Stump Field](stump-field.md), the Windy Bees freeze in the air upon defeat until the timer is up, as they are not programmed to fly to any other field from Stump Field.
   * At the end of Beesmas 2020, Onett spawned a couple of Wild Windy Bees called "The Windy Gang".
   * The Windy Gang made a return in Beesmas 2021, spawning a Festive Sprout and appearing in the [Mountain Top Field](mountain-top-field.md).
