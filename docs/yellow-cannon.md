@@ -5,6 +5,8 @@ tags: ["Transport", "Locations", "Machines"]
 
 # Yellow Cannon
 
+![Yellow Cannon](img/places/Yellow_Cannon.png){ .wiki-photo }
+
 <figure class="thumb" style="width: 130px" typeof="mw:File/Thumb">  <figcaption class="thumbcaption"> <p class="caption">The Yellow Cannon.</p> </figcaption> </figure>
 
 The **Yellow Cannon** is available for use once the player has discovered 12 [bee](bees.md) types. It is located on a hill accessible from the [Brave Bee Gate](brave-bee-gate.md) next to [Science Bear](science-bear.md) and the [Red Teleporter](red-teleporter.md) exit. It has a 5-second cooldown period. It targets the spawn platform.

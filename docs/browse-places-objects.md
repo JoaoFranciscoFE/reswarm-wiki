@@ -12,11 +12,11 @@ All 39 pages in Places & Objects.
 <a class="wiki-card wiki-card--photo" href="ant-gate.html"><img src="img/places/Ant_Gate.png" alt="" loading="lazy"><span>Ant Gate</span></a>
 <a class="wiki-card wiki-card--photo" href="badge-bearer-s-guild.html"><img src="img/places/Badge_Bearer's_Guild.png" alt="" loading="lazy"><span>Badge Bearer&#x27;s Guild</span></a>
 <a class="wiki-card wiki-card--photo" href="basic-bee-gate.html"><img src="img/places/Basic_Bee_Gate.png" alt="" loading="lazy"><span>Basic Bee Gate</span></a>
-<a class="wiki-card wiki-card--noicon" href="bear-gate.html"><img src="images/no-icon.svg" alt="" loading="lazy"><span>Bear Gate</span></a>
+<a class="wiki-card wiki-card--photo" href="bear-gate.html"><img src="img/places/Bear_Gate.png" alt="" loading="lazy"><span>Bear Gate</span></a>
 <a class="wiki-card wiki-card--photo" href="blue-cannon.html"><img src="img/places/Blue_Cannon.png" alt="" loading="lazy"><span>Blue Cannon</span></a>
 <a class="wiki-card wiki-card--photo" href="blue-field-booster.html"><img src="img/places/Blue_Field_Booster.png" alt="" loading="lazy"><span>Blue Field Booster</span></a>
-<a class="wiki-card wiki-card--noicon" href="blue-hq.html"><img src="images/no-icon.svg" alt="" loading="lazy"><span>Blue HQ</span></a>
-<a class="wiki-card wiki-card--noicon" href="blue-teleporter.html"><img src="images/no-icon.svg" alt="" loading="lazy"><span>Blue Teleporter</span></a>
+<a class="wiki-card wiki-card--photo" href="blue-hq.html"><img src="img/places/Blue_HQ.png" alt="" loading="lazy"><span>Blue HQ</span></a>
+<a class="wiki-card wiki-card--photo" href="blue-teleporter.html"><img src="img/places/Blue_Teleporter.png" alt="" loading="lazy"><span>Blue Teleporter</span></a>
 <a class="wiki-card wiki-card--photo" href="brave-bee-gate.html"><img src="img/places/Brave_Bee_Gate.png" alt="" loading="lazy"><span>Brave Bee Gate</span></a>
 <a class="wiki-card wiki-card--photo" href="coconut-cave.html"><img src="img/places/Coconut_Cave.png" alt="" loading="lazy"><span>Coconut Cave</span></a>
 <a class="wiki-card wiki-card--noicon" href="commando-chick-s-hideout.html"><img src="images/no-icon.svg" alt="" loading="lazy"><span>Commando Chick&#x27;s Hideout</span></a>
@@ -29,7 +29,7 @@ All 39 pages in Places & Objects.
 <a class="wiki-card wiki-card--photo" href="lion-bee-gate.html"><img src="img/places/Lion_Bee_Gate.png" alt="" loading="lazy"><span>Lion Bee Gate</span></a>
 <a class="wiki-card wiki-card--photo" href="moon-amulet-generator.html"><img src="img/places/Moon_Amulet_Generator.png" alt="" loading="lazy"><span>Moon Amulet Generator</span></a>
 <a class="wiki-card wiki-card--photo" href="nectar-condenser.html"><img src="img/places/Nectar_Condenser.png" alt="" loading="lazy"><span>Nectar Condenser</span></a>
-<a class="wiki-card wiki-card--noicon" href="nectar-pot.html"><img src="images/no-icon.svg" alt="" loading="lazy"><span>Nectar Pot</span></a>
+<a class="wiki-card wiki-card--photo" href="nectar-pot.html"><img src="img/places/Nectar_Pot.png" alt="" loading="lazy"><span>Nectar Pot</span></a>
 <a class="wiki-card wiki-card--photo" href="red-cannon.html"><img src="img/places/Red_Cannon.png" alt="" loading="lazy"><span>Red Cannon</span></a>
 <a class="wiki-card wiki-card--photo" href="red-field-booster.html"><img src="img/places/Red_Field_Booster.png" alt="" loading="lazy"><span>Red Field Booster</span></a>
 <a class="wiki-card wiki-card--photo" href="red-hq.html"><img src="img/places/Red_HQ.png" alt="" loading="lazy"><span>Red HQ</span></a>
@@ -47,5 +47,5 @@ All 39 pages in Places & Objects.
 <a class="wiki-card wiki-card--photo" href="white-tunnel.html"><img src="img/places/White_Tunnel.png" alt="" loading="lazy"><span>White Tunnel</span></a>
 <a class="wiki-card wiki-card--photo" href="wind-shrine.html"><img src="img/places/Wind_Shrine.png" alt="" loading="lazy"><span>Wind Shrine</span></a>
 <a class="wiki-card wiki-card--photo" href="windy-bee-gate.html"><img src="img/places/Windy_Bee_Gate.png" alt="" loading="lazy"><span>Windy Bee Gate</span></a>
-<a class="wiki-card wiki-card--noicon" href="yellow-cannon.html"><img src="images/no-icon.svg" alt="" loading="lazy"><span>Yellow Cannon</span></a>
+<a class="wiki-card wiki-card--photo" href="yellow-cannon.html"><img src="img/places/Yellow_Cannon.png" alt="" loading="lazy"><span>Yellow Cannon</span></a>
 </div>

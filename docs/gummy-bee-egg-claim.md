@@ -5,7 +5,7 @@ tags: ["Locations", "Egg Claims"]
 
 # Gummy Bee Egg Claim
 
-![Gummy Bee Egg Claim](img/Gummy_Bee_Egg_Claim.png){ align=right width=150 }
+![Gummy Bee Egg Claim](img/places/Gummy_Bee_Egg_Claim.png){ .wiki-photo }
 
 <figure class="thumb" style="width: 220px" typeof="mw:File/Thumb">  <figcaption class="thumbcaption"> <p class="caption">The Gummy Bee Egg Claim.</p> </figcaption> </figure>
 

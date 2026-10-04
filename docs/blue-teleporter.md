@@ -5,6 +5,8 @@ tags: ["Transport", "Locations", "Machines", "Blue"]
 
 # Blue Teleporter
 
+![Blue Teleporter](img/places/Blue_Teleporter.png){ .wiki-photo }
+
 <figure class="thumb" style="width: 200px" typeof="mw:File/Thumb">  <figcaption class="thumbcaption"> <p class="caption">The Blue Teleporter pad in the Blue HQ.</p> </figcaption> </figure>
 
 <figure class="thumb" style="width: 230px" typeof="mw:File/Thumb">  <figcaption class="thumbcaption"> <p class="caption">The destination of the Blue Teleporter.</p> </figcaption> </figure>
