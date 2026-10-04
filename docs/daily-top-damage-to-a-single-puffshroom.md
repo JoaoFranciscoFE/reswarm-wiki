@@ -5,6 +5,8 @@ tags: ["Leaderboards"]
 
 # Daily Top Damage to A Single Puffshroom
 
+![Daily Top Damage to A Single Puffshroom](img/Daily_Top_Damage_to_A_Single_Puffshroom.png){ align=right width=150 }
+
 The **Daily Top Damage to A Single Puffshroom** is one of the 64 [leaderboards](leaderboards.md) in the game, and is only viewable via the Global Leaderboards menu in the [System Page](system-page.md). This leaderboard shows the highest damage players have dealt to a single [Puffshroom](puffshroom.md) on that day. It shows 10 leaderboard positions at a time. The player can scroll down the leaderboard to see more players, all the way to the 100th place. It resets every day at 12:00 AM CST.
 
 ## Prizes

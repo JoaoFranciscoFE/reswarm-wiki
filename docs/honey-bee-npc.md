@@ -5,6 +5,8 @@ tags: ["Removed Content", "NPC", "Quest Bees", "Quest Giver", "Bees"]
 
 # Honey Bee (NPC)
 
+![Honey Bee (NPC)](img/Honey_Bee_(NPC).png){ align=right width=150 }
+
 *This page is for the quest-giving NPC. For the worker bee version, see [Honey Bee](honey-bee.md).*
 
 <table class="infobox" style="font-size:12px; color:white; width:300px; background:#a58b59;padding:0; border:none; color:#FFF;">

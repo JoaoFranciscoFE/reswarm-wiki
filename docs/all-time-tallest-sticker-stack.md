@@ -5,6 +5,8 @@ tags: ["Leaderboards", "Locations"]
 
 # All-Time Tallest Sticker Stack
 
+![All-Time Tallest Sticker Stack](img/All-Time_Tallest_Sticker_Stack.png){ align=right width=150 }
+
 The **Tallest Sticker Stack** is one of 64 [leaderboards](leaderboards.md) in the game. This leaderboard shows the amount of [stickers](sticker.md) players have donated to the [Sticker Stack](sticker-stack.md). It shows 10 leaderboard positions at a time. The player can scroll down the leaderboard to see more players, all the way to the 100th place.
 
 ## Location

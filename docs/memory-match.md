@@ -5,6 +5,8 @@ tags: ["Machines", "Locations"]
 
 # Memory Match
 
+![Memory Match](img/Memory_Match.png){ align=right width=150 }
+
 This piece of content contains information obtained through datamining.
 
 Due to the nature of the information, details may be inaccurate or outdated.

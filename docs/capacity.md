@@ -5,6 +5,8 @@ tags: ["Mechanics"]
 
 # Capacity
 
+![Capacity](img/Capacity.png){ align=right width=150 }
+
 **Capacity** is a [mechanic](mechanics.md) that shows how much [pollen](pollen.md) the player can store at a time. Capacity can be increased in a variety of ways including [buffs](buffs-debuffs.md), [items](items.md), [stickers](sticker.md), and [amulets](amulet.md). Capacity can be increased by static amounts or by multipliers. Static increases can be shown simply through addition symbols (+) while multipliers can be shown through multiplication symbols (x) or percentages (%). The player's Capacity is displayed in the top-middle section, labelled as "Pollen" and also on the player's bag. The player can see how much their capacity is multiplied by looking for the Capacity Multiplier stat in the [System Page](system-page.md).
 
 <figure class="thumb" style="width: 180px" typeof="mw:File/Frame">  <figcaption class="thumbcaption"> </figcaption> </figure>

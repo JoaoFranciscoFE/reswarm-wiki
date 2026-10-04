@@ -5,6 +5,8 @@ tags: ["Leaderboards"]
 
 # All-Time Top Retro Swarm Hive Defenders
 
+![All-Time Top Retro Swarm Hive Defenders](img/All-Time_Top_Retro_Swarm_Hive_Defenders.png){ align=right width=150 }
+
 The **All-Time Top Retro Swarm Hive Defenders** is one of the 64 [leaderboards](leaderboards.md) in the game. This leaderboard shows the top 100 people who've earned the highest scores in the [Retro Swarm Challenge](retro-swarm-challenge.md), showing ten ranks at a time. The player can scroll down the leaderboard to see more players, all the way to the 100th place.
 
 <table class="mw-collapsible mw-collapsed NavTable">

@@ -5,6 +5,8 @@ tags: ["Shops", "Locations"]
 
 # Dapper Bear's Shop
 
+![Dapper Bear's Shop](img/Dapper_Bear's_Shop.png){ align=right width=150 }
+
 <aside class="portable-infobox pi-background pi-border-color pi-theme-wikia pi-layout-default" role="region">
 <h2 class="pi-item pi-item-spacing pi-title pi-secondary-background" data-source="title1">Dapper Bear's Shop</h2>
 <div class="pi-item pi-data pi-item-spacing pi-border-color" data-source="row1">

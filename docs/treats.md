@@ -5,6 +5,8 @@ tags: ["Items", "Inventory", "Gameplay", "Treats"]
 
 # Treats
 
+![Treats](img/Treats.png){ align=right width=150 }
+
 **Treats** are items which grant [bond](bond.md) to [bees](bees.md). There are currently twelve different types of treats.
 
 To feed treats to their bees, players must go to their [hive](hive.md) and open their item menu. The player must then drag the treat from the menu and to the cell of the bee to be fed, and then either type in the number of treats to feed that bee, use all of the selected treats or if possible, feed the number of treats needed to level up the bee. If the player is feeding a bee their favorite treat, gingerbread bears, or aged gingerbread bears, there is an "Until [Gifted](gifted-bee.md)" option that automatically rolls until the bee becomes gifted, similar to using [auto-jelly](system-page.md#Auto-Jelly_Settings). The player cannot feed other player's bees.

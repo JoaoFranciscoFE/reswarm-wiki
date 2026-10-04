@@ -5,6 +5,8 @@ tags: ["Leaderboards"]
 
 # All-Time Top Honey Bee Helpers
 
+![All-Time Top Honey Bee Helpers](img/All-Time_Top_Honey_Bee_Helpers.png){ align=right width=150 }
+
 The **All-Time Top Honey Bee Helpers** is one of the 64 [leaderboards](leaderboards.md) in the game, and one of the 20 leaderboards with an in-game model. This leaderboard shows how many [Honey Bee](honey-bee-npc.md) quests players have completed over time. It shows 10 leaderboard positions at a time. The player can scroll down the leaderboard to see more players, all the way to the 100th place. Only legitimate players appear on the leaderboards for lengths of time (hackers/exploiters will be removed).
 
 <table class="mw-collapsible mw-collapsed NavTable">

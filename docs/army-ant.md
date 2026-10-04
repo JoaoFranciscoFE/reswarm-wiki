@@ -5,6 +5,8 @@ tags: ["Mobs", "Ant Challenge"]
 
 # Army Ant
 
+![Army Ant](img/Army_Ant.png){ align=right width=150 }
+
 An **Army Ant** is one of five mobs that is part of a family called [Ants](ants.md) that are exclusively found in the [Ant Challenge](ant-challenge.md), past the [Ant Gate](ant-gate.md).
 
 <aside class="portable-infobox pi-background pi-border-color pi-theme-wikia pi-layout-stacked" role="region">

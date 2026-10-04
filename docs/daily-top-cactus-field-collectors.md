@@ -5,6 +5,8 @@ tags: ["Leaderboards"]
 
 # Daily Top Cactus Field Collectors
 
+![Daily Top Cactus Field Collectors](img/Daily_Top_Cactus_Field_Collectors.png){ align=right width=150 }
+
 The **Daily Top Cactus Field Collectors** is one of the 64 [leaderboards](leaderboards.md) in the game, and is only viewable via the Global Leaderboards menu in the [System Page](system-page.md). This leaderboard shows how much [pollen](pollen.md) players have collected in the [Cactus Field](cactus-field.md) on that day. It shows 10 leaderboard positions at a time. The player can scroll down the leaderboard to see more players, all the way to the 100th place. It resets every day at 12:00 AM CST.
 
 ## Prizes

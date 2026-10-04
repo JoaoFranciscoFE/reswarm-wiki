@@ -5,6 +5,8 @@ tags: ["Locations", "Shops"]
 
 # Shops
 
+![Shops](img/Shops.png){ align=right width=150 }
+
 **Shops** contain various [items](items.md) that can be purchased with [honey](honey.md), [tickets](ticket.md) or other currencies and, for some (usually found in mid to late-game shops), crafting materials as well. They may have items such as [bags](bags.md), guards, [tools](tools.md), eggs, and other miscellaneous items that can give more [capacity](system-page.md#Capacity_Multiplier) and other [buffs](buffs-debuffs.md). Some shops sell only one type of item and may have a price that increases every time the item is purchased, such as tickets.
 
 There are currently 22 shops in the game, and 21 outside of Beesmas. They are listed below:

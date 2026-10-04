@@ -5,6 +5,8 @@ tags: ["Locations", "Fields", "Retro Swarm Challenge", "Blue"]
 
 # Blue Brick Field
 
+![Blue Brick Field](img/Blue_Brick_Field.png){ align=right width=150 }
+
 Blue Brick Field
 
 FIELD COLOR

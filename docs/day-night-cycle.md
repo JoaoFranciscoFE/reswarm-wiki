@@ -5,6 +5,8 @@ tags: ["Mechanics"]
 
 # Day/Night Cycle
 
+![Day/Night Cycle](img/Day/Night_Cycle.png){ align=right width=150 }
+
 The **Day/Night Cycle** is a feature added in the 2018-09-10 update. Before the update, it was always daytime.
 
 ## Day

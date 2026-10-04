@@ -5,6 +5,8 @@ tags: ["Mechanics"]
 
 # Pollination
 
+![Pollination](img/Pollination.png){ align=right width=150 }
+
 <figure class="thumb" style="width: 150px" typeof="mw:File/Thumb">  <figcaption class="thumbcaption"> <p class="caption">A flower being pollinated.</p> </figcaption> </figure>
 
 <figure class="thumb" style="width: 152px" typeof="mw:File/Thumb">  <figcaption class="thumbcaption"> <p class="caption">A large and a star flower, both of which can only be seen via pollination.</p> </figcaption> </figure>

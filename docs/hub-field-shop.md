@@ -5,6 +5,8 @@ tags: ["Locations", "Shops", "Quest Giver", "Hive Hub"]
 
 # Hub Field Shop
 
+![Hub Field Shop](img/Hub_Field_Shop.png){ align=right width=150 }
+
 The **Hub Field Shop** is a [shop](shops.md) inside the [Hive Hub](hive-hub.md), right next to the [Hub Field](hub-field.md).
 
 This shop is a [quest giver](quest-givers.md) and it sells 1 item, being the [Sticker Seeker](sticker-seeker.md).

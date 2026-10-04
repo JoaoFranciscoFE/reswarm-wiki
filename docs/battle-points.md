@@ -5,6 +5,8 @@ tags: ["Mechanics"]
 
 # Battle Points
 
+![Battle Points](img/Battle_Points.png){ align=right width=150 }
+
 <figure class="thumb" style="width: 180px" typeof="mw:File/Thumb">  <figcaption class="thumbcaption"> <p class="caption">The Global Top Battlers leaderboard.</p> </figcaption> </figure>
 
 **Battle Points** are points used for Global Top Battlers Leaderboard rankings and the [Battle Badge](badges.md#Battle_Badge). They are obtained by defeating certain [mobs](mobs.md).

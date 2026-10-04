@@ -5,6 +5,8 @@ tags: ["Locations", "Fields", "Retro Swarm Challenge", "Red"]
 
 # Red Brick Field
 
+![Red Brick Field](img/Red_Brick_Field.png){ align=right width=150 }
+
 Red Brick Field
 
 FIELD COLOR

@@ -5,6 +5,8 @@ tags: ["Leaderboards", "Locations"]
 
 # All-Time Fastest Crab Slayers
 
+![All-Time Fastest Crab Slayers](img/All-Time_Fastest_Crab_Slayers.png){ align=right width=150 }
+
 The **Fastest Crab Slayers** is one of the 64 [leaderboards](leaderboards.md) in the game. This leaderboard shows the least time in which the player has defeated the [Coconut Crab](coconut-crab.md). It shows 10 leaderboard positions at one time. The player can scroll down the leaderboard to see more players, all the way to the 100th place.
 
 If the player has never defeated the Coconut Crab the pad will prompt, "You haven't defeated the Coconut Crab".

@@ -5,6 +5,8 @@ tags: ["Gameplay", "Mechanics", "Re://:Swarm"]
 
 # Badges
 
+![Badges](img/Badges.png){ align=right width=150 }
+
 <figure class="thumb" style="width: 180px" typeof="mw:File/Thumb">  <figcaption class="thumbcaption"> <p class="caption">The badge icon.</p> </figcaption> </figure>
 
 **Badges** are part of the achievement system of [Re://:Swarm](re-swarm.md). There are currently 155 badges in Re://:Swarm (including inactive badges). 30 of the badges are currently unobtainable.
