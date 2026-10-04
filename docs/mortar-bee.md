@@ -33,7 +33,7 @@ tags: ["Bees", "Mythic", "Red", "Re://:Swarm"]
 
 Mortar Bee's favorite treat is [Strawberries](strawberry.md).
 
-The game has no real picture of Mortar Bee yet. Its in-game icon is a placeholder shared with Hell Bee, so the infobox uses the Happy Mortar Bee sticker for both tabs.
+The game has no real picture of Mortar Bee yet. Its in-game icon is a placeholder, so the infobox uses the Happy Mortar Bee sticker for both tabs.
 
 ## Stats
 
