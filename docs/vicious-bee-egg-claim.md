@@ -5,7 +5,7 @@ tags: ["Locations", "Egg Claims"]
 
 # Vicious Bee Egg Claim
 
-![Vicious Bee Egg Claim](img/Vicious_Bee_Egg_Claim.png){ align=right width=150 }
+![Vicious Bee Egg Claim](img/places/Vicious_Bee_Egg_Claim.png){ .wiki-photo }
 
 <figure class="thumb" style="width: 180px" typeof="mw:File/Thumb">  <figcaption class="thumbcaption"> <p class="caption">The Vicious Bee Egg Claim.</p> </figcaption> </figure>
 

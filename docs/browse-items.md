@@ -79,7 +79,7 @@ All 209 pages in Items, sorted by equipment tier (1 to 3 stars).
 <a class="wiki-card" href="balloon.html"><img src="img/Red_Balloon.png" alt="" loading="lazy"><span>Balloon</span></a>
 <a class="wiki-card" href="bandage.html"><img src="img/Bandage.png" alt="" loading="lazy"><span>Bandage</span></a>
 <a class="wiki-card" href="bang-snap.html"><img src="img/Bang_Snap.png" alt="" loading="lazy"><span>Bang Snap</span></a>
-<a class="wiki-card wiki-card--noicon" href="basic-sprinkler.html"><img src="images/no-icon.svg" alt="" loading="lazy"><span>Basic Sprinkler</span></a>
+<a class="wiki-card wiki-card--photo" href="basic-sprinkler.html"><img src="img/places/Basic_Sprinkler.png" alt="" loading="lazy"><span>Basic Sprinkler</span></a>
 <a class="wiki-card" href="bead-lizard.html"><img src="img/Bead_Lizard.png" alt="" loading="lazy"><span>Bead Lizard</span></a>
 <a class="wiki-card" href="beequip.html"><img src="img/Beequip.png" alt="" loading="lazy"><span>Beequip</span></a>
 <a class="wiki-card" href="beesmas-top.html"><img src="img/Beesmas_Top.png" alt="" loading="lazy"><span>Beesmas Top</span></a>
@@ -111,7 +111,7 @@ All 209 pages in Items, sorted by equipment tier (1 to 3 stars).
 <a class="wiki-card" href="dark-scythe.html"><img src="img/Dark_Scythe.png" alt="" loading="lazy"><span>Dark Scythe</span></a>
 <a class="wiki-card" href="debug-wax.html"><img src="img/Debug_Wax.png" alt="" loading="lazy"><span>Debug Wax</span></a>
 <a class="wiki-card" href="demon-talisman.html"><img src="img/Demon_Talisman.png" alt="" loading="lazy"><span>Demon Talisman</span></a>
-<a class="wiki-card wiki-card--noicon" href="diamond-drenchers.html"><img src="images/no-icon.svg" alt="" loading="lazy"><span>Diamond Drenchers</span></a>
+<a class="wiki-card wiki-card--photo" href="diamond-drenchers.html"><img src="img/places/Diamond_Drenchers.png" alt="" loading="lazy"><span>Diamond Drenchers</span></a>
 <a class="wiki-card" href="drives.html"><img src="img/Drives.png" alt="" loading="lazy"><span>Drives</span></a>
 <a class="wiki-card" href="egg.html"><img src="img/Star_Egg.png" alt="" loading="lazy"><span>Egg</span></a>
 <a class="wiki-card" href="electric-candle.html"><img src="img/Electric_Candle.png" alt="" loading="lazy"><span>Electric Candle</span></a>
@@ -128,7 +128,7 @@ All 209 pages in Items, sorted by equipment tier (1 to 3 stars).
 <a class="wiki-card wiki-card--noicon" href="glider.html"><img src="images/no-icon.svg" alt="" loading="lazy"><span>Glider</span></a>
 <a class="wiki-card" href="glitter.html"><img src="img/Glitter.png" alt="" loading="lazy"><span>Glitter</span></a>
 <a class="wiki-card" href="glue.html"><img src="img/Glue.png" alt="" loading="lazy"><span>Glue</span></a>
-<a class="wiki-card wiki-card--noicon" href="golden-gushers.html"><img src="images/no-icon.svg" alt="" loading="lazy"><span>Golden Gushers</span></a>
+<a class="wiki-card wiki-card--photo" href="golden-gushers.html"><img src="img/places/Golden_Gushers.png" alt="" loading="lazy"><span>Golden Gushers</span></a>
 <a class="wiki-card" href="golden-rake.html"><img src="img/Golden_Rake.png" alt="" loading="lazy"><span>Golden Rake</span></a>
 <a class="wiki-card" href="gumdrops.html"><img src="img/Gumdrops.png" alt="" loading="lazy"><span>Gumdrops</span></a>
 <a class="wiki-card" href="gummyballer.html"><img src="img/Gummyballer.png" alt="" loading="lazy"><span>Gummyballer</span></a>
@@ -192,7 +192,7 @@ All 209 pages in Items, sorted by equipment tier (1 to 3 stars).
 <a class="wiki-card" href="scissors.html"><img src="img/Scissors.png" alt="" loading="lazy"><span>Scissors</span></a>
 <a class="wiki-card" href="scooper.html"><img src="img/Scooper.png" alt="" loading="lazy"><span>Scooper</span></a>
 <a class="wiki-card" href="scythe.html"><img src="img/Scythe.png" alt="" loading="lazy"><span>Scythe</span></a>
-<a class="wiki-card wiki-card--noicon" href="silver-soakers.html"><img src="images/no-icon.svg" alt="" loading="lazy"><span>Silver Soakers</span></a>
+<a class="wiki-card wiki-card--photo" href="silver-soakers.html"><img src="img/places/Silver_Soakers.png" alt="" loading="lazy"><span>Silver Soakers</span></a>
 <a class="wiki-card" href="single-mitten.html"><img src="img/Single_Mitten.png" alt="" loading="lazy"><span>Single Mitten</span></a>
 <a class="wiki-card" href="smiley-sticker.html"><img src="img/Smiley_Sticker.png" alt="" loading="lazy"><span>Smiley Sticker</span></a>
 <a class="wiki-card" href="smooth-dice.html"><img src="img/Smooth_Dice.png" alt="" loading="lazy"><span>Smooth Dice</span></a>
@@ -215,7 +215,7 @@ All 209 pages in Items, sorted by equipment tier (1 to 3 stars).
 <a class="wiki-card" href="swirled-wax.html"><img src="img/Swirled_Wax.png" alt="" loading="lazy"><span>Swirled Wax</span></a>
 <a class="wiki-card" href="tacky-planter.html"><img src="img/Tacky_Planter.png" alt="" loading="lazy"><span>Tacky Planter</span></a>
 <a class="wiki-card" href="the-planter-of-plenty.html"><img src="img/The_Planter_Of_Plenty.png" alt="" loading="lazy"><span>The Planter Of Plenty</span></a>
-<a class="wiki-card wiki-card--noicon" href="the-supreme-saturator.html"><img src="images/no-icon.svg" alt="" loading="lazy"><span>The Supreme Saturator</span></a>
+<a class="wiki-card wiki-card--photo" href="the-supreme-saturator.html"><img src="img/places/The_Supreme_Saturator.png" alt="" loading="lazy"><span>The Supreme Saturator</span></a>
 <a class="wiki-card" href="thimble.html"><img src="img/Thimble.png" alt="" loading="lazy"><span>Thimble</span></a>
 <a class="wiki-card" href="thumbtack.html"><img src="img/Thumbtack.png" alt="" loading="lazy"><span>Thumbtack</span></a>
 <a class="wiki-card" href="ticket.html"><img src="img/Ticket.png" alt="" loading="lazy"><span>Ticket</span></a>
