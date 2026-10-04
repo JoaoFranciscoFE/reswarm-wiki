@@ -1,6 +1,6 @@
 ---
 title: "Mushroom Field"
-tags: ["Pages with broken file links", "Locations", "Fields", "Red", "Starter Zone"]
+tags: ["Locations", "Fields", "Red", "Starter Zone"]
 ---
 
 # Mushroom Field
@@ -42,12 +42,12 @@ This field can spawn [treat](treat.md), [strawberry](strawberry.md), [bitterberr
 <th>Item Drops list
 </th></tr>
 <tr>
-<td><span typeof="mw:Error mw:File"></span><a href="strawberry.html"><span class="color-template color-template-strawberry color-template-background-clip">Strawberries</span></a> (<span style="border-bottom:1px dotted;" title="1 in 12">8.33%</span> Chance)<br/>
-<p><span typeof="mw:Error mw:File"></span><a href="treat.html"><span class="color-template color-template-treat">Treats</span></a> (<span style="border-bottom:1px dotted;" title="1 in 20">5%</span> Chance)<br/>
-<span typeof="mw:Error mw:File"></span><a href="bitterberry.html"><span class="color-template color-template-bitterberry color-template-background-clip">Bitterberries</span></a> (<span style="border-bottom:1px dotted;" title="1 in 2,500)">0.04%</span> Chance)<br/>
-<span typeof="mw:Error mw:File"></span><a href="red-extract.html"><span class="color-template color-template-red-extract color-template-background-clip">Red Extracts</span></a> (<span style="border-bottom:1px dotted;" title="1 in 7,500">0.0133%</span> Chance)<br/>
-<span typeof="mw:Error mw:File"></span><a href="royal-jelly.html"><span class="color-template color-template-royal-jelly color-template-background-clip">Royal Jellies</span></a> (<span style="border-bottom:1px dotted;" title="1 in 20,000">0.005%</span> Chance)<br/>
-<span typeof="mw:Error mw:File"></span><a href="magic-bean.html"><span class="color-template color-template-magic-bean color-template-background-clip">Magic Beans</span></a> (<span style="border-bottom:1px dotted;" title="1 in 50,000">0.002%</span> Chance)
+<td><img alt="Strawberry" height="35" src="img/Strawberry.png" width="35"/><a href="strawberry.html"><span class="color-template color-template-strawberry color-template-background-clip">Strawberries</span></a> (<span style="border-bottom:1px dotted;" title="1 in 12">8.33%</span> Chance)<br/>
+<p><img alt="Treat" height="35" src="img/Treat.png" width="35"/><a href="treat.html"><span class="color-template color-template-treat">Treats</span></a> (<span style="border-bottom:1px dotted;" title="1 in 20">5%</span> Chance)<br/>
+<img alt="Bitterberry" height="35" src="img/Bitterberry.png" width="35"/><a href="bitterberry.html"><span class="color-template color-template-bitterberry color-template-background-clip">Bitterberries</span></a> (<span style="border-bottom:1px dotted;" title="1 in 2,500)">0.04%</span> Chance)<br/>
+<img alt="Red Extract" height="35" src="img/Red_Extract.png" width="35"/><a href="red-extract.html"><span class="color-template color-template-red-extract color-template-background-clip">Red Extracts</span></a> (<span style="border-bottom:1px dotted;" title="1 in 7,500">0.0133%</span> Chance)<br/>
+<img alt="Royal Jelly" height="35" src="img/Royal_Jelly.png" width="35"/><a href="royal-jelly.html"><span class="color-template color-template-royal-jelly color-template-background-clip">Royal Jellies</span></a> (<span style="border-bottom:1px dotted;" title="1 in 20,000">0.005%</span> Chance)<br/>
+<img alt="Magic Bean" height="35" src="img/Magic_Bean.png" width="35"/><a href="magic-bean.html"><span class="color-template color-template-magic-bean color-template-background-clip">Magic Beans</span></a> (<span style="border-bottom:1px dotted;" title="1 in 50,000">0.002%</span> Chance)
 </p>
 </td></tr></tbody></table>
 
@@ -181,10 +181,6 @@ This is a 32x23 field made up of 736 [flowers](flowers.md). The flowers are red 
   * ClubBasket (Gave Mushroom Field Boost x2 + other stuff).
   * WonkyFlop (Gives Mushroom Field Boost x4, Mushroom Field Winds x10 + other stuff).
   * Dysentery (Activates Mushroom Field Code Buff + other stuff)
-
-## Gallery
-
-<div class="wikia-gallery wikia-gallery-caption-below wikia-gallery-position-left wikia-gallery-spacing-medium wikia-gallery-border-small wikia-gallery-captions-left wikia-gallery-caption-size-medium" data-seq-no="0" hash="8bd0482b85f6fd73874284b7b345f7f5" id="gallery-0"><div class="wikia-gallery-caption"></div><div class="wikia-gallery-item" style="width:187px; "><div class="thumb" style="height:187px;"><div class="gallery-image-wrapper accent" id="Mushroom_Field_Icon-png" style="position: relative; height:185px; width:185px;"><span style="line-height: 1;">Mushroom Field Icon.png</span></div></div><div class="lightbox-caption" style="width:185px;">The Mushroom Field's associated <a href="field-boost.html">boost icon</a>.</div></div><div class="wikia-gallery-item" style="width:187px; "><div class="thumb" style="height:187px;"><div class="gallery-image-wrapper accent" id="Hivesticker_mushroom_field_stamp-png" style="position: relative; height:185px; width:185px;"><span style="line-height: 1;">Hivesticker mushroom field stamp.png</span></div></div><div class="lightbox-caption" style="width:185px;">The Mushroom Field's associated <a href="sticker.html">field stamp</a>.</div></div></div>
 
 ## Trivia
 

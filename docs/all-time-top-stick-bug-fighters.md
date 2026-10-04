@@ -1,6 +1,6 @@
 ---
 title: "All-Time Top Stick Bug Fighters"
-tags: ["Pages with broken file links", "Locations", "Leaderboards", "Stick Bug Challenge", "Starter Zone"]
+tags: ["Locations", "Leaderboards", "Stick Bug Challenge", "Starter Zone"]
 ---
 
 # All-Time Top Stick Bug Fighters

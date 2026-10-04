@@ -1,6 +1,6 @@
 ---
 title: "Bamboo Field"
-tags: ["Pages with broken file links", "Locations", "Fields", "Blue"]
+tags: ["Locations", "Fields", "Blue"]
 ---
 
 # Bamboo Field
@@ -167,10 +167,6 @@ This field can spawn [honey](honey.md), [blueberry](blueberry.md), [ticket](tic
   * FestiveFinale (Gave Bamboo Field Boost x3 and Bamboo Field Winds x2 + other stuff).
   * BlackFriday (Activated Bamboo Field Code Buff + other stuff).
 * Purchasing a Bamboo Field [Market Boost](buffs-debuffs.md#From_Areas) from the [Boost Market](boost-market.md) will give x1.5 Bamboo [Field Capacity](field-capacity.md), x1.25 Bamboo Field Pollen, x1.1 [Blue Pollen](system-page.md#Blue_Pollen), and x1.25 [Convert Rate At Hive](system-page.md#Hive_Convert_Rate).
-
-## Gallery
-
-<div class="wikia-gallery wikia-gallery-caption-below wikia-gallery-position-left wikia-gallery-spacing-medium wikia-gallery-border-small wikia-gallery-captions-left wikia-gallery-caption-size-medium" data-seq-no="0" hash="d5f5e2d78fa71149b4deed3fe143b34c" id="gallery-0"><div class="wikia-gallery-caption"></div><div class="wikia-gallery-item" style="width:187px; "><div class="thumb" style="height:187px;"><div class="gallery-image-wrapper accent" id="Hivesticker_bamboo_field_stamp-png" style="position: relative; height:185px; width:185px;"><span style="line-height: 1;">Hivesticker bamboo field stamp.png</span></div></div><div class="lightbox-caption" style="width:185px;">Bamboo Field's associated <a href="sticker.html">field stamp</a>.</div></div></div>
 
 ## Trivia
 

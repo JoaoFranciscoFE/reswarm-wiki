@@ -1,6 +1,6 @@
 ---
 title: "Brave Bee"
-tags: ["Pages with broken file links", "Bees", "Rare", "Colorless"]
+tags: ["Bees", "Rare", "Colorless"]
 ---
 
 # Brave Bee
@@ -332,10 +332,6 @@ Brave Bee likes the [Clover Field](clover-field.md) and the [Spider Field](spide
 </td><td>7.77778%
 </td></tr>
 </tbody></table>
-
-## Gallery
-
-<div class="wikia-gallery wikia-gallery-caption-below wikia-gallery-position-left wikia-gallery-spacing-medium wikia-gallery-border-small wikia-gallery-captions-left wikia-gallery-caption-size-medium" data-seq-no="0" hash="63e9d5d3a13ac5b695b10bb9fa095dbd" id="gallery-0"><div class="wikia-gallery-caption"></div><div class="wikia-gallery-item" style="width:187px; "><div class="thumb" style="height:187px;"><div class="gallery-image-wrapper accent" id="GiftedBraveBee_Slot-png" style="position: relative; height:185px; width:185px;"><span style="line-height: 1;">GiftedBraveBee Slot.png</span></div></div><div class="lightbox-caption" style="width:185px;">A Gifted Brave Bee hive slot.</div></div><div class="wikia-gallery-item" style="width:187px; "><div class="thumb" style="height:187px;"><div class="gallery-image-wrapper accent" id="BraveFace-png" style="position: relative; height:185px; width:185px;"><span style="line-height: 1;">BraveFace.png</span></div></div><div class="lightbox-caption" style="width:185px;">Brave Bee's face.</div></div><div class="wikia-gallery-item" style="width:187px; "><div class="thumb" style="height:187px;"><div class="gallery-image-wrapper accent" id="BraveBeeGate-png" style="position: relative; height:185px; width:185px;"><span style="line-height: 1;">BraveBeeGate.png</span></div></div><div class="lightbox-caption" style="width:185px;">Brave Bee's model on the <a href="brave-bee-gate.html">Brave Bee Gate</a>.</div></div><div class="wikia-gallery-item" style="width:187px; "><div class="thumb" style="height:187px;"><div class="gallery-image-wrapper accent" id="Scaredbravebeereal-png" style="position: relative; height:185px; width:185px;"><span style="line-height: 1;">Scaredbravebeereal.png</span></div></div><div class="lightbox-caption" style="width:185px;">Brave Bee's original face.</div></div><div class="wikia-gallery-item" style="width:187px; "><div class="thumb" style="height:187px;"><div class="gallery-image-wrapper accent" id="Hivesticker_flying_brave_bee-png" style="position: relative; height:185px; width:185px;"><span style="line-height: 1;">Hivesticker flying brave bee.png</span></div></div><div class="lightbox-caption" style="width:185px;">The Flying Brave Bee <a href="sticker.html">Sticker</a>.</div></div></div>
 
 ## Trivia
 

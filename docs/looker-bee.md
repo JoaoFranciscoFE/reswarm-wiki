@@ -1,6 +1,6 @@
 ---
 title: "Looker Bee"
-tags: ["Pages with broken file links", "Bees", "Rare", "Colorless"]
+tags: ["Bees", "Rare", "Colorless"]
 ---
 
 # Looker Bee
@@ -332,10 +332,6 @@ Looker Bee likes the [Clover Field](clover-field.md) and the [Mountain Top Field
 </td><td>7.77778%
 </td></tr>
 </tbody></table>
-
-## Gallery
-
-<div class="wikia-gallery wikia-gallery-caption-below wikia-gallery-position-left wikia-gallery-spacing-medium wikia-gallery-border-small wikia-gallery-captions-left wikia-gallery-caption-size-medium" data-seq-no="0" hash="a56a795ceb480b81d1b07d24ac9751f6" id="gallery-0"><div class="wikia-gallery-caption"></div><div class="wikia-gallery-item" style="width:187px; "><div class="thumb" style="height:187px;"><div class="gallery-image-wrapper accent" id="LookerBee_Hive-png" style="position: relative; height:185px; width:185px;"><span style="line-height: 1;">LookerBee Hive.png</span></div></div><div class="lightbox-caption" style="width:185px;">Looker Bee's old hive slot design.</div></div><div class="wikia-gallery-item" style="width:187px; "><div class="thumb" style="height:187px;"><div class="gallery-image-wrapper accent" id="GiftedLookerBeehive-PNG" style="position: relative; height:185px; width:185px;"><span style="line-height: 1;">GiftedLookerBeehive.PNG</span></div></div><div class="lightbox-caption" style="width:185px;">A Gifted Looker Bee hive slot.</div></div><div class="wikia-gallery-item" style="width:187px; "><div class="thumb" style="height:187px;"><div class="gallery-image-wrapper accent" id="LookerIcon-png" style="position: relative; height:185px; width:185px;"><span style="line-height: 1;">LookerIcon.png</span></div></div><div class="lightbox-caption" style="width:185px;">Looker Bee's icon.</div></div><div class="wikia-gallery-item" style="width:187px; "><div class="thumb" style="height:187px;"><div class="gallery-image-wrapper accent" id="Png_-4--png" style="position: relative; height:185px; width:185px;"><span style="line-height: 1;">Png (4).png</span></div></div><div class="lightbox-caption" style="width:185px;">Looker Bee's face.</div></div><div class="wikia-gallery-item" style="width:187px; "><div class="thumb" style="height:187px;"><div class="gallery-image-wrapper accent" id="Hivesticker_wobbly_looker_bee-png" style="position: relative; height:185px; width:185px;"><span style="line-height: 1;">Hivesticker wobbly looker bee.png</span></div></div><div class="lightbox-caption" style="width:185px;">The Wobbly Looker Bee <a href="sticker.html">sticker</a>.</div></div></div>
 
 ## Trivia
 

@@ -1,6 +1,6 @@
 ---
 title: "Daily Top Retro Swarm Hive Defenders"
-tags: ["Pages with broken file links", "Leaderboards", "Retro Swarm Challenge"]
+tags: ["Leaderboards", "Retro Swarm Challenge"]
 ---
 
 # Daily Top Retro Swarm Hive Defenders

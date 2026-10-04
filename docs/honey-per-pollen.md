@@ -1,6 +1,6 @@
 ---
 title: "Honey Per Pollen"
-tags: ["Pages with broken file links", "Mechanics"]
+tags: ["Mechanics"]
 ---
 
 # Honey Per Pollen

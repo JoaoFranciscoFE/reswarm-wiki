@@ -1,6 +1,6 @@
 ---
 title: "Energy"
-tags: ["Pages with broken file links", "Mechanics"]
+tags: ["Mechanics"]
 ---
 
 # Energy
@@ -11,10 +11,6 @@ It takes 30 seconds for a bee to rest and recover all its energy in the hive. Ho
 
 When a bee runs out of energy, a message will appear, stating,
  [Type] Bee is out of energy! It's going to sleep.
-
-## Gallery
-
-<div class="wikia-gallery wikia-gallery-caption-below wikia-gallery-position-left wikia-gallery-spacing-medium wikia-gallery-border-small wikia-gallery-captions-left wikia-gallery-caption-size-medium" data-seq-no="0" hash="7b23045b0224574a0b3b3b579b0e1cc3" id="gallery-0"><div class="wikia-gallery-caption"></div><div class="wikia-gallery-item" style="width:187px; "><div class="thumb" style="height:187px;"><div class="gallery-image-wrapper accent" id="Energy-png" style="position: relative; height:185px; width:185px;"><span style="line-height: 1;">Energy.png</span></div></div><div class="lightbox-caption" style="width:185px;">Several bees on their way to recover in the player's hive after using the double reset glitch.</div></div><div class="wikia-gallery-item" style="width:187px; "><div class="thumb" style="height:187px;"><div class="gallery-image-wrapper accent" id="Absurd_energy_bug-png" style="position: relative; height:185px; width:185px;"><span style="line-height: 1;">Absurd energy bug.png</span></div></div><div class="lightbox-caption" style="width:185px;">Energy bug.</div></div></div>
 
 ## Trivia
 

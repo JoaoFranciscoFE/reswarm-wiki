@@ -1,6 +1,6 @@
 ---
 title: "Hasty Bee"
-tags: ["Pages with broken file links", "Bees", "Rare", "Colorless"]
+tags: ["Bees", "Rare", "Colorless"]
 ---
 
 # Hasty Bee
@@ -332,10 +332,6 @@ Hasty Bee likes the [Sunflower Field](sunflower-field.md) and [Cactus Field](cac
 </td><td>7.77778%
 </td></tr>
 </tbody></table>
-
-## Gallery
-
-<div class="wikia-gallery wikia-gallery-caption-below wikia-gallery-position-left wikia-gallery-spacing-medium wikia-gallery-border-small wikia-gallery-captions-left wikia-gallery-caption-size-medium" data-seq-no="0" hash="8e538712baac7a642615379ba79f6da0" id="gallery-0"><div class="wikia-gallery-caption"></div><div class="wikia-gallery-item" style="width:187px; "><div class="thumb" style="height:187px;"><div class="gallery-image-wrapper accent" id="HastyBee_Hive-png" style="position: relative; height:185px; width:185px;"><span style="line-height: 1;">HastyBee Hive.png</span></div></div><div class="lightbox-caption" style="width:185px;">Hasty Bee's old hive slot design.</div></div><div class="wikia-gallery-item" style="width:187px; "><div class="thumb" style="height:187px;"><div class="gallery-image-wrapper accent" id="770A3E1D-9723-41DC-BB10-B2297C9AC916-jpeg" style="position: relative; height:185px; width:185px;"><span style="line-height: 1;">770A3E1D-9723-41DC-BB10-B2297C9AC916.jpeg</span></div></div><div class="lightbox-caption" style="width:185px;">A Gifted Hasty Bee hive slot.</div></div><div class="wikia-gallery-item" style="width:187px; "><div class="thumb" style="height:187px;"><div class="gallery-image-wrapper accent" id="Png_-3--png" style="position: relative; height:185px; width:185px;"><span style="line-height: 1;">Png (3).png</span></div></div><div class="lightbox-caption" style="width:185px;">Hasty Bee's face.</div></div><div class="wikia-gallery-item" style="width:187px; "><div class="thumb" style="height:187px;"><div class="gallery-image-wrapper accent" id="Hasty_bee_jelly-png" style="position: relative; height:185px; width:185px;"><span style="line-height: 1;">Hasty bee jelly.png</span></div></div><div class="lightbox-caption" style="width:185px;">A Hasty Bee Jelly in a player's inventory.</div></div><div class="wikia-gallery-item" style="width:187px; "><div class="thumb" style="height:187px;"><div class="gallery-image-wrapper accent" id="Bravebee-png" style="position: relative; height:185px; width:185px;"><span style="line-height: 1;">Bravebee.png</span></div></div><div class="lightbox-caption" style="width:185px;">Hasty Bee's original face.</div></div></div>
 
 ## Trivia
 

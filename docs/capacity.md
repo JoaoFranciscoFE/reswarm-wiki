@@ -1,6 +1,6 @@
 ---
 title: "Capacity"
-tags: ["Pages with broken file links", "Mechanics"]
+tags: ["Mechanics"]
 ---
 
 # Capacity
@@ -211,10 +211,6 @@ There are certain upgrades that can be bought with cogs during the Robo Bear Cha
   * Malware: This upgrades starts at x0.75 Capacity and maxes at 3 upgrades with x0.25 Capacity.
 * Legendary Upgrades:
   * Overclock: This upgrade gives x0.75 Capacity.
-
-## Gallery
-
-<div class="wikia-gallery wikia-gallery-caption-below wikia-gallery-position-left wikia-gallery-spacing-medium wikia-gallery-border-small wikia-gallery-captions-left wikia-gallery-caption-size-medium" data-seq-no="0" hash="2c8439049f36a8bc849e795b051c9ce8" id="gallery-0"><div class="wikia-gallery-caption"></div><div class="wikia-gallery-item" style="width:187px; "><div class="thumb" style="height:187px;"><div class="gallery-image-wrapper accent" id="Capacity-png" style="position: relative; height:185px; width:185px;"><span style="line-height: 1;">Capacity.png</span></div></div><div class="lightbox-caption" style="width:185px;">The icon used for certain codes that give capacity.</div></div><div class="wikia-gallery-item" style="width:187px; "><div class="thumb" style="height:187px;"><div class="gallery-image-wrapper accent" id="CapacityMultiplier1-png" style="position: relative; height:185px; width:185px;"><span style="line-height: 1;">CapacityMultiplier1.png</span></div></div><div class="lightbox-caption" style="width:185px;">The Capacity Multiplier stat in the System Page.</div></div><div class="wikia-gallery-item" style="width:187px; "><div class="thumb" style="height:187px;"><div class="gallery-image-wrapper accent" id="BackpackCapacity1-png" style="position: relative; height:185px; width:185px;"><span style="line-height: 1;">BackpackCapacity1.png</span></div></div><div class="lightbox-caption" style="width:185px;">A player's Capacity displayed on their bag.</div></div><div class="wikia-gallery-item" style="width:187px; "><div class="thumb" style="height:187px;"><div class="gallery-image-wrapper accent" id="PollenFullMessage1-png" style="position: relative; height:185px; width:185px;"><span style="line-height: 1;">PollenFullMessage1.png</span></div></div><div class="lightbox-caption" style="width:185px;">The message for having full Capacity and attempting to collect more pollen.</div></div></div>
 
 ## Trivia
 

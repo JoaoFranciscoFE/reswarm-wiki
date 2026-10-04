@@ -1,6 +1,6 @@
 ---
 title: "Clover Field"
-tags: ["Pages with broken file links", "Locations", "Fields", "Starter Zone"]
+tags: ["Locations", "Fields", "Starter Zone"]
 ---
 
 # Clover Field
@@ -181,10 +181,6 @@ This field can spawn [treat](treat.md), [red boost](ability-tokens.md#Boost), bl
   * RebootPC (Gave Clover Field Boost x2 + other stuff).
   * RebootXmas (Gave Clover Field Boost x1 + other stuff).
   * FrozenBugReboot (Gave Clover Field Code Buff + other stuff).
-
-## Gallery
-
-<div class="wikia-gallery wikia-gallery-caption-below wikia-gallery-position-left wikia-gallery-spacing-medium wikia-gallery-border-small wikia-gallery-captions-left wikia-gallery-caption-size-medium" data-seq-no="0" hash="9bce96b68bb8fc980e4fadc6454934de" id="gallery-0"><div class="wikia-gallery-caption"></div><div class="wikia-gallery-item" style="width:187px; "><div class="thumb" style="height:187px;"><div class="gallery-image-wrapper accent" id="Screenshot_25-png" style="position: relative; height:185px; width:185px;"><span style="line-height: 1;">Screenshot 25.png</span></div></div><div class="lightbox-caption" style="width:185px;">A plain view of the Clover Field.</div></div><div class="wikia-gallery-item" style="width:187px; "><div class="thumb" style="height:187px;"><div class="gallery-image-wrapper accent" id="Spikeoncloverfield-png" style="position: relative; height:185px; width:185px;"><span style="line-height: 1;">Spikeoncloverfield.png</span></div></div><div class="lightbox-caption" style="width:185px;">A Rogue Vicious Bee's spike in the Clover Field.</div></div><div class="wikia-gallery-item" style="width:187px; "><div class="thumb" style="height:187px;"><div class="gallery-image-wrapper accent" id="Clover_Field_Icon-png" style="position: relative; height:185px; width:185px;"><span style="line-height: 1;">Clover Field Icon.png</span></div></div><div class="lightbox-caption" style="width:185px;">The Clover Field's associated <a href="field-boost.html">boost icon</a>.</div></div><div class="wikia-gallery-item" style="width:187px; "><div class="thumb" style="height:187px;"><div class="gallery-image-wrapper accent" id="Hivesticker_clover_field_stamp-png" style="position: relative; height:185px; width:185px;"><span style="line-height: 1;">Hivesticker clover field stamp.png</span></div></div><div class="lightbox-caption" style="width:185px;">The Clover Field's associated <a href="sticker.html">field stamp</a>.</div></div></div>
 
 ## Trivia
 

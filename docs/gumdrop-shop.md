@@ -1,6 +1,6 @@
 ---
 title: "Gumdrop Shop"
-tags: ["Pages with broken file links", "Shops", "Locations", "Gummy Invasion", "Goo", "Machines"]
+tags: ["Shops", "Locations", "Gummy Invasion", "Goo", "Machines"]
 ---
 
 # Gumdrop Shop
@@ -17,9 +17,9 @@ The description of the shop is: "Use while standing in a field to cover flowers 
 
 <table class="article-table">
 <tbody><tr>
-<th><span typeof="mw:Error mw:File"></span><a href="gumdrops.html"><span class="color-template color-template-gumdrops color-template-background-clip">Gumdrops</span></a>
+<th><img alt="Gumdrops" height="35" src="img/Gumdrops.png" width="35"/><a href="gumdrops.html"><span class="color-template color-template-gumdrops color-template-background-clip">Gumdrops</span></a>
 </th>
-<th><span typeof="mw:Error mw:File"></span><a href="ticket.html"><span class="color-template color-template-ticket color-template-background-clip">Tickets</span></a>
+<th><img alt="Ticket" height="35" src="img/Ticket.png" width="35"/><a href="ticket.html"><span class="color-template color-template-ticket color-template-background-clip">Tickets</span></a>
 </th></tr>
 <tr>
 <td>3

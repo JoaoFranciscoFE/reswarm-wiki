@@ -1,6 +1,6 @@
 ---
 title: "Ninja Bee"
-tags: ["Pages with broken file links", "Bees", "Legendary", "Blue"]
+tags: ["Bees", "Legendary", "Blue"]
 ---
 
 # Ninja Bee
@@ -401,10 +401,6 @@ Ninja Bee likes the [Blue Flower Field](blue-flower-field.md) and [Bamboo Field]
 </td><td>0.375%
 </td></tr>
 </tbody></table>
-
-## Gallery
-
-<div class="wikia-gallery wikia-gallery-caption-below wikia-gallery-position-left wikia-gallery-spacing-medium wikia-gallery-border-small wikia-gallery-captions-left wikia-gallery-caption-size-medium" data-seq-no="0" hash="57c69b01153a4dfcc8341dd1cfdb3e0d" id="gallery-0"><div class="wikia-gallery-caption"></div><div class="wikia-gallery-item" style="width:187px; "><div class="thumb" style="height:187px;"><div class="gallery-image-wrapper accent" id="NinjaBee_Hive-png" style="position: relative; height:185px; width:185px;"><span style="line-height: 1;">NinjaBee Hive.png</span></div></div><div class="lightbox-caption" style="width:185px;">Ninja Bee's old hive slot design.</div></div><div class="wikia-gallery-item" style="width:187px; "><div class="thumb" style="height:187px;"><div class="gallery-image-wrapper accent" id="Gifted_Ninja_Bee_hive-png" style="position: relative; height:185px; width:185px;"><span style="line-height: 1;">Gifted Ninja Bee hive.png</span></div></div><div class="lightbox-caption" style="width:185px;">A Gifted Ninja Bee hive slot.</div></div><div class="wikia-gallery-item" style="width:187px; "><div class="thumb" style="height:187px;"><div class="gallery-image-wrapper accent" id="Png_-23--png" style="position: relative; height:185px; width:185px;"><span style="line-height: 1;">Png (23).png</span></div></div><div class="lightbox-caption" style="width:185px;">Ninja Bee's face.</div></div><div class="wikia-gallery-item" style="width:187px; "><div class="thumb" style="height:187px;"><div class="gallery-image-wrapper accent" id="Ninjafaceoriginal-png" style="position: relative; height:185px; width:185px;"><span style="line-height: 1;">Ninjafaceoriginal.png</span></div></div><div class="lightbox-caption" style="width:185px;">Ninja Bee's original face.</div></div><div class="wikia-gallery-item" style="width:187px; "><div class="thumb" style="height:187px;"><div class="gallery-image-wrapper accent" id="Hivesticker_flying_ninja_bee-png" style="position: relative; height:185px; width:185px;"><span style="line-height: 1;">Hivesticker flying ninja bee.png</span></div></div><div class="lightbox-caption" style="width:185px;">The Flying Ninja Bee <a href="sticker.html">sticker</a>.</div></div></div>
 
 ## Trivia
 

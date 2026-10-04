@@ -1,6 +1,6 @@
 ---
 title: "Tadpole Bee"
-tags: ["Pages with broken file links", "Bees", "Blue", "Mythic"]
+tags: ["Bees", "Blue", "Mythic"]
 ---
 
 # Tadpole Bee
@@ -336,10 +336,6 @@ Tadpole Bee likes the [Pine Tree Forest](pine-tree-forest.md) and [Stump Field](
 </td><td>0.00067%
 </td></tr>
 </tbody></table>
-
-## Gallery
-
-<div class="wikia-gallery wikia-gallery-caption-below wikia-gallery-position-left wikia-gallery-spacing-medium wikia-gallery-border-small wikia-gallery-captions-left wikia-gallery-caption-size-medium" data-seq-no="0" hash="043d96cb46b0dc86e134769a3b9bb40d" id="gallery-0"><div class="wikia-gallery-caption"></div><div class="wikia-gallery-item" style="width:187px; "><div class="thumb" style="height:187px;"><div class="gallery-image-wrapper accent" id="Giftedtadpolehiveslot-png" style="position: relative; height:185px; width:185px;"><span style="line-height: 1;">Giftedtadpolehiveslot.png</span></div></div><div class="lightbox-caption" style="width:185px;">A Gifted Tadpole Bee hive slot.</div></div><div class="wikia-gallery-item" style="width:187px; "><div class="thumb" style="height:187px;"><div class="gallery-image-wrapper accent" id="Tadpole_Bee_Face-png" style="position: relative; height:185px; width:185px;"><span style="line-height: 1;">Tadpole Bee Face.png</span></div></div><div class="lightbox-caption" style="width:185px;">Tadpole Bee's face.</div></div><div class="wikia-gallery-item" style="width:187px; "><div class="thumb" style="height:187px;"><div class="gallery-image-wrapper accent" id="Bssbeesmas2019cover-png" style="position: relative; height:185px; width:185px;"><span style="line-height: 1;">Bssbeesmas2019cover.png</span></div></div><div class="lightbox-caption" style="width:185px;">Tadpole Bee with Spicy Bee, Vector Bee, <a href="basic-bee.html">Basic Bee</a>, and <a href="cub-buddy.html">Cub Buddies</a> in the game thumbnail.</div></div><div class="wikia-gallery-item" style="width:187px; "><div class="thumb" style="height:187px;"><div class="gallery-image-wrapper accent" id="Summon_frog_ability_token--png" style="position: relative; height:185px; width:185px;"><span style="line-height: 1;">Summon frog ability token..png</span></div></div><div class="lightbox-caption" style="width:185px;">A “Summon Frog” token.</div></div><div class="wikia-gallery-item" style="width:187px; "><div class="thumb" style="height:187px;"><div class="gallery-image-wrapper accent" id="SummonedNormalFrog-png" style="position: relative; height:185px; width:185px;"><span style="line-height: 1;">SummonedNormalFrog.png</span></div></div><div class="lightbox-caption" style="width:185px;">A summoned normal Frog.</div></div><div class="wikia-gallery-item" style="width:187px; "><div class="thumb" style="height:187px;"><div class="gallery-image-wrapper accent" id="SummonedGiftedFrog-png" style="position: relative; height:185px; width:185px;"><span style="line-height: 1;">SummonedGiftedFrog.png</span></div></div><div class="lightbox-caption" style="width:185px;">A summoned Gifted Frog.</div></div></div>
 
 ## Trivia
 

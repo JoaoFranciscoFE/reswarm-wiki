@@ -1,6 +1,6 @@
 ---
 title: "Demo Bee"
-tags: ["Pages with broken file links", "Bees", "Epic", "Colorless"]
+tags: ["Bees", "Epic", "Colorless"]
 ---
 
 # Demo Bee
@@ -332,10 +332,6 @@ Demo Bee likes the [Dandelion Field](dandelion-field.md) and the [Cactus Field](
 </td><td>2.45455%
 </td></tr>
 </tbody></table>
-
-## Gallery
-
-<div class="wikia-gallery wikia-gallery-caption-below wikia-gallery-position-left wikia-gallery-spacing-medium wikia-gallery-border-small wikia-gallery-captions-left wikia-gallery-caption-size-medium" data-seq-no="0" hash="b6a7b3f2390bbc5a68727ff0f08afebc" id="gallery-0"><div class="wikia-gallery-caption"></div><div class="wikia-gallery-item" style="width:187px; "><div class="thumb" style="height:187px;"><div class="gallery-image-wrapper accent" id="DemoBee_Hive-png" style="position: relative; height:185px; width:185px;"><span style="line-height: 1;">DemoBee Hive.png</span></div></div><div class="lightbox-caption" style="width:185px;">Demo Bee's old hive slot design.</div></div><div class="wikia-gallery-item" style="width:187px; "><div class="thumb" style="height:187px;"><div class="gallery-image-wrapper accent" id="GiftedDemoBeehive-PNG" style="position: relative; height:185px; width:185px;"><span style="line-height: 1;">GiftedDemoBeehive.PNG</span></div></div><div class="lightbox-caption" style="width:185px;">A Gifted Demo Bee hive slot.</div></div><div class="wikia-gallery-item" style="width:187px; "><div class="thumb" style="height:187px;"><div class="gallery-image-wrapper accent" id="DemoFace-png" style="position: relative; height:185px; width:185px;"><span style="line-height: 1;">DemoFace.png</span></div></div><div class="lightbox-caption" style="width:185px;">Demo Bee's face.</div></div><div class="wikia-gallery-item" style="width:187px; "><div class="thumb" style="height:187px;"><div class="gallery-image-wrapper accent" id="Demb-png" style="position: relative; height:185px; width:185px;"><span style="line-height: 1;">Demb.png</span></div></div><div class="lightbox-caption" style="width:185px;">Demo Bee's original face.</div></div></div>
 
 ## Trivia
 

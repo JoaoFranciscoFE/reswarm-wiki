@@ -1,6 +1,6 @@
 ---
 title: "Instant Converter"
-tags: ["Pages with broken file links", "Machines", "Locations", "Starter Zone"]
+tags: ["Machines", "Locations", "Starter Zone"]
 ---
 
 # Instant Converter

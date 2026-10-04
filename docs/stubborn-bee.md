@@ -1,6 +1,6 @@
 ---
 title: "Stubborn Bee"
-tags: ["Pages with broken file links", "Bees", "Rare", "Colorless"]
+tags: ["Bees", "Rare", "Colorless"]
 ---
 
 # Stubborn Bee
@@ -332,10 +332,6 @@ Stubborn Bee likes the [Dandelion Field](dandelion-field.md) and the [Pineapple
 </td><td>7.77778%
 </td></tr>
 </tbody></table>
-
-## Gallery
-
-<div class="wikia-gallery wikia-gallery-caption-below wikia-gallery-position-left wikia-gallery-spacing-medium wikia-gallery-border-small wikia-gallery-captions-left wikia-gallery-caption-size-medium" data-seq-no="0" hash="4ff9802f536b9a66ab294d0c517f354b" id="gallery-0"><div class="wikia-gallery-caption"></div><div class="wikia-gallery-item" style="width:187px; "><div class="thumb" style="height:187px;"><div class="gallery-image-wrapper accent" id="RobloxScreenShot20181210_140947152_-2--png" style="position: relative; height:185px; width:185px;"><span style="line-height: 1;">RobloxScreenShot20181210 140947152 (2).png</span></div></div><div class="lightbox-caption" style="width:185px;">A Gifted Stubborn Bee hive slot.</div></div><div class="wikia-gallery-item" style="width:187px; "><div class="thumb" style="height:187px;"><div class="gallery-image-wrapper accent" id="StubbornFace-png" style="position: relative; height:185px; width:185px;"><span style="line-height: 1;">StubbornFace.png</span></div></div><div class="lightbox-caption" style="width:185px;">Stubborn Bee's face.</div></div><div class="wikia-gallery-item" style="width:187px; "><div class="thumb" style="height:187px;"><div class="gallery-image-wrapper accent" id="64F9ECAE-FDAE-4986-91B9-EE19CAA2B037-jpeg" style="position: relative; height:185px; width:185px;"><span style="line-height: 1;">64F9ECAE-FDAE-4986-91B9-EE19CAA2B037.jpeg</span></div></div><div class="lightbox-caption" style="width:185px;">A Stubborn Bee hive slot.</div></div><div class="wikia-gallery-item" style="width:187px; "><div class="thumb" style="height:187px;"><div class="gallery-image-wrapper accent" id="Hivesticker_drooping_stubborn_bee-png" style="position: relative; height:185px; width:185px;"><span style="line-height: 1;">Hivesticker drooping stubborn bee.png</span></div></div><div class="lightbox-caption" style="width:185px;">The Drooping Stubborn Bee <a href="sticker.html">sticker</a>.</div></div></div>
 
 ## Trivia
 

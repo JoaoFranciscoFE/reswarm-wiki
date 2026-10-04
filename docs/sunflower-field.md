@@ -1,6 +1,6 @@
 ---
 title: "Sunflower Field"
-tags: ["Pages with broken file links", "Locations", "Fields", "Colorless", "Starter Zone"]
+tags: ["Locations", "Fields", "Colorless", "Starter Zone"]
 ---
 
 # Sunflower Field
@@ -42,9 +42,9 @@ This field can spawn [sunflower seed](sunflower-seed.md), [ticket](ticket.md), [
 <th>Item Drops list
 </th></tr>
 <tr>
-<td><span typeof="mw:Error mw:File"></span><a href="sunflower-seed.html"><span class="color-template color-template-sunflower-seed color-template-background-clip">Sunflower Seeds</span></a> (<span style="border-bottom:1px dotted;" title="1 in 5">20%</span> Chance)<br/>
-<p><span typeof="mw:Error mw:File"></span><a href="oil.html"><span class="color-template color-template-oil color-template-background-clip">Oils</span></a> (<span style="border-bottom:1px dotted;" title="1 in 6,000">0.0167%</span> Chance)<br/>
-<span typeof="mw:Error mw:File"></span><a href="magic-bean.html"><span class="color-template color-template-magic-bean color-template-background-clip">Magic Beans</span></a> (<span style="border-bottom:1px dotted;" title="1 in 40,000">0.0025%</span> Chance)
+<td><img alt="Sunflower Seed" height="35" src="img/Sunflower_Seed.png" width="35"/><a href="sunflower-seed.html"><span class="color-template color-template-sunflower-seed color-template-background-clip">Sunflower Seeds</span></a> (<span style="border-bottom:1px dotted;" title="1 in 5">20%</span> Chance)<br/>
+<p><img alt="Oil" height="35" src="img/Oil.png" width="35"/><a href="oil.html"><span class="color-template color-template-oil color-template-background-clip">Oils</span></a> (<span style="border-bottom:1px dotted;" title="1 in 6,000">0.0167%</span> Chance)<br/>
+<img alt="Magic Bean" height="35" src="img/Magic_Bean.png" width="35"/><a href="magic-bean.html"><span class="color-template color-template-magic-bean color-template-background-clip">Magic Beans</span></a> (<span style="border-bottom:1px dotted;" title="1 in 40,000">0.0025%</span> Chance)
 </p>
 </td></tr></tbody></table>
 
@@ -196,10 +196,6 @@ This is a 20×33 field, containing 660 [flowers](flowers.md). The [flowers](flow
 <li>FourYearFiesta (Gave Sunflower Field Boost x4 and Winds x15 + other stuff).</li>
 <li>Millie (Activates Sunflower Field Code Buff + other stuff).</li></ul></li></ul>
 </td></tr></tbody></table>
-
-## Gallery
-
-<div class="wikia-gallery wikia-gallery-caption-below wikia-gallery-position-left wikia-gallery-spacing-medium wikia-gallery-border-small wikia-gallery-captions-left wikia-gallery-caption-size-medium" data-seq-no="0" hash="3f277d9ad9d57573bf9839f6a63a1aa5" id="gallery-0"><div class="wikia-gallery-caption"></div><div class="wikia-gallery-item" style="width:187px; "><div class="thumb" style="height:187px;"><div class="gallery-image-wrapper accent" id="SunflowerFieldBoostSparkles-png" style="position: relative; height:185px; width:185px;"><span style="line-height: 1;">SunflowerFieldBoostSparkles.png</span></div></div><div class="lightbox-caption" style="width:185px;">The Sunflower Field prior to the addition of Mother Bear.</div></div><div class="wikia-gallery-item" style="width:187px; "><div class="thumb" style="height:187px;"><div class="gallery-image-wrapper accent" id="SunflowerSpitRolled2-png" style="position: relative; height:185px; width:185px;"><span style="line-height: 1;">SunflowerSpitRolled2.png</span></div></div><div class="lightbox-caption" style="width:185px;">The sunflower's face producing sparkles.</div></div><div class="wikia-gallery-item" style="width:187px; "><div class="thumb" style="height:187px;"><div class="gallery-image-wrapper accent" id="Sunflownight-png" style="position: relative; height:185px; width:185px;"><span style="line-height: 1;">Sunflownight.png</span></div></div><div class="lightbox-caption" style="width:185px;">The Sunflower Field at <a href="day-night-cycle.html">night</a>.</div></div><div class="wikia-gallery-item" style="width:187px; "><div class="thumb" style="height:187px;"><div class="gallery-image-wrapper accent" id="SunflowerFieldTheGames-png" style="position: relative; height:185px; width:185px;"><span style="line-height: 1;">SunflowerFieldTheGames.png</span></div></div><div class="lightbox-caption" style="width:185px;">The Sunflower Field during <span class="new" data-uncrawlable-url="L3dpa2kvVGhlX0dhbWVzP2FjdGlvbj1lZGl0JnJlZGxpbms9MQ==" title="The Games (page does not exist)">The Games</span>.</div></div><div class="wikia-gallery-item" style="width:187px; "><div class="thumb" style="height:187px;"><div class="gallery-image-wrapper accent" id="Sunflower_Field_Icon-png" style="position: relative; height:185px; width:185px;"><span style="line-height: 1;">Sunflower Field Icon.png</span></div></div><div class="lightbox-caption" style="width:185px;">The Sunflower Field's associated <a href="field-boost.html">boost icon</a>.</div></div><div class="wikia-gallery-item" style="width:187px; "><div class="thumb" style="height:187px;"><div class="gallery-image-wrapper accent" id="Hivesticker_sunflower_field_stamp-png" style="position: relative; height:185px; width:185px;"><span style="line-height: 1;">Hivesticker sunflower field stamp.png</span></div></div><div class="lightbox-caption" style="width:185px;">The Sunflower Field's associated <a href="sticker.html">field stamp</a>.</div></div></div>
 
 ## Trivia
 

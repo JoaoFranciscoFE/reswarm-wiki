@@ -1,6 +1,6 @@
 ---
 title: "Gifted Bee"
-tags: ["Pages with broken file links", "Mechanics", "Bees"]
+tags: ["Mechanics", "Bees"]
 ---
 
 # Gifted Bee
@@ -134,7 +134,7 @@ You can tell what gifted bees you have by looking at the "⭐" icon in the bee m
 <tr>
 <td><img alt="Honey Bee" height="35" src="img/Honey_Bee.png" width="35"/><a href="honey-bee.html">Honey Bee</a>
 </td>
-<td>x1.5 <a href="system-page.html#Honey_From_Tokens">Honey From Tokens</a> (previously x2 <span typeof="mw:Error mw:File"></span><a href="honey.html"><span class="color-template color-template-honey">Honey</span></a> From Tokens)
+<td>x1.5 <a href="system-page.html#Honey_From_Tokens">Honey From Tokens</a> (previously x2 <img alt="Honey" height="35" src="img/Honey.png" width="35"/><a href="honey.html"><span class="color-template color-template-honey">Honey</span></a> From Tokens)
 </td></tr>
 <tr>
 <td><img alt="Rage Bee" height="35" src="img/Rage_Bee.png" width="35"/><a href="rage-bee.html">Rage Bee</a>

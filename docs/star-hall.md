@@ -1,6 +1,6 @@
 ---
 title: "Star Hall"
-tags: ["Pages with broken file links", "Locations", "Starter Zone"]
+tags: ["Locations", "Starter Zone"]
 ---
 
 # Star Hall

@@ -1,6 +1,6 @@
 ---
 title: "Radiation"
-tags: ["Pages with broken file links", "Mechanics"]
+tags: ["Mechanics"]
 ---
 
 # Radiation

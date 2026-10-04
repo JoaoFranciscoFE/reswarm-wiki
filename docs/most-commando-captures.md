@@ -1,6 +1,6 @@
 ---
 title: "Most Commando Captures"
-tags: ["Pages with broken file links", "Removed Content", "Leaderboards", "Locations"]
+tags: ["Removed Content", "Leaderboards", "Locations"]
 ---
 
 # Most Commando Captures

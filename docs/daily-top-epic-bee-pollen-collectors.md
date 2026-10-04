@@ -1,6 +1,6 @@
 ---
 title: "Daily Top Epic Bee Pollen Collectors"
-tags: ["Pages with broken file links", "Leaderboards"]
+tags: ["Leaderboards"]
 ---
 
 # Daily Top Epic Bee Pollen Collectors

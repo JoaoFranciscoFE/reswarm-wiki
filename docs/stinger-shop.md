@@ -1,6 +1,6 @@
 ---
 title: "Stinger Shop"
-tags: ["Pages with broken file links", "Shops", "Locations", "Machines"]
+tags: ["Shops", "Locations", "Machines"]
 ---
 
 # Stinger Shop
@@ -15,9 +15,9 @@ It has pictures of stingers on the sides and a red circular base with a white to
 
 <table class="article-table">
 <tbody><tr>
-<th><span typeof="mw:Error mw:File"></span><a href="stinger.html"><span class="color-template color-template-stinger color-template-background-clip">Stingers</span></a>
+<th><img alt="Stinger" height="35" src="img/Stinger.png" width="35"/><a href="stinger.html"><span class="color-template color-template-stinger color-template-background-clip">Stingers</span></a>
 </th>
-<th><span typeof="mw:Error mw:File"></span><a href="ticket.html"><span class="color-template color-template-ticket color-template-background-clip">Tickets</span></a>
+<th><img alt="Ticket" height="35" src="img/Ticket.png" width="35"/><a href="ticket.html"><span class="color-template color-template-ticket color-template-background-clip">Tickets</span></a>
 </th></tr>
 <tr>
 <td>1

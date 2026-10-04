@@ -1,6 +1,6 @@
 ---
 title: "Special Sprout Summoner"
-tags: ["Pages with broken file links", "Locations", "Machines", "Summoner"]
+tags: ["Locations", "Machines", "Summoner"]
 ---
 
 # Special Sprout Summoner

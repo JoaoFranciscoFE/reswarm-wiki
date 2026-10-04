@@ -1,6 +1,6 @@
 ---
 title: "Slime"
-tags: ["Mobs", "Pages with broken file links", "Retro Swarm Challenge"]
+tags: ["Mobs", "Retro Swarm Challenge"]
 ---
 
 # Slime
@@ -196,8 +196,6 @@ The **Slime** moves constantly towards the hive, depleting flowers under it. Stu
   * A slime's hitbox is in its center, or the darker green sphere in its middle. Because of this, larger slimes can be completely immune to sword attacks if the sword can't hit the center of the slime.
 * You can use the Trowel to temporarily block Slimes from approaching the hives. This can prove to be extremely useful if you or your team are unable to clear out a horde of Slimes.
 * You can use the [Star Saw](passive-abilities.md#Star_Amulet_Passives) to defeat hordes of Slimes.
-
-## Gallery
 
 ## Trivia
 

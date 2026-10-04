@@ -1,6 +1,6 @@
 ---
 title: "Honey Wreath"
-tags: ["Pages with broken file links", "Removed Content", "Machines", "Beesmas", "Locations", "Beesmas Decorations", "Summoner", "Starter Zone"]
+tags: ["Removed Content", "Machines", "Beesmas", "Locations", "Beesmas Decorations", "Summoner", "Starter Zone"]
 ---
 
 # Honey Wreath
@@ -23,10 +23,6 @@ This Wreath looks frankly uninspired...
 ## Appearance
 
 Before completing Black Bear's quest, it looks like an ordinary wreath. After completing the "Black Bear's Honey Wreath" quest, the wreath is decorated with honey icons and the Flight of the Bumble Egg. After the player completes Honey Bee's "Honey Bee's Honey Wreath?" quest, it changes to have a Gifted [Honey Bee](honey-bee.md) face in the center of the wreath.
-
-## Gallery
-
-<div class="wikia-gallery wikia-gallery-caption-below wikia-gallery-position-left wikia-gallery-spacing-medium wikia-gallery-border-small wikia-gallery-captions-left wikia-gallery-caption-size-medium" data-seq-no="0" hash="8397434eab24e4788d06010549d91c72" id="gallery-0"><div class="wikia-gallery-caption"></div><div class="wikia-gallery-item" style="width:187px; "><div class="thumb" style="height:187px;"><div class="gallery-image-wrapper accent" id="Blackbearwreathincomplete-png" style="position: relative; height:185px; width:185px;"><span style="line-height: 1;">Blackbearwreathincomplete.png</span></div></div><div class="lightbox-caption" style="width:185px;">The Honey Wreath's appearance before the player completed the "Black Bear's Honey Wreath" quest.</div></div><div class="wikia-gallery-item" style="width:187px; "><div class="thumb" style="height:187px;"><div class="gallery-image-wrapper accent" id="Wreath_use-png" style="position: relative; height:185px; width:185px;"><span style="line-height: 1;">Wreath use.png</span></div></div><div class="lightbox-caption" style="width:185px;">A player claiming honey tokens after admiring the Honey Wreath.</div></div><div class="wikia-gallery-item" style="width:187px; "><div class="thumb" style="height:187px;"><div class="gallery-image-wrapper accent" id="Honey_Bee-s_Honey_Wreath-png" style="position: relative; height:185px; width:185px;"><span style="line-height: 1;">Honey Bee's Honey Wreath.png</span></div></div><div class="lightbox-caption" style="width:185px;">The Honey Wreath after completing both Black Bear's and Honey Bee's Beesmas quests.</div></div></div>
 
 ## Trivia
 

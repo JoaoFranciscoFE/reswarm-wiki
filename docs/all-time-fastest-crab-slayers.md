@@ -1,6 +1,6 @@
 ---
 title: "All-Time Fastest Crab Slayers"
-tags: ["Pages with broken file links", "Leaderboards", "Locations"]
+tags: ["Leaderboards", "Locations"]
 ---
 
 # All-Time Fastest Crab Slayers

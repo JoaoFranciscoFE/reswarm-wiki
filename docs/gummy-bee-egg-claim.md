@@ -1,6 +1,6 @@
 ---
 title: "Gummy Bee Egg Claim"
-tags: ["Pages with broken file links", "Locations", "Egg Claims"]
+tags: ["Locations", "Egg Claims"]
 ---
 
 # Gummy Bee Egg Claim
@@ -33,10 +33,6 @@ Using Gumdrops while standing on the model with Goo Hotshot teleports the player
 Gummy Bee Egg Claim's theme:
 
 The sound that plays when the player combines 2500 gumdrops into a [Gummy Bee Egg](egg.md#Gummy_Bee_Egg):
-
-## Gallery
-
-<div class="wikia-gallery wikia-gallery-caption-below wikia-gallery-position-left wikia-gallery-spacing-medium wikia-gallery-border-small wikia-gallery-captions-left wikia-gallery-caption-size-medium" data-seq-no="0" hash="af68b7c2a8d6422b6ed1bb102ca6d83b" id="gallery-0"><div class="wikia-gallery-caption"></div><div class="wikia-gallery-item" style="width:187px; "><div class="thumb" style="height:187px;"><div class="gallery-image-wrapper accent" id="RobloxScreenShot20190405_172120345-png" style="position: relative; height:185px; width:185px;"><span style="line-height: 1;">RobloxScreenShot20190405 172120345.png</span></div></div><div class="lightbox-caption" style="width:185px;">A player forming a Gummy Bee.</div></div><div class="wikia-gallery-item" style="width:187px; "><div class="thumb" style="height:187px;"><div class="gallery-image-wrapper accent" id="84c7b0a3692df1ea5192934d8523a823-png" style="position: relative; height:185px; width:185px;"><span style="line-height: 1;">84c7b0a3692df1ea5192934d8523a823.png</span></div></div><div class="lightbox-caption" style="width:185px;">The prompt of forming a Gummy Bee.</div></div><div class="wikia-gallery-item" style="width:187px; "><div class="thumb" style="height:187px;"><div class="gallery-image-wrapper accent" id="9ADD253A-70B8-45F8-B591-F87235F2838F-jpeg" style="position: relative; height:185px; width:185px;"><span style="line-height: 1;">9ADD253A-70B8-45F8-B591-F87235F2838F.jpeg</span></div></div><div class="lightbox-caption" style="width:185px;">The message given on top of the egg claim without Goo Hotshot or greater.</div></div><div class="wikia-gallery-item" style="width:187px; "><div class="thumb" style="height:187px;"><div class="gallery-image-wrapper accent" id="Screenshot_2020-06-22_at_12-39-38_PM-png" style="position: relative; height:185px; width:185px;"><span style="line-height: 1;">Screenshot 2020-06-22 at 12.39.38 PM.png</span></div></div><div class="lightbox-caption" style="width:185px;">The pop-up that shows up when the player touches the Gummy Bee model and has the Goo Hotshot Badge.</div></div><div class="wikia-gallery-item" style="width:187px; "><div class="thumb" style="height:187px;"><div class="gallery-image-wrapper accent" id="Screenshot_2020-06-22_at_12-38-18_PM-png" style="position: relative; height:185px; width:185px;"><span style="line-height: 1;">Screenshot 2020-06-22 at 12.38.18 PM.png</span></div></div><div class="lightbox-caption" style="width:185px;">The pop-up that shows up when the player steps on the pad and already owns a Gummy Bee.</div></div><div class="wikia-gallery-item" style="width:187px; "><div class="thumb" style="height:187px;"><div class="gallery-image-wrapper accent" id="Static-assets-upload17608076326006468459-png" style="position: relative; height:185px; width:185px;"><span style="line-height: 1;">Static-assets-upload17608076326006468459.png</span></div></div><div class="lightbox-caption" style="width:185px;">The Gummy Bee Egg Claim glowing at night.</div></div></div>
 
 ## Trivia
 

@@ -1,6 +1,6 @@
 ---
 title: "Updates"
-tags: ["Pages with broken file links", "Gameplay", "Bee Swarm Simulator"]
+tags: ["Gameplay", "Bee Swarm Simulator"]
 ---
 
 # Updates

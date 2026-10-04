@@ -1,6 +1,6 @@
 ---
 title: "Sprout"
-tags: ["Pages with broken file links", "Mechanics"]
+tags: ["Mechanics"]
 ---
 
 # Sprout
@@ -84,13 +84,13 @@ The higher tier the sprout is, the more tokens spawn when fully harvested. The p
 </th>
 <th style="width:23%">Special Drops
 </th>
-<th><span typeof="mw:Error mw:File"></span><a href="ticket.html"><span class="color-template color-template-ticket color-template-background-clip">Tickets</span></a>
+<th><img alt="Ticket" height="35" src="img/Ticket.png" width="35"/><a href="ticket.html"><span class="color-template color-template-ticket color-template-background-clip">Tickets</span></a>
 </th>
-<th><span typeof="mw:Error mw:File"></span><a href="royal-jelly.html"><span class="color-template color-template-royal-jelly color-template-background-clip">Royal Jellies</span></a>
+<th><img alt="Royal Jelly" height="35" src="img/Royal_Jelly.png" width="35"/><a href="royal-jelly.html"><span class="color-template color-template-royal-jelly color-template-background-clip">Royal Jellies</span></a>
 </th>
-<th><span typeof="mw:Error mw:File"></span><a href="treat.html"><span class="color-template color-template-treat">Treats</span></a>
+<th><img alt="Treat" height="35" src="img/Treat.png" width="35"/><a href="treat.html"><span class="color-template color-template-treat">Treats</span></a>
 </th>
-<th><span typeof="mw:Error mw:File"></span><a href="honey.html"><span class="color-template color-template-honey">Honey</span></a>
+<th><img alt="Honey" height="35" src="img/Honey.png" width="35"/><a href="honey.html"><span class="color-template color-template-honey">Honey</span></a>
 </th>
 <th>Pollen
 </th></tr>
@@ -116,8 +116,8 @@ to<br/>
 <tr>
 <td style="text-align:center;">Rare (Silver)
 </td>
-<td><span typeof="mw:Error mw:File"></span><a href="egg.html#Silver_Egg"><span class="color-template color-template-silver-egg color-template-background-clip">Silver Egg</span></a><br/>
-<p><span typeof="mw:Error mw:File"></span><a href="royal-jelly.html#Star_Jelly"><span class="color-template color-template-star-jelly color-template-background-clip">Star Jellies</span></a><br/>
+<td><img alt="Silver Egg" height="35" src="img/Silver_Egg.png" width="35"/><a href="egg.html#Silver_Egg"><span class="color-template color-template-silver-egg color-template-background-clip">Silver Egg</span></a><br/>
+<p><img alt="Star Jelly" height="35" src="img/Star_Jelly.png" width="35"/><a href="royal-jelly.html#Star_Jelly"><span class="color-template color-template-star-jelly color-template-background-clip">Star Jellies</span></a><br/>
 Crafting Materials
 </p>
 </td>
@@ -138,8 +138,8 @@ to<br/>
 <tr>
 <td style="text-align:center;">Epic (Gold)
 </td>
-<td><span typeof="mw:Error mw:File"></span><a href="egg.html#Gold_Egg"><span class="color-template color-template-gold-egg color-template-background-clip">Gold Egg</span></a><br/>
-<p><span typeof="mw:Error mw:File"></span><a href="royal-jelly.html#Star_Jelly"><span class="color-template color-template-star-jelly color-template-background-clip">Star Jellies</span></a><br/>
+<td><img alt="Gold Egg" height="35" src="img/Gold_Egg.png" width="35"/><a href="egg.html#Gold_Egg"><span class="color-template color-template-gold-egg color-template-background-clip">Gold Egg</span></a><br/>
+<p><img alt="Star Jelly" height="35" src="img/Star_Jelly.png" width="35"/><a href="royal-jelly.html#Star_Jelly"><span class="color-template color-template-star-jelly color-template-background-clip">Star Jellies</span></a><br/>
 Crafting Materials
 </p>
 </td>
@@ -160,8 +160,8 @@ to<br/>
 <tr>
 <td style="text-align:center;">Legendary (Teal)
 </td>
-<td><span typeof="mw:Error mw:File"></span><a href="egg.html#Diamond_Egg"><span class="color-template color-template-diamond-egg color-template-background-clip">Diamond Egg</span></a><br/>
-<p><span typeof="mw:Error mw:File"></span><a href="royal-jelly.html#Star_Jelly"><span class="color-template color-template-star-jelly color-template-background-clip">Star Jellies</span></a><br/>
+<td><img alt="Diamond Egg" height="35" src="img/Diamond_Egg.png" width="35"/><a href="egg.html#Diamond_Egg"><span class="color-template color-template-diamond-egg color-template-background-clip">Diamond Egg</span></a><br/>
+<p><img alt="Star Jelly" height="35" src="img/Star_Jelly.png" width="35"/><a href="royal-jelly.html#Star_Jelly"><span class="color-template color-template-star-jelly color-template-background-clip">Star Jellies</span></a><br/>
 Crafting Materials
 </p>
 </td>
@@ -182,10 +182,10 @@ to<br/>
 <tr>
 <td style="text-align:center;">Gummy (Translucent Pink)
 </td>
-<td><span typeof="mw:Error mw:File"></span><a href="gumdrops.html"><span class="color-template color-template-gumdrops color-template-background-clip">Gumdrops</span></a><br/>
-<p><span typeof="mw:Error mw:File"></span><a href="glue.html"><span class="color-template color-template-glue color-template-background-clip">Glues</span></a><br/>
-<span typeof="mw:Error mw:File"></span><a href="glitter.html"><span class="color-template color-template-glitter color-template-background-clip">Glitter</span></a><br/>
-<span typeof="mw:Error mw:File"></span><a href="neonberry.html"><span class="color-template color-template-neonberry color-template-background-clip">Neonberry</span></a>
+<td><img alt="Gumdrops" height="35" src="img/Gumdrops.png" width="35"/><a href="gumdrops.html"><span class="color-template color-template-gumdrops color-template-background-clip">Gumdrops</span></a><br/>
+<p><img alt="Glue" height="35" src="img/Glue.png" width="35"/><a href="glue.html"><span class="color-template color-template-glue color-template-background-clip">Glues</span></a><br/>
+<img alt="Glitter" height="35" src="img/Glitter.png" width="35"/><a href="glitter.html"><span class="color-template color-template-glitter color-template-background-clip">Glitter</span></a><br/>
+<img alt="Neonberry" height="35" src="img/Neonberry.png" width="35"/><a href="neonberry.html"><span class="color-template color-template-neonberry color-template-background-clip">Neonberry</span></a>
 </p>
 </td>
 <td style="text-align:center;"><b>x</b>
@@ -205,10 +205,10 @@ to<br/>
 <tr>
 <td style="text-align:center;">Moon (Luminescent Blue)
 </td>
-<td><span typeof="mw:Error mw:File"></span><a href="glitter.html"><span class="color-template color-template-glitter color-template-background-clip">Glitter</span></a><br/>
-<p><span typeof="mw:Error mw:File"></span><a href="moon-charm.html"><span class="color-template color-template-moon-charm color-template-background-clip">Moon Charms</span></a><br/>
-<span typeof="mw:Error mw:File"></span><a href="royal-jelly.html#Star_Jelly"><span class="color-template color-template-star-jelly color-template-background-clip">Star Jelly</span></a><br/>
-<span typeof="mw:Error mw:File"></span><a href="neonberry.html"><span class="color-template color-template-neonberry color-template-background-clip">Neonberry</span></a>
+<td><img alt="Glitter" height="35" src="img/Glitter.png" width="35"/><a href="glitter.html"><span class="color-template color-template-glitter color-template-background-clip">Glitter</span></a><br/>
+<p><img alt="Moon Charm" height="35" src="img/Moon_Charm.png" width="35"/><a href="moon-charm.html"><span class="color-template color-template-moon-charm color-template-background-clip">Moon Charms</span></a><br/>
+<img alt="Star Jelly" height="35" src="img/Star_Jelly.png" width="35"/><a href="royal-jelly.html#Star_Jelly"><span class="color-template color-template-star-jelly color-template-background-clip">Star Jelly</span></a><br/>
+<img alt="Neonberry" height="35" src="img/Neonberry.png" width="35"/><a href="neonberry.html"><span class="color-template color-template-neonberry color-template-background-clip">Neonberry</span></a>
 </p>
 </td>
 <td style="text-align:center;"><b>x</b>
@@ -228,8 +228,8 @@ to<br/>
 <tr>
 <td style="text-align:center;">Supreme (Luminescent Green)
 </td>
-<td><span typeof="mw:Error mw:File"></span><a href="egg.html#Diamond_Egg"><span class="color-template color-template-diamond-egg color-template-background-clip">Diamond Egg</span></a><br/>
-<p><span typeof="mw:Error mw:File"></span><a href="royal-jelly.html#Star_Jelly"><span class="color-template color-template-star-jelly color-template-background-clip">Star Jellies</span></a><br/>
+<td><img alt="Diamond Egg" height="35" src="img/Diamond_Egg.png" width="35"/><a href="egg.html#Diamond_Egg"><span class="color-template color-template-diamond-egg color-template-background-clip">Diamond Egg</span></a><br/>
+<p><img alt="Star Jelly" height="35" src="img/Star_Jelly.png" width="35"/><a href="royal-jelly.html#Star_Jelly"><span class="color-template color-template-star-jelly color-template-background-clip">Star Jellies</span></a><br/>
 Crafting Materials
 </p>
 </td>
@@ -250,9 +250,9 @@ to<br/>
 <tr>
 <td style="text-align:center;">Debug (Black)
 </td>
-<td><span typeof="mw:Error mw:File"></span><a href="bitterberry.html"><span class="color-template color-template-bitterberry color-template-background-clip">Bitterberries</span></a><br/>
-<p><span typeof="mw:Error mw:File"></span><a href="neonberry.html"><span class="color-template color-template-neonberry color-template-background-clip">Neonberries</span></a><br/>
-<span typeof="mw:Error mw:File"></span><a href="atomic-treat.html"><span class="color-template color-template-atomic-treat color-template-background-clip">Atomic Treats</span></a>
+<td><img alt="Bitterberry" height="35" src="img/Bitterberry.png" width="35"/><a href="bitterberry.html"><span class="color-template color-template-bitterberry color-template-background-clip">Bitterberries</span></a><br/>
+<p><img alt="Neonberry" height="35" src="img/Neonberry.png" width="35"/><a href="neonberry.html"><span class="color-template color-template-neonberry color-template-background-clip">Neonberries</span></a><br/>
+<img alt="Atomic Treat" height="35" src="img/Atomic_Treat.png" width="35"/><a href="atomic-treat.html"><span class="color-template color-template-atomic-treat color-template-background-clip">Atomic Treats</span></a>
 </p>
 </td>
 <td style="text-align:center;"><b>x</b>
@@ -272,11 +272,11 @@ to<br/>
 <tr>
 <td style="text-align:center;">Festive (White and Red Stripes)
 </td>
-<td><span typeof="mw:Error mw:File"></span><a href="ability-tokens.html#Festive_Blessing"><span class="color-template color-template-festive-blessing color-template-background-clip">Festive Blessing</span></a><br/>
-<p><span typeof="mw:Error mw:File"></span><a href="ability-tokens.html#Beesmas_Cheer"><span class="color-template color-template-beesmas-cheer color-template-background-clip">Beesmas Cheer</span></a><br/>
-<span typeof="mw:Error mw:File"></span><a href="gumdrops.html"><span class="color-template color-template-gumdrops color-template-background-clip">Gumdrops</span></a><br/>
-<span typeof="mw:Error mw:File"></span><a href="snowflake.html"><span class="color-template color-template-snowflake color-template-background-clip">Snowflakes</span></a><br/>
-<span typeof="mw:Error mw:File"></span><a href="gingerbread-bear.html"><span class="color-template color-template-gingerbread-bear color-template-background-clip">Gingerbread Bears</span></a><br/>
+<td><img alt="Festive Blessing" height="35" src="img/Festive_Blessing.png" width="35"/><a href="ability-tokens.html#Festive_Blessing"><span class="color-template color-template-festive-blessing color-template-background-clip">Festive Blessing</span></a><br/>
+<p><img alt="Beesmas Cheer" height="35" src="img/Beesmas_Cheer.png" width="35"/><a href="ability-tokens.html#Beesmas_Cheer"><span class="color-template color-template-beesmas-cheer color-template-background-clip">Beesmas Cheer</span></a><br/>
+<img alt="Gumdrops" height="35" src="img/Gumdrops.png" width="35"/><a href="gumdrops.html"><span class="color-template color-template-gumdrops color-template-background-clip">Gumdrops</span></a><br/>
+<img alt="Snowflake" height="35" src="img/Snowflake.png" width="35"/><a href="snowflake.html"><span class="color-template color-template-snowflake color-template-background-clip">Snowflakes</span></a><br/>
+<img alt="Gingerbread Bear" height="35" src="img/Gingerbread_Bear.png" width="35"/><a href="gingerbread-bear.html"><span class="color-template color-template-gingerbread-bear color-template-background-clip">Gingerbread Bears</span></a><br/>
 Crafting Materials
 </p>
 </td>
@@ -297,15 +297,15 @@ to<br/>
 <tr>
 <td style="text-align:center;">Sticker Sprout (Rainbow)
 </td>
-<td><span typeof="mw:Error mw:File"></span><a href="egg.html#Silver_Egg"><span class="color-template color-template-silver-egg color-template-background-clip">Silver Egg</span></a><br/>
-<p><span typeof="mw:Error mw:File"></span><a href="egg.html#Gifted_Silver_Egg"><span class="color-template color-template-gifted-silver-egg color-template-background-clip">Gifted Silver Egg</span></a><br/>
-<span typeof="mw:Error mw:File"></span><a href="egg.html#Diamond_Egg"><span class="color-template color-template-diamond-egg color-template-background-clip">Diamond Egg</span></a><br/>
-<span typeof="mw:Error mw:File"></span><a href="egg.html#Gifted_Diamond_Egg"><span class="color-template color-template-gifted-diamond-egg color-template-background-clip">Gifted Diamond Egg</span></a><br/>
-<span typeof="mw:Error mw:File"></span><a href="egg.html#Star_Egg"><span class="color-template color-template-star-egg color-template-background-clip">Star Egg</span></a><br/>
-<span typeof="mw:Error mw:File"></span> <a href="sticker.html">Stickers</a><br/>
-<span typeof="mw:Error mw:File"></span> <a href="waxes.html">Waxes</a><br/>
-<span typeof="mw:Error mw:File"></span><a href="sticker-planter.html"><span class="color-template color-template-sticker-planter color-template-background-clip">Sticker Planters</span></a><br/>
-<span typeof="mw:Error mw:File"></span><a href="royal-jelly.html#Star_Jelly"><span class="color-template color-template-star-jelly color-template-background-clip">Star Jellies</span></a><br/>
+<td><img alt="Silver Egg" height="35" src="img/Silver_Egg.png" width="35"/><a href="egg.html#Silver_Egg"><span class="color-template color-template-silver-egg color-template-background-clip">Silver Egg</span></a><br/>
+<p><img alt="Gifted Silver Egg" height="35" src="img/Gifted_Silver_Egg.png" width="35"/><a href="egg.html#Gifted_Silver_Egg"><span class="color-template color-template-gifted-silver-egg color-template-background-clip">Gifted Silver Egg</span></a><br/>
+<img alt="Diamond Egg" height="35" src="img/Diamond_Egg.png" width="35"/><a href="egg.html#Diamond_Egg"><span class="color-template color-template-diamond-egg color-template-background-clip">Diamond Egg</span></a><br/>
+<img alt="Gifted Diamond Egg" height="35" src="img/Gifted_Diamond_Egg.png" width="35"/><a href="egg.html#Gifted_Diamond_Egg"><span class="color-template color-template-gifted-diamond-egg color-template-background-clip">Gifted Diamond Egg</span></a><br/>
+<img alt="Star Egg" height="35" src="img/Star_Egg.png" width="35"/><a href="egg.html#Star_Egg"><span class="color-template color-template-star-egg color-template-background-clip">Star Egg</span></a><br/>
+<img alt="Stickers" height="35" src="img/Stickers.png" width="35"/> <a href="sticker.html">Stickers</a><br/>
+<img alt="Waxes" height="35" src="img/Waxes.png" width="35"/> <a href="waxes.html">Waxes</a><br/>
+<img alt="Sticker Planter" height="35" src="img/Sticker_Planter.png" width="35"/><a href="sticker-planter.html"><span class="color-template color-template-sticker-planter color-template-background-clip">Sticker Planters</span></a><br/>
+<img alt="Star Jelly" height="35" src="img/Star_Jelly.png" width="35"/><a href="royal-jelly.html#Star_Jelly"><span class="color-template color-template-star-jelly color-template-background-clip">Star Jellies</span></a><br/>
 Crafting Materials
 </p>
 </td>
@@ -344,7 +344,7 @@ Crafting Materials
 
 ## Gallery
 
-<div class="wikia-gallery wikia-gallery-caption-below wikia-gallery-position-left wikia-gallery-spacing-medium wikia-gallery-border-small wikia-gallery-captions-left wikia-gallery-caption-size-medium" data-seq-no="0" hash="7df0e9f4f6ec58adea766cac59b075b4" id="gallery-0"><div class="wikia-gallery-caption"></div><div class="wikia-gallery-item" style="width:187px; "><div class="thumb" style="height:187px;"><div class="gallery-image-wrapper accent" id="SproutTexture-png" style="position: relative; height:185px; width:185px;"><span style="line-height: 1;">SproutTexture.png</span></div></div><div class="lightbox-caption" style="width:185px;">The Normal Sprout's texture.</div></div><div class="wikia-gallery-item" style="width:187px; "><div class="thumb" style="height:187px;"><div class="gallery-image-wrapper accent" id="NormalSproutRolled-png" style="position: relative; height:185px; width:185px;"><span style="line-height: 1;">NormalSproutRolled.png</span></div></div><div class="lightbox-caption" style="width:185px;">A normal sprout in the Mountain Top Field.</div></div><div class="wikia-gallery-item" style="width:187px; "><div class="thumb" style="height:187px;"><div class="gallery-image-wrapper accent" id="Rare_Seedling-png" style="position: relative; height:185px; width:185px;"><span style="line-height: 1;">Rare Seedling.png</span></div></div><div class="lightbox-caption" style="width:185px;">A rare sprout in the Bamboo Field.</div></div><div class="wikia-gallery-item" style="width:187px; "><div class="thumb" style="height:187px;"><div class="gallery-image-wrapper accent" id="Epic_Seedling-png" style="position: relative; height:185px; width:185px;"><span style="line-height: 1;">Epic Seedling.png</span></div></div><div class="lightbox-caption" style="width:185px;">An epic sprout in the Mushroom Field.</div></div><div class="wikia-gallery-item" style="width:187px; "><div class="thumb" style="height:187px;"><div class="gallery-image-wrapper accent" id="Legendary_Seedling-png" style="position: relative; height:185px; width:185px;"><span style="line-height: 1;">Legendary Seedling.png</span></div></div><div class="lightbox-caption" style="width:185px;">A legendary sprout in the Spider Field.</div></div><div class="wikia-gallery-item" style="width:187px; "><div class="thumb" style="height:187px;"><div class="gallery-image-wrapper accent" id="Myth-png" style="position: relative; height:185px; width:185px;"><span style="line-height: 1;">Myth.png</span></div></div><div class="lightbox-caption" style="width:185px;">A supreme sprout in the Mountain Top Field.</div></div><div class="wikia-gallery-item" style="width:187px; "><div class="thumb" style="height:187px;"><div class="gallery-image-wrapper accent" id="Screenshot_2024-06-06_193213-png" style="position: relative; height:185px; width:185px;"><span style="line-height: 1;">Screenshot 2024-06-06 193213.png</span></div></div><div class="lightbox-caption" style="width:185px;">A Supreme Sprout appearing naturally.</div></div><div class="wikia-gallery-item" style="width:187px; "><div class="thumb" style="height:187px;"><div class="gallery-image-wrapper accent" id="Mythical_Sprout_Spawn-png" style="position: relative; height:185px; width:185px;"><span style="line-height: 1;">Mythical Sprout Spawn.png</span></div></div><div class="lightbox-caption" style="width:185px;">A Supreme Sprout spawning prior to its name being changed.</div></div><div class="wikia-gallery-item" style="width:187px; "><div class="thumb" style="height:187px;"><div class="gallery-image-wrapper accent" id="TGum-png" style="position: relative; height:185px; width:185px;"><span style="line-height: 1;">TGum.png</span></div></div><div class="lightbox-caption" style="width:185px;">A gummy sprout in the Mountain Top field.</div></div><div class="wikia-gallery-item" style="width:187px; "><div class="thumb" style="height:187px;"><div class="gallery-image-wrapper accent" id="Moonsprout-PNG" style="position: relative; height:185px; width:185px;"><span style="line-height: 1;">Moonsprout.PNG</span></div></div><div class="lightbox-caption" style="width:185px;">A moon sprout in Blue Flower Field.</div></div><div class="wikia-gallery-item" style="width:187px; "><div class="thumb" style="height:187px;"><div class="gallery-image-wrapper accent" id="I_don-t_see_festive_sprout_heree-png" style="position: relative; height:185px; width:185px;"><span style="line-height: 1;">I don't see festive sprout heree.png</span></div></div><div class="lightbox-caption" style="width:185px;">A festive sprout in the Dandelion Field.</div></div><div class="wikia-gallery-item" style="width:187px; "><div class="thumb" style="height:187px;"><div class="gallery-image-wrapper accent" id="Screenshot_-351--png" style="position: relative; height:185px; width:185px;"><span style="line-height: 1;">Screenshot (351).png</span></div></div><div class="lightbox-caption" style="width:185px;">A debug sprout in the Clover Field.</div></div><div class="wikia-gallery-item" style="width:187px; "><div class="thumb" style="height:187px;"><div class="gallery-image-wrapper accent" id="StickerSproutInHub-png" style="position: relative; height:185px; width:185px;"><span style="line-height: 1;">StickerSproutInHub.png</span></div></div><div class="lightbox-caption" style="width:185px;">A sticker sprout in the Hub Field.</div></div><div class="wikia-gallery-item" style="width:187px; "><div class="thumb" style="height:187px;"><div class="gallery-image-wrapper accent" id="Sticker_sprout-png" style="position: relative; height:185px; width:185px;"><span style="line-height: 1;">Sticker sprout.png</span></div></div><div class="lightbox-caption" style="width:185px;">Someone summoning a Sticker Sprout.</div></div><div class="wikia-gallery-item" style="width:187px; "><div class="thumb" style="height:187px;"><div class="gallery-image-wrapper accent" id="FestiveGone-webp" style="position: relative; height:185px; width:185px;"><span style="line-height: 1;">FestiveGone.webp</span></div></div><div class="lightbox-caption" style="width:185px;">A festive sprout despawning because the person who planted it left the server.</div></div></div>
+
 
 [Onett](onett-developer.md) is able to plant sprouts server-wide throughout the game. Some of them have been planted under unique names.
 
@@ -352,28 +352,28 @@ Crafting Materials
 
 <table class="article-table">
 <tbody><tr>
-<td><div class="wikia-gallery wikia-gallery-caption-below wikia-gallery-position-left wikia-gallery-spacing-medium wikia-gallery-border-small wikia-gallery-captions-left wikia-gallery-caption-size-medium" data-seq-no="1" hash="4a0d4c2ea42674fba47a2c28258adb26" id="gallery-1"><div class="wikia-gallery-caption"></div><div class="wikia-gallery-item" style="width:187px; "><div class="thumb" style="height:187px;"><div class="gallery-image-wrapper accent" id="OnettFestiveSprout-png" style="position: relative; height:185px; width:185px;"><span style="line-height: 1;">OnettFestiveSprout.png</span></div></div><div class="lightbox-caption" style="width:185px;">"🌱Onett has planted a Festive Sprout...🌱"</div></div><div class="wikia-gallery-item" style="width:187px; "><div class="thumb" style="height:187px;"><div class="gallery-image-wrapper accent" id="Onett_Festive_Sprout_Spam-png" style="position: relative; height:185px; width:185px;"><span style="line-height: 1;">Onett Festive Sprout Spam.png</span></div></div><div class="lightbox-caption" style="width:185px;">"🌱Onett has planted a Festive Sprout...🌱" (x3)</div></div><div class="wikia-gallery-item" style="width:187px; "><div class="thumb" style="height:187px;"><div class="gallery-image-wrapper accent" id="Nonett-jpg" style="position: relative; height:185px; width:185px;"><span style="line-height: 1;">Nonett.jpg</span></div></div><div class="lightbox-caption" style="width:185px;">"🌱NO-nett has planted a Festive Sprout...🌱"</div></div><div class="wikia-gallery-item" style="width:187px; "><div class="thumb" style="height:187px;"><div class="gallery-image-wrapper accent" id="100k_sprout-png" style="position: relative; height:185px; width:185px;"><span style="line-height: 1;">100k sprout.png</span></div></div><div class="lightbox-caption" style="width:185px;">"🌱 A concurrent gang of 100,000 Beekeepers has planted a Festive Sprout...🌱" (Celebrating 100k Players)</div></div><div class="wikia-gallery-item" style="width:187px; "><div class="thumb" style="height:187px;"><div class="gallery-image-wrapper accent" id="Bubble_bee_man_plants_festive_sprout-png" style="position: relative; height:185px; width:185px;"><span style="line-height: 1;">Bubble bee man plants festive sprout.png</span></div></div><div class="lightbox-caption" style="width:185px;">"🌱 Bubble Bee Man, who will keep watching you even after Beesmas ends, all year long all the time - so you better behave - has planted a Festive Sprout...🌱" (End of Beesmas 2020)</div></div><div class="wikia-gallery-item" style="width:187px; "><div class="thumb" style="height:187px;"><div class="gallery-image-wrapper accent" id="Pufferfish_sprout-jpg" style="position: relative; height:185px; width:185px;"><span style="line-height: 1;">Pufferfish sprout.jpg</span></div></div><div class="lightbox-caption" style="width:185px;">"🌱🐡Ol' Saint Puff, the Beesmas Pufferfish and Puffshroom ambasador of the sea, has planted a Festive Sprout..."🌱 (End of Beesmas 2022)</div></div><div class="wikia-gallery-item" style="width:187px; "><div class="thumb" style="height:187px;"><div class="gallery-image-wrapper accent" id="April_flus_sprout-webp" style="position: relative; height:185px; width:185px;"><span style="line-height: 1;">April flus sprout.webp</span></div></div><div class="lightbox-caption" style="width:185px;">"🌱The Lying Expired April Fools Timer has planted a Festive Sprout...🌱" ("End" of the timer of Winter Beesmas on 1st of April, 2024)</div></div><div class="wikia-gallery-item" style="width:187px; "><div class="thumb" style="height:187px;"><div class="gallery-image-wrapper accent" id="Screenshot_2025-04-30_221118-png" style="position: relative; height:185px; width:185px;"><span style="line-height: 1;">Screenshot 2025-04-30 221118.png</span></div></div><div class="lightbox-caption" style="width:185px;">"🌱Brown Bear's Fireplace has planted a Festive Sprout...🌱" (End of Winter Beesmas 2024)</div></div><div class="wikia-gallery-item" style="width:187px; "><div class="thumb" style="height:187px;"><div class="gallery-image-wrapper accent" id="Screenshot_2025-04-30_222900-png" style="position: relative; height:185px; width:185px;"><span style="line-height: 1;">Screenshot 2025-04-30 222900.png</span></div></div><div class="lightbox-caption" style="width:185px;">"🌱 Puppy Bee's Lost Ball has planted a Festive Sprout...🌱" (End of Winter Beesmas 2024)</div></div><div class="wikia-gallery-item" style="width:187px; "><div class="thumb" style="height:187px;"><div class="gallery-image-wrapper accent" id="Screenshot_2025-04-30_223816-png" style="position: relative; height:185px; width:185px;"><span style="line-height: 1;">Screenshot 2025-04-30 223816.png</span></div></div><div class="lightbox-caption" style="width:185px;">"🌱 The  Joy You Spread With The Help Of Your Bee Swarm This Bleesed Winter Season has planted a Festive Sprout...🌱" (End of Winter Beesmas 2024)</div></div><div class="wikia-gallery-item" style="width:187px; "><div class="thumb" style="height:187px;"><div class="gallery-image-wrapper accent" id="Golden_Party_Cogmower_-Lvl_23--png" style="position: relative; height:185px; width:185px;"><span style="line-height: 1;">Golden Party Cogmower (Lvl 23).png</span></div></div><div class="lightbox-caption" style="width:185px;">"🌱 Golden Party Cogmower (Lvl 23) has planted a Festive Sprout...🌱"</div></div></div>
+<td>
 </td></tr></tbody></table>
 
 ### Debug
 
 <table class="article-table">
 <tbody><tr>
-<td><div class="wikia-gallery wikia-gallery-caption-below wikia-gallery-position-left wikia-gallery-spacing-medium wikia-gallery-border-small wikia-gallery-captions-left wikia-gallery-caption-size-medium" data-seq-no="2" hash="f5617b2b6efcf3e771a44acbe2a67126" id="gallery-2"><div class="wikia-gallery-caption"></div><div class="wikia-gallery-item" style="width:187px; "><div class="thumb" style="height:187px;"><div class="gallery-image-wrapper accent" id="Debug_Sprout_Text-png" style="position: relative; height:185px; width:185px;"><span style="line-height: 1;">Debug Sprout Text.png</span></div></div><div class="lightbox-caption" style="width:185px;">"🌱Onett has planted a Debug Sprout...🌱"</div></div><div class="wikia-gallery-item" style="width:187px; "><div class="thumb" style="height:187px;"><div class="gallery-image-wrapper accent" id="OnettAlias-png" style="position: relative; height:185px; width:185px;"><span style="line-height: 1;">OnettAlias.png</span></div></div><div class="lightbox-caption" style="width:185px;">"🌱 Wreath Onett of Beesmas Past has planted a Debug sprout... 🌱"</div></div><div class="wikia-gallery-item" style="width:187px; "><div class="thumb" style="height:187px;"><div class="gallery-image-wrapper accent" id="Honeyday_frog_cleanup_crew_debug_sprout-png" style="position: relative; height:185px; width:185px;"><span style="line-height: 1;">Honeyday frog cleanup crew debug sprout.png</span></div></div><div class="lightbox-caption" style="width:185px;">"🌱🐸The Honeyday Cleanup-Frog Crew has planted a Debug Sprout...🌱" (End of Beesmas 2020)</div></div><div class="wikia-gallery-item" style="width:187px; "><div class="thumb" style="height:187px;"><div class="gallery-image-wrapper accent" id="Angry_Frog_Crew_Sprout-webp" style="position: relative; height:185px; width:185px;"><span style="line-height: 1;">Angry Frog Crew Sprout.webp</span></div></div><div class="lightbox-caption" style="width:185px;">"🌱🐸The Honeyday-Cleanup Frog Crew, angry that the Windy Gane got rid of their last one, has planted a Debug Sprout...🌱" (End of Beesmas 2020)</div></div><div class="wikia-gallery-item" style="width:187px; "><div class="thumb" style="height:187px;"><div class="gallery-image-wrapper accent" id="Screenshot_2025-04-30_221528-png" style="position: relative; height:185px; width:185px;"><span style="line-height: 1;">Screenshot 2025-04-30 221528.png</span></div></div><div class="lightbox-caption" style="width:185px;">"🌱 Mutated Mondo Chick has planted a Debug Sprout...🌱" (End of Winter Beesmas 2024)</div></div><div class="wikia-gallery-item" style="width:187px; "><div class="thumb" style="height:187px;"><div class="gallery-image-wrapper accent" id="Screenshot_2025-05-01_124707-png" style="position: relative; height:185px; width:185px;"><span style="line-height: 1;">Screenshot 2025-05-01 124707.png</span></div></div><div class="lightbox-caption" style="width:185px;">"🌱The Beesmas Tree's Glory has planted a Debug Sprout...🌱" (Plus a <a href="mythic-meteor-shower.html">Mythic Meteor Shower</a>) (End of Winter Beesmas 2024)</div></div></div>
+<td>
 </td></tr></tbody></table>
 
 ### Gummy
 
 <table class="article-table">
 <tbody><tr>
-<td><div class="wikia-gallery wikia-gallery-caption-below wikia-gallery-position-left wikia-gallery-spacing-medium wikia-gallery-border-small wikia-gallery-captions-left wikia-gallery-caption-size-medium" data-seq-no="3" hash="6a71a928f8190170965636bb5a4b1fa6" id="gallery-3"><div class="wikia-gallery-caption"></div><div class="wikia-gallery-item" style="width:187px; "><div class="thumb" style="height:187px;"><div class="gallery-image-wrapper accent" id="Puppy_bee_sprout-jpg" style="position: relative; height:185px; width:185px;"><span style="line-height: 1;">Puppy bee sprout.jpg</span></div></div><div class="lightbox-caption" style="width:185px;">"🌱Ruffdoph the Red Nosed Puppy Bee, who has no clue what's happening but is excited by all the commotion, has planted a Gummy Sprout...🌱" (End of Beesmas 2020)</div></div><div class="wikia-gallery-item" style="width:187px; "><div class="thumb" style="height:187px;"><div class="gallery-image-wrapper accent" id="-----_Gummy_Aphid_deep_beneath_the_Rose_Field_-Lvl_23-_has_planted_a_Gummy_Sprout---_------jpg" style="position: relative; height:185px; width:185px;"><span style="line-height: 1;">-🌱 Gummy Aphid deep beneath the Rose Field (Lvl 23) has planted a Gummy Sprout... 🌱-.jpg</span></div></div><div class="lightbox-caption" style="width:185px;">"🌱Lvl 23 Gummy Aphid deep beneath the Rose Field has planted a Gummy Sprout...🌱"</div></div><div class="wikia-gallery-item" style="width:187px; "><div class="thumb" style="height:187px;"><div class="gallery-image-wrapper accent" id="----Goonett_has_planted_a_Gummy_Sprout--------png" style="position: relative; height:185px; width:185px;"><span style="line-height: 1;">🌱Goonett has planted a Gummy Sprout...🌱.png</span></div></div><div class="lightbox-caption" style="width:185px;">"🌱Goonett has planted a Gummy Sprout...🌱"</div></div></div>
+<td>
 </td></tr></tbody></table>
 
 ### Other
 
 <table class="article-table">
 <tbody><tr>
-<td><div class="wikia-gallery wikia-gallery-caption-below wikia-gallery-position-left wikia-gallery-spacing-medium wikia-gallery-border-small wikia-gallery-captions-left wikia-gallery-caption-size-medium" data-seq-no="4" hash="755dbf027866a75b5a42ed90d4008a1e" id="gallery-4"><div class="wikia-gallery-caption"></div><div class="wikia-gallery-item" style="width:187px; "><div class="thumb" style="height:187px;"><div class="gallery-image-wrapper accent" id="Impo-png" style="position: relative; height:185px; width:185px;"><span style="line-height: 1;">Impo.png</span></div></div><div class="lightbox-caption" style="width:185px;">"🌱Onett in a bonnet has planted a Supreme Sprout...🌱"</div></div></div>
+<td>
 </td></tr></tbody></table>
 
 ## Audio

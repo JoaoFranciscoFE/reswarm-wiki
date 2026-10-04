@@ -1,6 +1,6 @@
 ---
 title: "Beesmas Tree"
-tags: ["Pages with broken file links", "Removed Content", "Locations", "Beesmas"]
+tags: ["Removed Content", "Locations", "Beesmas"]
 ---
 
 # Beesmas Tree

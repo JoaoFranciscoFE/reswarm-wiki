@@ -1,6 +1,6 @@
 ---
 title: "Brick Bloom"
-tags: ["Pages with broken file links", "Passive Mobs", "Mobs", "Retro Swarm Challenge"]
+tags: ["Passive Mobs", "Mobs", "Retro Swarm Challenge"]
 ---
 
 # Brick Bloom

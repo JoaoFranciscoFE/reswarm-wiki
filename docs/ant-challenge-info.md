@@ -1,6 +1,6 @@
 ---
 title: "Ant Challenge Info"
-tags: ["Pages with broken file links", "Locations", "Ant Challenge", "NPC"]
+tags: ["Locations", "Ant Challenge", "NPC"]
 ---
 
 # Ant Challenge Info
@@ -16,7 +16,7 @@ The **Ant Challenge Info** is located behind the [Ant Gate](ant-gate.md) and to 
 <th>Dialogue
 </th></tr>
 <tr>
-<td>Welcome to the Ant Challenge! Spend <span typeof="mw:Error mw:File"></span>1 <a href="ant-pass.html"><span class="color-template color-template-ant-pass color-template-background-clip">Ant Pass</span></a> to enter the Ant Field. Collect pollen and honey to fill the meter on the ant hill. When it reaches the top, ants will pop out. Each ant you defeat grants 1 point. Defeat as many ants as you can in 5 minutes to increase your reward! Rewards include: [Royal Jellies], special treats, Honey, and [Ant Amulets]. Amulets are special items that offer a variety of boosts. The higher your score, the better your [Ant Amulet] will be. 0-24 Points: Bronze Ant Amulet. 25-49 Points: Silver Ant Amulet. 50-99 Points: Gold Ant Amulet. 100-150 Points: Diamond Ant Amulet. 150+ Points: Supreme Ant Amulet. Each amulet has randomly generated values, but they tend to improve with your score. Good luck!
+<td>Welcome to the Ant Challenge! Spend <img alt="Ant Pass" height="25" src="img/Ant_Pass.png" width="25"/>1 <a href="ant-pass.html"><span class="color-template color-template-ant-pass color-template-background-clip">Ant Pass</span></a> to enter the Ant Field. Collect pollen and honey to fill the meter on the ant hill. When it reaches the top, ants will pop out. Each ant you defeat grants 1 point. Defeat as many ants as you can in 5 minutes to increase your reward! Rewards include: [Royal Jellies], special treats, Honey, and [Ant Amulets]. Amulets are special items that offer a variety of boosts. The higher your score, the better your [Ant Amulet] will be. 0-24 Points: Bronze Ant Amulet. 25-49 Points: Silver Ant Amulet. 50-99 Points: Gold Ant Amulet. 100-150 Points: Diamond Ant Amulet. 150+ Points: Supreme Ant Amulet. Each amulet has randomly generated values, but they tend to improve with your score. Good luck!
 <p><br/>
 </p><p>[Removed dialogue]: (There's something else written here...) »  ☺ While traveling from east to west, this could require urgent rest. 
 </p>

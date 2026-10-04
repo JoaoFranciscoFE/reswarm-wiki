@@ -1,6 +1,6 @@
 ---
 title: "White Brick Field"
-tags: ["Pages with broken file links", "Locations", "Fields", "Retro Swarm Challenge", "Colorless"]
+tags: ["Locations", "Fields", "Retro Swarm Challenge", "Colorless"]
 ---
 
 # White Brick Field
@@ -137,10 +137,6 @@ Since [planters](planter.md) cannot be used in the Retro Swarm Challenge, there 
 ## Obtaining Boosts
 
 * Using [Glitter](glitter.md) in the White Brick Field will grant a 100% White Brick Field pollen boost for 15 minutes.
-
-## Gallery
-
-<div class="wikia-gallery wikia-gallery-caption-below wikia-gallery-position-left wikia-gallery-spacing-medium wikia-gallery-border-small wikia-gallery-captions-left wikia-gallery-caption-size-medium" data-seq-no="0" hash="52be9f724bca25fd95b29485444b894b" id="gallery-0"><div class="wikia-gallery-caption"></div><div class="wikia-gallery-item" style="width:187px; "><div class="thumb" style="height:187px;"><div class="gallery-image-wrapper accent" id="Sunflower_Field_Icon-png" style="position: relative; height:185px; width:185px;"><span style="line-height: 1;">Sunflower Field Icon.png</span></div></div><div class="lightbox-caption" style="width:185px;">The White Brick Field's associated <a href="field-boost.html">boost icon</a>.</div></div></div>
 
 ## Trivia
 

@@ -1,6 +1,6 @@
 ---
 title: "Cloud"
-tags: ["Pages with broken file links", "Mechanics"]
+tags: ["Mechanics"]
 ---
 
 # Cloud
@@ -34,10 +34,6 @@ Collecting a Cloud token will give the player the message:
 🌧️ Windy Bee summoned a Cloud in {Field Name}. 🌧️
 If another player's Windy Bee spawns a cloud in your field, a message will appear announcing:
 🌧️ {Username}'s Windy Bee summoned a Cloud in this field. 🌧️
-
-## Gallery
-
-<div class="wikia-gallery wikia-gallery-caption-below wikia-gallery-position-left wikia-gallery-spacing-medium wikia-gallery-border-small wikia-gallery-captions-left wikia-gallery-caption-size-medium" data-seq-no="0" hash="fba6fd7ce0cde97c49eb9b36111e5551" id="gallery-0"><div class="wikia-gallery-caption"></div><div class="wikia-gallery-item" style="width:187px; "><div class="thumb" style="height:187px;"><div class="gallery-image-wrapper accent" id="CloudLinkSprout-png" style="position: relative; height:185px; width:185px;"><span style="line-height: 1;">CloudLinkSprout.png</span></div></div><div class="lightbox-caption" style="width:185px;">A cloud growing a sprout.</div></div><div class="wikia-gallery-item" style="width:187px; "><div class="thumb" style="height:187px;"><div class="gallery-image-wrapper accent" id="Windy_Bee_in_a_cloud-png" style="position: relative; height:185px; width:185px;"><span style="line-height: 1;">Windy Bee in a cloud.png</span></div></div><div class="lightbox-caption" style="width:185px;">A Wild Windy Bee hiding in a cloud.</div></div><div class="wikia-gallery-item" style="width:187px; "><div class="thumb" style="height:187px;"><div class="gallery-image-wrapper accent" id="Cloud_Boost-png" style="position: relative; height:185px; width:185px;"><span style="line-height: 1;">Cloud Boost.png</span></div></div><div class="lightbox-caption" style="width:185px;">Buff icon for Cloud Boost</div></div><div class="wikia-gallery-item" style="width:187px; "><div class="thumb" style="height:187px;"><div class="gallery-image-wrapper accent" id="Cloudplus-png" style="position: relative; height:185px; width:185px;"><span style="line-height: 1;">Cloudplus.png</span></div></div><div class="lightbox-caption" style="width:185px;">Buff icon for Cloud Boost+</div></div></div>
 
 ## Trivia
 

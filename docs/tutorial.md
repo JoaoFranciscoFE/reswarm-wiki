@@ -1,6 +1,6 @@
 ---
 title: "Tutorial"
-tags: ["Pages with broken file links", "Re://:Swarm"]
+tags: ["Re://:Swarm"]
 ---
 
 # Tutorial
@@ -346,10 +346,6 @@ The **Tutorial**, also nicknamed **Help**, gives information on the game and its
 <figure class="mw-halign-right" typeof="mw:Error mw:File"><figcaption></figcaption></figure>
 
 <figure class="mw-halign-right" typeof="mw:Error mw:File"><figcaption></figcaption></figure>
-
-## Gallery
-
-<div class="wikia-gallery wikia-gallery-caption-below wikia-gallery-position-left wikia-gallery-spacing-medium wikia-gallery-border-small wikia-gallery-captions-left wikia-gallery-caption-size-medium" data-seq-no="0" hash="760b41a42980e5b6adaed6dc077862c6" id="gallery-0"><div class="wikia-gallery-caption"></div><div class="wikia-gallery-item" style="width:187px; "><div class="thumb" style="height:187px;"><div class="gallery-image-wrapper accent" id="Tutorialicon-png" style="position: relative; height:185px; width:185px;"><span style="line-height: 1;">Tutorialicon.png</span></div></div><div class="lightbox-caption" style="width:185px;">The Tutorial button.</div></div><div class="wikia-gallery-item" style="width:187px; "><div class="thumb" style="height:187px;"><div class="gallery-image-wrapper accent" id="Tutorial-png" style="position: relative; height:185px; width:185px;"><span style="line-height: 1;">Tutorial.png</span></div></div><div class="lightbox-caption" style="width:185px;">The Tutorial button but uncolored.</div></div><div class="wikia-gallery-item" style="width:187px; "><div class="thumb" style="height:187px;"><div class="gallery-image-wrapper accent" id="PagearrowLeft-png" style="position: relative; height:185px; width:185px;"><span style="line-height: 1;">PagearrowLeft.png</span></div></div><div class="lightbox-caption" style="width:185px;">Left Tutorial arrow.</div></div><div class="wikia-gallery-item" style="width:187px; "><div class="thumb" style="height:187px;"><div class="gallery-image-wrapper accent" id="PagearrowRight-png" style="position: relative; height:185px; width:185px;"><span style="line-height: 1;">PagearrowRight.png</span></div></div><div class="lightbox-caption" style="width:185px;">Right Tutorial arrow.</div></div></div>
 
 ## Trivia
 

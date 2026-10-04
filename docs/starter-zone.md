@@ -1,6 +1,6 @@
 ---
 title: "Starter Zone"
-tags: ["Pages with broken file links", "Locations", "Starter Zone"]
+tags: ["Locations", "Starter Zone"]
 ---
 
 # Starter Zone

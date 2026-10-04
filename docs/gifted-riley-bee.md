@@ -1,6 +1,6 @@
 ---
 title: "Gifted Riley Bee"
-tags: ["Pages with broken file links", "Removed Content", "NPC", "Red", "Quest Giver", "Quest Bees", "Requires Translator"]
+tags: ["Removed Content", "NPC", "Red", "Quest Giver", "Quest Bees", "Requires Translator"]
 ---
 
 # Gifted Riley Bee
@@ -220,81 +220,81 @@ In addition to [Red Extract](red-extract.md) and [Honey](honey.md) for completin
 <tr>
 <td>3
 </td>
-<td><span typeof="mw:Error mw:File"></span>1 <a href="stinger.html"><span class="color-template color-template-stinger color-template-background-clip">Stinger</span></a>
+<td><img alt="Stinger" height="25" src="img/Stinger.png" width="25"/>1 <a href="stinger.html"><span class="color-template color-template-stinger color-template-background-clip">Stinger</span></a>
 </td></tr>
 <tr>
 <td>9
 </td>
-<td><span typeof="mw:Error mw:File"></span>10 <a href="stinger.html"><span class="color-template color-template-stinger color-template-background-clip">Stingers</span></a>
+<td><img alt="Stinger" height="25" src="img/Stinger.png" width="25"/>10 <a href="stinger.html"><span class="color-template color-template-stinger color-template-background-clip">Stingers</span></a>
 </td></tr>
 <tr>
 <td>25
 </td>
-<td><span typeof="mw:Error mw:File"></span>1 <a href="royal-jelly.html#Star_Jelly"><span class="color-template color-template-star-jelly color-template-background-clip">Star Jelly</span></a>
+<td><img alt="Star Jelly" height="25" src="img/Star_Jelly.png" width="25"/>1 <a href="royal-jelly.html#Star_Jelly"><span class="color-template color-template-star-jelly color-template-background-clip">Star Jelly</span></a>
 </td></tr>
 <tr>
 <td>50
 </td>
-<td><span typeof="mw:Error mw:File"></span>1 <a href="egg.html#Gifted_Gold_Egg"><span class="color-template color-template-gifted-gold-egg color-template-background-clip">Gifted Gold Egg</span></a>
+<td><img alt="Gifted Gold Egg" height="25" src="img/Gifted_Gold_Egg.png" width="25"/>1 <a href="egg.html#Gifted_Gold_Egg"><span class="color-template color-template-gifted-gold-egg color-template-background-clip">Gifted Gold Egg</span></a>
 </td></tr>
 <tr>
 <td>64
 </td>
-<td><span typeof="mw:Error mw:File"></span>1 <a href="sticker.html#Sticker_Index"><span class="color-template color-template-basic-red-hive-skin color-template-background-clip">Basic Red Hive Skin</span></a>
+<td><img alt="Basic Red Hive Skin" height="25" src="img/Basic_Red_Hive_Skin.png" width="25"/>1 <a href="sticker.html#Sticker_Index"><span class="color-template color-template-basic-red-hive-skin color-template-background-clip">Basic Red Hive Skin</span></a>
 </td></tr>
 <tr>
 <td>75
 </td>
-<td><span typeof="mw:Error mw:File"></span>10 <a href="stinger.html"><span class="color-template color-template-stinger color-template-background-clip">Stingers</span></a>
+<td><img alt="Stinger" height="25" src="img/Stinger.png" width="25"/>10 <a href="stinger.html"><span class="color-template color-template-stinger color-template-background-clip">Stingers</span></a>
 </td></tr>
 <tr>
 <td>100
 </td>
-<td><span typeof="mw:Error mw:File"></span>1 <a href="egg.html#Gifted_Diamond_Egg"><span class="color-template color-template-gifted-diamond-egg color-template-background-clip">Gifted Diamond Egg</span></a>
+<td><img alt="Gifted Diamond Egg" height="25" src="img/Gifted_Diamond_Egg.png" width="25"/>1 <a href="egg.html#Gifted_Diamond_Egg"><span class="color-template color-template-gifted-diamond-egg color-template-background-clip">Gifted Diamond Egg</span></a>
 </td></tr>
 <tr>
 <td>111
 </td>
-<td><span typeof="mw:Error mw:File"></span>500 <a href="strawberry.html"><span class="color-template color-template-strawberry color-template-background-clip">Strawberries</span></a>
+<td><img alt="Strawberry" height="25" src="img/Strawberry.png" width="25"/>500 <a href="strawberry.html"><span class="color-template color-template-strawberry color-template-background-clip">Strawberries</span></a>
 </td></tr>
 <tr>
 <td>125
 </td>
-<td><span typeof="mw:Error mw:File"></span>10 <a href="stinger.html"><span class="color-template color-template-stinger color-template-background-clip">Stingers</span></a>
+<td><img alt="Stinger" height="25" src="img/Stinger.png" width="25"/>10 <a href="stinger.html"><span class="color-template color-template-stinger color-template-background-clip">Stingers</span></a>
 </td></tr>
 <tr>
 <td>150
 </td>
-<td><span typeof="mw:Error mw:File"></span>20 <a href="stinger.html"><span class="color-template color-template-stinger color-template-background-clip">Stingers</span></a>
-<p>Access to the <span typeof="mw:Error mw:File"></span><a href="heat-treated-planter.html"><span class="color-template color-template-heat-treated-planter color-template-background-clip">Heat-Treated Planter</span></a>
+<td><img alt="Stinger" height="25" src="img/Stinger.png" width="25"/>20 <a href="stinger.html"><span class="color-template color-template-stinger color-template-background-clip">Stingers</span></a>
+<p>Access to the <img alt="Heat-Treated Planter" height="35" src="img/Heat-Treated_Planter.png" width="35"/><a href="heat-treated-planter.html"><span class="color-template color-template-heat-treated-planter color-template-background-clip">Heat-Treated Planter</span></a>
 </p>
 </td></tr>
 <tr>
 <td>175
 </td>
-<td><span typeof="mw:Error mw:File"></span>10 <a href="stinger.html"><span class="color-template color-template-stinger color-template-background-clip">Stingers</span></a>
+<td><img alt="Stinger" height="25" src="img/Stinger.png" width="25"/>10 <a href="stinger.html"><span class="color-template color-template-stinger color-template-background-clip">Stingers</span></a>
 </td></tr>
 <tr>
 <td>200
 </td>
-<td><span typeof="mw:Error mw:File"></span>20 <a href="stinger.html"><span class="color-template color-template-stinger color-template-background-clip">Stingers</span></a>
+<td><img alt="Stinger" height="25" src="img/Stinger.png" width="25"/>20 <a href="stinger.html"><span class="color-template color-template-stinger color-template-background-clip">Stingers</span></a>
 </td></tr>
 <tr>
 <td>222
 </td>
-<td><span typeof="mw:Error mw:File"></span>100,000 <a href="treat.html"><span class="color-template color-template-treat">Treats</span></a>
+<td><img alt="Treat" height="25" src="img/Treat.png" width="25"/>100,000 <a href="treat.html"><span class="color-template color-template-treat">Treats</span></a>
 </td></tr>
 <tr>
 <td>250
 </td>
-<td><span typeof="mw:Error mw:File"></span>1 <a href="egg.html#Gifted_Diamond_Egg"><span class="color-template color-template-gifted-diamond-egg color-template-background-clip">Gifted Diamond Egg</span></a>
+<td><img alt="Gifted Diamond Egg" height="25" src="img/Gifted_Diamond_Egg.png" width="25"/>1 <a href="egg.html#Gifted_Diamond_Egg"><span class="color-template color-template-gifted-diamond-egg color-template-background-clip">Gifted Diamond Egg</span></a>
 <p>Access to the <img alt="Dark Scythe" height="35" src="img/Dark_Scythe.png" width="35"/> <a href="dark-scythe.html">Dark Scythe</a>
 </p>
 </td></tr>
 <tr>
 <td>500, 750, 1000
 </td>
-<td><span typeof="mw:Error mw:File"></span>1 <a href="egg.html#Gifted_Diamond_Egg"><span class="color-template color-template-gifted-diamond-egg color-template-background-clip">Gifted Diamond Egg</span></a>
+<td><img alt="Gifted Diamond Egg" height="25" src="img/Gifted_Diamond_Egg.png" width="25"/>1 <a href="egg.html#Gifted_Diamond_Egg"><span class="color-template color-template-gifted-diamond-egg color-template-background-clip">Gifted Diamond Egg</span></a>
 </td></tr></tbody></table>
 
 * If it isn't a milestone, the game checks if the current quest's rank is divisible by 25, and rewards a [Star Jelly](royal-jelly.md#Star_Jelly) if true.
@@ -309,77 +309,77 @@ In addition to [Red Extract](red-extract.md) and [Honey](honey.md) for completin
 <th>Chance to be picked
 </th></tr>
 <tr>
-<td><span typeof="mw:Error mw:File"></span><a href="treat.html"><span class="color-template color-template-treat">Treat</span></a>
+<td><img alt="Treat" height="35" src="img/Treat.png" width="35"/><a href="treat.html"><span class="color-template color-template-treat">Treat</span></a>
 </td>
 <td><span class="arithmatex">\((1+\left\lfloor {\sqrt {Q}}\right\rfloor \times 25\)</span>
 </td>
 <td>~23.175%
 </td></tr>
 <tr>
-<td><span typeof="mw:Error mw:File"></span><a href="royal-jelly.html"><span class="color-template color-template-royal-jelly color-template-background-clip">Royal Jelly</span></a>
+<td><img alt="Royal Jelly" height="35" src="img/Royal_Jelly.png" width="35"/><a href="royal-jelly.html"><span class="color-template color-template-royal-jelly color-template-background-clip">Royal Jelly</span></a>
 </td>
 <td><span class="arithmatex">\((1+\left\lfloor {\sqrt {Q}}\right\rfloor \times 5\)</span>
 </td>
 <td>~17.381%
 </td></tr>
 <tr>
-<td><span typeof="mw:Error mw:File"></span><a href="gumdrops.html"><span class="color-template color-template-gumdrops color-template-background-clip">Gumdrops</span></a>
+<td><img alt="Gumdrops" height="35" src="img/Gumdrops.png" width="35"/><a href="gumdrops.html"><span class="color-template color-template-gumdrops color-template-background-clip">Gumdrops</span></a>
 </td>
 <td>25
 </td>
 <td>~11.587%
 </td></tr>
 <tr>
-<td><span typeof="mw:Error mw:File"></span><a href="strawberry.html"><span class="color-template color-template-strawberry color-template-background-clip">Strawberry</span></a>
+<td><img alt="Strawberry" height="35" src="img/Strawberry.png" width="35"/><a href="strawberry.html"><span class="color-template color-template-strawberry color-template-background-clip">Strawberry</span></a>
 </td>
 <td><span class="arithmatex">\((1+\left\lfloor Q^{0.25}\right\rfloor \times 10\)</span>
 </td>
 <td>~11.587%
 </td></tr>
 <tr>
-<td><span typeof="mw:Error mw:File"></span><a href="ticket.html"><span class="color-template color-template-ticket color-template-background-clip">Ticket</span></a>
+<td><img alt="Ticket" height="35" src="img/Ticket.png" width="35"/><a href="ticket.html"><span class="color-template color-template-ticket color-template-background-clip">Ticket</span></a>
 </td>
 <td>5
 </td>
 <td>~11.587%
 </td></tr>
 <tr>
-<td><span typeof="mw:Error mw:File"></span><a href="stinger.html"><span class="color-template color-template-stinger color-template-background-clip">Stinger</span></a>
+<td><img alt="Stinger" height="35" src="img/Stinger.png" width="35"/><a href="stinger.html"><span class="color-template color-template-stinger color-template-background-clip">Stinger</span></a>
 </td>
 <td>5
 </td>
 <td>~11.587%
 </td></tr>
 <tr>
-<td><span typeof="mw:Error mw:File"></span><a href="magic-bean.html"><span class="color-template color-template-magic-bean color-template-background-clip">Magic Bean</span></a>
+<td><img alt="Magic Bean" height="35" src="img/Magic_Bean.png" width="35"/><a href="magic-bean.html"><span class="color-template color-template-magic-bean color-template-background-clip">Magic Bean</span></a>
 </td>
 <td>3
 </td>
 <td>~11.587%
 </td></tr>
 <tr>
-<td><span typeof="mw:Error mw:File"></span><a href="stinger.html"><span class="color-template color-template-stinger color-template-background-clip">Stinger</span></a>
+<td><img alt="Stinger" height="35" src="img/Stinger.png" width="35"/><a href="stinger.html"><span class="color-template color-template-stinger color-template-background-clip">Stinger</span></a>
 </td>
 <td>10
 </td>
 <td>~1.159%
 </td></tr>
 <tr>
-<td><span typeof="mw:Error mw:File"></span><a href="red-extract.html"><span class="color-template color-template-red-extract color-template-background-clip">Red Extract</span></a>
+<td><img alt="Red Extract" height="35" src="img/Red_Extract.png" width="35"/><a href="red-extract.html"><span class="color-template color-template-red-extract color-template-background-clip">Red Extract</span></a>
 </td>
 <td>10
 </td>
 <td>~0.116%
 </td></tr>
 <tr>
-<td><span typeof="mw:Error mw:File"></span><a href="enzymes.html"><span class="color-template color-template-enzymes color-template-background-clip">Enzymes</span></a>
+<td><img alt="Enzymes" height="35" src="img/Enzymes.png" width="35"/><a href="enzymes.html"><span class="color-template color-template-enzymes color-template-background-clip">Enzymes</span></a>
 </td>
 <td>10
 </td>
 <td>~0.116%
 </td></tr>
 <tr>
-<td><span typeof="mw:Error mw:File"></span><a href="stinger.html"><span class="color-template color-template-stinger color-template-background-clip">Stinger</span></a>
+<td><img alt="Stinger" height="35" src="img/Stinger.png" width="35"/><a href="stinger.html"><span class="color-template color-template-stinger color-template-background-clip">Stinger</span></a>
 </td>
 <td>10
 </td>
@@ -475,13 +475,13 @@ The following content has been removed from the game. The contents below may be 
 <li>Defeat 5 Fire <a href="ants.html">Ants</a>.</li></ul>
 </td>
 <td>
-<p><span typeof="mw:Error mw:File"></span>2,000,000,000 <a href="honey.html"><span class="color-template color-template-honey">Honey</span></a><br/>
-<span typeof="mw:Error mw:File"></span>25 <a href="ticket.html"><span class="color-template color-template-ticket color-template-background-clip">Tickets</span></a><br/>
-<span typeof="mw:Error mw:File"></span>25 <a href="red-extract.html"><span class="color-template color-template-red-extract color-template-background-clip">Red Extracts</span></a><br/>
-<span typeof="mw:Error mw:File"></span>1 <a href="red-balloon.html"><span class="color-template color-template-red-balloon color-template-background-clip">Red Balloon</span></a><br/>
-<span typeof="mw:Error mw:File"></span>5 <a href="swirled-wax.html"><span class="color-template color-template-swirled-wax color-template-background-clip">Swirled Waxes</span></a><br/>
-<span typeof="mw:Error mw:File"></span>1 <a href="electric-candle.html"><span class="color-template color-template-electric-candle color-template-background-clip">Electric Candle</span></a><br/>
-<span typeof="mw:Error mw:File"></span>5 <a href="gingerbread-bear.html"><span class="color-template color-template-gingerbread-bear color-template-background-clip">Gingerbread Bears</span></a><br/>
+<p><img alt="Honey" height="25" src="img/Honey.png" width="25"/>2,000,000,000 <a href="honey.html"><span class="color-template color-template-honey">Honey</span></a><br/>
+<img alt="Ticket" height="25" src="img/Ticket.png" width="25"/>25 <a href="ticket.html"><span class="color-template color-template-ticket color-template-background-clip">Tickets</span></a><br/>
+<img alt="Red Extract" height="25" src="img/Red_Extract.png" width="25"/>25 <a href="red-extract.html"><span class="color-template color-template-red-extract color-template-background-clip">Red Extracts</span></a><br/>
+<img alt="Red Balloon" height="25" src="img/Red_Balloon.png" width="25"/>1 <a href="red-balloon.html"><span class="color-template color-template-red-balloon color-template-background-clip">Red Balloon</span></a><br/>
+<img alt="Swirled Wax" height="25" src="img/Swirled_Wax.png" width="25"/>5 <a href="swirled-wax.html"><span class="color-template color-template-swirled-wax color-template-background-clip">Swirled Waxes</span></a><br/>
+<img alt="Electric Candle" height="25" src="img/Electric_Candle.png" width="25"/>1 <a href="electric-candle.html"><span class="color-template color-template-electric-candle color-template-background-clip">Electric Candle</span></a><br/>
+<img alt="Gingerbread Bear" height="25" src="img/Gingerbread_Bear.png" width="25"/>5 <a href="gingerbread-bear.html"><span class="color-template color-template-gingerbread-bear color-template-background-clip">Gingerbread Bears</span></a><br/>
 Access to the <a href="honeyday-candles.html">Honeyday Candles</a>
 </p>
 </td></tr></tbody></table>
@@ -526,13 +526,13 @@ The following content has been removed from the game. The contents below may be 
 <li>Defeat 10 Fire <a href="ants.html">Ants</a>.</li>
 <li>Pop 1 Rare <a href="puffshroom.html">Puffshroom</a> in the Rose Field.</li></ul>
 </td>
-<td><span typeof="mw:Error mw:File"></span>2,500,000,000 <a href="honey.html"><span class="color-template color-template-honey">Honey</span></a><br/>
-<p><span typeof="mw:Error mw:File"></span>10 <a href="ticket.html"><span class="color-template color-template-ticket color-template-background-clip">Tickets</span></a><br/>
-<span typeof="mw:Error mw:File"></span>25 <a href="red-extract.html"><span class="color-template color-template-red-extract color-template-background-clip">Red Extracts</span></a><br/>
-<span typeof="mw:Error mw:File"></span>1 <a href="caustic-wax.html"><span class="color-template color-template-caustic-wax">Caustic Wax</span></a><br/>
-<span typeof="mw:Error mw:File"></span>3 <a href="red-balloon.html"><span class="color-template color-template-red-balloon color-template-background-clip">Red Balloons</span></a><br/>
-<span typeof="mw:Error mw:File"></span>1 <a href="electric-candle.html"><span class="color-template color-template-electric-candle color-template-background-clip">Electric Candle</span></a><br/>
-<span typeof="mw:Error mw:File"></span>5 <a href="gingerbread-bear.html"><span class="color-template color-template-gingerbread-bear color-template-background-clip">Gingerbread Bears</span></a><br/>
+<td><img alt="Honey" height="25" src="img/Honey.png" width="25"/>2,500,000,000 <a href="honey.html"><span class="color-template color-template-honey">Honey</span></a><br/>
+<p><img alt="Ticket" height="25" src="img/Ticket.png" width="25"/>10 <a href="ticket.html"><span class="color-template color-template-ticket color-template-background-clip">Tickets</span></a><br/>
+<img alt="Red Extract" height="25" src="img/Red_Extract.png" width="25"/>25 <a href="red-extract.html"><span class="color-template color-template-red-extract color-template-background-clip">Red Extracts</span></a><br/>
+<img alt="Caustic Wax" height="25" src="img/Caustic_Wax.png" width="25"/>1 <a href="caustic-wax.html"><span class="color-template color-template-caustic-wax">Caustic Wax</span></a><br/>
+<img alt="Red Balloon" height="25" src="img/Red_Balloon.png" width="25"/>3 <a href="red-balloon.html"><span class="color-template color-template-red-balloon color-template-background-clip">Red Balloons</span></a><br/>
+<img alt="Electric Candle" height="25" src="img/Electric_Candle.png" width="25"/>1 <a href="electric-candle.html"><span class="color-template color-template-electric-candle color-template-background-clip">Electric Candle</span></a><br/>
+<img alt="Gingerbread Bear" height="25" src="img/Gingerbread_Bear.png" width="25"/>5 <a href="gingerbread-bear.html"><span class="color-template color-template-gingerbread-bear color-template-background-clip">Gingerbread Bears</span></a><br/>
 Access to the <a href="honeyday-candles.html">Honeyday Candles</a>
 </p>
 </td></tr></tbody></table>
@@ -575,13 +575,13 @@ The following content has been removed from the game. The contents below may be 
 <li>Obtain 1 Scythe <a href="sticker.html">Sticker</a> to give to Riley Bee.</li>
 <li>Obtain 1 Red Palm Hand, 1 Alert Icon or 3 Small Flame <a href="sticker.html">Sticker</a> to give to Riley Bee.</li></ul>
 </td>
-<td><span typeof="mw:Error mw:File"></span>50,000,000 <a href="honey.html"><span class="color-template color-template-honey">Honey</span></a><br/>
-<p><span typeof="mw:Error mw:File"></span>25 <a href="ticket.html"><span class="color-template color-template-ticket color-template-background-clip">Tickets</span></a><br/>
-<span typeof="mw:Error mw:File"></span>25 <a href="red-extract.html"><span class="color-template color-template-red-extract color-template-background-clip">Red Extracts</span></a><br/>
-<span typeof="mw:Error mw:File"></span>1 <a href="royal-jelly.html#Star_Jelly"><span class="color-template color-template-star-jelly color-template-background-clip">Star Jelly</span></a><br/>
-<span typeof="mw:Error mw:File"></span>1 <a href="electric-candle.html"><span class="color-template color-template-electric-candle color-template-background-clip">Electric Candle</span></a><br/>
-<span typeof="mw:Error mw:File"></span>2 <a href="red-balloon.html"><span class="color-template color-template-red-balloon color-template-background-clip">Red Balloons</span></a><br/>
-<span typeof="mw:Error mw:File"></span>5 <a href="gingerbread-bear.html"><span class="color-template color-template-gingerbread-bear color-template-background-clip">Gingerbread Bears</span></a><br/>
+<td><img alt="Honey" height="25" src="img/Honey.png" width="25"/>50,000,000 <a href="honey.html"><span class="color-template color-template-honey">Honey</span></a><br/>
+<p><img alt="Ticket" height="25" src="img/Ticket.png" width="25"/>25 <a href="ticket.html"><span class="color-template color-template-ticket color-template-background-clip">Tickets</span></a><br/>
+<img alt="Red Extract" height="25" src="img/Red_Extract.png" width="25"/>25 <a href="red-extract.html"><span class="color-template color-template-red-extract color-template-background-clip">Red Extracts</span></a><br/>
+<img alt="Star Jelly" height="25" src="img/Star_Jelly.png" width="25"/>1 <a href="royal-jelly.html#Star_Jelly"><span class="color-template color-template-star-jelly color-template-background-clip">Star Jelly</span></a><br/>
+<img alt="Electric Candle" height="25" src="img/Electric_Candle.png" width="25"/>1 <a href="electric-candle.html"><span class="color-template color-template-electric-candle color-template-background-clip">Electric Candle</span></a><br/>
+<img alt="Red Balloon" height="25" src="img/Red_Balloon.png" width="25"/>2 <a href="red-balloon.html"><span class="color-template color-template-red-balloon color-template-background-clip">Red Balloons</span></a><br/>
+<img alt="Gingerbread Bear" height="25" src="img/Gingerbread_Bear.png" width="25"/>5 <a href="gingerbread-bear.html"><span class="color-template color-template-gingerbread-bear color-template-background-clip">Gingerbread Bears</span></a><br/>
 Access to the <a href="honeyday-candles.html">Honeyday Candles</a>
 </p>
 </td></tr></tbody></table>
@@ -621,12 +621,12 @@ The following content has been removed from the game. The contents below may be 
 <li>Spawn 1000 Flames.</li>
 <li>Defeat 10 <a href="ants.html#Fire_Ant">Fire Ants</a>.</li></ul>
 </td>
-<td><span typeof="mw:Error mw:File"></span>100,000,000 <a href="honey.html"><span class="color-template color-template-honey">Honey</span></a><br/>
-<p><span typeof="mw:Error mw:File"></span>1 <a href="robo-pass.html"><span class="color-template color-template-robo-pass color-template-background-clip">Robo Pass</span></a><br/>
-<span typeof="mw:Error mw:File"></span>1 <a href="invigorating-vial.html"><span class="color-template color-template-invigorating-vial color-template-background-clip">Invigorating Vial</span></a><br/>
-<span typeof="mw:Error mw:File"></span>10 <a href="red-extract.html"><span class="color-template color-template-red-extract color-template-background-clip">Red Extracts</span></a><br/>
-<span typeof="mw:Error mw:File"></span>1 <a href="red-balloon.html"><span class="color-template color-template-red-balloon color-template-background-clip">Red Balloon</span></a><br/>
-<span typeof="mw:Error mw:File"></span>5 <a href="gingerbread-bear.html"><span class="color-template color-template-gingerbread-bear color-template-background-clip">Gingerbread Bears</span></a><br/>
+<td><img alt="Honey" height="25" src="img/Honey.png" width="25"/>100,000,000 <a href="honey.html"><span class="color-template color-template-honey">Honey</span></a><br/>
+<p><img alt="Robo Pass" height="25" src="img/Robo_Pass.png" width="25"/>1 <a href="robo-pass.html"><span class="color-template color-template-robo-pass color-template-background-clip">Robo Pass</span></a><br/>
+<img alt="Invigorating Vial" height="25" src="img/Invigorating_Vial.png" width="25"/>1 <a href="invigorating-vial.html"><span class="color-template color-template-invigorating-vial color-template-background-clip">Invigorating Vial</span></a><br/>
+<img alt="Red Extract" height="25" src="img/Red_Extract.png" width="25"/>10 <a href="red-extract.html"><span class="color-template color-template-red-extract color-template-background-clip">Red Extracts</span></a><br/>
+<img alt="Red Balloon" height="25" src="img/Red_Balloon.png" width="25"/>1 <a href="red-balloon.html"><span class="color-template color-template-red-balloon color-template-background-clip">Red Balloon</span></a><br/>
+<img alt="Gingerbread Bear" height="25" src="img/Gingerbread_Bear.png" width="25"/>5 <a href="gingerbread-bear.html"><span class="color-template color-template-gingerbread-bear color-template-background-clip">Gingerbread Bears</span></a><br/>
 Access to the <a href="honeyday-candles.html">Honeyday Candles</a>
 </p>
 </td></tr></tbody></table>
@@ -669,13 +669,13 @@ The following content has been removed from the game. The contents below may be 
 <li>Spawn 250 Flames.</li>
 <li>Use 10 Soft Waxes.</li></ul>
 </td>
-<td><span typeof="mw:Error mw:File"></span>250,000,000 <a href="honey.html"><span class="color-template color-template-honey">Honey</span></a><br/>
-<p><span typeof="mw:Error mw:File"></span>5 <a href="ticket.html"><span class="color-template color-template-ticket color-template-background-clip">Tickets</span></a><br/>
-<span typeof="mw:Error mw:File"></span>1 <a href="ticket-planter.html"><span class="color-template color-template-ticket-planter color-template-background-clip">Ticket Planter</span></a><br/>
-<span typeof="mw:Error mw:File"></span>5 <a href="gingerbread-bear.html"><span class="color-template color-template-gingerbread-bear color-template-background-clip">Gingerbread Bears</span></a><br/>
-<span typeof="mw:Error mw:File"></span>25 <a href="red-extract.html"><span class="color-template color-template-red-extract color-template-background-clip">Red Extracts</span></a><br/>
-<span typeof="mw:Error mw:File"></span>1 <a href="caustic-wax.html"><span class="color-template color-template-caustic-wax">Caustic Wax</span></a><br/>
-<span typeof="mw:Error mw:File"></span>3 <a href="oil.html"><span class="color-template color-template-oil color-template-background-clip">Oils</span></a><br/>
+<td><img alt="Honey" height="25" src="img/Honey.png" width="25"/>250,000,000 <a href="honey.html"><span class="color-template color-template-honey">Honey</span></a><br/>
+<p><img alt="Ticket" height="25" src="img/Ticket.png" width="25"/>5 <a href="ticket.html"><span class="color-template color-template-ticket color-template-background-clip">Tickets</span></a><br/>
+<img alt="Ticket Planter" height="25" src="img/Ticket_Planter.png" width="25"/>1 <a href="ticket-planter.html"><span class="color-template color-template-ticket-planter color-template-background-clip">Ticket Planter</span></a><br/>
+<img alt="Gingerbread Bear" height="25" src="img/Gingerbread_Bear.png" width="25"/>5 <a href="gingerbread-bear.html"><span class="color-template color-template-gingerbread-bear color-template-background-clip">Gingerbread Bears</span></a><br/>
+<img alt="Red Extract" height="25" src="img/Red_Extract.png" width="25"/>25 <a href="red-extract.html"><span class="color-template color-template-red-extract color-template-background-clip">Red Extracts</span></a><br/>
+<img alt="Caustic Wax" height="25" src="img/Caustic_Wax.png" width="25"/>1 <a href="caustic-wax.html"><span class="color-template color-template-caustic-wax">Caustic Wax</span></a><br/>
+<img alt="Oil" height="25" src="img/Oil.png" width="25"/>3 <a href="oil.html"><span class="color-template color-template-oil color-template-background-clip">Oils</span></a><br/>
 Access to the <a href="honeyday-candles.html">Honeyday Candles</a>
 </p>
 </td></tr></tbody></table>
@@ -716,10 +716,10 @@ The following content has been removed from the game. The contents below may be 
 <li>Collect 500 Red <a href="ability-tokens.html#Bomb">Bomb</a> tokens.</li>
 <li>Use 5 <a href="oil.html">Oils</a>.</li></ul>
 </td>
-<td><span typeof="mw:Error mw:File"></span>250,000,000 <a href="honey.html"><span class="color-template color-template-honey">Honey</span></a><br/>
-<p><span typeof="mw:Error mw:File"></span>5 <a href="gingerbread-bear.html"><span class="color-template color-template-gingerbread-bear color-template-background-clip">Gingerbread Bears</span></a><br/>
-<span typeof="mw:Error mw:File"></span>5 <a href="field-dice.html"><span class="color-template color-template-field-dice color-template-background-clip">Field Dice</span></a><br/>
-<span typeof="mw:Error mw:File"></span>5 <a href="red-extract.html"><span class="color-template color-template-red-extract color-template-background-clip">Red Extracts</span></a><br/>
+<td><img alt="Honey" height="25" src="img/Honey.png" width="25"/>250,000,000 <a href="honey.html"><span class="color-template color-template-honey">Honey</span></a><br/>
+<p><img alt="Gingerbread Bear" height="25" src="img/Gingerbread_Bear.png" width="25"/>5 <a href="gingerbread-bear.html"><span class="color-template color-template-gingerbread-bear color-template-background-clip">Gingerbread Bears</span></a><br/>
+<img alt="Field Dice" height="25" src="img/Field_Dice.png" width="25"/>5 <a href="field-dice.html"><span class="color-template color-template-field-dice color-template-background-clip">Field Dice</span></a><br/>
+<img alt="Red Extract" height="25" src="img/Red_Extract.png" width="25"/>5 <a href="red-extract.html"><span class="color-template color-template-red-extract color-template-background-clip">Red Extracts</span></a><br/>
 Access to the <a href="honeyday-candles.html">Honeyday Candles</a>
 </p>
 </td></tr></tbody></table>
@@ -762,9 +762,9 @@ The following content has been removed from the game. The contents below may be 
 <li>Defeat 10 Fire Ants</li>
 <li>Use the Red Field Booster 5 Times</li></ul>
 </td>
-<td><span typeof="mw:Error mw:File"></span>250,000,000 <a href="honey.html"><span class="color-template color-template-honey">Honey</span></a><br/>
-<p><span typeof="mw:Error mw:File"></span>5 <a href="ticket.html"><span class="color-template color-template-ticket color-template-background-clip">Tickets</span></a><br/>
-<span typeof="mw:Error mw:File"></span>5 <a href="red-extract.html"><span class="color-template color-template-red-extract color-template-background-clip">Red Extracts</span></a><br/>
+<td><img alt="Honey" height="25" src="img/Honey.png" width="25"/>250,000,000 <a href="honey.html"><span class="color-template color-template-honey">Honey</span></a><br/>
+<p><img alt="Ticket" height="25" src="img/Ticket.png" width="25"/>5 <a href="ticket.html"><span class="color-template color-template-ticket color-template-background-clip">Tickets</span></a><br/>
+<img alt="Red Extract" height="25" src="img/Red_Extract.png" width="25"/>5 <a href="red-extract.html"><span class="color-template color-template-red-extract color-template-background-clip">Red Extracts</span></a><br/>
 <span typeof="mw:Error mw:File"></span> Electric Candle <a href="ornaments.html">Ornament</a>
 </p>
 </td></tr></tbody></table>
@@ -805,13 +805,13 @@ The following content has been removed from the game. The contents below may be 
 <li>Collect 5 Red <a href="jelly-beans.html">Jelly Bean</a> Tokens.</li>
 <li>Defeat 50 Fire <a href="ants.html">Ants</a>.</li></ul>
 </td>
-<td><span typeof="mw:Error mw:File"></span>15,000,000 <a href="honey.html"><span class="color-template color-template-honey">Honey</span></a><br/>
-<p><span typeof="mw:Error mw:File"></span>5 <a href="marshmallow-bee.html"><span class="color-template color-template-marshmallow-bee color-template-background-clip">Marshmallow Bees</span></a><br/>
-<span typeof="mw:Error mw:File"></span>10 <a href="red-extract.html"><span class="color-template color-template-red-extract color-template-background-clip">Red Extracts</span></a><br/>
-<span typeof="mw:Error mw:File"></span>10 <a href="stinger.html"><span class="color-template color-template-stinger color-template-background-clip">Stingers</span></a><br/>
-<span typeof="mw:Error mw:File"></span>5 <a href="field-dice.html"><span class="color-template color-template-field-dice color-template-background-clip">Field Dice</span></a><br/>
-<span typeof="mw:Error mw:File"></span>5 <a href="jelly-beans.html"><span class="color-template color-template-jelly-beans color-template-background-clip">Jelly Beans</span></a><br/>
-<span typeof="mw:Error mw:File"></span> x7 <a href="mushroom-field.html">Mushroom Field</a> Boost (but you would receive only x5 due to the max stack)
+<td><img alt="Honey" height="25" src="img/Honey.png" width="25"/>15,000,000 <a href="honey.html"><span class="color-template color-template-honey">Honey</span></a><br/>
+<p><img alt="Marshmallow Bee" height="25" src="img/Marshmallow_Bee.png" width="25"/>5 <a href="marshmallow-bee.html"><span class="color-template color-template-marshmallow-bee color-template-background-clip">Marshmallow Bees</span></a><br/>
+<img alt="Red Extract" height="25" src="img/Red_Extract.png" width="25"/>10 <a href="red-extract.html"><span class="color-template color-template-red-extract color-template-background-clip">Red Extracts</span></a><br/>
+<img alt="Stinger" height="25" src="img/Stinger.png" width="25"/>10 <a href="stinger.html"><span class="color-template color-template-stinger color-template-background-clip">Stingers</span></a><br/>
+<img alt="Field Dice" height="25" src="img/Field_Dice.png" width="25"/>5 <a href="field-dice.html"><span class="color-template color-template-field-dice color-template-background-clip">Field Dice</span></a><br/>
+<img alt="Jelly Beans" height="25" src="img/Jelly_Beans.png" width="25"/>5 <a href="jelly-beans.html"><span class="color-template color-template-jelly-beans color-template-background-clip">Jelly Beans</span></a><br/>
+<img alt="Mushroom Field" height="25" src="img/Mushroom_Field.png" width="25"/> x7 <a href="mushroom-field.html">Mushroom Field</a> Boost (but you would receive only x5 due to the max stack)
 </p>
 </td></tr></tbody></table>
 
@@ -829,10 +829,6 @@ I'd figured I'd put a little of everything in the Egg Hunt quest. Really go all 
 Egg Hunt, more like (Strawberry) and Red Bomb hunt, am I right? Haha!! That was pretty tough, wasn't I right? Not tough enough to stop you and your RED BEES! Can't stop us! Now here's a special Egg Hunt basket prepared right here in the Red HQ. It's got TONS of rad stuff!! You'll see over there.
 </p>
 </td></tr></tbody></table>
-
-## Gallery
-
-<div class="wikia-gallery wikia-gallery-caption-below wikia-gallery-position-left wikia-gallery-spacing-medium wikia-gallery-border-small wikia-gallery-captions-left wikia-gallery-caption-size-medium" data-seq-no="0" hash="34e6ce13080785e6353a2f236e238637" id="gallery-0"><div class="wikia-gallery-caption"></div><div class="wikia-gallery-item" style="width:187px; "><div class="thumb" style="height:187px;"><div class="gallery-image-wrapper accent" id="Wingless_Riley-png" style="position: relative; height:185px; width:185px;"><span style="line-height: 1;">Wingless Riley.png</span></div></div><div class="lightbox-caption" style="width:185px;">Gifted Riley Bee appears "wingless."</div></div><div class="wikia-gallery-item" style="width:187px; "><div class="thumb" style="height:187px;"><div class="gallery-image-wrapper accent" id="Honeyday_Candles-png" style="position: relative; height:185px; width:185px;"><span style="line-height: 1;">Honeyday Candles.png</span></div></div><div class="lightbox-caption" style="width:185px;">The Honeyday Candles after completing Gifted Riley Bee's Beesmas Quest.</div></div></div>
 
 ## Trivia
 

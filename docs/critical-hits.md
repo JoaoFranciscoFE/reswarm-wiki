@@ -1,6 +1,6 @@
 ---
 title: "Critical Hits"
-tags: ["Pages with broken file links", "Recent Update", "Mechanics"]
+tags: ["Recent Update", "Mechanics"]
 ---
 
 # Critical Hits

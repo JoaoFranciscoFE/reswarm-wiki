@@ -1,6 +1,6 @@
 ---
 title: "Field Capacity"
-tags: ["Pages with broken file links", "Mechanics"]
+tags: ["Mechanics"]
 ---
 
 # Field Capacity

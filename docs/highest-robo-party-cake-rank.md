@@ -1,6 +1,6 @@
 ---
 title: "Highest Robo Party Cake Rank"
-tags: ["Pages with broken file links", "Removed Content", "Beesmas", "Locations", "Leaderboards", "Robo Party"]
+tags: ["Removed Content", "Beesmas", "Locations", "Leaderboards", "Robo Party"]
 ---
 
 # Highest Robo Party Cake Rank

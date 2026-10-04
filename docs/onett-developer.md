@@ -1,6 +1,6 @@
 ---
 title: "Onett (Developer)"
-tags: ["Pages with broken file links", "Community", "Bee Swarm Simulator"]
+tags: ["Community", "Bee Swarm Simulator"]
 ---
 
 # Onett (Developer)
@@ -20,10 +20,6 @@ Onett also has an [Instagram account for the game](https://www.instagram.com/bee
 Onett is the owner of Bear Bee [LLC](https://en.wikipedia.org/wiki/Limited_liability_company), which is presumably his avenue for legal work surrounding the game. Bee Swarm Simulator is a registered [tradmark](https://en.wikipedia.org/wiki/Trademark) under the company.[1]
 
 Onett lives in the CST timezone, as confirmed on Discord.
-
-## Gallery
-
-<div class="wikia-gallery wikia-gallery-caption-below wikia-gallery-position-left wikia-gallery-spacing-medium wikia-gallery-border-small wikia-gallery-captions-left wikia-gallery-caption-size-medium" data-seq-no="0" hash="f35b374c6f3860073522454d6b299122" id="gallery-0"><div class="wikia-gallery-caption"></div><div class="wikia-gallery-item" style="width:187px; "><div class="thumb" style="height:187px;"><div class="gallery-image-wrapper accent" id="Dsa-png" style="position: relative; height:185px; width:185px;"><span style="line-height: 1;">Dsa.png</span></div></div><div class="lightbox-caption" style="width:185px;">A player meeting BeeSwarmBugReport in a server.</div></div><div class="wikia-gallery-item" style="width:187px; "><div class="thumb" style="height:187px;"><div class="gallery-image-wrapper accent" id="Asd-png" style="position: relative; height:185px; width:185px;"><span style="line-height: 1;">Asd.png</span></div></div><div class="lightbox-caption" style="width:185px;">A player chatting with BeeSwarmBugReport.</div></div><div class="wikia-gallery-item" style="width:187px; "><div class="thumb" style="height:187px;"><div class="gallery-image-wrapper accent" id="Onett-s_Face-webp" style="position: relative; height:185px; width:185px;"><span style="line-height: 1;">Onett's Face.webp</span></div></div><div class="lightbox-caption" style="width:185px;">Onett at <a href="https://roblox.fandom.com/wiki/Roblox_Developers_Conference_2022">RDC 2022</a>.</div></div><div class="wikia-gallery-item" style="width:187px; "><div class="thumb" style="height:187px;"><div class="gallery-image-wrapper accent" id="Onett_as_Onett-png" style="position: relative; height:185px; width:185px;"><span style="line-height: 1;">Onett as Onett.png</span></div></div><div class="lightbox-caption" style="width:185px;">Onett dressing as his Roblox avatar at a RDC 2025 party.</div></div></div>
 
 ## Trivia
 

@@ -1,6 +1,6 @@
 ---
 title: "Ant Challenge"
-tags: ["Pages with broken file links", "Locations", "Challenges", "Ant Challenge"]
+tags: ["Locations", "Challenges", "Ant Challenge"]
 ---
 
 # Ant Challenge
@@ -41,8 +41,8 @@ After the challenge ends, a message box pops out on the player's screen presenti
 </th></tr>
 <tr>
 <td> <a href="ant-amulet.html">Ant Amulet</a><br/>
-<p><span typeof="mw:Error mw:File"></span><a href="royal-jelly.html"><span class="color-template color-template-royal-jelly color-template-background-clip">Royal Jellies</span></a><br/>
-<span typeof="mw:Error mw:File"></span><a href="honey.html"><span class="color-template color-template-honey">Honey</span></a>
+<p><img alt="Royal Jelly" height="35" src="img/Royal_Jelly.png" width="35"/><a href="royal-jelly.html"><span class="color-template color-template-royal-jelly color-template-background-clip">Royal Jellies</span></a><br/>
+<img alt="Honey" height="35" src="img/Honey.png" width="35"/><a href="honey.html"><span class="color-template color-template-honey">Honey</span></a>
 </p>
 </td></tr></tbody></table>
 
@@ -51,22 +51,22 @@ After the challenge ends, a message box pops out on the player's screen presenti
 <th>One of the rewards from this list
 </th></tr>
 <tr>
-<td><span typeof="mw:Error mw:File"></span><a href="treat.html"><span class="color-template color-template-treat">Treats</span></a><br/>
-<p><span typeof="mw:Error mw:File"></span><a href="sunflower-seed.html"><span class="color-template color-template-sunflower-seed color-template-background-clip">Sunflower Seeds</span></a><br/>
-<span typeof="mw:Error mw:File"></span><a href="strawberry.html"><span class="color-template color-template-strawberry color-template-background-clip">Strawberries</span></a><br/>
-<span typeof="mw:Error mw:File"></span><a href="blueberry.html"><span class="color-template color-template-blueberry color-template-background-clip">Blueberries</span></a><br/>
-<span typeof="mw:Error mw:File"></span><a href="pineapple.html"><span class="color-template color-template-pineapple color-template-background-clip">Pineapples</span></a><br/>
-<span typeof="mw:Error mw:File"></span><a href="neonberry.html"><span class="color-template color-template-neonberry color-template-background-clip">Neonberries</span></a><br/>
-<span typeof="mw:Error mw:File"></span><a href="jelly-beans.html"><span class="color-template color-template-jelly-beans color-template-background-clip">Jelly Beans</span></a><br/>
-<span typeof="mw:Error mw:File"></span><a href="robo-pass.html"><span class="color-template color-template-robo-pass color-template-background-clip">Robo Pass</span></a><br/>
-<span typeof="mw:Error mw:File"></span><a href="bandage.html"><span class="color-template color-template-bandage color-template-background-clip">Bandage</span></a><br/>
-<span typeof="mw:Error mw:File"></span><a href="bottle-cap.html"><span class="color-template color-template-bottle-cap color-template-background-clip">Bottle Cap</span></a><br/>
-<span typeof="mw:Error mw:File"></span><a href="candy-ring.html"><span class="color-template color-template-candy-ring color-template-background-clip">Candy Ring</span></a><br/>
-<span typeof="mw:Error mw:File"></span><a href="camphor-lip-balm.html"><span class="color-template color-template-camphor-lip-balm color-template-background-clip">Camphor Lip Balm</span></a><br/>
-<span typeof="mw:Error mw:File"></span><a href="poinsettia.html"><span class="color-template color-template-poinsettia color-template-background-clip">Poinsettia</span></a>(Only During Beesmas)<br/>
-<span typeof="mw:Error mw:File"></span><a href="sticker.html#Sticker_Index"><span class="color-template color-template-left-facing-ant-sticker color-template-background-clip">Left Facing Ant Sticker</span></a>(Very Rare) <br/>
-<span typeof="mw:Error mw:File"></span><a href="sticker.html#Sticker_Index"><span class="color-template color-template-ant-field-stamp-sticker color-template-background-clip">Ant Field Stamp Sticker</span></a>(Unfathomably Rare)<br/>
-<span typeof="mw:Error mw:File"></span><a href="sticker.html#Sticker_Index"><span class="color-template color-template-x2-convert-speed-voucher color-template-background-clip">x2 Convert Speed Voucher</span></a>(Nearly Impossible)
+<td><img alt="Treat" height="35" src="img/Treat.png" width="35"/><a href="treat.html"><span class="color-template color-template-treat">Treats</span></a><br/>
+<p><img alt="Sunflower Seed" height="35" src="img/Sunflower_Seed.png" width="35"/><a href="sunflower-seed.html"><span class="color-template color-template-sunflower-seed color-template-background-clip">Sunflower Seeds</span></a><br/>
+<img alt="Strawberry" height="35" src="img/Strawberry.png" width="35"/><a href="strawberry.html"><span class="color-template color-template-strawberry color-template-background-clip">Strawberries</span></a><br/>
+<img alt="Blueberry" height="35" src="img/Blueberry.png" width="35"/><a href="blueberry.html"><span class="color-template color-template-blueberry color-template-background-clip">Blueberries</span></a><br/>
+<img alt="Pineapple" height="35" src="img/Pineapple.png" width="35"/><a href="pineapple.html"><span class="color-template color-template-pineapple color-template-background-clip">Pineapples</span></a><br/>
+<img alt="Neonberry" height="35" src="img/Neonberry.png" width="35"/><a href="neonberry.html"><span class="color-template color-template-neonberry color-template-background-clip">Neonberries</span></a><br/>
+<img alt="Jelly Beans" height="35" src="img/Jelly_Beans.png" width="35"/><a href="jelly-beans.html"><span class="color-template color-template-jelly-beans color-template-background-clip">Jelly Beans</span></a><br/>
+<img alt="Robo Pass" height="35" src="img/Robo_Pass.png" width="35"/><a href="robo-pass.html"><span class="color-template color-template-robo-pass color-template-background-clip">Robo Pass</span></a><br/>
+<img alt="Bandage" height="35" src="img/Bandage.png" width="35"/><a href="bandage.html"><span class="color-template color-template-bandage color-template-background-clip">Bandage</span></a><br/>
+<img alt="Bottle Cap" height="35" src="img/Bottle_Cap.png" width="35"/><a href="bottle-cap.html"><span class="color-template color-template-bottle-cap color-template-background-clip">Bottle Cap</span></a><br/>
+<img alt="Candy Ring" height="35" src="img/Candy_Ring.png" width="35"/><a href="candy-ring.html"><span class="color-template color-template-candy-ring color-template-background-clip">Candy Ring</span></a><br/>
+<img alt="Camphor Lip Balm" height="35" src="img/Camphor_Lip_Balm.png" width="35"/><a href="camphor-lip-balm.html"><span class="color-template color-template-camphor-lip-balm color-template-background-clip">Camphor Lip Balm</span></a><br/>
+<img alt="Poinsettia" height="35" src="img/Poinsettia.png" width="35"/><a href="poinsettia.html"><span class="color-template color-template-poinsettia color-template-background-clip">Poinsettia</span></a>(Only During Beesmas)<br/>
+<img alt="Sticker" height="35" src="img/Sticker.png" width="35"/><a href="sticker.html#Sticker_Index"><span class="color-template color-template-left-facing-ant-sticker color-template-background-clip">Left Facing Ant Sticker</span></a>(Very Rare) <br/>
+<img alt="Sticker" height="35" src="img/Sticker.png" width="35"/><a href="sticker.html#Sticker_Index"><span class="color-template color-template-ant-field-stamp-sticker color-template-background-clip">Ant Field Stamp Sticker</span></a>(Unfathomably Rare)<br/>
+<img alt="x2 Convert Speed Voucher" height="35" src="img/x2_Convert_Speed_Voucher.png" width="35"/><a href="sticker.html#Sticker_Index"><span class="color-template color-template-x2-convert-speed-voucher color-template-background-clip">x2 Convert Speed Voucher</span></a>(Nearly Impossible)
 </p>
 </td></tr></tbody></table>
 

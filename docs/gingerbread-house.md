@@ -1,6 +1,6 @@
 ---
 title: "Gingerbread House"
-tags: ["Pages with broken file links", "Removed Content", "Locations", "Machines", "Beesmas", "Beesmas Decorations", "Starter Zone"]
+tags: ["Removed Content", "Locations", "Machines", "Beesmas", "Beesmas Decorations", "Starter Zone"]
 ---
 
 # Gingerbread House
@@ -24,10 +24,6 @@ The Gingerbread House has gumdrops for decorations at the corners, a [Gingerbrea
 Its only use is to produce a Gingerbread Bear every 2 **in-game** hours. If the player is offline, it does not generate any, unless they have redeemed an [Offline Voucher](sticker.md#Sticker_Index), in which it will stay active for up to 24 hours after they log out.
 
 Upon completing the quest, the Gingerbread House can be used immediately for one Gingerbread Bear.
-
-## Gallery
-
-<div class="wikia-gallery wikia-gallery-caption-below wikia-gallery-position-left wikia-gallery-spacing-medium wikia-gallery-border-small wikia-gallery-captions-left wikia-gallery-caption-size-medium" data-seq-no="0" hash="a68bdf71d8437a4b88c0186b94b400d0" id="gallery-0"><div class="wikia-gallery-caption"></div><div class="wikia-gallery-item" style="width:187px; "><div class="thumb" style="height:187px;"><div class="gallery-image-wrapper accent" id="Unfinishedgbhouse-png" style="position: relative; height:185px; width:185px;"><span style="line-height: 1;">Unfinishedgbhouse.png</span></div></div><div class="lightbox-caption" style="width:185px;">The incomplete setup on Gingerbread House before completing Mother Bear's beesmas quest.</div></div><div class="wikia-gallery-item" style="width:187px; "><div class="thumb" style="height:187px;"><div class="gallery-image-wrapper accent" id="ExampleGingerbreadHouseClaim-png" style="position: relative; height:185px; width:185px;"><span style="line-height: 1;">ExampleGingerbreadHouseClaim.png</span></div></div><div class="lightbox-caption" style="width:185px;">Example of a player claiming their gingerbread after 44 in-game hours.</div></div></div>
 
 ## Trivia
 

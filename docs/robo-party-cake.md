@@ -1,6 +1,6 @@
 ---
 title: "Robo Party Cake"
-tags: ["Pages with broken file links", "Removed Content", "Beesmas", "Beesmas Decorations", "Locations", "Machines", "Robo Bear", "Robo Party", "Summoner"]
+tags: ["Removed Content", "Beesmas", "Beesmas Decorations", "Locations", "Machines", "Robo Bear", "Robo Party", "Summoner"]
 ---
 
 # Robo Party Cake
@@ -31,7 +31,7 @@ The Robo Party summons party variants of [Robo Bear Challenge](robo-bear-challen
 
 #### Models
 
-<div class="wikia-gallery wikia-gallery-caption-below wikia-gallery-position-left wikia-gallery-spacing-medium wikia-gallery-border-small wikia-gallery-captions-left wikia-gallery-caption-size-medium" data-seq-no="0" hash="0b6eb79f54e88d7cb878c7b54912f539" id="gallery-0"><div class="wikia-gallery-caption"></div><div class="wikia-gallery-item" style="width:187px; "><div class="thumb" style="height:187px;"><div class="gallery-image-wrapper accent" id="Partymosquito-png" style="position: relative; height:185px; width:185px;"><span style="line-height: 1;">Partymosquito.png</span></div></div><div class="lightbox-caption" style="width:185px;">The model of the Party Mechsquito.</div></div><div class="wikia-gallery-item" style="width:187px; "><div class="thumb" style="height:187px;"><div class="gallery-image-wrapper accent" id="Partymegamechsquito-png" style="position: relative; height:185px; width:185px;"><span style="line-height: 1;">Partymegamechsquito.png</span></div></div><div class="lightbox-caption" style="width:185px;">The model of the Party Mega Mechsquito.</div></div><div class="wikia-gallery-item" style="width:187px; "><div class="thumb" style="height:187px;"><div class="gallery-image-wrapper accent" id="Partycogmower-png" style="position: relative; height:185px; width:185px;"><span style="line-height: 1;">Partycogmower.png</span></div></div><div class="lightbox-caption" style="width:185px;">The model of the Party Cogmower.</div></div><div class="wikia-gallery-item" style="width:187px; "><div class="thumb" style="height:187px;"><div class="gallery-image-wrapper accent" id="Partycogturret-png" style="position: relative; height:185px; width:185px;"><span style="line-height: 1;">Partycogturret.png</span></div></div><div class="lightbox-caption" style="width:185px;">The model of the Party Cogturret.</div></div></div>
+
 
 ### Rewards
 
@@ -50,534 +50,534 @@ Each rank completed for the first time rewards the player with an amount of [Tic
 <td>1
 </td>
 <td>
-<ul><li><span typeof="mw:Error mw:File"></span>1 <a href="ticket.html"><span class="color-template color-template-ticket color-template-background-clip">Ticket</span></a></li>
-<li><span typeof="mw:Error mw:File"></span>3 <a href="stinger.html"><span class="color-template color-template-stinger color-template-background-clip">Stingers</span></a></li>
-<li><span typeof="mw:Error mw:File"></span>1 <a href="pink-balloon.html"><span class="color-template color-template-pink-balloon color-template-background-clip">Pink Balloon</span></a></li>
-<li><span typeof="mw:Error mw:File"></span>1 <a href="neonberry.html"><span class="color-template color-template-neonberry color-template-background-clip">Neonberry</span></a></li>
-<li><span typeof="mw:Error mw:File"></span>5 <a href="field-dice.html"><span class="color-template color-template-field-dice color-template-background-clip">Field Dice</span></a></li></ul>
+<ul><li><img alt="Ticket" height="25" src="img/Ticket.png" width="25"/>1 <a href="ticket.html"><span class="color-template color-template-ticket color-template-background-clip">Ticket</span></a></li>
+<li><img alt="Stinger" height="25" src="img/Stinger.png" width="25"/>3 <a href="stinger.html"><span class="color-template color-template-stinger color-template-background-clip">Stingers</span></a></li>
+<li><img alt="Pink Balloon" height="25" src="img/Pink_Balloon.png" width="25"/>1 <a href="pink-balloon.html"><span class="color-template color-template-pink-balloon color-template-background-clip">Pink Balloon</span></a></li>
+<li><img alt="Neonberry" height="25" src="img/Neonberry.png" width="25"/>1 <a href="neonberry.html"><span class="color-template color-template-neonberry color-template-background-clip">Neonberry</span></a></li>
+<li><img alt="Field Dice" height="25" src="img/Field_Dice.png" width="25"/>5 <a href="field-dice.html"><span class="color-template color-template-field-dice color-template-background-clip">Field Dice</span></a></li></ul>
 </td></tr>
 <tr>
 <td>2
 </td>
 <td>
-<ul><li><span typeof="mw:Error mw:File"></span>2 <a href="ticket.html"><span class="color-template color-template-ticket color-template-background-clip">Tickets</span></a></li>
-<li><span typeof="mw:Error mw:File"></span>3 <a href="stinger.html"><span class="color-template color-template-stinger color-template-background-clip">Stingers</span></a></li>
-<li><span typeof="mw:Error mw:File"></span>1 <a href="pink-balloon.html"><span class="color-template color-template-pink-balloon color-template-background-clip">Pink Balloon</span></a></li>
-<li><span typeof="mw:Error mw:File"></span>10 <a href="whirligig.html"><span class="color-template color-template-whirligig color-template-background-clip">Whirligigs</span></a></li>
-<li><span typeof="mw:Error mw:File"></span>2 <a href="oil.html"><span class="color-template color-template-oil color-template-background-clip">Oils</span></a></li></ul>
+<ul><li><img alt="Ticket" height="25" src="img/Ticket.png" width="25"/>2 <a href="ticket.html"><span class="color-template color-template-ticket color-template-background-clip">Tickets</span></a></li>
+<li><img alt="Stinger" height="25" src="img/Stinger.png" width="25"/>3 <a href="stinger.html"><span class="color-template color-template-stinger color-template-background-clip">Stingers</span></a></li>
+<li><img alt="Pink Balloon" height="25" src="img/Pink_Balloon.png" width="25"/>1 <a href="pink-balloon.html"><span class="color-template color-template-pink-balloon color-template-background-clip">Pink Balloon</span></a></li>
+<li><img alt="Whirligig" height="25" src="img/Whirligig.png" width="25"/>10 <a href="whirligig.html"><span class="color-template color-template-whirligig color-template-background-clip">Whirligigs</span></a></li>
+<li><img alt="Oil" height="25" src="img/Oil.png" width="25"/>2 <a href="oil.html"><span class="color-template color-template-oil color-template-background-clip">Oils</span></a></li></ul>
 </td></tr>
 <tr>
 <td>3
 </td>
 <td>
-<ul><li><span typeof="mw:Error mw:File"></span>3 <a href="ticket.html"><span class="color-template color-template-ticket color-template-background-clip">Tickets</span></a></li>
-<li><span typeof="mw:Error mw:File"></span>3 <a href="stinger.html"><span class="color-template color-template-stinger color-template-background-clip">Stingers</span></a></li>
-<li><span typeof="mw:Error mw:File"></span>1 <a href="pink-balloon.html"><span class="color-template color-template-pink-balloon color-template-background-clip">Pink Balloon</span></a></li>
-<li><span typeof="mw:Error mw:File"></span>1 <a href="glitter.html"><span class="color-template color-template-glitter color-template-background-clip">Glitter</span></a></li>
-<li><span typeof="mw:Error mw:File"></span>1 <a href="ant-pass.html"><span class="color-template color-template-ant-pass color-template-background-clip">Ant Pass</span></a></li></ul>
+<ul><li><img alt="Ticket" height="25" src="img/Ticket.png" width="25"/>3 <a href="ticket.html"><span class="color-template color-template-ticket color-template-background-clip">Tickets</span></a></li>
+<li><img alt="Stinger" height="25" src="img/Stinger.png" width="25"/>3 <a href="stinger.html"><span class="color-template color-template-stinger color-template-background-clip">Stingers</span></a></li>
+<li><img alt="Pink Balloon" height="25" src="img/Pink_Balloon.png" width="25"/>1 <a href="pink-balloon.html"><span class="color-template color-template-pink-balloon color-template-background-clip">Pink Balloon</span></a></li>
+<li><img alt="Glitter" height="25" src="img/Glitter.png" width="25"/>1 <a href="glitter.html"><span class="color-template color-template-glitter color-template-background-clip">Glitter</span></a></li>
+<li><img alt="Ant Pass" height="25" src="img/Ant_Pass.png" width="25"/>1 <a href="ant-pass.html"><span class="color-template color-template-ant-pass color-template-background-clip">Ant Pass</span></a></li></ul>
 </td></tr>
 <tr>
 <td>4
 </td>
 <td>
-<ul><li><span typeof="mw:Error mw:File"></span>4 <a href="ticket.html"><span class="color-template color-template-ticket color-template-background-clip">Tickets</span></a></li>
-<li><span typeof="mw:Error mw:File"></span>4 <a href="stinger.html"><span class="color-template color-template-stinger color-template-background-clip">Stingers</span></a></li>
-<li><span typeof="mw:Error mw:File"></span>1 <a href="pink-balloon.html"><span class="color-template color-template-pink-balloon color-template-background-clip">Pink Balloon</span></a></li>
-<li><span typeof="mw:Error mw:File"></span>30 <a href="honeysuckle.html"><span class="color-template color-template-honeysuckle color-template-background-clip">Honeysuckles</span></a></li>
-<li><span typeof="mw:Error mw:File"></span>2 <a href="glue.html"><span class="color-template color-template-glue color-template-background-clip">Glues</span></a></li></ul>
+<ul><li><img alt="Ticket" height="25" src="img/Ticket.png" width="25"/>4 <a href="ticket.html"><span class="color-template color-template-ticket color-template-background-clip">Tickets</span></a></li>
+<li><img alt="Stinger" height="25" src="img/Stinger.png" width="25"/>4 <a href="stinger.html"><span class="color-template color-template-stinger color-template-background-clip">Stingers</span></a></li>
+<li><img alt="Pink Balloon" height="25" src="img/Pink_Balloon.png" width="25"/>1 <a href="pink-balloon.html"><span class="color-template color-template-pink-balloon color-template-background-clip">Pink Balloon</span></a></li>
+<li><img alt="Honeysuckle" height="25" src="img/Honeysuckle.png" width="25"/>30 <a href="honeysuckle.html"><span class="color-template color-template-honeysuckle color-template-background-clip">Honeysuckles</span></a></li>
+<li><img alt="Glue" height="25" src="img/Glue.png" width="25"/>2 <a href="glue.html"><span class="color-template color-template-glue color-template-background-clip">Glues</span></a></li></ul>
 </td></tr>
 <tr>
 <td><b>5</b>
 </td>
 <td>
-<ul><li><span typeof="mw:Error mw:File"></span>5 <a href="ticket.html"><span class="color-template color-template-ticket color-template-background-clip">Tickets</span></a></li>
-<li><span typeof="mw:Error mw:File"></span>4 <a href="stinger.html"><span class="color-template color-template-stinger color-template-background-clip">Stingers</span></a></li>
-<li><span typeof="mw:Error mw:File"></span>1 <a href="pink-balloon.html"><span class="color-template color-template-pink-balloon color-template-background-clip">Pink Balloon</span></a></li>
-<li><span typeof="mw:Error mw:File"></span>5 <a href="soft-wax.html"><span class="color-template color-template-soft-wax">Soft Waxes</span></a></li>
-<li><span typeof="mw:Error mw:File"></span>1 <a href="royal-jelly.html#Star_Jelly"><span class="color-template color-template-star-jelly color-template-background-clip">Star Jelly</span></a></li></ul>
+<ul><li><img alt="Ticket" height="25" src="img/Ticket.png" width="25"/>5 <a href="ticket.html"><span class="color-template color-template-ticket color-template-background-clip">Tickets</span></a></li>
+<li><img alt="Stinger" height="25" src="img/Stinger.png" width="25"/>4 <a href="stinger.html"><span class="color-template color-template-stinger color-template-background-clip">Stingers</span></a></li>
+<li><img alt="Pink Balloon" height="25" src="img/Pink_Balloon.png" width="25"/>1 <a href="pink-balloon.html"><span class="color-template color-template-pink-balloon color-template-background-clip">Pink Balloon</span></a></li>
+<li><img alt="Soft Wax" height="25" src="img/Soft_Wax.png" width="25"/>5 <a href="soft-wax.html"><span class="color-template color-template-soft-wax">Soft Waxes</span></a></li>
+<li><img alt="Star Jelly" height="25" src="img/Star_Jelly.png" width="25"/>1 <a href="royal-jelly.html#Star_Jelly"><span class="color-template color-template-star-jelly color-template-background-clip">Star Jelly</span></a></li></ul>
 </td></tr>
 <tr>
 <td>6
 </td>
 <td>
-<ul><li><span typeof="mw:Error mw:File"></span>6 <a href="ticket.html"><span class="color-template color-template-ticket color-template-background-clip">Tickets</span></a></li>
-<li><span typeof="mw:Error mw:File"></span>5 <a href="stinger.html"><span class="color-template color-template-stinger color-template-background-clip">Stingers</span></a></li>
-<li><span typeof="mw:Error mw:File"></span>1 <a href="pink-balloon.html"><span class="color-template color-template-pink-balloon color-template-background-clip">Pink Balloon</span></a></li>
-<li><span typeof="mw:Error mw:File"></span>10 <a href="jelly-beans.html"><span class="color-template color-template-jelly-beans color-template-background-clip">Jelly Beans</span></a></li>
-<li><span typeof="mw:Error mw:File"></span>1 <a href="robo-pass.html"><span class="color-template color-template-robo-pass color-template-background-clip">Robo Pass</span></a></li></ul>
+<ul><li><img alt="Ticket" height="25" src="img/Ticket.png" width="25"/>6 <a href="ticket.html"><span class="color-template color-template-ticket color-template-background-clip">Tickets</span></a></li>
+<li><img alt="Stinger" height="25" src="img/Stinger.png" width="25"/>5 <a href="stinger.html"><span class="color-template color-template-stinger color-template-background-clip">Stingers</span></a></li>
+<li><img alt="Pink Balloon" height="25" src="img/Pink_Balloon.png" width="25"/>1 <a href="pink-balloon.html"><span class="color-template color-template-pink-balloon color-template-background-clip">Pink Balloon</span></a></li>
+<li><img alt="Jelly Beans" height="25" src="img/Jelly_Beans.png" width="25"/>10 <a href="jelly-beans.html"><span class="color-template color-template-jelly-beans color-template-background-clip">Jelly Beans</span></a></li>
+<li><img alt="Robo Pass" height="25" src="img/Robo_Pass.png" width="25"/>1 <a href="robo-pass.html"><span class="color-template color-template-robo-pass color-template-background-clip">Robo Pass</span></a></li></ul>
 </td></tr>
 <tr>
 <td>7
 </td>
 <td>
-<ul><li><span typeof="mw:Error mw:File"></span>7 <a href="ticket.html"><span class="color-template color-template-ticket color-template-background-clip">Tickets</span></a></li>
-<li><span typeof="mw:Error mw:File"></span>5 <a href="stinger.html"><span class="color-template color-template-stinger color-template-background-clip">Stingers</span></a></li>
-<li><span typeof="mw:Error mw:File"></span>1 <a href="pink-balloon.html"><span class="color-template color-template-pink-balloon color-template-background-clip">Pink Balloon</span></a></li>
-<li><span typeof="mw:Error mw:File"></span>3 <a href="smooth-dice.html"><span class="color-template color-template-smooth-dice color-template-background-clip">Smooth Dice</span></a></li>
-<li><span typeof="mw:Error mw:File"></span>3 <a href="blue-extract.html"><span class="color-template color-template-blue-extract color-template-background-clip">Blue Extracts</span></a></li></ul>
+<ul><li><img alt="Ticket" height="25" src="img/Ticket.png" width="25"/>7 <a href="ticket.html"><span class="color-template color-template-ticket color-template-background-clip">Tickets</span></a></li>
+<li><img alt="Stinger" height="25" src="img/Stinger.png" width="25"/>5 <a href="stinger.html"><span class="color-template color-template-stinger color-template-background-clip">Stingers</span></a></li>
+<li><img alt="Pink Balloon" height="25" src="img/Pink_Balloon.png" width="25"/>1 <a href="pink-balloon.html"><span class="color-template color-template-pink-balloon color-template-background-clip">Pink Balloon</span></a></li>
+<li><img alt="Smooth Dice" height="25" src="img/Smooth_Dice.png" width="25"/>3 <a href="smooth-dice.html"><span class="color-template color-template-smooth-dice color-template-background-clip">Smooth Dice</span></a></li>
+<li><img alt="Blue Extract" height="25" src="img/Blue_Extract.png" width="25"/>3 <a href="blue-extract.html"><span class="color-template color-template-blue-extract color-template-background-clip">Blue Extracts</span></a></li></ul>
 </td></tr>
 <tr>
 <td>8
 </td>
 <td>
-<ul><li><span typeof="mw:Error mw:File"></span>8 <a href="ticket.html"><span class="color-template color-template-ticket color-template-background-clip">Tickets</span></a></li>
-<li><span typeof="mw:Error mw:File"></span>6 <a href="stinger.html"><span class="color-template color-template-stinger color-template-background-clip">Stingers</span></a></li>
-<li><span typeof="mw:Error mw:File"></span>1 <a href="pink-balloon.html"><span class="color-template color-template-pink-balloon color-template-background-clip">Pink Balloon</span></a></li>
-<li><span typeof="mw:Error mw:File"></span>6 <a href="soft-wax.html"><span class="color-template color-template-soft-wax">Soft Waxes</span></a></li>
-<li><span typeof="mw:Error mw:File"></span>2 <a href="glitter.html"><span class="color-template color-template-glitter color-template-background-clip">Glitter</span></a></li></ul>
+<ul><li><img alt="Ticket" height="25" src="img/Ticket.png" width="25"/>8 <a href="ticket.html"><span class="color-template color-template-ticket color-template-background-clip">Tickets</span></a></li>
+<li><img alt="Stinger" height="25" src="img/Stinger.png" width="25"/>6 <a href="stinger.html"><span class="color-template color-template-stinger color-template-background-clip">Stingers</span></a></li>
+<li><img alt="Pink Balloon" height="25" src="img/Pink_Balloon.png" width="25"/>1 <a href="pink-balloon.html"><span class="color-template color-template-pink-balloon color-template-background-clip">Pink Balloon</span></a></li>
+<li><img alt="Soft Wax" height="25" src="img/Soft_Wax.png" width="25"/>6 <a href="soft-wax.html"><span class="color-template color-template-soft-wax">Soft Waxes</span></a></li>
+<li><img alt="Glitter" height="25" src="img/Glitter.png" width="25"/>2 <a href="glitter.html"><span class="color-template color-template-glitter color-template-background-clip">Glitter</span></a></li></ul>
 </td></tr>
 <tr>
 <td>9
 </td>
 <td>
-<ul><li><span typeof="mw:Error mw:File"></span>9 <a href="ticket.html"><span class="color-template color-template-ticket color-template-background-clip">Tickets</span></a></li>
-<li><span typeof="mw:Error mw:File"></span>6 <a href="stinger.html"><span class="color-template color-template-stinger color-template-background-clip">Stingers</span></a></li>
-<li><span typeof="mw:Error mw:File"></span>1 <a href="pink-balloon.html"><span class="color-template color-template-pink-balloon color-template-background-clip">Pink Balloon</span></a></li>
-<li><span typeof="mw:Error mw:File"></span>1 <a href="atomic-treat.html"><span class="color-template color-template-atomic-treat color-template-background-clip">Atomic Treat</span></a></li>
-<li><span typeof="mw:Error mw:File"></span>1 <a href="robo-pass.html"><span class="color-template color-template-robo-pass color-template-background-clip">Robo Pass</span></a></li></ul>
+<ul><li><img alt="Ticket" height="25" src="img/Ticket.png" width="25"/>9 <a href="ticket.html"><span class="color-template color-template-ticket color-template-background-clip">Tickets</span></a></li>
+<li><img alt="Stinger" height="25" src="img/Stinger.png" width="25"/>6 <a href="stinger.html"><span class="color-template color-template-stinger color-template-background-clip">Stingers</span></a></li>
+<li><img alt="Pink Balloon" height="25" src="img/Pink_Balloon.png" width="25"/>1 <a href="pink-balloon.html"><span class="color-template color-template-pink-balloon color-template-background-clip">Pink Balloon</span></a></li>
+<li><img alt="Atomic Treat" height="25" src="img/Atomic_Treat.png" width="25"/>1 <a href="atomic-treat.html"><span class="color-template color-template-atomic-treat color-template-background-clip">Atomic Treat</span></a></li>
+<li><img alt="Robo Pass" height="25" src="img/Robo_Pass.png" width="25"/>1 <a href="robo-pass.html"><span class="color-template color-template-robo-pass color-template-background-clip">Robo Pass</span></a></li></ul>
 </td></tr>
 <tr>
 <td><b>10</b>
 </td>
 <td>
-<ul><li><span typeof="mw:Error mw:File"></span>10 <a href="ticket.html"><span class="color-template color-template-ticket color-template-background-clip">Tickets</span></a></li>
-<li><span typeof="mw:Error mw:File"></span>7 <a href="stinger.html"><span class="color-template color-template-stinger color-template-background-clip">Stingers</span></a></li>
-<li><span typeof="mw:Error mw:File"></span>1 <a href="red-balloon.html"><span class="color-template color-template-red-balloon color-template-background-clip">Red Balloon</span></a></li>
-<li><span typeof="mw:Error mw:File"></span>1 <a href="ticket-planter.html"><span class="color-template color-template-ticket-planter color-template-background-clip">Ticket Planter</span></a></li>
-<li><span typeof="mw:Error mw:File"></span>1 <a href="purple-potion.html"><span class="color-template color-template-purple-potion color-template-background-clip">Purple Potion</span></a></li></ul>
+<ul><li><img alt="Ticket" height="25" src="img/Ticket.png" width="25"/>10 <a href="ticket.html"><span class="color-template color-template-ticket color-template-background-clip">Tickets</span></a></li>
+<li><img alt="Stinger" height="25" src="img/Stinger.png" width="25"/>7 <a href="stinger.html"><span class="color-template color-template-stinger color-template-background-clip">Stingers</span></a></li>
+<li><img alt="Red Balloon" height="25" src="img/Red_Balloon.png" width="25"/>1 <a href="red-balloon.html"><span class="color-template color-template-red-balloon color-template-background-clip">Red Balloon</span></a></li>
+<li><img alt="Ticket Planter" height="25" src="img/Ticket_Planter.png" width="25"/>1 <a href="ticket-planter.html"><span class="color-template color-template-ticket-planter color-template-background-clip">Ticket Planter</span></a></li>
+<li><img alt="Purple Potion" height="25" src="img/Purple_Potion.png" width="25"/>1 <a href="purple-potion.html"><span class="color-template color-template-purple-potion color-template-background-clip">Purple Potion</span></a></li></ul>
 </td></tr>
 <tr>
 <td>11
 </td>
 <td>
-<ul><li><span typeof="mw:Error mw:File"></span>11 <a href="ticket.html"><span class="color-template color-template-ticket color-template-background-clip">Tickets</span></a></li>
-<li><span typeof="mw:Error mw:File"></span>7 <a href="stinger.html"><span class="color-template color-template-stinger color-template-background-clip">Stingers</span></a></li>
-<li><span typeof="mw:Error mw:File"></span>1 <a href="pink-balloon.html"><span class="color-template color-template-pink-balloon color-template-background-clip">Pink Balloon</span></a></li>
-<li><span typeof="mw:Error mw:File"></span>3 <a href="magic-bean.html"><span class="color-template color-template-magic-bean color-template-background-clip">Magic Beans</span></a></li>
-<li><span typeof="mw:Error mw:File"></span>3 <a href="neonberry.html"><span class="color-template color-template-neonberry color-template-background-clip">Neonberries</span></a></li></ul>
+<ul><li><img alt="Ticket" height="25" src="img/Ticket.png" width="25"/>11 <a href="ticket.html"><span class="color-template color-template-ticket color-template-background-clip">Tickets</span></a></li>
+<li><img alt="Stinger" height="25" src="img/Stinger.png" width="25"/>7 <a href="stinger.html"><span class="color-template color-template-stinger color-template-background-clip">Stingers</span></a></li>
+<li><img alt="Pink Balloon" height="25" src="img/Pink_Balloon.png" width="25"/>1 <a href="pink-balloon.html"><span class="color-template color-template-pink-balloon color-template-background-clip">Pink Balloon</span></a></li>
+<li><img alt="Magic Bean" height="25" src="img/Magic_Bean.png" width="25"/>3 <a href="magic-bean.html"><span class="color-template color-template-magic-bean color-template-background-clip">Magic Beans</span></a></li>
+<li><img alt="Neonberry" height="25" src="img/Neonberry.png" width="25"/>3 <a href="neonberry.html"><span class="color-template color-template-neonberry color-template-background-clip">Neonberries</span></a></li></ul>
 </td></tr>
 <tr>
 <td>12
 </td>
 <td>
-<ul><li><span typeof="mw:Error mw:File"></span>12 <a href="ticket.html"><span class="color-template color-template-ticket color-template-background-clip">Tickets</span></a></li>
-<li><span typeof="mw:Error mw:File"></span>8 <a href="stinger.html"><span class="color-template color-template-stinger color-template-background-clip">Stingers</span></a></li>
-<li><span typeof="mw:Error mw:File"></span>1 <a href="red-balloon.html"><span class="color-template color-template-red-balloon color-template-background-clip">Red Balloon</span></a></li>
-<li><span typeof="mw:Error mw:File"></span>4 <a href="enzymes.html"><span class="color-template color-template-enzymes color-template-background-clip">Enzymes</span></a></li>
-<li><span typeof="mw:Error mw:File"></span>5 <a href="micro-converter.html"><span class="color-template color-template-micro-converter color-template-background-clip">Micro-Converters</span></a></li></ul>
+<ul><li><img alt="Ticket" height="25" src="img/Ticket.png" width="25"/>12 <a href="ticket.html"><span class="color-template color-template-ticket color-template-background-clip">Tickets</span></a></li>
+<li><img alt="Stinger" height="25" src="img/Stinger.png" width="25"/>8 <a href="stinger.html"><span class="color-template color-template-stinger color-template-background-clip">Stingers</span></a></li>
+<li><img alt="Red Balloon" height="25" src="img/Red_Balloon.png" width="25"/>1 <a href="red-balloon.html"><span class="color-template color-template-red-balloon color-template-background-clip">Red Balloon</span></a></li>
+<li><img alt="Enzymes" height="25" src="img/Enzymes.png" width="25"/>4 <a href="enzymes.html"><span class="color-template color-template-enzymes color-template-background-clip">Enzymes</span></a></li>
+<li><img alt="Micro-Converter" height="25" src="img/Micro-Converter.png" width="25"/>5 <a href="micro-converter.html"><span class="color-template color-template-micro-converter color-template-background-clip">Micro-Converters</span></a></li></ul>
 </td></tr>
 <tr>
 <td>13
 </td>
 <td>
-<ul><li><span typeof="mw:Error mw:File"></span>13 <a href="ticket.html"><span class="color-template color-template-ticket color-template-background-clip">Tickets</span></a></li>
-<li><span typeof="mw:Error mw:File"></span>8 <a href="stinger.html"><span class="color-template color-template-stinger color-template-background-clip">Stingers</span></a></li>
-<li><span typeof="mw:Error mw:File"></span>1 <a href="pink-balloon.html"><span class="color-template color-template-pink-balloon color-template-background-clip">Pink Balloon</span></a></li>
-<li><span typeof="mw:Error mw:File"></span>20 <a href="jelly-beans.html"><span class="color-template color-template-jelly-beans color-template-background-clip">Jelly Beans</span></a></li>
-<li><span typeof="mw:Error mw:File"></span>5 <a href="hard-wax.html"><span class="color-template color-template-hard-wax">Hard Waxes</span></a></li></ul>
+<ul><li><img alt="Ticket" height="25" src="img/Ticket.png" width="25"/>13 <a href="ticket.html"><span class="color-template color-template-ticket color-template-background-clip">Tickets</span></a></li>
+<li><img alt="Stinger" height="25" src="img/Stinger.png" width="25"/>8 <a href="stinger.html"><span class="color-template color-template-stinger color-template-background-clip">Stingers</span></a></li>
+<li><img alt="Pink Balloon" height="25" src="img/Pink_Balloon.png" width="25"/>1 <a href="pink-balloon.html"><span class="color-template color-template-pink-balloon color-template-background-clip">Pink Balloon</span></a></li>
+<li><img alt="Jelly Beans" height="25" src="img/Jelly_Beans.png" width="25"/>20 <a href="jelly-beans.html"><span class="color-template color-template-jelly-beans color-template-background-clip">Jelly Beans</span></a></li>
+<li><img alt="Hard Wax" height="25" src="img/Hard_Wax.png" width="25"/>5 <a href="hard-wax.html"><span class="color-template color-template-hard-wax">Hard Waxes</span></a></li></ul>
 </td></tr>
 <tr>
 <td>14
 </td>
 <td>
-<ul><li><span typeof="mw:Error mw:File"></span>14 <a href="ticket.html"><span class="color-template color-template-ticket color-template-background-clip">Tickets</span></a></li>
-<li><span typeof="mw:Error mw:File"></span>9 <a href="stinger.html"><span class="color-template color-template-stinger color-template-background-clip">Stingers</span></a></li>
-<li><span typeof="mw:Error mw:File"></span>1 <a href="red-balloon.html"><span class="color-template color-template-red-balloon color-template-background-clip">Red Balloon</span></a></li>
-<li><span typeof="mw:Error mw:File"></span>20 <a href="whirligig.html"><span class="color-template color-template-whirligig color-template-background-clip">Whirligigs</span></a></li>
-<li><span typeof="mw:Error mw:File"></span>1 <a href="robo-pass.html"><span class="color-template color-template-robo-pass color-template-background-clip">Robo Pass</span></a></li></ul>
+<ul><li><img alt="Ticket" height="25" src="img/Ticket.png" width="25"/>14 <a href="ticket.html"><span class="color-template color-template-ticket color-template-background-clip">Tickets</span></a></li>
+<li><img alt="Stinger" height="25" src="img/Stinger.png" width="25"/>9 <a href="stinger.html"><span class="color-template color-template-stinger color-template-background-clip">Stingers</span></a></li>
+<li><img alt="Red Balloon" height="25" src="img/Red_Balloon.png" width="25"/>1 <a href="red-balloon.html"><span class="color-template color-template-red-balloon color-template-background-clip">Red Balloon</span></a></li>
+<li><img alt="Whirligig" height="25" src="img/Whirligig.png" width="25"/>20 <a href="whirligig.html"><span class="color-template color-template-whirligig color-template-background-clip">Whirligigs</span></a></li>
+<li><img alt="Robo Pass" height="25" src="img/Robo_Pass.png" width="25"/>1 <a href="robo-pass.html"><span class="color-template color-template-robo-pass color-template-background-clip">Robo Pass</span></a></li></ul>
 </td></tr>
 <tr>
 <td><b>15</b>
 </td>
 <td>
-<ul><li><span typeof="mw:Error mw:File"></span>15 <a href="ticket.html"><span class="color-template color-template-ticket color-template-background-clip">Tickets</span></a></li>
-<li><span typeof="mw:Error mw:File"></span>9 <a href="stinger.html"><span class="color-template color-template-stinger color-template-background-clip">Stingers</span></a></li>
-<li><span typeof="mw:Error mw:File"></span>1 <a href="red-balloon.html"><span class="color-template color-template-red-balloon color-template-background-clip">Red Balloon</span></a></li>
-<li><span typeof="mw:Error mw:File"></span>1 <a href="loaded-dice.html"><span class="color-template color-template-loaded-dice color-template-background-clip">Loaded Dice</span></a></li>
-<li><span typeof="mw:Error mw:File"></span>3 <a href="royal-jelly.html#Star_Jelly"><span class="color-template color-template-star-jelly color-template-background-clip">Star Jellies</span></a></li></ul>
+<ul><li><img alt="Ticket" height="25" src="img/Ticket.png" width="25"/>15 <a href="ticket.html"><span class="color-template color-template-ticket color-template-background-clip">Tickets</span></a></li>
+<li><img alt="Stinger" height="25" src="img/Stinger.png" width="25"/>9 <a href="stinger.html"><span class="color-template color-template-stinger color-template-background-clip">Stingers</span></a></li>
+<li><img alt="Red Balloon" height="25" src="img/Red_Balloon.png" width="25"/>1 <a href="red-balloon.html"><span class="color-template color-template-red-balloon color-template-background-clip">Red Balloon</span></a></li>
+<li><img alt="Loaded Dice" height="25" src="img/Loaded_Dice.png" width="25"/>1 <a href="loaded-dice.html"><span class="color-template color-template-loaded-dice color-template-background-clip">Loaded Dice</span></a></li>
+<li><img alt="Star Jelly" height="25" src="img/Star_Jelly.png" width="25"/>3 <a href="royal-jelly.html#Star_Jelly"><span class="color-template color-template-star-jelly color-template-background-clip">Star Jellies</span></a></li></ul>
 </td></tr>
 <tr>
 <td>16
 </td>
 <td>
-<ul><li><span typeof="mw:Error mw:File"></span>16 <a href="ticket.html"><span class="color-template color-template-ticket color-template-background-clip">Tickets</span></a></li>
-<li><span typeof="mw:Error mw:File"></span>10 <a href="stinger.html"><span class="color-template color-template-stinger color-template-background-clip">Stingers</span></a></li>
-<li><span typeof="mw:Error mw:File"></span>1 <a href="red-balloon.html"><span class="color-template color-template-red-balloon color-template-background-clip">Red Balloon</span></a></li>
-<li><span typeof="mw:Error mw:File"></span>20 <a href="honeysuckle.html"><span class="color-template color-template-honeysuckle color-template-background-clip">Honeysuckles</span></a></li>
-<li><span typeof="mw:Error mw:File"></span>100 <a href="gumdrops.html"><span class="color-template color-template-gumdrops color-template-background-clip">Gumdrops</span></a></li></ul>
+<ul><li><img alt="Ticket" height="25" src="img/Ticket.png" width="25"/>16 <a href="ticket.html"><span class="color-template color-template-ticket color-template-background-clip">Tickets</span></a></li>
+<li><img alt="Stinger" height="25" src="img/Stinger.png" width="25"/>10 <a href="stinger.html"><span class="color-template color-template-stinger color-template-background-clip">Stingers</span></a></li>
+<li><img alt="Red Balloon" height="25" src="img/Red_Balloon.png" width="25"/>1 <a href="red-balloon.html"><span class="color-template color-template-red-balloon color-template-background-clip">Red Balloon</span></a></li>
+<li><img alt="Honeysuckle" height="25" src="img/Honeysuckle.png" width="25"/>20 <a href="honeysuckle.html"><span class="color-template color-template-honeysuckle color-template-background-clip">Honeysuckles</span></a></li>
+<li><img alt="Gumdrops" height="25" src="img/Gumdrops.png" width="25"/>100 <a href="gumdrops.html"><span class="color-template color-template-gumdrops color-template-background-clip">Gumdrops</span></a></li></ul>
 </td></tr>
 <tr>
 <td>17
 </td>
 <td>
-<ul><li><span typeof="mw:Error mw:File"></span>17 <a href="ticket.html"><span class="color-template color-template-ticket color-template-background-clip">Tickets</span></a></li>
-<li><span typeof="mw:Error mw:File"></span>10 <a href="stinger.html"><span class="color-template color-template-stinger color-template-background-clip">Stingers</span></a></li>
-<li><span typeof="mw:Error mw:File"></span>1 <a href="red-balloon.html"><span class="color-template color-template-red-balloon color-template-background-clip">Red Balloon</span></a></li>
-<li><span typeof="mw:Error mw:File"></span>5 <a href="enzymes.html"><span class="color-template color-template-enzymes color-template-background-clip">Enzymes</span></a></li>
-<li><span typeof="mw:Error mw:File"></span>10 <a href="neonberry.html"><span class="color-template color-template-neonberry color-template-background-clip">Neonberries</span></a></li></ul>
+<ul><li><img alt="Ticket" height="25" src="img/Ticket.png" width="25"/>17 <a href="ticket.html"><span class="color-template color-template-ticket color-template-background-clip">Tickets</span></a></li>
+<li><img alt="Stinger" height="25" src="img/Stinger.png" width="25"/>10 <a href="stinger.html"><span class="color-template color-template-stinger color-template-background-clip">Stingers</span></a></li>
+<li><img alt="Red Balloon" height="25" src="img/Red_Balloon.png" width="25"/>1 <a href="red-balloon.html"><span class="color-template color-template-red-balloon color-template-background-clip">Red Balloon</span></a></li>
+<li><img alt="Enzymes" height="25" src="img/Enzymes.png" width="25"/>5 <a href="enzymes.html"><span class="color-template color-template-enzymes color-template-background-clip">Enzymes</span></a></li>
+<li><img alt="Neonberry" height="25" src="img/Neonberry.png" width="25"/>10 <a href="neonberry.html"><span class="color-template color-template-neonberry color-template-background-clip">Neonberries</span></a></li></ul>
 </td></tr>
 <tr>
 <td>18
 </td>
 <td>
-<ul><li><span typeof="mw:Error mw:File"></span>18 <a href="ticket.html"><span class="color-template color-template-ticket color-template-background-clip">Tickets</span></a></li>
-<li><span typeof="mw:Error mw:File"></span>11 <a href="stinger.html"><span class="color-template color-template-stinger color-template-background-clip">Stingers</span></a></li>
-<li><span typeof="mw:Error mw:File"></span>1 <a href="red-balloon.html"><span class="color-template color-template-red-balloon color-template-background-clip">Red Balloon</span></a></li>
-<li><span typeof="mw:Error mw:File"></span>10 <a href="micro-converter.html"><span class="color-template color-template-micro-converter color-template-background-clip">Micro-Converters</span></a></li>
-<li><span typeof="mw:Error mw:File"></span>3 <a href="glitter.html"><span class="color-template color-template-glitter color-template-background-clip">Glitter</span></a></li></ul>
+<ul><li><img alt="Ticket" height="25" src="img/Ticket.png" width="25"/>18 <a href="ticket.html"><span class="color-template color-template-ticket color-template-background-clip">Tickets</span></a></li>
+<li><img alt="Stinger" height="25" src="img/Stinger.png" width="25"/>11 <a href="stinger.html"><span class="color-template color-template-stinger color-template-background-clip">Stingers</span></a></li>
+<li><img alt="Red Balloon" height="25" src="img/Red_Balloon.png" width="25"/>1 <a href="red-balloon.html"><span class="color-template color-template-red-balloon color-template-background-clip">Red Balloon</span></a></li>
+<li><img alt="Micro-Converter" height="25" src="img/Micro-Converter.png" width="25"/>10 <a href="micro-converter.html"><span class="color-template color-template-micro-converter color-template-background-clip">Micro-Converters</span></a></li>
+<li><img alt="Glitter" height="25" src="img/Glitter.png" width="25"/>3 <a href="glitter.html"><span class="color-template color-template-glitter color-template-background-clip">Glitter</span></a></li></ul>
 </td></tr>
 <tr>
 <td>19
 </td>
 <td>
-<ul><li><span typeof="mw:Error mw:File"></span>19 <a href="ticket.html"><span class="color-template color-template-ticket color-template-background-clip">Tickets</span></a></li>
-<li><span typeof="mw:Error mw:File"></span>11 <a href="stinger.html"><span class="color-template color-template-stinger color-template-background-clip">Stingers</span></a></li>
-<li><span typeof="mw:Error mw:File"></span>1 <a href="red-balloon.html"><span class="color-template color-template-red-balloon color-template-background-clip">Red Balloon</span></a></li>
-<li><span typeof="mw:Error mw:File"></span>1 <a href="drives.html#Red_Drive"><span class="color-template color-template-red-drive color-template-background-clip">Red Drive</span></a></li>
-<li><span typeof="mw:Error mw:File"></span>3 <a href="glue.html"><span class="color-template color-template-glue color-template-background-clip">Glues</span></a></li></ul>
+<ul><li><img alt="Ticket" height="25" src="img/Ticket.png" width="25"/>19 <a href="ticket.html"><span class="color-template color-template-ticket color-template-background-clip">Tickets</span></a></li>
+<li><img alt="Stinger" height="25" src="img/Stinger.png" width="25"/>11 <a href="stinger.html"><span class="color-template color-template-stinger color-template-background-clip">Stingers</span></a></li>
+<li><img alt="Red Balloon" height="25" src="img/Red_Balloon.png" width="25"/>1 <a href="red-balloon.html"><span class="color-template color-template-red-balloon color-template-background-clip">Red Balloon</span></a></li>
+<li><img alt="Red Drive" height="25" src="img/Red_Drive.png" width="25"/>1 <a href="drives.html#Red_Drive"><span class="color-template color-template-red-drive color-template-background-clip">Red Drive</span></a></li>
+<li><img alt="Glue" height="25" src="img/Glue.png" width="25"/>3 <a href="glue.html"><span class="color-template color-template-glue color-template-background-clip">Glues</span></a></li></ul>
 </td></tr>
 <tr>
 <td><b>20</b>
 </td>
 <td>
-<ul><li><span typeof="mw:Error mw:File"></span>20 <a href="ticket.html"><span class="color-template color-template-ticket color-template-background-clip">Tickets</span></a></li>
-<li><span typeof="mw:Error mw:File"></span>12 <a href="stinger.html"><span class="color-template color-template-stinger color-template-background-clip">Stingers</span></a></li>
-<li><span typeof="mw:Error mw:File"></span>1 <a href="white-balloon.html"><span class="color-template color-template-white-balloon color-template-background-clip">White Balloon</span></a></li>
-<li><span typeof="mw:Error mw:File"></span>1 <a href="ticket-planter.html"><span class="color-template color-template-ticket-planter color-template-background-clip">Ticket Planter</span></a></li>
-<li><span typeof="mw:Error mw:File"></span>1 <a href="drives.html#Red_Drive"><span class="color-template color-template-red-drive color-template-background-clip">Red Drive</span></a></li>
-<li><span typeof="mw:Error mw:File"></span>1 <a href="drives.html#White_Drive"><span class="color-template color-template-white-drive color-template-background-clip">White Drive</span></a></li>
-<li><span typeof="mw:Error mw:File"></span>1 <a href="drives.html#Blue_Drive"><span class="color-template color-template-blue-drive color-template-background-clip">Blue Drive</span></a></li></ul>
+<ul><li><img alt="Ticket" height="25" src="img/Ticket.png" width="25"/>20 <a href="ticket.html"><span class="color-template color-template-ticket color-template-background-clip">Tickets</span></a></li>
+<li><img alt="Stinger" height="25" src="img/Stinger.png" width="25"/>12 <a href="stinger.html"><span class="color-template color-template-stinger color-template-background-clip">Stingers</span></a></li>
+<li><img alt="White Balloon" height="25" src="img/White_Balloon.png" width="25"/>1 <a href="white-balloon.html"><span class="color-template color-template-white-balloon color-template-background-clip">White Balloon</span></a></li>
+<li><img alt="Ticket Planter" height="25" src="img/Ticket_Planter.png" width="25"/>1 <a href="ticket-planter.html"><span class="color-template color-template-ticket-planter color-template-background-clip">Ticket Planter</span></a></li>
+<li><img alt="Red Drive" height="25" src="img/Red_Drive.png" width="25"/>1 <a href="drives.html#Red_Drive"><span class="color-template color-template-red-drive color-template-background-clip">Red Drive</span></a></li>
+<li><img alt="White Drive" height="25" src="img/White_Drive.png" width="25"/>1 <a href="drives.html#White_Drive"><span class="color-template color-template-white-drive color-template-background-clip">White Drive</span></a></li>
+<li><img alt="Blue Drive" height="25" src="img/Blue_Drive.png" width="25"/>1 <a href="drives.html#Blue_Drive"><span class="color-template color-template-blue-drive color-template-background-clip">Blue Drive</span></a></li></ul>
 </td></tr>
 <tr>
 <td>21
 </td>
 <td>
-<ul><li><span typeof="mw:Error mw:File"></span>21 <a href="ticket.html"><span class="color-template color-template-ticket color-template-background-clip">Tickets</span></a></li>
-<li><span typeof="mw:Error mw:File"></span>12 <a href="stinger.html"><span class="color-template color-template-stinger color-template-background-clip">Stingers</span></a></li>
-<li><span typeof="mw:Error mw:File"></span>3 <a href="pink-balloon.html"><span class="color-template color-template-pink-balloon color-template-background-clip">Pink Balloons</span></a></li>
-<li><span typeof="mw:Error mw:File"></span>1 <a href="drives.html#Blue_Drive"><span class="color-template color-template-blue-drive color-template-background-clip">Blue Drive</span></a></li>
-<li><span typeof="mw:Error mw:File"></span>1 <a href="smooth-dice.html"><span class="color-template color-template-smooth-dice color-template-background-clip">Smooth Dice</span></a></li>
-<li><span typeof="mw:Error mw:File"></span>300 <a href="pineapple.html"><span class="color-template color-template-pineapple color-template-background-clip">Pineapples</span></a></li></ul>
+<ul><li><img alt="Ticket" height="25" src="img/Ticket.png" width="25"/>21 <a href="ticket.html"><span class="color-template color-template-ticket color-template-background-clip">Tickets</span></a></li>
+<li><img alt="Stinger" height="25" src="img/Stinger.png" width="25"/>12 <a href="stinger.html"><span class="color-template color-template-stinger color-template-background-clip">Stingers</span></a></li>
+<li><img alt="Pink Balloon" height="25" src="img/Pink_Balloon.png" width="25"/>3 <a href="pink-balloon.html"><span class="color-template color-template-pink-balloon color-template-background-clip">Pink Balloons</span></a></li>
+<li><img alt="Blue Drive" height="25" src="img/Blue_Drive.png" width="25"/>1 <a href="drives.html#Blue_Drive"><span class="color-template color-template-blue-drive color-template-background-clip">Blue Drive</span></a></li>
+<li><img alt="Smooth Dice" height="25" src="img/Smooth_Dice.png" width="25"/>1 <a href="smooth-dice.html"><span class="color-template color-template-smooth-dice color-template-background-clip">Smooth Dice</span></a></li>
+<li><img alt="Pineapple" height="25" src="img/Pineapple.png" width="25"/>300 <a href="pineapple.html"><span class="color-template color-template-pineapple color-template-background-clip">Pineapples</span></a></li></ul>
 </td></tr>
 <tr>
 <td>22
 </td>
 <td>
-<ul><li><span typeof="mw:Error mw:File"></span>22 <a href="ticket.html"><span class="color-template color-template-ticket color-template-background-clip">Tickets</span></a></li>
-<li><span typeof="mw:Error mw:File"></span>13 <a href="stinger.html"><span class="color-template color-template-stinger color-template-background-clip">Stingers</span></a></li>
-<li><span typeof="mw:Error mw:File"></span>1 <a href="white-balloon.html"><span class="color-template color-template-white-balloon color-template-background-clip">White Balloon</span></a></li>
-<li><span typeof="mw:Error mw:File"></span>1 <a href="drives.html#Red_Drive"><span class="color-template color-template-red-drive color-template-background-clip">Red Drive</span></a></li>
-<li><span typeof="mw:Error mw:File"></span>1 <a href="robo-pass.html"><span class="color-template color-template-robo-pass color-template-background-clip">Robo Pass</span></a></li>
-<li><span typeof="mw:Error mw:File"></span>4 <a href="glitter.html"><span class="color-template color-template-glitter color-template-background-clip">Glitter</span></a></li></ul>
+<ul><li><img alt="Ticket" height="25" src="img/Ticket.png" width="25"/>22 <a href="ticket.html"><span class="color-template color-template-ticket color-template-background-clip">Tickets</span></a></li>
+<li><img alt="Stinger" height="25" src="img/Stinger.png" width="25"/>13 <a href="stinger.html"><span class="color-template color-template-stinger color-template-background-clip">Stingers</span></a></li>
+<li><img alt="White Balloon" height="25" src="img/White_Balloon.png" width="25"/>1 <a href="white-balloon.html"><span class="color-template color-template-white-balloon color-template-background-clip">White Balloon</span></a></li>
+<li><img alt="Red Drive" height="25" src="img/Red_Drive.png" width="25"/>1 <a href="drives.html#Red_Drive"><span class="color-template color-template-red-drive color-template-background-clip">Red Drive</span></a></li>
+<li><img alt="Robo Pass" height="25" src="img/Robo_Pass.png" width="25"/>1 <a href="robo-pass.html"><span class="color-template color-template-robo-pass color-template-background-clip">Robo Pass</span></a></li>
+<li><img alt="Glitter" height="25" src="img/Glitter.png" width="25"/>4 <a href="glitter.html"><span class="color-template color-template-glitter color-template-background-clip">Glitter</span></a></li></ul>
 </td></tr>
 <tr>
 <td>23
 </td>
 <td>
-<ul><li><span typeof="mw:Error mw:File"></span>23 <a href="ticket.html"><span class="color-template color-template-ticket color-template-background-clip">Tickets</span></a></li>
-<li><span typeof="mw:Error mw:File"></span>13 <a href="stinger.html"><span class="color-template color-template-stinger color-template-background-clip">Stingers</span></a></li>
-<li><span typeof="mw:Error mw:File"></span>2 <a href="red-balloon.html"><span class="color-template color-template-red-balloon color-template-background-clip">Red Balloons</span></a></li>
-<li><span typeof="mw:Error mw:File"></span>1 <a href="drives.html#Blue_Drive"><span class="color-template color-template-blue-drive color-template-background-clip">Blue Drive</span></a></li>
-<li><span typeof="mw:Error mw:File"></span>25 <a href="whirligig.html"><span class="color-template color-template-whirligig color-template-background-clip">Whirligigs</span></a></li>
-<li><span typeof="mw:Error mw:File"></span>1 <a href="swirled-wax.html"><span class="color-template color-template-swirled-wax color-template-background-clip">Swirled Wax</span></a></li></ul>
+<ul><li><img alt="Ticket" height="25" src="img/Ticket.png" width="25"/>23 <a href="ticket.html"><span class="color-template color-template-ticket color-template-background-clip">Tickets</span></a></li>
+<li><img alt="Stinger" height="25" src="img/Stinger.png" width="25"/>13 <a href="stinger.html"><span class="color-template color-template-stinger color-template-background-clip">Stingers</span></a></li>
+<li><img alt="Red Balloon" height="25" src="img/Red_Balloon.png" width="25"/>2 <a href="red-balloon.html"><span class="color-template color-template-red-balloon color-template-background-clip">Red Balloons</span></a></li>
+<li><img alt="Blue Drive" height="25" src="img/Blue_Drive.png" width="25"/>1 <a href="drives.html#Blue_Drive"><span class="color-template color-template-blue-drive color-template-background-clip">Blue Drive</span></a></li>
+<li><img alt="Whirligig" height="25" src="img/Whirligig.png" width="25"/>25 <a href="whirligig.html"><span class="color-template color-template-whirligig color-template-background-clip">Whirligigs</span></a></li>
+<li><img alt="Swirled Wax" height="25" src="img/Swirled_Wax.png" width="25"/>1 <a href="swirled-wax.html"><span class="color-template color-template-swirled-wax color-template-background-clip">Swirled Wax</span></a></li></ul>
 </td></tr>
 <tr>
 <td>24
 </td>
 <td>
-<ul><li><span typeof="mw:Error mw:File"></span>24 <a href="ticket.html"><span class="color-template color-template-ticket color-template-background-clip">Tickets</span></a></li>
-<li><span typeof="mw:Error mw:File"></span>14 <a href="stinger.html"><span class="color-template color-template-stinger color-template-background-clip">Stingers</span></a></li>
-<li><span typeof="mw:Error mw:File"></span>1 <a href="white-balloon.html"><span class="color-template color-template-white-balloon color-template-background-clip">White Balloon</span></a></li>
-<li><span typeof="mw:Error mw:File"></span>1 <a href="drives.html#White_Drive"><span class="color-template color-template-white-drive color-template-background-clip">White Drive</span></a></li>
-<li><span typeof="mw:Error mw:File"></span>40 <a href="honeysuckle.html"><span class="color-template color-template-honeysuckle color-template-background-clip">Honeysuckles</span></a></li>
-<li><span typeof="mw:Error mw:File"></span>1 <a href="caustic-wax.html"><span class="color-template color-template-caustic-wax">Caustic Wax</span></a></li></ul>
+<ul><li><img alt="Ticket" height="25" src="img/Ticket.png" width="25"/>24 <a href="ticket.html"><span class="color-template color-template-ticket color-template-background-clip">Tickets</span></a></li>
+<li><img alt="Stinger" height="25" src="img/Stinger.png" width="25"/>14 <a href="stinger.html"><span class="color-template color-template-stinger color-template-background-clip">Stingers</span></a></li>
+<li><img alt="White Balloon" height="25" src="img/White_Balloon.png" width="25"/>1 <a href="white-balloon.html"><span class="color-template color-template-white-balloon color-template-background-clip">White Balloon</span></a></li>
+<li><img alt="White Drive" height="25" src="img/White_Drive.png" width="25"/>1 <a href="drives.html#White_Drive"><span class="color-template color-template-white-drive color-template-background-clip">White Drive</span></a></li>
+<li><img alt="Honeysuckle" height="25" src="img/Honeysuckle.png" width="25"/>40 <a href="honeysuckle.html"><span class="color-template color-template-honeysuckle color-template-background-clip">Honeysuckles</span></a></li>
+<li><img alt="Caustic Wax" height="25" src="img/Caustic_Wax.png" width="25"/>1 <a href="caustic-wax.html"><span class="color-template color-template-caustic-wax">Caustic Wax</span></a></li></ul>
 </td></tr>
 <tr>
 <td><b>25</b>
 </td>
 <td>
-<ul><li><span typeof="mw:Error mw:File"></span>25 <a href="ticket.html"><span class="color-template color-template-ticket color-template-background-clip">Tickets</span></a></li>
-<li><span typeof="mw:Error mw:File"></span>14 <a href="stinger.html"><span class="color-template color-template-stinger color-template-background-clip">Stingers</span></a></li>
-<li><span typeof="mw:Error mw:File"></span>1 <a href="present.html"><span class="color-template color-template-present color-template-background-clip">Present</span></a></li>
-<li><span typeof="mw:Error mw:File"></span>1 <a href="black-balloon.html"><span class="color-template color-template-black-balloon">Black Balloon</span></a></li>
-<li><span typeof="mw:Error mw:File"></span>1 <a href="drives.html#Glitched_Drive"><span class="color-template color-template-glitched-drive color-template-background-clip">Glitched Drive</span></a></li>
-<li><span typeof="mw:Error mw:File"></span>10 <a href="neonberry.html"><span class="color-template color-template-neonberry color-template-background-clip">Neonberries</span></a></li></ul>
+<ul><li><img alt="Ticket" height="25" src="img/Ticket.png" width="25"/>25 <a href="ticket.html"><span class="color-template color-template-ticket color-template-background-clip">Tickets</span></a></li>
+<li><img alt="Stinger" height="25" src="img/Stinger.png" width="25"/>14 <a href="stinger.html"><span class="color-template color-template-stinger color-template-background-clip">Stingers</span></a></li>
+<li><img alt="Present" height="25" src="img/Present.png" width="25"/>1 <a href="present.html"><span class="color-template color-template-present color-template-background-clip">Present</span></a></li>
+<li><img alt="Black Balloon" height="25" src="img/Black_Balloon.png" width="25"/>1 <a href="black-balloon.html"><span class="color-template color-template-black-balloon">Black Balloon</span></a></li>
+<li><img alt="Glitched Drive" height="25" src="img/Glitched_Drive.png" width="25"/>1 <a href="drives.html#Glitched_Drive"><span class="color-template color-template-glitched-drive color-template-background-clip">Glitched Drive</span></a></li>
+<li><img alt="Neonberry" height="25" src="img/Neonberry.png" width="25"/>10 <a href="neonberry.html"><span class="color-template color-template-neonberry color-template-background-clip">Neonberries</span></a></li></ul>
 </td></tr>
 <tr>
 <td>26
 </td>
 <td>
-<ul><li><span typeof="mw:Error mw:File"></span>26 <a href="ticket.html"><span class="color-template color-template-ticket color-template-background-clip">Tickets</span></a></li>
-<li><span typeof="mw:Error mw:File"></span>15 <a href="stinger.html"><span class="color-template color-template-stinger color-template-background-clip">Stingers</span></a></li>
-<li><span typeof="mw:Error mw:File"></span>3 <a href="pink-balloon.html"><span class="color-template color-template-pink-balloon color-template-background-clip">Pink Balloons</span></a></li>
-<li><span typeof="mw:Error mw:File"></span>1 <a href="drives.html#Red_Drive"><span class="color-template color-template-red-drive color-template-background-clip">Red Drive</span></a></li>
-<li><span typeof="mw:Error mw:File"></span>5 <a href="oil.html"><span class="color-template color-template-oil color-template-background-clip">Oils</span></a></li>
-<li><span typeof="mw:Error mw:File"></span>1 <a href="purple-potion.html"><span class="color-template color-template-purple-potion color-template-background-clip">Purple Potion</span></a></li></ul>
+<ul><li><img alt="Ticket" height="25" src="img/Ticket.png" width="25"/>26 <a href="ticket.html"><span class="color-template color-template-ticket color-template-background-clip">Tickets</span></a></li>
+<li><img alt="Stinger" height="25" src="img/Stinger.png" width="25"/>15 <a href="stinger.html"><span class="color-template color-template-stinger color-template-background-clip">Stingers</span></a></li>
+<li><img alt="Pink Balloon" height="25" src="img/Pink_Balloon.png" width="25"/>3 <a href="pink-balloon.html"><span class="color-template color-template-pink-balloon color-template-background-clip">Pink Balloons</span></a></li>
+<li><img alt="Red Drive" height="25" src="img/Red_Drive.png" width="25"/>1 <a href="drives.html#Red_Drive"><span class="color-template color-template-red-drive color-template-background-clip">Red Drive</span></a></li>
+<li><img alt="Oil" height="25" src="img/Oil.png" width="25"/>5 <a href="oil.html"><span class="color-template color-template-oil color-template-background-clip">Oils</span></a></li>
+<li><img alt="Purple Potion" height="25" src="img/Purple_Potion.png" width="25"/>1 <a href="purple-potion.html"><span class="color-template color-template-purple-potion color-template-background-clip">Purple Potion</span></a></li></ul>
 </td></tr>
 <tr>
 <td>27
 </td>
 <td>
-<ul><li><span typeof="mw:Error mw:File"></span>27 <a href="ticket.html"><span class="color-template color-template-ticket color-template-background-clip">Tickets</span></a></li>
-<li><span typeof="mw:Error mw:File"></span>15 <a href="stinger.html"><span class="color-template color-template-stinger color-template-background-clip">Stingers</span></a></li>
-<li><span typeof="mw:Error mw:File"></span>1 <a href="red-balloon.html"><span class="color-template color-template-red-balloon color-template-background-clip">Red Balloon</span></a></li>
-<li><span typeof="mw:Error mw:File"></span>1 <a href="drives.html#Blue_Drive"><span class="color-template color-template-blue-drive color-template-background-clip">Blue Drive</span></a></li>
-<li><span typeof="mw:Error mw:File"></span>5 <a href="blue-extract.html"><span class="color-template color-template-blue-extract color-template-background-clip">Blue Extracts</span></a></li>
-<li><span typeof="mw:Error mw:File"></span>5 <a href="hard-wax.html"><span class="color-template color-template-hard-wax">Hard Waxes</span></a></li></ul>
+<ul><li><img alt="Ticket" height="25" src="img/Ticket.png" width="25"/>27 <a href="ticket.html"><span class="color-template color-template-ticket color-template-background-clip">Tickets</span></a></li>
+<li><img alt="Stinger" height="25" src="img/Stinger.png" width="25"/>15 <a href="stinger.html"><span class="color-template color-template-stinger color-template-background-clip">Stingers</span></a></li>
+<li><img alt="Red Balloon" height="25" src="img/Red_Balloon.png" width="25"/>1 <a href="red-balloon.html"><span class="color-template color-template-red-balloon color-template-background-clip">Red Balloon</span></a></li>
+<li><img alt="Blue Drive" height="25" src="img/Blue_Drive.png" width="25"/>1 <a href="drives.html#Blue_Drive"><span class="color-template color-template-blue-drive color-template-background-clip">Blue Drive</span></a></li>
+<li><img alt="Blue Extract" height="25" src="img/Blue_Extract.png" width="25"/>5 <a href="blue-extract.html"><span class="color-template color-template-blue-extract color-template-background-clip">Blue Extracts</span></a></li>
+<li><img alt="Hard Wax" height="25" src="img/Hard_Wax.png" width="25"/>5 <a href="hard-wax.html"><span class="color-template color-template-hard-wax">Hard Waxes</span></a></li></ul>
 </td></tr>
 <tr>
 <td>28
 </td>
 <td>
-<ul><li><span typeof="mw:Error mw:File"></span>28 <a href="ticket.html"><span class="color-template color-template-ticket color-template-background-clip">Tickets</span></a></li>
-<li><span typeof="mw:Error mw:File"></span>16 <a href="stinger.html"><span class="color-template color-template-stinger color-template-background-clip">Stingers</span></a></li>
-<li><span typeof="mw:Error mw:File"></span>1 <a href="white-balloon.html"><span class="color-template color-template-white-balloon color-template-background-clip">White Balloon</span></a></li>
-<li><span typeof="mw:Error mw:File"></span>1 <a href="drives.html#White_Drive"><span class="color-template color-template-white-drive color-template-background-clip">White Drive</span></a></li>
-<li><span typeof="mw:Error mw:File"></span>25 <a href="honeysuckle.html"><span class="color-template color-template-honeysuckle color-template-background-clip">Honeysuckles</span></a></li>
-<li><span typeof="mw:Error mw:File"></span>3 <a href="magic-bean.html"><span class="color-template color-template-magic-bean color-template-background-clip">Magic Beans</span></a></li></ul>
+<ul><li><img alt="Ticket" height="25" src="img/Ticket.png" width="25"/>28 <a href="ticket.html"><span class="color-template color-template-ticket color-template-background-clip">Tickets</span></a></li>
+<li><img alt="Stinger" height="25" src="img/Stinger.png" width="25"/>16 <a href="stinger.html"><span class="color-template color-template-stinger color-template-background-clip">Stingers</span></a></li>
+<li><img alt="White Balloon" height="25" src="img/White_Balloon.png" width="25"/>1 <a href="white-balloon.html"><span class="color-template color-template-white-balloon color-template-background-clip">White Balloon</span></a></li>
+<li><img alt="White Drive" height="25" src="img/White_Drive.png" width="25"/>1 <a href="drives.html#White_Drive"><span class="color-template color-template-white-drive color-template-background-clip">White Drive</span></a></li>
+<li><img alt="Honeysuckle" height="25" src="img/Honeysuckle.png" width="25"/>25 <a href="honeysuckle.html"><span class="color-template color-template-honeysuckle color-template-background-clip">Honeysuckles</span></a></li>
+<li><img alt="Magic Bean" height="25" src="img/Magic_Bean.png" width="25"/>3 <a href="magic-bean.html"><span class="color-template color-template-magic-bean color-template-background-clip">Magic Beans</span></a></li></ul>
 </td></tr>
 <tr>
 <td>29
 </td>
 <td>
-<ul><li><span typeof="mw:Error mw:File"></span>29 <a href="ticket.html"><span class="color-template color-template-ticket color-template-background-clip">Tickets</span></a></li>
-<li><span typeof="mw:Error mw:File"></span>16 <a href="stinger.html"><span class="color-template color-template-stinger color-template-background-clip">Stingers</span></a></li>
-<li><span typeof="mw:Error mw:File"></span>1 <a href="white-balloon.html"><span class="color-template color-template-white-balloon color-template-background-clip">White Balloon</span></a></li>
-<li><span typeof="mw:Error mw:File"></span>1 <a href="drives.html#Red_Drive"><span class="color-template color-template-red-drive color-template-background-clip">Red Drive</span></a></li>
-<li><span typeof="mw:Error mw:File"></span>1 <a href="purple-potion.html"><span class="color-template color-template-purple-potion color-template-background-clip">Purple Potion</span></a></li>
-<li><span typeof="mw:Error mw:File"></span>2 <a href="robo-pass.html"><span class="color-template color-template-robo-pass color-template-background-clip">Robo Passes</span></a></li></ul>
+<ul><li><img alt="Ticket" height="25" src="img/Ticket.png" width="25"/>29 <a href="ticket.html"><span class="color-template color-template-ticket color-template-background-clip">Tickets</span></a></li>
+<li><img alt="Stinger" height="25" src="img/Stinger.png" width="25"/>16 <a href="stinger.html"><span class="color-template color-template-stinger color-template-background-clip">Stingers</span></a></li>
+<li><img alt="White Balloon" height="25" src="img/White_Balloon.png" width="25"/>1 <a href="white-balloon.html"><span class="color-template color-template-white-balloon color-template-background-clip">White Balloon</span></a></li>
+<li><img alt="Red Drive" height="25" src="img/Red_Drive.png" width="25"/>1 <a href="drives.html#Red_Drive"><span class="color-template color-template-red-drive color-template-background-clip">Red Drive</span></a></li>
+<li><img alt="Purple Potion" height="25" src="img/Purple_Potion.png" width="25"/>1 <a href="purple-potion.html"><span class="color-template color-template-purple-potion color-template-background-clip">Purple Potion</span></a></li>
+<li><img alt="Robo Pass" height="25" src="img/Robo_Pass.png" width="25"/>2 <a href="robo-pass.html"><span class="color-template color-template-robo-pass color-template-background-clip">Robo Passes</span></a></li></ul>
 </td></tr>
 <tr>
 <td><b>30</b>
 </td>
 <td>
-<ul><li><span typeof="mw:Error mw:File"></span>30 <a href="ticket.html"><span class="color-template color-template-ticket color-template-background-clip">Tickets</span></a></li>
-<li><span typeof="mw:Error mw:File"></span>17 <a href="stinger.html"><span class="color-template color-template-stinger color-template-background-clip">Stingers</span></a></li>
-<li><span typeof="mw:Error mw:File"></span>1 <a href="black-balloon.html"><span class="color-template color-template-black-balloon">Black Balloon</span></a></li>
-<li><span typeof="mw:Error mw:File"></span>1 <a href="drives.html#Glitched_Drive"><span class="color-template color-template-glitched-drive color-template-background-clip">Glitched Drive</span></a></li>
-<li><span typeof="mw:Error mw:File"></span>10 <a href="neonberry.html"><span class="color-template color-template-neonberry color-template-background-clip">Neonberries</span></a></li>
-<li><span typeof="mw:Error mw:File"></span>1 <a href="super-smoothie.html"><span class="color-template color-template-super-smoothie color-template-background-clip">Super Smoothie</span></a></li></ul>
+<ul><li><img alt="Ticket" height="25" src="img/Ticket.png" width="25"/>30 <a href="ticket.html"><span class="color-template color-template-ticket color-template-background-clip">Tickets</span></a></li>
+<li><img alt="Stinger" height="25" src="img/Stinger.png" width="25"/>17 <a href="stinger.html"><span class="color-template color-template-stinger color-template-background-clip">Stingers</span></a></li>
+<li><img alt="Black Balloon" height="25" src="img/Black_Balloon.png" width="25"/>1 <a href="black-balloon.html"><span class="color-template color-template-black-balloon">Black Balloon</span></a></li>
+<li><img alt="Glitched Drive" height="25" src="img/Glitched_Drive.png" width="25"/>1 <a href="drives.html#Glitched_Drive"><span class="color-template color-template-glitched-drive color-template-background-clip">Glitched Drive</span></a></li>
+<li><img alt="Neonberry" height="25" src="img/Neonberry.png" width="25"/>10 <a href="neonberry.html"><span class="color-template color-template-neonberry color-template-background-clip">Neonberries</span></a></li>
+<li><img alt="Super Smoothie" height="25" src="img/Super_Smoothie.png" width="25"/>1 <a href="super-smoothie.html"><span class="color-template color-template-super-smoothie color-template-background-clip">Super Smoothie</span></a></li></ul>
 </td></tr>
 <tr>
 <td>31
 </td>
 <td>
-<ul><li><span typeof="mw:Error mw:File"></span>31 <a href="ticket.html"><span class="color-template color-template-ticket color-template-background-clip">Tickets</span></a></li>
-<li><span typeof="mw:Error mw:File"></span>17 <a href="stinger.html"><span class="color-template color-template-stinger color-template-background-clip">Stingers</span></a></li>
-<li><span typeof="mw:Error mw:File"></span>2 <a href="red-balloon.html"><span class="color-template color-template-red-balloon color-template-background-clip">Red Balloons</span></a></li>
-<li><span typeof="mw:Error mw:File"></span>1 <a href="drives.html#Red_Drive"><span class="color-template color-template-red-drive color-template-background-clip">Red Drive</span></a></li>
-<li><span typeof="mw:Error mw:File"></span>500 <a href="pineapple.html"><span class="color-template color-template-pineapple color-template-background-clip">Pineapples</span></a></li>
-<li><span typeof="mw:Error mw:File"></span>1 <a href="swirled-wax.html"><span class="color-template color-template-swirled-wax color-template-background-clip">Swirled Wax</span></a></li></ul>
+<ul><li><img alt="Ticket" height="25" src="img/Ticket.png" width="25"/>31 <a href="ticket.html"><span class="color-template color-template-ticket color-template-background-clip">Tickets</span></a></li>
+<li><img alt="Stinger" height="25" src="img/Stinger.png" width="25"/>17 <a href="stinger.html"><span class="color-template color-template-stinger color-template-background-clip">Stingers</span></a></li>
+<li><img alt="Red Balloon" height="25" src="img/Red_Balloon.png" width="25"/>2 <a href="red-balloon.html"><span class="color-template color-template-red-balloon color-template-background-clip">Red Balloons</span></a></li>
+<li><img alt="Red Drive" height="25" src="img/Red_Drive.png" width="25"/>1 <a href="drives.html#Red_Drive"><span class="color-template color-template-red-drive color-template-background-clip">Red Drive</span></a></li>
+<li><img alt="Pineapple" height="25" src="img/Pineapple.png" width="25"/>500 <a href="pineapple.html"><span class="color-template color-template-pineapple color-template-background-clip">Pineapples</span></a></li>
+<li><img alt="Swirled Wax" height="25" src="img/Swirled_Wax.png" width="25"/>1 <a href="swirled-wax.html"><span class="color-template color-template-swirled-wax color-template-background-clip">Swirled Wax</span></a></li></ul>
 </td></tr>
 <tr>
 <td>32
 </td>
 <td>
-<ul><li><span typeof="mw:Error mw:File"></span>32 <a href="ticket.html"><span class="color-template color-template-ticket color-template-background-clip">Tickets</span></a></li>
-<li><span typeof="mw:Error mw:File"></span>18 <a href="stinger.html"><span class="color-template color-template-stinger color-template-background-clip">Stingers</span></a></li>
-<li><span typeof="mw:Error mw:File"></span>4 <a href="pink-balloon.html"><span class="color-template color-template-pink-balloon color-template-background-clip">Pink Balloons</span></a></li>
-<li><span typeof="mw:Error mw:File"></span>1 <a href="drives.html#Blue_Drive"><span class="color-template color-template-blue-drive color-template-background-clip">Blue Drive</span></a></li>
-<li><span typeof="mw:Error mw:File"></span>500 <a href="sunflower-seed.html"><span class="color-template color-template-sunflower-seed color-template-background-clip">Sunflower Seeds</span></a></li>
-<li><span typeof="mw:Error mw:File"></span>1 <a href="caustic-wax.html"><span class="color-template color-template-caustic-wax">Caustic Wax</span></a></li>
-<li><span typeof="mw:Error mw:File"></span>1 <a href="sticker.html#Sticker_Index"><span class="color-template color-template-party-robo-bear-sticker color-template-background-clip">Party Robo Bear Sticker</span></a></li></ul>
+<ul><li><img alt="Ticket" height="25" src="img/Ticket.png" width="25"/>32 <a href="ticket.html"><span class="color-template color-template-ticket color-template-background-clip">Tickets</span></a></li>
+<li><img alt="Stinger" height="25" src="img/Stinger.png" width="25"/>18 <a href="stinger.html"><span class="color-template color-template-stinger color-template-background-clip">Stingers</span></a></li>
+<li><img alt="Pink Balloon" height="25" src="img/Pink_Balloon.png" width="25"/>4 <a href="pink-balloon.html"><span class="color-template color-template-pink-balloon color-template-background-clip">Pink Balloons</span></a></li>
+<li><img alt="Blue Drive" height="25" src="img/Blue_Drive.png" width="25"/>1 <a href="drives.html#Blue_Drive"><span class="color-template color-template-blue-drive color-template-background-clip">Blue Drive</span></a></li>
+<li><img alt="Sunflower Seed" height="25" src="img/Sunflower_Seed.png" width="25"/>500 <a href="sunflower-seed.html"><span class="color-template color-template-sunflower-seed color-template-background-clip">Sunflower Seeds</span></a></li>
+<li><img alt="Caustic Wax" height="25" src="img/Caustic_Wax.png" width="25"/>1 <a href="caustic-wax.html"><span class="color-template color-template-caustic-wax">Caustic Wax</span></a></li>
+<li><img alt="Sticker" height="25" src="img/Sticker.png" width="25"/>1 <a href="sticker.html#Sticker_Index"><span class="color-template color-template-party-robo-bear-sticker color-template-background-clip">Party Robo Bear Sticker</span></a></li></ul>
 </td></tr>
 <tr>
 <td>33
 </td>
 <td>
-<ul><li><span typeof="mw:Error mw:File"></span>33 <a href="ticket.html"><span class="color-template color-template-ticket color-template-background-clip">Tickets</span></a></li>
-<li><span typeof="mw:Error mw:File"></span>18 <a href="stinger.html"><span class="color-template color-template-stinger color-template-background-clip">Stingers</span></a></li>
-<li><span typeof="mw:Error mw:File"></span>1 <a href="white-balloon.html"><span class="color-template color-template-white-balloon color-template-background-clip">White Balloon</span></a></li>
-<li><span typeof="mw:Error mw:File"></span>1 <a href="drives.html#White_Drive"><span class="color-template color-template-white-drive color-template-background-clip">White Drive</span></a></li>
-<li><span typeof="mw:Error mw:File"></span>5 <a href="tropical-drink.html"><span class="color-template color-template-tropical-drink color-template-background-clip">Tropical Drinks</span></a></li>
-<li><span typeof="mw:Error mw:File"></span>15 <a href="soft-wax.html"><span class="color-template color-template-soft-wax">Soft Waxes</span></a></li></ul>
+<ul><li><img alt="Ticket" height="25" src="img/Ticket.png" width="25"/>33 <a href="ticket.html"><span class="color-template color-template-ticket color-template-background-clip">Tickets</span></a></li>
+<li><img alt="Stinger" height="25" src="img/Stinger.png" width="25"/>18 <a href="stinger.html"><span class="color-template color-template-stinger color-template-background-clip">Stingers</span></a></li>
+<li><img alt="White Balloon" height="25" src="img/White_Balloon.png" width="25"/>1 <a href="white-balloon.html"><span class="color-template color-template-white-balloon color-template-background-clip">White Balloon</span></a></li>
+<li><img alt="White Drive" height="25" src="img/White_Drive.png" width="25"/>1 <a href="drives.html#White_Drive"><span class="color-template color-template-white-drive color-template-background-clip">White Drive</span></a></li>
+<li><img alt="Tropical Drink" height="25" src="img/Tropical_Drink.png" width="25"/>5 <a href="tropical-drink.html"><span class="color-template color-template-tropical-drink color-template-background-clip">Tropical Drinks</span></a></li>
+<li><img alt="Soft Wax" height="25" src="img/Soft_Wax.png" width="25"/>15 <a href="soft-wax.html"><span class="color-template color-template-soft-wax">Soft Waxes</span></a></li></ul>
 </td></tr>
 <tr>
 <td>34
 </td>
 <td>
-<ul><li><span typeof="mw:Error mw:File"></span>34 <a href="ticket.html"><span class="color-template color-template-ticket color-template-background-clip">Tickets</span></a></li>
-<li><span typeof="mw:Error mw:File"></span>19 <a href="stinger.html"><span class="color-template color-template-stinger color-template-background-clip">Stingers</span></a></li>
-<li><span typeof="mw:Error mw:File"></span>2 <a href="red-balloon.html"><span class="color-template color-template-red-balloon color-template-background-clip">Red Balloons</span></a></li>
-<li><span typeof="mw:Error mw:File"></span>2 <a href="drives.html#Red_Drive"><span class="color-template color-template-red-drive color-template-background-clip">Red Drives</span></a></li>
-<li><span typeof="mw:Error mw:File"></span>100 <a href="moon-charm.html"><span class="color-template color-template-moon-charm color-template-background-clip">Moon Charms</span></a></li>
-<li><span typeof="mw:Error mw:File"></span>1 <a href="swirled-wax.html"><span class="color-template color-template-swirled-wax color-template-background-clip">Swirled Wax</span></a></li></ul>
+<ul><li><img alt="Ticket" height="25" src="img/Ticket.png" width="25"/>34 <a href="ticket.html"><span class="color-template color-template-ticket color-template-background-clip">Tickets</span></a></li>
+<li><img alt="Stinger" height="25" src="img/Stinger.png" width="25"/>19 <a href="stinger.html"><span class="color-template color-template-stinger color-template-background-clip">Stingers</span></a></li>
+<li><img alt="Red Balloon" height="25" src="img/Red_Balloon.png" width="25"/>2 <a href="red-balloon.html"><span class="color-template color-template-red-balloon color-template-background-clip">Red Balloons</span></a></li>
+<li><img alt="Red Drive" height="25" src="img/Red_Drive.png" width="25"/>2 <a href="drives.html#Red_Drive"><span class="color-template color-template-red-drive color-template-background-clip">Red Drives</span></a></li>
+<li><img alt="Moon Charm" height="25" src="img/Moon_Charm.png" width="25"/>100 <a href="moon-charm.html"><span class="color-template color-template-moon-charm color-template-background-clip">Moon Charms</span></a></li>
+<li><img alt="Swirled Wax" height="25" src="img/Swirled_Wax.png" width="25"/>1 <a href="swirled-wax.html"><span class="color-template color-template-swirled-wax color-template-background-clip">Swirled Wax</span></a></li></ul>
 </td></tr>
 <tr>
 <td><b>35</b>
 </td>
 <td>
-<ul><li><span typeof="mw:Error mw:File"></span>35 <a href="ticket.html"><span class="color-template color-template-ticket color-template-background-clip">Tickets</span></a></li>
-<li><span typeof="mw:Error mw:File"></span>19 <a href="stinger.html"><span class="color-template color-template-stinger color-template-background-clip">Stingers</span></a></li>
-<li><span typeof="mw:Error mw:File"></span>1 <a href="white-balloon.html"><span class="color-template color-template-white-balloon color-template-background-clip">White Balloon</span></a></li>
-<li><span typeof="mw:Error mw:File"></span>2 <a href="drives.html#Blue_Drive"><span class="color-template color-template-blue-drive color-template-background-clip">Blue Drives</span></a></li>
-<li><span typeof="mw:Error mw:File"></span>100 <a href="gumdrops.html"><span class="color-template color-template-gumdrops color-template-background-clip">Gumdrops</span></a></li>
-<li><span typeof="mw:Error mw:File"></span>1 <a href="caustic-wax.html"><span class="color-template color-template-caustic-wax">Caustic Wax</span></a></li></ul>
+<ul><li><img alt="Ticket" height="25" src="img/Ticket.png" width="25"/>35 <a href="ticket.html"><span class="color-template color-template-ticket color-template-background-clip">Tickets</span></a></li>
+<li><img alt="Stinger" height="25" src="img/Stinger.png" width="25"/>19 <a href="stinger.html"><span class="color-template color-template-stinger color-template-background-clip">Stingers</span></a></li>
+<li><img alt="White Balloon" height="25" src="img/White_Balloon.png" width="25"/>1 <a href="white-balloon.html"><span class="color-template color-template-white-balloon color-template-background-clip">White Balloon</span></a></li>
+<li><img alt="Blue Drive" height="25" src="img/Blue_Drive.png" width="25"/>2 <a href="drives.html#Blue_Drive"><span class="color-template color-template-blue-drive color-template-background-clip">Blue Drives</span></a></li>
+<li><img alt="Gumdrops" height="25" src="img/Gumdrops.png" width="25"/>100 <a href="gumdrops.html"><span class="color-template color-template-gumdrops color-template-background-clip">Gumdrops</span></a></li>
+<li><img alt="Caustic Wax" height="25" src="img/Caustic_Wax.png" width="25"/>1 <a href="caustic-wax.html"><span class="color-template color-template-caustic-wax">Caustic Wax</span></a></li></ul>
 </td></tr>
 <tr>
 <td>36
 </td>
 <td>
-<ul><li><span typeof="mw:Error mw:File"></span>36 <a href="ticket.html"><span class="color-template color-template-ticket color-template-background-clip">Tickets</span></a></li>
-<li><span typeof="mw:Error mw:File"></span>20 <a href="stinger.html"><span class="color-template color-template-stinger color-template-background-clip">Stingers</span></a></li>
-<li><span typeof="mw:Error mw:File"></span>5 <a href="pink-balloon.html"><span class="color-template color-template-pink-balloon color-template-background-clip">Pink Balloons</span></a></li>
-<li><span typeof="mw:Error mw:File"></span>2 <a href="drives.html#White_Drive"><span class="color-template color-template-white-drive color-template-background-clip">White Drives</span></a></li>
-<li><span typeof="mw:Error mw:File"></span>5 <a href="red-extract.html"><span class="color-template color-template-red-extract color-template-background-clip">Red Extracts</span></a></li>
-<li><span typeof="mw:Error mw:File"></span>3 <a href="royal-jelly.html#Star_Jelly"><span class="color-template color-template-star-jelly color-template-background-clip">Star Jellies</span></a></li></ul>
+<ul><li><img alt="Ticket" height="25" src="img/Ticket.png" width="25"/>36 <a href="ticket.html"><span class="color-template color-template-ticket color-template-background-clip">Tickets</span></a></li>
+<li><img alt="Stinger" height="25" src="img/Stinger.png" width="25"/>20 <a href="stinger.html"><span class="color-template color-template-stinger color-template-background-clip">Stingers</span></a></li>
+<li><img alt="Pink Balloon" height="25" src="img/Pink_Balloon.png" width="25"/>5 <a href="pink-balloon.html"><span class="color-template color-template-pink-balloon color-template-background-clip">Pink Balloons</span></a></li>
+<li><img alt="White Drive" height="25" src="img/White_Drive.png" width="25"/>2 <a href="drives.html#White_Drive"><span class="color-template color-template-white-drive color-template-background-clip">White Drives</span></a></li>
+<li><img alt="Red Extract" height="25" src="img/Red_Extract.png" width="25"/>5 <a href="red-extract.html"><span class="color-template color-template-red-extract color-template-background-clip">Red Extracts</span></a></li>
+<li><img alt="Star Jelly" height="25" src="img/Star_Jelly.png" width="25"/>3 <a href="royal-jelly.html#Star_Jelly"><span class="color-template color-template-star-jelly color-template-background-clip">Star Jellies</span></a></li></ul>
 </td></tr>
 <tr>
 <td>37
 </td>
 <td>
-<ul><li><span typeof="mw:Error mw:File"></span>37 <a href="ticket.html"><span class="color-template color-template-ticket color-template-background-clip">Tickets</span></a></li>
-<li><span typeof="mw:Error mw:File"></span>20 <a href="stinger.html"><span class="color-template color-template-stinger color-template-background-clip">Stingers</span></a></li>
-<li><span typeof="mw:Error mw:File"></span>1 <a href="white-balloon.html"><span class="color-template color-template-white-balloon color-template-background-clip">White Balloon</span></a></li>
-<li><span typeof="mw:Error mw:File"></span>2 <a href="drives.html#Red_Drive"><span class="color-template color-template-red-drive color-template-background-clip">Red Drives</span></a></li>
-<li><span typeof="mw:Error mw:File"></span>5 <a href="blue-extract.html"><span class="color-template color-template-blue-extract color-template-background-clip">Blue Extracts</span></a></li>
-<li><span typeof="mw:Error mw:File"></span>1 <a href="purple-potion.html"><span class="color-template color-template-purple-potion color-template-background-clip">Purple Potion</span></a></li></ul>
+<ul><li><img alt="Ticket" height="25" src="img/Ticket.png" width="25"/>37 <a href="ticket.html"><span class="color-template color-template-ticket color-template-background-clip">Tickets</span></a></li>
+<li><img alt="Stinger" height="25" src="img/Stinger.png" width="25"/>20 <a href="stinger.html"><span class="color-template color-template-stinger color-template-background-clip">Stingers</span></a></li>
+<li><img alt="White Balloon" height="25" src="img/White_Balloon.png" width="25"/>1 <a href="white-balloon.html"><span class="color-template color-template-white-balloon color-template-background-clip">White Balloon</span></a></li>
+<li><img alt="Red Drive" height="25" src="img/Red_Drive.png" width="25"/>2 <a href="drives.html#Red_Drive"><span class="color-template color-template-red-drive color-template-background-clip">Red Drives</span></a></li>
+<li><img alt="Blue Extract" height="25" src="img/Blue_Extract.png" width="25"/>5 <a href="blue-extract.html"><span class="color-template color-template-blue-extract color-template-background-clip">Blue Extracts</span></a></li>
+<li><img alt="Purple Potion" height="25" src="img/Purple_Potion.png" width="25"/>1 <a href="purple-potion.html"><span class="color-template color-template-purple-potion color-template-background-clip">Purple Potion</span></a></li></ul>
 </td></tr>
 <tr>
 <td>38
 </td>
 <td>
-<ul><li><span typeof="mw:Error mw:File"></span>38 <a href="ticket.html"><span class="color-template color-template-ticket color-template-background-clip">Tickets</span></a></li>
-<li><span typeof="mw:Error mw:File"></span>21 <a href="stinger.html"><span class="color-template color-template-stinger color-template-background-clip">Stingers</span></a></li>
-<li><span typeof="mw:Error mw:File"></span>1 <a href="white-balloon.html"><span class="color-template color-template-white-balloon color-template-background-clip">White Balloon</span></a></li>
-<li><span typeof="mw:Error mw:File"></span>2 <a href="drives.html#Blue_Drive"><span class="color-template color-template-blue-drive color-template-background-clip">Blue Drives</span></a></li>
-<li><span typeof="mw:Error mw:File"></span>3 <a href="smooth-dice.html"><span class="color-template color-template-smooth-dice color-template-background-clip">Smooth Dice</span></a></li>
-<li><span typeof="mw:Error mw:File"></span>200 <a href="honeysuckle.html"><span class="color-template color-template-honeysuckle color-template-background-clip">Honeysuckles</span></a></li></ul>
+<ul><li><img alt="Ticket" height="25" src="img/Ticket.png" width="25"/>38 <a href="ticket.html"><span class="color-template color-template-ticket color-template-background-clip">Tickets</span></a></li>
+<li><img alt="Stinger" height="25" src="img/Stinger.png" width="25"/>21 <a href="stinger.html"><span class="color-template color-template-stinger color-template-background-clip">Stingers</span></a></li>
+<li><img alt="White Balloon" height="25" src="img/White_Balloon.png" width="25"/>1 <a href="white-balloon.html"><span class="color-template color-template-white-balloon color-template-background-clip">White Balloon</span></a></li>
+<li><img alt="Blue Drive" height="25" src="img/Blue_Drive.png" width="25"/>2 <a href="drives.html#Blue_Drive"><span class="color-template color-template-blue-drive color-template-background-clip">Blue Drives</span></a></li>
+<li><img alt="Smooth Dice" height="25" src="img/Smooth_Dice.png" width="25"/>3 <a href="smooth-dice.html"><span class="color-template color-template-smooth-dice color-template-background-clip">Smooth Dice</span></a></li>
+<li><img alt="Honeysuckle" height="25" src="img/Honeysuckle.png" width="25"/>200 <a href="honeysuckle.html"><span class="color-template color-template-honeysuckle color-template-background-clip">Honeysuckles</span></a></li></ul>
 </td></tr>
 <tr>
 <td>39
 </td>
 <td>
-<ul><li><span typeof="mw:Error mw:File"></span>39 <a href="ticket.html"><span class="color-template color-template-ticket color-template-background-clip">Tickets</span></a></li>
-<li><span typeof="mw:Error mw:File"></span>21 <a href="stinger.html"><span class="color-template color-template-stinger color-template-background-clip">Stingers</span></a></li>
-<li><span typeof="mw:Error mw:File"></span>1 <a href="white-balloon.html"><span class="color-template color-template-white-balloon color-template-background-clip">White Balloon</span></a></li>
-<li><span typeof="mw:Error mw:File"></span>2 <a href="drives.html#White_Drive"><span class="color-template color-template-white-drive color-template-background-clip">White Drives</span></a></li>
-<li><span typeof="mw:Error mw:File"></span>25 <a href="whirligig.html"><span class="color-template color-template-whirligig color-template-background-clip">Whirligigs</span></a></li>
-<li><span typeof="mw:Error mw:File"></span>1 <a href="super-smoothie.html"><span class="color-template color-template-super-smoothie color-template-background-clip">Super Smoothie</span></a></li></ul>
+<ul><li><img alt="Ticket" height="25" src="img/Ticket.png" width="25"/>39 <a href="ticket.html"><span class="color-template color-template-ticket color-template-background-clip">Tickets</span></a></li>
+<li><img alt="Stinger" height="25" src="img/Stinger.png" width="25"/>21 <a href="stinger.html"><span class="color-template color-template-stinger color-template-background-clip">Stingers</span></a></li>
+<li><img alt="White Balloon" height="25" src="img/White_Balloon.png" width="25"/>1 <a href="white-balloon.html"><span class="color-template color-template-white-balloon color-template-background-clip">White Balloon</span></a></li>
+<li><img alt="White Drive" height="25" src="img/White_Drive.png" width="25"/>2 <a href="drives.html#White_Drive"><span class="color-template color-template-white-drive color-template-background-clip">White Drives</span></a></li>
+<li><img alt="Whirligig" height="25" src="img/Whirligig.png" width="25"/>25 <a href="whirligig.html"><span class="color-template color-template-whirligig color-template-background-clip">Whirligigs</span></a></li>
+<li><img alt="Super Smoothie" height="25" src="img/Super_Smoothie.png" width="25"/>1 <a href="super-smoothie.html"><span class="color-template color-template-super-smoothie color-template-background-clip">Super Smoothie</span></a></li></ul>
 </td></tr>
 <tr>
 <td><b>40</b>
 </td>
 <td>
-<ul><li><span typeof="mw:Error mw:File"></span>40 <a href="ticket.html"><span class="color-template color-template-ticket color-template-background-clip">Tickets</span></a></li>
-<li><span typeof="mw:Error mw:File"></span>22 <a href="stinger.html"><span class="color-template color-template-stinger color-template-background-clip">Stingers</span></a></li>
-<li><span typeof="mw:Error mw:File"></span>1 <a href="black-balloon.html"><span class="color-template color-template-black-balloon">Black Balloon</span></a></li>
-<li><span typeof="mw:Error mw:File"></span>1 <a href="drives.html#Glitched_Drive"><span class="color-template color-template-glitched-drive color-template-background-clip">Glitched Drive</span></a></li>
-<li><span typeof="mw:Error mw:File"></span>1 <a href="atomic-treat.html"><span class="color-template color-template-atomic-treat color-template-background-clip">Atomic Treat</span></a></li>
-<li><span typeof="mw:Error mw:File"></span>1 <a href="festive-planter.html"><span class="color-template color-template-festive-planter color-template-background-clip">Festive Planter</span></a></li></ul>
+<ul><li><img alt="Ticket" height="25" src="img/Ticket.png" width="25"/>40 <a href="ticket.html"><span class="color-template color-template-ticket color-template-background-clip">Tickets</span></a></li>
+<li><img alt="Stinger" height="25" src="img/Stinger.png" width="25"/>22 <a href="stinger.html"><span class="color-template color-template-stinger color-template-background-clip">Stingers</span></a></li>
+<li><img alt="Black Balloon" height="25" src="img/Black_Balloon.png" width="25"/>1 <a href="black-balloon.html"><span class="color-template color-template-black-balloon">Black Balloon</span></a></li>
+<li><img alt="Glitched Drive" height="25" src="img/Glitched_Drive.png" width="25"/>1 <a href="drives.html#Glitched_Drive"><span class="color-template color-template-glitched-drive color-template-background-clip">Glitched Drive</span></a></li>
+<li><img alt="Atomic Treat" height="25" src="img/Atomic_Treat.png" width="25"/>1 <a href="atomic-treat.html"><span class="color-template color-template-atomic-treat color-template-background-clip">Atomic Treat</span></a></li>
+<li><img alt="Festive Planter" height="25" src="img/Festive_Planter.png" width="25"/>1 <a href="festive-planter.html"><span class="color-template color-template-festive-planter color-template-background-clip">Festive Planter</span></a></li></ul>
 </td></tr>
 <tr>
 <td>41
 </td>
 <td>
-<ul><li><span typeof="mw:Error mw:File"></span>41 <a href="ticket.html"><span class="color-template color-template-ticket color-template-background-clip">Tickets</span></a></li>
-<li><span typeof="mw:Error mw:File"></span>22 <a href="stinger.html"><span class="color-template color-template-stinger color-template-background-clip">Stingers</span></a></li>
-<li><span typeof="mw:Error mw:File"></span>1 <a href="black-balloon.html"><span class="color-template color-template-black-balloon">Black Balloon</span></a></li>
-<li><span typeof="mw:Error mw:File"></span>3 <a href="drives.html#Red_Drive"><span class="color-template color-template-red-drive color-template-background-clip">Red Drives</span></a></li>
-<li><span typeof="mw:Error mw:File"></span>500 <a href="strawberry.html"><span class="color-template color-template-strawberry color-template-background-clip">Strawberries</span></a></li>
-<li><span typeof="mw:Error mw:File"></span>5 <a href="glitter.html"><span class="color-template color-template-glitter color-template-background-clip">Glitter</span></a></li></ul>
+<ul><li><img alt="Ticket" height="25" src="img/Ticket.png" width="25"/>41 <a href="ticket.html"><span class="color-template color-template-ticket color-template-background-clip">Tickets</span></a></li>
+<li><img alt="Stinger" height="25" src="img/Stinger.png" width="25"/>22 <a href="stinger.html"><span class="color-template color-template-stinger color-template-background-clip">Stingers</span></a></li>
+<li><img alt="Black Balloon" height="25" src="img/Black_Balloon.png" width="25"/>1 <a href="black-balloon.html"><span class="color-template color-template-black-balloon">Black Balloon</span></a></li>
+<li><img alt="Red Drive" height="25" src="img/Red_Drive.png" width="25"/>3 <a href="drives.html#Red_Drive"><span class="color-template color-template-red-drive color-template-background-clip">Red Drives</span></a></li>
+<li><img alt="Strawberry" height="25" src="img/Strawberry.png" width="25"/>500 <a href="strawberry.html"><span class="color-template color-template-strawberry color-template-background-clip">Strawberries</span></a></li>
+<li><img alt="Glitter" height="25" src="img/Glitter.png" width="25"/>5 <a href="glitter.html"><span class="color-template color-template-glitter color-template-background-clip">Glitter</span></a></li></ul>
 </td></tr>
 <tr>
 <td>42
 </td>
 <td>
-<ul><li><span typeof="mw:Error mw:File"></span>42 <a href="ticket.html"><span class="color-template color-template-ticket color-template-background-clip">Tickets</span></a></li>
-<li><span typeof="mw:Error mw:File"></span>23 <a href="stinger.html"><span class="color-template color-template-stinger color-template-background-clip">Stingers</span></a></li>
-<li><span typeof="mw:Error mw:File"></span>1 <a href="black-balloon.html"><span class="color-template color-template-black-balloon">Black Balloon</span></a></li>
-<li><span typeof="mw:Error mw:File"></span>3 <a href="drives.html#White_Drive"><span class="color-template color-template-white-drive color-template-background-clip">White Drives</span></a></li>
-<li><span typeof="mw:Error mw:File"></span>1 <a href="swirled-wax.html"><span class="color-template color-template-swirled-wax color-template-background-clip">Swirled Wax</span></a></li>
-<li><span typeof="mw:Error mw:File"></span>5 <a href="glue.html"><span class="color-template color-template-glue color-template-background-clip">Glues</span></a></li></ul>
+<ul><li><img alt="Ticket" height="25" src="img/Ticket.png" width="25"/>42 <a href="ticket.html"><span class="color-template color-template-ticket color-template-background-clip">Tickets</span></a></li>
+<li><img alt="Stinger" height="25" src="img/Stinger.png" width="25"/>23 <a href="stinger.html"><span class="color-template color-template-stinger color-template-background-clip">Stingers</span></a></li>
+<li><img alt="Black Balloon" height="25" src="img/Black_Balloon.png" width="25"/>1 <a href="black-balloon.html"><span class="color-template color-template-black-balloon">Black Balloon</span></a></li>
+<li><img alt="White Drive" height="25" src="img/White_Drive.png" width="25"/>3 <a href="drives.html#White_Drive"><span class="color-template color-template-white-drive color-template-background-clip">White Drives</span></a></li>
+<li><img alt="Swirled Wax" height="25" src="img/Swirled_Wax.png" width="25"/>1 <a href="swirled-wax.html"><span class="color-template color-template-swirled-wax color-template-background-clip">Swirled Wax</span></a></li>
+<li><img alt="Glue" height="25" src="img/Glue.png" width="25"/>5 <a href="glue.html"><span class="color-template color-template-glue color-template-background-clip">Glues</span></a></li></ul>
 </td></tr>
 <tr>
 <td>43
 </td>
 <td>
-<ul><li><span typeof="mw:Error mw:File"></span>43 <a href="ticket.html"><span class="color-template color-template-ticket color-template-background-clip">Tickets</span></a></li>
-<li><span typeof="mw:Error mw:File"></span>23 <a href="stinger.html"><span class="color-template color-template-stinger color-template-background-clip">Stingers</span></a></li>
-<li><span typeof="mw:Error mw:File"></span>1 <a href="black-balloon.html"><span class="color-template color-template-black-balloon">Black Balloon</span></a></li>
-<li><span typeof="mw:Error mw:File"></span>3 <a href="drives.html#White_Drive"><span class="color-template color-template-white-drive color-template-background-clip">White Drives</span></a></li>
-<li><span typeof="mw:Error mw:File"></span>1 <a href="caustic-wax.html"><span class="color-template color-template-caustic-wax">Caustic Wax</span></a></li>
-<li><span typeof="mw:Error mw:File"></span>3 <a href="robo-pass.html"><span class="color-template color-template-robo-pass color-template-background-clip">Robo Passes</span></a></li></ul>
+<ul><li><img alt="Ticket" height="25" src="img/Ticket.png" width="25"/>43 <a href="ticket.html"><span class="color-template color-template-ticket color-template-background-clip">Tickets</span></a></li>
+<li><img alt="Stinger" height="25" src="img/Stinger.png" width="25"/>23 <a href="stinger.html"><span class="color-template color-template-stinger color-template-background-clip">Stingers</span></a></li>
+<li><img alt="Black Balloon" height="25" src="img/Black_Balloon.png" width="25"/>1 <a href="black-balloon.html"><span class="color-template color-template-black-balloon">Black Balloon</span></a></li>
+<li><img alt="White Drive" height="25" src="img/White_Drive.png" width="25"/>3 <a href="drives.html#White_Drive"><span class="color-template color-template-white-drive color-template-background-clip">White Drives</span></a></li>
+<li><img alt="Caustic Wax" height="25" src="img/Caustic_Wax.png" width="25"/>1 <a href="caustic-wax.html"><span class="color-template color-template-caustic-wax">Caustic Wax</span></a></li>
+<li><img alt="Robo Pass" height="25" src="img/Robo_Pass.png" width="25"/>3 <a href="robo-pass.html"><span class="color-template color-template-robo-pass color-template-background-clip">Robo Passes</span></a></li></ul>
 </td></tr>
 <tr>
 <td>44
 </td>
 <td>
-<ul><li><span typeof="mw:Error mw:File"></span>44 <a href="ticket.html"><span class="color-template color-template-ticket color-template-background-clip">Tickets</span></a></li>
-<li><span typeof="mw:Error mw:File"></span>24 <a href="stinger.html"><span class="color-template color-template-stinger color-template-background-clip">Stingers</span></a></li>
-<li><span typeof="mw:Error mw:File"></span>1 <a href="black-balloon.html"><span class="color-template color-template-black-balloon">Black Balloon</span></a></li>
-<li><span typeof="mw:Error mw:File"></span>1 <a href="drives.html#Glitched_Drive"><span class="color-template color-template-glitched-drive color-template-background-clip">Glitched Drive</span></a></li>
-<li><span typeof="mw:Error mw:File"></span>4 <a href="magic-bean.html"><span class="color-template color-template-magic-bean color-template-background-clip">Magic Beans</span></a></li>
-<li><span typeof="mw:Error mw:File"></span>1 <a href="super-smoothie.html"><span class="color-template color-template-super-smoothie color-template-background-clip">Super Smoothie</span></a></li></ul>
+<ul><li><img alt="Ticket" height="25" src="img/Ticket.png" width="25"/>44 <a href="ticket.html"><span class="color-template color-template-ticket color-template-background-clip">Tickets</span></a></li>
+<li><img alt="Stinger" height="25" src="img/Stinger.png" width="25"/>24 <a href="stinger.html"><span class="color-template color-template-stinger color-template-background-clip">Stingers</span></a></li>
+<li><img alt="Black Balloon" height="25" src="img/Black_Balloon.png" width="25"/>1 <a href="black-balloon.html"><span class="color-template color-template-black-balloon">Black Balloon</span></a></li>
+<li><img alt="Glitched Drive" height="25" src="img/Glitched_Drive.png" width="25"/>1 <a href="drives.html#Glitched_Drive"><span class="color-template color-template-glitched-drive color-template-background-clip">Glitched Drive</span></a></li>
+<li><img alt="Magic Bean" height="25" src="img/Magic_Bean.png" width="25"/>4 <a href="magic-bean.html"><span class="color-template color-template-magic-bean color-template-background-clip">Magic Beans</span></a></li>
+<li><img alt="Super Smoothie" height="25" src="img/Super_Smoothie.png" width="25"/>1 <a href="super-smoothie.html"><span class="color-template color-template-super-smoothie color-template-background-clip">Super Smoothie</span></a></li></ul>
 </td></tr>
 <tr>
 <td><b>45</b>
 </td>
 <td>
-<ul><li><span typeof="mw:Error mw:File"></span>45 <a href="ticket.html"><span class="color-template color-template-ticket color-template-background-clip">Tickets</span></a></li>
-<li><span typeof="mw:Error mw:File"></span>24 <a href="stinger.html"><span class="color-template color-template-stinger color-template-background-clip">Stingers</span></a></li>
-<li><span typeof="mw:Error mw:File"></span>1 <a href="black-balloon.html"><span class="color-template color-template-black-balloon">Black Balloon</span></a></li>
-<li><span typeof="mw:Error mw:File"></span>1 <a href="drives.html#Glitched_Drive"><span class="color-template color-template-glitched-drive color-template-background-clip">Glitched Drive</span></a></li>
-<li><span typeof="mw:Error mw:File"></span>10 <a href="neonberry.html"><span class="color-template color-template-neonberry color-template-background-clip">Neonberries</span></a></li>
-<li><span typeof="mw:Error mw:File"></span>1 <a href="turpentine.html"><span class="color-template color-template-turpentine color-template-background-clip">Turpentine</span></a></li></ul>
+<ul><li><img alt="Ticket" height="25" src="img/Ticket.png" width="25"/>45 <a href="ticket.html"><span class="color-template color-template-ticket color-template-background-clip">Tickets</span></a></li>
+<li><img alt="Stinger" height="25" src="img/Stinger.png" width="25"/>24 <a href="stinger.html"><span class="color-template color-template-stinger color-template-background-clip">Stingers</span></a></li>
+<li><img alt="Black Balloon" height="25" src="img/Black_Balloon.png" width="25"/>1 <a href="black-balloon.html"><span class="color-template color-template-black-balloon">Black Balloon</span></a></li>
+<li><img alt="Glitched Drive" height="25" src="img/Glitched_Drive.png" width="25"/>1 <a href="drives.html#Glitched_Drive"><span class="color-template color-template-glitched-drive color-template-background-clip">Glitched Drive</span></a></li>
+<li><img alt="Neonberry" height="25" src="img/Neonberry.png" width="25"/>10 <a href="neonberry.html"><span class="color-template color-template-neonberry color-template-background-clip">Neonberries</span></a></li>
+<li><img alt="Turpentine" height="25" src="img/Turpentine.png" width="25"/>1 <a href="turpentine.html"><span class="color-template color-template-turpentine color-template-background-clip">Turpentine</span></a></li></ul>
 </td></tr>
 <tr>
 <td>46
 </td>
 <td>
-<ul><li><span typeof="mw:Error mw:File"></span>46 <a href="ticket.html"><span class="color-template color-template-ticket color-template-background-clip">Tickets</span></a></li>
-<li><span typeof="mw:Error mw:File"></span>25 <a href="stinger.html"><span class="color-template color-template-stinger color-template-background-clip">Stingers</span></a></li>
-<li><span typeof="mw:Error mw:File"></span>1 <a href="black-balloon.html"><span class="color-template color-template-black-balloon">Black Balloon</span></a></li>
-<li><span typeof="mw:Error mw:File"></span>1 <a href="drives.html#Glitched_Drive"><span class="color-template color-template-glitched-drive color-template-background-clip">Glitched Drive</span></a></li>
-<li><span typeof="mw:Error mw:File"></span>25 <a href="whirligig.html"><span class="color-template color-template-whirligig color-template-background-clip">Whirligigs</span></a></li>
-<li><span typeof="mw:Error mw:File"></span>1 <a href="super-smoothie.html"><span class="color-template color-template-super-smoothie color-template-background-clip">Super Smoothie</span></a></li></ul>
+<ul><li><img alt="Ticket" height="25" src="img/Ticket.png" width="25"/>46 <a href="ticket.html"><span class="color-template color-template-ticket color-template-background-clip">Tickets</span></a></li>
+<li><img alt="Stinger" height="25" src="img/Stinger.png" width="25"/>25 <a href="stinger.html"><span class="color-template color-template-stinger color-template-background-clip">Stingers</span></a></li>
+<li><img alt="Black Balloon" height="25" src="img/Black_Balloon.png" width="25"/>1 <a href="black-balloon.html"><span class="color-template color-template-black-balloon">Black Balloon</span></a></li>
+<li><img alt="Glitched Drive" height="25" src="img/Glitched_Drive.png" width="25"/>1 <a href="drives.html#Glitched_Drive"><span class="color-template color-template-glitched-drive color-template-background-clip">Glitched Drive</span></a></li>
+<li><img alt="Whirligig" height="25" src="img/Whirligig.png" width="25"/>25 <a href="whirligig.html"><span class="color-template color-template-whirligig color-template-background-clip">Whirligigs</span></a></li>
+<li><img alt="Super Smoothie" height="25" src="img/Super_Smoothie.png" width="25"/>1 <a href="super-smoothie.html"><span class="color-template color-template-super-smoothie color-template-background-clip">Super Smoothie</span></a></li></ul>
 </td></tr>
 <tr>
 <td>47
 </td>
 <td>
-<ul><li><span typeof="mw:Error mw:File"></span>47 <a href="ticket.html"><span class="color-template color-template-ticket color-template-background-clip">Tickets</span></a></li>
-<li><span typeof="mw:Error mw:File"></span>25 <a href="stinger.html"><span class="color-template color-template-stinger color-template-background-clip">Stingers</span></a></li>
-<li><span typeof="mw:Error mw:File"></span>1 <a href="black-balloon.html"><span class="color-template color-template-black-balloon">Black Balloon</span></a></li>
-<li><span typeof="mw:Error mw:File"></span>1 <a href="drives.html#Glitched_Drive"><span class="color-template color-template-glitched-drive color-template-background-clip">Glitched Drive</span></a></li>
-<li><span typeof="mw:Error mw:File"></span>3 <a href="loaded-dice.html"><span class="color-template color-template-loaded-dice color-template-background-clip">Loaded Dice</span></a></li>
-<li><span typeof="mw:Error mw:File"></span>1 <a href="super-smoothie.html"><span class="color-template color-template-super-smoothie color-template-background-clip">Super Smoothie</span></a></li></ul>
+<ul><li><img alt="Ticket" height="25" src="img/Ticket.png" width="25"/>47 <a href="ticket.html"><span class="color-template color-template-ticket color-template-background-clip">Tickets</span></a></li>
+<li><img alt="Stinger" height="25" src="img/Stinger.png" width="25"/>25 <a href="stinger.html"><span class="color-template color-template-stinger color-template-background-clip">Stingers</span></a></li>
+<li><img alt="Black Balloon" height="25" src="img/Black_Balloon.png" width="25"/>1 <a href="black-balloon.html"><span class="color-template color-template-black-balloon">Black Balloon</span></a></li>
+<li><img alt="Glitched Drive" height="25" src="img/Glitched_Drive.png" width="25"/>1 <a href="drives.html#Glitched_Drive"><span class="color-template color-template-glitched-drive color-template-background-clip">Glitched Drive</span></a></li>
+<li><img alt="Loaded Dice" height="25" src="img/Loaded_Dice.png" width="25"/>3 <a href="loaded-dice.html"><span class="color-template color-template-loaded-dice color-template-background-clip">Loaded Dice</span></a></li>
+<li><img alt="Super Smoothie" height="25" src="img/Super_Smoothie.png" width="25"/>1 <a href="super-smoothie.html"><span class="color-template color-template-super-smoothie color-template-background-clip">Super Smoothie</span></a></li></ul>
 </td></tr>
 <tr>
 <td>48
 </td>
 <td>
-<ul><li><span typeof="mw:Error mw:File"></span>48 <a href="ticket.html"><span class="color-template color-template-ticket color-template-background-clip">Tickets</span></a></li>
-<li><span typeof="mw:Error mw:File"></span>26 <a href="stinger.html"><span class="color-template color-template-stinger color-template-background-clip">Stingers</span></a></li>
-<li><span typeof="mw:Error mw:File"></span>1 <a href="black-balloon.html"><span class="color-template color-template-black-balloon">Black Balloon</span></a></li>
-<li><span typeof="mw:Error mw:File"></span>1 <a href="drives.html#Glitched_Drive"><span class="color-template color-template-glitched-drive color-template-background-clip">Glitched Drive</span></a></li>
-<li><span typeof="mw:Error mw:File"></span>3 <a href="loaded-dice.html"><span class="color-template color-template-loaded-dice color-template-background-clip">Loaded Dice</span></a></li>
-<li><span typeof="mw:Error mw:File"></span>1 <a href="super-smoothie.html"><span class="color-template color-template-super-smoothie color-template-background-clip">Super Smoothie</span></a></li></ul>
+<ul><li><img alt="Ticket" height="25" src="img/Ticket.png" width="25"/>48 <a href="ticket.html"><span class="color-template color-template-ticket color-template-background-clip">Tickets</span></a></li>
+<li><img alt="Stinger" height="25" src="img/Stinger.png" width="25"/>26 <a href="stinger.html"><span class="color-template color-template-stinger color-template-background-clip">Stingers</span></a></li>
+<li><img alt="Black Balloon" height="25" src="img/Black_Balloon.png" width="25"/>1 <a href="black-balloon.html"><span class="color-template color-template-black-balloon">Black Balloon</span></a></li>
+<li><img alt="Glitched Drive" height="25" src="img/Glitched_Drive.png" width="25"/>1 <a href="drives.html#Glitched_Drive"><span class="color-template color-template-glitched-drive color-template-background-clip">Glitched Drive</span></a></li>
+<li><img alt="Loaded Dice" height="25" src="img/Loaded_Dice.png" width="25"/>3 <a href="loaded-dice.html"><span class="color-template color-template-loaded-dice color-template-background-clip">Loaded Dice</span></a></li>
+<li><img alt="Super Smoothie" height="25" src="img/Super_Smoothie.png" width="25"/>1 <a href="super-smoothie.html"><span class="color-template color-template-super-smoothie color-template-background-clip">Super Smoothie</span></a></li></ul>
 </td></tr>
 <tr>
 <td>49
 </td>
 <td>
-<ul><li><span typeof="mw:Error mw:File"></span>49 <a href="ticket.html"><span class="color-template color-template-ticket color-template-background-clip">Tickets</span></a></li>
-<li><span typeof="mw:Error mw:File"></span>26 <a href="stinger.html"><span class="color-template color-template-stinger color-template-background-clip">Stingers</span></a></li>
-<li><span typeof="mw:Error mw:File"></span>1 <a href="black-balloon.html"><span class="color-template color-template-black-balloon">Black Balloon</span></a></li>
-<li><span typeof="mw:Error mw:File"></span>1 <a href="drives.html#Glitched_Drive"><span class="color-template color-template-glitched-drive color-template-background-clip">Glitched Drive</span></a></li>
-<li><span typeof="mw:Error mw:File"></span>10 <a href="glitter.html"><span class="color-template color-template-glitter color-template-background-clip">Glitter</span></a></li>
-<li><span typeof="mw:Error mw:File"></span>1 <a href="super-smoothie.html"><span class="color-template color-template-super-smoothie color-template-background-clip">Super Smoothie</span></a></li></ul>
+<ul><li><img alt="Ticket" height="25" src="img/Ticket.png" width="25"/>49 <a href="ticket.html"><span class="color-template color-template-ticket color-template-background-clip">Tickets</span></a></li>
+<li><img alt="Stinger" height="25" src="img/Stinger.png" width="25"/>26 <a href="stinger.html"><span class="color-template color-template-stinger color-template-background-clip">Stingers</span></a></li>
+<li><img alt="Black Balloon" height="25" src="img/Black_Balloon.png" width="25"/>1 <a href="black-balloon.html"><span class="color-template color-template-black-balloon">Black Balloon</span></a></li>
+<li><img alt="Glitched Drive" height="25" src="img/Glitched_Drive.png" width="25"/>1 <a href="drives.html#Glitched_Drive"><span class="color-template color-template-glitched-drive color-template-background-clip">Glitched Drive</span></a></li>
+<li><img alt="Glitter" height="25" src="img/Glitter.png" width="25"/>10 <a href="glitter.html"><span class="color-template color-template-glitter color-template-background-clip">Glitter</span></a></li>
+<li><img alt="Super Smoothie" height="25" src="img/Super_Smoothie.png" width="25"/>1 <a href="super-smoothie.html"><span class="color-template color-template-super-smoothie color-template-background-clip">Super Smoothie</span></a></li></ul>
 </td></tr>
 <tr>
 <td><b>50</b>
 </td>
 <td>
-<ul><li><span typeof="mw:Error mw:File"></span>50 <a href="ticket.html"><span class="color-template color-template-ticket color-template-background-clip">Tickets</span></a></li>
-<li><span typeof="mw:Error mw:File"></span>27 <a href="stinger.html"><span class="color-template color-template-stinger color-template-background-clip">Stingers</span></a></li>
-<li><span typeof="mw:Error mw:File"></span>1 <a href="black-balloon.html"><span class="color-template color-template-black-balloon">Black Balloon</span></a></li>
-<li><span typeof="mw:Error mw:File"></span>1 <a href="drives.html#Glitched_Drive"><span class="color-template color-template-glitched-drive color-template-background-clip">Glitched Drive</span></a></li>
-<li><span typeof="mw:Error mw:File"></span>1 <a href="festive-planter.html"><span class="color-template color-template-festive-planter color-template-background-clip">Festive Planter</span></a></li>
-<li><span typeof="mw:Error mw:File"></span>1 <a href="turpentine.html"><span class="color-template color-template-turpentine color-template-background-clip">Turpentine</span></a></li></ul>
+<ul><li><img alt="Ticket" height="25" src="img/Ticket.png" width="25"/>50 <a href="ticket.html"><span class="color-template color-template-ticket color-template-background-clip">Tickets</span></a></li>
+<li><img alt="Stinger" height="25" src="img/Stinger.png" width="25"/>27 <a href="stinger.html"><span class="color-template color-template-stinger color-template-background-clip">Stingers</span></a></li>
+<li><img alt="Black Balloon" height="25" src="img/Black_Balloon.png" width="25"/>1 <a href="black-balloon.html"><span class="color-template color-template-black-balloon">Black Balloon</span></a></li>
+<li><img alt="Glitched Drive" height="25" src="img/Glitched_Drive.png" width="25"/>1 <a href="drives.html#Glitched_Drive"><span class="color-template color-template-glitched-drive color-template-background-clip">Glitched Drive</span></a></li>
+<li><img alt="Festive Planter" height="25" src="img/Festive_Planter.png" width="25"/>1 <a href="festive-planter.html"><span class="color-template color-template-festive-planter color-template-background-clip">Festive Planter</span></a></li>
+<li><img alt="Turpentine" height="25" src="img/Turpentine.png" width="25"/>1 <a href="turpentine.html"><span class="color-template color-template-turpentine color-template-background-clip">Turpentine</span></a></li></ul>
 </td></tr></tbody></table>
 
 ### Party Ends
@@ -586,28 +586,28 @@ Each rank completed for the first time rewards the player with an amount of [Tic
 
 <table class="article-table">
 <tbody><tr>
-<td><span typeof="mw:Error mw:File"></span><a href="buffs-debuffs.html#From_Other"><span class="color-template color-template-robo-party-blessing color-template-background-clip">Robo Party Blessing</span></a>(Amounts depend on the rank)<br/><span typeof="mw:Error mw:File"></span><a href="ticket.html"><span class="color-template color-template-ticket color-template-background-clip">Tickets</span></a>
+<td><img alt="Robo Party Blessing" height="35" src="img/Robo_Party_Blessing.png" width="35"/><a href="buffs-debuffs.html#From_Other"><span class="color-template color-template-robo-party-blessing color-template-background-clip">Robo Party Blessing</span></a>(Amounts depend on the rank)<br/><img alt="Ticket" height="35" src="img/Ticket.png" width="35"/><a href="ticket.html"><span class="color-template color-template-ticket color-template-background-clip">Tickets</span></a>
 </td></tr></tbody></table>
 
 One of the following:
 
 <table class="article-table">
 <tbody><tr>
-<td><span typeof="mw:Error mw:File"></span><a href="red-balloon.html"><span class="color-template color-template-red-balloon color-template-background-clip">Red Balloons</span></a> (Uncommon)<br/><span typeof="mw:Error mw:File"></span><a href="pink-balloon.html"><span class="color-template color-template-pink-balloon color-template-background-clip">Pink Balloons</span></a> (Common)<br/><span typeof="mw:Error mw:File"></span><a href="white-balloon.html"><span class="color-template color-template-white-balloon color-template-background-clip">White Balloons</span></a> (Very Rare)<br/><span typeof="mw:Error mw:File"></span><a href="black-balloon.html"><span class="color-template color-template-black-balloon">Black Balloons</span></a> (Exceptionally Rare)
+<td><img alt="Red Balloon" height="35" src="img/Red_Balloon.png" width="35"/><a href="red-balloon.html"><span class="color-template color-template-red-balloon color-template-background-clip">Red Balloons</span></a> (Uncommon)<br/><img alt="Pink Balloon" height="35" src="img/Pink_Balloon.png" width="35"/><a href="pink-balloon.html"><span class="color-template color-template-pink-balloon color-template-background-clip">Pink Balloons</span></a> (Common)<br/><img alt="White Balloon" height="35" src="img/White_Balloon.png" width="35"/><a href="white-balloon.html"><span class="color-template color-template-white-balloon color-template-background-clip">White Balloons</span></a> (Very Rare)<br/><img alt="Black Balloon" height="35" src="img/Black_Balloon.png" width="35"/><a href="black-balloon.html"><span class="color-template color-template-black-balloon">Black Balloons</span></a> (Exceptionally Rare)
 </td></tr></tbody></table>
 
 ### Other possible rewards:
 
 <table class="article-table">
 <tbody><tr>
-<td><span typeof="mw:Error mw:File"></span><a href="micro-converter.html"><span class="color-template color-template-micro-converter color-template-background-clip">Micro-Converters</span></a><br/><span typeof="mw:Error mw:File"></span><a href="pineapple.html"><span class="color-template color-template-pineapple color-template-background-clip">Pineapples</span></a><br/><span typeof="mw:Error mw:File"></span><a href="strawberry.html"><span class="color-template color-template-strawberry color-template-background-clip">Strawberries</span></a><br/><span typeof="mw:Error mw:File"></span><a href="honeysuckle.html"><span class="color-template color-template-honeysuckle color-template-background-clip">Honeysuckles</span></a><br/><span typeof="mw:Error mw:File"></span><a href="jelly-beans.html"><span class="color-template color-template-jelly-beans color-template-background-clip">Jelly Beans</span></a><br/><span typeof="mw:Error mw:File"></span><a href="gumdrops.html"><span class="color-template color-template-gumdrops color-template-background-clip">Gumdrops</span></a><br/><span typeof="mw:Error mw:File"></span><a href="ant-pass.html"><span class="color-template color-template-ant-pass color-template-background-clip">Ant Passes</span></a><br/><span typeof="mw:Error mw:File"></span><a href="robo-pass.html"><span class="color-template color-template-robo-pass color-template-background-clip">Robo Passes</span></a><br/><span typeof="mw:Error mw:File"></span><a href="magic-bean.html"><span class="color-template color-template-magic-bean color-template-background-clip">Magic Beans</span></a><br/><span typeof="mw:Error mw:File"></span><a href="drives.html#Red_Drive"><span class="color-template color-template-red-drive color-template-background-clip">Red Drives</span></a><br/><span typeof="mw:Error mw:File"></span><a href="drives.html#Blue_Drive"><span class="color-template color-template-blue-drive color-template-background-clip">Blue Drives</span></a><br/><span typeof="mw:Error mw:File"></span><a href="drives.html#White_Drive"><span class="color-template color-template-white-drive color-template-background-clip">White Drives</span></a><br/><span typeof="mw:Error mw:File"></span><a href="soft-wax.html"><span class="color-template color-template-soft-wax">Soft Waxes</span></a><br/><span typeof="mw:Error mw:File"></span><a href="hard-wax.html"><span class="color-template color-template-hard-wax">Hard Waxes</span></a> (Uncommon)<br/><span typeof="mw:Error mw:File"></span><a href="field-dice.html"><span class="color-template color-template-field-dice color-template-background-clip">Field Dice</span></a> (Uncommon)<br/><span typeof="mw:Error mw:File"></span><a href="smooth-dice.html"><span class="color-template color-template-smooth-dice color-template-background-clip">Smooth Dice</span></a> (Rare)<br/><span typeof="mw:Error mw:File"></span><a href="glitter.html"><span class="color-template color-template-glitter color-template-background-clip">Glitter</span></a> (Rare)<br/><span typeof="mw:Error mw:File"></span><a href="stinger.html"><span class="color-template color-template-stinger color-template-background-clip">Stingers</span></a> (Rare)<br/><span typeof="mw:Error mw:File"></span><a href="enzymes.html"><span class="color-template color-template-enzymes color-template-background-clip">Enzymes</span></a> (Rare)<br/><span typeof="mw:Error mw:File"></span><a href="royal-jelly.html#Star_Jelly"><span class="color-template color-template-star-jelly color-template-background-clip">Star Jellies</span></a> (Rare)<br/><span typeof="mw:Error mw:File"></span><a href="loaded-dice.html"><span class="color-template color-template-loaded-dice color-template-background-clip">Loaded Dice</span></a> (Very Rare)<br/><span typeof="mw:Error mw:File"></span><a href="drives.html#Glitched_Drive"><span class="color-template color-template-glitched-drive color-template-background-clip">Glitched Drives</span></a> (Very Rare)<br/><span typeof="mw:Error mw:File"></span><a href="ticket-planter.html"><span class="color-template color-template-ticket-planter color-template-background-clip">Ticket Planters</span></a> (Very Rare)<br/><span typeof="mw:Error mw:File"></span><a href="purple-potion.html"><span class="color-template color-template-purple-potion color-template-background-clip">Purple Potions</span></a> (Very Rare)<br/><span typeof="mw:Error mw:File"></span><a href="swirled-wax.html"><span class="color-template color-template-swirled-wax color-template-background-clip">Swirled Waxes</span></a> (Extremely Rare)<br/><span typeof="mw:Error mw:File"></span><a href="caustic-wax.html"><span class="color-template color-template-caustic-wax">Caustic Waxes</span></a> (Extremely Rare)<br/><span typeof="mw:Error mw:File"></span><a href="super-smoothie.html"><span class="color-template color-template-super-smoothie color-template-background-clip">Super Smoothies</span></a> (Extremely Rare)<br/><span typeof="mw:Error mw:File"></span><a href="atomic-treat.html"><span class="color-template color-template-atomic-treat color-template-background-clip">Atomic Treats</span></a> (Extremely Rare)<br/><span typeof="mw:Error mw:File"></span><a href="festive-planter.html"><span class="color-template color-template-festive-planter color-template-background-clip">Festive Planters</span></a> (Exceptionally Rare)<br/><span typeof="mw:Error mw:File"></span><a href="turpentine.html"><span class="color-template color-template-turpentine color-template-background-clip">Turpentine</span></a> (Exceptionally Rare)
+<td><img alt="Micro-Converter" height="35" src="img/Micro-Converter.png" width="35"/><a href="micro-converter.html"><span class="color-template color-template-micro-converter color-template-background-clip">Micro-Converters</span></a><br/><img alt="Pineapple" height="35" src="img/Pineapple.png" width="35"/><a href="pineapple.html"><span class="color-template color-template-pineapple color-template-background-clip">Pineapples</span></a><br/><img alt="Strawberry" height="35" src="img/Strawberry.png" width="35"/><a href="strawberry.html"><span class="color-template color-template-strawberry color-template-background-clip">Strawberries</span></a><br/><img alt="Honeysuckle" height="35" src="img/Honeysuckle.png" width="35"/><a href="honeysuckle.html"><span class="color-template color-template-honeysuckle color-template-background-clip">Honeysuckles</span></a><br/><img alt="Jelly Beans" height="35" src="img/Jelly_Beans.png" width="35"/><a href="jelly-beans.html"><span class="color-template color-template-jelly-beans color-template-background-clip">Jelly Beans</span></a><br/><img alt="Gumdrops" height="35" src="img/Gumdrops.png" width="35"/><a href="gumdrops.html"><span class="color-template color-template-gumdrops color-template-background-clip">Gumdrops</span></a><br/><img alt="Ant Pass" height="35" src="img/Ant_Pass.png" width="35"/><a href="ant-pass.html"><span class="color-template color-template-ant-pass color-template-background-clip">Ant Passes</span></a><br/><img alt="Robo Pass" height="35" src="img/Robo_Pass.png" width="35"/><a href="robo-pass.html"><span class="color-template color-template-robo-pass color-template-background-clip">Robo Passes</span></a><br/><img alt="Magic Bean" height="35" src="img/Magic_Bean.png" width="35"/><a href="magic-bean.html"><span class="color-template color-template-magic-bean color-template-background-clip">Magic Beans</span></a><br/><img alt="Red Drive" height="35" src="img/Red_Drive.png" width="35"/><a href="drives.html#Red_Drive"><span class="color-template color-template-red-drive color-template-background-clip">Red Drives</span></a><br/><img alt="Blue Drive" height="35" src="img/Blue_Drive.png" width="35"/><a href="drives.html#Blue_Drive"><span class="color-template color-template-blue-drive color-template-background-clip">Blue Drives</span></a><br/><img alt="White Drive" height="35" src="img/White_Drive.png" width="35"/><a href="drives.html#White_Drive"><span class="color-template color-template-white-drive color-template-background-clip">White Drives</span></a><br/><img alt="Soft Wax" height="35" src="img/Soft_Wax.png" width="35"/><a href="soft-wax.html"><span class="color-template color-template-soft-wax">Soft Waxes</span></a><br/><img alt="Hard Wax" height="35" src="img/Hard_Wax.png" width="35"/><a href="hard-wax.html"><span class="color-template color-template-hard-wax">Hard Waxes</span></a> (Uncommon)<br/><img alt="Field Dice" height="35" src="img/Field_Dice.png" width="35"/><a href="field-dice.html"><span class="color-template color-template-field-dice color-template-background-clip">Field Dice</span></a> (Uncommon)<br/><img alt="Smooth Dice" height="35" src="img/Smooth_Dice.png" width="35"/><a href="smooth-dice.html"><span class="color-template color-template-smooth-dice color-template-background-clip">Smooth Dice</span></a> (Rare)<br/><img alt="Glitter" height="35" src="img/Glitter.png" width="35"/><a href="glitter.html"><span class="color-template color-template-glitter color-template-background-clip">Glitter</span></a> (Rare)<br/><img alt="Stinger" height="35" src="img/Stinger.png" width="35"/><a href="stinger.html"><span class="color-template color-template-stinger color-template-background-clip">Stingers</span></a> (Rare)<br/><img alt="Enzymes" height="35" src="img/Enzymes.png" width="35"/><a href="enzymes.html"><span class="color-template color-template-enzymes color-template-background-clip">Enzymes</span></a> (Rare)<br/><img alt="Star Jelly" height="35" src="img/Star_Jelly.png" width="35"/><a href="royal-jelly.html#Star_Jelly"><span class="color-template color-template-star-jelly color-template-background-clip">Star Jellies</span></a> (Rare)<br/><img alt="Loaded Dice" height="35" src="img/Loaded_Dice.png" width="35"/><a href="loaded-dice.html"><span class="color-template color-template-loaded-dice color-template-background-clip">Loaded Dice</span></a> (Very Rare)<br/><img alt="Glitched Drive" height="35" src="img/Glitched_Drive.png" width="35"/><a href="drives.html#Glitched_Drive"><span class="color-template color-template-glitched-drive color-template-background-clip">Glitched Drives</span></a> (Very Rare)<br/><img alt="Ticket Planter" height="35" src="img/Ticket_Planter.png" width="35"/><a href="ticket-planter.html"><span class="color-template color-template-ticket-planter color-template-background-clip">Ticket Planters</span></a> (Very Rare)<br/><img alt="Purple Potion" height="35" src="img/Purple_Potion.png" width="35"/><a href="purple-potion.html"><span class="color-template color-template-purple-potion color-template-background-clip">Purple Potions</span></a> (Very Rare)<br/><img alt="Swirled Wax" height="35" src="img/Swirled_Wax.png" width="35"/><a href="swirled-wax.html"><span class="color-template color-template-swirled-wax color-template-background-clip">Swirled Waxes</span></a> (Extremely Rare)<br/><img alt="Caustic Wax" height="35" src="img/Caustic_Wax.png" width="35"/><a href="caustic-wax.html"><span class="color-template color-template-caustic-wax">Caustic Waxes</span></a> (Extremely Rare)<br/><img alt="Super Smoothie" height="35" src="img/Super_Smoothie.png" width="35"/><a href="super-smoothie.html"><span class="color-template color-template-super-smoothie color-template-background-clip">Super Smoothies</span></a> (Extremely Rare)<br/><img alt="Atomic Treat" height="35" src="img/Atomic_Treat.png" width="35"/><a href="atomic-treat.html"><span class="color-template color-template-atomic-treat color-template-background-clip">Atomic Treats</span></a> (Extremely Rare)<br/><img alt="Festive Planter" height="35" src="img/Festive_Planter.png" width="35"/><a href="festive-planter.html"><span class="color-template color-template-festive-planter color-template-background-clip">Festive Planters</span></a> (Exceptionally Rare)<br/><img alt="Turpentine" height="35" src="img/Turpentine.png" width="35"/><a href="turpentine.html"><span class="color-template color-template-turpentine color-template-background-clip">Turpentine</span></a> (Exceptionally Rare)
 </td></tr></tbody></table>
 
 ### Mob Drops
 
 <table class="article-table">
 <tbody><tr>
-<td><span typeof="mw:Error mw:File"></span><a href="honey.html"><span class="color-template color-template-honey">Honey</span></a> (Guaranteed)<br/><span typeof="mw:Error mw:File"></span><a href="buffs-debuffs.html#From_Other"><span class="color-template color-template-robo-party-blessing color-template-background-clip">Robo Party Blessing</span></a><br/><span typeof="mw:Error mw:File"></span><a href="ticket.html"><span class="color-template color-template-ticket color-template-background-clip">Tickets</span></a><br/><span typeof="mw:Error mw:File"></span><a href="royal-jelly.html"><span class="color-template color-template-royal-jelly color-template-background-clip">Royal Jellies</span></a><br/><span typeof="mw:Error mw:File"></span><a href="honeysuckle.html"><span class="color-template color-template-honeysuckle color-template-background-clip">Honeysuckles</span></a><br/><span typeof="mw:Error mw:File"></span><a href="gumdrops.html"><span class="color-template color-template-gumdrops color-template-background-clip">Gumdrops</span></a><br/><span typeof="mw:Error mw:File"></span><a href="pink-balloon.html"><span class="color-template color-template-pink-balloon color-template-background-clip">Pink Balloons</span></a> (Uncommon)<br/><span typeof="mw:Error mw:File"></span><a href="red-balloon.html"><span class="color-template color-template-red-balloon color-template-background-clip">Red Balloons</span></a> (Very Rare)<br/><span typeof="mw:Error mw:File"></span><a href="white-balloon.html"><span class="color-template color-template-white-balloon color-template-background-clip">White Balloons</span></a> (Extremely Rare)<br/><span typeof="mw:Error mw:File"></span><a href="black-balloon.html"><span class="color-template color-template-black-balloon">Black Balloons</span></a> (Exceptionally Rare)<br/><span typeof="mw:Error mw:File"></span><a href="robo-pass.html"><span class="color-template color-template-robo-pass color-template-background-clip">Robo Passes</span></a><br/><span typeof="mw:Error mw:File"></span><a href="whirligig.html"><span class="color-template color-template-whirligig color-template-background-clip">Whirligigs</span></a><br/><span typeof="mw:Error mw:File"></span><a href="jelly-beans.html"><span class="color-template color-template-jelly-beans color-template-background-clip">Jelly Beans</span></a><br/><span typeof="mw:Error mw:File"></span><a href="neonberry.html"><span class="color-template color-template-neonberry color-template-background-clip">Neonberries</span></a><br/><span typeof="mw:Error mw:File"></span><a href="soft-wax.html"><span class="color-template color-template-soft-wax">Soft Waxes</span></a><br/><span typeof="mw:Error mw:File"></span><a href="ticket-planter.html"><span class="color-template color-template-ticket-planter color-template-background-clip">Ticket Planters</span></a><br/><span typeof="mw:Error mw:File"></span><a href="egg.html#Mythic_Egg"><span class="color-template color-template-mythic-egg color-template-background-clip">Mythic Eggs</span></a> (Extremely Rare)<br/><span typeof="mw:Error mw:File"></span><a href="egg.html#Star_Egg"><span class="color-template color-template-star-egg color-template-background-clip">Star Eggs</span></a> (Exceptionally Rare)
+<td><img alt="Honey" height="35" src="img/Honey.png" width="35"/><a href="honey.html"><span class="color-template color-template-honey">Honey</span></a> (Guaranteed)<br/><img alt="Robo Party Blessing" height="35" src="img/Robo_Party_Blessing.png" width="35"/><a href="buffs-debuffs.html#From_Other"><span class="color-template color-template-robo-party-blessing color-template-background-clip">Robo Party Blessing</span></a><br/><img alt="Ticket" height="35" src="img/Ticket.png" width="35"/><a href="ticket.html"><span class="color-template color-template-ticket color-template-background-clip">Tickets</span></a><br/><img alt="Royal Jelly" height="35" src="img/Royal_Jelly.png" width="35"/><a href="royal-jelly.html"><span class="color-template color-template-royal-jelly color-template-background-clip">Royal Jellies</span></a><br/><img alt="Honeysuckle" height="35" src="img/Honeysuckle.png" width="35"/><a href="honeysuckle.html"><span class="color-template color-template-honeysuckle color-template-background-clip">Honeysuckles</span></a><br/><img alt="Gumdrops" height="35" src="img/Gumdrops.png" width="35"/><a href="gumdrops.html"><span class="color-template color-template-gumdrops color-template-background-clip">Gumdrops</span></a><br/><img alt="Pink Balloon" height="35" src="img/Pink_Balloon.png" width="35"/><a href="pink-balloon.html"><span class="color-template color-template-pink-balloon color-template-background-clip">Pink Balloons</span></a> (Uncommon)<br/><img alt="Red Balloon" height="35" src="img/Red_Balloon.png" width="35"/><a href="red-balloon.html"><span class="color-template color-template-red-balloon color-template-background-clip">Red Balloons</span></a> (Very Rare)<br/><img alt="White Balloon" height="35" src="img/White_Balloon.png" width="35"/><a href="white-balloon.html"><span class="color-template color-template-white-balloon color-template-background-clip">White Balloons</span></a> (Extremely Rare)<br/><img alt="Black Balloon" height="35" src="img/Black_Balloon.png" width="35"/><a href="black-balloon.html"><span class="color-template color-template-black-balloon">Black Balloons</span></a> (Exceptionally Rare)<br/><img alt="Robo Pass" height="35" src="img/Robo_Pass.png" width="35"/><a href="robo-pass.html"><span class="color-template color-template-robo-pass color-template-background-clip">Robo Passes</span></a><br/><img alt="Whirligig" height="35" src="img/Whirligig.png" width="35"/><a href="whirligig.html"><span class="color-template color-template-whirligig color-template-background-clip">Whirligigs</span></a><br/><img alt="Jelly Beans" height="35" src="img/Jelly_Beans.png" width="35"/><a href="jelly-beans.html"><span class="color-template color-template-jelly-beans color-template-background-clip">Jelly Beans</span></a><br/><img alt="Neonberry" height="35" src="img/Neonberry.png" width="35"/><a href="neonberry.html"><span class="color-template color-template-neonberry color-template-background-clip">Neonberries</span></a><br/><img alt="Soft Wax" height="35" src="img/Soft_Wax.png" width="35"/><a href="soft-wax.html"><span class="color-template color-template-soft-wax">Soft Waxes</span></a><br/><img alt="Ticket Planter" height="35" src="img/Ticket_Planter.png" width="35"/><a href="ticket-planter.html"><span class="color-template color-template-ticket-planter color-template-background-clip">Ticket Planters</span></a><br/><img alt="Mythic Egg" height="35" src="img/Mythic_Egg.png" width="35"/><a href="egg.html#Mythic_Egg"><span class="color-template color-template-mythic-egg color-template-background-clip">Mythic Eggs</span></a> (Extremely Rare)<br/><img alt="Star Egg" height="35" src="img/Star_Egg.png" width="35"/><a href="egg.html#Star_Egg"><span class="color-template color-template-star-egg color-template-background-clip">Star Eggs</span></a> (Exceptionally Rare)
 </td></tr></tbody></table>
 
 ## Strategies for Robo Parties
@@ -624,7 +624,7 @@ One of the following:
 
 ## Gallery
 
-<div class="wikia-gallery wikia-gallery-caption-below wikia-gallery-position-left wikia-gallery-spacing-medium wikia-gallery-border-small wikia-gallery-captions-left wikia-gallery-caption-size-medium" data-seq-no="1" hash="fe4125c6b535a63cb4314d7de8484359" id="gallery-1"><div class="wikia-gallery-caption"></div><div class="wikia-gallery-item" style="width:187px; "><div class="thumb" style="height:187px;"><div class="gallery-image-wrapper accent" id="RBPartyCake-png" style="position: relative; height:185px; width:185px;"><span style="line-height: 1;">RBPartyCake.png</span></div></div><div class="lightbox-caption" style="width:185px;">The cake's appearance before the player completes the quest (Beesmas 2022 Part 2).</div></div><div class="wikia-gallery-item" style="width:187px; "><div class="thumb" style="height:187px;"><div class="gallery-image-wrapper accent" id="Cake-PNG" style="position: relative; height:185px; width:185px;"><span style="line-height: 1;">Cake.PNG</span></div></div><div class="lightbox-caption" style="width:185px;">The cake's appearance after the player completes the quest (Beesmas 2022 Part 2).</div></div><div class="wikia-gallery-item" style="width:187px; "><div class="thumb" style="height:187px;"><div class="gallery-image-wrapper accent" id="Image_2024-07-27_214827621-png" style="position: relative; height:185px; width:185px;"><span style="line-height: 1;">Image 2024-07-27 214827621.png</span></div></div><div class="lightbox-caption" style="width:185px;">The cake's appearance after the player completes the quest (Beesmas Summer 2024).</div></div><div class="wikia-gallery-item" style="width:187px; "><div class="thumb" style="height:187px;"><div class="gallery-image-wrapper accent" id="Image_2024-12-20_113445019-png" style="position: relative; height:185px; width:185px;"><span style="line-height: 1;">Image 2024-12-20 113445019.png</span></div></div><div class="lightbox-caption" style="width:185px;">The cake's appearance after the player completes the quest (Beesmas Winter 2024).</div></div><div class="wikia-gallery-item" style="width:187px; "><div class="thumb" style="height:187px;"><div class="gallery-image-wrapper accent" id="Party_Cake_2025-png" style="position: relative; height:185px; width:185px;"><span style="line-height: 1;">Party Cake 2025.png</span></div></div><div class="lightbox-caption" style="width:185px;">The cake's appearance before the player completes the quest (Beesmas 2025).</div></div><div class="wikia-gallery-item" style="width:187px; "><div class="thumb" style="height:187px;"><div class="gallery-image-wrapper accent" id="Robo_Party_Done_2025-jpeg" style="position: relative; height:185px; width:185px;"><span style="line-height: 1;">Robo Party Done 2025.jpeg</span></div></div><div class="lightbox-caption" style="width:185px;">The cake's appearance after the player completes the quest (Beesmas 2025).</div></div><div class="wikia-gallery-item" style="width:187px; "><div class="thumb" style="height:187px;"><div class="gallery-image-wrapper accent" id="Onett_rank_10_Robo_Party-png" style="position: relative; height:185px; width:185px;"><span style="line-height: 1;">Onett rank 10 Robo Party.png</span></div></div><div class="lightbox-caption" style="width:185px;">The GUI for a Robo Party.</div></div><div class="wikia-gallery-item" style="width:187px; "><div class="thumb" style="height:187px;"><div class="gallery-image-wrapper accent" id="RoboPartyToken3-PNG" style="position: relative; height:185px; width:185px;"><span style="line-height: 1;">RoboPartyToken3.PNG</span></div></div><div class="lightbox-caption" style="width:185px;">A Robo Party Blessing Token dropped by a Party Cogturret.</div></div><div class="wikia-gallery-item" style="width:187px; "><div class="thumb" style="height:187px;"><div class="gallery-image-wrapper accent" id="Kaschnova_starting_a_rank_3_robo_party-PNG" style="position: relative; height:185px; width:185px;"><span style="line-height: 1;">Kaschnova starting a rank 3 robo party.PNG</span></div></div><div class="lightbox-caption" style="width:185px;">A player starting a rank 3 Robo Party.</div></div><div class="wikia-gallery-item" style="width:187px; "><div class="thumb" style="height:187px;"><div class="gallery-image-wrapper accent" id="All_robots_are_destroyed-PNG" style="position: relative; height:185px; width:185px;"><span style="line-height: 1;">All robots are destroyed.PNG</span></div></div><div class="lightbox-caption" style="width:185px;">Message after Robo Party is completed.</div></div><div class="wikia-gallery-item" style="width:187px; "><div class="thumb" style="height:187px;"><div class="gallery-image-wrapper accent" id="RoboPartyBlessing-png" style="position: relative; height:185px; width:185px;"><span style="line-height: 1;">RoboPartyBlessing.png</span></div></div><div class="lightbox-caption" style="width:185px;">Icon for Robo Party Blessing.</div></div><div class="wikia-gallery-item" style="width:187px; "><div class="thumb" style="height:187px;"><div class="gallery-image-wrapper accent" id="Screenshot_2023-04-02_070127-png" style="position: relative; height:185px; width:185px;"><span style="line-height: 1;">Screenshot 2023-04-02 070127.png</span></div></div><div class="lightbox-caption" style="width:185px;">A Party Mechsquito in a field.</div></div></div>
+
 
 [Onett](onett-developer.md) is able to manipulate the function of the Robo Party event to activate it manually. In doing so, he has globally activated the challenge, sometimes under unique names (shown below).
 

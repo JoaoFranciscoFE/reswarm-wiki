@@ -1,6 +1,6 @@
 ---
 title: "Gifted Bucko Bee"
-tags: ["Pages with broken file links", "Removed Content", "NPC", "Blue", "Quest Giver", "Quest Bees", "Requires Translator"]
+tags: ["Removed Content", "NPC", "Blue", "Quest Giver", "Quest Bees", "Requires Translator"]
 ---
 
 # Gifted Bucko Bee
@@ -236,81 +236,81 @@ In addition to [Blue Extract](blue-extract.md) and [Honey](honey.md) for complet
 <tr>
 <td>3
 </td>
-<td><span typeof="mw:Error mw:File"></span>5 <a href="moon-charm.html"><span class="color-template color-template-moon-charm color-template-background-clip">Moon Charms</span></a>
+<td><img alt="Moon Charm" height="25" src="img/Moon_Charm.png" width="25"/>5 <a href="moon-charm.html"><span class="color-template color-template-moon-charm color-template-background-clip">Moon Charms</span></a>
 </td></tr>
 <tr>
 <td>9
 </td>
-<td><span typeof="mw:Error mw:File"></span>50 <a href="moon-charm.html"><span class="color-template color-template-moon-charm color-template-background-clip">Moon Charms</span></a>
+<td><img alt="Moon Charm" height="25" src="img/Moon_Charm.png" width="25"/>50 <a href="moon-charm.html"><span class="color-template color-template-moon-charm color-template-background-clip">Moon Charms</span></a>
 </td></tr>
 <tr>
 <td>25
 </td>
-<td><span typeof="mw:Error mw:File"></span>1 <a href="royal-jelly.html#Star_Jelly"><span class="color-template color-template-star-jelly color-template-background-clip">Star Jelly</span></a>
+<td><img alt="Star Jelly" height="25" src="img/Star_Jelly.png" width="25"/>1 <a href="royal-jelly.html#Star_Jelly"><span class="color-template color-template-star-jelly color-template-background-clip">Star Jelly</span></a>
 </td></tr>
 <tr>
 <td>50
 </td>
-<td><span typeof="mw:Error mw:File"></span>1 <a href="egg.html#Gifted_Gold_Egg"><span class="color-template color-template-gifted-gold-egg color-template-background-clip">Gifted Gold Egg</span></a>
+<td><img alt="Gifted Gold Egg" height="25" src="img/Gifted_Gold_Egg.png" width="25"/>1 <a href="egg.html#Gifted_Gold_Egg"><span class="color-template color-template-gifted-gold-egg color-template-background-clip">Gifted Gold Egg</span></a>
 </td></tr>
 <tr>
 <td>64
 </td>
-<td><span typeof="mw:Error mw:File"></span>1 <a href="sticker.html#Sticker_Index"><span class="color-template color-template-basic-blue-hive-skin color-template-background-clip">Basic Blue Hive Skin</span></a>
+<td><img alt="Basic Blue Hive Skin" height="25" src="img/Basic_Blue_Hive_Skin.png" width="25"/>1 <a href="sticker.html#Sticker_Index"><span class="color-template color-template-basic-blue-hive-skin color-template-background-clip">Basic Blue Hive Skin</span></a>
 </td></tr>
 <tr>
 <td>75
 </td>
-<td><span typeof="mw:Error mw:File"></span>50 <a href="moon-charm.html"><span class="color-template color-template-moon-charm color-template-background-clip">Moon Charms</span></a>
+<td><img alt="Moon Charm" height="25" src="img/Moon_Charm.png" width="25"/>50 <a href="moon-charm.html"><span class="color-template color-template-moon-charm color-template-background-clip">Moon Charms</span></a>
 </td></tr>
 <tr>
 <td>100
 </td>
-<td><span typeof="mw:Error mw:File"></span>1 <a href="egg.html#Gifted_Diamond_Egg"><span class="color-template color-template-gifted-diamond-egg color-template-background-clip">Gifted Diamond Egg</span></a>
+<td><img alt="Gifted Diamond Egg" height="25" src="img/Gifted_Diamond_Egg.png" width="25"/>1 <a href="egg.html#Gifted_Diamond_Egg"><span class="color-template color-template-gifted-diamond-egg color-template-background-clip">Gifted Diamond Egg</span></a>
 </td></tr>
 <tr>
 <td>111
 </td>
-<td><span typeof="mw:Error mw:File"></span>500 <a href="blueberry.html"><span class="color-template color-template-blueberry color-template-background-clip">Blueberries</span></a>
+<td><img alt="Blueberry" height="25" src="img/Blueberry.png" width="25"/>500 <a href="blueberry.html"><span class="color-template color-template-blueberry color-template-background-clip">Blueberries</span></a>
 </td></tr>
 <tr>
 <td>125
 </td>
-<td><span typeof="mw:Error mw:File"></span>50 <a href="moon-charm.html"><span class="color-template color-template-moon-charm color-template-background-clip">Moon Charms</span></a>
+<td><img alt="Moon Charm" height="25" src="img/Moon_Charm.png" width="25"/>50 <a href="moon-charm.html"><span class="color-template color-template-moon-charm color-template-background-clip">Moon Charms</span></a>
 </td></tr>
 <tr>
 <td>150
 </td>
-<td><span typeof="mw:Error mw:File"></span>10 <a href="glitter.html"><span class="color-template color-template-glitter color-template-background-clip">Glitter</span></a>
-<p>Access to the <span typeof="mw:Error mw:File"></span><a href="hydroponic-planter.html"><span class="color-template color-template-hydroponic-planter color-template-background-clip">Hydroponic Planter</span></a>
+<td><img alt="Glitter" height="25" src="img/Glitter.png" width="25"/>10 <a href="glitter.html"><span class="color-template color-template-glitter color-template-background-clip">Glitter</span></a>
+<p>Access to the <img alt="Hydroponic Planter" height="35" src="img/Hydroponic_Planter.png" width="35"/><a href="hydroponic-planter.html"><span class="color-template color-template-hydroponic-planter color-template-background-clip">Hydroponic Planter</span></a>
 </p>
 </td></tr>
 <tr>
 <td>175
 </td>
-<td><span typeof="mw:Error mw:File"></span>50 <a href="moon-charm.html"><span class="color-template color-template-moon-charm color-template-background-clip">Moon Charms</span></a>
+<td><img alt="Moon Charm" height="25" src="img/Moon_Charm.png" width="25"/>50 <a href="moon-charm.html"><span class="color-template color-template-moon-charm color-template-background-clip">Moon Charms</span></a>
 </td></tr>
 <tr>
 <td>200
 </td>
-<td><span typeof="mw:Error mw:File"></span>100 <a href="moon-charm.html"><span class="color-template color-template-moon-charm color-template-background-clip">Moon Charms</span></a>
+<td><img alt="Moon Charm" height="25" src="img/Moon_Charm.png" width="25"/>100 <a href="moon-charm.html"><span class="color-template color-template-moon-charm color-template-background-clip">Moon Charms</span></a>
 </td></tr>
 <tr>
 <td>222
 </td>
-<td><span typeof="mw:Error mw:File"></span>25 <a href="magic-bean.html"><span class="color-template color-template-magic-bean color-template-background-clip">Magic Beans</span></a>
+<td><img alt="Magic Bean" height="25" src="img/Magic_Bean.png" width="25"/>25 <a href="magic-bean.html"><span class="color-template color-template-magic-bean color-template-background-clip">Magic Beans</span></a>
 </td></tr>
 <tr>
 <td>250
 </td>
-<td><span typeof="mw:Error mw:File"></span>1 <a href="egg.html#Gifted_Diamond_Egg"><span class="color-template color-template-gifted-diamond-egg color-template-background-clip">Gifted Diamond Egg</span></a>
+<td><img alt="Gifted Diamond Egg" height="25" src="img/Gifted_Diamond_Egg.png" width="25"/>1 <a href="egg.html#Gifted_Diamond_Egg"><span class="color-template color-template-gifted-diamond-egg color-template-background-clip">Gifted Diamond Egg</span></a>
 <p>Access to the <img alt="Tide Popper" height="35" src="img/Tide_Popper.png" width="35"/> <a href="tide-popper.html">Tide Popper</a>
 </p>
 </td></tr>
 <tr>
 <td>500, 750, 1000
 </td>
-<td><span typeof="mw:Error mw:File"></span>1 <a href="egg.html#Gifted_Diamond_Egg"><span class="color-template color-template-gifted-diamond-egg color-template-background-clip">Gifted Diamond Egg</span></a>
+<td><img alt="Gifted Diamond Egg" height="25" src="img/Gifted_Diamond_Egg.png" width="25"/>1 <a href="egg.html#Gifted_Diamond_Egg"><span class="color-template color-template-gifted-diamond-egg color-template-background-clip">Gifted Diamond Egg</span></a>
 </td></tr></tbody></table>
 
 * If it isn't a milestone, the game checks if the current quest's rank is divisible by 25, and rewards a [Star Jelly](royal-jelly.md#Star_Jelly) if true.
@@ -325,77 +325,77 @@ In addition to [Blue Extract](blue-extract.md) and [Honey](honey.md) for complet
 <th>Chance to be picked
 </th></tr>
 <tr>
-<td><span typeof="mw:Error mw:File"></span><a href="treat.html"><span class="color-template color-template-treat">Treat</span></a>
+<td><img alt="Treat" height="35" src="img/Treat.png" width="35"/><a href="treat.html"><span class="color-template color-template-treat">Treat</span></a>
 </td>
 <td><span class="arithmatex">\((1+\left\lfloor {\sqrt {Q}}\right\rfloor \times 25\)</span>
 </td>
 <td>~23.175%
 </td></tr>
 <tr>
-<td><span typeof="mw:Error mw:File"></span><a href="royal-jelly.html"><span class="color-template color-template-royal-jelly color-template-background-clip">Royal Jelly</span></a>
+<td><img alt="Royal Jelly" height="35" src="img/Royal_Jelly.png" width="35"/><a href="royal-jelly.html"><span class="color-template color-template-royal-jelly color-template-background-clip">Royal Jelly</span></a>
 </td>
 <td><span class="arithmatex">\((1+\left\lfloor {\sqrt {Q}}\right\rfloor \times 5\)</span>
 </td>
 <td>~17.381%
 </td></tr>
 <tr>
-<td><span typeof="mw:Error mw:File"></span><a href="gumdrops.html"><span class="color-template color-template-gumdrops color-template-background-clip">Gumdrops</span></a>
+<td><img alt="Gumdrops" height="35" src="img/Gumdrops.png" width="35"/><a href="gumdrops.html"><span class="color-template color-template-gumdrops color-template-background-clip">Gumdrops</span></a>
 </td>
 <td>25
 </td>
 <td>~11.587%
 </td></tr>
 <tr>
-<td><span typeof="mw:Error mw:File"></span><a href="blueberry.html"><span class="color-template color-template-blueberry color-template-background-clip">Blueberry</span></a>
+<td><img alt="Blueberry" height="35" src="img/Blueberry.png" width="35"/><a href="blueberry.html"><span class="color-template color-template-blueberry color-template-background-clip">Blueberry</span></a>
 </td>
 <td><span class="arithmatex">\((1+\left\lfloor Q^{0.25}\right\rfloor \times 10\)</span>
 </td>
 <td>~11.587%
 </td></tr>
 <tr>
-<td><span typeof="mw:Error mw:File"></span><a href="ticket.html"><span class="color-template color-template-ticket color-template-background-clip">Ticket</span></a>
+<td><img alt="Ticket" height="35" src="img/Ticket.png" width="35"/><a href="ticket.html"><span class="color-template color-template-ticket color-template-background-clip">Ticket</span></a>
 </td>
 <td>5
 </td>
 <td>~11.587%
 </td></tr>
 <tr>
-<td><span typeof="mw:Error mw:File"></span><a href="moon-charm.html"><span class="color-template color-template-moon-charm color-template-background-clip">Moon Charm</span></a>
+<td><img alt="Moon Charm" height="35" src="img/Moon_Charm.png" width="35"/><a href="moon-charm.html"><span class="color-template color-template-moon-charm color-template-background-clip">Moon Charm</span></a>
 </td>
 <td>20
 </td>
 <td>~11.587%
 </td></tr>
 <tr>
-<td><span typeof="mw:Error mw:File"></span><a href="magic-bean.html"><span class="color-template color-template-magic-bean color-template-background-clip">Magic Bean</span></a>
+<td><img alt="Magic Bean" height="35" src="img/Magic_Bean.png" width="35"/><a href="magic-bean.html"><span class="color-template color-template-magic-bean color-template-background-clip">Magic Bean</span></a>
 </td>
 <td>3
 </td>
 <td>~11.587%
 </td></tr>
 <tr>
-<td><span typeof="mw:Error mw:File"></span><a href="moon-charm.html"><span class="color-template color-template-moon-charm color-template-background-clip">Moon Charm</span></a>
+<td><img alt="Moon Charm" height="35" src="img/Moon_Charm.png" width="35"/><a href="moon-charm.html"><span class="color-template color-template-moon-charm color-template-background-clip">Moon Charm</span></a>
 </td>
 <td>50
 </td>
 <td>~1.159%
 </td></tr>
 <tr>
-<td><span typeof="mw:Error mw:File"></span><a href="blue-extract.html"><span class="color-template color-template-blue-extract color-template-background-clip">Blue Extract</span></a>
+<td><img alt="Blue Extract" height="35" src="img/Blue_Extract.png" width="35"/><a href="blue-extract.html"><span class="color-template color-template-blue-extract color-template-background-clip">Blue Extract</span></a>
 </td>
 <td>10
 </td>
 <td>~0.116%
 </td></tr>
 <tr>
-<td><span typeof="mw:Error mw:File"></span><a href="oil.html"><span class="color-template color-template-oil color-template-background-clip">Oil</span></a>
+<td><img alt="Oil" height="35" src="img/Oil.png" width="35"/><a href="oil.html"><span class="color-template color-template-oil color-template-background-clip">Oil</span></a>
 </td>
 <td>10
 </td>
 <td>~0.116%
 </td></tr>
 <tr>
-<td><span typeof="mw:Error mw:File"></span><a href="moon-charm.html"><span class="color-template color-template-moon-charm color-template-background-clip">Moon Charm</span></a>
+<td><img alt="Moon Charm" height="35" src="img/Moon_Charm.png" width="35"/><a href="moon-charm.html"><span class="color-template color-template-moon-charm color-template-background-clip">Moon Charm</span></a>
 </td>
 <td>100
 </td>
@@ -496,13 +496,13 @@ The following content has been removed from the game. The contents below may be 
 <li>Pop 5 Puffshrooms in the <a href="blue-flower-field.html">Blue Flower Field</a>.</li></ul>
 </td>
 <td>
-<p><span typeof="mw:Error mw:File"></span>2,000,000,000 <a href="honey.html"><span class="color-template color-template-honey">Honey</span></a><br/>
-<span typeof="mw:Error mw:File"></span>25 <a href="ticket.html"><span class="color-template color-template-ticket color-template-background-clip">Tickets</span></a><br/>
-<span typeof="mw:Error mw:File"></span>25 <a href="blue-extract.html"><span class="color-template color-template-blue-extract color-template-background-clip">Blue Extracts</span></a><br/>
-<span typeof="mw:Error mw:File"></span>1 <a href="comforting-vial.html"><span class="color-template color-template-comforting-vial color-template-background-clip">Comforting Vial</span></a><br/>
-<span typeof="mw:Error mw:File"></span>10 <a href="tropical-drink.html"><span class="color-template color-template-tropical-drink color-template-background-clip">Tropical Drinks</span></a><br/>
-<span typeof="mw:Error mw:File"></span>1 <a href="beret.html"><span class="color-template color-template-beret color-template-background-clip">Beret</span></a><br/>
-<span typeof="mw:Error mw:File"></span>50 <a href="snowflake.html"><span class="color-template color-template-snowflake color-template-background-clip">Snowflakes</span></a><br/>
+<p><img alt="Honey" height="25" src="img/Honey.png" width="25"/>2,000,000,000 <a href="honey.html"><span class="color-template color-template-honey">Honey</span></a><br/>
+<img alt="Ticket" height="25" src="img/Ticket.png" width="25"/>25 <a href="ticket.html"><span class="color-template color-template-ticket color-template-background-clip">Tickets</span></a><br/>
+<img alt="Blue Extract" height="25" src="img/Blue_Extract.png" width="25"/>25 <a href="blue-extract.html"><span class="color-template color-template-blue-extract color-template-background-clip">Blue Extracts</span></a><br/>
+<img alt="Comforting Vial" height="25" src="img/Comforting_Vial.png" width="25"/>1 <a href="comforting-vial.html"><span class="color-template color-template-comforting-vial color-template-background-clip">Comforting Vial</span></a><br/>
+<img alt="Tropical Drink" height="25" src="img/Tropical_Drink.png" width="25"/>10 <a href="tropical-drink.html"><span class="color-template color-template-tropical-drink color-template-background-clip">Tropical Drinks</span></a><br/>
+<img alt="Beret" height="25" src="img/Beret.png" width="25"/>1 <a href="beret.html"><span class="color-template color-template-beret color-template-background-clip">Beret</span></a><br/>
+<img alt="Snowflake" height="25" src="img/Snowflake.png" width="25"/>50 <a href="snowflake.html"><span class="color-template color-template-snowflake color-template-background-clip">Snowflakes</span></a><br/>
 Access to the <a href="snow-machine.html">Snow Machine</a>
 </p>
 </td></tr></tbody></table>

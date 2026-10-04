@@ -1,6 +1,6 @@
 ---
 title: "Chicks"
-tags: ["Pages with broken file links", "Removed Content", "Mobs", "Egg Hunt 2020", "Bosses", "Mini Bosses", "Multiplayer Bosses", "Passive Mobs"]
+tags: ["Removed Content", "Mobs", "Egg Hunt 2020", "Bosses", "Mini Bosses", "Multiplayer Bosses", "Passive Mobs"]
 ---
 
 # Chicks

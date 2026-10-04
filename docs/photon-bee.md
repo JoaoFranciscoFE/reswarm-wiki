@@ -1,6 +1,6 @@
 ---
 title: "Photon Bee"
-tags: ["Pages with broken file links", "Bees", "Colorless", "Event"]
+tags: ["Bees", "Colorless", "Event"]
 ---
 
 # Photon Bee
@@ -299,10 +299,6 @@ Photon Bee likes the [Pineapple Patch](pineapple-patch.md) and the [Pumpkin Patc
 </tbody></table></div>
 </td></tr>
 </tbody></table>
-
-## Gallery
-
-<div class="wikia-gallery wikia-gallery-caption-below wikia-gallery-position-left wikia-gallery-spacing-medium wikia-gallery-border-small wikia-gallery-captions-left wikia-gallery-caption-size-medium" data-seq-no="0" hash="364280394125018aee5148c9428fc935" id="gallery-0"><div class="wikia-gallery-caption"></div><div class="wikia-gallery-item" style="width:187px; "><div class="thumb" style="height:187px;"><div class="gallery-image-wrapper accent" id="Photon-png" style="position: relative; height:185px; width:185px;"><span style="line-height: 1;">Photon.png</span></div></div><div class="lightbox-caption" style="width:185px;">Photon Bee's old hive slot design.</div></div><div class="wikia-gallery-item" style="width:187px; "><div class="thumb" style="height:187px;"><div class="gallery-image-wrapper accent" id="Gifted_Photon_Bee_hive-PNG" style="position: relative; height:185px; width:185px;"><span style="line-height: 1;">Gifted Photon Bee hive.PNG</span></div></div><div class="lightbox-caption" style="width:185px;">A Gifted Photon Bee hive slot design.</div></div><div class="wikia-gallery-item" style="width:187px; "><div class="thumb" style="height:187px;"><div class="gallery-image-wrapper accent" id="PhotonFace-png" style="position: relative; height:185px; width:185px;"><span style="line-height: 1;">PhotonFace.png</span></div></div><div class="lightbox-caption" style="width:185px;">Photon Bee's face.</div></div><div class="wikia-gallery-item" style="width:187px; "><div class="thumb" style="height:187px;"><div class="gallery-image-wrapper accent" id="Beamstorm-png" style="position: relative; height:185px; width:185px;"><span style="line-height: 1;">Beamstorm.png</span></div></div><div class="lightbox-caption" style="width:185px;">The beamstorm ability token.</div></div><div class="wikia-gallery-item" style="width:187px; "><div class="thumb" style="height:187px;"><div class="gallery-image-wrapper accent" id="Captura_de_pantalla_-271--png" style="position: relative; height:185px; width:185px;"><span style="line-height: 1;">Captura de pantalla (271).png</span></div></div><div class="lightbox-caption" style="width:185px;">A beamstorm beam from a normal Photon Bee.</div></div><div class="wikia-gallery-item" style="width:187px; "><div class="thumb" style="height:187px;"><div class="gallery-image-wrapper accent" id="GiftedBeamstorm-jpg" style="position: relative; height:185px; width:185px;"><span style="line-height: 1;">GiftedBeamstorm.jpg</span></div></div><div class="lightbox-caption" style="width:185px;">A beamstorm beam from a gifted Photon Bee.</div></div><div class="wikia-gallery-item" style="width:187px; "><div class="thumb" style="height:187px;"><div class="gallery-image-wrapper accent" id="BeamStorm-png" style="position: relative; height:185px; width:185px;"><span style="line-height: 1;">BeamStorm.png</span></div></div><div class="lightbox-caption" style="width:185px;">Beamstorm in action</div></div><div class="wikia-gallery-item" style="width:187px; "><div class="thumb" style="height:187px;"><div class="gallery-image-wrapper accent" id="Hivesticker_flying_photon_bee-png" style="position: relative; height:185px; width:185px;"><span style="line-height: 1;">Hivesticker flying photon bee.png</span></div></div><div class="lightbox-caption" style="width:185px;">The Flying Photon Bee <a href="sticker.html">sticker</a>.</div></div></div>
 
 ## Trivia
 

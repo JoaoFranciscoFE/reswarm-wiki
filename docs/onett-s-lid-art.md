@@ -1,6 +1,6 @@
 ---
 title: "Onett's Lid Art"
-tags: ["Pages with broken file links", "Removed Content", "Beesmas", "Locations", "Machines", "Beesmas Decorations"]
+tags: ["Removed Content", "Beesmas", "Locations", "Machines", "Beesmas Decorations"]
 ---
 
 # Onett's Lid Art
@@ -43,26 +43,26 @@ After completing Onett's Yard Art quest, [Baby Bee](baby-bee.md), wearing a Sant
 </th></tr>
 <tr>
 <td>
-<ul><li><span typeof="mw:Error mw:File"></span>5 <a href="pineapple.html"><span class="color-template color-template-pineapple color-template-background-clip">Pineapples</span></a></li>
-<li><span typeof="mw:Error mw:File"></span>5 <a href="strawberry.html"><span class="color-template color-template-strawberry color-template-background-clip">Strawberries</span></a></li>
-<li><span typeof="mw:Error mw:File"></span>5 <a href="blueberry.html"><span class="color-template color-template-blueberry color-template-background-clip">Blueberries</span></a></li>
-<li><span typeof="mw:Error mw:File"></span>5 <a href="sunflower-seed.html"><span class="color-template color-template-sunflower-seed color-template-background-clip">Sunflower Seeds</span></a></li>
-<li><span typeof="mw:Error mw:File"></span>1 <a href="gingerbread-bear.html"><span class="color-template color-template-gingerbread-bear color-template-background-clip">Gingerbread Bear</span></a></li></ul>
+<ul><li><img alt="Pineapple" height="25" src="img/Pineapple.png" width="25"/>5 <a href="pineapple.html"><span class="color-template color-template-pineapple color-template-background-clip">Pineapples</span></a></li>
+<li><img alt="Strawberry" height="25" src="img/Strawberry.png" width="25"/>5 <a href="strawberry.html"><span class="color-template color-template-strawberry color-template-background-clip">Strawberries</span></a></li>
+<li><img alt="Blueberry" height="25" src="img/Blueberry.png" width="25"/>5 <a href="blueberry.html"><span class="color-template color-template-blueberry color-template-background-clip">Blueberries</span></a></li>
+<li><img alt="Sunflower Seed" height="25" src="img/Sunflower_Seed.png" width="25"/>5 <a href="sunflower-seed.html"><span class="color-template color-template-sunflower-seed color-template-background-clip">Sunflower Seeds</span></a></li>
+<li><img alt="Gingerbread Bear" height="25" src="img/Gingerbread_Bear.png" width="25"/>1 <a href="gingerbread-bear.html"><span class="color-template color-template-gingerbread-bear color-template-background-clip">Gingerbread Bear</span></a></li></ul>
 </td></tr>
 <tr>
 <th>2 items from the following pool
 </th></tr>
 <tr>
 <td>
-<ul><li><span typeof="mw:Error mw:File"></span>1 <a href="ticket.html"><span class="color-template color-template-ticket color-template-background-clip">Ticket</span></a> (~49.38%)</li>
-<li><span typeof="mw:Error mw:File"></span>10 <a href="moon-charm.html"><span class="color-template color-template-moon-charm color-template-background-clip">Moon Charms</span></a> (~29.63%)</li>
-<li><span typeof="mw:Error mw:File"></span>1 <a href="glitter.html"><span class="color-template color-template-glitter color-template-background-clip">Glitter</span></a> (~9.88%)</li>
-<li><span typeof="mw:Error mw:File"></span>1 <a href="glue.html"><span class="color-template color-template-glue color-template-background-clip">Glue</span></a> (~9.88%)</li>
-<li><span typeof="mw:Error mw:File"></span>1 <a href="royal-jelly.html#Star_Jelly"><span class="color-template color-template-star-jelly color-template-background-clip">Star Jelly</span></a> (~0.99%)</li>
-<li><span typeof="mw:Error mw:File"></span>1 <a href="toy-horn.html"><span class="color-template color-template-toy-horn color-template-background-clip">Toy Horn</span></a> (~0.1%)</li>
-<li><span typeof="mw:Error mw:File"></span>1 <a href="paper-angel.html"><span class="color-template color-template-paper-angel color-template-background-clip">Paper Angel</span></a> (~0.1%)</li>
-<li><span typeof="mw:Error mw:File"></span>1 <a href="box-o-frogs.html"><span class="color-template color-template-box-o-frogs color-template-background-clip">Box-O-Frogs</span></a> (~0.04%)</li>
-<li><span typeof="mw:Error mw:File"></span>1 <a href="festive-bean.html"><span class="color-template color-template-festive-bean color-template-background-clip">Festive Bean</span></a> (~0.01%)</li></ul>
+<ul><li><img alt="Ticket" height="25" src="img/Ticket.png" width="25"/>1 <a href="ticket.html"><span class="color-template color-template-ticket color-template-background-clip">Ticket</span></a> (~49.38%)</li>
+<li><img alt="Moon Charm" height="25" src="img/Moon_Charm.png" width="25"/>10 <a href="moon-charm.html"><span class="color-template color-template-moon-charm color-template-background-clip">Moon Charms</span></a> (~29.63%)</li>
+<li><img alt="Glitter" height="25" src="img/Glitter.png" width="25"/>1 <a href="glitter.html"><span class="color-template color-template-glitter color-template-background-clip">Glitter</span></a> (~9.88%)</li>
+<li><img alt="Glue" height="25" src="img/Glue.png" width="25"/>1 <a href="glue.html"><span class="color-template color-template-glue color-template-background-clip">Glue</span></a> (~9.88%)</li>
+<li><img alt="Star Jelly" height="25" src="img/Star_Jelly.png" width="25"/>1 <a href="royal-jelly.html#Star_Jelly"><span class="color-template color-template-star-jelly color-template-background-clip">Star Jelly</span></a> (~0.99%)</li>
+<li><img alt="Toy Horn" height="25" src="img/Toy_Horn.png" width="25"/>1 <a href="toy-horn.html"><span class="color-template color-template-toy-horn color-template-background-clip">Toy Horn</span></a> (~0.1%)</li>
+<li><img alt="Paper Angel" height="25" src="img/Paper_Angel.png" width="25"/>1 <a href="paper-angel.html"><span class="color-template color-template-paper-angel color-template-background-clip">Paper Angel</span></a> (~0.1%)</li>
+<li><img alt="Box-O-Frogs" height="25" src="img/Box-O-Frogs.png" width="25"/>1 <a href="box-o-frogs.html"><span class="color-template color-template-box-o-frogs color-template-background-clip">Box-O-Frogs</span></a> (~0.04%)</li>
+<li><img alt="Festive Bean" height="25" src="img/Festive_Bean.png" width="25"/>1 <a href="festive-bean.html"><span class="color-template color-template-festive-bean color-template-background-clip">Festive Bean</span></a> (~0.01%)</li></ul>
 </td></tr></tbody></table>
 
 ### Temporary Bees
@@ -92,10 +92,6 @@ After completing Onett's Yard Art quest, [Baby Bee](baby-bee.md), wearing a Sant
 ### Guiding Star
 
 * A [Guiding Star](passive-abilities.md#Guiding_Star) is summoned on 1 of the 5 fields the player has collected the least pollen from.
-
-## Gallery
-
-<div class="wikia-gallery wikia-gallery-caption-below wikia-gallery-position-left wikia-gallery-spacing-medium wikia-gallery-border-small wikia-gallery-captions-left wikia-gallery-caption-size-medium" data-seq-no="0" hash="da25f24cb59ce8c34bf5293ac97182aa" id="gallery-0"><div class="wikia-gallery-caption"></div><div class="wikia-gallery-item" style="width:187px; "><div class="thumb" style="height:187px;"><div class="gallery-image-wrapper accent" id="Post1-png" style="position: relative; height:185px; width:185px;"><span style="line-height: 1;">Post1.png</span></div></div><div class="lightbox-caption" style="width:185px;">The wooden frame with Basic Bee's face.</div></div><div class="wikia-gallery-item" style="width:187px; "><div class="thumb" style="height:187px;"><div class="gallery-image-wrapper accent" id="BearsAndBaby-png" style="position: relative; height:185px; width:185px;"><span style="line-height: 1;">BearsAndBaby.png</span></div></div><div class="lightbox-caption" style="width:185px;">Black Bear and Mother Bear.</div></div><div class="wikia-gallery-item" style="width:187px; "><div class="thumb" style="height:187px;"><div class="gallery-image-wrapper accent" id="SpiritQueen-png" style="position: relative; height:185px; width:185px;"><span style="line-height: 1;">SpiritQueen.png</span></div></div><div class="lightbox-caption" style="width:185px;">Queen Spirit Bear riding King Beetle.</div></div><div class="wikia-gallery-item" style="width:187px; "><div class="thumb" style="height:187px;"><div class="gallery-image-wrapper accent" id="BumbleKing-png" style="position: relative; height:185px; width:185px;"><span style="line-height: 1;">BumbleKing.png</span></div></div><div class="lightbox-caption" style="width:185px;">King Bumble Bee.</div></div><div class="wikia-gallery-item" style="width:187px; "><div class="thumb" style="height:187px;"><div class="gallery-image-wrapper accent" id="StickBugKing-png" style="position: relative; height:185px; width:185px;"><span style="line-height: 1;">StickBugKing.png</span></div></div><div class="lightbox-caption" style="width:185px;">King Stick Bug.</div></div><div class="wikia-gallery-item" style="width:187px; "><div class="thumb" style="height:187px;"><div class="gallery-image-wrapper accent" id="Babyface-png" style="position: relative; height:185px; width:185px;"><span style="line-height: 1;">Babyface.png</span></div></div><div class="lightbox-caption" style="width:185px;">Baby Bee wearing a Santa hat.</div></div><div class="wikia-gallery-item" style="width:187px; "><div class="thumb" style="height:187px;"><div class="gallery-image-wrapper accent" id="LidArtRecreation-png" style="position: relative; height:185px; width:185px;"><span style="line-height: 1;">LidArtRecreation.png</span></div></div><div class="lightbox-caption" style="width:185px;">An accurate recreation of Onett's Lid Art using the original images.</div></div></div>
 
 ## Trivia
 

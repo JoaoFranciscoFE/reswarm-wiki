@@ -1,6 +1,6 @@
 ---
 title: "Free Ant Pass Dispenser"
-tags: ["Pages with broken file links", "Machines", "Locations", "Dispenser", "Ant Challenge"]
+tags: ["Machines", "Locations", "Dispenser", "Ant Challenge"]
 ---
 
 # Free Ant Pass Dispenser
@@ -11,7 +11,7 @@ tags: ["Pages with broken file links", "Machines", "Locations", "Dispenser", "An
 <h2 class="pi-item pi-header pi-secondary-font pi-item-spacing pi-secondary-background">Information</h2>
 <div class="pi-item pi-data pi-item-spacing pi-border-color" data-source="usage">
 <h3 class="pi-data-label pi-secondary-font">Usage</h3>
-<div class="pi-data-value pi-font">Gives <span typeof="mw:Error mw:File"></span>1 <a href="ant-pass.html"><span class="color-template color-template-ant-pass color-template-background-clip">Ant Pass</span></a></div>
+<div class="pi-data-value pi-font">Gives <img alt="Ant Pass" height="25" src="img/Ant_Pass.png" width="25"/>1 <a href="ant-pass.html"><span class="color-template color-template-ant-pass color-template-background-clip">Ant Pass</span></a></div>
 </div>
 <div class="pi-item pi-data pi-item-spacing pi-border-color" data-source="requirement">
 <h3 class="pi-data-label pi-secondary-font">Requirement(s)</h3>

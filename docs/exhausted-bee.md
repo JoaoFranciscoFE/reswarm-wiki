@@ -1,6 +1,6 @@
 ---
 title: "Exhausted Bee"
-tags: ["Pages with broken file links", "Bees", "Epic", "Colorless"]
+tags: ["Bees", "Epic", "Colorless"]
 ---
 
 # Exhausted Bee
@@ -333,10 +333,6 @@ Exhausted Bee likes the [Stump Field](stump-field.md), the [Sunflower Field](su
 </td><td>2.45455%
 </td></tr>
 </tbody></table>
-
-## Gallery
-
-<div class="wikia-gallery wikia-gallery-caption-below wikia-gallery-position-left wikia-gallery-spacing-medium wikia-gallery-border-small wikia-gallery-captions-left wikia-gallery-caption-size-medium" data-seq-no="0" hash="ffd4b12421de300f3daebc2b10dfd951" id="gallery-0"><div class="wikia-gallery-caption"></div><div class="wikia-gallery-item" style="width:187px; "><div class="thumb" style="height:187px;"><div class="gallery-image-wrapper accent" id="ExhaustedBee_Hive-png" style="position: relative; height:185px; width:185px;"><span style="line-height: 1;">ExhaustedBee Hive.png</span></div></div><div class="lightbox-caption" style="width:185px;">Exhausted Bee's old hive slot design.</div></div><div class="wikia-gallery-item" style="width:187px; "><div class="thumb" style="height:187px;"><div class="gallery-image-wrapper accent" id="RobloxScreenShot20180808_190144113-png" style="position: relative; height:185px; width:185px;"><span style="line-height: 1;">RobloxScreenShot20180808 190144113.png</span></div></div><div class="lightbox-caption" style="width:185px;">A Gifted Exhausted Bee hive slot.</div></div><div class="wikia-gallery-item" style="width:187px; "><div class="thumb" style="height:187px;"><div class="gallery-image-wrapper accent" id="Png_-11--png" style="position: relative; height:185px; width:185px;"><span style="line-height: 1;">Png (11).png</span></div></div><div class="lightbox-caption" style="width:185px;">Exhausted Bee's face.</div></div><div class="wikia-gallery-item" style="width:187px; "><div class="thumb" style="height:187px;"><div class="gallery-image-wrapper accent" id="Beta_exhausted-png" style="position: relative; height:185px; width:185px;"><span style="line-height: 1;">Beta exhausted.png</span></div></div><div class="lightbox-caption" style="width:185px;">Exhausted Bee's beta face.</div></div><div class="wikia-gallery-item" style="width:187px; "><div class="thumb" style="height:187px;"><div class="gallery-image-wrapper accent" id="ExhaustedBeeJelly-png" style="position: relative; height:185px; width:185px;"><span style="line-height: 1;">ExhaustedBeeJelly.png</span></div></div><div class="lightbox-caption" style="width:185px;">Two Exhausted Bee Jellies in a player's inventory.</div></div></div>
 
 ## Trivia
 

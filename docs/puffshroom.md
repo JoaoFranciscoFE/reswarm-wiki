@@ -1,6 +1,6 @@
 ---
 title: "Puffshroom"
-tags: ["Pages with broken file links", "Passive Mobs", "Mobs"]
+tags: ["Passive Mobs", "Mobs"]
 ---
 
 # Puffshroom
@@ -452,72 +452,72 @@ A [planter](planter.md) that reaches 95% growth has a chance of spawning a Puffs
 <th>Chance
 </th></tr>
 <tr>
-<td><span typeof="mw:Error mw:File"></span><a href="ticket-planter.html"><span class="color-template color-template-ticket-planter color-template-background-clip">Ticket Planter</span></a>
+<td><img alt="Ticket Planter" height="35" src="img/Ticket_Planter.png" width="35"/><a href="ticket-planter.html"><span class="color-template color-template-ticket-planter color-template-background-clip">Ticket Planter</span></a>
 </td>
 <td>1/1 (100%)
 </td></tr>
 <tr>
-<td><span typeof="mw:Error mw:File"></span><a href="sticker-planter.html"><span class="color-template color-template-sticker-planter color-template-background-clip">Sticker Planter</span></a>
+<td><img alt="Sticker Planter" height="35" src="img/Sticker_Planter.png" width="35"/><a href="sticker-planter.html"><span class="color-template color-template-sticker-planter color-template-background-clip">Sticker Planter</span></a>
 </td>
 <td>1/1 (100%)
 </td></tr>
 <tr>
-<td><span typeof="mw:Error mw:File"></span><a href="the-planter-of-plenty.html"><span class="color-template color-template-the-planter-of-plenty color-template-background-clip">The Planter Of Plenty</span></a>
+<td><img alt="The Planter Of Plenty" height="35" src="img/The_Planter_Of_Plenty.png" width="35"/><a href="the-planter-of-plenty.html"><span class="color-template color-template-the-planter-of-plenty color-template-background-clip">The Planter Of Plenty</span></a>
 </td>
 <td>1/3 (33.33%)
 </td></tr>
 <tr>
-<td><span typeof="mw:Error mw:File"></span><a href="petal-planter.html"><span class="color-template color-template-petal-planter color-template-background-clip">Petal Planter</span></a>
+<td><img alt="Petal Planter" height="35" src="img/Petal_Planter.png" width="35"/><a href="petal-planter.html"><span class="color-template color-template-petal-planter color-template-background-clip">Petal Planter</span></a>
 </td>
 <td>1/4 (25%)
 </td></tr>
 <tr>
-<td><span typeof="mw:Error mw:File"></span><a href="hydroponic-planter.html"><span class="color-template color-template-hydroponic-planter color-template-background-clip">Hydroponic Planter</span></a>
+<td><img alt="Hydroponic Planter" height="35" src="img/Hydroponic_Planter.png" width="35"/><a href="hydroponic-planter.html"><span class="color-template color-template-hydroponic-planter color-template-background-clip">Hydroponic Planter</span></a>
 </td>
 <td>2/9 (22.22%)
 </td></tr>
 <tr>
-<td><span typeof="mw:Error mw:File"></span><a href="heat-treated-planter.html"><span class="color-template color-template-heat-treated-planter color-template-background-clip">Heat-Treated Planter</span></a>
+<td><img alt="Heat-Treated Planter" height="35" src="img/Heat-Treated_Planter.png" width="35"/><a href="heat-treated-planter.html"><span class="color-template color-template-heat-treated-planter color-template-background-clip">Heat-Treated Planter</span></a>
 </td>
 <td>2/9 (22.22%)
 </td></tr>
 <tr>
-<td><span typeof="mw:Error mw:File"></span><a href="pesticide-planter.html"><span class="color-template color-template-pesticide-planter color-template-background-clip">Pesticide Planter</span></a>
+<td><img alt="Pesticide Planter" height="35" src="img/Pesticide_Planter.png" width="35"/><a href="pesticide-planter.html"><span class="color-template color-template-pesticide-planter color-template-background-clip">Pesticide Planter</span></a>
 </td>
 <td>1/5 (20%)
 </td></tr>
 <tr>
-<td><span typeof="mw:Error mw:File"></span><a href="tacky-planter.html"><span class="color-template color-template-tacky-planter color-template-background-clip">Tacky Planter</span></a>
+<td><img alt="Tacky Planter" height="35" src="img/Tacky_Planter.png" width="35"/><a href="tacky-planter.html"><span class="color-template color-template-tacky-planter color-template-background-clip">Tacky Planter</span></a>
 </td>
 <td>1/5 (20%)
 </td></tr>
 <tr>
-<td><span typeof="mw:Error mw:File"></span><a href="red-clay-planter.html"><span class="color-template color-template-red-clay-planter color-template-background-clip">Red Clay Planter</span></a>
+<td><img alt="Red Clay Planter" height="35" src="img/Red_Clay_Planter.png" width="35"/><a href="red-clay-planter.html"><span class="color-template color-template-red-clay-planter color-template-background-clip">Red Clay Planter</span></a>
 </td>
 <td>1/6 (16.67%)
 </td></tr>
 <tr>
-<td><span typeof="mw:Error mw:File"></span><a href="blue-clay-planter.html"><span class="color-template color-template-blue-clay-planter color-template-background-clip">Blue Clay Planter</span></a>
+<td><img alt="Blue Clay Planter" height="35" src="img/Blue_Clay_Planter.png" width="35"/><a href="blue-clay-planter.html"><span class="color-template color-template-blue-clay-planter color-template-background-clip">Blue Clay Planter</span></a>
 </td>
 <td>1/6 (16.67%)
 </td></tr>
 <tr>
-<td><span typeof="mw:Error mw:File"></span><a href="candy-planter.html"><span class="color-template color-template-candy-planter color-template-background-clip">Candy Planter</span></a>
+<td><img alt="Candy Planter" height="35" src="img/Candy_Planter.png" width="35"/><a href="candy-planter.html"><span class="color-template color-template-candy-planter color-template-background-clip">Candy Planter</span></a>
 </td>
 <td>1/7 (14.28%)
 </td></tr>
 <tr>
-<td><span typeof="mw:Error mw:File"></span><a href="plastic-planter.html"><span class="color-template color-template-plastic-planter color-template-background-clip">Plastic Planter</span></a>
+<td><img alt="Plastic Planter" height="35" src="img/Plastic_Planter.png" width="35"/><a href="plastic-planter.html"><span class="color-template color-template-plastic-planter color-template-background-clip">Plastic Planter</span></a>
 </td>
 <td>1/7 (14.28%)
 </td></tr>
 <tr>
-<td><span typeof="mw:Error mw:File"></span><a href="festive-planter.html"><span class="color-template color-template-festive-planter color-template-background-clip">Festive Planter</span></a>
+<td><img alt="Festive Planter" height="35" src="img/Festive_Planter.png" width="35"/><a href="festive-planter.html"><span class="color-template color-template-festive-planter color-template-background-clip">Festive Planter</span></a>
 </td>
 <td>1/10 (10%)
 </td></tr>
 <tr>
-<td><span typeof="mw:Error mw:File"></span><a href="paper-planter.html"><span class="color-template color-template-paper-planter color-template-background-clip">Paper Planter</span></a>
+<td><img alt="Paper Planter" height="35" src="img/Paper_Planter.png" width="35"/><a href="paper-planter.html"><span class="color-template color-template-paper-planter color-template-background-clip">Paper Planter</span></a>
 </td>
 <td>1/10 (10%)
 </td></tr></tbody></table>
@@ -547,17 +547,17 @@ The types and quality of the drops depend on the rarity, level, and the damage d
 </th></tr>
 <tr>
 <td>
-<p><span typeof="mw:Error mw:File"></span><a href="ticket.html"><span class="color-template color-template-ticket color-template-background-clip">Tickets</span></a><br/>
-<span typeof="mw:Error mw:File"></span><a href="gumdrops.html"><span class="color-template color-template-gumdrops color-template-background-clip">Gumdrops</span></a> (Increments of 1 or 2)<br/>
-<span typeof="mw:Error mw:File"></span><a href="royal-jelly.html"><span class="color-template color-template-royal-jelly color-template-background-clip">Royal Jellies</span></a><br/>
-<span typeof="mw:Error mw:File"></span><a href="strawberry.html"><span class="color-template color-template-strawberry color-template-background-clip">Strawberries</span></a> (Higher chance in red fields)<br/>
-<span typeof="mw:Error mw:File"></span><a href="blueberry.html"><span class="color-template color-template-blueberry color-template-background-clip">Blueberries</span></a> (Higher chance in blue fields)<br/>
-<span typeof="mw:Error mw:File"></span><a href="sunflower-seed.html"><span class="color-template color-template-sunflower-seed color-template-background-clip">Sunflower Seeds</span></a> (Higher chance in <a href="sunflower-field.html">Sunflower Field</a>)<br/>
-<span typeof="mw:Error mw:File"></span><a href="pineapple.html"><span class="color-template color-template-pineapple color-template-background-clip">Pineapples</span></a> (Higher chance in <a href="pineapple-patch.html">Pineapple Patch</a>)<br/>
-<span typeof="mw:Error mw:File"></span><a href="bitterberry.html"><span class="color-template color-template-bitterberry color-template-background-clip">Bitterberries</span></a> (Increments of 1 or 2)<br/>
-<span typeof="mw:Error mw:File"></span><a href="neonberry.html"><span class="color-template color-template-neonberry color-template-background-clip">Neonberries</span></a><br/>
-<span typeof="mw:Error mw:File"></span><a href="coconut.html"><span class="color-template color-template-coconut color-template-background-clip">Coconuts</span></a> (Exclusive to 35 Bee Zone Fields)<br/>
-<span typeof="mw:Error mw:File"></span><a href="soft-wax.html"><span class="color-template color-template-soft-wax">Soft Waxes</span></a> (Common)<br/>
+<p><img alt="Ticket" height="35" src="img/Ticket.png" width="35"/><a href="ticket.html"><span class="color-template color-template-ticket color-template-background-clip">Tickets</span></a><br/>
+<img alt="Gumdrops" height="35" src="img/Gumdrops.png" width="35"/><a href="gumdrops.html"><span class="color-template color-template-gumdrops color-template-background-clip">Gumdrops</span></a> (Increments of 1 or 2)<br/>
+<img alt="Royal Jelly" height="35" src="img/Royal_Jelly.png" width="35"/><a href="royal-jelly.html"><span class="color-template color-template-royal-jelly color-template-background-clip">Royal Jellies</span></a><br/>
+<img alt="Strawberry" height="35" src="img/Strawberry.png" width="35"/><a href="strawberry.html"><span class="color-template color-template-strawberry color-template-background-clip">Strawberries</span></a> (Higher chance in red fields)<br/>
+<img alt="Blueberry" height="35" src="img/Blueberry.png" width="35"/><a href="blueberry.html"><span class="color-template color-template-blueberry color-template-background-clip">Blueberries</span></a> (Higher chance in blue fields)<br/>
+<img alt="Sunflower Seed" height="35" src="img/Sunflower_Seed.png" width="35"/><a href="sunflower-seed.html"><span class="color-template color-template-sunflower-seed color-template-background-clip">Sunflower Seeds</span></a> (Higher chance in <a href="sunflower-field.html">Sunflower Field</a>)<br/>
+<img alt="Pineapple" height="35" src="img/Pineapple.png" width="35"/><a href="pineapple.html"><span class="color-template color-template-pineapple color-template-background-clip">Pineapples</span></a> (Higher chance in <a href="pineapple-patch.html">Pineapple Patch</a>)<br/>
+<img alt="Bitterberry" height="35" src="img/Bitterberry.png" width="35"/><a href="bitterberry.html"><span class="color-template color-template-bitterberry color-template-background-clip">Bitterberries</span></a> (Increments of 1 or 2)<br/>
+<img alt="Neonberry" height="35" src="img/Neonberry.png" width="35"/><a href="neonberry.html"><span class="color-template color-template-neonberry color-template-background-clip">Neonberries</span></a><br/>
+<img alt="Coconut" height="35" src="img/Coconut.png" width="35"/><a href="coconut.html"><span class="color-template color-template-coconut color-template-background-clip">Coconuts</span></a> (Exclusive to 35 Bee Zone Fields)<br/>
+<img alt="Soft Wax" height="35" src="img/Soft_Wax.png" width="35"/><a href="soft-wax.html"><span class="color-template color-template-soft-wax">Soft Waxes</span></a> (Common)<br/>
 <span typeof="mw:Error mw:File"></span> Spore Covered Puffshroom<br/>
 <span typeof="mw:Error mw:File"></span> White Button Mushroom (Exclusive to the 5 Bee Zone)<br/>
 <span typeof="mw:Error mw:File"></span> Fly Agaric Mushroom (Exclusive to the Starter Zone)<br/>
@@ -578,13 +578,13 @@ The types and quality of the drops depend on the rarity, level, and the damage d
 <tr>
 <td>
 <p>All common drops.<br/>
-<span typeof="mw:Error mw:File"></span><a href="glue.html"><span class="color-template color-template-glue color-template-background-clip">Glues</span></a> (Common)<br/>
-<span typeof="mw:Error mw:File"></span><a href="glitter.html"><span class="color-template color-template-glitter color-template-background-clip">Glitter</span></a> (Common)<br/>
-<span typeof="mw:Error mw:File"></span><a href="field-dice.html"><span class="color-template color-template-field-dice color-template-background-clip">Field Dice</span></a> (Common)<br/>
-<span typeof="mw:Error mw:File"></span><a href="smooth-dice.html"><span class="color-template color-template-smooth-dice color-template-background-clip">Smooth Dice</span></a> (Uncommon)<br/>
-<span typeof="mw:Error mw:File"></span><a href="soft-wax.html"><span class="color-template color-template-soft-wax">Soft Waxes</span></a><br/>
-<span typeof="mw:Error mw:File"></span><a href="hard-wax.html"><span class="color-template color-template-hard-wax">Hard Waxes</span></a> (Common) Limited per day<br/>
-<span typeof="mw:Error mw:File"></span><a href="royal-jelly.html#Star_Jelly"><span class="color-template color-template-star-jelly color-template-background-clip">Star Jellies</span></a> (Rare)<br/>
+<img alt="Glue" height="35" src="img/Glue.png" width="35"/><a href="glue.html"><span class="color-template color-template-glue color-template-background-clip">Glues</span></a> (Common)<br/>
+<img alt="Glitter" height="35" src="img/Glitter.png" width="35"/><a href="glitter.html"><span class="color-template color-template-glitter color-template-background-clip">Glitter</span></a> (Common)<br/>
+<img alt="Field Dice" height="35" src="img/Field_Dice.png" width="35"/><a href="field-dice.html"><span class="color-template color-template-field-dice color-template-background-clip">Field Dice</span></a> (Common)<br/>
+<img alt="Smooth Dice" height="35" src="img/Smooth_Dice.png" width="35"/><a href="smooth-dice.html"><span class="color-template color-template-smooth-dice color-template-background-clip">Smooth Dice</span></a> (Uncommon)<br/>
+<img alt="Soft Wax" height="35" src="img/Soft_Wax.png" width="35"/><a href="soft-wax.html"><span class="color-template color-template-soft-wax">Soft Waxes</span></a><br/>
+<img alt="Hard Wax" height="35" src="img/Hard_Wax.png" width="35"/><a href="hard-wax.html"><span class="color-template color-template-hard-wax">Hard Waxes</span></a> (Common) Limited per day<br/>
+<img alt="Star Jelly" height="35" src="img/Star_Jelly.png" width="35"/><a href="royal-jelly.html#Star_Jelly"><span class="color-template color-template-star-jelly color-template-background-clip">Star Jellies</span></a> (Rare)<br/>
 </p>
 </td></tr></tbody></table>
 
@@ -597,16 +597,16 @@ The types and quality of the drops depend on the rarity, level, and the damage d
 <tr>
 <td>
 <p>All common drops.<br/>
-<span typeof="mw:Error mw:File"></span><a href="glue.html"><span class="color-template color-template-glue color-template-background-clip">Glues</span></a> (Common)<br/>
-<span typeof="mw:Error mw:File"></span><a href="glitter.html"><span class="color-template color-template-glitter color-template-background-clip">Glitter</span></a> (Common)<br/>
-<span typeof="mw:Error mw:File"></span><a href="royal-jelly.html#Star_Jelly"><span class="color-template color-template-star-jelly color-template-background-clip">Star Jellies</span></a> (Rare)<br/>
-<span typeof="mw:Error mw:File"></span><a href="field-dice.html"><span class="color-template color-template-field-dice color-template-background-clip">Field Dice</span></a><br/>
-<span typeof="mw:Error mw:File"></span><a href="smooth-dice.html"><span class="color-template color-template-smooth-dice color-template-background-clip">Smooth Dice</span></a> (Common)<br/>
-<span typeof="mw:Error mw:File"></span><a href="loaded-dice.html"><span class="color-template color-template-loaded-dice color-template-background-clip">Loaded Dice</span></a> (Rare)<br/>
-<span typeof="mw:Error mw:File"></span><a href="robo-pass.html"><span class="color-template color-template-robo-pass color-template-background-clip">Robo Passes</span></a> (Common)<br/>
-<span typeof="mw:Error mw:File"></span><a href="soft-wax.html"><span class="color-template color-template-soft-wax">Soft Waxes</span></a><br/>
-<span typeof="mw:Error mw:File"></span><a href="hard-wax.html"><span class="color-template color-template-hard-wax">Hard Waxes</span></a> (Common)<br/>
-<span typeof="mw:Error mw:File"></span><a href="swirled-wax.html"><span class="color-template color-template-swirled-wax color-template-background-clip">Swirled Waxes</span></a> (Rare)<br/>
+<img alt="Glue" height="35" src="img/Glue.png" width="35"/><a href="glue.html"><span class="color-template color-template-glue color-template-background-clip">Glues</span></a> (Common)<br/>
+<img alt="Glitter" height="35" src="img/Glitter.png" width="35"/><a href="glitter.html"><span class="color-template color-template-glitter color-template-background-clip">Glitter</span></a> (Common)<br/>
+<img alt="Star Jelly" height="35" src="img/Star_Jelly.png" width="35"/><a href="royal-jelly.html#Star_Jelly"><span class="color-template color-template-star-jelly color-template-background-clip">Star Jellies</span></a> (Rare)<br/>
+<img alt="Field Dice" height="35" src="img/Field_Dice.png" width="35"/><a href="field-dice.html"><span class="color-template color-template-field-dice color-template-background-clip">Field Dice</span></a><br/>
+<img alt="Smooth Dice" height="35" src="img/Smooth_Dice.png" width="35"/><a href="smooth-dice.html"><span class="color-template color-template-smooth-dice color-template-background-clip">Smooth Dice</span></a> (Common)<br/>
+<img alt="Loaded Dice" height="35" src="img/Loaded_Dice.png" width="35"/><a href="loaded-dice.html"><span class="color-template color-template-loaded-dice color-template-background-clip">Loaded Dice</span></a> (Rare)<br/>
+<img alt="Robo Pass" height="35" src="img/Robo_Pass.png" width="35"/><a href="robo-pass.html"><span class="color-template color-template-robo-pass color-template-background-clip">Robo Passes</span></a> (Common)<br/>
+<img alt="Soft Wax" height="35" src="img/Soft_Wax.png" width="35"/><a href="soft-wax.html"><span class="color-template color-template-soft-wax">Soft Waxes</span></a><br/>
+<img alt="Hard Wax" height="35" src="img/Hard_Wax.png" width="35"/><a href="hard-wax.html"><span class="color-template color-template-hard-wax">Hard Waxes</span></a> (Common)<br/>
+<img alt="Swirled Wax" height="35" src="img/Swirled_Wax.png" width="35"/><a href="swirled-wax.html"><span class="color-template color-template-swirled-wax color-template-background-clip">Swirled Waxes</span></a> (Rare)<br/>
 <span typeof="mw:Error mw:File"></span> Black Truffle Mushroom (Unbelievably Rare)<br/>
 <span typeof="mw:Error mw:File"></span> Wavy Yellow Hive Skin (Exclusive to the Sunflower Field and Pineapple Patch; Unfathomably Rare)<br/>
 </p>
@@ -621,18 +621,18 @@ The types and quality of the drops depend on the rarity, level, and the damage d
 <tr>
 <td>
 <p>All common drops.<br/>
-<span typeof="mw:Error mw:File"></span><a href="glue.html"><span class="color-template color-template-glue color-template-background-clip">Glues</span></a> (Common)<br/>
-<span typeof="mw:Error mw:File"></span><a href="glitter.html"><span class="color-template color-template-glitter color-template-background-clip">Glitter</span></a> (Common)<br/>
-<span typeof="mw:Error mw:File"></span><a href="royal-jelly.html#Star_Jelly"><span class="color-template color-template-star-jelly color-template-background-clip">Star Jellies</span></a> (Common)<br/>
-<span typeof="mw:Error mw:File"></span><a href="field-dice.html"><span class="color-template color-template-field-dice color-template-background-clip">Field Dice</span></a><br/>
-<span typeof="mw:Error mw:File"></span><a href="smooth-dice.html"><span class="color-template color-template-smooth-dice color-template-background-clip">Smooth Dice</span></a> (Common)<br/>
-<span typeof="mw:Error mw:File"></span><a href="loaded-dice.html"><span class="color-template color-template-loaded-dice color-template-background-clip">Loaded Dice</span></a> (Common)<br/>
-<span typeof="mw:Error mw:File"></span><a href="robo-pass.html"><span class="color-template color-template-robo-pass color-template-background-clip">Robo Passes</span></a> (Common)<br/>
-<span typeof="mw:Error mw:File"></span><a href="soft-wax.html"><span class="color-template color-template-soft-wax">Soft Waxes</span></a><br/>
-<span typeof="mw:Error mw:File"></span><a href="hard-wax.html"><span class="color-template color-template-hard-wax">Hard Waxes</span></a><br/>
-<span typeof="mw:Error mw:File"></span><a href="swirled-wax.html"><span class="color-template color-template-swirled-wax color-template-background-clip">Swirled Waxes</span></a> (Common)<br/>
-<span typeof="mw:Error mw:File"></span><a href="caustic-wax.html"><span class="color-template color-template-caustic-wax">Caustic Waxes</span></a> (Uncommon)<br/>
-<span typeof="mw:Error mw:File"></span><a href="turpentine.html"><span class="color-template color-template-turpentine color-template-background-clip">Turpentines</span></a> (Uncommon)<br/>
+<img alt="Glue" height="35" src="img/Glue.png" width="35"/><a href="glue.html"><span class="color-template color-template-glue color-template-background-clip">Glues</span></a> (Common)<br/>
+<img alt="Glitter" height="35" src="img/Glitter.png" width="35"/><a href="glitter.html"><span class="color-template color-template-glitter color-template-background-clip">Glitter</span></a> (Common)<br/>
+<img alt="Star Jelly" height="35" src="img/Star_Jelly.png" width="35"/><a href="royal-jelly.html#Star_Jelly"><span class="color-template color-template-star-jelly color-template-background-clip">Star Jellies</span></a> (Common)<br/>
+<img alt="Field Dice" height="35" src="img/Field_Dice.png" width="35"/><a href="field-dice.html"><span class="color-template color-template-field-dice color-template-background-clip">Field Dice</span></a><br/>
+<img alt="Smooth Dice" height="35" src="img/Smooth_Dice.png" width="35"/><a href="smooth-dice.html"><span class="color-template color-template-smooth-dice color-template-background-clip">Smooth Dice</span></a> (Common)<br/>
+<img alt="Loaded Dice" height="35" src="img/Loaded_Dice.png" width="35"/><a href="loaded-dice.html"><span class="color-template color-template-loaded-dice color-template-background-clip">Loaded Dice</span></a> (Common)<br/>
+<img alt="Robo Pass" height="35" src="img/Robo_Pass.png" width="35"/><a href="robo-pass.html"><span class="color-template color-template-robo-pass color-template-background-clip">Robo Passes</span></a> (Common)<br/>
+<img alt="Soft Wax" height="35" src="img/Soft_Wax.png" width="35"/><a href="soft-wax.html"><span class="color-template color-template-soft-wax">Soft Waxes</span></a><br/>
+<img alt="Hard Wax" height="35" src="img/Hard_Wax.png" width="35"/><a href="hard-wax.html"><span class="color-template color-template-hard-wax">Hard Waxes</span></a><br/>
+<img alt="Swirled Wax" height="35" src="img/Swirled_Wax.png" width="35"/><a href="swirled-wax.html"><span class="color-template color-template-swirled-wax color-template-background-clip">Swirled Waxes</span></a> (Common)<br/>
+<img alt="Caustic Wax" height="35" src="img/Caustic_Wax.png" width="35"/><a href="caustic-wax.html"><span class="color-template color-template-caustic-wax">Caustic Waxes</span></a> (Uncommon)<br/>
+<img alt="Turpentine" height="35" src="img/Turpentine.png" width="35"/><a href="turpentine.html"><span class="color-template color-template-turpentine color-template-background-clip">Turpentines</span></a> (Uncommon)<br/>
 <span typeof="mw:Error mw:File"></span> Black Truffle Mushroom (Unbelievably Rare)<br/>
 <span typeof="mw:Error mw:File"></span> Wavy Yellow Hive Skin (Exclusive to the Sunflower Field and Pineapple Patch; Unfathomably Rare)<br/>
 <span typeof="mw:Error mw:File"></span> Wavy Cyan Hive Skin (Exclusive to Blue Fields; Unfathomably Rare)<br/>
@@ -648,18 +648,18 @@ The types and quality of the drops depend on the rarity, level, and the damage d
 <tr>
 <td>
 <p>All common drops.<br/>
-<span typeof="mw:Error mw:File"></span><a href="glue.html"><span class="color-template color-template-glue color-template-background-clip">Glues</span></a> (Common)<br/>
-<span typeof="mw:Error mw:File"></span><a href="glitter.html"><span class="color-template color-template-glitter color-template-background-clip">Glitter</span></a> (Common)<br/>
-<span typeof="mw:Error mw:File"></span><a href="royal-jelly.html#Star_Jelly"><span class="color-template color-template-star-jelly color-template-background-clip">Star Jellies</span></a> (Common)<br/>
-<span typeof="mw:Error mw:File"></span><a href="field-dice.html"><span class="color-template color-template-field-dice color-template-background-clip">Field Dice</span></a><br/>
-<span typeof="mw:Error mw:File"></span><a href="smooth-dice.html"><span class="color-template color-template-smooth-dice color-template-background-clip">Smooth Dice</span></a> (Common)<br/>
-<span typeof="mw:Error mw:File"></span><a href="loaded-dice.html"><span class="color-template color-template-loaded-dice color-template-background-clip">Loaded Dice</span></a> (Common)<br/>
-<span typeof="mw:Error mw:File"></span><a href="robo-pass.html"><span class="color-template color-template-robo-pass color-template-background-clip">Robo Passes</span></a> (Common)<br/>
-<span typeof="mw:Error mw:File"></span><a href="soft-wax.html"><span class="color-template color-template-soft-wax">Soft Waxes</span></a><br/>
-<span typeof="mw:Error mw:File"></span><a href="hard-wax.html"><span class="color-template color-template-hard-wax">Hard Waxes</span></a><br/>
-<span typeof="mw:Error mw:File"></span><a href="swirled-wax.html"><span class="color-template color-template-swirled-wax color-template-background-clip">Swirled Waxes</span></a> (Common)<br/>
-<span typeof="mw:Error mw:File"></span><a href="caustic-wax.html"><span class="color-template color-template-caustic-wax">Caustic Waxes</span></a> (Common)<br/>
-<span typeof="mw:Error mw:File"></span><a href="turpentine.html"><span class="color-template color-template-turpentine color-template-background-clip">Turpentines</span></a> (Common)<br/>
+<img alt="Glue" height="35" src="img/Glue.png" width="35"/><a href="glue.html"><span class="color-template color-template-glue color-template-background-clip">Glues</span></a> (Common)<br/>
+<img alt="Glitter" height="35" src="img/Glitter.png" width="35"/><a href="glitter.html"><span class="color-template color-template-glitter color-template-background-clip">Glitter</span></a> (Common)<br/>
+<img alt="Star Jelly" height="35" src="img/Star_Jelly.png" width="35"/><a href="royal-jelly.html#Star_Jelly"><span class="color-template color-template-star-jelly color-template-background-clip">Star Jellies</span></a> (Common)<br/>
+<img alt="Field Dice" height="35" src="img/Field_Dice.png" width="35"/><a href="field-dice.html"><span class="color-template color-template-field-dice color-template-background-clip">Field Dice</span></a><br/>
+<img alt="Smooth Dice" height="35" src="img/Smooth_Dice.png" width="35"/><a href="smooth-dice.html"><span class="color-template color-template-smooth-dice color-template-background-clip">Smooth Dice</span></a> (Common)<br/>
+<img alt="Loaded Dice" height="35" src="img/Loaded_Dice.png" width="35"/><a href="loaded-dice.html"><span class="color-template color-template-loaded-dice color-template-background-clip">Loaded Dice</span></a> (Common)<br/>
+<img alt="Robo Pass" height="35" src="img/Robo_Pass.png" width="35"/><a href="robo-pass.html"><span class="color-template color-template-robo-pass color-template-background-clip">Robo Passes</span></a> (Common)<br/>
+<img alt="Soft Wax" height="35" src="img/Soft_Wax.png" width="35"/><a href="soft-wax.html"><span class="color-template color-template-soft-wax">Soft Waxes</span></a><br/>
+<img alt="Hard Wax" height="35" src="img/Hard_Wax.png" width="35"/><a href="hard-wax.html"><span class="color-template color-template-hard-wax">Hard Waxes</span></a><br/>
+<img alt="Swirled Wax" height="35" src="img/Swirled_Wax.png" width="35"/><a href="swirled-wax.html"><span class="color-template color-template-swirled-wax color-template-background-clip">Swirled Waxes</span></a> (Common)<br/>
+<img alt="Caustic Wax" height="35" src="img/Caustic_Wax.png" width="35"/><a href="caustic-wax.html"><span class="color-template color-template-caustic-wax">Caustic Waxes</span></a> (Common)<br/>
+<img alt="Turpentine" height="35" src="img/Turpentine.png" width="35"/><a href="turpentine.html"><span class="color-template color-template-turpentine color-template-background-clip">Turpentines</span></a> (Common)<br/>
 <span typeof="mw:Error mw:File"></span> Black Truffle Mushroom (Unbelievably Rare)<br/>
 <span typeof="mw:Error mw:File"></span> Prismatic Mushroom (Unbelievably Rare)<br/>
 <span typeof="mw:Error mw:File"></span> Wavy Yellow Hive Skin (Exclusive to the Sunflower Field and Pineapple Patch; Unfathomably Rare)<br/>
@@ -706,10 +706,6 @@ Puffshroom Blessing grants +1~10% of the following buffs for 3 hours depending o
 * Listening to the spawn sounds of different rarities of Puffshrooms will help you identify them if you can't spot them.
 * Defeating tough mobs that spawn before doing Puffshrooms prevents your bees from being distracted by the mob, such as the [Mondo Chick](mondo-chick.md) and [Coconut Crab](coconut-crab.md).
 * One of the best ways to get a large amount of Puffshrooms is to get them into either the Cactus, Pumpkin, or Pine Tree field. Then, assign one player to the each of the three fields, and "bounce" the Puffshrooms between those three fields. (This is commonly referred to as the "15 zone strat".) More fields, such as Rose, Strawberry, and rarely Mountain Top can be added if more players are present.
-
-## Gallery
-
-<div class="wikia-gallery wikia-gallery-caption-below wikia-gallery-position-left wikia-gallery-spacing-medium wikia-gallery-border-small wikia-gallery-captions-left wikia-gallery-caption-size-medium" data-seq-no="0" hash="7711d9d2b4312ba1b5393a6d2e0ef384" id="gallery-0"><div class="wikia-gallery-caption"></div><div class="wikia-gallery-item" style="width:202px; "><div class="thumb" style="height:202px;"><div class="gallery-image-wrapper accent" id="PotWithSpores-png" style="position: relative; height:200px; width:200px;"><span style="line-height: 1;">PotWithSpores.png</span></div></div><div class="lightbox-caption" style="width:200px;">A <span typeof="mw:Error mw:File"></span><a href="ticket-planter.html"><span class="color-template color-template-ticket-planter color-template-background-clip">Ticket Planter</span></a> with spore gases, indicating that it will spawn a Puffshroom.</div></div><div class="wikia-gallery-item" style="width:202px; "><div class="thumb" style="height:202px;"><div class="gallery-image-wrapper accent" id="Sporeshroom-png" style="position: relative; height:200px; width:200px;"><span style="line-height: 1;">Sporeshroom.png</span></div></div><div class="lightbox-caption" style="width:200px;">A Puffshroom spore that is released from its parent Puffshroom.</div></div><div class="wikia-gallery-item" style="width:202px; "><div class="thumb" style="height:202px;"><div class="gallery-image-wrapper accent" id="Natural_Puffshroom-png" style="position: relative; height:200px; width:200px;"><span style="line-height: 1;">Natural Puffshroom.png</span></div></div><div class="lightbox-caption" style="width:200px;">A naturally spawned Puffshroom.</div></div><div class="wikia-gallery-item" style="width:202px; "><div class="thumb" style="height:202px;"><div class="gallery-image-wrapper accent" id="Rare_Puffshroom-png" style="position: relative; height:200px; width:200px;"><span style="line-height: 1;">Rare Puffshroom.png</span></div></div><div class="lightbox-caption" style="width:200px;">A Rare Puffshroom in the Mushroom Field.</div></div><div class="wikia-gallery-item" style="width:202px; "><div class="thumb" style="height:202px;"><div class="gallery-image-wrapper accent" id="Epic_Puffshroom_Spider-png" style="position: relative; height:200px; width:200px;"><span style="line-height: 1;">Epic Puffshroom Spider.png</span></div></div><div class="lightbox-caption" style="width:200px;">An Epic Puffshroom in the Spider Field.</div></div><div class="wikia-gallery-item" style="width:202px; "><div class="thumb" style="height:202px;"><div class="gallery-image-wrapper accent" id="Legendary_Puffshroom_-png" style="position: relative; height:200px; width:200px;"><span style="line-height: 1;">Legendary Puffshroom .png</span></div></div><div class="lightbox-caption" style="width:200px;">A Legendary Puffshroom in the Sunflower Field.</div></div><div class="wikia-gallery-item" style="width:202px; "><div class="thumb" style="height:202px;"><div class="gallery-image-wrapper accent" id="Mythic_Puffshroom-png" style="position: relative; height:200px; width:200px;"><span style="line-height: 1;">Mythic Puffshroom.png</span></div></div><div class="lightbox-caption" style="width:200px;">A Mythic Puffshroom in the Pineapple Patch.</div></div><div class="wikia-gallery-item" style="width:202px; "><div class="thumb" style="height:202px;"><div class="gallery-image-wrapper accent" id="Epic_Puffshroom_LVL_30-png" style="position: relative; height:200px; width:200px;"><span style="line-height: 1;">Epic Puffshroom LVL 30.png</span></div></div><div class="lightbox-caption" style="width:200px;">A Level 30 Epic Puffshroom in the Sunflower Field spawned by Onett.</div></div><div class="wikia-gallery-item" style="width:202px; "><div class="thumb" style="height:202px;"><div class="gallery-image-wrapper accent" id="NighttimeLegend-png" style="position: relative; height:200px; width:200px;"><span style="line-height: 1;">NighttimeLegend.png</span></div></div><div class="lightbox-caption" style="width:200px;">A Level 4 Legendary Puffshroom in the Dandelion Field spawned by Onett at the end of Beesmas 2021.</div></div><div class="wikia-gallery-item" style="width:202px; "><div class="thumb" style="height:202px;"><div class="gallery-image-wrapper accent" id="RobloxScreenShot20220331_150222845-png" style="position: relative; height:200px; width:200px;"><span style="line-height: 1;">RobloxScreenShot20220331 150222845.png</span></div></div><div class="lightbox-caption" style="width:200px;">Several Legendary Puffshrooms in the Sunflower Field summoned by Onett at the end of Beesmas 2021.</div></div><div class="wikia-gallery-item" style="width:202px; "><div class="thumb" style="height:202px;"><div class="gallery-image-wrapper accent" id="RobloxScreenShot20220331_160921269-png" style="position: relative; height:200px; width:200px;"><span style="line-height: 1;">RobloxScreenShot20220331 160921269.png</span></div></div><div class="lightbox-caption" style="width:200px;">Rare Puffshrooms in the Mountain Top Field spawned by Onett at the end of Beesmas 2021.</div></div></div>
 
 ## Trivia
 

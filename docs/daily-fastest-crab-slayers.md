@@ -1,6 +1,6 @@
 ---
 title: "Daily Fastest Crab Slayers"
-tags: ["Pages with broken file links", "Leaderboards"]
+tags: ["Leaderboards"]
 ---
 
 # Daily Fastest Crab Slayers

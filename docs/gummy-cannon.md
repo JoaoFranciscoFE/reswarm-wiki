@@ -1,6 +1,6 @@
 ---
 title: "Gummy Cannon"
-tags: ["Pages with broken file links", "Removed Content", "Gummy Invasion", "Goo", "Machines", "Beesmas", "Starter Zone"]
+tags: ["Removed Content", "Gummy Invasion", "Goo", "Machines", "Beesmas", "Starter Zone"]
 ---
 
 # Gummy Cannon
