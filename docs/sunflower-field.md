@@ -161,51 +161,15 @@ This is a 20×33 field, containing 660 [flowers](flowers.md). The [flowers](flow
 * Having an active [Autumn Sunhat](autumn-sunhat.md) [Beequip](beequip.md) with a Sunflower Field Pollen Hive Bonus (+18% to +24% base, up to +44% with Waxing)
 * Having an active [Lei](lei.md) [Beequip](beequip.md) with a Sunflower Field Pollen Hive Bonus (+3% to +5% base, not guaranteed, up to +25% with Waxing)
 
-### Outdated Ways
-
-<table class="mw-collapsible mw-collapsed article-table">
-<caption>
-</caption>
-<tbody><tr>
-<td>
-<ul><li>Giving a <a href="present.html">present</a> to certain <a href="quest-givers.html">NPCs</a>:
-<ul><li><a href="black-bear.html">Black Bear</a> gave Sunflower Field Boost x5 and other <a href="items.html">items</a> in Beesmas 2018.
-<ul><li>In Beesmas 2020, he gave Sunflower Field Boost x3 and other items.</li>
-<li>During Beesmas 2021, he gave Sunflower Field Boost x3 and other items.</li></ul></li>
-<li><a href="onett.html">Onett</a> gave Sunflower Field Boost x1 and other boosts and items.</li></ul></li>
-<li>Purchasing a Sunflower Field <a href="buffs-debuffs.html#From_Areas">Market Boost</a> from the <a href="boost-market.html">Boost Market</a> will give x1.5 Sunflower <a href="field-capacity.html">Field Capacity</a>, x1.25 Sunflower Field Pollen, x1.05 Pollen, and x1.25 <a href="system-page.html#Hive_Convert_Rate">Convert Rate at Hive</a>.</li>
-<li>Redeeming certain expired codes:
-<ul><li>AccentMaster (Gave Sunflower Field Boost x1 + other stuff).</li>
-<li>1MLikes (Gives Sunflower Field Boost x1 + other stuff)</li>
-<li>100mVisits (Gave Sunflower Field Boost x6 + other stuff).</li>
-<li>Gel (Gave Sunflower Field Boost x5 + other stuff).</li>
-<li>Reboot (Gave Sunflower Field Boost x6 + other stuff).</li>
-<li>SaleEnd (Gave Sunflower Field Boost x5 + other stuff).</li>
-<li>ThatGuysCrew (Gave Sunflower Field Boost x6 + other stuff).</li>
-<li>12HourGeneral (Gave Sunflower Field Boost x3 + other stuff).</li>
-<li>1mFavorites (Gave Sunflower Field Boost x1 + other stuff).</li>
-<li>NoobashaBonus (Gave Sunflower Field Boost x4 + other stuff).</li>
-<li>Trying (Gave Sunflower Field Boost x4 + other stuff).</li>
-<li>300mVisits (Gave Sunflower Field Boost x2 + other stuff).</li>
-<li>2mFavorites (Gave Sunflower Field Boost x5 + other stuff).</li>
-<li>Poke (Gave Sunflower Field Boost x5 + other stuff).</li>
-<li>ClubBasket (Gave Sunflower Field Boost x2 + other stuff).</li>
-<li>Market (Gave Sunflower Field Market Boost + other stuff).</li>
-<li>FuzzyFarewell (Gave Sunflower Field Boost x3 and Sunflower Field Capacity x3 + other stuff).</li>
-<li>BillionVisits (Gave Sunflower Field Winds x10 + other stuff).</li>
-<li>FourYearFiesta (Gave Sunflower Field Boost x4 and Winds x15 + other stuff).</li>
-<li>Millie (Activates Sunflower Field Code Buff + other stuff).</li></ul></li></ul>
-</td></tr></tbody></table>
-
 ## Trivia
 
 * This is the only [field](fields.md) in the game where the player can find [sunflower seeds](sunflower-seed.md) that spawn naturally, without the need of [sprouts](sprout.md).
 * This is the first field [Black Bear](black-bear.md) assigns a [quest](quests.md) to.
 * The [Sunflower badges](badges.md#Sunflower_Badge) and the [Pumpkin badges](badges.md#Pumpkin_Badge) are used 3 times for chances in [Memory Match](memory-match.md), the most for any field badges.
-* This was the second-biggest field in the game, the biggest one being the [Clover Field](clover-field.md). After the [2018-07-11 update](updates.md#2018-07-11), this isn't the case anymore.
+* This was the second-biggest field in the game, the biggest one being the [Clover Field](clover-field.md). After the 2018-07-11 update, this isn't the case anymore.
   * Similar to why the [Clover Field](clover-field.md) was shrunk, this field was decreased in size to make room for [Mother Bear](mother-bear.md) and the [Treat Shop](treat-shop.md), which can be found at the end of the field.
 * This field along with the [Pineapple Patch](pineapple-patch.md) and the [Pumpkin Patch](pumpkin-patch.md) are the only fields where an object may come to life and shoot [sparkles](sparkles.md).
-* The fence bordering the Sunflower Field and the [hives](hive.md) was temporarily removed after Beesmas Winter 2024. It was soon added back in [the following update](updates.md#2025-06-30).
+* The fence bordering the Sunflower Field and the [hives](hive.md) was temporarily removed after Beesmas Winter 2024. It was soon added back in the following update.
 
 <table class="mw-collapsible mw-collapsed NavTable">
 <tbody><tr>
@@ -249,6 +213,6 @@ This is a 20×33 field, containing 660 [flowers](flowers.md). The [flowers](flow
 <tr>
 <th class="NavCategory">Event<br/>Locations
 </th>
-<td class="NavLinks NavLinksBasicEven"><b><a href="beesmas-tree.html">Beesmas Tree</a> • <a href="ornament-presents.html">Ornament Presents</a> • <span class="new" data-uncrawlable-url="L3dpa2kvQ29tcHV0ZXI/YWN0aW9uPWVkaXQmcmVkbGluaz0x" title="Computer (page does not exist)">Computer</span> • <a href="gift-boxes.html">Gift Boxes</a> • <a href="honey-wreath.html">Honey Wreath</a> • <a href="stockings.html">Stockings</a> • <a href="gingerbread-house.html">Gingerbread House</a> • <a href="snowbear-summoner.html">Snowbear Summoner</a> • <a href="beesmas-lights.html">Beesmas Lights</a> • <a href="samovar.html">Samovar</a> • <a href="beesmas-feast.html">Beesmas Feast</a> • <a href="onett-s-lid-art.html">Onett's Lid Art</a> • <a href="wind-shrine.html#Galentine_Shrine">Galentine Shrine</a> • <a href="memory-match.html#Winter_Memory_Match">Winter Memory Match</a> • <a href="snow-machine.html">Snow Machine</a> • <a href="honeyday-candles.html">Honeyday Candles</a> • <a href="robo-party-cake.html">Robo Party Cake</a> • <a href="gummy-beacon.html">Gummy Beacon</a> • <a href="naughty-list.html">Naughty List</a></b>
+<td class="NavLinks NavLinksBasicEven"><b><a href="beesmas-tree.html">Beesmas Tree</a> • <span class="new" data-uncrawlable-url="L3dpa2kvQ29tcHV0ZXI/YWN0aW9uPWVkaXQmcmVkbGluaz0x" title="Computer (page does not exist)">Computer</span> • <a href="gift-boxes.html">Gift Boxes</a> • <a href="honey-wreath.html">Honey Wreath</a> • <a href="stockings.html">Stockings</a> • <a href="gingerbread-house.html">Gingerbread House</a> • <a href="snowbear-summoner.html">Snowbear Summoner</a> • <a href="beesmas-lights.html">Beesmas Lights</a> • <a href="samovar.html">Samovar</a> • <a href="beesmas-feast.html">Beesmas Feast</a> • <a href="onett-s-lid-art.html">Onett's Lid Art</a> • <a href="wind-shrine.html#Galentine_Shrine">Galentine Shrine</a> • <a href="memory-match.html#Winter_Memory_Match">Winter Memory Match</a> • <a href="snow-machine.html">Snow Machine</a> • <a href="honeyday-candles.html">Honeyday Candles</a> • <a href="robo-party-cake.html">Robo Party Cake</a> • <a href="gummy-beacon.html">Gummy Beacon</a> • <a href="naughty-list.html">Naughty List</a></b>
 </td></tr></tbody></table>
 

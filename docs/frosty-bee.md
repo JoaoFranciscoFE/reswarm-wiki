@@ -45,8 +45,8 @@ Frosty Bee likes the [Blue Flower Field](blue-flower-field.md), and the [Mounta
 
 ### Abilities
 
-* **[Blue Boost](ability-tokens.md#Boost)** Grants x1.2 pollen from blue [Flowers](flowers.md) for 15s. Stacks up to 10 times.
-* **[Blue Bomb+](ability-tokens.md#Bomb)** Collects 10 pollen from 29 surrounding blue flowers (+10% pollen per Level). Combo with other bombs to increase power.
+* <img alt="Blue Boost" src="img/Blue_Boost.png" style="height:1.6em;width:auto;vertical-align:middle"/> **[Blue Boost](ability-tokens.md#Boost)** Grants x1.2 pollen from blue [Flowers](flowers.md) for 15s. Stacks up to 10 times.
+* <img alt="Blue Bomb+" src="img/Blue_Bomb+.png" style="height:1.6em;width:auto;vertical-align:middle"/> **[Blue Bomb+](ability-tokens.md#Bomb)** Collects 10 pollen from 29 surrounding blue flowers (+10% pollen per Level). Combo with other bombs to increase power.
 
 <table style="font-size:1.5vh; color:#000; width:100%; background:#fff; padding: 15px 0; border:none; color:#000; border-left:15px #2fa0fc solid">
 <tbody><tr>

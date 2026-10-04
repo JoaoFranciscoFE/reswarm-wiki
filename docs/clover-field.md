@@ -152,39 +152,9 @@ This field can spawn [treat](treat.md), [red boost](ability-tokens.md#Boost), bl
 * It can be boosted by the [King Beetle Amulet](king-beetle-amulet.md). If it has a Clover Field Boost, it can boost the field by +1% to +100%.
 * It can be boosted by the [Shell Amulet](shell-amulet.md). If it has a Clover Field Boost, it can boost the field by +5% to +30% depending on the amulet rarity.
 
-### Outdated Methods
-
-* Giving a [present](present.md) to certain [NPCs](quest-givers.md) in Beesmas:
-  * In 2020 [Brown Bear](brown-bear.md) gave Clover Field Boost x3 and a star jelly.
-  * [Onett](onett.md) gave Clover Field Boost x1 and other boosts and items.
-  * In 2021 Brown Bear gave Clover Field Boost x3 and other [items](items.md).
-* Purchasing a Clover Field [Market Boost](buffs-debuffs.md#From_Areas) from the [Boost Market](boost-market.md) gave 1.25x Clover Field Pollen along with x1.5 Clover [Field Capacity](field-capacity.md), x1.25 [Bee Gather Pollen](system-page.md#Bee_Gather_Pollen), and +15% [Loot Luck](system-page.md#Loot_Luck).
-* Redeeming certain expired codes:
-  * 4MilMembers (Gives Clover Field Boost x1 and Clover Field Winds x4 + other stuff).
-  * 1MLikes (Gives Clover Field Boost x1 + other stuff).
-  * JellyHill (Gave Clover Field Boost x6 + other stuff).
-  * DarzethDoodads (Gives Clover Field Code Buff + other stuff).
-  * ThnxCyaBoost (Gave Clover Field Boost x5 + other stuff).
-  * Whoops (Gave Clover Field Boost x5 + other stuff).
-  * 1MoreTime (Gave Clover Field Boost x5 + other stuff).
-  * Reboots (Gave Clover Field Boost x8 + other stuff).
-  * MegaMittens (Gave Clover Field Boost x5 + other stuff).
-  * PuppyPerk (Gave Clover Field Boost x2 + other stuff).
-  * Elladiely (Gave Clover Field Boost x5 + other stuff).
-  * 1mFavorites (Gave Clover Field Boost x1 + other stuff).
-  * HappyNewYear (Gave Clover Field Boost x5 + other stuff).
-  * MoreTime (Gave Clover Field Boost x3 + other stuff).
-  * WindyReboot (Gave Clover Field Boost x3 and Clover Field Winds x3 + other stuff).
-  * BloxyCelebration (Gave Clover Field Boost x5 + other stuff).
-  * EggReboot (Gave Clover Field Boost x3, Clover Field Winds x3, and Clover Field Capacity x3 + other stuff).
-  * BlackBearMythic (Gave Clover Field Boost x3 and Clover Field Capacity x3 + other stuff).
-  * RebootPC (Gave Clover Field Boost x2 + other stuff).
-  * RebootXmas (Gave Clover Field Boost x1 + other stuff).
-  * FrozenBugReboot (Gave Clover Field Code Buff + other stuff).
-
 ## Trivia
 
-* The field booster for the Clover Field has been decreased three times. In the [2018-07-11 update](updates.md#2018-07-11), it was decreased from x5 to x4, in the [2019-04-05 update](updates.md#2019-04-05) it was decreased to x3, and in the [2019-09-28 update](updates.md#2019-09-28), it was decreased to x2.
+* The field booster for the Clover Field has been decreased three times. In the 2018-07-11 update, it was decreased from x5 to x4, in the 2019-04-05 update it was decreased to x3, and in the 2019-09-28 update, it was decreased to x2.
 * Before the 2018-07-11 update, the Clover Field had 39 rows instead of the current 26 so it had 1131 flowers, and it was the largest field in the game. It is no longer the largest field in the game, with only 5 less flowers than the new largest, the [Pineapple Patch](pineapple-patch.md).
 * The Bubble Wand on top of the [Blue HQ](blue-hq.md) will sometimes blow [sparkles](sparkles.md) on to this field, along with the [Mushroom Field](mushroom-field.md), [Blue Flower Field](blue-flower-field.md) and [Dandelion Field](dandelion-field.md).
 * The [Honeystorm](honeystorm.md) Summoner used to be where the [Wealth Clock](wealth-clock.md) is currently, but when the Wealth Clock was added, the Honeystorm Pad was moved to right beside the bush in the Clover Field where the Rhino Beetle spawns.
@@ -240,5 +210,5 @@ This field can spawn [treat](treat.md), [red boost](ability-tokens.md#Boost), bl
 <tr>
 <th class="NavCategory">Event<br/>Locations
 </th>
-<td class="NavLinks NavLinksBasicEven"><b><a href="beesmas-tree.html">Beesmas Tree</a> • <a href="ornament-presents.html">Ornament Presents</a> • <span class="new" data-uncrawlable-url="L3dpa2kvQ29tcHV0ZXI/YWN0aW9uPWVkaXQmcmVkbGluaz0x" title="Computer (page does not exist)">Computer</span> • <a href="gift-boxes.html">Gift Boxes</a> • <a href="honey-wreath.html">Honey Wreath</a> • <a href="stockings.html">Stockings</a> • <a href="gingerbread-house.html">Gingerbread House</a> • <a href="snowbear-summoner.html">Snowbear Summoner</a> • <a href="beesmas-lights.html">Beesmas Lights</a> • <a href="samovar.html">Samovar</a> • <a href="beesmas-feast.html">Beesmas Feast</a> • <a href="onett-s-lid-art.html">Onett's Lid Art</a> • <a href="wind-shrine.html#Galentine_Shrine">Galentine Shrine</a> • <a href="memory-match.html#Winter_Memory_Match">Winter Memory Match</a> • <a href="snow-machine.html">Snow Machine</a> • <a href="honeyday-candles.html">Honeyday Candles</a> • <a href="robo-party-cake.html">Robo Party Cake</a> • <a href="gummy-beacon.html">Gummy Beacon</a> • <a href="naughty-list.html">Naughty List</a></b>
+<td class="NavLinks NavLinksBasicEven"><b><a href="beesmas-tree.html">Beesmas Tree</a> • <span class="new" data-uncrawlable-url="L3dpa2kvQ29tcHV0ZXI/YWN0aW9uPWVkaXQmcmVkbGluaz0x" title="Computer (page does not exist)">Computer</span> • <a href="gift-boxes.html">Gift Boxes</a> • <a href="honey-wreath.html">Honey Wreath</a> • <a href="stockings.html">Stockings</a> • <a href="gingerbread-house.html">Gingerbread House</a> • <a href="snowbear-summoner.html">Snowbear Summoner</a> • <a href="beesmas-lights.html">Beesmas Lights</a> • <a href="samovar.html">Samovar</a> • <a href="beesmas-feast.html">Beesmas Feast</a> • <a href="onett-s-lid-art.html">Onett's Lid Art</a> • <a href="wind-shrine.html#Galentine_Shrine">Galentine Shrine</a> • <a href="memory-match.html#Winter_Memory_Match">Winter Memory Match</a> • <a href="snow-machine.html">Snow Machine</a> • <a href="honeyday-candles.html">Honeyday Candles</a> • <a href="robo-party-cake.html">Robo Party Cake</a> • <a href="gummy-beacon.html">Gummy Beacon</a> • <a href="naughty-list.html">Naughty List</a></b>
 </td></tr></tbody></table>

@@ -33,23 +33,6 @@ A **Star Treat** is a special type of [treat](treats.md) that, when fed to a [be
 * Completing all of [Onett](onett.md)'s quests, [Mother Bear](mother-bear.md)'s quests, and [Panda Bear](panda-bear.md)'s quests.
 * Completing 750 [Brown Bear](brown-bear.md) quests rewards a star treat. Every 500 quests after the 750th Brown Bear quest also rewards a star treat. Additionally, his 1000th quest grants the player 5 Star Treats.
 
-### Outdated Ways
-
-<table class="mw-collapsible mw-collapsed article-table">
-<caption>
-</caption>
-<tbody><tr>
-<td>
-<ul><li>Buying the Gingerbread Cub Bundle in <a href="bee-bear-s-catalog.html">Bee Bear's Catalog</a> (1 if the player didn't have a cub buddy, 2 if they already had one.)</li>
-<li>An extremely low chance of getting it from <a href="memory-match.html#Winter_Memory_Match">Winter Memory Match</a>.</li>
-<li>Completing the 15th <a href="bee-bear.html">Bee Bear</a> quest rewards a star treat if the player already owns a cub buddy.</li>
-<li>An exceptionally rare drop from <a href="festive-nymph.html">Festive Nymphs</a>.</li>
-<li>An extremely rare drop from the <a href="stockings.html">Stockings</a>.</li>
-<li>By opening certain <a href="gift-boxes.html">Gift Boxes</a>:
-<ul><li>The <a href="gift-boxes.html">Mondo Gift Box</a> gave 1 star treat + other items during Beesmas 2020, 2021 and 2022.</li></ul></li>
-<li>Buying it from Bee Bear's Catalog for <img alt="Snowflake" height="25" src="img/Snowflake.png" width="25"/>10,000 <a href="snowflake.html"><span class="color-template color-template-snowflake color-template-background-clip">Snowflakes</span></a>.</li></ul>
-</td></tr></tbody></table>
-
 ## Trivia
 
 * This and the [Atomic Treat](atomic-treat.md) give the most [bond](bond.md) (1,000 bond) out of any treat, followed by a single [Neonberry](neonberry.md) and [Aged Gingerbread Bears](aged-gingerbread-bear.md) (500 bond), then [Gingerbread Bears](gingerbread-bear.md) and [Moon Charms](moon-charm.md) (250 bond).
@@ -111,7 +94,7 @@ A **Star Treat** is a special type of [treat](treats.md) that, when fed to a [be
 </th>
 <th class="NavCategory">Quest Exclusive
 </th>
-<td class="NavLinks NavLinksBasicEven"><b><img alt="Translator" height="35" src="img/Translator.png" width="35"/> <a href="translator.html">Translator</a> • <img alt="Spirit Petal" height="35" src="img/Spirit_Petal.png" width="35"/> <a href="spirit-petal.html">Spirit Petal</a> • <img alt="Debug Wax" height="35" src="img/Debug_Wax.png" width="35"/> <a href="debug-wax.html">Debug Wax</a> • <img alt="Nectar Tester" height="35" src="img/Nectar_Tester.png" width="35"/> <a href="nectar-tester.html">Nectar Tester</a></b> • <span typeof="mw:Error mw:File"></span> <a href="bbm-s-apology.html">BBM's Apology</a><b></b>
+<td class="NavLinks NavLinksBasicEven"><b><img alt="Translator" height="35" src="img/Translator.png" width="35"/> <a href="translator.html">Translator</a> • <img alt="Spirit Petal" height="35" src="img/Spirit_Petal.png" width="35"/> <a href="spirit-petal.html">Spirit Petal</a> • <img alt="Debug Wax" height="35" src="img/Debug_Wax.png" width="35"/> <a href="debug-wax.html">Debug Wax</a> • <img alt="Nectar Tester" height="35" src="img/Nectar_Tester.png" width="35"/> <a href="nectar-tester.html">Nectar Tester</a></b><b></b>
 </td></tr>
 <tr>
 <th class="NavCategory">Beesmas

@@ -66,8 +66,8 @@ When planted, the following audio also plays:
 * Purchasing the Doodle Pack for 1,700 Robux granted 5 **Festive Beans** + other stuff.
 * Purchasing the Festive Frenzy Haul in the [Robux Shop](robux-shop.md) for 4,500 Robux granted 5 **Festive Beans** + other stuff.
 * 1 **Festive Bean** was able to be earned by completing the [B.B.M. Mission](bubble-bee-man.md#Quest_.28Inside_30_Bee_Gate.29) quest in the [30 Bee Zone](bear-gate.md).
-* The [Pearly Present](ornament-presents.md) next to the [Wind Shrine](wind-shrine.md) rewarded 5 **Festive Beans** + other stuff when opened.
-* The [Mondo Present](ornament-presents.md) on top of the [Mountain Top Shop](mountain-top-shop.md) rewarded 6 **Festive Beans** + other stuff when opened.
+* The Pearly Present next to the [Wind Shrine](wind-shrine.md) rewarded 5 **Festive Beans** + other stuff when opened.
+* The Mondo Present on top of the [Mountain Top Shop](mountain-top-shop.md) rewarded 6 **Festive Beans** + other stuff when opened.
 * Opening the [Merry Gift Box](gift-boxes.md) rewarded 2 **Festive Beans** + other stuff.
 * Purchasing certain items in Bee Bear's Catalog:
   * The Beesmas Tree Bundle granted 5 **Festive Beans**.
@@ -90,12 +90,10 @@ When planted, the following audio also plays:
 * [Stick Bug](stick-bug.md)'s Winter 2024 Beesmas quest rewards 1 **Festive Bean**.
 * Purchasing the Starry Night Special in the [Robux Shop](robux-shop.md) for 1,700 Robux granted 10 **Festive Beans** + other stuff.
 
-
-
 ## Trivia
 
 * At the end of Beesmas 2019, tokens from Festive Sprouts became unshareable. However, they are now shareable again; however, the "Festive Blessing" and "Beesmas Cheer" buffs are only obtainable for the player who plants it..
-  * If summoned by [Onett](onett-developer.md) (or one of his many aliases), a Festive Sprout's [Festive Blessing](ability-tokens.md#Festive_Blessing), and [Beesmas Cheer](ability-tokens.md#Beesmas_Cheer) can be shared between all the players. They cannot be grabbed by abilities that collect personal tokens (e.g. [Token Link](ability-tokens.md#Token_Link) or [Triangulate](ability-tokens.md#Triangulate)) as the tokens do not belong to any player.
+  * If summoned by Onett (or one of his many aliases), a Festive Sprout's [Festive Blessing](ability-tokens.md#Festive_Blessing), and [Beesmas Cheer](ability-tokens.md#Beesmas_Cheer) can be shared between all the players. They cannot be grabbed by abilities that collect personal tokens (e.g. [Token Link](ability-tokens.md#Token_Link) or [Triangulate](ability-tokens.md#Triangulate)) as the tokens do not belong to any player.
 * This bean is the only variant of [Magic Beans](magic-bean.md).
 * This and the [Marshmallow Bee](marshmallow-bee.md) are the only event items that can be donated to the [Wind Shrine](wind-shrine.md).
 * The **Festive Bean** is the only way for a Festive Sprout to be planted, with the exception of Onett planting them.
@@ -167,7 +165,7 @@ When planted, the following audio also plays:
 </th>
 <th class="NavCategory">Quest Exclusive
 </th>
-<td class="NavLinks NavLinksBasicEven"><b><img alt="Translator" height="35" src="img/Translator.png" width="35"/> <a href="translator.html">Translator</a> • <img alt="Spirit Petal" height="35" src="img/Spirit_Petal.png" width="35"/> <a href="spirit-petal.html">Spirit Petal</a> • <img alt="Debug Wax" height="35" src="img/Debug_Wax.png" width="35"/> <a href="debug-wax.html">Debug Wax</a> • <img alt="Nectar Tester" height="35" src="img/Nectar_Tester.png" width="35"/> <a href="nectar-tester.html">Nectar Tester</a></b> • <span typeof="mw:Error mw:File"></span> <a href="bbm-s-apology.html">BBM's Apology</a><b></b>
+<td class="NavLinks NavLinksBasicEven"><b><img alt="Translator" height="35" src="img/Translator.png" width="35"/> <a href="translator.html">Translator</a> • <img alt="Spirit Petal" height="35" src="img/Spirit_Petal.png" width="35"/> <a href="spirit-petal.html">Spirit Petal</a> • <img alt="Debug Wax" height="35" src="img/Debug_Wax.png" width="35"/> <a href="debug-wax.html">Debug Wax</a> • <img alt="Nectar Tester" height="35" src="img/Nectar_Tester.png" width="35"/> <a href="nectar-tester.html">Nectar Tester</a></b><b></b>
 </td></tr>
 <tr>
 <th class="NavCategory">Beesmas

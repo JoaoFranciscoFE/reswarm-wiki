@@ -102,7 +102,7 @@ When a flower is pollinated, it upgrades any kind of flower, with star flowers b
 ## Trivia
 
 * Single, double, and triple flowers are the only types of flowers that can naturally spawn in fields. Large and star flowers can only be spawned through pollination.
-* Before the [2020-04-06 update](updates.md#2020-04-06), the only stages of flowers were single, double, and large, with large flowers being the third level. This was changed to the current system, where the third tier was replaced with triple flowers, moving large to stage four.
+* Before the 2020-04-06 update, the only stages of flowers were single, double, and large, with large flowers being the third level. This was changed to the current system, where the third tier was replaced with triple flowers, moving large to stage four.
 * In real life, nectar is used by bees to be turned into honey and not pollen.
 
 <table class="NavTable">

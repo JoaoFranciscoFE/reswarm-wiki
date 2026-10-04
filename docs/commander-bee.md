@@ -45,8 +45,8 @@ Commander Bee likes the [Spider Field](spider-field.md) and the [Cactus Field](c
 
 ### Abilities
 
-* **[Focus](ability-tokens.md#Focus)** Grants +3% Critical Chance for 20 seconds. Stacks up to 10 times. [Critical hits](critical-hits.md) increase pollen and damage by 100%.
-* **[Buzz Bomb](ability-tokens.md#Bomb)** Collects 7 pollen from 13 surrounding [Flowers](flowers.md) (+10% pollen per [Level](bond.md)). Combo with other bombs to increase power.
+* <img alt="Focus" src="img/Focus.png" style="height:1.6em;width:auto;vertical-align:middle"/> **[Focus](ability-tokens.md#Focus)** Grants +3% Critical Chance for 20 seconds. Stacks up to 10 times. [Critical hits](critical-hits.md) increase pollen and damage by 100%.
+* <img alt="Buzz Bomb" src="img/Buzz_Bomb.png" style="height:1.6em;width:auto;vertical-align:middle"/> **[Buzz Bomb](ability-tokens.md#Bomb)** Collects 7 pollen from 13 surrounding [Flowers](flowers.md) (+10% pollen per [Level](bond.md)). Combo with other bombs to increase power.
 
 <table style="font-size:1.5vh; color:#000; width:100%; background:#fff; padding: 15px 0; border:none; color:#000; border-left:15px #000 solid">
 <tbody><tr>
@@ -341,7 +341,7 @@ Commander Bee likes the [Spider Field](spider-field.md) and the [Cactus Field](c
   * Of the three, this one is the only colorless bee to have one.
   * [Festive Bee](festive-bee.md) and [Puppy Bee](puppy-bee.md), however, can have an accessory by using the [Festive Wreath](festive-wreath.md) and [Reindeer Antlers](reindeer-antlers.md) respectively.
 * This bee is one of the 3 bees that have the Focus ability by default, the other 2 are Looker Bee, and [Music Bee](music-bee.md).
-* Commander Bee is the only epic bee added in an [update](updates.md).
+* Commander Bee is the only epic bee added in an update.
 * A [Commander Bee Egg](egg.md#Commander_Bee_Egg) can be obtained by capturing [Commando Chick](commando-chick.md) 200 times.
 * As the name and model suggest, this bee is likely inspired by the eponymous video game protagonist known as Commander Keen.
   * This point is further supported by the expired [code](codes.md) "Keen4", which yielded a [Commander Bee Jelly](egg.md#Commander_Bee_Jelly).

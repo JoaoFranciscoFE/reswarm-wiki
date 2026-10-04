@@ -29,7 +29,7 @@ LIKE
 
 DISLIKE
 
-The **Stump Field** is a field that was added in the [2018-11-25 update](updates.md#2018-11-25) and is located past the [Brave Bee Gate](brave-bee-gate.md) next to the [Pineapple Patch](pineapple-patch.md).
+The **Stump Field** is a field that was added in the 2018-11-25 update and is located past the [Brave Bee Gate](brave-bee-gate.md) next to the [Pineapple Patch](pineapple-patch.md).
 
 This field can spawn [honey](honey.md), red [boost](ability-tokens.md#Boost), blue boost, [treat](treat.md#Treat), [gumdrop](gumdrops.md), [glue](glue.md), [magic bean](magic-bean.md), [ticket](ticket.md) and [blue extract](blue-extract.md) tokens when collecting [pollen](pollen.md).
 
@@ -162,7 +162,7 @@ This field contains 563 [flowers](flowers.md). The flowers are white, red, and b
 
 ## Trivia
 
-* Before the [2019-09-28 update](updates.md#2019-09-28), the Stump Field was originally a more balanced colored field. It was updated to act as a blue-oriented counterpart to the [Pepper Patch](pepper-patch.md).
+* Before the 2019-09-28 update, the Stump Field was originally a more balanced colored field. It was updated to act as a blue-oriented counterpart to the [Pepper Patch](pepper-patch.md).
 * This is the first field the player will encounter that only has triple flowers naturally, the second one being the Mountain Top Field. Third being the [Coconut Field](coconut-field.md) and fourth being Pepper Patch.
 * This is the only field where gumdrops can be obtained from [leaves](leaves.md).
 * This and the [Hub Field](hub-field.md) are the only non-quadrilateral fields in the game.
@@ -170,7 +170,7 @@ This field contains 563 [flowers](flowers.md). The flowers are white, red, and b
 * This is the only blue field where [blueberries](blueberry.md) cannot spawn naturally.
   * This field is also the only blue field that has red flowers.
 * This, the Ant Field and the [Hub Field](hub-field.md) are the only fields where [Wild Windy Bee](wild-windy-bee.md) cannot spawn in nor fly to.
-  * However, [Onett](onett-developer.md) can summon Wild Windy Bees in this field. If they are defeated, they will fly in place until their timer is up as there is no flight pattern programmed for Stump Field Windy Bees.
+  * However, Onett can summon Wild Windy Bees in this field. If they are defeated, they will fly in place until their timer is up as there is no flight pattern programmed for Stump Field Windy Bees.
 * This, the Coconut Field, the Pepper Patch, the [Ant Field](ant-challenge.md) and the [Hub Field](hub-field.md) are the only fields that were added after the game's first release.
 * Stump Field, Coconut Field, and [Spider Field](spider-field.md)'s caves have the same appearance.
   * No special rewards can be found in the Stump Snail's Cave, unlike the [Werewolf's Cave](werewolf-s-cave.md) and the [Coconut Cave](coconut-cave.md), making it closer to the Spider Field's cave.
@@ -229,5 +229,5 @@ This field contains 563 [flowers](flowers.md). The flowers are white, red, and b
 <tr>
 <th class="NavCategory">Event<br/>Locations
 </th>
-<td class="NavLinks NavLinksBasicEven"><b><a href="beesmas-tree.html">Beesmas Tree</a> • <a href="ornament-presents.html">Ornament Presents</a> • <span class="new" data-uncrawlable-url="L3dpa2kvQ29tcHV0ZXI/YWN0aW9uPWVkaXQmcmVkbGluaz0x" title="Computer (page does not exist)">Computer</span> • <a href="gift-boxes.html">Gift Boxes</a> • <a href="honey-wreath.html">Honey Wreath</a> • <a href="stockings.html">Stockings</a> • <a href="gingerbread-house.html">Gingerbread House</a> • <a href="snowbear-summoner.html">Snowbear Summoner</a> • <a href="beesmas-lights.html">Beesmas Lights</a> • <a href="samovar.html">Samovar</a> • <a href="beesmas-feast.html">Beesmas Feast</a> • <a href="onett-s-lid-art.html">Onett's Lid Art</a> • <a href="wind-shrine.html#Galentine_Shrine">Galentine Shrine</a> • <a href="memory-match.html#Winter_Memory_Match">Winter Memory Match</a> • <a href="snow-machine.html">Snow Machine</a> • <a href="honeyday-candles.html">Honeyday Candles</a> • <a href="robo-party-cake.html">Robo Party Cake</a> • <a href="gummy-beacon.html">Gummy Beacon</a> • <a href="naughty-list.html">Naughty List</a></b>
+<td class="NavLinks NavLinksBasicEven"><b><a href="beesmas-tree.html">Beesmas Tree</a> • <span class="new" data-uncrawlable-url="L3dpa2kvQ29tcHV0ZXI/YWN0aW9uPWVkaXQmcmVkbGluaz0x" title="Computer (page does not exist)">Computer</span> • <a href="gift-boxes.html">Gift Boxes</a> • <a href="honey-wreath.html">Honey Wreath</a> • <a href="stockings.html">Stockings</a> • <a href="gingerbread-house.html">Gingerbread House</a> • <a href="snowbear-summoner.html">Snowbear Summoner</a> • <a href="beesmas-lights.html">Beesmas Lights</a> • <a href="samovar.html">Samovar</a> • <a href="beesmas-feast.html">Beesmas Feast</a> • <a href="onett-s-lid-art.html">Onett's Lid Art</a> • <a href="wind-shrine.html#Galentine_Shrine">Galentine Shrine</a> • <a href="memory-match.html#Winter_Memory_Match">Winter Memory Match</a> • <a href="snow-machine.html">Snow Machine</a> • <a href="honeyday-candles.html">Honeyday Candles</a> • <a href="robo-party-cake.html">Robo Party Cake</a> • <a href="gummy-beacon.html">Gummy Beacon</a> • <a href="naughty-list.html">Naughty List</a></b>
 </td></tr></tbody></table>

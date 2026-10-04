@@ -52,7 +52,7 @@ The **Honeycomb Belt** is a belt accessory located in the [Badge Bearer's Guild]
 ## Trivia
 
 * The total amount of crafting materials needed to craft this is 2,500 [gumdrops](gumdrops.md), 1,250 [royal jellies](royal-jelly.md), 2,500 [pineapples](pineapple.md), and 1,250 [sunflower seeds](sunflower-seed.md).
-* Prior to the [2019-04-05 update](updates.md#2019-04-05), the Honeycomb Belt's description was just '[Honey](honey.md)'.
+* Prior to the 2019-04-05 update, the Honeycomb Belt's description was just '[Honey](honey.md)'.
 * This is one of the four belt accessories released after [Sun Bear](sun-bear.md) left, the others being the [Petal Belt](petal-belt.md), the [Coconut Belt](coconut-belt.md) and the [Belt Pocket](belt-pocket.md).
 * It is the 3rd most expensive belt accessory in the game behind the Petal Belt and the Coconut Belt.
 
@@ -117,7 +117,7 @@ The **Honeycomb Belt** is a belt accessory located in the [Badge Bearer's Guild]
 </th>
 <th class="NavCategory">Quest Exclusive
 </th>
-<td class="NavLinks NavLinksBasicEven"><b><img alt="Translator" height="35" src="img/Translator.png" width="35"/> <a href="translator.html">Translator</a> • <img alt="Spirit Petal" height="35" src="img/Spirit_Petal.png" width="35"/> <a href="spirit-petal.html">Spirit Petal</a> • <img alt="Debug Wax" height="35" src="img/Debug_Wax.png" width="35"/> <a href="debug-wax.html">Debug Wax</a> • <img alt="Nectar Tester" height="35" src="img/Nectar_Tester.png" width="35"/> <a href="nectar-tester.html">Nectar Tester</a></b> • <span typeof="mw:Error mw:File"></span> <a href="bbm-s-apology.html">BBM's Apology</a><b></b>
+<td class="NavLinks NavLinksBasicEven"><b><img alt="Translator" height="35" src="img/Translator.png" width="35"/> <a href="translator.html">Translator</a> • <img alt="Spirit Petal" height="35" src="img/Spirit_Petal.png" width="35"/> <a href="spirit-petal.html">Spirit Petal</a> • <img alt="Debug Wax" height="35" src="img/Debug_Wax.png" width="35"/> <a href="debug-wax.html">Debug Wax</a> • <img alt="Nectar Tester" height="35" src="img/Nectar_Tester.png" width="35"/> <a href="nectar-tester.html">Nectar Tester</a></b><b></b>
 </td></tr>
 <tr>
 <th class="NavCategory">Beesmas

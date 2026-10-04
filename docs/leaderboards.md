@@ -132,21 +132,6 @@ Daily Top Memory Matchers
 Daily Top Firefly Chasers
 </tabview>
 
-### Removed
-
-These leaderboards have been permanently or temporarily removed from the game. There are currently 5 of these. (Beesmas related leaderboards will still be here even if it's currently Beesmas).
-<tabview>
-Daily Top Bomb Pollen Collectors
-Daily Top Ant Field Collectors
-Daily Top Blue Brick Field Collectors
-Daily Top Red Brick Field Collectors
-Daily Top White Brick Field Collectors
-Daily Top Mixed Brick Field Collectors
-Most Commando Captures
-Highest Snowbear Level
-Highest Robo Party Cake Rank
-</tabview>
-
 ## Trivia
 
 * All leaderboards that reset on a daily basis reset at 12:00am GMT-5.
@@ -154,5 +139,5 @@ Highest Robo Party Cake Rank
 * The Top Brown Bear Helpers leaderboard is the only leaderboard that does not show the player's current amount of the stated objective.
   * The player can still view their score either in the leaderboard menu in the System Page or by speaking to [Brown Bear](brown-bear.md) when claiming or turning in a quest.
   * The Most Commando Captures Leaderboard also shared this property but has since been removed from the game entirely.
-* On 2022-03-17, [Onett](onett-developer.md) abbreviated the amount of honey for the Daily Top Honeymakers and the All-Time Top Honeymakers leaderboard due to players having massive amounts of honey.
+* On 2022-03-17, Onett abbreviated the amount of honey for the Daily Top Honeymakers and the All-Time Top Honeymakers leaderboard due to players having massive amounts of honey.
 * In Winter Beesmas 2024, [The Highest Snowbear Level leaderboard](highest-snowbear-level.md) and [Highest Robo Party Cake Rank](highest-robo-party-cake-rank.md) didn't receive a reset,

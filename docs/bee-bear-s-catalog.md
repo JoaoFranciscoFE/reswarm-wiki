@@ -9,7 +9,7 @@ This piece of content goes bye bye.
 
 The following content has been removed from the game. The contents below may be archival, but feel free to edit below.
 
-**Bee Bear's Catalog** is a limited-time shop that players can use to purchase various products during [Beesmas 2020](updates.md#2020-12-25), 2021, 2022, Summer 2024, Winter 2024, and 2025. It can be accessed through a side tab on the right side of the screen. Its description is: "Beesmas event shop! Purchase items for Gingerbread Bears and Snowflakes."
+**Bee Bear's Catalog** is a limited-time shop that players can use to purchase various products during Beesmas 2020, 2021, 2022, Summer 2024, Winter 2024, and 2025. It can be accessed through a side tab on the right side of the screen. Its description is: "Beesmas event shop! Purchase items for Gingerbread Bears and Snowflakes."
 
 There is a countdown below the icon of the shop, which counts down the time until Beesmas ends.
 
@@ -410,26 +410,6 @@ Can't afford {Item/Bundle}
 <td>Turns a bee into a Gifted Bee!
 </td></tr></tbody></table>
 
-### 2024 (Winter)
-
-Bee Bear's Catalog/2024 (Winter)
-
-### 2024 (Summer)
-
-Bee Bear's Catalog/2024 (Summer)
-
-### 2022
-
-Bee Bear's Catalog/2022
-
-### 2021
-
-Bee Bear's Catalog/2021
-
-### 2020
-
-Bee Bear's Catalog/2020
-
 ## Trivia
 
 * Items from the Bee Bear's Catalog are all one-time purchases, meaning that the player can only buy them once and can't buy them again.
@@ -453,7 +433,7 @@ Bee Bear's Catalog/2020
   * These [Aged Gingerbread Bears](aged-gingerbread-bear.md) can not be used to buy items from Bee Bear's Catalog — only [Gingerbread Bears](gingerbread-bear.md) obtained in the same Beesmas event can.
   * [Aged Gingerbread Bears](aged-gingerbread-bear.md) do not age further than they have, so there will be no difference between [Aged Gingerbread Bears](aged-gingerbread-bear.md) that came from 2020 versus those that came from 2022.
 * This, the [Mondo Gift Box](gift-boxes.md), [Sticker-Seeker Quest Machine](sticker-seeker-quest-machine.md) and the [leaderboards](leaderboards.md) are the only non-robux ways to obtain a Gifted Mythic Egg.
-* Its description changed from "Winter" to "Beesmas" during [Beesmas 2024](updates.md), most likely due to it releasing in the summer.
+* Its description changed from "Winter" to "Beesmas" during Beesmas 2024, most likely due to it releasing in the summer.
 * During the summer of Beesmas 2024, the price on the Percussive Bundle of 808 [Snowflakes](snowflake.md) (and 8 [Gingerbread Bears](gingerbread-bear.md)) is a reference to the Roland TR-808 drum machine, commonly referred to simply as an "808".
   * The 808 is the most popular drum machine in the history of music, being initially used in '80s new wave music, and since then, in nearly every rap or hip hop song ever made. Similarly, the 8 [Gingerbread Bears](gingerbread-bear.md) are likely a reference to the Roland TR-08 Rhythm Composer, which is a digital re-release of the original drum machine, and/or it may refer to the Roland TR-8S, which also uses the same percussive sound.
 * The format for the timer is DD:HH:SS (D for Days, H for Hours, and S for Seconds).
@@ -501,6 +481,6 @@ Bee Bear's Catalog/2020
 <tr>
 <th class="NavCategory">Event<br/>Locations
 </th>
-<td class="NavLinks NavLinksBasicEven"><b><a href="beesmas-tree.html">Beesmas Tree</a> • <a href="ornament-presents.html">Ornament Presents</a> • <span class="new" data-uncrawlable-url="L3dpa2kvQ29tcHV0ZXI/YWN0aW9uPWVkaXQmcmVkbGluaz0x" title="Computer (page does not exist)">Computer</span> • <a href="gift-boxes.html">Gift Boxes</a> • <a href="honey-wreath.html">Honey Wreath</a> • <a href="stockings.html">Stockings</a> • <a href="gingerbread-house.html">Gingerbread House</a> • <a href="snowbear-summoner.html">Snowbear Summoner</a> • <a href="beesmas-lights.html">Beesmas Lights</a> • <a href="samovar.html">Samovar</a> • <a href="beesmas-feast.html">Beesmas Feast</a> • <a href="onett-s-lid-art.html">Onett's Lid Art</a> • <a href="wind-shrine.html#Galentine_Shrine">Galentine Shrine</a> • <a href="memory-match.html#Winter_Memory_Match">Winter Memory Match</a> • <a href="snow-machine.html">Snow Machine</a> • <a href="honeyday-candles.html">Honeyday Candles</a> • <a href="robo-party-cake.html">Robo Party Cake</a> • <a href="gummy-beacon.html">Gummy Beacon</a> • <a href="naughty-list.html">Naughty List</a></b>
+<td class="NavLinks NavLinksBasicEven"><b><a href="beesmas-tree.html">Beesmas Tree</a> • <span class="new" data-uncrawlable-url="L3dpa2kvQ29tcHV0ZXI/YWN0aW9uPWVkaXQmcmVkbGluaz0x" title="Computer (page does not exist)">Computer</span> • <a href="gift-boxes.html">Gift Boxes</a> • <a href="honey-wreath.html">Honey Wreath</a> • <a href="stockings.html">Stockings</a> • <a href="gingerbread-house.html">Gingerbread House</a> • <a href="snowbear-summoner.html">Snowbear Summoner</a> • <a href="beesmas-lights.html">Beesmas Lights</a> • <a href="samovar.html">Samovar</a> • <a href="beesmas-feast.html">Beesmas Feast</a> • <a href="onett-s-lid-art.html">Onett's Lid Art</a> • <a href="wind-shrine.html#Galentine_Shrine">Galentine Shrine</a> • <a href="memory-match.html#Winter_Memory_Match">Winter Memory Match</a> • <a href="snow-machine.html">Snow Machine</a> • <a href="honeyday-candles.html">Honeyday Candles</a> • <a href="robo-party-cake.html">Robo Party Cake</a> • <a href="gummy-beacon.html">Gummy Beacon</a> • <a href="naughty-list.html">Naughty List</a></b>
 </td></tr></tbody></table>
 

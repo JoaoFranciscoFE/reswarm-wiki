@@ -45,8 +45,8 @@ Rage Bee likes the [Spider Field](spider-field.md) and [Rose Field](rose-field.m
 
 ### Abilities
 
-* **[Rage](ability-tokens.md#Rage)** Grants your [Bees](bees.md) +1 attack for 45s. Stacks up to 4 times.
-* **[Token Link](ability-tokens.md#Token_Link)** Collects all other [Ability Tokens](ability-tokens.md) (except for other token links), granting 25 honey (+10 per Level) per token collected.
+* <img alt="Rage" src="img/Rage.png" style="height:1.6em;width:auto;vertical-align:middle"/> **[Rage](ability-tokens.md#Rage)** Grants your [Bees](bees.md) +1 attack for 45s. Stacks up to 4 times.
+* <img alt="Token Link" src="img/Token_Link.png" style="height:1.6em;width:auto;vertical-align:middle"/> **[Token Link](ability-tokens.md#Token_Link)** Collects all other [Ability Tokens](ability-tokens.md) (except for other token links), granting 25 honey (+10 per Level) per token collected.
 
 <table style="font-size:1.5vh; color:#000; width:100%; background:#fff; padding: 15px 0; border:none; color:#000; border-left:15px #af2136 solid">
 <tbody><tr>
@@ -408,7 +408,7 @@ Rage Bee likes the [Spider Field](spider-field.md) and [Rose Field](rose-field.m
   * This bee is also the only non-[Event bee](bees-event.md) to do so.
 * Rage Bee and [Spicy Bee](spicy-bee.md) are the only bees that can produce rage tokens.
 * Rage Bee has three different skin colors, similar to [Baby Bee](baby-bee.md). When gifted, it only has two different skin colors, while gifted Baby Bee maintains this trait.
-* A [Special Jelly](royal-jelly.md#Specific_Bee_Jelly) that changes a bee into a Rage Bee could be obtained by giving [Panda Bear](panda-bear.md) a [Present](present.md) during the [Beesmas 2018 event](updates.md#2018-12-19) (no longer obtainable).
+* A [Special Jelly](royal-jelly.md#Specific_Bee_Jelly) that changes a bee into a Rage Bee could be obtained by giving [Panda Bear](panda-bear.md) a [Present](present.md) during the Beesmas 2018 event (no longer obtainable).
 * The [Rage Aphid](aphid.md#Rage_Aphid) and gifted Spicy Bee has a similar color scheme to Rage Bee's gifted form.
 * This is one of the only bees that can have an extra ability from [Beequips](beequip.md) (specifically [Melody](ability-tokens.md#Melody) from the [Toy Horn](toy-horn.md) Beequip).
 * The ability could previously stack up to only 3 times.

@@ -15,7 +15,7 @@ COOLDOWN
 
 3 seconds
 
-A **Snowflake** is a limited-time inventory item added in the [2020-12-25 update](updates.md#2020-12-25). It's only available during the Beesmas event and is removed and unusable outside the event.
+A **Snowflake** is a limited-time inventory item added in the 2020-12-25 update. It's only available during the Beesmas event and is removed and unusable outside the event.
 
 When used, it grants 9 seconds of the [Cool Breeze](buffs-debuffs.md#From_Items) buff that increases various stats. The buff effect scales with duration with minimum of '1%' at <1 second duration and maximum of '100%' at 15 minutes duration:
 
@@ -164,7 +164,7 @@ Along with [Gingerbread Bears](gingerbread-bear.md), it could also be used to bu
 </th>
 <th class="NavCategory">Quest Exclusive
 </th>
-<td class="NavLinks NavLinksBasicEven"><b><img alt="Translator" height="35" src="img/Translator.png" width="35"/> <a href="translator.html">Translator</a> • <img alt="Spirit Petal" height="35" src="img/Spirit_Petal.png" width="35"/> <a href="spirit-petal.html">Spirit Petal</a> • <img alt="Debug Wax" height="35" src="img/Debug_Wax.png" width="35"/> <a href="debug-wax.html">Debug Wax</a> • <img alt="Nectar Tester" height="35" src="img/Nectar_Tester.png" width="35"/> <a href="nectar-tester.html">Nectar Tester</a></b> • <span typeof="mw:Error mw:File"></span> <a href="bbm-s-apology.html">BBM's Apology</a><b></b>
+<td class="NavLinks NavLinksBasicEven"><b><img alt="Translator" height="35" src="img/Translator.png" width="35"/> <a href="translator.html">Translator</a> • <img alt="Spirit Petal" height="35" src="img/Spirit_Petal.png" width="35"/> <a href="spirit-petal.html">Spirit Petal</a> • <img alt="Debug Wax" height="35" src="img/Debug_Wax.png" width="35"/> <a href="debug-wax.html">Debug Wax</a> • <img alt="Nectar Tester" height="35" src="img/Nectar_Tester.png" width="35"/> <a href="nectar-tester.html">Nectar Tester</a></b><b></b>
 </td></tr>
 <tr>
 <th class="NavCategory">Beesmas

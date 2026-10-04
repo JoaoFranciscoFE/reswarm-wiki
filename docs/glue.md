@@ -15,7 +15,7 @@ COOLDOWN
 
 10 minutes
 
-**Glue** is a craftable inventory item added in the [2018-11-25 update](updates.md#2018-11-25). Its purpose is as a creating material for accessories, or as a 10-minute boost that grants x1.25 [Bee Gather Pollen](system-page.md#Bee_Gather_Pollen) and [tools](system-page.md#Tool_Pollen) when used directly. The [buff](buffs-debuffs.md) cannot stack and will only reset its timer when another glue is used when one is currently active. Using a [Purple Potion](purple-potion.md) or [Super Smoothie](super-smoothie.md) will override the buff.
+**Glue** is a craftable inventory item added in the 2018-11-25 update. Its purpose is as a creating material for accessories, or as a 10-minute boost that grants x1.25 [Bee Gather Pollen](system-page.md#Bee_Gather_Pollen) and [tools](system-page.md#Tool_Pollen) when used directly. The [buff](buffs-debuffs.md) cannot stack and will only reset its timer when another glue is used when one is currently active. Using a [Purple Potion](purple-potion.md) or [Super Smoothie](super-smoothie.md) will override the buff.
 
 ## Ways to Obtain
 
@@ -52,47 +52,6 @@ COOLDOWN
   * Right Facing Stump Snail rewards 1 glue.
   * Yellow Sticky Hand rewards 1 glue.
   * Glowering Gummy Bear Rewards 1 glue.
-
-### Outdated Methods
-
-<table class="mw-collapsible mw-collapsed article-table">
-<caption>
-</caption>
-<tbody><tr>
-<td>
-<ul><li>Buying the Buoyant Pack for <span typeof="mw:Error mw:File"></span>800 <span class="color-template color-template-robux color-template-background-clip">Robux</span> gave 25 glue.</li>
-<li>Purchasing the Loaded Bundle gave 15 glues in <a href="bee-bear-s-catalog.html">Bee Bear's Catalog</a> during Beesmas 2021.</li>
-<li>Purchasing the Booster Bundle gave 1 glue in Bee Bear's Catalog during Beesmas 2020.</li>
-<li>Giving a <a href="present.html">present</a> to certain NPCs.
-<ul><li><a href="mother-bear.html">Mother Bear</a> gave 3 glue and gave other stuff.</li>
-<li>Science Bear gave 3 glue, activated the buff, and gave other stuff.</li>
-<li><a href="onett.html">Onett</a> activated the buff and gave other stuff.</li></ul></li>
-<li>Opening the <a href="ornament-presents.html">Gooey Present</a> gave 10 glues.</li>
-<li>Opening the <a href="gift-boxes.html">Glowing Gift Box</a> gave 10 glues and other items.</li>
-<li>Opening the <a href="gift-boxes.html">Gummy Gift Box</a> gave 10 glues and other items</li>
-<li>Before its nerf, Science Bear's Epistemological Endeavor quest gave 5 glue instead of 4.</li>
-<li><a href="bee-bear.html">Bee Bear</a> gave glue on the following quests:
-<ul><li>By Golly, Get Jolly gave 1 glue.</li>
-<li>Blue Beesmas gave 1 glue.</li>
-<li>Beequips and Berries Make Me So Merry gave 1 glue.</li>
-<li>All I want For Beesmas Is Goo gave 3 glues.</li>
-<li>Snow Cub Reformation (4/5) gave 3 glues.</li></ul></li>
-<li>Science Bear's 2020 Beesmas Lights quest awards 1 glue and other items.</li>
-<li>Redeeming certain expired codes:
-<ul><li>Using the code "2YearsAfterParty" (Activated the buff and other stuff).</li>
-<li>Using the code "Discord50k" (Activated the buff and other stuff).</li>
-<li>Using the code "Willgoold" (Gave 1 glue and activated the buff and other stuff).</li>
-<li>Using the code "GummySausage" (Activated the buff and other stuff).</li>
-<li>Using the code "HappyNewYear" (Activated the buff and other stuff).</li>
-<li>Using the code "SecretProfileCode" (Activates the buff and other stuff).</li></ul></li>
-<li>Purchasing the Nighttime Nectar Pack for <span typeof="mw:Error mw:File"></span>400 <span class="color-template color-template-robux color-template-background-clip">Robux</span> gives <img alt="Glue" height="25" src="img/Glue.png" width="25"/>20 <strong class="mw-selflink selflink"><span class="color-template color-template-glue color-template-background-clip">Glues</span></strong> + other items.</li>
-<li>Purchasing the Kazoo Bundle for 25 <a href="gingerbread-bear.html">Gingerbread Bear</a>s gives <img alt="Glue" height="25" src="img/Glue.png" width="25"/>20 <strong class="mw-selflink selflink"><span class="color-template color-template-glue color-template-background-clip">Glues</span></strong> + other items.</li>
-<li>As a common drop from <a href="robo-bear-challenge.html">Robo Bear Challenge</a></li>
-<li>As a reward from the <a href="robo-party-cake.html">Robo Party Cake</a></li>
-<li>Giving a present to Brown Bear gives 2 glue and other items</li>
-<li><a href="onett-s-lid-art.html">Onett's Lid Art</a> has a chance of dropping glue and other stuff.</li>
-<li>Opening the <a href="ornament-presents.html">Gooey Gift Box</a> gives 10 glues and other items.</li></ul>
-</td></tr></tbody></table>
 
 ## Crafting Uses
 
@@ -323,7 +282,7 @@ Total required for all single-purchase items: 2,629 **Glues**
 </th>
 <th class="NavCategory">Quest Exclusive
 </th>
-<td class="NavLinks NavLinksBasicEven"><b><img alt="Translator" height="35" src="img/Translator.png" width="35"/> <a href="translator.html">Translator</a> • <img alt="Spirit Petal" height="35" src="img/Spirit_Petal.png" width="35"/> <a href="spirit-petal.html">Spirit Petal</a> • <img alt="Debug Wax" height="35" src="img/Debug_Wax.png" width="35"/> <a href="debug-wax.html">Debug Wax</a> • <img alt="Nectar Tester" height="35" src="img/Nectar_Tester.png" width="35"/> <a href="nectar-tester.html">Nectar Tester</a></b> • <span typeof="mw:Error mw:File"></span> <a href="bbm-s-apology.html">BBM's Apology</a><b></b>
+<td class="NavLinks NavLinksBasicEven"><b><img alt="Translator" height="35" src="img/Translator.png" width="35"/> <a href="translator.html">Translator</a> • <img alt="Spirit Petal" height="35" src="img/Spirit_Petal.png" width="35"/> <a href="spirit-petal.html">Spirit Petal</a> • <img alt="Debug Wax" height="35" src="img/Debug_Wax.png" width="35"/> <a href="debug-wax.html">Debug Wax</a> • <img alt="Nectar Tester" height="35" src="img/Nectar_Tester.png" width="35"/> <a href="nectar-tester.html">Nectar Tester</a></b><b></b>
 </td></tr>
 <tr>
 <th class="NavCategory">Beesmas

@@ -45,7 +45,7 @@ Demon Bee likes the [Mushroom Field](mushroom-field.md) and the [Spider Field](s
 
 ### Abilities
 
-* **[Red Bomb](ability-tokens.md#Bomb)** Collects 10 pollen from 13 surrounding red [flowers](flowers.md) (+10% pollen per lvl). Combo with other bombs to increase power.
+* <img alt="Red Bomb" src="img/Red_Bomb.png" style="height:1.6em;width:auto;vertical-align:middle"/> **[Red Bomb](ability-tokens.md#Bomb)** Collects 10 pollen from 13 surrounding red [flowers](flowers.md) (+10% pollen per lvl). Combo with other bombs to increase power.
 * **[Red Bomb+]** Collects 10 pollen from 29 surrounding red flowers (+10% pollen per lvl). Combo with other bombs to increase power.
 * **[[Passive:](passive-abilities.md#Gathering_Flames) [Gathering Flames+]](flame.md#Gathering_Flames)** 55% chance (75% if Gifted) to spawn a [Flame](flame.md) when gathering. Flames last 4 seconds. Each second they deal 10 damage (+25% of the bee's [base attack](bee-attack.md)) to nearby enemies and collect [5 Red / 3 White / 2 Blue] pollen (+10% per bee level) from 9 flowers. Standing near a flame grants Flame Heat, which increases [Red Pollen](system-page.md#Red_Pollen) (between x1.2 and x2) and [Bee Attack](bee-attack.md) (between +5% to +25%).
 
@@ -410,8 +410,8 @@ Demon Bee likes the [Mushroom Field](mushroom-field.md) and the [Spider Field](s
 * Demon Bee, [Riley Bee](riley-bee.md), and [Rascal Bee](rascal-bee.md) have the same skin colors.
 * Both Demon Bee and [Fire Bee](fire-bee.md) have the same flame effect.
 * The [Demon Mask](demon-mask.md), which can be purchasable in the [Lava Obby](obstacle-courses.md#Lava_Obby), has a special design, name, and stats dedicated to Demon Bee.
-* [Onett](onett-developer.md) has said on Discord that during early stages, it was supposed to summon Fire Bees. This role has now been taken over by [Spicy Bee](spicy-bee.md).
-* Before the [2020-04-06 Update](updates.md#2020-04-06), Demon Bee had the highest base gather amount in the game with the exception of a [Tabby Bee](tabby-bee.md) with a 500+ stack of Tabby Love. Since then, [Fuzzy Bee](fuzzy-bee.md) has taken that position.
+* Onett has said on Discord that during early stages, it was supposed to summon Fire Bees. This role has now been taken over by [Spicy Bee](spicy-bee.md).
+* Before the 2020-04-06 Update, Demon Bee had the highest base gather amount in the game with the exception of a [Tabby Bee](tabby-bee.md) with a 500+ stack of Tabby Love. Since then, [Fuzzy Bee](fuzzy-bee.md) has taken that position.
 * Demon Bee is the red counterpart of [Diamond Bee](diamond-bee.md).
 * One reason Demon Bee dislikes the Mountain Top Field might be because it is closer to heaven (the sky) than all other Fields.
 * This bee can be summoned by the [Honeyday Candles](honeyday-candles.md).

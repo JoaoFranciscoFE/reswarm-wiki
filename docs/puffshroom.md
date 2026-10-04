@@ -720,7 +720,7 @@ Puffshroom Blessing grants +1~10% of the following buffs for 3 hours depending o
 * Puffshroom rarities have an increased chance of spawning if it is a higher level.
 * All rarities of Puffshrooms have their own specific spawn sounds. For example, a Epic Puffshroom's spawn sound is lower pitched than the sound of a Rare Puffshroom.
 * Puffshrooms are unable to be damaged during a [Robo Bear Challenge](robo-bear-challenge.md).
-* [Onett](onett-developer.md) can spawn Puffshrooms of any rarity and level globally, just like how he can control [Mythic Meteor Showers](mythic-meteor-shower.md), [Snow Storms](snow-storm.md), [Night Bells](night-bell.md) and more.
+* Onett can spawn Puffshrooms of any rarity and level globally, just like how he can control [Mythic Meteor Showers](mythic-meteor-shower.md), [Snow Storms](snow-storm.md), [Night Bells](night-bell.md) and more.
   * On 2021-12-28, Onett spawned a global Level 30 Epic Puffshroom in the [Sunflower Field](sunflower-field.md) with 2.68 trillion HP to troll people who complained that [Stick Bug's](stick-bug.md) Beesmas quest was too hard.
   * On 2022-03-31, Onett spawned a global Level 4 Legendary Puffshroom in the [Dandelion Field](dandelion-field.md) while also summoning nighttime with a message in chat reading; "The Legendary Puffshroom *[sic]* in the Dandelion Field has summoned nighttime..." This was most likely done to help players that were still stuck on Bee Bear's final quest which required a Legendary Puffshroom to be defeated.
     * Later that same day, he spawned multiple Legendary Puffshrooms in the Sunflower Field. According to Onett in one of his Discord messages, the Puffshrooms were supposed to be Common, but he accidentally spawned Legendary ones instead.

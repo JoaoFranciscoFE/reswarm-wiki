@@ -5,7 +5,7 @@ tags: ["Mechanics"]
 
 # Day/Night Cycle
 
-The **Day/Night Cycle** is a feature added in the [2018-09-10 update](updates.md#2018-09-10). Before the update, it was always daytime.
+The **Day/Night Cycle** is a feature added in the 2018-09-10 update. Before the update, it was always daytime.
 
 ## Day
 
@@ -34,14 +34,14 @@ Walking near a firefly will make it fly into the air and leave a 1x1 patch of [s
 
 Fireflies can only stop in the same field three times. After removing all the fireflies in a field three times, they will fly to a different field. Fireflies will only stop in the [Rose Field](rose-field.md), [Cactus Field](cactus-field.md), [Pineapple Patch](pineapple-patch.md), [Spider Field](spider-field.md), [Strawberry Field](strawberry-field.md) and [Bamboo Field](bamboo-field.md).
 
-Night lasts 2 minutes 35 seconds, which is the duration of the night theme (mountaincall). Ever since the [2018-11-25](updates.md#2018-11-25) and [2018-12-19](updates.md#2018-12-19) updates, moon-shaped platforms leading to the [Diamond Mask](diamond-mask.md) and the platforms leading to [Bubble Bee Man](bubble-bee-man.md) and the [Night Memory Match](memory-match.md) are solid yellow only during nighttime if the player has a [Moon Amulet](moon-amulet.md) (if the player owns the Diamond Mask, the platforms to the Diamond Mask will be blue and stay permanently solid). When [sprouts](sprout.md) are planted at night, there is a 60% chance for it to be a moon sprout, with the odds of all other sprout types being altered (Supreme Sprouts become more common while the rest are rarer).
+Night lasts 2 minutes 35 seconds, which is the duration of the night theme (mountaincall). Ever since the 2018-11-25 and 2018-12-19 updates, moon-shaped platforms leading to the [Diamond Mask](diamond-mask.md) and the platforms leading to [Bubble Bee Man](bubble-bee-man.md) and the [Night Memory Match](memory-match.md) are solid yellow only during nighttime if the player has a [Moon Amulet](moon-amulet.md) (if the player owns the Diamond Mask, the platforms to the Diamond Mask will be blue and stay permanently solid). When [sprouts](sprout.md) are planted at night, there is a 60% chance for it to be a moon sprout, with the odds of all other sprout types being altered (Supreme Sprouts become more common while the rest are rarer).
 
 ## Trivia
 
 * If the Stick Bug Challenge ends at night, the normal music will play instead of the night music. If the time cycles from night to day or day to night while a [Honeystorm](honeystorm.md) or [mythic meteor shower](mythic-meteor-shower.md) is active, the fog will disappear, but the honeystorm or mythic meteor shower will still be active.
 * In some occasions, the nighttime OST doesn't have to end for it to be daytime, it just simply fades.
 * A [Night Bell](night-bell.md) and [Spirit Bear](spirit-bear.md) can manually summon nighttime.
-  * [Onett](onett-developer.md) can also summon nighttime, but does it globally and with a message (ex: "🌙 One of [Mother Bear](mother-bear.md)'s cubs has summoned nighttime... 🌙").
+  * Onett can also summon nighttime, but does it globally and with a message (ex: "🌙 One of [Mother Bear](mother-bear.md)'s cubs has summoned nighttime... 🌙").
     * A full gallery of these messages can be found in the [Night Bell](night-bell.md) page.
-* Sometime before [Beesmas 2025](updates.md#2025-12-25) started, there was a bug that caused the day/night cycle to rapidly speed up, having daytime last only approximately 2–10 minutes.
+* Sometime before Beesmas 2025 started, there was a bug that caused the day/night cycle to rapidly speed up, having daytime last only approximately 2–10 minutes.
 

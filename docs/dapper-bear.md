@@ -88,7 +88,7 @@ You need the following Accessories to enter Dapper Bear's shop, those being the 
 
 ## Quests
 
-Dapper Bear currently has 16 Quests. His 16 main quests focus on collecting nectar, collecting tokens from planters, and popping [Puffshrooms](puffshroom.md); with the exception of the 16th quest (added after the [2026-01-19 Update](updates.md#2026-01-16)) which focuses mainly on stickers instead of the aforementioned. The quest for obtaining the [Blue Drive](drives.md#Blue_Drive) in order to repair [Robo Bear](robo-bear.md) does still focus on [Puffshrooms](puffshroom.md), planters, and nectar, however.
+Dapper Bear currently has 16 Quests. His 16 main quests focus on collecting nectar, collecting tokens from planters, and popping [Puffshrooms](puffshroom.md); with the exception of the 16th quest (added after the 2026-01-19 Update) which focuses mainly on stickers instead of the aforementioned. The quest for obtaining the [Blue Drive](drives.md#Blue_Drive) in order to repair [Robo Bear](robo-bear.md) does still focus on [Puffshrooms](puffshroom.md), planters, and nectar, however.
 
 His 2nd, 4th, 6th, 8th, 10th, 12th, 14th and 16th Quest rewards an additional [Beequip Case](beequip.md) slot. If you received [Beequip Case](beequip.md) slots from Bee Bear previously, you will instead be rewarded one [Ticket Planters](ticket-planter.md) until you catch up to the amount of additional slots a new player would have.
 
@@ -526,7 +526,7 @@ If player already had the [Beequip Case](beequip.md) Slot that the quest was sup
 
 ## Dialogue
 
-Currently, Dapper Bear has 15 quests that were added in Beesmas 2022, and 1 more added in the [2026-01-16 Update](updates.md#2026-01-16). However, more quests for him will be added upon further updates. Upon interacting with him, he will first give dialogue explaining [Planters](planter.md) and a reward of [Ticket Planters](ticket-planter.md). Since the Beesmas 2022 update, a questline has been given to him. Dapper Bear gives plenty of information in his dialogues. Some of the information he gives is not found anywhere else in the game.
+Currently, Dapper Bear has 15 quests that were added in Beesmas 2022, and 1 more added in the 2026-01-16 Update. However, more quests for him will be added upon further updates. Upon interacting with him, he will first give dialogue explaining [Planters](planter.md) and a reward of [Ticket Planters](ticket-planter.md). Since the Beesmas 2022 update, a questline has been given to him. Dapper Bear gives plenty of information in his dialogues. Some of the information he gives is not found anywhere else in the game.
 
 ### Main Quests
 
@@ -851,172 +851,6 @@ The following content has been removed from the game. The contents below may be 
 </p><p><br/>
 <i>- Completion -</i>
 </p><p>Looks like you've finished your scavenger hunt. That [sic] everything I'll need to polish this up. ...(scrub scrub)... Mmhmm. See, like a Diamond Bee in the rough. Having this Samovar around will certainly make Beesmas more beautiful. You are free to use it once every 6 hours for some Nectar and Honeysuckles. The Nectar you get will always be a random type, and starts at 1 hour. Each time you use it over the Winter event, the amount of Nectar goes up by 5 minutes (up to 4 hours). As the Samovar's brew gets stronger, you'll also get more Honeysuckles. Use it enough and you might be surprised how much joy it can bring you. Just don't drink it too fast - pace yourself. Samovar is something you're supposed to savor, I've heard. Happy Honeydays! Check in with you later.
-</p>
-</td></tr></tbody></table>
-
-### 2024 (Winter)
-
-<table class="article-table mw-collapsible mw-collapsed">
-<tbody><tr>
-<th>Requirements
-</th>
-<th>Rewards
-</th></tr>
-<tr>
-<td>
-<ul><li>Collect 50,000,000 Blue <a href="pollen.html">Pollen</a>.</li>
-<li>Collect 12 Hours of <a href="nectar.html">Nectar</a></li>
-<li>Collect 4 Hours of Refreshing Nectar.</li>
-<li>Collect 25 Tokens from <a href="planter.html">Planters</a> in the <a href="pineapple-patch.html">Pineapple Patch</a>.</li>
-<li>Collect 25 Tokens from Planters in the <a href="pine-tree-forest.html">Pine Tree Forest</a>.</li>
-<li>Collect 25 Tokens from <a href="plastic-planter.html">Plastic Planters</a></li>
-<li>Obtain 5 Random Leaf <a href="sticker.html">Stickers</a> (except Blowing, Oblique and Reniform) to give to Dapper Bear.</li></ul>
-</td>
-<td>
-<ul><li><img alt="Honey" height="25" src="img/Honey.png" width="25"/>200,000,000 <a href="honey.html"><span class="color-template color-template-honey">Honey</span></a></li>
-<li><img alt="Ticket Planter" height="25" src="img/Ticket_Planter.png" width="25"/>1 <a href="ticket-planter.html"><span class="color-template color-template-ticket-planter color-template-background-clip">Ticket Planter</span></a></li>
-<li><img alt="Smooth Dice" height="25" src="img/Smooth_Dice.png" width="25"/>3 <a href="smooth-dice.html"><span class="color-template color-template-smooth-dice color-template-background-clip">Smooth Dice</span></a></li>
-<li><img alt="Swirled Wax" height="25" src="img/Swirled_Wax.png" width="25"/>1 <a href="swirled-wax.html"><span class="color-template color-template-swirled-wax color-template-background-clip">Swirled Wax</span></a></li>
-<li><img alt="Snowflake" height="25" src="img/Snowflake.png" width="25"/>25 <a href="snowflake.html"><span class="color-template color-template-snowflake color-template-background-clip">Snowflakes</span></a></li></ul>
-</td></tr></tbody></table>
-
-<table class="article-table mw-collapsible mw-collapsed">
-<tbody><tr>
-<th>Dialogue
-</th></tr>
-<tr>
-<td>
-<p><i>- Accepting -</i><br/>
-It sure is cold this time of year. Just look at you - face flushed, red cheeks. Lucky for me, I've got this snazzy coat. As well insulated as it is stylish. And I keep the temperature nice and cozy in my shop no matter what. But your bees must be freezing out there in the fields. Bet you'd like some nice warm Nectar, huh? Well, if you help me polish up my Samovar, there'll be plenty to go around. A Samovar is a traditional device originating from Russia usually used for tea. But I like to use it for warming Nectar, and to reconstitute dried [Honeysuckles]. Help me complete this quest, and I\'ll let you use it free of charge. Well, apart from the leaf Stickers I\'ll need you to get. Those will be your fee, heh.
-</p><p><i>- During -</i><br/>
-N/A
-</p><p><i>- Completion -</i><br/>
-That was quicker than I expected! You must be thirsty. Well, let's go ahead and polish the Samovar right up. ...(scrub scrub)... Mmhmm, shiny! A Diamond Bee in the rough. As pretty as the day I thrifted it. Now that it's ready, you can use the Samovar once every 6 hours for some Nectar, [Honeysuckles], and other rewards (sic)The Nectar you get will always be a random type, and starts at 1 hour. Each time you use it, the amount of Nectar goes up by 5 minutes (up to 4 hours). As the Samovar's brew gets stronger, you'll also get more [Honeysuckles]. Use it enough and you might be surprised how much joy it can bring you. I hope it keeps you warm out there while you're grinding away in the snow. Happy Honeydays! Check in with you soon.
-</p>
-</td></tr></tbody></table>
-
-### 2024 (Summer)
-
-<table class="article-table mw-collapsible mw-collapsed">
-<tbody><tr>
-<th>Requirements
-</th>
-<th>Rewards
-</th></tr>
-<tr>
-<td>
-<ul><li>Collect 2,500,000 <a href="pollen.html">Blue Pollen</a>.</li>
-<li>Collect 2,000,000 Pollen from the <a href="cactus-field.html">Cactus Field</a>.</li>
-<li>Collect 4 Hours of <a href="nectar.html">Satisfying Nectar</a>.</li>
-<li>Collect 100 Tokens from <a href="planter.html">Planters</a>.</li>
-<li>Obtain 4 Yellow Coffee Mug <a href="sticker.html">Stickers</a> to give to Dapper Bear.</li>
-<li>Obtain 3 Cordate Leaf Stickers, 3 Hastate Leaf Stickers, OR 3 Lanceolate Leaf Stickers to give to Dapper Bear.</li>
-<li>Obtain 1 Spore Covered Puffshroom Sticker to give to Dapper Bear.</li></ul>
-</td>
-<td><img alt="Honey" height="25" src="img/Honey.png" width="25"/>10,000,000 <a href="honey.html"><span class="color-template color-template-honey">Honey</span></a><br/>
-<p><img alt="Ticket Planter" height="25" src="img/Ticket_Planter.png" width="25"/>1 <a href="ticket-planter.html"><span class="color-template color-template-ticket-planter color-template-background-clip">Ticket Planter</span></a><br/>
-<img alt="Satisfying Vial" height="25" src="img/Satisfying_Vial.png" width="25"/>1 <a href="satisfying-vial.html"><span class="color-template color-template-satisfying-vial color-template-background-clip">Satisfying Vial</span></a><br/>
-<img alt="Elf Cap" height="25" src="img/Elf_Cap.png" width="25"/>1 <a href="elf-cap.html"><span class="color-template color-template-elf-cap color-template-background-clip">Elf Cap</span></a><br/>
-<img alt="Soft Wax" height="25" src="img/Soft_Wax.png" width="25"/>10 <a href="soft-wax.html"><span class="color-template color-template-soft-wax">Soft Waxes</span></a><br/>
-<img alt="Whirligig" height="25" src="img/Whirligig.png" width="25"/>5 <a href="whirligig.html"><span class="color-template color-template-whirligig color-template-background-clip">Whirligigs</span></a><br/>
-<img alt="Snowflake" height="25" src="img/Snowflake.png" width="25"/>25 <a href="snowflake.html"><span class="color-template color-template-snowflake color-template-background-clip">Snowflakes</span></a>
-</p>
-</td></tr></tbody></table>
-
-<table class="article-table mw-collapsible mw-collapsed">
-<tbody><tr>
-<th>Dialogue
-</th></tr>
-<tr>
-<td>It's unnaturally cold for this time of year. Thankfully I've got this snazzy coat. As well insulated as it is stylish. And I keep the temperature nice and cozy in my shop no matter what. But you and your bees must be freezing out there in the fields. Bet you'd like some nice warm Nectar, huh? Well, if you help me polish up my Samovar, there'll be plenty to go around. A Samovar is a traditional device originating from Russia usually used for tea. But I like to use it for warming Nectar, and to reconstitute dried [Honeysuckles]. Help me complete this quest, and I'll let you use it free of charge. Well, apart from the Stickers I'll need you to get. Those will be your fee, heh.
-<p><i>-During-</i>
-</p><p>N/A
-</p><p><i>-Completion-</i>
-</p><p>That was quicker than I expected! You must be thirsty. Well, let's go ahead and polish the Samovar right up. ...(scrub scrub)... Mmhmm, shiny! A Diamond Bee in the rough. As pretty as the day I thrifted it. Now that it's ready, you can use the Samovar once every 6 hours for some Nectar, [Honeysuckles], and other rewards <i>[sic]</i> The nectar you get will always be a random type, and starts at 1 hour. Each time you use it, the amount of Nectar goes up by 5 minutes (up to 4 hours). As the Samovar's brew gets stronger, you'll also get more [Honeysuckles]. Use it enough and you might be surprised how much joy it can bring you. I hope it keeps you warm out there while you're grinding away in the snow. Happy Honeydays! Check in with you soon.
-</p>
-</td></tr></tbody></table>
-
-### 2022
-
-<table class="article-table mw-collapsible mw-collapsed">
-<tbody><tr>
-<th>Requirements
-</th>
-<th>Rewards
-</th></tr>
-<tr>
-<td>
-<ul><li>Collect 1,000,000 <a href="pollen.html">Blue Pollen</a>.</li>
-<li>Collect 2 Hours of <a href="nectar.html">Nectar</a>.</li>
-<li>Collect 25 Tokens from <a href="planter.html">Planters</a>.</li>
-<li>Pop 1 <a href="puffshroom.html">Rare Puffshroom</a>.</li></ul>
-</td>
-<td><img alt="Honey" height="25" src="img/Honey.png" width="25"/>2,000,000 <a href="honey.html"><span class="color-template color-template-honey">Honey</span></a><br/>
-<p><img alt="Blue Drive" height="25" src="img/Blue_Drive.png" width="25"/>1 <a href="drives.html#Blue_Drive"><span class="color-template color-template-blue-drive color-template-background-clip">Blue Drive</span></a><br/>
-<img alt="Ticket Planter" height="25" src="img/Ticket_Planter.png" width="25"/>1 <a href="ticket-planter.html"><span class="color-template color-template-ticket-planter color-template-background-clip">Ticket Planter</span></a><br/>
-<img alt="Motivating Vial" height="25" src="img/Motivating_Vial.png" width="25"/>1 <a href="motivating-vial.html"><span class="color-template color-template-motivating-vial color-template-background-clip">Motivating Vial</span></a><br/>
-<img alt="Smooth Dice" height="25" src="img/Smooth_Dice.png" width="25"/>3 <a href="smooth-dice.html"><span class="color-template color-template-smooth-dice color-template-background-clip">Smooth Dice</span></a><br/>
-<img alt="Snowflake" height="25" src="img/Snowflake.png" width="25"/>25 <a href="snowflake.html"><span class="color-template color-template-snowflake color-template-background-clip">Snowflakes</span></a>
-</p>
-</td></tr></tbody></table>
-
-<table class="article-table mw-collapsible mw-collapsed">
-<tbody><tr>
-<th>Dialogue
-</th></tr>
-<tr>
-<td>Beesmas again, already? Boy, does time fly. Guess it's time to bring out my favorite winter treat... That dull looking thing out there is actually a Samovar. With a bit of polishing up, it'll dish out potent spiced Nectar. Perfect for winter. And I know you beekeepers love Nectar. Nectar provides hefty boosts to the pollen collection of your swarm. I'm a little busy at the moment though, gotta man the shop. Think you and your bees could clean it up for me? If so, I'll make it worth your while. You see, I've heard through the grapevine that a strange robot has appeared near the Rose Field. Don't get over there much myself. Well, I have something I think you could use to get that robot working. It's a [Blue Drive] I picked up at an electronics shop in Akihabara years back. If you get the Samovar working, the [Drive] is all yours. Collect 1,000,000 Blue Pollen... Collect 2 hours of Nectar... Collect 25 Tokens from Planters... And pop 1 Rare Puffshroom.
-<p><i>-During-</i>
-</p><p>N/A
-</p><p><i>-Completion-</i>
-</p><p><br/>
-That was fast! Guess you really want that [Drive]. Let me tell you though, that [Drives] got nothing on this Samovar. ...(scrub scrub)... Mmhmm. See, a Diamond Bee in the rough. As pretty as the day I thrifted it. Now that it's ready, you can use the Samovar once every 6 hours for some Nectar, Honeysuckles, and other rewards <i>[sic]</i> The nectar you get will always be a random type, and starts at 1 hour. Each time you use it over the Winter event, the amount of Nectar goes up by 5 minutes (up to 4 hours). As the Samovar's brew gets stronger, you'll also get more Honeysuckles. Use it enough and you might be surprised how much joy it can bring you. And as I promised, here's your [Blue Drive]. As for the other 3 drives, well, your guess is as good as mine. But if I had to guess, I'd say Science Bear might know more. Maybe that's just me profiling. Well, whatever. I hope you enjoy the Samovar, and savor this time of year. Happy honeydays! Stay warm out there.
-</p>
-</td></tr></tbody></table>
-
-### 2021
-
-<table class="article-table mw-collapsible mw-collapsed">
-<tbody><tr>
-<th>Requirements
-</th>
-<th>Rewards
-</th></tr>
-<tr>
-<td>
-<ul><li>Collect 500,000 <a href="pollen.html">Blue Pollen</a>.</li>
-<li>Collect 300,000 <a href="pollen.html">Pollen</a> from the <a href="rose-field.html">Rose Field</a>.</li>
-<li>Collect 300,000 <a href="pollen.html">Pollen</a> from the <a href="cactus-field.html">Cactus Field</a>.</li>
-<li>Collect 300,000 <a href="pollen.html">Pollen</a> from the <a href="clover-field.html">Clover Field</a>.</li>
-<li>Collect 15 Tokens from <a href="paper-planter.html">Paper Planter</a>.</li>
-<li>Collect 20 Tokens from <a href="plastic-planter.html">Plastic Planter</a>.</li>
-<li>Collect 2 Hours of <a href="nectar.html">Comforting Nectar</a> from <a href="planter.html">Planters</a>.</li>
-<li>Collect 2 Hours of <a href="nectar.html">Satisfying Nectar</a> from <a href="planter.html">Planters</a>.</li>
-<li>Collect 2 Hours of <a href="nectar.html">Refreshing Nectar</a> from <a href="planter.html">Planters</a>.</li>
-<li>Collect 2 Hours of <a href="nectar.html">Invigorating Nectar</a> from <a href="planter.html">Planters</a>.</li>
-<li>Collect 2 Hours of <a href="nectar.html">Motivating Nectar</a> from <a href="planter.html">Planters</a>.</li></ul>
-</td>
-<td><img alt="Honey" height="25" src="img/Honey.png" width="25"/>2,000,000 <a href="honey.html"><span class="color-template color-template-honey">Honey</span></a><br/>
-<p><img alt="Ticket" height="25" src="img/Ticket.png" width="25"/>3 <a href="ticket.html"><span class="color-template color-template-ticket color-template-background-clip">Tickets</span></a><br/>
-<img alt="Ticket Planter" height="25" src="img/Ticket_Planter.png" width="25"/>1 <a href="ticket-planter.html"><span class="color-template color-template-ticket-planter color-template-background-clip">Ticket Planter</span></a><br/>
-<img alt="Gingerbread Bear" height="25" src="img/Gingerbread_Bear.png" width="25"/>1 <a href="gingerbread-bear.html"><span class="color-template color-template-gingerbread-bear color-template-background-clip">Gingerbread Bear</span></a><br/>
-<img alt="Swirled Wax" height="25" src="img/Swirled_Wax.png" width="25"/>1 <a href="swirled-wax.html"><span class="color-template color-template-swirled-wax color-template-background-clip">Swirled Wax</span></a><br/>
-<img alt="Smooth Dice" height="25" src="img/Smooth_Dice.png" width="25"/>1 <a href="smooth-dice.html"><span class="color-template color-template-smooth-dice color-template-background-clip">Smooth Dice</span></a><br/>
-<img alt="Honeysuckle" height="25" src="img/Honeysuckle.png" width="25"/>3 <a href="honeysuckle.html"><span class="color-template color-template-honeysuckle color-template-background-clip">Honeysuckles</span></a><br/>
-<img alt="Single Mitten" height="25" src="img/Single_Mitten.png" width="25"/>1 <a href="single-mitten.html"><span class="color-template color-template-single-mitten color-template-background-clip">Single Mitten</span></a>
-</p>
-</td></tr></tbody></table>
-
-<table class="article-table mw-collapsible mw-collapsed">
-<tbody><tr>
-<th>Dialogue
-</th></tr>
-<tr>
-<td>So as you can probably tell, I'm still setting this place up. But I'd like to participate too. In the Beesmas festivities. You'd welcome me in, right? Couldn't turn a stranger away on a honeyday. Heh. Well, what if I had something to share? Something that'll warm you up right up straight down to your bones. This is a Samovar. A bit derelict, not unlike some of you beekeepers I see trotting around.  But with a little TLC, we can use it to brew up some potent spiced Nectar. Perfect for winter. Nectar is absolutely essential for collecting pollen fast, and of course for making honey. And this Samovar is a perfect supplmental source for Nectar of all types. I can tell you're intrigued. I was too on my first trip to Tula. If you and your bees help me gather some pollen and Nectar, I'll play host and heat it up for us.
-<p><i>-During-</i>
-</p><p>N/A
-</p><p><i>-Completion-</i>
-</p><p>Nice to see you didn't come back empty handed. That's all I'll need to polish this thing up. ...(scrub scrub).. Mmhmm. See, a Diamond Bee in the rough. I lugged this antique Samovar in my carry-on on my way back from Moscow. Had to leave a few Beequips behind to make room. Worth it though. You can use the Samovar once every 6 hours for some Nectar, Honeysuckles, and other rewards. The Nectar you get will always be a random type, and starts at 1 hour. Each time you use it over the Winter event, the amount of Nectar goes up by 5 minutes (up to a 4 hours). As the Samovar's brew gets stronger, you'll also get more Honeysuckles. Use it enough and you might be surprised how much joy it can bring you. Just don't drink it too fast - pace yourself. Samovar is something you're supposed to savor, I've heard. Oh, and if you aren't familiar with Honeysuckles... Honeysuckles cause half of your bees to instantly convert pollen from your bag when your bag becomes full. This can help you stay on the field longer before having to return to the hive. To use them, you can toggle them on in your Egg Menu. I'll give you a few to try out. Well, thank you for including me in this year's Beesmas fun. I'll have more quests for you over the coming weeks. Happy Honeydays! Stay warm out there. 
 </p>
 </td></tr></tbody></table>
 

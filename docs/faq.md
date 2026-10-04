@@ -29,7 +29,7 @@ Finish [Science Bear](science-bear.md)'s new quests.
 
 ### Who should I give my [translator](translator.md) to?
 
-It is commonly recommended to give your translator to either [Gifted Riley Bee](gifted-riley-bee.md) or [Gifted Bucko Bee](gifted-bucko-bee.md). [Stick Bug](stick-bug.md) should be last, because the quest bees have good rewards and other players/[Onett](onett-developer.md) can summon Stick Bug. Depending on whether you're a better red [pollen](pollen.md) [collector](tools.md) or blue pollen collector, your first translator should go to the color you specialize in. Give it to Gifted Riley Bee if you are better in red, and Gifted Bucko Bee in blue. This is so you can start doing the easier quests for you and get rewards. If you're balanced in both red and blue pollen, give the translator to Gifted Riley Bee, as its quests may reward [stingers](stinger.md), an [item](items.md) that is very useful for acquiring [Vicious Bee](vicious-bee.md) and the [Demon Mask](demon-mask.md).
+It is commonly recommended to give your translator to either [Gifted Riley Bee](gifted-riley-bee.md) or [Gifted Bucko Bee](gifted-bucko-bee.md). [Stick Bug](stick-bug.md) should be last, because the quest bees have good rewards and other players/Onett can summon Stick Bug. Depending on whether you're a better red [pollen](pollen.md) [collector](tools.md) or blue pollen collector, your first translator should go to the color you specialize in. Give it to Gifted Riley Bee if you are better in red, and Gifted Bucko Bee in blue. This is so you can start doing the easier quests for you and get rewards. If you're balanced in both red and blue pollen, give the translator to Gifted Riley Bee, as its quests may reward [stingers](stinger.md), an [item](items.md) that is very useful for acquiring [Vicious Bee](vicious-bee.md) and the [Demon Mask](demon-mask.md).
 
 Your second translator should go to the other bee that you *didn't* choose. For example, if you gave your first translator to Gifted Riley Bee, you would be recommended to give it to Gifted Bucko Bee. This is so you can get started on the other quests for more rewards.
 
@@ -70,7 +70,7 @@ There are currently no plans to remove any of the Event bees. "Event Bee" does n
 
 ### How do I access the Test Realm?
 
-You must be in [Onett's Testing Group](onett-s-testing-group.md) to join the Test Realm when it is open. Only Onett approves new members of the group. He tends to only approve new members when he is testing a new update.
+You must be in Onett's Testing Group to join the Test Realm when it is open. Only Onett approves new members of the group. He tends to only approve new members when he is testing a new update.
 
 ### Royal Jelly Questions
 
@@ -110,7 +110,7 @@ Nope, sorry, they're a one-time-only thing.
 
 ### Where do I report bugs?
 
-First, check that your bug doesn't appear on this page or the [Known Glitches](glitches.md) page. Next, do the Roblox equivalent of turning it off and back on again: leave the game and come back. (Important: **don't** reset your character! Actually close the game window and then open the game again.) Is the bug still there?
+First, check that your bug doesn't appear on this page or the Known Glitches page. Next, do the Roblox equivalent of turning it off and back on again: leave the game and come back. (Important: **don't** reset your character! Actually close the game window and then open the game again.) Is the bug still there?
 
 If it is still majorly affecting your gameplay, it would be sufficient to report the bug through the [bug report form](https://docs.google.com/forms/d/e/1FAIpQLScsT9PsC7Rn4SSU-ho3eHTgieT56TvGsHH3iPeMtih_4RVJ6w/viewform).
 
@@ -134,7 +134,7 @@ If you would like to become an admin/mod, you must first display qualities that 
 
 ### The page is too long. Is there any faster way to do this?
 
-Yes, there is. In fact, our staff already had a page that compiles all the wiki coding in one page. It's called [FAQ/Wiki Code](faq-wiki-code.md). This page also has information about our templates. With this, you have the knowledge not only for basic wikitext formatting, but also the templates.
+Yes, there is. In fact, our staff already had a page that compiles all the wiki coding in one page. It's called FAQ/Wiki Code. This page also has information about our templates. With this, you have the knowledge not only for basic wikitext formatting, but also the templates.
 
 ### I saw a vandal. What should I do?
 

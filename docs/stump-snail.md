@@ -87,11 +87,11 @@ Once defeated, it takes 96 hours (4 days) to respawn. If the player has the [Gif
 * Stump Snail, [King Beetle](king-beetle.md), and [Stick Bug](stick-bug.md) are the only mobs that can drop [amulets](amulet.md).
   * Stump Snail is the only mob that is guaranteed to drop an amulet.
 * This is the only mob that guarantees to drop [glue](glue.md) upon defeat.
-* As of the [2019-01-02 update](updates.md#2019-02-01), the Stump Snail, [Rogue Vicious Bee](rogue-vicious-bee.md), King Beetle (only if it drops a [King Beetle Amulet](king-beetle-amulet.md)), and [ants](ants.md) are the only mobs that do not drop tokens when defeat; instead the loot directly goes to the player's inventory.
+* As of the 2019-01-02 update, the Stump Snail, [Rogue Vicious Bee](rogue-vicious-bee.md), King Beetle (only if it drops a [King Beetle Amulet](king-beetle-amulet.md)), and [ants](ants.md) are the only mobs that do not drop tokens when defeat; instead the loot directly goes to the player's inventory.
   * Even though the Stump Snail does not drop tokens, the total amount of honey rewarded is still increased by [Honey From Tokens](system-page.md#Honey_From_Tokens).
 * [Spirit Bear](spirit-bear.md) refers to the Stump Snail as "Ol' Stumpy," which may be a reference to YouTuber [ThnxCya](https://www.youtube.com/user/ThnxCya) as he is also known to refer to the Stump Snail as "Ol' Stumpy."
 * It is possible to damage other players' snails with [flames](flame.md).
-* Stump Snail originally had 25,000,000 health prior to the [2019-04-05 update](updates.md#2019-04-05). The change was due to most bees' attacks being buffed in said update.
+* Stump Snail originally had 25,000,000 health prior to the 2019-04-05 update. The change was due to most bees' attacks being buffed in said update.
 * Stump Snail has the most health and the longest respawn time among all mobs.
 * Previously, there was a bug where the Stump Snail would spawn at a lower position than usual, causing it to bob up before falling under the field.
   * On rare occasions, it would fall significantly beneath the map beyond the player's bees' attack range. During such occurrences, bees would be unable to focus on it, flying up and down and rendering its defeat unrealistic.

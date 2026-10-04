@@ -61,7 +61,7 @@ Gumdrops
 
 Jelly Beans
 
-The **Candy Planter** is a reusable [planter](planter.md) added in the [2021-12-26 update](updates.md#2021-12-26). Alone, it grows in about 4 hours and stores 1 million [pollen](pollen.md). When harvested, it grants bonus [Gumdrops](gumdrops.md) and [Jelly Beans](jelly-beans.md). It can be purchased at the [Dapper Bear's Shop](dapper-bear-s-shop.md).
+The **Candy Planter** is a reusable [planter](planter.md) added in the 2021-12-26 update. Alone, it grows in about 4 hours and stores 1 million [pollen](pollen.md). When harvested, it grants bonus [Gumdrops](gumdrops.md) and [Jelly Beans](jelly-beans.md). It can be purchased at the [Dapper Bear's Shop](dapper-bear-s-shop.md).
 
 <table class="article-table">
 <tbody><tr>
@@ -209,7 +209,7 @@ When claimed, the planter gives up to 14 tokens worth of items. If the planter w
 </th>
 <th class="NavCategory">Quest Exclusive
 </th>
-<td class="NavLinks NavLinksBasicEven"><b><img alt="Translator" height="35" src="img/Translator.png" width="35"/> <a href="translator.html">Translator</a> • <img alt="Spirit Petal" height="35" src="img/Spirit_Petal.png" width="35"/> <a href="spirit-petal.html">Spirit Petal</a> • <img alt="Debug Wax" height="35" src="img/Debug_Wax.png" width="35"/> <a href="debug-wax.html">Debug Wax</a> • <img alt="Nectar Tester" height="35" src="img/Nectar_Tester.png" width="35"/> <a href="nectar-tester.html">Nectar Tester</a></b> • <span typeof="mw:Error mw:File"></span> <a href="bbm-s-apology.html">BBM's Apology</a><b></b>
+<td class="NavLinks NavLinksBasicEven"><b><img alt="Translator" height="35" src="img/Translator.png" width="35"/> <a href="translator.html">Translator</a> • <img alt="Spirit Petal" height="35" src="img/Spirit_Petal.png" width="35"/> <a href="spirit-petal.html">Spirit Petal</a> • <img alt="Debug Wax" height="35" src="img/Debug_Wax.png" width="35"/> <a href="debug-wax.html">Debug Wax</a> • <img alt="Nectar Tester" height="35" src="img/Nectar_Tester.png" width="35"/> <a href="nectar-tester.html">Nectar Tester</a></b><b></b>
 </td></tr>
 <tr>
 <th class="NavCategory">Beesmas

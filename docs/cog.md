@@ -17,7 +17,7 @@ COOLDOWN
 
 N/A
 
-**Cogs** are inventory items added in the [2022-12-26 update](updates.md). They are used to purchase upgrades, purchase [drives](drives.md), and reroll bees and upgrades in the [Robo Bear Challenge](robo-bear-challenge.md). They are removed from the inventory when the [Robo Bear Challenge](robo-bear-challenge.md) ends. Additionally, you can reach 250,000 **Cogs** collected in total to unlock the [Robo Cub](cub-buddy.md#Skins).
+**Cogs** are inventory items added in the 2022-12-26 update. They are used to purchase upgrades, purchase [drives](drives.md), and reroll bees and upgrades in the [Robo Bear Challenge](robo-bear-challenge.md). They are removed from the inventory when the [Robo Bear Challenge](robo-bear-challenge.md) ends. Additionally, you can reach 250,000 **Cogs** collected in total to unlock the [Robo Cub](cub-buddy.md#Skins).
 
 ## Ways to Obtain
 
@@ -27,10 +27,6 @@ N/A
   * You may get bonus cogs for completing a quest within the first two minutes.
   * You may also get bonus cogs from certain upgrades you can purchase in the challenge.
 * Defeating a [Golden Cogmower](golden-cogmower.md) guarantees at least 14 Cogs and scales up to 18.
-
-### Outdated Methods
-
-* As a reward for completing [BBM's Naughty List](bubble-bee-man.md) in Beesmas 2024.
 
 ## Trivia
 
@@ -107,7 +103,7 @@ N/A
 </th>
 <th class="NavCategory">Quest Exclusive
 </th>
-<td class="NavLinks NavLinksBasicEven"><b><img alt="Translator" height="35" src="img/Translator.png" width="35"/> <a href="translator.html">Translator</a> • <img alt="Spirit Petal" height="35" src="img/Spirit_Petal.png" width="35"/> <a href="spirit-petal.html">Spirit Petal</a> • <img alt="Debug Wax" height="35" src="img/Debug_Wax.png" width="35"/> <a href="debug-wax.html">Debug Wax</a> • <img alt="Nectar Tester" height="35" src="img/Nectar_Tester.png" width="35"/> <a href="nectar-tester.html">Nectar Tester</a></b> • <span typeof="mw:Error mw:File"></span> <a href="bbm-s-apology.html">BBM's Apology</a><b></b>
+<td class="NavLinks NavLinksBasicEven"><b><img alt="Translator" height="35" src="img/Translator.png" width="35"/> <a href="translator.html">Translator</a> • <img alt="Spirit Petal" height="35" src="img/Spirit_Petal.png" width="35"/> <a href="spirit-petal.html">Spirit Petal</a> • <img alt="Debug Wax" height="35" src="img/Debug_Wax.png" width="35"/> <a href="debug-wax.html">Debug Wax</a> • <img alt="Nectar Tester" height="35" src="img/Nectar_Tester.png" width="35"/> <a href="nectar-tester.html">Nectar Tester</a></b><b></b>
 </td></tr>
 <tr>
 <th class="NavCategory">Beesmas

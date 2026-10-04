@@ -131,7 +131,7 @@ There are 15 songs principally used, all found in [Onett's inventory.](https://w
 </td>
 <td><span class="mw-default-size" typeof="mw:Error mw:File"></span>
 </td>
-<td><b>Plays inside <a href="gummy-bear-s-lair.html">Gummy Bear's Lair</a>, near the <a href="gummy-bee-egg-claim.html">Gummy Bee Egg Claim</a>, and near the <a href="ornament-presents.html">Gooey Present</a> area.</b>
+<td><b>Plays inside <a href="gummy-bear-s-lair.html">Gummy Bear's Lair</a>, near the <a href="gummy-bee-egg-claim.html">Gummy Bee Egg Claim</a>, and near the Gooey Present area.</b>
 </td></tr>
 <tr>
 <td>Vendor
@@ -229,7 +229,7 @@ There are 15 songs principally used, all found in [Onett's inventory.](https://w
 
 * A majority of the songs were made using music programs called "Nanostudio" and "Nanostudio 2".[1]
 * icedtealatte made the StarHall song.[2]
-  * This makes StarHall the only known song in game to be made by someone other than [Onett](onett-developer.md).
+  * This makes StarHall the only known song in game to be made by someone other than Onett.
 * Onett composed many of the songs between 2013—2016, with an estimated total of 40 in the style of Re://:Swarm.[3]
 
 ## References

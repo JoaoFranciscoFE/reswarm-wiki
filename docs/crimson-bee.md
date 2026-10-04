@@ -47,9 +47,9 @@ Crimson Bee likes the [Clover Field](clover-field.md) and the [Rose Field](rose-
 
 ### Abilities
 
-* **[Red Pulse](ability-tokens.md#Pulse)** Fires a pulse that hops between your red bees, collecting pollen around them (+10% per level). Power increases with each hop. If you own Cobalt Bee, fires a [Blue Pulse](ability-tokens.md#Pulse) as well.
+* <img alt="Red Pulse" src="img/Red_Pulse.png" style="height:1.6em;width:auto;vertical-align:middle"/> **[Red Pulse](ability-tokens.md#Pulse)** Fires a pulse that hops between your red bees, collecting pollen around them (+10% per level). Power increases with each hop. If you own Cobalt Bee, fires a [Blue Pulse](ability-tokens.md#Pulse) as well.
   * If Gifted, the pulse also causes bees to instantly convert pollen equal to 25% of the bee's Convert Amount (+25% per Field Boost stack).
-* **[Red Bomb Sync](ability-tokens.md#Bomb_Sync)** Grants 10% Red Pollen and Instant Red Conversion and allows [Red Bombs](ability-tokens.md#Bomb) to collect from white [Flowers](flowers.md) for 30 sec. If [Blue Bomb Sync](ability-tokens.md#Bomb_Sync) is active, applies to blue flowers as well.
+* <img alt="Red Bomb Sync" src="img/Red_Bomb_Sync.png" style="height:1.6em;width:auto;vertical-align:middle"/> **[Red Bomb Sync](ability-tokens.md#Bomb_Sync)** Grants 10% Red Pollen and Instant Red Conversion and allows [Red Bombs](ability-tokens.md#Bomb) to collect from white [Flowers](flowers.md) for 30 sec. If [Blue Bomb Sync](ability-tokens.md#Bomb_Sync) is active, applies to blue flowers as well.
 
 <table style="font-size:1.5vh; color:#000; width:100%; background:#fff; padding: 15px 0; border:none; color:#000; border-left:15px #af2136 solid">
 <tbody><tr>
@@ -386,7 +386,7 @@ Crimson Bee likes the [Clover Field](clover-field.md) and the [Rose Field](rose-
 <figure class="thumb" style="width: 180px" typeof="mw:File/Thumb">  <figcaption class="thumbcaption"> </figcaption> </figure>
 
 * The description of the Red Bomb Sync ability used to be spelled incorrectly as "apples" instead of "applies".
-  * [Onett](onett-developer.md) was aware of this and instead changed the "apples" to "🍎 s".
+  * Onett was aware of this and instead changed the "apples" to "🍎 s".
   * However, this has since been corrected.
 * This bee, Cobalt Bee, [Photon Bee](photon-bee.md), [Windy Bee](windy-bee.md), [Tadpole Bee](tadpole-bee.md), [Ninja Bee](ninja-bee.md) and [Shy Bee](shy-bee.md) are the only bees that create a trail.
 * The [Crimson Guard](crimson-guard.md), which can be purchased in the [Badge Bearer's Guild](badge-bearer-s-guild.md), has a special design, name, and stats dedicated to Crimson Bee.

@@ -5,125 +5,6 @@ tags: ["Leaderboards", "Locations"]
 
 # All-Time Fastest Crab Slayers
 
-This article should be regularly looked at for new changes.
-
-Please regularly update the status of the All-Time Fastest Crab Slayers article with date of change.
-
-Recommended once per week.
-
-*(Leaderboard as of 2026-07-31)*
-
-<table align="right" cellpadding="3" cellspacing="0" style="border-radius: 2px; -moz-border-radius: 2px; -webkit-border-radius: 2px; -khtml-border-radius: 2px; -icab-border-radius: 2px; -o-border-radius: 2px;; margin-left:5px; margin-bottom:5px; width: 300px; font-size: 65%; border:8px solid #5d391a;">
-<tbody><tr>
-<th colspan="3" style="border-radius: 1px; -moz-border-radius: 1px; -webkit-border-radius: 1px; -khtml-border-radius: 1px; -icab-border-radius: 1px; -o-border-radius: 1px;; text-align:center; font-size:18px; color:#242e2d; background:#deb81d">All-Time Fastest Crab Slayers
-</th></tr>
-<tr class="mobile-hidden">
-<td colspan="3" style="padding:0; height:2.5px; background-color:#1d1d1d">
-</td></tr>
-<tr style="color:#0e0e0e; background:#68ccc6;">
-<td style="width:10%;"><b>1:</b>
-</td>
-<td style="font-size:15px; width:50%;"><b>condtive</b>
-</td>
-<td style="font-size:15px; width:50%;"><b>0.375 Seconds</b>
-</td></tr>
-<tr class="mobile-hidden">
-<td colspan="3" style="padding:0; height:2.5px; background-color:#1d1d1d">
-</td></tr>
-<tr style="color:#0e0e0e; background:#b59005;">
-<td style="width:10%;"><b>2:</b>
-</td>
-<td style="font-size:15px; width:50%;"><b>Iambla1</b>
-</td>
-<td style="font-size:15px; width:50%;"><b>0.625 Seconds</b>
-</td></tr>
-<tr class="mobile-hidden">
-<td colspan="3" style="padding:0; height:2.5px; background-color:#1d1d1d">
-</td></tr>
-<tr style="color:#0e0e0e; background:#a4a7bb;">
-<td style="width:10%;"><b>3:</b>
-</td>
-<td style="font-size:15px; width:50%;"><b>WillydaleBSS</b>
-</td>
-<td style="font-size:15px; width:50%;"><b>0.75 Seconds</b>
-</td></tr>
-<tr class="mobile-hidden">
-<td colspan="3" style="padding:0; height:2.5px; background-color:#1d1d1d">
-</td></tr>
-<tr style="color:#cfd4d6; background:#473c06;">
-<td style="width:10%;"><b>4:</b>
-</td>
-<td style="font-size:15px; width:50%;"><b>StickBug_General</b>
-</td>
-<td style="font-size:15px; width:50%;"><b>0.875 Seconds</b>
-</td></tr>
-<tr class="mobile-hidden">
-<td colspan="3" style="padding:0; height:2.5px; background-color:#1d1d1d">
-</td></tr>
-<tr style="color:#cfd4d6; background:#473c06;">
-<td style="width:10%;"><b>5:</b>
-</td>
-<td style="font-size:15px; width:50%;"><b>A_h3y2</b>
-</td>
-<td style="font-size:15px; width:50%;"><b>1 Second</b>
-</td></tr>
-<tr class="mobile-hidden">
-<td colspan="3" style="padding:0; height:2.5px; background-color:#1d1d1d">
-</td></tr>
-<tr style="color:#cfd4d6; background:#473c06;">
-<td style="width:10%;"><b>6:</b>
-</td>
-<td style="font-size:15px; width:50%;"><b>precisebyte</b>
-</td>
-<td style="font-size:15px; width:50%;"><b>1.125 Seconds</b>
-</td></tr>
-<tr class="mobile-hidden">
-<td colspan="3" style="padding:0; height:2.5px; background-color:#1d1d1d">
-</td></tr>
-<tr style="color:#cfd4d6; background:#473c06;">
-<td style="width:10%;"><b>7:</b>
-</td>
-<td style="font-size:15px; width:50%;"><b>pavelskibrawlh</b>
-</td>
-<td style="font-size:15px; width:50%;"><b>1.125 Seconds</b>
-</td></tr>
-<tr class="mobile-hidden">
-<td colspan="3" style="padding:0; height:2.5px; background-color:#1d1d1d">
-</td></tr>
-<tr style="color:#cfd4d6; background:#473c06;">
-<td style="width:10%;"><b>8:</b>
-</td>
-<td style="font-size:15px; width:50%;"><b>AbilityTokenLifespan</b>
-</td>
-<td style="font-size:15px; width:50%;"><b>1.25 Seconds</b>
-</td></tr>
-<tr class="mobile-hidden">
-<td colspan="3" style="padding:0; height:2.5px; background-color:#1d1d1d">
-</td></tr>
-<tr style="color:#cfd4d6; background:#473c06;">
-<td style="width:10%;"><b>9:</b>
-</td>
-<td style="font-size:15px; width:50%;"><b>DebugMarks</b>
-</td>
-<td style="font-size:15px; width:50%;"><b>1.375 Seconds</b>
-</td></tr>
-<tr class="mobile-hidden">
-<td colspan="3" style="padding:0; height:2.5px; background-color:#1d1d1d">
-</td></tr>
-<tr style="color:#cfd4d6; background:#473c06;">
-<td style="width:10%;"><b>10:</b>
-</td>
-<td style="font-size:15px; width:50%;"><b>Damon86Lol96</b>
-</td>
-<td style="font-size:15px; width:50%;"><b>1.375 Seconds</b>
-</td></tr>
-<tr class="mobile-hidden">
-<td colspan="3" style="padding:0; height:2.5px; background-color:#1d1d1d">
-</td></tr>
-<tr style="color:#cfd4d6; background:#473c06;">
-<td colspan="3"><b>Page last updated on 10/3/2026</b><i></i>
-</td></tr></tbody></table>
-
 The **Fastest Crab Slayers** is one of the 64 [leaderboards](leaderboards.md) in the game. This leaderboard shows the least time in which the player has defeated the [Coconut Crab](coconut-crab.md). It shows 10 leaderboard positions at one time. The player can scroll down the leaderboard to see more players, all the way to the 100th place.
 
 If the player has never defeated the Coconut Crab the pad will prompt, "You haven't defeated the Coconut Crab".
@@ -131,18 +12,6 @@ If the player has never defeated the Coconut Crab the pad will prompt, "You have
 ## Location
 
 It is located past the [Windy Bee Gate](windy-bee-gate.md) inside the [Coconut Cave](coconut-cave.md). The player will need to defeat the Coconut Crab to enter the Cave and see their score.
-
-## Achievements
-
-* Pepega90 was the first user to defeat the Coconut Crab in 30 seconds or less.
-* Pepega90 was the first user to defeat the Coconut Crab in 25 seconds or less.
-* McProsephYouTube was the first user to defeat the Coconut Crab in 20 seconds or less.
-* Miracle\_Mike was the first user to defeat the Coconut Crab in 15 seconds or less.
-* e\_IoI was the first user to defeat the Coconut Crab in 10 seconds or less.
-* HavingFun2228 was the first user to defeat the Coconut Crab in 5 seconds or less.
-* buhloonx2 was the first user to defeat the Coconut Crab in 2 seconds or less.
-* condtive was the first user to defeat the Coconut Crab in 1 second or less.
-* condtive was the first user to defeat the Coconut Crab in 0.5 seconds or less.
 
 ## Trivia
 
@@ -194,5 +63,5 @@ It is located past the [Windy Bee Gate](windy-bee-gate.md) inside the [Coconut C
 <tr>
 <th class="NavCategory">Event<br/>Locations
 </th>
-<td class="NavLinks NavLinksBasicEven"><b><a href="beesmas-tree.html">Beesmas Tree</a> • <a href="ornament-presents.html">Ornament Presents</a> • <span class="new" data-uncrawlable-url="L3dpa2kvQ29tcHV0ZXI/YWN0aW9uPWVkaXQmcmVkbGluaz0x" title="Computer (page does not exist)">Computer</span> • <a href="gift-boxes.html">Gift Boxes</a> • <a href="honey-wreath.html">Honey Wreath</a> • <a href="stockings.html">Stockings</a> • <a href="gingerbread-house.html">Gingerbread House</a> • <a href="snowbear-summoner.html">Snowbear Summoner</a> • <a href="beesmas-lights.html">Beesmas Lights</a> • <a href="samovar.html">Samovar</a> • <a href="beesmas-feast.html">Beesmas Feast</a> • <a href="onett-s-lid-art.html">Onett's Lid Art</a> • <a href="wind-shrine.html#Galentine_Shrine">Galentine Shrine</a> • <a href="memory-match.html#Winter_Memory_Match">Winter Memory Match</a> • <a href="snow-machine.html">Snow Machine</a> • <a href="honeyday-candles.html">Honeyday Candles</a> • <a href="robo-party-cake.html">Robo Party Cake</a> • <a href="gummy-beacon.html">Gummy Beacon</a> • <a href="naughty-list.html">Naughty List</a></b>
+<td class="NavLinks NavLinksBasicEven"><b><a href="beesmas-tree.html">Beesmas Tree</a> • <span class="new" data-uncrawlable-url="L3dpa2kvQ29tcHV0ZXI/YWN0aW9uPWVkaXQmcmVkbGluaz0x" title="Computer (page does not exist)">Computer</span> • <a href="gift-boxes.html">Gift Boxes</a> • <a href="honey-wreath.html">Honey Wreath</a> • <a href="stockings.html">Stockings</a> • <a href="gingerbread-house.html">Gingerbread House</a> • <a href="snowbear-summoner.html">Snowbear Summoner</a> • <a href="beesmas-lights.html">Beesmas Lights</a> • <a href="samovar.html">Samovar</a> • <a href="beesmas-feast.html">Beesmas Feast</a> • <a href="onett-s-lid-art.html">Onett's Lid Art</a> • <a href="wind-shrine.html#Galentine_Shrine">Galentine Shrine</a> • <a href="memory-match.html#Winter_Memory_Match">Winter Memory Match</a> • <a href="snow-machine.html">Snow Machine</a> • <a href="honeyday-candles.html">Honeyday Candles</a> • <a href="robo-party-cake.html">Robo Party Cake</a> • <a href="gummy-beacon.html">Gummy Beacon</a> • <a href="naughty-list.html">Naughty List</a></b>
 </td></tr></tbody></table>

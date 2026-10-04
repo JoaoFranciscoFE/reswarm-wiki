@@ -45,9 +45,9 @@ Music Bee likes the [Clover Field](clover-field.md) and the [Dandelion Field](da
 
 ### Abilities
 
-* **[Melody](ability-tokens.md#Melody)** Grants +100% [Critical Power](system-page.md#Critical_Power) for 30 seconds. Critical Power increases the pollen and damage of critical hits.
-* **[Focus](ability-tokens.md#Focus)** Grants +3% [Critical Chance](system-page.md#Critical_Chance) for 20 seconds. Stacks up to 10 times. Critical hits increase pollen and damage by 100%.
-* **[Token Link](ability-tokens.md#Token_Link)** Collects all other [Ability Tokens](ability-tokens.md), granting 25 [Honey](honey.md) (+10 per Level) per token collected.
+* <img alt="Melody" src="img/Melody.png" style="height:1.6em;width:auto;vertical-align:middle"/> **[Melody](ability-tokens.md#Melody)** Grants +100% [Critical Power](system-page.md#Critical_Power) for 30 seconds. Critical Power increases the pollen and damage of critical hits.
+* <img alt="Focus" src="img/Focus.png" style="height:1.6em;width:auto;vertical-align:middle"/> **[Focus](ability-tokens.md#Focus)** Grants +3% [Critical Chance](system-page.md#Critical_Chance) for 20 seconds. Stacks up to 10 times. Critical hits increase pollen and damage by 100%.
+* <img alt="Token Link" src="img/Token_Link.png" style="height:1.6em;width:auto;vertical-align:middle"/> **[Token Link](ability-tokens.md#Token_Link)** Collects all other [Ability Tokens](ability-tokens.md), granting 25 [Honey](honey.md) (+10 per Level) per token collected.
 
 <table style="font-size:1.5vh; color:#000; width:100%; background:#fff; padding: 15px 0; border:none; color:#000; border-left:15px #000 solid">
 <tbody><tr>
@@ -337,7 +337,7 @@ Music Bee likes the [Clover Field](clover-field.md) and the [Dandelion Field](da
 
 ## Trivia
 
-* This bee and [Carpenter Bee](carpenter-bee.md) are the only Legendary bees added in an [update](updates.md).
+* This bee and [Carpenter Bee](carpenter-bee.md) are the only Legendary bees added in an update.
 * It has a tail that symbolizes a quaver, also known as an eighth note.
   * In musical notation terms, its face is a slur between an eighth note and a dotted quarter note.
     * These are also known as a quaver and a dotted crotchet.
@@ -345,7 +345,7 @@ Music Bee likes the [Clover Field](clover-field.md) and the [Dandelion Field](da
 * This is the only non-blue bee to like blueberries.
 * Music Bee and [Shocked Bee](shocked-bee.md) have the same skin pattern.
 * This is the only bee that generates a melody token without Beequips.
-* A [Special Jelly](royal-jelly.md#Specific_Bee_Jelly) that changes a bee into a Music Bee could be obtained by opening the [Funky Present](ornament-presents.md) during the [Beesmas 2019 event](updates.md#2019-12-23). However, as the event has ended, the jelly was unobtainable until the Beesmas 2020 event where it could be purchased in the Beesmas Tree Bundle along with 5 [Festive Beans](festive-bean.md), and a [Beesmas Tree Hat](beesmas-tree-hat.md) [Beequip](beequip.md). During Beesmas Summer 2024, this jelly could be obtained from the Percussive Bundle in Bee Bear's Catalog.
+* A [Special Jelly](royal-jelly.md#Specific_Bee_Jelly) that changes a bee into a Music Bee could be obtained by opening the Funky Present during the Beesmas 2019 event. However, as the event has ended, the jelly was unobtainable until the Beesmas 2020 event where it could be purchased in the Beesmas Tree Bundle along with 5 [Festive Beans](festive-bean.md), and a [Beesmas Tree Hat](beesmas-tree-hat.md) [Beequip](beequip.md). During Beesmas Summer 2024, this jelly could be obtained from the Percussive Bundle in Bee Bear's Catalog.
   * The Music Bee Egg could be obtained from the Musical Mega-Bundle during Beesmas Winter 2024.
 
 <table class="mw-collapsible mw-collapsed NavTable">

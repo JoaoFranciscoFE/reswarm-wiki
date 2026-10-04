@@ -35,7 +35,7 @@ In the Egg Hunt Event, players could obtain a Plastic Egg token by immediately t
 
 <figure class="thumb" style="width: 180px" typeof="mw:File/Thumb">  <figcaption class="thumbcaption"> <p class="caption">The location of the Commando Chick's Hideout.</p> </figcaption> </figure>
 
-This obstacle course is located between the [Blue HQ](blue-hq.md) and the [Wealth Clock](wealth-clock.md), the same location where the [Golden Present](ornament-presents.md) obstacle course was. There is a hole in the wall, with vines blocking the entrance. To pass through, players must use the [Clippers](clippers.md), [Scissors](scissors.md), or the [Scythe](scythe.md) to cut the vines down. The vines are then permanently cut down, meaning they do not need to cut the vines again. This obstacle course consists of evenly spaced blocks, gradually getting higher, that the player must jump across to reach the arena.
+This obstacle course is located between the [Blue HQ](blue-hq.md) and the [Wealth Clock](wealth-clock.md), the same location where the Golden Present obstacle course was. There is a hole in the wall, with vines blocking the entrance. To pass through, players must use the [Clippers](clippers.md), [Scissors](scissors.md), or the [Scythe](scythe.md) to cut the vines down. The vines are then permanently cut down, meaning they do not need to cut the vines again. This obstacle course consists of evenly spaced blocks, gradually getting higher, that the player must jump across to reach the arena.
 
 The [Commando Chick's Hideout](commando-chick-s-hideout.md) is located past this obstacle course.
 
@@ -43,7 +43,7 @@ The [Commando Chick's Hideout](commando-chick-s-hideout.md) is located past this
 
 When the vines blocking the entrance are being cut down, the following audio plays:
 
-The Commando Chick's Hideout Obby is, in fact, a newer version of the [Golden Present](ornament-presents.md) obby, which had made its debut in Beesmas 2019 in order to serve as a challenge for people trying to get to the Golden Present. After the end of Beesmas 2020, the Golden Present obby was removed, only to return in the Egg Hunt 2020 event as the Commando Chick's Hideout obby. The only difference between the former and the latter is that the latter has vines to cut through.
+The Commando Chick's Hideout Obby is, in fact, a newer version of the Golden Present obby, which had made its debut in Beesmas 2019 in order to serve as a challenge for people trying to get to the Golden Present. After the end of Beesmas 2020, the Golden Present obby was removed, only to return in the Egg Hunt 2020 event as the Commando Chick's Hideout obby. The only difference between the former and the latter is that the latter has vines to cut through.
 
 ## Bamboo Field Obby
 
@@ -75,17 +75,13 @@ Players can bypass this obstacle course with the Parachute/Glider and the [Red C
 
 The Diamond Room is a room located at the close of the Cloud Obby. The room leads to a [glitter](glitter.md) token, the [Diamond Mask](diamond-mask.md) and a sky-blue room with 2 moons serving as parkour. The moons will only become collidable if the player has a [Moon Amulet](moon-amulet.md) during nighttime. If the player owns the Diamond Mask, the moons will always be solid and will turn blue. With enough speed and the [Glider](glider.md) you can skip the moons entirely.
 
-
-
 ## 30 Bee Zone Obby
 
-The 30 Bee Zone obstacle course is located to the right of [Onett](onett.md). This is the last obstacle course that players can reach. During the day the moons leading to on top of the bear gate are slightly invisible and not solid, thus making it inaccessible during the day. If it is night and the player has a Moon Amulet, they can parkour up to the Bear Gate. The moon platforms will lead the player up to [Bubble Bee Man](bubble-bee-man.md). There is also a royal jelly token in front of Bubble Bee Man and an [enzymes](enzymes.md) token with the [Night Memory Match](memory-match.md) on the other side. There used to be a [present](present.md) where the enzymes are. As of the [2019-12-23 update](updates.md#2019-12-23), [Onett](onett-developer.md) added more moons to make the obstacle course easier.
-
-
+The 30 Bee Zone obstacle course is located to the right of [Onett](onett.md). This is the last obstacle course that players can reach. During the day the moons leading to on top of the bear gate are slightly invisible and not solid, thus making it inaccessible during the day. If it is night and the player has a Moon Amulet, they can parkour up to the Bear Gate. The moon platforms will lead the player up to [Bubble Bee Man](bubble-bee-man.md). There is also a royal jelly token in front of Bubble Bee Man and an [enzymes](enzymes.md) token with the [Night Memory Match](memory-match.md) on the other side. There used to be a [present](present.md) where the enzymes are. As of the 2019-12-23 update, Onett added more moons to make the obstacle course easier.
 
 ## Hive Hub Obby
 
-Added in the [2024-07-17](updates.md#2024-07-17) Beesmas update, this obstacle course is located at the entrance of the [Hive Hub](hive-hub.md). Each platform has a large gap, encouraging you to use the [Glider](glider.md) for every jump you take. These platforms lead the player to a Smooth Dice token, a [Red Balloon](red-balloon.md) token, and a [Gingerbread Bear](gingerbread-bear.md) token for both 2024/25 Beesmas events.
+Added in the 2024-07-17 Beesmas update, this obstacle course is located at the entrance of the [Hive Hub](hive-hub.md). Each platform has a large gap, encouraging you to use the [Glider](glider.md) for every jump you take. These platforms lead the player to a Smooth Dice token, a [Red Balloon](red-balloon.md) token, and a [Gingerbread Bear](gingerbread-bear.md) token for both 2024/25 Beesmas events.
 
 ## Mythic Present Obby
 
@@ -94,5 +90,4 @@ This piece of content goes bye bye.
 The following content has been removed from the game. The contents below may be archival, but feel free to edit below.
 
 The Mythic Present obstacle course was located to the left of the [Stump Field](stump-field.md) and could only be accessible during Beesmas 2019 and 2020. To get to this obstacle course, the player had to go through the [Brave Bee Gate](brave-bee-gate.md) and head to the left of the Stump Field. There would have been a hole in the wall containing the obstacle course. This obstacle course consisted of many purple balls that the player had to jump across to reach the end. At the end of the obstacle course, the Mythic Present was found on a stair-like platform. To the left of the present was a royal jelly token that gave 1 royal jelly. To the right was a [micro-converter](micro-converter.md) token that gave 3 micro-converters. If a player were to go out of the map to the place where this obstacle course was during the Beesmas 2019 Event and slide against the wall, the player would die because the floor still kills players.
-
 

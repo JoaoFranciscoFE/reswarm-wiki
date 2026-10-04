@@ -147,9 +147,9 @@ Note: Players can possibly get more than one of a single type of drop (for examp
 * When Tunnel Bear despawns, it will do the wave emote and disappear. This occurs when the player dies, when the timer runs out, when the player goes back to the entrance or leave.
   * Tunnel Bear will also do the wave emote when stunned by [Digital Bee's](digital-bee.md) [Mind Hack](ability-tokens.md#Mind_Hack).
 * Tunnel Bear possesses a hitbox a bit wider than its body, so players may not touch Tunnel Bear and still die (this acts similarly to [King Beetle's](king-beetle.md) yellow "aura").
-* Since the [2019-04-05 update](updates.md#2019-04-05), the despawn timer was added. This makes it much more difficult to defeat since players now cannot defeat the boss by circulating the tunnel numerous times with a low [attack](system-page.md#Bee_Attack) rate.
+* Since the 2019-04-05 update, the despawn timer was added. This makes it much more difficult to defeat since players now cannot defeat the boss by circulating the tunnel numerous times with a low [attack](system-page.md#Bee_Attack) rate.
 * Tunnel Bear despawns at the end of the [White Tunnel](white-tunnel.md).
-* Sometimes, a [glitch](glitches.md) can happen where Tunnel Bear can spawn on top of the tunnel.
+* Sometimes, a glitch can happen where Tunnel Bear can spawn on top of the tunnel.
 * Tunnel Bear is occasionally able to be seen leaping into the tunnel from outside of the map.
 * Tunnel Bear is 1 of the 5 bosses in the game, the others being King Beetle, [Stick Bug](stick-bug.md), [Coconut Crab](coconut-crab.md), and the [Mondo Chick](chicks.md#Mondo_Chick).
 * Tunnel Bear got added as the first of three bears in the game that acts hostile to players, with [Gummy Bear](gummy-bear.md) as the second and [Snowbear](snowbear.md) as the third. [Shadow Bear](shadow-bear.md) does not count because it does not kill players, the floor does.

@@ -45,9 +45,9 @@ Festive Bee likes the [Mountain Top Field](mountain-top-field.md), [Mushroom Fie
 
 ### Abilities
 
-* **[Festive Gift](ability-tokens.md#Festive_Gift)**: Grants random gifts including [Treats](treats.md), honey, and "[Festive Blessing](ability-tokens.md#Festive_Blessing)" to all players on the server. Gifts are improved with Level. A message will appear saying "🎁 Festive Gifts from [Player's Display Name]! 🎁". If Gifted, can grant rarer gifts and "[Beesmas Cheer](ability-tokens.md#Beesmas_Cheer)".
-* **[Honey Mark](ability-tokens.md#Mark)**  : Marks a random area on the [field](fields.md) for 7 seconds (+0.2s per level) that grants 2 Conversion Links and x1.25 Convert Rate while you stand in it. Stacks up to 3 times.
-* **[Red Bomb+](ability-tokens.md#Bomb)**: Collects 10 pollen from 29 surrounding red [Flowers](flowers.md) (+10% pollen per level). You can combo with other bombs to increase power.
+* <img alt="Festive Gift" src="img/Festive_Gift.png" style="height:1.6em;width:auto;vertical-align:middle"/> **[Festive Gift](ability-tokens.md#Festive_Gift)**: Grants random gifts including [Treats](treats.md), honey, and "[Festive Blessing](ability-tokens.md#Festive_Blessing)" to all players on the server. Gifts are improved with Level. A message will appear saying "🎁 Festive Gifts from [Player's Display Name]! 🎁". If Gifted, can grant rarer gifts and "[Beesmas Cheer](ability-tokens.md#Beesmas_Cheer)".
+* <img alt="Honey Mark" src="img/Honey_Mark.png" style="height:1.6em;width:auto;vertical-align:middle"/> **[Honey Mark](ability-tokens.md#Mark)**  : Marks a random area on the [field](fields.md) for 7 seconds (+0.2s per level) that grants 2 Conversion Links and x1.25 Convert Rate while you stand in it. Stacks up to 3 times.
+* <img alt="Red Bomb+" src="img/Red_Bomb+.png" style="height:1.6em;width:auto;vertical-align:middle"/> **[Red Bomb+](ability-tokens.md#Bomb)**: Collects 10 pollen from 29 surrounding red [Flowers](flowers.md) (+10% pollen per level). You can combo with other bombs to increase power.
 
 <table style="font-size:1.5vh; color:#000; width:100%; background:#fff; padding: 15px 0; border:none; color:#000; border-left:15px #af2136 solid">
 <tbody><tr>
@@ -382,13 +382,13 @@ Festive Bee likes the [Mountain Top Field](mountain-top-field.md), [Mushroom Fie
 * When Festive Gift activates, it plays the first few notes from the classic Christmas song "[Deck the Halls](https://en.wikipedia.org/wiki/Deck_the_Halls)".
   * The first 8 notes play when collecting the Festive Gift token; the next 5 notes play when collecting the Festive Blessing token; and the last 4 notes of the phrase play when collecting the Beesmas Cheer token.
 * A [First Edition](first-edition-bee.md) Festive Bee's flag is offset and is placed behind where it normally is to make room for the bee's bow.
-* Due to a bug, Festive Bees obtained from the Ticket Tent before the [2019-09-28 Update](updates.md#2019-09-28) might have received a First Edition Flag in that update despite not being a true First Edition Bee.
+* Due to a bug, Festive Bees obtained from the Ticket Tent before the 2019-09-28 Update might have received a First Edition Flag in that update despite not being a true First Edition Bee.
 * It was the only Event bee that could have been obtained in two different ways (excluding Robux packs) at the same time: The Festive Present next to Bee Bear and in the Ticket Tent for 500 tickets during Beesmas 2019.
 * This bee, along with [Windy Bee](windy-bee.md), are the only bees with tinted wings when not gifted.
 * Bee Bear's Festive Bee is female.
   * Festive Bee was obtainable during the first three Beesmas events with means besides tickets.
   * It could be obtained during Beesmas 2018 by completing the Bee Bear questline or by purchasing the Festive Bee Pack for 1,600 Robux in the [Robux Shop](robux-shop.md).
-  * It could have been obtained through the [Festive Present](ornament-presents.md), in the Beesmas 2019 Event. If the player already had Festive Bee, they would instead get 500 [Tickets](ticket.md).
+  * It could have been obtained through the Festive Present, in the Beesmas 2019 Event. If the player already had Festive Bee, they would instead get 500 [Tickets](ticket.md).
   * In Beesmas 2020, this bee can be obtained after finishing Bee Bear's first questline. If the player already had a Festive Bee, they were awarded 500 [Tickets](ticket.md) instead.
 * This bee, [Puppy Bee](puppy-bee.md), and [Demon Bee](demon-bee.md) are the only [bees](bees.md) that have an exclusive [beequip](beequip.md) for themselves.
 * Festive Bee is the only non-colorless bee capable of making Mark tokens.

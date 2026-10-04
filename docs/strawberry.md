@@ -42,21 +42,6 @@ A **Strawberry** is a type of [treat](treats.md) that can be fed to a [bee](bees
 
 ### Quests
 
-### Outdated Ways
-
-<table class="mw-collapsible mw-collapsed article-table">
-<caption>
-</caption>
-<tbody><tr>
-<td>
-<ul><li>As a drop from <a href="chicks.html#Hostage_Chick">Hostage</a> and <a href="chicks.html#Spotted_Chick">Spotted</a> Chicks.</li>
-<li>Redeeming certain expired codes:
-<ul><li>10mMembers gave 10 strawberries + other stuff.</li>
-<li>5mMembers gave 5 strawberries + other stuff.</li>
-<li>FourYearFiesta gave 4 strawberries + other stuff.</li>
-<li>1MLikes gave 1 strawberry + other stuff.</li></ul></li></ul>
-</td></tr></tbody></table>
-
 ## Crafting Uses
 
 Total required for all single-purchase items: 750 **Strawberries**
@@ -192,7 +177,7 @@ Total required for all single-purchase items: 750 **Strawberries**
 </th>
 <th class="NavCategory">Quest Exclusive
 </th>
-<td class="NavLinks NavLinksBasicEven"><b><img alt="Translator" height="35" src="img/Translator.png" width="35"/> <a href="translator.html">Translator</a> • <img alt="Spirit Petal" height="35" src="img/Spirit_Petal.png" width="35"/> <a href="spirit-petal.html">Spirit Petal</a> • <img alt="Debug Wax" height="35" src="img/Debug_Wax.png" width="35"/> <a href="debug-wax.html">Debug Wax</a> • <img alt="Nectar Tester" height="35" src="img/Nectar_Tester.png" width="35"/> <a href="nectar-tester.html">Nectar Tester</a></b> • <span typeof="mw:Error mw:File"></span> <a href="bbm-s-apology.html">BBM's Apology</a><b></b>
+<td class="NavLinks NavLinksBasicEven"><b><img alt="Translator" height="35" src="img/Translator.png" width="35"/> <a href="translator.html">Translator</a> • <img alt="Spirit Petal" height="35" src="img/Spirit_Petal.png" width="35"/> <a href="spirit-petal.html">Spirit Petal</a> • <img alt="Debug Wax" height="35" src="img/Debug_Wax.png" width="35"/> <a href="debug-wax.html">Debug Wax</a> • <img alt="Nectar Tester" height="35" src="img/Nectar_Tester.png" width="35"/> <a href="nectar-tester.html">Nectar Tester</a></b><b></b>
 </td></tr>
 <tr>
 <th class="NavCategory">Beesmas

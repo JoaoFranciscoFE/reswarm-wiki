@@ -45,12 +45,12 @@ Vector Bee likes the [Spider Field](spider-field.md) and the [Coconut Field](coc
 
 ### Abilities
 
-* **[Pollen Mark+](ability-tokens.md#Mark)** Marks a large random area on the [Field](fields.md) for 8 seconds (+0.25s per Level) that increases all pollen by 50% while that player stands in it. Stacks up to 3 times.
-* **[Triangulate](ability-tokens.md#Triangulate)** Draws a triangle between the player, the bee, and the token. After 3s, it collects [Ability tokens](ability-tokens.md) and 10 pollen (+2 per Level) from all [Flowers](flowers.md) inside. All Marks within the triangle increase the pollen by 50%.
+* <img alt="Pollen Mark+" src="img/Pollen_Mark+.png" style="height:1.6em;width:auto;vertical-align:middle"/> **[Pollen Mark+](ability-tokens.md#Mark)** Marks a large random area on the [Field](fields.md) for 8 seconds (+0.25s per Level) that increases all pollen by 50% while that player stands in it. Stacks up to 3 times.
+* <img alt="Triangulate" src="img/Triangulate.png" style="height:1.6em;width:auto;vertical-align:middle"/> **[Triangulate](ability-tokens.md#Triangulate)** Draws a triangle between the player, the bee, and the token. After 3s, it collects [Ability tokens](ability-tokens.md) and 10 pollen (+2 per Level) from all [Flowers](flowers.md) inside. All Marks within the triangle increase the pollen by 50%.
   * If the triangle contains a Pollen Mark, it gains x2 White pollen.
   * If the triangle contains a Honey Mark or Festive Mark, it gains 50% instant conversion.
   * If the triangle contains a Precise Mark, it always deals critical hits.
-* **[🌟Gifted Ability: Mark Surge](ability-tokens.md#Mark_Surge)** Causes all of the player's active Marks to collect 7 Pollen (+10% per Level) from all flowers in their radius. Extends the duration of the Marks by 1s (+0.1s per Level). Each mark can perform up to 5 surges.
+* <img alt="Mark Surge" src="img/Mark_Surge.png" style="height:1.6em;width:auto;vertical-align:middle"/> **[🌟Gifted Ability: Mark Surge](ability-tokens.md#Mark_Surge)** Causes all of the player's active Marks to collect 7 Pollen (+10% per Level) from all flowers in their radius. Extends the duration of the Marks by 1s (+0.1s per Level). Each mark can perform up to 5 surges.
   * When a Honey Mark or Festive Mark surges, the Pollen is Instantly Converted.
   * When a Precise Mark surges, it always does Critical Hits.
 
@@ -351,7 +351,7 @@ Vector Bee likes the [Spider Field](spider-field.md) and the [Coconut Field](coc
   * Triangulation is a method to determine the location of a point through forming triangles from known points.
 * Vector Bee, [Spicy Bee](spicy-bee.md), [Precise Bee](precise-bee.md) and [Buoyant Bee](buoyant-bee.md) emit light when they are gifted.
 * Vector Bee shares similar color schemes with [Brave Bee](brave-bee.md).
-* Triangulate is [Onett](onett-developer.md)'s favorite ability, due to the fact that he thinks it's satisfying.
+* Triangulate is Onett's favorite ability, due to the fact that he thinks it's satisfying.
 * Mark Surge token is considered by the game as "mark" token despite what the ability does doesn't create mark like what all other mark tokens do. This means the collection of Mark Surge token counts toward some quests, [Coin Scatter passive ability](passive-abilities.md#Coin_Scatter), and anything that requires the collection of "mark" tokens.
   * Triangulate, however, is not considered as "mark" ability token.
   * In a similar fashion, Fuzz Bombs ([Fuzzy Bee](fuzzy-bee.md)'s ability token), Bomb Sync ([Cobalt Bee](cobalt-bee.md) and [Crimson Bee](crimson-bee.md)'s ability token) are not considered "bomb" ability tokens, and Honey Mark isn't considered as "honey" token.

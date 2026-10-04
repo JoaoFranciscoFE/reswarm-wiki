@@ -718,52 +718,6 @@ He made five appearances. His first visit was from April 27, 2018, to May 13, 20
 <td>My RV doesn't look too flashy, but it's top-of-the-line. I've had it for years, but I'm always fixing it up. Had a little trouble on my way in here though... Once I figure out how to get it unstuck I'll hit the road. Don't worry. I don't need any help.
 </td></tr></tbody></table>
 
-## Egg Hunt 2020 Quest
-
-<table class="article-table mw-collapsible mw-collapsed">
-<tbody><tr>
-<th>Quest Name
-</th>
-<th>Requirements
-</th>
-<th>Reward
-</th></tr>
-<tr>
-<td>Egg Hunt: Chick Invasion
-</td>
-<td>
-<ul><li>Help 3 Bears capture <a href="chicks.html">Chicks</a>.</li></ul>
-</td>
-<td><img alt="Honey" height="25" src="img/Honey.png" width="25"/>2,500 <a href="honey.html"><span class="color-template color-template-honey">Honey</span></a> (Upon receiving quest)<br/><br/>----<br/><br/><img alt="Honey" height="25" src="img/Honey.png" width="25"/>10,000 <a href="honey.html"><span class="color-template color-template-honey">Honey</span></a><br/><img alt="Ticket" height="25" src="img/Ticket.png" width="25"/>5 <a href="ticket.html"><span class="color-template color-template-ticket color-template-background-clip">Tickets</span></a><br/><img alt="Star Jelly" height="25" src="img/Star_Jelly.png" width="25"/>1 <a href="royal-jelly.html#Star_Jelly"><span class="color-template color-template-star-jelly color-template-background-clip">Star Jelly</span></a><br/><img alt="Treat" height="25" src="img/Treat.png" width="25"/>25 <a href="treat.html"><span class="color-template color-template-treat">Treats</span></a><br/><img alt="Marshmallow Bee" height="25" src="img/Marshmallow_Bee.png" width="25"/>1 <a href="marshmallow-bee.html"><span class="color-template color-template-marshmallow-bee color-template-background-clip">Marshmallow Bee</span></a><br/><img alt="Magic Bean" height="25" src="img/Magic_Bean.png" width="25"/>1 <a href="magic-bean.html"><span class="color-template color-template-magic-bean color-template-background-clip">Magic Bean</span></a><br/><img alt="Micro-Converter" height="25" src="img/Micro-Converter.png" width="25"/>3 <a href="micro-converter.html"><span class="color-template color-template-micro-converter color-template-background-clip">Micro-Converters</span></a>
-</td></tr></tbody></table>
-
-<table class="article-table mw-collapsible mw-collapsed">
-<tbody><tr>
-<th>Quest Name
-</th>
-<th>Dialogue
-</th></tr>
-<tr>
-<td>Egg Hunt: Chick Invasion (Before the Egg Hunt ended)
-</td>
-<td>(Sigh) That's right, it's me. Sun Bear. Stopped by in my RV to check out this years <i>[sic]</i> Egg Hunt. Thought it'd be quaint. Told the bears here if they'd invite me, I'd provide some exotic eggs for the occasion. Well, I did just that. Rounded up eggs from all over the country and hid them around the map. Only problem now is... they've hatched! Now invasive Chicks 🐣 are roaming all over, and I'm getting a lot of heat from the locals. Look - they never told me the eggs couldn't be live chicken eggs! What did they expect? Anyways, the other bears won't let me leave until I clean up this mess... I need to capture these Chicks 🐣. But there's no way I can do it alone. Lucky for you, I've got something special if you'll help out: Bee Swarm Simulator's Egg Hunt 2020 Egg - The Swarming Egg of the Hive! That's right. It's an official ROBLOX hat and everything. What do you say? Help me and the bears capture the Chicks 🐣 and it's yours. As you can see, I've caught some of them already. Don't worry, these ones are well behaved. But I'm not sure where the other Chicks 🐣 ran off too... If you talk to the other bears, they'll probably have leads. Help 3 other bears capture Chicks 🐣, then report back for your Egg Hunt egg! Here, I'll even pay you some honey up front to get you motivated.<br/><br/><i>-During-</i><br/><br/>I didn't see where the rest of the Chicks 🐣 went. My sunglasses are a little foggy... Try talking to the other bears, I think they'll know where to look. Black Bear, Mother Bear, and Brown Bear all look like they could use help. Give them a hand and then report back to me.<br/><br/><i>-Completion-</i><br/><br/>You already helped 3 bears catch Chicks 🐣? Right on! You've earned yourself one of these bad boys: Bee Swarm's Egg Hunt 2020 Egg, The Swarming Egg of the Hive! It's like, a bee hive and an egg at the same time... a Gifted egg with a star on it! Cool, huh? Oh, and a little something extra. A [Star Jelly]! [Star Jellies] always transform a bee into a Gifted bee, with boosted stats! Anyways, I've got a feeling that wasn't the last of the chicks... If you came back in a few days, the other bears may have more quests for you. For now, there are other games that could use your help. Check em out in that nifty Eggphone on the right of your screen.
-</td></tr>
-<tr>
-<td>Conclusion (Before the Egg Hunt ended)
-</td>
-<td>I've got a feeling we haven't caught all of the Chicks 🐣 just yet... But it'll be a few days before the other bears are ready to give you more chick quests. For now, why not check out some of the other Egg Hunt eggs? They look pretty cool. Just open up the Eggphone on the right of your screen and have a look. Anyways, come back in a few days. I think the other chicks will show up by then.
-</td></tr>
-<tr>
-<td>Egg Hunt: Chick Invasion (After the Egg Hunt ended)
-</td>
-<td>(Sigh) That's right, it's me. Sun Bear. Stopped by in my RV to check out this years <i>[sic]</i> Egg Hunt. Thought it'd be quaint. Told the bears here if they'd invite me, I'd provide some exotic eggs for the occasion. Well, I did just that. Rounded up eggs from all over the country and hid them around the map. Only problem now is... they've hatched! Now invasive Chicks 🐣 are roaming all over, and I'm getting a lot of heat from the locals. Look - they never told me the eggs couldn't be live chicken eggs! What did they expect? Anyways, the other bears won't let me leave until I clean up this mess... I need to capture these Chicks 🐣. But there's no way I can do it alone. Lucky for you, I've got something special if you'll help out: A [Star Jelly]! These babies always transform a bee into a Gifted Bee! What do you say? Help me and the bears capture the Chicks 🐣 and it's yours. As you can see, I've caught some of them already. Don't worry, these ones are well behaved. But I'm not sure where the other Chicks 🐣 ran off too... If you talk to the other bears, they'll probably have leads. Help 3 other bears capture Chicks 🐣, then report back for your [Star Jelly]! Here, I'll even pay you some honey up front to get you motivated.<br/><br/><i>-During-</i><br/><br/>I didn't see where the rest of the Chicks 🐣 went. My sunglasses are a little foggy... Try talking to the other bears, I think they'll know where to look. Black Bear, Mother Bear, and Brown Bear all look like they could use help. Give them a hand and then report back to me.<br/><br/><i>-Completion-</i><br/><br/>You already helped 3 bears catch Chicks 🐣? Right on! You've earned yourself one of these bad boys: A [Star Jelly]! [Star Jellies] always transform a bee into a Gifted bee, with boosted stats! Anyways, I don't think your lazy mayor Onett's ever going to add the rest of the Chick 🐣 quests. But if you want some more Chick  🐣 challenges, why not continue capturing Commando Chick? At 50 captures, it'll give you a [Mythic Egg], and at 100 it'll give you a [Star Treat]. It won't be easy though, that thing gets tougher every time.
-</td></tr>
-<tr>
-<td>Conclusion (After the Egg Hunt ended)
-</td>
-<td>I've got a feeling we haven't caught all of the Chicks 🐣 just yet... But Onett hasn't added the other quests... Doesn't look like he's planning to either. Hey, don't blame me - I tried to help! Guess there's nothing we can do then, the Chicks 🐣 win. So I'll just hang out over here a while and enjoy the view before I go.
-</td></tr></tbody></table>
-
 ## The Games Quests (3)
 
 <table class="article-table mw-collapsible mw-collapsed">
@@ -930,10 +884,10 @@ He made five appearances. His first visit was from April 27, 2018, to May 13, 20
 * During his spring visit, there was a [Ticket](ticket.md) behind Sun Bear's RV. When Sun Bear went away, the ticket stayed there for a little time, but now it's gone.
 * Sun Bear uses the [Knight Animation Package](https://web.roblox.com/catalog/734338331/Knight-Animation-Package).
 * Sun Bear says that only [Rage](rage-bee.md), [Exhausted](exhausted-bee.md), and [Music](music-bee.md) Bees spawn [Token Link](ability-tokens.md#Token_Link), but [Shocked Bee](shocked-bee.md) does as well. This was fixed a few days later.
-* In his second visit ([2018-09-10 Update](updates.md#2018-09-10)) and his third visit ([2019-09-28 Update](updates.md#2019-09-28)), his RV had a [Flag of Phoenix](https://en.wikipedia.org/wiki/Flag_of_Phoenix) bumper sticker on the back.
+* In his second visit (2018-09-10 Update) and his third visit (2019-09-28 Update), his RV had a [Flag of Phoenix](https://en.wikipedia.org/wiki/Flag_of_Phoenix) bumper sticker on the back.
 * During his first visit, Sun Bear was shown to be wearing the [Mondo Belt Bag](mondo-belt-bag.md), which he gave at the very end of his quests. During his second visit, he was shown to be wearing both the Mondo Belt Bag and [Beekeeper's Boots](beekeeper-s-boots.md), which he gave at the end of his quests.
 * Sun Bear gives 48 [Tickets](ticket.md) throughout all his quests with the ticket token that was behind the RV.
-* During the quest '**Sun Bear's Scavenger Hunt'**, he says 3 more quests are needed to be completed to get the [Beekeeper's Boots](beekeeper-s-boots.md), when it is actually 4 quests. However, [Onett](onett-developer.md) could have done this on purpose, because Sun Bear was completely surprised by [Vicious Bee](rogue-vicious-bee.md) in his dialogue, and gives you a quest around this.
+* During the quest '**Sun Bear's Scavenger Hunt'**, he says 3 more quests are needed to be completed to get the [Beekeeper's Boots](beekeeper-s-boots.md), when it is actually 4 quests. However, Onett could have done this on purpose, because Sun Bear was completely surprised by [Vicious Bee](rogue-vicious-bee.md) in his dialogue, and gives you a quest around this.
 * He was the first traveling bear added to the game, with [Gummy Bear](gummy-bear.md) being the second and [Bee Bear](bee-bear.md) being the third.
 * The item prices of his rewards after his visit are: [Basic Boots](basic-boots.md) are 4,400, [Hiking Boots](hiking-boots.md) are 2,200,000, Beekeeper's Boots are 15,000,000, [Belt Bag](belt-bag.md) is 440,000, and [Mondo Belt Bag](mondo-belt-bag.md) is 12,400,000 [Honey](honey.md).
 * He was the only traveling bear who never gave an egg on his last quest.

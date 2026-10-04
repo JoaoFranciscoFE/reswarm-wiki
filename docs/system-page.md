@@ -21,7 +21,7 @@ The tab also lists many of the player's active stat values, though not all of th
 
 Boosts the base conversion of your bees before multipliers by a certain amount.  
 Example: A [Basic Bee](basic-bee.md) with 20 Convert Amount will convert 100 [Honey](honey.md) in 4 seconds instead of 80 [Honey](honey.md) in 4 seconds.  
-It can be boosted with [amulets](amulet.md), the [B.B.M. Mask](b-b-m-mask.md), the [Honey Mask](honey-mask.md) and certain belts. This stat was formerly named 'Conversion Amount' until it was changed in the [Beesmas 2019 update](updates.md#2019-12-23).
+It can be boosted with [amulets](amulet.md), the [B.B.M. Mask](b-b-m-mask.md), the [Honey Mask](honey-mask.md) and certain belts. This stat was formerly named 'Conversion Amount' until it was changed in the Beesmas 2019 update.
 
 ### Convert Rate
 
@@ -43,7 +43,7 @@ Increases the base conversion of the player's bees. It can be increased by certa
 
 Loot Luck is a passive attribute that increases the chances of receiving rewards from defeated [mobs](mobs.md).   
 It can be increased with [Baby Love](ability-tokens.md#Baby_Love), the [Clover Badge](badges.md#Clover_Badge), [Baby Bee's](baby-bee.md) Gifted Hive Bonus and certain items.  
-This stat was formerly named 'Luck' until it was changed in the [2019-04-05 update](updates.md#2019-04-05).
+This stat was formerly named 'Luck' until it was changed in the 2019-04-05 update.
 
 ### [Critical Chance](critical-hits.md#Critical_Chance)
 

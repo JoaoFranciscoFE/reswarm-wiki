@@ -15,7 +15,7 @@ COOLDOWN
 
 15 minutes 5 seconds
 
-**Glitter** is a craftable inventory item that was added in the [2018-11-25 update](updates.md#2018-11-25). It grants a +100% [pollen](pollen.md) boost in the field the player is standing in for 15 minutes upon activation. If used in a field with a [planter](planter.md), the planter gains a 25% growth rate boost until it is harvested. **Glitter** has a 15-minute and 5 second cooldown between uses. This is to prevent the user from stacking the item's buff for one field.
+**Glitter** is a craftable inventory item that was added in the 2018-11-25 update. It grants a +100% [pollen](pollen.md) boost in the field the player is standing in for 15 minutes upon activation. If used in a field with a [planter](planter.md), the planter gains a 25% growth rate boost until it is harvested. **Glitter** has a 15-minute and 5 second cooldown between uses. This is to prevent the user from stacking the item's buff for one field.
 
 It can be used in all fields except the [Ant Field](ant-field.md). Attempting to do so will result in the following message:
 You can't boost a challenge field
@@ -92,52 +92,6 @@ The following audio plays when glitter is used to boost a field:
 * As a drop from [Dapper Bear's](dapper-bear.md) [Samovar](samovar.md). (Appeared at the 4th use and every 5 uses.)
 * As a drop from [Onett's Lid Art](onett-s-lid-art.md).
 * Completing [Spirit Bear](spirit-bear.md)’s Galentine Shrine quest rewards 10 glitter and other items.
-
-### Outdated Ways
-
-<table class="mw-collapsible mw-collapsed article-table">
-<caption>
-</caption>
-<tbody><tr>
-<td>
-<ul><li><a href="bee-bear.html">Bee Bear</a> gave glitter on the following quests:
-<ul><li>The Gift of Gifts gave 1 glitter and other items.</li>
-<li>Commence The Wrapping gave 1 glitter and other items.</li>
-<li>Courtesies For A Cousin gave 3 glitter and other items.</li>
-<li>Peppermint Preparation (1/5) gave 3 glitter and other items.</li>
-<li>Peppermint Preparation (5/5) gave 10 glitter and other items.</li>
-<li>Winter Spotlight (3/3): The Gift of Giving rewards 1 glitter and other items.</li></ul></li>
-<li>Purchasing certain packs in the <a href="robux-shop.html">Robux Shop</a>:
-<ul><li>Purchasing the Shining Star Pack for 2,000 robux gave 50 glitter and other items.</li>
-<li>Purchasing the Winter Wonder Pack for 3,400 robux gave 60 glitter and other items.</li>
-<li>Purchasing the Happy Honeyday Pack for 900 robux gave 10 glitter and other items.</li>
-<li>Purchasing the Star Treat Special for 1,700 robux gave 100 glitter and other items.</li>
-<li>Purchasing the Silent Night Special for 800 robux gave 25 glitter and other items.</li>
-<li>Purchasing the Jumbo June Pack for 1,700 robux gave 25 glitter and other items.</li>
-<li>Purchasing the Honeyday Mega-Haul for 4,500 robux gave 100 glitter and other items.</li>
-<li>Purchasing the Snowy Starter Pack for 400 robux gave 10 glitter and other items.</li>
-<li>Purchasing the Magical Mythic Pack for 800 robux gave 25 glitter and other items.</li>
-<li>Purchasing the Cyber Monday Special for 800 robux gave 10 glitter and other items.</li></ul></li>
-<li>Beesmas 2022:
-<ul><li>Purchasing the Angelic Bundle in <a href="bee-bear-s-catalog.html">Bee Bear's Catalog</a> for <img alt="Snowflake" height="25" src="img/Snowflake.png" width="25"/>5,000 <a href="snowflake.html"><span class="color-template color-template-snowflake color-template-background-clip">Snowflakes</span></a> and <img alt="Gingerbread Bear" height="25" src="img/Gingerbread_Bear.png" width="25"/>100 <a href="gingerbread-bear.html"><span class="color-template color-template-gingerbread-bear color-template-background-clip">Gingerbread Bears</span></a> gave 25 glitter and other items.</li></ul></li>
-<li>Purchasing the <a href="bee-bear-s-catalog.html">Brilliant Beesmas Bundle</a> from Bee Bear's Catalog.
-<ul><li>Opening certain Gift Boxes:
-<ul><li>The Shimmering Gift Box gives 2 glitter and other items</li>
-<li>The Soothing Gift Box gives 20 glitter and other items.</li></ul></li>
-<li>Giving Mother Bear a <a href="present.html">present</a> rewards 2 glitter and other items.</li></ul></li>
-<li>Purchasing the Glitter or Angelic Bundle in <a href="bee-bear-s-catalog.html">Bee Bear's Catalog</a>.</li>
-<li>Given by a Tester's gift (was obtainable by getting in the top 1000 for All-Time Honey made in the Bee Swarm Simulator Public Test Realm).</li>
-<li>Opening either the Starry Present or the Festive Present during the 2019 Beesmas Event rewarded <img alt="Glitter" height="25" src="img/Glitter.png" width="25"/>2 <strong class="mw-selflink selflink"><span class="color-template color-template-glitter color-template-background-clip">Glitter</span></strong> each (no longer possible).</li>
-<li>Giving Black Bear a <a href="present.html">present</a> during the 2018 Beesmas event rewarded 1 glitter and other items.</li>
-<li>Buying the <a href="bee-bear-s-catalog.html">Snowqueen Bundle</a> gave 50 glitter and other items.</li>
-<li>Bee Bear gave glitter on the following quests:
-<ul><li>A Pinch Of Magic gave 1 glitter and other items.</li>
-<li>Presents For Polar Bear gave 1 glitter and other items.</li>
-<li>Bee Cub Workshop 3 gave 1 glitter and other items.</li>
-<li>Bee Cub Workshop 4 gave 5 glitter and other items.</li>
-<li>Bee Cub Workshop 5 gave 5 glitter and other items.</li></ul></li>
-<li>Purchasing the White Beesmas Bundle from <a href="bee-bear-s-catalog.html">Bee Bear's Catalog</a> during Beesmas 2025 for <img alt="Snowflake" height="25" src="img/Snowflake.png" width="25"/>100 <a href="snowflake.html"><span class="color-template color-template-snowflake color-template-background-clip">Snowflakes</span></a> and <img alt="Gingerbread Bear" height="25" src="img/Gingerbread_Bear.png" width="25"/>3 <a href="gingerbread-bear.html"><span class="color-template color-template-gingerbread-bear color-template-background-clip">Gingerbread Bears</span></a> granted <img alt="Glitter" height="25" src="img/Glitter.png" width="25"/>3 <strong class="mw-selflink selflink"><span class="color-template color-template-glitter color-template-background-clip">Glitter</span></strong> and other items.</li></ul>
-</td></tr></tbody></table>
 
 ## Crafting Uses
 
@@ -347,7 +301,7 @@ Total required for all single-purchase items: 691 **Glitter**
 </th>
 <th class="NavCategory">Quest Exclusive
 </th>
-<td class="NavLinks NavLinksBasicEven"><b><img alt="Translator" height="35" src="img/Translator.png" width="35"/> <a href="translator.html">Translator</a> • <img alt="Spirit Petal" height="35" src="img/Spirit_Petal.png" width="35"/> <a href="spirit-petal.html">Spirit Petal</a> • <img alt="Debug Wax" height="35" src="img/Debug_Wax.png" width="35"/> <a href="debug-wax.html">Debug Wax</a> • <img alt="Nectar Tester" height="35" src="img/Nectar_Tester.png" width="35"/> <a href="nectar-tester.html">Nectar Tester</a></b> • <span typeof="mw:Error mw:File"></span> <a href="bbm-s-apology.html">BBM's Apology</a><b></b>
+<td class="NavLinks NavLinksBasicEven"><b><img alt="Translator" height="35" src="img/Translator.png" width="35"/> <a href="translator.html">Translator</a> • <img alt="Spirit Petal" height="35" src="img/Spirit_Petal.png" width="35"/> <a href="spirit-petal.html">Spirit Petal</a> • <img alt="Debug Wax" height="35" src="img/Debug_Wax.png" width="35"/> <a href="debug-wax.html">Debug Wax</a> • <img alt="Nectar Tester" height="35" src="img/Nectar_Tester.png" width="35"/> <a href="nectar-tester.html">Nectar Tester</a></b><b></b>
 </td></tr>
 <tr>
 <th class="NavCategory">Beesmas

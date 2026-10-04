@@ -44,7 +44,7 @@ The **Port-O-Hive** is a [bag](bags.md) that can be purchased in the [Pro Shop](
 * This is the fourth most expensive item in the Pro Shop, behind the [Honey Dipper](honey-dipper.md), [Hiking Boots](hiking-boots.md), and the [Propeller Hat](propeller-hat.md) respectively.
 * Out of the 4 variants of the Port-O-Hive, this was the first one added into the game. The other variants are the [Red Port-O-Hive](red-port-o-hive.md), the [Blue Port-O-Hive](blue-port-o-hive.md), and the [Porcelain Port-O-Hive](porcelain-port-o-hive.md).
 * The [Onett statue](easter-eggs.md#Statue_of_Onett) on top of the 6th [hive](hive.md) wears a Port-O-Hive saying "38217", which is a code.
-* In the [2026-04-23 update](updates.md#2026-04-23), all Port-O-Hive variants have its mesh scaled down due to a bug. Its cause is unknown.
+* In the 2026-04-23 update, all Port-O-Hive variants have its mesh scaled down due to a bug. Its cause is unknown.
 
 <table class="mw-collapsible autocollapse" style="margin:auto; background:#000; font-size: 10pt; border:5px solid #56CB5A; width: 100%; border-radius: 20px; -moz-border-radius: 20px; -webkit-border-radius: 20px; -khtml-border-radius: 20px; -icab-border-radius: 20px; -o-border-radius: 20px;">
 <tbody><tr>
@@ -107,7 +107,7 @@ The **Port-O-Hive** is a [bag](bags.md) that can be purchased in the [Pro Shop](
 </th>
 <th class="NavCategory">Quest Exclusive
 </th>
-<td class="NavLinks NavLinksBasicEven"><b><img alt="Translator" height="35" src="img/Translator.png" width="35"/> <a href="translator.html">Translator</a> • <img alt="Spirit Petal" height="35" src="img/Spirit_Petal.png" width="35"/> <a href="spirit-petal.html">Spirit Petal</a> • <img alt="Debug Wax" height="35" src="img/Debug_Wax.png" width="35"/> <a href="debug-wax.html">Debug Wax</a> • <img alt="Nectar Tester" height="35" src="img/Nectar_Tester.png" width="35"/> <a href="nectar-tester.html">Nectar Tester</a></b> • <span typeof="mw:Error mw:File"></span> <a href="bbm-s-apology.html">BBM's Apology</a><b></b>
+<td class="NavLinks NavLinksBasicEven"><b><img alt="Translator" height="35" src="img/Translator.png" width="35"/> <a href="translator.html">Translator</a> • <img alt="Spirit Petal" height="35" src="img/Spirit_Petal.png" width="35"/> <a href="spirit-petal.html">Spirit Petal</a> • <img alt="Debug Wax" height="35" src="img/Debug_Wax.png" width="35"/> <a href="debug-wax.html">Debug Wax</a> • <img alt="Nectar Tester" height="35" src="img/Nectar_Tester.png" width="35"/> <a href="nectar-tester.html">Nectar Tester</a></b><b></b>
 </td></tr>
 <tr>
 <th class="NavCategory">Beesmas

@@ -27,7 +27,7 @@ All three translators can only be obtained from [Science Bear](science-bear.md).
 
 * The player can acquire a total of three translators throughout the game so that they can speak to all three of the NPCs that require them.
   * Without translators, it is impossible to take quests, receive rewards, talk or give presents to [Gifted Bucko Bee](gifted-bucko-bee.md), [Stick Bug](stick-bug.md), and [Gifted Riley Bee](gifted-riley-bee.md).
-* Translators were originally implemented in the [2018-11-25 update](updates.md#2018-11-25) when [Science Bear](science-bear.md) received an additional 10 quests. Only two were available at that time, as the third could only be obtained in Epistemological Endeavor, which is Science Bear's last quest. His last 5 quests weren't added until [2018-12-19](updates.md#2018-12-19), thus making the total amount of translators available 2 at the time.
+* Translators were originally implemented in the 2018-11-25 update when [Science Bear](science-bear.md) received an additional 10 quests. Only two were available at that time, as the third could only be obtained in Epistemological Endeavor, which is Science Bear's last quest. His last 5 quests weren't added until 2018-12-19, thus making the total amount of translators available 2 at the time.
 * There is a 5 quest difference between each translator, Limits of Language being the 21st quest, Beesperanto being the 26th, and Epistemological Endeavor being the 31st.
 * This is one of the two unique items that can only be obtained while completing a bear’s questline, the other being [Spirit Petals](spirit-petal.md) from [Spirit Bear](spirit-bear.md).
 * This is one of the only items that can be given to an NPC, the other item being [Presents](present.md).
@@ -94,7 +94,7 @@ All three translators can only be obtained from [Science Bear](science-bear.md).
 </th>
 <th class="NavCategory">Quest Exclusive
 </th>
-<td class="NavLinks NavLinksBasicEven"><b><img alt="Translator" height="35" src="img/Translator.png" width="35"/> <strong class="mw-selflink selflink">Translator</strong> • <img alt="Spirit Petal" height="35" src="img/Spirit_Petal.png" width="35"/> <a href="spirit-petal.html">Spirit Petal</a> • <img alt="Debug Wax" height="35" src="img/Debug_Wax.png" width="35"/> <a href="debug-wax.html">Debug Wax</a> • <img alt="Nectar Tester" height="35" src="img/Nectar_Tester.png" width="35"/> <a href="nectar-tester.html">Nectar Tester</a></b> • <span typeof="mw:Error mw:File"></span> <a href="bbm-s-apology.html">BBM's Apology</a><b></b>
+<td class="NavLinks NavLinksBasicEven"><b><img alt="Translator" height="35" src="img/Translator.png" width="35"/> <strong class="mw-selflink selflink">Translator</strong> • <img alt="Spirit Petal" height="35" src="img/Spirit_Petal.png" width="35"/> <a href="spirit-petal.html">Spirit Petal</a> • <img alt="Debug Wax" height="35" src="img/Debug_Wax.png" width="35"/> <a href="debug-wax.html">Debug Wax</a> • <img alt="Nectar Tester" height="35" src="img/Nectar_Tester.png" width="35"/> <a href="nectar-tester.html">Nectar Tester</a></b><b></b>
 </td></tr>
 <tr>
 <th class="NavCategory">Beesmas

@@ -6,7 +6,7 @@ hide:
 
 # Places & Objects
 
-All 40 pages in Places & Objects.
+All 39 pages in Places & Objects.
 
 <div class="wiki-cards">
 <a class="wiki-card wiki-card--noicon" href="ant-gate.html"><img src="images/no-icon.svg" alt="" loading="lazy"><span>Ant Gate</span></a>
@@ -22,7 +22,6 @@ All 40 pages in Places & Objects.
 <a class="wiki-card wiki-card--noicon" href="commando-chick-s-hideout.html"><img src="images/no-icon.svg" alt="" loading="lazy"><span>Commando Chick&#x27;s Hideout</span></a>
 <a class="wiki-card wiki-card--noicon" href="field-booster.html"><img src="images/no-icon.svg" alt="" loading="lazy"><span>Field Booster</span></a>
 <a class="wiki-card wiki-card--noicon" href="gummy-bear-s-lair.html"><img src="images/no-icon.svg" alt="" loading="lazy"><span>Gummy Bear&#x27;s Lair</span></a>
-<a class="wiki-card wiki-card--noicon" href="gummy-cannon.html"><img src="images/no-icon.svg" alt="" loading="lazy"><span>Gummy Cannon</span></a>
 <a class="wiki-card wiki-card--noicon" href="hive-hub.html"><img src="images/no-icon.svg" alt="" loading="lazy"><span>Hive Hub</span></a>
 <a class="wiki-card wiki-card--noicon" href="honey-bee-gate.html"><img src="images/no-icon.svg" alt="" loading="lazy"><span>Honey Bee Gate</span></a>
 <a class="wiki-card wiki-card--noicon" href="instant-converter.html"><img src="images/no-icon.svg" alt="" loading="lazy"><span>Instant Converter</span></a>

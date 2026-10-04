@@ -15,7 +15,7 @@ COOLDOWN
 
 10 minutes
 
-The **Blue Extract** is an inventory item added in the [2018-11-25 update](updates.md#2018-11-25). The purpose of it is to use it as material to craft equipment and accessories, or for a 10-minute boost that grants x1.25 [Blue Pollen](system-page.md#Blue_Pollen). The [buff](buffs-debuffs.md#From_Items) cannot stack, and will only reset its timer if the player used a **Blue Extract** when the effect is already active. Using a [Purple Potion](purple-potion.md) or [Super Smoothie](super-smoothie.md) will override the buff.
+The **Blue Extract** is an inventory item added in the 2018-11-25 update. The purpose of it is to use it as material to craft equipment and accessories, or for a 10-minute boost that grants x1.25 [Blue Pollen](system-page.md#Blue_Pollen). The [buff](buffs-debuffs.md#From_Items) cannot stack, and will only reset its timer if the player used a **Blue Extract** when the effect is already active. Using a [Purple Potion](purple-potion.md) or [Super Smoothie](super-smoothie.md) will override the buff.
 
 <figure class="thumb mw-halign-right" style="width: 180px" typeof="mw:File/Thumb">  <figcaption class="thumbcaption"> <p class="caption">A blue extract token.</p> </figcaption> </figure>
 
@@ -65,43 +65,6 @@ The **Blue Extract** is an inventory item added in the [2018-11-25 update](updat
   * Black Bear's repeatable quests occasionally give blue extracts.
 * [Science Bear](science-bear.md) gives blue extracts on the following quests:
   * Meticulously Crafted gives 1 blue extract and other items.
-
-### Outdated Ways
-
-<table class="mw-collapsible mw-collapsed article-table">
-<caption>
-</caption>
-<tbody><tr>
-<td>
-<ul><li>Purchasing the Refreshing Bundle in <a href="bee-bear-s-catalog.html">Bee Bear's Catalog</a> for 50 <a href="snowflake.html">Snowflakes</a> and 5 <a href="gingerbread-bear.html">Gingerbread Bears</a> gives 20 blue extracts and other items.</li>
-<li>Giving a <a href="present.html">present</a> to Gifted Bucko Bee rewards 1 blue extract, the buff itself, and other items and boosts.</li>
-<li><a href="bee-bear.html">Bee Bear</a> gave blue extracts on the following quests:
-<ul><li>Commence The Wrapping gave 1 blue extract and other items.</li>
-<li>Upgrading The Honeydays gave 3 blue extracts and other items.</li></ul></li>
-<li>Purchasing the Extract Bundle gives <img alt="Blue Extract" height="25" src="img/Blue_Extract.png" width="25"/>15 <strong class="mw-selflink selflink"><span class="color-template color-template-blue-extract color-template-background-clip">Blue Extracts</span></strong> + other items.</li>
-<li>Giving a <a href="present.html">present</a> to Gifted Bucko Bee rewarded 5 blue extracts, the buff itself, and boosts.</li>
-<li>Completing <a href="bubble-bee-man.html#Quest_.28Inside_30_Bee_Gate.29">Bubble Bee Man's</a> B.B.M. Mission quest gave one blue extract and other items.</li>
-<li>Completing Gifted Bucko Bee's Snow Machine during Beesmas 2022 gives 10 blue extracts and other items.</li>
-<li>By purchasing certain robux packs:
-<ul><li>Purchasing the Buoyant Pack gave <img alt="Blue Extract" height="25" src="img/Blue_Extract.png" width="25"/>25 <strong class="mw-selflink selflink"><span class="color-template color-template-blue-extract color-template-background-clip">Blue Extracts</span></strong> + other items.</li></ul></li>
-<li><a href="bee-bear.html">Bee Bear</a> gave blue extracts on the following quests:
-<ul><li>Blue Beesmas gave 1 blue extract and other items.</li></ul></li>
-<li>Opening certain <a href="ornament-presents.html">Ornament Presents</a>:
-<ul><li>The Colorful Present rewarded 1 blue extract and other items. (Was obtainable during Beesmas 2019).</li>
-<li>The Mythic Present rewarded 3 blue extracts and other items. (Was obtainable during Beesmas 2019).</li>
-<li>The Purple Gift Box rewarded 10 blue extracts and other items. (Was obtainable during Beesmas 2020).</li></ul></li>
-<li>From various <a href="gift-boxes.html">Gift Boxes</a>.
-<ul><li>Opening the Kitsch Gift Box rewards <img alt="Blue Extract" height="25" src="img/Blue_Extract.png" width="25"/>3 <strong class="mw-selflink selflink"><span class="color-template color-template-blue-extract color-template-background-clip">Blue Extracts</span></strong> and other items.</li>
-<li>Opening the Mythic Gift Box rewards <img alt="Blue Extract" height="25" src="img/Blue_Extract.png" width="25"/>5 <strong class="mw-selflink selflink"><span class="color-template color-template-blue-extract color-template-background-clip">Blue Extracts</span></strong> and other items.</li></ul></li>
-<li>As a drop from <a href="stockings.html">stockings</a> during Beesmas 2020, 2021, 2022, and 2024.</li>
-<li>Activating the target on the left wall of the Blue Flower Field.</li>
-<li>Redeeming certain expired codes:
-<ul><li>Using the code "3YearParty" (Gave 1 blue extract + other stuff).</li>
-<li>Using the code "2YearsAfterParty" (Activated the buff + other items).</li>
-<li>Using the code "Crafty" (Gave 1 blue extract + other items).</li>
-<li>Using the code "Discord50k" (Activated the buff + other items).</li>
-<li>Using the code "Buoyant" (Activated the buff + other items).</li></ul></li></ul>
-</td></tr></tbody></table>
 
 ## Crafting Uses
 
@@ -321,7 +284,7 @@ Total required for all single-purchase items: 3,083 **Blue Extracts**
 </th>
 <th class="NavCategory">Quest Exclusive
 </th>
-<td class="NavLinks NavLinksBasicEven"><b><img alt="Translator" height="35" src="img/Translator.png" width="35"/> <a href="translator.html">Translator</a> • <img alt="Spirit Petal" height="35" src="img/Spirit_Petal.png" width="35"/> <a href="spirit-petal.html">Spirit Petal</a> • <img alt="Debug Wax" height="35" src="img/Debug_Wax.png" width="35"/> <a href="debug-wax.html">Debug Wax</a> • <img alt="Nectar Tester" height="35" src="img/Nectar_Tester.png" width="35"/> <a href="nectar-tester.html">Nectar Tester</a></b> • <span typeof="mw:Error mw:File"></span> <a href="bbm-s-apology.html">BBM's Apology</a><b></b>
+<td class="NavLinks NavLinksBasicEven"><b><img alt="Translator" height="35" src="img/Translator.png" width="35"/> <a href="translator.html">Translator</a> • <img alt="Spirit Petal" height="35" src="img/Spirit_Petal.png" width="35"/> <a href="spirit-petal.html">Spirit Petal</a> • <img alt="Debug Wax" height="35" src="img/Debug_Wax.png" width="35"/> <a href="debug-wax.html">Debug Wax</a> • <img alt="Nectar Tester" height="35" src="img/Nectar_Tester.png" width="35"/> <a href="nectar-tester.html">Nectar Tester</a></b><b></b>
 </td></tr>
 <tr>
 <th class="NavCategory">Beesmas

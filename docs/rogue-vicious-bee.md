@@ -224,7 +224,7 @@ The following audio plays when Rogue Vicious Bee has been defeated:
 * When Rogue Vicious Bee leaves, it makes the same puff of smoke as when other mobs do when they are defeated. The same occurs if its dormant spike is not triggered and despawns.
 * Rogue Vicious Bee shines light directly under itself, unlike its tamed counterpart. The light is only visible at night.
 * The player can angle their camera underneath the field in the location of a spike, where they can get a glimpse of Rogue Vicious Bee hiding beneath the field. It can also be made visible by clearing out the flower the spike is in.
-* There seems to be a [glitch](glitches.md) where Rogue Vicious Bee's Gifted variant can spawn missing around 5% of its max health.
+* There seems to be a glitch where Rogue Vicious Bee's Gifted variant can spawn missing around 5% of its max health.
 * If the player collides with Rogue Vicious Bee by jumping into its body, they will take some damage.
 * [Sun Bear](sun-bear.md) mentions in his quest “Vicious Bee Begone” that he has had an encounter with a Rogue Vicious Bee.
 

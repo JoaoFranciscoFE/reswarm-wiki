@@ -71,35 +71,6 @@ Sometimes, the stats won't show any changes when you use a swirled wax. Most of 
   * Dapper Bear's "Barter For The Blue Drive" rewards 1 swirled wax and other items.
   * Dapper Bear's "Dapper Bear's Samovar" rewards 1 swirled wax and other items.
 
-### Outdated Ways
-
-<table class="mw-collapsible mw-collapsed article-table">
-<caption>
-</caption>
-<tbody><tr>
-<td>
-<ul><li>During the Beesmas 2020 event, Riley Bee's <a href="honeyday-candles.html">Honeyday Candles</a> always gave 1 swirled wax whenever using it.</li>
-<li>During the Beesmas 2021 and 2022 events, using Riley Bee's Honeyday Candles had a 1.63% chance to give 3 swirled wax.</li>
-<li>Giving presents to certain NPCs:
-<ul><li>Gifted Riley Bee gave 1 swirled wax and other stuff during Beesmas 2020 and 2021.</li></ul></li>
-<li>Completing <a href="bee-bear.html">Bee Bear's</a> "Snow Cub Reformation (3/5)" 2021 Beesmas quest rewarded the player with 1 swirled wax and other items.</li>
-<li>Completing <a href="dapper-bear.html">Dapper Bear's</a> 2021 Beesmas quest rewarded the player 1 swirled wax and other items.</li>
-<li>Opening the Jubilant and Mythic <a href="gift-boxes.html">Gift Box</a> gave 2 swirled waxes and other items.</li>
-<li>Buying the Festive Frenzy Haul in the <a href="robux-shop.html">Robux Shop</a> gave 25 swirled waxes.</li>
-<li><a href="bee-bear.html">Bee Bear's</a> "Red and Blue Beesmas" in Beesmas 2022 gave 1 swirled wax and other items.</li>
-<li><a href="stick-bug.html">Stick Bug's</a> Beesmas quest 2022 gave 3 swirled waxes and other items.</li>
-<li><a href="spirit-bear.html">Spirit Bear's</a> Beesmas quest 2022 gave 3 swirled waxes and other items.</li>
-<li>Purchasing the Candlelight Bundle in <a href="bee-bear-s-catalog.html">Bee Bear's Catalog</a> 2022 gave 10 swirled waxes + other items.</li>
-<li>Purchasing the Mondo Robo Bundle for <span typeof="mw:Error mw:File"></span>4,500 <span class="color-template color-template-robux color-template-background-clip">Robux</span> gave 25 swirled waxes + other items.</li>
-<li>Purchasing the <a href="robux-shop.html">Royal Winter Wonder Haul Pack</a> for <span typeof="mw:Error mw:File"></span>4,500 <span class="color-template color-template-robux color-template-background-clip">Robux</span> gives 25 swirled wax.</li>
-<li>Purchasing certain bundles in <a href="bee-bear-s-catalog.html">Bee Bear's Catalog</a>:
-<ul><li>1 swirled wax is included in the Candlewax Bundle (Beesmas Winter 2024).</li>
-<li>10 swirled wax was included in the Musical Mega-Bundle (Beesmas Winter 2024).</li>
-<li>10 swirled wax was included in the Triumphant Turp Pack (Beesmas Winter 2024).</li>
-<li>Purchasing the Candlelight Bundle gave 10 swirled waxes + other items (Beesmas 2022).</li></ul></li>
-<li>Mother Bear's "Waiting With Sun Bear (5/6): And Mother Bear. Again" gave 1 swirled wax and other items.</li></ul>
-</td></tr></tbody></table>
-
 ## Crafting Uses
 
 Total required for all single-purchase items: 250 **Swirled Waxes**
@@ -170,7 +141,7 @@ Total required for all single-purchase items: 250 **Swirled Waxes**
 * This is the first wax to be added to the game. It was added in Beesmas 2020 while the rest were added in Beesmas 2021.
 * This wax, [Soft Wax](soft-wax.md) and [Debug Wax](debug-wax.md) are the only waxes guaranteed to change a Beequip's stats.
 * Before the 2021-12-26 update, this item had no favor when donated to the [Wind Shrine](wind-shrine.md).
-* Swirled wax used to have a limit of 5, but the limit was removed in the [2021-12-26 update](updates.md#2021-12-26).
+* Swirled wax used to have a limit of 5, but the limit was removed in the 2021-12-26 update.
 * Before the 2021-12-26 update, swirled wax did not have a wick in its icon design.
 * This is the only wax that was not included in the Waxy Bundle.
 * Swirled wax's raw ingredients cost:
@@ -244,7 +215,7 @@ Total required for all single-purchase items: 250 **Swirled Waxes**
 </th>
 <th class="NavCategory">Quest Exclusive
 </th>
-<td class="NavLinks NavLinksBasicEven"><b><img alt="Translator" height="35" src="img/Translator.png" width="35"/> <a href="translator.html">Translator</a> • <img alt="Spirit Petal" height="35" src="img/Spirit_Petal.png" width="35"/> <a href="spirit-petal.html">Spirit Petal</a> • <img alt="Debug Wax" height="35" src="img/Debug_Wax.png" width="35"/> <a href="debug-wax.html">Debug Wax</a> • <img alt="Nectar Tester" height="35" src="img/Nectar_Tester.png" width="35"/> <a href="nectar-tester.html">Nectar Tester</a></b> • <span typeof="mw:Error mw:File"></span> <a href="bbm-s-apology.html">BBM's Apology</a><b></b>
+<td class="NavLinks NavLinksBasicEven"><b><img alt="Translator" height="35" src="img/Translator.png" width="35"/> <a href="translator.html">Translator</a> • <img alt="Spirit Petal" height="35" src="img/Spirit_Petal.png" width="35"/> <a href="spirit-petal.html">Spirit Petal</a> • <img alt="Debug Wax" height="35" src="img/Debug_Wax.png" width="35"/> <a href="debug-wax.html">Debug Wax</a> • <img alt="Nectar Tester" height="35" src="img/Nectar_Tester.png" width="35"/> <a href="nectar-tester.html">Nectar Tester</a></b><b></b>
 </td></tr>
 <tr>
 <th class="NavCategory">Beesmas

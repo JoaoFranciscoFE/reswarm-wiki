@@ -45,7 +45,7 @@ Baby Bee likes the [Dandelion Field](dandelion-field.md), [Sunflower Field](sunf
 
 ### Abilities
 
-* **[Baby Love](ability-tokens.md#Baby_Love)** Grants x2 [Pollen](system-page.md#Pollen) and +50% Loot Luck for 30 seconds. Loot Luck increases your chance of obtaining prizes from defeating enemies.
+* <img alt="Baby Love" src="img/Baby_Love.png" style="height:1.6em;width:auto;vertical-align:middle"/> **[Baby Love](ability-tokens.md#Baby_Love)** Grants x2 [Pollen](system-page.md#Pollen) and +50% Loot Luck for 30 seconds. Loot Luck increases your chance of obtaining prizes from defeating enemies.
 
 <table style="font-size:1.5vh; color:#000; width:100%; background:#fff; padding: 15px 0; border:none; color:#000; border-left:15px #2fa0fc solid">
 <tbody><tr>
@@ -405,7 +405,7 @@ Baby Bee likes the [Dandelion Field](dandelion-field.md), [Sunflower Field](sunf
 
 * Baby Bee and Tadpole Bee tie for the smallest [bees](bees.md) in the game. They are also the only two bee types to have a different size compared to other bees.
 * Baby Bee is the only bee that cannot attack any [mobs](mobs.md), even if it has an attack mutation.
-  * Baby Bee used to be able to attack and could do damage if the player had any damage boosts. After the [2018-11-25 Update](updates.md#2018-11-25), this is no longer the case.
+  * Baby Bee used to be able to attack and could do damage if the player had any damage boosts. After the 2018-11-25 Update, this is no longer the case.
   * According to [Black Bear](black-bear.md), the reason why they don't attack is because "They're too dumb to notice" the mobs.
   * Attack added to Baby Bee still counts towards total attack even if it is not displayed in-game. This can help with passives that rely on total attack like [Star Saw](passive-abilities.md#Star_Saw).
 * Baby Bee's stats have many specialities:
@@ -418,7 +418,7 @@ Baby Bee likes the [Dandelion Field](dandelion-field.md), [Sunflower Field](sunf
   * It is also the only bee to have a higher number of disliked fields than liked fields.
 * Baby Bee and [Stubborn Bee](stubborn-bee.md) are the only Colorless bees that like strawberries.
 * Baby Bee and [Rage Bee](rage-bee.md) are the only bees with three unique colors on their skins. Baby Bee is also the only gifted bee with three unique colors on its skin.
-* Before 2018-11-25 update, the Gifted Hive Bonus of Baby Bee was +5% Loot Luck, which was then changed to +10% in said update. This was then changed to +20% Loot Luck in the [2019-04-05 Update](updates.md#2019-04-05) and once again to +25% Loot Luck in the Beesmas 2019 update.
+* Before 2018-11-25 update, the Gifted Hive Bonus of Baby Bee was +5% Loot Luck, which was then changed to +10% in said update. This was then changed to +20% Loot Luck in the 2019-04-05 Update and once again to +25% Loot Luck in the Beesmas 2019 update.
 * Onett paid $2 for the laughing baby sound that Baby Love uses. It can be bought [here](https://audiojungle.net/item/baby-laughing/21354817).
 * There is a small chance that a Baby Bee egg will drop from [Tunnel Bear](tunnel-bear.md).
   * This is one of the only 4 bees that has a specific egg obtainable from mob drops, with the others being a Rascal Bee egg from ladybugs, a Bumble Bee egg from rhino beetles, or a Honey Bee egg from cave monsters.

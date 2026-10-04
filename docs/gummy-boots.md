@@ -26,7 +26,7 @@ tags: ["Items", "Accessories", "Boots", "Crafted", "Goo"]
 </div>
 </aside>
 
-The **Gummy Boots** are a pair of boots added in the [2018-11-25 update](updates.md#2018-11-25). These boots can be bought in the [Gummy Bear's Lair](gummy-bear-s-lair.md). Its description reads, "Squishy boots that leave a trail of Goo wherever you go."
+The **Gummy Boots** are a pair of boots added in the 2018-11-25 update. These boots can be bought in the [Gummy Bear's Lair](gummy-bear-s-lair.md). Its description reads, "Squishy boots that leave a trail of Goo wherever you go."
 
 <table class="article-table">
 <tbody><tr>
@@ -70,10 +70,10 @@ The **Gummy Boots** are a pair of boots added in the [2018-11-25 update](updates
 * Behind the Gummy Boots figure in the shop in [Gummy Bear's Lair](gummy-bear-s-lair.md), there is a glitter token.
 * The player needed this or the Gummy Mask in order to talk to Gummy Bear for his Beesmas quest.
   * The Gummy Boots were necessary if the player wanted to give [Gummy Bear](gummy-bear.md) a present.
-* Before the [2021-12-26 update](updates.md#2021-12-26), these boots were the most expensive item in terms of honey, excluding hive slots.
+* Before the 2021-12-26 update, these boots were the most expensive item in terms of honey, excluding hive slots.
   * These still remain the most expensive pair of boots available to purchase.
 * Initially, the Goo Trail passive ability covered only one flower, directly underneath the player, in goo. This has been buffed to the nearest 5 flowers.
-* During the release of the Gummy Boots, it costed 999 [glue](glue.md), 300 [glitter](glitter.md), 300 [red extracts](red-extract.md), and 300 [blue extracts](blue-extract.md) in order to be crafted. However, the price was later nerfed to 500 [glue](glue.md), 250 [glitter](glitter.md), 250 [red extracts](red-extract.md), and 250 [blue extracts](blue-extract.md) on the [2021-12-26 update](updates.md#2021-12-26). Everyone who bought the Gummy Boots before the update were refunded the extra items when Beesmas 2021 was released.
+* During the release of the Gummy Boots, it costed 999 [glue](glue.md), 300 [glitter](glitter.md), 300 [red extracts](red-extract.md), and 300 [blue extracts](blue-extract.md) in order to be crafted. However, the price was later nerfed to 500 [glue](glue.md), 250 [glitter](glitter.md), 250 [red extracts](red-extract.md), and 250 [blue extracts](blue-extract.md) on the 2021-12-26 update. Everyone who bought the Gummy Boots before the update were refunded the extra items when Beesmas 2021 was released.
 * Unlike other items like the [Diamond Mask](diamond-mask.md), the [Gummy Mask](gummy-mask.md), and the [Demon Mask](demon-mask.md), the Gummy Boots do not require another item to 'inherit' the passive, rather having two passives regardless of whether the player has bought the [Coconut Clogs](coconut-clogs.md). This makes it one of the only two items to have this characteristic, the other being the [Coconut Canister](coconut-canister.md), as it's the first and only bag to have passives.
 
 <table class="mw-collapsible autocollapse" style="margin:auto; background:#000; font-size: 10pt; border:5px solid #56CB5A; width: 100%; border-radius: 20px; -moz-border-radius: 20px; -webkit-border-radius: 20px; -khtml-border-radius: 20px; -icab-border-radius: 20px; -o-border-radius: 20px;">
@@ -137,7 +137,7 @@ The **Gummy Boots** are a pair of boots added in the [2018-11-25 update](updates
 </th>
 <th class="NavCategory">Quest Exclusive
 </th>
-<td class="NavLinks NavLinksBasicEven"><b><img alt="Translator" height="35" src="img/Translator.png" width="35"/> <a href="translator.html">Translator</a> • <img alt="Spirit Petal" height="35" src="img/Spirit_Petal.png" width="35"/> <a href="spirit-petal.html">Spirit Petal</a> • <img alt="Debug Wax" height="35" src="img/Debug_Wax.png" width="35"/> <a href="debug-wax.html">Debug Wax</a> • <img alt="Nectar Tester" height="35" src="img/Nectar_Tester.png" width="35"/> <a href="nectar-tester.html">Nectar Tester</a></b> • <span typeof="mw:Error mw:File"></span> <a href="bbm-s-apology.html">BBM's Apology</a><b></b>
+<td class="NavLinks NavLinksBasicEven"><b><img alt="Translator" height="35" src="img/Translator.png" width="35"/> <a href="translator.html">Translator</a> • <img alt="Spirit Petal" height="35" src="img/Spirit_Petal.png" width="35"/> <a href="spirit-petal.html">Spirit Petal</a> • <img alt="Debug Wax" height="35" src="img/Debug_Wax.png" width="35"/> <a href="debug-wax.html">Debug Wax</a> • <img alt="Nectar Tester" height="35" src="img/Nectar_Tester.png" width="35"/> <a href="nectar-tester.html">Nectar Tester</a></b><b></b>
 </td></tr>
 <tr>
 <th class="NavCategory">Beesmas

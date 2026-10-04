@@ -45,7 +45,7 @@ Rad Bee likes the [Mushroom Field](mushroom-field.md) and the [Rose Field](rose-
 
 ### Abilities
 
-* **[Red Boost](ability-tokens.md#Boost)** Grants x1.2 pollen from red [flowers](flowers.md) for 15s. Stacks up to 10 times.
+* <img alt="Red Boost" src="img/Red_Boost.png" style="height:1.6em;width:auto;vertical-align:middle"/> **[Red Boost](ability-tokens.md#Boost)** Grants x1.2 pollen from red [flowers](flowers.md) for 15s. Stacks up to 10 times.
 
 <table style="font-size:1.5vh; color:#000; width:100%; background:#fff; padding: 15px 0; border:none; color:#000; border-left:15px #af2136 solid">
 <tbody><tr>
@@ -403,7 +403,7 @@ Rad Bee likes the [Mushroom Field](mushroom-field.md) and the [Rose Field](rose-
 
 ## Trivia
 
-* Rad Bee used to have the entry: "A stylish bee with a taste for red flowers. Everyone wants to be him." This was changed to the current entry in the [2018-11-25 update](updates.md#2018-11-25).
+* Rad Bee used to have the entry: "A stylish bee with a taste for red flowers. Everyone wants to be him." This was changed to the current entry in the 2018-11-25 update.
 * Its blue counterpart is [Cool Bee](cool-bee.md).
 * A [special jelly](royal-jelly.md#Specific_Bee_Jelly) that changes a bee into a Rad Bee can be obtained from the codes, 'Nonchalant' and 'Strawbeary' (both expired).
 * This bee has the same field preferences as [Rascal Bee](rascal-bee.md).

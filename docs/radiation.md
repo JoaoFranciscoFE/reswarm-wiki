@@ -19,7 +19,7 @@ Bees glow green when radioactive. The brightness of the bee is based on how much
 
 * Feeding a bee a [Neonberry](neonberry.md) will make the bee radioactive.
 * If a bee is mutated, it occasionally becomes radioactive. This has a chance to make surrounding bees radioactive as well.
-* Global radioactivity events are initiated by [Onett](onett-developer.md). At the end of Beesmas 2020, he put up a game-wide message, saying "☢️ Testing global radioactivity... ☢️", and caused many bees to become radioactive.
+* Global radioactivity events are initiated by Onett. At the end of Beesmas 2020, he put up a game-wide message, saying "☢️ Testing global radioactivity... ☢️", and caused many bees to become radioactive.
 * Occasionally, a bee will randomly become radioactive without meeting any of the above criteria.
 
 ## Audio

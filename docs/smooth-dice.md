@@ -15,7 +15,7 @@ COOLDOWN
 
 2 seconds
 
-The **Smooth Dice** is an inventory item that was added in the [2021-12-26 update](updates.md#2021-12-26). When used, it will boost 2 random [fields](fields.md), each granting 200% pollen field boosts. Using this item while there is another dice boost active replaces the last dice boost duration.
+The **Smooth Dice** is an inventory item that was added in the 2021-12-26 update. When used, it will boost 2 random [fields](fields.md), each granting 200% pollen field boosts. Using this item while there is another dice boost active replaces the last dice boost duration.
 
 ## Ways to obtain
 
@@ -39,26 +39,6 @@ The **Smooth Dice** is an inventory item that was added in the [2021-12-26 updat
   * The Orange Swirled Marble rewards 3 smooth dice.
   * The Blue and Green Marble rewards 3 smooth dice.
   * The Yellow Swirled Marble rewards 3 smooth dice.
-
-### Outdated Ways
-
-<table class="mw-collapsible mw-collapsed article-table">
-<caption>
-</caption>
-<tbody><tr>
-<td>
-<ul><li>From a token inside the 2021 <a href="beesmas-tree.html">Beesmas Tree</a>.</li>
-<li>Purchasing the Charming Bundle in <a href="bee-bear-s-catalog.html">Bee Bear's Catalog</a> for 3333 <a href="snowflake.html">Snowflake</a> gave <img alt="Smooth Dice" height="25" src="img/Smooth_Dice.png" width="25"/>25 <strong class="mw-selflink selflink"><span class="color-template color-template-smooth-dice color-template-background-clip">Smooth Dice</span></strong> + other stuff.</li>
-<li>As a reward from finishing a Robo Party.</li>
-<li>For completing 3rd, 8th, 12th and 15th <a href="bee-bear.html">Bee Bear's</a> Beesmas 2022 quests (1, 3, 3 and 10 for those accordingly)</li>
-<li>As a reward from <a href="memory-match.html#Winter_Memory_Match">Winter Memory Match</a>.</li>
-<li>The Pastel Gift Box gave 4 smooth dice + other items.</li>
-<li>Using certain expired <a href="codes.html">codes</a>:
-<ul><li>5Years (Gave 5 smooth dice + other stuff).</li>
-<li>boo swarm (Gave 1 smooth dice + other stuff)</li>
-<li>BoxWhoops (Gave 1 smooth dice +other stuff)</li></ul></li>
-<li>Activating the target in the <a href="sunflower-field.html">Sunflower Field</a> on the <a href="instant-converter.html">Instant Converter</a> drops one smooth dice.</li></ul>
-</td></tr></tbody></table>
 
 ## Crafting Uses
 
@@ -163,7 +143,7 @@ You are already rolling a dice
 </th>
 <th class="NavCategory">Quest Exclusive
 </th>
-<td class="NavLinks NavLinksBasicEven"><b><img alt="Translator" height="35" src="img/Translator.png" width="35"/> <a href="translator.html">Translator</a> • <img alt="Spirit Petal" height="35" src="img/Spirit_Petal.png" width="35"/> <a href="spirit-petal.html">Spirit Petal</a> • <img alt="Debug Wax" height="35" src="img/Debug_Wax.png" width="35"/> <a href="debug-wax.html">Debug Wax</a> • <img alt="Nectar Tester" height="35" src="img/Nectar_Tester.png" width="35"/> <a href="nectar-tester.html">Nectar Tester</a></b> • <span typeof="mw:Error mw:File"></span> <a href="bbm-s-apology.html">BBM's Apology</a><b></b>
+<td class="NavLinks NavLinksBasicEven"><b><img alt="Translator" height="35" src="img/Translator.png" width="35"/> <a href="translator.html">Translator</a> • <img alt="Spirit Petal" height="35" src="img/Spirit_Petal.png" width="35"/> <a href="spirit-petal.html">Spirit Petal</a> • <img alt="Debug Wax" height="35" src="img/Debug_Wax.png" width="35"/> <a href="debug-wax.html">Debug Wax</a> • <img alt="Nectar Tester" height="35" src="img/Nectar_Tester.png" width="35"/> <a href="nectar-tester.html">Nectar Tester</a></b><b></b>
 </td></tr>
 <tr>
 <th class="NavCategory">Beesmas

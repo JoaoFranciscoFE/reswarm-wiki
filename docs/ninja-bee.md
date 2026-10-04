@@ -45,8 +45,8 @@ Ninja Bee likes the [Blue Flower Field](blue-flower-field.md) and [Bamboo Field]
 
 ### Abilities
 
-* **[Haste](ability-tokens.md#Haste)** Grants +10% [Player Movespeed](system-page.md#Movespeed) for 20 seconds. Stacks up to 10 times.
-* **[Blue Bomb+](ability-tokens.md#Bomb)** Collects 10 pollen from 29 surrounding Blue [Flowers](flowers.md) (+10% pollen per Level). Combo with other bombs to increase power.
+* <img alt="Haste" src="img/Haste.png" style="height:1.6em;width:auto;vertical-align:middle"/> **[Haste](ability-tokens.md#Haste)** Grants +10% [Player Movespeed](system-page.md#Movespeed) for 20 seconds. Stacks up to 10 times.
+* <img alt="Blue Bomb+" src="img/Blue_Bomb+.png" style="height:1.6em;width:auto;vertical-align:middle"/> **[Blue Bomb+](ability-tokens.md#Bomb)** Collects 10 pollen from 29 surrounding Blue [Flowers](flowers.md) (+10% pollen per Level). Combo with other bombs to increase power.
 
 <table style="font-size:1.5vh; color:#000; width:100%; background:#fff; padding: 15px 0; border:none; color:#000; border-left:15px #2fa0fc solid">
 <tbody><tr>
@@ -410,7 +410,7 @@ Ninja Bee likes the [Blue Flower Field](blue-flower-field.md) and [Bamboo Field]
 * This bee, [Shy Bee](shy-bee.md), [Fuzzy Bee](fuzzy-bee.md), and [Windy Bee](windy-bee.md) are currently the only bees that have a solitary colored skin.
 * Ninja Bee is the fastest bee in the game, tied with Photon Bee.
   * In Ninja Bee's description, it is supposedly the "swiftest bee". However, Photon Bee is just as fast.
-* Before the [2018-11-25 Update](updates.md#2018-11-25), Ninja Bee's Gifted Hive Bonus was +20% Player Movespeed instead of +5% Bee Movespeed.
+* Before the 2018-11-25 Update, Ninja Bee's Gifted Hive Bonus was +20% Player Movespeed instead of +5% Bee Movespeed.
 * Ninja Bee, [Cobalt Bee](cobalt-bee.md), and [Vicious Bee](vicious-bee.md) are the only blue bees that do not like [Blueberries](blueberry.md).
   * It is the only non-[Event](bees-event.md) blue bee to not like blueberries.
   * This and [Precise Bee](precise-bee.md) are also the only non-Colorless bee to like [Sunflower Seeds](sunflower-seed.md).

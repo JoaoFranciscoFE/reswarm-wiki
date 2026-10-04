@@ -51,8 +51,8 @@ Unlike other bees, this bee has a unique perk: its stats increase permanently wi
 
 ### Abilities
 
-* **[Scratch](ability-tokens.md#Scratch)** Collects 7 (+1 per lvl) Pollen from 3 lines of 4 [Flowers](flowers.md). If Gifted, Scratch always does Critical hits.
-* **[Tabby Love](ability-tokens.md#Tabby_Love)** Permanently grants Tabby Bee +1% Gather Amount, Convert Amount, and pollen from Scratch. Stacks up to 1,000 times.
+* <img alt="Scratch" src="img/Scratch.png" style="height:1.6em;width:auto;vertical-align:middle"/> **[Scratch](ability-tokens.md#Scratch)** Collects 7 (+1 per lvl) Pollen from 3 lines of 4 [Flowers](flowers.md). If Gifted, Scratch always does Critical hits.
+* <img alt="Tabby Love" src="img/Tabby_Love.png" style="height:1.6em;width:auto;vertical-align:middle"/> **[Tabby Love](ability-tokens.md#Tabby_Love)** Permanently grants Tabby Bee +1% Gather Amount, Convert Amount, and pollen from Scratch. Stacks up to 1,000 times.
   * If at max stacks, Tabby Love grants Tabby Blessing, giving +1% Critical Chance and +25% Critical Power for 20 seconds (+2s per level). If Gifted, it grants Tabby Blessing+, which adds +1% Super-Crit Chance as well.
 
 <table style="font-size:1.5vh; color:#000; width:100%; background:#fff; padding: 15px 0; border:none; color:#000; border-left:15px #000 solid">
@@ -319,7 +319,7 @@ Unlike other bees, this bee has a unique perk: its stats increase permanently wi
 * Tabby Bee, Bear Bee, Gummy Bee, Festive Bee, Photon Bee, [Tadpole Bee](tadpole-bee.md), and [Vicious Bee](vicious-bee.md) are the only bees to have a gifted bonus that affects their signature ability.
 * The player's tabby love stack will not be removed if the player transforms Tabby Bee in any way.
 * Before the May 23, 2024 update, if the player already had max Tabby Love (x1000) and collected another one, it would neither increase the existing buff nor have any effect.
-* Tabby Bee is a reference to [Onett's](onett-developer.md) real-life cat named Sam. This is hinted in one of [Onett's](onett.md) dialogues in his star journey [quests](quests.md), and later confirmed on Discord.
+* Tabby Bee is a reference to Onett's real-life cat named Sam. This is hinted in one of [Onett's](onett.md) dialogues in his star journey [quests](quests.md), and later confirmed on Discord.
 * Tabby Bee, along with Basic Bee and [Rascal Bee](rascal-bee.md), are Onett's favorite bees.
 * Tabby Bee is mentioned in [Panda Bear](panda-bear.md)'s dialogue during his Ultimate Ant Annihilation 1 quest. As Tabby Bee's description says, he states that Tabby Bee was raised by cats.
 * Tabby Bee is one of the few bees based off from animals other than just bees, the others being [Lion Bee](lion-bee.md), [Tadpole Bee](tadpole-bee.md), Puppy Bee, and Bear Bee.

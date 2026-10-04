@@ -65,8 +65,8 @@ The following audio plays, when Coin Scatter is activated:
 
 * The Honey Mask, the [Bubble Mask](bubble-mask.md), [Fire Mask](fire-mask.md), [Bucko Guard](bucko-guard.md) and [Riley Guard](riley-guard.md) all represent [epic bees](bees-epic.md).
 * The Honey Mask and the [Diamond Mask](diamond-mask.md) are the only [items](items.md) that require [eggs](egg.md) to be crafted.
-* After the [2019-04-05 update](updates.md#2019-04-05), the [Instant Conversion](system-page.md#Instant_Conversion) buff was removed from the mask, along with all of the other masks.
-* After the [2019-09-28 update](updates.md#2019-09-28), the Coin Scatter [passive ability](passive-abilities.md) was added to the mask.
+* After the 2019-04-05 update, the [Instant Conversion](system-page.md#Instant_Conversion) buff was removed from the mask, along with all of the other masks.
+* After the 2019-09-28 update, the Coin Scatter [passive ability](passive-abilities.md) was added to the mask.
   * If the player owns the Honey Mask, its passive is inherited by the [Gummy Mask](gummy-mask.md).
 * If the ingredients to craft the Honey Mask item were to be crafted, the Honey Mask mask costs 100,000,000 [Honey](honey.md), 9,999 Treats, 2,500 [Sunflower Seeds](sunflower-seed.md), 1,250 [Pineapples](pineapple.md), 750 [Royal Jellies](royal-jelly.md), and 5 [Gold Eggs](egg.md#Gold_Egg). It also takes approximately 375 minutes (6 hours and 15 minutes) to craft all of the required items.
 * The Honey & Gummy Masks are the only masks in the game that require a specific [Badge](badges.md) to access and purchase.
@@ -134,7 +134,7 @@ The following audio plays, when Coin Scatter is activated:
 </th>
 <th class="NavCategory">Quest Exclusive
 </th>
-<td class="NavLinks NavLinksBasicEven"><b><img alt="Translator" height="35" src="img/Translator.png" width="35"/> <a href="translator.html">Translator</a> • <img alt="Spirit Petal" height="35" src="img/Spirit_Petal.png" width="35"/> <a href="spirit-petal.html">Spirit Petal</a> • <img alt="Debug Wax" height="35" src="img/Debug_Wax.png" width="35"/> <a href="debug-wax.html">Debug Wax</a> • <img alt="Nectar Tester" height="35" src="img/Nectar_Tester.png" width="35"/> <a href="nectar-tester.html">Nectar Tester</a></b> • <span typeof="mw:Error mw:File"></span> <a href="bbm-s-apology.html">BBM's Apology</a><b></b>
+<td class="NavLinks NavLinksBasicEven"><b><img alt="Translator" height="35" src="img/Translator.png" width="35"/> <a href="translator.html">Translator</a> • <img alt="Spirit Petal" height="35" src="img/Spirit_Petal.png" width="35"/> <a href="spirit-petal.html">Spirit Petal</a> • <img alt="Debug Wax" height="35" src="img/Debug_Wax.png" width="35"/> <a href="debug-wax.html">Debug Wax</a> • <img alt="Nectar Tester" height="35" src="img/Nectar_Tester.png" width="35"/> <a href="nectar-tester.html">Nectar Tester</a></b><b></b>
 </td></tr>
 <tr>
 <th class="NavCategory">Beesmas

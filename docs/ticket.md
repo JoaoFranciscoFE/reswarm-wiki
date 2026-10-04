@@ -11,7 +11,7 @@ Ticket
 
 *"Used to activate and purchase special things!"*
 
-**Tickets** are a form of currency added in the [2018-04-27 update](updates.md#2018-4-27). They can be used to purchase certain [items](items.md).
+**Tickets** are a form of currency added in the 2018-04-27 update. They can be used to purchase certain [items](items.md).
 
 ## Ways to Obtain
 
@@ -85,69 +85,6 @@ Ticket
 * Underneath the [Basic Bee Gate](basic-bee-gate.md) ramp, where [Honey Bee](honey-bee-npc.md) used to be. Grants 3 **Tickets**. This replaced one of the Plastic Egg locations, when they were removed.
 * In the [Blue Maze](mazes.md#Blue_Maze), turn left and then take the first right. Grants 5 **Tickets**. This replaced one of the Plastic Egg locations.
 * Inside the tunnel behind the [Coconut Dispenser](coconut-dispenser.md) in the [Coconut Cave](coconut-cave.md). Grants 5 **Tickets**.
-
-### Outdated Ways
-
-<table class="mw-collapsible mw-collapsed article-table">
-<caption>
-</caption>
-<tbody><tr>
-<td>
-<ul><li>The <a href="robux-shop.html">x2 Ticket Chance</a>, which was taken offsale in the <a href="updates.html#2018-07-11">2018-07-11 update</a>, doubled the chances of getting <img alt="Ticket" height="35" src="img/Ticket.png" width="35"/><strong class="mw-selflink selflink"><span class="color-template color-template-ticket color-template-background-clip">Tickets</span></strong> from defeating mobs and collecting pollen. For the players that bought the gamepass before it was removed, its effects still work.</li>
-<li>Opening the <a href="gift-boxes.html">Paper Gift Box</a> gave <img alt="Ticket" height="25" src="img/Ticket.png" width="25"/>20 <strong class="mw-selflink selflink"><span class="color-template color-template-ticket color-template-background-clip">Tickets</span></strong> and other items (Only possible during Beesmas 2020).</li>
-<li>On his third visit, <a href="sun-bear.html">Sun Bear</a> gave <img alt="Ticket" height="25" src="img/Ticket.png" width="25"/>250 <strong class="mw-selflink selflink"><span class="color-template color-template-ticket color-template-background-clip">Tickets</span></strong> as the prize for finishing his quests.</li>
-<li>Completing <a href="bee-bear.html">Bee Bear's</a> Festive Bee Workshop 3 and A Beesmas Miracle quests before or after purchasing the Festive Bee Pack and Cub Buddy Launch Pack would reward 500 and 250 extra <img alt="Ticket" height="35" src="img/Ticket.png" width="35"/><strong class="mw-selflink selflink"><span class="color-template color-template-ticket color-template-background-clip">Tickets</span></strong> respectively. In addition, obtaining Festive Bee from the Festive Present in Beesmas 2019 or the Festive Fight Finale quest in Beesmas 2020 also refunded the player's <img alt="Ticket" height="25" src="img/Ticket.png" width="25"/>500 <strong class="mw-selflink selflink"><span class="color-template color-template-ticket color-template-background-clip">Tickets</span></strong>.</li>
-<li>Purchasing the Buoyant Pack, Precise Pack, New Year Booster Bundle and Festive Frenzy Haul all gave <img alt="Ticket" height="35" src="img/Ticket.png" width="35"/><strong class="mw-selflink selflink"><span class="color-template color-template-ticket color-template-background-clip">Tickets</span></strong> + other items.</li>
-<li>There used to be a <img alt="Ticket" height="35" src="img/Ticket.png" width="35"/><strong class="mw-selflink selflink"><span class="color-template color-template-ticket color-template-background-clip">Ticket</span></strong> token on the rise between the <a href="noob-shop.html">Noob Shop</a> and the <a href="hive.html">hives</a>, where <a href="sun-bear.html">Sun Bear</a>'s RV was parked for his first ever Spring visit.</li>
-<li>Activating a <span class="new" data-uncrawlable-url="L3dpa2kvR29sZj9hY3Rpb249ZWRpdCZyZWRsaW5rPTE=" title="Golf (page does not exist)">target</span> rewards <img alt="Ticket" height="35" src="img/Ticket.png" width="35"/><strong class="mw-selflink selflink"><span class="color-template color-template-ticket color-template-background-clip">Tickets</span></strong> and other items.</li>
-<li>Redeeming certain expired codes:
-<ul><li>Soup (Gave <img alt="Ticket" height="25" src="img/Ticket.png" width="25"/>10 <strong class="mw-selflink selflink"><span class="color-template color-template-ticket color-template-background-clip">Tickets</span></strong> + other stuff).</li>
-<li>General (Gave <img alt="Ticket" height="25" src="img/Ticket.png" width="25"/>5 <strong class="mw-selflink selflink"><span class="color-template color-template-ticket color-template-background-clip">Tickets</span></strong> + other stuff).</li>
-<li>ThoseEyes (Gave <img alt="Ticket" height="25" src="img/Ticket.png" width="25"/>2 <strong class="mw-selflink selflink"><span class="color-template color-template-ticket color-template-background-clip">Tickets</span></strong> + other stuff).</li>
-<li>Nonchalant (Gave <img alt="Ticket" height="25" src="img/Ticket.png" width="25"/>5 <strong class="mw-selflink selflink"><span class="color-template color-template-ticket color-template-background-clip">Tickets</span></strong> + other stuff).</li>
-<li>Keen4 (Gave <img alt="Ticket" height="25" src="img/Ticket.png" width="25"/>3 <strong class="mw-selflink selflink"><span class="color-template color-template-ticket color-template-background-clip">Tickets</span></strong> + other stuff).</li>
-<li>PandaPower (Gave <img alt="Ticket" height="25" src="img/Ticket.png" width="25"/>3 <strong class="mw-selflink selflink"><span class="color-template color-template-ticket color-template-background-clip">Tickets</span></strong> + other stuff).</li>
-<li>Friday (Gave <img alt="Ticket" height="25" src="img/Ticket.png" width="25"/>5 <strong class="mw-selflink selflink"><span class="color-template color-template-ticket color-template-background-clip">Tickets</span></strong> + other stuff).</li>
-<li>Wax2 (Gave <img alt="Ticket" height="25" src="img/Ticket.png" width="25"/>5 <strong class="mw-selflink selflink"><span class="color-template color-template-ticket color-template-background-clip">Tickets</span></strong>).</li>
-<li>Arizona (Gave <img alt="Ticket" height="25" src="img/Ticket.png" width="25"/>5 <strong class="mw-selflink selflink"><span class="color-template color-template-ticket color-template-background-clip">Tickets</span></strong> + other stuff).</li>
-<li>AccentMaster (Gave <img alt="Ticket" height="25" src="img/Ticket.png" width="25"/>1 <strong class="mw-selflink selflink"><span class="color-template color-template-ticket color-template-background-clip">Ticket</span></strong> + other stuff).</li>
-<li>Tabby (Gave <img alt="Ticket" height="25" src="img/Ticket.png" width="25"/>5 <strong class="mw-selflink selflink"><span class="color-template color-template-ticket color-template-background-clip">Tickets</span></strong> + other stuff).</li>
-<li>JellyHill (Gave <img alt="Ticket" height="25" src="img/Ticket.png" width="25"/>3 <strong class="mw-selflink selflink"><span class="color-template color-template-ticket color-template-background-clip">Tickets</span></strong> + other stuff).</li>
-<li>MischiefMaker (Gave <img alt="Ticket" height="25" src="img/Ticket.png" width="25"/>1 <strong class="mw-selflink selflink"><span class="color-template color-template-ticket color-template-background-clip">Ticket</span></strong> + other stuff).</li>
-<li>Meow (Gave <img alt="Ticket" height="25" src="img/Ticket.png" width="25"/>5 <strong class="mw-selflink selflink"><span class="color-template color-template-ticket color-template-background-clip">Tickets</span></strong>).</li>
-<li>Unity (Gave <img alt="Ticket" height="25" src="img/Ticket.png" width="25"/>5 <strong class="mw-selflink selflink"><span class="color-template color-template-ticket color-template-background-clip">Tickets</span></strong> + other stuff).</li>
-<li>100mvisits (Gave <img alt="Ticket" height="25" src="img/Ticket.png" width="25"/>5 <strong class="mw-selflink selflink"><span class="color-template color-template-ticket color-template-background-clip">Tickets</span></strong> + other stuff).</li>
-<li>Xanthan (Gave <img alt="Ticket" height="25" src="img/Ticket.png" width="25"/>5 <strong class="mw-selflink selflink"><span class="color-template color-template-ticket color-template-background-clip">Tickets</span></strong>+ other stuff).</li>
-<li>Gel (Gave <img alt="Ticket" height="25" src="img/Ticket.png" width="25"/>1 <strong class="mw-selflink selflink"><span class="color-template color-template-ticket color-template-background-clip">Ticket</span></strong> + other stuff).</li>
-<li>LateNightGumdrops (Gave <img alt="Ticket" height="25" src="img/Ticket.png" width="25"/>1 <strong class="mw-selflink selflink"><span class="color-template color-template-ticket color-template-background-clip">Ticket</span></strong> + other stuff).</li>
-<li>Afternoon (Gave <img alt="Ticket" height="25" src="img/Ticket.png" width="25"/>5 <strong class="mw-selflink selflink"><span class="color-template color-template-ticket color-template-background-clip">Tickets</span></strong> + other stuff).</li>
-<li>PreUpdate (Gave <img alt="Ticket" height="25" src="img/Ticket.png" width="25"/>5 <strong class="mw-selflink selflink"><span class="color-template color-template-ticket color-template-background-clip">Tickets</span></strong> + other stuff).</li>
-<li>SugarRush (Gave <img alt="Ticket" height="25" src="img/Ticket.png" width="25"/>5 <strong class="mw-selflink selflink"><span class="color-template color-template-ticket color-template-background-clip">Tickets</span></strong> + other stuff).</li>
-<li>ThnxCyaBoost (Gave <img alt="Ticket" height="25" src="img/Ticket.png" width="25"/>5 <strong class="mw-selflink selflink"><span class="color-template color-template-ticket color-template-background-clip">Tickets</span></strong> + other stuff).</li>
-<li>Whoops (Gave <img alt="Ticket" height="25" src="img/Ticket.png" width="25"/>5 <strong class="mw-selflink selflink"><span class="color-template color-template-ticket color-template-background-clip">Tickets</span></strong> + other stuff).</li>
-<li>Reboot (Gave <img alt="Ticket" height="25" src="img/Ticket.png" width="25"/>10 <strong class="mw-selflink selflink"><span class="color-template color-template-ticket color-template-background-clip">Tickets</span></strong> + other stuff).</li>
-<li>MillionMembers (Gave <img alt="Ticket" height="25" src="img/Ticket.png" width="25"/>10 <strong class="mw-selflink selflink"><span class="color-template color-template-ticket color-template-background-clip">Tickets</span></strong> + other stuff).</li>
-<li>Shutdown (Gave <img alt="Ticket" height="25" src="img/Ticket.png" width="25"/>5 <strong class="mw-selflink selflink"><span class="color-template color-template-ticket color-template-background-clip">Tickets</span></strong> + other stuff).</li>
-<li>ClubSnacks (Gave <img alt="Ticket" height="25" src="img/Ticket.png" width="25"/>5 <strong class="mw-selflink selflink"><span class="color-template color-template-ticket color-template-background-clip">Tickets</span></strong> + other stuff).</li>
-<li>RoyalRobzi (Gave <img alt="Ticket" height="25" src="img/Ticket.png" width="25"/>5 <strong class="mw-selflink selflink"><span class="color-template color-template-ticket color-template-background-clip">Tickets</span></strong> + other stuff).</li>
-<li>PuppyPerk (Gave <img alt="Ticket" height="25" src="img/Ticket.png" width="25"/>5 <strong class="mw-selflink selflink"><span class="color-template color-template-ticket color-template-background-clip">Tickets</span></strong> + other stuff)</li>
-<li>RobziRobot (Gave <img alt="Ticket" height="25" src="img/Ticket.png" width="25"/>3 <strong class="mw-selflink selflink"><span class="color-template color-template-ticket color-template-background-clip">Tickets</span></strong> + other stuff).</li>
-<li>Berlin (Gave <img alt="Ticket" height="25" src="img/Ticket.png" width="25"/>5 <strong class="mw-selflink selflink"><span class="color-template color-template-ticket color-template-background-clip">Tickets</span></strong> + other stuff).</li>
-<li>TrickOrTreat (Gave <img alt="Ticket" height="25" src="img/Ticket.png" width="25"/>5 <strong class="mw-selflink selflink"><span class="color-template color-template-ticket color-template-background-clip">Tickets</span></strong> + other stuff).</li>
-<li>1mFavorites (Gave <img alt="Ticket" height="25" src="img/Ticket.png" width="25"/>5 <strong class="mw-selflink selflink"><span class="color-template color-template-ticket color-template-background-clip">Tickets</span></strong> + other stuff).</li>
-<li>ClubParty (Gave <img alt="Ticket" height="25" src="img/Ticket.png" width="25"/>3 <strong class="mw-selflink selflink"><span class="color-template color-template-ticket color-template-background-clip">Tickets</span></strong> + other stuff).</li>
-<li>MoonMiracle (Gave <img alt="Ticket" height="25" src="img/Ticket.png" width="25"/>3 <strong class="mw-selflink selflink"><span class="color-template color-template-ticket color-template-background-clip">Tickets</span></strong> + other stuff).</li>
-<li>ByeBeeBear (Gave <img alt="Ticket" height="25" src="img/Ticket.png" width="25"/>10 <strong class="mw-selflink selflink"><span class="color-template color-template-ticket color-template-background-clip">Tickets</span></strong> + other stuff).</li>
-<li>BloxyBoost (Gave <img alt="Ticket" height="25" src="img/Ticket.png" width="25"/>5 <strong class="mw-selflink selflink"><span class="color-template color-template-ticket color-template-background-clip">Tickets</span></strong> + other stuff).</li>
-<li>BloxyCelebration (Gave <img alt="Ticket" height="25" src="img/Ticket.png" width="25"/>5 <strong class="mw-selflink selflink"><span class="color-template color-template-ticket color-template-background-clip">Tickets</span></strong> + other stuff).</li>
-<li>Discord100k (Gave <img alt="Ticket" height="25" src="img/Ticket.png" width="25"/>3 <strong class="mw-selflink selflink"><span class="color-template color-template-ticket color-template-background-clip">Tickets</span></strong> + other stuff).</li>
-<li>FourYearFiesta (Gave <img alt="Ticket" height="25" src="img/Ticket.png" width="25"/>4 <strong class="mw-selflink selflink"><span class="color-template color-template-ticket color-template-background-clip">Tickets</span></strong> + other stuff).</li>
-<li>5Years (Gave <img alt="Ticket" height="25" src="img/Ticket.png" width="25"/>5 <strong class="mw-selflink selflink"><span class="color-template color-template-ticket color-template-background-clip">Tickets</span></strong> + other stuff).</li>
-<li>1MLikes (Gave <img alt="Ticket" height="25" src="img/Ticket.png" width="25"/>1 <strong class="mw-selflink selflink"><span class="color-template color-template-ticket color-template-background-clip">Ticket</span></strong> + other stuff).</li>
-<li>DarzethDoodads (Gave <img alt="Ticket" height="25" src="img/Ticket.png" width="25"/>3 <strong class="mw-selflink selflink"><span class="color-template color-template-ticket color-template-background-clip">Tickets</span></strong> + other stuff).</li>
-<li>Cog (Gave <img alt="Ticket" height="25" src="img/Ticket.png" width="25"/>5 <strong class="mw-selflink selflink"><span class="color-template color-template-ticket color-template-background-clip">Tickets</span></strong>).</li>
-<li>Wink (Gave <img alt="Ticket" height="25" src="img/Ticket.png" width="25"/>5 <strong class="mw-selflink selflink"><span class="color-template color-template-ticket color-template-background-clip">Tickets</span></strong> + other stuff).</li></ul></li></ul>
-</td></tr></tbody></table>
 
 ## Uses
 
@@ -251,7 +188,7 @@ Ticket
 </th>
 <th class="NavCategory">Quest Exclusive
 </th>
-<td class="NavLinks NavLinksBasicEven"><b><img alt="Translator" height="35" src="img/Translator.png" width="35"/> <a href="translator.html">Translator</a> • <img alt="Spirit Petal" height="35" src="img/Spirit_Petal.png" width="35"/> <a href="spirit-petal.html">Spirit Petal</a> • <img alt="Debug Wax" height="35" src="img/Debug_Wax.png" width="35"/> <a href="debug-wax.html">Debug Wax</a> • <img alt="Nectar Tester" height="35" src="img/Nectar_Tester.png" width="35"/> <a href="nectar-tester.html">Nectar Tester</a></b> • <span typeof="mw:Error mw:File"></span> <a href="bbm-s-apology.html">BBM's Apology</a><b></b>
+<td class="NavLinks NavLinksBasicEven"><b><img alt="Translator" height="35" src="img/Translator.png" width="35"/> <a href="translator.html">Translator</a> • <img alt="Spirit Petal" height="35" src="img/Spirit_Petal.png" width="35"/> <a href="spirit-petal.html">Spirit Petal</a> • <img alt="Debug Wax" height="35" src="img/Debug_Wax.png" width="35"/> <a href="debug-wax.html">Debug Wax</a> • <img alt="Nectar Tester" height="35" src="img/Nectar_Tester.png" width="35"/> <a href="nectar-tester.html">Nectar Tester</a></b><b></b>
 </td></tr>
 <tr>
 <th class="NavCategory">Beesmas

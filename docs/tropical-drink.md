@@ -15,7 +15,7 @@ COOLDOWN
 
 10 minutes
 
-**Tropical Drink** is a craftable inventory item added in the [2019-09-28 update](updates.md#2019-09-28). When used, it grants following buffs for 10 minutes:
+**Tropical Drink** is a craftable inventory item added in the 2019-09-28 update. When used, it grants following buffs for 10 minutes:
 
 * x1.25 [White Pollen](system-page.md#White_Pollen)
 * +5% [Critical Chance](system-page.md#Critical_Chance)
@@ -47,27 +47,6 @@ It can also be used as a material to craft certain items. Using a [Super Smoothi
 * As a very rare [Cub Buddy](cub-buddy.md) gift.
 * As a drop from fully-grown [planters](planter.md) harvested on [Coconut Field](coconut-field.md).
 * As a very rare drop from [leaves](leaves.md) in the [Coconut Field](coconut-field.md).
-
-### Outdated Ways
-
-<table class="mw-collapsible mw-collapsed article-table">
-<caption>
-</caption>
-<tbody><tr>
-<td>
-<ul><li>By purchasing certain bundles from <a href="bee-bear-s-catalog.html">Bee Bear's Catalog</a>:
-<ul><li>Kazoo Bundle gave 10 Tropical Drinks and other stuff.</li>
-<li>Tropical Bundle gave 25 Tropical Drinks and other stuff.</li></ul></li>
-<li>Completing <a href="honey-bee-npc.html">Honey Bee's (NPC)</a> Beesmas 2022 quests gives 9 Tropical Drinks.</li>
-<li>By purchasing certain packs in the <a href="robux-shop.html">Robux Shop</a>.
-<ul><li>Purchasing the Star Treat Special for 1700 robux gave 100 Tropical Drinks and other stuff.</li>
-<li>Purchasing the Merry Mutations Pack gave for 1700 robux gave 50 Tropical Drinks and other stuff.</li>
-<li>Purchasing the Wavy Doodle Hive Bundle for 1700 robux gave 50 Tropical Drinks and other stuff.</li></ul></li>
-<li>Redeeming certain expired <a href="codes.html">codes</a>:
-<ul><li>Using the code "2YearsAfterParty" (granted the buff and other stuff).</li>
-<li>Using the code "PineappleParty" (gave 1 Tropical Drink and other stuff).</li>
-<li>Using the code "Strawbeary" (gave 1 Tropical Drink and other stuff).</li></ul></li></ul>
-</td></tr></tbody></table>
 
 ## Crafting Uses
 
@@ -205,7 +184,7 @@ Total required for all single-purchase items: 1,850 **Tropical Drinks**
 </th>
 <th class="NavCategory">Quest Exclusive
 </th>
-<td class="NavLinks NavLinksBasicEven"><b><img alt="Translator" height="35" src="img/Translator.png" width="35"/> <a href="translator.html">Translator</a> • <img alt="Spirit Petal" height="35" src="img/Spirit_Petal.png" width="35"/> <a href="spirit-petal.html">Spirit Petal</a> • <img alt="Debug Wax" height="35" src="img/Debug_Wax.png" width="35"/> <a href="debug-wax.html">Debug Wax</a> • <img alt="Nectar Tester" height="35" src="img/Nectar_Tester.png" width="35"/> <a href="nectar-tester.html">Nectar Tester</a></b> • <span typeof="mw:Error mw:File"></span> <a href="bbm-s-apology.html">BBM's Apology</a><b></b>
+<td class="NavLinks NavLinksBasicEven"><b><img alt="Translator" height="35" src="img/Translator.png" width="35"/> <a href="translator.html">Translator</a> • <img alt="Spirit Petal" height="35" src="img/Spirit_Petal.png" width="35"/> <a href="spirit-petal.html">Spirit Petal</a> • <img alt="Debug Wax" height="35" src="img/Debug_Wax.png" width="35"/> <a href="debug-wax.html">Debug Wax</a> • <img alt="Nectar Tester" height="35" src="img/Nectar_Tester.png" width="35"/> <a href="nectar-tester.html">Nectar Tester</a></b><b></b>
 </td></tr>
 <tr>
 <th class="NavCategory">Beesmas

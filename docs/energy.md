@@ -15,7 +15,7 @@ When a bee runs out of energy, a message will appear, stating,
 ## Trivia
 
 * The bees with the highest finite energy are the [Lion Bee](lion-bee.md) and [Buoyant Bee](buoyant-bee.md).
-* There was a [glitch](glitches.md) where the energy of a bee would go to an absurd amount if the player used a [Royal Jelly](royal-jelly.md) on an Exhausted Bee or Photon Bee.
+* There was a glitch where the energy of a bee would go to an absurd amount if the player used a [Royal Jelly](royal-jelly.md) on an Exhausted Bee or Photon Bee.
 * There was glitch where dying twice in quick succession caused the player's bees to go to sleep and recover energy, instead of just the 30 second cooldown after death. This included Photon Bee and Exhausted bee, likely due to them not actually having "infinite" energy. This has been patched.
   * Exhausted Bee's base energy is set to 999,999,999,999.
   * Photon Bee's base energy is set to 999,999,999,999,999.

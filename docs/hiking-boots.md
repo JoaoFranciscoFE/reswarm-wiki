@@ -26,7 +26,7 @@ tags: ["Items", "Accessories", "Boots", "Crafted"]
 </div>
 </aside>
 
-The **Hiking Boots** are a pair of boots that were added in the [2018-09-10 update](updates.md#2018-09-10). They can be bought from the [Pro Shop](pro-shop.md).
+The **Hiking Boots** are a pair of boots that were added in the 2018-09-10 update. They can be bought from the [Pro Shop](pro-shop.md).
 
 <table class="article-table">
 <tbody><tr>
@@ -55,7 +55,7 @@ The **Hiking Boots** are a pair of boots that were added in the [2018-09-10 upda
 * These are the second most expensive item in the Pro Shop in terms of honey, only behind the [Propeller Hat](propeller-hat.md).
 * These along with the Propeller Hat are required in order to access [Dapper Bear's Shop](dapper-bear-s-shop.md).
 * These could have been obtained from [Sun Bear](sun-bear.md) after completing his tenth quest before he left on 2018-10-08.
-* Before the [2018-11-25 update](updates.md#2018-11-25), this item, [Basic Boots](basic-boots.md), and the [Beekeeper's Boots](beekeeper-s-boots.md) didn't require any crafting materials.
+* Before the 2018-11-25 update, this item, [Basic Boots](basic-boots.md), and the [Beekeeper's Boots](beekeeper-s-boots.md) didn't require any crafting materials.
 * Unlike the [Gummy Boots](gummy-boots.md) and [Coconut Clogs](coconut-clogs.md), these, along with the Basic Boots and Beekeeper's Boots, were obtainable by quests.
 
 <table class="mw-collapsible autocollapse" style="margin:auto; background:#000; font-size: 10pt; border:5px solid #56CB5A; width: 100%; border-radius: 20px; -moz-border-radius: 20px; -webkit-border-radius: 20px; -khtml-border-radius: 20px; -icab-border-radius: 20px; -o-border-radius: 20px;">
@@ -119,7 +119,7 @@ The **Hiking Boots** are a pair of boots that were added in the [2018-09-10 upda
 </th>
 <th class="NavCategory">Quest Exclusive
 </th>
-<td class="NavLinks NavLinksBasicEven"><b><img alt="Translator" height="35" src="img/Translator.png" width="35"/> <a href="translator.html">Translator</a> • <img alt="Spirit Petal" height="35" src="img/Spirit_Petal.png" width="35"/> <a href="spirit-petal.html">Spirit Petal</a> • <img alt="Debug Wax" height="35" src="img/Debug_Wax.png" width="35"/> <a href="debug-wax.html">Debug Wax</a> • <img alt="Nectar Tester" height="35" src="img/Nectar_Tester.png" width="35"/> <a href="nectar-tester.html">Nectar Tester</a></b> • <span typeof="mw:Error mw:File"></span> <a href="bbm-s-apology.html">BBM's Apology</a><b></b>
+<td class="NavLinks NavLinksBasicEven"><b><img alt="Translator" height="35" src="img/Translator.png" width="35"/> <a href="translator.html">Translator</a> • <img alt="Spirit Petal" height="35" src="img/Spirit_Petal.png" width="35"/> <a href="spirit-petal.html">Spirit Petal</a> • <img alt="Debug Wax" height="35" src="img/Debug_Wax.png" width="35"/> <a href="debug-wax.html">Debug Wax</a> • <img alt="Nectar Tester" height="35" src="img/Nectar_Tester.png" width="35"/> <a href="nectar-tester.html">Nectar Tester</a></b><b></b>
 </td></tr>
 <tr>
 <th class="NavCategory">Beesmas

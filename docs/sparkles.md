@@ -13,15 +13,13 @@ The largest plants in the [Sunflower Field](sunflower-field.md), [Pineapple Patc
 
 ## Faces
 
-
-
 ## Trivia
 
-* In the [2018-07-11 update](updates.md#2018-07-11), the change to the size of the Clover Field was not taken into account, so the [Bubble Wand](bubble-wand.md) model on the Blue HQ could sometimes produce sparkles in the area where there are no flowers.
-* Prior to the [2019-09-28 update](updates.md#2019-09-28), sparkles covered 4 flowers instead of 13.
-* In the [2018-09-10 update](updates.md#2018-09-10), the chances of sparkles being created were doubled.
+* In the 2018-07-11 update, the change to the size of the Clover Field was not taken into account, so the [Bubble Wand](bubble-wand.md) model on the Blue HQ could sometimes produce sparkles in the area where there are no flowers.
+* Prior to the 2019-09-28 update, sparkles covered 4 flowers instead of 13.
+* In the 2018-09-10 update, the chances of sparkles being created were doubled.
 * The Bubble Wand model on the Blue HQ can leave sparkles right under the largest mushroom in the Mushroom Field, making it difficult to collect the rewards.
-* Sparkles used to be called "spit" by the community, which came from the various faces looking like they were spitting on the field. [Onett](onett-developer.md) later on named this effect "sparkles" like it is today.
+* Sparkles used to be called "spit" by the community, which came from the various faces looking like they were spitting on the field. Onett later on named this effect "sparkles" like it is today.
 
   
 

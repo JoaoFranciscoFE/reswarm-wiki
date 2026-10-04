@@ -21,7 +21,7 @@ Datamined information: The formula for the amount of Honey received based on the
 </div>
 <div class="pi-item pi-data pi-item-spacing pi-border-color" data-source="requirement">
 <h3 class="pi-data-label pi-secondary-font">Requirement(s)</h3>
-<div class="pi-data-value pi-font">Membership in the <a href="bee-swarm-simulator-club.html">Bee Swarm Simulator Club</a> group</div>
+<div class="pi-data-value pi-font">Membership in the Bee Swarm Simulator Club group</div>
 </div>
 <div class="pi-item pi-data pi-item-spacing pi-border-color" data-source="cooldown">
 <h3 class="pi-data-label pi-secondary-font">Cooldown</h3>
@@ -34,7 +34,7 @@ Datamined information: The formula for the amount of Honey received based on the
 </section>
 </aside>
 
-The **Honey Dispenser** is a dispenser that grants [Honey](honey.md) and x5 [haste](ability-tokens.md#Haste) every time it's used. It has a 1-hour cooldown and requires the player to be in the [Bee Swarm Simulator Club](https://www.roblox.com/groups/3982592/Bee-Swarm-Simulator-Club#!/about) in order to be used by the player. It initially gave 5x haste and 500 [Honey](honey.md), but after the [2018-04-27 update](updates.md#2018-04-27), the amount was changed to 100 [Honey](honey.md) per bee in the player's [hive](hive.md) and x5 haste. Since then, the amount of [Honey](honey.md) was changed again.
+The **Honey Dispenser** is a dispenser that grants [Honey](honey.md) and x5 [haste](ability-tokens.md#Haste) every time it's used. It has a 1-hour cooldown and requires the player to be in the [Bee Swarm Simulator Club](https://www.roblox.com/groups/3982592/Bee-Swarm-Simulator-Club#!/about) in order to be used by the player. It initially gave 5x haste and 500 [Honey](honey.md), but after the 2018-04-27 update, the amount was changed to 100 [Honey](honey.md) per bee in the player's [hive](hive.md) and x5 haste. Since then, the amount of [Honey](honey.md) was changed again.
 
 It is one of the four club dispensers in the game. However, it is the first one to be accessed.
 
@@ -335,6 +335,6 @@ Below is a table of the amount of honey and treats a player receives, given the 
 <tr>
 <th class="NavCategory">Event<br/>Locations
 </th>
-<td class="NavLinks NavLinksBasicEven"><b><a href="beesmas-tree.html">Beesmas Tree</a> • <a href="ornament-presents.html">Ornament Presents</a> • <span class="new" data-uncrawlable-url="L3dpa2kvQ29tcHV0ZXI/YWN0aW9uPWVkaXQmcmVkbGluaz0x" title="Computer (page does not exist)">Computer</span> • <a href="gift-boxes.html">Gift Boxes</a> • <a href="honey-wreath.html">Honey Wreath</a> • <a href="stockings.html">Stockings</a> • <a href="gingerbread-house.html">Gingerbread House</a> • <a href="snowbear-summoner.html">Snowbear Summoner</a> • <a href="beesmas-lights.html">Beesmas Lights</a> • <a href="samovar.html">Samovar</a> • <a href="beesmas-feast.html">Beesmas Feast</a> • <a href="onett-s-lid-art.html">Onett's Lid Art</a> • <a href="wind-shrine.html#Galentine_Shrine">Galentine Shrine</a> • <a href="memory-match.html#Winter_Memory_Match">Winter Memory Match</a> • <a href="snow-machine.html">Snow Machine</a> • <a href="honeyday-candles.html">Honeyday Candles</a> • <a href="robo-party-cake.html">Robo Party Cake</a> • <a href="gummy-beacon.html">Gummy Beacon</a> • <a href="naughty-list.html">Naughty List</a></b>
+<td class="NavLinks NavLinksBasicEven"><b><a href="beesmas-tree.html">Beesmas Tree</a> • <span class="new" data-uncrawlable-url="L3dpa2kvQ29tcHV0ZXI/YWN0aW9uPWVkaXQmcmVkbGluaz0x" title="Computer (page does not exist)">Computer</span> • <a href="gift-boxes.html">Gift Boxes</a> • <a href="honey-wreath.html">Honey Wreath</a> • <a href="stockings.html">Stockings</a> • <a href="gingerbread-house.html">Gingerbread House</a> • <a href="snowbear-summoner.html">Snowbear Summoner</a> • <a href="beesmas-lights.html">Beesmas Lights</a> • <a href="samovar.html">Samovar</a> • <a href="beesmas-feast.html">Beesmas Feast</a> • <a href="onett-s-lid-art.html">Onett's Lid Art</a> • <a href="wind-shrine.html#Galentine_Shrine">Galentine Shrine</a> • <a href="memory-match.html#Winter_Memory_Match">Winter Memory Match</a> • <a href="snow-machine.html">Snow Machine</a> • <a href="honeyday-candles.html">Honeyday Candles</a> • <a href="robo-party-cake.html">Robo Party Cake</a> • <a href="gummy-beacon.html">Gummy Beacon</a> • <a href="naughty-list.html">Naughty List</a></b>
 </td></tr></tbody></table>
 

@@ -19,7 +19,7 @@ CAP
 
 500
 
-A **Coconut** is an inventory item that was added in the [2019-09-28 update](updates.md#2019-09-28). It will spawn a large, green circle on the [field](fields.md) you used it on. If caught, it will convert [pollen](pollen.md) into a ring of 10 [honey](honey.md) tokens. It can also collect pollen for the player that summoned it, damage [mobs](mobs.md), and can be used in certain crafting recipes.
+A **Coconut** is an inventory item that was added in the 2019-09-28 update. It will spawn a large, green circle on the [field](fields.md) you used it on. If caught, it will convert [pollen](pollen.md) into a ring of 10 [honey](honey.md) tokens. It can also collect pollen for the player that summoned it, damage [mobs](mobs.md), and can be used in certain crafting recipes.
 
 Pollen from coconuts can be increased with the [Coconut Clogs](coconut-clogs.md), [pollination](pollination.md), and the [Coconut Field Market Boost](boost-market.md) (now impossible to obtain as the Boost Market has been removed).
 
@@ -46,26 +46,6 @@ The following audio plays when a coconut hits a field:
 * As a drop from [puffshrooms](puffshroom.md) within the 35 bee zone.
 * Purchasing the Reindeer Bundle from [Bee Bear's Catalog](bee-bear-s-catalog.md) for 250 [Gingerbread Bears](gingerbread-bear.md) grants 100 **Coconuts** and other items.
 * The Palm Tree [sticker](sticker.md) rewards 10 **Coconuts** when added to the [Sticker Stack](sticker-stack.md).
-
-### Outdated Ways
-
-<table class="mw-collapsible mw-collapsed article-table">
-<caption>
-</caption>
-<tbody><tr>
-<td>
-<ul><li>Purchasing certain packs from the <a href="robux-shop.html">Robux Shop</a>:
-<ul><li>The Gooey Goodies Pack granted <img alt="Coconut" height="25" src="img/Coconut.png" width="25"/>100 <strong class="mw-selflink selflink"><span class="color-template color-template-coconut color-template-background-clip">Coconuts</span></strong> and other items.</li>
-<li>The Stocking Stuffer Pack granted <img alt="Coconut" height="25" src="img/Coconut.png" width="25"/>25 <strong class="mw-selflink selflink"><span class="color-template color-template-coconut color-template-background-clip">Coconuts</span></strong> and other items.</li></ul></li>
-<li>Opening the <a href="ornament-presents.html">Funky Present</a> rewarded <img alt="Coconut" height="25" src="img/Coconut.png" width="25"/>20 <strong class="mw-selflink selflink"><span class="color-template color-template-coconut color-template-background-clip">Coconuts</span></strong> and other items.</li>
-<li>Purchasing certain bundles from Bee Bear's Catalog.
-<ul><li>The Percussive Bundle from Summer 2024 granted <img alt="Coconut" height="25" src="img/Coconut.png" width="25"/>25 <strong class="mw-selflink selflink"><span class="color-template color-template-coconut color-template-background-clip">Coconuts</span></strong> and other items.</li>
-<li>The Tropical Bundle from Summer 2024 granted <img alt="Coconut" height="25" src="img/Coconut.png" width="25"/>250 <strong class="mw-selflink selflink"><span class="color-template color-template-coconut color-template-background-clip">Coconuts</span></strong> and other items.</li>
-<li>The Island Bundle from Winter 2024 granted <img alt="Coconut" height="25" src="img/Coconut.png" width="25"/>250 <strong class="mw-selflink selflink"><span class="color-template color-template-coconut color-template-background-clip">Coconuts</span></strong> and other items.</li></ul></li>
-<li>Completing <a href="panda-bear.html">Panda Bear</a>'s Beesmas 2020 Quest rewarded <img alt="Coconut" height="25" src="img/Coconut.png" width="25"/>5 <strong class="mw-selflink selflink"><span class="color-template color-template-coconut color-template-background-clip">Coconuts</span></strong> and other items.</li>
-<li>Redeeming certain expired <a href="codes.html">codes</a>:
-<ul><li>Mocito100T (Gave <img alt="Coconut" height="25" src="img/Coconut.png" width="25"/>10 <strong class="mw-selflink selflink"><span class="color-template color-template-coconut color-template-background-clip">Coconuts</span></strong> + other items).</li></ul></li></ul>
-</td></tr></tbody></table>
 
 ## Conversion
 
@@ -201,7 +181,7 @@ Total required for all single-purchase items: 900 **Coconuts**
 </th>
 <th class="NavCategory">Quest Exclusive
 </th>
-<td class="NavLinks NavLinksBasicEven"><b><img alt="Translator" height="35" src="img/Translator.png" width="35"/> <a href="translator.html">Translator</a> • <img alt="Spirit Petal" height="35" src="img/Spirit_Petal.png" width="35"/> <a href="spirit-petal.html">Spirit Petal</a> • <img alt="Debug Wax" height="35" src="img/Debug_Wax.png" width="35"/> <a href="debug-wax.html">Debug Wax</a> • <img alt="Nectar Tester" height="35" src="img/Nectar_Tester.png" width="35"/> <a href="nectar-tester.html">Nectar Tester</a></b> • <span typeof="mw:Error mw:File"></span> <a href="bbm-s-apology.html">BBM's Apology</a><b></b>
+<td class="NavLinks NavLinksBasicEven"><b><img alt="Translator" height="35" src="img/Translator.png" width="35"/> <a href="translator.html">Translator</a> • <img alt="Spirit Petal" height="35" src="img/Spirit_Petal.png" width="35"/> <a href="spirit-petal.html">Spirit Petal</a> • <img alt="Debug Wax" height="35" src="img/Debug_Wax.png" width="35"/> <a href="debug-wax.html">Debug Wax</a> • <img alt="Nectar Tester" height="35" src="img/Nectar_Tester.png" width="35"/> <a href="nectar-tester.html">Nectar Tester</a></b><b></b>
 </td></tr>
 <tr>
 <th class="NavCategory">Beesmas

@@ -5,7 +5,7 @@ tags: ["Inventory", "Items", "Waxes", "Consumables"]
 
 # Waxes
 
-**Waxes** are Inventory Items that were added in the [2021-12-26](updates.md#2021-12-26) Update. They are used by players to modify the stats and abilities of [Beequips](beequip.md). There are currently 4 different Waxes, and each Wax can affect a Beequip differently. The player can only use up to 5 Waxes on a Beequip, so if the Player would like to use more Waxes on a Beequip, they must use a [Turpentine](turpentine.md) on the Beequip to remove the waxes. Doing this will change the stats back to the original ones the Beequip had. Waxes can also be used to craft [Planters](planter.md), [Tools](tools.md), and better waxes in the [Blender](blender.md).
+**Waxes** are Inventory Items that were added in the 2021-12-26 Update. They are used by players to modify the stats and abilities of [Beequips](beequip.md). There are currently 4 different Waxes, and each Wax can affect a Beequip differently. The player can only use up to 5 Waxes on a Beequip, so if the Player would like to use more Waxes on a Beequip, they must use a [Turpentine](turpentine.md) on the Beequip to remove the waxes. Doing this will change the stats back to the original ones the Beequip had. Waxes can also be used to craft [Planters](planter.md), [Tools](tools.md), and better waxes in the [Blender](blender.md).
 
 ## Wax Types
 
@@ -101,7 +101,7 @@ Re://:Swarm also adds **[Fluxite Wax](fluxite-wax.md)**, which rerolls a Beequip
 </th>
 <th class="NavCategory">Quest Exclusive
 </th>
-<td class="NavLinks NavLinksBasicEven"><b><img alt="Translator" height="35" src="img/Translator.png" width="35"/> <a href="translator.html">Translator</a> • <img alt="Spirit Petal" height="35" src="img/Spirit_Petal.png" width="35"/> <a href="spirit-petal.html">Spirit Petal</a> • <img alt="Debug Wax" height="35" src="img/Debug_Wax.png" width="35"/> <a href="debug-wax.html">Debug Wax</a> • <img alt="Nectar Tester" height="35" src="img/Nectar_Tester.png" width="35"/> <a href="nectar-tester.html">Nectar Tester</a></b> • <span typeof="mw:Error mw:File"></span> <a href="bbm-s-apology.html">BBM's Apology</a><b></b>
+<td class="NavLinks NavLinksBasicEven"><b><img alt="Translator" height="35" src="img/Translator.png" width="35"/> <a href="translator.html">Translator</a> • <img alt="Spirit Petal" height="35" src="img/Spirit_Petal.png" width="35"/> <a href="spirit-petal.html">Spirit Petal</a> • <img alt="Debug Wax" height="35" src="img/Debug_Wax.png" width="35"/> <a href="debug-wax.html">Debug Wax</a> • <img alt="Nectar Tester" height="35" src="img/Nectar_Tester.png" width="35"/> <a href="nectar-tester.html">Nectar Tester</a></b><b></b>
 </td></tr>
 <tr>
 <th class="NavCategory">Beesmas

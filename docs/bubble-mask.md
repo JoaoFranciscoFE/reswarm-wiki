@@ -58,7 +58,7 @@ The **Bubble Mask** is a hat accessory that can be bought at the [Blue HQ](blue-
 
 * This, the [Fire Mask](fire-mask.md), [Honey Mask](honey-mask.md), [Riley Guard](riley-guard.md) and [Bucko Guard](bucko-guard.md) all represent [epic bees](bees-epic.md).
 * The Bubble Mask represents the [Bubble Bee](bubble-bee.md), having an ability similar to it.
-* Before the [2019-04-05 Update](updates.md#2019-04-05), the Bubble Mask's stats were:
+* Before the 2019-04-05 Update, the Bubble Mask's stats were:
   * +25% [Bee Gather Pollen](system-page.md#Bee_Gather_Pollen)
   * +25% [Instant Conversion](system-page.md#Instant_Conversion)
   * +30% Damage Reduction
@@ -66,7 +66,7 @@ The **Bubble Mask** is a hat accessory that can be bought at the [Blue HQ](blue-
   * +115% Luck ([Loot Luck](system-page.md#Loot_Luck))
   * +25% [Blue Bomb Pollen](system-page.md#Blue_Bomb_Pollen)
   * x1.15 [Blue Pollen](system-page.md#Blue_Pollen).
-* Before the [2019-09-28 Update](updates.md#2019-09-28), the Bubble Mask didn't have any [Passive Ability](passive-abilities.md). Other stats were also changed.
+* Before the 2019-09-28 Update, the Bubble Mask didn't have any [Passive Ability](passive-abilities.md). Other stats were also changed.
   * If the player owns the Bubble Mask, its passive is inherited by the [Diamond Mask](diamond-mask.md).
 * If a player were to craft the ingredients to craft the item, it would take 100,000,000 [Honey](honey.md), 7,500 [Pineapples](pineapple.md), 8,625 [Blueberries](blueberry.md), 5,625 [Strawberries](strawberry.md), 1,250 [Sunflower Seeds](sunflower-seed.md), 15 [Magic Beans](magic-bean.md), and 1,125 [Royal Jellies](royal-jelly.md).
 * The Bubbles from its Bubble Bombs passive have a unique sound effect when popped.
@@ -132,7 +132,7 @@ The **Bubble Mask** is a hat accessory that can be bought at the [Blue HQ](blue-
 </th>
 <th class="NavCategory">Quest Exclusive
 </th>
-<td class="NavLinks NavLinksBasicEven"><b><img alt="Translator" height="35" src="img/Translator.png" width="35"/> <a href="translator.html">Translator</a> • <img alt="Spirit Petal" height="35" src="img/Spirit_Petal.png" width="35"/> <a href="spirit-petal.html">Spirit Petal</a> • <img alt="Debug Wax" height="35" src="img/Debug_Wax.png" width="35"/> <a href="debug-wax.html">Debug Wax</a> • <img alt="Nectar Tester" height="35" src="img/Nectar_Tester.png" width="35"/> <a href="nectar-tester.html">Nectar Tester</a></b> • <span typeof="mw:Error mw:File"></span> <a href="bbm-s-apology.html">BBM's Apology</a><b></b>
+<td class="NavLinks NavLinksBasicEven"><b><img alt="Translator" height="35" src="img/Translator.png" width="35"/> <a href="translator.html">Translator</a> • <img alt="Spirit Petal" height="35" src="img/Spirit_Petal.png" width="35"/> <a href="spirit-petal.html">Spirit Petal</a> • <img alt="Debug Wax" height="35" src="img/Debug_Wax.png" width="35"/> <a href="debug-wax.html">Debug Wax</a> • <img alt="Nectar Tester" height="35" src="img/Nectar_Tester.png" width="35"/> <a href="nectar-tester.html">Nectar Tester</a></b><b></b>
 </td></tr>
 <tr>
 <th class="NavCategory">Beesmas

@@ -19,7 +19,7 @@ CAP
 
 15
 
-The **Micro-Converter** is an inventory item added in the [2019-04-05 update](updates.md#2019-04-05). When used, it instantly converts all [pollen](pollen.md) in the player's [bag](bags.md) into [honey](honey.md). It acts as an [Instant Converter](instant-converter.md) without the need for [tickets](ticket.md) and the journey to the hive, a significantly shorter cooldown, and is portable.
+The **Micro-Converter** is an inventory item added in the 2019-04-05 update. When used, it instantly converts all [pollen](pollen.md) in the player's [bag](bags.md) into [honey](honey.md). It acts as an [Instant Converter](instant-converter.md) without the need for [tickets](ticket.md) and the journey to the hive, a significantly shorter cooldown, and is portable.
 
 The amount of honey the player receives from a micro-converter is not affected by their [Convert Rate](system-page.md#Convert_Rate), although it is affected by [Honey Per Pollen](system-page.md#Honey_Per_Pollen).
 
@@ -53,47 +53,6 @@ The following audio plays when a micro-converter is used:
   * The Spark Staff rewards 3 micro-converters.
   * The Cub Buddy Voucher rewards 3 micro-converters.
 
-### Outdated Ways
-
-<table class="mw-collapsible mw-collapsed article-table">
-<caption>
-</caption>
-<tbody><tr>
-<td>
-<ul><li>Completing certain Egg Hunt quests rewarded micro-converters and other items.</li>
-<li>Opening the Shady Present gave 24 micro-converters and other items.</li>
-<li>Purchasing the Booster Bundle in <a href="bee-bear-s-catalog.html">Bee Bear's Catalog</a> for 33 <a href="snowflake.html">Snowflakes</a> and 3 <a href="gingerbread-bear.html">Gingerbread Bears</a> gave 5 micro-converters and other items.</li>
-<li>Purchasing the Robotic Bundle in Bee Bear's Catalog for <img alt="Snowflake" height="25" src="img/Snowflake.png" width="25"/>2,500 <a href="snowflake.html"><span class="color-template color-template-snowflake color-template-background-clip">Snowflakes</span></a> and <img alt="Gingerbread Bear" height="25" src="img/Gingerbread_Bear.png" width="25"/>50 <a href="gingerbread-bear.html"><span class="color-template color-template-gingerbread-bear color-template-background-clip">Gingerbread Bears</span></a> gave 25 micro-converters and other items.</li>
-<li>The Vibrant Gift Box and the Charcoal Gift Box both granted micro-converters.</li>
-<li>Giving a present to Gifted Bucko Bee rewarded 5 micro-converters and other items.</li>
-<li>Completing <a href="honey-bee-npc.html">Honey Bee's (NPC)</a> Beesmas 2022 quest gave 9 Micro-Converters.</li>
-<li>Completing some of <a href="bee-bear.html">Bee Bear's</a> quests.</li>
-<li>Redeeming certain expired <a href="codes.html">codes</a>:
-<ul><li>WalmartToys (Gave 3 micro-converters + other stuff).</li>
-<li>ClubConverters (Gave 10 micro-converters).</li>
-<li>1MLikes (Gave 1 micro-converter + other stuff).</li>
-<li>PlushFriday (Gave 1 micro-converter + other stuff).</li>
-<li>ThnxCyasToyBox (Gave 1 micro-converter + other stuff).</li>
-<li>5Years (Gave 5 micro-converters + other stuff).</li>
-<li>4MilMembers (Gave 4 micro-converters + other stuff).</li>
-<li>FuzzyFarewell (Gave 3 micro-converters + other stuff).</li>
-<li>SpaceReboot (Gave 5 micro-converters + other stuff).</li>
-<li>BillionVisits (Gave 10 micro-converters + other stuff).</li>
-<li>NewMic (Gave 10 micro-converters + other stuff).</li>
-<li>WintersEnd (Gave 1 micro-converter + other stuff).</li>
-<li>3YearParty (Gave 5 micro-converters + other stuff).</li>
-<li>MondoOutage (Gave 3 micro-converters + other stuff).</li>
-<li>FourYearFiesta (Gave 4 micro-converters + other stuff).</li></ul></li>
-<li>Purchasing certain finished packs from the Robux Shop:
-<ul><li>Purchasing the Spikey Spring Basket pack gave 15 micro-converters and other items.</li>
-<li>Purchasing the Cyber Monday Deal gave 10 micro-converters and other items.</li></ul></li>
-<li>A token to the right of the Mythic Present (gave 3 Micro-Converters). (Beesmas 2019)</li>
-<li>As a drop from <a href="stockings.html">Stockings</a> during Beesmas 2020 and 2021.</li>
-<li>The <a href="gift-boxes.html">Peppermint Gift Box</a> gave 6 micro-converters and other items.</li>
-<li>Dropped when defeating <a href="festive-nymph.html">Festive Nymphs</a>.</li>
-<li>3 Located Infront of the <span class="new" data-uncrawlable-url="L3dpa2kvQ29tcHV0ZXI/YWN0aW9uPWVkaXQmcmVkbGluaz0x" title="Computer (page does not exist)">Computer</span></li></ul>
-</td></tr></tbody></table>
-
 ## Crafting Uses
 
 Total required for all single-purchase items: 10 **Micro-Converters**
@@ -124,7 +83,7 @@ Total required for all single-purchase items: 10 **Micro-Converters**
 ## Trivia
 
 * If the player tries to use a micro-converter without any [pollen](pollen.md) in their bag, a message will pop up saying "You need Pollen to use a Micro-Converter."
-* Since the [2019-09-28 update](updates.md#2019-09-28), the hotkey for this item (C), along with those of [stingers](stinger.md) and [gumdrops](gumdrops.md), have been removed.
+* Since the 2019-09-28 update, the hotkey for this item (C), along with those of [stingers](stinger.md) and [gumdrops](gumdrops.md), have been removed.
 
 <table class="mw-collapsible autocollapse" style="margin:auto; background:#000; font-size: 10pt; border:5px solid #56CB5A; width: 100%; border-radius: 20px; -moz-border-radius: 20px; -webkit-border-radius: 20px; -khtml-border-radius: 20px; -icab-border-radius: 20px; -o-border-radius: 20px;">
 <tbody><tr>
@@ -187,7 +146,7 @@ Total required for all single-purchase items: 10 **Micro-Converters**
 </th>
 <th class="NavCategory">Quest Exclusive
 </th>
-<td class="NavLinks NavLinksBasicEven"><b><img alt="Translator" height="35" src="img/Translator.png" width="35"/> <a href="translator.html">Translator</a> • <img alt="Spirit Petal" height="35" src="img/Spirit_Petal.png" width="35"/> <a href="spirit-petal.html">Spirit Petal</a> • <img alt="Debug Wax" height="35" src="img/Debug_Wax.png" width="35"/> <a href="debug-wax.html">Debug Wax</a> • <img alt="Nectar Tester" height="35" src="img/Nectar_Tester.png" width="35"/> <a href="nectar-tester.html">Nectar Tester</a></b> • <span typeof="mw:Error mw:File"></span> <a href="bbm-s-apology.html">BBM's Apology</a><b></b>
+<td class="NavLinks NavLinksBasicEven"><b><img alt="Translator" height="35" src="img/Translator.png" width="35"/> <a href="translator.html">Translator</a> • <img alt="Spirit Petal" height="35" src="img/Spirit_Petal.png" width="35"/> <a href="spirit-petal.html">Spirit Petal</a> • <img alt="Debug Wax" height="35" src="img/Debug_Wax.png" width="35"/> <a href="debug-wax.html">Debug Wax</a> • <img alt="Nectar Tester" height="35" src="img/Nectar_Tester.png" width="35"/> <a href="nectar-tester.html">Nectar Tester</a></b><b></b>
 </td></tr>
 <tr>
 <th class="NavCategory">Beesmas

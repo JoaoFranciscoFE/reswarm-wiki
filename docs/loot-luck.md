@@ -46,7 +46,7 @@ Each belt gives an amount of Loot Luck.
 
 ## Trivia
 
-* Before the [2019-04-05 update](updates.md#2019-04-05), Loot Luck was simply named Luck.
+* Before the 2019-04-05 update, Loot Luck was simply named Luck.
 * Loot Luck once affected [honey tokens](ability-tokens.md#Honey_Gift). However, this feature was removed due to there already being a [Honey From Tokens](system-page.md#Honey_From_Tokens) stat.
-* Before the [2019-09-28 update](updates.md#2019-09-28), the Clover Badge did not give any Loot Luck. This was a mistake, which was fixed after said update.
+* Before the 2019-09-28 update, the Clover Badge did not give any Loot Luck. This was a mistake, which was fixed after said update.
 * The [B.B.M. Mask](b-b-m-mask.md) used to grant +50% Loot Luck.

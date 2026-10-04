@@ -7,7 +7,7 @@ tags: ["Shops", "Locations", "Gummy Invasion", "Goo", "Machines"]
 
 <figure class="thumb" style="width: 250px" typeof="mw:File/Thumb">  <figcaption class="thumbcaption"> <p class="caption"><i>The design of the Gumdrop Shop.</i></p> </figcaption> </figure>
 
-The **Gumdrop Shop** is a [shop](shops.md) introduced in the [2018-05-26 update](updates.md#2018-05-26), located between the [Spider Field](spider-field.md) and the [Bamboo Field](bamboo-field.md). It can be used to purchase [gumdrops](gumdrops.md) with [tickets](ticket.md), in increments of 3, 30, and 300.
+The **Gumdrop Shop** is a [shop](shops.md) introduced in the 2018-05-26 update, located between the [Spider Field](spider-field.md) and the [Bamboo Field](bamboo-field.md). It can be used to purchase [gumdrops](gumdrops.md) with [tickets](ticket.md), in increments of 3, 30, and 300.
 
 It is decorated with a teal gumdrop on the top, a picture of the gumdrops item on the sides with a pink background, a teal base, and gray rims.
 
@@ -39,7 +39,7 @@ The description of the shop is: "Use while standing in a field to cover flowers 
 
 ## Trivia
 
-* The Gumdrop Shop was originally placed next to [Gummy Bear](gummy-bear.md) in the traveling bear section. Then, in the [2018-07-11 update](updates.md#2018-07-11), it was moved next to [Panda Bear](panda-bear.md), its current location.
+* The Gumdrop Shop was originally placed next to [Gummy Bear](gummy-bear.md) in the traveling bear section. Then, in the 2018-07-11 update, it was moved next to [Panda Bear](panda-bear.md), its current location.
 
 <table class="mw-collapsible mw-collapsed NavTable">
 <tbody><tr>
@@ -83,6 +83,6 @@ The description of the shop is: "Use while standing in a field to cover flowers 
 <tr>
 <th class="NavCategory">Event<br/>Locations
 </th>
-<td class="NavLinks NavLinksBasicEven"><b><a href="beesmas-tree.html">Beesmas Tree</a> • <a href="ornament-presents.html">Ornament Presents</a> • <span class="new" data-uncrawlable-url="L3dpa2kvQ29tcHV0ZXI/YWN0aW9uPWVkaXQmcmVkbGluaz0x" title="Computer (page does not exist)">Computer</span> • <a href="gift-boxes.html">Gift Boxes</a> • <a href="honey-wreath.html">Honey Wreath</a> • <a href="stockings.html">Stockings</a> • <a href="gingerbread-house.html">Gingerbread House</a> • <a href="snowbear-summoner.html">Snowbear Summoner</a> • <a href="beesmas-lights.html">Beesmas Lights</a> • <a href="samovar.html">Samovar</a> • <a href="beesmas-feast.html">Beesmas Feast</a> • <a href="onett-s-lid-art.html">Onett's Lid Art</a> • <a href="wind-shrine.html#Galentine_Shrine">Galentine Shrine</a> • <a href="memory-match.html#Winter_Memory_Match">Winter Memory Match</a> • <a href="snow-machine.html">Snow Machine</a> • <a href="honeyday-candles.html">Honeyday Candles</a> • <a href="robo-party-cake.html">Robo Party Cake</a> • <a href="gummy-beacon.html">Gummy Beacon</a> • <a href="naughty-list.html">Naughty List</a></b>
+<td class="NavLinks NavLinksBasicEven"><b><a href="beesmas-tree.html">Beesmas Tree</a> • <span class="new" data-uncrawlable-url="L3dpa2kvQ29tcHV0ZXI/YWN0aW9uPWVkaXQmcmVkbGluaz0x" title="Computer (page does not exist)">Computer</span> • <a href="gift-boxes.html">Gift Boxes</a> • <a href="honey-wreath.html">Honey Wreath</a> • <a href="stockings.html">Stockings</a> • <a href="gingerbread-house.html">Gingerbread House</a> • <a href="snowbear-summoner.html">Snowbear Summoner</a> • <a href="beesmas-lights.html">Beesmas Lights</a> • <a href="samovar.html">Samovar</a> • <a href="beesmas-feast.html">Beesmas Feast</a> • <a href="onett-s-lid-art.html">Onett's Lid Art</a> • <a href="wind-shrine.html#Galentine_Shrine">Galentine Shrine</a> • <a href="memory-match.html#Winter_Memory_Match">Winter Memory Match</a> • <a href="snow-machine.html">Snow Machine</a> • <a href="honeyday-candles.html">Honeyday Candles</a> • <a href="robo-party-cake.html">Robo Party Cake</a> • <a href="gummy-beacon.html">Gummy Beacon</a> • <a href="naughty-list.html">Naughty List</a></b>
 </td></tr></tbody></table>
 

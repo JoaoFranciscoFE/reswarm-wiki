@@ -2349,24 +2349,6 @@ Show/hide tables
 
 **There are currently no ways to obtain a **Snowglobe** without trading.**
 
-### Outdated Ways
-
-<table class="mw-collapsible mw-collapsed article-table">
-<caption>
-</caption>
-<tbody><tr>
-<td>
-<ul><li>Purchasing the Beequip bundle in Bee Bear's Catalog gives <img alt="Snowglobe" height="25" src="img/Snowglobe.png" width="25"/>1 <strong class="mw-selflink selflink"><span class="color-template color-template-snowglobe color-template-background-clip">Snowglobe</span></strong> for the cost of 75 snowflakes and 15 <a href="gingerbread-bear.html">gingerbread bears</a> + other items.</li>
-<li>Dropped upon defeating a level 10 <a href="snowbear.html">Snowbear</a>.</li>
-<li>Purchasing the Snowglobe bundle for 2000 snowflakes in Beesmas 2020.</li>
-<li>Buying the <a href="robux-shop.html">Snowey Starter Pack</a> for <span typeof="mw:Error mw:File"></span>400 <span class="color-template color-template-robux color-template-background-clip">Robux</span> gave <img alt="Snowglobe" height="25" src="img/Snowglobe.png" width="25"/>1 <strong class="mw-selflink selflink"><span class="color-template color-template-snowglobe color-template-background-clip">Snowglobe</span></strong> and other <a href="items.html">items</a>.</li>
-<li>By opening the <a href="gift-boxes.html">Lapis Gift Box</a>.</li>
-<li>As a reward for completing <a href="gifted-bucko-bee.html">Gifted Bucko Bee</a>'s Beesmas 2024 Quest.</li>
-<li>As a drop from the Glass <a href="gift-boxes.html">Gift Box</a>.</li>
-<li>As a drop from <a href="mondo-chick.html">Mondo Chick</a> (rare).</li>
-<li>By purchasing the Super Snowman Bundle from <a href="bee-bear-s-catalog.html">Bee Bear's Catalog</a>.</li></ul>
-</td></tr></tbody></table>
-
 ## Trivia
 
 * This is the one of three Beequips to give a unique ability.
@@ -2434,7 +2416,7 @@ Show/hide tables
 </th>
 <th class="NavCategory">Quest Exclusive
 </th>
-<td class="NavLinks NavLinksBasicEven"><b><img alt="Translator" height="35" src="img/Translator.png" width="35"/> <a href="translator.html">Translator</a> • <img alt="Spirit Petal" height="35" src="img/Spirit_Petal.png" width="35"/> <a href="spirit-petal.html">Spirit Petal</a> • <img alt="Debug Wax" height="35" src="img/Debug_Wax.png" width="35"/> <a href="debug-wax.html">Debug Wax</a> • <img alt="Nectar Tester" height="35" src="img/Nectar_Tester.png" width="35"/> <a href="nectar-tester.html">Nectar Tester</a></b> • <span typeof="mw:Error mw:File"></span> <a href="bbm-s-apology.html">BBM's Apology</a><b></b>
+<td class="NavLinks NavLinksBasicEven"><b><img alt="Translator" height="35" src="img/Translator.png" width="35"/> <a href="translator.html">Translator</a> • <img alt="Spirit Petal" height="35" src="img/Spirit_Petal.png" width="35"/> <a href="spirit-petal.html">Spirit Petal</a> • <img alt="Debug Wax" height="35" src="img/Debug_Wax.png" width="35"/> <a href="debug-wax.html">Debug Wax</a> • <img alt="Nectar Tester" height="35" src="img/Nectar_Tester.png" width="35"/> <a href="nectar-tester.html">Nectar Tester</a></b><b></b>
 </td></tr>
 <tr>
 <th class="NavCategory">Beesmas

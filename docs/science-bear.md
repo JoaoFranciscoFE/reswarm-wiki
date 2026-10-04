@@ -1442,312 +1442,12 @@ Fantastic! With these, I believe I should be able to get the lights working. Jus
 </p>
 </td></tr></tbody></table>
 
-### 2024 (Winter)
-
-This piece of content goes bye bye.
-
-The following content has been removed from the game. The contents below may be archival, but feel free to edit below.
-
-<table class="article-table mw-collapsible mw-collapsed">
-<tbody><tr>
-<th>Requirements
-</th>
-<th>Rewards
-</th></tr>
-<tr>
-<td>
-<ul><li>Collect 8,100,100 Pollen from the <a href="pineapple-patch.html">Pineapple Patch</a>.</li>
-<li>Collect 4,100,100 Pollen from the <a href="bamboo-field.html">Bamboo Field</a>.</li>
-<li>Collect 410,000 Pollen with the <a href="pulsar.html">Pulsar</a>.</li>
-<li>Chase 61 Fireflies.</li>
-<li>Apply 11 Stacks of Field Boosts.</li>
-<li>Collect 10 <a href="micro-converter.html">Micro-Converters</a>.</li>
-<li>Collect 4 <a href="neonberry.html">Neonberries</a>.</li></ul>
-</td>
-<td><img alt="Honey" height="25" src="img/Honey.png" width="25"/>14,142,135 <a href="honey.html"><span class="color-template color-template-honey">Honey</span></a><br/>
-<p><img alt="Ticket" height="25" src="img/Ticket.png" width="25"/>10 <a href="ticket.html"><span class="color-template color-template-ticket color-template-background-clip">Tickets</span></a><br/>
-<img alt="Bitterberry" height="25" src="img/Bitterberry.png" width="25"/>10 <a href="bitterberry.html"><span class="color-template color-template-bitterberry color-template-background-clip">Bitterberries</span></a><br/>
-<img alt="Glue" height="25" src="img/Glue.png" width="25"/>3 <a href="glue.html"><span class="color-template color-template-glue color-template-background-clip">Glues</span></a><br/>
-<img alt="Snowflake" height="25" src="img/Snowflake.png" width="25"/>25 <a href="snowflake.html"><span class="color-template color-template-snowflake color-template-background-clip">Snowflakes</span></a><br/>
-Activates <a href="beesmas-lights.html">Beesmas Lights</a>
-</p>
-</td></tr></tbody></table>
-
-<table class="article-table mw-collapsible mw-collapsed">
-<tbody><tr>
-<th>Dialogue
-</th></tr>
-<tr>
-<td>
-<p>Oh, good thing you're here! I'll need your help. I'm having some technical difficulty with the Beesmas Lights I recently strung up. They won't turn on. I've investigated their circuitry and believe I've identified the problem. But in order to solve it, I'll need you and your bees to gather some resources. These lights are important! Beesmas decorations have been shown to increase the happiness [sic] And thus the work yield of bees in many peer-reviewed studies. Twinkling Beesmas Lights may inspire a sense of magic... But the psychological effects they have on us, inclding [sic] their capacity to reduce stress levels. Aren't just magic [sic] - they're scientifically verifiable! I've added everything needed to get the lights working to your Quest Menu.
-</p><p><i>-During-</i>
-</p><p>N/A
-</p><p><i>-Completion-</i>
-</p><p>Fantastic! With these, I believe I should be able to get the lights working. Just a moment ...(twist twist)...(click clack)... There they go! With the Beesmas Lights working, they can occasionally spawn 🌟 Falling Beesmas Lights 🌟 as you gather! You can see where they're going to fall marked as glowing green disks. If you catch them, they'll convert pollen in your bag to honey, and give you a short x2 pollen boost! See, decorations aren't just for looks - they\'re great for productivity as well. Oh, and you may even need to catch Falling Beesmas Lights in certain quests. So start practicing! Anyways, thank you for the help. Happy Honeydays!
-</p>
-</td></tr></tbody></table>
-
-### 2024 (Summer)
-
-This piece of content goes bye bye.
-
-The following content has been removed from the game. The contents below may be archival, but feel free to edit below.
-
-<table class="article-table mw-collapsible mw-collapsed">
-<tbody><tr>
-<th>Requirements
-</th>
-<th>Rewards
-</th></tr>
-<tr>
-<td>
-<p>(Quest varies from player to player)
-</p>
-<ul><li>Convert 2,997,924 <a href="pollen.html">Pollen</a> at the Hive.</li>
-<li>Collect 654,321 Red Pollen.</li>
-<li>Collect 65,536 Pollen with the <a href="pulsar.html">Pulsar</a>.</li>
-<li>Chase 77 <a href="fireflies.html">Fireflies</a>.</li>
-<li>Obtain 25 <a href="moon-charm.html">Moon Charms</a> to give to Science Bear.</li>
-<li>Obtain 5 <a href="neonberry.html">Neonberries</a> to give to Science Bear.</li>
-<li>Obtain 3 Simple Sun <a href="sticker.html">Stickers</a> to give to Science Bear.</li>
-<li>Obtain 1 Traffic Light <a href="sticker.html">Sticker</a> to give to Science Bear.</li></ul>
-</td>
-<td><img alt="Honey" height="25" src="img/Honey.png" width="25"/>3,275,822 <a href="honey.html"><span class="color-template color-template-honey">Honey</span></a><br/>
-<p><img alt="Ticket" height="25" src="img/Ticket.png" width="25"/>10 <a href="ticket.html"><span class="color-template color-template-ticket color-template-background-clip">Tickets</span></a><br/>
-<img alt="Enzymes" height="25" src="img/Enzymes.png" width="25"/>3 <a href="enzymes.html"><span class="color-template color-template-enzymes color-template-background-clip">Enzymes</span></a><br/>
-<img alt="Glue" height="25" src="img/Glue.png" width="25"/>1 <a href="glue.html"><span class="color-template color-template-glue color-template-background-clip">Glue</span></a><br/>
-<img alt="Whirligig" height="25" src="img/Whirligig.png" width="25"/>3 <a href="whirligig.html"><span class="color-template color-template-whirligig color-template-background-clip">Whirligigs</span></a><br/>
-<img alt="Micro-Converter" height="25" src="img/Micro-Converter.png" width="25"/>3 <a href="micro-converter.html"><span class="color-template color-template-micro-converter color-template-background-clip">Micro-Converters</span></a><br/>
-<img alt="Gingerbread Bear" height="25" src="img/Gingerbread_Bear.png" width="25"/>3 <a href="gingerbread-bear.html"><span class="color-template color-template-gingerbread-bear color-template-background-clip">Gingerbread Bears</span></a><br/>
-Activates <a href="beesmas-lights.html">Beesmas Lights</a>.
-</p>
-</td></tr></tbody></table>
-
-<table class="article-table mw-collapsible mw-collapsed">
-<tbody><tr>
-<th>Dialogue
-</th></tr>
-<tr>
-<td>Isn't it fascinating - Beesmas in July! And seemingly without a cause. Rather concerning. Nevertheless, there must be an answer. I'd typically look into it - but I'm a bit busy at the moment. You see, It's <i>[sic]</i> my duty each year to string up Beesmas lights on the mountain. I've hung them up, but I'm having difficulties getting them to turn on. I believe I've identified the source malfunction, but I need some items for the repair job. Could you gather them for me? Let's illuminate the mountain together!
-<p><i>-During-</i>
-</p><p>N/A
-</p><p><i>-Completion-</i>
-Fantastic! That's everything I need to get these lights operational. Just a moment ...(twist twist)...(click clack)... Ah ha! They're on! With the Beesmas Lights working, they can occasionally spawn 🌟 Falling Beesmas Lights 🌟 as you gather! You can see where they're going to fall marked as glowing green disks. If you catch them, they'll convert pollen in your bag to honey, and give you a short x2 pollen boost! Beesmas Decorations aren't just for looks - they're great for productivity as well. Now that that's complete, I'll investigate this strange seasonal distruption. <i>[sic]</i> Thank you, and Merry Beesmas, apparently!
-</p>
-</td></tr></tbody></table>
-
-### 2022
-
-This piece of content goes bye bye.
-
-The following content has been removed from the game. The contents below may be archival, but feel free to edit below.
-
-<table class="article-table mw-collapsible mw-collapsed">
-<tbody><tr>
-<th>Requirements
-</th>
-<th>Rewards
-</th></tr>
-<tr>
-<td>
-<ul><li>Convert 697,744 <a href="pollen.html">Pollen</a> at the Hive.</li>
-<li>Use 1 <a href="red-extract.html">Red Extract</a>.</li>
-<li>Use 1 <a href="blue-extract.html">Blue Extract</a>.</li>
-<li>Collect 11 Tokens from <a href="fireflies.html">Fireflies</a>.</li>
-<li>Collect 11 Tokens from <a href="wild-windy-bee.html">Wild Windy Bee</a>.</li></ul>
-</td>
-<td><img alt="Honey" height="25" src="img/Honey.png" width="25"/>1,414,213 <a href="honey.html"><span class="color-template color-template-honey">Honey</span></a><br/>
-<p><img alt="Red Drive" height="25" src="img/Red_Drive.png" width="25"/>1 <a href="drives.html#Red_Drive"><span class="color-template color-template-red-drive color-template-background-clip">Red Drive</span></a><br/>
-<img alt="Purple Potion" height="25" src="img/Purple_Potion.png" width="25"/>1 <a href="purple-potion.html"><span class="color-template color-template-purple-potion color-template-background-clip">Purple Potion</span></a><br/>
-<img alt="Micro-Converter" height="25" src="img/Micro-Converter.png" width="25"/>5 <a href="micro-converter.html"><span class="color-template color-template-micro-converter color-template-background-clip">Micro-Converters</span></a><br/>
-<img alt="Gingerbread Bear" height="25" src="img/Gingerbread_Bear.png" width="25"/>1 <a href="gingerbread-bear.html"><span class="color-template color-template-gingerbread-bear color-template-background-clip">Gingerbread Bear</span></a><br/>
-Activates <a href="beesmas-lights.html">Beesmas Lights</a>.
-</p>
-</td></tr></tbody></table>
-
-<table class="article-table mw-collapsible mw-collapsed">
-<tbody><tr>
-<th>Dialogue
-</th></tr>
-<tr>
-<td>I've been investigating the peculiar robot that's been installed near the Rose Field. It seems to require 4 different types of [Drives] to operate. I've been working on constructing a [Red Drive] with the hopes of getting that robot working. But I've got a responsibility to Beesmas that will have to come first. It's my job each year to get the Beesmas Lights functional. But they keep going out! I think I've identified the problem. The Windy Bee has been knocking them around with it's <i>[sic]</i> gusts! We'll need to scare it off and repair the damage. If you work on the lights, I'll work on the [Red Drive]. Together, we can make efficient progress on both endeavors at once. Convert 697,774 Pollen to Honey at the hive... Use 1 [Red Extract]... Use 1 [Blue Extract]... Collect 11 Tokens from Fireflies... And collect 11 Tokens from Wild Windy Bees. To find Windy Bee, keep an eye out for clouds hovering over fields. Windy Bee always hides within a cloud, and will attack you if you jump into it! It will usually spawn at least once per hour.
-<p><i>-During-</i>
-</p><p>N/A
-</p><p><i>-Completion-</i>
-</p><p>Fantastic! Thanks to your effort, I believe I'll be able to get the lights working. Just a moment ...(twist twist)...(click clack)... There they go! With the Beesmas Lights working, they can occasionally spawn 🌟 Falling Beesmas Lights 🌟 as you gather! You can see where they're going to fall marked as glowing green disks. If you catch them, they'll convert pollen in your bag to honey, and give you a short x2 pollen boost! See, decorations aren't just for looks - they're great for productivity as well. Now for the other task at hand. I've managed to repair the [Red Drive], and I want you to take it. If you can find the other 3 [Drives], you'll be able to activate the Robo Bear. I've done some research and have learned that a [White Drive] is for sale in Bee Bear's Catalogue. I've also spoken to Dapper Bear, whose <i>[sic] </i> told me that he's collected a [Blue Drive] in his travels. As far as the [Glitched Drive] goes... I suspect that Bee Bear might have a lead. I'm very curious to find out what that robot's function is. Anyway, thank you for the help with the lights. Happy Honeydays!
-</p>
-</td></tr></tbody></table>
-
-### 2021
-
-This piece of content goes bye bye.
-
-The following content has been removed from the game. The contents below may be archival, but feel free to edit below.
-
-<table class="article-table mw-collapsible mw-collapsed">
-<tbody><tr>
-<th>Requirements
-</th>
-<th>Rewards
-</th></tr>
-<tr>
-<td>
-<ul><li>Collect 654,321 <a href="pollen.html">Pollen</a>.</li>
-<li>Use 3 <a href="micro-converter.html">Micro-Converter</a>.</li>
-<li>Collect 123 <a href="ability-tokens.html#Boost">Boost</a> Tokens.</li>
-<li>Collect 12 Tokens from <a href="fireflies.html">Fireflies</a>.</li>
-<li>Collect 1 Hour of Nectar from Planters</li></ul>
-</td>
-<td><img alt="Paper Planter" height="25" src="img/Paper_Planter.png" width="25"/>1 <a href="paper-planter.html"><span class="color-template color-template-paper-planter color-template-background-clip">Paper Planter</span></a> (Upon receiving quest)<br/>
-<p><img alt="Honey" height="25" src="img/Honey.png" width="25"/>567,143 <a href="honey.html"><span class="color-template color-template-honey">Honey</span></a><br/>
-<img alt="Ticket" height="25" src="img/Ticket.png" width="25"/>3 <a href="ticket.html"><span class="color-template color-template-ticket color-template-background-clip">Tickets</span></a><br/>
-<img alt="Ticket Planter" height="25" src="img/Ticket_Planter.png" width="25"/>1 <a href="ticket-planter.html"><span class="color-template color-template-ticket-planter color-template-background-clip">Ticket Planter</span></a><br/>
-<img alt="Enzymes" height="25" src="img/Enzymes.png" width="25"/>3 <a href="enzymes.html"><span class="color-template color-template-enzymes color-template-background-clip">Enzymes</span></a><br/>
-<img alt="Oil" height="25" src="img/Oil.png" width="25"/>3 <a href="oil.html"><span class="color-template color-template-oil color-template-background-clip">Oils</span></a><br/>
-<img alt="Neonberry" height="25" src="img/Neonberry.png" width="25"/>5 <a href="neonberry.html"><span class="color-template color-template-neonberry color-template-background-clip">Neonberries</span></a><br/>
-Activates <a href="beesmas-lights.html">Beesmas Lights</a>.
-</p>
-</td></tr></tbody></table>
-
-<table class="article-table mw-collapsible mw-collapsed">
-<tbody><tr>
-<th>Dialogue
-</th></tr>
-<tr>
-<td>Oh, good thing you're here! I'll need your help. I'm having some technical difficulties with the Beesmas Lights I recently strung up. They won't turn on. I've investigated their circuitry and believe I've identified the problem. But in order to solve it, I'll need you and your bees to gather some resources. These lights are important! Beesmas decorations have been shown to increase the happiness And thus the work yield of bees in many peer-reviewed studies Twinkling Beesmas Lights may inspire a sense of magic... But the psychological effects they have on us, inclding <i>[sic]</i> their capacity to reduce stress levels, aren't just magic - they're scientifically verifiable! Ok. Here's what we'll need to get the lights working: Collect 654,321 pollen... Use 3 Micro-Converters... Collect 123 "Boost" Ability Tokens... Collect 12 tokens from Fireflies... And collect 1 hour of Nectar! You can collect Nectar from Planters placed in flower fields. Placing a Planter on a flower field allows it to grow while you're in game. As it grows, it collects pollen, random items, and Nectar. Nectar is a boost that improves your honeymaking. there are 5 types of Nectar, and each field gives a different type. Standing near a Planter allows your bees to sip Nectar from it. You also gain a good amount of Nectar when you harvest a planter. Be sure to let it grow first! To get started, here's a [Paper Planter]. You can purchase more in Pro Bear's shop.
-<p><i>-During-</i>
-</p><p>N/A
-</p><p><i>-Completion-</i>
-</p><p>Fantastic! With these, I believe I should be able to get the lights working. Just a moment ...(twist twist)...(click clack)... There they go! With the Beesmas Lights working, they can occasionally spawn 🌟 Falling Beesmas Lights 🌟 as you gather! You can see where they're going to fall marked as glowing green disks. If you catch them, they'll convert pollen in your bag to honey, and give you a short x2 pollen boost! See, decorations aren't just for looks - they're great for productivity as well. Oh, and you may even need to catch Falling Beesmas lights in certain quests. So start practicing! Anyways, thank you for the help. Happy Honeydays!
-</p>
-</td></tr></tbody></table>
-
-### 2020
-
-This piece of content goes bye bye.
-
-The following content has been removed from the game. The contents below may be archival, but feel free to edit below.
-
-<table class="article-table mw-collapsible mw-collapsed">
-<tbody><tr>
-<th>Requirements
-</th>
-<th>Rewards
-</th></tr>
-<tr>
-<td>
-<ul><li>Collect 111,111 <a href="pollen.html">Pollen</a> from the <a href="bamboo-field.html">Bamboo Field</a>.</li>
-<li>Collect 111,111 Pollen from the <a href="spider-field.html">Spider Field</a>.</li>
-<li>Defeat 1 <a href="spider.html">Spider</a>.</li>
-<li>Collect 111 <a href="ability-tokens.html#Bomb">Bomb</a> Tokens.</li>
-<li>Collect 11 Tokens from <a href="fireflies.html">Fireflies</a>.</li></ul>
-</td>
-<td><img alt="Honey" height="25" src="img/Honey.png" width="25"/>299,792 <a href="honey.html"><span class="color-template color-template-honey">Honey</span></a><br/>
-<p><img alt="Snowflake" height="25" src="img/Snowflake.png" width="25"/>20 <a href="snowflake.html"><span class="color-template color-template-snowflake color-template-background-clip">Snowflakes</span></a><br/>
-<img alt="Neonberry" height="25" src="img/Neonberry.png" width="25"/>5 <a href="neonberry.html"><span class="color-template color-template-neonberry color-template-background-clip">Neonberries</span></a><br/>
-<img alt="Glue" height="25" src="img/Glue.png" width="25"/>1 <a href="glue.html"><span class="color-template color-template-glue color-template-background-clip">Glue</span></a><br/>
-Activates <a href="beesmas-lights.html">Beesmas Lights</a>.
-</p>
-</td></tr></tbody></table>
-
-<table class="article-table mw-collapsible mw-collapsed">
-<tbody><tr>
-<th><b>Dialogue</b>
-</th></tr>
-<tr>
-<td>Oh, good thing you're here! I'll need your help. I'm having some technical difficulties with the Beesmas Lights I recently strung up. They won't turn on. I've investigated their circuitry and believe I've identified the problem. But in order to solve it, I'll need you and your bees to gather some resources. The lights are important! Beesmas decorations have been shown to increase the happiness And thus the work yield of bees in many peer-reviewed studies. Twinkling Beesmas lights may inspire a sense of magic... But the psychological effects they have on us, including their capacity to reduce stress levels, Aren't just magic - they're scientifically verifiable! Ok. Here's what we'll need to get the lights working: Collect 111,111 pollen from the Bamboo Field and the Spider Field... Collect 111 "Bomb" Ability Tokens... Defeat 1 Spider... And collect 11 tokens from Fireflies. To get those, you'll need to wait until nighttime and chase the Fireflies that visit the fields.
-<p><i>-During-</i>
-</p><p>N/A
-</p><p><i>-Completion-</i>
-</p><p>Fantastic! With these, I believe I should be able to get the lights working. Just a moment ...(twist twist)...(click clack)... There they go! With the Beesmas Lights working, they can occasionally spawn 🌟 Falling Beesmas Lights 🌟 as you gather! You can see where they're going to fall marked as glowing green disks. If you catch them, they'll convert pollen in your bag to honey, and give you a short x2 pollen boost! See, decorations aren't just for looks - they're great for productivity as well. Oh, and you may even need to catch Falling Beesmas lights in certain quests. So start practicing! Anyways, thank you for the help. Happy Honeydays!
-</p>
-</td></tr></tbody></table>
-
 ## Other quests
-
-### 2019 Ornament Quest - Science Bear's Ornament
-
-This piece of content goes bye bye.
-
-The following content has been removed from the game. The contents below may be archival, but feel free to edit below.
-
-<table class="article-table mw-collapsible">
-<tbody><tr>
-<th>Requirements
-</th>
-<th>Reward
-</th></tr>
-<tr>
-<td>
-<ul><li>Collect 150,000 White Pollen</li>
-<li>Collect 25 Tokens from Sprouts</li>
-<li>Match 1 Pair in Memory Match Games</li>
-<li>Earn 1 Playtime Badge</li></ul>
-</td>
-<td><span typeof="mw:Error mw:File"></span> Conical Flask <a href="ornaments.html">Ornament</a><br/>
-<p><img alt="Honey" height="25" src="img/Honey.png" width="25"/>122,519 <a href="honey.html"><span class="color-template color-template-honey">Honey</span></a><br/>
-<img alt="Ticket" height="25" src="img/Ticket.png" width="25"/>5 <a href="ticket.html"><span class="color-template color-template-ticket color-template-background-clip">Tickets</span></a><br/>
-<img alt="Enzymes" height="25" src="img/Enzymes.png" width="25"/>1 <a href="enzymes.html"><span class="color-template color-template-enzymes color-template-background-clip">Enzymes</span></a>
-</p>
-</td></tr></tbody></table>
-
-<table class="article-table mw-collapsible mw-collapsed">
-<tbody><tr>
-<th>Dialogue
-</th></tr>
-<tr>
-<td>It's my responsibility to string up the lights each Beesmas. This year I went a little extra. I programmed them to twinkle! Another great example of technology brightening up our lives. Anyways, it's also my responsibility to make an [Ornament] for the tree. Well, our responsibility. Here's what you'll need to do: Collect 150,000 Pollen from white flowers... Collect 25 Tokens from Sprouts... Match 1 Pair in Memory Match... And earn the 1st Playtime Badge!
-<p><i>-During-</i>
-</p><p>N/A
-</p><p><i>-Completion-</i>
-</p><p>Fascinating! So there are at leas- Wait a second. You're not here for science. You're ready to complete [Ornament]! One moment. ...(Snip snip snip)... ...(Knock knock knock)... Eureka! The [Conical Flask Ornament]! It represents all the science that makes Beesmas possible, From lighting up the trees, to creating consumer-safe materials for toys. With this on the Beesmas Tree, you'll receive the following boosts: +10% Capacity; +50% Convert Rate while at the Hive; and x1.25 Pollen from the Pineapple Patch. Now if you'll excuse me, I've got to get back to my research. I'm trying to figure out how Bee Bear is animating those Cub Buddies... They're just robots, you know. But they're so lifelike, it's uncanny!
-</p>
-</td></tr></tbody></table>
-
-### 2019 Egg Hunt Quest - Egg Hunt: Science Bear
-
-This piece of content goes bye bye.
-
-The following content has been removed from the game. The contents below may be archival, but feel free to edit below.
-
-<table class="article-table mw-collapsible">
-<tbody><tr>
-<th>Requirements
-</th>
-<th>Reward
-</th></tr>
-<tr>
-<td>
-<ul><li>Collect 8,000 Pollen from the <a href="pineapple-patch.html">Pineapple Patch</a>.</li>
-<li>Collect 4,000 Pollen from the <a href="spider-field.html">Spider Field</a>.</li>
-<li>Collect 2,000 Pollen from the <a href="clover-field.html">Clover Field</a>.</li>
-<li>Collect 100 <a href="honey.html">Honey</a> Tokens.</li></ul>
-</td>
-<td><img alt="Honey" height="25" src="img/Honey.png" width="25"/>16,000 <a href="honey.html"><span class="color-template color-template-honey">Honey</span></a><br/>
-<p><img alt="Marshmallow Bee" height="25" src="img/Marshmallow_Bee.png" width="25"/>3 <a href="marshmallow-bee.html"><span class="color-template color-template-marshmallow-bee color-template-background-clip">Marshmallow Bees</span></a><br/>
-<img alt="Gumdrops" height="25" src="img/Gumdrops.png" width="25"/>50 <a href="gumdrops.html"><span class="color-template color-template-gumdrops color-template-background-clip">Gumdrops</span></a><br/>
-<img alt="Jelly Beans" height="25" src="img/Jelly_Beans.png" width="25"/>3 <a href="jelly-beans.html"><span class="color-template color-template-jelly-beans color-template-background-clip">Jelly Beans</span></a><br/>
-<img alt="Micro-Converter" height="25" src="img/Micro-Converter.png" width="25"/>5 <a href="micro-converter.html"><span class="color-template color-template-micro-converter color-template-background-clip">Micro-Converters</span></a>
-</p>
-</td></tr></tbody></table>
-
-<table class="article-table mw-collapsible mw-collapsed">
-<tbody><tr>
-<th>Dialogue
-</th></tr>
-<tr>
-<td>The tradition of hunting eggs in ROBLOX has a long history. It started all the way back in the distant year of 2008. Back then, eggs would drop from the sky and players would scramble to collect them. Over time, the Egg Hunt became a more structured event, far more fleshed out. Last year, for example, there was an elaborate exploration-based platforming game... With pretty complex movement controls, and many intricate worlds to explore! This year, we have the pleasure of being a part of a collective Egg Hunt effort, In which different games across ROBLOX provide small challenges, each rewarding a unique egg! Here on the mountain, we're giving ours away in exchange for 3 [Marshmallow Bees]. And if you complete this simple quest, I've got one for you! Collect 8,000 pollen from the Pineapple Patch... Collect 4,000 pollen from the Spider Field... Collect 2,000 pollen from the Clover Field... And collect 100 Honey Tokens!
-<p><i>-During-</i>
-</p><p>ROBLOX is unique in all that it combines. It's at once a game engine, game platform, and social media network. It's this unique combination that makes an event like this year's Egg Hunt possible. Collect 8,000 pollen from the Pineapple Patch... Collect 4,000 pollen from the Spider Field... Collect 2,000 pollen from the Clover Field... And collect 100 Honey Tokens!
-</p><p><i>-Completion-</i>
-</p><p>The history of ROBLOX's Egg Hunts is fascinating and reflects this history of ROBLOX as a whole. As it evolved from a simpler sandbox building game with a focus on physics simulation, Into the prominent gaming and social media platform we know today, The Egg Hunts became more polished and larger in scope as well! This year's collective Egg Hunt highlights many different players made games, Reinforcing the idea of ROBLOX as a versatile engine, with a diverse community of developers. In theory at least, heh! Good work. These are for you.
-</p>
-</td></tr></tbody></table>
 
 ## Trivia
 
 * Science Bear uses the [Superhero Animation Pack](https://www.roblox.com/catalog/619533495/Superhero-Animation-Pack).
-* He had the fewest number of quests out of the permanent bears before the [2018-07-11 update](updates.md#2018-07-11).
+* He had the fewest number of quests out of the permanent bears before the 2018-07-11 update.
 * He is the only bear to have "discovering bee types" as a requirement for completing his quests.
 * Science Bear is the only bear to give a quest that requires to obtain a certain bee. The quest "Beesperanto" requires you to obtain a Carpenter Bee.
 * Science Bear, [Bee Bear](bee-bear.md), [Spirit Bear](spirit-bear.md), [Black Bear](black-bear.md), and [Brown Bear](brown-bear.md) are the only bears to require pollen from the [Mountain Top Field](mountain-top-field.md).
@@ -1757,23 +1457,23 @@ The following content has been removed from the game. The contents below may be 
   * Additionally, Science Bear wears goggles. Another word for goggles is "spectacles".
 * He's one of the two bears to give a unique ability after every quest, the other being [Polar Bear](polar-bear.md).
 * He's one of the three quest givers to activate a buff after every quest; the other two being Polar Bear and [Honey Bee](honey-bee-npc.md).
-* Science Bear is [Onett's](onett-developer.md) least favorite bear to write dialogue for because of his long script, as indirectly referenced during the Star Journey 2 quest.
+* Science Bear is Onett's least favorite bear to write dialogue for because of his long script, as indirectly referenced during the Star Journey 2 quest.
 * Science Bear is the only bear to give [translators](translator.md).
-* Science Bear originally had 11 quests, which was increased to 16 in the [2018-04-27 update](updates.md#2018-4-27). This was bumped up to 26 in the [2018-11-25 update](updates.md#2018-11-25). Subsequently, it rose to 31 in the [2018-12-19 update](updates.md#2018-12-19).
+* Science Bear originally had 11 quests, which was increased to 16 in the 2018-04-27 update. This was bumped up to 26 in the 2018-11-25 update. Subsequently, it rose to 31 in the 2018-12-19 update.
 
 <figure class="thumb" style="width: 309px" typeof="mw:File/Thumb">  <figcaption class="thumbcaption"> <p class="caption">The rewards the player get if **they had completed Epistemological Endeavor before the nerf.</p> </figcaption> </figure>
 
 * A few of his quests have gotten nerfs over the game's lifespan.
-  * The quest "Epistemological Endeavor" was nerfed in the [2019-04-05 update](updates.md#2019-04-05).
+  * The quest "Epistemological Endeavor" was nerfed in the 2019-04-05 update.
     * If the player completed the "Epistemological Endeavor" quest before its nerf, upon entering the game, they would receive a message rewarding them with 100 [tickets](ticket.md) and 10 [magic beans](magic-bean.md).
-  * The quest "Corrupting the Glitched Drive" used to require collecting 2,048 duped ability tokens. This was nerfed to 1,024 duped tokens in the [2024-01-12 update](updates.md#2024-01-12).
+  * The quest "Corrupting the Glitched Drive" used to require collecting 2,048 duped ability tokens. This was nerfed to 1,024 duped tokens in the 2024-01-12 update.
     * Players who collected more than 1,024 duped tokens before the nerf were compensated with ~33 Million Honey and 25 Tickets upon joining the game after the update.
 * In one of his quests, Science Bear gives a [code](codes.md) "GumdropsForScience", which gives 15 [gumdrops](gumdrops.md).
 * He is the third [quest giver](quest-givers.md) that requires players to defeat [Tunnel Bear](tunnel-bear.md), the first being [Panda Bear](panda-bear.md), the second being [Onett](onett.md) and the fourth being [Bubble Bee Man](bubble-bee-man.md).
 * Many of the [honey](honey.md) rewards for Science Bear's quests are based around important mathematical constants, such as pi (quests 1 & 31), e (quest 13), powers of 2 (quest 26), the square root of 2 (quests 7 & 25), phi (quest 10) and the square root of 3 (quest 11).
 * He is the first bear to require the player to collect pollen from the [Ant Field](ant-field.md), the second being Black Bear.
 * 'Beesperanto' (quest) is a portmanteau of the words *bee* and *Esperanto*, which is a language made in the 19th century with the intention of being easy to learn and a way for people of different cultures to communicate easily.
-* In the quest "Breaking Down Badges", Science Bear says that [Sunflower Field Badges](badges.md#Sunflower_Badge) give more [Honey Per Pollen](honey-per-pollen.md). However, as of the [2019-04-17 Update](updates.md#2019-04-17), Sunflower Field badges grant capacity bonuses.
+* In the quest "Breaking Down Badges", Science Bear says that [Sunflower Field Badges](badges.md#Sunflower_Badge) give more [Honey Per Pollen](honey-per-pollen.md). However, as of the 2019-04-17 Update, Sunflower Field badges grant capacity bonuses.
 * He is the first bear to wear accessories, with his glasses and lab coat. Other bears that also do this include [Sun Bear](sun-bear.md) with his sunglasses, his [Mondo Belt Bag](mondo-belt-bag.md), and his [Beekeeper Boots](beekeeper-s-boots.md), and [Spirit Bear](spirit-bear.md), with her [Petal Wand](petal-wand.md) and her [Petal Belt](petal-belt.md).
 * He, Panda Bear, Black Bear and [Spirit Bear](spirit-bear.md) are the only bears to mention/have a code.
 * In total, he gives 210 [Tickets](ticket.md) in his quests.

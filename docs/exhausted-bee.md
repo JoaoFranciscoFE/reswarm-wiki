@@ -45,8 +45,8 @@ Exhausted Bee likes the [Stump Field](stump-field.md), the [Sunflower Field](su
 
 ### Abilities
 
-* **[Buzz Bomb](ability-tokens.md#Bomb)** Collects 7 pollen from 13 surrounding [Flowers](flowers.md) (+10% pollen per Level). Combo with other bombs to increase power.
-* **[Token Link](ability-tokens.md#Token_Link)** Collects all other ability tokens, granting 25 [Honey](honey.md) (+10 per Level) per token collected.
+* <img alt="Buzz Bomb" src="img/Buzz_Bomb.png" style="height:1.6em;width:auto;vertical-align:middle"/> **[Buzz Bomb](ability-tokens.md#Bomb)** Collects 7 pollen from 13 surrounding [Flowers](flowers.md) (+10% pollen per Level). Combo with other bombs to increase power.
+* <img alt="Token Link" src="img/Token_Link.png" style="height:1.6em;width:auto;vertical-align:middle"/> **[Token Link](ability-tokens.md#Token_Link)** Collects all other ability tokens, granting 25 [Honey](honey.md) (+10 per Level) per token collected.
 
 <table style="font-size:1.5vh; color:#000; width:100%; background:#fff; padding: 15px 0; border:none; color:#000; border-left:15px #000 solid">
 <tbody><tr>
@@ -341,7 +341,7 @@ Exhausted Bee likes the [Stump Field](stump-field.md), the [Sunflower Field](su
 * This bee was the first bee to be implemented with unlimited energy, a feature only shared with [Photon Bee](photon-bee.md).
   * This makes the Exhausted Bee the only non-[Event bee](bees-event.md) that has unlimited energy.
   * If a player dies, any Exhausted Bees in their hive will go to sleep no matter what.
-* [Onett](onett-developer.md) often calls himself an Exhausted Bee because he dedicates a lot of time to [Re://:Swarm](re-swarm.md).
+* Onett often calls himself an Exhausted Bee because he dedicates a lot of time to [Re://:Swarm](re-swarm.md).
   * The [code](codes.md), "OnettJelly" (expired) is a reference to Onett calling himself an Exhausted Bee.
 * Although its description implies that it never sleeps, Exhausted Bee can actually go to sleep because its energy is set to 280,000,000, which is not an unlimited amount. This is because infinity cannot be coded as a number.
 * When gathering in the [Stump Field](stump-field.md), the [Sunflower Field](sunflower-field.md), or the [Dandelion Field](dandelion-field.md), it has an unbelievably rare chance to find a Moai [Sticker](sticker.md).

@@ -148,7 +148,7 @@ If the player already has an existing Ant Amulet, they may choose to keep their 
   * During an unknown update, this was fixed to teleport the player to the center of the [field](ant-field.md).
   * However, during a later unknown update, the player is instead teleported back to their hive, which teleports them back to the challenge platform and ends the challenge.
 * Despite being lawnmowers, they actually do not affect any of the flowers when they pass through.
-* Prior to the [2018-11-25 update](updates.md#2018-11-25), the Ant Challenge can only hold up to 20 ants at once.[1]
+* Prior to the 2018-11-25 update, the Ant Challenge can only hold up to 20 ants at once.[1]
 * Since the Egg Hunt 2019 update, the player can get [Jelly Beans](jelly-beans.md) as a reward from the Ant Challenge.
 * If the player uses jelly beans while inside or right outside the Ant Challenge, no jelly bean tokens will appear.
 
@@ -158,14 +158,14 @@ If the player already has an existing Ant Amulet, they may choose to keep their 
 
 * Upon entering the arena, the player's bag will instantly be converted, and the player will gain a boost of +100% [Instant Conversion](instant-conversion.md). The boost is represented by the [Ant Pass](ant-pass.md) icon.
   * There used to be a visual glitch that when leaving the ant challenge, the player would still have this buff. It was only a visual glitch, so the player did not actually have a +100% Instant Conversion boost active.
-  * Before the [2018-11-25 update](updates.md#2018-11-25), a Haste token with an expired timer would represent the boost is now represented as the [Ant Pass](ant-pass.md) icon.
+  * Before the 2018-11-25 update, a Haste token with an expired timer would represent the boost is now represented as the [Ant Pass](ant-pass.md) icon.
 * There is an ant pass token hidden behind the Ant Challenge area. To get it, go behind the [leaderboard](all-time-top-ant-exterminators.md) and follow the hallway around the corner. This also leads to the [Gummy Bee Egg Claim](gummy-bee-egg-claim.md).
 * If the player has equipped their tool and dies right when the Ant Challenge is about to end, they will respawn without their pollen collector equipped. However, the character's arm will be positioned to look like it's actually holding it.
-* There used to be a bug where the pollen meter displayed the cumulative total instead of the total required to reach the next wave. This was fixed in the [2018-09-10 update](updates.md#2018-09-10).
+* There used to be a bug where the pollen meter displayed the cumulative total instead of the total required to reach the next wave. This was fixed in the 2018-09-10 update.
 * Players are able to glitch into the [Ant Field](ant-field.md) without triggering the actual challenge. This can only be achieved by having a slow internet connection or [bear morph](ability-tokens.md#Bear_Morph) and/or [Haste+](buffs-debuffs.md#From_Areas).
 * If the player leaves their sprinkler(s) in the field and the challenge ends without the player dying, the sprinklers remain in the field.
 * If a player glitches inside and then someone starts it, then the player who glitched in will be kicked out.
-* There is a rare [glitch](glitches.md#Ants_Stuck_in_Wall) where an Ant or a Fire Ant can get stuck on the wall where the lawnmowers come from.
+* There is a rare glitch where an Ant or a Fire Ant can get stuck on the wall where the lawnmowers come from.
 * There was a glitch prior to February 2022, where sometimes, when the player starts the challenge, they won't actually be teleported inside, forfeiting the challenge instantly.
 * Giant Ants will give the player's bees 3 bond, being the least efficient way to level up bees.
 * It is only possible to go through 100 waves of the challenge. This is because it takes about three seconds to progress to the next wave and there is a total time limit of 5 minutes (300 seconds). 300 seconds divided by 3 seconds per wave would be 100 waves.
@@ -217,5 +217,5 @@ If the player already has an existing Ant Amulet, they may choose to keep their 
 <tr>
 <th class="NavCategory">Event<br/>Locations
 </th>
-<td class="NavLinks NavLinksBasicEven"><b><a href="beesmas-tree.html">Beesmas Tree</a> • <a href="ornament-presents.html">Ornament Presents</a> • <span class="new" data-uncrawlable-url="L3dpa2kvQ29tcHV0ZXI/YWN0aW9uPWVkaXQmcmVkbGluaz0x" title="Computer (page does not exist)">Computer</span> • <a href="gift-boxes.html">Gift Boxes</a> • <a href="honey-wreath.html">Honey Wreath</a> • <a href="stockings.html">Stockings</a> • <a href="gingerbread-house.html">Gingerbread House</a> • <a href="snowbear-summoner.html">Snowbear Summoner</a> • <a href="beesmas-lights.html">Beesmas Lights</a> • <a href="samovar.html">Samovar</a> • <a href="beesmas-feast.html">Beesmas Feast</a> • <a href="onett-s-lid-art.html">Onett's Lid Art</a> • <a href="wind-shrine.html#Galentine_Shrine">Galentine Shrine</a> • <a href="memory-match.html#Winter_Memory_Match">Winter Memory Match</a> • <a href="snow-machine.html">Snow Machine</a> • <a href="honeyday-candles.html">Honeyday Candles</a> • <a href="robo-party-cake.html">Robo Party Cake</a> • <a href="gummy-beacon.html">Gummy Beacon</a> • <a href="naughty-list.html">Naughty List</a></b>
+<td class="NavLinks NavLinksBasicEven"><b><a href="beesmas-tree.html">Beesmas Tree</a> • <span class="new" data-uncrawlable-url="L3dpa2kvQ29tcHV0ZXI/YWN0aW9uPWVkaXQmcmVkbGluaz0x" title="Computer (page does not exist)">Computer</span> • <a href="gift-boxes.html">Gift Boxes</a> • <a href="honey-wreath.html">Honey Wreath</a> • <a href="stockings.html">Stockings</a> • <a href="gingerbread-house.html">Gingerbread House</a> • <a href="snowbear-summoner.html">Snowbear Summoner</a> • <a href="beesmas-lights.html">Beesmas Lights</a> • <a href="samovar.html">Samovar</a> • <a href="beesmas-feast.html">Beesmas Feast</a> • <a href="onett-s-lid-art.html">Onett's Lid Art</a> • <a href="wind-shrine.html#Galentine_Shrine">Galentine Shrine</a> • <a href="memory-match.html#Winter_Memory_Match">Winter Memory Match</a> • <a href="snow-machine.html">Snow Machine</a> • <a href="honeyday-candles.html">Honeyday Candles</a> • <a href="robo-party-cake.html">Robo Party Cake</a> • <a href="gummy-beacon.html">Gummy Beacon</a> • <a href="naughty-list.html">Naughty List</a></b>
 </td></tr></tbody></table>

@@ -324,7 +324,7 @@ The following content has been removed from the game. The contents below may be 
 <img alt="Gingerbread Bear" height="25" src="img/Gingerbread_Bear.png" width="25"/>3 <a href="gingerbread-bear.html"><span class="color-template color-template-gingerbread-bear color-template-background-clip">Gingerbread Bears</span></a>
 </p>
 <hr/>
-<p><img alt="Ticket" height="25" src="img/Ticket.png" width="25"/>10 <a href="ticket.html"><span class="color-template color-template-ticket color-template-background-clip">Tickets</span></a> (if the player completed the quest before the <a href="updates.html#2026-04-23">2026-04-23 update</a>)
+<p><img alt="Ticket" height="25" src="img/Ticket.png" width="25"/>10 <a href="ticket.html"><span class="color-template color-template-ticket color-template-background-clip">Tickets</span></a> (if the player completed the quest before the 2026-04-23 update)
 </p>
 </td></tr>
 <tr>
@@ -789,12 +789,12 @@ Oh ho ho. That's a nice [Sticker] you stuck up there. I think you deserve anothe
 </p>
 </td></tr>
 <tr>
-<td>Conclusion (before the <a href="updates.html#2026-1-16">2026-1-16 update</a>)
+<td>Conclusion (before the 2026-1-16 update)
 </td>
 <td>Beesmas is in full swing! But I'm wrapping up a few things for my next few quests... Return in a few days, and I'll have more quests that reward a [Cub Buddy Voucher]! Until then, keep helping the other bears with the decorating. Let's cover this whole map in festive nonsense! To celebrate the bees!
 </td></tr>
 <tr>
-<td>Conclusion (before the <a href="updates.html#2026-4-23">2026-4-23 update</a>)
+<td>Conclusion (before the 2026-4-23 update)
 </td>
 <td>Beesmas is in full swing! But I'm wrapping up a few things for my next few quests... Return later this winter, and I'll have more quests for this year's exclusive Cub Buddy skin [sic]Until then, keep helping the other bears with the decorating. Let's cover this whole map in festive nonsense! To celebrate the bees!
 </td></tr>

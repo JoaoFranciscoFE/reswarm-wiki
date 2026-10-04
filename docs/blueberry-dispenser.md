@@ -40,7 +40,7 @@ It has a cooldown of 4 hours.
 
 If the player does not have any blue bees in their hive, it will not grant any blueberries.
 
-The player must be in the [Bee Swarm Simulator Club](bee-swarm-simulator-club.md) in order to use this.
+The player must be in the Bee Swarm Simulator Club in order to use this.
 
 ## Honey and Blueberry reward amounts
 
@@ -289,7 +289,7 @@ Below is a table of the amount of honey a player receives, given the number of B
 
 ## Trivia
 
-* Before the [2018-11-25 update](updates.md#2018-11-25), the Blueberry Dispenser was in the [Gifted Bucko Bee](gifted-bucko-bee.md)'s spot. However, it was moved after said update to make room for the NPC.
+* Before the 2018-11-25 update, the Blueberry Dispenser was in the [Gifted Bucko Bee](gifted-bucko-bee.md)'s spot. However, it was moved after said update to make room for the NPC.
 * The only time this dispenser appears in a quest is in [Science Bear's](science-bear.md) *"The Power of Information"*.
 * This dispenser gives the same honey per bee as the [Strawberry Dispenser](strawberry-dispenser.md).
 * This is one of three dispensers that give [treats](treats.md) in the game with the other two being the [Treat Dispenser](treat-dispenser.md) and the Strawberry Dispenser.
@@ -337,5 +337,5 @@ Below is a table of the amount of honey a player receives, given the number of B
 <tr>
 <th class="NavCategory">Event<br/>Locations
 </th>
-<td class="NavLinks NavLinksBasicEven"><b><a href="beesmas-tree.html">Beesmas Tree</a> • <a href="ornament-presents.html">Ornament Presents</a> • <span class="new" data-uncrawlable-url="L3dpa2kvQ29tcHV0ZXI/YWN0aW9uPWVkaXQmcmVkbGluaz0x" title="Computer (page does not exist)">Computer</span> • <a href="gift-boxes.html">Gift Boxes</a> • <a href="honey-wreath.html">Honey Wreath</a> • <a href="stockings.html">Stockings</a> • <a href="gingerbread-house.html">Gingerbread House</a> • <a href="snowbear-summoner.html">Snowbear Summoner</a> • <a href="beesmas-lights.html">Beesmas Lights</a> • <a href="samovar.html">Samovar</a> • <a href="beesmas-feast.html">Beesmas Feast</a> • <a href="onett-s-lid-art.html">Onett's Lid Art</a> • <a href="wind-shrine.html#Galentine_Shrine">Galentine Shrine</a> • <a href="memory-match.html#Winter_Memory_Match">Winter Memory Match</a> • <a href="snow-machine.html">Snow Machine</a> • <a href="honeyday-candles.html">Honeyday Candles</a> • <a href="robo-party-cake.html">Robo Party Cake</a> • <a href="gummy-beacon.html">Gummy Beacon</a> • <a href="naughty-list.html">Naughty List</a></b>
+<td class="NavLinks NavLinksBasicEven"><b><a href="beesmas-tree.html">Beesmas Tree</a> • <span class="new" data-uncrawlable-url="L3dpa2kvQ29tcHV0ZXI/YWN0aW9uPWVkaXQmcmVkbGluaz0x" title="Computer (page does not exist)">Computer</span> • <a href="gift-boxes.html">Gift Boxes</a> • <a href="honey-wreath.html">Honey Wreath</a> • <a href="stockings.html">Stockings</a> • <a href="gingerbread-house.html">Gingerbread House</a> • <a href="snowbear-summoner.html">Snowbear Summoner</a> • <a href="beesmas-lights.html">Beesmas Lights</a> • <a href="samovar.html">Samovar</a> • <a href="beesmas-feast.html">Beesmas Feast</a> • <a href="onett-s-lid-art.html">Onett's Lid Art</a> • <a href="wind-shrine.html#Galentine_Shrine">Galentine Shrine</a> • <a href="memory-match.html#Winter_Memory_Match">Winter Memory Match</a> • <a href="snow-machine.html">Snow Machine</a> • <a href="honeyday-candles.html">Honeyday Candles</a> • <a href="robo-party-cake.html">Robo Party Cake</a> • <a href="gummy-beacon.html">Gummy Beacon</a> • <a href="naughty-list.html">Naughty List</a></b>
 </td></tr></tbody></table>

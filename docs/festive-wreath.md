@@ -4969,22 +4969,11 @@ Show/hide tables
 
 **There are currently no ways to obtain a **Festive Wreath** without trading.**
 
-### Outdated Ways
-
-<table class="mw-collapsible mw-collapsed article-table">
-<caption>
-</caption>
-<tbody><tr>
-<td>
-<ul><li>Opening the <a href="gift-boxes.html">Festive Gift Box</a> during Beesmas 2021 and beyond, located behind <a href="onett-s-lid-art.html">Onett's Lid Art</a>. Before Beesmas Summer 2024, if you already have the Festive Wreath, you would get <img alt="Ticket" height="25" src="img/Ticket.png" width="25"/>250 <a href="ticket.html"><span class="color-template color-template-ticket color-template-background-clip">Tickets</span></a> and a <img alt="Festive Planter" height="35" src="img/Festive_Planter.png" width="35"/><a href="festive-planter.html"><span class="color-template color-template-festive-planter color-template-background-clip">Festive Planter</span></a> instead.</li>
-<li>Completing <a href="bee-bear.html">Bee Bear's</a> 25th Beesmas 2020 <a href="quests.html">quest</a>.</li></ul>
-</td></tr></tbody></table>
-
 ## Trivia
 
 * The **Festive Wreath** and the [Reindeer Antlers](reindeer-antlers.md) share many similarities:
   * The two are the only Beequips to have models visible on the bee that they are equipped to.
-  * Before the [2024-01-12 update](updates.md#2024-01-12)'s removal of permanent Beequips, the two were the only permanent Beequips in the game.
+  * Before the 2024-01-12 update's removal of permanent Beequips, the two were the only permanent Beequips in the game.
     * This was the second permanent Beequip added to the game, preceded by the Reindeer Antlers.
     * They were the only Beequips that cannot be discarded.
     * [Caustic Waxes](caustic-wax.md) were unable to be used on these two Beequips. However, this is no longer the case.
@@ -5054,7 +5043,7 @@ Show/hide tables
 </th>
 <th class="NavCategory">Quest Exclusive
 </th>
-<td class="NavLinks NavLinksBasicEven"><b><img alt="Translator" height="35" src="img/Translator.png" width="35"/> <a href="translator.html">Translator</a> • <img alt="Spirit Petal" height="35" src="img/Spirit_Petal.png" width="35"/> <a href="spirit-petal.html">Spirit Petal</a> • <img alt="Debug Wax" height="35" src="img/Debug_Wax.png" width="35"/> <a href="debug-wax.html">Debug Wax</a> • <img alt="Nectar Tester" height="35" src="img/Nectar_Tester.png" width="35"/> <a href="nectar-tester.html">Nectar Tester</a></b> • <span typeof="mw:Error mw:File"></span> <a href="bbm-s-apology.html">BBM's Apology</a><b></b>
+<td class="NavLinks NavLinksBasicEven"><b><img alt="Translator" height="35" src="img/Translator.png" width="35"/> <a href="translator.html">Translator</a> • <img alt="Spirit Petal" height="35" src="img/Spirit_Petal.png" width="35"/> <a href="spirit-petal.html">Spirit Petal</a> • <img alt="Debug Wax" height="35" src="img/Debug_Wax.png" width="35"/> <a href="debug-wax.html">Debug Wax</a> • <img alt="Nectar Tester" height="35" src="img/Nectar_Tester.png" width="35"/> <a href="nectar-tester.html">Nectar Tester</a></b><b></b>
 </td></tr>
 <tr>
 <th class="NavCategory">Beesmas

@@ -20,7 +20,7 @@ Aged Gingerbread Bear
 
 > Not to be confused with [Gingerbread Bears](gingerbread-bear.md).
 
-An **Aged Gingerbread Bear** is a type of [treat](treats.md) that was added in the [2021-12-26 update](updates.md#2021-12-26). When fed to a bee, it raises its [bond](bond.md) by 500 and has a 1.1% chance of turning the bee gifted. Unused [Gingerbread Bears](gingerbread-bear.md) would transform into aged gingerbread bears after the next Beesmas has started. These cannot be used to purchase items from [Bee Bear's Catalog](bee-bear-s-catalog.md).
+An **Aged Gingerbread Bear** is a type of [treat](treats.md) that was added in the 2021-12-26 update. When fed to a bee, it raises its [bond](bond.md) by 500 and has a 1.1% chance of turning the bee gifted. Unused [Gingerbread Bears](gingerbread-bear.md) would transform into aged gingerbread bears after the next Beesmas has started. These cannot be used to purchase items from [Bee Bear's Catalog](bee-bear-s-catalog.md).
 
 The formula for the chance of turning a bee gifted is as follows: \(([1 - 0.989^x]\times  100)\%\), where x is the number of **Aged Gingerbread Bears** fed to a bee.
 
@@ -89,7 +89,7 @@ The formula for the chance of turning a bee gifted is as follows: \(([1 - 0.989^
 </th>
 <th class="NavCategory">Quest Exclusive
 </th>
-<td class="NavLinks NavLinksBasicEven"><b><img alt="Translator" height="35" src="img/Translator.png" width="35"/> <a href="translator.html">Translator</a> • <img alt="Spirit Petal" height="35" src="img/Spirit_Petal.png" width="35"/> <a href="spirit-petal.html">Spirit Petal</a> • <img alt="Debug Wax" height="35" src="img/Debug_Wax.png" width="35"/> <a href="debug-wax.html">Debug Wax</a> • <img alt="Nectar Tester" height="35" src="img/Nectar_Tester.png" width="35"/> <a href="nectar-tester.html">Nectar Tester</a></b> • <span typeof="mw:Error mw:File"></span> <a href="bbm-s-apology.html">BBM's Apology</a><b></b>
+<td class="NavLinks NavLinksBasicEven"><b><img alt="Translator" height="35" src="img/Translator.png" width="35"/> <a href="translator.html">Translator</a> • <img alt="Spirit Petal" height="35" src="img/Spirit_Petal.png" width="35"/> <a href="spirit-petal.html">Spirit Petal</a> • <img alt="Debug Wax" height="35" src="img/Debug_Wax.png" width="35"/> <a href="debug-wax.html">Debug Wax</a> • <img alt="Nectar Tester" height="35" src="img/Nectar_Tester.png" width="35"/> <a href="nectar-tester.html">Nectar Tester</a></b><b></b>
 </td></tr>
 <tr>
 <th class="NavCategory">Beesmas

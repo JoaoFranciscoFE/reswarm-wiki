@@ -53,7 +53,7 @@ The **Belt Bag** is a belt accessory located in the [Pro Shop](pro-shop.md).
 ## Trivia
 
 * This was given from [Sun Bear](sun-bear.md) on his first visit after completing the quest “Snag a Belt Bag” before he left. Therefore, it was the first Belt Bag he awarded. After Sun Bear left, the Belt Bag was put on sale at the Pro Shop.
-* Before the [2018-11-25 update](updates.md#2018-11-25), this [item](items.md) didn't require pineapples, sunflower seeds, or stingers to be purchased, as before this update, these items didn't exist.
+* Before the 2018-11-25 update, this [item](items.md) didn't require pineapples, sunflower seeds, or stingers to be purchased, as before this update, these items didn't exist.
 * This is one of the few items that went from being a quest reward to being purchasable in a [shop](shops.md).
   * Other items with this quality are the [Mondo Belt Bag](mondo-belt-bag.md), [Basic Boots](basic-boots.md), [Hiking Boots](hiking-boots.md), and the [Beekeeper's Boots](beekeeper-s-boots.md).
 
@@ -118,7 +118,7 @@ The **Belt Bag** is a belt accessory located in the [Pro Shop](pro-shop.md).
 </th>
 <th class="NavCategory">Quest Exclusive
 </th>
-<td class="NavLinks NavLinksBasicEven"><b><img alt="Translator" height="35" src="img/Translator.png" width="35"/> <a href="translator.html">Translator</a> • <img alt="Spirit Petal" height="35" src="img/Spirit_Petal.png" width="35"/> <a href="spirit-petal.html">Spirit Petal</a> • <img alt="Debug Wax" height="35" src="img/Debug_Wax.png" width="35"/> <a href="debug-wax.html">Debug Wax</a> • <img alt="Nectar Tester" height="35" src="img/Nectar_Tester.png" width="35"/> <a href="nectar-tester.html">Nectar Tester</a></b> • <span typeof="mw:Error mw:File"></span> <a href="bbm-s-apology.html">BBM's Apology</a><b></b>
+<td class="NavLinks NavLinksBasicEven"><b><img alt="Translator" height="35" src="img/Translator.png" width="35"/> <a href="translator.html">Translator</a> • <img alt="Spirit Petal" height="35" src="img/Spirit_Petal.png" width="35"/> <a href="spirit-petal.html">Spirit Petal</a> • <img alt="Debug Wax" height="35" src="img/Debug_Wax.png" width="35"/> <a href="debug-wax.html">Debug Wax</a> • <img alt="Nectar Tester" height="35" src="img/Nectar_Tester.png" width="35"/> <a href="nectar-tester.html">Nectar Tester</a></b><b></b>
 </td></tr>
 <tr>
 <th class="NavCategory">Beesmas

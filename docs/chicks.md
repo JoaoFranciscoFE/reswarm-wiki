@@ -7,7 +7,7 @@ tags: ["Removed Content", "Mobs", "Egg Hunt 2020", "Bosses", "Mini Bosses", "Mul
 
 <figure class="thumb" style="width: 180px" typeof="mw:File/Thumb">  <figcaption class="thumbcaption"> <p class="caption">A Level 4 Chick, which is now removed.</p> </figcaption> </figure>
 
-**Chicks** are [mobs](mobs.md) that were added as part of the [Egg Hunt 2020](updates.md#2020-04-06) event. They could spawn in a variety of places depending on their type, and have a special ability to hide inside their eggshells, increasing their defense and the chance for a bee's attacks to be blocked.
+**Chicks** are [mobs](mobs.md) that were added as part of the Egg Hunt 2020 event. They could spawn in a variety of places depending on their type, and have a special ability to hide inside their eggshells, increasing their defense and the chance for a bee's attacks to be blocked.
 
 There are five different types of chicks: Chicks, Hostage Chicks, Spotted Chicks, Commando Chicks, and Mondo Chicks. Chicks, Spotted Chicks and Hostage Chicks cannot deal damage to players while the Commando Chick and Mondo Chick can. When a chick loses all of its health points, it gets captured, and the game will notify the player in the chat. Chicks, Hostage Chicks, and Spotted Chicks were removed from the game at the end of Egg Hunt 2020.
 

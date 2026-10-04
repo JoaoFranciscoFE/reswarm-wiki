@@ -4741,25 +4741,6 @@ Show/hide tables
 
 **There are currently no ways to obtain a **Snow Tiara** without trading.**
 
-### Outdated Ways
-
-<table class="mw-collapsible mw-collapsed article-table">
-<caption>
-</caption>
-<tbody><tr>
-<td>
-<ul><li>Purchasing the Merry Mondo Bundle from Bee Bear’s Catalog granted a Snow Tiara + other items.</li>
-<li>Purchasing the Snowqueen Bundle from Bee Bear’s Catalog granted a Snow Tiara + other items.</li>
-<li>Purchasing the Royal Winter Bundle from Bee Bear’s Catalog granted a Snow Tiara + other items.</li>
-<li>By opening the Soothing <a href="gift-boxes.html">Gift Box</a>.</li>
-<li>As a drop from the <a href="tacky-planter.html">Tacky Planter</a>.</li>
-<li>Purchasing the Royal Blue Bundle from <a href="bee-bear-s-catalog.html">Bee Bear's Catalog</a> grants a Snow Tiara + other items.</li>
-<li>An Extremely rare chance to drop from <a href="spider.html">Spiders.</a></li>
-<li>By defeating a level 20 <a href="snowbear.html">Snowbear</a>.</li>
-<li>Purchasing the Snow Queen Bundle from Bee Bear’s Catalog grants <img alt="Snow Tiara" height="25" src="img/Snow_Tiara.png" width="25"/>1 <strong class="mw-selflink selflink"><span class="color-template color-template-snow-tiara color-template-background-clip">Snow Tiara</span></strong> and other items.</li>
-<li>An extremely rare chance to drop from a <a href="spider.html">spider</a>.</li></ul>
-</td></tr></tbody></table>
-
 <table class="mw-collapsible autocollapse" style="margin:auto; background:#000; font-size: 10pt; border:5px solid #56CB5A; width: 100%; border-radius: 20px; -moz-border-radius: 20px; -webkit-border-radius: 20px; -khtml-border-radius: 20px; -icab-border-radius: 20px; -o-border-radius: 20px;">
 <tbody><tr>
 <th colspan="2" style="padding-bottom: 1px; background:#FFEB7C; color:#000; border-radius: 15px; -moz-border-radius: 15px; -webkit-border-radius: 15px; -khtml-border-radius: 15px; -icab-border-radius: 15px; -o-border-radius: 15px; padding: 2px 15px;">Items
@@ -4821,7 +4802,7 @@ Show/hide tables
 </th>
 <th class="NavCategory">Quest Exclusive
 </th>
-<td class="NavLinks NavLinksBasicEven"><b><img alt="Translator" height="35" src="img/Translator.png" width="35"/> <a href="translator.html">Translator</a> • <img alt="Spirit Petal" height="35" src="img/Spirit_Petal.png" width="35"/> <a href="spirit-petal.html">Spirit Petal</a> • <img alt="Debug Wax" height="35" src="img/Debug_Wax.png" width="35"/> <a href="debug-wax.html">Debug Wax</a> • <img alt="Nectar Tester" height="35" src="img/Nectar_Tester.png" width="35"/> <a href="nectar-tester.html">Nectar Tester</a></b> • <span typeof="mw:Error mw:File"></span> <a href="bbm-s-apology.html">BBM's Apology</a><b></b>
+<td class="NavLinks NavLinksBasicEven"><b><img alt="Translator" height="35" src="img/Translator.png" width="35"/> <a href="translator.html">Translator</a> • <img alt="Spirit Petal" height="35" src="img/Spirit_Petal.png" width="35"/> <a href="spirit-petal.html">Spirit Petal</a> • <img alt="Debug Wax" height="35" src="img/Debug_Wax.png" width="35"/> <a href="debug-wax.html">Debug Wax</a> • <img alt="Nectar Tester" height="35" src="img/Nectar_Tester.png" width="35"/> <a href="nectar-tester.html">Nectar Tester</a></b><b></b>
 </td></tr>
 <tr>
 <th class="NavCategory">Beesmas

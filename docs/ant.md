@@ -130,7 +130,7 @@ They are by far the least threatening of the five ant types, as they are often e
 
 ## References
 
-1. ↑ [[1]](https://discord.com/channels/427553293862961153/427553293862961155/451866645237858334) Discord message from [Onett](onett-developer.md).
+1. ↑ [[1]](https://discord.com/channels/427553293862961153/427553293862961155/451866645237858334) Discord message from Onett.
 2. ↑ [[2]](https://discord.com/channels/427553293862961153/427553293862961155/451866688691109898) Discord message regarding the ant replacement from [Onett](onett.md).
 
 <table class="mw-collapsible NavTable">

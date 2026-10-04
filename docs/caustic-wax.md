@@ -11,7 +11,7 @@ Caustic Wax
 
 *"A glowing hunk of beeswax. Has a 25% chance to GREATLY improve a Beequip - but a 75% chance to DESTROY it!"*
 
-**Caustic Wax** is an inventory item and a type of [wax](waxes.md) added in the [2021-12-26 update](updates.md#2021-12-26) that can be used on a [Beequip](beequip.md) to boost its stats. Upon usage, it has a 25% chance of greatly improving the Beequip's stats; however, it has a 75% chance of permanently destroying the Beequip instead, destroying the Beequip and also wasting the Caustic Wax. Caustic Wax has [Upgrade Value](beequip.md#Stats,_Waxes,_Chances) of 4.
+**Caustic Wax** is an inventory item and a type of [wax](waxes.md) added in the 2021-12-26 update that can be used on a [Beequip](beequip.md) to boost its stats. Upon usage, it has a 25% chance of greatly improving the Beequip's stats; however, it has a 75% chance of permanently destroying the Beequip instead, destroying the Beequip and also wasting the Caustic Wax. Caustic Wax has [Upgrade Value](beequip.md#Stats,_Waxes,_Chances) of 4.
 
 It also can be used to craft a variety of different items, such as [planters](planter.md) and [tools](tools.md).
 
@@ -66,30 +66,6 @@ Cannot use this wax on a Permanent Beequip
   * Dapper Bear's "The Long Haul" (#10) rewards one Caustic Wax and other items.
   * Dapper Bear's "Ongoing Maintenance" (#13) rewards one Caustic Wax and other items.
   * Dapper Bear's "More Than Myth" (#15) rewards one Caustic Wax and other items.
-
-### Outdated Ways
-
-<table class="mw-collapsible mw-collapsed article-table">
-<caption>
-</caption>
-<tbody><tr>
-<td>
-<ul><li>From certain <a href="gift-boxes.html">Gift Boxes</a>.
-<ul><li>The Emerald Gift Box from Beesmas 2021 gave 1 Caustic Wax + other items.</li>
-<li>The Tropical Gift Box from Beesmas 2022 gave 1 Caustic Wax + other items.</li></ul></li>
-<li>Buying the Royal Winter Wonder Haul for 4,500 Robux awards 25 caustic wax.</li>
-<li>Purchasing deals in <a href="bee-bear-s-catalog.html">Bee Bear's Catalog</a> during Winter Beesmas 2024:
-<ul><li>1 Caustic Wax is included in the Candlewax Bundle.</li>
-<li>5 Caustic Wax are included in the Brilliant Beesmas Bundle.</li>
-<li>10 Caustic Wax are included in the Triumphant Turp Pack.</li></ul></li>
-<li>Completing <a href="gifted-riley-bee.html">Gifted Riley Bee's</a> Beesmas 2021 Quest rewarded 1 Caustic Wax + other items.</li>
-<li><a href="polar-bear.html">Polar Bear's</a> "⏳ Waiting With Sun Bear (4/6): and Polar Bear" rewarded 1 Caustic Wax and other items.</li>
-<li>A rare chance of being a match from <a href="memory-match.html#Winter_Memory_Match">Winter Memory Match</a>.</li>
-<li>As a guaranteed Drop from a level 17 <a href="snowbear.html">Snowbear</a> during Beesmas 2022.</li>
-<li>Purchasing the Mondo Robo Bundle for <span typeof="mw:Error mw:File"></span>4,500 <span class="color-template color-template-robux color-template-background-clip">Robux</span> gave 25 Caustic Waxes + other items.</li>
-<li>Purchasing the Candlelight Bundle in <a href="bee-bear-s-catalog.html">Bee Bear's Catalog</a> 2022 gave 10 Caustic Waxes + other items.</li>
-<li>Players who defeated at least 25 out of the 50 <a href="mega-mechsquito.html">Mega Mechsquitos</a> required to be defeated in <a href="stick-bug.html">Stick Bug</a>’s Beesmas 2022 quest before the nerf got 3 Caustic Waxes + other items as compensation.</li></ul>
-</td></tr></tbody></table>
 
 ## Crafting Uses
 
@@ -192,7 +168,7 @@ Total required for all single-purchase items: 228 **Caustic Waxes**
 * For some time, this wax could not be used on permanent beequips.
 * This is the only wax that can destroy beequips.
 * [Bubble Bee Man](bubble-bee-man.md)'s Beesmas 2022 quest required players to destroy 31 beequips with caustic wax.
-* Prior to the [2024-12-25 update](updates.md#2024-12-25), the [Debug Wax](debug-wax.md) used the caustic wax's icon.
+* Prior to the 2024-12-25 update, the [Debug Wax](debug-wax.md) used the caustic wax's icon.
   * Although the Debug Wax texture has been changed, both waxes have the same function, only Debug Waxes have a 100% chance of working.
 
 <table class="mw-collapsible autocollapse" style="margin:auto; background:#000; font-size: 10pt; border:5px solid #56CB5A; width: 100%; border-radius: 20px; -moz-border-radius: 20px; -webkit-border-radius: 20px; -khtml-border-radius: 20px; -icab-border-radius: 20px; -o-border-radius: 20px;">
@@ -256,7 +232,7 @@ Total required for all single-purchase items: 228 **Caustic Waxes**
 </th>
 <th class="NavCategory">Quest Exclusive
 </th>
-<td class="NavLinks NavLinksBasicEven"><b><img alt="Translator" height="35" src="img/Translator.png" width="35"/> <a href="translator.html">Translator</a> • <img alt="Spirit Petal" height="35" src="img/Spirit_Petal.png" width="35"/> <a href="spirit-petal.html">Spirit Petal</a> • <img alt="Debug Wax" height="35" src="img/Debug_Wax.png" width="35"/> <a href="debug-wax.html">Debug Wax</a> • <img alt="Nectar Tester" height="35" src="img/Nectar_Tester.png" width="35"/> <a href="nectar-tester.html">Nectar Tester</a></b> • <span typeof="mw:Error mw:File"></span> <a href="bbm-s-apology.html">BBM's Apology</a><b></b>
+<td class="NavLinks NavLinksBasicEven"><b><img alt="Translator" height="35" src="img/Translator.png" width="35"/> <a href="translator.html">Translator</a> • <img alt="Spirit Petal" height="35" src="img/Spirit_Petal.png" width="35"/> <a href="spirit-petal.html">Spirit Petal</a> • <img alt="Debug Wax" height="35" src="img/Debug_Wax.png" width="35"/> <a href="debug-wax.html">Debug Wax</a> • <img alt="Nectar Tester" height="35" src="img/Nectar_Tester.png" width="35"/> <a href="nectar-tester.html">Nectar Tester</a></b><b></b>
 </td></tr>
 <tr>
 <th class="NavCategory">Beesmas

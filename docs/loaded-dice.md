@@ -19,7 +19,7 @@ CAP
 
 25
 
-**Loaded Dice** is an [inventory item](items.md) added in the [2021-12-26 update](updates.md#2021-12-26). It boosts three random [fields](fields.md) with 300% [pollen](pollen.md) for 15 minutes, and the field the player is in has a biased chance, meaning it has a higher chance to boost the field the player is standing in. If the player uses it when there is another dice boost active, it will replace the last dice boosts and duration. It has a cooldown of 3 seconds.
+**Loaded Dice** is an [inventory item](items.md) added in the 2021-12-26 update. It boosts three random [fields](fields.md) with 300% [pollen](pollen.md) for 15 minutes, and the field the player is in has a biased chance, meaning it has a higher chance to boost the field the player is standing in. If the player uses it when there is another dice boost active, it will replace the last dice boosts and duration. It has a cooldown of 3 seconds.
 
 ## Bias Mechanism
 
@@ -58,34 +58,6 @@ To activate the bias, the player must be standing on a field. The first loaded d
 
 * A token near the [Red HQ](red-hq.md)'s roof grants 1 **Loaded Dice**.
 
-### Outdated Ways
-
-<table class="mw-collapsible mw-collapsed article-table">
-<caption>
-</caption>
-<tbody><tr>
-<td>
-<ul><li>Purchasing certain bundles from <a href="bee-bear-s-catalog.html">Bee Bear's Catalog</a>:
-<ul><li>Booster Bundle gave <img alt="Loaded Dice" height="25" src="img/Loaded_Dice.png" width="25"/>1 <strong class="mw-selflink selflink"><span class="color-template color-template-loaded-dice color-template-background-clip">Loaded Dice</span></strong> + other items.</li>
-<li>Glitching Bundle gave <img alt="Loaded Dice" height="25" src="img/Loaded_Dice.png" width="25"/>25 <strong class="mw-selflink selflink"><span class="color-template color-template-loaded-dice color-template-background-clip">Loaded Dice</span></strong> + other items.</li>
-<li>Loaded Bundle gave <img alt="Loaded Dice" height="25" src="img/Loaded_Dice.png" width="25"/>5 <strong class="mw-selflink selflink"><span class="color-template color-template-loaded-dice color-template-background-clip">Loaded Dice</span></strong> + other items.</li></ul></li>
-<li>Redeeming certain expired codes:
-<ul><li>FrozenBugReboot (Gave 1 loaded dice and other stuff).</li>
-<li>FourYearFiesta (Gave 1 loaded dice and other stuff).</li>
-<li>ThreeBeeVee (Gave 1 loaded dice and other stuff).</li></ul></li>
-<li>By purchasing certain <a href="robux-shop.html">robux packs</a>.
-<ul><li>Purchasing the Precise Pack for 1,700 robux gave 10 loaded dice and other items.</li>
-<li>Purchasing the Cyber Mondo Monday Pack for 800 robux gave 10 loaded dice and other items.</li>
-<li>Purchasing the Magical Mythic Pack for 800 robux gave 25 loaded dice and other items.</li>
-<li>Purchasing the Cyber Monday Special for 800 robux gave 10 loaded dice and other items.</li>
-<li>Purchasing the Wavy Doodle Hive Bundle for 800 robux gave 15 loaded dice and other items.</li>
-<li>Purchasing Cyber Monday Sampler gives 10 loaded dice + other items</li></ul></li>
-<li>Opening certain <a href="gift-boxes.html">Gift Boxes</a>:
-<ul><li>The Midnight Gift Box from Beesmas 2021 gave <img alt="Loaded Dice" height="25" src="img/Loaded_Dice.png" width="25"/>1 <strong class="mw-selflink selflink"><span class="color-template color-template-loaded-dice color-template-background-clip">Loaded Dice</span></strong> + other items.</li>
-<li>The Earthen Gift Box from Beesmas 2021 gave <img alt="Loaded Dice" height="25" src="img/Loaded_Dice.png" width="25"/>3 <strong class="mw-selflink selflink"><span class="color-template color-template-loaded-dice color-template-background-clip">Loaded Dice</span></strong> + other items.</li>
-<li>The Tropical Gift Box from Beesmas 2022 gave <img alt="Loaded Dice" height="25" src="img/Loaded_Dice.png" width="25"/>5 <strong class="mw-selflink selflink"><span class="color-template color-template-loaded-dice color-template-background-clip">Loaded Dice</span></strong> + other items.</li></ul></li></ul>
-</td></tr></tbody></table>
-
 ## Trivia
 
 * If you some how roll another dice while a dice is already being rolled, this notification would pop up:
@@ -93,7 +65,7 @@ To activate the bias, the player must be standing on a field. The first loaded d
 You are already rolling a dice
 
 * This is the only dice to currently have a cap (25).
-  * [Field Dice](field-dice.md) used to have a cap of 25 until the [2021-12-26 update](updates.md#2021-12-26).
+  * [Field Dice](field-dice.md) used to have a cap of 25 until the 2021-12-26 update.
 * This and the [Smooth Dice](smooth-dice.md) are the only [items](items.md) which can produce more than 1 [field boost](field-boost.md) at a time, and produce more than x1 stack of field boost at a time.
 * The fields shown on the dice are the [Sunflower Field](sunflower-field.md), the [Clover Field](clover-field.md), the [Coconut Field](coconut-field.md), the [Pumpkin Patch](pumpkin-patch.md), the [Pine Tree Forest](pine-tree-forest.md) and the [Blue Flower Field](blue-flower-field.md).
   * There also is an X icon on the front dice. It is presumed it's the "biased" slot for the field that the player is standing on.
@@ -160,7 +132,7 @@ You are already rolling a dice
 </th>
 <th class="NavCategory">Quest Exclusive
 </th>
-<td class="NavLinks NavLinksBasicEven"><b><img alt="Translator" height="35" src="img/Translator.png" width="35"/> <a href="translator.html">Translator</a> • <img alt="Spirit Petal" height="35" src="img/Spirit_Petal.png" width="35"/> <a href="spirit-petal.html">Spirit Petal</a> • <img alt="Debug Wax" height="35" src="img/Debug_Wax.png" width="35"/> <a href="debug-wax.html">Debug Wax</a> • <img alt="Nectar Tester" height="35" src="img/Nectar_Tester.png" width="35"/> <a href="nectar-tester.html">Nectar Tester</a></b> • <span typeof="mw:Error mw:File"></span> <a href="bbm-s-apology.html">BBM's Apology</a><b></b>
+<td class="NavLinks NavLinksBasicEven"><b><img alt="Translator" height="35" src="img/Translator.png" width="35"/> <a href="translator.html">Translator</a> • <img alt="Spirit Petal" height="35" src="img/Spirit_Petal.png" width="35"/> <a href="spirit-petal.html">Spirit Petal</a> • <img alt="Debug Wax" height="35" src="img/Debug_Wax.png" width="35"/> <a href="debug-wax.html">Debug Wax</a> • <img alt="Nectar Tester" height="35" src="img/Nectar_Tester.png" width="35"/> <a href="nectar-tester.html">Nectar Tester</a></b><b></b>
 </td></tr>
 <tr>
 <th class="NavCategory">Beesmas

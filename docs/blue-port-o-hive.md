@@ -22,7 +22,7 @@ tags: ["Bags", "Items", "Blue", "Crafted"]
 </div>
 </aside>
 
-The **Blue Port-O-Hive** is a [bag](bags.md) that was added in the [2019-04-05 Update](updates.md) and can be bought in the [Blue HQ](blue-hq.md).
+The **Blue Port-O-Hive** is a [bag](bags.md) that was added in the 2019-04-05 Update and can be bought in the [Blue HQ](blue-hq.md).
 
 <table class="article-table">
 <tbody><tr>
@@ -51,7 +51,7 @@ The **Blue Port-O-Hive** is a [bag](bags.md) that was added in the [2019-04-05 U
 * Prior to the 2024-05-23 Update, this item had no material requirements.
 * During Beesmas 2021, [Bee Bear](bee-bear.md) said Snow Cub Buddy hates “Blue Backpackers” (players with Blue Port-O-Hive equipped). This is a reference to a running stereotype that went on in the BSS community.
   * The [Cool Backpack Sticker](sticker.md#Sticker_Index) is also a reference to the Blue Port-O-Hive. With it being the only backpack sticker currently in the game, it is likely another reference to the stereotype.
-* In the [2026-04-23 update](updates.md#2026-04-23), all Port-O-Hive variants have its mesh scaled down due to a bug. Its cause is unknown.
+* In the 2026-04-23 update, all Port-O-Hive variants have its mesh scaled down due to a bug. Its cause is unknown.
 
 <table class="mw-collapsible autocollapse" style="margin:auto; background:#000; font-size: 10pt; border:5px solid #56CB5A; width: 100%; border-radius: 20px; -moz-border-radius: 20px; -webkit-border-radius: 20px; -khtml-border-radius: 20px; -icab-border-radius: 20px; -o-border-radius: 20px;">
 <tbody><tr>
@@ -114,7 +114,7 @@ The **Blue Port-O-Hive** is a [bag](bags.md) that was added in the [2019-04-05 U
 </th>
 <th class="NavCategory">Quest Exclusive
 </th>
-<td class="NavLinks NavLinksBasicEven"><b><img alt="Translator" height="35" src="img/Translator.png" width="35"/> <a href="translator.html">Translator</a> • <img alt="Spirit Petal" height="35" src="img/Spirit_Petal.png" width="35"/> <a href="spirit-petal.html">Spirit Petal</a> • <img alt="Debug Wax" height="35" src="img/Debug_Wax.png" width="35"/> <a href="debug-wax.html">Debug Wax</a> • <img alt="Nectar Tester" height="35" src="img/Nectar_Tester.png" width="35"/> <a href="nectar-tester.html">Nectar Tester</a></b> • <span typeof="mw:Error mw:File"></span> <a href="bbm-s-apology.html">BBM's Apology</a><b></b>
+<td class="NavLinks NavLinksBasicEven"><b><img alt="Translator" height="35" src="img/Translator.png" width="35"/> <a href="translator.html">Translator</a> • <img alt="Spirit Petal" height="35" src="img/Spirit_Petal.png" width="35"/> <a href="spirit-petal.html">Spirit Petal</a> • <img alt="Debug Wax" height="35" src="img/Debug_Wax.png" width="35"/> <a href="debug-wax.html">Debug Wax</a> • <img alt="Nectar Tester" height="35" src="img/Nectar_Tester.png" width="35"/> <a href="nectar-tester.html">Nectar Tester</a></b><b></b>
 </td></tr>
 <tr>
 <th class="NavCategory">Beesmas

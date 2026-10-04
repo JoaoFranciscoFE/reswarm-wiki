@@ -19,7 +19,7 @@ Goo can be freely shared with other players. Collecting goo depletes the underly
 
 ## Trivia
 
-* Gummy Bear's [Gummy Cannon](gummy-cannon.md) is capable of shooting gumdrops at all [fields](fields.md) except the [Mountain Top Field](mountain-top-field.md), [Ant Field](ant-field.md), [Hub Field](hub-field.md), and [Brick Fields](retro-swarm-challenge.md). When the gumdrops land, they turn into goo. Gummy Bear continually cycles through all 13 fields excluding the [Mountain Top Field](mountain-top-field.md) in a random order. When he targeted a field, the server announces it in the bottom right corner as well as in the chat window.
+* Gummy Bear's Gummy Cannon is capable of shooting gumdrops at all [fields](fields.md) except the [Mountain Top Field](mountain-top-field.md), [Ant Field](ant-field.md), [Hub Field](hub-field.md), and [Brick Fields](retro-swarm-challenge.md). When the gumdrops land, they turn into goo. Gummy Bear continually cycles through all 13 fields excluding the [Mountain Top Field](mountain-top-field.md) in a random order. When he targeted a field, the server announces it in the bottom right corner as well as in the chat window.
   * The Gummy Cannon doesn't always shoot in the center of fields. Sometimes, the gumdrops landed outside of the field, making them vanish and sometimes going to the surrounding fields.
 * If a gumdrop falls outside of a field and does not land on a flower, it disappears.
 * [Gummy Bee's](gummy-bee.md) [Glob](ability-tokens.md#Glob) and [Gumdrop Barrage](ability-tokens.md#Gumdrop_Barrage) abilities both spread goo in fields.

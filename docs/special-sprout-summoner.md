@@ -7,7 +7,7 @@ tags: ["Locations", "Machines", "Summoner"]
 
 <figure class="thumb" style="width: 180px" typeof="mw:File/Thumb">  <figcaption class="thumbcaption"> <p class="caption">The Special Sprout Summoner.</p> </figcaption> </figure>
 
-The **Special Sprout Summoner** is a machine located near to the [Red HQ](red-hq.md) and [Sunflower Field](sunflower-field.md). It allows players who have discovered all 8 [Legendary bee](bees-legendary.md) types to summon either a rare, epic, legendary, supreme, gummy, or a moon [sprout](sprout.md) in a random [field](fields.md) (except [Coconut Field](coconut-field.md) or [Pepper Patch](pepper-patch.md)), and can only be used every 16 hours. It was added along with sprouts in the [2018-09-10 update](updates.md#2018-09-10). It is decorated with a rare sprout that gives off particles.
+The **Special Sprout Summoner** is a machine located near to the [Red HQ](red-hq.md) and [Sunflower Field](sunflower-field.md). It allows players who have discovered all 8 [Legendary bee](bees-legendary.md) types to summon either a rare, epic, legendary, supreme, gummy, or a moon [sprout](sprout.md) in a random [field](fields.md) (except [Coconut Field](coconut-field.md) or [Pepper Patch](pepper-patch.md)), and can only be used every 16 hours. It was added along with sprouts in the 2018-09-10 update. It is decorated with a rare sprout that gives off particles.
 
 Once used, the game will announce:  
 🌱 {Username} has planted a(n) [Rarity] Sprout...🌱
@@ -16,9 +16,9 @@ Once used, the game will announce:
 
 * The Special Sprout Summoner and the [honeystorm](honeystorm.md) summoner are the only machines that require discovering Legendary bee types to be used, with this summoner requiring 8 and the honeystorm summoner requiring 4.
   * Similarly, the [Mythic Meteor Shower summoner](mythic-meteor-shower.md) requires 3 [Mythic bee](bees-mythic.md) types discovered to be used.
-* Before the [2018-11-25 update](updates.md#2018-11-25), it was originally a normal sprout summoner, which was called the Sprout Summoner. It had the appearance of a normal sprout. The player only needed to discover 7 Legendary bees, as at the time there were only 7 Legendary bees. Its cooldown was only 8 hours and it had a chance to summon normal sprouts.
+* Before the 2018-11-25 update, it was originally a normal sprout summoner, which was called the Sprout Summoner. It had the appearance of a normal sprout. The player only needed to discover 7 Legendary bees, as at the time there were only 7 Legendary bees. Its cooldown was only 8 hours and it had a chance to summon normal sprouts.
   * [Magic Beans](magic-bean.md) also did not exist back then, so this summoner was the only way for a player to summon a sprout manually.
-* The Special Sprout Summoner cannot summon a normal sprout after the [2018-11-25 update](updates.md#2018-11-25).
+* The Special Sprout Summoner cannot summon a normal sprout after the 2018-11-25 update.
 
 <table class="mw-collapsible mw-collapsed NavTable">
 <tbody><tr>
@@ -62,5 +62,5 @@ Once used, the game will announce:
 <tr>
 <th class="NavCategory">Event<br/>Locations
 </th>
-<td class="NavLinks NavLinksBasicEven"><b><a href="beesmas-tree.html">Beesmas Tree</a> • <a href="ornament-presents.html">Ornament Presents</a> • <span class="new" data-uncrawlable-url="L3dpa2kvQ29tcHV0ZXI/YWN0aW9uPWVkaXQmcmVkbGluaz0x" title="Computer (page does not exist)">Computer</span> • <a href="gift-boxes.html">Gift Boxes</a> • <a href="honey-wreath.html">Honey Wreath</a> • <a href="stockings.html">Stockings</a> • <a href="gingerbread-house.html">Gingerbread House</a> • <a href="snowbear-summoner.html">Snowbear Summoner</a> • <a href="beesmas-lights.html">Beesmas Lights</a> • <a href="samovar.html">Samovar</a> • <a href="beesmas-feast.html">Beesmas Feast</a> • <a href="onett-s-lid-art.html">Onett's Lid Art</a> • <a href="wind-shrine.html#Galentine_Shrine">Galentine Shrine</a> • <a href="memory-match.html#Winter_Memory_Match">Winter Memory Match</a> • <a href="snow-machine.html">Snow Machine</a> • <a href="honeyday-candles.html">Honeyday Candles</a> • <a href="robo-party-cake.html">Robo Party Cake</a> • <a href="gummy-beacon.html">Gummy Beacon</a> • <a href="naughty-list.html">Naughty List</a></b>
+<td class="NavLinks NavLinksBasicEven"><b><a href="beesmas-tree.html">Beesmas Tree</a> • <span class="new" data-uncrawlable-url="L3dpa2kvQ29tcHV0ZXI/YWN0aW9uPWVkaXQmcmVkbGluaz0x" title="Computer (page does not exist)">Computer</span> • <a href="gift-boxes.html">Gift Boxes</a> • <a href="honey-wreath.html">Honey Wreath</a> • <a href="stockings.html">Stockings</a> • <a href="gingerbread-house.html">Gingerbread House</a> • <a href="snowbear-summoner.html">Snowbear Summoner</a> • <a href="beesmas-lights.html">Beesmas Lights</a> • <a href="samovar.html">Samovar</a> • <a href="beesmas-feast.html">Beesmas Feast</a> • <a href="onett-s-lid-art.html">Onett's Lid Art</a> • <a href="wind-shrine.html#Galentine_Shrine">Galentine Shrine</a> • <a href="memory-match.html#Winter_Memory_Match">Winter Memory Match</a> • <a href="snow-machine.html">Snow Machine</a> • <a href="honeyday-candles.html">Honeyday Candles</a> • <a href="robo-party-cake.html">Robo Party Cake</a> • <a href="gummy-beacon.html">Gummy Beacon</a> • <a href="naughty-list.html">Naughty List</a></b>
 </td></tr></tbody></table>

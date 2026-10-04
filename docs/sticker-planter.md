@@ -68,7 +68,7 @@ BONUS ITEMS
 
 Stickers
 
-The **Sticker Planter** is a single-use [planter](planter.md) added in the [2024-01-12 update](updates.md#2024-01-12). Alone, it grows in about 3 hours of playtime and stores 200,000 [pollen](pollen.md). A player can store up to 25 Sticker Planters at a time, but only 1 can be active.
+The **Sticker Planter** is a single-use [planter](planter.md) added in the 2024-01-12 update. Alone, it grows in about 3 hours of playtime and stores 200,000 [pollen](pollen.md). A player can store up to 25 Sticker Planters at a time, but only 1 can be active.
 
 It does not have any growth nor pollen multipliers, and grants x2 [nectar](nectar.md).
 
@@ -269,20 +269,6 @@ Offline Voucher(Unfathomably Rare)<br/>
   * Completing Quest 555 guarantees 5 Sticker Planters.
 * Completing [Bee Bear](bee-bear.md)'s "Stocking Up On Stickers" quest rewards a Sticker Planter and other items.
 * Purchasing the Saint Puff's Pack from [Bee Bear's Catalog](bee-bear-s-catalog.md) for 50 [Gingerbread Bears](gingerbread-bear.md) gives a Sticker Planter and other items.
-
-### Outdated Ways
-
-<table class="mw-collapsible mw-collapsed article-table">
-<caption>
-</caption>
-<tbody><tr>
-<td>
-<ul><li>Being in the top 100 of the Tallest Sticker Stack leaderboard in the Public Test Realm on 2024-01-13 gave 10 Sticker Planters. This reward was also accidentally given to the top 100 in the main game too.</li>
-<li>Completing Bee Bear's fifth quest during Beesmas 2024 rewarded a Sticker Planter and other items.</li>
-<li>By purchasing certain bundles from Bee Bear's Catalog:
-<ul><li>The Planter Sampler Pack that costed <img alt="Snowflake" height="25" src="img/Snowflake.png" width="25"/>400 <a href="snowflake.html"><span class="color-template color-template-snowflake color-template-background-clip">Snowflakes</span></a> and <img alt="Gingerbread Bear" height="25" src="img/Gingerbread_Bear.png" width="25"/>8 <a href="gingerbread-bear.html"><span class="color-template color-template-gingerbread-bear color-template-background-clip">Gingerbread Bears</span></a> gave 1 Sticker Planter and other items.</li>
-<li>The Sticker Sticker Bundle that costed <img alt="Gingerbread Bear" height="25" src="img/Gingerbread_Bear.png" width="25"/>50 <a href="gingerbread-bear.html"><span class="color-template color-template-gingerbread-bear color-template-background-clip">Gingerbread Bears</span></a> gave 5 Sticker Planters and other items.</li></ul></li></ul>
-</td></tr></tbody></table>
 
 ## Trivia
 

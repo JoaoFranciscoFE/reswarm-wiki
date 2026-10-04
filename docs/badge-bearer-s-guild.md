@@ -198,8 +198,8 @@ This [audio](music.md) is known as "Vendor" and also plays inside the [Noob Shop
 * This shop is one of the shops that don't have ‘Shop’ in its name, the other shops being the [Ticket Tent](ticket-tent.md), the [Red HQ](red-hq.md), the [Blue HQ](blue-hq.md), [Gummy Bear's Lair](gummy-bear-s-lair.md), and the [Coconut Cave](coconut-cave.md).
 * The Badge Bearer's Guild, Ace Shop, and Gummy Bear's Lair are the only locations that require [badges](badges.md) to enter.
 * All the sprinklers on display in the shop except The Supreme Saturator are solid.
-* The star jelly on the Blender used to be on the ground in the middle of the shop, but that has changed since the [2018-11-25 update](updates.md#2018-11-25).
-* In the [2018-12-19 update](updates.md#2018-12-19), a [present](present.md) token was added inside the shop. It was located on top of the honeycomb of the Ace Shop but has since been removed.
+* The star jelly on the Blender used to be on the ground in the middle of the shop, but that has changed since the 2018-11-25 update.
+* In the 2018-12-19 update, a [present](present.md) token was added inside the shop. It was located on top of the honeycomb of the Ace Shop but has since been removed.
 * Behind the Ace Badge section is a narrow corridor with a transparent barrier that prevents the player from progressing further.
 
 <table class="mw-collapsible mw-collapsed NavTable">
@@ -244,6 +244,6 @@ This [audio](music.md) is known as "Vendor" and also plays inside the [Noob Shop
 <tr>
 <th class="NavCategory">Event<br/>Locations
 </th>
-<td class="NavLinks NavLinksBasicEven"><b><a href="beesmas-tree.html">Beesmas Tree</a> • <a href="ornament-presents.html">Ornament Presents</a> • <span class="new" data-uncrawlable-url="L3dpa2kvQ29tcHV0ZXI/YWN0aW9uPWVkaXQmcmVkbGluaz0x" title="Computer (page does not exist)">Computer</span> • <a href="gift-boxes.html">Gift Boxes</a> • <a href="honey-wreath.html">Honey Wreath</a> • <a href="stockings.html">Stockings</a> • <a href="gingerbread-house.html">Gingerbread House</a> • <a href="snowbear-summoner.html">Snowbear Summoner</a> • <a href="beesmas-lights.html">Beesmas Lights</a> • <a href="samovar.html">Samovar</a> • <a href="beesmas-feast.html">Beesmas Feast</a> • <a href="onett-s-lid-art.html">Onett's Lid Art</a> • <a href="wind-shrine.html#Galentine_Shrine">Galentine Shrine</a> • <a href="memory-match.html#Winter_Memory_Match">Winter Memory Match</a> • <a href="snow-machine.html">Snow Machine</a> • <a href="honeyday-candles.html">Honeyday Candles</a> • <a href="robo-party-cake.html">Robo Party Cake</a> • <a href="gummy-beacon.html">Gummy Beacon</a> • <a href="naughty-list.html">Naughty List</a></b>
+<td class="NavLinks NavLinksBasicEven"><b><a href="beesmas-tree.html">Beesmas Tree</a> • <span class="new" data-uncrawlable-url="L3dpa2kvQ29tcHV0ZXI/YWN0aW9uPWVkaXQmcmVkbGluaz0x" title="Computer (page does not exist)">Computer</span> • <a href="gift-boxes.html">Gift Boxes</a> • <a href="honey-wreath.html">Honey Wreath</a> • <a href="stockings.html">Stockings</a> • <a href="gingerbread-house.html">Gingerbread House</a> • <a href="snowbear-summoner.html">Snowbear Summoner</a> • <a href="beesmas-lights.html">Beesmas Lights</a> • <a href="samovar.html">Samovar</a> • <a href="beesmas-feast.html">Beesmas Feast</a> • <a href="onett-s-lid-art.html">Onett's Lid Art</a> • <a href="wind-shrine.html#Galentine_Shrine">Galentine Shrine</a> • <a href="memory-match.html#Winter_Memory_Match">Winter Memory Match</a> • <a href="snow-machine.html">Snow Machine</a> • <a href="honeyday-candles.html">Honeyday Candles</a> • <a href="robo-party-cake.html">Robo Party Cake</a> • <a href="gummy-beacon.html">Gummy Beacon</a> • <a href="naughty-list.html">Naughty List</a></b>
 </td></tr></tbody></table>
 

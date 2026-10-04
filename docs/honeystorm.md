@@ -13,7 +13,7 @@ Upon being summoned, a golden-yellow fog will appear along with a multitude of [
   
 
 A Honeystorm has been summoned!  
-When a honeystorm is summoned, the honey tokens make raindrop-like popping noises when they appear. Like with the [Mythic Meteor Shower](mythic-meteor-shower.md), there's an audio of a distorted voice clip from [IcedTeaLatte](bss-staff.md), a staff member for the game, saying "Honeystorm" to indicate that a honeystorm has been summoned.[1]
+When a honeystorm is summoned, the honey tokens make raindrop-like popping noises when they appear. Like with the [Mythic Meteor Shower](mythic-meteor-shower.md), there's an audio of a distorted voice clip from IcedTeaLatte, a staff member for the game, saying "Honeystorm" to indicate that a honeystorm has been summoned.[1]
 
 Fields with bigger [flowers](flowers.md) give higher amounts of honey per token, with their totals being increased by the [Honey from Tokens](system-page.md#Honey_From_Tokens) stat. These honey tokens also despawn faster than normal honey tokens.
 
@@ -23,9 +23,9 @@ Fields with bigger [flowers](flowers.md) give higher amounts of honey per token,
   * As of Beesmas 2020, this is no longer the case, since Snowstorms use the white fog instead.
 * This and the [Special Sprout Summoner](special-sprout-summoner.md) are the only machines that require the player to discover Legendary bee types to be activated, with this requiring 4 and the Special Sprout Summoner requiring 8.
 * A honeystorm's yellow tint could generate enough light to make the [cave monsters](cave-monster.md) in the Werewolf's cave visible.
-* There is a [glitch](glitches.md) where if a switch between day and [night](day-night-cycle.md) occurs while a honeystorm is active, the fog will disappear. This is purely visual and the honeystorm will still function as normal. This glitch is shared with Mythic Meteor Showers and Snowstorms.
+* There is a glitch where if a switch between day and [night](day-night-cycle.md) occurs while a honeystorm is active, the fog will disappear. This is purely visual and the honeystorm will still function as normal. This glitch is shared with Mythic Meteor Showers and Snowstorms.
 * There was a short-lived issue around 2018-05-26 that caused the Honeystorm Summoner to be removed. If a player encountered a server without a Honeystorm Summoner, they could simply leave the game and come back. This was, of course, fixed later.
-* After the [2018-09-10 update](updates.md#2018-09-10), the Honeystorm Summoner was moved and the [Wealth Clock](wealth-clock.md) now sits in its former spot. Now it is located between the [Clover Field](clover-field.md) and [Blue HQ](blue-hq.md).
+* After the 2018-09-10 update, the Honeystorm Summoner was moved and the [Wealth Clock](wealth-clock.md) now sits in its former spot. Now it is located between the [Clover Field](clover-field.md) and [Blue HQ](blue-hq.md).
 * Upon receiving the quest "Witness Grandeur", [Spirit Bear](spirit-bear.md) summons a honeystorm.
 * According to [Bee Bear](bee-bear.md), [Bubble Bee Man](bubble-bee-man.md) summons the honeystorms.
 * If you summon honeystorms at night, the fog will stay even after the storm until daytime.
@@ -77,5 +77,5 @@ Fields with bigger [flowers](flowers.md) give higher amounts of honey per token,
 <tr>
 <th class="NavCategory">Event<br/>Locations
 </th>
-<td class="NavLinks NavLinksBasicEven"><b><a href="beesmas-tree.html">Beesmas Tree</a> • <a href="ornament-presents.html">Ornament Presents</a> • <span class="new" data-uncrawlable-url="L3dpa2kvQ29tcHV0ZXI/YWN0aW9uPWVkaXQmcmVkbGluaz0x" title="Computer (page does not exist)">Computer</span> • <a href="gift-boxes.html">Gift Boxes</a> • <a href="honey-wreath.html">Honey Wreath</a> • <a href="stockings.html">Stockings</a> • <a href="gingerbread-house.html">Gingerbread House</a> • <a href="snowbear-summoner.html">Snowbear Summoner</a> • <a href="beesmas-lights.html">Beesmas Lights</a> • <a href="samovar.html">Samovar</a> • <a href="beesmas-feast.html">Beesmas Feast</a> • <a href="onett-s-lid-art.html">Onett's Lid Art</a> • <a href="wind-shrine.html#Galentine_Shrine">Galentine Shrine</a> • <a href="memory-match.html#Winter_Memory_Match">Winter Memory Match</a> • <a href="snow-machine.html">Snow Machine</a> • <a href="honeyday-candles.html">Honeyday Candles</a> • <a href="robo-party-cake.html">Robo Party Cake</a> • <a href="gummy-beacon.html">Gummy Beacon</a> • <a href="naughty-list.html">Naughty List</a></b>
+<td class="NavLinks NavLinksBasicEven"><b><a href="beesmas-tree.html">Beesmas Tree</a> • <span class="new" data-uncrawlable-url="L3dpa2kvQ29tcHV0ZXI/YWN0aW9uPWVkaXQmcmVkbGluaz0x" title="Computer (page does not exist)">Computer</span> • <a href="gift-boxes.html">Gift Boxes</a> • <a href="honey-wreath.html">Honey Wreath</a> • <a href="stockings.html">Stockings</a> • <a href="gingerbread-house.html">Gingerbread House</a> • <a href="snowbear-summoner.html">Snowbear Summoner</a> • <a href="beesmas-lights.html">Beesmas Lights</a> • <a href="samovar.html">Samovar</a> • <a href="beesmas-feast.html">Beesmas Feast</a> • <a href="onett-s-lid-art.html">Onett's Lid Art</a> • <a href="wind-shrine.html#Galentine_Shrine">Galentine Shrine</a> • <a href="memory-match.html#Winter_Memory_Match">Winter Memory Match</a> • <a href="snow-machine.html">Snow Machine</a> • <a href="honeyday-candles.html">Honeyday Candles</a> • <a href="robo-party-cake.html">Robo Party Cake</a> • <a href="gummy-beacon.html">Gummy Beacon</a> • <a href="naughty-list.html">Naughty List</a></b>
 </td></tr></tbody></table>

@@ -336,9 +336,9 @@ Carpenter Bee likes the [Bamboo Field](bamboo-field.md), and [Pine Tree Forest](
 
 ## Trivia
 
-* Carpenter Bee and Music Bee are also the only Legendary bees added in an [update](updates.md).
+* Carpenter Bee and Music Bee are also the only Legendary bees added in an update.
 * This bee, [Spicy Bee](spicy-bee.md), and [Vector Bee](vector-bee.md) are the only non-[Event bees](bees-event.md) that have special body parts (hammer mesh).
-* This is one of two bees added in the [2018-11-25 Update](updates.md#2018-11-25), along with [Stubborn Bee](stubborn-bee.md).
+* This is one of two bees added in the 2018-11-25 Update, along with [Stubborn Bee](stubborn-bee.md).
 * One reason Carpenter Bee likes the [Pine Tree Forest](pine-tree-forest.md) might be because pine trees are made of wood.
   * One reason Carpenter Bee dislikes the [Mountain Top Field](mountain-top-field.md) might be because on the tops of tall mountains, there are no trees.
 * Carpenter Bee, along with [Honey Bee](honey-bee.md) and [Bumble Bee](bumble-bee.md), are the only bees named after their real-life counterparts.

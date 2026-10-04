@@ -19,7 +19,7 @@ CAP
 
 25
 
-The **Pink Balloon** is a consumable [item](items.md#Misc._Items) that was added in the [2021-12-26 update](updates.md). Once used, it creates a pink [balloon](balloon.md) over the [field](fields.md) the player is in. The balloon floats over the field, storing [pollen](pollen.md) collected underneath it. The pollen collected below is doubled. It holds up to double the player's capacity. It floats over the field for 3 minutes before floating to the [hive](hive.md) balloon.
+The **Pink Balloon** is a consumable [item](items.md#Misc._Items) that was added in the 2021-12-26 update. Once used, it creates a pink [balloon](balloon.md) over the [field](fields.md) the player is in. The balloon floats over the field, storing [pollen](pollen.md) collected underneath it. The pollen collected below is doubled. It holds up to double the player's capacity. It floats over the field for 3 minutes before floating to the [hive](hive.md) balloon.
 
 Pink balloons have a cap of 25 in the player's inventory, and 1 per player in the field.
 
@@ -29,28 +29,6 @@ Pink balloons have a cap of 25 in the player's inventory, and 1 per player in th
 * As a drop from the [Retro Swarm Challenge](retro-swarm-challenge.md).
 * As a drop from the [Party Mega Mechsquito](party-mega-mechsquito.md).
 * As a drop from completing a Robo Party.
-
-### Outdated Ways
-
-<table class="mw-collapsible mw-collapsed article-table">
-<caption>
-</caption>
-<tbody><tr>
-<td>
-<p>Redeeming certain expired <a href="codes.html">codes</a>:
-</p>
-<ul><li><ul><li>ThnxCyasToyBox (gave <img alt="Pink Balloon" height="25" src="img/Pink_Balloon.png" width="25"/>1 <strong class="mw-selflink selflink"><span class="color-template color-template-pink-balloon color-template-background-clip">Pink Balloon</span></strong> and other stuff).</li>
-<li>FourYearFiesta (gave <img alt="Pink Balloon" height="25" src="img/Pink_Balloon.png" width="25"/>1 <strong class="mw-selflink selflink"><span class="color-template color-template-pink-balloon color-template-background-clip">Pink Balloon</span></strong> and other stuff).</li>
-<li>2MLikes (gave <img alt="Pink Balloon" height="25" src="img/Pink_Balloon.png" width="25"/>2 <strong class="mw-selflink selflink"><span class="color-template color-template-pink-balloon color-template-background-clip">Pink Balloons</span></strong> and other stuff).</li>
-<li>BoxWhoops (gave <img alt="Pink Balloon" height="25" src="img/Pink_Balloon.png" width="25"/>2 <strong class="mw-selflink selflink"><span class="color-template color-template-pink-balloon color-template-background-clip">Pink Balloons</span></strong> and other stuff).</li>
-<li>MarchIsMerry (gave <img alt="Pink Balloon" height="25" src="img/Pink_Balloon.png" width="25"/>2 <strong class="mw-selflink selflink"><span class="color-template color-template-pink-balloon color-template-background-clip">Pink Balloons</span></strong> and other stuff).</li>
-<li>DiscordMillion (gave <img alt="Pink Balloon" height="25" src="img/Pink_Balloon.png" width="25"/>1 <strong class="mw-selflink selflink"><span class="color-template color-template-pink-balloon color-template-background-clip">Pink Balloon</span></strong> and other stuff).</li></ul></li>
-<li>Opening the <a href="gift-boxes.html">Kitsch Gift Box</a>. (Gave <img alt="Pink Balloon" height="25" src="img/Pink_Balloon.png" width="25"/>1 <strong class="mw-selflink selflink"><span class="color-template color-template-pink-balloon color-template-background-clip">Pink Balloon</span></strong> + other stuff).</li>
-<li>From purchasing the Balloon Bundle in <a href="bee-bear-s-catalog.html">Bee Bear's Catalog</a> during Beesmas 2021.</li>
-<li>As a reward from a Robo Party.</li>
-<li>Purchasing the Balloon Bundle from <a href="bee-bear-s-catalog.html">Bee Bear's Catalog</a> for 333 <a href="snowflake.html">Snowflakes</a>, granting <img alt="Pink Balloon" height="25" src="img/Pink_Balloon.png" width="25"/>4 <strong class="mw-selflink selflink"><span class="color-template color-template-pink-balloon color-template-background-clip">Pink Balloons</span></strong> and other items.</li>
-<li>As a reward from completing <a href="mother-bear.html">Mother Bear's</a> "Waiting With Sun Bear (2/6): And Mother Bear" and "Waiting With Sun Bear (5/6): And Mother Bear. Again" quest from Fall 2024.</li></ul>
-</td></tr></tbody></table>
 
 <table class="mw-collapsible autocollapse" style="margin:auto; background:#000; font-size: 10pt; border:5px solid #56CB5A; width: 100%; border-radius: 20px; -moz-border-radius: 20px; -webkit-border-radius: 20px; -khtml-border-radius: 20px; -icab-border-radius: 20px; -o-border-radius: 20px;">
 <tbody><tr>
@@ -113,7 +91,7 @@ Pink balloons have a cap of 25 in the player's inventory, and 1 per player in th
 </th>
 <th class="NavCategory">Quest Exclusive
 </th>
-<td class="NavLinks NavLinksBasicEven"><b><img alt="Translator" height="35" src="img/Translator.png" width="35"/> <a href="translator.html">Translator</a> • <img alt="Spirit Petal" height="35" src="img/Spirit_Petal.png" width="35"/> <a href="spirit-petal.html">Spirit Petal</a> • <img alt="Debug Wax" height="35" src="img/Debug_Wax.png" width="35"/> <a href="debug-wax.html">Debug Wax</a> • <img alt="Nectar Tester" height="35" src="img/Nectar_Tester.png" width="35"/> <a href="nectar-tester.html">Nectar Tester</a></b> • <span typeof="mw:Error mw:File"></span> <a href="bbm-s-apology.html">BBM's Apology</a><b></b>
+<td class="NavLinks NavLinksBasicEven"><b><img alt="Translator" height="35" src="img/Translator.png" width="35"/> <a href="translator.html">Translator</a> • <img alt="Spirit Petal" height="35" src="img/Spirit_Petal.png" width="35"/> <a href="spirit-petal.html">Spirit Petal</a> • <img alt="Debug Wax" height="35" src="img/Debug_Wax.png" width="35"/> <a href="debug-wax.html">Debug Wax</a> • <img alt="Nectar Tester" height="35" src="img/Nectar_Tester.png" width="35"/> <a href="nectar-tester.html">Nectar Tester</a></b><b></b>
 </td></tr>
 <tr>
 <th class="NavCategory">Beesmas

@@ -63,33 +63,6 @@ A **Treat** is a type of [treat](treats.md) that can be fed to a [bee](bees.md) 
 * All of Onett's quests give treats, 25,000 treats in total.
 * Every 5th completion of Honey Bee's quest may give treats.
 
-### Outdated Ways
-
-<table class="mw-collapsible mw-collapsed article-table">
-<caption>
-</caption>
-<tbody><tr>
-<td>
-<ul><li>As a drop from <a href="chicks.html#Chick">Chick</a>, <a href="chicks.html#Hostage_Chick">Hostage Chick</a>, and <a href="chicks.html#Spotted_Chick">Spotted Chick</a>.</li>
-<li>Redeeming certain expired codes:
-<ul><li>ClubSnacks (Gave 30 treats + other stuff).</li>
-<li>CookieClub (Gave 10 treats + other stuff).</li>
-<li>NikTacAttack (Gave 25 treats + other stuff).</li>
-<li>MegaMittens (Gave 10 treats + other stuff).</li>
-<li>Summer (Gave 10 treats + other stuff).</li>
-<li>GremlinGoodies (Gave 15 treats + other stuff).</li>
-<li>PuppyPerk (Gave 10 treats + other stuff).</li>
-<li>ThatGuysCrew (Gave 15 treats + other stuff).</li>
-<li>RobziRobot (Gave 15 treats + other stuff).</li>
-<li>TrickOrtreat (Gave 50 treats + other stuff).</li>
-<li>DarzethDonation (Gave 15 treats + other stuff).</li>
-<li>HappyNewYear (Gave 20 treats + other stuff).</li>
-<li>MayRutreats (Gave 5 treats + other stuff)</li>
-<li>MinhMaMaMoons (Gave 10 treats + other stuff)</li>
-<li>300MVisits (Gave 10 treats + other stuff)</li>
-<li>1MLikes (Gave 1 treat + other stuff).</li></ul></li></ul>
-</td></tr></tbody></table>
-
 ## Crafting Uses
 
 Total required for all single-purchase items: 9,999 **Treats**
@@ -168,7 +141,7 @@ Total required for all single-purchase items: 9,999 **Treats**
 </th>
 <th class="NavCategory">Quest Exclusive
 </th>
-<td class="NavLinks NavLinksBasicEven"><b><img alt="Translator" height="35" src="img/Translator.png" width="35"/> <a href="translator.html">Translator</a> • <img alt="Spirit Petal" height="35" src="img/Spirit_Petal.png" width="35"/> <a href="spirit-petal.html">Spirit Petal</a> • <img alt="Debug Wax" height="35" src="img/Debug_Wax.png" width="35"/> <a href="debug-wax.html">Debug Wax</a> • <img alt="Nectar Tester" height="35" src="img/Nectar_Tester.png" width="35"/> <a href="nectar-tester.html">Nectar Tester</a></b> • <span typeof="mw:Error mw:File"></span> <a href="bbm-s-apology.html">BBM's Apology</a><b></b>
+<td class="NavLinks NavLinksBasicEven"><b><img alt="Translator" height="35" src="img/Translator.png" width="35"/> <a href="translator.html">Translator</a> • <img alt="Spirit Petal" height="35" src="img/Spirit_Petal.png" width="35"/> <a href="spirit-petal.html">Spirit Petal</a> • <img alt="Debug Wax" height="35" src="img/Debug_Wax.png" width="35"/> <a href="debug-wax.html">Debug Wax</a> • <img alt="Nectar Tester" height="35" src="img/Nectar_Tester.png" width="35"/> <a href="nectar-tester.html">Nectar Tester</a></b><b></b>
 </td></tr>
 <tr>
 <th class="NavCategory">Beesmas

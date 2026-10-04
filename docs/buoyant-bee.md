@@ -45,12 +45,12 @@ Buoyant Bee likes the [Blue Flower Field](blue-flower-field.md), [Bamboo Field](
 
 ### Abilities
 
-* **[Blue Bomb](ability-tokens.md#Bomb)** Collects 10 pollen from 13 surrounding Blue [Flowers](flowers.md) (+10% pollen per Level). Combo with other bombs to increase power.
-* **[Inflate Balloons](ability-tokens.md#Inflate_Balloons)** Increases the pollen in [Balloons](balloon.md) on your field by 5% (+0.01% per Level), then spawns a Blue Balloon for 20s (+2s per level) with capacity that scales with bee level and your capacity.
+* <img alt="Blue Bomb" src="img/Blue_Bomb.png" style="height:1.6em;width:auto;vertical-align:middle"/> **[Blue Bomb](ability-tokens.md#Bomb)** Collects 10 pollen from 13 surrounding Blue [Flowers](flowers.md) (+10% pollen per Level). Combo with other bombs to increase power.
+* <img alt="Inflate Balloons" src="img/Inflate_Balloons.png" style="height:1.6em;width:auto;vertical-align:middle"/> **[Inflate Balloons](ability-tokens.md#Inflate_Balloons)** Increases the pollen in [Balloons](balloon.md) on your field by 5% (+0.01% per Level), then spawns a Blue Balloon for 20s (+2s per level) with capacity that scales with bee level and your capacity.
   * Pollen collected from flowers near (the shaded ones) the balloon is increased by 10% (20% if blue) and added to the balloon instead of your [Container](items.md#Bags). Upon filling up or timing out, the balloon floats back to your [Hive](hive.md). Converting from a balloon at your hive grants bonus Capacity and [Honey at Hive](system-page.md#Honey_At_Hive) for 1 hour.
   * Standing near a balloon grants a small bonus to Pollen, Blue Pollen, and [Honey](honey.md) from Tokens which stacks up to 10 times.
   * If Gifted, this has a 5% (+0.5% per level, doubled when the field is boosted) chance to summon a Gold Balloon instead, which has x2 Capacity and an additional x1.25 Pollen instead.
-* **[🌟Gifted Ability: Surprise Party](ability-tokens.md#Surprise_Party)** Summons a Gold Balloon (+1 every 5 levels) for all players, then causes all Balloons to spawn random ability tokens for a few seconds. Gold Balloons gain bonus pollen (increases with bee level) and transform nearby [Bubbles](bubble.md) into Gold Bubbles, which collect 50% more pollen and have a chance to spawn [Honey Tokens](ability-tokens.md#Honey_Gift). If you have triggered a Surprise Party within the last 8 minutes, performs "Inflate Balloons" instead (always spawns a Gold Balloon). When a Surprise Party is activated, a server wide message will say "🎉Surprise Balloons from [Player's Display Name]."
+* <img alt="Surprise Party" src="img/Surprise_Party.png" style="height:1.6em;width:auto;vertical-align:middle"/> **[🌟Gifted Ability: Surprise Party](ability-tokens.md#Surprise_Party)** Summons a Gold Balloon (+1 every 5 levels) for all players, then causes all Balloons to spawn random ability tokens for a few seconds. Gold Balloons gain bonus pollen (increases with bee level) and transform nearby [Bubbles](bubble.md) into Gold Bubbles, which collect 50% more pollen and have a chance to spawn [Honey Tokens](ability-tokens.md#Honey_Gift). If you have triggered a Surprise Party within the last 8 minutes, performs "Inflate Balloons" instead (always spawns a Gold Balloon). When a Surprise Party is activated, a server wide message will say "🎉Surprise Balloons from [Player's Display Name]."
 * **[Passive: Balloon Enthusiast](passive-abilities.md#Balloon_Enthusiast)** When converting from Balloons, this bee has x3 convert amount. Additionally, this bee's base attack scales up to x3 with [Balloon Blessing](buffs-debuffs.md#From_Areas).
 
 <table style="font-size:1.5vh; color:#000; width:100%; background:#fff; padding: 15px 0; border:none; color:#000; border-left:15px #2fa0fc solid">
@@ -413,7 +413,7 @@ Buoyant Bee likes the [Blue Flower Field](blue-flower-field.md), [Bamboo Field](
 * This bee, [Commander Bee](commander-bee.md) and [Frosty Bee](frosty-bee.md) are the only 3 [bees](bees.md) in the game that wear hats.
   * As such, the Buoyant Bee is the only hat-wearing bee that is not an Epic.
 * This is the only bee to not dislike any field.
-  * [Onett](onett-developer.md) stated on Discord that the reason why Buoyant Bee has no disliked fields is that it's supposed to be a "happy" bee.
+  * Onett stated on Discord that the reason why Buoyant Bee has no disliked fields is that it's supposed to be a "happy" bee.
 * The Buoyant Bee and the [Lion Bee](lion-bee.md) have the most amount of finite [energy](energy.md).
 * The Buoyant Bee, [Precise Bee](precise-bee.md), and [Fuzzy Bee](fuzzy-bee.md) are the only Mythic bees to be added since the release of the original three [Mythic bees](bees-mythic.md).
 * The Buoyant Bee and the Precise Bee are the only two bees to have their own Robux pack in the same update.
@@ -423,7 +423,7 @@ Buoyant Bee likes the [Blue Flower Field](blue-flower-field.md), [Bamboo Field](
 * Gifted Buoyant Bee's hat glows.
 * This bee's gifted form is similar to [Bumble Bee's](bumble-bee.md) gifted appearance.
   * Additionally, both Buoyant Bee and Bumble Bee are the only bees to have gifted abilities that multiply a player's base capacity.
-* This bee used to be able to summon Blue Bomb+ tokens, but it was nerfed to Blue Bomb in the [2022-12-26 update](updates.md#2022-12-26).
+* This bee used to be able to summon Blue Bomb+ tokens, but it was nerfed to Blue Bomb in the 2022-12-26 update.
 
 <table class="mw-collapsible mw-collapsed NavTable">
 <tbody><tr>

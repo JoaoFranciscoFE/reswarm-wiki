@@ -19,7 +19,7 @@ CAP
 
 25
 
-The **Red Balloon** is a consumable [item](items.md#Misc._Items) that was added in the [2021-12-26 update](updates.md). Once used, it creates a red [balloon](balloon.md) over the field the player is in. The balloon floats over the field, storing [pollen](pollen.md) collected underneath it. The pollen collected increases by 10%, with red pollen increasing by 20%. It holds up to 5x the player's capacity, and floats over the field for 3 minutes before floating to the [hive balloon](balloon.md#Hive_Balloon).
+The **Red Balloon** is a consumable [item](items.md#Misc._Items) that was added in the 2021-12-26 update. Once used, it creates a red [balloon](balloon.md) over the field the player is in. The balloon floats over the field, storing [pollen](pollen.md) collected underneath it. The pollen collected increases by 10%, with red pollen increasing by 20%. It holds up to 5x the player's capacity, and floats over the field for 3 minutes before floating to the [hive balloon](balloon.md#Hive_Balloon).
 
 Red balloons have a cap of 25 in the player's inventory, and 1 per player in the field.
 
@@ -31,29 +31,6 @@ Red balloons have a cap of 25 in the player's inventory, and 1 per player in the
 * A Red Balloon token can be found on top of the [Hive Hub](hive-hub.md) after completing the parkour.
 * Redeeming certain valid codes:
   * 15MMembers (gives 1 **Red Balloon** and other stuff).
-
-### Outdated Ways
-
-<table class="mw-collapsible mw-collapsed article-table">
-<caption>
-</caption>
-<tbody><tr>
-<td>
-<ul><li>Purchasing the Balloon Bundle from <a href="bee-bear-s-catalog.html">Bee Bear's Catalog</a> for 333 <a href="snowflake.html">Snowflakes</a>, granting <img alt="Red Balloon" height="25" src="img/Red_Balloon.png" width="25"/>3 <strong class="mw-selflink selflink"><span class="color-template color-template-red-balloon color-template-background-clip">Red Balloons</span></strong> and other items.</li>
-<li>By completing Onett's Beesmas 2022 quest, which rewards <img alt="Red Balloon" height="25" src="img/Red_Balloon.png" width="25"/>5 <strong class="mw-selflink selflink"><span class="color-template color-template-red-balloon color-template-background-clip">Red Balloons</span></strong>.</li>
-<li>By completing Bee Bear's Beesmas 2022 quests.</li>
-<li>Giving a present to <a href="gifted-riley-bee.html">Gifted Riley Bee</a> gives <img alt="Red Balloon" height="25" src="img/Red_Balloon.png" width="25"/>1 <strong class="mw-selflink selflink"><span class="color-template color-template-red-balloon color-template-background-clip">Red Balloon</span></strong> and other items.</li>
-<li>As a reward from completing certain quests from <a href="bee-bear.html">Bee Bear</a>.</li>
-<li>Buying the Balloon Bundle from Bee Bear's Catalog during Beesmas 2021, granting <img alt="Red Balloon" height="25" src="img/Red_Balloon.png" width="25"/>3 <strong class="mw-selflink selflink"><span class="color-template color-template-red-balloon color-template-background-clip">Red Balloons</span></strong> and other items.</li>
-<li>Buying the Buoyant Pack from the Robux shop gave <img alt="Red Balloon" height="25" src="img/Red_Balloon.png" width="25"/>5 <strong class="mw-selflink selflink"><span class="color-template color-template-red-balloon color-template-background-clip">Red Balloons</span></strong> and other items.</li>
-<li>As a rare drop from <a href="party-mega-mechsquito.html">Party Mega Mechsquitoes</a> and <a href="party-cogturret.html">Party Cogturrets</a>.</li>
-<li>Opening certain <a href="gift-boxes.html">Gift Boxes</a> across the map:
-<ul><li>Beige Gift Box gave <img alt="Red Balloon" height="25" src="img/Red_Balloon.png" width="25"/>1 <strong class="mw-selflink selflink"><span class="color-template color-template-red-balloon color-template-background-clip">Red Balloon</span></strong> and other items.</li>
-<li>Gilded Gift Box gave <img alt="Red Balloon" height="25" src="img/Red_Balloon.png" width="25"/>1 <strong class="mw-selflink selflink"><span class="color-template color-template-red-balloon color-template-background-clip">Red Balloon</span></strong> and other items.</li></ul></li>
-<li>Redeeming certain expired codes:
-<ul><li>5MFavorites (gave <img alt="Red Balloon" height="25" src="img/Red_Balloon.png" width="25"/>1 <strong class="mw-selflink selflink"><span class="color-template color-template-red-balloon color-template-background-clip">Red Balloon</span></strong> and the Honeyday Event Boost).</li>
-<li>DarzethDoodads (gave <img alt="Red Balloon" height="25" src="img/Red_Balloon.png" width="25"/>1 <strong class="mw-selflink selflink"><span class="color-template color-template-red-balloon color-template-background-clip">Red Balloon</span></strong> and other stuff).</li></ul></li></ul>
-</td></tr></tbody></table>
 
 <table class="mw-collapsible autocollapse" style="margin:auto; background:#000; font-size: 10pt; border:5px solid #56CB5A; width: 100%; border-radius: 20px; -moz-border-radius: 20px; -webkit-border-radius: 20px; -khtml-border-radius: 20px; -icab-border-radius: 20px; -o-border-radius: 20px;">
 <tbody><tr>
@@ -116,7 +93,7 @@ Red balloons have a cap of 25 in the player's inventory, and 1 per player in the
 </th>
 <th class="NavCategory">Quest Exclusive
 </th>
-<td class="NavLinks NavLinksBasicEven"><b><img alt="Translator" height="35" src="img/Translator.png" width="35"/> <a href="translator.html">Translator</a> • <img alt="Spirit Petal" height="35" src="img/Spirit_Petal.png" width="35"/> <a href="spirit-petal.html">Spirit Petal</a> • <img alt="Debug Wax" height="35" src="img/Debug_Wax.png" width="35"/> <a href="debug-wax.html">Debug Wax</a> • <img alt="Nectar Tester" height="35" src="img/Nectar_Tester.png" width="35"/> <a href="nectar-tester.html">Nectar Tester</a></b> • <span typeof="mw:Error mw:File"></span> <a href="bbm-s-apology.html">BBM's Apology</a><b></b>
+<td class="NavLinks NavLinksBasicEven"><b><img alt="Translator" height="35" src="img/Translator.png" width="35"/> <a href="translator.html">Translator</a> • <img alt="Spirit Petal" height="35" src="img/Spirit_Petal.png" width="35"/> <a href="spirit-petal.html">Spirit Petal</a> • <img alt="Debug Wax" height="35" src="img/Debug_Wax.png" width="35"/> <a href="debug-wax.html">Debug Wax</a> • <img alt="Nectar Tester" height="35" src="img/Nectar_Tester.png" width="35"/> <a href="nectar-tester.html">Nectar Tester</a></b><b></b>
 </td></tr>
 <tr>
 <th class="NavCategory">Beesmas

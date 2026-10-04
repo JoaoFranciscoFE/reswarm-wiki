@@ -25,4 +25,4 @@ If the player approaches the switch for the Beesmas Lights, located beside [Scie
 * Even though falling Beesmas Lights were introduced during the Beesmas 2020 event, the Beesmas Light decorations along the mountain were present during prior Beesmas events.
 * Over the course of the removal of several Beesmas events, Beesmas Lights would still fall into fields a few days after Beesmas was over.
   * [Bubble Bee Man](bubble-bee-man.md)'s Beesmas quest dialogue also tends to take longer to be removed.
-* The text displayed when standing under the light switch for the Beesmas Lights displays "This Beesmas Lights" instead of "The Beesmas Lights". This is likely an oversight by [Onett](onett-developer.md).
+* The text displayed when standing under the light switch for the Beesmas Lights displays "This Beesmas Lights" instead of "The Beesmas Lights". This is likely an oversight by Onett.

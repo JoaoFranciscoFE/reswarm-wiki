@@ -179,7 +179,7 @@ Traveling NPCs are NPCs who have made appearances as quest givers in certain upd
 <tr>
 <td><a href="gummy-bear.html">Gummy Bear</a>
 </td>
-<td>Near the Noob Shop, Honey Dispenser, and <a href="gummy-cannon.html">Gummy Cannon</a>.(During Goo Event)
+<td>Near the Noob Shop, Honey Dispenser, and Gummy Cannon.(During Goo Event)
 <p>Gummy Lair (Current Location for Beesmas quests)
 </p>
 </td>

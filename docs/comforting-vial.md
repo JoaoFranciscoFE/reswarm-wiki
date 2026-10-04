@@ -19,7 +19,7 @@ CAP
 
 10
 
-The **Comforting Vial** is a consumable [nectar vial](nectar-vial.md) [item](items.md) that was added in the [2022-12-26 update](updates.md#2022-12-26). Once used, it grants the player 4 hours of the [Comforting Nectar](nectar.md) [buff](buffs-debuffs.md) instantly. It can also be used to craft other accessories and [tools](tools.md).
+The **Comforting Vial** is a consumable [nectar vial](nectar-vial.md) [item](items.md) that was added in the 2022-12-26 update. Once used, it grants the player 4 hours of the [Comforting Nectar](nectar.md) [buff](buffs-debuffs.md) instantly. It can also be used to craft other accessories and [tools](tools.md).
 
 ## Ways to Obtain
 
@@ -29,24 +29,6 @@ The **Comforting Vial** is a consumable [nectar vial](nectar-vial.md) [item](ite
 * Adding the Comforting Nectar Icon to the [Sticker Stack](sticker-stack.md) rewards 1 **Comforting Vial**.
 * Buying the Frozen Forest Pack from [Bee Bear's Catalog](bee-bear-s-catalog.md) for 1,200 [Snowflakes](snowflake.md) and 60 [Gingerbread Bears](gingerbread-bear.md) grants 1 **Comforting Vial** and other items.
 * Giving a [Present](present.md) to [Gifted Bucko Bee](gifted-bucko-bee.md) rewards 1 **Comforting Vial** and other items.
-
-### Outdated Ways
-
-<table class="mw-collapsible mw-collapsed article-table">
-<caption>
-</caption>
-<tbody><tr>
-<td>
-<ul><li>Giving a <img alt="Present" height="35" src="img/Present.png" width="35"/><a href="present.html"><span class="color-template color-template-present color-template-background-clip">Present</span></a> to Gifted Bucko Bee during Beesmas 2022 rewarded <img alt="Comforting Vial" height="25" src="img/Comforting_Vial.png" width="25"/>1 <strong class="mw-selflink selflink"><span class="color-template color-template-comforting-vial color-template-background-clip">Comforting Vial</span></strong> and other items.</li>
-<li>Buying the Hefty Honeyday Bundle from Bee Bear's Catalog granted <img alt="Comforting Vial" height="25" src="img/Comforting_Vial.png" width="25"/>5 <strong class="mw-selflink selflink"><span class="color-template color-template-comforting-vial color-template-background-clip">Comforting Vials</span></strong> and other items.</li>
-<li>Purchasing the Nighttime Nectar Pack in the <a href="robux-shop.html">Robux Shop</a> rewarded <img alt="Comforting Vial" height="25" src="img/Comforting_Vial.png" width="25"/>1 <strong class="mw-selflink selflink"><span class="color-template color-template-comforting-vial color-template-background-clip">Comforting Vial</span></strong> and other items.</li>
-<li>Opening Certain Gift Boxes:
-<ul><li>Opening the <a href="gift-boxes.html#2022">Soothing Gift Box</a> rewarded <img alt="Comforting Vial" height="25" src="img/Comforting_Vial.png" width="25"/>2 <strong class="mw-selflink selflink"><span class="color-template color-template-comforting-vial color-template-background-clip">Comforting Vials</span></strong> and other items.</li></ul></li>
-<li>Completing certain quests:
-<ul><li>Completing <a href="gifted-bucko-bee.html#Beesmas_2022_Quest_-_Bucko_Bee's_Snow_Machine">Bucko Bee's Snow Machine</a> during Beesmas 2022 rewarded <img alt="Comforting Vial" height="25" src="img/Comforting_Vial.png" width="25"/>1 <strong class="mw-selflink selflink"><span class="color-template color-template-comforting-vial color-template-background-clip">Comforting Vial</span></strong> and other items.</li>
-<li>Completing Peppermint Preparation 2 (<a href="bee-bear.html">Bee Bear</a>) rewarded <img alt="Comforting Vial" height="25" src="img/Comforting_Vial.png" width="25"/>1 <strong class="mw-selflink selflink"><span class="color-template color-template-comforting-vial color-template-background-clip">Comforting Vial</span></strong> and other items.</li>
-<li>Completing <a href="bubble-bee-man.html#2022_Beesmas_Quest_-_Naughty_List">Bubble Bee Man's Naughty List</a> in Beesmas 2022 rewarded <img alt="Comforting Vial" height="25" src="img/Comforting_Vial.png" width="25"/>8 <strong class="mw-selflink selflink"><span class="color-template color-template-comforting-vial color-template-background-clip">Comforting Vials</span></strong> and other items.</li></ul></li></ul>
-</td></tr></tbody></table>
 
 ## Crafting Uses
 
@@ -149,7 +131,7 @@ Total required for all single-purchase items: 4 **Comforting Vials**
 </th>
 <th class="NavCategory">Quest Exclusive
 </th>
-<td class="NavLinks NavLinksBasicEven"><b><img alt="Translator" height="35" src="img/Translator.png" width="35"/> <a href="translator.html">Translator</a> • <img alt="Spirit Petal" height="35" src="img/Spirit_Petal.png" width="35"/> <a href="spirit-petal.html">Spirit Petal</a> • <img alt="Debug Wax" height="35" src="img/Debug_Wax.png" width="35"/> <a href="debug-wax.html">Debug Wax</a> • <img alt="Nectar Tester" height="35" src="img/Nectar_Tester.png" width="35"/> <a href="nectar-tester.html">Nectar Tester</a></b> • <span typeof="mw:Error mw:File"></span> <a href="bbm-s-apology.html">BBM's Apology</a><b></b>
+<td class="NavLinks NavLinksBasicEven"><b><img alt="Translator" height="35" src="img/Translator.png" width="35"/> <a href="translator.html">Translator</a> • <img alt="Spirit Petal" height="35" src="img/Spirit_Petal.png" width="35"/> <a href="spirit-petal.html">Spirit Petal</a> • <img alt="Debug Wax" height="35" src="img/Debug_Wax.png" width="35"/> <a href="debug-wax.html">Debug Wax</a> • <img alt="Nectar Tester" height="35" src="img/Nectar_Tester.png" width="35"/> <a href="nectar-tester.html">Nectar Tester</a></b><b></b>
 </td></tr>
 <tr>
 <th class="NavCategory">Beesmas

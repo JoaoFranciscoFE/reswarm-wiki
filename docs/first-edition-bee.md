@@ -24,6 +24,6 @@ This designation is currently only available for [Bear Bee](bear-bee.md), [Tabby
 
 ## Trivia
 
-* [Onett](onett-developer.md) has stated that the reason a First Edition [Vicious Bee](vicious-bee.md) does not exist is because there is no room for a 1st Flag on its back with the spikes.
+* Onett has stated that the reason a First Edition [Vicious Bee](vicious-bee.md) does not exist is because there is no room for a 1st Flag on its back with the spikes.
 * The earliest 1st Edition Bee was [Bear Bee](bear-bee.md), coming in at the game's release.
 * Even though First Edition Bear Bees are automatically gifted, the gifted status can still be removed if a player adds it to the hive again.

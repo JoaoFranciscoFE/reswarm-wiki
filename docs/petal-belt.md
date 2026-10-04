@@ -68,7 +68,7 @@ The **Petal** **Belt** is a belt accessory located in the [Petal Shop](petal-sho
 * The Petal Shurikens can pop [bubbles](passive-abilities.md#Gathering_Bubbles), [fuzz bombs](ability-tokens.md#Fuzz_Bombs), and also spawn a petal when they hit [blooms](bloom.md).
 * This is the only belt on display which doesn't have a hitbox.
 * This is one of two belts to have a [passive](passive-abilities.md), the other being the [Coconut Belt](coconut-belt.md).
-* Although the Petal Belt's passive in-game states that a Petal Shuriken converts 10,000 pollen +7% of the bee's convert amount, Onett has stated in the change log during the [2024-05-23 update](updates.md#2024-05-23) that it was changed to its current state.
+* Although the Petal Belt's passive in-game states that a Petal Shuriken converts 10,000 pollen +7% of the bee's convert amount, Onett has stated in the change log during the 2024-05-23 update that it was changed to its current state.
 
 <table class="mw-collapsible autocollapse" style="margin:auto; background:#000; font-size: 10pt; border:5px solid #56CB5A; width: 100%; border-radius: 20px; -moz-border-radius: 20px; -webkit-border-radius: 20px; -khtml-border-radius: 20px; -icab-border-radius: 20px; -o-border-radius: 20px;">
 <tbody><tr>
@@ -131,7 +131,7 @@ The **Petal** **Belt** is a belt accessory located in the [Petal Shop](petal-sho
 </th>
 <th class="NavCategory">Quest Exclusive
 </th>
-<td class="NavLinks NavLinksBasicEven"><b><img alt="Translator" height="35" src="img/Translator.png" width="35"/> <a href="translator.html">Translator</a> • <img alt="Spirit Petal" height="35" src="img/Spirit_Petal.png" width="35"/> <a href="spirit-petal.html">Spirit Petal</a> • <img alt="Debug Wax" height="35" src="img/Debug_Wax.png" width="35"/> <a href="debug-wax.html">Debug Wax</a> • <img alt="Nectar Tester" height="35" src="img/Nectar_Tester.png" width="35"/> <a href="nectar-tester.html">Nectar Tester</a></b> • <span typeof="mw:Error mw:File"></span> <a href="bbm-s-apology.html">BBM's Apology</a><b></b>
+<td class="NavLinks NavLinksBasicEven"><b><img alt="Translator" height="35" src="img/Translator.png" width="35"/> <a href="translator.html">Translator</a> • <img alt="Spirit Petal" height="35" src="img/Spirit_Petal.png" width="35"/> <a href="spirit-petal.html">Spirit Petal</a> • <img alt="Debug Wax" height="35" src="img/Debug_Wax.png" width="35"/> <a href="debug-wax.html">Debug Wax</a> • <img alt="Nectar Tester" height="35" src="img/Nectar_Tester.png" width="35"/> <a href="nectar-tester.html">Nectar Tester</a></b><b></b>
 </td></tr>
 <tr>
 <th class="NavCategory">Beesmas

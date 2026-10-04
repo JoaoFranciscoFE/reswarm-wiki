@@ -45,8 +45,8 @@ Puppy Bee likes the [Clover Field](clover-field.md) and the [Pumpkin Patch](pump
 
 ### Abilities
 
-* **[Fetch](ability-tokens.md#Fetch)** Creates a ball that collects tokens and increases pollen by 100% (+15% per [Level](bond.md)) as you and Puppy Bee kick it to each other. Collection increases per kick. Combo hits to win [Treats](treat.md).
-* **[Puppy Love](ability-tokens.md#Puppy_Love)** Increases your bond with up to 10 nearby bees by 60 (+20 per lvl). Grants +10% Bee Movespeed and +50% Bee Gather Amount for 10 seconds (+1s per lvl).
+* <img alt="Fetch" src="img/Fetch.png" style="height:1.6em;width:auto;vertical-align:middle"/> **[Fetch](ability-tokens.md#Fetch)** Creates a ball that collects tokens and increases pollen by 100% (+15% per [Level](bond.md)) as you and Puppy Bee kick it to each other. Collection increases per kick. Combo hits to win [Treats](treat.md).
+* <img alt="Puppy Love" src="img/Puppy_Love.png" style="height:1.6em;width:auto;vertical-align:middle"/> **[Puppy Love](ability-tokens.md#Puppy_Love)** Increases your bond with up to 10 nearby bees by 60 (+20 per lvl). Grants +10% Bee Movespeed and +50% Bee Gather Amount for 10 seconds (+1s per lvl).
 
 <table style="font-size:1.5vh; color:#000; width:100%; background:#fff; padding: 15px 0; border:none; color:#000; border-left:15px #000 solid">
 <tbody><tr>
@@ -302,7 +302,7 @@ Puppy Bee likes the [Clover Field](clover-field.md) and the [Pumpkin Patch](pump
 
 ## Trivia
 
-* When Puppy Bee came out on the [2018-09-10 Update](updates.md#2018-09-10), it was on sale in the Ticket Tent for 250 tickets until September 22, 2018.
+* When Puppy Bee came out on the 2018-09-10 Update, it was on sale in the Ticket Tent for 250 tickets until September 22, 2018.
 * It takes 3 hits of the ball by the owner and 3 hits by the Puppy Bee (3 volleys) to drop a [treat token](treat.md). The more times the ball is hit in a row, the more treats are earned from the treat token (Doubled every time a combo is done, starting at 1, capping at 256).
   * Once the treat token reaches the capped amount of treats, the ball will permanently stay light green and will not be able to produce any more treat tokens.
   * It takes a total of 54 hits to reach the max amount of treats, and 60 to get 10x Reindeer Guidance.

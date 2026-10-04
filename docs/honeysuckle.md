@@ -15,7 +15,7 @@ COOLDOWN
 
 30 seconds
 
-The **Honeysuckle** is a consumable inventory item that was introduced in the [2021-12-26 update](updates.md#2021-12-26). Unlike other consumable items with an auto setting, **Honeysuckles** are automatically used once a player's pollen container is full, and it is also the only item with an auto setting that cannot be put in the hotbar. When a player's pollen container is full, the Honeysuckle causes the player's [bees](bees.md) to instantly convert some [pollen](pollen.md) in their [bag](bags.md) into [honey](honey.md). It has a cooldown of 30 seconds before it can activate again, and can be toggled on or off by clicking the item in the inventory.
+The **Honeysuckle** is a consumable inventory item that was introduced in the 2021-12-26 update. Unlike other consumable items with an auto setting, **Honeysuckles** are automatically used once a player's pollen container is full, and it is also the only item with an auto setting that cannot be put in the hotbar. When a player's pollen container is full, the Honeysuckle causes the player's [bees](bees.md) to instantly convert some [pollen](pollen.md) in their [bag](bags.md) into [honey](honey.md). It has a cooldown of 30 seconds before it can activate again, and can be toggled on or off by clicking the item in the inventory.
 
 Unlike most consumables, this cannot be dragged to the hotbar. There is, however, an On/Off switch in the honeysuckle's inventory section. Turning it ON causes it to work automatically when the bag becomes full, and turning it OFF disables using honeysuckles.
 
@@ -40,24 +40,6 @@ Unlike most consumables, this cannot be dragged to the hotbar. There is, however
 ### Token Locations
 
 * A Honeysuckle token is located on the roof of [Dapper Bear's Shop](dapper-bear-s-shop.md) which grants 25 Honeysuckles.
-
-### Outdated Ways
-
-<table class="mw-collapsible mw-collapsed article-table">
-<caption>
-</caption>
-<tbody><tr>
-<td>
-<ul><li>Completing 6th and 18th <a href="bee-bear.html">Bee Bear's</a> Beesmas 2022 quests granted 25 and 50 Honeysuckle respectively.</li>
-<li>Honeysuckle token under the <a href="beesmas-tree.html">Beesmas Tree</a> which granted 5 Honeysuckles.</li>
-<li>Giving <a href="onett.html">Onett</a> a present granted the player 25 honeysuckles and other items.</li>
-<li>As a potential match from the 2021 and 2022 <a href="memory-match.html#Winter_Memory_Match">Winter Memory Match</a>.</li>
-<li>Purchasing the Honeysuckle Bundle from Bee Bear's Catalog rewarded 150 Honeysuckles and other items.</li>
-<li>From certain Beesmas related <a href="quests.html">quests</a>.</li>
-<li>Opening certain <a href="gift-boxes.html">Gift Boxes</a>:
-<ul><li>The Gilded Gift Box gave 20 Honeysuckles.</li></ul></li>
-<li>Purchasing the Poinsettia Pack in <a href="bee-bear-s-catalog.html">Bee Bear's Catalog</a> gives <img alt="Honeysuckle" height="25" src="img/Honeysuckle.png" width="25"/>50 <strong class="mw-selflink selflink"><span class="color-template color-template-honeysuckle color-template-background-clip">Honeysuckles</span></strong> and other items during Beesmas Winter 2024.</li></ul>
-</td></tr></tbody></table>
 
 ## How to Use
 
@@ -163,7 +145,7 @@ Total required for all single-purchase items: 1,005 **Honeysuckles**
 </th>
 <th class="NavCategory">Quest Exclusive
 </th>
-<td class="NavLinks NavLinksBasicEven"><b><img alt="Translator" height="35" src="img/Translator.png" width="35"/> <a href="translator.html">Translator</a> • <img alt="Spirit Petal" height="35" src="img/Spirit_Petal.png" width="35"/> <a href="spirit-petal.html">Spirit Petal</a> • <img alt="Debug Wax" height="35" src="img/Debug_Wax.png" width="35"/> <a href="debug-wax.html">Debug Wax</a> • <img alt="Nectar Tester" height="35" src="img/Nectar_Tester.png" width="35"/> <a href="nectar-tester.html">Nectar Tester</a></b> • <span typeof="mw:Error mw:File"></span> <a href="bbm-s-apology.html">BBM's Apology</a><b></b>
+<td class="NavLinks NavLinksBasicEven"><b><img alt="Translator" height="35" src="img/Translator.png" width="35"/> <a href="translator.html">Translator</a> • <img alt="Spirit Petal" height="35" src="img/Spirit_Petal.png" width="35"/> <a href="spirit-petal.html">Spirit Petal</a> • <img alt="Debug Wax" height="35" src="img/Debug_Wax.png" width="35"/> <a href="debug-wax.html">Debug Wax</a> • <img alt="Nectar Tester" height="35" src="img/Nectar_Tester.png" width="35"/> <a href="nectar-tester.html">Nectar Tester</a></b><b></b>
 </td></tr>
 <tr>
 <th class="NavCategory">Beesmas

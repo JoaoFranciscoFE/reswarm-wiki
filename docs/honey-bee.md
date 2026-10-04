@@ -47,8 +47,8 @@ Honey Bee likes the [Pumpkin Patch](pumpkin-patch.md) and the [Mountain Top Fiel
 
 ### Abilities
 
-* **[Honey Gift](ability-tokens.md#Honey_Gift)** Sometimes spawns a honey token. The amount of honey is equal to 100x (x being the bee's level).
-* **[Honey Mark](ability-tokens.md#Mark)** Marks a random area on the [Field](fields.md) for 7 seconds (+0.2s per Level) that grants 2 Conversion Links and x1.25 [Convert Rate](system-page.md#Convert_Rate) when you stand in it. Stacks up to 3 times.
+* <img alt="Honey Gift" src="img/Honey_Gift.png" style="height:1.6em;width:auto;vertical-align:middle"/> **[Honey Gift](ability-tokens.md#Honey_Gift)** Sometimes spawns a honey token. The amount of honey is equal to 100x (x being the bee's level).
+* <img alt="Honey Mark" src="img/Honey_Mark.png" style="height:1.6em;width:auto;vertical-align:middle"/> **[Honey Mark](ability-tokens.md#Mark)** Marks a random area on the [Field](fields.md) for 7 seconds (+0.2s per Level) that grants 2 Conversion Links and x1.25 [Convert Rate](system-page.md#Convert_Rate) when you stand in it. Stacks up to 3 times.
 
 <table style="font-size:1.5vh; color:#000; width:100%; background:#fff; padding: 15px 0; border:none; color:#000; border-left:15px #000 solid">
 <tbody><tr>
@@ -342,9 +342,9 @@ Honey Bee likes the [Pumpkin Patch](pumpkin-patch.md) and the [Mountain Top Fiel
 * The only way to obtain a [Honey Bee Egg](egg.md#Honey_Bee_Egg) is to defeat [cave monsters](cave-monster.md).
   * This may be the reason why Honey Bee dislikes the [Spider Field](spider-field.md), due to the similarities between [spiders](spider.md) and cave monsters.
 * The [Honey Mask](honey-mask.md), which can be purchased in the [Ace Badge](badges.md) area of the [Badge Bearer's Guild](badge-bearer-s-guild.md), resembles Honey Bee's face decal and color scheme.
-* Before the [2018-11-25 Update](updates.md#2018-11-25), the [Gifted](gifted-bee.md) Hive Bonus of Honey Bee was +250% [Conversion Rate](system-page.md#Convert_Rate). This was later updated to x1.5 Honey From Tokens.
+* Before the 2018-11-25 Update, the [Gifted](gifted-bee.md) Hive Bonus of Honey Bee was +250% [Conversion Rate](system-page.md#Convert_Rate). This was later updated to x1.5 Honey From Tokens.
 * Honey Bee is one of the two bees that generate honey gifts, the other being [Diamond Bee](diamond-bee.md).
-* Honey Bee was given the honey mark ability after the [2019-04-05 update](updates.md#2019-04-05).
+* Honey Bee was given the honey mark ability after the 2019-04-05 update.
 * Both Honey Bee and [Bubble Bee](bubble-bee.md) emit the same bubble effect, although the colors of these 2 bees are different.
 * Along with [Bumble Bee](bumble-bee.md) and [Carpenter Bee](carpenter-bee.md), Honey Bee are based on bees found in real life, though they don't show resemblance to the actual bee.
 * During Beesmas 2020 and 2021, players were able to receive a Honey Bee Jelly if they gave a present to [Honey Bee (NPC)](honey-bee-npc.md).

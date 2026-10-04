@@ -26,7 +26,7 @@ tags: ["Items", "Accessories", "Boots", "Crafted"]
 </div>
 </aside>
 
-The **Basic Boots** are a pair of boots that were added in the [2018-09-10 update](updates.md#2018-09-10). They can be bought from the [Noob Shop](noob-shop.md).
+The **Basic Boots** are a pair of boots that were added in the 2018-09-10 update. They can be bought from the [Noob Shop](noob-shop.md).
 
 <table class="article-table">
 <tbody><tr>
@@ -52,7 +52,7 @@ The **Basic Boots** are a pair of boots that were added in the [2018-09-10 updat
 
 * These could've been obtained from [Sun Bear](sun-bear.md) by completing his first 5 [quests](quests.md) before he left on 2018-10-08.
 * These are the only boots that don't grant [Jump Power](system-page.md#Jump_Power).
-* Before the [2018-11-25 update](updates.md#2018-11-25), this item, the [Hiking Boots](hiking-boots.md), and the [Beekeeper's Boots](beekeeper-s-boots.md) didn't require any crafting materials.
+* Before the 2018-11-25 update, this item, the [Hiking Boots](hiking-boots.md), and the [Beekeeper's Boots](beekeeper-s-boots.md) didn't require any crafting materials.
 * Unlike the [Gummy Boots](gummy-boots.md) and [Coconut Clogs](coconut-clogs.md), these, along with the Hiking Boots and Beekeeper's Boots, were obtainable from quests.
 * These boots are used to obtain the [Yellow Wiggly Walking Person Sticker](sticker.md#Sticker_Index), by walking over a certain flower chosen at random in the Starter, 5, or 10 bee zones.
 
@@ -117,7 +117,7 @@ The **Basic Boots** are a pair of boots that were added in the [2018-09-10 updat
 </th>
 <th class="NavCategory">Quest Exclusive
 </th>
-<td class="NavLinks NavLinksBasicEven"><b><img alt="Translator" height="35" src="img/Translator.png" width="35"/> <a href="translator.html">Translator</a> • <img alt="Spirit Petal" height="35" src="img/Spirit_Petal.png" width="35"/> <a href="spirit-petal.html">Spirit Petal</a> • <img alt="Debug Wax" height="35" src="img/Debug_Wax.png" width="35"/> <a href="debug-wax.html">Debug Wax</a> • <img alt="Nectar Tester" height="35" src="img/Nectar_Tester.png" width="35"/> <a href="nectar-tester.html">Nectar Tester</a></b> • <span typeof="mw:Error mw:File"></span> <a href="bbm-s-apology.html">BBM's Apology</a><b></b>
+<td class="NavLinks NavLinksBasicEven"><b><img alt="Translator" height="35" src="img/Translator.png" width="35"/> <a href="translator.html">Translator</a> • <img alt="Spirit Petal" height="35" src="img/Spirit_Petal.png" width="35"/> <a href="spirit-petal.html">Spirit Petal</a> • <img alt="Debug Wax" height="35" src="img/Debug_Wax.png" width="35"/> <a href="debug-wax.html">Debug Wax</a> • <img alt="Nectar Tester" height="35" src="img/Nectar_Tester.png" width="35"/> <a href="nectar-tester.html">Nectar Tester</a></b><b></b>
 </td></tr>
 <tr>
 <th class="NavCategory">Beesmas

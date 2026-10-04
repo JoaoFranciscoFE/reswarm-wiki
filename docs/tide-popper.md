@@ -298,9 +298,9 @@ Activating a Tidal Surge grants 1 minute of "Tide Blessing". Whenever a tidal wa
   * 150 [Stingers](stinger.md) or 1,500 [Tickets](ticket.md)
   * 3 [Comforting Vials](comforting-vial.md) or 36 hours of Comforting Nectar
 * On December 28, 2021, the Tide Popper was obtainable through an exploit that was able to give you the Tide Popper, the same going for the Gummyballer and Dark Scythe. This was later patched by Onett and everybody who used the exploit would get a full reset on their account.
-* On 2022-01-01, there was a [glitch](glitches.md) where if the Tide Popper was viewed in the shop, it would cause the game to freeze and not let the player exit.
+* On 2022-01-01, there was a glitch where if the Tide Popper was viewed in the shop, it would cause the game to freeze and not let the player exit.
 * There was a glitch allowing players to buy the Tide Popper without completing 250 Gifted Bucko Bee quests. If the Tide Popper was bought without doing 250 Gifted Bucko Bee quests, the item could be equipped after doing 250 Gifted Bucko Bee quests. This was also the case with the [Dark Scythe](dark-scythe.md).
-* After the [2024-05-23 update](updates.md), the Tide Popper needs 3 [Comforting Vials](comforting-vial.md) and 150 Stingers, more than the previous 0 and less than the previous 200 (respectively) before.
+* After the 2024-05-23 update, the Tide Popper needs 3 [Comforting Vials](comforting-vial.md) and 150 Stingers, more than the previous 0 and less than the previous 200 (respectively) before.
 * The Tide Popper, alongside the [Dark Scythe](dark-scythe.md) and [Gummyballer](gummyballer.md) are the only items without an in-game description which details stats.
 * The Tide Popper, as well as any other item that costed more than 1 billion [Honey](honey.md), used to display the honey cost as the full number, rather than shortening it.
 
@@ -365,7 +365,7 @@ Activating a Tidal Surge grants 1 minute of "Tide Blessing". Whenever a tidal wa
 </th>
 <th class="NavCategory">Quest Exclusive
 </th>
-<td class="NavLinks NavLinksBasicEven"><b><img alt="Translator" height="35" src="img/Translator.png" width="35"/> <a href="translator.html">Translator</a> • <img alt="Spirit Petal" height="35" src="img/Spirit_Petal.png" width="35"/> <a href="spirit-petal.html">Spirit Petal</a> • <img alt="Debug Wax" height="35" src="img/Debug_Wax.png" width="35"/> <a href="debug-wax.html">Debug Wax</a> • <img alt="Nectar Tester" height="35" src="img/Nectar_Tester.png" width="35"/> <a href="nectar-tester.html">Nectar Tester</a></b> • <span typeof="mw:Error mw:File"></span> <a href="bbm-s-apology.html">BBM's Apology</a><b></b>
+<td class="NavLinks NavLinksBasicEven"><b><img alt="Translator" height="35" src="img/Translator.png" width="35"/> <a href="translator.html">Translator</a> • <img alt="Spirit Petal" height="35" src="img/Spirit_Petal.png" width="35"/> <a href="spirit-petal.html">Spirit Petal</a> • <img alt="Debug Wax" height="35" src="img/Debug_Wax.png" width="35"/> <a href="debug-wax.html">Debug Wax</a> • <img alt="Nectar Tester" height="35" src="img/Nectar_Tester.png" width="35"/> <a href="nectar-tester.html">Nectar Tester</a></b><b></b>
 </td></tr>
 <tr>
 <th class="NavCategory">Beesmas

@@ -129,38 +129,13 @@ The **Ticket Tent** is a [shop](shops.md) located behind the [Red Cannon](red-ca
 <td>Turns a bee into a <a href="gifted-bee.html">Gifted Bee</a>! Gifted Bees have many perks, including increased <a href="stats.html">stats</a> and bonuses for your entire swarm.
 </td></tr></tbody></table>
 
-### Removed
-
-<table class="article-table">
-<tbody><tr>
-<th>Item
-</th>
-<th><img alt="Ticket" height="35" src="img/Ticket.png" width="35"/><a href="ticket.html"><span class="color-template color-template-ticket color-template-background-clip">Tickets</span></a>
-</th>
-<th>Description
-</th></tr>
-<tr>
-<td><figure class="mw-halign-center" typeof="mw:Error mw:File"><figcaption></figcaption></figure><div style="text-align: center;"><a href="egg.html#Gummy_Bee_Egg"><span class="color-template color-template-gummy-bee-egg color-template-background-clip">Gummy Bee Egg</span></a></div>
-</td>
-<td>500
-</td>
-<td>A squishy bee who's sweet as sugar. Covers flowers in goo to grant you bonus honey!
-</td></tr>
-<tr>
-<td><figure class="mw-halign-center" typeof="mw:Error mw:File"><figcaption></figcaption></figure><div style="text-align: center;"><a href="cub-buddy.html#Skins"><span class="color-template color-template-cub-buddy color-template-background-clip">Cub Buddy</span></a></div>
-</td>
-<td>2,000
-</td>
-<td>A baby bear who follows you around, collecting Tokens and occasionally granting gifts!
-</td></tr></tbody></table>
-
 ## Trivia
 
 * The only bee in this shop that could be obtained without tickets (for a limited time) was [Festive Bee](festive-bee.md).
   * This used to also apply to [Gummy Bee](gummy-bee.md), which is now permanently available for 2500 [gumdrops](gumdrops.md).
 * The Royal Jelly token on top of the Ticket Tent was mentioned by [Sun Bear](sun-bear.md) in his dialogue.
 * Buying a [star treat](star-treat.md) from here is one of the only ways to obtain star treats without Robux.
-* Before the [2019-04-05 update](updates.md#2018-04-05), if the player had the [Goo Hotshot Badge](badges.md#Goo_Badge), they could go up to the Gummy Bee on top of the tent and use gumdrops to enter [Gummy Bear's Lair](gummy-bear-s-lair.md). However, this mechanic was moved to the [Gummy Bee Egg Claim](gummy-bee-egg-claim.md) when it was added.
+* Before the 2019-04-05 update, if the player had the [Goo Hotshot Badge](badges.md#Goo_Badge), they could go up to the Gummy Bee on top of the tent and use gumdrops to enter [Gummy Bear's Lair](gummy-bear-s-lair.md). However, this mechanic was moved to the [Gummy Bee Egg Claim](gummy-bee-egg-claim.md) when it was added.
 * The wings on the gifted Photon Bee's model are not transparent, while the giant Festive Bee and Puppy Bees' wings are.
   * Additionally, the wings of the Festive Bee model aren't solid, while the wings of the Puppy Bee and Gifted Photon Bee models are.
   * The Photon Bee is also the only model that is in [gifted](gifted-bee.md) form.
@@ -211,6 +186,6 @@ The **Ticket Tent** is a [shop](shops.md) located behind the [Red Cannon](red-ca
 <tr>
 <th class="NavCategory">Event<br/>Locations
 </th>
-<td class="NavLinks NavLinksBasicEven"><b><a href="beesmas-tree.html">Beesmas Tree</a> • <a href="ornament-presents.html">Ornament Presents</a> • <span class="new" data-uncrawlable-url="L3dpa2kvQ29tcHV0ZXI/YWN0aW9uPWVkaXQmcmVkbGluaz0x" title="Computer (page does not exist)">Computer</span> • <a href="gift-boxes.html">Gift Boxes</a> • <a href="honey-wreath.html">Honey Wreath</a> • <a href="stockings.html">Stockings</a> • <a href="gingerbread-house.html">Gingerbread House</a> • <a href="snowbear-summoner.html">Snowbear Summoner</a> • <a href="beesmas-lights.html">Beesmas Lights</a> • <a href="samovar.html">Samovar</a> • <a href="beesmas-feast.html">Beesmas Feast</a> • <a href="onett-s-lid-art.html">Onett's Lid Art</a> • <a href="wind-shrine.html#Galentine_Shrine">Galentine Shrine</a> • <a href="memory-match.html#Winter_Memory_Match">Winter Memory Match</a> • <a href="snow-machine.html">Snow Machine</a> • <a href="honeyday-candles.html">Honeyday Candles</a> • <a href="robo-party-cake.html">Robo Party Cake</a> • <a href="gummy-beacon.html">Gummy Beacon</a> • <a href="naughty-list.html">Naughty List</a></b>
+<td class="NavLinks NavLinksBasicEven"><b><a href="beesmas-tree.html">Beesmas Tree</a> • <span class="new" data-uncrawlable-url="L3dpa2kvQ29tcHV0ZXI/YWN0aW9uPWVkaXQmcmVkbGluaz0x" title="Computer (page does not exist)">Computer</span> • <a href="gift-boxes.html">Gift Boxes</a> • <a href="honey-wreath.html">Honey Wreath</a> • <a href="stockings.html">Stockings</a> • <a href="gingerbread-house.html">Gingerbread House</a> • <a href="snowbear-summoner.html">Snowbear Summoner</a> • <a href="beesmas-lights.html">Beesmas Lights</a> • <a href="samovar.html">Samovar</a> • <a href="beesmas-feast.html">Beesmas Feast</a> • <a href="onett-s-lid-art.html">Onett's Lid Art</a> • <a href="wind-shrine.html#Galentine_Shrine">Galentine Shrine</a> • <a href="memory-match.html#Winter_Memory_Match">Winter Memory Match</a> • <a href="snow-machine.html">Snow Machine</a> • <a href="honeyday-candles.html">Honeyday Candles</a> • <a href="robo-party-cake.html">Robo Party Cake</a> • <a href="gummy-beacon.html">Gummy Beacon</a> • <a href="naughty-list.html">Naughty List</a></b>
 </td></tr></tbody></table>
 

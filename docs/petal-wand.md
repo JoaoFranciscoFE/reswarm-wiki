@@ -243,7 +243,7 @@ tags: ["Items", "Tools", "Crafted"]
 </td></tr>
 </tbody></table>
 
-The **Petal Wand** is a [tool](tools.md) added in the [2019-09-28 update](updates.md) that can be crafted in the [Petal Shop](petal-shop.md).
+The **Petal Wand** is a [tool](tools.md) added in the 2019-09-28 update that can be crafted in the [Petal Shop](petal-shop.md).
 
 <table class="article-table">
 <tbody><tr>
@@ -262,7 +262,7 @@ It collects 6 [pollen](pollen.md) from 37 patches in 0.7 seconds, and boosts pol
 
 Every 3rd swing, it fires a Petal Shuriken, which causes [bees](bees.md) to instantly convert pollen if it touches their hitbox. The shuriken instantly converts 10,000 + 6% of the bee's [convert amount](system-page.md#Convert_Amount) in pollen to honey + an additional 6% per [field boost](field-boost.md) stack of the field you're standing in. Shurikens can also pop [bubbles](passive-abilities.md#Gathering_Bubbles) and [fuzz bombs](ability-tokens.md#Fuzz_Bombs).
 
-In the [2026-01-16 update](updates.md#2026-01-16), shurikens were made to cause [blooms](bloom.md) that were hit to spawn a petal, dealing damage (20% remaining hp + 5% max hp) to the bloom as well as spawning a random petal from it.
+In the 2026-01-16 update, shurikens were made to cause [blooms](bloom.md) that were hit to spawn a petal, dealing damage (20% remaining hp + 5% max hp) to the bloom as well as spawning a random petal from it.
 
 ## Sound effect
 
@@ -338,7 +338,7 @@ This sound plays every 3rd swing, when a petal shuriken is released.
 </th>
 <th class="NavCategory">Quest Exclusive
 </th>
-<td class="NavLinks NavLinksBasicEven"><b><img alt="Translator" height="35" src="img/Translator.png" width="35"/> <a href="translator.html">Translator</a> • <img alt="Spirit Petal" height="35" src="img/Spirit_Petal.png" width="35"/> <a href="spirit-petal.html">Spirit Petal</a> • <img alt="Debug Wax" height="35" src="img/Debug_Wax.png" width="35"/> <a href="debug-wax.html">Debug Wax</a> • <img alt="Nectar Tester" height="35" src="img/Nectar_Tester.png" width="35"/> <a href="nectar-tester.html">Nectar Tester</a></b> • <span typeof="mw:Error mw:File"></span> <a href="bbm-s-apology.html">BBM's Apology</a><b></b>
+<td class="NavLinks NavLinksBasicEven"><b><img alt="Translator" height="35" src="img/Translator.png" width="35"/> <a href="translator.html">Translator</a> • <img alt="Spirit Petal" height="35" src="img/Spirit_Petal.png" width="35"/> <a href="spirit-petal.html">Spirit Petal</a> • <img alt="Debug Wax" height="35" src="img/Debug_Wax.png" width="35"/> <a href="debug-wax.html">Debug Wax</a> • <img alt="Nectar Tester" height="35" src="img/Nectar_Tester.png" width="35"/> <a href="nectar-tester.html">Nectar Tester</a></b><b></b>
 </td></tr>
 <tr>
 <th class="NavCategory">Beesmas

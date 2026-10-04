@@ -61,12 +61,12 @@ The **Fire Mask** is a mask that can be bought at the [Red HQ](red-hq.md).
 
 * This mask is the red counterpart to the [Bubble Mask](bubble-mask.md).
 * The Fire Mask, the [Bubble Mask](bubble-mask.md), [Riley Guard](riley-guard.md), [Bucko Guard](bucko-guard.md) and the [Honey Mask](honey-mask.md) all represent [Epic Bees](bees-epic.md).
-* Before the [2019-09-28 Update](updates.md#2019-09-28), the Fire Mask's stats were:
+* Before the 2019-09-28 Update, the Fire Mask's stats were:
   * x1.7 Red Pollen
   * +2 [Red Bee Attack Power](system-page.md#Attack_Multiplier)
   * +35% Defense
   * +15% Bee Ability Rate
-* Before the [2019-04-05 Update](updates.md#2019-04-05), the Fire Mask's stats were:
+* Before the 2019-04-05 Update, the Fire Mask's stats were:
   * +25% [Bee Gather Pollen](system-page.md#Bee_Gather_Pollen)
   * +25% [Instant Conversion](system-page.md#Instant_Conversion)
   * +35% Defense
@@ -76,7 +76,7 @@ The **Fire Mask** is a mask that can be bought at the [Red HQ](red-hq.md).
   * x1.15 Red Pollen
 * Before the 2019-09-28 update, it didn't have any [passive ability](passive-abilities.md).
 * If the player owns the Fire Mask, its passive is inherited by the [Demon Mask](demon-mask.md).
-* Before the [2020-06-06](updates.md#2020-06-06) Update, the passive ability had a 5-second cooldown.
+* Before the 2020-06-06 Update, the passive ability had a 5-second cooldown.
 * If a player were to Craft the items, this mask would cost 100M [Honey](honey.md), 8,625 [Strawberries](strawberry.md), 8,750 [Pineapples](pineapple.md), 5,625 [Blueberries](blueberry.md), 900 [Royal Jellies](royal-jelly.md), and all the time it takes to craft those Items.
 * Ignite forms around the 15th Red Ability token collected, no matter where it was collected.
 
@@ -141,7 +141,7 @@ The **Fire Mask** is a mask that can be bought at the [Red HQ](red-hq.md).
 </th>
 <th class="NavCategory">Quest Exclusive
 </th>
-<td class="NavLinks NavLinksBasicEven"><b><img alt="Translator" height="35" src="img/Translator.png" width="35"/> <a href="translator.html">Translator</a> • <img alt="Spirit Petal" height="35" src="img/Spirit_Petal.png" width="35"/> <a href="spirit-petal.html">Spirit Petal</a> • <img alt="Debug Wax" height="35" src="img/Debug_Wax.png" width="35"/> <a href="debug-wax.html">Debug Wax</a> • <img alt="Nectar Tester" height="35" src="img/Nectar_Tester.png" width="35"/> <a href="nectar-tester.html">Nectar Tester</a></b> • <span typeof="mw:Error mw:File"></span> <a href="bbm-s-apology.html">BBM's Apology</a><b></b>
+<td class="NavLinks NavLinksBasicEven"><b><img alt="Translator" height="35" src="img/Translator.png" width="35"/> <a href="translator.html">Translator</a> • <img alt="Spirit Petal" height="35" src="img/Spirit_Petal.png" width="35"/> <a href="spirit-petal.html">Spirit Petal</a> • <img alt="Debug Wax" height="35" src="img/Debug_Wax.png" width="35"/> <a href="debug-wax.html">Debug Wax</a> • <img alt="Nectar Tester" height="35" src="img/Nectar_Tester.png" width="35"/> <a href="nectar-tester.html">Nectar Tester</a></b><b></b>
 </td></tr>
 <tr>
 <th class="NavCategory">Beesmas

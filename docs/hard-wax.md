@@ -11,7 +11,7 @@ Hard Wax
 
 *"A firm hunk of beeswax. Has a 60% chance to improve a bee's Beequip."*
 
-**Hard Wax** is an inventory item and a type of [wax](waxes.md) added in the [2021-12-26 update](updates.md#2021-12-26) that can be used on a [Beequip](beequip.md) to improve its stats. Upon usage, it has a 60% chance of improving the Beequip's stats. Hard Wax has [Upgrade Value](beequip.md#Stats,_Waxes,_Chances) of 2.
+**Hard Wax** is an inventory item and a type of [wax](waxes.md) added in the 2021-12-26 update that can be used on a [Beequip](beequip.md) to improve its stats. Upon usage, it has a 60% chance of improving the Beequip's stats. Hard Wax has [Upgrade Value](beequip.md#Stats,_Waxes,_Chances) of 2.
 
 Hard Waxes can also be used to craft [tools](tools.md) and [items](items.md), such as [planters](planter.md).
 
@@ -62,24 +62,6 @@ The Wax didn't seem to help...
   * Wandering Ambition (#8) gives 1 Hard Wax and other items.
   * Unintended Intimidation (#9) gives 3 Hard Waxes and other items.
   * Solitarily Steadfast (#14) gives 10 Hard Waxes and other items.
-
-### Outdated Ways
-
-<table class="mw-collapsible mw-collapsed article-table">
-<caption>
-</caption>
-<tbody><tr>
-<td>
-<ul><li>Purchasing certain <a href="robux-shop.html">Robux Packs</a>:
-<ul><li>Purchasing the Precise Pack gave 50 Hard Waxes + other items.</li></ul></li>
-<li>A Hard Wax token used to be located behind the <a href="honeyday-candles.html">Honeyday Candles</a>.</li>
-<li>As a drop from a level 5 <a href="snowbear.html">Snowbear</a> during Beesmas 2022, it gave 3 Hard Waxes.</li>
-<li>Opening the Earthen Gift Box gave 10 Hard Waxes and other items.</li>
-<li>As a reward for giving a present to certain <a href="quest-givers.html">NPCs</a>.</li>
-<li>As a reward from <a href="memory-match.html#Winter_Memory_Match">Winter Memory Match</a>.</li>
-<li>During Beesmas, using Riley Bee's <a href="honeyday-candles.html">Honeyday Candles</a> has a 16.3% chance to give 3 Hard Wax.</li>
-<li>5 Hard Waxes were included in the <a href="bee-bear-s-catalog.html">Candlewax Bundle</a> during Beesmas Winter 2024.</li></ul>
-</td></tr></tbody></table>
 
 ## Crafting Uses
 
@@ -257,7 +239,7 @@ Total required for all single-purchase items: 465 **Hard Waxes**
 </th>
 <th class="NavCategory">Quest Exclusive
 </th>
-<td class="NavLinks NavLinksBasicEven"><b><img alt="Translator" height="35" src="img/Translator.png" width="35"/> <a href="translator.html">Translator</a> • <img alt="Spirit Petal" height="35" src="img/Spirit_Petal.png" width="35"/> <a href="spirit-petal.html">Spirit Petal</a> • <img alt="Debug Wax" height="35" src="img/Debug_Wax.png" width="35"/> <a href="debug-wax.html">Debug Wax</a> • <img alt="Nectar Tester" height="35" src="img/Nectar_Tester.png" width="35"/> <a href="nectar-tester.html">Nectar Tester</a></b> • <span typeof="mw:Error mw:File"></span> <a href="bbm-s-apology.html">BBM's Apology</a><b></b>
+<td class="NavLinks NavLinksBasicEven"><b><img alt="Translator" height="35" src="img/Translator.png" width="35"/> <a href="translator.html">Translator</a> • <img alt="Spirit Petal" height="35" src="img/Spirit_Petal.png" width="35"/> <a href="spirit-petal.html">Spirit Petal</a> • <img alt="Debug Wax" height="35" src="img/Debug_Wax.png" width="35"/> <a href="debug-wax.html">Debug Wax</a> • <img alt="Nectar Tester" height="35" src="img/Nectar_Tester.png" width="35"/> <a href="nectar-tester.html">Nectar Tester</a></b><b></b>
 </td></tr>
 <tr>
 <th class="NavCategory">Beesmas

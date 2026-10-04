@@ -59,7 +59,7 @@ This guard is one of 3 guards you can get in the Blue HQ, the others being the [
 ## Trivia
 
 * This guard represents [Bucko Bee](bucko-bee.md).
-* Before the [2018-11-25 update](updates.md#2018-11-25), it used to cost 60,000,000 honey and no crafting materials.
+* Before the 2018-11-25 update, it used to cost 60,000,000 honey and no crafting materials.
 * This is the highest tiered guard available in the Blue HQ.
 * This is the fourth most expensive item in the Blue HQ, after the [Bubble Mask](bubble-mask.md), the [Hydroponic Planter](hydroponic-planter.md), and the [Tide Popper](tide-popper.md).
 * This guard's red counterpart is the [Riley Guard](riley-guard.md).
@@ -126,7 +126,7 @@ This guard is one of 3 guards you can get in the Blue HQ, the others being the [
 </th>
 <th class="NavCategory">Quest Exclusive
 </th>
-<td class="NavLinks NavLinksBasicEven"><b><img alt="Translator" height="35" src="img/Translator.png" width="35"/> <a href="translator.html">Translator</a> • <img alt="Spirit Petal" height="35" src="img/Spirit_Petal.png" width="35"/> <a href="spirit-petal.html">Spirit Petal</a> • <img alt="Debug Wax" height="35" src="img/Debug_Wax.png" width="35"/> <a href="debug-wax.html">Debug Wax</a> • <img alt="Nectar Tester" height="35" src="img/Nectar_Tester.png" width="35"/> <a href="nectar-tester.html">Nectar Tester</a></b> • <span typeof="mw:Error mw:File"></span> <a href="bbm-s-apology.html">BBM's Apology</a><b></b>
+<td class="NavLinks NavLinksBasicEven"><b><img alt="Translator" height="35" src="img/Translator.png" width="35"/> <a href="translator.html">Translator</a> • <img alt="Spirit Petal" height="35" src="img/Spirit_Petal.png" width="35"/> <a href="spirit-petal.html">Spirit Petal</a> • <img alt="Debug Wax" height="35" src="img/Debug_Wax.png" width="35"/> <a href="debug-wax.html">Debug Wax</a> • <img alt="Nectar Tester" height="35" src="img/Nectar_Tester.png" width="35"/> <a href="nectar-tester.html">Nectar Tester</a></b><b></b>
 </td></tr>
 <tr>
 <th class="NavCategory">Beesmas

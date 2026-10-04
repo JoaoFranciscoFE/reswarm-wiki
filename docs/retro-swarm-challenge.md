@@ -355,7 +355,7 @@ Four Tix could have been found around the main map.
 
 ## Trivia
 
-* The Retro Swarm Challenge used to be accessible at spawn in front of the [Noob Shop](noob-shop.md) but was later shifted to the [10 bee zone](brave-bee-gate.md) in the [2024-07-17 Beesmas update](updates.md).
+* The Retro Swarm Challenge used to be accessible at spawn in front of the [Noob Shop](noob-shop.md) but was later shifted to the [10 bee zone](brave-bee-gate.md) in the 2024-07-17 Beesmas update.
 * The Retro Swarm Challenge has many references to classic Roblox content:
   * The lobby utilizes many free models that were commonplace in many classic Roblox games, including the skyscraper from "[Roblox World Headquarters](https://www.roblox.com/games/1501/ROBLOX-World-Headquarters)", a pillar from "[Sword Fights on the Heights](https://www.roblox.com/games/47324/Sword-Fights-on-the-Heights-IV)", and a tower from "[Crossroads](https://www.roblox.com/games/1818/Classic-Crossroads)".
   * The event is inspired by classic zombie survival games, such as "[Build To Survive The Zombies](https://www.roblox.com/games/51955496/Build-to-survive-the-zombies)".
