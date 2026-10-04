@@ -45,7 +45,7 @@ Bomber Bee likes the [Dandelion Field](dandelion-field.md) and the [Cactus Field
 
 ### Abilities
 
-* **[Buzz Bomb](ability-tokens.md#Bomb)** Collects 7 pollen from 13 surrounding [flowers](flowers.md) (+10% pollen per [level](bond.md)). Combo with other bombs to increase power and stacks up to 10 times.
+* <img alt="Buzz Bomb" src="img/Buzz_Bomb.png" style="height:1.6em;width:auto;vertical-align:middle"/> **[Buzz Bomb](ability-tokens.md#Bomb)** Collects 7 pollen from 13 surrounding [flowers](flowers.md) (+10% pollen per [level](bond.md)). Combo with other bombs to increase power and stacks up to 10 times.
 
 <table style="font-size:1.5vh; color:#000; width:100%; background:#fff; padding: 15px 0; border:none; color:#000; border-left:15px #000 solid">
 <tbody><tr>

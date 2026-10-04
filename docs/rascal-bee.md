@@ -45,7 +45,7 @@ Rascal Bee likes the [Mushroom Field](mushroom-field.md) and the [Rose Field](ro
 
 ### Abilities
 
-* **[Red Bomb](ability-tokens.md#Bomb)** Collects 10 pollen from 13 surrounding red [flowers](flowers.md) (+10% pollen per level). Combo with other bombs to increase power.
+* <img alt="Red Bomb" src="img/Red_Bomb.png" style="height:1.6em;width:auto;vertical-align:middle"/> **[Red Bomb](ability-tokens.md#Bomb)** Collects 10 pollen from 13 surrounding red [flowers](flowers.md) (+10% pollen per level). Combo with other bombs to increase power.
 
 <table style="font-size:1.5vh; color:#000; width:100%; background:#fff; padding: 15px 0; border:none; color:#000; border-left:15px #af2136 solid">
 <tbody><tr>

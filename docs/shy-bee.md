@@ -45,8 +45,8 @@ Shy Bee likes the [Strawberry Field](strawberry-field.md) and the [Pumpkin Patch
 
 ### Abilities
 
-* **[Red Boost](ability-tokens.md#Boost)** Grants x1.2 pollen from red [Flowers](flowers.md) for 15s. Stacks up to 10 times.
-* **[Red Bomb](ability-tokens.md#Bomb)** Collects 10 pollen from 13 surrounding red flowers (+10% pollen per Level). Combo with other bombs to increase power.
+* <img alt="Red Boost" src="img/Red_Boost.png" style="height:1.6em;width:auto;vertical-align:middle"/> **[Red Boost](ability-tokens.md#Boost)** Grants x1.2 pollen from red [Flowers](flowers.md) for 15s. Stacks up to 10 times.
+* <img alt="Red Bomb" src="img/Red_Bomb.png" style="height:1.6em;width:auto;vertical-align:middle"/> **[Red Bomb](ability-tokens.md#Bomb)** Collects 10 pollen from 13 surrounding red flowers (+10% pollen per Level). Combo with other bombs to increase power.
 * **[Passive: Nectar Lover](passive-abilities.md#Nectar_Lover)** This bee is twice as likely to sip Nectar from Planters. When it does, it gathers twice as much Nectar and contributes twice as much growth to the Planter.
 
 <table style="font-size:1.5vh; color:#000; width:100%; background:#fff; padding: 15px 0; border:none; color:#000; border-left:15px #af2136 solid">

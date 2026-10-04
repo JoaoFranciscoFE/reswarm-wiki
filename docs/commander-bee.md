@@ -45,8 +45,8 @@ Commander Bee likes the [Spider Field](spider-field.md) and the [Cactus Field](c
 
 ### Abilities
 
-* **[Focus](ability-tokens.md#Focus)** Grants +3% Critical Chance for 20 seconds. Stacks up to 10 times. [Critical hits](critical-hits.md) increase pollen and damage by 100%.
-* **[Buzz Bomb](ability-tokens.md#Bomb)** Collects 7 pollen from 13 surrounding [Flowers](flowers.md) (+10% pollen per [Level](bond.md)). Combo with other bombs to increase power.
+* <img alt="Focus" src="img/Focus.png" style="height:1.6em;width:auto;vertical-align:middle"/> **[Focus](ability-tokens.md#Focus)** Grants +3% Critical Chance for 20 seconds. Stacks up to 10 times. [Critical hits](critical-hits.md) increase pollen and damage by 100%.
+* <img alt="Buzz Bomb" src="img/Buzz_Bomb.png" style="height:1.6em;width:auto;vertical-align:middle"/> **[Buzz Bomb](ability-tokens.md#Bomb)** Collects 7 pollen from 13 surrounding [Flowers](flowers.md) (+10% pollen per [Level](bond.md)). Combo with other bombs to increase power.
 
 <table style="font-size:1.5vh; color:#000; width:100%; background:#fff; padding: 15px 0; border:none; color:#000; border-left:15px #000 solid">
 <tbody><tr>

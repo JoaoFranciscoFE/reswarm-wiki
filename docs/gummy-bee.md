@@ -45,8 +45,8 @@ Gummy Bee likes the [Pineapple Patch](pineapple-patch.md), [Mountain Top Field](
 
 ### Abilities
 
-* **[Gumdrop Barrage](ability-tokens.md#Gumdrop_Barrage)** Launches Gumdrops in a large area, covering the field in goo. [Flowers](flowers.md) covered in goo grant bonus Honey that increases with the size of the Goo puddle.
-* **[Glob](ability-tokens.md#Glob)** Covers 49 surrounding flowers in goo. If gifted, covers 81 Flowers instead.
+* <img alt="Gumdrop Barrage" src="img/Gumdrop_Barrage.png" style="height:1.6em;width:auto;vertical-align:middle"/> **[Gumdrop Barrage](ability-tokens.md#Gumdrop_Barrage)** Launches Gumdrops in a large area, covering the field in goo. [Flowers](flowers.md) covered in goo grant bonus Honey that increases with the size of the Goo puddle.
+* <img alt="Glob" src="img/Glob.png" style="height:1.6em;width:auto;vertical-align:middle"/> **[Glob](ability-tokens.md#Glob)** Covers 49 surrounding flowers in goo. If gifted, covers 81 Flowers instead.
 
 <table style="font-size:1.5vh; color:#000; width:100%; background:#fff; padding: 15px 0; border:none; color:#000; border-left:15px #000 solid">
 <tbody><tr>

@@ -45,8 +45,8 @@ Exhausted Bee likes the [Stump Field](stump-field.md), the [Sunflower Field](su
 
 ### Abilities
 
-* **[Buzz Bomb](ability-tokens.md#Bomb)** Collects 7 pollen from 13 surrounding [Flowers](flowers.md) (+10% pollen per Level). Combo with other bombs to increase power.
-* **[Token Link](ability-tokens.md#Token_Link)** Collects all other ability tokens, granting 25 [Honey](honey.md) (+10 per Level) per token collected.
+* <img alt="Buzz Bomb" src="img/Buzz_Bomb.png" style="height:1.6em;width:auto;vertical-align:middle"/> **[Buzz Bomb](ability-tokens.md#Bomb)** Collects 7 pollen from 13 surrounding [Flowers](flowers.md) (+10% pollen per Level). Combo with other bombs to increase power.
+* <img alt="Token Link" src="img/Token_Link.png" style="height:1.6em;width:auto;vertical-align:middle"/> **[Token Link](ability-tokens.md#Token_Link)** Collects all other ability tokens, granting 25 [Honey](honey.md) (+10 per Level) per token collected.
 
 <table style="font-size:1.5vh; color:#000; width:100%; background:#fff; padding: 15px 0; border:none; color:#000; border-left:15px #000 solid">
 <tbody><tr>

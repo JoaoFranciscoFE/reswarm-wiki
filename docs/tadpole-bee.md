@@ -45,10 +45,10 @@ Tadpole Bee likes the [Pine Tree Forest](pine-tree-forest.md) and [Stump Field](
 
 ### Abilities
 
-* **[Blue Boost](ability-tokens.md#Blue_Boost)** Grants x1.2 pollen from Blue [Flowers](flowers.md) for 15 seconds. Stacks up to 10 times.
-* **[Summon Frog](ability-tokens.md#Summon_Frog)** Summons a [frog](frog.md) that lasts for 20s (+2s per Level). Frogs can make [bubbles](bubble.md) after every few hops, or after collecting a token with their tongue. They also attack nearby enemies with attack equal to 5x this bee's attack.
+* <img alt="Blue Boost" src="img/Blue_Boost.png" style="height:1.6em;width:auto;vertical-align:middle"/> **[Blue Boost](ability-tokens.md#Blue_Boost)** Grants x1.2 pollen from Blue [Flowers](flowers.md) for 15 seconds. Stacks up to 10 times.
+* <img alt="Summon Frog" src="img/Summon_Frog.png" style="height:1.6em;width:auto;vertical-align:middle"/> **[Summon Frog](ability-tokens.md#Summon_Frog)** Summons a [frog](frog.md) that lasts for 20s (+2s per Level). Frogs can make [bubbles](bubble.md) after every few hops, or after collecting a token with their tongue. They also attack nearby enemies with attack equal to 5x this bee's attack.
   * If Gifted, this has a 10% (+2% per Level) chance to summon a Gifted Frog instead, which has increased tongue range, Token gathering and attack speed, 50% more attack, has a chance to summon [golden bubbles](bubble.md#Golden_Bubbles), and can hit [balloons](balloon.md) with its tongue to convert pollen to Honey Tokens.
-* **[🌟Gifted Ability: Baby Love](ability-tokens.md#Baby_Love)** Grants x2 pollen and +50% [Loot Luck](loot-luck.md) for 30 seconds. Loot Luck increases your chance of obtaining prizes from defeating enemies.
+* <img alt="Baby Love" src="img/Baby_Love.png" style="height:1.6em;width:auto;vertical-align:middle"/> **[🌟Gifted Ability: Baby Love](ability-tokens.md#Baby_Love)** Grants x2 pollen and +50% [Loot Luck](loot-luck.md) for 30 seconds. Loot Luck increases your chance of obtaining prizes from defeating enemies.
 * **[[Passive:](passive-abilities.md#Gathering_Bubbles) [Gathering Bubbles+]](bubble.md#Gathering_Bubbles)** 65% chance (85% if Gifted) to spawn a Bubble when gathering. If any player touches it, it pops, collecting 4 Red/6 White/8 Blue pollen (+15% per Gifted blue bee type, +5% per bee level) from 29 nearby flowers and causing them to replenish.
 
 <table style="font-size:1.5vh; color:#000; width:100%; background:#fff; padding: 15px 0; border:none; color:#000; border-left:15px #000 solid">

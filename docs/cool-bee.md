@@ -45,7 +45,7 @@ Cool Bee likes the [Bamboo Field](bamboo-field.md) and the [Pine Tree Forest](pi
 
 ### Abilities
 
-* **[Blue Boost](ability-tokens.md#Boost)** Grants x1.2 pollen from blue [flowers](flowers.md) for 15 seconds. Stacks up to 10 times.
+* <img alt="Blue Boost" src="img/Blue_Boost.png" style="height:1.6em;width:auto;vertical-align:middle"/> **[Blue Boost](ability-tokens.md#Boost)** Grants x1.2 pollen from blue [flowers](flowers.md) for 15 seconds. Stacks up to 10 times.
 
 <table style="font-size:1.5vh; color:#000; width:100%; background:#fff; padding: 15px 0; border:none; color:#000; border-left:15px #2fa0fc solid">
 <tbody><tr>

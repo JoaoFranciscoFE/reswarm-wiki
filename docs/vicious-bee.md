@@ -47,8 +47,8 @@ Vicious Bee likes the [Cactus Field](cactus-field.md) and the [Rose Field](rose-
 
 ### Abilities
 
-* **[Impale](ability-tokens.md#Impale)** Summons spikes (1 per level) to damage enemies equal to 5% of their current health (Increased by Vicious Bee's attack. [Reduced damage if larger than 1000]). Creates a honey token per enemy hit (worth 50 honey plus 50 per bee level). Multiple spikes on the same target deal less damage. Impale can damage [mobs](mobs.md) that target other players but will not target other players' [Tunnel Bear](tunnel-bear.md), [King Beetle](king-beetle.md), [Stump Snail](stump-snail.md), or [Coconut Crab](coconut-crab.md). If gifted, Impale has +1 level of accuracy.
-* **[Blue Bomb+](ability-tokens.md#Bomb)** Collects 10 pollen from 29 surrounding blue [Flowers](flowers.md) (+10% pollen per Level). Combo with other bombs to increase power.
+* <img alt="Impale" src="img/Impale.png" style="height:1.6em;width:auto;vertical-align:middle"/> **[Impale](ability-tokens.md#Impale)** Summons spikes (1 per level) to damage enemies equal to 5% of their current health (Increased by Vicious Bee's attack. [Reduced damage if larger than 1000]). Creates a honey token per enemy hit (worth 50 honey plus 50 per bee level). Multiple spikes on the same target deal less damage. Impale can damage [mobs](mobs.md) that target other players but will not target other players' [Tunnel Bear](tunnel-bear.md), [King Beetle](king-beetle.md), [Stump Snail](stump-snail.md), or [Coconut Crab](coconut-crab.md). If gifted, Impale has +1 level of accuracy.
+* <img alt="Blue Bomb+" src="img/Blue_Bomb+.png" style="height:1.6em;width:auto;vertical-align:middle"/> **[Blue Bomb+](ability-tokens.md#Bomb)** Collects 10 pollen from 29 surrounding blue [Flowers](flowers.md) (+10% pollen per Level). Combo with other bombs to increase power.
 
 <table class="article-table">
 <tbody><tr>
