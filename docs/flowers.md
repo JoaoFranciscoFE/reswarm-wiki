@@ -31,55 +31,55 @@ Sometimes, a flower patch might emit green [leaves](leaves.md). Collecting polle
 <tr>
 <td>Single
 </td>
-<td><figure class="mw-halign-left" typeof="mw:Error mw:File"><figcaption></figcaption></figure>
+<td><img alt="Single White Flower" height="48" src="img/Single_White_Flower.png" width="48"/>
 </td>
-<td><figure class="mw-halign-left" typeof="mw:Error mw:File"><figcaption></figcaption></figure>
+<td><img alt="Single Red Flower" height="48" src="img/Single_Red_Flower.png" width="48"/>
 </td>
-<td><figure class="mw-halign-left" typeof="mw:Error mw:File"><figcaption></figcaption></figure>
+<td><img alt="Single Blue Flower" height="48" src="img/Single_Blue_Flower.png" width="48"/>
 </td>
 <td><a href="sunflower-field.html">Sunflower Field</a>, <a href="dandelion-field.html">Dandelion Field</a>, <a href="mushroom-field.html">Mushroom Field</a>, <a href="clover-field.html">Clover Field</a>, <a href="blue-flower-field.html">Blue Flower Field</a>, <a href="spider-field.html">Spider Field</a>, <a href="strawberry-field.html">Strawberry Field</a>, <a href="bamboo-field.html">Bamboo Field</a>, <a href="pineapple-patch.html">Pineapple Patch</a>, <a href="pine-tree-forest.html">Pine Tree Forest</a>, <a href="rose-field.html">Rose Field</a>, <a href="ant-field.html">Ant Field</a>, <a href="hub-field.html">Hub Field</a>.
 </td></tr>
 <tr>
 <td>Double
 </td>
-<td><figure class="mw-halign-left" typeof="mw:Error mw:File"><figcaption></figcaption></figure>
+<td><img alt="Double White Flower" height="48" src="img/Double_White_Flower.png" width="48"/>
 </td>
-<td><figure class="mw-halign-left" typeof="mw:Error mw:File"><figcaption></figcaption></figure>
+<td><img alt="Double Red Flower" height="48" src="img/Double_Red_Flower.png" width="48"/>
 </td>
-<td><figure class="mw-halign-left" typeof="mw:Error mw:File"><figcaption></figcaption></figure>
+<td><img alt="Double Blue Flower" height="48" src="img/Double_Blue_Flower.png" width="48"/>
 </td>
 <td>Sunflower Field, Dandelion Field, Mushroom Field, Clover Field, Blue Flower Field, Spider Field, Strawberry Field, Bamboo Field, Pineapple Patch, <a href="cactus-field.html">Cactus Field</a>, <a href="pumpkin-patch.html">Pumpkin Patch</a>, Pine Tree Forest, Rose Field, Hub Field.
 </td></tr>
 <tr>
 <td>Triple
 </td>
-<td><figure class="mw-halign-left" typeof="mw:Error mw:File"><figcaption></figcaption></figure>
+<td><img alt="Triple White Flower" height="48" src="img/Triple_White_Flower.png" width="48"/>
 </td>
-<td><figure class="mw-halign-left" typeof="mw:Error mw:File"><figcaption></figcaption></figure>
+<td><img alt="Triple Red Flower" height="48" src="img/Triple_Red_Flower.png" width="48"/>
 </td>
-<td><figure class="mw-halign-left" typeof="mw:Error mw:File"><figcaption></figcaption></figure>
+<td><img alt="Triple Blue Flower" height="48" src="img/Triple_Blue_Flower.png" width="48"/>
 </td>
 <td>Spider Field, Strawberry Field, Bamboo Field, Pineapple Patch, <a href="stump-field.html">Stump Field</a>, Cactus Field, Pumpkin Patch, Pine Tree Forest, Rose Field, <a href="mountain-top-field.html">Mountain Top Field</a>, <a href="coconut-field.html">Coconut Field</a>, <a href="pepper-patch.html">Pepper Patch</a>, Hub Field.
 </td></tr>
 <tr>
 <td>Large
 </td>
-<td><figure class="mw-halign-left" typeof="mw:Error mw:File"><figcaption></figcaption></figure>
+<td><img alt="Large White Flower" height="48" src="img/Large_White_Flower.png" width="48"/>
 </td>
-<td><figure class="mw-halign-left" typeof="mw:Error mw:File"><figcaption></figcaption></figure>
+<td><img alt="Large Red Flower" height="48" src="img/Large_Red_Flower.png" width="48"/>
 </td>
-<td><figure class="mw-halign-left" typeof="mw:Error mw:File"><figcaption></figcaption></figure>
+<td><img alt="Large Blue Flower" height="48" src="img/Large_Blue_Flower.png" width="48"/>
 </td>
 <td>Can only be created by <a href="pollination.html">pollination</a>.
 </td></tr>
 <tr>
 <td>Star
 </td>
-<td><figure class="mw-halign-left" typeof="mw:Error mw:File"><figcaption></figcaption></figure>
+<td><img alt="Star White Flower" height="48" src="img/Star_White_Flower.png" width="48"/>
 </td>
-<td><figure class="mw-halign-left" typeof="mw:Error mw:File"><figcaption></figcaption></figure>
+<td><img alt="Star Red Flower" height="48" src="img/Star_Red_Flower.png" width="48"/>
 </td>
-<td><figure class="mw-halign-left" typeof="mw:Error mw:File"><figcaption></figcaption></figure>
+<td><img alt="Star Blue Flower" height="48" src="img/Star_Blue_Flower.png" width="48"/>
 </td>
 <td>Can only be created by <a href="pollination.html">pollination</a>.
 </td></tr></tbody></table>

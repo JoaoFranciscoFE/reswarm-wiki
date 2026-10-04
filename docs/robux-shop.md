@@ -26,7 +26,7 @@ This shop sells gamepasses, [Eggs](egg.md), [Royal Jelly](royal-jelly.md), [Hone
 <th>Description
 </th></tr>
 <tr>
-<td><span typeof="mw:Error mw:File"></span>
+<td><img alt="Bear Bee Voucher" height="50" src="img/Bear_Bee_Voucher.png" width="50"/>
 </td>
 <td><a href="sticker.html#Sticker_Index"><span class="color-template color-template-bear-bee-voucher color-template-background-clip">Bear Bee Voucher</span></a>
 </td>
@@ -37,7 +37,7 @@ This shop sells gamepasses, [Eggs](egg.md), [Royal Jelly](royal-jelly.md), [Hone
 </p>
 </td></tr>
 <tr>
-<td><span typeof="mw:Error mw:File"></span>
+<td><img alt="Cub Buddy Voucher" height="50" src="img/Cub_Buddy_Voucher.png" width="50"/>
 </td>
 <td><a href="sticker.html#Sticker_Index"><span class="color-template color-template-cub-buddy-voucher color-template-background-clip">Cub Buddy Voucher</span></a>
 </td>
@@ -48,7 +48,7 @@ This shop sells gamepasses, [Eggs](egg.md), [Royal Jelly](royal-jelly.md), [Hone
 </p>
 </td></tr>
 <tr>
-<td><span typeof="mw:Error mw:File"></span>
+<td><img alt="x2 Bee Gather Voucher" height="50" src="img/x2_Bee_Gather_Voucher.png" width="50"/>
 </td>
 <td><a href="sticker.html#Sticker_Index"><span class="color-template color-template-x2-bee-gather-voucher color-template-background-clip">x2 Bee Gather Voucher</span></a>
 </td>
@@ -59,7 +59,7 @@ This shop sells gamepasses, [Eggs](egg.md), [Royal Jelly](royal-jelly.md), [Hone
 </p>
 </td></tr>
 <tr>
-<td><span typeof="mw:Error mw:File"></span>
+<td><img alt="x2 Convert Speed Voucher" height="50" src="img/x2_Convert_Speed_Voucher.png" width="50"/>
 </td>
 <td><a href="sticker.html#Sticker_Index"><span class="color-template color-template-x2-convert-speed-voucher color-template-background-clip">x2 Convert Speed Voucher</span></a>
 </td>
@@ -70,7 +70,7 @@ This shop sells gamepasses, [Eggs](egg.md), [Royal Jelly](royal-jelly.md), [Hone
 </p>
 </td></tr>
 <tr>
-<td><span typeof="mw:Error mw:File"></span>
+<td><img alt="Ticket Voucher" height="50" src="img/Ticket_Voucher.png" width="50"/>
 </td>
 <td><a href="sticker.html#Sticker_Index"><span class="color-template color-template-ticket-voucher color-template-background-clip">Ticket Voucher</span></a>
 </td>
@@ -92,7 +92,7 @@ This shop sells gamepasses, [Eggs](egg.md), [Royal Jelly](royal-jelly.md), [Hone
 <th>Description
 </th></tr>
 <tr>
-<td><span typeof="mw:Error mw:File"></span>
+<td><img alt="Silver Egg" height="50" src="img/Silver_Egg.png" width="50"/>
 </td>
 <td><a href="egg.html#Silver_Egg"><span class="color-template color-template-silver-egg color-template-background-clip">Silver Egg</span></a>
 </td>
@@ -104,7 +104,7 @@ This shop sells gamepasses, [Eggs](egg.md), [Royal Jelly](royal-jelly.md), [Hone
 </p>
 </td></tr>
 <tr>
-<td><span typeof="mw:Error mw:File"></span>
+<td><img alt="Gold Egg" height="50" src="img/Gold_Egg.png" width="50"/>
 </td>
 <td><a href="egg.html#Gold_Egg"><span class="color-template color-template-gold-egg color-template-background-clip">Gold Egg</span></a>
 </td>
@@ -116,7 +116,7 @@ This shop sells gamepasses, [Eggs](egg.md), [Royal Jelly](royal-jelly.md), [Hone
 </p>
 </td></tr>
 <tr>
-<td><span typeof="mw:Error mw:File"></span>
+<td><img alt="Diamond Egg" height="50" src="img/Diamond_Egg.png" width="50"/>
 </td>
 <td><a href="egg.html#Diamond_Egg"><span class="color-template color-template-diamond-egg color-template-background-clip">Diamond Egg</span></a>
 </td>
@@ -128,7 +128,7 @@ This shop sells gamepasses, [Eggs](egg.md), [Royal Jelly](royal-jelly.md), [Hone
 </p>
 </td></tr>
 <tr>
-<td><span typeof="mw:Error mw:File"></span>
+<td><img alt="Star Egg" height="50" src="img/Star_Egg.png" width="50"/>
 </td>
 <td><a href="egg.html#Star_Egg"><span class="color-template color-template-star-egg color-template-background-clip">Star Egg</span></a>
 </td>
@@ -139,7 +139,7 @@ This shop sells gamepasses, [Eggs](egg.md), [Royal Jelly](royal-jelly.md), [Hone
 </p>
 </td></tr>
 <tr>
-<td><span typeof="mw:Error mw:File"></span>
+<td><img alt="Mythic Egg" height="50" src="img/Mythic_Egg.png" width="50"/>
 </td>
 <td><a href="egg.html#Mythic_Egg"><span class="color-template color-template-mythic-egg color-template-background-clip">Mythic Egg</span></a>
 </td>
@@ -163,7 +163,7 @@ This shop sells gamepasses, [Eggs](egg.md), [Royal Jelly](royal-jelly.md), [Hone
 <th>Description
 </th></tr>
 <tr>
-<td><span typeof="mw:Error mw:File"></span>
+<td><img alt="Royal Jelly" height="50" src="img/Royal_Jelly.png" width="50"/>
 </td>
 <td><a href="royal-jelly.html"><span class="color-template color-template-royal-jelly color-template-background-clip">Royal Jelly</span></a>
 </td>
@@ -194,7 +194,7 @@ This shop sells gamepasses, [Eggs](egg.md), [Royal Jelly](royal-jelly.md), [Hone
 <th>Description
 </th></tr>
 <tr>
-<td><span typeof="mw:Error mw:File"></span>
+<td><img alt="Ticket" height="50" src="img/Ticket.png" width="50"/>
 </td>
 <td><a href="ticket.html"><span class="color-template color-template-ticket color-template-background-clip">Ticket</span></a>
 </td>
@@ -243,7 +243,7 @@ This shop sells gamepasses, [Eggs](egg.md), [Royal Jelly](royal-jelly.md), [Hone
 <th>Description
 </th></tr>
 <tr>
-<td><span typeof="mw:Error mw:File"></span>
+<td><img alt="Magic Bean" height="50" src="img/Magic_Bean.png" width="50"/>
 </td>
 <td><a href="magic-bean.html"><span class="color-template color-template-magic-bean color-template-background-clip">Magic Bean</span></a>
 </td>
@@ -261,7 +261,7 @@ This shop sells gamepasses, [Eggs](egg.md), [Royal Jelly](royal-jelly.md), [Hone
 <td>A value pack of 10 Magic Beans!
 </td></tr>
 <tr>
-<td><span typeof="mw:Error mw:File"></span>
+<td><img alt="Sticker Planter" height="50" src="img/Sticker_Planter.png" width="50"/>
 </td>
 <td><a href="sticker-planter.html"><span class="color-template color-template-sticker-planter color-template-background-clip">Sticker Planter</span></a>
 </td>
@@ -270,7 +270,7 @@ This shop sells gamepasses, [Eggs](egg.md), [Royal Jelly](royal-jelly.md), [Hone
 <td>Grows in around 3 hours playtime. Grants <a href="nectar.html">Nectar</a>, <a href="sticker.html">Stickers</a> (at least 5), and more. Always spawns a <a href="puffshroom.html">Rare Puffshroom</a> (or better)! (Requires 20 Bees to purchase. Limit 10 per player.)
 </td></tr>
 <tr>
-<td><span typeof="mw:Error mw:File"></span>
+<td><img alt="Night Bell" height="50" src="img/Night_Bell.png" width="50"/>
 </td>
 <td><a href="night-bell.html"><span class="color-template color-template-night-bell color-template-background-clip">Night Bell</span></a>
 </td>
@@ -343,7 +343,7 @@ Prior to their removal, all gamepasses were a one-time purchase.
 <th>Description
 </th></tr>
 <tr>
-<td><span typeof="mw:Error mw:File"></span>
+<td><img alt="Bear Bee" height="50" src="img/Bear_Bee.png" width="50"/>
 </td>
 <td><a href="bear-bee.html">Bear Bee</a>
 </td>
@@ -539,7 +539,7 @@ Prior to their removal, all gamepasses were a one-time purchase.
 <td>Jan 2, 2019
 </td></tr>
 <tr>
-<td><span typeof="mw:Error mw:File"></span>
+<td><img alt="Festive Bean" height="50" src="img/Festive_Bean.png" width="50"/>
 </td>
 <td>Festive Bean
 </td>
@@ -1068,7 +1068,7 @@ Permanently obtainable in game as a reward from <a href="robo-bear-challenge.htm
 <td>December 15, 2024
 </td></tr>
 <tr>
-<td><span typeof="mw:Error mw:File"></span>
+<td><img alt="Choose-A-Mythic Egg" height="50" src="img/Choose-A-Mythic_Egg.png" width="50"/>
 </td>
 <td>Choose-A-Mythic Egg
 </td>
