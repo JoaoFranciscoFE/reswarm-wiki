@@ -16,6 +16,7 @@ tags: ["Pages with broken file links", "Passive Mobs", "Mobs"]
 * Epic (Gold/Yellow Cap, Pale Yellow Stem, very rare).
 * Legendary (Light/Pale Blue Cap, Baby Blue Stem, extremely rare).
 * Mythic (Purple Cap, Pale Purple Stem, exceptionally rare).
+* [Supreme](supreme-puffshroom.md) (Re://:Swarm only, above Mythic).
 
 Once spawned, the first (or the main) Puffshroom will last 5 minutes before naturally despawning — a timer is shown above the pushroom that displays the time left to defeat it. Players are required to collect a certain amount of pollen (indicated by the pollen meter) within its vicinity until the meter is full. When the Puffshroom is defeated, it drops loot and turns into concentrated spores to spread to different fields. The loot is separate for all players, meaning that one player will not have the same as the other. The quality of the loot depends on the type, level, and the damage dealt to the Puffshroom before its defeat — if the player has not dealt enough damage to it, it will only drop treats and honey.
 
@@ -28,6 +29,7 @@ Levels required for the rarity to gain a chance to spawn:
 * Epic: Level 8+
 * Legendary: Level 10+
 * Mythic: Level 12+
+* Supreme: Level 15+
 
 <table class="mw-collapsible mw-collapsed wikitable">
 <tbody><tr>
