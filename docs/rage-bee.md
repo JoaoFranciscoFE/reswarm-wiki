@@ -12,8 +12,8 @@ tags: ["Pages with broken file links", "Bees", "Epic", "Red"]
 <label for="bee-tab-original">Original</label>
 <input type="radio" name="bee-infobox-tab" id="bee-tab-gifted">
 <label for="bee-tab-gifted">Gifted</label>
-<div class="bee-infobox-image bee-tab-original"><img alt="Rage Bee" src="img/Rage_Bee.png" width="150" height="150"></div>
-<div class="bee-infobox-image bee-tab-gifted"><img alt="Gifted Rage Bee" src="img/Gifted_Rage_Bee.png" width="150" height="150"></div>
+<div class="bee-infobox-image bee-tab-original"><img alt="Rage Bee" src="img/Rage_Bee.png" width="150"></div>
+<div class="bee-infobox-image bee-tab-gifted"><img alt="Gifted Rage Bee" src="img/Gifted_Rage_Bee.png" width="150"></div>
 </div>
 <div class="bee-infobox-quote"><i>"A very angry bee who has been wronged its whole life. It harnesses its rage to become more powerful."</i></div>
 <div class="bee-infobox-row"><b>Rarity</b><span>Epic</span></div>

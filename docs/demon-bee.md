@@ -12,8 +12,8 @@ tags: ["Pages with broken file links", "Bees", "Legendary", "Red"]
 <label for="bee-tab-original">Original</label>
 <input type="radio" name="bee-infobox-tab" id="bee-tab-gifted">
 <label for="bee-tab-gifted">Gifted</label>
-<div class="bee-infobox-image bee-tab-original"><img alt="Demon Bee" src="img/Demon_Bee.png" width="150" height="150"></div>
-<div class="bee-infobox-image bee-tab-gifted"><img alt="Gifted Demon Bee" src="img/Gifted_Demon_Bee.png" width="150" height="150"></div>
+<div class="bee-infobox-image bee-tab-original"><img alt="Demon Bee" src="img/Demon_Bee.png" width="150"></div>
+<div class="bee-infobox-image bee-tab-gifted"><img alt="Gifted Demon Bee" src="img/Gifted_Demon_Bee.png" width="150"></div>
 </div>
 <div class="bee-infobox-quote"><i>"A powerful bee with magical powers fueled by pure hatred."</i></div>
 <div class="bee-infobox-row"><b>Rarity</b><span>Legendary</span></div>

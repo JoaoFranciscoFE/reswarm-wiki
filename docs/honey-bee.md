@@ -12,8 +12,8 @@ tags: ["Pages with broken file links", "Bees", "Epic", "Colorless"]
 <label for="bee-tab-original">Original</label>
 <input type="radio" name="bee-infobox-tab" id="bee-tab-gifted">
 <label for="bee-tab-gifted">Gifted</label>
-<div class="bee-infobox-image bee-tab-original"><img alt="Honey Bee" src="img/Honey_Bee.png" width="150" height="150"></div>
-<div class="bee-infobox-image bee-tab-gifted"><img alt="Gifted Honey Bee" src="img/Gifted_Honey_Bee.png" width="150" height="150"></div>
+<div class="bee-infobox-image bee-tab-original"><img alt="Honey Bee" src="img/Honey_Bee.png" width="150"></div>
+<div class="bee-infobox-image bee-tab-gifted"><img alt="Gifted Honey Bee" src="img/Gifted_Honey_Bee.png" width="150"></div>
 </div>
 <div class="bee-infobox-quote"><i>"A satisfied bee always full with the finest honey. If you're lucky it will share some."</i></div>
 <div class="bee-infobox-row"><b>Rarity</b><span>Epic</span></div>

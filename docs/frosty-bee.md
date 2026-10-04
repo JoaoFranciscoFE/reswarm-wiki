@@ -12,8 +12,8 @@ tags: ["Pages with broken file links", "Bees", "Epic", "Blue"]
 <label for="bee-tab-original">Original</label>
 <input type="radio" name="bee-infobox-tab" id="bee-tab-gifted">
 <label for="bee-tab-gifted">Gifted</label>
-<div class="bee-infobox-image bee-tab-original"><img alt="Frosty Bee" src="img/Frosty_Bee.png" width="150" height="150"></div>
-<div class="bee-infobox-image bee-tab-gifted"><img alt="Gifted Frosty Bee" src="img/Gifted_Frosty_Bee.png" width="150" height="150"></div>
+<div class="bee-infobox-image bee-tab-original"><img alt="Frosty Bee" src="img/Frosty_Bee.png" width="150"></div>
+<div class="bee-infobox-image bee-tab-gifted"><img alt="Gifted Frosty Bee" src="img/Gifted_Frosty_Bee.png" width="150"></div>
 </div>
 <div class="bee-infobox-quote"><i>"A bee made of snow. It magically came to life after someone put a top hat on its head."</i></div>
 <div class="bee-infobox-row"><b>Rarity</b><span>Epic</span></div>

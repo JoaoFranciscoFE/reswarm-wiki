@@ -12,8 +12,8 @@ tags: ["Bees", "Mythic", "Red", "Re://:Swarm"]
 <label for="bee-tab-original">Original</label>
 <input type="radio" name="bee-infobox-tab" id="bee-tab-gifted">
 <label for="bee-tab-gifted">Gifted</label>
-<div class="bee-infobox-image bee-tab-original"><img alt="Mortar Bee" src="img/Happy_Mortar_Bee.png" width="150" height="150"></div>
-<div class="bee-infobox-image bee-tab-gifted"><img alt="Gifted Mortar Bee" src="img/Happy_Mortar_Bee.png" width="150" height="150"></div>
+<div class="bee-infobox-image bee-tab-original"><img alt="Mortar Bee" src="img/Mortar_Bee.png" width="150"></div>
+<div class="bee-infobox-image bee-tab-gifted"><img alt="Gifted Mortar Bee" src="img/Mortar_Bee.png" width="150"></div>
 </div>
 <div class="bee-infobox-quote"><i>"A lazy artillery bee who would rather shell the field than work."</i></div>
 <div class="bee-infobox-row"><b>Rarity</b><span>Mythic</span></div>
@@ -34,7 +34,7 @@ tags: ["Bees", "Mythic", "Red", "Re://:Swarm"]
 
 Mortar Bee's favorite treat is [Strawberries](strawberry.md).
 
-Its in-game icon is still a placeholder, so the infobox uses the Happy Mortar Bee sticker for both tabs.
+The game uses the same picture for normal and Gifted Mortar Bee.
 
 ## Stats
 

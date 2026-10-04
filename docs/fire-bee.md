@@ -12,8 +12,8 @@ tags: ["Pages with broken file links", "Bees", "Epic", "Red"]
 <label for="bee-tab-original">Original</label>
 <input type="radio" name="bee-infobox-tab" id="bee-tab-gifted">
 <label for="bee-tab-gifted">Gifted</label>
-<div class="bee-infobox-image bee-tab-original"><img alt="Fire Bee" src="img/Fire_Bee.png" width="150" height="150"></div>
-<div class="bee-infobox-image bee-tab-gifted"><img alt="Gifted Fire Bee" src="img/Gifted_Fire_Bee.png" width="150" height="150"></div>
+<div class="bee-infobox-image bee-tab-original"><img alt="Fire Bee" src="img/Fire_Bee.png" width="150"></div>
+<div class="bee-infobox-image bee-tab-gifted"><img alt="Gifted Fire Bee" src="img/Gifted_Fire_Bee.png" width="150"></div>
 </div>
 <div class="bee-infobox-quote"><i>"As an egg, this bee was accidentally left in the trunk of a car in the middle of the summer for over 3 days!"</i></div>
 <div class="bee-infobox-row"><b>Rarity</b><span>Epic</span></div>

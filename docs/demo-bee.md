@@ -12,8 +12,8 @@ tags: ["Pages with broken file links", "Bees", "Epic", "Colorless"]
 <label for="bee-tab-original">Original</label>
 <input type="radio" name="bee-infobox-tab" id="bee-tab-gifted">
 <label for="bee-tab-gifted">Gifted</label>
-<div class="bee-infobox-image bee-tab-original"><img alt="Demo Bee" src="img/Demo_Bee.png" width="150" height="150"></div>
-<div class="bee-infobox-image bee-tab-gifted"><img alt="Gifted Demo Bee" src="img/Gifted_Demo_Bee.png" width="150" height="150"></div>
+<div class="bee-infobox-image bee-tab-original"><img alt="Demo Bee" src="img/Demo_Bee.png" width="150"></div>
+<div class="bee-infobox-image bee-tab-gifted"><img alt="Gifted Demo Bee" src="img/Gifted_Demo_Bee.png" width="150"></div>
 </div>
 <div class="bee-infobox-quote"><i>"An elite Bomber Bee who has worked its way up the ranks. It is an expert in explosives."</i></div>
 <div class="bee-infobox-row"><b>Rarity</b><span>Epic</span></div>

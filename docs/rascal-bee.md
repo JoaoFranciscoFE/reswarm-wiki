@@ -12,8 +12,8 @@ tags: ["Pages with broken file links", "Bees", "Rare", "Red"]
 <label for="bee-tab-original">Original</label>
 <input type="radio" name="bee-infobox-tab" id="bee-tab-gifted">
 <label for="bee-tab-gifted">Gifted</label>
-<div class="bee-infobox-image bee-tab-original"><img alt="Rascal Bee" src="img/Rascal_Bee.png" width="150" height="150"></div>
-<div class="bee-infobox-image bee-tab-gifted"><img alt="Gifted Rascal Bee" src="img/Gifted_Rascal_Bee.png" width="150" height="150"></div>
+<div class="bee-infobox-image bee-tab-original"><img alt="Rascal Bee" src="img/Rascal_Bee.png" width="150"></div>
+<div class="bee-infobox-image bee-tab-gifted"><img alt="Gifted Rascal Bee" src="img/Gifted_Rascal_Bee.png" width="150"></div>
 </div>
 <div class="bee-infobox-quote"><i>"A mischevious [sic] bee who moves quick and hits hard. Keep an eye out on this one!"</i></div>
 <div class="bee-infobox-row"><b>Rarity</b><span>Rare</span></div>
