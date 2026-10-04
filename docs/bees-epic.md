@@ -14,77 +14,77 @@ tags: ["Pages with broken file links", "Bees", "Epic"]
 <th style="width:40%">Description
 </th></tr>
 <tr>
-<td><span typeof="mw:Error mw:File"></span> <a href="bubble-bee.html">Bubble Bee</a>
+<td><img alt="Bubble Bee" height="35" src="img/Bubble_Bee.png" width="35"/> <a href="bubble-bee.html">Bubble Bee</a>
 </td>
 <td><span typeof="mw:Error mw:File"></span>
 </td>
 <td>As a larva, this bee lived in the ocean. It loves Blue flowers cause they remind it of home.
 </td></tr>
 <tr>
-<td><span typeof="mw:Error mw:File"></span> <a href="bucko-bee.html">Bucko Bee</a>
+<td><img alt="Bucko Bee" height="35" src="img/Bucko_Bee.png" width="35"/> <a href="bucko-bee.html">Bucko Bee</a>
 </td>
 <td><span typeof="mw:Error mw:File"></span>
 </td>
 <td>Leader of the Blue bees, and a long time rival of Riley Bee. Its tenacity is its greatest strength.
 </td></tr>
 <tr>
-<td><span typeof="mw:Error mw:File"></span> <a href="commander-bee.html">Commander Bee</a>
+<td><img alt="Commander Bee" height="35" src="img/Commander_Bee.png" width="35"/> <a href="commander-bee.html">Commander Bee</a>
 </td>
 <td><span typeof="mw:Error mw:File"></span>
 </td>
 <td>A strong, no-nonsense bee who stays level-headed when things get rough.
 </td></tr>
 <tr>
-<td><span typeof="mw:Error mw:File"></span> <a href="demo-bee.html">Demo Bee</a>
+<td><img alt="Demo Bee" height="35" src="img/Demo_Bee.png" width="35"/> <a href="demo-bee.html">Demo Bee</a>
 </td>
 <td><span typeof="mw:Error mw:File"></span>
 </td>
 <td>An elite Bomber Bee who has worked its way up the ranks. It is an expert in explosives.
 </td></tr>
 <tr>
-<td><span typeof="mw:Error mw:File"></span> <a href="exhausted-bee.html">Exhausted Bee</a>
+<td><img alt="Exhausted Bee" height="35" src="img/Exhausted_Bee.png" width="35"/> <a href="exhausted-bee.html">Exhausted Bee</a>
 </td>
 <td><span typeof="mw:Error mw:File"></span>
 </td>
 <td>This bee suffers from insomnia. It moves slowly, but it never has to sleep.
 </td></tr>
 <tr>
-<td><span typeof="mw:Error mw:File"></span> <a href="fire-bee.html">Fire Bee</a>
+<td><img alt="Fire Bee" height="35" src="img/Fire_Bee.png" width="35"/> <a href="fire-bee.html">Fire Bee</a>
 </td>
 <td><span typeof="mw:Error mw:File"></span>
 </td>
 <td>As an egg, this bee was accidentally left in the trunk of a car in the middle of the summer for over 3 days!
 </td></tr>
 <tr>
-<td><span typeof="mw:Error mw:File"></span> <a href="frosty-bee.html">Frosty Bee</a>
+<td><img alt="Frosty Bee" height="35" src="img/Frosty_Bee.png" width="35"/> <a href="frosty-bee.html">Frosty Bee</a>
 </td>
 <td><span typeof="mw:Error mw:File"></span>
 </td>
 <td>A bee made of snow. It magically came to life after someone put a top hat on its head.
 </td></tr>
 <tr>
-<td><span typeof="mw:Error mw:File"></span> <a href="honey-bee.html">Honey Bee</a>
+<td><img alt="Honey Bee" height="35" src="img/Honey_Bee.png" width="35"/> <a href="honey-bee.html">Honey Bee</a>
 </td>
 <td><span typeof="mw:Error mw:File"></span>
 </td>
 <td>A satisfied bee always full with the finest honey. If you're Iucky it will share some.
 </td></tr>
 <tr>
-<td><span typeof="mw:Error mw:File"></span> <a href="rage-bee.html">Rage Bee</a>
+<td><img alt="Rage Bee" height="35" src="img/Rage_Bee.png" width="35"/> <a href="rage-bee.html">Rage Bee</a>
 </td>
 <td><span typeof="mw:Error mw:File"></span>
 </td>
 <td>A very angry bee who has been wronged its whole life. It harnesses its rage to become more powerful.
 </td></tr>
 <tr>
-<td><span typeof="mw:Error mw:File"></span> <a href="riley-bee.html">Riley Bee</a>
+<td><img alt="Riley Bee" height="35" src="img/Riley_Bee.png" width="35"/> <a href="riley-bee.html">Riley Bee</a>
 </td>
 <td><span typeof="mw:Error mw:File"></span>
 </td>
 <td>Leader of the Red bees, and a long time rival of Bucko Bee. Its fiery nature has elevated it above the rest.
 </td></tr>
 <tr>
-<td><span typeof="mw:Error mw:File"></span> <a href="shocked-bee.html">Shocked Bee</a>
+<td><img alt="Shocked Bee" height="35" src="img/Shocked_Bee.png" width="35"/> <a href="shocked-bee.html">Shocked Bee</a>
 </td>
 <td><span typeof="mw:Error mw:File"></span>
 </td>

@@ -5,6 +5,8 @@ tags: ["Pages with broken file links", "Inventory", "Items", "Planter", "Consuma
 
 # Sticker Planter
 
+![Sticker Planter](img/Sticker_Planter.png){ align=right width=150 }
+
 This piece of content contains information obtained through datamining.
 
 Due to the nature of the information, details may be inaccurate or outdated.
@@ -304,10 +306,10 @@ Offline Voucher(Unfathomably Rare)<br/>
 <tr>
 <th class="NavCategory">One-time Use
 </th>
-<td class="NavLinks NavLinksBasicOdd"><b><span typeof="mw:Error mw:File"></span> <a href="paper-planter.html">Paper Planter</a> • <span typeof="mw:Error mw:File"></span> <a href="ticket-planter.html">Ticket Planter</a> • <span typeof="mw:Error mw:File"></span> <strong class="mw-selflink selflink">Sticker Planter</strong> • <span typeof="mw:Error mw:File"></span> <a href="festive-planter.html">Festive Planter</a></b>
+<td class="NavLinks NavLinksBasicOdd"><b><img alt="Paper Planter" height="35" src="img/Paper_Planter.png" width="35"/> <a href="paper-planter.html">Paper Planter</a> • <img alt="Ticket Planter" height="35" src="img/Ticket_Planter.png" width="35"/> <a href="ticket-planter.html">Ticket Planter</a> • <img alt="Sticker Planter" height="35" src="img/Sticker_Planter.png" width="35"/> <strong class="mw-selflink selflink">Sticker Planter</strong> • <img alt="Festive Planter" height="35" src="img/Festive_Planter.png" width="35"/> <a href="festive-planter.html">Festive Planter</a></b>
 </td></tr>
 <tr>
 <th class="NavCategory">Permanent
 </th>
-<td class="NavLinks NavLinksBasicEven"><b><span typeof="mw:Error mw:File"></span> <a href="plastic-planter.html">Plastic Planter</a> • <span typeof="mw:Error mw:File"></span> <a href="candy-planter.html">Candy Planter</a> • <span typeof="mw:Error mw:File"></span> <a href="red-clay-planter.html">Red Clay Planter</a> • <span typeof="mw:Error mw:File"></span> <a href="blue-clay-planter.html">Blue Clay Planter</a> • <span typeof="mw:Error mw:File"></span> <a href="tacky-planter.html">Tacky Planter</a> • <span typeof="mw:Error mw:File"></span> <a href="pesticide-planter.html">Pesticide Planter</a> • <span typeof="mw:Error mw:File"></span> <a href="petal-planter.html">Petal Planter</a> • <span typeof="mw:Error mw:File"></span> <a href="heat-treated-planter.html">Heat-Treated Planter</a> • <span typeof="mw:Error mw:File"></span> <a href="hydroponic-planter.html">Hydroponic Planter</a> • <span typeof="mw:Error mw:File"></span> <a href="the-planter-of-plenty.html">The Planter Of Plenty</a></b>
+<td class="NavLinks NavLinksBasicEven"><b><img alt="Plastic Planter" height="35" src="img/Plastic_Planter.png" width="35"/> <a href="plastic-planter.html">Plastic Planter</a> • <img alt="Candy Planter" height="35" src="img/Candy_Planter.png" width="35"/> <a href="candy-planter.html">Candy Planter</a> • <img alt="Red Clay Planter" height="35" src="img/Red_Clay_Planter.png" width="35"/> <a href="red-clay-planter.html">Red Clay Planter</a> • <img alt="Blue Clay Planter" height="35" src="img/Blue_Clay_Planter.png" width="35"/> <a href="blue-clay-planter.html">Blue Clay Planter</a> • <img alt="Tacky Planter" height="35" src="img/Tacky_Planter.png" width="35"/> <a href="tacky-planter.html">Tacky Planter</a> • <img alt="Pesticide Planter" height="35" src="img/Pesticide_Planter.png" width="35"/> <a href="pesticide-planter.html">Pesticide Planter</a> • <img alt="Petal Planter" height="35" src="img/Petal_Planter.png" width="35"/> <a href="petal-planter.html">Petal Planter</a> • <img alt="Heat-Treated Planter" height="35" src="img/Heat-Treated_Planter.png" width="35"/> <a href="heat-treated-planter.html">Heat-Treated Planter</a> • <img alt="Hydroponic Planter" height="35" src="img/Hydroponic_Planter.png" width="35"/> <a href="hydroponic-planter.html">Hydroponic Planter</a> • <img alt="The Planter Of Plenty" height="35" src="img/The_Planter_Of_Plenty.png" width="35"/> <a href="the-planter-of-plenty.html">The Planter Of Plenty</a></b>
 </td></tr></tbody></table>

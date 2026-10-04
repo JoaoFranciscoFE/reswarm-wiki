@@ -338,7 +338,7 @@ Bees convert pollen into Honey at a set rate. For example, [Basic Bee](basic-bee
 <th class="NavTitle">Currencies
 </th></tr>
 <tr>
-<td class="NavLinks NavLinksBasicEven"><b><span typeof="mw:Error mw:File"></span> <a href="pollen.html">Pollen</a> • <span typeof="mw:Error mw:File"></span> <strong class="mw-selflink selflink">Honey</strong> • <span typeof="mw:Error mw:File"></span> <a href="ticket.html">Ticket</a> • <span typeof="mw:Error mw:File"></span> <a href="brick.html">Brick</a> • <span typeof="mw:Error mw:File"></span> <a href="cog.html">Cog</a> • <span typeof="mw:Error mw:File"></span> <a href="snowflake.html">Snowflake</a> • <span typeof="mw:Error mw:File"></span> <a href="gingerbread-bear.html">Gingerbread Bear</a></b>
+<td class="NavLinks NavLinksBasicEven"><b><span typeof="mw:Error mw:File"></span> <a href="pollen.html">Pollen</a> • <span typeof="mw:Error mw:File"></span> <strong class="mw-selflink selflink">Honey</strong> • <img alt="Ticket" height="35" src="img/Ticket.png" width="35"/> <a href="ticket.html">Ticket</a> • <img alt="Brick" height="35" src="img/Brick.png" width="35"/> <a href="brick.html">Brick</a> • <img alt="Cog" height="35" src="img/Cog.png" width="35"/> <a href="cog.html">Cog</a> • <img alt="Snowflake" height="35" src="img/Snowflake.png" width="35"/> <a href="snowflake.html">Snowflake</a> • <img alt="Gingerbread Bear" height="35" src="img/Gingerbread_Bear.png" width="35"/> <a href="gingerbread-bear.html">Gingerbread Bear</a></b>
 </td></tr></tbody></table>
 
 zh-tw:蜂蜜

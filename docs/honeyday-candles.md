@@ -59,17 +59,17 @@ The chances for each bee are as follows:
 <th>Chance
 </th></tr>
 <tr>
-<td><span typeof="mw:Error mw:File"></span> <a href="fire-bee.html">Fire Bee</a>
+<td><img alt="Fire Bee" height="35" src="img/Fire_Bee.png" width="35"/> <a href="fire-bee.html">Fire Bee</a>
 </td>
 <td>~70.59%
 </td></tr>
 <tr>
-<td><span typeof="mw:Error mw:File"></span> <a href="demon-bee.html">Demon Bee</a>
+<td><img alt="Demon Bee" height="35" src="img/Demon_Bee.png" width="35"/> <a href="demon-bee.html">Demon Bee</a>
 </td>
 <td>~23.53%
 </td></tr>
 <tr>
-<td><span typeof="mw:Error mw:File"></span> <a href="spicy-bee.html">Spicy Bee</a>
+<td><img alt="Spicy Bee" height="35" src="img/Spicy_Bee.png" width="35"/> <a href="spicy-bee.html">Spicy Bee</a>
 </td>
 <td>~5.88%
 </td></tr></tbody></table>

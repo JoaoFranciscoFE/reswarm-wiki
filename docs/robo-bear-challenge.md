@@ -1720,7 +1720,7 @@ After the challenge ends, a message box displays the rewards. The number of rewa
 </td>
 <td><span typeof="mw:Error mw:File"></span> Diamond <a href="cog-amulet.html">Cog Amulet</a>
 </td>
-<td>Access to purchasing the <span typeof="mw:Error mw:File"></span> <a href="digital-bee.html">Digital Bee</a>
+<td>Access to purchasing the <img alt="Digital Bee" height="35" src="img/Digital_Bee.png" width="35"/> <a href="digital-bee.html">Digital Bee</a>
 </td></tr>
 <tr>
 <td>Round 25

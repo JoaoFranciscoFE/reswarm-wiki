@@ -22,77 +22,77 @@ All Event Bees can become gifted, though none have a favorite treat. Giving an E
 <th style="width:40%">Description
 </th></tr>
 <tr>
-<td><span typeof="mw:Error mw:File"></span> <a href="bear-bee.html">Bear Bee</a>
+<td><img alt="Bear Bee" height="35" src="img/Bear_Bee.png" width="35"/> <a href="bear-bee.html">Bear Bee</a>
 </td>
 <td><span typeof="mw:Error mw:File"></span>
 </td>
 <td>A friendly bee who transforms you into different bears!
 </td></tr>
 <tr>
-<td><span typeof="mw:Error mw:File"></span> <a href="cobalt-bee.html">Cobalt Bee</a>
+<td><img alt="Cobalt Bee" height="35" src="img/Cobalt_Bee.png" width="35"/> <a href="cobalt-bee.html">Cobalt Bee</a>
 </td>
 <td><span typeof="mw:Error mw:File"></span>
 </td>
 <td>A superhero and defender of all things Blue! Together with Crimson Bee it works to unite bees of all colors.
 </td></tr>
 <tr>
-<td><span typeof="mw:Error mw:File"></span> <a href="crimson-bee.html">Crimson Bee</a>
+<td><img alt="Crimson Bee" height="35" src="img/Crimson_Bee.png" width="35"/> <a href="crimson-bee.html">Crimson Bee</a>
 </td>
 <td><span typeof="mw:Error mw:File"></span>
 </td>
 <td>A superhero and defender of all things Red! Together with Cobalt Bee it works to unite bees of all colors.
 </td></tr>
 <tr>
-<td><span typeof="mw:Error mw:File"></span> <a href="digital-bee.html">Digital Bee</a>
+<td><img alt="Digital Bee" height="35" src="img/Digital_Bee.png" width="35"/> <a href="digital-bee.html">Digital Bee</a>
 </td>
 <td><span typeof="mw:Error mw:File"></span>
 </td>
 <td>A virtual bee with malfunctioning AI. It corrupts the game itself.
 </td></tr>
 <tr>
-<td><span typeof="mw:Error mw:File"></span> <a href="festive-bee.html">Festive Bee</a>
+<td><img alt="Festive Bee" height="35" src="img/Festive_Bee.png" width="35"/> <a href="festive-bee.html">Festive Bee</a>
 </td>
 <td><span typeof="mw:Error mw:File"></span>
 </td>
 <td>A jolly bee who loves giving gifts! It's purely motivated by the joy of others.
 </td></tr>
 <tr>
-<td><span typeof="mw:Error mw:File"></span><a href="gummy-bee.html">Gummy Bee</a>
+<td><img alt="Gummy Bee" height="35" src="img/Gummy_Bee.png" width="35"/><a href="gummy-bee.html">Gummy Bee</a>
 </td>
 <td><span typeof="mw:Error mw:File"></span>
 </td>
 <td>A squishy bee who's sweet as sugar. Covers flowers in goo to grant you bonus honey!
 </td></tr>
 <tr>
-<td><span typeof="mw:Error mw:File"></span> <a href="photon-bee.html">Photon Bee</a>
+<td><img alt="Photon Bee" height="35" src="img/Photon_Bee.png" width="35"/> <a href="photon-bee.html">Photon Bee</a>
 </td>
 <td><span typeof="mw:Error mw:File"></span>
 </td>
 <td>An entity made of pure light temporarily taking on the form of a bee.
 </td></tr>
 <tr>
-<td><span typeof="mw:Error mw:File"></span> <a href="puppy-bee.html">Puppy Bee</a>
+<td><img alt="Puppy Bee" height="35" src="img/Puppy_Bee.png" width="35"/> <a href="puppy-bee.html">Puppy Bee</a>
 </td>
 <td><span typeof="mw:Error mw:File"></span>
 </td>
 <td>A playful bee who only cares about two things, its tennis ball and you!
 </td></tr>
 <tr>
-<td><span typeof="mw:Error mw:File"></span> <a href="tabby-bee.html">Tabby Bee</a>
+<td><img alt="Tabby Bee" height="35" src="img/Tabby_Bee.png" width="35"/> <a href="tabby-bee.html">Tabby Bee</a>
 </td>
 <td><span typeof="mw:Error mw:File"></span>
 </td>
 <td>This affectionate bee was raised by cats. It becomes a better worker as it warms up to you.
 </td></tr>
 <tr>
-<td><span typeof="mw:Error mw:File"></span> <a href="vicious-bee.html">Vicious Bee</a>
+<td><img alt="Vicious Bee" height="35" src="img/Vicious_Bee.png" width="35"/> <a href="vicious-bee.html">Vicious Bee</a>
 </td>
 <td><span typeof="mw:Error mw:File"></span>
 </td>
 <td>This cold-blooded bee takes great pleasure in inflicting pain.
 </td></tr>
 <tr>
-<td><span typeof="mw:Error mw:File"></span> <a href="windy-bee.html">Windy Bee</a>
+<td><img alt="Windy Bee" height="35" src="img/Windy_Bee.png" width="35"/> <a href="windy-bee.html">Windy Bee</a>
 </td>
 <td><span typeof="mw:Error mw:File"></span>
 </td>

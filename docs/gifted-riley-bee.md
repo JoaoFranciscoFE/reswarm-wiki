@@ -5,6 +5,8 @@ tags: ["Pages with broken file links", "Removed Content", "NPC", "Red", "Quest G
 
 # Gifted Riley Bee
 
+![Gifted Riley Bee](img/Gifted_Riley_Bee.png){ align=right width=150 }
+
 *This page is for the quest-giving NPC. For the worker bee version, see the [Riley Bee](riley-bee.md) page.*
 
 <table class="infobox" style="font-size:12px; color:white; width:300px; background:#a58b59;padding:0; border:none; color:#FFF;">
@@ -903,7 +905,7 @@ In addition to [Red Extract](red-extract.md) and [Honey](honey.md) for completin
 <td>250
 </td>
 <td><span typeof="mw:Error mw:File"></span>1 <a href="egg.html#Gifted_Diamond_Egg"><span class="color-template color-template-gifted-diamond-egg color-template-background-clip">Gifted Diamond Egg</span></a>
-<p>Access to the <span typeof="mw:Error mw:File"></span> <a href="dark-scythe.html">Dark Scythe</a>
+<p>Access to the <img alt="Dark Scythe" height="35" src="img/Dark_Scythe.png" width="35"/> <a href="dark-scythe.html">Dark Scythe</a>
 </p>
 </td></tr>
 <tr>

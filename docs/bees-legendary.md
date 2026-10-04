@@ -14,56 +14,56 @@ tags: ["Pages with broken file links", "Bees", "Legendary"]
 <th style="width:40%">Description
 </th></tr>
 <tr>
-<td><span typeof="mw:Error mw:File"></span> <a href="baby-bee.html">Baby Bee</a>
+<td><img alt="Baby Bee" height="35" src="img/Baby_Bee.png" width="35"/> <a href="baby-bee.html">Baby Bee</a>
 </td>
 <td><span typeof="mw:Error mw:File"></span>
 </td>
 <td>This little bee isn't very good at bee tasks yet, but it's guaranteed to bring you joy (and luck).
 </td></tr>
 <tr>
-<td><span typeof="mw:Error mw:File"></span> <a href="carpenter-bee.html">Carpenter Bee</a>
+<td><img alt="Carpenter Bee" height="35" src="img/Carpenter_Bee.png" width="35"/> <a href="carpenter-bee.html">Carpenter Bee</a>
 </td>
 <td><span typeof="mw:Error mw:File"></span>
 </td>
 <td>A bee with a knack for construction. It built its own body out of wood.
 </td></tr>
 <tr>
-<td><span typeof="mw:Error mw:File"></span> <a href="demon-bee.html">Demon Bee</a>
+<td><img alt="Demon Bee" height="35" src="img/Demon_Bee.png" width="35"/> <a href="demon-bee.html">Demon Bee</a>
 </td>
 <td><span typeof="mw:Error mw:File"></span>
 </td>
 <td>A powerful bee with magical powers fueled by pure hatred.
 </td></tr>
 <tr>
-<td><span typeof="mw:Error mw:File"></span> <a href="diamond-bee.html">Diamond Bee</a>
+<td><img alt="Diamond Bee" height="35" src="img/Diamond_Bee.png" width="35"/> <a href="diamond-bee.html">Diamond Bee</a>
 </td>
 <td><span typeof="mw:Error mw:File"></span>
 </td>
 <td>An extremely wealthy and pompous bee who has the money and talent to justify its attitude.
 </td></tr>
 <tr>
-<td><span typeof="mw:Error mw:File"></span> <a href="lion-bee.html">Lion Bee</a>
+<td><img alt="Lion Bee" height="35" src="img/Lion_Bee.png" width="35"/> <a href="lion-bee.html">Lion Bee</a>
 </td>
 <td><span typeof="mw:Error mw:File"></span>
 </td>
 <td>Half lion, half bee. This is the king of both the jungle and bee hive.
 </td></tr>
 <tr>
-<td><span typeof="mw:Error mw:File"></span> <a href="music-bee.html">Music Bee</a>
+<td><img alt="Music Bee" height="35" src="img/Music_Bee.png" width="35"/> <a href="music-bee.html">Music Bee</a>
 </td>
 <td><span typeof="mw:Error mw:File"></span>
 </td>
 <td>This bee's buzz is so beautiful it can bring anyone to tears. It uses this gift to motivate others.
 </td></tr>
 <tr>
-<td><span typeof="mw:Error mw:File"></span> <a href="ninja-bee.html">Ninja Bee</a>
+<td><img alt="Ninja Bee" height="35" src="img/Ninja_Bee.png" width="35"/> <a href="ninja-bee.html">Ninja Bee</a>
 </td>
 <td><span typeof="mw:Error mw:File"></span>
 </td>
 <td>This bee trained vigorously for years to become the swiftest bee that has ever lived.
 </td></tr>
 <tr>
-<td><span typeof="mw:Error mw:File"></span> <a href="shy-bee.html">Shy Bee</a>
+<td><img alt="Shy Bee" height="35" src="img/Shy_Bee.png" width="35"/> <a href="shy-bee.html">Shy Bee</a>
 </td>
 <td><span typeof="mw:Error mw:File"></span>
 </td>
