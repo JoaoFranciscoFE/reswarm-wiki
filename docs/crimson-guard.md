@@ -249,4 +249,3 @@ It is equipped on the left shoulder. When equipped, it leaves a trail behind it 
 </td></tr></tbody></table>
 </td></tr></tbody></table>
 
-zh-tw:鮮紅護肩

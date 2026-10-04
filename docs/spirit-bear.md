@@ -1835,4 +1835,3 @@ Spirit Bear's dialogue contains information that *by game design* were made to t
 </p>
 </td></tr></tbody></table>
 
-zh-tw:靈熊

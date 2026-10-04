@@ -5786,4 +5786,3 @@ Show/hide tables
 </td></tr></tbody></table>
 </td></tr></tbody></table>
 
-zh-tw:秋季遮陽帽

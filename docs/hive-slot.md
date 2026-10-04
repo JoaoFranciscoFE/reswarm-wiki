@@ -21,33 +21,7 @@ By default, a [hive](hive.md) contains 25 **hive slots** for [bees](bees.md). Ho
 
 The first slot starts at 3,000,000 (3 million) [honey](honey.md) and increases sub-exponentially, capping off at 2,169,203,229,760 (2.17 trillion) at the 25th extra slot.
 
-The equation is roughly:
-
-y
-=
-
-4
-
-(
-
-−
-8
-sin
-⁡
-
-(
-
-0.1
-x
-−
-1
-)
-+
-x
-+
-3.8
-)
-{\displaystyle y=4^{\left(-8\sin \left(0.1x-1\right)+x+3.8\right)}}
+The equation is roughly: \(y=4^{\left(-8\sin \left(0.1x-1\right)+x+3.8\right)}\)
 
 <table class="article-table">
 <tbody><tr>
@@ -481,4 +455,3 @@ x
 </td></tr></tbody></table>
 </td></tr></tbody></table>
 
-zh-tw:蜂巢格

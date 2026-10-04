@@ -108,4 +108,3 @@ These ways are to improve certain bees' attacks which don't count up to regular 
 * Adding the Evil Pig to the Sticker Stack grants +1 Epic Bee Attack.
 * Adding the Left Facing Ant to the Sticker Stack grants +1 Legendary Bee Attack.
 
-zh-tw:蜜蜂攻擊力

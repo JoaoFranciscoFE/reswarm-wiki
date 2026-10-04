@@ -11,9 +11,6 @@ tags: ["Bags", "Pages with broken file links", "Items"]
 <h3 class="pi-data-label pi-secondary-font">Description</h3>
 <div class="pi-data-value pi-font">"A rare and precious Port-O-Hive that boosts white pollen."</div>
 </div>
-<section class="pi-item pi-group pi-border-color">
-<p>@@BLOCO0@@</p>
-</section>
 <div class="pi-item pi-data pi-item-spacing pi-border-color" data-source="stats">
 <h3 class="pi-data-label pi-secondary-font">Bonus Stats</h3>
 <div class="pi-data-value pi-font">+250% Convert Rate<br/><p>x1.25 Convert Rate at Hive<br/>+10% Instant Conversion<br/>+50% White Pollen</p></div>
@@ -63,4 +60,3 @@ The **Porcelain Port-O-Hive** is a [bag](bags.md) that can be purchased in the [
 * This is the only container that emits particles.
 * In the [2026-04-23 update](updates.md#2026-04-23), all Port-O-Hive variants had its mesh scaled down due to a bug. The bug has been fixed and its cause is unknown.
 
-zh-tw:陶瓷蜂巢背包

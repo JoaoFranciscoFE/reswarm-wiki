@@ -239,4 +239,3 @@ The **Looker Guard** is a guard that can be purchased in the [Pro Shop](pro-shop
 </td></tr></tbody></table>
 </td></tr></tbody></table>
 
-zh-tw:勘察護肩

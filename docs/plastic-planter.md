@@ -327,4 +327,3 @@ When claimed, the planter gives up to 12 tokens worth of items. The tokens are p
 </td></tr></tbody></table>
 </td></tr></tbody></table>
 
-zh-tw:塑膠盆栽

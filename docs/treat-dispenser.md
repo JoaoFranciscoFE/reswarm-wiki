@@ -42,37 +42,8 @@ If a player tries to use the Treat Dispenser without being in the group, they wi
 
 The amount of honey and treats given is based on the number of bees the player has in their hive. More specifically, let *cnt* be the number of bees in the player's hive:
 
-* The amount of honey the player receives is equal to 
-
-  ⌊
-
-  c
-  n
-  t
-
-  1.5
-  +
-  0.5
-  ⌋
-  ×
-  50
-  {\displaystyle \left\lfloor {cnt}^{1.5}+0.5\right\rfloor \times 50}
-  , or 500 if the result is less than 500.
-* The amount of treats the player receives is equal to 
-
-  ⌊
-
-  c
-  n
-  t
-
-  2.5
-  100
-  +
-  0.5
-  ⌋
-  {\displaystyle \left\lfloor {\frac {{cnt}^{2.5}}{100}}+0.5\right\rfloor }
-  , or 10 if the result is less than 10.
+* The amount of honey the player receives is equal to \(\left\lfloor {cnt}^{1.5}+0.5\right\rfloor \times 50\), or 500 if the result is less than 500.
+* The amount of treats the player receives is equal to \(\left\lfloor {\frac {{cnt}^{2.5}}{100}}+0.5\right\rfloor\), or 10 if the result is less than 10.
 
 Below is a table of the amount of honey and treats a player receives, given the number of bees they have.
 

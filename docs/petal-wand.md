@@ -470,4 +470,3 @@ This sound plays every 3rd swing, when a petal shuriken is released.
 </td></tr></tbody></table>
 </td></tr></tbody></table>
 
-zh-tw:花瓣法杖

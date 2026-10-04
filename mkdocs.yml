@@ -23,7 +23,12 @@ markdown_extensions:
   - tables
   - toc:
       permalink: true
+  - pymdownx.arithmatex:
+      generic: true
 extra_css: [stylesheets/extra.css]
+extra_javascript:
+  - javascripts/mathjax.js
+  - https://cdn.jsdelivr.net/npm/mathjax@3/es5/tex-mml-chtml.js
 copyright: "Content adapted from the Bee Swarm Simulator Wiki (Fandom), licensed under CC BY-SA 3.0."
 nav:
   - Home: index.md
@@ -469,6 +474,7 @@ nav:
       - "Balloon": balloon.md
       - "Battle Points": battle-points.md
       - "Bee Attack": bee-attack.md
+      - "Beequip Generation": beequip-generation.md
       - "Blender": blender.md
       - "Bond": bond.md
       - "Bubble": bubble.md
@@ -488,6 +494,7 @@ nav:
       - "Flowers": flowers.md
       - "Gifted Bee": gifted-bee.md
       - "Goo": goo.md
+      - "Hive": hive.md
       - "Honey": honey.md
       - "Honey Per Pollen": honey-per-pollen.md
       - "Instant Conversion": instant-conversion.md
@@ -510,4 +517,248 @@ nav:
       - "Sticker": sticker.md
       - "System Page": system-page.md
       - "Trading": trading.md
+  - "About the game":
+      - "Bee Swarm Simulator Club": bee-swarm-simulator-club.md
+      - "Bee Swarm Simulator Wiki": bee-swarm-simulator-wiki.md
+      - "BSS Staff": bss-staff.md
+      - "Easter Eggs": easter-eggs.md
+      - "FAQ": faq.md
+      - "FAQ/Wiki Code": faq-wiki-code.md
+      - "Glitches": glitches.md
+      - "Medals": medals.md
+      - "Onett (Developer)": onett-developer.md
+      - "Onett's Lid Art": onett-s-lid-art.md
+      - "Onett's Testing Group": onett-s-testing-group.md
+      - "Public Sticker Board": public-sticker-board.md
+      - "Re://:Swarm": re-swarm.md
+      - "Tutorial": tutorial.md
+      - "Updates": updates.md
+  - "Places & Objects":
+      - "Ant Gate": ant-gate.md
+      - "Badge Bearer's Guild": badge-bearer-s-guild.md
+      - "Basic Bee Gate": basic-bee-gate.md
+      - "Bear Gate": bear-gate.md
+      - "Blue Cannon": blue-cannon.md
+      - "Blue Field Booster": blue-field-booster.md
+      - "Blue HQ": blue-hq.md
+      - "Blue Teleporter": blue-teleporter.md
+      - "Brave Bee Gate": brave-bee-gate.md
+      - "Coconut Cave": coconut-cave.md
+      - "Commando Chick's Hideout": commando-chick-s-hideout.md
+      - "Field Booster": field-booster.md
+      - "Gummy Bear's Lair": gummy-bear-s-lair.md
+      - "Gummy Cannon": gummy-cannon.md
+      - "Hive Hub": hive-hub.md
+      - "Honey Bee Gate": honey-bee-gate.md
+      - "Instant Converter": instant-converter.md
+      - "King Beetle's Lair": king-beetle-s-lair.md
+      - "Lion Bee Gate": lion-bee-gate.md
+      - "Moon Amulet Generator": moon-amulet-generator.md
+      - "Nectar Condenser": nectar-condenser.md
+      - "Nectar Pot": nectar-pot.md
+      - "Red Cannon": red-cannon.md
+      - "Red Field Booster": red-field-booster.md
+      - "Red HQ": red-hq.md
+      - "Red Teleporter": red-teleporter.md
+      - "Slingshot": slingshot.md
+      - "Snowbear Summoner": snowbear-summoner.md
+      - "Special Sprout Summoner": special-sprout-summoner.md
+      - "Star Hall": star-hall.md
+      - "Starter Zone": starter-zone.md
+      - "Sticker Printer": sticker-printer.md
+      - "Sticker Stack": sticker-stack.md
+      - "Ticket Tent": ticket-tent.md
+      - "Wealth Clock": wealth-clock.md
+      - "Werewolf's Cave": werewolf-s-cave.md
+      - "White Tunnel": white-tunnel.md
+      - "Wind Shrine": wind-shrine.md
+      - "Windy Bee Gate": windy-bee-gate.md
+      - "Yellow Cannon": yellow-cannon.md
+  - "Shops":
+      - "Basic Egg Shop": basic-egg-shop.md
+      - "Bee Bear's Catalog": bee-bear-s-catalog.md
+      - "Bee Bear's Catalog/2025": bee-bear-s-catalog-2025.md
+      - "Boost Market": boost-market.md
+      - "Dapper Bear's Shop": dapper-bear-s-shop.md
+      - "Gumdrop Shop": gumdrop-shop.md
+      - "Magic Bean Shop": magic-bean-shop.md
+      - "Mountain Top Shop": mountain-top-shop.md
+      - "Noob Shop": noob-shop.md
+      - "Petal Shop": petal-shop.md
+      - "Pro Shop": pro-shop.md
+      - "Robo Bear's Shop": robo-bear-s-shop.md
+      - "Royal Jelly Shop": royal-jelly-shop.md
+      - "Shops": shops.md
+      - "Stinger Shop": stinger-shop.md
+      - "Ticket Shop": ticket-shop.md
+      - "Treat Shop": treat-shop.md
+  - "Dispensers":
+      - "Ant Pass Dispenser": ant-pass-dispenser.md
+      - "Blueberry Dispenser": blueberry-dispenser.md
+      - "Coconut Dispenser": coconut-dispenser.md
+      - "Dispensers": dispensers.md
+      - "Free Ant Pass Dispenser": free-ant-pass-dispenser.md
+      - "Free Robo Pass Dispenser": free-robo-pass-dispenser.md
+      - "Free Royal Jelly Dispenser": free-royal-jelly-dispenser.md
+      - "Glue Dispenser": glue-dispenser.md
+      - "Gummy Bee Egg Claim": gummy-bee-egg-claim.md
+      - "Honey Dispenser": honey-dispenser.md
+      - "Robo Pass Dispenser": robo-pass-dispenser.md
+      - "Royal Jelly Dispenser": royal-jelly-dispenser.md
+      - "Strawberry Dispenser": strawberry-dispenser.md
+      - "Treat Dispenser": treat-dispenser.md
+      - "Vicious Bee Egg Claim": vicious-bee-egg-claim.md
+  - "Events":
+      - "Ant Challenge": ant-challenge.md
+      - "Ant Challenge Info": ant-challenge-info.md
+      - "Bee Bear/2025": bee-bear-2025.md
+      - "Beesmas Feast": beesmas-feast.md
+      - "Beesmas Lights": beesmas-lights.md
+      - "Beesmas Tree": beesmas-tree.md
+      - "Gift Boxes": gift-boxes.md
+      - "Gift Boxes/2025": gift-boxes-2025.md
+      - "Gingerbread House": gingerbread-house.md
+      - "Gummy Beacon": gummy-beacon.md
+      - "Honey Wreath": honey-wreath.md
+      - "Honeyday Candles": honeyday-candles.md
+      - "Honeystorm": honeystorm.md
+      - "Mazes": mazes.md
+      - "Memory Match": memory-match.md
+      - "Mythic Meteor Shower": mythic-meteor-shower.md
+      - "Naughty List": naughty-list.md
+      - "Obstacle Courses": obstacle-courses.md
+      - "Ornament Presents": ornament-presents.md
+      - "Present/2025": present-2025.md
+      - "Retro Swarm Challenge": retro-swarm-challenge.md
+      - "Robo Bear Challenge": robo-bear-challenge.md
+      - "Robo Party Cake": robo-party-cake.md
+      - "Samovar": samovar.md
+      - "Snow Machine": snow-machine.md
+      - "Snow Storm": snow-storm.md
+      - "Stick Bug Challenge": stick-bug-challenge.md
+      - "Stockings": stockings.md
+  - "Leaderboards":
+      - "All-Time Fastest Crab Slayers": all-time-fastest-crab-slayers.md
+      - "All-Time Tallest Sticker Stack": all-time-tallest-sticker-stack.md
+      - "All-Time Top Ant Exterminators": all-time-top-ant-exterminators.md
+      - "All-Time Top Battlers (Most Battle Points)": all-time-top-battlers-most-battle-points.md
+      - "All-Time Top Blue Pollen Collectors": all-time-top-blue-pollen-collectors.md
+      - "All-Time Top Brown Bear Helpers": all-time-top-brown-bear-helpers.md
+      - "All-Time Top Bucko Bee Helpers": all-time-top-bucko-bee-helpers.md
+      - "All-Time Top Damage to a Single Puffshroom": all-time-top-damage-to-a-single-puffshroom.md
+      - "All-Time Top Gummy Soldiers": all-time-top-gummy-soldiers.md
+      - "All-Time Top Honey Bee Helpers": all-time-top-honey-bee-helpers.md
+      - "All-Time Top Honeymakers": all-time-top-honeymakers.md
+      - "All-Time Top Nectar Collectors": all-time-top-nectar-collectors.md
+      - "All-Time Top Polar Bear Helpers": all-time-top-polar-bear-helpers.md
+      - "All-Time Top Red Pollen Collectors": all-time-top-red-pollen-collectors.md
+      - "All-Time Top Retro Swarm Hive Defenders": all-time-top-retro-swarm-hive-defenders.md
+      - "All-Time Top Riley Bee Helpers": all-time-top-riley-bee-helpers.md
+      - "All-Time Top Robo Bear Challenge Scores": all-time-top-robo-bear-challenge-scores.md
+      - "All-Time Top Stick Bug Fighters": all-time-top-stick-bug-fighters.md
+      - "All-Time Top Sticker-Seekers": all-time-top-sticker-seekers.md
+      - "All-Time Top White Pollen Collectors": all-time-top-white-pollen-collectors.md
+      - "Daily Fastest Crab Slayers": daily-fastest-crab-slayers.md
+      - "Daily Top Ant Exterminators": daily-top-ant-exterminators.md
+      - "Daily Top Aphid Exterminators": daily-top-aphid-exterminators.md
+      - "Daily Top Bamboo Field Collectors": daily-top-bamboo-field-collectors.md
+      - "Daily Top Blue Brick Field Collectors": daily-top-blue-brick-field-collectors.md
+      - "Daily Top Blue Flower Field Collectors": daily-top-blue-flower-field-collectors.md
+      - "Daily Top Blue Pollen Collectors": daily-top-blue-pollen-collectors.md
+      - "Daily Top Buzz Bomb Pollen Collectors": daily-top-buzz-bomb-pollen-collectors.md
+      - "Daily Top Cactus Field Collectors": daily-top-cactus-field-collectors.md
+      - "Daily Top Clover Field Collectors": daily-top-clover-field-collectors.md
+      - "Daily Top Coconut Field Collectors": daily-top-coconut-field-collectors.md
+      - "Daily Top Common Bee Pollen Collectors": daily-top-common-bee-pollen-collectors.md
+      - "Daily Top Damage to A Single Puffshroom": daily-top-damage-to-a-single-puffshroom.md
+      - "Daily Top Dandelion Field Collectors": daily-top-dandelion-field-collectors.md
+      - "Daily Top Epic Bee Pollen Collectors": daily-top-epic-bee-pollen-collectors.md
+      - "Daily Top Firefly Chasers": daily-top-firefly-chasers.md
+      - "Daily Top Gummy Soldiers": daily-top-gummy-soldiers.md
+      - "Daily Top Haste Token Collectors": daily-top-haste-token-collectors.md
+      - "Daily Top Honey Gift Receivers": daily-top-honey-gift-receivers.md
+      - "Daily Top Honeymakers": daily-top-honeymakers.md
+      - "Daily Top Hub Field Collectors": daily-top-hub-field-collectors.md
+      - "Daily Top Legendary Bee Pollen Collectors": daily-top-legendary-bee-pollen-collectors.md
+      - "Daily Top Memory Matchers": daily-top-memory-matchers.md
+      - "Daily Top Mixed Brick Field Collectors": daily-top-mixed-brick-field-collectors.md
+      - "Daily Top Mountain Top Field Collectors": daily-top-mountain-top-field-collectors.md
+      - "Daily Top Mushroom Field Collectors": daily-top-mushroom-field-collectors.md
+      - "Daily Top Mythic Bee Pollen Collectors": daily-top-mythic-bee-pollen-collectors.md
+      - "Daily Top Nectar Collectors": daily-top-nectar-collectors.md
+      - "Daily Top Pepper Patch Collectors": daily-top-pepper-patch-collectors.md
+      - "Daily Top Pine Tree Forest Collectors": daily-top-pine-tree-forest-collectors.md
+      - "Daily Top Pineapple Patch Collectors": daily-top-pineapple-patch-collectors.md
+      - "Daily Top Pumpkin Patch Collectors": daily-top-pumpkin-patch-collectors.md
+      - "Daily Top Rare Bee Pollen Collectors": daily-top-rare-bee-pollen-collectors.md
+      - "Daily Top Red Brick Field Collectors": daily-top-red-brick-field-collectors.md
+      - "Daily Top Red Pollen Collectors": daily-top-red-pollen-collectors.md
+      - "Daily Top Retro Swarm Hive Defenders": daily-top-retro-swarm-hive-defenders.md
+      - "Daily Top Robo Bear Challenge Scores": daily-top-robo-bear-challenge-scores.md
+      - "Daily Top Rose Field Collectors": daily-top-rose-field-collectors.md
+      - "Daily Top Spider Field Collectors": daily-top-spider-field-collectors.md
+      - "Daily Top Sprout Token Collectors": daily-top-sprout-token-collectors.md
+      - "Daily Top Stick Bug Fighters": daily-top-stick-bug-fighters.md
+      - "Daily Top Strawberry Field Collectors": daily-top-strawberry-field-collectors.md
+      - "Daily Top Stump Field Collectors": daily-top-stump-field-collectors.md
+      - "Daily Top Sunflower Field Collectors": daily-top-sunflower-field-collectors.md
+      - "Daily Top White Brick Field Collectors": daily-top-white-brick-field-collectors.md
+      - "Daily Top White Pollen Collectors": daily-top-white-pollen-collectors.md
+      - "Daily Top Wild Windy Token Collectors": daily-top-wild-windy-token-collectors.md
+      - "Highest Robo Party Cake Rank": highest-robo-party-cake-rank.md
+      - "Highest Snowbear Level": highest-snowbear-level.md
+      - "Leaderboards": leaderboards.md
+      - "Monthly Top Honeymakers": monthly-top-honeymakers.md
+      - "Most Commando Captures": most-commando-captures.md
+  - "Probabilities":
+      - "Ant Amulet/Probability": ant-amulet-probability.md
+      - "Autumn Sunhat/Probability": autumn-sunhat-probability.md
+      - "Bandage/Probability": bandage-probability.md
+      - "Bang Snap/Probability": bang-snap-probability.md
+      - "Bead Lizard/Probability": bead-lizard-probability.md
+      - "Beesmas Top/Probability": beesmas-top-probability.md
+      - "Beesmas Tree Hat/Probability": beesmas-tree-hat-probability.md
+      - "Beret/Probability": beret-probability.md
+      - "Bottle Cap/Probability": bottle-cap-probability.md
+      - "Bubble Light/Probability": bubble-light-probability.md
+      - "Camo Bandana/Probability": camo-bandana-probability.md
+      - "Camphor Lip Balm/Probability": camphor-lip-balm-probability.md
+      - "Candy Ring/Probability": candy-ring-probability.md
+      - "Charm Bracelet/Probability": charm-bracelet-probability.md
+      - "Cog Amulet/Probability": cog-amulet-probability.md
+      - "Demon Talisman/Probability": demon-talisman-probability.md
+      - "Electric Candle/Probability": electric-candle-probability.md
+      - "Elf Cap/Probability": elf-cap-probability.md
+      - "Festive Wreath/Probability": festive-wreath-probability.md
+      - "Icicles/Probability": icicles-probability.md
+      - "Kazoo/Probability": kazoo-probability.md
+      - "King Beetle Amulet/Probability": king-beetle-amulet-probability.md
+      - "Lei/Probability": lei-probability.md
+      - "Lump Of Coal/Probability": lump-of-coal-probability.md
+      - "Moon Amulet/Probability": moon-amulet-probability.md
+      - "Mutation/Probability": mutation-probability.md
+      - "Paper Angel/Probability": paper-angel-probability.md
+      - "Paperclip/Probability": paperclip-probability.md
+      - "Peppermint Antennas/Probability": peppermint-antennas-probability.md
+      - "Pinecone/Probability": pinecone-probability.md
+      - "Pink Eraser/Probability": pink-eraser-probability.md
+      - "Pink Shades/Probability": pink-shades-probability.md
+      - "Poinsettia/Probability": poinsettia-probability.md
+      - "Reindeer Antlers/Probability": reindeer-antlers-probability.md
+      - "Rose Headband/Probability": rose-headband-probability.md
+      - "Shell Amulet/Probability": shell-amulet-probability.md
+      - "Single Mitten/Probability": single-mitten-probability.md
+      - "Smiley Sticker/Probability": smiley-sticker-probability.md
+      - "Snow Tiara/Probability": snow-tiara-probability.md
+      - "Snowglobe/Probability": snowglobe-probability.md
+      - "Star Amulet/Probability": star-amulet-probability.md
+      - "Stick Bug Amulet/Probability": stick-bug-amulet-probability.md
+      - "Sticker-Seeker Quest Machine/Probability": sticker-seeker-quest-machine-probability.md
+      - "Sweatband/Probability": sweatband-probability.md
+      - "Thimble/Probability": thimble-probability.md
+      - "Thumbtack/Probability": thumbtack-probability.md
+      - "Toy Drum/Probability": toy-drum-probability.md
+      - "Toy Horn/Probability": toy-horn-probability.md
+      - "Warm Scarf/Probability": warm-scarf-probability.md
+      - "Whistle/Probability": whistle-probability.md
   - All tags: tags.md

@@ -71,15 +71,15 @@ Commander Bee likes the [Spider Field](spider-field.md) and the [Cactus Field](c
 
 ### Abilities
 
-* **[[Focus]](ability-tokens.md#Focus)** Grants +3% Critical Chance for 20 seconds. Stacks up to 10 times. [Critical hits](critical-hits.md) increase pollen and damage by 100%.
-* **[[Buzz Bomb]](ability-tokens.md#Bomb)** Collects 7 pollen from 13 surrounding [Flowers](flowers.md) (+10% pollen per [Level](bond.md)). Combo with other bombs to increase power.
+* **[Focus](ability-tokens.md#Focus)** Grants +3% Critical Chance for 20 seconds. Stacks up to 10 times. [Critical hits](critical-hits.md) increase pollen and damage by 100%.
+* **[Buzz Bomb](ability-tokens.md#Bomb)** Collects 7 pollen from 13 surrounding [Flowers](flowers.md) (+10% pollen per [Level](bond.md)). Combo with other bombs to increase power.
 
 <table style="font-size:1.5vh; color:#000; width:100%; background:#fff; padding: 15px 0; border:none; color:#000; border-left:15px #000 solid">
 <tbody><tr>
 <td style="width:100%; text-align:center">
-<p>Commander Bee has a base pollen collection of <b>15 <strong class="error"><span class="scribunto-error mw-scribunto-error-dd44d918">Lua error in Module:Item_image at line 88: Template error! There's no such file named File:White Boost Token.png for Template:I.</span></strong></b> in <b>4 seconds</b>. 
-</p><p>That's equivalent to 3.75 <strong class="error"><span class="scribunto-error mw-scribunto-error-dd44d918">Lua error in Module:Item_image at line 88: Template error! There's no such file named File:White Boost Token.png for Template:I.</span></strong> per second. 
-</p><p>(<b>30 <strong class="error"><span class="scribunto-error mw-scribunto-error-dd44d918">Lua error in Module:Item_image at line 88: Template error! There's no such file named File:White Boost Token.png for Template:I.</span></strong></b> in <b>4 seconds</b> with x2 Bee Pollen gamepass)
+<p>Commander Bee has a base pollen collection of <b>15 </b> in <b>4 seconds</b>. 
+</p><p>That's equivalent to 3.75  per second. 
+</p><p>(<b>30 </b> in <b>4 seconds</b> with x2 Bee Pollen gamepass)
 </p>
 </td></tr></tbody></table>
 
@@ -406,4 +406,3 @@ Commander Bee likes the [Spider Field](spider-field.md) and the [Cactus Field](c
 <td class="NavLinks NavLinksEvent"><b><span typeof="mw:Error mw:File"></span> <a href="bear-bee.html">Bear Bee</a> • <span typeof="mw:Error mw:File"></span> <a href="cobalt-bee.html">Cobalt Bee</a> • <span typeof="mw:Error mw:File"></span> <a href="crimson-bee.html">Crimson Bee</a> • <span typeof="mw:Error mw:File"></span> <a href="digital-bee.html">Digital Bee</a> • <span typeof="mw:Error mw:File"></span> <a href="festive-bee.html">Festive Bee</a> • <span typeof="mw:Error mw:File"></span> <a href="gummy-bee.html">Gummy Bee</a> • <span typeof="mw:Error mw:File"></span> <a href="photon-bee.html">Photon Bee</a> • <span typeof="mw:Error mw:File"></span> <a href="puppy-bee.html">Puppy Bee</a> • <span typeof="mw:Error mw:File"></span> <a href="tabby-bee.html">Tabby Bee</a> • <span typeof="mw:Error mw:File"></span> <a href="vicious-bee.html">Vicious Bee</a> • <span typeof="mw:Error mw:File"></span> <a href="windy-bee.html">Windy Bee</a></b>
 </td></tr></tbody></table>
 
-zh-tw:指揮蜂

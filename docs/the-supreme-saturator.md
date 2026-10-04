@@ -19,12 +19,6 @@ tags: ["Items", "Sprinklers", "Pages with broken file links"]
 <h3 class="pi-data-label pi-secondary-font">Description</h3>
 <div class="pi-data-value pi-font">The ultimate sprinkler. Nobody knows how it works or where it came from.</div>
 </div>
-<section class="pi-item pi-group pi-border-color">
-<p>@@BLOCO0@@</p>
-</section>
-<section class="pi-item pi-group pi-border-color">
-<p>@@BLOCO1@@</p>
-</section>
 </aside>
 
 **The Supreme Saturator** is the highest tier [sprinkler](sprinklers.md) available for purchase in the [Badge Bearer's Guild](badge-bearer-s-guild.md). To unlock it, the player must obtain 10 different [Grandmaster badges](badges.md). Once the player unlocks it, they can purchase it for ~55.5 billion [Honey](honey.md). Its description reads, “The ultimate sprinkler. Nobody knows how it works or where it came from."
@@ -242,4 +236,3 @@ When a sprinkler regenerates flowers, the following audio plays:
 </td></tr></tbody></table>
 </td></tr></tbody></table>
 
-zh-tw:至尊飽和器

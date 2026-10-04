@@ -77,16 +77,16 @@ Unlike other bees, this bee has a unique perk: its stats increase permanently wi
 
 ### Abilities
 
-* **[[Scratch]](ability-tokens.md#Scratch)** Collects 7 (+1 per lvl) Pollen from 3 lines of 4 [Flowers](flowers.md). If Gifted, Scratch always does Critical hits.
-* **[[Tabby Love]](ability-tokens.md#Tabby_Love)** Permanently grants Tabby Bee +1% Gather Amount, Convert Amount, and pollen from Scratch. Stacks up to 1,000 times.
+* **[Scratch](ability-tokens.md#Scratch)** Collects 7 (+1 per lvl) Pollen from 3 lines of 4 [Flowers](flowers.md). If Gifted, Scratch always does Critical hits.
+* **[Tabby Love](ability-tokens.md#Tabby_Love)** Permanently grants Tabby Bee +1% Gather Amount, Convert Amount, and pollen from Scratch. Stacks up to 1,000 times.
   * If at max stacks, Tabby Love grants Tabby Blessing, giving +1% Critical Chance and +25% Critical Power for 20 seconds (+2s per level). If Gifted, it grants Tabby Blessing+, which adds +1% Super-Crit Chance as well.
 
 <table style="font-size:1.5vh; color:#000; width:100%; background:#fff; padding: 15px 0; border:none; color:#000; border-left:15px #000 solid">
 <tbody><tr>
 <td style="width:100%; text-align:center">
-<p>Tabby Bee has a base pollen collection of <b>10 <strong class="error"><span class="scribunto-error mw-scribunto-error-dd44d918">Lua error in Module:Item_image at line 88: Template error! There's no such file named File:White Boost Token.png for Template:I.</span></strong></b> in <b>4 seconds</b>. 
-</p><p>That's equivalent to 2.5 <strong class="error"><span class="scribunto-error mw-scribunto-error-dd44d918">Lua error in Module:Item_image at line 88: Template error! There's no such file named File:White Boost Token.png for Template:I.</span></strong> per second. 
-</p><p>(<b>20 <strong class="error"><span class="scribunto-error mw-scribunto-error-dd44d918">Lua error in Module:Item_image at line 88: Template error! There's no such file named File:White Boost Token.png for Template:I.</span></strong></b> in <b>4 seconds</b> with x2 Bee Pollen gamepass)
+<p>Tabby Bee has a base pollen collection of <b>10 </b> in <b>4 seconds</b>. 
+</p><p>That's equivalent to 2.5  per second. 
+</p><p>(<b>20 </b> in <b>4 seconds</b> with x2 Bee Pollen gamepass)
 </p>
 </td></tr></tbody></table>
 
@@ -388,4 +388,3 @@ Unlike other bees, this bee has a unique perk: its stats increase permanently wi
 <td class="NavLinks NavLinksEvent"><b><span typeof="mw:Error mw:File"></span> <a href="bear-bee.html">Bear Bee</a> • <span typeof="mw:Error mw:File"></span> <a href="cobalt-bee.html">Cobalt Bee</a> • <span typeof="mw:Error mw:File"></span> <a href="crimson-bee.html">Crimson Bee</a> • <span typeof="mw:Error mw:File"></span> <a href="digital-bee.html">Digital Bee</a> • <span typeof="mw:Error mw:File"></span> <a href="festive-bee.html">Festive Bee</a> • <span typeof="mw:Error mw:File"></span> <a href="gummy-bee.html">Gummy Bee</a> • <span typeof="mw:Error mw:File"></span> <a href="photon-bee.html">Photon Bee</a> • <span typeof="mw:Error mw:File"></span> <a href="puppy-bee.html">Puppy Bee</a> • <span typeof="mw:Error mw:File"></span> <strong class="mw-selflink selflink">Tabby Bee</strong> • <span typeof="mw:Error mw:File"></span> <a href="vicious-bee.html">Vicious Bee</a> • <span typeof="mw:Error mw:File"></span> <a href="windy-bee.html">Windy Bee</a></b>
 </td></tr></tbody></table>
 
-zh-tw:虎斑貓蜂

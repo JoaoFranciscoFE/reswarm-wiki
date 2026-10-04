@@ -16,9 +16,6 @@ tags: ["Bags", "Pages with broken file links", "Items"]
 <h3 class="pi-data-label pi-secondary-font">Description</h3>
 <div class="pi-data-value pi-font">"A small bag."</div>
 </div>
-<section class="pi-item pi-group pi-border-color">
-<p>@@BLOCO0@@</p>
-</section>
 </aside>
 
 > Text...
@@ -227,4 +224,3 @@ It doesn't have a price as it is the first bag given to the player for free.
 </td></tr></tbody></table>
 </td></tr></tbody></table>
 
-zh-tw:束口袋

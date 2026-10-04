@@ -25,24 +25,7 @@ Blooms have multiple levels. Each time a bloom is defeated, it respawns at a hig
 
 A bloom has different amounts of petals depending on its level. The number of petals a bloom can have is capped at 11, at level 20 or above.
 
-The formula below can be used to find the number of petals a bloom of any level below 20 will have.
-
-⌊
-(
-l
-e
-v
-e
-l
-×
-2
-)
-÷
-5
-⌋
-+
-3
-{\displaystyle \lfloor (level\times 2)\div 5\rfloor +3}
+The formula below can be used to find the number of petals a bloom of any level below 20 will have. \(\lfloor (level\times 2)\div 5\rfloor +3\)
 
 <table class="mw-collapsible mw-collapsed wikitable">
 <tbody><tr>

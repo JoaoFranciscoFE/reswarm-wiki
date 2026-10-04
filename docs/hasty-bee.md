@@ -71,14 +71,14 @@ Hasty Bee likes the [Sunflower Field](sunflower-field.md) and [Cactus Field](cac
 
 ### Abilities
 
-* **[[Haste]](ability-tokens.md#Haste)** Grants +10% Player Movespeed for 20 seconds. Stacks up to 10 times (i.e. x5 haste means +50% Movespeed).
+* **[Haste](ability-tokens.md#Haste)** Grants +10% Player Movespeed for 20 seconds. Stacks up to 10 times (i.e. x5 haste means +50% Movespeed).
 
 <table style="font-size:1.5vh; color:#000; width:100%; background:#fff; padding: 15px 0; border:none; color:#000; border-left:15px #000 solid">
 <tbody><tr>
 <td style="width:100%; text-align:center">
-<p>Hasty Bee has a base pollen collection of <b>10 <strong class="error"><span class="scribunto-error mw-scribunto-error-dd44d918">Lua error in Module:Item_image at line 88: Template error! There's no such file named File:White Boost Token.png for Template:I.</span></strong></b> in <b>3 seconds</b>. 
-</p><p>That's equivalent to 3.33333 <strong class="error"><span class="scribunto-error mw-scribunto-error-dd44d918">Lua error in Module:Item_image at line 88: Template error! There's no such file named File:White Boost Token.png for Template:I.</span></strong> per second. 
-</p><p>(<b>20 <strong class="error"><span class="scribunto-error mw-scribunto-error-dd44d918">Lua error in Module:Item_image at line 88: Template error! There's no such file named File:White Boost Token.png for Template:I.</span></strong></b> in <b>3 seconds</b> with x2 Bee Pollen gamepass)
+<p>Hasty Bee has a base pollen collection of <b>10 </b> in <b>3 seconds</b>. 
+</p><p>That's equivalent to 3.33333  per second. 
+</p><p>(<b>20 </b> in <b>3 seconds</b> with x2 Bee Pollen gamepass)
 </p>
 </td></tr></tbody></table>
 
@@ -404,4 +404,3 @@ Hasty Bee likes the [Sunflower Field](sunflower-field.md) and [Cactus Field](cac
 <td class="NavLinks NavLinksEvent"><b><span typeof="mw:Error mw:File"></span> <a href="bear-bee.html">Bear Bee</a> • <span typeof="mw:Error mw:File"></span> <a href="cobalt-bee.html">Cobalt Bee</a> • <span typeof="mw:Error mw:File"></span> <a href="crimson-bee.html">Crimson Bee</a> • <span typeof="mw:Error mw:File"></span> <a href="digital-bee.html">Digital Bee</a> • <span typeof="mw:Error mw:File"></span> <a href="festive-bee.html">Festive Bee</a> • <span typeof="mw:Error mw:File"></span> <a href="gummy-bee.html">Gummy Bee</a> • <span typeof="mw:Error mw:File"></span> <a href="photon-bee.html">Photon Bee</a> • <span typeof="mw:Error mw:File"></span> <a href="puppy-bee.html">Puppy Bee</a> • <span typeof="mw:Error mw:File"></span> <a href="tabby-bee.html">Tabby Bee</a> • <span typeof="mw:Error mw:File"></span> <a href="vicious-bee.html">Vicious Bee</a> • <span typeof="mw:Error mw:File"></span> <a href="windy-bee.html">Windy Bee</a></b>
 </td></tr></tbody></table>
 
-zh-tw:匆忙蜂

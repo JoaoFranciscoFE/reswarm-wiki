@@ -30,77 +30,8 @@ The Stockings are located at the bottom of the hill where Brown Bear stands, nex
 <tr>
 <td>The range of the quality of the beequip can be found with the below steps:
 <ul><li>Let <i>cnt</i> be the number of bees the player has at the time of claiming.</li>
-<li><span class="mwe-math-element"><span class="mwe-math-mathml-inline mwe-math-mathml-a11y" style="display: none;"><math alttext="{\displaystyle middle={\frac {cnt}{50}}}" xmlns="http://www.w3.org/1998/Math/MathML">
-<semantics>
-<mrow class="MJX-TeXAtom-ORD">
-<mstyle displaystyle="true" scriptlevel="0">
-<mi>m</mi>
-<mi>i</mi>
-<mi>d</mi>
-<mi>d</mi>
-<mi>l</mi>
-<mi>e</mi>
-<mo>=</mo>
-<mrow class="MJX-TeXAtom-ORD">
-<mfrac>
-<mrow>
-<mi>c</mi>
-<mi>n</mi>
-<mi>t</mi>
-</mrow>
-<mn>50</mn>
-</mfrac>
-</mrow>
-</mstyle>
-</mrow>
-<annotation encoding="application/x-tex">{\displaystyle middle={\frac {cnt}{50}}}</annotation>
-</semantics>
-</math></span></span>, clamped between 0 and 1.</li>
-<li>The quality of the beequip is between <span class="mwe-math-element"><span class="mwe-math-mathml-inline mwe-math-mathml-a11y" style="display: none;"><math alttext="{\displaystyle 0.1\times middle^{1.5}}" xmlns="http://www.w3.org/1998/Math/MathML">
-<semantics>
-<mrow class="MJX-TeXAtom-ORD">
-<mstyle displaystyle="true" scriptlevel="0">
-<mn>0.1</mn>
-<mo>×<!-- × --></mo>
-<mi>m</mi>
-<mi>i</mi>
-<mi>d</mi>
-<mi>d</mi>
-<mi>l</mi>
-<msup>
-<mi>e</mi>
-<mrow class="MJX-TeXAtom-ORD">
-<mn>1.5</mn>
-</mrow>
-</msup>
-</mstyle>
-</mrow>
-<annotation encoding="application/x-tex">{\displaystyle 0.1\times middle^{1.5}}</annotation>
-</semantics>
-</math></span></span> and <span class="mwe-math-element"><span class="mwe-math-mathml-inline mwe-math-mathml-a11y" style="display: none;"><math alttext="{\displaystyle 0.5+0.4\times middle^{1.5}}" xmlns="http://www.w3.org/1998/Math/MathML">
-<semantics>
-<mrow class="MJX-TeXAtom-ORD">
-<mstyle displaystyle="true" scriptlevel="0">
-<mn>0.5</mn>
-<mo>+</mo>
-<mn>0.4</mn>
-<mo>×<!-- × --></mo>
-<mi>m</mi>
-<mi>i</mi>
-<mi>d</mi>
-<mi>d</mi>
-<mi>l</mi>
-<msup>
-<mi>e</mi>
-<mrow class="MJX-TeXAtom-ORD">
-<mn>1.5</mn>
-</mrow>
-</msup>
-</mstyle>
-</mrow>
-<annotation encoding="application/x-tex">{\displaystyle 0.5+0.4\times middle^{1.5}}</annotation>
-</semantics>
-</math></span></span>.</li></ul>
+<li><span class="arithmatex">\(middle={\frac {cnt}{50}}\)</span>, clamped between 0 and 1.</li>
+<li>The quality of the beequip is between <span class="arithmatex">\(0.1\times middle^{1.5}\)</span> and <span class="arithmatex">\(0.5+0.4\times middle^{1.5}\)</span>.</li></ul>
 <p><span typeof="mw:Error mw:File"></span>1 <a href="beesmas-top.html"><span class="color-template color-template-beesmas-top color-template-background-clip">Beesmas Top</span></a> (~29.66%)<br/>
 <span typeof="mw:Error mw:File"></span>1 <a href="warm-scarf.html"><span class="color-template color-template-warm-scarf color-template-background-clip">Warm Scarf</span></a> (~29.66%)<br/>
 <span typeof="mw:Error mw:File"></span>1 <a href="single-mitten.html"><span class="color-template color-template-single-mitten color-template-background-clip">Single Mitten</span></a> (~19.77%)<br/>

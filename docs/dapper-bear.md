@@ -88,7 +88,7 @@ You need the following Accessories to enter Dapper Bear's shop, those being the 
 
 ## Quests
 
-Dapper Bear currently has 16 Quests. His 16 main quests focus on collecting nectar, collecting tokens from planters, and popping [Puffshrooms](puffshroom.md); with the exception of the 16th quest (added after the [2026-01-19 Update](https://bee-swarm-simulator.fandom.com/wiki/Updates#2026-01-16)) which focuses mainly on stickers instead of the aforementioned. The quest for obtaining the [Blue Drive](drives.md#Blue_Drive) in order to repair [Robo Bear](robo-bear.md) does still focus on [Puffshrooms](puffshroom.md), planters, and nectar, however.
+Dapper Bear currently has 16 Quests. His 16 main quests focus on collecting nectar, collecting tokens from planters, and popping [Puffshrooms](puffshroom.md); with the exception of the 16th quest (added after the [2026-01-19 Update](updates.md#2026-01-16)) which focuses mainly on stickers instead of the aforementioned. The quest for obtaining the [Blue Drive](drives.md#Blue_Drive) in order to repair [Robo Bear](robo-bear.md) does still focus on [Puffshrooms](puffshroom.md), planters, and nectar, however.
 
 His 2nd, 4th, 6th, 8th, 10th, 12th, 14th and 16th Quest rewards an additional [Beequip Case](beequip.md) slot. If you received [Beequip Case](beequip.md) slots from Bee Bear previously, you will instead be rewarded one [Ticket Planters](ticket-planter.md) until you catch up to the amount of additional slots a new player would have.
 

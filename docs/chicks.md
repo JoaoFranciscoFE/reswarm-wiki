@@ -27,15 +27,6 @@ The following content has been removed from the game. The contents below may be 
 <h3 class="pi-data-label pi-secondary-font">Respawns Every</h3>
 <div class="pi-data-value pi-font">30 seconds</div>
 </div>
-<section class="pi-item pi-group pi-border-color">
-<p>@@BLOCO0@@</p>
-</section>
-<section class="pi-item pi-group pi-border-color">
-<p>@@BLOCO1@@</p>
-</section>
-<section class="pi-item pi-group pi-border-color">
-<p>@@BLOCO2@@</p>
-</section>
 </aside>
 
 Normal **Chicks** were passive mobs that could have appeared in the [Sunflower Field](sunflower-field.md) and would spawn randomly when players were collecting [pollen](pollen.md). The chicks could've spawned with a level range of 1–15. They could only spawn if the player had [Black Bear's Sunflower Corral Quest](black-bear.md#Egg_Hunt_Quest_2020) active.
@@ -62,15 +53,6 @@ The following content has been removed from the game. The contents below may be 
 <h3 class="pi-data-label pi-secondary-font">Respawns Every</h3>
 <div class="pi-data-value pi-font">30 seconds</div>
 </div>
-<section class="pi-item pi-group pi-border-color">
-<p>@@BLOCO3@@</p>
-</section>
-<section class="pi-item pi-group pi-border-color">
-<p>@@BLOCO4@@</p>
-</section>
-<section class="pi-item pi-group pi-border-color">
-<p>@@BLOCO5@@</p>
-</section>
 </aside>
 
 The **Hostage Chicks** were passive mobs that had a chance of spawning after defeating a hostile mob or a Boss (Defeating [ants](ants.md) or other chicks would not spawn a hostage chick). They could spawn with a level range of 1-15 and would always despawn 30 seconds after spawning. Mobs that are more difficult to defeat, such as [Tunnel Bear](tunnel-bear.md), were more likely to cause a hostage chick to spawn. Hostage chicks that spawn from more difficult mobs will have higher health, level, and better rewards than ones that spawn from easier mobs.
@@ -150,15 +132,6 @@ The following content has been removed from the game. The contents below may be 
 <h3 class="pi-data-label pi-secondary-font">Respawns Every</h3>
 <div class="pi-data-value pi-font">30 seconds</div>
 </div>
-<section class="pi-item pi-group pi-border-color">
-<p>@@BLOCO7@@</p>
-</section>
-<section class="pi-item pi-group pi-border-color">
-<p>@@BLOCO8@@</p>
-</section>
-<section class="pi-item pi-group pi-border-color">
-<p>@@BLOCO9@@</p>
-</section>
 </aside>
 
 The **Spotted Chicks** were passive mobs that could appear inside of the [Noob Shop](noob-shop.md), [Pro Shop](pro-shop.md), [Ticket Tent](ticket-tent.md), and the [Blue Maze](mazes.md#Blue_Maze). Spotted chicks could spawn with a level range of 3–9.
@@ -185,15 +158,6 @@ Main article: [Commando Chick](commando-chick.md)
 <h3 class="pi-data-label pi-secondary-font">Respawns Every</h3>
 <div class="pi-data-value pi-font">30:00 (25:30 with Gifted Vicious Bee)</div>
 </div>
-<section class="pi-item pi-group pi-border-color">
-<p>@@BLOCO10@@</p>
-</section>
-<section class="pi-item pi-group pi-border-color">
-<p>@@BLOCO11@@</p>
-</section>
-<section class="pi-item pi-group pi-border-color">
-<p>@@BLOCO12@@</p>
-</section>
 </aside>
 
 The **Commando Chick** is a mini-boss that spawns in [its hideout](commando-chick-s-hideout.md). Its hideout is located to the left of [Brown Bear](brown-bear.md) and the [Wealth Clock](wealth-clock.md). To cut the vines, the [Clippers](clippers.md), [Scissors](scissors.md), [Scythe](scythe.md), or [Dark Scythe](dark-scythe.md) needs to be equipped. Once the vines are cut, they will never grow back.
@@ -228,15 +192,6 @@ Main article: [Mondo Chick](mondo-chick.md)
 <h3 class="pi-data-label pi-secondary-font">Respawns Every</h3>
 <div class="pi-data-value pi-font">45 minutes - 1 hour</div>
 </div>
-<section class="pi-item pi-group pi-border-color">
-<p>@@BLOCO13@@</p>
-</section>
-<section class="pi-item pi-group pi-border-color">
-<p>@@BLOCO14@@</p>
-</section>
-<section class="pi-item pi-group pi-border-color">
-<p>@@BLOCO15@@</p>
-</section>
 </aside>
 
 The **Mondo Chick** is a level 8 boss mob located in the [Mountain Top Field](mountain-top-field.md). It respawns every hour at the full hour (1:00, 2:00, 3:00, etc.; not in time zones that are a fractional number of hours away from UTC), and its respawn timer can be found on the side of the [Mountain Top Shop](mountain-top-shop.md). The respawn time is unaffected by the Monster Respawn Time stat. Its rewards are shareable between players.

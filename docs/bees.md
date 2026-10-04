@@ -1227,7 +1227,7 @@ The following table contains all the ways to obtain summoned bees.
 <td><a href="spicy-bee.html">Spicy Bee</a>'s Inferno ability
 </td>
 <td>
-<ul><li><strong class="error"><span class="scribunto-error mw-scribunto-error-0757dc11">Lua error in Module:Item_image at line 88: Template error! There's no such file named File:Fire Bee.png for Template:I.</span></strong>2 <a href="fire-bee.html">Fire Bees</a> (2 levels less than the summoner Spicy Bee's level; 10% + 1% per level chance to be gifted if the Spicy Bee is gifted)</li></ul>
+<ul><li>2 <a href="fire-bee.html">Fire Bees</a> (2 levels less than the summoner Spicy Bee's level; 10% + 1% per level chance to be gifted if the Spicy Bee is gifted)</li></ul>
 </td>
 <td>15s (+1s per level)
 </td></tr>
@@ -1235,15 +1235,15 @@ The following table contains all the ways to obtain summoned bees.
 <td><a href="onett-s-lid-art.html">Onett's Lid Art</a>
 </td>
 <td>
-<ul><li><strong class="error"><span class="scribunto-error mw-scribunto-error-14f6ee36">Lua error in Module:Item_image at line 88: Template error! There's no such file named File:Bumble Bee.png for Template:I.</span></strong><a href="bumble-bee.html">Bumble Bee</a> (Level 20)</li>
-<li><strong class="error"><span class="scribunto-error mw-scribunto-error-1e6763d0">Lua error in Module:Item_image at line 88: Template error! There's no such file named File:Baby Bee.png for Template:I.</span></strong><a href="baby-bee.html">Baby Bee</a> (Level 1)</li>
+<ul><li><a href="bumble-bee.html">Bumble Bee</a> (Level 20)</li>
+<li><a href="baby-bee.html">Baby Bee</a> (Level 1)</li>
 <li>One of the following (Level 8; random):
-<ul><li><strong class="error"><span class="scribunto-error mw-scribunto-error-7deacf30">Lua error in Module:Item_image at line 88: Template error! There's no such file named File:Lion Bee.png for Template:I.</span></strong><a href="lion-bee.html">Lion Bee</a></li>
-<li><strong class="error"><span class="scribunto-error mw-scribunto-error-d887cb5e">Lua error in Module:Item_image at line 88: Template error! There's no such file named File:Music Bee.png for Template:I.</span></strong><a href="music-bee.html">Music Bee</a></li>
-<li><strong class="error"><span class="scribunto-error mw-scribunto-error-8d358b43">Lua error in Module:Item_image at line 88: Template error! There's no such file named File:Cobalt Bee.png for Template:I.</span></strong><a href="cobalt-bee.html">Cobalt Bee</a></li>
-<li><strong class="error"><span class="scribunto-error mw-scribunto-error-3ef9bd3a">Lua error in Module:Item_image at line 88: Template error! There's no such file named File:Crimson Bee.png for Template:I.</span></strong><a href="crimson-bee.html">Crimson Bee</a></li>
-<li><strong class="error"><span class="scribunto-error mw-scribunto-error-ef78d343">Lua error in Module:Item_image at line 88: Template error! There's no such file named File:Festive Bee.png for Template:I.</span></strong><a href="festive-bee.html">Festive Bee</a></li>
-<li><strong class="error"><span class="scribunto-error mw-scribunto-error-ca62436d">Lua error in Module:Item_image at line 88: Template error! There's no such file named File:Tabby Bee.png for Template:I.</span></strong><a href="tabby-bee.html">Tabby Bee</a></li></ul></li></ul>
+<ul><li><a href="lion-bee.html">Lion Bee</a></li>
+<li><a href="music-bee.html">Music Bee</a></li>
+<li><a href="cobalt-bee.html">Cobalt Bee</a></li>
+<li><a href="crimson-bee.html">Crimson Bee</a></li>
+<li><a href="festive-bee.html">Festive Bee</a></li>
+<li><a href="tabby-bee.html">Tabby Bee</a></li></ul></li></ul>
 </td>
 <td>30 minutes
 </td></tr>
@@ -1252,9 +1252,9 @@ The following table contains all the ways to obtain summoned bees.
 </td>
 <td>
 <ul><li>Three bees of the following pool (Level 10; chances below):
-<ul><li><strong class="error"><span class="scribunto-error mw-scribunto-error-0757dc11">Lua error in Module:Item_image at line 88: Template error! There's no such file named File:Fire Bee.png for Template:I.</span></strong><a href="fire-bee.html">Fire Bee</a> (~70.59%)</li>
-<li><strong class="error"><span class="scribunto-error mw-scribunto-error-887aaa47">Lua error in Module:Item_image at line 88: Template error! There's no such file named File:Demon Bee.png for Template:I.</span></strong><a href="demon-bee.html">Demon Bee</a> (~23.53%)</li>
-<li><strong class="error"><span class="scribunto-error mw-scribunto-error-ce551af9">Lua error in Module:Item_image at line 88: Template error! There's no such file named File:Spicy Bee.png for Template:I.</span></strong><a href="spicy-bee.html">Spicy Bee</a> (~5.88%)</li></ul></li></ul>
+<ul><li><a href="fire-bee.html">Fire Bee</a> (~70.59%)</li>
+<li><a href="demon-bee.html">Demon Bee</a> (~23.53%)</li>
+<li><a href="spicy-bee.html">Spicy Bee</a> (~5.88%)</li></ul></li></ul>
 </td>
 <td>30 minutes
 </td></tr>
@@ -1262,7 +1262,7 @@ The following table contains all the ways to obtain summoned bees.
 <td><a href="gummy-beacon.html">Gummy Beacon</a>
 </td>
 <td>
-<ul><li><strong class="error"><span class="scribunto-error mw-scribunto-error-490c9acc">Lua error in Module:Item_image at line 88: Template error! There's no such file named File:Gummy Bee.png for Template:I.</span></strong>3 <a href="gummy-bee.html">Gummy Bees</a> (Level 8-20)</li></ul>
+<ul><li>3 <a href="gummy-bee.html">Gummy Bees</a> (Level 8-20)</li></ul>
 </td>
 <td>5 minutes
 </td></tr>
@@ -1270,7 +1270,7 @@ The following table contains all the ways to obtain summoned bees.
 <td><a href="honey-wreath.html">Honey Wreath</a> (after the completion of <a href="honey-bee-npc.html">Honey Bee's</a> Beesmas quest)
 </td>
 <td>
-<ul><li><strong class="error"><span class="scribunto-error mw-scribunto-error-23e8eb62">Lua error in Module:Item_image at line 88: Template error! There's no such file named File:Honey Bee.png for Template:I.</span></strong><a href="honey-bee.html">Honey Bee</a> (Level 20)</li></ul>
+<ul><li><a href="honey-bee.html">Honey Bee</a> (Level 20)</li></ul>
 </td>
 <td>30 minutes
 </td></tr></tbody></table>

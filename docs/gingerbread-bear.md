@@ -19,21 +19,7 @@ A **Gingerbread Bear** is a unique type of [treat](treats.md) that was added in 
 
 Gingerbread bears have 2 functions. The player could save them up and spend it on [Bee Bear's Catalog](bee-bear-s-catalog.md) during the Beesmas 2020, 2021, 2022, 2024 and 2025 events, or feed them to [bees](bees.md). In addition to granting [bond](bond.md), it has a 1% chance to make them [gifted](gifted-bee.md). They can also be saved up until the next Beesmas event, where they turn into [Aged Gingerbread Bears](aged-gingerbread-bear.md).
 
-The formula of turning a bee gifted:
-
-(
-1
-−
-
-0.99
-
-x
-)
-×
-100
-%
-{\displaystyle (1-0.99^{x})\times 100\%}
- (𝑥 is the number of the **Gingerbread Bears** fed to a bee)
+The formula of turning a bee gifted: \((1-0.99^{x})\times 100\%\) (𝑥 is the number of the **Gingerbread Bears** fed to a bee)
 
 ## Ways to Obtain
 

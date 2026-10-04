@@ -2552,4 +2552,3 @@ The following is a list of all of the **items** in [Re://:Swarm](re-swarm.md).
 <td><a href="noob-shop.html">Noob Shop</a>
 </td></tr></tbody></table>
 
-zh-tw:物品

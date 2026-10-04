@@ -256,4 +256,3 @@ This guard is one of 3 guards you can get in the Blue HQ, the others being the [
 </td></tr></tbody></table>
 </td></tr></tbody></table>
 
-zh-tw:壞壞護肩

@@ -46,22 +46,7 @@ The player must be in the [Bee Swarm Simulator Club](bee-swarm-simulator-club.md
 
 The amount of honey and strawberries given is based on the number of Red bees the player has in their hive. More specifically, let *cnt* be the number of Red bees in the player's hive:
 
-* The amount of honey the player receives is equal to 
-
-  ⌊
-
-  c
-  n
-  t
-
-  1.5
-  +
-  0.5
-  ⌋
-  ×
-  200
-  {\displaystyle \left\lfloor {cnt}^{1.5}+0.5\right\rfloor \times 200}
-  , or 500 if the result is less than 500.
+* The amount of honey the player receives is equal to \(\left\lfloor {cnt}^{1.5}+0.5\right\rfloor \times 200\), or 500 if the result is less than 500.
 * The amount of strawberries the player receives is equal to *cnt*.
 
 Below is a table of the amount of honey a player receives, given the number of Red bees they have.

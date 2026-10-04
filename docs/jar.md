@@ -16,9 +16,6 @@ tags: ["Bags", "Pages with broken file links", "Items"]
 <h3 class="pi-data-label pi-secondary-font">Description</h3>
 <div class="pi-data-value pi-font">"A durable plastic jar. Holds over twice as much as the Pouch!"</div>
 </div>
-<section class="pi-item pi-group pi-border-color">
-<p>@@BLOCO0@@</p>
-</section>
 </aside>
 
 > Text...
@@ -234,4 +231,3 @@ The **Jar** is a [Bag](bags.md) that can be purchased in the [Noob Shop](noob-sh
 </td></tr></tbody></table>
 </td></tr></tbody></table>
 
-zh-tw:小罐子

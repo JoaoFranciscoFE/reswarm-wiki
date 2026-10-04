@@ -11,12 +11,6 @@ tags: ["Mobs", "Robo Bear Challenge", "Robo Bear"]
 <h3 class="pi-data-label pi-secondary-font">Location</h3>
 <div class="pi-data-value pi-font">Any field while the <a href="robo-bear-challenge.html">Robo Bear Challenge</a> is active.</div>
 </div>
-<section class="pi-item pi-group pi-border-color">
-<p>@@BLOCO0@@</p>
-</section>
-<section class="pi-item pi-group pi-border-color">
-<p>@@BLOCO1@@</p>
-</section>
 </aside>
 
 *Not to be confused with [Party Cogturrets](party-cogturret.md), the Beesmas Edition of these.*

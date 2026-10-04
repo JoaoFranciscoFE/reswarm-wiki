@@ -19,12 +19,6 @@ tags: ["Items", "Sprinklers", "Pages with broken file links"]
 <h3 class="pi-data-label pi-secondary-font">Description</h3>
 <div class="pi-data-value pi-font">When planted in the ground, causes <i>[sic]</i>  nearby flowers to regrow faster!</div>
 </div>
-<section class="pi-item pi-group pi-border-color">
-<p>@@BLOCO0@@</p>
-</section>
-<section class="pi-item pi-group pi-border-color">
-<p>@@BLOCO1@@</p>
-</section>
 </aside>
 
 The **Basic Sprinkler** is the lowest tier [sprinkler](sprinklers.md) available for purchase in the [Badge Bearer's Guild](badge-bearer-s-guild.md). To unlock it, the player must obtain 10 different [Cadet badges](badges.md). Once the player unlocks it, they can purchase it for ~1.1 million [Honey](honey.md). Its description reads, "When planted in the ground, causes *[sic]* nearby flowers to regrow faster!"
@@ -231,4 +225,3 @@ When a sprinkler regenerates flowers, the following audio plays:
 </td></tr></tbody></table>
 </td></tr></tbody></table>
 
-zh-tw:基本灑水器

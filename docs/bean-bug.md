@@ -15,15 +15,6 @@ tags: ["Mobs", "Pages with broken file links", "Egg Hunt Event", "Passive Mobs"]
 <h3 class="pi-data-label pi-secondary-font">Respawns Every</h3>
 <div class="pi-data-value pi-font">Every ~30 minutes, or can be spawned through the Wind shrine.<p>Higher chance to spawn using 50-100 basic eggs or a Honey Bee egg.</p></div>
 </div>
-<section class="pi-item pi-group pi-border-color">
-<p>@@BLOCO0@@</p>
-</section>
-<section class="pi-item pi-group pi-border-color">
-<p>@@BLOCO1@@</p>
-</section>
-<section class="pi-item pi-group pi-border-color">
-<p>@@BLOCO2@@</p>
-</section>
 </aside>
 
 The **Bean Bug** is a passive [mob](mobs.md) that can randomly appear in any field (except the [Ant Field](ant-field.md)), be spawned through the [Wind Shrine](wind-shrine.md) by donating 50-100 eggs or be manually spawned by [Onett](onett-developer.md). They often spawn in one field in groups of 3 or more, and later split up.

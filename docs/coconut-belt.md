@@ -94,7 +94,6 @@ The **Coconut Belt** is a belt that can be crafted in the [Coconut Cave](coconut
 * Unique Instant Conversion buff actually starts at +25%, not +10% like it states in-game.
 * The blue circle doesn't work properly and even if the player catches within it, the coconut will fall onto another player's field instead of staying.
 
-zh-tw:椰子腰帶
 
 <table class="mw-collapsible autocollapse" style="margin:auto; background:#000; font-size: 10pt; border:5px solid #56CB5A; width: 100%; border-radius: 20px; -moz-border-radius: 20px; -webkit-border-radius: 20px; -khtml-border-radius: 20px; -icab-border-radius: 20px; -o-border-radius: 20px;">
 <tbody><tr>

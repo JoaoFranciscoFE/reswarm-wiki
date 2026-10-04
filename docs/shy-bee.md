@@ -71,9 +71,9 @@ Shy Bee likes the [Strawberry Field](strawberry-field.md) and the [Pumpkin Patch
 
 ### Abilities
 
-* **[[Red Boost]](ability-tokens.md#Boost)** Grants x1.2 pollen from red [Flowers](flowers.md) for 15s. Stacks up to 10 times.
-* **[[Red Bomb]](ability-tokens.md#Bomb)** Collects 10 pollen from 13 surrounding red flowers (+10% pollen per Level). Combo with other bombs to increase power.
-* **[[Passive: Nectar Lover]](passive-abilities.md#Nectar_Lover)** This bee is twice as likely to sip Nectar from Planters. When it does, it gathers twice as much Nectar and contributes twice as much growth to the Planter.
+* **[Red Boost](ability-tokens.md#Boost)** Grants x1.2 pollen from red [Flowers](flowers.md) for 15s. Stacks up to 10 times.
+* **[Red Bomb](ability-tokens.md#Bomb)** Collects 10 pollen from 13 surrounding red flowers (+10% pollen per Level). Combo with other bombs to increase power.
+* **[Passive: Nectar Lover](passive-abilities.md#Nectar_Lover)** This bee is twice as likely to sip Nectar from Planters. When it does, it gathers twice as much Nectar and contributes twice as much growth to the Planter.
 
 <table style="font-size:1.5vh; color:#000; width:100%; background:#fff; padding: 15px 0; border:none; color:#000; border-left:15px #af2136 solid">
 <tbody><tr>
@@ -472,4 +472,3 @@ Shy Bee likes the [Strawberry Field](strawberry-field.md) and the [Pumpkin Patch
 <td class="NavLinks NavLinksEvent"><b><span typeof="mw:Error mw:File"></span> <a href="bear-bee.html">Bear Bee</a> • <span typeof="mw:Error mw:File"></span> <a href="cobalt-bee.html">Cobalt Bee</a> • <span typeof="mw:Error mw:File"></span> <a href="crimson-bee.html">Crimson Bee</a> • <span typeof="mw:Error mw:File"></span> <a href="digital-bee.html">Digital Bee</a> • <span typeof="mw:Error mw:File"></span> <a href="festive-bee.html">Festive Bee</a> • <span typeof="mw:Error mw:File"></span> <a href="gummy-bee.html">Gummy Bee</a> • <span typeof="mw:Error mw:File"></span> <a href="photon-bee.html">Photon Bee</a> • <span typeof="mw:Error mw:File"></span> <a href="puppy-bee.html">Puppy Bee</a> • <span typeof="mw:Error mw:File"></span> <a href="tabby-bee.html">Tabby Bee</a> • <span typeof="mw:Error mw:File"></span> <a href="vicious-bee.html">Vicious Bee</a> • <span typeof="mw:Error mw:File"></span> <a href="windy-bee.html">Windy Bee</a></b>
 </td></tr></tbody></table>
 
-zh-tw:害羞蜂

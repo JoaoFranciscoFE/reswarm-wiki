@@ -137,37 +137,7 @@ When the player generates a Moon Amulet, the following audio plays:
 <td>14.2857%
 </td></tr></tbody></table>
 
-The amount of capacity the amulet gives increases by 25,000 with every new amulet, except for the 7th amulet, which does not increase the capacity. More specifically, the capacity is given by the formula 
-
-c
-a
-p
-a
-c
-i
-t
-y
-=
-25000
-+
-225000
-∗
-min
-(
-1
-,
-
-q
-u
-a
-l
-i
-t
-y
-0.24875
-)
-{\displaystyle capacity=25000+225000\*\min(1,{\frac {quality}{0.24875}})}
-, rounded to the nearest 25,000.
+The amount of capacity the amulet gives increases by 25,000 with every new amulet, except for the 7th amulet, which does not increase the capacity. More specifically, the capacity is given by the formula \(capacity=25000+225000\times \min(1,{\frac {quality}{0.24875}})\), rounded to the nearest 25,000.
 
 The tables below give the percentage of the other stats on the amulet having strength within a specific range, at a few quality milestones. To see the percentage of a certain stat having a specific strength value, see [the designated subpage](moon-amulet-probability.md).
 
@@ -2475,4 +2445,3 @@ Show/hide tables
 </td></tr></tbody></table>
 </td></tr></tbody></table>
 
-zh-tw:月亮護符

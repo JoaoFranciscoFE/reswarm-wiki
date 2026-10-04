@@ -72,7 +72,7 @@ Main article: [Fire Ant](fire-ant.md)
   * In this regard, prioritizing defeating Fire Ants is a good choice, since their flames can easily become extremely disruptive.
 * Getting higher level bees will make sure that the bees will land their hits.
 * Bees with high attack like [Lion Bee](lion-bee.md), [Cobalt Bee](cobalt-bee.md), [Crimson Bee](crimson-bee.md), [Brave Bee](brave-bee.md), etc., are very helpful in dealing good damage.
-* [Gifted Bees](gifted-bee.md) do extra damage and can provide bonuses (e.g., Brave Bee give +1 [Attack](bee-attack.md), [Looker Bee](looker-bee.md) gives +25% [Critical Power](https://bee-swarm-simulator.fandom.com/wiki/System_Page#Critical_Power), and [Commander Bee](commander-bee.md) give +25% [Critical Chance](https://bee-swarm-simulator.fandom.com/wiki/System_Page#Critical_Chance)).
+* [Gifted Bees](gifted-bee.md) do extra damage and can provide bonuses (e.g., Brave Bee give +1 [Attack](bee-attack.md), [Looker Bee](looker-bee.md) gives +25% [Critical Power](system-page.md#Critical_Power), and [Commander Bee](commander-bee.md) give +25% [Critical Chance](system-page.md#Critical_Chance)).
 * [Vicious Bee](vicious-bee.md) and [Windy Bee](windy-bee.md) provide excellent crowd control, especially since ants often come in pairs or packs. [Digital Bee](digital-bee.md) can also stun many ants at once, and allow them to take extra damage via [Mind Hack](ability-tokens.md#Mind_Hack).
 * When a wave starts, the player should stay by the glass wall opposite the anthill to avoid ants pouncing/landing on them when they spawn.
 

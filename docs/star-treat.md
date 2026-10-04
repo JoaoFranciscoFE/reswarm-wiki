@@ -137,4 +137,3 @@ A **Star Treat** is a special type of [treat](treats.md) that, when fed to a [be
 <td class="NavLinks NavLinksBasicOdd" colspan="2"><b><span typeof="mw:Error mw:File"></span> <a href="brick.html">Brick</a> • <span typeof="mw:Error mw:File"></span> <a href="cog.html">Cog</a> • <span typeof="mw:Error mw:File"></span> <a href="ticket.html">Ticket</a></b>
 </td></tr></tbody></table>
 
-zh-tw:星星點心

@@ -16,9 +16,6 @@ tags: ["Bags", "Pages with broken file links", "Items"]
 <h3 class="pi-data-label pi-secondary-font">Description</h3>
 <div class="pi-data-value pi-font">"A machine which packs pollen to increase storage."</div>
 </div>
-<section class="pi-item pi-group pi-border-color">
-<p>@@BLOCO0@@</p>
-</section>
 <div class="pi-item pi-data pi-item-spacing pi-border-color" data-source="stats">
 <h3 class="pi-data-label pi-secondary-font">Bonus Stats</h3>
 <div class="pi-data-value pi-font">+55% Convert Rate</div>
@@ -236,4 +233,3 @@ The **Compressor** is a [bag](bags.md) that can be purchased from the [Pro Shop]
 </td></tr></tbody></table>
 </td></tr></tbody></table>
 
-zh-tw:壓縮機

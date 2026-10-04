@@ -15,15 +15,6 @@ tags: ["Mobs", "Pages with broken file links"]
 <h3 class="pi-data-label pi-secondary-font">Respawns Every</h3>
 <div class="pi-data-value pi-font">5 minutes (4 minutes 15 seconds with <a href="gifted-bee.html">Gifted</a> <a href="vicious-bee.html">Vicious Bee</a>)</div>
 </div>
-<section class="pi-item pi-group pi-border-color">
-<p>@@BLOCO0@@</p>
-</section>
-<section class="pi-item pi-group pi-border-color">
-<p>@@BLOCO1@@</p>
-</section>
-<section class="pi-item pi-group pi-border-color">
-<p>@@BLOCO2@@</p>
-</section>
 </aside>
 
 The **ladybug** is a mob that defends three different [fields](fields.md).
@@ -192,4 +183,3 @@ A ladybug's level can range from 1–3, depending on the field it is located in.
 <td class="NavLinks NavLinksBasicOdd" colspan="2"><b><a href="chicks.html#Chick">Chick</a> • <a href="chicks.html#Hostage_Chick">Hostage Chick</a> • <a href="chicks.html#Spotted_Chick">Spotted Chick</a></b>
 </td></tr></tbody></table>
 
-zh-tw:瓢蟲

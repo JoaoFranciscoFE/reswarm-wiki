@@ -249,4 +249,3 @@ The **Hiking Boots** are a pair of boots that were added in the [2018-09-10 upda
 </td></tr></tbody></table>
 </td></tr></tbody></table>
 
-zh-tw:登山靴

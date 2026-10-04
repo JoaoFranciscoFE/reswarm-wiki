@@ -52,72 +52,7 @@ To use the clock, the player will need to have discovered 5 types of [bees](bees
 * The amount of tickets granted by the Wealth Clock is based on the player's current stack of the Wealth Clock buff rather than how many times the player has used it (e.g. if the player has 1 stack of the Wealth Clock buff and then uses the Wealth Clock for the first time, it will grant 2 tickets instead of 1).
 * The [Playtime Badge](badges.md#Playtime_Badge) is represented by the Wealth Clock.
 * The Wealth Clock has a 1/250 (0.4%) chance to spawn an [Hourglass Sticker](sticker.md#Sticker_Index) in the [Clover Field](clover-field.md).
-* A mathematical formula can be used to represent the total number of tickets a player earns over x hours, expressed as the following function:
-
-  f
-  (
-  x
-  )
-  =
-
-  {
-
-  0
-
-  if 
-  0
-  ≤
-  x
-  <
-  1
-
-  1
-
-  if 
-  1
-  ≤
-  x
-  <
-  2
-
-  3
-
-  if 
-  2
-  ≤
-  x
-  <
-  3
-
-  6
-
-  if 
-  3
-  ≤
-  x
-  <
-  4
-
-  10
-
-  if 
-  4
-  ≤
-  x
-  <
-  5
-
-  5
-  x
-  −
-  10
-
-  if 
-  x
-  ≥
-  5
-
-  {\displaystyle f(x)={\begin{cases}0&{\text{if }}0\leq x<1\\1&{\text{if }}1\leq x<2\\3&{\text{if }}2\leq x<3\\6&{\text{if }}3\leq x<4\\10&{\text{if }}4\leq x<5\\5x-10&{\text{if }}x\geq 5\end{cases}}}
+* A mathematical formula can be used to represent the total number of tickets a player earns over x hours, expressed as the following function: \(f(x)={\begin{cases}0&{\text{if }}0\leq x<1\\1&{\text{if }}1\leq x<2\\3&{\text{if }}2\leq x<3\\6&{\text{if }}3\leq x<4\\10&{\text{if }}4\leq x<5\\5x-10&{\text{if }}x\geq 5\end{cases}}\)
 
 <table class="mw-collapsible mw-collapsed NavTable">
 <tbody><tr>

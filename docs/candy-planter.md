@@ -337,4 +337,3 @@ When claimed, the planter gives up to 14 tokens worth of items. If the planter w
 </td></tr></tbody></table>
 </td></tr></tbody></table>
 
-zh-tw:糖果盆栽

@@ -271,4 +271,3 @@ The **Fire Mask** is a mask that can be bought at the [Red HQ](red-hq.md).
 </td></tr></tbody></table>
 </td></tr></tbody></table>
 
-zh-tw:火焰頭罩

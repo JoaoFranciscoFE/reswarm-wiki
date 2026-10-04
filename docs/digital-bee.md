@@ -73,15 +73,15 @@ Digital Bee likes the [Dandelion Field](dandelion-field.md), [Mountain Top Field
 
 ### Abilities
 
-* **[[Glitch]](ability-tokens.md#Glitch)** Corrupts the Field you're in for 20s (+1s per Level), granting collected [Ability Tokens](ability-tokens.md) a chance to be duplicated (or "Duped").
+* **[Glitch](ability-tokens.md#Glitch)** Corrupts the Field you're in for 20s (+1s per Level), granting collected [Ability Tokens](ability-tokens.md) a chance to be duplicated (or "Duped").
   * Duped Tokens hover over the field for a duration equal to the lifespan of the original Ability Token x2 (+5% per Digital Bee Level). Standing beneath a Duped Token for 1s causes it to activate.
   * Increasing a field's Corruption increases the chance for abilities to be duplicated (8%-20%) and boosts the pollen collection and Instant Conversion of Duped Abilities (x1.1 - x3 Pollen from Duped Abilities, 20%-90% IC from Duped Abilities). Enhancing Digital Bee with Drives causes this ability to grant more Corruption: Colored Drives increase the Corruption of fields with matching flowers while [Glitched Drives](drives.md#Glitched_Drive) increase the Corruption of all fields.
   * While this is active, Digital Bee will occasionally spawn [☺︎ Tokens](ability-tokens.md). Activating a ☺︎ token temporarily increases the field's Corruption, causes all Duped Tokens to be activated, and collects pollen equal to +50% of Digital Bee's gather amount from a random arrangement of flowers, then multiplies the Pollen collected by +50% per Duped Token collected with 50% being instantly converted. The flowers are stamped for 10s, granting them a x2 pollen multiplier. The stamped flowers also come in a "☺", "&", "?", "\*", or "~" shape. The frequency of ☺︎ tokens increases with the number of [Glitched Drives](drives.md#Glitched_Drive) Digital Bee has been enhanced with.
-* **[[Mind Hack]](ability-tokens.md#Mind_Hack)** Hacks the minds of up to 3 nearby enemies (+1 per every 3 lvls), stunning them for 3s (+0.1s per lvl). While hacked, the enemies take 25% more damage (+0.1% per [Glitched Drive](drives.md#Glitched_Drive) Digital Bee has been enhanced with). Hacking is only half as effective against bosses.
+* **[Mind Hack](ability-tokens.md#Mind_Hack)** Hacks the minds of up to 3 nearby enemies (+1 per every 3 lvls), stunning them for 3s (+0.1s per lvl). While hacked, the enemies take 25% more damage (+0.1% per [Glitched Drive](drives.md#Glitched_Drive) Digital Bee has been enhanced with). Hacking is only half as effective against bosses.
   * If in a field, this also spawns a [☺︎ token](ability-tokens.md#☺).
-* **[[🌟Gifted Ability: Map Corruption]](ability-tokens.md#Map_Corruption)** Digital Bee corrupts a random field by a small amount for all players for 3 minutes (+15s per lvl). The amount of Corruption is increased by the number of Drives Digital Bee has been enhanced with up to 300 corruption (other players receive 1/3 of the corruption).
+* **[🌟Gifted Ability: Map Corruption](ability-tokens.md#Map_Corruption)** Digital Bee corrupts a random field by a small amount for all players for 3 minutes (+15s per lvl). The amount of Corruption is increased by the number of Drives Digital Bee has been enhanced with up to 300 corruption (other players receive 1/3 of the corruption).
   * Fields with more flowers matching the color of the most recent colored Drive you've used are more likely to be selected. If your most recent Drive is a Glitched Drive, the field is completely random but gains 25% more Corruption.
-* **[[Passive: Drive Expansion]](passive-abilities.md#Drive_Expansion)** Using a Drive while this bee is active in [Robo Bear's Challenge](robo-bear-challenge.md) corrupts the field you're standing in by an amount proportional to the number of flowers that match the Drive's color (Glitched Drives corrupt all fields equally). Additionally, it permanently enhances this bee, increasing the Corruption of its abilities and granting it the following stats:
+* **[Passive: Drive Expansion](passive-abilities.md#Drive_Expansion)** Using a Drive while this bee is active in [Robo Bear's Challenge](robo-bear-challenge.md) corrupts the field you're standing in by an amount proportional to the number of flowers that match the Drive's color (Glitched Drives corrupt all fields equally). Additionally, it permanently enhances this bee, increasing the Corruption of its abilities and granting it the following stats:
 
 :   - Red Drive: +0.03 [Attack](stats.md#Attack)
 :   - Blue Drive: +2 [Convert Amount](stats.md#Production_Amount)
@@ -95,9 +95,9 @@ Digital Bee likes the [Dandelion Field](dandelion-field.md), [Mountain Top Field
 <table style="font-size:1.5vh; color:#000; width:100%; background:#fff; padding: 15px 0; border:none; color:#000; border-left:15px #000 solid">
 <tbody><tr>
 <td style="width:100%; text-align:center">
-<p>Digital Bee has a base pollen collection of <b>10 <strong class="error"><span class="scribunto-error mw-scribunto-error-dd44d918">Lua error in Module:Item_image at line 88: Template error! There's no such file named File:White Boost Token.png for Template:I.</span></strong></b> in <b>4 seconds</b>. 
-</p><p>That's equivalent to 2.5 <strong class="error"><span class="scribunto-error mw-scribunto-error-dd44d918">Lua error in Module:Item_image at line 88: Template error! There's no such file named File:White Boost Token.png for Template:I.</span></strong> per second. 
-</p><p>(<b>20 <strong class="error"><span class="scribunto-error mw-scribunto-error-dd44d918">Lua error in Module:Item_image at line 88: Template error! There's no such file named File:White Boost Token.png for Template:I.</span></strong></b> in <b>4 seconds</b> with x2 Bee Pollen gamepass)
+<p>Digital Bee has a base pollen collection of <b>10 </b> in <b>4 seconds</b>. 
+</p><p>That's equivalent to 2.5  per second. 
+</p><p>(<b>20 </b> in <b>4 seconds</b> with x2 Bee Pollen gamepass)
 </p>
 </td></tr></tbody></table>
 
@@ -395,4 +395,3 @@ Digital Bee likes the [Dandelion Field](dandelion-field.md), [Mountain Top Field
 <td class="NavLinks NavLinksEvent"><b><span typeof="mw:Error mw:File"></span> <a href="bear-bee.html">Bear Bee</a> • <span typeof="mw:Error mw:File"></span> <a href="cobalt-bee.html">Cobalt Bee</a> • <span typeof="mw:Error mw:File"></span> <a href="crimson-bee.html">Crimson Bee</a> • <span typeof="mw:Error mw:File"></span> <strong class="mw-selflink selflink">Digital Bee</strong> • <span typeof="mw:Error mw:File"></span> <a href="festive-bee.html">Festive Bee</a> • <span typeof="mw:Error mw:File"></span> <a href="gummy-bee.html">Gummy Bee</a> • <span typeof="mw:Error mw:File"></span> <a href="photon-bee.html">Photon Bee</a> • <span typeof="mw:Error mw:File"></span> <a href="puppy-bee.html">Puppy Bee</a> • <span typeof="mw:Error mw:File"></span> <a href="tabby-bee.html">Tabby Bee</a> • <span typeof="mw:Error mw:File"></span> <a href="vicious-bee.html">Vicious Bee</a> • <span typeof="mw:Error mw:File"></span> <a href="windy-bee.html">Windy Bee</a></b>
 </td></tr></tbody></table>
 
-zh-tw:數據蜂

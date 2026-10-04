@@ -317,4 +317,3 @@ If you turn on the following options, an extra pop-up will warn the player that 
 <figure class="thumb" style="width: 180px" typeof="mw:File/Thumb">  <figcaption class="thumbcaption"> <p class="caption">An extra warning pop-up that appears when you try to auto-jelly with star jellies.</p> </figcaption> </figure>
 
 When using a [Star Jelly](royal-jelly.md#Star_Jelly) on a bee, another pop-up will appear, reminding the player that an auto-jelly setting is on and will use as many star jellies as it needs in order to fulfill its requirement. This pop-up will appear even if only the Until Gifted option is turned on. If you are using the Require Gifted option with [Star Jellies](royal-jelly.md#Star_Jelly), you will still receive the warning, but nothing will happen.
-zh-tw:系統頁面

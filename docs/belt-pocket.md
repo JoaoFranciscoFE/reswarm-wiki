@@ -245,4 +245,3 @@ The **Belt Pocket** is a belt accessory located in the [Noob Shop](noob-shop.md)
 </td></tr></tbody></table>
 </td></tr></tbody></table>
 
-zh-tw:腰間口袋

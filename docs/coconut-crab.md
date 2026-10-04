@@ -15,15 +15,6 @@ tags: ["Pages with broken file links", "Mobs", "Bosses"]
 <h3 class="pi-data-label pi-secondary-font">Respawns Every</h3>
 <div class="pi-data-value pi-font">36 hours (1.5 days)<br/><p>30.6 hours (1.275 days) (with Gifted Vicious Bee)</p></div>
 </div>
-<section class="pi-item pi-group pi-border-color">
-<p>@@BLOCO0@@</p>
-</section>
-<section class="pi-item pi-group pi-border-color">
-<p>@@BLOCO1@@</p>
-</section>
-<section class="pi-item pi-group pi-border-color">
-<p>@@BLOCO2@@</p>
-</section>
 </aside>
 
 The **Coconut Crab** is a level 12 boss mob that defends the [Coconut Field](coconut-field.md). It has 250,000 health and moves along the back wall of the Coconut Field. Like [Tunnel Bear](tunnel-bear.md), [chicks](chicks.md) (besides the [Commando Chick](commando-chick.md)), [Aphids](aphid.md), [Wild Windy Bee](wild-windy-bee.md) and [Puffshrooms](puffshroom.md), the player has a limited amount of time (two hours) to defeat it. After 2 hours, its health resets. The amount of time left can be found above its health.

@@ -144,4 +144,3 @@ tags: ["Pages with broken file links", "Bees", "Rare"]
 * A **Rare Bee's** [hive](hive.md) color is white.
 * All colorless Rare Bees except [Stubborn Bee](stubborn-bee.md) have a guard named after them, which are all sold in the [Pro Shop](pro-shop.md).
 
-zh-tw:蜜蜂/稀有蜂

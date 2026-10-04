@@ -16,9 +16,6 @@ tags: ["Bags", "Pages with broken file links", "Items", "Crafted"]
 <h3 class="pi-data-label pi-secondary-font">Description</h3>
 <div class="pi-data-value pi-font">"A back-mounted coconut that protects you during emergencies."</div>
 </div>
-<section class="pi-item pi-group pi-border-color">
-<p>@@BLOCO0@@</p>
-</section>
 <div class="pi-item pi-data pi-item-spacing pi-border-color" data-source="stats">
 <h3 class="pi-data-label pi-secondary-font">Bonus Stats</h3>
 <div class="pi-data-value pi-font">+400% Convert Rate<br/><p>x1.5 Convert Rate At Hive<br/>+10% Instant Conversion<br/>+10% Instant White Conversion<br/>+100% White Pollen<br/>+Passive: Inspire Coconuts<br/>+Passive: Emergency Coconut Shield</p></div>
@@ -266,4 +263,3 @@ The following audio plays whenever the Emergency Coconut Shield passive ability 
 </td></tr></tbody></table>
 </td></tr></tbody></table>
 
-zh-tw:椰子背包

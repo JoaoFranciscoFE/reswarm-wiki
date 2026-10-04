@@ -117,4 +117,3 @@ When a flower is pollinated, it upgrades any kind of flower, with star flowers b
 <td class="NavLinks NavLinksBasicEven"><b><span typeof="mw:Error mw:File"></span> <strong class="mw-selflink selflink">Pollen</strong> • <span typeof="mw:Error mw:File"></span> <a href="honey.html">Honey</a> • <span typeof="mw:Error mw:File"></span> <a href="ticket.html">Ticket</a> • <span typeof="mw:Error mw:File"></span> <a href="brick.html">Brick</a> • <span typeof="mw:Error mw:File"></span> <a href="cog.html">Cog</a> • <span typeof="mw:Error mw:File"></span> <a href="snowflake.html">Snowflake</a> • <span typeof="mw:Error mw:File"></span> <a href="gingerbread-bear.html">Gingerbread Bear</a></b>
 </td></tr></tbody></table>
 
-zh-tw:花粉

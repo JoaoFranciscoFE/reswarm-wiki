@@ -385,4 +385,3 @@ Total required for all single-purchase items: 275 **Super Smoothies**
 </td></tr></tbody></table>
 </td></tr></tbody></table>
 
-zh-tw:Super Smoothie

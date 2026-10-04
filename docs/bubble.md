@@ -94,4 +94,3 @@ Certain upgrades from the Robo Bear Challenge can be used to improve bubbles.
 * Popping a bubble has a 1/1,000,000 chance to spawn a Tadpole sticker.
 * Bubbles are the counterpart of [flames](flame.md).
 
-zh-tw:泡泡

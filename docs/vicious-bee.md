@@ -73,8 +73,8 @@ Vicious Bee likes the [Cactus Field](cactus-field.md) and the [Rose Field](rose-
 
 ### Abilities
 
-* **[[Impale]](ability-tokens.md#Impale)** Summons spikes (1 per level) to damage enemies equal to 5% of their current health (Increased by Vicious Bee's attack. [Reduced damage if larger than 1000]). Creates a honey token per enemy hit (worth 50 honey plus 50 per bee level). Multiple spikes on the same target deal less damage. Impale can damage [mobs](mobs.md) that target other players but will not target other players' [Tunnel Bear](tunnel-bear.md), [King Beetle](king-beetle.md), [Stump Snail](stump-snail.md), or [Coconut Crab](coconut-crab.md). If gifted, Impale has +1 level of accuracy.
-* **[[Blue Bomb+]](ability-tokens.md#Bomb)** Collects 10 pollen from 29 surrounding blue [Flowers](flowers.md) (+10% pollen per Level). Combo with other bombs to increase power.
+* **[Impale](ability-tokens.md#Impale)** Summons spikes (1 per level) to damage enemies equal to 5% of their current health (Increased by Vicious Bee's attack. [Reduced damage if larger than 1000]). Creates a honey token per enemy hit (worth 50 honey plus 50 per bee level). Multiple spikes on the same target deal less damage. Impale can damage [mobs](mobs.md) that target other players but will not target other players' [Tunnel Bear](tunnel-bear.md), [King Beetle](king-beetle.md), [Stump Snail](stump-snail.md), or [Coconut Crab](coconut-crab.md). If gifted, Impale has +1 level of accuracy.
+* **[Blue Bomb+](ability-tokens.md#Bomb)** Collects 10 pollen from 29 surrounding blue [Flowers](flowers.md) (+10% pollen per Level). Combo with other bombs to increase power.
 
 <table class="article-table">
 <tbody><tr>
@@ -534,4 +534,3 @@ Vicious Bee likes the [Cactus Field](cactus-field.md) and the [Rose Field](rose-
 <td class="NavLinks NavLinksEvent"><b><span typeof="mw:Error mw:File"></span> <a href="bear-bee.html">Bear Bee</a> • <span typeof="mw:Error mw:File"></span> <a href="cobalt-bee.html">Cobalt Bee</a> • <span typeof="mw:Error mw:File"></span> <a href="crimson-bee.html">Crimson Bee</a> • <span typeof="mw:Error mw:File"></span> <a href="digital-bee.html">Digital Bee</a> • <span typeof="mw:Error mw:File"></span> <a href="festive-bee.html">Festive Bee</a> • <span typeof="mw:Error mw:File"></span> <a href="gummy-bee.html">Gummy Bee</a> • <span typeof="mw:Error mw:File"></span> <a href="photon-bee.html">Photon Bee</a> • <span typeof="mw:Error mw:File"></span> <a href="puppy-bee.html">Puppy Bee</a> • <span typeof="mw:Error mw:File"></span> <a href="tabby-bee.html">Tabby Bee</a> • <span typeof="mw:Error mw:File"></span> <strong class="mw-selflink selflink">Vicious Bee</strong> • <span typeof="mw:Error mw:File"></span> <a href="windy-bee.html">Windy Bee</a></b>
 </td></tr></tbody></table>
 
-zh-tw:惡毒蜂

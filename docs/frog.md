@@ -11,15 +11,6 @@ tags: ["Mobs", "Pages with broken file links", "Passive Mobs"]
 <h3 class="pi-data-label pi-secondary-font">Location</h3>
 <div class="pi-data-value pi-font">All Fields</div>
 </div>
-<section class="pi-item pi-group pi-border-color">
-<p>@@BLOCO0@@</p>
-</section>
-<section class="pi-item pi-group pi-border-color">
-<p>@@BLOCO1@@</p>
-</section>
-<section class="pi-item pi-group pi-border-color">
-<p>@@BLOCO2@@</p>
-</section>
 </aside>
 
 **Frogs** are passive mobs added in the [2019-12-23 Update](updates.md#2019-12-23). They despawn after a set period of time (3 minutes if summoned by a [Box-O-Frogs](box-o-frogs.md) or 20 seconds (+2s per level) if summoned by a [Tadpole Bee](tadpole-bee.md)).
@@ -128,6 +119,5 @@ Template:Reflist
 <td class="NavLinks NavLinksBasicOdd" colspan="2"><b><a href="chicks.html#Chick">Chick</a> • <a href="chicks.html#Hostage_Chick">Hostage Chick</a> • <a href="chicks.html#Spotted_Chick">Spotted Chick</a></b>
 </td></tr></tbody></table>
 
-zh-tw:青蛙
 
 1. ↑ [[1]](https://discord.com/channels/427553293862961153/427573109600550919/793608414894227496) Discord message from Onett. Note that this message is old, but the fact is still true in-game.

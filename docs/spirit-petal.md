@@ -260,4 +260,3 @@ Total required for all single-purchase items: 3 **Spirit Petals**
 </td></tr></tbody></table>
 </td></tr></tbody></table>
 
-zh-tw:靈花瓣

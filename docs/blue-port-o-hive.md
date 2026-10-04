@@ -16,9 +16,6 @@ tags: ["Bags", "Pages with broken file links", "Items", "Blue", "Crafted"]
 <h3 class="pi-data-label pi-secondary-font">Description</h3>
 <div class="pi-data-value pi-font">"A Port-O-Hive dipped in shiney <i>[sic]</i> blue paint."</div>
 </div>
-<section class="pi-item pi-group pi-border-color">
-<p>@@BLOCO0@@</p>
-</section>
 <div class="pi-item pi-data pi-item-spacing pi-border-color" data-source="stats">
 <h3 class="pi-data-label pi-secondary-font">Bonus Stats</h3>
 <div class="pi-data-value pi-font">+150% Convert Rate<br/><p>+10% Blue Bee Convert Rate<br/>+10% Instant Blue Conversion<br/>+10% Blue Pollen</p></div>
@@ -251,4 +248,3 @@ The **Blue Port-O-Hive** is a [bag](bags.md) that was added in the [2019-04-05 U
 </td></tr></tbody></table>
 </td></tr></tbody></table>
 
-zh-tw:藍蜂巢背包

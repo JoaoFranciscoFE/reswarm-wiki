@@ -246,4 +246,3 @@ There are certain upgrades that can be bought with cogs during the Robo Bear Cha
 * The lowest possible capacity the player can have is 0.7734357 but can not display it. By equipping the [Pouch](pouch.md) (+200) and having every upgrade that reduces capacity in the Robo Bear Challenge while having no other Capacity increasers or multipliers.
 * The Capacity Buff, Field Code Buff, Field Capacity Buff, and the x2 Pollen Boost are the only code exclusive buffs.
 
-zh-tw:背包容量

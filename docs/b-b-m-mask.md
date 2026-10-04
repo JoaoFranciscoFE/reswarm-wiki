@@ -229,4 +229,3 @@ The **B.B.M. Mask**, or **Bubble Bee Man Mask**, is a mask that was obtainable b
 </td></tr></tbody></table>
 </td></tr></tbody></table>
 
-ru:B.B.M Маска

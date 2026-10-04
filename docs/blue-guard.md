@@ -251,4 +251,3 @@ This guard is one of 3 guards in the Blue HQ, the others being the [Elite Blue G
 </td></tr></tbody></table>
 </td></tr></tbody></table>
 
-zh-tw:藍護肩

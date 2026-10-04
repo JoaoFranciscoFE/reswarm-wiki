@@ -1445,29 +1445,7 @@ The Galentine Shrine can be obtained after the player completes [Spirit Bear](sp
 
 If the player donates [Strawberries](strawberry.md), there is a chance for the player to receive several rewards and the [Galentine's Blessing buff](buffs-debuffs.md#From_Areas) which lasts for 2 days. The odds for a successful donation starts at 1% at 1 [Strawberry](strawberry.md), and scales linearly with the number of [Strawberries](strawberry.md) donated in that single donation, up to 50,000 where it is guaranteed.[1] The player can only receive the rewards once.
 
-The following equation determines the probability of receiving the Galentine's Blessing, where x is the number of [Strawberries](strawberry.md) donated and P(x) is the probability:
-
-P
-(
-x
-)
-=
-(
-
-0.99
-49999
-(
-x
-−
-1
-)
-+
-0.01
-)
-∙
-100
-%
-{\displaystyle P(x)=({\frac {0.99}{49999}}(x-1)+0.01)\bullet 100\%}
+The following equation determines the probability of receiving the Galentine's Blessing, where x is the number of [Strawberries](strawberry.md) donated and P(x) is the probability: \(P(x)=({\frac {0.99}{49999}}(x-1)+0.01)\bullet 100\%\)
 
 ### 2025, 2024, 2022 and 2021
 

@@ -12,15 +12,6 @@ tags: ["Pages with broken file links", "Items", "Inventory", "Crafted"]
 <div class="pi-data-value pi-font">1 Royal Jelly: 250,000-1,000,000 Honey, 6 Tickets, or 45 Robux<br/><p>10 Royal Jellies: 2,275,000-10,000,000 Honey, 60 Tickets, or 300 Robux</p></div>
 </div>
 <h2 class="pi-item pi-header pi-secondary-font pi-item-spacing pi-secondary-background">Chances</h2>
-<section class="pi-item pi-group pi-border-color">
-<p>@@BLOCO0@@</p>
-</section>
-<section class="pi-item pi-group pi-border-color">
-<p>@@BLOCO1@@</p>
-</section>
-<section class="pi-item pi-group pi-border-color">
-<p>@@BLOCO2@@</p>
-</section>
 </aside>
 
 ## Royal Jelly
@@ -851,4 +842,3 @@ Total required for all single-purchase items: 35 Star Jellies
 </td></tr></tbody></table>
 </td></tr></tbody></table>
 
-zh-tw:皇家果凍

@@ -15,15 +15,6 @@ tags: ["Pages with broken file links", "Mobs", "Multiplayer Bosses", "Bosses"]
 <h3 class="pi-data-label pi-secondary-font">Respawns Every</h3>
 <div class="pi-data-value pi-font">45 minutes - 1 hour</div>
 </div>
-<section class="pi-item pi-group pi-border-color">
-<p>@@BLOCO0@@</p>
-</section>
-<section class="pi-item pi-group pi-border-color">
-<p>@@BLOCO1@@</p>
-</section>
-<section class="pi-item pi-group pi-border-color">
-<p>@@BLOCO2@@</p>
-</section>
 </aside>
 
 The **Mondo Chick** is a level 8 boss [chick](chicks.md) located in the [Mountain Top Field](mountain-top-field.md). It respawns every hour at the full hour (1:00, 2:00, 3:00, etc., not in time zones that are a fractional number of hours away from UTC), and its respawn timer can be found on the side of the [Mountain Top Shop](mountain-top-shop.md). The respawn time is unaffected by the Monster Respawn Time stat. Its rewards can be shared between players.

@@ -71,10 +71,10 @@ Spicy Bee likes the [Pepper Patch](pepper-patch.md). It dislikes the [Stump Fiel
 
 ### Abilities
 
-* **[[Inferno]](ability-tokens.md#Inferno)** Summons a ring of 6 [flames](flame.md), then [summons](bees.md#Summoned_Bees) 2 [Fire Bees](fire-bee.md) that last for 15s (+1s per Level) with levels equal to 2 less than this bee's level. If Gifted, each Fire Bee has a 10% (+1% per Level) chance of being Gifted as well. However, the gifted Fire Bees from inferno **DO NOT** grant their gifted hive bonus.
-* **[[Rage]](ability-tokens.md#Rage)** Grants your bees +1 attack for 45s. Stacks up to 4 times.
+* **[Inferno](ability-tokens.md#Inferno)** Summons a ring of 6 [flames](flame.md), then [summons](bees.md#Summoned_Bees) 2 [Fire Bees](fire-bee.md) that last for 15s (+1s per Level) with levels equal to 2 less than this bee's level. If Gifted, each Fire Bee has a 10% (+1% per Level) chance of being Gifted as well. However, the gifted Fire Bees from inferno **DO NOT** grant their gifted hive bonus.
+* **[Rage](ability-tokens.md#Rage)** Grants your bees +1 attack for 45s. Stacks up to 4 times.
 * [**[🌟Gifted Ability: Flame Fuel]**](ability-tokens.md#Flame_Fuel) For 15 seconds, Spicy Bee tosses oil into any flames that spawn, causing them to last 50% longer and instantly convert 50k pollen and (10 + 5 per Field Boost stack)% of your [Hive's](hive.md) [Convert Amount](system-page.md#Convert_Amount). Unless converted to a [dark flame](flame.md#Dark_Flames), Spicy Bee won't throw oil into flames currently on the field.
-* **[[Passive: Steam Engine]](passive-abilities.md#Steam_Engine)** This bee's [Movespeed](stats.md#Speed) and gather speed drastically increases up to 100% with [Flame Heat](buffs-debuffs.md#Flame_Heat).
+* **[Passive: Steam Engine](passive-abilities.md#Steam_Engine)** This bee's [Movespeed](stats.md#Speed) and gather speed drastically increases up to 100% with [Flame Heat](buffs-debuffs.md#Flame_Heat).
 
 <table style="font-size:1.5vh; color:#000; width:100%; background:#fff; padding: 15px 0; border:none; color:#000; border-left:15px #af2136 solid">
 <tbody><tr>
@@ -486,4 +486,3 @@ Spicy Bee likes the [Pepper Patch](pepper-patch.md). It dislikes the [Stump Fiel
 <td class="NavLinks NavLinksEvent"><b><span typeof="mw:Error mw:File"></span> <a href="bear-bee.html">Bear Bee</a> • <span typeof="mw:Error mw:File"></span> <a href="cobalt-bee.html">Cobalt Bee</a> • <span typeof="mw:Error mw:File"></span> <a href="crimson-bee.html">Crimson Bee</a> • <span typeof="mw:Error mw:File"></span> <a href="digital-bee.html">Digital Bee</a> • <span typeof="mw:Error mw:File"></span> <a href="festive-bee.html">Festive Bee</a> • <span typeof="mw:Error mw:File"></span> <a href="gummy-bee.html">Gummy Bee</a> • <span typeof="mw:Error mw:File"></span> <a href="photon-bee.html">Photon Bee</a> • <span typeof="mw:Error mw:File"></span> <a href="puppy-bee.html">Puppy Bee</a> • <span typeof="mw:Error mw:File"></span> <a href="tabby-bee.html">Tabby Bee</a> • <span typeof="mw:Error mw:File"></span> <a href="vicious-bee.html">Vicious Bee</a> • <span typeof="mw:Error mw:File"></span> <a href="windy-bee.html">Windy Bee</a></b>
 </td></tr></tbody></table>
 
-zh-tw:火辣蜂

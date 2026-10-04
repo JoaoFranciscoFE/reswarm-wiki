@@ -11,15 +11,6 @@ tags: ["Mobs", "Pages with broken file links", "Mini Bosses", "Multiplayer Bosse
 <h3 class="pi-data-label pi-secondary-font">Location</h3>
 <div class="pi-data-value pi-font">All Fields except the <a href="stump-field.html">Stump Field</a>, <a href="ant-field.html">Ant Field</a>. and the <a href="hive-hub.html">Hive Hub</a>.</div>
 </div>
-<section class="pi-item pi-group pi-border-color">
-<p>@@BLOCO0@@</p>
-</section>
-<section class="pi-item pi-group pi-border-color">
-<p>@@BLOCO1@@</p>
-</section>
-<section class="pi-item pi-group pi-border-color">
-<p>@@BLOCO2@@</p>
-</section>
 </aside>
 
 *This page is for the Wild version of Windy Bee. For the tamed version, see [Windy Bee](windy-bee.md).*
@@ -53,22 +44,7 @@ Every time Wild Windy Bee is defeated, it levels up with more health, similar to
 
 ## Health per Level
 
-The formula to tell how much health Wild Windy Bee has per level is:
-
-(
-l
-e
-v
-e
-
-l
-2
-∗
-250
-)
-+
-250
-{\displaystyle (level ^ 2 \* 250) + 250}
+The formula to tell how much health Wild Windy Bee has per level is: \((level ^ 2 \times  250) + 250\)
 
 *Note: This table only goes up to level 25. If you want to go beyond that, use the formula shown above. However, do not add more to this.*
 

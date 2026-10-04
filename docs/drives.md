@@ -20,21 +20,7 @@ The White Drive, when used, grants the following boosts during a single round of
 ### Ways to Obtain
 
 * Purchasing it for 50 [Cogs](cog.md) and a base of 250,000 [Honey](honey.md) in Robo Bear's Shop.
-  * The nth drive costs
-
-    P
-    (
-    n
-    )
-    =
-    250,000
-    ⋅
-
-    n
-
-    2
-    {\displaystyle \displaystyle P(n)=250{,}000\cdot n^{2}}
-    .
+  * The nth drive costs \(\displaystyle P(n)=250{,}000\cdot n^{2}\).
 * Chance to receive from Robo Bear's Challenge.
 * Completing [Science Bear](science-bear.md)'s "Repairing The White Drive" quest gives 1 White Drive, replacing the Broken Drive.
 * As a reward for finishing your own Robo Party.
@@ -63,21 +49,7 @@ The Red Drive, when used, grants the following boosts during a single round of R
 ### Ways to Obtain
 
 * Purchasing it for 50 [Cogs](cog.md) and a base of250,000 [Honey](honey.md) in Robo Bear's Shop.
-  * The nth drive costs
-
-    P
-    (
-    n
-    )
-    =
-    250,000
-    ⋅
-
-    n
-
-    2
-    {\displaystyle \displaystyle P(n)=250{,}000\cdot n^{2}}
-    .
+  * The nth drive costs \(\displaystyle P(n)=250{,}000\cdot n^{2}\).
 * Chance to receive from Robo Bear's Challenge.
 * Completing [Panda Bear](panda-bear.md)'s "Ready For The Red Drive?" Quest gives 1 Red Drive (Requires you to finish [Science Bear](science-bear.md)'s White Drives quest first)
 * As a reward for finishing your own Robo Party.
@@ -107,21 +79,7 @@ The Blue Drive, when used, grants the following boosts during a single round of 
 ### Ways to Obtain
 
 * Purchasing it for 50 [Cogs](cog.md) and a base of250,000 [Honey](honey.md) in Robo Bear's Shop.
-  * The nth drive costs
-
-    P
-    (
-    n
-    )
-    =
-    250,000
-    ⋅
-
-    n
-
-    2
-    {\displaystyle \displaystyle P(n)=250{,}000\cdot n^{2}}
-    .
+  * The nth drive costs \(\displaystyle P(n)=250{,}000\cdot n^{2}\).
 * Chance to receive from Robo Bear's Challenge.
 * Completing [Dapper Bear](dapper-bear.md)'s "Barter For The Blue Drive" Quest gives 1 Blue Drive (Requires you to finish [Science Bear](science-bear.md)'s White Drive quest first)
 * As a reward for finishing your own Robo Party.
@@ -149,21 +107,7 @@ The Glitched Drive, when used, grants the following boosts during a single round
 ### Ways to Obtain
 
 * Purchasing it for 100 [Cogs](cog.md), 5 Red Drives, 5 Blue Drives, 5 White Drives and a base of1,000,000 [Honey](honey.md) in Robo Bear's Shop.
-  * The nth drive costs
-
-    P
-    (
-    n
-    )
-    =
-    1,000,000
-    ⋅
-
-    n
-
-    2
-    {\displaystyle \displaystyle P(n)=1{,}000{,}000\cdot n^{2}}
-    .
+  * The nth drive costs \(\displaystyle P(n)=1{,}000{,}000\cdot n^{2}\).
   * It requires a Gold Cog Amulet to unlock the ability of purchasing it.
 * Completing 10 or more rounds of Robo Bear's Challenge has a chance to reward a Glitched Drive, increased chance as the player finishes the challenge on a higher round.
   * 1 Glitched Drive is guaranteed as a reward once a day after completing round 20.
@@ -395,4 +339,3 @@ The [Broken Drive](broken-drive.md) is a unique drive added in the [2023-05-07 u
 </td></tr></tbody></table>
 </td></tr></tbody></table>
 
-zh-tw:引擎

@@ -15,15 +15,6 @@ tags: ["Mobs", "Pages with broken file links"]
 <h3 class="pi-data-label pi-secondary-font">Respawns Every</h3>
 <div class="pi-data-value pi-font">60 minutes (1 hour) (51 minutes with Gifted Vicious Bee)</div>
 </div>
-<section class="pi-item pi-group pi-border-color">
-<p>@@BLOCO0@@</p>
-</section>
-<section class="pi-item pi-group pi-border-color">
-<p>@@BLOCO1@@</p>
-</section>
-<section class="pi-item pi-group pi-border-color">
-<p>@@BLOCO2@@</p>
-</section>
 </aside>
 
 The **Werewolf** is a level 7 mob found only behind the [Honey Bee Gate](honey-bee-gate.md). Unlike other mobs, it defends three fields instead of one: the [Cactus Field](cactus-field.md), [Pine Tree Forest](pine-tree-forest.md), and the [Pumpkin Patch](pumpkin-patch.md). It spawns at the entrance of the [Werewolf's Cave](werewolf-s-cave.md), in between the Cactus Field and the Pumpkin Patch.

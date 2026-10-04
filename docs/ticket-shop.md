@@ -27,107 +27,14 @@ The price to buy a ticket goes up with the number of tickets the player has boug
 
 To calculate the price of the next ticket, the below formula can be used, where:
 
-* P
-  (
-  n
-  )
-  =
-  {\displaystyle P(n)=}
-   the price of the nth ticket the player has bought from the shop;
-* n
-  =
-  {\displaystyle n=}
-   the number of tickets the player has already bought
-
-P
-(
-n
-)
-=
-
-{
-
-100,000
-+
-1000
-
-n
-
-1.2
-,
-
-for 
-0
-≤
-n
-<
-500
-
-100,000
-+
-1000
-
-n
-
-1.7
-,
-
-for 
-500
-≤
-n
-≤
-50,000
-
-100,000,000,000
-+
-10,000,000
-(
-n
-−
-50,000
-
-)
-
-1.85
-,
-
-for 
-n
->
-50,000
-
-{\displaystyle P(n)={\begin{cases}100{,}000+1000n^{1.2},&{\text{for }}0\leq n<500\\100{,}000+1000n^{1.7},&{\text{for }}500\leq n\leq 50{,}000\\100{,}000{,}000{,}000+10{,}000{,}000(n-50{,}000)^{1.85},&{\text{for }}n>50{,}000\end{cases}}}
+* \(P(n)=\) the price of the nth ticket the player has bought from the shop;
+* \(n=\) the number of tickets the player has already bought \(P(n)={\begin{cases}100{,}000+1000n^{1.2},&{\text{for }}0\leq n<500\\100{,}000+1000n^{1.7},&{\text{for }}500\leq n\leq 50{,}000\\100{,}000{,}000{,}000+10{,}000{,}000(n-50{,}000)^{1.85},&{\text{for }}n>50{,}000\end{cases}}\)
 
 Alternatively, if less than 50,000 tickets have been bought, [this linked spreadsheet](https://docs.google.com/spreadsheets/d/1_5JP_9uZUv7PUqjL76T5orEA3MIHe4R8gLu27L8KJ-A/edit?usp=sharing) can be used to calculate the cost of a number of increments of tickets.
 
 ## Trivia
 
-* Before the [2018-11-25 update](updates.md#2018-11-25), the cost formula was 
-
-  S
-  =
-  n
-  [
-  5000
-  (
-  n
-  −
-  1
-  )
-  +
-  X
-  ]
-  {\displaystyle S=n[5000(n-1)+X]}
-  , where 
-
-  n
-  {\displaystyle n}
-   is the amount being bought and 
-
-  X
-  {\displaystyle X}
-   is the current ticket price.
+* Before the [2018-11-25 update](updates.md#2018-11-25), the cost formula was \(S=n[5000(n-1)+X]\), where \(n\) is the amount being bought and \(X\) is the current ticket price.
 * The maximum number of tickets a player can buy from the shop was increased from 50,000 to the current 100,000 in an unknown update.
 
 <table class="mw-collapsible mw-collapsed NavTable">

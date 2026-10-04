@@ -222,4 +222,3 @@ Total required for all single-purchase items: 750 **Strawberries**
 <td class="NavLinks NavLinksBasicOdd" colspan="2"><b><span typeof="mw:Error mw:File"></span> <a href="brick.html">Brick</a> • <span typeof="mw:Error mw:File"></span> <a href="cog.html">Cog</a> • <span typeof="mw:Error mw:File"></span> <a href="ticket.html">Ticket</a></b>
 </td></tr></tbody></table>
 
-zh-tw:草莓

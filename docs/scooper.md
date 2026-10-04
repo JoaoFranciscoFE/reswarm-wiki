@@ -444,4 +444,3 @@ It collects 2 [pollen](pollen.md) from 2 patches in front of it with a speed of 
 </td></tr></tbody></table>
 </td></tr></tbody></table>
 
-zh-tw:鏟子

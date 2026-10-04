@@ -15,15 +15,6 @@ tags: ["Mobs", "Pages with broken file links", "Mini Bosses"]
 <h3 class="pi-data-label pi-secondary-font">Respawns Every</h3>
 <div class="pi-data-value pi-font">96 hours (4 days), 81.6 hours (3.4 days) with Gifted Vicious Bee.</div>
 </div>
-<section class="pi-item pi-group pi-border-color">
-<p>@@BLOCO0@@</p>
-</section>
-<section class="pi-item pi-group pi-border-color">
-<p>@@BLOCO1@@</p>
-</section>
-<section class="pi-item pi-group pi-border-color">
-<p>@@BLOCO2@@</p>
-</section>
 </aside>
 
 The **Stump Snail** is a level 6 mob that occupies the [Stump Field](stump-field.md). With 30,000,000 health, it idly moves along the circumference of the field, posing no direct threat but dealing 30 damage upon contact.

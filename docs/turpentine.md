@@ -337,4 +337,3 @@ Total required for all single-purchase items: 35 **Turpentines**
 </td></tr></tbody></table>
 </td></tr></tbody></table>
 
-zh-tw:松節油

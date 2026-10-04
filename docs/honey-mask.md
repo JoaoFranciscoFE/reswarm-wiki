@@ -264,4 +264,3 @@ The following audio plays, when Coin Scatter is activated:
 </td></tr></tbody></table>
 </td></tr></tbody></table>
 
-zh-tw:蜂蜜頭罩

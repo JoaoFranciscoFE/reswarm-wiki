@@ -13,39 +13,7 @@ The **Royal Jelly Shop** is a [shop](shops.md) located on a rocky hill between t
 
 The first royal jelly the player buys will cost 250,000 honey. Each subsequent royal jelly will cost an additional 10,000 honey, eventually reaching a maximum of 1,000,000 honey per royal jelly.
 
-The formula for the price of one royal jelly is
-
-P
-(
-n
-)
-=
-
-{
-
-250,000
-+
-10,000
-n
-
-0
-≤
-n
-<
-75
-
-1,000,000
-
-n
-≥
-75
-
-{\displaystyle P(n) = \begin{cases}250{,}000+10{,}000n & 0 \leq n < 75\\1{,}000{,}000 & n \geq 75\end{cases}}
-Where 
-
-n
-{\displaystyle n}
- is the amount of royal jelly already purchased.
+The formula for the price of one royal jelly is \(P(n) = \begin{cases}250{,}000+10{,}000n & 0 \leq n < 75\\1{,}000{,}000 & n \geq 75\end{cases}\) \(n\) is the amount of royal jelly already purchased.
 
 Royal jelly can be purchased in increments of 1, 10, 100, 1,000, 10,000, 100,000, 1,000,000, 10,000,000, or 100,000,000.
 

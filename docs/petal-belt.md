@@ -261,4 +261,3 @@ The **Petal** **Belt** is a belt accessory located in the [Petal Shop](petal-sho
 </td></tr></tbody></table>
 </td></tr></tbody></table>
 
-zh-tw:花瓣腰帶

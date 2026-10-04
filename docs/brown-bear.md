@@ -89,326 +89,24 @@ Brown Bear is an infinite quest giver. His quests requires collecting pollen fro
 
 ### Scaling
 
-The amount of quests the player has to collect from a field is defined by the function 
+The amount of quests the player has to collect from a field is defined by the function \(P(x)\), where \(x\) is a hard-coded number that is different for each quest. The value of \(P(x)\) scales with the number of Brown Bear quests the player has done.
 
-P
-(
-x
-)
-{\displaystyle P(x)}
-, where 
+The function \(P(x)\) is defined as follows:
 
-x
-{\displaystyle x}
- is a hard-coded number that is different for each quest. The value of 
-
-P
-(
-x
-)
-{\displaystyle P(x)}
- scales with the number of Brown Bear quests the player has done.
-
-The function 
-
-P
-(
-x
-)
-{\displaystyle P(x)}
- is defined as follows:
-
-* Let 
-
-  c
-  n
-  t
-  {\displaystyle cnt}
-   be the number of Brown Bear quests the player has done as of claiming the quest.
+* \(cnt\) be the number of Brown Bear quests the player has done as of claiming the quest.
 * We define 3 variables:
-  * b
-    a
-    s
-    e
-    =
-
-    ⌊
-
-    2500
-    ×
-    x
-    +
-    0.5
-    100
-    ⌋
-    ×
-    100
-    {\displaystyle base=\left\lfloor {\frac {2500\times x+0.5}{100}}\right\rfloor \times 100}
-  * i
-    n
-    c
-    =
-
-    ⌊
-
-    5000
-    ×
-    x
-    +
-    0.5
-    100
-    ⌋
-    ×
-    100
-    {\displaystyle inc=\left\lfloor {\frac {5000\times x+0.5}{100}}\right\rfloor \times 100}
-  * m
-    a
-    x
-    =
-
-    ⌊
-
-    10000000000000
-    ×
-    x
-    +
-    0.5
-    100
-    ⌋
-    ×
-    100
-    {\displaystyle max=\left\lfloor {\frac {10000000000000\times x+0.5}{100}}\right\rfloor \times 100}
+  * \(base=\left\lfloor {\frac {2500\times x+0.5}{100}}\right\rfloor \times 100\)
+  * \(inc=\left\lfloor {\frac {5000\times x+0.5}{100}}\right\rfloor \times 100\)
+  * \(max=\left\lfloor {\frac {10000000000000\times x+0.5}{100}}\right\rfloor \times 100\)
 * Then, we take the following steps:
-  * b
-    a
-    s
-    e
-    P
-    o
-    l
-    l
-    e
-    n
-    =
-    b
-    a
-    s
-    e
-    +
-    c
-    n
-    t
-    ×
-    i
-    n
-    c
-    {\displaystyle basePollen=base+cnt\times inc}
-  * Let 
-
-    s
-    c
-    a
-    l
-    i
-    n
-    g
-    {\displaystyle scaling}
-     be equal to:
-    * (
-
-      c
-      n
-      t
-      1000
-      )
-
-      4
-      {\displaystyle {({\frac {cnt}{1000}})}^{4}}
-       if 
-
-      c
-      n
-      t
-      1000
-      <
-      1
-      {\displaystyle {\frac {cnt}{1000}}<1}
-    * (
-
-      c
-      n
-      t
-      1000
-      )
-
-      2
-      {\displaystyle {({\frac {cnt}{1000}})}^{2}}
-       otherwise
-  * r
-    e
-    q
-    u
-    i
-    r
-    e
-    d
-    P
-    o
-    l
-    l
-    e
-    n
-    =
-    b
-    a
-    s
-    e
-    P
-    o
-    l
-    l
-    e
-    n
-    +
-    (
-    m
-    a
-    x
-    −
-    b
-    a
-    s
-    e
-    P
-    o
-    l
-    l
-    e
-    n
-    )
-    ×
-    s
-    c
-    a
-    l
-    i
-    n
-    g
-    {\displaystyle requiredPollen=basePollen+(max-basePollen)\times scaling}
-  * i
-    n
-    t
-    e
-    r
-    v
-    a
-    l
-    =
-
-    10
-
-    max
-    (
-
-    ⌊
-
-    log
-
-    10
-    ⁡
-    (
-    r
-    e
-    q
-    u
-    i
-    r
-    e
-    d
-    P
-    o
-    l
-    l
-    e
-    n
-    )
-    ⌋
-    −
-    1
-    ,
-    1
-    )
-    {\displaystyle interval=10^{\max(\left\lfloor \log \_{10}(requiredPollen)\right\rfloor -1,1)}}
-  * r
-    o
-    u
-    n
-    d
-    e
-    d
-    P
-    o
-    l
-    l
-    e
-    n
-    =
-
-    ⌊
-
-    r
-    e
-    q
-    u
-    i
-    r
-    e
-    d
-    P
-    o
-    l
-    l
-    e
-    n
-
-    i
-    n
-    t
-    e
-    r
-    v
-    a
-    l
-    +
-    0.5
-    ⌋
-    ×
-    i
-    n
-    t
-    e
-    r
-    v
-    a
-    l
-    {\displaystyle roundedPollen=\left\lfloor {\frac {requiredPollen}{interval}}+0.5\right\rfloor \times interval}
-  * The function returns 
-
-    r
-    o
-    u
-    n
-    d
-    e
-    d
-    P
-    o
-    l
-    l
-    e
-    n
-    {\displaystyle roundedPollen}
-    .
+  * \(basePollen=base+cnt\times inc\)
+  * \(scaling\) be equal to:
+    * \({({\frac {cnt}{1000}})}^{4}\) if \({\frac {cnt}{1000}}<1\)
+    * \({({\frac {cnt}{1000}})}^{2}\) otherwise
+  * \(requiredPollen=basePollen+(max-basePollen)\times scaling\)
+  * \(interval=10^{\max(\left\lfloor \log _{10}(requiredPollen)\right\rfloor -1,1)}\)
+  * \(roundedPollen=\left\lfloor {\frac {requiredPollen}{interval}}+0.5\right\rfloor \times interval\)
+  * The function returns \(roundedPollen\).
 
 ### Possible quests
 
@@ -428,32 +126,8 @@ There are a total of 41 different quests Brown Bear can give.
 <td>0
 </td>
 <td>
-<ul><li>Collect <span class="mwe-math-element"><span class="mwe-math-mathml-inline mwe-math-mathml-a11y" style="display: none;"><math alttext="{\displaystyle P(0.3)}" xmlns="http://www.w3.org/1998/Math/MathML">
-<semantics>
-<mrow class="MJX-TeXAtom-ORD">
-<mstyle displaystyle="true" scriptlevel="0">
-<mi>P</mi>
-<mo stretchy="false">(</mo>
-<mn>0.3</mn>
-<mo stretchy="false">)</mo>
-</mstyle>
-</mrow>
-<annotation encoding="application/x-tex">{\displaystyle P(0.3)}</annotation>
-</semantics>
-</math></span></span> Pollen from Sunflower Field.</li>
-<li>Collect <span class="mwe-math-element"><span class="mwe-math-mathml-inline mwe-math-mathml-a11y" style="display: none;"><math alttext="{\displaystyle P(0.3)}" xmlns="http://www.w3.org/1998/Math/MathML">
-<semantics>
-<mrow class="MJX-TeXAtom-ORD">
-<mstyle displaystyle="true" scriptlevel="0">
-<mi>P</mi>
-<mo stretchy="false">(</mo>
-<mn>0.3</mn>
-<mo stretchy="false">)</mo>
-</mstyle>
-</mrow>
-<annotation encoding="application/x-tex">{\displaystyle P(0.3)}</annotation>
-</semantics>
-</math></span></span> Pollen from Dandelion Field.</li></ul>
+<ul><li>Collect <span class="arithmatex">\(P(0.3)\)</span> Pollen from Sunflower Field.</li>
+<li>Collect <span class="arithmatex">\(P(0.3)\)</span> Pollen from Dandelion Field.</li></ul>
 </td></tr>
 <tr>
 <td>Brown Bear: Mush-Clove
@@ -461,32 +135,8 @@ There are a total of 41 different quests Brown Bear can give.
 <td>0
 </td>
 <td>
-<ul><li>Collect <span class="mwe-math-element"><span class="mwe-math-mathml-inline mwe-math-mathml-a11y" style="display: none;"><math alttext="{\displaystyle P(0.5)}" xmlns="http://www.w3.org/1998/Math/MathML">
-<semantics>
-<mrow class="MJX-TeXAtom-ORD">
-<mstyle displaystyle="true" scriptlevel="0">
-<mi>P</mi>
-<mo stretchy="false">(</mo>
-<mn>0.5</mn>
-<mo stretchy="false">)</mo>
-</mstyle>
-</mrow>
-<annotation encoding="application/x-tex">{\displaystyle P(0.5)}</annotation>
-</semantics>
-</math></span></span> Pollen from Clover Field.</li>
-<li>Collect <span class="mwe-math-element"><span class="mwe-math-mathml-inline mwe-math-mathml-a11y" style="display: none;"><math alttext="{\displaystyle P(0.3)}" xmlns="http://www.w3.org/1998/Math/MathML">
-<semantics>
-<mrow class="MJX-TeXAtom-ORD">
-<mstyle displaystyle="true" scriptlevel="0">
-<mi>P</mi>
-<mo stretchy="false">(</mo>
-<mn>0.3</mn>
-<mo stretchy="false">)</mo>
-</mstyle>
-</mrow>
-<annotation encoding="application/x-tex">{\displaystyle P(0.3)}</annotation>
-</semantics>
-</math></span></span> Pollen from Mushroom Field.</li></ul>
+<ul><li>Collect <span class="arithmatex">\(P(0.5)\)</span> Pollen from Clover Field.</li>
+<li>Collect <span class="arithmatex">\(P(0.3)\)</span> Pollen from Mushroom Field.</li></ul>
 </td></tr>
 <tr>
 <td>Brown Bear: Bluf-Clove
@@ -494,32 +144,8 @@ There are a total of 41 different quests Brown Bear can give.
 <td>0
 </td>
 <td>
-<ul><li>Collect <span class="mwe-math-element"><span class="mwe-math-mathml-inline mwe-math-mathml-a11y" style="display: none;"><math alttext="{\displaystyle P(0.6)}" xmlns="http://www.w3.org/1998/Math/MathML">
-<semantics>
-<mrow class="MJX-TeXAtom-ORD">
-<mstyle displaystyle="true" scriptlevel="0">
-<mi>P</mi>
-<mo stretchy="false">(</mo>
-<mn>0.6</mn>
-<mo stretchy="false">)</mo>
-</mstyle>
-</mrow>
-<annotation encoding="application/x-tex">{\displaystyle P(0.6)}</annotation>
-</semantics>
-</math></span></span> Pollen from Clover Field.</li>
-<li>Collect <span class="mwe-math-element"><span class="mwe-math-mathml-inline mwe-math-mathml-a11y" style="display: none;"><math alttext="{\displaystyle P(0.3)}" xmlns="http://www.w3.org/1998/Math/MathML">
-<semantics>
-<mrow class="MJX-TeXAtom-ORD">
-<mstyle displaystyle="true" scriptlevel="0">
-<mi>P</mi>
-<mo stretchy="false">(</mo>
-<mn>0.3</mn>
-<mo stretchy="false">)</mo>
-</mstyle>
-</mrow>
-<annotation encoding="application/x-tex">{\displaystyle P(0.3)}</annotation>
-</semantics>
-</math></span></span> Pollen from Blue Flower Field.</li></ul>
+<ul><li>Collect <span class="arithmatex">\(P(0.6)\)</span> Pollen from Clover Field.</li>
+<li>Collect <span class="arithmatex">\(P(0.3)\)</span> Pollen from Blue Flower Field.</li></ul>
 </td></tr>
 <tr>
 <td>Brown Bear: White-Mush
@@ -527,32 +153,8 @@ There are a total of 41 different quests Brown Bear can give.
 <td>0
 </td>
 <td>
-<ul><li>Collect <span class="mwe-math-element"><span class="mwe-math-mathml-inline mwe-math-mathml-a11y" style="display: none;"><math alttext="{\displaystyle P(0.6)}" xmlns="http://www.w3.org/1998/Math/MathML">
-<semantics>
-<mrow class="MJX-TeXAtom-ORD">
-<mstyle displaystyle="true" scriptlevel="0">
-<mi>P</mi>
-<mo stretchy="false">(</mo>
-<mn>0.6</mn>
-<mo stretchy="false">)</mo>
-</mstyle>
-</mrow>
-<annotation encoding="application/x-tex">{\displaystyle P(0.6)}</annotation>
-</semantics>
-</math></span></span> White Pollen.</li>
-<li>Collect <span class="mwe-math-element"><span class="mwe-math-mathml-inline mwe-math-mathml-a11y" style="display: none;"><math alttext="{\displaystyle P(0.3)}" xmlns="http://www.w3.org/1998/Math/MathML">
-<semantics>
-<mrow class="MJX-TeXAtom-ORD">
-<mstyle displaystyle="true" scriptlevel="0">
-<mi>P</mi>
-<mo stretchy="false">(</mo>
-<mn>0.3</mn>
-<mo stretchy="false">)</mo>
-</mstyle>
-</mrow>
-<annotation encoding="application/x-tex">{\displaystyle P(0.3)}</annotation>
-</semantics>
-</math></span></span> Pollen from Mushroom Field.</li></ul>
+<ul><li>Collect <span class="arithmatex">\(P(0.6)\)</span> White Pollen.</li>
+<li>Collect <span class="arithmatex">\(P(0.3)\)</span> Pollen from Mushroom Field.</li></ul>
 </td></tr>
 <tr>
 <td>Brown Bear: White-Bluf
@@ -560,32 +162,8 @@ There are a total of 41 different quests Brown Bear can give.
 <td>0
 </td>
 <td>
-<ul><li>Collect <span class="mwe-math-element"><span class="mwe-math-mathml-inline mwe-math-mathml-a11y" style="display: none;"><math alttext="{\displaystyle P(0.6)}" xmlns="http://www.w3.org/1998/Math/MathML">
-<semantics>
-<mrow class="MJX-TeXAtom-ORD">
-<mstyle displaystyle="true" scriptlevel="0">
-<mi>P</mi>
-<mo stretchy="false">(</mo>
-<mn>0.6</mn>
-<mo stretchy="false">)</mo>
-</mstyle>
-</mrow>
-<annotation encoding="application/x-tex">{\displaystyle P(0.6)}</annotation>
-</semantics>
-</math></span></span> White Pollen.</li>
-<li>Collect <span class="mwe-math-element"><span class="mwe-math-mathml-inline mwe-math-mathml-a11y" style="display: none;"><math alttext="{\displaystyle P(0.3)}" xmlns="http://www.w3.org/1998/Math/MathML">
-<semantics>
-<mrow class="MJX-TeXAtom-ORD">
-<mstyle displaystyle="true" scriptlevel="0">
-<mi>P</mi>
-<mo stretchy="false">(</mo>
-<mn>0.3</mn>
-<mo stretchy="false">)</mo>
-</mstyle>
-</mrow>
-<annotation encoding="application/x-tex">{\displaystyle P(0.3)}</annotation>
-</semantics>
-</math></span></span> Pollen from Blue Flower Field.</li></ul>
+<ul><li>Collect <span class="arithmatex">\(P(0.6)\)</span> White Pollen.</li>
+<li>Collect <span class="arithmatex">\(P(0.3)\)</span> Pollen from Blue Flower Field.</li></ul>
 </td></tr>
 <tr>
 <td>Brown Bear: Solo-Clove
@@ -593,19 +171,7 @@ There are a total of 41 different quests Brown Bear can give.
 <td>15
 </td>
 <td>
-<ul><li>Collect <span class="mwe-math-element"><span class="mwe-math-mathml-inline mwe-math-mathml-a11y" style="display: none;"><math alttext="{\displaystyle P(1)}" xmlns="http://www.w3.org/1998/Math/MathML">
-<semantics>
-<mrow class="MJX-TeXAtom-ORD">
-<mstyle displaystyle="true" scriptlevel="0">
-<mi>P</mi>
-<mo stretchy="false">(</mo>
-<mn>1</mn>
-<mo stretchy="false">)</mo>
-</mstyle>
-</mrow>
-<annotation encoding="application/x-tex">{\displaystyle P(1)}</annotation>
-</semantics>
-</math></span></span> Pollen from Clover Field.</li></ul>
+<ul><li>Collect <span class="arithmatex">\(P(1)\)</span> Pollen from Clover Field.</li></ul>
 </td></tr>
 <tr>
 <td>Brown Bear: Straw-Spide
@@ -613,32 +179,8 @@ There are a total of 41 different quests Brown Bear can give.
 <td>5
 </td>
 <td>
-<ul><li>Collect <span class="mwe-math-element"><span class="mwe-math-mathml-inline mwe-math-mathml-a11y" style="display: none;"><math alttext="{\displaystyle P(0.5)}" xmlns="http://www.w3.org/1998/Math/MathML">
-<semantics>
-<mrow class="MJX-TeXAtom-ORD">
-<mstyle displaystyle="true" scriptlevel="0">
-<mi>P</mi>
-<mo stretchy="false">(</mo>
-<mn>0.5</mn>
-<mo stretchy="false">)</mo>
-</mstyle>
-</mrow>
-<annotation encoding="application/x-tex">{\displaystyle P(0.5)}</annotation>
-</semantics>
-</math></span></span> Pollen from Strawberry Field.</li>
-<li>Collect <span class="mwe-math-element"><span class="mwe-math-mathml-inline mwe-math-mathml-a11y" style="display: none;"><math alttext="{\displaystyle P(0.5)}" xmlns="http://www.w3.org/1998/Math/MathML">
-<semantics>
-<mrow class="MJX-TeXAtom-ORD">
-<mstyle displaystyle="true" scriptlevel="0">
-<mi>P</mi>
-<mo stretchy="false">(</mo>
-<mn>0.5</mn>
-<mo stretchy="false">)</mo>
-</mstyle>
-</mrow>
-<annotation encoding="application/x-tex">{\displaystyle P(0.5)}</annotation>
-</semantics>
-</math></span></span> Pollen from Spider Field.</li></ul>
+<ul><li>Collect <span class="arithmatex">\(P(0.5)\)</span> Pollen from Strawberry Field.</li>
+<li>Collect <span class="arithmatex">\(P(0.5)\)</span> Pollen from Spider Field.</li></ul>
 </td></tr>
 <tr>
 <td>Brown Bear: Bamb-Spide
@@ -646,32 +188,8 @@ There are a total of 41 different quests Brown Bear can give.
 <td>5
 </td>
 <td>
-<ul><li>Collect <span class="mwe-math-element"><span class="mwe-math-mathml-inline mwe-math-mathml-a11y" style="display: none;"><math alttext="{\displaystyle P(0.5)}" xmlns="http://www.w3.org/1998/Math/MathML">
-<semantics>
-<mrow class="MJX-TeXAtom-ORD">
-<mstyle displaystyle="true" scriptlevel="0">
-<mi>P</mi>
-<mo stretchy="false">(</mo>
-<mn>0.5</mn>
-<mo stretchy="false">)</mo>
-</mstyle>
-</mrow>
-<annotation encoding="application/x-tex">{\displaystyle P(0.5)}</annotation>
-</semantics>
-</math></span></span> Pollen from Bamboo Field.</li>
-<li>Collect <span class="mwe-math-element"><span class="mwe-math-mathml-inline mwe-math-mathml-a11y" style="display: none;"><math alttext="{\displaystyle P(0.5)}" xmlns="http://www.w3.org/1998/Math/MathML">
-<semantics>
-<mrow class="MJX-TeXAtom-ORD">
-<mstyle displaystyle="true" scriptlevel="0">
-<mi>P</mi>
-<mo stretchy="false">(</mo>
-<mn>0.5</mn>
-<mo stretchy="false">)</mo>
-</mstyle>
-</mrow>
-<annotation encoding="application/x-tex">{\displaystyle P(0.5)}</annotation>
-</semantics>
-</math></span></span> Pollen from Spider Field.</li></ul>
+<ul><li>Collect <span class="arithmatex">\(P(0.5)\)</span> Pollen from Bamboo Field.</li>
+<li>Collect <span class="arithmatex">\(P(0.5)\)</span> Pollen from Spider Field.</li></ul>
 </td></tr>
 <tr>
 <td>Brown Bear: White-Bamb-Mush
@@ -679,45 +197,9 @@ There are a total of 41 different quests Brown Bear can give.
 <td>5
 </td>
 <td>
-<ul><li>Collect <span class="mwe-math-element"><span class="mwe-math-mathml-inline mwe-math-mathml-a11y" style="display: none;"><math alttext="{\displaystyle P(0.6)}" xmlns="http://www.w3.org/1998/Math/MathML">
-<semantics>
-<mrow class="MJX-TeXAtom-ORD">
-<mstyle displaystyle="true" scriptlevel="0">
-<mi>P</mi>
-<mo stretchy="false">(</mo>
-<mn>0.6</mn>
-<mo stretchy="false">)</mo>
-</mstyle>
-</mrow>
-<annotation encoding="application/x-tex">{\displaystyle P(0.6)}</annotation>
-</semantics>
-</math></span></span> White Pollen.</li>
-<li>Collect <span class="mwe-math-element"><span class="mwe-math-mathml-inline mwe-math-mathml-a11y" style="display: none;"><math alttext="{\displaystyle P(0.4)}" xmlns="http://www.w3.org/1998/Math/MathML">
-<semantics>
-<mrow class="MJX-TeXAtom-ORD">
-<mstyle displaystyle="true" scriptlevel="0">
-<mi>P</mi>
-<mo stretchy="false">(</mo>
-<mn>0.4</mn>
-<mo stretchy="false">)</mo>
-</mstyle>
-</mrow>
-<annotation encoding="application/x-tex">{\displaystyle P(0.4)}</annotation>
-</semantics>
-</math></span></span> Pollen from Bamboo Field.</li>
-<li>Collect <span class="mwe-math-element"><span class="mwe-math-mathml-inline mwe-math-mathml-a11y" style="display: none;"><math alttext="{\displaystyle P(0.3)}" xmlns="http://www.w3.org/1998/Math/MathML">
-<semantics>
-<mrow class="MJX-TeXAtom-ORD">
-<mstyle displaystyle="true" scriptlevel="0">
-<mi>P</mi>
-<mo stretchy="false">(</mo>
-<mn>0.3</mn>
-<mo stretchy="false">)</mo>
-</mstyle>
-</mrow>
-<annotation encoding="application/x-tex">{\displaystyle P(0.3)}</annotation>
-</semantics>
-</math></span></span> Pollen from Mushroom Field.</li></ul>
+<ul><li>Collect <span class="arithmatex">\(P(0.6)\)</span> White Pollen.</li>
+<li>Collect <span class="arithmatex">\(P(0.4)\)</span> Pollen from Bamboo Field.</li>
+<li>Collect <span class="arithmatex">\(P(0.3)\)</span> Pollen from Mushroom Field.</li></ul>
 </td></tr>
 <tr>
 <td>Brown Bear: Red-Straw-Sun
@@ -725,45 +207,9 @@ There are a total of 41 different quests Brown Bear can give.
 <td>5
 </td>
 <td>
-<ul><li>Collect <span class="mwe-math-element"><span class="mwe-math-mathml-inline mwe-math-mathml-a11y" style="display: none;"><math alttext="{\displaystyle P(0.6)}" xmlns="http://www.w3.org/1998/Math/MathML">
-<semantics>
-<mrow class="MJX-TeXAtom-ORD">
-<mstyle displaystyle="true" scriptlevel="0">
-<mi>P</mi>
-<mo stretchy="false">(</mo>
-<mn>0.6</mn>
-<mo stretchy="false">)</mo>
-</mstyle>
-</mrow>
-<annotation encoding="application/x-tex">{\displaystyle P(0.6)}</annotation>
-</semantics>
-</math></span></span> Red Pollen.</li>
-<li>Collect <span class="mwe-math-element"><span class="mwe-math-mathml-inline mwe-math-mathml-a11y" style="display: none;"><math alttext="{\displaystyle P(0.3)}" xmlns="http://www.w3.org/1998/Math/MathML">
-<semantics>
-<mrow class="MJX-TeXAtom-ORD">
-<mstyle displaystyle="true" scriptlevel="0">
-<mi>P</mi>
-<mo stretchy="false">(</mo>
-<mn>0.3</mn>
-<mo stretchy="false">)</mo>
-</mstyle>
-</mrow>
-<annotation encoding="application/x-tex">{\displaystyle P(0.3)}</annotation>
-</semantics>
-</math></span></span> Pollen from Strawberry Field.</li>
-<li>Collect <span class="mwe-math-element"><span class="mwe-math-mathml-inline mwe-math-mathml-a11y" style="display: none;"><math alttext="{\displaystyle P(0.2)}" xmlns="http://www.w3.org/1998/Math/MathML">
-<semantics>
-<mrow class="MJX-TeXAtom-ORD">
-<mstyle displaystyle="true" scriptlevel="0">
-<mi>P</mi>
-<mo stretchy="false">(</mo>
-<mn>0.2</mn>
-<mo stretchy="false">)</mo>
-</mstyle>
-</mrow>
-<annotation encoding="application/x-tex">{\displaystyle P(0.2)}</annotation>
-</semantics>
-</math></span></span> Pollen from Sunflower Field.</li></ul>
+<ul><li>Collect <span class="arithmatex">\(P(0.6)\)</span> Red Pollen.</li>
+<li>Collect <span class="arithmatex">\(P(0.3)\)</span> Pollen from Strawberry Field.</li>
+<li>Collect <span class="arithmatex">\(P(0.2)\)</span> Pollen from Sunflower Field.</li></ul>
 </td></tr>
 <tr>
 <td>Brown Bear: Blue-Clov-Spide
@@ -771,45 +217,9 @@ There are a total of 41 different quests Brown Bear can give.
 <td>5
 </td>
 <td>
-<ul><li>Collect <span class="mwe-math-element"><span class="mwe-math-mathml-inline mwe-math-mathml-a11y" style="display: none;"><math alttext="{\displaystyle P(0.6)}" xmlns="http://www.w3.org/1998/Math/MathML">
-<semantics>
-<mrow class="MJX-TeXAtom-ORD">
-<mstyle displaystyle="true" scriptlevel="0">
-<mi>P</mi>
-<mo stretchy="false">(</mo>
-<mn>0.6</mn>
-<mo stretchy="false">)</mo>
-</mstyle>
-</mrow>
-<annotation encoding="application/x-tex">{\displaystyle P(0.6)}</annotation>
-</semantics>
-</math></span></span> Blue Pollen.</li>
-<li>Collect <span class="mwe-math-element"><span class="mwe-math-mathml-inline mwe-math-mathml-a11y" style="display: none;"><math alttext="{\displaystyle P(0.3)}" xmlns="http://www.w3.org/1998/Math/MathML">
-<semantics>
-<mrow class="MJX-TeXAtom-ORD">
-<mstyle displaystyle="true" scriptlevel="0">
-<mi>P</mi>
-<mo stretchy="false">(</mo>
-<mn>0.3</mn>
-<mo stretchy="false">)</mo>
-</mstyle>
-</mrow>
-<annotation encoding="application/x-tex">{\displaystyle P(0.3)}</annotation>
-</semantics>
-</math></span></span> Pollen from Clover Field.</li>
-<li>Collect <span class="mwe-math-element"><span class="mwe-math-mathml-inline mwe-math-mathml-a11y" style="display: none;"><math alttext="{\displaystyle P(0.2)}" xmlns="http://www.w3.org/1998/Math/MathML">
-<semantics>
-<mrow class="MJX-TeXAtom-ORD">
-<mstyle displaystyle="true" scriptlevel="0">
-<mi>P</mi>
-<mo stretchy="false">(</mo>
-<mn>0.2</mn>
-<mo stretchy="false">)</mo>
-</mstyle>
-</mrow>
-<annotation encoding="application/x-tex">{\displaystyle P(0.2)}</annotation>
-</semantics>
-</math></span></span> Pollen from Spider Field.</li></ul>
+<ul><li>Collect <span class="arithmatex">\(P(0.6)\)</span> Blue Pollen.</li>
+<li>Collect <span class="arithmatex">\(P(0.3)\)</span> Pollen from Clover Field.</li>
+<li>Collect <span class="arithmatex">\(P(0.2)\)</span> Pollen from Spider Field.</li></ul>
 </td></tr>
 <tr>
 <td>Brown Bear: Solo-Spide
@@ -817,19 +227,7 @@ There are a total of 41 different quests Brown Bear can give.
 <td>5
 </td>
 <td>
-<ul><li>Collect <span class="mwe-math-element"><span class="mwe-math-mathml-inline mwe-math-mathml-a11y" style="display: none;"><math alttext="{\displaystyle P(1.1)}" xmlns="http://www.w3.org/1998/Math/MathML">
-<semantics>
-<mrow class="MJX-TeXAtom-ORD">
-<mstyle displaystyle="true" scriptlevel="0">
-<mi>P</mi>
-<mo stretchy="false">(</mo>
-<mn>1.1</mn>
-<mo stretchy="false">)</mo>
-</mstyle>
-</mrow>
-<annotation encoding="application/x-tex">{\displaystyle P(1.1)}</annotation>
-</semantics>
-</math></span></span> Pollen from Spider Field.</li></ul>
+<ul><li>Collect <span class="arithmatex">\(P(1.1)\)</span> Pollen from Spider Field.</li></ul>
 </td></tr>
 <tr>
 <td>Brown Bear: Solo-Straw
@@ -837,19 +235,7 @@ There are a total of 41 different quests Brown Bear can give.
 <td>5
 </td>
 <td>
-<ul><li>Collect <span class="mwe-math-element"><span class="mwe-math-mathml-inline mwe-math-mathml-a11y" style="display: none;"><math alttext="{\displaystyle P(1.1)}" xmlns="http://www.w3.org/1998/Math/MathML">
-<semantics>
-<mrow class="MJX-TeXAtom-ORD">
-<mstyle displaystyle="true" scriptlevel="0">
-<mi>P</mi>
-<mo stretchy="false">(</mo>
-<mn>1.1</mn>
-<mo stretchy="false">)</mo>
-</mstyle>
-</mrow>
-<annotation encoding="application/x-tex">{\displaystyle P(1.1)}</annotation>
-</semantics>
-</math></span></span> Pollen from Strawberry Field.</li></ul>
+<ul><li>Collect <span class="arithmatex">\(P(1.1)\)</span> Pollen from Strawberry Field.</li></ul>
 </td></tr>
 <tr>
 <td>Brown Bear: Solo-Bamb
@@ -857,19 +243,7 @@ There are a total of 41 different quests Brown Bear can give.
 <td>5
 </td>
 <td>
-<ul><li>Collect <span class="mwe-math-element"><span class="mwe-math-mathml-inline mwe-math-mathml-a11y" style="display: none;"><math alttext="{\displaystyle P(1.1)}" xmlns="http://www.w3.org/1998/Math/MathML">
-<semantics>
-<mrow class="MJX-TeXAtom-ORD">
-<mstyle displaystyle="true" scriptlevel="0">
-<mi>P</mi>
-<mo stretchy="false">(</mo>
-<mn>1.1</mn>
-<mo stretchy="false">)</mo>
-</mstyle>
-</mrow>
-<annotation encoding="application/x-tex">{\displaystyle P(1.1)}</annotation>
-</semantics>
-</math></span></span> Pollen from Bamboo Field.</li></ul>
+<ul><li>Collect <span class="arithmatex">\(P(1.1)\)</span> Pollen from Bamboo Field.</li></ul>
 </td></tr>
 <tr>
 <td>Brown Bear: Blue-Pinap-Clov
@@ -877,45 +251,9 @@ There are a total of 41 different quests Brown Bear can give.
 <td>10
 </td>
 <td>
-<ul><li>Collect <span class="mwe-math-element"><span class="mwe-math-mathml-inline mwe-math-mathml-a11y" style="display: none;"><math alttext="{\displaystyle P(0.8)}" xmlns="http://www.w3.org/1998/Math/MathML">
-<semantics>
-<mrow class="MJX-TeXAtom-ORD">
-<mstyle displaystyle="true" scriptlevel="0">
-<mi>P</mi>
-<mo stretchy="false">(</mo>
-<mn>0.8</mn>
-<mo stretchy="false">)</mo>
-</mstyle>
-</mrow>
-<annotation encoding="application/x-tex">{\displaystyle P(0.8)}</annotation>
-</semantics>
-</math></span></span> Blue Pollen.</li>
-<li>Collect <span class="mwe-math-element"><span class="mwe-math-mathml-inline mwe-math-mathml-a11y" style="display: none;"><math alttext="{\displaystyle P(0.6)}" xmlns="http://www.w3.org/1998/Math/MathML">
-<semantics>
-<mrow class="MJX-TeXAtom-ORD">
-<mstyle displaystyle="true" scriptlevel="0">
-<mi>P</mi>
-<mo stretchy="false">(</mo>
-<mn>0.6</mn>
-<mo stretchy="false">)</mo>
-</mstyle>
-</mrow>
-<annotation encoding="application/x-tex">{\displaystyle P(0.6)}</annotation>
-</semantics>
-</math></span></span> Pollen from Pineapple Patch.</li>
-<li>Collect <span class="mwe-math-element"><span class="mwe-math-mathml-inline mwe-math-mathml-a11y" style="display: none;"><math alttext="{\displaystyle P(0.3)}" xmlns="http://www.w3.org/1998/Math/MathML">
-<semantics>
-<mrow class="MJX-TeXAtom-ORD">
-<mstyle displaystyle="true" scriptlevel="0">
-<mi>P</mi>
-<mo stretchy="false">(</mo>
-<mn>0.3</mn>
-<mo stretchy="false">)</mo>
-</mstyle>
-</mrow>
-<annotation encoding="application/x-tex">{\displaystyle P(0.3)}</annotation>
-</semantics>
-</math></span></span> Pollen from Clover Field.</li></ul>
+<ul><li>Collect <span class="arithmatex">\(P(0.8)\)</span> Blue Pollen.</li>
+<li>Collect <span class="arithmatex">\(P(0.6)\)</span> Pollen from Pineapple Patch.</li>
+<li>Collect <span class="arithmatex">\(P(0.3)\)</span> Pollen from Clover Field.</li></ul>
 </td></tr>
 <tr>
 <td>Brown Bear: Red-Pinap-Dand
@@ -923,45 +261,9 @@ There are a total of 41 different quests Brown Bear can give.
 <td>10
 </td>
 <td>
-<ul><li>Collect <span class="mwe-math-element"><span class="mwe-math-mathml-inline mwe-math-mathml-a11y" style="display: none;"><math alttext="{\displaystyle P(0.8)}" xmlns="http://www.w3.org/1998/Math/MathML">
-<semantics>
-<mrow class="MJX-TeXAtom-ORD">
-<mstyle displaystyle="true" scriptlevel="0">
-<mi>P</mi>
-<mo stretchy="false">(</mo>
-<mn>0.8</mn>
-<mo stretchy="false">)</mo>
-</mstyle>
-</mrow>
-<annotation encoding="application/x-tex">{\displaystyle P(0.8)}</annotation>
-</semantics>
-</math></span></span> Red Pollen.</li>
-<li>Collect <span class="mwe-math-element"><span class="mwe-math-mathml-inline mwe-math-mathml-a11y" style="display: none;"><math alttext="{\displaystyle P(0.6)}" xmlns="http://www.w3.org/1998/Math/MathML">
-<semantics>
-<mrow class="MJX-TeXAtom-ORD">
-<mstyle displaystyle="true" scriptlevel="0">
-<mi>P</mi>
-<mo stretchy="false">(</mo>
-<mn>0.6</mn>
-<mo stretchy="false">)</mo>
-</mstyle>
-</mrow>
-<annotation encoding="application/x-tex">{\displaystyle P(0.6)}</annotation>
-</semantics>
-</math></span></span> Pollen from Pineapple Patch.</li>
-<li>Collect <span class="mwe-math-element"><span class="mwe-math-mathml-inline mwe-math-mathml-a11y" style="display: none;"><math alttext="{\displaystyle P(0.2)}" xmlns="http://www.w3.org/1998/Math/MathML">
-<semantics>
-<mrow class="MJX-TeXAtom-ORD">
-<mstyle displaystyle="true" scriptlevel="0">
-<mi>P</mi>
-<mo stretchy="false">(</mo>
-<mn>0.2</mn>
-<mo stretchy="false">)</mo>
-</mstyle>
-</mrow>
-<annotation encoding="application/x-tex">{\displaystyle P(0.2)}</annotation>
-</semantics>
-</math></span></span> Pollen from Dandelion Field.</li></ul>
+<ul><li>Collect <span class="arithmatex">\(P(0.8)\)</span> Red Pollen.</li>
+<li>Collect <span class="arithmatex">\(P(0.6)\)</span> Pollen from Pineapple Patch.</li>
+<li>Collect <span class="arithmatex">\(P(0.2)\)</span> Pollen from Dandelion Field.</li></ul>
 </td></tr>
 <tr>
 <td>Brown Bear: Pinap-Bamb
@@ -969,32 +271,8 @@ There are a total of 41 different quests Brown Bear can give.
 <td>10
 </td>
 <td>
-<ul><li>Collect <span class="mwe-math-element"><span class="mwe-math-mathml-inline mwe-math-mathml-a11y" style="display: none;"><math alttext="{\displaystyle P(0.6)}" xmlns="http://www.w3.org/1998/Math/MathML">
-<semantics>
-<mrow class="MJX-TeXAtom-ORD">
-<mstyle displaystyle="true" scriptlevel="0">
-<mi>P</mi>
-<mo stretchy="false">(</mo>
-<mn>0.6</mn>
-<mo stretchy="false">)</mo>
-</mstyle>
-</mrow>
-<annotation encoding="application/x-tex">{\displaystyle P(0.6)}</annotation>
-</semantics>
-</math></span></span> Pollen from Pineapple Patch.</li>
-<li>Collect <span class="mwe-math-element"><span class="mwe-math-mathml-inline mwe-math-mathml-a11y" style="display: none;"><math alttext="{\displaystyle P(0.5)}" xmlns="http://www.w3.org/1998/Math/MathML">
-<semantics>
-<mrow class="MJX-TeXAtom-ORD">
-<mstyle displaystyle="true" scriptlevel="0">
-<mi>P</mi>
-<mo stretchy="false">(</mo>
-<mn>0.5</mn>
-<mo stretchy="false">)</mo>
-</mstyle>
-</mrow>
-<annotation encoding="application/x-tex">{\displaystyle P(0.5)}</annotation>
-</semantics>
-</math></span></span> Pollen from Bamboo Field.</li></ul>
+<ul><li>Collect <span class="arithmatex">\(P(0.6)\)</span> Pollen from Pineapple Patch.</li>
+<li>Collect <span class="arithmatex">\(P(0.5)\)</span> Pollen from Bamboo Field.</li></ul>
 </td></tr>
 <tr>
 <td>Brown Bear: Pinap-Straw
@@ -1002,32 +280,8 @@ There are a total of 41 different quests Brown Bear can give.
 <td>10
 </td>
 <td>
-<ul><li>Collect <span class="mwe-math-element"><span class="mwe-math-mathml-inline mwe-math-mathml-a11y" style="display: none;"><math alttext="{\displaystyle P(0.6)}" xmlns="http://www.w3.org/1998/Math/MathML">
-<semantics>
-<mrow class="MJX-TeXAtom-ORD">
-<mstyle displaystyle="true" scriptlevel="0">
-<mi>P</mi>
-<mo stretchy="false">(</mo>
-<mn>0.6</mn>
-<mo stretchy="false">)</mo>
-</mstyle>
-</mrow>
-<annotation encoding="application/x-tex">{\displaystyle P(0.6)}</annotation>
-</semantics>
-</math></span></span> Pollen from Pineapple Patch.</li>
-<li>Collect <span class="mwe-math-element"><span class="mwe-math-mathml-inline mwe-math-mathml-a11y" style="display: none;"><math alttext="{\displaystyle P(0.5)}" xmlns="http://www.w3.org/1998/Math/MathML">
-<semantics>
-<mrow class="MJX-TeXAtom-ORD">
-<mstyle displaystyle="true" scriptlevel="0">
-<mi>P</mi>
-<mo stretchy="false">(</mo>
-<mn>0.5</mn>
-<mo stretchy="false">)</mo>
-</mstyle>
-</mrow>
-<annotation encoding="application/x-tex">{\displaystyle P(0.5)}</annotation>
-</semantics>
-</math></span></span> Pollen from Strawberry Field.</li></ul>
+<ul><li>Collect <span class="arithmatex">\(P(0.6)\)</span> Pollen from Pineapple Patch.</li>
+<li>Collect <span class="arithmatex">\(P(0.5)\)</span> Pollen from Strawberry Field.</li></ul>
 </td></tr>
 <tr>
 <td>Brown Bear: Solo-Cact
@@ -1035,19 +289,7 @@ There are a total of 41 different quests Brown Bear can give.
 <td>15
 </td>
 <td>
-<ul><li>Collect <span class="mwe-math-element"><span class="mwe-math-mathml-inline mwe-math-mathml-a11y" style="display: none;"><math alttext="{\displaystyle P(1.1)}" xmlns="http://www.w3.org/1998/Math/MathML">
-<semantics>
-<mrow class="MJX-TeXAtom-ORD">
-<mstyle displaystyle="true" scriptlevel="0">
-<mi>P</mi>
-<mo stretchy="false">(</mo>
-<mn>1.1</mn>
-<mo stretchy="false">)</mo>
-</mstyle>
-</mrow>
-<annotation encoding="application/x-tex">{\displaystyle P(1.1)}</annotation>
-</semantics>
-</math></span></span> Pollen from Cactus Field.</li></ul>
+<ul><li>Collect <span class="arithmatex">\(P(1.1)\)</span> Pollen from Cactus Field.</li></ul>
 </td></tr>
 <tr>
 <td>Brown Bear: White-Cact-Sun
@@ -1055,45 +297,9 @@ There are a total of 41 different quests Brown Bear can give.
 <td>15
 </td>
 <td>
-<ul><li>Collect <span class="mwe-math-element"><span class="mwe-math-mathml-inline mwe-math-mathml-a11y" style="display: none;"><math alttext="{\displaystyle P(0.8)}" xmlns="http://www.w3.org/1998/Math/MathML">
-<semantics>
-<mrow class="MJX-TeXAtom-ORD">
-<mstyle displaystyle="true" scriptlevel="0">
-<mi>P</mi>
-<mo stretchy="false">(</mo>
-<mn>0.8</mn>
-<mo stretchy="false">)</mo>
-</mstyle>
-</mrow>
-<annotation encoding="application/x-tex">{\displaystyle P(0.8)}</annotation>
-</semantics>
-</math></span></span> White Pollen.</li>
-<li>Collect <span class="mwe-math-element"><span class="mwe-math-mathml-inline mwe-math-mathml-a11y" style="display: none;"><math alttext="{\displaystyle P(0.6)}" xmlns="http://www.w3.org/1998/Math/MathML">
-<semantics>
-<mrow class="MJX-TeXAtom-ORD">
-<mstyle displaystyle="true" scriptlevel="0">
-<mi>P</mi>
-<mo stretchy="false">(</mo>
-<mn>0.6</mn>
-<mo stretchy="false">)</mo>
-</mstyle>
-</mrow>
-<annotation encoding="application/x-tex">{\displaystyle P(0.6)}</annotation>
-</semantics>
-</math></span></span> Pollen from Cactus Field.</li>
-<li>Collect <span class="mwe-math-element"><span class="mwe-math-mathml-inline mwe-math-mathml-a11y" style="display: none;"><math alttext="{\displaystyle P(0.3)}" xmlns="http://www.w3.org/1998/Math/MathML">
-<semantics>
-<mrow class="MJX-TeXAtom-ORD">
-<mstyle displaystyle="true" scriptlevel="0">
-<mi>P</mi>
-<mo stretchy="false">(</mo>
-<mn>0.3</mn>
-<mo stretchy="false">)</mo>
-</mstyle>
-</mrow>
-<annotation encoding="application/x-tex">{\displaystyle P(0.3)}</annotation>
-</semantics>
-</math></span></span> Pollen from Sunflower Field.</li></ul>
+<ul><li>Collect <span class="arithmatex">\(P(0.8)\)</span> White Pollen.</li>
+<li>Collect <span class="arithmatex">\(P(0.6)\)</span> Pollen from Cactus Field.</li>
+<li>Collect <span class="arithmatex">\(P(0.3)\)</span> Pollen from Sunflower Field.</li></ul>
 </td></tr>
 <tr>
 <td>Brown Bear: Blue-Pump-Bluf
@@ -1101,45 +307,9 @@ There are a total of 41 different quests Brown Bear can give.
 <td>15
 </td>
 <td>
-<ul><li>Collect <span class="mwe-math-element"><span class="mwe-math-mathml-inline mwe-math-mathml-a11y" style="display: none;"><math alttext="{\displaystyle P(0.8)}" xmlns="http://www.w3.org/1998/Math/MathML">
-<semantics>
-<mrow class="MJX-TeXAtom-ORD">
-<mstyle displaystyle="true" scriptlevel="0">
-<mi>P</mi>
-<mo stretchy="false">(</mo>
-<mn>0.8</mn>
-<mo stretchy="false">)</mo>
-</mstyle>
-</mrow>
-<annotation encoding="application/x-tex">{\displaystyle P(0.8)}</annotation>
-</semantics>
-</math></span></span> Blue Pollen.</li>
-<li>Collect <span class="mwe-math-element"><span class="mwe-math-mathml-inline mwe-math-mathml-a11y" style="display: none;"><math alttext="{\displaystyle P(0.6)}" xmlns="http://www.w3.org/1998/Math/MathML">
-<semantics>
-<mrow class="MJX-TeXAtom-ORD">
-<mstyle displaystyle="true" scriptlevel="0">
-<mi>P</mi>
-<mo stretchy="false">(</mo>
-<mn>0.6</mn>
-<mo stretchy="false">)</mo>
-</mstyle>
-</mrow>
-<annotation encoding="application/x-tex">{\displaystyle P(0.6)}</annotation>
-</semantics>
-</math></span></span> Pollen from Pumpkin Patch.</li>
-<li>Collect <span class="mwe-math-element"><span class="mwe-math-mathml-inline mwe-math-mathml-a11y" style="display: none;"><math alttext="{\displaystyle P(0.3)}" xmlns="http://www.w3.org/1998/Math/MathML">
-<semantics>
-<mrow class="MJX-TeXAtom-ORD">
-<mstyle displaystyle="true" scriptlevel="0">
-<mi>P</mi>
-<mo stretchy="false">(</mo>
-<mn>0.3</mn>
-<mo stretchy="false">)</mo>
-</mstyle>
-</mrow>
-<annotation encoding="application/x-tex">{\displaystyle P(0.3)}</annotation>
-</semantics>
-</math></span></span> Pollen from Blue Flower Field.</li></ul>
+<ul><li>Collect <span class="arithmatex">\(P(0.8)\)</span> Blue Pollen.</li>
+<li>Collect <span class="arithmatex">\(P(0.6)\)</span> Pollen from Pumpkin Patch.</li>
+<li>Collect <span class="arithmatex">\(P(0.3)\)</span> Pollen from Blue Flower Field.</li></ul>
 </td></tr>
 <tr>
 <td>Brown Bear: Red-Cact-Rose
@@ -1147,45 +317,9 @@ There are a total of 41 different quests Brown Bear can give.
 <td>15
 </td>
 <td>
-<ul><li>Collect <span class="mwe-math-element"><span class="mwe-math-mathml-inline mwe-math-mathml-a11y" style="display: none;"><math alttext="{\displaystyle P(0.8)}" xmlns="http://www.w3.org/1998/Math/MathML">
-<semantics>
-<mrow class="MJX-TeXAtom-ORD">
-<mstyle displaystyle="true" scriptlevel="0">
-<mi>P</mi>
-<mo stretchy="false">(</mo>
-<mn>0.8</mn>
-<mo stretchy="false">)</mo>
-</mstyle>
-</mrow>
-<annotation encoding="application/x-tex">{\displaystyle P(0.8)}</annotation>
-</semantics>
-</math></span></span> Red Pollen.</li>
-<li>Collect <span class="mwe-math-element"><span class="mwe-math-mathml-inline mwe-math-mathml-a11y" style="display: none;"><math alttext="{\displaystyle P(0.5)}" xmlns="http://www.w3.org/1998/Math/MathML">
-<semantics>
-<mrow class="MJX-TeXAtom-ORD">
-<mstyle displaystyle="true" scriptlevel="0">
-<mi>P</mi>
-<mo stretchy="false">(</mo>
-<mn>0.5</mn>
-<mo stretchy="false">)</mo>
-</mstyle>
-</mrow>
-<annotation encoding="application/x-tex">{\displaystyle P(0.5)}</annotation>
-</semantics>
-</math></span></span> Pollen from Cactus Field.</li>
-<li>Collect <span class="mwe-math-element"><span class="mwe-math-mathml-inline mwe-math-mathml-a11y" style="display: none;"><math alttext="{\displaystyle P(0.5)}" xmlns="http://www.w3.org/1998/Math/MathML">
-<semantics>
-<mrow class="MJX-TeXAtom-ORD">
-<mstyle displaystyle="true" scriptlevel="0">
-<mi>P</mi>
-<mo stretchy="false">(</mo>
-<mn>0.5</mn>
-<mo stretchy="false">)</mo>
-</mstyle>
-</mrow>
-<annotation encoding="application/x-tex">{\displaystyle P(0.5)}</annotation>
-</semantics>
-</math></span></span> Pollen from Rose Field.</li></ul>
+<ul><li>Collect <span class="arithmatex">\(P(0.8)\)</span> Red Pollen.</li>
+<li>Collect <span class="arithmatex">\(P(0.5)\)</span> Pollen from Cactus Field.</li>
+<li>Collect <span class="arithmatex">\(P(0.5)\)</span> Pollen from Rose Field.</li></ul>
 </td></tr>
 <tr>
 <td>Brown Bear: Blue-Pine-Mush
@@ -1193,45 +327,9 @@ There are a total of 41 different quests Brown Bear can give.
 <td>15
 </td>
 <td>
-<ul><li>Collect <span class="mwe-math-element"><span class="mwe-math-mathml-inline mwe-math-mathml-a11y" style="display: none;"><math alttext="{\displaystyle P(0.8)}" xmlns="http://www.w3.org/1998/Math/MathML">
-<semantics>
-<mrow class="MJX-TeXAtom-ORD">
-<mstyle displaystyle="true" scriptlevel="0">
-<mi>P</mi>
-<mo stretchy="false">(</mo>
-<mn>0.8</mn>
-<mo stretchy="false">)</mo>
-</mstyle>
-</mrow>
-<annotation encoding="application/x-tex">{\displaystyle P(0.8)}</annotation>
-</semantics>
-</math></span></span> Blue Pollen.</li>
-<li>Collect <span class="mwe-math-element"><span class="mwe-math-mathml-inline mwe-math-mathml-a11y" style="display: none;"><math alttext="{\displaystyle P(0.6)}" xmlns="http://www.w3.org/1998/Math/MathML">
-<semantics>
-<mrow class="MJX-TeXAtom-ORD">
-<mstyle displaystyle="true" scriptlevel="0">
-<mi>P</mi>
-<mo stretchy="false">(</mo>
-<mn>0.6</mn>
-<mo stretchy="false">)</mo>
-</mstyle>
-</mrow>
-<annotation encoding="application/x-tex">{\displaystyle P(0.6)}</annotation>
-</semantics>
-</math></span></span> Pollen from Pine Tree Forest.</li>
-<li>Collect <span class="mwe-math-element"><span class="mwe-math-mathml-inline mwe-math-mathml-a11y" style="display: none;"><math alttext="{\displaystyle P(0.4)}" xmlns="http://www.w3.org/1998/Math/MathML">
-<semantics>
-<mrow class="MJX-TeXAtom-ORD">
-<mstyle displaystyle="true" scriptlevel="0">
-<mi>P</mi>
-<mo stretchy="false">(</mo>
-<mn>0.4</mn>
-<mo stretchy="false">)</mo>
-</mstyle>
-</mrow>
-<annotation encoding="application/x-tex">{\displaystyle P(0.4)}</annotation>
-</semantics>
-</math></span></span> Pollen from Mushroom Field.</li></ul>
+<ul><li>Collect <span class="arithmatex">\(P(0.8)\)</span> Blue Pollen.</li>
+<li>Collect <span class="arithmatex">\(P(0.6)\)</span> Pollen from Pine Tree Forest.</li>
+<li>Collect <span class="arithmatex">\(P(0.4)\)</span> Pollen from Mushroom Field.</li></ul>
 </td></tr>
 <tr>
 <td>Brown Bear: White-Pine-Straw
@@ -1239,45 +337,9 @@ There are a total of 41 different quests Brown Bear can give.
 <td>15
 </td>
 <td>
-<ul><li>Collect <span class="mwe-math-element"><span class="mwe-math-mathml-inline mwe-math-mathml-a11y" style="display: none;"><math alttext="{\displaystyle P(0.8)}" xmlns="http://www.w3.org/1998/Math/MathML">
-<semantics>
-<mrow class="MJX-TeXAtom-ORD">
-<mstyle displaystyle="true" scriptlevel="0">
-<mi>P</mi>
-<mo stretchy="false">(</mo>
-<mn>0.8</mn>
-<mo stretchy="false">)</mo>
-</mstyle>
-</mrow>
-<annotation encoding="application/x-tex">{\displaystyle P(0.8)}</annotation>
-</semantics>
-</math></span></span> White Pollen.</li>
-<li>Collect <span class="mwe-math-element"><span class="mwe-math-mathml-inline mwe-math-mathml-a11y" style="display: none;"><math alttext="{\displaystyle P(0.6)}" xmlns="http://www.w3.org/1998/Math/MathML">
-<semantics>
-<mrow class="MJX-TeXAtom-ORD">
-<mstyle displaystyle="true" scriptlevel="0">
-<mi>P</mi>
-<mo stretchy="false">(</mo>
-<mn>0.6</mn>
-<mo stretchy="false">)</mo>
-</mstyle>
-</mrow>
-<annotation encoding="application/x-tex">{\displaystyle P(0.6)}</annotation>
-</semantics>
-</math></span></span> Pollen from Pine Tree Forest.</li>
-<li>Collect <span class="mwe-math-element"><span class="mwe-math-mathml-inline mwe-math-mathml-a11y" style="display: none;"><math alttext="{\displaystyle P(0.4)}" xmlns="http://www.w3.org/1998/Math/MathML">
-<semantics>
-<mrow class="MJX-TeXAtom-ORD">
-<mstyle displaystyle="true" scriptlevel="0">
-<mi>P</mi>
-<mo stretchy="false">(</mo>
-<mn>0.4</mn>
-<mo stretchy="false">)</mo>
-</mstyle>
-</mrow>
-<annotation encoding="application/x-tex">{\displaystyle P(0.4)}</annotation>
-</semantics>
-</math></span></span> Pollen from Strawberry Field.</li></ul>
+<ul><li>Collect <span class="arithmatex">\(P(0.8)\)</span> White Pollen.</li>
+<li>Collect <span class="arithmatex">\(P(0.6)\)</span> Pollen from Pine Tree Forest.</li>
+<li>Collect <span class="arithmatex">\(P(0.4)\)</span> Pollen from Strawberry Field.</li></ul>
 </td></tr>
 <tr>
 <td>Brown Bear: White-Rose-Bamb
@@ -1285,45 +347,9 @@ There are a total of 41 different quests Brown Bear can give.
 <td>15
 </td>
 <td>
-<ul><li>Collect <span class="mwe-math-element"><span class="mwe-math-mathml-inline mwe-math-mathml-a11y" style="display: none;"><math alttext="{\displaystyle P(0.8)}" xmlns="http://www.w3.org/1998/Math/MathML">
-<semantics>
-<mrow class="MJX-TeXAtom-ORD">
-<mstyle displaystyle="true" scriptlevel="0">
-<mi>P</mi>
-<mo stretchy="false">(</mo>
-<mn>0.8</mn>
-<mo stretchy="false">)</mo>
-</mstyle>
-</mrow>
-<annotation encoding="application/x-tex">{\displaystyle P(0.8)}</annotation>
-</semantics>
-</math></span></span> White Pollen.</li>
-<li>Collect <span class="mwe-math-element"><span class="mwe-math-mathml-inline mwe-math-mathml-a11y" style="display: none;"><math alttext="{\displaystyle P(0.6)}" xmlns="http://www.w3.org/1998/Math/MathML">
-<semantics>
-<mrow class="MJX-TeXAtom-ORD">
-<mstyle displaystyle="true" scriptlevel="0">
-<mi>P</mi>
-<mo stretchy="false">(</mo>
-<mn>0.6</mn>
-<mo stretchy="false">)</mo>
-</mstyle>
-</mrow>
-<annotation encoding="application/x-tex">{\displaystyle P(0.6)}</annotation>
-</semantics>
-</math></span></span> Pollen from Rose Field.</li>
-<li>Collect <span class="mwe-math-element"><span class="mwe-math-mathml-inline mwe-math-mathml-a11y" style="display: none;"><math alttext="{\displaystyle P(0.4)}" xmlns="http://www.w3.org/1998/Math/MathML">
-<semantics>
-<mrow class="MJX-TeXAtom-ORD">
-<mstyle displaystyle="true" scriptlevel="0">
-<mi>P</mi>
-<mo stretchy="false">(</mo>
-<mn>0.4</mn>
-<mo stretchy="false">)</mo>
-</mstyle>
-</mrow>
-<annotation encoding="application/x-tex">{\displaystyle P(0.4)}</annotation>
-</semantics>
-</math></span></span> Pollen from Bamboo Field.</li></ul>
+<ul><li>Collect <span class="arithmatex">\(P(0.8)\)</span> White Pollen.</li>
+<li>Collect <span class="arithmatex">\(P(0.6)\)</span> Pollen from Rose Field.</li>
+<li>Collect <span class="arithmatex">\(P(0.4)\)</span> Pollen from Bamboo Field.</li></ul>
 </td></tr>
 <tr>
 <td>Brown Bear: Red-Pump-Dand
@@ -1331,45 +357,9 @@ There are a total of 41 different quests Brown Bear can give.
 <td>15
 </td>
 <td>
-<ul><li>Collect <span class="mwe-math-element"><span class="mwe-math-mathml-inline mwe-math-mathml-a11y" style="display: none;"><math alttext="{\displaystyle P(0.8)}" xmlns="http://www.w3.org/1998/Math/MathML">
-<semantics>
-<mrow class="MJX-TeXAtom-ORD">
-<mstyle displaystyle="true" scriptlevel="0">
-<mi>P</mi>
-<mo stretchy="false">(</mo>
-<mn>0.8</mn>
-<mo stretchy="false">)</mo>
-</mstyle>
-</mrow>
-<annotation encoding="application/x-tex">{\displaystyle P(0.8)}</annotation>
-</semantics>
-</math></span></span> Red Pollen.</li>
-<li>Collect <span class="mwe-math-element"><span class="mwe-math-mathml-inline mwe-math-mathml-a11y" style="display: none;"><math alttext="{\displaystyle P(0.6)}" xmlns="http://www.w3.org/1998/Math/MathML">
-<semantics>
-<mrow class="MJX-TeXAtom-ORD">
-<mstyle displaystyle="true" scriptlevel="0">
-<mi>P</mi>
-<mo stretchy="false">(</mo>
-<mn>0.6</mn>
-<mo stretchy="false">)</mo>
-</mstyle>
-</mrow>
-<annotation encoding="application/x-tex">{\displaystyle P(0.6)}</annotation>
-</semantics>
-</math></span></span> Pollen from Pumpkin Patch.</li>
-<li>Collect <span class="mwe-math-element"><span class="mwe-math-mathml-inline mwe-math-mathml-a11y" style="display: none;"><math alttext="{\displaystyle P(0.4)}" xmlns="http://www.w3.org/1998/Math/MathML">
-<semantics>
-<mrow class="MJX-TeXAtom-ORD">
-<mstyle displaystyle="true" scriptlevel="0">
-<mi>P</mi>
-<mo stretchy="false">(</mo>
-<mn>0.4</mn>
-<mo stretchy="false">)</mo>
-</mstyle>
-</mrow>
-<annotation encoding="application/x-tex">{\displaystyle P(0.4)}</annotation>
-</semantics>
-</math></span></span> Pollen from Dandelion Field.</li></ul>
+<ul><li>Collect <span class="arithmatex">\(P(0.8)\)</span> Red Pollen.</li>
+<li>Collect <span class="arithmatex">\(P(0.6)\)</span> Pollen from Pumpkin Patch.</li>
+<li>Collect <span class="arithmatex">\(P(0.4)\)</span> Pollen from Dandelion Field.</li></ul>
 </td></tr>
 <tr>
 <td>Brown Bear: Red-Mount-Mush
@@ -1377,45 +367,9 @@ There are a total of 41 different quests Brown Bear can give.
 <td>25
 </td>
 <td>
-<ul><li>Collect <span class="mwe-math-element"><span class="mwe-math-mathml-inline mwe-math-mathml-a11y" style="display: none;"><math alttext="{\displaystyle P(0.8)}" xmlns="http://www.w3.org/1998/Math/MathML">
-<semantics>
-<mrow class="MJX-TeXAtom-ORD">
-<mstyle displaystyle="true" scriptlevel="0">
-<mi>P</mi>
-<mo stretchy="false">(</mo>
-<mn>0.8</mn>
-<mo stretchy="false">)</mo>
-</mstyle>
-</mrow>
-<annotation encoding="application/x-tex">{\displaystyle P(0.8)}</annotation>
-</semantics>
-</math></span></span> Red Pollen.</li>
-<li>Collect <span class="mwe-math-element"><span class="mwe-math-mathml-inline mwe-math-mathml-a11y" style="display: none;"><math alttext="{\displaystyle P(0.7)}" xmlns="http://www.w3.org/1998/Math/MathML">
-<semantics>
-<mrow class="MJX-TeXAtom-ORD">
-<mstyle displaystyle="true" scriptlevel="0">
-<mi>P</mi>
-<mo stretchy="false">(</mo>
-<mn>0.7</mn>
-<mo stretchy="false">)</mo>
-</mstyle>
-</mrow>
-<annotation encoding="application/x-tex">{\displaystyle P(0.7)}</annotation>
-</semantics>
-</math></span></span> Pollen from Mountain Top Field.</li>
-<li>Collect <span class="mwe-math-element"><span class="mwe-math-mathml-inline mwe-math-mathml-a11y" style="display: none;"><math alttext="{\displaystyle P(0.4)}" xmlns="http://www.w3.org/1998/Math/MathML">
-<semantics>
-<mrow class="MJX-TeXAtom-ORD">
-<mstyle displaystyle="true" scriptlevel="0">
-<mi>P</mi>
-<mo stretchy="false">(</mo>
-<mn>0.4</mn>
-<mo stretchy="false">)</mo>
-</mstyle>
-</mrow>
-<annotation encoding="application/x-tex">{\displaystyle P(0.4)}</annotation>
-</semantics>
-</math></span></span> Pollen from Mushroom Field.</li></ul>
+<ul><li>Collect <span class="arithmatex">\(P(0.8)\)</span> Red Pollen.</li>
+<li>Collect <span class="arithmatex">\(P(0.7)\)</span> Pollen from Mountain Top Field.</li>
+<li>Collect <span class="arithmatex">\(P(0.4)\)</span> Pollen from Mushroom Field.</li></ul>
 </td></tr>
 <tr>
 <td>Brown Bear: Blue-Mount-Bluf
@@ -1423,45 +377,9 @@ There are a total of 41 different quests Brown Bear can give.
 <td>25
 </td>
 <td>
-<ul><li>Collect <span class="mwe-math-element"><span class="mwe-math-mathml-inline mwe-math-mathml-a11y" style="display: none;"><math alttext="{\displaystyle P(0.8)}" xmlns="http://www.w3.org/1998/Math/MathML">
-<semantics>
-<mrow class="MJX-TeXAtom-ORD">
-<mstyle displaystyle="true" scriptlevel="0">
-<mi>P</mi>
-<mo stretchy="false">(</mo>
-<mn>0.8</mn>
-<mo stretchy="false">)</mo>
-</mstyle>
-</mrow>
-<annotation encoding="application/x-tex">{\displaystyle P(0.8)}</annotation>
-</semantics>
-</math></span></span> Blue Pollen.</li>
-<li>Collect <span class="mwe-math-element"><span class="mwe-math-mathml-inline mwe-math-mathml-a11y" style="display: none;"><math alttext="{\displaystyle P(0.7)}" xmlns="http://www.w3.org/1998/Math/MathML">
-<semantics>
-<mrow class="MJX-TeXAtom-ORD">
-<mstyle displaystyle="true" scriptlevel="0">
-<mi>P</mi>
-<mo stretchy="false">(</mo>
-<mn>0.7</mn>
-<mo stretchy="false">)</mo>
-</mstyle>
-</mrow>
-<annotation encoding="application/x-tex">{\displaystyle P(0.7)}</annotation>
-</semantics>
-</math></span></span> Pollen from Mountain Top Field.</li>
-<li>Collect <span class="mwe-math-element"><span class="mwe-math-mathml-inline mwe-math-mathml-a11y" style="display: none;"><math alttext="{\displaystyle P(0.4)}" xmlns="http://www.w3.org/1998/Math/MathML">
-<semantics>
-<mrow class="MJX-TeXAtom-ORD">
-<mstyle displaystyle="true" scriptlevel="0">
-<mi>P</mi>
-<mo stretchy="false">(</mo>
-<mn>0.4</mn>
-<mo stretchy="false">)</mo>
-</mstyle>
-</mrow>
-<annotation encoding="application/x-tex">{\displaystyle P(0.4)}</annotation>
-</semantics>
-</math></span></span> Pollen from Blue Flower Field.</li></ul>
+<ul><li>Collect <span class="arithmatex">\(P(0.8)\)</span> Blue Pollen.</li>
+<li>Collect <span class="arithmatex">\(P(0.7)\)</span> Pollen from Mountain Top Field.</li>
+<li>Collect <span class="arithmatex">\(P(0.4)\)</span> Pollen from Blue Flower Field.</li></ul>
 </td></tr>
 <tr>
 <td>Brown Bear: Solo-Mount
@@ -1469,19 +387,7 @@ There are a total of 41 different quests Brown Bear can give.
 <td>25
 </td>
 <td>
-<ul><li>Collect <span class="mwe-math-element"><span class="mwe-math-mathml-inline mwe-math-mathml-a11y" style="display: none;"><math alttext="{\displaystyle P(1.2)}" xmlns="http://www.w3.org/1998/Math/MathML">
-<semantics>
-<mrow class="MJX-TeXAtom-ORD">
-<mstyle displaystyle="true" scriptlevel="0">
-<mi>P</mi>
-<mo stretchy="false">(</mo>
-<mn>1.2</mn>
-<mo stretchy="false">)</mo>
-</mstyle>
-</mrow>
-<annotation encoding="application/x-tex">{\displaystyle P(1.2)}</annotation>
-</semantics>
-</math></span></span> Pollen from Mountain Top Field.</li></ul>
+<ul><li>Collect <span class="arithmatex">\(P(1.2)\)</span> Pollen from Mountain Top Field.</li></ul>
 </td></tr>
 <tr>
 <td>Brown Bear: Mount-Spide-Rose-Pinap
@@ -1489,58 +395,10 @@ There are a total of 41 different quests Brown Bear can give.
 <td>25
 </td>
 <td>
-<ul><li>Collect <span class="mwe-math-element"><span class="mwe-math-mathml-inline mwe-math-mathml-a11y" style="display: none;"><math alttext="{\displaystyle P(0.4)}" xmlns="http://www.w3.org/1998/Math/MathML">
-<semantics>
-<mrow class="MJX-TeXAtom-ORD">
-<mstyle displaystyle="true" scriptlevel="0">
-<mi>P</mi>
-<mo stretchy="false">(</mo>
-<mn>0.4</mn>
-<mo stretchy="false">)</mo>
-</mstyle>
-</mrow>
-<annotation encoding="application/x-tex">{\displaystyle P(0.4)}</annotation>
-</semantics>
-</math></span></span> Pollen from Mountain Top Field.</li>
-<li>Collect <span class="mwe-math-element"><span class="mwe-math-mathml-inline mwe-math-mathml-a11y" style="display: none;"><math alttext="{\displaystyle P(0.2)}" xmlns="http://www.w3.org/1998/Math/MathML">
-<semantics>
-<mrow class="MJX-TeXAtom-ORD">
-<mstyle displaystyle="true" scriptlevel="0">
-<mi>P</mi>
-<mo stretchy="false">(</mo>
-<mn>0.2</mn>
-<mo stretchy="false">)</mo>
-</mstyle>
-</mrow>
-<annotation encoding="application/x-tex">{\displaystyle P(0.2)}</annotation>
-</semantics>
-</math></span></span> Pollen from Spider Field.</li>
-<li>Collect <span class="mwe-math-element"><span class="mwe-math-mathml-inline mwe-math-mathml-a11y" style="display: none;"><math alttext="{\displaystyle P(0.2)}" xmlns="http://www.w3.org/1998/Math/MathML">
-<semantics>
-<mrow class="MJX-TeXAtom-ORD">
-<mstyle displaystyle="true" scriptlevel="0">
-<mi>P</mi>
-<mo stretchy="false">(</mo>
-<mn>0.2</mn>
-<mo stretchy="false">)</mo>
-</mstyle>
-</mrow>
-<annotation encoding="application/x-tex">{\displaystyle P(0.2)}</annotation>
-</semantics>
-</math></span></span> Pollen from Rose Field.</li>
-<li>Collect <span class="mwe-math-element"><span class="mwe-math-mathml-inline mwe-math-mathml-a11y" style="display: none;"><math alttext="{\displaystyle P(0.2)}" xmlns="http://www.w3.org/1998/Math/MathML">
-<semantics>
-<mrow class="MJX-TeXAtom-ORD">
-<mstyle displaystyle="true" scriptlevel="0">
-<mi>P</mi>
-<mo stretchy="false">(</mo>
-<mn>0.2</mn>
-<mo stretchy="false">)</mo>
-</mstyle>
-</mrow>
-<annotation encoding="application/x-tex">{\displaystyle P(0.2)}</annotation>
-</semantics>
-</math></span></span> Pollen from Pineapple Patch.</li></ul>
+<ul><li>Collect <span class="arithmatex">\(P(0.4)\)</span> Pollen from Mountain Top Field.</li>
+<li>Collect <span class="arithmatex">\(P(0.2)\)</span> Pollen from Spider Field.</li>
+<li>Collect <span class="arithmatex">\(P(0.2)\)</span> Pollen from Rose Field.</li>
+<li>Collect <span class="arithmatex">\(P(0.2)\)</span> Pollen from Pineapple Patch.</li></ul>
 </td></tr>
 <tr>
 <td>Brown Bear: Mount-Bamb-Pump-Sun
@@ -1548,58 +406,10 @@ There are a total of 41 different quests Brown Bear can give.
 <td>25
 </td>
 <td>
-<ul><li>Collect <span class="mwe-math-element"><span class="mwe-math-mathml-inline mwe-math-mathml-a11y" style="display: none;"><math alttext="{\displaystyle P(0.4)}" xmlns="http://www.w3.org/1998/Math/MathML">
-<semantics>
-<mrow class="MJX-TeXAtom-ORD">
-<mstyle displaystyle="true" scriptlevel="0">
-<mi>P</mi>
-<mo stretchy="false">(</mo>
-<mn>0.4</mn>
-<mo stretchy="false">)</mo>
-</mstyle>
-</mrow>
-<annotation encoding="application/x-tex">{\displaystyle P(0.4)}</annotation>
-</semantics>
-</math></span></span> Pollen from Mountain Top Field.</li>
-<li>Collect <span class="mwe-math-element"><span class="mwe-math-mathml-inline mwe-math-mathml-a11y" style="display: none;"><math alttext="{\displaystyle P(0.2)}" xmlns="http://www.w3.org/1998/Math/MathML">
-<semantics>
-<mrow class="MJX-TeXAtom-ORD">
-<mstyle displaystyle="true" scriptlevel="0">
-<mi>P</mi>
-<mo stretchy="false">(</mo>
-<mn>0.2</mn>
-<mo stretchy="false">)</mo>
-</mstyle>
-</mrow>
-<annotation encoding="application/x-tex">{\displaystyle P(0.2)}</annotation>
-</semantics>
-</math></span></span> Pollen from Bamboo Field.</li>
-<li>Collect <span class="mwe-math-element"><span class="mwe-math-mathml-inline mwe-math-mathml-a11y" style="display: none;"><math alttext="{\displaystyle P(0.2)}" xmlns="http://www.w3.org/1998/Math/MathML">
-<semantics>
-<mrow class="MJX-TeXAtom-ORD">
-<mstyle displaystyle="true" scriptlevel="0">
-<mi>P</mi>
-<mo stretchy="false">(</mo>
-<mn>0.2</mn>
-<mo stretchy="false">)</mo>
-</mstyle>
-</mrow>
-<annotation encoding="application/x-tex">{\displaystyle P(0.2)}</annotation>
-</semantics>
-</math></span></span> Pollen from Pumpkin Patch.</li>
-<li>Collect <span class="mwe-math-element"><span class="mwe-math-mathml-inline mwe-math-mathml-a11y" style="display: none;"><math alttext="{\displaystyle P(0.2)}" xmlns="http://www.w3.org/1998/Math/MathML">
-<semantics>
-<mrow class="MJX-TeXAtom-ORD">
-<mstyle displaystyle="true" scriptlevel="0">
-<mi>P</mi>
-<mo stretchy="false">(</mo>
-<mn>0.2</mn>
-<mo stretchy="false">)</mo>
-</mstyle>
-</mrow>
-<annotation encoding="application/x-tex">{\displaystyle P(0.2)}</annotation>
-</semantics>
-</math></span></span> Pollen from Sunflower Field.</li></ul>
+<ul><li>Collect <span class="arithmatex">\(P(0.4)\)</span> Pollen from Mountain Top Field.</li>
+<li>Collect <span class="arithmatex">\(P(0.2)\)</span> Pollen from Bamboo Field.</li>
+<li>Collect <span class="arithmatex">\(P(0.2)\)</span> Pollen from Pumpkin Patch.</li>
+<li>Collect <span class="arithmatex">\(P(0.2)\)</span> Pollen from Sunflower Field.</li></ul>
 </td></tr>
 <tr>
 <td>Brown Bear: Blue-Coco-Bluf
@@ -1607,45 +417,9 @@ There are a total of 41 different quests Brown Bear can give.
 <td>35
 </td>
 <td>
-<ul><li>Collect <span class="mwe-math-element"><span class="mwe-math-mathml-inline mwe-math-mathml-a11y" style="display: none;"><math alttext="{\displaystyle P(0.8)}" xmlns="http://www.w3.org/1998/Math/MathML">
-<semantics>
-<mrow class="MJX-TeXAtom-ORD">
-<mstyle displaystyle="true" scriptlevel="0">
-<mi>P</mi>
-<mo stretchy="false">(</mo>
-<mn>0.8</mn>
-<mo stretchy="false">)</mo>
-</mstyle>
-</mrow>
-<annotation encoding="application/x-tex">{\displaystyle P(0.8)}</annotation>
-</semantics>
-</math></span></span> Blue Pollen.</li>
-<li>Collect <span class="mwe-math-element"><span class="mwe-math-mathml-inline mwe-math-mathml-a11y" style="display: none;"><math alttext="{\displaystyle P(0.7)}" xmlns="http://www.w3.org/1998/Math/MathML">
-<semantics>
-<mrow class="MJX-TeXAtom-ORD">
-<mstyle displaystyle="true" scriptlevel="0">
-<mi>P</mi>
-<mo stretchy="false">(</mo>
-<mn>0.7</mn>
-<mo stretchy="false">)</mo>
-</mstyle>
-</mrow>
-<annotation encoding="application/x-tex">{\displaystyle P(0.7)}</annotation>
-</semantics>
-</math></span></span> Pollen from Coconut Field.</li>
-<li>Collect <span class="mwe-math-element"><span class="mwe-math-mathml-inline mwe-math-mathml-a11y" style="display: none;"><math alttext="{\displaystyle P(0.4)}" xmlns="http://www.w3.org/1998/Math/MathML">
-<semantics>
-<mrow class="MJX-TeXAtom-ORD">
-<mstyle displaystyle="true" scriptlevel="0">
-<mi>P</mi>
-<mo stretchy="false">(</mo>
-<mn>0.4</mn>
-<mo stretchy="false">)</mo>
-</mstyle>
-</mrow>
-<annotation encoding="application/x-tex">{\displaystyle P(0.4)}</annotation>
-</semantics>
-</math></span></span> Pollen from Blue Flower Field.</li></ul>
+<ul><li>Collect <span class="arithmatex">\(P(0.8)\)</span> Blue Pollen.</li>
+<li>Collect <span class="arithmatex">\(P(0.7)\)</span> Pollen from Coconut Field.</li>
+<li>Collect <span class="arithmatex">\(P(0.4)\)</span> Pollen from Blue Flower Field.</li></ul>
 </td></tr>
 <tr>
 <td>Brown Bear: Red-Coco-Mush
@@ -1653,45 +427,9 @@ There are a total of 41 different quests Brown Bear can give.
 <td>35
 </td>
 <td>
-<ul><li>Collect <span class="mwe-math-element"><span class="mwe-math-mathml-inline mwe-math-mathml-a11y" style="display: none;"><math alttext="{\displaystyle P(0.8)}" xmlns="http://www.w3.org/1998/Math/MathML">
-<semantics>
-<mrow class="MJX-TeXAtom-ORD">
-<mstyle displaystyle="true" scriptlevel="0">
-<mi>P</mi>
-<mo stretchy="false">(</mo>
-<mn>0.8</mn>
-<mo stretchy="false">)</mo>
-</mstyle>
-</mrow>
-<annotation encoding="application/x-tex">{\displaystyle P(0.8)}</annotation>
-</semantics>
-</math></span></span> Red Pollen.</li>
-<li>Collect <span class="mwe-math-element"><span class="mwe-math-mathml-inline mwe-math-mathml-a11y" style="display: none;"><math alttext="{\displaystyle P(0.7)}" xmlns="http://www.w3.org/1998/Math/MathML">
-<semantics>
-<mrow class="MJX-TeXAtom-ORD">
-<mstyle displaystyle="true" scriptlevel="0">
-<mi>P</mi>
-<mo stretchy="false">(</mo>
-<mn>0.7</mn>
-<mo stretchy="false">)</mo>
-</mstyle>
-</mrow>
-<annotation encoding="application/x-tex">{\displaystyle P(0.7)}</annotation>
-</semantics>
-</math></span></span> Pollen from Coconut Field.</li>
-<li>Collect <span class="mwe-math-element"><span class="mwe-math-mathml-inline mwe-math-mathml-a11y" style="display: none;"><math alttext="{\displaystyle P(0.4)}" xmlns="http://www.w3.org/1998/Math/MathML">
-<semantics>
-<mrow class="MJX-TeXAtom-ORD">
-<mstyle displaystyle="true" scriptlevel="0">
-<mi>P</mi>
-<mo stretchy="false">(</mo>
-<mn>0.4</mn>
-<mo stretchy="false">)</mo>
-</mstyle>
-</mrow>
-<annotation encoding="application/x-tex">{\displaystyle P(0.4)}</annotation>
-</semantics>
-</math></span></span> Pollen from Mushroom Field.</li></ul>
+<ul><li>Collect <span class="arithmatex">\(P(0.8)\)</span> Red Pollen.</li>
+<li>Collect <span class="arithmatex">\(P(0.7)\)</span> Pollen from Coconut Field.</li>
+<li>Collect <span class="arithmatex">\(P(0.4)\)</span> Pollen from Mushroom Field.</li></ul>
 </td></tr>
 <tr>
 <td>Brown Bear: White-Pepp-Pinap
@@ -1699,45 +437,9 @@ There are a total of 41 different quests Brown Bear can give.
 <td>35
 </td>
 <td>
-<ul><li>Collect <span class="mwe-math-element"><span class="mwe-math-mathml-inline mwe-math-mathml-a11y" style="display: none;"><math alttext="{\displaystyle P(0.8)}" xmlns="http://www.w3.org/1998/Math/MathML">
-<semantics>
-<mrow class="MJX-TeXAtom-ORD">
-<mstyle displaystyle="true" scriptlevel="0">
-<mi>P</mi>
-<mo stretchy="false">(</mo>
-<mn>0.8</mn>
-<mo stretchy="false">)</mo>
-</mstyle>
-</mrow>
-<annotation encoding="application/x-tex">{\displaystyle P(0.8)}</annotation>
-</semantics>
-</math></span></span> White Pollen.</li>
-<li>Collect <span class="mwe-math-element"><span class="mwe-math-mathml-inline mwe-math-mathml-a11y" style="display: none;"><math alttext="{\displaystyle P(0.7)}" xmlns="http://www.w3.org/1998/Math/MathML">
-<semantics>
-<mrow class="MJX-TeXAtom-ORD">
-<mstyle displaystyle="true" scriptlevel="0">
-<mi>P</mi>
-<mo stretchy="false">(</mo>
-<mn>0.7</mn>
-<mo stretchy="false">)</mo>
-</mstyle>
-</mrow>
-<annotation encoding="application/x-tex">{\displaystyle P(0.7)}</annotation>
-</semantics>
-</math></span></span> Pollen from Pepper Patch.</li>
-<li>Collect <span class="mwe-math-element"><span class="mwe-math-mathml-inline mwe-math-mathml-a11y" style="display: none;"><math alttext="{\displaystyle P(0.4)}" xmlns="http://www.w3.org/1998/Math/MathML">
-<semantics>
-<mrow class="MJX-TeXAtom-ORD">
-<mstyle displaystyle="true" scriptlevel="0">
-<mi>P</mi>
-<mo stretchy="false">(</mo>
-<mn>0.4</mn>
-<mo stretchy="false">)</mo>
-</mstyle>
-</mrow>
-<annotation encoding="application/x-tex">{\displaystyle P(0.4)}</annotation>
-</semantics>
-</math></span></span> Pollen from Pineapple Patch.</li></ul>
+<ul><li>Collect <span class="arithmatex">\(P(0.8)\)</span> White Pollen.</li>
+<li>Collect <span class="arithmatex">\(P(0.7)\)</span> Pollen from Pepper Patch.</li>
+<li>Collect <span class="arithmatex">\(P(0.4)\)</span> Pollen from Pineapple Patch.</li></ul>
 </td></tr>
 <tr>
 <td>Brown Bear: White-Pepp-Bamb
@@ -1745,45 +447,9 @@ There are a total of 41 different quests Brown Bear can give.
 <td>35
 </td>
 <td>
-<ul><li>Collect <span class="mwe-math-element"><span class="mwe-math-mathml-inline mwe-math-mathml-a11y" style="display: none;"><math alttext="{\displaystyle P(0.8)}" xmlns="http://www.w3.org/1998/Math/MathML">
-<semantics>
-<mrow class="MJX-TeXAtom-ORD">
-<mstyle displaystyle="true" scriptlevel="0">
-<mi>P</mi>
-<mo stretchy="false">(</mo>
-<mn>0.8</mn>
-<mo stretchy="false">)</mo>
-</mstyle>
-</mrow>
-<annotation encoding="application/x-tex">{\displaystyle P(0.8)}</annotation>
-</semantics>
-</math></span></span> White Pollen.</li>
-<li>Collect <span class="mwe-math-element"><span class="mwe-math-mathml-inline mwe-math-mathml-a11y" style="display: none;"><math alttext="{\displaystyle P(0.7)}" xmlns="http://www.w3.org/1998/Math/MathML">
-<semantics>
-<mrow class="MJX-TeXAtom-ORD">
-<mstyle displaystyle="true" scriptlevel="0">
-<mi>P</mi>
-<mo stretchy="false">(</mo>
-<mn>0.7</mn>
-<mo stretchy="false">)</mo>
-</mstyle>
-</mrow>
-<annotation encoding="application/x-tex">{\displaystyle P(0.7)}</annotation>
-</semantics>
-</math></span></span> Pollen from Pepper Patch.</li>
-<li>Collect <span class="mwe-math-element"><span class="mwe-math-mathml-inline mwe-math-mathml-a11y" style="display: none;"><math alttext="{\displaystyle P(0.4)}" xmlns="http://www.w3.org/1998/Math/MathML">
-<semantics>
-<mrow class="MJX-TeXAtom-ORD">
-<mstyle displaystyle="true" scriptlevel="0">
-<mi>P</mi>
-<mo stretchy="false">(</mo>
-<mn>0.4</mn>
-<mo stretchy="false">)</mo>
-</mstyle>
-</mrow>
-<annotation encoding="application/x-tex">{\displaystyle P(0.4)}</annotation>
-</semantics>
-</math></span></span> Pollen from Bamboo Field.</li></ul>
+<ul><li>Collect <span class="arithmatex">\(P(0.8)\)</span> White Pollen.</li>
+<li>Collect <span class="arithmatex">\(P(0.7)\)</span> Pollen from Pepper Patch.</li>
+<li>Collect <span class="arithmatex">\(P(0.4)\)</span> Pollen from Bamboo Field.</li></ul>
 </td></tr>
 <tr>
 <td>Brown Bear: Coco-Pepp-Clove-Pine
@@ -1791,58 +457,10 @@ There are a total of 41 different quests Brown Bear can give.
 <td>35
 </td>
 <td>
-<ul><li>Collect <span class="mwe-math-element"><span class="mwe-math-mathml-inline mwe-math-mathml-a11y" style="display: none;"><math alttext="{\displaystyle P(0.3)}" xmlns="http://www.w3.org/1998/Math/MathML">
-<semantics>
-<mrow class="MJX-TeXAtom-ORD">
-<mstyle displaystyle="true" scriptlevel="0">
-<mi>P</mi>
-<mo stretchy="false">(</mo>
-<mn>0.3</mn>
-<mo stretchy="false">)</mo>
-</mstyle>
-</mrow>
-<annotation encoding="application/x-tex">{\displaystyle P(0.3)}</annotation>
-</semantics>
-</math></span></span> Pollen from Coconut Field.</li>
-<li>Collect <span class="mwe-math-element"><span class="mwe-math-mathml-inline mwe-math-mathml-a11y" style="display: none;"><math alttext="{\displaystyle P(0.3)}" xmlns="http://www.w3.org/1998/Math/MathML">
-<semantics>
-<mrow class="MJX-TeXAtom-ORD">
-<mstyle displaystyle="true" scriptlevel="0">
-<mi>P</mi>
-<mo stretchy="false">(</mo>
-<mn>0.3</mn>
-<mo stretchy="false">)</mo>
-</mstyle>
-</mrow>
-<annotation encoding="application/x-tex">{\displaystyle P(0.3)}</annotation>
-</semantics>
-</math></span></span> Pollen from Pepper Patch.</li>
-<li>Collect <span class="mwe-math-element"><span class="mwe-math-mathml-inline mwe-math-mathml-a11y" style="display: none;"><math alttext="{\displaystyle P(0.3)}" xmlns="http://www.w3.org/1998/Math/MathML">
-<semantics>
-<mrow class="MJX-TeXAtom-ORD">
-<mstyle displaystyle="true" scriptlevel="0">
-<mi>P</mi>
-<mo stretchy="false">(</mo>
-<mn>0.3</mn>
-<mo stretchy="false">)</mo>
-</mstyle>
-</mrow>
-<annotation encoding="application/x-tex">{\displaystyle P(0.3)}</annotation>
-</semantics>
-</math></span></span> Pollen from Clover Field.</li>
-<li>Collect <span class="mwe-math-element"><span class="mwe-math-mathml-inline mwe-math-mathml-a11y" style="display: none;"><math alttext="{\displaystyle P(0.3)}" xmlns="http://www.w3.org/1998/Math/MathML">
-<semantics>
-<mrow class="MJX-TeXAtom-ORD">
-<mstyle displaystyle="true" scriptlevel="0">
-<mi>P</mi>
-<mo stretchy="false">(</mo>
-<mn>0.3</mn>
-<mo stretchy="false">)</mo>
-</mstyle>
-</mrow>
-<annotation encoding="application/x-tex">{\displaystyle P(0.3)}</annotation>
-</semantics>
-</math></span></span> Pollen from Pine Tree Forest.</li></ul>
+<ul><li>Collect <span class="arithmatex">\(P(0.3)\)</span> Pollen from Coconut Field.</li>
+<li>Collect <span class="arithmatex">\(P(0.3)\)</span> Pollen from Pepper Patch.</li>
+<li>Collect <span class="arithmatex">\(P(0.3)\)</span> Pollen from Clover Field.</li>
+<li>Collect <span class="arithmatex">\(P(0.3)\)</span> Pollen from Pine Tree Forest.</li></ul>
 </td></tr>
 <tr>
 <td>Brown Bear: Coco-Mount-Cact-Rose
@@ -1850,58 +468,10 @@ There are a total of 41 different quests Brown Bear can give.
 <td>35
 </td>
 <td>
-<ul><li>Collect <span class="mwe-math-element"><span class="mwe-math-mathml-inline mwe-math-mathml-a11y" style="display: none;"><math alttext="{\displaystyle P(0.3)}" xmlns="http://www.w3.org/1998/Math/MathML">
-<semantics>
-<mrow class="MJX-TeXAtom-ORD">
-<mstyle displaystyle="true" scriptlevel="0">
-<mi>P</mi>
-<mo stretchy="false">(</mo>
-<mn>0.3</mn>
-<mo stretchy="false">)</mo>
-</mstyle>
-</mrow>
-<annotation encoding="application/x-tex">{\displaystyle P(0.3)}</annotation>
-</semantics>
-</math></span></span> Pollen from Coconut Field.</li>
-<li>Collect <span class="mwe-math-element"><span class="mwe-math-mathml-inline mwe-math-mathml-a11y" style="display: none;"><math alttext="{\displaystyle P(0.3)}" xmlns="http://www.w3.org/1998/Math/MathML">
-<semantics>
-<mrow class="MJX-TeXAtom-ORD">
-<mstyle displaystyle="true" scriptlevel="0">
-<mi>P</mi>
-<mo stretchy="false">(</mo>
-<mn>0.3</mn>
-<mo stretchy="false">)</mo>
-</mstyle>
-</mrow>
-<annotation encoding="application/x-tex">{\displaystyle P(0.3)}</annotation>
-</semantics>
-</math></span></span> Pollen from Mountain Top Field.</li>
-<li>Collect <span class="mwe-math-element"><span class="mwe-math-mathml-inline mwe-math-mathml-a11y" style="display: none;"><math alttext="{\displaystyle P(0.3)}" xmlns="http://www.w3.org/1998/Math/MathML">
-<semantics>
-<mrow class="MJX-TeXAtom-ORD">
-<mstyle displaystyle="true" scriptlevel="0">
-<mi>P</mi>
-<mo stretchy="false">(</mo>
-<mn>0.3</mn>
-<mo stretchy="false">)</mo>
-</mstyle>
-</mrow>
-<annotation encoding="application/x-tex">{\displaystyle P(0.3)}</annotation>
-</semantics>
-</math></span></span> Pollen from Cactus Field.</li>
-<li>Collect <span class="mwe-math-element"><span class="mwe-math-mathml-inline mwe-math-mathml-a11y" style="display: none;"><math alttext="{\displaystyle P(0.3)}" xmlns="http://www.w3.org/1998/Math/MathML">
-<semantics>
-<mrow class="MJX-TeXAtom-ORD">
-<mstyle displaystyle="true" scriptlevel="0">
-<mi>P</mi>
-<mo stretchy="false">(</mo>
-<mn>0.3</mn>
-<mo stretchy="false">)</mo>
-</mstyle>
-</mrow>
-<annotation encoding="application/x-tex">{\displaystyle P(0.3)}</annotation>
-</semantics>
-</math></span></span> Pollen from Rose Field.</li></ul>
+<ul><li>Collect <span class="arithmatex">\(P(0.3)\)</span> Pollen from Coconut Field.</li>
+<li>Collect <span class="arithmatex">\(P(0.3)\)</span> Pollen from Mountain Top Field.</li>
+<li>Collect <span class="arithmatex">\(P(0.3)\)</span> Pollen from Cactus Field.</li>
+<li>Collect <span class="arithmatex">\(P(0.3)\)</span> Pollen from Rose Field.</li></ul>
 </td></tr>
 <tr>
 <td>Brown Bear: Solo-Coco
@@ -1909,19 +479,7 @@ There are a total of 41 different quests Brown Bear can give.
 <td>35
 </td>
 <td>
-<ul><li>Collect <span class="mwe-math-element"><span class="mwe-math-mathml-inline mwe-math-mathml-a11y" style="display: none;"><math alttext="{\displaystyle P(1.2)}" xmlns="http://www.w3.org/1998/Math/MathML">
-<semantics>
-<mrow class="MJX-TeXAtom-ORD">
-<mstyle displaystyle="true" scriptlevel="0">
-<mi>P</mi>
-<mo stretchy="false">(</mo>
-<mn>1.2</mn>
-<mo stretchy="false">)</mo>
-</mstyle>
-</mrow>
-<annotation encoding="application/x-tex">{\displaystyle P(1.2)}</annotation>
-</semantics>
-</math></span></span> Pollen from Coconut Field.</li></ul>
+<ul><li>Collect <span class="arithmatex">\(P(1.2)\)</span> Pollen from Coconut Field.</li></ul>
 </td></tr>
 <tr>
 <td>Brown Bear: Solo-Stump
@@ -1929,19 +487,7 @@ There are a total of 41 different quests Brown Bear can give.
 <td>40
 </td>
 <td>
-<ul><li>Collect <span class="mwe-math-element"><span class="mwe-math-mathml-inline mwe-math-mathml-a11y" style="display: none;"><math alttext="{\displaystyle P(1.2)}" xmlns="http://www.w3.org/1998/Math/MathML">
-<semantics>
-<mrow class="MJX-TeXAtom-ORD">
-<mstyle displaystyle="true" scriptlevel="0">
-<mi>P</mi>
-<mo stretchy="false">(</mo>
-<mn>1.2</mn>
-<mo stretchy="false">)</mo>
-</mstyle>
-</mrow>
-<annotation encoding="application/x-tex">{\displaystyle P(1.2)}</annotation>
-</semantics>
-</math></span></span> Pollen from Stump Field.</li></ul>
+<ul><li>Collect <span class="arithmatex">\(P(1.2)\)</span> Pollen from Stump Field.</li></ul>
 </td></tr>
 <tr>
 <td>Brown Bear: Red-Stump-Mush
@@ -1949,45 +495,9 @@ There are a total of 41 different quests Brown Bear can give.
 <td>40
 </td>
 <td>
-<ul><li>Collect <span class="mwe-math-element"><span class="mwe-math-mathml-inline mwe-math-mathml-a11y" style="display: none;"><math alttext="{\displaystyle P(0.8)}" xmlns="http://www.w3.org/1998/Math/MathML">
-<semantics>
-<mrow class="MJX-TeXAtom-ORD">
-<mstyle displaystyle="true" scriptlevel="0">
-<mi>P</mi>
-<mo stretchy="false">(</mo>
-<mn>0.8</mn>
-<mo stretchy="false">)</mo>
-</mstyle>
-</mrow>
-<annotation encoding="application/x-tex">{\displaystyle P(0.8)}</annotation>
-</semantics>
-</math></span></span> Red Pollen.</li>
-<li>Collect <span class="mwe-math-element"><span class="mwe-math-mathml-inline mwe-math-mathml-a11y" style="display: none;"><math alttext="{\displaystyle P(0.7)}" xmlns="http://www.w3.org/1998/Math/MathML">
-<semantics>
-<mrow class="MJX-TeXAtom-ORD">
-<mstyle displaystyle="true" scriptlevel="0">
-<mi>P</mi>
-<mo stretchy="false">(</mo>
-<mn>0.7</mn>
-<mo stretchy="false">)</mo>
-</mstyle>
-</mrow>
-<annotation encoding="application/x-tex">{\displaystyle P(0.7)}</annotation>
-</semantics>
-</math></span></span> Pollen from Stump Field.</li>
-<li>Collect <span class="mwe-math-element"><span class="mwe-math-mathml-inline mwe-math-mathml-a11y" style="display: none;"><math alttext="{\displaystyle P(0.3)}" xmlns="http://www.w3.org/1998/Math/MathML">
-<semantics>
-<mrow class="MJX-TeXAtom-ORD">
-<mstyle displaystyle="true" scriptlevel="0">
-<mi>P</mi>
-<mo stretchy="false">(</mo>
-<mn>0.3</mn>
-<mo stretchy="false">)</mo>
-</mstyle>
-</mrow>
-<annotation encoding="application/x-tex">{\displaystyle P(0.3)}</annotation>
-</semantics>
-</math></span></span> Pollen from Mushroom Field.</li></ul>
+<ul><li>Collect <span class="arithmatex">\(P(0.8)\)</span> Red Pollen.</li>
+<li>Collect <span class="arithmatex">\(P(0.7)\)</span> Pollen from Stump Field.</li>
+<li>Collect <span class="arithmatex">\(P(0.3)\)</span> Pollen from Mushroom Field.</li></ul>
 </td></tr>
 <tr>
 <td>Brown Bear: Blue-Stump-Rose
@@ -1995,45 +505,9 @@ There are a total of 41 different quests Brown Bear can give.
 <td>40
 </td>
 <td>
-<ul><li>Collect <span class="mwe-math-element"><span class="mwe-math-mathml-inline mwe-math-mathml-a11y" style="display: none;"><math alttext="{\displaystyle P(0.8)}" xmlns="http://www.w3.org/1998/Math/MathML">
-<semantics>
-<mrow class="MJX-TeXAtom-ORD">
-<mstyle displaystyle="true" scriptlevel="0">
-<mi>P</mi>
-<mo stretchy="false">(</mo>
-<mn>0.8</mn>
-<mo stretchy="false">)</mo>
-</mstyle>
-</mrow>
-<annotation encoding="application/x-tex">{\displaystyle P(0.8)}</annotation>
-</semantics>
-</math></span></span> Red Pollen.</li>
-<li>Collect <span class="mwe-math-element"><span class="mwe-math-mathml-inline mwe-math-mathml-a11y" style="display: none;"><math alttext="{\displaystyle P(0.7)}" xmlns="http://www.w3.org/1998/Math/MathML">
-<semantics>
-<mrow class="MJX-TeXAtom-ORD">
-<mstyle displaystyle="true" scriptlevel="0">
-<mi>P</mi>
-<mo stretchy="false">(</mo>
-<mn>0.7</mn>
-<mo stretchy="false">)</mo>
-</mstyle>
-</mrow>
-<annotation encoding="application/x-tex">{\displaystyle P(0.7)}</annotation>
-</semantics>
-</math></span></span> Pollen from Stump Field.</li>
-<li>Collect <span class="mwe-math-element"><span class="mwe-math-mathml-inline mwe-math-mathml-a11y" style="display: none;"><math alttext="{\displaystyle P(0.3)}" xmlns="http://www.w3.org/1998/Math/MathML">
-<semantics>
-<mrow class="MJX-TeXAtom-ORD">
-<mstyle displaystyle="true" scriptlevel="0">
-<mi>P</mi>
-<mo stretchy="false">(</mo>
-<mn>0.3</mn>
-<mo stretchy="false">)</mo>
-</mstyle>
-</mrow>
-<annotation encoding="application/x-tex">{\displaystyle P(0.3)}</annotation>
-</semantics>
-</math></span></span> Pollen from Rose Field.</li></ul>
+<ul><li>Collect <span class="arithmatex">\(P(0.8)\)</span> Red Pollen.</li>
+<li>Collect <span class="arithmatex">\(P(0.7)\)</span> Pollen from Stump Field.</li>
+<li>Collect <span class="arithmatex">\(P(0.3)\)</span> Pollen from Rose Field.</li></ul>
 </td></tr></tbody></table>
 
 ## Rewards
@@ -3574,4 +2048,3 @@ These quests had a 4-hour cooldown in between quests, as opposed to the current 
 </p>
 </td></tr></tbody></table>
 
-zh-tw:棕熊

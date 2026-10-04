@@ -3902,7 +3902,6 @@ Show/hide tables
 * This is one of eight [beequips](beequip.md) to give a negative stat.
   * The other seven are [Kazoo](kazoo.md), [Beesmas Top](beesmas-top.md), [Toy Horn](toy-horn.md), [Toy Drum](toy-drum.md), [Pink Eraser](pink-eraser.md), [Demon Talisman](demon-talisman.md), and [Lump Of Coal](lump-of-coal.md).
 
-zh-tw:口哨
 
 <table class="mw-collapsible autocollapse" style="margin:auto; background:#000; font-size: 10pt; border:5px solid #56CB5A; width: 100%; border-radius: 20px; -moz-border-radius: 20px; -webkit-border-radius: 20px; -khtml-border-radius: 20px; -icab-border-radius: 20px; -o-border-radius: 20px;">
 <tbody><tr>

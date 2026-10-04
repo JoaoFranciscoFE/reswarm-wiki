@@ -15,12 +15,6 @@ tags: ["Pages with broken file links", "Removed Content", "Mobs", "Bosses", "Mul
 <h3 class="pi-data-label pi-secondary-font">Respawns Every</h3>
 <div class="pi-data-value pi-font">Every 36 hours or anytime with 50 tickets</div>
 </div>
-<section class="pi-item pi-group pi-border-color">
-<p>@@BLOCO0@@</p>
-</section>
-<section class="pi-item pi-group pi-border-color">
-<p>@@BLOCO1@@</p>
-</section>
 </aside>
 
 *This page is for the Stick Bug NPC. For attack behaviour and the actual challenge, please see [Stick Bug Challenge](stick-bug-challenge.md)*

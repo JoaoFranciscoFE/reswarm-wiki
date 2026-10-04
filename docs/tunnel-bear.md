@@ -15,15 +15,6 @@ tags: ["Mobs", "Pages with broken file links", "Bosses", "Bears"]
 <h3 class="pi-data-label pi-secondary-font">Respawns Every</h3>
 <div class="pi-data-value pi-font">48 hours (2 days), 40 hours 48 minutes (1.7 days) if Gifted Vicious Bee is in the player's hive.</div>
 </div>
-<section class="pi-item pi-group pi-border-color">
-<p>@@BLOCO0@@</p>
-</section>
-<section class="pi-item pi-group pi-border-color">
-<p>@@BLOCO1@@</p>
-</section>
-<section class="pi-item pi-group pi-border-color">
-<p>@@BLOCO2@@</p>
-</section>
 </aside>
 
 *Not to be confused with [Shadow Bear](shadow-bear.md), a similar-looking bear inside the [30 bee gate](bear-gate.md).*

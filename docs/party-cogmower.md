@@ -15,15 +15,6 @@ The following content has been removed from the game. The contents below may be 
 <h3 class="pi-data-label pi-secondary-font">Location</h3>
 <div class="pi-data-value pi-font">Any fields except <a href="coconut-field.html">Coconut Field</a>, <a href="spider-field.html">Spider Field</a> and <a href="ant-field.html">Ant Field</a></div>
 </div>
-<section class="pi-item pi-group pi-border-color">
-<p>@@BLOCO0@@</p>
-</section>
-<section class="pi-item pi-group pi-border-color">
-<p>@@BLOCO1@@</p>
-</section>
-<section class="pi-item pi-group pi-border-color">
-<p>@@BLOCO2@@</p>
-</section>
 </aside>
 
 *Not to be confused with [Cogmowers](cogmower.md), the normal version of these or [Golden Cogmowers](golden-cogmower.md), the rarer, golden counterpart of Cogmowers.*

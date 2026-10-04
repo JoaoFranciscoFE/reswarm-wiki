@@ -13,23 +13,11 @@ tags: ["Pages with broken file links", "Shops", "Locations"]
 </div>
 </aside>
 
-**Robo Bear's Shop** is a [shop](https://bee-swarm-simulator.fandom.com/wiki/Category:Shops) run by [Robo Bear](robo-bear.md) located right of the [Red HQ](red-hq.md), next to the [Rose Field](rose-field.md). This shop sells all of the [drives](drives.md), and [Digital Bee](digital-bee.md). It was added alongside the rest of Robo Bear's area in the [2022-12-26](updates.md) update.
+**Robo Bear's Shop** is a [shop](shops.md) run by [Robo Bear](robo-bear.md) located right of the [Red HQ](red-hq.md), next to the [Rose Field](rose-field.md). This shop sells all of the [drives](drives.md), and [Digital Bee](digital-bee.md). It was added alongside the rest of Robo Bear's area in the [2022-12-26](updates.md) update.
 
 Robo Bear's Shop is not the official name of the shop; it is only called this (assumably) because the owner of the shop is Robo Bear.
 
-The formula for the price of each colored drive in honey is
-
-P
-(
-n
-)
-=
-250,000
-
-n
-
-2
-{\displaystyle P(n) = 250{,}000n^{2}}
+The formula for the price of each colored drive in honey is \(P(n) = 250{,}000n^{2}\)
 
 where *n* represents the *n*th drive of that type to purchase (1st is 250,000, 2nd is 1,000,000, 3rd is 2,250,000, etc.). The price for Glitched Drives begins at *n + 1*.
 

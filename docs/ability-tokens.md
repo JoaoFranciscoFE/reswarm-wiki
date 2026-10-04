@@ -14,7 +14,7 @@ Datamined information:
 * How many tokens, majorly Impale, Rain Cloud and Tornado, works internally
 * The use cooldown, trial cooldown and trial success rate of every ability
 
-Some of the information were taken from the [Ability Token Spreadsheet](https://docs.google.com/spreadsheets/d/1J_-839-bUuO9hUhTiBzkCQmBhMWAaBb9pqei3RUjTMg/edit?gid{{{=}}}0#gid{{{=}}}0). — December 19th, 2024
+Some of the information were taken from the [Ability Token Spreadsheet](https://docs.google.com/spreadsheets/d/1J_-839-bUuO9hUhTiBzkCQmBhMWAaBb9pqei3RUjTMg/edit?gid=0#gid=0). — December 19th, 2024
 
 This content contains assumptions.
 
@@ -54,63 +54,7 @@ Each ability token has 3 variables that dictate how often the ability token can 
 
 When a bee attempts to spawn its ability tokens, it goes through every token ability it can spawn and check if its use cooldown and attempt cooldown has expired. If it has, the bee attempts to spawn the token. If this attempt succeeds, the token is added to a pool. Once every ability has been checked, the bee looks in its pool and picks a random token to spawn, removing that token while keeping every other token in the pool for the next spawn attempt. The spawned token then starts its use cooldown again.
 
-The average time an ability token takes to spawn can be found using the formula: 
-
-t
-i
-m
-e
-=
-u
-s
-e
-C
-o
-o
-l
-d
-o
-w
-n
-+
-a
-t
-t
-e
-m
-p
-t
-C
-o
-o
-l
-d
-o
-w
-n
-×
-
-1
-
-a
-t
-t
-e
-m
-p
-t
-S
-u
-c
-c
-e
-s
-s
-R
-a
-t
-e
-{\displaystyle time=useCooldown+attemptCooldown\times {\frac {1}{attemptSuccessRate}}}
+The average time an ability token takes to spawn can be found using the formula: \(time=useCooldown+attemptCooldown\times {\frac {1}{attemptSuccessRate}}\)
 .
 
 ## Stats
@@ -755,7 +699,7 @@ Notably, this and [Festive Sprouts](sprout.md) are the only renewable methods to
 </th></tr>
 <tr>
 <td><span typeof="mw:Error mw:File"></span><span class="color-template color-template-red-boost-token color-template-background-clip">Red Boost Token</span><br/>
-<p><strong class="error"><span class="scribunto-error mw-scribunto-error-19681282">Lua error in Module:Item_image at line 88: Template error! There's no such file named File:Festive Blessing Token.png for Template:I.</span></strong><span class="color-template color-template-festive-blessing color-template-background-clip">Festive Blessing Token</span><br/>
+<p><span class="color-template color-template-festive-blessing color-template-background-clip">Festive Blessing Token</span><br/>
 <span typeof="mw:Error mw:File"></span><a href="treat.html"><span class="color-template color-template-treat">Treats</span></a><br/>
 <span typeof="mw:Error mw:File"></span><a href="sunflower-seed.html"><span class="color-template color-template-sunflower-seed color-template-background-clip">Sunflower Seeds</span></a><br/>
 <span typeof="mw:Error mw:File"></span><a href="strawberry.html"><span class="color-template color-template-strawberry color-template-background-clip">Strawberries</span></a><br/>
@@ -773,7 +717,7 @@ Notably, this and [Festive Sprouts](sprout.md) are the only renewable methods to
 <span typeof="mw:Error mw:File"></span><a href="sticker.html#Sticker_Index"><span class="color-template color-template-flying-festive-bee-sticker color-template-background-clip">Flying Festive Bee Sticker</span></a> (Beesmas only, Unbelievably rare, odds increase with bee's level)
 </p>
 </td>
-<td><strong class="error"><span class="scribunto-error mw-scribunto-error-e04c3e54">Lua error in Module:Item_image at line 88: Template error! There's no such file named File:Beesmas Cheer Token.png for Template:I.</span></strong><span class="color-template color-template-beesmas-cheer color-template-background-clip">Beesmas Cheer Token</span><br/>
+<td><span class="color-template color-template-beesmas-cheer color-template-background-clip">Beesmas Cheer Token</span><br/>
 <p><span typeof="mw:Error mw:File"></span><a href="glue.html"><span class="color-template color-template-glue color-template-background-clip">Glue</span></a> (Rare)<br/>
 <span typeof="mw:Error mw:File"></span><a href="oil.html"><span class="color-template color-template-oil color-template-background-clip">Oil</span></a> (Rare)<br/>
 <span typeof="mw:Error mw:File"></span><a href="enzymes.html"><span class="color-template color-template-enzymes color-template-background-clip">Enzymes</span></a> (Rare)<br/>
@@ -974,151 +918,12 @@ A more detailed explanation of the ability is provided below:
   * The number of times an enemy has been targeted is stored, henceforth referred to in formulas as *cnt*.
 * The summoned spikes' accuracy work the same way as bee attacks, just with 1 extra level if Vicious Bee is gifted.
 * The damage dealt is calculated in this order:
-  * Let *atk* be Vicious Bee's attack at the time of activation. Then 
-
-    b
-    a
-    s
-    e
-    D
-    a
-    m
-    a
-    g
-    e
-    =
-    2
-    ∗
-    a
-    t
-    k
-    {\displaystyle baseDamage=2\*atk}
-    .
+  * Let *atk* be Vicious Bee's attack at the time of activation. Then \(baseDamage=2\times atk\).
   * If the target has the Humanoid tag (as of the current update, every enemy has this tag), adds 5% of target's HP to *baseDamage*.
-  * If 
-
-    b
-    a
-    s
-    e
-    D
-    a
-    m
-    a
-    g
-    e
-    >
-    1000
-    {\displaystyle baseDamage>1000}
-    , excess damage is square rooted: 
-
-    b
-    a
-    s
-    e
-    D
-    a
-    m
-    a
-    g
-    e
-    =
-    1000
-    +
-
-    b
-    a
-    s
-    e
-    D
-    a
-    m
-    a
-    g
-    e
-    −
-    1000
-    {\displaystyle baseDamage=1000+{\sqrt {baseDamage-1000}}}
-  * The damage then is nerfed by the number of times the enemy has been targeted: 
-
-    b
-    a
-    s
-    e
-    D
-    a
-    m
-    a
-    g
-    e
-    =
-    b
-    a
-    s
-    e
-    D
-    a
-    m
-    a
-    g
-    e
-    ∗
-    0.05
-    +
-
-    b
-    a
-    s
-    e
-    D
-    a
-    m
-    a
-    g
-    e
-
-    c
-    n
-    t
-    ∗
-    0.95
-    {\displaystyle baseDamage=baseDamage\*0.05+{\frac {baseDamage}{cnt}}\*0.95}
-    .
+  * \(baseDamage>1000\), excess damage is square rooted: \(baseDamage=1000+{\sqrt {baseDamage-1000}}\)
+  * The damage then is nerfed by the number of times the enemy has been targeted: \(baseDamage=baseDamage\times 0.05+{\frac {baseDamage}{cnt}}\times 0.95\).
   * Critical hits and Super-Crits are then applied, along with any Impale damage multiplier, resulting in the variable *finalDamage*.
-  * If a critical hit or Super-Crit occurred, the damage is nerfed to 75%: 
-
-    f
-    i
-    n
-    a
-    l
-    D
-    a
-    m
-    a
-    g
-    e
-    =
-
-    ⌊
-
-    f
-    i
-    n
-    a
-    l
-    D
-    a
-    m
-    a
-    g
-    e
-    ∗
-    0.75
-    +
-    0.5
-    ⌋
-    {\displaystyle finalDamage=\left\lfloor {finalDamage\*0.75+0.5}\right\rfloor }
+  * If a critical hit or Super-Crit occurred, the damage is nerfed to 75%: \(finalDamage=\left\lfloor {finalDamage\times 0.75+0.5}\right\rfloor\)
   * The enemy is dealt *finalDamage* damage.
 
 Impale falls into the Battle category, meaning it spawns while attacking mobs.
@@ -1908,161 +1713,13 @@ When collected, all of the player's [Haste](buffs-debuffs.md#Haste) stacks are t
 
 The speed, damage, and lifespan of a summoned tornado depends on the number of Haste stacks spent and the level of the bee that summoned it. Let *x* be the number of Haste stacks spent and *y* be the level of the bee that summoned it, the following formulas can be used:
 
-* m
-  u
-  l
-  t
-  i
-  p
-  l
-  i
-  e
-  r
-  =
-  1
-  +
-  0.1
-  ×
-
-  (
-
-  y
-  −
-  1
-  19
-  )
-
-  2
-  {\displaystyle multiplier=1+0.1\times {({\frac {y-1}{19}})}^{2}}
-* d
-  u
-  r
-  a
-  t
-  i
-  o
-  n
-  =
-  10
-  +
-  x
-  ×
-  0.4
-  +
-
-  x
-
-  1.4
-  3.2
-  {\displaystyle duration=10+x\times 0.4+{\frac {x^{1.4}}{3.2}}}
-  , add 2 if at least 1 stack of Haste was spent
-* d
-  a
-  m
-  a
-  g
-  e
-  =
-  10
-  +
-
-  y
-
-  1.5
-  {\displaystyle damage=10+y^{1.5}}
-* Collects 
-
-  ⌊
-
-  3.5
-  +
-
-  y
-  3
-  ⌋
-  {\displaystyle \left\lfloor 3.5+{\frac {y}{3}}\right\rfloor }
-   pollen from each flower around its radius per second. Pollen collected is multiplied by *multiplier*.
-* Deals 
-
-  ⌊
-
-  0.5
-  +
-  d
-  a
-  m
-  a
-  g
-  e
-  +
-  (
-  20
-  +
-
-  y
-
-  1.5
-  ×
-  1.75
-  −
-  d
-  a
-  m
-  a
-  g
-  e
-  )
-  ×
-
-  (
-
-  x
-  3
-  )
-
-  2
-  ⌋
-  {\displaystyle \left\lfloor 0.5+damage+(20+y^{1.5}\times 1.75-damage)\times {({\frac {x}{3}})}^{2}\right\rfloor }
-   damage to each enemy in its radius per second.
-* Moves 
-
-  7
-  +
-  18
-  ×
-
-  x
-  10
-  {\displaystyle 7+18\times {\frac {x}{10}}}
-   studs a second.
-* Lasts for 
-
-  ⌊
-
-  d
-  u
-  r
-  a
-  t
-  i
-  o
-  n
-  ×
-  m
-  u
-  l
-  t
-  i
-  p
-  l
-  i
-  e
-  r
-  +
-  0.5
-  ⌋
-  {\displaystyle \left\lfloor duration\times multiplier+0.5\right\rfloor }
-   seconds.
+* \(multiplier=1+0.1\times {({\frac {y-1}{19}})}^{2}\)
+* \(duration=10+x\times 0.4+{\frac {x^{1.4}}{3.2}}\), add 2 if at least 1 stack of Haste was spent
+* \(damage=10+y^{1.5}\)
+* \(\left\lfloor 3.5+{\frac {y}{3}}\right\rfloor\) pollen from each flower around its radius per second. Pollen collected is multiplied by *multiplier*.
+* \(\left\lfloor 0.5+damage+(20+y^{1.5}\times 1.75-damage)\times {({\frac {x}{3}})}^{2}\right\rfloor\) damage to each enemy in its radius per second.
+* \(7+18\times {\frac {x}{10}}\) studs a second.
+* Lasts for \(\left\lfloor duration\times multiplier+0.5\right\rfloor\) seconds.
 
 Note that if the Tornado token is collected outside or above the field, it does **not** summon a tornado but **still** spends Haste stacks.
 
@@ -2250,4 +1907,3 @@ Additionally, the ball has a small chance to spawn 1 [Gingerbread Bear](gingerbr
 
 1. ↑ [[1]](https://discord.com/channels/427553293862961153/676148494276362260/919824274037039134) Discord message from Onett.
 
-zh-tw:技能代幣

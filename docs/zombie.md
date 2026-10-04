@@ -15,15 +15,6 @@ tags: ["Mobs", "Pages with broken file links", "Retro Swarm Challenge"]
 <h3 class="pi-data-label pi-secondary-font">Respawns Every</h3>
 <div class="pi-data-value pi-font">N/A</div>
 </div>
-<section class="pi-item pi-group pi-border-color">
-<p>@@BLOCO0@@</p>
-</section>
-<section class="pi-item pi-group pi-border-color">
-<p>@@BLOCO1@@</p>
-</section>
-<section class="pi-item pi-group pi-border-color">
-<p>@@BLOCO2@@</p>
-</section>
 </aside>
 
 The **Zombie** is one of the mobs exclusive in the [Retro Swarm Challenge](retro-swarm-challenge.md).

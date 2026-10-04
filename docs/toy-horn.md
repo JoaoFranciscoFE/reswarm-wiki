@@ -3221,4 +3221,3 @@ For smaller ranges, see [the linked subpage](toy-horn-probability.md).
 </td></tr></tbody></table>
 </td></tr></tbody></table>
 
-zh-tw:玩具號角

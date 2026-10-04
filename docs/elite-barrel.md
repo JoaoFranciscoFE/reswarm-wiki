@@ -16,9 +16,6 @@ tags: ["Bags", "Pages with broken file links", "Items"]
 <h3 class="pi-data-label pi-secondary-font">Description</h3>
 <div class="pi-data-value pi-font">"The worlds <i>[sic]</i> most advanced barrel. Increases pollen from certain fields."</div>
 </div>
-<section class="pi-item pi-group pi-border-color">
-<p>@@BLOCO0@@</p>
-</section>
 <div class="pi-item pi-data pi-item-spacing pi-border-color" data-source="stats">
 <h3 class="pi-data-label pi-secondary-font">Bonus Stats</h3>
 <div class="pi-data-value pi-font">+70% Convert Rate</div>
@@ -237,4 +234,3 @@ The **Elite Barrel** is a [Bag](bags.md) that can be purchased in the [Pro Shop]
 </td></tr></tbody></table>
 </td></tr></tbody></table>
 
-zh-tw:精英桶子

@@ -21,15 +21,6 @@ Datamined information: The formula for calculating Commando Chick's level at a g
 <h3 class="pi-data-label pi-secondary-font">Respawns Every</h3>
 <div class="pi-data-value pi-font">30:00 (25:30 with Gifted Vicious Bee hive boost)</div>
 </div>
-<section class="pi-item pi-group pi-border-color">
-<p>@@BLOCO0@@</p>
-</section>
-<section class="pi-item pi-group pi-border-color">
-<p>@@BLOCO1@@</p>
-</section>
-<section class="pi-item pi-group pi-border-color">
-<p>@@BLOCO2@@</p>
-</section>
 </aside>
 
 The **Commando Chick** is a mini-boss [chick](chicks.md) that spawns in [its hideout](commando-chick-s-hideout.md). Its hideout is located to the left of [Brown Bear](brown-bear.md) and the [Wealth Clock](wealth-clock.md). To cut the vines, the [Clippers](clippers.md), [Scissors](scissors.md), [Scythe](scythe.md) or [Dark Scythe](dark-scythe.md) needs to be equipped. Once the vines are cut, they will never regrow back.
@@ -47,39 +38,9 @@ The Commando Chick stays still and blocks attacks when it is in its shell. After
 The Commando Chick's level is based on the number of kills the player has recorded against it.   
 The following formula can be used to find the Commando Chick's level at a given number of kills:
 
-* Let the number of kills be 
-
-  x
-  {\displaystyle x}
-  .
-* If 
-
-  x
-  <
-  2
-  {\displaystyle x<2}
-  , its level is 3.
-* Otherwise, its level is 
-
-  3
-  +
-
-  ⌊
-
-  −
-  1.375
-  +
-
-  0.390625
-  +
-  1.5
-  x
-  0.75
-  +
-  1
-  ⌋
-  {\displaystyle 3+\left\lfloor {{\frac {-1.375+{\sqrt {0.390625+1.5x}}}{0.75}}+1}\right\rfloor }
-  , clamped between 1 and 25.
+* Let the number of kills be \(x\).
+* \(x<2\), its level is 3.
+* Otherwise, its level is \(3+\left\lfloor {{\frac {-1.375+{\sqrt {0.390625+1.5x}}}{0.75}}+1}\right\rfloor\), clamped between 1 and 25.
 
 The higher Commando Chick's level is, the more HP it has and the faster it moves, specifically by 0.5 more studs per level.   
 The below table gives the number of kills required for a certain level, and the amount of HP it has at that level.

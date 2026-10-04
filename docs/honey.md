@@ -341,4 +341,3 @@ Bees convert pollen into Honey at a set rate. For example, [Basic Bee](basic-bee
 <td class="NavLinks NavLinksBasicEven"><b><span typeof="mw:Error mw:File"></span> <a href="pollen.html">Pollen</a> • <span typeof="mw:Error mw:File"></span> <strong class="mw-selflink selflink">Honey</strong> • <span typeof="mw:Error mw:File"></span> <a href="ticket.html">Ticket</a> • <span typeof="mw:Error mw:File"></span> <a href="brick.html">Brick</a> • <span typeof="mw:Error mw:File"></span> <a href="cog.html">Cog</a> • <span typeof="mw:Error mw:File"></span> <a href="snowflake.html">Snowflake</a> • <span typeof="mw:Error mw:File"></span> <a href="gingerbread-bear.html">Gingerbread Bear</a></b>
 </td></tr></tbody></table>
 
-zh-tw:蜂蜜

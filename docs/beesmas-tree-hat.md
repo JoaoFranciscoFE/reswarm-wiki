@@ -4006,4 +4006,3 @@ Show/hide tables
 </td></tr></tbody></table>
 </td></tr></tbody></table>
 
-zh-tw:蜂誕樹帽
