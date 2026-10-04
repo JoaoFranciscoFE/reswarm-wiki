@@ -6,6 +6,11 @@ Community wiki for Re://:Swarm, built with [MkDocs Material](https://squidfunk.g
 Pages are Markdown files in `docs/`. Edit a file, commit to `main`, and the site
 is rebuilt and published automatically by GitHub Actions.
 
+## Adding an update log
+1. Copy `templates/update-log.md` to `docs/<update-name>.md` and fill it in.
+2. Add a card for it at the **top** of `docs/update-logs.md` (newest first).
+3. Add it under `"Update Logs"` in the `nav` of `mkdocs.yml`, right after `update-logs.md`.
+
 ## Running locally
     pip install -r requirements.txt
     mkdocs serve
