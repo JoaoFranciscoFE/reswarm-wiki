@@ -60,7 +60,7 @@ It can be boosted with the Ant Amulet, [Melody](ability-tokens.md#Melody), the [
 
 ### [Super-Crit Chance](critical-hits.md#Super-Crit_Chance)
 
-The possibility for a critical hit to Super-Crit. Super-Crits deals 33% more damage and collect twice as much pollen as a regular critical hit, and are instantly converted. When a hit is a Super-Crit, there will be a purple color indicating the damage and the **!** sign next to it. It can be boosted by having a Gifted Precise Bee, Tabby Blessing, Precision, a precise mark, the Bruteforce upgrade in the [Robo Bear Challenge](robo-bear-challenge.md), purchasing Bloxiade in the [Retro Swarm Challenge](retro-swarm-challenge.md), or using a [Super Smoothie](super-smoothie.md). The max possible Super-Crit Chance you can have at a time is 53% (assuming you are in the Robo Bear Challenge).
+The possibility for a critical hit to Super-Crit. Super-Crits deals 33% more damage and collect twice as much pollen as a regular critical hit, and are instantly converted. When a hit is a Super-Crit, there will be a purple color indicating the damage and the **!** sign next to it. It can be boosted by having a Gifted Precise Bee, Tabby Blessing, Precision, a precise mark, the Bruteforce upgrade in the [Robo Bear Challenge](robo-bear-challenge.md) or using a [Super Smoothie](super-smoothie.md). The max possible Super-Crit Chance you can have at a time is 53% (assuming you are in the Robo Bear Challenge).
 
 ### [Super-Crit Power](critical-hits.md#Super-Crit_Power)
 

@@ -256,13 +256,9 @@ The following content has been removed from the game. The contents below may be 
 </td>
 <td>
 <ul><li>Deal 10,000 Damage with the <a href="slingshot.html">Slingshot</a>.</li>
-<li>Drink 1 <a href="retro-swarm-challenge.html#Boost_Items">Bloxiade</a> in the <a href="retro-swarm-challenge.html">Retro Swarm Challenge</a>.</li>
-<li>Complete Round 8 in the <a href="retro-swarm-challenge.html">Retro Swarm Challenge</a>.</li>
 <li>Catch 50 <a href="bloom.html#Petals">Cyan Petals</a>.</li>
 <li>Purchase 2 <a href="bee-bear-s-catalog.html">Bee Bear's Catalog</a> items.</li>
-<li>Collect 2,000,000 <a href="pollen.html">Blue Pollen</a>.</li>
-<li>Collect 300,000 <a href="pollen.html">Pollen</a> from the <a href="blue-brick-field.html">Blue Brick Field</a>.</li>
-<li>Collect 100 <a href="brick-bloom.html">Brick Bloom</a> Tokens.</li></ul>
+<li>Collect 2,000,000 <a href="pollen.html">Blue Pollen</a>.</li></ul>
 </td>
 <td><img alt="Present" height="25" src="img/Present.png" width="25"/>1 <a href="present.html"><span class="color-template color-template-present color-template-background-clip">Present</span></a><br/>
 <p><img alt="Honey" height="25" src="img/Honey.png" width="25"/>10,000,000 <a href="honey.html"><span class="color-template color-template-honey">Honey</span></a><br/>
@@ -436,8 +432,6 @@ The following content has been removed from the game. The contents below may be 
 <li>Catch 25 Periwinkle Bloom Petals in the <a href="stump-field.html">Stump Field</a>.</li>
 <li>Catch 25 <a href="bloom.html">Red Bloom Petals</a> in the <a href="spider-field.html">Spider Field</a>.</li>
 <li>Catch 5 <a href="bloom.html">Merigold Bloom Petals</a> in the <a href="mountain-top-field.html">Mountain Top Field</a>.</li>
-<li>Complete Round 15 in the <a href="retro-swarm-challenge.html">Retro Swarm Challenge</a>.</li>
-<li>Deal 100,000 Damage with the <a href="retro-swarm-challenge.html#Weapons">Illumina</a>.</li>
 <li>Collect 150,000,000 <a href="pollen.html">Red Pollen</a>.</li>
 <li>Collect 1000 <a href="ability-tokens.html#Bomb">Red Bomb Tokens</a>.</li>
 <li>Collect 100 Tokens from <a href="ability-tokens.html#Festive_Gift">Festive Gifts</a>.</li>
@@ -611,7 +605,6 @@ The following content has been removed from the game. The contents below may be 
 <li>Catch 500 Scarlet Bloom Petals.</li>
 <li>Catch 500 Grey Bloom Petals.</li>
 <li>Catch 500 Black Bloom Petals.</li>
-<li>Collect 1,000 Brick Bloom Tokens.</li>
 <li>Share 250 Jelly Beans.</li>
 <li>Collect 250 Bitterberries.</li>
 <li>Collect 50 Hard Waxes.</li>
@@ -735,18 +728,6 @@ Oh ho ho. That's a nice [Sticker] you stuck up there. I think you deserve anothe
 </p><p><br/>
 <i>-Completion-</i>
 </p><p>🎵 Planter pot, planter pot, planter pot rock 🎵 🎵 They're gonna bring you so many things 🎵 🎵 Wax and Nectar and even a [Treat] 🎵 🎵 That's the Planter pot rocckk ~ 🎵 Ho hoooo! Did you get anything good in those things? Maybe some [Soft Wax]? That stuff is great for crafting even BETTER planters! Now, let's keep spreading that cheer to each and every field. Complete my next quest, and I'll have another [Present] ready for you!
-</p>
-</td></tr>
-<tr>
-<td>Slaying the Slimey Scrooges
-</td>
-<td>The mountain is reall starting to look merry, thanks to you and your bees! But the mountain isn't the ONLY place we need to worry about. Every inch of the universe needs to know Beesmas cheer! And there's one inch which is straight up un-jolly, overrun with nasty scrooges. The Retro Swarm Challenge! A forsaken land, forgotten to time. In there, nasty Zombies and Slimes from the year 2010 are terrorizing the hives, and RUINING Beesmas! They come from a time before Re://:Swarm even existed. A time before the world even knew proper JOY! Sad! And now they've come to destroy our fun in the present. Oh ho no no no, not on our watch. Quickly, take yourself to the purple portal and go clean that place up. Teach that naughty 1x1x1x1 the meaning of Beesmas, by obliterating his forces. If you don't, Beesmas will be ruined, and this [Present] we're working on for you may as well go in the trash!
-<p><br/>
-<i>-During-</i>
-</p><p>Reindeer Puppy Bee LOVES the Retro Swarm Challenge. Why? Well, I think it thinks all the Slimes are just giant tennis balls! A world full of smelly rotting Zombies and giant tennis balls?? That's like puppy heaven!
-</p><p><br/>
-<i>-Completion-</i>
-</p><p>Ho hooo! We're saved! Cub Buddy was so worried, but you saved the day! Not just for destroying those Slimes. But for helping to fund this whole operation through my catalog! Every [Snowflake] and [Gingerbread Bear] spent there goes straight to my quest reward fund for next year Will [sic] a small percentage kept to fund my jolly lifestyle, of course. But that means it's actually YOU who is bringing Beesmas joy to all the Bee Swarm players! And for that, you deserve the next [Present]. Go get yourself another [Ornament], and keep pumping up that Beesmas Tree! I want it to glow bright and gaudy so that the naughty mobs might know its might.
 </p>
 </td></tr>
 <tr>

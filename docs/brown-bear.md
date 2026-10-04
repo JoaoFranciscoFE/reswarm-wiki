@@ -1408,8 +1408,6 @@ The following content has been removed from the game. The contents below may be 
 <td>
 <ul><li>Collect 2,500,000 <a href="pollen.html">Pollen</a> from the <a href="clover-field.html">Clover Field</a>.</li>
 <li>Pop 10 Blooms in the Clover Field.</li>
-<li>Complete 10 Rounds in the <a href="retro-swarm-challenge.html">Retro Swarm Challenge</a>.</li>
-<li>Collect 250 <a href="brick.html">Brick</a> Tokens.</li>
 <li>Collect 5 <a href="field-dice.html">Field Dice</a></li>
 <li>Defeat 25 <a href="ladybug.html">Ladybugs</a></li>
 <li>Defeat 25 <a href="rhino-beetle.html">Rhino Beetles</a></li></ul>
@@ -1433,7 +1431,7 @@ Access to the <a href="stockings.html">Stockings</a>
 <td>Brown Bear's Stockings
 </td>
 <td>
-<p>Hey there bud! Merry Beesmas! You know, [Presents] are great and all, but there's something even better. Usually, they'd be hanging right on those hooks! That's right. I'm talking about stockings, stuffed full of goodies! But I've ran out of stuff to stuff them with. Hey... Could you help me gather more stuff? Just as a heads up, it won't be easy... To do this quest, you'll need to participate in the Retro Swarm Challenge. A minigame where you and your bees defend your hive from Zombies and Slimes! That means you'll need at least 10 bees! You can find the portal to the Retro Swarm Challenge beyond the 10 Bee Gate. Here's everything we'll need: Collect 2,500,00 Pollen from the Clover Field... Pop 10 Blooms in the Clover Field... Complete 10 Rounds in the Retro Swarm Challenge... Collect 250 [Brick] Tokens... Collect 5 [Field Dice]... And defeat 25 Ladybugs and Rhino Beetles!
+<p>Hey there bud! Merry Beesmas! You know, [Presents] are great and all, but there's something even better. Usually, they'd be hanging right on those hooks! That's right. I'm talking about stockings, stuffed full of goodies! But I've ran out of stuff to stuff them with. Hey... Could you help me gather more stuff? Just as a heads up, it won't be easy... Here's everything we'll need: Collect 2,500,00 Pollen from the Clover Field... Pop 10 Blooms in the Clover Field... Collect 5 [Field Dice]... And defeat 25 Ladybugs and Rhino Beetles!
 </p><p><i>- During -</i><br/>
 N/A
 </p><p><i>- Completion -</i><br/>

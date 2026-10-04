@@ -1488,18 +1488,10 @@ There are currently no obtainable event badges.
 <tr>
 <td><figure class="mw-halign-center" typeof="mw:Error mw:File"><figcaption></figcaption></figure> Re://:Swarm: TIX <i>X</i> (10x)
 </td>
-<td>Find a total of a total of 10 Tix inside of Re://:Swarm (4 were hidden in the main game, 3 were in the lobby subplace, and 3 were hidden in the <a href="retro-swarm-challenge.html">Retro Swarm Challenge</a>.
+<td>Find a total of 10 Tix inside of Re://:Swarm.
 </td>
 <td>
 <ul><li>+1 Tix currency to spend in the Roblox: <a href="https://www.roblox.com/games/17427651911/The-Classic">The Classic</a> hub (depending on how many badges were obtained).</li></ul>
-</td></tr>
-<tr>
-<td><figure class="mw-halign-center" typeof="mw:Error mw:File"><figcaption></figcaption></figure> Re://:Swarm: OG Token (Round <i>X</i>) (5x)
-</td>
-<td>A Token was awarded to the player if they managed to beat rounds 2, 4, 6, 8 and 10 in the Retro Swarm Challenge.
-</td>
-<td>
-<ul><li>+1 Token currency to spend in the Roblox: <a href="https://www.roblox.com/games/17427651911/The-Classic">The Classic</a> hub (depending on how many badges were obtained).</li></ul>
 </td></tr>
 <tr>
 <td><figure class="mw-halign-center" typeof="mw:Error mw:File"><figcaption></figcaption></figure> The Games: Shine (<i>X</i>/5) (5x)

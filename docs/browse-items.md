@@ -6,7 +6,7 @@ hide:
 
 # Items
 
-All 209 pages in Items, sorted by equipment tier (1 to 3 stars).
+All 208 pages in Items, sorted by equipment tier (1 to 3 stars).
 
 ## Tier 1
 
@@ -93,7 +93,6 @@ All 209 pages in Items, sorted by equipment tier (1 to 3 stars).
 <a class="wiki-card" href="blueberry.html"><img src="img/Blueberry.png" alt="" loading="lazy"><span>Blueberry</span></a>
 <a class="wiki-card" href="bottle-cap.html"><img src="img/Bottle_Cap.png" alt="" loading="lazy"><span>Bottle Cap</span></a>
 <a class="wiki-card" href="box-o-frogs.html"><img src="img/Box-O-Frogs.png" alt="" loading="lazy"><span>Box-O-Frogs</span></a>
-<a class="wiki-card" href="brick.html"><img src="img/Brick.png" alt="" loading="lazy"><span>Brick</span></a>
 <a class="wiki-card" href="broken-drive.html"><img src="img/Broken_Drive.png" alt="" loading="lazy"><span>Broken Drive</span></a>
 <a class="wiki-card" href="bubble-light.html"><img src="img/Bubble_Light.png" alt="" loading="lazy"><span>Bubble Light</span></a>
 <a class="wiki-card" href="bubble-wand.html"><img src="img/Bubble_Wand.png" alt="" loading="lazy"><span>Bubble Wand</span></a>

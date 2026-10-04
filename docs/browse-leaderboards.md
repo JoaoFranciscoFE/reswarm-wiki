@@ -6,7 +6,7 @@ hide:
 
 # Leaderboards
 
-All 72 pages in Leaderboards.
+All 66 pages in Leaderboards.
 
 <div class="wiki-cards">
 <a class="wiki-card" href="all-time-fastest-crab-slayers.html"><img src="img/All-Time_Fastest_Crab_Slayers.png" alt="" loading="lazy"><span>All-Time Fastest Crab Slayers</span></a>
@@ -23,7 +23,6 @@ All 72 pages in Leaderboards.
 <a class="wiki-card" href="all-time-top-nectar-collectors.html"><img src="img/All-Time_Top_Nectar_Collectors.png" alt="" loading="lazy"><span>All-Time Top Nectar Collectors</span></a>
 <a class="wiki-card" href="all-time-top-polar-bear-helpers.html"><img src="img/All-Time_Top_Polar_Bear_Helpers.png" alt="" loading="lazy"><span>All-Time Top Polar Bear Helpers</span></a>
 <a class="wiki-card" href="all-time-top-red-pollen-collectors.html"><img src="img/All-Time_Top_Red_Pollen_Collectors.png" alt="" loading="lazy"><span>All-Time Top Red Pollen Collectors</span></a>
-<a class="wiki-card" href="all-time-top-retro-swarm-hive-defenders.html"><img src="img/All-Time_Top_Retro_Swarm_Hive_Defenders.png" alt="" loading="lazy"><span>All-Time Top Retro Swarm Hive Defenders</span></a>
 <a class="wiki-card" href="all-time-top-riley-bee-helpers.html"><img src="img/All-Time_Top_Riley_Bee_Helpers.png" alt="" loading="lazy"><span>All-Time Top Riley Bee Helpers</span></a>
 <a class="wiki-card" href="all-time-top-robo-bear-challenge-scores.html"><img src="img/All-Time_Top_Robo_Bear_Challenge_Scores.png" alt="" loading="lazy"><span>All-Time Top Robo Bear Challenge Scores</span></a>
 <a class="wiki-card" href="all-time-top-stick-bug-fighters.html"><img src="img/All-Time_Top_Stick_Bug_Fighters.png" alt="" loading="lazy"><span>All-Time Top Stick Bug Fighters</span></a>
@@ -33,7 +32,6 @@ All 72 pages in Leaderboards.
 <a class="wiki-card" href="daily-top-ant-exterminators.html"><img src="img/Daily_Top_Ant_Exterminators.png" alt="" loading="lazy"><span>Daily Top Ant Exterminators</span></a>
 <a class="wiki-card" href="daily-top-aphid-exterminators.html"><img src="img/Daily_Top_Aphid_Exterminators.png" alt="" loading="lazy"><span>Daily Top Aphid Exterminators</span></a>
 <a class="wiki-card" href="daily-top-bamboo-field-collectors.html"><img src="img/Daily_Top_Bamboo_Field_Collectors.png" alt="" loading="lazy"><span>Daily Top Bamboo Field Collectors</span></a>
-<a class="wiki-card" href="daily-top-blue-brick-field-collectors.html"><img src="img/Daily_Top_Blue_Brick_Field_Collectors.png" alt="" loading="lazy"><span>Daily Top Blue Brick Field Collectors</span></a>
 <a class="wiki-card" href="daily-top-blue-flower-field-collectors.html"><img src="img/Daily_Top_Blue_Flower_Field_Collectors.png" alt="" loading="lazy"><span>Daily Top Blue Flower Field Collectors</span></a>
 <a class="wiki-card" href="daily-top-blue-pollen-collectors.html"><img src="img/Daily_Top_Blue_Pollen_Collectors.png" alt="" loading="lazy"><span>Daily Top Blue Pollen Collectors</span></a>
 <a class="wiki-card" href="daily-top-buzz-bomb-pollen-collectors.html"><img src="img/Daily_Top_Buzz_Bomb_Pollen_Collectors.png" alt="" loading="lazy"><span>Daily Top Buzz Bomb Pollen Collectors</span></a>
@@ -52,7 +50,6 @@ All 72 pages in Leaderboards.
 <a class="wiki-card" href="daily-top-hub-field-collectors.html"><img src="img/Daily_Top_Hub_Field_Collectors.png" alt="" loading="lazy"><span>Daily Top Hub Field Collectors</span></a>
 <a class="wiki-card" href="daily-top-legendary-bee-pollen-collectors.html"><img src="img/Daily_Top_Legendary_Bee_Pollen_Collectors.png" alt="" loading="lazy"><span>Daily Top Legendary Bee Pollen Collectors</span></a>
 <a class="wiki-card" href="daily-top-memory-matchers.html"><img src="img/Daily_Top_Memory_Matchers.png" alt="" loading="lazy"><span>Daily Top Memory Matchers</span></a>
-<a class="wiki-card" href="daily-top-mixed-brick-field-collectors.html"><img src="img/Daily_Top_Mixed_Brick_Field_Collectors.png" alt="" loading="lazy"><span>Daily Top Mixed Brick Field Collectors</span></a>
 <a class="wiki-card" href="daily-top-mountain-top-field-collectors.html"><img src="img/Daily_Top_Mountain_Top_Field_Collectors.png" alt="" loading="lazy"><span>Daily Top Mountain Top Field Collectors</span></a>
 <a class="wiki-card" href="daily-top-mushroom-field-collectors.html"><img src="img/Daily_Top_Mushroom_Field_Collectors.png" alt="" loading="lazy"><span>Daily Top Mushroom Field Collectors</span></a>
 <a class="wiki-card" href="daily-top-mythic-bee-pollen-collectors.html"><img src="img/Daily_Top_Mythic_Bee_Pollen_Collectors.png" alt="" loading="lazy"><span>Daily Top Mythic Bee Pollen Collectors</span></a>
@@ -62,9 +59,7 @@ All 72 pages in Leaderboards.
 <a class="wiki-card" href="daily-top-pineapple-patch-collectors.html"><img src="img/Daily_Top_Pineapple_Patch_Collectors.png" alt="" loading="lazy"><span>Daily Top Pineapple Patch Collectors</span></a>
 <a class="wiki-card" href="daily-top-pumpkin-patch-collectors.html"><img src="img/Daily_Top_Pumpkin_Patch_Collectors.png" alt="" loading="lazy"><span>Daily Top Pumpkin Patch Collectors</span></a>
 <a class="wiki-card" href="daily-top-rare-bee-pollen-collectors.html"><img src="img/Daily_Top_Rare_Bee_Pollen_Collectors.png" alt="" loading="lazy"><span>Daily Top Rare Bee Pollen Collectors</span></a>
-<a class="wiki-card" href="daily-top-red-brick-field-collectors.html"><img src="img/Daily_Top_Red_Brick_Field_Collectors.png" alt="" loading="lazy"><span>Daily Top Red Brick Field Collectors</span></a>
 <a class="wiki-card" href="daily-top-red-pollen-collectors.html"><img src="img/Daily_Top_Red_Pollen_Collectors.png" alt="" loading="lazy"><span>Daily Top Red Pollen Collectors</span></a>
-<a class="wiki-card" href="daily-top-retro-swarm-hive-defenders.html"><img src="img/Daily_Top_Retro_Swarm_Hive_Defenders.png" alt="" loading="lazy"><span>Daily Top Retro Swarm Hive Defenders</span></a>
 <a class="wiki-card" href="daily-top-robo-bear-challenge-scores.html"><img src="img/Daily_Top_Robo_Bear_Challenge_Scores.png" alt="" loading="lazy"><span>Daily Top Robo Bear Challenge Scores</span></a>
 <a class="wiki-card" href="daily-top-rose-field-collectors.html"><img src="img/Daily_Top_Rose_Field_Collectors.png" alt="" loading="lazy"><span>Daily Top Rose Field Collectors</span></a>
 <a class="wiki-card" href="daily-top-spider-field-collectors.html"><img src="img/Daily_Top_Spider_Field_Collectors.png" alt="" loading="lazy"><span>Daily Top Spider Field Collectors</span></a>
@@ -73,7 +68,6 @@ All 72 pages in Leaderboards.
 <a class="wiki-card" href="daily-top-strawberry-field-collectors.html"><img src="img/Daily_Top_Strawberry_Field_Collectors.png" alt="" loading="lazy"><span>Daily Top Strawberry Field Collectors</span></a>
 <a class="wiki-card" href="daily-top-stump-field-collectors.html"><img src="img/Daily_Top_Stump_Field_Collectors.png" alt="" loading="lazy"><span>Daily Top Stump Field Collectors</span></a>
 <a class="wiki-card" href="daily-top-sunflower-field-collectors.html"><img src="img/Daily_Top_Sunflower_Field_Collectors.png" alt="" loading="lazy"><span>Daily Top Sunflower Field Collectors</span></a>
-<a class="wiki-card" href="daily-top-white-brick-field-collectors.html"><img src="img/Daily_Top_White_Brick_Field_Collectors.png" alt="" loading="lazy"><span>Daily Top White Brick Field Collectors</span></a>
 <a class="wiki-card" href="daily-top-white-pollen-collectors.html"><img src="img/Daily_Top_White_Pollen_Collectors.png" alt="" loading="lazy"><span>Daily Top White Pollen Collectors</span></a>
 <a class="wiki-card" href="daily-top-wild-windy-token-collectors.html"><img src="img/Daily_Top_Wild_Windy_Token_Collectors.png" alt="" loading="lazy"><span>Daily Top Wild Windy Token Collectors</span></a>
 <a class="wiki-card" href="highest-robo-party-cake-rank.html"><img src="img/Highest_Robo_Party_Cake_Rank.png" alt="" loading="lazy"><span>Highest Robo Party Cake Rank</span></a>

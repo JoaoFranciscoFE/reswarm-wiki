@@ -28,8 +28,6 @@ CAP
   * 1,000 [Honeysuckles](honeysuckle.md)
 * As an extremely rare drop from an Epic [Puffshroom](puffshroom.md), a very rare drop from a Legendary Puffshroom and an uncommon drop from a Mythic Puffshroom.
 * As a very rare drop from any [planter](planter.md).
-* As a reward for reaching the Top 25 Daily [Leaderboard](leaderboards.md) for [Retro Swarm Challenge](retro-swarm-challenge.md).
-* As a very rare reward from the Retro Swarm Challenge.
 * As an extremely rare reward from the [Robo Bear Challenge](robo-bear-challenge.md).
 * As a reward from completing [Stick Bug's](stick-bug.md) Beesmas quest.
 * Purchasing the Purple-Turple Mega Pack from [Bee Bear's Catalog](bee-bear-s-catalog.md) gives 1 Turpentine + other items.
@@ -217,7 +215,7 @@ Total required for all single-purchase items: 35 **Turpentines**
 <tr>
 <th class="NavCategory">Currencies
 </th>
-<td class="NavLinks NavLinksBasicOdd" colspan="2"><b><img alt="Brick" height="35" src="img/Brick.png" width="35"/> <a href="brick.html">Brick</a> • <img alt="Cog" height="35" src="img/Cog.png" width="35"/> <a href="cog.html">Cog</a> • <img alt="Ticket" height="35" src="img/Ticket.png" width="35"/> <a href="ticket.html">Ticket</a></b>
+<td class="NavLinks NavLinksBasicOdd" colspan="2"><b><img alt="Cog" height="35" src="img/Cog.png" width="35"/> <a href="cog.html">Cog</a> • <img alt="Ticket" height="35" src="img/Ticket.png" width="35"/> <a href="ticket.html">Ticket</a></b>
 </td></tr></tbody></table>
 </td></tr>
 <tr>

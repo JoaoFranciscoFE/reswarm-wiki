@@ -43,7 +43,6 @@ The following audio plays when a micro-converter is used:
 * As a drop from a [Blue Clay Planter](blue-clay-planter.md).
   * Planting it in the [Spider Field](spider-field.md) makes it drop at least 10 Micro-Converters.
 * As a reward from [Robo Bear Challenge](robo-bear-challenge.md).
-* As a reward from [Retro Swarm Challenge](retro-swarm-challenge.md)
 * As a Stack Reward for adding certain [stickers](sticker.md) to the [Sticker Stack](sticker-stack.md):
   * The Alert Icon rewards 3 micro-converters.
   * The Simple Skyscraper rewards 3 micro-converters.
@@ -171,7 +170,7 @@ Total required for all single-purchase items: 10 **Micro-Converters**
 <tr>
 <th class="NavCategory">Currencies
 </th>
-<td class="NavLinks NavLinksBasicOdd" colspan="2"><b><img alt="Brick" height="35" src="img/Brick.png" width="35"/> <a href="brick.html">Brick</a> • <img alt="Cog" height="35" src="img/Cog.png" width="35"/> <a href="cog.html">Cog</a> • <img alt="Ticket" height="35" src="img/Ticket.png" width="35"/> <a href="ticket.html">Ticket</a></b>
+<td class="NavLinks NavLinksBasicOdd" colspan="2"><b><img alt="Cog" height="35" src="img/Cog.png" width="35"/> <a href="cog.html">Cog</a> • <img alt="Ticket" height="35" src="img/Ticket.png" width="35"/> <a href="ticket.html">Ticket</a></b>
 </td></tr></tbody></table>
 </td></tr>
 <tr>

@@ -32,7 +32,6 @@ The formula for the chance of turning a bee gifted is as follows: \(([1 - 0.989^
 
 * This, along with [Gingerbread Bears](gingerbread-bear.md) and [Star Treats](star-treat.md), are the only items that can turn [Event bees](bees-event.md) gifted (as they lack favorite treats.)
 * **Aged Gingerbread Bears** do not apply for quests that ask for the player to feed [Gingerbread Bears](gingerbread-bear.md) to their bees, such as [Bee Bear's](bee-bear.md) "Snow Cub Reformation (2/5)" quest.
-* If you got the free Gingerbread Bear from the Retro Swarm Challenge before Winter Beesmas 2024, even if it wasn't a year before, when Beesmas started, that Gingerbread Bear immediately turned into an Aged one.
 * Feeding 100 Aged Gingerbread Bears to a bee does not guarantee to turn it gifted. The chance of it becoming gifted is about 66.9%.
 
 <table class="mw-collapsible mw-collapsed NavTable">
@@ -114,5 +113,5 @@ The formula for the chance of turning a bee gifted is as follows: \(([1 - 0.989^
 <tr>
 <th class="NavCategory">Currencies
 </th>
-<td class="NavLinks NavLinksBasicOdd" colspan="2"><b><img alt="Brick" height="35" src="img/Brick.png" width="35"/> <a href="brick.html">Brick</a> • <img alt="Cog" height="35" src="img/Cog.png" width="35"/> <a href="cog.html">Cog</a> • <img alt="Ticket" height="35" src="img/Ticket.png" width="35"/> <a href="ticket.html">Ticket</a></b>
+<td class="NavLinks NavLinksBasicOdd" colspan="2"><b><img alt="Cog" height="35" src="img/Cog.png" width="35"/> <a href="cog.html">Cog</a> • <img alt="Ticket" height="35" src="img/Ticket.png" width="35"/> <a href="ticket.html">Ticket</a></b>
 </td></tr></tbody></table>

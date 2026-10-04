@@ -164,7 +164,6 @@ The Diamond Aphid is one of the 3 rare types of aphids, the others being Rage Ap
 
 ## Trivia
 
-* Aphids can spawn in the Retro Swarm Challenge.
 * [Meteors](mythic-meteor-shower.md) and [Wild Windy Bee](wild-windy-bee.md) collecting leaves can also spawn aphids.
 
 <table class="mw-collapsible NavTable">
@@ -202,11 +201,6 @@ The Diamond Aphid is one of the 3 rare types of aphids, the others being Rage Ap
 <th class="NavCategory"><a href="stick-bug-challenge.html">Stick Bug</a>
 </th>
 <td class="NavLinks NavLinksBasicEven"><b><a href="stick-bug.html">Stick Bug</a> • <a href="stick-nymph.html">Stick Nymph</a> • <a href="festive-nymph.html">Festive Nymph</a></b>
-</td></tr>
-<tr>
-<th class="NavCategory"><a href="retro-swarm-challenge.html">Retro Swarm Challenge</a>
-</th>
-<td class="NavLinks NavLinksBasicOdd"><b><a href="slime.html">Slime</a> • <a href="zombie.html">Zombie</a> • <a href="brick-bloom.html">Brick Bloom</a></b>
 </td></tr>
 <tr>
 <th class="NavCategory"><a href="robo-bear-challenge.html">Robo Bear Challenge</a>

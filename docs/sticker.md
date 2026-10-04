@@ -194,10 +194,10 @@ RarityEggPuffTreatFieldBeeToolPlanterBearMobChallenge
 </div><br/>
 <div class="IndexButtonTitle"> <span class="mw-default-size" typeof="mw:Error mw:File"></span>  Vouchers  <span class="mw-default-size" typeof="mw:Error mw:File"></span> </div><br/>
 <div class="IndexButtonDisplay">
-<div class="toggleall-IndexButton IndexButtonCell res-img buff-Pollen reward-Tickets type-Not_Categorized method-Robux method-Challenges-Challenge_Retro_Swarm-Chance_Nearly_Impossible method-Mob-Mob_Tunnel_Bear-Chance_Nearly_Impossible" id="alltoggle-Bear_Bee_Voucher" title="Bear Bee Voucher"><span class="mw-default-size" typeof="mw:Error mw:File"></span></div>
+<div class="toggleall-IndexButton IndexButtonCell res-img buff-Pollen reward-Tickets type-Not_Categorized method-Robux method-Mob-Mob_Tunnel_Bear-Chance_Nearly_Impossible" id="alltoggle-Bear_Bee_Voucher" title="Bear Bee Voucher"><span class="mw-default-size" typeof="mw:Error mw:File"></span></div>
 <div class="toggleall-IndexButton IndexButtonCell res-img buff-Honey_From_Tokens reward-Micro-Converters type-Not_Categorized method-Quest-Bear_Bee method-Robux method-Challenges-Challenge_Robo_Bear-Chance_Unfathomably_Rare" id="alltoggle-Cub_Buddy_Voucher" title="Cub Buddy Voucher"><span class="mw-default-size" typeof="mw:Error mw:File"></span></div>
-<div class="toggleall-IndexButton IndexButtonCell res-img buff-Bee_Gather_Pollen reward-Glue type-Not_Categorized method-Robux method-Challenges-Challenge_Retro_Swarm-Chance_Nearly_Impossible method-Mob-Mob_Wild_Windy-Chance_Nearly_Impossible" id="alltoggle-x2_Bee_Gather_Voucher" title="x2 Bee Gather Voucher"><span class="mw-default-size" typeof="mw:Error mw:File"></span></div>
-<div class="toggleall-IndexButton IndexButtonCell res-img buff-Convert_Rate reward-Enzymes type-Not_Categorized method-Robux method-Challenges-Challenge_Retro_Swarm-Chance_Nearly_Impossible method-Challenges-Challenge_Ant-Chance_Nearly_Impossible method-Quest-Bear_BBM" id="alltoggle-x2_Convert_Speed_Voucher" title="x2 Convert Speed Voucher"><span class="mw-default-size" typeof="mw:Error mw:File"></span></div>
+<div class="toggleall-IndexButton IndexButtonCell res-img buff-Bee_Gather_Pollen reward-Glue type-Not_Categorized method-Robux method-Mob-Mob_Wild_Windy-Chance_Nearly_Impossible" id="alltoggle-x2_Bee_Gather_Voucher" title="x2 Bee Gather Voucher"><span class="mw-default-size" typeof="mw:Error mw:File"></span></div>
+<div class="toggleall-IndexButton IndexButtonCell res-img buff-Convert_Rate reward-Enzymes type-Not_Categorized method-Robux method-Challenges-Challenge_Ant-Chance_Nearly_Impossible method-Quest-Bear_BBM" id="alltoggle-x2_Convert_Speed_Voucher" title="x2 Convert Speed Voucher"><span class="mw-default-size" typeof="mw:Error mw:File"></span></div>
 <div class="toggleall-IndexButton IndexButtonCell res-img buff-Epic_Bee_Pollen reward-Nectar_Shower_Vial type-Not_Categorized method-Special-Chance_Common method-Gift_Boxes method-Challenges-Challenge_Stick_Bug-Chance_Unfathomably_Rare method-Challenges-Challenge_Robo_Bear-Chance_Unfathomably_Rare method-Sticker_Planter-Any-Chance_Unfathomably_Rare" id="alltoggle-Offline_Voucher" title="Offline Voucher"><span class="mw-default-size" typeof="mw:Error mw:File"></span></div>
 <div class="toggleall-IndexButton IndexButtonCell res-img buff-Ticket_Chance reward-Ticket_Planter type-Not_Categorized method-Robux method-Quest-Any-Chance_Common method-Leaderboard method-Planter-Planter_Ticket-Any-Chance_Unfathomably_Rare" id="alltoggle-Ticket_Voucher" title="Ticket Voucher"><span class="mw-default-size" typeof="mw:Error mw:File"></span></div>
 </div><br/>
@@ -1078,7 +1078,6 @@ RarityEggPuffTreatFieldBeeToolPlanterBearMobChallenge
 <div class="IndexInfoboxSourcesBox">
 <div style="margin-bottom:0"><b>Where it's from:</b></div>
 <ul><li>Purchased for 800 Robux</li>
-<li>Reward from Retro Swarm Challenge (Nearly Impossible)</li>
 <li>Dropped by Tunnel Bear (Nearly Impossible)</li></ul>
 </div>
 </div>
@@ -1128,7 +1127,6 @@ RarityEggPuffTreatFieldBeeToolPlanterBearMobChallenge
 <div class="IndexInfoboxSourcesBox">
 <div style="margin-bottom:0"><b>Where it's from:</b></div>
 <ul><li>Purchased for 400 Robux</li>
-<li>Reward from Retro Swarm Challenge (Nearly Impossible)</li>
 <li>Dropped by Wild Windy Bee (Nearly Impossible)</li></ul>
 </div>
 </div>
@@ -1153,7 +1151,6 @@ RarityEggPuffTreatFieldBeeToolPlanterBearMobChallenge
 <div class="IndexInfoboxSourcesBox">
 <div style="margin-bottom:0"><b>Where it's from:</b></div>
 <ul><li>Purchased for 250 Robux</li>
-<li>Reward from Retro Swarm Challenge (Nearly Impossible)</li>
 <li>Reward from Ant Challenge (Nearly Impossible)</li>
 <li>(Not listed) Reward for completing Bubble Bee Man's Beesmas 2024 quest</li></ul>
 </div>
@@ -1208,7 +1205,7 @@ RarityEggPuffTreatFieldBeeToolPlanterBearMobChallenge
 <ul><li>Purchased for 400 Robux</li>
 <li>Included in various Beemsas bundles and quest rewards</li>
 <li>Reward for completing 250 Sticker-Seeker quests</li>
-<li>Reward for finishing in the top 100 of the following Daily Leaderboards: Ant Challenge, Stick Bug Challenge, Robo Bear Challenge, Retro Swarm Challenge, Damage to a Single Puffshroom</li>
+<li>Reward for finishing in the top 100 of the following Daily Leaderboards: Ant Challenge, Stick Bug Challenge, Robo Bear Challenge, Damage to a Single Puffshroom</li>
 <li>Ticket Planter (Unfathomably Rare)</li></ul>
 </div>
 </div>
@@ -8172,7 +8169,6 @@ Main article: [Cub Buddy](cub-buddy.md)
 </td>
 <td><div style="max-height:100px;overflow-y:auto">
 <ul><li>Purchased for 800 Robux</li>
-<li>Reward from Retro Swarm Challenge (Nearly Impossible)</li>
 <li>Dropped by Tunnel Bear (Nearly Impossible)</li></ul>
 </div></td></tr>
 <tr>
@@ -8204,7 +8200,6 @@ Main article: [Cub Buddy](cub-buddy.md)
 </td>
 <td><div style="max-height:100px;overflow-y:auto">
 <ul><li>Purchased for 400 Robux</li>
-<li>Reward from Retro Swarm Challenge (Nearly Impossible)</li>
 <li>Dropped by Wild Windy Bee (Nearly Impossible)</li></ul>
 </div></td></tr>
 <tr>
@@ -8220,7 +8215,6 @@ Main article: [Cub Buddy](cub-buddy.md)
 </td>
 <td><div style="max-height:100px;overflow-y:auto">
 <ul><li>Purchased for 250 Robux</li>
-<li>Reward from Retro Swarm Challenge (Nearly Impossible)</li>
 <li>Reward from Ant Challenge (Nearly Impossible)</li>
 <li>(Not listed) Reward for completing Bubble Bee Man's Beesmas 2024 quest</li></ul>
 </div></td></tr>
@@ -8257,7 +8251,7 @@ Main article: [Cub Buddy](cub-buddy.md)
 <ul><li>Purchased for 400 Robux</li>
 <li>Included in various Beemsas bundles and quest rewards</li>
 <li>Reward for completing 250 Sticker-Seeker quests</li>
-<li>Reward for finishing in the top 100 of the following Daily Leaderboards: Ant Challenge, Stick Bug Challenge, Robo Bear Challenge, Retro Swarm Challenge, Damage to a Single Puffshroom</li>
+<li>Reward for finishing in the top 100 of the following Daily Leaderboards: Ant Challenge, Stick Bug Challenge, Robo Bear Challenge, Damage to a Single Puffshroom</li>
 <li>Ticket Planter (Unfathomably Rare)</li></ul>
 </div></td></tr></tbody></table>
 

@@ -143,11 +143,6 @@ Cogturrets' level can range from 11 to 22 depending on the current round of the 
 <td class="NavLinks NavLinksBasicEven"><b><a href="stick-bug.html">Stick Bug</a> • <a href="stick-nymph.html">Stick Nymph</a> • <a href="festive-nymph.html">Festive Nymph</a></b>
 </td></tr>
 <tr>
-<th class="NavCategory"><a href="retro-swarm-challenge.html">Retro Swarm Challenge</a>
-</th>
-<td class="NavLinks NavLinksBasicOdd"><b><a href="slime.html">Slime</a> • <a href="zombie.html">Zombie</a> • <a href="brick-bloom.html">Brick Bloom</a></b>
-</td></tr>
-<tr>
 <th class="NavCategory"><a href="robo-bear-challenge.html">Robo Bear Challenge</a>
 </th>
 <td class="NavLinks NavLinksBasicEven"><b><a href="mechsquito.html">Mechsquito</a> • <a href="cogmower.html">Cogmower</a> • <strong class="mw-selflink selflink">Cogturret</strong> • <a href="mega-mechsquito.html">Mega Mechsquito</a> • <a href="golden-cogmower.html">Golden Cogmower</a></b>

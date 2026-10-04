@@ -3797,7 +3797,6 @@ Show/hide tables
 
 ## Trivia
 
-* When the [Retro Swarm Challenge](retro-swarm-challenge.md) released, there was a glitch that made it obtainable from [Stick Bug](stick-bug.md), outside of Beesmas.
 
 <table class="mw-collapsible autocollapse" style="margin:auto; background:#000; font-size: 10pt; border:5px solid #56CB5A; width: 100%; border-radius: 20px; -moz-border-radius: 20px; -webkit-border-radius: 20px; -khtml-border-radius: 20px; -icab-border-radius: 20px; -o-border-radius: 20px;">
 <tbody><tr>
@@ -3885,7 +3884,7 @@ Show/hide tables
 <tr>
 <th class="NavCategory">Currencies
 </th>
-<td class="NavLinks NavLinksBasicOdd" colspan="2"><b><img alt="Brick" height="35" src="img/Brick.png" width="35"/> <a href="brick.html">Brick</a> • <img alt="Cog" height="35" src="img/Cog.png" width="35"/> <a href="cog.html">Cog</a> • <img alt="Ticket" height="35" src="img/Ticket.png" width="35"/> <a href="ticket.html">Ticket</a></b>
+<td class="NavLinks NavLinksBasicOdd" colspan="2"><b><img alt="Cog" height="35" src="img/Cog.png" width="35"/> <a href="cog.html">Cog</a> • <img alt="Ticket" height="35" src="img/Ticket.png" width="35"/> <a href="ticket.html">Ticket</a></b>
 </td></tr></tbody></table>
 </td></tr>
 <tr>

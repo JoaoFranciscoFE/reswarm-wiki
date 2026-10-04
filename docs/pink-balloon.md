@@ -26,7 +26,6 @@ Pink balloons have a cap of 25 in the player's inventory, and 1 per player in th
 ## Ways to Obtain
 
 * As an exceptionally rare drop from the [Mantis](mantis.md) and the [Ladybug](ladybug.md).
-* As a drop from the [Retro Swarm Challenge](retro-swarm-challenge.md).
 * As a drop from the [Party Mega Mechsquito](party-mega-mechsquito.md).
 * As a drop from completing a Robo Party.
 
@@ -116,7 +115,7 @@ Pink balloons have a cap of 25 in the player's inventory, and 1 per player in th
 <tr>
 <th class="NavCategory">Currencies
 </th>
-<td class="NavLinks NavLinksBasicOdd" colspan="2"><b><img alt="Brick" height="35" src="img/Brick.png" width="35"/> <a href="brick.html">Brick</a> • <img alt="Cog" height="35" src="img/Cog.png" width="35"/> <a href="cog.html">Cog</a> • <img alt="Ticket" height="35" src="img/Ticket.png" width="35"/> <a href="ticket.html">Ticket</a></b>
+<td class="NavLinks NavLinksBasicOdd" colspan="2"><b><img alt="Cog" height="35" src="img/Cog.png" width="35"/> <a href="cog.html">Cog</a> • <img alt="Ticket" height="35" src="img/Ticket.png" width="35"/> <a href="ticket.html">Ticket</a></b>
 </td></tr></tbody></table>
 </td></tr>
 <tr>

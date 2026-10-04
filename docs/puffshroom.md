@@ -7,7 +7,7 @@ tags: ["Passive Mobs", "Mobs"]
 
 <figure class="thumb" style="width: 180px" typeof="mw:File/Thumb">  <figcaption class="thumbcaption"> <p class="caption">A common Puffshroom.</p> </figcaption> </figure>
 
-**Puffshrooms** are passive entities that spawn naturally on the 15th and the 45th minute of the hour in a random field except Hive Hub and Challenge Fields (Ant and Retro Swarm Challenge Fields); they may also spawn in the players' planters with their base level depending on the planter. Puffshrooms receive damage by collecting pollen around its vicinity, filling up the required pollen in the pollen meter will defeat the puffshroom, drop loot, and may release 0 to 4 spores that generates puffshrooms.
+**Puffshrooms** are passive entities that spawn naturally on the 15th and the 45th minute of the hour in a random field except Hive Hub and Challenge Fields (Ant Field); they may also spawn in the players' planters with their base level depending on the planter. Puffshrooms receive damage by collecting pollen around its vicinity, filling up the required pollen in the pollen meter will defeat the puffshroom, drop loot, and may release 0 to 4 spores that generates puffshrooms.
 
 ## Variants/Rarities
 
@@ -760,11 +760,6 @@ Puffshroom Blessing grants +1~10% of the following buffs for 3 hours depending o
 <th class="NavCategory"><a href="stick-bug-challenge.html">Stick Bug</a>
 </th>
 <td class="NavLinks NavLinksBasicEven"><b><a href="stick-bug.html">Stick Bug</a> • <a href="stick-nymph.html">Stick Nymph</a> • <a href="festive-nymph.html">Festive Nymph</a></b>
-</td></tr>
-<tr>
-<th class="NavCategory"><a href="retro-swarm-challenge.html">Retro Swarm Challenge</a>
-</th>
-<td class="NavLinks NavLinksBasicOdd"><b><a href="slime.html">Slime</a> • <a href="zombie.html">Zombie</a> • <a href="brick-bloom.html">Brick Bloom</a></b>
 </td></tr>
 <tr>
 <th class="NavCategory"><a href="robo-bear-challenge.html">Robo Bear Challenge</a>

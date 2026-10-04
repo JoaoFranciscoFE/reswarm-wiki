@@ -55,7 +55,7 @@ The formula of turning a bee gifted: \((1-0.99^{x})\times 100\%\) (𝑥 is the n
 <th class="NavTitle">Currencies
 </th></tr>
 <tr>
-<td class="NavLinks NavLinksBasicEven"><b><span typeof="mw:Error mw:File"></span> <a href="pollen.html">Pollen</a> • <img alt="Honey" height="35" src="img/Honey.png" width="35"/> <a href="honey.html">Honey</a> • <img alt="Ticket" height="35" src="img/Ticket.png" width="35"/> <a href="ticket.html">Ticket</a> • <img alt="Brick" height="35" src="img/Brick.png" width="35"/> <a href="brick.html">Brick</a> • <img alt="Cog" height="35" src="img/Cog.png" width="35"/> <a href="cog.html">Cog</a> • <img alt="Snowflake" height="35" src="img/Snowflake.png" width="35"/> <a href="snowflake.html">Snowflake</a> • <img alt="Gingerbread Bear" height="35" src="img/Gingerbread_Bear.png" width="35"/> <strong class="mw-selflink selflink">Gingerbread Bear</strong></b>
+<td class="NavLinks NavLinksBasicEven"><b><span typeof="mw:Error mw:File"></span> <a href="pollen.html">Pollen</a> • <img alt="Honey" height="35" src="img/Honey.png" width="35"/> <a href="honey.html">Honey</a> • <img alt="Ticket" height="35" src="img/Ticket.png" width="35"/> <a href="ticket.html">Ticket</a> • <img alt="Cog" height="35" src="img/Cog.png" width="35"/> <a href="cog.html">Cog</a> • <img alt="Snowflake" height="35" src="img/Snowflake.png" width="35"/> <a href="snowflake.html">Snowflake</a> • <img alt="Gingerbread Bear" height="35" src="img/Gingerbread_Bear.png" width="35"/> <strong class="mw-selflink selflink">Gingerbread Bear</strong></b>
 </td></tr></tbody></table>
 
 <table class="mw-collapsible mw-collapsed NavTable">
@@ -137,5 +137,5 @@ The formula of turning a bee gifted: \((1-0.99^{x})\times 100\%\) (𝑥 is the n
 <tr>
 <th class="NavCategory">Currencies
 </th>
-<td class="NavLinks NavLinksBasicOdd" colspan="2"><b><img alt="Brick" height="35" src="img/Brick.png" width="35"/> <a href="brick.html">Brick</a> • <img alt="Cog" height="35" src="img/Cog.png" width="35"/> <a href="cog.html">Cog</a> • <img alt="Ticket" height="35" src="img/Ticket.png" width="35"/> <a href="ticket.html">Ticket</a></b>
+<td class="NavLinks NavLinksBasicOdd" colspan="2"><b><img alt="Cog" height="35" src="img/Cog.png" width="35"/> <a href="cog.html">Cog</a> • <img alt="Ticket" height="35" src="img/Ticket.png" width="35"/> <a href="ticket.html">Ticket</a></b>
 </td></tr></tbody></table>
