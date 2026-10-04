@@ -32,7 +32,7 @@ tags: ["Pages with broken file links", "Bees", "Mythic"]
 </td>
 <td><span typeof="mw:Error mw:File"></span>
 </td>
-<td>No in-game description yet.
+<td>A lazy artillery bee who would rather shell the field than work.
 </td></tr>
 <tr>
 <td><img alt="Precise Bee" height="35" src="img/Precise_Bee.png" width="35"/> <a href="precise-bee.html">Precise Bee</a>
