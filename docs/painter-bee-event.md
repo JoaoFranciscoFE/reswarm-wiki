@@ -1,6 +1,6 @@
 ---
 title: "Painter Bee Event"
-tags: ["Events", "Painter Bee Event", "Re://:Swarm"]
+tags: ["Events", "Update Logs", "Painter Bee Event", "Re://:Swarm"]
 ---
 
 # Painter Bee Event

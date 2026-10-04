@@ -5,328 +5,57 @@ tags: ["Re://:Swarm"]
 
 # Tutorial
 
-The **Tutorial**, also nicknamed **Help**, gives information on the game and its aspects. New players are not shown it as soon as the game loads: after they claim a [hive](hive.md) and [Onett](onett.md)'s Honeyday welcome closes, the game asks *"You look new here! Want to do the tutorial?"* and the player can choose whether to start it. While any NPC conversation is open, the tutorial's dialog panel hides itself so it does not cover the conversation.
+The **Tutorial** in Re://:Swarm is a guided **walkthrough** led by [Black Bear](black-bear.md). Instead of flipping through picture pages, new players get one objective at a time in Black Bear's dialogue panel, and each step moves on as soon as they actually do it. Movement is never frozen.
 
-*The tutorial pages below were adapted from the Bee Swarm Simulator Wiki and may not match the Re://:Swarm tutorial word for word.*
+## Who gets it
 
-## Tutorial
+The walkthrough is offered to players who have made less than 1,000 honey in total and have no bees in their hive yet.
 
-### Welcome!
+1. Claim a [hive](hive.md).
+2. [Onett](onett.md) welcomes you with the Honeyday welcome.
+3. Shortly after Onett's welcome closes, the game asks *"You look new here! Want to do the tutorial?"*
 
-### Page 1
+Answer **Yes** to start the walkthrough or **No** to skip it. There is no skip button once it has started, and it cannot be replayed later.
 
-*Welcome to Re://:Swarm! In this game, you collect pollen from flowers and make honey.*
+While any NPC conversation is open, the walkthrough's panel hides itself so it does not cover the conversation.
 
-<figure class="mw-halign-right" typeof="mw:Error mw:File"><figcaption></figcaption></figure>
+## Steps
 
-<figure class="mw-halign-right" typeof="mw:Error mw:File"><figcaption></figcaption></figure>
+Every line comes from Black Bear. A step you have already done is skipped automatically.
 
-### Page 2
+| # | Black Bear says | Objective |
+|---|---|---|
+| 1 | *"Welcome! Let me get you started. This won't take long."* | Click to continue |
+| 2 | *"First, a hive of your own. Follow the arrow and stand on any free hive to claim it."* | Claim a hive (usually already done, so this step is skipped) |
+| 3 | *"That hive is yours. Now open your Eggs bag."* | Open the Eggs tab (the button pulses) |
+| 4 | *"There it is -- a Basic Egg. Every bee starts as one of these."* | Click to continue (the Basic [Egg](egg.md) is highlighted) |
+| 5 | *"Drag it onto one of the glowing slots in your hive."* | Place the egg in your hive (the bottom middle slots glow) |
+| 6 | *"Your first bee! Head to a flower field and walk over flowers to gather pollen."* | Collect some pollen |
+| 7 | *"Bag full? Walk back onto your hive to turn all that pollen into honey."* | Convert your bag at the hive |
+| 8 | *"Nice work. Here's 5 Royal Jelly for that -- use them on a bee to reroll it into a random type."* | Click to continue |
+| 9 | *"Honey buys everything: tools, bags, hive slots. Here! Complete my first quest -- collect 100 pollen from the Sunflower Field."* | Click to accept the **Sunflower Start** quest |
+| 10 | *"Collect it, then come back to me in the Sunflower Field to turn it in. There's a Magic Bean in it for you."* | Turn in Sunflower Start |
+| 11 | *"That's the loop: pollen, honey, spend, repeat. Later, Rebirth resets your honey but makes you permanently stronger. I'll tell you when you're ready."* | Click to finish |
 
-*But you don't do it alone... You are the leader of your own personal swarm of bees!*
+Steps 9 and 10 are skipped if you have already completed Sunflower Start.
 
-<figure class="mw-halign-right" typeof="mw:Error mw:File"><figcaption></figcaption></figure>
+## Rewards
 
-<figure class="mw-halign-right" typeof="mw:Error mw:File"><figcaption></figcaption></figure>
+| Reward | How |
+|---|---|
+| 5 [Royal Jelly](royal-jelly.md) | The first time you ever convert pollen into honey at your hive. You get this once per account, even if you skipped the walkthrough. |
+| 200 [Honey](honey.md) | Turning in Black Bear's **Sunflower Start** quest (collect 100 pollen from the [Sunflower Field](sunflower-field.md)). |
 
-### Claiming Your Hive
+Black Bear mentions a Magic Bean in step 10, but the quest only gives honey.
 
-### Page 3
+## Rebirth reminder
 
-*To hatch bees, walk up to an unclaimed honeycomb and press "Claim Hive".*
+After the walkthrough ends, Black Bear lets you know when you have enough honey for your first Rebirth:
 
-<figure class="mw-halign-right" typeof="mw:Error mw:File"><figcaption></figcaption></figure>
+> *"You've got enough honey to Rebirth! It resets your honey but makes you permanently stronger. Follow the arrow, or press the Rebirth symbol in your Boosts."*
 
-<figure class="mw-halign-right" typeof="mw:Error mw:File"><figcaption></figcaption></figure>
-
-### Hatching Eggs
-
-### Page 4
-
-*Open the Egg menu, then click and drag an egg onto one of the honeycomb cells.*
-
-<figure class="mw-halign-right" typeof="mw:Error mw:File"><figcaption></figcaption></figure>
-
-<figure class="mw-halign-right" typeof="mw:Error mw:File"><figcaption></figcaption></figure>
-
-### Page 5
-
-*Open the Egg menu, then click and drag an egg onto one of the honeycomb cells.*
-
-<figure class="mw-halign-right" typeof="mw:Error mw:File"><figcaption></figcaption></figure>
-
-<figure class="mw-halign-right" typeof="mw:Error mw:File"><figcaption></figcaption></figure>
-
-### Collecting Pollen
-
-### Page 6
-
-*Once you have your bees, walk into a flower field. Click to use your [scooper](scooper.md) to collect pollen.*
-
-<figure class="mw-halign-right" typeof="mw:Error mw:File"><figcaption></figcaption></figure>
-
-<figure class="mw-halign-right" typeof="mw:Error mw:File"><figcaption></figcaption></figure>
-
-### Page 7
-
-*Your bees will automatically collect pollen from flowers nearby.*
-
-<figure class="mw-halign-right" typeof="mw:Error mw:File"><figcaption></figcaption></figure>
-
-<figure class="mw-halign-right" typeof="mw:Error mw:File"><figcaption></figcaption></figure>
-
-### Bee Sleep
-
-### Page 8
-
-*After a while, your bees will get tired and return to your hive to sleep. After they wake up, they'll come find you.*
-
-<figure class="mw-halign-right" typeof="mw:Error mw:File"><figcaption></figcaption></figure>
-
-<figure class="mw-halign-right" typeof="mw:Error mw:File"><figcaption></figcaption></figure>
-
-### Making Honey
-
-### Page 9
-
-*As you collect pollen, the meter on your backpack will fill up.*
-
-<figure class="mw-halign-right" typeof="mw:Error mw:File"><figcaption></figcaption></figure>
-
-<figure class="mw-halign-right" typeof="mw:Error mw:File"><figcaption></figcaption></figure>
-
-### Page 10
-
-*When it's full, return to your hive and press "Make Honey". Your bees will begin making honey from the collected pollen.*
-
-<figure class="mw-halign-right" typeof="mw:Error mw:File"><figcaption></figcaption></figure>
-
-<figure class="mw-halign-right" typeof="mw:Error mw:File"><figcaption></figcaption></figure>
-
-### Page 11
-
-*When it's full, return to your hive and press "Make Honey". Your bees will begin making honey from the collected pollen.*
-
-<figure class="mw-halign-right" typeof="mw:Error mw:File"><figcaption></figcaption></figure>
-
-<figure class="mw-halign-right" typeof="mw:Error mw:File"><figcaption></figcaption></figure>
-
-### Page 12
-
-*Use honey to buy a faster [scooper](scooper.md), a bigger backpack, or more bee eggs!*
-
-<figure class="mw-halign-right" typeof="mw:Error mw:File"><figcaption></figcaption></figure>
-
-<figure class="mw-halign-right" typeof="mw:Error mw:File"><figcaption></figcaption></figure>
-
-### Page 13
-
-*Use honey to buy a faster [scooper](scooper.md), a bigger backpack, or more bee eggs!*
-
-<figure class="mw-halign-right" typeof="mw:Error mw:File"><figcaption></figcaption></figure>
-
-<figure class="mw-halign-right" typeof="mw:Error mw:File"><figcaption></figcaption></figure>
-
-### Page 14
-
-*Use honey to buy a faster [scooper](scooper.md), a bigger backpack, or more bee eggs!*
-
-<figure class="mw-halign-right" typeof="mw:Error mw:File"><figcaption></figcaption></figure>
-
-<figure class="mw-halign-right" typeof="mw:Error mw:File"><figcaption></figcaption></figure>
-
-### Bugs and Monsters
-
-### Page 15
-
-*Be careful, Some flower fields have hostile bugs and monsters in them!*
-
-<figure class="mw-halign-right" typeof="mw:Error mw:File"><figcaption></figcaption></figure>
-
-<figure class="mw-halign-right" typeof="mw:Error mw:File"><figcaption></figcaption></figure>
-
-### Page 16
-
-*If they kill you, you lose all the pollen in your backpack.*
-
-<figure class="mw-halign-right" typeof="mw:Error mw:File"><figcaption></figcaption></figure>
-
-<figure class="mw-halign-right" typeof="mw:Error mw:File"><figcaption></figcaption></figure>
-
-### Page 17
-
-*You can't attack monsters yourself, but your bees will defend you!*
-
-<figure class="mw-halign-right" typeof="mw:Error mw:File"><figcaption></figcaption></figure>
-
-<figure class="mw-halign-right" typeof="mw:Error mw:File"><figcaption></figcaption></figure>
-
-### Bee Types
-
-### Page 18
-
-*Discover new types of bees by hatching eggs and transforming bees with [Royal Jelly](royal-jelly.md).*
-
-<figure class="mw-halign-right" typeof="mw:Error mw:File"><figcaption></figcaption></figure>
-
-<figure class="mw-halign-right" typeof="mw:Error mw:File"><figcaption></figcaption></figure>
-
-### Page 19
-
-*There are many different types, all with different strengths and abilities!*
-
-<figure class="mw-halign-right" typeof="mw:Error mw:File"><figcaption></figcaption></figure>
-
-<figure class="mw-halign-right" typeof="mw:Error mw:File"><figcaption></figcaption></figure>
-
-### Bee Abilities
-
-### Page 20
-
-*Some boost the pollen you receive from flowers of a certain color.*
-
-<figure class="mw-halign-right" typeof="mw:Error mw:File"><figcaption></figcaption></figure>
-
-<figure class="mw-halign-right" typeof="mw:Error mw:File"><figcaption></figcaption></figure>
-
-### Page 21
-
-*Some collect pollen from many flowers at once!*
-
-<figure class="mw-halign-right" typeof="mw:Error mw:File"><figcaption></figcaption></figure>
-
-<figure class="mw-halign-right" typeof="mw:Error mw:File"><figcaption></figcaption></figure>
-
-### Page 22
-
-*Activate your bee's abilities by collecting the tokens they spawn.*
-
-<figure class="mw-halign-right" typeof="mw:Error mw:File"><figcaption></figcaption></figure>
-
-<figure class="mw-halign-right" typeof="mw:Error mw:File"><figcaption></figcaption></figure>
-
-### Page 23
-
-*Combo abilities to boost their power!*
-
-<figure class="mw-halign-right" typeof="mw:Error mw:File"><figcaption></figcaption></figure>
-
-<figure class="mw-halign-right" typeof="mw:Error mw:File"><figcaption></figcaption></figure>
-
-### Page 24
-
-*To see a bee's stats and abilities, click on its face in the Bee menu.*
-
-<figure class="mw-halign-right" typeof="mw:Error mw:File"><figcaption></figcaption></figure>
-
-<figure class="mw-halign-right" typeof="mw:Error mw:File"><figcaption></figcaption></figure>
-
-### Page 25
-
-*To see a bee's stats and abilities, click on its face in the Bee menu.*
-
-<figure class="mw-halign-right" typeof="mw:Error mw:File"><figcaption></figcaption></figure>
-
-<figure class="mw-halign-right" typeof="mw:Error mw:File"><figcaption></figcaption></figure>
-
-### Bears and Quests
-
-### Page 26
-
-*There are bears around the map who have quests for you to do.*
-
-<figure class="mw-halign-right" typeof="mw:Error mw:File"><figcaption></figcaption></figure>
-
-<figure class="mw-halign-right" typeof="mw:Error mw:File"><figcaption></figcaption></figure>
-
-### Page 27
-
-*You can tell they have something for you when you see a "!" symbol in front of them.*
-
-<figure class="mw-halign-right" typeof="mw:Error mw:File"><figcaption></figcaption></figure>
-
-<figure class="mw-halign-right" typeof="mw:Error mw:File"><figcaption></figcaption></figure>
-
-### Page 28
-
-*To talk to a bear, walk onto the platform in front of them and press "Talk to Bear".*
-
-<figure class="mw-halign-right" typeof="mw:Error mw:File"><figcaption></figcaption></figure>
-
-<figure class="mw-halign-right" typeof="mw:Error mw:File"><figcaption></figcaption></figure>
-
-### Page 29
-
-*Quests they give you will be listed in the Quest menu.*
-
-<figure class="mw-halign-right" typeof="mw:Error mw:File"><figcaption></figcaption></figure>
-
-<figure class="mw-halign-right" typeof="mw:Error mw:File"><figcaption></figcaption></figure>
-
-### Page 30
-
-*There, you can see which tasks you have to complete, and how much progress you've made.*
-
-<figure class="mw-halign-right" typeof="mw:Error mw:File"><figcaption></figcaption></figure>
-
-<figure class="mw-halign-right" typeof="mw:Error mw:File"><figcaption></figcaption></figure>
-
-### Page 31
-
-*Completing quests is a great way to earn honey, eggs, and more!*
-
-<figure class="mw-halign-right" typeof="mw:Error mw:File"><figcaption></figcaption></figure>
-
-<figure class="mw-halign-right" typeof="mw:Error mw:File"><figcaption></figcaption></figure>
-
-### Making Progress
-
-### Page 32
-
-*As you hatch more eggs and discover more types of bees, you'll be able to do more things!*
-
-<figure class="mw-halign-right" typeof="mw:Error mw:File"><figcaption></figcaption></figure>
-
-<figure class="mw-halign-right" typeof="mw:Error mw:File"><figcaption></figcaption></figure>
-
-### Page 33
-
-*Gates with numbers on them require you to hatch a certain number of eggs to pass.*
-
-<figure class="mw-halign-right" typeof="mw:Error mw:File"><figcaption></figcaption></figure>
-
-<figure class="mw-halign-right" typeof="mw:Error mw:File"><figcaption></figcaption></figure>
-
-### Page 34
-
-*Platforms with magnefying* [sic] *glass icons require you to discover a certain number of bee types to activate them.*
-
-<figure class="mw-halign-right" typeof="mw:Error mw:File"><figcaption></figcaption></figure>
-
-<figure class="mw-halign-right" typeof="mw:Error mw:File"><figcaption></figcaption></figure>
-
-### Page 35
-
-*You can see how many bees you have and which types you've discovered in the Bee menu.*
-
-<figure class="mw-halign-right" typeof="mw:Error mw:File"><figcaption></figcaption></figure>
-
-<figure class="mw-halign-right" typeof="mw:Error mw:File"><figcaption></figcaption></figure>
-
-### That's it!
-
-### Page 36
-
-*Grow your hive to work your way to the very top of the mountain! Good luck!*
-
-<figure class="mw-halign-right" typeof="mw:Error mw:File"><figcaption></figcaption></figure>
-
-<figure class="mw-halign-right" typeof="mw:Error mw:File"><figcaption></figcaption></figure>
-
-### Oh, also...
-
-### >> ☺
+An arrow leads to the Rebirth shop, the shop glows purple, and the Rebirth tile in your Boosts bar pulses. The reminder hides if your honey drops below the requirement and goes away for good after your first Rebirth. Players who skipped the walkthrough do not get it.
 
 ## Trivia
 
-* The riddle on the now removed 38th page of the Tutorial (>> ☺ These educational games make learning fun. Hop into them and it's begun!) is a hint toward the [code](codes.md) "Jumpstart".
+* The old Bee Swarm Simulator picture slideshow (36 pages) is still in the game's code, but it never opens and its Help button is hidden.

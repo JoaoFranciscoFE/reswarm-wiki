@@ -430,13 +430,14 @@ nav:
       - "Whirligig": whirligig.md
       - "Whistle": whistle.md
       - "White Balloon": white-balloon.md
-  - "Painter Bee Event":
-      - browse-painter-bee-event.md
-      - "Painter Bee Event": painter-bee-event.md
-      - "Painter Bee": painter-bee.md
-      - "Painter Stickers": painter-stickers.md
-      - "Fluxite Wax": fluxite-wax.md
-      - "Supreme Puffshroom": supreme-puffshroom.md
+  - "Update Logs":
+      - update-logs.md
+      - "Painter Bee Event":
+          - painter-bee-event.md
+          - "Painter Bee": painter-bee.md
+          - "Painter Stickers": painter-stickers.md
+          - "Fluxite Wax": fluxite-wax.md
+          - "Supreme Puffshroom": supreme-puffshroom.md
   - "Accessories":
       - browse-accessories.md
       - "Amulet": amulet.md
