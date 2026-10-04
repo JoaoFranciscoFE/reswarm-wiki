@@ -5,7 +5,7 @@ tags: ["Shops", "Locations", "Machines", "Starter Zone"]
 
 # Treat Shop
 
-![Treat Shop](img/Treat_Shop.png){ align=right width=150 }
+![Treat Shop](img/places/Treat_Shop.png){ .wiki-photo }
 
 <figure class="thumb mw-halign-right" style="width: 225px" typeof="mw:File/Thumb">  <figcaption class="thumbcaption"> <p class="caption">The Treat Shop in-game.</p> </figcaption> </figure>
 

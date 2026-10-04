@@ -5,6 +5,8 @@ tags: ["Locations", "Hive Hub"]
 
 # Hive Hub
 
+![Hive Hub](img/places/Hive_Hub.png){ .wiki-photo }
+
 *Not to be confused with the [Hub Field](hub-field.md).*
 
 The **Hive Hub** is a unique location added in the 2024-01-12 update. It is inside the Hive Hub Portal, which is beyond the [Ant Gate](ant-gate.md). It has several features, including a total of 36 hives for players to claim, the [Public Sticker Board](public-sticker-board.md), the [Sticker-Seeker](sticker-seeker.md), the [Hub Field](hub-field.md), a [Beequip](beequip.md) Storage chest, and [Sticker Sprouts](sprout.md) that spawns every 3 hours. The Hive Hub's purpose is to seek out opportunities to trade with other players and to craft the [Sticker-Seeker](sticker-seeker.md), a tool that specializes in collecting stickers and unlocks the [Sticker-Seeker's quests](sticker-seeker-quest-machine.md). The Hive Hub also has a field, aptly named the Hub Field, which instantly converts all pollen collected into honey, as well as [flowers](flowers.md) regrowing very often, so there is no need for Sprinklers. [Bees](bees.md) do not spawn in the Hive Hub to reduce lag. In the Summer Beesmas 2024 event, an obby made out of circular platforms was added. At the end of the obby, you jump up onto a hexagonal platform which has two tokens: a [Smooth Dice](smooth-dice.md) and a [Red Balloon](red-balloon.md).

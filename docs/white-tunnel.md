@@ -5,6 +5,8 @@ tags: ["Locations"]
 
 # White Tunnel
 
+![White Tunnel](img/places/White_Tunnel.png){ .wiki-photo }
+
 <figure class="thumb" style="width: 289px" typeof="mw:File/Thumb">  <figcaption class="thumbcaption"> <p class="caption">The interior of the White Tunnel.</p> </figcaption> </figure>
 
 The **White Tunnel** is a hidden location behind the [Brave Bee Gate](brave-bee-gate.md) that can be entered via the [Instant Converter](instant-converter.md) near the [Pineapple Patch](pineapple-patch.md) and [Stump Field](stump-field.md) and exited by standing on a platform in the middle of the tunnel. It is home to [Tunnel Bear](tunnel-bear.md). It does not contain any [items](items.md), but it does have a picture of a winking [Basic Bee](basic-bee.md) face at the end of the tunnel, hinting towards the [code](codes.md) "Wink" (valid). The farther down the tunnel you go, the narrower the tunnel becomes. This makes exploiting Tunnel Bear harder as you can only "turn around" at the beginning of the tunnel, elongating the fight.

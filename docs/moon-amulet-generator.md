@@ -5,6 +5,8 @@ tags: ["Locations", "Machines"]
 
 # Moon Amulet Generator
 
+![Moon Amulet Generator](img/places/Moon_Amulet_Generator.png){ .wiki-photo }
+
 <figure class="thumb" style="width: 214px" typeof="mw:File/Thumb">  <figcaption class="thumbcaption"> <p class="caption">The Moon Amulet Generator.</p> </figcaption> </figure>
 
 The **Moon Amulet Generator** is a machine located between [Spider Field](spider-field.md) and [Bamboo Field](bamboo-field.md) that allows the player to generate and/or replace a [Moon Amulet](moon-amulet.md). It costs 100 [Moon Charms](moon-charm.md) to use.

@@ -5,6 +5,8 @@ tags: ["Locations", "Machines", "Field Boosters"]
 
 # Field Booster
 
+![Field Booster](img/places/Field_Booster.png){ .wiki-photo }
+
 <figure class="thumb" style="width: 220px" typeof="mw:File/Thumb">  <figcaption class="thumbcaption"> <p class="caption">The Field Booster.</p> </figcaption> </figure>
 
 The **Field Booster** is a booster that provides a [field boost](field-boost.md) to a random field that is either colorless or has no primary color (mixed fields) for 15 minutes. The machine is located beyond the [Lion Bee Gate](lion-bee-gate.md), between the [Mountain Top Shop](mountain-top-shop.md) and the [Ticket Shop](ticket-shop.md). In order to use it, the player needs to have discovered 20 bee types. The cooldown is 45 minutes.

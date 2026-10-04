@@ -5,7 +5,7 @@ tags: ["Shops", "Locations", "Machines"]
 
 # Royal Jelly Shop
 
-![Royal Jelly Shop](img/Royal_Jelly_Shop.png){ align=right width=150 }
+![Royal Jelly Shop](img/places/Royal_Jelly_Shop.png){ .wiki-photo }
 
 <figure class="mw-halign-right" typeof="mw:Error mw:File"><figcaption>The Royal Jelly Shop.</figcaption></figure>
 

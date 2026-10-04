@@ -12,7 +12,7 @@ All 7 pages in About the game.
 <a class="wiki-card wiki-card--noicon" href="easter-eggs.html"><img src="images/no-icon.svg" alt="" loading="lazy"><span>Easter Eggs</span></a>
 <a class="wiki-card wiki-card--noicon" href="faq.html"><img src="images/no-icon.svg" alt="" loading="lazy"><span>FAQ</span></a>
 <a class="wiki-card" href="medals.html"><img src="img/Medals.png" alt="" loading="lazy"><span>Medals</span></a>
-<a class="wiki-card wiki-card--noicon" href="onett-s-lid-art.html"><img src="images/no-icon.svg" alt="" loading="lazy"><span>Onett&#x27;s Lid Art</span></a>
+<a class="wiki-card wiki-card--photo" href="onett-s-lid-art.html"><img src="img/places/Onett's_Lid_Art.png" alt="" loading="lazy"><span>Onett&#x27;s Lid Art</span></a>
 <a class="wiki-card" href="public-sticker-board.html"><img src="img/Public_Sticker_Board.png" alt="" loading="lazy"><span>Public Sticker Board</span></a>
 <a class="wiki-card" href="re-swarm.html"><img src="images/game-icon.png" alt="" loading="lazy"><span>Re://:Swarm</span></a>
 <a class="wiki-card wiki-card--noicon" href="tutorial.html"><img src="images/no-icon.svg" alt="" loading="lazy"><span>Tutorial</span></a>

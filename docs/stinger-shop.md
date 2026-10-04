@@ -5,7 +5,7 @@ tags: ["Shops", "Locations", "Machines"]
 
 # Stinger Shop
 
-![Stinger Shop](img/Stinger_Shop.png){ align=right width=150 }
+![Stinger Shop](img/places/Stinger_Shop.png){ .wiki-photo }
 
 <figure class="thumb" style="width: 275px" typeof="mw:File/Thumb">  <figcaption class="thumbcaption"> <p class="caption">The Stinger Shop.</p> </figcaption> </figure>
 

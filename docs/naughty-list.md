@@ -5,6 +5,8 @@ tags: ["Unobtainable", "Beesmas", "Locations", "Machines", "Summoner", "Beesmas 
 
 # Naughty List
 
+![Naughty List](img/places/Naughty_List.png){ .wiki-photo }
+
 <table style="color: #fff; background-color:#1c68355c; margin: 10px auto; border: 2px solid #ffffffd9; border-left: 15px solid #ffffffd9; border-radius: 5px">
 <tbody><tr>
 <td style="padding-left: 10px; width: 100px; font-size: 2vh; vertical-align: middle;"><span typeof="mw:Error mw:File"></span>

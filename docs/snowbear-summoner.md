@@ -5,6 +5,8 @@ tags: ["Summoner", "Machines", "Beesmas", "Locations", "Beesmas Decorations"]
 
 # Snowbear Summoner
 
+![Snowbear Summoner](img/places/Snowbear_Summoner.png){ .wiki-photo }
+
 This piece of content goes bye bye.
 
 The following content has been removed from the game. The contents below may be archival, but feel free to edit below.

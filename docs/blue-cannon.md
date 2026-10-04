@@ -5,6 +5,8 @@ tags: ["Transport", "Locations", "Machines"]
 
 # Blue Cannon
 
+![Blue Cannon](img/places/Blue_Cannon.png){ .wiki-photo }
+
 <figure class="thumb" style="width: 220px" typeof="mw:File/Thumb">  <figcaption class="thumbcaption"> <p class="caption">The Blue Cannon</p> </figcaption> </figure>
 
 The **Blue Cannon** is located on a rock platform between the [Pine Tree Forest](pine-tree-forest.md) and the [Rose Field](rose-field.md), neighbouring the [Royal Jelly Shop](royal-jelly-shop.md). It is available for use once the player has discovered 16 [bee](bees.md) types. If used without certain [buffs](buffs-debuffs.md) or [items](items.md), such as the [Parachute](parachute.md) or [Glider](glider.md), it will usually shoot the player to the 1 row of flowers of the [Clover Field](clover-field.md) closest to [Brown Bear](brown-bear.md); however, it may occasionally undershoot the player to the [Slingshot](slingshot.md) or between the [Mushroom](mushroom-field.md) and the [Dandelion Field](dandelion-field.md). It has a 5-second cooldown period.

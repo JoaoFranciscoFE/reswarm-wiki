@@ -7,6 +7,7 @@ tags: ["Locations", "Gates", "Ant Challenge"]
 
 <aside class="portable-infobox pi-background pi-border-color pi-theme-wikia pi-layout-default" role="region">
 <h2 class="pi-item pi-item-spacing pi-title pi-secondary-background" data-source="title1">Ant Gate</h2>
+<figure class="pi-item pi-image pi-photo"><img alt="Ant Gate" src="img/places/Ant_Gate.png" width="640" height="385"/></figure>
 <div class="pi-item pi-data pi-item-spacing pi-border-color" data-source="mobs">
 <h3 class="pi-data-label pi-secondary-font">Mobs</h3>
 <div class="pi-data-value pi-font"><ul><li>Ant</li><li><a href="army-ant.html">Army Ant</a></li><li><a href="flying-ant.html">Flying Ant</a></li><li><a href="giant-ant.html">Giant Ant</a></li><li><a href="fire-ant.html">Fire Ant</a></li></ul></div>

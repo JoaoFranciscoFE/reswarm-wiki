@@ -7,6 +7,7 @@ tags: ["Machines", "Locations", "Dispenser", "Goo"]
 
 <aside class="portable-infobox pi-background pi-border-color pi-theme-wikia pi-layout-stacked" role="region">
 <h2 class="pi-item pi-item-spacing pi-title pi-secondary-background" data-source="title">Glue Dispenser</h2>
+<figure class="pi-item pi-image pi-photo"><img alt="Glue Dispenser" src="img/places/Glue_Dispenser.png" width="640" height="385"/></figure>
 <section class="pi-item pi-group pi-border-color">
 <h2 class="pi-item pi-header pi-secondary-font pi-item-spacing pi-secondary-background">Information</h2>
 <div class="pi-item pi-data pi-item-spacing pi-border-color" data-source="usage">

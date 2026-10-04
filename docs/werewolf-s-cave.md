@@ -5,6 +5,8 @@ tags: ["Locations"]
 
 # Werewolf's Cave
 
+![Werewolf's Cave](img/places/Werewolf's_Cave.png){ .wiki-photo }
+
 *You might have been looking for [Cave Monster](cave-monster.md).*
 
 <figure class="thumb" style="width: 200px" typeof="mw:File/Thumb">  <figcaption class="thumbcaption"> <p class="caption">The exterior of the Werewolf's Cave.</p> </figcaption> </figure>

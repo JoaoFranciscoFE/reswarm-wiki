@@ -5,6 +5,8 @@ tags: ["Locations", "Machines"]
 
 # Wind Shrine
 
+![Wind Shrine](img/places/Wind_Shrine.png){ .wiki-photo }
+
 <figure class="thumb" style="width: 225px" typeof="mw:File/Thumb">  <figcaption class="thumbcaption"> <p class="caption">The Wind Shrine.</p> </figcaption> </figure>
 
 <figure class="thumb" style="width: 224px" typeof="mw:File/Thumb">  <figcaption class="thumbcaption"> <p class="caption">A bug that happens with the Wind Shrine when the chimes go too high up.</p> </figcaption> </figure>

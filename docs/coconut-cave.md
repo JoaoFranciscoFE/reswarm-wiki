@@ -5,6 +5,8 @@ tags: ["Shops", "Locations"]
 
 # Coconut Cave
 
+![Coconut Cave](img/places/Coconut_Cave.png){ .wiki-photo }
+
 <figure class="thumb mw-halign-right" style="width: 210px" typeof="mw:File/Thumb">  <figcaption class="thumbcaption"> <p class="caption">The inside of the Coconut Cave.</p> </figcaption> </figure>
 
 The **Coconut Cave** is a cave located next to the [Coconut Field](coconut-field.md). To access the cave, the player is required to defeat the [Coconut Crab](coconut-crab.md) when it respawns out of the cave, If the player has not defeated the Coconut Crab yet and attempts to enter the cave (without actually standing in the field), they will be teleported back to the spawn place. There is also an invisible barrier on top of the Cave to prevent players from entering the cave when the Coconut Crab is not defeated yet, this is used to avoid lagging players from entering the cave without Coconut Crab being defeated.
