@@ -7,7 +7,7 @@ theme:
   font:
     text: Rubik
     code: Roboto Mono
-  features: [search.suggest, search.highlight, navigation.top, navigation.instant]
+  features: [search.suggest, search.highlight, navigation.top, navigation.instant, navigation.indexes, navigation.footer]
   palette:
     - scheme: slate
       primary: amber
@@ -22,6 +22,9 @@ plugins:
   - tags
 markdown_extensions:
   - md_in_html
+  - pymdownx.snippets:
+      base_path: [snippets]
+      check_paths: true
   - attr_list
   - tables
   - toc:
@@ -34,8 +37,9 @@ extra_javascript:
   - https://cdn.jsdelivr.net/npm/mathjax@3/es5/tex-mml-chtml.js
 copyright: "Content adapted from the Bee Swarm Simulator Wiki (Fandom), licensed under CC BY-SA 3.0."
 nav:
-  - Home: index.md
+  - "Home": index.md
   - "Bees":
+      - browse-bees.md
       - "Baby Bee": baby-bee.md
       - "Basic Bee": basic-bee.md
       - "Bear Bee": bear-bee.md
@@ -97,6 +101,7 @@ nav:
       - "Wild Windy Bee": wild-windy-bee.md
       - "Windy Bee": windy-bee.md
   - "Bears":
+      - browse-bears.md
       - "Bee Bear": bee-bear.md
       - "Black Bear": black-bear.md
       - "Brown Bear": brown-bear.md
@@ -117,6 +122,7 @@ nav:
       - "Top Bear": top-bear.md
       - "Tunnel Bear": tunnel-bear.md
   - "Quests":
+      - browse-quests.md
       - "Bee Bear": bee-bear.md
       - "Black Bear": black-bear.md
       - "Brown Bear": brown-bear.md
@@ -138,6 +144,7 @@ nav:
       - "Sticker-Seeker Quest Machine": sticker-seeker-quest-machine.md
       - "Sun Bear": sun-bear.md
   - "Fields":
+      - browse-fields.md
       - "Ant Field": ant-field.md
       - "Bamboo Field": bamboo-field.md
       - "Blue Brick Field": blue-brick-field.md
@@ -166,6 +173,7 @@ nav:
       - "Sunflower Field": sunflower-field.md
       - "White Brick Field": white-brick-field.md
   - "Mobs":
+      - browse-mobs.md
       - "Ant": ant.md
       - "Ants": ants.md
       - "Aphid": aphid.md
@@ -214,6 +222,7 @@ nav:
       - "Wild Windy Bee": wild-windy-bee.md
       - "Zombie": zombie.md
   - "Items":
+      - browse-items.md
       - "Aged Gingerbread Bear": aged-gingerbread-bear.md
       - "Amulet": amulet.md
       - "Ant Pass": ant-pass.md
@@ -427,12 +436,14 @@ nav:
       - "Whistle": whistle.md
       - "White Balloon": white-balloon.md
   - "Painter Bee Event":
+      - browse-painter-bee-event.md
       - "Painter Bee Event": painter-bee-event.md
       - "Painter Bee": painter-bee.md
       - "Painter Stickers": painter-stickers.md
       - "Fluxite Wax": fluxite-wax.md
       - "Supreme Puffshroom": supreme-puffshroom.md
   - "Accessories":
+      - browse-accessories.md
       - "Amulet": amulet.md
       - "Ant Amulet": ant-amulet.md
       - "B.B.M. Mask": b-b-m-mask.md
@@ -481,6 +492,7 @@ nav:
       - "Star Amulet": star-amulet.md
       - "Stick Bug Amulet": stick-bug-amulet.md
   - "Mechanics":
+      - browse-mechanics.md
       - "Ability Tokens": ability-tokens.md
       - "Amulet": amulet.md
       - "Badges": badges.md
@@ -531,6 +543,7 @@ nav:
       - "System Page": system-page.md
       - "Trading": trading.md
   - "About the game":
+      - browse-about-the-game.md
       - "Bee Swarm Simulator Club": bee-swarm-simulator-club.md
       - "Bee Swarm Simulator Wiki": bee-swarm-simulator-wiki.md
       - "BSS Staff": bss-staff.md
@@ -547,6 +560,7 @@ nav:
       - "Tutorial": tutorial.md
       - "Updates": updates.md
   - "Places & Objects":
+      - browse-places-objects.md
       - "Ant Gate": ant-gate.md
       - "Badge Bearer's Guild": badge-bearer-s-guild.md
       - "Basic Bee Gate": basic-bee-gate.md
@@ -588,6 +602,7 @@ nav:
       - "Windy Bee Gate": windy-bee-gate.md
       - "Yellow Cannon": yellow-cannon.md
   - "Shops":
+      - browse-shops.md
       - "Basic Egg Shop": basic-egg-shop.md
       - "Bee Bear's Catalog": bee-bear-s-catalog.md
       - "Bee Bear's Catalog/2025": bee-bear-s-catalog-2025.md
@@ -606,6 +621,7 @@ nav:
       - "Ticket Shop": ticket-shop.md
       - "Treat Shop": treat-shop.md
   - "Dispensers":
+      - browse-dispensers.md
       - "Ant Pass Dispenser": ant-pass-dispenser.md
       - "Blueberry Dispenser": blueberry-dispenser.md
       - "Coconut Dispenser": coconut-dispenser.md
@@ -622,6 +638,7 @@ nav:
       - "Treat Dispenser": treat-dispenser.md
       - "Vicious Bee Egg Claim": vicious-bee-egg-claim.md
   - "Events":
+      - browse-events.md
       - "Ant Challenge": ant-challenge.md
       - "Ant Challenge Info": ant-challenge-info.md
       - "Bee Bear/2025": bee-bear-2025.md
@@ -651,6 +668,7 @@ nav:
       - "Stick Bug Challenge": stick-bug-challenge.md
       - "Stockings": stockings.md
   - "Leaderboards":
+      - browse-leaderboards.md
       - "All-Time Fastest Crab Slayers": all-time-fastest-crab-slayers.md
       - "All-Time Tallest Sticker Stack": all-time-tallest-sticker-stack.md
       - "All-Time Top Ant Exterminators": all-time-top-ant-exterminators.md
@@ -724,6 +742,7 @@ nav:
       - "Monthly Top Honeymakers": monthly-top-honeymakers.md
       - "Most Commando Captures": most-commando-captures.md
   - "Probabilities":
+      - browse-probabilities.md
       - "Ant Amulet/Probability": ant-amulet-probability.md
       - "Autumn Sunhat/Probability": autumn-sunhat-probability.md
       - "Bandage/Probability": bandage-probability.md
@@ -774,4 +793,4 @@ nav:
       - "Toy Horn/Probability": toy-horn-probability.md
       - "Warm Scarf/Probability": warm-scarf-probability.md
       - "Whistle/Probability": whistle-probability.md
-  - All tags: tags.md
+  - "All tags": tags.md

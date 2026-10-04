@@ -352,3 +352,7 @@ Bear Bee likes the [Pumpkin Patch](pumpkin-patch.md) and the [Pine Tree Forest](
 
 
 1. ↑ [[1]](https://trademarks.justia.com/owners/bear-bee-llc-3823322/) Trademarks owned by Bear Bee LLC.
+
+## All bees
+
+--8<-- "all-bees.md"

@@ -124,3 +124,50 @@ body { font-size: 15px; }
 /* Never stretch pictures: keep their own shape inside any fixed box */
 .md-typeset img { object-fit: contain; }
 .md-typeset img[width]:not([height]) { height: auto; }
+
+/* ---- Cleaner layout (inspired by Majestic Bees Wiki) ---- */
+/* Sidebar: only the main categories; pages are reached through each category's card page */
+.md-nav--primary .md-nav__item--nested > .md-nav { display: none; }
+.md-nav--primary .md-nav__item--nested > .md-nav__link .md-nav__icon { display: none; }
+@media screen and (min-width: 76.25em) {
+  .md-nav--primary > .md-nav__list > .md-nav__item > .md-nav__link,
+  .md-nav--primary > .md-nav__list > .md-nav__item > .md-nav__container > .md-nav__link {
+    padding: .45em .7em; margin: .15em 0; border-radius: 6px; font-weight: 500; font-size: .74rem;
+  }
+  .md-nav--primary > .md-nav__list > .md-nav__item--active > .md-nav__link,
+  .md-nav--primary > .md-nav__list > .md-nav__item--active > .md-nav__container > .md-nav__link {
+    background: rgba(0, 194, 214, .12); outline: 1px solid rgba(0, 194, 214, .35);
+  }
+}
+
+/* Bigger search box in the header */
+@media screen and (min-width: 60em) {
+  .md-search__inner { width: 24rem; }
+  .md-search__input { font-size: .8rem; }
+}
+@media screen and (min-width: 76.25em) { .md-search__inner { width: 30rem; } }
+
+/* Card grids */
+.wiki-cards { display: grid; grid-template-columns: repeat(auto-fill, minmax(9.5rem, 1fr)); gap: .6rem; margin: .8em 0 1.4em; }
+.md-typeset .wiki-card {
+  display: flex; align-items: center; gap: .6em; padding: .5em .7em; border-radius: 8px;
+  background: #142224; border: 1px solid #263738; color: var(--md-default-fg-color);
+  text-decoration: none; transition: border-color .15s, transform .15s, background .15s;
+}
+.md-typeset .wiki-card:hover { border-color: var(--md-typeset-a-color); background: #18292b; transform: translateY(-1px); text-decoration: none; }
+.md-typeset .wiki-card img { width: 2.6rem; height: 2.6rem; object-fit: contain; flex: none; }
+.md-typeset .wiki-card span { font-size: .72rem; line-height: 1.25; }
+.wiki-cards--small { grid-template-columns: repeat(auto-fill, minmax(7.5rem, 1fr)); gap: .35rem; }
+.md-typeset .wiki-cards--small .wiki-card { padding: .25em .5em; }
+.md-typeset .wiki-cards--small .wiki-card span { font-size: .65rem; }
+.md-typeset .wiki-cards--small .wiki-card img { width: 2rem; height: 2rem; }
+.wiki-cards--big { grid-template-columns: repeat(auto-fill, minmax(8rem, 1fr)); gap: .8rem; }
+.md-typeset .wiki-cards--big .wiki-card { flex-direction: column; text-align: center; padding: 1em .5em .8em; }
+.md-typeset .wiki-cards--big .wiki-card img { width: 4rem; height: 4rem; }
+.md-typeset .wiki-cards--big .wiki-card span { font-size: .8rem; font-weight: 600; }
+[data-md-color-scheme="default"] .md-typeset .wiki-card { background: #f3f6f7; border-color: #dbe3e5; }
+
+/* Home page hero */
+.md-typeset h1.wiki-hero-title { text-align: center; font-size: 2.4em; font-weight: 500; margin: .2em 0 .6em; }
+.wiki-hero { text-align: center; max-width: 30rem; margin: 0 auto 1.5em; }
+.md-typeset .wiki-hero-banner { width: 100%; border-radius: 10px; box-shadow: 0 4px 16px rgba(0, 0, 0, .45); margin-bottom: .8em; }

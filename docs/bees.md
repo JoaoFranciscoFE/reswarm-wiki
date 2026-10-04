@@ -1,6 +1,6 @@
 ---
 title: "Bees"
-tags: ["Pages with broken file links", "Bees", "Gameplay", "Re://:Swarm"]
+tags: ["Bees", "Gameplay", "Re://:Swarm"]
 ---
 
 # Bees

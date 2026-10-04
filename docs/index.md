@@ -1,33 +1,21 @@
 ---
 title: "Re://:Swarm Wiki"
 tags: []
+hide:
+  - toc
 ---
 
-# Re://:Swarm Wiki
+# Re://:Swarm Wiki { .wiki-hero-title }
 
-![Re://:Swarm](images/game-banner.png)
+<div class="wiki-hero" markdown>
+<img class="wiki-hero-banner" src="images/game-banner.png" alt="Re://:Swarm">
 
-Welcome to the Re://:Swarm Wiki!
+The community encyclopedia for **[Re://:Swarm](re-swarm.md)**: hatch bees, collect pollen, make honey and complete quests. Use the search bar at the top, or pick a category below.
+</div>
 
-The community encyclopedia for **[Re://:Swarm](re-swarm.md)** – hatch bees, collect pollen, make honey and complete quests. Anyone can edit!
+## Browse the wiki
 
-## Explore the wiki
-
-🐝 [Bees](bees.md)
-
-📜 [Quests](quests.md)
-
-🐻 [Bears](quest-givers.md)
-
-🌻 [Fields](fields.md)
-
-🎒 [Items](items.md)
-
-🕷️ [Mobs](mobs.md)
-
-🥚 [Eggs](egg.md)
-
-⚙️ [Mechanics](mechanics.md)
+--8<-- "home-cards.md"
 
 ## Current event
 

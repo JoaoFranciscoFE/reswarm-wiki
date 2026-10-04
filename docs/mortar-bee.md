@@ -58,3 +58,7 @@ Mortar Bee has no active abilities, only passives.
 <figure><img alt="Mortar Bee pack" src="img/Mortar_Bee_Pack.png" width="128"><figcaption>Old Mortar Bee shop pack image</figcaption></figure>
 <figure><img alt="Flying Mortar Bee" src="img/Flying_Mortar_Bee.png" width="128"><figcaption>Flying Mortar Bee sticker</figcaption></figure>
 </div>
+
+## All bees
+
+--8<-- "all-bees.md"
