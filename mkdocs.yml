@@ -1,5 +1,5 @@
 site_name: "Re://:Swarm Wiki"
-# site_url: https://SEU-USUARIO.github.io/NOME-DO-REPOSITORIO/
+site_url: https://reswarm.org/
 use_directory_urls: false
 theme:
   name: material
