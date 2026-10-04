@@ -5,6 +5,8 @@ tags: ["Bags", "Pages with broken file links", "Items"]
 
 # Porcelain Port-O-Hive
 
+![Porcelain Port-O-Hive](img/Porcelain_Port-O-Hive.png){ align=right width=150 }
+
 <aside class="portable-infobox pi-background pi-border-color pi-theme-wikia pi-layout-stacked" role="region">
 <h2 class="pi-item pi-item-spacing pi-title pi-secondary-background" data-source="title1">Porcelain Port-O-Hive</h2>
 <div class="pi-item pi-data pi-item-spacing pi-border-color" data-source="description">

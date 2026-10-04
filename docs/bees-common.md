@@ -14,7 +14,7 @@ tags: ["Pages with broken file links", "Bees", "Common"]
 <th style="width:40%">Description
 </th></tr>
 <tr>
-<td><span typeof="mw:Error mw:File"></span> <a href="basic-bee.html">Basic Bee</a>
+<td><img alt="Basic Bee" height="35" src="img/Basic_Bee.png" width="35"/> <a href="basic-bee.html">Basic Bee</a>
 </td>
 <td><span typeof="mw:Error mw:File"></span>
 </td>

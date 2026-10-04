@@ -5,6 +5,8 @@ tags: ["Pages with broken file links", "Removed Content", "NPC", "Blue", "Quest 
 
 # Gifted Bucko Bee
 
+![Gifted Bucko Bee](img/Gifted_Bucko_Bee.png){ align=right width=150 }
+
 Some content in this page is missing.
 
 This content in this page **was documented late**. You can help the Re://:Swarm Wiki by proofreading the information or **[adding missing pieces of information](gifted-bucko-bee.md)**.
@@ -302,7 +304,7 @@ In addition to [Blue Extract](blue-extract.md) and [Honey](honey.md) for complet
 <td>250
 </td>
 <td><span typeof="mw:Error mw:File"></span>1 <a href="egg.html#Gifted_Diamond_Egg"><span class="color-template color-template-gifted-diamond-egg color-template-background-clip">Gifted Diamond Egg</span></a>
-<p>Access to the <span typeof="mw:Error mw:File"></span> <a href="tide-popper.html">Tide Popper</a>
+<p>Access to the <img alt="Tide Popper" height="35" src="img/Tide_Popper.png" width="35"/> <a href="tide-popper.html">Tide Popper</a>
 </p>
 </td></tr>
 <tr>

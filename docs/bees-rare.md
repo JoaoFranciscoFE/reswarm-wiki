@@ -14,63 +14,63 @@ tags: ["Pages with broken file links", "Bees", "Rare"]
 <th style="width:40%">Description
 </th></tr>
 <tr>
-<td><span typeof="mw:Error mw:File"></span> <a href="bomber-bee.html">Bomber Bee</a>
+<td><img alt="Bomber Bee" height="35" src="img/Bomber_Bee.png" width="35"/> <a href="bomber-bee.html">Bomber Bee</a>
 </td>
 <td><span typeof="mw:Error mw:File"></span>
 </td>
 <td>This crafty bee makes bombs which collect pollen from all nearby flowers.
 </td></tr>
 <tr>
-<td><span typeof="mw:Error mw:File"></span> <a href="brave-bee.html">Brave Bee</a>
+<td><img alt="Brave Bee" height="35" src="img/Brave_Bee.png" width="35"/> <a href="brave-bee.html">Brave Bee</a>
 </td>
 <td><span typeof="mw:Error mw:File"></span>
 </td>
 <td>This loyal bee will do anything to protect its owner.
 </td></tr>
 <tr>
-<td><span typeof="mw:Error mw:File"></span> <a href="bumble-bee.html">Bumble Bee</a>
+<td><img alt="Bumble Bee" height="35" src="img/Bumble_Bee.png" width="35"/> <a href="bumble-bee.html">Bumble Bee</a>
 </td>
 <td><span typeof="mw:Error mw:File"></span>
 </td>
 <td>A mellow fellow who moves a little slow, but works harder and longer than others.
 </td></tr>
 <tr>
-<td><span typeof="mw:Error mw:File"></span> <a href="cool-bee.html">Cool Bee</a>
+<td><img alt="Cool Bee" height="35" src="img/Cool_Bee.png" width="35"/> <a href="cool-bee.html">Cool Bee</a>
 </td>
 <td><span typeof="mw:Error mw:File"></span>
 </td>
 <td>A sarcastic bee who's a little better than the others. Sometimes boosts pollen from Blue flowers.
 </td></tr>
 <tr>
-<td><span typeof="mw:Error mw:File"></span> <a href="hasty-bee.html">Hasty Bee</a>
+<td><img alt="Hasty Bee" height="35" src="img/Hasty_Bee.png" width="35"/> <a href="hasty-bee.html">Hasty Bee</a>
 </td>
 <td><span typeof="mw:Error mw:File"></span>
 </td>
 <td>A quick bee who always zips arounds <i>[sic]</i>. Sometimes it even makes YOU move faster.
 </td></tr>
 <tr>
-<td><span typeof="mw:Error mw:File"></span> <a href="looker-bee.html">Looker Bee</a>
+<td><img alt="Looker Bee" height="35" src="img/Looker_Bee.png" width="35"/> <a href="looker-bee.html">Looker Bee</a>
 </td>
 <td><span typeof="mw:Error mw:File"></span>
 </td>
 <td>This silent bee is always watching and gaining valuable insights.
 </td></tr>
 <tr>
-<td><span typeof="mw:Error mw:File"></span> <a href="rad-bee.html">Rad Bee</a>
+<td><img alt="Rad Bee" height="35" src="img/Rad_Bee.png" width="35"/> <a href="rad-bee.html">Rad Bee</a>
 </td>
 <td><span typeof="mw:Error mw:File"></span>
 </td>
 <td>A stylish bee with a taste for red flowers. Everyone wants to be this bee.
 </td></tr>
 <tr>
-<td><span typeof="mw:Error mw:File"></span> <a href="rascal-bee.html">Rascal Bee</a>
+<td><img alt="Rascal Bee" height="35" src="img/Rascal_Bee.png" width="35"/> <a href="rascal-bee.html">Rascal Bee</a>
 </td>
 <td><span typeof="mw:Error mw:File"></span>
 </td>
 <td>A mischievous bee who moves quick and hits hard. Keep an eye out on this one.
 </td></tr>
 <tr>
-<td><span typeof="mw:Error mw:File"></span> <a href="stubborn-bee.html">Stubborn Bee</a>
+<td><img alt="Stubborn Bee" height="35" src="img/Stubborn_Bee.png" width="35"/> <a href="stubborn-bee.html">Stubborn Bee</a>
 </td>
 <td><span typeof="mw:Error mw:File"></span>
 </td>

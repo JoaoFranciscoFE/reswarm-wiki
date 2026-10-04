@@ -5,6 +5,8 @@ tags: ["Pages with broken file links", "Mechanics"]
 
 # Sprout
 
+![Sprout](img/Sprout.png){ align=right width=150 }
+
 *Were you looking for [Magic Bean](magic-bean.md)?*
 
 <figure class="thumb" style="width: 180px" typeof="mw:File/Thumb">  <figcaption class="thumbcaption"> <p class="caption">The sprout model.</p> </figcaption> </figure>

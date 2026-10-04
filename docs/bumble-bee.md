@@ -12,10 +12,10 @@ tags: ["Pages with broken file links", "Bees", "Rare", "Blue"]
 <tr>
 <td class="templateBeeTabber" colspan="3"><center>
 <div><h3>Original</h3>
-<p><span typeof="mw:Error mw:File"></span>
+<p><img alt="Bumble Bee" height="150" src="img/Bumble_Bee.png" width="150"/>
 </p>
 <h3>Gifted</h3>
-<p><span typeof="mw:Error mw:File"></span>
+<p><img alt="Gifted Bumble Bee" height="150" src="img/Gifted_Bumble_Bee.png" width="150"/>
 </p>
 </div>
 </center>
@@ -401,27 +401,27 @@ Bumble Bee likes the [Blue Flower Field](blue-flower-field.md) and the [Stump Fi
 </td><td>Base Probability
 </td><td>Probability of getting a particular rare bee.
 </td></tr><tr>
-<td style="text-align:left; padding:5px 0 5px 25px;"><span typeof="mw:Error mw:File"></span><a href="egg.html#Basic_Egg">Basic Egg</a>
+<td style="text-align:left; padding:5px 0 5px 25px;"><img alt="Basic Egg" height="35" src="img/Basic_Egg.png" width="35"/><a href="egg.html#Basic_Egg">Basic Egg</a>
 </td><td>10%
 </td><td>1.11111%
 </td></tr><tr>
-<td style="text-align:left; padding:5px 0 5px 25px;"><span typeof="mw:Error mw:File"></span><a href="egg.html#Silver_Egg">Silver Egg</a>
+<td style="text-align:left; padding:5px 0 5px 25px;"><img alt="Silver Egg" height="35" src="img/Silver_Egg.png" width="35"/><a href="egg.html#Silver_Egg">Silver Egg</a>
 </td><td>64.9%
 </td><td>7.21111%
 </td></tr><tr>
-<td style="text-align:left; padding:5px 0 5px 25px;"><span typeof="mw:Error mw:File"></span><a href="egg.html#Gold_Egg">Gold Egg</a>
+<td style="text-align:left; padding:5px 0 5px 25px;"><img alt="Gold Egg" height="35" src="img/Gold_Egg.png" width="35"/><a href="egg.html#Gold_Egg">Gold Egg</a>
 </td><td>0%
 </td><td>0%
 </td></tr><tr>
-<td style="text-align:left; padding:5px 0 5px 25px;"><span typeof="mw:Error mw:File"></span><a href="egg.html#Diamond_Egg">Diamond Egg</a>
+<td style="text-align:left; padding:5px 0 5px 25px;"><img alt="Diamond Egg" height="35" src="img/Diamond_Egg.png" width="35"/><a href="egg.html#Diamond_Egg">Diamond Egg</a>
 </td><td>0%
 </td><td>0%
 </td></tr><tr>
-<td style="text-align:left; padding:5px 0 5px 25px;"><span typeof="mw:Error mw:File"></span><a href="egg.html#Mythic_Egg">Mythic Egg</a>
+<td style="text-align:left; padding:5px 0 5px 25px;"><img alt="Mythic Egg" height="35" src="img/Mythic_Egg.png" width="35"/><a href="egg.html#Mythic_Egg">Mythic Egg</a>
 </td><td>0%
 </td><td>0%
 </td></tr><tr>
-<td style="text-align:left; padding:5px 0 5px 25px;"><span typeof="mw:Error mw:File"></span><a href="royal-jelly.html">Royal Jelly</a>
+<td style="text-align:left; padding:5px 0 5px 25px;"><img alt="Royal Jelly" height="35" src="img/Royal_Jelly.png" width="35"/><a href="royal-jelly.html">Royal Jelly</a>
 </td><td>70%
 </td><td>7.77778%
 </td></tr>
@@ -451,26 +451,26 @@ Bumble Bee likes the [Blue Flower Field](blue-flower-field.md) and the [Stump Fi
 <tr>
 <th class="NavCategory">Common &amp; Rare
 </th>
-<td class="NavLinks NavLinksRare"><b><span typeof="mw:Error mw:File"></span> <a href="basic-bee.html">Basic Bee</a> • <span typeof="mw:Error mw:File"></span> <a href="bomber-bee.html">Bomber Bee</a>  • <span typeof="mw:Error mw:File"></span> <a href="brave-bee.html">Brave Bee</a> • <span typeof="mw:Error mw:File"></span> <strong class="mw-selflink selflink">Bumble Bee</strong> • <span typeof="mw:Error mw:File"></span> <a href="cool-bee.html">Cool Bee</a> • <span typeof="mw:Error mw:File"></span> <a href="hasty-bee.html">Hasty Bee</a> • <span typeof="mw:Error mw:File"></span> <a href="looker-bee.html">Looker Bee</a> • <span typeof="mw:Error mw:File"></span> <a href="rad-bee.html">Rad Bee</a> • <span typeof="mw:Error mw:File"></span> <a href="rascal-bee.html">Rascal Bee</a> • <span typeof="mw:Error mw:File"></span> <a href="stubborn-bee.html">Stubborn Bee</a></b>
+<td class="NavLinks NavLinksRare"><b><img alt="Basic Bee" height="35" src="img/Basic_Bee.png" width="35"/> <a href="basic-bee.html">Basic Bee</a> • <img alt="Bomber Bee" height="35" src="img/Bomber_Bee.png" width="35"/> <a href="bomber-bee.html">Bomber Bee</a>  • <img alt="Brave Bee" height="35" src="img/Brave_Bee.png" width="35"/> <a href="brave-bee.html">Brave Bee</a> • <img alt="Bumble Bee" height="35" src="img/Bumble_Bee.png" width="35"/> <strong class="mw-selflink selflink">Bumble Bee</strong> • <img alt="Cool Bee" height="35" src="img/Cool_Bee.png" width="35"/> <a href="cool-bee.html">Cool Bee</a> • <img alt="Hasty Bee" height="35" src="img/Hasty_Bee.png" width="35"/> <a href="hasty-bee.html">Hasty Bee</a> • <img alt="Looker Bee" height="35" src="img/Looker_Bee.png" width="35"/> <a href="looker-bee.html">Looker Bee</a> • <img alt="Rad Bee" height="35" src="img/Rad_Bee.png" width="35"/> <a href="rad-bee.html">Rad Bee</a> • <img alt="Rascal Bee" height="35" src="img/Rascal_Bee.png" width="35"/> <a href="rascal-bee.html">Rascal Bee</a> • <img alt="Stubborn Bee" height="35" src="img/Stubborn_Bee.png" width="35"/> <a href="stubborn-bee.html">Stubborn Bee</a></b>
 </td></tr>
 <tr>
 <th class="NavCategory">Epic
 </th>
-<td class="NavLinks NavLinksEpic"><b><span typeof="mw:Error mw:File"></span> <a href="bubble-bee.html">Bubble Bee</a> • <span typeof="mw:Error mw:File"></span> <a href="bucko-bee.html">Bucko Bee</a> • <span typeof="mw:Error mw:File"></span> <a href="commander-bee.html">Commander Bee</a> • <span typeof="mw:Error mw:File"></span> <a href="demo-bee.html">Demo Bee</a> • <span typeof="mw:Error mw:File"></span> <a href="exhausted-bee.html">Exhausted Bee</a> • <span typeof="mw:Error mw:File"></span> <a href="fire-bee.html">Fire Bee</a> • <span typeof="mw:Error mw:File"></span> <a href="frosty-bee.html">Frosty Bee</a> • <span typeof="mw:Error mw:File"></span> <a href="honey-bee.html">Honey Bee</a> • <span typeof="mw:Error mw:File"></span> <a href="rage-bee.html">Rage Bee</a> • <span typeof="mw:Error mw:File"></span> <a href="riley-bee.html">Riley Bee</a> • <span typeof="mw:Error mw:File"></span> <a href="shocked-bee.html">Shocked Bee</a></b>
+<td class="NavLinks NavLinksEpic"><b><img alt="Bubble Bee" height="35" src="img/Bubble_Bee.png" width="35"/> <a href="bubble-bee.html">Bubble Bee</a> • <img alt="Bucko Bee" height="35" src="img/Bucko_Bee.png" width="35"/> <a href="bucko-bee.html">Bucko Bee</a> • <img alt="Commander Bee" height="35" src="img/Commander_Bee.png" width="35"/> <a href="commander-bee.html">Commander Bee</a> • <img alt="Demo Bee" height="35" src="img/Demo_Bee.png" width="35"/> <a href="demo-bee.html">Demo Bee</a> • <img alt="Exhausted Bee" height="35" src="img/Exhausted_Bee.png" width="35"/> <a href="exhausted-bee.html">Exhausted Bee</a> • <img alt="Fire Bee" height="35" src="img/Fire_Bee.png" width="35"/> <a href="fire-bee.html">Fire Bee</a> • <img alt="Frosty Bee" height="35" src="img/Frosty_Bee.png" width="35"/> <a href="frosty-bee.html">Frosty Bee</a> • <img alt="Honey Bee" height="35" src="img/Honey_Bee.png" width="35"/> <a href="honey-bee.html">Honey Bee</a> • <img alt="Rage Bee" height="35" src="img/Rage_Bee.png" width="35"/> <a href="rage-bee.html">Rage Bee</a> • <img alt="Riley Bee" height="35" src="img/Riley_Bee.png" width="35"/> <a href="riley-bee.html">Riley Bee</a> • <img alt="Shocked Bee" height="35" src="img/Shocked_Bee.png" width="35"/> <a href="shocked-bee.html">Shocked Bee</a></b>
 </td></tr>
 <tr>
 <th class="NavCategory">Legendary
 </th>
-<td class="NavLinks NavLinksLegend"><b><span typeof="mw:Error mw:File"></span> <a href="baby-bee.html">Baby Bee</a> • <span typeof="mw:Error mw:File"></span> <a href="carpenter-bee.html">Carpenter Bee</a> • <span typeof="mw:Error mw:File"></span> <a href="demon-bee.html">Demon Bee</a> • <span typeof="mw:Error mw:File"></span> <a href="diamond-bee.html">Diamond Bee</a> • <span typeof="mw:Error mw:File"></span> <a href="lion-bee.html">Lion Bee</a> • <span typeof="mw:Error mw:File"></span> <a href="music-bee.html">Music Bee</a> • <span typeof="mw:Error mw:File"></span> <a href="ninja-bee.html">Ninja Bee</a> • <span typeof="mw:Error mw:File"></span> <a href="shy-bee.html">Shy Bee</a></b>
+<td class="NavLinks NavLinksLegend"><b><img alt="Baby Bee" height="35" src="img/Baby_Bee.png" width="35"/> <a href="baby-bee.html">Baby Bee</a> • <img alt="Carpenter Bee" height="35" src="img/Carpenter_Bee.png" width="35"/> <a href="carpenter-bee.html">Carpenter Bee</a> • <img alt="Demon Bee" height="35" src="img/Demon_Bee.png" width="35"/> <a href="demon-bee.html">Demon Bee</a> • <img alt="Diamond Bee" height="35" src="img/Diamond_Bee.png" width="35"/> <a href="diamond-bee.html">Diamond Bee</a> • <img alt="Lion Bee" height="35" src="img/Lion_Bee.png" width="35"/> <a href="lion-bee.html">Lion Bee</a> • <img alt="Music Bee" height="35" src="img/Music_Bee.png" width="35"/> <a href="music-bee.html">Music Bee</a> • <img alt="Ninja Bee" height="35" src="img/Ninja_Bee.png" width="35"/> <a href="ninja-bee.html">Ninja Bee</a> • <img alt="Shy Bee" height="35" src="img/Shy_Bee.png" width="35"/> <a href="shy-bee.html">Shy Bee</a></b>
 </td></tr>
 <tr>
 <th class="NavCategory">Mythic
 </th>
-<td class="NavLinks NavLinksMythic"><b><span typeof="mw:Error mw:File"></span> <a href="buoyant-bee.html">Buoyant Bee</a> • <span typeof="mw:Error mw:File"></span> <a href="fuzzy-bee.html">Fuzzy Bee</a> • <span typeof="mw:Error mw:File"></span> <a href="precise-bee.html">Precise Bee</a> • <span typeof="mw:Error mw:File"></span> <a href="spicy-bee.html">Spicy Bee</a> • <span typeof="mw:Error mw:File"></span> <a href="tadpole-bee.html">Tadpole Bee</a> • <span typeof="mw:Error mw:File"></span> <a href="vector-bee.html">Vector Bee</a></b>
+<td class="NavLinks NavLinksMythic"><b><img alt="Buoyant Bee" height="35" src="img/Buoyant_Bee.png" width="35"/> <a href="buoyant-bee.html">Buoyant Bee</a> • <img alt="Fuzzy Bee" height="35" src="img/Fuzzy_Bee.png" width="35"/> <a href="fuzzy-bee.html">Fuzzy Bee</a> • <img alt="Precise Bee" height="35" src="img/Precise_Bee.png" width="35"/> <a href="precise-bee.html">Precise Bee</a> • <img alt="Spicy Bee" height="35" src="img/Spicy_Bee.png" width="35"/> <a href="spicy-bee.html">Spicy Bee</a> • <img alt="Tadpole Bee" height="35" src="img/Tadpole_Bee.png" width="35"/> <a href="tadpole-bee.html">Tadpole Bee</a> • <img alt="Vector Bee" height="35" src="img/Vector_Bee.png" width="35"/> <a href="vector-bee.html">Vector Bee</a></b>
 </td></tr>
 <tr>
 <th class="NavCategory">Event
 </th>
-<td class="NavLinks NavLinksEvent"><b><span typeof="mw:Error mw:File"></span> <a href="bear-bee.html">Bear Bee</a> • <span typeof="mw:Error mw:File"></span> <a href="cobalt-bee.html">Cobalt Bee</a> • <span typeof="mw:Error mw:File"></span> <a href="crimson-bee.html">Crimson Bee</a> • <span typeof="mw:Error mw:File"></span> <a href="digital-bee.html">Digital Bee</a> • <span typeof="mw:Error mw:File"></span> <a href="festive-bee.html">Festive Bee</a> • <span typeof="mw:Error mw:File"></span> <a href="gummy-bee.html">Gummy Bee</a> • <span typeof="mw:Error mw:File"></span> <a href="photon-bee.html">Photon Bee</a> • <span typeof="mw:Error mw:File"></span> <a href="puppy-bee.html">Puppy Bee</a> • <span typeof="mw:Error mw:File"></span> <a href="tabby-bee.html">Tabby Bee</a> • <span typeof="mw:Error mw:File"></span> <a href="vicious-bee.html">Vicious Bee</a> • <span typeof="mw:Error mw:File"></span> <a href="windy-bee.html">Windy Bee</a></b>
+<td class="NavLinks NavLinksEvent"><b><img alt="Bear Bee" height="35" src="img/Bear_Bee.png" width="35"/> <a href="bear-bee.html">Bear Bee</a> • <img alt="Cobalt Bee" height="35" src="img/Cobalt_Bee.png" width="35"/> <a href="cobalt-bee.html">Cobalt Bee</a> • <img alt="Crimson Bee" height="35" src="img/Crimson_Bee.png" width="35"/> <a href="crimson-bee.html">Crimson Bee</a> • <img alt="Digital Bee" height="35" src="img/Digital_Bee.png" width="35"/> <a href="digital-bee.html">Digital Bee</a> • <img alt="Festive Bee" height="35" src="img/Festive_Bee.png" width="35"/> <a href="festive-bee.html">Festive Bee</a> • <img alt="Gummy Bee" height="35" src="img/Gummy_Bee.png" width="35"/> <a href="gummy-bee.html">Gummy Bee</a> • <img alt="Photon Bee" height="35" src="img/Photon_Bee.png" width="35"/> <a href="photon-bee.html">Photon Bee</a> • <img alt="Puppy Bee" height="35" src="img/Puppy_Bee.png" width="35"/> <a href="puppy-bee.html">Puppy Bee</a> • <img alt="Tabby Bee" height="35" src="img/Tabby_Bee.png" width="35"/> <a href="tabby-bee.html">Tabby Bee</a> • <img alt="Vicious Bee" height="35" src="img/Vicious_Bee.png" width="35"/> <a href="vicious-bee.html">Vicious Bee</a> • <img alt="Windy Bee" height="35" src="img/Windy_Bee.png" width="35"/> <a href="windy-bee.html">Windy Bee</a></b>
 </td></tr></tbody></table>
 

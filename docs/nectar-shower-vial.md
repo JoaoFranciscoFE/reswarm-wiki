@@ -5,6 +5,8 @@ tags: ["Pages with broken file links", "Items", "Inventory", "Consumables", "Nec
 
 # Nectar Shower Vial
 
+![Nectar Shower Vial](img/Nectar_Shower_Vial.png){ align=right width=150 }
+
 Nectar Shower Vial
 
 *"Grants 4 hours of all Nectar types to every player in the server!"*

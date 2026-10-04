@@ -5,6 +5,8 @@ tags: ["Pages with broken file links", "Locations", "Transport", "Machines", "St
 
 # Slingshot
 
+![Slingshot](img/Slingshot.png){ align=right width=150 }
+
 <figure class="thumb" style="width: 180px" typeof="mw:File/Thumb">  <figcaption class="thumbcaption"> <p class="caption">The Slingshot.</p> </figcaption> </figure>
 
 The **Slingshot** is a transportation device available to the player once they have discovered 8 different [bee](bees.md) types. It is located next to the [Clover Field](clover-field.md) and usually quickly transports the player past the [Brave Bee Gate](brave-bee-gate.md) and right in front of the [Pro Shop](pro-shop.md), it may undershoot and cause the player to land in front of [Panda Bear](panda-bear.md).
