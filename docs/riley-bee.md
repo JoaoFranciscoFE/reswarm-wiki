@@ -7,56 +7,30 @@ tags: ["Pages with broken file links", "Bees", "Epic", "Red"]
 
 *This page is for the worker bee. For the quest-giving NPC version, see the [Gifted Riley Bee](gifted-riley-bee.md) page.*
 
-<table class="infobox templateBeeDefault templateBeeRedBackground">
-<tbody><tr>
-<td class="templateBeeTitle templateBeeEpicText" colspan="3"><b>Riley Bee</b>
-</td></tr>
-<tr>
-<td class="templateBeeTabber" colspan="3"><center>
-<div><h3>Original</h3>
-<p><img alt="Riley Bee" height="150" src="img/Riley_Bee.png" width="150"/>
-</p>
-<h3>Gifted</h3>
-<p><img alt="Gifted Riley Bee" height="150" src="img/Gifted_Riley_Bee.png" width="150"/>
-</p>
+<div class="bee-infobox bee-rarity-epic">
+<div class="bee-infobox-title">Riley Bee</div>
+<div class="bee-infobox-tabs">
+<input type="radio" name="bee-infobox-tab" id="bee-tab-original" checked>
+<label for="bee-tab-original">Original</label>
+<input type="radio" name="bee-infobox-tab" id="bee-tab-gifted">
+<label for="bee-tab-gifted">Gifted</label>
+<div class="bee-infobox-image bee-tab-original"><img alt="Riley Bee" src="img/Riley_Bee.png" width="150" height="150"></div>
+<div class="bee-infobox-image bee-tab-gifted"><img alt="Gifted Riley Bee" src="img/Gifted_Riley_Bee.png" width="150" height="150"></div>
 </div>
-</center>
-</td></tr>
-<tr>
-<td class="templateBeeDesc" colspan="3"><i>"Leader of the Red bees, and a long time rival of Bucko Bee. Its fiery nature has elevated it above the rest."</i>
-</td></tr>
-<tr>
-<td class="templateBeeDefaultCell" colspan="3"><b>Rarity</b> <br/> Epic
-</td></tr>
-<tr>
-<td class="templateBeeDefaultCell" colspan="3"><b>Color</b> <br/> Red
-</td></tr>
-<tr>
-<td class="templateBeeStatCell templateBeeGoodStat"><b>Energy</b> <br/> 25
-</td>
-<td class="templateBeeStatCell templateBeeGoodStat"><b>Speed</b> <br/> 15.4
-</td>
-<td class="templateBeeStatCell templateBeeGoodStat"><b>Attack</b> <br/> 5
-</td></tr>
-<tr>
-<td class="templateBeeHeader templateBeeEpicText" colspan="3">COLOR SCHEME
-</td></tr>
-<tr>
-<td colspan="3"><table class="templateBeeDefaultStripeTable">
-<tbody><tr>
-<td>
-<div class="templateBeeLeftStripeBar templateBeeRileyBeeSkinColor1" style="background-color: #1b2a35"> </div>
-<div class="templateBeeMiddleStripeBar templateBeeRileyBeeSkinColor2" style="background-color: #f3492d"> </div>
-<div class="templateBeeRightStripeBar templateBeeRileyBeeSkinColor3" style="background-color: #1b2a35"> </div>
-<p class="templateBeeSeparator1"><br class="templateBeeSeparator2"/></p>
-<div class="templateBeeColorBox">
-<p class="templateBeeSkinColorHeader">Skin</p>
-<p class="templateBeeSkinColorText templateBeeSkinColorText1">#1b2a35</p>
-<p class="templateBeeSkinColorText templateBeeSkinColorText2">#f3492d</p>
-<p class="templateBeeSkinColorText templateBeeSkinColorText3">#1b2a35</p></div>
-</td></tr>
-</tbody></table>
-</td></tr></tbody></table>
+<div class="bee-infobox-quote"><i>"Leader of the Red bees, and a long time rival of Bucko Bee. Its fiery nature has elevated it above the rest."</i></div>
+<div class="bee-infobox-row"><b>Rarity</b><span>Epic</span></div>
+<div class="bee-infobox-row"><b>Color</b><span>Red</span></div>
+<div class="bee-infobox-stats">
+<div><b>Energy</b><span>25</span></div>
+<div><b>Speed</b><span>15.4</span></div>
+<div><b>Attack</b><span>6</span></div>
+</div>
+<div class="bee-infobox-header">Color Scheme</div>
+<div class="bee-infobox-scheme">
+<div class="bee-infobox-stripes"><span style="background:#1b2a35"></span><span style="background:#f3492d"></span><span style="background:#1b2a35"></span></div>
+<div class="bee-infobox-swatch"><b>Skin</b><code>#1b2a35</code><code>#f3492d</code><code>#1b2a35</code></div>
+</div>
+</div>
 
 **Riley Bee** is a Red [Epic bee](bees-epic.md).
 

@@ -5,56 +5,30 @@ tags: ["Pages with broken file links", "Bees", "Legendary", "Colorless"]
 
 # Lion Bee
 
-<table class="infobox templateBeeDefault">
-<tbody><tr>
-<td class="templateBeeTitle templateBeeLegendaryText" colspan="3"><b>Lion Bee</b>
-</td></tr>
-<tr>
-<td class="templateBeeTabber" colspan="3"><center>
-<div><h3>Original</h3>
-<p><img alt="Lion Bee" height="150" src="img/Lion_Bee.png" width="150"/>
-</p>
-<h3>Gifted</h3>
-<p><img alt="Gifted Lion Bee" height="150" src="img/Gifted_Lion_Bee.png" width="150"/>
-</p>
+<div class="bee-infobox bee-rarity-legendary">
+<div class="bee-infobox-title">Lion Bee</div>
+<div class="bee-infobox-tabs">
+<input type="radio" name="bee-infobox-tab" id="bee-tab-original" checked>
+<label for="bee-tab-original">Original</label>
+<input type="radio" name="bee-infobox-tab" id="bee-tab-gifted">
+<label for="bee-tab-gifted">Gifted</label>
+<div class="bee-infobox-image bee-tab-original"><img alt="Lion Bee" src="img/Lion_Bee.png" width="150" height="150"></div>
+<div class="bee-infobox-image bee-tab-gifted"><img alt="Gifted Lion Bee" src="img/Gifted_Lion_Bee.png" width="150" height="150"></div>
 </div>
-</center>
-</td></tr>
-<tr>
-<td class="templateBeeDesc" colspan="3"><i>"Half lion, half bee. This is the king of both the jungle and bee hive."</i>
-</td></tr>
-<tr>
-<td class="templateBeeDefaultCell" colspan="3"><b>Rarity</b> <br/> Legendary
-</td></tr>
-<tr>
-<td class="templateBeeDefaultCell" colspan="3"><b>Color</b> <br/> Colorless
-</td></tr>
-<tr>
-<td class="templateBeeStatCell templateBeeGoodStat"><b>Energy</b> <br/> 60
-</td>
-<td class="templateBeeStatCell templateBeeGoodStat"><b>Speed</b> <br/> 19.6
-</td>
-<td class="templateBeeStatCell templateBeeGoodStat"><b>Attack</b> <br/> 10
-</td></tr>
-<tr>
-<td class="templateBeeHeader templateBeeLegendaryText" colspan="3">COLOR SCHEME
-</td></tr>
-<tr>
-<td colspan="3"><table class="templateBeeDefaultStripeTable">
-<tbody><tr>
-<td>
-<div class="templateBeeLeftStripeBar templateBeeLionBeeSkinColor1" style="background-color: #e5b238"> </div>
-<div class="templateBeeMiddleStripeBar templateBeeLionBeeSkinColor2" style="background-color: #e5cf38"> </div>
-<div class="templateBeeRightStripeBar templateBeeLionBeeSkinColor3" style="background-color: #e5b238"> </div>
-<p class="templateBeeSeparator1"><br class="templateBeeSeparator2"/></p>
-<div class="templateBeeColorBox">
-<p class="templateBeeSkinColorHeader">Skin</p>
-<p class="templateBeeSkinColorText templateBeeSkinColorText1">#e5b238</p>
-<p class="templateBeeSkinColorText templateBeeSkinColorText2">#e5cf38</p>
-<p class="templateBeeSkinColorText templateBeeSkinColorText3">#e5b238</p></div>
-</td></tr>
-</tbody></table>
-</td></tr></tbody></table>
+<div class="bee-infobox-quote"><i>"Half lion, half bee. This is the king of both the jungle and bee hive."</i></div>
+<div class="bee-infobox-row"><b>Rarity</b><span>Legendary</span></div>
+<div class="bee-infobox-row"><b>Color</b><span>Colorless</span></div>
+<div class="bee-infobox-stats">
+<div><b>Energy</b><span>60</span></div>
+<div><b>Speed</b><span>19.6</span></div>
+<div><b>Attack</b><span>10</span></div>
+</div>
+<div class="bee-infobox-header">Color Scheme</div>
+<div class="bee-infobox-scheme">
+<div class="bee-infobox-stripes"><span style="background:#e5b238"></span><span style="background:#e5cf38"></span><span style="background:#e5b238"></span></div>
+<div class="bee-infobox-swatch"><b>Skin</b><code>#e5b238</code><code>#e5cf38</code><code>#e5b238</code></div>
+</div>
+</div>
 
 The **Lion Bee** is a Colorless [Legendary bee](bees-legendary.md).
 

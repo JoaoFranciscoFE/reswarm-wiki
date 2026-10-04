@@ -5,56 +5,30 @@ tags: ["Pages with broken file links", "Bees", "Colorless", "Event"]
 
 # Windy Bee
 
-<table class="infobox templateBeeDefault">
-<tbody><tr>
-<td class="templateBeeTitle templateBeeEventText" colspan="3"><b>Windy Bee</b>
-</td></tr>
-<tr>
-<td class="templateBeeTabber" colspan="3"><center>
-<div><h3>Original</h3>
-<p><img alt="Windy Bee" height="150" src="img/Windy_Bee.png" width="150"/>
-</p>
-<h3>Gifted</h3>
-<p><img alt="Gifted Windy Bee" height="150" src="img/Gifted_Windy_Bee.png" width="150"/>
-</p>
+<div class="bee-infobox bee-rarity-event">
+<div class="bee-infobox-title">Windy Bee</div>
+<div class="bee-infobox-tabs">
+<input type="radio" name="bee-infobox-tab" id="bee-tab-original" checked>
+<label for="bee-tab-original">Original</label>
+<input type="radio" name="bee-infobox-tab" id="bee-tab-gifted">
+<label for="bee-tab-gifted">Gifted</label>
+<div class="bee-infobox-image bee-tab-original"><img alt="Windy Bee" src="img/Windy_Bee.png" width="150" height="150"></div>
+<div class="bee-infobox-image bee-tab-gifted"><img alt="Gifted Windy Bee" src="img/Gifted_Windy_Bee.png" width="150" height="150"></div>
 </div>
-</center>
-</td></tr>
-<tr>
-<td class="templateBeeDesc" colspan="3"><i>"An ethereal bee as powerful and unpredictable as the weather."</i>
-</td></tr>
-<tr>
-<td class="templateBeeDefaultCell" colspan="3"><b>Rarity</b> <br/> Event
-</td></tr>
-<tr>
-<td class="templateBeeDefaultCell" colspan="3"><b>Color</b> <br/> Colorless
-</td></tr>
-<tr>
-<td class="templateBeeStatCell"><b>Energy</b> <br/> 20
-</td>
-<td class="templateBeeStatCell templateBeeGoodStat"><b>Speed</b> <br/> 19.6
-</td>
-<td class="templateBeeStatCell templateBeeGoodStat"><b>Attack</b> <br/> 4
-</td></tr>
-<tr>
-<td class="templateBeeHeader templateBeeEventText" colspan="3">COLOR SCHEME
-</td></tr>
-<tr>
-<td colspan="3"><table class="templateBeeDefaultStripeTable">
-<tbody><tr>
-<td>
-<div class="templateBeeLeftStripeBar templateBeeWindyBeeSkinColor1" style="background-color: #f2ffff"> </div>
-<div class="templateBeeMiddleStripeBar templateBeeWindyBeeSkinColor2" style="background-color: #f2ffff"> </div>
-<div class="templateBeeRightStripeBar templateBeeWindyBeeSkinColor3" style="background-color: #f2ffff"> </div>
-<p class="templateBeeSeparator1"><br class="templateBeeSeparator2"/></p>
-<div class="templateBeeColorBox">
-<p class="templateBeeSkinColorHeader">Skin</p>
-<p class="templateBeeSkinColorText templateBeeSkinColorText1">#f2ffff</p>
-<p class="templateBeeSkinColorText templateBeeSkinColorText2">#f2ffff</p>
-<p class="templateBeeSkinColorText templateBeeSkinColorText3">#f2ffff</p></div>
-</td></tr>
-</tbody></table>
-</td></tr></tbody></table>
+<div class="bee-infobox-quote"><i>"An ethereal bee as powerful and unpredictable as the weather."</i></div>
+<div class="bee-infobox-row"><b>Rarity</b><span>Event</span></div>
+<div class="bee-infobox-row"><b>Color</b><span>Colorless</span></div>
+<div class="bee-infobox-stats">
+<div><b>Energy</b><span>20</span></div>
+<div><b>Speed</b><span>19.6</span></div>
+<div><b>Attack</b><span>4</span></div>
+</div>
+<div class="bee-infobox-header">Color Scheme</div>
+<div class="bee-infobox-scheme">
+<div class="bee-infobox-stripes"><span style="background:#f2ffff"></span><span style="background:#f2ffff"></span><span style="background:#f2ffff"></span></div>
+<div class="bee-infobox-swatch"><b>Skin</b><code>#f2ffff</code><code>#f2ffff</code><code>#f2ffff</code></div>
+</div>
+</div>
 
 *This page is for the tamed version of Windy Bee. For the hostile version, see [Wild Windy Bee](wild-windy-bee.md).*
 

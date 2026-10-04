@@ -5,56 +5,30 @@ tags: ["Pages with broken file links", "Bees", "Red", "Event"]
 
 # Festive Bee
 
-<table class="infobox templateBeeDefault templateBeeRedBackground">
-<tbody><tr>
-<td class="templateBeeTitle templateBeeEventText" colspan="3"><b>Festive Bee</b>
-</td></tr>
-<tr>
-<td class="templateBeeTabber" colspan="3"><center>
-<div><h3>Original</h3>
-<p><img alt="Festive Bee" height="150" src="img/Festive_Bee.png" width="150"/>
-</p>
-<h3>Gifted</h3>
-<p><img alt="Gifted Festive Bee" height="150" src="img/Gifted_Festive_Bee.png" width="150"/>
-</p>
+<div class="bee-infobox bee-rarity-event">
+<div class="bee-infobox-title">Festive Bee</div>
+<div class="bee-infobox-tabs">
+<input type="radio" name="bee-infobox-tab" id="bee-tab-original" checked>
+<label for="bee-tab-original">Original</label>
+<input type="radio" name="bee-infobox-tab" id="bee-tab-gifted">
+<label for="bee-tab-gifted">Gifted</label>
+<div class="bee-infobox-image bee-tab-original"><img alt="Festive Bee" src="img/Festive_Bee.png" width="150" height="150"></div>
+<div class="bee-infobox-image bee-tab-gifted"><img alt="Gifted Festive Bee" src="img/Gifted_Festive_Bee.png" width="150" height="150"></div>
 </div>
-</center>
-</td></tr>
-<tr>
-<td class="templateBeeDesc" colspan="3"><i>"A jolly bee who loves giving gifts! It's purely motivated by the joy of others."</i>
-</td></tr>
-<tr>
-<td class="templateBeeDefaultCell" colspan="3"><b>Rarity</b> <br/> Event
-</td></tr>
-<tr>
-<td class="templateBeeDefaultCell" colspan="3"><b>Color</b> <br/> Red
-</td></tr>
-<tr>
-<td class="templateBeeStatCell"><b>Energy</b> <br/> 20
-</td>
-<td class="templateBeeStatCell templateBeeGoodStat"><b>Speed</b> <br/> 16.1
-</td>
-<td class="templateBeeStatCell"><b>Attack</b> <br/> 1
-</td></tr>
-<tr>
-<td class="templateBeeHeader templateBeeEventText" colspan="3">COLOR SCHEME
-</td></tr>
-<tr>
-<td colspan="3"><table class="templateBeeDefaultStripeTable">
-<tbody><tr>
-<td>
-<div class="templateBeeLeftStripeBar templateBeeFestiveBeeSkinColor1" style="background-color: #ad2222"> </div>
-<div class="templateBeeMiddleStripeBar templateBeeFestiveBeeSkinColor2" style="background-color: #227d3d"> </div>
-<div class="templateBeeRightStripeBar templateBeeFestiveBeeSkinColor3" style="background-color: #ad2222"> </div>
-<p class="templateBeeSeparator1"><br class="templateBeeSeparator2"/></p>
-<div class="templateBeeColorBox">
-<p class="templateBeeSkinColorHeader">Skin</p>
-<p class="templateBeeSkinColorText templateBeeSkinColorText1">#ad2222</p>
-<p class="templateBeeSkinColorText templateBeeSkinColorText2">#227d3d</p>
-<p class="templateBeeSkinColorText templateBeeSkinColorText3">#ad2222</p></div>
-</td></tr>
-</tbody></table>
-</td></tr></tbody></table>
+<div class="bee-infobox-quote"><i>"A jolly bee who loves giving gifts! It's purely motivated by the joy of others."</i></div>
+<div class="bee-infobox-row"><b>Rarity</b><span>Event</span></div>
+<div class="bee-infobox-row"><b>Color</b><span>Red</span></div>
+<div class="bee-infobox-stats">
+<div><b>Energy</b><span>20</span></div>
+<div><b>Speed</b><span>16.1</span></div>
+<div><b>Attack</b><span>1</span></div>
+</div>
+<div class="bee-infobox-header">Color Scheme</div>
+<div class="bee-infobox-scheme">
+<div class="bee-infobox-stripes"><span style="background:#ad2222"></span><span style="background:#227d3d"></span><span style="background:#ad2222"></span></div>
+<div class="bee-infobox-swatch"><b>Skin</b><code>#ad2222</code><code>#227d3d</code><code>#ad2222</code></div>
+</div>
+</div>
 
 **Festive Bee** is a Red [Event bee](bees-event.md). It can be purchased in the [Ticket Tent](ticket-tent.md) for 500 [Tickets](ticket.md).
 

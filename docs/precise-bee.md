@@ -5,56 +5,30 @@ tags: ["Pages with broken file links", "Bees", "Mythic", "Red"]
 
 # Precise Bee
 
-<table class="infobox templateBeeDefault templateBeeRedBackground">
-<tbody><tr>
-<td class="templateBeeTitle templateBeeMythicText" colspan="3"><b>Precise Bee</b>
-</td></tr>
-<tr>
-<td class="templateBeeTabber" colspan="3"><center>
-<div><h3>Original</h3>
-<p><img alt="Precise Bee" height="150" src="img/Precise_Bee.png" width="150"/>
-</p>
-<h3>Gifted</h3>
-<p><img alt="Gifted Precise Bee" height="150" src="img/Gifted_Precise_Bee.png" width="150"/>
-</p>
+<div class="bee-infobox bee-rarity-mythic">
+<div class="bee-infobox-title">Precise Bee</div>
+<div class="bee-infobox-tabs">
+<input type="radio" name="bee-infobox-tab" id="bee-tab-original" checked>
+<label for="bee-tab-original">Original</label>
+<input type="radio" name="bee-infobox-tab" id="bee-tab-gifted">
+<label for="bee-tab-gifted">Gifted</label>
+<div class="bee-infobox-image bee-tab-original"><img alt="Precise Bee" src="img/Precise_Bee.png" width="150" height="150"></div>
+<div class="bee-infobox-image bee-tab-gifted"><img alt="Gifted Precise Bee" src="img/Gifted_Precise_Bee.png" width="150" height="150"></div>
 </div>
-</center>
-</td></tr>
-<tr>
-<td class="templateBeeDesc" colspan="3"><i>"This sharpshooting bee is always on point and expects the same of you."</i>
-</td></tr>
-<tr>
-<td class="templateBeeDefaultCell" colspan="3"><b>Rarity</b> <br/> Mythic
-</td></tr>
-<tr>
-<td class="templateBeeDefaultCell" colspan="3"><b>Color</b> <br/> Red
-</td></tr>
-<tr>
-<td class="templateBeeStatCell templateBeeGoodStat"><b>Energy</b> <br/> 40
-</td>
-<td class="templateBeeStatCell templateBeeBadStat"><b>Speed</b> <br/> 11.2
-</td>
-<td class="templateBeeStatCell templateBeeGoodStat"><b>Attack</b> <br/> 8
-</td></tr>
-<tr>
-<td class="templateBeeHeader templateBeeMythicText" colspan="3">COLOR SCHEME
-</td></tr>
-<tr>
-<td colspan="3"><table class="templateBeeDefaultStripeTable">
-<tbody><tr>
-<td>
-<div class="templateBeeLeftStripeBar templateBeePreciseBeeSkinColor1" style="background-color: #450302"> </div>
-<div class="templateBeeMiddleStripeBar templateBeePreciseBeeSkinColor2" style="background-color: #cb4144"> </div>
-<div class="templateBeeRightStripeBar templateBeePreciseBeeSkinColor3" style="background-color: #840909"> </div>
-<p class="templateBeeSeparator1"><br class="templateBeeSeparator2"/></p>
-<div class="templateBeeColorBox">
-<p class="templateBeeSkinColorHeader">Skin</p>
-<p class="templateBeeSkinColorText templateBeeSkinColorText1">#450302</p>
-<p class="templateBeeSkinColorText templateBeeSkinColorText2">#cb4144</p>
-<p class="templateBeeSkinColorText templateBeeSkinColorText3">#840909</p></div>
-</td></tr>
-</tbody></table>
-</td></tr></tbody></table>
+<div class="bee-infobox-quote"><i>"This sharpshooting bee is always on point and expects the same of you."</i></div>
+<div class="bee-infobox-row"><b>Rarity</b><span>Mythic</span></div>
+<div class="bee-infobox-row"><b>Color</b><span>Red</span></div>
+<div class="bee-infobox-stats">
+<div><b>Energy</b><span>40</span></div>
+<div><b>Speed</b><span>11.2</span></div>
+<div><b>Attack</b><span>8</span></div>
+</div>
+<div class="bee-infobox-header">Color Scheme</div>
+<div class="bee-infobox-scheme">
+<div class="bee-infobox-stripes"><span style="background:#450302"></span><span style="background:#cb4144"></span><span style="background:#840909"></span></div>
+<div class="bee-infobox-swatch"><b>Skin</b><code>#450302</code><code>#cb4144</code><code>#840909</code></div>
+</div>
+</div>
 
 **Precise Bee** is a Red [Mythic bee](bees-mythic.md).
 

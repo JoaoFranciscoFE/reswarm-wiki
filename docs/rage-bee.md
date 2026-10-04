@@ -5,56 +5,30 @@ tags: ["Pages with broken file links", "Bees", "Epic", "Red"]
 
 # Rage Bee
 
-<table class="infobox templateBeeDefault templateBeeRedBackground">
-<tbody><tr>
-<td class="templateBeeTitle templateBeeEpicText" colspan="3"><b>Rage Bee</b>
-</td></tr>
-<tr>
-<td class="templateBeeTabber" colspan="3"><center>
-<div><h3>Original</h3>
-<p><img alt="Rage Bee" height="150" src="img/Rage_Bee.png" width="150"/>
-</p>
-<h3>Gifted</h3>
-<p><img alt="Gifted Rage Bee" height="150" src="img/Gifted_Rage_Bee.png" width="150"/>
-</p>
+<div class="bee-infobox bee-rarity-epic">
+<div class="bee-infobox-title">Rage Bee</div>
+<div class="bee-infobox-tabs">
+<input type="radio" name="bee-infobox-tab" id="bee-tab-original" checked>
+<label for="bee-tab-original">Original</label>
+<input type="radio" name="bee-infobox-tab" id="bee-tab-gifted">
+<label for="bee-tab-gifted">Gifted</label>
+<div class="bee-infobox-image bee-tab-original"><img alt="Rage Bee" src="img/Rage_Bee.png" width="150" height="150"></div>
+<div class="bee-infobox-image bee-tab-gifted"><img alt="Gifted Rage Bee" src="img/Gifted_Rage_Bee.png" width="150" height="150"></div>
 </div>
-</center>
-</td></tr>
-<tr>
-<td class="templateBeeDesc" colspan="3"><i>"A very angry bee who has been wronged its whole life. It harnesses its rage to become more powerful."</i>
-</td></tr>
-<tr>
-<td class="templateBeeDefaultCell" colspan="3"><b>Rarity</b> <br/> Epic
-</td></tr>
-<tr>
-<td class="templateBeeDefaultCell" colspan="3"><b>Color</b> <br/> Red
-</td></tr>
-<tr>
-<td class="templateBeeStatCell"><b>Energy</b> <br/> 20
-</td>
-<td class="templateBeeStatCell templateBeeGoodStat"><b>Speed</b> <br/> 15.4
-</td>
-<td class="templateBeeStatCell templateBeeGoodStat"><b>Attack</b> <br/> 5
-</td></tr>
-<tr>
-<td class="templateBeeHeader templateBeeEpicText" colspan="3">COLOR SCHEME
-</td></tr>
-<tr>
-<td colspan="3"><table class="templateBeeDefaultStripeTable">
-<tbody><tr>
-<td>
-<div class="templateBeeLeftStripeBar templateBeeRageBeeSkinColor1" style="background-color: #ab4334"> </div>
-<div class="templateBeeMiddleStripeBar templateBeeRageBeeSkinColor2" style="background-color: #f4492d"> </div>
-<div class="templateBeeRightStripeBar templateBeeRageBeeSkinColor3" style="background-color: #e7a669"> </div>
-<p class="templateBeeSeparator1"><br class="templateBeeSeparator2"/></p>
-<div class="templateBeeColorBox">
-<p class="templateBeeSkinColorHeader">Skin</p>
-<p class="templateBeeSkinColorText templateBeeSkinColorText1">#ab4334</p>
-<p class="templateBeeSkinColorText templateBeeSkinColorText2">#f4492d</p>
-<p class="templateBeeSkinColorText templateBeeSkinColorText3">#e7a669</p></div>
-</td></tr>
-</tbody></table>
-</td></tr></tbody></table>
+<div class="bee-infobox-quote"><i>"A very angry bee who has been wronged its whole life. It harnesses its rage to become more powerful."</i></div>
+<div class="bee-infobox-row"><b>Rarity</b><span>Epic</span></div>
+<div class="bee-infobox-row"><b>Color</b><span>Red</span></div>
+<div class="bee-infobox-stats">
+<div><b>Energy</b><span>20</span></div>
+<div><b>Speed</b><span>15.4</span></div>
+<div><b>Attack</b><span>5</span></div>
+</div>
+<div class="bee-infobox-header">Color Scheme</div>
+<div class="bee-infobox-scheme">
+<div class="bee-infobox-stripes"><span style="background:#ab4334"></span><span style="background:#f4492d"></span><span style="background:#e7a669"></span></div>
+<div class="bee-infobox-swatch"><b>Skin</b><code>#ab4334</code><code>#f4492d</code><code>#e7a669</code></div>
+</div>
+</div>
 
 **Rage Bee** is a Red [Epic bee](bees-epic.md).
 

@@ -5,56 +5,30 @@ tags: ["Pages with broken file links", "Bees", "Legendary", "Red"]
 
 # Demon Bee
 
-<table class="infobox templateBeeDefault templateBeeRedBackground">
-<tbody><tr>
-<td class="templateBeeTitle templateBeeLegendaryText" colspan="3"><b>Demon Bee</b>
-</td></tr>
-<tr>
-<td class="templateBeeTabber" colspan="3"><center>
-<div><h3>Original</h3>
-<p><img alt="Demon Bee" height="150" src="img/Demon_Bee.png" width="150"/>
-</p>
-<h3>Gifted</h3>
-<p><img alt="Gifted Demon Bee" height="150" src="img/Gifted_Demon_Bee.png" width="150"/>
-</p>
+<div class="bee-infobox bee-rarity-legendary">
+<div class="bee-infobox-title">Demon Bee</div>
+<div class="bee-infobox-tabs">
+<input type="radio" name="bee-infobox-tab" id="bee-tab-original" checked>
+<label for="bee-tab-original">Original</label>
+<input type="radio" name="bee-infobox-tab" id="bee-tab-gifted">
+<label for="bee-tab-gifted">Gifted</label>
+<div class="bee-infobox-image bee-tab-original"><img alt="Demon Bee" src="img/Demon_Bee.png" width="150" height="150"></div>
+<div class="bee-infobox-image bee-tab-gifted"><img alt="Gifted Demon Bee" src="img/Gifted_Demon_Bee.png" width="150" height="150"></div>
 </div>
-</center>
-</td></tr>
-<tr>
-<td class="templateBeeDesc" colspan="3"><i>"A powerful bee with magical powers fueled by pure hatred."</i>
-</td></tr>
-<tr>
-<td class="templateBeeDefaultCell" colspan="3"><b>Rarity</b> <br/> Legendary
-</td></tr>
-<tr>
-<td class="templateBeeDefaultCell" colspan="3"><b>Color</b> <br/> Red
-</td></tr>
-<tr>
-<td class="templateBeeStatCell"><b>Energy</b> <br/> 20
-</td>
-<td class="templateBeeStatCell templateBeeBadStat"><b>Speed</b> <br/> 10.5
-</td>
-<td class="templateBeeStatCell templateBeeGoodStat"><b>Attack</b> <br/> 8
-</td></tr>
-<tr>
-<td class="templateBeeHeader templateBeeLegendaryText" colspan="3">COLOR SCHEME
-</td></tr>
-<tr>
-<td colspan="3"><table class="templateBeeDefaultStripeTable">
-<tbody><tr>
-<td>
-<div class="templateBeeLeftStripeBar templateBeeDemonBeeSkinColor1" style="background-color: #1b2a35"> </div>
-<div class="templateBeeMiddleStripeBar templateBeeDemonBeeSkinColor2" style="background-color: #f3492d"> </div>
-<div class="templateBeeRightStripeBar templateBeeDemonBeeSkinColor3" style="background-color: #1b2a35"> </div>
-<p class="templateBeeSeparator1"><br class="templateBeeSeparator2"/></p>
-<div class="templateBeeColorBox">
-<p class="templateBeeSkinColorHeader">Skin</p>
-<p class="templateBeeSkinColorText templateBeeSkinColorText1">#1b2a35</p>
-<p class="templateBeeSkinColorText templateBeeSkinColorText2">#f3492d</p>
-<p class="templateBeeSkinColorText templateBeeSkinColorText3">#1b2a35</p></div>
-</td></tr>
-</tbody></table>
-</td></tr></tbody></table>
+<div class="bee-infobox-quote"><i>"A powerful bee with magical powers fueled by pure hatred."</i></div>
+<div class="bee-infobox-row"><b>Rarity</b><span>Legendary</span></div>
+<div class="bee-infobox-row"><b>Color</b><span>Red</span></div>
+<div class="bee-infobox-stats">
+<div><b>Energy</b><span>20</span></div>
+<div><b>Speed</b><span>10.5</span></div>
+<div><b>Attack</b><span>8</span></div>
+</div>
+<div class="bee-infobox-header">Color Scheme</div>
+<div class="bee-infobox-scheme">
+<div class="bee-infobox-stripes"><span style="background:#1b2a35"></span><span style="background:#f3492d"></span><span style="background:#1b2a35"></span></div>
+<div class="bee-infobox-swatch"><b>Skin</b><code>#1b2a35</code><code>#f3492d</code><code>#1b2a35</code></div>
+</div>
+</div>
 
 **Demon Bee** is a Red [Legendary bee](bees-legendary.md).
 

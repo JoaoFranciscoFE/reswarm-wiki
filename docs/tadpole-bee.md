@@ -5,56 +5,30 @@ tags: ["Pages with broken file links", "Bees", "Blue", "Mythic"]
 
 # Tadpole Bee
 
-<table class="infobox templateBeeDefault templateBeeBlueBackground">
-<tbody><tr>
-<td class="templateBeeTitle templateBeeMythicText" colspan="3"><b>Tadpole Bee</b>
-</td></tr>
-<tr>
-<td class="templateBeeTabber" colspan="3"><center>
-<div><h3>Original</h3>
-<p><img alt="Tadpole Bee" height="150" src="img/Tadpole_Bee.png" width="150"/>
-</p>
-<h3>Gifted</h3>
-<p><img alt="Gifted Tadpole Bee" height="150" src="img/Gifted_Tadpole_Bee.png" width="150"/>
-</p>
+<div class="bee-infobox bee-rarity-mythic">
+<div class="bee-infobox-title">Tadpole Bee</div>
+<div class="bee-infobox-tabs">
+<input type="radio" name="bee-infobox-tab" id="bee-tab-original" checked>
+<label for="bee-tab-original">Original</label>
+<input type="radio" name="bee-infobox-tab" id="bee-tab-gifted">
+<label for="bee-tab-gifted">Gifted</label>
+<div class="bee-infobox-image bee-tab-original"><img alt="Tadpole Bee" src="img/Tadpole_Bee.png" width="150" height="150"></div>
+<div class="bee-infobox-image bee-tab-gifted"><img alt="Gifted Tadpole Bee" src="img/Gifted_Tadpole_Bee.png" width="150" height="150"></div>
 </div>
-</center>
-</td></tr>
-<tr>
-<td class="templateBeeDesc" colspan="3"><i>"A tiny amphibious bee who wants to become a frog when it grows up."</i>
-</td></tr>
-<tr>
-<td class="templateBeeDefaultCell" colspan="3"><b>Rarity</b> <br/> Mythic
-</td></tr>
-<tr>
-<td class="templateBeeDefaultCell" colspan="3"><b>Color</b> <br/> Blue
-</td></tr>
-<tr>
-<td class="templateBeeStatCell templateBeeBadStat"><b>Energy</b> <br/> 10
-</td>
-<td class="templateBeeStatCell templateBeeBadStat"><b>Speed</b> <br/> 11.2
-</td>
-<td class="templateBeeStatCell"><b>Attack</b> <br/> 1
-</td></tr>
-<tr>
-<td class="templateBeeHeader templateBeeMythicText" colspan="3">COLOR SCHEME
-</td></tr>
-<tr>
-<td colspan="3"><table class="templateBeeDefaultStripeTable">
-<tbody><tr>
-<td>
-<div class="templateBeeLeftStripeBar templateBeeTadpoleBeeSkinColor1" style="background-color: #45c496"> </div>
-<div class="templateBeeMiddleStripeBar templateBeeTadpoleBeeSkinColor2" style="background-color: #2197A5"> </div>
-<div class="templateBeeRightStripeBar templateBeeTadpoleBeeSkinColor3" style="background-color: #45c496"> </div>
-<p class="templateBeeSeparator1"><br class="templateBeeSeparator2"/></p>
-<div class="templateBeeColorBox">
-<p class="templateBeeSkinColorHeader">Skin</p>
-<p class="templateBeeSkinColorText templateBeeSkinColorText1">#45c496</p>
-<p class="templateBeeSkinColorText templateBeeSkinColorText2">#2197A5</p>
-<p class="templateBeeSkinColorText templateBeeSkinColorText3">#45c496</p></div>
-</td></tr>
-</tbody></table>
-</td></tr></tbody></table>
+<div class="bee-infobox-quote"><i>"A tiny amphibious bee who wants to become a frog when it grows up."</i></div>
+<div class="bee-infobox-row"><b>Rarity</b><span>Mythic</span></div>
+<div class="bee-infobox-row"><b>Color</b><span>Blue</span></div>
+<div class="bee-infobox-stats">
+<div><b>Energy</b><span>10</span></div>
+<div><b>Speed</b><span>11.2</span></div>
+<div><b>Attack</b><span>1</span></div>
+</div>
+<div class="bee-infobox-header">Color Scheme</div>
+<div class="bee-infobox-scheme">
+<div class="bee-infobox-stripes"><span style="background:#45c496"></span><span style="background:#2197a5"></span><span style="background:#45c496"></span></div>
+<div class="bee-infobox-swatch"><b>Skin</b><code>#45c496</code><code>#2197a5</code><code>#45c496</code></div>
+</div>
+</div>
 
 **Tadpole Bee** is a Blue [Mythic bee](bees-mythic.md).
 

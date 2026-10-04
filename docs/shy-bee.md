@@ -5,56 +5,30 @@ tags: ["Pages with broken file links", "Bees", "Legendary", "Red"]
 
 # Shy Bee
 
-<table class="infobox templateBeeDefault templateBeeRedBackground">
-<tbody><tr>
-<td class="templateBeeTitle templateBeeLegendaryText" colspan="3"><b>Shy Bee</b>
-</td></tr>
-<tr>
-<td class="templateBeeTabber" colspan="3"><center>
-<div><h3>Original</h3>
-<p><img alt="Shy Bee" height="150" src="img/Shy_Bee.png" width="150"/>
-</p>
-<h3>Gifted</h3>
-<p><img alt="Gifted Shy Bee" height="150" src="img/Gifted_Shy_Bee.png" width="150"/>
-</p>
+<div class="bee-infobox bee-rarity-legendary">
+<div class="bee-infobox-title">Shy Bee</div>
+<div class="bee-infobox-tabs">
+<input type="radio" name="bee-infobox-tab" id="bee-tab-original" checked>
+<label for="bee-tab-original">Original</label>
+<input type="radio" name="bee-infobox-tab" id="bee-tab-gifted">
+<label for="bee-tab-gifted">Gifted</label>
+<div class="bee-infobox-image bee-tab-original"><img alt="Shy Bee" src="img/Shy_Bee.png" width="150" height="150"></div>
+<div class="bee-infobox-image bee-tab-gifted"><img alt="Gifted Shy Bee" src="img/Gifted_Shy_Bee.png" width="150" height="150"></div>
 </div>
-</center>
-</td></tr>
-<tr>
-<td class="templateBeeDesc" colspan="3"><i>"This talented bee doesn't like to socialize, it just wants to work and be left alone."</i>
-</td></tr>
-<tr>
-<td class="templateBeeDefaultCell" colspan="3"><b>Rarity</b> <br/> Legendary
-</td></tr>
-<tr>
-<td class="templateBeeDefaultCell" colspan="3"><b>Color</b> <br/> Red
-</td></tr>
-<tr>
-<td class="templateBeeStatCell templateBeeGoodStat"><b>Energy</b> <br/> 40
-</td>
-<td class="templateBeeStatCell templateBeeGoodStat"><b>Speed</b> <br/> 18.2
-</td>
-<td class="templateBeeStatCell templateBeeGoodStat"><b>Attack</b> <br/> 2
-</td></tr>
-<tr>
-<td class="templateBeeHeader templateBeeLegendaryText" colspan="3">COLOR SCHEME
-</td></tr>
-<tr>
-<td colspan="3"><table class="templateBeeDefaultStripeTable">
-<tbody><tr>
-<td>
-<div class="templateBeeLeftStripeBar templateBeeShyBeeSkinColor1" style="background-color: #9f9f9f"> </div>
-<div class="templateBeeMiddleStripeBar templateBeeShyBeeSkinColor2" style="background-color: #9f9f9f"> </div>
-<div class="templateBeeRightStripeBar templateBeeShyBeeSkinColor3" style="background-color: #9f9f9f"> </div>
-<p class="templateBeeSeparator1"><br class="templateBeeSeparator2"/></p>
-<div class="templateBeeColorBox">
-<p class="templateBeeSkinColorHeader">Skin</p>
-<p class="templateBeeSkinColorText templateBeeSkinColorText1">#9f9f9f</p>
-<p class="templateBeeSkinColorText templateBeeSkinColorText2">#9f9f9f</p>
-<p class="templateBeeSkinColorText templateBeeSkinColorText3">#9f9f9f</p></div>
-</td></tr>
-</tbody></table>
-</td></tr></tbody></table>
+<div class="bee-infobox-quote"><i>"This talented bee doesn't like to socialize, it just wants to work and be left alone."</i></div>
+<div class="bee-infobox-row"><b>Rarity</b><span>Legendary</span></div>
+<div class="bee-infobox-row"><b>Color</b><span>Red</span></div>
+<div class="bee-infobox-stats">
+<div><b>Energy</b><span>40</span></div>
+<div><b>Speed</b><span>18.2</span></div>
+<div><b>Attack</b><span>2</span></div>
+</div>
+<div class="bee-infobox-header">Color Scheme</div>
+<div class="bee-infobox-scheme">
+<div class="bee-infobox-stripes"><span style="background:#9f9f9f"></span><span style="background:#9f9f9f"></span><span style="background:#9f9f9f"></span></div>
+<div class="bee-infobox-swatch"><b>Skin</b><code>#9f9f9f</code><code>#9f9f9f</code><code>#9f9f9f</code></div>
+</div>
+</div>
 
 **Shy Bee** is a Red [Legendary bee](bees-legendary.md).
 

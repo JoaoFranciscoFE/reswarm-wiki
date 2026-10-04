@@ -5,56 +5,30 @@ tags: ["Pages with broken file links", "Bees", "Red", "Mythic"]
 
 # Spicy Bee
 
-<table class="infobox templateBeeDefault templateBeeRedBackground">
-<tbody><tr>
-<td class="templateBeeTitle templateBeeMythicText" colspan="3"><b>Spicy Bee</b>
-</td></tr>
-<tr>
-<td class="templateBeeTabber" colspan="3"><center>
-<div><h3>Original</h3>
-<p><img alt="Spicy Bee" height="150" src="img/Spicy_Bee.png" width="150"/>
-</p>
-<h3>Gifted</h3>
-<p><img alt="Gifted Spicy Bee" height="150" src="img/Gifted_Spicy_Bee.png" width="150"/>
-</p>
+<div class="bee-infobox bee-rarity-mythic">
+<div class="bee-infobox-title">Spicy Bee</div>
+<div class="bee-infobox-tabs">
+<input type="radio" name="bee-infobox-tab" id="bee-tab-original" checked>
+<label for="bee-tab-original">Original</label>
+<input type="radio" name="bee-infobox-tab" id="bee-tab-gifted">
+<label for="bee-tab-gifted">Gifted</label>
+<div class="bee-infobox-image bee-tab-original"><img alt="Spicy Bee" src="img/Spicy_Bee.png" width="150" height="150"></div>
+<div class="bee-infobox-image bee-tab-gifted"><img alt="Gifted Spicy Bee" src="img/Gifted_Spicy_Bee.png" width="150" height="150"></div>
 </div>
-</center>
-</td></tr>
-<tr>
-<td class="templateBeeDesc" colspan="3"><i>"Some like it hot - this bee likes it scorching. Even the honey it makes is spicy."</i>
-</td></tr>
-<tr>
-<td class="templateBeeDefaultCell" colspan="3"><b>Rarity</b> <br/> Mythic
-</td></tr>
-<tr>
-<td class="templateBeeDefaultCell" colspan="3"><b>Color</b> <br/> Red
-</td></tr>
-<tr>
-<td class="templateBeeStatCell"><b>Energy</b> <br/> 20
-</td>
-<td class="templateBeeStatCell"><b>Speed</b> <br/> 14
-</td>
-<td class="templateBeeStatCell templateBeeGoodStat"><b>Attack</b> <br/> 5
-</td></tr>
-<tr>
-<td class="templateBeeHeader templateBeeMythicText" colspan="3">COLOR SCHEME
-</td></tr>
-<tr>
-<td colspan="3"><table class="templateBeeDefaultStripeTable">
-<tbody><tr>
-<td>
-<div class="templateBeeLeftStripeBar templateBeeSpicyBeeSkinColor1" style="background-color: #cf2013"> </div>
-<div class="templateBeeMiddleStripeBar templateBeeSpicyBeeSkinColor2" style="background-color: #2e0600"> </div>
-<div class="templateBeeRightStripeBar templateBeeSpicyBeeSkinColor3" style="background-color: #cf2013"> </div>
-<p class="templateBeeSeparator1"><br class="templateBeeSeparator2"/></p>
-<div class="templateBeeColorBox">
-<p class="templateBeeSkinColorHeader">Skin</p>
-<p class="templateBeeSkinColorText templateBeeSkinColorText1">#cf2013</p>
-<p class="templateBeeSkinColorText templateBeeSkinColorText2">#2e0600</p>
-<p class="templateBeeSkinColorText templateBeeSkinColorText3">#cf2013</p></div>
-</td></tr>
-</tbody></table>
-</td></tr></tbody></table>
+<div class="bee-infobox-quote"><i>"Some like it hot - this bee likes it scorching. Even the honey it makes is spicy."</i></div>
+<div class="bee-infobox-row"><b>Rarity</b><span>Mythic</span></div>
+<div class="bee-infobox-row"><b>Color</b><span>Red</span></div>
+<div class="bee-infobox-stats">
+<div><b>Energy</b><span>20</span></div>
+<div><b>Speed</b><span>14</span></div>
+<div><b>Attack</b><span>5</span></div>
+</div>
+<div class="bee-infobox-header">Color Scheme</div>
+<div class="bee-infobox-scheme">
+<div class="bee-infobox-stripes"><span style="background:#cf2013"></span><span style="background:#2e0600"></span><span style="background:#cf2013"></span></div>
+<div class="bee-infobox-swatch"><b>Skin</b><code>#cf2013</code><code>#2e0600</code><code>#cf2013</code></div>
+</div>
+</div>
 
 **Spicy Bee** is a Red [Mythic bee](bees-mythic.md).
 

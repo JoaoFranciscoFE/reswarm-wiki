@@ -5,56 +5,30 @@ tags: ["Pages with broken file links", "Bees", "Common", "Colorless", "Re://:Swa
 
 # Basic Bee
 
-<table class="infobox templateBeeDefault">
-<tbody><tr>
-<td class="templateBeeTitle" colspan="3"><b>Basic Bee</b>
-</td></tr>
-<tr>
-<td class="templateBeeTabber" colspan="3"><center>
-<div><h3>Original</h3>
-<p><img alt="Basic Bee" height="150" src="img/Basic_Bee.png" width="150"/>
-</p>
-<h3>Gifted</h3>
-<p><img alt="Gifted Basic Bee" height="150" src="img/Gifted_Basic_Bee.png" width="150"/>
-</p>
+<div class="bee-infobox bee-rarity-common">
+<div class="bee-infobox-title">Basic Bee</div>
+<div class="bee-infobox-tabs">
+<input type="radio" name="bee-infobox-tab" id="bee-tab-original" checked>
+<label for="bee-tab-original">Original</label>
+<input type="radio" name="bee-infobox-tab" id="bee-tab-gifted">
+<label for="bee-tab-gifted">Gifted</label>
+<div class="bee-infobox-image bee-tab-original"><img alt="Basic Bee" src="img/Basic_Bee.png" width="150" height="150"></div>
+<div class="bee-infobox-image bee-tab-gifted"><img alt="Gifted Basic Bee" src="img/Gifted_Basic_Bee.png" width="150" height="150"></div>
 </div>
-</center>
-</td></tr>
-<tr>
-<td class="templateBeeDesc" colspan="3"><i>"An ordinary bee. Well rounded and hard working!"</i>
-</td></tr>
-<tr>
-<td class="templateBeeDefaultCell" colspan="3"><b>Rarity</b> <br/> Common
-</td></tr>
-<tr>
-<td class="templateBeeDefaultCell" colspan="3"><b>Color</b> <br/> Colorless
-</td></tr>
-<tr>
-<td class="templateBeeStatCell"><b>Energy</b> <br/> 20
-</td>
-<td class="templateBeeStatCell"><b>Speed</b> <br/> 14
-</td>
-<td class="templateBeeStatCell"><b>Attack</b> <br/> 1
-</td></tr>
-<tr>
-<td class="templateBeeHeader" colspan="3">COLOR SCHEME
-</td></tr>
-<tr>
-<td colspan="3"><table class="templateBeeDefaultStripeTable">
-<tbody><tr>
-<td>
-<div class="templateBeeLeftStripeBar templateBeeBasicBeeSkinColor1" style="background-color: #1b2a35"> </div>
-<div class="templateBeeMiddleStripeBar templateBeeBasicBeeSkinColor2" style="background-color: #e5cf38"> </div>
-<div class="templateBeeRightStripeBar templateBeeBasicBeeSkinColor3" style="background-color: #1b2a35"> </div>
-<p class="templateBeeSeparator1"><br class="templateBeeSeparator2"/></p>
-<div class="templateBeeColorBox">
-<p class="templateBeeSkinColorHeader">Skin</p>
-<p class="templateBeeSkinColorText templateBeeSkinColorText1">#1b2a35</p>
-<p class="templateBeeSkinColorText templateBeeSkinColorText2">#e5cf38</p>
-<p class="templateBeeSkinColorText templateBeeSkinColorText3">#1b2a35</p></div>
-</td></tr>
-</tbody></table>
-</td></tr></tbody></table>
+<div class="bee-infobox-quote"><i>"An ordinary bee. Well rounded and hard working!"</i></div>
+<div class="bee-infobox-row"><b>Rarity</b><span>Common</span></div>
+<div class="bee-infobox-row"><b>Color</b><span>Colorless</span></div>
+<div class="bee-infobox-stats">
+<div><b>Energy</b><span>20</span></div>
+<div><b>Speed</b><span>14</span></div>
+<div><b>Attack</b><span>1</span></div>
+</div>
+<div class="bee-infobox-header">Color Scheme</div>
+<div class="bee-infobox-scheme">
+<div class="bee-infobox-stripes"><span style="background:#1b2a35"></span><span style="background:#e5cf38"></span><span style="background:#1b2a35"></span></div>
+<div class="bee-infobox-swatch"><b>Skin</b><code>#1b2a35</code><code>#e5cf38</code><code>#1b2a35</code></div>
+</div>
+</div>
 
 **Basic Bee** is a Colorless [Common bee](bees-common.md). It is usually the first bee to be discovered and hatched.
 

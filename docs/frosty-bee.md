@@ -5,56 +5,30 @@ tags: ["Pages with broken file links", "Bees", "Epic", "Blue"]
 
 # Frosty Bee
 
-<table class="infobox templateBeeDefault templateBeeBlueBackground">
-<tbody><tr>
-<td class="templateBeeTitle templateBeeEpicText" colspan="3"><b>Frosty Bee</b>
-</td></tr>
-<tr>
-<td class="templateBeeTabber" colspan="3"><center>
-<div><h3>Original</h3>
-<p><img alt="Frosty Bee" height="150" src="img/Frosty_Bee.png" width="150"/>
-</p>
-<h3>Gifted</h3>
-<p><img alt="Gifted Frosty Bee" height="150" src="img/Gifted_Frosty_Bee.png" width="150"/>
-</p>
+<div class="bee-infobox bee-rarity-epic">
+<div class="bee-infobox-title">Frosty Bee</div>
+<div class="bee-infobox-tabs">
+<input type="radio" name="bee-infobox-tab" id="bee-tab-original" checked>
+<label for="bee-tab-original">Original</label>
+<input type="radio" name="bee-infobox-tab" id="bee-tab-gifted">
+<label for="bee-tab-gifted">Gifted</label>
+<div class="bee-infobox-image bee-tab-original"><img alt="Frosty Bee" src="img/Frosty_Bee.png" width="150" height="150"></div>
+<div class="bee-infobox-image bee-tab-gifted"><img alt="Gifted Frosty Bee" src="img/Gifted_Frosty_Bee.png" width="150" height="150"></div>
 </div>
-</center>
-</td></tr>
-<tr>
-<td class="templateBeeDesc" colspan="3"><i>"A bee made of snow. It magically came to life after someone put a top hat on its head."</i>
-</td></tr>
-<tr>
-<td class="templateBeeDefaultCell" colspan="3"><b>Rarity</b> <br/> Epic
-</td></tr>
-<tr>
-<td class="templateBeeDefaultCell" colspan="3"><b>Color</b> <br/> Blue
-</td></tr>
-<tr>
-<td class="templateBeeStatCell templateBeeGoodStat"><b>Energy</b> <br/> 25
-</td>
-<td class="templateBeeStatCell templateBeeBadStat"><b>Speed</b> <br/> 11.2
-</td>
-<td class="templateBeeStatCell"><b>Attack</b> <br/> 1
-</td></tr>
-<tr>
-<td class="templateBeeHeader templateBeeEpicText" colspan="3">COLOR SCHEME
-</td></tr>
-<tr>
-<td colspan="3"><table class="templateBeeDefaultStripeTable">
-<tbody><tr>
-<td>
-<div class="templateBeeLeftStripeBar templateBeeFrostyBeeSkinColor1" style="background-color: #f1f1f1"> </div>
-<div class="templateBeeMiddleStripeBar templateBeeFrostyBeeSkinColor2" style="background-color: #3b8ed1"> </div>
-<div class="templateBeeRightStripeBar templateBeeFrostyBeeSkinColor3" style="background-color: #f1f1f1"> </div>
-<p class="templateBeeSeparator1"><br class="templateBeeSeparator2"/></p>
-<div class="templateBeeColorBox">
-<p class="templateBeeSkinColorHeader">Skin</p>
-<p class="templateBeeSkinColorText templateBeeSkinColorText1">#f1f1f1</p>
-<p class="templateBeeSkinColorText templateBeeSkinColorText2">#3b8ed1</p>
-<p class="templateBeeSkinColorText templateBeeSkinColorText3">#f1f1f1</p></div>
-</td></tr>
-</tbody></table>
-</td></tr></tbody></table>
+<div class="bee-infobox-quote"><i>"A bee made of snow. It magically came to life after someone put a top hat on its head."</i></div>
+<div class="bee-infobox-row"><b>Rarity</b><span>Epic</span></div>
+<div class="bee-infobox-row"><b>Color</b><span>Blue</span></div>
+<div class="bee-infobox-stats">
+<div><b>Energy</b><span>25</span></div>
+<div><b>Speed</b><span>11.2</span></div>
+<div><b>Attack</b><span>2</span></div>
+</div>
+<div class="bee-infobox-header">Color Scheme</div>
+<div class="bee-infobox-scheme">
+<div class="bee-infobox-stripes"><span style="background:#f1f1f1"></span><span style="background:#3b8ed1"></span><span style="background:#f1f1f1"></span></div>
+<div class="bee-infobox-swatch"><b>Skin</b><code>#f1f1f1</code><code>#3b8ed1</code><code>#f1f1f1</code></div>
+</div>
+</div>
 
 **Frosty Bee** is a Blue [Epic bee](bees-epic.md).
 

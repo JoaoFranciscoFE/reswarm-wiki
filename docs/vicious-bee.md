@@ -5,56 +5,30 @@ tags: ["Pages with broken file links", "Bees", "Event", "Blue"]
 
 # Vicious Bee
 
-<table class="infobox templateBeeDefault templateBeeBlueBackground">
-<tbody><tr>
-<td class="templateBeeTitle templateBeeEventText" colspan="3"><b>Vicious Bee</b>
-</td></tr>
-<tr>
-<td class="templateBeeTabber" colspan="3"><center>
-<div><h3>Original</h3>
-<p><img alt="Vicious Bee" height="150" src="img/Vicious_Bee.png" width="150"/>
-</p>
-<h3>Gifted</h3>
-<p><img alt="Gifted Vicious Bee" height="150" src="img/Gifted_Vicious_Bee.png" width="150"/>
-</p>
+<div class="bee-infobox bee-rarity-event">
+<div class="bee-infobox-title">Vicious Bee</div>
+<div class="bee-infobox-tabs">
+<input type="radio" name="bee-infobox-tab" id="bee-tab-original" checked>
+<label for="bee-tab-original">Original</label>
+<input type="radio" name="bee-infobox-tab" id="bee-tab-gifted">
+<label for="bee-tab-gifted">Gifted</label>
+<div class="bee-infobox-image bee-tab-original"><img alt="Vicious Bee" src="img/Vicious_Bee.png" width="150" height="150"></div>
+<div class="bee-infobox-image bee-tab-gifted"><img alt="Gifted Vicious Bee" src="img/Gifted_Vicious_Bee.png" width="150" height="150"></div>
 </div>
-</center>
-</td></tr>
-<tr>
-<td class="templateBeeDesc" colspan="3"><i>"This cold-blooded bee takes great pleasure in inflicting pain."</i>
-</td></tr>
-<tr>
-<td class="templateBeeDefaultCell" colspan="3"><b>Rarity</b> <br/> Event
-</td></tr>
-<tr>
-<td class="templateBeeDefaultCell" colspan="3"><b>Color</b> <br/> Blue
-</td></tr>
-<tr>
-<td class="templateBeeStatCell templateBeeGoodStat"><b>Energy</b> <br/> 50
-</td>
-<td class="templateBeeStatCell templateBeeGoodStat"><b>Speed</b> <br/> 17.5
-</td>
-<td class="templateBeeStatCell templateBeeGoodStat"><b>Attack</b> <br/> 9
-</td></tr>
-<tr>
-<td class="templateBeeHeader templateBeeEventText" colspan="3">COLOR SCHEME
-</td></tr>
-<tr>
-<td colspan="3"><table class="templateBeeDefaultStripeTable">
-<tbody><tr>
-<td>
-<div class="templateBeeLeftStripeBar templateBeeViciousBeeSkinColor1" style="background-color: #0e141e"> </div>
-<div class="templateBeeMiddleStripeBar templateBeeViciousBeeSkinColor2" style="background-color: #2f4e66"> </div>
-<div class="templateBeeRightStripeBar templateBeeViciousBeeSkinColor3" style="background-color: #0e141e"> </div>
-<p class="templateBeeSeparator1"><br class="templateBeeSeparator2"/></p>
-<div class="templateBeeColorBox">
-<p class="templateBeeSkinColorHeader">Skin</p>
-<p class="templateBeeSkinColorText templateBeeSkinColorText1">#0e141e</p>
-<p class="templateBeeSkinColorText templateBeeSkinColorText2">#2f4e66</p>
-<p class="templateBeeSkinColorText templateBeeSkinColorText3">#0e141e</p></div>
-</td></tr>
-</tbody></table>
-</td></tr></tbody></table>
+<div class="bee-infobox-quote"><i>"This cold-blooded bee takes great pleasure in inflicting pain."</i></div>
+<div class="bee-infobox-row"><b>Rarity</b><span>Event</span></div>
+<div class="bee-infobox-row"><b>Color</b><span>Blue</span></div>
+<div class="bee-infobox-stats">
+<div><b>Energy</b><span>50</span></div>
+<div><b>Speed</b><span>17.5</span></div>
+<div><b>Attack</b><span>9</span></div>
+</div>
+<div class="bee-infobox-header">Color Scheme</div>
+<div class="bee-infobox-scheme">
+<div class="bee-infobox-stripes"><span style="background:#0e141e"></span><span style="background:#2f4e66"></span><span style="background:#0e141e"></span></div>
+<div class="bee-infobox-swatch"><b>Skin</b><code>#0e141e</code><code>#2f4e66</code><code>#0e141e</code></div>
+</div>
+</div>
 
 *> This page is for the tamed version of Vicious Bee. For the hostile version, see [Rogue Vicious Bee](rogue-vicious-bee.md).*
 
