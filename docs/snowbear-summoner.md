@@ -1,6 +1,6 @@
 ---
 title: "Snowbear Summoner"
-tags: ["Removed Content", "Summoner", "Machines", "Beesmas", "Locations", "Beesmas Decorations"]
+tags: ["Summoner", "Machines", "Beesmas", "Locations", "Beesmas Decorations"]
 ---
 
 # Snowbear Summoner

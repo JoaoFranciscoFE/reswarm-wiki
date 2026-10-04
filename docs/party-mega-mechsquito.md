@@ -1,6 +1,6 @@
 ---
 title: "Party Mega Mechsquito"
-tags: ["Removed Content", "Mobs", "Robo Bear", "Robo Party", "Beesmas"]
+tags: ["Mobs", "Robo Bear", "Robo Party", "Beesmas"]
 ---
 
 # Party Mega Mechsquito

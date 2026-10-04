@@ -1,6 +1,6 @@
 ---
 title: "Polar Bear"
-tags: ["Removed Content", "NPC", "Bears", "Quest Giver"]
+tags: ["NPC", "Bears", "Quest Giver"]
 ---
 
 # Polar Bear

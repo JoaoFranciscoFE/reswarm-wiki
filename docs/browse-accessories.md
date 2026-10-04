@@ -6,12 +6,11 @@ hide:
 
 # Accessories
 
-All 47 pages in Accessories.
+All 45 pages in Accessories.
 
 <div class="wiki-cards">
 <a class="wiki-card" href="amulet.html"><img src="img/Beekeeper's_Mask.png" alt="" loading="lazy"><span>Amulet</span></a>
 <a class="wiki-card" href="ant-amulet.html"><img src="img/Beekeeper's_Mask.png" alt="" loading="lazy"><span>Ant Amulet</span></a>
-<a class="wiki-card" href="b-b-m-mask.html"><img src="img/B.B.M._Mask.png" alt="" loading="lazy"><span>B.B.M. Mask</span></a>
 <a class="wiki-card" href="bags.html"><img src="img/Bags.png" alt="" loading="lazy"><span>Bags</span></a>
 <a class="wiki-card" href="basic-boots.html"><img src="img/Basic_Boots.png" alt="" loading="lazy"><span>Basic Boots</span></a>
 <a class="wiki-card" href="beekeeper-s-boots.html"><img src="img/Beekeeper's_Boots.png" alt="" loading="lazy"><span>Beekeeper&#x27;s Boots</span></a>
@@ -45,7 +44,6 @@ All 47 pages in Accessories.
 <a class="wiki-card" href="honeycomb-belt.html"><img src="img/Honeycomb_Belt.png" alt="" loading="lazy"><span>Honeycomb Belt</span></a>
 <a class="wiki-card" href="king-beetle-amulet.html"><img src="img/Beekeeper's_Mask.png" alt="" loading="lazy"><span>King Beetle Amulet</span></a>
 <a class="wiki-card" href="looker-guard.html"><img src="img/Looker_Guard.png" alt="" loading="lazy"><span>Looker Guard</span></a>
-<a class="wiki-card" href="mondo-b-b-m-mask.html"><img src="img/Mondo_B.B.M._Mask.png" alt="" loading="lazy"><span>Mondo B.B.M. Mask</span></a>
 <a class="wiki-card" href="mondo-belt-bag.html"><img src="img/Mondo_Belt_Bag.png" alt="" loading="lazy"><span>Mondo Belt Bag</span></a>
 <a class="wiki-card" href="moon-amulet.html"><img src="img/Beekeeper's_Mask.png" alt="" loading="lazy"><span>Moon Amulet</span></a>
 <a class="wiki-card" href="parachute.html"><img src="img/Beekeeper's_Mask.png" alt="" loading="lazy"><span>Parachute</span></a>

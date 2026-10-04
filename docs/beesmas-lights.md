@@ -1,6 +1,6 @@
 ---
 title: "Beesmas Lights"
-tags: ["Removed Content", "Beesmas", "Locations", "Beesmas Decorations"]
+tags: ["Beesmas", "Locations", "Beesmas Decorations"]
 ---
 
 # Beesmas Lights

@@ -1,6 +1,6 @@
 ---
 title: "Critical Hits"
-tags: ["Recent Update", "Mechanics"]
+tags: ["Mechanics"]
 ---
 
 # Critical Hits

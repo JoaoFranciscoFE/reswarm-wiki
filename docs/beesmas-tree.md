@@ -1,6 +1,6 @@
 ---
 title: "Beesmas Tree"
-tags: ["Removed Content", "Locations", "Beesmas"]
+tags: ["Locations", "Beesmas"]
 ---
 
 # Beesmas Tree

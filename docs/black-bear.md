@@ -1,6 +1,6 @@
 ---
 title: "Black Bear"
-tags: ["Removed Content", "NPC", "Bears", "Quest Giver", "Starter Zone"]
+tags: ["NPC", "Bears", "Quest Giver", "Starter Zone"]
 ---
 
 # Black Bear

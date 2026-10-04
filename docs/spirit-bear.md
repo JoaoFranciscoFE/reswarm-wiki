@@ -1,6 +1,6 @@
 ---
 title: "Spirit Bear"
-tags: ["Removed Content", "NPC", "Bears", "Quest Giver"]
+tags: ["NPC", "Bears", "Quest Giver"]
 ---
 
 # Spirit Bear

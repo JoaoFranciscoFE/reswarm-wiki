@@ -1,6 +1,6 @@
 ---
 title: "Snowbear"
-tags: ["Removed Content", "Mobs", "Mini Bosses", "Bears", "Beesmas", "Multiplayer Bosses"]
+tags: ["Mobs", "Mini Bosses", "Bears", "Beesmas", "Multiplayer Bosses"]
 ---
 
 # Snowbear

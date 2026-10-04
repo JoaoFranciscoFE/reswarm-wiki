@@ -6,7 +6,7 @@ hide:
 
 # Items
 
-All 211 pages in Items.
+All 209 pages in Items.
 
 <div class="wiki-cards">
 <a class="wiki-card" href="aged-gingerbread-bear.html"><img src="img/Aged_Gingerbread_Bear.png" alt="" loading="lazy"><span>Aged Gingerbread Bear</span></a>
@@ -14,7 +14,6 @@ All 211 pages in Items.
 <a class="wiki-card" href="ant-pass.html"><img src="img/Ant_Pass.png" alt="" loading="lazy"><span>Ant Pass</span></a>
 <a class="wiki-card" href="atomic-treat.html"><img src="img/Atomic_Treat.png" alt="" loading="lazy"><span>Atomic Treat</span></a>
 <a class="wiki-card" href="autumn-sunhat.html"><img src="img/Autumn_Sunhat.png" alt="" loading="lazy"><span>Autumn Sunhat</span></a>
-<a class="wiki-card" href="b-b-m-mask.html"><img src="img/B.B.M._Mask.png" alt="" loading="lazy"><span>B.B.M. Mask</span></a>
 <a class="wiki-card" href="backpack.html"><img src="img/Backpack.png" alt="" loading="lazy"><span>Backpack</span></a>
 <a class="wiki-card" href="bags.html"><img src="img/Bags.png" alt="" loading="lazy"><span>Bags</span></a>
 <a class="wiki-card" href="balloon.html"><img src="img/Royal_Jelly.png" alt="" loading="lazy"><span>Balloon</span></a>
@@ -125,7 +124,6 @@ All 211 pages in Items.
 <a class="wiki-card" href="marshmallow-bee.html"><img src="img/Marshmallow_Bee.png" alt="" loading="lazy"><span>Marshmallow Bee</span></a>
 <a class="wiki-card" href="mega-jug.html"><img src="img/Mega-Jug.png" alt="" loading="lazy"><span>Mega-Jug</span></a>
 <a class="wiki-card" href="micro-converter.html"><img src="img/Micro-Converter.png" alt="" loading="lazy"><span>Micro-Converter</span></a>
-<a class="wiki-card" href="mondo-b-b-m-mask.html"><img src="img/Mondo_B.B.M._Mask.png" alt="" loading="lazy"><span>Mondo B.B.M. Mask</span></a>
 <a class="wiki-card" href="mondo-belt-bag.html"><img src="img/Mondo_Belt_Bag.png" alt="" loading="lazy"><span>Mondo Belt Bag</span></a>
 <a class="wiki-card" href="moon-charm.html"><img src="img/Moon_Charm.png" alt="" loading="lazy"><span>Moon Charm</span></a>
 <a class="wiki-card" href="motivating-vial.html"><img src="img/Motivating_Vial.png" alt="" loading="lazy"><span>Motivating Vial</span></a>

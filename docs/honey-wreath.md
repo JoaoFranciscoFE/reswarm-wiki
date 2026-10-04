@@ -1,6 +1,6 @@
 ---
 title: "Honey Wreath"
-tags: ["Removed Content", "Machines", "Beesmas", "Locations", "Beesmas Decorations", "Summoner", "Starter Zone"]
+tags: ["Machines", "Beesmas", "Locations", "Beesmas Decorations", "Summoner", "Starter Zone"]
 ---
 
 # Honey Wreath

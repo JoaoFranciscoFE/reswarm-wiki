@@ -1,6 +1,6 @@
 ---
 title: "Honey Bee (NPC)"
-tags: ["Removed Content", "NPC", "Quest Bees", "Quest Giver", "Bees"]
+tags: ["NPC", "Quest Bees", "Quest Giver", "Bees"]
 ---
 
 # Honey Bee (NPC)

@@ -1,6 +1,6 @@
 ---
 title: "Bean Bug"
-tags: ["Mobs", "Egg Hunt Event", "Passive Mobs"]
+tags: ["Mobs", "Passive Mobs"]
 ---
 
 # Bean Bug

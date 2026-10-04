@@ -1,6 +1,6 @@
 ---
 title: "Bee Bear"
-tags: ["Removed Content", "NPC", "Bears", "Traveling Bears", "Quest Giver", "Beesmas", "Events"]
+tags: ["NPC", "Bears", "Traveling Bears", "Quest Giver", "Beesmas", "Events"]
 ---
 
 # Bee Bear

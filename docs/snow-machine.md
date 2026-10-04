@@ -1,6 +1,6 @@
 ---
 title: "Snow Machine"
-tags: ["Removed Content", "Locations", "Machines", "Beesmas", "Summoner", "Beesmas Decorations", "Starter Zone"]
+tags: ["Locations", "Machines", "Beesmas", "Summoner", "Beesmas Decorations", "Starter Zone"]
 ---
 
 # Snow Machine
