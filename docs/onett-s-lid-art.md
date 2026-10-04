@@ -43,26 +43,26 @@ After completing Onett's Yard Art quest, [Baby Bee](baby-bee.md), wearing a Sant
 </th></tr>
 <tr>
 <td>
-<ul><li><span typeof="mw:Error mw:File"></span>5 <a href="pineapple.html"><span class="color-template color-template-pineapple color-template-background-clip">Pineapples</span></a></li>
-<li><span typeof="mw:Error mw:File"></span>5 <a href="strawberry.html"><span class="color-template color-template-strawberry color-template-background-clip">Strawberries</span></a></li>
-<li><span typeof="mw:Error mw:File"></span>5 <a href="blueberry.html"><span class="color-template color-template-blueberry color-template-background-clip">Blueberries</span></a></li>
-<li><span typeof="mw:Error mw:File"></span>5 <a href="sunflower-seed.html"><span class="color-template color-template-sunflower-seed color-template-background-clip">Sunflower Seeds</span></a></li>
-<li><span typeof="mw:Error mw:File"></span>1 <a href="gingerbread-bear.html"><span class="color-template color-template-gingerbread-bear color-template-background-clip">Gingerbread Bear</span></a></li></ul>
+<ul><li><img alt="Pineapple" height="25" src="img/Pineapple.png" width="25"/>5 <a href="pineapple.html"><span class="color-template color-template-pineapple color-template-background-clip">Pineapples</span></a></li>
+<li><img alt="Strawberry" height="25" src="img/Strawberry.png" width="25"/>5 <a href="strawberry.html"><span class="color-template color-template-strawberry color-template-background-clip">Strawberries</span></a></li>
+<li><img alt="Blueberry" height="25" src="img/Blueberry.png" width="25"/>5 <a href="blueberry.html"><span class="color-template color-template-blueberry color-template-background-clip">Blueberries</span></a></li>
+<li><img alt="Sunflower Seed" height="25" src="img/Sunflower_Seed.png" width="25"/>5 <a href="sunflower-seed.html"><span class="color-template color-template-sunflower-seed color-template-background-clip">Sunflower Seeds</span></a></li>
+<li><img alt="Gingerbread Bear" height="25" src="img/Gingerbread_Bear.png" width="25"/>1 <a href="gingerbread-bear.html"><span class="color-template color-template-gingerbread-bear color-template-background-clip">Gingerbread Bear</span></a></li></ul>
 </td></tr>
 <tr>
 <th>2 items from the following pool
 </th></tr>
 <tr>
 <td>
-<ul><li><span typeof="mw:Error mw:File"></span>1 <a href="ticket.html"><span class="color-template color-template-ticket color-template-background-clip">Ticket</span></a> (~49.38%)</li>
-<li><span typeof="mw:Error mw:File"></span>10 <a href="moon-charm.html"><span class="color-template color-template-moon-charm color-template-background-clip">Moon Charms</span></a> (~29.63%)</li>
-<li><span typeof="mw:Error mw:File"></span>1 <a href="glitter.html"><span class="color-template color-template-glitter color-template-background-clip">Glitter</span></a> (~9.88%)</li>
-<li><span typeof="mw:Error mw:File"></span>1 <a href="glue.html"><span class="color-template color-template-glue color-template-background-clip">Glue</span></a> (~9.88%)</li>
-<li><span typeof="mw:Error mw:File"></span>1 <a href="royal-jelly.html#Star_Jelly"><span class="color-template color-template-star-jelly color-template-background-clip">Star Jelly</span></a> (~0.99%)</li>
+<ul><li><img alt="Ticket" height="25" src="img/Ticket.png" width="25"/>1 <a href="ticket.html"><span class="color-template color-template-ticket color-template-background-clip">Ticket</span></a> (~49.38%)</li>
+<li><img alt="Moon Charm" height="25" src="img/Moon_Charm.png" width="25"/>10 <a href="moon-charm.html"><span class="color-template color-template-moon-charm color-template-background-clip">Moon Charms</span></a> (~29.63%)</li>
+<li><img alt="Glitter" height="25" src="img/Glitter.png" width="25"/>1 <a href="glitter.html"><span class="color-template color-template-glitter color-template-background-clip">Glitter</span></a> (~9.88%)</li>
+<li><img alt="Glue" height="25" src="img/Glue.png" width="25"/>1 <a href="glue.html"><span class="color-template color-template-glue color-template-background-clip">Glue</span></a> (~9.88%)</li>
+<li><img alt="Star Jelly" height="25" src="img/Star_Jelly.png" width="25"/>1 <a href="royal-jelly.html#Star_Jelly"><span class="color-template color-template-star-jelly color-template-background-clip">Star Jelly</span></a> (~0.99%)</li>
 <li><span typeof="mw:Error mw:File"></span>1 <a href="toy-horn.html"><span class="color-template color-template-toy-horn color-template-background-clip">Toy Horn</span></a> (~0.1%)</li>
-<li><span typeof="mw:Error mw:File"></span>1 <a href="paper-angel.html"><span class="color-template color-template-paper-angel color-template-background-clip">Paper Angel</span></a> (~0.1%)</li>
-<li><span typeof="mw:Error mw:File"></span>1 <a href="box-o-frogs.html"><span class="color-template color-template-box-o-frogs color-template-background-clip">Box-O-Frogs</span></a> (~0.04%)</li>
-<li><span typeof="mw:Error mw:File"></span>1 <a href="festive-bean.html"><span class="color-template color-template-festive-bean color-template-background-clip">Festive Bean</span></a> (~0.01%)</li></ul>
+<li><img alt="Paper Angel" height="25" src="img/Paper_Angel.png" width="25"/>1 <a href="paper-angel.html"><span class="color-template color-template-paper-angel color-template-background-clip">Paper Angel</span></a> (~0.1%)</li>
+<li><img alt="Box-O-Frogs" height="25" src="img/Box-O-Frogs.png" width="25"/>1 <a href="box-o-frogs.html"><span class="color-template color-template-box-o-frogs color-template-background-clip">Box-O-Frogs</span></a> (~0.04%)</li>
+<li><img alt="Festive Bean" height="25" src="img/Festive_Bean.png" width="25"/>1 <a href="festive-bean.html"><span class="color-template color-template-festive-bean color-template-background-clip">Festive Bean</span></a> (~0.01%)</li></ul>
 </td></tr></tbody></table>
 
 ### Temporary Bees

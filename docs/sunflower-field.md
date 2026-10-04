@@ -42,9 +42,9 @@ This field can spawn [sunflower seed](sunflower-seed.md), [ticket](ticket.md), [
 <th>Item Drops list
 </th></tr>
 <tr>
-<td><span typeof="mw:Error mw:File"></span><a href="sunflower-seed.html"><span class="color-template color-template-sunflower-seed color-template-background-clip">Sunflower Seeds</span></a> (<span style="border-bottom:1px dotted;" title="1 in 5">20%</span> Chance)<br/>
-<p><span typeof="mw:Error mw:File"></span><a href="oil.html"><span class="color-template color-template-oil color-template-background-clip">Oils</span></a> (<span style="border-bottom:1px dotted;" title="1 in 6,000">0.0167%</span> Chance)<br/>
-<span typeof="mw:Error mw:File"></span><a href="magic-bean.html"><span class="color-template color-template-magic-bean color-template-background-clip">Magic Beans</span></a> (<span style="border-bottom:1px dotted;" title="1 in 40,000">0.0025%</span> Chance)
+<td><img alt="Sunflower Seed" height="35" src="img/Sunflower_Seed.png" width="35"/><a href="sunflower-seed.html"><span class="color-template color-template-sunflower-seed color-template-background-clip">Sunflower Seeds</span></a> (<span style="border-bottom:1px dotted;" title="1 in 5">20%</span> Chance)<br/>
+<p><img alt="Oil" height="35" src="img/Oil.png" width="35"/><a href="oil.html"><span class="color-template color-template-oil color-template-background-clip">Oils</span></a> (<span style="border-bottom:1px dotted;" title="1 in 6,000">0.0167%</span> Chance)<br/>
+<img alt="Magic Bean" height="35" src="img/Magic_Bean.png" width="35"/><a href="magic-bean.html"><span class="color-template color-template-magic-bean color-template-background-clip">Magic Beans</span></a> (<span style="border-bottom:1px dotted;" title="1 in 40,000">0.0025%</span> Chance)
 </p>
 </td></tr></tbody></table>
 

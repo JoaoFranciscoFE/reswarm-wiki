@@ -42,12 +42,12 @@ This field can spawn [treat](treat.md), [strawberry](strawberry.md), [bitterberr
 <th>Item Drops list
 </th></tr>
 <tr>
-<td><span typeof="mw:Error mw:File"></span><a href="strawberry.html"><span class="color-template color-template-strawberry color-template-background-clip">Strawberries</span></a> (<span style="border-bottom:1px dotted;" title="1 in 12">8.33%</span> Chance)<br/>
-<p><span typeof="mw:Error mw:File"></span><a href="treat.html"><span class="color-template color-template-treat">Treats</span></a> (<span style="border-bottom:1px dotted;" title="1 in 20">5%</span> Chance)<br/>
-<span typeof="mw:Error mw:File"></span><a href="bitterberry.html"><span class="color-template color-template-bitterberry color-template-background-clip">Bitterberries</span></a> (<span style="border-bottom:1px dotted;" title="1 in 2,500)">0.04%</span> Chance)<br/>
-<span typeof="mw:Error mw:File"></span><a href="red-extract.html"><span class="color-template color-template-red-extract color-template-background-clip">Red Extracts</span></a> (<span style="border-bottom:1px dotted;" title="1 in 7,500">0.0133%</span> Chance)<br/>
-<span typeof="mw:Error mw:File"></span><a href="royal-jelly.html"><span class="color-template color-template-royal-jelly color-template-background-clip">Royal Jellies</span></a> (<span style="border-bottom:1px dotted;" title="1 in 20,000">0.005%</span> Chance)<br/>
-<span typeof="mw:Error mw:File"></span><a href="magic-bean.html"><span class="color-template color-template-magic-bean color-template-background-clip">Magic Beans</span></a> (<span style="border-bottom:1px dotted;" title="1 in 50,000">0.002%</span> Chance)
+<td><img alt="Strawberry" height="35" src="img/Strawberry.png" width="35"/><a href="strawberry.html"><span class="color-template color-template-strawberry color-template-background-clip">Strawberries</span></a> (<span style="border-bottom:1px dotted;" title="1 in 12">8.33%</span> Chance)<br/>
+<p><img alt="Treat" height="35" src="img/Treat.png" width="35"/><a href="treat.html"><span class="color-template color-template-treat">Treats</span></a> (<span style="border-bottom:1px dotted;" title="1 in 20">5%</span> Chance)<br/>
+<img alt="Bitterberry" height="35" src="img/Bitterberry.png" width="35"/><a href="bitterberry.html"><span class="color-template color-template-bitterberry color-template-background-clip">Bitterberries</span></a> (<span style="border-bottom:1px dotted;" title="1 in 2,500)">0.04%</span> Chance)<br/>
+<img alt="Red Extract" height="35" src="img/Red_Extract.png" width="35"/><a href="red-extract.html"><span class="color-template color-template-red-extract color-template-background-clip">Red Extracts</span></a> (<span style="border-bottom:1px dotted;" title="1 in 7,500">0.0133%</span> Chance)<br/>
+<img alt="Royal Jelly" height="35" src="img/Royal_Jelly.png" width="35"/><a href="royal-jelly.html"><span class="color-template color-template-royal-jelly color-template-background-clip">Royal Jellies</span></a> (<span style="border-bottom:1px dotted;" title="1 in 20,000">0.005%</span> Chance)<br/>
+<img alt="Magic Bean" height="35" src="img/Magic_Bean.png" width="35"/><a href="magic-bean.html"><span class="color-template color-template-magic-bean color-template-background-clip">Magic Beans</span></a> (<span style="border-bottom:1px dotted;" title="1 in 50,000">0.002%</span> Chance)
 </p>
 </td></tr></tbody></table>
 

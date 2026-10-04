@@ -104,8 +104,8 @@ A **Magic Bean** is an inventory item that was added in the [2018-11-25 update](
 <ul><li>Gifted Bucko Bee gave 2 magic beans and other items.</li></ul></li>
 <li>Giving presents to certain NPCs during Beesmas 2022:
 <ul><li>Onett gave 1 magic bean and other items.</li></ul></li>
-<li>Purchasing the Blessed Bean Bundle in <a href="bee-bear-s-catalog.html">Bee Bear's Catalog</a> gave <span typeof="mw:Error mw:File"></span>50 <strong class="mw-selflink selflink"><span class="color-template color-template-magic-bean color-template-background-clip">Magic Beans</span></strong> + other items.</li>
-<li>Completing <a href="honey-bee-npc.html">Honey Bee's</a> Beesmas 2022 quest gave <span typeof="mw:Error mw:File"></span>9 <strong class="mw-selflink selflink"><span class="color-template color-template-magic-bean color-template-background-clip">Magic Beans</span></strong> + other items.</li>
+<li>Purchasing the Blessed Bean Bundle in <a href="bee-bear-s-catalog.html">Bee Bear's Catalog</a> gave <img alt="Magic Bean" height="25" src="img/Magic_Bean.png" width="25"/>50 <strong class="mw-selflink selflink"><span class="color-template color-template-magic-bean color-template-background-clip">Magic Beans</span></strong> + other items.</li>
+<li>Completing <a href="honey-bee-npc.html">Honey Bee's</a> Beesmas 2022 quest gave <img alt="Magic Bean" height="25" src="img/Magic_Bean.png" width="25"/>9 <strong class="mw-selflink selflink"><span class="color-template color-template-magic-bean color-template-background-clip">Magic Beans</span></strong> + other items.</li>
 <li><a href="bee-bear.html">Bee Bear</a> gave magic beans on the following quests during certain Beesmas years:
 <ul><li>Beesmas 2018:
 <ul><li>Bee-liz Honeydad rewarded 1 magic bean and other items.</li>
@@ -117,12 +117,12 @@ A **Magic Bean** is an inventory item that was added in the [2018-11-25 update](
 <li>Bee Cub Workshop 1 rewarded 3 magic beans and other items.</li>
 <li>Bee Cub Workshop 5 rewarded 5 magic beans and other items.</li></ul></li>
 <li>Beesmas 2020:
-<ul><li><span typeof="mw:Error mw:File"></span><a href="present.html"><span class="color-template color-template-present color-template-background-clip">Presents</span></a> to Polar Bear rewarded 1 magic bean and other items.</li>
+<ul><li><img alt="Present" height="35" src="img/Present.png" width="35"/><a href="present.html"><span class="color-template color-template-present color-template-background-clip">Presents</span></a> to Polar Bear rewarded 1 magic bean and other items.</li>
 <li>Holly Jolly Tokens rewarded 1 magic bean and other items.</li>
 <li>Festive Wreath Workshop 4 rewarded 3 magic beans and other items.</li></ul></li>
 <li>Beesmas 2021:
 <ul><li>The Wonders of Unwrapping rewarded 1 magic bean and other items.</li>
-<li>Puffshrooms for <span typeof="mw:Error mw:File"></span><a href="present.html"><span class="color-template color-template-present color-template-background-clip">Presents</span></a> rewarded 3 magic beans and other items.</li>
+<li>Puffshrooms for <img alt="Present" height="35" src="img/Present.png" width="35"/><a href="present.html"><span class="color-template color-template-present color-template-background-clip">Presents</span></a> rewarded 3 magic beans and other items.</li>
 <li>Snow Cub Reformation (4/5) rewarded 3 magic beans and other items.</li></ul></li>
 <li>Beesmas 2022:
 <ul><li>Shiverin' in the Snow rewarded 1 magic bean and other items.</li>
@@ -153,7 +153,7 @@ Total required for all single-purchase items: 801 **Magic Beans**
 <caption>
 </caption>
 <tbody><tr>
-<th style="text-align: center"><span typeof="mw:Error mw:File"></span><strong class="mw-selflink selflink"><span class="color-template color-template-magic-bean color-template-background-clip">Magic Beans</span></strong>
+<th style="text-align: center"><img alt="Magic Bean" height="35" src="img/Magic_Bean.png" width="35"/><strong class="mw-selflink selflink"><span class="color-template color-template-magic-bean color-template-background-clip">Magic Beans</span></strong>
 </th>
 <th>Other ingredients
 </th>
@@ -162,7 +162,7 @@ Total required for all single-purchase items: 801 **Magic Beans**
 <tr>
 <td><div style="text-align: center;">1
 </div></td>
-<td><span typeof="mw:Error mw:File"></span>25 <a href="moon-charm.html"><span class="color-template color-template-moon-charm color-template-background-clip">Moon Charms</span></a>
+<td><img alt="Moon Charm" height="25" src="img/Moon_Charm.png" width="25"/>25 <a href="moon-charm.html"><span class="color-template color-template-moon-charm color-template-background-clip">Moon Charms</span></a>
 </td>
 <td><figure class="thumb mw-halign-center" style="width: 80px" typeof="mw:File/Thumb">  <figcaption class="thumbcaption"> </figcaption> </figure><div style="text-align: center;"><a href="glitter.html"><span class="color-template color-template-glitter color-template-background-clip">Glitter</span></a>
 </div></td></tr>
@@ -170,7 +170,7 @@ Total required for all single-purchase items: 801 **Magic Beans**
 <td><div style="text-align: center;">1
 </div></td>
 <td><span typeof="mw:Error mw:File"></span>750,000 <a href="honey.html"><span class="color-template color-template-honey">Honey</span></a><br/>
-<p><span typeof="mw:Error mw:File"></span>3 <a href="soft-wax.html"><span class="color-template color-template-soft-wax">Soft Waxes</span></a>
+<p><img alt="Soft Wax" height="25" src="img/Soft_Wax.png" width="25"/>3 <a href="soft-wax.html"><span class="color-template color-template-soft-wax">Soft Waxes</span></a>
 </p>
 </td>
 <td><figure class="mw-halign-center" typeof="mw:Error mw:File"><figcaption></figcaption></figure><div style="text-align: center;"><a href="plastic-planter.html"><span class="color-template color-template-plastic-planter color-template-background-clip">Plastic Planter</span></a>
@@ -179,9 +179,9 @@ Total required for all single-purchase items: 801 **Magic Beans**
 <td><div style="text-align: center;">5
 </div></td>
 <td><span typeof="mw:Error mw:File"></span>5,000,000 <a href="honey.html"><span class="color-template color-template-honey">Honey</span></a><br/>
-<p><span typeof="mw:Error mw:File"></span>30 <a href="gumdrops.html"><span class="color-template color-template-gumdrops color-template-background-clip">Gumdrops</span></a><br/>
-<span typeof="mw:Error mw:File"></span>3 <a href="jelly-beans.html"><span class="color-template color-template-jelly-beans color-template-background-clip">Jelly Beans</span></a><br/>
-<span typeof="mw:Error mw:File"></span>5 <a href="soft-wax.html"><span class="color-template color-template-soft-wax">Soft Waxes</span></a>
+<p><img alt="Gumdrops" height="25" src="img/Gumdrops.png" width="25"/>30 <a href="gumdrops.html"><span class="color-template color-template-gumdrops color-template-background-clip">Gumdrops</span></a><br/>
+<img alt="Jelly Beans" height="25" src="img/Jelly_Beans.png" width="25"/>3 <a href="jelly-beans.html"><span class="color-template color-template-jelly-beans color-template-background-clip">Jelly Beans</span></a><br/>
+<img alt="Soft Wax" height="25" src="img/Soft_Wax.png" width="25"/>5 <a href="soft-wax.html"><span class="color-template color-template-soft-wax">Soft Waxes</span></a>
 </p>
 </td>
 <td><figure class="mw-halign-center" typeof="mw:Error mw:File"><figcaption></figcaption></figure><div style="text-align: center;"><a href="candy-planter.html"><span class="color-template color-template-candy-planter color-template-background-clip">Candy Planter</span></a>
@@ -190,8 +190,8 @@ Total required for all single-purchase items: 801 **Magic Beans**
 <td><div style="text-align: center;">5
 </div></td>
 <td><span typeof="mw:Error mw:File"></span>10,000,000 <a href="honey.html"><span class="color-template color-template-honey">Honey</span></a><br/>
-<p><span typeof="mw:Error mw:File"></span>15 <a href="red-extract.html"><span class="color-template color-template-red-extract color-template-background-clip">Red Extracts</span></a><br/>
-<span typeof="mw:Error mw:File"></span>20 <a href="soft-wax.html"><span class="color-template color-template-soft-wax">Soft Waxes</span></a>
+<p><img alt="Red Extract" height="25" src="img/Red_Extract.png" width="25"/>15 <a href="red-extract.html"><span class="color-template color-template-red-extract color-template-background-clip">Red Extracts</span></a><br/>
+<img alt="Soft Wax" height="25" src="img/Soft_Wax.png" width="25"/>20 <a href="soft-wax.html"><span class="color-template color-template-soft-wax">Soft Waxes</span></a>
 </p>
 </td>
 <td><figure class="mw-halign-center" typeof="mw:Error mw:File"><figcaption></figcaption></figure><div style="text-align: center;"><a href="red-clay-planter.html"><span class="color-template color-template-red-clay-planter color-template-background-clip">Red Clay Planter</span></a>
@@ -200,8 +200,8 @@ Total required for all single-purchase items: 801 **Magic Beans**
 <td><div style="text-align: center;">5
 </div></td>
 <td><span typeof="mw:Error mw:File"></span>10,000,000 <a href="honey.html"><span class="color-template color-template-honey">Honey</span></a><br/>
-<p><span typeof="mw:Error mw:File"></span>15 <a href="blue-extract.html"><span class="color-template color-template-blue-extract color-template-background-clip">Blue Extracts</span></a><br/>
-<span typeof="mw:Error mw:File"></span>20 <a href="soft-wax.html"><span class="color-template color-template-soft-wax">Soft Waxes</span></a>
+<p><img alt="Blue Extract" height="25" src="img/Blue_Extract.png" width="25"/>15 <a href="blue-extract.html"><span class="color-template color-template-blue-extract color-template-background-clip">Blue Extracts</span></a><br/>
+<img alt="Soft Wax" height="25" src="img/Soft_Wax.png" width="25"/>20 <a href="soft-wax.html"><span class="color-template color-template-soft-wax">Soft Waxes</span></a>
 </p>
 </td>
 <td><figure class="mw-halign-center" typeof="mw:Error mw:File"><figcaption></figcaption></figure><div style="text-align: center;"><a href="blue-clay-planter.html"><span class="color-template color-template-blue-clay-planter color-template-background-clip">Blue Clay Planter</span></a>
@@ -210,9 +210,9 @@ Total required for all single-purchase items: 801 **Magic Beans**
 <td><div style="text-align: center;">10
 </div></td>
 <td><span typeof="mw:Error mw:File"></span>50,000,000 <a href="honey.html"><span class="color-template color-template-honey">Honey</span></a><br/>
-<p><span typeof="mw:Error mw:File"></span>1 <a href="purple-potion.html"><span class="color-template color-template-purple-potion color-template-background-clip">Purple Potion</span></a><br/>
-<span typeof="mw:Error mw:File"></span>5 <a href="hard-wax.html"><span class="color-template color-template-hard-wax">Hard Waxes</span></a><br/>
-<span typeof="mw:Error mw:File"></span>20 <a href="soft-wax.html"><span class="color-template color-template-soft-wax">Soft Waxes</span></a>
+<p><img alt="Purple Potion" height="25" src="img/Purple_Potion.png" width="25"/>1 <a href="purple-potion.html"><span class="color-template color-template-purple-potion color-template-background-clip">Purple Potion</span></a><br/>
+<img alt="Hard Wax" height="25" src="img/Hard_Wax.png" width="25"/>5 <a href="hard-wax.html"><span class="color-template color-template-hard-wax">Hard Waxes</span></a><br/>
+<img alt="Soft Wax" height="25" src="img/Soft_Wax.png" width="25"/>20 <a href="soft-wax.html"><span class="color-template color-template-soft-wax">Soft Waxes</span></a>
 </p>
 </td>
 <td><figure class="mw-halign-center" typeof="mw:Error mw:File"><figcaption></figcaption></figure><div style="text-align: center;"><a href="tacky-planter.html"><span class="color-template color-template-tacky-planter color-template-background-clip">Tacky Planter</span></a>
@@ -221,10 +221,10 @@ Total required for all single-purchase items: 801 **Magic Beans**
 <td><div style="text-align: center;">25
 </div></td>
 <td><span typeof="mw:Error mw:File"></span>750,000,000 <a href="honey.html"><span class="color-template color-template-honey">Honey</span></a><br/>
-<p><span typeof="mw:Error mw:File"></span>25 <a href="neonberry.html"><span class="color-template color-template-neonberry color-template-background-clip">Neonberries</span></a><br/>
-<span typeof="mw:Error mw:File"></span>15 <a href="glue.html"><span class="color-template color-template-glue color-template-background-clip">Glues</span></a><br/>
-<span typeof="mw:Error mw:File"></span>3 <a href="caustic-wax.html"><span class="color-template color-template-caustic-wax">Caustic Waxes</span></a><br/>
-<span typeof="mw:Error mw:File"></span>10 <a href="hard-wax.html"><span class="color-template color-template-hard-wax">Hard Waxes</span></a>
+<p><img alt="Neonberry" height="25" src="img/Neonberry.png" width="25"/>25 <a href="neonberry.html"><span class="color-template color-template-neonberry color-template-background-clip">Neonberries</span></a><br/>
+<img alt="Glue" height="25" src="img/Glue.png" width="25"/>15 <a href="glue.html"><span class="color-template color-template-glue color-template-background-clip">Glues</span></a><br/>
+<img alt="Caustic Wax" height="25" src="img/Caustic_Wax.png" width="25"/>3 <a href="caustic-wax.html"><span class="color-template color-template-caustic-wax">Caustic Waxes</span></a><br/>
+<img alt="Hard Wax" height="25" src="img/Hard_Wax.png" width="25"/>10 <a href="hard-wax.html"><span class="color-template color-template-hard-wax">Hard Waxes</span></a>
 </p>
 </td>
 <td><figure class="mw-halign-center" typeof="mw:Error mw:File"><figcaption></figcaption></figure><div style="text-align: center;"><a href="pesticide-planter.html"><span class="color-template color-template-pesticide-planter color-template-background-clip">Pesticide Planter</span></a>
@@ -233,10 +233,10 @@ Total required for all single-purchase items: 801 **Magic Beans**
 <td><div style="text-align: center;">75
 </div></td>
 <td><span typeof="mw:Error mw:File"></span><span style="border-bottom:1px dotted;" title="750,000,000,000">750B</span> <a href="honey.html"><span class="color-template color-template-honey">Honey</span></a><br/>
-<p><span typeof="mw:Error mw:File"></span>750 <a href="red-extract.html"><span class="color-template color-template-red-extract color-template-background-clip">Red Extracts</span></a><br/>
-<span typeof="mw:Error mw:File"></span>150 <a href="hard-wax.html"><span class="color-template color-template-hard-wax">Hard Waxes</span></a><br/>
-<span typeof="mw:Error mw:File"></span>25 <a href="swirled-wax.html"><span class="color-template color-template-swirled-wax color-template-background-clip">Swirled Waxes</span></a><br/>
-<span typeof="mw:Error mw:File"></span>1 <a href="turpentine.html"><span class="color-template color-template-turpentine color-template-background-clip">Turpentine</span></a>
+<p><img alt="Red Extract" height="25" src="img/Red_Extract.png" width="25"/>750 <a href="red-extract.html"><span class="color-template color-template-red-extract color-template-background-clip">Red Extracts</span></a><br/>
+<img alt="Hard Wax" height="25" src="img/Hard_Wax.png" width="25"/>150 <a href="hard-wax.html"><span class="color-template color-template-hard-wax">Hard Waxes</span></a><br/>
+<img alt="Swirled Wax" height="25" src="img/Swirled_Wax.png" width="25"/>25 <a href="swirled-wax.html"><span class="color-template color-template-swirled-wax color-template-background-clip">Swirled Waxes</span></a><br/>
+<img alt="Turpentine" height="25" src="img/Turpentine.png" width="25"/>1 <a href="turpentine.html"><span class="color-template color-template-turpentine color-template-background-clip">Turpentine</span></a>
 </p>
 </td>
 <td><figure class="mw-halign-center" typeof="mw:Error mw:File"><figcaption></figcaption></figure><div style="text-align: center;"><a href="heat-treated-planter.html"><span class="color-template color-template-heat-treated-planter color-template-background-clip">Heat-Treated Planter</span></a>
@@ -245,10 +245,10 @@ Total required for all single-purchase items: 801 **Magic Beans**
 <td><div style="text-align: center;">75
 </div></td>
 <td><span typeof="mw:Error mw:File"></span><span style="border-bottom:1px dotted;" title="750,000,000,000">750B</span> <a href="honey.html"><span class="color-template color-template-honey">Honey</span></a><br/>
-<p><span typeof="mw:Error mw:File"></span>750 <a href="blue-extract.html"><span class="color-template color-template-blue-extract color-template-background-clip">Blue Extracts</span></a><br/>
-<span typeof="mw:Error mw:File"></span>500 <a href="soft-wax.html"><span class="color-template color-template-soft-wax">Soft Waxes</span></a><br/>
-<span typeof="mw:Error mw:File"></span>25 <a href="caustic-wax.html"><span class="color-template color-template-caustic-wax">Caustic Waxes</span></a><br/>
-<span typeof="mw:Error mw:File"></span>1 <a href="turpentine.html"><span class="color-template color-template-turpentine color-template-background-clip">Turpentine</span></a>
+<p><img alt="Blue Extract" height="25" src="img/Blue_Extract.png" width="25"/>750 <a href="blue-extract.html"><span class="color-template color-template-blue-extract color-template-background-clip">Blue Extracts</span></a><br/>
+<img alt="Soft Wax" height="25" src="img/Soft_Wax.png" width="25"/>500 <a href="soft-wax.html"><span class="color-template color-template-soft-wax">Soft Waxes</span></a><br/>
+<img alt="Caustic Wax" height="25" src="img/Caustic_Wax.png" width="25"/>25 <a href="caustic-wax.html"><span class="color-template color-template-caustic-wax">Caustic Waxes</span></a><br/>
+<img alt="Turpentine" height="25" src="img/Turpentine.png" width="25"/>1 <a href="turpentine.html"><span class="color-template color-template-turpentine color-template-background-clip">Turpentine</span></a>
 </p>
 </td>
 <td><figure class="mw-halign-center" typeof="mw:Error mw:File"><figcaption></figcaption></figure><div style="text-align: center;"><a href="hydroponic-planter.html"><span class="color-template color-template-hydroponic-planter color-template-background-clip">Hydroponic Planter</span></a>
@@ -257,10 +257,10 @@ Total required for all single-purchase items: 801 **Magic Beans**
 <td><div style="text-align: center;">100
 </div></td>
 <td><span typeof="mw:Error mw:File"></span><span style="border-bottom:1px dotted;" title="5,000,000,000,000">5T</span> <a href="honey.html"><span class="color-template color-template-honey">Honey</span></a><br/>
-<p><span typeof="mw:Error mw:File"></span>100 <a href="glitter.html"><span class="color-template color-template-glitter color-template-background-clip">Glitter</span></a><br/>
-<span typeof="mw:Error mw:File"></span>250 <a href="soft-wax.html"><span class="color-template color-template-soft-wax">Soft Waxes</span></a><br/>
-<span typeof="mw:Error mw:File"></span>50 <a href="swirled-wax.html"><span class="color-template color-template-swirled-wax color-template-background-clip">Swirled Waxes</span></a><br/>
-<span typeof="mw:Error mw:File"></span>25 <a href="super-smoothie.html"><span class="color-template color-template-super-smoothie color-template-background-clip">Super Smoothies</span></a>
+<p><img alt="Glitter" height="25" src="img/Glitter.png" width="25"/>100 <a href="glitter.html"><span class="color-template color-template-glitter color-template-background-clip">Glitter</span></a><br/>
+<img alt="Soft Wax" height="25" src="img/Soft_Wax.png" width="25"/>250 <a href="soft-wax.html"><span class="color-template color-template-soft-wax">Soft Waxes</span></a><br/>
+<img alt="Swirled Wax" height="25" src="img/Swirled_Wax.png" width="25"/>50 <a href="swirled-wax.html"><span class="color-template color-template-swirled-wax color-template-background-clip">Swirled Waxes</span></a><br/>
+<img alt="Super Smoothie" height="25" src="img/Super_Smoothie.png" width="25"/>25 <a href="super-smoothie.html"><span class="color-template color-template-super-smoothie color-template-background-clip">Super Smoothies</span></a>
 </p>
 </td>
 <td><figure class="mw-halign-center" typeof="mw:Error mw:File"><figcaption></figcaption></figure><div style="text-align: center;"><a href="petal-planter.html"><span class="color-template color-template-petal-planter color-template-background-clip">Petal Planter</span></a>
@@ -269,10 +269,10 @@ Total required for all single-purchase items: 801 **Magic Beans**
 <td><div style="text-align: center;">500
 </div></td>
 <td><span typeof="mw:Error mw:File"></span><span style="border-bottom:1px dotted;" title="100,000,000,000,000">100T</span> <a href="honey.html"><span class="color-template color-template-honey">Honey</span></a><br/>
-<p><span typeof="mw:Error mw:File"></span>100 <a href="super-smoothie.html"><span class="color-template color-template-super-smoothie color-template-background-clip">Super Smoothies</span></a><br/>
-<span typeof="mw:Error mw:File"></span>100 <a href="swirled-wax.html"><span class="color-template color-template-swirled-wax color-template-background-clip">Swirled Waxes</span></a><br/>
-<span typeof="mw:Error mw:File"></span>100 <a href="caustic-wax.html"><span class="color-template color-template-caustic-wax">Caustic Waxes</span></a><br/>
-<span typeof="mw:Error mw:File"></span>25 <a href="turpentine.html"><span class="color-template color-template-turpentine color-template-background-clip">Turpentines</span></a>
+<p><img alt="Super Smoothie" height="25" src="img/Super_Smoothie.png" width="25"/>100 <a href="super-smoothie.html"><span class="color-template color-template-super-smoothie color-template-background-clip">Super Smoothies</span></a><br/>
+<img alt="Swirled Wax" height="25" src="img/Swirled_Wax.png" width="25"/>100 <a href="swirled-wax.html"><span class="color-template color-template-swirled-wax color-template-background-clip">Swirled Waxes</span></a><br/>
+<img alt="Caustic Wax" height="25" src="img/Caustic_Wax.png" width="25"/>100 <a href="caustic-wax.html"><span class="color-template color-template-caustic-wax">Caustic Waxes</span></a><br/>
+<img alt="Turpentine" height="25" src="img/Turpentine.png" width="25"/>25 <a href="turpentine.html"><span class="color-template color-template-turpentine color-template-background-clip">Turpentines</span></a>
 </p>
 </td>
 <td><figure class="mw-halign-center" typeof="mw:Error mw:File"><figcaption></figcaption></figure><div style="text-align: center;"><a href="the-planter-of-plenty.html"><span class="color-template color-template-the-planter-of-plenty color-template-background-clip">The Planter Of Plenty</span></a>
@@ -280,7 +280,7 @@ Total required for all single-purchase items: 801 **Magic Beans**
 
 ## Gallery
 
-<div class="wikia-gallery wikia-gallery-caption-below wikia-gallery-position-left wikia-gallery-spacing-medium wikia-gallery-border-small wikia-gallery-captions-left wikia-gallery-caption-size-medium" data-seq-no="0" hash="a8622fdafa3c3507bdf885d5897ec536" id="gallery-0"><div class="wikia-gallery-caption"></div><div class="wikia-gallery-item" style="width:187px; "><div class="thumb" style="height:187px;"><div class="gallery-image-wrapper accent" id="MagicBeanInventory-png" style="position: relative; height:185px; width:185px;"><span style="line-height: 1;">MagicBeanInventory.png</span></div></div><div class="lightbox-caption" style="width:185px;">Magic beans in a player inventory.</div></div><div class="wikia-gallery-item" style="width:187px; "><div class="thumb" style="height:187px;"><div class="gallery-image-wrapper accent" id="Magicbeanshop1-png" style="position: relative; height:185px; width:185px;"><span style="line-height: 1;">Magicbeanshop1.png</span></div></div><div class="lightbox-caption" style="width:185px;">The <span typeof="mw:Error mw:File"></span><strong class="mw-selflink selflink"><span class="color-template color-template-magic-bean color-template-background-clip">Magic Beans</span></strong> in the shop.</div></div><div class="wikia-gallery-item" style="width:187px; "><div class="thumb" style="height:187px;"><div class="gallery-image-wrapper accent" id="Magicbeanshop10-png" style="position: relative; height:185px; width:185px;"><span style="line-height: 1;">Magicbeanshop10.png</span></div></div><div class="lightbox-caption" style="width:185px;">A pack of <span typeof="mw:Error mw:File"></span>10 <strong class="mw-selflink selflink"><span class="color-template color-template-magic-bean color-template-background-clip">Magic Beans</span></strong> in the shop.</div></div><div class="wikia-gallery-item" style="width:187px; "><div class="thumb" style="height:187px;"><div class="gallery-image-wrapper accent" id="Magic_Bean_Shop-png" style="position: relative; height:185px; width:185px;"><span style="line-height: 1;">Magic Bean Shop.png</span></div></div><div class="lightbox-caption" style="width:185px;">The Magic Bean Shop.</div></div></div>
+<div class="wikia-gallery wikia-gallery-caption-below wikia-gallery-position-left wikia-gallery-spacing-medium wikia-gallery-border-small wikia-gallery-captions-left wikia-gallery-caption-size-medium" data-seq-no="0" hash="a8622fdafa3c3507bdf885d5897ec536" id="gallery-0"><div class="wikia-gallery-caption"></div><div class="wikia-gallery-item" style="width:187px; "><div class="thumb" style="height:187px;"><div class="gallery-image-wrapper accent" id="MagicBeanInventory-png" style="position: relative; height:185px; width:185px;"><span style="line-height: 1;">MagicBeanInventory.png</span></div></div><div class="lightbox-caption" style="width:185px;">Magic beans in a player inventory.</div></div><div class="wikia-gallery-item" style="width:187px; "><div class="thumb" style="height:187px;"><div class="gallery-image-wrapper accent" id="Magicbeanshop1-png" style="position: relative; height:185px; width:185px;"><span style="line-height: 1;">Magicbeanshop1.png</span></div></div><div class="lightbox-caption" style="width:185px;">The <img alt="Magic Bean" height="35" src="img/Magic_Bean.png" width="35"/><strong class="mw-selflink selflink"><span class="color-template color-template-magic-bean color-template-background-clip">Magic Beans</span></strong> in the shop.</div></div><div class="wikia-gallery-item" style="width:187px; "><div class="thumb" style="height:187px;"><div class="gallery-image-wrapper accent" id="Magicbeanshop10-png" style="position: relative; height:185px; width:185px;"><span style="line-height: 1;">Magicbeanshop10.png</span></div></div><div class="lightbox-caption" style="width:185px;">A pack of <img alt="Magic Bean" height="25" src="img/Magic_Bean.png" width="25"/>10 <strong class="mw-selflink selflink"><span class="color-template color-template-magic-bean color-template-background-clip">Magic Beans</span></strong> in the shop.</div></div><div class="wikia-gallery-item" style="width:187px; "><div class="thumb" style="height:187px;"><div class="gallery-image-wrapper accent" id="Magic_Bean_Shop-png" style="position: relative; height:185px; width:185px;"><span style="line-height: 1;">Magic Bean Shop.png</span></div></div><div class="lightbox-caption" style="width:185px;">The Magic Bean Shop.</div></div></div>
 
 <table class="mw-collapsible autocollapse" style="margin:auto; background:#000; font-size: 10pt; border:5px solid #56CB5A; width: 100%; border-radius: 20px; -moz-border-radius: 20px; -webkit-border-radius: 20px; -khtml-border-radius: 20px; -icab-border-radius: 20px; -o-border-radius: 20px;">
 <tbody><tr>
@@ -301,7 +301,7 @@ Total required for all single-purchase items: 801 **Magic Beans**
 <tr>
 <th class="NavCategory" rowspan="8">Regular
 </th>
-<td class="NavLinks NavLinksBasicEven" colspan="2"><b><img alt="Sprinkler Builder" height="35" src="img/Sprinkler_Builder.png" width="35"/> <a href="sprinklers.html">Sprinkler Builder</a> • <img alt="Gumdrops" height="35" src="img/Gumdrops.png" width="35"/> <a href="gumdrops.html">Gumdrops</a> • <img alt="Coconut" height="35" src="img/Coconut.png" width="35"/> <a href="coconut.html">Coconut</a> • <img alt="Stinger" height="35" src="img/Stinger.png" width="35"/> <a href="stinger.html">Stinger</a> • <img alt="Micro-Converter" height="35" src="img/Micro-Converter.png" width="35"/> <a href="micro-converter.html">Micro-Converter</a> • <img alt="Honeysuckle" height="35" src="img/Honeysuckle.png" width="35"/> <a href="honeysuckle.html">Honeysuckle</a> • <img alt="Whirligig" height="35" src="img/Whirligig.png" width="35"/> <a href="whirligig.html">Whirligig</a> • <img alt="Jelly Beans" height="35" src="img/Jelly_Beans.png" width="35"/> <a href="jelly-beans.html">Jelly Beans</a> • <img alt="Magic Bean" height="35" src="img/Magic_Bean.png" width="35"/> <strong class="mw-selflink selflink">Magic Bean</strong> • <img alt="Cloud Vial" height="35" src="img/Cloud_Vial.png" width="35"/> <a href="cloud-vial.html">Cloud Vial</a> • <img alt="Night Bell" height="35" src="img/Night_Bell.png" width="35"/> <a href="night-bell.html">Night Bell</a> • <img alt="Ant Pass" height="35" src="img/Ant_Pass.png" width="35"/> <a href="ant-pass.html">Ant Pass</a> • <img alt="Robo Pass" height="35" src="img/Robo_Pass.png" width="35"/> <a href="robo-pass.html">Robo Pass</a> • <img alt="Box-O-Frogs" height="35" src="img/Box-O-Frogs.png" width="35"/> <a href="box-o-frogs.html">Box-O-Frogs</a> •  <img alt="Turpentine" height="35" src="img/Turpentine.png" width="35"/> <a href="turpentine.html">Turpentine</a> • <span typeof="mw:Error mw:File"></span> <a href="egg.html">Eggs</a> • <img alt="Royal Jelly" height="35" src="img/Royal_Jelly.png" width="35"/> <a href="royal-jelly.html">Royal Jelly</a> • <img alt="Star Jelly" height="35" src="img/Star_Jelly.png" width="35"/> <a href="royal-jelly.html#Star_Jelly">Star Jelly</a></b> • <img alt="Bloom Shaker" height="35" src="img/Bloom_Shaker.png" width="35"/> <a href="bloom-shaker.html">Bloom Shaker</a><b></b>
+<td class="NavLinks NavLinksBasicEven" colspan="2"><b><img alt="Sprinkler Builder" height="35" src="img/Sprinkler_Builder.png" width="35"/> <a href="sprinklers.html">Sprinkler Builder</a> • <img alt="Gumdrops" height="35" src="img/Gumdrops.png" width="35"/> <a href="gumdrops.html">Gumdrops</a> • <img alt="Coconut" height="35" src="img/Coconut.png" width="35"/> <a href="coconut.html">Coconut</a> • <img alt="Stinger" height="35" src="img/Stinger.png" width="35"/> <a href="stinger.html">Stinger</a> • <img alt="Micro-Converter" height="35" src="img/Micro-Converter.png" width="35"/> <a href="micro-converter.html">Micro-Converter</a> • <img alt="Honeysuckle" height="35" src="img/Honeysuckle.png" width="35"/> <a href="honeysuckle.html">Honeysuckle</a> • <img alt="Whirligig" height="35" src="img/Whirligig.png" width="35"/> <a href="whirligig.html">Whirligig</a> • <img alt="Jelly Beans" height="35" src="img/Jelly_Beans.png" width="35"/> <a href="jelly-beans.html">Jelly Beans</a> • <img alt="Magic Bean" height="35" src="img/Magic_Bean.png" width="35"/> <strong class="mw-selflink selflink">Magic Bean</strong> • <img alt="Cloud Vial" height="35" src="img/Cloud_Vial.png" width="35"/> <a href="cloud-vial.html">Cloud Vial</a> • <img alt="Night Bell" height="35" src="img/Night_Bell.png" width="35"/> <a href="night-bell.html">Night Bell</a> • <img alt="Ant Pass" height="35" src="img/Ant_Pass.png" width="35"/> <a href="ant-pass.html">Ant Pass</a> • <img alt="Robo Pass" height="35" src="img/Robo_Pass.png" width="35"/> <a href="robo-pass.html">Robo Pass</a> • <img alt="Box-O-Frogs" height="35" src="img/Box-O-Frogs.png" width="35"/> <a href="box-o-frogs.html">Box-O-Frogs</a> •  <img alt="Turpentine" height="35" src="img/Turpentine.png" width="35"/> <a href="turpentine.html">Turpentine</a> • <img alt="Basic Egg" height="35" src="img/Basic_Egg.png" width="35"/> <a href="egg.html">Eggs</a> • <img alt="Royal Jelly" height="35" src="img/Royal_Jelly.png" width="35"/> <a href="royal-jelly.html">Royal Jelly</a> • <img alt="Star Jelly" height="35" src="img/Star_Jelly.png" width="35"/> <a href="royal-jelly.html#Star_Jelly">Star Jelly</a></b> • <img alt="Bloom Shaker" height="35" src="img/Bloom_Shaker.png" width="35"/> <a href="bloom-shaker.html">Bloom Shaker</a><b></b>
 </td></tr>
 <tr>
 <th class="NavCategory">Crafting Materials

@@ -344,24 +344,24 @@ Every time Wild Windy Bee is defeated, the following rewards may be dropped. Def
 <td>
 </td>
 <td><span typeof="mw:Error mw:File"></span><a href="honey.html"><span class="color-template color-template-honey">Honey</span></a><br/>
-<p><span typeof="mw:Error mw:File"></span><a href="cloud-vial.html"><span class="color-template color-template-cloud-vial color-template-background-clip">Cloud Vials</span></a><br/>
-<span typeof="mw:Error mw:File"></span><a href="royal-jelly.html"><span class="color-template color-template-royal-jelly color-template-background-clip">Royal Jellies</span></a><br/>
-<span typeof="mw:Error mw:File"></span><a href="sunflower-seed.html"><span class="color-template color-template-sunflower-seed color-template-background-clip">Sunflower Seeds</span></a> (Limited per day)<br/>
-<span typeof="mw:Error mw:File"></span><a href="ticket.html"><span class="color-template color-template-ticket color-template-background-clip">Tickets</span></a> (Up to 20 per day)<br/>
-<span typeof="mw:Error mw:File"></span><a href="snowflake.html"><span class="color-template color-template-snowflake color-template-background-clip">Snowflakes</span></a> (Limited per day; During Beesmas Only)<br/>
-<span typeof="mw:Error mw:File"></span><a href="field-dice.html"><span class="color-template color-template-field-dice color-template-background-clip">Field Dice</span></a> (Common)<br/>
-<span typeof="mw:Error mw:File"></span><a href="oil.html"><span class="color-template color-template-oil color-template-background-clip">Oil</span></a> (Common)<br/>
-<span typeof="mw:Error mw:File"></span><a href="magic-bean.html"><span class="color-template color-template-magic-bean color-template-background-clip">Magic Bean</span></a> (Common)<br/>
-<span typeof="mw:Error mw:File"></span><a href="glitter.html"><span class="color-template color-template-glitter color-template-background-clip">Glitter</span></a> (Uncommon)<br/>
-<span typeof="mw:Error mw:File"></span><a href="royal-jelly.html#Star_Jelly"><span class="color-template color-template-star-jelly color-template-background-clip">Star Jelly</span></a> (Uncommon)<br/>
-<span typeof="mw:Error mw:File"></span><a href="tropical-drink.html"><span class="color-template color-template-tropical-drink color-template-background-clip">Tropical Drink</span></a> (Very Rare; higher chance in <a href="coconut-field.html">Coconut Field</a>)<br/>
-<span typeof="mw:Error mw:File"></span><a href="night-bell.html"><span class="color-template color-template-night-bell color-template-background-clip">Night Bell</span></a> (Extremely Rare)<br/>
-<span typeof="mw:Error mw:File"></span><a href="sticker.html#Sticker_Index"><span class="color-template color-template-simple-cloud-sticker color-template-background-clip">Simple Cloud Sticker</span></a>  (Uncommon)<br/>
-<span typeof="mw:Error mw:File"></span><a href="sticker.html#Sticker_Index"><span class="color-template color-template-blowing-leaf-sticker color-template-background-clip">Blowing Leaf Sticker</span></a> (Rare)<br/>
-<span typeof="mw:Error mw:File"></span><a href="sticker.html#Sticker_Index"><span class="color-template color-template-grey-raining-cloud-sticker color-template-background-clip">Grey Raining Cloud Sticker</span></a> (Very Rare)<br/>
-<span typeof="mw:Error mw:File"></span><a href="sticker.html#Sticker_Index"><span class="color-template color-template-tornado-sticker color-template-background-clip">Tornado Sticker</span></a> (Extremely Rare)<br/>
-<span typeof="mw:Error mw:File"></span><a href="sticker.html#Sticker_Index"><span class="color-template color-template-stretched-head-bear-sticker color-template-background-clip">Stretched Head Bear Sticker</span></a> (Extremely Rare)<br/>
-<span typeof="mw:Error mw:File"></span><a href="sticker.html#Sticker_Index"><span class="color-template color-template-x2-bee-gather-voucher color-template-background-clip">x2 Bee Gather Voucher</span></a> (Nearly Impossible)
+<p><img alt="Cloud Vial" height="35" src="img/Cloud_Vial.png" width="35"/><a href="cloud-vial.html"><span class="color-template color-template-cloud-vial color-template-background-clip">Cloud Vials</span></a><br/>
+<img alt="Royal Jelly" height="35" src="img/Royal_Jelly.png" width="35"/><a href="royal-jelly.html"><span class="color-template color-template-royal-jelly color-template-background-clip">Royal Jellies</span></a><br/>
+<img alt="Sunflower Seed" height="35" src="img/Sunflower_Seed.png" width="35"/><a href="sunflower-seed.html"><span class="color-template color-template-sunflower-seed color-template-background-clip">Sunflower Seeds</span></a> (Limited per day)<br/>
+<img alt="Ticket" height="35" src="img/Ticket.png" width="35"/><a href="ticket.html"><span class="color-template color-template-ticket color-template-background-clip">Tickets</span></a> (Up to 20 per day)<br/>
+<img alt="Snowflake" height="35" src="img/Snowflake.png" width="35"/><a href="snowflake.html"><span class="color-template color-template-snowflake color-template-background-clip">Snowflakes</span></a> (Limited per day; During Beesmas Only)<br/>
+<img alt="Field Dice" height="35" src="img/Field_Dice.png" width="35"/><a href="field-dice.html"><span class="color-template color-template-field-dice color-template-background-clip">Field Dice</span></a> (Common)<br/>
+<img alt="Oil" height="35" src="img/Oil.png" width="35"/><a href="oil.html"><span class="color-template color-template-oil color-template-background-clip">Oil</span></a> (Common)<br/>
+<img alt="Magic Bean" height="35" src="img/Magic_Bean.png" width="35"/><a href="magic-bean.html"><span class="color-template color-template-magic-bean color-template-background-clip">Magic Bean</span></a> (Common)<br/>
+<img alt="Glitter" height="35" src="img/Glitter.png" width="35"/><a href="glitter.html"><span class="color-template color-template-glitter color-template-background-clip">Glitter</span></a> (Uncommon)<br/>
+<img alt="Star Jelly" height="35" src="img/Star_Jelly.png" width="35"/><a href="royal-jelly.html#Star_Jelly"><span class="color-template color-template-star-jelly color-template-background-clip">Star Jelly</span></a> (Uncommon)<br/>
+<img alt="Tropical Drink" height="35" src="img/Tropical_Drink.png" width="35"/><a href="tropical-drink.html"><span class="color-template color-template-tropical-drink color-template-background-clip">Tropical Drink</span></a> (Very Rare; higher chance in <a href="coconut-field.html">Coconut Field</a>)<br/>
+<img alt="Night Bell" height="35" src="img/Night_Bell.png" width="35"/><a href="night-bell.html"><span class="color-template color-template-night-bell color-template-background-clip">Night Bell</span></a> (Extremely Rare)<br/>
+<img alt="Simple Cloud" height="35" src="img/Simple_Cloud.png" width="35"/><a href="sticker.html#Sticker_Index"><span class="color-template color-template-simple-cloud-sticker color-template-background-clip">Simple Cloud Sticker</span></a>  (Uncommon)<br/>
+<img alt="Blowing Leaf" height="35" src="img/Blowing_Leaf.png" width="35"/><a href="sticker.html#Sticker_Index"><span class="color-template color-template-blowing-leaf-sticker color-template-background-clip">Blowing Leaf Sticker</span></a> (Rare)<br/>
+<img alt="Grey Raining Cloud" height="35" src="img/Grey_Raining_Cloud.png" width="35"/><a href="sticker.html#Sticker_Index"><span class="color-template color-template-grey-raining-cloud-sticker color-template-background-clip">Grey Raining Cloud Sticker</span></a> (Very Rare)<br/>
+<img alt="Tornado" height="35" src="img/Tornado.png" width="35"/><a href="sticker.html#Sticker_Index"><span class="color-template color-template-tornado-sticker color-template-background-clip">Tornado Sticker</span></a> (Extremely Rare)<br/>
+<img alt="Stretched Head Bear" height="35" src="img/Stretched_Head_Bear.png" width="35"/><a href="sticker.html#Sticker_Index"><span class="color-template color-template-stretched-head-bear-sticker color-template-background-clip">Stretched Head Bear Sticker</span></a> (Extremely Rare)<br/>
+<img alt="x2 Bee Gather Voucher" height="35" src="img/x2_Bee_Gather_Voucher.png" width="35"/><a href="sticker.html#Sticker_Index"><span class="color-template color-template-x2-bee-gather-voucher color-template-background-clip">x2 Bee Gather Voucher</span></a> (Nearly Impossible)
 </p>
 </td></tr></tbody></table>
 

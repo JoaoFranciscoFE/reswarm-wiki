@@ -193,14 +193,14 @@ Bricks is the main currency in the Retro Swarm Challenge, and can be used to buy
 </td>
 <td>Unlock A Bee
 </td>
-<td><span typeof="mw:Error mw:File"></span>5 <strong class="mw-selflink selflink"><span class="color-template color-template-brick color-template-background-clip">Bricks</span></strong> (+10 after first purchase, +15 after that)
+<td><img alt="Brick" height="25" src="img/Brick.png" width="25"/>5 <strong class="mw-selflink selflink"><span class="color-template color-template-brick color-template-background-clip">Bricks</span></strong> (+10 after first purchase, +15 after that)
 </td></tr>
 <tr>
 <td><span typeof="mw:Error mw:File"></span>
 </td>
 <td>Level Up Rental Bees
 </td>
-<td><span typeof="mw:Error mw:File"></span>10 <strong class="mw-selflink selflink"><span class="color-template color-template-brick color-template-background-clip">Bricks</span></strong> (+10 after first and third purchase, +20 besides that)
+<td><img alt="Brick" height="25" src="img/Brick.png" width="25"/>10 <strong class="mw-selflink selflink"><span class="color-template color-template-brick color-template-background-clip">Bricks</span></strong> (+10 after first and third purchase, +20 besides that)
 </td></tr></tbody></table>
 
 ### Boost Items
@@ -218,28 +218,28 @@ Bricks is the main currency in the Retro Swarm Challenge, and can be used to buy
 </td>
 <td>Bloxiade
 </td>
-<td><span typeof="mw:Error mw:File"></span>100 <strong class="mw-selflink selflink"><span class="color-template color-template-brick color-template-background-clip">Bricks</span></strong>
+<td><img alt="Brick" height="25" src="img/Brick.png" width="25"/>100 <strong class="mw-selflink selflink"><span class="color-template color-template-brick color-template-background-clip">Bricks</span></strong>
 </td></tr>
 <tr>
 <td><span typeof="mw:Error mw:File"></span>
 </td>
 <td>Bloxy Cola
 </td>
-<td><span typeof="mw:Error mw:File"></span>200 <strong class="mw-selflink selflink"><span class="color-template color-template-brick color-template-background-clip">Bricks</span></strong>
+<td><img alt="Brick" height="25" src="img/Brick.png" width="25"/>200 <strong class="mw-selflink selflink"><span class="color-template color-template-brick color-template-background-clip">Bricks</span></strong>
 </td></tr>
 <tr>
 <td><span typeof="mw:Error mw:File"></span>
 </td>
 <td>Cheezburger
 </td>
-<td><span typeof="mw:Error mw:File"></span>300 <strong class="mw-selflink selflink"><span class="color-template color-template-brick color-template-background-clip">Bricks</span></strong>
+<td><img alt="Brick" height="25" src="img/Brick.png" width="25"/>300 <strong class="mw-selflink selflink"><span class="color-template color-template-brick color-template-background-clip">Bricks</span></strong>
 </td></tr>
 <tr>
 <td><span typeof="mw:Error mw:File"></span>
 </td>
 <td><div style="text-align: center;">Pizza
 </div></td>
-<td><span typeof="mw:Error mw:File"></span>500 <strong class="mw-selflink selflink"><span class="color-template color-template-brick color-template-background-clip">Bricks</span></strong>
+<td><img alt="Brick" height="25" src="img/Brick.png" width="25"/>500 <strong class="mw-selflink selflink"><span class="color-template color-template-brick color-template-background-clip">Bricks</span></strong>
 </td></tr></tbody></table>
 
 ### Weapons
@@ -257,42 +257,42 @@ Bricks is the main currency in the Retro Swarm Challenge, and can be used to buy
 </td>
 <td><div style="text-align: center;">Classic Sword
 </div></td>
-<td><span typeof="mw:Error mw:File"></span>10 <strong class="mw-selflink selflink"><span class="color-template color-template-brick color-template-background-clip">Bricks</span></strong>
+<td><img alt="Brick" height="25" src="img/Brick.png" width="25"/>10 <strong class="mw-selflink selflink"><span class="color-template color-template-brick color-template-background-clip">Bricks</span></strong>
 </td></tr>
 <tr>
 <td><span typeof="mw:Error mw:File"></span>
 </td>
 <td><div style="text-align: center;">Trowel
 </div></td>
-<td><span typeof="mw:Error mw:File"></span>25 <strong class="mw-selflink selflink"><span class="color-template color-template-brick color-template-background-clip">Bricks</span></strong>
+<td><img alt="Brick" height="25" src="img/Brick.png" width="25"/>25 <strong class="mw-selflink selflink"><span class="color-template color-template-brick color-template-background-clip">Bricks</span></strong>
 </td></tr>
 <tr>
 <td><span typeof="mw:Error mw:File"></span>
 </td>
 <td><div style="text-align: center;">Slingshot
 </div></td>
-<td><span typeof="mw:Error mw:File"></span>150 <strong class="mw-selflink selflink"><span class="color-template color-template-brick color-template-background-clip">Bricks</span></strong>
+<td><img alt="Brick" height="25" src="img/Brick.png" width="25"/>150 <strong class="mw-selflink selflink"><span class="color-template color-template-brick color-template-background-clip">Bricks</span></strong>
 </td></tr>
 <tr>
 <td><span typeof="mw:Error mw:File"></span>
 </td>
 <td><div style="text-align: center;">Firebrand
 </div></td>
-<td><span typeof="mw:Error mw:File"></span>300 <strong class="mw-selflink selflink"><span class="color-template color-template-brick color-template-background-clip">Bricks</span></strong>
+<td><img alt="Brick" height="25" src="img/Brick.png" width="25"/>300 <strong class="mw-selflink selflink"><span class="color-template color-template-brick color-template-background-clip">Bricks</span></strong>
 </td></tr>
 <tr>
 <td><span typeof="mw:Error mw:File"></span>
 </td>
 <td><div style="text-align: center;">Rocket Launcher
 </div></td>
-<td><span typeof="mw:Error mw:File"></span>750 <strong class="mw-selflink selflink"><span class="color-template color-template-brick color-template-background-clip">Bricks</span></strong>
+<td><img alt="Brick" height="25" src="img/Brick.png" width="25"/>750 <strong class="mw-selflink selflink"><span class="color-template color-template-brick color-template-background-clip">Bricks</span></strong>
 </td></tr>
 <tr>
 <td><span typeof="mw:Error mw:File"></span>
 </td>
 <td><div style="text-align: center;">Illumina
 </div></td>
-<td><span typeof="mw:Error mw:File"></span>1,500 <strong class="mw-selflink selflink"><span class="color-template color-template-brick color-template-background-clip">Bricks</span></strong>
+<td><img alt="Brick" height="25" src="img/Brick.png" width="25"/>1,500 <strong class="mw-selflink selflink"><span class="color-template color-template-brick color-template-background-clip">Bricks</span></strong>
 </td></tr></tbody></table>
 
 ## Trivia
@@ -327,7 +327,7 @@ Bricks is the main currency in the Retro Swarm Challenge, and can be used to buy
 <tr>
 <th class="NavCategory" rowspan="8">Regular
 </th>
-<td class="NavLinks NavLinksBasicEven" colspan="2"><b><img alt="Sprinkler Builder" height="35" src="img/Sprinkler_Builder.png" width="35"/> <a href="sprinklers.html">Sprinkler Builder</a> • <img alt="Gumdrops" height="35" src="img/Gumdrops.png" width="35"/> <a href="gumdrops.html">Gumdrops</a> • <img alt="Coconut" height="35" src="img/Coconut.png" width="35"/> <a href="coconut.html">Coconut</a> • <img alt="Stinger" height="35" src="img/Stinger.png" width="35"/> <a href="stinger.html">Stinger</a> • <img alt="Micro-Converter" height="35" src="img/Micro-Converter.png" width="35"/> <a href="micro-converter.html">Micro-Converter</a> • <img alt="Honeysuckle" height="35" src="img/Honeysuckle.png" width="35"/> <a href="honeysuckle.html">Honeysuckle</a> • <img alt="Whirligig" height="35" src="img/Whirligig.png" width="35"/> <a href="whirligig.html">Whirligig</a> • <img alt="Jelly Beans" height="35" src="img/Jelly_Beans.png" width="35"/> <a href="jelly-beans.html">Jelly Beans</a> • <img alt="Magic Bean" height="35" src="img/Magic_Bean.png" width="35"/> <a href="magic-bean.html">Magic Bean</a> • <img alt="Cloud Vial" height="35" src="img/Cloud_Vial.png" width="35"/> <a href="cloud-vial.html">Cloud Vial</a> • <img alt="Night Bell" height="35" src="img/Night_Bell.png" width="35"/> <a href="night-bell.html">Night Bell</a> • <img alt="Ant Pass" height="35" src="img/Ant_Pass.png" width="35"/> <a href="ant-pass.html">Ant Pass</a> • <img alt="Robo Pass" height="35" src="img/Robo_Pass.png" width="35"/> <a href="robo-pass.html">Robo Pass</a> • <img alt="Box-O-Frogs" height="35" src="img/Box-O-Frogs.png" width="35"/> <a href="box-o-frogs.html">Box-O-Frogs</a> •  <img alt="Turpentine" height="35" src="img/Turpentine.png" width="35"/> <a href="turpentine.html">Turpentine</a> • <span typeof="mw:Error mw:File"></span> <a href="egg.html">Eggs</a> • <img alt="Royal Jelly" height="35" src="img/Royal_Jelly.png" width="35"/> <a href="royal-jelly.html">Royal Jelly</a> • <img alt="Star Jelly" height="35" src="img/Star_Jelly.png" width="35"/> <a href="royal-jelly.html#Star_Jelly">Star Jelly</a></b> • <img alt="Bloom Shaker" height="35" src="img/Bloom_Shaker.png" width="35"/> <a href="bloom-shaker.html">Bloom Shaker</a><b></b>
+<td class="NavLinks NavLinksBasicEven" colspan="2"><b><img alt="Sprinkler Builder" height="35" src="img/Sprinkler_Builder.png" width="35"/> <a href="sprinklers.html">Sprinkler Builder</a> • <img alt="Gumdrops" height="35" src="img/Gumdrops.png" width="35"/> <a href="gumdrops.html">Gumdrops</a> • <img alt="Coconut" height="35" src="img/Coconut.png" width="35"/> <a href="coconut.html">Coconut</a> • <img alt="Stinger" height="35" src="img/Stinger.png" width="35"/> <a href="stinger.html">Stinger</a> • <img alt="Micro-Converter" height="35" src="img/Micro-Converter.png" width="35"/> <a href="micro-converter.html">Micro-Converter</a> • <img alt="Honeysuckle" height="35" src="img/Honeysuckle.png" width="35"/> <a href="honeysuckle.html">Honeysuckle</a> • <img alt="Whirligig" height="35" src="img/Whirligig.png" width="35"/> <a href="whirligig.html">Whirligig</a> • <img alt="Jelly Beans" height="35" src="img/Jelly_Beans.png" width="35"/> <a href="jelly-beans.html">Jelly Beans</a> • <img alt="Magic Bean" height="35" src="img/Magic_Bean.png" width="35"/> <a href="magic-bean.html">Magic Bean</a> • <img alt="Cloud Vial" height="35" src="img/Cloud_Vial.png" width="35"/> <a href="cloud-vial.html">Cloud Vial</a> • <img alt="Night Bell" height="35" src="img/Night_Bell.png" width="35"/> <a href="night-bell.html">Night Bell</a> • <img alt="Ant Pass" height="35" src="img/Ant_Pass.png" width="35"/> <a href="ant-pass.html">Ant Pass</a> • <img alt="Robo Pass" height="35" src="img/Robo_Pass.png" width="35"/> <a href="robo-pass.html">Robo Pass</a> • <img alt="Box-O-Frogs" height="35" src="img/Box-O-Frogs.png" width="35"/> <a href="box-o-frogs.html">Box-O-Frogs</a> •  <img alt="Turpentine" height="35" src="img/Turpentine.png" width="35"/> <a href="turpentine.html">Turpentine</a> • <img alt="Basic Egg" height="35" src="img/Basic_Egg.png" width="35"/> <a href="egg.html">Eggs</a> • <img alt="Royal Jelly" height="35" src="img/Royal_Jelly.png" width="35"/> <a href="royal-jelly.html">Royal Jelly</a> • <img alt="Star Jelly" height="35" src="img/Star_Jelly.png" width="35"/> <a href="royal-jelly.html#Star_Jelly">Star Jelly</a></b> • <img alt="Bloom Shaker" height="35" src="img/Bloom_Shaker.png" width="35"/> <a href="bloom-shaker.html">Bloom Shaker</a><b></b>
 </td></tr>
 <tr>
 <th class="NavCategory">Crafting Materials

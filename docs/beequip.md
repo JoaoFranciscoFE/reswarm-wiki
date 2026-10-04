@@ -43,7 +43,7 @@ Permanent beequips can be stored in the 'Permanents' section of the Beequip Stor
 <caption>Extra storage slots
 </caption>
 <tbody><tr>
-<th><span typeof="mw:Error mw:File"></span><a href="ticket.html"><span class="color-template color-template-ticket color-template-background-clip">Tickets</span></a>
+<th><img alt="Ticket" height="35" src="img/Ticket.png" width="35"/><a href="ticket.html"><span class="color-template color-template-ticket color-template-background-clip">Tickets</span></a>
 </th>
 <th>Total storage
 </th></tr>
@@ -138,7 +138,7 @@ Permanent beequips can be stored in the 'Permanents' section of the Beequip Stor
 <td>100
 </td></tr>
 <tr>
-<th colspan="2">Total: <span typeof="mw:Error mw:File"></span>123,500 <a href="ticket.html"><span class="color-template color-template-ticket color-template-background-clip">Tickets</span></a>
+<th colspan="2">Total: <img alt="Ticket" height="25" src="img/Ticket.png" width="25"/>123,500 <a href="ticket.html"><span class="color-template color-template-ticket color-template-background-clip">Tickets</span></a>
 </th></tr></tbody></table>
 
 ## Generation
@@ -184,22 +184,22 @@ The amount of wax points a wax can give is given by the below table:
 <th>Wax points
 </th></tr>
 <tr>
-<td><span typeof="mw:Error mw:File"></span><a href="soft-wax.html"><span class="color-template color-template-soft-wax">Soft Wax</span></a>
+<td><img alt="Soft Wax" height="35" src="img/Soft_Wax.png" width="35"/><a href="soft-wax.html"><span class="color-template color-template-soft-wax">Soft Wax</span></a>
 </td>
 <td>1
 </td></tr>
 <tr>
-<td><span typeof="mw:Error mw:File"></span><a href="hard-wax.html"><span class="color-template color-template-hard-wax">Hard Wax</span></a>
+<td><img alt="Hard Wax" height="35" src="img/Hard_Wax.png" width="35"/><a href="hard-wax.html"><span class="color-template color-template-hard-wax">Hard Wax</span></a>
 </td>
 <td>2
 </td></tr>
 <tr>
-<td><span typeof="mw:Error mw:File"></span><a href="caustic-wax.html"><span class="color-template color-template-caustic-wax">Caustic Wax</span></a> / <span typeof="mw:Error mw:File"></span><a href="debug-wax.html"><span class="color-template color-template-debug-wax">Debug Wax</span></a>
+<td><img alt="Caustic Wax" height="35" src="img/Caustic_Wax.png" width="35"/><a href="caustic-wax.html"><span class="color-template color-template-caustic-wax">Caustic Wax</span></a> / <img alt="Debug Wax" height="35" src="img/Debug_Wax.png" width="35"/><a href="debug-wax.html"><span class="color-template color-template-debug-wax">Debug Wax</span></a>
 </td>
 <td>4
 </td></tr>
 <tr>
-<td><span typeof="mw:Error mw:File"></span><a href="swirled-wax.html"><span class="color-template color-template-swirled-wax color-template-background-clip">Swirled Wax</span></a>
+<td><img alt="Swirled Wax" height="35" src="img/Swirled_Wax.png" width="35"/><a href="swirled-wax.html"><span class="color-template color-template-swirled-wax color-template-background-clip">Swirled Wax</span></a>
 </td>
 <td>0
 </td></tr></tbody></table>

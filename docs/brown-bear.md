@@ -2046,7 +2046,7 @@ The amount of [Royal Jellies](royal-jelly.md) rewarded can be found using the be
 <tbody><tr>
 <th>Number of quests completed
 </th>
-<th><span typeof="mw:Error mw:File"></span><a href="royal-jelly.html"><span class="color-template color-template-royal-jelly color-template-background-clip">Royal Jelly</span></a> amount
+<th><img alt="Royal Jelly" height="35" src="img/Royal_Jelly.png" width="35"/><a href="royal-jelly.html"><span class="color-template color-template-royal-jelly color-template-background-clip">Royal Jelly</span></a> amount
 </th></tr>
 <tr>
 <td>0-5</td>
@@ -2196,122 +2196,122 @@ Every known milestone is listed below. Bolded quest numbers are special mileston
 <tr>
 <td>5
 </td>
-<td><span typeof="mw:Error mw:File"></span>3 <a href="field-dice.html"><span class="color-template color-template-field-dice color-template-background-clip">Field Dice</span></a>
+<td><img alt="Field Dice" height="25" src="img/Field_Dice.png" width="25"/>3 <a href="field-dice.html"><span class="color-template color-template-field-dice color-template-background-clip">Field Dice</span></a>
 </td></tr>
 <tr>
 <td>10
 </td>
-<td><span typeof="mw:Error mw:File"></span>5 <a href="micro-converter.html"><span class="color-template color-template-micro-converter color-template-background-clip">Micro-Converters</span></a>
+<td><img alt="Micro-Converter" height="25" src="img/Micro-Converter.png" width="25"/>5 <a href="micro-converter.html"><span class="color-template color-template-micro-converter color-template-background-clip">Micro-Converters</span></a>
 </td></tr>
 <tr>
 <td>15
 </td>
-<td><span typeof="mw:Error mw:File"></span>5 <a href="field-dice.html"><span class="color-template color-template-field-dice color-template-background-clip">Field Dice</span></a>
+<td><img alt="Field Dice" height="25" src="img/Field_Dice.png" width="25"/>5 <a href="field-dice.html"><span class="color-template color-template-field-dice color-template-background-clip">Field Dice</span></a>
 </td></tr>
 <tr>
 <td>20
 </td>
-<td><span typeof="mw:Error mw:File"></span>25 <a href="bitterberry.html"><span class="color-template color-template-bitterberry color-template-background-clip">Bitterberries</span></a>
+<td><img alt="Bitterberry" height="25" src="img/Bitterberry.png" width="25"/>25 <a href="bitterberry.html"><span class="color-template color-template-bitterberry color-template-background-clip">Bitterberries</span></a>
 </td></tr>
 <tr>
 <td><b>25</b>
 </td>
-<td><span typeof="mw:Error mw:File"></span>1 <a href="egg.html#Silver_Egg"><span class="color-template color-template-silver-egg color-template-background-clip">Silver Egg</span></a>
+<td><img alt="Silver Egg" height="25" src="img/Silver_Egg.png" width="25"/>1 <a href="egg.html#Silver_Egg"><span class="color-template color-template-silver-egg color-template-background-clip">Silver Egg</span></a>
 </td></tr>
 <tr>
 <td>30
 </td>
-<td><span typeof="mw:Error mw:File"></span>5 <a href="micro-converter.html"><span class="color-template color-template-micro-converter color-template-background-clip">Micro-Converters</span></a>
+<td><img alt="Micro-Converter" height="25" src="img/Micro-Converter.png" width="25"/>5 <a href="micro-converter.html"><span class="color-template color-template-micro-converter color-template-background-clip">Micro-Converters</span></a>
 </td></tr>
 <tr>
 <td>35
 </td>
-<td><span typeof="mw:Error mw:File"></span>1 <a href="oil.html"><span class="color-template color-template-oil color-template-background-clip">Oil</span></a>
+<td><img alt="Oil" height="25" src="img/Oil.png" width="25"/>1 <a href="oil.html"><span class="color-template color-template-oil color-template-background-clip">Oil</span></a>
 </td></tr>
 <tr>
 <td>40
 </td>
-<td><span typeof="mw:Error mw:File"></span>50 <a href="bitterberry.html"><span class="color-template color-template-bitterberry color-template-background-clip">Bitterberries</span></a>
+<td><img alt="Bitterberry" height="25" src="img/Bitterberry.png" width="25"/>50 <a href="bitterberry.html"><span class="color-template color-template-bitterberry color-template-background-clip">Bitterberries</span></a>
 </td></tr>
 <tr>
 <td>45
 </td>
-<td><span typeof="mw:Error mw:File"></span>1 <a href="enzymes.html"><span class="color-template color-template-enzymes color-template-background-clip">Enzymes</span></a>
+<td><img alt="Enzymes" height="25" src="img/Enzymes.png" width="25"/>1 <a href="enzymes.html"><span class="color-template color-template-enzymes color-template-background-clip">Enzymes</span></a>
 </td></tr>
 <tr>
 <td><b>50</b>
 </td>
-<td><span typeof="mw:Error mw:File"></span>1 <a href="egg.html#Gold_Egg"><span class="color-template color-template-gold-egg color-template-background-clip">Gold Egg</span></a>
+<td><img alt="Gold Egg" height="25" src="img/Gold_Egg.png" width="25"/>1 <a href="egg.html#Gold_Egg"><span class="color-template color-template-gold-egg color-template-background-clip">Gold Egg</span></a>
 </td></tr>
 <tr>
 <td>55
 </td>
-<td><span typeof="mw:Error mw:File"></span>1 <a href="magic-bean.html"><span class="color-template color-template-magic-bean color-template-background-clip">Magic Bean</span></a>
+<td><img alt="Magic Bean" height="25" src="img/Magic_Bean.png" width="25"/>1 <a href="magic-bean.html"><span class="color-template color-template-magic-bean color-template-background-clip">Magic Bean</span></a>
 </td></tr>
 <tr>
 <td>60
 </td>
-<td><span typeof="mw:Error mw:File"></span>50 <a href="bitterberry.html"><span class="color-template color-template-bitterberry color-template-background-clip">Bitterberries</span></a>
+<td><img alt="Bitterberry" height="25" src="img/Bitterberry.png" width="25"/>50 <a href="bitterberry.html"><span class="color-template color-template-bitterberry color-template-background-clip">Bitterberries</span></a>
 </td></tr>
 <tr>
 <td>65
 </td>
-<td><span typeof="mw:Error mw:File"></span>5 <a href="field-dice.html"><span class="color-template color-template-field-dice color-template-background-clip">Field Dice</span></a>
+<td><img alt="Field Dice" height="25" src="img/Field_Dice.png" width="25"/>5 <a href="field-dice.html"><span class="color-template color-template-field-dice color-template-background-clip">Field Dice</span></a>
 </td></tr>
 <tr>
 <td>70
 </td>
-<td><span typeof="mw:Error mw:File"></span>5 <a href="micro-converter.html"><span class="color-template color-template-micro-converter color-template-background-clip">Micro-Converters</span></a>
+<td><img alt="Micro-Converter" height="25" src="img/Micro-Converter.png" width="25"/>5 <a href="micro-converter.html"><span class="color-template color-template-micro-converter color-template-background-clip">Micro-Converters</span></a>
 </td></tr>
 <tr>
 <td><b>75</b>
 </td>
-<td><span typeof="mw:Error mw:File"></span>1 <a href="egg.html#Diamond_Egg"><span class="color-template color-template-diamond-egg color-template-background-clip">Diamond Egg</span></a>
+<td><img alt="Diamond Egg" height="25" src="img/Diamond_Egg.png" width="25"/>1 <a href="egg.html#Diamond_Egg"><span class="color-template color-template-diamond-egg color-template-background-clip">Diamond Egg</span></a>
 </td></tr>
 <tr>
 <td>80
 </td>
-<td><span typeof="mw:Error mw:File"></span>10 <a href="micro-converter.html"><span class="color-template color-template-micro-converter color-template-background-clip">Micro-Converters</span></a>
+<td><img alt="Micro-Converter" height="25" src="img/Micro-Converter.png" width="25"/>10 <a href="micro-converter.html"><span class="color-template color-template-micro-converter color-template-background-clip">Micro-Converters</span></a>
 </td></tr>
 <tr>
 <td>85
 </td>
-<td><span typeof="mw:Error mw:File"></span>1 <a href="tropical-drink.html"><span class="color-template color-template-tropical-drink color-template-background-clip">Tropical Drink</span></a>
+<td><img alt="Tropical Drink" height="25" src="img/Tropical_Drink.png" width="25"/>1 <a href="tropical-drink.html"><span class="color-template color-template-tropical-drink color-template-background-clip">Tropical Drink</span></a>
 </td></tr>
 <tr>
 <td>90
 </td>
-<td><span typeof="mw:Error mw:File"></span>1 <a href="royal-jelly.html#Star_Jelly"><span class="color-template color-template-star-jelly color-template-background-clip">Star Jelly</span></a>
+<td><img alt="Star Jelly" height="25" src="img/Star_Jelly.png" width="25"/>1 <a href="royal-jelly.html#Star_Jelly"><span class="color-template color-template-star-jelly color-template-background-clip">Star Jelly</span></a>
 </td></tr>
 <tr>
 <td>95
 </td>
-<td><span typeof="mw:Error mw:File"></span>100 <a href="gumdrops.html"><span class="color-template color-template-gumdrops color-template-background-clip">Gumdrops</span></a>
+<td><img alt="Gumdrops" height="25" src="img/Gumdrops.png" width="25"/>100 <a href="gumdrops.html"><span class="color-template color-template-gumdrops color-template-background-clip">Gumdrops</span></a>
 </td></tr>
 <tr>
 <td><b>100</b>
 </td>
-<td><span typeof="mw:Error mw:File"></span>1 <a href="egg.html#Mythic_Egg"><span class="color-template color-template-mythic-egg color-template-background-clip">Mythic Egg</span></a>
+<td><img alt="Mythic Egg" height="25" src="img/Mythic_Egg.png" width="25"/>1 <a href="egg.html#Mythic_Egg"><span class="color-template color-template-mythic-egg color-template-background-clip">Mythic Egg</span></a>
 </td></tr>
 <tr>
 <td>105
 </td>
-<td><span typeof="mw:Error mw:File"></span>1 <a href="oil.html"><span class="color-template color-template-oil color-template-background-clip">Oil</span></a>
+<td><img alt="Oil" height="25" src="img/Oil.png" width="25"/>1 <a href="oil.html"><span class="color-template color-template-oil color-template-background-clip">Oil</span></a>
 </td></tr>
 <tr>
 <td>111
 </td>
-<td><span typeof="mw:Error mw:File"></span>5 <a href="box-o-frogs.html"><span class="color-template color-template-box-o-frogs color-template-background-clip">Boxes-O-Frogs</span></a>
+<td><img alt="Box-O-Frogs" height="25" src="img/Box-O-Frogs.png" width="25"/>5 <a href="box-o-frogs.html"><span class="color-template color-template-box-o-frogs color-template-background-clip">Boxes-O-Frogs</span></a>
 </td></tr>
 <tr>
 <td>115
 </td>
-<td><span typeof="mw:Error mw:File"></span>1 <a href="enzymes.html"><span class="color-template color-template-enzymes color-template-background-clip">Enzymes</span></a>
+<td><img alt="Enzymes" height="25" src="img/Enzymes.png" width="25"/>1 <a href="enzymes.html"><span class="color-template color-template-enzymes color-template-background-clip">Enzymes</span></a>
 </td></tr>
 <tr>
 <td>120
 </td>
-<td><span typeof="mw:Error mw:File"></span>1 <a href="magic-bean.html"><span class="color-template color-template-magic-bean color-template-background-clip">Magic Bean</span></a>
+<td><img alt="Magic Bean" height="25" src="img/Magic_Bean.png" width="25"/>1 <a href="magic-bean.html"><span class="color-template color-template-magic-bean color-template-background-clip">Magic Bean</span></a>
 </td></tr>
 <tr>
 <td>123
@@ -2321,177 +2321,177 @@ Every known milestone is listed below. Bolded quest numbers are special mileston
 <tr>
 <td>125
 </td>
-<td><span typeof="mw:Error mw:File"></span>1 <a href="atomic-treat.html"><span class="color-template color-template-atomic-treat color-template-background-clip">Atomic Treat</span></a>
+<td><img alt="Atomic Treat" height="25" src="img/Atomic_Treat.png" width="25"/>1 <a href="atomic-treat.html"><span class="color-template color-template-atomic-treat color-template-background-clip">Atomic Treat</span></a>
 </td></tr>
 <tr>
 <td>130
 </td>
-<td><span typeof="mw:Error mw:File"></span>1 <a href="enzymes.html"><span class="color-template color-template-enzymes color-template-background-clip">Enzymes</span></a>
+<td><img alt="Enzymes" height="25" src="img/Enzymes.png" width="25"/>1 <a href="enzymes.html"><span class="color-template color-template-enzymes color-template-background-clip">Enzymes</span></a>
 </td></tr>
 <tr>
 <td>135
 </td>
-<td><span typeof="mw:Error mw:File"></span>50 <a href="bitterberry.html"><span class="color-template color-template-bitterberry color-template-background-clip">Bitterberries</span></a>
+<td><img alt="Bitterberry" height="25" src="img/Bitterberry.png" width="25"/>50 <a href="bitterberry.html"><span class="color-template color-template-bitterberry color-template-background-clip">Bitterberries</span></a>
 </td></tr>
 <tr>
 <td>140
 </td>
-<td><span typeof="mw:Error mw:File"></span>1 <a href="glue.html"><span class="color-template color-template-glue color-template-background-clip">Glue</span></a>
+<td><img alt="Glue" height="25" src="img/Glue.png" width="25"/>1 <a href="glue.html"><span class="color-template color-template-glue color-template-background-clip">Glue</span></a>
 </td></tr>
 <tr>
 <td>145
 </td>
-<td><span typeof="mw:Error mw:File"></span>5 <a href="field-dice.html"><span class="color-template color-template-field-dice color-template-background-clip">Field Dice</span></a>
+<td><img alt="Field Dice" height="25" src="img/Field_Dice.png" width="25"/>5 <a href="field-dice.html"><span class="color-template color-template-field-dice color-template-background-clip">Field Dice</span></a>
 </td></tr>
 <tr>
 <td><b>150</b>
 </td>
-<td><span typeof="mw:Error mw:File"></span>100 <a href="ticket.html"><span class="color-template color-template-ticket color-template-background-clip">Tickets</span></a>
+<td><img alt="Ticket" height="25" src="img/Ticket.png" width="25"/>100 <a href="ticket.html"><span class="color-template color-template-ticket color-template-background-clip">Tickets</span></a>
 </td></tr>
 <tr>
 <td>155
 </td>
-<td><span typeof="mw:Error mw:File"></span>5 <a href="micro-converter.html"><span class="color-template color-template-micro-converter color-template-background-clip">Micro-Converters</span></a>
+<td><img alt="Micro-Converter" height="25" src="img/Micro-Converter.png" width="25"/>5 <a href="micro-converter.html"><span class="color-template color-template-micro-converter color-template-background-clip">Micro-Converters</span></a>
 </td></tr>
 <tr>
 <td>160
 </td>
-<td><span typeof="mw:Error mw:File"></span>3 <a href="oil.html"><span class="color-template color-template-oil color-template-background-clip">Oils</span></a>
+<td><img alt="Oil" height="25" src="img/Oil.png" width="25"/>3 <a href="oil.html"><span class="color-template color-template-oil color-template-background-clip">Oils</span></a>
 </td></tr>
 <tr>
 <td>165
 </td>
-<td><span typeof="mw:Error mw:File"></span>1 <a href="enzymes.html"><span class="color-template color-template-enzymes color-template-background-clip">Enzymes</span></a>
+<td><img alt="Enzymes" height="25" src="img/Enzymes.png" width="25"/>1 <a href="enzymes.html"><span class="color-template color-template-enzymes color-template-background-clip">Enzymes</span></a>
 </td></tr>
 <tr>
 <td>170
 </td>
-<td><span typeof="mw:Error mw:File"></span>5 <a href="micro-converter.html"><span class="color-template color-template-micro-converter color-template-background-clip">Micro-Converters</span></a>
+<td><img alt="Micro-Converter" height="25" src="img/Micro-Converter.png" width="25"/>5 <a href="micro-converter.html"><span class="color-template color-template-micro-converter color-template-background-clip">Micro-Converters</span></a>
 </td></tr>
 <tr>
 <td>175
 </td>
-<td><span typeof="mw:Error mw:File"></span>100 <a href="gumdrops.html"><span class="color-template color-template-gumdrops color-template-background-clip">Gumdrops</span></a>
+<td><img alt="Gumdrops" height="25" src="img/Gumdrops.png" width="25"/>100 <a href="gumdrops.html"><span class="color-template color-template-gumdrops color-template-background-clip">Gumdrops</span></a>
 </td></tr>
 <tr>
 <td>180
 </td>
-<td><span typeof="mw:Error mw:File"></span>50 <a href="bitterberry.html"><span class="color-template color-template-bitterberry color-template-background-clip">Bitterberries</span></a>
+<td><img alt="Bitterberry" height="25" src="img/Bitterberry.png" width="25"/>50 <a href="bitterberry.html"><span class="color-template color-template-bitterberry color-template-background-clip">Bitterberries</span></a>
 </td></tr>
 <tr>
 <td>185
 </td>
-<td><span typeof="mw:Error mw:File"></span>1 <a href="oil.html"><span class="color-template color-template-oil color-template-background-clip">Oil</span></a>
+<td><img alt="Oil" height="25" src="img/Oil.png" width="25"/>1 <a href="oil.html"><span class="color-template color-template-oil color-template-background-clip">Oil</span></a>
 </td></tr>
 <tr>
 <td>190
 </td>
-<td><span typeof="mw:Error mw:File"></span>1 <a href="magic-bean.html"><span class="color-template color-template-magic-bean color-template-background-clip">Magic Bean</span></a>
+<td><img alt="Magic Bean" height="25" src="img/Magic_Bean.png" width="25"/>1 <a href="magic-bean.html"><span class="color-template color-template-magic-bean color-template-background-clip">Magic Bean</span></a>
 </td></tr>
 <tr>
 <td>195
 </td>
-<td><span typeof="mw:Error mw:File"></span>1 <a href="royal-jelly.html#Star_Jelly"><span class="color-template color-template-star-jelly color-template-background-clip">Star Jelly</span></a>
+<td><img alt="Star Jelly" height="25" src="img/Star_Jelly.png" width="25"/>1 <a href="royal-jelly.html#Star_Jelly"><span class="color-template color-template-star-jelly color-template-background-clip">Star Jelly</span></a>
 </td></tr>
 <tr>
 <td><b>200</b>
 </td>
-<td><span typeof="mw:Error mw:File"></span>1 <a href="egg.html#Mythic_Egg"><span class="color-template color-template-mythic-egg color-template-background-clip">Mythic Egg</span></a>
+<td><img alt="Mythic Egg" height="25" src="img/Mythic_Egg.png" width="25"/>1 <a href="egg.html#Mythic_Egg"><span class="color-template color-template-mythic-egg color-template-background-clip">Mythic Egg</span></a>
 </td></tr>
 <tr>
 <td>205
 </td>
-<td><span typeof="mw:Error mw:File"></span>5 <a href="field-dice.html"><span class="color-template color-template-field-dice color-template-background-clip">Field Dice</span></a>
+<td><img alt="Field Dice" height="25" src="img/Field_Dice.png" width="25"/>5 <a href="field-dice.html"><span class="color-template color-template-field-dice color-template-background-clip">Field Dice</span></a>
 </td></tr>
 <tr>
 <td>210
 </td>
-<td><span typeof="mw:Error mw:File"></span>50 <a href="bitterberry.html"><span class="color-template color-template-bitterberry color-template-background-clip">Bitterberries</span></a>
+<td><img alt="Bitterberry" height="25" src="img/Bitterberry.png" width="25"/>50 <a href="bitterberry.html"><span class="color-template color-template-bitterberry color-template-background-clip">Bitterberries</span></a>
 </td></tr>
 <tr>
 <td>215
 </td>
-<td><span typeof="mw:Error mw:File"></span>5 <a href="micro-converter.html"><span class="color-template color-template-micro-converter color-template-background-clip">Micro-Converters</span></a>
+<td><img alt="Micro-Converter" height="25" src="img/Micro-Converter.png" width="25"/>5 <a href="micro-converter.html"><span class="color-template color-template-micro-converter color-template-background-clip">Micro-Converters</span></a>
 </td></tr>
 <tr>
 <td>220
 </td>
-<td><span typeof="mw:Error mw:File"></span>1 <a href="magic-bean.html"><span class="color-template color-template-magic-bean color-template-background-clip">Magic Bean</span></a>
+<td><img alt="Magic Bean" height="25" src="img/Magic_Bean.png" width="25"/>1 <a href="magic-bean.html"><span class="color-template color-template-magic-bean color-template-background-clip">Magic Bean</span></a>
 </td></tr>
 <tr>
 <td>225
 </td>
-<td><span typeof="mw:Error mw:File"></span>1 <a href="atomic-treat.html"><span class="color-template color-template-atomic-treat color-template-background-clip">Atomic Treat</span></a>
+<td><img alt="Atomic Treat" height="25" src="img/Atomic_Treat.png" width="25"/>1 <a href="atomic-treat.html"><span class="color-template color-template-atomic-treat color-template-background-clip">Atomic Treat</span></a>
 </td></tr>
 <tr>
 <td>230
 </td>
-<td><span typeof="mw:Error mw:File"></span>3 <a href="enzymes.html"><span class="color-template color-template-enzymes color-template-background-clip">Enzymes</span></a>
+<td><img alt="Enzymes" height="25" src="img/Enzymes.png" width="25"/>3 <a href="enzymes.html"><span class="color-template color-template-enzymes color-template-background-clip">Enzymes</span></a>
 </td></tr>
 <tr>
 <td>235
 </td>
-<td><span typeof="mw:Error mw:File"></span>1 <a href="glue.html"><span class="color-template color-template-glue color-template-background-clip">Glue</span></a>
+<td><img alt="Glue" height="25" src="img/Glue.png" width="25"/>1 <a href="glue.html"><span class="color-template color-template-glue color-template-background-clip">Glue</span></a>
 </td></tr>
 <tr>
 <td>240
 </td>
-<td><span typeof="mw:Error mw:File"></span>100 <a href="gumdrops.html"><span class="color-template color-template-gumdrops color-template-background-clip">Gumdrops</span></a>
+<td><img alt="Gumdrops" height="25" src="img/Gumdrops.png" width="25"/>100 <a href="gumdrops.html"><span class="color-template color-template-gumdrops color-template-background-clip">Gumdrops</span></a>
 </td></tr>
 <tr>
 <td>245
 </td>
-<td><span typeof="mw:Error mw:File"></span>50 <a href="bitterberry.html"><span class="color-template color-template-bitterberry color-template-background-clip">Bitterberries</span></a>
+<td><img alt="Bitterberry" height="25" src="img/Bitterberry.png" width="25"/>50 <a href="bitterberry.html"><span class="color-template color-template-bitterberry color-template-background-clip">Bitterberries</span></a>
 </td></tr>
 <tr>
 <td><b>250</b>
 </td>
-<td><span typeof="mw:Error mw:File"></span>250 <a href="ticket.html"><span class="color-template color-template-ticket color-template-background-clip">Tickets</span></a>
+<td><img alt="Ticket" height="25" src="img/Ticket.png" width="25"/>250 <a href="ticket.html"><span class="color-template color-template-ticket color-template-background-clip">Tickets</span></a>
 </td></tr>
 <tr>
 <td>255
 </td>
-<td><span typeof="mw:Error mw:File"></span>3 <a href="oil.html"><span class="color-template color-template-oil color-template-background-clip">Oils</span></a>
+<td><img alt="Oil" height="25" src="img/Oil.png" width="25"/>3 <a href="oil.html"><span class="color-template color-template-oil color-template-background-clip">Oils</span></a>
 </td></tr>
 <tr>
 <td>260
 </td>
-<td><span typeof="mw:Error mw:File"></span>5 <a href="box-o-frogs.html"><span class="color-template color-template-box-o-frogs color-template-background-clip">Boxes-O-Frogs</span></a>
+<td><img alt="Box-O-Frogs" height="25" src="img/Box-O-Frogs.png" width="25"/>5 <a href="box-o-frogs.html"><span class="color-template color-template-box-o-frogs color-template-background-clip">Boxes-O-Frogs</span></a>
 </td></tr>
 <tr>
 <td>265
 </td>
-<td><span typeof="mw:Error mw:File"></span>5 <a href="field-dice.html"><span class="color-template color-template-field-dice color-template-background-clip">Field Dice</span></a>
+<td><img alt="Field Dice" height="25" src="img/Field_Dice.png" width="25"/>5 <a href="field-dice.html"><span class="color-template color-template-field-dice color-template-background-clip">Field Dice</span></a>
 </td></tr>
 <tr>
 <td>270
 </td>
-<td><span typeof="mw:Error mw:File"></span>5 <a href="micro-converter.html"><span class="color-template color-template-micro-converter color-template-background-clip">Micro-Converters</span></a>
+<td><img alt="Micro-Converter" height="25" src="img/Micro-Converter.png" width="25"/>5 <a href="micro-converter.html"><span class="color-template color-template-micro-converter color-template-background-clip">Micro-Converters</span></a>
 </td></tr>
 <tr>
 <td><b>275</b>
 </td>
-<td><span typeof="mw:Error mw:File"></span>1 <a href="egg.html#Gifted_Gold_Egg"><span class="color-template color-template-gifted-gold-egg color-template-background-clip">Gifted Gold Egg</span></a>
+<td><img alt="Gifted Gold Egg" height="25" src="img/Gifted_Gold_Egg.png" width="25"/>1 <a href="egg.html#Gifted_Gold_Egg"><span class="color-template color-template-gifted-gold-egg color-template-background-clip">Gifted Gold Egg</span></a>
 </td></tr>
 <tr>
 <td>280
 </td>
-<td><span typeof="mw:Error mw:File"></span>1 <a href="magic-bean.html"><span class="color-template color-template-magic-bean color-template-background-clip">Magic Bean</span></a>
+<td><img alt="Magic Bean" height="25" src="img/Magic_Bean.png" width="25"/>1 <a href="magic-bean.html"><span class="color-template color-template-magic-bean color-template-background-clip">Magic Bean</span></a>
 </td></tr>
 <tr>
 <td>285
 </td>
-<td><span typeof="mw:Error mw:File"></span>3 <a href="oil.html"><span class="color-template color-template-oil color-template-background-clip">Oils</span></a>
+<td><img alt="Oil" height="25" src="img/Oil.png" width="25"/>3 <a href="oil.html"><span class="color-template color-template-oil color-template-background-clip">Oils</span></a>
 </td></tr>
 <tr>
 <td>290
 </td>
-<td><span typeof="mw:Error mw:File"></span>100 <a href="gumdrops.html"><span class="color-template color-template-gumdrops color-template-background-clip">Gumdrops</span></a>
+<td><img alt="Gumdrops" height="25" src="img/Gumdrops.png" width="25"/>100 <a href="gumdrops.html"><span class="color-template color-template-gumdrops color-template-background-clip">Gumdrops</span></a>
 </td></tr>
 <tr>
 <td>295
 </td>
-<td><span typeof="mw:Error mw:File"></span>50 <a href="bitterberry.html"><span class="color-template color-template-bitterberry color-template-background-clip">Bitterberries</span></a>
+<td><img alt="Bitterberry" height="25" src="img/Bitterberry.png" width="25"/>50 <a href="bitterberry.html"><span class="color-template color-template-bitterberry color-template-background-clip">Bitterberries</span></a>
 </td></tr>
 <tr>
 <td><b>300</b>
@@ -2501,337 +2501,337 @@ Every known milestone is listed below. Bolded quest numbers are special mileston
 <tr>
 <td>305
 </td>
-<td><span typeof="mw:Error mw:File"></span>3 <a href="enzymes.html"><span class="color-template color-template-enzymes color-template-background-clip">Enzymes</span></a>
+<td><img alt="Enzymes" height="25" src="img/Enzymes.png" width="25"/>3 <a href="enzymes.html"><span class="color-template color-template-enzymes color-template-background-clip">Enzymes</span></a>
 </td></tr>
 <tr>
 <td>310
 </td>
-<td><span typeof="mw:Error mw:File"></span>3 <a href="glue.html"><span class="color-template color-template-glue color-template-background-clip">Glues</span></a>
+<td><img alt="Glue" height="25" src="img/Glue.png" width="25"/>3 <a href="glue.html"><span class="color-template color-template-glue color-template-background-clip">Glues</span></a>
 </td></tr>
 <tr>
 <td>315
 </td>
-<td><span typeof="mw:Error mw:File"></span>3 <a href="royal-jelly.html#Star_Jelly"><span class="color-template color-template-star-jelly color-template-background-clip">Star Jellies</span></a>
+<td><img alt="Star Jelly" height="25" src="img/Star_Jelly.png" width="25"/>3 <a href="royal-jelly.html#Star_Jelly"><span class="color-template color-template-star-jelly color-template-background-clip">Star Jellies</span></a>
 </td></tr>
 <tr>
 <td>320
 </td>
-<td><span typeof="mw:Error mw:File"></span>5 <a href="field-dice.html"><span class="color-template color-template-field-dice color-template-background-clip">Field Dice</span></a>
+<td><img alt="Field Dice" height="25" src="img/Field_Dice.png" width="25"/>5 <a href="field-dice.html"><span class="color-template color-template-field-dice color-template-background-clip">Field Dice</span></a>
 </td></tr>
 <tr>
 <td>325
 </td>
-<td><span typeof="mw:Error mw:File"></span>10 <a href="micro-converter.html"><span class="color-template color-template-micro-converter color-template-background-clip">Micro-Converters</span></a>
+<td><img alt="Micro-Converter" height="25" src="img/Micro-Converter.png" width="25"/>10 <a href="micro-converter.html"><span class="color-template color-template-micro-converter color-template-background-clip">Micro-Converters</span></a>
 </td></tr>
 <tr>
 <td>330
 </td>
-<td><span typeof="mw:Error mw:File"></span>75 <a href="bitterberry.html"><span class="color-template color-template-bitterberry color-template-background-clip">Bitterberries</span></a>
+<td><img alt="Bitterberry" height="25" src="img/Bitterberry.png" width="25"/>75 <a href="bitterberry.html"><span class="color-template color-template-bitterberry color-template-background-clip">Bitterberries</span></a>
 </td></tr>
 <tr>
 <td>333
 </td>
-<td><span typeof="mw:Error mw:File"></span>3 <a href="box-o-frogs.html"><span class="color-template color-template-box-o-frogs color-template-background-clip">Boxes-O-Frogs</span></a>
+<td><img alt="Box-O-Frogs" height="25" src="img/Box-O-Frogs.png" width="25"/>3 <a href="box-o-frogs.html"><span class="color-template color-template-box-o-frogs color-template-background-clip">Boxes-O-Frogs</span></a>
 </td></tr>
 <tr>
 <td>335
 </td>
-<td><span typeof="mw:Error mw:File"></span>150 <a href="gumdrops.html"><span class="color-template color-template-gumdrops color-template-background-clip">Gumdrops</span></a>
+<td><img alt="Gumdrops" height="25" src="img/Gumdrops.png" width="25"/>150 <a href="gumdrops.html"><span class="color-template color-template-gumdrops color-template-background-clip">Gumdrops</span></a>
 </td></tr>
 <tr>
 <td>340
 </td>
-<td><span typeof="mw:Error mw:File"></span>1 <a href="egg.html#Gold_Egg"><span class="color-template color-template-gold-egg color-template-background-clip">Gold Egg</span></a>
+<td><img alt="Gold Egg" height="25" src="img/Gold_Egg.png" width="25"/>1 <a href="egg.html#Gold_Egg"><span class="color-template color-template-gold-egg color-template-background-clip">Gold Egg</span></a>
 </td></tr>
 <tr>
 <td>345
 </td>
-<td><span typeof="mw:Error mw:File"></span>3 <a href="magic-bean.html"><span class="color-template color-template-magic-bean color-template-background-clip">Magic Beans</span></a>
+<td><img alt="Magic Bean" height="25" src="img/Magic_Bean.png" width="25"/>3 <a href="magic-bean.html"><span class="color-template color-template-magic-bean color-template-background-clip">Magic Beans</span></a>
 </td></tr>
 <tr>
 <td><b>350</b>
 </td>
-<td><span typeof="mw:Error mw:File"></span>250 <a href="ticket.html"><span class="color-template color-template-ticket color-template-background-clip">Tickets</span></a>
+<td><img alt="Ticket" height="25" src="img/Ticket.png" width="25"/>250 <a href="ticket.html"><span class="color-template color-template-ticket color-template-background-clip">Tickets</span></a>
 </td></tr>
 <tr>
 <td>355
 </td>
-<td><span typeof="mw:Error mw:File"></span>5 <a href="enzymes.html"><span class="color-template color-template-enzymes color-template-background-clip">Enzymes</span></a>
+<td><img alt="Enzymes" height="25" src="img/Enzymes.png" width="25"/>5 <a href="enzymes.html"><span class="color-template color-template-enzymes color-template-background-clip">Enzymes</span></a>
 </td></tr>
 <tr>
 <td>360
 </td>
-<td><span typeof="mw:Error mw:File"></span>5 <a href="oil.html"><span class="color-template color-template-oil color-template-background-clip">Oils</span></a>
+<td><img alt="Oil" height="25" src="img/Oil.png" width="25"/>5 <a href="oil.html"><span class="color-template color-template-oil color-template-background-clip">Oils</span></a>
 </td></tr>
 <tr>
 <td>365
 </td>
-<td><span typeof="mw:Error mw:File"></span>5 <a href="field-dice.html"><span class="color-template color-template-field-dice color-template-background-clip">Field Dice</span></a>
+<td><img alt="Field Dice" height="25" src="img/Field_Dice.png" width="25"/>5 <a href="field-dice.html"><span class="color-template color-template-field-dice color-template-background-clip">Field Dice</span></a>
 </td></tr>
 <tr>
 <td>370
 </td>
-<td><span typeof="mw:Error mw:File"></span>75 <a href="bitterberry.html"><span class="color-template color-template-bitterberry color-template-background-clip">Bitterberries</span></a>
+<td><img alt="Bitterberry" height="25" src="img/Bitterberry.png" width="25"/>75 <a href="bitterberry.html"><span class="color-template color-template-bitterberry color-template-background-clip">Bitterberries</span></a>
 </td></tr>
 <tr>
 <td>375
 </td>
-<td><span typeof="mw:Error mw:File"></span>1 <a href="atomic-treat.html"><span class="color-template color-template-atomic-treat color-template-background-clip">Atomic Treat</span></a>
+<td><img alt="Atomic Treat" height="25" src="img/Atomic_Treat.png" width="25"/>1 <a href="atomic-treat.html"><span class="color-template color-template-atomic-treat color-template-background-clip">Atomic Treat</span></a>
 </td></tr>
 <tr>
 <td>380
 </td>
-<td><span typeof="mw:Error mw:File"></span>5 <a href="micro-converter.html"><span class="color-template color-template-micro-converter color-template-background-clip">Micro-Converters</span></a>
+<td><img alt="Micro-Converter" height="25" src="img/Micro-Converter.png" width="25"/>5 <a href="micro-converter.html"><span class="color-template color-template-micro-converter color-template-background-clip">Micro-Converters</span></a>
 </td></tr>
 <tr>
 <td>385
 </td>
-<td><span typeof="mw:Error mw:File"></span>10 <a href="micro-converter.html"><span class="color-template color-template-micro-converter color-template-background-clip">Micro-Converters</span></a>
+<td><img alt="Micro-Converter" height="25" src="img/Micro-Converter.png" width="25"/>10 <a href="micro-converter.html"><span class="color-template color-template-micro-converter color-template-background-clip">Micro-Converters</span></a>
 </td></tr>
 <tr>
 <td>390
 </td>
-<td><span typeof="mw:Error mw:File"></span>1 <a href="egg.html#Gold_Egg"><span class="color-template color-template-gold-egg color-template-background-clip">Gold Egg</span></a>
+<td><img alt="Gold Egg" height="25" src="img/Gold_Egg.png" width="25"/>1 <a href="egg.html#Gold_Egg"><span class="color-template color-template-gold-egg color-template-background-clip">Gold Egg</span></a>
 </td></tr>
 <tr>
 <td>395
 </td>
-<td><span typeof="mw:Error mw:File"></span>5 <a href="glue.html"><span class="color-template color-template-glue color-template-background-clip">Glues</span></a>
+<td><img alt="Glue" height="25" src="img/Glue.png" width="25"/>5 <a href="glue.html"><span class="color-template color-template-glue color-template-background-clip">Glues</span></a>
 </td></tr>
 <tr>
 <td><b>400</b>
 </td>
-<td><span typeof="mw:Error mw:File"></span>1 <a href="egg.html#Mythic_Egg"><span class="color-template color-template-mythic-egg color-template-background-clip">Mythic Egg</span></a>
+<td><img alt="Mythic Egg" height="25" src="img/Mythic_Egg.png" width="25"/>1 <a href="egg.html#Mythic_Egg"><span class="color-template color-template-mythic-egg color-template-background-clip">Mythic Egg</span></a>
 </td></tr>
 <tr>
 <td>405
 </td>
-<td><span typeof="mw:Error mw:File"></span>50 <a href="gumdrops.html"><span class="color-template color-template-gumdrops color-template-background-clip">Gumdrops</span></a>
+<td><img alt="Gumdrops" height="25" src="img/Gumdrops.png" width="25"/>50 <a href="gumdrops.html"><span class="color-template color-template-gumdrops color-template-background-clip">Gumdrops</span></a>
 </td></tr>
 <tr>
 <td>410
 </td>
-<td><span typeof="mw:Error mw:File"></span>10 <a href="oil.html"><span class="color-template color-template-oil color-template-background-clip">Oils</span></a>
+<td><img alt="Oil" height="25" src="img/Oil.png" width="25"/>10 <a href="oil.html"><span class="color-template color-template-oil color-template-background-clip">Oils</span></a>
 </td></tr>
 <tr>
 <td>415
 </td>
-<td><span typeof="mw:Error mw:File"></span>5 <a href="field-dice.html"><span class="color-template color-template-field-dice color-template-background-clip">Field Dice</span></a>
+<td><img alt="Field Dice" height="25" src="img/Field_Dice.png" width="25"/>5 <a href="field-dice.html"><span class="color-template color-template-field-dice color-template-background-clip">Field Dice</span></a>
 </td></tr>
 <tr>
 <td>420
 </td>
-<td><span typeof="mw:Error mw:File"></span>4 <a href="neonberry.html"><span class="color-template color-template-neonberry color-template-background-clip">Neonberries</span></a>
+<td><img alt="Neonberry" height="25" src="img/Neonberry.png" width="25"/>4 <a href="neonberry.html"><span class="color-template color-template-neonberry color-template-background-clip">Neonberries</span></a>
 </td></tr>
 <tr>
 <td><b>425</b>
 </td>
-<td><span typeof="mw:Error mw:File"></span>1 <a href="egg.html#Gifted_Diamond_Egg"><span class="color-template color-template-gifted-diamond-egg color-template-background-clip">Gifted Diamond Egg</span></a>
+<td><img alt="Gifted Diamond Egg" height="25" src="img/Gifted_Diamond_Egg.png" width="25"/>1 <a href="egg.html#Gifted_Diamond_Egg"><span class="color-template color-template-gifted-diamond-egg color-template-background-clip">Gifted Diamond Egg</span></a>
 </td></tr>
 <tr>
 <td>430
 </td>
-<td><span typeof="mw:Error mw:File"></span>10 <a href="micro-converter.html"><span class="color-template color-template-micro-converter color-template-background-clip">Micro-Converters</span></a>
+<td><img alt="Micro-Converter" height="25" src="img/Micro-Converter.png" width="25"/>10 <a href="micro-converter.html"><span class="color-template color-template-micro-converter color-template-background-clip">Micro-Converters</span></a>
 </td></tr>
 <tr>
 <td>435
 </td>
-<td><span typeof="mw:Error mw:File"></span>10 <a href="enzymes.html"><span class="color-template color-template-enzymes color-template-background-clip">Enzymes</span></a>
+<td><img alt="Enzymes" height="25" src="img/Enzymes.png" width="25"/>10 <a href="enzymes.html"><span class="color-template color-template-enzymes color-template-background-clip">Enzymes</span></a>
 </td></tr>
 <tr>
 <td>440
 </td>
-<td><span typeof="mw:Error mw:File"></span>1 <a href="egg.html#Gifted_Silver_Egg"><span class="color-template color-template-gifted-silver-egg color-template-background-clip">Gifted Silver Egg</span></a>
+<td><img alt="Gifted Silver Egg" height="25" src="img/Gifted_Silver_Egg.png" width="25"/>1 <a href="egg.html#Gifted_Silver_Egg"><span class="color-template color-template-gifted-silver-egg color-template-background-clip">Gifted Silver Egg</span></a>
 </td></tr>
 <tr>
 <td>444
 </td>
-<td><span typeof="mw:Error mw:File"></span>4 <a href="box-o-frogs.html"><span class="color-template color-template-box-o-frogs color-template-background-clip">Boxes-O-Frogs</span></a>
+<td><img alt="Box-O-Frogs" height="25" src="img/Box-O-Frogs.png" width="25"/>4 <a href="box-o-frogs.html"><span class="color-template color-template-box-o-frogs color-template-background-clip">Boxes-O-Frogs</span></a>
 </td></tr>
 <tr>
 <td>445
 </td>
-<td><span typeof="mw:Error mw:File"></span>3 <a href="magic-bean.html"><span class="color-template color-template-magic-bean color-template-background-clip">Magic Beans</span></a>
+<td><img alt="Magic Bean" height="25" src="img/Magic_Bean.png" width="25"/>3 <a href="magic-bean.html"><span class="color-template color-template-magic-bean color-template-background-clip">Magic Beans</span></a>
 </td></tr>
 <tr>
 <td><b>450</b>
 </td>
-<td><span typeof="mw:Error mw:File"></span>250 <a href="ticket.html"><span class="color-template color-template-ticket color-template-background-clip">Tickets</span></a>
+<td><img alt="Ticket" height="25" src="img/Ticket.png" width="25"/>250 <a href="ticket.html"><span class="color-template color-template-ticket color-template-background-clip">Tickets</span></a>
 </td></tr>
 <tr>
 <td>455
 </td>
-<td><span typeof="mw:Error mw:File"></span>5 <a href="magic-bean.html"><span class="color-template color-template-magic-bean color-template-background-clip">Magic Beans</span></a>
+<td><img alt="Magic Bean" height="25" src="img/Magic_Bean.png" width="25"/>5 <a href="magic-bean.html"><span class="color-template color-template-magic-bean color-template-background-clip">Magic Beans</span></a>
 </td></tr>
 <tr>
 <td>460
 </td>
-<td><span typeof="mw:Error mw:File"></span>7 <a href="field-dice.html"><span class="color-template color-template-field-dice color-template-background-clip">Field Dice</span></a>
+<td><img alt="Field Dice" height="25" src="img/Field_Dice.png" width="25"/>7 <a href="field-dice.html"><span class="color-template color-template-field-dice color-template-background-clip">Field Dice</span></a>
 </td></tr>
 <tr>
 <td>465
 </td>
-<td><span typeof="mw:Error mw:File"></span>5 <a href="royal-jelly.html#Star_Jelly"><span class="color-template color-template-star-jelly color-template-background-clip">Star Jellies</span></a>
+<td><img alt="Star Jelly" height="25" src="img/Star_Jelly.png" width="25"/>5 <a href="royal-jelly.html#Star_Jelly"><span class="color-template color-template-star-jelly color-template-background-clip">Star Jellies</span></a>
 </td></tr>
 <tr>
 <td>470
 </td>
-<td><span typeof="mw:Error mw:File"></span>5 <a href="glue.html"><span class="color-template color-template-glue color-template-background-clip">Glues</span></a>
+<td><img alt="Glue" height="25" src="img/Glue.png" width="25"/>5 <a href="glue.html"><span class="color-template color-template-glue color-template-background-clip">Glues</span></a>
 </td></tr>
 <tr>
 <td>475
 </td>
-<td><span typeof="mw:Error mw:File"></span>5 <a href="box-o-frogs.html"><span class="color-template color-template-box-o-frogs color-template-background-clip">Boxes-O-Frogs</span></a>
+<td><img alt="Box-O-Frogs" height="25" src="img/Box-O-Frogs.png" width="25"/>5 <a href="box-o-frogs.html"><span class="color-template color-template-box-o-frogs color-template-background-clip">Boxes-O-Frogs</span></a>
 </td></tr>
 <tr>
 <td>480
 </td>
-<td><span typeof="mw:Error mw:File"></span>15 <a href="oil.html"><span class="color-template color-template-oil color-template-background-clip">Oils</span></a>
+<td><img alt="Oil" height="25" src="img/Oil.png" width="25"/>15 <a href="oil.html"><span class="color-template color-template-oil color-template-background-clip">Oils</span></a>
 </td></tr>
 <tr>
 <td>485
 </td>
-<td><span typeof="mw:Error mw:File"></span>75 <a href="bitterberry.html"><span class="color-template color-template-bitterberry color-template-background-clip">Bitterberries</span></a>
+<td><img alt="Bitterberry" height="25" src="img/Bitterberry.png" width="25"/>75 <a href="bitterberry.html"><span class="color-template color-template-bitterberry color-template-background-clip">Bitterberries</span></a>
 </td></tr>
 <tr>
 <td>490
 </td>
-<td><span typeof="mw:Error mw:File"></span>15 <a href="micro-converter.html"><span class="color-template color-template-micro-converter color-template-background-clip">Micro-Converters</span></a>
+<td><img alt="Micro-Converter" height="25" src="img/Micro-Converter.png" width="25"/>15 <a href="micro-converter.html"><span class="color-template color-template-micro-converter color-template-background-clip">Micro-Converters</span></a>
 </td></tr>
 <tr>
 <td>495
 </td>
-<td><span typeof="mw:Error mw:File"></span>1 <a href="egg.html#Gold_Egg"><span class="color-template color-template-gold-egg color-template-background-clip">Gold Egg</span></a>
+<td><img alt="Gold Egg" height="25" src="img/Gold_Egg.png" width="25"/>1 <a href="egg.html#Gold_Egg"><span class="color-template color-template-gold-egg color-template-background-clip">Gold Egg</span></a>
 </td></tr>
 <tr>
 <td><b>500</b>
 </td>
-<td><span typeof="mw:Error mw:File"></span>1 <a href="star-treat.html"><span class="color-template color-template-star-treat color-template-background-clip">Star Treat</span></a>
+<td><img alt="Star Treat" height="25" src="img/Star_Treat.png" width="25"/>1 <a href="star-treat.html"><span class="color-template color-template-star-treat color-template-background-clip">Star Treat</span></a>
 </td></tr>
 <tr>
 <td>505
 </td>
-<td><span typeof="mw:Error mw:File"></span>15 <a href="enzymes.html"><span class="color-template color-template-enzymes color-template-background-clip">Enzymes</span></a>
+<td><img alt="Enzymes" height="25" src="img/Enzymes.png" width="25"/>15 <a href="enzymes.html"><span class="color-template color-template-enzymes color-template-background-clip">Enzymes</span></a>
 </td></tr>
 <tr>
 <td>510
 </td>
-<td><span typeof="mw:Error mw:File"></span>5 <a href="glue.html"><span class="color-template color-template-glue color-template-background-clip">Glues</span></a>
+<td><img alt="Glue" height="25" src="img/Glue.png" width="25"/>5 <a href="glue.html"><span class="color-template color-template-glue color-template-background-clip">Glues</span></a>
 </td></tr>
 <tr>
 <td>515
 </td>
-<td><span typeof="mw:Error mw:File"></span>8 <a href="field-dice.html"><span class="color-template color-template-field-dice color-template-background-clip">Field Dice</span></a>
+<td><img alt="Field Dice" height="25" src="img/Field_Dice.png" width="25"/>8 <a href="field-dice.html"><span class="color-template color-template-field-dice color-template-background-clip">Field Dice</span></a>
 </td></tr>
 <tr>
 <td>520
 </td>
-<td><span typeof="mw:Error mw:File"></span>10 <a href="tropical-drink.html"><span class="color-template color-template-tropical-drink color-template-background-clip">Tropical Drinks</span></a>
+<td><img alt="Tropical Drink" height="25" src="img/Tropical_Drink.png" width="25"/>10 <a href="tropical-drink.html"><span class="color-template color-template-tropical-drink color-template-background-clip">Tropical Drinks</span></a>
 </td></tr>
 <tr>
 <td>525
 </td>
-<td><span typeof="mw:Error mw:File"></span>1 <a href="egg.html#Diamond_Egg"><span class="color-template color-template-diamond-egg color-template-background-clip">Diamond Egg</span></a>
+<td><img alt="Diamond Egg" height="25" src="img/Diamond_Egg.png" width="25"/>1 <a href="egg.html#Diamond_Egg"><span class="color-template color-template-diamond-egg color-template-background-clip">Diamond Egg</span></a>
 </td></tr>
 <tr>
 <td>530
 </td>
-<td><span typeof="mw:Error mw:File"></span>25 <a href="oil.html"><span class="color-template color-template-oil color-template-background-clip">Oils</span></a>
+<td><img alt="Oil" height="25" src="img/Oil.png" width="25"/>25 <a href="oil.html"><span class="color-template color-template-oil color-template-background-clip">Oils</span></a>
 </td></tr>
 <tr>
 <td>535
 </td>
-<td><span typeof="mw:Error mw:File"></span>5 <a href="magic-bean.html"><span class="color-template color-template-magic-bean color-template-background-clip">Magic Beans</span></a>
+<td><img alt="Magic Bean" height="25" src="img/Magic_Bean.png" width="25"/>5 <a href="magic-bean.html"><span class="color-template color-template-magic-bean color-template-background-clip">Magic Beans</span></a>
 </td></tr>
 <tr>
 <td>540
 </td>
-<td><span typeof="mw:Error mw:File"></span>75 <a href="bitterberry.html"><span class="color-template color-template-bitterberry color-template-background-clip">Bitterberries</span></a>
+<td><img alt="Bitterberry" height="25" src="img/Bitterberry.png" width="25"/>75 <a href="bitterberry.html"><span class="color-template color-template-bitterberry color-template-background-clip">Bitterberries</span></a>
 </td></tr>
 <tr>
 <td>545
 </td>
-<td><span typeof="mw:Error mw:File"></span>15 <a href="micro-converter.html"><span class="color-template color-template-micro-converter color-template-background-clip">Micro-Converters</span></a>
+<td><img alt="Micro-Converter" height="25" src="img/Micro-Converter.png" width="25"/>15 <a href="micro-converter.html"><span class="color-template color-template-micro-converter color-template-background-clip">Micro-Converters</span></a>
 </td></tr>
 <tr>
 <td><b>550</b>
 </td>
-<td><span typeof="mw:Error mw:File"></span>250 <a href="ticket.html"><span class="color-template color-template-ticket color-template-background-clip">Tickets</span></a>
+<td><img alt="Ticket" height="25" src="img/Ticket.png" width="25"/>250 <a href="ticket.html"><span class="color-template color-template-ticket color-template-background-clip">Tickets</span></a>
 </td></tr>
 <tr>
 <td>555
 </td>
-<td><span typeof="mw:Error mw:File"></span>5 <a href="box-o-frogs.html"><span class="color-template color-template-box-o-frogs color-template-background-clip">Boxes-O-Frogs</span></a>
+<td><img alt="Box-O-Frogs" height="25" src="img/Box-O-Frogs.png" width="25"/>5 <a href="box-o-frogs.html"><span class="color-template color-template-box-o-frogs color-template-background-clip">Boxes-O-Frogs</span></a>
 </td></tr>
 <tr>
 <td>560
 </td>
-<td><span typeof="mw:Error mw:File"></span>200 <a href="gumdrops.html"><span class="color-template color-template-gumdrops color-template-background-clip">Gumdrops</span></a>
+<td><img alt="Gumdrops" height="25" src="img/Gumdrops.png" width="25"/>200 <a href="gumdrops.html"><span class="color-template color-template-gumdrops color-template-background-clip">Gumdrops</span></a>
 </td></tr>
 <tr>
 <td>565
 </td>
-<td><span typeof="mw:Error mw:File"></span>25 <a href="enzymes.html"><span class="color-template color-template-enzymes color-template-background-clip">Enzymes</span></a>
+<td><img alt="Enzymes" height="25" src="img/Enzymes.png" width="25"/>25 <a href="enzymes.html"><span class="color-template color-template-enzymes color-template-background-clip">Enzymes</span></a>
 </td></tr>
 <tr>
 <td>570
 </td>
-<td><span typeof="mw:Error mw:File"></span>25 <a href="oil.html"><span class="color-template color-template-oil color-template-background-clip">Oils</span></a>
+<td><img alt="Oil" height="25" src="img/Oil.png" width="25"/>25 <a href="oil.html"><span class="color-template color-template-oil color-template-background-clip">Oils</span></a>
 </td></tr>
 <tr>
 <td>575
 </td>
-<td><span typeof="mw:Error mw:File"></span>7 <a href="magic-bean.html"><span class="color-template color-template-magic-bean color-template-background-clip">Magic Beans</span></a>
+<td><img alt="Magic Bean" height="25" src="img/Magic_Bean.png" width="25"/>7 <a href="magic-bean.html"><span class="color-template color-template-magic-bean color-template-background-clip">Magic Beans</span></a>
 </td></tr>
 <tr>
 <td>580
 </td>
-<td><span typeof="mw:Error mw:File"></span>10 <a href="royal-jelly.html#Star_Jelly"><span class="color-template color-template-star-jelly color-template-background-clip">Star Jellies</span></a>
+<td><img alt="Star Jelly" height="25" src="img/Star_Jelly.png" width="25"/>10 <a href="royal-jelly.html#Star_Jelly"><span class="color-template color-template-star-jelly color-template-background-clip">Star Jellies</span></a>
 </td></tr>
 <tr>
 <td>585
 </td>
-<td><span typeof="mw:Error mw:File"></span>15 <a href="tropical-drink.html"><span class="color-template color-template-tropical-drink color-template-background-clip">Tropical Drinks</span></a>
+<td><img alt="Tropical Drink" height="25" src="img/Tropical_Drink.png" width="25"/>15 <a href="tropical-drink.html"><span class="color-template color-template-tropical-drink color-template-background-clip">Tropical Drinks</span></a>
 </td></tr>
 <tr>
 <td>590
 </td>
-<td><span typeof="mw:Error mw:File"></span>100 <a href="bitterberry.html"><span class="color-template color-template-bitterberry color-template-background-clip">Bitterberries</span></a>
+<td><img alt="Bitterberry" height="25" src="img/Bitterberry.png" width="25"/>100 <a href="bitterberry.html"><span class="color-template color-template-bitterberry color-template-background-clip">Bitterberries</span></a>
 </td></tr>
 <tr>
 <td>595
 </td>
-<td><span typeof="mw:Error mw:File"></span>3 <a href="atomic-treat.html"><span class="color-template color-template-atomic-treat color-template-background-clip">Atomic Treats</span></a>
+<td><img alt="Atomic Treat" height="25" src="img/Atomic_Treat.png" width="25"/>3 <a href="atomic-treat.html"><span class="color-template color-template-atomic-treat color-template-background-clip">Atomic Treats</span></a>
 </td></tr>
 <tr>
 <td><b>600</b>
 </td>
-<td><span typeof="mw:Error mw:File"></span>1 <a href="egg.html#Mythic_Egg"><span class="color-template color-template-mythic-egg color-template-background-clip">Mythic Egg</span></a>
+<td><img alt="Mythic Egg" height="25" src="img/Mythic_Egg.png" width="25"/>1 <a href="egg.html#Mythic_Egg"><span class="color-template color-template-mythic-egg color-template-background-clip">Mythic Egg</span></a>
 </td></tr>
 <tr>
 <td><b>650</b>
 </td>
-<td><span typeof="mw:Error mw:File"></span>250 <a href="ticket.html"><span class="color-template color-template-ticket color-template-background-clip">Tickets</span></a>
+<td><img alt="Ticket" height="25" src="img/Ticket.png" width="25"/>250 <a href="ticket.html"><span class="color-template color-template-ticket color-template-background-clip">Tickets</span></a>
 </td></tr>
 <tr>
 <td><b>700</b>
 </td>
-<td><span typeof="mw:Error mw:File"></span>1 <a href="egg.html#Mythic_Egg"><span class="color-template color-template-mythic-egg color-template-background-clip">Mythic Egg</span></a>
+<td><img alt="Mythic Egg" height="25" src="img/Mythic_Egg.png" width="25"/>1 <a href="egg.html#Mythic_Egg"><span class="color-template color-template-mythic-egg color-template-background-clip">Mythic Egg</span></a>
 </td></tr>
 <tr>
 <td><b>750</b>
 </td>
-<td><span typeof="mw:Error mw:File"></span>500 <a href="ticket.html"><span class="color-template color-template-ticket color-template-background-clip">Tickets</span></a>
+<td><img alt="Ticket" height="25" src="img/Ticket.png" width="25"/>500 <a href="ticket.html"><span class="color-template color-template-ticket color-template-background-clip">Tickets</span></a>
 </td></tr>
 <tr>
 <td><b>800</b>
 </td>
-<td><span typeof="mw:Error mw:File"></span>1 <a href="egg.html#Mythic_Egg"><span class="color-template color-template-mythic-egg color-template-background-clip">Mythic Egg</span></a>
+<td><img alt="Mythic Egg" height="25" src="img/Mythic_Egg.png" width="25"/>1 <a href="egg.html#Mythic_Egg"><span class="color-template color-template-mythic-egg color-template-background-clip">Mythic Egg</span></a>
 </td></tr>
 <tr>
 <td><b>1000</b>
 </td>
-<td><span typeof="mw:Error mw:File"></span>5 <a href="star-treat.html"><span class="color-template color-template-star-treat color-template-background-clip">Star Treats</span></a>
+<td><img alt="Star Treat" height="25" src="img/Star_Treat.png" width="25"/>5 <a href="star-treat.html"><span class="color-template color-template-star-treat color-template-background-clip">Star Treats</span></a>
 </td></tr></tbody></table>
 
 ## Dialogue
@@ -2941,10 +2941,10 @@ The following content has been removed from the game. The contents below may be 
 <li>Defeat 25 <a href="rhino-beetle.html">Rhino Beetles</a></li></ul>
 </td>
 <td><span typeof="mw:Error mw:File"></span>5,000,000 <a href="honey.html"><span class="color-template color-template-honey">Honey</span></a><br/>
-<p><span typeof="mw:Error mw:File"></span>10 <a href="ticket.html"><span class="color-template color-template-ticket color-template-background-clip">Tickets</span></a><br/>
-<span typeof="mw:Error mw:File"></span>1 <a href="royal-jelly.html#Star_Jelly"><span class="color-template color-template-star-jelly color-template-background-clip">Star Jelly</span></a><br/>
-<span typeof="mw:Error mw:File"></span>1 <a href="smooth-dice.html"><span class="color-template color-template-smooth-dice color-template-background-clip">Smooth Dice</span></a><br/>
-<span typeof="mw:Error mw:File"></span>25 <a href="snowflake.html"><span class="color-template color-template-snowflake color-template-background-clip">Snowflakes</span></a><br/>
+<p><img alt="Ticket" height="25" src="img/Ticket.png" width="25"/>10 <a href="ticket.html"><span class="color-template color-template-ticket color-template-background-clip">Tickets</span></a><br/>
+<img alt="Star Jelly" height="25" src="img/Star_Jelly.png" width="25"/>1 <a href="royal-jelly.html#Star_Jelly"><span class="color-template color-template-star-jelly color-template-background-clip">Star Jelly</span></a><br/>
+<img alt="Smooth Dice" height="25" src="img/Smooth_Dice.png" width="25"/>1 <a href="smooth-dice.html"><span class="color-template color-template-smooth-dice color-template-background-clip">Smooth Dice</span></a><br/>
+<img alt="Snowflake" height="25" src="img/Snowflake.png" width="25"/>25 <a href="snowflake.html"><span class="color-template color-template-snowflake color-template-background-clip">Snowflakes</span></a><br/>
 Access to the <a href="stockings.html">Stockings</a>
 </p>
 </td></tr></tbody></table>
@@ -2989,10 +2989,10 @@ The following content has been removed from the game. The contents below may be 
 <li>Collect 3 <a href="sticker.html">Stickers</a> without <a href="trading.html">Trading</a></li></ul>
 </td>
 <td><span typeof="mw:Error mw:File"></span>4,000,000 <a href="honey.html"><span class="color-template color-template-honey">Honey</span></a><br/>
-<p><span typeof="mw:Error mw:File"></span>5 <a href="ticket.html"><span class="color-template color-template-ticket color-template-background-clip">Tickets</span></a><br/>
-<span typeof="mw:Error mw:File"></span>1 <a href="smooth-dice.html"><span class="color-template color-template-smooth-dice color-template-background-clip">Smooth Dice</span></a><br/>
-<span typeof="mw:Error mw:File"></span>1 <a href="hard-wax.html"><span class="color-template color-template-hard-wax">Hard Wax</span></a><br/>
-<span typeof="mw:Error mw:File"></span>1 <a href="gingerbread-bear.html"><span class="color-template color-template-gingerbread-bear color-template-background-clip">Gingerbread Bear</span></a>
+<p><img alt="Ticket" height="25" src="img/Ticket.png" width="25"/>5 <a href="ticket.html"><span class="color-template color-template-ticket color-template-background-clip">Tickets</span></a><br/>
+<img alt="Smooth Dice" height="25" src="img/Smooth_Dice.png" width="25"/>1 <a href="smooth-dice.html"><span class="color-template color-template-smooth-dice color-template-background-clip">Smooth Dice</span></a><br/>
+<img alt="Hard Wax" height="25" src="img/Hard_Wax.png" width="25"/>1 <a href="hard-wax.html"><span class="color-template color-template-hard-wax">Hard Wax</span></a><br/>
+<img alt="Gingerbread Bear" height="25" src="img/Gingerbread_Bear.png" width="25"/>1 <a href="gingerbread-bear.html"><span class="color-template color-template-gingerbread-bear color-template-background-clip">Gingerbread Bear</span></a>
 </p>
 </td></tr></tbody></table>
 
@@ -3436,8 +3436,8 @@ These quests had a 4-hour cooldown in between quests, as opposed to the current 
 <td>N/A</td>
 <td>N/A
 </td>
-<td><span typeof="mw:Error mw:File"></span>1 <a href="royal-jelly.html"><span class="color-template color-template-royal-jelly color-template-background-clip">Royal Jelly</span></a><br/>
-<p><span typeof="mw:Error mw:File"></span>1 <a href="ticket.html"><span class="color-template color-template-ticket color-template-background-clip">Ticket</span></a><br/>
+<td><img alt="Royal Jelly" height="25" src="img/Royal_Jelly.png" width="25"/>1 <a href="royal-jelly.html"><span class="color-template color-template-royal-jelly color-template-background-clip">Royal Jelly</span></a><br/>
+<p><img alt="Ticket" height="25" src="img/Ticket.png" width="25"/>1 <a href="ticket.html"><span class="color-template color-template-ticket color-template-background-clip">Ticket</span></a><br/>
 </p>
 </td></tr>
 <tr>
@@ -3447,10 +3447,10 @@ These quests had a 4-hour cooldown in between quests, as opposed to the current 
 <td>17,000</td>
 <td>N/A
 </td>
-<td><span typeof="mw:Error mw:File"></span>1 <a href="royal-jelly.html"><span class="color-template color-template-royal-jelly color-template-background-clip">Royal Jelly</span></a><br/>
-<p><span typeof="mw:Error mw:File"></span>1 <a href="ticket.html"><span class="color-template color-template-ticket color-template-background-clip">Ticket</span></a><br/>
+<td><img alt="Royal Jelly" height="25" src="img/Royal_Jelly.png" width="25"/>1 <a href="royal-jelly.html"><span class="color-template color-template-royal-jelly color-template-background-clip">Royal Jelly</span></a><br/>
+<p><img alt="Ticket" height="25" src="img/Ticket.png" width="25"/>1 <a href="ticket.html"><span class="color-template color-template-ticket color-template-background-clip">Ticket</span></a><br/>
 <span typeof="mw:Error mw:File"></span>10,000 <a href="honey.html"><span class="color-template color-template-honey">Honey</span></a><br/>
-<span typeof="mw:Error mw:File"></span>10 <a href="treat.html"><span class="color-template color-template-treat">Treats</span></a> (20% chance)
+<img alt="Treat" height="25" src="img/Treat.png" width="25"/>10 <a href="treat.html"><span class="color-template color-template-treat">Treats</span></a> (20% chance)
 </p>
 </td></tr>
 <tr>
@@ -3460,11 +3460,11 @@ These quests had a 4-hour cooldown in between quests, as opposed to the current 
 <td>30,000</td>
 <td>45,000
 </td>
-<td><span typeof="mw:Error mw:File"></span>1 <a href="royal-jelly.html"><span class="color-template color-template-royal-jelly color-template-background-clip">Royal Jelly</span></a><br/>
-<p><span typeof="mw:Error mw:File"></span>1 <a href="ticket.html"><span class="color-template color-template-ticket color-template-background-clip">Ticket</span></a><br/>
+<td><img alt="Royal Jelly" height="25" src="img/Royal_Jelly.png" width="25"/>1 <a href="royal-jelly.html"><span class="color-template color-template-royal-jelly color-template-background-clip">Royal Jelly</span></a><br/>
+<p><img alt="Ticket" height="25" src="img/Ticket.png" width="25"/>1 <a href="ticket.html"><span class="color-template color-template-ticket color-template-background-clip">Ticket</span></a><br/>
 <span typeof="mw:Error mw:File"></span>20,000 <a href="honey.html"><span class="color-template color-template-honey">Honey</span></a><br/>
-<span typeof="mw:Error mw:File"></span>25 <a href="treat.html"><span class="color-template color-template-treat">Treats</span></a> (20% chance)<br/>
-<span typeof="mw:Error mw:File"></span>1 <a href="magic-bean.html"><span class="color-template color-template-magic-bean color-template-background-clip">Magic Bean</span></a> (10% chance)
+<img alt="Treat" height="25" src="img/Treat.png" width="25"/>25 <a href="treat.html"><span class="color-template color-template-treat">Treats</span></a> (20% chance)<br/>
+<img alt="Magic Bean" height="25" src="img/Magic_Bean.png" width="25"/>1 <a href="magic-bean.html"><span class="color-template color-template-magic-bean color-template-background-clip">Magic Bean</span></a> (10% chance)
 </p>
 </td></tr>
 <tr>
@@ -3474,11 +3474,11 @@ These quests had a 4-hour cooldown in between quests, as opposed to the current 
 <td>200,000</td>
 <td>300,000
 </td>
-<td><span typeof="mw:Error mw:File"></span>1 <a href="royal-jelly.html"><span class="color-template color-template-royal-jelly color-template-background-clip">Royal Jelly</span></a><br/>
-<p><span typeof="mw:Error mw:File"></span>2 <a href="ticket.html"><span class="color-template color-template-ticket color-template-background-clip">Tickets</span></a><br/>
+<td><img alt="Royal Jelly" height="25" src="img/Royal_Jelly.png" width="25"/>1 <a href="royal-jelly.html"><span class="color-template color-template-royal-jelly color-template-background-clip">Royal Jelly</span></a><br/>
+<p><img alt="Ticket" height="25" src="img/Ticket.png" width="25"/>2 <a href="ticket.html"><span class="color-template color-template-ticket color-template-background-clip">Tickets</span></a><br/>
 <span typeof="mw:Error mw:File"></span>50,000 <a href="honey.html"><span class="color-template color-template-honey">Honey</span></a><br/>
-<span typeof="mw:Error mw:File"></span>50 <a href="treat.html"><span class="color-template color-template-treat">Treats</span></a> (20% chance)<br/>
-<span typeof="mw:Error mw:File"></span>1 <a href="magic-bean.html"><span class="color-template color-template-magic-bean color-template-background-clip">Magic Bean</span></a> (20% chance)
+<img alt="Treat" height="25" src="img/Treat.png" width="25"/>50 <a href="treat.html"><span class="color-template color-template-treat">Treats</span></a> (20% chance)<br/>
+<img alt="Magic Bean" height="25" src="img/Magic_Bean.png" width="25"/>1 <a href="magic-bean.html"><span class="color-template color-template-magic-bean color-template-background-clip">Magic Bean</span></a> (20% chance)
 </p>
 </td></tr>
 <tr>
@@ -3488,12 +3488,12 @@ These quests had a 4-hour cooldown in between quests, as opposed to the current 
 <td>500,000</td>
 <td>750,000
 </td>
-<td><span typeof="mw:Error mw:File"></span>1 <a href="royal-jelly.html"><span class="color-template color-template-royal-jelly color-template-background-clip">Royal Jelly</span></a><br/>
-<p><span typeof="mw:Error mw:File"></span>2 <a href="ticket.html"><span class="color-template color-template-ticket color-template-background-clip">Tickets</span></a><br/>
+<td><img alt="Royal Jelly" height="25" src="img/Royal_Jelly.png" width="25"/>1 <a href="royal-jelly.html"><span class="color-template color-template-royal-jelly color-template-background-clip">Royal Jelly</span></a><br/>
+<p><img alt="Ticket" height="25" src="img/Ticket.png" width="25"/>2 <a href="ticket.html"><span class="color-template color-template-ticket color-template-background-clip">Tickets</span></a><br/>
 <span typeof="mw:Error mw:File"></span>200,000 <a href="honey.html"><span class="color-template color-template-honey">Honey</span></a><br/>
-<span typeof="mw:Error mw:File"></span>100 <a href="treat.html"><span class="color-template color-template-treat">Treats</span></a> (20% chance)<br/>
-<span typeof="mw:Error mw:File"></span>1 <a href="magic-bean.html"><span class="color-template color-template-magic-bean color-template-background-clip">Magic Bean</span></a> (20% chance)<br/>
-<span typeof="mw:Error mw:File"></span>1 <a href="royal-jelly.html#Star_Jelly"><span class="color-template color-template-star-jelly color-template-background-clip">Star Jelly</span></a> (2% chance)
+<img alt="Treat" height="25" src="img/Treat.png" width="25"/>100 <a href="treat.html"><span class="color-template color-template-treat">Treats</span></a> (20% chance)<br/>
+<img alt="Magic Bean" height="25" src="img/Magic_Bean.png" width="25"/>1 <a href="magic-bean.html"><span class="color-template color-template-magic-bean color-template-background-clip">Magic Bean</span></a> (20% chance)<br/>
+<img alt="Star Jelly" height="25" src="img/Star_Jelly.png" width="25"/>1 <a href="royal-jelly.html#Star_Jelly"><span class="color-template color-template-star-jelly color-template-background-clip">Star Jelly</span></a> (2% chance)
 </p>
 </td></tr></tbody></table>
 

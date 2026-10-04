@@ -11,7 +11,7 @@ tags: ["Pages with broken file links", "Machines", "Locations", "Dispenser"]
 <h2 class="pi-item pi-header pi-secondary-font pi-item-spacing pi-secondary-background">Information</h2>
 <div class="pi-item pi-data pi-item-spacing pi-border-color" data-source="usage">
 <h3 class="pi-data-label pi-secondary-font">Usage</h3>
-<div class="pi-data-value pi-font">Obtaining <span typeof="mw:Error mw:File"></span><a href="coconut.html"><span class="color-template color-template-coconut color-template-background-clip">Coconuts</span></a></div>
+<div class="pi-data-value pi-font">Obtaining <img alt="Coconut" height="35" src="img/Coconut.png" width="35"/><a href="coconut.html"><span class="color-template color-template-coconut color-template-background-clip">Coconuts</span></a></div>
 </div>
 <div class="pi-item pi-data pi-item-spacing pi-border-color" data-source="requirement">
 <h3 class="pi-data-label pi-secondary-font">Requirement(s)</h3>

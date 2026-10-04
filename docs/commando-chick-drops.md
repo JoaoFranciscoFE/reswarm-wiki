@@ -36,10 +36,10 @@ Milestone rewards include:
 <li>Level 3</li></ul>
 </td>
 <td><span typeof="mw:Error mw:File"></span>2,400 <a href="honey.html"><span class="color-template color-template-honey">Honey</span></a><br/>
-<p><span typeof="mw:Error mw:File"></span>1 <a href="ticket.html"><span class="color-template color-template-ticket color-template-background-clip">Ticket</span></a><br/>
-<span typeof="mw:Error mw:File"></span>2 <a href="sunflower-seed.html"><span class="color-template color-template-sunflower-seed color-template-background-clip">Sunflower Seeds</span></a><br/>
-<span typeof="mw:Error mw:File"></span>2 <a href="pineapple.html"><span class="color-template color-template-pineapple color-template-background-clip">Pineapples</span></a><br/>
-<span typeof="mw:Error mw:File"></span>2 <a href="bitterberry.html"><span class="color-template color-template-bitterberry color-template-background-clip">Bitterberries</span></a>
+<p><img alt="Ticket" height="25" src="img/Ticket.png" width="25"/>1 <a href="ticket.html"><span class="color-template color-template-ticket color-template-background-clip">Ticket</span></a><br/>
+<img alt="Sunflower Seed" height="25" src="img/Sunflower_Seed.png" width="25"/>2 <a href="sunflower-seed.html"><span class="color-template color-template-sunflower-seed color-template-background-clip">Sunflower Seeds</span></a><br/>
+<img alt="Pineapple" height="25" src="img/Pineapple.png" width="25"/>2 <a href="pineapple.html"><span class="color-template color-template-pineapple color-template-background-clip">Pineapples</span></a><br/>
+<img alt="Bitterberry" height="25" src="img/Bitterberry.png" width="25"/>2 <a href="bitterberry.html"><span class="color-template color-template-bitterberry color-template-background-clip">Bitterberries</span></a>
 </p>
 </td></tr>
 <tr>
@@ -48,11 +48,11 @@ Milestone rewards include:
 <li>Level 3</li></ul>
 </td>
 <td><span typeof="mw:Error mw:File"></span>1,500 <a href="honey.html"><span class="color-template color-template-honey">Honey</span></a><br/>
-<p><span typeof="mw:Error mw:File"></span>1 <a href="ticket.html"><span class="color-template color-template-ticket color-template-background-clip">Ticket</span></a><br/>
-<span typeof="mw:Error mw:File"></span>2 <a href="sunflower-seed.html"><span class="color-template color-template-sunflower-seed color-template-background-clip">Sunflower Seeds</span></a><br/>
-<span typeof="mw:Error mw:File"></span>2 <a href="pineapple.html"><span class="color-template color-template-pineapple color-template-background-clip">Pineapples</span></a><br/>
-<span typeof="mw:Error mw:File"></span>2 <a href="bitterberry.html"><span class="color-template color-template-bitterberry color-template-background-clip">Bitterberries</span></a><br/>
-<span typeof="mw:Error mw:File"></span>2 <a href="treat.html"><span class="color-template color-template-treat">Treats</span></a>
+<p><img alt="Ticket" height="25" src="img/Ticket.png" width="25"/>1 <a href="ticket.html"><span class="color-template color-template-ticket color-template-background-clip">Ticket</span></a><br/>
+<img alt="Sunflower Seed" height="25" src="img/Sunflower_Seed.png" width="25"/>2 <a href="sunflower-seed.html"><span class="color-template color-template-sunflower-seed color-template-background-clip">Sunflower Seeds</span></a><br/>
+<img alt="Pineapple" height="25" src="img/Pineapple.png" width="25"/>2 <a href="pineapple.html"><span class="color-template color-template-pineapple color-template-background-clip">Pineapples</span></a><br/>
+<img alt="Bitterberry" height="25" src="img/Bitterberry.png" width="25"/>2 <a href="bitterberry.html"><span class="color-template color-template-bitterberry color-template-background-clip">Bitterberries</span></a><br/>
+<img alt="Treat" height="25" src="img/Treat.png" width="25"/>2 <a href="treat.html"><span class="color-template color-template-treat">Treats</span></a>
 </p>
 </td></tr>
 <tr>
@@ -61,12 +61,12 @@ Milestone rewards include:
 <li>Level 4</li></ul>
 </td>
 <td><span typeof="mw:Error mw:File"></span>6,500 <a href="honey.html"><span class="color-template color-template-honey">Honey</span></a><br/>
-<p><span typeof="mw:Error mw:File"></span>1 <a href="stinger.html"><span class="color-template color-template-stinger color-template-background-clip">Stinger</span></a><br/>
-<span typeof="mw:Error mw:File"></span>1 <a href="ticket.html"><span class="color-template color-template-ticket color-template-background-clip">Ticket</span></a><br/>
-<span typeof="mw:Error mw:File"></span>2 <a href="sunflower-seed.html"><span class="color-template color-template-sunflower-seed color-template-background-clip">Sunflower Seeds</span></a><br/>
-<span typeof="mw:Error mw:File"></span>2 <a href="pineapple.html"><span class="color-template color-template-pineapple color-template-background-clip">Pineapples</span></a><br/>
-<span typeof="mw:Error mw:File"></span>2 <a href="bitterberry.html"><span class="color-template color-template-bitterberry color-template-background-clip">Bitterberries</span></a><br/>
-<span typeof="mw:Error mw:File"></span>5 <a href="treat.html"><span class="color-template color-template-treat">Treats</span></a>
+<p><img alt="Stinger" height="25" src="img/Stinger.png" width="25"/>1 <a href="stinger.html"><span class="color-template color-template-stinger color-template-background-clip">Stinger</span></a><br/>
+<img alt="Ticket" height="25" src="img/Ticket.png" width="25"/>1 <a href="ticket.html"><span class="color-template color-template-ticket color-template-background-clip">Ticket</span></a><br/>
+<img alt="Sunflower Seed" height="25" src="img/Sunflower_Seed.png" width="25"/>2 <a href="sunflower-seed.html"><span class="color-template color-template-sunflower-seed color-template-background-clip">Sunflower Seeds</span></a><br/>
+<img alt="Pineapple" height="25" src="img/Pineapple.png" width="25"/>2 <a href="pineapple.html"><span class="color-template color-template-pineapple color-template-background-clip">Pineapples</span></a><br/>
+<img alt="Bitterberry" height="25" src="img/Bitterberry.png" width="25"/>2 <a href="bitterberry.html"><span class="color-template color-template-bitterberry color-template-background-clip">Bitterberries</span></a><br/>
+<img alt="Treat" height="25" src="img/Treat.png" width="25"/>5 <a href="treat.html"><span class="color-template color-template-treat">Treats</span></a>
 </p>
 </td></tr>
 <tr>
@@ -75,10 +75,10 @@ Milestone rewards include:
 <li>Level 5</li></ul>
 </td>
 <td><span typeof="mw:Error mw:File"></span>10,000 <a href="honey.html"><span class="color-template color-template-honey">Honey</span></a><br/>
-<p><span typeof="mw:Error mw:File"></span>1 <a href="ticket.html"><span class="color-template color-template-ticket color-template-background-clip">Ticket</span></a><br/>
-<span typeof="mw:Error mw:File"></span>3 <a href="sunflower-seed.html"><span class="color-template color-template-sunflower-seed color-template-background-clip">Sunflower Seeds</span></a><br/>
-<span typeof="mw:Error mw:File"></span>3 <a href="pineapple.html"><span class="color-template color-template-pineapple color-template-background-clip">Pineapples</span></a><br/>
-<span typeof="mw:Error mw:File"></span>2 <a href="bitterberry.html"><span class="color-template color-template-bitterberry color-template-background-clip">Bitterberries</span></a>
+<p><img alt="Ticket" height="25" src="img/Ticket.png" width="25"/>1 <a href="ticket.html"><span class="color-template color-template-ticket color-template-background-clip">Ticket</span></a><br/>
+<img alt="Sunflower Seed" height="25" src="img/Sunflower_Seed.png" width="25"/>3 <a href="sunflower-seed.html"><span class="color-template color-template-sunflower-seed color-template-background-clip">Sunflower Seeds</span></a><br/>
+<img alt="Pineapple" height="25" src="img/Pineapple.png" width="25"/>3 <a href="pineapple.html"><span class="color-template color-template-pineapple color-template-background-clip">Pineapples</span></a><br/>
+<img alt="Bitterberry" height="25" src="img/Bitterberry.png" width="25"/>2 <a href="bitterberry.html"><span class="color-template color-template-bitterberry color-template-background-clip">Bitterberries</span></a>
 </p>
 </td></tr>
 <tr>
@@ -87,10 +87,10 @@ Milestone rewards include:
 <li>Level 5</li></ul>
 </td>
 <td><span typeof="mw:Error mw:File"></span>13,000 <a href="honey.html"><span class="color-template color-template-honey">Honey</span></a><br/>
-<p><span typeof="mw:Error mw:File"></span>1 <a href="glue.html"><span class="color-template color-template-glue color-template-background-clip">Glue</span></a><br/>
-<span typeof="mw:Error mw:File"></span>3 <a href="sunflower-seed.html"><span class="color-template color-template-sunflower-seed color-template-background-clip">Sunflower Seeds</span></a><br/>
-<span typeof="mw:Error mw:File"></span>3 <a href="pineapple.html"><span class="color-template color-template-pineapple color-template-background-clip">Pineapples</span></a><br/>
-<span typeof="mw:Error mw:File"></span>2 <a href="bitterberry.html"><span class="color-template color-template-bitterberry color-template-background-clip">Bitterberries</span></a>
+<p><img alt="Glue" height="25" src="img/Glue.png" width="25"/>1 <a href="glue.html"><span class="color-template color-template-glue color-template-background-clip">Glue</span></a><br/>
+<img alt="Sunflower Seed" height="25" src="img/Sunflower_Seed.png" width="25"/>3 <a href="sunflower-seed.html"><span class="color-template color-template-sunflower-seed color-template-background-clip">Sunflower Seeds</span></a><br/>
+<img alt="Pineapple" height="25" src="img/Pineapple.png" width="25"/>3 <a href="pineapple.html"><span class="color-template color-template-pineapple color-template-background-clip">Pineapples</span></a><br/>
+<img alt="Bitterberry" height="25" src="img/Bitterberry.png" width="25"/>2 <a href="bitterberry.html"><span class="color-template color-template-bitterberry color-template-background-clip">Bitterberries</span></a>
 </p>
 </td></tr>
 <tr>
@@ -99,10 +99,10 @@ Milestone rewards include:
 <li>Level 5</li></ul>
 </td>
 <td><span typeof="mw:Error mw:File"></span>25,000 <a href="honey.html"><span class="color-template color-template-honey">Honey</span></a><br/>
-<p><span typeof="mw:Error mw:File"></span>1 <a href="ticket.html"><span class="color-template color-template-ticket color-template-background-clip">Ticket</span></a><br/>
-<span typeof="mw:Error mw:File"></span>3 <a href="sunflower-seed.html"><span class="color-template color-template-sunflower-seed color-template-background-clip">Sunflower Seeds</span></a><br/>
-<span typeof="mw:Error mw:File"></span>3 <a href="pineapple.html"><span class="color-template color-template-pineapple color-template-background-clip">Pineapples</span></a><br/>
-<span typeof="mw:Error mw:File"></span>3 <a href="bitterberry.html"><span class="color-template color-template-bitterberry color-template-background-clip">Bitterberries</span></a>
+<p><img alt="Ticket" height="25" src="img/Ticket.png" width="25"/>1 <a href="ticket.html"><span class="color-template color-template-ticket color-template-background-clip">Ticket</span></a><br/>
+<img alt="Sunflower Seed" height="25" src="img/Sunflower_Seed.png" width="25"/>3 <a href="sunflower-seed.html"><span class="color-template color-template-sunflower-seed color-template-background-clip">Sunflower Seeds</span></a><br/>
+<img alt="Pineapple" height="25" src="img/Pineapple.png" width="25"/>3 <a href="pineapple.html"><span class="color-template color-template-pineapple color-template-background-clip">Pineapples</span></a><br/>
+<img alt="Bitterberry" height="25" src="img/Bitterberry.png" width="25"/>3 <a href="bitterberry.html"><span class="color-template color-template-bitterberry color-template-background-clip">Bitterberries</span></a>
 </p>
 </td></tr>
 <tr>
@@ -111,10 +111,10 @@ Milestone rewards include:
 <li>Level 6</li></ul>
 </td>
 <td><span typeof="mw:Error mw:File"></span>35,000 <a href="honey.html"><span class="color-template color-template-honey">Honey</span></a><br/>
-<p><span typeof="mw:Error mw:File"></span>1 <a href="ticket.html"><span class="color-template color-template-ticket color-template-background-clip">Ticket</span></a><br/>
-<span typeof="mw:Error mw:File"></span>4 <a href="sunflower-seed.html"><span class="color-template color-template-sunflower-seed color-template-background-clip">Sunflower Seeds</span></a><br/>
-<span typeof="mw:Error mw:File"></span>4 <a href="pineapple.html"><span class="color-template color-template-pineapple color-template-background-clip">Pineapples</span></a><br/>
-<span typeof="mw:Error mw:File"></span>3 <a href="bitterberry.html"><span class="color-template color-template-bitterberry color-template-background-clip">Bitterberries</span></a>
+<p><img alt="Ticket" height="25" src="img/Ticket.png" width="25"/>1 <a href="ticket.html"><span class="color-template color-template-ticket color-template-background-clip">Ticket</span></a><br/>
+<img alt="Sunflower Seed" height="25" src="img/Sunflower_Seed.png" width="25"/>4 <a href="sunflower-seed.html"><span class="color-template color-template-sunflower-seed color-template-background-clip">Sunflower Seeds</span></a><br/>
+<img alt="Pineapple" height="25" src="img/Pineapple.png" width="25"/>4 <a href="pineapple.html"><span class="color-template color-template-pineapple color-template-background-clip">Pineapples</span></a><br/>
+<img alt="Bitterberry" height="25" src="img/Bitterberry.png" width="25"/>3 <a href="bitterberry.html"><span class="color-template color-template-bitterberry color-template-background-clip">Bitterberries</span></a>
 </p>
 </td></tr>
 <tr>
@@ -123,10 +123,10 @@ Milestone rewards include:
 <li>Level 6</li></ul>
 </td>
 <td><span typeof="mw:Error mw:File"></span>28,000 <a href="honey.html"><span class="color-template color-template-honey">Honey</span></a><br/>
-<p><span typeof="mw:Error mw:File"></span>1 <a href="ticket.html"><span class="color-template color-template-ticket color-template-background-clip">Ticket</span></a><br/>
-<span typeof="mw:Error mw:File"></span>4 <a href="sunflower-seed.html"><span class="color-template color-template-sunflower-seed color-template-background-clip">Sunflower Seeds</span></a><br/>
-<span typeof="mw:Error mw:File"></span>4 <a href="pineapple.html"><span class="color-template color-template-pineapple color-template-background-clip">Pineapples</span></a><br/>
-<span typeof="mw:Error mw:File"></span>3 <a href="bitterberry.html"><span class="color-template color-template-bitterberry color-template-background-clip">Bitterberries</span></a>
+<p><img alt="Ticket" height="25" src="img/Ticket.png" width="25"/>1 <a href="ticket.html"><span class="color-template color-template-ticket color-template-background-clip">Ticket</span></a><br/>
+<img alt="Sunflower Seed" height="25" src="img/Sunflower_Seed.png" width="25"/>4 <a href="sunflower-seed.html"><span class="color-template color-template-sunflower-seed color-template-background-clip">Sunflower Seeds</span></a><br/>
+<img alt="Pineapple" height="25" src="img/Pineapple.png" width="25"/>4 <a href="pineapple.html"><span class="color-template color-template-pineapple color-template-background-clip">Pineapples</span></a><br/>
+<img alt="Bitterberry" height="25" src="img/Bitterberry.png" width="25"/>3 <a href="bitterberry.html"><span class="color-template color-template-bitterberry color-template-background-clip">Bitterberries</span></a>
 </p>
 </td></tr>
 <tr>
@@ -135,11 +135,11 @@ Milestone rewards include:
 <li>Level 6</li></ul>
 </td>
 <td><span typeof="mw:Error mw:File"></span>42,000 <a href="honey.html"><span class="color-template color-template-honey">Honey</span></a><br/>
-<p><span typeof="mw:Error mw:File"></span>2 <a href="red-extract.html"><span class="color-template color-template-red-extract color-template-background-clip">Red Extracts</span></a><br/>
-<span typeof="mw:Error mw:File"></span>1 <a href="ticket.html"><span class="color-template color-template-ticket color-template-background-clip">Ticket</span></a><br/>
-<span typeof="mw:Error mw:File"></span>4 <a href="sunflower-seed.html"><span class="color-template color-template-sunflower-seed color-template-background-clip">Sunflower Seeds</span></a><br/>
-<span typeof="mw:Error mw:File"></span>4 <a href="pineapple.html"><span class="color-template color-template-pineapple color-template-background-clip">Pineapples</span></a><br/>
-<span typeof="mw:Error mw:File"></span>3 <a href="bitterberry.html"><span class="color-template color-template-bitterberry color-template-background-clip">Bitterberries</span></a>
+<p><img alt="Red Extract" height="25" src="img/Red_Extract.png" width="25"/>2 <a href="red-extract.html"><span class="color-template color-template-red-extract color-template-background-clip">Red Extracts</span></a><br/>
+<img alt="Ticket" height="25" src="img/Ticket.png" width="25"/>1 <a href="ticket.html"><span class="color-template color-template-ticket color-template-background-clip">Ticket</span></a><br/>
+<img alt="Sunflower Seed" height="25" src="img/Sunflower_Seed.png" width="25"/>4 <a href="sunflower-seed.html"><span class="color-template color-template-sunflower-seed color-template-background-clip">Sunflower Seeds</span></a><br/>
+<img alt="Pineapple" height="25" src="img/Pineapple.png" width="25"/>4 <a href="pineapple.html"><span class="color-template color-template-pineapple color-template-background-clip">Pineapples</span></a><br/>
+<img alt="Bitterberry" height="25" src="img/Bitterberry.png" width="25"/>3 <a href="bitterberry.html"><span class="color-template color-template-bitterberry color-template-background-clip">Bitterberries</span></a>
 </p>
 </td></tr>
 <tr>
@@ -148,11 +148,11 @@ Milestone rewards include:
 <li>Level 7</li></ul>
 </td>
 <td><span typeof="mw:Error mw:File"></span>300,000 <a href="honey.html"><span class="color-template color-template-honey">Honey</span></a><br/>
-<p><span typeof="mw:Error mw:File"></span>1 <a href="egg.html#Gold_Egg"><span class="color-template color-template-gold-egg color-template-background-clip">Gold Egg</span></a><br/>
-<span typeof="mw:Error mw:File"></span>1 <a href="ticket.html"><span class="color-template color-template-ticket color-template-background-clip">Ticket</span></a><br/>
-<span typeof="mw:Error mw:File"></span>4 <a href="sunflower-seed.html"><span class="color-template color-template-sunflower-seed color-template-background-clip">Sunflower Seeds</span></a><br/>
-<span typeof="mw:Error mw:File"></span>4 <a href="pineapple.html"><span class="color-template color-template-pineapple color-template-background-clip">Pineapples</span></a><br/>
-<span typeof="mw:Error mw:File"></span>3 <a href="bitterberry.html"><span class="color-template color-template-bitterberry color-template-background-clip">Bitterberries</span></a>
+<p><img alt="Gold Egg" height="25" src="img/Gold_Egg.png" width="25"/>1 <a href="egg.html#Gold_Egg"><span class="color-template color-template-gold-egg color-template-background-clip">Gold Egg</span></a><br/>
+<img alt="Ticket" height="25" src="img/Ticket.png" width="25"/>1 <a href="ticket.html"><span class="color-template color-template-ticket color-template-background-clip">Ticket</span></a><br/>
+<img alt="Sunflower Seed" height="25" src="img/Sunflower_Seed.png" width="25"/>4 <a href="sunflower-seed.html"><span class="color-template color-template-sunflower-seed color-template-background-clip">Sunflower Seeds</span></a><br/>
+<img alt="Pineapple" height="25" src="img/Pineapple.png" width="25"/>4 <a href="pineapple.html"><span class="color-template color-template-pineapple color-template-background-clip">Pineapples</span></a><br/>
+<img alt="Bitterberry" height="25" src="img/Bitterberry.png" width="25"/>3 <a href="bitterberry.html"><span class="color-template color-template-bitterberry color-template-background-clip">Bitterberries</span></a>
 </p>
 </td></tr>
 <tr>
@@ -161,10 +161,10 @@ Milestone rewards include:
 <li>Level 7</li></ul>
 </td>
 <td><span typeof="mw:Error mw:File"></span>100,000 <a href="honey.html"><span class="color-template color-template-honey">Honey</span></a><br/>
-<p><span typeof="mw:Error mw:File"></span>1 <a href="ticket.html"><span class="color-template color-template-ticket color-template-background-clip">Ticket</span></a><br/>
-<span typeof="mw:Error mw:File"></span>5 <a href="sunflower-seed.html"><span class="color-template color-template-sunflower-seed color-template-background-clip">Sunflower Seeds</span></a><br/>
-<span typeof="mw:Error mw:File"></span>5 <a href="pineapple.html"><span class="color-template color-template-pineapple color-template-background-clip">Pineapples</span></a><br/>
-<span typeof="mw:Error mw:File"></span>3 <a href="bitterberry.html"><span class="color-template color-template-bitterberry color-template-background-clip">Bitterberries</span></a>
+<p><img alt="Ticket" height="25" src="img/Ticket.png" width="25"/>1 <a href="ticket.html"><span class="color-template color-template-ticket color-template-background-clip">Ticket</span></a><br/>
+<img alt="Sunflower Seed" height="25" src="img/Sunflower_Seed.png" width="25"/>5 <a href="sunflower-seed.html"><span class="color-template color-template-sunflower-seed color-template-background-clip">Sunflower Seeds</span></a><br/>
+<img alt="Pineapple" height="25" src="img/Pineapple.png" width="25"/>5 <a href="pineapple.html"><span class="color-template color-template-pineapple color-template-background-clip">Pineapples</span></a><br/>
+<img alt="Bitterberry" height="25" src="img/Bitterberry.png" width="25"/>3 <a href="bitterberry.html"><span class="color-template color-template-bitterberry color-template-background-clip">Bitterberries</span></a>
 </p>
 </td></tr>
 <tr>
@@ -173,11 +173,11 @@ Milestone rewards include:
 <li>Level 7</li></ul>
 </td>
 <td><span typeof="mw:Error mw:File"></span>120,000 <a href="honey.html"><span class="color-template color-template-honey">Honey</span></a><br/>
-<p><span typeof="mw:Error mw:File"></span>3 <a href="stinger.html"><span class="color-template color-template-stinger color-template-background-clip">Stingers</span></a><br/>
-<span typeof="mw:Error mw:File"></span>1 <a href="ticket.html"><span class="color-template color-template-ticket color-template-background-clip">Ticket</span></a><br/>
-<span typeof="mw:Error mw:File"></span>5 <a href="sunflower-seed.html"><span class="color-template color-template-sunflower-seed color-template-background-clip">Sunflower Seeds</span></a><br/>
-<span typeof="mw:Error mw:File"></span>5 <a href="pineapple.html"><span class="color-template color-template-pineapple color-template-background-clip">Pineapples</span></a><br/>
-<span typeof="mw:Error mw:File"></span>3 <a href="bitterberry.html"><span class="color-template color-template-bitterberry color-template-background-clip">Bitterberries</span></a>
+<p><img alt="Stinger" height="25" src="img/Stinger.png" width="25"/>3 <a href="stinger.html"><span class="color-template color-template-stinger color-template-background-clip">Stingers</span></a><br/>
+<img alt="Ticket" height="25" src="img/Ticket.png" width="25"/>1 <a href="ticket.html"><span class="color-template color-template-ticket color-template-background-clip">Ticket</span></a><br/>
+<img alt="Sunflower Seed" height="25" src="img/Sunflower_Seed.png" width="25"/>5 <a href="sunflower-seed.html"><span class="color-template color-template-sunflower-seed color-template-background-clip">Sunflower Seeds</span></a><br/>
+<img alt="Pineapple" height="25" src="img/Pineapple.png" width="25"/>5 <a href="pineapple.html"><span class="color-template color-template-pineapple color-template-background-clip">Pineapples</span></a><br/>
+<img alt="Bitterberry" height="25" src="img/Bitterberry.png" width="25"/>3 <a href="bitterberry.html"><span class="color-template color-template-bitterberry color-template-background-clip">Bitterberries</span></a>
 </p>
 </td></tr>
 <tr>
@@ -186,10 +186,10 @@ Milestone rewards include:
 <li>Level 7</li></ul>
 </td>
 <td><span typeof="mw:Error mw:File"></span>135,000 <a href="honey.html"><span class="color-template color-template-honey">Honey</span></a><br/>
-<p><span typeof="mw:Error mw:File"></span>1 <a href="ticket.html"><span class="color-template color-template-ticket color-template-background-clip">Ticket</span></a><br/>
-<span typeof="mw:Error mw:File"></span>5 <a href="sunflower-seed.html"><span class="color-template color-template-sunflower-seed color-template-background-clip">Sunflower Seeds</span></a><br/>
-<span typeof="mw:Error mw:File"></span>5 <a href="pineapple.html"><span class="color-template color-template-pineapple color-template-background-clip">Pineapples</span></a><br/>
-<span typeof="mw:Error mw:File"></span>3 <a href="bitterberry.html"><span class="color-template color-template-bitterberry color-template-background-clip">Bitterberries</span></a>
+<p><img alt="Ticket" height="25" src="img/Ticket.png" width="25"/>1 <a href="ticket.html"><span class="color-template color-template-ticket color-template-background-clip">Ticket</span></a><br/>
+<img alt="Sunflower Seed" height="25" src="img/Sunflower_Seed.png" width="25"/>5 <a href="sunflower-seed.html"><span class="color-template color-template-sunflower-seed color-template-background-clip">Sunflower Seeds</span></a><br/>
+<img alt="Pineapple" height="25" src="img/Pineapple.png" width="25"/>5 <a href="pineapple.html"><span class="color-template color-template-pineapple color-template-background-clip">Pineapples</span></a><br/>
+<img alt="Bitterberry" height="25" src="img/Bitterberry.png" width="25"/>3 <a href="bitterberry.html"><span class="color-template color-template-bitterberry color-template-background-clip">Bitterberries</span></a>
 </p>
 </td></tr>
 <tr>
@@ -198,10 +198,10 @@ Milestone rewards include:
 <li>Level 8</li></ul>
 </td>
 <td><span typeof="mw:Error mw:File"></span>170,000 <a href="honey.html"><span class="color-template color-template-honey">Honey</span></a><br/>
-<p><span typeof="mw:Error mw:File"></span>1 <a href="ticket.html"><span class="color-template color-template-ticket color-template-background-clip">Ticket</span></a><br/>
-<span typeof="mw:Error mw:File"></span>5 <a href="sunflower-seed.html"><span class="color-template color-template-sunflower-seed color-template-background-clip">Sunflower Seeds</span></a><br/>
-<span typeof="mw:Error mw:File"></span>5 <a href="pineapple.html"><span class="color-template color-template-pineapple color-template-background-clip">Pineapples</span></a><br/>
-<span typeof="mw:Error mw:File"></span>3 <a href="bitterberry.html"><span class="color-template color-template-bitterberry color-template-background-clip">Bitterberries</span></a>
+<p><img alt="Ticket" height="25" src="img/Ticket.png" width="25"/>1 <a href="ticket.html"><span class="color-template color-template-ticket color-template-background-clip">Ticket</span></a><br/>
+<img alt="Sunflower Seed" height="25" src="img/Sunflower_Seed.png" width="25"/>5 <a href="sunflower-seed.html"><span class="color-template color-template-sunflower-seed color-template-background-clip">Sunflower Seeds</span></a><br/>
+<img alt="Pineapple" height="25" src="img/Pineapple.png" width="25"/>5 <a href="pineapple.html"><span class="color-template color-template-pineapple color-template-background-clip">Pineapples</span></a><br/>
+<img alt="Bitterberry" height="25" src="img/Bitterberry.png" width="25"/>3 <a href="bitterberry.html"><span class="color-template color-template-bitterberry color-template-background-clip">Bitterberries</span></a>
 </p>
 </td></tr>
 <tr>
@@ -210,11 +210,11 @@ Milestone rewards include:
 <li>Level 8</li></ul>
 </td>
 <td><span typeof="mw:Error mw:File"></span>100,000 <a href="honey.html"><span class="color-template color-template-honey">Honey</span></a><br/>
-<p><span typeof="mw:Error mw:File"></span>1 <a href="royal-jelly.html#Star_Jelly"><span class="color-template color-template-star-jelly color-template-background-clip">Star Jelly</span></a><br/>
-<span typeof="mw:Error mw:File"></span>1 <a href="ticket.html"><span class="color-template color-template-ticket color-template-background-clip">Ticket</span></a><br/>
-<span typeof="mw:Error mw:File"></span>6 <a href="sunflower-seed.html"><span class="color-template color-template-sunflower-seed color-template-background-clip">Sunflower Seeds</span></a><br/>
-<span typeof="mw:Error mw:File"></span>6 <a href="pineapple.html"><span class="color-template color-template-pineapple color-template-background-clip">Pineapples</span></a><br/>
-<span typeof="mw:Error mw:File"></span>3 <a href="bitterberry.html"><span class="color-template color-template-bitterberry color-template-background-clip">Bitterberries</span></a>
+<p><img alt="Star Jelly" height="25" src="img/Star_Jelly.png" width="25"/>1 <a href="royal-jelly.html#Star_Jelly"><span class="color-template color-template-star-jelly color-template-background-clip">Star Jelly</span></a><br/>
+<img alt="Ticket" height="25" src="img/Ticket.png" width="25"/>1 <a href="ticket.html"><span class="color-template color-template-ticket color-template-background-clip">Ticket</span></a><br/>
+<img alt="Sunflower Seed" height="25" src="img/Sunflower_Seed.png" width="25"/>6 <a href="sunflower-seed.html"><span class="color-template color-template-sunflower-seed color-template-background-clip">Sunflower Seeds</span></a><br/>
+<img alt="Pineapple" height="25" src="img/Pineapple.png" width="25"/>6 <a href="pineapple.html"><span class="color-template color-template-pineapple color-template-background-clip">Pineapples</span></a><br/>
+<img alt="Bitterberry" height="25" src="img/Bitterberry.png" width="25"/>3 <a href="bitterberry.html"><span class="color-template color-template-bitterberry color-template-background-clip">Bitterberries</span></a>
 </p>
 </td></tr>
 <tr>
@@ -223,10 +223,10 @@ Milestone rewards include:
 <li>Level 8</li></ul>
 </td>
 <td><span typeof="mw:Error mw:File"></span>130,000 <a href="honey.html"><span class="color-template color-template-honey">Honey</span></a><br/>
-<p><span typeof="mw:Error mw:File"></span>1 <a href="ticket.html"><span class="color-template color-template-ticket color-template-background-clip">Ticket</span></a><br/>
-<span typeof="mw:Error mw:File"></span>6 <a href="sunflower-seed.html"><span class="color-template color-template-sunflower-seed color-template-background-clip">Sunflower Seeds</span></a><br/>
-<span typeof="mw:Error mw:File"></span>6 <a href="pineapple.html"><span class="color-template color-template-pineapple color-template-background-clip">Pineapples</span></a><br/>
-<span typeof="mw:Error mw:File"></span>3 <a href="bitterberry.html"><span class="color-template color-template-bitterberry color-template-background-clip">Bitterberries</span></a>
+<p><img alt="Ticket" height="25" src="img/Ticket.png" width="25"/>1 <a href="ticket.html"><span class="color-template color-template-ticket color-template-background-clip">Ticket</span></a><br/>
+<img alt="Sunflower Seed" height="25" src="img/Sunflower_Seed.png" width="25"/>6 <a href="sunflower-seed.html"><span class="color-template color-template-sunflower-seed color-template-background-clip">Sunflower Seeds</span></a><br/>
+<img alt="Pineapple" height="25" src="img/Pineapple.png" width="25"/>6 <a href="pineapple.html"><span class="color-template color-template-pineapple color-template-background-clip">Pineapples</span></a><br/>
+<img alt="Bitterberry" height="25" src="img/Bitterberry.png" width="25"/>3 <a href="bitterberry.html"><span class="color-template color-template-bitterberry color-template-background-clip">Bitterberries</span></a>
 </p>
 </td></tr>
 <tr>
@@ -235,10 +235,10 @@ Milestone rewards include:
 <li>Level 8</li></ul>
 </td>
 <td><span typeof="mw:Error mw:File"></span>150,000 <a href="honey.html"><span class="color-template color-template-honey">Honey</span></a><br/>
-<p><span typeof="mw:Error mw:File"></span>1 <a href="ticket.html"><span class="color-template color-template-ticket color-template-background-clip">Ticket</span></a><br/>
-<span typeof="mw:Error mw:File"></span>6 <a href="sunflower-seed.html"><span class="color-template color-template-sunflower-seed color-template-background-clip">Sunflower Seeds</span></a><br/>
-<span typeof="mw:Error mw:File"></span>6 <a href="pineapple.html"><span class="color-template color-template-pineapple color-template-background-clip">Pineapples</span></a><br/>
-<span typeof="mw:Error mw:File"></span>3 <a href="bitterberry.html"><span class="color-template color-template-bitterberry color-template-background-clip">Bitterberries</span></a>
+<p><img alt="Ticket" height="25" src="img/Ticket.png" width="25"/>1 <a href="ticket.html"><span class="color-template color-template-ticket color-template-background-clip">Ticket</span></a><br/>
+<img alt="Sunflower Seed" height="25" src="img/Sunflower_Seed.png" width="25"/>6 <a href="sunflower-seed.html"><span class="color-template color-template-sunflower-seed color-template-background-clip">Sunflower Seeds</span></a><br/>
+<img alt="Pineapple" height="25" src="img/Pineapple.png" width="25"/>6 <a href="pineapple.html"><span class="color-template color-template-pineapple color-template-background-clip">Pineapples</span></a><br/>
+<img alt="Bitterberry" height="25" src="img/Bitterberry.png" width="25"/>3 <a href="bitterberry.html"><span class="color-template color-template-bitterberry color-template-background-clip">Bitterberries</span></a>
 </p>
 </td></tr>
 <tr>
@@ -247,10 +247,10 @@ Milestone rewards include:
 <li>Level 8</li></ul>
 </td>
 <td><span typeof="mw:Error mw:File"></span>200,000 <a href="honey.html"><span class="color-template color-template-honey">Honey</span></a><br/>
-<p><span typeof="mw:Error mw:File"></span>1 <a href="ticket.html"><span class="color-template color-template-ticket color-template-background-clip">Ticket</span></a><br/>
-<span typeof="mw:Error mw:File"></span>6 <a href="sunflower-seed.html"><span class="color-template color-template-sunflower-seed color-template-background-clip">Sunflower Seeds</span></a><br/>
-<span typeof="mw:Error mw:File"></span>6 <a href="pineapple.html"><span class="color-template color-template-pineapple color-template-background-clip">Pineapples</span></a><br/>
-<span typeof="mw:Error mw:File"></span>3 <a href="bitterberry.html"><span class="color-template color-template-bitterberry color-template-background-clip">Bitterberries</span></a>
+<p><img alt="Ticket" height="25" src="img/Ticket.png" width="25"/>1 <a href="ticket.html"><span class="color-template color-template-ticket color-template-background-clip">Ticket</span></a><br/>
+<img alt="Sunflower Seed" height="25" src="img/Sunflower_Seed.png" width="25"/>6 <a href="sunflower-seed.html"><span class="color-template color-template-sunflower-seed color-template-background-clip">Sunflower Seeds</span></a><br/>
+<img alt="Pineapple" height="25" src="img/Pineapple.png" width="25"/>6 <a href="pineapple.html"><span class="color-template color-template-pineapple color-template-background-clip">Pineapples</span></a><br/>
+<img alt="Bitterberry" height="25" src="img/Bitterberry.png" width="25"/>3 <a href="bitterberry.html"><span class="color-template color-template-bitterberry color-template-background-clip">Bitterberries</span></a>
 </p>
 </td></tr>
 <tr>
@@ -259,10 +259,10 @@ Milestone rewards include:
 <li>Level 9</li></ul>
 </td>
 <td><span typeof="mw:Error mw:File"></span>250,000 <a href="honey.html"><span class="color-template color-template-honey">Honey</span></a><br/>
-<p><span typeof="mw:Error mw:File"></span>1 <a href="ticket.html"><span class="color-template color-template-ticket color-template-background-clip">Ticket</span></a><br/>
-<span typeof="mw:Error mw:File"></span>6 <a href="sunflower-seed.html"><span class="color-template color-template-sunflower-seed color-template-background-clip">Sunflower Seeds</span></a><br/>
-<span typeof="mw:Error mw:File"></span>6 <a href="pineapple.html"><span class="color-template color-template-pineapple color-template-background-clip">Pineapples</span></a><br/>
-<span typeof="mw:Error mw:File"></span>3 <a href="bitterberry.html"><span class="color-template color-template-bitterberry color-template-background-clip">Bitterberries</span></a>
+<p><img alt="Ticket" height="25" src="img/Ticket.png" width="25"/>1 <a href="ticket.html"><span class="color-template color-template-ticket color-template-background-clip">Ticket</span></a><br/>
+<img alt="Sunflower Seed" height="25" src="img/Sunflower_Seed.png" width="25"/>6 <a href="sunflower-seed.html"><span class="color-template color-template-sunflower-seed color-template-background-clip">Sunflower Seeds</span></a><br/>
+<img alt="Pineapple" height="25" src="img/Pineapple.png" width="25"/>6 <a href="pineapple.html"><span class="color-template color-template-pineapple color-template-background-clip">Pineapples</span></a><br/>
+<img alt="Bitterberry" height="25" src="img/Bitterberry.png" width="25"/>3 <a href="bitterberry.html"><span class="color-template color-template-bitterberry color-template-background-clip">Bitterberries</span></a>
 </p>
 </td></tr>
 <tr>
@@ -271,11 +271,11 @@ Milestone rewards include:
 <li>Level 9</li></ul>
 </td>
 <td><span typeof="mw:Error mw:File"></span>1,000,000 <a href="honey.html"><span class="color-template color-template-honey">Honey</span></a><br/>
-<p><span typeof="mw:Error mw:File"></span>3 <a href="blue-extract.html"><span class="color-template color-template-blue-extract color-template-background-clip">Blue Extracts</span></a><br/>
-<span typeof="mw:Error mw:File"></span>1 <a href="ticket.html"><span class="color-template color-template-ticket color-template-background-clip">Ticket</span></a><br/>
-<span typeof="mw:Error mw:File"></span>7 <a href="sunflower-seed.html"><span class="color-template color-template-sunflower-seed color-template-background-clip">Sunflower Seeds</span></a><br/>
-<span typeof="mw:Error mw:File"></span>7 <a href="pineapple.html"><span class="color-template color-template-pineapple color-template-background-clip">Pineapples</span></a><br/>
-<span typeof="mw:Error mw:File"></span>3 <a href="bitterberry.html"><span class="color-template color-template-bitterberry color-template-background-clip">Bitterberries</span></a>
+<p><img alt="Blue Extract" height="25" src="img/Blue_Extract.png" width="25"/>3 <a href="blue-extract.html"><span class="color-template color-template-blue-extract color-template-background-clip">Blue Extracts</span></a><br/>
+<img alt="Ticket" height="25" src="img/Ticket.png" width="25"/>1 <a href="ticket.html"><span class="color-template color-template-ticket color-template-background-clip">Ticket</span></a><br/>
+<img alt="Sunflower Seed" height="25" src="img/Sunflower_Seed.png" width="25"/>7 <a href="sunflower-seed.html"><span class="color-template color-template-sunflower-seed color-template-background-clip">Sunflower Seeds</span></a><br/>
+<img alt="Pineapple" height="25" src="img/Pineapple.png" width="25"/>7 <a href="pineapple.html"><span class="color-template color-template-pineapple color-template-background-clip">Pineapples</span></a><br/>
+<img alt="Bitterberry" height="25" src="img/Bitterberry.png" width="25"/>3 <a href="bitterberry.html"><span class="color-template color-template-bitterberry color-template-background-clip">Bitterberries</span></a>
 </p>
 </td></tr>
 <tr>
@@ -284,10 +284,10 @@ Milestone rewards include:
 <li>Level 9</li></ul>
 </td>
 <td><span typeof="mw:Error mw:File"></span>1,100,000 <a href="honey.html"><span class="color-template color-template-honey">Honey</span></a><br/>
-<p><span typeof="mw:Error mw:File"></span>1 <a href="ticket.html"><span class="color-template color-template-ticket color-template-background-clip">Ticket</span></a><br/>
-<span typeof="mw:Error mw:File"></span>7 <a href="sunflower-seed.html"><span class="color-template color-template-sunflower-seed color-template-background-clip">Sunflower Seeds</span></a><br/>
-<span typeof="mw:Error mw:File"></span>7 <a href="pineapple.html"><span class="color-template color-template-pineapple color-template-background-clip">Pineapples</span></a><br/>
-<span typeof="mw:Error mw:File"></span>3 <a href="bitterberry.html"><span class="color-template color-template-bitterberry color-template-background-clip">Bitterberries</span></a>
+<p><img alt="Ticket" height="25" src="img/Ticket.png" width="25"/>1 <a href="ticket.html"><span class="color-template color-template-ticket color-template-background-clip">Ticket</span></a><br/>
+<img alt="Sunflower Seed" height="25" src="img/Sunflower_Seed.png" width="25"/>7 <a href="sunflower-seed.html"><span class="color-template color-template-sunflower-seed color-template-background-clip">Sunflower Seeds</span></a><br/>
+<img alt="Pineapple" height="25" src="img/Pineapple.png" width="25"/>7 <a href="pineapple.html"><span class="color-template color-template-pineapple color-template-background-clip">Pineapples</span></a><br/>
+<img alt="Bitterberry" height="25" src="img/Bitterberry.png" width="25"/>3 <a href="bitterberry.html"><span class="color-template color-template-bitterberry color-template-background-clip">Bitterberries</span></a>
 </p>
 </td></tr>
 <tr>
@@ -296,10 +296,10 @@ Milestone rewards include:
 <li>Level 9</li></ul>
 </td>
 <td><span typeof="mw:Error mw:File"></span>900,000 <a href="honey.html"><span class="color-template color-template-honey">Honey</span></a><br/>
-<p><span typeof="mw:Error mw:File"></span>1 <a href="ticket.html"><span class="color-template color-template-ticket color-template-background-clip">Ticket</span></a><br/>
-<span typeof="mw:Error mw:File"></span>7 <a href="sunflower-seed.html"><span class="color-template color-template-sunflower-seed color-template-background-clip">Sunflower Seeds</span></a><br/>
-<span typeof="mw:Error mw:File"></span>7 <a href="pineapple.html"><span class="color-template color-template-pineapple color-template-background-clip">Pineapples</span></a><br/>
-<span typeof="mw:Error mw:File"></span>3 <a href="bitterberry.html"><span class="color-template color-template-bitterberry color-template-background-clip">Bitterberries</span></a>
+<p><img alt="Ticket" height="25" src="img/Ticket.png" width="25"/>1 <a href="ticket.html"><span class="color-template color-template-ticket color-template-background-clip">Ticket</span></a><br/>
+<img alt="Sunflower Seed" height="25" src="img/Sunflower_Seed.png" width="25"/>7 <a href="sunflower-seed.html"><span class="color-template color-template-sunflower-seed color-template-background-clip">Sunflower Seeds</span></a><br/>
+<img alt="Pineapple" height="25" src="img/Pineapple.png" width="25"/>7 <a href="pineapple.html"><span class="color-template color-template-pineapple color-template-background-clip">Pineapples</span></a><br/>
+<img alt="Bitterberry" height="25" src="img/Bitterberry.png" width="25"/>3 <a href="bitterberry.html"><span class="color-template color-template-bitterberry color-template-background-clip">Bitterberries</span></a>
 </p>
 </td></tr>
 <tr>
@@ -308,10 +308,10 @@ Milestone rewards include:
 <li>Level 9</li></ul>
 </td>
 <td><span typeof="mw:Error mw:File"></span>1,800,000 <a href="honey.html"><span class="color-template color-template-honey">Honey</span></a><br/>
-<p><span typeof="mw:Error mw:File"></span>1 <a href="ticket.html"><span class="color-template color-template-ticket color-template-background-clip">Ticket</span></a><br/>
-<span typeof="mw:Error mw:File"></span>7 <a href="sunflower-seed.html"><span class="color-template color-template-sunflower-seed color-template-background-clip">Sunflower Seeds</span></a><br/>
-<span typeof="mw:Error mw:File"></span>7 <a href="pineapple.html"><span class="color-template color-template-pineapple color-template-background-clip">Pineapples</span></a><br/>
-<span typeof="mw:Error mw:File"></span>3 <a href="bitterberry.html"><span class="color-template color-template-bitterberry color-template-background-clip">Bitterberries</span></a>
+<p><img alt="Ticket" height="25" src="img/Ticket.png" width="25"/>1 <a href="ticket.html"><span class="color-template color-template-ticket color-template-background-clip">Ticket</span></a><br/>
+<img alt="Sunflower Seed" height="25" src="img/Sunflower_Seed.png" width="25"/>7 <a href="sunflower-seed.html"><span class="color-template color-template-sunflower-seed color-template-background-clip">Sunflower Seeds</span></a><br/>
+<img alt="Pineapple" height="25" src="img/Pineapple.png" width="25"/>7 <a href="pineapple.html"><span class="color-template color-template-pineapple color-template-background-clip">Pineapples</span></a><br/>
+<img alt="Bitterberry" height="25" src="img/Bitterberry.png" width="25"/>3 <a href="bitterberry.html"><span class="color-template color-template-bitterberry color-template-background-clip">Bitterberries</span></a>
 </p>
 </td></tr>
 <tr>
@@ -320,10 +320,10 @@ Milestone rewards include:
 <li>Level 10</li></ul>
 </td>
 <td><span typeof="mw:Error mw:File"></span>2,000,000 <a href="honey.html"><span class="color-template color-template-honey">Honey</span></a><br/>
-<p><span typeof="mw:Error mw:File"></span>1 <a href="ticket.html"><span class="color-template color-template-ticket color-template-background-clip">Ticket</span></a><br/>
-<span typeof="mw:Error mw:File"></span>7 <a href="sunflower-seed.html"><span class="color-template color-template-sunflower-seed color-template-background-clip">Sunflower Seeds</span></a><br/>
-<span typeof="mw:Error mw:File"></span>7 <a href="pineapple.html"><span class="color-template color-template-pineapple color-template-background-clip">Pineapples</span></a><br/>
-<span typeof="mw:Error mw:File"></span>3 <a href="bitterberry.html"><span class="color-template color-template-bitterberry color-template-background-clip">Bitterberries</span></a>
+<p><img alt="Ticket" height="25" src="img/Ticket.png" width="25"/>1 <a href="ticket.html"><span class="color-template color-template-ticket color-template-background-clip">Ticket</span></a><br/>
+<img alt="Sunflower Seed" height="25" src="img/Sunflower_Seed.png" width="25"/>7 <a href="sunflower-seed.html"><span class="color-template color-template-sunflower-seed color-template-background-clip">Sunflower Seeds</span></a><br/>
+<img alt="Pineapple" height="25" src="img/Pineapple.png" width="25"/>7 <a href="pineapple.html"><span class="color-template color-template-pineapple color-template-background-clip">Pineapples</span></a><br/>
+<img alt="Bitterberry" height="25" src="img/Bitterberry.png" width="25"/>3 <a href="bitterberry.html"><span class="color-template color-template-bitterberry color-template-background-clip">Bitterberries</span></a>
 </p>
 </td></tr>
 <tr>
@@ -332,10 +332,10 @@ Milestone rewards include:
 <li>Level 10</li></ul>
 </td>
 <td><span typeof="mw:Error mw:File"></span>2,300,000 <a href="honey.html"><span class="color-template color-template-honey">Honey</span></a><br/>
-<p><span typeof="mw:Error mw:File"></span>100 <a href="ticket.html"><span class="color-template color-template-ticket color-template-background-clip">Tickets</span></a><br/>
-<span typeof="mw:Error mw:File"></span>7 <a href="sunflower-seed.html"><span class="color-template color-template-sunflower-seed color-template-background-clip">Sunflower Seeds</span></a><br/>
-<span typeof="mw:Error mw:File"></span>7 <a href="pineapple.html"><span class="color-template color-template-pineapple color-template-background-clip">Pineapples</span></a><br/>
-<span typeof="mw:Error mw:File"></span>3 <a href="bitterberry.html"><span class="color-template color-template-bitterberry color-template-background-clip">Bitterberries</span></a>
+<p><img alt="Ticket" height="25" src="img/Ticket.png" width="25"/>100 <a href="ticket.html"><span class="color-template color-template-ticket color-template-background-clip">Tickets</span></a><br/>
+<img alt="Sunflower Seed" height="25" src="img/Sunflower_Seed.png" width="25"/>7 <a href="sunflower-seed.html"><span class="color-template color-template-sunflower-seed color-template-background-clip">Sunflower Seeds</span></a><br/>
+<img alt="Pineapple" height="25" src="img/Pineapple.png" width="25"/>7 <a href="pineapple.html"><span class="color-template color-template-pineapple color-template-background-clip">Pineapples</span></a><br/>
+<img alt="Bitterberry" height="25" src="img/Bitterberry.png" width="25"/>3 <a href="bitterberry.html"><span class="color-template color-template-bitterberry color-template-background-clip">Bitterberries</span></a>
 </p>
 </td></tr>
 <tr>
@@ -344,10 +344,10 @@ Milestone rewards include:
 <li>Level 10</li></ul>
 </td>
 <td><span typeof="mw:Error mw:File"></span>2,700,000 <a href="honey.html"><span class="color-template color-template-honey">Honey</span></a><br/>
-<p><span typeof="mw:Error mw:File"></span>1 <a href="ticket.html"><span class="color-template color-template-ticket color-template-background-clip">Ticket</span></a><br/>
-<span typeof="mw:Error mw:File"></span>8 <a href="pineapple.html"><span class="color-template color-template-pineapple color-template-background-clip">Pineapples</span></a><br/>
-<span typeof="mw:Error mw:File"></span>8 <a href="sunflower-seed.html"><span class="color-template color-template-sunflower-seed color-template-background-clip">Sunflower Seeds</span></a><br/>
-<span typeof="mw:Error mw:File"></span>3 <a href="bitterberry.html"><span class="color-template color-template-bitterberry color-template-background-clip">Bitterberries</span></a>
+<p><img alt="Ticket" height="25" src="img/Ticket.png" width="25"/>1 <a href="ticket.html"><span class="color-template color-template-ticket color-template-background-clip">Ticket</span></a><br/>
+<img alt="Pineapple" height="25" src="img/Pineapple.png" width="25"/>8 <a href="pineapple.html"><span class="color-template color-template-pineapple color-template-background-clip">Pineapples</span></a><br/>
+<img alt="Sunflower Seed" height="25" src="img/Sunflower_Seed.png" width="25"/>8 <a href="sunflower-seed.html"><span class="color-template color-template-sunflower-seed color-template-background-clip">Sunflower Seeds</span></a><br/>
+<img alt="Bitterberry" height="25" src="img/Bitterberry.png" width="25"/>3 <a href="bitterberry.html"><span class="color-template color-template-bitterberry color-template-background-clip">Bitterberries</span></a>
 </p>
 </td></tr>
 <tr>
@@ -356,11 +356,11 @@ Milestone rewards include:
 <li>Level 10</li></ul>
 </td>
 <td><span typeof="mw:Error mw:File"></span>3,000,000 <a href="honey.html"><span class="color-template color-template-honey">Honey</span></a><br/>
-<p><span typeof="mw:Error mw:File"></span>1 <a href="ticket.html"><span class="color-template color-template-ticket color-template-background-clip">Ticket</span></a><br/>
-<span typeof="mw:Error mw:File"></span>1 <a href="ant-pass.html"><span class="color-template color-template-ant-pass color-template-background-clip">Ant Pass</span></a><br/>
-<span typeof="mw:Error mw:File"></span>8 <a href="sunflower-seed.html"><span class="color-template color-template-sunflower-seed color-template-background-clip">Sunflower Seeds</span></a><br/>
-<span typeof="mw:Error mw:File"></span>8 <a href="pineapple.html"><span class="color-template color-template-pineapple color-template-background-clip">Pineapples</span></a><br/>
-<span typeof="mw:Error mw:File"></span>3 <a href="bitterberry.html"><span class="color-template color-template-bitterberry color-template-background-clip">Bitterberries</span></a>
+<p><img alt="Ticket" height="25" src="img/Ticket.png" width="25"/>1 <a href="ticket.html"><span class="color-template color-template-ticket color-template-background-clip">Ticket</span></a><br/>
+<img alt="Ant Pass" height="25" src="img/Ant_Pass.png" width="25"/>1 <a href="ant-pass.html"><span class="color-template color-template-ant-pass color-template-background-clip">Ant Pass</span></a><br/>
+<img alt="Sunflower Seed" height="25" src="img/Sunflower_Seed.png" width="25"/>8 <a href="sunflower-seed.html"><span class="color-template color-template-sunflower-seed color-template-background-clip">Sunflower Seeds</span></a><br/>
+<img alt="Pineapple" height="25" src="img/Pineapple.png" width="25"/>8 <a href="pineapple.html"><span class="color-template color-template-pineapple color-template-background-clip">Pineapples</span></a><br/>
+<img alt="Bitterberry" height="25" src="img/Bitterberry.png" width="25"/>3 <a href="bitterberry.html"><span class="color-template color-template-bitterberry color-template-background-clip">Bitterberries</span></a>
 </p>
 </td></tr>
 <tr>
@@ -369,10 +369,10 @@ Milestone rewards include:
 <li>Level 10</li></ul>
 </td>
 <td><span typeof="mw:Error mw:File"></span>4,000,000 <a href="honey.html"><span class="color-template color-template-honey">Honey</span></a><br/>
-<p><span typeof="mw:Error mw:File"></span>1 <a href="ticket.html"><span class="color-template color-template-ticket color-template-background-clip">Ticket</span></a><br/>
-<span typeof="mw:Error mw:File"></span>8 <a href="sunflower-seed.html"><span class="color-template color-template-sunflower-seed color-template-background-clip">Sunflower Seeds</span></a><br/>
-<span typeof="mw:Error mw:File"></span>8 <a href="pineapple.html"><span class="color-template color-template-pineapple color-template-background-clip">Pineapples</span></a><br/>
-<span typeof="mw:Error mw:File"></span>3 <a href="bitterberry.html"><span class="color-template color-template-bitterberry color-template-background-clip">Bitterberries</span></a>
+<p><img alt="Ticket" height="25" src="img/Ticket.png" width="25"/>1 <a href="ticket.html"><span class="color-template color-template-ticket color-template-background-clip">Ticket</span></a><br/>
+<img alt="Sunflower Seed" height="25" src="img/Sunflower_Seed.png" width="25"/>8 <a href="sunflower-seed.html"><span class="color-template color-template-sunflower-seed color-template-background-clip">Sunflower Seeds</span></a><br/>
+<img alt="Pineapple" height="25" src="img/Pineapple.png" width="25"/>8 <a href="pineapple.html"><span class="color-template color-template-pineapple color-template-background-clip">Pineapples</span></a><br/>
+<img alt="Bitterberry" height="25" src="img/Bitterberry.png" width="25"/>3 <a href="bitterberry.html"><span class="color-template color-template-bitterberry color-template-background-clip">Bitterberries</span></a>
 </p>
 </td></tr>
 <tr>
@@ -381,10 +381,10 @@ Milestone rewards include:
 <li>Level 10</li></ul>
 </td>
 <td><span typeof="mw:Error mw:File"></span>4,500,000 <a href="honey.html"><span class="color-template color-template-honey">Honey</span></a><br/>
-<p><span typeof="mw:Error mw:File"></span>1 <a href="ticket.html"><span class="color-template color-template-ticket color-template-background-clip">Ticket</span></a><br/>
-<span typeof="mw:Error mw:File"></span>8 <a href="sunflower-seed.html"><span class="color-template color-template-sunflower-seed color-template-background-clip">Sunflower Seeds</span></a><br/>
-<span typeof="mw:Error mw:File"></span>8 <a href="pineapple.html"><span class="color-template color-template-pineapple color-template-background-clip">Pineapples</span></a><br/>
-<span typeof="mw:Error mw:File"></span>3 <a href="bitterberry.html"><span class="color-template color-template-bitterberry color-template-background-clip">Bitterberries</span></a>
+<p><img alt="Ticket" height="25" src="img/Ticket.png" width="25"/>1 <a href="ticket.html"><span class="color-template color-template-ticket color-template-background-clip">Ticket</span></a><br/>
+<img alt="Sunflower Seed" height="25" src="img/Sunflower_Seed.png" width="25"/>8 <a href="sunflower-seed.html"><span class="color-template color-template-sunflower-seed color-template-background-clip">Sunflower Seeds</span></a><br/>
+<img alt="Pineapple" height="25" src="img/Pineapple.png" width="25"/>8 <a href="pineapple.html"><span class="color-template color-template-pineapple color-template-background-clip">Pineapples</span></a><br/>
+<img alt="Bitterberry" height="25" src="img/Bitterberry.png" width="25"/>3 <a href="bitterberry.html"><span class="color-template color-template-bitterberry color-template-background-clip">Bitterberries</span></a>
 </p>
 </td></tr>
 <tr>
@@ -393,11 +393,11 @@ Milestone rewards include:
 <li>Level 11</li></ul>
 </td>
 <td><span typeof="mw:Error mw:File"></span>5,000,000 <a href="honey.html"><span class="color-template color-template-honey">Honey</span></a><br/>
-<p><span typeof="mw:Error mw:File"></span>10 <a href="stinger.html"><span class="color-template color-template-stinger color-template-background-clip">Stingers</span></a><br/>
-<span typeof="mw:Error mw:File"></span>1 <a href="ticket.html"><span class="color-template color-template-ticket color-template-background-clip">Ticket</span></a><br/>
-<span typeof="mw:Error mw:File"></span>8 <a href="sunflower-seed.html"><span class="color-template color-template-sunflower-seed color-template-background-clip">Sunflower Seeds</span></a><br/>
-<span typeof="mw:Error mw:File"></span>8 <a href="pineapple.html"><span class="color-template color-template-pineapple color-template-background-clip">Pineapples</span></a><br/>
-<span typeof="mw:Error mw:File"></span>3 <a href="bitterberry.html"><span class="color-template color-template-bitterberry color-template-background-clip">Bitterberries</span></a>
+<p><img alt="Stinger" height="25" src="img/Stinger.png" width="25"/>10 <a href="stinger.html"><span class="color-template color-template-stinger color-template-background-clip">Stingers</span></a><br/>
+<img alt="Ticket" height="25" src="img/Ticket.png" width="25"/>1 <a href="ticket.html"><span class="color-template color-template-ticket color-template-background-clip">Ticket</span></a><br/>
+<img alt="Sunflower Seed" height="25" src="img/Sunflower_Seed.png" width="25"/>8 <a href="sunflower-seed.html"><span class="color-template color-template-sunflower-seed color-template-background-clip">Sunflower Seeds</span></a><br/>
+<img alt="Pineapple" height="25" src="img/Pineapple.png" width="25"/>8 <a href="pineapple.html"><span class="color-template color-template-pineapple color-template-background-clip">Pineapples</span></a><br/>
+<img alt="Bitterberry" height="25" src="img/Bitterberry.png" width="25"/>3 <a href="bitterberry.html"><span class="color-template color-template-bitterberry color-template-background-clip">Bitterberries</span></a>
 </p>
 </td></tr>
 <tr>
@@ -406,10 +406,10 @@ Milestone rewards include:
 <li>Level 11</li></ul>
 </td>
 <td><span typeof="mw:Error mw:File"></span>5,750,000 <a href="honey.html"><span class="color-template color-template-honey">Honey</span></a><br/>
-<p><span typeof="mw:Error mw:File"></span>1 <a href="ticket.html"><span class="color-template color-template-ticket color-template-background-clip">Ticket</span></a><br/>
-<span typeof="mw:Error mw:File"></span>8 <a href="sunflower-seed.html"><span class="color-template color-template-sunflower-seed color-template-background-clip">Sunflower Seeds</span></a><br/>
-<span typeof="mw:Error mw:File"></span>8 <a href="pineapple.html"><span class="color-template color-template-pineapple color-template-background-clip">Pineapples</span></a><br/>
-<span typeof="mw:Error mw:File"></span>3 <a href="bitterberry.html"><span class="color-template color-template-bitterberry color-template-background-clip">Bitterberries</span></a>
+<p><img alt="Ticket" height="25" src="img/Ticket.png" width="25"/>1 <a href="ticket.html"><span class="color-template color-template-ticket color-template-background-clip">Ticket</span></a><br/>
+<img alt="Sunflower Seed" height="25" src="img/Sunflower_Seed.png" width="25"/>8 <a href="sunflower-seed.html"><span class="color-template color-template-sunflower-seed color-template-background-clip">Sunflower Seeds</span></a><br/>
+<img alt="Pineapple" height="25" src="img/Pineapple.png" width="25"/>8 <a href="pineapple.html"><span class="color-template color-template-pineapple color-template-background-clip">Pineapples</span></a><br/>
+<img alt="Bitterberry" height="25" src="img/Bitterberry.png" width="25"/>3 <a href="bitterberry.html"><span class="color-template color-template-bitterberry color-template-background-clip">Bitterberries</span></a>
 </p>
 </td></tr>
 <tr>
@@ -418,10 +418,10 @@ Milestone rewards include:
 <li>Level 11</li></ul>
 </td>
 <td><span typeof="mw:Error mw:File"></span>7,400,000 <a href="honey.html"><span class="color-template color-template-honey">Honey</span></a><br/>
-<p><span typeof="mw:Error mw:File"></span>1 <a href="ticket.html"><span class="color-template color-template-ticket color-template-background-clip">Ticket</span></a><br/>
-<span typeof="mw:Error mw:File"></span>8 <a href="sunflower-seed.html"><span class="color-template color-template-sunflower-seed color-template-background-clip">Sunflower Seeds</span></a><br/>
-<span typeof="mw:Error mw:File"></span>8 <a href="pineapple.html"><span class="color-template color-template-pineapple color-template-background-clip">Pineapples</span></a><br/>
-<span typeof="mw:Error mw:File"></span>3 <a href="bitterberry.html"><span class="color-template color-template-bitterberry color-template-background-clip">Bitterberries</span></a>
+<p><img alt="Ticket" height="25" src="img/Ticket.png" width="25"/>1 <a href="ticket.html"><span class="color-template color-template-ticket color-template-background-clip">Ticket</span></a><br/>
+<img alt="Sunflower Seed" height="25" src="img/Sunflower_Seed.png" width="25"/>8 <a href="sunflower-seed.html"><span class="color-template color-template-sunflower-seed color-template-background-clip">Sunflower Seeds</span></a><br/>
+<img alt="Pineapple" height="25" src="img/Pineapple.png" width="25"/>8 <a href="pineapple.html"><span class="color-template color-template-pineapple color-template-background-clip">Pineapples</span></a><br/>
+<img alt="Bitterberry" height="25" src="img/Bitterberry.png" width="25"/>3 <a href="bitterberry.html"><span class="color-template color-template-bitterberry color-template-background-clip">Bitterberries</span></a>
 </p>
 </td></tr>
 <tr>
@@ -430,10 +430,10 @@ Milestone rewards include:
 <li>Level 11</li></ul>
 </td>
 <td><span typeof="mw:Error mw:File"></span>7,400,000 <a href="honey.html"><span class="color-template color-template-honey">Honey</span></a><br/>
-<p><span typeof="mw:Error mw:File"></span>1 <a href="ticket.html"><span class="color-template color-template-ticket color-template-background-clip">Ticket</span></a><br/>
-<span typeof="mw:Error mw:File"></span>8 <a href="sunflower-seed.html"><span class="color-template color-template-sunflower-seed color-template-background-clip">Sunflower Seeds</span></a><br/>
-<span typeof="mw:Error mw:File"></span>8 <a href="pineapple.html"><span class="color-template color-template-pineapple color-template-background-clip">Pineapples</span></a><br/>
-<span typeof="mw:Error mw:File"></span>3 <a href="bitterberry.html"><span class="color-template color-template-bitterberry color-template-background-clip">Bitterberries</span></a>
+<p><img alt="Ticket" height="25" src="img/Ticket.png" width="25"/>1 <a href="ticket.html"><span class="color-template color-template-ticket color-template-background-clip">Ticket</span></a><br/>
+<img alt="Sunflower Seed" height="25" src="img/Sunflower_Seed.png" width="25"/>8 <a href="sunflower-seed.html"><span class="color-template color-template-sunflower-seed color-template-background-clip">Sunflower Seeds</span></a><br/>
+<img alt="Pineapple" height="25" src="img/Pineapple.png" width="25"/>8 <a href="pineapple.html"><span class="color-template color-template-pineapple color-template-background-clip">Pineapples</span></a><br/>
+<img alt="Bitterberry" height="25" src="img/Bitterberry.png" width="25"/>3 <a href="bitterberry.html"><span class="color-template color-template-bitterberry color-template-background-clip">Bitterberries</span></a>
 </p>
 </td></tr>
 <tr>
@@ -442,10 +442,10 @@ Milestone rewards include:
 <li>Level 11</li></ul>
 </td>
 <td><span typeof="mw:Error mw:File"></span>9,000,000 <a href="honey.html"><span class="color-template color-template-honey">Honey</span></a><br/>
-<p><span typeof="mw:Error mw:File"></span>1 <a href="ticket.html"><span class="color-template color-template-ticket color-template-background-clip">Ticket</span></a><br/>
-<span typeof="mw:Error mw:File"></span>9 <a href="sunflower-seed.html"><span class="color-template color-template-sunflower-seed color-template-background-clip">Sunflower Seeds</span></a><br/>
-<span typeof="mw:Error mw:File"></span>9 <a href="pineapple.html"><span class="color-template color-template-pineapple color-template-background-clip">Pineapples</span></a><br/>
-<span typeof="mw:Error mw:File"></span>3 <a href="bitterberry.html"><span class="color-template color-template-bitterberry color-template-background-clip">Bitterberries</span></a>
+<p><img alt="Ticket" height="25" src="img/Ticket.png" width="25"/>1 <a href="ticket.html"><span class="color-template color-template-ticket color-template-background-clip">Ticket</span></a><br/>
+<img alt="Sunflower Seed" height="25" src="img/Sunflower_Seed.png" width="25"/>9 <a href="sunflower-seed.html"><span class="color-template color-template-sunflower-seed color-template-background-clip">Sunflower Seeds</span></a><br/>
+<img alt="Pineapple" height="25" src="img/Pineapple.png" width="25"/>9 <a href="pineapple.html"><span class="color-template color-template-pineapple color-template-background-clip">Pineapples</span></a><br/>
+<img alt="Bitterberry" height="25" src="img/Bitterberry.png" width="25"/>3 <a href="bitterberry.html"><span class="color-template color-template-bitterberry color-template-background-clip">Bitterberries</span></a>
 </p>
 </td></tr>
 <tr>
@@ -454,11 +454,11 @@ Milestone rewards include:
 <li>Level 11</li></ul>
 </td>
 <td><span typeof="mw:Error mw:File"></span>10,500,000 <a href="honey.html"><span class="color-template color-template-honey">Honey</span></a><br/>
-<p><span typeof="mw:Error mw:File"></span>1 <a href="ticket.html"><span class="color-template color-template-ticket color-template-background-clip">Ticket</span></a><br/>
-<span typeof="mw:Error mw:File"></span>1 <a href="ant-pass.html"><span class="color-template color-template-ant-pass color-template-background-clip">Ant Pass</span></a><br/>
-<span typeof="mw:Error mw:File"></span>9 <a href="sunflower-seed.html"><span class="color-template color-template-sunflower-seed color-template-background-clip">Sunflower Seeds</span></a><br/>
-<span typeof="mw:Error mw:File"></span>9 <a href="pineapple.html"><span class="color-template color-template-pineapple color-template-background-clip">Pineapples</span></a><br/>
-<span typeof="mw:Error mw:File"></span>3 <a href="bitterberry.html"><span class="color-template color-template-bitterberry color-template-background-clip">Bitterberries</span></a>
+<p><img alt="Ticket" height="25" src="img/Ticket.png" width="25"/>1 <a href="ticket.html"><span class="color-template color-template-ticket color-template-background-clip">Ticket</span></a><br/>
+<img alt="Ant Pass" height="25" src="img/Ant_Pass.png" width="25"/>1 <a href="ant-pass.html"><span class="color-template color-template-ant-pass color-template-background-clip">Ant Pass</span></a><br/>
+<img alt="Sunflower Seed" height="25" src="img/Sunflower_Seed.png" width="25"/>9 <a href="sunflower-seed.html"><span class="color-template color-template-sunflower-seed color-template-background-clip">Sunflower Seeds</span></a><br/>
+<img alt="Pineapple" height="25" src="img/Pineapple.png" width="25"/>9 <a href="pineapple.html"><span class="color-template color-template-pineapple color-template-background-clip">Pineapples</span></a><br/>
+<img alt="Bitterberry" height="25" src="img/Bitterberry.png" width="25"/>3 <a href="bitterberry.html"><span class="color-template color-template-bitterberry color-template-background-clip">Bitterberries</span></a>
 </p>
 </td></tr>
 <tr>
@@ -467,11 +467,11 @@ Milestone rewards include:
 <li>Level 11</li></ul>
 </td>
 <td><span typeof="mw:Error mw:File"></span>10,200,000 <a href="honey.html"><span class="color-template color-template-honey">Honey</span></a><br/>
-<p><span typeof="mw:Error mw:File"></span>1 <a href="ticket.html"><span class="color-template color-template-ticket color-template-background-clip">Ticket</span></a><br/>
-<span typeof="mw:Error mw:File"></span>1 <a href="ant-pass.html"><span class="color-template color-template-ant-pass color-template-background-clip">Ant Pass</span></a><br/>
-<span typeof="mw:Error mw:File"></span>9 <a href="sunflower-seed.html"><span class="color-template color-template-sunflower-seed color-template-background-clip">Sunflower Seeds</span></a><br/>
-<span typeof="mw:Error mw:File"></span>9 <a href="pineapple.html"><span class="color-template color-template-pineapple color-template-background-clip">Pineapples</span></a><br/>
-<span typeof="mw:Error mw:File"></span>3 <a href="bitterberry.html"><span class="color-template color-template-bitterberry color-template-background-clip">Bitterberries</span></a>
+<p><img alt="Ticket" height="25" src="img/Ticket.png" width="25"/>1 <a href="ticket.html"><span class="color-template color-template-ticket color-template-background-clip">Ticket</span></a><br/>
+<img alt="Ant Pass" height="25" src="img/Ant_Pass.png" width="25"/>1 <a href="ant-pass.html"><span class="color-template color-template-ant-pass color-template-background-clip">Ant Pass</span></a><br/>
+<img alt="Sunflower Seed" height="25" src="img/Sunflower_Seed.png" width="25"/>9 <a href="sunflower-seed.html"><span class="color-template color-template-sunflower-seed color-template-background-clip">Sunflower Seeds</span></a><br/>
+<img alt="Pineapple" height="25" src="img/Pineapple.png" width="25"/>9 <a href="pineapple.html"><span class="color-template color-template-pineapple color-template-background-clip">Pineapples</span></a><br/>
+<img alt="Bitterberry" height="25" src="img/Bitterberry.png" width="25"/>3 <a href="bitterberry.html"><span class="color-template color-template-bitterberry color-template-background-clip">Bitterberries</span></a>
 </p>
 </td></tr>
 <tr>
@@ -480,10 +480,10 @@ Milestone rewards include:
 <li>Level 12</li></ul>
 </td>
 <td><span typeof="mw:Error mw:File"></span>11,000,000 <a href="honey.html"><span class="color-template color-template-honey">Honey</span></a><br/>
-<p><span typeof="mw:Error mw:File"></span>1 <a href="ticket.html"><span class="color-template color-template-ticket color-template-background-clip">Ticket</span></a><br/>
-<span typeof="mw:Error mw:File"></span>9 <a href="sunflower-seed.html"><span class="color-template color-template-sunflower-seed color-template-background-clip">Sunflower Seeds</span></a><br/>
-<span typeof="mw:Error mw:File"></span>9 <a href="pineapple.html"><span class="color-template color-template-pineapple color-template-background-clip">Pineapples</span></a><br/>
-<span typeof="mw:Error mw:File"></span>3 <a href="bitterberry.html"><span class="color-template color-template-bitterberry color-template-background-clip">Bitterberries</span></a>
+<p><img alt="Ticket" height="25" src="img/Ticket.png" width="25"/>1 <a href="ticket.html"><span class="color-template color-template-ticket color-template-background-clip">Ticket</span></a><br/>
+<img alt="Sunflower Seed" height="25" src="img/Sunflower_Seed.png" width="25"/>9 <a href="sunflower-seed.html"><span class="color-template color-template-sunflower-seed color-template-background-clip">Sunflower Seeds</span></a><br/>
+<img alt="Pineapple" height="25" src="img/Pineapple.png" width="25"/>9 <a href="pineapple.html"><span class="color-template color-template-pineapple color-template-background-clip">Pineapples</span></a><br/>
+<img alt="Bitterberry" height="25" src="img/Bitterberry.png" width="25"/>3 <a href="bitterberry.html"><span class="color-template color-template-bitterberry color-template-background-clip">Bitterberries</span></a>
 </p>
 </td></tr>
 <tr>
@@ -492,10 +492,10 @@ Milestone rewards include:
 <li>Level 12</li></ul>
 </td>
 <td><span typeof="mw:Error mw:File"></span>14,500,000 <a href="honey.html"><span class="color-template color-template-honey">Honey</span></a><br/>
-<p><span typeof="mw:Error mw:File"></span>1 <a href="ticket.html"><span class="color-template color-template-ticket color-template-background-clip">Ticket</span></a><br/>
-<span typeof="mw:Error mw:File"></span>9 <a href="sunflower-seed.html"><span class="color-template color-template-sunflower-seed color-template-background-clip">Sunflower Seeds</span></a><br/>
-<span typeof="mw:Error mw:File"></span>9 <a href="pineapple.html"><span class="color-template color-template-pineapple color-template-background-clip">Pineapples</span></a><br/>
-<span typeof="mw:Error mw:File"></span>3 <a href="bitterberry.html"><span class="color-template color-template-bitterberry color-template-background-clip">Bitterberries</span></a>
+<p><img alt="Ticket" height="25" src="img/Ticket.png" width="25"/>1 <a href="ticket.html"><span class="color-template color-template-ticket color-template-background-clip">Ticket</span></a><br/>
+<img alt="Sunflower Seed" height="25" src="img/Sunflower_Seed.png" width="25"/>9 <a href="sunflower-seed.html"><span class="color-template color-template-sunflower-seed color-template-background-clip">Sunflower Seeds</span></a><br/>
+<img alt="Pineapple" height="25" src="img/Pineapple.png" width="25"/>9 <a href="pineapple.html"><span class="color-template color-template-pineapple color-template-background-clip">Pineapples</span></a><br/>
+<img alt="Bitterberry" height="25" src="img/Bitterberry.png" width="25"/>3 <a href="bitterberry.html"><span class="color-template color-template-bitterberry color-template-background-clip">Bitterberries</span></a>
 </p>
 </td></tr>
 <tr>
@@ -504,10 +504,10 @@ Milestone rewards include:
 <li>Level 12</li></ul>
 </td>
 <td><span typeof="mw:Error mw:File"></span>13,500,000 <a href="honey.html"><span class="color-template color-template-honey">Honey</span></a><br/>
-<p><span typeof="mw:Error mw:File"></span>1 <a href="ticket.html"><span class="color-template color-template-ticket color-template-background-clip">Ticket</span></a><br/>
-<span typeof="mw:Error mw:File"></span>10 <a href="sunflower-seed.html"><span class="color-template color-template-sunflower-seed color-template-background-clip">Sunflower Seeds</span></a><br/>
-<span typeof="mw:Error mw:File"></span>10 <a href="pineapple.html"><span class="color-template color-template-pineapple color-template-background-clip">Pineapples</span></a><br/>
-<span typeof="mw:Error mw:File"></span>3 <a href="bitterberry.html"><span class="color-template color-template-bitterberry color-template-background-clip">Bitterberries</span></a>
+<p><img alt="Ticket" height="25" src="img/Ticket.png" width="25"/>1 <a href="ticket.html"><span class="color-template color-template-ticket color-template-background-clip">Ticket</span></a><br/>
+<img alt="Sunflower Seed" height="25" src="img/Sunflower_Seed.png" width="25"/>10 <a href="sunflower-seed.html"><span class="color-template color-template-sunflower-seed color-template-background-clip">Sunflower Seeds</span></a><br/>
+<img alt="Pineapple" height="25" src="img/Pineapple.png" width="25"/>10 <a href="pineapple.html"><span class="color-template color-template-pineapple color-template-background-clip">Pineapples</span></a><br/>
+<img alt="Bitterberry" height="25" src="img/Bitterberry.png" width="25"/>3 <a href="bitterberry.html"><span class="color-template color-template-bitterberry color-template-background-clip">Bitterberries</span></a>
 </p>
 </td></tr>
 <tr>
@@ -516,12 +516,12 @@ Milestone rewards include:
 <li>Level 12</li></ul>
 </td>
 <td><span typeof="mw:Error mw:File"></span>55,000,000 <a href="honey.html"><span class="color-template color-template-honey">Honey</span></a><br/>
-<p><span typeof="mw:Error mw:File"></span>10 <a href="stinger.html"><span class="color-template color-template-stinger color-template-background-clip">Stingers</span></a><br/>
-<span typeof="mw:Error mw:File"></span>10 <a href="ant-pass.html"><span class="color-template color-template-ant-pass color-template-background-clip">Ant Passes</span></a><br/>
-<span typeof="mw:Error mw:File"></span>1 <a href="ticket.html"><span class="color-template color-template-ticket color-template-background-clip">Ticket</span></a><br/>
-<span typeof="mw:Error mw:File"></span>10 <a href="sunflower-seed.html"><span class="color-template color-template-sunflower-seed color-template-background-clip">Sunflower Seeds</span></a><br/>
-<span typeof="mw:Error mw:File"></span>10 <a href="pineapple.html"><span class="color-template color-template-pineapple color-template-background-clip">Pineapples</span></a><br/>
-<span typeof="mw:Error mw:File"></span>4 <a href="bitterberry.html"><span class="color-template color-template-bitterberry color-template-background-clip">Bitterberries</span></a>
+<p><img alt="Stinger" height="25" src="img/Stinger.png" width="25"/>10 <a href="stinger.html"><span class="color-template color-template-stinger color-template-background-clip">Stingers</span></a><br/>
+<img alt="Ant Pass" height="25" src="img/Ant_Pass.png" width="25"/>10 <a href="ant-pass.html"><span class="color-template color-template-ant-pass color-template-background-clip">Ant Passes</span></a><br/>
+<img alt="Ticket" height="25" src="img/Ticket.png" width="25"/>1 <a href="ticket.html"><span class="color-template color-template-ticket color-template-background-clip">Ticket</span></a><br/>
+<img alt="Sunflower Seed" height="25" src="img/Sunflower_Seed.png" width="25"/>10 <a href="sunflower-seed.html"><span class="color-template color-template-sunflower-seed color-template-background-clip">Sunflower Seeds</span></a><br/>
+<img alt="Pineapple" height="25" src="img/Pineapple.png" width="25"/>10 <a href="pineapple.html"><span class="color-template color-template-pineapple color-template-background-clip">Pineapples</span></a><br/>
+<img alt="Bitterberry" height="25" src="img/Bitterberry.png" width="25"/>4 <a href="bitterberry.html"><span class="color-template color-template-bitterberry color-template-background-clip">Bitterberries</span></a>
 </p>
 </td></tr>
 <tr>
@@ -530,10 +530,10 @@ Milestone rewards include:
 <li>Level 12</li></ul>
 </td>
 <td><span typeof="mw:Error mw:File"></span>12,500,000 <a href="honey.html"><span class="color-template color-template-honey">Honey</span></a><br/>
-<p><span typeof="mw:Error mw:File"></span>1 <a href="ticket.html"><span class="color-template color-template-ticket color-template-background-clip">Ticket</span></a><br/>
-<span typeof="mw:Error mw:File"></span>10 <a href="sunflower-seed.html"><span class="color-template color-template-sunflower-seed color-template-background-clip">Sunflower Seeds</span></a><br/>
-<span typeof="mw:Error mw:File"></span>10 <a href="pineapple.html"><span class="color-template color-template-pineapple color-template-background-clip">Pineapples</span></a><br/>
-<span typeof="mw:Error mw:File"></span>4 <a href="bitterberry.html"><span class="color-template color-template-bitterberry color-template-background-clip">Bitterberries</span></a>
+<p><img alt="Ticket" height="25" src="img/Ticket.png" width="25"/>1 <a href="ticket.html"><span class="color-template color-template-ticket color-template-background-clip">Ticket</span></a><br/>
+<img alt="Sunflower Seed" height="25" src="img/Sunflower_Seed.png" width="25"/>10 <a href="sunflower-seed.html"><span class="color-template color-template-sunflower-seed color-template-background-clip">Sunflower Seeds</span></a><br/>
+<img alt="Pineapple" height="25" src="img/Pineapple.png" width="25"/>10 <a href="pineapple.html"><span class="color-template color-template-pineapple color-template-background-clip">Pineapples</span></a><br/>
+<img alt="Bitterberry" height="25" src="img/Bitterberry.png" width="25"/>4 <a href="bitterberry.html"><span class="color-template color-template-bitterberry color-template-background-clip">Bitterberries</span></a>
 </p>
 </td></tr>
 <tr>
@@ -542,10 +542,10 @@ Milestone rewards include:
 <li>Level 12</li></ul>
 </td>
 <td><span typeof="mw:Error mw:File"></span>19,000,000 <a href="honey.html"><span class="color-template color-template-honey">Honey</span></a><br/>
-<p><span typeof="mw:Error mw:File"></span>1 <a href="ticket.html"><span class="color-template color-template-ticket color-template-background-clip">Ticket</span></a><br/>
-<span typeof="mw:Error mw:File"></span>10 <a href="sunflower-seed.html"><span class="color-template color-template-sunflower-seed color-template-background-clip">Sunflower Seeds</span></a><br/>
-<span typeof="mw:Error mw:File"></span>10 <a href="pineapple.html"><span class="color-template color-template-pineapple color-template-background-clip">Pineapples</span></a><br/>
-<span typeof="mw:Error mw:File"></span>4 <a href="bitterberry.html"><span class="color-template color-template-bitterberry color-template-background-clip">Bitterberries</span></a>
+<p><img alt="Ticket" height="25" src="img/Ticket.png" width="25"/>1 <a href="ticket.html"><span class="color-template color-template-ticket color-template-background-clip">Ticket</span></a><br/>
+<img alt="Sunflower Seed" height="25" src="img/Sunflower_Seed.png" width="25"/>10 <a href="sunflower-seed.html"><span class="color-template color-template-sunflower-seed color-template-background-clip">Sunflower Seeds</span></a><br/>
+<img alt="Pineapple" height="25" src="img/Pineapple.png" width="25"/>10 <a href="pineapple.html"><span class="color-template color-template-pineapple color-template-background-clip">Pineapples</span></a><br/>
+<img alt="Bitterberry" height="25" src="img/Bitterberry.png" width="25"/>4 <a href="bitterberry.html"><span class="color-template color-template-bitterberry color-template-background-clip">Bitterberries</span></a>
 </p>
 </td></tr>
 <tr>
@@ -554,10 +554,10 @@ Milestone rewards include:
 <li>Level 12</li></ul>
 </td>
 <td><span typeof="mw:Error mw:File"></span>21,000,000 <a href="honey.html"><span class="color-template color-template-honey">Honey</span></a><br/>
-<p><span typeof="mw:Error mw:File"></span>1 <a href="ticket.html"><span class="color-template color-template-ticket color-template-background-clip">Ticket</span></a><br/>
-<span typeof="mw:Error mw:File"></span>10 <a href="sunflower-seed.html"><span class="color-template color-template-sunflower-seed color-template-background-clip">Sunflower Seeds</span></a><br/>
-<span typeof="mw:Error mw:File"></span>10 <a href="pineapple.html"><span class="color-template color-template-pineapple color-template-background-clip">Pineapples</span></a><br/>
-<span typeof="mw:Error mw:File"></span>4 <a href="bitterberry.html"><span class="color-template color-template-bitterberry color-template-background-clip">Bitterberries</span></a>
+<p><img alt="Ticket" height="25" src="img/Ticket.png" width="25"/>1 <a href="ticket.html"><span class="color-template color-template-ticket color-template-background-clip">Ticket</span></a><br/>
+<img alt="Sunflower Seed" height="25" src="img/Sunflower_Seed.png" width="25"/>10 <a href="sunflower-seed.html"><span class="color-template color-template-sunflower-seed color-template-background-clip">Sunflower Seeds</span></a><br/>
+<img alt="Pineapple" height="25" src="img/Pineapple.png" width="25"/>10 <a href="pineapple.html"><span class="color-template color-template-pineapple color-template-background-clip">Pineapples</span></a><br/>
+<img alt="Bitterberry" height="25" src="img/Bitterberry.png" width="25"/>4 <a href="bitterberry.html"><span class="color-template color-template-bitterberry color-template-background-clip">Bitterberries</span></a>
 </p>
 </td></tr>
 <tr>
@@ -566,10 +566,10 @@ Milestone rewards include:
 <li>Level 12</li></ul>
 </td>
 <td><span typeof="mw:Error mw:File"></span>22,000,000 <a href="honey.html"><span class="color-template color-template-honey">Honey</span></a><br/>
-<p><span typeof="mw:Error mw:File"></span>1 <a href="ticket.html"><span class="color-template color-template-ticket color-template-background-clip">Ticket</span></a><br/>
-<span typeof="mw:Error mw:File"></span>10 <a href="sunflower-seed.html"><span class="color-template color-template-sunflower-seed color-template-background-clip">Sunflower Seeds</span></a><br/>
-<span typeof="mw:Error mw:File"></span>10 <a href="pineapple.html"><span class="color-template color-template-pineapple color-template-background-clip">Pineapples</span></a><br/>
-<span typeof="mw:Error mw:File"></span>4 <a href="bitterberry.html"><span class="color-template color-template-bitterberry color-template-background-clip">Bitterberries</span></a>
+<p><img alt="Ticket" height="25" src="img/Ticket.png" width="25"/>1 <a href="ticket.html"><span class="color-template color-template-ticket color-template-background-clip">Ticket</span></a><br/>
+<img alt="Sunflower Seed" height="25" src="img/Sunflower_Seed.png" width="25"/>10 <a href="sunflower-seed.html"><span class="color-template color-template-sunflower-seed color-template-background-clip">Sunflower Seeds</span></a><br/>
+<img alt="Pineapple" height="25" src="img/Pineapple.png" width="25"/>10 <a href="pineapple.html"><span class="color-template color-template-pineapple color-template-background-clip">Pineapples</span></a><br/>
+<img alt="Bitterberry" height="25" src="img/Bitterberry.png" width="25"/>4 <a href="bitterberry.html"><span class="color-template color-template-bitterberry color-template-background-clip">Bitterberries</span></a>
 </p>
 </td></tr>
 <tr>
@@ -578,10 +578,10 @@ Milestone rewards include:
 <li>Level 13</li></ul>
 </td>
 <td><span typeof="mw:Error mw:File"></span>25,000,000 <a href="honey.html"><span class="color-template color-template-honey">Honey</span></a><br/>
-<p><span typeof="mw:Error mw:File"></span>1 <a href="ticket.html"><span class="color-template color-template-ticket color-template-background-clip">Ticket</span></a><br/>
-<span typeof="mw:Error mw:File"></span>10 <a href="sunflower-seed.html"><span class="color-template color-template-sunflower-seed color-template-background-clip">Sunflower Seeds</span></a><br/>
-<span typeof="mw:Error mw:File"></span>10 <a href="pineapple.html"><span class="color-template color-template-pineapple color-template-background-clip">Pineapples</span></a><br/>
-<span typeof="mw:Error mw:File"></span>4 <a href="bitterberry.html"><span class="color-template color-template-bitterberry color-template-background-clip">Bitterberries</span></a>
+<p><img alt="Ticket" height="25" src="img/Ticket.png" width="25"/>1 <a href="ticket.html"><span class="color-template color-template-ticket color-template-background-clip">Ticket</span></a><br/>
+<img alt="Sunflower Seed" height="25" src="img/Sunflower_Seed.png" width="25"/>10 <a href="sunflower-seed.html"><span class="color-template color-template-sunflower-seed color-template-background-clip">Sunflower Seeds</span></a><br/>
+<img alt="Pineapple" height="25" src="img/Pineapple.png" width="25"/>10 <a href="pineapple.html"><span class="color-template color-template-pineapple color-template-background-clip">Pineapples</span></a><br/>
+<img alt="Bitterberry" height="25" src="img/Bitterberry.png" width="25"/>4 <a href="bitterberry.html"><span class="color-template color-template-bitterberry color-template-background-clip">Bitterberries</span></a>
 </p>
 </td></tr>
 <tr>
@@ -590,11 +590,11 @@ Milestone rewards include:
 <li>Level 13</li></ul>
 </td>
 <td><span typeof="mw:Error mw:File"></span>28,750,000 <a href="honey.html"><span class="color-template color-template-honey">Honey</span></a><br/>
-<p><span typeof="mw:Error mw:File"></span>1 <a href="ticket.html"><span class="color-template color-template-ticket color-template-background-clip">Ticket</span></a><br/>
-<span typeof="mw:Error mw:File"></span>1 <a href="ant-pass.html"><span class="color-template color-template-ant-pass color-template-background-clip">Ant Pass</span></a><br/>
-<span typeof="mw:Error mw:File"></span>10 <a href="sunflower-seed.html"><span class="color-template color-template-sunflower-seed color-template-background-clip">Sunflower Seeds</span></a><br/>
-<span typeof="mw:Error mw:File"></span>10 <a href="pineapple.html"><span class="color-template color-template-pineapple color-template-background-clip">Pineapples</span></a><br/>
-<span typeof="mw:Error mw:File"></span>4 <a href="bitterberry.html"><span class="color-template color-template-bitterberry color-template-background-clip">Bitterberries</span></a>
+<p><img alt="Ticket" height="25" src="img/Ticket.png" width="25"/>1 <a href="ticket.html"><span class="color-template color-template-ticket color-template-background-clip">Ticket</span></a><br/>
+<img alt="Ant Pass" height="25" src="img/Ant_Pass.png" width="25"/>1 <a href="ant-pass.html"><span class="color-template color-template-ant-pass color-template-background-clip">Ant Pass</span></a><br/>
+<img alt="Sunflower Seed" height="25" src="img/Sunflower_Seed.png" width="25"/>10 <a href="sunflower-seed.html"><span class="color-template color-template-sunflower-seed color-template-background-clip">Sunflower Seeds</span></a><br/>
+<img alt="Pineapple" height="25" src="img/Pineapple.png" width="25"/>10 <a href="pineapple.html"><span class="color-template color-template-pineapple color-template-background-clip">Pineapples</span></a><br/>
+<img alt="Bitterberry" height="25" src="img/Bitterberry.png" width="25"/>4 <a href="bitterberry.html"><span class="color-template color-template-bitterberry color-template-background-clip">Bitterberries</span></a>
 </p>
 </td></tr>
 <tr>
@@ -603,10 +603,10 @@ Milestone rewards include:
 <li>Level 13</li></ul>
 </td>
 <td><span typeof="mw:Error mw:File"></span>38,000,000 <a href="honey.html"><span class="color-template color-template-honey">Honey</span></a><br/>
-<p><span typeof="mw:Error mw:File"></span>1 <a href="ticket.html"><span class="color-template color-template-ticket color-template-background-clip">Ticket</span></a><br/>
-<span typeof="mw:Error mw:File"></span>11 <a href="sunflower-seed.html"><span class="color-template color-template-sunflower-seed color-template-background-clip">Sunflower Seeds</span></a><br/>
-<span typeof="mw:Error mw:File"></span>11 <a href="pineapple.html"><span class="color-template color-template-pineapple color-template-background-clip">Pineapples</span></a><br/>
-<span typeof="mw:Error mw:File"></span>4 <a href="bitterberry.html"><span class="color-template color-template-bitterberry color-template-background-clip">Bitterberries</span></a>
+<p><img alt="Ticket" height="25" src="img/Ticket.png" width="25"/>1 <a href="ticket.html"><span class="color-template color-template-ticket color-template-background-clip">Ticket</span></a><br/>
+<img alt="Sunflower Seed" height="25" src="img/Sunflower_Seed.png" width="25"/>11 <a href="sunflower-seed.html"><span class="color-template color-template-sunflower-seed color-template-background-clip">Sunflower Seeds</span></a><br/>
+<img alt="Pineapple" height="25" src="img/Pineapple.png" width="25"/>11 <a href="pineapple.html"><span class="color-template color-template-pineapple color-template-background-clip">Pineapples</span></a><br/>
+<img alt="Bitterberry" height="25" src="img/Bitterberry.png" width="25"/>4 <a href="bitterberry.html"><span class="color-template color-template-bitterberry color-template-background-clip">Bitterberries</span></a>
 </p>
 </td></tr>
 <tr>
@@ -615,10 +615,10 @@ Milestone rewards include:
 <li>Level 13</li></ul>
 </td>
 <td><span typeof="mw:Error mw:File"></span>25,000,000 <a href="honey.html"><span class="color-template color-template-honey">Honey</span></a><br/>
-<p><span typeof="mw:Error mw:File"></span>1 <a href="ticket.html"><span class="color-template color-template-ticket color-template-background-clip">Ticket</span></a><br/>
-<span typeof="mw:Error mw:File"></span>11 <a href="sunflower-seed.html"><span class="color-template color-template-sunflower-seed color-template-background-clip">Sunflower Seeds</span></a><br/>
-<span typeof="mw:Error mw:File"></span>11 <a href="pineapple.html"><span class="color-template color-template-pineapple color-template-background-clip">Pineapples</span></a><br/>
-<span typeof="mw:Error mw:File"></span>4 <a href="bitterberry.html"><span class="color-template color-template-bitterberry color-template-background-clip">Bitterberries</span></a>
+<p><img alt="Ticket" height="25" src="img/Ticket.png" width="25"/>1 <a href="ticket.html"><span class="color-template color-template-ticket color-template-background-clip">Ticket</span></a><br/>
+<img alt="Sunflower Seed" height="25" src="img/Sunflower_Seed.png" width="25"/>11 <a href="sunflower-seed.html"><span class="color-template color-template-sunflower-seed color-template-background-clip">Sunflower Seeds</span></a><br/>
+<img alt="Pineapple" height="25" src="img/Pineapple.png" width="25"/>11 <a href="pineapple.html"><span class="color-template color-template-pineapple color-template-background-clip">Pineapples</span></a><br/>
+<img alt="Bitterberry" height="25" src="img/Bitterberry.png" width="25"/>4 <a href="bitterberry.html"><span class="color-template color-template-bitterberry color-template-background-clip">Bitterberries</span></a>
 </p>
 </td></tr>
 <tr>
@@ -627,10 +627,10 @@ Milestone rewards include:
 <li>Level 13</li></ul>
 </td>
 <td><span typeof="mw:Error mw:File"></span>25,000,000 <a href="honey.html"><span class="color-template color-template-honey">Honey</span></a><br/>
-<p><span typeof="mw:Error mw:File"></span>1 <a href="ticket.html"><span class="color-template color-template-ticket color-template-background-clip">Ticket</span></a><br/>
-<span typeof="mw:Error mw:File"></span>11 <a href="sunflower-seed.html"><span class="color-template color-template-sunflower-seed color-template-background-clip">Sunflower Seeds</span></a><br/>
-<span typeof="mw:Error mw:File"></span>11 <a href="pineapple.html"><span class="color-template color-template-pineapple color-template-background-clip">Pineapples</span></a><br/>
-<span typeof="mw:Error mw:File"></span>4 <a href="bitterberry.html"><span class="color-template color-template-bitterberry color-template-background-clip">Bitterberries</span></a>
+<p><img alt="Ticket" height="25" src="img/Ticket.png" width="25"/>1 <a href="ticket.html"><span class="color-template color-template-ticket color-template-background-clip">Ticket</span></a><br/>
+<img alt="Sunflower Seed" height="25" src="img/Sunflower_Seed.png" width="25"/>11 <a href="sunflower-seed.html"><span class="color-template color-template-sunflower-seed color-template-background-clip">Sunflower Seeds</span></a><br/>
+<img alt="Pineapple" height="25" src="img/Pineapple.png" width="25"/>11 <a href="pineapple.html"><span class="color-template color-template-pineapple color-template-background-clip">Pineapples</span></a><br/>
+<img alt="Bitterberry" height="25" src="img/Bitterberry.png" width="25"/>4 <a href="bitterberry.html"><span class="color-template color-template-bitterberry color-template-background-clip">Bitterberries</span></a>
 </p>
 </td></tr>
 <tr>
@@ -639,11 +639,11 @@ Milestone rewards include:
 <li>Level 13</li></ul>
 </td>
 <td><span typeof="mw:Error mw:File"></span>25,000,000 <a href="honey.html"><span class="color-template color-template-honey">Honey</span></a><br/>
-<p><span typeof="mw:Error mw:File"></span>1 <a href="egg.html#Mythic_Egg"><span class="color-template color-template-mythic-egg color-template-background-clip">Mythic Egg</span></a><br/>
-<span typeof="mw:Error mw:File"></span>1 <a href="ticket.html"><span class="color-template color-template-ticket color-template-background-clip">Ticket</span></a><br/>
-<span typeof="mw:Error mw:File"></span>11 <a href="sunflower-seed.html"><span class="color-template color-template-sunflower-seed color-template-background-clip">Sunflower Seeds</span></a><br/>
-<span typeof="mw:Error mw:File"></span>11 <a href="pineapple.html"><span class="color-template color-template-pineapple color-template-background-clip">Pineapples</span></a><br/>
-<span typeof="mw:Error mw:File"></span>4 <a href="bitterberry.html"><span class="color-template color-template-bitterberry color-template-background-clip">Bitterberries</span></a>
+<p><img alt="Mythic Egg" height="25" src="img/Mythic_Egg.png" width="25"/>1 <a href="egg.html#Mythic_Egg"><span class="color-template color-template-mythic-egg color-template-background-clip">Mythic Egg</span></a><br/>
+<img alt="Ticket" height="25" src="img/Ticket.png" width="25"/>1 <a href="ticket.html"><span class="color-template color-template-ticket color-template-background-clip">Ticket</span></a><br/>
+<img alt="Sunflower Seed" height="25" src="img/Sunflower_Seed.png" width="25"/>11 <a href="sunflower-seed.html"><span class="color-template color-template-sunflower-seed color-template-background-clip">Sunflower Seeds</span></a><br/>
+<img alt="Pineapple" height="25" src="img/Pineapple.png" width="25"/>11 <a href="pineapple.html"><span class="color-template color-template-pineapple color-template-background-clip">Pineapples</span></a><br/>
+<img alt="Bitterberry" height="25" src="img/Bitterberry.png" width="25"/>4 <a href="bitterberry.html"><span class="color-template color-template-bitterberry color-template-background-clip">Bitterberries</span></a>
 </p>
 </td></tr></tbody></table>
 
@@ -661,10 +661,10 @@ Milestone rewards include:
 <li>Level 13</li></ul>
 </td>
 <td><span typeof="mw:Error mw:File"></span>39,000,000 <a href="honey.html"><span class="color-template color-template-honey">Honey</span></a><br/>
-<p><span typeof="mw:Error mw:File"></span>1 <a href="ticket.html"><span class="color-template color-template-ticket color-template-background-clip">Ticket</span></a><br/>
-<span typeof="mw:Error mw:File"></span>11 <a href="sunflower-seed.html"><span class="color-template color-template-sunflower-seed color-template-background-clip">Sunflower Seeds</span></a><br/>
-<span typeof="mw:Error mw:File"></span>11 <a href="pineapple.html"><span class="color-template color-template-pineapple color-template-background-clip">Pineapples</span></a><br/>
-<span typeof="mw:Error mw:File"></span>4 <a href="bitterberry.html"><span class="color-template color-template-bitterberry color-template-background-clip">Bitterberries</span></a>
+<p><img alt="Ticket" height="25" src="img/Ticket.png" width="25"/>1 <a href="ticket.html"><span class="color-template color-template-ticket color-template-background-clip">Ticket</span></a><br/>
+<img alt="Sunflower Seed" height="25" src="img/Sunflower_Seed.png" width="25"/>11 <a href="sunflower-seed.html"><span class="color-template color-template-sunflower-seed color-template-background-clip">Sunflower Seeds</span></a><br/>
+<img alt="Pineapple" height="25" src="img/Pineapple.png" width="25"/>11 <a href="pineapple.html"><span class="color-template color-template-pineapple color-template-background-clip">Pineapples</span></a><br/>
+<img alt="Bitterberry" height="25" src="img/Bitterberry.png" width="25"/>4 <a href="bitterberry.html"><span class="color-template color-template-bitterberry color-template-background-clip">Bitterberries</span></a>
 </p>
 </td></tr>
 <tr>
@@ -673,10 +673,10 @@ Milestone rewards include:
 <li>Level 13</li></ul>
 </td>
 <td><span typeof="mw:Error mw:File"></span>40,000,000 <a href="honey.html"><span class="color-template color-template-honey">Honey</span></a><br/>
-<p><span typeof="mw:Error mw:File"></span>1 <a href="ticket.html"><span class="color-template color-template-ticket color-template-background-clip">Ticket</span></a><br/>
-<span typeof="mw:Error mw:File"></span>11 <a href="sunflower-seed.html"><span class="color-template color-template-sunflower-seed color-template-background-clip">Sunflower Seeds</span></a><br/>
-<span typeof="mw:Error mw:File"></span>11 <a href="pineapple.html"><span class="color-template color-template-pineapple color-template-background-clip">Pineapples</span></a><br/>
-<span typeof="mw:Error mw:File"></span>4 <a href="bitterberry.html"><span class="color-template color-template-bitterberry color-template-background-clip">Bitterberries</span></a>
+<p><img alt="Ticket" height="25" src="img/Ticket.png" width="25"/>1 <a href="ticket.html"><span class="color-template color-template-ticket color-template-background-clip">Ticket</span></a><br/>
+<img alt="Sunflower Seed" height="25" src="img/Sunflower_Seed.png" width="25"/>11 <a href="sunflower-seed.html"><span class="color-template color-template-sunflower-seed color-template-background-clip">Sunflower Seeds</span></a><br/>
+<img alt="Pineapple" height="25" src="img/Pineapple.png" width="25"/>11 <a href="pineapple.html"><span class="color-template color-template-pineapple color-template-background-clip">Pineapples</span></a><br/>
+<img alt="Bitterberry" height="25" src="img/Bitterberry.png" width="25"/>4 <a href="bitterberry.html"><span class="color-template color-template-bitterberry color-template-background-clip">Bitterberries</span></a>
 </p>
 </td></tr>
 <tr>
@@ -685,10 +685,10 @@ Milestone rewards include:
 <li>Level 13</li></ul>
 </td>
 <td><span typeof="mw:Error mw:File"></span>40,000,000 <a href="honey.html"><span class="color-template color-template-honey">Honey</span></a><br/>
-<p><span typeof="mw:Error mw:File"></span>1 <a href="ticket.html"><span class="color-template color-template-ticket color-template-background-clip">Ticket</span></a><br/>
-<span typeof="mw:Error mw:File"></span>11 <a href="sunflower-seed.html"><span class="color-template color-template-sunflower-seed color-template-background-clip">Sunflower Seeds</span></a><br/>
-<span typeof="mw:Error mw:File"></span>11 <a href="pineapple.html"><span class="color-template color-template-pineapple color-template-background-clip">Pineapples</span></a><br/>
-<span typeof="mw:Error mw:File"></span>4 <a href="bitterberry.html"><span class="color-template color-template-bitterberry color-template-background-clip">Bitterberries</span></a>
+<p><img alt="Ticket" height="25" src="img/Ticket.png" width="25"/>1 <a href="ticket.html"><span class="color-template color-template-ticket color-template-background-clip">Ticket</span></a><br/>
+<img alt="Sunflower Seed" height="25" src="img/Sunflower_Seed.png" width="25"/>11 <a href="sunflower-seed.html"><span class="color-template color-template-sunflower-seed color-template-background-clip">Sunflower Seeds</span></a><br/>
+<img alt="Pineapple" height="25" src="img/Pineapple.png" width="25"/>11 <a href="pineapple.html"><span class="color-template color-template-pineapple color-template-background-clip">Pineapples</span></a><br/>
+<img alt="Bitterberry" height="25" src="img/Bitterberry.png" width="25"/>4 <a href="bitterberry.html"><span class="color-template color-template-bitterberry color-template-background-clip">Bitterberries</span></a>
 </p>
 </td></tr>
 <tr>
@@ -697,10 +697,10 @@ Milestone rewards include:
 <li>Level 14</li></ul>
 </td>
 <td><span typeof="mw:Error mw:File"></span>44,000,000 <a href="honey.html"><span class="color-template color-template-honey">Honey</span></a><br/>
-<p><span typeof="mw:Error mw:File"></span>1 <a href="ticket.html"><span class="color-template color-template-ticket color-template-background-clip">Ticket</span></a><br/>
-<span typeof="mw:Error mw:File"></span>11 <a href="sunflower-seed.html"><span class="color-template color-template-sunflower-seed color-template-background-clip">Sunflower Seeds</span></a><br/>
-<span typeof="mw:Error mw:File"></span>11 <a href="pineapple.html"><span class="color-template color-template-pineapple color-template-background-clip">Pineapples</span></a><br/>
-<span typeof="mw:Error mw:File"></span>4 <a href="bitterberry.html"><span class="color-template color-template-bitterberry color-template-background-clip">Bitterberries</span></a>
+<p><img alt="Ticket" height="25" src="img/Ticket.png" width="25"/>1 <a href="ticket.html"><span class="color-template color-template-ticket color-template-background-clip">Ticket</span></a><br/>
+<img alt="Sunflower Seed" height="25" src="img/Sunflower_Seed.png" width="25"/>11 <a href="sunflower-seed.html"><span class="color-template color-template-sunflower-seed color-template-background-clip">Sunflower Seeds</span></a><br/>
+<img alt="Pineapple" height="25" src="img/Pineapple.png" width="25"/>11 <a href="pineapple.html"><span class="color-template color-template-pineapple color-template-background-clip">Pineapples</span></a><br/>
+<img alt="Bitterberry" height="25" src="img/Bitterberry.png" width="25"/>4 <a href="bitterberry.html"><span class="color-template color-template-bitterberry color-template-background-clip">Bitterberries</span></a>
 </p>
 </td></tr>
 <tr>
@@ -709,10 +709,10 @@ Milestone rewards include:
 <li>Level 14</li></ul>
 </td>
 <td><span typeof="mw:Error mw:File"></span>45,000,000 <a href="honey.html"><span class="color-template color-template-honey">Honey</span></a><br/>
-<p><span typeof="mw:Error mw:File"></span>1 <a href="ticket.html"><span class="color-template color-template-ticket color-template-background-clip">Ticket</span></a><br/>
-<span typeof="mw:Error mw:File"></span>12 <a href="sunflower-seed.html"><span class="color-template color-template-sunflower-seed color-template-background-clip">Sunflower Seeds</span></a><br/>
-<span typeof="mw:Error mw:File"></span>12 <a href="pineapple.html"><span class="color-template color-template-pineapple color-template-background-clip">Pineapples</span></a><br/>
-<span typeof="mw:Error mw:File"></span>4 <a href="bitterberry.html"><span class="color-template color-template-bitterberry color-template-background-clip">Bitterberries</span></a>
+<p><img alt="Ticket" height="25" src="img/Ticket.png" width="25"/>1 <a href="ticket.html"><span class="color-template color-template-ticket color-template-background-clip">Ticket</span></a><br/>
+<img alt="Sunflower Seed" height="25" src="img/Sunflower_Seed.png" width="25"/>12 <a href="sunflower-seed.html"><span class="color-template color-template-sunflower-seed color-template-background-clip">Sunflower Seeds</span></a><br/>
+<img alt="Pineapple" height="25" src="img/Pineapple.png" width="25"/>12 <a href="pineapple.html"><span class="color-template color-template-pineapple color-template-background-clip">Pineapples</span></a><br/>
+<img alt="Bitterberry" height="25" src="img/Bitterberry.png" width="25"/>4 <a href="bitterberry.html"><span class="color-template color-template-bitterberry color-template-background-clip">Bitterberries</span></a>
 </p>
 </td></tr>
 <tr>
@@ -721,10 +721,10 @@ Milestone rewards include:
 <li>Level 14</li></ul>
 </td>
 <td><span typeof="mw:Error mw:File"></span>50,000,000 <a href="honey.html"><span class="color-template color-template-honey">Honey</span></a><br/>
-<p><span typeof="mw:Error mw:File"></span>1 <a href="ticket.html"><span class="color-template color-template-ticket color-template-background-clip">Ticket</span></a><br/>
-<span typeof="mw:Error mw:File"></span>12 <a href="sunflower-seed.html"><span class="color-template color-template-sunflower-seed color-template-background-clip">Sunflower Seeds</span></a><br/>
-<span typeof="mw:Error mw:File"></span>12 <a href="pineapple.html"><span class="color-template color-template-pineapple color-template-background-clip">Pineapples</span></a><br/>
-<span typeof="mw:Error mw:File"></span>4 <a href="bitterberry.html"><span class="color-template color-template-bitterberry color-template-background-clip">Bitterberries</span></a>
+<p><img alt="Ticket" height="25" src="img/Ticket.png" width="25"/>1 <a href="ticket.html"><span class="color-template color-template-ticket color-template-background-clip">Ticket</span></a><br/>
+<img alt="Sunflower Seed" height="25" src="img/Sunflower_Seed.png" width="25"/>12 <a href="sunflower-seed.html"><span class="color-template color-template-sunflower-seed color-template-background-clip">Sunflower Seeds</span></a><br/>
+<img alt="Pineapple" height="25" src="img/Pineapple.png" width="25"/>12 <a href="pineapple.html"><span class="color-template color-template-pineapple color-template-background-clip">Pineapples</span></a><br/>
+<img alt="Bitterberry" height="25" src="img/Bitterberry.png" width="25"/>4 <a href="bitterberry.html"><span class="color-template color-template-bitterberry color-template-background-clip">Bitterberries</span></a>
 </p>
 </td></tr>
 <tr>
@@ -733,10 +733,10 @@ Milestone rewards include:
 <li>Level 14</li></ul>
 </td>
 <td><span typeof="mw:Error mw:File"></span>51,000,000 <a href="honey.html"><span class="color-template color-template-honey">Honey</span></a><br/>
-<p><span typeof="mw:Error mw:File"></span>1 <a href="ticket.html"><span class="color-template color-template-ticket color-template-background-clip">Ticket</span></a><br/>
-<span typeof="mw:Error mw:File"></span>12 <a href="sunflower-seed.html"><span class="color-template color-template-sunflower-seed color-template-background-clip">Sunflower Seeds</span></a><br/>
-<span typeof="mw:Error mw:File"></span>12 <a href="pineapple.html"><span class="color-template color-template-pineapple color-template-background-clip">Pineapples</span></a><br/>
-<span typeof="mw:Error mw:File"></span>4 <a href="bitterberry.html"><span class="color-template color-template-bitterberry color-template-background-clip">Bitterberries</span></a>
+<p><img alt="Ticket" height="25" src="img/Ticket.png" width="25"/>1 <a href="ticket.html"><span class="color-template color-template-ticket color-template-background-clip">Ticket</span></a><br/>
+<img alt="Sunflower Seed" height="25" src="img/Sunflower_Seed.png" width="25"/>12 <a href="sunflower-seed.html"><span class="color-template color-template-sunflower-seed color-template-background-clip">Sunflower Seeds</span></a><br/>
+<img alt="Pineapple" height="25" src="img/Pineapple.png" width="25"/>12 <a href="pineapple.html"><span class="color-template color-template-pineapple color-template-background-clip">Pineapples</span></a><br/>
+<img alt="Bitterberry" height="25" src="img/Bitterberry.png" width="25"/>4 <a href="bitterberry.html"><span class="color-template color-template-bitterberry color-template-background-clip">Bitterberries</span></a>
 </p>
 </td></tr>
 <tr>
@@ -745,10 +745,10 @@ Milestone rewards include:
 <li>Level 14</li></ul>
 </td>
 <td><span typeof="mw:Error mw:File"></span>55,000,000 <a href="honey.html"><span class="color-template color-template-honey">Honey</span></a><br/>
-<p><span typeof="mw:Error mw:File"></span>1 <a href="ticket.html"><span class="color-template color-template-ticket color-template-background-clip">Ticket</span></a><br/>
-<span typeof="mw:Error mw:File"></span>12 <a href="sunflower-seed.html"><span class="color-template color-template-sunflower-seed color-template-background-clip">Sunflower Seeds</span></a><br/>
-<span typeof="mw:Error mw:File"></span>12 <a href="pineapple.html"><span class="color-template color-template-pineapple color-template-background-clip">Pineapples</span></a><br/>
-<span typeof="mw:Error mw:File"></span>4 <a href="bitterberry.html"><span class="color-template color-template-bitterberry color-template-background-clip">Bitterberries</span></a>
+<p><img alt="Ticket" height="25" src="img/Ticket.png" width="25"/>1 <a href="ticket.html"><span class="color-template color-template-ticket color-template-background-clip">Ticket</span></a><br/>
+<img alt="Sunflower Seed" height="25" src="img/Sunflower_Seed.png" width="25"/>12 <a href="sunflower-seed.html"><span class="color-template color-template-sunflower-seed color-template-background-clip">Sunflower Seeds</span></a><br/>
+<img alt="Pineapple" height="25" src="img/Pineapple.png" width="25"/>12 <a href="pineapple.html"><span class="color-template color-template-pineapple color-template-background-clip">Pineapples</span></a><br/>
+<img alt="Bitterberry" height="25" src="img/Bitterberry.png" width="25"/>4 <a href="bitterberry.html"><span class="color-template color-template-bitterberry color-template-background-clip">Bitterberries</span></a>
 </p>
 </td></tr>
 <tr>
@@ -757,9 +757,9 @@ Milestone rewards include:
 <li>Level 14</li></ul>
 </td>
 <td><span typeof="mw:Error mw:File"></span>60,000,000 <a href="honey.html"><span class="color-template color-template-honey">Honey</span></a><br/>
-<p><span typeof="mw:Error mw:File"></span>1 <a href="ticket.html"><span class="color-template color-template-ticket color-template-background-clip">Ticket</span></a><br/>
-<span typeof="mw:Error mw:File"></span>12 <a href="sunflower-seed.html"><span class="color-template color-template-sunflower-seed color-template-background-clip">Sunflower Seeds</span></a><br/>
-<span typeof="mw:Error mw:File"></span>4 <a href="bitterberry.html"><span class="color-template color-template-bitterberry color-template-background-clip">Bitterberries</span></a>
+<p><img alt="Ticket" height="25" src="img/Ticket.png" width="25"/>1 <a href="ticket.html"><span class="color-template color-template-ticket color-template-background-clip">Ticket</span></a><br/>
+<img alt="Sunflower Seed" height="25" src="img/Sunflower_Seed.png" width="25"/>12 <a href="sunflower-seed.html"><span class="color-template color-template-sunflower-seed color-template-background-clip">Sunflower Seeds</span></a><br/>
+<img alt="Bitterberry" height="25" src="img/Bitterberry.png" width="25"/>4 <a href="bitterberry.html"><span class="color-template color-template-bitterberry color-template-background-clip">Bitterberries</span></a>
 </p>
 </td></tr>
 <tr>
@@ -768,10 +768,10 @@ Milestone rewards include:
 <li>Level 14</li></ul>
 </td>
 <td><span typeof="mw:Error mw:File"></span>60,000,000 <a href="honey.html"><span class="color-template color-template-honey">Honey</span></a><br/>
-<p><span typeof="mw:Error mw:File"></span>1 <a href="ticket.html"><span class="color-template color-template-ticket color-template-background-clip">Ticket</span></a><br/>
-<span typeof="mw:Error mw:File"></span>12 <a href="sunflower-seed.html"><span class="color-template color-template-sunflower-seed color-template-background-clip">Sunflower Seeds</span></a><br/>
-<span typeof="mw:Error mw:File"></span>12 <a href="pineapple.html"><span class="color-template color-template-pineapple color-template-background-clip">Pineapples</span></a><br/>
-<span typeof="mw:Error mw:File"></span>4 <a href="bitterberry.html"><span class="color-template color-template-bitterberry color-template-background-clip">Bitterberries</span></a>
+<p><img alt="Ticket" height="25" src="img/Ticket.png" width="25"/>1 <a href="ticket.html"><span class="color-template color-template-ticket color-template-background-clip">Ticket</span></a><br/>
+<img alt="Sunflower Seed" height="25" src="img/Sunflower_Seed.png" width="25"/>12 <a href="sunflower-seed.html"><span class="color-template color-template-sunflower-seed color-template-background-clip">Sunflower Seeds</span></a><br/>
+<img alt="Pineapple" height="25" src="img/Pineapple.png" width="25"/>12 <a href="pineapple.html"><span class="color-template color-template-pineapple color-template-background-clip">Pineapples</span></a><br/>
+<img alt="Bitterberry" height="25" src="img/Bitterberry.png" width="25"/>4 <a href="bitterberry.html"><span class="color-template color-template-bitterberry color-template-background-clip">Bitterberries</span></a>
 </p>
 </td></tr>
 <tr>
@@ -780,10 +780,10 @@ Milestone rewards include:
 <li>Level 14</li></ul>
 </td>
 <td><span typeof="mw:Error mw:File"></span>60,000,000 <a href="honey.html"><span class="color-template color-template-honey">Honey</span></a><br/>
-<p><span typeof="mw:Error mw:File"></span>1 <a href="ticket.html"><span class="color-template color-template-ticket color-template-background-clip">Ticket</span></a><br/>
-<span typeof="mw:Error mw:File"></span>12 <a href="sunflower-seed.html"><span class="color-template color-template-sunflower-seed color-template-background-clip">Sunflower Seeds</span></a><br/>
-<span typeof="mw:Error mw:File"></span>12 <a href="pineapple.html"><span class="color-template color-template-pineapple color-template-background-clip">Pineapples</span></a><br/>
-<span typeof="mw:Error mw:File"></span>4 <a href="bitterberry.html"><span class="color-template color-template-bitterberry color-template-background-clip">Bitterberries</span></a>
+<p><img alt="Ticket" height="25" src="img/Ticket.png" width="25"/>1 <a href="ticket.html"><span class="color-template color-template-ticket color-template-background-clip">Ticket</span></a><br/>
+<img alt="Sunflower Seed" height="25" src="img/Sunflower_Seed.png" width="25"/>12 <a href="sunflower-seed.html"><span class="color-template color-template-sunflower-seed color-template-background-clip">Sunflower Seeds</span></a><br/>
+<img alt="Pineapple" height="25" src="img/Pineapple.png" width="25"/>12 <a href="pineapple.html"><span class="color-template color-template-pineapple color-template-background-clip">Pineapples</span></a><br/>
+<img alt="Bitterberry" height="25" src="img/Bitterberry.png" width="25"/>4 <a href="bitterberry.html"><span class="color-template color-template-bitterberry color-template-background-clip">Bitterberries</span></a>
 </p>
 </td></tr>
 <tr>
@@ -792,10 +792,10 @@ Milestone rewards include:
 <li>Level 14</li></ul>
 </td>
 <td><span typeof="mw:Error mw:File"></span>65,000,000 <a href="honey.html"><span class="color-template color-template-honey">Honey</span></a><br/>
-<p><span typeof="mw:Error mw:File"></span>1 <a href="ticket.html"><span class="color-template color-template-ticket color-template-background-clip">Ticket</span></a><br/>
-<span typeof="mw:Error mw:File"></span>12 <a href="sunflower-seed.html"><span class="color-template color-template-sunflower-seed color-template-background-clip">Sunflower Seeds</span></a><br/>
-<span typeof="mw:Error mw:File"></span>12 <a href="pineapple.html"><span class="color-template color-template-pineapple color-template-background-clip">Pineapples</span></a><br/>
-<span typeof="mw:Error mw:File"></span>4 <a href="bitterberry.html"><span class="color-template color-template-bitterberry color-template-background-clip">Bitterberries</span></a>
+<p><img alt="Ticket" height="25" src="img/Ticket.png" width="25"/>1 <a href="ticket.html"><span class="color-template color-template-ticket color-template-background-clip">Ticket</span></a><br/>
+<img alt="Sunflower Seed" height="25" src="img/Sunflower_Seed.png" width="25"/>12 <a href="sunflower-seed.html"><span class="color-template color-template-sunflower-seed color-template-background-clip">Sunflower Seeds</span></a><br/>
+<img alt="Pineapple" height="25" src="img/Pineapple.png" width="25"/>12 <a href="pineapple.html"><span class="color-template color-template-pineapple color-template-background-clip">Pineapples</span></a><br/>
+<img alt="Bitterberry" height="25" src="img/Bitterberry.png" width="25"/>4 <a href="bitterberry.html"><span class="color-template color-template-bitterberry color-template-background-clip">Bitterberries</span></a>
 </p>
 </td></tr>
 <tr>
@@ -804,10 +804,10 @@ Milestone rewards include:
 <li>Level 15</li></ul>
 </td>
 <td><span typeof="mw:Error mw:File"></span>77,000,000 <a href="honey.html"><span class="color-template color-template-honey">Honey</span></a><br/>
-<p><span typeof="mw:Error mw:File"></span>1 <a href="ticket.html"><span class="color-template color-template-ticket color-template-background-clip">Ticket</span></a><br/>
-<span typeof="mw:Error mw:File"></span>13 <a href="sunflower-seed.html"><span class="color-template color-template-sunflower-seed color-template-background-clip">Sunflower Seeds</span></a><br/>
-<span typeof="mw:Error mw:File"></span>13 <a href="pineapple.html"><span class="color-template color-template-pineapple color-template-background-clip">Pineapples</span></a><br/>
-<span typeof="mw:Error mw:File"></span>4 <a href="bitterberry.html"><span class="color-template color-template-bitterberry color-template-background-clip">Bitterberries</span></a>
+<p><img alt="Ticket" height="25" src="img/Ticket.png" width="25"/>1 <a href="ticket.html"><span class="color-template color-template-ticket color-template-background-clip">Ticket</span></a><br/>
+<img alt="Sunflower Seed" height="25" src="img/Sunflower_Seed.png" width="25"/>13 <a href="sunflower-seed.html"><span class="color-template color-template-sunflower-seed color-template-background-clip">Sunflower Seeds</span></a><br/>
+<img alt="Pineapple" height="25" src="img/Pineapple.png" width="25"/>13 <a href="pineapple.html"><span class="color-template color-template-pineapple color-template-background-clip">Pineapples</span></a><br/>
+<img alt="Bitterberry" height="25" src="img/Bitterberry.png" width="25"/>4 <a href="bitterberry.html"><span class="color-template color-template-bitterberry color-template-background-clip">Bitterberries</span></a>
 </p>
 </td></tr>
 <tr>
@@ -816,10 +816,10 @@ Milestone rewards include:
 <li>Level 15</li></ul>
 </td>
 <td><span typeof="mw:Error mw:File"></span>80,000,000 <a href="honey.html"><span class="color-template color-template-honey">Honey</span></a><br/>
-<p><span typeof="mw:Error mw:File"></span>1 <a href="ticket.html"><span class="color-template color-template-ticket color-template-background-clip">Ticket</span></a><br/>
-<span typeof="mw:Error mw:File"></span>13 <a href="sunflower-seed.html"><span class="color-template color-template-sunflower-seed color-template-background-clip">Sunflower Seeds</span></a><br/>
-<span typeof="mw:Error mw:File"></span>13 <a href="pineapple.html"><span class="color-template color-template-pineapple color-template-background-clip">Pineapples</span></a><br/>
-<span typeof="mw:Error mw:File"></span>4 <a href="bitterberry.html"><span class="color-template color-template-bitterberry color-template-background-clip">Bitterberries</span></a>
+<p><img alt="Ticket" height="25" src="img/Ticket.png" width="25"/>1 <a href="ticket.html"><span class="color-template color-template-ticket color-template-background-clip">Ticket</span></a><br/>
+<img alt="Sunflower Seed" height="25" src="img/Sunflower_Seed.png" width="25"/>13 <a href="sunflower-seed.html"><span class="color-template color-template-sunflower-seed color-template-background-clip">Sunflower Seeds</span></a><br/>
+<img alt="Pineapple" height="25" src="img/Pineapple.png" width="25"/>13 <a href="pineapple.html"><span class="color-template color-template-pineapple color-template-background-clip">Pineapples</span></a><br/>
+<img alt="Bitterberry" height="25" src="img/Bitterberry.png" width="25"/>4 <a href="bitterberry.html"><span class="color-template color-template-bitterberry color-template-background-clip">Bitterberries</span></a>
 </p>
 </td></tr>
 <tr>
@@ -828,11 +828,11 @@ Milestone rewards include:
 <li>Level 15</li></ul>
 </td>
 <td><span typeof="mw:Error mw:File"></span>80,000,000 <a href="honey.html"><span class="color-template color-template-honey">Honey</span></a><br/>
-<p><span typeof="mw:Error mw:File"></span>1 <a href="ant-pass.html"><span class="color-template color-template-ant-pass color-template-background-clip">Ant Pass</span></a><br/>
-<span typeof="mw:Error mw:File"></span>1 <a href="ticket.html"><span class="color-template color-template-ticket color-template-background-clip">Ticket</span></a><br/>
-<span typeof="mw:Error mw:File"></span>13 <a href="sunflower-seed.html"><span class="color-template color-template-sunflower-seed color-template-background-clip">Sunflower Seeds</span></a><br/>
-<span typeof="mw:Error mw:File"></span>13 <a href="pineapple.html"><span class="color-template color-template-pineapple color-template-background-clip">Pineapples</span></a><br/>
-<span typeof="mw:Error mw:File"></span>4 <a href="bitterberry.html"><span class="color-template color-template-bitterberry color-template-background-clip">Bitterberries</span></a>
+<p><img alt="Ant Pass" height="25" src="img/Ant_Pass.png" width="25"/>1 <a href="ant-pass.html"><span class="color-template color-template-ant-pass color-template-background-clip">Ant Pass</span></a><br/>
+<img alt="Ticket" height="25" src="img/Ticket.png" width="25"/>1 <a href="ticket.html"><span class="color-template color-template-ticket color-template-background-clip">Ticket</span></a><br/>
+<img alt="Sunflower Seed" height="25" src="img/Sunflower_Seed.png" width="25"/>13 <a href="sunflower-seed.html"><span class="color-template color-template-sunflower-seed color-template-background-clip">Sunflower Seeds</span></a><br/>
+<img alt="Pineapple" height="25" src="img/Pineapple.png" width="25"/>13 <a href="pineapple.html"><span class="color-template color-template-pineapple color-template-background-clip">Pineapples</span></a><br/>
+<img alt="Bitterberry" height="25" src="img/Bitterberry.png" width="25"/>4 <a href="bitterberry.html"><span class="color-template color-template-bitterberry color-template-background-clip">Bitterberries</span></a>
 </p>
 </td></tr>
 <tr>
@@ -841,10 +841,10 @@ Milestone rewards include:
 <li>Level 15</li></ul>
 </td>
 <td><span typeof="mw:Error mw:File"></span>85,000,000 <a href="honey.html"><span class="color-template color-template-honey">Honey</span></a><br/>
-<p><span typeof="mw:Error mw:File"></span>1 <a href="ticket.html"><span class="color-template color-template-ticket color-template-background-clip">Ticket</span></a><br/>
-<span typeof="mw:Error mw:File"></span>13 <a href="sunflower-seed.html"><span class="color-template color-template-sunflower-seed color-template-background-clip">Sunflower Seeds</span></a><br/>
-<span typeof="mw:Error mw:File"></span>13 <a href="pineapple.html"><span class="color-template color-template-pineapple color-template-background-clip">Pineapples</span></a><br/>
-<span typeof="mw:Error mw:File"></span>4 <a href="bitterberry.html"><span class="color-template color-template-bitterberry color-template-background-clip">Bitterberries</span></a>
+<p><img alt="Ticket" height="25" src="img/Ticket.png" width="25"/>1 <a href="ticket.html"><span class="color-template color-template-ticket color-template-background-clip">Ticket</span></a><br/>
+<img alt="Sunflower Seed" height="25" src="img/Sunflower_Seed.png" width="25"/>13 <a href="sunflower-seed.html"><span class="color-template color-template-sunflower-seed color-template-background-clip">Sunflower Seeds</span></a><br/>
+<img alt="Pineapple" height="25" src="img/Pineapple.png" width="25"/>13 <a href="pineapple.html"><span class="color-template color-template-pineapple color-template-background-clip">Pineapples</span></a><br/>
+<img alt="Bitterberry" height="25" src="img/Bitterberry.png" width="25"/>4 <a href="bitterberry.html"><span class="color-template color-template-bitterberry color-template-background-clip">Bitterberries</span></a>
 </p>
 </td></tr>
 <tr>
@@ -853,11 +853,11 @@ Milestone rewards include:
 <li>Level 15</li></ul>
 </td>
 <td><span typeof="mw:Error mw:File"></span>100,000,000 <a href="honey.html"><span class="color-template color-template-honey">Honey</span></a><br/>
-<p><span typeof="mw:Error mw:File"></span>1 <a href="ant-pass.html"><span class="color-template color-template-ant-pass color-template-background-clip">Ant Pass</span></a><br/>
-<span typeof="mw:Error mw:File"></span>1 <a href="ticket.html"><span class="color-template color-template-ticket color-template-background-clip">Ticket</span></a><br/>
-<span typeof="mw:Error mw:File"></span>13 <a href="sunflower-seed.html"><span class="color-template color-template-sunflower-seed color-template-background-clip">Sunflower Seeds</span></a><br/>
-<span typeof="mw:Error mw:File"></span>13 <a href="pineapple.html"><span class="color-template color-template-pineapple color-template-background-clip">Pineapples</span></a><br/>
-<span typeof="mw:Error mw:File"></span>4 <a href="bitterberry.html"><span class="color-template color-template-bitterberry color-template-background-clip">Bitterberries</span></a>
+<p><img alt="Ant Pass" height="25" src="img/Ant_Pass.png" width="25"/>1 <a href="ant-pass.html"><span class="color-template color-template-ant-pass color-template-background-clip">Ant Pass</span></a><br/>
+<img alt="Ticket" height="25" src="img/Ticket.png" width="25"/>1 <a href="ticket.html"><span class="color-template color-template-ticket color-template-background-clip">Ticket</span></a><br/>
+<img alt="Sunflower Seed" height="25" src="img/Sunflower_Seed.png" width="25"/>13 <a href="sunflower-seed.html"><span class="color-template color-template-sunflower-seed color-template-background-clip">Sunflower Seeds</span></a><br/>
+<img alt="Pineapple" height="25" src="img/Pineapple.png" width="25"/>13 <a href="pineapple.html"><span class="color-template color-template-pineapple color-template-background-clip">Pineapples</span></a><br/>
+<img alt="Bitterberry" height="25" src="img/Bitterberry.png" width="25"/>4 <a href="bitterberry.html"><span class="color-template color-template-bitterberry color-template-background-clip">Bitterberries</span></a>
 </p>
 </td></tr>
 <tr>
@@ -866,10 +866,10 @@ Milestone rewards include:
 <li>Level 15</li></ul>
 </td>
 <td><span typeof="mw:Error mw:File"></span>100,000,000 <a href="honey.html"><span class="color-template color-template-honey">Honey</span></a><br/>
-<p><span typeof="mw:Error mw:File"></span>1 <a href="ticket.html"><span class="color-template color-template-ticket color-template-background-clip">Ticket</span></a><br/>
-<span typeof="mw:Error mw:File"></span>13 <a href="sunflower-seed.html"><span class="color-template color-template-sunflower-seed color-template-background-clip">Sunflower Seeds</span></a><br/>
-<span typeof="mw:Error mw:File"></span>13 <a href="pineapple.html"><span class="color-template color-template-pineapple color-template-background-clip">Pineapples</span></a><br/>
-<span typeof="mw:Error mw:File"></span>4 <a href="bitterberry.html"><span class="color-template color-template-bitterberry color-template-background-clip">Bitterberries</span></a>
+<p><img alt="Ticket" height="25" src="img/Ticket.png" width="25"/>1 <a href="ticket.html"><span class="color-template color-template-ticket color-template-background-clip">Ticket</span></a><br/>
+<img alt="Sunflower Seed" height="25" src="img/Sunflower_Seed.png" width="25"/>13 <a href="sunflower-seed.html"><span class="color-template color-template-sunflower-seed color-template-background-clip">Sunflower Seeds</span></a><br/>
+<img alt="Pineapple" height="25" src="img/Pineapple.png" width="25"/>13 <a href="pineapple.html"><span class="color-template color-template-pineapple color-template-background-clip">Pineapples</span></a><br/>
+<img alt="Bitterberry" height="25" src="img/Bitterberry.png" width="25"/>4 <a href="bitterberry.html"><span class="color-template color-template-bitterberry color-template-background-clip">Bitterberries</span></a>
 </p>
 </td></tr>
 <tr>
@@ -878,10 +878,10 @@ Milestone rewards include:
 <li>Level 15</li></ul>
 </td>
 <td><span typeof="mw:Error mw:File"></span>100,000,000 <a href="honey.html"><span class="color-template color-template-honey">Honey</span></a><br/>
-<p><span typeof="mw:Error mw:File"></span>1 <a href="ticket.html"><span class="color-template color-template-ticket color-template-background-clip">Ticket</span></a><br/>
-<span typeof="mw:Error mw:File"></span>13 <a href="sunflower-seed.html"><span class="color-template color-template-sunflower-seed color-template-background-clip">Sunflower Seeds</span></a><br/>
-<span typeof="mw:Error mw:File"></span>13 <a href="pineapple.html"><span class="color-template color-template-pineapple color-template-background-clip">Pineapples</span></a><br/>
-<span typeof="mw:Error mw:File"></span>4 <a href="bitterberry.html"><span class="color-template color-template-bitterberry color-template-background-clip">Bitterberries</span></a>
+<p><img alt="Ticket" height="25" src="img/Ticket.png" width="25"/>1 <a href="ticket.html"><span class="color-template color-template-ticket color-template-background-clip">Ticket</span></a><br/>
+<img alt="Sunflower Seed" height="25" src="img/Sunflower_Seed.png" width="25"/>13 <a href="sunflower-seed.html"><span class="color-template color-template-sunflower-seed color-template-background-clip">Sunflower Seeds</span></a><br/>
+<img alt="Pineapple" height="25" src="img/Pineapple.png" width="25"/>13 <a href="pineapple.html"><span class="color-template color-template-pineapple color-template-background-clip">Pineapples</span></a><br/>
+<img alt="Bitterberry" height="25" src="img/Bitterberry.png" width="25"/>4 <a href="bitterberry.html"><span class="color-template color-template-bitterberry color-template-background-clip">Bitterberries</span></a>
 </p>
 </td></tr>
 <tr>
@@ -890,10 +890,10 @@ Milestone rewards include:
 <li>Level 15</li></ul>
 </td>
 <td><span typeof="mw:Error mw:File"></span>125,000,000 <a href="honey.html"><span class="color-template color-template-honey">Honey</span></a><br/>
-<p><span typeof="mw:Error mw:File"></span>1 <a href="ticket.html"><span class="color-template color-template-ticket color-template-background-clip">Ticket</span></a><br/>
-<span typeof="mw:Error mw:File"></span>13 <a href="sunflower-seed.html"><span class="color-template color-template-sunflower-seed color-template-background-clip">Sunflower Seeds</span></a><br/>
-<span typeof="mw:Error mw:File"></span>13 <a href="pineapple.html"><span class="color-template color-template-pineapple color-template-background-clip">Pineapples</span></a><br/>
-<span typeof="mw:Error mw:File"></span>4 <a href="bitterberry.html"><span class="color-template color-template-bitterberry color-template-background-clip">Bitterberries</span></a>
+<p><img alt="Ticket" height="25" src="img/Ticket.png" width="25"/>1 <a href="ticket.html"><span class="color-template color-template-ticket color-template-background-clip">Ticket</span></a><br/>
+<img alt="Sunflower Seed" height="25" src="img/Sunflower_Seed.png" width="25"/>13 <a href="sunflower-seed.html"><span class="color-template color-template-sunflower-seed color-template-background-clip">Sunflower Seeds</span></a><br/>
+<img alt="Pineapple" height="25" src="img/Pineapple.png" width="25"/>13 <a href="pineapple.html"><span class="color-template color-template-pineapple color-template-background-clip">Pineapples</span></a><br/>
+<img alt="Bitterberry" height="25" src="img/Bitterberry.png" width="25"/>4 <a href="bitterberry.html"><span class="color-template color-template-bitterberry color-template-background-clip">Bitterberries</span></a>
 </p>
 </td></tr>
 <tr>
@@ -902,10 +902,10 @@ Milestone rewards include:
 <li>Level 15</li></ul>
 </td>
 <td><span typeof="mw:Error mw:File"></span>200,000,000 <a href="honey.html"><span class="color-template color-template-honey">Honey</span></a><br/>
-<p><span typeof="mw:Error mw:File"></span>1 <a href="ticket.html"><span class="color-template color-template-ticket color-template-background-clip">Ticket</span></a><br/>
-<span typeof="mw:Error mw:File"></span>13 <a href="sunflower-seed.html"><span class="color-template color-template-sunflower-seed color-template-background-clip">Sunflower Seeds</span></a><br/>
-<span typeof="mw:Error mw:File"></span>13 <a href="pineapple.html"><span class="color-template color-template-pineapple color-template-background-clip">Pineapples</span></a><br/>
-<span typeof="mw:Error mw:File"></span>4 <a href="bitterberry.html"><span class="color-template color-template-bitterberry color-template-background-clip">Bitterberries</span></a>
+<p><img alt="Ticket" height="25" src="img/Ticket.png" width="25"/>1 <a href="ticket.html"><span class="color-template color-template-ticket color-template-background-clip">Ticket</span></a><br/>
+<img alt="Sunflower Seed" height="25" src="img/Sunflower_Seed.png" width="25"/>13 <a href="sunflower-seed.html"><span class="color-template color-template-sunflower-seed color-template-background-clip">Sunflower Seeds</span></a><br/>
+<img alt="Pineapple" height="25" src="img/Pineapple.png" width="25"/>13 <a href="pineapple.html"><span class="color-template color-template-pineapple color-template-background-clip">Pineapples</span></a><br/>
+<img alt="Bitterberry" height="25" src="img/Bitterberry.png" width="25"/>4 <a href="bitterberry.html"><span class="color-template color-template-bitterberry color-template-background-clip">Bitterberries</span></a>
 </p>
 </td></tr>
 <tr>
@@ -914,10 +914,10 @@ Milestone rewards include:
 <li>Level 15</li></ul>
 </td>
 <td><span typeof="mw:Error mw:File"></span>200,000,000 <a href="honey.html"><span class="color-template color-template-honey">Honey</span></a><br/>
-<p><span typeof="mw:Error mw:File"></span>1 <a href="ticket.html"><span class="color-template color-template-ticket color-template-background-clip">Ticket</span></a><br/>
-<span typeof="mw:Error mw:File"></span>14 <a href="sunflower-seed.html"><span class="color-template color-template-sunflower-seed color-template-background-clip">Sunflower Seeds</span></a><br/>
-<span typeof="mw:Error mw:File"></span>14 <a href="pineapple.html"><span class="color-template color-template-pineapple color-template-background-clip">Pineapples</span></a><br/>
-<span typeof="mw:Error mw:File"></span>4 <a href="bitterberry.html"><span class="color-template color-template-bitterberry color-template-background-clip">Bitterberries</span></a>
+<p><img alt="Ticket" height="25" src="img/Ticket.png" width="25"/>1 <a href="ticket.html"><span class="color-template color-template-ticket color-template-background-clip">Ticket</span></a><br/>
+<img alt="Sunflower Seed" height="25" src="img/Sunflower_Seed.png" width="25"/>14 <a href="sunflower-seed.html"><span class="color-template color-template-sunflower-seed color-template-background-clip">Sunflower Seeds</span></a><br/>
+<img alt="Pineapple" height="25" src="img/Pineapple.png" width="25"/>14 <a href="pineapple.html"><span class="color-template color-template-pineapple color-template-background-clip">Pineapples</span></a><br/>
+<img alt="Bitterberry" height="25" src="img/Bitterberry.png" width="25"/>4 <a href="bitterberry.html"><span class="color-template color-template-bitterberry color-template-background-clip">Bitterberries</span></a>
 </p>
 </td></tr>
 <tr>
@@ -926,11 +926,11 @@ Milestone rewards include:
 <li>Level 16</li></ul>
 </td>
 <td><span typeof="mw:Error mw:File"></span>200,000,000 <a href="honey.html"><span class="color-template color-template-honey">Honey</span></a><br/>
-<p><span typeof="mw:Error mw:File"></span>1 <a href="ant-pass.html"><span class="color-template color-template-ant-pass color-template-background-clip">Ant Pass</span></a><br/>
-<span typeof="mw:Error mw:File"></span>1 <a href="ticket.html"><span class="color-template color-template-ticket color-template-background-clip">Ticket</span></a><br/>
-<span typeof="mw:Error mw:File"></span>14 <a href="sunflower-seed.html"><span class="color-template color-template-sunflower-seed color-template-background-clip">Sunflower Seeds</span></a><br/>
-<span typeof="mw:Error mw:File"></span>14 <a href="pineapple.html"><span class="color-template color-template-pineapple color-template-background-clip">Pineapples</span></a><br/>
-<span typeof="mw:Error mw:File"></span>4 <a href="bitterberry.html"><span class="color-template color-template-bitterberry color-template-background-clip">Bitterberries</span></a>
+<p><img alt="Ant Pass" height="25" src="img/Ant_Pass.png" width="25"/>1 <a href="ant-pass.html"><span class="color-template color-template-ant-pass color-template-background-clip">Ant Pass</span></a><br/>
+<img alt="Ticket" height="25" src="img/Ticket.png" width="25"/>1 <a href="ticket.html"><span class="color-template color-template-ticket color-template-background-clip">Ticket</span></a><br/>
+<img alt="Sunflower Seed" height="25" src="img/Sunflower_Seed.png" width="25"/>14 <a href="sunflower-seed.html"><span class="color-template color-template-sunflower-seed color-template-background-clip">Sunflower Seeds</span></a><br/>
+<img alt="Pineapple" height="25" src="img/Pineapple.png" width="25"/>14 <a href="pineapple.html"><span class="color-template color-template-pineapple color-template-background-clip">Pineapples</span></a><br/>
+<img alt="Bitterberry" height="25" src="img/Bitterberry.png" width="25"/>4 <a href="bitterberry.html"><span class="color-template color-template-bitterberry color-template-background-clip">Bitterberries</span></a>
 </p>
 </td></tr>
 <tr>
@@ -939,10 +939,10 @@ Milestone rewards include:
 <li>Level 16</li></ul>
 </td>
 <td><span typeof="mw:Error mw:File"></span>200,000,000 <a href="honey.html"><span class="color-template color-template-honey">Honey</span></a><br/>
-<p><span typeof="mw:Error mw:File"></span>1 <a href="ticket.html"><span class="color-template color-template-ticket color-template-background-clip">Ticket</span></a><br/>
-<span typeof="mw:Error mw:File"></span>14 <a href="sunflower-seed.html"><span class="color-template color-template-sunflower-seed color-template-background-clip">Sunflower Seeds</span></a><br/>
-<span typeof="mw:Error mw:File"></span>14 <a href="pineapple.html"><span class="color-template color-template-pineapple color-template-background-clip">Pineapples</span></a><br/>
-<span typeof="mw:Error mw:File"></span>4 <a href="bitterberry.html"><span class="color-template color-template-bitterberry color-template-background-clip">Bitterberries</span></a>
+<p><img alt="Ticket" height="25" src="img/Ticket.png" width="25"/>1 <a href="ticket.html"><span class="color-template color-template-ticket color-template-background-clip">Ticket</span></a><br/>
+<img alt="Sunflower Seed" height="25" src="img/Sunflower_Seed.png" width="25"/>14 <a href="sunflower-seed.html"><span class="color-template color-template-sunflower-seed color-template-background-clip">Sunflower Seeds</span></a><br/>
+<img alt="Pineapple" height="25" src="img/Pineapple.png" width="25"/>14 <a href="pineapple.html"><span class="color-template color-template-pineapple color-template-background-clip">Pineapples</span></a><br/>
+<img alt="Bitterberry" height="25" src="img/Bitterberry.png" width="25"/>4 <a href="bitterberry.html"><span class="color-template color-template-bitterberry color-template-background-clip">Bitterberries</span></a>
 </p>
 </td></tr>
 <tr>
@@ -951,10 +951,10 @@ Milestone rewards include:
 <li>Level 16</li></ul>
 </td>
 <td><span typeof="mw:Error mw:File"></span>173,500,000 <a href="honey.html"><span class="color-template color-template-honey">Honey</span></a><br/>
-<p><span typeof="mw:Error mw:File"></span>1 <a href="ticket.html"><span class="color-template color-template-ticket color-template-background-clip">Ticket</span></a><br/>
-<span typeof="mw:Error mw:File"></span>14 <a href="sunflower-seed.html"><span class="color-template color-template-sunflower-seed color-template-background-clip">Sunflower Seeds</span></a><br/>
-<span typeof="mw:Error mw:File"></span>14 <a href="pineapple.html"><span class="color-template color-template-pineapple color-template-background-clip">Pineapples</span></a><br/>
-<span typeof="mw:Error mw:File"></span>4 <a href="bitterberry.html"><span class="color-template color-template-bitterberry color-template-background-clip">Bitterberries</span></a>
+<p><img alt="Ticket" height="25" src="img/Ticket.png" width="25"/>1 <a href="ticket.html"><span class="color-template color-template-ticket color-template-background-clip">Ticket</span></a><br/>
+<img alt="Sunflower Seed" height="25" src="img/Sunflower_Seed.png" width="25"/>14 <a href="sunflower-seed.html"><span class="color-template color-template-sunflower-seed color-template-background-clip">Sunflower Seeds</span></a><br/>
+<img alt="Pineapple" height="25" src="img/Pineapple.png" width="25"/>14 <a href="pineapple.html"><span class="color-template color-template-pineapple color-template-background-clip">Pineapples</span></a><br/>
+<img alt="Bitterberry" height="25" src="img/Bitterberry.png" width="25"/>4 <a href="bitterberry.html"><span class="color-template color-template-bitterberry color-template-background-clip">Bitterberries</span></a>
 </p>
 </td></tr>
 <tr>
@@ -963,10 +963,10 @@ Milestone rewards include:
 <li>Level 16</li></ul>
 </td>
 <td><span typeof="mw:Error mw:File"></span>175,000,000 <a href="honey.html"><span class="color-template color-template-honey">Honey</span></a><br/>
-<p><span typeof="mw:Error mw:File"></span>1 <a href="ticket.html"><span class="color-template color-template-ticket color-template-background-clip">Ticket</span></a><br/>
-<span typeof="mw:Error mw:File"></span>14 <a href="sunflower-seed.html"><span class="color-template color-template-sunflower-seed color-template-background-clip">Sunflower Seeds</span></a><br/>
-<span typeof="mw:Error mw:File"></span>14 <a href="pineapple.html"><span class="color-template color-template-pineapple color-template-background-clip">Pineapples</span></a><br/>
-<span typeof="mw:Error mw:File"></span>4 <a href="bitterberry.html"><span class="color-template color-template-bitterberry color-template-background-clip">Bitterberries</span></a>
+<p><img alt="Ticket" height="25" src="img/Ticket.png" width="25"/>1 <a href="ticket.html"><span class="color-template color-template-ticket color-template-background-clip">Ticket</span></a><br/>
+<img alt="Sunflower Seed" height="25" src="img/Sunflower_Seed.png" width="25"/>14 <a href="sunflower-seed.html"><span class="color-template color-template-sunflower-seed color-template-background-clip">Sunflower Seeds</span></a><br/>
+<img alt="Pineapple" height="25" src="img/Pineapple.png" width="25"/>14 <a href="pineapple.html"><span class="color-template color-template-pineapple color-template-background-clip">Pineapples</span></a><br/>
+<img alt="Bitterberry" height="25" src="img/Bitterberry.png" width="25"/>4 <a href="bitterberry.html"><span class="color-template color-template-bitterberry color-template-background-clip">Bitterberries</span></a>
 </p>
 </td></tr>
 <tr>
@@ -975,11 +975,11 @@ Milestone rewards include:
 <li>Level 16</li></ul>
 </td>
 <td><span typeof="mw:Error mw:File"></span>225,000,000 <a href="honey.html"><span class="color-template color-template-honey">Honey</span></a><br/>
-<p><span typeof="mw:Error mw:File"></span>1 <a href="ant-pass.html"><span class="color-template color-template-ant-pass color-template-background-clip">Ant Pass</span></a><br/>
-<span typeof="mw:Error mw:File"></span>1 <a href="ticket.html"><span class="color-template color-template-ticket color-template-background-clip">Ticket</span></a><br/>
-<span typeof="mw:Error mw:File"></span>14 <a href="sunflower-seed.html"><span class="color-template color-template-sunflower-seed color-template-background-clip">Sunflower Seeds</span></a><br/>
-<span typeof="mw:Error mw:File"></span>14 <a href="pineapple.html"><span class="color-template color-template-pineapple color-template-background-clip">Pineapples</span></a><br/>
-<span typeof="mw:Error mw:File"></span>4 <a href="bitterberry.html"><span class="color-template color-template-bitterberry color-template-background-clip">Bitterberries</span></a>
+<p><img alt="Ant Pass" height="25" src="img/Ant_Pass.png" width="25"/>1 <a href="ant-pass.html"><span class="color-template color-template-ant-pass color-template-background-clip">Ant Pass</span></a><br/>
+<img alt="Ticket" height="25" src="img/Ticket.png" width="25"/>1 <a href="ticket.html"><span class="color-template color-template-ticket color-template-background-clip">Ticket</span></a><br/>
+<img alt="Sunflower Seed" height="25" src="img/Sunflower_Seed.png" width="25"/>14 <a href="sunflower-seed.html"><span class="color-template color-template-sunflower-seed color-template-background-clip">Sunflower Seeds</span></a><br/>
+<img alt="Pineapple" height="25" src="img/Pineapple.png" width="25"/>14 <a href="pineapple.html"><span class="color-template color-template-pineapple color-template-background-clip">Pineapples</span></a><br/>
+<img alt="Bitterberry" height="25" src="img/Bitterberry.png" width="25"/>4 <a href="bitterberry.html"><span class="color-template color-template-bitterberry color-template-background-clip">Bitterberries</span></a>
 </p>
 </td></tr>
 <tr>
@@ -988,11 +988,11 @@ Milestone rewards include:
 <li>Level 16</li></ul>
 </td>
 <td><span typeof="mw:Error mw:File"></span>225,000,000 <a href="honey.html"><span class="color-template color-template-honey">Honey</span></a><br/>
-<p><span typeof="mw:Error mw:File"></span>1 <a href="ant-pass.html"><span class="color-template color-template-ant-pass color-template-background-clip">Ant Pass</span></a><br/>
-<span typeof="mw:Error mw:File"></span>1 <a href="ticket.html"><span class="color-template color-template-ticket color-template-background-clip">Ticket</span></a><br/>
-<span typeof="mw:Error mw:File"></span>14 <a href="sunflower-seed.html"><span class="color-template color-template-sunflower-seed color-template-background-clip">Sunflower Seeds</span></a><br/>
-<span typeof="mw:Error mw:File"></span>14 <a href="pineapple.html"><span class="color-template color-template-pineapple color-template-background-clip">Pineapples</span></a><br/>
-<span typeof="mw:Error mw:File"></span>4 <a href="bitterberry.html"><span class="color-template color-template-bitterberry color-template-background-clip">Bitterberries</span></a>
+<p><img alt="Ant Pass" height="25" src="img/Ant_Pass.png" width="25"/>1 <a href="ant-pass.html"><span class="color-template color-template-ant-pass color-template-background-clip">Ant Pass</span></a><br/>
+<img alt="Ticket" height="25" src="img/Ticket.png" width="25"/>1 <a href="ticket.html"><span class="color-template color-template-ticket color-template-background-clip">Ticket</span></a><br/>
+<img alt="Sunflower Seed" height="25" src="img/Sunflower_Seed.png" width="25"/>14 <a href="sunflower-seed.html"><span class="color-template color-template-sunflower-seed color-template-background-clip">Sunflower Seeds</span></a><br/>
+<img alt="Pineapple" height="25" src="img/Pineapple.png" width="25"/>14 <a href="pineapple.html"><span class="color-template color-template-pineapple color-template-background-clip">Pineapples</span></a><br/>
+<img alt="Bitterberry" height="25" src="img/Bitterberry.png" width="25"/>4 <a href="bitterberry.html"><span class="color-template color-template-bitterberry color-template-background-clip">Bitterberries</span></a>
 </p>
 </td></tr>
 <tr>
@@ -1001,10 +1001,10 @@ Milestone rewards include:
 <li>Level 16</li></ul>
 </td>
 <td><span typeof="mw:Error mw:File"></span>250,000,000 <a href="honey.html"><span class="color-template color-template-honey">Honey</span></a><br/>
-<p><span typeof="mw:Error mw:File"></span>1 <a href="ticket.html"><span class="color-template color-template-ticket color-template-background-clip">Ticket</span></a><br/>
-<span typeof="mw:Error mw:File"></span>14 <a href="sunflower-seed.html"><span class="color-template color-template-sunflower-seed color-template-background-clip">Sunflower Seeds</span></a><br/>
-<span typeof="mw:Error mw:File"></span>14 <a href="pineapple.html"><span class="color-template color-template-pineapple color-template-background-clip">Pineapples</span></a><br/>
-<span typeof="mw:Error mw:File"></span>4 <a href="bitterberry.html"><span class="color-template color-template-bitterberry color-template-background-clip">Bitterberries</span></a>
+<p><img alt="Ticket" height="25" src="img/Ticket.png" width="25"/>1 <a href="ticket.html"><span class="color-template color-template-ticket color-template-background-clip">Ticket</span></a><br/>
+<img alt="Sunflower Seed" height="25" src="img/Sunflower_Seed.png" width="25"/>14 <a href="sunflower-seed.html"><span class="color-template color-template-sunflower-seed color-template-background-clip">Sunflower Seeds</span></a><br/>
+<img alt="Pineapple" height="25" src="img/Pineapple.png" width="25"/>14 <a href="pineapple.html"><span class="color-template color-template-pineapple color-template-background-clip">Pineapples</span></a><br/>
+<img alt="Bitterberry" height="25" src="img/Bitterberry.png" width="25"/>4 <a href="bitterberry.html"><span class="color-template color-template-bitterberry color-template-background-clip">Bitterberries</span></a>
 </p>
 </td></tr>
 <tr>
@@ -1013,10 +1013,10 @@ Milestone rewards include:
 <li>Level 16</li></ul>
 </td>
 <td><span typeof="mw:Error mw:File"></span>300,000,000 <a href="honey.html"><span class="color-template color-template-honey">Honey</span></a><br/>
-<p><span typeof="mw:Error mw:File"></span>14 <a href="sunflower-seed.html"><span class="color-template color-template-sunflower-seed color-template-background-clip">Sunflower Seeds</span></a><br/>
-<span typeof="mw:Error mw:File"></span>14 <a href="pineapple.html"><span class="color-template color-template-pineapple color-template-background-clip">Pineapples</span></a><br/>
-<span typeof="mw:Error mw:File"></span>1 <a href="ticket.html"><span class="color-template color-template-ticket color-template-background-clip">Ticket</span></a><br/>
-<span typeof="mw:Error mw:File"></span>4 <a href="bitterberry.html"><span class="color-template color-template-bitterberry color-template-background-clip">Bitterberries</span></a>
+<p><img alt="Sunflower Seed" height="25" src="img/Sunflower_Seed.png" width="25"/>14 <a href="sunflower-seed.html"><span class="color-template color-template-sunflower-seed color-template-background-clip">Sunflower Seeds</span></a><br/>
+<img alt="Pineapple" height="25" src="img/Pineapple.png" width="25"/>14 <a href="pineapple.html"><span class="color-template color-template-pineapple color-template-background-clip">Pineapples</span></a><br/>
+<img alt="Ticket" height="25" src="img/Ticket.png" width="25"/>1 <a href="ticket.html"><span class="color-template color-template-ticket color-template-background-clip">Ticket</span></a><br/>
+<img alt="Bitterberry" height="25" src="img/Bitterberry.png" width="25"/>4 <a href="bitterberry.html"><span class="color-template color-template-bitterberry color-template-background-clip">Bitterberries</span></a>
 </p>
 </td></tr>
 <tr>
@@ -1025,10 +1025,10 @@ Milestone rewards include:
 <li>Level 16</li></ul>
 </td>
 <td><span typeof="mw:Error mw:File"></span>400,000,000 <a href="honey.html"><span class="color-template color-template-honey">Honey</span></a><br/>
-<p><span typeof="mw:Error mw:File"></span>1 <a href="ticket.html"><span class="color-template color-template-ticket color-template-background-clip">Ticket</span></a><br/>
-<span typeof="mw:Error mw:File"></span>14 <a href="sunflower-seed.html"><span class="color-template color-template-sunflower-seed color-template-background-clip">Sunflower Seeds</span></a><br/>
-<span typeof="mw:Error mw:File"></span>14 <a href="pineapple.html"><span class="color-template color-template-pineapple color-template-background-clip">Pineapples</span></a><br/>
-<span typeof="mw:Error mw:File"></span>4 <a href="bitterberry.html"><span class="color-template color-template-bitterberry color-template-background-clip">Bitterberries</span></a>
+<p><img alt="Ticket" height="25" src="img/Ticket.png" width="25"/>1 <a href="ticket.html"><span class="color-template color-template-ticket color-template-background-clip">Ticket</span></a><br/>
+<img alt="Sunflower Seed" height="25" src="img/Sunflower_Seed.png" width="25"/>14 <a href="sunflower-seed.html"><span class="color-template color-template-sunflower-seed color-template-background-clip">Sunflower Seeds</span></a><br/>
+<img alt="Pineapple" height="25" src="img/Pineapple.png" width="25"/>14 <a href="pineapple.html"><span class="color-template color-template-pineapple color-template-background-clip">Pineapples</span></a><br/>
+<img alt="Bitterberry" height="25" src="img/Bitterberry.png" width="25"/>4 <a href="bitterberry.html"><span class="color-template color-template-bitterberry color-template-background-clip">Bitterberries</span></a>
 </p>
 </td></tr>
 <tr>
@@ -1037,10 +1037,10 @@ Milestone rewards include:
 <li>Level 16</li></ul>
 </td>
 <td><span typeof="mw:Error mw:File"></span>400,000,000 <a href="honey.html"><span class="color-template color-template-honey">Honey</span></a><br/>
-<p><span typeof="mw:Error mw:File"></span>1 <a href="ticket.html"><span class="color-template color-template-ticket color-template-background-clip">Ticket</span></a><br/>
-<span typeof="mw:Error mw:File"></span>15 <a href="sunflower-seed.html"><span class="color-template color-template-sunflower-seed color-template-background-clip">Sunflower Seeds</span></a><br/>
-<span typeof="mw:Error mw:File"></span>15 <a href="pineapple.html"><span class="color-template color-template-pineapple color-template-background-clip">Pineapples</span></a><br/>
-<span typeof="mw:Error mw:File"></span>4 <a href="bitterberry.html"><span class="color-template color-template-bitterberry color-template-background-clip">Bitterberries</span></a>
+<p><img alt="Ticket" height="25" src="img/Ticket.png" width="25"/>1 <a href="ticket.html"><span class="color-template color-template-ticket color-template-background-clip">Ticket</span></a><br/>
+<img alt="Sunflower Seed" height="25" src="img/Sunflower_Seed.png" width="25"/>15 <a href="sunflower-seed.html"><span class="color-template color-template-sunflower-seed color-template-background-clip">Sunflower Seeds</span></a><br/>
+<img alt="Pineapple" height="25" src="img/Pineapple.png" width="25"/>15 <a href="pineapple.html"><span class="color-template color-template-pineapple color-template-background-clip">Pineapples</span></a><br/>
+<img alt="Bitterberry" height="25" src="img/Bitterberry.png" width="25"/>4 <a href="bitterberry.html"><span class="color-template color-template-bitterberry color-template-background-clip">Bitterberries</span></a>
 </p>
 </td></tr>
 <tr>
@@ -1049,10 +1049,10 @@ Milestone rewards include:
 <li>Level 16</li></ul>
 </td>
 <td><span typeof="mw:Error mw:File"></span>400,000,000 <a href="honey.html"><span class="color-template color-template-honey">Honey</span></a><br/>
-<p><span typeof="mw:Error mw:File"></span>1 <a href="ticket.html"><span class="color-template color-template-ticket color-template-background-clip">Ticket</span></a><br/>
-<span typeof="mw:Error mw:File"></span>15 <a href="sunflower-seed.html"><span class="color-template color-template-sunflower-seed color-template-background-clip">Sunflower Seeds</span></a><br/>
-<span typeof="mw:Error mw:File"></span>15 <a href="pineapple.html"><span class="color-template color-template-pineapple color-template-background-clip">Pineapples</span></a><br/>
-<span typeof="mw:Error mw:File"></span>4 <a href="bitterberry.html"><span class="color-template color-template-bitterberry color-template-background-clip">Bitterberries</span></a>
+<p><img alt="Ticket" height="25" src="img/Ticket.png" width="25"/>1 <a href="ticket.html"><span class="color-template color-template-ticket color-template-background-clip">Ticket</span></a><br/>
+<img alt="Sunflower Seed" height="25" src="img/Sunflower_Seed.png" width="25"/>15 <a href="sunflower-seed.html"><span class="color-template color-template-sunflower-seed color-template-background-clip">Sunflower Seeds</span></a><br/>
+<img alt="Pineapple" height="25" src="img/Pineapple.png" width="25"/>15 <a href="pineapple.html"><span class="color-template color-template-pineapple color-template-background-clip">Pineapples</span></a><br/>
+<img alt="Bitterberry" height="25" src="img/Bitterberry.png" width="25"/>4 <a href="bitterberry.html"><span class="color-template color-template-bitterberry color-template-background-clip">Bitterberries</span></a>
 </p>
 </td></tr>
 <tr>
@@ -1061,10 +1061,10 @@ Milestone rewards include:
 <li>Level 17</li></ul>
 </td>
 <td><span typeof="mw:Error mw:File"></span>400,000,000 <a href="honey.html"><span class="color-template color-template-honey">Honey</span></a><br/>
-<p><span typeof="mw:Error mw:File"></span>1 <a href="ticket.html"><span class="color-template color-template-ticket color-template-background-clip">Ticket</span></a><br/>
-<span typeof="mw:Error mw:File"></span>15 <a href="sunflower-seed.html"><span class="color-template color-template-sunflower-seed color-template-background-clip">Sunflower Seeds</span></a><br/>
-<span typeof="mw:Error mw:File"></span>15 <a href="pineapple.html"><span class="color-template color-template-pineapple color-template-background-clip">Pineapples</span></a><br/>
-<span typeof="mw:Error mw:File"></span>4 <a href="bitterberry.html"><span class="color-template color-template-bitterberry color-template-background-clip">Bitterberries</span></a>
+<p><img alt="Ticket" height="25" src="img/Ticket.png" width="25"/>1 <a href="ticket.html"><span class="color-template color-template-ticket color-template-background-clip">Ticket</span></a><br/>
+<img alt="Sunflower Seed" height="25" src="img/Sunflower_Seed.png" width="25"/>15 <a href="sunflower-seed.html"><span class="color-template color-template-sunflower-seed color-template-background-clip">Sunflower Seeds</span></a><br/>
+<img alt="Pineapple" height="25" src="img/Pineapple.png" width="25"/>15 <a href="pineapple.html"><span class="color-template color-template-pineapple color-template-background-clip">Pineapples</span></a><br/>
+<img alt="Bitterberry" height="25" src="img/Bitterberry.png" width="25"/>4 <a href="bitterberry.html"><span class="color-template color-template-bitterberry color-template-background-clip">Bitterberries</span></a>
 </p>
 </td></tr>
 <tr>
@@ -1073,10 +1073,10 @@ Milestone rewards include:
 <li>Level 17</li></ul>
 </td>
 <td><span typeof="mw:Error mw:File"></span>400,000,000 <a href="honey.html"><span class="color-template color-template-honey">Honey</span></a><br/>
-<p><span typeof="mw:Error mw:File"></span>1 <a href="ticket.html"><span class="color-template color-template-ticket color-template-background-clip">Ticket</span></a><br/>
-<span typeof="mw:Error mw:File"></span>15 <a href="sunflower-seed.html"><span class="color-template color-template-sunflower-seed color-template-background-clip">Sunflower Seeds</span></a><br/>
-<span typeof="mw:Error mw:File"></span>15 <a href="pineapple.html"><span class="color-template color-template-pineapple color-template-background-clip">Pineapples</span></a><br/>
-<span typeof="mw:Error mw:File"></span>4 <a href="bitterberry.html"><span class="color-template color-template-bitterberry color-template-background-clip">Bitterberries</span></a>
+<p><img alt="Ticket" height="25" src="img/Ticket.png" width="25"/>1 <a href="ticket.html"><span class="color-template color-template-ticket color-template-background-clip">Ticket</span></a><br/>
+<img alt="Sunflower Seed" height="25" src="img/Sunflower_Seed.png" width="25"/>15 <a href="sunflower-seed.html"><span class="color-template color-template-sunflower-seed color-template-background-clip">Sunflower Seeds</span></a><br/>
+<img alt="Pineapple" height="25" src="img/Pineapple.png" width="25"/>15 <a href="pineapple.html"><span class="color-template color-template-pineapple color-template-background-clip">Pineapples</span></a><br/>
+<img alt="Bitterberry" height="25" src="img/Bitterberry.png" width="25"/>4 <a href="bitterberry.html"><span class="color-template color-template-bitterberry color-template-background-clip">Bitterberries</span></a>
 </p>
 </td></tr>
 <tr>
@@ -1085,10 +1085,10 @@ Milestone rewards include:
 <li>Level 17</li></ul>
 </td>
 <td><span typeof="mw:Error mw:File"></span>400,000,000 <a href="honey.html"><span class="color-template color-template-honey">Honey</span></a><br/>
-<p><span typeof="mw:Error mw:File"></span>1 <a href="ticket.html"><span class="color-template color-template-ticket color-template-background-clip">Ticket</span></a><br/>
-<span typeof="mw:Error mw:File"></span>15 <a href="sunflower-seed.html"><span class="color-template color-template-sunflower-seed color-template-background-clip">Sunflower Seeds</span></a><br/>
-<span typeof="mw:Error mw:File"></span>15 <a href="pineapple.html"><span class="color-template color-template-pineapple color-template-background-clip">Pineapples</span></a><br/>
-<span typeof="mw:Error mw:File"></span>4 <a href="bitterberry.html"><span class="color-template color-template-bitterberry color-template-background-clip">Bitterberries</span></a>
+<p><img alt="Ticket" height="25" src="img/Ticket.png" width="25"/>1 <a href="ticket.html"><span class="color-template color-template-ticket color-template-background-clip">Ticket</span></a><br/>
+<img alt="Sunflower Seed" height="25" src="img/Sunflower_Seed.png" width="25"/>15 <a href="sunflower-seed.html"><span class="color-template color-template-sunflower-seed color-template-background-clip">Sunflower Seeds</span></a><br/>
+<img alt="Pineapple" height="25" src="img/Pineapple.png" width="25"/>15 <a href="pineapple.html"><span class="color-template color-template-pineapple color-template-background-clip">Pineapples</span></a><br/>
+<img alt="Bitterberry" height="25" src="img/Bitterberry.png" width="25"/>4 <a href="bitterberry.html"><span class="color-template color-template-bitterberry color-template-background-clip">Bitterberries</span></a>
 </p>
 </td></tr>
 <tr>
@@ -1097,11 +1097,11 @@ Milestone rewards include:
 <li>Level 17</li></ul>
 </td>
 <td><span typeof="mw:Error mw:File"></span>500,000,000 <a href="honey.html"><span class="color-template color-template-honey">Honey</span></a><br/>
-<p><span typeof="mw:Error mw:File"></span>1 <a href="ticket.html"><span class="color-template color-template-ticket color-template-background-clip">Ticket</span></a><br/>
-<span typeof="mw:Error mw:File"></span>15 <a href="sunflower-seed.html"><span class="color-template color-template-sunflower-seed color-template-background-clip">Sunflower Seeds</span></a><br/>
-<span typeof="mw:Error mw:File"></span>15 <a href="pineapple.html"><span class="color-template color-template-pineapple color-template-background-clip">Pineapples</span></a><br/>
-<span typeof="mw:Error mw:File"></span>4 <a href="bitterberry.html"><span class="color-template color-template-bitterberry color-template-background-clip">Bitterberries</span></a><br/>
-<span typeof="mw:Error mw:File"></span>1 <a href="ant-pass.html"><span class="color-template color-template-ant-pass color-template-background-clip">Ant Pass</span></a>
+<p><img alt="Ticket" height="25" src="img/Ticket.png" width="25"/>1 <a href="ticket.html"><span class="color-template color-template-ticket color-template-background-clip">Ticket</span></a><br/>
+<img alt="Sunflower Seed" height="25" src="img/Sunflower_Seed.png" width="25"/>15 <a href="sunflower-seed.html"><span class="color-template color-template-sunflower-seed color-template-background-clip">Sunflower Seeds</span></a><br/>
+<img alt="Pineapple" height="25" src="img/Pineapple.png" width="25"/>15 <a href="pineapple.html"><span class="color-template color-template-pineapple color-template-background-clip">Pineapples</span></a><br/>
+<img alt="Bitterberry" height="25" src="img/Bitterberry.png" width="25"/>4 <a href="bitterberry.html"><span class="color-template color-template-bitterberry color-template-background-clip">Bitterberries</span></a><br/>
+<img alt="Ant Pass" height="25" src="img/Ant_Pass.png" width="25"/>1 <a href="ant-pass.html"><span class="color-template color-template-ant-pass color-template-background-clip">Ant Pass</span></a>
 </p>
 </td></tr>
 <tr>
@@ -1110,10 +1110,10 @@ Milestone rewards include:
 <li>Level 17</li></ul>
 </td>
 <td><span typeof="mw:Error mw:File"></span>500,000,000 <a href="honey.html"><span class="color-template color-template-honey">Honey</span></a><br/>
-<p><span typeof="mw:Error mw:File"></span>1 <a href="ticket.html"><span class="color-template color-template-ticket color-template-background-clip">Ticket</span></a><br/>
-<span typeof="mw:Error mw:File"></span>15 <a href="sunflower-seed.html"><span class="color-template color-template-sunflower-seed color-template-background-clip">Sunflower Seeds</span></a><br/>
-<span typeof="mw:Error mw:File"></span>15 <a href="pineapple.html"><span class="color-template color-template-pineapple color-template-background-clip">Pineapples</span></a><br/>
-<span typeof="mw:Error mw:File"></span>4 <a href="bitterberry.html"><span class="color-template color-template-bitterberry color-template-background-clip">Bitterberries</span></a>
+<p><img alt="Ticket" height="25" src="img/Ticket.png" width="25"/>1 <a href="ticket.html"><span class="color-template color-template-ticket color-template-background-clip">Ticket</span></a><br/>
+<img alt="Sunflower Seed" height="25" src="img/Sunflower_Seed.png" width="25"/>15 <a href="sunflower-seed.html"><span class="color-template color-template-sunflower-seed color-template-background-clip">Sunflower Seeds</span></a><br/>
+<img alt="Pineapple" height="25" src="img/Pineapple.png" width="25"/>15 <a href="pineapple.html"><span class="color-template color-template-pineapple color-template-background-clip">Pineapples</span></a><br/>
+<img alt="Bitterberry" height="25" src="img/Bitterberry.png" width="25"/>4 <a href="bitterberry.html"><span class="color-template color-template-bitterberry color-template-background-clip">Bitterberries</span></a>
 </p>
 </td></tr>
 <tr>
@@ -1122,10 +1122,10 @@ Milestone rewards include:
 <li>Level 17</li></ul>
 </td>
 <td><span typeof="mw:Error mw:File"></span>500,000,000 <a href="honey.html"><span class="color-template color-template-honey">Honey</span></a><br/>
-<p><span typeof="mw:Error mw:File"></span>1 <a href="ticket.html"><span class="color-template color-template-ticket color-template-background-clip">Ticket</span></a><br/>
-<span typeof="mw:Error mw:File"></span>15 <a href="sunflower-seed.html"><span class="color-template color-template-sunflower-seed color-template-background-clip">Sunflower Seeds</span></a><br/>
-<span typeof="mw:Error mw:File"></span>15 <a href="pineapple.html"><span class="color-template color-template-pineapple color-template-background-clip">Pineapples</span></a><br/>
-<span typeof="mw:Error mw:File"></span>4 <a href="bitterberry.html"><span class="color-template color-template-bitterberry color-template-background-clip">Bitterberries</span></a>
+<p><img alt="Ticket" height="25" src="img/Ticket.png" width="25"/>1 <a href="ticket.html"><span class="color-template color-template-ticket color-template-background-clip">Ticket</span></a><br/>
+<img alt="Sunflower Seed" height="25" src="img/Sunflower_Seed.png" width="25"/>15 <a href="sunflower-seed.html"><span class="color-template color-template-sunflower-seed color-template-background-clip">Sunflower Seeds</span></a><br/>
+<img alt="Pineapple" height="25" src="img/Pineapple.png" width="25"/>15 <a href="pineapple.html"><span class="color-template color-template-pineapple color-template-background-clip">Pineapples</span></a><br/>
+<img alt="Bitterberry" height="25" src="img/Bitterberry.png" width="25"/>4 <a href="bitterberry.html"><span class="color-template color-template-bitterberry color-template-background-clip">Bitterberries</span></a>
 </p>
 </td></tr>
 <tr>
@@ -1134,11 +1134,11 @@ Milestone rewards include:
 <li>Level 17</li></ul>
 </td>
 <td><span typeof="mw:Error mw:File"></span><span style="border-bottom:1px dotted;" title="1,750,000,000">1B</span> <a href="honey.html"><span class="color-template color-template-honey">Honey</span></a><br/>
-<p><span typeof="mw:Error mw:File"></span>1 <a href="ant-pass.html"><span class="color-template color-template-ant-pass color-template-background-clip">Ant Pass</span></a><br/>
-<span typeof="mw:Error mw:File"></span>1 <a href="ticket.html"><span class="color-template color-template-ticket color-template-background-clip">Ticket</span></a><br/>
-<span typeof="mw:Error mw:File"></span>15 <a href="sunflower-seed.html"><span class="color-template color-template-sunflower-seed color-template-background-clip">Sunflower Seeds</span></a><br/>
-<span typeof="mw:Error mw:File"></span>15 <a href="pineapple.html"><span class="color-template color-template-pineapple color-template-background-clip">Pineapples</span></a><br/>
-<span typeof="mw:Error mw:File"></span>4 <a href="bitterberry.html"><span class="color-template color-template-bitterberry color-template-background-clip">Bitterberries</span></a>
+<p><img alt="Ant Pass" height="25" src="img/Ant_Pass.png" width="25"/>1 <a href="ant-pass.html"><span class="color-template color-template-ant-pass color-template-background-clip">Ant Pass</span></a><br/>
+<img alt="Ticket" height="25" src="img/Ticket.png" width="25"/>1 <a href="ticket.html"><span class="color-template color-template-ticket color-template-background-clip">Ticket</span></a><br/>
+<img alt="Sunflower Seed" height="25" src="img/Sunflower_Seed.png" width="25"/>15 <a href="sunflower-seed.html"><span class="color-template color-template-sunflower-seed color-template-background-clip">Sunflower Seeds</span></a><br/>
+<img alt="Pineapple" height="25" src="img/Pineapple.png" width="25"/>15 <a href="pineapple.html"><span class="color-template color-template-pineapple color-template-background-clip">Pineapples</span></a><br/>
+<img alt="Bitterberry" height="25" src="img/Bitterberry.png" width="25"/>4 <a href="bitterberry.html"><span class="color-template color-template-bitterberry color-template-background-clip">Bitterberries</span></a>
 </p>
 </td></tr>
 <tr>
@@ -1147,10 +1147,10 @@ Milestone rewards include:
 <li>Level 17</li></ul>
 </td>
 <td><span typeof="mw:Error mw:File"></span>560,000,000 <a href="honey.html"><span class="color-template color-template-honey">Honey</span></a><br/>
-<p><span typeof="mw:Error mw:File"></span>15 <a href="sunflower-seed.html"><span class="color-template color-template-sunflower-seed color-template-background-clip">Sunflower Seeds</span></a><br/>
-<span typeof="mw:Error mw:File"></span>1 <a href="ticket.html"><span class="color-template color-template-ticket color-template-background-clip">Ticket</span></a><br/>
-<span typeof="mw:Error mw:File"></span>15 <a href="pineapple.html"><span class="color-template color-template-pineapple color-template-background-clip">Pineapples</span></a><br/>
-<span typeof="mw:Error mw:File"></span>4 <a href="bitterberry.html"><span class="color-template color-template-bitterberry color-template-background-clip">Bitterberries</span></a>
+<p><img alt="Sunflower Seed" height="25" src="img/Sunflower_Seed.png" width="25"/>15 <a href="sunflower-seed.html"><span class="color-template color-template-sunflower-seed color-template-background-clip">Sunflower Seeds</span></a><br/>
+<img alt="Ticket" height="25" src="img/Ticket.png" width="25"/>1 <a href="ticket.html"><span class="color-template color-template-ticket color-template-background-clip">Ticket</span></a><br/>
+<img alt="Pineapple" height="25" src="img/Pineapple.png" width="25"/>15 <a href="pineapple.html"><span class="color-template color-template-pineapple color-template-background-clip">Pineapples</span></a><br/>
+<img alt="Bitterberry" height="25" src="img/Bitterberry.png" width="25"/>4 <a href="bitterberry.html"><span class="color-template color-template-bitterberry color-template-background-clip">Bitterberries</span></a>
 </p>
 </td></tr>
 <tr>
@@ -1159,11 +1159,11 @@ Milestone rewards include:
 <li>Level 17</li></ul>
 </td>
 <td><span typeof="mw:Error mw:File"></span>520,000,000 <a href="honey.html"><span class="color-template color-template-honey">Honey</span></a><br/>
-<p><span typeof="mw:Error mw:File"></span>16 <a href="sunflower-seed.html"><span class="color-template color-template-sunflower-seed color-template-background-clip">Sunflower Seeds</span></a><br/>
-<span typeof="mw:Error mw:File"></span>1 <a href="ticket.html"><span class="color-template color-template-ticket color-template-background-clip">Ticket</span></a><br/>
-<span typeof="mw:Error mw:File"></span>16 <a href="pineapple.html"><span class="color-template color-template-pineapple color-template-background-clip">Pineapples</span></a><br/>
-<span typeof="mw:Error mw:File"></span>4 <a href="bitterberry.html"><span class="color-template color-template-bitterberry color-template-background-clip">Bitterberries</span></a><br/>
-<span typeof="mw:Error mw:File"></span>1 <a href="ant-pass.html"><span class="color-template color-template-ant-pass color-template-background-clip">Ant Pass</span></a>
+<p><img alt="Sunflower Seed" height="25" src="img/Sunflower_Seed.png" width="25"/>16 <a href="sunflower-seed.html"><span class="color-template color-template-sunflower-seed color-template-background-clip">Sunflower Seeds</span></a><br/>
+<img alt="Ticket" height="25" src="img/Ticket.png" width="25"/>1 <a href="ticket.html"><span class="color-template color-template-ticket color-template-background-clip">Ticket</span></a><br/>
+<img alt="Pineapple" height="25" src="img/Pineapple.png" width="25"/>16 <a href="pineapple.html"><span class="color-template color-template-pineapple color-template-background-clip">Pineapples</span></a><br/>
+<img alt="Bitterberry" height="25" src="img/Bitterberry.png" width="25"/>4 <a href="bitterberry.html"><span class="color-template color-template-bitterberry color-template-background-clip">Bitterberries</span></a><br/>
+<img alt="Ant Pass" height="25" src="img/Ant_Pass.png" width="25"/>1 <a href="ant-pass.html"><span class="color-template color-template-ant-pass color-template-background-clip">Ant Pass</span></a>
 </p>
 </td></tr>
 <tr>
@@ -1172,10 +1172,10 @@ Milestone rewards include:
 <li>Level 17</li></ul>
 </td>
 <td><span typeof="mw:Error mw:File"></span>502,000,000 <a href="honey.html"><span class="color-template color-template-honey">Honey</span></a><br/>
-<p><span typeof="mw:Error mw:File"></span>16 <a href="sunflower-seed.html"><span class="color-template color-template-sunflower-seed color-template-background-clip">Sunflower Seeds</span></a><br/>
-<span typeof="mw:Error mw:File"></span>1 <a href="ticket.html"><span class="color-template color-template-ticket color-template-background-clip">Ticket</span></a><br/>
-<span typeof="mw:Error mw:File"></span>16 <a href="pineapple.html"><span class="color-template color-template-pineapple color-template-background-clip">Pineapples</span></a><br/>
-<span typeof="mw:Error mw:File"></span>4 <a href="bitterberry.html"><span class="color-template color-template-bitterberry color-template-background-clip">Bitterberries</span></a>
+<p><img alt="Sunflower Seed" height="25" src="img/Sunflower_Seed.png" width="25"/>16 <a href="sunflower-seed.html"><span class="color-template color-template-sunflower-seed color-template-background-clip">Sunflower Seeds</span></a><br/>
+<img alt="Ticket" height="25" src="img/Ticket.png" width="25"/>1 <a href="ticket.html"><span class="color-template color-template-ticket color-template-background-clip">Ticket</span></a><br/>
+<img alt="Pineapple" height="25" src="img/Pineapple.png" width="25"/>16 <a href="pineapple.html"><span class="color-template color-template-pineapple color-template-background-clip">Pineapples</span></a><br/>
+<img alt="Bitterberry" height="25" src="img/Bitterberry.png" width="25"/>4 <a href="bitterberry.html"><span class="color-template color-template-bitterberry color-template-background-clip">Bitterberries</span></a>
 </p>
 </td></tr>
 <tr>
@@ -1184,11 +1184,11 @@ Milestone rewards include:
 <li>Level 17</li></ul>
 </td>
 <td><span typeof="mw:Error mw:File"></span>586,000,000 <a href="honey.html"><span class="color-template color-template-honey">Honey</span></a><br/>
-<p><span typeof="mw:Error mw:File"></span>16 <a href="sunflower-seed.html"><span class="color-template color-template-sunflower-seed color-template-background-clip">Sunflower Seeds</span></a><br/>
-<span typeof="mw:Error mw:File"></span>1 <a href="ticket.html"><span class="color-template color-template-ticket color-template-background-clip">Ticket</span></a><br/>
-<span typeof="mw:Error mw:File"></span>16 <a href="pineapple.html"><span class="color-template color-template-pineapple color-template-background-clip">Pineapples</span></a><br/>
-<span typeof="mw:Error mw:File"></span>4 <a href="bitterberry.html"><span class="color-template color-template-bitterberry color-template-background-clip">Bitterberries</span></a><br/>
-<span typeof="mw:Error mw:File"></span>1 <a href="ant-pass.html"><span class="color-template color-template-ant-pass color-template-background-clip">Ant Pass</span></a>
+<p><img alt="Sunflower Seed" height="25" src="img/Sunflower_Seed.png" width="25"/>16 <a href="sunflower-seed.html"><span class="color-template color-template-sunflower-seed color-template-background-clip">Sunflower Seeds</span></a><br/>
+<img alt="Ticket" height="25" src="img/Ticket.png" width="25"/>1 <a href="ticket.html"><span class="color-template color-template-ticket color-template-background-clip">Ticket</span></a><br/>
+<img alt="Pineapple" height="25" src="img/Pineapple.png" width="25"/>16 <a href="pineapple.html"><span class="color-template color-template-pineapple color-template-background-clip">Pineapples</span></a><br/>
+<img alt="Bitterberry" height="25" src="img/Bitterberry.png" width="25"/>4 <a href="bitterberry.html"><span class="color-template color-template-bitterberry color-template-background-clip">Bitterberries</span></a><br/>
+<img alt="Ant Pass" height="25" src="img/Ant_Pass.png" width="25"/>1 <a href="ant-pass.html"><span class="color-template color-template-ant-pass color-template-background-clip">Ant Pass</span></a>
 </p>
 </td></tr>
 <tr>
@@ -1197,11 +1197,11 @@ Milestone rewards include:
 <li>Level 18</li></ul>
 </td>
 <td><span typeof="mw:Error mw:File"></span>662,000,000 <a href="honey.html"><span class="color-template color-template-honey">Honey</span></a><br/>
-<p><span typeof="mw:Error mw:File"></span>16 <a href="sunflower-seed.html"><span class="color-template color-template-sunflower-seed color-template-background-clip">Sunflower Seeds</span></a><br/>
-<span typeof="mw:Error mw:File"></span>1 <a href="ticket.html"><span class="color-template color-template-ticket color-template-background-clip">Ticket</span></a><br/>
-<span typeof="mw:Error mw:File"></span>16 <a href="pineapple.html"><span class="color-template color-template-pineapple color-template-background-clip">Pineapples</span></a><br/>
-<span typeof="mw:Error mw:File"></span>4 <a href="bitterberry.html"><span class="color-template color-template-bitterberry color-template-background-clip">Bitterberries</span></a><br/>
-<span typeof="mw:Error mw:File"></span>1 <a href="ant-pass.html"><span class="color-template color-template-ant-pass color-template-background-clip">Ant Pass</span></a>
+<p><img alt="Sunflower Seed" height="25" src="img/Sunflower_Seed.png" width="25"/>16 <a href="sunflower-seed.html"><span class="color-template color-template-sunflower-seed color-template-background-clip">Sunflower Seeds</span></a><br/>
+<img alt="Ticket" height="25" src="img/Ticket.png" width="25"/>1 <a href="ticket.html"><span class="color-template color-template-ticket color-template-background-clip">Ticket</span></a><br/>
+<img alt="Pineapple" height="25" src="img/Pineapple.png" width="25"/>16 <a href="pineapple.html"><span class="color-template color-template-pineapple color-template-background-clip">Pineapples</span></a><br/>
+<img alt="Bitterberry" height="25" src="img/Bitterberry.png" width="25"/>4 <a href="bitterberry.html"><span class="color-template color-template-bitterberry color-template-background-clip">Bitterberries</span></a><br/>
+<img alt="Ant Pass" height="25" src="img/Ant_Pass.png" width="25"/>1 <a href="ant-pass.html"><span class="color-template color-template-ant-pass color-template-background-clip">Ant Pass</span></a>
 </p>
 </td></tr>
 <tr>
@@ -1210,10 +1210,10 @@ Milestone rewards include:
 <li>Level 18</li></ul>
 </td>
 <td><span typeof="mw:Error mw:File"></span>437,000,000 <a href="honey.html"><span class="color-template color-template-honey">Honey</span></a><br/>
-<p><span typeof="mw:Error mw:File"></span>16 <a href="sunflower-seed.html"><span class="color-template color-template-sunflower-seed color-template-background-clip">Sunflower Seeds</span></a><br/>
-<span typeof="mw:Error mw:File"></span>1 <a href="ticket.html"><span class="color-template color-template-ticket color-template-background-clip">Ticket</span></a><br/>
-<span typeof="mw:Error mw:File"></span>16 <a href="pineapple.html"><span class="color-template color-template-pineapple color-template-background-clip">Pineapples</span></a><br/>
-<span typeof="mw:Error mw:File"></span>4 <a href="bitterberry.html"><span class="color-template color-template-bitterberry color-template-background-clip">Bitterberries</span></a>
+<p><img alt="Sunflower Seed" height="25" src="img/Sunflower_Seed.png" width="25"/>16 <a href="sunflower-seed.html"><span class="color-template color-template-sunflower-seed color-template-background-clip">Sunflower Seeds</span></a><br/>
+<img alt="Ticket" height="25" src="img/Ticket.png" width="25"/>1 <a href="ticket.html"><span class="color-template color-template-ticket color-template-background-clip">Ticket</span></a><br/>
+<img alt="Pineapple" height="25" src="img/Pineapple.png" width="25"/>16 <a href="pineapple.html"><span class="color-template color-template-pineapple color-template-background-clip">Pineapples</span></a><br/>
+<img alt="Bitterberry" height="25" src="img/Bitterberry.png" width="25"/>4 <a href="bitterberry.html"><span class="color-template color-template-bitterberry color-template-background-clip">Bitterberries</span></a>
 </p>
 </td></tr>
 <tr>
@@ -1222,11 +1222,11 @@ Milestone rewards include:
 <li>Level 18</li></ul>
 </td>
 <td><span typeof="mw:Error mw:File"></span>482,000,000 <a href="honey.html"><span class="color-template color-template-honey">Honey</span></a><br/>
-<p><span typeof="mw:Error mw:File"></span>16 <a href="sunflower-seed.html"><span class="color-template color-template-sunflower-seed color-template-background-clip">Sunflower Seeds</span></a><br/>
-<span typeof="mw:Error mw:File"></span>1 <a href="ticket.html"><span class="color-template color-template-ticket color-template-background-clip">Ticket</span></a><br/>
-<span typeof="mw:Error mw:File"></span>16 <a href="pineapple.html"><span class="color-template color-template-pineapple color-template-background-clip">Pineapples</span></a><br/>
-<span typeof="mw:Error mw:File"></span>4 <a href="bitterberry.html"><span class="color-template color-template-bitterberry color-template-background-clip">Bitterberries</span></a><br/>
-<span typeof="mw:Error mw:File"></span>1 <a href="ant-pass.html"><span class="color-template color-template-ant-pass color-template-background-clip">Ant Pass</span></a>
+<p><img alt="Sunflower Seed" height="25" src="img/Sunflower_Seed.png" width="25"/>16 <a href="sunflower-seed.html"><span class="color-template color-template-sunflower-seed color-template-background-clip">Sunflower Seeds</span></a><br/>
+<img alt="Ticket" height="25" src="img/Ticket.png" width="25"/>1 <a href="ticket.html"><span class="color-template color-template-ticket color-template-background-clip">Ticket</span></a><br/>
+<img alt="Pineapple" height="25" src="img/Pineapple.png" width="25"/>16 <a href="pineapple.html"><span class="color-template color-template-pineapple color-template-background-clip">Pineapples</span></a><br/>
+<img alt="Bitterberry" height="25" src="img/Bitterberry.png" width="25"/>4 <a href="bitterberry.html"><span class="color-template color-template-bitterberry color-template-background-clip">Bitterberries</span></a><br/>
+<img alt="Ant Pass" height="25" src="img/Ant_Pass.png" width="25"/>1 <a href="ant-pass.html"><span class="color-template color-template-ant-pass color-template-background-clip">Ant Pass</span></a>
 </p>
 </td></tr>
 <tr>
@@ -1235,10 +1235,10 @@ Milestone rewards include:
 <li>Level 18</li></ul>
 </td>
 <td><span typeof="mw:Error mw:File"></span>449,500,000 <a href="honey.html"><span class="color-template color-template-honey">Honey</span></a><br/>
-<p><span typeof="mw:Error mw:File"></span>16 <a href="sunflower-seed.html"><span class="color-template color-template-sunflower-seed color-template-background-clip">Sunflower Seeds</span></a><br/>
-<span typeof="mw:Error mw:File"></span>1 <a href="ticket.html"><span class="color-template color-template-ticket color-template-background-clip">Ticket</span></a><br/>
-<span typeof="mw:Error mw:File"></span>16 <a href="pineapple.html"><span class="color-template color-template-pineapple color-template-background-clip">Pineapples</span></a><br/>
-<span typeof="mw:Error mw:File"></span>4 <a href="bitterberry.html"><span class="color-template color-template-bitterberry color-template-background-clip">Bitterberries</span></a>
+<p><img alt="Sunflower Seed" height="25" src="img/Sunflower_Seed.png" width="25"/>16 <a href="sunflower-seed.html"><span class="color-template color-template-sunflower-seed color-template-background-clip">Sunflower Seeds</span></a><br/>
+<img alt="Ticket" height="25" src="img/Ticket.png" width="25"/>1 <a href="ticket.html"><span class="color-template color-template-ticket color-template-background-clip">Ticket</span></a><br/>
+<img alt="Pineapple" height="25" src="img/Pineapple.png" width="25"/>16 <a href="pineapple.html"><span class="color-template color-template-pineapple color-template-background-clip">Pineapples</span></a><br/>
+<img alt="Bitterberry" height="25" src="img/Bitterberry.png" width="25"/>4 <a href="bitterberry.html"><span class="color-template color-template-bitterberry color-template-background-clip">Bitterberries</span></a>
 </p>
 </td></tr>
 <tr>
@@ -1247,10 +1247,10 @@ Milestone rewards include:
 <li>Level 18</li></ul>
 </td>
 <td><span typeof="mw:Error mw:File"></span>431,000,000 <a href="honey.html"><span class="color-template color-template-honey">Honey</span></a><br/>
-<p><span typeof="mw:Error mw:File"></span>16 <a href="sunflower-seed.html"><span class="color-template color-template-sunflower-seed color-template-background-clip">Sunflower Seeds</span></a><br/>
-<span typeof="mw:Error mw:File"></span>1 <a href="ticket.html"><span class="color-template color-template-ticket color-template-background-clip">Ticket</span></a><br/>
-<span typeof="mw:Error mw:File"></span>16 <a href="pineapple.html"><span class="color-template color-template-pineapple color-template-background-clip">Pineapples</span></a><br/>
-<span typeof="mw:Error mw:File"></span>4 <a href="bitterberry.html"><span class="color-template color-template-bitterberry color-template-background-clip">Bitterberries</span></a>
+<p><img alt="Sunflower Seed" height="25" src="img/Sunflower_Seed.png" width="25"/>16 <a href="sunflower-seed.html"><span class="color-template color-template-sunflower-seed color-template-background-clip">Sunflower Seeds</span></a><br/>
+<img alt="Ticket" height="25" src="img/Ticket.png" width="25"/>1 <a href="ticket.html"><span class="color-template color-template-ticket color-template-background-clip">Ticket</span></a><br/>
+<img alt="Pineapple" height="25" src="img/Pineapple.png" width="25"/>16 <a href="pineapple.html"><span class="color-template color-template-pineapple color-template-background-clip">Pineapples</span></a><br/>
+<img alt="Bitterberry" height="25" src="img/Bitterberry.png" width="25"/>4 <a href="bitterberry.html"><span class="color-template color-template-bitterberry color-template-background-clip">Bitterberries</span></a>
 </p>
 </td></tr>
 <tr>
@@ -1259,11 +1259,11 @@ Milestone rewards include:
 <li>Level 18</li></ul>
 </td>
 <td><span typeof="mw:Error mw:File"></span><span style="border-bottom:1px dotted;" title="12,474,246,636">12.5B</span> <a href="honey.html"><span class="color-template color-template-honey">Honey</span></a><br/>
-<p><span typeof="mw:Error mw:File"></span>1 <a href="star-treat.html"><span class="color-template color-template-star-treat color-template-background-clip">Star Treat</span></a><br/>
-<span typeof="mw:Error mw:File"></span>1 <a href="ticket.html"><span class="color-template color-template-ticket color-template-background-clip">Ticket</span></a><br/>
-<span typeof="mw:Error mw:File"></span>16 <a href="sunflower-seed.html"><span class="color-template color-template-sunflower-seed color-template-background-clip">Sunflower Seeds</span></a><br/>
-<span typeof="mw:Error mw:File"></span>16 <a href="pineapple.html"><span class="color-template color-template-pineapple color-template-background-clip">Pineapples</span></a><br/>
-<span typeof="mw:Error mw:File"></span>4 <a href="bitterberry.html"><span class="color-template color-template-bitterberry color-template-background-clip">Bitterberries</span></a>
+<p><img alt="Star Treat" height="25" src="img/Star_Treat.png" width="25"/>1 <a href="star-treat.html"><span class="color-template color-template-star-treat color-template-background-clip">Star Treat</span></a><br/>
+<img alt="Ticket" height="25" src="img/Ticket.png" width="25"/>1 <a href="ticket.html"><span class="color-template color-template-ticket color-template-background-clip">Ticket</span></a><br/>
+<img alt="Sunflower Seed" height="25" src="img/Sunflower_Seed.png" width="25"/>16 <a href="sunflower-seed.html"><span class="color-template color-template-sunflower-seed color-template-background-clip">Sunflower Seeds</span></a><br/>
+<img alt="Pineapple" height="25" src="img/Pineapple.png" width="25"/>16 <a href="pineapple.html"><span class="color-template color-template-pineapple color-template-background-clip">Pineapples</span></a><br/>
+<img alt="Bitterberry" height="25" src="img/Bitterberry.png" width="25"/>4 <a href="bitterberry.html"><span class="color-template color-template-bitterberry color-template-background-clip">Bitterberries</span></a>
 </p>
 </td></tr></tbody></table>
 
@@ -1299,10 +1299,10 @@ Stub
 <li>Level 18</li></ul>
 </td>
 <td><span typeof="mw:Error mw:File"></span>1.05B <a href="honey.html"><span class="color-template color-template-honey">Honey</span></a><br/>
-<p><span typeof="mw:Error mw:File"></span>17 <a href="sunflower-seed.html"><span class="color-template color-template-sunflower-seed color-template-background-clip">Sunflower Seeds</span></a><br/>
-<span typeof="mw:Error mw:File"></span>1 <a href="ticket.html"><span class="color-template color-template-ticket color-template-background-clip">Ticket</span></a><br/>
-<span typeof="mw:Error mw:File"></span>17 <a href="pineapple.html"><span class="color-template color-template-pineapple color-template-background-clip">Pineapples</span></a><br/>
-<span typeof="mw:Error mw:File"></span>4 <a href="bitterberry.html"><span class="color-template color-template-bitterberry color-template-background-clip">Bitterberries</span></a>
+<p><img alt="Sunflower Seed" height="25" src="img/Sunflower_Seed.png" width="25"/>17 <a href="sunflower-seed.html"><span class="color-template color-template-sunflower-seed color-template-background-clip">Sunflower Seeds</span></a><br/>
+<img alt="Ticket" height="25" src="img/Ticket.png" width="25"/>1 <a href="ticket.html"><span class="color-template color-template-ticket color-template-background-clip">Ticket</span></a><br/>
+<img alt="Pineapple" height="25" src="img/Pineapple.png" width="25"/>17 <a href="pineapple.html"><span class="color-template color-template-pineapple color-template-background-clip">Pineapples</span></a><br/>
+<img alt="Bitterberry" height="25" src="img/Bitterberry.png" width="25"/>4 <a href="bitterberry.html"><span class="color-template color-template-bitterberry color-template-background-clip">Bitterberries</span></a>
 </p>
 </td></tr>
 <tr>
@@ -1389,10 +1389,10 @@ Stub
 <li>Health 7.5 Million</li></ul>
 </td>
 <td><span typeof="mw:Error mw:File"></span>695,166,437 <a href="honey.html"><span class="color-template color-template-honey">Honey</span></a> (with honey mask)<br/>
-<p><span typeof="mw:Error mw:File"></span>18 <a href="sunflower-seed.html"><span class="color-template color-template-sunflower-seed color-template-background-clip">Sunflower Seeds</span></a><br/>
-<span typeof="mw:Error mw:File"></span>1 <a href="ticket.html"><span class="color-template color-template-ticket color-template-background-clip">Ticket</span></a><br/>
-<span typeof="mw:Error mw:File"></span>18 <a href="pineapple.html"><span class="color-template color-template-pineapple color-template-background-clip">Pineapples</span></a><br/>
-<span typeof="mw:Error mw:File"></span>4 <a href="bitterberry.html"><span class="color-template color-template-bitterberry color-template-background-clip">Bitterberries</span></a>
+<p><img alt="Sunflower Seed" height="25" src="img/Sunflower_Seed.png" width="25"/>18 <a href="sunflower-seed.html"><span class="color-template color-template-sunflower-seed color-template-background-clip">Sunflower Seeds</span></a><br/>
+<img alt="Ticket" height="25" src="img/Ticket.png" width="25"/>1 <a href="ticket.html"><span class="color-template color-template-ticket color-template-background-clip">Ticket</span></a><br/>
+<img alt="Pineapple" height="25" src="img/Pineapple.png" width="25"/>18 <a href="pineapple.html"><span class="color-template color-template-pineapple color-template-background-clip">Pineapples</span></a><br/>
+<img alt="Bitterberry" height="25" src="img/Bitterberry.png" width="25"/>4 <a href="bitterberry.html"><span class="color-template color-template-bitterberry color-template-background-clip">Bitterberries</span></a>
 </p>
 </td></tr>
 <tr>

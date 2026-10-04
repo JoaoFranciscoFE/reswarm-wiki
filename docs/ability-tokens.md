@@ -756,30 +756,30 @@ Notably, this and [Festive Sprouts](sprout.md) are the only renewable methods to
 <tr>
 <td><span typeof="mw:Error mw:File"></span><span class="color-template color-template-red-boost-token color-template-background-clip">Red Boost Token</span><br/>
 <p><strong class="error"><span class="scribunto-error mw-scribunto-error-19681282">Lua error in Module:Item_image at line 88: Template error! There's no such file named File:Festive Blessing Token.png for Template:I.</span></strong><span class="color-template color-template-festive-blessing color-template-background-clip">Festive Blessing Token</span><br/>
-<span typeof="mw:Error mw:File"></span><a href="treat.html"><span class="color-template color-template-treat">Treats</span></a><br/>
-<span typeof="mw:Error mw:File"></span><a href="sunflower-seed.html"><span class="color-template color-template-sunflower-seed color-template-background-clip">Sunflower Seeds</span></a><br/>
-<span typeof="mw:Error mw:File"></span><a href="strawberry.html"><span class="color-template color-template-strawberry color-template-background-clip">Strawberries</span></a><br/>
-<span typeof="mw:Error mw:File"></span><a href="pineapple.html"><span class="color-template color-template-pineapple color-template-background-clip">Pineapples</span></a><br/>
-<span typeof="mw:Error mw:File"></span><a href="blueberry.html"><span class="color-template color-template-blueberry color-template-background-clip">Blueberries</span></a><br/>
+<img alt="Treat" height="35" src="img/Treat.png" width="35"/><a href="treat.html"><span class="color-template color-template-treat">Treats</span></a><br/>
+<img alt="Sunflower Seed" height="35" src="img/Sunflower_Seed.png" width="35"/><a href="sunflower-seed.html"><span class="color-template color-template-sunflower-seed color-template-background-clip">Sunflower Seeds</span></a><br/>
+<img alt="Strawberry" height="35" src="img/Strawberry.png" width="35"/><a href="strawberry.html"><span class="color-template color-template-strawberry color-template-background-clip">Strawberries</span></a><br/>
+<img alt="Pineapple" height="35" src="img/Pineapple.png" width="35"/><a href="pineapple.html"><span class="color-template color-template-pineapple color-template-background-clip">Pineapples</span></a><br/>
+<img alt="Blueberry" height="35" src="img/Blueberry.png" width="35"/><a href="blueberry.html"><span class="color-template color-template-blueberry color-template-background-clip">Blueberries</span></a><br/>
 <span typeof="mw:Error mw:File"></span><a href="honey.html"><span class="color-template color-template-honey">Honey</span></a><br/>
-<span typeof="mw:Error mw:File"></span><a href="gumdrops.html"><span class="color-template color-template-gumdrops color-template-background-clip">Gumdrops</span></a><br/>
-<span typeof="mw:Error mw:File"></span><a href="royal-jelly.html"><span class="color-template color-template-royal-jelly color-template-background-clip">Royal Jellies</span></a><br/>
-<span typeof="mw:Error mw:File"></span><a href="ticket.html"><span class="color-template color-template-ticket color-template-background-clip">Ticket</span></a> (Rare)<br/>
-<span typeof="mw:Error mw:File"></span><a href="blue-extract.html"><span class="color-template color-template-blue-extract color-template-background-clip">Blue Extract</span></a> (Rare)<br/>
-<span typeof="mw:Error mw:File"></span><a href="red-extract.html"><span class="color-template color-template-red-extract color-template-background-clip">Red Extract</span></a> (Rare)<br/>
-<span typeof="mw:Error mw:File"></span><a href="magic-bean.html"><span class="color-template color-template-magic-bean color-template-background-clip">Magic Bean</span></a> (Rare)<br/>
-<span typeof="mw:Error mw:File"></span><a href="micro-converter.html"><span class="color-template color-template-micro-converter color-template-background-clip">Micro-Converter</span></a> (Rare)<br/>
-<span typeof="mw:Error mw:File"></span><a href="festive-bean.html"><span class="color-template color-template-festive-bean color-template-background-clip">Festive Bean</span></a> (Exceptionally rare)<br/>
-<span typeof="mw:Error mw:File"></span><a href="sticker.html#Sticker_Index"><span class="color-template color-template-flying-festive-bee-sticker color-template-background-clip">Flying Festive Bee Sticker</span></a> (Beesmas only, Unbelievably rare, odds increase with bee's level)
+<img alt="Gumdrops" height="35" src="img/Gumdrops.png" width="35"/><a href="gumdrops.html"><span class="color-template color-template-gumdrops color-template-background-clip">Gumdrops</span></a><br/>
+<img alt="Royal Jelly" height="35" src="img/Royal_Jelly.png" width="35"/><a href="royal-jelly.html"><span class="color-template color-template-royal-jelly color-template-background-clip">Royal Jellies</span></a><br/>
+<img alt="Ticket" height="35" src="img/Ticket.png" width="35"/><a href="ticket.html"><span class="color-template color-template-ticket color-template-background-clip">Ticket</span></a> (Rare)<br/>
+<img alt="Blue Extract" height="35" src="img/Blue_Extract.png" width="35"/><a href="blue-extract.html"><span class="color-template color-template-blue-extract color-template-background-clip">Blue Extract</span></a> (Rare)<br/>
+<img alt="Red Extract" height="35" src="img/Red_Extract.png" width="35"/><a href="red-extract.html"><span class="color-template color-template-red-extract color-template-background-clip">Red Extract</span></a> (Rare)<br/>
+<img alt="Magic Bean" height="35" src="img/Magic_Bean.png" width="35"/><a href="magic-bean.html"><span class="color-template color-template-magic-bean color-template-background-clip">Magic Bean</span></a> (Rare)<br/>
+<img alt="Micro-Converter" height="35" src="img/Micro-Converter.png" width="35"/><a href="micro-converter.html"><span class="color-template color-template-micro-converter color-template-background-clip">Micro-Converter</span></a> (Rare)<br/>
+<img alt="Festive Bean" height="35" src="img/Festive_Bean.png" width="35"/><a href="festive-bean.html"><span class="color-template color-template-festive-bean color-template-background-clip">Festive Bean</span></a> (Exceptionally rare)<br/>
+<img alt="Flying Festive Bee" height="35" src="img/Flying_Festive_Bee.png" width="35"/><a href="sticker.html#Sticker_Index"><span class="color-template color-template-flying-festive-bee-sticker color-template-background-clip">Flying Festive Bee Sticker</span></a> (Beesmas only, Unbelievably rare, odds increase with bee's level)
 </p>
 </td>
 <td><strong class="error"><span class="scribunto-error mw-scribunto-error-e04c3e54">Lua error in Module:Item_image at line 88: Template error! There's no such file named File:Beesmas Cheer Token.png for Template:I.</span></strong><span class="color-template color-template-beesmas-cheer color-template-background-clip">Beesmas Cheer Token</span><br/>
-<p><span typeof="mw:Error mw:File"></span><a href="glue.html"><span class="color-template color-template-glue color-template-background-clip">Glue</span></a> (Rare)<br/>
-<span typeof="mw:Error mw:File"></span><a href="oil.html"><span class="color-template color-template-oil color-template-background-clip">Oil</span></a> (Rare)<br/>
-<span typeof="mw:Error mw:File"></span><a href="enzymes.html"><span class="color-template color-template-enzymes color-template-background-clip">Enzymes</span></a> (Rare)<br/>
-<span typeof="mw:Error mw:File"></span><a href="glitter.html"><span class="color-template color-template-glitter color-template-background-clip">Glitter</span></a> (Rare)<br/>
-<span typeof="mw:Error mw:File"></span><a href="royal-jelly.html#Star_Jelly"><span class="color-template color-template-star-jelly color-template-background-clip">Star Jelly</span></a> (Rare)<br/>
-<span typeof="mw:Error mw:File"></span><a href="field-dice.html"><span class="color-template color-template-field-dice color-template-background-clip">Field Dice</span></a> (Rare)
+<p><img alt="Glue" height="35" src="img/Glue.png" width="35"/><a href="glue.html"><span class="color-template color-template-glue color-template-background-clip">Glue</span></a> (Rare)<br/>
+<img alt="Oil" height="35" src="img/Oil.png" width="35"/><a href="oil.html"><span class="color-template color-template-oil color-template-background-clip">Oil</span></a> (Rare)<br/>
+<img alt="Enzymes" height="35" src="img/Enzymes.png" width="35"/><a href="enzymes.html"><span class="color-template color-template-enzymes color-template-background-clip">Enzymes</span></a> (Rare)<br/>
+<img alt="Glitter" height="35" src="img/Glitter.png" width="35"/><a href="glitter.html"><span class="color-template color-template-glitter color-template-background-clip">Glitter</span></a> (Rare)<br/>
+<img alt="Star Jelly" height="35" src="img/Star_Jelly.png" width="35"/><a href="royal-jelly.html#Star_Jelly"><span class="color-template color-template-star-jelly color-template-background-clip">Star Jelly</span></a> (Rare)<br/>
+<img alt="Field Dice" height="35" src="img/Field_Dice.png" width="35"/><a href="field-dice.html"><span class="color-template color-template-field-dice color-template-background-clip">Field Dice</span></a> (Rare)
 </p>
 </td></tr></tbody></table>
 

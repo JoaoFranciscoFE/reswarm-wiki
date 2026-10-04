@@ -289,28 +289,28 @@ Rewards may include three or four of the following items, with some rewards bein
 <th>Possible Drops List
 </th></tr>
 <tr>
-<td><span typeof="mw:Error mw:File"></span><a href="ticket.html"><span class="color-template color-template-ticket color-template-background-clip">Tickets</span></a><br/>
-<p><span typeof="mw:Error mw:File"></span><a href="ticket-planter.html"><span class="color-template color-template-ticket-planter color-template-background-clip">Ticket Planters</span></a><br/>
-<span typeof="mw:Error mw:File"></span><a href="gumdrops.html"><span class="color-template color-template-gumdrops color-template-background-clip">Gumdrops</span></a><br/>
-<span typeof="mw:Error mw:File"></span><a href="honeysuckle.html"><span class="color-template color-template-honeysuckle color-template-background-clip">Honeysuckles</span></a><br/>
-<span typeof="mw:Error mw:File"></span><a href="whirligig.html"><span class="color-template color-template-whirligig color-template-background-clip">Whirligigs</span></a><br/>
-<span typeof="mw:Error mw:File"></span><a href="micro-converter.html"><span class="color-template color-template-micro-converter color-template-background-clip">Micro-Converters</span></a><br/>
-<span typeof="mw:Error mw:File"></span><a href="jelly-beans.html"><span class="color-template color-template-jelly-beans color-template-background-clip">Jelly Beans</span></a><br/>
-<span typeof="mw:Error mw:File"></span><a href="oil.html"><span class="color-template color-template-oil color-template-background-clip">Oils</span></a><br/>
-<span typeof="mw:Error mw:File"></span><a href="enzymes.html"><span class="color-template color-template-enzymes color-template-background-clip">Enzymes</span></a><br/>
-<span typeof="mw:Error mw:File"></span><a href="red-extract.html"><span class="color-template color-template-red-extract color-template-background-clip">Red Extracts</span></a><br/>
-<span typeof="mw:Error mw:File"></span><a href="blue-extract.html"><span class="color-template color-template-blue-extract color-template-background-clip">Blue Extracts</span></a><br/>
-<span typeof="mw:Error mw:File"></span><a href="field-dice.html"><span class="color-template color-template-field-dice color-template-background-clip">Field Dice</span></a><br/>
-<span typeof="mw:Error mw:File"></span><a href="smooth-dice.html"><span class="color-template color-template-smooth-dice color-template-background-clip">Smooth Dice</span></a><br/>
-<span typeof="mw:Error mw:File"></span><a href="loaded-dice.html"><span class="color-template color-template-loaded-dice color-template-background-clip">Loaded Dice</span></a><br/>
-<span typeof="mw:Error mw:File"></span><a href="soft-wax.html"><span class="color-template color-template-soft-wax">Soft Waxes</span></a><br/>
-<span typeof="mw:Error mw:File"></span><a href="hard-wax.html"><span class="color-template color-template-hard-wax">Hard Waxes</span></a><br/>
-<span typeof="mw:Error mw:File"></span><a href="pink-balloon.html"><span class="color-template color-template-pink-balloon color-template-background-clip">Pink Balloons</span></a><br/>
-<span typeof="mw:Error mw:File"></span><a href="royal-jelly.html#Star_Jelly"><span class="color-template color-template-star-jelly color-template-background-clip">Star Jellies</span></a><br/>
-<span typeof="mw:Error mw:File"></span><a href="turpentine.html"><span class="color-template color-template-turpentine color-template-background-clip">Turpentine</span></a> (Very Rare)<br/>
-<span typeof="mw:Error mw:File"></span><a href="sticker.html#Sticker_Index"><span class="color-template color-template-bear-bee-voucher color-template-background-clip">Bear Bee Voucher</span></a> (Nearly Impossible)<br/>
-<span typeof="mw:Error mw:File"></span><a href="sticker.html#Sticker_Index"><span class="color-template color-template-x2-bee-gather-voucher color-template-background-clip">x2 Bee Gather Voucher</span></a> (Nearly Impossible)<br/>
-<span typeof="mw:Error mw:File"></span><a href="sticker.html#Sticker_Index"><span class="color-template color-template-x2-convert-speed-voucher color-template-background-clip">x2 Convert Speed Voucher</span></a> (Nearly Impossible)
+<td><img alt="Ticket" height="35" src="img/Ticket.png" width="35"/><a href="ticket.html"><span class="color-template color-template-ticket color-template-background-clip">Tickets</span></a><br/>
+<p><img alt="Ticket Planter" height="35" src="img/Ticket_Planter.png" width="35"/><a href="ticket-planter.html"><span class="color-template color-template-ticket-planter color-template-background-clip">Ticket Planters</span></a><br/>
+<img alt="Gumdrops" height="35" src="img/Gumdrops.png" width="35"/><a href="gumdrops.html"><span class="color-template color-template-gumdrops color-template-background-clip">Gumdrops</span></a><br/>
+<img alt="Honeysuckle" height="35" src="img/Honeysuckle.png" width="35"/><a href="honeysuckle.html"><span class="color-template color-template-honeysuckle color-template-background-clip">Honeysuckles</span></a><br/>
+<img alt="Whirligig" height="35" src="img/Whirligig.png" width="35"/><a href="whirligig.html"><span class="color-template color-template-whirligig color-template-background-clip">Whirligigs</span></a><br/>
+<img alt="Micro-Converter" height="35" src="img/Micro-Converter.png" width="35"/><a href="micro-converter.html"><span class="color-template color-template-micro-converter color-template-background-clip">Micro-Converters</span></a><br/>
+<img alt="Jelly Beans" height="35" src="img/Jelly_Beans.png" width="35"/><a href="jelly-beans.html"><span class="color-template color-template-jelly-beans color-template-background-clip">Jelly Beans</span></a><br/>
+<img alt="Oil" height="35" src="img/Oil.png" width="35"/><a href="oil.html"><span class="color-template color-template-oil color-template-background-clip">Oils</span></a><br/>
+<img alt="Enzymes" height="35" src="img/Enzymes.png" width="35"/><a href="enzymes.html"><span class="color-template color-template-enzymes color-template-background-clip">Enzymes</span></a><br/>
+<img alt="Red Extract" height="35" src="img/Red_Extract.png" width="35"/><a href="red-extract.html"><span class="color-template color-template-red-extract color-template-background-clip">Red Extracts</span></a><br/>
+<img alt="Blue Extract" height="35" src="img/Blue_Extract.png" width="35"/><a href="blue-extract.html"><span class="color-template color-template-blue-extract color-template-background-clip">Blue Extracts</span></a><br/>
+<img alt="Field Dice" height="35" src="img/Field_Dice.png" width="35"/><a href="field-dice.html"><span class="color-template color-template-field-dice color-template-background-clip">Field Dice</span></a><br/>
+<img alt="Smooth Dice" height="35" src="img/Smooth_Dice.png" width="35"/><a href="smooth-dice.html"><span class="color-template color-template-smooth-dice color-template-background-clip">Smooth Dice</span></a><br/>
+<img alt="Loaded Dice" height="35" src="img/Loaded_Dice.png" width="35"/><a href="loaded-dice.html"><span class="color-template color-template-loaded-dice color-template-background-clip">Loaded Dice</span></a><br/>
+<img alt="Soft Wax" height="35" src="img/Soft_Wax.png" width="35"/><a href="soft-wax.html"><span class="color-template color-template-soft-wax">Soft Waxes</span></a><br/>
+<img alt="Hard Wax" height="35" src="img/Hard_Wax.png" width="35"/><a href="hard-wax.html"><span class="color-template color-template-hard-wax">Hard Waxes</span></a><br/>
+<img alt="Pink Balloon" height="35" src="img/Pink_Balloon.png" width="35"/><a href="pink-balloon.html"><span class="color-template color-template-pink-balloon color-template-background-clip">Pink Balloons</span></a><br/>
+<img alt="Star Jelly" height="35" src="img/Star_Jelly.png" width="35"/><a href="royal-jelly.html#Star_Jelly"><span class="color-template color-template-star-jelly color-template-background-clip">Star Jellies</span></a><br/>
+<img alt="Turpentine" height="35" src="img/Turpentine.png" width="35"/><a href="turpentine.html"><span class="color-template color-template-turpentine color-template-background-clip">Turpentine</span></a> (Very Rare)<br/>
+<img alt="Bear Bee Voucher" height="35" src="img/Bear_Bee_Voucher.png" width="35"/><a href="sticker.html#Sticker_Index"><span class="color-template color-template-bear-bee-voucher color-template-background-clip">Bear Bee Voucher</span></a> (Nearly Impossible)<br/>
+<img alt="x2 Bee Gather Voucher" height="35" src="img/x2_Bee_Gather_Voucher.png" width="35"/><a href="sticker.html#Sticker_Index"><span class="color-template color-template-x2-bee-gather-voucher color-template-background-clip">x2 Bee Gather Voucher</span></a> (Nearly Impossible)<br/>
+<img alt="x2 Convert Speed Voucher" height="35" src="img/x2_Convert_Speed_Voucher.png" width="35"/><a href="sticker.html#Sticker_Index"><span class="color-template color-template-x2-convert-speed-voucher color-template-background-clip">x2 Convert Speed Voucher</span></a> (Nearly Impossible)
 </p>
 </td></tr></tbody></table>
 

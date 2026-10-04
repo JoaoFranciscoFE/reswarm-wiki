@@ -56,7 +56,7 @@ s
 <caption style="white-space:nowrap;">Extra Slots Costs
 </caption>
 <tbody><tr>
-<th><span typeof="mw:Error mw:File"></span><a href="ticket.html"><span class="color-template color-template-ticket color-template-background-clip">Tickets</span></a>
+<th><img alt="Ticket" height="35" src="img/Ticket.png" width="35"/><a href="ticket.html"><span class="color-template color-template-ticket color-template-background-clip">Tickets</span></a>
 </th>
 <th>Total Cost
 </th>

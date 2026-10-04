@@ -60,12 +60,12 @@ There's a store in the Blue HQ that sells nine items. To open the store, press E
 </td>
 <td>250 <a href="gifted-bucko-bee.html">Gifted Bucko Bee</a> quests completed<br/>
 <p><span typeof="mw:Error mw:File"></span><span style="border-bottom:1px dotted;" title="2,500,000,000,000">2.5T</span> <a href="honey.html"><span class="color-template color-template-honey">Honey</span></a><br/>
-<span typeof="mw:Error mw:File"></span>1,500 <a href="blue-extract.html"><span class="color-template color-template-blue-extract color-template-background-clip">Blue Extracts</span></a><br/>
-<span typeof="mw:Error mw:File"></span>150 <a href="stinger.html"><span class="color-template color-template-stinger color-template-background-clip">Stingers</span></a><br/>
-<span typeof="mw:Error mw:File"></span>150 <a href="tropical-drink.html"><span class="color-template color-template-tropical-drink color-template-background-clip">Tropical Drinks</span></a><br/>
-<span typeof="mw:Error mw:File"></span>75 <a href="swirled-wax.html"><span class="color-template color-template-swirled-wax color-template-background-clip">Swirled Waxes</span></a><br/>
-<span typeof="mw:Error mw:File"></span>50 <a href="super-smoothie.html"><span class="color-template color-template-super-smoothie color-template-background-clip">Super Smoothies</span></a><br/>
-<span typeof="mw:Error mw:File"></span>3 <a href="comforting-vial.html"><span class="color-template color-template-comforting-vial color-template-background-clip">Comforting Vials</span></a>
+<img alt="Blue Extract" height="25" src="img/Blue_Extract.png" width="25"/>1,500 <a href="blue-extract.html"><span class="color-template color-template-blue-extract color-template-background-clip">Blue Extracts</span></a><br/>
+<img alt="Stinger" height="25" src="img/Stinger.png" width="25"/>150 <a href="stinger.html"><span class="color-template color-template-stinger color-template-background-clip">Stingers</span></a><br/>
+<img alt="Tropical Drink" height="25" src="img/Tropical_Drink.png" width="25"/>150 <a href="tropical-drink.html"><span class="color-template color-template-tropical-drink color-template-background-clip">Tropical Drinks</span></a><br/>
+<img alt="Swirled Wax" height="25" src="img/Swirled_Wax.png" width="25"/>75 <a href="swirled-wax.html"><span class="color-template color-template-swirled-wax color-template-background-clip">Swirled Waxes</span></a><br/>
+<img alt="Super Smoothie" height="25" src="img/Super_Smoothie.png" width="25"/>50 <a href="super-smoothie.html"><span class="color-template color-template-super-smoothie color-template-background-clip">Super Smoothies</span></a><br/>
+<img alt="Comforting Vial" height="25" src="img/Comforting_Vial.png" width="25"/>3 <a href="comforting-vial.html"><span class="color-template color-template-comforting-vial color-template-background-clip">Comforting Vials</span></a>
 </p>
 </td>
 <td>Pierce through flowers and bubbles with torrential waves. Ramps up the more you pop, then unleashes tidal waves in a violent surge. Splash Balloons with tall waves to earn Tide Blessing.
@@ -85,8 +85,8 @@ There's a store in the Blue HQ that sells nine items. To open the store, press E
 <td><figure class="mw-halign-center" typeof="mw:File"><img alt="Blue Port-O-Hive" data-image-key="Blue_Port-O-Hive.png" data-image-name="Blue Port-O-Hive.png" data-relevant="1" height="80" src="img/Blue_Port-O-Hive.png" width="80"/><figcaption></figcaption></figure><div style="text-align: center;"> <a href="blue-port-o-hive.html">Blue Port-O-Hive</a></div>
 </td>
 <td><span typeof="mw:Error mw:File"></span>12,500,000 <a href="honey.html"><span class="color-template color-template-honey">Honey</span></a><br/>
-<p><span typeof="mw:Error mw:File"></span>2 <a href="blue-extract.html"><span class="color-template color-template-blue-extract color-template-background-clip">Blue Extracts</span></a><br/>
-<span typeof="mw:Error mw:File"></span>2 <a href="soft-wax.html"><span class="color-template color-template-soft-wax">Soft Waxes</span></a>
+<p><img alt="Blue Extract" height="25" src="img/Blue_Extract.png" width="25"/>2 <a href="blue-extract.html"><span class="color-template color-template-blue-extract color-template-background-clip">Blue Extracts</span></a><br/>
+<img alt="Soft Wax" height="25" src="img/Soft_Wax.png" width="25"/>2 <a href="soft-wax.html"><span class="color-template color-template-soft-wax">Soft Waxes</span></a>
 </p>
 </td>
 <td>A Port-O-Hive dipped in shiney <i>[sic]</i> blue paint.
@@ -111,10 +111,10 @@ There's a store in the Blue HQ that sells nine items. To open the store, press E
 <td><figure class="mw-halign-center" typeof="mw:File"><img alt="Bubble Mask" data-image-key="Bubble_Mask.png" data-image-name="Bubble Mask.png" data-relevant="1" height="80" src="img/Bubble_Mask.png" width="80"/><figcaption></figcaption></figure><div style="text-align: center;"><a href="bubble-mask.html">Bubble Mask</a></div>
 </td>
 <td><span typeof="mw:Error mw:File"></span>100,000,000 <a href="honey.html"><span class="color-template color-template-honey">Honey</span></a><br/>
-<p><span typeof="mw:Error mw:File"></span>50 <a href="blue-extract.html"><span class="color-template color-template-blue-extract color-template-background-clip">Blue Extracts</span></a><br/>
-<span typeof="mw:Error mw:File"></span>500 <a href="blueberry.html"><span class="color-template color-template-blueberry color-template-background-clip">Blueberries</span></a><br/>
-<span typeof="mw:Error mw:File"></span>25 <a href="oil.html"><span class="color-template color-template-oil color-template-background-clip">Oils</span></a><br/>
-<span typeof="mw:Error mw:File"></span>15 <a href="glitter.html"><span class="color-template color-template-glitter color-template-background-clip">Glitter</span></a>
+<p><img alt="Blue Extract" height="25" src="img/Blue_Extract.png" width="25"/>50 <a href="blue-extract.html"><span class="color-template color-template-blue-extract color-template-background-clip">Blue Extracts</span></a><br/>
+<img alt="Blueberry" height="25" src="img/Blueberry.png" width="25"/>500 <a href="blueberry.html"><span class="color-template color-template-blueberry color-template-background-clip">Blueberries</span></a><br/>
+<img alt="Oil" height="25" src="img/Oil.png" width="25"/>25 <a href="oil.html"><span class="color-template color-template-oil color-template-background-clip">Oils</span></a><br/>
+<img alt="Glitter" height="25" src="img/Glitter.png" width="25"/>15 <a href="glitter.html"><span class="color-template color-template-glitter color-template-background-clip">Glitter</span></a>
 </p>
 </td>
 <td>Harness the power of the sea to enhance your Blue pollen gathering.
@@ -130,9 +130,9 @@ There's a store in the Blue HQ that sells nine items. To open the store, press E
 <td><figure class="mw-halign-center" typeof="mw:File"><img alt="Blue Guard" data-image-key="Blue_Guard.png" data-image-name="Blue Guard.png" data-relevant="1" height="80" src="img/Blue_Guard.png" width="80"/><figcaption></figcaption></figure><div style="text-align: center;"><a href="blue-guard.html">Blue Guard</a>
 </div></td>
 <td><span typeof="mw:Error mw:File"></span>1,000,000 <a href="honey.html"><span class="color-template color-template-honey">Honey</span></a><br/>
-<p><span typeof="mw:Error mw:File"></span>50 <a href="blueberry.html"><span class="color-template color-template-blueberry color-template-background-clip">Blueberries</span></a><br/>
-<span typeof="mw:Error mw:File"></span>1 <a href="royal-jelly.html"><span class="color-template color-template-royal-jelly color-template-background-clip">Royal Jelly</span></a><br/>
-<span typeof="mw:Error mw:File"></span>3 <a href="moon-charm.html"><span class="color-template color-template-moon-charm color-template-background-clip">Moon Charms</span></a>
+<p><img alt="Blueberry" height="25" src="img/Blueberry.png" width="25"/>50 <a href="blueberry.html"><span class="color-template color-template-blueberry color-template-background-clip">Blueberries</span></a><br/>
+<img alt="Royal Jelly" height="25" src="img/Royal_Jelly.png" width="25"/>1 <a href="royal-jelly.html"><span class="color-template color-template-royal-jelly color-template-background-clip">Royal Jelly</span></a><br/>
+<img alt="Moon Charm" height="25" src="img/Moon_Charm.png" width="25"/>3 <a href="moon-charm.html"><span class="color-template color-template-moon-charm color-template-background-clip">Moon Charms</span></a>
 </p>
 </td>
 <td>A durable pad worn on the right shoulder of Blue Beekeepers.
@@ -146,10 +146,10 @@ There's a store in the Blue HQ that sells nine items. To open the store, press E
 <td><figure class="mw-halign-center" typeof="mw:File"><img alt="Elite Blue Guard" data-image-key="Elite_Blue_Guard.png" data-image-name="Elite Blue Guard.png" data-relevant="1" height="80" src="img/Elite_Blue_Guard.png" width="80"/><figcaption></figcaption></figure><div style="text-align: center;"><a href="elite-blue-guard.html">Elite Blue Guard</a></div>
 </td>
 <td><span typeof="mw:Error mw:File"></span>5,000,000 <a href="honey.html"><span class="color-template color-template-honey">Honey</span></a><br/>
-<p><span typeof="mw:Error mw:File"></span>3 <a href="blue-extract.html"><span class="color-template color-template-blue-extract color-template-background-clip">Blue Extracts</span></a><br/>
-<span typeof="mw:Error mw:File"></span>50 <a href="blueberry.html"><span class="color-template color-template-blueberry color-template-background-clip">Blueberries</span></a><br/>
-<span typeof="mw:Error mw:File"></span>5 <a href="royal-jelly.html"><span class="color-template color-template-royal-jelly color-template-background-clip">Royal Jellies</span></a><br/>
-<span typeof="mw:Error mw:File"></span>15 <a href="moon-charm.html"><span class="color-template color-template-moon-charm color-template-background-clip">Moon Charms</span></a>
+<p><img alt="Blue Extract" height="25" src="img/Blue_Extract.png" width="25"/>3 <a href="blue-extract.html"><span class="color-template color-template-blue-extract color-template-background-clip">Blue Extracts</span></a><br/>
+<img alt="Blueberry" height="25" src="img/Blueberry.png" width="25"/>50 <a href="blueberry.html"><span class="color-template color-template-blueberry color-template-background-clip">Blueberries</span></a><br/>
+<img alt="Royal Jelly" height="25" src="img/Royal_Jelly.png" width="25"/>5 <a href="royal-jelly.html"><span class="color-template color-template-royal-jelly color-template-background-clip">Royal Jellies</span></a><br/>
+<img alt="Moon Charm" height="25" src="img/Moon_Charm.png" width="25"/>15 <a href="moon-charm.html"><span class="color-template color-template-moon-charm color-template-background-clip">Moon Charms</span></a>
 </p>
 </td>
 <td>A Blue Guard reserved for the most dedicated Blue Beekeepers.
@@ -164,10 +164,10 @@ There's a store in the Blue HQ that sells nine items. To open the store, press E
 <td><figure class="mw-halign-center" typeof="mw:File"><img alt="Bucko Guard" data-image-key="Bucko_Guard.png" data-image-name="Bucko Guard.png" data-relevant="1" height="80" src="img/Bucko_Guard.png" width="80"/><figcaption></figcaption></figure><div style="text-align: center;"><a href="bucko-guard.html">Bucko Guard</a></div>
 </td>
 <td><span typeof="mw:Error mw:File"></span>30,000,000 <a href="honey.html"><span class="color-template color-template-honey">Honey</span></a><br/>
-<p><span typeof="mw:Error mw:File"></span>10 <a href="blue-extract.html"><span class="color-template color-template-blue-extract color-template-background-clip">Blue Extracts</span></a><br/>
-<span typeof="mw:Error mw:File"></span>100 <a href="blueberry.html"><span class="color-template color-template-blueberry color-template-background-clip">Blueberries</span></a><br/>
-<span typeof="mw:Error mw:File"></span>5 <a href="glue.html"><span class="color-template color-template-glue color-template-background-clip">Glues</span></a><br/>
-<span typeof="mw:Error mw:File"></span>75 <a href="moon-charm.html"><span class="color-template color-template-moon-charm color-template-background-clip">Moon Charms</span></a>
+<p><img alt="Blue Extract" height="25" src="img/Blue_Extract.png" width="25"/>10 <a href="blue-extract.html"><span class="color-template color-template-blue-extract color-template-background-clip">Blue Extracts</span></a><br/>
+<img alt="Blueberry" height="25" src="img/Blueberry.png" width="25"/>100 <a href="blueberry.html"><span class="color-template color-template-blueberry color-template-background-clip">Blueberries</span></a><br/>
+<img alt="Glue" height="25" src="img/Glue.png" width="25"/>5 <a href="glue.html"><span class="color-template color-template-glue color-template-background-clip">Glues</span></a><br/>
+<img alt="Moon Charm" height="25" src="img/Moon_Charm.png" width="25"/>75 <a href="moon-charm.html"><span class="color-template color-template-moon-charm color-template-background-clip">Moon Charms</span></a>
 </p>
 </td>
 <td>A piece of armor forged by the leader of the Blue Bees!
@@ -193,9 +193,9 @@ There's a store in the Blue HQ that sells nine items. To open the store, press E
 <td><figure class="mw-halign-center" typeof="mw:Error mw:File"><figcaption></figcaption></figure><div style="text-align: center;"><a href="blue-clay-planter.html"><span class="color-template color-template-blue-clay-planter color-template-background-clip">Blue Clay Planter</span></a>
 </div></td>
 <td><span typeof="mw:Error mw:File"></span>10,000,000 <a href="honey.html"><span class="color-template color-template-honey">Honey</span></a><br/>
-<p><span typeof="mw:Error mw:File"></span>5 <a href="magic-bean.html"><span class="color-template color-template-magic-bean color-template-background-clip">Magic Beans</span></a><br/>
-<span typeof="mw:Error mw:File"></span>15 <a href="blue-extract.html"><span class="color-template color-template-blue-extract color-template-background-clip">Blue Extracts</span></a><br/>
-<span typeof="mw:Error mw:File"></span>20 <a href="soft-wax.html"><span class="color-template color-template-soft-wax">Soft Waxes</span></a>
+<p><img alt="Magic Bean" height="25" src="img/Magic_Bean.png" width="25"/>5 <a href="magic-bean.html"><span class="color-template color-template-magic-bean color-template-background-clip">Magic Beans</span></a><br/>
+<img alt="Blue Extract" height="25" src="img/Blue_Extract.png" width="25"/>15 <a href="blue-extract.html"><span class="color-template color-template-blue-extract color-template-background-clip">Blue Extracts</span></a><br/>
+<img alt="Soft Wax" height="25" src="img/Soft_Wax.png" width="25"/>20 <a href="soft-wax.html"><span class="color-template color-template-soft-wax">Soft Waxes</span></a>
 </p>
 </td>
 <td>Alone, grows in around 6 hours. Stores around 3 million Pollen. Grants bonus Blue Extracts, Micro-Converters and Honeysuckles.
@@ -209,11 +209,11 @@ There's a store in the Blue HQ that sells nine items. To open the store, press E
 </div></td>
 <td>150 <a href="gifted-bucko-bee.html">Gifted Bucko Bee</a> quests completed<br/>
 <p><span typeof="mw:Error mw:File"></span><span style="border-bottom:1px dotted;" title="750,000,000,000">750B</span> <a href="honey.html"><span class="color-template color-template-honey">Honey</span></a><br/>
-<span typeof="mw:Error mw:File"></span>75 <a href="magic-bean.html"><span class="color-template color-template-magic-bean color-template-background-clip">Magic Beans</span></a><br/>
-<span typeof="mw:Error mw:File"></span>750 <a href="blue-extract.html"><span class="color-template color-template-blue-extract color-template-background-clip">Blue Extracts</span></a><br/>
-<span typeof="mw:Error mw:File"></span>500 <a href="soft-wax.html"><span class="color-template color-template-soft-wax">Soft Waxes</span></a><br/>
-<span typeof="mw:Error mw:File"></span>25 <a href="caustic-wax.html"><span class="color-template color-template-caustic-wax">Caustic Waxes</span></a><br/>
-<span typeof="mw:Error mw:File"></span>1 <a href="turpentine.html"><span class="color-template color-template-turpentine color-template-background-clip">Turpentine</span></a>
+<img alt="Magic Bean" height="25" src="img/Magic_Bean.png" width="25"/>75 <a href="magic-bean.html"><span class="color-template color-template-magic-bean color-template-background-clip">Magic Beans</span></a><br/>
+<img alt="Blue Extract" height="25" src="img/Blue_Extract.png" width="25"/>750 <a href="blue-extract.html"><span class="color-template color-template-blue-extract color-template-background-clip">Blue Extracts</span></a><br/>
+<img alt="Soft Wax" height="25" src="img/Soft_Wax.png" width="25"/>500 <a href="soft-wax.html"><span class="color-template color-template-soft-wax">Soft Waxes</span></a><br/>
+<img alt="Caustic Wax" height="25" src="img/Caustic_Wax.png" width="25"/>25 <a href="caustic-wax.html"><span class="color-template color-template-caustic-wax">Caustic Waxes</span></a><br/>
+<img alt="Turpentine" height="25" src="img/Turpentine.png" width="25"/>1 <a href="turpentine.html"><span class="color-template color-template-turpentine color-template-background-clip">Turpentine</span></a>
 </p>
 </td>
 <td>Alone, grows in about 12 hours. Stores around 10 billion Pollen. Grants bonus Blue Extract and Oils.

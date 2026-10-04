@@ -69,7 +69,7 @@ The maximum level a bee can achieve is 25. It is generally difficult to reach le
 </th>
 <th rowspan="2">Bond required for level
 </th>
-<th colspan="7"><span typeof="mw:Error mw:File"></span><a href="honey.html"><span class="color-template color-template-honey">Honey</span></a> cost for level (assuming each <span typeof="mw:Error mw:File"></span><a href="treat.html"><span class="color-template color-template-treat">Treat</span></a> is priced at 10K honey)
+<th colspan="7"><span typeof="mw:Error mw:File"></span><a href="honey.html"><span class="color-template color-template-honey">Honey</span></a> cost for level (assuming each <img alt="Treat" height="35" src="img/Treat.png" width="35"/><a href="treat.html"><span class="color-template color-template-treat">Treat</span></a> is priced at 10K honey)
 </th></tr>
 <tr>
 <th><b>Base</b>

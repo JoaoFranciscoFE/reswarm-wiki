@@ -428,11 +428,11 @@ The following content has been removed from the game. The contents below may be 
 </td>
 <td>
 <p><span typeof="mw:Error mw:File"></span>500,000,000 <a href="honey.html"><span class="color-template color-template-honey">Honey</span></a><br/>
-<span typeof="mw:Error mw:File"></span>1 <a href="sticker.html#Sticker_Index"><span class="color-template color-template-ticket-voucher color-template-background-clip">Ticket Voucher</span></a><br/>
-<span typeof="mw:Error mw:File"></span>1 <a href="festive-planter.html"><span class="color-template color-template-festive-planter color-template-background-clip">Festive Planter</span></a><br/>
-<span typeof="mw:Error mw:File"></span>1 <a href="royal-jelly.html#Star_Jelly"><span class="color-template color-template-star-jelly color-template-background-clip">Star Jelly</span></a><br/>
-<span typeof="mw:Error mw:File"></span>1 <a href="super-smoothie.html"><span class="color-template color-template-super-smoothie color-template-background-clip">Super Smoothie</span></a><br/>
-<span typeof="mw:Error mw:File"></span>5 <a href="gingerbread-bear.html"><span class="color-template color-template-gingerbread-bear color-template-background-clip">Gingerbread Bears</span></a><br/>
+<img alt="Ticket Voucher" height="25" src="img/Ticket_Voucher.png" width="25"/>1 <a href="sticker.html#Sticker_Index"><span class="color-template color-template-ticket-voucher color-template-background-clip">Ticket Voucher</span></a><br/>
+<img alt="Festive Planter" height="25" src="img/Festive_Planter.png" width="25"/>1 <a href="festive-planter.html"><span class="color-template color-template-festive-planter color-template-background-clip">Festive Planter</span></a><br/>
+<img alt="Star Jelly" height="25" src="img/Star_Jelly.png" width="25"/>1 <a href="royal-jelly.html#Star_Jelly"><span class="color-template color-template-star-jelly color-template-background-clip">Star Jelly</span></a><br/>
+<img alt="Super Smoothie" height="25" src="img/Super_Smoothie.png" width="25"/>1 <a href="super-smoothie.html"><span class="color-template color-template-super-smoothie color-template-background-clip">Super Smoothie</span></a><br/>
+<img alt="Gingerbread Bear" height="25" src="img/Gingerbread_Bear.png" width="25"/>5 <a href="gingerbread-bear.html"><span class="color-template color-template-gingerbread-bear color-template-background-clip">Gingerbread Bears</span></a><br/>
 Access to <a href="onett-s-lid-art.html">Onett's Lid Art</a>
 </p>
 </td></tr></tbody></table>

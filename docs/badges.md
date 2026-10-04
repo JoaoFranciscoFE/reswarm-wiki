@@ -44,7 +44,7 @@ Upon claiming any non-event badge, it will be announced in the server publicly, 
 </td>
 <td>
 <ul><li>x1.3 <a href="system-page.html#Convert_Rate">Convert Rate</a></li>
-<li><span typeof="mw:Error mw:File"></span>5 <a href="ticket.html"><span class="color-template color-template-ticket color-template-background-clip">Tickets</span></a></li></ul>
+<li><img alt="Ticket" height="25" src="img/Ticket.png" width="25"/>5 <a href="ticket.html"><span class="color-template color-template-ticket color-template-background-clip">Tickets</span></a></li></ul>
 </td></tr>
 <tr>
 <td><figure class="mw-halign-center" typeof="mw:Error mw:File"><figcaption></figcaption></figure> Hotshot
@@ -53,7 +53,7 @@ Upon claiming any non-event badge, it will be announced in the server publicly, 
 </td>
 <td>
 <ul><li>x1.6 <a href="system-page.html#Convert_Rate">Convert Rate</a></li>
-<li><span typeof="mw:Error mw:File"></span>10 <a href="ticket.html"><span class="color-template color-template-ticket color-template-background-clip">Tickets</span></a></li></ul>
+<li><img alt="Ticket" height="25" src="img/Ticket.png" width="25"/>10 <a href="ticket.html"><span class="color-template color-template-ticket color-template-background-clip">Tickets</span></a></li></ul>
 </td></tr>
 <tr>
 <td><figure class="mw-halign-center" typeof="mw:Error mw:File"><figcaption></figcaption></figure> Ace
@@ -62,7 +62,7 @@ Upon claiming any non-event badge, it will be announced in the server publicly, 
 </td>
 <td>
 <ul><li>x1.9 <a href="system-page.html#Convert_Rate">Convert Rate</a></li>
-<li><span typeof="mw:Error mw:File"></span>15 <a href="ticket.html"><span class="color-template color-template-ticket color-template-background-clip">Tickets</span></a></li></ul>
+<li><img alt="Ticket" height="25" src="img/Ticket.png" width="25"/>15 <a href="ticket.html"><span class="color-template color-template-ticket color-template-background-clip">Tickets</span></a></li></ul>
 </td></tr>
 <tr>
 <td><figure class="mw-halign-center" typeof="mw:Error mw:File"><figcaption></figcaption></figure> Master
@@ -71,7 +71,7 @@ Upon claiming any non-event badge, it will be announced in the server publicly, 
 </td>
 <td>
 <ul><li>x2.2 <a href="system-page.html#Convert_Rate">Convert Rate</a></li>
-<li><span typeof="mw:Error mw:File"></span>25 <a href="ticket.html"><span class="color-template color-template-ticket color-template-background-clip">Tickets</span></a></li></ul>
+<li><img alt="Ticket" height="25" src="img/Ticket.png" width="25"/>25 <a href="ticket.html"><span class="color-template color-template-ticket color-template-background-clip">Tickets</span></a></li></ul>
 </td></tr>
 <tr>
 <td><figure class="mw-halign-center" typeof="mw:Error mw:File/Frameless"><figcaption></figcaption></figure> Grandmaster
@@ -80,7 +80,7 @@ Upon claiming any non-event badge, it will be announced in the server publicly, 
 </td>
 <td>
 <ul><li>x2.5 <a href="system-page.html#Convert_Rate">Convert Rate</a></li>
-<li><span typeof="mw:Error mw:File"></span>40 <a href="ticket.html"><span class="color-template color-template-ticket color-template-background-clip">Tickets</span></a></li></ul>
+<li><img alt="Ticket" height="25" src="img/Ticket.png" width="25"/>40 <a href="ticket.html"><span class="color-template color-template-ticket color-template-background-clip">Tickets</span></a></li></ul>
 </td></tr></tbody></table>
 
 ## Quest Badges
@@ -100,7 +100,7 @@ Upon claiming any non-event badge, it will be announced in the server publicly, 
 </td>
 <td>
 <ul><li>x1.25 <a href="system-page.html#Capacity_Multiplier">Capacity</a></li>
-<li><span typeof="mw:Error mw:File"></span>5 <a href="ticket.html"><span class="color-template color-template-ticket color-template-background-clip">Tickets</span></a></li></ul>
+<li><img alt="Ticket" height="25" src="img/Ticket.png" width="25"/>5 <a href="ticket.html"><span class="color-template color-template-ticket color-template-background-clip">Tickets</span></a></li></ul>
 </td></tr>
 <tr>
 <td><figure class="mw-halign-center" typeof="mw:Error mw:File"><figcaption></figcaption></figure> Hotshot
@@ -109,7 +109,7 @@ Upon claiming any non-event badge, it will be announced in the server publicly, 
 </td>
 <td>
 <ul><li>x1.5 <a href="system-page.html#Capacity_Multiplier">Capacity</a></li>
-<li><span typeof="mw:Error mw:File"></span>10 <a href="ticket.html"><span class="color-template color-template-ticket color-template-background-clip">Tickets</span></a></li></ul>
+<li><img alt="Ticket" height="25" src="img/Ticket.png" width="25"/>10 <a href="ticket.html"><span class="color-template color-template-ticket color-template-background-clip">Tickets</span></a></li></ul>
 </td></tr>
 <tr>
 <td><figure class="mw-halign-center" typeof="mw:Error mw:File"><figcaption></figcaption></figure> Ace
@@ -118,7 +118,7 @@ Upon claiming any non-event badge, it will be announced in the server publicly, 
 </td>
 <td>
 <ul><li>x1.75 <a href="system-page.html#Capacity_Multiplier">Capacity</a></li>
-<li><span typeof="mw:Error mw:File"></span>15 <a href="ticket.html"><span class="color-template color-template-ticket color-template-background-clip">Tickets</span></a></li></ul>
+<li><img alt="Ticket" height="25" src="img/Ticket.png" width="25"/>15 <a href="ticket.html"><span class="color-template color-template-ticket color-template-background-clip">Tickets</span></a></li></ul>
 </td></tr>
 <tr>
 <td><figure class="mw-halign-center" typeof="mw:Error mw:File"><figcaption></figcaption></figure> Master
@@ -127,7 +127,7 @@ Upon claiming any non-event badge, it will be announced in the server publicly, 
 </td>
 <td>
 <ul><li>x2 <a href="system-page.html#Capacity_Multiplier">Capacity</a></li>
-<li><span typeof="mw:Error mw:File"></span>25 <a href="ticket.html"><span class="color-template color-template-ticket color-template-background-clip">Tickets</span></a></li></ul>
+<li><img alt="Ticket" height="25" src="img/Ticket.png" width="25"/>25 <a href="ticket.html"><span class="color-template color-template-ticket color-template-background-clip">Tickets</span></a></li></ul>
 </td></tr>
 <tr>
 <td><figure class="mw-halign-center" typeof="mw:Error mw:File"><figcaption></figcaption></figure> Grandmaster
@@ -136,7 +136,7 @@ Upon claiming any non-event badge, it will be announced in the server publicly, 
 </td>
 <td>
 <ul><li>x2.25 <a href="system-page.html#Capacity_Multiplier">Capacity</a></li>
-<li><span typeof="mw:Error mw:File"></span>40 <a href="ticket.html"><span class="color-template color-template-ticket color-template-background-clip">Tickets</span></a></li></ul>
+<li><img alt="Ticket" height="25" src="img/Ticket.png" width="25"/>40 <a href="ticket.html"><span class="color-template color-template-ticket color-template-background-clip">Tickets</span></a></li></ul>
 </td></tr></tbody></table>
 
 ## Battle Badges
@@ -156,7 +156,7 @@ Upon claiming any non-event badge, it will be announced in the server publicly, 
 </td>
 <td>
 <ul><li>+10% <a href="system-page.html#Critical_Power">Critical Power</a></li>
-<li><span typeof="mw:Error mw:File"></span>5 <a href="ticket.html"><span class="color-template color-template-ticket color-template-background-clip">Tickets</span></a></li></ul>
+<li><img alt="Ticket" height="25" src="img/Ticket.png" width="25"/>5 <a href="ticket.html"><span class="color-template color-template-ticket color-template-background-clip">Tickets</span></a></li></ul>
 </td></tr>
 <tr>
 <td><figure class="mw-halign-center" typeof="mw:Error mw:File"><figcaption></figcaption></figure> Hotshot
@@ -165,7 +165,7 @@ Upon claiming any non-event badge, it will be announced in the server publicly, 
 </td>
 <td>
 <ul><li>+20% <a href="system-page.html#Critical_Power">Critical Power</a></li>
-<li><span typeof="mw:Error mw:File"></span>10 <a href="ticket.html"><span class="color-template color-template-ticket color-template-background-clip">Tickets</span></a></li></ul>
+<li><img alt="Ticket" height="25" src="img/Ticket.png" width="25"/>10 <a href="ticket.html"><span class="color-template color-template-ticket color-template-background-clip">Tickets</span></a></li></ul>
 </td></tr>
 <tr>
 <td><figure class="mw-halign-center" typeof="mw:Error mw:File"><figcaption></figcaption></figure> Ace
@@ -174,7 +174,7 @@ Upon claiming any non-event badge, it will be announced in the server publicly, 
 </td>
 <td>
 <ul><li>+40% <a href="system-page.html#Critical_Power">Critical Power</a></li>
-<li><span typeof="mw:Error mw:File"></span>15 <a href="ticket.html"><span class="color-template color-template-ticket color-template-background-clip">Tickets</span></a></li></ul>
+<li><img alt="Ticket" height="25" src="img/Ticket.png" width="25"/>15 <a href="ticket.html"><span class="color-template color-template-ticket color-template-background-clip">Tickets</span></a></li></ul>
 </td></tr>
 <tr>
 <td><figure class="mw-halign-center" typeof="mw:Error mw:File"><figcaption></figcaption></figure> Master
@@ -183,7 +183,7 @@ Upon claiming any non-event badge, it will be announced in the server publicly, 
 </td>
 <td>
 <ul><li>+70% <a href="system-page.html#Critical_Power">Critical Power</a></li>
-<li><span typeof="mw:Error mw:File"></span>25 <a href="ticket.html"><span class="color-template color-template-ticket color-template-background-clip">Tickets</span></a></li></ul>
+<li><img alt="Ticket" height="25" src="img/Ticket.png" width="25"/>25 <a href="ticket.html"><span class="color-template color-template-ticket color-template-background-clip">Tickets</span></a></li></ul>
 </td></tr>
 <tr>
 <td><figure class="mw-halign-center" typeof="mw:Error mw:File"><figcaption></figcaption></figure> Grandmaster
@@ -192,7 +192,7 @@ Upon claiming any non-event badge, it will be announced in the server publicly, 
 </td>
 <td>
 <ul><li>+100% <a href="system-page.html#Critical_Power">Critical Power</a></li>
-<li><span typeof="mw:Error mw:File"></span>40 <a href="ticket.html"><span class="color-template color-template-ticket color-template-background-clip">Tickets</span></a></li></ul>
+<li><img alt="Ticket" height="25" src="img/Ticket.png" width="25"/>40 <a href="ticket.html"><span class="color-template color-template-ticket color-template-background-clip">Tickets</span></a></li></ul>
 </td></tr></tbody></table>
 
 ## Ability Badges
@@ -212,7 +212,7 @@ Upon claiming any non-event badge, it will be announced in the server publicly, 
 </td>
 <td>
 <ul><li><span style="border-bottom:1px dotted gray;cursor:help;" title="25,000">+25k</span> <a href="system-page.html#Capacity_Multiplier">Capacity</a></li>
-<li><span typeof="mw:Error mw:File"></span>5 <a href="ticket.html"><span class="color-template color-template-ticket color-template-background-clip">Tickets</span></a></li></ul>
+<li><img alt="Ticket" height="25" src="img/Ticket.png" width="25"/>5 <a href="ticket.html"><span class="color-template color-template-ticket color-template-background-clip">Tickets</span></a></li></ul>
 </td></tr>
 <tr>
 <td><figure class="mw-halign-center" typeof="mw:Error mw:File"><figcaption></figcaption></figure> Hotshot
@@ -221,7 +221,7 @@ Upon claiming any non-event badge, it will be announced in the server publicly, 
 </td>
 <td>
 <ul><li><span style="border-bottom:1px dotted gray;cursor:help;" title="50,000">+50k</span> <a href="system-page.html#Capacity_Multiplier">Capacity</a></li>
-<li><span typeof="mw:Error mw:File"></span>10 <a href="ticket.html"><span class="color-template color-template-ticket color-template-background-clip">Tickets</span></a></li></ul>
+<li><img alt="Ticket" height="25" src="img/Ticket.png" width="25"/>10 <a href="ticket.html"><span class="color-template color-template-ticket color-template-background-clip">Tickets</span></a></li></ul>
 </td></tr>
 <tr>
 <td><figure class="mw-halign-center" typeof="mw:Error mw:File"><figcaption></figcaption></figure> Ace
@@ -230,7 +230,7 @@ Upon claiming any non-event badge, it will be announced in the server publicly, 
 </td>
 <td>
 <ul><li><span style="border-bottom:1px dotted gray;cursor:help;" title="100,000">+100k</span> <a href="system-page.html#Capacity_Multiplier">Capacity</a></li>
-<li><span typeof="mw:Error mw:File"></span>15 <a href="ticket.html"><span class="color-template color-template-ticket color-template-background-clip">Tickets</span></a></li></ul>
+<li><img alt="Ticket" height="25" src="img/Ticket.png" width="25"/>15 <a href="ticket.html"><span class="color-template color-template-ticket color-template-background-clip">Tickets</span></a></li></ul>
 </td></tr>
 <tr>
 <td><figure class="mw-halign-center" typeof="mw:Error mw:File"><figcaption></figcaption></figure> Master
@@ -239,7 +239,7 @@ Upon claiming any non-event badge, it will be announced in the server publicly, 
 </td>
 <td>
 <ul><li><span style="border-bottom:1px dotted gray;cursor:help;" title="150,000">+150k</span> <a href="system-page.html#Capacity_Multiplier">Capacity</a></li>
-<li><span typeof="mw:Error mw:File"></span>25 <a href="ticket.html"><span class="color-template color-template-ticket color-template-background-clip">Tickets</span></a></li></ul>
+<li><img alt="Ticket" height="25" src="img/Ticket.png" width="25"/>25 <a href="ticket.html"><span class="color-template color-template-ticket color-template-background-clip">Tickets</span></a></li></ul>
 </td></tr>
 <tr>
 <td><figure class="mw-halign-center" typeof="mw:Error mw:File"><figcaption></figcaption></figure> Grandmaster
@@ -248,7 +248,7 @@ Upon claiming any non-event badge, it will be announced in the server publicly, 
 </td>
 <td>
 <ul><li><span style="border-bottom:1px dotted gray;cursor:help;" title="250,000">+250k</span> <a href="system-page.html#Capacity_Multiplier">Capacity</a></li>
-<li><span typeof="mw:Error mw:File"></span>40 <a href="ticket.html"><span class="color-template color-template-ticket color-template-background-clip">Tickets</span></a></li></ul>
+<li><img alt="Ticket" height="25" src="img/Ticket.png" width="25"/>40 <a href="ticket.html"><span class="color-template color-template-ticket color-template-background-clip">Tickets</span></a></li></ul>
 </td></tr></tbody></table>
 
 ## Goo Badges
@@ -268,7 +268,7 @@ Upon claiming any non-event badge, it will be announced in the server publicly, 
 </td>
 <td>
 <ul><li>+2% <a href="system-page.html#Honey_Per_Pollen">Honey Per Pollen</a></li>
-<li><span typeof="mw:Error mw:File"></span>5 <a href="ticket.html"><span class="color-template color-template-ticket color-template-background-clip">Tickets</span></a></li></ul>
+<li><img alt="Ticket" height="25" src="img/Ticket.png" width="25"/>5 <a href="ticket.html"><span class="color-template color-template-ticket color-template-background-clip">Tickets</span></a></li></ul>
 </td></tr>
 <tr>
 <td><figure class="mw-halign-center" typeof="mw:Error mw:File"><figcaption></figcaption></figure> Hotshot
@@ -277,7 +277,7 @@ Upon claiming any non-event badge, it will be announced in the server publicly, 
 </td>
 <td>
 <ul><li>+4% <a href="system-page.html#Honey_Per_Pollen">Honey Per Pollen</a></li>
-<li><span typeof="mw:Error mw:File"></span>10 <a href="ticket.html"><span class="color-template color-template-ticket color-template-background-clip">Tickets</span></a></li>
+<li><img alt="Ticket" height="25" src="img/Ticket.png" width="25"/>10 <a href="ticket.html"><span class="color-template color-template-ticket color-template-background-clip">Tickets</span></a></li>
 <li>Access to <a href="gummy-bear-s-lair.html">Gummy Bear's Lair</a></li></ul>
 </td></tr>
 <tr>
@@ -287,7 +287,7 @@ Upon claiming any non-event badge, it will be announced in the server publicly, 
 </td>
 <td>
 <ul><li>+6% <a href="system-page.html#Honey_Per_Pollen">Honey Per Pollen</a></li>
-<li><span typeof="mw:Error mw:File"></span>15 <a href="ticket.html"><span class="color-template color-template-ticket color-template-background-clip">Tickets</span></a></li></ul>
+<li><img alt="Ticket" height="25" src="img/Ticket.png" width="25"/>15 <a href="ticket.html"><span class="color-template color-template-ticket color-template-background-clip">Tickets</span></a></li></ul>
 </td></tr>
 <tr>
 <td><figure class="mw-halign-center" typeof="mw:Error mw:File"><figcaption></figcaption></figure> Master
@@ -296,7 +296,7 @@ Upon claiming any non-event badge, it will be announced in the server publicly, 
 </td>
 <td>
 <ul><li>+8% <a href="system-page.html#Honey_Per_Pollen">Honey Per Pollen</a></li>
-<li><span typeof="mw:Error mw:File"></span>25 <a href="ticket.html"><span class="color-template color-template-ticket color-template-background-clip">Tickets</span></a></li></ul>
+<li><img alt="Ticket" height="25" src="img/Ticket.png" width="25"/>25 <a href="ticket.html"><span class="color-template color-template-ticket color-template-background-clip">Tickets</span></a></li></ul>
 </td></tr>
 <tr>
 <td><figure class="mw-halign-center" typeof="mw:Error mw:File"><figcaption></figcaption></figure> Grandmaster
@@ -305,7 +305,7 @@ Upon claiming any non-event badge, it will be announced in the server publicly, 
 </td>
 <td>
 <ul><li>+10% <a href="system-page.html#Honey_Per_Pollen">Honey Per Pollen</a></li>
-<li><span typeof="mw:Error mw:File"></span>40 <a href="ticket.html"><span class="color-template color-template-ticket color-template-background-clip">Tickets</span></a></li></ul>
+<li><img alt="Ticket" height="25" src="img/Ticket.png" width="25"/>40 <a href="ticket.html"><span class="color-template color-template-ticket color-template-background-clip">Tickets</span></a></li></ul>
 </td></tr></tbody></table>
 
 ## Playtime Badges
@@ -325,7 +325,7 @@ Upon claiming any non-event badge, it will be announced in the server publicly, 
 </td>
 <td>
 <ul><li>+1% Bee Movespeed</li>
-<li><span typeof="mw:Error mw:File"></span>5 <a href="ticket.html"><span class="color-template color-template-ticket color-template-background-clip">Tickets</span></a></li></ul>
+<li><img alt="Ticket" height="25" src="img/Ticket.png" width="25"/>5 <a href="ticket.html"><span class="color-template color-template-ticket color-template-background-clip">Tickets</span></a></li></ul>
 </td></tr>
 <tr>
 <td><figure class="mw-halign-center" typeof="mw:Error mw:File"><figcaption></figcaption></figure> Hotshot
@@ -334,7 +334,7 @@ Upon claiming any non-event badge, it will be announced in the server publicly, 
 </td>
 <td>
 <ul><li>+2% Bee Movespeed</li>
-<li><span typeof="mw:Error mw:File"></span>10 <a href="ticket.html"><span class="color-template color-template-ticket color-template-background-clip">Tickets</span></a></li></ul>
+<li><img alt="Ticket" height="25" src="img/Ticket.png" width="25"/>10 <a href="ticket.html"><span class="color-template color-template-ticket color-template-background-clip">Tickets</span></a></li></ul>
 </td></tr>
 <tr>
 <td><figure class="mw-halign-center" typeof="mw:Error mw:File"><figcaption></figcaption></figure> Ace
@@ -343,7 +343,7 @@ Upon claiming any non-event badge, it will be announced in the server publicly, 
 </td>
 <td>
 <ul><li>+3% Bee Movespeed</li>
-<li><span typeof="mw:Error mw:File"></span>15 <a href="ticket.html"><span class="color-template color-template-ticket color-template-background-clip">Tickets</span></a></li></ul>
+<li><img alt="Ticket" height="25" src="img/Ticket.png" width="25"/>15 <a href="ticket.html"><span class="color-template color-template-ticket color-template-background-clip">Tickets</span></a></li></ul>
 </td></tr>
 <tr>
 <td><figure class="mw-halign-center" typeof="mw:Error mw:File"><figcaption></figcaption></figure> Master
@@ -352,7 +352,7 @@ Upon claiming any non-event badge, it will be announced in the server publicly, 
 </td>
 <td>
 <ul><li>+4% Bee Movespeed</li>
-<li><span typeof="mw:Error mw:File"></span>25 <a href="ticket.html"><span class="color-template color-template-ticket color-template-background-clip">Tickets</span></a></li></ul>
+<li><img alt="Ticket" height="25" src="img/Ticket.png" width="25"/>25 <a href="ticket.html"><span class="color-template color-template-ticket color-template-background-clip">Tickets</span></a></li></ul>
 </td></tr>
 <tr>
 <td><figure class="mw-halign-center" typeof="mw:Error mw:File"><figcaption></figcaption></figure> Grandmaster
@@ -361,7 +361,7 @@ Upon claiming any non-event badge, it will be announced in the server publicly, 
 </td>
 <td>
 <ul><li>+5% Bee Movespeed</li>
-<li><span typeof="mw:Error mw:File"></span>40 <a href="ticket.html"><span class="color-template color-template-ticket color-template-background-clip">Tickets</span></a></li></ul>
+<li><img alt="Ticket" height="25" src="img/Ticket.png" width="25"/>40 <a href="ticket.html"><span class="color-template color-template-ticket color-template-background-clip">Tickets</span></a></li></ul>
 </td></tr></tbody></table>
 
 ## Sticker Stack Badges
@@ -381,7 +381,7 @@ Upon claiming any non-event badge, it will be announced in the server publicly, 
 </td>
 <td>
 <ul><li>+5% Pollen from Bee Gathering</li>
-<li><span typeof="mw:Error mw:File"></span>5 <a href="ticket.html"><span class="color-template color-template-ticket color-template-background-clip">Tickets</span></a></li></ul>
+<li><img alt="Ticket" height="25" src="img/Ticket.png" width="25"/>5 <a href="ticket.html"><span class="color-template color-template-ticket color-template-background-clip">Tickets</span></a></li></ul>
 </td></tr>
 <tr>
 <td><figure class="mw-halign-center" typeof="mw:Error mw:File"><figcaption></figcaption></figure> Hotshot
@@ -390,7 +390,7 @@ Upon claiming any non-event badge, it will be announced in the server publicly, 
 </td>
 <td>
 <ul><li>+10% Pollen from Bee Gathering</li>
-<li><span typeof="mw:Error mw:File"></span>10 <a href="ticket.html"><span class="color-template color-template-ticket color-template-background-clip">Tickets</span></a></li></ul>
+<li><img alt="Ticket" height="25" src="img/Ticket.png" width="25"/>10 <a href="ticket.html"><span class="color-template color-template-ticket color-template-background-clip">Tickets</span></a></li></ul>
 </td></tr>
 <tr>
 <td><figure class="mw-halign-center" typeof="mw:Error mw:File"><figcaption></figcaption></figure> Ace
@@ -399,7 +399,7 @@ Upon claiming any non-event badge, it will be announced in the server publicly, 
 </td>
 <td>
 <ul><li>+15% Pollen from Bee Gathering</li>
-<li><span typeof="mw:Error mw:File"></span>15 <a href="ticket.html"><span class="color-template color-template-ticket color-template-background-clip">Tickets</span></a></li></ul>
+<li><img alt="Ticket" height="25" src="img/Ticket.png" width="25"/>15 <a href="ticket.html"><span class="color-template color-template-ticket color-template-background-clip">Tickets</span></a></li></ul>
 </td></tr>
 <tr>
 <td><figure class="mw-halign-center" typeof="mw:Error mw:File"><figcaption></figcaption></figure> Master
@@ -408,7 +408,7 @@ Upon claiming any non-event badge, it will be announced in the server publicly, 
 </td>
 <td>
 <ul><li>+20% Pollen from Bee Gathering</li>
-<li><span typeof="mw:Error mw:File"></span>25 <a href="ticket.html"><span class="color-template color-template-ticket color-template-background-clip">Tickets</span></a></li></ul>
+<li><img alt="Ticket" height="25" src="img/Ticket.png" width="25"/>25 <a href="ticket.html"><span class="color-template color-template-ticket color-template-background-clip">Tickets</span></a></li></ul>
 </td></tr>
 <tr>
 <td><figure class="mw-halign-center" typeof="mw:Error mw:File"><figcaption></figcaption></figure> Grandmaster
@@ -417,7 +417,7 @@ Upon claiming any non-event badge, it will be announced in the server publicly, 
 </td>
 <td>
 <ul><li>+25% Pollen from Bee Gathering</li>
-<li><span typeof="mw:Error mw:File"></span>40 <a href="ticket.html"><span class="color-template color-template-ticket color-template-background-clip">Tickets</span></a></li></ul>
+<li><img alt="Ticket" height="25" src="img/Ticket.png" width="25"/>40 <a href="ticket.html"><span class="color-template color-template-ticket color-template-background-clip">Tickets</span></a></li></ul>
 </td></tr></tbody></table>
 
 ## [Sunflower](sunflower-field.md) Badges
@@ -437,7 +437,7 @@ Upon claiming any non-event badge, it will be announced in the server publicly, 
 </td>
 <td>
 <ul><li>+10% <a href="system-page.html#Capacity_Multiplier">Capacity</a></li>
-<li><span typeof="mw:Error mw:File"></span>5 <a href="ticket.html"><span class="color-template color-template-ticket color-template-background-clip">Tickets</span></a></li></ul>
+<li><img alt="Ticket" height="25" src="img/Ticket.png" width="25"/>5 <a href="ticket.html"><span class="color-template color-template-ticket color-template-background-clip">Tickets</span></a></li></ul>
 </td></tr>
 <tr>
 <td><figure class="mw-halign-center" typeof="mw:Error mw:File"><figcaption></figcaption></figure> Hotshot
@@ -446,7 +446,7 @@ Upon claiming any non-event badge, it will be announced in the server publicly, 
 </td>
 <td>
 <ul><li>+20% <a href="system-page.html#Capacity_Multiplier">Capacity</a></li>
-<li><span typeof="mw:Error mw:File"></span>10 <a href="ticket.html"><span class="color-template color-template-ticket color-template-background-clip">Tickets</span></a></li></ul>
+<li><img alt="Ticket" height="25" src="img/Ticket.png" width="25"/>10 <a href="ticket.html"><span class="color-template color-template-ticket color-template-background-clip">Tickets</span></a></li></ul>
 </td></tr>
 <tr>
 <td><figure class="mw-halign-center" typeof="mw:Error mw:File"><figcaption></figcaption></figure> Ace
@@ -455,7 +455,7 @@ Upon claiming any non-event badge, it will be announced in the server publicly, 
 </td>
 <td>
 <ul><li>+30% <a href="system-page.html#Capacity_Multiplier">Capacity</a></li>
-<li><span typeof="mw:Error mw:File"></span>15 <a href="ticket.html"><span class="color-template color-template-ticket color-template-background-clip">Tickets</span></a></li></ul>
+<li><img alt="Ticket" height="25" src="img/Ticket.png" width="25"/>15 <a href="ticket.html"><span class="color-template color-template-ticket color-template-background-clip">Tickets</span></a></li></ul>
 </td></tr>
 <tr>
 <td><figure class="mw-halign-center" typeof="mw:Error mw:File"><figcaption></figcaption></figure> Master
@@ -464,7 +464,7 @@ Upon claiming any non-event badge, it will be announced in the server publicly, 
 </td>
 <td>
 <ul><li>+40% <a href="system-page.html#Capacity_Multiplier">Capacity</a></li>
-<li><span typeof="mw:Error mw:File"></span>25 <a href="ticket.html"><span class="color-template color-template-ticket color-template-background-clip">Tickets</span></a></li></ul>
+<li><img alt="Ticket" height="25" src="img/Ticket.png" width="25"/>25 <a href="ticket.html"><span class="color-template color-template-ticket color-template-background-clip">Tickets</span></a></li></ul>
 </td></tr>
 <tr>
 <td><figure class="mw-halign-center" typeof="mw:Error mw:File"><figcaption></figcaption></figure> Grandmaster
@@ -473,7 +473,7 @@ Upon claiming any non-event badge, it will be announced in the server publicly, 
 </td>
 <td>
 <ul><li>+50% <a href="system-page.html#Capacity_Multiplier">Capacity</a></li>
-<li><span typeof="mw:Error mw:File"></span>40 <a href="ticket.html"><span class="color-template color-template-ticket color-template-background-clip">Tickets</span></a></li></ul>
+<li><img alt="Ticket" height="25" src="img/Ticket.png" width="25"/>40 <a href="ticket.html"><span class="color-template color-template-ticket color-template-background-clip">Tickets</span></a></li></ul>
 </td></tr></tbody></table>
 
 ## [Dandelion](dandelion-field.md) Badges
@@ -493,7 +493,7 @@ Upon claiming any non-event badge, it will be announced in the server publicly, 
 </td>
 <td>
 <ul><li>+3% Honey At Hive</li>
-<li><span typeof="mw:Error mw:File"></span>5 <a href="ticket.html"><span class="color-template color-template-ticket color-template-background-clip">Tickets</span></a></li></ul>
+<li><img alt="Ticket" height="25" src="img/Ticket.png" width="25"/>5 <a href="ticket.html"><span class="color-template color-template-ticket color-template-background-clip">Tickets</span></a></li></ul>
 </td></tr>
 <tr>
 <td><figure class="mw-halign-center" typeof="mw:Error mw:File"><figcaption></figcaption></figure> Hotshot
@@ -502,7 +502,7 @@ Upon claiming any non-event badge, it will be announced in the server publicly, 
 </td>
 <td>
 <ul><li>+6% Honey At Hive</li>
-<li><span typeof="mw:Error mw:File"></span>10 <a href="ticket.html"><span class="color-template color-template-ticket color-template-background-clip">Tickets</span></a></li></ul>
+<li><img alt="Ticket" height="25" src="img/Ticket.png" width="25"/>10 <a href="ticket.html"><span class="color-template color-template-ticket color-template-background-clip">Tickets</span></a></li></ul>
 </td></tr>
 <tr>
 <td><figure class="mw-halign-center" typeof="mw:Error mw:File"><figcaption></figcaption></figure> Ace
@@ -511,7 +511,7 @@ Upon claiming any non-event badge, it will be announced in the server publicly, 
 </td>
 <td>
 <ul><li>+9% Honey At Hive</li>
-<li><span typeof="mw:Error mw:File"></span>15 <a href="ticket.html"><span class="color-template color-template-ticket color-template-background-clip">Tickets</span></a></li></ul>
+<li><img alt="Ticket" height="25" src="img/Ticket.png" width="25"/>15 <a href="ticket.html"><span class="color-template color-template-ticket color-template-background-clip">Tickets</span></a></li></ul>
 </td></tr>
 <tr>
 <td><figure class="mw-halign-center" typeof="mw:Error mw:File"><figcaption></figcaption></figure> Master
@@ -520,7 +520,7 @@ Upon claiming any non-event badge, it will be announced in the server publicly, 
 </td>
 <td>
 <ul><li>+12% Honey At Hive</li>
-<li><span typeof="mw:Error mw:File"></span>25 <a href="ticket.html"><span class="color-template color-template-ticket color-template-background-clip">Tickets</span></a></li></ul>
+<li><img alt="Ticket" height="25" src="img/Ticket.png" width="25"/>25 <a href="ticket.html"><span class="color-template color-template-ticket color-template-background-clip">Tickets</span></a></li></ul>
 </td></tr>
 <tr>
 <td><figure class="mw-halign-center" typeof="mw:Error mw:File"><figcaption></figcaption></figure> Grandmaster
@@ -529,7 +529,7 @@ Upon claiming any non-event badge, it will be announced in the server publicly, 
 </td>
 <td>
 <ul><li>+15% Honey At Hive</li>
-<li><span typeof="mw:Error mw:File"></span>40 <a href="ticket.html"><span class="color-template color-template-ticket color-template-background-clip">Tickets</span></a></li></ul>
+<li><img alt="Ticket" height="25" src="img/Ticket.png" width="25"/>40 <a href="ticket.html"><span class="color-template color-template-ticket color-template-background-clip">Tickets</span></a></li></ul>
 </td></tr></tbody></table>
 
 ## [Mushroom](mushroom-field.md) Badges
@@ -549,7 +549,7 @@ Upon claiming any non-event badge, it will be announced in the server publicly, 
 </td>
 <td>
 <ul><li>+3% <a href="system-page.html#Instant_Red_Conversion">Instant Red Conversion</a></li>
-<li><span typeof="mw:Error mw:File"></span>5 <a href="ticket.html"><span class="color-template color-template-ticket color-template-background-clip">Tickets</span></a></li></ul>
+<li><img alt="Ticket" height="25" src="img/Ticket.png" width="25"/>5 <a href="ticket.html"><span class="color-template color-template-ticket color-template-background-clip">Tickets</span></a></li></ul>
 </td></tr>
 <tr>
 <td><figure class="mw-halign-center" typeof="mw:Error mw:File"><figcaption></figcaption></figure> Hotshot
@@ -558,7 +558,7 @@ Upon claiming any non-event badge, it will be announced in the server publicly, 
 </td>
 <td>
 <ul><li>+6% Instant <a href="system-page.html#Instant_Red_Conversion">Red Conversion</a></li>
-<li><span typeof="mw:Error mw:File"></span>10 <a href="ticket.html"><span class="color-template color-template-ticket color-template-background-clip">Tickets</span></a></li></ul>
+<li><img alt="Ticket" height="25" src="img/Ticket.png" width="25"/>10 <a href="ticket.html"><span class="color-template color-template-ticket color-template-background-clip">Tickets</span></a></li></ul>
 </td></tr>
 <tr>
 <td><figure class="mw-halign-center" typeof="mw:Error mw:File"><figcaption></figcaption></figure> Ace
@@ -567,7 +567,7 @@ Upon claiming any non-event badge, it will be announced in the server publicly, 
 </td>
 <td>
 <ul><li>+9% Instant <a href="system-page.html#Instant_Red_Conversion">Red Conversion</a></li>
-<li><span typeof="mw:Error mw:File"></span>15 <a href="ticket.html"><span class="color-template color-template-ticket color-template-background-clip">Tickets</span></a></li></ul>
+<li><img alt="Ticket" height="25" src="img/Ticket.png" width="25"/>15 <a href="ticket.html"><span class="color-template color-template-ticket color-template-background-clip">Tickets</span></a></li></ul>
 </td></tr>
 <tr>
 <td><figure class="mw-halign-center" typeof="mw:Error mw:File"><figcaption></figcaption></figure> Master
@@ -576,7 +576,7 @@ Upon claiming any non-event badge, it will be announced in the server publicly, 
 </td>
 <td>
 <ul><li>+12% Instant <a href="system-page.html#Instant_Red_Conversion">Red Conversion</a></li>
-<li><span typeof="mw:Error mw:File"></span>25 <a href="ticket.html"><span class="color-template color-template-ticket color-template-background-clip">Tickets</span></a></li></ul>
+<li><img alt="Ticket" height="25" src="img/Ticket.png" width="25"/>25 <a href="ticket.html"><span class="color-template color-template-ticket color-template-background-clip">Tickets</span></a></li></ul>
 </td></tr>
 <tr>
 <td><figure class="mw-halign-center" typeof="mw:Error mw:File"><figcaption></figcaption></figure> Grandmaster
@@ -585,7 +585,7 @@ Upon claiming any non-event badge, it will be announced in the server publicly, 
 </td>
 <td>
 <ul><li>+15% Instant <a href="system-page.html#Instant_Red_Conversion">Red Conversion</a></li>
-<li><span typeof="mw:Error mw:File"></span>40 <a href="ticket.html"><span class="color-template color-template-ticket color-template-background-clip">Tickets</span></a></li></ul>
+<li><img alt="Ticket" height="25" src="img/Ticket.png" width="25"/>40 <a href="ticket.html"><span class="color-template color-template-ticket color-template-background-clip">Tickets</span></a></li></ul>
 </td></tr></tbody></table>
 
 ## [Blue Flower](blue-flower-field.md) Badges
@@ -605,7 +605,7 @@ Upon claiming any non-event badge, it will be announced in the server publicly, 
 </td>
 <td>
 <ul><li>+3% Instant <a href="system-page.html#Instant_Blue_Conversion">Blue Conversion</a></li>
-<li><span typeof="mw:Error mw:File"></span>5 <a href="ticket.html"><span class="color-template color-template-ticket color-template-background-clip">Tickets</span></a></li></ul>
+<li><img alt="Ticket" height="25" src="img/Ticket.png" width="25"/>5 <a href="ticket.html"><span class="color-template color-template-ticket color-template-background-clip">Tickets</span></a></li></ul>
 </td></tr>
 <tr>
 <td><figure class="mw-halign-center" typeof="mw:Error mw:File"><figcaption></figcaption></figure> Hotshot
@@ -614,7 +614,7 @@ Upon claiming any non-event badge, it will be announced in the server publicly, 
 </td>
 <td>
 <ul><li>+6% Instant <a href="system-page.html#Instant_Blue_Conversion">Blue Conversion</a></li>
-<li><span typeof="mw:Error mw:File"></span>10 <a href="ticket.html"><span class="color-template color-template-ticket color-template-background-clip">Tickets</span></a></li></ul>
+<li><img alt="Ticket" height="25" src="img/Ticket.png" width="25"/>10 <a href="ticket.html"><span class="color-template color-template-ticket color-template-background-clip">Tickets</span></a></li></ul>
 </td></tr>
 <tr>
 <td><figure class="mw-halign-center" typeof="mw:Error mw:File"><figcaption></figcaption></figure> Ace
@@ -623,7 +623,7 @@ Upon claiming any non-event badge, it will be announced in the server publicly, 
 </td>
 <td>
 <ul><li>+9% Instant <a href="system-page.html#Instant_Blue_Conversion">Blue Conversion</a></li>
-<li><span typeof="mw:Error mw:File"></span>15 <a href="ticket.html"><span class="color-template color-template-ticket color-template-background-clip">Tickets</span></a></li></ul>
+<li><img alt="Ticket" height="25" src="img/Ticket.png" width="25"/>15 <a href="ticket.html"><span class="color-template color-template-ticket color-template-background-clip">Tickets</span></a></li></ul>
 </td></tr>
 <tr>
 <td><figure class="mw-halign-center" typeof="mw:Error mw:File"><figcaption></figcaption></figure> Master
@@ -632,7 +632,7 @@ Upon claiming any non-event badge, it will be announced in the server publicly, 
 </td>
 <td>
 <ul><li>+12% Instant <a href="system-page.html#Instant_Blue_Conversion">Blue Conversion</a></li>
-<li><span typeof="mw:Error mw:File"></span>25 <a href="ticket.html"><span class="color-template color-template-ticket color-template-background-clip">Tickets</span></a></li></ul>
+<li><img alt="Ticket" height="25" src="img/Ticket.png" width="25"/>25 <a href="ticket.html"><span class="color-template color-template-ticket color-template-background-clip">Tickets</span></a></li></ul>
 </td></tr>
 <tr>
 <td><figure class="mw-halign-center" typeof="mw:Error mw:File"><figcaption></figcaption></figure> Grandmaster
@@ -641,7 +641,7 @@ Upon claiming any non-event badge, it will be announced in the server publicly, 
 </td>
 <td>
 <ul><li>+15% Instant <a href="system-page.html#Instant_Blue_Conversion">Blue Conversion</a></li>
-<li><span typeof="mw:Error mw:File"></span>40 <a href="ticket.html"><span class="color-template color-template-ticket color-template-background-clip">Tickets</span></a></li></ul>
+<li><img alt="Ticket" height="25" src="img/Ticket.png" width="25"/>40 <a href="ticket.html"><span class="color-template color-template-ticket color-template-background-clip">Tickets</span></a></li></ul>
 </td></tr></tbody></table>
 
 ## [Clover](clover-field.md) Badges
@@ -661,7 +661,7 @@ Upon claiming any non-event badge, it will be announced in the server publicly, 
 </td>
 <td>
 <ul><li>+10% <a href="loot-luck.html">Loot Luck</a></li>
-<li><span typeof="mw:Error mw:File"></span>5 <a href="ticket.html"><span class="color-template color-template-ticket color-template-background-clip">Tickets</span></a></li></ul>
+<li><img alt="Ticket" height="25" src="img/Ticket.png" width="25"/>5 <a href="ticket.html"><span class="color-template color-template-ticket color-template-background-clip">Tickets</span></a></li></ul>
 </td></tr>
 <tr>
 <td><figure class="mw-halign-center" typeof="mw:Error mw:File"><figcaption></figcaption></figure> Hotshot
@@ -670,7 +670,7 @@ Upon claiming any non-event badge, it will be announced in the server publicly, 
 </td>
 <td>
 <ul><li>+20% <a href="loot-luck.html">Loot Luck</a></li>
-<li><span typeof="mw:Error mw:File"></span>10 <a href="ticket.html"><span class="color-template color-template-ticket color-template-background-clip">Tickets</span></a></li></ul>
+<li><img alt="Ticket" height="25" src="img/Ticket.png" width="25"/>10 <a href="ticket.html"><span class="color-template color-template-ticket color-template-background-clip">Tickets</span></a></li></ul>
 </td></tr>
 <tr>
 <td><figure class="mw-halign-center" typeof="mw:Error mw:File"><figcaption></figcaption></figure> Ace
@@ -679,7 +679,7 @@ Upon claiming any non-event badge, it will be announced in the server publicly, 
 </td>
 <td>
 <ul><li>+30% <a href="loot-luck.html">Loot Luck</a></li>
-<li><span typeof="mw:Error mw:File"></span>15 <a href="ticket.html"><span class="color-template color-template-ticket color-template-background-clip">Tickets</span></a></li></ul>
+<li><img alt="Ticket" height="25" src="img/Ticket.png" width="25"/>15 <a href="ticket.html"><span class="color-template color-template-ticket color-template-background-clip">Tickets</span></a></li></ul>
 </td></tr>
 <tr>
 <td><figure class="mw-halign-center" typeof="mw:Error mw:File"><figcaption></figcaption></figure> Master
@@ -688,7 +688,7 @@ Upon claiming any non-event badge, it will be announced in the server publicly, 
 </td>
 <td>
 <ul><li>+40% <a href="loot-luck.html">Loot Luck</a></li>
-<li><span typeof="mw:Error mw:File"></span>25 <a href="ticket.html"><span class="color-template color-template-ticket color-template-background-clip">Tickets</span></a></li></ul>
+<li><img alt="Ticket" height="25" src="img/Ticket.png" width="25"/>25 <a href="ticket.html"><span class="color-template color-template-ticket color-template-background-clip">Tickets</span></a></li></ul>
 </td></tr>
 <tr>
 <td><figure class="mw-halign-center" typeof="mw:Error mw:File"><figcaption></figcaption></figure> Grandmaster
@@ -697,7 +697,7 @@ Upon claiming any non-event badge, it will be announced in the server publicly, 
 </td>
 <td>
 <ul><li>+50% <a href="loot-luck.html">Loot Luck</a></li>
-<li><span typeof="mw:Error mw:File"></span>40 <a href="ticket.html"><span class="color-template color-template-ticket color-template-background-clip">Tickets</span></a></li></ul>
+<li><img alt="Ticket" height="25" src="img/Ticket.png" width="25"/>40 <a href="ticket.html"><span class="color-template color-template-ticket color-template-background-clip">Tickets</span></a></li></ul>
 </td></tr></tbody></table>
 
 ## [Spider](spider-field.md) Badges
@@ -717,7 +717,7 @@ Upon claiming any non-event badge, it will be announced in the server publicly, 
 </td>
 <td>
 <ul><li>+10% <a href="system-page.html#White_Pollen">White Pollen</a></li>
-<li><span typeof="mw:Error mw:File"></span>5 <a href="ticket.html"><span class="color-template color-template-ticket color-template-background-clip">Tickets</span></a></li></ul>
+<li><img alt="Ticket" height="25" src="img/Ticket.png" width="25"/>5 <a href="ticket.html"><span class="color-template color-template-ticket color-template-background-clip">Tickets</span></a></li></ul>
 </td></tr>
 <tr>
 <td><figure class="mw-halign-center" typeof="mw:Error mw:File"><figcaption></figcaption></figure> Hotshot
@@ -726,7 +726,7 @@ Upon claiming any non-event badge, it will be announced in the server publicly, 
 </td>
 <td>
 <ul><li>+15% <a href="system-page.html#White_Pollen">White Pollen</a></li>
-<li><span typeof="mw:Error mw:File"></span>10 <a href="ticket.html"><span class="color-template color-template-ticket color-template-background-clip">Tickets</span></a></li></ul>
+<li><img alt="Ticket" height="25" src="img/Ticket.png" width="25"/>10 <a href="ticket.html"><span class="color-template color-template-ticket color-template-background-clip">Tickets</span></a></li></ul>
 </td></tr>
 <tr>
 <td><figure class="mw-halign-center" typeof="mw:Error mw:File"><figcaption></figcaption></figure> Ace
@@ -735,7 +735,7 @@ Upon claiming any non-event badge, it will be announced in the server publicly, 
 </td>
 <td>
 <ul><li>+20% <a href="system-page.html#White_Pollen">White Pollen</a></li>
-<li><span typeof="mw:Error mw:File"></span>15 <a href="ticket.html"><span class="color-template color-template-ticket color-template-background-clip">Tickets</span></a></li></ul>
+<li><img alt="Ticket" height="25" src="img/Ticket.png" width="25"/>15 <a href="ticket.html"><span class="color-template color-template-ticket color-template-background-clip">Tickets</span></a></li></ul>
 </td></tr>
 <tr>
 <td><figure class="mw-halign-center" typeof="mw:Error mw:File"><figcaption></figcaption></figure> Master
@@ -744,7 +744,7 @@ Upon claiming any non-event badge, it will be announced in the server publicly, 
 </td>
 <td>
 <ul><li>+25% <a href="system-page.html#White_Pollen">White Pollen</a></li>
-<li><span typeof="mw:Error mw:File"></span>25 <a href="ticket.html"><span class="color-template color-template-ticket color-template-background-clip">Tickets</span></a></li></ul>
+<li><img alt="Ticket" height="25" src="img/Ticket.png" width="25"/>25 <a href="ticket.html"><span class="color-template color-template-ticket color-template-background-clip">Tickets</span></a></li></ul>
 </td></tr>
 <tr>
 <td><figure class="mw-halign-center" typeof="mw:Error mw:File"><figcaption></figcaption></figure> Grandmaster
@@ -753,7 +753,7 @@ Upon claiming any non-event badge, it will be announced in the server publicly, 
 </td>
 <td>
 <ul><li>+30% <a href="system-page.html#White_Pollen">White Pollen</a></li>
-<li><span typeof="mw:Error mw:File"></span>40 <a href="ticket.html"><span class="color-template color-template-ticket color-template-background-clip">Tickets</span></a></li></ul>
+<li><img alt="Ticket" height="25" src="img/Ticket.png" width="25"/>40 <a href="ticket.html"><span class="color-template color-template-ticket color-template-background-clip">Tickets</span></a></li></ul>
 </td></tr></tbody></table>
 
 ## [Strawberry](strawberry-field.md) Badges
@@ -773,7 +773,7 @@ Upon claiming any non-event badge, it will be announced in the server publicly, 
 </td>
 <td>
 <ul><li>+5% <a href="system-page.html#Red_Pollen">Red Pollen</a></li>
-<li><span typeof="mw:Error mw:File"></span>5 <a href="ticket.html"><span class="color-template color-template-ticket color-template-background-clip">Tickets</span></a></li></ul>
+<li><img alt="Ticket" height="25" src="img/Ticket.png" width="25"/>5 <a href="ticket.html"><span class="color-template color-template-ticket color-template-background-clip">Tickets</span></a></li></ul>
 </td></tr>
 <tr>
 <td><figure class="mw-halign-center" typeof="mw:Error mw:File"><figcaption></figcaption></figure> Hotshot
@@ -782,7 +782,7 @@ Upon claiming any non-event badge, it will be announced in the server publicly, 
 </td>
 <td>
 <ul><li>+10% <a href="system-page.html#Red_Pollen">Red Pollen</a></li>
-<li><span typeof="mw:Error mw:File"></span>10 <a href="ticket.html"><span class="color-template color-template-ticket color-template-background-clip">Tickets</span></a></li></ul>
+<li><img alt="Ticket" height="25" src="img/Ticket.png" width="25"/>10 <a href="ticket.html"><span class="color-template color-template-ticket color-template-background-clip">Tickets</span></a></li></ul>
 </td></tr>
 <tr>
 <td><figure class="mw-halign-center" typeof="mw:Error mw:File"><figcaption></figcaption></figure> Ace
@@ -791,7 +791,7 @@ Upon claiming any non-event badge, it will be announced in the server publicly, 
 </td>
 <td>
 <ul><li>+15% <a href="system-page.html#Red_Pollen">Red Pollen</a></li>
-<li><span typeof="mw:Error mw:File"></span>15 <a href="ticket.html"><span class="color-template color-template-ticket color-template-background-clip">Tickets</span></a></li></ul>
+<li><img alt="Ticket" height="25" src="img/Ticket.png" width="25"/>15 <a href="ticket.html"><span class="color-template color-template-ticket color-template-background-clip">Tickets</span></a></li></ul>
 </td></tr>
 <tr>
 <td><figure class="mw-halign-center" typeof="mw:Error mw:File"><figcaption></figcaption></figure> Master
@@ -800,7 +800,7 @@ Upon claiming any non-event badge, it will be announced in the server publicly, 
 </td>
 <td>
 <ul><li>+20% <a href="system-page.html#Red_Pollen">Red Pollen</a></li>
-<li><span typeof="mw:Error mw:File"></span>25 <a href="ticket.html"><span class="color-template color-template-ticket color-template-background-clip">Tickets</span></a></li></ul>
+<li><img alt="Ticket" height="25" src="img/Ticket.png" width="25"/>25 <a href="ticket.html"><span class="color-template color-template-ticket color-template-background-clip">Tickets</span></a></li></ul>
 </td></tr>
 <tr>
 <td><figure class="mw-halign-center" typeof="mw:Error mw:File"><figcaption></figcaption></figure> Grandmaster
@@ -809,7 +809,7 @@ Upon claiming any non-event badge, it will be announced in the server publicly, 
 </td>
 <td>
 <ul><li>+25% <a href="system-page.html#Red_Pollen">Red Pollen</a></li>
-<li><span typeof="mw:Error mw:File"></span>40 <a href="ticket.html"><span class="color-template color-template-ticket color-template-background-clip">Tickets</span></a></li></ul>
+<li><img alt="Ticket" height="25" src="img/Ticket.png" width="25"/>40 <a href="ticket.html"><span class="color-template color-template-ticket color-template-background-clip">Tickets</span></a></li></ul>
 </td></tr></tbody></table>
 
 ## [Bamboo](bamboo-field.md) Badges
@@ -829,7 +829,7 @@ Upon claiming any non-event badge, it will be announced in the server publicly, 
 </td>
 <td>
 <ul><li>+5% <a href="system-page.html#Blue_Pollen">Blue Pollen</a></li>
-<li><span typeof="mw:Error mw:File"></span>5 <a href="ticket.html"><span class="color-template color-template-ticket color-template-background-clip">Tickets</span></a></li></ul>
+<li><img alt="Ticket" height="25" src="img/Ticket.png" width="25"/>5 <a href="ticket.html"><span class="color-template color-template-ticket color-template-background-clip">Tickets</span></a></li></ul>
 </td></tr>
 <tr>
 <td><figure class="mw-halign-center" typeof="mw:Error mw:File"><figcaption></figcaption></figure> Hotshot
@@ -838,7 +838,7 @@ Upon claiming any non-event badge, it will be announced in the server publicly, 
 </td>
 <td>
 <ul><li>+10% <a href="system-page.html#Blue_Pollen">Blue Pollen</a></li>
-<li><span typeof="mw:Error mw:File"></span>10 <a href="ticket.html"><span class="color-template color-template-ticket color-template-background-clip">Tickets</span></a></li></ul>
+<li><img alt="Ticket" height="25" src="img/Ticket.png" width="25"/>10 <a href="ticket.html"><span class="color-template color-template-ticket color-template-background-clip">Tickets</span></a></li></ul>
 </td></tr>
 <tr>
 <td><figure class="mw-halign-center" typeof="mw:Error mw:File"><figcaption></figcaption></figure> Ace
@@ -847,7 +847,7 @@ Upon claiming any non-event badge, it will be announced in the server publicly, 
 </td>
 <td>
 <ul><li>+15% <a href="system-page.html#Blue_Pollen">Blue Pollen</a></li>
-<li><span typeof="mw:Error mw:File"></span>15 <a href="ticket.html"><span class="color-template color-template-ticket color-template-background-clip">Tickets</span></a></li></ul>
+<li><img alt="Ticket" height="25" src="img/Ticket.png" width="25"/>15 <a href="ticket.html"><span class="color-template color-template-ticket color-template-background-clip">Tickets</span></a></li></ul>
 </td></tr>
 <tr>
 <td><figure class="mw-halign-center" typeof="mw:Error mw:File"><figcaption></figcaption></figure> Master
@@ -856,7 +856,7 @@ Upon claiming any non-event badge, it will be announced in the server publicly, 
 </td>
 <td>
 <ul><li>+20% <a href="system-page.html#Blue_Pollen">Blue Pollen</a></li>
-<li><span typeof="mw:Error mw:File"></span>25 <a href="ticket.html"><span class="color-template color-template-ticket color-template-background-clip">Tickets</span></a></li></ul>
+<li><img alt="Ticket" height="25" src="img/Ticket.png" width="25"/>25 <a href="ticket.html"><span class="color-template color-template-ticket color-template-background-clip">Tickets</span></a></li></ul>
 </td></tr>
 <tr>
 <td><figure class="mw-halign-center" typeof="mw:Error mw:File"><figcaption></figcaption></figure> Grandmaster
@@ -865,7 +865,7 @@ Upon claiming any non-event badge, it will be announced in the server publicly, 
 </td>
 <td>
 <ul><li>+25% <a href="system-page.html#Blue_Pollen">Blue Pollen</a></li>
-<li><span typeof="mw:Error mw:File"></span>40 <a href="ticket.html"><span class="color-template color-template-ticket color-template-background-clip">Tickets</span></a></li></ul>
+<li><img alt="Ticket" height="25" src="img/Ticket.png" width="25"/>40 <a href="ticket.html"><span class="color-template color-template-ticket color-template-background-clip">Tickets</span></a></li></ul>
 </td></tr></tbody></table>
 
 ## [Pineapple](pineapple-patch.md) Badges
@@ -885,7 +885,7 @@ Upon claiming any non-event badge, it will be announced in the server publicly, 
 </td>
 <td>
 <ul><li>+3% <a href="system-page.html#Instant_White_Conversion">Instant White Conversion</a></li>
-<li><span typeof="mw:Error mw:File"></span>5 <a href="ticket.html"><span class="color-template color-template-ticket color-template-background-clip">Tickets</span></a></li></ul>
+<li><img alt="Ticket" height="25" src="img/Ticket.png" width="25"/>5 <a href="ticket.html"><span class="color-template color-template-ticket color-template-background-clip">Tickets</span></a></li></ul>
 </td></tr>
 <tr>
 <td><figure class="mw-halign-center" typeof="mw:Error mw:File"><figcaption></figcaption></figure> Hotshot
@@ -894,7 +894,7 @@ Upon claiming any non-event badge, it will be announced in the server publicly, 
 </td>
 <td>
 <ul><li>+6% Instant <a href="system-page.html#Instant_White_Conversion">White Conversion</a></li>
-<li><span typeof="mw:Error mw:File"></span>10 <a href="ticket.html"><span class="color-template color-template-ticket color-template-background-clip">Tickets</span></a></li></ul>
+<li><img alt="Ticket" height="25" src="img/Ticket.png" width="25"/>10 <a href="ticket.html"><span class="color-template color-template-ticket color-template-background-clip">Tickets</span></a></li></ul>
 </td></tr>
 <tr>
 <td><figure class="mw-halign-center" typeof="mw:Error mw:File"><figcaption></figcaption></figure> Ace
@@ -903,7 +903,7 @@ Upon claiming any non-event badge, it will be announced in the server publicly, 
 </td>
 <td>
 <ul><li>+9% <a href="system-page.html#Instant_White_Conversion">Instant White Conversion</a></li>
-<li><span typeof="mw:Error mw:File"></span>15 <a href="ticket.html"><span class="color-template color-template-ticket color-template-background-clip">Tickets</span></a></li></ul>
+<li><img alt="Ticket" height="25" src="img/Ticket.png" width="25"/>15 <a href="ticket.html"><span class="color-template color-template-ticket color-template-background-clip">Tickets</span></a></li></ul>
 </td></tr>
 <tr>
 <td><figure class="mw-halign-center" typeof="mw:Error mw:File"><figcaption></figcaption></figure> Master
@@ -912,7 +912,7 @@ Upon claiming any non-event badge, it will be announced in the server publicly, 
 </td>
 <td>
 <ul><li>+12% <a href="system-page.html#Instant_White_Conversion">Instant White Conversion</a></li>
-<li><span typeof="mw:Error mw:File"></span>25 <a href="ticket.html"><span class="color-template color-template-ticket color-template-background-clip">Tickets</span></a></li></ul>
+<li><img alt="Ticket" height="25" src="img/Ticket.png" width="25"/>25 <a href="ticket.html"><span class="color-template color-template-ticket color-template-background-clip">Tickets</span></a></li></ul>
 </td></tr>
 <tr>
 <td><figure class="mw-halign-center" typeof="mw:Error mw:File"><figcaption></figcaption></figure> Grandmaster
@@ -921,7 +921,7 @@ Upon claiming any non-event badge, it will be announced in the server publicly, 
 </td>
 <td>
 <ul><li>+15% <a href="system-page.html#Instant_White_Conversion">Instant White Conversion</a></li>
-<li><span typeof="mw:Error mw:File"></span>40 <a href="ticket.html"><span class="color-template color-template-ticket color-template-background-clip">Tickets</span></a></li></ul>
+<li><img alt="Ticket" height="25" src="img/Ticket.png" width="25"/>40 <a href="ticket.html"><span class="color-template color-template-ticket color-template-background-clip">Tickets</span></a></li></ul>
 </td></tr></tbody></table>
 
 ## [Pumpkin](pumpkin-patch.md) Badges
@@ -941,7 +941,7 @@ Upon claiming any non-event badge, it will be announced in the server publicly, 
 </td>
 <td>
 <ul><li>x1.2 <a href="system-page.html#Convert_Rate_At_Hive">Convert Rate at Hive</a></li>
-<li><span typeof="mw:Error mw:File"></span>5 <a href="ticket.html"><span class="color-template color-template-ticket color-template-background-clip">Tickets</span></a></li></ul>
+<li><img alt="Ticket" height="25" src="img/Ticket.png" width="25"/>5 <a href="ticket.html"><span class="color-template color-template-ticket color-template-background-clip">Tickets</span></a></li></ul>
 </td></tr>
 <tr>
 <td><figure class="mw-halign-center" typeof="mw:Error mw:File"><figcaption></figcaption></figure> Hotshot
@@ -950,7 +950,7 @@ Upon claiming any non-event badge, it will be announced in the server publicly, 
 </td>
 <td>
 <ul><li>x1.4 <a href="system-page.html#Convert_Rate_At_Hive">Convert Rate at Hive</a></li>
-<li><span typeof="mw:Error mw:File"></span>10 <a href="ticket.html"><span class="color-template color-template-ticket color-template-background-clip">Tickets</span></a></li></ul>
+<li><img alt="Ticket" height="25" src="img/Ticket.png" width="25"/>10 <a href="ticket.html"><span class="color-template color-template-ticket color-template-background-clip">Tickets</span></a></li></ul>
 </td></tr>
 <tr>
 <td><figure class="mw-halign-center" typeof="mw:Error mw:File"><figcaption></figcaption></figure> Ace
@@ -959,7 +959,7 @@ Upon claiming any non-event badge, it will be announced in the server publicly, 
 </td>
 <td>
 <ul><li>x1.6 <a href="system-page.html#Convert_Rate_At_Hive">Convert Rate at Hive</a></li>
-<li><span typeof="mw:Error mw:File"></span>15 <a href="ticket.html"><span class="color-template color-template-ticket color-template-background-clip">Tickets</span></a></li></ul>
+<li><img alt="Ticket" height="25" src="img/Ticket.png" width="25"/>15 <a href="ticket.html"><span class="color-template color-template-ticket color-template-background-clip">Tickets</span></a></li></ul>
 </td></tr>
 <tr>
 <td><figure class="mw-halign-center" typeof="mw:Error mw:File"><figcaption></figcaption></figure> Master
@@ -968,7 +968,7 @@ Upon claiming any non-event badge, it will be announced in the server publicly, 
 </td>
 <td>
 <ul><li>x1.8 <a href="system-page.html#Convert_Rate_At_Hive">Convert Rate at Hive</a></li>
-<li><span typeof="mw:Error mw:File"></span>25 <a href="ticket.html"><span class="color-template color-template-ticket color-template-background-clip">Tickets</span></a></li></ul>
+<li><img alt="Ticket" height="25" src="img/Ticket.png" width="25"/>25 <a href="ticket.html"><span class="color-template color-template-ticket color-template-background-clip">Tickets</span></a></li></ul>
 </td></tr>
 <tr>
 <td><figure class="mw-halign-center" typeof="mw:Error mw:File"><figcaption></figcaption></figure> Grandmaster
@@ -977,7 +977,7 @@ Upon claiming any non-event badge, it will be announced in the server publicly, 
 </td>
 <td>
 <ul><li>x2.0 <a href="system-page.html#Convert_Rate_At_Hive">Convert Rate at Hive</a></li>
-<li><span typeof="mw:Error mw:File"></span>40 <a href="ticket.html"><span class="color-template color-template-ticket color-template-background-clip">Tickets</span></a></li></ul>
+<li><img alt="Ticket" height="25" src="img/Ticket.png" width="25"/>40 <a href="ticket.html"><span class="color-template color-template-ticket color-template-background-clip">Tickets</span></a></li></ul>
 </td></tr></tbody></table>
 
 ## [Cactus](cactus-field.md) Badges
@@ -997,7 +997,7 @@ Upon claiming any non-event badge, it will be announced in the server publicly, 
 </td>
 <td>
 <ul><li>+1% <a href="system-page.html#Instant_Conversion">Instant Conversion</a></li>
-<li><span typeof="mw:Error mw:File"></span>5 <a href="ticket.html"><span class="color-template color-template-ticket color-template-background-clip">Tickets</span></a></li></ul>
+<li><img alt="Ticket" height="25" src="img/Ticket.png" width="25"/>5 <a href="ticket.html"><span class="color-template color-template-ticket color-template-background-clip">Tickets</span></a></li></ul>
 </td></tr>
 <tr>
 <td><figure class="mw-halign-center" typeof="mw:Error mw:File"><figcaption></figcaption></figure> Hotshot
@@ -1006,7 +1006,7 @@ Upon claiming any non-event badge, it will be announced in the server publicly, 
 </td>
 <td>
 <ul><li>+2% Instant <a href="system-page.html#Instant_Conversion">Conversion</a></li>
-<li><span typeof="mw:Error mw:File"></span>10 <a href="ticket.html"><span class="color-template color-template-ticket color-template-background-clip">Tickets</span></a></li></ul>
+<li><img alt="Ticket" height="25" src="img/Ticket.png" width="25"/>10 <a href="ticket.html"><span class="color-template color-template-ticket color-template-background-clip">Tickets</span></a></li></ul>
 </td></tr>
 <tr>
 <td><figure class="mw-halign-center" typeof="mw:Error mw:File"><figcaption></figcaption></figure> Ace
@@ -1015,7 +1015,7 @@ Upon claiming any non-event badge, it will be announced in the server publicly, 
 </td>
 <td>
 <ul><li>+3% <a href="system-page.html#Instant_Conversion">Instant Conversion</a></li>
-<li><span typeof="mw:Error mw:File"></span>15 <a href="ticket.html"><span class="color-template color-template-ticket color-template-background-clip">Tickets</span></a></li></ul>
+<li><img alt="Ticket" height="25" src="img/Ticket.png" width="25"/>15 <a href="ticket.html"><span class="color-template color-template-ticket color-template-background-clip">Tickets</span></a></li></ul>
 </td></tr>
 <tr>
 <td><figure class="mw-halign-center" typeof="mw:Error mw:File"><figcaption></figcaption></figure> Master
@@ -1024,7 +1024,7 @@ Upon claiming any non-event badge, it will be announced in the server publicly, 
 </td>
 <td>
 <ul><li>+4% Instant <a href="system-page.html#Instant_Conversion">Conversion</a></li>
-<li><span typeof="mw:Error mw:File"></span>25 <a href="ticket.html"><span class="color-template color-template-ticket color-template-background-clip">Tickets</span></a></li></ul>
+<li><img alt="Ticket" height="25" src="img/Ticket.png" width="25"/>25 <a href="ticket.html"><span class="color-template color-template-ticket color-template-background-clip">Tickets</span></a></li></ul>
 </td></tr>
 <tr>
 <td><figure class="mw-halign-center" typeof="mw:Error mw:File"><figcaption></figcaption></figure> Grandmaster
@@ -1033,7 +1033,7 @@ Upon claiming any non-event badge, it will be announced in the server publicly, 
 </td>
 <td>
 <ul><li>+5% <a href="system-page.html#Instant_Conversion">Instant Conversion</a></li>
-<li><span typeof="mw:Error mw:File"></span>40 <a href="ticket.html"><span class="color-template color-template-ticket color-template-background-clip">Tickets</span></a></li></ul>
+<li><img alt="Ticket" height="25" src="img/Ticket.png" width="25"/>40 <a href="ticket.html"><span class="color-template color-template-ticket color-template-background-clip">Tickets</span></a></li></ul>
 </td></tr></tbody></table>
 
 ## [Rose](rose-field.md) Badges
@@ -1053,7 +1053,7 @@ Upon claiming any non-event badge, it will be announced in the server publicly, 
 </td>
 <td>
 <ul><li>+5% <a href="system-page.html#Red_Field_Capacity">Red Field Capacity</a></li>
-<li><span typeof="mw:Error mw:File"></span>5 <a href="ticket.html"><span class="color-template color-template-ticket color-template-background-clip">Tickets</span></a></li></ul>
+<li><img alt="Ticket" height="25" src="img/Ticket.png" width="25"/>5 <a href="ticket.html"><span class="color-template color-template-ticket color-template-background-clip">Tickets</span></a></li></ul>
 </td></tr>
 <tr>
 <td><figure class="mw-halign-center" typeof="mw:Error mw:File"><figcaption></figcaption></figure> Hotshot
@@ -1062,7 +1062,7 @@ Upon claiming any non-event badge, it will be announced in the server publicly, 
 </td>
 <td>
 <ul><li>+10% <a href="system-page.html#Red_Field_Capacity">Red Field Capacity</a></li>
-<li><span typeof="mw:Error mw:File"></span>10 <a href="ticket.html"><span class="color-template color-template-ticket color-template-background-clip">Tickets</span></a></li></ul>
+<li><img alt="Ticket" height="25" src="img/Ticket.png" width="25"/>10 <a href="ticket.html"><span class="color-template color-template-ticket color-template-background-clip">Tickets</span></a></li></ul>
 </td></tr>
 <tr>
 <td><figure class="mw-halign-center" typeof="mw:Error mw:File"><figcaption></figcaption></figure> Ace
@@ -1071,7 +1071,7 @@ Upon claiming any non-event badge, it will be announced in the server publicly, 
 </td>
 <td>
 <ul><li>+15% <a href="system-page.html#Red_Field_Capacity">Red Field Capacity</a></li>
-<li><span typeof="mw:Error mw:File"></span>15 <a href="ticket.html"><span class="color-template color-template-ticket color-template-background-clip">Tickets</span></a></li></ul>
+<li><img alt="Ticket" height="25" src="img/Ticket.png" width="25"/>15 <a href="ticket.html"><span class="color-template color-template-ticket color-template-background-clip">Tickets</span></a></li></ul>
 </td></tr>
 <tr>
 <td><figure class="mw-halign-center" typeof="mw:Error mw:File"><figcaption></figcaption></figure> Master
@@ -1080,7 +1080,7 @@ Upon claiming any non-event badge, it will be announced in the server publicly, 
 </td>
 <td>
 <ul><li>+20% <a href="system-page.html#Red_Field_Capacity">Red Field Capacity</a></li>
-<li><span typeof="mw:Error mw:File"></span>25 <a href="ticket.html"><span class="color-template color-template-ticket color-template-background-clip">Tickets</span></a></li></ul>
+<li><img alt="Ticket" height="25" src="img/Ticket.png" width="25"/>25 <a href="ticket.html"><span class="color-template color-template-ticket color-template-background-clip">Tickets</span></a></li></ul>
 </td></tr>
 <tr>
 <td><figure class="mw-halign-center" typeof="mw:Error mw:File"><figcaption></figcaption></figure> Grandmaster
@@ -1089,7 +1089,7 @@ Upon claiming any non-event badge, it will be announced in the server publicly, 
 </td>
 <td>
 <ul><li>+25% <a href="system-page.html#Red_Field_Capacity">Red Field Capacity</a></li>
-<li><span typeof="mw:Error mw:File"></span>40 <a href="ticket.html"><span class="color-template color-template-ticket color-template-background-clip">Tickets</span></a></li></ul>
+<li><img alt="Ticket" height="25" src="img/Ticket.png" width="25"/>40 <a href="ticket.html"><span class="color-template color-template-ticket color-template-background-clip">Tickets</span></a></li></ul>
 </td></tr></tbody></table>
 
 ## [Pine Tree](pine-tree-forest.md) Badges
@@ -1109,7 +1109,7 @@ Upon claiming any non-event badge, it will be announced in the server publicly, 
 </td>
 <td>
 <ul><li>+5% <a href="system-page.html#Blue_Field_Capacity">Blue Field Capacity</a></li>
-<li><span typeof="mw:Error mw:File"></span>5 <a href="ticket.html"><span class="color-template color-template-ticket color-template-background-clip">Tickets</span></a></li></ul>
+<li><img alt="Ticket" height="25" src="img/Ticket.png" width="25"/>5 <a href="ticket.html"><span class="color-template color-template-ticket color-template-background-clip">Tickets</span></a></li></ul>
 </td></tr>
 <tr>
 <td><figure class="mw-halign-center" typeof="mw:Error mw:File"><figcaption></figcaption></figure> Hotshot
@@ -1118,7 +1118,7 @@ Upon claiming any non-event badge, it will be announced in the server publicly, 
 </td>
 <td>
 <ul><li>+10% <a href="system-page.html#Blue_Field_Capacity">Blue Field Capacity</a></li>
-<li><span typeof="mw:Error mw:File"></span>10 <a href="ticket.html"><span class="color-template color-template-ticket color-template-background-clip">Tickets</span></a></li></ul>
+<li><img alt="Ticket" height="25" src="img/Ticket.png" width="25"/>10 <a href="ticket.html"><span class="color-template color-template-ticket color-template-background-clip">Tickets</span></a></li></ul>
 </td></tr>
 <tr>
 <td><figure class="mw-halign-center" typeof="mw:Error mw:File"><figcaption></figcaption></figure> Ace
@@ -1127,7 +1127,7 @@ Upon claiming any non-event badge, it will be announced in the server publicly, 
 </td>
 <td>
 <ul><li>+15% <a href="system-page.html#Blue_Field_Capacity">Blue Field Capacity</a></li>
-<li><span typeof="mw:Error mw:File"></span>15 <a href="ticket.html"><span class="color-template color-template-ticket color-template-background-clip">Tickets</span></a></li></ul>
+<li><img alt="Ticket" height="25" src="img/Ticket.png" width="25"/>15 <a href="ticket.html"><span class="color-template color-template-ticket color-template-background-clip">Tickets</span></a></li></ul>
 </td></tr>
 <tr>
 <td><figure class="mw-halign-center" typeof="mw:Error mw:File"><figcaption></figcaption></figure> Master
@@ -1136,7 +1136,7 @@ Upon claiming any non-event badge, it will be announced in the server publicly, 
 </td>
 <td>
 <ul><li>+20% <a href="system-page.html#Blue_Field_Capacity">Blue Field Capacity</a></li>
-<li><span typeof="mw:Error mw:File"></span>25 <a href="ticket.html"><span class="color-template color-template-ticket color-template-background-clip">Tickets</span></a></li></ul>
+<li><img alt="Ticket" height="25" src="img/Ticket.png" width="25"/>25 <a href="ticket.html"><span class="color-template color-template-ticket color-template-background-clip">Tickets</span></a></li></ul>
 </td></tr>
 <tr>
 <td><figure class="mw-halign-center" typeof="mw:Error mw:File"><figcaption></figcaption></figure> Grandmaster
@@ -1145,7 +1145,7 @@ Upon claiming any non-event badge, it will be announced in the server publicly, 
 </td>
 <td>
 <ul><li>+25% <a href="system-page.html#Blue_Field_Capacity">Blue Field Capacity</a></li>
-<li><span typeof="mw:Error mw:File"></span>40 <a href="ticket.html"><span class="color-template color-template-ticket color-template-background-clip">Tickets</span></a></li></ul>
+<li><img alt="Ticket" height="25" src="img/Ticket.png" width="25"/>40 <a href="ticket.html"><span class="color-template color-template-ticket color-template-background-clip">Tickets</span></a></li></ul>
 </td></tr></tbody></table>
 
 ## [Stump](stump-field.md) Badges
@@ -1165,7 +1165,7 @@ Upon claiming any non-event badge, it will be announced in the server publicly, 
 </td>
 <td>
 <ul><li>+5% <a href="system-page.html#Tool_Pollen">Tool Pollen</a></li>
-<li><span typeof="mw:Error mw:File"></span>5 <a href="ticket.html"><span class="color-template color-template-ticket color-template-background-clip">Tickets</span></a></li></ul>
+<li><img alt="Ticket" height="25" src="img/Ticket.png" width="25"/>5 <a href="ticket.html"><span class="color-template color-template-ticket color-template-background-clip">Tickets</span></a></li></ul>
 </td></tr>
 <tr>
 <td><figure class="mw-halign-center" typeof="mw:Error mw:File"><figcaption></figcaption></figure> Hotshot
@@ -1174,7 +1174,7 @@ Upon claiming any non-event badge, it will be announced in the server publicly, 
 </td>
 <td>
 <ul><li>+10% <a href="system-page.html#Tool_Pollen">Tool Pollen</a></li>
-<li><span typeof="mw:Error mw:File"></span>10 <a href="ticket.html"><span class="color-template color-template-ticket color-template-background-clip">Tickets</span></a></li></ul>
+<li><img alt="Ticket" height="25" src="img/Ticket.png" width="25"/>10 <a href="ticket.html"><span class="color-template color-template-ticket color-template-background-clip">Tickets</span></a></li></ul>
 </td></tr>
 <tr>
 <td><figure class="mw-halign-center" typeof="mw:Error mw:File"><figcaption></figcaption></figure> Ace
@@ -1183,7 +1183,7 @@ Upon claiming any non-event badge, it will be announced in the server publicly, 
 </td>
 <td>
 <ul><li>+15% <a href="system-page.html#Tool_Pollen">Tool Pollen</a></li>
-<li><span typeof="mw:Error mw:File"></span>15 <a href="ticket.html"><span class="color-template color-template-ticket color-template-background-clip">Tickets</span></a></li></ul>
+<li><img alt="Ticket" height="25" src="img/Ticket.png" width="25"/>15 <a href="ticket.html"><span class="color-template color-template-ticket color-template-background-clip">Tickets</span></a></li></ul>
 </td></tr>
 <tr>
 <td><figure class="mw-halign-center" typeof="mw:Error mw:File"><figcaption></figcaption></figure> Master
@@ -1192,7 +1192,7 @@ Upon claiming any non-event badge, it will be announced in the server publicly, 
 </td>
 <td>
 <ul><li>+20% <a href="system-page.html#Tool_Pollen">Tool Pollen</a></li>
-<li><span typeof="mw:Error mw:File"></span>25 <a href="ticket.html"><span class="color-template color-template-ticket color-template-background-clip">Tickets</span></a></li></ul>
+<li><img alt="Ticket" height="25" src="img/Ticket.png" width="25"/>25 <a href="ticket.html"><span class="color-template color-template-ticket color-template-background-clip">Tickets</span></a></li></ul>
 </td></tr>
 <tr>
 <td><figure class="mw-halign-center" typeof="mw:Error mw:File"><figcaption></figcaption></figure> Grandmaster
@@ -1201,7 +1201,7 @@ Upon claiming any non-event badge, it will be announced in the server publicly, 
 </td>
 <td>
 <ul><li>+25% <a href="system-page.html#Tool_Pollen">Tool Pollen</a></li>
-<li><span typeof="mw:Error mw:File"></span>40 <a href="ticket.html"><span class="color-template color-template-ticket color-template-background-clip">Tickets</span></a></li></ul>
+<li><img alt="Ticket" height="25" src="img/Ticket.png" width="25"/>40 <a href="ticket.html"><span class="color-template color-template-ticket color-template-background-clip">Tickets</span></a></li></ul>
 </td></tr></tbody></table>
 
 ## [Coconut](coconut-field.md) Badges
@@ -1221,7 +1221,7 @@ Upon claiming any non-event badge, it will be announced in the server publicly, 
 </td>
 <td>
 <ul><li>x1.04 <a href="system-page.html#White_Pollen">White Pollen</a></li>
-<li><span typeof="mw:Error mw:File"></span>5 <a href="ticket.html"><span class="color-template color-template-ticket color-template-background-clip">Tickets</span></a></li></ul>
+<li><img alt="Ticket" height="25" src="img/Ticket.png" width="25"/>5 <a href="ticket.html"><span class="color-template color-template-ticket color-template-background-clip">Tickets</span></a></li></ul>
 </td></tr>
 <tr>
 <td><figure class="mw-halign-center" typeof="mw:Error mw:File"><figcaption></figcaption></figure> Hotshot
@@ -1230,7 +1230,7 @@ Upon claiming any non-event badge, it will be announced in the server publicly, 
 </td>
 <td>
 <ul><li>x1.08 <a href="system-page.html#White_Pollen">White Pollen</a></li>
-<li><span typeof="mw:Error mw:File"></span>10 <a href="ticket.html"><span class="color-template color-template-ticket color-template-background-clip">Tickets</span></a></li></ul>
+<li><img alt="Ticket" height="25" src="img/Ticket.png" width="25"/>10 <a href="ticket.html"><span class="color-template color-template-ticket color-template-background-clip">Tickets</span></a></li></ul>
 </td></tr>
 <tr>
 <td><figure class="mw-halign-center" typeof="mw:Error mw:File"><figcaption></figcaption></figure> Ace
@@ -1239,7 +1239,7 @@ Upon claiming any non-event badge, it will be announced in the server publicly, 
 </td>
 <td>
 <ul><li>x1.12 <a href="system-page.html#White_Pollen">White Pollen</a></li>
-<li><span typeof="mw:Error mw:File"></span>15 <a href="ticket.html"><span class="color-template color-template-ticket color-template-background-clip">Tickets</span></a></li></ul>
+<li><img alt="Ticket" height="25" src="img/Ticket.png" width="25"/>15 <a href="ticket.html"><span class="color-template color-template-ticket color-template-background-clip">Tickets</span></a></li></ul>
 </td></tr>
 <tr>
 <td><figure class="mw-halign-center" typeof="mw:Error mw:File"><figcaption></figcaption></figure> Master
@@ -1248,7 +1248,7 @@ Upon claiming any non-event badge, it will be announced in the server publicly, 
 </td>
 <td>
 <ul><li>x1.16 <a href="system-page.html#White_Pollen">White Pollen</a></li>
-<li><span typeof="mw:Error mw:File"></span>25 <a href="ticket.html"><span class="color-template color-template-ticket color-template-background-clip">Tickets</span></a></li></ul>
+<li><img alt="Ticket" height="25" src="img/Ticket.png" width="25"/>25 <a href="ticket.html"><span class="color-template color-template-ticket color-template-background-clip">Tickets</span></a></li></ul>
 </td></tr>
 <tr>
 <td><figure class="mw-halign-center" typeof="mw:Error mw:File"><figcaption></figcaption></figure> Grandmaster
@@ -1257,7 +1257,7 @@ Upon claiming any non-event badge, it will be announced in the server publicly, 
 </td>
 <td>
 <ul><li>x1.20 <a href="system-page.html#White_Pollen">White Pollen</a></li>
-<li><span typeof="mw:Error mw:File"></span>40 <a href="ticket.html"><span class="color-template color-template-ticket color-template-background-clip">Tickets</span></a></li></ul>
+<li><img alt="Ticket" height="25" src="img/Ticket.png" width="25"/>40 <a href="ticket.html"><span class="color-template color-template-ticket color-template-background-clip">Tickets</span></a></li></ul>
 </td></tr></tbody></table>
 
 ## [Pepper](pepper-patch.md) Badges
@@ -1277,7 +1277,7 @@ Upon claiming any non-event badge, it will be announced in the server publicly, 
 </td>
 <td>
 <ul><li>+5% <a href="system-page.html#Flame_Pollen">Flame Pollen</a></li>
-<li><span typeof="mw:Error mw:File"></span>5 <a href="ticket.html"><span class="color-template color-template-ticket color-template-background-clip">Tickets</span></a></li></ul>
+<li><img alt="Ticket" height="25" src="img/Ticket.png" width="25"/>5 <a href="ticket.html"><span class="color-template color-template-ticket color-template-background-clip">Tickets</span></a></li></ul>
 </td></tr>
 <tr>
 <td><figure class="mw-halign-center" typeof="mw:Error mw:File"><figcaption></figcaption></figure> Hotshot
@@ -1286,7 +1286,7 @@ Upon claiming any non-event badge, it will be announced in the server publicly, 
 </td>
 <td>
 <ul><li>+10% <a href="system-page.html#Flame_Pollen">Flame Pollen</a></li>
-<li><span typeof="mw:Error mw:File"></span>10 <a href="ticket.html"><span class="color-template color-template-ticket color-template-background-clip">Tickets</span></a></li></ul>
+<li><img alt="Ticket" height="25" src="img/Ticket.png" width="25"/>10 <a href="ticket.html"><span class="color-template color-template-ticket color-template-background-clip">Tickets</span></a></li></ul>
 </td></tr>
 <tr>
 <td><figure class="mw-halign-center" typeof="mw:Error mw:File"><figcaption></figcaption></figure> Ace
@@ -1295,7 +1295,7 @@ Upon claiming any non-event badge, it will be announced in the server publicly, 
 </td>
 <td>
 <ul><li>+15% <a href="system-page.html#Flame_Pollen">Flame Pollen</a></li>
-<li><span typeof="mw:Error mw:File"></span>15 <a href="ticket.html"><span class="color-template color-template-ticket color-template-background-clip">Tickets</span></a></li></ul>
+<li><img alt="Ticket" height="25" src="img/Ticket.png" width="25"/>15 <a href="ticket.html"><span class="color-template color-template-ticket color-template-background-clip">Tickets</span></a></li></ul>
 </td></tr>
 <tr>
 <td><figure class="mw-halign-center" typeof="mw:Error mw:File"><figcaption></figcaption></figure> Master
@@ -1304,7 +1304,7 @@ Upon claiming any non-event badge, it will be announced in the server publicly, 
 </td>
 <td>
 <ul><li>+20% <a href="system-page.html#Flame_Pollen">Flame Pollen</a></li>
-<li><span typeof="mw:Error mw:File"></span>25 <a href="ticket.html"><span class="color-template color-template-ticket color-template-background-clip">Tickets</span></a></li></ul>
+<li><img alt="Ticket" height="25" src="img/Ticket.png" width="25"/>25 <a href="ticket.html"><span class="color-template color-template-ticket color-template-background-clip">Tickets</span></a></li></ul>
 </td></tr>
 <tr>
 <td><figure class="mw-halign-center" typeof="mw:Error mw:File"><figcaption></figcaption></figure> Grandmaster
@@ -1313,7 +1313,7 @@ Upon claiming any non-event badge, it will be announced in the server publicly, 
 </td>
 <td>
 <ul><li>+25% <a href="system-page.html#Flame_Pollen">Flame Pollen</a></li>
-<li><span typeof="mw:Error mw:File"></span>40 <a href="ticket.html"><span class="color-template color-template-ticket color-template-background-clip">Tickets</span></a></li></ul>
+<li><img alt="Ticket" height="25" src="img/Ticket.png" width="25"/>40 <a href="ticket.html"><span class="color-template color-template-ticket color-template-background-clip">Tickets</span></a></li></ul>
 </td></tr></tbody></table>
 
 ## [Hive Hub](hub-field.md) Badges
@@ -1333,7 +1333,7 @@ Upon claiming any non-event badge, it will be announced in the server publicly, 
 </td>
 <td>
 <ul><li>+2% Instant <a href="instant-conversion.html">Gifted Bee Conversion</a></li>
-<li><span typeof="mw:Error mw:File"></span>5 <a href="ticket.html"><span class="color-template color-template-ticket color-template-background-clip">Tickets</span></a></li></ul>
+<li><img alt="Ticket" height="25" src="img/Ticket.png" width="25"/>5 <a href="ticket.html"><span class="color-template color-template-ticket color-template-background-clip">Tickets</span></a></li></ul>
 </td></tr>
 <tr>
 <td><figure class="mw-halign-center" typeof="mw:Error mw:File"><figcaption></figcaption></figure> Hotshot
@@ -1342,7 +1342,7 @@ Upon claiming any non-event badge, it will be announced in the server publicly, 
 </td>
 <td>
 <ul><li>+4% Instant <a href="instant-conversion.html">Gifted Bee Conversion</a></li>
-<li><span typeof="mw:Error mw:File"></span>10 <a href="ticket.html"><span class="color-template color-template-ticket color-template-background-clip">Tickets</span></a></li></ul>
+<li><img alt="Ticket" height="25" src="img/Ticket.png" width="25"/>10 <a href="ticket.html"><span class="color-template color-template-ticket color-template-background-clip">Tickets</span></a></li></ul>
 </td></tr>
 <tr>
 <td><figure class="mw-halign-center" typeof="mw:Error mw:File"><figcaption></figcaption></figure> Ace
@@ -1351,7 +1351,7 @@ Upon claiming any non-event badge, it will be announced in the server publicly, 
 </td>
 <td>
 <ul><li>+6% Instant <a href="instant-conversion.html">Gifted Bee Conversion</a></li>
-<li><span typeof="mw:Error mw:File"></span>15 <a href="ticket.html"><span class="color-template color-template-ticket color-template-background-clip">Tickets</span></a></li></ul>
+<li><img alt="Ticket" height="25" src="img/Ticket.png" width="25"/>15 <a href="ticket.html"><span class="color-template color-template-ticket color-template-background-clip">Tickets</span></a></li></ul>
 </td></tr>
 <tr>
 <td><figure class="mw-halign-center" typeof="mw:Error mw:File"><figcaption></figcaption></figure> Master
@@ -1360,7 +1360,7 @@ Upon claiming any non-event badge, it will be announced in the server publicly, 
 </td>
 <td>
 <ul><li>+8% Instant <a href="instant-conversion.html">Gifted Bee Conversion</a></li>
-<li><span typeof="mw:Error mw:File"></span>25 <a href="ticket.html"><span class="color-template color-template-ticket color-template-background-clip">Tickets</span></a></li></ul>
+<li><img alt="Ticket" height="25" src="img/Ticket.png" width="25"/>25 <a href="ticket.html"><span class="color-template color-template-ticket color-template-background-clip">Tickets</span></a></li></ul>
 </td></tr>
 <tr>
 <td><figure class="mw-halign-center" typeof="mw:Error mw:File"><figcaption></figcaption></figure> Grandmaster
@@ -1369,7 +1369,7 @@ Upon claiming any non-event badge, it will be announced in the server publicly, 
 </td>
 <td>
 <ul><li>+10% Instant <a href="instant-conversion.html">Gifted Bee Conversion</a></li>
-<li><span typeof="mw:Error mw:File"></span>40 <a href="ticket.html"><span class="color-template color-template-ticket color-template-background-clip">Tickets</span></a></li></ul>
+<li><img alt="Ticket" height="25" src="img/Ticket.png" width="25"/>40 <a href="ticket.html"><span class="color-template color-template-ticket color-template-background-clip">Tickets</span></a></li></ul>
 </td></tr></tbody></table>
 
 ## [Mountain Top](mountain-top-field.md) Badges
@@ -1389,7 +1389,7 @@ Upon claiming any non-event badge, it will be announced in the server publicly, 
 </td>
 <td>
 <ul><li>+1% <a href="system-page.html#Bee_Gather_Pollen">Gifted Bee Pollen</a></li>
-<li><span typeof="mw:Error mw:File"></span>5 <a href="ticket.html"><span class="color-template color-template-ticket color-template-background-clip">Tickets</span></a></li></ul>
+<li><img alt="Ticket" height="25" src="img/Ticket.png" width="25"/>5 <a href="ticket.html"><span class="color-template color-template-ticket color-template-background-clip">Tickets</span></a></li></ul>
 </td></tr>
 <tr>
 <td><figure class="mw-halign-center" typeof="mw:Error mw:File"><figcaption></figcaption></figure> Hotshot
@@ -1398,7 +1398,7 @@ Upon claiming any non-event badge, it will be announced in the server publicly, 
 </td>
 <td>
 <ul><li>+2% <a href="system-page.html#Bee_Gather_Pollen">Gifted Bee Pollen</a></li>
-<li><span typeof="mw:Error mw:File"></span>10 <a href="ticket.html"><span class="color-template color-template-ticket color-template-background-clip">Tickets</span></a></li></ul>
+<li><img alt="Ticket" height="25" src="img/Ticket.png" width="25"/>10 <a href="ticket.html"><span class="color-template color-template-ticket color-template-background-clip">Tickets</span></a></li></ul>
 </td></tr>
 <tr>
 <td><figure class="mw-halign-center" typeof="mw:Error mw:File"><figcaption></figcaption></figure> Ace
@@ -1407,7 +1407,7 @@ Upon claiming any non-event badge, it will be announced in the server publicly, 
 </td>
 <td>
 <ul><li>+3% <a href="system-page.html#Bee_Gather_Pollen">Gifted Bee Pollen</a></li>
-<li><span typeof="mw:Error mw:File"></span>15 <a href="ticket.html"><span class="color-template color-template-ticket color-template-background-clip">Tickets</span></a></li></ul>
+<li><img alt="Ticket" height="25" src="img/Ticket.png" width="25"/>15 <a href="ticket.html"><span class="color-template color-template-ticket color-template-background-clip">Tickets</span></a></li></ul>
 </td></tr>
 <tr>
 <td><figure class="mw-halign-center" typeof="mw:Error mw:File"><figcaption></figcaption></figure> Master
@@ -1416,7 +1416,7 @@ Upon claiming any non-event badge, it will be announced in the server publicly, 
 </td>
 <td>
 <ul><li>+4% <a href="system-page.html#Bee_Gather_Pollen">Gifted Bee Pollen</a></li>
-<li><span typeof="mw:Error mw:File"></span>25 <a href="ticket.html"><span class="color-template color-template-ticket color-template-background-clip">Tickets</span></a></li></ul>
+<li><img alt="Ticket" height="25" src="img/Ticket.png" width="25"/>25 <a href="ticket.html"><span class="color-template color-template-ticket color-template-background-clip">Tickets</span></a></li></ul>
 </td></tr>
 <tr>
 <td><figure class="mw-halign-center" typeof="mw:Error mw:File"><figcaption></figcaption></figure> Grandmaster
@@ -1425,7 +1425,7 @@ Upon claiming any non-event badge, it will be announced in the server publicly, 
 </td>
 <td>
 <ul><li>+5% <a href="system-page.html#Bee_Gather_Pollen">Gifted Bee Pollen</a></li>
-<li><span typeof="mw:Error mw:File"></span>40 <a href="ticket.html"><span class="color-template color-template-ticket color-template-background-clip">Tickets</span></a></li></ul>
+<li><img alt="Ticket" height="25" src="img/Ticket.png" width="25"/>40 <a href="ticket.html"><span class="color-template color-template-ticket color-template-background-clip">Tickets</span></a></li></ul>
 </td></tr></tbody></table>
 
 ## Event Badges

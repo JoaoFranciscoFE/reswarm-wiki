@@ -127,9 +127,9 @@ As with the [Noob Shop](noob-shop.md), the game does not explicitly name the sho
 <td><figure class="mw-halign-center" typeof="mw:File"><a href="propeller-hat.html"><img alt="Propeller Hat" data-image-key="Propeller_Hat.png" data-image-name="Propeller Hat.png" data-relevant="1" height="80" src="img/Propeller_Hat.png" width="80"/></a><figcaption></figcaption></figure><div style="text-align: center;"><a href="propeller-hat.html">Propeller Hat</a></div>
 </td>
 <td><span typeof="mw:Error mw:File"></span>2,500,000 <a href="honey.html"><span class="color-template color-template-honey">Honey</span></a><br/>
-<p><span typeof="mw:Error mw:File"></span>25 <a href="gumdrops.html"><span class="color-template color-template-gumdrops color-template-background-clip">Gumdrops</span></a><br/>
-<span typeof="mw:Error mw:File"></span>100 <a href="pineapple.html"><span class="color-template color-template-pineapple color-template-background-clip">Pineapples</span></a><br/>
-<span typeof="mw:Error mw:File"></span>5 <a href="moon-charm.html"><span class="color-template color-template-moon-charm color-template-background-clip">Moon Charms</span></a>
+<p><img alt="Gumdrops" height="25" src="img/Gumdrops.png" width="25"/>25 <a href="gumdrops.html"><span class="color-template color-template-gumdrops color-template-background-clip">Gumdrops</span></a><br/>
+<img alt="Pineapple" height="25" src="img/Pineapple.png" width="25"/>100 <a href="pineapple.html"><span class="color-template color-template-pineapple color-template-background-clip">Pineapples</span></a><br/>
+<img alt="Moon Charm" height="25" src="img/Moon_Charm.png" width="25"/>5 <a href="moon-charm.html"><span class="color-template color-template-moon-charm color-template-background-clip">Moon Charms</span></a>
 </p>
 </td>
 <td>A playful hat that keeps the sun out of your eyes.
@@ -142,7 +142,7 @@ As with the [Noob Shop](noob-shop.md), the game does not explicitly name the sho
 <td><figure class="mw-halign-center" typeof="mw:File"><a href="brave-guard.html"><img alt="Brave Guard" data-image-key="Brave_Guard.png" data-image-name="Brave Guard.png" data-relevant="1" height="80" src="img/Brave_Guard.png" width="80"/></a><figcaption></figcaption></figure><div style="text-align: center;"><a href="brave-guard.html">Brave Guard</a></div>
 </td>
 <td><span typeof="mw:Error mw:File"></span>300,000 <a href="honey.html"><span class="color-template color-template-honey">Honey</span></a><br/>
-<p><span typeof="mw:Error mw:File"></span>3 <a href="stinger.html"><span class="color-template color-template-stinger color-template-background-clip">Stingers</span></a>
+<p><img alt="Stinger" height="25" src="img/Stinger.png" width="25"/>3 <a href="stinger.html"><span class="color-template color-template-stinger color-template-background-clip">Stingers</span></a>
 </p>
 </td>
 <td>A right shoulder pad crafted by a <a href="brave-bee.html">Brave Bee</a>.
@@ -155,7 +155,7 @@ As with the [Noob Shop](noob-shop.md), the game does not explicitly name the sho
 <td><figure class="mw-halign-center" typeof="mw:File"><a href="hasty-guard.html"><img alt="Hasty Guard" data-image-key="Hasty_Guard.png" data-image-name="Hasty Guard.png" data-relevant="1" height="80" src="img/Hasty_Guard.png" width="80"/></a><figcaption></figcaption></figure><div style="text-align: center;"><a href="hasty-guard.html">Hasty Guard</a></div>
 </td>
 <td><span typeof="mw:Error mw:File"></span>300,000 <a href="honey.html"><span class="color-template color-template-honey">Honey</span></a><br/>
-<p><span typeof="mw:Error mw:File"></span>5 <a href="moon-charm.html"><span class="color-template color-template-moon-charm color-template-background-clip">Moon Charms</span></a>
+<p><img alt="Moon Charm" height="25" src="img/Moon_Charm.png" width="25"/>5 <a href="moon-charm.html"><span class="color-template color-template-moon-charm color-template-background-clip">Moon Charms</span></a>
 </p>
 </td>
 <td>A right shoulder pad crafted by a <a href="hasty-bee.html">Hasty Bee</a>.
@@ -168,7 +168,7 @@ As with the [Noob Shop](noob-shop.md), the game does not explicitly name the sho
 <td><figure class="mw-halign-center" typeof="mw:File"><a href="bomber-guard.html"><img alt="Bomber Guard" data-image-key="Bomber_Guard.png" data-image-name="Bomber Guard.png" data-relevant="1" height="80" src="img/Bomber_Guard.png" width="80"/></a><figcaption></figcaption></figure><div style="text-align: center;"><a href="bomber-guard.html">Bomber Guard</a></div>
 </td>
 <td><span typeof="mw:Error mw:File"></span>300,000 <a href="honey.html"><span class="color-template color-template-honey">Honey</span></a><br/>
-<p><span typeof="mw:Error mw:File"></span>25 <a href="sunflower-seed.html"><span class="color-template color-template-sunflower-seed color-template-background-clip">Sunflower Seeds</span></a>
+<p><img alt="Sunflower Seed" height="25" src="img/Sunflower_Seed.png" width="25"/>25 <a href="sunflower-seed.html"><span class="color-template color-template-sunflower-seed color-template-background-clip">Sunflower Seeds</span></a>
 </p>
 </td>
 <td>A left shoulder pad crafted by a <a href="bomber-bee.html">Bomber Bee</a>.
@@ -181,7 +181,7 @@ As with the [Noob Shop](noob-shop.md), the game does not explicitly name the sho
 <td><figure class="mw-halign-center" typeof="mw:File"><a href="looker-guard.html"><img alt="Looker Guard" data-image-key="Looker_Guard.png" data-image-name="Looker Guard.png" data-relevant="1" height="80" src="img/Looker_Guard.png" width="80"/></a><figcaption></figcaption></figure><div style="text-align: center;"><a href="looker-guard.html">Looker Guard</a></div>
 </td>
 <td><span typeof="mw:Error mw:File"></span>300,000 <a href="honey.html"><span class="color-template color-template-honey">Honey</span></a><br/>
-<p><span typeof="mw:Error mw:File"></span>25 <a href="sunflower-seed.html"><span class="color-template color-template-sunflower-seed color-template-background-clip">Sunflower Seeds</span></a>
+<p><img alt="Sunflower Seed" height="25" src="img/Sunflower_Seed.png" width="25"/>25 <a href="sunflower-seed.html"><span class="color-template color-template-sunflower-seed color-template-background-clip">Sunflower Seeds</span></a>
 </p>
 </td>
 <td>A left shoulder pad crafted by a <a href="looker-bee.html">Looker Bee</a>.
@@ -194,9 +194,9 @@ As with the [Noob Shop](noob-shop.md), the game does not explicitly name the sho
 <td><figure class="mw-halign-center" typeof="mw:File"><a href="belt-bag.html"><img alt="Belt Bag" data-image-key="Belt_Bag.png" data-image-name="Belt Bag.png" data-relevant="1" height="80" src="img/Belt_Bag.png" width="80"/></a><figcaption></figcaption></figure><div style="text-align: center;"><a href="belt-bag.html">Belt Bag</a></div>
 </td>
 <td><span typeof="mw:Error mw:File"></span>440,000 <a href="honey.html"><span class="color-template color-template-honey">Honey</span></a><br/>
-<p><span typeof="mw:Error mw:File"></span>50 <a href="pineapple.html"><span class="color-template color-template-pineapple color-template-background-clip">Pineapples</span></a><br/>
-<span typeof="mw:Error mw:File"></span>50 <a href="sunflower-seed.html"><span class="color-template color-template-sunflower-seed color-template-background-clip">Sunflower Seeds</span></a><br/>
-<span typeof="mw:Error mw:File"></span>3 <a href="stinger.html"><span class="color-template color-template-stinger color-template-background-clip">Stingers</span></a>
+<p><img alt="Pineapple" height="25" src="img/Pineapple.png" width="25"/>50 <a href="pineapple.html"><span class="color-template color-template-pineapple color-template-background-clip">Pineapples</span></a><br/>
+<img alt="Sunflower Seed" height="25" src="img/Sunflower_Seed.png" width="25"/>50 <a href="sunflower-seed.html"><span class="color-template color-template-sunflower-seed color-template-background-clip">Sunflower Seeds</span></a><br/>
+<img alt="Stinger" height="25" src="img/Stinger.png" width="25"/>3 <a href="stinger.html"><span class="color-template color-template-stinger color-template-background-clip">Stingers</span></a>
 </p>
 </td>
 <td>A convenient pouch designed for easy access.
@@ -209,8 +209,8 @@ As with the [Noob Shop](noob-shop.md), the game does not explicitly name the sho
 <td><figure class="mw-halign-center" typeof="mw:File"><a href="hiking-boots.html"><img alt="Hiking Boots" data-image-key="Hiking_Boots.png" data-image-name="Hiking Boots.png" data-relevant="1" height="80" src="img/Hiking_Boots.png" width="80"/></a><figcaption></figcaption></figure><div style="text-align: center;"><a href="hiking-boots.html">Hiking Boots</a></div>
 </td>
 <td><span typeof="mw:Error mw:File"></span>2,200,000 <a href="honey.html"><span class="color-template color-template-honey">Honey</span></a><br/>
-<p><span typeof="mw:Error mw:File"></span>50 <a href="blueberry.html"><span class="color-template color-template-blueberry color-template-background-clip">Blueberries</span></a><br/>
-<span typeof="mw:Error mw:File"></span>50 <a href="strawberry.html"><span class="color-template color-template-strawberry color-template-background-clip">Strawberries</span></a>
+<p><img alt="Blueberry" height="25" src="img/Blueberry.png" width="25"/>50 <a href="blueberry.html"><span class="color-template color-template-blueberry color-template-background-clip">Blueberries</span></a><br/>
+<img alt="Strawberry" height="25" src="img/Strawberry.png" width="25"/>50 <a href="strawberry.html"><span class="color-template color-template-strawberry color-template-background-clip">Strawberries</span></a>
 </p>
 </td>
 <td>A durable pair of boots helpful for traversing the mountain.
@@ -241,7 +241,7 @@ As with the [Noob Shop](noob-shop.md), the game does not explicitly name the sho
 <td><figure class="mw-halign-center" typeof="mw:Error mw:File"><figcaption></figcaption></figure><div style="text-align: center;"><a href="paper-planter.html">Paper Planter</a></div>
 </td>
 <td><span typeof="mw:Error mw:File"></span>25,000 <a href="honey.html"><span class="color-template color-template-honey">Honey</span></a><br/>
-<p><span typeof="mw:Error mw:File"></span>1 <a href="sunflower-seed.html"><span class="color-template color-template-sunflower-seed color-template-background-clip">Sunflower Seed</span></a>
+<p><img alt="Sunflower Seed" height="25" src="img/Sunflower_Seed.png" width="25"/>1 <a href="sunflower-seed.html"><span class="color-template color-template-sunflower-seed color-template-background-clip">Sunflower Seed</span></a>
 </p>
 </td>
 <td>When placed in a flower field, this grows in about 1 hour of playtime. Harvest it to gain around 50,000 Pollen, random items, and Nectar boosts!

@@ -1583,107 +1583,107 @@ All known quest milestones are shown in the tables below.
 <tr>
 <td>10
 </td>
-<td><span typeof="mw:Error mw:File"></span><a href="pink-balloon.html"><span class="color-template color-template-pink-balloon color-template-background-clip">Pink Balloon</span></a>
+<td><img alt="Pink Balloon" height="35" src="img/Pink_Balloon.png" width="35"/><a href="pink-balloon.html"><span class="color-template color-template-pink-balloon color-template-background-clip">Pink Balloon</span></a>
 </td></tr>
 <tr>
 <td>25
 </td>
-<td><span typeof="mw:Error mw:File"></span><a href="egg.html#Silver_Egg"><span class="color-template color-template-silver-egg color-template-background-clip">Silver Egg</span></a>
+<td><img alt="Silver Egg" height="35" src="img/Silver_Egg.png" width="35"/><a href="egg.html#Silver_Egg"><span class="color-template color-template-silver-egg color-template-background-clip">Silver Egg</span></a>
 </td></tr>
 <tr>
 <td>50
 </td>
-<td><span typeof="mw:Error mw:File"></span><a href="egg.html#Gold_Egg"><span class="color-template color-template-gold-egg color-template-background-clip">Gold Egg</span></a>
+<td><img alt="Gold Egg" height="35" src="img/Gold_Egg.png" width="35"/><a href="egg.html#Gold_Egg"><span class="color-template color-template-gold-egg color-template-background-clip">Gold Egg</span></a>
 </td></tr>
 <tr>
 <td>75
 </td>
-<td><span typeof="mw:Error mw:File"></span><a href="egg.html#Diamond_Egg"><span class="color-template color-template-diamond-egg color-template-background-clip">Diamond Egg</span></a>
+<td><img alt="Diamond Egg" height="35" src="img/Diamond_Egg.png" width="35"/><a href="egg.html#Diamond_Egg"><span class="color-template color-template-diamond-egg color-template-background-clip">Diamond Egg</span></a>
 </td></tr>
 <tr>
 <td>100
 </td>
-<td><span typeof="mw:Error mw:File"></span><a href="egg.html#Gifted_Silver_Egg"><span class="color-template color-template-gifted-silver-egg color-template-background-clip">Gifted Silver Egg</span></a>
+<td><img alt="Gifted Silver Egg" height="35" src="img/Gifted_Silver_Egg.png" width="35"/><a href="egg.html#Gifted_Silver_Egg"><span class="color-template color-template-gifted-silver-egg color-template-background-clip">Gifted Silver Egg</span></a>
 </td></tr>
 <tr>
 <td>110
 </td>
-<td><span typeof="mw:Error mw:File"></span><a href="red-balloon.html"><span class="color-template color-template-red-balloon color-template-background-clip">Red Balloon</span></a>
+<td><img alt="Red Balloon" height="35" src="img/Red_Balloon.png" width="35"/><a href="red-balloon.html"><span class="color-template color-template-red-balloon color-template-background-clip">Red Balloon</span></a>
 </td></tr>
 <tr>
 <td>150
 </td>
-<td><span typeof="mw:Error mw:File"></span><a href="egg.html#Gifted_Gold_Egg"><span class="color-template color-template-gifted-gold-egg color-template-background-clip">Gifted Gold Egg</span></a>
+<td><img alt="Gifted Gold Egg" height="35" src="img/Gifted_Gold_Egg.png" width="35"/><a href="egg.html#Gifted_Gold_Egg"><span class="color-template color-template-gifted-gold-egg color-template-background-clip">Gifted Gold Egg</span></a>
 </td></tr>
 <tr>
 <td>200
 </td>
-<td><span typeof="mw:Error mw:File"></span><a href="egg.html#Gifted_Diamond_Egg"><span class="color-template color-template-gifted-diamond-egg color-template-background-clip">Gifted Diamond Egg</span></a>
+<td><img alt="Gifted Diamond Egg" height="35" src="img/Gifted_Diamond_Egg.png" width="35"/><a href="egg.html#Gifted_Diamond_Egg"><span class="color-template color-template-gifted-diamond-egg color-template-background-clip">Gifted Diamond Egg</span></a>
 </td></tr>
 <tr>
 <td>210
 </td>
-<td><span typeof="mw:Error mw:File"></span><a href="white-balloon.html"><span class="color-template color-template-white-balloon color-template-background-clip">White Balloon</span></a>
+<td><img alt="White Balloon" height="35" src="img/White_Balloon.png" width="35"/><a href="white-balloon.html"><span class="color-template color-template-white-balloon color-template-background-clip">White Balloon</span></a>
 </td></tr>
 <tr>
 <td>300
 </td>
-<td><span typeof="mw:Error mw:File"></span><a href="egg.html#Mythic_Egg"><span class="color-template color-template-mythic-egg color-template-background-clip">Mythic Egg</span></a>
+<td><img alt="Mythic Egg" height="35" src="img/Mythic_Egg.png" width="35"/><a href="egg.html#Mythic_Egg"><span class="color-template color-template-mythic-egg color-template-background-clip">Mythic Egg</span></a>
 </td></tr>
 <tr>
 <td>310
 </td>
-<td><span typeof="mw:Error mw:File"></span><a href="black-balloon.html"><span class="color-template color-template-black-balloon">Black Balloon</span></a>
+<td><img alt="Black Balloon" height="35" src="img/Black_Balloon.png" width="35"/><a href="black-balloon.html"><span class="color-template color-template-black-balloon">Black Balloon</span></a>
 </td></tr>
 <tr>
 <td>400
 </td>
-<td><span typeof="mw:Error mw:File"></span><a href="egg.html#Star_Egg"><span class="color-template color-template-star-egg color-template-background-clip">Star Egg</span></a>
+<td><img alt="Star Egg" height="35" src="img/Star_Egg.png" width="35"/><a href="egg.html#Star_Egg"><span class="color-template color-template-star-egg color-template-background-clip">Star Egg</span></a>
 </td></tr>
 <tr>
 <td>410
 </td>
-<td><span typeof="mw:Error mw:File"></span>3 <a href="pink-balloon.html"><span class="color-template color-template-pink-balloon color-template-background-clip">Pink Balloons</span></a>
+<td><img alt="Pink Balloon" height="25" src="img/Pink_Balloon.png" width="25"/>3 <a href="pink-balloon.html"><span class="color-template color-template-pink-balloon color-template-background-clip">Pink Balloons</span></a>
 </td></tr>
 <tr>
 <td>500
 </td>
-<td><span typeof="mw:Error mw:File"></span><a href="egg.html#Gifted_Mythic_Egg"><span class="color-template color-template-gifted-mythic-egg color-template-background-clip">Gifted Mythic Egg</span></a>
+<td><img alt="Gifted Mythic Egg" height="35" src="img/Gifted_Mythic_Egg.png" width="35"/><a href="egg.html#Gifted_Mythic_Egg"><span class="color-template color-template-gifted-mythic-egg color-template-background-clip">Gifted Mythic Egg</span></a>
 </td></tr>
 <tr>
 <td>510
 </td>
-<td><span typeof="mw:Error mw:File"></span>3 <a href="white-balloon.html"><span class="color-template color-template-white-balloon color-template-background-clip">White Balloons</span></a>
+<td><img alt="White Balloon" height="25" src="img/White_Balloon.png" width="25"/>3 <a href="white-balloon.html"><span class="color-template color-template-white-balloon color-template-background-clip">White Balloons</span></a>
 </td></tr>
 <tr>
 <td>600
 </td>
-<td><span typeof="mw:Error mw:File"></span>3 <a href="egg.html#Gifted_Silver_Egg"><span class="color-template color-template-gifted-silver-egg color-template-background-clip">Gifted Silver Eggs</span></a>
+<td><img alt="Gifted Silver Egg" height="25" src="img/Gifted_Silver_Egg.png" width="25"/>3 <a href="egg.html#Gifted_Silver_Egg"><span class="color-template color-template-gifted-silver-egg color-template-background-clip">Gifted Silver Eggs</span></a>
 </td></tr>
 <tr>
 <td>610
 </td>
-<td><span typeof="mw:Error mw:File"></span>3 <a href="white-balloon.html"><span class="color-template color-template-white-balloon color-template-background-clip">White Balloons</span></a>
+<td><img alt="White Balloon" height="25" src="img/White_Balloon.png" width="25"/>3 <a href="white-balloon.html"><span class="color-template color-template-white-balloon color-template-background-clip">White Balloons</span></a>
 </td></tr>
 <tr>
 <td>700
 </td>
-<td><span typeof="mw:Error mw:File"></span>3 <a href="egg.html#Gifted_Gold_Egg"><span class="color-template color-template-gifted-gold-egg color-template-background-clip">Gifted Gold Eggs</span></a>
+<td><img alt="Gifted Gold Egg" height="25" src="img/Gifted_Gold_Egg.png" width="25"/>3 <a href="egg.html#Gifted_Gold_Egg"><span class="color-template color-template-gifted-gold-egg color-template-background-clip">Gifted Gold Eggs</span></a>
 </td></tr>
 <tr>
 <td>800
 </td>
-<td><span typeof="mw:Error mw:File"></span>3 <a href="egg.html#Gifted_Diamond_Egg"><span class="color-template color-template-gifted-diamond-egg color-template-background-clip">Gifted Diamond Eggs</span></a>
+<td><img alt="Gifted Diamond Egg" height="25" src="img/Gifted_Diamond_Egg.png" width="25"/>3 <a href="egg.html#Gifted_Diamond_Egg"><span class="color-template color-template-gifted-diamond-egg color-template-background-clip">Gifted Diamond Eggs</span></a>
 </td></tr>
 <tr>
 <td>900
 </td>
-<td><span typeof="mw:Error mw:File"></span>3 <a href="egg.html#Mythic_Egg"><span class="color-template color-template-mythic-egg color-template-background-clip">Mythic Eggs</span></a>
+<td><img alt="Mythic Egg" height="25" src="img/Mythic_Egg.png" width="25"/>3 <a href="egg.html#Mythic_Egg"><span class="color-template color-template-mythic-egg color-template-background-clip">Mythic Eggs</span></a>
 </td></tr>
 <tr>
 <td>1000
 </td>
-<td><span typeof="mw:Error mw:File"></span>3 <a href="egg.html#Gifted_Mythic_Egg"><span class="color-template color-template-gifted-mythic-egg color-template-background-clip">Gifted Mythic Eggs</span></a>
+<td><img alt="Gifted Mythic Egg" height="25" src="img/Gifted_Mythic_Egg.png" width="25"/>3 <a href="egg.html#Gifted_Mythic_Egg"><span class="color-template color-template-gifted-mythic-egg color-template-background-clip">Gifted Mythic Eggs</span></a>
 </td></tr></tbody></table>
 
 ### Sticker Planter Milestones
@@ -1697,107 +1697,107 @@ All known quest milestones are shown in the tables below.
 <tr>
 <td>11
 </td>
-<td><span typeof="mw:Error mw:File"></span>1 <a href="sticker-planter.html"><span class="color-template color-template-sticker-planter color-template-background-clip">Sticker Planter</span></a>
+<td><img alt="Sticker Planter" height="25" src="img/Sticker_Planter.png" width="25"/>1 <a href="sticker-planter.html"><span class="color-template color-template-sticker-planter color-template-background-clip">Sticker Planter</span></a>
 </td></tr>
 <tr>
 <td>33
 </td>
-<td><span typeof="mw:Error mw:File"></span>1 <a href="sticker-planter.html"><span class="color-template color-template-sticker-planter color-template-background-clip">Sticker Planter</span></a>
+<td><img alt="Sticker Planter" height="25" src="img/Sticker_Planter.png" width="25"/>1 <a href="sticker-planter.html"><span class="color-template color-template-sticker-planter color-template-background-clip">Sticker Planter</span></a>
 </td></tr>
 <tr>
 <td>55
 </td>
-<td><span typeof="mw:Error mw:File"></span>1 <a href="sticker-planter.html"><span class="color-template color-template-sticker-planter color-template-background-clip">Sticker Planter</span></a>
+<td><img alt="Sticker Planter" height="25" src="img/Sticker_Planter.png" width="25"/>1 <a href="sticker-planter.html"><span class="color-template color-template-sticker-planter color-template-background-clip">Sticker Planter</span></a>
 </td></tr>
 <tr>
 <td>77
 </td>
-<td><span typeof="mw:Error mw:File"></span>1 <a href="sticker-planter.html"><span class="color-template color-template-sticker-planter color-template-background-clip">Sticker Planter</span></a>
+<td><img alt="Sticker Planter" height="25" src="img/Sticker_Planter.png" width="25"/>1 <a href="sticker-planter.html"><span class="color-template color-template-sticker-planter color-template-background-clip">Sticker Planter</span></a>
 </td></tr>
 <tr>
 <td>99
 </td>
-<td><span typeof="mw:Error mw:File"></span>1 <a href="sticker-planter.html"><span class="color-template color-template-sticker-planter color-template-background-clip">Sticker Planter</span></a>
+<td><img alt="Sticker Planter" height="25" src="img/Sticker_Planter.png" width="25"/>1 <a href="sticker-planter.html"><span class="color-template color-template-sticker-planter color-template-background-clip">Sticker Planter</span></a>
 </td></tr>
 <tr>
 <td>111
 </td>
-<td><span typeof="mw:Error mw:File"></span>1 <a href="sticker-planter.html"><span class="color-template color-template-sticker-planter color-template-background-clip">Sticker Planter</span></a>
+<td><img alt="Sticker Planter" height="25" src="img/Sticker_Planter.png" width="25"/>1 <a href="sticker-planter.html"><span class="color-template color-template-sticker-planter color-template-background-clip">Sticker Planter</span></a>
 </td></tr>
 <tr>
 <td>133
 </td>
-<td><span typeof="mw:Error mw:File"></span>1 <a href="sticker-planter.html"><span class="color-template color-template-sticker-planter color-template-background-clip">Sticker Planter</span></a>
+<td><img alt="Sticker Planter" height="25" src="img/Sticker_Planter.png" width="25"/>1 <a href="sticker-planter.html"><span class="color-template color-template-sticker-planter color-template-background-clip">Sticker Planter</span></a>
 </td></tr>
 <tr>
 <td>144
 </td>
-<td><span typeof="mw:Error mw:File"></span>1 <a href="sticker-planter.html"><span class="color-template color-template-sticker-planter color-template-background-clip">Sticker Planter</span></a>
+<td><img alt="Sticker Planter" height="25" src="img/Sticker_Planter.png" width="25"/>1 <a href="sticker-planter.html"><span class="color-template color-template-sticker-planter color-template-background-clip">Sticker Planter</span></a>
 </td></tr>
 <tr>
 <td>155
 </td>
-<td><span typeof="mw:Error mw:File"></span>1 <a href="sticker-planter.html"><span class="color-template color-template-sticker-planter color-template-background-clip">Sticker Planter</span></a>
+<td><img alt="Sticker Planter" height="25" src="img/Sticker_Planter.png" width="25"/>1 <a href="sticker-planter.html"><span class="color-template color-template-sticker-planter color-template-background-clip">Sticker Planter</span></a>
 </td></tr>
 <tr>
 <td>166
 </td>
-<td><span typeof="mw:Error mw:File"></span>1 <a href="sticker-planter.html"><span class="color-template color-template-sticker-planter color-template-background-clip">Sticker Planter</span></a>
+<td><img alt="Sticker Planter" height="25" src="img/Sticker_Planter.png" width="25"/>1 <a href="sticker-planter.html"><span class="color-template color-template-sticker-planter color-template-background-clip">Sticker Planter</span></a>
 </td></tr>
 <tr>
 <td>199
 </td>
-<td><span typeof="mw:Error mw:File"></span>1 <a href="sticker-planter.html"><span class="color-template color-template-sticker-planter color-template-background-clip">Sticker Planter</span></a>
+<td><img alt="Sticker Planter" height="25" src="img/Sticker_Planter.png" width="25"/>1 <a href="sticker-planter.html"><span class="color-template color-template-sticker-planter color-template-background-clip">Sticker Planter</span></a>
 </td></tr>
 <tr>
 <td>222
 </td>
-<td><span typeof="mw:Error mw:File"></span>2 <a href="sticker-planter.html"><span class="color-template color-template-sticker-planter color-template-background-clip">Sticker Planters</span></a>
+<td><img alt="Sticker Planter" height="25" src="img/Sticker_Planter.png" width="25"/>2 <a href="sticker-planter.html"><span class="color-template color-template-sticker-planter color-template-background-clip">Sticker Planters</span></a>
 </td></tr>
 <tr>
 <td>244
 </td>
-<td><span typeof="mw:Error mw:File"></span>1 <a href="sticker-planter.html"><span class="color-template color-template-sticker-planter color-template-background-clip">Sticker Planter</span></a>
+<td><img alt="Sticker Planter" height="25" src="img/Sticker_Planter.png" width="25"/>1 <a href="sticker-planter.html"><span class="color-template color-template-sticker-planter color-template-background-clip">Sticker Planter</span></a>
 </td></tr>
 <tr>
 <td>255
 </td>
-<td><span typeof="mw:Error mw:File"></span>1 <a href="sticker-planter.html"><span class="color-template color-template-sticker-planter color-template-background-clip">Sticker Planter</span></a>
+<td><img alt="Sticker Planter" height="25" src="img/Sticker_Planter.png" width="25"/>1 <a href="sticker-planter.html"><span class="color-template color-template-sticker-planter color-template-background-clip">Sticker Planter</span></a>
 </td></tr>
 <tr>
 <td>266
 </td>
-<td><span typeof="mw:Error mw:File"></span>1 <a href="sticker-planter.html"><span class="color-template color-template-sticker-planter color-template-background-clip">Sticker Planter</span></a>
+<td><img alt="Sticker Planter" height="25" src="img/Sticker_Planter.png" width="25"/>1 <a href="sticker-planter.html"><span class="color-template color-template-sticker-planter color-template-background-clip">Sticker Planter</span></a>
 </td></tr>
 <tr>
 <td>277
 </td>
-<td><span typeof="mw:Error mw:File"></span>1 <a href="sticker-planter.html"><span class="color-template color-template-sticker-planter color-template-background-clip">Sticker Planter</span></a>
+<td><img alt="Sticker Planter" height="25" src="img/Sticker_Planter.png" width="25"/>1 <a href="sticker-planter.html"><span class="color-template color-template-sticker-planter color-template-background-clip">Sticker Planter</span></a>
 </td></tr>
 <tr>
 <td>333
 </td>
-<td><span typeof="mw:Error mw:File"></span>3 <a href="sticker-planter.html"><span class="color-template color-template-sticker-planter color-template-background-clip">Sticker Planters</span></a>
+<td><img alt="Sticker Planter" height="25" src="img/Sticker_Planter.png" width="25"/>3 <a href="sticker-planter.html"><span class="color-template color-template-sticker-planter color-template-background-clip">Sticker Planters</span></a>
 </td></tr>
 <tr>
 <td>411
 </td>
-<td><span typeof="mw:Error mw:File"></span>1 <a href="sticker-planter.html"><span class="color-template color-template-sticker-planter color-template-background-clip">Sticker Planter</span></a>
+<td><img alt="Sticker Planter" height="25" src="img/Sticker_Planter.png" width="25"/>1 <a href="sticker-planter.html"><span class="color-template color-template-sticker-planter color-template-background-clip">Sticker Planter</span></a>
 </td></tr>
 <tr>
 <td>422
 </td>
-<td><span typeof="mw:Error mw:File"></span>2 <a href="sticker-planter.html"><span class="color-template color-template-sticker-planter color-template-background-clip">Sticker Planters</span></a>
+<td><img alt="Sticker Planter" height="25" src="img/Sticker_Planter.png" width="25"/>2 <a href="sticker-planter.html"><span class="color-template color-template-sticker-planter color-template-background-clip">Sticker Planters</span></a>
 </td></tr>
 <tr>
 <td>444
 </td>
-<td><span typeof="mw:Error mw:File"></span>4 <a href="sticker-planter.html"><span class="color-template color-template-sticker-planter color-template-background-clip">Sticker Planters</span></a>
+<td><img alt="Sticker Planter" height="25" src="img/Sticker_Planter.png" width="25"/>4 <a href="sticker-planter.html"><span class="color-template color-template-sticker-planter color-template-background-clip">Sticker Planters</span></a>
 </td></tr>
 <tr>
 <td>555
 </td>
-<td><span typeof="mw:Error mw:File"></span>5 <a href="sticker-planter.html"><span class="color-template color-template-sticker-planter color-template-background-clip">Sticker Planters</span></a>
+<td><img alt="Sticker Planter" height="25" src="img/Sticker_Planter.png" width="25"/>5 <a href="sticker-planter.html"><span class="color-template color-template-sticker-planter color-template-background-clip">Sticker Planters</span></a>
 </td></tr></tbody></table>
 
 ### Sticker Milestones
@@ -1813,7 +1813,7 @@ All known quest milestones are shown in the tables below.
 <tr>
 <td>20
 </td>
-<td><span typeof="mw:Error mw:File"></span><a href="sticker.html#Sticker_Index"><span class="color-template color-template-doodle-s-sticker color-template-background-clip">Doodle S Sticker</span></a> OR <span typeof="mw:Error mw:File"></span><a href="sticker.html#Sticker_Index"><span class="color-template color-template-tough-potato-sticker color-template-background-clip">Tough Potato Sticker</span></a>
+<td><img alt="Doodle S" height="35" src="img/Doodle_S.png" width="35"/><a href="sticker.html#Sticker_Index"><span class="color-template color-template-doodle-s-sticker color-template-background-clip">Doodle S Sticker</span></a> OR <img alt="Tough Potato" height="35" src="img/Tough_Potato.png" width="35"/><a href="sticker.html#Sticker_Index"><span class="color-template color-template-tough-potato-sticker color-template-background-clip">Tough Potato Sticker</span></a>
 </td></tr>
 <tr>
 <td>40
@@ -1853,17 +1853,17 @@ All known quest milestones are shown in the tables below.
 <tr>
 <td>250
 </td>
-<td><span typeof="mw:Error mw:File"></span>1 <a href="sticker.html#Sticker_Index"><span class="color-template color-template-ticket-voucher color-template-background-clip">Ticket Voucher</span></a>
+<td><img alt="Ticket Voucher" height="25" src="img/Ticket_Voucher.png" width="25"/>1 <a href="sticker.html#Sticker_Index"><span class="color-template color-template-ticket-voucher color-template-background-clip">Ticket Voucher</span></a>
 </td></tr>
 <tr>
 <td>350
 </td>
-<td><span typeof="mw:Error mw:File"></span><a href="sticker.html#Sticker_Index"><span class="color-template color-template-basic-green-hive-skin color-template-background-clip">Basic Green Hive Skin</span></a> OR <span typeof="mw:Error mw:File"></span><a href="sticker.html#Sticker_Index"><span class="color-template color-template-basic-pink-hive-skin color-template-background-clip">Basic Pink Hive Skin</span></a>
+<td><img alt="Basic Green Hive Skin" height="35" src="img/Basic_Green_Hive_Skin.png" width="35"/><a href="sticker.html#Sticker_Index"><span class="color-template color-template-basic-green-hive-skin color-template-background-clip">Basic Green Hive Skin</span></a> OR <img alt="Basic Pink Hive Skin" height="35" src="img/Basic_Pink_Hive_Skin.png" width="35"/><a href="sticker.html#Sticker_Index"><span class="color-template color-template-basic-pink-hive-skin color-template-background-clip">Basic Pink Hive Skin</span></a>
 </td></tr>
 <tr>
 <td>450
 </td>
-<td><span typeof="mw:Error mw:File"></span><a href="sticker.html#Sticker_Index"><span class="color-template color-template-basic-white-hive-skin color-template-background-clip">Basic White Hive Skin</span></a> OR <span typeof="mw:Error mw:File"></span><a href="sticker.html#Sticker_Index"><span class="color-template color-template-basic-black-hive-skin color-template-background-clip">Basic Black Hive Skin</span></a>
+<td><img alt="Basic White Hive Skin" height="35" src="img/Basic_White_Hive_Skin.png" width="35"/><a href="sticker.html#Sticker_Index"><span class="color-template color-template-basic-white-hive-skin color-template-background-clip">Basic White Hive Skin</span></a> OR <img alt="Basic Black Hive Skin" height="35" src="img/Basic_Black_Hive_Skin.png" width="35"/><a href="sticker.html#Sticker_Index"><span class="color-template color-template-basic-black-hive-skin color-template-background-clip">Basic Black Hive Skin</span></a>
 </td></tr></tbody></table>
 
 ## Gallery

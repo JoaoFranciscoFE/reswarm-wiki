@@ -182,7 +182,7 @@ Bees/Event|Event||
 </td>
 <td>x1.1 Blue Pollen
 </td>
-<td><li><span typeof="mw:Error mw:File"></span> <a href="ability-tokens.html#Boost">Blue Boost</a></li></td>
+<td><li><img alt="Blue Boost" height="35" src="img/Blue_Boost.png" width="35"/> <a href="ability-tokens.html#Boost">Blue Boost</a></li></td>
 <td>-
 </td>
 <td><li>Bamboo Field</li> <li>Pine Tree Field</li></td>
@@ -254,7 +254,7 @@ Bees/Event|Event||
 </td>
 <td>x1.1 Red Pollen
 </td>
-<td><li><span typeof="mw:Error mw:File"></span> <a href="ability-tokens.html#Boost">Red Boost</a></li></td>
+<td><li><img alt="Red Boost" height="35" src="img/Red_Boost.png" width="35"/> <a href="ability-tokens.html#Boost">Red Boost</a></li></td>
 <td>-
 </td>
 <td><li>Rose Field</li> <li>Mushroom Field</li></td>
@@ -302,7 +302,7 @@ Bees/Event|Event||
 </td>
 <td>+15% Ability Token Lifespan
 </td>
-<td><li><span typeof="mw:Error mw:File"></span> <a href="ability-tokens.html#Mark">Pollen Mark</a></li></td>
+<td><li><img alt="Pollen Mark" height="35" src="img/Pollen_Mark.png" width="35"/> <a href="ability-tokens.html#Mark">Pollen Mark</a></li></td>
 <td>-
 </td>
 <td><li>Dandelion Field</li> <li>Pineapple patch</li></td>
@@ -351,7 +351,7 @@ Bees/Event|Event||
 </td>
 <td>+20% Blue Field Capacity
 </td>
-<td><li><span typeof="mw:Error mw:File"></span> <a href="ability-tokens.html#Boost">Blue Boost</a></li>
+<td><li><img alt="Blue Boost" height="35" src="img/Blue_Boost.png" width="35"/> <a href="ability-tokens.html#Boost">Blue Boost</a></li>
 </td>
 <td>-
 </td>
@@ -476,7 +476,7 @@ Bees/Event|Event||
 </td>
 <td>x1.25 Blue Bomb Pollen
 </td>
-<td><li><span typeof="mw:Error mw:File"></span> <a href="ability-tokens.html#Bomb">Blue Bomb+</a></li> <li><span typeof="mw:Error mw:File"></span> <a href="ability-tokens.html#Bomb">Blue Boost</a></li>
+<td><li><span typeof="mw:Error mw:File"></span> <a href="ability-tokens.html#Bomb">Blue Bomb+</a></li> <li><img alt="Blue Boost" height="35" src="img/Blue_Boost.png" width="35"/> <a href="ability-tokens.html#Bomb">Blue Boost</a></li>
 </td>
 <td>-
 </td>
@@ -501,7 +501,7 @@ Bees/Event|Event||
 </td>
 <td>x1.5 Honey From Tokens
 </td>
-<td><li><span typeof="mw:Error mw:File"></span> Honey Gift</li> <li><span typeof="mw:Error mw:File"></span> <a href="ability-tokens.html#Mark">Honey Mark</a></li>
+<td><li><span typeof="mw:Error mw:File"></span> Honey Gift</li> <li><img alt="Honey Mark" height="35" src="img/Honey_Mark.png" width="35"/> <a href="ability-tokens.html#Mark">Honey Mark</a></li>
 </td>
 <td>-
 </td>
@@ -551,7 +551,7 @@ Bees/Event|Event||
 </td>
 <td>+20% Red Field Capacity
 </td>
-<td><li><span typeof="mw:Error mw:File"></span> <a href="ability-tokens.html#Bomb">Red Boost</a></li>
+<td><li><img alt="Red Boost" height="35" src="img/Red_Boost.png" width="35"/> <a href="ability-tokens.html#Bomb">Red Boost</a></li>
 </td>
 <td>-
 </td>
@@ -626,7 +626,7 @@ Bees/Event|Event||
 </td>
 <td>x1.25 Tool Pollen
 </td>
-<td><li><span typeof="mw:Error mw:File"></span> <a href="ability-tokens.html#Mark">Pollen Mark</a></li> <li><span typeof="mw:Error mw:File"></span> <a href="ability-tokens.html#Mark">Honey Mark+</a></li>
+<td><li><img alt="Pollen Mark" height="35" src="img/Pollen_Mark.png" width="35"/> <a href="ability-tokens.html#Mark">Pollen Mark</a></li> <li><span typeof="mw:Error mw:File"></span> <a href="ability-tokens.html#Mark">Honey Mark+</a></li>
 </td>
 <td>-
 </td>
@@ -676,7 +676,7 @@ Bees/Event|Event||
 </td>
 <td>x1.2 Convert Rate
 </td>
-<td><li><span typeof="mw:Error mw:File"></span> Honey Gift+</li> <li><span typeof="mw:Error mw:File"></span> <a href="ability-tokens.html#Boost">Blue Boost</a></li>
+<td><li><span typeof="mw:Error mw:File"></span> Honey Gift+</li> <li><img alt="Blue Boost" height="35" src="img/Blue_Boost.png" width="35"/> <a href="ability-tokens.html#Boost">Blue Boost</a></li>
 </td>
 <td><a href="passive-abilities.html#Shimmering_Honey">Shimmering Honey</a>
 </td>
@@ -776,7 +776,7 @@ Bees/Event|Event||
 </td>
 <td>+5% Bee Ability Pollen
 </td>
-<td><li><span typeof="mw:Error mw:File"></span> <a href="ability-tokens.html#Bomb">Red Bomb</a></li> <li><span typeof="mw:Error mw:File"></span> <a href="ability-tokens.html#Boost">Red Boost</a></li>
+<td><li><span typeof="mw:Error mw:File"></span> <a href="ability-tokens.html#Bomb">Red Bomb</a></li> <li><img alt="Red Boost" height="35" src="img/Red_Boost.png" width="35"/> <a href="ability-tokens.html#Boost">Red Boost</a></li>
 </td>
 <td><a href="passive-abilities.html#Nectar_Lover">Nectar Lover</a>
 </td>
@@ -826,7 +826,7 @@ Bees/Event|Event||
 </td>
 <td>x1.1 Bomb Power
 </td>
-<td><li><span typeof="mw:Error mw:File"></span> <a href="ability-tokens.html#Bomb">Buzz Bomb+</a></li> <li><span typeof="mw:Error mw:File"></span> <a href="ability-tokens.html#Fuzz_Bombs">Fuzz Bombs</a></li> <li><span typeof="mw:Error mw:File"></span> <a href="ability-tokens.html#Pollen_Haze">Pollen Haze</a> (Gifted)</li>
+<td><li><span typeof="mw:Error mw:File"></span> <a href="ability-tokens.html#Bomb">Buzz Bomb+</a></li> <li><img alt="Fuzz Bomb" height="35" src="img/Fuzz_Bomb.png" width="35"/> <a href="ability-tokens.html#Fuzz_Bombs">Fuzz Bombs</a></li> <li><span typeof="mw:Error mw:File"></span> <a href="ability-tokens.html#Pollen_Haze">Pollen Haze</a> (Gifted)</li>
 </td>
 <td><a href="passive-abilities.html#Fuzzy_Coat">Fuzzy Coat</a>
 </td>
@@ -901,7 +901,7 @@ Bees/Event|Event||
 </td>
 <td>+25% Bubble Duration
 </td>
-<td><li><span typeof="mw:Error mw:File"></span> <a href="ability-tokens.html#Bomb">Blue Boost</a></li> <li><span typeof="mw:Error mw:File"></span> Baby Love (Gifted)</li> <li><span typeof="mw:Error mw:File"></span> <a href="ability-tokens.html#Summon_Frog">Summon Frog</a></li>
+<td><li><img alt="Blue Boost" height="35" src="img/Blue_Boost.png" width="35"/> <a href="ability-tokens.html#Bomb">Blue Boost</a></li> <li><span typeof="mw:Error mw:File"></span> Baby Love (Gifted)</li> <li><span typeof="mw:Error mw:File"></span> <a href="ability-tokens.html#Summon_Frog">Summon Frog</a></li>
 </td>
 <td><a href="passive-abilities.html#Gathering_Bubbles">Gathering Bubbles+</a>
 </td>
@@ -1051,7 +1051,7 @@ Bees/Event|Event||
 </td>
 <td>x1.25 Convert Rate at Hive
 </td>
-<td><li><span typeof="mw:Error mw:File"></span> <a href="ability-tokens.html#Mark">Honey Mark</a></li> <li><span typeof="mw:Error mw:File"></span> <a href="ability-tokens.html#Bomb">Red Bomb+</a></li> <li><span typeof="mw:Error mw:File"></span> <a href="ability-tokens.html#Festive_Gift">Festive Gift</a></li> <li><span typeof="mw:Error mw:File"></span> <a href="ability-tokens.html#Festive_Mark">Festive Mark</a> (Festive Wreath)</li>
+<td><li><img alt="Honey Mark" height="35" src="img/Honey_Mark.png" width="35"/> <a href="ability-tokens.html#Mark">Honey Mark</a></li> <li><span typeof="mw:Error mw:File"></span> <a href="ability-tokens.html#Bomb">Red Bomb+</a></li> <li><span typeof="mw:Error mw:File"></span> <a href="ability-tokens.html#Festive_Gift">Festive Gift</a></li> <li><img alt="Festive Mark" height="35" src="img/Festive_Mark.png" width="35"/> <a href="ability-tokens.html#Festive_Mark">Festive Mark</a> (Festive Wreath)</li>
 </td>
 <td>-
 </td>
@@ -1201,7 +1201,7 @@ Bees/Event|Event||
 </td>
 <td>+15% Instant White Conversion, x2 Boosts From Clouds
 </td>
-<td><li><span typeof="mw:Error mw:File"></span> <a href="ability-tokens.html#Boost">White Boost</a></li> <li><span typeof="mw:Error mw:File"></span> <a href="ability-tokens.html#Rain_Cloud">Rain Cloud</a></li> <li><img alt="Tornado" height="35" src="img/Tornado.png" width="35"/> <a href="ability-tokens.html#Tornado">Tornado</a></li>
+<td><li><img alt="White Boost" height="35" src="img/White_Boost.png" width="35"/> <a href="ability-tokens.html#Boost">White Boost</a></li> <li><span typeof="mw:Error mw:File"></span> <a href="ability-tokens.html#Rain_Cloud">Rain Cloud</a></li> <li><img alt="Tornado" height="35" src="img/Tornado.png" width="35"/> <a href="ability-tokens.html#Tornado">Tornado</a></li>
 </td>
 <td>-
 </td>

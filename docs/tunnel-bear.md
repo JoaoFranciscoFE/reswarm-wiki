@@ -69,7 +69,7 @@ Note that unlike the other mobs, Tunnel Bear drops its tokens in a straight line
 <td>200 <a href="battle-points.html">Battle Points</a><br/>
 <p>1000 <a href="bond.html">Bond</a><br/>
 <span typeof="mw:Error mw:File"></span>5,000,000 <a href="honey.html"><span class="color-template color-template-honey">Honey</span></a><br/>
-<span typeof="mw:Error mw:File"></span><a href="egg.html#Gifted_Silver_Egg"><span class="color-template color-template-gifted-silver-egg color-template-background-clip">Gifted Silver Egg</span></a> or <span typeof="mw:Error mw:File"></span><a href="egg.html#Gifted_Gold_Egg"><span class="color-template color-template-gifted-gold-egg color-template-background-clip">Gifted Gold Egg</span></a> or <span typeof="mw:Error mw:File"></span><a href="egg.html#Gifted_Diamond_Egg"><span class="color-template color-template-gifted-diamond-egg color-template-background-clip">Gifted Diamond Egg</span></a> or <span typeof="mw:Error mw:File"></span><a href="egg.html#Star_Egg"><span class="color-template color-template-star-egg color-template-background-clip">Star Egg</span></a><br/>
+<img alt="Gifted Silver Egg" height="35" src="img/Gifted_Silver_Egg.png" width="35"/><a href="egg.html#Gifted_Silver_Egg"><span class="color-template color-template-gifted-silver-egg color-template-background-clip">Gifted Silver Egg</span></a> or <img alt="Gifted Gold Egg" height="35" src="img/Gifted_Gold_Egg.png" width="35"/><a href="egg.html#Gifted_Gold_Egg"><span class="color-template color-template-gifted-gold-egg color-template-background-clip">Gifted Gold Egg</span></a> or <img alt="Gifted Diamond Egg" height="35" src="img/Gifted_Diamond_Egg.png" width="35"/><a href="egg.html#Gifted_Diamond_Egg"><span class="color-template color-template-gifted-diamond-egg color-template-background-clip">Gifted Diamond Egg</span></a> or <img alt="Star Egg" height="35" src="img/Star_Egg.png" width="35"/><a href="egg.html#Star_Egg"><span class="color-template color-template-star-egg color-template-background-clip">Star Egg</span></a><br/>
 </p>
 </td></tr></tbody></table>
 
@@ -80,10 +80,10 @@ Note that unlike the other mobs, Tunnel Bear drops its tokens in a straight line
 <td>200 <a href="battle-points.html">Battle Points</a><br/>
 <p>1000 <a href="bond.html">Bond</a><br/>
 <span typeof="mw:Error mw:File"></span>5,000,000 <a href="honey.html"><span class="color-template color-template-honey">Honey</span></a><br/>
-<span typeof="mw:Error mw:File"></span>5 <a href="royal-jelly.html"><span class="color-template color-template-royal-jelly color-template-background-clip">Royal Jellies</span></a><br/>
-<span typeof="mw:Error mw:File"></span>10 <a href="ticket.html"><span class="color-template color-template-ticket color-template-background-clip">Tickets</span></a><br/>
-<span typeof="mw:Error mw:File"></span>20 <a href="moon-charm.html"><span class="color-template color-template-moon-charm color-template-background-clip">Moon Charms</span></a><br/>
-<span typeof="mw:Error mw:File"></span><a href="gingerbread-bear.html"><span class="color-template color-template-gingerbread-bear color-template-background-clip">Gingerbread Bears</span></a> (Beesmas only)
+<img alt="Royal Jelly" height="25" src="img/Royal_Jelly.png" width="25"/>5 <a href="royal-jelly.html"><span class="color-template color-template-royal-jelly color-template-background-clip">Royal Jellies</span></a><br/>
+<img alt="Ticket" height="25" src="img/Ticket.png" width="25"/>10 <a href="ticket.html"><span class="color-template color-template-ticket color-template-background-clip">Tickets</span></a><br/>
+<img alt="Moon Charm" height="25" src="img/Moon_Charm.png" width="25"/>20 <a href="moon-charm.html"><span class="color-template color-template-moon-charm color-template-background-clip">Moon Charms</span></a><br/>
+<img alt="Gingerbread Bear" height="35" src="img/Gingerbread_Bear.png" width="35"/><a href="gingerbread-bear.html"><span class="color-template color-template-gingerbread-bear color-template-background-clip">Gingerbread Bears</span></a> (Beesmas only)
 </p>
 </td></tr></tbody></table>
 
@@ -93,39 +93,39 @@ Note: Players can possibly get more than one of a single type of drop (for examp
 
 <table class="article-table">
 <tbody><tr>
-<td><span typeof="mw:Error mw:File"></span><a href="royal-jelly.html"><span class="color-template color-template-royal-jelly color-template-background-clip">Royal Jellies</span></a> (Increments of 5, 10, 20, or 50)<br/>
-<p><span typeof="mw:Error mw:File"></span><a href="ticket.html"><span class="color-template color-template-ticket color-template-background-clip">Tickets</span></a> (Increments of 10, 15, 20, 25, 50, or 100)<br/>
-<span typeof="mw:Error mw:File"></span><a href="gumdrops.html"><span class="color-template color-template-gumdrops color-template-background-clip">Gumdrops</span></a> (Increments of 25-250)<br/>
-<span typeof="mw:Error mw:File"></span><a href="treat.html"><span class="color-template color-template-treat">Treats</span></a> (Increments of 15-50, 100, 500, 5000, or 50,000)<br/>
-<span typeof="mw:Error mw:File"></span><a href="sunflower-seed.html"><span class="color-template color-template-sunflower-seed color-template-background-clip">Sunflower Seeds</span></a> (Increments of 50-500)<br/>
-<span typeof="mw:Error mw:File"></span><a href="pineapple.html"><span class="color-template color-template-pineapple color-template-background-clip">Pineapples</span></a> (Increments of 50-500)<br/>
-<span typeof="mw:Error mw:File"></span><a href="micro-converter.html"><span class="color-template color-template-micro-converter color-template-background-clip">Micro-Converters</span></a> (Increments of 1, 5, or 10)<br/>
-<span typeof="mw:Error mw:File"></span><a href="bitterberry.html"><span class="color-template color-template-bitterberry color-template-background-clip">Bitterberries</span></a><br/>
-<span typeof="mw:Error mw:File"></span><a href="enzymes.html"><span class="color-template color-template-enzymes color-template-background-clip">Enzymes</span></a> (Increments of 1, 3, 5, or 10)<br/>
-<span typeof="mw:Error mw:File"></span><a href="oil.html"><span class="color-template color-template-oil color-template-background-clip">Oils</span></a> (Increments of 1, 3, 5, or 10)<br/>
-<span typeof="mw:Error mw:File"></span><a href="magic-bean.html"><span class="color-template color-template-magic-bean color-template-background-clip">Magic Beans</span></a> (Increments of 1, 3, 5, or 10)<br/>
-<span typeof="mw:Error mw:File"></span><a href="moon-charm.html"><span class="color-template color-template-moon-charm color-template-background-clip">Moon Charms</span></a> (Increments of 5, 20, 40, or 100)<br/>
-<span typeof="mw:Error mw:File"></span><a href="robo-pass.html"><span class="color-template color-template-robo-pass color-template-background-clip">Robo Passes</span></a> (Common)<br/>
-<span typeof="mw:Error mw:File"></span><a href="ant-pass.html"><span class="color-template color-template-ant-pass color-template-background-clip">Ant Pass</span></a> (Common)<br/>
-<span typeof="mw:Error mw:File"></span><a href="glitter.html"><span class="color-template color-template-glitter color-template-background-clip">Glitter</span></a> (Common, Increments of 1, 5, 10, or 25)<br/>
-<span typeof="mw:Error mw:File"></span><a href="royal-jelly.html#Star_Jelly"><span class="color-template color-template-star-jelly color-template-background-clip">Star Jelly</span></a> (Rare)<br/>
-<span typeof="mw:Error mw:File"></span><a href="loaded-dice.html"><span class="color-template color-template-loaded-dice color-template-background-clip">Loaded Dice</span></a> (Rare)<br/>
-<span typeof="mw:Error mw:File"></span><a href="egg.html#Diamond_Egg"><span class="color-template color-template-diamond-egg color-template-background-clip">Diamond Egg</span></a> (Very Rare)<br/>
-<span typeof="mw:Error mw:File"></span><a href="egg.html#Gifted_Silver_Egg"><span class="color-template color-template-gifted-silver-egg color-template-background-clip">Gifted Silver Egg</span></a> (Very Rare)<br/>
-<span typeof="mw:Error mw:File"></span><a href="egg.html#Gifted_Gold_Egg"><span class="color-template color-template-gifted-gold-egg color-template-background-clip">Gifted Gold Egg</span></a> (Very Rare)<br/>
-<span typeof="mw:Error mw:File"></span><a href="egg.html#Baby_Bee_Egg"><span class="color-template color-template-baby-bee-egg color-template-background-clip">Baby Bee Egg</span></a> (Exceptionally Rare)<br/>
-<span typeof="mw:Error mw:File"></span><a href="egg.html#Gifted_Diamond_Egg"><span class="color-template color-template-gifted-diamond-egg color-template-background-clip">Gifted Diamond Egg</span></a> (Extremely Rare)<br/>
-<span typeof="mw:Error mw:File"></span><a href="black-balloon.html"><span class="color-template color-template-black-balloon">Black Balloon</span></a> (Extremely Rare)<br/>
-<span typeof="mw:Error mw:File"></span><a href="night-bell.html"><span class="color-template color-template-night-bell color-template-background-clip">Night Bell</span></a> (Extremely Rare)<br/>
-<span typeof="mw:Error mw:File"></span><a href="purple-potion.html"><span class="color-template color-template-purple-potion color-template-background-clip">Purple Potion</span></a> (Extremely Rare)<br/>
-<span typeof="mw:Error mw:File"></span><a href="sticker.html#Sticker_Index"><span class="color-template color-template-basic-black-hive-skin color-template-background-clip">Basic Black Hive Skin</span></a> (Extremely Rare)<br/>
-<span typeof="mw:Error mw:File"></span><a href="super-smoothie.html"><span class="color-template color-template-super-smoothie color-template-background-clip">Super Smoothie</span></a> (Nearly Impossible)<br/>
-<span typeof="mw:Error mw:File"></span><a href="egg.html#Star_Egg"><span class="color-template color-template-star-egg color-template-background-clip">Star Egg</span></a> (Nearly Impossible)<br/>
-<span typeof="mw:Error mw:File"></span><a href="gingerbread-bear.html"><span class="color-template color-template-gingerbread-bear color-template-background-clip">Gingerbread Bears</span></a> (Beesmas Only, increments of 1 or 5)<br/>
-<span typeof="mw:Error mw:File"></span><a href="beesmas-tree-hat.html"><span class="color-template color-template-beesmas-tree-hat color-template-background-clip">Beesmas Tree Hat</span></a> (Beesmas only)<br/>
-<span typeof="mw:Error mw:File"></span><a href="sticker.html#Sticker_Index"><span class="color-template color-template-black-diamond-sticker">Black Diamond Sticker</span></a> (Unbelievably Rare)<br/>
-<span typeof="mw:Error mw:File"></span><a href="sticker.html#Sticker_Index"><span class="color-template color-template-black-star-sticker">Black Star Sticker</span></a> (Unbelievably Rare)<br/>
-<span typeof="mw:Error mw:File"></span><a href="sticker.html#Sticker_Index"><span class="color-template color-template-bear-bee-voucher color-template-background-clip">Bear Bee Voucher</span></a> (Nearly Impossible) 
+<td><img alt="Royal Jelly" height="35" src="img/Royal_Jelly.png" width="35"/><a href="royal-jelly.html"><span class="color-template color-template-royal-jelly color-template-background-clip">Royal Jellies</span></a> (Increments of 5, 10, 20, or 50)<br/>
+<p><img alt="Ticket" height="35" src="img/Ticket.png" width="35"/><a href="ticket.html"><span class="color-template color-template-ticket color-template-background-clip">Tickets</span></a> (Increments of 10, 15, 20, 25, 50, or 100)<br/>
+<img alt="Gumdrops" height="35" src="img/Gumdrops.png" width="35"/><a href="gumdrops.html"><span class="color-template color-template-gumdrops color-template-background-clip">Gumdrops</span></a> (Increments of 25-250)<br/>
+<img alt="Treat" height="35" src="img/Treat.png" width="35"/><a href="treat.html"><span class="color-template color-template-treat">Treats</span></a> (Increments of 15-50, 100, 500, 5000, or 50,000)<br/>
+<img alt="Sunflower Seed" height="35" src="img/Sunflower_Seed.png" width="35"/><a href="sunflower-seed.html"><span class="color-template color-template-sunflower-seed color-template-background-clip">Sunflower Seeds</span></a> (Increments of 50-500)<br/>
+<img alt="Pineapple" height="35" src="img/Pineapple.png" width="35"/><a href="pineapple.html"><span class="color-template color-template-pineapple color-template-background-clip">Pineapples</span></a> (Increments of 50-500)<br/>
+<img alt="Micro-Converter" height="35" src="img/Micro-Converter.png" width="35"/><a href="micro-converter.html"><span class="color-template color-template-micro-converter color-template-background-clip">Micro-Converters</span></a> (Increments of 1, 5, or 10)<br/>
+<img alt="Bitterberry" height="35" src="img/Bitterberry.png" width="35"/><a href="bitterberry.html"><span class="color-template color-template-bitterberry color-template-background-clip">Bitterberries</span></a><br/>
+<img alt="Enzymes" height="35" src="img/Enzymes.png" width="35"/><a href="enzymes.html"><span class="color-template color-template-enzymes color-template-background-clip">Enzymes</span></a> (Increments of 1, 3, 5, or 10)<br/>
+<img alt="Oil" height="35" src="img/Oil.png" width="35"/><a href="oil.html"><span class="color-template color-template-oil color-template-background-clip">Oils</span></a> (Increments of 1, 3, 5, or 10)<br/>
+<img alt="Magic Bean" height="35" src="img/Magic_Bean.png" width="35"/><a href="magic-bean.html"><span class="color-template color-template-magic-bean color-template-background-clip">Magic Beans</span></a> (Increments of 1, 3, 5, or 10)<br/>
+<img alt="Moon Charm" height="35" src="img/Moon_Charm.png" width="35"/><a href="moon-charm.html"><span class="color-template color-template-moon-charm color-template-background-clip">Moon Charms</span></a> (Increments of 5, 20, 40, or 100)<br/>
+<img alt="Robo Pass" height="35" src="img/Robo_Pass.png" width="35"/><a href="robo-pass.html"><span class="color-template color-template-robo-pass color-template-background-clip">Robo Passes</span></a> (Common)<br/>
+<img alt="Ant Pass" height="35" src="img/Ant_Pass.png" width="35"/><a href="ant-pass.html"><span class="color-template color-template-ant-pass color-template-background-clip">Ant Pass</span></a> (Common)<br/>
+<img alt="Glitter" height="35" src="img/Glitter.png" width="35"/><a href="glitter.html"><span class="color-template color-template-glitter color-template-background-clip">Glitter</span></a> (Common, Increments of 1, 5, 10, or 25)<br/>
+<img alt="Star Jelly" height="35" src="img/Star_Jelly.png" width="35"/><a href="royal-jelly.html#Star_Jelly"><span class="color-template color-template-star-jelly color-template-background-clip">Star Jelly</span></a> (Rare)<br/>
+<img alt="Loaded Dice" height="35" src="img/Loaded_Dice.png" width="35"/><a href="loaded-dice.html"><span class="color-template color-template-loaded-dice color-template-background-clip">Loaded Dice</span></a> (Rare)<br/>
+<img alt="Diamond Egg" height="35" src="img/Diamond_Egg.png" width="35"/><a href="egg.html#Diamond_Egg"><span class="color-template color-template-diamond-egg color-template-background-clip">Diamond Egg</span></a> (Very Rare)<br/>
+<img alt="Gifted Silver Egg" height="35" src="img/Gifted_Silver_Egg.png" width="35"/><a href="egg.html#Gifted_Silver_Egg"><span class="color-template color-template-gifted-silver-egg color-template-background-clip">Gifted Silver Egg</span></a> (Very Rare)<br/>
+<img alt="Gifted Gold Egg" height="35" src="img/Gifted_Gold_Egg.png" width="35"/><a href="egg.html#Gifted_Gold_Egg"><span class="color-template color-template-gifted-gold-egg color-template-background-clip">Gifted Gold Egg</span></a> (Very Rare)<br/>
+<img alt="Basic Egg" height="35" src="img/Basic_Egg.png" width="35"/><a href="egg.html#Baby_Bee_Egg"><span class="color-template color-template-baby-bee-egg color-template-background-clip">Baby Bee Egg</span></a> (Exceptionally Rare)<br/>
+<img alt="Gifted Diamond Egg" height="35" src="img/Gifted_Diamond_Egg.png" width="35"/><a href="egg.html#Gifted_Diamond_Egg"><span class="color-template color-template-gifted-diamond-egg color-template-background-clip">Gifted Diamond Egg</span></a> (Extremely Rare)<br/>
+<img alt="Black Balloon" height="35" src="img/Black_Balloon.png" width="35"/><a href="black-balloon.html"><span class="color-template color-template-black-balloon">Black Balloon</span></a> (Extremely Rare)<br/>
+<img alt="Night Bell" height="35" src="img/Night_Bell.png" width="35"/><a href="night-bell.html"><span class="color-template color-template-night-bell color-template-background-clip">Night Bell</span></a> (Extremely Rare)<br/>
+<img alt="Purple Potion" height="35" src="img/Purple_Potion.png" width="35"/><a href="purple-potion.html"><span class="color-template color-template-purple-potion color-template-background-clip">Purple Potion</span></a> (Extremely Rare)<br/>
+<img alt="Basic Black Hive Skin" height="35" src="img/Basic_Black_Hive_Skin.png" width="35"/><a href="sticker.html#Sticker_Index"><span class="color-template color-template-basic-black-hive-skin color-template-background-clip">Basic Black Hive Skin</span></a> (Extremely Rare)<br/>
+<img alt="Super Smoothie" height="35" src="img/Super_Smoothie.png" width="35"/><a href="super-smoothie.html"><span class="color-template color-template-super-smoothie color-template-background-clip">Super Smoothie</span></a> (Nearly Impossible)<br/>
+<img alt="Star Egg" height="35" src="img/Star_Egg.png" width="35"/><a href="egg.html#Star_Egg"><span class="color-template color-template-star-egg color-template-background-clip">Star Egg</span></a> (Nearly Impossible)<br/>
+<img alt="Gingerbread Bear" height="35" src="img/Gingerbread_Bear.png" width="35"/><a href="gingerbread-bear.html"><span class="color-template color-template-gingerbread-bear color-template-background-clip">Gingerbread Bears</span></a> (Beesmas Only, increments of 1 or 5)<br/>
+<img alt="Beesmas Tree Hat" height="35" src="img/Beesmas_Tree_Hat.png" width="35"/><a href="beesmas-tree-hat.html"><span class="color-template color-template-beesmas-tree-hat color-template-background-clip">Beesmas Tree Hat</span></a> (Beesmas only)<br/>
+<img alt="Black Diamond" height="35" src="img/Black_Diamond.png" width="35"/><a href="sticker.html#Sticker_Index"><span class="color-template color-template-black-diamond-sticker">Black Diamond Sticker</span></a> (Unbelievably Rare)<br/>
+<img alt="Black Star" height="35" src="img/Black_Star.png" width="35"/><a href="sticker.html#Sticker_Index"><span class="color-template color-template-black-star-sticker">Black Star Sticker</span></a> (Unbelievably Rare)<br/>
+<img alt="Bear Bee Voucher" height="35" src="img/Bear_Bee_Voucher.png" width="35"/><a href="sticker.html#Sticker_Index"><span class="color-template color-template-bear-bee-voucher color-template-background-clip">Bear Bee Voucher</span></a> (Nearly Impossible) 
 </p>
 </td></tr></tbody></table>
 

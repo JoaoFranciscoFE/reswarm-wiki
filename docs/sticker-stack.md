@@ -121,51 +121,51 @@ x3 Common Bee Pollen<br/>
 <th>Max loot a player can obtain from the Sticker Stack
 </th></tr>
 <tr>
-<td><span typeof="mw:Error mw:File"></span>876 <a href="ticket.html"><span class="color-template color-template-ticket color-template-background-clip">Tickets</span></a><br/>
-<p><span typeof="mw:Error mw:File"></span>75 <a href="gumdrops.html"><span class="color-template color-template-gumdrops color-template-background-clip">Gumdrops</span></a><br/>
-<span typeof="mw:Error mw:File"></span>10 <a href="coconut.html"><span class="color-template color-template-coconut color-template-background-clip">Coconuts</span></a><br/>
-<span typeof="mw:Error mw:File"></span>30 <a href="stinger.html"><span class="color-template color-template-stinger color-template-background-clip">Stingers</span></a><br/>
-<span typeof="mw:Error mw:File"></span>18 <a href="micro-converter.html"><span class="color-template color-template-micro-converter color-template-background-clip">Micro-Converters</span></a><br/>
-<span typeof="mw:Error mw:File"></span>40 <a href="honeysuckle.html"><span class="color-template color-template-honeysuckle color-template-background-clip">Honeysuckles</span></a><br/>
-<span typeof="mw:Error mw:File"></span>20 <a href="whirligig.html"><span class="color-template color-template-whirligig color-template-background-clip">Whirligigs</span></a><br/>
-<span typeof="mw:Error mw:File"></span>5 <a href="field-dice.html"><span class="color-template color-template-field-dice color-template-background-clip">Field Dice</span></a><br/>
-<span typeof="mw:Error mw:File"></span>9 <a href="smooth-dice.html"><span class="color-template color-template-smooth-dice color-template-background-clip">Smooth Dice</span></a><br/>
-<span typeof="mw:Error mw:File"></span>2 <a href="loaded-dice.html"><span class="color-template color-template-loaded-dice color-template-background-clip">Loaded Dice</span></a><br/>
-<span typeof="mw:Error mw:File"></span>25 <a href="jelly-beans.html"><span class="color-template color-template-jelly-beans color-template-background-clip">Jelly Beans</span></a><br/>
-<span typeof="mw:Error mw:File"></span>11 <a href="red-extract.html"><span class="color-template color-template-red-extract color-template-background-clip">Red Extracts</span></a><br/>
-<span typeof="mw:Error mw:File"></span>8 <a href="blue-extract.html"><span class="color-template color-template-blue-extract color-template-background-clip">Blue Extracts</span></a><br/>
-<span typeof="mw:Error mw:File"></span>15 <a href="glitter.html"><span class="color-template color-template-glitter color-template-background-clip">Glitter</span></a><br/>
-<span typeof="mw:Error mw:File"></span>4 <a href="glue.html"><span class="color-template color-template-glue color-template-background-clip">Glues</span></a><br/>
-<span typeof="mw:Error mw:File"></span>6 <a href="oil.html"><span class="color-template color-template-oil color-template-background-clip">Oils</span></a><br/>
-<span typeof="mw:Error mw:File"></span>9 <a href="enzymes.html"><span class="color-template color-template-enzymes color-template-background-clip">Enzymes</span></a><br/>
-<span typeof="mw:Error mw:File"></span>4 <a href="purple-potion.html"><span class="color-template color-template-purple-potion color-template-background-clip">Purple Potions</span></a><br/>
-<span typeof="mw:Error mw:File"></span>9 <a href="magic-bean.html"><span class="color-template color-template-magic-bean color-template-background-clip">Magic Beans</span></a><br/>
-<span typeof="mw:Error mw:File"></span>11 <a href="cloud-vial.html"><span class="color-template color-template-cloud-vial color-template-background-clip">Cloud Vials</span></a><br/>
-<span typeof="mw:Error mw:File"></span>1 <a href="box-o-frogs.html"><span class="color-template color-template-box-o-frogs color-template-background-clip">Box-O-Frogs</span></a><br/>
-<span typeof="mw:Error mw:File"></span>1 <a href="ant-pass.html"><span class="color-template color-template-ant-pass color-template-background-clip">Ant Pass</span></a><br/>
-<span typeof="mw:Error mw:File"></span>2 <a href="robo-pass.html"><span class="color-template color-template-robo-pass color-template-background-clip">Robo Passes</span></a><br/>
-<span typeof="mw:Error mw:File"></span>500 <a href="treat.html"><span class="color-template color-template-treat">Treats</span></a><br/>
-<span typeof="mw:Error mw:File"></span>50 <a href="sunflower-seed.html"><span class="color-template color-template-sunflower-seed color-template-background-clip">Sunflower Seeds</span></a><br/>
-<span typeof="mw:Error mw:File"></span>100 <a href="strawberry.html"><span class="color-template color-template-strawberry color-template-background-clip">Strawberries</span></a><br/>
-<span typeof="mw:Error mw:File"></span>100 <a href="pineapple.html"><span class="color-template color-template-pineapple color-template-background-clip">Pineapples</span></a><br/>
-<span typeof="mw:Error mw:File"></span>50 <a href="bitterberry.html"><span class="color-template color-template-bitterberry color-template-background-clip">Bitterberries</span></a><br/>
-<span typeof="mw:Error mw:File"></span>26 <a href="neonberry.html"><span class="color-template color-template-neonberry color-template-background-clip">Neonberries</span></a><br/>
-<span typeof="mw:Error mw:File"></span>20 <a href="moon-charm.html"><span class="color-template color-template-moon-charm color-template-background-clip">Moon Charms</span></a><br/>
-<span typeof="mw:Error mw:File"></span>1 <a href="comforting-vial.html"><span class="color-template color-template-comforting-vial color-template-background-clip">Comforting Vial</span></a><br/>
-<span typeof="mw:Error mw:File"></span>1 <a href="invigorating-vial.html"><span class="color-template color-template-invigorating-vial color-template-background-clip">Invigorating Vial</span></a><br/>
-<span typeof="mw:Error mw:File"></span>1 <a href="motivating-vial.html"><span class="color-template color-template-motivating-vial color-template-background-clip">Motivating Vial</span></a><br/>
-<span typeof="mw:Error mw:File"></span>1 <a href="refreshing-vial.html"><span class="color-template color-template-refreshing-vial color-template-background-clip">Refreshing Vial</span></a><br/>
-<span typeof="mw:Error mw:File"></span>1 <a href="satisfying-vial.html"><span class="color-template color-template-satisfying-vial color-template-background-clip">Satisfying Vial</span></a><br/>
-<span typeof="mw:Error mw:File"></span>1 <a href="nectar-shower-vial.html"><span class="color-template color-template-nectar-shower-vial color-template-background-clip">Nectar Shower Vial</span></a><br/>
-<span typeof="mw:Error mw:File"></span>1 <a href="black-balloon.html"><span class="color-template color-template-black-balloon">Black Balloon</span></a><br/>
-<span typeof="mw:Error mw:File"></span>36 <a href="soft-wax.html"><span class="color-template color-template-soft-wax">Soft Waxes</span></a><br/>
-<span typeof="mw:Error mw:File"></span>11 <a href="hard-wax.html"><span class="color-template color-template-hard-wax">Hard Waxes</span></a><br/>
-<span typeof="mw:Error mw:File"></span>2 <a href="caustic-wax.html"><span class="color-template color-template-caustic-wax">Caustic Waxes</span></a><br/>
-<span typeof="mw:Error mw:File"></span>2 <a href="swirled-wax.html"><span class="color-template color-template-swirled-wax color-template-background-clip">Swirled Waxes</span></a><br/>
-<span typeof="mw:Error mw:File"></span>5 <a href="paper-planter.html"><span class="color-template color-template-paper-planter color-template-background-clip">Paper Planters</span></a><br/>
-<span typeof="mw:Error mw:File"></span>2 <a href="ticket-planter.html"><span class="color-template color-template-ticket-planter color-template-background-clip">Ticket Planters</span></a><br/>
-<span typeof="mw:Error mw:File"></span>1 <a href="egg.html#Basic_Egg"><span class="color-template color-template-basic-egg color-template-background-clip">Basic Egg</span></a><br/>
-<span typeof="mw:Error mw:File"></span>5 <a href="royal-jelly.html"><span class="color-template color-template-royal-jelly color-template-background-clip">Royal Jellies</span></a>
+<td><img alt="Ticket" height="25" src="img/Ticket.png" width="25"/>876 <a href="ticket.html"><span class="color-template color-template-ticket color-template-background-clip">Tickets</span></a><br/>
+<p><img alt="Gumdrops" height="25" src="img/Gumdrops.png" width="25"/>75 <a href="gumdrops.html"><span class="color-template color-template-gumdrops color-template-background-clip">Gumdrops</span></a><br/>
+<img alt="Coconut" height="25" src="img/Coconut.png" width="25"/>10 <a href="coconut.html"><span class="color-template color-template-coconut color-template-background-clip">Coconuts</span></a><br/>
+<img alt="Stinger" height="25" src="img/Stinger.png" width="25"/>30 <a href="stinger.html"><span class="color-template color-template-stinger color-template-background-clip">Stingers</span></a><br/>
+<img alt="Micro-Converter" height="25" src="img/Micro-Converter.png" width="25"/>18 <a href="micro-converter.html"><span class="color-template color-template-micro-converter color-template-background-clip">Micro-Converters</span></a><br/>
+<img alt="Honeysuckle" height="25" src="img/Honeysuckle.png" width="25"/>40 <a href="honeysuckle.html"><span class="color-template color-template-honeysuckle color-template-background-clip">Honeysuckles</span></a><br/>
+<img alt="Whirligig" height="25" src="img/Whirligig.png" width="25"/>20 <a href="whirligig.html"><span class="color-template color-template-whirligig color-template-background-clip">Whirligigs</span></a><br/>
+<img alt="Field Dice" height="25" src="img/Field_Dice.png" width="25"/>5 <a href="field-dice.html"><span class="color-template color-template-field-dice color-template-background-clip">Field Dice</span></a><br/>
+<img alt="Smooth Dice" height="25" src="img/Smooth_Dice.png" width="25"/>9 <a href="smooth-dice.html"><span class="color-template color-template-smooth-dice color-template-background-clip">Smooth Dice</span></a><br/>
+<img alt="Loaded Dice" height="25" src="img/Loaded_Dice.png" width="25"/>2 <a href="loaded-dice.html"><span class="color-template color-template-loaded-dice color-template-background-clip">Loaded Dice</span></a><br/>
+<img alt="Jelly Beans" height="25" src="img/Jelly_Beans.png" width="25"/>25 <a href="jelly-beans.html"><span class="color-template color-template-jelly-beans color-template-background-clip">Jelly Beans</span></a><br/>
+<img alt="Red Extract" height="25" src="img/Red_Extract.png" width="25"/>11 <a href="red-extract.html"><span class="color-template color-template-red-extract color-template-background-clip">Red Extracts</span></a><br/>
+<img alt="Blue Extract" height="25" src="img/Blue_Extract.png" width="25"/>8 <a href="blue-extract.html"><span class="color-template color-template-blue-extract color-template-background-clip">Blue Extracts</span></a><br/>
+<img alt="Glitter" height="25" src="img/Glitter.png" width="25"/>15 <a href="glitter.html"><span class="color-template color-template-glitter color-template-background-clip">Glitter</span></a><br/>
+<img alt="Glue" height="25" src="img/Glue.png" width="25"/>4 <a href="glue.html"><span class="color-template color-template-glue color-template-background-clip">Glues</span></a><br/>
+<img alt="Oil" height="25" src="img/Oil.png" width="25"/>6 <a href="oil.html"><span class="color-template color-template-oil color-template-background-clip">Oils</span></a><br/>
+<img alt="Enzymes" height="25" src="img/Enzymes.png" width="25"/>9 <a href="enzymes.html"><span class="color-template color-template-enzymes color-template-background-clip">Enzymes</span></a><br/>
+<img alt="Purple Potion" height="25" src="img/Purple_Potion.png" width="25"/>4 <a href="purple-potion.html"><span class="color-template color-template-purple-potion color-template-background-clip">Purple Potions</span></a><br/>
+<img alt="Magic Bean" height="25" src="img/Magic_Bean.png" width="25"/>9 <a href="magic-bean.html"><span class="color-template color-template-magic-bean color-template-background-clip">Magic Beans</span></a><br/>
+<img alt="Cloud Vial" height="25" src="img/Cloud_Vial.png" width="25"/>11 <a href="cloud-vial.html"><span class="color-template color-template-cloud-vial color-template-background-clip">Cloud Vials</span></a><br/>
+<img alt="Box-O-Frogs" height="25" src="img/Box-O-Frogs.png" width="25"/>1 <a href="box-o-frogs.html"><span class="color-template color-template-box-o-frogs color-template-background-clip">Box-O-Frogs</span></a><br/>
+<img alt="Ant Pass" height="25" src="img/Ant_Pass.png" width="25"/>1 <a href="ant-pass.html"><span class="color-template color-template-ant-pass color-template-background-clip">Ant Pass</span></a><br/>
+<img alt="Robo Pass" height="25" src="img/Robo_Pass.png" width="25"/>2 <a href="robo-pass.html"><span class="color-template color-template-robo-pass color-template-background-clip">Robo Passes</span></a><br/>
+<img alt="Treat" height="25" src="img/Treat.png" width="25"/>500 <a href="treat.html"><span class="color-template color-template-treat">Treats</span></a><br/>
+<img alt="Sunflower Seed" height="25" src="img/Sunflower_Seed.png" width="25"/>50 <a href="sunflower-seed.html"><span class="color-template color-template-sunflower-seed color-template-background-clip">Sunflower Seeds</span></a><br/>
+<img alt="Strawberry" height="25" src="img/Strawberry.png" width="25"/>100 <a href="strawberry.html"><span class="color-template color-template-strawberry color-template-background-clip">Strawberries</span></a><br/>
+<img alt="Pineapple" height="25" src="img/Pineapple.png" width="25"/>100 <a href="pineapple.html"><span class="color-template color-template-pineapple color-template-background-clip">Pineapples</span></a><br/>
+<img alt="Bitterberry" height="25" src="img/Bitterberry.png" width="25"/>50 <a href="bitterberry.html"><span class="color-template color-template-bitterberry color-template-background-clip">Bitterberries</span></a><br/>
+<img alt="Neonberry" height="25" src="img/Neonberry.png" width="25"/>26 <a href="neonberry.html"><span class="color-template color-template-neonberry color-template-background-clip">Neonberries</span></a><br/>
+<img alt="Moon Charm" height="25" src="img/Moon_Charm.png" width="25"/>20 <a href="moon-charm.html"><span class="color-template color-template-moon-charm color-template-background-clip">Moon Charms</span></a><br/>
+<img alt="Comforting Vial" height="25" src="img/Comforting_Vial.png" width="25"/>1 <a href="comforting-vial.html"><span class="color-template color-template-comforting-vial color-template-background-clip">Comforting Vial</span></a><br/>
+<img alt="Invigorating Vial" height="25" src="img/Invigorating_Vial.png" width="25"/>1 <a href="invigorating-vial.html"><span class="color-template color-template-invigorating-vial color-template-background-clip">Invigorating Vial</span></a><br/>
+<img alt="Motivating Vial" height="25" src="img/Motivating_Vial.png" width="25"/>1 <a href="motivating-vial.html"><span class="color-template color-template-motivating-vial color-template-background-clip">Motivating Vial</span></a><br/>
+<img alt="Refreshing Vial" height="25" src="img/Refreshing_Vial.png" width="25"/>1 <a href="refreshing-vial.html"><span class="color-template color-template-refreshing-vial color-template-background-clip">Refreshing Vial</span></a><br/>
+<img alt="Satisfying Vial" height="25" src="img/Satisfying_Vial.png" width="25"/>1 <a href="satisfying-vial.html"><span class="color-template color-template-satisfying-vial color-template-background-clip">Satisfying Vial</span></a><br/>
+<img alt="Nectar Shower Vial" height="25" src="img/Nectar_Shower_Vial.png" width="25"/>1 <a href="nectar-shower-vial.html"><span class="color-template color-template-nectar-shower-vial color-template-background-clip">Nectar Shower Vial</span></a><br/>
+<img alt="Black Balloon" height="25" src="img/Black_Balloon.png" width="25"/>1 <a href="black-balloon.html"><span class="color-template color-template-black-balloon">Black Balloon</span></a><br/>
+<img alt="Soft Wax" height="25" src="img/Soft_Wax.png" width="25"/>36 <a href="soft-wax.html"><span class="color-template color-template-soft-wax">Soft Waxes</span></a><br/>
+<img alt="Hard Wax" height="25" src="img/Hard_Wax.png" width="25"/>11 <a href="hard-wax.html"><span class="color-template color-template-hard-wax">Hard Waxes</span></a><br/>
+<img alt="Caustic Wax" height="25" src="img/Caustic_Wax.png" width="25"/>2 <a href="caustic-wax.html"><span class="color-template color-template-caustic-wax">Caustic Waxes</span></a><br/>
+<img alt="Swirled Wax" height="25" src="img/Swirled_Wax.png" width="25"/>2 <a href="swirled-wax.html"><span class="color-template color-template-swirled-wax color-template-background-clip">Swirled Waxes</span></a><br/>
+<img alt="Paper Planter" height="25" src="img/Paper_Planter.png" width="25"/>5 <a href="paper-planter.html"><span class="color-template color-template-paper-planter color-template-background-clip">Paper Planters</span></a><br/>
+<img alt="Ticket Planter" height="25" src="img/Ticket_Planter.png" width="25"/>2 <a href="ticket-planter.html"><span class="color-template color-template-ticket-planter color-template-background-clip">Ticket Planters</span></a><br/>
+<img alt="Basic Egg" height="25" src="img/Basic_Egg.png" width="25"/>1 <a href="egg.html#Basic_Egg"><span class="color-template color-template-basic-egg color-template-background-clip">Basic Egg</span></a><br/>
+<img alt="Royal Jelly" height="25" src="img/Royal_Jelly.png" width="25"/>5 <a href="royal-jelly.html"><span class="color-template color-template-royal-jelly color-template-background-clip">Royal Jellies</span></a>
 </p>
 </td></tr></tbody></table>
 </td></tr></tbody></table>
@@ -208,7 +208,7 @@ Stack Combos are completed upon adding a certain set of stickers to the Sticker 
 <strong class="error"><span class="scribunto-error mw-scribunto-error-d4d2ff02">Lua error in Module:Item_image at line 88: Template error! There's no such file named File:hivesticker black truffle mushroom.png for Template:I.</span></strong>Black Truffle Mushroom
 </p>
 </td>
-<td><span typeof="mw:Error mw:File"></span><a href="sticker.html#Sticker_Index"><span class="color-template color-template-prismatic-mushroom-sticker color-template-background-clip">Prismatic Mushroom Sticker</span></a>
+<td><img alt="Prismatic Mushroom" height="35" src="img/Prismatic_Mushroom.png" width="35"/><a href="sticker.html#Sticker_Index"><span class="color-template color-template-prismatic-mushroom-sticker color-template-background-clip">Prismatic Mushroom Sticker</span></a>
 </td></tr></tbody></table>
 
 An audio example of multiple stickers being stacked:

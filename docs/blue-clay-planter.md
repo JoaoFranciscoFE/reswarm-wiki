@@ -74,9 +74,9 @@ The **Blue Clay Planter** is a reusable planter that was added in the 2021-12-26
 </th></tr>
 <tr>
 <td><span typeof="mw:Error mw:File"></span>10,000,000 <a href="honey.html"><span class="color-template color-template-honey">Honey</span></a><br/>
-<p><span typeof="mw:Error mw:File"></span>5 <a href="magic-bean.html"><span class="color-template color-template-magic-bean color-template-background-clip">Magic Beans</span></a><br/>
-<span typeof="mw:Error mw:File"></span>15 <a href="blue-extract.html"><span class="color-template color-template-blue-extract color-template-background-clip">Blue Extracts</span></a><br/>
-<span typeof="mw:Error mw:File"></span>20 <a href="soft-wax.html"><span class="color-template color-template-soft-wax">Soft Waxes</span></a>
+<p><img alt="Magic Bean" height="25" src="img/Magic_Bean.png" width="25"/>5 <a href="magic-bean.html"><span class="color-template color-template-magic-bean color-template-background-clip">Magic Beans</span></a><br/>
+<img alt="Blue Extract" height="25" src="img/Blue_Extract.png" width="25"/>15 <a href="blue-extract.html"><span class="color-template color-template-blue-extract color-template-background-clip">Blue Extracts</span></a><br/>
+<img alt="Soft Wax" height="25" src="img/Soft_Wax.png" width="25"/>20 <a href="soft-wax.html"><span class="color-template color-template-soft-wax">Soft Waxes</span></a>
 </p>
 </td></tr></tbody></table>
 
@@ -97,9 +97,9 @@ When claimed, the planter gives up to 16 tokens worth of items. If the planter w
 
 <table class="article-table">
 <tbody><tr>
-<td><span typeof="mw:Error mw:File"></span><a href="blue-extract.html"><span class="color-template color-template-blue-extract color-template-background-clip">Blue Extract</span></a> (Increments of 1 or 10)<br/>
-<p><span typeof="mw:Error mw:File"></span><a href="micro-converter.html"><span class="color-template color-template-micro-converter color-template-background-clip">Micro-Converters</span></a><br/>
-<span typeof="mw:Error mw:File"></span><a href="honeysuckle.html"><span class="color-template color-template-honeysuckle color-template-background-clip">Honeysuckle</span></a> (Increments of 1 or 5)
+<td><img alt="Blue Extract" height="35" src="img/Blue_Extract.png" width="35"/><a href="blue-extract.html"><span class="color-template color-template-blue-extract color-template-background-clip">Blue Extract</span></a> (Increments of 1 or 10)<br/>
+<p><img alt="Micro-Converter" height="35" src="img/Micro-Converter.png" width="35"/><a href="micro-converter.html"><span class="color-template color-template-micro-converter color-template-background-clip">Micro-Converters</span></a><br/>
+<img alt="Honeysuckle" height="35" src="img/Honeysuckle.png" width="35"/><a href="honeysuckle.html"><span class="color-template color-template-honeysuckle color-template-background-clip">Honeysuckle</span></a> (Increments of 1 or 5)
 </p>
 </td></tr></tbody></table>
 
@@ -107,32 +107,32 @@ When claimed, the planter gives up to 16 tokens worth of items. If the planter w
 
 <table class="article-table">
 <tbody><tr>
-<td><span typeof="mw:Error mw:File"></span><a href="pineapple.html"><span class="color-template color-template-pineapple color-template-background-clip">Pineapples</span></a><br/>
-<p><span typeof="mw:Error mw:File"></span><a href="sunflower-seed.html"><span class="color-template color-template-sunflower-seed color-template-background-clip">Sunflower Seeds</span></a><br/>
-<span typeof="mw:Error mw:File"></span><a href="gumdrops.html"><span class="color-template color-template-gumdrops color-template-background-clip">Gumdrops</span></a><br/>
-<span typeof="mw:Error mw:File"></span><a href="coconut.html"><span class="color-template color-template-coconut color-template-background-clip">Coconuts</span></a><br/>
-<span typeof="mw:Error mw:File"></span><a href="jelly-beans.html"><span class="color-template color-template-jelly-beans color-template-background-clip">Jelly Beans</span></a><br/>
-<span typeof="mw:Error mw:File"></span><a href="smooth-dice.html"><span class="color-template color-template-smooth-dice color-template-background-clip">Smooth Dice</span></a><br/>
-<span typeof="mw:Error mw:File"></span><a href="blueberry.html"><span class="color-template color-template-blueberry color-template-background-clip">Blueberries</span></a><br/>
-<span typeof="mw:Error mw:File"></span><a href="bitterberry.html"><span class="color-template color-template-bitterberry color-template-background-clip">Bitterberries</span></a><br/>
-<span typeof="mw:Error mw:File"></span><a href="neonberry.html"><span class="color-template color-template-neonberry color-template-background-clip">Neonberries</span></a><br/>
-<span typeof="mw:Error mw:File"></span><a href="ticket.html"><span class="color-template color-template-ticket color-template-background-clip">Tickets</span></a><br/>
-<span typeof="mw:Error mw:File"></span><a href="whirligig.html"><span class="color-template color-template-whirligig color-template-background-clip">Whirligigs</span></a><br/>
-<span typeof="mw:Error mw:File"></span><a href="royal-jelly.html"><span class="color-template color-template-royal-jelly color-template-background-clip">Royal Jellies</span></a><br/>
-<span typeof="mw:Error mw:File"></span><a href="oil.html"><span class="color-template color-template-oil color-template-background-clip">Oils</span></a><br/>
-<span typeof="mw:Error mw:File"></span><a href="glue.html"><span class="color-template color-template-glue color-template-background-clip">Glues</span></a><br/>
-<span typeof="mw:Error mw:File"></span><a href="red-extract.html"><span class="color-template color-template-red-extract color-template-background-clip">Red Extracts</span></a><br/>
-<span typeof="mw:Error mw:File"></span><a href="hard-wax.html"><span class="color-template color-template-hard-wax">Hard Waxes</span></a><br/>
-<span typeof="mw:Error mw:File"></span><a href="royal-jelly.html#Star_Jelly"><span class="color-template color-template-star-jelly color-template-background-clip">Star Jellies</span></a> (Rare)<br/>
-<span typeof="mw:Error mw:File"></span><a href="glitter.html"><span class="color-template color-template-glitter color-template-background-clip">Glitter</span></a> (Rare)<br/>
-<span typeof="mw:Error mw:File"></span><a href="purple-potion.html"><span class="color-template color-template-purple-potion color-template-background-clip">Purple Potion</span></a> (Rare)<br/>
-<span typeof="mw:Error mw:File"></span><a href="swirled-wax.html"><span class="color-template color-template-swirled-wax color-template-background-clip">Swirled Wax</span></a> (Very Rare)<br/>
-<span typeof="mw:Error mw:File"></span><a href="caustic-wax.html"><span class="color-template color-template-caustic-wax">Caustic Wax</span></a> (Very Rare)<br/>
-<span typeof="mw:Error mw:File"></span><a href="super-smoothie.html"><span class="color-template color-template-super-smoothie color-template-background-clip">Super Smoothie</span></a> (Extremely Rare)<br/>
-<span typeof="mw:Error mw:File"></span><a href="paperclip.html"><span class="color-template color-template-paperclip color-template-background-clip">Paperclip</span></a> (Rare)<br/>
-<span typeof="mw:Error mw:File"></span><a href="beret.html"><span class="color-template color-template-beret color-template-background-clip">Beret</span></a> (Very Rare)<br/>
-<span typeof="mw:Error mw:File"></span><a href="camphor-lip-balm.html"><span class="color-template color-template-camphor-lip-balm color-template-background-clip">Camphor Lip Balm</span></a> (Very Rare)<br/>
-<span typeof="mw:Error mw:File"></span><a href="turpentine.html"><span class="color-template color-template-turpentine color-template-background-clip">Turpentine</span></a> (Exceptionally Rare)
+<td><img alt="Pineapple" height="35" src="img/Pineapple.png" width="35"/><a href="pineapple.html"><span class="color-template color-template-pineapple color-template-background-clip">Pineapples</span></a><br/>
+<p><img alt="Sunflower Seed" height="35" src="img/Sunflower_Seed.png" width="35"/><a href="sunflower-seed.html"><span class="color-template color-template-sunflower-seed color-template-background-clip">Sunflower Seeds</span></a><br/>
+<img alt="Gumdrops" height="35" src="img/Gumdrops.png" width="35"/><a href="gumdrops.html"><span class="color-template color-template-gumdrops color-template-background-clip">Gumdrops</span></a><br/>
+<img alt="Coconut" height="35" src="img/Coconut.png" width="35"/><a href="coconut.html"><span class="color-template color-template-coconut color-template-background-clip">Coconuts</span></a><br/>
+<img alt="Jelly Beans" height="35" src="img/Jelly_Beans.png" width="35"/><a href="jelly-beans.html"><span class="color-template color-template-jelly-beans color-template-background-clip">Jelly Beans</span></a><br/>
+<img alt="Smooth Dice" height="35" src="img/Smooth_Dice.png" width="35"/><a href="smooth-dice.html"><span class="color-template color-template-smooth-dice color-template-background-clip">Smooth Dice</span></a><br/>
+<img alt="Blueberry" height="35" src="img/Blueberry.png" width="35"/><a href="blueberry.html"><span class="color-template color-template-blueberry color-template-background-clip">Blueberries</span></a><br/>
+<img alt="Bitterberry" height="35" src="img/Bitterberry.png" width="35"/><a href="bitterberry.html"><span class="color-template color-template-bitterberry color-template-background-clip">Bitterberries</span></a><br/>
+<img alt="Neonberry" height="35" src="img/Neonberry.png" width="35"/><a href="neonberry.html"><span class="color-template color-template-neonberry color-template-background-clip">Neonberries</span></a><br/>
+<img alt="Ticket" height="35" src="img/Ticket.png" width="35"/><a href="ticket.html"><span class="color-template color-template-ticket color-template-background-clip">Tickets</span></a><br/>
+<img alt="Whirligig" height="35" src="img/Whirligig.png" width="35"/><a href="whirligig.html"><span class="color-template color-template-whirligig color-template-background-clip">Whirligigs</span></a><br/>
+<img alt="Royal Jelly" height="35" src="img/Royal_Jelly.png" width="35"/><a href="royal-jelly.html"><span class="color-template color-template-royal-jelly color-template-background-clip">Royal Jellies</span></a><br/>
+<img alt="Oil" height="35" src="img/Oil.png" width="35"/><a href="oil.html"><span class="color-template color-template-oil color-template-background-clip">Oils</span></a><br/>
+<img alt="Glue" height="35" src="img/Glue.png" width="35"/><a href="glue.html"><span class="color-template color-template-glue color-template-background-clip">Glues</span></a><br/>
+<img alt="Red Extract" height="35" src="img/Red_Extract.png" width="35"/><a href="red-extract.html"><span class="color-template color-template-red-extract color-template-background-clip">Red Extracts</span></a><br/>
+<img alt="Hard Wax" height="35" src="img/Hard_Wax.png" width="35"/><a href="hard-wax.html"><span class="color-template color-template-hard-wax">Hard Waxes</span></a><br/>
+<img alt="Star Jelly" height="35" src="img/Star_Jelly.png" width="35"/><a href="royal-jelly.html#Star_Jelly"><span class="color-template color-template-star-jelly color-template-background-clip">Star Jellies</span></a> (Rare)<br/>
+<img alt="Glitter" height="35" src="img/Glitter.png" width="35"/><a href="glitter.html"><span class="color-template color-template-glitter color-template-background-clip">Glitter</span></a> (Rare)<br/>
+<img alt="Purple Potion" height="35" src="img/Purple_Potion.png" width="35"/><a href="purple-potion.html"><span class="color-template color-template-purple-potion color-template-background-clip">Purple Potion</span></a> (Rare)<br/>
+<img alt="Swirled Wax" height="35" src="img/Swirled_Wax.png" width="35"/><a href="swirled-wax.html"><span class="color-template color-template-swirled-wax color-template-background-clip">Swirled Wax</span></a> (Very Rare)<br/>
+<img alt="Caustic Wax" height="35" src="img/Caustic_Wax.png" width="35"/><a href="caustic-wax.html"><span class="color-template color-template-caustic-wax">Caustic Wax</span></a> (Very Rare)<br/>
+<img alt="Super Smoothie" height="35" src="img/Super_Smoothie.png" width="35"/><a href="super-smoothie.html"><span class="color-template color-template-super-smoothie color-template-background-clip">Super Smoothie</span></a> (Extremely Rare)<br/>
+<img alt="Paperclip" height="35" src="img/Paperclip.png" width="35"/><a href="paperclip.html"><span class="color-template color-template-paperclip color-template-background-clip">Paperclip</span></a> (Rare)<br/>
+<img alt="Beret" height="35" src="img/Beret.png" width="35"/><a href="beret.html"><span class="color-template color-template-beret color-template-background-clip">Beret</span></a> (Very Rare)<br/>
+<img alt="Camphor Lip Balm" height="35" src="img/Camphor_Lip_Balm.png" width="35"/><a href="camphor-lip-balm.html"><span class="color-template color-template-camphor-lip-balm color-template-background-clip">Camphor Lip Balm</span></a> (Very Rare)<br/>
+<img alt="Turpentine" height="35" src="img/Turpentine.png" width="35"/><a href="turpentine.html"><span class="color-template color-template-turpentine color-template-background-clip">Turpentine</span></a> (Exceptionally Rare)
 </p>
 </td></tr></tbody></table>
 
@@ -142,11 +142,11 @@ When claimed, the planter gives up to 16 tokens worth of items. If the planter w
 <tbody><tr>
 <td><span typeof="mw:Error mw:File"></span>10-15 <a href="micro-converter.html"><span class="color-template color-template-micro-converter color-template-background-clip">Micro-Converters</span></a> (When harvested from <a href="spider-field.html">Spider Field</a>)<br/>
 <p><span typeof="mw:Error mw:File"></span>x2 the usual <a href="honeysuckle.html"><span class="color-template color-template-honeysuckle color-template-background-clip">Honeysuckles</span></a> (When harvested from either <a href="blue-flower-field.html">Blue Flower Field</a>, <a href="rose-field.html">Rose Field</a> or especially <a href="sunflower-field.html">Sunflower Field</a>)<br/>
-<span typeof="mw:Error mw:File"></span>1 <a href="purple-potion.html"><span class="color-template color-template-purple-potion color-template-background-clip">Purple Potion</span></a> (When harvested from a Blue Field, then Red Field in order, unknown cooldown)
+<img alt="Purple Potion" height="25" src="img/Purple_Potion.png" width="25"/>1 <a href="purple-potion.html"><span class="color-template color-template-purple-potion color-template-background-clip">Purple Potion</span></a> (When harvested from a Blue Field, then Red Field in order, unknown cooldown)
 <br/>
-<span typeof="mw:Error mw:File"></span>1 <a href="swirled-wax.html"><span class="color-template color-template-swirled-wax color-template-background-clip">Swirled Wax</span></a> (When harvested from <a href="spider-field.html">Spider Field</a>, 1 month cooldown)<br/>
-<span typeof="mw:Error mw:File"></span>1 <a href="caustic-wax.html"><span class="color-template color-template-caustic-wax">Caustic Wax</span></a> (When harvested from <a href="clover-field.html">Clover Field</a>, 1 month cooldown)<br/>
-<span typeof="mw:Error mw:File"></span>1 <a href="sticker.html#Sticker_Index"><span class="color-template color-template-cool-backpack-sticker color-template-background-clip">Cool Backpack Sticker</span></a> (Extremely rare when harvested from <a href="mountain-top-field.html">Mountain Top Field</a>)
+<img alt="Swirled Wax" height="25" src="img/Swirled_Wax.png" width="25"/>1 <a href="swirled-wax.html"><span class="color-template color-template-swirled-wax color-template-background-clip">Swirled Wax</span></a> (When harvested from <a href="spider-field.html">Spider Field</a>, 1 month cooldown)<br/>
+<img alt="Caustic Wax" height="25" src="img/Caustic_Wax.png" width="25"/>1 <a href="caustic-wax.html"><span class="color-template color-template-caustic-wax">Caustic Wax</span></a> (When harvested from <a href="clover-field.html">Clover Field</a>, 1 month cooldown)<br/>
+<img alt="Cool Backpack" height="25" src="img/Cool_Backpack.png" width="25"/>1 <a href="sticker.html#Sticker_Index"><span class="color-template color-template-cool-backpack-sticker color-template-background-clip">Cool Backpack Sticker</span></a> (Extremely rare when harvested from <a href="mountain-top-field.html">Mountain Top Field</a>)
 </p>
 </td></tr></tbody></table>
 
@@ -181,7 +181,7 @@ When claimed, the planter gives up to 16 tokens worth of items. If the planter w
 <tr>
 <th class="NavCategory" rowspan="8">Regular
 </th>
-<td class="NavLinks NavLinksBasicEven" colspan="2"><b><img alt="Sprinkler Builder" height="35" src="img/Sprinkler_Builder.png" width="35"/> <a href="sprinklers.html">Sprinkler Builder</a> • <img alt="Gumdrops" height="35" src="img/Gumdrops.png" width="35"/> <a href="gumdrops.html">Gumdrops</a> • <img alt="Coconut" height="35" src="img/Coconut.png" width="35"/> <a href="coconut.html">Coconut</a> • <img alt="Stinger" height="35" src="img/Stinger.png" width="35"/> <a href="stinger.html">Stinger</a> • <img alt="Micro-Converter" height="35" src="img/Micro-Converter.png" width="35"/> <a href="micro-converter.html">Micro-Converter</a> • <img alt="Honeysuckle" height="35" src="img/Honeysuckle.png" width="35"/> <a href="honeysuckle.html">Honeysuckle</a> • <img alt="Whirligig" height="35" src="img/Whirligig.png" width="35"/> <a href="whirligig.html">Whirligig</a> • <img alt="Jelly Beans" height="35" src="img/Jelly_Beans.png" width="35"/> <a href="jelly-beans.html">Jelly Beans</a> • <img alt="Magic Bean" height="35" src="img/Magic_Bean.png" width="35"/> <a href="magic-bean.html">Magic Bean</a> • <img alt="Cloud Vial" height="35" src="img/Cloud_Vial.png" width="35"/> <a href="cloud-vial.html">Cloud Vial</a> • <img alt="Night Bell" height="35" src="img/Night_Bell.png" width="35"/> <a href="night-bell.html">Night Bell</a> • <img alt="Ant Pass" height="35" src="img/Ant_Pass.png" width="35"/> <a href="ant-pass.html">Ant Pass</a> • <img alt="Robo Pass" height="35" src="img/Robo_Pass.png" width="35"/> <a href="robo-pass.html">Robo Pass</a> • <img alt="Box-O-Frogs" height="35" src="img/Box-O-Frogs.png" width="35"/> <a href="box-o-frogs.html">Box-O-Frogs</a> •  <img alt="Turpentine" height="35" src="img/Turpentine.png" width="35"/> <a href="turpentine.html">Turpentine</a> • <span typeof="mw:Error mw:File"></span> <a href="egg.html">Eggs</a> • <img alt="Royal Jelly" height="35" src="img/Royal_Jelly.png" width="35"/> <a href="royal-jelly.html">Royal Jelly</a> • <img alt="Star Jelly" height="35" src="img/Star_Jelly.png" width="35"/> <a href="royal-jelly.html#Star_Jelly">Star Jelly</a></b> • <img alt="Bloom Shaker" height="35" src="img/Bloom_Shaker.png" width="35"/> <a href="bloom-shaker.html">Bloom Shaker</a><b></b>
+<td class="NavLinks NavLinksBasicEven" colspan="2"><b><img alt="Sprinkler Builder" height="35" src="img/Sprinkler_Builder.png" width="35"/> <a href="sprinklers.html">Sprinkler Builder</a> • <img alt="Gumdrops" height="35" src="img/Gumdrops.png" width="35"/> <a href="gumdrops.html">Gumdrops</a> • <img alt="Coconut" height="35" src="img/Coconut.png" width="35"/> <a href="coconut.html">Coconut</a> • <img alt="Stinger" height="35" src="img/Stinger.png" width="35"/> <a href="stinger.html">Stinger</a> • <img alt="Micro-Converter" height="35" src="img/Micro-Converter.png" width="35"/> <a href="micro-converter.html">Micro-Converter</a> • <img alt="Honeysuckle" height="35" src="img/Honeysuckle.png" width="35"/> <a href="honeysuckle.html">Honeysuckle</a> • <img alt="Whirligig" height="35" src="img/Whirligig.png" width="35"/> <a href="whirligig.html">Whirligig</a> • <img alt="Jelly Beans" height="35" src="img/Jelly_Beans.png" width="35"/> <a href="jelly-beans.html">Jelly Beans</a> • <img alt="Magic Bean" height="35" src="img/Magic_Bean.png" width="35"/> <a href="magic-bean.html">Magic Bean</a> • <img alt="Cloud Vial" height="35" src="img/Cloud_Vial.png" width="35"/> <a href="cloud-vial.html">Cloud Vial</a> • <img alt="Night Bell" height="35" src="img/Night_Bell.png" width="35"/> <a href="night-bell.html">Night Bell</a> • <img alt="Ant Pass" height="35" src="img/Ant_Pass.png" width="35"/> <a href="ant-pass.html">Ant Pass</a> • <img alt="Robo Pass" height="35" src="img/Robo_Pass.png" width="35"/> <a href="robo-pass.html">Robo Pass</a> • <img alt="Box-O-Frogs" height="35" src="img/Box-O-Frogs.png" width="35"/> <a href="box-o-frogs.html">Box-O-Frogs</a> •  <img alt="Turpentine" height="35" src="img/Turpentine.png" width="35"/> <a href="turpentine.html">Turpentine</a> • <img alt="Basic Egg" height="35" src="img/Basic_Egg.png" width="35"/> <a href="egg.html">Eggs</a> • <img alt="Royal Jelly" height="35" src="img/Royal_Jelly.png" width="35"/> <a href="royal-jelly.html">Royal Jelly</a> • <img alt="Star Jelly" height="35" src="img/Star_Jelly.png" width="35"/> <a href="royal-jelly.html#Star_Jelly">Star Jelly</a></b> • <img alt="Bloom Shaker" height="35" src="img/Bloom_Shaker.png" width="35"/> <a href="bloom-shaker.html">Bloom Shaker</a><b></b>
 </td></tr>
 <tr>
 <th class="NavCategory">Crafting Materials

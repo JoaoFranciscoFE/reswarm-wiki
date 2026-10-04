@@ -190,52 +190,52 @@ Guaranteed drops per kill of specific levels:
 <th>Level
 </th></tr>
 <tr>
-<td><span typeof="mw:Error mw:File"></span>3 <a href="ant-pass.html"><span class="color-template color-template-ant-pass color-template-background-clip">Ant Passes</span></a>
+<td><img alt="Ant Pass" height="25" src="img/Ant_Pass.png" width="25"/>3 <a href="ant-pass.html"><span class="color-template color-template-ant-pass color-template-background-clip">Ant Passes</span></a>
 </td>
 <td>4
 </td></tr>
 <tr>
-<td><span typeof="mw:Error mw:File"></span>3 <a href="hard-wax.html"><span class="color-template color-template-hard-wax">Hard Waxes</span></a>
+<td><img alt="Hard Wax" height="25" src="img/Hard_Wax.png" width="25"/>3 <a href="hard-wax.html"><span class="color-template color-template-hard-wax">Hard Waxes</span></a>
 </td>
 <td>5
 </td></tr>
 <tr>
-<td><span typeof="mw:Error mw:File"></span>1 <a href="thumbtack.html"><span class="color-template color-template-thumbtack color-template-background-clip">Thumbtack</span></a>
+<td><img alt="Thumbtack" height="25" src="img/Thumbtack.png" width="25"/>1 <a href="thumbtack.html"><span class="color-template color-template-thumbtack color-template-background-clip">Thumbtack</span></a>
 </td>
 <td>7
 </td></tr>
 <tr>
-<td><span typeof="mw:Error mw:File"></span>1 <a href="invigorating-vial.html"><span class="color-template color-template-invigorating-vial color-template-background-clip">Invigorating Vial</span></a>
+<td><img alt="Invigorating Vial" height="25" src="img/Invigorating_Vial.png" width="25"/>1 <a href="invigorating-vial.html"><span class="color-template color-template-invigorating-vial color-template-background-clip">Invigorating Vial</span></a>
 </td>
 <td>10
 </td></tr>
 <tr>
-<td><span typeof="mw:Error mw:File"></span>1 <a href="robo-pass.html"><span class="color-template color-template-robo-pass color-template-background-clip">Robo Pass</span></a>
+<td><img alt="Robo Pass" height="25" src="img/Robo_Pass.png" width="25"/>1 <a href="robo-pass.html"><span class="color-template color-template-robo-pass color-template-background-clip">Robo Pass</span></a>
 </td>
 <td>11
 </td></tr>
 <tr>
-<td><span typeof="mw:Error mw:File"></span>3 <a href="swirled-wax.html"><span class="color-template color-template-swirled-wax color-template-background-clip">Swirled Waxes</span></a>
+<td><img alt="Swirled Wax" height="25" src="img/Swirled_Wax.png" width="25"/>3 <a href="swirled-wax.html"><span class="color-template color-template-swirled-wax color-template-background-clip">Swirled Waxes</span></a>
 </td>
 <td>13
 </td></tr>
 <tr>
-<td><span typeof="mw:Error mw:File"></span>1 <a href="icicles.html"><span class="color-template color-template-icicles color-template-background-clip">Icicles</span></a>
+<td><img alt="Icicles" height="25" src="img/Icicles.png" width="25"/>1 <a href="icicles.html"><span class="color-template color-template-icicles color-template-background-clip">Icicles</span></a>
 </td>
 <td>15
 </td></tr>
 <tr>
-<td><span typeof="mw:Error mw:File"></span>3 <a href="caustic-wax.html"><span class="color-template color-template-caustic-wax">Caustic Waxes</span></a>
+<td><img alt="Caustic Wax" height="25" src="img/Caustic_Wax.png" width="25"/>3 <a href="caustic-wax.html"><span class="color-template color-template-caustic-wax">Caustic Waxes</span></a>
 </td>
 <td>17
 </td></tr>
 <tr>
-<td><span typeof="mw:Error mw:File"></span>1 <a href="robo-pass.html"><span class="color-template color-template-robo-pass color-template-background-clip">Robo Pass</span></a>
+<td><img alt="Robo Pass" height="25" src="img/Robo_Pass.png" width="25"/>1 <a href="robo-pass.html"><span class="color-template color-template-robo-pass color-template-background-clip">Robo Pass</span></a>
 </td>
 <td>18
 </td></tr>
 <tr>
-<td><span typeof="mw:Error mw:File"></span>1 <a href="snow-tiara.html"><span class="color-template color-template-snow-tiara color-template-background-clip">Snow Tiara</span></a>
+<td><img alt="Snow Tiara" height="25" src="img/Snow_Tiara.png" width="25"/>1 <a href="snow-tiara.html"><span class="color-template color-template-snow-tiara color-template-background-clip">Snow Tiara</span></a>
 </td>
 <td>20
 </td></tr></tbody></table>
@@ -249,67 +249,67 @@ Guaranteed drops per kill of specific levels:
 <th>Level
 </th></tr>
 <tr>
-<td><span typeof="mw:Error mw:File"></span><a href="robo-pass.html"><span class="color-template color-template-robo-pass color-template-background-clip">Robo Pass</span></a>
+<td><img alt="Robo Pass" height="35" src="img/Robo_Pass.png" width="35"/><a href="robo-pass.html"><span class="color-template color-template-robo-pass color-template-background-clip">Robo Pass</span></a>
 </td>
 <td>4
 </td></tr>
 <tr>
-<td><span typeof="mw:Error mw:File"></span>3 <a href="hard-wax.html"><span class="color-template color-template-hard-wax">Hard Waxes</span></a>
+<td><img alt="Hard Wax" height="25" src="img/Hard_Wax.png" width="25"/>3 <a href="hard-wax.html"><span class="color-template color-template-hard-wax">Hard Waxes</span></a>
 </td>
 <td>5
 </td></tr>
 <tr>
-<td><span typeof="mw:Error mw:File"></span><a href="thumbtack.html"><span class="color-template color-template-thumbtack color-template-background-clip">Thumbtack</span></a>
+<td><img alt="Thumbtack" height="35" src="img/Thumbtack.png" width="35"/><a href="thumbtack.html"><span class="color-template color-template-thumbtack color-template-background-clip">Thumbtack</span></a>
 </td>
 <td>7
 </td></tr>
 <tr>
-<td><span typeof="mw:Error mw:File"></span><a href="bang-snap.html"><span class="color-template color-template-bang-snap color-template-background-clip">Bang Snap</span></a>
+<td><img alt="Bang Snap" height="35" src="img/Bang_Snap.png" width="35"/><a href="bang-snap.html"><span class="color-template color-template-bang-snap color-template-background-clip">Bang Snap</span></a>
 </td>
 <td>8
 </td></tr>
 <tr>
-<td><span typeof="mw:Error mw:File"></span><a href="invigorating-vial.html"><span class="color-template color-template-invigorating-vial color-template-background-clip">Invigorating Vial</span></a>
+<td><img alt="Invigorating Vial" height="35" src="img/Invigorating_Vial.png" width="35"/><a href="invigorating-vial.html"><span class="color-template color-template-invigorating-vial color-template-background-clip">Invigorating Vial</span></a>
 </td>
 <td>10
 </td></tr>
 <tr>
-<td><span typeof="mw:Error mw:File"></span><a href="robo-pass.html"><span class="color-template color-template-robo-pass color-template-background-clip">Robo Pass</span></a>
+<td><img alt="Robo Pass" height="35" src="img/Robo_Pass.png" width="35"/><a href="robo-pass.html"><span class="color-template color-template-robo-pass color-template-background-clip">Robo Pass</span></a>
 </td>
 <td>11
 </td></tr>
 <tr>
-<td><span typeof="mw:Error mw:File"></span>3 <a href="swirled-wax.html"><span class="color-template color-template-swirled-wax color-template-background-clip">Swirled Waxes</span></a>
+<td><img alt="Swirled Wax" height="25" src="img/Swirled_Wax.png" width="25"/>3 <a href="swirled-wax.html"><span class="color-template color-template-swirled-wax color-template-background-clip">Swirled Waxes</span></a>
 </td>
 <td>13
 </td></tr>
 <tr>
-<td><span typeof="mw:Error mw:File"></span><a href="icicles.html"><span class="color-template color-template-icicles color-template-background-clip">Icicles</span></a>
+<td><img alt="Icicles" height="35" src="img/Icicles.png" width="35"/><a href="icicles.html"><span class="color-template color-template-icicles color-template-background-clip">Icicles</span></a>
 </td>
 <td>15
 </td></tr>
 <tr>
-<td><span typeof="mw:Error mw:File"></span>3 <a href="caustic-wax.html"><span class="color-template color-template-caustic-wax">Caustic Waxes</span></a>
+<td><img alt="Caustic Wax" height="25" src="img/Caustic_Wax.png" width="25"/>3 <a href="caustic-wax.html"><span class="color-template color-template-caustic-wax">Caustic Waxes</span></a>
 </td>
 <td>17
 </td></tr>
 <tr>
-<td><span typeof="mw:Error mw:File"></span><a href="robo-pass.html"><span class="color-template color-template-robo-pass color-template-background-clip">Robo Pass</span></a>
+<td><img alt="Robo Pass" height="35" src="img/Robo_Pass.png" width="35"/><a href="robo-pass.html"><span class="color-template color-template-robo-pass color-template-background-clip">Robo Pass</span></a>
 </td>
 <td>18
 </td></tr>
 <tr>
-<td><span typeof="mw:Error mw:File"></span><a href="snow-tiara.html"><span class="color-template color-template-snow-tiara color-template-background-clip">Snow Tiara</span></a>
+<td><img alt="Snow Tiara" height="35" src="img/Snow_Tiara.png" width="35"/><a href="snow-tiara.html"><span class="color-template color-template-snow-tiara color-template-background-clip">Snow Tiara</span></a>
 </td>
 <td>20
 </td></tr>
 <tr>
-<td><span typeof="mw:Error mw:File"></span><a href="robo-pass.html"><span class="color-template color-template-robo-pass color-template-background-clip">Robo Pass</span></a>
+<td><img alt="Robo Pass" height="35" src="img/Robo_Pass.png" width="35"/><a href="robo-pass.html"><span class="color-template color-template-robo-pass color-template-background-clip">Robo Pass</span></a>
 </td>
 <td>23
 </td></tr>
 <tr>
-<td><span typeof="mw:Error mw:File"></span><a href="invigorating-vial.html"><span class="color-template color-template-invigorating-vial color-template-background-clip">Invigorating Vial</span></a>
+<td><img alt="Invigorating Vial" height="35" src="img/Invigorating_Vial.png" width="35"/><a href="invigorating-vial.html"><span class="color-template color-template-invigorating-vial color-template-background-clip">Invigorating Vial</span></a>
 </td>
 <td>24
 </td></tr></tbody></table>
@@ -323,42 +323,42 @@ Guaranteed drops per kill of specific levels:
 <th>Level
 </th></tr>
 <tr>
-<td><span typeof="mw:Error mw:File"></span>3 <a href="soft-wax.html"><span class="color-template color-template-soft-wax">Soft Waxes</span></a>
+<td><img alt="Soft Wax" height="25" src="img/Soft_Wax.png" width="25"/>3 <a href="soft-wax.html"><span class="color-template color-template-soft-wax">Soft Waxes</span></a>
 </td>
 <td>3 (?)
 </td></tr>
 <tr>
-<td><span typeof="mw:Error mw:File"></span><a href="single-mitten.html"><span class="color-template color-template-single-mitten color-template-background-clip">Single Mitten</span></a>
+<td><img alt="Single Mitten" height="35" src="img/Single_Mitten.png" width="35"/><a href="single-mitten.html"><span class="color-template color-template-single-mitten color-template-background-clip">Single Mitten</span></a>
 </td>
 <td>5
 </td></tr>
 <tr>
-<td><span typeof="mw:Error mw:File"></span>3 <a href="hard-wax.html"><span class="color-template color-template-hard-wax">Hard Waxes</span></a>
+<td><img alt="Hard Wax" height="25" src="img/Hard_Wax.png" width="25"/>3 <a href="hard-wax.html"><span class="color-template color-template-hard-wax">Hard Waxes</span></a>
 </td>
 <td>7
 </td></tr>
 <tr>
-<td><span typeof="mw:Error mw:File"></span><a href="snowglobe.html"><span class="color-template color-template-snowglobe color-template-background-clip">Snowglobe</span></a>
+<td><img alt="Snowglobe" height="35" src="img/Snowglobe.png" width="35"/><a href="snowglobe.html"><span class="color-template color-template-snowglobe color-template-background-clip">Snowglobe</span></a>
 </td>
 <td>10
 </td></tr>
 <tr>
-<td><span typeof="mw:Error mw:File"></span>3 <a href="swirled-wax.html"><span class="color-template color-template-swirled-wax color-template-background-clip">Swirled Waxes</span></a>
+<td><img alt="Swirled Wax" height="25" src="img/Swirled_Wax.png" width="25"/>3 <a href="swirled-wax.html"><span class="color-template color-template-swirled-wax color-template-background-clip">Swirled Waxes</span></a>
 </td>
 <td>13
 </td></tr>
 <tr>
-<td><span typeof="mw:Error mw:File"></span><a href="icicles.html"><span class="color-template color-template-icicles color-template-background-clip">Icicles</span></a>
+<td><img alt="Icicles" height="35" src="img/Icicles.png" width="35"/><a href="icicles.html"><span class="color-template color-template-icicles color-template-background-clip">Icicles</span></a>
 </td>
 <td>15
 </td></tr>
 <tr>
-<td><span typeof="mw:Error mw:File"></span>3 <a href="caustic-wax.html"><span class="color-template color-template-caustic-wax">Caustic Waxes</span></a>
+<td><img alt="Caustic Wax" height="25" src="img/Caustic_Wax.png" width="25"/>3 <a href="caustic-wax.html"><span class="color-template color-template-caustic-wax">Caustic Waxes</span></a>
 </td>
 <td>17
 </td></tr>
 <tr>
-<td><span typeof="mw:Error mw:File"></span><a href="snow-tiara.html"><span class="color-template color-template-snow-tiara color-template-background-clip">Snow Tiara</span></a>
+<td><img alt="Snow Tiara" height="35" src="img/Snow_Tiara.png" width="35"/><a href="snow-tiara.html"><span class="color-template color-template-snow-tiara color-template-background-clip">Snow Tiara</span></a>
 </td>
 <td>20
 </td></tr></tbody></table>
@@ -372,22 +372,22 @@ Guaranteed drops per kill of specific levels:
 <th>Level
 </th></tr>
 <tr>
-<td><span typeof="mw:Error mw:File"></span><a href="single-mitten.html"><span class="color-template color-template-single-mitten color-template-background-clip">Single Mitten</span></a>
+<td><img alt="Single Mitten" height="35" src="img/Single_Mitten.png" width="35"/><a href="single-mitten.html"><span class="color-template color-template-single-mitten color-template-background-clip">Single Mitten</span></a>
 </td>
 <td>5
 </td></tr>
 <tr>
-<td><span typeof="mw:Error mw:File"></span><a href="snowglobe.html"><span class="color-template color-template-snowglobe color-template-background-clip">Snowglobe</span></a>
+<td><img alt="Snowglobe" height="35" src="img/Snowglobe.png" width="35"/><a href="snowglobe.html"><span class="color-template color-template-snowglobe color-template-background-clip">Snowglobe</span></a>
 </td>
 <td>10
 </td></tr>
 <tr>
-<td><span typeof="mw:Error mw:File"></span><a href="icicles.html"><span class="color-template color-template-icicles color-template-background-clip">Icicles</span></a>
+<td><img alt="Icicles" height="35" src="img/Icicles.png" width="35"/><a href="icicles.html"><span class="color-template color-template-icicles color-template-background-clip">Icicles</span></a>
 </td>
 <td>15
 </td></tr>
 <tr>
-<td><span typeof="mw:Error mw:File"></span><a href="snow-tiara.html"><span class="color-template color-template-snow-tiara color-template-background-clip">Snow Tiara</span></a>
+<td><img alt="Snow Tiara" height="35" src="img/Snow_Tiara.png" width="35"/><a href="snow-tiara.html"><span class="color-template color-template-snow-tiara color-template-background-clip">Snow Tiara</span></a>
 </td>
 <td>20
 </td></tr></tbody></table>

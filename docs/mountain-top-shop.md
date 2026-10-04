@@ -61,9 +61,9 @@ There is a [Royal Jelly](royal-jelly.md) token on the roof and a [Ticket](ticket
 <td><figure class="mw-halign-center" typeof="mw:File"><img alt="Porcelain Port-O-Hive" data-image-key="Porcelain_Port-O-Hive.png" data-image-name="Porcelain Port-O-Hive.png" data-relevant="1" height="80" src="img/Porcelain_Port-O-Hive.png" width="80"/><figcaption></figcaption></figure><div style="text-align: center;"><a href="porcelain-port-o-hive.html">Porcelain Port-O-Hive</a></div>
 </td>
 <td><span typeof="mw:Error mw:File"></span>250,000,000 <a href="honey.html"><span class="color-template color-template-honey">Honey</span></a><br/>
-<p><span typeof="mw:Error mw:File"></span>3 <a href="glitter.html"><span class="color-template color-template-glitter color-template-background-clip">Glitter</span></a><br/>
-<span typeof="mw:Error mw:File"></span>3 <a href="soft-wax.html"><span class="color-template color-template-soft-wax">Soft Waxes</span></a><br/>
-<span typeof="mw:Error mw:File"></span>10 <a href="moon-charm.html"><span class="color-template color-template-moon-charm color-template-background-clip">Moon Charms</span></a>
+<p><img alt="Glitter" height="25" src="img/Glitter.png" width="25"/>3 <a href="glitter.html"><span class="color-template color-template-glitter color-template-background-clip">Glitter</span></a><br/>
+<img alt="Soft Wax" height="25" src="img/Soft_Wax.png" width="25"/>3 <a href="soft-wax.html"><span class="color-template color-template-soft-wax">Soft Waxes</span></a><br/>
+<img alt="Moon Charm" height="25" src="img/Moon_Charm.png" width="25"/>10 <a href="moon-charm.html"><span class="color-template color-template-moon-charm color-template-background-clip">Moon Charms</span></a>
 </p>
 </td>
 <td>A rare and precious Port-O-Hive that boosts <a href="system-page.html#White_Pollen">white pollen</a>.
@@ -90,9 +90,9 @@ There is a [Royal Jelly](royal-jelly.md) token on the roof and a [Ticket](ticket
 <td><figure class="mw-halign-center" typeof="mw:File"><img alt="Beekeeper's Mask" data-image-key="Beekeeper%27s_Mask.png" data-image-name="Beekeeper's Mask.png" data-relevant="1" height="80" src="img/Beekeeper's_Mask.png" width="80"/><figcaption></figcaption></figure><div style="text-align: center;"><a href="beekeeper-s-mask.html">Beekeeper's Mask</a></div>
 </td>
 <td><span typeof="mw:Error mw:File"></span>20,000,000 <a href="honey.html"><span class="color-template color-template-honey">Honey</span></a><br/>
-<p><span typeof="mw:Error mw:File"></span>5 <a href="enzymes.html"><span class="color-template color-template-enzymes color-template-background-clip">Enzymes</span></a><br/>
-<span typeof="mw:Error mw:File"></span>3 <a href="glue.html"><span class="color-template color-template-glue color-template-background-clip">Glues</span></a><br/>
-<span typeof="mw:Error mw:File"></span>1 <a href="glitter.html"><span class="color-template color-template-glitter color-template-background-clip">Glitter</span></a>
+<p><img alt="Enzymes" height="25" src="img/Enzymes.png" width="25"/>5 <a href="enzymes.html"><span class="color-template color-template-enzymes color-template-background-clip">Enzymes</span></a><br/>
+<img alt="Glue" height="25" src="img/Glue.png" width="25"/>3 <a href="glue.html"><span class="color-template color-template-glue color-template-background-clip">Glues</span></a><br/>
+<img alt="Glitter" height="25" src="img/Glitter.png" width="25"/>1 <a href="glitter.html"><span class="color-template color-template-glitter color-template-background-clip">Glitter</span></a>
 </p>
 </td>
 <td>A veiled hat only worn by real-deal beekeepers.
@@ -105,10 +105,10 @@ There is a [Royal Jelly](royal-jelly.md) token on the roof and a [Ticket](ticket
 <td><figure class="mw-halign-center" typeof="mw:File"><img alt="Mondo Belt Bag" data-image-key="Mondo_Belt_Bag.png" data-image-name="Mondo Belt Bag.png" data-relevant="1" height="80" src="img/Mondo_Belt_Bag.png" width="80"/><figcaption></figcaption></figure><div style="text-align: center;"><a href="mondo-belt-bag.html">Mondo Belt Bag</a></div>
 </td>
 <td><span typeof="mw:Error mw:File"></span>12,400,000 <a href="honey.html"><span class="color-template color-template-honey">Honey</span></a><br/>
-<p><span typeof="mw:Error mw:File"></span>150 <a href="pineapple.html"><span class="color-template color-template-pineapple color-template-background-clip">Pineapples</span></a><br/>
-<span typeof="mw:Error mw:File"></span>150 <a href="sunflower-seed.html"><span class="color-template color-template-sunflower-seed color-template-background-clip">Sunflower Seeds</span></a><br/>
-<span typeof="mw:Error mw:File"></span>10 <a href="stinger.html"><span class="color-template color-template-stinger color-template-background-clip">Stingers</span></a><br/>
-<span typeof="mw:Error mw:File"></span>1 <a href="soft-wax.html"><span class="color-template color-template-soft-wax">Soft Wax</span></a>
+<p><img alt="Pineapple" height="25" src="img/Pineapple.png" width="25"/>150 <a href="pineapple.html"><span class="color-template color-template-pineapple color-template-background-clip">Pineapples</span></a><br/>
+<img alt="Sunflower Seed" height="25" src="img/Sunflower_Seed.png" width="25"/>150 <a href="sunflower-seed.html"><span class="color-template color-template-sunflower-seed color-template-background-clip">Sunflower Seeds</span></a><br/>
+<img alt="Stinger" height="25" src="img/Stinger.png" width="25"/>10 <a href="stinger.html"><span class="color-template color-template-stinger color-template-background-clip">Stingers</span></a><br/>
+<img alt="Soft Wax" height="25" src="img/Soft_Wax.png" width="25"/>1 <a href="soft-wax.html"><span class="color-template color-template-soft-wax">Soft Wax</span></a>
 </p>
 </td>
 <td>A highly-embelished [sic] Belt Bag imported from a far away land.
@@ -122,9 +122,9 @@ There is a [Royal Jelly](royal-jelly.md) token on the roof and a [Ticket](ticket
 <td><figure class="mw-halign-center" typeof="mw:File"><img alt="Beekeeper's Boots" data-image-key="Beekeeper%27s_Boots.png" data-image-name="Beekeeper's Boots.png" data-relevant="1" height="80" src="img/Beekeeper's_Boots.png" width="80"/><figcaption></figcaption></figure><div style="text-align: center;"><a href="beekeeper-s-boots.html">Beekeeper's Boots</a></div>
 </td>
 <td><span typeof="mw:Error mw:File"></span>15,000,000 <a href="honey.html"><span class="color-template color-template-honey">Honey</span></a><br/>
-<p><span typeof="mw:Error mw:File"></span>5 <a href="oil.html"><span class="color-template color-template-oil color-template-background-clip">Oils</span></a><br/>
-<span typeof="mw:Error mw:File"></span>3 <a href="blue-extract.html"><span class="color-template color-template-blue-extract color-template-background-clip">Blue Extracts</span></a><br/>
-<span typeof="mw:Error mw:File"></span>3 <a href="red-extract.html"><span class="color-template color-template-red-extract color-template-background-clip">Red Extracts</span></a>
+<p><img alt="Oil" height="25" src="img/Oil.png" width="25"/>5 <a href="oil.html"><span class="color-template color-template-oil color-template-background-clip">Oils</span></a><br/>
+<img alt="Blue Extract" height="25" src="img/Blue_Extract.png" width="25"/>3 <a href="blue-extract.html"><span class="color-template color-template-blue-extract color-template-background-clip">Blue Extracts</span></a><br/>
+<img alt="Red Extract" height="25" src="img/Red_Extract.png" width="25"/>3 <a href="red-extract.html"><span class="color-template color-template-red-extract color-template-background-clip">Red Extracts</span></a>
 </p>
 </td>
 <td>Practical and stylish boots that aid in the beekeeping process.

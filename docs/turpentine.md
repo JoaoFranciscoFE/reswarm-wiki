@@ -64,7 +64,7 @@ Total required for all single-purchase items: 35 **Turpentines**
 <caption>
 </caption>
 <tbody><tr>
-<th style="text-align: center"><span typeof="mw:Error mw:File"></span><strong class="mw-selflink selflink"><span class="color-template color-template-turpentine color-template-background-clip">Turpentines</span></strong>
+<th style="text-align: center"><img alt="Turpentine" height="35" src="img/Turpentine.png" width="35"/><strong class="mw-selflink selflink"><span class="color-template color-template-turpentine color-template-background-clip">Turpentines</span></strong>
 </th>
 <th>Other ingredients
 </th>
@@ -74,10 +74,10 @@ Total required for all single-purchase items: 35 **Turpentines**
 <td><div style="text-align: center;">1
 </div></td>
 <td><span typeof="mw:Error mw:File"></span><span style="border-bottom:1px dotted;" title="750,000,000,000">750B</span> <a href="honey.html"><span class="color-template color-template-honey">Honey</span></a><br/>
-<p><span typeof="mw:Error mw:File"></span>75 <a href="magic-bean.html"><span class="color-template color-template-magic-bean color-template-background-clip">Magic Beans</span></a><br/>
-<span typeof="mw:Error mw:File"></span>750 <a href="blue-extract.html"><span class="color-template color-template-blue-extract color-template-background-clip">Blue Extracts</span></a><br/>
-<span typeof="mw:Error mw:File"></span>500 <a href="soft-wax.html"><span class="color-template color-template-soft-wax">Soft Waxes</span></a><br/>
-<span typeof="mw:Error mw:File"></span>25 <a href="caustic-wax.html"><span class="color-template color-template-caustic-wax">Caustic Waxes</span></a>
+<p><img alt="Magic Bean" height="25" src="img/Magic_Bean.png" width="25"/>75 <a href="magic-bean.html"><span class="color-template color-template-magic-bean color-template-background-clip">Magic Beans</span></a><br/>
+<img alt="Blue Extract" height="25" src="img/Blue_Extract.png" width="25"/>750 <a href="blue-extract.html"><span class="color-template color-template-blue-extract color-template-background-clip">Blue Extracts</span></a><br/>
+<img alt="Soft Wax" height="25" src="img/Soft_Wax.png" width="25"/>500 <a href="soft-wax.html"><span class="color-template color-template-soft-wax">Soft Waxes</span></a><br/>
+<img alt="Caustic Wax" height="25" src="img/Caustic_Wax.png" width="25"/>25 <a href="caustic-wax.html"><span class="color-template color-template-caustic-wax">Caustic Waxes</span></a>
 </p>
 </td>
 <td><figure class="mw-halign-center" typeof="mw:Error mw:File"><figcaption></figcaption></figure><div style="text-align: center;"><a href="hydroponic-planter.html"><span class="color-template color-template-hydroponic-planter color-template-background-clip">Hydroponic Planter</span></a>
@@ -86,10 +86,10 @@ Total required for all single-purchase items: 35 **Turpentines**
 <td><div style="text-align: center;">1
 </div></td>
 <td><span typeof="mw:Error mw:File"></span><span style="border-bottom:1px dotted;" title="750,000,000,000">750B</span> <a href="honey.html"><span class="color-template color-template-honey">Honey</span></a><br/>
-<p><span typeof="mw:Error mw:File"></span>75 <a href="magic-bean.html"><span class="color-template color-template-magic-bean color-template-background-clip">Magic Beans</span></a><br/>
-<span typeof="mw:Error mw:File"></span>750 <a href="red-extract.html"><span class="color-template color-template-red-extract color-template-background-clip">Red Extracts</span></a><br/>
-<span typeof="mw:Error mw:File"></span>150 <a href="hard-wax.html"><span class="color-template color-template-hard-wax">Hard Waxes</span></a><br/>
-<span typeof="mw:Error mw:File"></span>25 <a href="swirled-wax.html"><span class="color-template color-template-swirled-wax color-template-background-clip">Swirled Waxes</span></a>
+<p><img alt="Magic Bean" height="25" src="img/Magic_Bean.png" width="25"/>75 <a href="magic-bean.html"><span class="color-template color-template-magic-bean color-template-background-clip">Magic Beans</span></a><br/>
+<img alt="Red Extract" height="25" src="img/Red_Extract.png" width="25"/>750 <a href="red-extract.html"><span class="color-template color-template-red-extract color-template-background-clip">Red Extracts</span></a><br/>
+<img alt="Hard Wax" height="25" src="img/Hard_Wax.png" width="25"/>150 <a href="hard-wax.html"><span class="color-template color-template-hard-wax">Hard Waxes</span></a><br/>
+<img alt="Swirled Wax" height="25" src="img/Swirled_Wax.png" width="25"/>25 <a href="swirled-wax.html"><span class="color-template color-template-swirled-wax color-template-background-clip">Swirled Waxes</span></a>
 </p>
 </td>
 <td><figure class="mw-halign-center" typeof="mw:Error mw:File"><figcaption></figcaption></figure><div style="text-align: center;"><a href="heat-treated-planter.html"><span class="color-template color-template-heat-treated-planter color-template-background-clip">Heat-Treated Planter</span></a>
@@ -98,11 +98,11 @@ Total required for all single-purchase items: 35 **Turpentines**
 <td><div style="text-align: center;">3
 </div></td>
 <td><span typeof="mw:Error mw:File"></span><span style="border-bottom:1px dotted;" title="7,500,000,000,000">7.5T</span> <a href="honey.html"><span class="color-template color-template-honey">Honey</span></a><br/>
-<p><span typeof="mw:Error mw:File"></span>500 <a href="coconut.html"><span class="color-template color-template-coconut color-template-background-clip">Coconuts</span></a><br/>
-<span typeof="mw:Error mw:File"></span>1,500 <a href="tropical-drink.html"><span class="color-template color-template-tropical-drink color-template-background-clip">Tropical Drinks</span></a><br/>
-<span typeof="mw:Error mw:File"></span>200 <a href="purple-potion.html"><span class="color-template color-template-purple-potion color-template-background-clip">Purple Potions</span></a><br/>
-<span typeof="mw:Error mw:File"></span>200 <a href="hard-wax.html"><span class="color-template color-template-hard-wax">Hard Waxes</span></a><br/>
-<span typeof="mw:Error mw:File"></span>3 <a href="refreshing-vial.html"><span class="color-template color-template-refreshing-vial color-template-background-clip">Refreshing Vials</span></a>
+<p><img alt="Coconut" height="25" src="img/Coconut.png" width="25"/>500 <a href="coconut.html"><span class="color-template color-template-coconut color-template-background-clip">Coconuts</span></a><br/>
+<img alt="Tropical Drink" height="25" src="img/Tropical_Drink.png" width="25"/>1,500 <a href="tropical-drink.html"><span class="color-template color-template-tropical-drink color-template-background-clip">Tropical Drinks</span></a><br/>
+<img alt="Purple Potion" height="25" src="img/Purple_Potion.png" width="25"/>200 <a href="purple-potion.html"><span class="color-template color-template-purple-potion color-template-background-clip">Purple Potions</span></a><br/>
+<img alt="Hard Wax" height="25" src="img/Hard_Wax.png" width="25"/>200 <a href="hard-wax.html"><span class="color-template color-template-hard-wax">Hard Waxes</span></a><br/>
+<img alt="Refreshing Vial" height="25" src="img/Refreshing_Vial.png" width="25"/>3 <a href="refreshing-vial.html"><span class="color-template color-template-refreshing-vial color-template-background-clip">Refreshing Vials</span></a>
 </p>
 </td>
 <td><figure class="mw-halign-center" typeof="mw:File"><img alt="Coconut Belt" data-image-key="Coconut_Belt.png" data-image-name="Coconut Belt.png" data-relevant="1" height="80" src="img/Coconut_Belt.png" width="80"/><figcaption></figcaption></figure><div style="text-align: center;"><a href="coconut-belt.html">Coconut Belt</a>
@@ -111,11 +111,11 @@ Total required for all single-purchase items: 35 **Turpentines**
 <td><div style="text-align: center;">5
 </div></td>
 <td><span typeof="mw:Error mw:File"></span><span style="border-bottom:1px dotted;" title="10,000,000,000,000">10T</span> <a href="honey.html"><span class="color-template color-template-honey">Honey</span></a><br/>
-<p><span typeof="mw:Error mw:File"></span>1,500 <a href="glue.html"><span class="color-template color-template-glue color-template-background-clip">Glues</span></a><br/>
-<span typeof="mw:Error mw:File"></span>2,000 <a href="gumdrops.html"><span class="color-template color-template-gumdrops color-template-background-clip">Gumdrops</span></a><br/>
-<span typeof="mw:Error mw:File"></span>50 <a href="caustic-wax.html"><span class="color-template color-template-caustic-wax">Caustic Waxes</span></a><br/>
-<span typeof="mw:Error mw:File"></span>50 <a href="super-smoothie.html"><span class="color-template color-template-super-smoothie color-template-background-clip">Super Smoothies</span></a>
-<span typeof="mw:Error mw:File"></span>3 <a href="satisfying-vial.html"><span class="color-template color-template-satisfying-vial color-template-background-clip">Satisfying Vials</span></a>
+<p><img alt="Glue" height="25" src="img/Glue.png" width="25"/>1,500 <a href="glue.html"><span class="color-template color-template-glue color-template-background-clip">Glues</span></a><br/>
+<img alt="Gumdrops" height="25" src="img/Gumdrops.png" width="25"/>2,000 <a href="gumdrops.html"><span class="color-template color-template-gumdrops color-template-background-clip">Gumdrops</span></a><br/>
+<img alt="Caustic Wax" height="25" src="img/Caustic_Wax.png" width="25"/>50 <a href="caustic-wax.html"><span class="color-template color-template-caustic-wax">Caustic Waxes</span></a><br/>
+<img alt="Super Smoothie" height="25" src="img/Super_Smoothie.png" width="25"/>50 <a href="super-smoothie.html"><span class="color-template color-template-super-smoothie color-template-background-clip">Super Smoothies</span></a>
+<img alt="Satisfying Vial" height="25" src="img/Satisfying_Vial.png" width="25"/>3 <a href="satisfying-vial.html"><span class="color-template color-template-satisfying-vial color-template-background-clip">Satisfying Vials</span></a>
 </p>
 </td>
 <td><figure class="mw-halign-center" typeof="mw:Error mw:File"><figcaption></figcaption></figure><div style="text-align: center;"><a href="gummyballer.html">Gummyballer</a>
@@ -124,10 +124,10 @@ Total required for all single-purchase items: 35 **Turpentines**
 <td><div style="text-align: center;">25
 </div></td>
 <td><span typeof="mw:Error mw:File"></span><span style="border-bottom:1px dotted;" title="100,000,000,000,000">100T</span> <a href="honey.html"><span class="color-template color-template-honey">Honey</span></a><br/>
-<p><span typeof="mw:Error mw:File"></span>500 <a href="magic-bean.html"><span class="color-template color-template-magic-bean color-template-background-clip">Magic Beans</span></a><br/>
-<span typeof="mw:Error mw:File"></span>100 <a href="super-smoothie.html"><span class="color-template color-template-super-smoothie color-template-background-clip">Super Smoothies</span></a><br/>
-<span typeof="mw:Error mw:File"></span>100 <a href="swirled-wax.html"><span class="color-template color-template-swirled-wax color-template-background-clip">Swirled Waxes</span></a><br/>
-<span typeof="mw:Error mw:File"></span>100 <a href="caustic-wax.html"><span class="color-template color-template-caustic-wax">Caustic Waxes</span></a>
+<p><img alt="Magic Bean" height="25" src="img/Magic_Bean.png" width="25"/>500 <a href="magic-bean.html"><span class="color-template color-template-magic-bean color-template-background-clip">Magic Beans</span></a><br/>
+<img alt="Super Smoothie" height="25" src="img/Super_Smoothie.png" width="25"/>100 <a href="super-smoothie.html"><span class="color-template color-template-super-smoothie color-template-background-clip">Super Smoothies</span></a><br/>
+<img alt="Swirled Wax" height="25" src="img/Swirled_Wax.png" width="25"/>100 <a href="swirled-wax.html"><span class="color-template color-template-swirled-wax color-template-background-clip">Swirled Waxes</span></a><br/>
+<img alt="Caustic Wax" height="25" src="img/Caustic_Wax.png" width="25"/>100 <a href="caustic-wax.html"><span class="color-template color-template-caustic-wax">Caustic Waxes</span></a>
 </p>
 </td>
 <td><figure class="mw-halign-center" typeof="mw:Error mw:File"><figcaption></figcaption></figure><div style="text-align: center;"><a href="the-planter-of-plenty.html"><span class="color-template color-template-the-planter-of-plenty color-template-background-clip">The Planter Of Plenty</span></a>
@@ -171,7 +171,7 @@ Total required for all single-purchase items: 35 **Turpentines**
 <tr>
 <th class="NavCategory" rowspan="8">Regular
 </th>
-<td class="NavLinks NavLinksBasicEven" colspan="2"><b><img alt="Sprinkler Builder" height="35" src="img/Sprinkler_Builder.png" width="35"/> <a href="sprinklers.html">Sprinkler Builder</a> • <img alt="Gumdrops" height="35" src="img/Gumdrops.png" width="35"/> <a href="gumdrops.html">Gumdrops</a> • <img alt="Coconut" height="35" src="img/Coconut.png" width="35"/> <a href="coconut.html">Coconut</a> • <img alt="Stinger" height="35" src="img/Stinger.png" width="35"/> <a href="stinger.html">Stinger</a> • <img alt="Micro-Converter" height="35" src="img/Micro-Converter.png" width="35"/> <a href="micro-converter.html">Micro-Converter</a> • <img alt="Honeysuckle" height="35" src="img/Honeysuckle.png" width="35"/> <a href="honeysuckle.html">Honeysuckle</a> • <img alt="Whirligig" height="35" src="img/Whirligig.png" width="35"/> <a href="whirligig.html">Whirligig</a> • <img alt="Jelly Beans" height="35" src="img/Jelly_Beans.png" width="35"/> <a href="jelly-beans.html">Jelly Beans</a> • <img alt="Magic Bean" height="35" src="img/Magic_Bean.png" width="35"/> <a href="magic-bean.html">Magic Bean</a> • <img alt="Cloud Vial" height="35" src="img/Cloud_Vial.png" width="35"/> <a href="cloud-vial.html">Cloud Vial</a> • <img alt="Night Bell" height="35" src="img/Night_Bell.png" width="35"/> <a href="night-bell.html">Night Bell</a> • <img alt="Ant Pass" height="35" src="img/Ant_Pass.png" width="35"/> <a href="ant-pass.html">Ant Pass</a> • <img alt="Robo Pass" height="35" src="img/Robo_Pass.png" width="35"/> <a href="robo-pass.html">Robo Pass</a> • <img alt="Box-O-Frogs" height="35" src="img/Box-O-Frogs.png" width="35"/> <a href="box-o-frogs.html">Box-O-Frogs</a> •  <img alt="Turpentine" height="35" src="img/Turpentine.png" width="35"/> <strong class="mw-selflink selflink">Turpentine</strong> • <span typeof="mw:Error mw:File"></span> <a href="egg.html">Eggs</a> • <img alt="Royal Jelly" height="35" src="img/Royal_Jelly.png" width="35"/> <a href="royal-jelly.html">Royal Jelly</a> • <img alt="Star Jelly" height="35" src="img/Star_Jelly.png" width="35"/> <a href="royal-jelly.html#Star_Jelly">Star Jelly</a></b> • <img alt="Bloom Shaker" height="35" src="img/Bloom_Shaker.png" width="35"/> <a href="bloom-shaker.html">Bloom Shaker</a><b></b>
+<td class="NavLinks NavLinksBasicEven" colspan="2"><b><img alt="Sprinkler Builder" height="35" src="img/Sprinkler_Builder.png" width="35"/> <a href="sprinklers.html">Sprinkler Builder</a> • <img alt="Gumdrops" height="35" src="img/Gumdrops.png" width="35"/> <a href="gumdrops.html">Gumdrops</a> • <img alt="Coconut" height="35" src="img/Coconut.png" width="35"/> <a href="coconut.html">Coconut</a> • <img alt="Stinger" height="35" src="img/Stinger.png" width="35"/> <a href="stinger.html">Stinger</a> • <img alt="Micro-Converter" height="35" src="img/Micro-Converter.png" width="35"/> <a href="micro-converter.html">Micro-Converter</a> • <img alt="Honeysuckle" height="35" src="img/Honeysuckle.png" width="35"/> <a href="honeysuckle.html">Honeysuckle</a> • <img alt="Whirligig" height="35" src="img/Whirligig.png" width="35"/> <a href="whirligig.html">Whirligig</a> • <img alt="Jelly Beans" height="35" src="img/Jelly_Beans.png" width="35"/> <a href="jelly-beans.html">Jelly Beans</a> • <img alt="Magic Bean" height="35" src="img/Magic_Bean.png" width="35"/> <a href="magic-bean.html">Magic Bean</a> • <img alt="Cloud Vial" height="35" src="img/Cloud_Vial.png" width="35"/> <a href="cloud-vial.html">Cloud Vial</a> • <img alt="Night Bell" height="35" src="img/Night_Bell.png" width="35"/> <a href="night-bell.html">Night Bell</a> • <img alt="Ant Pass" height="35" src="img/Ant_Pass.png" width="35"/> <a href="ant-pass.html">Ant Pass</a> • <img alt="Robo Pass" height="35" src="img/Robo_Pass.png" width="35"/> <a href="robo-pass.html">Robo Pass</a> • <img alt="Box-O-Frogs" height="35" src="img/Box-O-Frogs.png" width="35"/> <a href="box-o-frogs.html">Box-O-Frogs</a> •  <img alt="Turpentine" height="35" src="img/Turpentine.png" width="35"/> <strong class="mw-selflink selflink">Turpentine</strong> • <img alt="Basic Egg" height="35" src="img/Basic_Egg.png" width="35"/> <a href="egg.html">Eggs</a> • <img alt="Royal Jelly" height="35" src="img/Royal_Jelly.png" width="35"/> <a href="royal-jelly.html">Royal Jelly</a> • <img alt="Star Jelly" height="35" src="img/Star_Jelly.png" width="35"/> <a href="royal-jelly.html#Star_Jelly">Star Jelly</a></b> • <img alt="Bloom Shaker" height="35" src="img/Bloom_Shaker.png" width="35"/> <a href="bloom-shaker.html">Bloom Shaker</a><b></b>
 </td></tr>
 <tr>
 <th class="NavCategory">Crafting Materials

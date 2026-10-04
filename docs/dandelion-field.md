@@ -42,10 +42,10 @@ This field can produce [honey](honey.md), [red boost](ability-tokens.md#Boost), 
 <th>Item Drops list
 </th></tr>
 <tr>
-<td><span typeof="mw:Error mw:File"></span><a href="treat.html"><span class="color-template color-template-treat">Treat</span></a> (<span style="border-bottom:1px dotted;" title="1 in 5">20%</span> Chance)<br/>
-<p><span typeof="mw:Error mw:File"></span><a href="glue.html"><span class="color-template color-template-glue color-template-background-clip">Glue</span></a> (<span style="border-bottom:1px dotted;" title="1 in 10,000">0.01%</span> Chance)<br/>
-<span typeof="mw:Error mw:File"></span><a href="magic-bean.html"><span class="color-template color-template-magic-bean color-template-background-clip">Magic Bean</span></a> (<span style="border-bottom:1px dotted;" title="1 in 17,000">0.0059%</span> Chance)<br/>
-<span typeof="mw:Error mw:File"></span><a href="glitter.html"><span class="color-template color-template-glitter color-template-background-clip">Glitter</span></a> (<span style="border-bottom:1px dotted;" title="1 in 20,000">0.005%</span> Chance)
+<td><img alt="Treat" height="35" src="img/Treat.png" width="35"/><a href="treat.html"><span class="color-template color-template-treat">Treat</span></a> (<span style="border-bottom:1px dotted;" title="1 in 5">20%</span> Chance)<br/>
+<p><img alt="Glue" height="35" src="img/Glue.png" width="35"/><a href="glue.html"><span class="color-template color-template-glue color-template-background-clip">Glue</span></a> (<span style="border-bottom:1px dotted;" title="1 in 10,000">0.01%</span> Chance)<br/>
+<img alt="Magic Bean" height="35" src="img/Magic_Bean.png" width="35"/><a href="magic-bean.html"><span class="color-template color-template-magic-bean color-template-background-clip">Magic Bean</span></a> (<span style="border-bottom:1px dotted;" title="1 in 17,000">0.0059%</span> Chance)<br/>
+<img alt="Glitter" height="35" src="img/Glitter.png" width="35"/><a href="glitter.html"><span class="color-template color-template-glitter color-template-background-clip">Glitter</span></a> (<span style="border-bottom:1px dotted;" title="1 in 20,000">0.005%</span> Chance)
 </p>
 </td></tr></tbody></table>
 

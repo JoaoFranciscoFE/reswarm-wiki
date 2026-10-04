@@ -114,10 +114,10 @@ Outside, it is decorated with the Badge icon in the menu on top of the entrance,
 <td><figure class="mw-halign-center" typeof="mw:File"><img alt="Honey Mask" data-image-key="Honey_Mask.png" data-image-name="Honey Mask.png" data-relevant="1" height="80" src="img/Honey_Mask.png" width="80"/><figcaption></figcaption></figure><div style="text-align: center;"><a href="honey-mask.html">Honey Mask</a></div>
 </td>
 <td><span typeof="mw:Error mw:File"></span>100,000,000 <a href="honey.html"><span class="color-template color-template-honey">Honey</span></a><br/>
-<p><span typeof="mw:Error mw:File"></span>9,999 <a href="treat.html"><span class="color-template color-template-treat">Treats</span></a><br/>
-<span typeof="mw:Error mw:File"></span>50 <a href="oil.html"><span class="color-template color-template-oil color-template-background-clip">Oils</span></a><br/>
-<span typeof="mw:Error mw:File"></span>25 <a href="enzymes.html"><span class="color-template color-template-enzymes color-template-background-clip">Enzymes</span></a><br/>
-<span typeof="mw:Error mw:File"></span>5 <a href="egg.html#Gold_Egg"><span class="color-template color-template-gold-egg color-template-background-clip">Gold Eggs</span></a>
+<p><img alt="Treat" height="25" src="img/Treat.png" width="25"/>9,999 <a href="treat.html"><span class="color-template color-template-treat">Treats</span></a><br/>
+<img alt="Oil" height="25" src="img/Oil.png" width="25"/>50 <a href="oil.html"><span class="color-template color-template-oil color-template-background-clip">Oils</span></a><br/>
+<img alt="Enzymes" height="25" src="img/Enzymes.png" width="25"/>25 <a href="enzymes.html"><span class="color-template color-template-enzymes color-template-background-clip">Enzymes</span></a><br/>
+<img alt="Gold Egg" height="25" src="img/Gold_Egg.png" width="25"/>5 <a href="egg.html#Gold_Egg"><span class="color-template color-template-gold-egg color-template-background-clip">Gold Eggs</span></a>
 </p>
 </td>
 <td>"This handsome mask is guaranteed to bring satisfaction into your life."
@@ -134,10 +134,10 @@ Outside, it is decorated with the Badge icon in the menu on top of the entrance,
 <td><figure class="mw-halign-center" typeof="mw:File"><img alt="Cobalt Guard" data-image-key="Cobalt_Guard.png" data-image-name="Cobalt Guard.png" data-relevant="1" height="80" src="img/Cobalt_Guard.png" width="80"/><figcaption></figcaption></figure><div style="text-align: center;"><a href="cobalt-guard.html">Cobalt Guard</a></div>
 </td>
 <td><span typeof="mw:Error mw:File"></span>200,000,000 <a href="honey.html"><span class="color-template color-template-honey">Honey</span></a><br/>
-<p><span typeof="mw:Error mw:File"></span>100 <a href="blue-extract.html"><span class="color-template color-template-blue-extract color-template-background-clip">Blue Extracts</span></a><br/>
-<span typeof="mw:Error mw:File"></span>100 <a href="stinger.html"><span class="color-template color-template-stinger color-template-background-clip">Stingers</span></a><br/>
-<span typeof="mw:Error mw:File"></span>50 <a href="enzymes.html"><span class="color-template color-template-enzymes color-template-background-clip">Enzymes</span></a><br/>
-<span typeof="mw:Error mw:File"></span>25 <a href="glitter.html"><span class="color-template color-template-glitter color-template-background-clip">Glitter</span></a>
+<p><img alt="Blue Extract" height="25" src="img/Blue_Extract.png" width="25"/>100 <a href="blue-extract.html"><span class="color-template color-template-blue-extract color-template-background-clip">Blue Extracts</span></a><br/>
+<img alt="Stinger" height="25" src="img/Stinger.png" width="25"/>100 <a href="stinger.html"><span class="color-template color-template-stinger color-template-background-clip">Stingers</span></a><br/>
+<img alt="Enzymes" height="25" src="img/Enzymes.png" width="25"/>50 <a href="enzymes.html"><span class="color-template color-template-enzymes color-template-background-clip">Enzymes</span></a><br/>
+<img alt="Glitter" height="25" src="img/Glitter.png" width="25"/>25 <a href="glitter.html"><span class="color-template color-template-glitter color-template-background-clip">Glitter</span></a>
 </p>
 </td>
 <td>A guard bestowed with the heroic power of Cobalt Bee - Defender of the Blue Bees.
@@ -153,10 +153,10 @@ Outside, it is decorated with the Badge icon in the menu on top of the entrance,
 <td><figure class="mw-halign-center" typeof="mw:File"><img alt="Crimson Guard" data-image-key="Crimson_Guard.png" data-image-name="Crimson Guard.png" data-relevant="1" height="80" src="img/Crimson_Guard.png" width="80"/><figcaption></figcaption></figure><div style="text-align: center;"><a href="crimson-guard.html">Crimson Guard</a></div>
 </td>
 <td><span typeof="mw:Error mw:File"></span>200,000,000 <a href="honey.html"><span class="color-template color-template-honey">Honey</span></a><br/>
-<p><span typeof="mw:Error mw:File"></span>100 <a href="red-extract.html"><span class="color-template color-template-red-extract color-template-background-clip">Red Extracts</span></a><br/>
-<span typeof="mw:Error mw:File"></span>100 <a href="stinger.html"><span class="color-template color-template-stinger color-template-background-clip">Stingers</span></a><br/>
-<span typeof="mw:Error mw:File"></span>50 <a href="oil.html"><span class="color-template color-template-oil color-template-background-clip">Oils</span></a><br/>
-<span typeof="mw:Error mw:File"></span>25 <a href="glitter.html"><span class="color-template color-template-glitter color-template-background-clip">Glitter</span></a>
+<p><img alt="Red Extract" height="25" src="img/Red_Extract.png" width="25"/>100 <a href="red-extract.html"><span class="color-template color-template-red-extract color-template-background-clip">Red Extracts</span></a><br/>
+<img alt="Stinger" height="25" src="img/Stinger.png" width="25"/>100 <a href="stinger.html"><span class="color-template color-template-stinger color-template-background-clip">Stingers</span></a><br/>
+<img alt="Oil" height="25" src="img/Oil.png" width="25"/>50 <a href="oil.html"><span class="color-template color-template-oil color-template-background-clip">Oils</span></a><br/>
+<img alt="Glitter" height="25" src="img/Glitter.png" width="25"/>25 <a href="glitter.html"><span class="color-template color-template-glitter color-template-background-clip">Glitter</span></a>
 </p>
 </td>
 <td>A guard bestowed with the heroic power of Crimson Bee - Defender of the Red Bees.
@@ -172,9 +172,9 @@ Outside, it is decorated with the Badge icon in the menu on top of the entrance,
 <td><figure class="mw-halign-center" typeof="mw:File"><img alt="Honeycomb Belt" data-image-key="Honeycomb_Belt.png" data-image-name="Honeycomb Belt.png" data-relevant="1" height="80" src="img/Honeycomb_Belt.png" width="80"/><figcaption></figcaption></figure><div style="text-align: center;"><a href="honeycomb-belt.html">Honeycomb Belt</a></div>
 </td>
 <td><span typeof="mw:Error mw:File"></span>75,000,000 <a href="honey.html"><span class="color-template color-template-honey">Honey</span></a><br/>
-<p><span typeof="mw:Error mw:File"></span>50 <a href="enzymes.html"><span class="color-template color-template-enzymes color-template-background-clip">Enzymes</span></a><br/>
-<span typeof="mw:Error mw:File"></span>50 <a href="glue.html"><span class="color-template color-template-glue color-template-background-clip">Glues</span></a><br/>
-<span typeof="mw:Error mw:File"></span>25 <a href="oil.html"><span class="color-template color-template-oil color-template-background-clip">Oils</span></a>
+<p><img alt="Enzymes" height="25" src="img/Enzymes.png" width="25"/>50 <a href="enzymes.html"><span class="color-template color-template-enzymes color-template-background-clip">Enzymes</span></a><br/>
+<img alt="Glue" height="25" src="img/Glue.png" width="25"/>50 <a href="glue.html"><span class="color-template color-template-glue color-template-background-clip">Glues</span></a><br/>
+<img alt="Oil" height="25" src="img/Oil.png" width="25"/>25 <a href="oil.html"><span class="color-template color-template-oil color-template-background-clip">Oils</span></a>
 </p>
 </td>
 <td>A luxurious faux honeycomb you can wear as a belt to greatly enhance your pollen capacity.

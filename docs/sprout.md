@@ -84,11 +84,11 @@ The higher tier the sprout is, the more tokens spawn when fully harvested. The p
 </th>
 <th style="width:23%">Special Drops
 </th>
-<th><span typeof="mw:Error mw:File"></span><a href="ticket.html"><span class="color-template color-template-ticket color-template-background-clip">Tickets</span></a>
+<th><img alt="Ticket" height="35" src="img/Ticket.png" width="35"/><a href="ticket.html"><span class="color-template color-template-ticket color-template-background-clip">Tickets</span></a>
 </th>
-<th><span typeof="mw:Error mw:File"></span><a href="royal-jelly.html"><span class="color-template color-template-royal-jelly color-template-background-clip">Royal Jellies</span></a>
+<th><img alt="Royal Jelly" height="35" src="img/Royal_Jelly.png" width="35"/><a href="royal-jelly.html"><span class="color-template color-template-royal-jelly color-template-background-clip">Royal Jellies</span></a>
 </th>
-<th><span typeof="mw:Error mw:File"></span><a href="treat.html"><span class="color-template color-template-treat">Treats</span></a>
+<th><img alt="Treat" height="35" src="img/Treat.png" width="35"/><a href="treat.html"><span class="color-template color-template-treat">Treats</span></a>
 </th>
 <th><span typeof="mw:Error mw:File"></span><a href="honey.html"><span class="color-template color-template-honey">Honey</span></a>
 </th>
@@ -116,8 +116,8 @@ to<br/>
 <tr>
 <td style="text-align:center;">Rare (Silver)
 </td>
-<td><span typeof="mw:Error mw:File"></span><a href="egg.html#Silver_Egg"><span class="color-template color-template-silver-egg color-template-background-clip">Silver Egg</span></a><br/>
-<p><span typeof="mw:Error mw:File"></span><a href="royal-jelly.html#Star_Jelly"><span class="color-template color-template-star-jelly color-template-background-clip">Star Jellies</span></a><br/>
+<td><img alt="Silver Egg" height="35" src="img/Silver_Egg.png" width="35"/><a href="egg.html#Silver_Egg"><span class="color-template color-template-silver-egg color-template-background-clip">Silver Egg</span></a><br/>
+<p><img alt="Star Jelly" height="35" src="img/Star_Jelly.png" width="35"/><a href="royal-jelly.html#Star_Jelly"><span class="color-template color-template-star-jelly color-template-background-clip">Star Jellies</span></a><br/>
 Crafting Materials
 </p>
 </td>
@@ -138,8 +138,8 @@ to<br/>
 <tr>
 <td style="text-align:center;">Epic (Gold)
 </td>
-<td><span typeof="mw:Error mw:File"></span><a href="egg.html#Gold_Egg"><span class="color-template color-template-gold-egg color-template-background-clip">Gold Egg</span></a><br/>
-<p><span typeof="mw:Error mw:File"></span><a href="royal-jelly.html#Star_Jelly"><span class="color-template color-template-star-jelly color-template-background-clip">Star Jellies</span></a><br/>
+<td><img alt="Gold Egg" height="35" src="img/Gold_Egg.png" width="35"/><a href="egg.html#Gold_Egg"><span class="color-template color-template-gold-egg color-template-background-clip">Gold Egg</span></a><br/>
+<p><img alt="Star Jelly" height="35" src="img/Star_Jelly.png" width="35"/><a href="royal-jelly.html#Star_Jelly"><span class="color-template color-template-star-jelly color-template-background-clip">Star Jellies</span></a><br/>
 Crafting Materials
 </p>
 </td>
@@ -160,8 +160,8 @@ to<br/>
 <tr>
 <td style="text-align:center;">Legendary (Teal)
 </td>
-<td><span typeof="mw:Error mw:File"></span><a href="egg.html#Diamond_Egg"><span class="color-template color-template-diamond-egg color-template-background-clip">Diamond Egg</span></a><br/>
-<p><span typeof="mw:Error mw:File"></span><a href="royal-jelly.html#Star_Jelly"><span class="color-template color-template-star-jelly color-template-background-clip">Star Jellies</span></a><br/>
+<td><img alt="Diamond Egg" height="35" src="img/Diamond_Egg.png" width="35"/><a href="egg.html#Diamond_Egg"><span class="color-template color-template-diamond-egg color-template-background-clip">Diamond Egg</span></a><br/>
+<p><img alt="Star Jelly" height="35" src="img/Star_Jelly.png" width="35"/><a href="royal-jelly.html#Star_Jelly"><span class="color-template color-template-star-jelly color-template-background-clip">Star Jellies</span></a><br/>
 Crafting Materials
 </p>
 </td>
@@ -182,10 +182,10 @@ to<br/>
 <tr>
 <td style="text-align:center;">Gummy (Translucent Pink)
 </td>
-<td><span typeof="mw:Error mw:File"></span><a href="gumdrops.html"><span class="color-template color-template-gumdrops color-template-background-clip">Gumdrops</span></a><br/>
-<p><span typeof="mw:Error mw:File"></span><a href="glue.html"><span class="color-template color-template-glue color-template-background-clip">Glues</span></a><br/>
-<span typeof="mw:Error mw:File"></span><a href="glitter.html"><span class="color-template color-template-glitter color-template-background-clip">Glitter</span></a><br/>
-<span typeof="mw:Error mw:File"></span><a href="neonberry.html"><span class="color-template color-template-neonberry color-template-background-clip">Neonberry</span></a>
+<td><img alt="Gumdrops" height="35" src="img/Gumdrops.png" width="35"/><a href="gumdrops.html"><span class="color-template color-template-gumdrops color-template-background-clip">Gumdrops</span></a><br/>
+<p><img alt="Glue" height="35" src="img/Glue.png" width="35"/><a href="glue.html"><span class="color-template color-template-glue color-template-background-clip">Glues</span></a><br/>
+<img alt="Glitter" height="35" src="img/Glitter.png" width="35"/><a href="glitter.html"><span class="color-template color-template-glitter color-template-background-clip">Glitter</span></a><br/>
+<img alt="Neonberry" height="35" src="img/Neonberry.png" width="35"/><a href="neonberry.html"><span class="color-template color-template-neonberry color-template-background-clip">Neonberry</span></a>
 </p>
 </td>
 <td style="text-align:center;"><b>x</b>
@@ -205,10 +205,10 @@ to<br/>
 <tr>
 <td style="text-align:center;">Moon (Luminescent Blue)
 </td>
-<td><span typeof="mw:Error mw:File"></span><a href="glitter.html"><span class="color-template color-template-glitter color-template-background-clip">Glitter</span></a><br/>
-<p><span typeof="mw:Error mw:File"></span><a href="moon-charm.html"><span class="color-template color-template-moon-charm color-template-background-clip">Moon Charms</span></a><br/>
-<span typeof="mw:Error mw:File"></span><a href="royal-jelly.html#Star_Jelly"><span class="color-template color-template-star-jelly color-template-background-clip">Star Jelly</span></a><br/>
-<span typeof="mw:Error mw:File"></span><a href="neonberry.html"><span class="color-template color-template-neonberry color-template-background-clip">Neonberry</span></a>
+<td><img alt="Glitter" height="35" src="img/Glitter.png" width="35"/><a href="glitter.html"><span class="color-template color-template-glitter color-template-background-clip">Glitter</span></a><br/>
+<p><img alt="Moon Charm" height="35" src="img/Moon_Charm.png" width="35"/><a href="moon-charm.html"><span class="color-template color-template-moon-charm color-template-background-clip">Moon Charms</span></a><br/>
+<img alt="Star Jelly" height="35" src="img/Star_Jelly.png" width="35"/><a href="royal-jelly.html#Star_Jelly"><span class="color-template color-template-star-jelly color-template-background-clip">Star Jelly</span></a><br/>
+<img alt="Neonberry" height="35" src="img/Neonberry.png" width="35"/><a href="neonberry.html"><span class="color-template color-template-neonberry color-template-background-clip">Neonberry</span></a>
 </p>
 </td>
 <td style="text-align:center;"><b>x</b>
@@ -228,8 +228,8 @@ to<br/>
 <tr>
 <td style="text-align:center;">Supreme (Luminescent Green)
 </td>
-<td><span typeof="mw:Error mw:File"></span><a href="egg.html#Diamond_Egg"><span class="color-template color-template-diamond-egg color-template-background-clip">Diamond Egg</span></a><br/>
-<p><span typeof="mw:Error mw:File"></span><a href="royal-jelly.html#Star_Jelly"><span class="color-template color-template-star-jelly color-template-background-clip">Star Jellies</span></a><br/>
+<td><img alt="Diamond Egg" height="35" src="img/Diamond_Egg.png" width="35"/><a href="egg.html#Diamond_Egg"><span class="color-template color-template-diamond-egg color-template-background-clip">Diamond Egg</span></a><br/>
+<p><img alt="Star Jelly" height="35" src="img/Star_Jelly.png" width="35"/><a href="royal-jelly.html#Star_Jelly"><span class="color-template color-template-star-jelly color-template-background-clip">Star Jellies</span></a><br/>
 Crafting Materials
 </p>
 </td>
@@ -250,9 +250,9 @@ to<br/>
 <tr>
 <td style="text-align:center;">Debug (Black)
 </td>
-<td><span typeof="mw:Error mw:File"></span><a href="bitterberry.html"><span class="color-template color-template-bitterberry color-template-background-clip">Bitterberries</span></a><br/>
-<p><span typeof="mw:Error mw:File"></span><a href="neonberry.html"><span class="color-template color-template-neonberry color-template-background-clip">Neonberries</span></a><br/>
-<span typeof="mw:Error mw:File"></span><a href="atomic-treat.html"><span class="color-template color-template-atomic-treat color-template-background-clip">Atomic Treats</span></a>
+<td><img alt="Bitterberry" height="35" src="img/Bitterberry.png" width="35"/><a href="bitterberry.html"><span class="color-template color-template-bitterberry color-template-background-clip">Bitterberries</span></a><br/>
+<p><img alt="Neonberry" height="35" src="img/Neonberry.png" width="35"/><a href="neonberry.html"><span class="color-template color-template-neonberry color-template-background-clip">Neonberries</span></a><br/>
+<img alt="Atomic Treat" height="35" src="img/Atomic_Treat.png" width="35"/><a href="atomic-treat.html"><span class="color-template color-template-atomic-treat color-template-background-clip">Atomic Treats</span></a>
 </p>
 </td>
 <td style="text-align:center;"><b>x</b>
@@ -272,11 +272,11 @@ to<br/>
 <tr>
 <td style="text-align:center;">Festive (White and Red Stripes)
 </td>
-<td><span typeof="mw:Error mw:File"></span><a href="ability-tokens.html#Festive_Blessing"><span class="color-template color-template-festive-blessing color-template-background-clip">Festive Blessing</span></a><br/>
-<p><span typeof="mw:Error mw:File"></span><a href="ability-tokens.html#Beesmas_Cheer"><span class="color-template color-template-beesmas-cheer color-template-background-clip">Beesmas Cheer</span></a><br/>
-<span typeof="mw:Error mw:File"></span><a href="gumdrops.html"><span class="color-template color-template-gumdrops color-template-background-clip">Gumdrops</span></a><br/>
-<span typeof="mw:Error mw:File"></span><a href="snowflake.html"><span class="color-template color-template-snowflake color-template-background-clip">Snowflakes</span></a><br/>
-<span typeof="mw:Error mw:File"></span><a href="gingerbread-bear.html"><span class="color-template color-template-gingerbread-bear color-template-background-clip">Gingerbread Bears</span></a><br/>
+<td><img alt="Festive Blessing" height="35" src="img/Festive_Blessing.png" width="35"/><a href="ability-tokens.html#Festive_Blessing"><span class="color-template color-template-festive-blessing color-template-background-clip">Festive Blessing</span></a><br/>
+<p><img alt="Beesmas Cheer" height="35" src="img/Beesmas_Cheer.png" width="35"/><a href="ability-tokens.html#Beesmas_Cheer"><span class="color-template color-template-beesmas-cheer color-template-background-clip">Beesmas Cheer</span></a><br/>
+<img alt="Gumdrops" height="35" src="img/Gumdrops.png" width="35"/><a href="gumdrops.html"><span class="color-template color-template-gumdrops color-template-background-clip">Gumdrops</span></a><br/>
+<img alt="Snowflake" height="35" src="img/Snowflake.png" width="35"/><a href="snowflake.html"><span class="color-template color-template-snowflake color-template-background-clip">Snowflakes</span></a><br/>
+<img alt="Gingerbread Bear" height="35" src="img/Gingerbread_Bear.png" width="35"/><a href="gingerbread-bear.html"><span class="color-template color-template-gingerbread-bear color-template-background-clip">Gingerbread Bears</span></a><br/>
 Crafting Materials
 </p>
 </td>
@@ -297,15 +297,15 @@ to<br/>
 <tr>
 <td style="text-align:center;">Sticker Sprout (Rainbow)
 </td>
-<td><span typeof="mw:Error mw:File"></span><a href="egg.html#Silver_Egg"><span class="color-template color-template-silver-egg color-template-background-clip">Silver Egg</span></a><br/>
-<p><span typeof="mw:Error mw:File"></span><a href="egg.html#Gifted_Silver_Egg"><span class="color-template color-template-gifted-silver-egg color-template-background-clip">Gifted Silver Egg</span></a><br/>
-<span typeof="mw:Error mw:File"></span><a href="egg.html#Diamond_Egg"><span class="color-template color-template-diamond-egg color-template-background-clip">Diamond Egg</span></a><br/>
-<span typeof="mw:Error mw:File"></span><a href="egg.html#Gifted_Diamond_Egg"><span class="color-template color-template-gifted-diamond-egg color-template-background-clip">Gifted Diamond Egg</span></a><br/>
-<span typeof="mw:Error mw:File"></span><a href="egg.html#Star_Egg"><span class="color-template color-template-star-egg color-template-background-clip">Star Egg</span></a><br/>
+<td><img alt="Silver Egg" height="35" src="img/Silver_Egg.png" width="35"/><a href="egg.html#Silver_Egg"><span class="color-template color-template-silver-egg color-template-background-clip">Silver Egg</span></a><br/>
+<p><img alt="Gifted Silver Egg" height="35" src="img/Gifted_Silver_Egg.png" width="35"/><a href="egg.html#Gifted_Silver_Egg"><span class="color-template color-template-gifted-silver-egg color-template-background-clip">Gifted Silver Egg</span></a><br/>
+<img alt="Diamond Egg" height="35" src="img/Diamond_Egg.png" width="35"/><a href="egg.html#Diamond_Egg"><span class="color-template color-template-diamond-egg color-template-background-clip">Diamond Egg</span></a><br/>
+<img alt="Gifted Diamond Egg" height="35" src="img/Gifted_Diamond_Egg.png" width="35"/><a href="egg.html#Gifted_Diamond_Egg"><span class="color-template color-template-gifted-diamond-egg color-template-background-clip">Gifted Diamond Egg</span></a><br/>
+<img alt="Star Egg" height="35" src="img/Star_Egg.png" width="35"/><a href="egg.html#Star_Egg"><span class="color-template color-template-star-egg color-template-background-clip">Star Egg</span></a><br/>
 <span typeof="mw:Error mw:File"></span> <a href="sticker.html">Stickers</a><br/>
 <span typeof="mw:Error mw:File"></span> <a href="waxes.html">Waxes</a><br/>
-<span typeof="mw:Error mw:File"></span><a href="sticker-planter.html"><span class="color-template color-template-sticker-planter color-template-background-clip">Sticker Planters</span></a><br/>
-<span typeof="mw:Error mw:File"></span><a href="royal-jelly.html#Star_Jelly"><span class="color-template color-template-star-jelly color-template-background-clip">Star Jellies</span></a><br/>
+<img alt="Sticker Planter" height="35" src="img/Sticker_Planter.png" width="35"/><a href="sticker-planter.html"><span class="color-template color-template-sticker-planter color-template-background-clip">Sticker Planters</span></a><br/>
+<img alt="Star Jelly" height="35" src="img/Star_Jelly.png" width="35"/><a href="royal-jelly.html#Star_Jelly"><span class="color-template color-template-star-jelly color-template-background-clip">Star Jellies</span></a><br/>
 Crafting Materials
 </p>
 </td>

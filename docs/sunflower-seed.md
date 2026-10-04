@@ -70,7 +70,7 @@ A **Sunflower Seed** is a type of [treat](treats.md) that can be fed to a [Bee](
 <li>Redeeming certain expired codes:
 <ul><li>The code 5mMembers gave 5 sunflower seeds + other stuff.</li>
 <li>The code FourYearFiesta gave 4 sunflower seeds + other stuff.</li>
-<li>1MLikes (Gives <span typeof="mw:Error mw:File"></span>1 <strong class="mw-selflink selflink"><span class="color-template color-template-sunflower-seed color-template-background-clip">Sunflower Seed</span></strong> + other stuff).</li></ul></li>
+<li>1MLikes (Gives <img alt="Sunflower Seed" height="25" src="img/Sunflower_Seed.png" width="25"/>1 <strong class="mw-selflink selflink"><span class="color-template color-template-sunflower-seed color-template-background-clip">Sunflower Seed</span></strong> + other stuff).</li></ul></li>
 <li>Defeating <a href="chicks.html">chicks</a> found in Sunflower Field. (Must have Black Bear's Sunflower Corral quest on.)</li></ul>
 </td></tr></tbody></table>
 
@@ -82,7 +82,7 @@ Total required for all single-purchase items: 263 **Sunflower Seeds**
 <caption>
 </caption>
 <tbody><tr>
-<th style="text-align: center"><span typeof="mw:Error mw:File"></span><strong class="mw-selflink selflink"><span class="color-template color-template-sunflower-seed color-template-background-clip">Sunflower Seeds</span></strong>
+<th style="text-align: center"><img alt="Sunflower Seed" height="35" src="img/Sunflower_Seed.png" width="35"/><strong class="mw-selflink selflink"><span class="color-template color-template-sunflower-seed color-template-background-clip">Sunflower Seeds</span></strong>
 </th>
 <th>Other ingredients
 </th>
@@ -99,7 +99,7 @@ Total required for all single-purchase items: 263 **Sunflower Seeds**
 <td><div style="text-align: center;">3
 </div></td>
 <td><span typeof="mw:Error mw:File"></span>4,400 <a href="honey.html"><span class="color-template color-template-honey">Honey</span></a><br/>
-<p><span typeof="mw:Error mw:File"></span>3 <a href="blueberry.html"><span class="color-template color-template-blueberry color-template-background-clip">Blueberries</span></a>
+<p><img alt="Blueberry" height="25" src="img/Blueberry.png" width="25"/>3 <a href="blueberry.html"><span class="color-template color-template-blueberry color-template-background-clip">Blueberries</span></a>
 </p>
 </td>
 <td><figure class="mw-halign-center" typeof="mw:File"><img alt="Basic Boots" data-image-key="Basic_Boots.png" data-image-name="Basic Boots.png" data-relevant="1" height="80" src="img/Basic_Boots.png" width="80"/><figcaption></figcaption></figure><div style="text-align: center;"><a href="basic-boots.html">Basic Boots</a>
@@ -128,7 +128,7 @@ Total required for all single-purchase items: 263 **Sunflower Seeds**
 <tr>
 <td><div style="text-align: center;">50
 </div></td>
-<td><span typeof="mw:Error mw:File"></span>10 <a href="royal-jelly.html"><span class="color-template color-template-royal-jelly color-template-background-clip">Royal Jellies</span></a>
+<td><img alt="Royal Jelly" height="25" src="img/Royal_Jelly.png" width="25"/>10 <a href="royal-jelly.html"><span class="color-template color-template-royal-jelly color-template-background-clip">Royal Jellies</span></a>
 </td>
 <td><figure class="mw-halign-center" typeof="mw:Error mw:File"><figcaption></figcaption></figure><div style="text-align: center;"><a href="oil.html"><span class="color-template color-template-oil color-template-background-clip">Oil</span></a>
 </div></td></tr>
@@ -136,8 +136,8 @@ Total required for all single-purchase items: 263 **Sunflower Seeds**
 <td><div style="text-align: center;">50
 </div></td>
 <td><span typeof="mw:Error mw:File"></span>440,000 <a href="honey.html"><span class="color-template color-template-honey">Honey</span></a><br/>
-<p><span typeof="mw:Error mw:File"></span>50 <a href="pineapple.html"><span class="color-template color-template-pineapple color-template-background-clip">Pineapples</span></a><br/>
-<span typeof="mw:Error mw:File"></span>3 <a href="stinger.html"><span class="color-template color-template-stinger color-template-background-clip">Stingers</span></a>
+<p><img alt="Pineapple" height="25" src="img/Pineapple.png" width="25"/>50 <a href="pineapple.html"><span class="color-template color-template-pineapple color-template-background-clip">Pineapples</span></a><br/>
+<img alt="Stinger" height="25" src="img/Stinger.png" width="25"/>3 <a href="stinger.html"><span class="color-template color-template-stinger color-template-background-clip">Stingers</span></a>
 </p>
 </td>
 <td><figure class="mw-halign-center" typeof="mw:File"><img alt="Belt Bag" data-image-key="Belt_Bag.png" data-image-name="Belt Bag.png" data-relevant="1" height="80" src="img/Belt_Bag.png" width="80"/><figcaption></figcaption></figure><div style="text-align: center;"><a href="belt-bag.html">Belt Bag</a>
@@ -146,9 +146,9 @@ Total required for all single-purchase items: 263 **Sunflower Seeds**
 <td><div style="text-align: center;">150
 </div></td>
 <td><span typeof="mw:Error mw:File"></span>12,400,000 <a href="honey.html"><span class="color-template color-template-honey">Honey</span></a><br/>
-<p><span typeof="mw:Error mw:File"></span>1 <a href="soft-wax.html"><span class="color-template color-template-soft-wax">Soft Wax</span></a><br/>
-<span typeof="mw:Error mw:File"></span>150 <a href="pineapple.html"><span class="color-template color-template-pineapple color-template-background-clip">Pineapples</span></a><br/>
-<span typeof="mw:Error mw:File"></span>10 <a href="stinger.html"><span class="color-template color-template-stinger color-template-background-clip">Stingers</span></a>
+<p><img alt="Soft Wax" height="25" src="img/Soft_Wax.png" width="25"/>1 <a href="soft-wax.html"><span class="color-template color-template-soft-wax">Soft Wax</span></a><br/>
+<img alt="Pineapple" height="25" src="img/Pineapple.png" width="25"/>150 <a href="pineapple.html"><span class="color-template color-template-pineapple color-template-background-clip">Pineapples</span></a><br/>
+<img alt="Stinger" height="25" src="img/Stinger.png" width="25"/>10 <a href="stinger.html"><span class="color-template color-template-stinger color-template-background-clip">Stingers</span></a>
 </p>
 </td>
 <td><figure class="mw-halign-center" typeof="mw:File"><img alt="Mondo Belt Bag" data-image-key="Mondo_Belt_Bag.png" data-image-name="Mondo Belt Bag.png" data-relevant="1" height="80" src="img/Mondo_Belt_Bag.png" width="80"/><figcaption></figcaption></figure><div style="text-align: center;"><a href="mondo-belt-bag.html">Mondo Belt Bag</a>
@@ -170,7 +170,7 @@ Total required for all single-purchase items: 263 **Sunflower Seeds**
 <tr>
 <th class="NavCategory" rowspan="8">Regular
 </th>
-<td class="NavLinks NavLinksBasicEven" colspan="2"><b><img alt="Sprinkler Builder" height="35" src="img/Sprinkler_Builder.png" width="35"/> <a href="sprinklers.html">Sprinkler Builder</a> • <img alt="Gumdrops" height="35" src="img/Gumdrops.png" width="35"/> <a href="gumdrops.html">Gumdrops</a> • <img alt="Coconut" height="35" src="img/Coconut.png" width="35"/> <a href="coconut.html">Coconut</a> • <img alt="Stinger" height="35" src="img/Stinger.png" width="35"/> <a href="stinger.html">Stinger</a> • <img alt="Micro-Converter" height="35" src="img/Micro-Converter.png" width="35"/> <a href="micro-converter.html">Micro-Converter</a> • <img alt="Honeysuckle" height="35" src="img/Honeysuckle.png" width="35"/> <a href="honeysuckle.html">Honeysuckle</a> • <img alt="Whirligig" height="35" src="img/Whirligig.png" width="35"/> <a href="whirligig.html">Whirligig</a> • <img alt="Jelly Beans" height="35" src="img/Jelly_Beans.png" width="35"/> <a href="jelly-beans.html">Jelly Beans</a> • <img alt="Magic Bean" height="35" src="img/Magic_Bean.png" width="35"/> <a href="magic-bean.html">Magic Bean</a> • <img alt="Cloud Vial" height="35" src="img/Cloud_Vial.png" width="35"/> <a href="cloud-vial.html">Cloud Vial</a> • <img alt="Night Bell" height="35" src="img/Night_Bell.png" width="35"/> <a href="night-bell.html">Night Bell</a> • <img alt="Ant Pass" height="35" src="img/Ant_Pass.png" width="35"/> <a href="ant-pass.html">Ant Pass</a> • <img alt="Robo Pass" height="35" src="img/Robo_Pass.png" width="35"/> <a href="robo-pass.html">Robo Pass</a> • <img alt="Box-O-Frogs" height="35" src="img/Box-O-Frogs.png" width="35"/> <a href="box-o-frogs.html">Box-O-Frogs</a> •  <img alt="Turpentine" height="35" src="img/Turpentine.png" width="35"/> <a href="turpentine.html">Turpentine</a> • <span typeof="mw:Error mw:File"></span> <a href="egg.html">Eggs</a> • <img alt="Royal Jelly" height="35" src="img/Royal_Jelly.png" width="35"/> <a href="royal-jelly.html">Royal Jelly</a> • <img alt="Star Jelly" height="35" src="img/Star_Jelly.png" width="35"/> <a href="royal-jelly.html#Star_Jelly">Star Jelly</a></b> • <img alt="Bloom Shaker" height="35" src="img/Bloom_Shaker.png" width="35"/> <a href="bloom-shaker.html">Bloom Shaker</a><b></b>
+<td class="NavLinks NavLinksBasicEven" colspan="2"><b><img alt="Sprinkler Builder" height="35" src="img/Sprinkler_Builder.png" width="35"/> <a href="sprinklers.html">Sprinkler Builder</a> • <img alt="Gumdrops" height="35" src="img/Gumdrops.png" width="35"/> <a href="gumdrops.html">Gumdrops</a> • <img alt="Coconut" height="35" src="img/Coconut.png" width="35"/> <a href="coconut.html">Coconut</a> • <img alt="Stinger" height="35" src="img/Stinger.png" width="35"/> <a href="stinger.html">Stinger</a> • <img alt="Micro-Converter" height="35" src="img/Micro-Converter.png" width="35"/> <a href="micro-converter.html">Micro-Converter</a> • <img alt="Honeysuckle" height="35" src="img/Honeysuckle.png" width="35"/> <a href="honeysuckle.html">Honeysuckle</a> • <img alt="Whirligig" height="35" src="img/Whirligig.png" width="35"/> <a href="whirligig.html">Whirligig</a> • <img alt="Jelly Beans" height="35" src="img/Jelly_Beans.png" width="35"/> <a href="jelly-beans.html">Jelly Beans</a> • <img alt="Magic Bean" height="35" src="img/Magic_Bean.png" width="35"/> <a href="magic-bean.html">Magic Bean</a> • <img alt="Cloud Vial" height="35" src="img/Cloud_Vial.png" width="35"/> <a href="cloud-vial.html">Cloud Vial</a> • <img alt="Night Bell" height="35" src="img/Night_Bell.png" width="35"/> <a href="night-bell.html">Night Bell</a> • <img alt="Ant Pass" height="35" src="img/Ant_Pass.png" width="35"/> <a href="ant-pass.html">Ant Pass</a> • <img alt="Robo Pass" height="35" src="img/Robo_Pass.png" width="35"/> <a href="robo-pass.html">Robo Pass</a> • <img alt="Box-O-Frogs" height="35" src="img/Box-O-Frogs.png" width="35"/> <a href="box-o-frogs.html">Box-O-Frogs</a> •  <img alt="Turpentine" height="35" src="img/Turpentine.png" width="35"/> <a href="turpentine.html">Turpentine</a> • <img alt="Basic Egg" height="35" src="img/Basic_Egg.png" width="35"/> <a href="egg.html">Eggs</a> • <img alt="Royal Jelly" height="35" src="img/Royal_Jelly.png" width="35"/> <a href="royal-jelly.html">Royal Jelly</a> • <img alt="Star Jelly" height="35" src="img/Star_Jelly.png" width="35"/> <a href="royal-jelly.html#Star_Jelly">Star Jelly</a></b> • <img alt="Bloom Shaker" height="35" src="img/Bloom_Shaker.png" width="35"/> <a href="bloom-shaker.html">Bloom Shaker</a><b></b>
 </td></tr>
 <tr>
 <th class="NavCategory">Crafting Materials

@@ -106,7 +106,7 @@ During Beesmas 2022, players were able to complete the quest by purchasing a whi
 <li>Obtain 1 <a href="drives.html#Glitched_Drive">Glitched Drive</a>.</li></ul>
 </td>
 <td><span typeof="mw:Error mw:File"></span>10,000 <a href="honey.html"><span class="color-template color-template-honey">Honey</span></a><br/>
-<p><span typeof="mw:Error mw:File"></span>1 <a href="robo-pass.html"><span class="color-template color-template-robo-pass color-template-background-clip">Robo Pass</span></a>
+<p><img alt="Robo Pass" height="25" src="img/Robo_Pass.png" width="25"/>1 <a href="robo-pass.html"><span class="color-template color-template-robo-pass color-template-background-clip">Robo Pass</span></a>
 </p>
 <hr/>
 <p>(Lost upon turning in quest)<br/>
@@ -237,15 +237,15 @@ The following content has been removed from the game. The contents below may be 
 </td>
 <td>
 <p><span typeof="mw:Error mw:File"></span>2,147,483,648 <a href="honey.html"><span class="color-template color-template-honey">Honey</span></a><br/>
-<span typeof="mw:Error mw:File"></span>128 <a href="snowflake.html"><span class="color-template color-template-snowflake color-template-background-clip">Snowflakes</span></a><br/>
-<span typeof="mw:Error mw:File"></span>64 <a href="ticket.html"><span class="color-template color-template-ticket color-template-background-clip">Tickets</span></a><br/>
-<span typeof="mw:Error mw:File"></span>32 <a href="whirligig.html"><span class="color-template color-template-whirligig color-template-background-clip">Whirligigs</span></a><br/>
-<span typeof="mw:Error mw:File"></span>16 <a href="hard-wax.html"><span class="color-template color-template-hard-wax">Hard Waxes</span></a><br/>
-<span typeof="mw:Error mw:File"></span>16 <a href="micro-converter.html"><span class="color-template color-template-micro-converter color-template-background-clip">Micro-Converters</span></a><br/>
-<span typeof="mw:Error mw:File"></span>8 <a href="magic-bean.html"><span class="color-template color-template-magic-bean color-template-background-clip">Magic Beans</span></a><br/>
-<span typeof="mw:Error mw:File"></span>4 <a href="caustic-wax.html"><span class="color-template color-template-caustic-wax">Caustic Waxes</span></a><br/>
-<span typeof="mw:Error mw:File"></span>2 <a href="bloom-shaker.html"><span class="color-template color-template-bloom-shaker color-template-background-clip">Bloom Shakers</span></a><br/>
-<span typeof="mw:Error mw:File"></span>1 <a href="sweatband.html"><span class="color-template color-template-sweatband color-template-background-clip">Sweatband</span></a><br/>
+<img alt="Snowflake" height="25" src="img/Snowflake.png" width="25"/>128 <a href="snowflake.html"><span class="color-template color-template-snowflake color-template-background-clip">Snowflakes</span></a><br/>
+<img alt="Ticket" height="25" src="img/Ticket.png" width="25"/>64 <a href="ticket.html"><span class="color-template color-template-ticket color-template-background-clip">Tickets</span></a><br/>
+<img alt="Whirligig" height="25" src="img/Whirligig.png" width="25"/>32 <a href="whirligig.html"><span class="color-template color-template-whirligig color-template-background-clip">Whirligigs</span></a><br/>
+<img alt="Hard Wax" height="25" src="img/Hard_Wax.png" width="25"/>16 <a href="hard-wax.html"><span class="color-template color-template-hard-wax">Hard Waxes</span></a><br/>
+<img alt="Micro-Converter" height="25" src="img/Micro-Converter.png" width="25"/>16 <a href="micro-converter.html"><span class="color-template color-template-micro-converter color-template-background-clip">Micro-Converters</span></a><br/>
+<img alt="Magic Bean" height="25" src="img/Magic_Bean.png" width="25"/>8 <a href="magic-bean.html"><span class="color-template color-template-magic-bean color-template-background-clip">Magic Beans</span></a><br/>
+<img alt="Caustic Wax" height="25" src="img/Caustic_Wax.png" width="25"/>4 <a href="caustic-wax.html"><span class="color-template color-template-caustic-wax">Caustic Waxes</span></a><br/>
+<img alt="Bloom Shaker" height="25" src="img/Bloom_Shaker.png" width="25"/>2 <a href="bloom-shaker.html"><span class="color-template color-template-bloom-shaker color-template-background-clip">Bloom Shakers</span></a><br/>
+<img alt="Sweatband" height="25" src="img/Sweatband.png" width="25"/>1 <a href="sweatband.html"><span class="color-template color-template-sweatband color-template-background-clip">Sweatband</span></a><br/>
 Access to <a href="robo-party-cake.html">Robo Party Cake</a>.
 </p>
 </td></tr></tbody></table>
@@ -296,13 +296,13 @@ The following content has been removed from the game. The contents below may be 
 <li>Collect 64 Duped Ability Tokens.</li></ul>
 </td>
 <td><span typeof="mw:Error mw:File"></span>4,294,967,296 <a href="honey.html"><span class="color-template color-template-honey">Honey</span></a><br/>
-<p><span typeof="mw:Error mw:File"></span>128 <a href="snowflake.html"><span class="color-template color-template-snowflake color-template-background-clip">Snowflakes</span></a><br/>
-<span typeof="mw:Error mw:File"></span>32 <a href="ticket.html"><span class="color-template color-template-ticket color-template-background-clip">Tickets</span></a><br/>
-<span typeof="mw:Error mw:File"></span>16 <a href="oil.html"><span class="color-template color-template-oil color-template-background-clip">Oils</span></a><br/>
-<span typeof="mw:Error mw:File"></span>8 <a href="micro-converter.html"><span class="color-template color-template-micro-converter color-template-background-clip">Micro-Converters</span></a><br/>
-<span typeof="mw:Error mw:File"></span>4 <a href="smooth-dice.html"><span class="color-template color-template-smooth-dice color-template-background-clip">Smooth Dice</span></a><br/>
-<span typeof="mw:Error mw:File"></span>2 <a href="caustic-wax.html"><span class="color-template color-template-caustic-wax">Caustic Waxes</span></a><br/>
-<span typeof="mw:Error mw:File"></span>1 <a href="sweatband.html"><span class="color-template color-template-sweatband color-template-background-clip">Sweatband</span></a><br/>
+<p><img alt="Snowflake" height="25" src="img/Snowflake.png" width="25"/>128 <a href="snowflake.html"><span class="color-template color-template-snowflake color-template-background-clip">Snowflakes</span></a><br/>
+<img alt="Ticket" height="25" src="img/Ticket.png" width="25"/>32 <a href="ticket.html"><span class="color-template color-template-ticket color-template-background-clip">Tickets</span></a><br/>
+<img alt="Oil" height="25" src="img/Oil.png" width="25"/>16 <a href="oil.html"><span class="color-template color-template-oil color-template-background-clip">Oils</span></a><br/>
+<img alt="Micro-Converter" height="25" src="img/Micro-Converter.png" width="25"/>8 <a href="micro-converter.html"><span class="color-template color-template-micro-converter color-template-background-clip">Micro-Converters</span></a><br/>
+<img alt="Smooth Dice" height="25" src="img/Smooth_Dice.png" width="25"/>4 <a href="smooth-dice.html"><span class="color-template color-template-smooth-dice color-template-background-clip">Smooth Dice</span></a><br/>
+<img alt="Caustic Wax" height="25" src="img/Caustic_Wax.png" width="25"/>2 <a href="caustic-wax.html"><span class="color-template color-template-caustic-wax">Caustic Waxes</span></a><br/>
+<img alt="Sweatband" height="25" src="img/Sweatband.png" width="25"/>1 <a href="sweatband.html"><span class="color-template color-template-sweatband color-template-background-clip">Sweatband</span></a><br/>
 Access to <a href="robo-party-cake.html">Robo Party Cake</a>.
 </p>
 </td></tr></tbody></table>
@@ -349,13 +349,13 @@ The following content has been removed from the game. The contents below may be 
 <li>Obtain 2 Magnet/Electro-Magnet/Pulsar <a href="sticker.html">Stickers</a> to give to Robo Bear.</li></ul>
 </td>
 <td><span typeof="mw:Error mw:File"></span>268,435,456 <a href="honey.html"><span class="color-template color-template-honey">Honey</span></a><br/>
-<p><span typeof="mw:Error mw:File"></span>64 <a href="snowflake.html"><span class="color-template color-template-snowflake color-template-background-clip">Snowflakes</span></a><br/>
-<span typeof="mw:Error mw:File"></span>32 <a href="ticket.html"><span class="color-template color-template-ticket color-template-background-clip">Tickets</span></a><br/>
-<span typeof="mw:Error mw:File"></span>16 <a href="stinger.html"><span class="color-template color-template-stinger color-template-background-clip">Stingers</span></a><br/>
-<span typeof="mw:Error mw:File"></span>8 <a href="micro-converter.html"><span class="color-template color-template-micro-converter color-template-background-clip">Micro-Converters</span></a><br/>
-<span typeof="mw:Error mw:File"></span>4 <a href="smooth-dice.html"><span class="color-template color-template-smooth-dice color-template-background-clip">Smooth Dice</span></a><br/>
-<span typeof="mw:Error mw:File"></span>2 <a href="caustic-wax.html"><span class="color-template color-template-caustic-wax">Caustic Waxes</span></a><br/>
-<span typeof="mw:Error mw:File"></span>2 <a href="robo-pass.html"><span class="color-template color-template-robo-pass color-template-background-clip">Robo Passes</span></a><br/>
+<p><img alt="Snowflake" height="25" src="img/Snowflake.png" width="25"/>64 <a href="snowflake.html"><span class="color-template color-template-snowflake color-template-background-clip">Snowflakes</span></a><br/>
+<img alt="Ticket" height="25" src="img/Ticket.png" width="25"/>32 <a href="ticket.html"><span class="color-template color-template-ticket color-template-background-clip">Tickets</span></a><br/>
+<img alt="Stinger" height="25" src="img/Stinger.png" width="25"/>16 <a href="stinger.html"><span class="color-template color-template-stinger color-template-background-clip">Stingers</span></a><br/>
+<img alt="Micro-Converter" height="25" src="img/Micro-Converter.png" width="25"/>8 <a href="micro-converter.html"><span class="color-template color-template-micro-converter color-template-background-clip">Micro-Converters</span></a><br/>
+<img alt="Smooth Dice" height="25" src="img/Smooth_Dice.png" width="25"/>4 <a href="smooth-dice.html"><span class="color-template color-template-smooth-dice color-template-background-clip">Smooth Dice</span></a><br/>
+<img alt="Caustic Wax" height="25" src="img/Caustic_Wax.png" width="25"/>2 <a href="caustic-wax.html"><span class="color-template color-template-caustic-wax">Caustic Waxes</span></a><br/>
+<img alt="Robo Pass" height="25" src="img/Robo_Pass.png" width="25"/>2 <a href="robo-pass.html"><span class="color-template color-template-robo-pass color-template-background-clip">Robo Passes</span></a><br/>
 Access to <a href="robo-party-cake.html">Robo Party Cake</a>.
 </p>
 </td></tr></tbody></table>
@@ -402,13 +402,13 @@ The following content has been removed from the game. The contents below may be 
 <li>Collect 2 <a href="glitter.html">Glitter</a>.</li></ul>
 </td>
 <td><span typeof="mw:Error mw:File"></span>2,097,152 <a href="honey.html"><span class="color-template color-template-honey">Honey</span></a><br/>
-<p><span typeof="mw:Error mw:File"></span>32 <a href="snowflake.html"><span class="color-template color-template-snowflake color-template-background-clip">Snowflakes</span></a><br/>
-<span typeof="mw:Error mw:File"></span>8 <a href="stinger.html"><span class="color-template color-template-stinger color-template-background-clip">Stingers</span></a><br/>
-<span typeof="mw:Error mw:File"></span>4 <a href="ticket.html"><span class="color-template color-template-ticket color-template-background-clip">Tickets</span></a><br/>
-<span typeof="mw:Error mw:File"></span>4 <a href="micro-converter.html"><span class="color-template color-template-micro-converter color-template-background-clip">Micro-Converters</span></a><br/>
-<span typeof="mw:Error mw:File"></span>2 <a href="smooth-dice.html"><span class="color-template color-template-smooth-dice color-template-background-clip">Smooth Dice</span></a><br/>
-<span typeof="mw:Error mw:File"></span>1 <a href="white-balloon.html"><span class="color-template color-template-white-balloon color-template-background-clip">White Balloon</span></a><br/>
-<span typeof="mw:Error mw:File"></span>1 <a href="robo-pass.html"><span class="color-template color-template-robo-pass color-template-background-clip">Robo Pass</span></a><br/>
+<p><img alt="Snowflake" height="25" src="img/Snowflake.png" width="25"/>32 <a href="snowflake.html"><span class="color-template color-template-snowflake color-template-background-clip">Snowflakes</span></a><br/>
+<img alt="Stinger" height="25" src="img/Stinger.png" width="25"/>8 <a href="stinger.html"><span class="color-template color-template-stinger color-template-background-clip">Stingers</span></a><br/>
+<img alt="Ticket" height="25" src="img/Ticket.png" width="25"/>4 <a href="ticket.html"><span class="color-template color-template-ticket color-template-background-clip">Tickets</span></a><br/>
+<img alt="Micro-Converter" height="25" src="img/Micro-Converter.png" width="25"/>4 <a href="micro-converter.html"><span class="color-template color-template-micro-converter color-template-background-clip">Micro-Converters</span></a><br/>
+<img alt="Smooth Dice" height="25" src="img/Smooth_Dice.png" width="25"/>2 <a href="smooth-dice.html"><span class="color-template color-template-smooth-dice color-template-background-clip">Smooth Dice</span></a><br/>
+<img alt="White Balloon" height="25" src="img/White_Balloon.png" width="25"/>1 <a href="white-balloon.html"><span class="color-template color-template-white-balloon color-template-background-clip">White Balloon</span></a><br/>
+<img alt="Robo Pass" height="25" src="img/Robo_Pass.png" width="25"/>1 <a href="robo-pass.html"><span class="color-template color-template-robo-pass color-template-background-clip">Robo Pass</span></a><br/>
 Access to <a href="robo-party-cake.html">Robo Party Cake</a>.
 </p>
 </td></tr></tbody></table>

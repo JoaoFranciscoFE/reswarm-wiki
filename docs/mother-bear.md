@@ -98,10 +98,10 @@ Each time she introduces a new treat to feed to the player's bees, she tells the
 <ul><li>Raise a Bee to Level 2.</li>
 <li>Feed 1 <a href="treats.html">Treat</a> to your Bees.</li></ul>
 </td>
-<td><span typeof="mw:Error mw:File"></span>1 <a href="treat.html"><span class="color-template color-template-treat">Treat</span></a> (when quest accepted)<br/>
+<td><img alt="Treat" height="25" src="img/Treat.png" width="25"/>1 <a href="treat.html"><span class="color-template color-template-treat">Treat</span></a> (when quest accepted)<br/>
 <p><span typeof="mw:Error mw:File"></span>250 <a href="honey.html"><span class="color-template color-template-honey">Honey</span></a><br/>
-<span typeof="mw:Error mw:File"></span>3 <a href="treat.html"><span class="color-template color-template-treat">Treats</span></a><br/>
-<span typeof="mw:Error mw:File"></span>1 <a href="ticket.html"><span class="color-template color-template-ticket color-template-background-clip">Ticket</span></a>
+<img alt="Treat" height="25" src="img/Treat.png" width="25"/>3 <a href="treat.html"><span class="color-template color-template-treat">Treats</span></a><br/>
+<img alt="Ticket" height="25" src="img/Ticket.png" width="25"/>1 <a href="ticket.html"><span class="color-template color-template-ticket color-template-background-clip">Ticket</span></a>
 </p>
 </td></tr>
 <tr>
@@ -113,8 +113,8 @@ Each time she introduces a new treat to feed to the player's bees, she tells the
 <li>Feed 5 Treats to your Bees.</li></ul>
 </td>
 <td><span typeof="mw:Error mw:File"></span>1,000 <a href="honey.html"><span class="color-template color-template-honey">Honey</span></a><br/>
-<p><span typeof="mw:Error mw:File"></span>3 <a href="treat.html"><span class="color-template color-template-treat">Treats</span></a><br/>
-<span typeof="mw:Error mw:File"></span>1 <a href="ticket.html"><span class="color-template color-template-ticket color-template-background-clip">Ticket</span></a>
+<p><img alt="Treat" height="25" src="img/Treat.png" width="25"/>3 <a href="treat.html"><span class="color-template color-template-treat">Treats</span></a><br/>
+<img alt="Ticket" height="25" src="img/Ticket.png" width="25"/>1 <a href="ticket.html"><span class="color-template color-template-ticket color-template-background-clip">Ticket</span></a>
 </p>
 </td></tr>
 <tr>
@@ -126,8 +126,8 @@ Each time she introduces a new treat to feed to the player's bees, she tells the
 <li>Feed 1 Sunflower Seed to your Bees.</li></ul>
 </td>
 <td><span typeof="mw:Error mw:File"></span>2,000 <a href="honey.html"><span class="color-template color-template-honey">Honey</span></a><br/>
-<p><span typeof="mw:Error mw:File"></span>3 <a href="treat.html"><span class="color-template color-template-treat">Treats</span></a><br/>
-<span typeof="mw:Error mw:File"></span>2 <a href="ticket.html"><span class="color-template color-template-ticket color-template-background-clip">Tickets</span></a>
+<p><img alt="Treat" height="25" src="img/Treat.png" width="25"/>3 <a href="treat.html"><span class="color-template color-template-treat">Treats</span></a><br/>
+<img alt="Ticket" height="25" src="img/Ticket.png" width="25"/>2 <a href="ticket.html"><span class="color-template color-template-ticket color-template-background-clip">Tickets</span></a>
 </p>
 </td></tr>
 <tr>
@@ -138,10 +138,10 @@ Each time she introduces a new treat to feed to the player's bees, she tells the
 <li>Feed 15 Treats to your Bees.</li>
 <li>Use 1 Royal Jelly.</li></ul>
 </td>
-<td><span typeof="mw:Error mw:File"></span>1 <a href="royal-jelly.html"><span class="color-template color-template-royal-jelly color-template-background-clip">Royal Jelly</span></a> (when quest accepted)<br/>
+<td><img alt="Royal Jelly" height="25" src="img/Royal_Jelly.png" width="25"/>1 <a href="royal-jelly.html"><span class="color-template color-template-royal-jelly color-template-background-clip">Royal Jelly</span></a> (when quest accepted)<br/>
 <p><span typeof="mw:Error mw:File"></span>5,000 <a href="honey.html"><span class="color-template color-template-honey">Honey</span></a><br/>
-<span typeof="mw:Error mw:File"></span>5 <a href="treat.html"><span class="color-template color-template-treat">Treats</span></a><br/>
-<span typeof="mw:Error mw:File"></span>2 <a href="ticket.html"><span class="color-template color-template-ticket color-template-background-clip">Tickets</span></a>
+<img alt="Treat" height="25" src="img/Treat.png" width="25"/>5 <a href="treat.html"><span class="color-template color-template-treat">Treats</span></a><br/>
+<img alt="Ticket" height="25" src="img/Ticket.png" width="25"/>2 <a href="ticket.html"><span class="color-template color-template-ticket color-template-background-clip">Tickets</span></a>
 </p>
 </td></tr>
 <tr>
@@ -154,8 +154,8 @@ Each time she introduces a new treat to feed to the player's bees, she tells the
 <li>Feed 5 Strawberries to your Bees.</li></ul>
 </td>
 <td><span typeof="mw:Error mw:File"></span>10,000 <a href="honey.html"><span class="color-template color-template-honey">Honey</span></a><br/>
-<p><span typeof="mw:Error mw:File"></span>5 <a href="treat.html"><span class="color-template color-template-treat">Treats</span></a><br/>
-<span typeof="mw:Error mw:File"></span>3 <a href="ticket.html"><span class="color-template color-template-ticket color-template-background-clip">Tickets</span></a>
+<p><img alt="Treat" height="25" src="img/Treat.png" width="25"/>5 <a href="treat.html"><span class="color-template color-template-treat">Treats</span></a><br/>
+<img alt="Ticket" height="25" src="img/Ticket.png" width="25"/>3 <a href="ticket.html"><span class="color-template color-template-ticket color-template-background-clip">Tickets</span></a>
 </p>
 </td></tr>
 <tr>
@@ -167,8 +167,8 @@ Each time she introduces a new treat to feed to the player's bees, she tells the
 <li>Feed 10 Blueberries to your Bees.</li></ul>
 </td>
 <td><span typeof="mw:Error mw:File"></span>20,000 <a href="honey.html"><span class="color-template color-template-honey">Honey</span></a><br/>
-<p><span typeof="mw:Error mw:File"></span>10 <a href="treat.html"><span class="color-template color-template-treat">Treats</span></a><br/>
-<span typeof="mw:Error mw:File"></span>3 <a href="ticket.html"><span class="color-template color-template-ticket color-template-background-clip">Tickets</span></a>
+<p><img alt="Treat" height="25" src="img/Treat.png" width="25"/>10 <a href="treat.html"><span class="color-template color-template-treat">Treats</span></a><br/>
+<img alt="Ticket" height="25" src="img/Ticket.png" width="25"/>3 <a href="ticket.html"><span class="color-template color-template-ticket color-template-background-clip">Tickets</span></a>
 </p>
 </td></tr>
 <tr>
@@ -181,8 +181,8 @@ Each time she introduces a new treat to feed to the player's bees, she tells the
 <li>Use 3 Royal Jellies.</li></ul>
 </td>
 <td><span typeof="mw:Error mw:File"></span>50,000 <a href="honey.html"><span class="color-template color-template-honey">Honey</span></a><br/>
-<p><span typeof="mw:Error mw:File"></span>20 <a href="treat.html"><span class="color-template color-template-treat">Treats</span></a><br/>
-<span typeof="mw:Error mw:File"></span>4 <a href="ticket.html"><span class="color-template color-template-ticket color-template-background-clip">Tickets</span></a>
+<p><img alt="Treat" height="25" src="img/Treat.png" width="25"/>20 <a href="treat.html"><span class="color-template color-template-treat">Treats</span></a><br/>
+<img alt="Ticket" height="25" src="img/Ticket.png" width="25"/>4 <a href="ticket.html"><span class="color-template color-template-ticket color-template-background-clip">Tickets</span></a>
 </p>
 </td></tr>
 <tr>
@@ -194,9 +194,9 @@ Each time she introduces a new treat to feed to the player's bees, she tells the
 <li>Feed 25 Sunflower Seeds to your Bees.</li></ul>
 </td>
 <td><span typeof="mw:Error mw:File"></span>100,000 <a href="honey.html"><span class="color-template color-template-honey">Honey</span></a><br/>
-<p><span typeof="mw:Error mw:File"></span>30 <a href="treat.html"><span class="color-template color-template-treat">Treats</span></a><br/>
-<span typeof="mw:Error mw:File"></span>4 <a href="ticket.html"><span class="color-template color-template-ticket color-template-background-clip">Tickets</span></a><br/>
-<span typeof="mw:Error mw:File"></span>1 <a href="royal-jelly.html"><span class="color-template color-template-royal-jelly color-template-background-clip">Royal Jelly</span></a>
+<p><img alt="Treat" height="25" src="img/Treat.png" width="25"/>30 <a href="treat.html"><span class="color-template color-template-treat">Treats</span></a><br/>
+<img alt="Ticket" height="25" src="img/Ticket.png" width="25"/>4 <a href="ticket.html"><span class="color-template color-template-ticket color-template-background-clip">Tickets</span></a><br/>
+<img alt="Royal Jelly" height="25" src="img/Royal_Jelly.png" width="25"/>1 <a href="royal-jelly.html"><span class="color-template color-template-royal-jelly color-template-background-clip">Royal Jelly</span></a>
 </p>
 </td></tr>
 <tr>
@@ -210,9 +210,9 @@ Each time she introduces a new treat to feed to the player's bees, she tells the
 <li>Feed 25 Pineapples to your Bees.</li></ul>
 </td>
 <td><span typeof="mw:Error mw:File"></span>250,000 <a href="honey.html"><span class="color-template color-template-honey">Honey</span></a><br/>
-<p><span typeof="mw:Error mw:File"></span>40 <a href="treat.html"><span class="color-template color-template-treat">Treats</span></a><br/>
-<span typeof="mw:Error mw:File"></span>5 <a href="ticket.html"><span class="color-template color-template-ticket color-template-background-clip">Tickets</span></a><br/>
-<span typeof="mw:Error mw:File"></span>1 <a href="royal-jelly.html"><span class="color-template color-template-royal-jelly color-template-background-clip">Royal Jelly</span></a>
+<p><img alt="Treat" height="25" src="img/Treat.png" width="25"/>40 <a href="treat.html"><span class="color-template color-template-treat">Treats</span></a><br/>
+<img alt="Ticket" height="25" src="img/Ticket.png" width="25"/>5 <a href="ticket.html"><span class="color-template color-template-ticket color-template-background-clip">Tickets</span></a><br/>
+<img alt="Royal Jelly" height="25" src="img/Royal_Jelly.png" width="25"/>1 <a href="royal-jelly.html"><span class="color-template color-template-royal-jelly color-template-background-clip">Royal Jelly</span></a>
 </p>
 </td></tr>
 <tr>
@@ -224,11 +224,11 @@ Each time she introduces a new treat to feed to the player's bees, she tells the
 <li>Feed 25 Blueberries to your Bees.</li>
 <li>Feed 25 Strawberries to your Bees.</li></ul>
 </td>
-<td><span typeof="mw:Error mw:File"></span>1 <a href="egg.html#Star_Egg"><span class="color-template color-template-star-egg color-template-background-clip">Star Egg</span></a><br/>
+<td><img alt="Star Egg" height="25" src="img/Star_Egg.png" width="25"/>1 <a href="egg.html#Star_Egg"><span class="color-template color-template-star-egg color-template-background-clip">Star Egg</span></a><br/>
 <p><span typeof="mw:Error mw:File"></span>500,000 <a href="honey.html"><span class="color-template color-template-honey">Honey</span></a><br/>
-<span typeof="mw:Error mw:File"></span>50 <a href="treat.html"><span class="color-template color-template-treat">Treats</span></a><br/>
-<span typeof="mw:Error mw:File"></span>6 <a href="ticket.html"><span class="color-template color-template-ticket color-template-background-clip">Tickets</span></a><br/>
-<span typeof="mw:Error mw:File"></span>1 <a href="royal-jelly.html"><span class="color-template color-template-royal-jelly color-template-background-clip">Royal Jelly</span></a>
+<img alt="Treat" height="25" src="img/Treat.png" width="25"/>50 <a href="treat.html"><span class="color-template color-template-treat">Treats</span></a><br/>
+<img alt="Ticket" height="25" src="img/Ticket.png" width="25"/>6 <a href="ticket.html"><span class="color-template color-template-ticket color-template-background-clip">Tickets</span></a><br/>
+<img alt="Royal Jelly" height="25" src="img/Royal_Jelly.png" width="25"/>1 <a href="royal-jelly.html"><span class="color-template color-template-royal-jelly color-template-background-clip">Royal Jelly</span></a>
 </p>
 </td></tr>
 <tr>
@@ -245,9 +245,9 @@ Each time she introduces a new treat to feed to the player's bees, she tells the
 <li>Feed 30 Blueberries to your Bees.</li></ul>
 </td>
 <td><span typeof="mw:Error mw:File"></span>1,000,000 <a href="honey.html"><span class="color-template color-template-honey">Honey</span></a><br/>
-<p><span typeof="mw:Error mw:File"></span>100 <a href="treat.html"><span class="color-template color-template-treat">Treats</span></a><br/>
-<span typeof="mw:Error mw:File"></span>7 <a href="ticket.html"><span class="color-template color-template-ticket color-template-background-clip">Tickets</span></a><br/>
-<span typeof="mw:Error mw:File"></span>2 <a href="royal-jelly.html"><span class="color-template color-template-royal-jelly color-template-background-clip">Royal Jellies</span></a>
+<p><img alt="Treat" height="25" src="img/Treat.png" width="25"/>100 <a href="treat.html"><span class="color-template color-template-treat">Treats</span></a><br/>
+<img alt="Ticket" height="25" src="img/Ticket.png" width="25"/>7 <a href="ticket.html"><span class="color-template color-template-ticket color-template-background-clip">Tickets</span></a><br/>
+<img alt="Royal Jelly" height="25" src="img/Royal_Jelly.png" width="25"/>2 <a href="royal-jelly.html"><span class="color-template color-template-royal-jelly color-template-background-clip">Royal Jellies</span></a>
 </p>
 </td></tr>
 <tr>
@@ -260,9 +260,9 @@ Each time she introduces a new treat to feed to the player's bees, she tells the
 <li>Use 8 Royal Jellies</li></ul>
 </td>
 <td><span typeof="mw:Error mw:File"></span>2,500,000 <a href="honey.html"><span class="color-template color-template-honey">Honey</span></a><br/>
-<p><span typeof="mw:Error mw:File"></span>250 <a href="treat.html"><span class="color-template color-template-treat">Treats</span></a><br/>
-<span typeof="mw:Error mw:File"></span>8 <a href="ticket.html"><span class="color-template color-template-ticket color-template-background-clip">Tickets</span></a><br/>
-<span typeof="mw:Error mw:File"></span>3 <a href="royal-jelly.html"><span class="color-template color-template-royal-jelly color-template-background-clip">Royal Jellies</span></a>
+<p><img alt="Treat" height="25" src="img/Treat.png" width="25"/>250 <a href="treat.html"><span class="color-template color-template-treat">Treats</span></a><br/>
+<img alt="Ticket" height="25" src="img/Ticket.png" width="25"/>8 <a href="ticket.html"><span class="color-template color-template-ticket color-template-background-clip">Tickets</span></a><br/>
+<img alt="Royal Jelly" height="25" src="img/Royal_Jelly.png" width="25"/>3 <a href="royal-jelly.html"><span class="color-template color-template-royal-jelly color-template-background-clip">Royal Jellies</span></a>
 </p>
 </td></tr>
 <tr>
@@ -270,13 +270,13 @@ Each time she introduces a new treat to feed to the player's bees, she tells the
 </td>
 <td>
 <ul><li>Raise 3 Bees to Level 9</li>
-<li>Feed <span typeof="mw:Error mw:File"></span>5,000 <a href="treat.html"><span class="color-template color-template-treat">Treats</span></a> to your Bees</li>
-<li>Feed <span typeof="mw:Error mw:File"></span>200 <a href="strawberry.html"><span class="color-template color-template-strawberry color-template-background-clip">Strawberries</span></a> to your Bees</li></ul>
+<li>Feed <img alt="Treat" height="25" src="img/Treat.png" width="25"/>5,000 <a href="treat.html"><span class="color-template color-template-treat">Treats</span></a> to your Bees</li>
+<li>Feed <img alt="Strawberry" height="25" src="img/Strawberry.png" width="25"/>200 <a href="strawberry.html"><span class="color-template color-template-strawberry color-template-background-clip">Strawberries</span></a> to your Bees</li></ul>
 </td>
 <td><span typeof="mw:Error mw:File"></span>5,000,000 <a href="honey.html"><span class="color-template color-template-honey">Honey</span></a><br/>
-<p><span typeof="mw:Error mw:File"></span>1,000 <a href="treat.html"><span class="color-template color-template-treat">Treats</span></a><br/>
-<span typeof="mw:Error mw:File"></span>9 <a href="ticket.html"><span class="color-template color-template-ticket color-template-background-clip">Tickets</span></a><br/>
-<span typeof="mw:Error mw:File"></span>4 <a href="royal-jelly.html"><span class="color-template color-template-royal-jelly color-template-background-clip">Royal Jellies</span></a>
+<p><img alt="Treat" height="25" src="img/Treat.png" width="25"/>1,000 <a href="treat.html"><span class="color-template color-template-treat">Treats</span></a><br/>
+<img alt="Ticket" height="25" src="img/Ticket.png" width="25"/>9 <a href="ticket.html"><span class="color-template color-template-ticket color-template-background-clip">Tickets</span></a><br/>
+<img alt="Royal Jelly" height="25" src="img/Royal_Jelly.png" width="25"/>4 <a href="royal-jelly.html"><span class="color-template color-template-royal-jelly color-template-background-clip">Royal Jellies</span></a>
 </p>
 </td></tr>
 <tr>
@@ -286,17 +286,17 @@ Each time she introduces a new treat to feed to the player's bees, she tells the
 <ul><li>Raise a Bee to Level 10.</li>
 <li>Raise 5 Bees to Level 9.</li>
 <li>Raise 15 Bees to Level 8.</li>
-<li>Feed <span typeof="mw:Error mw:File"></span>10,000 <a href="treat.html"><span class="color-template color-template-treat">Treats</span></a> to your Bees.</li>
-<li>Feed <span typeof="mw:Error mw:File"></span>250 <a href="sunflower-seed.html"><span class="color-template color-template-sunflower-seed color-template-background-clip">Sunflower Seeds</span></a> to your Bees.</li>
-<li>Feed <span typeof="mw:Error mw:File"></span>250 <a href="pineapple.html"><span class="color-template color-template-pineapple color-template-background-clip">Pineapples</span></a> to your Bees.</li>
-<li>Feed <span typeof="mw:Error mw:File"></span>250 <a href="strawberry.html"><span class="color-template color-template-strawberry color-template-background-clip">Strawberries</span></a> to your Bees.</li>
-<li>Feed <span typeof="mw:Error mw:File"></span>250 <a href="blueberry.html"><span class="color-template color-template-blueberry color-template-background-clip">Blueberries</span></a> to your Bees.</li></ul>
+<li>Feed <img alt="Treat" height="25" src="img/Treat.png" width="25"/>10,000 <a href="treat.html"><span class="color-template color-template-treat">Treats</span></a> to your Bees.</li>
+<li>Feed <img alt="Sunflower Seed" height="25" src="img/Sunflower_Seed.png" width="25"/>250 <a href="sunflower-seed.html"><span class="color-template color-template-sunflower-seed color-template-background-clip">Sunflower Seeds</span></a> to your Bees.</li>
+<li>Feed <img alt="Pineapple" height="25" src="img/Pineapple.png" width="25"/>250 <a href="pineapple.html"><span class="color-template color-template-pineapple color-template-background-clip">Pineapples</span></a> to your Bees.</li>
+<li>Feed <img alt="Strawberry" height="25" src="img/Strawberry.png" width="25"/>250 <a href="strawberry.html"><span class="color-template color-template-strawberry color-template-background-clip">Strawberries</span></a> to your Bees.</li>
+<li>Feed <img alt="Blueberry" height="25" src="img/Blueberry.png" width="25"/>250 <a href="blueberry.html"><span class="color-template color-template-blueberry color-template-background-clip">Blueberries</span></a> to your Bees.</li></ul>
 </td>
-<td><span typeof="mw:Error mw:File"></span>1 <a href="star-treat.html"><span class="color-template color-template-star-treat color-template-background-clip">Star Treat</span></a><br/>
+<td><img alt="Star Treat" height="25" src="img/Star_Treat.png" width="25"/>1 <a href="star-treat.html"><span class="color-template color-template-star-treat color-template-background-clip">Star Treat</span></a><br/>
 <p><span typeof="mw:Error mw:File"></span>10,000,000 <a href="honey.html"><span class="color-template color-template-honey">Honey</span></a><br/>
-<span typeof="mw:Error mw:File"></span>2,500 <a href="treat.html"><span class="color-template color-template-treat">Treats</span></a><br/>
-<span typeof="mw:Error mw:File"></span>10 <a href="ticket.html"><span class="color-template color-template-ticket color-template-background-clip">Tickets</span></a><br/>
-<span typeof="mw:Error mw:File"></span>5 <a href="royal-jelly.html"><span class="color-template color-template-royal-jelly color-template-background-clip">Royal Jellies</span></a>
+<img alt="Treat" height="25" src="img/Treat.png" width="25"/>2,500 <a href="treat.html"><span class="color-template color-template-treat">Treats</span></a><br/>
+<img alt="Ticket" height="25" src="img/Ticket.png" width="25"/>10 <a href="ticket.html"><span class="color-template color-template-ticket color-template-background-clip">Tickets</span></a><br/>
+<img alt="Royal Jelly" height="25" src="img/Royal_Jelly.png" width="25"/>5 <a href="royal-jelly.html"><span class="color-template color-template-royal-jelly color-template-background-clip">Royal Jellies</span></a>
 </p>
 </td></tr></tbody></table>
 
@@ -507,10 +507,10 @@ The following content has been removed from the game. The contents below may be 
 </td>
 <td>
 <p><span typeof="mw:Error mw:File"></span>100,000 <a href="honey.html"><span class="color-template color-template-honey">Honey</span></a><br/>
-<span typeof="mw:Error mw:File"></span>5 <a href="ticket.html"><span class="color-template color-template-ticket color-template-background-clip">Tickets</span></a><br/>
-<span typeof="mw:Error mw:File"></span>1 <a href="glue.html"><span class="color-template color-template-glue color-template-background-clip">Glue</span></a><br/>
-<span typeof="mw:Error mw:File"></span>5 <a href="jelly-beans.html"><span class="color-template color-template-jelly-beans color-template-background-clip">Jelly Beans</span></a><br/>
-<span typeof="mw:Error mw:File"></span>1 <a href="gingerbread-bear.html"><span class="color-template color-template-gingerbread-bear color-template-background-clip">Gingerbread Bear</span></a><br/>
+<img alt="Ticket" height="25" src="img/Ticket.png" width="25"/>5 <a href="ticket.html"><span class="color-template color-template-ticket color-template-background-clip">Tickets</span></a><br/>
+<img alt="Glue" height="25" src="img/Glue.png" width="25"/>1 <a href="glue.html"><span class="color-template color-template-glue color-template-background-clip">Glue</span></a><br/>
+<img alt="Jelly Beans" height="25" src="img/Jelly_Beans.png" width="25"/>5 <a href="jelly-beans.html"><span class="color-template color-template-jelly-beans color-template-background-clip">Jelly Beans</span></a><br/>
+<img alt="Gingerbread Bear" height="25" src="img/Gingerbread_Bear.png" width="25"/>1 <a href="gingerbread-bear.html"><span class="color-template color-template-gingerbread-bear color-template-background-clip">Gingerbread Bear</span></a><br/>
 Access to the <a href="gingerbread-house.html">Gingerbread House</a>
 </p>
 </td></tr></tbody></table>

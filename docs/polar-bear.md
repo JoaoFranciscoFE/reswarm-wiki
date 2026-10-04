@@ -126,8 +126,8 @@ Polar Bear has 20 different quests that he will randomly assign and can be compl
 </td>
 <td>125,000 <a href="honey.html">Honey</a><br/>
 <p>1x <i><a href="buffs-debuffs.html#From_NPCs">Polar Power</a></i><br/>
-<span typeof="mw:Error mw:File"></span>10 <a href="treat.html"><span class="color-template color-template-treat">Treats</span></a><br/>
-<span typeof="mw:Error mw:File"></span>1 <a href="ticket.html"><span class="color-template color-template-ticket color-template-background-clip">Ticket</span></a>
+<img alt="Treat" height="25" src="img/Treat.png" width="25"/>10 <a href="treat.html"><span class="color-template color-template-treat">Treats</span></a><br/>
+<img alt="Ticket" height="25" src="img/Ticket.png" width="25"/>1 <a href="ticket.html"><span class="color-template color-template-ticket color-template-background-clip">Ticket</span></a>
 </p>
 </td></tr>
 <tr>
@@ -139,7 +139,7 @@ Polar Bear has 20 different quests that he will randomly assign and can be compl
 </td>
 <td>160,000 <a href="honey.html">Honey</a><br/>
 <p>1x <i><a href="buffs-debuffs.html#From_NPCs">Polar Power</a></i><br/>
-<span typeof="mw:Error mw:File"></span>10 <a href="treat.html"><span class="color-template color-template-treat">Treats</span></a>
+<img alt="Treat" height="25" src="img/Treat.png" width="25"/>10 <a href="treat.html"><span class="color-template color-template-treat">Treats</span></a>
 </p>
 </td></tr>
 <tr>
@@ -152,7 +152,7 @@ Polar Bear has 20 different quests that he will randomly assign and can be compl
 </td>
 <td>132,000 <a href="honey.html">Honey</a><br/>
 <p>1x <i><a href="buffs-debuffs.html#From_NPCs">Polar Power</a></i><br/>
-<span typeof="mw:Error mw:File"></span>10 <a href="treat.html"><span class="color-template color-template-treat">Treats</span></a>
+<img alt="Treat" height="25" src="img/Treat.png" width="25"/>10 <a href="treat.html"><span class="color-template color-template-treat">Treats</span></a>
 </p>
 </td></tr>
 <tr>
@@ -164,7 +164,7 @@ Polar Bear has 20 different quests that he will randomly assign and can be compl
 </td>
 <td>120,000 Honey<br/>
 <p>1x <i><a href="buffs-debuffs.html#From_NPCs">Polar Power</a></i><br/>
-<span typeof="mw:Error mw:File"></span>10 <a href="treat.html"><span class="color-template color-template-treat">Treats</span></a>
+<img alt="Treat" height="25" src="img/Treat.png" width="25"/>10 <a href="treat.html"><span class="color-template color-template-treat">Treats</span></a>
 </p>
 </td></tr>
 <tr>
@@ -177,7 +177,7 @@ Polar Bear has 20 different quests that he will randomly assign and can be compl
 </td>
 <td>132,000 <a href="honey.html">Honey</a><br/>
 <p>1x <i><a href="buffs-debuffs.html#From_NPCs">Polar Power</a></i><br/>
-<span typeof="mw:Error mw:File"></span>10 <a href="treat.html"><span class="color-template color-template-treat">Treats</span></a>
+<img alt="Treat" height="25" src="img/Treat.png" width="25"/>10 <a href="treat.html"><span class="color-template color-template-treat">Treats</span></a>
 </p>
 </td></tr>
 <tr>
@@ -191,7 +191,7 @@ Polar Bear has 20 different quests that he will randomly assign and can be compl
 </td>
 <td>155,000 <a href="honey.html">Honey</a><br/>
 <p>1x <i><a href="buffs-debuffs.html#From_NPCs">Polar Power</a></i><br/>
-<span typeof="mw:Error mw:File"></span>10 <a href="treat.html"><span class="color-template color-template-treat">Treats</span></a>
+<img alt="Treat" height="25" src="img/Treat.png" width="25"/>10 <a href="treat.html"><span class="color-template color-template-treat">Treats</span></a>
 </p>
 </td></tr>
 <tr>
@@ -205,7 +205,7 @@ Polar Bear has 20 different quests that he will randomly assign and can be compl
 </td>
 <td>163,000 <a href="honey.html">Honey</a><br/>
 <p>1x <i><a href="buffs-debuffs.html#From_NPCs">Polar Power</a></i><br/>
-<span typeof="mw:Error mw:File"></span>10 <a href="treat.html"><span class="color-template color-template-treat">Treats</span></a>
+<img alt="Treat" height="25" src="img/Treat.png" width="25"/>10 <a href="treat.html"><span class="color-template color-template-treat">Treats</span></a>
 </p>
 </td></tr>
 <tr>
@@ -218,8 +218,8 @@ Polar Bear has 20 different quests that he will randomly assign and can be compl
 </td>
 <td>150,000 <a href="honey.html">Honey</a><br/>
 <p>1x <i><a href="buffs-debuffs.html#From_NPCs">Polar Power</a></i><br/>
-<span typeof="mw:Error mw:File"></span>10 <a href="treat.html"><span class="color-template color-template-treat">Treats</span></a><br/>
-<span typeof="mw:Error mw:File"></span>1 <a href="ticket.html"><span class="color-template color-template-ticket color-template-background-clip">Ticket</span></a>
+<img alt="Treat" height="25" src="img/Treat.png" width="25"/>10 <a href="treat.html"><span class="color-template color-template-treat">Treats</span></a><br/>
+<img alt="Ticket" height="25" src="img/Ticket.png" width="25"/>1 <a href="ticket.html"><span class="color-template color-template-ticket color-template-background-clip">Ticket</span></a>
 </p>
 </td></tr>
 <tr>
@@ -232,7 +232,7 @@ Polar Bear has 20 different quests that he will randomly assign and can be compl
 </td>
 <td>150,000 <a href="honey.html">Honey</a><br/>
 <p>1x <i><a href="buffs-debuffs.html">Polar Power</a></i><br/>
-<span typeof="mw:Error mw:File"></span>10 <a href="treat.html"><span class="color-template color-template-treat">Treats</span></a>
+<img alt="Treat" height="25" src="img/Treat.png" width="25"/>10 <a href="treat.html"><span class="color-template color-template-treat">Treats</span></a>
 </p>
 </td></tr>
 <tr>
@@ -244,7 +244,7 @@ Polar Bear has 20 different quests that he will randomly assign and can be compl
 </td>
 <td>160,000 <a href="honey.html">Honey</a><br/>
 <p>1x <i><a href="buffs-debuffs.html#From_NPCs">Polar Power</a></i><br/>
-<span typeof="mw:Error mw:File"></span>10 <a href="treat.html"><span class="color-template color-template-treat">Treats</span></a>
+<img alt="Treat" height="25" src="img/Treat.png" width="25"/>10 <a href="treat.html"><span class="color-template color-template-treat">Treats</span></a>
 </p>
 </td></tr>
 <tr>
@@ -256,8 +256,8 @@ Polar Bear has 20 different quests that he will randomly assign and can be compl
 </td>
 <td>100,000 <a href="honey.html">Honey</a><br/>
 <p>1x <i><a href="buffs-debuffs.html#From_NPCs">Polar Power</a></i><br/>
-<span typeof="mw:Error mw:File"></span>10 <a href="treat.html"><span class="color-template color-template-treat">Treats</span></a><br/>
-<span typeof="mw:Error mw:File"></span>1 <a href="ticket.html"><span class="color-template color-template-ticket color-template-background-clip">Ticket</span></a>
+<img alt="Treat" height="25" src="img/Treat.png" width="25"/>10 <a href="treat.html"><span class="color-template color-template-treat">Treats</span></a><br/>
+<img alt="Ticket" height="25" src="img/Ticket.png" width="25"/>1 <a href="ticket.html"><span class="color-template color-template-ticket color-template-background-clip">Ticket</span></a>
 </p>
 </td></tr>
 <tr>
@@ -271,7 +271,7 @@ Polar Bear has 20 different quests that he will randomly assign and can be compl
 </td>
 <td>135,000 <a href="honey.html">Honey</a><br/>
 <p>1x <i><a href="buffs-debuffs.html#From_NPCs">Polar Power</a></i><br/>
-<span typeof="mw:Error mw:File"></span>10 <a href="treat.html"><span class="color-template color-template-treat">Treats</span></a>
+<img alt="Treat" height="25" src="img/Treat.png" width="25"/>10 <a href="treat.html"><span class="color-template color-template-treat">Treats</span></a>
 </p>
 </td></tr>
 <tr>
@@ -285,7 +285,7 @@ Polar Bear has 20 different quests that he will randomly assign and can be compl
 </td>
 <td>230,000 <a href="honey.html">Honey</a><br/>
 <p>1x <i><a href="buffs-debuffs.html#From_NPCs">Polar Power</a></i><br/>
-<span typeof="mw:Error mw:File"></span>10 <a href="treat.html"><span class="color-template color-template-treat">Treats</span></a>
+<img alt="Treat" height="25" src="img/Treat.png" width="25"/>10 <a href="treat.html"><span class="color-template color-template-treat">Treats</span></a>
 </p>
 </td></tr>
 <tr>
@@ -298,7 +298,7 @@ Polar Bear has 20 different quests that he will randomly assign and can be compl
 </td>
 <td>190,000 <a href="honey.html">Honey</a><br/>
 <p>1x <i><a href="buffs-debuffs.html#From_NPCs">Polar Power</a></i><br/>
-<span typeof="mw:Error mw:File"></span>10 <a href="treat.html"><span class="color-template color-template-treat">Treats</span></a>
+<img alt="Treat" height="25" src="img/Treat.png" width="25"/>10 <a href="treat.html"><span class="color-template color-template-treat">Treats</span></a>
 </p>
 </td></tr>
 <tr>
@@ -310,7 +310,7 @@ Polar Bear has 20 different quests that he will randomly assign and can be compl
 </td>
 <td>85,000 <a href="honey.html">Honey</a><br/>
 <p>1x <i><a href="buffs-debuffs.html#From_NPCs">Polar Power</a></i><br/>
-<span typeof="mw:Error mw:File"></span>10 <a href="treat.html"><span class="color-template color-template-treat">Treats</span></a>
+<img alt="Treat" height="25" src="img/Treat.png" width="25"/>10 <a href="treat.html"><span class="color-template color-template-treat">Treats</span></a>
 </p>
 </td></tr>
 <tr>
@@ -322,8 +322,8 @@ Polar Bear has 20 different quests that he will randomly assign and can be compl
 </td>
 <td>182,000 <a href="honey.html">Honey</a><br/>
 <p>1x <i><a href="buffs-debuffs.html">Polar Power</a></i><br/>
-<span typeof="mw:Error mw:File"></span>10 <a href="treat.html"><span class="color-template color-template-treat">Treats</span></a><br/>
-<span typeof="mw:Error mw:File"></span>1 <a href="ticket.html"><span class="color-template color-template-ticket color-template-background-clip">Ticket</span></a>
+<img alt="Treat" height="25" src="img/Treat.png" width="25"/>10 <a href="treat.html"><span class="color-template color-template-treat">Treats</span></a><br/>
+<img alt="Ticket" height="25" src="img/Ticket.png" width="25"/>1 <a href="ticket.html"><span class="color-template color-template-ticket color-template-background-clip">Ticket</span></a>
 </p>
 </td></tr>
 <tr>
@@ -339,7 +339,7 @@ Polar Bear has 20 different quests that he will randomly assign and can be compl
 </td>
 <td>260,000 <a href="honey.html">Honey</a><br/>
 <p>1x <i><a href="buffs-debuffs.html#From_NPCs">Polar Power</a></i><br/>
-<span typeof="mw:Error mw:File"></span>10 <a href="treat.html"><span class="color-template color-template-treat">Treats</span></a><br/>
+<img alt="Treat" height="25" src="img/Treat.png" width="25"/>10 <a href="treat.html"><span class="color-template color-template-treat">Treats</span></a><br/>
 2x <a href="ticket.html">Ticket</a>
 </p>
 </td></tr>
@@ -351,7 +351,7 @@ Polar Bear has 20 different quests that he will randomly assign and can be compl
 </td>
 <td>155,000 <a href="honey.html">Honey</a><br/>
 <p>1x <i><a href="buffs-debuffs.html#From_NPCs">Polar Power</a></i><br/>
-<span typeof="mw:Error mw:File"></span>10 <a href="treat.html"><span class="color-template color-template-treat">Treats</span></a>
+<img alt="Treat" height="25" src="img/Treat.png" width="25"/>10 <a href="treat.html"><span class="color-template color-template-treat">Treats</span></a>
 </p>
 </td></tr>
 <tr>
@@ -364,8 +364,8 @@ Polar Bear has 20 different quests that he will randomly assign and can be compl
 <li>Defeat 1 <a href="spider.html">Spider</a>.</li></ul>
 </td>
 <td>1x <i><a href="buffs-debuffs.html#From_NPCs">Polar Power</a></i><br/>
-<p><span typeof="mw:Error mw:File"></span>10 <a href="treat.html"><span class="color-template color-template-treat">Treats</span></a><br/>
-<span typeof="mw:Error mw:File"></span>2 <a href="ticket.html"><span class="color-template color-template-ticket color-template-background-clip">Tickets</span></a>
+<p><img alt="Treat" height="25" src="img/Treat.png" width="25"/>10 <a href="treat.html"><span class="color-template color-template-treat">Treats</span></a><br/>
+<img alt="Ticket" height="25" src="img/Ticket.png" width="25"/>2 <a href="ticket.html"><span class="color-template color-template-ticket color-template-background-clip">Tickets</span></a>
 </p>
 </td></tr>
 <tr>
@@ -377,8 +377,8 @@ Polar Bear has 20 different quests that he will randomly assign and can be compl
 <li>Defeat 4 <a href="rhino-beetle.html">Rhino Beetles</a>.</li></ul>
 </td>
 <td>1x <i><a href="buffs-debuffs.html#From_NPCs">Polar Power</a></i><br/>
-<p><span typeof="mw:Error mw:File"></span>10 <a href="treat.html"><span class="color-template color-template-treat">Treats</span></a><br/>
-<span typeof="mw:Error mw:File"></span>1 <a href="ticket.html"><span class="color-template color-template-ticket color-template-background-clip">Ticket</span></a>
+<p><img alt="Treat" height="25" src="img/Treat.png" width="25"/>10 <a href="treat.html"><span class="color-template color-template-treat">Treats</span></a><br/>
+<img alt="Ticket" height="25" src="img/Ticket.png" width="25"/>1 <a href="ticket.html"><span class="color-template color-template-ticket color-template-background-clip">Ticket</span></a>
 </p>
 </td></tr></tbody></table>
 
@@ -391,22 +391,22 @@ In addition to the rewards listed, each quest has a chance to yield extra reward
 <th>Chance
 </th></tr>
 <tr>
-<td><span typeof="mw:Error mw:File"></span>1 <a href="oil.html"><span class="color-template color-template-oil color-template-background-clip">Oil</span></a>
+<td><img alt="Oil" height="25" src="img/Oil.png" width="25"/>1 <a href="oil.html"><span class="color-template color-template-oil color-template-background-clip">Oil</span></a>
 </td>
 <td>~6.67%
 </td></tr>
 <tr>
-<td><span typeof="mw:Error mw:File"></span>1 <a href="enzymes.html"><span class="color-template color-template-enzymes color-template-background-clip">Enzymes</span></a>
+<td><img alt="Enzymes" height="25" src="img/Enzymes.png" width="25"/>1 <a href="enzymes.html"><span class="color-template color-template-enzymes color-template-background-clip">Enzymes</span></a>
 </td>
 <td>~6.67%
 </td></tr>
 <tr>
-<td><span typeof="mw:Error mw:File"></span>1 <a href="magic-bean.html"><span class="color-template color-template-magic-bean color-template-background-clip">Magic Bean</span></a>
+<td><img alt="Magic Bean" height="25" src="img/Magic_Bean.png" width="25"/>1 <a href="magic-bean.html"><span class="color-template color-template-magic-bean color-template-background-clip">Magic Bean</span></a>
 </td>
 <td>4%
 </td></tr>
 <tr>
-<td><span typeof="mw:Error mw:File"></span>1 <a href="glitter.html"><span class="color-template color-template-glitter color-template-background-clip">Glitter</span></a>
+<td><img alt="Glitter" height="25" src="img/Glitter.png" width="25"/>1 <a href="glitter.html"><span class="color-template color-template-glitter color-template-background-clip">Glitter</span></a>
 </td>
 <td>2%
 </td></tr>
@@ -510,10 +510,10 @@ The following content has been removed from the game. The contents below may be 
 </td>
 <td>
 <p><span typeof="mw:Error mw:File"></span>25,000,000 <a href="honey.html"><span class="color-template color-template-honey">Honey</span></a><br/>
-<span typeof="mw:Error mw:File"></span>10 <a href="ticket.html"><span class="color-template color-template-ticket color-template-background-clip">Tickets</span></a><br/>
-<span typeof="mw:Error mw:File"></span>1 <a href="white-balloon.html"><span class="color-template color-template-white-balloon color-template-background-clip">White Balloon</span></a><br/>
-<span typeof="mw:Error mw:File"></span>5 <a href="oil.html"><span class="color-template color-template-oil color-template-background-clip">Oils</span></a><br/>
-<span typeof="mw:Error mw:File"></span>3 <a href="gingerbread-bear.html"><span class="color-template color-template-gingerbread-bear color-template-background-clip">Gingerbread Bears</span></a><br/>
+<img alt="Ticket" height="25" src="img/Ticket.png" width="25"/>10 <a href="ticket.html"><span class="color-template color-template-ticket color-template-background-clip">Tickets</span></a><br/>
+<img alt="White Balloon" height="25" src="img/White_Balloon.png" width="25"/>1 <a href="white-balloon.html"><span class="color-template color-template-white-balloon color-template-background-clip">White Balloon</span></a><br/>
+<img alt="Oil" height="25" src="img/Oil.png" width="25"/>5 <a href="oil.html"><span class="color-template color-template-oil color-template-background-clip">Oils</span></a><br/>
+<img alt="Gingerbread Bear" height="25" src="img/Gingerbread_Bear.png" width="25"/>3 <a href="gingerbread-bear.html"><span class="color-template color-template-gingerbread-bear color-template-background-clip">Gingerbread Bears</span></a><br/>
 Access to the <a href="beesmas-feast.html">Beesmas Feast</a>
 </p>
 </td></tr></tbody></table>
@@ -554,10 +554,10 @@ The following content has been removed from the game. The contents below may be 
 <li>Collect 10 <a href="gingerbread-bear.html">Gingerbread Bears</a>.</li></ul>
 </td>
 <td><span typeof="mw:Error mw:File"></span>75,000,000 <a href="honey.html"><span class="color-template color-template-honey">Honey</span></a><br/>
-<p><span typeof="mw:Error mw:File"></span>10 <a href="ticket.html"><span class="color-template color-template-ticket color-template-background-clip">Tickets</span></a><br/>
-<span typeof="mw:Error mw:File"></span>1 <a href="atomic-treat.html"><span class="color-template color-template-atomic-treat color-template-background-clip">Atomic Treat</span></a><br/>
-<span typeof="mw:Error mw:File"></span>5 <a href="oil.html"><span class="color-template color-template-oil color-template-background-clip">Oils</span></a><br/>
-<span typeof="mw:Error mw:File"></span>3 <a href="gingerbread-bear.html"><span class="color-template color-template-gingerbread-bear color-template-background-clip">Gingerbread Bears</span></a><br/>
+<p><img alt="Ticket" height="25" src="img/Ticket.png" width="25"/>10 <a href="ticket.html"><span class="color-template color-template-ticket color-template-background-clip">Tickets</span></a><br/>
+<img alt="Atomic Treat" height="25" src="img/Atomic_Treat.png" width="25"/>1 <a href="atomic-treat.html"><span class="color-template color-template-atomic-treat color-template-background-clip">Atomic Treat</span></a><br/>
+<img alt="Oil" height="25" src="img/Oil.png" width="25"/>5 <a href="oil.html"><span class="color-template color-template-oil color-template-background-clip">Oils</span></a><br/>
+<img alt="Gingerbread Bear" height="25" src="img/Gingerbread_Bear.png" width="25"/>3 <a href="gingerbread-bear.html"><span class="color-template color-template-gingerbread-bear color-template-background-clip">Gingerbread Bears</span></a><br/>
 Access to the <a href="beesmas-feast.html">Beesmas Feast</a>
 </p>
 </td></tr></tbody></table>
@@ -597,11 +597,11 @@ The following content has been removed from the game. The contents below may be 
 <li>Obtain 1 (either Wishbone or Giraffe) sticker to give to Polar Bear.</li></ul>
 </td>
 <td><span typeof="mw:Error mw:File"></span>25,000,000 <a href="honey.html"><span class="color-template color-template-honey">Honey</span></a><br/>
-<p><span typeof="mw:Error mw:File"></span>15 <a href="ticket.html"><span class="color-template color-template-ticket color-template-background-clip">Tickets</span></a><br/>
-<span typeof="mw:Error mw:File"></span>500 <a href="treat.html"><span class="color-template color-template-treat">Treats</span></a><br/>
-<span typeof="mw:Error mw:File"></span>3 <a href="oil.html"><span class="color-template color-template-oil color-template-background-clip">Oils</span></a><br/>
-<span typeof="mw:Error mw:File"></span>3 <a href="hard-wax.html"><span class="color-template color-template-hard-wax">Hard Waxes</span></a><br/>
-<span typeof="mw:Error mw:File"></span>25 <a href="snowflake.html"><span class="color-template color-template-snowflake color-template-background-clip">Snowflakes</span></a><br/>
+<p><img alt="Ticket" height="25" src="img/Ticket.png" width="25"/>15 <a href="ticket.html"><span class="color-template color-template-ticket color-template-background-clip">Tickets</span></a><br/>
+<img alt="Treat" height="25" src="img/Treat.png" width="25"/>500 <a href="treat.html"><span class="color-template color-template-treat">Treats</span></a><br/>
+<img alt="Oil" height="25" src="img/Oil.png" width="25"/>3 <a href="oil.html"><span class="color-template color-template-oil color-template-background-clip">Oils</span></a><br/>
+<img alt="Hard Wax" height="25" src="img/Hard_Wax.png" width="25"/>3 <a href="hard-wax.html"><span class="color-template color-template-hard-wax">Hard Waxes</span></a><br/>
+<img alt="Snowflake" height="25" src="img/Snowflake.png" width="25"/>25 <a href="snowflake.html"><span class="color-template color-template-snowflake color-template-background-clip">Snowflakes</span></a><br/>
 Access to the <a href="beesmas-feast.html">Beesmas Feast</a>
 </p>
 </td></tr></tbody></table>
@@ -642,10 +642,10 @@ The following content has been removed from the game. The contents below may be 
 <li>Pop 10 <a href="puffshroom.html">Puffshrooms</a>.</li></ul>
 </td>
 <td><span typeof="mw:Error mw:File"></span>1,000,000 <a href="honey.html"><span class="color-template color-template-honey">Honey</span></a><br/>
-<p><span typeof="mw:Error mw:File"></span>1 <a href="satisfying-vial.html"><span class="color-template color-template-satisfying-vial color-template-background-clip">Satisfying Vial</span></a><br/>
-<span typeof="mw:Error mw:File"></span>50 <a href="treat.html"><span class="color-template color-template-treat">Treats</span></a><br/>
-<span typeof="mw:Error mw:File"></span>5 <a href="neonberry.html"><span class="color-template color-template-neonberry color-template-background-clip">Neonberries</span></a><br/>
-<span typeof="mw:Error mw:File"></span>3 <a href="gingerbread-bear.html"><span class="color-template color-template-gingerbread-bear color-template-background-clip">Gingerbread Bears</span></a><br/>
+<p><img alt="Satisfying Vial" height="25" src="img/Satisfying_Vial.png" width="25"/>1 <a href="satisfying-vial.html"><span class="color-template color-template-satisfying-vial color-template-background-clip">Satisfying Vial</span></a><br/>
+<img alt="Treat" height="25" src="img/Treat.png" width="25"/>50 <a href="treat.html"><span class="color-template color-template-treat">Treats</span></a><br/>
+<img alt="Neonberry" height="25" src="img/Neonberry.png" width="25"/>5 <a href="neonberry.html"><span class="color-template color-template-neonberry color-template-background-clip">Neonberries</span></a><br/>
+<img alt="Gingerbread Bear" height="25" src="img/Gingerbread_Bear.png" width="25"/>3 <a href="gingerbread-bear.html"><span class="color-template color-template-gingerbread-bear color-template-background-clip">Gingerbread Bears</span></a><br/>
 Access to the <a href="beesmas-feast.html">Beesmas Feast</a>
 </p>
 </td></tr></tbody></table>
@@ -693,11 +693,11 @@ The following content has been removed from the game. The contents below may be 
 <li>Collect 25 Tokens from <a href="planter.html">Planters</a>.</li></ul>
 </td>
 <td><span typeof="mw:Error mw:File"></span>1,000,000 <a href="honey.html"><span class="color-template color-template-honey">Honey</span></a><br/>
-<p><span typeof="mw:Error mw:File"></span>3 <a href="ticket.html"><span class="color-template color-template-ticket color-template-background-clip">Tickets</span></a><br/>
-<span typeof="mw:Error mw:File"></span>1 <a href="gingerbread-bear.html"><span class="color-template color-template-gingerbread-bear color-template-background-clip">Gingerbread Bear</span></a><br/>
-<span typeof="mw:Error mw:File"></span>1 <a href="hard-wax.html"><span class="color-template color-template-hard-wax">Hard Wax</span></a><br/>
-<span typeof="mw:Error mw:File"></span>25 <a href="honeysuckle.html"><span class="color-template color-template-honeysuckle color-template-background-clip">Honeysuckles</span></a><br/>
-<span typeof="mw:Error mw:File"></span>25 <a href="bitterberry.html"><span class="color-template color-template-bitterberry color-template-background-clip">Bitterberries</span></a><br/>
+<p><img alt="Ticket" height="25" src="img/Ticket.png" width="25"/>3 <a href="ticket.html"><span class="color-template color-template-ticket color-template-background-clip">Tickets</span></a><br/>
+<img alt="Gingerbread Bear" height="25" src="img/Gingerbread_Bear.png" width="25"/>1 <a href="gingerbread-bear.html"><span class="color-template color-template-gingerbread-bear color-template-background-clip">Gingerbread Bear</span></a><br/>
+<img alt="Hard Wax" height="25" src="img/Hard_Wax.png" width="25"/>1 <a href="hard-wax.html"><span class="color-template color-template-hard-wax">Hard Wax</span></a><br/>
+<img alt="Honeysuckle" height="25" src="img/Honeysuckle.png" width="25"/>25 <a href="honeysuckle.html"><span class="color-template color-template-honeysuckle color-template-background-clip">Honeysuckles</span></a><br/>
+<img alt="Bitterberry" height="25" src="img/Bitterberry.png" width="25"/>25 <a href="bitterberry.html"><span class="color-template color-template-bitterberry color-template-background-clip">Bitterberries</span></a><br/>
 Access to the <a href="beesmas-feast.html">Beesmas Feast</a>
 </p>
 </td></tr></tbody></table>
@@ -743,9 +743,9 @@ The following content has been removed from the game. The contents below may be 
 <li>Collect 50 Tokens from <a href="sprout.html">Sprouts</a>.</li></ul>
 </td>
 <td><span typeof="mw:Error mw:File"></span>750,000 <a href="honey.html"><span class="color-template color-template-honey">Honey</span></a><br/>
-<p><span typeof="mw:Error mw:File"></span>3 <a href="gingerbread-bear.html"><span class="color-template color-template-gingerbread-bear color-template-background-clip">Gingerbread Bears</span></a><br/>
-<span typeof="mw:Error mw:File"></span>1 <a href="enzymes.html"><span class="color-template color-template-enzymes color-template-background-clip">Enzymes</span></a><br/>
-<span typeof="mw:Error mw:File"></span>1 <a href="oil.html"><span class="color-template color-template-oil color-template-background-clip">Oil</span></a><br/>
+<p><img alt="Gingerbread Bear" height="25" src="img/Gingerbread_Bear.png" width="25"/>3 <a href="gingerbread-bear.html"><span class="color-template color-template-gingerbread-bear color-template-background-clip">Gingerbread Bears</span></a><br/>
+<img alt="Enzymes" height="25" src="img/Enzymes.png" width="25"/>1 <a href="enzymes.html"><span class="color-template color-template-enzymes color-template-background-clip">Enzymes</span></a><br/>
+<img alt="Oil" height="25" src="img/Oil.png" width="25"/>1 <a href="oil.html"><span class="color-template color-template-oil color-template-background-clip">Oil</span></a><br/>
 Access to the <a href="beesmas-feast.html">Beesmas Feast</a>
 </p>
 </td></tr></tbody></table>
@@ -962,7 +962,7 @@ The following content has been removed from the game. The contents below may be 
 
 ## Gallery
 
-<div class="wikia-gallery wikia-gallery-caption-below wikia-gallery-position-left wikia-gallery-spacing-medium wikia-gallery-border-small wikia-gallery-captions-left wikia-gallery-caption-size-medium" data-seq-no="0" hash="4a72c66dae071af75d54a06c0d5f61f8" id="gallery-0"><div class="wikia-gallery-caption"></div><div class="wikia-gallery-item" style="width:187px; "><div class="thumb" style="height:187px;"><div class="gallery-image-wrapper accent" id="PolarBearPrespective-png" style="position: relative; height:185px; width:185px;"><span style="line-height: 1;">PolarBearPrespective.png</span></div></div><div class="lightbox-caption" style="width:185px;">Polar Bear's perspective view.</div></div><div class="wikia-gallery-item" style="width:187px; "><div class="thumb" style="height:187px;"><div class="gallery-image-wrapper accent" id="Glitter_from_polar-png" style="position: relative; height:185px; width:185px;"><span style="line-height: 1;">Glitter from polar.png</span></div></div><div class="lightbox-caption" style="width:185px;">Glitter from Polar Bear.</div></div><div class="wikia-gallery-item" style="width:187px; "><div class="thumb" style="height:187px;"><div class="gallery-image-wrapper accent" id="Enymes_and_Oil_from_Polar_Bear-png" style="position: relative; height:185px; width:185px;"><span style="line-height: 1;">Enymes and Oil from Polar Bear.png</span></div></div><div class="lightbox-caption" style="width:185px;">Enzymes and <span typeof="mw:Error mw:File"></span><a href="oil.html"><span class="color-template color-template-oil color-template-background-clip">Oils</span></a> from Polar Bear.</div></div><div class="wikia-gallery-item" style="width:187px; "><div class="thumb" style="height:187px;"><div class="gallery-image-wrapper accent" id="Polar_Power-png" style="position: relative; height:185px; width:185px;"><span style="line-height: 1;">Polar Power.png</span></div></div><div class="lightbox-caption" style="width:185px;">Polar Power icon.</div></div><div class="wikia-gallery-item" style="width:187px; "><div class="thumb" style="height:187px;"><div class="gallery-image-wrapper accent" id="Hivesticker_chef_hat_polar_bear-png" style="position: relative; height:185px; width:185px;"><span style="line-height: 1;">Hivesticker chef hat polar bear.png</span></div></div><div class="lightbox-caption" style="width:185px;">The Chef Hat Polar Bear <a href="sticker.html">Sticker</a>.</div></div></div>
+<div class="wikia-gallery wikia-gallery-caption-below wikia-gallery-position-left wikia-gallery-spacing-medium wikia-gallery-border-small wikia-gallery-captions-left wikia-gallery-caption-size-medium" data-seq-no="0" hash="4a72c66dae071af75d54a06c0d5f61f8" id="gallery-0"><div class="wikia-gallery-caption"></div><div class="wikia-gallery-item" style="width:187px; "><div class="thumb" style="height:187px;"><div class="gallery-image-wrapper accent" id="PolarBearPrespective-png" style="position: relative; height:185px; width:185px;"><span style="line-height: 1;">PolarBearPrespective.png</span></div></div><div class="lightbox-caption" style="width:185px;">Polar Bear's perspective view.</div></div><div class="wikia-gallery-item" style="width:187px; "><div class="thumb" style="height:187px;"><div class="gallery-image-wrapper accent" id="Glitter_from_polar-png" style="position: relative; height:185px; width:185px;"><span style="line-height: 1;">Glitter from polar.png</span></div></div><div class="lightbox-caption" style="width:185px;">Glitter from Polar Bear.</div></div><div class="wikia-gallery-item" style="width:187px; "><div class="thumb" style="height:187px;"><div class="gallery-image-wrapper accent" id="Enymes_and_Oil_from_Polar_Bear-png" style="position: relative; height:185px; width:185px;"><span style="line-height: 1;">Enymes and Oil from Polar Bear.png</span></div></div><div class="lightbox-caption" style="width:185px;">Enzymes and <img alt="Oil" height="35" src="img/Oil.png" width="35"/><a href="oil.html"><span class="color-template color-template-oil color-template-background-clip">Oils</span></a> from Polar Bear.</div></div><div class="wikia-gallery-item" style="width:187px; "><div class="thumb" style="height:187px;"><div class="gallery-image-wrapper accent" id="Polar_Power-png" style="position: relative; height:185px; width:185px;"><span style="line-height: 1;">Polar Power.png</span></div></div><div class="lightbox-caption" style="width:185px;">Polar Power icon.</div></div><div class="wikia-gallery-item" style="width:187px; "><div class="thumb" style="height:187px;"><div class="gallery-image-wrapper accent" id="Hivesticker_chef_hat_polar_bear-png" style="position: relative; height:185px; width:185px;"><span style="line-height: 1;">Hivesticker chef hat polar bear.png</span></div></div><div class="lightbox-caption" style="width:185px;">The Chef Hat Polar Bear <a href="sticker.html">Sticker</a>.</div></div></div>
 
 ## Trivia
 

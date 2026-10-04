@@ -119,7 +119,7 @@ This is a list of all 12 bags currently in the game:
 </td>
 <td>Holds 400,000 pollen, +150% <a href="system-page.html#Convert_Rate">Convert Rate</a>, +10% <a href="system-page.html#Instant_Blue_Conversion">Instant Blue Conversion</a>, +10% <a href="system-page.html#Blue_Pollen">Blue Pollen</a>, +1 <a href="system-page.html#Blue_Attack">Blue Bee Attack</a>.
 </td>
-<td><span typeof="mw:Error mw:File"></span>12,500,000 <a href="honey.html"><span class="color-template color-template-honey">Honey</span></a><br/><span typeof="mw:Error mw:File"></span>2 <a href="soft-wax.html"><span class="color-template color-template-soft-wax">Soft Waxes</span></a><br/><span typeof="mw:Error mw:File"></span>2 <a href="blue-extract.html"><span class="color-template color-template-blue-extract color-template-background-clip">Blue Extracts</span></a>
+<td><span typeof="mw:Error mw:File"></span>12,500,000 <a href="honey.html"><span class="color-template color-template-honey">Honey</span></a><br/><img alt="Soft Wax" height="25" src="img/Soft_Wax.png" width="25"/>2 <a href="soft-wax.html"><span class="color-template color-template-soft-wax">Soft Waxes</span></a><br/><img alt="Blue Extract" height="25" src="img/Blue_Extract.png" width="25"/>2 <a href="blue-extract.html"><span class="color-template color-template-blue-extract color-template-background-clip">Blue Extracts</span></a>
 </td>
 <td><a href="blue-hq.html">Blue HQ</a>
 </td></tr>
@@ -130,7 +130,7 @@ This is a list of all 12 bags currently in the game:
 </td>
 <td>Holds 400,000 pollen, +150% Convert Rate, +10% <a href="system-page.html#Instant_Red_Conversion">Instant Red Conversion</a>, +10% <a href="system-page.html#Red_Pollen">Red Pollen</a>, +1 <a href="system-page.html#Red_Attack">Red Bee Attack</a>.
 </td>
-<td><span typeof="mw:Error mw:File"></span>12,500,000 <a href="honey.html"><span class="color-template color-template-honey">Honey</span></a><br/><span typeof="mw:Error mw:File"></span>2 <a href="soft-wax.html"><span class="color-template color-template-soft-wax">Soft Waxes</span></a><br/><span typeof="mw:Error mw:File"></span>2 <a href="red-extract.html"><span class="color-template color-template-red-extract color-template-background-clip">Red Extracts</span></a>
+<td><span typeof="mw:Error mw:File"></span>12,500,000 <a href="honey.html"><span class="color-template color-template-honey">Honey</span></a><br/><img alt="Soft Wax" height="25" src="img/Soft_Wax.png" width="25"/>2 <a href="soft-wax.html"><span class="color-template color-template-soft-wax">Soft Waxes</span></a><br/><img alt="Red Extract" height="25" src="img/Red_Extract.png" width="25"/>2 <a href="red-extract.html"><span class="color-template color-template-red-extract color-template-background-clip">Red Extracts</span></a>
 </td>
 <td><a href="red-hq.html">Red HQ</a>
 </td></tr>
@@ -142,9 +142,9 @@ This is a list of all 12 bags currently in the game:
 <td>Holds 600,000 pollen, +250% Convert Rate, +10% Instant Conversion, x1.25 Convert Rate at Hive, +50% White Pollen
 </td>
 <td><span typeof="mw:Error mw:File"></span>250,000,000 <a href="honey.html"><span class="color-template color-template-honey">Honey</span></a><br/>
-<p><span typeof="mw:Error mw:File"></span>3 <a href="glitter.html"><span class="color-template color-template-glitter color-template-background-clip">Glitter</span></a><br/>
-<span typeof="mw:Error mw:File"></span>3 <a href="soft-wax.html"><span class="color-template color-template-soft-wax">Soft Waxes</span></a><br/>
-<span typeof="mw:Error mw:File"></span>10 <a href="moon-charm.html"><span class="color-template color-template-moon-charm color-template-background-clip">Moon Charms</span></a>
+<p><img alt="Glitter" height="25" src="img/Glitter.png" width="25"/>3 <a href="glitter.html"><span class="color-template color-template-glitter color-template-background-clip">Glitter</span></a><br/>
+<img alt="Soft Wax" height="25" src="img/Soft_Wax.png" width="25"/>3 <a href="soft-wax.html"><span class="color-template color-template-soft-wax">Soft Waxes</span></a><br/>
+<img alt="Moon Charm" height="25" src="img/Moon_Charm.png" width="25"/>10 <a href="moon-charm.html"><span class="color-template color-template-moon-charm color-template-background-clip">Moon Charms</span></a>
 </p>
 </td>
 <td><a href="mountain-top-shop.html">Mountain Top Shop</a>
@@ -157,11 +157,11 @@ This is a list of all 12 bags currently in the game:
 <td>Holds 1,000,000 pollen, x1.25 Capacity, +400% Convert Rate, x1.5 Convert Rate at Hive +10% Instant Conversion, +10% <a href="system-page.html#Instant_White_Conversion">Instant White Conversion</a>, +100% White Pollen, <a href="passive-abilities.html#Emergency_Coconut_Shield">+Passive: Emergency Coconut Shield</a>, <a href="passive-abilities.html#Inspire_Coconuts">+Passive: Inspire Coconuts</a>.
 </td>
 <td><span typeof="mw:Error mw:File"></span><span style="border-bottom:1px dotted;" title="25,000,000,000">25B</span> <a href="honey.html"><span class="color-template color-template-honey">Honey</span></a><br/>
-<p><span typeof="mw:Error mw:File"></span>250 <a href="coconut.html"><span class="color-template color-template-coconut color-template-background-clip">Coconuts</span></a><br/>
-<span typeof="mw:Error mw:File"></span>150 <a href="tropical-drink.html"><span class="color-template color-template-tropical-drink color-template-background-clip">Tropical Drinks</span></a><br/>
-<span typeof="mw:Error mw:File"></span>150 <a href="red-extract.html"><span class="color-template color-template-red-extract color-template-background-clip">Red Extracts</span></a><br/>
-<span typeof="mw:Error mw:File"></span>150 <a href="blue-extract.html"><span class="color-template color-template-blue-extract color-template-background-clip">Blue Extracts</span></a><br/>
-<span typeof="mw:Error mw:File"></span>2 <a href="refreshing-vial.html"><span class="color-template color-template-refreshing-vial color-template-background-clip">Refreshing Vials</span></a>
+<p><img alt="Coconut" height="25" src="img/Coconut.png" width="25"/>250 <a href="coconut.html"><span class="color-template color-template-coconut color-template-background-clip">Coconuts</span></a><br/>
+<img alt="Tropical Drink" height="25" src="img/Tropical_Drink.png" width="25"/>150 <a href="tropical-drink.html"><span class="color-template color-template-tropical-drink color-template-background-clip">Tropical Drinks</span></a><br/>
+<img alt="Red Extract" height="25" src="img/Red_Extract.png" width="25"/>150 <a href="red-extract.html"><span class="color-template color-template-red-extract color-template-background-clip">Red Extracts</span></a><br/>
+<img alt="Blue Extract" height="25" src="img/Blue_Extract.png" width="25"/>150 <a href="blue-extract.html"><span class="color-template color-template-blue-extract color-template-background-clip">Blue Extracts</span></a><br/>
+<img alt="Refreshing Vial" height="25" src="img/Refreshing_Vial.png" width="25"/>2 <a href="refreshing-vial.html"><span class="color-template color-template-refreshing-vial color-template-background-clip">Refreshing Vials</span></a>
 </p>
 </td>
 <td><a href="coconut-cave.html">Coconut Cave</a>

@@ -62,12 +62,12 @@ There is a store in the Red HQ that sells nine [items](items.md). To open the st
 </div></td>
 <td>250 <a href="gifted-riley-bee.html">Gifted Riley Bee</a> quests completed<br/>
 <p><span typeof="mw:Error mw:File"></span><span style="border-bottom:1px dotted;" title="2,500,000,000,000">2.5T</span> <a href="honey.html"><span class="color-template color-template-honey">Honey</span></a><br/>
-<span typeof="mw:Error mw:File"></span>1,500 <a href="red-extract.html"><span class="color-template color-template-red-extract color-template-background-clip">Red Extracts</span></a><br/>
-<span typeof="mw:Error mw:File"></span>200 <a href="stinger.html"><span class="color-template color-template-stinger color-template-background-clip">Stingers</span></a><br/>
-<span typeof="mw:Error mw:File"></span>100 <a href="hard-wax.html"><span class="color-template color-template-hard-wax">Hard Waxes</span></a><br/>
-<span typeof="mw:Error mw:File"></span>50 <a href="caustic-wax.html"><span class="color-template color-template-caustic-wax">Caustic Waxes</span></a><br/>
-<span typeof="mw:Error mw:File"></span>50 <a href="super-smoothie.html"><span class="color-template color-template-super-smoothie color-template-background-clip">Super Smoothies</span></a><br/>
-<span typeof="mw:Error mw:File"></span>3 <a href="invigorating-vial.html"><span class="color-template color-template-invigorating-vial color-template-background-clip">Invigorating Vials</span></a>
+<img alt="Red Extract" height="25" src="img/Red_Extract.png" width="25"/>1,500 <a href="red-extract.html"><span class="color-template color-template-red-extract color-template-background-clip">Red Extracts</span></a><br/>
+<img alt="Stinger" height="25" src="img/Stinger.png" width="25"/>200 <a href="stinger.html"><span class="color-template color-template-stinger color-template-background-clip">Stingers</span></a><br/>
+<img alt="Hard Wax" height="25" src="img/Hard_Wax.png" width="25"/>100 <a href="hard-wax.html"><span class="color-template color-template-hard-wax">Hard Waxes</span></a><br/>
+<img alt="Caustic Wax" height="25" src="img/Caustic_Wax.png" width="25"/>50 <a href="caustic-wax.html"><span class="color-template color-template-caustic-wax">Caustic Waxes</span></a><br/>
+<img alt="Super Smoothie" height="25" src="img/Super_Smoothie.png" width="25"/>50 <a href="super-smoothie.html"><span class="color-template color-template-super-smoothie color-template-background-clip">Super Smoothies</span></a><br/>
+<img alt="Invigorating Vial" height="25" src="img/Invigorating_Vial.png" width="25"/>3 <a href="invigorating-vial.html"><span class="color-template color-template-invigorating-vial color-template-background-clip">Invigorating Vials</span></a>
 </p>
 </td>
 <td>Harvest flames to unlock their dark potential. Tend a violent field of violet fire to enhance your Super-Crit power and Red Ability Conversion
@@ -87,8 +87,8 @@ There is a store in the Red HQ that sells nine [items](items.md). To open the st
 <td><figure class="mw-halign-center" typeof="mw:File"><img alt="Red Port-O-Hive" data-image-key="Red_Port-O-Hive.png" data-image-name="Red Port-O-Hive.png" data-relevant="1" height="80" src="img/Red_Port-O-Hive.png" width="80"/><figcaption></figcaption></figure><div style="text-align: center;"><a href="red-port-o-hive.html">Red Port-O-Hive</a></div>
 </td>
 <td><span typeof="mw:Error mw:File"></span>12,500,000 <a href="honey.html"><span class="color-template color-template-honey">Honey</span></a><br/>
-<p><span typeof="mw:Error mw:File"></span>2 <a href="red-extract.html"><span class="color-template color-template-red-extract color-template-background-clip">Red Extracts</span></a><br/>
-<span typeof="mw:Error mw:File"></span>2 <a href="soft-wax.html"><span class="color-template color-template-soft-wax">Soft Waxes</span></a>
+<p><img alt="Red Extract" height="25" src="img/Red_Extract.png" width="25"/>2 <a href="red-extract.html"><span class="color-template color-template-red-extract color-template-background-clip">Red Extracts</span></a><br/>
+<img alt="Soft Wax" height="25" src="img/Soft_Wax.png" width="25"/>2 <a href="soft-wax.html"><span class="color-template color-template-soft-wax">Soft Waxes</span></a>
 </p>
 </td>
 <td>A Port-O-Hive dipped in shiney <i>[sic]</i> red paint.
@@ -113,10 +113,10 @@ There is a store in the Red HQ that sells nine [items](items.md). To open the st
 <td><figure class="mw-halign-center" typeof="mw:File"><img alt="Fire Mask" data-image-key="Fire_Mask.png" data-image-name="Fire Mask.png" data-relevant="1" height="80" src="img/Fire_Mask.png" width="80"/><figcaption></figcaption></figure><div style="text-align: center;"><a href="fire-mask.html">Fire Mask</a></div>
 </td>
 <td><span typeof="mw:Error mw:File"></span>100,000,000 <a href="honey.html"><span class="color-template color-template-honey">Honey</span></a><br/>
-<p><span typeof="mw:Error mw:File"></span>500 <a href="strawberry.html"><span class="color-template color-template-strawberry color-template-background-clip">Strawberries</span></a><br/>
-<span typeof="mw:Error mw:File"></span>50 <a href="red-extract.html"><span class="color-template color-template-red-extract color-template-background-clip">Red Extracts</span></a><br/>
-<span typeof="mw:Error mw:File"></span>25 <a href="enzymes.html"><span class="color-template color-template-enzymes color-template-background-clip">Enzymes</span></a><br/>
-<span typeof="mw:Error mw:File"></span>15 <a href="glue.html"><span class="color-template color-template-glue color-template-background-clip">Glues</span></a>
+<p><img alt="Strawberry" height="25" src="img/Strawberry.png" width="25"/>500 <a href="strawberry.html"><span class="color-template color-template-strawberry color-template-background-clip">Strawberries</span></a><br/>
+<img alt="Red Extract" height="25" src="img/Red_Extract.png" width="25"/>50 <a href="red-extract.html"><span class="color-template color-template-red-extract color-template-background-clip">Red Extracts</span></a><br/>
+<img alt="Enzymes" height="25" src="img/Enzymes.png" width="25"/>25 <a href="enzymes.html"><span class="color-template color-template-enzymes color-template-background-clip">Enzymes</span></a><br/>
+<img alt="Glue" height="25" src="img/Glue.png" width="25"/>15 <a href="glue.html"><span class="color-template color-template-glue color-template-background-clip">Glues</span></a>
 </p>
 </td>
 <td>Ignite your mind to enhance your Red bees.
@@ -134,9 +134,9 @@ There is a store in the Red HQ that sells nine [items](items.md). To open the st
 <td><figure class="mw-halign-center" typeof="mw:File"><img alt="Red Guard" data-image-key="Red_Guard.png" data-image-name="Red Guard.png" data-relevant="1" height="80" src="img/Red_Guard.png" width="80"/><figcaption></figcaption></figure><div style="text-align: center;"><a href="red-guard.html">Red Guard</a></div>
 </td>
 <td><span typeof="mw:Error mw:File"></span>750,000 <a href="honey.html"><span class="color-template color-template-honey">Honey</span></a><br/>
-<p><span typeof="mw:Error mw:File"></span>50 <a href="strawberry.html"><span class="color-template color-template-strawberry color-template-background-clip">Strawberries</span></a><br/>
-<span typeof="mw:Error mw:File"></span>1 <a href="royal-jelly.html"><span class="color-template color-template-royal-jelly color-template-background-clip">Royal Jelly</span></a><br/>
-<span typeof="mw:Error mw:File"></span>1 <a href="stinger.html"><span class="color-template color-template-stinger color-template-background-clip">Stinger</span></a>
+<p><img alt="Strawberry" height="25" src="img/Strawberry.png" width="25"/>50 <a href="strawberry.html"><span class="color-template color-template-strawberry color-template-background-clip">Strawberries</span></a><br/>
+<img alt="Royal Jelly" height="25" src="img/Royal_Jelly.png" width="25"/>1 <a href="royal-jelly.html"><span class="color-template color-template-royal-jelly color-template-background-clip">Royal Jelly</span></a><br/>
+<img alt="Stinger" height="25" src="img/Stinger.png" width="25"/>1 <a href="stinger.html"><span class="color-template color-template-stinger color-template-background-clip">Stinger</span></a>
 </p>
 </td>
 <td>A durable pad worn on the left shoulder of Red Beekeepers.
@@ -150,10 +150,10 @@ There is a store in the Red HQ that sells nine [items](items.md). To open the st
 <td><figure class="mw-halign-center" typeof="mw:File"><img alt="Elite Red Guard" data-image-key="Elite_Red_Guard.png" data-image-name="Elite Red Guard.png" data-relevant="1" height="80" src="img/Elite_Red_Guard.png" width="80"/><figcaption></figcaption></figure><div style="text-align: center;"><a href="elite-red-guard.html">Elite Red Guard</a></div>
 </td>
 <td><span typeof="mw:Error mw:File"></span>5,000,000 <a href="honey.html"><span class="color-template color-template-honey">Honey</span></a><br/>
-<p><span typeof="mw:Error mw:File"></span>3 <a href="red-extract.html"><span class="color-template color-template-red-extract color-template-background-clip">Red Extracts</span></a><br/>
-<span typeof="mw:Error mw:File"></span>50 <a href="strawberry.html"><span class="color-template color-template-strawberry color-template-background-clip">Strawberries</span></a><br/>
-<span typeof="mw:Error mw:File"></span>5 <a href="royal-jelly.html"><span class="color-template color-template-royal-jelly color-template-background-clip">Royal Jellies</span></a><br/>
-<span typeof="mw:Error mw:File"></span>5 <a href="stinger.html"><span class="color-template color-template-stinger color-template-background-clip">Stingers</span></a>
+<p><img alt="Red Extract" height="25" src="img/Red_Extract.png" width="25"/>3 <a href="red-extract.html"><span class="color-template color-template-red-extract color-template-background-clip">Red Extracts</span></a><br/>
+<img alt="Strawberry" height="25" src="img/Strawberry.png" width="25"/>50 <a href="strawberry.html"><span class="color-template color-template-strawberry color-template-background-clip">Strawberries</span></a><br/>
+<img alt="Royal Jelly" height="25" src="img/Royal_Jelly.png" width="25"/>5 <a href="royal-jelly.html"><span class="color-template color-template-royal-jelly color-template-background-clip">Royal Jellies</span></a><br/>
+<img alt="Stinger" height="25" src="img/Stinger.png" width="25"/>5 <a href="stinger.html"><span class="color-template color-template-stinger color-template-background-clip">Stingers</span></a>
 </p>
 </td>
 <td>A Red Guard reserved for the most dedicated Red Beekeepers.
@@ -168,10 +168,10 @@ There is a store in the Red HQ that sells nine [items](items.md). To open the st
 <td><figure class="mw-halign-center" typeof="mw:File"><img alt="Riley Guard" data-image-key="Riley_Guard.png" data-image-name="Riley Guard.png" data-relevant="1" height="80" src="img/Riley_Guard.png" width="80"/><figcaption></figcaption></figure><div style="text-align: center;"><a href="riley-guard.html">Riley Guard</a></div>
 </td>
 <td><span typeof="mw:Error mw:File"></span>30,000,000 <a href="honey.html"><span class="color-template color-template-honey">Honey</span></a><br/>
-<p><span typeof="mw:Error mw:File"></span>10 <a href="red-extract.html"><span class="color-template color-template-red-extract color-template-background-clip">Red Extracts</span></a><br/>
-<span typeof="mw:Error mw:File"></span>100 <a href="strawberry.html"><span class="color-template color-template-strawberry color-template-background-clip">Strawberries</span></a><br/>
-<span typeof="mw:Error mw:File"></span>5 <a href="glue.html"><span class="color-template color-template-glue color-template-background-clip">Glues</span></a><br/>
-<span typeof="mw:Error mw:File"></span>25 <a href="stinger.html"><span class="color-template color-template-stinger color-template-background-clip">Stingers</span></a>
+<p><img alt="Red Extract" height="25" src="img/Red_Extract.png" width="25"/>10 <a href="red-extract.html"><span class="color-template color-template-red-extract color-template-background-clip">Red Extracts</span></a><br/>
+<img alt="Strawberry" height="25" src="img/Strawberry.png" width="25"/>100 <a href="strawberry.html"><span class="color-template color-template-strawberry color-template-background-clip">Strawberries</span></a><br/>
+<img alt="Glue" height="25" src="img/Glue.png" width="25"/>5 <a href="glue.html"><span class="color-template color-template-glue color-template-background-clip">Glues</span></a><br/>
+<img alt="Stinger" height="25" src="img/Stinger.png" width="25"/>25 <a href="stinger.html"><span class="color-template color-template-stinger color-template-background-clip">Stingers</span></a>
 </p>
 </td>
 <td>A piece of armor forged by the leader of the Red Bees!
@@ -197,9 +197,9 @@ There is a store in the Red HQ that sells nine [items](items.md). To open the st
 <td><figure class="mw-halign-center" typeof="mw:Error mw:File"><figcaption></figcaption></figure><div style="text-align: center;"><a href="red-clay-planter.html"><span class="color-template color-template-red-clay-planter color-template-background-clip">Red Clay Planter</span></a>
 </div></td>
 <td><span typeof="mw:Error mw:File"></span>10,000,000 <a href="honey.html"><span class="color-template color-template-honey">Honey</span></a><br/>
-<p><span typeof="mw:Error mw:File"></span>5 <a href="magic-bean.html"><span class="color-template color-template-magic-bean color-template-background-clip">Magic Beans</span></a><br/>
-<span typeof="mw:Error mw:File"></span>15 <a href="red-extract.html"><span class="color-template color-template-red-extract color-template-background-clip">Red Extracts</span></a><br/>
-<span typeof="mw:Error mw:File"></span>20 <a href="soft-wax.html"><span class="color-template color-template-soft-wax">Soft Waxes</span></a>
+<p><img alt="Magic Bean" height="25" src="img/Magic_Bean.png" width="25"/>5 <a href="magic-bean.html"><span class="color-template color-template-magic-bean color-template-background-clip">Magic Beans</span></a><br/>
+<img alt="Red Extract" height="25" src="img/Red_Extract.png" width="25"/>15 <a href="red-extract.html"><span class="color-template color-template-red-extract color-template-background-clip">Red Extracts</span></a><br/>
+<img alt="Soft Wax" height="25" src="img/Soft_Wax.png" width="25"/>20 <a href="soft-wax.html"><span class="color-template color-template-soft-wax">Soft Waxes</span></a>
 </p>
 </td>
 <td>Alone, grows in about 6 hours. Stores around 3 million Pollen. Grants bonus Red Extracts and Waxes.
@@ -213,11 +213,11 @@ There is a store in the Red HQ that sells nine [items](items.md). To open the st
 </div></td>
 <td>150 <a href="gifted-riley-bee.html">Gifted Riley Bee</a> quests completed<br/>
 <p><span typeof="mw:Error mw:File"></span><span style="border-bottom:1px dotted;" title="750,000,000,000">750B</span> <a href="honey.html"><span class="color-template color-template-honey">Honey</span></a><br/>
-<span typeof="mw:Error mw:File"></span>75 <a href="magic-bean.html"><span class="color-template color-template-magic-bean color-template-background-clip">Magic Beans</span></a><br/>
-<span typeof="mw:Error mw:File"></span>750 <a href="red-extract.html"><span class="color-template color-template-red-extract color-template-background-clip">Red Extracts</span></a><br/>
-<span typeof="mw:Error mw:File"></span>150 <a href="hard-wax.html"><span class="color-template color-template-hard-wax">Hard Waxes</span></a><br/>
-<span typeof="mw:Error mw:File"></span>25 <a href="swirled-wax.html"><span class="color-template color-template-swirled-wax color-template-background-clip">Swirled Waxes</span></a><br/>
-<span typeof="mw:Error mw:File"></span>1 <a href="turpentine.html"><span class="color-template color-template-turpentine color-template-background-clip">Turpentine</span></a>
+<img alt="Magic Bean" height="25" src="img/Magic_Bean.png" width="25"/>75 <a href="magic-bean.html"><span class="color-template color-template-magic-bean color-template-background-clip">Magic Beans</span></a><br/>
+<img alt="Red Extract" height="25" src="img/Red_Extract.png" width="25"/>750 <a href="red-extract.html"><span class="color-template color-template-red-extract color-template-background-clip">Red Extracts</span></a><br/>
+<img alt="Hard Wax" height="25" src="img/Hard_Wax.png" width="25"/>150 <a href="hard-wax.html"><span class="color-template color-template-hard-wax">Hard Waxes</span></a><br/>
+<img alt="Swirled Wax" height="25" src="img/Swirled_Wax.png" width="25"/>25 <a href="swirled-wax.html"><span class="color-template color-template-swirled-wax color-template-background-clip">Swirled Waxes</span></a><br/>
+<img alt="Turpentine" height="25" src="img/Turpentine.png" width="25"/>1 <a href="turpentine.html"><span class="color-template color-template-turpentine color-template-background-clip">Turpentine</span></a>
 </p>
 </td>
 <td>Alone, grows in about 12 hours. Stores around 10 billion Pollen. Grants Red Extracts and Enzymes.

@@ -11,7 +11,7 @@ tags: ["Pages with broken file links", "Machines", "Shops", "Locations", "Starte
 <h2 class="pi-item pi-header pi-secondary-font pi-item-spacing pi-secondary-background">Information</h2>
 <div class="pi-item pi-data pi-item-spacing pi-border-color" data-source="usage">
 <h3 class="pi-data-label pi-secondary-font">Usage</h3>
-<div class="pi-data-value pi-font">Obtaining <a href="hive-slot.html">Hive Slots</a> through <span typeof="mw:Error mw:File"></span><a href="egg.html#Basic_Egg"><span class="color-template color-template-basic-egg color-template-background-clip">Basic Eggs</span></a></div>
+<div class="pi-data-value pi-font">Obtaining <a href="hive-slot.html">Hive Slots</a> through <img alt="Basic Egg" height="35" src="img/Basic_Egg.png" width="35"/><a href="egg.html#Basic_Egg"><span class="color-template color-template-basic-egg color-template-background-clip">Basic Eggs</span></a></div>
 </div>
 <div class="pi-item pi-data pi-item-spacing pi-border-color" data-source="requirement">
 <h3 class="pi-data-label pi-secondary-font">Requirement(s)</h3>
@@ -36,7 +36,7 @@ The cost begins at 1,000 honey and increases exponentially (see Formula section 
 
 <table class="article-table mw-collapsible mw-collapsed">
 <tbody><tr>
-<th><span typeof="mw:Error mw:File"></span><a href="egg.html#Basic_Egg"><span class="color-template color-template-basic-egg color-template-background-clip">Basic Eggs</span></a>
+<th><img alt="Basic Egg" height="35" src="img/Basic_Egg.png" width="35"/><a href="egg.html#Basic_Egg"><span class="color-template color-template-basic-egg color-template-background-clip">Basic Eggs</span></a>
 </th>
 <th><span typeof="mw:Error mw:File"></span><a href="honey.html"><span class="color-template color-template-honey">Honey</span></a>
 </th></tr>

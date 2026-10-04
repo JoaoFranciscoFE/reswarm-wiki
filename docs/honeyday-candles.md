@@ -30,22 +30,22 @@ The chances for each wax type are as follows:
 <th>Chance
 </th></tr>
 <tr>
-<td><span typeof="mw:Error mw:File"></span>3 <a href="soft-wax.html"><span class="color-template color-template-soft-wax">Soft Waxes</span></a>
+<td><img alt="Soft Wax" height="25" src="img/Soft_Wax.png" width="25"/>3 <a href="soft-wax.html"><span class="color-template color-template-soft-wax">Soft Waxes</span></a>
 </td>
 <td>~81.3%
 </td></tr>
 <tr>
-<td><span typeof="mw:Error mw:File"></span>3 <a href="hard-wax.html"><span class="color-template color-template-hard-wax">Hard Waxes</span></a>
+<td><img alt="Hard Wax" height="25" src="img/Hard_Wax.png" width="25"/>3 <a href="hard-wax.html"><span class="color-template color-template-hard-wax">Hard Waxes</span></a>
 </td>
 <td>~16.26%
 </td></tr>
 <tr>
-<td><span typeof="mw:Error mw:File"></span>3 <a href="swirled-wax.html"><span class="color-template color-template-swirled-wax color-template-background-clip">Swirled Waxes</span></a>
+<td><img alt="Swirled Wax" height="25" src="img/Swirled_Wax.png" width="25"/>3 <a href="swirled-wax.html"><span class="color-template color-template-swirled-wax color-template-background-clip">Swirled Waxes</span></a>
 </td>
 <td>~1.63%
 </td></tr>
 <tr>
-<td><span typeof="mw:Error mw:File"></span>3 <a href="caustic-wax.html"><span class="color-template color-template-caustic-wax">Caustic Waxes</span></a>
+<td><img alt="Caustic Wax" height="25" src="img/Caustic_Wax.png" width="25"/>3 <a href="caustic-wax.html"><span class="color-template color-template-caustic-wax">Caustic Waxes</span></a>
 </td>
 <td>~0.81%
 </td></tr></tbody></table>

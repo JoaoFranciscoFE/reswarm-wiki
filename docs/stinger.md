@@ -57,7 +57,7 @@ The Rogue Vicious Bee can be summoned by touching or being close to a spike in a
 <tbody><tr>
 <th>Level
 </th>
-<th><span typeof="mw:Error mw:File"></span><strong class="mw-selflink selflink"><span class="color-template color-template-stinger color-template-background-clip">Stingers</span></strong>
+<th><img alt="Stinger" height="35" src="img/Stinger.png" width="35"/><strong class="mw-selflink selflink"><span class="color-template color-template-stinger color-template-background-clip">Stingers</span></strong>
 </th></tr>
 <tr>
 <td>Level 1–3
@@ -88,7 +88,7 @@ The Rogue Vicious Bee can be summoned by touching or being close to a spike in a
 <tbody><tr>
 <th>Level
 </th>
-<th><span typeof="mw:Error mw:File"></span><strong class="mw-selflink selflink"><span class="color-template color-template-stinger color-template-background-clip">Stingers</span></strong>
+<th><img alt="Stinger" height="35" src="img/Stinger.png" width="35"/><strong class="mw-selflink selflink"><span class="color-template color-template-stinger color-template-background-clip">Stingers</span></strong>
 </th></tr>
 <tr>
 <td>Level 1–3
@@ -131,37 +131,37 @@ There are 6 fields where the [Rogue Vicious Bee](rogue-vicious-bee.md) can spawn
 <td>
 <ul><li>As a guaranteed reward from defeating all party mobs of your Robo Party.</li>
 <li>As a reward from certain quests:
-<ul><li>Receiving <a href="brown-bear.html#Egg_Hunt_Quest_2020">Brown Bear's Egg Hunt 2020 quest</a> gave <span typeof="mw:Error mw:File"></span>5 <strong class="mw-selflink selflink"><span class="color-template color-template-stinger color-template-background-clip">Stingers</span></strong> and other items.</li>
-<li>Completing Bee Bear's 20th quest during Beesmas 2022 rewarded <span typeof="mw:Error mw:File"></span>100 <strong class="mw-selflink selflink"><span class="color-template color-template-stinger color-template-background-clip">Stingers</span></strong> and other items.</li></ul></li>
+<ul><li>Receiving <a href="brown-bear.html#Egg_Hunt_Quest_2020">Brown Bear's Egg Hunt 2020 quest</a> gave <img alt="Stinger" height="25" src="img/Stinger.png" width="25"/>5 <strong class="mw-selflink selflink"><span class="color-template color-template-stinger color-template-background-clip">Stingers</span></strong> and other items.</li>
+<li>Completing Bee Bear's 20th quest during Beesmas 2022 rewarded <img alt="Stinger" height="25" src="img/Stinger.png" width="25"/>100 <strong class="mw-selflink selflink"><span class="color-template color-template-stinger color-template-background-clip">Stingers</span></strong> and other items.</li></ul></li>
 <li>By giving a <a href="present.html">present</a> to:
 <ul><li><a href="panda-bear.html">Panda Bear</a> or <a href="stick-bug.html">Stick Bug</a> during the Beesmas 2018.</li>
 <li>Panda Bear during Beesmas 2022.</li>
 <li>Panda Bear or Stick Bug during Beesmas Summer 2024.</li></ul></li>
 <li>Opening certain <a href="gift-boxes.html">Gift Boxes</a>:
-<ul><li>The <a href="gift-boxes.html#2021">Midnight Gift Box</a> from Beesmas 2021 rewarded <span typeof="mw:Error mw:File"></span>6 <strong class="mw-selflink selflink"><span class="color-template color-template-stinger color-template-background-clip">Stingers</span></strong> and other items.</li>
-<li>The <a href="gift-boxes.html#2022">Charcoal Gift Box</a> from Beesmas 2022 rewarded <span typeof="mw:Error mw:File"></span>10 <strong class="mw-selflink selflink"><span class="color-template color-template-stinger color-template-background-clip">Stingers</span></strong> and other items.</li></ul></li>
+<ul><li>The <a href="gift-boxes.html#2021">Midnight Gift Box</a> from Beesmas 2021 rewarded <img alt="Stinger" height="25" src="img/Stinger.png" width="25"/>6 <strong class="mw-selflink selflink"><span class="color-template color-template-stinger color-template-background-clip">Stingers</span></strong> and other items.</li>
+<li>The <a href="gift-boxes.html#2022">Charcoal Gift Box</a> from Beesmas 2022 rewarded <img alt="Stinger" height="25" src="img/Stinger.png" width="25"/>10 <strong class="mw-selflink selflink"><span class="color-template color-template-stinger color-template-background-clip">Stingers</span></strong> and other items.</li></ul></li>
 <li>Purchasing certain bundles in <a href="bee-bear-s-catalog.html">Bee Bear's Catalog</a>:
-<ul><li>The Night Bundle granted <span typeof="mw:Error mw:File"></span>25 <strong class="mw-selflink selflink"><span class="color-template color-template-stinger color-template-background-clip">Stingers</span></strong> and other items for <span typeof="mw:Error mw:File"></span>1,000 <a href="snowflake.html"><span class="color-template color-template-snowflake color-template-background-clip">Snowflakes</span></a>.</li>
-<li>The Anti-Ant Bundle granted <span typeof="mw:Error mw:File"></span>50 <strong class="mw-selflink selflink"><span class="color-template color-template-stinger color-template-background-clip">Stingers</span></strong> and other items for <span typeof="mw:Error mw:File"></span>1,000 <a href="snowflake.html"><span class="color-template color-template-snowflake color-template-background-clip">Snowflakes</span></a>.</li>
-<li>The Robotic Bundle granted <span typeof="mw:Error mw:File"></span>100 <strong class="mw-selflink selflink"><span class="color-template color-template-stinger color-template-background-clip">Stingers</span></strong> and other items for <span typeof="mw:Error mw:File"></span>2,500 <a href="snowflake.html"><span class="color-template color-template-snowflake color-template-background-clip">Snowflakes</span></a> and <span typeof="mw:Error mw:File"></span>50 <a href="gingerbread-bear.html"><span class="color-template color-template-gingerbread-bear color-template-background-clip">Gingerbread Bears</span></a>.</li>
-<li>Purchasing the Super Snowman Bundle from <a href="bee-bear-s-catalog.html">Bee Bear's Catalog</a> gives <span typeof="mw:Error mw:File"></span>25 <strong class="mw-selflink selflink"><span class="color-template color-template-stinger color-template-background-clip">Stingers</span></strong> + other items.</li></ul></li>
+<ul><li>The Night Bundle granted <img alt="Stinger" height="25" src="img/Stinger.png" width="25"/>25 <strong class="mw-selflink selflink"><span class="color-template color-template-stinger color-template-background-clip">Stingers</span></strong> and other items for <img alt="Snowflake" height="25" src="img/Snowflake.png" width="25"/>1,000 <a href="snowflake.html"><span class="color-template color-template-snowflake color-template-background-clip">Snowflakes</span></a>.</li>
+<li>The Anti-Ant Bundle granted <img alt="Stinger" height="25" src="img/Stinger.png" width="25"/>50 <strong class="mw-selflink selflink"><span class="color-template color-template-stinger color-template-background-clip">Stingers</span></strong> and other items for <img alt="Snowflake" height="25" src="img/Snowflake.png" width="25"/>1,000 <a href="snowflake.html"><span class="color-template color-template-snowflake color-template-background-clip">Snowflakes</span></a>.</li>
+<li>The Robotic Bundle granted <img alt="Stinger" height="25" src="img/Stinger.png" width="25"/>100 <strong class="mw-selflink selflink"><span class="color-template color-template-stinger color-template-background-clip">Stingers</span></strong> and other items for <img alt="Snowflake" height="25" src="img/Snowflake.png" width="25"/>2,500 <a href="snowflake.html"><span class="color-template color-template-snowflake color-template-background-clip">Snowflakes</span></a> and <img alt="Gingerbread Bear" height="25" src="img/Gingerbread_Bear.png" width="25"/>50 <a href="gingerbread-bear.html"><span class="color-template color-template-gingerbread-bear color-template-background-clip">Gingerbread Bears</span></a>.</li>
+<li>Purchasing the Super Snowman Bundle from <a href="bee-bear-s-catalog.html">Bee Bear's Catalog</a> gives <img alt="Stinger" height="25" src="img/Stinger.png" width="25"/>25 <strong class="mw-selflink selflink"><span class="color-template color-template-stinger color-template-background-clip">Stingers</span></strong> + other items.</li></ul></li>
 <li>Purchasing certain packs from the <a href="robux-shop.html">Robux Shop</a>:
-<ul><li>Purchasing the September Star Special for <span typeof="mw:Error mw:File"></span>3,500 <span class="color-template color-template-robux color-template-background-clip">Robux</span> granted <span typeof="mw:Error mw:File"></span>100 <strong class="mw-selflink selflink"><span class="color-template color-template-stinger color-template-background-clip">Stingers</span></strong> and other items.</li>
-<li>Purchasing the Stars and Spikes offer for <span typeof="mw:Error mw:File"></span>1,500 <span class="color-template color-template-robux color-template-background-clip">Robux</span> granted <span typeof="mw:Error mw:File"></span>100 <strong class="mw-selflink selflink"><span class="color-template color-template-stinger color-template-background-clip">Stingers</span></strong> and other items.</li>
-<li>Purchasing the Colossal Crafts Pack for <span typeof="mw:Error mw:File"></span>3,400 <span class="color-template color-template-robux color-template-background-clip">Robux</span> granted <span typeof="mw:Error mw:File"></span>200 <strong class="mw-selflink selflink"><span class="color-template color-template-stinger color-template-background-clip">Stingers</span></strong> and other items.</li>
-<li>Purchasing the Extreme Extract Pack for <span typeof="mw:Error mw:File"></span>1,200 <span class="color-template color-template-robux color-template-background-clip">Robux</span> granted <span typeof="mw:Error mw:File"></span>100 <strong class="mw-selflink selflink"><span class="color-template color-template-stinger color-template-background-clip">Stingers</span></strong> and other items.</li>
-<li>Purchasing the Winter Wonder Pack for <span typeof="mw:Error mw:File"></span>3,400 <span class="color-template color-template-robux color-template-background-clip">Robux</span> granted <span typeof="mw:Error mw:File"></span>200 <strong class="mw-selflink selflink"><span class="color-template color-template-stinger color-template-background-clip">Stingers</span></strong> and other items.</li>
-<li>Purchasing the Spikey Spring Basket offer for <span typeof="mw:Error mw:File"></span>2,700 <span class="color-template color-template-robux color-template-background-clip">Robux</span> granted <span typeof="mw:Error mw:File"></span>250 <strong class="mw-selflink selflink"><span class="color-template color-template-stinger color-template-background-clip">Stingers</span></strong> and other items.</li>
-<li>Purchasing the Gooey Goodies Pack for <span typeof="mw:Error mw:File"></span>800 <span class="color-template color-template-robux color-template-background-clip">Robux</span> granted <span typeof="mw:Error mw:File"></span>100 <strong class="mw-selflink selflink"><span class="color-template color-template-stinger color-template-background-clip">Stingers</span></strong> and other items.</li>
-<li>Purchasing the Silent Night Special for <span typeof="mw:Error mw:File"></span>800 <span class="color-template color-template-robux color-template-background-clip">Robux</span> granted <span typeof="mw:Error mw:File"></span>100 <strong class="mw-selflink selflink"><span class="color-template color-template-stinger color-template-background-clip">Stingers</span></strong> and other items.</li>
-<li>Purchasing the Precise Pack for <span typeof="mw:Error mw:File"></span>1,700 <span class="color-template color-template-robux color-template-background-clip">Robux</span> granted <span typeof="mw:Error mw:File"></span>150 <strong class="mw-selflink selflink"><span class="color-template color-template-stinger color-template-background-clip">Stingers</span></strong> and other items.</li>
-<li>Purchasing the Honeyday Mega-Haul for <span typeof="mw:Error mw:File"></span>4,500 <span class="color-template color-template-robux color-template-background-clip">Robux</span> granted <span typeof="mw:Error mw:File"></span>500 <strong class="mw-selflink selflink"><span class="color-template color-template-stinger color-template-background-clip">Stingers</span></strong> and other items.</li>
-<li>Purchasing the Mondo-Robo Bundle for <span typeof="mw:Error mw:File"></span>4,500 <span class="color-template color-template-robux color-template-background-clip">Robux</span> granted <span typeof="mw:Error mw:File"></span>500 <strong class="mw-selflink selflink"><span class="color-template color-template-stinger color-template-background-clip">Stingers</span></strong> and other items.</li>
-<li>Purchasing the Cyber Monday Special for <span typeof="mw:Error mw:File"></span>800 <span class="color-template color-template-robux color-template-background-clip">Robux</span> granted <span typeof="mw:Error mw:File"></span>50 <strong class="mw-selflink selflink"><span class="color-template color-template-stinger color-template-background-clip">Stingers</span></strong> and other items.</li></ul></li>
+<ul><li>Purchasing the September Star Special for <span typeof="mw:Error mw:File"></span>3,500 <span class="color-template color-template-robux color-template-background-clip">Robux</span> granted <img alt="Stinger" height="25" src="img/Stinger.png" width="25"/>100 <strong class="mw-selflink selflink"><span class="color-template color-template-stinger color-template-background-clip">Stingers</span></strong> and other items.</li>
+<li>Purchasing the Stars and Spikes offer for <span typeof="mw:Error mw:File"></span>1,500 <span class="color-template color-template-robux color-template-background-clip">Robux</span> granted <img alt="Stinger" height="25" src="img/Stinger.png" width="25"/>100 <strong class="mw-selflink selflink"><span class="color-template color-template-stinger color-template-background-clip">Stingers</span></strong> and other items.</li>
+<li>Purchasing the Colossal Crafts Pack for <span typeof="mw:Error mw:File"></span>3,400 <span class="color-template color-template-robux color-template-background-clip">Robux</span> granted <img alt="Stinger" height="25" src="img/Stinger.png" width="25"/>200 <strong class="mw-selflink selflink"><span class="color-template color-template-stinger color-template-background-clip">Stingers</span></strong> and other items.</li>
+<li>Purchasing the Extreme Extract Pack for <span typeof="mw:Error mw:File"></span>1,200 <span class="color-template color-template-robux color-template-background-clip">Robux</span> granted <img alt="Stinger" height="25" src="img/Stinger.png" width="25"/>100 <strong class="mw-selflink selflink"><span class="color-template color-template-stinger color-template-background-clip">Stingers</span></strong> and other items.</li>
+<li>Purchasing the Winter Wonder Pack for <span typeof="mw:Error mw:File"></span>3,400 <span class="color-template color-template-robux color-template-background-clip">Robux</span> granted <img alt="Stinger" height="25" src="img/Stinger.png" width="25"/>200 <strong class="mw-selflink selflink"><span class="color-template color-template-stinger color-template-background-clip">Stingers</span></strong> and other items.</li>
+<li>Purchasing the Spikey Spring Basket offer for <span typeof="mw:Error mw:File"></span>2,700 <span class="color-template color-template-robux color-template-background-clip">Robux</span> granted <img alt="Stinger" height="25" src="img/Stinger.png" width="25"/>250 <strong class="mw-selflink selflink"><span class="color-template color-template-stinger color-template-background-clip">Stingers</span></strong> and other items.</li>
+<li>Purchasing the Gooey Goodies Pack for <span typeof="mw:Error mw:File"></span>800 <span class="color-template color-template-robux color-template-background-clip">Robux</span> granted <img alt="Stinger" height="25" src="img/Stinger.png" width="25"/>100 <strong class="mw-selflink selflink"><span class="color-template color-template-stinger color-template-background-clip">Stingers</span></strong> and other items.</li>
+<li>Purchasing the Silent Night Special for <span typeof="mw:Error mw:File"></span>800 <span class="color-template color-template-robux color-template-background-clip">Robux</span> granted <img alt="Stinger" height="25" src="img/Stinger.png" width="25"/>100 <strong class="mw-selflink selflink"><span class="color-template color-template-stinger color-template-background-clip">Stingers</span></strong> and other items.</li>
+<li>Purchasing the Precise Pack for <span typeof="mw:Error mw:File"></span>1,700 <span class="color-template color-template-robux color-template-background-clip">Robux</span> granted <img alt="Stinger" height="25" src="img/Stinger.png" width="25"/>150 <strong class="mw-selflink selflink"><span class="color-template color-template-stinger color-template-background-clip">Stingers</span></strong> and other items.</li>
+<li>Purchasing the Honeyday Mega-Haul for <span typeof="mw:Error mw:File"></span>4,500 <span class="color-template color-template-robux color-template-background-clip">Robux</span> granted <img alt="Stinger" height="25" src="img/Stinger.png" width="25"/>500 <strong class="mw-selflink selflink"><span class="color-template color-template-stinger color-template-background-clip">Stingers</span></strong> and other items.</li>
+<li>Purchasing the Mondo-Robo Bundle for <span typeof="mw:Error mw:File"></span>4,500 <span class="color-template color-template-robux color-template-background-clip">Robux</span> granted <img alt="Stinger" height="25" src="img/Stinger.png" width="25"/>500 <strong class="mw-selflink selflink"><span class="color-template color-template-stinger color-template-background-clip">Stingers</span></strong> and other items.</li>
+<li>Purchasing the Cyber Monday Special for <span typeof="mw:Error mw:File"></span>800 <span class="color-template color-template-robux color-template-background-clip">Robux</span> granted <img alt="Stinger" height="25" src="img/Stinger.png" width="25"/>50 <strong class="mw-selflink selflink"><span class="color-template color-template-stinger color-template-background-clip">Stingers</span></strong> and other items.</li></ul></li>
 <li>Redeeming certain codes:
-<ul><li>Mocito100T (Gave <span typeof="mw:Error mw:File"></span>3 <strong class="mw-selflink selflink"><span class="color-template color-template-stinger color-template-background-clip">Stingers</span></strong> + other stuff).</li>
-<li>1MLikes (Gave <span typeof="mw:Error mw:File"></span>1 <strong class="mw-selflink selflink"><span class="color-template color-template-stinger color-template-background-clip">Stinger</span></strong> + other stuff).</li>
-<li>DarzethDoodads (Gave <span typeof="mw:Error mw:File"></span>1 <strong class="mw-selflink selflink"><span class="color-template color-template-stinger color-template-background-clip">Stinger</span></strong> + other stuff).</li></ul></li></ul>
+<ul><li>Mocito100T (Gave <img alt="Stinger" height="25" src="img/Stinger.png" width="25"/>3 <strong class="mw-selflink selflink"><span class="color-template color-template-stinger color-template-background-clip">Stingers</span></strong> + other stuff).</li>
+<li>1MLikes (Gave <img alt="Stinger" height="25" src="img/Stinger.png" width="25"/>1 <strong class="mw-selflink selflink"><span class="color-template color-template-stinger color-template-background-clip">Stinger</span></strong> + other stuff).</li>
+<li>DarzethDoodads (Gave <img alt="Stinger" height="25" src="img/Stinger.png" width="25"/>1 <strong class="mw-selflink selflink"><span class="color-template color-template-stinger color-template-background-clip">Stinger</span></strong> + other stuff).</li></ul></li></ul>
 </td></tr></tbody></table>
 
 ## Crafting Uses
@@ -172,7 +172,7 @@ Total required for all single-purchase items: 1,297 **Stingers**
 <caption>
 </caption>
 <tbody><tr>
-<th style="text-align: center"><span typeof="mw:Error mw:File"></span><strong class="mw-selflink selflink"><span class="color-template color-template-stinger color-template-background-clip">Stingers</span></strong>
+<th style="text-align: center"><img alt="Stinger" height="35" src="img/Stinger.png" width="35"/><strong class="mw-selflink selflink"><span class="color-template color-template-stinger color-template-background-clip">Stingers</span></strong>
 </th>
 <th>Other ingredients
 </th>
@@ -182,8 +182,8 @@ Total required for all single-purchase items: 1,297 **Stingers**
 <td><div style="text-align: center;">1
 </div></td>
 <td><span typeof="mw:Error mw:File"></span>750,000 <a href="honey.html"><span class="color-template color-template-honey">Honey</span></a><br/>
-<p><span typeof="mw:Error mw:File"></span>50 <a href="strawberry.html"><span class="color-template color-template-strawberry color-template-background-clip">Strawberries</span></a><br/>
-<span typeof="mw:Error mw:File"></span>1 <a href="royal-jelly.html"><span class="color-template color-template-royal-jelly color-template-background-clip">Royal Jelly</span></a>
+<p><img alt="Strawberry" height="25" src="img/Strawberry.png" width="25"/>50 <a href="strawberry.html"><span class="color-template color-template-strawberry color-template-background-clip">Strawberries</span></a><br/>
+<img alt="Royal Jelly" height="25" src="img/Royal_Jelly.png" width="25"/>1 <a href="royal-jelly.html"><span class="color-template color-template-royal-jelly color-template-background-clip">Royal Jelly</span></a>
 </p>
 </td>
 <td><figure class="mw-halign-center" typeof="mw:File"><img alt="Red Guard" data-image-key="Red_Guard.png" data-image-name="Red Guard.png" data-relevant="1" height="80" src="img/Red_Guard.png" width="80"/><figcaption></figcaption></figure><div style="text-align: center;"><a href="red-guard.html">Red Guard</a>
@@ -199,8 +199,8 @@ Total required for all single-purchase items: 1,297 **Stingers**
 <td><div style="text-align: center;">3
 </div></td>
 <td><span typeof="mw:Error mw:File"></span>440,000 <a href="honey.html"><span class="color-template color-template-honey">Honey</span></a><br/>
-<p><span typeof="mw:Error mw:File"></span>50 <a href="pineapple.html"><span class="color-template color-template-pineapple color-template-background-clip">Pineapples</span></a><br/>
-<span typeof="mw:Error mw:File"></span>50 <a href="sunflower-seed.html"><span class="color-template color-template-sunflower-seed color-template-background-clip">Sunflower Seeds</span></a>
+<p><img alt="Pineapple" height="25" src="img/Pineapple.png" width="25"/>50 <a href="pineapple.html"><span class="color-template color-template-pineapple color-template-background-clip">Pineapples</span></a><br/>
+<img alt="Sunflower Seed" height="25" src="img/Sunflower_Seed.png" width="25"/>50 <a href="sunflower-seed.html"><span class="color-template color-template-sunflower-seed color-template-background-clip">Sunflower Seeds</span></a>
 </p>
 </td>
 <td><figure class="mw-halign-center" typeof="mw:File"><img alt="Belt Bag" data-image-key="Belt_Bag.png" data-image-name="Belt Bag.png" data-relevant="1" height="80" src="img/Belt_Bag.png" width="80"/><figcaption></figcaption></figure><div style="text-align: center;"><a href="belt-bag.html">Belt Bag</a>
@@ -209,9 +209,9 @@ Total required for all single-purchase items: 1,297 **Stingers**
 <td><div style="text-align: center;">5
 </div></td>
 <td><span typeof="mw:Error mw:File"></span>5,000,000 <a href="honey.html"><span class="color-template color-template-honey">Honey</span></a><br/>
-<p><span typeof="mw:Error mw:File"></span>3 <a href="red-extract.html"><span class="color-template color-template-red-extract color-template-background-clip">Red Extracts</span></a><br/>
-<span typeof="mw:Error mw:File"></span>50 <a href="strawberry.html"><span class="color-template color-template-strawberry color-template-background-clip">Strawberries</span></a><br/>
-<span typeof="mw:Error mw:File"></span>5 <a href="royal-jelly.html"><span class="color-template color-template-royal-jelly color-template-background-clip">Royal Jellies</span></a>
+<p><img alt="Red Extract" height="25" src="img/Red_Extract.png" width="25"/>3 <a href="red-extract.html"><span class="color-template color-template-red-extract color-template-background-clip">Red Extracts</span></a><br/>
+<img alt="Strawberry" height="25" src="img/Strawberry.png" width="25"/>50 <a href="strawberry.html"><span class="color-template color-template-strawberry color-template-background-clip">Strawberries</span></a><br/>
+<img alt="Royal Jelly" height="25" src="img/Royal_Jelly.png" width="25"/>5 <a href="royal-jelly.html"><span class="color-template color-template-royal-jelly color-template-background-clip">Royal Jellies</span></a>
 </p>
 </td>
 <td><figure class="mw-halign-center" typeof="mw:File"><img alt="Elite Red Guard" data-image-key="Elite_Red_Guard.png" data-image-name="Elite Red Guard.png" data-relevant="1" height="80" src="img/Elite_Red_Guard.png" width="80"/><figcaption></figcaption></figure><div style="text-align: center;"><a href="elite-red-guard.html">Elite Red Guard</a>
@@ -220,9 +220,9 @@ Total required for all single-purchase items: 1,297 **Stingers**
 <td><div style="text-align: center;">10
 </div></td>
 <td><span typeof="mw:Error mw:File"></span>12,400,000 <a href="honey.html"><span class="color-template color-template-honey">Honey</span></a><br/>
-<p><span typeof="mw:Error mw:File"></span>1 <a href="soft-wax.html"><span class="color-template color-template-soft-wax">Soft Wax</span></a><br/>
-<span typeof="mw:Error mw:File"></span>150 <a href="pineapple.html"><span class="color-template color-template-pineapple color-template-background-clip">Pineapples</span></a><br/>
-<span typeof="mw:Error mw:File"></span>150 <a href="sunflower-seed.html"><span class="color-template color-template-sunflower-seed color-template-background-clip">Sunflower Seeds</span></a>
+<p><img alt="Soft Wax" height="25" src="img/Soft_Wax.png" width="25"/>1 <a href="soft-wax.html"><span class="color-template color-template-soft-wax">Soft Wax</span></a><br/>
+<img alt="Pineapple" height="25" src="img/Pineapple.png" width="25"/>150 <a href="pineapple.html"><span class="color-template color-template-pineapple color-template-background-clip">Pineapples</span></a><br/>
+<img alt="Sunflower Seed" height="25" src="img/Sunflower_Seed.png" width="25"/>150 <a href="sunflower-seed.html"><span class="color-template color-template-sunflower-seed color-template-background-clip">Sunflower Seeds</span></a>
 </p>
 </td>
 <td><figure class="mw-halign-center" typeof="mw:File"><img alt="Mondo Belt Bag" data-image-key="Mondo_Belt_Bag.png" data-image-name="Mondo Belt Bag.png" data-relevant="1" height="80" src="img/Mondo_Belt_Bag.png" width="80"/><figcaption></figcaption></figure><div style="text-align: center;"><a href="mondo-belt-bag.html">Mondo Belt Bag</a>
@@ -231,9 +231,9 @@ Total required for all single-purchase items: 1,297 **Stingers**
 <td><div style="text-align: center;">25
 </div></td>
 <td><span typeof="mw:Error mw:File"></span>30,000,000 <a href="honey.html"><span class="color-template color-template-honey">Honey</span></a><br/>
-<p><span typeof="mw:Error mw:File"></span>10 <a href="red-extract.html"><span class="color-template color-template-red-extract color-template-background-clip">Red Extracts</span></a><br/>
-<span typeof="mw:Error mw:File"></span>100 <a href="strawberry.html"><span class="color-template color-template-strawberry color-template-background-clip">Strawberries</span></a><br/>
-<span typeof="mw:Error mw:File"></span>5 <a href="glue.html"><span class="color-template color-template-glue color-template-background-clip">Glues</span></a>
+<p><img alt="Red Extract" height="25" src="img/Red_Extract.png" width="25"/>10 <a href="red-extract.html"><span class="color-template color-template-red-extract color-template-background-clip">Red Extracts</span></a><br/>
+<img alt="Strawberry" height="25" src="img/Strawberry.png" width="25"/>100 <a href="strawberry.html"><span class="color-template color-template-strawberry color-template-background-clip">Strawberries</span></a><br/>
+<img alt="Glue" height="25" src="img/Glue.png" width="25"/>5 <a href="glue.html"><span class="color-template color-template-glue color-template-background-clip">Glues</span></a>
 </p>
 </td>
 <td><figure class="mw-halign-center" typeof="mw:File"><img alt="Riley Guard" data-image-key="Riley_Guard.png" data-image-name="Riley Guard.png" data-relevant="1" height="80" src="img/Riley_Guard.png" width="80"/><figcaption></figcaption></figure><div style="text-align: center;"><a href="riley-guard.html">Riley Guard</a>
@@ -242,9 +242,9 @@ Total required for all single-purchase items: 1,297 **Stingers**
 <td><div style="text-align: center;">100
 </div></td>
 <td><span typeof="mw:Error mw:File"></span>200,000,000 <a href="honey.html"><span class="color-template color-template-honey">Honey</span></a><br/>
-<p><span typeof="mw:Error mw:File"></span>100 <a href="red-extract.html"><span class="color-template color-template-red-extract color-template-background-clip">Red Extracts</span></a><br/>
-<span typeof="mw:Error mw:File"></span>50 <a href="oil.html"><span class="color-template color-template-oil color-template-background-clip">Oils</span></a><br/>
-<span typeof="mw:Error mw:File"></span>25 <a href="glitter.html"><span class="color-template color-template-glitter color-template-background-clip">Glitter</span></a>
+<p><img alt="Red Extract" height="25" src="img/Red_Extract.png" width="25"/>100 <a href="red-extract.html"><span class="color-template color-template-red-extract color-template-background-clip">Red Extracts</span></a><br/>
+<img alt="Oil" height="25" src="img/Oil.png" width="25"/>50 <a href="oil.html"><span class="color-template color-template-oil color-template-background-clip">Oils</span></a><br/>
+<img alt="Glitter" height="25" src="img/Glitter.png" width="25"/>25 <a href="glitter.html"><span class="color-template color-template-glitter color-template-background-clip">Glitter</span></a>
 </p>
 </td>
 <td><figure class="mw-halign-center" typeof="mw:File"><img alt="Crimson Guard" data-image-key="Crimson_Guard.png" data-image-name="Crimson Guard.png" data-relevant="1" height="80" src="img/Crimson_Guard.png" width="80"/><figcaption></figcaption></figure><div style="text-align: center;"><a href="crimson-guard.html">Crimson Guard</a>
@@ -253,9 +253,9 @@ Total required for all single-purchase items: 1,297 **Stingers**
 <td><div style="text-align: center;">100
 </div></td>
 <td><span typeof="mw:Error mw:File"></span>200,000,000 <a href="honey.html"><span class="color-template color-template-honey">Honey</span></a><br/>
-<p><span typeof="mw:Error mw:File"></span>100 <a href="blue-extract.html"><span class="color-template color-template-blue-extract color-template-background-clip">Blue Extracts</span></a><br/>
-<span typeof="mw:Error mw:File"></span>50 <a href="enzymes.html"><span class="color-template color-template-enzymes color-template-background-clip">Enzymes</span></a><br/>
-<span typeof="mw:Error mw:File"></span>25 <a href="glitter.html"><span class="color-template color-template-glitter color-template-background-clip">Glitter</span></a>
+<p><img alt="Blue Extract" height="25" src="img/Blue_Extract.png" width="25"/>100 <a href="blue-extract.html"><span class="color-template color-template-blue-extract color-template-background-clip">Blue Extracts</span></a><br/>
+<img alt="Enzymes" height="25" src="img/Enzymes.png" width="25"/>50 <a href="enzymes.html"><span class="color-template color-template-enzymes color-template-background-clip">Enzymes</span></a><br/>
+<img alt="Glitter" height="25" src="img/Glitter.png" width="25"/>25 <a href="glitter.html"><span class="color-template color-template-glitter color-template-background-clip">Glitter</span></a>
 </p>
 </td>
 <td><figure class="mw-halign-center" typeof="mw:File"><img alt="Cobalt Guard" data-image-key="Cobalt_Guard.png" data-image-name="Cobalt Guard.png" data-relevant="1" height="80" src="img/Cobalt_Guard.png" width="80"/><figcaption></figcaption></figure><div style="text-align: center;"><a href="cobalt-guard.html">Cobalt Guard</a>
@@ -264,11 +264,11 @@ Total required for all single-purchase items: 1,297 **Stingers**
 <td><div style="text-align: center;">150
 </div></td>
 <td><span typeof="mw:Error mw:File"></span><span style="border-bottom:1px dotted;" title="2,500,000,000,000">2.5T</span> <a href="honey.html"><span class="color-template color-template-honey">Honey</span></a><br/>
-<p><span typeof="mw:Error mw:File"></span>1,500 <a href="red-extract.html"><span class="color-template color-template-red-extract color-template-background-clip">Red Extracts</span></a><br/>
-<span typeof="mw:Error mw:File"></span>100 <a href="hard-wax.html"><span class="color-template color-template-hard-wax">Hard Waxes</span></a><br/>
-<span typeof="mw:Error mw:File"></span>50 <a href="caustic-wax.html"><span class="color-template color-template-caustic-wax">Caustic Waxes</span></a><br/>
-<span typeof="mw:Error mw:File"></span>50 <a href="super-smoothie.html"><span class="color-template color-template-super-smoothie color-template-background-clip">Super Smoothies</span></a><br/>
-<span typeof="mw:Error mw:File"></span>3 <a href="invigorating-vial.html"><span class="color-template color-template-invigorating-vial color-template-background-clip">Invigorating Vials</span></a>
+<p><img alt="Red Extract" height="25" src="img/Red_Extract.png" width="25"/>1,500 <a href="red-extract.html"><span class="color-template color-template-red-extract color-template-background-clip">Red Extracts</span></a><br/>
+<img alt="Hard Wax" height="25" src="img/Hard_Wax.png" width="25"/>100 <a href="hard-wax.html"><span class="color-template color-template-hard-wax">Hard Waxes</span></a><br/>
+<img alt="Caustic Wax" height="25" src="img/Caustic_Wax.png" width="25"/>50 <a href="caustic-wax.html"><span class="color-template color-template-caustic-wax">Caustic Waxes</span></a><br/>
+<img alt="Super Smoothie" height="25" src="img/Super_Smoothie.png" width="25"/>50 <a href="super-smoothie.html"><span class="color-template color-template-super-smoothie color-template-background-clip">Super Smoothies</span></a><br/>
+<img alt="Invigorating Vial" height="25" src="img/Invigorating_Vial.png" width="25"/>3 <a href="invigorating-vial.html"><span class="color-template color-template-invigorating-vial color-template-background-clip">Invigorating Vials</span></a>
 </p>
 </td>
 <td><figure class="mw-halign-center" typeof="mw:Error mw:File"><figcaption></figcaption></figure><div style="text-align: center;"><a href="dark-scythe.html">Dark Scythe</a>
@@ -277,11 +277,11 @@ Total required for all single-purchase items: 1,297 **Stingers**
 <td><div style="text-align: center;">150
 </div></td>
 <td><span typeof="mw:Error mw:File"></span><span style="border-bottom:1px dotted;" title="2,500,000,000,000">2.5T</span> <a href="honey.html"><span class="color-template color-template-honey">Honey</span></a><br/>
-<p><span typeof="mw:Error mw:File"></span>1,500 <a href="blue-extract.html"><span class="color-template color-template-blue-extract color-template-background-clip">Blue Extracts</span></a><br/>
-<span typeof="mw:Error mw:File"></span>150 <a href="tropical-drink.html"><span class="color-template color-template-tropical-drink color-template-background-clip">Tropical Drinks</span></a><br/>
-<span typeof="mw:Error mw:File"></span>75 <a href="swirled-wax.html"><span class="color-template color-template-swirled-wax color-template-background-clip">Swirled Waxes</span></a><br/>
-<span typeof="mw:Error mw:File"></span>50 <a href="super-smoothie.html"><span class="color-template color-template-super-smoothie color-template-background-clip">Super Smoothies</span></a><br/>
-<span typeof="mw:Error mw:File"></span>3 <a href="comforting-vial.html"><span class="color-template color-template-comforting-vial color-template-background-clip">Comforting Vials</span></a>
+<p><img alt="Blue Extract" height="25" src="img/Blue_Extract.png" width="25"/>1,500 <a href="blue-extract.html"><span class="color-template color-template-blue-extract color-template-background-clip">Blue Extracts</span></a><br/>
+<img alt="Tropical Drink" height="25" src="img/Tropical_Drink.png" width="25"/>150 <a href="tropical-drink.html"><span class="color-template color-template-tropical-drink color-template-background-clip">Tropical Drinks</span></a><br/>
+<img alt="Swirled Wax" height="25" src="img/Swirled_Wax.png" width="25"/>75 <a href="swirled-wax.html"><span class="color-template color-template-swirled-wax color-template-background-clip">Swirled Waxes</span></a><br/>
+<img alt="Super Smoothie" height="25" src="img/Super_Smoothie.png" width="25"/>50 <a href="super-smoothie.html"><span class="color-template color-template-super-smoothie color-template-background-clip">Super Smoothies</span></a><br/>
+<img alt="Comforting Vial" height="25" src="img/Comforting_Vial.png" width="25"/>3 <a href="comforting-vial.html"><span class="color-template color-template-comforting-vial color-template-background-clip">Comforting Vials</span></a>
 </p>
 </td>
 <td><figure class="mw-halign-center" typeof="mw:Error mw:File"><figcaption></figcaption></figure><div style="text-align: center;"><a href="tide-popper.html">Tide Popper</a>
@@ -297,10 +297,10 @@ Total required for all single-purchase items: 1,297 **Stingers**
 <td><div style="text-align: center;">500
 </div></td>
 <td><span typeof="mw:Error mw:File"></span><span style="border-bottom:1px dotted;" title="5,000,000,000">5B</span> <a href="honey.html"><span class="color-template color-template-honey">Honey</span></a><br/>
-<p><span typeof="mw:Error mw:File"></span>250 <a href="red-extract.html"><span class="color-template color-template-red-extract color-template-background-clip">Red Extracts</span></a><br/>
-<span typeof="mw:Error mw:File"></span>150 <a href="enzymes.html"><span class="color-template color-template-enzymes color-template-background-clip">Enzymes</span></a><br/>
-<span typeof="mw:Error mw:File"></span>100 <a href="glue.html"><span class="color-template color-template-glue color-template-background-clip">Glues</span></a><br/>
-<span typeof="mw:Error mw:File"></span>1 <a href="invigorating-vial.html"><span class="color-template color-template-invigorating-vial color-template-background-clip">Invigorating Vial</span></a>
+<p><img alt="Red Extract" height="25" src="img/Red_Extract.png" width="25"/>250 <a href="red-extract.html"><span class="color-template color-template-red-extract color-template-background-clip">Red Extracts</span></a><br/>
+<img alt="Enzymes" height="25" src="img/Enzymes.png" width="25"/>150 <a href="enzymes.html"><span class="color-template color-template-enzymes color-template-background-clip">Enzymes</span></a><br/>
+<img alt="Glue" height="25" src="img/Glue.png" width="25"/>100 <a href="glue.html"><span class="color-template color-template-glue color-template-background-clip">Glues</span></a><br/>
+<img alt="Invigorating Vial" height="25" src="img/Invigorating_Vial.png" width="25"/>1 <a href="invigorating-vial.html"><span class="color-template color-template-invigorating-vial color-template-background-clip">Invigorating Vial</span></a>
 </p>
 </td>
 <td><figure class="mw-halign-center" typeof="mw:File"><img alt="Demon Mask" data-image-key="Demon_Mask.png" data-image-name="Demon Mask.png" data-relevant="1" height="80" src="img/Demon_Mask.png" width="80"/><figcaption></figcaption></figure><div style="text-align: center;"><a href="demon-mask.html">Demon Mask</a>
@@ -334,7 +334,7 @@ Total required for all single-purchase items: 1,297 **Stingers**
 <tr>
 <th class="NavCategory" rowspan="8">Regular
 </th>
-<td class="NavLinks NavLinksBasicEven" colspan="2"><b><img alt="Sprinkler Builder" height="35" src="img/Sprinkler_Builder.png" width="35"/> <a href="sprinklers.html">Sprinkler Builder</a> • <img alt="Gumdrops" height="35" src="img/Gumdrops.png" width="35"/> <a href="gumdrops.html">Gumdrops</a> • <img alt="Coconut" height="35" src="img/Coconut.png" width="35"/> <a href="coconut.html">Coconut</a> • <img alt="Stinger" height="35" src="img/Stinger.png" width="35"/> <strong class="mw-selflink selflink">Stinger</strong> • <img alt="Micro-Converter" height="35" src="img/Micro-Converter.png" width="35"/> <a href="micro-converter.html">Micro-Converter</a> • <img alt="Honeysuckle" height="35" src="img/Honeysuckle.png" width="35"/> <a href="honeysuckle.html">Honeysuckle</a> • <img alt="Whirligig" height="35" src="img/Whirligig.png" width="35"/> <a href="whirligig.html">Whirligig</a> • <img alt="Jelly Beans" height="35" src="img/Jelly_Beans.png" width="35"/> <a href="jelly-beans.html">Jelly Beans</a> • <img alt="Magic Bean" height="35" src="img/Magic_Bean.png" width="35"/> <a href="magic-bean.html">Magic Bean</a> • <img alt="Cloud Vial" height="35" src="img/Cloud_Vial.png" width="35"/> <a href="cloud-vial.html">Cloud Vial</a> • <img alt="Night Bell" height="35" src="img/Night_Bell.png" width="35"/> <a href="night-bell.html">Night Bell</a> • <img alt="Ant Pass" height="35" src="img/Ant_Pass.png" width="35"/> <a href="ant-pass.html">Ant Pass</a> • <img alt="Robo Pass" height="35" src="img/Robo_Pass.png" width="35"/> <a href="robo-pass.html">Robo Pass</a> • <img alt="Box-O-Frogs" height="35" src="img/Box-O-Frogs.png" width="35"/> <a href="box-o-frogs.html">Box-O-Frogs</a> •  <img alt="Turpentine" height="35" src="img/Turpentine.png" width="35"/> <a href="turpentine.html">Turpentine</a> • <span typeof="mw:Error mw:File"></span> <a href="egg.html">Eggs</a> • <img alt="Royal Jelly" height="35" src="img/Royal_Jelly.png" width="35"/> <a href="royal-jelly.html">Royal Jelly</a> • <img alt="Star Jelly" height="35" src="img/Star_Jelly.png" width="35"/> <a href="royal-jelly.html#Star_Jelly">Star Jelly</a></b> • <img alt="Bloom Shaker" height="35" src="img/Bloom_Shaker.png" width="35"/> <a href="bloom-shaker.html">Bloom Shaker</a><b></b>
+<td class="NavLinks NavLinksBasicEven" colspan="2"><b><img alt="Sprinkler Builder" height="35" src="img/Sprinkler_Builder.png" width="35"/> <a href="sprinklers.html">Sprinkler Builder</a> • <img alt="Gumdrops" height="35" src="img/Gumdrops.png" width="35"/> <a href="gumdrops.html">Gumdrops</a> • <img alt="Coconut" height="35" src="img/Coconut.png" width="35"/> <a href="coconut.html">Coconut</a> • <img alt="Stinger" height="35" src="img/Stinger.png" width="35"/> <strong class="mw-selflink selflink">Stinger</strong> • <img alt="Micro-Converter" height="35" src="img/Micro-Converter.png" width="35"/> <a href="micro-converter.html">Micro-Converter</a> • <img alt="Honeysuckle" height="35" src="img/Honeysuckle.png" width="35"/> <a href="honeysuckle.html">Honeysuckle</a> • <img alt="Whirligig" height="35" src="img/Whirligig.png" width="35"/> <a href="whirligig.html">Whirligig</a> • <img alt="Jelly Beans" height="35" src="img/Jelly_Beans.png" width="35"/> <a href="jelly-beans.html">Jelly Beans</a> • <img alt="Magic Bean" height="35" src="img/Magic_Bean.png" width="35"/> <a href="magic-bean.html">Magic Bean</a> • <img alt="Cloud Vial" height="35" src="img/Cloud_Vial.png" width="35"/> <a href="cloud-vial.html">Cloud Vial</a> • <img alt="Night Bell" height="35" src="img/Night_Bell.png" width="35"/> <a href="night-bell.html">Night Bell</a> • <img alt="Ant Pass" height="35" src="img/Ant_Pass.png" width="35"/> <a href="ant-pass.html">Ant Pass</a> • <img alt="Robo Pass" height="35" src="img/Robo_Pass.png" width="35"/> <a href="robo-pass.html">Robo Pass</a> • <img alt="Box-O-Frogs" height="35" src="img/Box-O-Frogs.png" width="35"/> <a href="box-o-frogs.html">Box-O-Frogs</a> •  <img alt="Turpentine" height="35" src="img/Turpentine.png" width="35"/> <a href="turpentine.html">Turpentine</a> • <img alt="Basic Egg" height="35" src="img/Basic_Egg.png" width="35"/> <a href="egg.html">Eggs</a> • <img alt="Royal Jelly" height="35" src="img/Royal_Jelly.png" width="35"/> <a href="royal-jelly.html">Royal Jelly</a> • <img alt="Star Jelly" height="35" src="img/Star_Jelly.png" width="35"/> <a href="royal-jelly.html#Star_Jelly">Star Jelly</a></b> • <img alt="Bloom Shaker" height="35" src="img/Bloom_Shaker.png" width="35"/> <a href="bloom-shaker.html">Bloom Shaker</a><b></b>
 </td></tr>
 <tr>
 <th class="NavCategory">Crafting Materials
