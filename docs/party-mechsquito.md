@@ -5,6 +5,8 @@ tags: ["Removed Content", "Mobs", "Robo Bear", "Robo Party", "Beesmas"]
 
 # Party Mechsquito
 
+![Party Mechsquito](img/Party_Mechsquito.png){ align=right width=150 }
+
 This piece of content goes bye bye.
 
 The following content has been removed from the game. The contents below may be archival, but feel free to edit below.

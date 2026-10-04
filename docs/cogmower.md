@@ -5,6 +5,8 @@ tags: ["Mobs", "Robo Bear Challenge", "Robo Bear"]
 
 # Cogmower
 
+![Cogmower](img/Cogmower.png){ align=right width=150 }
+
 *Not to be confused with [Golden Cogmowers](golden-cogmower.md), the rarer, golden counterparts of Cogmowers or [Party Cogmowers](party-cogmower.md), the Beesmas Edition of these.*
 
 <aside class="portable-infobox pi-background pi-border-color pi-theme-wikia pi-layout-stacked" role="region">

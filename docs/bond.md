@@ -5,6 +5,8 @@ tags: ["Mechanics"]
 
 # Bond
 
+![Bond](img/Bond.png){ align=right width=150 }
+
 <figure class="thumb" style="width: 180px" typeof="mw:File/Thumb">  <figcaption class="thumbcaption"> <p class="caption">A bee's level up notification.</p> </figcaption> </figure>
 
 **Bond** is a [mechanic](mechanics.md) that is equivalent to the leveling system found in many other games. When [bees](bees.md) have a high enough bond with the player, they will level up, gaining the following boosts per level above 1:

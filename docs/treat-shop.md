@@ -5,6 +5,8 @@ tags: ["Shops", "Locations", "Machines", "Starter Zone"]
 
 # Treat Shop
 
+![Treat Shop](img/Treat_Shop.png){ align=right width=150 }
+
 <figure class="thumb mw-halign-right" style="width: 225px" typeof="mw:File/Thumb">  <figcaption class="thumbcaption"> <p class="caption">The Treat Shop in-game.</p> </figcaption> </figure>
 
 The **Treat Shop** is a [shop](shops.md) located to the left of [Mother Bear](mother-bear.md). It sells [treats](treat.md) at a base cost of 100 [honey](honey.md). The treat price increases by 100 honey for every treat bought after the first, capping at 10,000 honey for one treat.

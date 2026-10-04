@@ -5,6 +5,8 @@ tags: ["Locations"]
 
 # Hive
 
+![Hive](img/Hive.png){ align=right width=150 }
+
 The **Hive** is where the player's [bees](bees.md) go to rest when they run out of [energy](energy.md), to convert [pollen](pollen.md) to [Honey](honey.md), or when the player dies. Upon joining a server, the player must first claim a hive by following a red arrow and pressing "E" (on laptop, PC, etc.), "X" (On Xbox), "Square" (on PlayStation) or tapping the "claim hive" button (Tablet, iOS, Android, etc.) to claim it. The player may hatch [eggs](egg.md) and use [Royal Jellies](royal-jelly.md) on hive slots to use them.
 
 There are 6 hives in a server. A basic hive contains 25 slots for bees. The player can expand their hive by buying additional [hive slots](hive-slot.md) at the [Mountain Top Shop](mountain-top-shop.md). The maximum number of bees a hive can contain is 50, but the price of that many hive slots is quite high.

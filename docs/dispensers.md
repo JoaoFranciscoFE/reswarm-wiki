@@ -5,6 +5,8 @@ tags: ["Dispenser", "Machines"]
 
 # Dispensers
 
+![Dispensers](img/Dispensers.png){ align=right width=150 }
+
 A **Dispenser** is a machine whose main purpose is to dispense various [items](items.md) or boosts to the player typically under a cooldown.
 
 To use a dispenser, simply stand on the pad in front of the dispenser to use it. Some of the dispensers have certain requirements in order to be used such as having enough [tickets](ticket.md) or being a part of the Bee Swarm Simulator Club. While there are some dispensers that don't directly have any requirements to be used, there are some that have indirect requirements such as the [Glue Dispenser](glue-dispenser.md) requiring the player have a certain [badge](badges.md) to access, as the Gummy Bear's Lair requires the player to have [Goo Hotshot](badges.md#Goo_Badge) or above to enter, or the [Coconut Dispenser](coconut-dispenser.md) needing the player to defeat the [Coconut Crab](coconut-crab.md) to gain access to it, similar to the rest of the content in the [Coconut Cave](coconut-cave.md) or the [Robo Pass Dispenser](free-robo-pass-dispenser.md) which requires the player to have 30 bees.

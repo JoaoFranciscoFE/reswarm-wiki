@@ -5,6 +5,8 @@ tags: ["Passive Mobs", "Mobs", "Retro Swarm Challenge"]
 
 # Brick Bloom
 
+![Brick Bloom](img/Brick_Bloom.png){ align=right width=150 }
+
 *For a similar mob that appears in fields outside of the Retro Swarm Challenge, see [Bloom](bloom.md).*
 
 <figure class="thumb" style="width: 180px" typeof="mw:File/Thumb">  <figcaption class="thumbcaption"> <p class="caption">A Brick Bloom.</p> </figcaption> </figure>

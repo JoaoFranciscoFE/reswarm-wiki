@@ -5,6 +5,8 @@ tags: ["Beesmas", "Inventory", "Events"]
 
 # Present/2025
 
+![Present/2025](img/Present/2025.png){ align=right width=150 }
+
 Presents are available during the Beesmas event. Their main function is adding [Ornaments](ornaments.md) to the [Beesmas Tree](beesmas-tree.md) when given to NPCs. Players can't give a present to [Sun Bear](sun-bear.md), as the bear is not present during the event.
 
 ## Ways to obtain

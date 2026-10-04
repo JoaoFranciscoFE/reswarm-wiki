@@ -5,6 +5,8 @@ tags: ["Removed Content", "Locations", "Leaderboards", "Beesmas"]
 
 # Highest Snowbear Level
 
+![Highest Snowbear Level](img/Highest_Snowbear_Level.png){ align=right width=150 }
+
 This piece of content goes bye bye.
 
 The following content has been removed from the game. The contents below may be archival, but feel free to edit below.

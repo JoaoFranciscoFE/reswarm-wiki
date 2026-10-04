@@ -5,6 +5,8 @@ tags: ["Inventory", "Items", "Robo Bear Challenge"]
 
 # Drives
 
+![Drives](img/Drives.png){ align=right width=150 }
+
 **Drives** are inventory items that were introduced in the 2022-12-26 update. They can be used to repair [Robo Bear](robo-bear.md), purchase [Digital Bee](digital-bee.md), upgrade Digital Bee, and grant boosts during a round of the [Robo Bear Challenge](robo-bear-challenge.md). All Drives (except [Broken Drives](broken-drive.md)) can be purchased from Robo Bear's Shop for 50 [Cogs](cog.md) (100 [Cogs](cog.md) for Glitched, and 5 of each other drive), and an increasing amount of [Honey](honey.md) with each purchase.
 
 ## White Drive

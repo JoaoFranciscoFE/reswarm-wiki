@@ -5,6 +5,8 @@ tags: ["Removed Content", "Beesmas", "Beesmas Decorations", "Locations", "Machin
 
 # Robo Party Cake
 
+![Robo Party Cake](img/Robo_Party_Cake.png){ align=right width=150 }
+
 This piece of content goes bye bye.
 
 The following content has been removed from the game. The contents below may be archival, but feel free to edit below.

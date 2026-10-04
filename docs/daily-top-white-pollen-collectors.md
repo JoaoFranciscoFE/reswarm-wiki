@@ -5,6 +5,8 @@ tags: ["Leaderboards", "Locations", "Colorless"]
 
 # Daily Top White Pollen Collectors
 
+![Daily Top White Pollen Collectors](img/Daily_Top_White_Pollen_Collectors.png){ align=right width=150 }
+
 The **Daily Top White Pollen Collectors** is one of 64 [leaderboards](leaderboards.md) in the game. This leaderboard shows how much white [pollen](pollen.md) players have collected on that day. It shows 10 leaderboard positions at a time. The player can scroll down the leaderboard to see more players, all the way to 100th place. It resets every day at 12:00 AM CST.
 
 If the player steps on the white pad in front of it, the message "You've collected "X" White Pollen today " will appear.

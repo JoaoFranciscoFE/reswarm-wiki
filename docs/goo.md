@@ -5,6 +5,8 @@ tags: ["Mechanics", "Gummy Invasion", "Goo"]
 
 # Goo
 
+![Goo](img/Goo.png){ align=right width=150 }
+
 <figure class="thumb" style="width: 180px" typeof="mw:File/Thumb">  <figcaption class="thumbcaption"> <p class="caption">Patches of Goo covering the Pineapple Patch.</p> </figcaption> </figure>
 
 <figure class="thumb" style="width: 186px" typeof="mw:File/Thumb">  <figcaption class="thumbcaption"> <p class="caption">Falling gumdrops spawning Goo.</p> </figcaption> </figure>

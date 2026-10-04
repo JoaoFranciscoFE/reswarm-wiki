@@ -5,6 +5,8 @@ tags: ["Mechanics", "Re://:Swarm"]
 
 # Mechanics
 
+![Mechanics](img/Mechanics.png){ align=right width=150 }
+
 There are several **mechanics** in Re://:Swarm that don't fit under [bees](bees.md), [mobs](mobs.md), bears, locations, or [items](items.md).
 
 ### Related to Bees

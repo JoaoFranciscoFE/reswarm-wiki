@@ -5,6 +5,8 @@ tags: ["Mechanics"]
 
 # Ability Tokens
 
+![Ability Tokens](img/Ability_Tokens.png){ align=right width=150 }
+
 This piece of content contains information obtained through datamining.
 
 Due to the nature of the information, details may be inaccurate or outdated.

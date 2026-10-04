@@ -5,6 +5,8 @@ tags: ["Leaderboards", "Locations", "Blue"]
 
 # Daily Top Blue Pollen Collectors
 
+![Daily Top Blue Pollen Collectors](img/Daily_Top_Blue_Pollen_Collectors.png){ align=right width=150 }
+
 The **Daily Top Blue Pollen Collectors** is one of 64 [leaderboards](leaderboards.md) in the game. It is located inside of the Blue HQ, to the right of the All-Time Top Blue Collectors Leaderboard. This leaderboard shows much blue [pollen](pollen.md) players have collected on that day. It shows 10 leaderboard positions at a time. The player can scroll down the leaderboard to see more players, all the way to 100th place. It resets every day at 12:00 AM, CST.
 
 If the player steps on the white pad in front of it, the message "You've collected "X" Blue Pollen today (Resets in "Y")" will appear.

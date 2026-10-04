@@ -5,6 +5,8 @@ tags: ["Leaderboards", "Locations", "Robo Bear Challenge"]
 
 # All-Time Top Robo Bear Challenge Scores
 
+![All-Time Top Robo Bear Challenge Scores](img/All-Time_Top_Robo_Bear_Challenge_Scores.png){ align=right width=150 }
+
 The **Highest Robo Bear Challenge Scores** is one of the 64 [leaderboards](leaderboards.md) in the game. This leaderboard shows the top 100 people who've earned the highest scores in the [Robo Bear Challenge](robo-bear-challenge.md), showing ten ranks at a time. The player can scroll down the leaderboard to see more players, all the way to the 100th place.
 
 If the player steps on the white pad in front of it, the message "Your highest score in Robo Bear's Challenge: {Player's High Score}" will appear.

@@ -5,6 +5,8 @@ tags: ["Removed Content", "Recent Update", "Stubs", "Mechanics"]
 
 # Quests
 
+![Quests](img/Quests.png){ align=right width=150 }
+
 Stub
 
 *This article is a stub. You can help Re://:Swarm Wiki by [expanding it](quests.md).*

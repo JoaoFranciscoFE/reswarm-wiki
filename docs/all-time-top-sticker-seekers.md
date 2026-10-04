@@ -5,6 +5,8 @@ tags: ["Leaderboards", "Locations", "Hive Hub"]
 
 # All-Time Top Sticker-Seekers
 
+![All-Time Top Sticker-Seekers](img/All-Time_Top_Sticker-Seekers.png){ align=right width=150 }
+
 The **Top Sticker-Seekers** was added in the 2024-01-13 update and is one of 64 [leaderboards](leaderboards.md) in the game. This leaderboard shows how many [Sticker-Seeker Quests](sticker-seeker-quest-machine.md) players have completed. It shows 10 leaderboard positions at a time. The player can scroll down the leaderboard to see more players, all the way to the 100th place.
 
 ## Location

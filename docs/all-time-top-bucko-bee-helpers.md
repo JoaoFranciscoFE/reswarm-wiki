@@ -5,6 +5,8 @@ tags: ["Locations", "Leaderboards"]
 
 # All-Time Top Bucko Bee Helpers
 
+![All-Time Top Bucko Bee Helpers](img/All-Time_Top_Bucko_Bee_Helpers.png){ align=right width=150 }
+
 The **All-Time Top Bucko Bee Helpers** is one of the 64 [leaderboards](leaderboards.md) in the game. It displays the top 100 people who've completed the most [quests](quests.md) for Gifted Bucko Bee. It can display 10 leaderboard positions at a time. If the player stands on the white circle, they can see how many Gifted Bucko Bee quests that they have completed.
 
 ## Location

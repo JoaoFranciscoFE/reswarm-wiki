@@ -5,6 +5,8 @@ tags: ["Mobs", "Mini Bosses", "Multiplayer Bosses"]
 
 # Commando Chick
 
+![Commando Chick](img/Commando_Chick.png){ align=right width=150 }
+
 This piece of content contains information obtained through datamining.
 
 Due to the nature of the information, details may be inaccurate or outdated.

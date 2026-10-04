@@ -5,6 +5,8 @@ tags: ["Mechanics"]
 
 # Loot Luck
 
+![Loot Luck](img/Loot_Luck.png){ align=right width=150 }
+
 **Loot Luck** is a passive attribute that increases the chances of receiving certain rewards from defeated [mobs](mobs.md). The formula to calculate the chance of receiving an [item](items.md) from a mob when the player defeats it is: 1-((1-base chance) ^luck). A rule of thumb is that for every 100% Loot Luck the player has, the player gets an extra roll to get each drop.
 
 It also affects what type of token spawns in [fields](fields.md). Every time a [honey](honey.md) token spawns in the field, it rolls a "drop table". Every [item](items.md) has a chance to "pass," with Loot Luck boosting the chance for it to pass. If it does, that item spawns. Otherwise, if it fails, it goes on to the next item. If every item fails, the honey token spawns as it is.

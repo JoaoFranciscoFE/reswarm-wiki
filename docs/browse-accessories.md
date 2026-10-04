@@ -12,7 +12,7 @@ All 47 pages in Accessories.
 <a class="wiki-card" href="amulet.html"><img src="img/Beekeeper's_Mask.png" alt="" loading="lazy"><span>Amulet</span></a>
 <a class="wiki-card" href="ant-amulet.html"><img src="img/Beekeeper's_Mask.png" alt="" loading="lazy"><span>Ant Amulet</span></a>
 <a class="wiki-card" href="b-b-m-mask.html"><img src="img/B.B.M._Mask.png" alt="" loading="lazy"><span>B.B.M. Mask</span></a>
-<a class="wiki-card" href="bags.html"><img src="img/Beekeeper's_Mask.png" alt="" loading="lazy"><span>Bags</span></a>
+<a class="wiki-card" href="bags.html"><img src="img/Bags.png" alt="" loading="lazy"><span>Bags</span></a>
 <a class="wiki-card" href="basic-boots.html"><img src="img/Basic_Boots.png" alt="" loading="lazy"><span>Basic Boots</span></a>
 <a class="wiki-card" href="beekeeper-s-boots.html"><img src="img/Beekeeper's_Boots.png" alt="" loading="lazy"><span>Beekeeper&#x27;s Boots</span></a>
 <a class="wiki-card" href="beekeeper-s-mask.html"><img src="img/Beekeeper's_Mask.png" alt="" loading="lazy"><span>Beekeeper&#x27;s Mask</span></a>

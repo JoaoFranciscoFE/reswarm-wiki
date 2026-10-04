@@ -5,6 +5,8 @@ tags: ["Mobs", "Mini Bosses", "Multiplayer Bosses", "Bees"]
 
 # Wild Windy Bee
 
+![Wild Windy Bee](img/Wild_Windy_Bee.png){ align=right width=150 }
+
 <aside class="portable-infobox pi-background pi-border-color pi-theme-wikia pi-layout-stacked" role="region">
 <h2 class="pi-item pi-item-spacing pi-title pi-secondary-background" data-source="title">Wild Windy Bee</h2>
 <div class="pi-item pi-data pi-item-spacing pi-border-color" data-source="location">

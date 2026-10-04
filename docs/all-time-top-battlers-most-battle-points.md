@@ -5,6 +5,8 @@ tags: ["Locations", "Leaderboards"]
 
 # All-Time Top Battlers (Most Battle Points)
 
+![All-Time Top Battlers (Most Battle Points)](img/All-Time_Top_Battlers_(Most_Battle_Points).png){ align=right width=150 }
+
 The **Global Top Battlers** (also called the **[Battle Points](battle-points.md) Leaderboard**) is one of the 64 [leaderboards](leaderboards.md) in the game. This leaderboard shows how many battle points players have collected over time. It shows 10 leaderboard positions at one time. The player can scroll down the leaderboard to see more players, all the way to the 100th place. Only legitimate players appear on the leaderboards for lengths of time (hackers/exploiters will be removed). Battle points are collected from certain mobs in the game.
 
 If the player steps on the white pad in front of it, the message, "You have x Battle Points", x being the number of battle points, will appear.

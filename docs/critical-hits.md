@@ -5,6 +5,8 @@ tags: ["Recent Update", "Mechanics"]
 
 # Critical Hits
 
+![Critical Hits](img/Critical_Hits.png){ align=right width=150 }
+
 This piece of content recently got an update.
 
 We are in the process of catching up to the game. Please feel free to help us by updating the following information:  

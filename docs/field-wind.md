@@ -5,6 +5,8 @@ tags: ["Mechanics", "Fields"]
 
 # Field Wind
 
+![Field Wind](img/Field_Wind.png){ align=right width=150 }
+
 <figure class="thumb" style="width: 180px" typeof="mw:File/Thumb">  <figcaption class="thumbcaption"> <p class="caption">A field wind showing it's length, field boost and conversion.</p> </figcaption> </figure>
 
 A **Field Wind** is a stacking buff that grants a bonus to [pollen](pollen.md) and [instant conversion](instant-conversion.md) to a specific [field](fields.md). Each stack of a field wind increases pollen gained from its field by a set amount depending on the field, and also gives 3% instant conversion to the field starting with a base of 25%. Field winds last for 30 minutes. Field winds are obtained by donating certain [items](items.md) to the [Wind Shrine](wind-shrine.md) or using various [codes](codes.md). Field wind tokens from the Wind Shrine have a lifespan of 30 seconds.

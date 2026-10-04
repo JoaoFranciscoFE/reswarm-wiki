@@ -5,6 +5,8 @@ tags: ["Leaderboards"]
 
 # Monthly Top Honeymakers
 
+![Monthly Top Honeymakers](img/Monthly_Top_Honeymakers.png){ align=right width=150 }
+
 The **Monthly Top Honeymakers** is one of the 64 [leaderboards](leaderboards.md) in the game and is only viewable via the Global Leaderboards menu in the [System Page](system-page.md). This leaderboard shows how much [honey](honey.md) players have collected over the span of 1 month. It shows 10 leaderboard positions at a time. The player can scroll down the leaderboard to see more players, all the way to the 100th place. Only legitimate players appear on the leaderboards for lengths of time (hackers/exploiters will be removed). The leaderboard resets on the 1st day of every month at 12:00 AM, CST.
 
 ## Trivia

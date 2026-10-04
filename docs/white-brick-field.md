@@ -5,6 +5,8 @@ tags: ["Locations", "Fields", "Retro Swarm Challenge", "Colorless"]
 
 # White Brick Field
 
+![White Brick Field](img/White_Brick_Field.png){ align=right width=150 }
+
 White Brick Field
 
 FIELD COLOR
