@@ -119,7 +119,7 @@ Strangely, for some players, the message that appears when Mondo Chick is captur
 
 <table class="article-table">
 <tbody><tr>
-<td><span typeof="mw:Error mw:File"></span><a href="honey.html"><span class="color-template color-template-honey">Honey</span></a><br/>
+<td><img alt="Honey" height="35" src="img/Honey.png" width="35"/><a href="honey.html"><span class="color-template color-template-honey">Honey</span></a><br/>
 <p><img alt="Treat" height="35" src="img/Treat.png" width="35"/><a href="treat.html"><span class="color-template color-template-treat">Treats</span></a><br/>
 <img alt="Bitterberry" height="35" src="img/Bitterberry.png" width="35"/><a href="bitterberry.html"><span class="color-template color-template-bitterberry color-template-background-clip">Bitterberries</span></a> (Amount increases the faster it is captured)<br/>
 <img alt="Neonberry" height="35" src="img/Neonberry.png" width="35"/><a href="neonberry.html"><span class="color-template color-template-neonberry color-template-background-clip">Neonberries</span></a> (Up to 2, very common)<br/>

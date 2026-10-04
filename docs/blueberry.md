@@ -89,7 +89,7 @@ Total required for all single-purchase items: 753 **Blueberries**
 <tr>
 <td><div style="text-align: center;">3</div>
 </td>
-<td><span typeof="mw:Error mw:File"></span>4,400 <a href="honey.html"><span class="color-template color-template-honey">Honey</span></a><br/>
+<td><img alt="Honey" height="25" src="img/Honey.png" width="25"/>4,400 <a href="honey.html"><span class="color-template color-template-honey">Honey</span></a><br/>
 <p><img alt="Sunflower Seed" height="25" src="img/Sunflower_Seed.png" width="25"/>3 <a href="sunflower-seed.html"><span class="color-template color-template-sunflower-seed color-template-background-clip">Sunflower Seeds</span></a>
 </p>
 </td>
@@ -98,7 +98,7 @@ Total required for all single-purchase items: 753 **Blueberries**
 <tr>
 <td><div style="text-align: center;">50</div>
 </td>
-<td><span typeof="mw:Error mw:File"></span>2,200,000 <a href="honey.html"><span class="color-template color-template-honey">Honey</span></a><br/>
+<td><img alt="Honey" height="25" src="img/Honey.png" width="25"/>2,200,000 <a href="honey.html"><span class="color-template color-template-honey">Honey</span></a><br/>
 <p><img alt="Strawberry" height="25" src="img/Strawberry.png" width="25"/>50 <a href="strawberry.html"><span class="color-template color-template-strawberry color-template-background-clip">Strawberries</span></a>
 </p>
 </td>
@@ -107,7 +107,7 @@ Total required for all single-purchase items: 753 **Blueberries**
 <tr>
 <td><div style="text-align: center;">50</div>
 </td>
-<td><span typeof="mw:Error mw:File"></span>1,000,000 <a href="honey.html"><span class="color-template color-template-honey">Honey</span></a><br/>
+<td><img alt="Honey" height="25" src="img/Honey.png" width="25"/>1,000,000 <a href="honey.html"><span class="color-template color-template-honey">Honey</span></a><br/>
 <p><img alt="Royal Jelly" height="25" src="img/Royal_Jelly.png" width="25"/>1 <a href="royal-jelly.html"><span class="color-template color-template-royal-jelly color-template-background-clip">Royal Jelly</span></a><br/>
 <img alt="Moon Charm" height="25" src="img/Moon_Charm.png" width="25"/>3 <a href="moon-charm.html"><span class="color-template color-template-moon-charm color-template-background-clip">Moon Charms</span></a>
 </p>
@@ -117,7 +117,7 @@ Total required for all single-purchase items: 753 **Blueberries**
 <tr>
 <td><div style="text-align: center;">50</div>
 </td>
-<td><span typeof="mw:Error mw:File"></span>5,000,000 <a href="honey.html"><span class="color-template color-template-honey">Honey</span></a><br/>
+<td><img alt="Honey" height="25" src="img/Honey.png" width="25"/>5,000,000 <a href="honey.html"><span class="color-template color-template-honey">Honey</span></a><br/>
 <p><img alt="Blue Extract" height="25" src="img/Blue_Extract.png" width="25"/>3 <a href="blue-extract.html"><span class="color-template color-template-blue-extract color-template-background-clip">Blue Extracts</span></a><br/>
 <img alt="Royal Jelly" height="25" src="img/Royal_Jelly.png" width="25"/>5 <a href="royal-jelly.html"><span class="color-template color-template-royal-jelly color-template-background-clip">Royal Jellies</span></a><br/>
 <img alt="Moon Charm" height="25" src="img/Moon_Charm.png" width="25"/>15 <a href="moon-charm.html"><span class="color-template color-template-moon-charm color-template-background-clip">Moon Charms</span></a>
@@ -128,7 +128,7 @@ Total required for all single-purchase items: 753 **Blueberries**
 <tr>
 <td><div style="text-align: center;">100</div>
 </td>
-<td><span typeof="mw:Error mw:File"></span>30,000,000 <a href="honey.html"><span class="color-template color-template-honey">Honey</span></a><br/>
+<td><img alt="Honey" height="25" src="img/Honey.png" width="25"/>30,000,000 <a href="honey.html"><span class="color-template color-template-honey">Honey</span></a><br/>
 <p><img alt="Blue Extract" height="25" src="img/Blue_Extract.png" width="25"/>50 <a href="blue-extract.html"><span class="color-template color-template-blue-extract color-template-background-clip">Blue Extracts</span></a><br/>
 <img alt="Glue" height="25" src="img/Glue.png" width="25"/>5 <a href="glue.html"><span class="color-template color-template-glue color-template-background-clip">Glues</span></a><br/>
 <img alt="Moon Charm" height="25" src="img/Moon_Charm.png" width="25"/>75 <a href="moon-charm.html"><span class="color-template color-template-moon-charm color-template-background-clip">Moon Charms</span></a>
@@ -139,7 +139,7 @@ Total required for all single-purchase items: 753 **Blueberries**
 <tr>
 <td><div style="text-align: center;">500</div>
 </td>
-<td><span typeof="mw:Error mw:File"></span>100,000,000 <a href="honey.html"><span class="color-template color-template-honey">Honey</span></a><br/>
+<td><img alt="Honey" height="25" src="img/Honey.png" width="25"/>100,000,000 <a href="honey.html"><span class="color-template color-template-honey">Honey</span></a><br/>
 <p><img alt="Blue Extract" height="25" src="img/Blue_Extract.png" width="25"/>50 <a href="blue-extract.html"><span class="color-template color-template-blue-extract color-template-background-clip">Blue Extracts</span></a><br/>
 <img alt="Oil" height="25" src="img/Oil.png" width="25"/>25 <a href="oil.html"><span class="color-template color-template-oil color-template-background-clip">Oils</span></a><br/>
 <img alt="Glitter" height="25" src="img/Glitter.png" width="25"/>15 <a href="glitter.html"><span class="color-template color-template-glitter color-template-background-clip">Glitter</span></a>
@@ -159,7 +159,7 @@ Total required for all single-purchase items: 753 **Blueberries**
 <tr>
 <th class="NavCategory">Sub-Inventories
 </th>
-<td class="NavLinks NavLinksBasicOdd" colspan="2"><b><span typeof="mw:Error mw:File"></span> <a href="sticker.html">Sticker</a> • <img alt="Beequip Case" height="35" src="img/Beequip_Case.png" width="35"/> <a href="beequip.html">Beequip Case</a></b>
+<td class="NavLinks NavLinksBasicOdd" colspan="2"><b><img alt="Sticker" height="35" src="img/Sticker.png" width="35"/> <a href="sticker.html">Sticker</a> • <img alt="Beequip Case" height="35" src="img/Beequip_Case.png" width="35"/> <a href="beequip.html">Beequip Case</a></b>
 </td></tr>
 <tr>
 <th class="NavCategory" rowspan="8">Regular
@@ -206,7 +206,7 @@ Total required for all single-purchase items: 753 **Blueberries**
 </th>
 <th class="NavCategory">Quest Exclusive
 </th>
-<td class="NavLinks NavLinksBasicEven"><b><img alt="Translator" height="35" src="img/Translator.png" width="35"/> <a href="translator.html">Translator</a> • <img alt="Spirit Petal" height="35" src="img/Spirit_Petal.png" width="35"/> <a href="spirit-petal.html">Spirit Petal</a> • <img alt="Debug Wax" height="35" src="img/Debug_Wax.png" width="35"/> <a href="debug-wax.html">Debug Wax</a> • <span typeof="mw:Error mw:File"></span> <a href="nectar-tester.html">Nectar Tester</a></b> • <span typeof="mw:Error mw:File"></span> <a href="bbm-s-apology.html">BBM's Apology</a><b></b>
+<td class="NavLinks NavLinksBasicEven"><b><img alt="Translator" height="35" src="img/Translator.png" width="35"/> <a href="translator.html">Translator</a> • <img alt="Spirit Petal" height="35" src="img/Spirit_Petal.png" width="35"/> <a href="spirit-petal.html">Spirit Petal</a> • <img alt="Debug Wax" height="35" src="img/Debug_Wax.png" width="35"/> <a href="debug-wax.html">Debug Wax</a> • <img alt="Nectar Tester" height="35" src="img/Nectar_Tester.png" width="35"/> <a href="nectar-tester.html">Nectar Tester</a></b> • <span typeof="mw:Error mw:File"></span> <a href="bbm-s-apology.html">BBM's Apology</a><b></b>
 </td></tr>
 <tr>
 <th class="NavCategory">Beesmas

@@ -195,7 +195,7 @@ Stack Combos are completed upon adding a certain set of stickers to the Sticker 
 <strong class="error"><span class="scribunto-error mw-scribunto-error-25d075bc">Lua error in Module:Item_image at line 88: Template error! There's no such file named File:hivesticker sagittarius star sign.png for Template:I.</span></strong>Sagittarius Star Sign
 </p>
 </td>
-<td><span typeof="mw:Error mw:File"></span><a href="cub-buddy.html#Skins"><span class="color-template color-template-star-cub color-template-background-clip">Star Cub</span></a>
+<td><img alt="Star Cub" height="35" src="img/Star_Cub.png" width="35"/><a href="cub-buddy.html#Skins"><span class="color-template color-template-star-cub color-template-background-clip">Star Cub</span></a>
 </td></tr>
 <tr>
 <td><strong class="error"><span class="scribunto-error mw-scribunto-error-dae27ac2">Lua error in Module:Item_image at line 88: Template error! There's no such file named File:hivesticker white button mushroom.png for Template:I.</span></strong>White Button Mushroom<br/>

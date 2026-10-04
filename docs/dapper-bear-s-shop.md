@@ -37,7 +37,7 @@ As of the time of writing, during every Beesmas since 2021, Dapper Bear's [Samov
 <tr>
 <td><figure class="mw-halign-center" typeof="mw:Error mw:File"><figcaption></figcaption></figure><div style="text-align: center;"><a href="plastic-planter.html"><span class="color-template color-template-plastic-planter color-template-background-clip">Plastic Planter</span></a></div>
 </td>
-<td><span typeof="mw:Error mw:File"></span>750,000 <a href="honey.html"><span class="color-template color-template-honey">Honey</span></a><br/>
+<td><img alt="Honey" height="25" src="img/Honey.png" width="25"/>750,000 <a href="honey.html"><span class="color-template color-template-honey">Honey</span></a><br/>
 <p><img alt="Magic Bean" height="25" src="img/Magic_Bean.png" width="25"/>3 <a href="magic-bean.html"><span class="color-template color-template-magic-bean color-template-background-clip">Magic Beans</span></a><br/>
 <img alt="Soft Wax" height="25" src="img/Soft_Wax.png" width="25"/>1 <a href="soft-wax.html"><span class="color-template color-template-soft-wax">Soft Wax</span></a>
 </p>
@@ -47,7 +47,7 @@ As of the time of writing, during every Beesmas since 2021, Dapper Bear's [Samov
 <tr>
 <td><figure class="mw-halign-center" typeof="mw:Error mw:File"><figcaption></figcaption></figure><div style="text-align: center;"><a href="candy-planter.html"><span class="color-template color-template-candy-planter color-template-background-clip">Candy Planter</span></a></div>
 </td>
-<td><span typeof="mw:Error mw:File"></span>5,000,000 <a href="honey.html"><span class="color-template color-template-honey">Honey</span></a><br/>
+<td><img alt="Honey" height="25" src="img/Honey.png" width="25"/>5,000,000 <a href="honey.html"><span class="color-template color-template-honey">Honey</span></a><br/>
 <p><img alt="Magic Bean" height="25" src="img/Magic_Bean.png" width="25"/>5 <a href="magic-bean.html"><span class="color-template color-template-magic-bean color-template-background-clip">Magic Beans</span></a><br/>
 <img alt="Gumdrops" height="25" src="img/Gumdrops.png" width="25"/>30 <a href="gumdrops.html"><span class="color-template color-template-gumdrops color-template-background-clip">Gumdrops</span></a><br/>
 <img alt="Jelly Beans" height="25" src="img/Jelly_Beans.png" width="25"/>3 <a href="jelly-beans.html"><span class="color-template color-template-jelly-beans color-template-background-clip">Jelly Beans</span></a><br/>
@@ -64,7 +64,7 @@ As of the time of writing, during every Beesmas since 2021, Dapper Bear's [Samov
 <tr>
 <td><figure class="mw-halign-center" typeof="mw:Error mw:File"><figcaption></figcaption></figure><div style="text-align: center;"><a href="tacky-planter.html"><span class="color-template color-template-tacky-planter color-template-background-clip">Tacky Planter</span></a></div>
 </td>
-<td><span typeof="mw:Error mw:File"></span>50,000,000 <a href="honey.html"><span class="color-template color-template-honey">Honey</span></a><br/>
+<td><img alt="Honey" height="25" src="img/Honey.png" width="25"/>50,000,000 <a href="honey.html"><span class="color-template color-template-honey">Honey</span></a><br/>
 <p><img alt="Magic Bean" height="25" src="img/Magic_Bean.png" width="25"/>10 <a href="magic-bean.html"><span class="color-template color-template-magic-bean color-template-background-clip">Magic Beans</span></a><br/>
 <img alt="Purple Potion" height="25" src="img/Purple_Potion.png" width="25"/>1 <a href="purple-potion.html"><span class="color-template color-template-purple-potion color-template-background-clip">Purple Potion</span></a><br/>
 <img alt="Hard Wax" height="25" src="img/Hard_Wax.png" width="25"/>5 <a href="hard-wax.html"><span class="color-template color-template-hard-wax">Hard Waxes</span></a><br/>
@@ -78,7 +78,7 @@ As of the time of writing, during every Beesmas since 2021, Dapper Bear's [Samov
 <tr>
 <td><figure class="mw-halign-center" typeof="mw:Error mw:File"><figcaption></figcaption></figure><div style="text-align: center;"><a href="pesticide-planter.html"><span class="color-template color-template-pesticide-planter color-template-background-clip">Pesticide Planter</span></a></div>
 </td>
-<td><span typeof="mw:Error mw:File"></span>750,000,000 <a href="honey.html"><span class="color-template color-template-honey">Honey</span></a><br/>
+<td><img alt="Honey" height="25" src="img/Honey.png" width="25"/>750,000,000 <a href="honey.html"><span class="color-template color-template-honey">Honey</span></a><br/>
 <p><img alt="Magic Bean" height="25" src="img/Magic_Bean.png" width="25"/>25 <a href="magic-bean.html"><span class="color-template color-template-magic-bean color-template-background-clip">Magic Beans</span></a><br/>
 <img alt="Neonberry" height="25" src="img/Neonberry.png" width="25"/>25 <a href="neonberry.html"><span class="color-template color-template-neonberry color-template-background-clip">Neonberries</span></a><br/>
 <img alt="Glue" height="25" src="img/Glue.png" width="25"/>15 <a href="glue.html"><span class="color-template color-template-glue color-template-background-clip">Glues</span></a><br/>

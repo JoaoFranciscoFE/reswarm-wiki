@@ -116,7 +116,7 @@ Total required for all single-purchase items: 30 **Neonberries**
 <tr>
 <td><div style="text-align: center;">5
 </div></td>
-<td><span typeof="mw:Error mw:File"></span>7,000,000 <a href="honey.html"><span class="color-template color-template-honey">Honey</span></a><br/>
+<td><img alt="Honey" height="25" src="img/Honey.png" width="25"/>7,000,000 <a href="honey.html"><span class="color-template color-template-honey">Honey</span></a><br/>
 <p><img alt="Glue" height="25" src="img/Glue.png" width="25"/>1 <a href="glue.html"><span class="color-template color-template-glue color-template-background-clip">Glue</span></a><br/>
 <img alt="Oil" height="25" src="img/Oil.png" width="25"/>1 <a href="oil.html"><span class="color-template color-template-oil color-template-background-clip">Oil</span></a><br/>
 <img alt="Soft Wax" height="25" src="img/Soft_Wax.png" width="25"/>5 <a href="soft-wax.html"><span class="color-template color-template-soft-wax">Soft Waxes</span></a><br/>
@@ -138,7 +138,7 @@ Total required for all single-purchase items: 30 **Neonberries**
 <tr>
 <td><div style="text-align: center;">25
 </div></td>
-<td><span typeof="mw:Error mw:File"></span>750,000,000 <a href="honey.html"><span class="color-template color-template-honey">Honey</span></a><br/>
+<td><img alt="Honey" height="25" src="img/Honey.png" width="25"/>750,000,000 <a href="honey.html"><span class="color-template color-template-honey">Honey</span></a><br/>
 <p><img alt="Magic Bean" height="25" src="img/Magic_Bean.png" width="25"/>25 <a href="magic-bean.html"><span class="color-template color-template-magic-bean color-template-background-clip">Magic Beans</span></a><br/>
 <img alt="Glue" height="25" src="img/Glue.png" width="25"/>15 <a href="glue.html"><span class="color-template color-template-glue color-template-background-clip">Glues</span></a><br/>
 <img alt="Caustic Wax" height="25" src="img/Caustic_Wax.png" width="25"/>3 <a href="caustic-wax.html"><span class="color-template color-template-caustic-wax">Caustic Waxes</span></a><br/>
@@ -159,7 +159,7 @@ Total required for all single-purchase items: 30 **Neonberries**
 <tr>
 <th class="NavCategory">Sub-Inventories
 </th>
-<td class="NavLinks NavLinksBasicOdd" colspan="2"><b><span typeof="mw:Error mw:File"></span> <a href="sticker.html">Sticker</a> • <img alt="Beequip Case" height="35" src="img/Beequip_Case.png" width="35"/> <a href="beequip.html">Beequip Case</a></b>
+<td class="NavLinks NavLinksBasicOdd" colspan="2"><b><img alt="Sticker" height="35" src="img/Sticker.png" width="35"/> <a href="sticker.html">Sticker</a> • <img alt="Beequip Case" height="35" src="img/Beequip_Case.png" width="35"/> <a href="beequip.html">Beequip Case</a></b>
 </td></tr>
 <tr>
 <th class="NavCategory" rowspan="8">Regular
@@ -206,7 +206,7 @@ Total required for all single-purchase items: 30 **Neonberries**
 </th>
 <th class="NavCategory">Quest Exclusive
 </th>
-<td class="NavLinks NavLinksBasicEven"><b><img alt="Translator" height="35" src="img/Translator.png" width="35"/> <a href="translator.html">Translator</a> • <img alt="Spirit Petal" height="35" src="img/Spirit_Petal.png" width="35"/> <a href="spirit-petal.html">Spirit Petal</a> • <img alt="Debug Wax" height="35" src="img/Debug_Wax.png" width="35"/> <a href="debug-wax.html">Debug Wax</a> • <span typeof="mw:Error mw:File"></span> <a href="nectar-tester.html">Nectar Tester</a></b> • <span typeof="mw:Error mw:File"></span> <a href="bbm-s-apology.html">BBM's Apology</a><b></b>
+<td class="NavLinks NavLinksBasicEven"><b><img alt="Translator" height="35" src="img/Translator.png" width="35"/> <a href="translator.html">Translator</a> • <img alt="Spirit Petal" height="35" src="img/Spirit_Petal.png" width="35"/> <a href="spirit-petal.html">Spirit Petal</a> • <img alt="Debug Wax" height="35" src="img/Debug_Wax.png" width="35"/> <a href="debug-wax.html">Debug Wax</a> • <img alt="Nectar Tester" height="35" src="img/Nectar_Tester.png" width="35"/> <a href="nectar-tester.html">Nectar Tester</a></b> • <span typeof="mw:Error mw:File"></span> <a href="bbm-s-apology.html">BBM's Apology</a><b></b>
 </td></tr>
 <tr>
 <th class="NavCategory">Beesmas

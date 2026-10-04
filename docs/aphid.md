@@ -48,7 +48,7 @@ This is the most common aphid that can be encountered. They possess the least am
 </th></tr>
 <tr>
 <td>10 <a href="battle-points.html">Battle Points</a><br/>
-<p><span typeof="mw:Error mw:File"></span><a href="honey.html"><span class="color-template color-template-honey">Honey</span></a><br/>
+<p><img alt="Honey" height="35" src="img/Honey.png" width="35"/><a href="honey.html"><span class="color-template color-template-honey">Honey</span></a><br/>
 <img alt="Micro-Converter" height="35" src="img/Micro-Converter.png" width="35"/><a href="micro-converter.html"><span class="color-template color-template-micro-converter color-template-background-clip">Micro-Converters</span></a><br/>
 <img alt="Magic Bean" height="35" src="img/Magic_Bean.png" width="35"/><a href="magic-bean.html"><span class="color-template color-template-magic-bean color-template-background-clip">Magic Beans</span></a><br/>
 <img alt="Gumdrops" height="35" src="img/Gumdrops.png" width="35"/><a href="gumdrops.html"><span class="color-template color-template-gumdrops color-template-background-clip">Gumdrops</span></a><br/>
@@ -75,7 +75,7 @@ The Rage Aphid is one of the 3 rare types of aphids, the others being Armored Ap
 </th></tr>
 <tr>
 <td>20 <a href="battle-points.html">Battle Points</a><br/>
-<p><span typeof="mw:Error mw:File"></span><a href="honey.html"><span class="color-template color-template-honey">Honey</span></a><br/>
+<p><img alt="Honey" height="35" src="img/Honey.png" width="35"/><a href="honey.html"><span class="color-template color-template-honey">Honey</span></a><br/>
 <img alt="Micro-Converter" height="35" src="img/Micro-Converter.png" width="35"/><a href="micro-converter.html"><span class="color-template color-template-micro-converter color-template-background-clip">Micro-Converters</span></a><br/>
 <img alt="Magic Bean" height="35" src="img/Magic_Bean.png" width="35"/><a href="magic-bean.html"><span class="color-template color-template-magic-bean color-template-background-clip">Magic Beans</span></a><br/>
 <img alt="Gumdrops" height="35" src="img/Gumdrops.png" width="35"/><a href="gumdrops.html"><span class="color-template color-template-gumdrops color-template-background-clip">Gumdrops</span></a><br/>
@@ -108,7 +108,7 @@ The Armored Aphid is one of the 3 rare types of aphids, the others being Rage Ap
 </th></tr>
 <tr>
 <td>20 <a href="battle-points.html">Battle Points</a><br/>
-<p><span typeof="mw:Error mw:File"></span><a href="honey.html"><span class="color-template color-template-honey">Honey</span></a><br/>
+<p><img alt="Honey" height="35" src="img/Honey.png" width="35"/><a href="honey.html"><span class="color-template color-template-honey">Honey</span></a><br/>
 <img alt="Treat" height="35" src="img/Treat.png" width="35"/><a href="treat.html"><span class="color-template color-template-treat">Treats</span></a><br/>
 <img alt="Micro-Converter" height="35" src="img/Micro-Converter.png" width="35"/><a href="micro-converter.html"><span class="color-template color-template-micro-converter color-template-background-clip">Micro-Converters</span></a> (Increments of 1 and 5)<br/>
 <img alt="Magic Bean" height="35" src="img/Magic_Bean.png" width="35"/><a href="magic-bean.html"><span class="color-template color-template-magic-bean color-template-background-clip">Magic Beans</span></a><br/>
@@ -142,7 +142,7 @@ The Diamond Aphid is one of the 3 rare types of aphids, the others being Rage Ap
 </th></tr>
 <tr>
 <td>20 <a href="battle-points.html">Battle Points</a><br/>
-<p><span typeof="mw:Error mw:File"></span><a href="honey.html"><span class="color-template color-template-honey">Honey</span></a><br/>
+<p><img alt="Honey" height="35" src="img/Honey.png" width="35"/><a href="honey.html"><span class="color-template color-template-honey">Honey</span></a><br/>
 <img alt="Treat" height="35" src="img/Treat.png" width="35"/><a href="treat.html"><span class="color-template color-template-treat">Treats</span></a><br/>
 <img alt="Micro-Converter" height="35" src="img/Micro-Converter.png" width="35"/><a href="micro-converter.html"><span class="color-template color-template-micro-converter color-template-background-clip">Micro-Converters</span></a><br/>
 <img alt="Field Dice" height="35" src="img/Field_Dice.png" width="35"/><a href="field-dice.html"><span class="color-template color-template-field-dice color-template-background-clip">Field Dice</span></a><br/>

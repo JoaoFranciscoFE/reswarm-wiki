@@ -90,7 +90,7 @@ A ladybug's level can range from 1–3, depending on the field it is located in.
 <th>Guaranteed Drops list
 </th></tr>
 <tr>
-<td><span typeof="mw:Error mw:File"></span>75 <a href="honey.html"><span class="color-template color-template-honey">Honey</span></a> (increased by <a href="system-page.html#Honey_From_Tokens">Honey From Tokens</a>)
+<td><img alt="Honey" height="25" src="img/Honey.png" width="25"/>75 <a href="honey.html"><span class="color-template color-template-honey">Honey</span></a> (increased by <a href="system-page.html#Honey_From_Tokens">Honey From Tokens</a>)
 </td></tr></tbody></table>
 
 <table class="article-table">

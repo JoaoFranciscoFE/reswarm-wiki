@@ -343,7 +343,7 @@ Every time Wild Windy Bee is defeated, the following rewards may be dropped. Def
 <tbody><tr>
 <td>
 </td>
-<td><span typeof="mw:Error mw:File"></span><a href="honey.html"><span class="color-template color-template-honey">Honey</span></a><br/>
+<td><img alt="Honey" height="35" src="img/Honey.png" width="35"/><a href="honey.html"><span class="color-template color-template-honey">Honey</span></a><br/>
 <p><img alt="Cloud Vial" height="35" src="img/Cloud_Vial.png" width="35"/><a href="cloud-vial.html"><span class="color-template color-template-cloud-vial color-template-background-clip">Cloud Vials</span></a><br/>
 <img alt="Royal Jelly" height="35" src="img/Royal_Jelly.png" width="35"/><a href="royal-jelly.html"><span class="color-template color-template-royal-jelly color-template-background-clip">Royal Jellies</span></a><br/>
 <img alt="Sunflower Seed" height="35" src="img/Sunflower_Seed.png" width="35"/><a href="sunflower-seed.html"><span class="color-template color-template-sunflower-seed color-template-background-clip">Sunflower Seeds</span></a> (Limited per day)<br/>

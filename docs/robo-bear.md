@@ -105,7 +105,7 @@ During Beesmas 2022, players were able to complete the quest by purchasing a whi
 <li>Obtain 1 <a href="drives.html#Blue_Drive">Blue Drive</a>.</li>
 <li>Obtain 1 <a href="drives.html#Glitched_Drive">Glitched Drive</a>.</li></ul>
 </td>
-<td><span typeof="mw:Error mw:File"></span>10,000 <a href="honey.html"><span class="color-template color-template-honey">Honey</span></a><br/>
+<td><img alt="Honey" height="25" src="img/Honey.png" width="25"/>10,000 <a href="honey.html"><span class="color-template color-template-honey">Honey</span></a><br/>
 <p><img alt="Robo Pass" height="25" src="img/Robo_Pass.png" width="25"/>1 <a href="robo-pass.html"><span class="color-template color-template-robo-pass color-template-background-clip">Robo Pass</span></a>
 </p>
 <hr/>
@@ -236,7 +236,7 @@ The following content has been removed from the game. The contents below may be 
 <li>Purchase the RGB Upgrade in Robo Bear's Challenge.</li></ul>
 </td>
 <td>
-<p><span typeof="mw:Error mw:File"></span>2,147,483,648 <a href="honey.html"><span class="color-template color-template-honey">Honey</span></a><br/>
+<p><img alt="Honey" height="25" src="img/Honey.png" width="25"/>2,147,483,648 <a href="honey.html"><span class="color-template color-template-honey">Honey</span></a><br/>
 <img alt="Snowflake" height="25" src="img/Snowflake.png" width="25"/>128 <a href="snowflake.html"><span class="color-template color-template-snowflake color-template-background-clip">Snowflakes</span></a><br/>
 <img alt="Ticket" height="25" src="img/Ticket.png" width="25"/>64 <a href="ticket.html"><span class="color-template color-template-ticket color-template-background-clip">Tickets</span></a><br/>
 <img alt="Whirligig" height="25" src="img/Whirligig.png" width="25"/>32 <a href="whirligig.html"><span class="color-template color-template-whirligig color-template-background-clip">Whirligigs</span></a><br/>
@@ -295,7 +295,7 @@ The following content has been removed from the game. The contents below may be 
 <li>Collect 1 White Drive.</li>
 <li>Collect 64 Duped Ability Tokens.</li></ul>
 </td>
-<td><span typeof="mw:Error mw:File"></span>4,294,967,296 <a href="honey.html"><span class="color-template color-template-honey">Honey</span></a><br/>
+<td><img alt="Honey" height="25" src="img/Honey.png" width="25"/>4,294,967,296 <a href="honey.html"><span class="color-template color-template-honey">Honey</span></a><br/>
 <p><img alt="Snowflake" height="25" src="img/Snowflake.png" width="25"/>128 <a href="snowflake.html"><span class="color-template color-template-snowflake color-template-background-clip">Snowflakes</span></a><br/>
 <img alt="Ticket" height="25" src="img/Ticket.png" width="25"/>32 <a href="ticket.html"><span class="color-template color-template-ticket color-template-background-clip">Tickets</span></a><br/>
 <img alt="Oil" height="25" src="img/Oil.png" width="25"/>16 <a href="oil.html"><span class="color-template color-template-oil color-template-background-clip">Oils</span></a><br/>
@@ -348,7 +348,7 @@ The following content has been removed from the game. The contents below may be 
 <li>Obtain 4 Lightning/Barcode <a href="sticker.html">Stickers</a> to give to Robo Bear.</li>
 <li>Obtain 2 Magnet/Electro-Magnet/Pulsar <a href="sticker.html">Stickers</a> to give to Robo Bear.</li></ul>
 </td>
-<td><span typeof="mw:Error mw:File"></span>268,435,456 <a href="honey.html"><span class="color-template color-template-honey">Honey</span></a><br/>
+<td><img alt="Honey" height="25" src="img/Honey.png" width="25"/>268,435,456 <a href="honey.html"><span class="color-template color-template-honey">Honey</span></a><br/>
 <p><img alt="Snowflake" height="25" src="img/Snowflake.png" width="25"/>64 <a href="snowflake.html"><span class="color-template color-template-snowflake color-template-background-clip">Snowflakes</span></a><br/>
 <img alt="Ticket" height="25" src="img/Ticket.png" width="25"/>32 <a href="ticket.html"><span class="color-template color-template-ticket color-template-background-clip">Tickets</span></a><br/>
 <img alt="Stinger" height="25" src="img/Stinger.png" width="25"/>16 <a href="stinger.html"><span class="color-template color-template-stinger color-template-background-clip">Stingers</span></a><br/>
@@ -401,7 +401,7 @@ The following content has been removed from the game. The contents below may be 
 <li>Collect 4 <a href="gingerbread-bear.html">Gingerbread Bears</a>.</li>
 <li>Collect 2 <a href="glitter.html">Glitter</a>.</li></ul>
 </td>
-<td><span typeof="mw:Error mw:File"></span>2,097,152 <a href="honey.html"><span class="color-template color-template-honey">Honey</span></a><br/>
+<td><img alt="Honey" height="25" src="img/Honey.png" width="25"/>2,097,152 <a href="honey.html"><span class="color-template color-template-honey">Honey</span></a><br/>
 <p><img alt="Snowflake" height="25" src="img/Snowflake.png" width="25"/>32 <a href="snowflake.html"><span class="color-template color-template-snowflake color-template-background-clip">Snowflakes</span></a><br/>
 <img alt="Stinger" height="25" src="img/Stinger.png" width="25"/>8 <a href="stinger.html"><span class="color-template color-template-stinger color-template-background-clip">Stingers</span></a><br/>
 <img alt="Ticket" height="25" src="img/Ticket.png" width="25"/>4 <a href="ticket.html"><span class="color-template color-template-ticket color-template-background-clip">Tickets</span></a><br/>

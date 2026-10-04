@@ -32,7 +32,7 @@ Outside, it is decorated with the Badge icon in the menu on top of the entrance,
 <tr>
 <td><figure class="mw-halign-center" typeof="mw:Error mw:File"><figcaption></figcaption></figure><div style="text-align: center;"><a href="basic-sprinkler.html">Basic Sprinkler</a></div>
 </td>
-<td><span typeof="mw:Error mw:File"></span>1,111,111 <a href="honey.html"><span class="color-template color-template-honey">Honey</span></a>
+<td><img alt="Honey" height="25" src="img/Honey.png" width="25"/>1,111,111 <a href="honey.html"><span class="color-template color-template-honey">Honey</span></a>
 </td>
 <td>
 <ul><li>Count: 1</li>
@@ -46,7 +46,7 @@ Outside, it is decorated with the Badge icon in the menu on top of the entrance,
 <tr>
 <td><figure class="mw-halign-center" typeof="mw:Error mw:File"><figcaption></figcaption></figure><div style="text-align: center;"><a href="silver-soakers.html">Silver Soakers</a></div>
 </td>
-<td><span typeof="mw:Error mw:File"></span>22,222,222 <a href="honey.html"><span class="color-template color-template-honey">Honey</span></a>
+<td><img alt="Honey" height="25" src="img/Honey.png" width="25"/>22,222,222 <a href="honey.html"><span class="color-template color-template-honey">Honey</span></a>
 </td>
 <td>
 <ul><li>Count: 2</li>
@@ -60,7 +60,7 @@ Outside, it is decorated with the Badge icon in the menu on top of the entrance,
 <tr>
 <td><figure class="mw-halign-center" typeof="mw:Error mw:File"><figcaption></figcaption></figure><div style="text-align: center;"><a href="golden-gushers.html">Golden Gushers</a></div>
 </td>
-<td><span typeof="mw:Error mw:File"></span>333,333,333 <a href="honey.html"><span class="color-template color-template-honey">Honey</span></a>
+<td><img alt="Honey" height="25" src="img/Honey.png" width="25"/>333,333,333 <a href="honey.html"><span class="color-template color-template-honey">Honey</span></a>
 </td>
 <td>
 <ul><li>Count: 3</li>
@@ -113,7 +113,7 @@ Outside, it is decorated with the Badge icon in the menu on top of the entrance,
 <tr>
 <td><figure class="mw-halign-center" typeof="mw:File"><img alt="Honey Mask" data-image-key="Honey_Mask.png" data-image-name="Honey Mask.png" data-relevant="1" height="80" src="img/Honey_Mask.png" width="80"/><figcaption></figcaption></figure><div style="text-align: center;"><a href="honey-mask.html">Honey Mask</a></div>
 </td>
-<td><span typeof="mw:Error mw:File"></span>100,000,000 <a href="honey.html"><span class="color-template color-template-honey">Honey</span></a><br/>
+<td><img alt="Honey" height="25" src="img/Honey.png" width="25"/>100,000,000 <a href="honey.html"><span class="color-template color-template-honey">Honey</span></a><br/>
 <p><img alt="Treat" height="25" src="img/Treat.png" width="25"/>9,999 <a href="treat.html"><span class="color-template color-template-treat">Treats</span></a><br/>
 <img alt="Oil" height="25" src="img/Oil.png" width="25"/>50 <a href="oil.html"><span class="color-template color-template-oil color-template-background-clip">Oils</span></a><br/>
 <img alt="Enzymes" height="25" src="img/Enzymes.png" width="25"/>25 <a href="enzymes.html"><span class="color-template color-template-enzymes color-template-background-clip">Enzymes</span></a><br/>
@@ -133,7 +133,7 @@ Outside, it is decorated with the Badge icon in the menu on top of the entrance,
 <tr>
 <td><figure class="mw-halign-center" typeof="mw:File"><img alt="Cobalt Guard" data-image-key="Cobalt_Guard.png" data-image-name="Cobalt Guard.png" data-relevant="1" height="80" src="img/Cobalt_Guard.png" width="80"/><figcaption></figcaption></figure><div style="text-align: center;"><a href="cobalt-guard.html">Cobalt Guard</a></div>
 </td>
-<td><span typeof="mw:Error mw:File"></span>200,000,000 <a href="honey.html"><span class="color-template color-template-honey">Honey</span></a><br/>
+<td><img alt="Honey" height="25" src="img/Honey.png" width="25"/>200,000,000 <a href="honey.html"><span class="color-template color-template-honey">Honey</span></a><br/>
 <p><img alt="Blue Extract" height="25" src="img/Blue_Extract.png" width="25"/>100 <a href="blue-extract.html"><span class="color-template color-template-blue-extract color-template-background-clip">Blue Extracts</span></a><br/>
 <img alt="Stinger" height="25" src="img/Stinger.png" width="25"/>100 <a href="stinger.html"><span class="color-template color-template-stinger color-template-background-clip">Stingers</span></a><br/>
 <img alt="Enzymes" height="25" src="img/Enzymes.png" width="25"/>50 <a href="enzymes.html"><span class="color-template color-template-enzymes color-template-background-clip">Enzymes</span></a><br/>
@@ -152,7 +152,7 @@ Outside, it is decorated with the Badge icon in the menu on top of the entrance,
 <tr>
 <td><figure class="mw-halign-center" typeof="mw:File"><img alt="Crimson Guard" data-image-key="Crimson_Guard.png" data-image-name="Crimson Guard.png" data-relevant="1" height="80" src="img/Crimson_Guard.png" width="80"/><figcaption></figcaption></figure><div style="text-align: center;"><a href="crimson-guard.html">Crimson Guard</a></div>
 </td>
-<td><span typeof="mw:Error mw:File"></span>200,000,000 <a href="honey.html"><span class="color-template color-template-honey">Honey</span></a><br/>
+<td><img alt="Honey" height="25" src="img/Honey.png" width="25"/>200,000,000 <a href="honey.html"><span class="color-template color-template-honey">Honey</span></a><br/>
 <p><img alt="Red Extract" height="25" src="img/Red_Extract.png" width="25"/>100 <a href="red-extract.html"><span class="color-template color-template-red-extract color-template-background-clip">Red Extracts</span></a><br/>
 <img alt="Stinger" height="25" src="img/Stinger.png" width="25"/>100 <a href="stinger.html"><span class="color-template color-template-stinger color-template-background-clip">Stingers</span></a><br/>
 <img alt="Oil" height="25" src="img/Oil.png" width="25"/>50 <a href="oil.html"><span class="color-template color-template-oil color-template-background-clip">Oils</span></a><br/>
@@ -171,7 +171,7 @@ Outside, it is decorated with the Badge icon in the menu on top of the entrance,
 <tr>
 <td><figure class="mw-halign-center" typeof="mw:File"><img alt="Honeycomb Belt" data-image-key="Honeycomb_Belt.png" data-image-name="Honeycomb Belt.png" data-relevant="1" height="80" src="img/Honeycomb_Belt.png" width="80"/><figcaption></figcaption></figure><div style="text-align: center;"><a href="honeycomb-belt.html">Honeycomb Belt</a></div>
 </td>
-<td><span typeof="mw:Error mw:File"></span>75,000,000 <a href="honey.html"><span class="color-template color-template-honey">Honey</span></a><br/>
+<td><img alt="Honey" height="25" src="img/Honey.png" width="25"/>75,000,000 <a href="honey.html"><span class="color-template color-template-honey">Honey</span></a><br/>
 <p><img alt="Enzymes" height="25" src="img/Enzymes.png" width="25"/>50 <a href="enzymes.html"><span class="color-template color-template-enzymes color-template-background-clip">Enzymes</span></a><br/>
 <img alt="Glue" height="25" src="img/Glue.png" width="25"/>50 <a href="glue.html"><span class="color-template color-template-glue color-template-background-clip">Glues</span></a><br/>
 <img alt="Oil" height="25" src="img/Oil.png" width="25"/>25 <a href="oil.html"><span class="color-template color-template-oil color-template-background-clip">Oils</span></a>

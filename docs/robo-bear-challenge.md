@@ -1642,7 +1642,7 @@ After the challenge ends, a message box displays the rewards. The number of rewa
 <table class="article-table">
 <tbody><tr>
 <td>
-<ul><li><span typeof="mw:Error mw:File"></span><a href="honey.html"><span class="color-template color-template-honey">Honey</span></a></li>
+<ul><li><img alt="Honey" height="35" src="img/Honey.png" width="35"/><a href="honey.html"><span class="color-template color-template-honey">Honey</span></a></li>
 <li>Potentially 1-2 items of the following types (has a chance to reward one more type of drive when completing the challenge):
 <ul><li><img alt="Red Drive" height="35" src="img/Red_Drive.png" width="35"/><a href="drives.html#Red_Drive"><span class="color-template color-template-red-drive color-template-background-clip">Red Drives</span></a></li>
 <li><img alt="White Drive" height="35" src="img/White_Drive.png" width="35"/><a href="drives.html#White_Drive"><span class="color-template color-template-white-drive color-template-background-clip">White Drives</span></a></li>
@@ -1727,7 +1727,7 @@ After the challenge ends, a message box displays the rewards. The number of rewa
 </td>
 <td><span typeof="mw:Error mw:File"></span> Supreme <a href="cog-amulet.html">Cog Amulet</a>
 </td>
-<td>Challenge Completion and <span typeof="mw:Error mw:File"></span><a href="cub-buddy.html#Skins"><span class="color-template color-template-robo-cub color-template-background-clip">Robo Cub</span></a> skin (first time only)
+<td>Challenge Completion and <img alt="Robo Cub" height="35" src="img/Robo_Cub.png" width="35"/><a href="cub-buddy.html#Skins"><span class="color-template color-template-robo-cub color-template-background-clip">Robo Cub</span></a> skin (first time only)
 </td></tr></tbody></table>
 
 ## Trivia

@@ -90,7 +90,7 @@ The higher tier the sprout is, the more tokens spawn when fully harvested. The p
 </th>
 <th><img alt="Treat" height="35" src="img/Treat.png" width="35"/><a href="treat.html"><span class="color-template color-template-treat">Treats</span></a>
 </th>
-<th><span typeof="mw:Error mw:File"></span><a href="honey.html"><span class="color-template color-template-honey">Honey</span></a>
+<th><img alt="Honey" height="35" src="img/Honey.png" width="35"/><a href="honey.html"><span class="color-template color-template-honey">Honey</span></a>
 </th>
 <th>Pollen
 </th></tr>
@@ -302,8 +302,8 @@ to<br/>
 <img alt="Diamond Egg" height="35" src="img/Diamond_Egg.png" width="35"/><a href="egg.html#Diamond_Egg"><span class="color-template color-template-diamond-egg color-template-background-clip">Diamond Egg</span></a><br/>
 <img alt="Gifted Diamond Egg" height="35" src="img/Gifted_Diamond_Egg.png" width="35"/><a href="egg.html#Gifted_Diamond_Egg"><span class="color-template color-template-gifted-diamond-egg color-template-background-clip">Gifted Diamond Egg</span></a><br/>
 <img alt="Star Egg" height="35" src="img/Star_Egg.png" width="35"/><a href="egg.html#Star_Egg"><span class="color-template color-template-star-egg color-template-background-clip">Star Egg</span></a><br/>
-<span typeof="mw:Error mw:File"></span> <a href="sticker.html">Stickers</a><br/>
-<span typeof="mw:Error mw:File"></span> <a href="waxes.html">Waxes</a><br/>
+<img alt="Stickers" height="35" src="img/Stickers.png" width="35"/> <a href="sticker.html">Stickers</a><br/>
+<img alt="Waxes" height="35" src="img/Waxes.png" width="35"/> <a href="waxes.html">Waxes</a><br/>
 <img alt="Sticker Planter" height="35" src="img/Sticker_Planter.png" width="35"/><a href="sticker-planter.html"><span class="color-template color-template-sticker-planter color-template-background-clip">Sticker Planters</span></a><br/>
 <img alt="Star Jelly" height="35" src="img/Star_Jelly.png" width="35"/><a href="royal-jelly.html#Star_Jelly"><span class="color-template color-template-star-jelly color-template-background-clip">Star Jellies</span></a><br/>
 Crafting Materials

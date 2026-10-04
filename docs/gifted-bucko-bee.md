@@ -1278,7 +1278,7 @@ The following content has been removed from the game. The contents below may be 
 <li>Pop 5 Puffshrooms in the <a href="blue-flower-field.html">Blue Flower Field</a>.</li></ul>
 </td>
 <td>
-<p><span typeof="mw:Error mw:File"></span>2,000,000,000 <a href="honey.html"><span class="color-template color-template-honey">Honey</span></a><br/>
+<p><img alt="Honey" height="25" src="img/Honey.png" width="25"/>2,000,000,000 <a href="honey.html"><span class="color-template color-template-honey">Honey</span></a><br/>
 <img alt="Ticket" height="25" src="img/Ticket.png" width="25"/>25 <a href="ticket.html"><span class="color-template color-template-ticket color-template-background-clip">Tickets</span></a><br/>
 <img alt="Blue Extract" height="25" src="img/Blue_Extract.png" width="25"/>25 <a href="blue-extract.html"><span class="color-template color-template-blue-extract color-template-background-clip">Blue Extracts</span></a><br/>
 <img alt="Comforting Vial" height="25" src="img/Comforting_Vial.png" width="25"/>1 <a href="comforting-vial.html"><span class="color-template color-template-comforting-vial color-template-background-clip">Comforting Vial</span></a><br/>

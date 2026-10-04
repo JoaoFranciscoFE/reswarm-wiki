@@ -112,7 +112,7 @@ If player already had the [Beequip Case](beequip.md) Slot that the quest was sup
 <li>Collect 2,000,000 <a href="pollen.html">Pollen</a> from the <a href="pineapple-patch.html">Pineapple Patch</a>.</li>
 <li>Collect 25 Tokens from <a href="planter.html">Planters</a>.</li></ul>
 </td>
-<td><span typeof="mw:Error mw:File"></span>1,000,000 <a href="honey.html"><span class="color-template color-template-honey">Honey</span></a><br/>
+<td><img alt="Honey" height="25" src="img/Honey.png" width="25"/>1,000,000 <a href="honey.html"><span class="color-template color-template-honey">Honey</span></a><br/>
 <p><img alt="Ticket Planter" height="25" src="img/Ticket_Planter.png" width="25"/>1 <a href="ticket-planter.html"><span class="color-template color-template-ticket-planter color-template-background-clip">Ticket Planter</span></a><br/>
 <img alt="Honeysuckle" height="25" src="img/Honeysuckle.png" width="25"/>10 <a href="honeysuckle.html"><span class="color-template color-template-honeysuckle color-template-background-clip">Honeysuckles</span></a><br/>
 <img alt="Whirligig" height="25" src="img/Whirligig.png" width="25"/>5 <a href="whirligig.html"><span class="color-template color-template-whirligig color-template-background-clip">Whirligigs</span></a><br/>
@@ -130,7 +130,7 @@ If player already had the [Beequip Case](beequip.md) Slot that the quest was sup
 <li>Collect <img alt="Bitterberry" height="25" src="img/Bitterberry.png" width="25"/>10 <a href="bitterberry.html"><span class="color-template color-template-bitterberry color-template-background-clip">Bitterberries</span></a>.</li></ul>
 </td>
 <td><img alt="Beequip Case" height="25" src="img/Beequip_Case.png" width="25"/>1 <a href="beequip.html"><span class="color-template color-template-beequip-case color-template-background-clip">Beequip Case</span></a> Slot<br/>
-<p><span typeof="mw:Error mw:File"></span>3,000,000 <a href="honey.html"><span class="color-template color-template-honey">Honey</span></a><br/>
+<p><img alt="Honey" height="25" src="img/Honey.png" width="25"/>3,000,000 <a href="honey.html"><span class="color-template color-template-honey">Honey</span></a><br/>
 <img alt="Soft Wax" height="25" src="img/Soft_Wax.png" width="25"/>3 <a href="soft-wax.html"><span class="color-template color-template-soft-wax">Soft Waxes</span></a><br/>
 <img alt="Jelly Beans" height="25" src="img/Jelly_Beans.png" width="25"/>5 <a href="jelly-beans.html"><span class="color-template color-template-jelly-beans color-template-background-clip">Jelly Beans</span></a><br/>
 <img alt="Royal Jelly" height="25" src="img/Royal_Jelly.png" width="25"/>1 <a href="royal-jelly.html"><span class="color-template color-template-royal-jelly color-template-background-clip">Royal Jelly</span></a>
@@ -146,7 +146,7 @@ If player already had the [Beequip Case](beequip.md) Slot that the quest was sup
 <li>Pop 100 <a href="bubble.html">Bubbles</a>.</li>
 <li>Pop 25 <a href="puffshroom.html">Puffshrooms</a>.</li></ul>
 </td>
-<td><span typeof="mw:Error mw:File"></span>5,000,000 <a href="honey.html"><span class="color-template color-template-honey">Honey</span></a><br/>
+<td><img alt="Honey" height="25" src="img/Honey.png" width="25"/>5,000,000 <a href="honey.html"><span class="color-template color-template-honey">Honey</span></a><br/>
 <p><img alt="Ticket Planter" height="25" src="img/Ticket_Planter.png" width="25"/>1 <a href="ticket-planter.html"><span class="color-template color-template-ticket-planter color-template-background-clip">Ticket Planter</span></a><br/>
 <img alt="Treat" height="25" src="img/Treat.png" width="25"/>100 <a href="treat.html"><span class="color-template color-template-treat">Treats</span></a><br/>
 <img alt="Honeysuckle" height="25" src="img/Honeysuckle.png" width="25"/>10 <a href="honeysuckle.html"><span class="color-template color-template-honeysuckle color-template-background-clip">Honeysuckles</span></a><br/>
@@ -167,7 +167,7 @@ If player already had the [Beequip Case](beequip.md) Slot that the quest was sup
 <li>Equip 5 <a href="beequip.html">Beequips</a> to <a href="bees.html">Bees</a> in your <a href="hive.html">Hive</a>.</li></ul>
 </td>
 <td><img alt="Beequip Case" height="25" src="img/Beequip_Case.png" width="25"/>1 <a href="beequip.html"><span class="color-template color-template-beequip-case color-template-background-clip">Beequip Case</span></a> Slot<br/>
-<p><span typeof="mw:Error mw:File"></span>10,000,000 <a href="honey.html"><span class="color-template color-template-honey">Honey</span></a><br/>
+<p><img alt="Honey" height="25" src="img/Honey.png" width="25"/>10,000,000 <a href="honey.html"><span class="color-template color-template-honey">Honey</span></a><br/>
 <img alt="Hard Wax" height="25" src="img/Hard_Wax.png" width="25"/>3 <a href="hard-wax.html"><span class="color-template color-template-hard-wax">Hard Waxes</span></a><br/>
 <img alt="Whirligig" height="25" src="img/Whirligig.png" width="25"/>10 <a href="whirligig.html"><span class="color-template color-template-whirligig color-template-background-clip">Whirligigs</span></a><br/>
 <img alt="Micro-Converter" height="25" src="img/Micro-Converter.png" width="25"/>3 <a href="micro-converter.html"><span class="color-template color-template-micro-converter color-template-background-clip">Micro-Converters</span></a><br/>
@@ -188,7 +188,7 @@ If player already had the [Beequip Case](beequip.md) Slot that the quest was sup
 <li>Pop 5 <a href="puffshroom.html">Rare Puffshrooms</a>.</li>
 <li>Pop 1 Level 8+ <a href="puffshroom.html">Puffshroom</a>.</li></ul>
 </td>
-<td><span typeof="mw:Error mw:File"></span>25,000,000 <a href="honey.html"><span class="color-template color-template-honey">Honey</span></a><br/>
+<td><img alt="Honey" height="25" src="img/Honey.png" width="25"/>25,000,000 <a href="honey.html"><span class="color-template color-template-honey">Honey</span></a><br/>
 <p><img alt="Ticket Planter" height="25" src="img/Ticket_Planter.png" width="25"/>3 <a href="ticket-planter.html"><span class="color-template color-template-ticket-planter color-template-background-clip">Ticket Planters</span></a><br/>
 <img alt="Satisfying Vial" height="25" src="img/Satisfying_Vial.png" width="25"/>1 <a href="satisfying-vial.html"><span class="color-template color-template-satisfying-vial color-template-background-clip">Satisfying Vial</span></a><br/>
 <img alt="Honeysuckle" height="25" src="img/Honeysuckle.png" width="25"/>25 <a href="honeysuckle.html"><span class="color-template color-template-honeysuckle color-template-background-clip">Honeysuckles</span></a><br/>
@@ -212,7 +212,7 @@ If player already had the [Beequip Case](beequip.md) Slot that the quest was sup
 <li>Pop 30 <a href="puffshroom.html">Puffshrooms</a> in the <a href="clover-field.html">Clover Field</a>.</li></ul>
 </td>
 <td><img alt="Beequip Case" height="25" src="img/Beequip_Case.png" width="25"/>1 <a href="beequip.html"><span class="color-template color-template-beequip-case color-template-background-clip">Beequip Case</span></a> Slot<br/>
-<p><span typeof="mw:Error mw:File"></span>30,000,000 <a href="honey.html"><span class="color-template color-template-honey">Honey</span></a><br/>
+<p><img alt="Honey" height="25" src="img/Honey.png" width="25"/>30,000,000 <a href="honey.html"><span class="color-template color-template-honey">Honey</span></a><br/>
 <img alt="Comforting Vial" height="25" src="img/Comforting_Vial.png" width="25"/>1 <a href="comforting-vial.html"><span class="color-template color-template-comforting-vial color-template-background-clip">Comforting Vial</span></a><br/>
 <img alt="Treat" height="25" src="img/Treat.png" width="25"/>500 <a href="treat.html"><span class="color-template color-template-treat">Treats</span></a><br/>
 <img alt="Neonberry" height="25" src="img/Neonberry.png" width="25"/>10 <a href="neonberry.html"><span class="color-template color-template-neonberry color-template-background-clip">Neonberries</span></a><br/>
@@ -236,7 +236,7 @@ If player already had the [Beequip Case](beequip.md) Slot that the quest was sup
 <li>Pop 1 <a href="puffshroom.html">Rare Puffshroom</a> from the <a href="strawberry-field.html">Strawberry Field</a>.</li>
 <li>Pop 1 <a href="puffshroom.html">Rare Puffshroom</a> from the <a href="bamboo-field.html">Bamboo Field</a>.</li></ul>
 </td>
-<td><span typeof="mw:Error mw:File"></span>50,000,000 <a href="honey.html"><span class="color-template color-template-honey">Honey</span></a><br/>
+<td><img alt="Honey" height="25" src="img/Honey.png" width="25"/>50,000,000 <a href="honey.html"><span class="color-template color-template-honey">Honey</span></a><br/>
 <p><img alt="Ticket Planter" height="25" src="img/Ticket_Planter.png" width="25"/>1 <a href="ticket-planter.html"><span class="color-template color-template-ticket-planter color-template-background-clip">Ticket Planter</span></a><br/>
 <img alt="Refreshing Vial" height="25" src="img/Refreshing_Vial.png" width="25"/>1 <a href="refreshing-vial.html"><span class="color-template color-template-refreshing-vial color-template-background-clip">Refreshing Vial</span></a><br/>
 <img alt="Royal Jelly" height="25" src="img/Royal_Jelly.png" width="25"/>15 <a href="royal-jelly.html"><span class="color-template color-template-royal-jelly color-template-background-clip">Royal Jellies</span></a><br/>
@@ -263,7 +263,7 @@ If player already had the [Beequip Case](beequip.md) Slot that the quest was sup
 <li>Pop 1 Level 9+ <a href="puffshroom.html">Puffshroom</a>.</li></ul>
 </td>
 <td><img alt="Beequip Case" height="25" src="img/Beequip_Case.png" width="25"/>1 <a href="beequip.html"><span class="color-template color-template-beequip-case color-template-background-clip">Beequip Case</span></a> Slot<br/>
-<p><span typeof="mw:Error mw:File"></span>90,000,000 <a href="honey.html"><span class="color-template color-template-honey">Honey</span></a><br/>
+<p><img alt="Honey" height="25" src="img/Honey.png" width="25"/>90,000,000 <a href="honey.html"><span class="color-template color-template-honey">Honey</span></a><br/>
 <img alt="Motivating Vial" height="25" src="img/Motivating_Vial.png" width="25"/>1 <a href="motivating-vial.html"><span class="color-template color-template-motivating-vial color-template-background-clip">Motivating Vial</span></a><br/>
 <img alt="Royal Jelly" height="25" src="img/Royal_Jelly.png" width="25"/>25 <a href="royal-jelly.html"><span class="color-template color-template-royal-jelly color-template-background-clip">Royal Jellies</span></a><br/>
 <img alt="Glue" height="25" src="img/Glue.png" width="25"/>3 <a href="glue.html"><span class="color-template color-template-glue color-template-background-clip">Glues</span></a><br/>
@@ -287,7 +287,7 @@ If player already had the [Beequip Case](beequip.md) Slot that the quest was sup
 <li>Defeat 10 <a href="rogue-vicious-bee.html">Vicious Bees</a>.</li>
 <li>Pop 5 <a href="puffshroom.html">Rare Puffshrooms</a> in the <a href="cactus-field.html">Cactus Field</a>.</li></ul>
 </td>
-<td><span typeof="mw:Error mw:File"></span>120,000,000 <a href="honey.html"><span class="color-template color-template-honey">Honey</span></a><br/>
+<td><img alt="Honey" height="25" src="img/Honey.png" width="25"/>120,000,000 <a href="honey.html"><span class="color-template color-template-honey">Honey</span></a><br/>
 <p><img alt="Ticket Planter" height="25" src="img/Ticket_Planter.png" width="25"/>1 <a href="ticket-planter.html"><span class="color-template color-template-ticket-planter color-template-background-clip">Ticket Planter</span></a><br/>
 <img alt="Invigorating Vial" height="25" src="img/Invigorating_Vial.png" width="25"/>1 <a href="invigorating-vial.html"><span class="color-template color-template-invigorating-vial color-template-background-clip">Invigorating Vial</span></a><br/>
 <img alt="Treat" height="25" src="img/Treat.png" width="25"/>2,500 <a href="treat.html"><span class="color-template color-template-treat">Treats</span></a><br/>
@@ -315,7 +315,7 @@ If player already had the [Beequip Case](beequip.md) Slot that the quest was sup
 <li>Pop 1 <a href="puffshroom.html">Epic Puffshroom</a>.</li></ul>
 </td>
 <td><img alt="Beequip Case" height="25" src="img/Beequip_Case.png" width="25"/>1 <a href="beequip.html"><span class="color-template color-template-beequip-case color-template-background-clip">Beequip Case</span></a> Slot<br/>
-<p><span typeof="mw:Error mw:File"></span>200,000,000 <a href="honey.html"><span class="color-template color-template-honey">Honey</span></a><br/>
+<p><img alt="Honey" height="25" src="img/Honey.png" width="25"/>200,000,000 <a href="honey.html"><span class="color-template color-template-honey">Honey</span></a><br/>
 <img alt="Comforting Vial" height="25" src="img/Comforting_Vial.png" width="25"/>1 <a href="comforting-vial.html"><span class="color-template color-template-comforting-vial color-template-background-clip">Comforting Vial</span></a><br/>
 <img alt="Loaded Dice" height="25" src="img/Loaded_Dice.png" width="25"/>1 <a href="loaded-dice.html"><span class="color-template color-template-loaded-dice color-template-background-clip">Loaded Dice</span></a><br/>
 <img alt="Star Jelly" height="25" src="img/Star_Jelly.png" width="25"/>1 <a href="royal-jelly.html#Star_Jelly"><span class="color-template color-template-star-jelly color-template-background-clip">Star Jelly</span></a><br/>
@@ -340,7 +340,7 @@ If player already had the [Beequip Case](beequip.md) Slot that the quest was sup
 <li>Collect <img alt="Ticket" height="25" src="img/Ticket.png" width="25"/>25 <a href="ticket.html"><span class="color-template color-template-ticket color-template-background-clip">Tickets</span></a> from <a href="wild-windy-bee.html">Wild Windy Bee</a>.</li>
 <li>Pop 200 <a href="puffshroom.html">Puffshrooms</a> in the <a href="pineapple-patch.html">Pineapple Patch</a>.</li></ul>
 </td>
-<td><span typeof="mw:Error mw:File"></span>250,000,000 <a href="honey.html"><span class="color-template color-template-honey">Honey</span></a><br/>
+<td><img alt="Honey" height="25" src="img/Honey.png" width="25"/>250,000,000 <a href="honey.html"><span class="color-template color-template-honey">Honey</span></a><br/>
 <p><img alt="Ticket Planter" height="25" src="img/Ticket_Planter.png" width="25"/>1 <a href="ticket-planter.html"><span class="color-template color-template-ticket-planter color-template-background-clip">Ticket Planter</span></a><br/>
 <img alt="Satisfying Vial" height="25" src="img/Satisfying_Vial.png" width="25"/>1 <a href="satisfying-vial.html"><span class="color-template color-template-satisfying-vial color-template-background-clip">Satisfying Vial</span></a><br/>
 <img alt="Honeysuckle" height="25" src="img/Honeysuckle.png" width="25"/>25 <a href="honeysuckle.html"><span class="color-template color-template-honeysuckle color-template-background-clip">Honeysuckles</span></a><br/>
@@ -367,7 +367,7 @@ If player already had the [Beequip Case](beequip.md) Slot that the quest was sup
 <li>Pop 10 Rare <a href="puffshroom.html">Puffshrooms</a> in the <a href="mountain-top-field.html">Mountain Top Field</a>.</li></ul>
 </td>
 <td><img alt="Beequip Case" height="25" src="img/Beequip_Case.png" width="25"/>1 <a href="beequip.html"><span class="color-template color-template-beequip-case color-template-background-clip">Beequip Case</span></a> Slot<br/>
-<p><span typeof="mw:Error mw:File"></span>300,000,000 <a href="honey.html"><span class="color-template color-template-honey">Honey</span></a><br/>
+<p><img alt="Honey" height="25" src="img/Honey.png" width="25"/>300,000,000 <a href="honey.html"><span class="color-template color-template-honey">Honey</span></a><br/>
 <img alt="Invigorating Vial" height="25" src="img/Invigorating_Vial.png" width="25"/>1 <a href="invigorating-vial.html"><span class="color-template color-template-invigorating-vial color-template-background-clip">Invigorating Vial</span></a><br/>
 <img alt="Royal Jelly" height="25" src="img/Royal_Jelly.png" width="25"/>100 <a href="royal-jelly.html"><span class="color-template color-template-royal-jelly color-template-background-clip">Royal Jellies</span></a><br/>
 <img alt="Whirligig" height="25" src="img/Whirligig.png" width="25"/>10 <a href="whirligig.html"><span class="color-template color-template-whirligig color-template-background-clip">Whirligigs</span></a><br/>
@@ -389,7 +389,7 @@ If player already had the [Beequip Case](beequip.md) Slot that the quest was sup
 <li>Use <img alt="Soft Wax" height="25" src="img/Soft_Wax.png" width="25"/>50 <a href="soft-wax.html"><span class="color-template color-template-soft-wax">Soft Waxes</span></a>.</li>
 <li>Pop 1 Level 13+ <a href="puffshroom.html">Puffshroom</a>.</li></ul>
 </td>
-<td><span typeof="mw:Error mw:File"></span>700,000,000 <a href="honey.html"><span class="color-template color-template-honey">Honey</span></a><br/>
+<td><img alt="Honey" height="25" src="img/Honey.png" width="25"/>700,000,000 <a href="honey.html"><span class="color-template color-template-honey">Honey</span></a><br/>
 <p><img alt="Ticket Planter" height="25" src="img/Ticket_Planter.png" width="25"/>1 <a href="ticket-planter.html"><span class="color-template color-template-ticket-planter color-template-background-clip">Ticket Planter</span></a><br/>
 <img alt="Comforting Vial" height="25" src="img/Comforting_Vial.png" width="25"/>1 <a href="comforting-vial.html"><span class="color-template color-template-comforting-vial color-template-background-clip">Comforting Vial</span></a><br/>
 <img alt="Whirligig" height="25" src="img/Whirligig.png" width="25"/>25 <a href="whirligig.html"><span class="color-template color-template-whirligig color-template-background-clip">Whirligigs</span></a><br/>
@@ -516,7 +516,7 @@ If player already had the [Beequip Case](beequip.md) Slot that the quest was sup
 <li>Reach <a href="all-time-top-damage-to-a-single-puffshroom.html">1,000,000 Damage Dealt to a Single Puffshroom</a>.</li></ul>
 </td>
 <td>
-<p><span typeof="mw:Error mw:File"></span>50,000,000 <a href="honey.html"><span class="color-template color-template-honey">Honey</span></a><br/>
+<p><img alt="Honey" height="25" src="img/Honey.png" width="25"/>50,000,000 <a href="honey.html"><span class="color-template color-template-honey">Honey</span></a><br/>
 <img alt="Ticket Planter" height="25" src="img/Ticket_Planter.png" width="25"/>1 <a href="ticket-planter.html"><span class="color-template color-template-ticket-planter color-template-background-clip">Ticket Planter</span></a><br/>
 <img alt="Swirled Wax" height="25" src="img/Swirled_Wax.png" width="25"/>1 <a href="swirled-wax.html"><span class="color-template color-template-swirled-wax color-template-background-clip">Swirled Wax</span></a><br/>
 <img alt="Comforting Vial" height="25" src="img/Comforting_Vial.png" width="25"/>1 <a href="comforting-vial.html"><span class="color-template color-template-comforting-vial color-template-background-clip">Comforting Vial</span></a><br/>
@@ -831,7 +831,7 @@ The following content has been removed from the game. The contents below may be 
 <li>Obtain 1 Yellow Coffee Mug <a href="sticker.html">Sticker</a> to give to Dapper Bear.</li></ul>
 </td>
 <td>
-<p><span typeof="mw:Error mw:File"></span>100,000,000 <a href="honey.html"><span class="color-template color-template-honey">Honey</span></a><br/>
+<p><img alt="Honey" height="25" src="img/Honey.png" width="25"/>100,000,000 <a href="honey.html"><span class="color-template color-template-honey">Honey</span></a><br/>
 <img alt="Ticket Planter" height="25" src="img/Ticket_Planter.png" width="25"/>1 <a href="ticket-planter.html"><span class="color-template color-template-ticket-planter color-template-background-clip">Ticket Planter</span></a><br/>
 <img alt="Refreshing Vial" height="25" src="img/Refreshing_Vial.png" width="25"/>1 <a href="refreshing-vial.html"><span class="color-template color-template-refreshing-vial color-template-background-clip">Refreshing Vial</span></a><br/>
 <img alt="Swirled Wax" height="25" src="img/Swirled_Wax.png" width="25"/>1 <a href="swirled-wax.html"><span class="color-template color-template-swirled-wax color-template-background-clip">Swirled Wax</span></a><br/>
@@ -873,7 +873,7 @@ The following content has been removed from the game. The contents below may be 
 <li>Obtain 5 Random Leaf <a href="sticker.html">Stickers</a> (except Blowing, Oblique and Reniform) to give to Dapper Bear.</li></ul>
 </td>
 <td>
-<ul><li><span typeof="mw:Error mw:File"></span>200,000,000 <a href="honey.html"><span class="color-template color-template-honey">Honey</span></a></li>
+<ul><li><img alt="Honey" height="25" src="img/Honey.png" width="25"/>200,000,000 <a href="honey.html"><span class="color-template color-template-honey">Honey</span></a></li>
 <li><img alt="Ticket Planter" height="25" src="img/Ticket_Planter.png" width="25"/>1 <a href="ticket-planter.html"><span class="color-template color-template-ticket-planter color-template-background-clip">Ticket Planter</span></a></li>
 <li><img alt="Smooth Dice" height="25" src="img/Smooth_Dice.png" width="25"/>3 <a href="smooth-dice.html"><span class="color-template color-template-smooth-dice color-template-background-clip">Smooth Dice</span></a></li>
 <li><img alt="Swirled Wax" height="25" src="img/Swirled_Wax.png" width="25"/>1 <a href="swirled-wax.html"><span class="color-template color-template-swirled-wax color-template-background-clip">Swirled Wax</span></a></li>
@@ -913,7 +913,7 @@ That was quicker than I expected! You must be thirsty. Well, let's go ahead and 
 <li>Obtain 3 Cordate Leaf Stickers, 3 Hastate Leaf Stickers, OR 3 Lanceolate Leaf Stickers to give to Dapper Bear.</li>
 <li>Obtain 1 Spore Covered Puffshroom Sticker to give to Dapper Bear.</li></ul>
 </td>
-<td><span typeof="mw:Error mw:File"></span>10,000,000 <a href="honey.html"><span class="color-template color-template-honey">Honey</span></a><br/>
+<td><img alt="Honey" height="25" src="img/Honey.png" width="25"/>10,000,000 <a href="honey.html"><span class="color-template color-template-honey">Honey</span></a><br/>
 <p><img alt="Ticket Planter" height="25" src="img/Ticket_Planter.png" width="25"/>1 <a href="ticket-planter.html"><span class="color-template color-template-ticket-planter color-template-background-clip">Ticket Planter</span></a><br/>
 <img alt="Satisfying Vial" height="25" src="img/Satisfying_Vial.png" width="25"/>1 <a href="satisfying-vial.html"><span class="color-template color-template-satisfying-vial color-template-background-clip">Satisfying Vial</span></a><br/>
 <img alt="Elf Cap" height="25" src="img/Elf_Cap.png" width="25"/>1 <a href="elf-cap.html"><span class="color-template color-template-elf-cap color-template-background-clip">Elf Cap</span></a><br/>
@@ -951,7 +951,7 @@ That was quicker than I expected! You must be thirsty. Well, let's go ahead and 
 <li>Collect 25 Tokens from <a href="planter.html">Planters</a>.</li>
 <li>Pop 1 <a href="puffshroom.html">Rare Puffshroom</a>.</li></ul>
 </td>
-<td><span typeof="mw:Error mw:File"></span>2,000,000 <a href="honey.html"><span class="color-template color-template-honey">Honey</span></a><br/>
+<td><img alt="Honey" height="25" src="img/Honey.png" width="25"/>2,000,000 <a href="honey.html"><span class="color-template color-template-honey">Honey</span></a><br/>
 <p><img alt="Blue Drive" height="25" src="img/Blue_Drive.png" width="25"/>1 <a href="drives.html#Blue_Drive"><span class="color-template color-template-blue-drive color-template-background-clip">Blue Drive</span></a><br/>
 <img alt="Ticket Planter" height="25" src="img/Ticket_Planter.png" width="25"/>1 <a href="ticket-planter.html"><span class="color-template color-template-ticket-planter color-template-background-clip">Ticket Planter</span></a><br/>
 <img alt="Motivating Vial" height="25" src="img/Motivating_Vial.png" width="25"/>1 <a href="motivating-vial.html"><span class="color-template color-template-motivating-vial color-template-background-clip">Motivating Vial</span></a><br/>
@@ -996,7 +996,7 @@ That was fast! Guess you really want that [Drive]. Let me tell you though, that 
 <li>Collect 2 Hours of <a href="nectar.html">Invigorating Nectar</a> from <a href="planter.html">Planters</a>.</li>
 <li>Collect 2 Hours of <a href="nectar.html">Motivating Nectar</a> from <a href="planter.html">Planters</a>.</li></ul>
 </td>
-<td><span typeof="mw:Error mw:File"></span>2,000,000 <a href="honey.html"><span class="color-template color-template-honey">Honey</span></a><br/>
+<td><img alt="Honey" height="25" src="img/Honey.png" width="25"/>2,000,000 <a href="honey.html"><span class="color-template color-template-honey">Honey</span></a><br/>
 <p><img alt="Ticket" height="25" src="img/Ticket.png" width="25"/>3 <a href="ticket.html"><span class="color-template color-template-ticket color-template-background-clip">Tickets</span></a><br/>
 <img alt="Ticket Planter" height="25" src="img/Ticket_Planter.png" width="25"/>1 <a href="ticket-planter.html"><span class="color-template color-template-ticket-planter color-template-background-clip">Ticket Planter</span></a><br/>
 <img alt="Gingerbread Bear" height="25" src="img/Gingerbread_Bear.png" width="25"/>1 <a href="gingerbread-bear.html"><span class="color-template color-template-gingerbread-bear color-template-background-clip">Gingerbread Bear</span></a><br/>

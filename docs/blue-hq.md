@@ -51,7 +51,7 @@ There's a store in the Blue HQ that sells nine items. To open the store, press E
 <tr>
 <td><figure class="mw-halign-center" typeof="mw:Error mw:File"><figcaption></figcaption></figure><div style="text-align: center;"><a href="bubble-wand.html">Bubble Wand</a></div>
 </td>
-<td><span typeof="mw:Error mw:File"></span>3,500,000 <a href="honey.html"><span class="color-template color-template-honey">Honey</span></a>
+<td><img alt="Honey" height="25" src="img/Honey.png" width="25"/>3,500,000 <a href="honey.html"><span class="color-template color-template-honey">Honey</span></a>
 </td>
 <td>Collects 6 <a href="pollen.html">pollen</a> from a ring of 16 patches in 0.8 seconds. Collects x2 from blue <a href="flowers.html">flowers</a>.
 </td></tr>
@@ -84,7 +84,7 @@ There's a store in the Blue HQ that sells nine items. To open the store, press E
 <tr>
 <td><figure class="mw-halign-center" typeof="mw:File"><img alt="Blue Port-O-Hive" data-image-key="Blue_Port-O-Hive.png" data-image-name="Blue Port-O-Hive.png" data-relevant="1" height="80" src="img/Blue_Port-O-Hive.png" width="80"/><figcaption></figcaption></figure><div style="text-align: center;"> <a href="blue-port-o-hive.html">Blue Port-O-Hive</a></div>
 </td>
-<td><span typeof="mw:Error mw:File"></span>12,500,000 <a href="honey.html"><span class="color-template color-template-honey">Honey</span></a><br/>
+<td><img alt="Honey" height="25" src="img/Honey.png" width="25"/>12,500,000 <a href="honey.html"><span class="color-template color-template-honey">Honey</span></a><br/>
 <p><img alt="Blue Extract" height="25" src="img/Blue_Extract.png" width="25"/>2 <a href="blue-extract.html"><span class="color-template color-template-blue-extract color-template-background-clip">Blue Extracts</span></a><br/>
 <img alt="Soft Wax" height="25" src="img/Soft_Wax.png" width="25"/>2 <a href="soft-wax.html"><span class="color-template color-template-soft-wax">Soft Waxes</span></a>
 </p>
@@ -110,7 +110,7 @@ There's a store in the Blue HQ that sells nine items. To open the store, press E
 <tr>
 <td><figure class="mw-halign-center" typeof="mw:File"><img alt="Bubble Mask" data-image-key="Bubble_Mask.png" data-image-name="Bubble Mask.png" data-relevant="1" height="80" src="img/Bubble_Mask.png" width="80"/><figcaption></figcaption></figure><div style="text-align: center;"><a href="bubble-mask.html">Bubble Mask</a></div>
 </td>
-<td><span typeof="mw:Error mw:File"></span>100,000,000 <a href="honey.html"><span class="color-template color-template-honey">Honey</span></a><br/>
+<td><img alt="Honey" height="25" src="img/Honey.png" width="25"/>100,000,000 <a href="honey.html"><span class="color-template color-template-honey">Honey</span></a><br/>
 <p><img alt="Blue Extract" height="25" src="img/Blue_Extract.png" width="25"/>50 <a href="blue-extract.html"><span class="color-template color-template-blue-extract color-template-background-clip">Blue Extracts</span></a><br/>
 <img alt="Blueberry" height="25" src="img/Blueberry.png" width="25"/>500 <a href="blueberry.html"><span class="color-template color-template-blueberry color-template-background-clip">Blueberries</span></a><br/>
 <img alt="Oil" height="25" src="img/Oil.png" width="25"/>25 <a href="oil.html"><span class="color-template color-template-oil color-template-background-clip">Oils</span></a><br/>
@@ -129,7 +129,7 @@ There's a store in the Blue HQ that sells nine items. To open the store, press E
 <tr>
 <td><figure class="mw-halign-center" typeof="mw:File"><img alt="Blue Guard" data-image-key="Blue_Guard.png" data-image-name="Blue Guard.png" data-relevant="1" height="80" src="img/Blue_Guard.png" width="80"/><figcaption></figcaption></figure><div style="text-align: center;"><a href="blue-guard.html">Blue Guard</a>
 </div></td>
-<td><span typeof="mw:Error mw:File"></span>1,000,000 <a href="honey.html"><span class="color-template color-template-honey">Honey</span></a><br/>
+<td><img alt="Honey" height="25" src="img/Honey.png" width="25"/>1,000,000 <a href="honey.html"><span class="color-template color-template-honey">Honey</span></a><br/>
 <p><img alt="Blueberry" height="25" src="img/Blueberry.png" width="25"/>50 <a href="blueberry.html"><span class="color-template color-template-blueberry color-template-background-clip">Blueberries</span></a><br/>
 <img alt="Royal Jelly" height="25" src="img/Royal_Jelly.png" width="25"/>1 <a href="royal-jelly.html"><span class="color-template color-template-royal-jelly color-template-background-clip">Royal Jelly</span></a><br/>
 <img alt="Moon Charm" height="25" src="img/Moon_Charm.png" width="25"/>3 <a href="moon-charm.html"><span class="color-template color-template-moon-charm color-template-background-clip">Moon Charms</span></a>
@@ -145,7 +145,7 @@ There's a store in the Blue HQ that sells nine items. To open the store, press E
 <tr>
 <td><figure class="mw-halign-center" typeof="mw:File"><img alt="Elite Blue Guard" data-image-key="Elite_Blue_Guard.png" data-image-name="Elite Blue Guard.png" data-relevant="1" height="80" src="img/Elite_Blue_Guard.png" width="80"/><figcaption></figcaption></figure><div style="text-align: center;"><a href="elite-blue-guard.html">Elite Blue Guard</a></div>
 </td>
-<td><span typeof="mw:Error mw:File"></span>5,000,000 <a href="honey.html"><span class="color-template color-template-honey">Honey</span></a><br/>
+<td><img alt="Honey" height="25" src="img/Honey.png" width="25"/>5,000,000 <a href="honey.html"><span class="color-template color-template-honey">Honey</span></a><br/>
 <p><img alt="Blue Extract" height="25" src="img/Blue_Extract.png" width="25"/>3 <a href="blue-extract.html"><span class="color-template color-template-blue-extract color-template-background-clip">Blue Extracts</span></a><br/>
 <img alt="Blueberry" height="25" src="img/Blueberry.png" width="25"/>50 <a href="blueberry.html"><span class="color-template color-template-blueberry color-template-background-clip">Blueberries</span></a><br/>
 <img alt="Royal Jelly" height="25" src="img/Royal_Jelly.png" width="25"/>5 <a href="royal-jelly.html"><span class="color-template color-template-royal-jelly color-template-background-clip">Royal Jellies</span></a><br/>
@@ -163,7 +163,7 @@ There's a store in the Blue HQ that sells nine items. To open the store, press E
 <tr>
 <td><figure class="mw-halign-center" typeof="mw:File"><img alt="Bucko Guard" data-image-key="Bucko_Guard.png" data-image-name="Bucko Guard.png" data-relevant="1" height="80" src="img/Bucko_Guard.png" width="80"/><figcaption></figcaption></figure><div style="text-align: center;"><a href="bucko-guard.html">Bucko Guard</a></div>
 </td>
-<td><span typeof="mw:Error mw:File"></span>30,000,000 <a href="honey.html"><span class="color-template color-template-honey">Honey</span></a><br/>
+<td><img alt="Honey" height="25" src="img/Honey.png" width="25"/>30,000,000 <a href="honey.html"><span class="color-template color-template-honey">Honey</span></a><br/>
 <p><img alt="Blue Extract" height="25" src="img/Blue_Extract.png" width="25"/>10 <a href="blue-extract.html"><span class="color-template color-template-blue-extract color-template-background-clip">Blue Extracts</span></a><br/>
 <img alt="Blueberry" height="25" src="img/Blueberry.png" width="25"/>100 <a href="blueberry.html"><span class="color-template color-template-blueberry color-template-background-clip">Blueberries</span></a><br/>
 <img alt="Glue" height="25" src="img/Glue.png" width="25"/>5 <a href="glue.html"><span class="color-template color-template-glue color-template-background-clip">Glues</span></a><br/>
@@ -192,7 +192,7 @@ There's a store in the Blue HQ that sells nine items. To open the store, press E
 <tr>
 <td><figure class="mw-halign-center" typeof="mw:Error mw:File"><figcaption></figcaption></figure><div style="text-align: center;"><a href="blue-clay-planter.html"><span class="color-template color-template-blue-clay-planter color-template-background-clip">Blue Clay Planter</span></a>
 </div></td>
-<td><span typeof="mw:Error mw:File"></span>10,000,000 <a href="honey.html"><span class="color-template color-template-honey">Honey</span></a><br/>
+<td><img alt="Honey" height="25" src="img/Honey.png" width="25"/>10,000,000 <a href="honey.html"><span class="color-template color-template-honey">Honey</span></a><br/>
 <p><img alt="Magic Bean" height="25" src="img/Magic_Bean.png" width="25"/>5 <a href="magic-bean.html"><span class="color-template color-template-magic-bean color-template-background-clip">Magic Beans</span></a><br/>
 <img alt="Blue Extract" height="25" src="img/Blue_Extract.png" width="25"/>15 <a href="blue-extract.html"><span class="color-template color-template-blue-extract color-template-background-clip">Blue Extracts</span></a><br/>
 <img alt="Soft Wax" height="25" src="img/Soft_Wax.png" width="25"/>20 <a href="soft-wax.html"><span class="color-template color-template-soft-wax">Soft Waxes</span></a>

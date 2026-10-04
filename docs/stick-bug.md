@@ -501,7 +501,7 @@ The following content has been removed from the game. The contents below may be 
 <ul><li>Collect 50,000,000 White <a href="pollen.html">Pollen</a>.</li>
 <li>Collect 2,500 Tokens from Stick Nymphs.</li></ul>
 </td>
-<td><span typeof="mw:Error mw:File"></span>25,000,000 <a href="honey.html"><span class="color-template color-template-honey">Honey</span></a><br/>
+<td><img alt="Honey" height="25" src="img/Honey.png" width="25"/>25,000,000 <a href="honey.html"><span class="color-template color-template-honey">Honey</span></a><br/>
 <p><img alt="Marshmallow Bee" height="25" src="img/Marshmallow_Bee.png" width="25"/>5 <a href="marshmallow-bee.html"><span class="color-template color-template-marshmallow-bee color-template-background-clip">Marshmallow Bees</span></a><br/>
 <img alt="Micro-Converter" height="25" src="img/Micro-Converter.png" width="25"/>5 <a href="micro-converter.html"><span class="color-template color-template-micro-converter color-template-background-clip">Micro-Converters</span></a><br/>
 <img alt="Jelly Beans" height="25" src="img/Jelly_Beans.png" width="25"/>5 <a href="jelly-beans.html"><span class="color-template color-template-jelly-beans color-template-background-clip">Jelly Beans</span></a><br/>

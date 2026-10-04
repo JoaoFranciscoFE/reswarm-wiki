@@ -139,7 +139,7 @@ Presents are available during the Beesmas event. Their main function is adding [
 <img alt="Bloom Shaker" height="25" src="img/Bloom_Shaker.png" width="25"/>3 <a href="bloom-shaker.html"><span class="color-template color-template-bloom-shaker color-template-background-clip">Bloom Shakers</span></a><br/>
 <img alt="Loaded Dice" height="25" src="img/Loaded_Dice.png" width="25"/>1 <a href="loaded-dice.html"><span class="color-template color-template-loaded-dice color-template-background-clip">Loaded Dice</span></a><br/>
 <img alt="Super Smoothie" height="35" src="img/Super_Smoothie.png" width="35"/><a href="super-smoothie.html"><span class="color-template color-template-super-smoothie color-template-background-clip">Super Smoothie</span></a> Buff<br/>
-<span typeof="mw:Error mw:File"></span>x3 <a href="mountain-top-field.html">Mountain Top Field</a> Boost
+<img alt="Mountain Top Field" height="25" src="img/Mountain_Top_Field.png" width="25"/>x3 <a href="mountain-top-field.html">Mountain Top Field</a> Boost
 </p>
 </td></tr>
 <tr>
@@ -239,7 +239,7 @@ Summons a Level 8 <a href="wild-windy-bee.html">Wild Windy Bee</a> in the Dandel
 <img alt="Honeysuckle" height="25" src="img/Honeysuckle.png" width="25"/>33 <a href="honeysuckle.html"><span class="color-template color-template-honeysuckle color-template-background-clip">Honeysuckles</span></a><br/>
 <img alt="Pine Tree Forest" height="25" src="img/Pine_Tree_Forest.png" width="25"/>x3 <a href="pine-tree-forest.html">Pine Tree Forest</a> Boost<br/>
 <img alt="Conversion Boost" height="35" src="img/Conversion_Boost.png" width="35"/> <a href="buffs-debuffs.html#From_NPCs">Conversion Boost</a> (1 hour)<br/>
-<sub>Honey Bee also takes <span typeof="mw:Error mw:File"></span>4,500 <a href="honey.html"><span class="color-template color-template-honey">Honey</span></a> from the player upon giving it a present</sub>
+<sub>Honey Bee also takes <img alt="Honey" height="25" src="img/Honey.png" width="25"/>4,500 <a href="honey.html"><span class="color-template color-template-honey">Honey</span></a> from the player upon giving it a present</sub>
 </p>
 </td></tr>
 <tr>

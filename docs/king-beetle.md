@@ -40,7 +40,7 @@ There is a one-in-seven (approximately 14%) chance that he will drop a [King Bee
 <tbody><tr>
 <td>150 <a href="battle-points.html">Battle Points</a><br/>
 <p>500 <a href="bond.html">Bond</a><br/>
-<span typeof="mw:Error mw:File"></span>1,000,000 <a href="honey.html"><span class="color-template color-template-honey">Honey</span></a> (multiplied by <a href="system-page.html#Honey_From_Tokens">Honey From Tokens</a> if no <a href="amulet.html">Amulet</a> is rewarded)<br/>
+<img alt="Honey" height="25" src="img/Honey.png" width="25"/>1,000,000 <a href="honey.html"><span class="color-template color-template-honey">Honey</span></a> (multiplied by <a href="system-page.html#Honey_From_Tokens">Honey From Tokens</a> if no <a href="amulet.html">Amulet</a> is rewarded)<br/>
 <img alt="Treat" height="25" src="img/Treat.png" width="25"/>100 <a href="treat.html"><span class="color-template color-template-treat">Treats</span></a><br/>
 <span typeof="mw:Error mw:File"></span>1-5 <a href="royal-jelly.html"><span class="color-template color-template-royal-jelly color-template-background-clip">Royal Jellies</span></a><br/>
 <img alt="Ticket" height="25" src="img/Ticket.png" width="25"/>5 <a href="ticket.html"><span class="color-template color-template-ticket color-template-background-clip">Tickets</span></a>
@@ -53,7 +53,7 @@ There is a one-in-seven (approximately 14%) chance that he will drop a [King Bee
 <tbody><tr>
 <td>150 <a href="battle-points.html">Battle Points</a><br/>
 <p>500 <a href="bond.html">Bond</a><br/>
-<span typeof="mw:Error mw:File"></span>1,000,000 <a href="honey.html"><span class="color-template color-template-honey">Honey</span></a> (multiplied by Honey From Tokens/2, if no Amulet)<br/>
+<img alt="Honey" height="25" src="img/Honey.png" width="25"/>1,000,000 <a href="honey.html"><span class="color-template color-template-honey">Honey</span></a> (multiplied by Honey From Tokens/2, if no Amulet)<br/>
 <img alt="Gumdrops" height="25" src="img/Gumdrops.png" width="25"/>5 <a href="gumdrops.html"><span class="color-template color-template-gumdrops color-template-background-clip">Gumdrops</span></a><br/>
 <img alt="Royal Jelly" height="25" src="img/Royal_Jelly.png" width="25"/>3 <a href="royal-jelly.html"><span class="color-template color-template-royal-jelly color-template-background-clip">Royal Jellies</span></a><br/>
 <img alt="Ticket" height="25" src="img/Ticket.png" width="25"/>5 <a href="ticket.html"><span class="color-template color-template-ticket color-template-background-clip">Tickets</span></a><br/>

@@ -57,7 +57,7 @@ The player can chase a firefly from its position by walking close to it, forcing
 <td>Extremely Rare
 </td></tr>
 <tr>
-<td><span typeof="mw:Error mw:File"></span><a href="sticker.html#Sticker_Index">Star Signs</a>
+<td><img alt="Star Signs" height="35" src="img/Star_Signs.png" width="35"/><a href="sticker.html#Sticker_Index">Star Signs</a>
 </td>
 <td>Extremely Rare
 </td></tr>

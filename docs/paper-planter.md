@@ -82,7 +82,7 @@ When claimed, the planter gives up to 10 tokens worth of items. The tokens are p
 
 <table class="article-table">
 <tbody><tr>
-<td><span typeof="mw:Error mw:File"></span><a href="honey.html"><span class="color-template color-template-honey">Honey</span></a><br/>
+<td><img alt="Honey" height="35" src="img/Honey.png" width="35"/><a href="honey.html"><span class="color-template color-template-honey">Honey</span></a><br/>
 <p><img alt="Ticket" height="35" src="img/Ticket.png" width="35"/><a href="ticket.html"><span class="color-template color-template-ticket color-template-background-clip">Tickets</span></a><br/>
 <img alt="Sunflower Seed" height="35" src="img/Sunflower_Seed.png" width="35"/><a href="sunflower-seed.html"><span class="color-template color-template-sunflower-seed color-template-background-clip">Sunflower Seeds</span></a> (increments of 1,3,5,10)<br/>
 <img alt="Strawberry" height="35" src="img/Strawberry.png" width="35"/><a href="strawberry.html"><span class="color-template color-template-strawberry color-template-background-clip">Strawberries</span></a> (increments of 1,3,5,10)<br/>

@@ -53,7 +53,7 @@ where *n* represents the *n*th drive of that type to purchase (1st is 250,000, 2
 </td>
 <td><a href="drives.html#Red_Drive">Red Drive</a>
 </td>
-<td><span typeof="mw:Error mw:File"></span>250,000 <a href="honey.html"><span class="color-template color-template-honey">Honey</span></a><br/>
+<td><img alt="Honey" height="25" src="img/Honey.png" width="25"/>250,000 <a href="honey.html"><span class="color-template color-template-honey">Honey</span></a><br/>
 <p><img alt="Cog" height="25" src="img/Cog.png" width="25"/>50 <a href="cog.html"><span class="color-template color-template-cog color-template-background-clip">Cogs</span></a>
 </p>
 </td>
@@ -69,7 +69,7 @@ where *n* represents the *n*th drive of that type to purchase (1st is 250,000, 2
 </td>
 <td><a href="drives.html#White_Drive">White Drive</a>
 </td>
-<td><span typeof="mw:Error mw:File"></span>250,000 <a href="honey.html"><span class="color-template color-template-honey">Honey</span></a><br/>
+<td><img alt="Honey" height="25" src="img/Honey.png" width="25"/>250,000 <a href="honey.html"><span class="color-template color-template-honey">Honey</span></a><br/>
 <p><img alt="Cog" height="25" src="img/Cog.png" width="25"/>50 <a href="cog.html"><span class="color-template color-template-cog color-template-background-clip">Cogs</span></a>
 </p>
 </td>
@@ -85,7 +85,7 @@ where *n* represents the *n*th drive of that type to purchase (1st is 250,000, 2
 </td>
 <td><a href="drives.html#Blue_Drive">Blue Drive</a>
 </td>
-<td><span typeof="mw:Error mw:File"></span>250,000 <a href="honey.html"><span class="color-template color-template-honey">Honey</span></a><br/>
+<td><img alt="Honey" height="25" src="img/Honey.png" width="25"/>250,000 <a href="honey.html"><span class="color-template color-template-honey">Honey</span></a><br/>
 <p><img alt="Cog" height="25" src="img/Cog.png" width="25"/>50 <a href="cog.html"><span class="color-template color-template-cog color-template-background-clip">Cogs</span></a>
 </p>
 </td>
@@ -101,7 +101,7 @@ where *n* represents the *n*th drive of that type to purchase (1st is 250,000, 2
 </td>
 <td><a href="drives.html#Glitched_Drive">Glitched Drive</a>
 </td>
-<td><span typeof="mw:Error mw:File"></span>1,000,000 <a href="honey.html"><span class="color-template color-template-honey">Honey</span></a><br/>
+<td><img alt="Honey" height="25" src="img/Honey.png" width="25"/>1,000,000 <a href="honey.html"><span class="color-template color-template-honey">Honey</span></a><br/>
 <p><img alt="Cog" height="25" src="img/Cog.png" width="25"/>100 <a href="cog.html"><span class="color-template color-template-cog color-template-background-clip">Cogs</span></a><br/>
 <img alt="Red Drive" height="25" src="img/Red_Drive.png" width="25"/>5 <a href="drives.html#Red_Drive"><span class="color-template color-template-red-drive color-template-background-clip">Red Drives</span></a><br/>
 <img alt="White Drive" height="25" src="img/White_Drive.png" width="25"/>5 <a href="drives.html#White_Drive"><span class="color-template color-template-white-drive color-template-background-clip">White Drives</span></a><br/>
@@ -120,7 +120,7 @@ where *n* represents the *n*th drive of that type to purchase (1st is 250,000, 2
 </td>
 <td><a href="digital-bee.html">Digital Bee</a>
 </td>
-<td><span typeof="mw:Error mw:File"></span>7,777,777 <a href="honey.html"><span class="color-template color-template-honey">Honey</span></a><br/>
+<td><img alt="Honey" height="25" src="img/Honey.png" width="25"/>7,777,777 <a href="honey.html"><span class="color-template color-template-honey">Honey</span></a><br/>
 <p><img alt="Red Drive" height="25" src="img/Red_Drive.png" width="25"/>5 <a href="drives.html#Red_Drive"><span class="color-template color-template-red-drive color-template-background-clip">Red Drives</span></a><br/>
 <img alt="Blue Drive" height="25" src="img/Blue_Drive.png" width="25"/>5 <a href="drives.html#Blue_Drive"><span class="color-template color-template-blue-drive color-template-background-clip">Blue Drives</span></a><br/>
 <img alt="White Drive" height="25" src="img/White_Drive.png" width="25"/>5 <a href="drives.html#White_Drive"><span class="color-template color-template-white-drive color-template-background-clip">White Drives</span></a><br/>

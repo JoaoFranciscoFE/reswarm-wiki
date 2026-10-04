@@ -82,7 +82,7 @@ When Stick Bug reaches level 6 and above, Stick Bug will build a defense totem b
 <caption>Drop table of Defense Totems
 </caption>
 <tbody><tr>
-<td><span typeof="mw:Error mw:File"></span><a href="honey.html"><span class="color-template color-template-honey">Honey</span></a><br/>
+<td><img alt="Honey" height="35" src="img/Honey.png" width="35"/><a href="honey.html"><span class="color-template color-template-honey">Honey</span></a><br/>
 <p><img alt="Treat" height="35" src="img/Treat.png" width="35"/><a href="treat.html"><span class="color-template color-template-treat">Treats</span></a><br/>
 <img alt="Royal Jelly" height="35" src="img/Royal_Jelly.png" width="35"/><a href="royal-jelly.html"><span class="color-template color-template-royal-jelly color-template-background-clip">Royal Jellies</span></a><br/>
 <img alt="Gumdrops" height="35" src="img/Gumdrops.png" width="35"/><a href="gumdrops.html"><span class="color-template color-template-gumdrops color-template-background-clip">Gumdrops</span></a><br/>
@@ -435,7 +435,7 @@ All regular rewards are also available in token form.
 
 <table class="article-table">
 <tbody><tr>
-<td><span typeof="mw:Error mw:File"></span><a href="honey.html"><span class="color-template color-template-honey">Honey</span></a><br/>
+<td><img alt="Honey" height="35" src="img/Honey.png" width="35"/><a href="honey.html"><span class="color-template color-template-honey">Honey</span></a><br/>
 <p><img alt="Treat" height="35" src="img/Treat.png" width="35"/><a href="treat.html"><span class="color-template color-template-treat">Treats</span></a><br/>
 <img alt="Royal Jelly" height="35" src="img/Royal_Jelly.png" width="35"/><a href="royal-jelly.html"><span class="color-template color-template-royal-jelly color-template-background-clip">Royal Jellies</span></a><br/>
 <img alt="Gumdrops" height="35" src="img/Gumdrops.png" width="35"/><a href="gumdrops.html"><span class="color-template color-template-gumdrops color-template-background-clip">Gumdrops</span></a><br/>
@@ -448,7 +448,7 @@ All regular rewards are also available in token form.
 <img alt="Thumbtack" height="35" src="img/Thumbtack.png" width="35"/><a href="thumbtack.html"><span class="color-template color-template-thumbtack color-template-background-clip">Thumbtack</span></a> (Rare)<br/>
 <img alt="Camo Bandana" height="35" src="img/Camo_Bandana.png" width="35"/><a href="camo-bandana.html"><span class="color-template color-template-camo-bandana color-template-background-clip">Camo Bandana</span></a> (Rare)<br/>
 <img alt="Autumn Sunhat" height="35" src="img/Autumn_Sunhat.png" width="35"/><a href="autumn-sunhat.html"><span class="color-template color-template-autumn-sunhat color-template-background-clip">Autumn Sunhat</span></a> (Extremely Rare)<br/>
-<span typeof="mw:Error mw:File"></span><a href="cub-buddy.html#Skins"><span class="color-template color-template-stick-cub color-template-background-clip">Stick Cub</span></a> (Unbelievably Rare)<br/>
+<img alt="Stick Cub" height="35" src="img/Stick_Cub.png" width="35"/><a href="cub-buddy.html#Skins"><span class="color-template color-template-stick-cub color-template-background-clip">Stick Cub</span></a> (Unbelievably Rare)<br/>
 <img alt="Pink Shades" height="35" src="img/Pink_Shades.png" width="35"/><a href="pink-shades.html"><span class="color-template color-template-pink-shades color-template-background-clip">Pink Shades</span></a> (Unbelievably Rare)<br/>
 <img alt="Offline Voucher" height="35" src="img/Offline_Voucher.png" width="35"/><a href="sticker.html#Sticker_Index"><span class="color-template color-template-offline-voucher color-template-background-clip">Offline Voucher</span></a> (Unfathomably Rare)<br/>
 <img alt="Paper Angel" height="35" src="img/Paper_Angel.png" width="35"/><a href="paper-angel.html"><span class="color-template color-template-paper-angel color-template-background-clip">Paper Angel</span></a> (Only During Beesmas)<br/>

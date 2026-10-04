@@ -99,7 +99,7 @@ Total required for all single-purchase items: 114 **Moon Charms**
 <tr>
 <td><div style="text-align: center;">1
 </div></td>
-<td><span typeof="mw:Error mw:File"></span>30,000 <a href="honey.html"><span class="color-template color-template-honey">Honey</span></a><br/>
+<td><img alt="Honey" height="25" src="img/Honey.png" width="25"/>30,000 <a href="honey.html"><span class="color-template color-template-honey">Honey</span></a><br/>
 <p><img alt="Pineapple" height="25" src="img/Pineapple.png" width="25"/>5 <a href="pineapple.html"><span class="color-template color-template-pineapple color-template-background-clip">Pineapples</span></a>
 </p>
 </td>
@@ -108,7 +108,7 @@ Total required for all single-purchase items: 114 **Moon Charms**
 <tr>
 <td><div style="text-align: center;">3
 </div></td>
-<td><span typeof="mw:Error mw:File"></span>1,000,000 <a href="honey.html"><span class="color-template color-template-honey">Honey</span></a><br/>
+<td><img alt="Honey" height="25" src="img/Honey.png" width="25"/>1,000,000 <a href="honey.html"><span class="color-template color-template-honey">Honey</span></a><br/>
 <p><img alt="Blueberry" height="25" src="img/Blueberry.png" width="25"/>50 <a href="blueberry.html"><span class="color-template color-template-blueberry color-template-background-clip">Blueberries</span></a><br/>
 <img alt="Royal Jelly" height="25" src="img/Royal_Jelly.png" width="25"/>1 <a href="royal-jelly.html"><span class="color-template color-template-royal-jelly color-template-background-clip">Royal Jelly</span></a>
 </p>
@@ -118,14 +118,14 @@ Total required for all single-purchase items: 114 **Moon Charms**
 <tr>
 <td><div style="text-align: center;">5
 </div></td>
-<td><span typeof="mw:Error mw:File"></span>300,000 <a href="honey.html"><span class="color-template color-template-honey">Honey</span></a>
+<td><img alt="Honey" height="25" src="img/Honey.png" width="25"/>300,000 <a href="honey.html"><span class="color-template color-template-honey">Honey</span></a>
 </td>
 <td><figure class="mw-halign-center" typeof="mw:File"><a href="hasty-guard.html"><img alt="Hasty Guard" data-image-key="Hasty_Guard.png" data-image-name="Hasty Guard.png" data-relevant="1" height="80" src="img/Hasty_Guard.png" width="80"/></a><figcaption></figcaption></figure><div style="text-align: center;"><a href="hasty-guard.html">Hasty Guard</a>
 </div></td></tr>
 <tr>
 <td><div style="text-align: center;">5
 </div></td>
-<td><span typeof="mw:Error mw:File"></span>2,500,000 <a href="honey.html"><span class="color-template color-template-honey">Honey</span></a><br/>
+<td><img alt="Honey" height="25" src="img/Honey.png" width="25"/>2,500,000 <a href="honey.html"><span class="color-template color-template-honey">Honey</span></a><br/>
 <p><img alt="Gumdrops" height="25" src="img/Gumdrops.png" width="25"/>25 <a href="gumdrops.html"><span class="color-template color-template-gumdrops color-template-background-clip">Gumdrops</span></a><br/>
 <img alt="Pineapple" height="25" src="img/Pineapple.png" width="25"/>100 <a href="pineapple.html"><span class="color-template color-template-pineapple color-template-background-clip">Pineapples</span></a>
 </p>
@@ -135,7 +135,7 @@ Total required for all single-purchase items: 114 **Moon Charms**
 <tr>
 <td><div style="text-align: center;">10
 </div></td>
-<td><span typeof="mw:Error mw:File"></span>250,000,000 <a href="honey.html"><span class="color-template color-template-honey">Honey</span></a><br/>
+<td><img alt="Honey" height="25" src="img/Honey.png" width="25"/>250,000,000 <a href="honey.html"><span class="color-template color-template-honey">Honey</span></a><br/>
 <p><img alt="Glitter" height="25" src="img/Glitter.png" width="25"/>3 <a href="glitter.html"><span class="color-template color-template-glitter color-template-background-clip">Glitter</span></a><br/>
 <img alt="Soft Wax" height="25" src="img/Soft_Wax.png" width="25"/>3 <a href="soft-wax.html"><span class="color-template color-template-soft-wax">Soft Waxes</span></a>
 </p>
@@ -145,7 +145,7 @@ Total required for all single-purchase items: 114 **Moon Charms**
 <tr>
 <td><div style="text-align: center;">15
 </div></td>
-<td><span typeof="mw:Error mw:File"></span>5,000,000 <a href="honey.html"><span class="color-template color-template-honey">Honey</span></a><br/>
+<td><img alt="Honey" height="25" src="img/Honey.png" width="25"/>5,000,000 <a href="honey.html"><span class="color-template color-template-honey">Honey</span></a><br/>
 <p><img alt="Blue Extract" height="25" src="img/Blue_Extract.png" width="25"/>3 <a href="blue-extract.html"><span class="color-template color-template-blue-extract color-template-background-clip">Blue Extracts</span></a><br/>
 <img alt="Blueberry" height="25" src="img/Blueberry.png" width="25"/>50 <a href="blueberry.html"><span class="color-template color-template-blueberry color-template-background-clip">Blueberries</span></a><br/>
 <img alt="Royal Jelly" height="25" src="img/Royal_Jelly.png" width="25"/>5 <a href="royal-jelly.html"><span class="color-template color-template-royal-jelly color-template-background-clip">Royal Jellies</span></a>
@@ -163,7 +163,7 @@ Total required for all single-purchase items: 114 **Moon Charms**
 <tr>
 <td><div style="text-align: center;">75
 </div></td>
-<td><span typeof="mw:Error mw:File"></span>30,000,000 <a href="honey.html"><span class="color-template color-template-honey">Honey</span></a><br/>
+<td><img alt="Honey" height="25" src="img/Honey.png" width="25"/>30,000,000 <a href="honey.html"><span class="color-template color-template-honey">Honey</span></a><br/>
 <p><img alt="Blue Extract" height="25" src="img/Blue_Extract.png" width="25"/>10 <a href="blue-extract.html"><span class="color-template color-template-blue-extract color-template-background-clip">Blue Extracts</span></a><br/>
 <img alt="Blueberry" height="25" src="img/Blueberry.png" width="25"/>100 <a href="blueberry.html"><span class="color-template color-template-blueberry color-template-background-clip">Blueberries</span></a><br/>
 <img alt="Glue" height="25" src="img/Glue.png" width="25"/>5 <a href="glue.html"><span class="color-template color-template-glue color-template-background-clip">Glues</span></a>
@@ -196,7 +196,7 @@ Total required for all single-purchase items: 114 **Moon Charms**
 <tr>
 <th class="NavCategory">Sub-Inventories
 </th>
-<td class="NavLinks NavLinksBasicOdd" colspan="2"><b><span typeof="mw:Error mw:File"></span> <a href="sticker.html">Sticker</a> • <img alt="Beequip Case" height="35" src="img/Beequip_Case.png" width="35"/> <a href="beequip.html">Beequip Case</a></b>
+<td class="NavLinks NavLinksBasicOdd" colspan="2"><b><img alt="Sticker" height="35" src="img/Sticker.png" width="35"/> <a href="sticker.html">Sticker</a> • <img alt="Beequip Case" height="35" src="img/Beequip_Case.png" width="35"/> <a href="beequip.html">Beequip Case</a></b>
 </td></tr>
 <tr>
 <th class="NavCategory" rowspan="8">Regular
@@ -243,7 +243,7 @@ Total required for all single-purchase items: 114 **Moon Charms**
 </th>
 <th class="NavCategory">Quest Exclusive
 </th>
-<td class="NavLinks NavLinksBasicEven"><b><img alt="Translator" height="35" src="img/Translator.png" width="35"/> <a href="translator.html">Translator</a> • <img alt="Spirit Petal" height="35" src="img/Spirit_Petal.png" width="35"/> <a href="spirit-petal.html">Spirit Petal</a> • <img alt="Debug Wax" height="35" src="img/Debug_Wax.png" width="35"/> <a href="debug-wax.html">Debug Wax</a> • <span typeof="mw:Error mw:File"></span> <a href="nectar-tester.html">Nectar Tester</a></b> • <span typeof="mw:Error mw:File"></span> <a href="bbm-s-apology.html">BBM's Apology</a><b></b>
+<td class="NavLinks NavLinksBasicEven"><b><img alt="Translator" height="35" src="img/Translator.png" width="35"/> <a href="translator.html">Translator</a> • <img alt="Spirit Petal" height="35" src="img/Spirit_Petal.png" width="35"/> <a href="spirit-petal.html">Spirit Petal</a> • <img alt="Debug Wax" height="35" src="img/Debug_Wax.png" width="35"/> <a href="debug-wax.html">Debug Wax</a> • <img alt="Nectar Tester" height="35" src="img/Nectar_Tester.png" width="35"/> <a href="nectar-tester.html">Nectar Tester</a></b> • <span typeof="mw:Error mw:File"></span> <a href="bbm-s-apology.html">BBM's Apology</a><b></b>
 </td></tr>
 <tr>
 <th class="NavCategory">Beesmas

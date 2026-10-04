@@ -40,7 +40,7 @@ Once defeated, it takes 96 hours (4 days) to respawn. If the player has the [Gif
 </th></tr>
 <tr>
 <td><a href="shell-amulet.html">Shell Amulet</a> (at least bronze)<br/>
-<p><span typeof="mw:Error mw:File"></span>30,000,000 <a href="honey.html"><span class="color-template color-template-honey">Honey</span></a><br/>
+<p><img alt="Honey" height="25" src="img/Honey.png" width="25"/>30,000,000 <a href="honey.html"><span class="color-template color-template-honey">Honey</span></a><br/>
 <span typeof="mw:Error mw:File"></span>1-100 <a href="glue.html"><span class="color-template color-template-glue color-template-background-clip">Glues</span></a><br/>
 <span typeof="mw:Error mw:File"></span>1-10 <a href="royal-jelly.html#Star_Jelly"><span class="color-template color-template-star-jelly color-template-background-clip">Star Jellies</span></a><br/>
 <span typeof="mw:Error mw:File"></span>5-25 <a href="gingerbread-bear.html"><span class="color-template color-template-gingerbread-bear color-template-background-clip">Gingerbread Bears</span></a> (Beesmas only)

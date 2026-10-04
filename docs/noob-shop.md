@@ -38,7 +38,7 @@ Behind the Honey Dispenser is a hidden [obstacle course](obstacle-courses.md#Lav
 <tr>
 <td><figure class="mw-halign-center" typeof="mw:Error mw:File"><figcaption></figcaption></figure><div style="text-align: center;"><a href="scooper.html">Scooper</a></div>
 </td>
-<td><span typeof="mw:Error mw:File"></span>0 <a href="honey.html"><span class="color-template color-template-honey">Honey</span></a><br/>
+<td><img alt="Honey" height="25" src="img/Honey.png" width="25"/>0 <a href="honey.html"><span class="color-template color-template-honey">Honey</span></a><br/>
 <p>(Starter Tool)
 </p>
 </td>
@@ -47,28 +47,28 @@ Behind the Honey Dispenser is a hidden [obstacle course](obstacle-courses.md#Lav
 <tr>
 <td><figure class="mw-halign-center" typeof="mw:Error mw:File"><figcaption></figcaption></figure><div style="text-align: center;"><a href="rake.html">Rake</a></div>
 </td>
-<td><span typeof="mw:Error mw:File"></span>800 <a href="honey.html"><span class="color-template color-template-honey">Honey</span></a>
+<td><img alt="Honey" height="25" src="img/Honey.png" width="25"/>800 <a href="honey.html"><span class="color-template color-template-honey">Honey</span></a>
 </td>
 <td>Collects 2 pollen from 3 patches in front of you in 0.7 seconds.
 </td></tr>
 <tr>
 <td><figure class="mw-halign-center" typeof="mw:Error mw:File"><figcaption></figcaption></figure><div style="text-align: center;"><a href="clippers.html">Clippers</a></div>
 </td>
-<td><span typeof="mw:Error mw:File"></span>2,200 <a href="honey.html"><span class="color-template color-template-honey">Honey</span></a>
+<td><img alt="Honey" height="25" src="img/Honey.png" width="25"/>2,200 <a href="honey.html"><span class="color-template color-template-honey">Honey</span></a>
 </td>
 <td>Collects 9 pollen in the patch in front of you in 0.6 seconds.
 </td></tr>
 <tr>
 <td><figure class="mw-halign-center" typeof="mw:Error mw:File"><figcaption></figcaption></figure><div style="text-align: center;"><a href="magnet.html">Magnet</a></div>
 </td>
-<td><span typeof="mw:Error mw:File"></span>5,500 <a href="honey.html"><span class="color-template color-template-honey">Honey</span></a>
+<td><img alt="Honey" height="25" src="img/Honey.png" width="25"/>5,500 <a href="honey.html"><span class="color-template color-template-honey">Honey</span></a>
 </td>
 <td>Collects 2 pollen from 9 surrounding patches in 0.8 seconds.
 </td></tr>
 <tr>
 <td><figure class="mw-halign-center" typeof="mw:Error mw:File"><figcaption></figcaption></figure><div style="text-align: center;"><a href="vacuum.html">Vacuum</a></div>
 </td>
-<td><span typeof="mw:Error mw:File"></span>14,000 <a href="honey.html"><span class="color-template color-template-honey">Honey</span></a>
+<td><img alt="Honey" height="25" src="img/Honey.png" width="25"/>14,000 <a href="honey.html"><span class="color-template color-template-honey">Honey</span></a>
 </td>
 <td>Collects 2 pollen from 13 surrounding patches in 0.8 seconds.
 </td></tr></tbody></table>
@@ -86,7 +86,7 @@ Behind the Honey Dispenser is a hidden [obstacle course](obstacle-courses.md#Lav
 <tr>
 <td><figure class="mw-halign-center" typeof="mw:File"><img alt="Pouch" data-image-key="Pouch.png" data-image-name="Pouch.png" data-relevant="1" height="80" src="img/Pouch.png" width="80"/><figcaption></figcaption></figure><div style="text-align: center;"><a href="pouch.html">Pouch</a></div>
 </td>
-<td><span typeof="mw:Error mw:File"></span>0 <a href="honey.html"><span class="color-template color-template-honey">Honey</span></a><br/>
+<td><img alt="Honey" height="25" src="img/Honey.png" width="25"/>0 <a href="honey.html"><span class="color-template color-template-honey">Honey</span></a><br/>
 <p>(Starter Bag)
 </p>
 </td>
@@ -96,7 +96,7 @@ Behind the Honey Dispenser is a hidden [obstacle course](obstacle-courses.md#Lav
 <tr>
 <td><figure class="mw-halign-center" typeof="mw:File"><img alt="Jar" data-image-key="Jar.png" data-image-name="Jar.png" data-relevant="1" height="80" src="img/Jar.png" width="80"/><figcaption></figcaption></figure><div style="text-align: center;"><a href="jar.html">Jar</a></div>
 </td>
-<td><span typeof="mw:Error mw:File"></span>650 <a href="honey.html"><span class="color-template color-template-honey">Honey</span></a>
+<td><img alt="Honey" height="25" src="img/Honey.png" width="25"/>650 <a href="honey.html"><span class="color-template color-template-honey">Honey</span></a>
 </td>
 <td>A durable plastic jar. Holds over twice as much as the Pouch!
 <ul><li>+750 Capacity.</li></ul>
@@ -104,7 +104,7 @@ Behind the Honey Dispenser is a hidden [obstacle course](obstacle-courses.md#Lav
 <tr>
 <td><figure class="mw-halign-center" typeof="mw:File"><img alt="Backpack" data-image-key="Backpack.png" data-image-name="Backpack.png" data-relevant="1" height="80" src="img/Backpack.png" width="80"/><figcaption></figcaption></figure><div style="text-align: center;"><a href="backpack.html">Backpack</a></div>
 </td>
-<td><span typeof="mw:Error mw:File"></span>5,500 <a href="honey.html"><span class="color-template color-template-honey">Honey</span></a>
+<td><img alt="Honey" height="25" src="img/Honey.png" width="25"/>5,500 <a href="honey.html"><span class="color-template color-template-honey">Honey</span></a>
 </td>
 <td>A heavy-duty backpack.
 <ul><li>+3,500 Capacity.</li></ul>
@@ -112,7 +112,7 @@ Behind the Honey Dispenser is a hidden [obstacle course](obstacle-courses.md#Lav
 <tr>
 <td><figure class="mw-halign-center" typeof="mw:File"><img alt="Canister" data-image-key="Canister.png" data-image-name="Canister.png" data-relevant="1" height="80" src="img/Canister.png" width="80"/><figcaption></figcaption></figure><div style="text-align: center;"><a href="canister.html">Canister</a></div>
 </td>
-<td><span typeof="mw:Error mw:File"></span>22,000 <a href="honey.html"><span class="color-template color-template-honey">Honey</span></a>
+<td><img alt="Honey" height="25" src="img/Honey.png" width="25"/>22,000 <a href="honey.html"><span class="color-template color-template-honey">Honey</span></a>
 </td>
 <td>A high-tech container that improves conversion speed.
 <ul><li>+10,000 Capacity.</li>
@@ -132,7 +132,7 @@ Behind the Honey Dispenser is a hidden [obstacle course](obstacle-courses.md#Lav
 <tr>
 <td><figure class="mw-halign-center" typeof="mw:File"><img alt="Helmet" data-image-key="Helmet.png" data-image-name="Helmet.png" data-relevant="1" height="80" src="img/Helmet.png" width="80"/><figcaption></figcaption></figure><div style="text-align: center;"><a href="helmet.html">Helmet</a></div>
 </td>
-<td><span typeof="mw:Error mw:File"></span>30,000 <a href="honey.html"><span class="color-template color-template-honey">Honey</span></a><br/>
+<td><img alt="Honey" height="25" src="img/Honey.png" width="25"/>30,000 <a href="honey.html"><span class="color-template color-template-honey">Honey</span></a><br/>
 <p><img alt="Pineapple" height="25" src="img/Pineapple.png" width="25"/>5 <a href="pineapple.html"><span class="color-template color-template-pineapple color-template-background-clip">Pineapples</span></a><br/>
 <img alt="Moon Charm" height="25" src="img/Moon_Charm.png" width="25"/>1 <a href="moon-charm.html"><span class="color-template color-template-moon-charm color-template-background-clip">Moon Charm</span></a>
 </p>
@@ -145,7 +145,7 @@ Behind the Honey Dispenser is a hidden [obstacle course](obstacle-courses.md#Lav
 <tr>
 <td><figure class="mw-halign-center" typeof="mw:File"><img alt="Belt Pocket" data-image-key="Belt_Pocket.png" data-image-name="Belt Pocket.png" data-relevant="1" height="80" src="img/Belt_Pocket.png" width="80"/><figcaption></figcaption></figure><div style="text-align: center;"><a href="belt-pocket.html">Belt Pocket</a></div>
 </td>
-<td><span typeof="mw:Error mw:File"></span>14,000 <a href="honey.html"><span class="color-template color-template-honey">Honey</span></a><br/>
+<td><img alt="Honey" height="25" src="img/Honey.png" width="25"/>14,000 <a href="honey.html"><span class="color-template color-template-honey">Honey</span></a><br/>
 <p><img alt="Sunflower Seed" height="25" src="img/Sunflower_Seed.png" width="25"/>10 <a href="sunflower-seed.html"><span class="color-template color-template-sunflower-seed color-template-background-clip">Sunflower Seeds</span></a>
 </p>
 </td>
@@ -158,7 +158,7 @@ Behind the Honey Dispenser is a hidden [obstacle course](obstacle-courses.md#Lav
 <tr>
 <td><figure class="mw-halign-center" typeof="mw:File"><img alt="Basic Boots" data-image-key="Basic_Boots.png" data-image-name="Basic Boots.png" data-relevant="1" height="80" src="img/Basic_Boots.png" width="80"/><figcaption></figcaption></figure><div style="text-align: center;"><a href="basic-boots.html">Basic Boots</a></div>
 </td>
-<td><span typeof="mw:Error mw:File"></span>4,400 <a href="honey.html"><span class="color-template color-template-honey">Honey</span></a><br/>
+<td><img alt="Honey" height="25" src="img/Honey.png" width="25"/>4,400 <a href="honey.html"><span class="color-template color-template-honey">Honey</span></a><br/>
 <p><img alt="Sunflower Seed" height="25" src="img/Sunflower_Seed.png" width="25"/>3 <a href="sunflower-seed.html"><span class="color-template color-template-sunflower-seed color-template-background-clip">Sunflower Seeds</span></a><br/>
 <img alt="Blueberry" height="25" src="img/Blueberry.png" width="25"/>3 <a href="blueberry.html"><span class="color-template color-template-blueberry color-template-background-clip">Blueberries</span></a>
 </p>
@@ -171,7 +171,7 @@ Behind the Honey Dispenser is a hidden [obstacle course](obstacle-courses.md#Lav
 <tr>
 <td><figure class="mw-halign-center" typeof="mw:Error mw:File"><figcaption></figcaption></figure><div style="text-align: center;"><span class="new" data-uncrawlable-url="L3dpa2kvU3RyYW5nZV9Hb2dnbGVzP2FjdGlvbj1lZGl0JnJlZGxpbms9MQ==" title="Strange Goggles (page does not exist)">Strange Goggles</span> (Removed)</div>
 </td>
-<td><span typeof="mw:Error mw:File"></span>77 <a href="honey.html"><span class="color-template color-template-honey">Honey</span></a><br/>
+<td><img alt="Honey" height="25" src="img/Honey.png" width="25"/>77 <a href="honey.html"><span class="color-template color-template-honey">Honey</span></a><br/>
 <p><img alt="Micro-Converter" height="25" src="img/Micro-Converter.png" width="25"/>1 <a href="micro-converter.html"><span class="color-template color-template-micro-converter color-template-background-clip">Micro-Converter</span></a><br/>
 <span typeof="mw:Error mw:File"></span>7 <span class="new" data-uncrawlable-url="L3dpa2kvNy1Qcm9uZ2VkX0NvZz9hY3Rpb249ZWRpdCZyZWRsaW5rPTE=" title="7-Pronged Cog (page does not exist)"><span class="color-template color-template-7-pronged-cog color-template-background-clip">7-Pronged Cogs</span></span>
 </p>

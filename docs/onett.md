@@ -427,7 +427,7 @@ The following content has been removed from the game. The contents below may be 
 <li>Obtain 1 Shining Star, Cyan Star, or Black Star <a href="sticker.html">Sticker</a> to give to Onett.</li></ul>
 </td>
 <td>
-<p><span typeof="mw:Error mw:File"></span>500,000,000 <a href="honey.html"><span class="color-template color-template-honey">Honey</span></a><br/>
+<p><img alt="Honey" height="25" src="img/Honey.png" width="25"/>500,000,000 <a href="honey.html"><span class="color-template color-template-honey">Honey</span></a><br/>
 <img alt="Ticket Voucher" height="25" src="img/Ticket_Voucher.png" width="25"/>1 <a href="sticker.html#Sticker_Index"><span class="color-template color-template-ticket-voucher color-template-background-clip">Ticket Voucher</span></a><br/>
 <img alt="Festive Planter" height="25" src="img/Festive_Planter.png" width="25"/>1 <a href="festive-planter.html"><span class="color-template color-template-festive-planter color-template-background-clip">Festive Planter</span></a><br/>
 <img alt="Star Jelly" height="25" src="img/Star_Jelly.png" width="25"/>1 <a href="royal-jelly.html#Star_Jelly"><span class="color-template color-template-star-jelly color-template-background-clip">Star Jelly</span></a><br/>

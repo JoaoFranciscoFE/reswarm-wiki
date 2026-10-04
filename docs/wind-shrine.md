@@ -333,27 +333,27 @@ Each donation grants [honey](honey.md) depending on the type and amount of the i
 <tr>
 <td><img alt="Ticket" height="35" src="img/Ticket.png" width="35"/><a href="ticket.html"><span class="color-template color-template-ticket color-template-background-clip">Tickets</span></a>
 </td>
-<td><span typeof="mw:Error mw:File"></span>10,000 <a href="honey.html"><span class="color-template color-template-honey">Honey</span></a>
+<td><img alt="Honey" height="25" src="img/Honey.png" width="25"/>10,000 <a href="honey.html"><span class="color-template color-template-honey">Honey</span></a>
 </td></tr>
 <tr>
 <td><img alt="Gumdrops" height="35" src="img/Gumdrops.png" width="35"/><a href="gumdrops.html"><span class="color-template color-template-gumdrops color-template-background-clip">Gumdrops</span></a>
 </td>
-<td><span typeof="mw:Error mw:File"></span>2,000 <a href="honey.html"><span class="color-template color-template-honey">Honey</span></a>
+<td><img alt="Honey" height="25" src="img/Honey.png" width="25"/>2,000 <a href="honey.html"><span class="color-template color-template-honey">Honey</span></a>
 </td></tr>
 <tr>
 <td><img alt="Coconut" height="35" src="img/Coconut.png" width="35"/><a href="coconut.html"><span class="color-template color-template-coconut color-template-background-clip">Coconuts</span></a>
 </td>
-<td><span typeof="mw:Error mw:File"></span>100,000 <a href="honey.html"><span class="color-template color-template-honey">Honey</span></a>
+<td><img alt="Honey" height="25" src="img/Honey.png" width="25"/>100,000 <a href="honey.html"><span class="color-template color-template-honey">Honey</span></a>
 </td></tr>
 <tr>
 <td><img alt="Stinger" height="35" src="img/Stinger.png" width="35"/><a href="stinger.html"><span class="color-template color-template-stinger color-template-background-clip">Stingers</span></a>
 </td>
-<td><span typeof="mw:Error mw:File"></span>50,000 <a href="honey.html"><span class="color-template color-template-honey">Honey</span></a>
+<td><img alt="Honey" height="25" src="img/Honey.png" width="25"/>50,000 <a href="honey.html"><span class="color-template color-template-honey">Honey</span></a>
 </td></tr>
 <tr>
 <td><img alt="Micro-Converter" height="35" src="img/Micro-Converter.png" width="35"/><a href="micro-converter.html"><span class="color-template color-template-micro-converter color-template-background-clip">Micro-Converters</span></a>
 </td>
-<td><span typeof="mw:Error mw:File"></span>500,000 <a href="honey.html"><span class="color-template color-template-honey">Honey</span></a>
+<td><img alt="Honey" height="25" src="img/Honey.png" width="25"/>500,000 <a href="honey.html"><span class="color-template color-template-honey">Honey</span></a>
 </td></tr>
 <tr>
 <td><img alt="Honeysuckle" height="35" src="img/Honeysuckle.png" width="35"/><a href="honeysuckle.html"><span class="color-template color-template-honeysuckle color-template-background-clip">Honeysuckles</span></a>
@@ -363,242 +363,242 @@ Each donation grants [honey](honey.md) depending on the type and amount of the i
 <tr>
 <td><img alt="Whirligig" height="35" src="img/Whirligig.png" width="35"/><a href="whirligig.html"><span class="color-template color-template-whirligig color-template-background-clip">Whirligigs</span></a>
 </td>
-<td><span typeof="mw:Error mw:File"></span>25,000 <a href="honey.html"><span class="color-template color-template-honey">Honey</span></a>
+<td><img alt="Honey" height="25" src="img/Honey.png" width="25"/>25,000 <a href="honey.html"><span class="color-template color-template-honey">Honey</span></a>
 </td></tr>
 <tr>
 <td><img alt="Field Dice" height="35" src="img/Field_Dice.png" width="35"/><a href="field-dice.html"><span class="color-template color-template-field-dice color-template-background-clip">Field Dice</span></a>
 </td>
-<td><span typeof="mw:Error mw:File"></span>500,000 <a href="honey.html"><span class="color-template color-template-honey">Honey</span></a>
+<td><img alt="Honey" height="25" src="img/Honey.png" width="25"/>500,000 <a href="honey.html"><span class="color-template color-template-honey">Honey</span></a>
 </td></tr>
 <tr>
 <td><img alt="Smooth Dice" height="35" src="img/Smooth_Dice.png" width="35"/><a href="smooth-dice.html"><span class="color-template color-template-smooth-dice color-template-background-clip">Smooth Dice</span></a>
 </td>
-<td><span typeof="mw:Error mw:File"></span>1,500,000 <a href="honey.html"><span class="color-template color-template-honey">Honey</span></a>
+<td><img alt="Honey" height="25" src="img/Honey.png" width="25"/>1,500,000 <a href="honey.html"><span class="color-template color-template-honey">Honey</span></a>
 </td></tr>
 <tr>
 <td><img alt="Loaded Dice" height="35" src="img/Loaded_Dice.png" width="35"/><a href="loaded-dice.html"><span class="color-template color-template-loaded-dice color-template-background-clip">Loaded Dice</span></a>
 </td>
-<td><span typeof="mw:Error mw:File"></span>5,000,000 <a href="honey.html"><span class="color-template color-template-honey">Honey</span></a>
+<td><img alt="Honey" height="25" src="img/Honey.png" width="25"/>5,000,000 <a href="honey.html"><span class="color-template color-template-honey">Honey</span></a>
 </td></tr>
 <tr>
 <td><img alt="Jelly Beans" height="35" src="img/Jelly_Beans.png" width="35"/><a href="jelly-beans.html"><span class="color-template color-template-jelly-beans color-template-background-clip">Jelly Beans</span></a>
 </td>
-<td><span typeof="mw:Error mw:File"></span>10,000 <a href="honey.html"><span class="color-template color-template-honey">Honey</span></a>
+<td><img alt="Honey" height="25" src="img/Honey.png" width="25"/>10,000 <a href="honey.html"><span class="color-template color-template-honey">Honey</span></a>
 </td></tr>
 <tr>
 <td><img alt="Red Extract" height="35" src="img/Red_Extract.png" width="35"/><a href="red-extract.html"><span class="color-template color-template-red-extract color-template-background-clip">Red Extracts</span></a>
 </td>
-<td><span typeof="mw:Error mw:File"></span>1,000,000 <a href="honey.html"><span class="color-template color-template-honey">Honey</span></a>
+<td><img alt="Honey" height="25" src="img/Honey.png" width="25"/>1,000,000 <a href="honey.html"><span class="color-template color-template-honey">Honey</span></a>
 </td></tr>
 <tr>
 <td><img alt="Blue Extract" height="35" src="img/Blue_Extract.png" width="35"/><a href="blue-extract.html"><span class="color-template color-template-blue-extract color-template-background-clip">Blue Extracts</span></a>
 </td>
-<td><span typeof="mw:Error mw:File"></span>1,000,000 <a href="honey.html"><span class="color-template color-template-honey">Honey</span></a>
+<td><img alt="Honey" height="25" src="img/Honey.png" width="25"/>1,000,000 <a href="honey.html"><span class="color-template color-template-honey">Honey</span></a>
 </td></tr>
 <tr>
 <td><img alt="Glitter" height="35" src="img/Glitter.png" width="35"/><a href="glitter.html"><span class="color-template color-template-glitter color-template-background-clip">Glitter</span></a>
 </td>
-<td><span typeof="mw:Error mw:File"></span>2,500,000 <a href="honey.html"><span class="color-template color-template-honey">Honey</span></a>
+<td><img alt="Honey" height="25" src="img/Honey.png" width="25"/>2,500,000 <a href="honey.html"><span class="color-template color-template-honey">Honey</span></a>
 </td></tr>
 <tr>
 <td><img alt="Glue" height="35" src="img/Glue.png" width="35"/><a href="glue.html"><span class="color-template color-template-glue color-template-background-clip">Glues</span></a>
 </td>
-<td><span typeof="mw:Error mw:File"></span>2,500,000 <a href="honey.html"><span class="color-template color-template-honey">Honey</span></a>
+<td><img alt="Honey" height="25" src="img/Honey.png" width="25"/>2,500,000 <a href="honey.html"><span class="color-template color-template-honey">Honey</span></a>
 </td></tr>
 <tr>
 <td><img alt="Oil" height="35" src="img/Oil.png" width="35"/><a href="oil.html"><span class="color-template color-template-oil color-template-background-clip">Oils</span></a>
 </td>
-<td><span typeof="mw:Error mw:File"></span>1,000,000 <a href="honey.html"><span class="color-template color-template-honey">Honey</span></a>
+<td><img alt="Honey" height="25" src="img/Honey.png" width="25"/>1,000,000 <a href="honey.html"><span class="color-template color-template-honey">Honey</span></a>
 </td></tr>
 <tr>
 <td><img alt="Enzymes" height="35" src="img/Enzymes.png" width="35"/><a href="enzymes.html"><span class="color-template color-template-enzymes color-template-background-clip">Enzymes</span></a>
 </td>
-<td><span typeof="mw:Error mw:File"></span>1,000,000 <a href="honey.html"><span class="color-template color-template-honey">Honey</span></a>
+<td><img alt="Honey" height="25" src="img/Honey.png" width="25"/>1,000,000 <a href="honey.html"><span class="color-template color-template-honey">Honey</span></a>
 </td></tr>
 <tr>
 <td><img alt="Tropical Drink" height="35" src="img/Tropical_Drink.png" width="35"/><a href="tropical-drink.html"><span class="color-template color-template-tropical-drink color-template-background-clip">Tropical Drinks</span></a>
 </td>
-<td><span typeof="mw:Error mw:File"></span>2,000,000 <a href="honey.html"><span class="color-template color-template-honey">Honey</span></a>
+<td><img alt="Honey" height="25" src="img/Honey.png" width="25"/>2,000,000 <a href="honey.html"><span class="color-template color-template-honey">Honey</span></a>
 </td></tr>
 <tr>
 <td><img alt="Purple Potion" height="35" src="img/Purple_Potion.png" width="35"/><a href="purple-potion.html"><span class="color-template color-template-purple-potion color-template-background-clip">Purple Potions</span></a>
 </td>
-<td><span typeof="mw:Error mw:File"></span>2,000,000 <a href="honey.html"><span class="color-template color-template-honey">Honey</span></a>
+<td><img alt="Honey" height="25" src="img/Honey.png" width="25"/>2,000,000 <a href="honey.html"><span class="color-template color-template-honey">Honey</span></a>
 </td></tr>
 <tr>
 <td><img alt="Marshmallow Bee" height="35" src="img/Marshmallow_Bee.png" width="35"/><a href="marshmallow-bee.html"><span class="color-template color-template-marshmallow-bee color-template-background-clip">Marshmallow Bees</span></a>
 </td>
-<td><span typeof="mw:Error mw:File"></span>1,000,000 <a href="honey.html"><span class="color-template color-template-honey">Honey</span></a>
+<td><img alt="Honey" height="25" src="img/Honey.png" width="25"/>1,000,000 <a href="honey.html"><span class="color-template color-template-honey">Honey</span></a>
 </td></tr>
 <tr>
 <td><img alt="Magic Bean" height="35" src="img/Magic_Bean.png" width="35"/><a href="magic-bean.html"><span class="color-template color-template-magic-bean color-template-background-clip">Magic Beans</span></a>
 </td>
-<td><span typeof="mw:Error mw:File"></span>200,000 <a href="honey.html"><span class="color-template color-template-honey">Honey</span></a>
+<td><img alt="Honey" height="25" src="img/Honey.png" width="25"/>200,000 <a href="honey.html"><span class="color-template color-template-honey">Honey</span></a>
 </td></tr>
 <tr>
 <td><img alt="Festive Bean" height="35" src="img/Festive_Bean.png" width="35"/><a href="festive-bean.html"><span class="color-template color-template-festive-bean color-template-background-clip">Festive Beans</span></a>
 </td>
-<td><span typeof="mw:Error mw:File"></span>25,000,000 <a href="honey.html"><span class="color-template color-template-honey">Honey</span></a>
+<td><img alt="Honey" height="25" src="img/Honey.png" width="25"/>25,000,000 <a href="honey.html"><span class="color-template color-template-honey">Honey</span></a>
 </td></tr>
 <tr>
 <td><img alt="Cloud Vial" height="35" src="img/Cloud_Vial.png" width="35"/><a href="cloud-vial.html"><span class="color-template color-template-cloud-vial color-template-background-clip">Cloud Vials</span></a>
 </td>
-<td><span typeof="mw:Error mw:File"></span>1,000,000 <a href="honey.html"><span class="color-template color-template-honey">Honey</span></a>
+<td><img alt="Honey" height="25" src="img/Honey.png" width="25"/>1,000,000 <a href="honey.html"><span class="color-template color-template-honey">Honey</span></a>
 </td></tr>
 <tr>
 <td><img alt="Night Bell" height="35" src="img/Night_Bell.png" width="35"/><a href="night-bell.html"><span class="color-template color-template-night-bell color-template-background-clip">Night Bells</span></a>
 </td>
-<td><span typeof="mw:Error mw:File"></span>1,000,000 <a href="honey.html"><span class="color-template color-template-honey">Honey</span></a>
+<td><img alt="Honey" height="25" src="img/Honey.png" width="25"/>1,000,000 <a href="honey.html"><span class="color-template color-template-honey">Honey</span></a>
 </td></tr>
 <tr>
 <td><img alt="Box-O-Frogs" height="35" src="img/Box-O-Frogs.png" width="35"/><a href="box-o-frogs.html"><span class="color-template color-template-box-o-frogs color-template-background-clip">Boxes-O-Frogs</span></a>
 </td>
-<td><span typeof="mw:Error mw:File"></span>1,000,000 <a href="honey.html"><span class="color-template color-template-honey">Honey</span></a>
+<td><img alt="Honey" height="25" src="img/Honey.png" width="25"/>1,000,000 <a href="honey.html"><span class="color-template color-template-honey">Honey</span></a>
 </td></tr>
 <tr>
 <td><img alt="Ant Pass" height="35" src="img/Ant_Pass.png" width="35"/><a href="ant-pass.html"><span class="color-template color-template-ant-pass color-template-background-clip">Ant Passes</span></a>
 </td>
-<td><span typeof="mw:Error mw:File"></span>100,000 <a href="honey.html"><span class="color-template color-template-honey">Honey</span></a>
+<td><img alt="Honey" height="25" src="img/Honey.png" width="25"/>100,000 <a href="honey.html"><span class="color-template color-template-honey">Honey</span></a>
 </td></tr>
 <tr>
 <td><img alt="Treat" height="35" src="img/Treat.png" width="35"/><a href="treat.html"><span class="color-template color-template-treat">Treats</span></a>
 </td>
-<td><span typeof="mw:Error mw:File"></span>100 <a href="honey.html"><span class="color-template color-template-honey">Honey</span></a>
+<td><img alt="Honey" height="25" src="img/Honey.png" width="25"/>100 <a href="honey.html"><span class="color-template color-template-honey">Honey</span></a>
 </td></tr>
 <tr>
 <td><img alt="Atomic Treat" height="35" src="img/Atomic_Treat.png" width="35"/><a href="atomic-treat.html"><span class="color-template color-template-atomic-treat color-template-background-clip">Atomic Treats</span></a>
 </td>
-<td><span typeof="mw:Error mw:File"></span>5,000,000 <a href="honey.html"><span class="color-template color-template-honey">Honey</span></a>
+<td><img alt="Honey" height="25" src="img/Honey.png" width="25"/>5,000,000 <a href="honey.html"><span class="color-template color-template-honey">Honey</span></a>
 </td></tr>
 <tr>
 <td><img alt="Star Treat" height="35" src="img/Star_Treat.png" width="35"/><a href="star-treat.html"><span class="color-template color-template-star-treat color-template-background-clip">Star Treats</span></a>
 </td>
-<td><span typeof="mw:Error mw:File"></span>10,000,000 <a href="honey.html"><span class="color-template color-template-honey">Honey</span></a>
+<td><img alt="Honey" height="25" src="img/Honey.png" width="25"/>10,000,000 <a href="honey.html"><span class="color-template color-template-honey">Honey</span></a>
 </td></tr>
 <tr>
 <td><img alt="Sunflower Seed" height="35" src="img/Sunflower_Seed.png" width="35"/><a href="sunflower-seed.html"><span class="color-template color-template-sunflower-seed color-template-background-clip">Sunflower Seeds</span></a>
 </td>
-<td><span typeof="mw:Error mw:File"></span>25,000 <a href="honey.html"><span class="color-template color-template-honey">Honey</span></a>
+<td><img alt="Honey" height="25" src="img/Honey.png" width="25"/>25,000 <a href="honey.html"><span class="color-template color-template-honey">Honey</span></a>
 </td></tr>
 <tr>
 <td><img alt="Strawberry" height="35" src="img/Strawberry.png" width="35"/><a href="strawberry.html"><span class="color-template color-template-strawberry color-template-background-clip">Strawberries</span></a>
 </td>
-<td><span typeof="mw:Error mw:File"></span>25,000 <a href="honey.html"><span class="color-template color-template-honey">Honey</span></a>
+<td><img alt="Honey" height="25" src="img/Honey.png" width="25"/>25,000 <a href="honey.html"><span class="color-template color-template-honey">Honey</span></a>
 </td></tr>
 <tr>
 <td><img alt="Pineapple" height="35" src="img/Pineapple.png" width="35"/><a href="pineapple.html"><span class="color-template color-template-pineapple color-template-background-clip">Pineapples</span></a>
 </td>
-<td><span typeof="mw:Error mw:File"></span>25,000 <a href="honey.html"><span class="color-template color-template-honey">Honey</span></a>
+<td><img alt="Honey" height="25" src="img/Honey.png" width="25"/>25,000 <a href="honey.html"><span class="color-template color-template-honey">Honey</span></a>
 </td></tr>
 <tr>
 <td><img alt="Blueberry" height="35" src="img/Blueberry.png" width="35"/><a href="blueberry.html"><span class="color-template color-template-blueberry color-template-background-clip">Blueberries</span></a>
 </td>
-<td><span typeof="mw:Error mw:File"></span>25,000 <a href="honey.html"><span class="color-template color-template-honey">Honey</span></a>
+<td><img alt="Honey" height="25" src="img/Honey.png" width="25"/>25,000 <a href="honey.html"><span class="color-template color-template-honey">Honey</span></a>
 </td></tr>
 <tr>
 <td><img alt="Bitterberry" height="35" src="img/Bitterberry.png" width="35"/><a href="bitterberry.html"><span class="color-template color-template-bitterberry color-template-background-clip">Bitterberries</span></a>
 </td>
-<td><span typeof="mw:Error mw:File"></span>50,000 <a href="honey.html"><span class="color-template color-template-honey">Honey</span></a>
+<td><img alt="Honey" height="25" src="img/Honey.png" width="25"/>50,000 <a href="honey.html"><span class="color-template color-template-honey">Honey</span></a>
 </td></tr>
 <tr>
 <td><img alt="Neonberry" height="35" src="img/Neonberry.png" width="35"/><a href="neonberry.html"><span class="color-template color-template-neonberry color-template-background-clip">Neonberries</span></a>
 </td>
-<td><span typeof="mw:Error mw:File"></span>50,000 <a href="honey.html"><span class="color-template color-template-honey">Honey</span></a>
+<td><img alt="Honey" height="25" src="img/Honey.png" width="25"/>50,000 <a href="honey.html"><span class="color-template color-template-honey">Honey</span></a>
 </td></tr>
 <tr>
 <td><img alt="Moon Charm" height="35" src="img/Moon_Charm.png" width="35"/><a href="moon-charm.html"><span class="color-template color-template-moon-charm color-template-background-clip">Moon Charms</span></a>
 </td>
-<td><span typeof="mw:Error mw:File"></span>50,000 <a href="honey.html"><span class="color-template color-template-honey">Honey</span></a>
+<td><img alt="Honey" height="25" src="img/Honey.png" width="25"/>50,000 <a href="honey.html"><span class="color-template color-template-honey">Honey</span></a>
 </td></tr>
 <tr>
 <td><img alt="Soft Wax" height="35" src="img/Soft_Wax.png" width="35"/><a href="soft-wax.html"><span class="color-template color-template-soft-wax">Soft Waxes</span></a>
 </td>
-<td><span typeof="mw:Error mw:File"></span>500,000 <a href="honey.html"><span class="color-template color-template-honey">Honey</span></a>
+<td><img alt="Honey" height="25" src="img/Honey.png" width="25"/>500,000 <a href="honey.html"><span class="color-template color-template-honey">Honey</span></a>
 </td></tr>
 <tr>
 <td><img alt="Hard Wax" height="35" src="img/Hard_Wax.png" width="35"/><a href="hard-wax.html"><span class="color-template color-template-hard-wax">Hard Waxes</span></a>
 </td>
-<td><span typeof="mw:Error mw:File"></span>1,000,000 <a href="honey.html"><span class="color-template color-template-honey">Honey</span></a>
+<td><img alt="Honey" height="25" src="img/Honey.png" width="25"/>1,000,000 <a href="honey.html"><span class="color-template color-template-honey">Honey</span></a>
 </td></tr>
 <tr>
 <td><img alt="Caustic Wax" height="35" src="img/Caustic_Wax.png" width="35"/><a href="caustic-wax.html"><span class="color-template color-template-caustic-wax">Caustic Waxes</span></a>
 </td>
-<td><span typeof="mw:Error mw:File"></span>5,000,000 <a href="honey.html"><span class="color-template color-template-honey">Honey</span></a>
+<td><img alt="Honey" height="25" src="img/Honey.png" width="25"/>5,000,000 <a href="honey.html"><span class="color-template color-template-honey">Honey</span></a>
 </td></tr>
 <tr>
 <td><img alt="Swirled Wax" height="35" src="img/Swirled_Wax.png" width="35"/><a href="swirled-wax.html"><span class="color-template color-template-swirled-wax color-template-background-clip">Swirled Waxes</span></a>
 </td>
-<td><span typeof="mw:Error mw:File"></span>3,750,000 <a href="honey.html"><span class="color-template color-template-honey">Honey</span></a>
+<td><img alt="Honey" height="25" src="img/Honey.png" width="25"/>3,750,000 <a href="honey.html"><span class="color-template color-template-honey">Honey</span></a>
 </td></tr>
 <tr>
 <td><img alt="Turpentine" height="35" src="img/Turpentine.png" width="35"/><a href="turpentine.html"><span class="color-template color-template-turpentine color-template-background-clip">Turpentines</span></a>
 </td>
-<td><span typeof="mw:Error mw:File"></span>36,600,000 <a href="honey.html"><span class="color-template color-template-honey">Honey</span></a>
+<td><img alt="Honey" height="25" src="img/Honey.png" width="25"/>36,600,000 <a href="honey.html"><span class="color-template color-template-honey">Honey</span></a>
 </td></tr>
 <tr>
 <td><img alt="Basic Egg" height="35" src="img/Basic_Egg.png" width="35"/><a href="egg.html#Basic_Egg"><span class="color-template color-template-basic-egg color-template-background-clip">Basic Eggs</span></a>
 </td>
-<td><span typeof="mw:Error mw:File"></span>10,000 <a href="honey.html"><span class="color-template color-template-honey">Honey</span></a>
+<td><img alt="Honey" height="25" src="img/Honey.png" width="25"/>10,000 <a href="honey.html"><span class="color-template color-template-honey">Honey</span></a>
 </td></tr>
 <tr>
 <td><img alt="Silver Egg" height="35" src="img/Silver_Egg.png" width="35"/><a href="egg.html#Silver_Egg"><span class="color-template color-template-silver-egg color-template-background-clip">Silver Eggs</span></a>
 </td>
-<td><span typeof="mw:Error mw:File"></span>1,000,000 <a href="honey.html"><span class="color-template color-template-honey">Honey</span></a>
+<td><img alt="Honey" height="25" src="img/Honey.png" width="25"/>1,000,000 <a href="honey.html"><span class="color-template color-template-honey">Honey</span></a>
 </td></tr>
 <tr>
 <td><img alt="Gold Egg" height="35" src="img/Gold_Egg.png" width="35"/><a href="egg.html#Gold_Egg"><span class="color-template color-template-gold-egg color-template-background-clip">Gold Eggs</span></a>
 </td>
-<td><span typeof="mw:Error mw:File"></span>1,000,000 <a href="honey.html"><span class="color-template color-template-honey">Honey</span></a>
+<td><img alt="Honey" height="25" src="img/Honey.png" width="25"/>1,000,000 <a href="honey.html"><span class="color-template color-template-honey">Honey</span></a>
 </td></tr>
 <tr>
 <td><img alt="Diamond Egg" height="35" src="img/Diamond_Egg.png" width="35"/><a href="egg.html#Diamond_Egg"><span class="color-template color-template-diamond-egg color-template-background-clip">Diamond Eggs</span></a>
 </td>
-<td><span typeof="mw:Error mw:File"></span>5,000,000 <a href="honey.html"><span class="color-template color-template-honey">Honey</span></a>
+<td><img alt="Honey" height="25" src="img/Honey.png" width="25"/>5,000,000 <a href="honey.html"><span class="color-template color-template-honey">Honey</span></a>
 </td></tr>
 <tr>
 <td><img alt="Mythic Egg" height="35" src="img/Mythic_Egg.png" width="35"/><a href="egg.html#Mythic_Egg"><span class="color-template color-template-mythic-egg color-template-background-clip">Mythic Eggs</span></a>
 </td>
-<td><span typeof="mw:Error mw:File"></span>25,000,000 <a href="honey.html"><span class="color-template color-template-honey">Honey</span></a>
+<td><img alt="Honey" height="25" src="img/Honey.png" width="25"/>25,000,000 <a href="honey.html"><span class="color-template color-template-honey">Honey</span></a>
 </td></tr>
 <tr>
 <td><img alt="Star Egg" height="35" src="img/Star_Egg.png" width="35"/><a href="egg.html#Star_Egg"><span class="color-template color-template-star-egg color-template-background-clip">Star Eggs</span></a>
 </td>
-<td><span typeof="mw:Error mw:File"></span>5,000,000 <a href="honey.html"><span class="color-template color-template-honey">Honey</span></a>
+<td><img alt="Honey" height="25" src="img/Honey.png" width="25"/>5,000,000 <a href="honey.html"><span class="color-template color-template-honey">Honey</span></a>
 </td></tr>
 <tr>
 <td><img alt="Gifted Silver Egg" height="35" src="img/Gifted_Silver_Egg.png" width="35"/><a href="egg.html#Gifted_Silver_Egg"><span class="color-template color-template-gifted-silver-egg color-template-background-clip">Gifted Silver Eggs</span></a>
 </td>
-<td><span typeof="mw:Error mw:File"></span>15,000,000 <a href="honey.html"><span class="color-template color-template-honey">Honey</span></a>
+<td><img alt="Honey" height="25" src="img/Honey.png" width="25"/>15,000,000 <a href="honey.html"><span class="color-template color-template-honey">Honey</span></a>
 </td></tr>
 <tr>
 <td><img alt="Gifted Gold Egg" height="35" src="img/Gifted_Gold_Egg.png" width="35"/><a href="egg.html#Gifted_Gold_Egg"><span class="color-template color-template-gifted-gold-egg color-template-background-clip">Gifted Gold Eggs</span></a>
 </td>
-<td><span typeof="mw:Error mw:File"></span>20,000,000 <a href="honey.html"><span class="color-template color-template-honey">Honey</span></a>
+<td><img alt="Honey" height="25" src="img/Honey.png" width="25"/>20,000,000 <a href="honey.html"><span class="color-template color-template-honey">Honey</span></a>
 </td></tr>
 <tr>
 <td><img alt="Gifted Diamond Egg" height="35" src="img/Gifted_Diamond_Egg.png" width="35"/><a href="egg.html#Gifted_Diamond_Egg"><span class="color-template color-template-gifted-diamond-egg color-template-background-clip">Gifted Diamond Eggs</span></a>
 </td>
-<td><span typeof="mw:Error mw:File"></span>25,000,000 <a href="honey.html"><span class="color-template color-template-honey">Honey</span></a>
+<td><img alt="Honey" height="25" src="img/Honey.png" width="25"/>25,000,000 <a href="honey.html"><span class="color-template color-template-honey">Honey</span></a>
 </td></tr>
 <tr>
 <td><img alt="Gifted Mythic Egg" height="35" src="img/Gifted_Mythic_Egg.png" width="35"/><a href="egg.html#Gifted_Mythic_Egg"><span class="color-template color-template-gifted-mythic-egg color-template-background-clip">Gifted Mythic Eggs</span></a>
 </td>
-<td><span typeof="mw:Error mw:File"></span>50,000,000 <a href="honey.html"><span class="color-template color-template-honey">Honey</span></a>
+<td><img alt="Honey" height="25" src="img/Honey.png" width="25"/>50,000,000 <a href="honey.html"><span class="color-template color-template-honey">Honey</span></a>
 </td></tr>
 <tr>
 <td><img alt="Royal Jelly" height="35" src="img/Royal_Jelly.png" width="35"/><a href="royal-jelly.html"><span class="color-template color-template-royal-jelly color-template-background-clip">Royal Jellies</span></a>
 </td>
-<td><span typeof="mw:Error mw:File"></span>1,000 <a href="honey.html"><span class="color-template color-template-honey">Honey</span></a>
+<td><img alt="Honey" height="25" src="img/Honey.png" width="25"/>1,000 <a href="honey.html"><span class="color-template color-template-honey">Honey</span></a>
 </td></tr>
 <tr>
 <td><img alt="Star Jelly" height="35" src="img/Star_Jelly.png" width="35"/><a href="royal-jelly.html#Star_Jelly"><span class="color-template color-template-star-jelly color-template-background-clip">Star Jellies</span></a>
 </td>
-<td><span typeof="mw:Error mw:File"></span>1,000,000 <a href="honey.html"><span class="color-template color-template-honey">Honey</span></a>
+<td><img alt="Honey" height="25" src="img/Honey.png" width="25"/>1,000,000 <a href="honey.html"><span class="color-template color-template-honey">Honey</span></a>
 </td></tr>
 <tr>
 <td><span typeof="mw:Error mw:File/Frameless"></span> <span style="background:linear-gradient(135deg,#f9ec8c,#ffe41f,#595959,#ffe41f); -webkit-background-clip:text !important; -webkit-text-fill-color:transparent;"><b><a href="egg.html">Honey Bee Egg</a></b></span>
 </td>
-<td><span typeof="mw:Error mw:File"></span>50,000 <a href="honey.html"><span class="color-template color-template-honey">Honey</span></a>
+<td><img alt="Honey" height="25" src="img/Honey.png" width="25"/>50,000 <a href="honey.html"><span class="color-template color-template-honey">Honey</span></a>
 </td></tr></tbody></table>
 
 ### Obtaining a Windy Bee

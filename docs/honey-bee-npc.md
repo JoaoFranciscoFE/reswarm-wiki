@@ -179,7 +179,7 @@ You need to be equipping the [Honey Mask](honey-mask.md) and have completed [Bla
 <li>Collect 99 Tokens from the <a href="honey-wreath.html">Honey Wreath</a>.</li>
 <li>Catch 99 Merigold Bloom Petals.</li></ul>
 </td>
-<td><span typeof="mw:Error mw:File"></span>9,999,999,999 <a href="honey.html"><span class="color-template color-template-honey">Honey</span></a><br/>
+<td><img alt="Honey" height="25" src="img/Honey.png" width="25"/>9,999,999,999 <a href="honey.html"><span class="color-template color-template-honey">Honey</span></a><br/>
 <p><img alt="Ticket" height="25" src="img/Ticket.png" width="25"/>99 <a href="ticket.html"><span class="color-template color-template-ticket color-template-background-clip">Tickets</span></a><br/>
 <img alt="Treat" height="25" src="img/Treat.png" width="25"/>999,999 <a href="treat.html"><span class="color-template color-template-treat">Treats</span></a><br/>
 <img alt="Bloom Shaker" height="25" src="img/Bloom_Shaker.png" width="25"/>9 <a href="bloom-shaker.html"><span class="color-template color-template-bloom-shaker color-template-background-clip">Bloom Shakers</span></a><br/>
@@ -233,7 +233,7 @@ You need to be equipping the [Honey Mask](honey-mask.md) and have completed [Bla
 <li>Collect 99 Tokens from the Honey Wreath.</li>
 <li>Collect 99 Honeysuckles.</li></ul>
 </td>
-<td><span typeof="mw:Error mw:File"></span>9,999,999,999 <a href="honey.html"><span class="color-template color-template-honey">Honey</span></a><br/>
+<td><img alt="Honey" height="25" src="img/Honey.png" width="25"/>9,999,999,999 <a href="honey.html"><span class="color-template color-template-honey">Honey</span></a><br/>
 <p><img alt="Treat" height="25" src="img/Treat.png" width="25"/>999,999 <a href="treat.html"><span class="color-template color-template-treat">Treats</span></a><br/>
 <img alt="Ticket" height="25" src="img/Ticket.png" width="25"/>99 <a href="ticket.html"><span class="color-template color-template-ticket color-template-background-clip">Tickets</span></a><br/>
 <img alt="Marshmallow Bee" height="25" src="img/Marshmallow_Bee.png" width="25"/>9 <a href="marshmallow-bee.html"><span class="color-template color-template-marshmallow-bee color-template-background-clip">Marshmallow Bees</span></a><br/>
@@ -287,7 +287,7 @@ You need to be equipping the [Honey Mask](honey-mask.md) and have completed [Bla
 <li>Obtain 9 Honey Dipper Stickers to give to Honey Bee.</li>
 <li>Obtain 9 Honey Bee Bear Stickers to give to Honey Bee.</li></ul>
 </td>
-<td><span typeof="mw:Error mw:File"></span>999,999,999 <a href="honey.html"><span class="color-template color-template-honey">Honey</span></a><br/>
+<td><img alt="Honey" height="25" src="img/Honey.png" width="25"/>999,999,999 <a href="honey.html"><span class="color-template color-template-honey">Honey</span></a><br/>
 <p><img alt="Treat" height="25" src="img/Treat.png" width="25"/>999,999 <a href="treat.html"><span class="color-template color-template-treat">Treats</span></a><br/>
 <img alt="Ticket" height="25" src="img/Ticket.png" width="25"/>99 <a href="ticket.html"><span class="color-template color-template-ticket color-template-background-clip">Tickets</span></a><br/>
 <img alt="Marshmallow Bee" height="25" src="img/Marshmallow_Bee.png" width="25"/>9 <a href="marshmallow-bee.html"><span class="color-template color-template-marshmallow-bee color-template-background-clip">Marshmallow Bees</span></a><br/>
@@ -364,7 +364,7 @@ You need to be equipping the [Honey Mask](honey-mask.md) and have completed [Bla
 <li>Use 9 <a href="enzymes.html">Enzymes</a>.</li>
 <li>Defeat 9 <a href="golden-cogmower.html">Golden Cogmowers</a>.</li></ul>
 </td>
-<td><span typeof="mw:Error mw:File"></span>999,999,999 <a href="honey.html"><span class="color-template color-template-honey">Honey</span></a><br/>
+<td><img alt="Honey" height="25" src="img/Honey.png" width="25"/>999,999,999 <a href="honey.html"><span class="color-template color-template-honey">Honey</span></a><br/>
 <p><img alt="Treat" height="25" src="img/Treat.png" width="25"/>999,999 <a href="treat.html"><span class="color-template color-template-treat">Treats</span></a><br/>
 <img alt="Gingerbread Bear" height="25" src="img/Gingerbread_Bear.png" width="25"/>9 <a href="gingerbread-bear.html"><span class="color-template color-template-gingerbread-bear color-template-background-clip">Gingerbread Bears</span></a><br/>
 <img alt="Ticket" height="25" src="img/Ticket.png" width="25"/>9 <a href="ticket.html"><span class="color-template color-template-ticket color-template-background-clip">Tickets</span></a><br/>
@@ -421,7 +421,7 @@ You need to be equipping the [Honey Mask](honey-mask.md) and have completed [Bla
 <li>Use 9 Enzymes.</li></ul>
 </td>
 <td>
-<p><span typeof="mw:Error mw:File"></span>99,999,999 <a href="honey.html"><span class="color-template color-template-honey">Honey</span></a><br/>
+<p><img alt="Honey" height="25" src="img/Honey.png" width="25"/>99,999,999 <a href="honey.html"><span class="color-template color-template-honey">Honey</span></a><br/>
 <img alt="Ticket" height="25" src="img/Ticket.png" width="25"/>9 <a href="ticket.html"><span class="color-template color-template-ticket color-template-background-clip">Tickets</span></a><br/>
 <img alt="Treat" height="25" src="img/Treat.png" width="25"/>99,999 <a href="treat.html"><span class="color-template color-template-treat">Treats</span></a><br/>
 <img alt="Gingerbread Bear" height="25" src="img/Gingerbread_Bear.png" width="25"/>9 <a href="gingerbread-bear.html"><span class="color-template color-template-gingerbread-bear color-template-background-clip">Gingerbread Bears</span></a><br/>
@@ -459,7 +459,7 @@ You need to be equipping the [Honey Mask](honey-mask.md) and have completed [Bla
 <li>Use 9 <a href="enzymes.html">Enzymes</a>.</li></ul>
 </td>
 <td>
-<p><span typeof="mw:Error mw:File"></span>99,999,999 <a href="honey.html"><span class="color-template color-template-honey">Honey</span></a><br/>
+<p><img alt="Honey" height="25" src="img/Honey.png" width="25"/>99,999,999 <a href="honey.html"><span class="color-template color-template-honey">Honey</span></a><br/>
 <img alt="Treat" height="25" src="img/Treat.png" width="25"/>99,999 <a href="treat.html"><span class="color-template color-template-treat">Treats</span></a><br/>
 <img alt="Gingerbread Bear" height="25" src="img/Gingerbread_Bear.png" width="25"/>9 <a href="gingerbread-bear.html"><span class="color-template color-template-gingerbread-bear color-template-background-clip">Gingerbread Bears</span></a><br/>
 <img alt="Star Jelly" height="25" src="img/Star_Jelly.png" width="25"/>9 <a href="royal-jelly.html#Star_Jelly"><span class="color-template color-template-star-jelly color-template-background-clip">Star Jellies</span></a><br/>

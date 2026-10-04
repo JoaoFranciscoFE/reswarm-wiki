@@ -11,7 +11,7 @@ tags: ["Pages with broken file links", "Machines", "Locations", "Dispenser", "St
 <h2 class="pi-item pi-header pi-secondary-font pi-item-spacing pi-secondary-background">Information</h2>
 <div class="pi-item pi-data pi-item-spacing pi-border-color" data-source="usage">
 <h3 class="pi-data-label pi-secondary-font">Usage</h3>
-<div class="pi-data-value pi-font">Gives <img alt="Royal Jelly" height="25" src="img/Royal_Jelly.png" width="25"/>1 <a href="royal-jelly.html"><span class="color-template color-template-royal-jelly color-template-background-clip">Royal Jelly</span></a> and <span typeof="mw:Error mw:File"></span>x10 <a href="ability-tokens.html#Haste"><span class="color-template color-template-haste color-template-background-clip">Haste</span></a></div>
+<div class="pi-data-value pi-font">Gives <img alt="Royal Jelly" height="25" src="img/Royal_Jelly.png" width="25"/>1 <a href="royal-jelly.html"><span class="color-template color-template-royal-jelly color-template-background-clip">Royal Jelly</span></a> and <img alt="Haste" height="25" src="img/Haste.png" width="25"/>x10 <a href="ability-tokens.html#Haste"><span class="color-template color-template-haste color-template-background-clip">Haste</span></a></div>
 </div>
 <div class="pi-item pi-data pi-item-spacing pi-border-color" data-source="requirement">
 <h3 class="pi-data-label pi-secondary-font">Requirement(s)</h3>

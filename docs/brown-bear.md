@@ -2496,7 +2496,7 @@ Every known milestone is listed below. Bolded quest numbers are special mileston
 <tr>
 <td><b>300</b>
 </td>
-<td><span typeof="mw:Error mw:File"></span>1 <a href="cub-buddy.html#Skins"><span class="color-template color-template-brown-cub color-template-background-clip">Brown Cub</span></a>
+<td><img alt="Brown Cub" height="25" src="img/Brown_Cub.png" width="25"/>1 <a href="cub-buddy.html#Skins"><span class="color-template color-template-brown-cub color-template-background-clip">Brown Cub</span></a>
 </td></tr>
 <tr>
 <td>305
@@ -2940,7 +2940,7 @@ The following content has been removed from the game. The contents below may be 
 <li>Defeat 25 <a href="ladybug.html">Ladybugs</a></li>
 <li>Defeat 25 <a href="rhino-beetle.html">Rhino Beetles</a></li></ul>
 </td>
-<td><span typeof="mw:Error mw:File"></span>5,000,000 <a href="honey.html"><span class="color-template color-template-honey">Honey</span></a><br/>
+<td><img alt="Honey" height="25" src="img/Honey.png" width="25"/>5,000,000 <a href="honey.html"><span class="color-template color-template-honey">Honey</span></a><br/>
 <p><img alt="Ticket" height="25" src="img/Ticket.png" width="25"/>10 <a href="ticket.html"><span class="color-template color-template-ticket color-template-background-clip">Tickets</span></a><br/>
 <img alt="Star Jelly" height="25" src="img/Star_Jelly.png" width="25"/>1 <a href="royal-jelly.html#Star_Jelly"><span class="color-template color-template-star-jelly color-template-background-clip">Star Jelly</span></a><br/>
 <img alt="Smooth Dice" height="25" src="img/Smooth_Dice.png" width="25"/>1 <a href="smooth-dice.html"><span class="color-template color-template-smooth-dice color-template-background-clip">Smooth Dice</span></a><br/>
@@ -2988,7 +2988,7 @@ The following content has been removed from the game. The contents below may be 
 <li>Collect 3 <a href="field-dice.html">Field Dice</a></li>
 <li>Collect 3 <a href="sticker.html">Stickers</a> without <a href="trading.html">Trading</a></li></ul>
 </td>
-<td><span typeof="mw:Error mw:File"></span>4,000,000 <a href="honey.html"><span class="color-template color-template-honey">Honey</span></a><br/>
+<td><img alt="Honey" height="25" src="img/Honey.png" width="25"/>4,000,000 <a href="honey.html"><span class="color-template color-template-honey">Honey</span></a><br/>
 <p><img alt="Ticket" height="25" src="img/Ticket.png" width="25"/>5 <a href="ticket.html"><span class="color-template color-template-ticket color-template-background-clip">Tickets</span></a><br/>
 <img alt="Smooth Dice" height="25" src="img/Smooth_Dice.png" width="25"/>1 <a href="smooth-dice.html"><span class="color-template color-template-smooth-dice color-template-background-clip">Smooth Dice</span></a><br/>
 <img alt="Hard Wax" height="25" src="img/Hard_Wax.png" width="25"/>1 <a href="hard-wax.html"><span class="color-template color-template-hard-wax">Hard Wax</span></a><br/>
@@ -3449,7 +3449,7 @@ These quests had a 4-hour cooldown in between quests, as opposed to the current 
 </td>
 <td><img alt="Royal Jelly" height="25" src="img/Royal_Jelly.png" width="25"/>1 <a href="royal-jelly.html"><span class="color-template color-template-royal-jelly color-template-background-clip">Royal Jelly</span></a><br/>
 <p><img alt="Ticket" height="25" src="img/Ticket.png" width="25"/>1 <a href="ticket.html"><span class="color-template color-template-ticket color-template-background-clip">Ticket</span></a><br/>
-<span typeof="mw:Error mw:File"></span>10,000 <a href="honey.html"><span class="color-template color-template-honey">Honey</span></a><br/>
+<img alt="Honey" height="25" src="img/Honey.png" width="25"/>10,000 <a href="honey.html"><span class="color-template color-template-honey">Honey</span></a><br/>
 <img alt="Treat" height="25" src="img/Treat.png" width="25"/>10 <a href="treat.html"><span class="color-template color-template-treat">Treats</span></a> (20% chance)
 </p>
 </td></tr>
@@ -3462,7 +3462,7 @@ These quests had a 4-hour cooldown in between quests, as opposed to the current 
 </td>
 <td><img alt="Royal Jelly" height="25" src="img/Royal_Jelly.png" width="25"/>1 <a href="royal-jelly.html"><span class="color-template color-template-royal-jelly color-template-background-clip">Royal Jelly</span></a><br/>
 <p><img alt="Ticket" height="25" src="img/Ticket.png" width="25"/>1 <a href="ticket.html"><span class="color-template color-template-ticket color-template-background-clip">Ticket</span></a><br/>
-<span typeof="mw:Error mw:File"></span>20,000 <a href="honey.html"><span class="color-template color-template-honey">Honey</span></a><br/>
+<img alt="Honey" height="25" src="img/Honey.png" width="25"/>20,000 <a href="honey.html"><span class="color-template color-template-honey">Honey</span></a><br/>
 <img alt="Treat" height="25" src="img/Treat.png" width="25"/>25 <a href="treat.html"><span class="color-template color-template-treat">Treats</span></a> (20% chance)<br/>
 <img alt="Magic Bean" height="25" src="img/Magic_Bean.png" width="25"/>1 <a href="magic-bean.html"><span class="color-template color-template-magic-bean color-template-background-clip">Magic Bean</span></a> (10% chance)
 </p>
@@ -3476,7 +3476,7 @@ These quests had a 4-hour cooldown in between quests, as opposed to the current 
 </td>
 <td><img alt="Royal Jelly" height="25" src="img/Royal_Jelly.png" width="25"/>1 <a href="royal-jelly.html"><span class="color-template color-template-royal-jelly color-template-background-clip">Royal Jelly</span></a><br/>
 <p><img alt="Ticket" height="25" src="img/Ticket.png" width="25"/>2 <a href="ticket.html"><span class="color-template color-template-ticket color-template-background-clip">Tickets</span></a><br/>
-<span typeof="mw:Error mw:File"></span>50,000 <a href="honey.html"><span class="color-template color-template-honey">Honey</span></a><br/>
+<img alt="Honey" height="25" src="img/Honey.png" width="25"/>50,000 <a href="honey.html"><span class="color-template color-template-honey">Honey</span></a><br/>
 <img alt="Treat" height="25" src="img/Treat.png" width="25"/>50 <a href="treat.html"><span class="color-template color-template-treat">Treats</span></a> (20% chance)<br/>
 <img alt="Magic Bean" height="25" src="img/Magic_Bean.png" width="25"/>1 <a href="magic-bean.html"><span class="color-template color-template-magic-bean color-template-background-clip">Magic Bean</span></a> (20% chance)
 </p>
@@ -3490,7 +3490,7 @@ These quests had a 4-hour cooldown in between quests, as opposed to the current 
 </td>
 <td><img alt="Royal Jelly" height="25" src="img/Royal_Jelly.png" width="25"/>1 <a href="royal-jelly.html"><span class="color-template color-template-royal-jelly color-template-background-clip">Royal Jelly</span></a><br/>
 <p><img alt="Ticket" height="25" src="img/Ticket.png" width="25"/>2 <a href="ticket.html"><span class="color-template color-template-ticket color-template-background-clip">Tickets</span></a><br/>
-<span typeof="mw:Error mw:File"></span>200,000 <a href="honey.html"><span class="color-template color-template-honey">Honey</span></a><br/>
+<img alt="Honey" height="25" src="img/Honey.png" width="25"/>200,000 <a href="honey.html"><span class="color-template color-template-honey">Honey</span></a><br/>
 <img alt="Treat" height="25" src="img/Treat.png" width="25"/>100 <a href="treat.html"><span class="color-template color-template-treat">Treats</span></a> (20% chance)<br/>
 <img alt="Magic Bean" height="25" src="img/Magic_Bean.png" width="25"/>1 <a href="magic-bean.html"><span class="color-template color-template-magic-bean color-template-background-clip">Magic Bean</span></a> (20% chance)<br/>
 <img alt="Star Jelly" height="25" src="img/Star_Jelly.png" width="25"/>1 <a href="royal-jelly.html#Star_Jelly"><span class="color-template color-template-star-jelly color-template-background-clip">Star Jelly</span></a> (2% chance)

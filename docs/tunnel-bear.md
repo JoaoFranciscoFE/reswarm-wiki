@@ -68,7 +68,7 @@ Note that unlike the other mobs, Tunnel Bear drops its tokens in a straight line
 <tbody><tr>
 <td>200 <a href="battle-points.html">Battle Points</a><br/>
 <p>1000 <a href="bond.html">Bond</a><br/>
-<span typeof="mw:Error mw:File"></span>5,000,000 <a href="honey.html"><span class="color-template color-template-honey">Honey</span></a><br/>
+<img alt="Honey" height="25" src="img/Honey.png" width="25"/>5,000,000 <a href="honey.html"><span class="color-template color-template-honey">Honey</span></a><br/>
 <img alt="Gifted Silver Egg" height="35" src="img/Gifted_Silver_Egg.png" width="35"/><a href="egg.html#Gifted_Silver_Egg"><span class="color-template color-template-gifted-silver-egg color-template-background-clip">Gifted Silver Egg</span></a> or <img alt="Gifted Gold Egg" height="35" src="img/Gifted_Gold_Egg.png" width="35"/><a href="egg.html#Gifted_Gold_Egg"><span class="color-template color-template-gifted-gold-egg color-template-background-clip">Gifted Gold Egg</span></a> or <img alt="Gifted Diamond Egg" height="35" src="img/Gifted_Diamond_Egg.png" width="35"/><a href="egg.html#Gifted_Diamond_Egg"><span class="color-template color-template-gifted-diamond-egg color-template-background-clip">Gifted Diamond Egg</span></a> or <img alt="Star Egg" height="35" src="img/Star_Egg.png" width="35"/><a href="egg.html#Star_Egg"><span class="color-template color-template-star-egg color-template-background-clip">Star Egg</span></a><br/>
 </p>
 </td></tr></tbody></table>
@@ -79,7 +79,7 @@ Note that unlike the other mobs, Tunnel Bear drops its tokens in a straight line
 <tbody><tr>
 <td>200 <a href="battle-points.html">Battle Points</a><br/>
 <p>1000 <a href="bond.html">Bond</a><br/>
-<span typeof="mw:Error mw:File"></span>5,000,000 <a href="honey.html"><span class="color-template color-template-honey">Honey</span></a><br/>
+<img alt="Honey" height="25" src="img/Honey.png" width="25"/>5,000,000 <a href="honey.html"><span class="color-template color-template-honey">Honey</span></a><br/>
 <img alt="Royal Jelly" height="25" src="img/Royal_Jelly.png" width="25"/>5 <a href="royal-jelly.html"><span class="color-template color-template-royal-jelly color-template-background-clip">Royal Jellies</span></a><br/>
 <img alt="Ticket" height="25" src="img/Ticket.png" width="25"/>10 <a href="ticket.html"><span class="color-template color-template-ticket color-template-background-clip">Tickets</span></a><br/>
 <img alt="Moon Charm" height="25" src="img/Moon_Charm.png" width="25"/>20 <a href="moon-charm.html"><span class="color-template color-template-moon-charm color-template-background-clip">Moon Charms</span></a><br/>

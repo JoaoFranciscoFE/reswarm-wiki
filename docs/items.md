@@ -24,7 +24,7 @@ The following is a list of all of the **items** in [Re://:Swarm](re-swarm.md).
 </div></td>
 <td>Collects 5 <a href="pollen.html">pollen</a> per second.
 </td>
-<td><span typeof="mw:Error mw:File"></span>0 <a href="honey.html"><span class="color-template color-template-honey">Honey</span></a>(Default tool)
+<td><img alt="Honey" height="25" src="img/Honey.png" width="25"/>0 <a href="honey.html"><span class="color-template color-template-honey">Honey</span></a>(Default tool)
 </td>
 <td><a href="noob-shop.html">Noob Shop</a>
 </td></tr>
@@ -33,7 +33,7 @@ The following is a list of all of the **items** in [Re://:Swarm](re-swarm.md).
 </div></td>
 <td>Collects 8 <a href="pollen.html">pollen</a> per second.
 </td>
-<td><span typeof="mw:Error mw:File"></span>800 <a href="honey.html"><span class="color-template color-template-honey">Honey</span></a>
+<td><img alt="Honey" height="25" src="img/Honey.png" width="25"/>800 <a href="honey.html"><span class="color-template color-template-honey">Honey</span></a>
 </td>
 <td><a href="noob-shop.html">Noob Shop</a>
 </td></tr>
@@ -42,7 +42,7 @@ The following is a list of all of the **items** in [Re://:Swarm](re-swarm.md).
 </div></td>
 <td>Collects 13.85 <a href="pollen.html">pollen</a> per second.
 </td>
-<td><span typeof="mw:Error mw:File"></span>2,200 <a href="honey.html"><span class="color-template color-template-honey">Honey</span></a>
+<td><img alt="Honey" height="25" src="img/Honey.png" width="25"/>2,200 <a href="honey.html"><span class="color-template color-template-honey">Honey</span></a>
 </td>
 <td><a href="noob-shop.html">Noob Shop</a>
 </td></tr>
@@ -51,7 +51,7 @@ The following is a list of all of the **items** in [Re://:Swarm](re-swarm.md).
 </div></td>
 <td>Collects 18 <a href="pollen.html">pollen</a> per second.
 </td>
-<td><span typeof="mw:Error mw:File"></span>5,500 <a href="honey.html"><span class="color-template color-template-honey">Honey</span></a>
+<td><img alt="Honey" height="25" src="img/Honey.png" width="25"/>5,500 <a href="honey.html"><span class="color-template color-template-honey">Honey</span></a>
 </td>
 <td><a href="noob-shop.html">Noob Shop</a>
 </td></tr>
@@ -60,7 +60,7 @@ The following is a list of all of the **items** in [Re://:Swarm](re-swarm.md).
 </div></td>
 <td>Collects 32.5 <a href="pollen.html">pollen</a> per second.
 </td>
-<td><span typeof="mw:Error mw:File"></span>14,000 <a href="honey.html"><span class="color-template color-template-honey">Honey</span></a>
+<td><img alt="Honey" height="25" src="img/Honey.png" width="25"/>14,000 <a href="honey.html"><span class="color-template color-template-honey">Honey</span></a>
 </td>
 <td><a href="noob-shop.html">Noob Shop</a>
 </td></tr>
@@ -69,7 +69,7 @@ The following is a list of all of the **items** in [Re://:Swarm](re-swarm.md).
 </div></td>
 <td>Collects 40 <a href="pollen.html">pollen</a> per second.
 </td>
-<td><span typeof="mw:Error mw:File"></span>40,000 <a href="honey.html"><span class="color-template color-template-honey">Honey</span></a>
+<td><img alt="Honey" height="25" src="img/Honey.png" width="25"/>40,000 <a href="honey.html"><span class="color-template color-template-honey">Honey</span></a>
 </td>
 <td><a href="pro-shop.html">Pro Shop</a>
 </td></tr>
@@ -78,7 +78,7 @@ The following is a list of all of the **items** in [Re://:Swarm](re-swarm.md).
 </div></td>
 <td>Collects 58 <a href="pollen.html">pollen</a> per second.
 </td>
-<td><span typeof="mw:Error mw:File"></span>125,000 <a href="honey.html"><span class="color-template color-template-honey">Honey</span></a>
+<td><img alt="Honey" height="25" src="img/Honey.png" width="25"/>125,000 <a href="honey.html"><span class="color-template color-template-honey">Honey</span></a>
 </td>
 <td><a href="pro-shop.html">Pro Shop</a>
 </td></tr>
@@ -87,7 +87,7 @@ The following is a list of all of the **items** in [Re://:Swarm](re-swarm.md).
 </div></td>
 <td>Collects 72 <a href="pollen.html">pollen</a> per second.
 </td>
-<td><span typeof="mw:Error mw:File"></span>300,000 <a href="honey.html"><span class="color-template color-template-honey">Honey</span></a>
+<td><img alt="Honey" height="25" src="img/Honey.png" width="25"/>300,000 <a href="honey.html"><span class="color-template color-template-honey">Honey</span></a>
 </td>
 <td><a href="pro-shop.html">Pro Shop</a>
 </td></tr>
@@ -96,7 +96,7 @@ The following is a list of all of the **items** in [Re://:Swarm](re-swarm.md).
 </div></td>
 <td>Collects 120 <a href="pollen.html">pollen</a> per second.
 </td>
-<td><span typeof="mw:Error mw:File"></span>850,000 <a href="honey.html"><span class="color-template color-template-honey">Honey</span></a>
+<td><img alt="Honey" height="25" src="img/Honey.png" width="25"/>850,000 <a href="honey.html"><span class="color-template color-template-honey">Honey</span></a>
 </td>
 <td><a href="pro-shop.html">Pro Shop</a>
 </td></tr>
@@ -105,7 +105,7 @@ The following is a list of all of the **items** in [Re://:Swarm](re-swarm.md).
 </div></td>
 <td>Collects 108.89 <a href="pollen.html">pollen</a> per second.
 </td>
-<td><span typeof="mw:Error mw:File"></span>1,500,000 <a href="honey.html"><span class="color-template color-template-honey">Honey</span></a>
+<td><img alt="Honey" height="25" src="img/Honey.png" width="25"/>1,500,000 <a href="honey.html"><span class="color-template color-template-honey">Honey</span></a>
 </td>
 <td><a href="pro-shop.html">Pro Shop</a>
 </td></tr>
@@ -114,7 +114,7 @@ The following is a list of all of the **items** in [Re://:Swarm](re-swarm.md).
 </div></td>
 <td>Collects 240 <a href="pollen.html">pollen</a> per second from blue flowers and 120 from white and red flowers.
 </td>
-<td><span typeof="mw:Error mw:File"></span>3,500,000 <a href="honey.html"><span class="color-template color-template-honey">Honey</span></a>
+<td><img alt="Honey" height="25" src="img/Honey.png" width="25"/>3,500,000 <a href="honey.html"><span class="color-template color-template-honey">Honey</span></a>
 </td>
 <td><a href="blue-hq.html">Blue HQ</a>
 </td></tr>
@@ -123,7 +123,7 @@ The following is a list of all of the **items** in [Re://:Swarm](re-swarm.md).
 </div></td>
 <td>Collects 238 <a href="pollen.html">pollen</a> per second from red <a href="flowers.html">flowers</a> and 119 from white and blue flowers.
 </td>
-<td><span typeof="mw:Error mw:File"></span>3,500,000 <a href="honey.html"><span class="color-template color-template-honey">Honey</span></a>
+<td><img alt="Honey" height="25" src="img/Honey.png" width="25"/>3,500,000 <a href="honey.html"><span class="color-template color-template-honey">Honey</span></a>
 </td>
 <td><a href="red-hq.html">Red HQ</a>
 </td></tr>
@@ -132,7 +132,7 @@ The following is a list of all of the **items** in [Re://:Swarm](re-swarm.md).
 </div></td>
 <td>Collects 130 <a href="pollen.html">pollen</a> per second.
 </td>
-<td><span typeof="mw:Error mw:File"></span>7,000,000 <a href="honey.html"><span class="color-template color-template-honey">Honey</span></a><br/>
+<td><img alt="Honey" height="25" src="img/Honey.png" width="25"/>7,000,000 <a href="honey.html"><span class="color-template color-template-honey">Honey</span></a><br/>
 <p><img alt="Glue" height="25" src="img/Glue.png" width="25"/>1 <a href="glue.html"><span class="color-template color-template-glue color-template-background-clip">Glue</span></a><br/>
 <img alt="Oil" height="25" src="img/Oil.png" width="25"/>1 <a href="oil.html"><span class="color-template color-template-oil color-template-background-clip">Oil</span></a><br/>
 <img alt="Soft Wax" height="25" src="img/Soft_Wax.png" width="25"/>5 <a href="soft-wax.html"><span class="color-template color-template-soft-wax">Soft Waxes</span></a><br/>
@@ -147,7 +147,7 @@ The following is a list of all of the **items** in [Re://:Swarm](re-swarm.md).
 </div></td>
 <td>Collects 149.33 <a href="pollen.html">pollen</a> per second (238.93 with supercharged scoop). Every 5th scoop is supercharged to reach further and collect more.
 </td>
-<td><span typeof="mw:Error mw:File"></span>20,000,000 <a href="honey.html"><span class="color-template color-template-honey">Honey</span></a>
+<td><img alt="Honey" height="25" src="img/Honey.png" width="25"/>20,000,000 <a href="honey.html"><span class="color-template color-template-honey">Honey</span></a>
 </td>
 <td><a href="mountain-top-shop.html">Mountain Top Shop</a>
 </td></tr>
@@ -156,7 +156,7 @@ The following is a list of all of the **items** in [Re://:Swarm](re-swarm.md).
 </div></td>
 <td>Collects 345 <a href="pollen.html">pollen</a> per second at full potential.
 </td>
-<td><span typeof="mw:Error mw:File"></span>60,000,000 <a href="honey.html"><span class="color-template color-template-honey">Honey</span></a>
+<td><img alt="Honey" height="25" src="img/Honey.png" width="25"/>60,000,000 <a href="honey.html"><span class="color-template color-template-honey">Honey</span></a>
 </td>
 <td><a href="mountain-top-shop.html">Mountain Top Shop</a>
 </td></tr>
@@ -165,7 +165,7 @@ The following is a list of all of the **items** in [Re://:Swarm](re-swarm.md).
 </div></td>
 <td>Collects 324 <a href="pollen.html">pollen</a> per second from white <a href="flowers.html">flowers</a> and 216 from blue and red flowers. Every 10th scoop summons a pillar of light that collects massive pollen.
 </td>
-<td><span typeof="mw:Error mw:File"></span>150,000,000 <a href="honey.html"><span class="color-template color-template-honey">Honey</span></a>
+<td><img alt="Honey" height="25" src="img/Honey.png" width="25"/>150,000,000 <a href="honey.html"><span class="color-template color-template-honey">Honey</span></a>
 </td>
 <td><a href="mountain-top-shop.html">Mountain Top Shop</a>
 </td></tr>
@@ -249,7 +249,7 @@ The following is a list of all of the **items** in [Re://:Swarm](re-swarm.md).
 </div></td>
 <td>Holds 200 <a href="pollen.html">pollen</a>.
 </td>
-<td><span typeof="mw:Error mw:File"></span>0 <a href="honey.html"><span class="color-template color-template-honey">Honey</span></a>(Default bag)
+<td><img alt="Honey" height="25" src="img/Honey.png" width="25"/>0 <a href="honey.html"><span class="color-template color-template-honey">Honey</span></a>(Default bag)
 </td>
 <td><a href="noob-shop.html">Noob Shop</a>
 </td></tr>
@@ -258,7 +258,7 @@ The following is a list of all of the **items** in [Re://:Swarm](re-swarm.md).
 </div></td>
 <td>Holds 750 <a href="pollen.html">pollen</a>.
 </td>
-<td><span typeof="mw:Error mw:File"></span>650 <a href="honey.html"><span class="color-template color-template-honey">Honey</span></a>
+<td><img alt="Honey" height="25" src="img/Honey.png" width="25"/>650 <a href="honey.html"><span class="color-template color-template-honey">Honey</span></a>
 </td>
 <td><a href="noob-shop.html">Noob Shop</a>
 </td></tr>
@@ -267,7 +267,7 @@ The following is a list of all of the **items** in [Re://:Swarm](re-swarm.md).
 </div></td>
 <td>Holds 3,500 <a href="pollen.html">pollen</a>.
 </td>
-<td><span typeof="mw:Error mw:File"></span>5,500 <a href="honey.html"><span class="color-template color-template-honey">Honey</span></a>
+<td><img alt="Honey" height="25" src="img/Honey.png" width="25"/>5,500 <a href="honey.html"><span class="color-template color-template-honey">Honey</span></a>
 </td>
 <td><a href="noob-shop.html">Noob Shop</a>
 </td></tr>
@@ -277,7 +277,7 @@ The following is a list of all of the **items** in [Re://:Swarm](re-swarm.md).
 <td>Holds 10,000 <a href="pollen.html">pollen</a>.
 <ul><li>+30% <a href="system-page.html#Convert_Rate">Convert Rate</a></li></ul>
 </td>
-<td><span typeof="mw:Error mw:File"></span>22,000 <a href="honey.html"><span class="color-template color-template-honey">Honey</span></a>
+<td><img alt="Honey" height="25" src="img/Honey.png" width="25"/>22,000 <a href="honey.html"><span class="color-template color-template-honey">Honey</span></a>
 </td>
 <td><a href="noob-shop.html">Noob Shop</a>
 </td></tr>
@@ -287,7 +287,7 @@ The following is a list of all of the **items** in [Re://:Swarm](re-swarm.md).
 <td>Holds 25,000 <a href="pollen.html">pollen</a>.
 <ul><li>+40% <a href="system-page.html#Convert_Rate">Convert Rate</a></li></ul>
 </td>
-<td><span typeof="mw:Error mw:File"></span>50,000 <a href="honey.html"><span class="color-template color-template-honey">Honey</span></a>
+<td><img alt="Honey" height="25" src="img/Honey.png" width="25"/>50,000 <a href="honey.html"><span class="color-template color-template-honey">Honey</span></a>
 </td>
 <td><a href="pro-shop.html">Pro Shop</a>
 </td></tr>
@@ -297,7 +297,7 @@ The following is a list of all of the **items** in [Re://:Swarm](re-swarm.md).
 <td>Holds 50,000 <a href="pollen.html">pollen</a>.
 <ul><li>+55% <a href="system-page.html#Convert_Rate">Convert Rate</a></li></ul>
 </td>
-<td><span typeof="mw:Error mw:File"></span>160,000 <a href="honey.html"><span class="color-template color-template-honey">Honey</span></a>
+<td><img alt="Honey" height="25" src="img/Honey.png" width="25"/>160,000 <a href="honey.html"><span class="color-template color-template-honey">Honey</span></a>
 </td>
 <td><a href="pro-shop.html">Pro Shop</a>
 </td></tr>
@@ -307,7 +307,7 @@ The following is a list of all of the **items** in [Re://:Swarm](re-swarm.md).
 <td>Holds 125,000 <a href="pollen.html">pollen</a>.
 <ul><li>+70% <a href="system-page.html#Convert_Rate">Convert Rate</a></li></ul>
 </td>
-<td><span typeof="mw:Error mw:File"></span>650,000 <a href="honey.html"><span class="color-template color-template-honey">Honey</span></a>
+<td><img alt="Honey" height="25" src="img/Honey.png" width="25"/>650,000 <a href="honey.html"><span class="color-template color-template-honey">Honey</span></a>
 </td>
 <td><a href="pro-shop.html">Pro Shop</a>
 </td></tr>
@@ -318,7 +318,7 @@ The following is a list of all of the **items** in [Re://:Swarm](re-swarm.md).
 <ul><li>+100% <a href="system-page.html#Convert_Rate">Convert Rate</a></li>
 <li>+5% <a href="instant-conversion.html">Instant Conversion</a>.</li></ul>
 </td>
-<td><span typeof="mw:Error mw:File"></span>1,250,000 <a href="honey.html"><span class="color-template color-template-honey">Honey</span></a>
+<td><img alt="Honey" height="25" src="img/Honey.png" width="25"/>1,250,000 <a href="honey.html"><span class="color-template color-template-honey">Honey</span></a>
 </td>
 <td><a href="pro-shop.html">Pro Shop</a>
 </td></tr>
@@ -331,7 +331,7 @@ The following is a list of all of the **items** in [Re://:Swarm](re-swarm.md).
 <li>+5% <a href="system-page.html#Blue_Pollen">Blue Pollen</a></li>
 <li>+1 <a href="system-page.html#Blue_Attack">Blue Bee Attack</a></li></ul>
 </td>
-<td><span typeof="mw:Error mw:File"></span>12,500,000 <a href="honey.html"><span class="color-template color-template-honey">Honey</span></a><br/>
+<td><img alt="Honey" height="25" src="img/Honey.png" width="25"/>12,500,000 <a href="honey.html"><span class="color-template color-template-honey">Honey</span></a><br/>
 <p><img alt="Blue Extract" height="25" src="img/Blue_Extract.png" width="25"/>2 <a href="blue-extract.html"><span class="color-template color-template-blue-extract color-template-background-clip">Blue Extracts</span></a><br/>
 <img alt="Soft Wax" height="25" src="img/Soft_Wax.png" width="25"/>2 <a href="soft-wax.html"><span class="color-template color-template-soft-wax">Soft Waxes</span></a>
 </p>
@@ -347,7 +347,7 @@ The following is a list of all of the **items** in [Re://:Swarm](re-swarm.md).
 <li>+5% <a href="system-page.html#Red_Pollen">Red Pollen</a></li>
 <li>+1 <a href="system-page.html#Red_Attack">Red Bee Attack</a></li></ul>
 </td>
-<td><span typeof="mw:Error mw:File"></span>12,500,000 <a href="honey.html"><span class="color-template color-template-honey">Honey</span></a><br/>
+<td><img alt="Honey" height="25" src="img/Honey.png" width="25"/>12,500,000 <a href="honey.html"><span class="color-template color-template-honey">Honey</span></a><br/>
 <p><img alt="Red Extract" height="25" src="img/Red_Extract.png" width="25"/>2 <a href="red-extract.html"><span class="color-template color-template-red-extract color-template-background-clip">Red Extracts</span></a><br/>
 <img alt="Soft Wax" height="25" src="img/Soft_Wax.png" width="25"/>2 <a href="soft-wax.html"><span class="color-template color-template-soft-wax">Soft Waxes</span></a>
 </p>
@@ -365,7 +365,7 @@ The following is a list of all of the **items** in [Re://:Swarm](re-swarm.md).
 <li>+10% <a href="system-page.html#Blue_Pollen">Blue Pollen</a></li>
 <li>+1 <a href="system-page.html#Bee_Attack">Bee Attack</a></li></ul>
 </td>
-<td><span typeof="mw:Error mw:File"></span>250,000,000 <a href="honey.html"><span class="color-template color-template-honey">Honey</span></a><br/>
+<td><img alt="Honey" height="25" src="img/Honey.png" width="25"/>250,000,000 <a href="honey.html"><span class="color-template color-template-honey">Honey</span></a><br/>
 <p><img alt="Glitter" height="25" src="img/Glitter.png" width="25"/>3 <a href="glitter.html"><span class="color-template color-template-glitter color-template-background-clip">Glitter</span></a><br/>
 <img alt="Soft Wax" height="25" src="img/Soft_Wax.png" width="25"/>3 <a href="soft-wax.html"><span class="color-template color-template-soft-wax">Soft Waxes</span></a><br/>
 <img alt="Moon Charm" height="25" src="img/Moon_Charm.png" width="25"/>10 <a href="moon-charm.html"><span class="color-template color-template-moon-charm color-template-background-clip">Moon Charms</span></a>
@@ -416,7 +416,7 @@ The following is a list of all of the **items** in [Re://:Swarm](re-swarm.md).
 <ul><li>+10% <a href="pollen.html">Pollen</a></li>
 <li>+25% <a href="system-page.html#Defense">Defense</a></li></ul>
 </td>
-<td><span typeof="mw:Error mw:File"></span>30,000 <a href="honey.html"><span class="color-template color-template-honey">Honey</span></a><br/>
+<td><img alt="Honey" height="25" src="img/Honey.png" width="25"/>30,000 <a href="honey.html"><span class="color-template color-template-honey">Honey</span></a><br/>
 <p><img alt="Pineapple" height="25" src="img/Pineapple.png" width="25"/>5 <a href="pineapple.html"><span class="color-template color-template-pineapple color-template-background-clip">Pineapples</span></a><br/>
 <img alt="Moon Charm" height="25" src="img/Moon_Charm.png" width="25"/>1 <a href="moon-charm.html"><span class="color-template color-template-moon-charm color-template-background-clip">Moon Charm</span></a>
 </p>
@@ -432,7 +432,7 @@ The following is a list of all of the **items** in [Re://:Swarm](re-swarm.md).
 <li>+10% <a href="system-page.html#Defense">Defense</a></li>
 <li>+10 <a href="system-page.html#Jump_Power">Jump Power</a></li></ul>
 </td>
-<td><span typeof="mw:Error mw:File"></span>2,500,000 <a href="honey.html"><span class="color-template color-template-honey">Honey</span></a><br/>
+<td><img alt="Honey" height="25" src="img/Honey.png" width="25"/>2,500,000 <a href="honey.html"><span class="color-template color-template-honey">Honey</span></a><br/>
 <p><img alt="Gumdrops" height="25" src="img/Gumdrops.png" width="25"/>25 <a href="gumdrops.html"><span class="color-template color-template-gumdrops color-template-background-clip">Gumdrops</span></a><br/>
 <img alt="Pineapple" height="25" src="img/Pineapple.png" width="25"/>100 <a href="pineapple.html"><span class="color-template color-template-pineapple color-template-background-clip">Pineapples</span></a><br/>
 <img alt="Moon Charm" height="25" src="img/Moon_Charm.png" width="25"/>5 <a href="moon-charm.html"><span class="color-template color-template-moon-charm color-template-background-clip">Moon Charms</span></a>
@@ -449,7 +449,7 @@ The following is a list of all of the **items** in [Re://:Swarm](re-swarm.md).
 <li>+10% <a href="system-page.html#Bee_Ability_Rate">Bee Ability Rate</a></li>
 <li>+25% <a href="system-page.html#Defense">Defense</a></li></ul>
 </td>
-<td><span typeof="mw:Error mw:File"></span>20,000,000 <a href="honey.html"><span class="color-template color-template-honey">Honey</span></a><br/>
+<td><img alt="Honey" height="25" src="img/Honey.png" width="25"/>20,000,000 <a href="honey.html"><span class="color-template color-template-honey">Honey</span></a><br/>
 <p><img alt="Enzymes" height="25" src="img/Enzymes.png" width="25"/>5 <a href="enzymes.html"><span class="color-template color-template-enzymes color-template-background-clip">Enzymes</span></a><br/>
 <img alt="Glue" height="25" src="img/Glue.png" width="25"/>3 <a href="glue.html"><span class="color-template color-template-glue color-template-background-clip">Glues</span></a><br/>
 <img alt="Glitter" height="25" src="img/Glitter.png" width="25"/>1 <a href="glitter.html"><span class="color-template color-template-glitter color-template-background-clip">Glitter</span></a>
@@ -470,7 +470,7 @@ The following is a list of all of the **items** in [Re://:Swarm](re-swarm.md).
 <li>+15% <a href="system-page.html#Bee_Ability_Rate">Bee Ability Rate</a></li>
 <li><a href="passive-abilities.html#Coin_Scatter">+Passive: Coin Scatter</a></li></ul>
 </td>
-<td><span typeof="mw:Error mw:File"></span>100,000,000 <a href="honey.html"><span class="color-template color-template-honey">Honey</span></a><br/>
+<td><img alt="Honey" height="25" src="img/Honey.png" width="25"/>100,000,000 <a href="honey.html"><span class="color-template color-template-honey">Honey</span></a><br/>
 <p><img alt="Treat" height="25" src="img/Treat.png" width="25"/>9,999 <a href="treat.html"><span class="color-template color-template-treat">Treats</span></a><br/>
 <img alt="Oil" height="25" src="img/Oil.png" width="25"/>50 <a href="oil.html"><span class="color-template color-template-oil color-template-background-clip">Oils</span></a><br/>
 <img alt="Enzymes" height="25" src="img/Enzymes.png" width="25"/>25 <a href="enzymes.html"><span class="color-template color-template-enzymes color-template-background-clip">Enzymes</span></a><br/>
@@ -492,7 +492,7 @@ The following is a list of all of the **items** in [Re://:Swarm](re-swarm.md).
 <li>+15% <a href="system-page.html#Bee_Ability_Rate">Bee Ability Rate</a></li>
 <li><a href="passive-abilities.html#Ignite">+Passive: Ignite</a></li></ul>
 </td>
-<td><span typeof="mw:Error mw:File"></span>100,000,000 <a href="honey.html"><span class="color-template color-template-honey">Honey</span></a><br/>
+<td><img alt="Honey" height="25" src="img/Honey.png" width="25"/>100,000,000 <a href="honey.html"><span class="color-template color-template-honey">Honey</span></a><br/>
 <p><img alt="Strawberry" height="25" src="img/Strawberry.png" width="25"/>500 <a href="strawberry.html"><span class="color-template color-template-strawberry color-template-background-clip">Strawberries</span></a><br/>
 <img alt="Red Extract" height="25" src="img/Red_Extract.png" width="25"/>50 <a href="red-extract.html"><span class="color-template color-template-red-extract color-template-background-clip">Red Extracts</span></a><br/>
 <img alt="Enzymes" height="25" src="img/Enzymes.png" width="25"/>25 <a href="enzymes.html"><span class="color-template color-template-enzymes color-template-background-clip">Enzymes</span></a><br/>
@@ -513,7 +513,7 @@ The following is a list of all of the **items** in [Re://:Swarm](re-swarm.md).
 <li>+15% <a href="system-page.html#Bee_Ability_Rate">Bee Ability Rate</a></li>
 <li><a href="passive-abilities.html#Bubble_Bombs">+Passive: Bubble Bombs</a></li></ul>
 </td>
-<td><span typeof="mw:Error mw:File"></span>100,000,000 <a href="honey.html"><span class="color-template color-template-honey">Honey</span></a><br/>
+<td><img alt="Honey" height="25" src="img/Honey.png" width="25"/>100,000,000 <a href="honey.html"><span class="color-template color-template-honey">Honey</span></a><br/>
 <p><img alt="Blueberry" height="25" src="img/Blueberry.png" width="25"/>500 <a href="blueberry.html"><span class="color-template color-template-blueberry color-template-background-clip">Blueberries</span></a><br/>
 <img alt="Blue Extract" height="25" src="img/Blue_Extract.png" width="25"/>50 <a href="blue-extract.html"><span class="color-template color-template-blue-extract color-template-background-clip">Blue Extracts</span></a><br/>
 <img alt="Oil" height="25" src="img/Oil.png" width="25"/>25 <a href="oil.html"><span class="color-template color-template-oil color-template-background-clip">Oils</span></a><br/>
@@ -648,7 +648,7 @@ The following is a list of all of the **items** in [Re://:Swarm](re-swarm.md).
 <li>+5% <a href="system-page.html#White_Pollen">White Pollen</a></li>
 <li>+1 <a href="system-page.html#Colorless_Attack">Colorless Bee Attack</a></li></ul>
 </td>
-<td><span typeof="mw:Error mw:File"></span>300,000 <a href="honey.html"><span class="color-template color-template-honey">Honey</span></a><br/>
+<td><img alt="Honey" height="25" src="img/Honey.png" width="25"/>300,000 <a href="honey.html"><span class="color-template color-template-honey">Honey</span></a><br/>
 <p><img alt="Stinger" height="25" src="img/Stinger.png" width="25"/>3 <a href="stinger.html"><span class="color-template color-template-stinger color-template-background-clip">Stingers</span></a>
 </p>
 </td>
@@ -663,7 +663,7 @@ The following is a list of all of the **items** in [Re://:Swarm](re-swarm.md).
 <li>+1% <a href="stats.html#Speed">Bee Movespeed</a></li>
 <li>x1.1 <a href="system-page.html#Movespeed">Player Movespeed</a></li></ul>
 </td>
-<td><span typeof="mw:Error mw:File"></span>300,000 <a href="honey.html"><span class="color-template color-template-honey">Honey</span></a><br/>
+<td><img alt="Honey" height="25" src="img/Honey.png" width="25"/>300,000 <a href="honey.html"><span class="color-template color-template-honey">Honey</span></a><br/>
 <p><img alt="Moon Charm" height="25" src="img/Moon_Charm.png" width="25"/>5 <a href="moon-charm.html"><span class="color-template color-template-moon-charm color-template-background-clip">Moon Charms</span></a>
 </p>
 </td>
@@ -678,7 +678,7 @@ The following is a list of all of the **items** in [Re://:Swarm](re-swarm.md).
 <li>+5% <a href="system-page.html#White_Pollen">White Pollen</a></li>
 <li>+15% <a href="system-page.html#Bomb_Pollen">Bomb Pollen</a></li></ul>
 </td>
-<td><span typeof="mw:Error mw:File"></span>300,000 <a href="honey.html"><span class="color-template color-template-honey">Honey</span></a><br/>
+<td><img alt="Honey" height="25" src="img/Honey.png" width="25"/>300,000 <a href="honey.html"><span class="color-template color-template-honey">Honey</span></a><br/>
 <p><img alt="Sunflower Seed" height="25" src="img/Sunflower_Seed.png" width="25"/>25 <a href="sunflower-seed.html"><span class="color-template color-template-sunflower-seed color-template-background-clip">Sunflower Seeds</span></a>
 </p>
 </td>
@@ -693,7 +693,7 @@ The following is a list of all of the **items** in [Re://:Swarm](re-swarm.md).
 <li>+1% <a href="system-page.html#Critical_Chance">Critical Chance</a></li>
 <li>+25% <a href="system-page.html#Critical_Power">Critical Power</a></li></ul>
 </td>
-<td><span typeof="mw:Error mw:File"></span>300,000 <a href="honey.html"><span class="color-template color-template-honey">Honey</span></a><br/>
+<td><img alt="Honey" height="25" src="img/Honey.png" width="25"/>300,000 <a href="honey.html"><span class="color-template color-template-honey">Honey</span></a><br/>
 <p><img alt="Sunflower Seed" height="25" src="img/Sunflower_Seed.png" width="25"/>25 <a href="sunflower-seed.html"><span class="color-template color-template-sunflower-seed color-template-background-clip">Sunflower Seeds</span></a>
 </p>
 </td>
@@ -709,7 +709,7 @@ The following is a list of all of the **items** in [Re://:Swarm](re-swarm.md).
 <li>+5% <a href="system-page.html#Defense">Defense</a></li>
 <li>+1 <a href="system-page.html#Blue_Attack">Blue Bee Attack</a></li></ul>
 </td>
-<td><span typeof="mw:Error mw:File"></span>1,000,000 <a href="honey.html"><span class="color-template color-template-honey">Honey</span></a><br/>
+<td><img alt="Honey" height="25" src="img/Honey.png" width="25"/>1,000,000 <a href="honey.html"><span class="color-template color-template-honey">Honey</span></a><br/>
 <p><img alt="Blueberry" height="25" src="img/Blueberry.png" width="25"/>50 <a href="blueberry.html"><span class="color-template color-template-blueberry color-template-background-clip">Blueberries</span></a><br/>
 <img alt="Royal Jelly" height="25" src="img/Royal_Jelly.png" width="25"/>1 <a href="royal-jelly.html"><span class="color-template color-template-royal-jelly color-template-background-clip">Royal Jelly</span></a><br/>
 <img alt="Moon Charm" height="25" src="img/Moon_Charm.png" width="25"/>3 <a href="moon-charm.html"><span class="color-template color-template-moon-charm color-template-background-clip">Moon Charms</span></a>
@@ -728,7 +728,7 @@ The following is a list of all of the **items** in [Re://:Swarm](re-swarm.md).
 <li>+50% <a href="system-page.html#Critical_Power">Critical Power</a></li>
 <li>+1 <a href="system-page.html#Blue_Attack">Blue Bee Attack</a></li></ul>
 </td>
-<td><span typeof="mw:Error mw:File"></span>5,000,000 <a href="honey.html"><span class="color-template color-template-honey">Honey</span></a><br/>
+<td><img alt="Honey" height="25" src="img/Honey.png" width="25"/>5,000,000 <a href="honey.html"><span class="color-template color-template-honey">Honey</span></a><br/>
 <p><img alt="Blue Extract" height="25" src="img/Blue_Extract.png" width="25"/>3 <a href="blue-extract.html"><span class="color-template color-template-blue-extract color-template-background-clip">Blue Extracts</span></a><br/>
 <img alt="Blueberry" height="25" src="img/Blueberry.png" width="25"/>50 <a href="blueberry.html"><span class="color-template color-template-blueberry color-template-background-clip">Blueberries</span></a><br/>
 <img alt="Royal Jelly" height="25" src="img/Royal_Jelly.png" width="25"/>5 <a href="royal-jelly.html"><span class="color-template color-template-royal-jelly color-template-background-clip">Royal Jellies</span></a><br/>
@@ -748,7 +748,7 @@ The following is a list of all of the **items** in [Re://:Swarm](re-swarm.md).
 <li>+75% <a href="system-page.html#Critical_Power">Critical Power</a></li>
 <li>+2 <a href="system-page.html#Blue_Attack">Blue Bee Attack</a></li></ul>
 </td>
-<td><span typeof="mw:Error mw:File"></span>30,000,000 <a href="honey.html"><span class="color-template color-template-honey">Honey</span></a><br/>
+<td><img alt="Honey" height="25" src="img/Honey.png" width="25"/>30,000,000 <a href="honey.html"><span class="color-template color-template-honey">Honey</span></a><br/>
 <p><img alt="Blue Extract" height="25" src="img/Blue_Extract.png" width="25"/>10 <a href="blue-extract.html"><span class="color-template color-template-blue-extract color-template-background-clip">Blue Extracts</span></a><br/>
 <img alt="Blueberry" height="25" src="img/Blueberry.png" width="25"/>100 <a href="blueberry.html"><span class="color-template color-template-blueberry color-template-background-clip">Blueberries</span></a><br/>
 <img alt="Glue" height="25" src="img/Glue.png" width="25"/>5 <a href="glue.html"><span class="color-template color-template-glue color-template-background-clip">Glues</span></a><br/>
@@ -767,7 +767,7 @@ The following is a list of all of the **items** in [Re://:Swarm](re-swarm.md).
 <li>+5% <a href="system-page.html#Defense">Defense</a></li>
 <li>+1 <a href="system-page.html#Red_Attack">Red Bee Attack</a></li></ul>
 </td>
-<td><span typeof="mw:Error mw:File"></span>750,000 <a href="honey.html"><span class="color-template color-template-honey">Honey</span></a><br/>
+<td><img alt="Honey" height="25" src="img/Honey.png" width="25"/>750,000 <a href="honey.html"><span class="color-template color-template-honey">Honey</span></a><br/>
 <p><img alt="Strawberry" height="25" src="img/Strawberry.png" width="25"/>50 <a href="strawberry.html"><span class="color-template color-template-strawberry color-template-background-clip">Strawberries</span></a><br/>
 <img alt="Royal Jelly" height="25" src="img/Royal_Jelly.png" width="25"/>1 <a href="royal-jelly.html"><span class="color-template color-template-royal-jelly color-template-background-clip">Royal Jelly</span></a><br/>
 <img alt="Stinger" height="25" src="img/Stinger.png" width="25"/>1 <a href="stinger.html"><span class="color-template color-template-stinger color-template-background-clip">Stinger</span></a>
@@ -786,7 +786,7 @@ The following is a list of all of the **items** in [Re://:Swarm](re-swarm.md).
 <li>+5% <a href="system-page.html#Critical_Chance">Critical Chance</a></li>
 <li>+1 <a href="system-page.html#Red_Attack">Red Bee Attack</a></li></ul>
 </td>
-<td><span typeof="mw:Error mw:File"></span>5,000,000 <a href="honey.html"><span class="color-template color-template-honey">Honey</span></a><br/>
+<td><img alt="Honey" height="25" src="img/Honey.png" width="25"/>5,000,000 <a href="honey.html"><span class="color-template color-template-honey">Honey</span></a><br/>
 <p><img alt="Red Extract" height="25" src="img/Red_Extract.png" width="25"/>3 <a href="red-extract.html"><span class="color-template color-template-red-extract color-template-background-clip">Red Extracts</span></a><br/>
 <img alt="Strawberry" height="25" src="img/Strawberry.png" width="25"/>50 <a href="strawberry.html"><span class="color-template color-template-strawberry color-template-background-clip">Strawberries</span></a><br/>
 <img alt="Royal Jelly" height="25" src="img/Royal_Jelly.png" width="25"/>5 <a href="royal-jelly.html"><span class="color-template color-template-royal-jelly color-template-background-clip">Royal Jellies</span></a><br/>
@@ -806,7 +806,7 @@ The following is a list of all of the **items** in [Re://:Swarm](re-swarm.md).
 <li>+8% <a href="system-page.html#Critical_Chance">Critical Chance</a></li>
 <li>+2 <a href="system-page.html#Red_Attack">Red Bee Attack</a></li></ul>
 </td>
-<td><span typeof="mw:Error mw:File"></span>30,000,000 <a href="honey.html"><span class="color-template color-template-honey">Honey</span></a><br/>
+<td><img alt="Honey" height="25" src="img/Honey.png" width="25"/>30,000,000 <a href="honey.html"><span class="color-template color-template-honey">Honey</span></a><br/>
 <p><img alt="Red Extract" height="25" src="img/Red_Extract.png" width="25"/>10 <a href="red-extract.html"><span class="color-template color-template-red-extract color-template-background-clip">Red Extracts</span></a><br/>
 <img alt="Strawberry" height="25" src="img/Strawberry.png" width="25"/>100 <a href="strawberry.html"><span class="color-template color-template-strawberry color-template-background-clip">Strawberries</span></a><br/>
 <img alt="Glue" height="25" src="img/Glue.png" width="25"/>5 <a href="glue.html"><span class="color-template color-template-glue color-template-background-clip">Glues</span></a><br/>
@@ -828,7 +828,7 @@ The following is a list of all of the **items** in [Re://:Swarm](re-swarm.md).
 <li>+100% <a href="system-page.html#Critical_Power">Critical Power</a></li>
 <li><a href="passive-abilities.html#Haste_Pulser">+Passive: Haste Pulser</a></li></ul>
 </td>
-<td><span typeof="mw:Error mw:File"></span>200,000,000 <a href="honey.html"><span class="color-template color-template-honey">Honey</span></a><br/>
+<td><img alt="Honey" height="25" src="img/Honey.png" width="25"/>200,000,000 <a href="honey.html"><span class="color-template color-template-honey">Honey</span></a><br/>
 <p><img alt="Blue Extract" height="25" src="img/Blue_Extract.png" width="25"/>100 <a href="blue-extract.html"><span class="color-template color-template-blue-extract color-template-background-clip">Blue Extracts</span></a><br/>
 <img alt="Stinger" height="25" src="img/Stinger.png" width="25"/>100 <a href="stinger.html"><span class="color-template color-template-stinger color-template-background-clip">Stingers</span></a><br/>
 <img alt="Enzymes" height="25" src="img/Enzymes.png" width="25"/>50 <a href="enzymes.html"><span class="color-template color-template-enzymes color-template-background-clip">Enzymes</span></a><br/>
@@ -850,7 +850,7 @@ The following is a list of all of the **items** in [Re://:Swarm](re-swarm.md).
 <li>+10% <a href="system-page.html#Critical_Chance">Critical Chance</a></li>
 <li><a href="passive-abilities.html#Focus_Pulser">+Passive: Focus Pulser</a></li></ul>
 </td>
-<td><span typeof="mw:Error mw:File"></span>200,000,000 <a href="honey.html"><span class="color-template color-template-honey">Honey</span></a><br/>
+<td><img alt="Honey" height="25" src="img/Honey.png" width="25"/>200,000,000 <a href="honey.html"><span class="color-template color-template-honey">Honey</span></a><br/>
 <p><img alt="Red Extract" height="25" src="img/Red_Extract.png" width="25"/>100 <a href="red-extract.html"><span class="color-template color-template-red-extract color-template-background-clip">Red Extracts</span></a><br/>
 <img alt="Stinger" height="25" src="img/Stinger.png" width="25"/>100 <a href="stinger.html"><span class="color-template color-template-stinger color-template-background-clip">Stingers</span></a><br/>
 <img alt="Oil" height="25" src="img/Oil.png" width="25"/>50 <a href="oil.html"><span class="color-template color-template-oil color-template-background-clip">Oils</span></a><br/>
@@ -880,7 +880,7 @@ The following is a list of all of the **items** in [Re://:Swarm](re-swarm.md).
 <li>+10 <a href="system-page.html#Convert_Amount">Convert Amount</a></li>
 <li>+15% <a href="loot-luck.html">Loot Luck</a></li></ul>
 </td>
-<td><span typeof="mw:Error mw:File"></span>14,000 <a href="honey.html"><span class="color-template color-template-honey">Honey</span></a><br/>
+<td><img alt="Honey" height="25" src="img/Honey.png" width="25"/>14,000 <a href="honey.html"><span class="color-template color-template-honey">Honey</span></a><br/>
 <p><img alt="Sunflower Seed" height="25" src="img/Sunflower_Seed.png" width="25"/>10 <a href="sunflower-seed.html"><span class="color-template color-template-sunflower-seed color-template-background-clip">Sunflower Seeds</span></a>
 </p>
 </td>
@@ -896,7 +896,7 @@ The following is a list of all of the **items** in [Re://:Swarm](re-swarm.md).
 <li>+20 <a href="system-page.html#Convert_Amount">Convert Amount</a></li>
 <li>+50% <a href="loot-luck.html">Loot Luck</a></li></ul>
 </td>
-<td><span typeof="mw:Error mw:File"></span>440,000 <a href="honey.html"><span class="color-template color-template-honey">Honey</span></a><br/>
+<td><img alt="Honey" height="25" src="img/Honey.png" width="25"/>440,000 <a href="honey.html"><span class="color-template color-template-honey">Honey</span></a><br/>
 <p><img alt="Pineapple" height="25" src="img/Pineapple.png" width="25"/>50 <a href="pineapple.html"><span class="color-template color-template-pineapple color-template-background-clip">Pineapples</span></a><br/>
 <img alt="Sunflower Seed" height="25" src="img/Sunflower_Seed.png" width="25"/>50 <a href="sunflower-seed.html"><span class="color-template color-template-sunflower-seed color-template-background-clip">Sunflower Seeds</span></a><br/>
 <img alt="Stinger" height="25" src="img/Stinger.png" width="25"/>3 <a href="stinger.html"><span class="color-template color-template-stinger color-template-background-clip">Stingers</span></a>
@@ -912,7 +912,7 @@ The following is a list of all of the **items** in [Re://:Swarm](re-swarm.md).
 <li>+50 <a href="system-page.html#Convert_Amount">Convert Amount</a></li>
 <li>+75% <a href="loot-luck.html">Loot Luck</a></li></ul>
 </td>
-<td><span typeof="mw:Error mw:File"></span>12,400,000 <a href="honey.html"><span class="color-template color-template-honey">Honey</span></a><br/>
+<td><img alt="Honey" height="25" src="img/Honey.png" width="25"/>12,400,000 <a href="honey.html"><span class="color-template color-template-honey">Honey</span></a><br/>
 <p><img alt="Soft Wax" height="25" src="img/Soft_Wax.png" width="25"/>1 <a href="soft-wax.html"><span class="color-template color-template-soft-wax">Soft Wax</span></a><br/>
 <img alt="Pineapple" height="25" src="img/Pineapple.png" width="25"/>150 <a href="pineapple.html"><span class="color-template color-template-pineapple color-template-background-clip">Pineapples</span></a><br/>
 <img alt="Sunflower Seed" height="25" src="img/Sunflower_Seed.png" width="25"/>150 <a href="sunflower-seed.html"><span class="color-template color-template-sunflower-seed color-template-background-clip">Sunflower Seeds</span></a><br/>
@@ -933,7 +933,7 @@ The following is a list of all of the **items** in [Re://:Swarm](re-swarm.md).
 <li>+50% <a href="system-page.html#Honey_From_Tokens">Honey From Tokens</a></li>
 <li>+1 <a href="system-page.html#Colorless_Attack">Colorless Bee Attack</a></li></ul>
 </td>
-<td><span typeof="mw:Error mw:File"></span>75,000,000 <a href="honey.html"><span class="color-template color-template-honey">Honey</span></a><br/>
+<td><img alt="Honey" height="25" src="img/Honey.png" width="25"/>75,000,000 <a href="honey.html"><span class="color-template color-template-honey">Honey</span></a><br/>
 <p><img alt="Enzymes" height="25" src="img/Enzymes.png" width="25"/>50 <a href="enzymes.html"><span class="color-template color-template-enzymes color-template-background-clip">Enzymes</span></a><br/>
 <img alt="Glue" height="25" src="img/Glue.png" width="25"/>50 <a href="glue.html"><span class="color-template color-template-glue color-template-background-clip">Glues</span></a><br/>
 <img alt="Oil" height="25" src="img/Oil.png" width="25"/>25 <a href="oil.html"><span class="color-template color-template-oil color-template-background-clip">Oils</span></a>
@@ -1009,7 +1009,7 @@ The following is a list of all of the **items** in [Re://:Swarm](re-swarm.md).
 <ul><li>+4 <a href="system-page.html#Movespeed">Player Movespeed</a></li>
 <li>+2 <a href="movement-collection.html">Movement Collection</a></li></ul>
 </td>
-<td><span typeof="mw:Error mw:File"></span>4,400 <a href="honey.html"><span class="color-template color-template-honey">Honey</span></a><br/>
+<td><img alt="Honey" height="25" src="img/Honey.png" width="25"/>4,400 <a href="honey.html"><span class="color-template color-template-honey">Honey</span></a><br/>
 <p><img alt="Sunflower Seed" height="25" src="img/Sunflower_Seed.png" width="25"/>3 <a href="sunflower-seed.html"><span class="color-template color-template-sunflower-seed color-template-background-clip">Sunflower Seeds</span></a><br/>
 <img alt="Blueberry" height="25" src="img/Blueberry.png" width="25"/>3 <a href="blueberry.html"><span class="color-template color-template-blueberry color-template-background-clip">Blueberries</span></a>
 </p>
@@ -1024,7 +1024,7 @@ The following is a list of all of the **items** in [Re://:Swarm](re-swarm.md).
 <li>+10 <a href="system-page.html#Jump_Power">Jump Power</a></li>
 <li>+6 <a href="movement-collection.html">Movement Collection</a></li></ul>
 </td>
-<td><span typeof="mw:Error mw:File"></span>2,200,000 <a href="honey.html"><span class="color-template color-template-honey">Honey</span></a><br/>
+<td><img alt="Honey" height="25" src="img/Honey.png" width="25"/>2,200,000 <a href="honey.html"><span class="color-template color-template-honey">Honey</span></a><br/>
 <p><img alt="Blueberry" height="25" src="img/Blueberry.png" width="25"/>50 <a href="blueberry.html"><span class="color-template color-template-blueberry color-template-background-clip">Blueberries</span></a><br/>
 <img alt="Strawberry" height="25" src="img/Strawberry.png" width="25"/>50 <a href="strawberry.html"><span class="color-template color-template-strawberry color-template-background-clip">Strawberries</span></a>
 </p>
@@ -1040,7 +1040,7 @@ The following is a list of all of the **items** in [Re://:Swarm](re-swarm.md).
 <li>+20 <a href="system-page.html#Jump_Power">Jump Power</a></li>
 <li>+10 <a href="movement-collection.html">Movement Collection</a></li></ul>
 </td>
-<td><span typeof="mw:Error mw:File"></span>15,000,000 <a href="honey.html"><span class="color-template color-template-honey">Honey</span></a><br/>
+<td><img alt="Honey" height="25" src="img/Honey.png" width="25"/>15,000,000 <a href="honey.html"><span class="color-template color-template-honey">Honey</span></a><br/>
 <p><img alt="Oil" height="25" src="img/Oil.png" width="25"/>5 <a href="oil.html"><span class="color-template color-template-oil color-template-background-clip">Oils</span></a><br/>
 <img alt="Red Extract" height="25" src="img/Red_Extract.png" width="25"/>3 <a href="red-extract.html"><span class="color-template color-template-red-extract color-template-background-clip">Red Extracts</span></a><br/>
 <img alt="Blue Extract" height="25" src="img/Blue_Extract.png" width="25"/>3 <a href="blue-extract.html"><span class="color-template color-template-blue-extract color-template-background-clip">Blue Extracts</span></a>
@@ -1194,7 +1194,7 @@ The following is a list of all of the **items** in [Re://:Swarm](re-swarm.md).
 </div></td>
 <td>A parachute you can use to glide down the mountain and reach new places! Press jump while in the air to open.
 </td>
-<td><span typeof="mw:Error mw:File"></span>500,000 <a href="honey.html"><span class="color-template color-template-honey">Honey</span></a>
+<td><img alt="Honey" height="25" src="img/Honey.png" width="25"/>500,000 <a href="honey.html"><span class="color-template color-template-honey">Honey</span></a>
 </td>
 <td><a href="pro-shop.html">Pro Shop</a>
 </td></tr>
@@ -1205,7 +1205,7 @@ The following is a list of all of the **items** in [Re://:Swarm](re-swarm.md).
 <p>Press jump while in the air to open.
 </p>
 </td>
-<td><span typeof="mw:Error mw:File"></span>5,000,000 <a href="honey.html"><span class="color-template color-template-honey">Honey</span></a>
+<td><img alt="Honey" height="25" src="img/Honey.png" width="25"/>5,000,000 <a href="honey.html"><span class="color-template color-template-honey">Honey</span></a>
 </td>
 <td><a href="mountain-top-shop.html">Mountain Top Shop</a>
 </td></tr></tbody></table>
@@ -1227,7 +1227,7 @@ The following is a list of all of the **items** in [Re://:Swarm](re-swarm.md).
 </div></td>
 <td>When placed in a flower field, this grows in about 1 hour of playtime. Harvest it to gain around 50,000 <a href="pollen.html">Pollen</a>. random items. and Nectar boosts!
 </td>
-<td><span typeof="mw:Error mw:File"></span>25,000 <a href="honey.html"><span class="color-template color-template-honey">Honey</span></a><br/>
+<td><img alt="Honey" height="25" src="img/Honey.png" width="25"/>25,000 <a href="honey.html"><span class="color-template color-template-honey">Honey</span></a><br/>
 <p><img alt="Sunflower Seed" height="25" src="img/Sunflower_Seed.png" width="25"/>1 <a href="sunflower-seed.html"><span class="color-template color-template-sunflower-seed color-template-background-clip">Sunflower Seed</span></a>
 </p>
 </td>
@@ -1265,7 +1265,7 @@ The following is a list of all of the **items** in [Re://:Swarm](re-swarm.md).
 </div></td>
 <td>A reusable planter that grows in about 2 hours. Stores around 250k <a href="pollen.html">Pollen</a>. Harvest to collect random Items and Nectar boosts!
 </td>
-<td><span typeof="mw:Error mw:File"></span>750,000 <a href="honey.html"><span class="color-template color-template-honey">Honey</span></a><br/>
+<td><img alt="Honey" height="25" src="img/Honey.png" width="25"/>750,000 <a href="honey.html"><span class="color-template color-template-honey">Honey</span></a><br/>
 <p><img alt="Magic Bean" height="25" src="img/Magic_Bean.png" width="25"/>3 <a href="magic-bean.html"><span class="color-template color-template-magic-bean color-template-background-clip">Magic Beans</span></a><br/>
 <img alt="Soft Wax" height="25" src="img/Soft_Wax.png" width="25"/>1 <a href="soft-wax.html"><span class="color-template color-template-soft-wax">Soft Wax</span></a>
 </p>
@@ -1277,7 +1277,7 @@ The following is a list of all of the **items** in [Re://:Swarm](re-swarm.md).
 </div></td>
 <td>Alone, grows in about 4 hours and stores around 1 million <a href="pollen.html">Pollen</a>. Grants bonus <a href="gumdrops.html">Gumdrops</a> and <a href="jelly-beans.html">Jelly Beans</a>. • Grows 25% faster in the <a href="strawberry-field.html">Strawberry Field</a>, <a href="pineapple-patch.html">Pineapple Patch</a>, and <a href="coconut-field.html">Coconut Field</a>. • Gives 10% bonus White <a href="pollen.html">Pollen</a> from harvests. • Grants +20% Motivating <a href="nectar.html">Nectar</a>.
 </td>
-<td><span typeof="mw:Error mw:File"></span>5,000,000 <a href="honey.html"><span class="color-template color-template-honey">Honey</span></a><br/>
+<td><img alt="Honey" height="25" src="img/Honey.png" width="25"/>5,000,000 <a href="honey.html"><span class="color-template color-template-honey">Honey</span></a><br/>
 <p><img alt="Magic Bean" height="25" src="img/Magic_Bean.png" width="25"/>5 <a href="magic-bean.html"><span class="color-template color-template-magic-bean color-template-background-clip">Magic Beans</span></a><br/>
 <img alt="Gumdrops" height="25" src="img/Gumdrops.png" width="25"/>30 <a href="gumdrops.html"><span class="color-template color-template-gumdrops color-template-background-clip">Gumdrops</span></a><br/>
 <img alt="Jelly Beans" height="25" src="img/Jelly_Beans.png" width="25"/>3 <a href="jelly-beans.html"><span class="color-template color-template-jelly-beans color-template-background-clip">Jelly Beans</span></a><br/>
@@ -1295,7 +1295,7 @@ The following is a list of all of the **items** in [Re://:Swarm](re-swarm.md).
 • Grants +25% Satisfying <a href="nectar.html">Nectar</a> and Comforting Nectar.
 </p>
 </td>
-<td><span typeof="mw:Error mw:File"></span>50,000,000 <a href="honey.html"><span class="color-template color-template-honey">Honey</span></a><br/>
+<td><img alt="Honey" height="25" src="img/Honey.png" width="25"/>50,000,000 <a href="honey.html"><span class="color-template color-template-honey">Honey</span></a><br/>
 <p><img alt="Magic Bean" height="25" src="img/Magic_Bean.png" width="25"/>10 <a href="magic-bean.html"><span class="color-template color-template-magic-bean color-template-background-clip">Magic Beans</span></a><br/>
 <img alt="Purple Potion" height="25" src="img/Purple_Potion.png" width="25"/>1 <a href="purple-potion.html"><span class="color-template color-template-purple-potion color-template-background-clip">Purple Potion</span></a><br/>
 <img alt="Hard Wax" height="25" src="img/Hard_Wax.png" width="25"/>5 <a href="hard-wax.html"><span class="color-template color-template-hard-wax">Hard Waxes</span></a><br/>
@@ -1309,7 +1309,7 @@ The following is a list of all of the **items** in [Re://:Swarm](re-swarm.md).
 </div></td>
 <td>Alone, grows in about 10 hours. Stores around 200 million Pollen. Grants bonus Bitterberries and Neonberries. • Grows 30% faster and grants +50% pollen on harvest in the 5 bee zone. • Bees with mutations are 25% more likely to sip <a href="nectar.html">Nectar</a> from this. • Grants +30% Satisfying and Motivating <a href="nectar.html">Nectar</a>.
 </td>
-<td><span typeof="mw:Error mw:File"></span>750,000,000 <a href="honey.html"><span class="color-template color-template-honey">Honey</span></a><br/>
+<td><img alt="Honey" height="25" src="img/Honey.png" width="25"/>750,000,000 <a href="honey.html"><span class="color-template color-template-honey">Honey</span></a><br/>
 <p><img alt="Magic Bean" height="25" src="img/Magic_Bean.png" width="25"/>25 <a href="magic-bean.html"><span class="color-template color-template-magic-bean color-template-background-clip">Magic Beans</span></a><br/>
 <img alt="Neonberry" height="25" src="img/Neonberry.png" width="25"/>25 <a href="neonberry.html"><span class="color-template color-template-neonberry color-template-background-clip">Neonberries</span></a><br/>
 <img alt="Glue" height="25" src="img/Glue.png" width="25"/>15 <a href="glue.html"><span class="color-template color-template-glue color-template-background-clip">Glues</span></a><br/>
@@ -1324,7 +1324,7 @@ The following is a list of all of the **items** in [Re://:Swarm](re-swarm.md).
 </div></td>
 <td>Alone, grows in around 6 hours. Stores around 3 million pollen. Grants bonus <a href="blue-extract.html">Blue Extract</a>, <a href="micro-converter.html">Micro-Converter</a> and <a href="honeysuckle.html">Honeysuckle</a>. • Grows up to 25% faster in fields with blue flowers. • Gives 50% bonus blue pollen from harvests. • Blue bees are 25% more likely to sip <a href="nectar.html">Nectar</a> from this. • Grants +20% Refreshing and Comforting <a href="nectar.html">Nectar</a>.
 </td>
-<td><span typeof="mw:Error mw:File"></span>10,000,000 <a href="honey.html"><span class="color-template color-template-honey">Honey</span></a><br/>
+<td><img alt="Honey" height="25" src="img/Honey.png" width="25"/>10,000,000 <a href="honey.html"><span class="color-template color-template-honey">Honey</span></a><br/>
 <p><img alt="Magic Bean" height="25" src="img/Magic_Bean.png" width="25"/>5 <a href="magic-bean.html"><span class="color-template color-template-magic-bean color-template-background-clip">Magic Beans</span></a><br/>
 <img alt="Blue Extract" height="25" src="img/Blue_Extract.png" width="25"/>15 <a href="blue-extract.html"><span class="color-template color-template-blue-extract color-template-background-clip">Blue Extracts</span></a><br/>
 <img alt="Soft Wax" height="25" src="img/Soft_Wax.png" width="25"/>20 <a href="soft-wax.html"><span class="color-template color-template-soft-wax">Soft Waxes</span></a>
@@ -1337,7 +1337,7 @@ The following is a list of all of the **items** in [Re://:Swarm](re-swarm.md).
 </div></td>
 <td>Alone, grows in around 6 hours. Stores around 3 million pollen. Grants bonus <a href="red-extract.html">Red Extract</a> and Wax • Grows up to 25% faster in fields with Red flowers. • Gives 50% bonus red pollen from harvests. • Red bees are 25% more likely to sip <a href="nectar.html">Nectar</a> from this. • Grants +20% Invigorating and Satisfying <a href="nectar.html">Nectar</a>.
 </td>
-<td><span typeof="mw:Error mw:File"></span>10,000,000 <a href="honey.html"><span class="color-template color-template-honey">Honey</span></a><br/>
+<td><img alt="Honey" height="25" src="img/Honey.png" width="25"/>10,000,000 <a href="honey.html"><span class="color-template color-template-honey">Honey</span></a><br/>
 <p><img alt="Magic Bean" height="25" src="img/Magic_Bean.png" width="25"/>5 <a href="magic-bean.html"><span class="color-template color-template-magic-bean color-template-background-clip">Magic Beans</span></a><br/>
 <img alt="Red Extract" height="25" src="img/Red_Extract.png" width="25"/>15 <a href="red-extract.html"><span class="color-template color-template-red-extract color-template-background-clip">Red Extracts</span></a><br/>
 <img alt="Soft Wax" height="25" src="img/Soft_Wax.png" width="25"/>20 <a href="soft-wax.html"><span class="color-template color-template-soft-wax">Soft Waxes</span></a>
@@ -1428,7 +1428,7 @@ The following is a list of all of the **items** in [Re://:Swarm](re-swarm.md).
 <li>Rate: 5 Seconds</li>
 <li>Setup: 6 Seconds</li></ul>
 </td>
-<td><span typeof="mw:Error mw:File"></span>1,111,111 <a href="honey.html"><span class="color-template color-template-honey">Honey</span></a><br/>
+<td><img alt="Honey" height="25" src="img/Honey.png" width="25"/>1,111,111 <a href="honey.html"><span class="color-template color-template-honey">Honey</span></a><br/>
 <p>15 Badges
 </p>
 </td>
@@ -1444,7 +1444,7 @@ The following is a list of all of the **items** in [Re://:Swarm](re-swarm.md).
 <li>Rate: 4.5 Seconds</li>
 <li>Setup: 5 Seconds</li></ul>
 </td>
-<td><span typeof="mw:Error mw:File"></span>22,222,222 <a href="honey.html"><span class="color-template color-template-honey">Honey</span></a><br/>
+<td><img alt="Honey" height="25" src="img/Honey.png" width="25"/>22,222,222 <a href="honey.html"><span class="color-template color-template-honey">Honey</span></a><br/>
 <p>10 Hotshot Badges
 </p>
 </td>
@@ -1460,7 +1460,7 @@ The following is a list of all of the **items** in [Re://:Swarm](re-swarm.md).
 <li>Rate: 4.5 Seconds</li>
 <li>Setup: 5 Seconds</li></ul>
 </td>
-<td><span typeof="mw:Error mw:File"></span>333,333,333 <a href="honey.html"><span class="color-template color-template-honey">Honey</span></a><br/>
+<td><img alt="Honey" height="25" src="img/Honey.png" width="25"/>333,333,333 <a href="honey.html"><span class="color-template color-template-honey">Honey</span></a><br/>
 <p>10 Ace Badges
 </p>
 </td>
@@ -1964,7 +1964,7 @@ The following is a list of all of the **items** in [Re://:Swarm](re-swarm.md).
 </div></td>
 <td>Raises the <a href="bond.html">Bond</a> of a bee by 10.
 </td>
-<td>From <span typeof="mw:Error mw:File"></span>100 <a href="honey.html"><span class="color-template color-template-honey">Honey</span></a> to <span typeof="mw:Error mw:File"></span>10,000 <a href="honey.html"><span class="color-template color-template-honey">Honey</span></a>.
+<td>From <img alt="Honey" height="25" src="img/Honey.png" width="25"/>100 <a href="honey.html"><span class="color-template color-template-honey">Honey</span></a> to <img alt="Honey" height="25" src="img/Honey.png" width="25"/>10,000 <a href="honey.html"><span class="color-template color-template-honey">Honey</span></a>.
 </td>
 <td><a href="treat-shop.html">Treat Shop</a>, certain Dispensers, certain packs from the Robux Shop, Mobs, Memory Match, Meteors
 </td></tr>
@@ -2093,7 +2093,7 @@ The following is a list of all of the **items** in [Re://:Swarm](re-swarm.md).
 <li>x1.25 White Field Capacity</li>
 <li>+1 White Bee Attack</li></ul>
 </td>
-<td><span typeof="mw:Error mw:File"></span>250,000 <a href="honey.html"><span class="color-template color-template-honey">Honey</span></a> (Increases every time)<br/>
+<td><img alt="Honey" height="25" src="img/Honey.png" width="25"/>250,000 <a href="honey.html"><span class="color-template color-template-honey">Honey</span></a> (Increases every time)<br/>
 <p><img alt="Cog" height="25" src="img/Cog.png" width="25"/>50 <a href="cog.html"><span class="color-template color-template-cog color-template-background-clip">Cogs</span></a>
 </p>
 </td>
@@ -2107,7 +2107,7 @@ The following is a list of all of the **items** in [Re://:Swarm](re-swarm.md).
 <li>x1.25 Red Field Capacity</li>
 <li>+1 Red Bee Attack</li></ul>
 </td>
-<td><span typeof="mw:Error mw:File"></span>250,000 <a href="honey.html"><span class="color-template color-template-honey">Honey</span></a> (Increases every time)<br/>
+<td><img alt="Honey" height="25" src="img/Honey.png" width="25"/>250,000 <a href="honey.html"><span class="color-template color-template-honey">Honey</span></a> (Increases every time)<br/>
 <p><img alt="Cog" height="25" src="img/Cog.png" width="25"/>50 <a href="cog.html"><span class="color-template color-template-cog color-template-background-clip">Cogs</span></a>
 </p>
 </td>
@@ -2121,7 +2121,7 @@ The following is a list of all of the **items** in [Re://:Swarm](re-swarm.md).
 <li>x1.25 Blue Field Capacity</li>
 <li>+1 Blue Bee Attack</li></ul>
 </td>
-<td><span typeof="mw:Error mw:File"></span>250,000 <a href="honey.html"><span class="color-template color-template-honey">Honey</span></a> (Increases every time)<br/>
+<td><img alt="Honey" height="25" src="img/Honey.png" width="25"/>250,000 <a href="honey.html"><span class="color-template color-template-honey">Honey</span></a> (Increases every time)<br/>
 <p><img alt="Cog" height="25" src="img/Cog.png" width="25"/>50 <a href="cog.html"><span class="color-template color-template-cog color-template-background-clip">Cogs</span></a>
 </p>
 </td>
@@ -2135,7 +2135,7 @@ The following is a list of all of the **items** in [Re://:Swarm](re-swarm.md).
 <li>x1.25 Capacity</li>
 <li>+1 Bee Attack</li></ul>
 </td>
-<td><span typeof="mw:Error mw:File"></span>1,000,000 <a href="honey.html"><span class="color-template color-template-honey">Honey</span></a> (Increases every time)<br/>
+<td><img alt="Honey" height="25" src="img/Honey.png" width="25"/>1,000,000 <a href="honey.html"><span class="color-template color-template-honey">Honey</span></a> (Increases every time)<br/>
 <p><img alt="Cog" height="25" src="img/Cog.png" width="25"/>100 <a href="cog.html"><span class="color-template color-template-cog color-template-background-clip">Cogs</span></a><br/>
 <img alt="Red Drive" height="25" src="img/Red_Drive.png" width="25"/>5 <a href="drives.html#Red_Drive"><span class="color-template color-template-red-drive color-template-background-clip">Red Drives</span></a><br/>
 <img alt="Blue Drive" height="25" src="img/Blue_Drive.png" width="25"/>5 <a href="drives.html#Blue_Drive"><span class="color-template color-template-blue-drive color-template-background-clip">Blue Drives</span></a><br/>
@@ -2276,7 +2276,7 @@ The following is a list of all of the **items** in [Re://:Swarm](re-swarm.md).
 </td>
 <td>None
 </td>
-<td><a href="spider.html">Spider</a> (Exceptionally Rare), <a href="tunnel-bear.html">Tunnel Bear</a> (Exceptionally Rare), <a href="dapper-bear.html">Dapper Bear</a>'s quests, Sticking <span typeof="mw:Error mw:File"></span><a href="sticker.html#Sticker_Index"><span class="color-template color-template-black-star-sticker">Black Star Stickers</span></a> to the <a href="sticker-stack.html">Sticker Stack</a>
+<td><a href="spider.html">Spider</a> (Exceptionally Rare), <a href="tunnel-bear.html">Tunnel Bear</a> (Exceptionally Rare), <a href="dapper-bear.html">Dapper Bear</a>'s quests, Sticking <img alt="Black Star Stickers" height="35" src="img/Black_Star_Stickers.png" width="35"/><a href="sticker.html#Sticker_Index"><span class="color-template color-template-black-star-sticker">Black Star Stickers</span></a> to the <a href="sticker-stack.html">Sticker Stack</a>
 </td></tr></tbody></table>
 
 ### Waxes
@@ -2383,7 +2383,7 @@ The following is a list of all of the **items** in [Re://:Swarm](re-swarm.md).
 </div></td>
 <td>Usually hatches into a Basic Bee.
 </td>
-<td>From <span typeof="mw:Error mw:File"></span>1,000 <a href="honey.html"><span class="color-template color-template-honey">Honey</span></a> to <span typeof="mw:Error mw:File"></span>10,000,000 <a href="honey.html"><span class="color-template color-template-honey">Honey</span></a>
+<td>From <img alt="Honey" height="25" src="img/Honey.png" width="25"/>1,000 <a href="honey.html"><span class="color-template color-template-honey">Honey</span></a> to <img alt="Honey" height="25" src="img/Honey.png" width="25"/>10,000,000 <a href="honey.html"><span class="color-template color-template-honey">Honey</span></a>
 </td>
 <td><a href="basic-egg-shop.html">Basic Egg Shop</a>, joining <a href="re-swarm.html">the game</a> for the first time
 </td></tr>
@@ -2515,7 +2515,7 @@ The following is a list of all of the **items** in [Re://:Swarm](re-swarm.md).
 </div></td>
 <td>Removes a bee in your hive.
 </td>
-<td><span typeof="mw:Error mw:File"></span>50,000 <a href="honey.html"><span class="color-template color-template-honey">Honey</span></a>
+<td><img alt="Honey" height="25" src="img/Honey.png" width="25"/>50,000 <a href="honey.html"><span class="color-template color-template-honey">Honey</span></a>
 </td>
 <td><a href="mountain-top-shop.html">Mountain Top Shop</a>, one of <a href="bubble-bee-man.html">Bubble Bee Man</a>’s quests (Permanently Unobtainable)
 </td></tr>
@@ -2544,7 +2544,7 @@ The following is a list of all of the **items** in [Re://:Swarm](re-swarm.md).
 <ul><li>+77 <a href="system-page.html#Capacity">Capacity</a></li>
 <li>+7% <a href="system-page.html#Defense">Defense</a></li></ul>
 </td>
-<td><span typeof="mw:Error mw:File"></span>77 <a href="honey.html"><span class="color-template color-template-honey">Honey</span></a><br/>
+<td><img alt="Honey" height="25" src="img/Honey.png" width="25"/>77 <a href="honey.html"><span class="color-template color-template-honey">Honey</span></a><br/>
 <p><img alt="Micro-Converter" height="25" src="img/Micro-Converter.png" width="25"/>1 <a href="micro-converter.html"><span class="color-template color-template-micro-converter color-template-background-clip">Micro-Converter</span></a><br/>
 <span typeof="mw:Error mw:File"></span>7 <span class="new" data-uncrawlable-url="L3dpa2kvNy1Qcm9uZ2VkX0NvZz9hY3Rpb249ZWRpdCZyZWRsaW5rPTE=" title="7-Pronged Cog (page does not exist)"><span class="color-template color-template-7-pronged-cog color-template-background-clip">7-Pronged Cogs</span></span>
 </p>

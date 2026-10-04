@@ -57,7 +57,7 @@ Royal jelly can be purchased in increments of 1, 10, 100, 1,000, 10,000, 100,000
 <tbody><tr>
 <th><img alt="Royal Jelly" height="35" src="img/Royal_Jelly.png" width="35"/><a href="royal-jelly.html"><span class="color-template color-template-royal-jelly color-template-background-clip">Royal Jellies</span></a>
 </th>
-<th><span typeof="mw:Error mw:File"></span><a href="honey.html"><span class="color-template color-template-honey">Honey</span></a>
+<th><img alt="Honey" height="35" src="img/Honey.png" width="35"/><a href="honey.html"><span class="color-template color-template-honey">Honey</span></a>
 </th></tr>
 <tr>
 <td>1

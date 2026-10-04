@@ -300,7 +300,7 @@ The formula for the [Honey](honey.md) per Second (Basic Bee) is as follows:
 <li>Collect 10,000 Pollen from the <a href="strawberry-field.html">Strawberry Field</a>.</li>
 <li>Collect 10,000 Pollen from the <a href="bamboo-field.html">Bamboo Field</a></li></ul>
 </td>
-<td>31,415 <span typeof="mw:Error mw:File"></span><a href="honey.html"><span class="color-template color-template-honey">Honey</span></a><br/>
+<td>31,415 <img alt="Honey" height="35" src="img/Honey.png" width="35"/><a href="honey.html"><span class="color-template color-template-honey">Honey</span></a><br/>
 <p>1x <i>Science Enhancement</i>
 </p>
 </td></tr>
@@ -314,7 +314,7 @@ The formula for the [Honey](honey.md) per Second (Basic Bee) is as follows:
 <li>Defeat 8 <a href="ladybug.html">Ladybugs</a>.</li>
 <li>Defeat 8 <a href="rhino-beetle.html">Rhino Beetles</a>.</li></ul>
 </td>
-<td>47,806 <span typeof="mw:Error mw:File"></span><a href="honey.html"><span class="color-template color-template-honey">Honey</span></a><br/>
+<td>47,806 <img alt="Honey" height="35" src="img/Honey.png" width="35"/><a href="honey.html"><span class="color-template color-template-honey">Honey</span></a><br/>
 <p>1x <i>Science Enhancement</i>
 </p>
 </td></tr>
@@ -328,7 +328,7 @@ The formula for the [Honey](honey.md) per Second (Basic Bee) is as follows:
 <li>Defeat 9 Rhino Beetles.</li>
 <li>Defeat 3 <a href="mantis.html">Mantises</a>.</li></ul>
 </td>
-<td>57,721 <span typeof="mw:Error mw:File"></span><a href="honey.html"><span class="color-template color-template-honey">Honey</span></a><br/>
+<td>57,721 <img alt="Honey" height="35" src="img/Honey.png" width="35"/><a href="honey.html"><span class="color-template color-template-honey">Honey</span></a><br/>
 <p>1x <i>Science Enhancement</i>
 </p>
 </td></tr>
@@ -342,7 +342,7 @@ The formula for the [Honey](honey.md) per Second (Basic Bee) is as follows:
 <li>Collect 25,000 Pollen from the <a href="blue-flower-field.html">Blue Flower Field</a>.</li>
 <li>Defeat 2 <a href="spider.html">Spiders</a>.</li></ul>
 </td>
-<td>79,861 <span typeof="mw:Error mw:File"></span><a href="honey.html"><span class="color-template color-template-honey">Honey</span></a><br/>
+<td>79,861 <img alt="Honey" height="35" src="img/Honey.png" width="35"/><a href="honey.html"><span class="color-template color-template-honey">Honey</span></a><br/>
 <p>1x <i>Science Enhancement</i>
 </p>
 </td></tr>
@@ -355,7 +355,7 @@ The formula for the [Honey](honey.md) per Second (Basic Bee) is as follows:
 <li>Collect 35,000 Pollen from the <a href="mushroom-field.html">Mushroom Field</a>.</li>
 <li>Defeat 2 Spiders.</li></ul>
 </td>
-<td>90,107 <span typeof="mw:Error mw:File"></span><a href="honey.html"><span class="color-template color-template-honey">Honey</span></a><br/>
+<td>90,107 <img alt="Honey" height="35" src="img/Honey.png" width="35"/><a href="honey.html"><span class="color-template color-template-honey">Honey</span></a><br/>
 <p>1x <i>Science Enhancement</i>
 </p>
 </td></tr>
@@ -369,7 +369,7 @@ The formula for the [Honey](honey.md) per Second (Basic Bee) is as follows:
 <li>Defeat 6 Rhino Beetles.</li>
 <li>Defeat 4 <a href="scorpion.html">Scorpions</a>.</li></ul>
 </td>
-<td>104,693 <span typeof="mw:Error mw:File"></span><a href="honey.html"><span class="color-template color-template-honey">Honey</span></a><br/>
+<td>104,693 <img alt="Honey" height="35" src="img/Honey.png" width="35"/><a href="honey.html"><span class="color-template color-template-honey">Honey</span></a><br/>
 <p>1x <i>Science Enhancement</i>
 </p>
 </td></tr>
@@ -383,7 +383,7 @@ The formula for the [Honey](honey.md) per Second (Basic Bee) is as follows:
 <li>Defeat 2 Mantises.</li>
 <li>Defeat 1 <a href="werewolf.html">Werewolf</a>.</li></ul>
 </td>
-<td>141,121 <span typeof="mw:Error mw:File"></span><a href="honey.html"><span class="color-template color-template-honey">Honey</span></a><br/>
+<td>141,121 <img alt="Honey" height="35" src="img/Honey.png" width="35"/><a href="honey.html"><span class="color-template color-template-honey">Honey</span></a><br/>
 <p>1x <i>Science Enhancement</i>
 </p>
 </td></tr>
@@ -397,7 +397,7 @@ The formula for the [Honey](honey.md) per Second (Basic Bee) is as follows:
 <li>Collect 120,000 White Pollen.</li>
 <li>Defeat 4 Spiders.</li></ul>
 </td>
-<td>153,623 <span typeof="mw:Error mw:File"></span><a href="honey.html"><span class="color-template color-template-honey">Honey</span></a><br/>
+<td>153,623 <img alt="Honey" height="35" src="img/Honey.png" width="35"/><a href="honey.html"><span class="color-template color-template-honey">Honey</span></a><br/>
 <p>1x <i>Science Enhancement</i>
 </p>
 </td></tr>
@@ -411,7 +411,7 @@ The formula for the [Honey](honey.md) per Second (Basic Bee) is as follows:
 <li>Defeat 10 Ladybugs.</li>
 <li>Defeat 1 Werewolf.</li></ul>
 </td>
-<td>160,669 <span typeof="mw:Error mw:File"></span><a href="honey.html"><span class="color-template color-template-honey">Honey</span></a><br/>
+<td>160,669 <img alt="Honey" height="35" src="img/Honey.png" width="35"/><a href="honey.html"><span class="color-template color-template-honey">Honey</span></a><br/>
 <p>1x <i>Science Enhancement</i>
 </p>
 </td></tr>
@@ -425,7 +425,7 @@ The formula for the [Honey](honey.md) per Second (Basic Bee) is as follows:
 <li>Defeat 12 Rhino Beetles.</li>
 <li>Defeat 8 Mantises.</li></ul>
 </td>
-<td>161,803 <span typeof="mw:Error mw:File"></span><a href="honey.html"><span class="color-template color-template-honey">Honey</span></a><br/>
+<td>161,803 <img alt="Honey" height="35" src="img/Honey.png" width="35"/><a href="honey.html"><span class="color-template color-template-honey">Honey</span></a><br/>
 <p>1x <i>Science Enhancement</i>
 </p>
 </td></tr>
@@ -440,7 +440,7 @@ The formula for the [Honey](honey.md) per Second (Basic Bee) is as follows:
 <li>Defeat 3 Scorpions.</li>
 <li>Defeat 3 Spiders.</li></ul>
 </td>
-<td>173,205 <span typeof="mw:Error mw:File"></span><a href="honey.html"><span class="color-template color-template-honey">Honey</span></a><br/>
+<td>173,205 <img alt="Honey" height="35" src="img/Honey.png" width="35"/><a href="honey.html"><span class="color-template color-template-honey">Honey</span></a><br/>
 <p>1x <i>Science Enhancement</i>
 </p>
 </td></tr>
@@ -455,7 +455,7 @@ The formula for the [Honey](honey.md) per Second (Basic Bee) is as follows:
 <li>Collect 100 Red <a href="ability-tokens.html#Boost">Boost Tokens</a>.</li>
 <li>Collect 100 Blue Boost Tokens.</li></ul>
 </td>
-<td>229,558 <span typeof="mw:Error mw:File"></span><a href="honey.html"><span class="color-template color-template-honey">Honey</span></a><br/>
+<td>229,558 <img alt="Honey" height="35" src="img/Honey.png" width="35"/><a href="honey.html"><span class="color-template color-template-honey">Honey</span></a><br/>
 <p>1x <i>Science Enhancement</i><br/>
 <img alt="Ticket" height="25" src="img/Ticket.png" width="25"/>1 <a href="ticket.html"><span class="color-template color-template-ticket color-template-background-clip">Ticket</span></a>
 </p>
@@ -473,7 +473,7 @@ The formula for the [Honey](honey.md) per Second (Basic Bee) is as follows:
 <li>Defeat 8 Scorpions.</li>
 <li>Defeat 2 Werewolves.</li></ul>
 </td>
-<td>271,828 <span typeof="mw:Error mw:File"></span><a href="honey.html"><span class="color-template color-template-honey">Honey</span></a><br/>
+<td>271,828 <img alt="Honey" height="35" src="img/Honey.png" width="35"/><a href="honey.html"><span class="color-template color-template-honey">Honey</span></a><br/>
 <p>1x <i>Science Enhancement</i><br/>
 2x <img alt="Ticket" height="35" src="img/Ticket.png" width="35"/><a href="ticket.html"><span class="color-template color-template-ticket color-template-background-clip">Tickets</span></a>
 </p>
@@ -487,7 +487,7 @@ The formula for the [Honey](honey.md) per Second (Basic Bee) is as follows:
 <li>Collect 435,000 Pollen from the Pineapple Patch.</li>
 <li>Defeat 13 Mantises.</li></ul>
 </td>
-<td>335,988 <span typeof="mw:Error mw:File"></span><a href="honey.html"><span class="color-template color-template-honey">Honey</span></a><br/>
+<td>335,988 <img alt="Honey" height="35" src="img/Honey.png" width="35"/><a href="honey.html"><span class="color-template color-template-honey">Honey</span></a><br/>
 <p>1x <i>Science Enhancement</i><br/>
 3x  <img alt="Ticket" height="35" src="img/Ticket.png" width="35"/><a href="ticket.html"><span class="color-template color-template-ticket color-template-background-clip">Tickets</span></a>
 </p>
@@ -504,7 +504,7 @@ The formula for the [Honey](honey.md) per Second (Basic Bee) is as follows:
 <li>Collect 100 <a href="ability-tokens.html#Focus">Focus Tokens</a>.</li>
 <li>Defeat 3 Spiders.</li></ul>
 </td>
-<td>453,236 <span typeof="mw:Error mw:File"></span><a href="honey.html"><span class="color-template color-template-honey">Honey</span></a><br/>
+<td>453,236 <img alt="Honey" height="35" src="img/Honey.png" width="35"/><a href="honey.html"><span class="color-template color-template-honey">Honey</span></a><br/>
 <p>1x <i>Science Enhancement</i><br/>
 4x  <img alt="Ticket" height="35" src="img/Ticket.png" width="35"/><a href="ticket.html"><span class="color-template color-template-ticket color-template-background-clip">Tickets</span></a>
 </p>
@@ -521,7 +521,7 @@ The formula for the [Honey](honey.md) per Second (Basic Bee) is as follows:
 <li>Defeat 16 Ladybugs.</li>
 <li>Defeat 10 Scorpions.</li></ul>
 </td>
-<td>524,411 <span typeof="mw:Error mw:File"></span><a href="honey.html"><span class="color-template color-template-honey">Honey</span></a><br/>
+<td>524,411 <img alt="Honey" height="35" src="img/Honey.png" width="35"/><a href="honey.html"><span class="color-template color-template-honey">Honey</span></a><br/>
 <p>1x <i>Science Enhancement</i><br/>
 5x  <img alt="Ticket" height="35" src="img/Ticket.png" width="35"/><a href="ticket.html"><span class="color-template color-template-ticket color-template-background-clip">Tickets</span></a>
 </p>
@@ -549,7 +549,7 @@ The formula for the [Honey](honey.md) per Second (Basic Bee) is as follows:
 <li>Collect 524 Blue Boost Tokens.</li>
 <li>Defeat 24 Rhino Beetles.</li></ul>
 </td>
-<td>700,127 <span typeof="mw:Error mw:File"></span><a href="honey.html"><span class="color-template color-template-honey">Honey</span></a><br/>
+<td>700,127 <img alt="Honey" height="35" src="img/Honey.png" width="35"/><a href="honey.html"><span class="color-template color-template-honey">Honey</span></a><br/>
 <p>1x <i>Science Enhancement</i><br/>
 6x  <img alt="Ticket" height="35" src="img/Ticket.png" width="35"/><a href="ticket.html"><span class="color-template color-template-ticket color-template-background-clip">Tickets</span></a><br/>
 1x <img alt="Enzymes" height="35" src="img/Enzymes.png" width="35"/><a href="enzymes.html"><span class="color-template color-template-enzymes color-template-background-clip">Enzymes</span></a>
@@ -567,7 +567,7 @@ The formula for the [Honey](honey.md) per Second (Basic Bee) is as follows:
 <td>1x <a href="magic-bean.html">Magic Bean</a> (Upon receiving quest)
 <hr/>
 <p><br/>
-870,588 <span typeof="mw:Error mw:File"></span><a href="honey.html"><span class="color-template color-template-honey">Honey</span></a><br/>
+870,588 <img alt="Honey" height="35" src="img/Honey.png" width="35"/><a href="honey.html"><span class="color-template color-template-honey">Honey</span></a><br/>
 1x <i>Science Enhancement</i><br/>
 7x  <img alt="Ticket" height="35" src="img/Ticket.png" width="35"/><a href="ticket.html"><span class="color-template color-template-ticket color-template-background-clip">Tickets</span></a><br/>
 1x <img alt="Oil" height="35" src="img/Oil.png" width="35"/><a href="oil.html"><span class="color-template color-template-oil color-template-background-clip">Oils</span></a>
@@ -583,7 +583,7 @@ The formula for the [Honey](honey.md) per Second (Basic Bee) is as follows:
 <li>Collect 3,333,333 Pollen from the Pumpkin Patch.</li>
 <li>Collect 3,333,333 Pollen from the Cactus Field.</li></ul>
 </td>
-<td>1,131,988 <span typeof="mw:Error mw:File"></span><a href="honey.html"><span class="color-template color-template-honey">Honey</span></a><br/>
+<td>1,131,988 <img alt="Honey" height="35" src="img/Honey.png" width="35"/><a href="honey.html"><span class="color-template color-template-honey">Honey</span></a><br/>
 <p>1x <i>Science Enhancement</i><br/>
 8x  <img alt="Ticket" height="35" src="img/Ticket.png" width="35"/><a href="ticket.html"><span class="color-template color-template-ticket color-template-background-clip">Tickets</span></a><br/>
 1x <img alt="Red Extract" height="35" src="img/Red_Extract.png" width="35"/><a href="red-extract.html"><span class="color-template color-template-red-extract color-template-background-clip">Red Extracts</span></a><br/>
@@ -603,7 +603,7 @@ The formula for the [Honey](honey.md) per Second (Basic Bee) is as follows:
 <li>Collect 4,444,444 Blue Pollen.</li>
 <li>Collect 4,444,444 Red Pollen.</li></ul>
 </td>
-<td>1,451,369 <span typeof="mw:Error mw:File"></span><a href="honey.html"><span class="color-template color-template-honey">Honey</span></a><br/>
+<td>1,451,369 <img alt="Honey" height="35" src="img/Honey.png" width="35"/><a href="honey.html"><span class="color-template color-template-honey">Honey</span></a><br/>
 <p>1x <i>Science Enhancement</i><br/>
 9x  <img alt="Ticket" height="35" src="img/Ticket.png" width="35"/><a href="ticket.html"><span class="color-template color-template-ticket color-template-background-clip">Tickets</span></a><br/>
 1x <img alt="Glitter" height="35" src="img/Glitter.png" width="35"/><a href="glitter.html"><span class="color-template color-template-glitter color-template-background-clip">Glitter</span></a>
@@ -620,7 +620,7 @@ The formula for the [Honey](honey.md) per Second (Basic Bee) is as follows:
 <li>Craft 50 Ingredients with the Blender.</li>
 <li>Defeat 50 <a href="ants.html">Ants</a>.</li></ul>
 </td>
-<td>2,502,907 <span typeof="mw:Error mw:File"></span><a href="honey.html"><span class="color-template color-template-honey">Honey</span></a><br/>
+<td>2,502,907 <img alt="Honey" height="35" src="img/Honey.png" width="35"/><a href="honey.html"><span class="color-template color-template-honey">Honey</span></a><br/>
 <p>1x <i>Science Enhancement</i><br/>
 10x  <img alt="Ticket" height="35" src="img/Ticket.png" width="35"/><a href="ticket.html"><span class="color-template color-template-ticket color-template-background-clip">Tickets</span></a><br/>
 1x <img alt="Translator" height="35" src="img/Translator.png" width="35"/><a href="translator.html"><span class="color-template color-template-translator color-template-background-clip">Translator</span></a>
@@ -637,7 +637,7 @@ The formula for the [Honey](honey.md) per Second (Basic Bee) is as follows:
 <li>Craft 7 Ingredients with the Blender.</li>
 <li>Use 7 Royal Jellies.</li></ul>
 </td>
-<td>2,685,452 <span typeof="mw:Error mw:File"></span><a href="honey.html"><span class="color-template color-template-honey">Honey</span></a><br/>
+<td>2,685,452 <img alt="Honey" height="35" src="img/Honey.png" width="35"/><a href="honey.html"><span class="color-template color-template-honey">Honey</span></a><br/>
 <p>1x <i>Science Enhancement</i><br/>
 11x  <img alt="Ticket" height="35" src="img/Ticket.png" width="35"/><a href="ticket.html"><span class="color-template color-template-ticket color-template-background-clip">Tickets</span></a><br/>
 13x <img alt="Royal Jelly" height="35" src="img/Royal_Jelly.png" width="35"/><a href="royal-jelly.html"><span class="color-template color-template-royal-jelly color-template-background-clip">Royal Jellies</span></a>
@@ -657,7 +657,7 @@ The formula for the [Honey](honey.md) per Second (Basic Bee) is as follows:
 <li>Craft 27 Ingredients with the Blender.</li>
 <li>Defeat 27 Ladybugs.</li></ul>
 </td>
-<td>3,275,822 <span typeof="mw:Error mw:File"></span><a href="honey.html"><span class="color-template color-template-honey">Honey</span></a><br/>
+<td>3,275,822 <img alt="Honey" height="35" src="img/Honey.png" width="35"/><a href="honey.html"><span class="color-template color-template-honey">Honey</span></a><br/>
 <p>1x <i>Science Enhancement</i><br/>
 12x  <img alt="Ticket" height="35" src="img/Ticket.png" width="35"/><a href="ticket.html"><span class="color-template color-template-ticket color-template-background-clip">Tickets</span></a><br/>
 5x <img alt="Royal Jelly" height="35" src="img/Royal_Jelly.png" width="35"/><a href="royal-jelly.html"><span class="color-template color-template-royal-jelly color-template-background-clip">Royal Jellies</span></a><br/>
@@ -676,7 +676,7 @@ The formula for the [Honey](honey.md) per Second (Basic Bee) is as follows:
 <li>Craft 28 Ingredients with the Blender.</li>
 <li>Defeat 2 Werewolves.</li></ul>
 </td>
-<td>4,669,201 <span typeof="mw:Error mw:File"></span><a href="honey.html"><span class="color-template color-template-honey">Honey</span></a><br/>
+<td>4,669,201 <img alt="Honey" height="35" src="img/Honey.png" width="35"/><a href="honey.html"><span class="color-template color-template-honey">Honey</span></a><br/>
 <p>1x <i>Science Enhancement</i><br/>
 13x  <img alt="Ticket" height="35" src="img/Ticket.png" width="35"/><a href="ticket.html"><span class="color-template color-template-ticket color-template-background-clip">Tickets</span></a><br/>
 3000x <img alt="Treat" height="35" src="img/Treat.png" width="35"/><a href="treat.html"><span class="color-template color-template-treat">Treats</span></a><br/>
@@ -708,7 +708,7 @@ The formula for the [Honey](honey.md) per Second (Basic Bee) is as follows:
 <li>Defeat 20 Rhino Beetles</li>
 <li>Defeat 20 Ladybugs.</li></ul>
 </td>
-<td>14,142,135<span typeof="mw:Error mw:File"></span><a href="honey.html"><span class="color-template color-template-honey">Honey</span></a><br/>
+<td>14,142,135<img alt="Honey" height="35" src="img/Honey.png" width="35"/><a href="honey.html"><span class="color-template color-template-honey">Honey</span></a><br/>
 <p>1x <i>Science Enhancement</i><br/>
 14x  <img alt="Ticket" height="35" src="img/Ticket.png" width="35"/><a href="ticket.html"><span class="color-template color-template-ticket color-template-background-clip">Tickets</span></a> <br/>
 1x <img alt="Oil" height="35" src="img/Oil.png" width="35"/><a href="oil.html"><span class="color-template color-template-oil color-template-background-clip">Oils</span></a><br/>
@@ -733,7 +733,7 @@ The formula for the [Honey](honey.md) per Second (Basic Bee) is as follows:
 <li>Craft 64 Ingredients with the Blender.</li>
 <li>Collect 1,280 Focus Tokens.</li></ul>
 </td>
-<td>25,600,000 <span typeof="mw:Error mw:File"></span><a href="honey.html"><span class="color-template color-template-honey">Honey</span></a><br/>
+<td>25,600,000 <img alt="Honey" height="35" src="img/Honey.png" width="35"/><a href="honey.html"><span class="color-template color-template-honey">Honey</span></a><br/>
 <p>15x  <img alt="Ticket" height="35" src="img/Ticket.png" width="35"/><a href="ticket.html"><span class="color-template color-template-ticket color-template-background-clip">Tickets</span></a><br/>
 1x <img alt="Star Jelly" height="35" src="img/Star_Jelly.png" width="35"/><a href="royal-jelly.html#Star_Jelly"><span class="color-template color-template-star-jelly color-template-background-clip">Star Jellies</span></a><br/>
 1x <img alt="Translator" height="35" src="img/Translator.png" width="35"/><a href="translator.html"><span class="color-template color-template-translator color-template-background-clip">Translator</span></a><br/>
@@ -757,7 +757,7 @@ The formula for the [Honey](honey.md) per Second (Basic Bee) is as follows:
 <li>Craft 44 Ingredients with the Blender.</li>
 <li>Defeat 1 <a href="king-beetle.html">King Beetle</a>.</li></ul>
 </td>
-<td>44,444,453 <span typeof="mw:Error mw:File"></span><a href="honey.html"><span class="color-template color-template-honey">Honey</span></a><br/>
+<td>44,444,453 <img alt="Honey" height="35" src="img/Honey.png" width="35"/><a href="honey.html"><span class="color-template color-template-honey">Honey</span></a><br/>
 <p>1x <i>Science Enhancement</i><br/>
 16x <img alt="Ticket" height="35" src="img/Ticket.png" width="35"/><a href="ticket.html"><span class="color-template color-template-ticket color-template-background-clip">Tickets</span></a><br/>
 3x <img alt="Glitter" height="35" src="img/Glitter.png" width="35"/><a href="glitter.html"><span class="color-template color-template-glitter color-template-background-clip">Glitter</span></a>
@@ -770,7 +770,7 @@ The formula for the [Honey](honey.md) per Second (Basic Bee) is as follows:
 <ul><li>Discover 32 Bee Types.</li>
 <li>Collect 150,000,000 Pollen from the Mushroom Field.</li></ul>
 </td>
-<td>51,000,041 <span typeof="mw:Error mw:File"></span><a href="honey.html"><span class="color-template color-template-honey">Honey</span></a><br/>
+<td>51,000,041 <img alt="Honey" height="35" src="img/Honey.png" width="35"/><a href="honey.html"><span class="color-template color-template-honey">Honey</span></a><br/>
 <p>1x <i>Science Enhancement</i><br/>
 17x <img alt="Ticket" height="35" src="img/Ticket.png" width="35"/><a href="ticket.html"><span class="color-template color-template-ticket color-template-background-clip">Tickets</span></a><br/>
 3x <img alt="Red Extract" height="35" src="img/Red_Extract.png" width="35"/><a href="red-extract.html"><span class="color-template color-template-red-extract color-template-background-clip">Red Extracts</span></a>
@@ -795,7 +795,7 @@ The formula for the [Honey](honey.md) per Second (Basic Bee) is as follows:
 <li>Defeat 5 Vicious Bees.</li>
 <li>Defeat 1 <a href="tunnel-bear.html">Tunnel Bear</a>.</li></ul>
 </td>
-<td>101,101,111 <span typeof="mw:Error mw:File"></span><a href="honey.html"><span class="color-template color-template-honey">Honey</span></a><br/>
+<td>101,101,111 <img alt="Honey" height="35" src="img/Honey.png" width="35"/><a href="honey.html"><span class="color-template color-template-honey">Honey</span></a><br/>
 <p>1x <i>Science Enhancement</i><br/>
 18x <img alt="Ticket" height="35" src="img/Ticket.png" width="35"/><a href="ticket.html"><span class="color-template color-template-ticket color-template-background-clip">Tickets</span></a><br/>
 3x <img alt="Enzymes" height="35" src="img/Enzymes.png" width="35"/><a href="enzymes.html"><span class="color-template color-template-enzymes color-template-background-clip">Enzymes</span></a>
@@ -812,7 +812,7 @@ The formula for the [Honey](honey.md) per Second (Basic Bee) is as follows:
 <li>Collect 500 Tokens from Stick Nymphs.</li>
 <li>Collect 500 Tokens from Festive Gifts.</li></ul>
 </td>
-<td>132,471,795 <span typeof="mw:Error mw:File"></span><a href="honey.html"><span class="color-template color-template-honey">Honey</span></a><br/>
+<td>132,471,795 <img alt="Honey" height="35" src="img/Honey.png" width="35"/><a href="honey.html"><span class="color-template color-template-honey">Honey</span></a><br/>
 <p>1x <i>Science Enhancement</i><br/>
 19x <img alt="Ticket" height="35" src="img/Ticket.png" width="35"/><a href="ticket.html"><span class="color-template color-template-ticket color-template-background-clip">Tickets</span></a><br/>
 3x <img alt="Magic Bean" height="35" src="img/Magic_Bean.png" width="35"/><a href="magic-bean.html"><span class="color-template color-template-magic-bean color-template-background-clip">Magic Beans</span></a>
@@ -840,7 +840,7 @@ The formula for the [Honey](honey.md) per Second (Basic Bee) is as follows:
 <li>Defeat 10 Werewolves.</li>
 <li>Defeat 1 Tunnel Bear.</li></ul>
 </td>
-<td>314,159,265 <span typeof="mw:Error mw:File"></span><a href="honey.html"><span class="color-template color-template-honey">Honey</span></a><br/>
+<td>314,159,265 <img alt="Honey" height="35" src="img/Honey.png" width="35"/><a href="honey.html"><span class="color-template color-template-honey">Honey</span></a><br/>
 <p>1x <i>Science Enhancement</i><br/>
 20x <img alt="Ticket" height="35" src="img/Ticket.png" width="35"/><a href="ticket.html"><span class="color-template color-template-ticket color-template-background-clip">Tickets</span></a><br/>
 1x <img alt="Translator" height="35" src="img/Translator.png" width="35"/><a href="translator.html"><span class="color-template color-template-translator color-template-background-clip">Translator</span></a><br/>
@@ -874,7 +874,7 @@ The formula for the [Honey](honey.md) per Second (Basic Bee) is as follows:
 <li>Defeat 10 Werewolves.</li>
 <li>Defeat 1 Tunnel Bear.</li></ul>
 </td>
-<td>314,159,265 <span typeof="mw:Error mw:File"></span><a href="honey.html"><span class="color-template color-template-honey">Honey</span></a><br/>
+<td>314,159,265 <img alt="Honey" height="35" src="img/Honey.png" width="35"/><a href="honey.html"><span class="color-template color-template-honey">Honey</span></a><br/>
 <p>1x <i>Science Enhancement</i><br/>
 20x <img alt="Ticket" height="35" src="img/Ticket.png" width="35"/><a href="ticket.html"><span class="color-template color-template-ticket color-template-background-clip">Tickets</span></a><br/>
 1x <img alt="Translator" height="35" src="img/Translator.png" width="35"/><a href="translator.html"><span class="color-template color-template-translator color-template-background-clip">Translator</span></a><br/>
@@ -911,7 +911,7 @@ The formula for the [Honey](honey.md) per Second (Basic Bee) is as follows:
 <li>Obtain 4 Micro-Converters.</li>
 <li>Obtain 1 Glue.</li></ul>
 </td>
-<td><span typeof="mw:Error mw:File"></span>67,108,864 <a href="honey.html"><span class="color-template color-template-honey">Honey</span></a><br/>
+<td><img alt="Honey" height="25" src="img/Honey.png" width="25"/>67,108,864 <a href="honey.html"><span class="color-template color-template-honey">Honey</span></a><br/>
 <p><img alt="Ticket" height="25" src="img/Ticket.png" width="25"/>25 <a href="ticket.html"><span class="color-template color-template-ticket color-template-background-clip">Tickets</span></a><br/>
 <img alt="Atomic Treat" height="25" src="img/Atomic_Treat.png" width="25"/>1 <a href="atomic-treat.html"><span class="color-template color-template-atomic-treat color-template-background-clip">Atomic Treat</span></a><br/>
 <img alt="White Balloon" height="25" src="img/White_Balloon.png" width="25"/>1 <a href="white-balloon.html"><span class="color-template color-template-white-balloon color-template-background-clip">White Balloon</span></a><br/>
@@ -942,7 +942,7 @@ The formula for the [Honey](honey.md) per Second (Basic Bee) is as follows:
 <li>Obtain 8 Micro-Converters.</li>
 <li>Obtain 4 Glue.</li></ul>
 </td>
-<td><span typeof="mw:Error mw:File"></span>268,435,459 <a href="honey.html"><span class="color-template color-template-honey">Honey</span></a><br/>
+<td><img alt="Honey" height="25" src="img/Honey.png" width="25"/>268,435,459 <a href="honey.html"><span class="color-template color-template-honey">Honey</span></a><br/>
 <p><img alt="Ticket" height="25" src="img/Ticket.png" width="25"/>50 <a href="ticket.html"><span class="color-template color-template-ticket color-template-background-clip">Tickets</span></a><br/>
 <img alt="Star Jelly" height="25" src="img/Star_Jelly.png" width="25"/>1 <a href="royal-jelly.html#Star_Jelly"><span class="color-template color-template-star-jelly color-template-background-clip">Star Jelly</span></a><br/>
 <img alt="Caustic Wax" height="25" src="img/Caustic_Wax.png" width="25"/>1 <a href="caustic-wax.html"><span class="color-template color-template-caustic-wax">Caustic Wax</span></a><br/>
@@ -970,7 +970,7 @@ The formula for the [Honey](honey.md) per Second (Basic Bee) is as follows:
 <li>Obtain 8 Micro-Converters.</li>
 <li>Obtain 4 Glue.</li></ul>
 </td>
-<td><span typeof="mw:Error mw:File"></span>268,435,459 <a href="honey.html"><span class="color-template color-template-honey">Honey</span></a><br/>
+<td><img alt="Honey" height="25" src="img/Honey.png" width="25"/>268,435,459 <a href="honey.html"><span class="color-template color-template-honey">Honey</span></a><br/>
 <p><img alt="Ticket" height="25" src="img/Ticket.png" width="25"/>50 <a href="ticket.html"><span class="color-template color-template-ticket color-template-background-clip">Tickets</span></a><br/>
 <img alt="Star Jelly" height="25" src="img/Star_Jelly.png" width="25"/>1 <a href="royal-jelly.html#Star_Jelly"><span class="color-template color-template-star-jelly color-template-background-clip">Star Jelly</span></a><br/>
 <img alt="Caustic Wax" height="25" src="img/Caustic_Wax.png" width="25"/>1 <a href="caustic-wax.html"><span class="color-template color-template-caustic-wax">Caustic Wax</span></a><br/>
@@ -1419,7 +1419,7 @@ The following content has been removed from the game. The contents below may be 
 <li>Collect 4 <a href="neonberry.html">Neonberries</a>.</li>
 <li>Earn 1 <a href="sticker-stack.html">Sticker Stack</a> Badge.</li></ul>
 </td>
-<td><span typeof="mw:Error mw:File"></span>5,759,599 <a href="honey.html"><span class="color-template color-template-honey">Honey</span></a><br/>
+<td><img alt="Honey" height="25" src="img/Honey.png" width="25"/>5,759,599 <a href="honey.html"><span class="color-template color-template-honey">Honey</span></a><br/>
 <p><img alt="Ticket" height="25" src="img/Ticket.png" width="25"/>10 <a href="ticket.html"><span class="color-template color-template-ticket color-template-background-clip">Tickets</span></a><br/>
 <img alt="Loaded Dice" height="25" src="img/Loaded_Dice.png" width="25"/>1 <a href="loaded-dice.html"><span class="color-template color-template-loaded-dice color-template-background-clip">Loaded Dice</span></a><br/>
 <img alt="Enzymes" height="25" src="img/Enzymes.png" width="25"/>5 <a href="enzymes.html"><span class="color-template color-template-enzymes color-template-background-clip">Enzymes</span></a><br/>
@@ -1464,7 +1464,7 @@ The following content has been removed from the game. The contents below may be 
 <li>Collect 10 <a href="micro-converter.html">Micro-Converters</a>.</li>
 <li>Collect 4 <a href="neonberry.html">Neonberries</a>.</li></ul>
 </td>
-<td><span typeof="mw:Error mw:File"></span>14,142,135 <a href="honey.html"><span class="color-template color-template-honey">Honey</span></a><br/>
+<td><img alt="Honey" height="25" src="img/Honey.png" width="25"/>14,142,135 <a href="honey.html"><span class="color-template color-template-honey">Honey</span></a><br/>
 <p><img alt="Ticket" height="25" src="img/Ticket.png" width="25"/>10 <a href="ticket.html"><span class="color-template color-template-ticket color-template-background-clip">Tickets</span></a><br/>
 <img alt="Bitterberry" height="25" src="img/Bitterberry.png" width="25"/>10 <a href="bitterberry.html"><span class="color-template color-template-bitterberry color-template-background-clip">Bitterberries</span></a><br/>
 <img alt="Glue" height="25" src="img/Glue.png" width="25"/>3 <a href="glue.html"><span class="color-template color-template-glue color-template-background-clip">Glues</span></a><br/>
@@ -1512,7 +1512,7 @@ The following content has been removed from the game. The contents below may be 
 <li>Obtain 3 Simple Sun <a href="sticker.html">Stickers</a> to give to Science Bear.</li>
 <li>Obtain 1 Traffic Light <a href="sticker.html">Sticker</a> to give to Science Bear.</li></ul>
 </td>
-<td><span typeof="mw:Error mw:File"></span>3,275,822 <a href="honey.html"><span class="color-template color-template-honey">Honey</span></a><br/>
+<td><img alt="Honey" height="25" src="img/Honey.png" width="25"/>3,275,822 <a href="honey.html"><span class="color-template color-template-honey">Honey</span></a><br/>
 <p><img alt="Ticket" height="25" src="img/Ticket.png" width="25"/>10 <a href="ticket.html"><span class="color-template color-template-ticket color-template-background-clip">Tickets</span></a><br/>
 <img alt="Enzymes" height="25" src="img/Enzymes.png" width="25"/>3 <a href="enzymes.html"><span class="color-template color-template-enzymes color-template-background-clip">Enzymes</span></a><br/>
 <img alt="Glue" height="25" src="img/Glue.png" width="25"/>1 <a href="glue.html"><span class="color-template color-template-glue color-template-background-clip">Glue</span></a><br/>
@@ -1556,7 +1556,7 @@ The following content has been removed from the game. The contents below may be 
 <li>Collect 11 Tokens from <a href="fireflies.html">Fireflies</a>.</li>
 <li>Collect 11 Tokens from <a href="wild-windy-bee.html">Wild Windy Bee</a>.</li></ul>
 </td>
-<td><span typeof="mw:Error mw:File"></span>1,414,213 <a href="honey.html"><span class="color-template color-template-honey">Honey</span></a><br/>
+<td><img alt="Honey" height="25" src="img/Honey.png" width="25"/>1,414,213 <a href="honey.html"><span class="color-template color-template-honey">Honey</span></a><br/>
 <p><img alt="Red Drive" height="25" src="img/Red_Drive.png" width="25"/>1 <a href="drives.html#Red_Drive"><span class="color-template color-template-red-drive color-template-background-clip">Red Drive</span></a><br/>
 <img alt="Purple Potion" height="25" src="img/Purple_Potion.png" width="25"/>1 <a href="purple-potion.html"><span class="color-template color-template-purple-potion color-template-background-clip">Purple Potion</span></a><br/>
 <img alt="Micro-Converter" height="25" src="img/Micro-Converter.png" width="25"/>5 <a href="micro-converter.html"><span class="color-template color-template-micro-converter color-template-background-clip">Micro-Converters</span></a><br/>
@@ -1599,7 +1599,7 @@ The following content has been removed from the game. The contents below may be 
 <li>Collect 1 Hour of Nectar from Planters</li></ul>
 </td>
 <td><img alt="Paper Planter" height="25" src="img/Paper_Planter.png" width="25"/>1 <a href="paper-planter.html"><span class="color-template color-template-paper-planter color-template-background-clip">Paper Planter</span></a> (Upon receiving quest)<br/>
-<p><span typeof="mw:Error mw:File"></span>567,143 <a href="honey.html"><span class="color-template color-template-honey">Honey</span></a><br/>
+<p><img alt="Honey" height="25" src="img/Honey.png" width="25"/>567,143 <a href="honey.html"><span class="color-template color-template-honey">Honey</span></a><br/>
 <img alt="Ticket" height="25" src="img/Ticket.png" width="25"/>3 <a href="ticket.html"><span class="color-template color-template-ticket color-template-background-clip">Tickets</span></a><br/>
 <img alt="Ticket Planter" height="25" src="img/Ticket_Planter.png" width="25"/>1 <a href="ticket-planter.html"><span class="color-template color-template-ticket-planter color-template-background-clip">Ticket Planter</span></a><br/>
 <img alt="Enzymes" height="25" src="img/Enzymes.png" width="25"/>3 <a href="enzymes.html"><span class="color-template color-template-enzymes color-template-background-clip">Enzymes</span></a><br/>
@@ -1642,7 +1642,7 @@ The following content has been removed from the game. The contents below may be 
 <li>Collect 111 <a href="ability-tokens.html#Bomb">Bomb</a> Tokens.</li>
 <li>Collect 11 Tokens from <a href="fireflies.html">Fireflies</a>.</li></ul>
 </td>
-<td><span typeof="mw:Error mw:File"></span>299,792 <a href="honey.html"><span class="color-template color-template-honey">Honey</span></a><br/>
+<td><img alt="Honey" height="25" src="img/Honey.png" width="25"/>299,792 <a href="honey.html"><span class="color-template color-template-honey">Honey</span></a><br/>
 <p><img alt="Snowflake" height="25" src="img/Snowflake.png" width="25"/>20 <a href="snowflake.html"><span class="color-template color-template-snowflake color-template-background-clip">Snowflakes</span></a><br/>
 <img alt="Neonberry" height="25" src="img/Neonberry.png" width="25"/>5 <a href="neonberry.html"><span class="color-template color-template-neonberry color-template-background-clip">Neonberries</span></a><br/>
 <img alt="Glue" height="25" src="img/Glue.png" width="25"/>1 <a href="glue.html"><span class="color-template color-template-glue color-template-background-clip">Glue</span></a><br/>
@@ -1685,7 +1685,7 @@ The following content has been removed from the game. The contents below may be 
 <li>Earn 1 Playtime Badge</li></ul>
 </td>
 <td><span typeof="mw:Error mw:File"></span> Conical Flask <a href="ornaments.html">Ornament</a><br/>
-<p><span typeof="mw:Error mw:File"></span>122,519 <a href="honey.html"><span class="color-template color-template-honey">Honey</span></a><br/>
+<p><img alt="Honey" height="25" src="img/Honey.png" width="25"/>122,519 <a href="honey.html"><span class="color-template color-template-honey">Honey</span></a><br/>
 <img alt="Ticket" height="25" src="img/Ticket.png" width="25"/>5 <a href="ticket.html"><span class="color-template color-template-ticket color-template-background-clip">Tickets</span></a><br/>
 <img alt="Enzymes" height="25" src="img/Enzymes.png" width="25"/>1 <a href="enzymes.html"><span class="color-template color-template-enzymes color-template-background-clip">Enzymes</span></a>
 </p>
@@ -1723,7 +1723,7 @@ The following content has been removed from the game. The contents below may be 
 <li>Collect 2,000 Pollen from the <a href="clover-field.html">Clover Field</a>.</li>
 <li>Collect 100 <a href="honey.html">Honey</a> Tokens.</li></ul>
 </td>
-<td><span typeof="mw:Error mw:File"></span>16,000 <a href="honey.html"><span class="color-template color-template-honey">Honey</span></a><br/>
+<td><img alt="Honey" height="25" src="img/Honey.png" width="25"/>16,000 <a href="honey.html"><span class="color-template color-template-honey">Honey</span></a><br/>
 <p><img alt="Marshmallow Bee" height="25" src="img/Marshmallow_Bee.png" width="25"/>3 <a href="marshmallow-bee.html"><span class="color-template color-template-marshmallow-bee color-template-background-clip">Marshmallow Bees</span></a><br/>
 <img alt="Gumdrops" height="25" src="img/Gumdrops.png" width="25"/>50 <a href="gumdrops.html"><span class="color-template color-template-gumdrops color-template-background-clip">Gumdrops</span></a><br/>
 <img alt="Jelly Beans" height="25" src="img/Jelly_Beans.png" width="25"/>3 <a href="jelly-beans.html"><span class="color-template color-template-jelly-beans color-template-background-clip">Jelly Beans</span></a><br/>

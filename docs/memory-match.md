@@ -46,7 +46,7 @@ There's also a memory match that is started upon receiving certain quests.
 </div>
 <div class="pi-item pi-data pi-item-spacing pi-border-color" data-source="cost">
 <h3 class="pi-data-label pi-secondary-font">Cost</h3>
-<div class="pi-data-value pi-font"><span typeof="mw:Error mw:File"></span>25,000 <a href="honey.html"><span class="color-template color-template-honey">Honey</span></a></div>
+<div class="pi-data-value pi-font"><img alt="Honey" height="25" src="img/Honey.png" width="25"/>25,000 <a href="honey.html"><span class="color-template color-template-honey">Honey</span></a></div>
 </div>
 <div class="pi-item pi-data pi-item-spacing pi-border-color" data-source="cooldown">
 <h3 class="pi-data-label pi-secondary-font">Cooldown</h3>
@@ -99,7 +99,7 @@ As a result, the exact chance of a pair appearing is significantly higher than t
 </div>
 <div class="pi-item pi-data pi-item-spacing pi-border-color" data-source="cost">
 <h3 class="pi-data-label pi-secondary-font">Cost</h3>
-<div class="pi-data-value pi-font"><span typeof="mw:Error mw:File"></span>500,000 <a href="honey.html"><span class="color-template color-template-honey">Honey</span></a></div>
+<div class="pi-data-value pi-font"><img alt="Honey" height="25" src="img/Honey.png" width="25"/>500,000 <a href="honey.html"><span class="color-template color-template-honey">Honey</span></a></div>
 </div>
 <div class="pi-item pi-data pi-item-spacing pi-border-color" data-source="cooldown">
 <h3 class="pi-data-label pi-secondary-font">Cooldown</h3>
@@ -157,7 +157,7 @@ As a result, the exact chance of a pair appearing is significantly higher than t
 </div>
 <div class="pi-item pi-data pi-item-spacing pi-border-color" data-source="cost">
 <h3 class="pi-data-label pi-secondary-font">Cost</h3>
-<div class="pi-data-value pi-font"><span typeof="mw:Error mw:File"></span>5,000,000 <a href="honey.html"><span class="color-template color-template-honey">Honey</span></a></div>
+<div class="pi-data-value pi-font"><img alt="Honey" height="25" src="img/Honey.png" width="25"/>5,000,000 <a href="honey.html"><span class="color-template color-template-honey">Honey</span></a></div>
 </div>
 <div class="pi-item pi-data pi-item-spacing pi-border-color" data-source="cooldown">
 <h3 class="pi-data-label pi-secondary-font">Cooldown</h3>
@@ -206,7 +206,7 @@ As a result, the exact chance of a pair appearing is significantly higher than t
 </div>
 <div class="pi-item pi-data pi-item-spacing pi-border-color" data-source="cost">
 <h3 class="pi-data-label pi-secondary-font">Cost</h3>
-<div class="pi-data-value pi-font"><span typeof="mw:Error mw:File"></span>25,000,000 <a href="honey.html"><span class="color-template color-template-honey">Honey</span></a></div>
+<div class="pi-data-value pi-font"><img alt="Honey" height="25" src="img/Honey.png" width="25"/>25,000,000 <a href="honey.html"><span class="color-template color-template-honey">Honey</span></a></div>
 </div>
 <div class="pi-item pi-data pi-item-spacing pi-border-color" data-source="cooldown">
 <h3 class="pi-data-label pi-secondary-font">Cooldown</h3>

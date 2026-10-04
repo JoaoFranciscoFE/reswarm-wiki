@@ -119,7 +119,7 @@ Note that what players are able to buy is actually a sprinkler *builder*, which 
 <td>10 Grandmaster<br/>(Tier 5)
 </td></tr>
 <tr>
-<td><b>Cost</b> in <span typeof="mw:Error mw:File"></span><a href="honey.html"><span class="color-template color-template-honey">Honey</span></a>
+<td><b>Cost</b> in <img alt="Honey" height="35" src="img/Honey.png" width="35"/><a href="honey.html"><span class="color-template color-template-honey">Honey</span></a>
 </td>
 <td>1,111,111
 </td>

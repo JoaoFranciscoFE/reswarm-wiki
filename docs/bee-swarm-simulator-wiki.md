@@ -46,7 +46,7 @@ A collaborative community wiki about [***Bee Swarm Simulator***](https://www.rob
 <p><b>April 23, 2026</b>
 Beesmas Extended (Minor Update)
 </p><p>⏱️ Beesmas has been extended all the way to May 31st<br/>
-🌼 <a href="bee-bear.html">Bee Bear</a> has been given 5 final quests, rewarding the player with the exclusive <span typeof="mw:Error mw:File"></span><a href="cub-buddy.html#Skins"><span class="color-template color-template-petal-cub color-template-background-clip">Petal Cub</span></a>!
+🌼 <a href="bee-bear.html">Bee Bear</a> has been given 5 final quests, rewarding the player with the exclusive <img alt="Petal Cub" height="35" src="img/Petal_Cub.png" width="35"/><a href="cub-buddy.html#Skins"><span class="color-template color-template-petal-cub color-template-background-clip">Petal Cub</span></a>!
 </p>
 <hr/>
 <p><b>December 27, 2025</b>

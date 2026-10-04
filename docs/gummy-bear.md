@@ -151,7 +151,7 @@ The following content has been removed from the game. The contents below may be 
 <td>
 <ul><li>Collect 500 <a href="goo.html">Goo</a>.</li></ul>
 </td>
-<td><span typeof="mw:Error mw:File"></span>750 <a href="honey.html"><span class="color-template color-template-honey">Honey</span></a><br/>
+<td><img alt="Honey" height="25" src="img/Honey.png" width="25"/>750 <a href="honey.html"><span class="color-template color-template-honey">Honey</span></a><br/>
 <p><img alt="Gumdrops" height="25" src="img/Gumdrops.png" width="25"/>1 <a href="gumdrops.html"><span class="color-template color-template-gumdrops color-template-background-clip">Gumdrops</span></a><br/>
 <img alt="Ticket" height="25" src="img/Ticket.png" width="25"/>1 <a href="ticket.html"><span class="color-template color-template-ticket color-template-background-clip">Ticket</span></a>
 </p>
@@ -163,7 +163,7 @@ The following content has been removed from the game. The contents below may be 
 <ul><li>Collect 5 <a href="honey.html">Honey</a> Tokens.</li>
 <li>Collect 2,000 <a href="goo.html">Goo</a>.</li></ul>
 </td>
-<td><span typeof="mw:Error mw:File"></span>3,000 <a href="honey.html"><span class="color-template color-template-honey">Honey</span></a><br/>
+<td><img alt="Honey" height="25" src="img/Honey.png" width="25"/>3,000 <a href="honey.html"><span class="color-template color-template-honey">Honey</span></a><br/>
 <p><img alt="Gumdrops" height="25" src="img/Gumdrops.png" width="25"/>1 <a href="gumdrops.html"><span class="color-template color-template-gumdrops color-template-background-clip">Gumdrops</span></a><br/>
 <img alt="Ticket" height="25" src="img/Ticket.png" width="25"/>1 <a href="ticket.html"><span class="color-template color-template-ticket color-template-background-clip">Ticket</span></a>
 </p>
@@ -174,7 +174,7 @@ The following content has been removed from the game. The contents below may be 
 <td>
 <ul><li>Collect 3,500 <a href="goo.html">Goo</a> from the <a href="clover-field.html">Clover Field</a>.</li></ul>
 </td>
-<td><span typeof="mw:Error mw:File"></span>6,000 <a href="honey.html"><span class="color-template color-template-honey">Honey</span></a><br/>
+<td><img alt="Honey" height="25" src="img/Honey.png" width="25"/>6,000 <a href="honey.html"><span class="color-template color-template-honey">Honey</span></a><br/>
 <p><img alt="Gumdrops" height="25" src="img/Gumdrops.png" width="25"/>1 <a href="gumdrops.html"><span class="color-template color-template-gumdrops color-template-background-clip">Gumdrops</span></a><br/>
 <img alt="Ticket" height="25" src="img/Ticket.png" width="25"/>1 <a href="ticket.html"><span class="color-template color-template-ticket color-template-background-clip">Ticket</span></a>
 </p>
@@ -188,7 +188,7 @@ The following content has been removed from the game. The contents below may be 
 <li>Collect 2,000 <a href="goo.html">Goo</a> from <a href="flowers.html">Red Flowers</a>.</li>
 <li>Collect 2,000 <a href="goo.html">Goo</a> from <a href="flowers.html">Blue Flowers</a>.</li></ul>
 </td>
-<td><span typeof="mw:Error mw:File"></span>13,000 <a href="honey.html"><span class="color-template color-template-honey">Honey</span></a><br/>
+<td><img alt="Honey" height="25" src="img/Honey.png" width="25"/>13,000 <a href="honey.html"><span class="color-template color-template-honey">Honey</span></a><br/>
 <p><img alt="Gumdrops" height="25" src="img/Gumdrops.png" width="25"/>1 <a href="gumdrops.html"><span class="color-template color-template-gumdrops color-template-background-clip">Gumdrops</span></a><br/>
 <img alt="Ticket" height="25" src="img/Ticket.png" width="25"/>1 <a href="ticket.html"><span class="color-template color-template-ticket color-template-background-clip">Ticket</span></a>
 </p>
@@ -200,7 +200,7 @@ The following content has been removed from the game. The contents below may be 
 <ul><li>Collect 20,000 <a href="goo.html">Goo</a> from the <a href="spider-field.html">Spider Field</a>.</li>
 <li>Defeat 2 <a href="spider.html">Spiders</a>.</li></ul>
 </td>
-<td><span typeof="mw:Error mw:File"></span>26,000 <a href="honey.html"><span class="color-template color-template-honey">Honey</span></a><br/>
+<td><img alt="Honey" height="25" src="img/Honey.png" width="25"/>26,000 <a href="honey.html"><span class="color-template color-template-honey">Honey</span></a><br/>
 <p><img alt="Royal Jelly" height="25" src="img/Royal_Jelly.png" width="25"/>1 <a href="royal-jelly.html"><span class="color-template color-template-royal-jelly color-template-background-clip">Royal Jelly</span></a><br/>
 <img alt="Gumdrops" height="25" src="img/Gumdrops.png" width="25"/>1 <a href="gumdrops.html"><span class="color-template color-template-gumdrops color-template-background-clip">Gumdrops</span></a><br/>
 <img alt="Ticket" height="25" src="img/Ticket.png" width="25"/>1 <a href="ticket.html"><span class="color-template color-template-ticket color-template-background-clip">Ticket</span></a>
@@ -217,7 +217,7 @@ The following content has been removed from the game. The contents below may be 
 <li>Collect 5,000 <a href="goo.html">Goo</a> from the <a href="strawberry-field.html">Strawberry Field</a>.</li>
 <li>Collect 5,000 <a href="goo.html">Goo</a> from the <a href="bamboo-field.html">Bamboo Field</a>.</li></ul>
 </td>
-<td><span typeof="mw:Error mw:File"></span>50,000 <a href="honey.html"><span class="color-template color-template-honey">Honey</span></a><br/>
+<td><img alt="Honey" height="25" src="img/Honey.png" width="25"/>50,000 <a href="honey.html"><span class="color-template color-template-honey">Honey</span></a><br/>
 <p><img alt="Gumdrops" height="25" src="img/Gumdrops.png" width="25"/>1 <a href="gumdrops.html"><span class="color-template color-template-gumdrops color-template-background-clip">Gumdrops</span></a><br/>
 <img alt="Ticket" height="25" src="img/Ticket.png" width="25"/>2 <a href="ticket.html"><span class="color-template color-template-ticket color-template-background-clip">Tickets</span></a>
 </p>
@@ -228,7 +228,7 @@ The following content has been removed from the game. The contents below may be 
 <td>
 <ul><li>Collect 60,000 <a href="goo.html">Goo</a>.</li></ul>
 </td>
-<td><span typeof="mw:Error mw:File"></span>75,000 <a href="honey.html"><span class="color-template color-template-honey">Honey</span></a><br/>
+<td><img alt="Honey" height="25" src="img/Honey.png" width="25"/>75,000 <a href="honey.html"><span class="color-template color-template-honey">Honey</span></a><br/>
 <p><img alt="Gumdrops" height="25" src="img/Gumdrops.png" width="25"/>1 <a href="gumdrops.html"><span class="color-template color-template-gumdrops color-template-background-clip">Gumdrops</span></a><br/>
 <img alt="Ticket" height="25" src="img/Ticket.png" width="25"/>2 <a href="ticket.html"><span class="color-template color-template-ticket color-template-background-clip">Tickets</span></a>
 </p>
@@ -241,7 +241,7 @@ The following content has been removed from the game. The contents below may be 
 <li>Use the <a href="slingshot.html">Slingshot</a> 10 Times.</li>
 <li>Collect 80,000 <a href="goo.html">Goo</a> from the <a href="pineapple-patch.html">Pineapple Patch</a>.</li></ul>
 </td>
-<td><span typeof="mw:Error mw:File"></span>100,000 <a href="honey.html"><span class="color-template color-template-honey">Honey</span></a><br/>
+<td><img alt="Honey" height="25" src="img/Honey.png" width="25"/>100,000 <a href="honey.html"><span class="color-template color-template-honey">Honey</span></a><br/>
 <p><img alt="Gumdrops" height="25" src="img/Gumdrops.png" width="25"/>1 <a href="gumdrops.html"><span class="color-template color-template-gumdrops color-template-background-clip">Gumdrops</span></a><br/>
 <img alt="Ticket" height="25" src="img/Ticket.png" width="25"/>2 <a href="ticket.html"><span class="color-template color-template-ticket color-template-background-clip">Tickets</span></a>
 </p>
@@ -255,7 +255,7 @@ The following content has been removed from the game. The contents below may be 
 <li>Defeat 10 <a href="rhino-beetle.html">Rhino Beetles</a>.</li>
 <li>Defeat 3 <a href="spider.html">Spiders</a>.</li></ul>
 </td>
-<td><span typeof="mw:Error mw:File"></span>130,000 <a href="honey.html"><span class="color-template color-template-honey">Honey</span></a><br/>
+<td><img alt="Honey" height="25" src="img/Honey.png" width="25"/>130,000 <a href="honey.html"><span class="color-template color-template-honey">Honey</span></a><br/>
 <p><img alt="Gumdrops" height="25" src="img/Gumdrops.png" width="25"/>1 <a href="gumdrops.html"><span class="color-template color-template-gumdrops color-template-background-clip">Gumdrops</span></a><br/>
 <img alt="Ticket" height="25" src="img/Ticket.png" width="25"/>2 <a href="ticket.html"><span class="color-template color-template-ticket color-template-background-clip">Tickets</span></a>
 </p>
@@ -269,7 +269,7 @@ The following content has been removed from the game. The contents below may be 
 <li>Collect 80,000 <a href="goo.html">Goo</a> from <a href="flowers.html">Blue Flowers</a>.</li>
 <li>Collect 80,000 <a href="goo.html">Goo</a> from the <a href="clover-field.html">Clover Field</a>.</li></ul>
 </td>
-<td><span typeof="mw:Error mw:File"></span>170,000 <a href="honey.html"><span class="color-template color-template-honey">Honey</span></a><br/>
+<td><img alt="Honey" height="25" src="img/Honey.png" width="25"/>170,000 <a href="honey.html"><span class="color-template color-template-honey">Honey</span></a><br/>
 <p><img alt="Royal Jelly" height="25" src="img/Royal_Jelly.png" width="25"/>2 <a href="royal-jelly.html"><span class="color-template color-template-royal-jelly color-template-background-clip">Royal Jellies</span></a><br/>
 <img alt="Gumdrops" height="25" src="img/Gumdrops.png" width="25"/>1 <a href="gumdrops.html"><span class="color-template color-template-gumdrops color-template-background-clip">Gumdrops</span></a><br/>
 <img alt="Ticket" height="25" src="img/Ticket.png" width="25"/>2 <a href="ticket.html"><span class="color-template color-template-ticket color-template-background-clip">Tickets</span></a>
@@ -283,7 +283,7 @@ The following content has been removed from the game. The contents below may be 
 <li>Use the <a href="yellow-cannon.html">Yellow Cannon</a> 30 Times.</li>
 <li>Collect 200,000 <a href="goo.html">Goo</a> from <a href="flowers.html">White Flowers</a>.</li></ul>
 </td>
-<td><span typeof="mw:Error mw:File"></span>250,000 <a href="honey.html"><span class="color-template color-template-honey">Honey</span></a><br/>
+<td><img alt="Honey" height="25" src="img/Honey.png" width="25"/>250,000 <a href="honey.html"><span class="color-template color-template-honey">Honey</span></a><br/>
 <p><img alt="Gumdrops" height="25" src="img/Gumdrops.png" width="25"/>1 <a href="gumdrops.html"><span class="color-template color-template-gumdrops color-template-background-clip">Gumdrops</span></a><br/>
 <img alt="Ticket" height="25" src="img/Ticket.png" width="25"/>3 <a href="ticket.html"><span class="color-template color-template-ticket color-template-background-clip">Tickets</span></a>
 </p>
@@ -296,7 +296,7 @@ The following content has been removed from the game. The contents below may be 
 <li>Collect 200,000 <a href="goo.html">Goo</a> from the <a href="pumpkin-patch.html">Pumpkin Patch</a>.</li>
 <li>Collect 200,000 <a href="goo.html">Goo</a> from the <a href="cactus-field.html">Cactus Field</a>.</li></ul>
 </td>
-<td><span typeof="mw:Error mw:File"></span>400,000 <a href="honey.html"><span class="color-template color-template-honey">Honey</span></a><br/>
+<td><img alt="Honey" height="25" src="img/Honey.png" width="25"/>400,000 <a href="honey.html"><span class="color-template color-template-honey">Honey</span></a><br/>
 <p><img alt="Gumdrops" height="25" src="img/Gumdrops.png" width="25"/>1 <a href="gumdrops.html"><span class="color-template color-template-gumdrops color-template-background-clip">Gumdrops</span></a><br/>
 <img alt="Ticket" height="25" src="img/Ticket.png" width="25"/>4 <a href="ticket.html"><span class="color-template color-template-ticket color-template-background-clip">Tickets</span></a>
 </p>
@@ -311,7 +311,7 @@ The following content has been removed from the game. The contents below may be 
 <li>Collect 300,000 <a href="goo.html">Goo</a> from the <a href="rose-field.html">Rose Field</a>.</li>
 <li>Collect 300,000 <a href="goo.html">Goo</a> from the <a href="pine-tree-forest.html">Pine Tree Forest</a>.</li></ul>
 </td>
-<td><span typeof="mw:Error mw:File"></span>650,000 <a href="honey.html"><span class="color-template color-template-honey">Honey</span></a><br/>
+<td><img alt="Honey" height="25" src="img/Honey.png" width="25"/>650,000 <a href="honey.html"><span class="color-template color-template-honey">Honey</span></a><br/>
 <p><img alt="Gumdrops" height="25" src="img/Gumdrops.png" width="25"/>1 <a href="gumdrops.html"><span class="color-template color-template-gumdrops color-template-background-clip">Gumdrops</span></a><br/>
 <img alt="Ticket" height="25" src="img/Ticket.png" width="25"/>4 <a href="ticket.html"><span class="color-template color-template-ticket color-template-background-clip">Tickets</span></a>
 </p>
@@ -327,7 +327,7 @@ The following content has been removed from the game. The contents below may be 
 <li>Defeat 10 <a href="scorpion.html">Scorpions</a>.</li>
 <li>Defeat 3 <a href="werewolf.html">Werewolves</a>.</li></ul>
 </td>
-<td><span typeof="mw:Error mw:File"></span>880,000 <a href="honey.html"><span class="color-template color-template-honey">Honey</span></a><br/>
+<td><img alt="Honey" height="25" src="img/Honey.png" width="25"/>880,000 <a href="honey.html"><span class="color-template color-template-honey">Honey</span></a><br/>
 <p><img alt="Gumdrops" height="25" src="img/Gumdrops.png" width="25"/>1 <a href="gumdrops.html"><span class="color-template color-template-gumdrops color-template-background-clip">Gumdrops</span></a><br/>
 <img alt="Ticket" height="25" src="img/Ticket.png" width="25"/>5 <a href="ticket.html"><span class="color-template color-template-ticket color-template-background-clip">Tickets</span></a>
 </p>

@@ -129,7 +129,7 @@ The following content has been removed from the game. The contents below may be 
 <li>Collect 200 <a href="pollen.html">Red Pollen</a>.</li>
 <li>Collect 5 <a href="snowflake.html">Snowflakes</a>.</li></ul>
 </td>
-<td><span typeof="mw:Error mw:File"></span>2,000 <a href="honey.html"><span class="color-template color-template-honey">Honey</span></a><br/>
+<td><img alt="Honey" height="25" src="img/Honey.png" width="25"/>2,000 <a href="honey.html"><span class="color-template color-template-honey">Honey</span></a><br/>
 <p><img alt="Ticket" height="25" src="img/Ticket.png" width="25"/>5 <a href="ticket.html"><span class="color-template color-template-ticket color-template-background-clip">Tickets</span></a><br/>
 <img alt="Royal Jelly" height="25" src="img/Royal_Jelly.png" width="25"/>1 <a href="royal-jelly.html"><span class="color-template color-template-royal-jelly color-template-background-clip">Royal Jelly</span></a><br/>
 <img alt="Cloud Vial" height="25" src="img/Cloud_Vial.png" width="25"/>1 <a href="cloud-vial.html"><span class="color-template color-template-cloud-vial color-template-background-clip">Cloud Vial</span></a><br/>
@@ -144,7 +144,7 @@ The following content has been removed from the game. The contents below may be 
 <li>Collect 25 <a href="ability-tokens.html">Ability Tokens</a>.</li>
 <li>Catch 50 <a href="bloom.html#Petals">Petals</a>.</li></ul>
 </td>
-<td><span typeof="mw:Error mw:File"></span>20,000 <a href="honey.html"><span class="color-template color-template-honey">Honey</span></a><br/>
+<td><img alt="Honey" height="25" src="img/Honey.png" width="25"/>20,000 <a href="honey.html"><span class="color-template color-template-honey">Honey</span></a><br/>
 <p><img alt="Ticket" height="25" src="img/Ticket.png" width="25"/>5 <a href="ticket.html"><span class="color-template color-template-ticket color-template-background-clip">Tickets</span></a><br/>
 <img alt="Present" height="25" src="img/Present.png" width="25"/>1 <a href="present.html"><span class="color-template color-template-present color-template-background-clip">Present</span></a><br/>
 <img alt="Gingerbread Bear" height="25" src="img/Gingerbread_Bear.png" width="25"/>1 <a href="gingerbread-bear.html"><span class="color-template color-template-gingerbread-bear color-template-background-clip">Gingerbread Bear</span></a>
@@ -161,7 +161,7 @@ The following content has been removed from the game. The contents below may be 
 <li>Defeat 1 <a href="spider.html">Spider</a>.</li>
 <li>Give 1 <a href="present.html">Present</a> to NPCs.</li></ul>
 </td>
-<td><span typeof="mw:Error mw:File"></span>100,000 <a href="honey.html"><span class="color-template color-template-honey">Honey</span></a><br/>
+<td><img alt="Honey" height="25" src="img/Honey.png" width="25"/>100,000 <a href="honey.html"><span class="color-template color-template-honey">Honey</span></a><br/>
 <p><img alt="Ticket" height="25" src="img/Ticket.png" width="25"/>5 <a href="ticket.html"><span class="color-template color-template-ticket color-template-background-clip">Tickets</span></a><br/>
 <img alt="Whirligig" height="25" src="img/Whirligig.png" width="25"/>5 <a href="whirligig.html"><span class="color-template color-template-whirligig color-template-background-clip">Whirligigs</span></a><br/>
 <img alt="Paper Planter" height="25" src="img/Paper_Planter.png" width="25"/>1 <a href="paper-planter.html"><span class="color-template color-template-paper-planter color-template-background-clip">Paper Planter</span></a><br/>
@@ -181,7 +181,7 @@ The following content has been removed from the game. The contents below may be 
 <li>Collect 100 <a href="ability-tokens.html#Bomb">Bomb Tokens</a>.</li></ul>
 </td>
 <td><img alt="Present" height="25" src="img/Present.png" width="25"/>1 <a href="present.html"><span class="color-template color-template-present color-template-background-clip">Present</span></a><br/>
-<p><span typeof="mw:Error mw:File"></span>500,000 <a href="honey.html"><span class="color-template color-template-honey">Honey</span></a><br/>
+<p><img alt="Honey" height="25" src="img/Honey.png" width="25"/>500,000 <a href="honey.html"><span class="color-template color-template-honey">Honey</span></a><br/>
 <img alt="Ticket" height="25" src="img/Ticket.png" width="25"/>5 <a href="ticket.html"><span class="color-template color-template-ticket color-template-background-clip">Tickets</span></a><br/>
 <img alt="Jelly Beans" height="25" src="img/Jelly_Beans.png" width="25"/>5 <a href="jelly-beans.html"><span class="color-template color-template-jelly-beans color-template-background-clip">Jelly Beans</span></a><br/>
 <img alt="Gingerbread Bear" height="25" src="img/Gingerbread_Bear.png" width="25"/>1 <a href="gingerbread-bear.html"><span class="color-template color-template-gingerbread-bear color-template-background-clip">Gingerbread Bear</span></a>
@@ -203,7 +203,7 @@ The following content has been removed from the game. The contents below may be 
 <li>Collect 5,000 <a href="goo.html">Goo</a>.</li></ul>
 </td>
 <td><img alt="Gingerbread Bear" height="25" src="img/Gingerbread_Bear.png" width="25"/>1 <a href="gingerbread-bear.html"><span class="color-template color-template-gingerbread-bear color-template-background-clip">Gingerbread Bear</span></a><br/>
-<p><span typeof="mw:Error mw:File"></span>500,000 <a href="honey.html"><span class="color-template color-template-honey">Honey</span></a><br/>
+<p><img alt="Honey" height="25" src="img/Honey.png" width="25"/>500,000 <a href="honey.html"><span class="color-template color-template-honey">Honey</span></a><br/>
 <img alt="Ticket Planter" height="25" src="img/Ticket_Planter.png" width="25"/>1 <a href="ticket-planter.html"><span class="color-template color-template-ticket-planter color-template-background-clip">Ticket Planter</span></a><br/>
 <img alt="Oil" height="25" src="img/Oil.png" width="25"/>1 <a href="oil.html"><span class="color-template color-template-oil color-template-background-clip">Oil</span></a><br/>
 <img alt="Atomic Treat" height="25" src="img/Atomic_Treat.png" width="25"/>1 <a href="atomic-treat.html"><span class="color-template color-template-atomic-treat color-template-background-clip">Atomic Treat</span></a>
@@ -223,7 +223,7 @@ The following content has been removed from the game. The contents below may be 
 </td>
 <td><img alt="Gingerbread Bear" height="25" src="img/Gingerbread_Bear.png" width="25"/>2 <a href="gingerbread-bear.html"><span class="color-template color-template-gingerbread-bear color-template-background-clip">Gingerbread Bears</span></a><br/>
 <p><img alt="Present" height="25" src="img/Present.png" width="25"/>1 <a href="present.html"><span class="color-template color-template-present color-template-background-clip">Present</span></a><br/>
-<span typeof="mw:Error mw:File"></span>1,500,000 <a href="honey.html"><span class="color-template color-template-honey">Honey</span></a><br/>
+<img alt="Honey" height="25" src="img/Honey.png" width="25"/>1,500,000 <a href="honey.html"><span class="color-template color-template-honey">Honey</span></a><br/>
 <img alt="Ticket" height="25" src="img/Ticket.png" width="25"/>5 <a href="ticket.html"><span class="color-template color-template-ticket color-template-background-clip">Tickets</span></a><br/>
 <img alt="Smooth Dice" height="25" src="img/Smooth_Dice.png" width="25"/>3 <a href="smooth-dice.html"><span class="color-template color-template-smooth-dice color-template-background-clip">Smooth Dice</span></a><br/>
 <img alt="Magic Bean" height="25" src="img/Magic_Bean.png" width="25"/>3 <a href="magic-bean.html"><span class="color-template color-template-magic-bean color-template-background-clip">Magic Beans</span></a>
@@ -245,7 +245,7 @@ The following content has been removed from the game. The contents below may be 
 <li>Admire <a href="black-bear.html">Black Bear</a>'s Honey Wreath (x3).</li></ul>
 </td>
 <td><img alt="Gingerbread Bear" height="25" src="img/Gingerbread_Bear.png" width="25"/>2 <a href="gingerbread-bear.html"><span class="color-template color-template-gingerbread-bear color-template-background-clip">Gingerbread Bears</span></a><br/>
-<p><span typeof="mw:Error mw:File"></span>4,000,000 <a href="honey.html"><span class="color-template color-template-honey">Honey</span></a><br/>
+<p><img alt="Honey" height="25" src="img/Honey.png" width="25"/>4,000,000 <a href="honey.html"><span class="color-template color-template-honey">Honey</span></a><br/>
 <img alt="Ticket" height="25" src="img/Ticket.png" width="25"/>5 <a href="ticket.html"><span class="color-template color-template-ticket color-template-background-clip">Tickets</span></a><br/>
 <img alt="Soft Wax" height="25" src="img/Soft_Wax.png" width="25"/>3 <a href="soft-wax.html"><span class="color-template color-template-soft-wax">Soft Waxes</span></a><br/>
 <img alt="Box-O-Frogs" height="25" src="img/Box-O-Frogs.png" width="25"/>1 <a href="box-o-frogs.html"><span class="color-template color-template-box-o-frogs color-template-background-clip">Box-O-Frogs</span></a>
@@ -265,7 +265,7 @@ The following content has been removed from the game. The contents below may be 
 <li>Collect 100 <a href="brick-bloom.html">Brick Bloom</a> Tokens.</li></ul>
 </td>
 <td><img alt="Present" height="25" src="img/Present.png" width="25"/>1 <a href="present.html"><span class="color-template color-template-present color-template-background-clip">Present</span></a><br/>
-<p><span typeof="mw:Error mw:File"></span>10,000,000 <a href="honey.html"><span class="color-template color-template-honey">Honey</span></a><br/>
+<p><img alt="Honey" height="25" src="img/Honey.png" width="25"/>10,000,000 <a href="honey.html"><span class="color-template color-template-honey">Honey</span></a><br/>
 <img alt="Ticket" height="25" src="img/Ticket.png" width="25"/>10 <a href="ticket.html"><span class="color-template color-template-ticket color-template-background-clip">Tickets</span></a><br/>
 <img alt="Enzymes" height="25" src="img/Enzymes.png" width="25"/>3 <a href="enzymes.html"><span class="color-template color-template-enzymes color-template-background-clip">Enzymes</span></a><br/>
 <img alt="Gingerbread Bear" height="25" src="img/Gingerbread_Bear.png" width="25"/>2 <a href="gingerbread-bear.html"><span class="color-template color-template-gingerbread-bear color-template-background-clip">Gingerbread Bears</span></a>
@@ -287,7 +287,7 @@ The following content has been removed from the game. The contents below may be 
 <li>Make 25,000,000 <a href="honey.html">Honey</a>.</li></ul>
 </td>
 <td><img alt="Gingerbread Bear" height="25" src="img/Gingerbread_Bear.png" width="25"/>2 <a href="gingerbread-bear.html"><span class="color-template color-template-gingerbread-bear color-template-background-clip">Gingerbread Bears</span></a><br/>
-<p><span typeof="mw:Error mw:File"></span>25,000,000 <a href="honey.html"><span class="color-template color-template-honey">Honey</span></a><br/>
+<p><img alt="Honey" height="25" src="img/Honey.png" width="25"/>25,000,000 <a href="honey.html"><span class="color-template color-template-honey">Honey</span></a><br/>
 <img alt="Ticket" height="25" src="img/Ticket.png" width="25"/>10 <a href="ticket.html"><span class="color-template color-template-ticket color-template-background-clip">Tickets</span></a><br/>
 <img alt="Micro-Converter" height="25" src="img/Micro-Converter.png" width="25"/>5 <a href="micro-converter.html"><span class="color-template color-template-micro-converter color-template-background-clip">Micro-Converters</span></a><br/>
 <img alt="Bloom Shaker" height="25" src="img/Bloom_Shaker.png" width="25"/>1 <a href="bloom-shaker.html"><span class="color-template color-template-bloom-shaker color-template-background-clip">Bloom Shaker</span></a>
@@ -313,7 +313,7 @@ The following content has been removed from the game. The contents below may be 
 <li>Collect 10 Tokens from <a href="brown-bear.html">Brown Bear</a>'s Stockings.</li>
 <li>Summon and Defeat a Level 7 <a href="snowbear.html">Snowbear</a>.</li></ul>
 </td>
-<td><span typeof="mw:Error mw:File"></span>50,000,000 <a href="honey.html"><span class="color-template color-template-honey">Honey</span></a><br/>
+<td><img alt="Honey" height="25" src="img/Honey.png" width="25"/>50,000,000 <a href="honey.html"><span class="color-template color-template-honey">Honey</span></a><br/>
 <p><img alt="Ticket Voucher" height="25" src="img/Ticket_Voucher.png" width="25"/>1 <a href="sticker.html#Sticker_Index"><span class="color-template color-template-ticket-voucher color-template-background-clip">Ticket Voucher</span></a><br/>
 <img alt="Festive Planter" height="25" src="img/Festive_Planter.png" width="25"/>1 <a href="festive-planter.html"><span class="color-template color-template-festive-planter color-template-background-clip">Festive Planter</span></a><br/>
 <img alt="Gingerbread Bear" height="25" src="img/Gingerbread_Bear.png" width="25"/>2 <a href="gingerbread-bear.html"><span class="color-template color-template-gingerbread-bear color-template-background-clip">Gingerbread Bears</span></a><br/>
@@ -338,7 +338,7 @@ The following content has been removed from the game. The contents below may be 
 <li>Defeat 8 Vicious Bees.</li>
 <li>Deliver 5 <a href="present.html">Presents</a>.</li></ul>
 </td>
-<td><span typeof="mw:Error mw:File"></span>75,000,000 <a href="honey.html"><span class="color-template color-template-honey">Honey</span></a><br/>
+<td><img alt="Honey" height="25" src="img/Honey.png" width="25"/>75,000,000 <a href="honey.html"><span class="color-template color-template-honey">Honey</span></a><br/>
 <p><img alt="Ticket" height="25" src="img/Ticket.png" width="25"/>10 <a href="ticket.html"><span class="color-template color-template-ticket color-template-background-clip">Tickets</span></a><br/>
 <img alt="Red Extract" height="25" src="img/Red_Extract.png" width="25"/>3 <a href="red-extract.html"><span class="color-template color-template-red-extract color-template-background-clip">Red Extracts</span></a><br/>
 <img alt="Red Balloon" height="25" src="img/Red_Balloon.png" width="25"/>3 <a href="red-balloon.html"><span class="color-template color-template-red-balloon color-template-background-clip">Red Balloons</span></a><br/>
@@ -361,7 +361,7 @@ The following content has been removed from the game. The contents below may be 
 <li>Complete 6 <a href="polar-bear.html">Polar Bear</a> Quests.</li>
 <li>Dig in to Polar Bear's <a href="beesmas-feast.html">Beesmas Feast</a> 3 times.</li></ul>
 </td>
-<td><span typeof="mw:Error mw:File"></span>150,000,000 <a href="honey.html"><span class="color-template color-template-honey">Honey</span></a><br/>
+<td><img alt="Honey" height="25" src="img/Honey.png" width="25"/>150,000,000 <a href="honey.html"><span class="color-template color-template-honey">Honey</span></a><br/>
 <p><img alt="Present" height="25" src="img/Present.png" width="25"/>1 <a href="present.html"><span class="color-template color-template-present color-template-background-clip">Present</span></a><br/>
 <img alt="Gingerbread Bear" height="25" src="img/Gingerbread_Bear.png" width="25"/>3 <a href="gingerbread-bear.html"><span class="color-template color-template-gingerbread-bear color-template-background-clip">Gingerbread Bears</span></a><br/>
 <img alt="Ticket" height="25" src="img/Ticket.png" width="25"/>10 <a href="ticket.html"><span class="color-template color-template-ticket color-template-background-clip">Tickets</span></a><br/>
@@ -382,7 +382,7 @@ The following content has been removed from the game. The contents below may be 
 <li>Purchase 4 <a href="bee-bear-s-catalog.html">Bee Bear's Catalog</a> items.</li>
 <li>Convert 50,000,000 <a href="pollen.html">Pollen</a> at the Hive.</li></ul>
 </td>
-<td><span typeof="mw:Error mw:File"></span>200,000,000 <a href="honey.html"><span class="color-template color-template-honey">Honey</span></a><br/>
+<td><img alt="Honey" height="25" src="img/Honey.png" width="25"/>200,000,000 <a href="honey.html"><span class="color-template color-template-honey">Honey</span></a><br/>
 <p><img alt="Glitter" height="25" src="img/Glitter.png" width="25"/>3 <a href="glitter.html"><span class="color-template color-template-glitter color-template-background-clip">Glitter</span></a><br/>
 <img alt="Gingerbread Bear" height="25" src="img/Gingerbread_Bear.png" width="25"/>3 <a href="gingerbread-bear.html"><span class="color-template color-template-gingerbread-bear color-template-background-clip">Gingerbread Bears</span></a><br/>
 <img alt="Ticket" height="25" src="img/Ticket.png" width="25"/>10 <a href="ticket.html"><span class="color-template color-template-ticket color-template-background-clip">Tickets</span></a><br/>
@@ -414,7 +414,7 @@ The following content has been removed from the game. The contents below may be 
 <li>1 Flying Rad Bee Sticker</li>
 <li>1 Blob Bumble Bee Sticker</li></ul></li></ul>
 </td>
-<td><span typeof="mw:Error mw:File"></span>300,000,000 <a href="honey.html"><span class="color-template color-template-honey">Honey</span></a><br/>
+<td><img alt="Honey" height="25" src="img/Honey.png" width="25"/>300,000,000 <a href="honey.html"><span class="color-template color-template-honey">Honey</span></a><br/>
 <p><img alt="Present" height="25" src="img/Present.png" width="25"/>1 <a href="present.html"><span class="color-template color-template-present color-template-background-clip">Present</span></a><br/>
 <img alt="Ticket" height="25" src="img/Ticket.png" width="25"/>10 <a href="ticket.html"><span class="color-template color-template-ticket color-template-background-clip">Tickets</span></a><br/>
 <img alt="Sticker Planter" height="25" src="img/Sticker_Planter.png" width="25"/>1 <a href="sticker-planter.html"><span class="color-template color-template-sticker-planter color-template-background-clip">Sticker Planter</span></a><br/>
@@ -449,12 +449,12 @@ The following content has been removed from the game. The contents below may be 
 <li>Defeat a Level 9+ Snowbear</li>
 <li>Admire <a href="honey-wreath.html">Black Bear's Honey Wreath</a> 3 times.</li></ul>
 </td>
-<td><span typeof="mw:Error mw:File"></span>500,000,000 <a href="honey.html"><span class="color-template color-template-honey">Honey</span></a><br/>
+<td><img alt="Honey" height="25" src="img/Honey.png" width="25"/>500,000,000 <a href="honey.html"><span class="color-template color-template-honey">Honey</span></a><br/>
 <p><img alt="Ticket" height="25" src="img/Ticket.png" width="25"/>25 <a href="ticket.html"><span class="color-template color-template-ticket color-template-background-clip">Tickets</span></a><br/>
 <img alt="Super Smoothie" height="25" src="img/Super_Smoothie.png" width="25"/>1 <a href="super-smoothie.html"><span class="color-template color-template-super-smoothie color-template-background-clip">Super Smoothie</span></a><br/>
 <img alt="Bloom Shaker" height="25" src="img/Bloom_Shaker.png" width="25"/>3 <a href="bloom-shaker.html"><span class="color-template color-template-bloom-shaker color-template-background-clip">Bloom Shakers</span></a><br/>
 <img alt="Gingerbread Bear" height="25" src="img/Gingerbread_Bear.png" width="25"/>5 <a href="gingerbread-bear.html"><span class="color-template color-template-gingerbread-bear color-template-background-clip">Gingerbread Bears</span></a><br/>
-<span typeof="mw:Error mw:File"></span>1 <a href="cub-buddy.html#Skins"><span class="color-template color-template-cub-buddy color-template-background-clip">Cub Buddy</span></a> or <img alt="Cub Buddy Voucher" height="25" src="img/Cub_Buddy_Voucher.png" width="25"/>1 <a href="sticker.html#Sticker_Index"><span class="color-template color-template-cub-buddy-voucher color-template-background-clip">Cub Buddy Voucher</span></a>
+<img alt="Cub Buddy" height="25" src="img/Cub_Buddy.png" width="25"/>1 <a href="cub-buddy.html#Skins"><span class="color-template color-template-cub-buddy color-template-background-clip">Cub Buddy</span></a> or <img alt="Cub Buddy Voucher" height="25" src="img/Cub_Buddy_Voucher.png" width="25"/>1 <a href="sticker.html#Sticker_Index"><span class="color-template color-template-cub-buddy-voucher color-template-background-clip">Cub Buddy Voucher</span></a>
 </p>
 </td></tr>
 <tr>
@@ -477,7 +477,7 @@ The following content has been removed from the game. The contents below may be 
 <li>Collect 3 Hours of Cool Breeze from Snowflakes.</li>
 <li>Obtain 1 Small White Daisy Sticker to give to Petal Cub.</li></ul>
 </td>
-<td><span typeof="mw:Error mw:File"></span>1,000,000,000 <a href="honey.html"><span class="color-template color-template-honey">Honey</span></a><br/>
+<td><img alt="Honey" height="25" src="img/Honey.png" width="25"/>1,000,000,000 <a href="honey.html"><span class="color-template color-template-honey">Honey</span></a><br/>
 <p><img alt="Ticket Voucher" height="25" src="img/Ticket_Voucher.png" width="25"/>1 <a href="sticker.html#Sticker_Index"><span class="color-template color-template-ticket-voucher color-template-background-clip">Ticket Voucher</span></a><br/>
 <img alt="Bloom Shaker" height="25" src="img/Bloom_Shaker.png" width="25"/>2 <a href="bloom-shaker.html"><span class="color-template color-template-bloom-shaker color-template-background-clip">Bloom Shakers</span></a><br/>
 <img alt="Swirled Wax" height="25" src="img/Swirled_Wax.png" width="25"/>5 <a href="swirled-wax.html"><span class="color-template color-template-swirled-wax color-template-background-clip">Swirled Waxes</span></a><br/>
@@ -512,7 +512,7 @@ The following content has been removed from the game. The contents below may be 
 <li>1 Blowing Leaf Sticker</li>
 <li>1 Small Dandelion Sticker</li></ul></li></ul>
 </td>
-<td><span typeof="mw:Error mw:File"></span>5,000,000,000 <a href="honey.html"><span class="color-template color-template-honey">Honey</span></a><br/>
+<td><img alt="Honey" height="25" src="img/Honey.png" width="25"/>5,000,000,000 <a href="honey.html"><span class="color-template color-template-honey">Honey</span></a><br/>
 <p><img alt="Ticket Voucher" height="25" src="img/Ticket_Voucher.png" width="25"/>1 <a href="sticker.html#Sticker_Index"><span class="color-template color-template-ticket-voucher color-template-background-clip">Ticket Voucher</span></a><br/>
 <img alt="Bloom Shaker" height="25" src="img/Bloom_Shaker.png" width="25"/>4 <a href="bloom-shaker.html"><span class="color-template color-template-bloom-shaker color-template-background-clip">Bloom Shakers</span></a><br/>
 <img alt="Glitter" height="25" src="img/Glitter.png" width="25"/>5 <a href="glitter.html"><span class="color-template color-template-glitter color-template-background-clip">Glitter</span></a><br/>
@@ -542,7 +542,7 @@ The following content has been removed from the game. The contents below may be 
 <li>Admire Riley Bee's Honeyday Candles 3 times.</li>
 <li>Obtain a Small Pink Tulip sticker to give to Petal Cub.</li></ul>
 </td>
-<td><span typeof="mw:Error mw:File"></span>25,000,000,000 <a href="honey.html"><span class="color-template color-template-honey">Honey</span></a><br/>
+<td><img alt="Honey" height="25" src="img/Honey.png" width="25"/>25,000,000,000 <a href="honey.html"><span class="color-template color-template-honey">Honey</span></a><br/>
 <p><img alt="Ticket Voucher" height="25" src="img/Ticket_Voucher.png" width="25"/>1 <a href="sticker.html#Sticker_Index"><span class="color-template color-template-ticket-voucher color-template-background-clip">Ticket Voucher</span></a><br/>
 <img alt="Bloom Shaker" height="25" src="img/Bloom_Shaker.png" width="25"/>6 <a href="bloom-shaker.html"><span class="color-template color-template-bloom-shaker color-template-background-clip">Bloom Shakers</span></a><br/>
 <img alt="Nectar Shower Vial" height="25" src="img/Nectar_Shower_Vial.png" width="25"/>3 <a href="nectar-shower-vial.html"><span class="color-template color-template-nectar-shower-vial color-template-background-clip">Nectar Shower Vials</span></a><br/>
@@ -579,7 +579,7 @@ The following content has been removed from the game. The contents below may be 
 <li>1 Prism Painting Sticker</li>
 <li>1 Banana Painting Sticker</li></ul></li></ul>
 </td>
-<td><span typeof="mw:Error mw:File"></span>100,000,000,000 <a href="honey.html"><span class="color-template color-template-honey">Honey</span></a><br/>
+<td><img alt="Honey" height="25" src="img/Honey.png" width="25"/>100,000,000,000 <a href="honey.html"><span class="color-template color-template-honey">Honey</span></a><br/>
 <p><img alt="Ticket Voucher" height="25" src="img/Ticket_Voucher.png" width="25"/>1 <a href="sticker.html#Sticker_Index"><span class="color-template color-template-ticket-voucher color-template-background-clip">Ticket Voucher</span></a><br/>
 <img alt="Bloom Shaker" height="25" src="img/Bloom_Shaker.png" width="25"/>8 <a href="bloom-shaker.html"><span class="color-template color-template-bloom-shaker color-template-background-clip">Bloom Shakers</span></a><br/>
 <img alt="Caustic Wax" height="25" src="img/Caustic_Wax.png" width="25"/>5 <a href="caustic-wax.html"><span class="color-template color-template-caustic-wax">Caustic Waxes</span></a><br/>
@@ -633,14 +633,14 @@ The following content has been removed from the game. The contents below may be 
 <li>1 Orange Swirled Marble Sticker</li></ul></li>
 <li>Obtain a Small Tickseed sticker to give to Petal Cub.</li></ul>
 </td>
-<td><span typeof="mw:Error mw:File"></span>250,000,000,000 <a href="honey.html"><span class="color-template color-template-honey">Honey</span></a><br/>
+<td><img alt="Honey" height="25" src="img/Honey.png" width="25"/>250,000,000,000 <a href="honey.html"><span class="color-template color-template-honey">Honey</span></a><br/>
 <p><img alt="Ticket Voucher" height="25" src="img/Ticket_Voucher.png" width="25"/>1 <a href="sticker.html#Sticker_Index"><span class="color-template color-template-ticket-voucher color-template-background-clip">Ticket Voucher</span></a><br/>
 <img alt="Bloom Shaker" height="25" src="img/Bloom_Shaker.png" width="25"/>10 <a href="bloom-shaker.html"><span class="color-template color-template-bloom-shaker color-template-background-clip">Bloom Shakers</span></a><br/>
 <img alt="Festive Planter" height="25" src="img/Festive_Planter.png" width="25"/>1 <a href="festive-planter.html"><span class="color-template color-template-festive-planter color-template-background-clip">Festive Planter</span></a><br/>
 <img alt="Festive Bean" height="25" src="img/Festive_Bean.png" width="25"/>1 <a href="festive-bean.html"><span class="color-template color-template-festive-bean color-template-background-clip">Festive Bean</span></a><br/>
 <img alt="Super Smoothie" height="25" src="img/Super_Smoothie.png" width="25"/>5 <a href="super-smoothie.html"><span class="color-template color-template-super-smoothie color-template-background-clip">Super Smoothies</span></a><br/>
 <img alt="Gingerbread Bear" height="25" src="img/Gingerbread_Bear.png" width="25"/>10 <a href="gingerbread-bear.html"><span class="color-template color-template-gingerbread-bear color-template-background-clip">Gingerbread Bears</span></a><br/>
-<span typeof="mw:Error mw:File"></span>1 <a href="cub-buddy.html#Skins"><span class="color-template color-template-petal-cub color-template-background-clip">Petal Cub</span></a><br/>
+<img alt="Petal Cub" height="25" src="img/Petal_Cub.png" width="25"/>1 <a href="cub-buddy.html#Skins"><span class="color-template color-template-petal-cub color-template-background-clip">Petal Cub</span></a><br/>
 Summons nighttime
 </p>
 </td></tr></tbody></table>

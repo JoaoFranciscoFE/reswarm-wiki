@@ -1159,7 +1159,7 @@ The following content has been removed from the game. The contents below may be 
 <li>Defeat 5 Fire <a href="ants.html">Ants</a>.</li></ul>
 </td>
 <td>
-<p><span typeof="mw:Error mw:File"></span>2,000,000,000 <a href="honey.html"><span class="color-template color-template-honey">Honey</span></a><br/>
+<p><img alt="Honey" height="25" src="img/Honey.png" width="25"/>2,000,000,000 <a href="honey.html"><span class="color-template color-template-honey">Honey</span></a><br/>
 <img alt="Ticket" height="25" src="img/Ticket.png" width="25"/>25 <a href="ticket.html"><span class="color-template color-template-ticket color-template-background-clip">Tickets</span></a><br/>
 <img alt="Red Extract" height="25" src="img/Red_Extract.png" width="25"/>25 <a href="red-extract.html"><span class="color-template color-template-red-extract color-template-background-clip">Red Extracts</span></a><br/>
 <img alt="Red Balloon" height="25" src="img/Red_Balloon.png" width="25"/>1 <a href="red-balloon.html"><span class="color-template color-template-red-balloon color-template-background-clip">Red Balloon</span></a><br/>
@@ -1210,7 +1210,7 @@ The following content has been removed from the game. The contents below may be 
 <li>Defeat 10 Fire <a href="ants.html">Ants</a>.</li>
 <li>Pop 1 Rare <a href="puffshroom.html">Puffshroom</a> in the Rose Field.</li></ul>
 </td>
-<td><span typeof="mw:Error mw:File"></span>2,500,000,000 <a href="honey.html"><span class="color-template color-template-honey">Honey</span></a><br/>
+<td><img alt="Honey" height="25" src="img/Honey.png" width="25"/>2,500,000,000 <a href="honey.html"><span class="color-template color-template-honey">Honey</span></a><br/>
 <p><img alt="Ticket" height="25" src="img/Ticket.png" width="25"/>10 <a href="ticket.html"><span class="color-template color-template-ticket color-template-background-clip">Tickets</span></a><br/>
 <img alt="Red Extract" height="25" src="img/Red_Extract.png" width="25"/>25 <a href="red-extract.html"><span class="color-template color-template-red-extract color-template-background-clip">Red Extracts</span></a><br/>
 <img alt="Caustic Wax" height="25" src="img/Caustic_Wax.png" width="25"/>1 <a href="caustic-wax.html"><span class="color-template color-template-caustic-wax">Caustic Wax</span></a><br/>
@@ -1259,7 +1259,7 @@ The following content has been removed from the game. The contents below may be 
 <li>Obtain 1 Scythe <a href="sticker.html">Sticker</a> to give to Riley Bee.</li>
 <li>Obtain 1 Red Palm Hand, 1 Alert Icon or 3 Small Flame <a href="sticker.html">Sticker</a> to give to Riley Bee.</li></ul>
 </td>
-<td><span typeof="mw:Error mw:File"></span>50,000,000 <a href="honey.html"><span class="color-template color-template-honey">Honey</span></a><br/>
+<td><img alt="Honey" height="25" src="img/Honey.png" width="25"/>50,000,000 <a href="honey.html"><span class="color-template color-template-honey">Honey</span></a><br/>
 <p><img alt="Ticket" height="25" src="img/Ticket.png" width="25"/>25 <a href="ticket.html"><span class="color-template color-template-ticket color-template-background-clip">Tickets</span></a><br/>
 <img alt="Red Extract" height="25" src="img/Red_Extract.png" width="25"/>25 <a href="red-extract.html"><span class="color-template color-template-red-extract color-template-background-clip">Red Extracts</span></a><br/>
 <img alt="Star Jelly" height="25" src="img/Star_Jelly.png" width="25"/>1 <a href="royal-jelly.html#Star_Jelly"><span class="color-template color-template-star-jelly color-template-background-clip">Star Jelly</span></a><br/>
@@ -1305,7 +1305,7 @@ The following content has been removed from the game. The contents below may be 
 <li>Spawn 1000 Flames.</li>
 <li>Defeat 10 <a href="ants.html#Fire_Ant">Fire Ants</a>.</li></ul>
 </td>
-<td><span typeof="mw:Error mw:File"></span>100,000,000 <a href="honey.html"><span class="color-template color-template-honey">Honey</span></a><br/>
+<td><img alt="Honey" height="25" src="img/Honey.png" width="25"/>100,000,000 <a href="honey.html"><span class="color-template color-template-honey">Honey</span></a><br/>
 <p><img alt="Robo Pass" height="25" src="img/Robo_Pass.png" width="25"/>1 <a href="robo-pass.html"><span class="color-template color-template-robo-pass color-template-background-clip">Robo Pass</span></a><br/>
 <img alt="Invigorating Vial" height="25" src="img/Invigorating_Vial.png" width="25"/>1 <a href="invigorating-vial.html"><span class="color-template color-template-invigorating-vial color-template-background-clip">Invigorating Vial</span></a><br/>
 <img alt="Red Extract" height="25" src="img/Red_Extract.png" width="25"/>10 <a href="red-extract.html"><span class="color-template color-template-red-extract color-template-background-clip">Red Extracts</span></a><br/>
@@ -1353,7 +1353,7 @@ The following content has been removed from the game. The contents below may be 
 <li>Spawn 250 Flames.</li>
 <li>Use 10 Soft Waxes.</li></ul>
 </td>
-<td><span typeof="mw:Error mw:File"></span>250,000,000 <a href="honey.html"><span class="color-template color-template-honey">Honey</span></a><br/>
+<td><img alt="Honey" height="25" src="img/Honey.png" width="25"/>250,000,000 <a href="honey.html"><span class="color-template color-template-honey">Honey</span></a><br/>
 <p><img alt="Ticket" height="25" src="img/Ticket.png" width="25"/>5 <a href="ticket.html"><span class="color-template color-template-ticket color-template-background-clip">Tickets</span></a><br/>
 <img alt="Ticket Planter" height="25" src="img/Ticket_Planter.png" width="25"/>1 <a href="ticket-planter.html"><span class="color-template color-template-ticket-planter color-template-background-clip">Ticket Planter</span></a><br/>
 <img alt="Gingerbread Bear" height="25" src="img/Gingerbread_Bear.png" width="25"/>5 <a href="gingerbread-bear.html"><span class="color-template color-template-gingerbread-bear color-template-background-clip">Gingerbread Bears</span></a><br/>
@@ -1400,7 +1400,7 @@ The following content has been removed from the game. The contents below may be 
 <li>Collect 500 Red <a href="ability-tokens.html#Bomb">Bomb</a> tokens.</li>
 <li>Use 5 <a href="oil.html">Oils</a>.</li></ul>
 </td>
-<td><span typeof="mw:Error mw:File"></span>250,000,000 <a href="honey.html"><span class="color-template color-template-honey">Honey</span></a><br/>
+<td><img alt="Honey" height="25" src="img/Honey.png" width="25"/>250,000,000 <a href="honey.html"><span class="color-template color-template-honey">Honey</span></a><br/>
 <p><img alt="Gingerbread Bear" height="25" src="img/Gingerbread_Bear.png" width="25"/>5 <a href="gingerbread-bear.html"><span class="color-template color-template-gingerbread-bear color-template-background-clip">Gingerbread Bears</span></a><br/>
 <img alt="Field Dice" height="25" src="img/Field_Dice.png" width="25"/>5 <a href="field-dice.html"><span class="color-template color-template-field-dice color-template-background-clip">Field Dice</span></a><br/>
 <img alt="Red Extract" height="25" src="img/Red_Extract.png" width="25"/>5 <a href="red-extract.html"><span class="color-template color-template-red-extract color-template-background-clip">Red Extracts</span></a><br/>
@@ -1446,7 +1446,7 @@ The following content has been removed from the game. The contents below may be 
 <li>Defeat 10 Fire Ants</li>
 <li>Use the Red Field Booster 5 Times</li></ul>
 </td>
-<td><span typeof="mw:Error mw:File"></span>250,000,000 <a href="honey.html"><span class="color-template color-template-honey">Honey</span></a><br/>
+<td><img alt="Honey" height="25" src="img/Honey.png" width="25"/>250,000,000 <a href="honey.html"><span class="color-template color-template-honey">Honey</span></a><br/>
 <p><img alt="Ticket" height="25" src="img/Ticket.png" width="25"/>5 <a href="ticket.html"><span class="color-template color-template-ticket color-template-background-clip">Tickets</span></a><br/>
 <img alt="Red Extract" height="25" src="img/Red_Extract.png" width="25"/>5 <a href="red-extract.html"><span class="color-template color-template-red-extract color-template-background-clip">Red Extracts</span></a><br/>
 <span typeof="mw:Error mw:File"></span> Electric Candle <a href="ornaments.html">Ornament</a>
@@ -1489,7 +1489,7 @@ The following content has been removed from the game. The contents below may be 
 <li>Collect 5 Red <a href="jelly-beans.html">Jelly Bean</a> Tokens.</li>
 <li>Defeat 50 Fire <a href="ants.html">Ants</a>.</li></ul>
 </td>
-<td><span typeof="mw:Error mw:File"></span>15,000,000 <a href="honey.html"><span class="color-template color-template-honey">Honey</span></a><br/>
+<td><img alt="Honey" height="25" src="img/Honey.png" width="25"/>15,000,000 <a href="honey.html"><span class="color-template color-template-honey">Honey</span></a><br/>
 <p><img alt="Marshmallow Bee" height="25" src="img/Marshmallow_Bee.png" width="25"/>5 <a href="marshmallow-bee.html"><span class="color-template color-template-marshmallow-bee color-template-background-clip">Marshmallow Bees</span></a><br/>
 <img alt="Red Extract" height="25" src="img/Red_Extract.png" width="25"/>10 <a href="red-extract.html"><span class="color-template color-template-red-extract color-template-background-clip">Red Extracts</span></a><br/>
 <img alt="Stinger" height="25" src="img/Stinger.png" width="25"/>10 <a href="stinger.html"><span class="color-template color-template-stinger color-template-background-clip">Stingers</span></a><br/>

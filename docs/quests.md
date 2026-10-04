@@ -3025,7 +3025,7 @@ x3 Magic bean
 <li>Collect 268,435,456 Pollen from the Sunflower Field.</li>
 <li>Collect 268,435,456 Pollen from the Pineapple Patch</li>
 <li>Collect 268,435,456 Pollen from the Pumpkin Patch.</li>
-<li>Collect <span typeof="mw:Error mw:File"></span>4,096 <a href="honey.html"><span class="color-template color-template-honey">Honey</span></a> Tokens.</li>
+<li>Collect <img alt="Honey" height="25" src="img/Honey.png" width="25"/>4,096 <a href="honey.html"><span class="color-template color-template-honey">Honey</span></a> Tokens.</li>
 <li>Collect 4,096 Boost Tokens.</li>
 <li>Collect 4,096 Focus Tokens.</li>
 <li>Collect 512 Melody Tokens.</li>
@@ -3058,7 +3058,7 @@ x4 Glue
 <li>Collect 1,010,101,010 Pollen from the Sunflower Field.</li>
 <li>Collect 1,010,101,010 Pollen from the Pineapple Patch</li>
 <li>Collect 1,010,101,010 Pollen from the Pumpkin Patch.</li>
-<li>Collect <span typeof="mw:Error mw:File"></span>10,101 <a href="honey.html"><span class="color-template color-template-honey">Honey</span></a> Tokens.</li>
+<li>Collect <img alt="Honey" height="25" src="img/Honey.png" width="25"/>10,101 <a href="honey.html"><span class="color-template color-template-honey">Honey</span></a> Tokens.</li>
 <li>Collect 10,101 Boost Tokens.</li>
 <li>Collect 10,101 Focus Tokens.</li>
 <li>Collect 1,010 Melody Tokens.</li>
@@ -3441,7 +3441,7 @@ Spirit Bear is the seventh quest bear in the game. Her quests consist of pollen 
 <li>Collect 80,000,000 Pollen from the Pepper Patch.</li>
 <li>Collect 30,000,000 Pollen from the Sunflower Field.</li>
 <li>Collect 4,000,000 Goo from White Flowers.</li>
-<li>Collect <span typeof="mw:Error mw:File"></span>500 <a href="honey.html"><span class="color-template color-template-honey">Honey</span></a> Tokens.</li>
+<li>Collect <img alt="Honey" height="25" src="img/Honey.png" width="25"/>500 <a href="honey.html"><span class="color-template color-template-honey">Honey</span></a> Tokens.</li>
 <li>Share 50 Jelly Bean Tokens.</li>
 <li>Match 5 Pairs in <a href="memory-match.html">Memory Match</a> Games.</li></ul>
 </td>
@@ -3585,7 +3585,7 @@ x25 Moon Charms<br/>
 <li>Collect 150,000,000 Pollen from the Bamboo Field.</li>
 <li>Collect 90,000,000 Pollen from the Spider Field.</li>
 <li>Collect 20,000,000 Goo from Blue Flowers.</li>
-<li>Collect <span typeof="mw:Error mw:File"></span>1,000 <a href="honey.html"><span class="color-template color-template-honey">Honey</span></a> Tokens.</li>
+<li>Collect <img alt="Honey" height="25" src="img/Honey.png" width="25"/>1,000 <a href="honey.html"><span class="color-template color-template-honey">Honey</span></a> Tokens.</li>
 <li>Collect 100 Tokens from Leaves.</li>
 <li>Donate <img alt="Sunflower Seed" height="25" src="img/Sunflower_Seed.png" width="25"/>500 <a href="sunflower-seed.html"><span class="color-template color-template-sunflower-seed color-template-background-clip">Sunflower Seeds</span></a> to the Wind Shrine.</li>
 <li>Use the <a href="wealth-clock.html">Wealth Clock</a> 3 Times.</li>
@@ -3713,7 +3713,7 @@ x25 Moon Charms<br/>
 <li>Collect 150,000,000 Pollen from the Spider Field.</li>
 <li>Collect 30,000,000 Goo from White Flowers.</li>
 <li>Collect 150 Inspire Tokens.</li>
-<li>Collect <span typeof="mw:Error mw:File"></span>1,500 <a href="honey.html"><span class="color-template color-template-honey">Honey</span></a> Tokens.</li>
+<li>Collect <img alt="Honey" height="25" src="img/Honey.png" width="25"/>1,500 <a href="honey.html"><span class="color-template color-template-honey">Honey</span></a> Tokens.</li>
 <li>Donate <img alt="Blueberry" height="25" src="img/Blueberry.png" width="25"/>500 <a href="blueberry.html"><span class="color-template color-template-blueberry color-template-background-clip">Blueberries</span></a> to the Wind Shrine.</li>
 <li>Donate <img alt="Oil" height="25" src="img/Oil.png" width="25"/>1 <a href="oil.html"><span class="color-template color-template-oil color-template-background-clip">Oil</span></a> to the Wind Shrine.</li></ul>
 </td>
@@ -3818,7 +3818,7 @@ x25 Moon Charms<br/>
 <li>Collect 250,000,000 Pollen from the Coconut Field.</li>
 <li>Collect 150,000,000 Pollen from the Dandelion Field.</li>
 <li>Collect 100,000,000 Goo.</li>
-<li>Collect <span typeof="mw:Error mw:File"></span>2,000 <a href="honey.html"><span class="color-template color-template-honey">Honey</span></a> Tokens.</li>
+<li>Collect <img alt="Honey" height="25" src="img/Honey.png" width="25"/>2,000 <a href="honey.html"><span class="color-template color-template-honey">Honey</span></a> Tokens.</li>
 <li>Collect 500 Tokens from Wild Windy Bee.</li>
 <li>Share 200 Jelly Bean Tokens.</li></ul>
 </td>
@@ -3959,7 +3959,7 @@ Summons Wild Windy Bee
 <li>Collect 1,000,000,000 Pollen from the Spider Field.</li>
 <li>Collect 300,000,000 Goo from Blue Flowers.</li>
 <li>Collect 2,000 Tokens from Stick Nymphs.</li>
-<li>Collect <span typeof="mw:Error mw:File"></span>3,000 <a href="honey.html"><span class="color-template color-template-honey">Honey</span></a> Tokens .</li>
+<li>Collect <img alt="Honey" height="25" src="img/Honey.png" width="25"/>3,000 <a href="honey.html"><span class="color-template color-template-honey">Honey</span></a> Tokens .</li>
 <li>Feed <img alt="Pineapple" height="25" src="img/Pineapple.png" width="25"/>1,000 <a href="pineapple.html"><span class="color-template color-template-pineapple color-template-background-clip">Pineapples</span></a> to your Bees.</li>
 <li>Donate <img alt="Oil" height="25" src="img/Oil.png" width="25"/>25 <a href="oil.html"><span class="color-template color-template-oil color-template-background-clip">Oils</span></a> to the Wind Shrine.</li>
 <li>Match 25 Pairs in Memory Match Games.</li></ul>
@@ -4268,7 +4268,7 @@ x1 Star Jelly
 <li>Collect 250 <a href="gumdrops.html">Gumdrops</a>.</li>
 <li>Use 10 <a href="field-dice.html">Field Dice</a>.</li>
 <li>Use 1 <a href="tropical-drink.html">Tropical Drink</a>.</li>
-<li>Complete <span typeof="mw:Error mw:File"></span>1,000 <a href="honey.html"><span class="color-template color-template-honey">Honey</span></a> Conversion Links.</li>
+<li>Complete <img alt="Honey" height="25" src="img/Honey.png" width="25"/>1,000 <a href="honey.html"><span class="color-template color-template-honey">Honey</span></a> Conversion Links.</li>
 <li>Pop 30 <a href="puffshroom.html">Puffshrooms</a> in the <a href="clover-field.html">Clover Field</a>.</li></ul>
 </td>
 <td>x30,000,000 <a href="honey.html">Honey</a><br/>
@@ -5029,7 +5029,7 @@ Below is a list of all possible requirements:
 <li>Collect 2,500,000 Pollen from the <a href="dandelion-field.html">Dandelion Field</a>.</li>
 <li>Collect 1,000,000 <a href="goo.html">Goo</a> from White Flowers.</li>
 <li>Collect 2,500 Haste Tokens.</li>
-<li>Collect <span typeof="mw:Error mw:File"></span>100 <a href="honey.html"><span class="color-template color-template-honey">Honey</span></a> Tokens.</li>
+<li>Collect <img alt="Honey" height="25" src="img/Honey.png" width="25"/>100 <a href="honey.html"><span class="color-template color-template-honey">Honey</span></a> Tokens.</li>
 <li>Defeat 10 <a href="ants.html#Giant_Ant">Giant Ants</a>.</li>
 <li>Defeat 5 <a href="werewolf.html">Werewolves</a>.</li></ul>
 </td>
@@ -5051,7 +5051,7 @@ Below is a list of all possible requirements:
 <li>Collect 5,000,000 <a href="goo.html">Goo</a> from Red Flowers.</li>
 <li>Collect 5,000 Red Boost Tokens.</li>
 <li>Collect 150 <a href="strawberry.html">Strawberry</a> Tokens.</li>
-<li>Collect <span typeof="mw:Error mw:File"></span>500 <a href="honey.html"><span class="color-template color-template-honey">Honey</span></a> Tokens.</li>
+<li>Collect <img alt="Honey" height="25" src="img/Honey.png" width="25"/>500 <a href="honey.html"><span class="color-template color-template-honey">Honey</span></a> Tokens.</li>
 <li>Defeat 100 <a href="ants.html">Fire Ants</a>.</li>
 <li>Defeat 100 <a href="ladybug.html">Ladybugs</a>.</li>
 <li>Use the <a href="red-teleporter.html">Red Portal</a> 10 Times.</li>
@@ -5074,7 +5074,7 @@ Below is a list of all possible requirements:
 <li>Collect 10,000,000 <a href="goo.html">Goo</a> from Blue Flowers.</li>
 <li>Collect 7,500 Blue Boost Tokens.</li>
 <li>Collect 250 <a href="blueberry.html">Blueberry</a> Tokens.</li>
-<li>Collect <span typeof="mw:Error mw:File"></span>1,000 <a href="honey.html"><span class="color-template color-template-honey">Honey</span></a> Tokens.</li>
+<li>Collect <img alt="Honey" height="25" src="img/Honey.png" width="25"/>1,000 <a href="honey.html"><span class="color-template color-template-honey">Honey</span></a> Tokens.</li>
 <li>Defeat 200 <a href="ants.html#Flying_Ant">Flying Ants</a>.</li>
 <li>Defeat 200 <a href="rhino-beetle.html">Rhino Beetles</a>.</li>
 <li>Defeat 1 <a href="king-beetle.html">King Beetle</a>.</li>
@@ -5097,7 +5097,7 @@ Below is a list of all possible requirements:
 <li>Collect 15,000,000 <a href="goo.html">Goo</a> from the <a href="pumpkin-patch.html">Pumpkin Patch</a>.</li>
 <li>Collect 5,000 Focus Tokens.</li>
 <li>Collect 5,000 Token Links.</li>
-<li>Collect <span typeof="mw:Error mw:File"></span>5,000 <a href="honey.html"><span class="color-template color-template-honey">Honey</span></a> Tokens.</li>
+<li>Collect <img alt="Honey" height="25" src="img/Honey.png" width="25"/>5,000 <a href="honey.html"><span class="color-template color-template-honey">Honey</span></a> Tokens.</li>
 <li>Defeat 150 <a href="ants.html#Army_Ant">Army Ants</a>.</li>
 <li>Defeat 30 <a href="mantis.html">Mantises</a>.</li>
 <li>Defeat 30 <a href="scorpion.html">Scorpions</a>.</li>
@@ -5124,7 +5124,7 @@ Below is a list of all possible requirements:
 <li>Collect 100,000 <a href="ability-tokens.html">Ability Tokens</a>.</li>
 <li>Collect 10,000 Bomb Tokens.</li>
 <li>Collect 1,000 Baby Love Tokens.</li>
-<li>Collect <span typeof="mw:Error mw:File"></span>10,000 <a href="honey.html"><span class="color-template color-template-honey">Honey</span></a> Tokens.</li>
+<li>Collect <img alt="Honey" height="25" src="img/Honey.png" width="25"/>10,000 <a href="honey.html"><span class="color-template color-template-honey">Honey</span></a> Tokens.</li>
 <li>Defeat 50 <a href="spider.html">Spiders</a>.</li>
 <li>Defeat 50 <a href="ants.html#Giant_Ant">Giant Ants</a>.</li>
 <li>Defeat 5 <a href="king-beetle.html">King Beetles</a>.</li>
@@ -5206,7 +5206,7 @@ The below content has been removed from the game. The contents may be archival, 
 <li>Collect 5,000 <a href="pollen.html">Pollen</a> from the <a href="dandelion-field.html">Dandelion Field</a>.</li></ul>
 </td>
 <td>
-<ul><li><span typeof="mw:Error mw:File"></span>5,500 <a href="honey.html"><span class="color-template color-template-honey">Honey</span></a></li></ul>
+<ul><li><img alt="Honey" height="25" src="img/Honey.png" width="25"/>5,500 <a href="honey.html"><span class="color-template color-template-honey">Honey</span></a></li></ul>
 </td></tr>
 <tr>
 <td>Boost Brilliance
@@ -5218,7 +5218,7 @@ The below content has been removed from the game. The contents may be archival, 
 <li>Collect 8,000 Blue Pollen.</li></ul>
 </td>
 <td>
-<ul><li><span typeof="mw:Error mw:File"></span>13,500 <a href="honey.html"><span class="color-template color-template-honey">Honey</span></a></li></ul>
+<ul><li><img alt="Honey" height="25" src="img/Honey.png" width="25"/>13,500 <a href="honey.html"><span class="color-template color-template-honey">Honey</span></a></li></ul>
 </td></tr>
 <tr>
 <td>A Need For Haste
@@ -5229,7 +5229,7 @@ The below content has been removed from the game. The contents may be archival, 
 <li>Collect 31,000 Pollen from the <a href="clover-field.html">Clover Field</a>.</li></ul>
 </td>
 <td>
-<ul><li><span typeof="mw:Error mw:File"></span>21,500 <a href="honey.html"><span class="color-template color-template-honey">Honey</span></a></li></ul>
+<ul><li><img alt="Honey" height="25" src="img/Honey.png" width="25"/>21,500 <a href="honey.html"><span class="color-template color-template-honey">Honey</span></a></li></ul>
 </td></tr>
 <tr>
 <td>B&amp;B
@@ -5240,7 +5240,7 @@ The below content has been removed from the game. The contents may be archival, 
 <li>Defeat 2 <a href="spider.html">Spiders</a>.</li></ul>
 </td>
 <td>
-<ul><li><span typeof="mw:Error mw:File"></span>30,500 <a href="honey.html"><span class="color-template color-template-honey">Honey</span></a></li></ul>
+<ul><li><img alt="Honey" height="25" src="img/Honey.png" width="25"/>30,500 <a href="honey.html"><span class="color-template color-template-honey">Honey</span></a></li></ul>
 </td></tr>
 <tr>
 <td>Snag A Belt Bag
@@ -5262,7 +5262,7 @@ The below content has been removed from the game. The contents may be archival, 
 <li>Defeat 3 <a href="spider.html">Spiders</a>.</li></ul>
 </td>
 <td>
-<ul><li><span typeof="mw:Error mw:File"></span>75,000 <a href="honey.html"><span class="color-template color-template-honey">Honey</span></a></li></ul>
+<ul><li><img alt="Honey" height="25" src="img/Honey.png" width="25"/>75,000 <a href="honey.html"><span class="color-template color-template-honey">Honey</span></a></li></ul>
 </td></tr>
 <tr>
 <td>Look At those Links
@@ -5273,7 +5273,7 @@ The below content has been removed from the game. The contents may be archival, 
 <li>Collect 80,000 Pollen from the <a href="bamboo-field.html">Bamboo Field</a>.</li></ul>
 </td>
 <td>
-<ul><li><span typeof="mw:Error mw:File"></span>90,000 <a href="honey.html"><span class="color-template color-template-honey">Honey</span></a></li></ul>
+<ul><li><img alt="Honey" height="25" src="img/Honey.png" width="25"/>90,000 <a href="honey.html"><span class="color-template color-template-honey">Honey</span></a></li></ul>
 </td></tr>
 <tr>
 <td>Bring Back The Boosts
@@ -5284,7 +5284,7 @@ The below content has been removed from the game. The contents may be archival, 
 <li>Defeat 6 <a href="scorpion.html">Scorpions</a>.</li></ul>
 </td>
 <td>
-<ul><li><span typeof="mw:Error mw:File"></span>200,000 <a href="honey.html"><span class="color-template color-template-honey">Honey</span></a></li>
+<ul><li><img alt="Honey" height="25" src="img/Honey.png" width="25"/>200,000 <a href="honey.html"><span class="color-template color-template-honey">Honey</span></a></li>
 <li>1x Ticket</li></ul>
 </td></tr>
 <tr>
@@ -5295,7 +5295,7 @@ The below content has been removed from the game. The contents may be archival, 
 <li>Defeat 3 <a href="werewolf.html">Werewolfs</a>.</li></ul>
 </td>
 <td>
-<ul><li><span typeof="mw:Error mw:File"></span>150,000 <a href="honey.html"><span class="color-template color-template-honey">Honey</span></a></li>
+<ul><li><img alt="Honey" height="25" src="img/Honey.png" width="25"/>150,000 <a href="honey.html"><span class="color-template color-template-honey">Honey</span></a></li>
 <li>2x Ticket</li></ul>
 </td></tr>
 <tr>
@@ -5309,7 +5309,7 @@ The below content has been removed from the game. The contents may be archival, 
 <li>Collect 100,000 Pollen from the Pineapple Patch.</li></ul>
 </td>
 <td>
-<ul><li><span typeof="mw:Error mw:File"></span>200,000 <a href="honey.html"><span class="color-template color-template-honey">Honey</span></a></li>
+<ul><li><img alt="Honey" height="25" src="img/Honey.png" width="25"/>200,000 <a href="honey.html"><span class="color-template color-template-honey">Honey</span></a></li>
 <li>1x <a href="royal-jelly.html">Royal Jelly</a></li></ul>
 </td></tr>
 <tr>
@@ -5354,21 +5354,21 @@ The below content has been removed from the game. The contents may be archival, 
 <td>
 <ul><li>3x Ticket</li>
 <li>1x <a href="royal-jelly.html">Royal Jelly</a></li>
-<li><span typeof="mw:Error mw:File"></span>6,000 <a href="honey.html"><span class="color-template color-template-honey">Honey</span></a></li></ul>
+<li><img alt="Honey" height="25" src="img/Honey.png" width="25"/>6,000 <a href="honey.html"><span class="color-template color-template-honey">Honey</span></a></li></ul>
 </td></tr>
 <tr>
 <td>Token Treck
 </td>
 <td>
 <ul><li>Collect 100 Ability Tokens.</li>
-<li>Collect <span typeof="mw:Error mw:File"></span>25 <a href="honey.html"><span class="color-template color-template-honey">Honey</span></a> Tokens.</li>
+<li>Collect <img alt="Honey" height="25" src="img/Honey.png" width="25"/>25 <a href="honey.html"><span class="color-template color-template-honey">Honey</span></a> Tokens.</li>
 <li>Collect <img alt="Treat" height="25" src="img/Treat.png" width="25"/>5 <a href="treat.html"><span class="color-template color-template-treat">Treats</span></a> Tokens.</li></ul>
 </td>
 <td>
 <ul><li>3x Ticket</li>
 <li>1x Royal Jelly</li>
 <li>25x <a href="treats.html">Treat</a></li>
-<li><span typeof="mw:Error mw:File"></span>10,000 <a href="honey.html"><span class="color-template color-template-honey">Honey</span></a></li></ul>
+<li><img alt="Honey" height="25" src="img/Honey.png" width="25"/>10,000 <a href="honey.html"><span class="color-template color-template-honey">Honey</span></a></li></ul>
 </td></tr>
 <tr>
 <td>Quick Feet, Sharp Mind
@@ -5381,7 +5381,7 @@ The below content has been removed from the game. The contents may be archival, 
 <td>
 <ul><li>3x Ticket</li>
 <li>1x Royal Jelly</li>
-<li><span typeof="mw:Error mw:File"></span>20,000 <a href="honey.html"><span class="color-template color-template-honey">Honey</span></a></li></ul>
+<li><img alt="Honey" height="25" src="img/Honey.png" width="25"/>20,000 <a href="honey.html"><span class="color-template color-template-honey">Honey</span></a></li></ul>
 </td></tr>
 <tr>
 <td>Boot Lootin
@@ -5395,7 +5395,7 @@ The below content has been removed from the game. The contents may be archival, 
 <td>
 <ul><li><a href="basic-boots.html">Basic Boots</a></li>
 <li>3x Ticket</li>
-<li><span typeof="mw:Error mw:File"></span>50,000 <a href="honey.html"><span class="color-template color-template-honey">Honey</span></a></li></ul>
+<li><img alt="Honey" height="25" src="img/Honey.png" width="25"/>50,000 <a href="honey.html"><span class="color-template color-template-honey">Honey</span></a></li></ul>
 </td></tr>
 <tr>
 <td>Sprouts For Sun Bear's Sanity
@@ -5406,7 +5406,7 @@ The below content has been removed from the game. The contents may be archival, 
 </td>
 <td>
 <ul><li>3x Ticket</li>
-<li><span typeof="mw:Error mw:File"></span>60,000 <a href="honey.html"><span class="color-template color-template-honey">Honey</span></a></li></ul>
+<li><img alt="Honey" height="25" src="img/Honey.png" width="25"/>60,000 <a href="honey.html"><span class="color-template color-template-honey">Honey</span></a></li></ul>
 </td></tr>
 <tr>
 <td>Thinking About Those Links
@@ -5419,7 +5419,7 @@ The below content has been removed from the game. The contents may be archival, 
 <td>
 <ul><li>3x Ticket</li>
 <li>1x Royal Jelly</li>
-<li><span typeof="mw:Error mw:File"></span>75,000 <a href="honey.html"><span class="color-template color-template-honey">Honey</span></a></li></ul>
+<li><img alt="Honey" height="25" src="img/Honey.png" width="25"/>75,000 <a href="honey.html"><span class="color-template color-template-honey">Honey</span></a></li></ul>
 </td></tr>
 <tr>
 <td>Light Up The Night
@@ -5431,20 +5431,20 @@ The below content has been removed from the game. The contents may be archival, 
 <td>
 <ul><li>3x Ticket</li>
 <li>25x Treat</li>
-<li><span typeof="mw:Error mw:File"></span>100,000 <a href="honey.html"><span class="color-template color-template-honey">Honey</span></a></li></ul>
+<li><img alt="Honey" height="25" src="img/Honey.png" width="25"/>100,000 <a href="honey.html"><span class="color-template color-template-honey">Honey</span></a></li></ul>
 </td></tr>
 <tr>
 <td>Show Me The Honey
 </td>
 <td>
-<ul><li>Collect <span typeof="mw:Error mw:File"></span>250 <a href="honey.html"><span class="color-template color-template-honey">Honey</span></a> Tokens.</li>
+<ul><li>Collect <img alt="Honey" height="25" src="img/Honey.png" width="25"/>250 <a href="honey.html"><span class="color-template color-template-honey">Honey</span></a> Tokens.</li>
 <li>Collect 500 Ability Tokens.</li>
 <li>Defeat 8 <a href="mantis.html">Mantises</a>.</li></ul>
 </td>
 <td>
 <ul><li>3x Ticket</li>
 <li>20x Sunflower Seed</li>
-<li><span typeof="mw:Error mw:File"></span>150,000 <a href="honey.html"><span class="color-template color-template-honey">Honey</span></a></li></ul>
+<li><img alt="Honey" height="25" src="img/Honey.png" width="25"/>150,000 <a href="honey.html"><span class="color-template color-template-honey">Honey</span></a></li></ul>
 </td></tr>
 <tr>
 <td>Battle For Boots
@@ -5456,7 +5456,7 @@ The below content has been removed from the game. The contents may be archival, 
 </td>
 <td>
 <ul><li>3x Ticket</li>
-<li><span typeof="mw:Error mw:File"></span>250,000 <a href="honey.html"><span class="color-template color-template-honey">Honey</span></a></li>
+<li><img alt="Honey" height="25" src="img/Honey.png" width="25"/>250,000 <a href="honey.html"><span class="color-template color-template-honey">Honey</span></a></li>
 <li><a href="hiking-boots.html">Hiking Boots</a></li></ul>
 </td></tr>
 <tr>
@@ -5475,7 +5475,7 @@ The below content has been removed from the game. The contents may be archival, 
 <ul><li>3x Ticket</li>
 <li>1x Royal Jelly</li>
 <li>500x Treat</li>
-<li><span typeof="mw:Error mw:File"></span>500,000 <a href="honey.html"><span class="color-template color-template-honey">Honey</span></a></li></ul>
+<li><img alt="Honey" height="25" src="img/Honey.png" width="25"/>500,000 <a href="honey.html"><span class="color-template color-template-honey">Honey</span></a></li></ul>
 </td></tr>
 <tr>
 <td>Sun Bear's Abili-Tour
@@ -5485,12 +5485,12 @@ The below content has been removed from the game. The contents may be archival, 
 <li>Collect 2,000 Bomb Tokens.</li>
 <li>Collect 1,000 Token Link Tokens.</li>
 <li>Collect 1,000 Focus Tokens.</li>
-<li>Collect <span typeof="mw:Error mw:File"></span>250 <a href="honey.html"><span class="color-template color-template-honey">Honey</span></a> Gift Tokens.</li></ul>
+<li>Collect <img alt="Honey" height="25" src="img/Honey.png" width="25"/>250 <a href="honey.html"><span class="color-template color-template-honey">Honey</span></a> Gift Tokens.</li></ul>
 </td>
 <td>
 <ul><li>3x Ticket</li>
 <li>2x Royal Jelly</li>
-<li><span typeof="mw:Error mw:File"></span>1,000,000 <a href="honey.html"><span class="color-template color-template-honey">Honey</span></a></li></ul>
+<li><img alt="Honey" height="25" src="img/Honey.png" width="25"/>1,000,000 <a href="honey.html"><span class="color-template color-template-honey">Honey</span></a></li></ul>
 </td></tr>
 <tr>
 <td>Vicious Bee Begone
@@ -5501,7 +5501,7 @@ The below content has been removed from the game. The contents may be archival, 
 <td>
 <ul><li>3x Ticket</li>
 <li>3x Royal Jelly</li>
-<li><span typeof="mw:Error mw:File"></span>2,500,000 <a href="honey.html"><span class="color-template color-template-honey">Honey</span></a></li></ul>
+<li><img alt="Honey" height="25" src="img/Honey.png" width="25"/>2,500,000 <a href="honey.html"><span class="color-template color-template-honey">Honey</span></a></li></ul>
 </td></tr>
 <tr>
 <td>Sun Bear Spectacular
@@ -5516,7 +5516,7 @@ The below content has been removed from the game. The contents may be archival, 
 <td>
 <ul><li><a href="beekeeper-s-boots.html">Beekeeper's Boots</a></li>
 <li>3x Ticket</li>
-<li><span typeof="mw:Error mw:File"></span>5,000,000 <a href="honey.html"><span class="color-template color-template-honey">Honey</span></a></li></ul>
+<li><img alt="Honey" height="25" src="img/Honey.png" width="25"/>5,000,000 <a href="honey.html"><span class="color-template color-template-honey">Honey</span></a></li></ul>
 </td></tr></tbody></table>
 
 ### Bean Bugs Quests (10)
@@ -5559,7 +5559,7 @@ The below content has been removed from the game. The contents may be archival, 
 <td>
 <ul><li>Collect 50 Tokens from Bean Bugs</li>
 <li>Collect 50 Boost Token</li>
-<li>Collect <span typeof="mw:Error mw:File"></span>100 <a href="honey.html"><span class="color-template color-template-honey">Honey</span></a> Tokens</li></ul>
+<li>Collect <img alt="Honey" height="25" src="img/Honey.png" width="25"/>100 <a href="honey.html"><span class="color-template color-template-honey">Honey</span></a> Tokens</li></ul>
 </td>
 <td>25 <a href="gumdrops.html">Gumdrops</a><br/>
 <p>50,000 Honey
@@ -5814,7 +5814,7 @@ Beesmas Beeliever Badge
 </td>
 <td>
 <ul><li>Deliver 3 Presents.</li>
-<li>Collect <span typeof="mw:Error mw:File"></span>500 <a href="honey.html"><span class="color-template color-template-honey">Honey</span></a> Tokens.</li></ul>
+<li>Collect <img alt="Honey" height="25" src="img/Honey.png" width="25"/>500 <a href="honey.html"><span class="color-template color-template-honey">Honey</span></a> Tokens.</li></ul>
 </td>
 <td>1x Ticket<br/>
 <p>25x Treat<br/>
@@ -5911,7 +5911,7 @@ Beesmas Beeliever Badge
 <td>A Pinch Of Magic
 </td>
 <td>
-<ul><li>Collect <span typeof="mw:Error mw:File"></span>1,000 <a href="honey.html"><span class="color-template color-template-honey">Honey</span></a> Tokens.</li>
+<ul><li>Collect <img alt="Honey" height="25" src="img/Honey.png" width="25"/>1,000 <a href="honey.html"><span class="color-template color-template-honey">Honey</span></a> Tokens.</li>
 <li>Collect 200 <a href="sparkles.html">Sparkles</a> Tokens.</li>
 <li>Use 1 <a href="glitter.html">Glitter</a>.</li></ul>
 </td>
@@ -6101,7 +6101,7 @@ Beesmas Beeliever Badge
 <td>
 <ul><li>Collect 1,000,000 White Pollen</li>
 <li>Collect 250 Bomb Tokens</li>
-<li>Collect <span typeof="mw:Error mw:File"></span>1,000 <a href="honey.html"><span class="color-template color-template-honey">Honey</span></a> Tokens</li>
+<li>Collect <img alt="Honey" height="25" src="img/Honey.png" width="25"/>1,000 <a href="honey.html"><span class="color-template color-template-honey">Honey</span></a> Tokens</li>
 <li>Collect 25 <a href="moon-charm.html">Moon Charm</a> Tokens</li>
 <li>Use the <a href="moon-amulet-generator.html">Moon Amulet Generator</a> 1 Time</li>
 <li>Defeat 2 Werewolves</li>
@@ -6285,7 +6285,7 @@ Beesmas Beeliever Badge
 <li>Collect 150,000,000 Pollen from the Pepper Patch</li>
 <li>Collect 150,000,000 Pollen from the Dandelion Field</li>
 <li>Collect 10,000,000 Goo from White Flowers</li>
-<li>Collect <span typeof="mw:Error mw:File"></span>5,000 <a href="honey.html"><span class="color-template color-template-honey">Honey</span></a> Tokens</li>
+<li>Collect <img alt="Honey" height="25" src="img/Honey.png" width="25"/>5,000 <a href="honey.html"><span class="color-template color-template-honey">Honey</span></a> Tokens</li>
 <li>Collect 50 Tokens from Fireflies</li>
 <li>Use the Moon Amulet Generator 3 times</li>
 <li>Defeat 5 Spiders</li>
@@ -6363,7 +6363,7 @@ The following content has been removed from the game. The contents below may be 
 <td>Colorful Conquest
 </td>
 <td>
-<ul><li>Collect <span typeof="mw:Error mw:File"></span>10 <a href="honey.html"><span class="color-template color-template-honey">Honey</span></a> Tokens.</li>
+<ul><li>Collect <img alt="Honey" height="25" src="img/Honey.png" width="25"/>10 <a href="honey.html"><span class="color-template color-template-honey">Honey</span></a> Tokens.</li>
 <li>Collect 2,000 <a href="goo.html">Goo</a> from White flowers.</li>
 <li>Collect 2,000 <a href="goo.html">Goo</a> from Red flowers.</li>
 <li>Collect 2,000 <a href="goo.html">Goo</a> from Blue flowers.</li></ul>
@@ -6390,7 +6390,7 @@ The following content has been removed from the game. The contents below may be 
 <td>Four Front Assault
 </td>
 <td>
-<ul><li>Collect <span typeof="mw:Error mw:File"></span>20 <a href="honey.html"><span class="color-template color-template-honey">Honey</span></a> Tokens.</li>
+<ul><li>Collect <img alt="Honey" height="25" src="img/Honey.png" width="25"/>20 <a href="honey.html"><span class="color-template color-template-honey">Honey</span></a> Tokens.</li>
 <li>Collect 30,000 <a href="goo.html">Goo</a>.</li>
 <li>Collect 5,000 <a href="goo.html">Goo</a> from the <a href="mushroom-field.html">Mushroom Field</a>.</li>
 <li>Collect 5,000 <a href="goo.html">Goo</a> from the <a href="blue-flower-field.html">Blue Flower Field</a>.</li>
@@ -6417,7 +6417,7 @@ The following content has been removed from the game. The contents below may be 
 <td>Artillery Lessons: Slingshot
 </td>
 <td>
-<ul><li>Collect <span typeof="mw:Error mw:File"></span>30 <a href="honey.html"><span class="color-template color-template-honey">Honey</span></a> Tokens.</li>
+<ul><li>Collect <img alt="Honey" height="25" src="img/Honey.png" width="25"/>30 <a href="honey.html"><span class="color-template color-template-honey">Honey</span></a> Tokens.</li>
 <li>Use the <a href="slingshot.html">Slingshot</a> 10 Times.</li>
 <li>Collect 80,000 <a href="goo.html">Goo</a> from the <a href="pineapple-patch.html">Pineapple Patch</a>.</li></ul>
 </td>
@@ -6459,7 +6459,7 @@ The following content has been removed from the game. The contents below may be 
 <td>Artillery Lessons: Yellow Cannon
 </td>
 <td>
-<ul><li>Collect <span typeof="mw:Error mw:File"></span>40 <a href="honey.html"><span class="color-template color-template-honey">Honey</span></a> Tokens.</li>
+<ul><li>Collect <img alt="Honey" height="25" src="img/Honey.png" width="25"/>40 <a href="honey.html"><span class="color-template color-template-honey">Honey</span></a> Tokens.</li>
 <li>Use the <a href="yellow-cannon.html">Yellow Cannon</a> 30 Times.</li>
 <li>Collect 200,000 <a href="goo.html">Goo</a> from White flowers.</li></ul>
 </td>
@@ -6485,7 +6485,7 @@ The following content has been removed from the game. The contents below may be 
 <td>Artillery Lessons: Blue Cannon
 </td>
 <td>
-<ul><li>Collect <span typeof="mw:Error mw:File"></span>100 <a href="honey.html"><span class="color-template color-template-honey">Honey</span></a> Tokens.</li>
+<ul><li>Collect <img alt="Honey" height="25" src="img/Honey.png" width="25"/>100 <a href="honey.html"><span class="color-template color-template-honey">Honey</span></a> Tokens.</li>
 <li>Use the <a href="blue-cannon.html">Blue Cannon</a> 40 Times.</li>
 <li>Collect 300,000 <a href="goo.html">Goo</a> from Blue flowers.</li>
 <li>Collect 300,000 <a href="goo.html">Goo</a> from the <a href="rose-field.html">Rose Field</a>.</li>
@@ -6516,7 +6516,7 @@ The following content has been removed from the game. The contents below may be 
 <td>Candy Conquest
 </td>
 <td>
-<ul><li>Collect <span typeof="mw:Error mw:File"></span>250 <a href="honey.html"><span class="color-template color-template-honey">Honey</span></a> Tokens.</li>
+<ul><li>Collect <img alt="Honey" height="25" src="img/Honey.png" width="25"/>250 <a href="honey.html"><span class="color-template color-template-honey">Honey</span></a> Tokens.</li>
 <li>Collect 750,000 <a href="goo.html">Goo</a>.</li>
 <li>Collect 75,000 <a href="goo.html">Goo</a> from the <a href="sunflower-field.html">Sunflower Field</a>.</li>
 <li>Collect 75,000 <a href="goo.html">Goo</a> from the <a href="dandelion-field.html">Dandelion Field</a>.</li>
