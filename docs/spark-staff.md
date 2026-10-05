@@ -126,7 +126,6 @@ The **Spark Staff** is a [tool](tools.md) that was added in the 2019-04-05 updat
 
 The Spark Staff collects all [pollen](pollen.md) from the 3 fullest nearby [flowers](flowers.md) in 0.5 seconds and increases it by 20%. It has a maximum base pollen collection rate of 216 pollen per second from single flowers, 324 pollen per second from double flowers, 432 pollen per second from triple flowers, 540 pollen per second from large flowers, and 648 pollen per second from star flowers, varying immensely due to digging the entire flower, with pollen held by [flowers](flowers.md) depending on the tier. However, the nearby flowers may not be full, so it doesn't always reach its complete potential.
 
-The following audio plays when the Spark Staff collects pollen:
 
 ## Trivia
 
@@ -213,12 +212,12 @@ The following audio plays when the Spark Staff collects pollen:
 <tr>
 <th class="NavCategory">Removed
 </th>
-<td class="NavLinks NavLinksBasicEven"><b><img alt="Eviction" height="35" src="img/Eviction.png" width="35"/> <a href="eviction.html">Eviction</a> • <span typeof="mw:Error mw:File"></span> <span class="new" data-uncrawlable-url="L3dpa2kvUGxhc3RpY19FZ2c/YWN0aW9uPWVkaXQmcmVkbGluaz0x" title="Plastic Egg (page does not exist)">Plastic Egg</span></b>
+<td class="NavLinks NavLinksBasicEven"><b><img alt="Eviction" height="35" src="img/Eviction.png" width="35"/> <a href="eviction.html">Eviction</a> • <img alt="Plastic Egg" height="35" src="img/Plastic_Egg.png" width="35"/> <span class="new" data-uncrawlable-url="L3dpa2kvUGxhc3RpY19FZ2c/YWN0aW9uPWVkaXQmcmVkbGluaz0x" title="Plastic Egg (page does not exist)">Plastic Egg</span></b>
 </td></tr>
 <tr>
 <th class="NavCategory">Unobtainable
 </th>
-<td class="NavLinks NavLinksBasicOdd"><b><span typeof="mw:Error mw:File"></span> <span class="new" data-uncrawlable-url="L3dpa2kvNy1Qcm9uZ2VkX0NvZz9hY3Rpb249ZWRpdCZyZWRsaW5rPTE=" title="7-Pronged Cog (page does not exist)">7-Pronged Cog</span></b>
+<td class="NavLinks NavLinksBasicOdd"><b><img alt="7-Pronged Cog" height="35" src="img/7-Pronged_Cog.png" width="35"/> <span class="new" data-uncrawlable-url="L3dpa2kvNy1Qcm9uZ2VkX0NvZz9hY3Rpb249ZWRpdCZyZWRsaW5rPTE=" title="7-Pronged Cog (page does not exist)">7-Pronged Cog</span></b>
 </td></tr>
 <tr>
 <th class="NavCategory">Other
@@ -251,7 +250,7 @@ The following audio plays when the Spark Staff collects pollen:
 <tr>
 <th class="NavCategory">Gliding<br/>Tools
 </th>
-<td class="NavLinks NavLinksBasicOdd"><b><span typeof="mw:Error mw:File"></span> <a href="parachute.html">Parachute</a> • <span typeof="mw:Error mw:File"></span> <a href="glider.html">Glider</a></b>
+<td class="NavLinks NavLinksBasicOdd"><b><img alt="Parachute" height="35" src="img/Parachute.png" width="42"/> <a href="parachute.html">Parachute</a> • <img alt="Glider" height="35" src="img/Glider.png" width="44"/> <a href="glider.html">Glider</a></b>
 </td></tr></tbody></table>
 </td></tr>
 <tr>
@@ -274,7 +273,7 @@ The following audio plays when the Spark Staff collects pollen:
 <tr>
 <th class="NavCategory">Hats
 </th>
-<td class="NavLinks NavLinksBasicOdd"><b><span typeof="mw:File"><a href="helmet.html"><img alt="Helmet" data-image-key="Helmet.png" data-image-name="Helmet.png" data-relevant="1" height="35" src="img/Helmet.png" width="35"/></a></span> <a href="helmet.html">Helmet</a> • <span typeof="mw:Error mw:File"></span> <span class="new" data-uncrawlable-url="L3dpa2kvU3RyYW5nZV9Hb2dnbGVzP2FjdGlvbj1lZGl0JnJlZGxpbms9MQ==" title="Strange Goggles (page does not exist)">Strange Goggles</span> • <span typeof="mw:File"><a href="propeller-hat.html"><img alt="Propeller Hat" data-image-key="Propeller_Hat.png" data-image-name="Propeller Hat.png" data-relevant="1" height="35" src="img/Propeller_Hat.png" width="35"/></a></span> <a href="propeller-hat.html">Propeller Hat</a> • <span typeof="mw:File"><a href="beekeeper-s-mask.html"><img alt="Beekeeper's Mask" data-image-key="Beekeeper%27s_Mask.png" data-image-name="Beekeeper's Mask.png" data-relevant="1" height="35" src="img/Beekeeper's_Mask.png" width="35"/></a></span> <a href="beekeeper-s-mask.html">Beekeeper's Mask</a> • <span typeof="mw:File"><a href="honey-mask.html"><img alt="Honey Mask" data-image-key="Honey_Mask.png" data-image-name="Honey Mask.png" data-relevant="1" height="35" src="img/Honey_Mask.png" width="35"/></a></span> <a href="honey-mask.html">Honey Mask</a> • <span typeof="mw:File"><a href="fire-mask.html"><img alt="Fire Mask" data-image-key="Fire_Mask.png" data-image-name="Fire Mask.png" data-relevant="1" height="35" src="img/Fire_Mask.png" width="35"/></a></span> <a href="fire-mask.html">Fire Mask</a> • <span typeof="mw:File"><a href="bubble-mask.html"><img alt="Bubble Mask" data-image-key="Bubble_Mask.png" data-image-name="Bubble Mask.png" data-relevant="1" height="35" src="img/Bubble_Mask.png" width="35"/></a></span> <a href="bubble-mask.html">Bubble Mask</a> • <span typeof="mw:File"><a href="demon-mask.html"><img alt="Demon Mask" data-image-key="Demon_Mask.png" data-image-name="Demon Mask.png" data-relevant="1" height="35" src="img/Demon_Mask.png" width="35"/></a></span> <a href="demon-mask.html">Demon Mask</a> • <span typeof="mw:File"><a href="diamond-mask.html"><img alt="Diamond Mask" data-image-key="Diamond_Mask.png" data-image-name="Diamond Mask.png" data-relevant="1" height="35" src="img/Diamond_Mask.png" width="35"/></a></span> <a href="diamond-mask.html">Diamond Mask</a> • <span typeof="mw:File"><a href="gummy-mask.html"><img alt="Gummy Mask" data-image-key="Gummy_Mask.png" data-image-name="Gummy Mask.png" data-relevant="1" height="35" src="img/Gummy_Mask.png" width="35"/></a></span> <a href="gummy-mask.html">Gummy Mask</a></b>
+<td class="NavLinks NavLinksBasicOdd"><b><span typeof="mw:File"><a href="helmet.html"><img alt="Helmet" data-image-key="Helmet.png" data-image-name="Helmet.png" data-relevant="1" height="35" src="img/Helmet.png" width="35"/></a></span> <a href="helmet.html">Helmet</a> • <span typeof="mw:File"><a href="propeller-hat.html"><img alt="Propeller Hat" data-image-key="Propeller_Hat.png" data-image-name="Propeller Hat.png" data-relevant="1" height="35" src="img/Propeller_Hat.png" width="35"/></a></span> <a href="propeller-hat.html">Propeller Hat</a> • <span typeof="mw:File"><a href="beekeeper-s-mask.html"><img alt="Beekeeper's Mask" data-image-key="Beekeeper%27s_Mask.png" data-image-name="Beekeeper's Mask.png" data-relevant="1" height="35" src="img/Beekeeper's_Mask.png" width="35"/></a></span> <a href="beekeeper-s-mask.html">Beekeeper's Mask</a> • <span typeof="mw:File"><a href="honey-mask.html"><img alt="Honey Mask" data-image-key="Honey_Mask.png" data-image-name="Honey Mask.png" data-relevant="1" height="35" src="img/Honey_Mask.png" width="35"/></a></span> <a href="honey-mask.html">Honey Mask</a> • <span typeof="mw:File"><a href="fire-mask.html"><img alt="Fire Mask" data-image-key="Fire_Mask.png" data-image-name="Fire Mask.png" data-relevant="1" height="35" src="img/Fire_Mask.png" width="35"/></a></span> <a href="fire-mask.html">Fire Mask</a> • <span typeof="mw:File"><a href="bubble-mask.html"><img alt="Bubble Mask" data-image-key="Bubble_Mask.png" data-image-name="Bubble Mask.png" data-relevant="1" height="35" src="img/Bubble_Mask.png" width="35"/></a></span> <a href="bubble-mask.html">Bubble Mask</a> • <span typeof="mw:File"><a href="demon-mask.html"><img alt="Demon Mask" data-image-key="Demon_Mask.png" data-image-name="Demon Mask.png" data-relevant="1" height="35" src="img/Demon_Mask.png" width="35"/></a></span> <a href="demon-mask.html">Demon Mask</a> • <span typeof="mw:File"><a href="diamond-mask.html"><img alt="Diamond Mask" data-image-key="Diamond_Mask.png" data-image-name="Diamond Mask.png" data-relevant="1" height="35" src="img/Diamond_Mask.png" width="35"/></a></span> <a href="diamond-mask.html">Diamond Mask</a> • <span typeof="mw:File"><a href="gummy-mask.html"><img alt="Gummy Mask" data-image-key="Gummy_Mask.png" data-image-name="Gummy Mask.png" data-relevant="1" height="35" src="img/Gummy_Mask.png" width="35"/></a></span> <a href="gummy-mask.html">Gummy Mask</a></b>
 </td></tr>
 <tr>
 <th class="NavCategory">Belts

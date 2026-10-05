@@ -7,10 +7,6 @@ tags: ["NPC", "Bears", "Traveling Bears", "Quest Giver", "Beesmas", "Events"]
 
 ![Bee Bear](img/bears/Bee_Bear.png){ align=right width=150 }
 
-This piece of content goes bye bye.
-
-The following content has been removed from the game. The contents below may be archival, but feel free to edit below.
-
 <table class="infobox" style="font-size:12px; color:white; width:300px; background:#a58b59;padding:0; border:none; color:#FFF;">
 <tbody><tr>
 <td colspan="2" style="background-color:#684a12; font-size:2vh; text-align: center; padding: 15px 0; color:#FFF"><b>Bee Bear</b>
@@ -105,10 +101,6 @@ His seventh visit was originally for a Roblox event, the Winter Spotlight; howev
 His eighth visit started on December 25, 2025; however, none of his quests were introduced until December 27, 2025, where he gave out ten quests for rewards including a [Festive Planter](festive-planter.md). On January 16, 2026, 5 more quests were introduced for a [Cub Buddy](cub-buddy.md#Skins) ([Cub Buddy Voucher](sticker.md#Sticker_Index) if the player already owns a Cub Buddy). On April 23, 2026, the last 5 quests were released, rewarding the player with the [Petal Cub](cub-buddy.md#Skins) skin on completion. The main focus on his quests were [Blooms](bloom.md). His visit ended on June 8, 2026, at midnight EST (GMT-5).
 
 ### 2025
-
-This piece of content goes bye bye.
-
-The following content has been removed from the game. The contents below may be archival, but feel free to edit below.
 
 ## 2025 Quests
 
@@ -984,19 +976,19 @@ Oh ho ho. That's a nice [Sticker] you stuck up there. I think you deserve anothe
 <tr>
 <th class="NavCategory">Permanent Bears
 </th>
-<td class="NavLinks NavLinksBasicOdd"><span typeof="mw:Error mw:File"></span> <b><a href="black-bear.html">Black Bear</a></b> • <span typeof="mw:Error mw:File"></span> <b><a href="mother-bear.html">Mother Bear</a></b> • <span typeof="mw:Error mw:File"></span> <b><a href="brown-bear.html">Brown Bear</a></b> • <span typeof="mw:Error mw:File"></span> <b><a href="panda-bear.html">Panda Bear</a></b> • <span typeof="mw:Error mw:File"></span> <b><a href="science-bear.html">Science Bear</a></b>
-<p><span typeof="mw:Error mw:File"></span> <b><a href="dapper-bear.html">Dapper Bear</a></b> • <span typeof="mw:Error mw:File"></span> <b><a href="polar-bear.html">Polar Bear</a></b> • <span typeof="mw:Error mw:File"></span> <b><a href="robo-bear.html">Robo Bear</a></b> •<span typeof="mw:Error mw:File"></span> <b><a href="spirit-bear.html">Spirit Bear</a></b>
+<td class="NavLinks NavLinksBasicOdd"><img alt="Black Bear" height="35" src="img/Black_Bear.png" width="44"/> <b><a href="black-bear.html">Black Bear</a></b> • <img alt="Mother Bear" height="35" src="img/bears/Mother_Bear.png" width="44"/> <b><a href="mother-bear.html">Mother Bear</a></b> • <img alt="Brown Bear" height="35" src="img/bears/Brown_Bear.png" width="44"/> <b><a href="brown-bear.html">Brown Bear</a></b> • <img alt="Panda Bear" height="35" src="img/Panda_Bear.png" width="44"/> <b><a href="panda-bear.html">Panda Bear</a></b> • <img alt="Science Bear" height="35" src="img/bears/Science_Bear.png" width="44"/> <b><a href="science-bear.html">Science Bear</a></b>
+<p><img alt="Dapper Bear" height="35" src="img/Dapper_Bear.png" width="35"/> <b><a href="dapper-bear.html">Dapper Bear</a></b> • <img alt="Polar Bear" height="35" src="img/bears/Polar_Bear.png" width="44"/> <b><a href="polar-bear.html">Polar Bear</a></b> • <img alt="Robo Bear" height="35" src="img/bears/Robo_Bear.png" width="44"/> <b><a href="robo-bear.html">Robo Bear</a></b> •<img alt="Spirit Bear" height="35" src="img/bears/Spirit_Bear.png" width="44"/> <b><a href="spirit-bear.html">Spirit Bear</a></b>
 </p>
 </td></tr>
 <tr>
 <th class="NavCategory">Traveling Bears
 </th>
-<td class="NavLinks NavLinksBasicEven"><span typeof="mw:Error mw:File"></span> <b><a href="sun-bear.html">Sun Bear</a></b> • <span typeof="mw:Error mw:File"></span> <b><a href="gummy-bear.html">Gummy Bear</a></b> • <span typeof="mw:Error mw:File"></span> <b><strong class="mw-selflink selflink">Bee Bear</strong></b>
+<td class="NavLinks NavLinksBasicEven"><img alt="Sun Bear" height="35" src="img/bears/Sun_Bear.png" width="44"/> <b><a href="sun-bear.html">Sun Bear</a></b> • <img alt="Gummy Bear" height="35" src="img/bears/Gummy_Bear.png" width="44"/> <b><a href="gummy-bear.html">Gummy Bear</a></b> • <span typeof="mw:Error mw:File"></span> <b><strong class="mw-selflink selflink">Bee Bear</strong></b>
 </td></tr>
 <tr>
 <th class="NavCategory">Other
 </th>
-<td class="NavLinks NavLinksBasicOdd"><span typeof="mw:Error mw:File"></span> <b><a href="gifted-bucko-bee.html">Gifted Bucko Bee</a></b> • <span typeof="mw:Error mw:File"></span> <b><a href="gifted-riley-bee.html">Gifted Riley Bee</a></b> • <span typeof="mw:Error mw:File"></span> <b><a href="honey-bee-npc.html">Honey Bee</a></b>
-<p><span typeof="mw:File"><a href="onett.html"><img alt="Beekeeper's Mask" data-image-key="Beekeeper%27s_Mask.png" data-image-name="Beekeeper's Mask.png" data-relevant="1" height="35" src="img/Beekeeper's_Mask.png" width="35"/></a></span> <b><a href="onett.html">Onett</a></b> • <span typeof="mw:Error mw:File"></span> <b><a href="bubble-bee-man.html">Bubble Bee Man</a></b>
+<td class="NavLinks NavLinksBasicOdd"><img alt="Gifted Bucko Bee" height="35" src="img/Gifted_Bucko_Bee.png" width="35"/> <b><a href="gifted-bucko-bee.html">Gifted Bucko Bee</a></b> • <img alt="Gifted Riley Bee" height="35" src="img/Gifted_Riley_Bee.png" width="35"/> <b><a href="gifted-riley-bee.html">Gifted Riley Bee</a></b> • <img alt="Honey Bee" height="35" src="img/Honey_Bee_(NPC).png" width="35"/> <b><a href="honey-bee-npc.html">Honey Bee</a></b>
+<p><span typeof="mw:File"><a href="onett.html"><img alt="Beekeeper's Mask" data-image-key="Beekeeper%27s_Mask.png" data-image-name="Beekeeper's Mask.png" data-relevant="1" height="35" src="img/Beekeeper's_Mask.png" width="35"/></a></span> <b><a href="onett.html">Onett</a></b> • <img alt="Bubble Bee Man" height="35" src="img/Bubble_Bee_Man.png" width="35"/> <b><a href="bubble-bee-man.html">Bubble Bee Man</a></b>
 </p>
 </td></tr></tbody></table>

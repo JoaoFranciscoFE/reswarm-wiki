@@ -141,6 +141,6 @@ Tools collect pollen from flowers. Listed from cheapest to best.
 ## Gliding
 
 <div class="wiki-cards">
-<a class="wiki-card wiki-card--noicon" href="glider.html"><img src="images/no-icon.svg" alt="" loading="lazy"><span>Glider</span></a>
-<a class="wiki-card wiki-card--noicon" href="parachute.html"><img src="images/no-icon.svg" alt="" loading="lazy"><span>Parachute</span></a>
+<a class="wiki-card wiki-card--photo" href="glider.html"><img src="img/places/Glider.png" alt="" loading="lazy"><span>Glider</span></a>
+<a class="wiki-card wiki-card--photo" href="parachute.html"><img src="img/places/Parachute.png" alt="" loading="lazy"><span>Parachute</span></a>
 </div>

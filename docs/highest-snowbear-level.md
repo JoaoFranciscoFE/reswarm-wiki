@@ -7,9 +7,7 @@ tags: ["Locations", "Leaderboards", "Beesmas"]
 
 ![Highest Snowbear Level](img/Highest_Snowbear_Level.png){ align=right width=150 }
 
-This piece of content goes bye bye.
-
-The following content has been removed from the game. The contents below may be archival, but feel free to edit below.
+This was removed from the game.
 
 The **Highest Snowbear Level** is one of the 64 [leaderboards](leaderboards.md) in the game. It was added in the 2020-12-25 update and returned in every Beesmas thereafter. It is next to the [Spider Field](spider-field.md), [Bamboo Field](bamboo-field.md), [Gumdrop Shop](gumdrop-shop.md), [Snowbear Summoner](snowbear-summoner.md), [Basic Bee Gate](basic-bee-gate.md), and [Panda Bear](panda-bear.md). To summon a [Snowbear](snowbear.md), the player must complete Panda Bear's Beesmas [quest](quests.md) to gain access to the summoner, allowing them to use the Snowbear Summoner. Each time the player defeats the Snowbear, its level increases by one. The leaderboard displays the players who have the highest top 100 Snowbear levels. This leaderboard does not have a white pad to stand on.
 
@@ -61,5 +59,5 @@ The **Highest Snowbear Level** is one of the 64 [leaderboards](leaderboards.md) 
 <tr>
 <th class="NavCategory">Event<br/>Locations
 </th>
-<td class="NavLinks NavLinksBasicEven"><b><a href="beesmas-tree.html">Beesmas Tree</a> • <span class="new" data-uncrawlable-url="L3dpa2kvQ29tcHV0ZXI/YWN0aW9uPWVkaXQmcmVkbGluaz0x" title="Computer (page does not exist)">Computer</span> • <a href="gift-boxes.html">Gift Boxes</a> • <a href="honey-wreath.html">Honey Wreath</a> • <a href="stockings.html">Stockings</a> • <a href="gingerbread-house.html">Gingerbread House</a> • <a href="snowbear-summoner.html">Snowbear Summoner</a> • <a href="beesmas-lights.html">Beesmas Lights</a> • <a href="samovar.html">Samovar</a> • <a href="beesmas-feast.html">Beesmas Feast</a> • <a href="onett-s-lid-art.html">Onett's Lid Art</a> • <a href="wind-shrine.html#Galentine_Shrine">Galentine Shrine</a> • <a href="memory-match.html#Winter_Memory_Match">Winter Memory Match</a> • <a href="snow-machine.html">Snow Machine</a> • <a href="honeyday-candles.html">Honeyday Candles</a> • <a href="robo-party-cake.html">Robo Party Cake</a> • <a href="gummy-beacon.html">Gummy Beacon</a> • <a href="naughty-list.html">Naughty List</a></b>
+<td class="NavLinks NavLinksBasicEven"><b><a href="beesmas-tree.html">Beesmas Tree</a> • <a href="gift-boxes.html">Gift Boxes</a> • <a href="honey-wreath.html">Honey Wreath</a> • <a href="stockings.html">Stockings</a> • <a href="gingerbread-house.html">Gingerbread House</a> • <a href="snowbear-summoner.html">Snowbear Summoner</a> • <a href="beesmas-lights.html">Beesmas Lights</a> • <a href="samovar.html">Samovar</a> • <a href="beesmas-feast.html">Beesmas Feast</a> • <a href="onett-s-lid-art.html">Onett's Lid Art</a> • <a href="wind-shrine.html#Galentine_Shrine">Galentine Shrine</a> • <a href="memory-match.html#Winter_Memory_Match">Winter Memory Match</a> • <a href="snow-machine.html">Snow Machine</a> • <a href="honeyday-candles.html">Honeyday Candles</a> • <a href="robo-party-cake.html">Robo Party Cake</a> • <a href="gummy-beacon.html">Gummy Beacon</a> • <a href="naughty-list.html">Naughty List</a></b>
 </td></tr></tbody></table>

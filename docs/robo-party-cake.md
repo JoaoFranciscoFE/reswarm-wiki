@@ -7,13 +7,9 @@ tags: ["Beesmas", "Beesmas Decorations", "Locations", "Machines", "Robo Bear", "
 
 ![Robo Party Cake](img/Robo_Party_Cake.png){ align=right width=150 }
 
-This piece of content goes bye bye.
-
-The following content has been removed from the game. The contents below may be archival, but feel free to edit below.
 
 
-
-The **Robo Party Cake** is a Beesmas-exclusive machine that was added in the second part of Beesmas 2022 and has returned in every Beesmas events since. It is accessible after completing [Robo Bear's Party Cake quest](robo-bear.md#Beesmas_Quest_-_Robo_Bear's_Party_Cake) and is able to initiate a special challenge every 3 hours.
+The **Robo Party Cake** is a Beesmas-exclusive machine that was added in the second part of Beesmas 2022 and has returned in every Beesmas events since. It is accessible after completing [Robo Bear's Party Cake quest](robo-bear.md#Beesmas_Quest_-_Robo_Bear's_Party_Cake) and is able to initiate a special challenge every 10 minutes.
 
 <figure class="mw-halign-center" style="text-align:center"><img alt="" src="img/places/Robo_Party_Cake_unbuilt_frame.png" width="480"/><figcaption>The Robo Party Cake frame and its leaderboard.</figcaption></figure>
 
@@ -681,5 +677,5 @@ Onett is able to manipulate the function of the Robo Party event to activate it 
 <tr>
 <th class="NavCategory">Event<br/>Locations
 </th>
-<td class="NavLinks NavLinksBasicEven"><b><a href="beesmas-tree.html">Beesmas Tree</a> • <span class="new" data-uncrawlable-url="L3dpa2kvQ29tcHV0ZXI/YWN0aW9uPWVkaXQmcmVkbGluaz0x" title="Computer (page does not exist)">Computer</span> • <a href="gift-boxes.html">Gift Boxes</a> • <a href="honey-wreath.html">Honey Wreath</a> • <a href="stockings.html">Stockings</a> • <a href="gingerbread-house.html">Gingerbread House</a> • <a href="snowbear-summoner.html">Snowbear Summoner</a> • <a href="beesmas-lights.html">Beesmas Lights</a> • <a href="samovar.html">Samovar</a> • <a href="beesmas-feast.html">Beesmas Feast</a> • <a href="onett-s-lid-art.html">Onett's Lid Art</a> • <a href="wind-shrine.html#Galentine_Shrine">Galentine Shrine</a> • <a href="memory-match.html#Winter_Memory_Match">Winter Memory Match</a> • <a href="snow-machine.html">Snow Machine</a> • <a href="honeyday-candles.html">Honeyday Candles</a> • <strong class="mw-selflink selflink">Robo Party Cake</strong> • <a href="gummy-beacon.html">Gummy Beacon</a> • <a href="naughty-list.html">Naughty List</a></b>
+<td class="NavLinks NavLinksBasicEven"><b><a href="beesmas-tree.html">Beesmas Tree</a> • <a href="gift-boxes.html">Gift Boxes</a> • <a href="honey-wreath.html">Honey Wreath</a> • <a href="stockings.html">Stockings</a> • <a href="gingerbread-house.html">Gingerbread House</a> • <a href="snowbear-summoner.html">Snowbear Summoner</a> • <a href="beesmas-lights.html">Beesmas Lights</a> • <a href="samovar.html">Samovar</a> • <a href="beesmas-feast.html">Beesmas Feast</a> • <a href="onett-s-lid-art.html">Onett's Lid Art</a> • <a href="wind-shrine.html#Galentine_Shrine">Galentine Shrine</a> • <a href="memory-match.html#Winter_Memory_Match">Winter Memory Match</a> • <a href="snow-machine.html">Snow Machine</a> • <a href="honeyday-candles.html">Honeyday Candles</a> • <strong class="mw-selflink selflink">Robo Party Cake</strong> • <a href="gummy-beacon.html">Gummy Beacon</a> • <a href="naughty-list.html">Naughty List</a></b>
 </td></tr></tbody></table>

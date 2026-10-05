@@ -132,4 +132,3 @@ tags: ["Bees", "Legendary"]
 </tr>
 </tbody></table>
 
-The following audio plays when a legendary bee notification pops up:

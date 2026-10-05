@@ -6,9 +6,7 @@ tags: ["Shops", "Locations", "Machines"]
 # Boost Market
 
 
-This piece of content goes bye bye.
-
-The following content has been removed from the game. The contents below may be archival, but feel free to edit below.
+This was removed from the game.
 
 <aside class="portable-infobox pi-background pi-border-color pi-theme-wikia pi-layout-default" role="region">
 <h2 class="pi-item pi-item-spacing pi-title pi-secondary-background" data-source="title1">Boost Market</h2>
@@ -25,7 +23,6 @@ The **Boost Market** was a [shop](shops.md) that could have been found in the [3
 
 Every 30 minutes, the shop allowed the player to purchase a market boost at a certain price. The price depended on the number of people who have purchased that specific boost, much like in a real [stock market](https://en.wikipedia.org/wiki/Stock_Market). It cost both [Tickets](ticket.md) and [Honey](honey.md) to purchase a boost. These boosts lasted for 30 minutes. Market boosts could also have been obtained from certain [codes](codes.md), like RedMarket, or the ones used in the Ready Player Two event.
 
-When the player purchased a market boost, the following audio played:
 
 ## Boosts
 
@@ -276,5 +273,5 @@ x1.25 Convert Rate At Hive
 <tr>
 <th class="NavCategory">Event<br/>Locations
 </th>
-<td class="NavLinks NavLinksBasicEven"><b><a href="beesmas-tree.html">Beesmas Tree</a> • <span class="new" data-uncrawlable-url="L3dpa2kvQ29tcHV0ZXI/YWN0aW9uPWVkaXQmcmVkbGluaz0x" title="Computer (page does not exist)">Computer</span> • <a href="gift-boxes.html">Gift Boxes</a> • <a href="honey-wreath.html">Honey Wreath</a> • <a href="stockings.html">Stockings</a> • <a href="gingerbread-house.html">Gingerbread House</a> • <a href="snowbear-summoner.html">Snowbear Summoner</a> • <a href="beesmas-lights.html">Beesmas Lights</a> • <a href="samovar.html">Samovar</a> • <a href="beesmas-feast.html">Beesmas Feast</a> • <a href="onett-s-lid-art.html">Onett's Lid Art</a> • <a href="wind-shrine.html#Galentine_Shrine">Galentine Shrine</a> • <a href="memory-match.html#Winter_Memory_Match">Winter Memory Match</a> • <a href="snow-machine.html">Snow Machine</a> • <a href="honeyday-candles.html">Honeyday Candles</a> • <a href="robo-party-cake.html">Robo Party Cake</a> • <a href="gummy-beacon.html">Gummy Beacon</a> • <a href="naughty-list.html">Naughty List</a></b>
+<td class="NavLinks NavLinksBasicEven"><b><a href="beesmas-tree.html">Beesmas Tree</a> • <a href="gift-boxes.html">Gift Boxes</a> • <a href="honey-wreath.html">Honey Wreath</a> • <a href="stockings.html">Stockings</a> • <a href="gingerbread-house.html">Gingerbread House</a> • <a href="snowbear-summoner.html">Snowbear Summoner</a> • <a href="beesmas-lights.html">Beesmas Lights</a> • <a href="samovar.html">Samovar</a> • <a href="beesmas-feast.html">Beesmas Feast</a> • <a href="onett-s-lid-art.html">Onett's Lid Art</a> • <a href="wind-shrine.html#Galentine_Shrine">Galentine Shrine</a> • <a href="memory-match.html#Winter_Memory_Match">Winter Memory Match</a> • <a href="snow-machine.html">Snow Machine</a> • <a href="honeyday-candles.html">Honeyday Candles</a> • <a href="robo-party-cake.html">Robo Party Cake</a> • <a href="gummy-beacon.html">Gummy Beacon</a> • <a href="naughty-list.html">Naughty List</a></b>
 </td></tr></tbody></table>

@@ -7,13 +7,9 @@ tags: ["Beesmas"]
 
 ![Snow Storm](img/Snow_Storm.png){ align=right width=150 }
 
-This piece of content goes bye bye.
-
-The following content has been removed from the game. The contents below may be archival, but feel free to edit below.
-
 <figure class="mw-halign-right" typeof="mw:Error mw:File/Frameless"><figcaption>An active Snow Storm.</figcaption></figure>
 
-A **Snow Storm** is a server-wide event that can be summoned by using the [Snow Machine](snow-machine.md) or randomly in the game. It is similar to a [Honeystorm](honeystorm.md), but spawns [Snowflakes](snowflake.md) instead. A Snow Storm lasts for 20 seconds.
+A **Snow Storm** is a server-wide event that can be summoned by using the [Snow Machine](snow-machine.md) or randomly in the game. It is similar to a [Honeystorm](honeystorm.md), but spawns [Snowflakes](snowflake.md) instead. A Snow Storm lasts for 30 seconds.
 
 When a player uses the Snow Machine to summon a Snow Storm, a server-wide announcement states:
 ❄️ {Username} has activated the Snow Machine! ❄️

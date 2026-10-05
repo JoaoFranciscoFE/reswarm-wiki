@@ -17,28 +17,20 @@ The **Starter Zone** is the collection of places that do not need any [bee](bees
 <tbody><tr>
 <th><b>Title</b>
 </th>
-<th><b>Audio</b>
-</th>
 <th><b>Information</b>
 </th></tr>
 <tr>
 <td>Wax
-</td>
-<td><figure class="thumb mw-halign-center" style="width: 180px" typeof="mw:File/Thumb">  <figcaption class="thumbcaption"> </figcaption> </figure>
 </td>
 <td>Plays during Daytime
 </td></tr>
 <tr>
 <td>Drone
 </td>
-<td><figure class="thumb mw-halign-center" style="width: 180px" typeof="mw:File/Thumb">  <figcaption class="thumbcaption"> </figcaption> </figure>
-</td>
 <td>Plays during Daytime (Beesmas Only)
 </td></tr>
 <tr>
 <td>Mountaincall
-</td>
-<td><figure class="thumb mw-halign-center" style="width: 180px" typeof="mw:File/Thumb">  <figcaption class="thumbcaption"> </figcaption> </figure>
 </td>
 <td>Plays during Nighttime
 </td></tr></tbody></table>

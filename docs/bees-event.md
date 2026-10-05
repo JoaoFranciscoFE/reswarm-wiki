@@ -101,10 +101,6 @@ All Event Bees can become gifted, though none except [Digital Bee](digital-bee.m
 <td>An ethereal bee as powerful and unpredictable as the weather.
 </td></tr></tbody></table>
 
-## Audio
-
-The following audio plays when an Event Bee notification pops up:
-
 ## Trivia
 
 * This and the [Common](bees-common.md) rarity are the only bee rarities that cannot be obtained through normal [Royal Jellies](royal-jelly.md).

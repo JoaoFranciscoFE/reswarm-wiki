@@ -5,19 +5,11 @@ tags: ["Beesmas", "Beesmas Decorations", "Locations"]
 
 # Gift Boxes
 
-This piece of content goes bye bye.
-
-The following content has been removed from the game. The contents below may be archival, but feel free to edit below.
-
 *Not to be confused with [Presents](present.md) and Ornament Presents.*
 
 **Gift Boxes** are presents that appear during each Beesmas update, which are located around the map. To open them, the player needs to help a certain number of NPCs complete their Beesmas decorations by completing their [quests](quests.md). There are 13 gift boxes this year.
 
 ### 2025
-
-This piece of content goes bye bye.
-
-The following content has been removed from the game. The contents below may be archival, but feel free to edit below.
 
 <table class="article-table">
 <tbody><tr>
@@ -259,7 +251,7 @@ One from the following pool:
 * The Midnight Gift Box and the Chestnut Gift Box were the only gift boxes to be added in the middle of Beesmas.
   * The Midnight Gift Box was the first to accomplish this.
 * The Mondo Gift Box was the last gift box to get removed from the game in Beesmas 2020, because [B.B.M's](bubble-bee-man.md) quest was extended by 1 week.
-  * A similar situation happened in Beesmas 2025 where B.B.M's quest was never added but the Mondo Gift Box remains alongside the [Naughty List](naughty-list.md) after the event concluded, arguably to be added later on.
+  * In Re://:Swarm, B.B.M.'s 2025 Beesmas quest is in the game, and the 2025 Gift Boxes and the [Naughty List](naughty-list.md) stay active because the 2025 Beesmas deadline is set to the year 2057.
 * The Stellar Gift Box (Beesmas 2025, 6th present) is currently the only Gift Box to have a unique shape outside of stripes.
 * The Blinking Gift Box (Beesmas 2025, 8th present) is the only one to have an animation.
 * It was **not** necessary to have 35 bees to access the Pristine, Restful, and Glass Gift Boxes. Instead, the player could go to the roof of the [Red HQ](red-hq.md), where they could jump onto the ledge with the box. However, taking just a few steps beyond that would bring them back to the spawn point.

@@ -837,8 +837,6 @@ Additionally, each petal provides a temporary boost corresponding to its color, 
 </p>
 </td></tr></tbody></table>
 
-## Sounds
-
 ## Trivia
 
 * The Merigold Petal is misspelled throughout the game. The correct spelling should be 'Marigold'.

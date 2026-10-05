@@ -98,12 +98,12 @@ The formula for the chance of turning a bee gifted is as follows: \(([1 - 0.989^
 <tr>
 <th class="NavCategory">Removed
 </th>
-<td class="NavLinks NavLinksBasicEven"><b><img alt="Eviction" height="35" src="img/Eviction.png" width="35"/> <a href="eviction.html">Eviction</a> • <span typeof="mw:Error mw:File"></span> <span class="new" data-uncrawlable-url="L3dpa2kvUGxhc3RpY19FZ2c/YWN0aW9uPWVkaXQmcmVkbGluaz0x" title="Plastic Egg (page does not exist)">Plastic Egg</span></b>
+<td class="NavLinks NavLinksBasicEven"><b><img alt="Eviction" height="35" src="img/Eviction.png" width="35"/> <a href="eviction.html">Eviction</a> • <img alt="Plastic Egg" height="35" src="img/Plastic_Egg.png" width="35"/> <span class="new" data-uncrawlable-url="L3dpa2kvUGxhc3RpY19FZ2c/YWN0aW9uPWVkaXQmcmVkbGluaz0x" title="Plastic Egg (page does not exist)">Plastic Egg</span></b>
 </td></tr>
 <tr>
 <th class="NavCategory">Unobtainable
 </th>
-<td class="NavLinks NavLinksBasicOdd"><b><span typeof="mw:Error mw:File"></span> <span class="new" data-uncrawlable-url="L3dpa2kvNy1Qcm9uZ2VkX0NvZz9hY3Rpb249ZWRpdCZyZWRsaW5rPTE=" title="7-Pronged Cog (page does not exist)">7-Pronged Cog</span></b>
+<td class="NavLinks NavLinksBasicOdd"><b><img alt="7-Pronged Cog" height="35" src="img/7-Pronged_Cog.png" width="35"/> <span class="new" data-uncrawlable-url="L3dpa2kvNy1Qcm9uZ2VkX0NvZz9hY3Rpb249ZWRpdCZyZWRsaW5rPTE=" title="7-Pronged Cog (page does not exist)">7-Pronged Cog</span></b>
 </td></tr>
 <tr>
 <th class="NavCategory">Other

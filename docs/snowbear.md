@@ -6,9 +6,7 @@ tags: ["Mobs", "Mini Bosses", "Bears", "Beesmas", "Multiplayer Bosses"]
 # Snowbear
 
 
-This piece of content goes bye bye.
-
-The following content has been removed from the game. The contents below may be archival, but feel free to edit below.
+This was removed from the game.
 
 <aside class="portable-infobox pi-background pi-border-color pi-theme-wikia pi-layout-stacked" role="region">
 <h2 class="pi-item pi-item-spacing pi-title pi-secondary-background" data-source="title">Snowbear</h2>

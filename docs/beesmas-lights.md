@@ -7,10 +7,6 @@ tags: ["Beesmas", "Locations", "Beesmas Decorations"]
 
 ![Beesmas Lights](img/Beesmas_Lights.png){ align=right width=150 }
 
-This piece of content goes bye bye.
-
-The following content has been removed from the game. The contents below may be archival, but feel free to edit below.
-
 
 
 **Beesmas Lights** would appear in fields as the player collects pollen after completing [Science Bear's](science-bear.md) Beesmas Lights [quest](quests.md).

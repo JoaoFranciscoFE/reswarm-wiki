@@ -125,4 +125,3 @@ tags: ["Bees", "Mythic"]
 </tr>
 </tbody></table>
 
-The following audio plays when a mythic bee notification pops up:

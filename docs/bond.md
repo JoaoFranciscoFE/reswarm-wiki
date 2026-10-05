@@ -535,7 +535,6 @@ Alternatively, you can use this formula to determine the cost to level up your b
 
 You can also use this [calculator](https://www.desmos.com/calculator/k4utvtdloz).
 
-The following audio plays when a bee levels up:  
   
 Note that the sound is slightly faster in-game.
 

@@ -43,7 +43,6 @@ The [Commando Chick's Hideout](commando-chick-s-hideout.md) is located past this
 
 
 
-When the vines blocking the entrance are being cut down, the following audio plays:
 
 The Commando Chick's Hideout Obby is, in fact, a newer version of the Golden Present obby, which had made its debut in Beesmas 2019 in order to serve as a challenge for people trying to get to the Golden Present. After the end of Beesmas 2020, the Golden Present obby was removed, only to return in the Egg Hunt 2020 event as the Commando Chick's Hideout obby. The only difference between the former and the latter is that the latter has vines to cut through.
 
@@ -87,9 +86,7 @@ Added in the 2024-07-17 Beesmas update, this obstacle course is located at the e
 
 ## Mythic Present Obby
 
-This piece of content goes bye bye.
-
-The following content has been removed from the game. The contents below may be archival, but feel free to edit below.
+This was removed from the game.
 
 The Mythic Present obstacle course was located to the left of the [Stump Field](stump-field.md) and could only be accessible during Beesmas 2019 and 2020. To get to this obstacle course, the player had to go through the [Brave Bee Gate](brave-bee-gate.md) and head to the left of the Stump Field. There would have been a hole in the wall containing the obstacle course. This obstacle course consisted of many purple balls that the player had to jump across to reach the end. At the end of the obstacle course, the Mythic Present was found on a stair-like platform. To the left of the present was a royal jelly token that gave 1 royal jelly. To the right was a [micro-converter](micro-converter.md) token that gave 3 micro-converters. If a player were to go out of the map to the place where this obstacle course was during the Beesmas 2019 Event and slide against the wall, the player would die because the floor still kills players.
 

@@ -43,7 +43,7 @@ Missing content: "Bucko Bee's Snow Machine" quest dialogue for 2024 Winter is pa
 </table>
 </td></tr></tbody></table>
 
-**Gifted Bucko Bee** is a [quest giver](quest-givers.md) and one of three permanent Quest Bees, the others being **Lua error in Module:Item\_image at line 88: Template error! There's no such file named File:Gifted Riley Bee NPC.png for Template:I.** [Gifted Riley Bee](gifted-riley-bee.md) and **Lua error in Module:Item\_image at line 88: Template error! There's no such file named File:Honey Bee NPC.png for Template:I.** [Honey Bee](honey-bee-npc.md). Gifted Bucko Bee is located on the second floor of the [Blue HQ](blue-hq.md), in between the Top Bucko Bee Helpers and the Daily Top Blue Collectors [Leaderboards](leaderboards.md). The player cannot start receiving or completing its [quests](quests.md) without a [Translator](translator.md), which is given by [Science Bear](science-bear.md) three times. Completing 150 quests from Gifted Bucko Bee is required to craft the [Hydroponic Planter](hydroponic-planter.md) and completing 250 quests from Gifted Bucko Bee is required to craft the [Tide Popper](tide-popper.md).
+**Gifted Bucko Bee** is a [quest giver](quest-givers.md) and one of three permanent Quest Bees, the others being [Gifted Riley Bee](gifted-riley-bee.md) and [Honey Bee](honey-bee-npc.md). Gifted Bucko Bee is located on the second floor of the [Blue HQ](blue-hq.md), in between the Top Bucko Bee Helpers and the Daily Top Blue Collectors [Leaderboards](leaderboards.md). The player cannot start receiving or completing its [quests](quests.md) without a [Translator](translator.md), which is given by [Science Bear](science-bear.md) three times. Completing 150 quests from Gifted Bucko Bee is required to craft the [Hydroponic Planter](hydroponic-planter.md) and completing 250 quests from Gifted Bucko Bee is required to craft the [Tide Popper](tide-popper.md).
 
 ## Quests
 
@@ -470,10 +470,6 @@ In addition to [Blue Extract](blue-extract.md) and [Honey](honey.md) for complet
 
 ### 2025
 
-This piece of content goes bye bye.
-
-The following content has been removed from the game. The contents below may be archival, but feel free to edit below.
-
 <table class="article-table mw-collapsible mw-collapsed">
 <tbody><tr>
 <th>Quest
@@ -544,19 +540,19 @@ Access to the <a href="snow-machine.html">Snow Machine</a>
 <tr>
 <th class="NavCategory">Permanent Bears
 </th>
-<td class="NavLinks NavLinksBasicOdd"><span typeof="mw:Error mw:File"></span> <b><a href="black-bear.html">Black Bear</a></b> • <span typeof="mw:Error mw:File"></span> <b><a href="mother-bear.html">Mother Bear</a></b> • <span typeof="mw:Error mw:File"></span> <b><a href="brown-bear.html">Brown Bear</a></b> • <span typeof="mw:Error mw:File"></span> <b><a href="panda-bear.html">Panda Bear</a></b> • <span typeof="mw:Error mw:File"></span> <b><a href="science-bear.html">Science Bear</a></b>
-<p><span typeof="mw:Error mw:File"></span> <b><a href="dapper-bear.html">Dapper Bear</a></b> • <span typeof="mw:Error mw:File"></span> <b><a href="polar-bear.html">Polar Bear</a></b> • <span typeof="mw:Error mw:File"></span> <b><a href="robo-bear.html">Robo Bear</a></b> •<span typeof="mw:Error mw:File"></span> <b><a href="spirit-bear.html">Spirit Bear</a></b>
+<td class="NavLinks NavLinksBasicOdd"><img alt="Black Bear" height="35" src="img/Black_Bear.png" width="44"/> <b><a href="black-bear.html">Black Bear</a></b> • <img alt="Mother Bear" height="35" src="img/bears/Mother_Bear.png" width="44"/> <b><a href="mother-bear.html">Mother Bear</a></b> • <img alt="Brown Bear" height="35" src="img/bears/Brown_Bear.png" width="44"/> <b><a href="brown-bear.html">Brown Bear</a></b> • <img alt="Panda Bear" height="35" src="img/Panda_Bear.png" width="44"/> <b><a href="panda-bear.html">Panda Bear</a></b> • <img alt="Science Bear" height="35" src="img/bears/Science_Bear.png" width="44"/> <b><a href="science-bear.html">Science Bear</a></b>
+<p><img alt="Dapper Bear" height="35" src="img/Dapper_Bear.png" width="35"/> <b><a href="dapper-bear.html">Dapper Bear</a></b> • <img alt="Polar Bear" height="35" src="img/bears/Polar_Bear.png" width="44"/> <b><a href="polar-bear.html">Polar Bear</a></b> • <img alt="Robo Bear" height="35" src="img/bears/Robo_Bear.png" width="44"/> <b><a href="robo-bear.html">Robo Bear</a></b> •<img alt="Spirit Bear" height="35" src="img/bears/Spirit_Bear.png" width="44"/> <b><a href="spirit-bear.html">Spirit Bear</a></b>
 </p>
 </td></tr>
 <tr>
 <th class="NavCategory">Traveling Bears
 </th>
-<td class="NavLinks NavLinksBasicEven"><span typeof="mw:Error mw:File"></span> <b><a href="sun-bear.html">Sun Bear</a></b> • <span typeof="mw:Error mw:File"></span> <b><a href="gummy-bear.html">Gummy Bear</a></b> • <span typeof="mw:Error mw:File"></span> <b><a href="bee-bear.html">Bee Bear</a></b>
+<td class="NavLinks NavLinksBasicEven"><img alt="Sun Bear" height="35" src="img/bears/Sun_Bear.png" width="44"/> <b><a href="sun-bear.html">Sun Bear</a></b> • <img alt="Gummy Bear" height="35" src="img/bears/Gummy_Bear.png" width="44"/> <b><a href="gummy-bear.html">Gummy Bear</a></b> • <img alt="Bee Bear" height="35" src="img/bears/Bee_Bear.png" width="44"/> <b><a href="bee-bear.html">Bee Bear</a></b>
 </td></tr>
 <tr>
 <th class="NavCategory">Other
 </th>
-<td class="NavLinks NavLinksBasicOdd"><span typeof="mw:Error mw:File"></span> <b><strong class="mw-selflink selflink">Gifted Bucko Bee</strong></b> • <span typeof="mw:Error mw:File"></span> <b><a href="gifted-riley-bee.html">Gifted Riley Bee</a></b> • <span typeof="mw:Error mw:File"></span> <b><a href="honey-bee-npc.html">Honey Bee</a></b>
-<p><span typeof="mw:File"><a href="onett.html"><img alt="Beekeeper's Mask" data-image-key="Beekeeper%27s_Mask.png" data-image-name="Beekeeper's Mask.png" data-relevant="1" height="35" src="img/Beekeeper's_Mask.png" width="35"/></a></span> <b><a href="onett.html">Onett</a></b> • <span typeof="mw:Error mw:File"></span> <b><a href="bubble-bee-man.html">Bubble Bee Man</a></b>
+<td class="NavLinks NavLinksBasicOdd"><span typeof="mw:Error mw:File"></span> <b><strong class="mw-selflink selflink">Gifted Bucko Bee</strong></b> • <img alt="Gifted Riley Bee" height="35" src="img/Gifted_Riley_Bee.png" width="35"/> <b><a href="gifted-riley-bee.html">Gifted Riley Bee</a></b> • <img alt="Honey Bee" height="35" src="img/Honey_Bee_(NPC).png" width="35"/> <b><a href="honey-bee-npc.html">Honey Bee</a></b>
+<p><span typeof="mw:File"><a href="onett.html"><img alt="Beekeeper's Mask" data-image-key="Beekeeper%27s_Mask.png" data-image-name="Beekeeper's Mask.png" data-relevant="1" height="35" src="img/Beekeeper's_Mask.png" width="35"/></a></span> <b><a href="onett.html">Onett</a></b> • <img alt="Bubble Bee Man" height="35" src="img/Bubble_Bee_Man.png" width="35"/> <b><a href="bubble-bee-man.html">Bubble Bee Man</a></b>
 </p>
 </td></tr></tbody></table>

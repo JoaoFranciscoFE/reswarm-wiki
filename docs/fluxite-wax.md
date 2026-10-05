@@ -5,6 +5,8 @@ tags: ["Items", "Inventory", "Waxes", "Crafted", "Consumables", "Painter Bee Eve
 
 # Fluxite Wax
 
+![Fluxite Wax](img/Fluxite_Wax.png){ align=right width=150 }
+
 *"Rerolls a Beequip's potential: 1 pot (38%), 2 pot (30%), 3 pot (20%), 4 pot (9%), or 5 pot (3%). Doesn't use a Wax slot."*
 
 **Fluxite Wax** is a [wax](waxes.md) added in the [Painter Bee event](painter-bee-event.md). Using it on a [Beequip](beequip.md) rerolls that Beequip's potential. Unlike other waxes, it does **not** use up a wax slot.

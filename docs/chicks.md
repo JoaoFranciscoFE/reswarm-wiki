@@ -15,9 +15,7 @@ There are five different types of chicks: Chicks, Hostage Chicks, Spotted Chicks
 
 ## Chick
 
-This piece of content goes bye bye.
-
-The following content has been removed from the game. The contents below may be archival, but feel free to edit below.
+This was removed from the game.
 
 <aside class="portable-infobox pi-background pi-border-color pi-theme-wikia pi-layout-stacked" role="region">
 <h2 class="pi-item pi-item-spacing pi-title pi-secondary-background" data-source="title">Chick</h2>
@@ -41,9 +39,7 @@ Normal **Chicks** were passive mobs that could have appeared in the [Sunflower F
 
 ## Hostage Chick
 
-This piece of content goes bye bye.
-
-The following content has been removed from the game. The contents below may be archival, but feel free to edit below.
+This was removed from the game.
 
 <aside class="portable-infobox pi-background pi-border-color pi-theme-wikia pi-layout-stacked" role="region">
 <h2 class="pi-item pi-item-spacing pi-title pi-secondary-background" data-source="title">Hostage Chick</h2>
@@ -120,9 +116,7 @@ The **Hostage Chicks** were passive mobs that had a chance of spawning after def
 
 ## Spotted Chick
 
-This piece of content goes bye bye.
-
-The following content has been removed from the game. The contents below may be archival, but feel free to edit below.
+This was removed from the game.
 
 <aside class="portable-infobox pi-background pi-border-color pi-theme-wikia pi-layout-stacked" role="region">
 <h2 class="pi-item pi-item-spacing pi-title pi-secondary-background" data-source="title">Spotted Chick</h2>
@@ -278,41 +272,6 @@ When it runs out of time, it will jump out of the field towards the [Lion Bee Ga
 * [Small Blue Chick Sticker](sticker.md#Sticker_Index) (Very Rare)
 * [Basic Pink Hive Skin](sticker.md#Sticker_Index) (Extremely rare)
 
-## Audio
-
-<table class="fandom-table">
-<caption>
-</caption>
-<tbody><tr>
-<th><b>Information</b>
-</th>
-<th><b>Audio</b>
-</th></tr>
-<tr>
-<td>The chirping noise made from a Chick, Spotted, Hostage, or Commando Chick
-</td>
-<td><figure class="thumb mw-halign-center" style="width: 180px" typeof="mw:File/Thumb">  <figcaption class="thumbcaption"> </figcaption> </figure>
-</td></tr>
-<tr>
-<td>When a Chick, Spotted, Hostage or Commando Chick breaks out of its egg
-</td>
-<td><figure class="thumb mw-halign-center" style="width: 180px" typeof="mw:File/Thumb">  <figcaption class="thumbcaption"> </figcaption> </figure>
-</td></tr>
-<tr>
-<td>The chirping noise made from Mondo Chick
-</td>
-<td><figure class="thumb mw-halign-center" style="width: 180px" typeof="mw:File/Thumb">  <figcaption class="thumbcaption"> </figcaption> </figure>
-</td></tr>
-<tr>
-<td>When a Mondo Chick breaks out of its egg
-</td>
-<td><figure class="thumb mw-halign-center" style="width: 180px" typeof="mw:File/Thumb">  <figcaption class="thumbcaption"> </figcaption> </figure>
-</td></tr>
-<tr>
-<td>The chirping noise when Mondo Chick is captured
-</td>
-<td><figure class="thumb mw-halign-center" style="width: 180px" typeof="mw:File/Thumb">  <figcaption class="thumbcaption"> </figcaption> </figure>
-</td></tr></tbody></table>
 
 ## Trivia
 

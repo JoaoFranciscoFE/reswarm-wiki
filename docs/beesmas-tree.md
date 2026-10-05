@@ -7,23 +7,15 @@ tags: ["Locations", "Beesmas"]
 
 ![Beesmas Tree](img/Beesmas_Tree.png){ align=right width=150 }
 
-This piece of content goes bye bye.
-
-The following content has been removed from the game. The contents below may be archival, but feel free to edit below.
-
 *Not to be confused with [Beesmas Tree Hat](beesmas-tree-hat.md), a [Beequip](beequip.md) with a similar name.*
 
 
 
-The **Beesmas Tree** is a feature that appeared in every Beesmas between 2019 and 2025. The Beesmas Tree allows the player to view their collected [ornaments](ornaments.md), who they are from, and what boosts they give. The tree is located in front of the [Ant Gate](ant-gate.md), near the [Noob Shop](noob-shop.md), and next to the hives.
+The **Beesmas Tree** is a feature that appeared in every Beesmas between 2019 and 2025. The Beesmas Tree allows the player to view their collected [ornaments](ornaments.md), who they are from, and what boosts they give. In Re://:Swarm, viewing the tree also gives the Snowman, Honey Jar and Boxing Glove ornaments. The tree is located in front of the [Ant Gate](ant-gate.md), near the [Noob Shop](noob-shop.md), and next to the hives.
 
 <figure class="mw-halign-center" style="text-align:center"><img alt="" src="img/places/Beesmas_Tree.png" width="480"/><figcaption>The Beesmas Tree.</figcaption></figure>
 
 ## Beesmas 2025
-
-This piece of content goes bye bye.
-
-The following content has been removed from the game. The contents below may be archival, but feel free to edit below.
 
 The Beesmas Tree made another return in Beesmas 2025, functioning the exact same way as during Winter Beesmas 2024. Conducting a gift exchange with an NPC would grant players an ornament that would grant special boosts on the Beesmas Tree.
 
@@ -77,5 +69,5 @@ Hidden at the bottom of the tree, there is 1 [Whirligig](whirligig.md) along wit
 <tr>
 <th class="NavCategory">Event<br/>Locations
 </th>
-<td class="NavLinks NavLinksBasicEven"><b><strong class="mw-selflink selflink">Beesmas Tree</strong> • <span class="new" data-uncrawlable-url="L3dpa2kvQ29tcHV0ZXI/YWN0aW9uPWVkaXQmcmVkbGluaz0x" title="Computer (page does not exist)">Computer</span> • <a href="gift-boxes.html">Gift Boxes</a> • <a href="honey-wreath.html">Honey Wreath</a> • <a href="stockings.html">Stockings</a> • <a href="gingerbread-house.html">Gingerbread House</a> • <a href="snowbear-summoner.html">Snowbear Summoner</a> • <a href="beesmas-lights.html">Beesmas Lights</a> • <a href="samovar.html">Samovar</a> • <a href="beesmas-feast.html">Beesmas Feast</a> • <a href="onett-s-lid-art.html">Onett's Lid Art</a> • <a href="wind-shrine.html#Galentine_Shrine">Galentine Shrine</a> • <a href="memory-match.html#Winter_Memory_Match">Winter Memory Match</a> • <a href="snow-machine.html">Snow Machine</a> • <a href="honeyday-candles.html">Honeyday Candles</a> • <a href="robo-party-cake.html">Robo Party Cake</a> • <a href="gummy-beacon.html">Gummy Beacon</a> • <a href="naughty-list.html">Naughty List</a></b>
+<td class="NavLinks NavLinksBasicEven"><b><strong class="mw-selflink selflink">Beesmas Tree</strong> • <a href="gift-boxes.html">Gift Boxes</a> • <a href="honey-wreath.html">Honey Wreath</a> • <a href="stockings.html">Stockings</a> • <a href="gingerbread-house.html">Gingerbread House</a> • <a href="snowbear-summoner.html">Snowbear Summoner</a> • <a href="beesmas-lights.html">Beesmas Lights</a> • <a href="samovar.html">Samovar</a> • <a href="beesmas-feast.html">Beesmas Feast</a> • <a href="onett-s-lid-art.html">Onett's Lid Art</a> • <a href="wind-shrine.html#Galentine_Shrine">Galentine Shrine</a> • <a href="memory-match.html#Winter_Memory_Match">Winter Memory Match</a> • <a href="snow-machine.html">Snow Machine</a> • <a href="honeyday-candles.html">Honeyday Candles</a> • <a href="robo-party-cake.html">Robo Party Cake</a> • <a href="gummy-beacon.html">Gummy Beacon</a> • <a href="naughty-list.html">Naughty List</a></b>
 </td></tr></tbody></table>

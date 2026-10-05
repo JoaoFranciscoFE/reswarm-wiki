@@ -97,13 +97,13 @@ When Stick Bug reaches level 6 and above, Stick Bug will build a defense totem b
 
 Stick Bug builds a totem in the following fields. Note that the fields he summons the totems are based on the field he is currently standing in:
 
-* **Lua error in Module:Item\_image at line 88: Template error! There's no such file named File:Mushroom Field Icon.png for Template:I.**[Mushroom Field](mushroom-field.md)
-* **Lua error in Module:Item\_image at line 88: Template error! There's no such file named File:Dandelion Field Icon.png for Template:I.**[Dandelion Field](dandelion-field.md)
-* **Lua error in Module:Item\_image at line 88: Template error! There's no such file named File:Blue Flower Field Icon.png for Template:I.**[Blue Flower Field](blue-flower-field.md)
-* **Lua error in Module:Item\_image at line 88: Template error! There's no such file named File:Spider Field Icon.png for Template:I.**[Spider Field](spider-field.md)
-* **Lua error in Module:Item\_image at line 88: Template error! There's no such file named File:Stump Field Icon.png for Template:I.**[Stump Field](stump-field.md)
-* **Lua error in Module:Item\_image at line 88: Template error! There's no such file named File:Pine Tree Forest Icon.png for Template:I.**[Pine Tree Forest](pine-tree-forest.md)
-* **Lua error in Module:Item\_image at line 88: Template error! There's no such file named File:Rose Field Icon.png for Template:I.**[Rose Field](rose-field.md)
+* <img alt="Mushroom Field" height="25" src="img/Mushroom_Field.png" width="25"/> [Mushroom Field](mushroom-field.md)
+* <img alt="Dandelion Field" height="25" src="img/Dandelion_Field.png" width="25"/> [Dandelion Field](dandelion-field.md)
+* <img alt="Blue Flower Field" height="25" src="img/Blue_Flower_Field.png" width="25"/> [Blue Flower Field](blue-flower-field.md)
+* <img alt="Spider Field" height="25" src="img/Spider_Field.png" width="25"/> [Spider Field](spider-field.md)
+* <img alt="Stump Field" height="25" src="img/Stump_Field.png" width="25"/> [Stump Field](stump-field.md)
+* <img alt="Pine Tree Forest" height="25" src="img/Pine_Tree_Forest.png" width="25"/> [Pine Tree Forest](pine-tree-forest.md)
+* <img alt="Rose Field" height="25" src="img/Rose_Field.png" width="25"/> [Rose Field](rose-field.md)
 
 A server-wide message is sent when he uses this attack, saying:
 ⚠️ Stick Bug has built a Defense Totem in the {Field Name}! ⚠️
@@ -231,7 +231,7 @@ In this section, there will be some tips to progress further in the Stick Bug Ch
     * [Super Smoothies](super-smoothie.md) can also be used for both improved buffs and an additional +1% Super-Crit Chance.
   * [Coconuts](coconut.md) will deal lots of damage when landing on Stick Bug or any Stick Nymphs.
     * Besides using the coconut item, the two Coconut Canister passives can also summon coconuts.
-* Try to save **Lua error in Module:Item\_image at line 88: Template error! There's no such file named File:Invigorating Nectar.png for Template:I.**[Invigorating Nectar](nectar.md) for an additional x1.01 to x1.10 bee attack. The bee attack depends on how much time the nectar has left.
+* Try to save <img alt="Invigorating Nectar" height="25" src="img/Invigorating_Nectar_Icon.png" width="25"/> [Invigorating Nectar](nectar.md) for an additional x1.01 to x1.10 bee attack. The bee attack depends on how much time the nectar has left.
 * When Stick Bug builds a defense totem on a nearby field, send the teammate(s) who can deal with it the fastest. For example, if a totem is built in the Blue Flower Field, the player with the best blue pollen collection should be sent to take the totem down.
   * If the defense totem is in the [Stump Field](stump-field.md), send somebody who has taken down the [Stump Snail](stump-snail.md) recently instead of somebody with a Stump Snail still in the field.
   * Stick bug totems can be safely dealt with when Stick Bug hides into flowers, as in this state it's not able to build more and Stick Nymphs are very likely to despawn by player's return to field.
@@ -493,7 +493,6 @@ All regular rewards are also available in token form.
 
 The following music "Stickbug" plays during the challenge.
 
-Upon depleting Stick Bug's health, it will play one of the following audios at random:
 
 ## Trivia
 

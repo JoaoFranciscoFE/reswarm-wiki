@@ -7,10 +7,6 @@ tags: ["Beesmas", "Locations", "Machines", "Summoner", "Beesmas Decorations"]
 
 ![The Honeyday Candles.](img/places/Honeyday_Candles.png){ .wiki-photo }
 
-This piece of content goes bye bye.
-
-The following content has been removed from the game. The contents below may be archival, but feel free to edit below.
-
 This piece of content contains information obtained through datamining.
 
 Due to the nature of the information, details may be inaccurate or outdated.
@@ -19,7 +15,7 @@ Datamined information: The probability of getting every item and bee. — Decemb
 
 
 
-The **Honeyday Candles** are a Beesmas-exclusive machine which is unlocked after completing [Gifted Riley Bee](gifted-riley-bee.md)'s Honeyday Candles [quest](quests.md). They have a cooldown of 4 hours, and are located next to the [Red HQ](red-hq.md)'s interior ladder.
+The **Honeyday Candles** are a Beesmas-exclusive machine which is unlocked after completing [Gifted Riley Bee](gifted-riley-bee.md)'s Honeyday Candles [quest](quests.md). They have a cooldown of 10 minutes, and are located next to the [Red HQ](red-hq.md)'s interior ladder.
 
 When activated, 3 random level 10 red [bees](bees.md) are [summoned](bees.md#Summoned_Bees) for 30 minutes, and 3 [waxes](waxes.md) of a random type are spawned.
 
@@ -133,5 +129,5 @@ When a player stands on top of the pad before completing the quest, a red text b
 <tr>
 <th class="NavCategory">Event<br/>Locations
 </th>
-<td class="NavLinks NavLinksBasicEven"><b><a href="beesmas-tree.html">Beesmas Tree</a> • <span class="new" data-uncrawlable-url="L3dpa2kvQ29tcHV0ZXI/YWN0aW9uPWVkaXQmcmVkbGluaz0x" title="Computer (page does not exist)">Computer</span> • <a href="gift-boxes.html">Gift Boxes</a> • <a href="honey-wreath.html">Honey Wreath</a> • <a href="stockings.html">Stockings</a> • <a href="gingerbread-house.html">Gingerbread House</a> • <a href="snowbear-summoner.html">Snowbear Summoner</a> • <a href="beesmas-lights.html">Beesmas Lights</a> • <a href="samovar.html">Samovar</a> • <a href="beesmas-feast.html">Beesmas Feast</a> • <a href="onett-s-lid-art.html">Onett's Lid Art</a> • <a href="wind-shrine.html#Galentine_Shrine">Galentine Shrine</a> • <a href="memory-match.html#Winter_Memory_Match">Winter Memory Match</a> • <a href="snow-machine.html">Snow Machine</a> • <strong class="mw-selflink selflink">Honeyday Candles</strong> • <a href="robo-party-cake.html">Robo Party Cake</a> • <a href="gummy-beacon.html">Gummy Beacon</a> • <a href="naughty-list.html">Naughty List</a></b>
+<td class="NavLinks NavLinksBasicEven"><b><a href="beesmas-tree.html">Beesmas Tree</a> • <a href="gift-boxes.html">Gift Boxes</a> • <a href="honey-wreath.html">Honey Wreath</a> • <a href="stockings.html">Stockings</a> • <a href="gingerbread-house.html">Gingerbread House</a> • <a href="snowbear-summoner.html">Snowbear Summoner</a> • <a href="beesmas-lights.html">Beesmas Lights</a> • <a href="samovar.html">Samovar</a> • <a href="beesmas-feast.html">Beesmas Feast</a> • <a href="onett-s-lid-art.html">Onett's Lid Art</a> • <a href="wind-shrine.html#Galentine_Shrine">Galentine Shrine</a> • <a href="memory-match.html#Winter_Memory_Match">Winter Memory Match</a> • <a href="snow-machine.html">Snow Machine</a> • <strong class="mw-selflink selflink">Honeyday Candles</strong> • <a href="robo-party-cake.html">Robo Party Cake</a> • <a href="gummy-beacon.html">Gummy Beacon</a> • <a href="naughty-list.html">Naughty List</a></b>
 </td></tr></tbody></table>

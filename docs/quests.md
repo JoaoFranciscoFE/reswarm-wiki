@@ -7,14 +7,6 @@ tags: ["Mechanics"]
 
 ![Quests](img/Quests.png){ align=right width=150 }
 
-Stub
-
-*This article is a stub. You can help Re://:Swarm Wiki by [expanding it](quests.md).*
-
-This piece of content recently got an update.
-
-We are in the process of catching up to the game. Please feel free to help us by **[updating this information](quests.md)**.
-
 
 
 **Quests** are a major [mechanic](mechanics.md) in Re://:Swarm. It allows the player to do tasks in order to receive various rewards that allow them to progress further into the game. Quests are not necessary for progression, but are highly recommended. There are a few exceptions, such as [Science Bear](science-bear.md)'s [Translator](science-bear.md#Translator_Quest_List_(15)) questline, and [Spirit Bear](spirit-bear.md)'s questline, which are required to complete to progress.
@@ -23,29 +15,6 @@ Quests can be obtained and turned in through conversing with various [quest give
 
 Quests have many different types of requirements, such as collecting various amounts of [pollen](pollen.md) from [fields](fields.md), [ability tokens](ability-tokens.md), [goo](goo.md), [treat](treats.md) tokens, defeating [mobs](mobs.md), crafting [items](items.md), obtaining [badges](badges.md), finding [Stickers](sticker.md), and discovering [bee](bees.md) types.
 
-## Audio
-
-<table class="fandom-table">
-<tbody><tr>
-<th><b>Information</b>
-</th>
-<th><b>Audio</b>
-</th></tr>
-<tr>
-<td>The following audio plays when the player has received a quest
-</td>
-<td><figure class="thumb mw-halign-center" style="width: 180px" typeof="mw:File/Thumb">  <figcaption class="thumbcaption"> </figcaption> </figure>
-</td></tr>
-<tr>
-<td>The following audio plays when the player has completed and handed in a quest
-</td>
-<td><figure class="thumb mw-halign-center" style="width: 180px" typeof="mw:File/Thumb">  <figcaption class="thumbcaption"> </figcaption> </figure>
-</td></tr>
-<tr>
-<td>The following audio plays when the player has just completed a quest or when the player joins a game with a completed quest not handed in
-</td>
-<td><figure class="thumb mw-halign-center" style="width: 180px" typeof="mw:File/Thumb">  <figcaption class="thumbcaption"> </figcaption> </figure>
-</td></tr></tbody></table>
 
 ## Quest Bears
 
@@ -53,7 +22,7 @@ Quest Bears are quest givers that have an appearance of a bear. They are the mos
 
 ### Black Bear
 
-<figure class="thumb mw-halign-right" style="width: 180px" typeof="mw:File/Thumb">  <figcaption class="thumbcaption"> </figcaption> </figure>
+<img align="right" alt="Black Bear" src="img/Black_Bear.png" width="150"/>
 
 [Black Bear](black-bear.md) is likely the first quest-giver the player will encounter when they start the game. His quests completely consist of collecting pollen. He is located to the right of the hives and in front of the [Red Cannon](red-cannon.md).
 
@@ -1305,9 +1274,7 @@ x1 Neonberry
 </p>
 </td></tr></tbody></table>
 
-This piece of content goes bye bye.
-
-The following content has been removed from the game. The contents below may be archival, but feel free to edit below.
+This was removed from the game.
 
 ### Repeatable Quests (Old)
 
@@ -1511,7 +1478,7 @@ After completing his 20 star jelly quests, Black Bear would randomly assign ques
 
 ### Mother Bear
 
-<figure class="thumb mw-halign-right" style="width: 180px" typeof="mw:File/Thumb">  <figcaption class="thumbcaption"> </figcaption> </figure>
+<img align="right" alt="Mother Bear" src="img/bears/Mother_Bear.png" width="150"/>
 
 [Mother Bear](mother-bear.md) is the second quest-giver available in the game. Her quests consist of raising bees to levels and feeding [treats](treats.md) to bees. She is located to the right of the [Treat Shop](treat-shop.md).
 
@@ -1736,7 +1703,7 @@ After completing his 20 star jelly quests, Black Bear would randomly assign ques
 
 ### Brown Bear
 
-<figure class="thumb mw-halign-right" style="width: 180px" typeof="mw:File/Thumb">  <figcaption class="thumbcaption"> </figcaption> </figure>
+<img align="right" alt="Brown Bear" src="img/bears/Brown_Bear.png" width="150"/>
 
 ## Quests
 
@@ -2059,7 +2026,7 @@ Amount of pollen required for a quest = \(x+(y-x)\times \left(\frac{numberofques
 
 ### Panda Bear
 
-<figure class="thumb mw-halign-right" style="width: 180px" typeof="mw:File/Thumb">  <figcaption class="thumbcaption"> </figcaption> </figure>
+<img align="right" alt="Panda Bear" src="img/Panda_Bear.png" width="150"/>
 
 [Panda Bear](panda-bear.md) is the third quest-giver available in the game. His quests consist largely of defeating mobs and obtaining scores in the Ant Challenge. He is located behind the [Bamboo Field](bamboo-field.md) and to the left of the Global Top Battlers Leaderboard.
 
@@ -2427,7 +2394,7 @@ Amount of pollen required for a quest = \(x+(y-x)\times \left(\frac{numberofques
 
 ### Science Bear
 
-<figure class="thumb mw-halign-right" style="width: 180px" typeof="mw:File/Thumb">  <figcaption class="thumbcaption"> </figcaption> </figure>
+<img align="right" alt="Science Bear" src="img/bears/Science_Bear.png" width="150"/>
 
 [Science Bear](science-bear.md) is the fourth quest-giver in the game. His quests largely consist of pollen collection, defeating mobs, crafting materials, and collecting ability tokens. He is located behind the [Yellow Cannon](yellow-cannon.md).
 
@@ -3039,7 +3006,7 @@ x5 Glue
 
 ### Polar Bear
 
-<figure class="thumb mw-halign-right" style="width: 180px" typeof="mw:File/Thumb">  <figcaption class="thumbcaption"> </figcaption> </figure>
+<img align="right" alt="Polar Bear" src="img/bears/Polar_Bear.png" width="150"/>
 
 Polar Bear is the sixth quest-giver in the game. His quests consist of pollen collection and defeating mobs and are randomly assigned. He is located on the path to the [Mountain Top Field](mountain-top-field.md).
 
@@ -3295,7 +3262,7 @@ Polar Bear is the sixth quest-giver in the game. His quests consist of pollen co
 
 ### Spirit Bear
 
-<figure class="thumb mw-halign-right" style="width: 180px" typeof="mw:File/Thumb">  <figcaption class="thumbcaption"> </figcaption> </figure>
+<img align="right" alt="Spirit Bear" src="img/bears/Spirit_Bear.png" width="150"/>
 
 Spirit Bear is the seventh quest bear in the game. Her quests consist of pollen collection, tokens from leaves collection, donating various items to the [Wind Shrine](wind-shrine.md), and goo collection. She is located to the right of the [Coconut Field](coconut-field.md).
 
@@ -4105,7 +4072,7 @@ Play Memory Match (Upon receiving quest)
 
 ### Dapper Bear
 
-<figure class="thumb mw-halign-right" style="width: 180px" typeof="mw:File/Thumb">  <figcaption class="thumbcaption"> </figcaption> </figure>
+<img align="right" alt="Dapper Bear" src="img/Dapper_Bear.png" width="150"/>
 
 [Dapper Bear](dapper-bear.md) is the eighth quest-giver available in the game. His quests mainly focus on collecting nectar, collecting tokens from planters, and popping Puffshrooms.
 
@@ -4429,7 +4396,7 @@ Below is a list of all possible requirements:
 
 ### Gifted Bucko Bee
 
-<figure class="thumb mw-halign-right" style="width: 180px" typeof="mw:File/Thumb">  <figcaption class="thumbcaption"> </figcaption> </figure>
+<img align="right" alt="Gifted Bucko Bee" src="img/Gifted_Bucko_Bee.png" width="150"/>
 
 [Gifted Bucko Bee](gifted-bucko-bee.md) is one of the three permanent quest bees. Its quests consist largely of pollen collection from blue fields, defeating blue themed mobs, and collecting/feeding blueberries. Like the other quest bees, it only gives repeatable quests that scale in difficulty. It is located in the [Blue HQ](blue-hq.md).
 
@@ -4563,7 +4530,7 @@ Below is a list of all possible requirements:
 
 ### Gifted Riley Bee
 
-<figure class="thumb mw-halign-right" style="width: 180px" typeof="mw:File/Thumb">  <figcaption class="thumbcaption"> </figcaption> </figure>
+<img align="right" alt="Gifted Riley Bee" src="img/Gifted_Riley_Bee.png" width="150"/>
 
 [Gifted Riley Bee](gifted-riley-bee.md) is one of the three permanent quest bees. Its quests consist largely of pollen collection from red fields, defeating red themed mobs, and collecting/feeding strawberries. Like the other quest bees, it only gives repeatable quests that scale in difficulty. It is located in the [Red HQ](red-hq.md).
 
@@ -4695,7 +4662,7 @@ Below is a list of all possible requirements:
 
 ### Honey Bee
 
-<figure class="thumb mw-halign-right" style="width: 180px" typeof="mw:File/Thumb">  <figcaption class="thumbcaption"> </figcaption> </figure>
+<img align="right" alt="Honey Bee" src="img/Honey_Bee_(NPC).png" width="150"/>
 
 [Honey Bee](honey-bee-npc.md) is one of the three permanent quest bees. It has repeatable quests which consist of collecting honey tokens, with the difficulty increasing by 500 tokens every quest. It is located on the rock near the [Pine Tree Forest](pine-tree-forest.md).
 
@@ -4859,7 +4826,7 @@ Temporary Quest Givers are quest givers that appear exclusively during an event.
 
 ### Sun Bear
 
-<figure class="thumb mw-halign-right" style="width: 180px" typeof="mw:File/Thumb">  <figcaption class="thumbcaption"> </figcaption> </figure>
+<img align="right" alt="Sun Bear" src="img/bears/Sun_Bear.png" width="150"/>
 
 [Sun Bear](sun-bear.md) is one of the three traveling bears to appear in the game. He has appeared four times, with his first visit starting on April 27, 2018, to May 13, 2018, where he gave 12 quests and 2 belt bags. His second visit started on September 10, 2018, to October 8, 2018, where he gave 14 quests and 3 boots. His third visit was from September 28, 2019, to October 28, 2019. During that period, he handed out quests that were mainly themed around [bean bugs](bean-bug.md) with a final reward of 250 tickets. His fourth and last visit started on April 6, 2020, where he participated in the Egg Hunt 2020 event and required the player to help three bears with their Egg Hunt quests. Once finished, he would hand out a small variety of rewards and the Swarming Egg of the Hive.
 
@@ -5355,11 +5322,7 @@ Temporary Quest Givers are quest givers that appear exclusively during an event.
 
 ### Bee Bear
 
-This piece of content recently got an update.
-
-We are in the process of catching up to the game. Please feel free to help us by **[updating this information](quests.md)**.
-
-<figure class="thumb mw-halign-right" style="width: 180px" typeof="mw:File/Thumb">  <figcaption class="thumbcaption"> </figcaption> </figure>
+<img align="right" alt="Bee Bear" src="img/bears/Bee_Bear.png" width="150"/>
 
 [Bee Bear](bee-bear.md) is one of the three traveling bears who appears every Beesmas. During his 2018 visit, which started from December 19, 2018, and ended on January 31, 2019, his quests focused on creating presents and, at the very end, a [Festive Bee](festive-bee.md) (or 500 tickets if the player has purchased the [Festive Bee Pack](robux-shop.md)). During his 2019 visit from December 22, 2019, to February 10, 2020, he gave a [Cub Buddy](cub-buddy.md) after 10 quests and the Bee Cub skin after another 5 quests. During his 2020 visit from December 25, 2020 to March 1, 2021, He rewarded players with a Festive Bee (500 tickets if Festive Bee was already owned by the player) when his first 15 quests were completed, and rewarded a [Festive Wreath](festive-wreath.md) beequip for the Festive Bee when all his quests were completed. During his 2021 visit on December 26, 2021, He rewarded players with a special type of his own (Festive Planters), and a [Cub Buddy](cub-buddy.md) (Tickets if Cub Buddy was already owned by the player) when his first 15 quests were completed.
 
@@ -5994,9 +5957,7 @@ Beesmas Beeliever Badge
 
 ### Gummy Bear
 
-This piece of content goes bye bye.
-
-The following content has been removed from the game. The contents below may be archival, but feel free to edit below.
+This was removed from the game.
 
 <figure class="thumb mw-halign-right" style="width: 180px" typeof="mw:File/Thumb">  <figcaption class="thumbcaption"> </figcaption> </figure>
 
@@ -6221,9 +6182,7 @@ The following content has been removed from the game. The contents below may be 
 
 ### Bubble Bee Man
 
-This piece of content goes bye bye.
-
-The following content has been removed from the game. The contents below may be archival, but feel free to edit below.
+This was removed from the game.
 
 <figure class="thumb mw-halign-right" style="width: 180px" typeof="mw:File/Thumb">  <figcaption class="thumbcaption"> </figcaption> </figure>
 

@@ -17,7 +17,6 @@ Popping bubbles helps to grow Pop Stars and will increase [Bubble Bloat](buffs-d
 
 If a player pops a bubble belonging to another player, the pollen collected by the bubble will be granted to the owner of the bubble. This also applies to Pop Star growth.
 
-When a bubble is popped, the following audio plays, with an increased pitch the more bubbles are popped in quick succession:
 
 ## Gathering Bubbles
 

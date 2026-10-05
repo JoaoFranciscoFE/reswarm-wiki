@@ -28,14 +28,6 @@ Neither players nor frogs can inflict harm on one another, nor can they be harme
 * Frogs can collect [Ability Tokens](ability-tokens.md), [Honey](honey.md) Tokens and other Tokens (such as rewards from Mobs) for the Player by using their Tongues, which can also create Bubbles.
 * Frogs can attack Hostile Mobs (dealing x5 the damage of the attack power of the Tadpole Bee that summoned them or dealing 7 damage) when summoned from a [Box-O-Frogs](box-o-frogs.md). This attack ignores accuracy checks.[1]
 
-## Audio
-
-The following audio plays when a frog has been summoned by the summon frog ability:
-
-The following audio plays when a frog collects a token:
-
-The following audio plays when a frog is active, making frog ribbit sounds:
-
 ## Trivia
 
 * Frogs are the only mob in the game that can be summoned by an ability token. It is also the only passive mob that is passive to players, but hostile to harmful mobs.
@@ -54,7 +46,7 @@ The following audio plays when a frog is active, making frog ribbit sounds:
 
 ## References
 
-Template:Reflist
+1. ↑ [[1]](https://discord.com/channels/427553293862961153/427573109600550919/793608414894227496) Discord message from Onett. Note that this message is old, but the fact is still true in-game.
 
 <table class="mw-collapsible NavTable">
 <tbody><tr>
@@ -113,4 +105,3 @@ Template:Reflist
 <td class="NavLinks NavLinksBasicOdd" colspan="2"><b><a href="chicks.html#Chick">Chick</a> • <a href="chicks.html#Hostage_Chick">Hostage Chick</a> • <a href="chicks.html#Spotted_Chick">Spotted Chick</a></b>
 </td></tr></tbody></table>
 
-1. ↑ [[1]](https://discord.com/channels/427553293862961153/427573109600550919/793608414894227496) Discord message from Onett. Note that this message is old, but the fact is still true in-game.

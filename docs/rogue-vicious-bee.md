@@ -191,12 +191,6 @@ If Rogue Vicious Bee is in attack mode but there is nobody in its range, it will
 <td>9-12
 </td></tr></tbody></table>
 
-## Audio
-
-The following audio plays when Rogue Vicious Bee has been summoned:
-
-The following audio plays when Rogue Vicious Bee has been defeated:
-
 ## Tips
 
 * When hunting for hidden Rogue Vicious Bees, angle the camera so that it is aligned with the side of the field to make it easier to see spikes sticking out.

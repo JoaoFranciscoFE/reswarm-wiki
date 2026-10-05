@@ -7,10 +7,6 @@ tags: ["Machines", "Beesmas", "Locations", "Beesmas Decorations", "Summoner", "S
 
 ![Honey Wreath](img/Honey_Wreath.png){ align=right width=150 }
 
-This piece of content goes bye bye.
-
-The following content has been removed from the game. The contents below may be archival, but feel free to edit below.
-
 
 
 The **Honey Wreath** is one of the Beesmas machines which can be unlocked after completing [Black Bear](black-bear.md)'s Honey Wreath [quest](quests.md).
