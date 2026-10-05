@@ -15,6 +15,21 @@ Atomic Treat
 
 An **Atomic Treat**, when fed to a [bee](bees.md), raises its [bond](bond.md) by 1000 and gives the bee a random [mutation](mutation.md). The mutations are [Attack](bee-attack.md), [Convert Amount](system-page.md#Convert_Amount), [Gather Amount](system-page.md#Gather_Total), [Energy](energy.md), and [Bee Ability Rate](system-page.md#Bee_Ability_Rate). These are not the favorite treat of any bee.
 
+## Typed Atomic Treats
+
+These always give one chosen mutation instead of a random one. Each also gives 1,000 bond. They come from rebirth rewards.
+
+| Treat | Mutation |
+|---|---|
+| ![Gathering Atomic Treat](img/Gathering_Atomic_Treat.png){ width=30 } [Gathering Atomic Treat](gathering-atomic-treat.md) | Gather Amount |
+| ![Energized Atomic Treat](img/Energized_Atomic_Treat.png){ width=30 } [Energized Atomic Treat](energized-atomic-treat.md) | Energy |
+| ![Critical Atomic Treat](img/Critical_Atomic_Treat.png){ width=30 } [Critical Atomic Treat](critical-atomic-treat.md) | Critical Chance |
+| ![Conversion Atomic Treat](img/Conversion_Atomic_Treat.png){ width=30 } [Conversion Atomic Treat](conversion-atomic-treat.md) | Convert Amount |
+| ![Swift Atomic Treat](img/Swift_Atomic_Treat.png){ width=30 } [Swift Atomic Treat](swift-atomic-treat.md) | Movespeed |
+| ![Fierce Atomic Treat](img/Fierce_Atomic_Treat.png){ width=30 } [Fierce Atomic Treat](fierce-atomic-treat.md) | Attack |
+| ![Ability Atomic Treat](img/Ability_Atomic_Treat.png){ width=30 } [Ability Atomic Treat](ability-atomic-treat.md) | Ability Rate |
+| ![IC Atomic Treat](img/IC_Atomic_Treat.png){ width=30 } [IC Atomic Treat](ic-atomic-treat.md) | Instant Conversion |
+
 ## Ways to Obtain
 
 * As a very rare drop from defeating the [Coconut Crab](coconut-crab.md).
