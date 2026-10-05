@@ -486,8 +486,11 @@ nav:
       - codes.md
   - "Rebirths":
       - rebirths.md
-      - "Melittology": melittology.md
+  - "Melittology":
+      - melittology.md
       - "Melittology Research": melittology-research.md
+      - "Melittology Machine": melittology-machine.md
+      - "Melittology Quests": melittology-quest-giver.md
   - "Mechanics":
       - browse-mechanics.md
       - "Ability Tokens": ability-tokens.md
