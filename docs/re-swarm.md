@@ -15,6 +15,12 @@ tags: ["Community", "Re://:Swarm"]
 
 ## Gameplay
 
-The player starts off by claiming one of the unclaimed [hives](hive.md) by pressing 'E' or clicking on the large blue button on the top of the screen when you are near your hive. After that, new players are offered the optional [Tutorial](tutorial.md). New players will automatically receive a [Basic Egg](egg.md#Basic_Egg), a [Pouch](pouch.md), and a [Scooper](scooper.md). The player can use their tool to collect pollen from any [Fields](fields.md) available. Their bag will store the pollen collected, and their bee(s) can convert the pollen into honey while the player is at their hive. The honey can be used to purchase new [tools](tools.md), Accessories, [Eggs](egg.md), and various other [Items](items.md) to progress further into the game.
+New players start by claiming a free [hive](hive.md). [Onett](onett.md) greets them with the Honeyday welcome, and then the game offers the optional [Tutorial](tutorial.md): a short walkthrough led by [Black Bear](black-bear.md) that teaches hatching the starting [Basic Egg](egg.md), collecting pollen and making honey.
 
-The player can also receive [quests](quests.md) from NPCs, which mainly focus on collecting pollen and defeating [Mobs](mobs.md), but can also have other, more advanced objectives, like collecting [Ability tokens](ability-tokens.md) and [Goo](goo.md).
+Players collect pollen with their [tool](tools.md) in the [Fields](fields.md). Their bag stores the pollen, and their bees turn it into honey while the player is at their hive. Honey buys new tools, bags, [Eggs](egg.md), hive slots and other [Items](items.md).
+
+The player can also take [quests](quests.md) from NPCs, which mainly focus on collecting pollen and defeating [Mobs](mobs.md), but can also ask for things like collecting [Ability tokens](ability-tokens.md) and [Goo](goo.md).
+
+## Rebirths
+
+Once a player has enough honey, they can [rebirth](rebirths.md). Rebirthing resets their honey to 0 but gives permanent multipliers and item rewards, and it is the game's main way to progress. After the tutorial, Black Bear tells players when they have enough honey for their first rebirth.
