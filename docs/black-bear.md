@@ -5,7 +5,7 @@ tags: ["NPC", "Bears", "Quest Giver", "Starter Zone"]
 
 # Black Bear
 
-![Black Bear](img/Black_Bear.png){ align=right width=150 }
+![Black Bear](img/bears/Black_Bear.png){ align=right width=150 }
 
 <table class="infobox" style="font-size:12px; color:white; width:300px; background:#a58b59;padding:0; border:none; color:#FFF;">
 <tbody><tr>

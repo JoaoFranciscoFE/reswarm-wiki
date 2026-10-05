@@ -5,42 +5,43 @@ tags: ["Gameplay", "Mechanics"]
 
 # Codes
 
-![Codes](img/Codes.png){ align=right width=150 }
+Codes give free rewards like [Tickets](ticket.md), [Honey](honey.md), [stickers](sticker.md) and [buffs](buffs-debuffs.md#from-codes).
 
-<figure class="thumb" style="width: 288px" typeof="mw:File/Thumb">  <figcaption class="thumbcaption"> <p class="caption">The codes menu.</p> </figcaption> </figure>
+## How to redeem
 
-Promo **codes** can be redeemed in Re://:Swarm for prizes such as items, stickers and boosts.
+Type the code into the in-game codes box and redeem it. Codes are not case-sensitive and spaces are ignored, so `Splat!` and `SPLAT !` both work.
 
-## Notes
-
-* Codes are *not* case-sensitive: "BopMaster" and "bopmaster" work the same.
-* Spaces are ignored: "Bees Buzz 123" and "BeesBuzz123" work the same.
-
-## Currently Valid Codes
+## Active codes
 
 | Code | Reward |
 |---|---|
-| splat! | Chicken's Blessing and a random Paint Splatter sticker (Red, Blue or White) |
-| chickenbee | Chicken Bee sticker, Chicken's Blessing (x1.5 Capacity and x1.5 Honey At Hive for 15 min), 300 Sunflower Seeds, 10 Mondo Chick Blessings |
-| honeyday | Grand Honeyday Event buff below Rebirth 6, otherwise the Honeyday Event buff |
-| fourtunate | 1 Present and the Honeyday Event buff |
-| beesbuzz123 | 1 Cloud Vial, 5 Bitterberries, 10 Gumdrops |
-| gumdropsforscience | 15 Gumdrops |
-| clubbean | 1 Magic Bean and a x2 Pineapple Patch boost |
-| 38217, bopmaster, cog, connoisseur, crawlers, roof | 5 Tickets each |
-| buzz, nectar | 5,000 Honey each |
-| wax | 5 Tickets and 5,000 Honey |
-| troggles | 7-Pronged Cog and a Clover Field boost |
-| wordfactory | 7-Pronged Cog and a Pine Tree Forest boost |
-| millie | 7-Pronged Cog and a Sunflower Field boost |
-| luther | 7-Pronged Cog and a Blue Flower Field boost |
-| carmensandiego | 7-Pronged Cog and a Rose Field boost |
-| jumpstart | 7-Pronged Cog and a Dandelion Field boost |
-| dysentery | 7-Pronged Cog and a Mushroom Field boost |
-| bssrb10 | Needs Rebirth 10 or higher; offers a UGC item |
+| `splat!` | Chicken's Blessing buff and a random Paint Splatter [sticker](painter-stickers.md) (Red, Blue or White) |
+| `chickenbee` | Chicken Bee [sticker](sticker.md), Chicken's Blessing (x1.5 Capacity and x1.5 Honey At Hive for 15 minutes), 300 [Sunflower Seeds](sunflower-seed.md) and [Mondo Chick Blessing](buffs-debuffs.md#Mondo_Chick_Blessing) x10 |
+| `honeyday` | [Honeyday Event](buffs-debuffs.md#Honeyday_Event) buff (Grand Honeyday Event below Rebirth 6) |
+| `fourtunate` | 1 [Present](present.md) and the [Honeyday Event](buffs-debuffs.md#Honeyday_Event) buff |
+| `beesbuzz123` | 1 [Cloud Vial](cloud-vial.md), 5 [Bitterberry](bitterberry.md) and 10 [Gumdrops](gumdrops.md) |
+| `gumdropsforscience` | 15 [Gumdrops](gumdrops.md) |
+| `clubbean` | 1 [Magic Bean](magic-bean.md) and a x2 [Pineapple Patch](pineapple-patch.md) boost |
+| `wax` | 5 [Tickets](ticket.md) and 5,000 [Honey](honey.md) |
+| `buzz` | 5,000 [Honey](honey.md) |
+| `nectar` | 5,000 [Honey](honey.md) |
+| `38217` | 5 [Tickets](ticket.md) |
+| `bopmaster` | 5 [Tickets](ticket.md) |
+| `cog` | 5 [Tickets](ticket.md) |
+| `connoisseur` | 5 [Tickets](ticket.md) |
+| `crawlers` | 5 [Tickets](ticket.md) |
+| `roof` | 5 [Tickets](ticket.md) |
+| `troggles` | 7-Pronged Cog and the [Clover Field](clover-field.md) [code buff](buffs-debuffs.md#Field_Code_Buff) |
+| `wordfactory` | 7-Pronged Cog and the [Pine Tree Forest](pine-tree-forest.md) [code buff](buffs-debuffs.md#Field_Code_Buff) |
+| `millie` | 7-Pronged Cog and the [Sunflower Field](sunflower-field.md) [code buff](buffs-debuffs.md#Field_Code_Buff) |
+| `luther` | 7-Pronged Cog and the [Blue Flower Field](blue-flower-field.md) [code buff](buffs-debuffs.md#Field_Code_Buff) |
+| `carmensandiego` | 7-Pronged Cog and the [Rose Field](rose-field.md) [code buff](buffs-debuffs.md#Field_Code_Buff) |
+| `jumpstart` | 7-Pronged Cog and the [Dandelion Field](dandelion-field.md) [code buff](buffs-debuffs.md#Field_Code_Buff) |
+| `dysentery` | 7-Pronged Cog and the [Mushroom Field](mushroom-field.md) [code buff](buffs-debuffs.md#Field_Code_Buff) |
+| `bssrb10` | A free UGC item. Needs Rebirth 10 or higher. |
 
 ## Expired codes
 
-| Code | Reward when active |
+| Code | Reward |
 |---|---|
-| celebration! | Honeyday Event buff, Joyous Gubbee sticker, a Translator, and max winds with a 4x boost and Market Boost on the Stump, Pepper and Coconut fields |
+| `celebration!` | [Honeyday Event](buffs-debuffs.md#Honeyday_Event) buff, Joyous Gubbee sticker, [Translator](translator.md), and max winds with a x4 boost and Market Boost on [Stump](stump-field.md), [Pepper](pepper-patch.md) and [Coconut](coconut-field.md) fields |
