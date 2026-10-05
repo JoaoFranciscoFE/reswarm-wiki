@@ -234,6 +234,7 @@ nav:
       - "Atomic Treat": atomic-treat.md
       - "Star Treat": star-treat.md
       - "Royal Jelly": royal-jelly.md
+      - "Mythic Jelly": mythic-jelly.md
       - "Egg": egg.md
       - "Red Extract": red-extract.md
       - "Blue Extract": blue-extract.md
@@ -290,11 +291,15 @@ nav:
       - "Broken Drive": broken-drive.md
       - "Snowflake": snowflake.md
       - "Spirit Petal": spirit-petal.md
+      - "Research Points": research-points.md
       - "Present": present.md
       - "Ornaments": ornaments.md
       - "Translator": translator.md
       - "Hive Slot": hive-slot.md
       - "Eviction": eviction.md
+      - "Honeycomb Blueprint": honeycomb-blueprint.md
+      - "Beequip Case": beequip-case.md
+      - "Sprinkler Builder": sprinkler-builder.md
   - "Equipment":
       - browse-equipment.md
       - "Bags": bags.md

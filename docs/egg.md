@@ -431,6 +431,31 @@ Ways to obtain a Gifted Frosty Bee Egg:
 
 ---
 
+## Re://:Swarm Bee Eggs
+
+Every bee has its own egg, jelly and Gifted egg. These use the [Basic Egg](#basic-egg) and [Royal Jelly](royal-jelly.md) icons.
+
+### Painter Bee Egg
+
+![Painter Bee Egg](img/Basic_Egg.png){ width=80 }
+
+Always hatches into a [Painter Bee](painter-bee.md) and also gives 1 Painter Bee Jelly.
+
+* A rebirth reward at Rebirth 35, from [Dapper Bear](dapper-bear.md)'s "Premium Clientele" rebirth quest.
+* Redeeming a Painter Bee Voucher (one per account).
+
+### 1st Edition Painter Bee Egg
+
+Always hatches into a 1st Edition [Painter Bee](painter-bee.md). It also gives a 1st Edition Painter Bee Jelly, so the bee can never be lost.
+
+* Redeeming a 1st Edition Painter Bee Voucher (one per account), which comes in Painter Bee's Colorful Haul in the [Robux Shop](robux-shop.md).
+
+### 1st Edition Mortar Bee Egg
+
+Always hatches into a 1st Edition [Mortar Bee](mortar-bee.md). "Only ever sold in the Mortar Bee Pack."
+
+* The Mortar Bee Pack in the [Robux Shop](robux-shop.md), once per player.
+
 ## Specific Event Bee Eggs
 
 [Event bee](bees-event.md) eggs are a special type of egg that will always hatch into a specific type of Event bee. After an Event bee egg is hatched, the player will receive an exclusive type of [permanent royal jelly](royal-jelly.md#Royal_Jelly_Variants) for that specific Event bee. The Event bee royal jelly will turn any bee into that kind of Event bee. It cannot be applied if the player currently has that Event bee in their hive though.

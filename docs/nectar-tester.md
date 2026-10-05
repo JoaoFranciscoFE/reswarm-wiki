@@ -1,6 +1,6 @@
 ---
 title: "Nectar Tester"
-tags: ["Items", "Inventory", "Unobtainable", "Nectar Vials", "Consumables"]
+tags: ["Items", "Inventory", "Nectar Vials", "Consumables"]
 ---
 
 # Nectar Tester
@@ -13,18 +13,11 @@ COOLDOWN
 
 1h
 
-<table style="color: #fff; background-color:#1c68355c; margin: 10px auto; border: 2px solid #ffffffd9; border-left: 15px solid #ffffffd9; border-radius: 5px">
-<tbody><tr>
-<td style="padding-left: 10px; width: 100px; font-size: 2vh; vertical-align: middle;"><span typeof="mw:Error mw:File"></span>
-</td>
-<td style="padding: 0.25em 0.5em;"><div style="display: flex; flex-direction: column; height: 100%; padding-right: 15px;"><b>This piece of content is unobtainable or inaccessible.</b><p style="margin: 0; color: #dbdbdb; font-size:1.5vh;">This content can no longer be obtained or accessed but still exists in the game. This content may still be subject to updates, so feel free to edit below.</p></div>
-</td></tr></tbody></table>
-
 The **Nectar Tester** is a special item that acts like [nectar vials](nectar-vial.md), but instead of providing a single [nectar](nectar.md) for 4 hours, it provides every type of nectar for 24 hours. It was meant to be only available on Test Realm, but was added to the main game during 2024 Summer Beesmas as a reward for completing [Bubble Bee Man](bubble-bee-man.md)'s Naughty List.
 
 ## Ways to Obtain
 
-There are currently no way to obtain a **Nectar Tester**.
+* **Rebirth rewards:** given at Rebirths 11, 13 and 17.
 
 ### The methods below are no longer possible.
 
