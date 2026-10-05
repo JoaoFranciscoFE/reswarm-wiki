@@ -262,3 +262,7 @@ figure img { max-width: 100%; height: auto; }
 .md-typeset .amulet-tier-obtain { margin-top: .6em; }
 .md-typeset .amulet-tier-icon ~ .article-table { clear: both; }
 .md-typeset td > img[src$="_Amulet.png"] { vertical-align: middle; margin-right: .2em; }
+
+/* Update log page icon */
+.md-typeset img.update-log-icon { float: right; width: 8rem; height: 8rem; object-fit: contain; margin: 0 0 1em 1.2em; }
+@media screen and (max-width: 44.9375em) { .md-typeset img.update-log-icon { width: 5rem; height: 5rem; } }

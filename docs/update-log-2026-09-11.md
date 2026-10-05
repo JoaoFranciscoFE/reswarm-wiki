@@ -5,6 +5,8 @@ tags: ["Update Logs", "Re://:Swarm"]
 
 # Rebirth 35 and Melittology paths
 
+![Rebirth 35 and Melittology paths](img/Dapper_Bear.png){ .update-log-icon }
+
 **Released:** September 11, 2026
 
 Rebirth 35, three new Melittology paths and five new stickers.

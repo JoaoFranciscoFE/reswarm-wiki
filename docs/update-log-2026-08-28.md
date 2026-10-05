@@ -5,6 +5,8 @@ tags: ["Update Logs", "Re://:Swarm"]
 
 # Rename and fixes
 
+![Rename and fixes](images/game-icon.png){ .update-log-icon }
+
 **Released:** August 28, 2026
 
 ## Changes

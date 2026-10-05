@@ -5,6 +5,8 @@ tags: ["Update Logs", "Re://:Swarm"]
 
 # Equipment models and amulets
 
+![Equipment models and amulets](img/Supreme_Cog_Amulet.png){ .update-log-icon }
+
 **Released:** September 26, 2026
 
 New models for all equipment, Rebirth 39, and amulet rerolls with stat locking.

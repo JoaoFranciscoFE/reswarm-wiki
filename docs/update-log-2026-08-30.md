@@ -5,6 +5,8 @@ tags: ["Update Logs", "Re://:Swarm"]
 
 # Bloom Shaker and leaderboards
 
+![Bloom Shaker and leaderboards](img/Bloom_Shaker.png){ .update-log-icon }
+
 **Released:** August 30, 2026
 
 ## What's new

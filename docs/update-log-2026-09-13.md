@@ -5,6 +5,8 @@ tags: ["Update Logs", "Re://:Swarm"]
 
 # Tool models
 
+![Tool models](img/Gummyballer.png){ .update-log-icon }
+
 **Released:** September 13, 2026
 
 New models for every tool and a new code.

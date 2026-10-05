@@ -5,6 +5,8 @@ tags: ["Update Logs", "Re://:Swarm"]
 
 # Audio
 
+![Audio](img/Music.png){ .update-log-icon }
+
 **Released:** August 31, 2026
 
 Sound effects and soundtracks are back.
