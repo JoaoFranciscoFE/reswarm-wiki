@@ -5,7 +5,7 @@ tags: ["Leaderboards", "Locations"]
 
 # Most Commando Captures
 
-This was removed from the game.
+This leaderboard is not in Re://:Swarm. The Commando Chick leaderboard in the game is Commando Kills.
 
 The **Most Commando Captures** was a [leaderboard](leaderboards.md) located in [Commando Chick's Hideout](commando-chick-s-hideout.md). This leaderboard showed how many [Commando Chicks](commando-chick.md) players have captured. It displayed 10 leaderboard positions at one time. The player could have scrolled down the leaderboard to see more players, all the way to the 100th place.
 

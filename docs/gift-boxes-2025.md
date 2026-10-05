@@ -5,6 +5,8 @@ tags: ["Beesmas", "Beesmas Decorations", "Locations"]
 
 # Gift Boxes/2025
 
+Each gift box unlocks once you have helped enough characters decorate, counted from the 2025 Beesmas quests you finish. There are 16 of those quests, so all 13 boxes can be opened. Each box can be opened once.
+
 <table class="article-table">
 <tbody><tr>
 <th>Gift Box
@@ -233,5 +235,7 @@ One from the following pool:
 </td>
 <td>16
 </td>
-<td>TBA
+<td><img alt="Turpentine" height="25" src="img/Turpentine.png" width="25"/>1 <a href="turpentine.html">Turpentine</a><br/>
+<img alt="BBM From Below" height="25" src="img/BBM_From_Below.png" width="25"/>1 <a href="sticker.html">BBM From Below</a> sticker<br/>
+<img alt="Honeyday Event" height="25" src="img/Honeyday_Event.png" width="25"/>Honeyday Event <a href="buffs-debuffs.html">buff</a>
 </td></tr></tbody></table>

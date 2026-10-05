@@ -17,7 +17,7 @@ Datamined information: The probability of getting every item and bee. — Decemb
 
 **Onett's Lid Art**, or **Yard Art** is a Beesmas decoration which is unlocked after completing [Onett's](onett.md) Yard Art [quest](quests.md).
 
-The art is located past the [Bear Gate](bear-gate.md) next to Onett. Its cooldown is listed as 8 hours, but the machine also has a 30-minute real-time cooldown value, and which one the game uses hasn't been checked. When activated, the player receives 3 [temporary bees](bees.md#Summoned_Bees), an assortment of items, and a Guiding Star is activated.
+The art is located past the [Bear Gate](bear-gate.md) next to Onett. Its cooldown is 8 hours. When activated, the player receives 3 [temporary bees](bees.md#Summoned_Bees), an assortment of items, and a Guiding Star is activated.
 
 If a player attempts to use the Lid Art before completing Onett's quest, it displays the message: This art is missing something... It's not very impactful.
 

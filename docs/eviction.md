@@ -7,7 +7,7 @@ tags: ["Items", "Accessories", "Inventory"]
 
 ![Eviction](img/Eviction.png){ align=right width=150 }
 
-This was removed from the game.
+Eviction is still in the game's item list, but no shop sells it right now, so it can't be bought.
 
 <aside class="portable-infobox pi-background pi-border-color pi-theme-wikia pi-layout-stacked" role="region">
 <h2 class="pi-item pi-item-spacing pi-title pi-secondary-background" data-source="title1">Eviction</h2>
