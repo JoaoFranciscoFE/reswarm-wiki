@@ -14,7 +14,7 @@ The **Painter Bee event** is a Re://:Swarm update built around the new [Painter 
 * **[Painter Bee](painter-bee.md)** and its Gifted variant, an Event bee that paints and pollinates flowers.
 * **[Painter Stickers](painter-stickers.md)**: new stickers that stack into Painter Bee's Artistic Hive Skin.
 * **[Fluxite Wax](fluxite-wax.md)**: a wax that rerolls a [Beequip](beequip.md)'s potential.
-* **[Supreme Puffshroom](supreme-puffshroom.md)**: a new [Puffshroom](puffshroom.md) rarity above Mythic.
+* **[Supreme Puffshroom](puffshroom.md#supreme-puffshroom)**: a new [Puffshroom](puffshroom.md) rarity above Mythic.
 
 ## Getting Painter Bee
 

@@ -19,7 +19,7 @@ The **Painter stickers** are a set of [stickers](sticker.md) added in the [Paint
 | Painter Bee Painting | Found by Painter Bee while gathering (1 in 7,500, or 1 in 6,000 when Gifted) | +0.25% Bee Ability Rate | 3 Neonberry |
 | Gifted Painter Bee | Summoning Painter's Haze (1 in 5,000) | +1% Bee Gather Pollen | 5 Royal Jelly |
 | Painter's Doodle | Stack all 3 Paint Splatters | +1% Pollen | 3 Glitter |
-| Supreme Puffshroom | Dropped by [Supreme Puffshrooms](supreme-puffshroom.md) (1 in 100) | +1% Bee Ability Rate | 5 Neonberry |
+| Supreme Puffshroom | Dropped by [Supreme Puffshrooms](puffshroom.md#supreme-puffshroom) (1 in 100) | +1% Bee Ability Rate | 5 Neonberry |
 
 The code `splat!` also gives one random Paint Splatter (see [Codes](codes.md)).
 
