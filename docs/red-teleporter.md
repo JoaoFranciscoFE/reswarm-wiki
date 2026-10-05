@@ -7,9 +7,9 @@ tags: ["Transport", "Locations", "Machines", "Red"]
 
 ![Red Teleporter](img/places/Red_Teleporter.png){ .wiki-photo }
 
-<figure class="thumb" style="width: 202px" typeof="mw:File/Thumb">  <figcaption class="thumbcaption"> <p class="caption">The Red Teleporter pad in the Red HQ.</p> </figcaption> </figure>
 
-<figure class="thumb" style="width: 270px" typeof="mw:File/Thumb">  <figcaption class="thumbcaption"> <p class="caption">The destination of the Red Teleporter, behind Science Bear.</p> </figcaption> </figure>
+
+
 
 The **Red Teleporter** is a portal located inside the [Red HQ](red-hq.md). When activated, it will instantly teleport the player on top of the rock located directly behind [Science Bear](science-bear.md). The transportation is one-way; thus, the destination teleporter cannot be used to travel back into the Red HQ.
 

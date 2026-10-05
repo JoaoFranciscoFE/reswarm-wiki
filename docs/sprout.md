@@ -9,7 +9,7 @@ tags: ["Mechanics"]
 
 *Were you looking for [Magic Bean](magic-bean.md)?*
 
-<figure class="thumb" style="width: 180px" typeof="mw:File/Thumb">  <figcaption class="thumbcaption"> <p class="caption">The sprout model.</p> </figcaption> </figure>
+
 
 A **sprout** is a plant that spawns in the center of a [field](fields.md). Sprouts emit a bright yellow beacon that reaches the sky, and have a counter at the base of it representing a [pollen](pollen.md) amount. When players collect pollen, or when a cloud is on the field (requires at least one player being in the field for the cloud give growth), the number counts down and it gradually grows taller. Once the pollen counter reaches 0, it sends out shockwave and scatters various tokens throughout the field. If no interaction with a sprout happens for more than 5 minutes, it will despawn.
 

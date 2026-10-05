@@ -11,7 +11,7 @@ Due to the nature of the information, details may be inaccurate or outdated.
 
 Datamined information: How many Moon Amulets needed to max out its quality. — December 19th, 2024
 
-<figure class="thumb" style="width: 150px" typeof="mw:File/Thumb">  <figcaption class="thumbcaption"> <p class="caption">The Moon Amulet icon.</p> </figcaption> </figure>
+<figure class="mw-halign-center" style="text-align:center"><img alt="Moon Amulet" src="img/Moon_Amulet.png" width="60"/><figcaption><p class="caption">The Moon Amulet icon.</p></figcaption></figure>
 
 The **Moon Amulet** is an [amulet](amulet.md) created by spending 100 [Moon Charms](moon-charm.md) at the [Moon Amulet Generator](moon-amulet-generator.md).
 

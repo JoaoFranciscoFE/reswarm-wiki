@@ -139,7 +139,7 @@ This field contains 563 [flowers](flowers.md). The flowers are white, red, and b
 
 ## Obtaining Boosts
 
-<figure class="thumb" style="width: 75px" typeof="mw:File/Thumb">  <figcaption class="thumbcaption"> <p class="caption">The Stump Field Boost icon.</p> </figcaption> </figure>
+
 
 * Using the [Blue Field Booster](blue-field-booster.md) may give a Stump [Field Boost](field-boost.md), if the Stump Snail is on respawn cooldown. When it does, it will give +100% Stump Field pollen for 15 minutes.
 * Using [glitter](glitter.md) will add 100% Stump Field pollen onto the current boost for 15 minutes if it isn't already maxed out.

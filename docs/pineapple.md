@@ -11,7 +11,7 @@ Pineapple
 
 *"Increases your bond with a bee by 25."*
 
-<figure class="thumb" style="width: 168px" typeof="mw:File/Thumb">  <figcaption class="thumbcaption"> <p class="caption">A <img alt="Pineapple" height="35" src="img/Pineapple.png" width="35"/><strong class="mw-selflink selflink"><span class="color-template color-template-pineapple color-template-background-clip">Pineapple</span></strong> token.</p> </figcaption> </figure>
+<figure class="mw-halign-center" style="text-align:center"><img alt="Pineapple" src="img/Pineapple.png" width="60"/><figcaption><p class="caption">A <img alt="Pineapple" height="35" src="img/Pineapple.png" width="35"/><strong class="mw-selflink selflink"><span class="color-template color-template-pineapple color-template-background-clip">Pineapple</span></strong> token.</p></figcaption></figure>
 
 A **Pineapple** is a type of [treat](treats.md) that can be fed to a [bee](bees.md) to raise its bond by 25. However, when fed to a [Hasty](hasty-bee.md), [Brave](brave-bee.md), [Honey](honey-bee.md), [Exhausted](exhausted-bee.md), [Shocked](shocked-bee.md), [Fire](fire-bee.md), [Demon](demon-bee.md), [Lion](lion-bee.md), or [Fuzzy](fuzzy-bee.md) Bee, the amount of [bond](bond.md) they gain is doubled. These bees also have a small chance of becoming gifted when fed **Pineapples**. [Mythic bees](bees-mythic.md) have a 1/24,000 chance to be gifted; [Legendary Bees](bees-legendary.md), a 1/12,000 chance; [Epic bees](bees-epic.md), a 1/10,000 chance; and [Rare bees](bees-rare.md), a 1/8,000 chance. Feeding a radioactive bee a pineapple has a 0.004% (1 in 25,000) to [mutate](mutation.md) a bee.
 

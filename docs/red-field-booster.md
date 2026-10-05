@@ -7,7 +7,7 @@ tags: ["Locations", "Machines", "Red", "Field Boosters"]
 
 ![Red Field Booster](img/places/Red_Field_Booster.png){ .wiki-photo }
 
-<figure class="thumb" style="width: 220px" typeof="mw:File/Thumb">  <figcaption class="thumbcaption"> <p class="caption">The Red Field Booster inside of the Red HQ.</p> </figcaption> </figure>
+
 
 The **Red Field Booster** is a machine that provides a [Field Boost](field-boost.md) to a random red field for 15 minutes. The machine is located in the [Red HQ](red-hq.md). In order to use it, the player needs to have discovered 5 different red [bee](bees.md) types. It has a cooldown of 45 minutes.
 

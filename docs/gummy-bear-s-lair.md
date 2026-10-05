@@ -7,20 +7,20 @@ tags: ["Locations", "Shops", "Goo"]
 
 ![Gummy Bear's Lair](img/places/Gummy_Bear's_Lair.png){ .wiki-photo }
 
-<figure class="thumb" style="width: 220px" typeof="mw:File/Thumb">  <figcaption class="thumbcaption"> <p class="caption">Gummy Bear's Lair.</p> </figcaption> </figure>
 
-<figure class="thumb" style="width: 180px" typeof="mw:File/Thumb">  <figcaption class="thumbcaption"> <p class="caption">The platform to talk to Gummy Bear. This was used for Gummy Bear's Beesmas 2020 quest, or now to teleport out of the lair. Only players with the Gummy Mask can use this.</p> </figcaption> </figure>
+
+
 
 **Gummy Bear's Lair** is a location that can only be accessed by having a [Goo Hotshot Badge](badges.md#Goo_Badge) or above.
 
-<figure class="thumb" style="width: 250px" typeof="mw:File/Thumb">  <figcaption class="thumbcaption"> <p class="caption">The prompt to enter the Gummy Lair.</p> </figcaption> </figure>
+
 
 To get into the lair, touch the [Gummy Bee](gummy-bee.md) model on the [Gummy Bee Egg Claim](gummy-bee-egg-claim.md) and use a [gumdrop](gumdrops.md). The player can reach the egg claim by going behind the Ant Leaderboard and following the path (where there's also an [ant pass](ant-pass.md) token). They can also climb the Stinger Dispenser, go across the gate and reach the Egg Claim or use a cannon, such as the [Red](red-cannon.md) or [Yellow](yellow-cannon.md) Cannon in combination with the [Parachute](parachute.md)/[Glider](glider.md).
 
 If the player doesn't have the Goo Hotshot Badge, then the following message will prompt:
 Only Goo Hotshots can hear Gummy Bee...
 
-<figure class="thumb" style="width: 250px" typeof="mw:File/Thumb">  <figcaption class="thumbcaption"> <p class="caption">The notification that appears when the player is on top of the Gummy Bee model and does not have the Goo Hotshot Badge.</p> </figcaption> </figure>
+
 
 Otherwise, the player will be prompted to use gumdrops to enter the Lair with this message:
 
@@ -111,9 +111,9 @@ The lair contains [Gummy Bear](gummy-bear.md) and Gummy Bee. It also has the [Gl
 
 When the player walks up to Gummy Bear without having the Gummy Mask or Gummy Boots bought, he will say the following in chat and through **notifications**:
 
-<figure class="thumb" style="width: 220px" typeof="mw:File/Thumb">  <figcaption class="thumbcaption"> <p class="caption">Gummy Bear's in-game dialogue.</p> </figcaption> </figure>
 
-<figure class="thumb" style="width: 180px" typeof="mw:File/Thumb">  <figcaption class="thumbcaption"> <p class="caption">The dialogue from Gummy Bear that appears when the <a href="gummy-beacon.html">Gummy Beacon</a> is activated.</p> </figcaption> </figure>
+
+
 
 Gummy Bear: "What's sweeter than honey?"  
 

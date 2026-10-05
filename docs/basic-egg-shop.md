@@ -33,7 +33,7 @@ The **Basic Egg Shop** is a [shop](shops.md) located next to the [Sunflower Fiel
 
 The cost begins at 1,000 honey and increases exponentially (see Formula section below), eventually capping off at 10,000,000 honey for the 22nd egg and beyond.
 
-<figure class="mw-halign-right" typeof="mw:Error mw:File"><figcaption>A chart for the eggs' price.</figcaption></figure>
+
 
 <table class="article-table mw-collapsible mw-collapsed">
 <tbody><tr>

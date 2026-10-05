@@ -15,7 +15,7 @@ Ticket
 
 ## Ways to Obtain
 
-<figure class="thumb" style="width: 180px" typeof="mw:File/Thumb">  <figcaption class="thumbcaption"> <p class="caption">The <a href="ticket-shop.html">Ticket Shop</a>.</p> </figcaption> </figure>
+<figure class="mw-halign-center" style="text-align:center"><img alt="" src="img/places/Ticket_Shop.png" width="320"/><figcaption><p class="caption">The <a href="ticket-shop.html">Ticket Shop</a>.</p></figcaption></figure>
 
 * The player can obtain **Tickets** as a reward for acquiring [badges](badges.md). Collecting badges gives:
   * 5 **Tickets** for earning Cadet badges.
@@ -87,7 +87,7 @@ Ticket
 
 ## Uses
 
-<figure class="thumb" style="width: 180px" typeof="mw:File/Thumb">  <figcaption class="thumbcaption"> <p class="caption">The Ticket Tent.</p> </figcaption> </figure>
+<figure class="mw-halign-center" style="text-align:center"><img alt="" src="img/places/Ticket_Tent.png" width="320"/><figcaption><p class="caption">The Ticket Tent.</p></figcaption></figure>
 
 * Buying a [Royal Jelly](royal-jelly.md) From the [Royal Jelly Dispenser](royal-jelly-dispenser.md) for 6 **Tickets** with a cooldown of 3 seconds.
 * Buying [Gumdrops](gumdrops.md) from the [Gumdrop Shop](gumdrop-shop.md) at the cost of 1 **Ticket** per 3 [Gumdrops](gumdrops.md).

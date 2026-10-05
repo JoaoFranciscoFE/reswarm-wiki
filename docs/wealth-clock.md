@@ -7,7 +7,7 @@ tags: ["Locations", "Machines", "Starter Zone"]
 
 ![Wealth Clock](img/Wealth_Clock.png){ align=right width=150 }
 
-<figure class="thumb" style="width: 205px" typeof="mw:File/Thumb">  <figcaption class="thumbcaption"> <p class="caption">The Wealth Clock.</p> </figcaption> </figure>
+
 
 The **Wealth Clock** is a machine that boosts [Honey Per Pollen](system-page.md#Honey_Per_Pollen) and grants [tickets](ticket.md) to the player. The Wealth Clock is located next to [Brown Bear](brown-bear.md), the entrance to [Commando Chick's Hideout](commando-chick-s-hideout.md) and the [Honeystorm Summoner](honeystorm.md).
 

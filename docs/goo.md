@@ -7,9 +7,9 @@ tags: ["Mechanics", "Gummy Invasion", "Goo"]
 
 ![Goo](img/Goo.png){ align=right width=150 }
 
-<figure class="thumb" style="width: 180px" typeof="mw:File/Thumb">  <figcaption class="thumbcaption"> <p class="caption">Patches of Goo covering the Pineapple Patch.</p> </figcaption> </figure>
 
-<figure class="thumb" style="width: 186px" typeof="mw:File/Thumb">  <figcaption class="thumbcaption"> <p class="caption">Falling gumdrops spawning Goo.</p> </figcaption> </figure>
+
+
 
 **Goo** is a purple-to-teal substance that gives the player bonus [honey](honey.md) when spread across [flowers](flowers.md). Using [gumdrops](gumdrops.md) is the easiest and most common way to manually spread goo. To collect goo, collect pollen as usual (with [tools](tools.md), [bees](bees.md), and/or their [ability tokens](ability-tokens.md)) from flowers that are covered in goo.
 

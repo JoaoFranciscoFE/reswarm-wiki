@@ -7,7 +7,7 @@ tags: ["Machines", "Locations", "Starter Zone"]
 
 ![Instant Converter](img/places/Instant_Converter.png){ .wiki-photo }
 
-<figure class="mw-halign-right" typeof="mw:Error mw:File"><figcaption>An Instant Converter.</figcaption></figure>
+
 
 The **Instant Converter** is a machine used to immediately convert [pollen](pollen.md) into [honey](honey.md), similar to a [hive](hive.md), but instantly and without the use of [bees](bees.md).
 

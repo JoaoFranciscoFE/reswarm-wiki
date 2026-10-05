@@ -7,7 +7,7 @@ tags: ["Mechanics"]
 
 ![Bee Attack](img/Bee_Attack.png){ align=right width=150 }
 
-<figure class="thumb" style="width: 180px" typeof="mw:File/Thumb">  <figcaption class="thumbcaption"> <p class="caption"><a href="bees.html">Bees</a> attacking a <a href="mantis.html">mantis</a>.</p> </figcaption> </figure>
+
 
 **Bee Attack** is a [mechanic](mechanics.md) that causes [bees](bees.md) to attack [mobs](mobs.md) in a radius. When attacking, bees will deploy a small red laser (presumably a stinger) to deal damage based on the amount of [bee attack power](system-page.md#Bee_Attack) they possess. Bee attack boosts are split into five categories, regular bee attack, colorless bee attack, red bee attack, blue bee attack, and bee attack multiplier.
 

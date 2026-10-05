@@ -102,7 +102,7 @@ Royal Jelly does **NOT** necessarily turn a bee into a better rarity. For exampl
 
 ### Token Locations
 
-<figure class="thumb" style="width: 200px" typeof="mw:File/Thumb">  <figcaption class="thumbcaption"> <p class="caption">A royal jelly token at the end of the <a href="obstacle-courses.html#Mushroom_Field_Obby">Mushroom Field Obby</a>.</p> </figcaption> </figure>
+
 
 *Arranged roughly in order of **minimum** bees/items required. **Not all possible methods are listed here.** For example, almost any place that can be reached using the [Yellow Cannon](yellow-cannon.md) plus the [parachute](parachute.md) can also be reached using the [Blue](blue-cannon.md) or [Red Cannon](red-cannon.md) plus the [Glider](glider.md).*
 
@@ -154,7 +154,7 @@ Star Jelly turns a bee into a random gifted bee, with the same rarity chances as
 
     
 
-<figure class="thumb" style="width: 180px" typeof="mw:File/Thumb">  <figcaption class="thumbcaption"> <p class="caption">A Star Jelly token.</p> </figcaption> </figure>
+<figure class="mw-halign-center" style="text-align:center"><img alt="Star Jelly" src="img/Star_Jelly.png" width="60"/><figcaption><p class="caption">A Star Jelly token.</p></figcaption></figure>
 
 * Can be crafted using the [Blender](blender.md) (100 Royal Jelly and 3 [Glitter](glitter.md)).
 * Obtained from certain [Robux packs](robux-shop.md).

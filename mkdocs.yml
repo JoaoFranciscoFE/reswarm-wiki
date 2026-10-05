@@ -28,6 +28,8 @@ markdown_extensions:
       permalink: true
   - pymdownx.arithmatex:
       generic: true
+  - pymdownx.blocks.tab:
+      alternate_style: true
 extra_css: [stylesheets/wiki.css]
 hooks: [hooks/cache_bust.py, hooks/nav_links.py]
 extra_javascript:

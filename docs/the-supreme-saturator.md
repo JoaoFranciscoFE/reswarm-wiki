@@ -38,7 +38,7 @@ When a sprinkler regenerates flowers, the following audio plays:
 * The Supreme Saturator is currently the most expensive sprinkler in the game.
 * Before the 2021-12-26 update, The Supreme Saturator was the second most expensive [item](items.md) in terms of [honey](honey.md) in the game (excluding [hive slots](hive-slot.md)), only behind the [Gummy Boots](gummy-boots.md).
 
-<figure class="thumb mw-halign-right" style="width: 200px" typeof="mw:File/Thumb">  <figcaption class="thumbcaption"> <p class="caption">SDMittens obtaining The Supreme Saturator.</p> </figcaption> </figure>
+
 
 * SDMittens was the first player to buy The Supreme Saturator. She purchased it on September 19, 2018, and an in-game message appeared in every server in order to congratulate her on the achievement. The message said: "Wow! SDMittens has unleashed THE SUPREME SATURATOR on the mountain!"
 * This is the only sprinkler capable of completely covering a single field; those being:

@@ -79,7 +79,7 @@ tags: ["NPC", "Bears", "Quest Giver"]
 </tbody></table>
 </td></tr></tbody></table>
 
-<figure class="thumb" style="width: 220px" typeof="mw:File/Thumb">  <figcaption class="thumbcaption"> <p class="caption">Panda Bear near the Bamboo Field.</p> </figcaption> </figure>
+
 
 **Panda Bear** is a [quest giver](quest-givers.md), and one of the eight permanent quest bears that can be accessed in the game, the others being [Black Bear](black-bear.md), [Brown Bear](brown-bear.md), [Mother Bear](mother-bear.md), [Science Bear](science-bear.md), [Dapper Bear](dapper-bear.md), [Polar Bear](polar-bear.md), and [Spirit Bear](spirit-bear.md).
 

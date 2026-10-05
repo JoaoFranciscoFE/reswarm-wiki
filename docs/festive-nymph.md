@@ -13,7 +13,7 @@ The following content has been removed from the game. The contents below may be 
 
 *Not to be confused with [Stick Nymphs](stick-nymph.md), the standard version of this mob.*
 
-<figure class="thumb" style="width: 180px" typeof="mw:File/Thumb">  <figcaption class="thumbcaption"> <p class="caption">Festive Nymphs.</p> </figcaption> </figure>
+
 
 The **Festive Nymph** is a variant of [Stick Nymph](stick-nymph.md) that can be summoned by [Stick Bug](stick-bug.md) during the [Stick Bug Challenge](stick-bug-challenge.md). Festive Nymphs are only available after finishing Stick Bug's Beesmas [quest](quests.md) during Beesmas 2020 and beyond: Stick Bug's Nymph Hats. Other players could attack and collect rewards from Festive Nymphs. (The player who started the challenge must complete Stick Bug's quest first, otherwise no Festive Nymphs will appear.)
 

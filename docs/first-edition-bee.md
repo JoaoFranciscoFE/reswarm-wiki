@@ -7,7 +7,7 @@ tags: ["Bees"]
 
 ![First Edition Bee](img/First_Edition_Bee.png){ align=right width=150 }
 
-<figure class="thumb" style="width: 189px" typeof="mw:File/Thumb">  <figcaption class="thumbcaption"> <p class="caption">The decal for the First Edition Flag.</p> </figcaption> </figure>
+
 
 A **first edition bee** is a designation given to certain [Event bees](bees-event.md) bought or earned during their first release. This designation is represented by a white and yellow "1st" flag appearing on top of the bee, and the flag emits a sparkling effect. The flag is purely cosmetic and does not change or affect gameplay at all.
 

@@ -7,7 +7,7 @@ tags: ["Shops", "Locations", "Machines"]
 
 ![Stinger Shop](img/places/Stinger_Shop.png){ .wiki-photo }
 
-<figure class="thumb" style="width: 275px" typeof="mw:File/Thumb">  <figcaption class="thumbcaption"> <p class="caption">The Stinger Shop.</p> </figcaption> </figure>
+
 
 The **Stinger Shop** is a [shop](shops.md) located behind the [Ant Gate](ant-gate.md) that sells [Stingers](stinger.md) for 10 [Tickets](ticket.md) each. Stingers are purchasable in increments of 1, 10, and 100.
 

@@ -11,7 +11,7 @@ Bitterberry
 
 *"Increases bond with a bee by 100. Small chance to cause Mutations."*
 
-<figure class="thumb" style="width: 180px" typeof="mw:File/Thumb">  <figcaption class="thumbcaption"> <p class="caption">The text that appears in the chat when a bee gains a mutation, fed with bitterberry.</p> </figcaption> </figure>
+
 
 A **Bitterberry** is a type of [treat](treats.md) that, when fed to a [bee](bees.md), raises its [bond](bond.md) by 100 and has a 1/1000 chance to make it [mutated](mutation.md). The chance is boosted to 1/100 if the bee is [radioactive](radiation.md). These are not the favorite treat of any bee.
 
@@ -75,7 +75,7 @@ Total required for all single-purchase items: 0 **Bitterberries**
 
 ## Gallery
 
-<figure class="thumb mw-halign-left" style="width: 208px" typeof="mw:File/Thumb">  <figcaption class="thumbcaption"> <p class="caption">A Bitterberry token from the Beesmas Feast.</p> </figcaption> </figure>
+
 
 <table class="mw-collapsible mw-collapsed NavTable">
 <tbody><tr>

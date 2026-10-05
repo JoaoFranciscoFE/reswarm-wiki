@@ -8,7 +8,7 @@ tags: ["Mobs", "Passive Mobs"]
 ![Bloom](img/Bloom.png){ align=right width=150 }
 
 
-<figure class="thumb" style="width: 180px" typeof="mw:File/Thumb">  <figcaption class="thumbcaption"> <p class="caption">A Bloom.</p> </figcaption> </figure>
+
 
 **Blooms** are passive field-based entities that can spawn naturally on fields or be summoned using a [Bloom Shaker](bloom-shaker.md). It first appeared in the 2025-12-25 update. They manifest as large flowers adorned with colored petals. The maximum amount of petals a bloom can contain scales with its level.
 

@@ -9,7 +9,7 @@ tags: ["Locations"]
 
 ## Mushroom Field Obby
 
-<figure class="thumb" style="width: 291px" typeof="mw:File/Thumb">  <figcaption class="thumbcaption"> <p class="caption">The design of the Mushroom Field obstacle course.</p> </figcaption> </figure>
+
 
 This obstacle course is located in the [Mushroom Field](mushroom-field.md). It is the first obstacle course that players can access. Players do not need anything that will make them jump higher, but the obstacle course would be easier if they do. From the first step of the mushroom to the second step, there is an invisible wall.
 
@@ -19,7 +19,7 @@ Players can skip this obstacle course with the [Parachute](parachute.md)/[Glider
 
 ## Lava Obby
 
-<figure class="thumb" style="width: 180px" typeof="mw:File/Thumb">  <figcaption class="thumbcaption"> <p class="caption">The design of the Lava Obby.</p> </figcaption> </figure>
+
 
 This obstacle course is hidden behind the [Honey Dispenser](honey-dispenser.md) or through a hole through a wall in the [Noob Shop](noob-shop.md). After the player enters, there will be green blocks surrounded by lava. If the player touches the lava, they will die instantly. The [Parachute](parachute.md)/[Glider](glider.md), [Propeller Hat](propeller-hat.md) or Gummy Boots/Coconut Clogs is recommended for this obstacle course. Though, jumping rapidly upon hitting lava can keep the player alive. Upon hitting lava, the player must rapidly jump until they can jump on a platform. Then, they can continue with the obby as normal.
 
@@ -33,13 +33,13 @@ In the Egg Hunt Event, players could obtain a Plastic Egg token by immediately t
 
 ## Commando Chick's Hideout Obby
 
-<figure class="thumb" style="width: 180px" typeof="mw:File/Thumb">  <figcaption class="thumbcaption"> <p class="caption">The location of the Commando Chick's Hideout.</p> </figcaption> </figure>
+
 
 This obstacle course is located between the [Blue HQ](blue-hq.md) and the [Wealth Clock](wealth-clock.md), the same location where the Golden Present obstacle course was. There is a hole in the wall, with vines blocking the entrance. To pass through, players must use the [Clippers](clippers.md), [Scissors](scissors.md), or the [Scythe](scythe.md) to cut the vines down. The vines are then permanently cut down, meaning they do not need to cut the vines again. This obstacle course consists of evenly spaced blocks, gradually getting higher, that the player must jump across to reach the arena.
 
 The [Commando Chick's Hideout](commando-chick-s-hideout.md) is located past this obstacle course.
 
-<figure class="thumb" style="width: 180px" typeof="mw:File/Thumb">  <figcaption class="thumbcaption"> <p class="caption">The opening between the Blue HQ and the Wealth Clock that led to the Golden Present obby.</p> </figcaption> </figure>
+
 
 When the vines blocking the entrance are being cut down, the following audio plays:
 
@@ -47,7 +47,7 @@ The Commando Chick's Hideout Obby is, in fact, a newer version of the Golden Pre
 
 ## Bamboo Field Obby
 
-<figure class="thumb" style="width: 287px" typeof="mw:File/Thumb">  <figcaption class="thumbcaption"> <p class="caption">The design of the Bamboo Field obstacle course.</p> </figcaption> </figure>
+
 
 This obstacle course is located between the [Spider Field](spider-field.md) and the [Bamboo Field](bamboo-field.md). Players need at least 5 bees to get here. Players do not need anything that will make them jump higher to finish the course.
 
@@ -57,13 +57,13 @@ Players can skip this obstacle course with the parachute, jumping down from the 
 
 ## Dapper Bear's Shop Obby
 
-<figure class="thumb" style="width: 180px" typeof="mw:File/Thumb">  <figcaption class="thumbcaption"> <p class="caption">Full view of Dapper Bear's Shop Obby.</p> </figcaption> </figure>
+
 
 The Dapper Shop Obby can be accessed by going to the right wall of [Dapper Bear's Shop](dapper-bear-s-shop.md) and jumping on the three protruding planter displays. There are two paths the player can take afterward. The first one is to jump onto a gray ledge on the right, and then jumping onto the roof of the shop, where the player can find a [honeysuckle](honeysuckle.md), royal jelly, and [smooth dice](smooth-dice.md) token, and the [Mythic Gift Box](gift-boxes.md) (now unavailable). The second is to jump on an orange ledge partially covered by a roof, and then jumping on two moon platforms (the player must wait until nighttime and have a Moon Amulet) to reach a star jelly token. However, if the moon platforms are disabled, they can be skipped by using the [Hiking Boots](hiking-boots.md), [Glider](glider.md), and a stack of Haste+. Using the Hiking Boots can help with completing the obby if the moon platforms are active. The jump power is low enough to not bump into the roof, but high enough to be able to grab the [Star Jelly](royal-jelly.md) at the end. The [Basic Boots](basic-boots.md) lack the jumping power boost the [Hiking Boots](hiking-boots.md) have to grab the [Star Jelly](royal-jelly.md) at the end, so it's not recommended to use those, A [Glider](glider.md) is also recommended in case you hit the ceiling on one of the moon platforms.
 
 ## Cloud Obby
 
-<figure class="thumb" style="width: 431px" typeof="mw:File/Thumb">  <figcaption class="thumbcaption"> <p class="caption">The design of the Cloud obstacle course, behind Polar Bear.</p> </figcaption> </figure>
+
 
 This obby is located past the [Honey Bee Gate](honey-bee-gate.md), starting close to [Polar Bear](polar-bear.md), and ending on the tallest tree in [Pine Tree Forest](pine-tree-forest.md). Players will require the Parachute or Glider to pass it.
 

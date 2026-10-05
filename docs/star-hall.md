@@ -7,9 +7,9 @@ tags: ["Locations", "Starter Zone"]
 
 ![Star Hall](img/places/Star_Hall.png){ .wiki-photo }
 
-<figure class="thumb" style="width: 268px" typeof="mw:File/Thumb">  <figcaption class="thumbcaption"> <p class="caption">The entrance of the Star Hall.</p> </figcaption> </figure>
 
-<figure class="thumb" style="width: 271px" typeof="mw:File/Thumb">  <figcaption class="thumbcaption"> <p class="caption">The interior of the Star Hall.</p> </figcaption> </figure>
+
+
 
 The **Star Hall** is located on the roof of the [Noob Shop](noob-shop.md). Players can reach it using the [Parachute](parachute.md) or the [Glider](glider.md) after using a [cannon](red-cannon.md). They can also glide down from the [Lion Bee Gate](lion-bee-gate.md). If the player has enough [Jump Power](system-page.md#Jump_Power), they can glide from the rock that is above [Brown Bear](brown-bear.md) to the edge of the Star Hall or jump off the top of the [Royal Jelly Dispenser](royal-jelly-dispenser.md) that is next to the [Clover Field](clover-field.md), the player can also use the stockings decoration during beesmas and glide to the edge of the star hall.
 
@@ -26,7 +26,7 @@ Outside of the Star Hall, there is a [Royal Jelly](royal-jelly.md) token to the 
 
 ## Trivia
 
-<figure class="thumb" style="width: 220px" typeof="mw:File/Thumb">  <figcaption class="thumbcaption"> <p class="caption">The ant pass at the back of the Star Hall. Now behind the supreme star amulet generator.</p> </figcaption> </figure>
+
 
 * The room gets its name from the [music](music.md) playing inside it: "[starhall](https://www.roblox.com/library/2062483297/starhall)".
 * The cog outside the Star Hall is a hint to the in-game [code](codes.md), "Cog".

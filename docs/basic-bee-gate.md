@@ -50,7 +50,7 @@ The audio known as "[bpatrol](music.md)" plays in the daytime while you are past
 * During Beesmas, the Basic Bee model is seen wearing a festive Santa hat.
   * This also makes the Basic Bee Gate the only gate that changes the bee's appearance during an event.
 
-<figure class="thumb" style="width: 180px" typeof="mw:File/Thumb">  <figcaption class="thumbcaption"> <p class="caption">The Basic Bee on top of the gate with a Santa hat on during Beesmas.</p> </figcaption> </figure>
+
 
 <table class="mw-collapsible mw-collapsed NavTable">
 <tbody><tr>

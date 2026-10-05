@@ -7,7 +7,7 @@ tags: ["Mechanics"]
 
 *Not to be confused with [Flowers](flowers.md) or [Pollen](pollen.md).*
 
-<figure class="thumb" style="width: 180px" typeof="mw:File/Thumb">  <figcaption class="thumbcaption"> <p class="caption">A leaf.</p> </figcaption> </figure>
+
 
 **Leaves** are entities that appear in most [fields](fields.md). They work similarly to [sparkles](sparkles.md) and emit leaf particles. To gather leaves, the player needs to collect [pollen](pollen.md) on the tile it is on, similar to sparkles. When the leaves are gathered, a rustling sound plays, and multiple leaf particles fly out before the token appears. Rewards vary depending on which field the leaves are in but will always be in quantities of 1. For example, leaves will often spawn blueberries in blue fields. Leaves also have a rare chance of spawning an [aphid](aphid.md) that varies based on field activity, with the chance increasing if a field has been inactive for a while. They can also summon leaf [stickers](sticker.md#Sticker_Index) in most fields.
 

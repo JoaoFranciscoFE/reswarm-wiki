@@ -7,7 +7,7 @@ tags: ["Locations", "Machines", "Summoner"]
 
 ![Special Sprout Summoner](img/Special_Sprout_Summoner.png){ align=right width=150 }
 
-<figure class="thumb" style="width: 180px" typeof="mw:File/Thumb">  <figcaption class="thumbcaption"> <p class="caption">The Special Sprout Summoner.</p> </figcaption> </figure>
+
 
 The **Special Sprout Summoner** is a machine located near to the [Red HQ](red-hq.md) and [Sunflower Field](sunflower-field.md). It allows players who have discovered all 8 [Legendary bee](bees-legendary.md) types to summon either a rare, epic, legendary, supreme, gummy, or a moon [sprout](sprout.md) in a random [field](fields.md) (except [Coconut Field](coconut-field.md) or [Pepper Patch](pepper-patch.md)), and can only be used every 16 hours. It was added along with sprouts in the 2018-09-10 update. It is decorated with a rare sprout that gives off particles.
 

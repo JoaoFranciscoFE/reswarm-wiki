@@ -29,7 +29,7 @@ A [Bead Lizard](bead-lizard.md) gives from +10% Gathering Bubbles chance to +12%
 
 ## Bubble Pollen
 
-<figure class="thumb" style="width: 180px" typeof="mw:File/Thumb">  <figcaption class="thumbcaption"> <p class="caption">The Bubble Pollen stat in the System Page.</p> </figcaption> </figure>
+
 
 **Bubble Pollen** is the amount of pollen that bubbles can collect. The player can check how much bubble pollen they have in the system page.
 
@@ -68,7 +68,7 @@ The only way to increase the Golden Bubble pollen besides [Field Boost](field-bo
 
 ### Instant Bubble Conversion
 
-<figure class="thumb" style="width: 180px" typeof="mw:File/Thumb">  <figcaption class="thumbcaption"> <p class="caption">The Instant Bubble Conversion stat in the System Page.</p> </figcaption> </figure>
+
 
 **Instant Bubble Conversion** is how much pollen collected by the bubbles is instantly converted. There are currently no ways to increase Instant Bubble Conversion.
 

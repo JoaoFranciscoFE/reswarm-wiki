@@ -7,9 +7,9 @@ tags: ["Gameplay", "Mechanics", "System"]
 
 *This page is for stats that apply to the player, collecting [pollen](pollen.md), and the hive. For stats that apply to [bees](bees.md), see [Stats](stats.md).*
 
-<figure class="thumb" style="width: 180px" typeof="mw:File/Thumb">  <figcaption class="thumbcaption"> <p class="caption">The icon for the System Page.</p> </figcaption> </figure>
 
-<figure class="thumb" style="width: 180px" typeof="mw:File/Thumb">  <figcaption class="thumbcaption"> <p class="caption">A small part of the System Page.</p> </figcaption> </figure>
+
+
 
 The **System Page** is shown by clicking the cog in the menu bar. It is in between the [Badges](badges.md) page and the [Robux Shop](robux-shop.md) page. Here, the player can redeem [codes](codes.md), send [Trade Requests](trading.md), view the [Global Leaderboard](leaderboards.md), use the Cub Console, view the players' stats, turn on and off in-game [music](music.md), toggle Pollen Text, Abbreviate Pollen, allow Trade Requests, display and hide other players' [bees](bees.md), toggle Reducing Strobing VFX, and toggle Auto-Jelly. Turning off all in-game music only silences the music, not the sound effects (such as the sounds of [Ability Tokens](ability-tokens.md) and obtaining [Legendary](bees-legendary.md), [Mythic](bees-mythic.md), [Gifted](gifted-bee.md), and [Event](bees-event.md)). You can mute all sound by turning off the in-game sound on the Roblox menu.
 
@@ -285,9 +285,9 @@ The total attack of all of your bees combined (after attack modifiers).
 
 ## Auto-Jelly Settings
 
-<figure class="thumb mw-halign-right" style="width: 180px" typeof="mw:File/Thumb">  <figcaption class="thumbcaption"> <p class="caption">The Auto-Jelly settings.</p> </figcaption> </figure>
 
-<figure class="thumb" style="width: 180px" typeof="mw:File/Thumb">  <figcaption class="thumbcaption"> <p class="caption">The message when an auto-jelly setting is on.</p> </figcaption> </figure>
+
+
 
 The **Auto-Jelly Settings** can be found at the bottom of the System Page. There are options for [Royal Jellies](royal-jelly.md) or [Star Jellies](royal-jelly.md#Star_Jelly) to auto roll until the requirements are fulfilled. It can be used to help players obtain a bee they desire quickly. There are options for the requirement the jelly will roll into:
 
@@ -305,7 +305,7 @@ If the Mutation option is turned on, but the bee you selected isn't radioactive,
 
 When using a [Royal Jelly](royal-jelly.md) on a bee with an auto-jelly option enabled, a reminder appears after the message that the auto-jelly option is on.
 
-<figure class="thumb" style="width: 180px" typeof="mw:File/Thumb">  <figcaption class="thumbcaption"> <p class="caption">The extra warning pop-up when selecting extremely rare options.</p> </figcaption> </figure>
+
 
 If you turn on the following options, an extra pop-up will warn the player that the options they selected are very rare:
 
@@ -314,6 +314,6 @@ If you turn on the following options, an extra pop-up will warn the player that 
 * Mythic, Gifted, and Mutation.
 * Legendary, Gifted, and Mutation.
 
-<figure class="thumb" style="width: 180px" typeof="mw:File/Thumb">  <figcaption class="thumbcaption"> <p class="caption">An extra warning pop-up that appears when you try to auto-jelly with star jellies.</p> </figcaption> </figure>
+
 
 When using a [Star Jelly](royal-jelly.md#Star_Jelly) on a bee, another pop-up will appear, reminding the player that an auto-jelly setting is on and will use as many star jellies as it needs in order to fulfill its requirement. This pop-up will appear even if only the Until Gifted option is turned on. If you are using the Require Gifted option with [Star Jellies](royal-jelly.md#Star_Jelly), you will still receive the warning, but nothing will happen.

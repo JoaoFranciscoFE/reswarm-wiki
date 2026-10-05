@@ -11,7 +11,7 @@ This piece of content goes bye bye.
 
 The following content has been removed from the game. The contents below may be archival, but feel free to edit below.
 
-<figure class="thumb" style="width: 195px" typeof="mw:File/Thumb">  <figcaption class="thumbcaption"> <p class="caption">The Honey Wreath's appearance after the player completes Black Bear's Beesmas quest.</p> </figcaption> </figure>
+
 
 The **Honey Wreath** is one of the Beesmas machines which can be unlocked after completing [Black Bear](black-bear.md)'s Honey Wreath [quest](quests.md).
 

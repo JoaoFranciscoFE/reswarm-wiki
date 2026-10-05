@@ -15,9 +15,9 @@ There is a limit of 50 stickers on a hive at once, and you cannot place stickers
 
 ## Sticker Book
 
-<figure class="thumb" style="width: 180px" typeof="mw:File/Thumb">  <figcaption class="thumbcaption"> <p class="caption">The Sticker Book menu, with the base amount of capacity.</p> </figcaption> </figure>
 
-<figure class="thumb" style="width: 180px" typeof="mw:File/Thumb">  <figcaption class="thumbcaption"> <p class="caption">The icon for the Sticker Book.</p> </figcaption> </figure>
+
+
 
 The Sticker Book can be found at the top of the inventory, and holds every sticker the player obtains. On the top right, you can view either the inbox or index. Below this, there are options to upgrade capacity, "Peel All" (peels all hive stickers on the player's hive), and "Sort" (sorts out the stickers by the order they appear in the Sticker Index).
 
@@ -12435,7 +12435,7 @@ They can be placed on your hive or added to the Sticker Stack.
 
 ## Hidden Stickers
 
-<figure class="thumb" style="width: 180px" typeof="mw:File/Thumb">  <figcaption class="thumbcaption"> <p class="caption">A Rubber Duck Sticker hidden right behind <a href="onett.html">Onett</a>.</p> </figcaption> </figure>
+
 
 Some stickers can spawn around the map and are able to be collected by clicking on them. Along with the sticker itself, they also reward 1 [ticket](ticket.md) when collected.
 
@@ -12461,244 +12461,131 @@ One of the following sounds can play when collecting a sticker:
 
 ### Starter Zone
 
-<table class="article-table">
-<tbody><tr>
-<td><figure class="thumb" style="width: 250px" typeof="mw:File/Thumb">  <figcaption class="thumbcaption"> <p class="caption">To the right of <a href="royal-jelly-dispenser.html">Royal Jelly Dispenser</a>.</p> </figcaption> </figure>
-</td>
-<td><figure class="thumb" style="width: 250px" typeof="mw:File/Thumb">  <figcaption class="thumbcaption"> <p class="caption">Wall to the left below <a href="ant-gate.html">Ant Gate</a> entrance.</p> </figcaption> </figure>
-</td>
-<td><figure class="thumb" style="width: 250px" typeof="mw:File/Thumb">  <figcaption class="thumbcaption"> <p class="caption">Over <a href="ticket-tent.html">Ticket Tent</a>.</p> </figcaption> </figure>
-</td></tr>
-<tr>
-<td><figure class="thumb" style="width: 250px" typeof="mw:File/Thumb">  <figcaption class="thumbcaption"> <p class="caption">Inside <a href="ticket-tent.html">Ticket Tent</a>, left and right walls.</p> </figcaption> </figure>
-</td>
-<td><figure class="thumb" style="width: 250px" typeof="mw:File/Thumb">  <figcaption class="thumbcaption"> <p class="caption">Wall near <a href="clover-field.html">Clover Field</a>.</p> </figcaption> </figure>
-</td>
-<td><figure class="thumb" style="width: 250px" typeof="mw:File/Thumb">  <figcaption class="thumbcaption"> <p class="caption">Inside <a href="commando-chick-s-hideout.html">Commando Chick's Hideout</a>.</p> </figcaption> </figure>
-</td></tr>
-<tr>
-<td><figure class="thumb" style="width: 250px" typeof="mw:File/Thumb">  <figcaption class="thumbcaption"> <p class="caption">Inside <a href="noob-shop.html">Noob Shop</a>, left, back and right walls.</p> </figcaption> </figure>
-</td>
-<td><figure class="thumb" style="width: 250px" typeof="mw:File/Thumb">  <figcaption class="thumbcaption"> <p class="caption">Inside <a href="blue-hq.html">Blue HQ</a>, roof wedge next to the <a href="blue-field-booster.html">Blue Field Booster</a>.</p> </figcaption> </figure>
-</td>
-<td><figure class="thumb" style="width: 250px" typeof="mw:File/Thumb">  <figcaption class="thumbcaption"> <p class="caption">In the <a href="obstacle-courses.html#Lava_Obby">Lava Obby</a>, on the path to <a href="shops.html">Noob Shop</a>.</p> </figcaption> </figure>
-</td></tr>
-<tr>
-<td><figure class="thumb" style="width: 250px" typeof="mw:File/Thumb">  <figcaption class="thumbcaption"> <p class="caption">On the wall below <a href="blue-teleporter.html">Blue Teleporter</a>.</p> </figcaption> </figure>
-</td>
-<td><figure class="thumb" style="width: 250px" typeof="mw:File/Thumb">  <figcaption class="thumbcaption"> <p class="caption">To the bottom right from <a href="basic-bee-gate.html">Basic Bee Gate</a>.</p> </figcaption> </figure>
-</td>
-<td><figure class="thumb" style="width: 250px" typeof="mw:File/Thumb">  <figcaption class="thumbcaption"> <p class="caption">The wall near the <a href="strawberry-dispenser.html">Strawberry Dispenser</a>.</p> </figcaption> </figure>
-</td></tr>
-<tr>
-<td><figure class="thumb" style="width: 250px" typeof="mw:File/Thumb">  <figcaption class="thumbcaption"> <p class="caption">Inside <a href="blue-hq.html">Blue HQ</a>, on the way up to the second floor.</p> </figcaption> </figure>
-</td>
-<td><figure class="thumb" style="width: 250px" typeof="mw:File/Thumb">  <figcaption class="thumbcaption"> <p class="caption">To the left of the <a href="treat-shop.html">Treat Shop</a>.</p> </figcaption> </figure>
-</td>
-<td><figure class="thumb" style="width: 250px" typeof="mw:File/Thumb">  <figcaption class="thumbcaption"> <p class="caption">On the left or right wall of the <a href="blue-flower-field.html">Blue Flower Field</a>.</p> </figcaption> </figure>
-</td></tr>
-<tr>
-<td><figure class="thumb" style="width: 250px" typeof="mw:File/Thumb">  <figcaption class="thumbcaption"> <p class="caption">On the right outer wall of the <a href="blue-hq.html">Blue HQ</a>, near the <a href="wealth-clock.html">Wealth Clock</a>.</p> </figcaption> </figure>
-</td>
-<td><figure class="thumb" style="width: 250px" typeof="mw:File/Thumb">  <figcaption class="thumbcaption"> <p class="caption">On the ramp leading into the 5 bee gate.</p> </figcaption> </figure>
-</td>
-<td><figure class="thumb" style="width: 250px" typeof="mw:File/Thumb">  <figcaption class="thumbcaption"> <p class="caption">On the left wall of the Sunflower field below the red HQ.</p> </figcaption> </figure>
-</td></tr>
-<tr>
-<td><figure class="thumb" style="width: 250px" typeof="mw:File/Thumb">  <figcaption class="thumbcaption"> <p class="caption">Next to the right wall of the <a href="ant-gate.html">Ant Gate</a> entrance.</p> </figcaption> </figure>
-</td>
-<td><figure class="thumb" style="width: 250px" typeof="mw:File/Thumb">  <figcaption class="thumbcaption"> <p class="caption">Outside the <a href="ticket-tent.html">Ticket Tent</a> enterance, on the left of the Red Cannon.</p> </figcaption> </figure>
-</td>
-<td><figure class="thumb" style="width: 250px" typeof="mw:File/Thumb">  <figcaption class="thumbcaption"> <p class="caption">Next to the <a href="blueberry-dispenser.html">Blueberry Dispenser</a> in the <a href="blue-hq.html">Blue HQ</a>.</p> </figcaption> </figure>
-</td></tr>
-<tr>
-<td><figure class="thumb" style="width: 250px" typeof="mw:File/Thumb">  <figcaption class="thumbcaption"> <p class="caption">Behind the <a href="honey-dispenser.html">Honey Dispenser</a>, on the right wall of the <a href="noob-shop.html">Noob Shop</a>.</p> </figcaption> </figure>
-</td>
-<td><figure class="thumb" style="width: 250px" typeof="mw:File/Thumb">  <figcaption class="thumbcaption"> <p class="caption">On a rock right beside the <a href="ant-gate.html">Ant Gate</a>.</p> </figcaption> </figure>
-</td></tr></tbody></table>
+<ul>
+<li>To the right of <a href="royal-jelly-dispenser.html">Royal Jelly Dispenser</a>.</li>
+<li>Wall to the left below <a href="ant-gate.html">Ant Gate</a> entrance.</li>
+<li>Over <a href="ticket-tent.html">Ticket Tent</a>.</li>
+<li>Inside <a href="ticket-tent.html">Ticket Tent</a>, left and right walls.</li>
+<li>Wall near <a href="clover-field.html">Clover Field</a>.</li>
+<li>Inside <a href="commando-chick-s-hideout.html">Commando Chick's Hideout</a>.</li>
+<li>Inside <a href="noob-shop.html">Noob Shop</a>, left, back and right walls.</li>
+<li>Inside <a href="blue-hq.html">Blue HQ</a>, roof wedge next to the <a href="blue-field-booster.html">Blue Field Booster</a>.</li>
+<li>In the <a href="obstacle-courses.html#Lava_Obby">Lava Obby</a>, on the path to <a href="shops.html">Noob Shop</a>.</li>
+<li>On the wall below <a href="blue-teleporter.html">Blue Teleporter</a>.</li>
+<li>To the bottom right from <a href="basic-bee-gate.html">Basic Bee Gate</a>.</li>
+<li>The wall near the <a href="strawberry-dispenser.html">Strawberry Dispenser</a>.</li>
+<li>Inside <a href="blue-hq.html">Blue HQ</a>, on the way up to the second floor.</li>
+<li>To the left of the <a href="treat-shop.html">Treat Shop</a>.</li>
+<li>On the left or right wall of the <a href="blue-flower-field.html">Blue Flower Field</a>.</li>
+<li>On the right outer wall of the <a href="blue-hq.html">Blue HQ</a>, near the <a href="wealth-clock.html">Wealth Clock</a>.</li>
+<li>On the ramp leading into the 5 bee gate.</li>
+<li>On the left wall of the Sunflower field below the red HQ.</li>
+<li>Next to the right wall of the <a href="ant-gate.html">Ant Gate</a> entrance.</li>
+<li>Outside the <a href="ticket-tent.html">Ticket Tent</a> enterance, on the left of the Red Cannon.</li>
+<li>Next to the <a href="blueberry-dispenser.html">Blueberry Dispenser</a> in the <a href="blue-hq.html">Blue HQ</a>.</li>
+<li>Behind the <a href="honey-dispenser.html">Honey Dispenser</a>, on the right wall of the <a href="noob-shop.html">Noob Shop</a>.</li>
+<li>On a rock right beside the <a href="ant-gate.html">Ant Gate</a>.</li>
+</ul>
 
 ### 5 Bee Zone
 
-<table class="article-table">
-<tbody><tr>
-<td><figure class="thumb" style="width: 250px" typeof="mw:File/Thumb">  <figcaption class="thumbcaption"> <p class="caption">Blue wall near <a href="bamboo-field.html">Bamboo Field</a>.</p> </figcaption> </figure>
-</td>
-<td><figure class="thumb" style="width: 250px" typeof="mw:File/Thumb">  <figcaption class="thumbcaption"> <p class="caption">Blue slope near <a href="strawberry-field.html">Strawberry Field</a>.</p> </figcaption> </figure>
-</td>
-<td><figure class="thumb" style="width: 250px" typeof="mw:File/Thumb">  <figcaption class="thumbcaption"> <p class="caption">On the left side of the <a href="vicious-bee-egg-claim.html">Vicious Bee Egg Claim</a> platform.</p> </figcaption> </figure>
-</td></tr>
-<tr>
-<td><figure class="thumb" style="width: 250px" typeof="mw:File/Thumb">  <figcaption class="thumbcaption"> <p class="caption">At the start of the secret passageway to <a href="royal-jelly.html">Royal Jelly</a> inside the blue slope near <a href="bamboo-field.html">Bamboo Field</a>.</p> </figcaption> </figure>
-</td>
-<td><figure class="thumb" style="width: 250px" typeof="mw:File/Thumb">  <figcaption class="thumbcaption"> <p class="caption">Behind bamboo in the <a href="bamboo-field.html">Bamboo Field</a>.</p> </figcaption> </figure>
-</td>
-<td><figure class="thumb" style="width: 250px" typeof="mw:File/Thumb">  <figcaption class="thumbcaption"> <p class="caption">On the <a href="panda-bear.html">Panda Bear</a>'s platform.</p> </figcaption> </figure>
-</td></tr>
-<tr>
-<td><figure class="thumb" style="width: 250px" typeof="mw:File/Thumb">  <figcaption class="thumbcaption"> <p class="caption">Wall above the red-and-white-striped awning at the far end of <a href="sunflower-field.html">Sunflower Field</a>, under the <a href="royal-jelly-shop.html">Royal Jelly Shop</a>.</p> </figcaption> </figure>
-</td></tr></tbody></table>
+<ul>
+<li>Blue wall near <a href="bamboo-field.html">Bamboo Field</a>.</li>
+<li>Blue slope near <a href="strawberry-field.html">Strawberry Field</a>.</li>
+<li>On the left side of the <a href="vicious-bee-egg-claim.html">Vicious Bee Egg Claim</a> platform.</li>
+<li>At the start of the secret passageway to <a href="royal-jelly.html">Royal Jelly</a> inside the blue slope near <a href="bamboo-field.html">Bamboo Field</a>.</li>
+<li>Behind bamboo in the <a href="bamboo-field.html">Bamboo Field</a>.</li>
+<li>On the <a href="panda-bear.html">Panda Bear</a>'s platform.</li>
+<li>Wall above the red-and-white-striped awning at the far end of <a href="sunflower-field.html">Sunflower Field</a>, under the <a href="royal-jelly-shop.html">Royal Jelly Shop</a>.</li>
+</ul>
 
 ### 10 Bee Zone
 
-<table class="article-table">
-<tbody><tr>
-<td><figure class="thumb" style="width: 250px" typeof="mw:File/Thumb">  <figcaption class="thumbcaption"> <p class="caption">Right wall of <a href="dapper-bear-s-shop.html">Dapper Bear's Shop</a> building.</p> </figcaption> </figure>
-</td>
-<td><figure class="thumb" style="width: 250px" typeof="mw:File/Thumb">  <figcaption class="thumbcaption"> <p class="caption">Left wall of <a href="pineapple-patch.html">Pineapple Patch</a>.</p> </figcaption> </figure>
-</td>
-<td><figure class="thumb" style="width: 250px" typeof="mw:File/Thumb">  <figcaption class="thumbcaption"> <p class="caption">Left wall at the start of stairs to <a href="dapper-bear-s-shop.html">Dapper Bear's Shop</a>.</p> </figcaption> </figure>
-</td></tr>
-<tr>
-<td><figure class="thumb" style="width: 250px" typeof="mw:File/Thumb">  <figcaption class="thumbcaption"> <p class="caption">To the left from <a href="dapper-bear-s-shop.html">Dapper Bear's Shop</a>.</p> </figcaption> </figure>
-</td>
-<td><figure class="thumb" style="width: 250px" typeof="mw:File/Thumb">  <figcaption class="thumbcaption"> <p class="caption">Behind <a href="instant-converter.html">Instant Converter</a>.</p> </figcaption> </figure>
-</td>
-<td><figure class="thumb" style="width: 250px" typeof="mw:File/Thumb">  <figcaption class="thumbcaption"> <p class="caption">On top of <a href="dapper-bear-s-shop.html">Dapper Bear's Shop</a>.</p> </figcaption> </figure>
-</td></tr>
-<tr>
-<td><figure class="thumb" style="width: 250px" typeof="mw:File/Thumb">  <figcaption class="thumbcaption"> <p class="caption">On the left wall inside of <a href="dapper-bear-s-shop.html">Dapper Bear's Shop</a>.</p> </figcaption> </figure>
-</td>
-<td><figure class="thumb" style="width: 250px" typeof="mw:File/Thumb">  <figcaption class="thumbcaption"> <p class="caption">Inside <a href="mazes.html#Pro_Shop_Maze">Pro Shop Maze</a>.</p> </figcaption> </figure>
-</td>
-<td><figure class="thumb" style="width: 250px" typeof="mw:File/Thumb">  <figcaption class="thumbcaption"> <p class="caption">At the entrance of the <a href="white-tunnel.html">White Tunnel</a>.</p> </figcaption> </figure>
-</td></tr>
-<tr>
-<td><figure class="thumb" style="width: 250px" typeof="mw:File/Thumb">  <figcaption class="thumbcaption"> <p class="caption">On the left wall to the entrance of <a href="dapper-bear-s-shop.html">Dapper Bear's Shop</a>.</p> </figcaption> </figure>
-</td>
-<td><figure class="thumb" style="width: 250px" typeof="mw:File/Thumb">  <figcaption class="thumbcaption"> <p class="caption">Undeneath the <a href="magic-bean-shop.html">Magic Bean Shop</a>, front and left walls.</p> </figcaption> </figure>
-</td>
-<td><figure class="thumb" style="width: 250px" typeof="mw:File/Thumb">  <figcaption class="thumbcaption"> <p class="caption">Right wall of the <a href="pro-shop.html">Pro Shop</a>.</p> </figcaption> </figure>
-</td></tr>
-<tr>
-<td><figure class="thumb" style="width: 250px" typeof="mw:File/Thumb">  <figcaption class="thumbcaption"> <p class="caption">At the front of <a href="blue-hq.html">Blue HQ</a>, left inside the tunnel and then jump to the right.</p> </figcaption> </figure>
-</td></tr></tbody></table>
+<ul>
+<li>Right wall of <a href="dapper-bear-s-shop.html">Dapper Bear's Shop</a> building.</li>
+<li>Left wall of <a href="pineapple-patch.html">Pineapple Patch</a>.</li>
+<li>Left wall at the start of stairs to <a href="dapper-bear-s-shop.html">Dapper Bear's Shop</a>.</li>
+<li>To the left from <a href="dapper-bear-s-shop.html">Dapper Bear's Shop</a>.</li>
+<li>Behind <a href="instant-converter.html">Instant Converter</a>.</li>
+<li>On top of <a href="dapper-bear-s-shop.html">Dapper Bear's Shop</a>.</li>
+<li>On the left wall inside of <a href="dapper-bear-s-shop.html">Dapper Bear's Shop</a>.</li>
+<li>Inside <a href="mazes.html#Pro_Shop_Maze">Pro Shop Maze</a>.</li>
+<li>At the entrance of the <a href="white-tunnel.html">White Tunnel</a>.</li>
+<li>On the left wall to the entrance of <a href="dapper-bear-s-shop.html">Dapper Bear's Shop</a>.</li>
+<li>Undeneath the <a href="magic-bean-shop.html">Magic Bean Shop</a>, front and left walls.</li>
+<li>Right wall of the <a href="pro-shop.html">Pro Shop</a>.</li>
+<li>At the front of <a href="blue-hq.html">Blue HQ</a>, left inside the tunnel and then jump to the right.</li>
+</ul>
 
 ### 15 Bee Zone
 
-<table class="article-table">
-<tbody><tr>
-<td><figure class="thumb" style="width: 250px" typeof="mw:File/Thumb">  <figcaption class="thumbcaption"> <p class="caption">Near <a href="badge-bearer-s-guild.html">Badge Bearer's Guild</a> entrance, behind a wedge.</p> </figcaption> </figure>
-</td>
-<td><figure class="thumb" style="width: 250px" typeof="mw:File/Thumb">  <figcaption class="thumbcaption"> <p class="caption">End of slope to the <a href="rose-field.html">Rose Field</a>.</p> </figcaption> </figure>
-</td>
-<td><figure class="thumb" style="width: 250px" typeof="mw:File/Thumb">  <figcaption class="thumbcaption"> <p class="caption">Inside <a href="badge-bearer-s-guild.html">Badge Bearer's Guild</a> behind <a href="memory-match.html">Mega Memory Match</a>.</p> </figcaption> </figure>
-</td></tr>
-<tr>
-<td><figure class="thumb" style="width: 250px" typeof="mw:File/Thumb">  <figcaption class="thumbcaption"> <p class="caption">Inside <a href="badge-bearer-s-guild.html">Badge Bearer's Guild</a>, left wall in accessories room.</p> </figcaption> </figure>
-</td>
-<td><figure class="thumb" style="width: 250px" typeof="mw:File/Thumb">  <figcaption class="thumbcaption"> <p class="caption">Near <a href="mythic-meteor-shower.html">Mythic Meteor Shower</a> summon.</p> </figcaption> </figure>
-</td>
-<td><figure class="thumb" style="width: 250px" typeof="mw:File/Thumb">  <figcaption class="thumbcaption"> <p class="caption">To the left from <a href="robo-bear.html">Robo Bear</a>.</p> </figcaption> </figure>
-</td></tr>
-<tr>
-<td><figure class="thumb" style="width: 250px" typeof="mw:File/Thumb">  <figcaption class="thumbcaption"> <p class="caption">Wall in front of <a href="honey-bee.html">Honey Bee</a>.</p> </figcaption> </figure>
-</td>
-<td><figure class="thumb" style="width: 250px" typeof="mw:File/Thumb">  <figcaption class="thumbcaption"> <p class="caption">Inside <a href="badge-bearer-s-guild.html">Badge Bearer's Guild</a>, wall between <a href="blender.html">Blender</a> and <a href="sprinklers.html">Sprinklers</a>.</p> </figcaption> </figure>
-</td>
-<td><figure class="thumb" style="width: 250px" typeof="mw:File/Thumb">  <figcaption class="thumbcaption"> <p class="caption">On the side of snow platform behind <a href="polar-bear.html">Polar Bear</a>.</p> </figcaption> </figure>
-</td></tr>
-<tr>
-<td><figure class="thumb" style="width: 250px" typeof="mw:File/Thumb">  <figcaption class="thumbcaption"> <p class="caption">To the right from <a href="robo-bear.html">Robo Bear</a>.</p> </figcaption> </figure>
-</td>
-<td><figure class="thumb" style="width: 250px" typeof="mw:File/Thumb">  <figcaption class="thumbcaption"> <p class="caption">Side of the brown slope near <a href="rose-field.html">Rose Field</a>.</p> </figcaption> </figure>
-</td>
-<td><figure class="thumb" style="width: 250px" typeof="mw:File/Thumb">  <figcaption class="thumbcaption"> <p class="caption">On the back side of the Honey Bee Gate, by the cactus.</p> </figcaption> </figure>
-</td></tr>
-<tr>
-<td><figure class="thumb" style="width: 250px" typeof="mw:File/Thumb">  <figcaption class="thumbcaption"> <p class="caption">In <a href="red-hq.html">Red HQ</a>, behind ladder.</p> </figcaption> </figure>
-</td>
-<td><figure class="thumb" style="width: 250px" typeof="mw:File/Thumb">  <figcaption class="thumbcaption"> <p class="caption">Entrance of the Diamond Mask parkour.</p> </figcaption> </figure>
-</td>
-<td><figure class="thumb" style="width: 250px" typeof="mw:File/Thumb">  <figcaption class="thumbcaption"> <p class="caption">Inside the <a href="badge-bearer-s-guild.html">Badge Bearer's Guild</a>, behind the Ace Badge Honeycomb shop.</p> </figcaption> </figure>
-</td></tr>
-<tr>
-<td><figure class="thumb" style="width: 250px" typeof="mw:File/Thumb">  <figcaption class="thumbcaption"> <p class="caption">Next to <a href="honey-bee.html">Honey Bee</a>, hidden behind a pine tree.</p> </figcaption> </figure>
-</td>
-<td><figure class="thumb" style="width: 250px" typeof="mw:File/Thumb">  <figcaption class="thumbcaption"> <p class="caption">Hidden behind or next to the <a href="red-teleporter.html">Red Teleporter</a> inside <a href="red-hq.html">Red HQ</a>.</p> </figcaption> </figure>
-</td>
-<td><figure class="thumb" style="width: 250px" typeof="mw:File/Thumb">  <figcaption class="thumbcaption"> <p class="caption">Hidden between the <a href="honey-bee-gate.html">Honey Bee Gate</a> and the small pine tree besides it.</p> </figcaption> </figure>
-</td></tr>
-<tr>
-<td><figure class="thumb" style="width: 250px" typeof="mw:File/Thumb">  <figcaption class="thumbcaption"> <p class="caption">On the left side of <a href="red-hq.html">Red HQ</a>'s roof.</p> </figcaption> </figure>
-</td></tr>
-</tbody></table>
+<ul>
+<li>Near <a href="badge-bearer-s-guild.html">Badge Bearer's Guild</a> entrance, behind a wedge.</li>
+<li>End of slope to the <a href="rose-field.html">Rose Field</a>.</li>
+<li>Inside <a href="badge-bearer-s-guild.html">Badge Bearer's Guild</a> behind <a href="memory-match.html">Mega Memory Match</a>.</li>
+<li>Inside <a href="badge-bearer-s-guild.html">Badge Bearer's Guild</a>, left wall in accessories room.</li>
+<li>Near <a href="mythic-meteor-shower.html">Mythic Meteor Shower</a> summon.</li>
+<li>To the left from <a href="robo-bear.html">Robo Bear</a>.</li>
+<li>Wall in front of <a href="honey-bee.html">Honey Bee</a>.</li>
+<li>Inside <a href="badge-bearer-s-guild.html">Badge Bearer's Guild</a>, wall between <a href="blender.html">Blender</a> and <a href="sprinklers.html">Sprinklers</a>.</li>
+<li>On the side of snow platform behind <a href="polar-bear.html">Polar Bear</a>.</li>
+<li>To the right from <a href="robo-bear.html">Robo Bear</a>.</li>
+<li>Side of the brown slope near <a href="rose-field.html">Rose Field</a>.</li>
+<li>On the back side of the Honey Bee Gate, by the cactus.</li>
+<li>In <a href="red-hq.html">Red HQ</a>, behind ladder.</li>
+<li>Entrance of the Diamond Mask parkour.</li>
+<li>Inside the <a href="badge-bearer-s-guild.html">Badge Bearer's Guild</a>, behind the Ace Badge Honeycomb shop.</li>
+<li>Next to <a href="honey-bee.html">Honey Bee</a>, hidden behind a pine tree.</li>
+<li>Hidden behind or next to the <a href="red-teleporter.html">Red Teleporter</a> inside <a href="red-hq.html">Red HQ</a>.</li>
+<li>Hidden between the <a href="honey-bee-gate.html">Honey Bee Gate</a> and the small pine tree besides it.</li>
+<li>On the left side of <a href="red-hq.html">Red HQ</a>'s roof.</li>
+</ul>
 
 ### 20 Bee Zone
 
-<table class="article-table">
-<tbody><tr>
-<td><figure class="thumb" style="width: 250px" typeof="mw:File/Thumb">  <figcaption class="thumbcaption"> <p class="caption">Behind <a href="ant-field.html">Ant Field</a> challenge building.</p> </figcaption> </figure>
-</td>
-<td><figure class="thumb" style="width: 250px" typeof="mw:File/Thumb">  <figcaption class="thumbcaption"> <p class="caption">Next to <a href="ant-challenge-info.html">Ant Challenge Info</a> sign.</p> </figcaption> </figure>
-</td>
-<td><figure class="thumb" style="width: 250px" typeof="mw:File/Thumb">  <figcaption class="thumbcaption"> <p class="caption">On the right side of the <a href="hive-hub.html">Hive Hub</a> portal.</p> </figcaption> </figure>
-</td></tr>
-<tr>
-<td><figure class="thumb" style="width: 250px" typeof="mw:File/Thumb">  <figcaption class="thumbcaption"> <p class="caption">On the left side of the gate, next to the <a href="stinger-shop.html">Stinger Shop</a>.</p> </figcaption> </figure>
-</td>
-<td><figure class="thumb" style="width: 250px" typeof="mw:File/Thumb">  <figcaption class="thumbcaption"> <p class="caption">In the tunnel behind the Top Ant Exterminators leaderboard.</p> </figcaption> </figure>
-</td></tr></tbody></table>
+<ul>
+<li>Behind <a href="ant-field.html">Ant Field</a> challenge building.</li>
+<li>Next to <a href="ant-challenge-info.html">Ant Challenge Info</a> sign.</li>
+<li>On the right side of the <a href="hive-hub.html">Hive Hub</a> portal.</li>
+<li>On the left side of the gate, next to the <a href="stinger-shop.html">Stinger Shop</a>.</li>
+<li>In the tunnel behind the Top Ant Exterminators leaderboard.</li>
+</ul>
 
 ### 25 Bee Zone
 
-<table class="article-table">
-<tbody><tr>
-<td><figure class="thumb" style="width: 250px" typeof="mw:File/Thumb">  <figcaption class="thumbcaption"> <p class="caption">Inside <a href="mountain-top-shop.html">Mountain Top Shop</a>, on walls.</p> </figcaption> </figure>
-</td>
-<td><figure class="thumb" style="width: 250px" typeof="mw:File/Thumb">  <figcaption class="thumbcaption"> <p class="caption">On the side of the platform below <a href="sticker-printer.html">Sticker Printer</a> platform.</p> </figcaption> </figure>
-</td>
-<td><figure class="thumb" style="width: 250px" typeof="mw:File/Thumb">  <figcaption class="thumbcaption"> <p class="caption">On the side of <a href="instant-converter.html">Instant Converter</a> platform.</p> </figcaption> </figure>
-</td></tr>
-<tr>
-<td><figure class="thumb" style="width: 250px" typeof="mw:File/Thumb">  <figcaption class="thumbcaption"> <p class="caption">Right side of the <a href="mountain-top-field.html">Mountain Top Field</a>.</p> </figcaption> </figure>
-</td>
-<td><figure class="thumb" style="width: 250px" typeof="mw:File/Thumb">  <figcaption class="thumbcaption"> <p class="caption">Behind <a href="ticket-shop.html">Ticket Shop</a>.</p> </figcaption> </figure>
-</td>
-<td><figure class="thumb" style="width: 250px" typeof="mw:File/Thumb">  <figcaption class="thumbcaption"> <p class="caption">On a wall, near the entrance of <a href="mountain-top-shop.html">Mountain Top Shop</a>.</p> </figcaption> </figure>
-</td></tr></tbody></table>
+<ul>
+<li>Inside <a href="mountain-top-shop.html">Mountain Top Shop</a>, on walls.</li>
+<li>On the side of the platform below <a href="sticker-printer.html">Sticker Printer</a> platform.</li>
+<li>On the side of <a href="instant-converter.html">Instant Converter</a> platform.</li>
+<li>Right side of the <a href="mountain-top-field.html">Mountain Top Field</a>.</li>
+<li>Behind <a href="ticket-shop.html">Ticket Shop</a>.</li>
+<li>On a wall, near the entrance of <a href="mountain-top-shop.html">Mountain Top Shop</a>.</li>
+</ul>
 
 ### 30 Bee Zone
 
-<table class="article-table">
-<tbody><tr>
-<td><figure class="thumb" style="width: 250px" typeof="mw:File/Thumb">  <figcaption class="thumbcaption"> <p class="caption">In front of <a href="nectar-pot.html">Nectar Pot</a></p> </figcaption> </figure>
-</td>
-<td><figure class="thumb" style="width: 250px" typeof="mw:File/Thumb">  <figcaption class="thumbcaption"> <p class="caption">In front of <a href="robo-pass-dispenser.html">Robo Pass Dispenser</a>.</p> </figcaption> </figure>
-</td>
-<td><figure class="thumb" style="width: 250px" typeof="mw:File/Thumb">  <figcaption class="thumbcaption"> <p class="caption">Wall next to <a href="bubble-bee-man.html">Bubble Bee Man</a>.</p> </figcaption> </figure>
-</td></tr>
-<tr>
-<td><figure class="thumb" style="width: 250px" typeof="mw:File/Thumb">  <figcaption class="thumbcaption"> <p class="caption">Behind <a href="onett.html">Onett</a>.</p> </figcaption> </figure>
-</td>
-<td><figure class="thumb" style="width: 250px" typeof="mw:File/Thumb">  <figcaption class="thumbcaption"> <p class="caption">On the side of the floor, near the <a href="robo-pass-dispenser.html">Robo Pass Dispenser</a>.</p> </figcaption> </figure>
-</td>
-<td><figure class="thumb" style="width: 250px" typeof="mw:File/Thumb">  <figcaption class="thumbcaption"> <p class="caption">On the wall, near the edge of Onett's platform.</p> </figcaption> </figure>
-</td></tr></tbody></table>
+<ul>
+<li>In front of <a href="nectar-pot.html">Nectar Pot</a></li>
+<li>In front of <a href="robo-pass-dispenser.html">Robo Pass Dispenser</a>.</li>
+<li>Wall next to <a href="bubble-bee-man.html">Bubble Bee Man</a>.</li>
+<li>Behind <a href="onett.html">Onett</a>.</li>
+<li>On the side of the floor, near the <a href="robo-pass-dispenser.html">Robo Pass Dispenser</a>.</li>
+<li>On the wall, near the edge of Onett's platform.</li>
+</ul>
 
 ### 35 Bee Zone
 
-<table class="article-table">
-<tbody><tr>
-<td><figure class="thumb" style="width: 250px" typeof="mw:File/Thumb">  <figcaption class="thumbcaption"> <p class="caption">Left wall right behind <a href="windy-bee-gate.html">Windy Bee Gate</a>.</p> </figcaption> </figure>
-</td>
-<td><figure class="thumb" style="width: 250px" typeof="mw:File/Thumb">  <figcaption class="thumbcaption"> <p class="caption">On the side of <a href="pepper-patch.html">Pepper Patch</a> platform.</p> </figcaption> </figure>
-</td>
-<td><figure class="thumb" style="width: 250px" typeof="mw:File/Thumb">  <figcaption class="thumbcaption"> <p class="caption">On the left side of <a href="wind-shrine.html">Wind Shrine</a> platform.</p> </figcaption> </figure>
-</td></tr>
-<tr>
-<td><figure class="thumb" style="width: 250px" typeof="mw:File/Thumb">  <figcaption class="thumbcaption"> <p class="caption">On the right wall inside of the coconut cave.</p> </figcaption> </figure>
-</td>
-<td><figure class="thumb" style="width: 250px" typeof="mw:File/Thumb">  <figcaption class="thumbcaption"> <p class="caption">On the back side of the <a href="petal-shop.html">Petal Shop</a> entrance.</p> </figcaption> </figure>
-</td>
-<td><figure class="thumb" style="width: 250px" typeof="mw:File/Thumb">  <figcaption class="thumbcaption"> <p class="caption">Behind the Petal Shop.</p> </figcaption> </figure>
-</td></tr>
-<tr>
-<td><figure class="thumb" style="width: 250px" typeof="mw:File/Thumb">  <figcaption class="thumbcaption"> <p class="caption">On the right side of the <a href="wind-shrine.html">Wind Shrine</a> platform, behind the <a href="nectar-condenser.html">Nectar Condenser</a>.</p> </figcaption> </figure>
-</td>
-<td><figure class="thumb" style="width: 250px" typeof="mw:File/Thumb">  <figcaption class="thumbcaption"> <p class="caption">Right wall beside the <a href="coconut-field.html">Coconut Field</a>.</p> </figcaption> </figure>
-</td>
-<td><figure class="thumb" style="width: 250px" typeof="mw:File/Thumb">  <figcaption class="thumbcaption"> <p class="caption">On the left side of <a href="red-hq.html">Red HQ</a> roof.</p> </figcaption> </figure>
-</td></tr></tbody></table>
+<ul>
+<li>Left wall right behind <a href="windy-bee-gate.html">Windy Bee Gate</a>.</li>
+<li>On the side of <a href="pepper-patch.html">Pepper Patch</a> platform.</li>
+<li>On the left side of <a href="wind-shrine.html">Wind Shrine</a> platform.</li>
+<li>On the right wall inside of the coconut cave.</li>
+<li>On the back side of the <a href="petal-shop.html">Petal Shop</a> entrance.</li>
+<li>Behind the Petal Shop.</li>
+<li>On the right side of the <a href="wind-shrine.html">Wind Shrine</a> platform, behind the <a href="nectar-condenser.html">Nectar Condenser</a>.</li>
+<li>Right wall beside the <a href="coconut-field.html">Coconut Field</a>.</li>
+<li>On the left side of <a href="red-hq.html">Red HQ</a> roof.</li>
+</ul>
 
 ## Player Spread
 
@@ -13102,7 +12989,7 @@ These groups are, as of the time of writing:
 
   
 
-<figure class="thumb" style="width: 180px" typeof="mw:File/Thumb">  <figcaption class="thumbcaption"> <p class="caption">Onett confirming it won't spawn in the Mushroom Field.</p> </figcaption> </figure>
+
 
   * This is likely due to the stems possibly obstructing the selected flower.
 * The [Chef Hat Polar Bear] and [Fork and Knife] Stickers are able to be spawned by Polar Bear together, and they will always spawn in separate fields.

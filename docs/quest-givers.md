@@ -7,7 +7,7 @@ tags: ["Bears", "Quest Bees", "NPC"]
 
 ![Quest Givers](img/Quest_Givers.png){ align=right width=150 }
 
-<figure class="thumb" style="width: 180px" typeof="mw:File/Thumb">  <figcaption class="thumbcaption"> <p class="caption">The exclamation mark that appears when a quest giver has a quest ready to complete or give out.</p> </figcaption> </figure>
+
 
 **Quest Givers** are interactive NPC characters who give [quests](quests.md) to the player to complete. In return, they give various rewards upon completion. There are a total of 13 quest givers in-game, excluding traveling quest givers.
 

@@ -1463,7 +1463,7 @@ Fantastic! With these, I believe I should be able to get the lights working. Jus
 * Science Bear is the only bear to give [translators](translator.md).
 * Science Bear originally had 11 quests, which was increased to 16 in the 2018-04-27 update. This was bumped up to 26 in the 2018-11-25 update. Subsequently, it rose to 31 in the 2018-12-19 update.
 
-<figure class="thumb" style="width: 309px" typeof="mw:File/Thumb">  <figcaption class="thumbcaption"> <p class="caption">The rewards the player get if **they had completed Epistemological Endeavor before the nerf.</p> </figcaption> </figure>
+
 
 * A few of his quests have gotten nerfs over the game's lifespan.
   * The quest "Epistemological Endeavor" was nerfed in the 2019-04-05 update.

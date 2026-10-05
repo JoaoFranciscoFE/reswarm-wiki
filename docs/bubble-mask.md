@@ -52,7 +52,7 @@ The **Bubble Mask** is a hat accessory that can be bought at the [Blue HQ](blue-
 * [+Passive: Bubble Bombs](passive-abilities.md#Bubble_Bombs)
   * Every 25th [bomb ability token](ability-tokens.md#Bomb) spawns 25 [Bubbles](bubble.md) that last for 8 seconds. If a player touches them, they pop, collecting 4R/6W/8B pollen, increased by 15% per [Gifted](gifted-bee.md) blue [Bee](bees.md) type in the player's [Hive](hive.md), from 29 nearby [Flowers](flowers.md) and causes them to grow. This passive has a 2-minute cooldown.
 
-<figure class="thumb" style="width: 180px" typeof="mw:File/Thumb">  <figcaption class="thumbcaption"> <p class="caption">Bubble Bombs being activated.</p> </figcaption> </figure>
+
 
 ## Trivia
 

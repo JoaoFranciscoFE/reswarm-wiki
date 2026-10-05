@@ -142,7 +142,7 @@ It is a 22x26 field, containing 572 [flowers](flowers.md). The flowers are red a
 
   
 
-<figure class="thumb" style="width: 75px" typeof="mw:File/Thumb">  <figcaption class="thumbcaption"> <p class="caption">The Strawberry Field boost icon.</p> </figcaption> </figure>
+
 
 * Using [glitter](glitter.md) in the Strawberry Field will add 100% Strawberry Field pollen onto the current boost for 15 minutes if the boost isn't already maxed out.
 * Using [field dice](field-dice.md), [smooth dice](smooth-dice.md), or [loaded dice](loaded-dice.md) may add 100% - 300% Strawberry Field pollen for 15 minutes if the current boost isn't already maxed out and also what type of dice is used.
