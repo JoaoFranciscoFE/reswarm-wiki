@@ -5,6 +5,8 @@ tags: ["Bears", "NPC"]
 
 # Shadow Bear
 
+![Shadow Bear, with the Diamond Egg token spot in front of it.](img/places/Shadow_Bear_with_the_Diamond_Egg_spot.png){ .wiki-photo }
+
 
 
 **Shadow Bear** is located inside the [30 Bee Area](bear-gate.md), under the platform where [Onett](onett.md) is. It is floating just above the floor, similar to [Gummy Bear](gummy-bear.md). There is a [Diamond Egg](egg.md#Diamond_Egg) token in front of it. Unfortunately, the floor around it is made of a shadow substance that kills you instantly, no matter how much [defense](system-page.md#Defense) you have.

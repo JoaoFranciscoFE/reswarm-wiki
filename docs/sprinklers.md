@@ -5,6 +5,8 @@ tags: ["Items", "Inventory", "Sprinklers"]
 
 # Sprinklers
 
+![All five sprinklers in the Badge Bearer&#x27;s Guild.](img/places/Sprinklers_on_the_Badge_Bearer's_Guild_shelf.png){ .wiki-photo }
+
 Sprinklers
 
 *"Use while standing in flowers to place a Sprinkler."*

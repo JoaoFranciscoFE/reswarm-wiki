@@ -19,6 +19,8 @@ The **Sticker-Seeker Quest Machine** is a [quest giver](quest-givers.md) in the 
 
 Similar to [Brown Bear](brown-bear.md), [Polar Bear](polar-bear.md), [Honey Bee](honey-bee-npc.md), [Gifted Riley Bee](gifted-riley-bee.md), and [Gifted Bucko Bee](gifted-bucko-bee.md), it can give infinite quests, with extra rewards at certain milestones, up to the 1000th quest.
 
+<figure class="mw-halign-center" style="text-align:center"><img alt="" src="img/places/Sticker-Seeker_Quest_Machine.png" width="480"/><figcaption>The Sticker-Seeker Quest Machine and its leaderboard.</figcaption></figure>
+
 ## Ranks
 
 A player's rank is the amount of Sticker-Seeker Quest Machine's quests they have completed. Ranks are also the way the Top Sticker-Seekers leaderboard is measured, and increases every time a player completes a quest. The higher the rank, the better the rewards. For example, a player is more likely to get Sticker Planters when they have achieved further ranks than players with a Rank of 5. Quest requirement amounts also scale to the ranks.

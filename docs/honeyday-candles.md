@@ -5,6 +5,8 @@ tags: ["Beesmas", "Locations", "Machines", "Summoner", "Beesmas Decorations"]
 
 # Honeyday Candles
 
+![The Honeyday Candles.](img/places/Honeyday_Candles.png){ .wiki-photo }
+
 This piece of content goes bye bye.
 
 The following content has been removed from the game. The contents below may be archival, but feel free to edit below.

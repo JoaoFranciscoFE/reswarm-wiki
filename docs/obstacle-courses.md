@@ -5,6 +5,8 @@ tags: ["Locations"]
 
 # Obstacle Courses
 
+![The Mushroom Field obstacle course.](img/places/Royal_Jelly_token_at_the_end_of_the_Mushroom_Field_obby.png){ .wiki-photo }
+
 **Obstacle Courses**, sometimes referred to as "obbies" for short, are short platforming challenges. Several of these exist on the main map, each having a reward or a shop at the end. Some are easy, while others are challenging. It gives the player something to do and helps them by rewarding the player with several [items](items.md) such as [tickets](ticket.md), royal jelly, or even a star jelly. There are also obstacle courses that lead to certain masks that the player can purchase.
 
 ## Mushroom Field Obby

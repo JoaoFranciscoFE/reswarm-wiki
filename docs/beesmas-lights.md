@@ -19,6 +19,8 @@ They fall from the sky in a similar way to the [Star Shower passive](passive-abi
 
 If the player approaches the switch for the Beesmas Lights, located beside [Science Bear](science-bear.md) and has not yet completed his quest, a text box will display reading the following text: "This [*sic*] Beesmas Lights aren't powering on..."
 
+<figure class="mw-halign-center" style="text-align:center"><img alt="" src="img/places/Beesmas_Lights_switch.png" width="480"/><figcaption>The Beesmas Lights switch.</figcaption></figure>
+
 ## Trivia
 
 * The Beesmas Lights has the same function as the [Star Shower passive](passive-abilities.md#Star_Shower) with the difference of the fact that the star shower is more focused in a small area than Beesmas Lights.

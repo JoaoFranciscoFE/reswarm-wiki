@@ -22,6 +22,8 @@ The Honey Wreath can be upgraded by completing Honey Bee's Beesmas quest, "Honey
 If the player attempts to use the Honey Wreath before it is decorated, it will display text reading:
 This Wreath looks frankly uninspired...
 
+<figure class="mw-halign-center" style="text-align:center"><img alt="" src="img/places/Honey_Wreath.png" width="480"/><figcaption>The Honey Wreath.</figcaption></figure>
+
 ## Appearance
 
 Before completing Black Bear's quest, it looks like an ordinary wreath. After completing the "Black Bear's Honey Wreath" quest, the wreath is decorated with honey icons and the Flight of the Bumble Egg. After the player completes Honey Bee's "Honey Bee's Honey Wreath?" quest, it changes to have a Gifted [Honey Bee](honey-bee.md) face in the center of the wreath.

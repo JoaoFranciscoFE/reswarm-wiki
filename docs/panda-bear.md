@@ -87,6 +87,8 @@ He is the fourth quest bear that the player can reach. His [quests](quests.md) f
 
 Panda Bear can be reached through many methods. One option is to climb the ladder on the side of the platform, closest to the [Blue HQ](blue-hq.md). If the player has enough [Jump Power](system-page.md#Jump_Power), they can jump onto the platform without climbing the ladder. Another method is to jump on the Gumdrop Shop and then up to Panda Bear.
 
+<figure class="mw-halign-center" style="text-align:center"><img alt="" src="img/places/Panda_Bear_by_the_Bamboo_Field.png" width="480"/><figcaption>Panda Bear near the Bamboo Field.</figcaption></figure>
+
 ## Quests
 
 ### Silver Egg Quests (8)
