@@ -1,6 +1,6 @@
 ---
 title: "Puffshroom"
-tags: ["Passive Mobs", "Mobs"]
+tags: ["Passive Mobs", "Mobs", "Painter Bee Event", "Re://:Swarm"]
 ---
 
 # Puffshroom
@@ -16,7 +16,7 @@ tags: ["Passive Mobs", "Mobs"]
 * Epic (Gold/Yellow Cap, Pale Yellow Stem, very rare).
 * Legendary (Light/Pale Blue Cap, Baby Blue Stem, extremely rare).
 * Mythic (Purple Cap, Pale Purple Stem, exceptionally rare).
-* [Supreme](supreme-puffshroom.md) (Re://:Swarm only, above Mythic).
+* [Supreme](#supreme-puffshroom) (Re://:Swarm only, above Mythic).
 
 Once spawned, the first (or the main) Puffshroom will last 5 minutes before naturally despawning — a timer is shown above the pushroom that displays the time left to defeat it. Players are required to collect a certain amount of pollen (indicated by the pollen meter) within its vicinity until the meter is full. When the Puffshroom is defeated, it drops loot and turns into concentrated spores to spread to different fields. The loot is separate for all players, meaning that one player will not have the same as the other. The quality of the loot depends on the type, level, and the damage dealt to the Puffshroom before its defeat — if the player has not dealt enough damage to it, it will only drop treats and honey.
 
@@ -438,6 +438,21 @@ Levels required for the rarity to gain a chance to spawn:
 </td>
 <td>4,702,095,685,000
 </td></tr></tbody></table>
+
+## Supreme Puffshroom
+
+The **Supreme Puffshroom** is a Puffshroom rarity added in the [Painter Bee event](painter-bee-event.md). It ranks above Mythic, making it the rarest Puffshroom.
+
+A Puffshroom has to be at least **level 15** before it can become Supreme. For comparison, Mythic needs level 12.
+
+### Supreme drops
+
+* [Fluxite Wax](fluxite-wax.md) (1 in 10). Loot multipliers do not change this chance.
+* Supreme Puffshroom sticker (1 in 100). It is one of the [Painter stickers](painter-stickers.md). Stacking it gives +1% Bee Ability Rate and 5 Neonberry.
+
+### Hiding Puffshrooms
+
+The "Hide Puffs Below" performance setting (Rare, Epic, Legendary or Mythic) hides Puffshrooms below the chosen rarity, and their spores in fields too.
 
 ## Spawning
 

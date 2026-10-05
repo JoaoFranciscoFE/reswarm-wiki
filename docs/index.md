@@ -19,7 +19,7 @@ The community encyclopedia for **[Re://:Swarm](re-swarm.md)**: hatch bees, colle
 
 ## Latest update
 
-🎨 The [Painter Bee event](painter-bee-event.md) is live: meet the new [Painter Bee](painter-bee.md), collect the [Painter stickers](painter-stickers.md), and hunt [Supreme Puffshrooms](supreme-puffshroom.md) for [Fluxite Wax](fluxite-wax.md). See the [Update Logs](update-logs.md) for every update.
+🎨 The [Painter Bee event](painter-bee-event.md) is live: meet the new [Painter Bee](painter-bee.md), collect the [Painter stickers](painter-stickers.md), and hunt [Supreme Puffshrooms](puffshroom.md#supreme-puffshroom) for [Fluxite Wax](fluxite-wax.md). See the [Update Logs](update-logs.md) for every update.
 
 ## New to the game?
 

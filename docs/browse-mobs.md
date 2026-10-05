@@ -6,7 +6,7 @@ hide:
 
 # Mobs
 
-All 44 pages in Mobs.
+All 43 pages in Mobs.
 
 <div class="wiki-cards">
 <a class="wiki-card" href="ant.html"><img src="img/Fire_Ant.png" alt="" loading="lazy"><span>Ant</span></a>
@@ -49,7 +49,6 @@ All 44 pages in Mobs.
 <a class="wiki-card" href="stick-bug.html"><img src="img/Stick_Bug.png" alt="" loading="lazy"><span>Stick Bug</span></a>
 <a class="wiki-card" href="stick-nymph.html"><img src="img/Walking_Stick_Nymph.png" alt="" loading="lazy"><span>Stick Nymph</span></a>
 <a class="wiki-card" href="stump-snail.html"><img src="img/Right_Facing_Stump_Snail.png" alt="" loading="lazy"><span>Stump Snail</span></a>
-<a class="wiki-card" href="supreme-puffshroom.html"><img src="img/Supreme_Puffshroom.png" alt="" loading="lazy"><span>Supreme Puffshroom</span></a>
 <a class="wiki-card" href="tunnel-bear.html"><img src="img/Tunnel_Bear.png" alt="" loading="lazy"><span>Tunnel Bear</span></a>
 <a class="wiki-card wiki-card--noicon" href="werewolf.html"><img src="images/no-icon.svg" alt="" loading="lazy"><span>Werewolf</span></a>
 <a class="wiki-card" href="wild-windy-bee.html"><img src="img/Wild_Windy_Bee.png" alt="" loading="lazy"><span>Wild Windy Bee</span></a>
