@@ -356,7 +356,7 @@ A **Paper Angel** is a [level](bond.md) 8 Beesmas [beequip](beequip.md). It has 
 
 * As a rare drop from [Onett's Lid Art](onett-s-lid-art.md).
 * As a reward for reaching Rebirth 28.
-* From the Crafty Gift Box (see [Gift Boxes/2025](gift-boxes-2025.md)), once you have helped enough characters decorate.
+* From the Crafty Gift Box (see [Gift Boxes](gift-boxes.md#2025)), once you have helped enough characters decorate.
 
 <table class="mw-collapsible autocollapse" style="margin:auto; background:#000; font-size: 10pt; border:5px solid #56CB5A; width: 100%; border-radius: 20px; -moz-border-radius: 20px; -webkit-border-radius: 20px; -khtml-border-radius: 20px; -icab-border-radius: 20px; -o-border-radius: 20px;">
 <tbody><tr>

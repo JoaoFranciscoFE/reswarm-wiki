@@ -407,7 +407,7 @@ A **Poinsettia** is a [level](bond.md) 6 Beesmas [beequip](beequip.md). It has a
 
 ## Ways To Obtain
 
-* In the Poinsettia Bundle from [Bee Bear's Catalog 2025](bee-bear-s-catalog-2025.md), bought with Gingerbread Bears.
+* In the Poinsettia Bundle from [Bee Bear's Catalog](bee-bear-s-catalog.md#2025), bought with Gingerbread Bears.
 * As a reward from the [Ant Challenge](ant-challenge.md).
 
 ## Trivia

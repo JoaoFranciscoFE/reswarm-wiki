@@ -518,7 +518,7 @@ A **Beesmas Top** is a [level](bond.md) 4 Beesmas [beequip](beequip.md). It has 
 ## Ways to Obtain
 
 * As a drop from the [Stockings](stockings.md).
-* From the Playful Gift Box (see [Gift Boxes/2025](gift-boxes-2025.md)), once you have helped enough characters decorate.
+* From the Playful Gift Box (see [Gift Boxes](gift-boxes.md#2025)), once you have helped enough characters decorate.
 
 ## Trivia
 

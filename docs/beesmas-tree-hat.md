@@ -605,7 +605,7 @@ A **Beesmas Tree Hat** is a [level](bond.md) 10 Beesmas [beequip](beequip.md). I
 ## Ways to Obtain
 
 * As an exceptionally rare drop from the [Stockings](stockings.md).
-* In the Radioactive Bundle from [Bee Bear's Catalog 2025](bee-bear-s-catalog-2025.md), bought with Gingerbread Bears.
+* In the Radioactive Bundle from [Bee Bear's Catalog](bee-bear-s-catalog.md#2025), bought with Gingerbread Bears.
 
 ## Trivia
 

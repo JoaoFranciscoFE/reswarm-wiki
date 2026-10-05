@@ -284,7 +284,7 @@ A **Snowglobe** is a [level](bond.md) 7 Beesmas [beequip](beequip.md). It has an
 
 ## Ways to Obtain
 
-* In the Super Snowman Bundle from [Bee Bear's Catalog 2025](bee-bear-s-catalog-2025.md), bought with Gingerbread Bears.
+* In the Super Snowman Bundle from [Bee Bear's Catalog](bee-bear-s-catalog.md#2025), bought with Gingerbread Bears.
 * As a drop from the [Mondo Chick](mondo-chick.md).
 
 ## Trivia
