@@ -439,7 +439,6 @@ nav:
       - "The Planter Of Plenty": the-planter-of-plenty.md
   - "Update Logs":
       - update-logs.md
-      - "Oct 4, 2026: Treat amounts": update-log-2026-10-04.md
       - "Oct 3, 2026: Bee levels, sticker inventory and fixes": update-log-2026-10-03.md
       - "Oct 2, 2026: Painter Bee update": update-log-2026-10-02.md
       - "Painter Bee Event":
@@ -464,7 +463,7 @@ nav:
       - "Aug 31, 2026: Audio": update-log-2026-08-31.md
       - "Aug 30, 2026: Bloom Shaker and leaderboards": update-log-2026-08-30.md
       - "Aug 28, 2026: Rename and fixes": update-log-2026-08-28.md
-      - "Aug 26, 2026: SSA locking": update-log-2026-08-26.md
+      - "Aug 26, 2026: SSA locking and treat amounts": update-log-2026-08-26.md
   - "Mechanics":
       - browse-mechanics.md
       - "Ability Tokens": ability-tokens.md

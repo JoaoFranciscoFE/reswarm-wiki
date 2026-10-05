@@ -11,7 +11,6 @@ Every Re://:Swarm update, newest first, from the game's Discord changelog.
 The current event is the [Painter Bee Event](painter-bee-event.md).
 
 <div class="wiki-cards wiki-cards--big">
-<a class="wiki-card" href="update-log-2026-10-04.html"><img src="img/Treat.png" alt="" loading="lazy"><span>Treat amounts</span><small>October 4, 2026</small></a>
 <a class="wiki-card" href="update-log-2026-10-03.html"><img src="img/Sticker.png" alt="" loading="lazy"><span>Bee levels, sticker inventory and fixes</span><small>October 3, 2026</small></a>
 <a class="wiki-card" href="update-log-2026-10-02.html"><img src="img/Painter_Bee_Event.png" alt="" loading="lazy"><span>Painter Bee update</span><small>October 2, 2026</small></a>
 <a class="wiki-card" href="update-log-2026-09-29.html"><img src="img/Supreme_Star_Amulet.png" alt="" loading="lazy"><span>SSA locking on mobile</span><small>September 29, 2026</small></a>
@@ -31,5 +30,5 @@ The current event is the [Painter Bee Event](painter-bee-event.md).
 <a class="wiki-card" href="update-log-2026-08-31.html"><img src="img/Music.png" alt="" loading="lazy"><span>Audio</span><small>August 31, 2026</small></a>
 <a class="wiki-card" href="update-log-2026-08-30.html"><img src="img/Bloom_Shaker.png" alt="" loading="lazy"><span>Bloom Shaker and leaderboards</span><small>August 30, 2026</small></a>
 <a class="wiki-card" href="update-log-2026-08-28.html"><img src="images/game-icon.png" alt="" loading="lazy"><span>Rename and fixes</span><small>August 28, 2026</small></a>
-<a class="wiki-card" href="update-log-2026-08-26.html"><img src="img/Star_Amulet.png" alt="" loading="lazy"><span>SSA locking</span><small>August 26, 2026</small></a>
+<a class="wiki-card" href="update-log-2026-08-26.html"><img src="img/Star_Amulet.png" alt="" loading="lazy"><span>SSA locking and treat amounts</span><small>August 26, 2026</small></a>
 </div>
