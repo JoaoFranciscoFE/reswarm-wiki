@@ -7,7 +7,7 @@ tags: ["Locations", "Starter Zone"]
 
 ![Commando Chick's Hideout](img/Commando_Chick's_Hideout.png){ align=right width=150 }
 
-<figure class="thumb" style="width: 180px" typeof="mw:File/Thumb">  <figcaption class="thumbcaption"> <p class="caption">The entrance to the Commando Chick's hideout.</p> </figcaption> </figure>
+
 
 The **Commando Chick's Hideout** is a location in the [Starter Zone](starter-zone.md) that can be entered by completing the [obby](obstacle-courses.md#Commando_Chick's_Hideout_Obby) between the [Blue HQ](blue-hq.md) and the [Wealth Clock](wealth-clock.md). To enter the parkour, the player first needs to cut the vines blocking the entrance with either the [Clippers](clippers.md), [Scissors](scissors.md), [Scythe](scythe.md) or the [Dark Scythe](dark-scythe.md). It is home to the [Commando Chick](commando-chick.md).
 

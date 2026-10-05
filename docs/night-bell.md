@@ -21,7 +21,7 @@ Whenever a player activates a night bell, the sound of a bell chiming will play 
 
 🌙 {Username} has summoned nighttime... 🌙
 
-<figure class="thumb" style="width: 500px" typeof="mw:File/Thumb">  <figcaption class="thumbcaption"> <p class="caption">The server-wide message when a player in the server uses a night bell.</p> </figcaption> </figure>
+
 
 Upon using a night bell, the server will receive the public announcement above, along with the following sound file below.
 

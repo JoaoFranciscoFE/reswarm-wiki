@@ -5,7 +5,7 @@ tags: ["Mechanics"]
 
 # Movement Collection
 
-<figure class="thumb" style="width: 180px" typeof="mw:File/Thumb">  <figcaption class="thumbcaption"> <p class="caption">A moon amulet with the movement collection buff.</p> </figcaption> </figure>
+
 
 **Movement Collection** is a type of boost that allows the player to collect [pollen](pollen.md) when walking on [flowers](flowers.md). The higher the movement collection, the greater amount of pollen the player collects from walking on flowers. This boost also collects [goo](goo.md) if the player walks on any goo patches.
 

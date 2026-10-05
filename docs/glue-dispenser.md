@@ -64,7 +64,7 @@ The **Glue Dispenser** is a dispenser located in [Gummy Bear's Lair](gummy-bear-
 
   
 
-<figure class="thumb" style="width: 180px" typeof="mw:File/Thumb">  <figcaption class="thumbcaption"> <p class="caption">A player under the bottom platform of the Glue Dispenser.</p> </figcaption> </figure>
+
 
 * It is the only dispenser that requires the player to have a certain badge to access, as the Gummy Bear's Lair requires the player to have [Goo Hotshot](badges.md#Goo_Badge) or above to enter.
 * This, the [Free Ant Pass Dispenser](free-ant-pass-dispenser.md), [Ant Pass Dispenser](ant-pass-dispenser.md), [Free Robo Pass Dispenser](free-robo-pass-dispenser.md), [Robo Pass Dispenser](robo-pass-dispenser.md), and the [Coconut Dispenser](coconut-dispenser.md) are the only dispensers to not grant [haste](ability-tokens.md#Haste).

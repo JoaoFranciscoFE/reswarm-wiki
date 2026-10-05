@@ -144,7 +144,7 @@ This is a 33x23 field, containing 759 [flowers](flowers.md). The flowers are whi
 
   
 
-<figure class="thumb" style="width: 75px" typeof="mw:File/Thumb">  <figcaption class="thumbcaption"> <p class="caption">The Pineapple Patch Boost icon.</p> </figcaption> </figure>
+
 
 * Using [glitter](glitter.md) will add 100% Pineapple Patch pollen onto the current boost for 15 minutes if it isn't already maxed out.
 * Using [field dice](field-dice.md), [smooth dice](smooth-dice.md), or [loaded dice](loaded-dice.md) may add +100% - +300% Pineapple Patch pollen for 15 minutes if the current boost isn't already maxed out.

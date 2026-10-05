@@ -141,7 +141,7 @@ A level 9-12 [Rogue Vicious Bee](rogue-vicious-bee.md) has a chance to spawn her
 * Using the [Red Field Booster](red-field-booster.md) may give a Pepper [Patch Boost](field-boost.md) (only if the player has 35+ bees). When it does, it will give +100% Pepper Patch pollen for 15 minutes.
 * Using [glitter](glitter.md) will add 100% Pepper Patch pollen onto the current boost for 15 minutes if it isn't already maxed out.
 
-<figure class="thumb" style="width: 75px" typeof="mw:File/Thumb">  <figcaption class="thumbcaption"> <p class="caption">The Pepper Patch boost icon.</p> </figcaption> </figure>
+
 
 * Using [field dice](field-dice.md), [smooth dice](smooth-dice.md), or [loaded dice](loaded-dice.md) may add +100% - +300% Pepper Patch pollen for 15 minutes if the current boost isn't already maxed out.
 * Pepper Patch [Winds](field-wind.md) can be obtained through the [Wind Shrine](wind-shrine.md) or [codes](codes.md). They have a base of +20% instant Pepper Patch conversion and give +5% instant Pepper Patch conversion and +10% Pepper Patch pollen for each stack. Pepper Patch Winds can stack up to a total of 15 times.

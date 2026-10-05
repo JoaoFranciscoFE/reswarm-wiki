@@ -7,9 +7,9 @@ tags: ["Locations", "Challenges", "Ant Challenge"]
 
 ![Ant Challenge](img/Ant_Challenge.png){ align=right width=150 }
 
-<figure class="thumb" style="width: 180px" typeof="mw:File/Thumb">  <figcaption class="thumbcaption"> <p class="caption">The interior of the Ant Challenge area.</p> </figcaption> </figure>
 
-<figure class="thumb" style="width: 180px" typeof="mw:File/Thumb">  <figcaption class="thumbcaption"> <p class="caption">The exterior of the Ant Challenge area.</p> </figcaption> </figure>
+
+
 
 The **Ant Challenge** is a challenge found past the [Ant Gate](ant-gate.md), with the objective being to defeat as many ants as possible.
 
@@ -23,7 +23,7 @@ Upon entering, the remaining [pollen](pollen.md) in a player's bag is instantly 
 
 To progress, fill the meter on the anthill by gathering pollen. The amount of pollen needed to progress to the next wave starts at 4,000 and increases by at least 2,000 more than the previous requirement for each wave.
 
-<figure class="thumb" style="width: 150px" typeof="mw:File/Thumb">  <figcaption class="thumbcaption"> <p class="caption">A lawnmower during the Ant Challenge.</p> </figcaption> </figure>
+
 
 Upon reaching wave 8, the white doors on the sides will start flashing red. This indicates that a lawnmower is about to come out and pass through the lane the door directs to. Move away from the targeted lane to avoid getting damaged. Getting hit by a lawnmower deals 50 base damage.
 
@@ -156,7 +156,7 @@ If the player already has an existing Ant Amulet, they may choose to keep their 
 
   
 
-<figure class="thumb" style="width: 163px" typeof="mw:File/Thumb">  <figcaption class="thumbcaption"> <p class="caption">The Ant Challenge instant conversion buff.</p> </figcaption> </figure>
+
 
 * Upon entering the arena, the player's bag will instantly be converted, and the player will gain a boost of +100% [Instant Conversion](instant-conversion.md). The boost is represented by the [Ant Pass](ant-pass.md) icon.
   * There used to be a visual glitch that when leaving the ant challenge, the player would still have this buff. It was only a visual glitch, so the player did not actually have a +100% Instant Conversion boost active.

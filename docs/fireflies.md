@@ -5,9 +5,9 @@ tags: ["Mobs", "Passive Mobs"]
 
 # Fireflies
 
-<figure class="thumb" style="width: 251px" typeof="mw:File/Thumb">  <figcaption class="thumbcaption"> <p class="caption">Fireflies in a crescent in the <a href="strawberry-field.html">Strawberry Field</a>.</p> </figcaption> </figure>
 
-<figure class="thumb" style="width: 180px" typeof="mw:File/Thumb">  <figcaption class="thumbcaption"> <p class="caption">The model of a firefly.</p> </figcaption> </figure>
+
+
 
 **Fireflies** are passive [mobs](mobs.md) that only appear during [nighttime](day-night-cycle.md). Individually, they produce [sparkles](sparkles.md) on the [flowers](flowers.md) that they land on. Fireflies band together to generate various [items](items.md) for the player.
 

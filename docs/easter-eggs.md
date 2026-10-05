@@ -13,7 +13,7 @@ Throughout the map, plenty of **Easter Eggs** can be found. Some of them have be
 
 ## Puppy Bee with Reindeer Antlers and Festive Bee with Festive Wreath (Level 2)
 
-<figure class="thumb" style="width: 180px" typeof="mw:File/Thumb">  <figcaption class="thumbcaption"> <p class="caption">Puppy Bee with Reindeer Antlers</p> </figcaption> </figure>
+
 
 The Puppy Bee with the [Reindeer Antlers](reindeer-antlers.md) statue doesn't actually have the Antlers, but it's still called 'Puppy Bee with Reindeer Antlers' because of its nose. The Festive Bee with the [Festive Wreath](festive-wreath.md) was added when Part 2 of Beesmas 2020 came, and was right next to Puppy Bee with Reindeer Antlers.
 
@@ -24,7 +24,7 @@ You can get to this by:
 1. Using a Red Cannon in combination with the parachute/glider to glide towards here.
 2. Jump from a far distance towards here.
 
-<figure class="thumb" style="width: 325px" typeof="mw:File/Thumb">  <figcaption class="thumbcaption"> <p class="caption">Festive Bee right next to Puppy Bee</p> </figcaption> </figure>
+
 
 ## Onett Statue
 
@@ -40,7 +40,7 @@ Unlike the Onett NPC found in the [Bear Gate](bear-gate.md), he cannot be intera
 
 ## Dancing Bear / Shadow Bear
 
-<figure class="thumb" style="width: 158px" typeof="mw:File/Thumb">  <figcaption class="thumbcaption"> <p class="caption">Shadow Bear</p> </figcaption> </figure>
+
 
 Main article: [Shadow Bear](shadow-bear.md)
 
@@ -50,9 +50,9 @@ If you have enough ping, you can hold jump as the floor only kills you after a s
 
 ## Hallway Behind Badge Bearer's Guild
 
-<figure class="thumb" style="width: 180px" typeof="mw:File/Thumb">  <figcaption class="thumbcaption"> <p class="caption">The hallway.</p> </figcaption> </figure>
 
-<figure class="thumb" style="width: 180px" typeof="mw:File/Thumb">  <figcaption class="thumbcaption"> <p class="caption">The hallway seen from the outside.</p> </figcaption> </figure>
+
+
 
 There is a hallway behind the [Ace Shop](badge-bearer-s-guild.md#Ace_Shop) that is inaccessible without glitching/cheating, but can be seen inside using ROBLOX's Shift Lock feature. It leads to an entrance to the area (see Honey Void) under the game. It can also be seen by looking at the ceiling of the area. In the test realm, this path was open. This area was blocked off by a transparent wall in the main game, but the hole can still be seen using shift lock.
 
@@ -62,7 +62,7 @@ Out of bounds past the Red HQ, towards a large green wedge outside the map, ther
 
 ### Bee Hibernation
 
-<figure class="thumb" style="width: 180px" typeof="mw:File/Thumb">  <figcaption class="thumbcaption"> <p class="caption">Bees frozen when entering the entrance of the Honey Void.</p> </figcaption> </figure>
+
 
 Something interesting is that bees also appear to freeze or go under hibernation when they first enter the area, as the name of the music suggests. It should be noted that this did not exist for a majority of this area's appearance in the game. However, the bees can occasionally unfreeze if the player goes near a corner, and freeze again as the reach the player.
 
@@ -76,17 +76,17 @@ Inside the Honey Void, there is a drawing of the game. It sits roughly in the mi
 
 In the same area as the strange drawing in the honey void, there are two bee models of a Tadpole Bee and a Vector Bee. They cannot be interacted with.
 
-<figure class="thumb" style="width: 220px" typeof="mw:File/Thumb">  <figcaption class="thumbcaption"> <p class="caption">The Tadpole and Vector Bee statues.</p> </figcaption> </figure>
+
 
 ## Windy Bee and Vicious Bee Statues (Level 2)
 
 If you go out of bounds to the right of the map, you will see a Vicious Bee and Windy Bee statue that are level 2. They cannot be interacted with.
 
-<figure class="thumb" style="width: 220px" typeof="mw:File/Thumb">  <figcaption class="thumbcaption"> <p class="caption">The Vicious and Windy Bee statues.</p> </figcaption> </figure>
+
 
 ## +5 Pollen Text
 
-<figure class="thumb" style="width: 180px" typeof="mw:File/Thumb">  <figcaption class="thumbcaption"> <p class="caption">The +5 pollen text.</p> </figcaption> </figure>
+
 
 This Easter Egg is located outside the map next to the [Stump Field](stump-field.md). Behind it, there is a text decal written "+5". Since it does not float near the ground, as the area around it does not have collision enabled, it may be necessary to use the glider tool to get close.
 
@@ -94,12 +94,12 @@ This Easter Egg is located outside the map next to the [Stump Field](stump-field
 
 This room is hidden behind a wall in the [Red HQ](red-hq.md). When it was first added, the room had an unusable Red Extract dispenser. The room had a slight change in the 2021-12-26 update, and another change in the 2022-12-26 update. It cannot be accessed without the use of glitches.
 
-<figure class="thumb" style="width: 180px" typeof="mw:File/Thumb">  <figcaption class="thumbcaption"> <p class="caption">The Red Room from the outside.</p> </figcaption> </figure>
 
-<figure class="thumb" style="width: 180px" typeof="mw:File/Thumb">  <figcaption class="thumbcaption"> <p class="caption">Inside the Red Room &amp; entrance to the Red Room.</p> </figcaption> </figure>
+
+
 
 ## Red HQ Attic
 
 By going out of bounds, a hole on the back of the wall where [Red HQ](red-hq.md) would be can be found. If you fly into it, then you will be inside of the [Red HQ](red-hq.md)'s attic.
 
-<figure class="thumb" style="width: 180px" typeof="mw:File/Thumb">  <figcaption class="thumbcaption"> <p class="caption">The inside of Red HQ's attic.</p> </figcaption> </figure>
+

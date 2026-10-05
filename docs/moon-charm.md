@@ -11,7 +11,7 @@ Moon Charm
 
 *"Increases your bond with a bee by 250."*
 
-<figure class="thumb mw-halign-right" style="width: 220px" typeof="mw:File/Thumb">  <figcaption class="thumbcaption"> <p class="caption">The two types of moon charm tokens: On the left, there is a token that is not glowing, dropped by mobs or mythic meteors. On the right, there is a glowing variant that is dropped during nighttime from fireflies, sparkles, and moon sprouts.</p> </figcaption> </figure>
+
 
 A **Moon Charm**, when fed to a [bee](bees.md), raises its [bond](bond.md) by 250. Moon Charms are also used in generating [Moon Amulets](moon-amulet.md) and they are used in crafting of [glitter](glitter.md) and the [Helmet](helmet.md). If fed to a [radioactive](radiation.md) bee, it has a 1/2,500 (0.04%) chance to give that bee a [mutation](mutation.md).
 

@@ -138,7 +138,7 @@ This field can spawn [honey](honey.md), [blueberry](blueberry.md), [ticket](tic
 
 ## Obtaining Boosts
 
-<figure class="thumb" style="width: 75px" typeof="mw:File/Thumb">  <figcaption class="thumbcaption"> <p class="caption">The Bamboo Field Boost icon.</p> </figcaption> </figure>
+
 
 * Using the [Blue Field Booster](blue-field-booster.md) may give a Bamboo [Field Boost](field-boost.md). When it does, it will give +100% Bamboo Field pollen for 15 minutes.
 * Using [Glitter](glitter.md) will add 100% Bamboo Field pollen onto the current boost for 15 minutes if the boost isn't already maxed out.

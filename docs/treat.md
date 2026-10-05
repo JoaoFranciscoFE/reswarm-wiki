@@ -13,7 +13,7 @@ Treat
 
 A **Treat** is a type of [treat](treats.md) that can be fed to a [bee](bees.md) to raise its bond by 10. They are the easiest **treat** to obtain but are not the favorite treat of any bee. They can also be used to craft the [Honey Mask](honey-mask.md) where 9,999 **treats** are needed.
 
-<figure class="thumb" style="width: 180px" typeof="mw:File/Thumb">  <figcaption class="thumbcaption"> <p class="caption">A treat token.</p> </figcaption> </figure>
+<figure class="mw-halign-center" style="text-align:center"><img alt="treat" src="img/Treat.png" width="60"/><figcaption><p class="caption">A treat token.</p></figcaption></figure>
 
 ## Ways to Obtain
 

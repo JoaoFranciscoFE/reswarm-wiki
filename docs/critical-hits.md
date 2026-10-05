@@ -22,7 +22,7 @@ The #Trivia stats need updating.
 
 *The animation of a critical hit when attacking.*
 
-<figure class="thumb" style="width: 180px" typeof="mw:File/Thumb">  <figcaption class="thumbcaption"> <p class="caption">The Critical Chance, Critical Power, Super-Crit Chance, and Super-Crit Power stats in the System Page.</p> </figcaption> </figure>
+
 
 You can see the stats for all critical hit statistics in the [System Page](system-page.md).
 

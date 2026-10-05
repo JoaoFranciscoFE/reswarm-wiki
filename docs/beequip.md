@@ -13,13 +13,13 @@ Due to the nature of the information, details may be inaccurate or outdated.
 
 Datamined information: How Beequips work internally. — March 18th, 2026
 
-<figure class="thumb" style="width: 180px" typeof="mw:File/Thumb">  <figcaption class="thumbcaption"> <p class="caption">A Bear Bee with a Pinecone beequip.</p> </figcaption> </figure>
+
 
 A **beequip** is a type of inventory item that can be worn by [bees](bees.md). When equipped to a bee, they alter its stats and can also give bonuses to the hive. Beequips can only be given to bees that are at or above the level of the beequip. Some beequips can only be given to certain bees or types of bees - for example, the [Bubble Light](bubble-light.md) requires a bee with an energy [mutation](mutation.md).
 
 ## Beequip Case
 
-<figure class="thumb" style="width: 100px" typeof="mw:File/Thumb">  <figcaption class="thumbcaption"> <p class="caption">The <strong class="mw-selflink selflink"><span class="color-template color-template-beequip-case color-template-background-clip">Beequip Case</span></strong>.</p> </figcaption> </figure>
+
 
 When a beequip is obtained, they are initially stored in a **Beequip Case**. Beequips in a case can be given to bees by dragging the beequip to a hive slot, or moved between the case, storage, and inbox.
 
@@ -29,9 +29,9 @@ Opening the Beequip Case allows the player to see all equipped Beequips on every
 
 ## Beequip Storage
 
-<figure class="thumb" style="width: 100px" typeof="mw:File/Thumb">  <figcaption class="thumbcaption"> <p class="caption">The Beequip Storage.</p> </figcaption> </figure>
 
-<figure class="thumb" style="width: 180px" typeof="mw:File/Thumb">  <figcaption class="thumbcaption"> <p class="caption">The quest reward icon for the Beequip Storage.</p> </figcaption> </figure>
+
+
 
 If all the slots of the beequip case are filled, or if the player have not gotten a Beequip Case, Beequips are moved to the Beequip Storage, located near the [Dandelion Field](dandelion-field.md), or the [Public Sticker Board](public-sticker-board.md) in the Hive Hub. Beequips in the storage *cannot* be given to bees.
 

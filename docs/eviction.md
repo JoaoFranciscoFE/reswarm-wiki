@@ -27,7 +27,7 @@ The **Eviction** was an inventory item that used to be purchasable in the [Mount
 
 **Evictions** were mainly used to remove bees and replace them with [eggs](egg.md) if the player couldn't afford a [Hive Slot](hive-slot.md), taking note that eggs could not be placed on hive slots with a bee in the game version that had evictions.
 
-<figure class="thumb" style="width: 210px" typeof="mw:File/Thumb">  <figcaption class="thumbcaption"> <p class="caption">The Eviction Shop in the Mountain Top Shop.</p> </figcaption> </figure>
+
 
 Evicting a bee would completely reset the hive slot, meaning that the bee's [bond](bond.md), level, and [gifted](gifted-bee.md) status, would be reset, so if a new egg were hatched, the new bee would have started at level 1. The previous bee will not affect the bee type or gifted status of the new bee.
 

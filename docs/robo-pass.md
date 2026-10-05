@@ -19,9 +19,9 @@ CAP
 
 10
 
-<figure class="thumb" style="width: 180px" typeof="mw:File/Thumb">  <figcaption class="thumbcaption"> <p class="caption">The free Robo Dispenser (22 hour cooldown per Robo Pass)</p> </figcaption> </figure>
+<figure class="mw-halign-center" style="text-align:center"><img alt="" src="img/places/Free_Robo_Pass_Dispenser.png" width="320"/><figcaption><p class="caption">The free Robo Dispenser (22 hour cooldown per Robo Pass)</p></figcaption></figure>
 
-<figure class="thumb" style="width: 180px" typeof="mw:File/Thumb">  <figcaption class="thumbcaption"> <p class="caption">Robo Pass Dispenser (50 tickets per Robo Pass)</p> </figcaption> </figure>
+<figure class="mw-halign-center" style="text-align:center"><img alt="" src="img/places/Robo_Pass_Dispenser.png" width="320"/><figcaption><p class="caption">Robo Pass Dispenser (50 tickets per Robo Pass)</p></figcaption></figure>
 
 A **Robo Pass** is an inventory item that was added in the 2022-12-26 update. The player must use one in order to participate in the [Robo Bear Challenge](robo-bear-challenge.md). Players can only have a maximum of 10 Robo Passes in their inventory at a time unless purchased from [Robux packs](robux-shop.md) or received from quests.
 

@@ -144,7 +144,7 @@ It is a 26x28 field, containing 728 [flowers](flowers.md). The flowers are all w
 
   
 
-<figure class="thumb" style="width: 75px" typeof="mw:File/Thumb">  <figcaption class="thumbcaption"> <p class="caption">The Spider Field Boost icon.</p> </figcaption> </figure>
+
 
 * Using [glitter](glitter.md) will add 100% Spider Field pollen onto the current boost for 15 minutes if it isn't already maxed out.
 * Using [field dice](field-dice.md), [smooth dice](smooth-dice.md), or [loaded dice](loaded-dice.md) may add +100% Spider Field pollen for 15 minutes if the current boost isn't already maxed out.

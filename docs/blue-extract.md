@@ -17,7 +17,7 @@ COOLDOWN
 
 The **Blue Extract** is an inventory item added in the 2018-11-25 update. The purpose of it is to use it as material to craft equipment and accessories, or for a 10-minute boost that grants x1.25 [Blue Pollen](system-page.md#Blue_Pollen). The [buff](buffs-debuffs.md#From_Items) cannot stack, and will only reset its timer if the player used a **Blue Extract** when the effect is already active. Using a [Purple Potion](purple-potion.md) or [Super Smoothie](super-smoothie.md) will override the buff.
 
-<figure class="thumb mw-halign-right" style="width: 180px" typeof="mw:File/Thumb">  <figcaption class="thumbcaption"> <p class="caption">A blue extract token.</p> </figcaption> </figure>
+<figure class="mw-halign-center" style="text-align:center"><img alt="blue extract" src="img/Blue_Extract.png" width="60"/><figcaption><p class="caption">A blue extract token.</p></figcaption></figure>
 
 ## Ways to Obtain
 

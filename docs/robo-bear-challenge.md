@@ -21,7 +21,7 @@ Assumptions made: The formula of upgrade cost per rarity.
 
 *This page is exclusively for the Robo Bear Challenge. For the quest giver and shop owner, see [Robo Bear](robo-bear.md).*
 
-<figure class="thumb" style="width: 180px" typeof="mw:File/Thumb">  <figcaption class="thumbcaption"> <p class="caption">Robo Bear Challenge with quests loaded.</p> </figcaption> </figure>
+
 
 The **Robo Bear Challenge** is a 5-minute challenge that can be started by talking to [Robo Bear](robo-bear.md).
 
@@ -29,11 +29,11 @@ Upon entering the challenge, the player receives 2 quests, which can be rerolled
 
 ## Gameplay
 
-<figure class="thumb" style="width: 280px" typeof="mw:File/Thumb">  <figcaption class="thumbcaption"> <p class="caption">The starting of a Robo Bear challenge displays a quest selection screen.</p> </figcaption> </figure>
+
 
 ### Before Starting
 
-<figure class="thumb" style="width: 180px" typeof="mw:File/Thumb">  <figcaption class="thumbcaption"> <p class="caption">The upgrade selection menu. Comes after the Bee selection menu.</p> </figcaption> </figure>
+
 
 To start the Robo Bear Challenge, the player must spend a [Robo Pass](robo-pass.md). Once spent, the player receives 10 free [Cogs](cog.md) and a Quest Reroll. Then, the player has to select one of two quests. After this, the player will select one of the three selected bees in the player's hive (the player must select 3 bees in the first round and 2 bees in subsequent rounds) and can be rerolled at the expense of cogs. This expense increases as it is used more. The bees in the selection is shown their hive level, their gifted status, their equipped [Beequip](beequip.md) and their mutation. After choosing the three bees, the player can purchase upgrades for cogs, there are three different upgrades the player can choose from and can also be rerolled for cogs that also has an expense increasing as it is used more.
 
@@ -62,9 +62,9 @@ During and between rounds, cogs may be spent at [Robo Bear's Shop](robo-bear-s-s
 
 All cogs in the player's inventory are removed once the challenge ends, which happens when either the player hatches or transforms a bee, the timer of the challenge quest runs out, if the player leaves the game, or if the player presses the “Quit” button which appears on the challenge quest box.
 
-<figure class="thumb mw-halign-center" style="width: 250px" typeof="mw:File/Thumb">  <figcaption class="thumbcaption"> <p class="caption"><big><b>"Rbcloading", the theme that plays before starting a round in the challenge.</b></big></p> </figcaption> </figure>
 
-<figure class="thumb mw-halign-center" style="width: 250px" typeof="mw:File/Thumb">  <figcaption class="thumbcaption"> <p class="caption"><big><b>"Digitize", the theme that plays upon starting a round in the challenge.</b></big></p> </figcaption> </figure>
+
+
 
 ### Upgrades
 
@@ -1567,6 +1567,6 @@ After the challenge ends, a message box displays the rewards. The number of rewa
   * If the player manages to triumph the challenge, the score formula is instead: *125,000 + (Total\_Cogs\_Earned)*
 * 
 
-<figure class="thumb" style="width: 220px" typeof="mw:File/Thumb">  <figcaption class="thumbcaption"> <p class="caption">16 Micro-Converters obtained from the Robo Bear Challenge while the item's cap being 15.</p> </figcaption> </figure>
+
 
   The Robo Bear Challenge can sometimes reward items with a quantity higher than its cap, for example, obtaining 16 [Micro-Converters](micro-converter.md) even if their cap is 15. The player will still obtain the item normally, not exceeding its cap.

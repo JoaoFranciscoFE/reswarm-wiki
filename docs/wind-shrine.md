@@ -7,17 +7,17 @@ tags: ["Locations", "Machines"]
 
 ![Wind Shrine](img/places/Wind_Shrine.png){ .wiki-photo }
 
-<figure class="thumb" style="width: 225px" typeof="mw:File/Thumb">  <figcaption class="thumbcaption"> <p class="caption">The Wind Shrine.</p> </figcaption> </figure>
 
-<figure class="thumb" style="width: 224px" typeof="mw:File/Thumb">  <figcaption class="thumbcaption"> <p class="caption">A bug that happens with the Wind Shrine when the chimes go too high up.</p> </figcaption> </figure>
 
-<figure class="thumb" style="width: 225px" typeof="mw:File/Thumb">  <figcaption class="thumbcaption"> <p class="caption">Sometimes, one or more chimes disappear due to a bug when they move too high up.</p> </figcaption> </figure>
+
+
+
 
 The **Wind Shrine** is located beyond the [Windy Bee Gate](windy-bee-gate.md), next to the [Pepper Patch](pepper-patch.md). It allows players to donate items to it in exchange for rewards such as [Field Winds](field-wind.md) and [honey](honey.md). The Wind Shrine has a cooldown of 1 hour between each donation. Donating [cloud vials](cloud-vial.md) after donating a [Spirit Petal](spirit-petal.md) is currently the only way to obtain a [Windy Bee](windy-bee.md).
 
 The Wind Shrine also indicates if a [Wild Windy Bee](wild-windy-bee.md) is active in one of the [fields](fields.md). If the chimes are continuously moving around and nobody has donated recently, a Wild Windy Bee will be somewhere around the map.
 
-<figure class="thumb" style="width: 254px" typeof="mw:File/Thumb">  <figcaption class="thumbcaption"> <p class="caption">A video of Wind Shrine moving.</p> </figcaption> </figure>
+
 
 The following audio plays when a player has donated something to the Wind Shrine:
 
@@ -609,7 +609,7 @@ Each donation grants [honey](honey.md) depending on the type and amount of the i
 
 If the player receives a Windy Bee Egg, the Wind Shrine will display the following message: "And it calls back to you!". The Windy Bee victory jingle will play, and server-wide message will appear in the chat, reading "🎉 [Player] has tamed a Windy Bee! 🎉", but if it fails, the message will instead read, "But it doesn't respond..."
 
-<figure class="thumb" style="width: 180px" typeof="mw:File/Thumb">  <figcaption class="thumbcaption"> <p class="caption">The message that pops up if a player has successfully tamed Windy Bee.</p> </figcaption> </figure>
+
 
 If the player had purchased a Windy Bee Egg from the [Robux Shop](robux-shop.md), they would get a [star treat](star-treat.md) in place of a [Windy Bee Egg](egg.md#Specific_Bee_Eggs).
 
@@ -617,7 +617,7 @@ If the player had purchased a Windy Bee Egg from the [Robux Shop](robux-shop.md)
 
 Badge shivers are rewards that are linked to the player's [Badges](badges.md). The player can shiver a badge when they have the required badges by donating certain items. Shivering a badge does not do anything to the badge itself, only granting certain rewards if you have certain badges. Donating more items at a time gives a higher chance of shivering the related badge. Some badge shivers may require multiple badges or certain tiers of badges. Other badges cannot be shivered, or they are currently unknown. Below is a list of all known badge shivers.
 
-<figure class="thumb" style="width: 180px" typeof="mw:File/Thumb">  <figcaption class="thumbcaption"> <p class="caption">The badges are "shivering", indicating badge rewards are being rewarded.</p> </figcaption> </figure>
+
 
 **Note: You can only shiver a badge once. The tiers of badges for many badge shivers are unknown at the moment. If there is no badge tier following the badge name, it is unknown.**
 
@@ -1171,7 +1171,7 @@ When you donate certain items to the shrine, you have a chance to summon Field W
 
 The shrine will grant different rewards depending on the item donated. All donations will grant Honey and favor (both of which increase based on the amount donated), but other effects may vary. A list of possible outcomes is written below.
 
-<figure class="thumb" style="width: 180px" typeof="mw:File/Thumb">  <figcaption class="thumbcaption"> <p class="caption">The rewards from donating a Spirit Petal to the Wind Shrine.</p> </figcaption> </figure>
+
 
 * Summoning clouds on fields and granting field winds.
 * Summoning a [Wild Windy Bee](wild-windy-bee.md).
@@ -1439,9 +1439,9 @@ The player's total favor can also be estimated from the third message the shrine
 
 ## Galentine Shrine
 
-<figure class="thumb" style="width: 250px" typeof="mw:File/Thumb">  <figcaption class="thumbcaption"> <p class="caption">The Galentine Shrine's appearance.</p> </figcaption> </figure>
 
-<figure class="thumb" style="width: 180px" typeof="mw:File/Thumb">  <figcaption class="thumbcaption"> <p class="caption">The Blessing icon.</p> </figcaption> </figure>
+
+
 
 The Galentine Shrine can be obtained after the player completes [Spirit Bear](spirit-bear.md)'s Beesmas 2020, 2021, 2022, 2024 and 2025 quests. It is the Wind Shrine decorated specifically for Galentine’s Day. There are five hearts, a large red bow on the top, and a smaller white bow between two hearts. The Wind Shrine's two 'pillars' are also coated in pink paint.
 
@@ -1483,20 +1483,20 @@ The following equation determines the probability of receiving the Galentine's B
 * According to [Spirit Bear](spirit-bear.md), the Wind Shrine is one of the oldest standing monuments in the game. She also mentions that it is even older than she is.
   * She also says that the Wind Shrine gives you different responses depending on your favor.
 
-<figure class="thumb" style="width: 180px" typeof="mw:File/Thumb">  <figcaption class="thumbcaption"> <p class="caption">The pop-up that appears when a player has less than 35 bees and attempts to donate to the Wind Shrine.</p> </figcaption> </figure>
+
 
 * Using the Wind Shrine is the only way to obtain a [Windy Bee](windy-bee.md), other than buying it in Robux Shop when it was first released.
 * If the player donates something, but disconnects before the rewards fade out, the next donation will give the rewards of the last donation and set a cooldown of 1 hour. This will not happen if at least one reward is collected from the Wind Shrine.
 
   
 
-<figure class="thumb mw-halign-right" style="width: 180px" typeof="mw:File/Thumb">  <figcaption class="thumbcaption"> <p class="caption">Obtaining 8 oil from a refund.</p> </figcaption> </figure>
+
 
 * If a player happens to reach the Wind Shrine without having 35 [bees](bees.md) and tries to donate an item, a message will come up saying "Error: Player does not have 35 bees. Please show Onett. (Version {Server version})".
 * [Super Smoothies](super-smoothie.md), [Translators](translator.md), [Sprinkler Builders](sprinklers.md), certain [Specific Bee Eggs](egg.md#Specific_Bee_Egg) (all except for [Honey Bee Egg](egg.md)), [Specific Bee Jellies](royal-jelly.md#Specific_Bee_Jelly_Variants), [Spirit Petals](spirit-petal.md) (if the player has already donated one), [Gingerbread Bears](gingerbread-bear.md), [Snowflakes](snowflake.md), [Balloons](balloon.md), [Planters](planter.md), [Robo Passes](robo-pass.md), the [Beequip Case](beequip.md) and 7-Pronged Cogs are items in the player's inventory that cannot be donated.
 * 
 
-<figure class="thumb" style="width: 180px" typeof="mw:File/Thumb">  <figcaption class="thumbcaption"> <p class="caption">The pop-up that appears when someone tries to donate 0 items.</p> </figcaption> </figure>
+
 
   When donating 0 of something (e.g. 0 tickets), a message will appear saying "Error: Player does not have selected quantity of items. (Version {Server version})", or "Error: Cannot donate 0 items."
 

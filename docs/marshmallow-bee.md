@@ -19,7 +19,7 @@ CAP
 
 25
 
-<figure class="thumb" style="width: 180px" typeof="mw:File/Thumb">  <figcaption class="thumbcaption"> <p class="caption">The Marshmallow Bee buff icon.</p> </figcaption> </figure>
+
 
 The **Marshmallow Bee** is an inventory item that was added during the Egg Hunt 2019 event. It has a capacity limit of 25, which can only be exceeded by [code](codes.md) and [quest](quests.md) rewards. Collecting 3 Marshmallow Bees and handing them in to the Egg Hunt Info gave the player the Flight of the Bumble Egg and a [badge](badges.md#Unobtainable) during the Egg Hunt 2019 Event.
 

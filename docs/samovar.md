@@ -11,7 +11,7 @@ This piece of content goes bye bye.
 
 The following content has been removed from the game. The contents below may be archival, but feel free to edit below.
 
-<figure class="thumb" style="width: 272px" typeof="mw:File/Thumb">  <figcaption class="thumbcaption"> <p class="caption">The Samovar when completed.</p> </figcaption> </figure>
+
 
 The **Samovar** is a machine that was added in Beesmas 2021 and has returned in Beesmas 2022, 2024, and 2025. This machine can be unlocked by completing [Dapper Bear](dapper-bear.md)'s Beesmas quest, and when activated, it rewards a random [Nectar](nectar.md) type and [items](items.md) near the cup. The Samovar has a cooldown of 6 hours.
 

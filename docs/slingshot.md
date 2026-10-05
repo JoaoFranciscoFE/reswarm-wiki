@@ -7,7 +7,7 @@ tags: ["Locations", "Transport", "Machines", "Starter Zone"]
 
 ![Slingshot](img/Slingshot.png){ align=right width=150 }
 
-<figure class="thumb" style="width: 180px" typeof="mw:File/Thumb">  <figcaption class="thumbcaption"> <p class="caption">The Slingshot.</p> </figcaption> </figure>
+
 
 The **Slingshot** is a transportation device available to the player once they have discovered 8 different [bee](bees.md) types. It is located next to the [Clover Field](clover-field.md) and usually quickly transports the player past the [Brave Bee Gate](brave-bee-gate.md) and right in front of the [Pro Shop](pro-shop.md), it may undershoot and cause the player to land in front of [Panda Bear](panda-bear.md).
 
@@ -15,7 +15,7 @@ The **Slingshot** is a transportation device available to the player once they h
 
 * If the player has 8 different bee types but doesn't have 10 bees in their [hive](hive.md) yet, they will be always be teleported back to the spawn pad if they try to pass the Brave Bee Gate. This used to be a method to pass the Brave Bee Gate.
 
-<figure class="thumb" style="width: 270px" typeof="mw:File/Thumb">  <figcaption class="thumbcaption"> <p class="caption">A player being launched towards Panda Bear.</p> </figcaption> </figure>
+
 
 * The cause of the different destinations is described by Onett as "noob scripting". To increase the chance of launching to the Pro Shop (the intended destination), jump onto the pad; to increase the chance of launching to Panda Bear (the "it's a feature, not a bug" destination), walk onto the pad instead.
 * This is the only non-cannon transport device that launches the player.

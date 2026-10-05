@@ -1612,7 +1612,7 @@ The following is a list of all of the **items** in [Re://:Swarm](re-swarm.md).
 <td><a href="gumdrop-shop.html">Gumdrop Shop</a>, Blender, Memory Match, Meteors, <a href="mobs.html">Mobs</a>
 </td></tr>
 <tr>
-<td><figure class="mw-halign-center" typeof="mw:Error mw:File"><figcaption>thumbs</figcaption></figure><div style="text-align: center;"><a href="coconut.html"><span class="color-template color-template-coconut color-template-background-clip">Coconut</span></a>
+<td><figure class="mw-halign-center"><img alt="Coconut" src="img/Coconut.png" width="60"/></figure><div style="text-align: center;"><a href="coconut.html"><span class="color-template color-template-coconut color-template-background-clip">Coconut</span></a>
 </div></td>
 <td>Drops a huge Coconut into the field. Catch it to convert pollen to <a href="ability-tokens.html#Honey_Gift">Honey Tokens</a>.
 </td>
@@ -1732,7 +1732,7 @@ The following is a list of all of the **items** in [Re://:Swarm](re-swarm.md).
 <td><a href="blender.html">Blender</a>, <a href="memory-match.html">Memory Match</a>, <a href="mobs.html">Mobs</a>, <a href="sprout.html">Sprouts</a>
 </td></tr>
 <tr>
-<td><figure class="mw-halign-center" typeof="mw:Error mw:File"><figcaption>thumbs</figcaption></figure><div style="text-align: center;"><a href="tropical-drink.html"><span class="color-template color-template-tropical-drink color-template-background-clip">Tropical Drink</span></a>
+<td><figure class="mw-halign-center"><img alt="Tropical Drink" src="img/Tropical_Drink.png" width="60"/></figure><div style="text-align: center;"><a href="tropical-drink.html"><span class="color-template color-template-tropical-drink color-template-background-clip">Tropical Drink</span></a>
 </div></td>
 <td>Grants x1.25 White Pollen, +10% Instant Conversion and +5% Critical Chance for 10 minutes.
 </td>
@@ -1797,7 +1797,7 @@ The following is a list of all of the **items** in [Re://:Swarm](re-swarm.md).
 <td>Very rare chance from <a href="ability-tokens.html#Festive_Gift">Festive Gift</a>, certain Ornament Presents, gift boxes and packs during Beesmas.
 </td></tr>
 <tr>
-<td><figure class="mw-halign-center" typeof="mw:Error mw:File"><figcaption>thumbs</figcaption></figure><div style="text-align: center;"><a href="cloud-vial.html"><span class="color-template color-template-cloud-vial color-template-background-clip">Cloud Vial</span></a>
+<td><figure class="mw-halign-center"><img alt="Cloud Vial" src="img/Cloud_Vial.png" width="60"/></figure><div style="text-align: center;"><a href="cloud-vial.html"><span class="color-template color-template-cloud-vial color-template-background-clip">Cloud Vial</span></a>
 </div></td>
 <td>Summons a Cloud in the field you're standing in. Lasts for 3 minutes.
 </td>
@@ -1842,7 +1842,7 @@ The following is a list of all of the **items** in [Re://:Swarm](re-swarm.md).
 <td><a href="bee-bear.html">Bee Bear</a> quests and other varied ways during the Beesmas event (Currently obtainable)
 </td></tr>
 <tr>
-<td><figure class="mw-halign-center" typeof="mw:Error mw:File"><figcaption>thumbs</figcaption></figure><div style="text-align: center;"><a href="spirit-petal.html"><span class="color-template color-template-spirit-petal color-template-background-clip">Spirit Petal</span></a>
+<td><figure class="mw-halign-center"><img alt="Spirit Petal" src="img/Spirit_Petal.png" width="60"/></figure><div style="text-align: center;"><a href="spirit-petal.html"><span class="color-template color-template-spirit-petal color-template-background-clip">Spirit Petal</span></a>
 </div></td>
 <td>A delicate flower petal used in rituals.
 </td>

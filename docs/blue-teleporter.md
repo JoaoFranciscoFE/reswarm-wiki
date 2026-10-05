@@ -7,9 +7,9 @@ tags: ["Transport", "Locations", "Machines", "Blue"]
 
 ![Blue Teleporter](img/places/Blue_Teleporter.png){ .wiki-photo }
 
-<figure class="thumb" style="width: 200px" typeof="mw:File/Thumb">  <figcaption class="thumbcaption"> <p class="caption">The Blue Teleporter pad in the Blue HQ.</p> </figcaption> </figure>
 
-<figure class="thumb" style="width: 230px" typeof="mw:File/Thumb">  <figcaption class="thumbcaption"> <p class="caption">The destination of the Blue Teleporter.</p> </figcaption> </figure>
+
+
 
 The **Blue Teleporter** is a portal located inside the first floor of the [Blue HQ](blue-hq.md). When activated, it will instantly teleport the player behind the [Red Cannon](red-cannon.md) and next to the [Ticket Tent](ticket-tent.md). The transportation is one-way; thus, the destination teleporter cannot be used to travel back into the Blue HQ.
 

@@ -5,7 +5,7 @@ tags: ["Mechanics"]
 
 # Cloud
 
-<figure class="mw-default-size mw-halign-right" typeof="mw:Error mw:File"><figcaption>An entity that regrows flowers and grants short pollen buffs</figcaption></figure>
+
 
 **Clouds** are small, white rain clouds that can be summoned through various methods (listed below). They move around the field aimlessly over a 1-5 minute time span, depending on the source of the cloud, raining over 49 surrounding flowers and functioning as secondary [sprinklers](sprinklers.md). Clouds can also help grow a [sprout](sprout.md) if there is a player in the same field although the [pollen](pollen.md) given to the sprout depends on the type of sprout and the field. If a player is under a cloud, they will receive the Cloud Boost buff which gives +25% pollen and +10% Unique Instant Conversion (+50% Pollen and +20% Unique Instant Conversion if the player has a [Gifted](gifted-bee.md) [Windy Bee](windy-bee.md)) and lasts for up to 8 seconds. Clouds can also accelerate a [planter](planter.md) by up to 20% with 6 clouds (around 8% with 1 cloud), however keeping a cloud in a field for hours is expensive making this method not viable for buffing planters.
 

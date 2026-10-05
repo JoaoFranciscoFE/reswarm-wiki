@@ -7,7 +7,7 @@ tags: ["Inventory", "Nectar Vials", "Consumables", "Items"]
 
 ![Nectar Vial](img/Nectar_Vial.png){ align=right width=150 }
 
-<figure class="thumb" style="width: 180px" typeof="mw:File/Thumb">  <figcaption class="thumbcaption"> <p class="caption">Nectar Vials inside a player's inventory.</p> </figcaption> </figure>
+
 
 **Nectar Vials** are a type of inventory [item](items.md) that can be used to increase a player's current [Nectar](nectar.md) by 4 hours when used. Using any Nectar Vial grants 4 hours of their respective nectar type. You can hold a maximum of 10 Nectar Vials of each type at a time. However, this limit can be bypassed by obtaining them through [quests](quests.md) or [Robux Packs](robux-shop.md).
 

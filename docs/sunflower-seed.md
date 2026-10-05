@@ -11,7 +11,7 @@ Sunflower Seed
 
 *"Increases your bond with a bee by 25."*
 
-<figure class="thumb" style="width: 130px" typeof="mw:File/Thumb">  <figcaption class="thumbcaption"> <p class="caption">A Sunflower Seed token.</p> </figcaption> </figure>
+<figure class="mw-halign-center" style="text-align:center"><img alt="Sunflower Seed" src="img/Sunflower_Seed.png" width="60"/><figcaption><p class="caption">A Sunflower Seed token.</p></figcaption></figure>
 
 A **Sunflower Seed** is a type of [treat](treats.md) that can be fed to a [Bee](bees.md) to raise its bond by 25. However, when fed to [Basic](basic-bee.md), [Bomber](bomber-bee.md), [Looker](looker-bee.md), [Demo](demo-bee.md), [Commander](commander-bee.md), [Carpenter](carpenter-bee.md), [Ninja](ninja-bee.md), [Vector](vector-bee.md), or [Precise](precise-bee.md) Bees, the amount of [bond](bond.md) they gain is doubled, raising their bond by 50. These bees also have a small chance of becoming [gifted](gifted-bee.md) when fed Sunflower Seeds, though this only happens with a 0.0125% (1 in 8,000) chance for [Rare bees](bees-rare.md), 0.01% (1 in 10,000) chance for [Epic bees](bees-epic.md), 0.0083% (1 in 12,000) chance for [Common](bees-common.md) and [Legendary bees](bees-legendary.md), and 0.00417% (1 in 24,000) chance for [Mythic bees](bees-mythic.md) per Sunflower Seed. Feeding a radioactive bee a sunflower seed has a 0.004% (1 in 25,000) to [mutate](mutation.md) a bee. Sunflower Seeds can also be used to craft [Oils](oil.md), [Paper Planters](paper-planter.md), [Belt Pocket](belt-pocket.md), [Mondo Belt Bag](mondo-belt-bag.md), [Bomber Guard](bomber-guard.md), [Looker Guard](looker-guard.md) and [Basic Boots](basic-boots.md).
 

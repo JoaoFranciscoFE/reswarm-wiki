@@ -7,9 +7,9 @@ tags: ["Locations", "Machines"]
 
 ![Sticker Stack](img/Sticker_Stack.png){ align=right width=150 }
 
-<figure class="thumb" style="width: 180px" typeof="mw:File/Thumb">  <figcaption class="thumbcaption"> <p class="caption">The Sticker Stack while activated</p> </figcaption> </figure>
 
-<figure class="thumb" style="width: 180px" typeof="mw:File/Thumb">  <figcaption class="thumbcaption"> <p class="caption">The icon located on top of the Sticker Stack.</p> </figcaption> </figure>
+
+
 
 The **Sticker Stack** is located in the [15 Bee Zone](honey-bee-gate.md) next to the [Pine Tree Forest](pine-tree-forest.md) and the [Honey Bee](honey-bee-npc.md). It allows players to donate a [sticker](sticker.md), hive skin, [cub skin](cub-buddy.md) or voucher and receive a boost and item depending on the sticker you donated. The boost lasts for 15 minutes (+10 seconds for every sticker donated, maximum 1 hour). Each type of sticker can only be donated once.
 

@@ -11,7 +11,7 @@ This piece of content goes bye bye.
 
 The following content has been removed from the game. The contents below may be archival, but feel free to edit below.
 
-<figure class="thumb" style="width: 180px" typeof="mw:File/Thumb">  <figcaption class="thumbcaption"> <p class="caption">Beesmas Lights, unlocked after completing <a href="science-bear.html">Science Bear's</a> Beesmas quest.</p> </figcaption> </figure>
+
 
 **Beesmas Lights** would appear in fields as the player collects pollen after completing [Science Bear's](science-bear.md) Beesmas Lights [quest](quests.md).
 

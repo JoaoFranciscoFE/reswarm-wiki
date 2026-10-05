@@ -145,7 +145,7 @@ This is a 33×18 field, containing 594 [flowers](flowers.md). The flowers are wh
 
   
 
-<figure class="thumb" style="width: 75px" typeof="mw:File/Thumb">  <figcaption class="thumbcaption"> <p class="caption">The Cactus Field Boost icon.</p> </figcaption> </figure>
+
 
   Using [field dice](field-dice.md), [smooth dice](smooth-dice.md), and [loaded dice](loaded-dice.md) may add +100% - 300% Cactus Field pollen for 15 minutes if the current boost isn't maxed out and is based on the type of dice used.
 * Cactus [Field Winds](field-wind.md) can be obtained through the [Wind Shrine](wind-shrine.md) or [codes](codes.md). They have a base of +20% instant Cactus Field conversion and give s+5% instant Cactus Field conversion and +15% Cactus Field pollen for each stack. Cactus Field Winds can stack up to a total of 13 times.

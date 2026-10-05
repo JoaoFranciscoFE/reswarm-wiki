@@ -15,7 +15,7 @@ COOLDOWN
 
 **Sprinklers** are items that can be placed in [fields](fields.md) by players to help with [flower](flowers.md) regeneration. They can be bought in the [Badge Bearer's Guild](badge-bearer-s-guild.md), accessible by obtaining 15 [badges](badges.md) of any kind. There are five sprinklers in the game: the [Basic Sprinkler](basic-sprinkler.md), the [Silver Soakers](silver-soakers.md), the [Golden Gushers](golden-gushers.md), the [Diamond Drenchers](diamond-drenchers.md) and [The Supreme Saturator](the-supreme-saturator.md). They all look similar; a simple sprinkler that stands up from the ground beneath the flower the player is standing on. The material the sprinkler is made of is based on the tier color. (The only exception to this is The Supreme Saturator, which has a giant golden sprinkler sticking through a neon blue bear head.) The higher level the sprinkler is, the more players can place (with the exception of The Supreme Saturator) and the more effective it can be. Sprinklers can't be placed in the [Hub Field](hub-field.md).
 
-<figure class="thumb" style="width: 300px" typeof="mw:File/Thumb">  <figcaption class="thumbcaption"> <p class="caption">All five sprinklers in the <a href="badge-bearer-s-guild.html">Badge Bearer's Guild</a>.</p> </figcaption> </figure>
+
 
 The Basic Sprinkler is unlocked as soon as a player is able to enter the Badge Bearer's Guild. However, the Silver Soakers require 10 Hotshot badges, the Golden Gushers require 10 Ace badges, the Diamond Drenchers require 10 Master badges and The Supreme Saturator requires 10 Grandmaster badges.
 

@@ -7,7 +7,7 @@ tags: ["Mobs", "Ant Challenge"]
 
 ![Ants](img/Ants.png){ align=right width=150 }
 
-<figure class="thumb" style="width: 224px" typeof="mw:File/Thumb">  <figcaption class="thumbcaption"> <p class="caption">A statue of an Army Ant on the Ant Gate.</p> </figcaption> </figure>
+<figure class="mw-halign-center" style="text-align:center"><img alt="" src="img/places/Ant_Gate.png" width="320"/><figcaption><p class="caption">A statue of an Army Ant on the Ant Gate.</p></figcaption></figure>
 
 **Ants** are [mobs](mobs.md) exclusively found in the [Ant Field](ant-field.md) during the [Ant Challenge](ant-challenge.md), past the [Ant Gate](ant-gate.md). In the Ant Challenge, the player fights waves of ants before the timer runs out. The level and health of the ants gradually increase as the player completes more rounds in the Ant Challenge.
 
@@ -21,7 +21,7 @@ All ants deal 40 damage on contact except the giant ant, which deals 60 damage.
 
 Main article: [Ant](ant.md)
 
-<figure class="thumb" style="width: 150px" typeof="mw:File/Thumb">  <figcaption class="thumbcaption"> <p class="caption">An Ant.</p> </figcaption> </figure>
+
 
 **Ants** move in a predetermined straight line and are the most generic ant. They only have around 25 health at level one and are by far the least threatening of the five ant types, as they are often easily and completely avoidable. They are the most common ant and will always appear in the first few waves.
 
@@ -29,7 +29,7 @@ Main article: [Ant](ant.md)
 
 Main article: [Army Ant](army-ant.md)
 
-<figure class="thumb" style="width: 150px" typeof="mw:File/Thumb">  <figcaption class="thumbcaption"> <p class="caption">An Army Ant.</p> </figcaption> </figure>
+
 
 **Army Ants** have army helmets on their heads and will pursue the player. They have the ability to pounce, have a higher damage output, and have a little more health than normal and fire ants (about 35 at level one). Less damage is dealt to these ants because of their defense. Army Ants can spawn as early as the first wave, but they usually start appearing at around the second or third waves. If they appear, they occasionally spawn in waves, but not always.
 
@@ -37,7 +37,7 @@ Main article: [Army Ant](army-ant.md)
 
 Main article: [Flying Ant](flying-ant.md)
 
-<figure class="thumb" style="width: 150px" typeof="mw:File/Thumb">  <figcaption class="thumbcaption"> <p class="caption">A Flying Ant.</p> </figcaption> </figure>
+
 
 **Flying Ants** are ants with wings that track the player. They are the fastest out of the five ant types and have the ability to pounce on players from a considerably farther distance than the army ant. However, the twist is that they also have low health, similar to the amount of an Army Ant or even sometimes a normal one. Flying Ants can spawn as early as the first wave, but they usually start appearing at around the second or third wave. They deal higher damage than a normal ant.
 
@@ -45,7 +45,7 @@ Main article: [Flying Ant](flying-ant.md)
 
 Main article: [Giant Ant](giant-ant.md)
 
-<figure class="thumb" style="width: 150px" typeof="mw:File/Thumb">  <figcaption class="thumbcaption"> <p class="caption">A Giant Ant.</p> </figcaption> </figure>
+
 
 **Giant Ants** are enormous versions of the normal ant that relentlessly pursue the player. They are relatively slow, ensuring that if the player constantly moves away, it cannot reach them. However, they have large amounts of health (about 10 times the health of an ordinary ant) and high attack power to compensate. Because of their high health, they can 'tank' hits from bees and allow their smaller, faster comrades to attack the player without any chance of being defeated. Their size makes them harder to avoid. A Giant Ant will spawn every five waves (5th, 10th, 15th, etc.)
 
@@ -53,7 +53,7 @@ Main article: [Giant Ant](giant-ant.md)
 
 Main article: [Fire Ant](fire-ant.md)
 
-<figure class="thumb" style="width: 150px" typeof="mw:File/Thumb">  <figcaption class="thumbcaption"> <p class="caption">A Fire Ant.</p> </figcaption> </figure>
+
 
 **Fire Ants** are colored red and act the same as regular ants, but they leave a damaging fire trail behind them as they move. Their flames deal 30 damage if touched. The flames will linger even after the Fire Ant that left it is defeated. The fire disappears after a short amount of time. Fire Ants typically spawn in the later waves, such as after the first Giant Ant. Noted by [Panda Bear](panda-bear.md), the fire from a Fire Ant is not affected by [Defense](system-page.md#Defense), but this seems to be untrue. However, having 100% defense (though [Emergency Coconut Shield](passive-abilities.md#Emergency_Coconut_Shield)) will nullify the damage.
 

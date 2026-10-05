@@ -7,7 +7,7 @@ tags: ["Mechanics"]
 
 ![Passive Abilities](img/Passive_Abilities.png){ align=right width=150 }
 
-<figure class="thumb" style="width: 250px" typeof="mw:File/Thumb">  <figcaption class="thumbcaption"> <p class="caption">Passive Ability icons which can be seen above the hotbar, or bottom right next to the hotbar on mobile. These icons are for Haste Pulser, Coconut Haste Surge, Ignite, X-Flame, and Emergency Coconut Shield.</p> </figcaption> </figure>
+
 
 **Passive Abilities,** or simply **passives** are effects found on some accessories, [amulets](amulet.md), or [bees](bees.md). These abilities are active all the time or only activate when specific actions are done, as an additional effect of those actions.
 
@@ -19,7 +19,7 @@ Some passive abilities have a cooldown. When in cooldown, the number of seconds 
 
 ### Haste Pulser
 
-<figure class="thumb mw-halign-left" style="width: 100px" typeof="mw:File/Thumb">  <figcaption class="thumbcaption"> <p class="caption">The icon for Haste Pulser.</p> </figcaption> </figure>
+
 
 **Haste Pulser** activates every 30th [Haste token](ability-tokens.md#Haste) collected.
 
@@ -31,7 +31,7 @@ If the player has no blue bees, then nothing happens.
 
 ### Focus Pulser
 
-<figure class="thumb mw-halign-left" style="width: 100px" typeof="mw:File/Thumb">  <figcaption class="thumbcaption"> <p class="caption">The icon for Focus Pulser.</p> </figcaption> </figure>
+
 
 **Focus Pulser** activates every 30th [Focus token](ability-tokens.md#Focus) collected.
 
@@ -43,7 +43,7 @@ If the player has no red bees, then nothing happens.
 
 ### Bubble Bombs
 
-<figure class="thumb mw-halign-left" style="width: 100px" typeof="mw:File/Thumb">  <figcaption class="thumbcaption"> <p class="caption">The icon for Bubble Bombs.</p> </figcaption> </figure>
+
 
 **Bubble Bombs** activates every 25th [Bomb token](ability-tokens.md#Bomb) collected, with a 2-minute cooldown.
 
@@ -53,11 +53,11 @@ Bubble Bomb is only granted by equipping the [Bubble Mask](bubble-mask.md), or t
 
 ### Diamond Drain
 
-<figure class="thumb mw-halign-left" style="width: 100px" typeof="mw:File/Thumb">  <figcaption class="thumbcaption"> <p class="caption">The icon for Diamond Drain.</p> </figcaption> </figure>
 
-<figure class="thumb" style="width: 180px" typeof="mw:File/Thumb">  <figcaption class="thumbcaption"> <p class="caption">The diamond rising into the air.</p> </figcaption> </figure>
 
-<figure class="thumb" style="width: 180px" typeof="mw:File/Thumb">  <figcaption class="thumbcaption"> <p class="caption">The Diamond shining.</p> </figcaption> </figure>
+
+
+
 
 **Diamond Drain** activates every 30th Blue [ability token](ability-tokens.md) collected, with a 45-second cooldown.
 
@@ -69,9 +69,9 @@ When Diamond Drain is activated, the following audio plays:
 
 ### Ignite
 
-<figure class="thumb mw-halign-left" style="width: 100px" typeof="mw:File/Thumb">  <figcaption class="thumbcaption"> <p class="caption">The icon for Ignite.</p> </figcaption> </figure>
 
-<figure class="thumb" style="width: 220px" typeof="mw:File/Thumb">  <figcaption class="thumbcaption"> <p class="caption">The old Ignite flames damaging <a href="commando-chick.html">Commando Chick</a>.</p> </figcaption> </figure>
+
+
 
 **Ignite** activates every 15th Red [ability token](ability-tokens.md) collected.
 
@@ -81,9 +81,9 @@ Ignite is granted by equipping the [Fire Mask](fire-mask.md), or the [Demon Mask
 
 ### X-Flame
 
-<figure class="thumb mw-halign-left" style="width: 100px" typeof="mw:File/Thumb">  <figcaption class="thumbcaption"> <p class="caption">The icon for X-Flame.</p> </figcaption> </figure>
 
-<figure class="thumb" style="width: 180px" typeof="mw:File/Thumb">  <figcaption class="thumbcaption"> <p class="caption">An X-Flame in the Strawberry Field.</p> </figcaption> </figure>
+
+
 
 **X-Flame** activates every 25th Battle [ability token](ability-tokens.md) collected (ability tokens that can be generated in combat), with a 20-second cooldown.
 
@@ -95,9 +95,9 @@ When X-Flame is activated, the following audio plays (Note that the audio in-gam
 
 ### Coin Scatter
 
-<figure class="thumb mw-halign-left" style="width: 100px" typeof="mw:File/Thumb">  <figcaption class="thumbcaption"> <p class="caption">The icon for Coin Scatter.</p> </figcaption> </figure>
 
-<figure class="thumb" style="width: 255px" typeof="mw:File/Thumb">  <figcaption class="thumbcaption"> <p class="caption">Honey tokens scattered randomly from Coin Scatter.</p> </figcaption> </figure>
+
+
 
 **Coin Scatter** activates every 20th [Mark token](ability-tokens.md#Mark) collected, with a 2-minute cooldown.
 
@@ -113,11 +113,11 @@ When Coin Scatter is activated, the following audio plays:
 
 ### Gummy Morph
 
-<figure class="thumb mw-halign-left" style="width: 100px" typeof="mw:File/Thumb">  <figcaption class="thumbcaption"> <p class="caption">The icon for Gummy Morph.</p> </figcaption> </figure>
 
-<figure class="thumb" style="width: 163px" typeof="mw:File/Thumb">  <figcaption class="thumbcaption"> <p class="caption">The Gummy Bear morph.</p> </figcaption> </figure>
 
-<figure class="thumb" style="width: 180px" typeof="mw:File/Thumb">  <figcaption class="thumbcaption"> <p class="caption">Gummy Bee's trail during the passive.</p> </figcaption> </figure>
+
+
+
 
 **Gummy Morph** activates every 30 [Gumdrops](gumdrops.md) used or 10 [Gummy Bee](gummy-bee.md) ability tokens collected (Gummy Bee ability tokens count as 3 gumdrops).
 
@@ -133,7 +133,7 @@ When Gummy Morph is activated, the following audio plays:
 
 ### Coconut Haste
 
-<figure class="thumb mw-halign-left" style="width: 100px" typeof="mw:File/Thumb">  <figcaption class="thumbcaption"> <p class="caption">The icon for Coconut Haste.</p> </figcaption> </figure>
+
 
 **Coconut Haste** activates whenever the player is hit by a falling [Coconut](coconut.md).
 
@@ -153,9 +153,9 @@ Goo Trail is granted by equipping the [Gummy Boots](gummy-boots.md).
 
 ### Emergency Coconut Shield
 
-<figure class="thumb mw-halign-left" style="width: 100px" typeof="mw:File/Thumb">  <figcaption class="thumbcaption"> <p class="caption">The icon for Emergency Coconut Shield.</p> </figcaption> </figure>
+<figure class="mw-halign-center" style="text-align:center"><img alt="Emergency Coconut Shield" src="img/Coconut_Shield.png" width="60"/><figcaption><p class="caption">The icon for Emergency Coconut Shield.</p></figcaption></figure>
 
-<figure class="thumb" style="width: 180px" typeof="mw:File/Thumb">  <figcaption class="thumbcaption"> <p class="caption">A player is protected inside the Emergency Coconut Shield.</p> </figcaption> </figure>
+
 
 **Emergency Coconut Shield** activates when the player takes damage directly from a [mob](mobs.md), with a 5-minute cooldown.
 
@@ -169,9 +169,9 @@ When the Emergency Coconut Shield is activated, the following audio plays (Note 
 
 ### Inspire Coconuts
 
-<figure class="thumb mw-halign-left" style="width: 100px" typeof="mw:File/Thumb">  <figcaption class="thumbcaption"> <p class="caption">The icon for Inspire Coconuts.</p> </figcaption> </figure>
 
-<figure class="thumb" style="width: 180px" typeof="mw:File/Thumb">  <figcaption class="thumbcaption"> <p class="caption">Inspire coconuts activated by a player.</p> </figcaption> </figure>
+
+
 
 **Inspire Coconuts** activates every 5th [Inspire token](ability-tokens.md#Inspire), Star Shower's shooting stars or [Beesmas Light](beesmas-lights.md) collected.
 
@@ -181,9 +181,9 @@ Inspire Coconuts is granted by equipping the [Coconut Canister](coconut-canister
 
 ### Petal Storm
 
-<figure class="thumb mw-halign-left" style="width: 100px" typeof="mw:File/Thumb">  <figcaption class="thumbcaption"> <p class="caption">The icon for Petal Storm.</p> </figcaption> </figure>
 
-<figure class="thumb" style="width: 180px" typeof="mw:File/Thumb">  <figcaption class="thumbcaption"> <p class="caption">Petal Storm in action.</p> </figcaption> </figure>
+
+
 
 **Petal Storm** activates every 30th [boost token](ability-tokens.md#Boost) collected, with a 30-second cooldown.
 
@@ -193,11 +193,11 @@ Petal Storm is granted by equipping the [Petal Belt](petal-belt.md), or the [Coc
 
 ### Combo Coconuts
 
-<figure class="thumb mw-halign-left" style="width: 104px" typeof="mw:File/Thumb">  <figcaption class="thumbcaption"> <p class="caption">The icon for Combo Coconuts.</p> </figcaption> </figure>
+
 
 **Combo Coconuts** activates every 40th [Coconut](coconut.md) the player drops onto a field (through items or abilities).
 
-<figure class="thumb" style="width: 180px" typeof="mw:File/Thumb">  <figcaption class="thumbcaption"> <p class="caption">A Combo Coconut.</p> </figcaption> </figure>
+
 
 The 40th [Coconut](coconut.md) dropped becomes a Combo Coconut. When caught by any player, the Combo Coconut is kicked and either falls onto the summoner's field (if on the first drop, the coconut was caught within the blue circle) or onto another player's field.
 
@@ -224,9 +224,9 @@ Combo Coconuts is granted by equipping the [Coconut Belt](coconut-belt.md).
 
 ### Guiding Star
 
-<figure class="thumb mw-halign-left" style="width: 100px" typeof="mw:File/Thumb">  <figcaption class="thumbcaption"> <p class="caption">The icon for Guiding Star.</p> </figcaption> </figure>
+<figure class="mw-halign-center" style="text-align:center"><img alt="Guiding Star" src="img/Guiding_Star_Aura.png" width="60"/><figcaption><p class="caption">The icon for Guiding Star.</p></figcaption></figure>
 
-<figure class="thumb" style="width: 180px" typeof="mw:File/Thumb">  <figcaption class="thumbcaption"> <p class="caption">A Guiding Star in the Sunflower Field.</p> </figcaption> </figure>
+
 
 **Guiding Star** activates every 250th [Boost token](ability-tokens.md#Boost) collected, with a 5-minute cooldown. Additionally, it permanently grants 1.25x capacity.
 
@@ -240,9 +240,9 @@ Guiding Star can also be summoned if a player used [Onett's Lid Art](onett-s-lid
 
 ### Star Shower
 
-<figure class="thumb mw-halign-left" style="width: 100px" typeof="mw:File/Thumb">  <figcaption class="thumbcaption"> <p class="caption">The icon for Star Shower.</p> </figcaption> </figure>
 
-<figure class="thumb" style="width: 180px" typeof="mw:File/Thumb">  <figcaption class="thumbcaption"> <p class="caption">A Star Shower on a field.</p> </figcaption> </figure>
+
+
 
 **Star Shower** activates every 40th [Boost](ability-tokens.md#Boost) or [Mark](ability-tokens.md#Mark) token collected, with a 30-second cooldown. Additionally, it permanently grants 1.25x capacity.
 
@@ -256,9 +256,9 @@ For every individual star, the following audio plays:
 
 ### Pop Star
 
-<figure class="thumb mw-halign-left" style="width: 100px" typeof="mw:File/Thumb">  <figcaption class="thumbcaption"> <p class="caption">The icon for Pop Star.</p> </figcaption> </figure>
+<figure class="mw-halign-center" style="text-align:center"><img alt="Pop Star" src="img/Pop_Star_Aura.png" width="60"/><figcaption><p class="caption">The icon for Pop Star.</p></figcaption></figure>
 
-<figure class="thumb" style="width: 43px" typeof="mw:File/Thumb">  <figcaption class="thumbcaption"> <p class="caption">A Pop Star.</p> </figcaption> </figure>
+
 
 **Pop Star** activates every 30th [Boost token](ability-tokens.md#Boost) collected, with a 1-minute cooldown. Additionally, it permanently grants x1.25 Blue Field Capacity.
 
@@ -276,9 +276,9 @@ When Pop Star is activated, the following audio plays:
 
 ### Gummy Star
 
-<figure class="thumb mw-halign-left" style="width: 100px" typeof="mw:File/Thumb">  <figcaption class="thumbcaption"> <p class="caption">The icon for Gummy Star.</p> </figcaption> </figure>
+<figure class="mw-halign-center" style="text-align:center"><img alt="Gummy Star" src="img/Gummy_Star_Aura.png" width="60"/><figcaption><p class="caption">The icon for Gummy Star.</p></figcaption></figure>
 
-<figure class="thumb" style="width: 180px" typeof="mw:File/Thumb">  <figcaption class="thumbcaption"> <p class="caption">A Gummy Star.</p> </figcaption> </figure>
+
 
 **Gummy Star** is activated at a 2% chance when using Gumdrops, or at the 75th use after the cooldown ends, with a 1-minute cooldown. Additionally, it permanently grants x1.25 White Field Capacity.
 
@@ -292,9 +292,9 @@ When Gummy Star is activated, the following audio plays:
 
 ### Scorching Star
 
-<figure class="thumb mw-halign-left" style="width: 100px" typeof="mw:File/Thumb">  <figcaption class="thumbcaption"> <p class="caption">The icon for Scorching Star.</p> </figcaption> </figure>
+<figure class="mw-halign-center" style="text-align:center"><img alt="Scorching Star" src="img/Scorching_Star_Aura.png" width="60"/><figcaption><p class="caption">The icon for Scorching Star.</p></figcaption></figure>
 
-<figure class="thumb" style="width: 180px" typeof="mw:File/Thumb">  <figcaption class="thumbcaption"> <p class="caption">A Scorching Star.</p> </figcaption> </figure>
+
 
 **Scorching Star** activates every 30th [Boost token](ability-tokens.md#Boost) collected, with a 1-minute cooldown. Additionally, it permanently grants x1.25 Red Field Capacity.
 
@@ -310,9 +310,9 @@ When Scorching Star is activated, the following audio plays:
 
 ### Star Saw
 
-<figure class="thumb mw-halign-left" style="width: 100px" typeof="mw:File/Thumb">  <figcaption class="thumbcaption"> <p class="caption">The icon for Star Saw.</p> </figcaption> </figure>
 
-<figure class="thumb" style="width: 180px" typeof="mw:File/Thumb">  <figcaption class="thumbcaption"> <p class="caption">A star saw circling around a player.</p> </figcaption> </figure>
+
+
 
 **Star Saw** activates after using 3 [Stingers](stinger.md).
 
@@ -330,7 +330,7 @@ When Star Saw is activated, the following audio plays:
 
 Main article: [Bubble](bubble.md)
 
-<figure class="thumb" style="width: 180px" typeof="mw:File/Thumb">  <figcaption class="thumbcaption"> <p class="caption">A bubble in a field.</p> </figcaption> </figure>
+
 
 **Bubbles** have a percentage chance to be spawned by certain bees when gathering.
 
@@ -342,9 +342,9 @@ When a bubble is popped, the following audio plays:
 
 Main article: [Flame](flame.md)
 
-<figure class="thumb" style="width: 125px" typeof="mw:File/Thumb">  <figcaption class="thumbcaption"> <p class="caption">A flame in a field.</p> </figcaption> </figure>
 
-<figure class="thumb" style="width: 180px" typeof="mw:File/Thumb">  <figcaption class="thumbcaption"> <p class="caption">The old texture of a flame.</p> </figcaption> </figure>
+
+
 
 **[Flames](flame.md)** have a percentage chance to be spawned by certain bees when gathering.
 
@@ -364,7 +364,7 @@ Flames spawned by this passive ability can be generated by the [Fire Bee](fire-b
 
 ### Shimmering Honey
 
-<figure class="thumb" style="width: 120px" typeof="mw:File/Thumb">  <figcaption class="thumbcaption"> <p class="caption">Diamond Bee's Conversion Link color when Shimmering Honey is activated.</p> </figcaption> </figure>
+
 
 **Shimmering Honey** is a passive ability exclusive to [Diamond Bee](diamond-bee.md). Whenever this bee converts at the hive, it grants a 25% bonus honey (+2.5% per level). This bonus is doubled if the bee is Gifted.
 
@@ -398,7 +398,7 @@ Upon maxing out with all 2000 Drives, Digital Bee gains +10 [Movespeed](stats.md
 
 ### Unlimited Gumdrops
 
-<figure class="thumb mw-halign-left" style="width: 100px" typeof="mw:File/Thumb">  <figcaption class="thumbcaption"> <p class="caption">The icon for the Unlimited Gumdrops buff.</p> </figcaption> </figure>
+
 
 **Free Gumdrops** is a passive ability that can only be obtained through the [Unlimited Gumdrops](buffs-debuffs.md#From_Areas) buff, which can be activated through certain [codes](codes.md) and the [Glue Dispenser](glue-dispenser.md).
 

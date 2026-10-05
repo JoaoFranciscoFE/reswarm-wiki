@@ -32,7 +32,7 @@ Snowbear has two different attacks:
 * Contact: If a player makes contact with Snowbear, it deals a base damage of 35. Snowbear does not track players; instead it moves randomly through the field hitting players along the way.
 * Snowball Hurl: Snowbear hurls a snowball at a player who is in, or around, the [Spider Field](spider-field.md). This snowball deals 60 base damage and applies the ["Frozen" Debuff](buffs-debuffs.md#Debuffs) to the player who gets hit by the snowball for approximately 2.5 seconds, applying ×0 [player movespeed](system-page.md#Movespeed) and [Jump Power](system-page.md#Jump_Power), as well as ×0.2 [Bee Movespeed](stats.md#Speed).
 
-<figure class="thumb" style="width: 90px" typeof="mw:File/Thumb">  <figcaption class="thumbcaption"> <p class="caption">The Frozen effect icon.</p> </figcaption> </figure>
+
 
 ## Health
 

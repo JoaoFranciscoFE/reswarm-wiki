@@ -5,7 +5,9 @@ tags: ["Items", "Gliding Tools", "Accessories", "Transport"]
 
 # Parachute
 
-<figure class="thumb" style="width: 220px" typeof="mw:File/Thumb">  <figcaption class="thumbcaption"> <p class="caption">The Parachute.</p> </figcaption> </figure>
+![Parachute](img/places/Parachute.png){ .wiki-photo }
+
+
 
 The **Parachute** is a gliding tool that can be purchased at the [Pro Shop](pro-shop.md).
 

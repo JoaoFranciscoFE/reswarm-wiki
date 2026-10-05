@@ -9,15 +9,15 @@ tags: ["Locations"]
 
 *You might have been looking for [Cave Monster](cave-monster.md).*
 
-<figure class="thumb" style="width: 200px" typeof="mw:File/Thumb">  <figcaption class="thumbcaption"> <p class="caption">The exterior of the Werewolf's Cave.</p> </figcaption> </figure>
 
-<figure class="thumb" style="width: 200px" typeof="mw:File/Thumb">  <figcaption class="thumbcaption"> <p class="caption">The interior of the Werewolf's Cave.</p> </figcaption> </figure>
+
+
 
 The **Werewolf's Cave**, located beyond the [Honey Bee Gate](honey-bee-gate.md), sits between the [Cactus Field](cactus-field.md) and the [Pumpkin Patch](pumpkin-patch.md). It is home to the [werewolf](werewolf.md) and two spider-like creatures called [Cave Monsters](cave-monster.md) inside of it that will try to kill you. There is a [Gold Egg](egg.md#Gold_Egg) token at the end of the cave.
 
 To get the gold egg easily, prepare items or gear that give haste, such as boots, guards, [Oil](oil.md), [Bear Morph](ability-tokens.md#Bear_Morph), and stacks of [Haste](ability-tokens.md#Haste) and/or Haste+. Afterwards, make a run for it, jumping the whole way to avoid getting killed. Extra boosts, however, are not required nor needed. If you are lucky, you may be able to get the golden egg through jumping. Sometimes, there is a glitch where the cave monsters don't spawn or they are lagging, and in that case, it is easy to get the gold egg without preparation. Getting Haste+ by using the [Royal Jelly Dispenser](royal-jelly-dispenser.md) in the [Star Hall](star-hall.md) or by using [codes](codes.md) can help, and another option is to defeat the cave monsters in the cave, and then get the gold egg, though that solution can be hard. If you have [pollen](pollen.md) in your [bag](bags.md) and wish to keep it, you can exit the cave using a [Whirligig](whirligig.md) to exit the Werewolf's Cave safely.
 
-<figure class="thumb" style="width: 200px" typeof="mw:File/Thumb">  <figcaption class="thumbcaption"> <p class="caption">A sprout in the Mountain Top Field, as seen from the cave.</p> </figcaption> </figure>
+
 
 If there is a [sprout](sprout.md) in the [Mountain Top Field](mountain-top-field.md), its light beam is visible inside of the Werewolf's Cave. If there's a cloud on the Mountain Top Field, the rain might be visible. Honeystorms, snow storms, and mythic meteor showers are also visible while inside the cave.
 

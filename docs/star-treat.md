@@ -11,7 +11,7 @@ Star Treat
 
 *"Turns a bee into a Gifted bee!"*
 
-<figure class="thumb" style="width: 280px" typeof="mw:File/Thumb">  <figcaption class="thumbcaption"> <p class="caption">The text that appears in the chat when a bee turns gifted via a treat.</p> </figcaption> </figure>
+
 
 A **Star Treat** is a special type of [treat](treats.md) that, when fed to a [bee](bees.md), raises its [bond](bond.md) by 1,000 and transforms the bee into its [gifted form](gifted-bee.md). It is the only treat in the game which is guaranteed to turn a bee gifted. It is also one of the only ways to get gifted [Event bees](bees-event.md), including [Gingerbread Bears](gingerbread-bear.md) and [Aged Gingerbread Bears](aged-gingerbread-bear.md).
 

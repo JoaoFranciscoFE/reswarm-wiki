@@ -13,9 +13,9 @@ Due to the nature of the information, details may be inaccurate or outdated.
 
 Datamined information: The scaling of all Nectars' buffs. — December 19th, 2024
 
-<figure class="thumb" style="width: 128px" typeof="mw:File/Thumb">  <figcaption class="thumbcaption"> <p class="caption">The <a href="nectar-pot.html">Nectar Pot</a> located in the 30 Bee Zone.</p> </figcaption> </figure>
+<figure class="mw-halign-center" style="text-align:center"><img alt="" src="img/places/Nectar_Pot.png" width="320"/><figcaption><p class="caption">The <a href="nectar-pot.html">Nectar Pot</a> located in the 30 Bee Zone.</p></figcaption></figure>
 
-<figure class="thumb" style="width: 162px" typeof="mw:File/Thumb">  <figcaption class="thumbcaption"> <p class="caption">The <a href="nectar-condenser.html">Nectar Condenser</a> located in the 35 Bee zone</p> </figcaption> </figure>
+<figure class="mw-halign-center" style="text-align:center"><img alt="" src="img/places/Nectar_Condenser.png" width="320"/><figcaption><p class="caption">The <a href="nectar-condenser.html">Nectar Condenser</a> located in the 35 Bee zone</p></figcaption></figure>
 
 **Nectar** is a set of [buffs](buffs-debuffs.md) that were added in the 2021-12-26 update. It is granted from [planters](planter.md), either through harvesting them, having [bees](bees.md) sip from planters, using [Dapper Bear](dapper-bear.md)'s [Samovar](samovar.md) during Beesmas, or using a nectar vial item. Some [quests](quests.md) require a certain amount and type of nectar to be collected. All sources of getting Nectar can contribute to those quests (except collecting Nectar from the Nectar Pot).
 

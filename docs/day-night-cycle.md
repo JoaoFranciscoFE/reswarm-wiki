@@ -11,13 +11,13 @@ The **Day/Night Cycle** is a feature added in the 2018-09-10 update. Before the 
 
 ## Day
 
-<figure class="thumb" style="width: 250px" typeof="mw:File/Thumb">  <figcaption class="thumbcaption"> <p class="caption">The game during daytime.</p> </figcaption> </figure>
+
 
 Daytime previously lasted from around 10 to 30 minutes (for an average of 20 minutes). All [music](music.md) plays as normal. This is the default setting for the game.
 
 ## Night
 
-<figure class="thumb" style="width: 250px" typeof="mw:File/Thumb">  <figcaption class="thumbcaption"> <p class="caption">The game during nighttime.</p> </figcaption> </figure>
+
 
 When the day ends, the sun goes down quickly, and the sky shifts to black, indicating that it is nighttime. During this cycle, all outdoor music is replaced by [mountaincall](music.md#mountaincall). Entering any area that plays the [vendor](music.md#vendor), [crawlers](music.md#crawlers), [gbtune1](music.md#gbtune1), [hibernation1](music.md#hibernation1), [starhall](music.md#starhall) music or music playing during an [Ant](ant-challenge.md), [Robo](robo-bear-challenge.md) or [Stick Bug Challenge](stick-bug-challenge.md) will override the night music. [Fireflies](fireflies.md) will also appear, stopping in different [fields](fields.md). The background of the server and walls will turn pitch black. A [Rogue Vicious Bee](rogue-vicious-bee.md) has a higher chance of spawning every night. A moon sprout also has a 60% chance of spawning every night.
 

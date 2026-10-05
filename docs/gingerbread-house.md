@@ -11,7 +11,7 @@ This piece of content goes bye bye.
 
 The following content has been removed from the game. The contents below may be archival, but feel free to edit below.
 
-<figure class="thumb" style="width: 180px" typeof="mw:File/Thumb">  <figcaption class="thumbcaption"> <p class="caption">The Gingerbread House after being assembled by completing <a href="mother-bear.html">Mother Bear</a>'s Beesmas quest.</p> </figcaption> </figure>
+
 
 The **Gingerbread House** is a Beesmas-exclusive machine which can be assembled after completing [Mother Bear](mother-bear.md)'s Beesmas quest.
 

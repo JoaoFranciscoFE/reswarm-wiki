@@ -7,9 +7,9 @@ tags: ["Mechanics"]
 
 ![Pollination](img/Pollination.png){ align=right width=150 }
 
-<figure class="thumb" style="width: 150px" typeof="mw:File/Thumb">  <figcaption class="thumbcaption"> <p class="caption">A flower being pollinated.</p> </figcaption> </figure>
 
-<figure class="thumb" style="width: 152px" typeof="mw:File/Thumb">  <figcaption class="thumbcaption"> <p class="caption">A large and a star flower, both of which can only be seen via pollination.</p> </figcaption> </figure>
+
+
 
 **Pollination** is a [mechanic](mechanics.md) that causes [flowers](flowers.md) to grow to higher tiers, increasing their total [pollen](pollen.md) and multiplier. Flowers that are lower tier than other flowers in the [field](fields.md) have a higher chance of being pollinated. When flowers are pollinated, they will burst flower particles.
 

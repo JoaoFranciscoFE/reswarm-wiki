@@ -33,7 +33,7 @@ tags: ["Machines", "Locations"]
 
 The **Nectar Condenser** is a machine added in the January 12, 2024 update and is located past the [Windy Bee Gate](windy-bee-gate.md) near the [Wind Shrine](wind-shrine.md). It allows the player to condense 12 hours of any [nectar](nectar.md) to receive a [vial](nectar-vial.md) that holds 4 hours of nectar. This vial can be used at any time and grants 4 hours of that nectar type. It requires at least 35 bees to use and access. The Nectar Condenser cannot be used to make [Nectar Shower Vials](nectar-shower-vial.md).
 
-<figure class="thumb" style="width: 180px" typeof="mw:File/Thumb">  <figcaption class="thumbcaption"> <p class="caption">The menu of the Nectar Condenser.</p> </figcaption> </figure>
+
 
 When condensing nectar, it has a 1/25 (4%) chance to drop a [sticker](sticker.md) corresponding to the nectar condensed. The place where it drops depends on the nectar that was condensed:
 

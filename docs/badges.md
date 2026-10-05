@@ -7,7 +7,7 @@ tags: ["Gameplay", "Mechanics", "Re://:Swarm"]
 
 ![Badges](img/Badges.png){ align=right width=150 }
 
-<figure class="thumb" style="width: 180px" typeof="mw:File/Thumb">  <figcaption class="thumbcaption"> <p class="caption">The badge icon.</p> </figcaption> </figure>
+
 
 **Badges** are part of the achievement system of [Re://:Swarm](re-swarm.md). There are currently 155 badges in Re://:Swarm (including inactive badges). 30 of the badges are currently unobtainable.
 
@@ -27,7 +27,7 @@ Upon claiming any non-event badge, it will be announced in the server publicly, 
 
 <figure class="mw-halign-left" typeof="mw:Error mw:File/Frameless"><figcaption></figcaption></figure>
 
-<figure class="thumb" style="width: 220px" typeof="mw:File/Thumb">  <figcaption class="thumbcaption"> <p class="caption">A player receiving a badge, with the notification in chat.</p> </figcaption> </figure>
+
 
 ## Honey Badges
 

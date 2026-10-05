@@ -7,7 +7,7 @@ tags: ["Mechanics"]
 
 ![Trading](img/Trading.png){ align=right width=150 }
 
-<figure class="thumb" style="width: 180px" typeof="mw:File/Thumb">  <figcaption class="thumbcaption"> <p class="caption">Two players trading in the trading menu.</p> </figcaption> </figure>
+
 
 **Trading** is a mechanic added in the 2024-01-12 update, which allows players to trade [Beequips](beequip.md), [Cub Buddy Skins](cub-buddy.md) and [stickers](sticker.md).
 

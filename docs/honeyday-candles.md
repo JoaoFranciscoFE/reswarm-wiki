@@ -15,7 +15,7 @@ Due to the nature of the information, details may be inaccurate or outdated.
 
 Datamined information: The probability of getting every item and bee. — December 19th, 2024
 
-<figure class="thumb" style="width: 180px" typeof="mw:File/Thumb">  <figcaption class="thumbcaption"> <p class="caption">The Honeyday Candles after completing <a href="gifted-riley-bee.html">Gifted Riley Bee's</a> Beesmas Quest.</p> </figcaption> </figure>
+
 
 The **Honeyday Candles** are a Beesmas-exclusive machine which is unlocked after completing [Gifted Riley Bee](gifted-riley-bee.md)'s Honeyday Candles [quest](quests.md). They have a cooldown of 4 hours, and are located next to the [Red HQ](red-hq.md)'s interior ladder.
 

@@ -5,7 +5,7 @@ tags: ["Currency", "Gameplay", "Mechanics"]
 
 # Honey
 
-<figure class="thumb" style="width: 180px" typeof="mw:File/Thumb">  <figcaption class="thumbcaption"> <p class="caption">The honey icon.</p> </figcaption> </figure>
+<figure class="mw-halign-center" style="text-align:center"><img alt="honey" src="img/Honey.png" width="60"/><figcaption><p class="caption">The honey icon.</p></figcaption></figure>
 
 **Honey** is the main currency in [Re://:Swarm](re-swarm.md).
 

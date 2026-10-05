@@ -14,7 +14,7 @@ The Top Stick Bug Fighters leaderboard was reset at one point due to glitches wi
 
 It was later reset again on 2022-12-26.
 
-<figure class="thumb" style="width: 180px" typeof="mw:File/Thumb">  <figcaption class="thumbcaption"> <p class="caption">Stick Bug next to the Top Stick Bug Fighters leaderboard.</p> </figcaption> </figure>
+
 
 The leaderboard was recently reset once more in 2024-01-12 due to the technique of using attack buffs in Robo Bear's Challenge to increase damage drastically.
 
