@@ -11,390 +11,79 @@ tags: ["Shops", "Mechanics"]
 
 The **Robux Shop** is a shop that requires robux to purchase items. It can be accessed through the Shop tab on the menu bar. It is directly next to the [System Tab](system-page.md).
 
-This shop sells gamepasses, [Eggs](egg.md), [Royal Jelly](royal-jelly.md), [Honey](honey.md), [Night Bells](night-bell.md), [Sticker Planters](sticker-planter.md), [Magic Beans](magic-bean.md), and [Tickets](ticket.md). It sometimes sells limited-edition items, such as [Festive Beans](festive-bean.md), and limited-time packs.
+This shop sells gamepasses, limited-time packs, [Eggs](egg.md), [Magic Beans](magic-bean.md), [Festive Beans](festive-bean.md), vouchers, [Nectar Vials](nectar-vial.md) and blessing boosts. Prices below are the live Roblox prices.
 
 ## Items
 
-### Vouchers
+### Gamepasses { #Gamepasses }
 
-<table class="article-table">
-<tbody><tr>
-<th>Icon
-</th>
-<th>Item Name
-</th>
-<th><span typeof="mw:Error mw:File"></span><span class="color-template color-template-robux color-template-background-clip">Robux</span>
-</th>
-<th>Description
-</th></tr>
-<tr>
-<td><img alt="Bear Bee Voucher" height="50" src="img/Bear_Bee_Voucher.png" width="50"/>
-</td>
-<td><a href="sticker.html#Sticker_Index"><span class="color-template color-template-bear-bee-voucher color-template-background-clip">Bear Bee Voucher</span></a>
-</td>
-<td>800
-</td>
-<td>A tradable voucher that can be redeemed for a Bear Bee Egg! Only 1 Bear Bee Egg can be received per account.<br/>
-<p>Bear Bee Periodically transforms you into a Bear, granting x2 Pollen!
-</p>
-</td></tr>
-<tr>
-<td><img alt="Cub Buddy Voucher" height="50" src="img/Cub_Buddy_Voucher.png" width="50"/>
-</td>
-<td><a href="sticker.html#Sticker_Index"><span class="color-template color-template-cub-buddy-voucher color-template-background-clip">Cub Buddy Voucher</span></a>
-</td>
-<td>600
-</td>
-<td>A tradable voucher that can be redeemed for a Cub Buddy, if you don't already have one. (Max 1 Cub Buddy per account)<br/>
-<p>A baby bear that follows you around collecting Tokens and granting Gifts!
-</p>
-</td></tr>
-<tr>
-<td><img alt="x2 Bee Gather Voucher" height="50" src="img/x2_Bee_Gather_Voucher.png" width="50"/>
-</td>
-<td><a href="sticker.html#Sticker_Index"><span class="color-template color-template-x2-bee-gather-voucher color-template-background-clip">x2 Bee Gather Voucher</span></a>
-</td>
-<td>400
-</td>
-<td>A tradable voucher that can be redeemed once per account to permanently grant x2 Bee Gather Pollen!<br/>
-<p>Bees collect twice as much pollen when collecting from flowers!
-</p>
-</td></tr>
-<tr>
-<td><img alt="x2 Convert Speed Voucher" height="50" src="img/x2_Convert_Speed_Voucher.png" width="50"/>
-</td>
-<td><a href="sticker.html#Sticker_Index"><span class="color-template color-template-x2-convert-speed-voucher color-template-background-clip">x2 Convert Speed Voucher</span></a>
-</td>
-<td>250
-</td>
-<td>A tradable voucher that can be redeemed once per account to permanently grant x2 Convert Speed!<br/>
-<p>Bees convert Pollen into Honey in half the time!
-</p>
-</td></tr>
-<tr>
-<td><img alt="Ticket Voucher" height="50" src="img/Ticket_Voucher.png" width="50"/>
-</td>
-<td><a href="sticker.html#Sticker_Index"><span class="color-template color-template-ticket-voucher color-template-background-clip">Ticket Voucher</span></a>
-</td>
-<td>400
-</td>
-<td>Can be redeemed for 100 Tickets.<br/>Only one may be redeemed per day.<br/>(This is a tradable voucher.)
-</td></tr></tbody></table>
+| Icon | Gamepass | Robux | Description |
+|---|---|---|---|
+| ![](img/Gamepass_Perm_Wealth_Clock.png){ width=50 } | Permanent [Wealth Clock](wealth-clock.md) | 9 | Always receive the max Wealth Clock buff and 5 tickets from the Wealth Clock. |
+| ![](img/Gamepass_Ability_Bee_Rate.png){ width=50 } | +50% Bee Ability Rate | 90 | Bees use their abilities 50% more often. |
+| ![](img/Gamepass_Petal_Magnet.png){ width=50 } | Petal Magnet | 54 | Collect bloom petals from anywhere in the same field. |
+| ![](img/Gamepass_Half_Item_Cooldown.png){ width=50 } | Half Item Cooldown | 45 | Reduces usable item cooldowns by half. |
+| ![](img/Gamepass_Digital_Bee_Dupe_Chance.png){ width=50 } | x1.5 [Digital Bee](digital-bee.md) Dupe Chance | 180 | Multiplies Digital Bee's ability duplication chance by 1.5 (0% becomes 1%, 20% becomes 30%). |
+| ![](img/Gamepass_50%25_Monster_Respawn.png){ width=50 } | -50% Monster Respawn Time | 45 | Reduces monster respawn times by 50%. Stacks with other respawn bonuses. |
+| ![](img/Gamepass_x2_Item_Loot.png){ width=50 } | x2 Item Loot | 90 | Doubles eligible item loot. It doesn't affect Gifted Eggs, Mythic Eggs, Mythic Jelly, Choose-A-Mythic Eggs, Star Eggs, Star Treats or Festive Beans. |
 
-### Eggs
+### Limited-Time Packs
 
-<table class="article-table">
-<tbody><tr>
-<th>Icon
-</th>
-<th>Item Name
-</th>
-<th><span typeof="mw:Error mw:File"></span><span class="color-template color-template-robux color-template-background-clip">Robux</span>
-</th>
-<th>Description
-</th></tr>
-<tr>
-<td><img alt="Silver Egg" height="50" src="img/Silver_Egg.png" width="50"/>
-</td>
-<td><a href="egg.html#Silver_Egg"><span class="color-template color-template-silver-egg color-template-background-clip">Silver Egg</span></a>
-</td>
-<td>100
-</td>
-<td>
-<p>Hatches into a special <a href="bees.html">bee</a>!
-(64.9% Rare, 30% Epic, 5% Legendary, 0.1% Mythic) 
-</p>
-</td></tr>
-<tr>
-<td><img alt="Gold Egg" height="50" src="img/Gold_Egg.png" width="50"/>
-</td>
-<td><a href="egg.html#Gold_Egg"><span class="color-template color-template-gold-egg color-template-background-clip">Gold Egg</span></a>
-</td>
-<td>200
-</td>
-<td>
-<p>Always hatches into an <a href="bees-epic.html">Epic</a>, <a href="bees-legendary.html">Legendary</a>, or <a href="bees-mythic.html">Mythic bee</a>!
-(79% Epic, 20% Legendary, 1% Mythic)
-</p>
-</td></tr>
-<tr>
-<td><img alt="Diamond Egg" height="50" src="img/Diamond_Egg.png" width="50"/>
-</td>
-<td><a href="egg.html#Diamond_Egg"><span class="color-template color-template-diamond-egg color-template-background-clip">Diamond Egg</span></a>
-</td>
-<td>400
-</td>
-<td>
-<p>Always hatches into a Legendary or Mythic bee!
-(95% Legendary, 5% Mythic)
-</p>
-</td></tr>
-<tr>
-<td><img alt="Star Egg" height="50" src="img/Star_Egg.png" width="50"/>
-</td>
-<td><a href="egg.html#Star_Egg"><span class="color-template color-template-star-egg color-template-background-clip">Star Egg</span></a>
-</td>
-<td>800
-</td>
-<td>
-<p>Always hatches into a Gifted bee you don't already own! (Excludes <a href="bees-event.html">Event bees</a>. Limit 5 per player.)
-</p>
-</td></tr>
-<tr>
-<td><img alt="Mythic Egg" height="50" src="img/Mythic_Egg.png" width="50"/>
-</td>
-<td><a href="egg.html#Mythic_Egg"><span class="color-template color-template-mythic-egg color-template-background-clip">Mythic Egg</span></a>
-</td>
-<td>1200
-</td>
-<td>
-<p>Always hatches into a random Mythic bee! (Limit 3 per player.)
-</p>
-</td></tr></tbody></table>
+| Icon | Pack | Robux | Contents |
+|---|---|---|---|
+| ![](img/1st_Edition_Painter_Bee_Voucher.png){ width=50 } | [Painter Bee's Colorful Haul](painter-bee-event.md#shop) | 495 | 1st Edition Painter Bee Voucher, Red, Blue and White Paint Splatter stickers, Painter Bee's Artistic Hive Skin, Painter Bee Painting, Gifted Painter Bee sticker and Painter's Doodle. Leaves on October 9, 2026. |
+| ![](img/Custom_Cub_Skin.png){ width=50 } | Meowl Pack | 180 | Custom Cub Skin, [Cub Buddy](cub-buddy.md) Voucher, x2 Convert Speed Voucher and Robo Comb Hive Skin. |
 
-### Royal Jelly
+### Eggs and Beans
 
-<table class="article-table">
-<tbody><tr>
-<th>Icon
-</th>
-<th>Item Name
-</th>
-<th><span typeof="mw:Error mw:File"></span><span class="color-template color-template-robux color-template-background-clip">Robux</span>
-</th>
-<th>Description
-</th></tr>
-<tr>
-<td><img alt="Royal Jelly" height="50" src="img/Royal_Jelly.png" width="50"/>
-</td>
-<td><a href="royal-jelly.html"><span class="color-template color-template-royal-jelly color-template-background-clip">Royal Jelly</span></a>
-</td>
-<td>45
-</td>
-<td>Transforms a bee's type (70% Rare, 27% Epic and 3% Legendary).
-</td></tr>
-<tr>
-<td><span typeof="mw:Error mw:File"></span>
-</td>
-<td>10 <a href="royal-jelly.html"><span class="color-template color-template-royal-jelly color-template-background-clip">Royal Jellies</span></a>
-</td>
-<td>300
-</td>
-<td>A value pack of Royal Jellies (33% Discount).
-</td></tr></tbody></table>
+| Icon | Item | Robux | Description |
+|---|---|---|---|
+| ![](img/Choose-A-Mythic_Egg.png){ width=50 } | Choose-A-Mythic Egg | 180 | Hatches into the Mythic Bee of your choice. |
+| ![](img/Diamond_Egg.png){ width=50 } | Diamond Egg | 45 | Hatches into a Legendary or Mythic bee. |
+| ![](img/Festive_Bean.png){ width=50 } | [Festive Bean](festive-bean.md) | 90 | Plants a Festive Sprout. |
+| ![](img/Magic_Bean.png){ width=50 } | [Magic Bean](magic-bean.md) | 9 | Plants a random Sprout. |
 
-### Tickets
+### Vouchers and Wax
 
-<table class="article-table">
-<tbody><tr>
-<th>Icon
-</th>
-<th>Item Name
-</th>
-<th><span typeof="mw:Error mw:File"></span><span class="color-template color-template-robux color-template-background-clip">Robux</span>
-</th>
-<th>Description
-</th></tr>
-<tr>
-<td><img alt="Ticket" height="50" src="img/Ticket.png" width="50"/>
-</td>
-<td><a href="ticket.html"><span class="color-template color-template-ticket color-template-background-clip">Ticket</span></a>
-</td>
-<td>10
-</td>
-<td>Used to activate and purchase various things in the game.
-</td></tr>
-<tr>
-<td><span typeof="mw:Error mw:File"></span>
-</td>
-<td>100 <a href="ticket.html"><span class="color-template color-template-ticket color-template-background-clip">Tickets</span></a>
-</td>
-<td>400
-</td>
-<td>A value pack of tickets! (x2.5 Value. 4 Per Ticket.)
-</td></tr>
-<tr>
-<td><span typeof="mw:Error mw:File"></span>
-</td>
-<td>510 <a href="ticket.html"><span class="color-template color-template-ticket color-template-background-clip">Tickets</span></a>
-</td>
-<td>1700
-</td>
-<td>A value pack of tickets! (x3 Value. 3.33 Per Ticket.)
-</td></tr>
-<tr>
-<td><span typeof="mw:Error mw:File"></span>
-</td>
-<td>1,800 <a href="ticket.html"><span class="color-template color-template-ticket color-template-background-clip">Tickets</span></a>
-</td>
-<td>4500
-</td>
-<td>A value pack of tickets! (x4 Value. 2.5 Per Ticket.)
-</td></tr></tbody></table>
+| Icon | Item | Robux | Description |
+|---|---|---|---|
+| ![](img/Bear_Bee_Voucher.png){ width=50 } | [Bear Bee](bear-bee.md) Voucher | 180 | Redeem for a Bear Bee Egg. |
+| ![](img/x2_Convert_Speed_Voucher.png){ width=50 } | x2 Convert Speed Voucher | 36 | x2 Convert Speed. Once per account. |
+| ![](img/x2_Bee_Gather_Voucher.png){ width=50 } | x2 Bee Gather Voucher | 90 | x2 Bee Gather Pollen. Once per account. |
+| ![](img/Fluxite_Wax.png){ width=50 } | [Fluxite Wax](fluxite-wax.md) | 72 | Rerolls a [Beequip](beequip.md)'s potential from 1 to 5 stars without using a wax slot. |
 
-### Other Items
+### Vials
 
-<table class="article-table">
-<tbody><tr>
-<th>Icon
-</th>
-<th>Item Name
-</th>
-<th><span typeof="mw:Error mw:File"></span><span class="color-template color-template-robux color-template-background-clip">Robux</span>
-</th>
-<th>Description
-</th></tr>
-<tr>
-<td><img alt="Magic Bean" height="50" src="img/Magic_Bean.png" width="50"/>
-</td>
-<td><a href="magic-bean.html"><span class="color-template color-template-magic-bean color-template-background-clip">Magic Bean</span></a>
-</td>
-<td>30
-</td>
-<td>Activate to plant a random <a href="sprout.html">Sprout</a> in a field. Collect pollen to make it grow.
-</td></tr>
-<tr>
-<td><span typeof="mw:Error mw:File"></span>
-</td>
-<td>10 <a href="magic-bean.html"><span class="color-template color-template-magic-bean color-template-background-clip">Magic Beans</span></a>
-</td>
-<td>200
-</td>
-<td>A value pack of 10 Magic Beans!
-</td></tr>
-<tr>
-<td><img alt="Sticker Planter" height="50" src="img/Sticker_Planter.png" width="50"/>
-</td>
-<td><a href="sticker-planter.html"><span class="color-template color-template-sticker-planter color-template-background-clip">Sticker Planter</span></a>
-</td>
-<td>100
-</td>
-<td>Grows in around 3 hours playtime. Grants <a href="nectar.html">Nectar</a>, <a href="sticker.html">Stickers</a> (at least 5), and more. Always spawns a <a href="puffshroom.html">Rare Puffshroom</a> (or better)! (Requires 20 Bees to purchase. Limit 10 per player.)
-</td></tr>
-<tr>
-<td><img alt="Night Bell" height="50" src="img/Night_Bell.png" width="50"/>
-</td>
-<td><a href="night-bell.html"><span class="color-template color-template-night-bell color-template-background-clip">Night Bell</span></a>
-</td>
-<td>80
-</td>
-<td>Summons <a href="day-night-cycle.html">Night time</a>. A Moon Sprout and a <a href="rogue-vicious-bee.html">Vicious Bee</a> are guaranteed to appear.
-</td></tr></tbody></table>
+| Icon | Item | Robux | Description |
+|---|---|---|---|
+| ![](img/Nectar_Shower_Vial.png){ width=50 } | [Nectar Shower Vial](nectar-shower-vial.md) | 18 | Gives every player in the server 4 hours of every Nectar. |
+| ![](img/Satisfying_Vial.png){ width=50 } | [Satisfying Vial](satisfying-vial.md) | 9 | 4 hours of Satisfying Nectar. |
+| ![](img/Refreshing_Vial.png){ width=50 } | [Refreshing Vial](refreshing-vial.md) | 9 | 4 hours of Refreshing Nectar. |
+| ![](img/Motivating_Vial.png){ width=50 } | [Motivating Vial](motivating-vial.md) | 9 | 4 hours of Motivating Nectar. |
+| ![](img/Invigorating_Vial.png){ width=50 } | [Invigorating Vial](invigorating-vial.md) | 9 | 4 hours of Invigorating Nectar. |
+| ![](img/Comforting_Vial.png){ width=50 } | [Comforting Vial](comforting-vial.md) | 9 | 4 hours of Comforting Nectar. |
 
-### Honey
+### Blessings
 
-<table class="article-table">
-<tbody><tr>
-<th>Icon
-</th>
-<th>Name
-</th>
-<th><span typeof="mw:Error mw:File"></span><span class="color-template color-template-robux color-template-background-clip">Robux</span>
-</th>
-<th>Description
-</th></tr>
-<tr>
-<td><span typeof="mw:Error mw:File"></span>
-</td>
-<td>Honey Pouch
-</td>
-<td>25
-</td>
-<td>Instantly gain 10,000 <a href="honey.html"><span class="color-template color-template-honey">Honey</span></a>.
-</td></tr>
-<tr>
-<td><span typeof="mw:Error mw:File"></span>
-</td>
-<td>Honey Sack
-</td>
-<td>300
-</td>
-<td>Instantly gain 250,000 <a href="honey.html"><span class="color-template color-template-honey">Honey</span></a>.
-</td></tr>
-<tr>
-<td><span typeof="mw:Error mw:File"></span>
-</td>
-<td>Honey Chest
-</td>
-<td>800
-</td>
-<td>Instantly gain 1,000,000 <a href="honey.html"><span class="color-template color-template-honey">Honey</span></a>.
-</td></tr>
-<tr>
-<td><span typeof="mw:Error mw:File"></span>
-</td>
-<td>Honey Vault
-</td>
-<td>1,700
-</td>
-<td>Instantly gain 5,000,000 <a href="honey.html"><span class="color-template color-template-honey">Honey</span></a>.
-</td></tr></tbody></table>
+| Icon | Item | Robux | Description |
+|---|---|---|---|
+|  | Max [Puffshroom](puffshroom.md) Blessing | 5 | Max Puffshroom Blessing stacks for the full 3 hours. |
+| ![](img/Festive_Nymph_Blessing.png){ width=50 } | Max [Festive Nymph](festive-nymph.md) Blessing | 7 | Max Festive Nymph Blessing stacks for the full 8 hours. |
+| ![](img/Robo_Party_Blessing.png){ width=50 } | Max [Robo Party](robo-party-cake.md) Blessing | 9 | Max Robo Party Blessing stacks for the full 1 hour. |
 
-### Expired Limited Edition Packs (2026)
+### Expired Packs (2026)
 
-<table class="sortable mw-collapsible mw-collapsed article-table" style="width: 100%">
-<tbody><tr>
-<th>Icon
-</th>
-<th>Item Name
-</th>
-<th><span typeof="mw:Error mw:File"></span><span class="color-template color-template-robux color-template-background-clip">Robux</span>
-</th>
-<th>Description
-</th>
-<th>Ended on
-</th></tr>
-<tr>
-<td><span typeof="mw:Error mw:File"></span>
-</td>
-<td>Merry Mythic Mondo-Haul
-</td>
-<td>4500
-</td>
-<td><img alt="Choose-A-Mythic Egg" height="25" src="img/Choose-A-Mythic_Egg.png" width="25"/>1 <a href="egg.html#Choose-A-Mythic_Egg"><span class="color-template color-template-choose-a-mythic-egg color-template-background-clip">Choose-A-Mythic Egg</span></a>, <img alt="Star Treat" height="25" src="img/Star_Treat.png" width="25"/>1 <a href="star-treat.html"><span class="color-template color-template-star-treat color-template-background-clip">Star Treat</span></a>, <img alt="Turpentine" height="25" src="img/Turpentine.png" width="25"/>1 <a href="turpentine.html"><span class="color-template color-template-turpentine color-template-background-clip">Turpentine</span></a>, <img alt="Toy Drum" height="25" src="img/Toy_Drum.png" width="25"/>1 <a href="toy-drum.html"><span class="color-template color-template-toy-drum color-template-background-clip">Toy Drum</span></a>, <img alt="Ticket Voucher" height="25" src="img/Ticket_Voucher.png" width="25"/>10 <a href="sticker.html#Sticker_Index"><span class="color-template color-template-ticket-voucher color-template-background-clip">Ticket Vouchers</span></a>, 25 Bloom Shakers, 25 <img alt="Swirled Wax" height="35" src="img/Swirled_Wax.png" width="35"/><a href="swirled-wax.html"><span class="color-template color-template-swirled-wax color-template-background-clip">Swirled</span></a> and <img alt="Caustic Wax" height="35" src="img/Caustic_Wax.png" width="35"/><a href="caustic-wax.html"><span class="color-template color-template-caustic-wax">Caustic Waxes</span></a>, <img alt="Gingerbread Bear" height="25" src="img/Gingerbread_Bear.png" width="25"/>100 <a href="gingerbread-bear.html"><span class="color-template color-template-gingerbread-bear color-template-background-clip">Gingerbread Bears</span></a>
-</td>
-<td>March 31, 2026
-</td></tr>
-<tr>
-<td><span typeof="mw:Error mw:File"></span>
-</td>
-<td>Seasonal Slumber Special
-</td>
-<td>1700
-</td>
-<td><img alt="Star Egg" height="25" src="img/Star_Egg.png" width="25"/>1 <a href="egg.html#Star_Egg"><span class="color-template color-template-star-egg color-template-background-clip">Star Egg</span></a>, <img alt="Offline Voucher" height="25" src="img/Offline_Voucher.png" width="25"/>1 <a href="sticker.html#Sticker_Index"><span class="color-template color-template-offline-voucher color-template-background-clip">Offline Voucher</span></a>, 10 <span typeof="mw:Error mw:File"></span><span class="color-template color-template-black-balloon">Black Balloon</span> and <img alt="Night Bell" height="35" src="img/Night_Bell.png" width="35"/><a href="night-bell.html"><span class="color-template color-template-night-bell color-template-background-clip">Night Bells</span></a>, 100 <img alt="Enzymes" height="35" src="img/Enzymes.png" width="35"/><a href="enzymes.html"><span class="color-template color-template-enzymes color-template-background-clip">Enzymes</span></a> and <img alt="Neonberry" height="35" src="img/Neonberry.png" width="35"/><a href="neonberry.html"><span class="color-template color-template-neonberry color-template-background-clip">Neonberries</span></a>, 1000 <img alt="Gumdrops" height="35" src="img/Gumdrops.png" width="35"/><a href="gumdrops.html"><span class="color-template color-template-gumdrops color-template-background-clip">Gumdrops</span></a> and <img alt="Snowflake" height="35" src="img/Snowflake.png" width="35"/><a href="snowflake.html"><span class="color-template color-template-snowflake color-template-background-clip">Snowflakes</span></a>
-</td>
-<td>March 31, 2026 (Pack may not show for everyone due to country limitations and laws surrounding purchases of randomised items)
-</td></tr>
-<tr>
-<td><span typeof="mw:Error mw:File"></span>
-</td>
-<td>Feelin' Festive Pack
-</td>
-<td>800
-</td>
-<td><img alt="Gifted Gold Egg" height="25" src="img/Gifted_Gold_Egg.png" width="25"/>1 <a href="egg.html#Gifted_Gold_Egg"><span class="color-template color-template-gifted-gold-egg color-template-background-clip">Gifted Gold Egg</span></a>, <img alt="Toy Horn" height="25" src="img/Toy_Horn.png" width="25"/>1 <a href="toy-horn.html"><span class="color-template color-template-toy-horn color-template-background-clip">Toy Horn</span></a>, <img alt="Festive Bean" height="25" src="img/Festive_Bean.png" width="25"/>5 <a href="festive-bean.html"><span class="color-template color-template-festive-bean color-template-background-clip">Festive Beans</span></a>, <img alt="Festive Planter" height="25" src="img/Festive_Planter.png" width="25"/>5 <a href="festive-planter.html"><span class="color-template color-template-festive-planter color-template-background-clip">Festive Planters</span></a>, <img alt="Nectar Shower Vial" height="25" src="img/Nectar_Shower_Vial.png" width="25"/>5 <a href="nectar-shower-vial.html"><span class="color-template color-template-nectar-shower-vial color-template-background-clip">Nectar Shower Vials</span></a>, <img alt="Gingerbread Bear" height="25" src="img/Gingerbread_Bear.png" width="25"/>25 <a href="gingerbread-bear.html"><span class="color-template color-template-gingerbread-bear color-template-background-clip">Gingerbread Bears</span></a>, <img alt="Ticket" height="25" src="img/Ticket.png" width="25"/>500 <a href="ticket.html"><span class="color-template color-template-ticket color-template-background-clip">Tickets</span></a>
-</td>
-<td>March 31, 2026 (Pack may not show for everyone due to country limitations and laws surrounding purchases of randomised items)
-</td></tr>
-<tr>
-<td><span typeof="mw:Error mw:File"></span>
-</td>
-<td>Stocking-Stuffer Stuff
-</td>
-<td>400
-</td>
-<td><img alt="Diamond Egg" height="25" src="img/Diamond_Egg.png" width="25"/>1 <a href="egg.html#Diamond_Egg"><span class="color-template color-template-diamond-egg color-template-background-clip">Diamond Egg</span></a>, 1 Critter In A Stocking Sticker, <img alt="Atomic Treat" height="25" src="img/Atomic_Treat.png" width="25"/>1 <a href="atomic-treat.html"><span class="color-template color-template-atomic-treat color-template-background-clip">Atomic Treat</span></a>, <img alt="Loaded Dice" height="25" src="img/Loaded_Dice.png" width="25"/>10 <a href="loaded-dice.html"><span class="color-template color-template-loaded-dice color-template-background-clip">Loaded Dice</span></a>, <img alt="Glitter" height="25" src="img/Glitter.png" width="25"/>25 <a href="glitter.html"><span class="color-template color-template-glitter color-template-background-clip">Glitter</span></a>, <img alt="Glue" height="25" src="img/Glue.png" width="25"/>25 <a href="glue.html"><span class="color-template color-template-glue color-template-background-clip">Glues</span></a>, <img alt="Snowflake" height="25" src="img/Snowflake.png" width="25"/>500 <a href="snowflake.html"><span class="color-template color-template-snowflake color-template-background-clip">Snowflakes</span></a>
-</td>
-<td>March 31, 2026 (Pack may not show for everyone due to country limitations and laws surrounding purchases of randomised items)
-</td></tr></tbody></table>
+| Icon | Pack | Robux | Contents | Ended |
+|---|---|---|---|---|
+| ![](img/Mortar_Bee_Pack.png){ width=50 } | Mortar Bee Pack | Unknown | Two 1st Edition [Mortar Bee](mortar-bee.md) Eggs, a Flying Mortar Bee sticker, a Happy Mortar Bee sticker and an Explosion sticker. | September 26, 2026 |
 
 ## Trivia
 
 * Everything in the shop can be earned without spending Robux due to trading and other ways to obtain things like vouchers.
 * The Robux Shop and [Bee Bear's Catalog](bee-bear-s-catalog.md) are the only shops that are in a menu area.
-* The Robux Shop has more items than any other shop in-game.
-* The Merry Mythic Mondo-Haul and 1800 tickets are the most expensive items in the Robux Shop (4500 robux for each item) and 1 ticket is the cheapest item in the Robux Shop (10 robux for each ticket).
+* Painter Bee's Colorful Haul is the most expensive item in the Robux Shop (495 Robux) and the Max Puffshroom Blessing is the cheapest (5 Robux).
+* Gamepasses bought under earlier uploads of the game still work.
+* The Mortar Bee Pack was the only way to get a 1st Edition Mortar Bee Egg.
 
 <table class="mw-collapsible mw-collapsed NavTable">
 <tbody><tr>
