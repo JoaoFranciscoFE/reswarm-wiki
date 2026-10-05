@@ -38,15 +38,18 @@ figure img { max-width: 100%; height: auto; }
 
 /* Header: game banner behind a dark bar */
 .md-header {
-  background: linear-gradient(rgba(8, 16, 17, .55), rgba(8, 16, 17, .85)), url("../images/game-banner.png") center 40% / cover;
+  background: linear-gradient(rgba(8, 16, 17, .55), rgba(8, 16, 17, .85)), url("../images/game-banner.webp") center 40% / cover;
   box-shadow: 0 2px 6px rgba(0, 0, 0, .5);
 }
 .md-header__title { font-weight: 700; letter-spacing: .02em; }
 .md-search__form { background: rgba(255, 255, 255, .12); border-radius: 4px; }
 
-/* Page background: blurred banner, content sits on a dark card */
-.md-main {
-  background: linear-gradient(rgba(6, 22, 12, .7), rgba(6, 22, 12, .7)), url("../images/game-banner.png") center top / cover fixed;
+/* Page background: blurred banner, content sits on a dark card.
+   Drawn on its own fixed layer: a "background-attachment: fixed" repaints the whole
+   page on every scroll step, which makes scrolling stutter on slow phones. */
+.md-main::before {
+  content: ""; position: fixed; inset: 0; z-index: -1; pointer-events: none;
+  background: linear-gradient(rgba(6, 22, 12, .7), rgba(6, 22, 12, .7)), url("../images/game-banner.webp") center top / cover;
 }
 .md-main__inner {
   margin-top: 1.4rem; margin-bottom: 1.4rem; border-radius: 10px;
@@ -361,3 +364,6 @@ figure img { max-width: 100%; height: auto; }
 .md-typeset .ability-token-row .ability-token { display: flex; flex-direction: column; align-items: center; margin: 0; width: auto; }
 .md-typeset .ability-token-row .ability-token img { width: 60px; height: 60px; object-fit: contain; }
 .md-typeset .ability-token-row .ability-token figcaption { margin: .3em 0 0; max-width: none; font-size: .7rem; font-style: normal; }
+
+/* Long tables (marked by hooks/performance.py) skip layout while off screen */
+.md-typeset table[data-long] { content-visibility: auto; }

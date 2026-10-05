@@ -35,10 +35,10 @@ markdown_extensions:
   - pymdownx.blocks.tab:
       alternate_style: true
 extra_css: [stylesheets/wiki.css]
-hooks: [hooks/cache_bust.py, hooks/nav_links.py, hooks/page_description.py, hooks/tool_patterns.py]
+hooks: [hooks/cache_bust.py, hooks/nav_links.py, hooks/page_description.py, hooks/tool_patterns.py, hooks/performance.py]
 extra_javascript:
   - javascripts/mathjax.js
-  - https://cdn.jsdelivr.net/npm/mathjax@3/es5/tex-mml-chtml.js
+  - javascripts/tabs.js
 copyright: "Content adapted from the Bee Swarm Simulator Wiki (Fandom), licensed under CC BY-SA 3.0."
 nav:
   - "Home": index.md
