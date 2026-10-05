@@ -174,49 +174,49 @@ nav:
       - "Sunflower Field": sunflower-field.md
   - "Mobs":
       - browse-mobs.md
-      - "Ant": ant.md
-      - "Ants": ants.md
-      - "Aphid": aphid.md
-      - "Army Ant": army-ant.md
-      - "Bean Bug": bean-bug.md
-      - "Bloom": bloom.md
+      - "Ladybug": ladybug.md
+      - "Rhino Beetle": rhino-beetle.md
+      - "Spider": spider.md
+      - "Mantis": mantis.md
+      - "Scorpion": scorpion.md
+      - "Werewolf": werewolf.md
+      - "King Beetle": king-beetle.md
+      - "Stump Snail": stump-snail.md
+      - "Tunnel Bear": tunnel-bear.md
       - "Cave Monster": cave-monster.md
-      - "Chicks": chicks.md
-      - "Coconut Crab": coconut-crab.md
-      - "Cogmower": cogmower.md
-      - "Cogturret": cogturret.md
       - "Commando Chick": commando-chick.md
       - "Commando Chick/Drops": commando-chick-drops.md
-      - "Festive Nymph": festive-nymph.md
+      - "Mondo Chick": mondo-chick.md
+      - "Coconut Crab": coconut-crab.md
+      - "Ants": ants.md
+      - "Ant": ant.md
       - "Fire Ant": fire-ant.md
-      - "Fireflies": fireflies.md
       - "Flying Ant": flying-ant.md
-      - "Frog": frog.md
+      - "Army Ant": army-ant.md
       - "Giant Ant": giant-ant.md
+      - "Cogmower": cogmower.md
       - "Golden Cogmower": golden-cogmower.md
-      - "King Beetle": king-beetle.md
-      - "Ladybug": ladybug.md
-      - "Mantis": mantis.md
+      - "Cogturret": cogturret.md
       - "Mechsquito": mechsquito.md
       - "Mega Mechsquito": mega-mechsquito.md
-      - "Mobs": mobs.md
-      - "Mondo Chick": mondo-chick.md
+      - "Stick Bug": stick-bug.md
+      - "Stick Nymph": stick-nymph.md
       - "Party Cogmower": party-cogmower.md
       - "Party Cogturret": party-cogturret.md
       - "Party Mechsquito": party-mechsquito.md
       - "Party Mega Mechsquito": party-mega-mechsquito.md
-      - "Puffshroom": puffshroom.md
-      - "Rhino Beetle": rhino-beetle.md
       - "Rogue Vicious Bee": rogue-vicious-bee.md
-      - "Scorpion": scorpion.md
-      - "Snowbear": snowbear.md
-      - "Spider": spider.md
-      - "Stick Bug": stick-bug.md
-      - "Stick Nymph": stick-nymph.md
-      - "Stump Snail": stump-snail.md
-      - "Tunnel Bear": tunnel-bear.md
-      - "Werewolf": werewolf.md
       - "Wild Windy Bee": wild-windy-bee.md
+      - "Chicks": chicks.md
+      - "Snowbear": snowbear.md
+      - "Festive Nymph": festive-nymph.md
+      - "Aphid": aphid.md
+      - "Bean Bug": bean-bug.md
+      - "Frog": frog.md
+      - "Fireflies": fireflies.md
+      - "Bloom": bloom.md
+      - "Puffshroom": puffshroom.md
+      - "Mobs": mobs.md
   - "Items":
       - browse-items.md
       - "Items": items.md
