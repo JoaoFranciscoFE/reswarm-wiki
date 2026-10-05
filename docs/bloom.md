@@ -5,7 +5,7 @@ tags: ["Mobs", "Passive Mobs"]
 
 # Bloom
 
-![Bloom](img/Bloom.png){ align=right width=150 }
+![Bloom](img/mobs/Bloom.png){ align=right width=180 }
 
 
 

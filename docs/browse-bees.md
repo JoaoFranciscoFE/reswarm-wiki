@@ -99,6 +99,6 @@ Every bee in Re://:Swarm, sorted by rarity. Pick a bee to see its stats, abiliti
 <a class="wiki-card" href="first-edition-bee.html"><img src="img/First_Edition_Bee.png" alt="" loading="lazy"><span>First Edition Bee</span></a>
 <a class="wiki-card" href="gifted-bee.html"><img src="img/Gifted_Bee.png" alt="" loading="lazy"><span>Gifted Bee</span></a>
 <a class="wiki-card" href="honey-bee-npc.html"><img src="img/Honey_Bee_(NPC).png" alt="" loading="lazy"><span>Honey Bee (NPC)</span></a>
-<a class="wiki-card" href="rogue-vicious-bee.html"><img src="img/Rogue_Vicious_Bee.png" alt="" loading="lazy"><span>Rogue Vicious Bee</span></a>
-<a class="wiki-card" href="wild-windy-bee.html"><img src="img/Wild_Windy_Bee.png" alt="" loading="lazy"><span>Wild Windy Bee</span></a>
+<a class="wiki-card" href="rogue-vicious-bee.html"><img src="img/mobs/Rogue_Vicious_Bee.png" alt="" loading="lazy"><span>Rogue Vicious Bee</span></a>
+<a class="wiki-card" href="wild-windy-bee.html"><img src="img/mobs/Wild_Windy_Bee.png" alt="" loading="lazy"><span>Wild Windy Bee</span></a>
 </div>
