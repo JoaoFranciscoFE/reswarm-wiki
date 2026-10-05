@@ -7,15 +7,11 @@ tags: ["Machines", "Beesmas", "Locations", "Beesmas Decorations"]
 
 ![Samovar](img/places/Samovar.png){ .wiki-photo }
 
-This piece of content goes bye bye.
-
-The following content has been removed from the game. The contents below may be archival, but feel free to edit below.
-
 
 
 The **Samovar** is a machine that was added in Beesmas 2021 and has returned in Beesmas 2022, 2024, and 2025. This machine can be unlocked by completing [Dapper Bear](dapper-bear.md)'s Beesmas quest, and when activated, it rewards a random [Nectar](nectar.md) type and [items](items.md) near the cup. The Samovar has a cooldown of 6 hours.
 
-If a player stands on the activation platform with Samovar without completing Dapper Bear's Beesmas 2021/2022 quest, the following message will appear:  
+If a player stands on the activation platform with Samovar without completing Dapper Bear's Beesmas quest, the following message will appear:  
 This strange thing is looking a little rusty...
 
 When a player uses the Samovar, the following messages appear **(where** 
@@ -34,7 +30,7 @@ Every time the Samovar is used, the amount of Nectar received will increase by 5
 
 The Samovar has a fixed cycle of rewards: [Oil](oil.md) -> [Enzymes](enzymes.md) -> [Gumdrops](gumdrops.md) -> [Glitter](glitter.md) -> [Ticket Planter](ticket-planter.md).
 
-On the 25th use, a [Turpentine](turpentine.md) is rewarded instead.
+Every 25th use, a [Turpentine](turpentine.md) is rewarded instead.
 
 ## Trivia
 

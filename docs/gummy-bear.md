@@ -135,9 +135,7 @@ Back to work soldier!
 
 ## Gummy Invasion Quests (15)
 
-This piece of content goes bye bye.
-
-The following content has been removed from the game. The contents below may be archival, but feel free to edit below.
+This was removed from the game.
 
 <table class="article-table mw-collapsible mw-collapsed">
 <tbody><tr>
@@ -581,10 +579,6 @@ Gummy Bee says "We are done here." Not so fast sweet little bee! YOU, beekeeper,
 Note: Player must own any item from the [Gummy Bear's Lair](gummy-bear-s-lair.md) in order to claim this quest. Trying to talk to Gummy Bear without any item bought from the shop will start the normal lair dialogue. You need to own any item from the [Gummy Bear's Lair](gummy-bear-s-lair.md) in order to give a present to Gummy Bear as well.
 
 ### 2025
-
-This piece of content goes bye bye.
-
-The following content has been removed from the game. The contents below may be archival, but feel free to edit below.
 
 <table class="article-table mw-collapsible mw-collapsed">
 <tbody><tr>

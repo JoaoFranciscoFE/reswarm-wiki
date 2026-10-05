@@ -1396,10 +1396,6 @@ Looks like it's been over an hour since I gave you your last quest. Talk to me a
 
 ### 2025
 
-This piece of content goes bye bye.
-
-The following content has been removed from the game. The contents below may be archival, but feel free to edit below.
-
 <table class="article-table mw-collapsible mw-collapsed">
 <tbody><tr>
 <th>Requirements
@@ -1445,9 +1441,7 @@ That's all we need. Lets [sic] stuff these stockings right up! We're putting a l
 
 ## Old Repeatable Quests
 
-This piece of content goes bye bye.
-
-The following content has been removed from the game. The contents below may be archival, but feel free to edit below.
+This was removed from the game.
 
 The quests required you to collect pollen from 1 field in a certain zone, with the pollen requirement changing depending on the number of bees in the player's [hive](hive.md), and the zone the field is in.
 

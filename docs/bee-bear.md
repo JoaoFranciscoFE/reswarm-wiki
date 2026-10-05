@@ -7,10 +7,6 @@ tags: ["NPC", "Bears", "Traveling Bears", "Quest Giver", "Beesmas", "Events"]
 
 ![Bee Bear](img/bears/Bee_Bear.png){ align=right width=150 }
 
-This piece of content goes bye bye.
-
-The following content has been removed from the game. The contents below may be archival, but feel free to edit below.
-
 <table class="infobox" style="font-size:12px; color:white; width:300px; background:#a58b59;padding:0; border:none; color:#FFF;">
 <tbody><tr>
 <td colspan="2" style="background-color:#684a12; font-size:2vh; text-align: center; padding: 15px 0; color:#FFF"><b>Bee Bear</b>
@@ -105,10 +101,6 @@ His seventh visit was originally for a Roblox event, the Winter Spotlight; howev
 His eighth visit started on December 25, 2025; however, none of his quests were introduced until December 27, 2025, where he gave out ten quests for rewards including a [Festive Planter](festive-planter.md). On January 16, 2026, 5 more quests were introduced for a [Cub Buddy](cub-buddy.md#Skins) ([Cub Buddy Voucher](sticker.md#Sticker_Index) if the player already owns a Cub Buddy). On April 23, 2026, the last 5 quests were released, rewarding the player with the [Petal Cub](cub-buddy.md#Skins) skin on completion. The main focus on his quests were [Blooms](bloom.md). His visit ended on June 8, 2026, at midnight EST (GMT-5).
 
 ### 2025
-
-This piece of content goes bye bye.
-
-The following content has been removed from the game. The contents below may be archival, but feel free to edit below.
 
 ## 2025 Quests
 

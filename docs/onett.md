@@ -238,9 +238,7 @@ Onett currently has 5 quests.
 
 ## Ornament Quest
 
-This piece of content goes bye bye.
-
-The following content has been removed from the game. The contents below may be archival, but feel free to edit below.
+This was removed from the game.
 
 <table class="article-table mw-collapsible mw-collapsed">
 <tbody><tr>
@@ -298,10 +296,6 @@ The following content has been removed from the game. The contents below may be 
 ## Beesmas Quest - Onett's Yard Art on the Lid
 
 ### 2025
-
-This piece of content goes bye bye.
-
-The following content has been removed from the game. The contents below may be archival, but feel free to edit below.
 
 <table class="article-table mw-collapsible mw-collapsed">
 <tbody><tr>

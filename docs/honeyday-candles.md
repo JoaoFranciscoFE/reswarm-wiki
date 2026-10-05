@@ -7,10 +7,6 @@ tags: ["Beesmas", "Locations", "Machines", "Summoner", "Beesmas Decorations"]
 
 ![The Honeyday Candles.](img/places/Honeyday_Candles.png){ .wiki-photo }
 
-This piece of content goes bye bye.
-
-The following content has been removed from the game. The contents below may be archival, but feel free to edit below.
-
 This piece of content contains information obtained through datamining.
 
 Due to the nature of the information, details may be inaccurate or outdated.
@@ -19,7 +15,7 @@ Datamined information: The probability of getting every item and bee. — Decemb
 
 
 
-The **Honeyday Candles** are a Beesmas-exclusive machine which is unlocked after completing [Gifted Riley Bee](gifted-riley-bee.md)'s Honeyday Candles [quest](quests.md). They have a cooldown of 4 hours, and are located next to the [Red HQ](red-hq.md)'s interior ladder.
+The **Honeyday Candles** are a Beesmas-exclusive machine which is unlocked after completing [Gifted Riley Bee](gifted-riley-bee.md)'s Honeyday Candles [quest](quests.md). They have a cooldown of 10 minutes, and are located next to the [Red HQ](red-hq.md)'s interior ladder.
 
 When activated, 3 random level 10 red [bees](bees.md) are [summoned](bees.md#Summoned_Bees) for 30 minutes, and 3 [waxes](waxes.md) of a random type are spawned.
 

@@ -124,10 +124,6 @@ Buzz zz buzz zz buzz zz BUZZZZZZZZ!! (Honey Bee will now bless you with 30 minut
 
 ### 2025
 
-This piece of content goes bye bye.
-
-The following content has been removed from the game. The contents below may be archival, but feel free to edit below.
-
 You need to be equipping the [Honey Mask](honey-mask.md) and have completed [Black Bear](black-bear.md)'s Honey Wreath quest to receive this quest.
 
 <table class="article-table mw-collapsible mw-collapsed">

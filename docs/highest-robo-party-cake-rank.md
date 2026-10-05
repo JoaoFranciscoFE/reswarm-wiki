@@ -7,10 +7,6 @@ tags: ["Beesmas", "Locations", "Leaderboards", "Robo Party"]
 
 ![Highest Robo Party Cake Rank](img/Highest_Robo_Party_Cake_Rank.png){ align=right width=150 }
 
-This piece of content goes bye bye.
-
-The following content has been removed from the game. The contents below may be archival, but feel free to edit below.
-
 The **Highest Robo Party Cake Rank** is one of the 64 [leaderboards](leaderboards.md) in the game. It was added in the 2023.04.01 ipdate. It is located near the [Rose Field](rose-field.md), to the right side of [Robo Party Cake](robo-party-cake.md). To summon a Robo Party, the player must complete [Robo Bear](robo-bear.md)'s Beesmas quest. Each time the player beats their Robo Party, their Robo Party Cake Rank increases by one. There are 100 ranks in total and each rank requires more party points to achieve than the one before. The player with the highest rank is displayed at the top of the leaderboard. There is no white pad on this leaderboard.
 
 ## Trivia

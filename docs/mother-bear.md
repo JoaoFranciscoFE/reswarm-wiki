@@ -488,10 +488,6 @@ Mother Bear gives a lot of information in her quest dialogues. Some of the infor
 
 ### 2025
 
-This piece of content goes bye bye.
-
-The following content has been removed from the game. The contents below may be archival, but feel free to edit below.
-
 <table class="article-table mw-collapsible mw-collapsed">
 <tbody><tr>
 <th>Requirements

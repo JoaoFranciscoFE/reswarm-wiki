@@ -7,10 +7,6 @@ tags: ["Mobs", "Beesmas", "Stick Bug Challenge"]
 
 ![Festive Nymph](img/mobs/Festive_Nymph.png){ align=right width=180 }
 
-This piece of content goes bye bye.
-
-The following content has been removed from the game. The contents below may be archival, but feel free to edit below.
-
 *Not to be confused with [Stick Nymphs](stick-nymph.md), the standard version of this mob.*
 
 

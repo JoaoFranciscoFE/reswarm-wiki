@@ -7,19 +7,11 @@ tags: ["Items", "Beesmas"]
 
 ![Ornaments](img/Ornaments.png){ align=right width=150 }
 
-This piece of content goes bye bye.
-
-The following content has been removed from the game. The contents below may be archival, but feel free to edit below.
-
 **Ornaments** are limited-time [items](items.md) that are obtainable only during Beesmas events. Ornaments can be obtained from all non limited-time [quest givers](quest-givers.md) upon player giving them a [Present](present.md). When the player receives an ornament, it gets placed on the [Beesmas Tree](beesmas-tree.md). The ornaments will grant additional buffs, always with one field capacity buff, with the exception of Gifted Riley Bee, Gifted Bucko Bee, and Stick Bug, who gives two. Honey Bee just gives extra capacity, no field capacity. Every NPC's ornament will also give +25% Convert Rate, except Gummy Bear, Robo Bear and Bubble Bee Man, who all give none.
 
 ### 2025
 
 ## Beesmas 2025
-
-This piece of content goes bye bye.
-
-The following content has been removed from the game. The contents below may be archival, but feel free to edit below.
 
 In 2025, Sun Bear’s and BBM's ornaments were excluded, and there was a 17th ornament slot of which the NPC it is reserved for remained unknown. Other than that, everything was the same as last year's Beesmas, except the rewards given with the ornament.
 There were also 3 unobtainable presents, meaning that aside the aforementioned ornaments, you'd have to miss 1 NPC.

@@ -7,11 +7,9 @@ tags: ["Beesmas", "Shops"]
 
 ![Bee Bear's Catalog](img/places/Bee_Bear's_Catalog.png){ .wiki-photo }
 
-This piece of content goes bye bye.
-
-The following content has been removed from the game. The contents below may be archival, but feel free to edit below.
-
 **Bee Bear's Catalog** is a limited-time shop that players can use to purchase various products during Beesmas 2020, 2021, 2022, Summer 2024, Winter 2024, and 2025. It can be accessed through a side tab on the right side of the screen. Its description is: "Beesmas event shop! Purchase items for Gingerbread Bears and Snowflakes."
+
+In Re://:Swarm, the 2025 catalog is still open: each of its bundles expires at the 2025 Beesmas deadline, which is set to the year 2057.
 
 There is a countdown below the icon of the shop, which counts down the time until Beesmas ends.
 

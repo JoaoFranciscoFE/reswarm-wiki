@@ -1212,9 +1212,7 @@ Spirit Bear gives plenty of information in her dialogues. Some of the informatio
 
 ### 2025
 
-This piece of content goes bye bye.
-
-The following content has been removed from the game. The contents below may be archival, but feel free to edit below.
+This was removed from the game.
 
 Note: You need to complete her first quest (Spirit's Starter) in order to claim this quest.
 

@@ -5,17 +5,13 @@ tags: ["Beesmas", "Locations", "Machines", "Goo", "Summoner", "Beesmas Decoratio
 
 # Gummy Beacon
 
-This piece of content goes bye bye.
-
-The following content has been removed from the game. The contents below may be archival, but feel free to edit below.
-
 
 
 The **Gummy Beacon** is a Beesmas 2020+ machine that can be unlocked after completing [Gummy Bear's](gummy-bear.md) Beesmas [quest](quests.md). It is located on top of the [Noob Shop](noob-shop.md), on the corner closest to the [Royal Jelly Dispenser](royal-jelly-dispenser.md) next to the [Clover Field](clover-field.md), in front of the [Star Hall](star-hall.md). If the player attempts to activate it without completing Gummy Bear's Beesmas quest, it reads: *"The satellite dish isn't working, but it still emits bad vibes..."* Completing his quest allows the player to activate a Gummy Siege.
 
 ## Gummy Siege
 
-Upon activating, a platform will appear with [Gummy Bear](gummy-bear.md) and [Gummy Bee](gummy-bee.md) in front of the Gummy Beacon, and the [Gummy Morph](passive-abilities.md#Gummy_Morph) tune will play. Then, it will [summon](bees.md#Summoned_Bees) three level 8-20 Gummy Bees for five minutes. Gummy Bear will begin to shoot [goo](goo.md) puddles at random fields similar to the Gummy Invasion event. The targeted field will also spawn [Gumdrops](gumdrops.md) tokens. Gummy Bear will pick five random fields (excluding the [Ant Field](ant-field.md) and [Hub Field](hub-field.md)), and shoots goo for one minute per field, making the Gummy Siege 5 minutes long. The cooldown for Gummy Siege is 8 Hours.
+Upon activating, a platform will appear with [Gummy Bear](gummy-bear.md) and [Gummy Bee](gummy-bee.md) in front of the Gummy Beacon, and the [Gummy Morph](passive-abilities.md#Gummy_Morph) tune will play. Then, it will [summon](bees.md#Summoned_Bees) three level 8-20 Gummy Bees for five minutes. Gummy Bear will begin to shoot [goo](goo.md) puddles at random fields similar to the Gummy Invasion event. The targeted field will also spawn [Gumdrops](gumdrops.md) tokens. Gummy Bear will pick five random fields (excluding the [Ant Field](ant-field.md) and [Hub Field](hub-field.md)), and shoots goo for one minute per field, making the Gummy Siege 5 minutes long. The cooldown for Gummy Siege is 45 minutes.
 
 
 
@@ -37,7 +33,6 @@ Gummy Bear: "Sight set on {Field Name}!"
 * This is the only way to have more than 1 Gummy Bee, though it is only for a limited amount of time.
 * The Gummy Bees given by the Gummy Beacon can help player activate the [Gummy Morph](passive-abilities.md#Gummy_Morph) very quickly by spawning tokens that contribute towards the passive.
 * This and Onett's Lid Art are the only ways to have multiple [Event Bees](bees-event.md). However, they only last for a limited amount of time.
-* This, Onett's Lid Art and the [Naughty List](naughty-list.md) are Beesmas machines that have the longest cooldowns in the game, at 8 hours.
 * The Gummy Bees from the Gummy Siege are not affected by the [Gummy Morph](passive-abilities.md#Gummy_Morph) Passive from the [Gummy Mask](gummy-mask.md), however their [abilities](ability-tokens.md) will still contribute to activating the passive.
 * After the Beesmas 2025 update, The summoned Gummy Bee NPC will appear extremely shaky when it idles. This is due to its model still using Roblox's old movement engine that broke with an update.
 

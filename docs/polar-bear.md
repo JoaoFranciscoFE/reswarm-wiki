@@ -478,10 +478,6 @@ Completing the quest would grant the player access to Polar Bear's [Beesmas Feas
 
 ### 2025
 
-This piece of content goes bye bye.
-
-The following content has been removed from the game. The contents below may be archival, but feel free to edit below.
-
 <table class="article-table mw-collapsible mw-collapsed">
 <tbody><tr>
 <th>Requirements

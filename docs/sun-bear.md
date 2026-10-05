@@ -7,9 +7,7 @@ tags: ["NPC", "Bears", "Traveling Bears", "Quest Giver", "Events"]
 
 ![Sun Bear](img/bears/Sun_Bear.png){ align=right width=150 }
 
-This piece of content goes bye bye.
-
-The following content has been removed from the game. The contents below may be archival, but feel free to edit below.
+Sun Bear is in the game, but the quests on this page were removed from it. His quests in Re://:Swarm are the 15 Crimbolt quests.
 
 <table class="infobox" style="font-size:12px; color:white; width:300px; background:#a58b59;padding:0; border:none; color:#FFF;">
 <tbody><tr>

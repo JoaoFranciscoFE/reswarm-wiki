@@ -7,10 +7,6 @@ tags: ["Machines", "Beesmas", "Locations", "Beesmas Decorations", "Starter Zone"
 
 ![Stockings](img/Stockings.png){ align=right width=150 }
 
-This piece of content goes bye bye.
-
-The following content has been removed from the game. The contents below may be archival, but feel free to edit below.
-
 This piece of content contains information obtained through datamining.
 
 Due to the nature of the information, details may be inaccurate or outdated.
@@ -34,14 +30,14 @@ The Stockings are located at the bottom of the hill where Brown Bear stands, nex
 <ul><li>Let <i>cnt</i> be the number of bees the player has at the time of claiming.</li>
 <li><span class="arithmatex">\(middle={\frac {cnt}{50}}\)</span>, clamped between 0 and 1.</li>
 <li>The quality of the beequip is between <span class="arithmatex">\(0.1\times middle^{1.5}\)</span> and <span class="arithmatex">\(0.5+0.4\times middle^{1.5}\)</span>.</li></ul>
-<p><img alt="Beesmas Top" height="25" src="img/Beesmas_Top.png" width="25"/>1 <a href="beesmas-top.html"><span class="color-template color-template-beesmas-top color-template-background-clip">Beesmas Top</span></a> (~29.66%)<br/>
-<img alt="Warm Scarf" height="25" src="img/Warm_Scarf.png" width="25"/>1 <a href="warm-scarf.html"><span class="color-template color-template-warm-scarf color-template-background-clip">Warm Scarf</span></a> (~29.66%)<br/>
-<img alt="Single Mitten" height="25" src="img/Single_Mitten.png" width="25"/>1 <a href="single-mitten.html"><span class="color-template color-template-single-mitten color-template-background-clip">Single Mitten</span></a> (~19.77%)<br/>
-<img alt="Elf Cap" height="25" src="img/Elf_Cap.png" width="25"/>1 <a href="elf-cap.html"><span class="color-template color-template-elf-cap color-template-background-clip">Elf Cap</span></a> (~19.77%)<br/>
-<img alt="Electric Candle" height="25" src="img/Electric_Candle.png" width="25"/>1 <a href="electric-candle.html"><span class="color-template color-template-electric-candle color-template-background-clip">Electric Candle</span></a> (~0.99%)<br/>
-<img alt="Bubble Light" height="25" src="img/Bubble_Light.png" width="25"/>1 <a href="bubble-light.html"><span class="color-template color-template-bubble-light color-template-background-clip">Bubble Light</span></a> (~0.1%)<br/>
-<img alt="Toy Drum" height="25" src="img/Toy_Drum.png" width="25"/>1 <a href="toy-drum.html"><span class="color-template color-template-toy-drum color-template-background-clip">Toy Drum</span></a> (~0.05%)<br/>
-<img alt="Beesmas Tree Hat" height="25" src="img/Beesmas_Tree_Hat.png" width="25"/>1 <a href="beesmas-tree-hat.html"><span class="color-template color-template-beesmas-tree-hat color-template-background-clip">Beesmas Tree Hat</span></a> (~0.0005%)<br/>
+<p><img alt="Beesmas Top" height="25" src="img/Beesmas_Top.png" width="25"/>1 <a href="beesmas-top.html"><span class="color-template color-template-beesmas-top color-template-background-clip">Beesmas Top</span></a> (~24.95%)<br/>
+<img alt="Warm Scarf" height="25" src="img/Warm_Scarf.png" width="25"/>1 <a href="warm-scarf.html"><span class="color-template color-template-warm-scarf color-template-background-clip">Warm Scarf</span></a> (~33.27%)<br/>
+<img alt="Single Mitten" height="25" src="img/Single_Mitten.png" width="25"/>1 <a href="single-mitten.html"><span class="color-template color-template-single-mitten color-template-background-clip">Single Mitten</span></a> (~24.95%)<br/>
+<img alt="Elf Cap" height="25" src="img/Elf_Cap.png" width="25"/>1 <a href="elf-cap.html"><span class="color-template color-template-elf-cap color-template-background-clip">Elf Cap</span></a> (~16.63%)<br/>
+<img alt="Electric Candle" height="25" src="img/Electric_Candle.png" width="25"/>1 <a href="electric-candle.html"><span class="color-template color-template-electric-candle color-template-background-clip">Electric Candle</span></a> (~0.083%)<br/>
+<img alt="Bubble Light" height="25" src="img/Bubble_Light.png" width="25"/>1 <a href="bubble-light.html"><span class="color-template color-template-bubble-light color-template-background-clip">Bubble Light</span></a> (~0.083%)<br/>
+<img alt="Toy Drum" height="25" src="img/Toy_Drum.png" width="25"/>1 <a href="toy-drum.html"><span class="color-template color-template-toy-drum color-template-background-clip">Toy Drum</span></a> (~0.033%)<br/>
+<img alt="Beesmas Tree Hat" height="25" src="img/Beesmas_Tree_Hat.png" width="25"/>1 <a href="beesmas-tree-hat.html"><span class="color-template color-template-beesmas-tree-hat color-template-background-clip">Beesmas Tree Hat</span></a> (~0.0004%)<br/>
 </p>
 </td>
 <td>
@@ -70,7 +66,7 @@ Critter In A Stocking Sticker (~0.07%)<br/>
 
 ## Trivia
 
-* If the player attempts to use the Stockings before the player completed Brown Bear's 2021 Beesmas quest, it will display text saying *"This mantle looks so barren without Stockings on the hooks..."*
+* If the player attempts to use the Stockings before the player completed Brown Bear's Beesmas quest, it will display text saying *"This mantle looks so barren without Stockings on the hooks..."*
 * Every time the player uses the Stockings, they can only get 1 of each item, excluding gumdrops and moon charms.
 * Tokens spawned by the Stockings can be collected by a [Token Link](ability-tokens.md#Token_Link).
 * [Loot Luck](loot-luck.md) does not affect the Stocking drops.

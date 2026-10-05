@@ -7,23 +7,15 @@ tags: ["Locations", "Beesmas"]
 
 ![Beesmas Tree](img/Beesmas_Tree.png){ align=right width=150 }
 
-This piece of content goes bye bye.
-
-The following content has been removed from the game. The contents below may be archival, but feel free to edit below.
-
 *Not to be confused with [Beesmas Tree Hat](beesmas-tree-hat.md), a [Beequip](beequip.md) with a similar name.*
 
 
 
-The **Beesmas Tree** is a feature that appeared in every Beesmas between 2019 and 2025. The Beesmas Tree allows the player to view their collected [ornaments](ornaments.md), who they are from, and what boosts they give. The tree is located in front of the [Ant Gate](ant-gate.md), near the [Noob Shop](noob-shop.md), and next to the hives.
+The **Beesmas Tree** is a feature that appeared in every Beesmas between 2019 and 2025. The Beesmas Tree allows the player to view their collected [ornaments](ornaments.md), who they are from, and what boosts they give. In Re://:Swarm, viewing the tree also gives the Snowman, Honey Jar and Boxing Glove ornaments. The tree is located in front of the [Ant Gate](ant-gate.md), near the [Noob Shop](noob-shop.md), and next to the hives.
 
 <figure class="mw-halign-center" style="text-align:center"><img alt="" src="img/places/Beesmas_Tree.png" width="480"/><figcaption>The Beesmas Tree.</figcaption></figure>
 
 ## Beesmas 2025
-
-This piece of content goes bye bye.
-
-The following content has been removed from the game. The contents below may be archival, but feel free to edit below.
 
 The Beesmas Tree made another return in Beesmas 2025, functioning the exact same way as during Winter Beesmas 2024. Conducting a gift exchange with an NPC would grant players an ornament that would grant special boosts on the Beesmas Tree.
 

@@ -805,9 +805,7 @@ Panda Bear gives plenty of information in his quest dialogues. Most of the infor
 
 ### 2025
 
-This piece of content goes bye bye.
-
-The following content has been removed from the game. The contents below may be archival, but feel free to edit below.
+This was removed from the game.
 
 <table class="article-table mw-collapsible mw-collapsed">
 <tbody><tr>

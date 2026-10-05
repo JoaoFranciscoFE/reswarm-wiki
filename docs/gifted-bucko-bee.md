@@ -43,7 +43,7 @@ Missing content: "Bucko Bee's Snow Machine" quest dialogue for 2024 Winter is pa
 </table>
 </td></tr></tbody></table>
 
-**Gifted Bucko Bee** is a [quest giver](quest-givers.md) and one of three permanent Quest Bees, the others being **Lua error in Module:Item\_image at line 88: Template error! There's no such file named File:Gifted Riley Bee NPC.png for Template:I.** [Gifted Riley Bee](gifted-riley-bee.md) and **Lua error in Module:Item\_image at line 88: Template error! There's no such file named File:Honey Bee NPC.png for Template:I.** [Honey Bee](honey-bee-npc.md). Gifted Bucko Bee is located on the second floor of the [Blue HQ](blue-hq.md), in between the Top Bucko Bee Helpers and the Daily Top Blue Collectors [Leaderboards](leaderboards.md). The player cannot start receiving or completing its [quests](quests.md) without a [Translator](translator.md), which is given by [Science Bear](science-bear.md) three times. Completing 150 quests from Gifted Bucko Bee is required to craft the [Hydroponic Planter](hydroponic-planter.md) and completing 250 quests from Gifted Bucko Bee is required to craft the [Tide Popper](tide-popper.md).
+**Gifted Bucko Bee** is a [quest giver](quest-givers.md) and one of three permanent Quest Bees, the others being [Gifted Riley Bee](gifted-riley-bee.md) and [Honey Bee](honey-bee-npc.md). Gifted Bucko Bee is located on the second floor of the [Blue HQ](blue-hq.md), in between the Top Bucko Bee Helpers and the Daily Top Blue Collectors [Leaderboards](leaderboards.md). The player cannot start receiving or completing its [quests](quests.md) without a [Translator](translator.md), which is given by [Science Bear](science-bear.md) three times. Completing 150 quests from Gifted Bucko Bee is required to craft the [Hydroponic Planter](hydroponic-planter.md) and completing 250 quests from Gifted Bucko Bee is required to craft the [Tide Popper](tide-popper.md).
 
 ## Quests
 
@@ -469,10 +469,6 @@ In addition to [Blue Extract](blue-extract.md) and [Honey](honey.md) for complet
 ## Beesmas Quest - Bucko Bee's Snow Machine
 
 ### 2025
-
-This piece of content goes bye bye.
-
-The following content has been removed from the game. The contents below may be archival, but feel free to edit below.
 
 <table class="article-table mw-collapsible mw-collapsed">
 <tbody><tr>

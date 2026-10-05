@@ -7,13 +7,9 @@ tags: ["Beesmas", "Beesmas Decorations", "Locations", "Machines", "Robo Bear", "
 
 ![Robo Party Cake](img/Robo_Party_Cake.png){ align=right width=150 }
 
-This piece of content goes bye bye.
-
-The following content has been removed from the game. The contents below may be archival, but feel free to edit below.
 
 
-
-The **Robo Party Cake** is a Beesmas-exclusive machine that was added in the second part of Beesmas 2022 and has returned in every Beesmas events since. It is accessible after completing [Robo Bear's Party Cake quest](robo-bear.md#Beesmas_Quest_-_Robo_Bear's_Party_Cake) and is able to initiate a special challenge every 3 hours.
+The **Robo Party Cake** is a Beesmas-exclusive machine that was added in the second part of Beesmas 2022 and has returned in every Beesmas events since. It is accessible after completing [Robo Bear's Party Cake quest](robo-bear.md#Beesmas_Quest_-_Robo_Bear's_Party_Cake) and is able to initiate a special challenge every 10 minutes.
 
 <figure class="mw-halign-center" style="text-align:center"><img alt="" src="img/places/Robo_Party_Cake_unbuilt_frame.png" width="480"/><figcaption>The Robo Party Cake frame and its leaderboard.</figcaption></figure>
 

@@ -1305,9 +1305,7 @@ x1 Neonberry
 </p>
 </td></tr></tbody></table>
 
-This piece of content goes bye bye.
-
-The following content has been removed from the game. The contents below may be archival, but feel free to edit below.
+This was removed from the game.
 
 ### Repeatable Quests (Old)
 
@@ -5994,9 +5992,7 @@ Beesmas Beeliever Badge
 
 ### Gummy Bear
 
-This piece of content goes bye bye.
-
-The following content has been removed from the game. The contents below may be archival, but feel free to edit below.
+This was removed from the game.
 
 <figure class="thumb mw-halign-right" style="width: 180px" typeof="mw:File/Thumb">  <figcaption class="thumbcaption"> </figcaption> </figure>
 
@@ -6221,9 +6217,7 @@ The following content has been removed from the game. The contents below may be 
 
 ### Bubble Bee Man
 
-This piece of content goes bye bye.
-
-The following content has been removed from the game. The contents below may be archival, but feel free to edit below.
+This was removed from the game.
 
 <figure class="thumb mw-halign-right" style="width: 180px" typeof="mw:File/Thumb">  <figcaption class="thumbcaption"> </figcaption> </figure>
 

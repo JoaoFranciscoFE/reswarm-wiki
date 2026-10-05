@@ -66,9 +66,7 @@ Bubble Bee Man did not have a quest for Beesmas 2025. Instead, if the player com
 
 ## Quest (Near Panda Bear)
 
-This piece of content goes bye bye.
-
-The following content has been removed from the game. The contents below may be archival, but feel free to edit below.
+This was removed from the game.
 
 <table class="article-table mw-collapsible mw-collapsed">
 <tbody><tr>
@@ -150,9 +148,7 @@ Hey... sorry don't really want to talk right now... ... No it's not like - that 
 
 ## Quest (Inside 30 Bee Gate)
 
-This piece of content goes bye bye.
-
-The following content has been removed from the game. The contents below may be archival, but feel free to edit below.
+This was removed from the game.
 
 <table class="article-table mw-collapsible mw-collapsed">
 <tbody><tr>

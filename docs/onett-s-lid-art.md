@@ -7,10 +7,6 @@ tags: ["Beesmas", "Locations", "Machines", "Beesmas Decorations"]
 
 ![Onett's Lid Art](img/places/Onett's_Lid_Art.png){ .wiki-photo }
 
-This piece of content goes bye bye.
-
-The following content has been removed from the game. The contents below may be archival, but feel free to edit below.
-
 This piece of content contains information obtained through datamining.
 
 Due to the nature of the information, details may be inaccurate or outdated.
@@ -21,7 +17,7 @@ Datamined information: The probability of getting every item and bee. — Decemb
 
 **Onett's Lid Art**, or **Yard Art** is a Beesmas decoration which is unlocked after completing [Onett's](onett.md) Yard Art [quest](quests.md).
 
-The art is located past the [Bear Gate](bear-gate.md) next to Onett. It can be used every 8 hours. When activated, the player receives 3 [temporary bees](bees.md#Summoned_Bees), an assortment of items, and a Guiding Star is activated.
+The art is located past the [Bear Gate](bear-gate.md) next to Onett. Its cooldown is listed as 8 hours, but the machine also has a 30-minute real-time cooldown value, and which one the game uses hasn't been checked. When activated, the player receives 3 [temporary bees](bees.md#Summoned_Bees), an assortment of items, and a Guiding Star is activated.
 
 If a player attempts to use the Lid Art before completing Onett's quest, it displays the message: This art is missing something... It's not very impactful.
 
@@ -99,7 +95,6 @@ After completing Onett's Yard Art quest, [Baby Bee](baby-bee.md), wearing a Sant
 
 * Onett's Lid Art is the only Beesmas decoration to activate a passive ability, that being the Guiding Star.
 * Originally, the message that would appear if the player tried to use Onett's Lid Art before they completed [Onett](onett.md)'s quest was This art isn't as impactful without Baby Bee in the middle...
-* This, the [Gummy Beacon](gummy-beacon.md), and the [Naughty List](naughty-list.md) are tied for the longest cooldown of Beesmas decorations of 8 hours.
 * This and the Gummy Beacon were the only ways to have multiple [Event bees](bees-event.md) of the same kind, although they are temporary.
 * This art is a reference to the birth of Jesus, which is celebrated by people of Christian faith during Christmas.
 * This is one of the 4 machines that grant the player temporary bees, the others being the [Honeyday Candles](honeyday-candles.md), the [Gummy Beacon](gummy-beacon.md) and the [Honey Wreath](honey-wreath.md) (after completing [Honey Bee](honey-bee-npc.md)'s quest).

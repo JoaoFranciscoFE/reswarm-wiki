@@ -7,10 +7,6 @@ tags: ["Locations", "Machines", "Beesmas", "Summoner", "Beesmas Decorations", "S
 
 ![Snow Machine](img/Snow_Machine.png){ align=right width=150 }
 
-This piece of content goes bye bye.
-
-The following content has been removed from the game. The contents below may be archival, but feel free to edit below.
-
 
 
 The **Snow Machine** is a machine added in the Beesmas 2020 that appeared in every Beesmas event thereafter. It's usable after completing [Gifted Bucko Bee's](gifted-bucko-bee.md) Beesmas quest. The Snow Machine has only one primary purpose, which is to summon a [Snow Storm](snow-storm.md) across the map, lasting 30 seconds.

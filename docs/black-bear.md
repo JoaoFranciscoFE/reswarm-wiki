@@ -1380,9 +1380,7 @@ After completing his Mythic Egg questline, Black Bear will randomly assign quest
 
 ### Repeatable Quests (Old)
 
-This piece of content goes bye bye.
-
-The following content has been removed from the game. The contents below may be archival, but feel free to edit below.
+This was removed from the game.
 
 After completing his 20 star jelly quests, Black Bear would randomly assign quests that could be completed indefinitely, similar to [Polar Bear](polar-bear.md) and [Brown Bear](brown-bear.md).
 
@@ -2419,10 +2417,6 @@ All things in moderation, except for honey. You can't have too much honey! That'
 ## Beesmas Quest - Black Bear's Honey Wreath
 
 ### 2025
-
-This piece of content goes bye bye.
-
-The following content has been removed from the game. The contents below may be archival, but feel free to edit below.
 
 <table class="article-table mw-collapsible mw-collapsed">
 <tbody><tr>
