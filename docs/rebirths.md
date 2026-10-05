@@ -31,49 +31,49 @@ After rebirthing, the game:
 
 The buffs are what you have **while at** that rebirth. Bee Ability Rate goes up by +1.5% every 5 rebirths. Monster Respawn Time is shortened from Rebirth 14, and from Rebirth 30 your bees also get extra Bee Attack and Bee Ability Pollen.
 
-Big numbers use the short scale: k (thousand), M (million), B (billion), T (trillion), Qa (quadrillion), Qi (quintillion), Sx (sextillion), Sp (septillion), Oc (octillion) and No (nonillion).
+Numbers use the game's own abbreviations: k (thousand), M (million), B (billion), T (trillion), qd (quadrillion), Qn (quintillion), Sx (sextillion), Sp (septillion), Oc (octillion), No (nonillion), De (decillion), then UDe (10<sup>36</sup>), DDe (10<sup>39</sup>), TdD (10<sup>42</sup>), QdD (10<sup>45</sup>), QnD (10<sup>48</sup>) and SxD (10<sup>51</sup>).
 
 | Rebirth | Honey needed | Gate quest | Pollen / Capacity / Convert Rate | Loot | Ability Rate | Monster Respawn | Attack and Ability Pollen |
 |---|---|---|---|---|---|---|---|
-| 1 | 50k | – | x1.5 / x3 / x30 | – | +1.5% | – | – |
-| 2 | 1M | – | x2.5 / x5 / x50 | – | +1.5% | – | – |
-| 3 | 50M | – | x5 / x10 / x100 | – | +1.5% | – | – |
-| 4 | 300M | – | x10 / x20 / x200 | – | +1.5% | – | – |
-| 5 | 5B | [Royal Rebirth](#rebirth-5-royal-rebirth) | x20 / x40 / x400 | x2 | +3% | – | – |
-| 6 | 100B | – | x50 / x100 / x1,000 | x2 | +3% | – | – |
-| 7 | 2T | – | x100 / x200 / x2,000 | x2 | +3% | – | – |
-| 8 | 50T | – | x150 / x300 / x3,000 | x2 | +3% | – | – |
-| 9 | 1.5Qa | – | x250 / x500 / x5,000 | x2 | +3% | – | – |
-| 10 | 40Qa | [It's Snack Time!](#rebirth-10-its-snack-time) | x500 / x1,000 / x10k | x3 | +4.5% | – | – |
-| 11 | 300Qa | – | x1,000 / x2,000 / x20k | x3 | +4.5% | – | – |
-| 12 | 1.5Qi | – | x2,500 / x5,000 / x50k | x4 | +4.5% | – | – |
-| 13 | 12.5Qi | – | x5,000 / x10k / x100k | x5 | +4.5% | – | – |
-| 14 | 62.5Qi | – | x10k / x20k / x200k | x5 | +4.5% | -12% | – |
-| 15 | 300Qi | [A Nerdy Break](#rebirth-15-a-nerdy-break) | x25k / x50k / x500k | x10 | +6% | -15% | – |
-| 16 | 1.5Sx | – | x50k / x100k / x1M | x12 | +6% | -18% | – |
-| 17 | 7.5Sx | – | x100k / x200k / x2M | x15 | +6% | -21% | – |
-| 18 | 40Sx | – | x250k / x500k / x5M | x20 | +6% | -24% | – |
-| 19 | 200Sx | – | x500k / x1M / x10M | x25 | +6% | -27% | – |
-| 20 | 1Sp | [Not a Time-Gate](#rebirth-20-not-a-time-gate) | x1M / x2M / x20M | x50 | +7.5% | -30% | – |
-| 21 | 5Sp | – | x2.5M / x5M / x50M | x100 | +7.5% | -30% | – |
-| 22 | 25Sp | – | x10M / x20M / x200M | x200 | +7.5% | -30% | – |
-| 23 | 125Sp | – | x50M / x100M / x1B | x350 | +7.5% | -30% | – |
-| 24 | 625Sp | – | x250M / x500M / x5B | x600 | +7.5% | -30% | – |
-| 25 | 30Oc | [Windy Restart](#rebirth-25-windy-restart) | x1B / x2B / x20B | x1,000 | +9% | -30% | – |
-| 26 | 150Oc | – | x5B / x10B / x100B | x2,000 | +9% | -30% | – |
-| 27 | 750Oc | – | x25B / x50B / x500B | x4,000 | +9% | -30% | – |
-| 28 | 3.75No | – | x100B / x200B / x2T | x8,000 | +9% | -30% | – |
-| 29 | 5No | – | x500B / x1T / x10T | x15k | +9% | -30% | – |
-| 30 | 100No | [Bubbling Beyond](#rebirth-30-bubbling-beyond) | x2.5T / x5T / x50T | x30k | +10.5% | -30% | x2 |
-| 31 | 1 × 10<sup>36</sup> | – | x12.5T / x25T / x250T | x45k | +10.5% | -30% | x2.5 |
-| 32 | 5 × 10<sup>39</sup> | – | x62.5T / x125T / x1.25Qa | x50k | +10.5% | -30% | x3 |
-| 33 | 1 × 10<sup>44</sup> | – | x312.5T / x625T / x6.25Qa | x50k | +10.5% | -30% | x4 |
-| 34 | 5 × 10<sup>46</sup> | – | x1.5625Qa / x3.125Qa / x31.25Qa | x50k | +10.5% | -30% | x5 |
-| 35 | 1 × 10<sup>48</sup> | [Premium Clientele](#rebirth-35-premium-clientele) | x7.8125Qa / x15.625Qa / x156.25Qa | x75k | +12% | -30% | x6 |
-| 36 | 5 × 10<sup>49</sup> | – | x15.625Qa / x31.25Qa / x312.5Qa | x90k | +12% | -30% | x6.2 |
-| 37 | 6.25 × 10<sup>50</sup> | – | x31.25Qa / x62.5Qa / x625Qa | x105k | +12% | -30% | x6.3 |
-| 38 | 1.275 × 10<sup>51</sup> | – | x62.5Qa / x125Qa / x1.25Qi | x120k | +12% | -30% | x6.4 |
-| 39 | 5 × 10<sup>51</sup> | – | x125Qa / x250Qa / x2.5Qi | x150k | +12% | -30% | x6.5 |
+| 1 | 50.00k | – | x1.5 / x3 / x30 | – | +1.5% | – | – |
+| 2 | 1.00M | – | x2.5 / x5 / x50 | – | +1.5% | – | – |
+| 3 | 50.00M | – | x5 / x10 / x100 | – | +1.5% | – | – |
+| 4 | 300.00M | – | x10 / x20 / x200 | – | +1.5% | – | – |
+| 5 | 5.00B | [Royal Rebirth](#rebirth-5-royal-rebirth) | x20 / x40 / x400 | x2 | +3% | – | – |
+| 6 | 100.00B | – | x50 / x100 / x1.00k | x2 | +3% | – | – |
+| 7 | 2.00T | – | x100 / x200 / x2.00k | x2 | +3% | – | – |
+| 8 | 50.00T | – | x150 / x300 / x3.00k | x2 | +3% | – | – |
+| 9 | 1.50qd | – | x250 / x500 / x5.00k | x2 | +3% | – | – |
+| 10 | 40.00qd | [It's Snack Time!](#rebirth-10-its-snack-time) | x500 / x1.00k / x10.00k | x3 | +4.5% | – | – |
+| 11 | 300.00qd | – | x1.00k / x2.00k / x20.00k | x3 | +4.5% | – | – |
+| 12 | 1.50Qn | – | x2.50k / x5.00k / x50.00k | x4 | +4.5% | – | – |
+| 13 | 12.50Qn | – | x5.00k / x10.00k / x100.00k | x5 | +4.5% | – | – |
+| 14 | 62.50Qn | – | x10.00k / x20.00k / x200.00k | x5 | +4.5% | -12% | – |
+| 15 | 300.00Qn | [A Nerdy Break](#rebirth-15-a-nerdy-break) | x25.00k / x50.00k / x500.00k | x10 | +6% | -15% | – |
+| 16 | 1.50Sx | – | x50.00k / x100.00k / x1.00M | x12 | +6% | -18% | – |
+| 17 | 7.50Sx | – | x100.00k / x200.00k / x2.00M | x15 | +6% | -21% | – |
+| 18 | 40.00Sx | – | x250.00k / x500.00k / x5.00M | x20 | +6% | -24% | – |
+| 19 | 200.00Sx | – | x500.00k / x1.00M / x10.00M | x25 | +6% | -27% | – |
+| 20 | 1.00Sp | [Not a Time-Gate](#rebirth-20-not-a-time-gate) | x1.00M / x2.00M / x20.00M | x50 | +7.5% | -30% | – |
+| 21 | 5.00Sp | – | x2.50M / x5.00M / x50.00M | x100 | +7.5% | -30% | – |
+| 22 | 25.00Sp | – | x10.00M / x20.00M / x200.00M | x200 | +7.5% | -30% | – |
+| 23 | 125.00Sp | – | x50.00M / x100.00M / x1.00B | x350 | +7.5% | -30% | – |
+| 24 | 625.00Sp | – | x250.00M / x500.00M / x5.00B | x600 | +7.5% | -30% | – |
+| 25 | 30.00Oc | [Windy Restart](#rebirth-25-windy-restart) | x1.00B / x2.00B / x20.00B | x1.00k | +9% | -30% | – |
+| 26 | 150.00Oc | – | x5.00B / x10.00B / x100.00B | x2.00k | +9% | -30% | – |
+| 27 | 750.00Oc | – | x25.00B / x50.00B / x500.00B | x4.00k | +9% | -30% | – |
+| 28 | 3.75No | – | x100.00B / x200.00B / x2.00T | x8.00k | +9% | -30% | – |
+| 29 | 5.00No | – | x500.00B / x1.00T / x10.00T | x15.00k | +9% | -30% | – |
+| 30 | 100.00No | [Bubbling Beyond](#rebirth-30-bubbling-beyond) | x2.50T / x5.00T / x50.00T | x30.00k | +10.5% | -30% | x2 |
+| 31 | 1.00UDe | – | x12.50T / x25.00T / x250.00T | x45.00k | +10.5% | -30% | x2.5 |
+| 32 | 5.00DDe | – | x62.50T / x125.00T / x1.25qd | x50.00k | +10.5% | -30% | x3 |
+| 33 | 100.00TdD | – | x312.50T / x625.00T / x6.25qd | x50.00k | +10.5% | -30% | x4 |
+| 34 | 50.00QdD | – | x1.56qd / x3.12qd / x31.25qd | x50.00k | +10.5% | -30% | x5 |
+| 35 | 1.00QnD | [Premium Clientele](#rebirth-35-premium-clientele) | x7.81qd / x15.62qd / x156.25qd | x75.00k | +12% | -30% | x6 |
+| 36 | 50.00QnD | – | x15.62qd / x31.25qd / x312.50qd | x90.00k | +12% | -30% | x6.2 |
+| 37 | 625.00QnD | – | x31.25qd / x62.50qd / x625.00qd | x105.00k | +12% | -30% | x6.3 |
+| 38 | 1.27SxD | – | x62.50qd / x125.00qd / x1.25Qn | x120.00k | +12% | -30% | x6.4 |
+| 39 | 5.00SxD | – | x125.00qd / x250.00qd / x2.50Qn | x150.00k | +12% | -30% | x6.5 |
 
 ## Rewards
 

@@ -137,6 +137,7 @@ nav:
       - "Gummy Bear": gummy-bear.md
       - "Honey Bee (NPC)": honey-bee-npc.md
       - "Hub Field Shop": hub-field-shop.md
+      - "Melittology Quests": melittology-quest-giver.md
       - "Mother Bear": mother-bear.md
       - "Onett": onett.md
       - "Panda Bear": panda-bear.md
@@ -485,7 +486,11 @@ nav:
       - codes.md
   - "Rebirths":
       - rebirths.md
-      - "Melittology": melittology.md
+  - "Melittology":
+      - melittology.md
+      - "Melittology Research": melittology-research.md
+      - "Melittology Machine": melittology-machine.md
+      - "Melittology Quests": melittology-quest-giver.md
   - "Mechanics":
       - browse-mechanics.md
       - "Ability Tokens": ability-tokens.md
@@ -565,6 +570,8 @@ nav:
       - "Instant Converter": instant-converter.md
       - "King Beetle's Lair": king-beetle-s-lair.md
       - "Lion Bee Gate": lion-bee-gate.md
+      - "Melittology Machine": melittology-machine.md
+      - "Melittology Quests": melittology-quest-giver.md
       - "Moon Amulet Generator": moon-amulet-generator.md
       - "Nectar Condenser": nectar-condenser.md
       - "Nectar Pot": nectar-pot.md

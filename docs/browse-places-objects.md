@@ -6,7 +6,7 @@ hide:
 
 # Places & Objects
 
-All 39 pages in Places & Objects.
+All 41 pages in Places & Objects.
 
 <div class="wiki-cards">
 <a class="wiki-card wiki-card--photo" href="ant-gate.html"><img src="img/places/Ant_Gate.png" alt="" loading="lazy"><span>Ant Gate</span></a>
@@ -27,6 +27,8 @@ All 39 pages in Places & Objects.
 <a class="wiki-card wiki-card--photo" href="instant-converter.html"><img src="img/places/Instant_Converter.png" alt="" loading="lazy"><span>Instant Converter</span></a>
 <a class="wiki-card" href="king-beetle-s-lair.html"><img src="img/King_Beetle's_Lair.png" alt="" loading="lazy"><span>King Beetle&#x27;s Lair</span></a>
 <a class="wiki-card wiki-card--photo" href="lion-bee-gate.html"><img src="img/places/Lion_Bee_Gate.png" alt="" loading="lazy"><span>Lion Bee Gate</span></a>
+<a class="wiki-card wiki-card--photo" href="melittology-machine.html"><img src="img/places/Melittology_Machine.png" alt="" loading="lazy"><span>Melittology Machine</span></a>
+<a class="wiki-card wiki-card--photo" href="melittology-quest-giver.html"><img src="img/places/Melittology_Quests.png" alt="" loading="lazy"><span>Melittology Quests</span></a>
 <a class="wiki-card wiki-card--photo" href="moon-amulet-generator.html"><img src="img/places/Moon_Amulet_Generator.png" alt="" loading="lazy"><span>Moon Amulet Generator</span></a>
 <a class="wiki-card wiki-card--photo" href="nectar-condenser.html"><img src="img/places/Nectar_Condenser.png" alt="" loading="lazy"><span>Nectar Condenser</span></a>
 <a class="wiki-card wiki-card--photo" href="nectar-pot.html"><img src="img/places/Nectar_Pot.png" alt="" loading="lazy"><span>Nectar Pot</span></a>
