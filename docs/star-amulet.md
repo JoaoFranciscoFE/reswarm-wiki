@@ -36,36 +36,39 @@ When the player generates a Star Amulet, the following audio plays, with the sou
 <tr>
 <td>5 <a href="gifted-bee.html">Gifted Bee</a> types discovered, costs <span style="border-bottom:1px dotted;" title="25,000,000">25M</span> <a href="honey.html">honey</a>
 </td>
-<td><span typeof="mw:Error mw:File"></span> Bronze Star Amulet
+<td><img alt="Bronze Star Amulet" src="img/Bronze_Star_Amulet.png" width="30" height="30"/> Bronze Star Amulet
 </td></tr>
 <tr>
 <td>10 <a href="gifted-bee.html">Gifted Bee</a> types discovered, costs <span style="border-bottom:1px dotted;" title="50,000,000">50M</span> <a href="honey.html">honey</a>
 </td>
-<td><span typeof="mw:Error mw:File"></span> Silver Star Amulet
+<td><img alt="Silver Star Amulet" src="img/Silver_Star_Amulet.png" width="30" height="30"/> Silver Star Amulet
 </td></tr>
 <tr>
 <td>20 <a href="gifted-bee.html">Gifted Bee</a> types discovered, costs <span style="border-bottom:1px dotted;" title="250,000,000">250M</span> <a href="honey.html">honey</a>
 </td>
-<td><span typeof="mw:Error mw:File"></span> Gold Star Amulet
+<td><img alt="Gold Star Amulet" src="img/Gold_Star_Amulet.png" width="30" height="30"/> Gold Star Amulet
 </td></tr>
 <tr>
 <td>30 <a href="gifted-bee.html">Gifted Bee</a> types discovered, costs <span style="border-bottom:1px dotted;" title="1,000,000,000">1B</span> <a href="honey.html">honey</a>
 </td>
-<td><span typeof="mw:Error mw:File"></span> Diamond Star Amulet
+<td><img alt="Diamond Star Amulet" src="img/Diamond_Star_Amulet.png" width="30" height="30"/> Diamond Star Amulet
 </td></tr>
 <tr>
 <td>40 <a href="gifted-bee.html">Gifted Bee</a> types discovered, costs <span style="border-bottom:1px dotted;" title="10,000,000,000">10B</span> <a href="honey.html">honey</a> and an option to spend <span style="border-bottom:1px dotted;" title="500,000,000,000">500B</span> honey for guaranteed two <a href="passive-abilities.html">Passive Abilities</a>
 </td>
-<td><span typeof="mw:Error mw:File"></span> Supreme Star Amulet
+<td><img alt="Supreme Star Amulet" src="img/Supreme_Star_Amulet.png" width="30" height="30"/> Supreme Star Amulet
 </td></tr></tbody></table>
 
 ## Possible Buffs and Passives
 
 *For more information on how amulets generate, see [Amulet#Generation](amulet.md#Generation).*
 
-### Bronze Star Amulet
+/// tab | Bronze <span class="tier-suffix">Star Amulet</span>
 
-<figure class="thumb mw-halign-right" style="width: 100px" typeof="mw:File/Thumb">  <figcaption class="thumbcaption"> <p class="caption">The icon for the Bronze Star Amulet.</p> </figcaption> </figure>
+
+<figure class="amulet-tier-icon"><img alt="Bronze Star Amulet" src="img/Bronze_Star_Amulet.png"/><figcaption>The icon for the Bronze Star Amulet.</figcaption></figure>
+
+<p class="amulet-tier-obtain"><b>How to get:</b> 5 <a href="gifted-bee.html">Gifted Bee</a> types discovered, costs <span style="border-bottom:1px dotted;" title="25,000,000">25M</span> <a href="honey.html">honey</a></p>
 
 <table class="article-table">
 <tbody><tr>
@@ -155,7 +158,6 @@ When the player generates a Star Amulet, the following audio plays, with the sou
 The tables below give the percentage of a certain stat on the amulet having strength within a specific range, at a few quality milestones. To see the percentage of a certain stat having a specific strength value, see [the designated subpage](star-amulet-probability.md#Bronze_Star_Amulet).
 
 *Note that the precise percentages may be off due to floating point errors.*  
-Show/hide tables
 
 ### x Convert Rate
 
@@ -1750,9 +1752,14 @@ Show/hide tables
 <td>+8.3%
 </td></tr></tbody></table>
 
-### Silver Star Amulet
+///
 
-<figure class="thumb mw-halign-right" style="width: 100px" typeof="mw:File/Thumb">  <figcaption class="thumbcaption"> <p class="caption">The icon for the Silver Star Amulet.</p> </figcaption> </figure>
+/// tab | Silver <span class="tier-suffix">Star Amulet</span>
+
+
+<figure class="amulet-tier-icon"><img alt="Silver Star Amulet" src="img/Silver_Star_Amulet.png"/><figcaption>The icon for the Silver Star Amulet.</figcaption></figure>
+
+<p class="amulet-tier-obtain"><b>How to get:</b> 10 <a href="gifted-bee.html">Gifted Bee</a> types discovered, costs <span style="border-bottom:1px dotted;" title="50,000,000">50M</span> <a href="honey.html">honey</a></p>
 
 <table class="article-table">
 <tbody><tr>
@@ -1842,7 +1849,6 @@ Show/hide tables
 The tables below give the percentage of a certain stat on the amulet having strength within a specific range, at a few quality milestones. To see the percentage of a certain stat having a specific strength value, see [the designated subpage](star-amulet-probability.md#Silver_Star_Amulet).
 
 *Note that the precise percentages may be off due to floating point errors.*  
-Show/hide tables
 
 ### x Convert Rate
 
@@ -3284,9 +3290,14 @@ Show/hide tables
 <td>+8.3%
 </td></tr></tbody></table>
 
-### Gold Star Amulet
+///
 
-<figure class="thumb mw-halign-right" style="width: 100px" typeof="mw:File/Thumb">  <figcaption class="thumbcaption"> <p class="caption">The icon for the Gold Star Amulet.</p> </figcaption> </figure>
+/// tab | Gold <span class="tier-suffix">Star Amulet</span>
+
+
+<figure class="amulet-tier-icon"><img alt="Gold Star Amulet" src="img/Gold_Star_Amulet.png"/><figcaption>The icon for the Gold Star Amulet.</figcaption></figure>
+
+<p class="amulet-tier-obtain"><b>How to get:</b> 20 <a href="gifted-bee.html">Gifted Bee</a> types discovered, costs <span style="border-bottom:1px dotted;" title="250,000,000">250M</span> <a href="honey.html">honey</a></p>
 
 <table class="article-table">
 <tbody><tr>
@@ -3376,7 +3387,6 @@ Show/hide tables
 The tables below give the percentage of a certain stat on the amulet having strength within a specific range, at a few quality milestones. To see the percentage of a certain stat having a specific strength value, see [the designated subpage](star-amulet-probability.md#Gold_Star_Amulet).
 
 *Note that the precise percentages may be off due to floating point errors.*  
-Show/hide tables
 
 ### x Convert Rate
 
@@ -4512,9 +4522,14 @@ Show/hide tables
 <td>+8.3%
 </td></tr></tbody></table>
 
-### Diamond Star Amulet
+///
 
-<figure class="thumb mw-halign-right" style="width: 100px" typeof="mw:File/Thumb">  <figcaption class="thumbcaption"> <p class="caption">The icon for the Diamond Star Amulet.</p> </figcaption> </figure>
+/// tab | Diamond <span class="tier-suffix">Star Amulet</span>
+
+
+<figure class="amulet-tier-icon"><img alt="Diamond Star Amulet" src="img/Diamond_Star_Amulet.png"/><figcaption>The icon for the Diamond Star Amulet.</figcaption></figure>
+
+<p class="amulet-tier-obtain"><b>How to get:</b> 30 <a href="gifted-bee.html">Gifted Bee</a> types discovered, costs <span style="border-bottom:1px dotted;" title="1,000,000,000">1B</span> <a href="honey.html">honey</a></p>
 
 <table class="article-table">
 <tbody><tr>
@@ -4620,7 +4635,6 @@ Show/hide tables
 The tables below give the percentage of a certain stat on the amulet having strength within a specific range, at a few quality milestones. To see the percentage of a certain stat having a specific strength value, see [the designated subpage](star-amulet-probability.md#Diamond_Star_Amulet).
 
 *Note that the precise percentages may be off due to floating point errors.*  
-Show/hide tables
 
 ### x Convert Rate
 
@@ -5756,9 +5770,14 @@ Show/hide tables
 <td>+8.3%
 </td></tr></tbody></table>
 
-### Supreme Star Amulet
+///
 
-<figure class="thumb mw-halign-right" style="width: 100px" typeof="mw:File/Thumb">  <figcaption class="thumbcaption"> <p class="caption">The icon for the Supreme Star Amulet.</p> </figcaption> </figure>
+/// tab | Supreme <span class="tier-suffix">Star Amulet</span>
+
+
+<figure class="amulet-tier-icon"><img alt="Supreme Star Amulet" src="img/Supreme_Star_Amulet.png"/><figcaption>The icon for the Supreme Star Amulet.</figcaption></figure>
+
+<p class="amulet-tier-obtain"><b>How to get:</b> 40 <a href="gifted-bee.html">Gifted Bee</a> types discovered, costs <span style="border-bottom:1px dotted;" title="10,000,000,000">10B</span> <a href="honey.html">honey</a> and an option to spend <span style="border-bottom:1px dotted;" title="500,000,000,000">500B</span> honey for guaranteed two <a href="passive-abilities.html">Passive Abilities</a></p>
 
 <table class="article-table">
 <tbody><tr>
@@ -5896,7 +5915,6 @@ If the player has 500B honey or more when generating an amulet, they can choose 
 The tables below give the percentage of a certain stat on the amulet having strength within a specific range, at a few quality milestones. To see the percentage of a certain stat having a specific strength value, see [the designated subpage](star-amulet-probability.md#Supreme_Star_Amulet). Note that as of currently, the player can only have at most 46 discovered gifted types; the rest are only added for completion's sake.
 
 *Note that the precise percentages may be off due to floating point errors.*  
-Show/hide tables
 
 ### x Convert Rate
 
@@ -7580,6 +7598,8 @@ Show/hide tables
 </td>
 <td>+9.8%
 </td></tr></tbody></table>
+
+///
 
 ## Trivia
 

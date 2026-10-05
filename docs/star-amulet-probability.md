@@ -7,10 +7,10 @@ tags: []
 
 The tables below give the percentage of a certain stat having a specific strength value, at as many quality milestones as possible. Due to the size of the tables affecting readability, it has been moved to a separate subpage.
 
-## Bronze Star Amulet
+/// tab | Bronze <span class="tier-suffix">Star Amulet</span>
+
 
 *Note that the precise percentages may be off due to floating point errors.*  
-Show/hide tables
 
 ### x Convert Rate
 
@@ -17421,10 +17421,12 @@ Show/hide tables
 <td>+8.3%
 </td></tr></tbody></table>
 
-## Silver Star Amulet
+///
+
+/// tab | Silver <span class="tier-suffix">Star Amulet</span>
+
 
 *Note that the precise percentages may be off due to floating point errors.*  
-Show/hide tables
 
 ### x Convert Rate
 
@@ -32770,10 +32772,12 @@ Show/hide tables
 <td>+8.3%
 </td></tr></tbody></table>
 
-## Gold Star Amulet
+///
+
+/// tab | Gold <span class="tier-suffix">Star Amulet</span>
+
 
 *Note that the precise percentages may be off due to floating point errors.*  
-Show/hide tables
 
 ### x Convert Rate
 
@@ -43989,10 +43993,12 @@ Show/hide tables
 <td>+8.3%
 </td></tr></tbody></table>
 
-## Diamond Star Amulet
+///
+
+/// tab | Diamond <span class="tier-suffix">Star Amulet</span>
+
 
 *Note that the precise percentages may be off due to floating point errors.*  
-Show/hide tables
 
 ### x Convert Rate
 
@@ -51078,10 +51084,12 @@ Show/hide tables
 <td>+8.3%
 </td></tr></tbody></table>
 
-## Supreme Star Amulet
+///
+
+/// tab | Supreme <span class="tier-suffix">Star Amulet</span>
+
 
 *Note that the precise percentages may be off due to floating point errors.*  
-Show/hide tables
 
 ### x Convert Rate
 
@@ -58525,3 +58533,6 @@ Show/hide tables
 </td>
 <td>+9.8%
 </td></tr></tbody></table>
+
+///
+

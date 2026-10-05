@@ -7,10 +7,10 @@ tags: []
 
 The tables below give the percentage of a certain stat having a specific strength value, at as many quality milestones as possible. Due to the size of the tables affecting readability, it has been moved to a separate subpage.
 
-## Bronze Ant Amulet
+/// tab | Bronze <span class="tier-suffix">Ant Amulet</span>
+
 
 *Note that the precise percentages may be off due to floating point errors.*  
-Show/hide tables
 
 ### + Convert Rate %
 
@@ -2432,10 +2432,12 @@ Show/hide tables
 <td>+2.1%
 </td></tr></tbody></table>
 
-## Silver Ant Amulet
+///
+
+/// tab | Silver <span class="tier-suffix">Ant Amulet</span>
+
 
 *Note that the precise percentages may be off due to floating point errors.*  
-Show/hide tables
 
 ### + Convert Rate %
 
@@ -5462,10 +5464,12 @@ Show/hide tables
 <td>+6.6%
 </td></tr></tbody></table>
 
-## Gold Ant Amulet
+///
+
+/// tab | Gold <span class="tier-suffix">Ant Amulet</span>
+
 
 *Note that the precise percentages may be off due to floating point errors.*  
-Show/hide tables
 
 ### + Convert Rate %
 
@@ -13785,10 +13789,12 @@ Show/hide tables
 <td>+12%
 </td></tr></tbody></table>
 
-## Diamond Ant Amulet
+///
+
+/// tab | Diamond <span class="tier-suffix">Ant Amulet</span>
+
 
 *Note that the precise percentages may be off due to floating point errors.*  
-Show/hide tables
 
 ### + Convert Rate %
 
@@ -20156,10 +20162,12 @@ Show/hide tables
 <td>+17%
 </td></tr></tbody></table>
 
-## Supreme Ant Amulet
+///
+
+/// tab | Supreme <span class="tier-suffix">Ant Amulet</span>
+
 
 *Note that the precise percentages may be off due to floating point errors.*  
-Show/hide tables
 
 ### + Convert Rate %
 
@@ -70112,3 +70120,6 @@ Show/hide tables
 </td>
 <td>+28%
 </td></tr></tbody></table>
+
+///
+
