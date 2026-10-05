@@ -5,132 +5,87 @@ tags: ["Inventory", "Items", "Planter", "Crafted"]
 
 # Plastic Planter
 
-![Plastic Planter](img/Plastic_Planter.png){ align=right width=150 }
-
-This piece of content contains information obtained through datamining.
-
-Due to the nature of the information, details may be inaccurate or outdated.
-
-Datamined information:
-
-* Some of the planter's stats are corrected from the in-game description.
-* The probability of the planter spawning a puffshroom, and the probability of that puffshroom being a certain rarity.
-* How the planter generates its loot. — December 19th, 2024
-
-This content contains assumptions.
-
-Though the precise details may be inaccurate, most information comes from great testing and supported assumptions.
-
-Assumptions made: How the planter generates its loot is unclear with only the datamined information. Some information has been verified (the number of tokens it spawns and the guaranteed items), but the rest are assumptions.
-
-Plastic Planter
-
-*"Grows in about 2 hours. Harvest to collect pollen, items, and Nectar boosts!*"
-
-REUSABLE?
-
-Yes
-
-COST
-
-750,000 [Honey](honey.md), 3 [Magic Beans](magic-bean.md), 1 [Soft Wax](soft-wax.md).
-
-GROW TIME
-
-~2 hours
-
-GROW TIME BONUS
-
--
-
-POLLEN CAPACITY
-
-250,000 Pollen
-
-POLLEN MULTIPLIER
-
--
-
-NECTAR MULTIPLIER
-
--
-
-BONUS ITEMS
-
--
+<div class="planter-infobox">
+<div class="planter-infobox-title">Plastic Planter</div>
+<div class="planter-infobox-image"><img alt="Plastic Planter" src="img/Plastic_Planter.png" width="150"></div>
+<div class="planter-infobox-quote"><i>"Grows in about 2 hours. Harvest to collect pollen, items, and Nectar boosts!"</i></div>
+<div class="planter-infobox-header">Stats</div>
+<div class="planter-stats">
+<div class="planter-stat planter-stat-wide"><b>Cost</b><span class="planter-chips"><span class="planter-chip"><img alt="" src="img/Honey.png" width="20" height="20"><b>750k</b> <a href="honey.html">Honey</a></span><span class="planter-chip"><img alt="" src="img/Magic_Bean.png" width="20" height="20"><b>3</b> <a href="magic-bean.html">Magic Beans</a></span><span class="planter-chip"><img alt="" src="img/Soft_Wax.png" width="20" height="20"><b>1</b> <a href="soft-wax.html">Soft Wax</a></span></span></div>
+<div class="planter-stat"><b>Reusable</b><span>Yes</span></div>
+<div class="planter-stat"><b>Inventory cap</b><span>-</span></div>
+<div class="planter-stat"><b>Shop limit</b><span>1</span></div>
+<div class="planter-stat"><b>Grow time</b><span>2 hours</span></div>
+<div class="planter-stat planter-stat-wide"><b>Grows faster</b><span>None</span></div>
+<div class="planter-stat planter-stat-wide"><b>Pollen bonus</b><span>None</span></div>
+<div class="planter-stat planter-stat-wide"><b>Nectar</b><span class="planter-chips"><span class="planter-chip">x1 all Nectar</span></span></div>
+<div class="planter-stat"><b>Pollen capacity</b><span>250,000</span></div>
+<div class="planter-stat"><b>Item tokens</b><span>12</span></div>
+<div class="planter-stat"><b>Puffshroom chance</b><span>14%</span></div>
+<div class="planter-stat"><b>Puffshroom level</b><span>3 to 4</span></div>
+<div class="planter-stat planter-stat-wide"><b>Guaranteed items</b><span>None</span></div>
+</div>
+</div>
 
 The **Plastic Planter** is a [planter](planter.md) added in 2021-12-26 update. Alone, it grows in around 2 hours and stores 250,000 pollen. The planter can be bought from [Dapper Bear's Shop](dapper-bear-s-shop.md).
 
-<table class="article-table">
-<tbody><tr>
-<th>Crafting Ingredients
-</th></tr>
-<tr>
-<td><img alt="Honey" height="25" src="img/Honey.png" width="25"/>750,000 <a href="honey.html"><span class="color-template color-template-honey">Honey</span></a><br/>
-<p><img alt="Magic Bean" height="25" src="img/Magic_Bean.png" width="25"/>3 <a href="magic-bean.html"><span class="color-template color-template-magic-bean color-template-background-clip">Magic Beans</span></a><br/>
-<img alt="Soft Wax" height="25" src="img/Soft_Wax.png" width="25"/>1 <a href="soft-wax.html"><span class="color-template color-template-soft-wax">Soft Wax</span></a>
-</p>
-</td></tr></tbody></table>
+## Growth, pollen and nectar
 
-This planter has no special multipliers.
+* Grows in 2 hours of playtime.
+* [Glitter](glitter.md) used in its field speeds it up: x1.5 for one, rising in halving steps up to x2 at 6 stacks. The stacks stay on the planter until it is harvested.
+* Holds 250,000 [pollen](pollen.md) at full growth. A harvest gives capacity × growth × pollen bonus. It has no pollen bonus.
+* [Nectar](nectar.md) multipliers: x1 Satisfying, x1 Comforting, x1 Motivating, x1 Refreshing, x1 Invigorating. On harvest it gives one Nectar type from its field, lasting grow time × growth × multiplier × 3 seconds.
+* Up to 3 bees can sip from it at once.
 
-Harvesting a fully grown Plastic Planter has a 1/7 chance to spawn a [Puffshroom](puffshroom.md). The spawned puffshroom is between levels 3–4, and has a:
+## Puffshrooms
 
-* ~80% chance of being a Common Puffshroom,
-* ~20% chance of being a Rare Puffshroom.
+When it reaches 95% growth, it has a 14% chance to smoke and spawn 3 [Puffshrooms](puffshroom.md) (one at the planter and two nearby) at levels 3 to 4.
+
+Rarity odds:
+
+* Common 75%
+* Rare 25%
 
 ## Drops
 
-When claimed, the planter gives up to 12 tokens worth of items. The tokens are picked randomly from the following, non-exhaustive list (note that the list does not include rewards based on the [field](fields.md) the planter is in):
+A full harvest gives 12 item tokens. Harvesting early gives fewer, in proportion to growth, but always at least 1. Tokens are filled in this order: guaranteed items (full harvests only), then field rules, then random picks from the pool below.
 
-### Other Drops
+### Field rules
 
-<table class="article-table">
-<tbody><tr>
-<td><img alt="Treat" height="35" src="img/Treat.png" width="35"/><a href="treat.html"><span class="color-template color-template-treat">Treats</span></a><br/>
-<p><img alt="Ticket" height="35" src="img/Ticket.png" width="35"/><a href="ticket.html"><span class="color-template color-template-ticket color-template-background-clip">Tickets</span></a><br/>
-<img alt="Sunflower Seed" height="35" src="img/Sunflower_Seed.png" width="35"/><a href="sunflower-seed.html"><span class="color-template color-template-sunflower-seed color-template-background-clip">Sunflower Seeds</span></a><br/>
-<img alt="Pineapple" height="35" src="img/Pineapple.png" width="35"/><a href="pineapple.html"><span class="color-template color-template-pineapple color-template-background-clip">Pineapples</span></a><br/>
-<img alt="Blueberry" height="35" src="img/Blueberry.png" width="35"/><a href="blueberry.html"><span class="color-template color-template-blueberry color-template-background-clip">Blueberries</span></a><br/>
-<img alt="Strawberry" height="35" src="img/Strawberry.png" width="35"/><a href="strawberry.html"><span class="color-template color-template-strawberry color-template-background-clip">Strawberries</span></a><br/>
-<img alt="Bitterberry" height="35" src="img/Bitterberry.png" width="35"/><a href="bitterberry.html"><span class="color-template color-template-bitterberry color-template-background-clip">Bitterberries</span></a><br/>
-<img alt="Neonberry" height="35" src="img/Neonberry.png" width="35"/><a href="neonberry.html"><span class="color-template color-template-neonberry color-template-background-clip">Neonberries</span></a><br/>
-<img alt="Enzymes" height="35" src="img/Enzymes.png" width="35"/><a href="enzymes.html"><span class="color-template color-template-enzymes color-template-background-clip">Enzymes</span></a><br/>
-<img alt="Gumdrops" height="35" src="img/Gumdrops.png" width="35"/><a href="gumdrops.html"><span class="color-template color-template-gumdrops color-template-background-clip">Gumdrops</span></a><br/>
-<img alt="Field Dice" height="35" src="img/Field_Dice.png" width="35"/><a href="field-dice.html"><span class="color-template color-template-field-dice color-template-background-clip">Field Dice</span></a><br/>
-<img alt="Whirligig" height="35" src="img/Whirligig.png" width="35"/><a href="whirligig.html"><span class="color-template color-template-whirligig color-template-background-clip">Whirligigs</span></a><br/>
-<img alt="Soft Wax" height="35" src="img/Soft_Wax.png" width="35"/><a href="soft-wax.html"><span class="color-template color-template-soft-wax">Soft Waxes</span></a><br/>
-<img alt="Honeysuckle" height="35" src="img/Honeysuckle.png" width="35"/><a href="honeysuckle.html"><span class="color-template color-template-honeysuckle color-template-background-clip">Honeysuckles</span></a><br/>
-<img alt="Hard Wax" height="35" src="img/Hard_Wax.png" width="35"/><a href="hard-wax.html"><span class="color-template color-template-hard-wax">Hard Waxes</span></a><br/>
-<img alt="Blue Extract" height="35" src="img/Blue_Extract.png" width="35"/><a href="blue-extract.html"><span class="color-template color-template-blue-extract color-template-background-clip">Blue Extracts</span></a><br/>
-<img alt="Red Extract" height="35" src="img/Red_Extract.png" width="35"/><a href="red-extract.html"><span class="color-template color-template-red-extract color-template-background-clip">Red Extracts</span></a><br/>
-<img alt="Stinger" height="35" src="img/Stinger.png" width="35"/><a href="stinger.html"><span class="color-template color-template-stinger color-template-background-clip">Stingers</span></a><br/>
-<img alt="Micro-Converter" height="35" src="img/Micro-Converter.png" width="35"/><a href="micro-converter.html"><span class="color-template color-template-micro-converter color-template-background-clip">Micro-Converters</span></a><br/>
-<img alt="Royal Jelly" height="35" src="img/Royal_Jelly.png" width="35"/><a href="royal-jelly.html"><span class="color-template color-template-royal-jelly color-template-background-clip">Royal Jellies</span></a><br/>
-<img alt="Star Jelly" height="35" src="img/Star_Jelly.png" width="35"/><a href="royal-jelly.html#Star_Jelly"><span class="color-template color-template-star-jelly color-template-background-clip">Star Jellies</span></a><br/>
-<img alt="Oil" height="35" src="img/Oil.png" width="35"/><a href="oil.html"><span class="color-template color-template-oil color-template-background-clip">Oils</span></a><br/>
-<img alt="Glitter" height="35" src="img/Glitter.png" width="35"/><a href="glitter.html"><span class="color-template color-template-glitter color-template-background-clip">Glitter</span></a><br/>
-<img alt="Coconut" height="35" src="img/Coconut.png" width="35"/><a href="coconut.html"><span class="color-template color-template-coconut color-template-background-clip">Coconuts</span></a> (Only in 35 Bee Zone Fields)<br/>
-<img alt="Moon Charm" height="35" src="img/Moon_Charm.png" width="35"/><a href="moon-charm.html"><span class="color-template color-template-moon-charm color-template-background-clip">Moon Charms</span></a> (Exclusive in Pineapple Patch, or during night)<br/>
-<img alt="Purple Potion" height="35" src="img/Purple_Potion.png" width="35"/><a href="purple-potion.html"><span class="color-template color-template-purple-potion color-template-background-clip">Purple Potion</span></a> (Rare)<br/>
-<img alt="Swirled Wax" height="35" src="img/Swirled_Wax.png" width="35"/><a href="swirled-wax.html"><span class="color-template color-template-swirled-wax color-template-background-clip">Swirled Wax</span></a> (Very Rare)<br/>
-<img alt="Caustic Wax" height="35" src="img/Caustic_Wax.png" width="35"/><a href="caustic-wax.html"><span class="color-template color-template-caustic-wax">Caustic Wax</span></a> (Very Rare)<br/>
-<img alt="Bottle Cap" height="35" src="img/Bottle_Cap.png" width="35"/><a href="bottle-cap.html"><span class="color-template color-template-bottle-cap color-template-background-clip">Bottle Cap</span></a> (Very Rare)<br/>
-<img alt="Turpentine" height="35" src="img/Turpentine.png" width="35"/><a href="turpentine.html"><span class="color-template color-template-turpentine color-template-background-clip">Turpentine</span></a> (Exceptionally Rare)<br/>
-<img alt="Gold Egg" height="35" src="img/Gold_Egg.png" width="35"/><a href="egg.html#Gold_Egg"><span class="color-template color-template-gold-egg color-template-background-clip">Gold Egg</span></a> (Exceptionally Rare)<br/>
-<img alt="Whistle" height="35" src="img/Whistle.png" width="35"/><a href="whistle.html"><span class="color-template color-template-whistle color-template-background-clip">Whistle</span></a> (Exceptionally Rare)
-</p>
-</td></tr></tbody></table>
+* Full harvest in the [Pineapple Patch](pineapple-patch.md): +1 Enzymes. In the [Sunflower Field](sunflower-field.md): +1 Oil.
+* In the [Coconut Field](coconut-field.md) the pool also gets Coconuts (1 / 1 / 3, weight 30).
 
-### Special Drops
+### Random items
 
-<table class="article-table">
-<tbody><tr>
-<td><img alt="Swirled Wax" height="25" src="img/Swirled_Wax.png" width="25"/>1 <a href="swirled-wax.html"><span class="color-template color-template-swirled-wax color-template-background-clip">Swirled Wax</span></a> (When harvested from <a href="coconut-field.html">Coconut Field</a>, 1 month cooldown)<br/>
-<p><img alt="Caustic Wax" height="25" src="img/Caustic_Wax.png" width="25"/>1 <a href="caustic-wax.html"><span class="color-template color-template-caustic-wax">Caustic Wax</span></a> (When harvested from <a href="rose-field.html">Rose Field</a>, 1 month cooldown)<br/>
-<img alt="Super Smoothie" height="25" src="img/Super_Smoothie.png" width="25"/>1 <a href="super-smoothie.html"><span class="color-template color-template-super-smoothie color-template-background-clip">Super Smoothie</span></a> (Uncommon, 1 month cooldown)
-</p>
-</td></tr></tbody></table>
+"Chance per token" is the chance that one random token is that item, before any field extras.
+
+| Item | Amount (one picked at random) | Chance per token |
+|---|---|---|
+| <img alt="" src="img/Honey.png" width="20" height="20"> <a href="honey.html">Honey</a> | scales with capacity, 2,500 to 25,000 | 16.1% |
+| <img alt="" src="img/Sunflower_Seed.png" width="20" height="20"> <a href="sunflower-seed.html">Sunflower Seed</a> | 1 / 3 / 5 / 10 | 11.3% |
+| <img alt="" src="img/Strawberry.png" width="20" height="20"> <a href="strawberry.html">Strawberry</a> | 1 / 3 / 5 / 10 | 11.3% |
+| <img alt="" src="img/Pineapple.png" width="20" height="20"> <a href="pineapple.html">Pineapple</a> | 1 / 3 / 5 / 10 | 11.3% |
+| <img alt="" src="img/Blueberry.png" width="20" height="20"> <a href="blueberry.html">Blueberry</a> | 1 / 3 / 5 / 10 | 11.3% |
+| <img alt="" src="img/Ticket.png" width="20" height="20"> <a href="ticket.html">Ticket</a> | 1 / 1 / 1 / 3 / 5 | 4.8% |
+| <img alt="" src="img/Gumdrops.png" width="20" height="20"> <a href="gumdrops.html">Gumdrops</a> | 1 / 3 / 5 | 4.8% |
+| <img alt="" src="img/Royal_Jelly.png" width="20" height="20"> <a href="royal-jelly.html">Royal Jelly</a> | 1 / 1 / 2 / 3 | 4.8% |
+| <img alt="" src="img/Enzymes.png" width="20" height="20"> <a href="enzymes.html">Enzymes</a> | 1 / 3 / 7 | 4.8% |
+| <img alt="" src="img/Oil.png" width="20" height="20"> <a href="oil.html">Oil</a> | 1 / 3 / 5 | 4.8% |
+| <img alt="" src="img/Honeysuckle.png" width="20" height="20"> <a href="honeysuckle.html">Honeysuckle</a> | 1 / 3 | 4.8% |
+| <img alt="" src="img/Whirligig.png" width="20" height="20"> <a href="whirligig.html">Whirligig</a> | 1 | 1.3% |
+| <img alt="" src="img/Glue.png" width="20" height="20"> <a href="glue.html">Glue</a> | 1 | 1.3% |
+| <img alt="" src="img/Red_Extract.png" width="20" height="20"> <a href="red-extract.html">Red Extract</a> | 1 | 1.3% |
+| <img alt="" src="img/Blue_Extract.png" width="20" height="20"> <a href="blue-extract.html">Blue Extract</a> | 1 | 1.3% |
+| <img alt="" src="img/Soft_Wax.png" width="20" height="20"> <a href="soft-wax.html">Soft Wax</a> | 1 | 1.3% |
+| <img alt="" src="img/Stinger.png" width="20" height="20"> <a href="stinger.html">Stinger</a> | 1 | 1.3% |
+| <img alt="" src="img/Field_Dice.png" width="20" height="20"> <a href="field-dice.html">Field Dice</a> | 1 | 1.3% |
+| <img alt="" src="img/Hard_Wax.png" width="20" height="20"> <a href="hard-wax.html">Hard Wax</a> | 1 | 0.36% |
+| <img alt="" src="img/Star_Jelly.png" width="20" height="20"> <a href="royal-jelly.html">Star Jelly</a> | 1 | 0.36% |
+| <img alt="" src="img/Purple_Potion.png" width="20" height="20"> <a href="purple-potion.html">Purple Potion</a> | 1 | 0.10% |
+| <img alt="" src="img/Super_Smoothie.png" width="20" height="20"> <a href="super-smoothie.html">Super Smoothie</a> | 1 | 0.10% |
+| <img alt="" src="img/Gold_Egg.png" width="20" height="20"> <a href="egg.html">Gold Egg</a> | 1 | 0.03% |
+| <img alt="" src="img/Caustic_Wax.png" width="20" height="20"> <a href="caustic-wax.html">Caustic Wax</a> | 1 | 0.03% |
+| <img alt="" src="img/Turpentine.png" width="20" height="20"> <a href="turpentine.html">Turpentine</a> | 1 | 1 in 17,777 |
 
 ## Trivia
 

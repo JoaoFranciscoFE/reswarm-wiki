@@ -327,3 +327,31 @@ figure img { max-width: 100%; height: auto; }
 .md-typeset .crit-super { animation-name: crit-shake, crit-pop, crit-super-colour; animation-duration: .1s, 1.6s, .35s; font-size: 1.92rem; -webkit-text-stroke: 1.5px #964bff; text-shadow: 0 2px 0 #160a24; }
 @keyframes crit-super-colour { 0%, 100% { color: #b53dff; } 50% { color: #6a1fb8; } }
 @media (prefers-reduced-motion: reduce) { .md-typeset .crit-super { color: #b53dff; } }
+
+/* Planter infobox: same look as the bee infobox, stats in a compact two-column grid */
+.planter-infobox { --planter: #b98a4e; float: right; clear: right; width: 290px; margin: 0 0 1em 1.2em;
+  --planter-bg: color-mix(in srgb, var(--planter) 22%, #f6efd6);
+  background: var(--planter-bg); color: #1b1b1b; font-size: .72rem;
+  border-radius: 4px; overflow: hidden; box-shadow: 0 1px 4px rgba(0,0,0,.35); }
+.planter-infobox-title, .planter-infobox-header { background: var(--planter); color: #111; text-align: center; }
+.planter-infobox-title { padding: .9em .5em; font-size: 1rem; font-weight: 700; }
+.planter-infobox-header { padding: .3em; font-size: .8rem; text-transform: uppercase; }
+.planter-infobox-image { padding: .8em 0 .4em; text-align: center; }
+.planter-infobox-image img { width: 150px; height: 150px; object-fit: contain; }
+.planter-infobox-quote { padding: 0 .9em .7em; text-align: center; }
+.planter-stats { display: grid; grid-template-columns: 1fr 1fr; gap: 1px; background: rgba(0,0,0,.14); }
+.planter-stat { padding: .4em .6em; background: var(--planter-bg); }
+.planter-stat-wide { grid-column: 1 / -1; }
+.planter-stat > b { display: block; font-size: .62rem; text-transform: uppercase; letter-spacing: .03em; color: #5a4a35; }
+.planter-stat > span { display: block; }
+.planter-stat > span.planter-chips { display: flex; flex-wrap: wrap; gap: .25em; align-items: center; }
+.md-typeset .planter-infobox a { color: #0a6f76; }
+.planter-chip { display: inline-flex; align-items: center; gap: .25em; padding: .1em .45em; border-radius: 99px;
+  background: rgba(255,255,255,.55); border: 1px solid rgba(0,0,0,.1); white-space: nowrap; }
+.md-typeset .planter-chip img { width: 18px; height: 18px; }
+.planter-chip.nectar-comforting { background: #e6d9f7; }
+.planter-chip.nectar-invigorating { background: #f9d6d2; }
+.planter-chip.nectar-motivating { background: #f8d6ec; }
+.planter-chip.nectar-refreshing { background: #d4f0d2; }
+.planter-chip.nectar-satisfying { background: #f8edc4; }
+@media (max-width: 700px) { .planter-infobox { float: none; width: 100%; max-width: 340px; margin: 0 auto 1em; } }

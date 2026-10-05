@@ -5,153 +5,109 @@ tags: ["Inventory", "Items", "Planter", "Crafted"]
 
 # Tacky Planter
 
-![Tacky Planter](img/Tacky_Planter.png){ align=right width=150 }
-
-This piece of content contains information obtained through datamining.
-
-Due to the nature of the information, details may be inaccurate or outdated.
-
-Datamined information:
-
-* Some of the planter's stats are corrected from the in-game description.
-* The probability of the planter spawning a puffshroom, and the probability of that puffshroom being a certain rarity.
-* How the planter generates its loot. — December 19th, 2024
-
-This content contains assumptions.
-
-Though the precise details may be inaccurate, most information comes from great testing and supported assumptions.
-
-Assumptions made: How the planter generates its loot is unclear with only the datamined information. Some information has been verified (the number of tokens it spawns and the guaranteed items), but the rest are assumptions.
-
-Tacky Planter
-
-*"Grows in about 8hrs, but faster near the hives. Grants bonus Field Dice, Sunflower Seeds, and x1.25 Satisfying and Comforting Nectar.*"
-
-REUSABLE?
-
-Yes
-
-COST
-
-50,000,000 [Honey](honey.md), 10 [Magic Beans](magic-bean.md), 1 [Purple Potion](purple-potion.md), 5 [Hard Waxes](hard-wax.md), and 20 [Soft Waxes](soft-wax.md).
-
-GROW TIME
-
-~8 hours
-
-GROW TIME BONUS
-
--25% grow time in the [Starting Zone](starter-zone.md).
-
-POLLEN CAPACITY
-
-15,000,000 Pollen
-
-POLLEN MULTIPLIER
-
-+100% Pollen in the [Starting Zone](starter-zone.md).
-
-NECTAR MULTIPLIER
-
-+25% Satisfying  
-
-+25% Comforting
-
-BONUS ITEMS
-
-* [Field Dice](field-dice.md)
-* [Sunflower Seed](sunflower-seed.md)
+<div class="planter-infobox">
+<div class="planter-infobox-title">Tacky Planter</div>
+<div class="planter-infobox-image"><img alt="Tacky Planter" src="img/Tacky_Planter.png" width="150"></div>
+<div class="planter-infobox-quote"><i>"Grows in about 8hrs, but faster near the hives. Grants bonus Field Dice, Sunflower Seeds, and x1.25 Satisfying and Comforting Nectar."</i></div>
+<div class="planter-infobox-header">Stats</div>
+<div class="planter-stats">
+<div class="planter-stat planter-stat-wide"><b>Cost</b><span class="planter-chips"><span class="planter-chip"><img alt="" src="img/Honey.png" width="20" height="20"><b>50M</b> <a href="honey.html">Honey</a></span><span class="planter-chip"><img alt="" src="img/Magic_Bean.png" width="20" height="20"><b>10</b> <a href="magic-bean.html">Magic Beans</a></span><span class="planter-chip"><img alt="" src="img/Purple_Potion.png" width="20" height="20"><b>1</b> <a href="purple-potion.html">Purple Potion</a></span><span class="planter-chip"><img alt="" src="img/Hard_Wax.png" width="20" height="20"><b>5</b> <a href="hard-wax.html">Hard Wax</a></span><span class="planter-chip"><img alt="" src="img/Soft_Wax.png" width="20" height="20"><b>20</b> <a href="soft-wax.html">Soft Wax</a></span></span></div>
+<div class="planter-stat"><b>Reusable</b><span>Yes</span></div>
+<div class="planter-stat"><b>Inventory cap</b><span>-</span></div>
+<div class="planter-stat"><b>Shop limit</b><span>1</span></div>
+<div class="planter-stat"><b>Grow time</b><span>8 hours</span></div>
+<div class="planter-stat planter-stat-wide"><b>Grows faster</b><span>x1.25 in Sunflower Field, x1.25 in Mushroom Field, x1.25 in Dandelion Field, x1.25 in Blue Flower Field, x1.25 in Clover Field</span></div>
+<div class="planter-stat planter-stat-wide"><b>Pollen bonus</b><span>x2 in Sunflower Field, x2 in Mushroom Field, x2 in Dandelion Field, x2 in Blue Flower Field, x2 in Clover Field</span></div>
+<div class="planter-stat planter-stat-wide"><b>Nectar</b><span class="planter-chips"><span class="planter-chip nectar-satisfying">x1.25 Satisfying</span><span class="planter-chip nectar-comforting">x1.25 Comforting</span></span></div>
+<div class="planter-stat"><b>Pollen capacity</b><span>15,000,000</span></div>
+<div class="planter-stat"><b>Item tokens</b><span>22</span></div>
+<div class="planter-stat"><b>Puffshroom chance</b><span>20%</span></div>
+<div class="planter-stat"><b>Puffshroom level</b><span>5</span></div>
+<div class="planter-stat planter-stat-wide"><b>Guaranteed items</b><span class="planter-chips"><span class="planter-chip"><img alt="" src="img/Field_Dice.png" width="20" height="20"><b>1</b> <a href="field-dice.html">Field Dice</a></span><span class="planter-chip"><img alt="" src="img/Ticket.png" width="20" height="20"><b>1</b> <a href="ticket.html">Ticket</a></span></span></div>
+</div>
+</div>
 
 The **Tacky Planter** is a reusable planter added in 2021-12-26 update. Alone, it grows in about 8 hours and stores around 15 million pollen. When harvested, it grants bonus [Field Dice](field-dice.md) and [Sunflower Seeds](sunflower-seed.md). It can be purchased in [Dapper Bear's Shop](dapper-bear-s-shop.md).
 
-<table class="article-table">
-<tbody><tr>
-<th>Crafting Ingredients
-</th></tr>
-<tr>
-<td><img alt="Honey" height="25" src="img/Honey.png" width="25"/>50,000,000 <a href="honey.html"><span class="color-template color-template-honey">Honey</span></a><br/>
-<p><img alt="Magic Bean" height="25" src="img/Magic_Bean.png" width="25"/>10 <a href="magic-bean.html"><span class="color-template color-template-magic-bean color-template-background-clip">Magic Beans</span></a><br/>
-<img alt="Purple Potion" height="25" src="img/Purple_Potion.png" width="25"/>1 <a href="purple-potion.html"><span class="color-template color-template-purple-potion color-template-background-clip">Purple Potion</span></a><br/>
-<img alt="Hard Wax" height="25" src="img/Hard_Wax.png" width="25"/>5 <a href="hard-wax.html"><span class="color-template color-template-hard-wax">Hard Waxes</span></a><br/>
-<img alt="Soft Wax" height="25" src="img/Soft_Wax.png" width="25"/>20 <a href="soft-wax.html"><span class="color-template color-template-soft-wax">Soft Waxes</span></a>
-</p>
-</td></tr></tbody></table>
+## Growth, pollen and nectar
 
-It grows 25% faster and grants 100% more pollen on harvest in the [Starter Zone](starter-zone.md) ([Sunflower Field](sunflower-field.md), [Dandelion Field](dandelion-field.md), [Mushroom Field](mushroom-field.md), [Blue Flower Field](blue-flower-field.md), [Clover Field](clover-field.md)), and grants 25% more Satisfying and Comforting Nectar.
+* Grows in 8 hours of playtime alone, and grows faster here: x1.25 in [Sunflower Field](sunflower-field.md), x1.25 in [Mushroom Field](mushroom-field.md), x1.25 in [Dandelion Field](dandelion-field.md), x1.25 in [Blue Flower Field](blue-flower-field.md), x1.25 in [Clover Field](clover-field.md). A flower-colour bonus is weighted by how much of the field is that colour.
+* [Glitter](glitter.md) used in its field speeds it up: x1.5 for one, rising in halving steps up to x2 at 6 stacks. The stacks stay on the planter until it is harvested.
+* Holds 15,000,000 [pollen](pollen.md) at full growth. A harvest gives capacity × growth × pollen bonus. Pollen bonus: x2 in [Sunflower Field](sunflower-field.md), x2 in [Mushroom Field](mushroom-field.md), x2 in [Dandelion Field](dandelion-field.md), x2 in [Blue Flower Field](blue-flower-field.md), x2 in [Clover Field](clover-field.md).
+* [Nectar](nectar.md) multipliers: x1.25 Satisfying, x1.25 Comforting. On harvest it gives one Nectar type from its field, lasting grow time × growth × multiplier × 3 seconds.
+* Up to 3 bees can sip from it at once.
 
-Harvesting a fully grown Tacky Planter has a 1/5 chance to spawn a [Puffshroom](puffshroom.md). The spawned puffshroom is level 5, and has a:
+## Puffshrooms
 
-* ~73.15% chance of being a Common Puffshroom,
-* ~21.95% chance of being a Rare Puffshroom,
-* ~4.75% chance of being an Epic Puffshroom,
-* ~0.15% chance of being a Legendary Puffshroom.
+When it reaches 95% growth, it has a 20% chance to smoke and spawn 3 [Puffshrooms](puffshroom.md) (one at the planter and two nearby) at level 5.
+
+Rarity odds:
+
+* Common 70%
+* Rare 23.5%
+* Epic 6.3%
+* Legendary 0.2%
 
 ## Drops
 
-When claimed, the planter gives up to 22 tokens worth of items. If the planter was fully grown when claimed, 2 of the tokens are guaranteed to be 1 [Field Dice](field-dice.md) and 1 [Ticket](ticket.md). The others are picked randomly from the following, non-exhaustive list (note that the list does not include rewards based on the [field](fields.md) the planter is in):
+A full harvest gives 22 item tokens. Harvesting early gives fewer, in proportion to growth, but always at least 1. Tokens are filled in this order: guaranteed items (full harvests only), then field rules, then random picks from the pool below.
 
-### Bonus
+### Guaranteed
 
-<table class="article-table">
-<tbody><tr>
-<td><img alt="Sunflower Seed" height="35" src="img/Sunflower_Seed.png" width="35"/><a href="sunflower-seed.html"><span class="color-template color-template-sunflower-seed color-template-background-clip">Sunflower Seeds</span></a><br/>
-<p><img alt="Field Dice" height="35" src="img/Field_Dice.png" width="35"/><a href="field-dice.html"><span class="color-template color-template-field-dice color-template-background-clip">Field Dice</span></a><br/>
-<img alt="Smooth Dice" height="35" src="img/Smooth_Dice.png" width="35"/><a href="smooth-dice.html"><span class="color-template color-template-smooth-dice color-template-background-clip">Smooth Dice</span></a><br/>
-<img alt="Loaded Dice" height="35" src="img/Loaded_Dice.png" width="35"/><a href="loaded-dice.html"><span class="color-template color-template-loaded-dice color-template-background-clip">Loaded Dice</span></a> (Rare)
-</p>
-</td></tr></tbody></table>
+On every full harvest:
 
-### Other
+* <img alt="" src="img/Field_Dice.png" width="20" height="20"> <b>1</b> <a href="field-dice.html">Field Dice</a>
+* <img alt="" src="img/Ticket.png" width="20" height="20"> <b>1</b> <a href="ticket.html">Ticket</a>
 
-<table class="article-table">
-<tbody><tr>
-<td><img alt="Royal Jelly" height="35" src="img/Royal_Jelly.png" width="35"/><a href="royal-jelly.html"><span class="color-template color-template-royal-jelly color-template-background-clip">Royal Jellies</span></a><br/>
-<p><img alt="Ticket" height="35" src="img/Ticket.png" width="35"/><a href="ticket.html"><span class="color-template color-template-ticket color-template-background-clip">Tickets</span></a><br/>
-<img alt="Treat" height="35" src="img/Treat.png" width="35"/><a href="treat.html"><span class="color-template color-template-treat">Treats</span></a><br/>
-<img alt="Strawberry" height="35" src="img/Strawberry.png" width="35"/><a href="strawberry.html"><span class="color-template color-template-strawberry color-template-background-clip">Strawberries</span></a><br/>
-<img alt="Blueberry" height="35" src="img/Blueberry.png" width="35"/><a href="blueberry.html"><span class="color-template color-template-blueberry color-template-background-clip">Blueberries</span></a><br/>
-<img alt="Pineapple" height="35" src="img/Pineapple.png" width="35"/><a href="pineapple.html"><span class="color-template color-template-pineapple color-template-background-clip">Pineapples</span></a><br/>
-<img alt="Bitterberry" height="35" src="img/Bitterberry.png" width="35"/><a href="bitterberry.html"><span class="color-template color-template-bitterberry color-template-background-clip">Bitterberries</span></a><br/>
-<img alt="Blue Extract" height="35" src="img/Blue_Extract.png" width="35"/><a href="blue-extract.html"><span class="color-template color-template-blue-extract color-template-background-clip">Blue Extracts</span></a><br/>
-<img alt="Red Extract" height="35" src="img/Red_Extract.png" width="35"/><a href="red-extract.html"><span class="color-template color-template-red-extract color-template-background-clip">Red Extracts</span></a><br/>
-<img alt="Coconut" height="35" src="img/Coconut.png" width="35"/><a href="coconut.html"><span class="color-template color-template-coconut color-template-background-clip">Coconuts</span></a><br/>
-<img alt="Moon Charm" height="35" src="img/Moon_Charm.png" width="35"/><a href="moon-charm.html"><span class="color-template color-template-moon-charm color-template-background-clip">Moon Charms</span></a><br/>
-<img alt="Soft Wax" height="35" src="img/Soft_Wax.png" width="35"/><a href="soft-wax.html"><span class="color-template color-template-soft-wax">Soft Waxes</span></a><br/>
-<img alt="Hard Wax" height="35" src="img/Hard_Wax.png" width="35"/><a href="hard-wax.html"><span class="color-template color-template-hard-wax">Hard Waxes</span></a><br/>
-<img alt="Enzymes" height="35" src="img/Enzymes.png" width="35"/><a href="enzymes.html"><span class="color-template color-template-enzymes color-template-background-clip">Enzymes</span></a><br/>
-<img alt="Micro-Converter" height="35" src="img/Micro-Converter.png" width="35"/><a href="micro-converter.html"><span class="color-template color-template-micro-converter color-template-background-clip">Micro-Converters</span></a><br/>
-<img alt="Gumdrops" height="35" src="img/Gumdrops.png" width="35"/><a href="gumdrops.html"><span class="color-template color-template-gumdrops color-template-background-clip">Gumdrops</span></a><br/>
-<img alt="Stinger" height="35" src="img/Stinger.png" width="35"/><a href="stinger.html"><span class="color-template color-template-stinger color-template-background-clip">Stingers</span></a><br/>
-<img alt="Honeysuckle" height="35" src="img/Honeysuckle.png" width="35"/><a href="honeysuckle.html"><span class="color-template color-template-honeysuckle color-template-background-clip">Honeysuckles</span></a><br/>
-<img alt="Whirligig" height="35" src="img/Whirligig.png" width="35"/><a href="whirligig.html"><span class="color-template color-template-whirligig color-template-background-clip">Whirligigs</span></a><br/>
-<img alt="Glitter" height="35" src="img/Glitter.png" width="35"/><a href="glitter.html"><span class="color-template color-template-glitter color-template-background-clip">Glitter</span></a><br/>
-<img alt="Oil" height="35" src="img/Oil.png" width="35"/><a href="oil.html"><span class="color-template color-template-oil color-template-background-clip">Oils</span></a><br/>
-<img alt="Jelly Beans" height="35" src="img/Jelly_Beans.png" width="35"/><a href="jelly-beans.html"><span class="color-template color-template-jelly-beans color-template-background-clip">Jelly Beans</span></a><br/>
-<img alt="Purple Potion" height="35" src="img/Purple_Potion.png" width="35"/><a href="purple-potion.html"><span class="color-template color-template-purple-potion color-template-background-clip">Purple Potion</span></a> (Rare, drops in increments of 1 or 2)<br/>
-<img alt="Gold Egg" height="35" src="img/Gold_Egg.png" width="35"/><a href="egg.html#Gold_Egg"><span class="color-template color-template-gold-egg color-template-background-clip">Gold Egg</span></a> (Very Rare)<br/>
-<img alt="Star Jelly" height="35" src="img/Star_Jelly.png" width="35"/><a href="royal-jelly.html#Star_Jelly"><span class="color-template color-template-star-jelly color-template-background-clip">Star Jelly</span></a> (Rare)<br/>
-<img alt="Turpentine" height="35" src="img/Turpentine.png" width="35"/><a href="turpentine.html"><span class="color-template color-template-turpentine color-template-background-clip">Turpentine</span></a> (Exceptionally Rare)<br/>
-<img alt="Super Smoothie" height="35" src="img/Super_Smoothie.png" width="35"/><a href="super-smoothie.html"><span class="color-template color-template-super-smoothie color-template-background-clip">Super Smoothie</span></a> (Very Rare)<br/>
-<img alt="Sweatband" height="35" src="img/Sweatband.png" width="35"/><a href="sweatband.html"><span class="color-template color-template-sweatband color-template-background-clip">Sweatband</span></a> (Very Rare, probability increased in <a href="clover-field.html">Clover Field</a>)<br/>
-<img alt="Smiley Sticker" height="35" src="img/Smiley_Sticker.png" width="35"/><a href="smiley-sticker.html"><span class="color-template color-template-smiley-sticker color-template-background-clip">Smiley Sticker</span></a> (Very Rare)<br/>
-<img alt="Bead Lizard" height="35" src="img/Bead_Lizard.png" width="35"/><a href="bead-lizard.html"><span class="color-template color-template-bead-lizard color-template-background-clip">Bead Lizard</span></a> (Very Rare)<br/>
-<img alt="Autumn Sunhat" height="35" src="img/Autumn_Sunhat.png" width="35"/><a href="autumn-sunhat.html"><span class="color-template color-template-autumn-sunhat color-template-background-clip">Autumn Sunhat</span></a> (Very Rare)<br/>
-<img alt="Pink Shades" height="35" src="img/Pink_Shades.png" width="35"/><a href="pink-shades.html"><span class="color-template color-template-pink-shades color-template-background-clip">Pink Shades</span></a> (Unfathomably Rare, 1/100,000)<br/>
-<img alt="Sticker" height="35" src="img/Sticker.png" width="35"/><a href="sticker.html#Sticker_Index"><span class="color-template color-template-colorful-buttons-sticker color-template-background-clip">Colorful Buttons Sticker</span></a> (Rare)
-</p>
-</td></tr></tbody></table>
+### Field rules
 
-### Special
+* Full in the [Pumpkin Patch](pumpkin-patch.md): 1 Swirled Wax. [Bamboo Field](bamboo-field.md): 1 Caustic Wax. [Mountain Top Field](mountain-top-field.md): 1 Loaded Dice. Each once every 30 days.
+* Full harvests in the [Mushroom Field](mushroom-field.md) then the [Blue Flower Field](blue-flower-field.md): 1 Purple Potion.
+* Full harvests in Clover, Coconut, Stump, Pepper, then Mountain Top, in order: the Dapper From Above sticker, once per account.
 
-<table class="article-table">
-<tbody><tr>
-<td><img alt="Swirled Wax" height="25" src="img/Swirled_Wax.png" width="25"/>1 <a href="swirled-wax.html"><span class="color-template color-template-swirled-wax color-template-background-clip">Swirled Wax</span></a> (When harvested from <a href="pumpkin-patch.html">Pumpkin Patch</a>, 1 month cooldown)<br/>
-<p><img alt="Caustic Wax" height="25" src="img/Caustic_Wax.png" width="25"/>1 <a href="caustic-wax.html"><span class="color-template color-template-caustic-wax">Caustic Wax</span></a> (When harvested from <a href="bamboo-field.html">Bamboo Field</a>, 1 month cooldown)<br/>
-<img alt="Loaded Dice" height="25" src="img/Loaded_Dice.png" width="25"/>1 <a href="loaded-dice.html"><span class="color-template color-template-loaded-dice color-template-background-clip">Loaded Dice</span></a> (When harvested from <a href="mountain-top-field.html">Mountain Top Field</a>, 1 month cooldown)<br/>
-<img alt="Purple Potion" height="25" src="img/Purple_Potion.png" width="25"/>1 <a href="purple-potion.html"><span class="color-template color-template-purple-potion color-template-background-clip">Purple Potion</span></a> (Requires harvesting the planter from <a href="mushroom-field.html">Mushroom Field</a> and <a href="blue-flower-field.html">Blue Flower Field</a> in stated order, unknown cooldown)<br/>
-<img alt="Sticker" height="25" src="img/Sticker.png" width="25"/>1 <a href="sticker.html#Sticker_Index"><span class="color-template color-template-dapper-from-above-sticker color-template-background-clip">Dapper From Above Sticker</span></a> (Once per player, requires planting the Tacky Planter in a chain of five fields, must be 100% harvest (<a href="clover-field.html">Clover</a> → <a href="coconut-field.html">Coconut</a> → <a href="stump-field.html">Stump</a> → <a href="pepper-patch.html">Pepper</a> → <a href="mountain-top-field.html">Mountain Top</a>)
-</p>
-</td></tr></tbody></table>
+### Random items
+
+"Chance per token" is the chance that one random token is that item, before any field extras.
+
+| Item | Amount (one picked at random) | Chance per token |
+|---|---|---|
+| <img alt="" src="img/Sunflower_Seed.png" width="20" height="20"> <a href="sunflower-seed.html">Sunflower Seed</a> | 1 / 3 / 5 / 10 | 11.6% |
+| <img alt="" src="img/Field_Dice.png" width="20" height="20"> <a href="field-dice.html">Field Dice</a> | 1 | 11.6% |
+| <img alt="" src="img/Royal_Jelly.png" width="20" height="20"> <a href="royal-jelly.html">Royal Jelly</a> | 1 / 3 / 5 | 8.1% |
+| <img alt="" src="img/Treat.png" width="20" height="20"> <a href="treat.html">Treat</a> | 10 / 25 / 50 | 8.1% |
+| <img alt="" src="img/Strawberry.png" width="20" height="20"> <a href="strawberry.html">Strawberry</a> | 1 / 3 / 5 / 10 | 8.1% |
+| <img alt="" src="img/Blueberry.png" width="20" height="20"> <a href="blueberry.html">Blueberry</a> | 1 / 3 / 5 / 10 | 8.1% |
+| <img alt="" src="img/Pineapple.png" width="20" height="20"> <a href="pineapple.html">Pineapple</a> | 1 / 3 / 5 / 10 | 8.1% |
+| <img alt="" src="img/Smooth_Dice.png" width="20" height="20"> <a href="smooth-dice.html">Smooth Dice</a> | 1 | 3.5% |
+| <img alt="" src="img/Ticket.png" width="20" height="20"> <a href="ticket.html">Ticket</a> | 1 / 3 / 5 | 3.5% |
+| <img alt="" src="img/Bitterberry.png" width="20" height="20"> <a href="bitterberry.html">Bitterberry</a> | 1 / 3 / 5 | 3.5% |
+| <img alt="" src="img/Moon_Charm.png" width="20" height="20"> <a href="moon-charm.html">Moon Charm</a> | 1 / 3 / 5 | 3.5% |
+| <img alt="" src="img/Soft_Wax.png" width="20" height="20"> <a href="soft-wax.html">Soft Wax</a> | 1 | 3.5% |
+| <img alt="" src="img/Gumdrops.png" width="20" height="20"> <a href="gumdrops.html">Gumdrops</a> | 1 / 3 / 5 | 3.5% |
+| <img alt="" src="img/Honeysuckle.png" width="20" height="20"> <a href="honeysuckle.html">Honeysuckle</a> | 1 / 3 / 5 | 3.5% |
+| <img alt="" src="img/Blue_Extract.png" width="20" height="20"> <a href="blue-extract.html">Blue Extract</a> | 1 | 0.93% |
+| <img alt="" src="img/Red_Extract.png" width="20" height="20"> <a href="red-extract.html">Red Extract</a> | 1 | 0.93% |
+| <img alt="" src="img/Coconut.png" width="20" height="20"> <a href="coconut.html">Coconut</a> | 1 | 0.93% |
+| <img alt="" src="img/Hard_Wax.png" width="20" height="20"> <a href="hard-wax.html">Hard Wax</a> | 1 | 0.93% |
+| <img alt="" src="img/Enzymes.png" width="20" height="20"> <a href="enzymes.html">Enzymes</a> | 1 | 0.93% |
+| <img alt="" src="img/Micro-Converter.png" width="20" height="20"> <a href="micro-converter.html">Micro-Converter</a> | 1 | 0.93% |
+| <img alt="" src="img/Stinger.png" width="20" height="20"> <a href="stinger.html">Stinger</a> | 1 | 0.93% |
+| <img alt="" src="img/Whirligig.png" width="20" height="20"> <a href="whirligig.html">Whirligig</a> | 1 | 0.93% |
+| <img alt="" src="img/Glitter.png" width="20" height="20"> <a href="glitter.html">Glitter</a> | 1 | 0.93% |
+| <img alt="" src="img/Oil.png" width="20" height="20"> <a href="oil.html">Oil</a> | 1 | 0.93% |
+| <img alt="" src="img/Jelly_Beans.png" width="20" height="20"> <a href="jelly-beans.html">Jelly Beans</a> | 1 | 0.93% |
+| <img alt="" src="img/Loaded_Dice.png" width="20" height="20"> <a href="loaded-dice.html">Loaded Dice</a> | 1 | 0.26% |
+| <img alt="" src="img/Purple_Potion.png" width="20" height="20"> <a href="purple-potion.html">Purple Potion</a> | 1 / 2 | 0.26% |
+| <img alt="" src="img/Star_Jelly.png" width="20" height="20"> <a href="royal-jelly.html">Star Jelly</a> | 1 | 0.26% |
+| <img alt="" src="img/Sticker.png" width="20" height="20"> <a href="sticker.html">Colorful Buttons</a> <small>(sticker)</small> | 1 | 0.26% |
+| <img alt="" src="img/Gold_Egg.png" width="20" height="20"> <a href="egg.html">Gold Egg</a> | 1 | 0.08% |
+| <img alt="" src="img/Super_Smoothie.png" width="20" height="20"> <a href="super-smoothie.html">Super Smoothie</a> | 1 | 0.08% |
+| <img alt="" src="img/Sweatband.png" width="20" height="20"> <a href="sweatband.html">Sweatband</a> <small>(beequip)</small> | 1 | 0.08% |
+| <img alt="" src="img/Smiley_Sticker.png" width="20" height="20"> <a href="smiley-sticker.html">Smiley Sticker</a> <small>(beequip)</small> | 1 | 0.08% |
+| <img alt="" src="img/Bead_Lizard.png" width="20" height="20"> <a href="bead-lizard.html">Bead Lizard</a> <small>(beequip)</small> | 1 | 0.08% |
+| <img alt="" src="img/Autumn_Sunhat.png" width="20" height="20"> <a href="autumn-sunhat.html">Autumn Sunhat</a> <small>(beequip)</small> | 1 | 0.08% |
+| <img alt="" src="img/Turpentine.png" width="20" height="20"> <a href="turpentine.html">Turpentine</a> | 1 | 1 in 24,598 |
+| <img alt="" src="img/Pink_Shades.png" width="20" height="20"> <a href="pink-shades.html">Pink Shades</a> <small>(beequip)</small> | 1 | 1 in 71,746 |
 
 <table class="mw-collapsible autocollapse" style="margin:auto; background:#000; font-size: 10pt; border:5px solid #56CB5A; width: 100%; border-radius: 20px; -moz-border-radius: 20px; -webkit-border-radius: 20px; -khtml-border-radius: 20px; -icab-border-radius: 20px; -o-border-radius: 20px;">
 <tbody><tr>
