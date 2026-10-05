@@ -5,10 +5,11 @@ tags: ["Mobs", "Ant Challenge"]
 
 # Giant Ant
 
-![Giant Ant](img/Giant_Ant.png){ align=right width=150 }
-
 <aside class="portable-infobox pi-background pi-border-color pi-theme-wikia pi-layout-stacked" role="region">
 <h2 class="pi-item pi-item-spacing pi-title pi-secondary-background" data-source="title">Giant Ant</h2>
+<figure class="pi-item pi-image">
+<img alt="Giant Ant" src="img/mobs/Giant_Ant.png"/>
+</figure>
 <div class="pi-item pi-data pi-item-spacing pi-border-color" data-source="location">
 <h3 class="pi-data-label pi-secondary-font">Location</h3>
 <div class="pi-data-value pi-font"><a href="ant-field.html">Ant Field</a> while the <a href="ant-challenge.html">Ant Challenge</a> is active.</div>

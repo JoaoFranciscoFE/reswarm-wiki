@@ -5,7 +5,7 @@ tags: ["Mobs", "Beesmas", "Stick Bug Challenge"]
 
 # Festive Nymph
 
-![Festive Nymph](img/Festive_Nymph.png){ align=right width=150 }
+![Festive Nymph](img/mobs/Festive_Nymph.png){ align=right width=180 }
 
 This piece of content goes bye bye.
 

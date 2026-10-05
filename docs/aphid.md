@@ -7,6 +7,9 @@ tags: ["Mobs"]
 
 <aside class="portable-infobox pi-background pi-border-color pi-theme-wikia pi-layout-stacked" role="region">
 <h2 class="pi-item pi-item-spacing pi-title pi-secondary-background" data-source="title">Aphid</h2>
+<figure class="pi-item pi-image">
+<img alt="Aphid" src="img/mobs/Aphid.png"/>
+</figure>
 <div class="pi-item pi-data pi-item-spacing pi-border-color" data-source="location">
 <h3 class="pi-data-label pi-secondary-font">Location</h3>
 <div class="pi-data-value pi-font">Leaves; every field in game (except the Ant Field, Hub Field and Stump Field).</div>

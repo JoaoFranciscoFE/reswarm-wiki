@@ -5,7 +5,7 @@ tags: ["Mobs", "Bosses", "Mini Bosses", "Multiplayer Bosses", "Passive Mobs"]
 
 # Chicks
 
-![Chicks](img/Chicks.png){ align=right width=150 }
+![Chicks](img/mobs/Chick.png){ align=right width=180 }
 
 
 
