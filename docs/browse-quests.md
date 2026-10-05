@@ -6,7 +6,7 @@ hide:
 
 # Quests
 
-All 20 pages in Quests.
+All 21 pages in Quests.
 
 <div class="wiki-cards">
 <a class="wiki-card" href="bee-bear.html"><img src="img/bears/Bee_Bear.png" alt="" loading="lazy"><span>Bee Bear</span></a>
@@ -19,6 +19,7 @@ All 20 pages in Quests.
 <a class="wiki-card" href="gummy-bear.html"><img src="img/bears/Gummy_Bear.png" alt="" loading="lazy"><span>Gummy Bear</span></a>
 <a class="wiki-card" href="honey-bee-npc.html"><img src="img/Honey_Bee_(NPC).png" alt="" loading="lazy"><span>Honey Bee (NPC)</span></a>
 <a class="wiki-card" href="hub-field-shop.html"><img src="img/Hub_Field_Shop.png" alt="" loading="lazy"><span>Hub Field Shop</span></a>
+<a class="wiki-card wiki-card--photo" href="melittology-quest-giver.html"><img src="img/places/Melittology_Quests.png" alt="" loading="lazy"><span>Melittology Quests</span></a>
 <a class="wiki-card" href="mother-bear.html"><img src="img/bears/Mother_Bear.png" alt="" loading="lazy"><span>Mother Bear</span></a>
 <a class="wiki-card wiki-card--noicon" href="onett.html"><img src="images/no-icon.svg" alt="" loading="lazy"><span>Onett</span></a>
 <a class="wiki-card" href="panda-bear.html"><img src="img/bears/Panda_Bear.png" alt="" loading="lazy"><span>Panda Bear</span></a>
