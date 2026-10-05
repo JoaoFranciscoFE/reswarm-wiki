@@ -267,3 +267,9 @@ figure img { max-width: 100%; height: auto; }
 /* Update log page icon */
 .md-typeset img.update-log-icon { float: right; width: 8rem; height: 8rem; object-fit: contain; margin: 0 0 1em 1.2em; }
 @media screen and (max-width: 44.9375em) { .md-typeset img.update-log-icon { width: 5rem; height: 5rem; } }
+
+/* Tool infoboxes: the Fandom collecting-pattern grid needs scripts we don't have, so hide the empty grid */
+.md-typeset table.infobox tr:has(> td > table.templateToolFlowerField),
+.md-typeset table.infobox tr:has(span[typeof~="mw:Error"]) { display: none; }
+.md-typeset table.infobox td.templateToolTitle { background: #c9a51c; color: #111; text-align: center; font-size: .95rem; padding: .6em .5em; }
+.md-typeset table.infobox td.templateToolHeader { background: #1c2e30; text-align: center; text-transform: uppercase; font-size: .72rem; padding: .3em .5em; }
