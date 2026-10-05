@@ -185,7 +185,9 @@ figure img { max-width: 100%; height: auto; }
   display: block; width: 100%; font-size: .7rem; line-height: 1.3; overflow-wrap: anywhere;
 }
 .md-typeset .wiki-cards > a.wiki-card--noicon > img { opacity: .8; padding: .6rem; }
-.md-typeset .wiki-cards--big { grid-template-columns: repeat(4, 1fr); gap: .8rem; }
+.md-typeset .wiki-cards > a.wiki-card > small { display: block; margin-top: auto; font-size: .62rem; line-height: 1.2; color: var(--md-accent-fg-color); letter-spacing: .05em; }
+.md-typeset .wiki-cards--big { grid-template-columns: repeat(6, 1fr); gap: .8rem; }
+@media screen and (max-width: 76.1875em) { .md-typeset .wiki-cards--big { grid-template-columns: repeat(3, 1fr); } }
 @media screen and (max-width: 44.9375em) { .md-typeset .wiki-cards--big { grid-template-columns: repeat(2, 1fr); } }
 .md-typeset .wiki-cards--big > a.wiki-card > img { width: 4.5rem; height: 4.5rem; }
 .md-typeset .wiki-cards--big > a.wiki-card > span { font-size: .8rem; font-weight: 600; }

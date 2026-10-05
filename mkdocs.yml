@@ -214,214 +214,228 @@ nav:
       - "Wild Windy Bee": wild-windy-bee.md
   - "Items":
       - browse-items.md
-      - "Aged Gingerbread Bear": aged-gingerbread-bear.md
-      - "Amulet": amulet.md
-      - "Ant Pass": ant-pass.md
-      - "Atomic Treat": atomic-treat.md
-      - "Autumn Sunhat": autumn-sunhat.md
-      - "Backpack": backpack.md
-      - "Bags": bags.md
-      - "Balloon": balloon.md
-      - "Bandage": bandage.md
-      - "Bang Snap": bang-snap.md
-      - "Basic Boots": basic-boots.md
-      - "Basic Sprinkler": basic-sprinkler.md
-      - "Bead Lizard": bead-lizard.md
-      - "Beekeeper's Boots": beekeeper-s-boots.md
-      - "Beekeeper's Mask": beekeeper-s-mask.md
-      - "Beequip": beequip.md
-      - "Beesmas Top": beesmas-top.md
-      - "Beesmas Tree Hat": beesmas-tree-hat.md
-      - "Belt Bag": belt-bag.md
-      - "Belt Pocket": belt-pocket.md
-      - "Beret": beret.md
-      - "Bitterberry": bitterberry.md
-      - "Black Balloon": black-balloon.md
-      - "Bloom Shaker": bloom-shaker.md
-      - "Blue Clay Planter": blue-clay-planter.md
-      - "Blue Extract": blue-extract.md
-      - "Blue Guard": blue-guard.md
-      - "Blue Port-O-Hive": blue-port-o-hive.md
-      - "Blueberry": blueberry.md
-      - "Bomber Guard": bomber-guard.md
-      - "Bottle Cap": bottle-cap.md
-      - "Box-O-Frogs": box-o-frogs.md
-      - "Brave Guard": brave-guard.md
-      - "Broken Drive": broken-drive.md
-      - "Bubble Light": bubble-light.md
-      - "Bubble Mask": bubble-mask.md
-      - "Bubble Wand": bubble-wand.md
-      - "Bucko Guard": bucko-guard.md
-      - "Camo Bandana": camo-bandana.md
-      - "Camphor Lip Balm": camphor-lip-balm.md
-      - "Candy Planter": candy-planter.md
-      - "Candy Ring": candy-ring.md
-      - "Canister": canister.md
-      - "Caustic Wax": caustic-wax.md
-      - "Charm Bracelet": charm-bracelet.md
-      - "Clippers": clippers.md
-      - "Cloud Vial": cloud-vial.md
-      - "Cobalt Guard": cobalt-guard.md
-      - "Coconut": coconut.md
-      - "Coconut Belt": coconut-belt.md
-      - "Coconut Canister": coconut-canister.md
-      - "Coconut Clogs": coconut-clogs.md
-      - "Cog": cog.md
-      - "Comforting Vial": comforting-vial.md
-      - "Compressor": compressor.md
-      - "Crimson Guard": crimson-guard.md
-      - "Dark Scythe": dark-scythe.md
-      - "Debug Wax": debug-wax.md
-      - "Demon Mask": demon-mask.md
-      - "Demon Talisman": demon-talisman.md
-      - "Diamond Drenchers": diamond-drenchers.md
-      - "Diamond Mask": diamond-mask.md
-      - "Drives": drives.md
-      - "Egg": egg.md
-      - "Electric Candle": electric-candle.md
-      - "Electro-Magnet": electro-magnet.md
-      - "Elf Cap": elf-cap.md
-      - "Elite Barrel": elite-barrel.md
-      - "Elite Blue Guard": elite-blue-guard.md
-      - "Elite Red Guard": elite-red-guard.md
-      - "Enzymes": enzymes.md
-      - "Eviction": eviction.md
-      - "Festive Bean": festive-bean.md
-      - "Festive Planter": festive-planter.md
-      - "Festive Wreath": festive-wreath.md
-      - "Field Dice": field-dice.md
-      - "Fire Mask": fire-mask.md
-      - "Fluxite Wax": fluxite-wax.md
-      - "Gingerbread Bear": gingerbread-bear.md
-      - "Glider": glider.md
-      - "Glitter": glitter.md
-      - "Glue": glue.md
-      - "Golden Gushers": golden-gushers.md
-      - "Golden Rake": golden-rake.md
-      - "Gumdrops": gumdrops.md
-      - "Gummy Boots": gummy-boots.md
-      - "Gummy Mask": gummy-mask.md
-      - "Gummyballer": gummyballer.md
-      - "Hard Wax": hard-wax.md
-      - "Hasty Guard": hasty-guard.md
-      - "Heat-Treated Planter": heat-treated-planter.md
-      - "Helmet": helmet.md
-      - "Hiking Boots": hiking-boots.md
-      - "Hive Slot": hive-slot.md
-      - "Honey Dipper": honey-dipper.md
-      - "Honey Mask": honey-mask.md
-      - "Honeycomb Belt": honeycomb-belt.md
-      - "Honeysuckle": honeysuckle.md
-      - "Hydroponic Planter": hydroponic-planter.md
-      - "Icicles": icicles.md
-      - "Invigorating Vial": invigorating-vial.md
       - "Items": items.md
-      - "Jar": jar.md
-      - "Jelly Beans": jelly-beans.md
-      - "Kazoo": kazoo.md
-      - "Lei": lei.md
-      - "Loaded Dice": loaded-dice.md
-      - "Looker Guard": looker-guard.md
-      - "Lump Of Coal": lump-of-coal.md
-      - "Magic Bean": magic-bean.md
-      - "Magnet": magnet.md
-      - "Marshmallow Bee": marshmallow-bee.md
-      - "Mega-Jug": mega-jug.md
-      - "Micro-Converter": micro-converter.md
-      - "Mondo Belt Bag": mondo-belt-bag.md
+      - "Treats": treats.md
+      - "Treat": treat.md
+      - "Sunflower Seed": sunflower-seed.md
+      - "Strawberry": strawberry.md
+      - "Blueberry": blueberry.md
+      - "Pineapple": pineapple.md
+      - "Bitterberry": bitterberry.md
       - "Moon Charm": moon-charm.md
+      - "Neonberry": neonberry.md
+      - "Gingerbread Bear": gingerbread-bear.md
+      - "Aged Gingerbread Bear": aged-gingerbread-bear.md
+      - "Atomic Treat": atomic-treat.md
+      - "Star Treat": star-treat.md
+      - "Royal Jelly": royal-jelly.md
+      - "Egg": egg.md
+      - "Red Extract": red-extract.md
+      - "Blue Extract": blue-extract.md
+      - "Enzymes": enzymes.md
+      - "Oil": oil.md
+      - "Glue": glue.md
+      - "Glitter": glitter.md
+      - "Tropical Drink": tropical-drink.md
+      - "Purple Potion": purple-potion.md
+      - "Super Smoothie": super-smoothie.md
+      - "Marshmallow Bee": marshmallow-bee.md
+      - "Stinger": stinger.md
+      - "Field Dice": field-dice.md
+      - "Smooth Dice": smooth-dice.md
+      - "Loaded Dice": loaded-dice.md
+      - "Jelly Beans": jelly-beans.md
+      - "Gumdrops": gumdrops.md
+      - "Coconut": coconut.md
+      - "Micro-Converter": micro-converter.md
+      - "Honeysuckle": honeysuckle.md
+      - "Whirligig": whirligig.md
+      - "Bloom Shaker": bloom-shaker.md
+      - "Magic Bean": magic-bean.md
+      - "Festive Bean": festive-bean.md
+      - "Cloud Vial": cloud-vial.md
+      - "Box-O-Frogs": box-o-frogs.md
+      - "Night Bell": night-bell.md
+      - "Nectar Vial": nectar-vial.md
+      - "Comforting Vial": comforting-vial.md
+      - "Invigorating Vial": invigorating-vial.md
       - "Motivating Vial": motivating-vial.md
+      - "Refreshing Vial": refreshing-vial.md
+      - "Satisfying Vial": satisfying-vial.md
       - "Nectar Shower Vial": nectar-shower-vial.md
       - "Nectar Tester": nectar-tester.md
-      - "Nectar Vial": nectar-vial.md
-      - "Neonberry": neonberry.md
-      - "Night Bell": night-bell.md
-      - "Oil": oil.md
-      - "Ornaments": ornaments.md
-      - "Paper Angel": paper-angel.md
-      - "Paper Planter": paper-planter.md
-      - "Paperclip": paperclip.md
-      - "Parachute": parachute.md
-      - "Peppermint Antennas": peppermint-antennas.md
-      - "Pesticide Planter": pesticide-planter.md
-      - "Petal Belt": petal-belt.md
-      - "Petal Planter": petal-planter.md
-      - "Petal Wand": petal-wand.md
-      - "Pineapple": pineapple.md
-      - "Pinecone": pinecone.md
-      - "Pink Balloon": pink-balloon.md
-      - "Pink Eraser": pink-eraser.md
-      - "Pink Shades": pink-shades.md
-      - "Planter": planter.md
-      - "Plastic Planter": plastic-planter.md
-      - "Poinsettia": poinsettia.md
-      - "Porcelain Dipper": porcelain-dipper.md
-      - "Porcelain Port-O-Hive": porcelain-port-o-hive.md
-      - "Port-O-Hive": port-o-hive.md
-      - "Pouch": pouch.md
-      - "Present": present.md
-      - "Propeller Hat": propeller-hat.md
-      - "Pulsar": pulsar.md
-      - "Purple Potion": purple-potion.md
-      - "Rake": rake.md
-      - "Red Balloon": red-balloon.md
-      - "Red Clay Planter": red-clay-planter.md
-      - "Red Extract": red-extract.md
-      - "Red Guard": red-guard.md
-      - "Red Port-O-Hive": red-port-o-hive.md
-      - "Refreshing Vial": refreshing-vial.md
-      - "Reindeer Antlers": reindeer-antlers.md
-      - "Riley Guard": riley-guard.md
-      - "Robo Pass": robo-pass.md
-      - "Rose Headband": rose-headband.md
-      - "Royal Jelly": royal-jelly.md
-      - "Satisfying Vial": satisfying-vial.md
-      - "Scissors": scissors.md
-      - "Scooper": scooper.md
-      - "Scythe": scythe.md
-      - "Silver Soakers": silver-soakers.md
-      - "Single Mitten": single-mitten.md
-      - "Smiley Sticker": smiley-sticker.md
-      - "Smooth Dice": smooth-dice.md
-      - "Snow Tiara": snow-tiara.md
-      - "Snowflake": snowflake.md
-      - "Snowglobe": snowglobe.md
-      - "Soft Wax": soft-wax.md
-      - "Spark Staff": spark-staff.md
-      - "Spirit Petal": spirit-petal.md
-      - "Sprinklers": sprinklers.md
-      - "Star Treat": star-treat.md
-      - "Sticker Planter": sticker-planter.md
-      - "Sticker-Seeker": sticker-seeker.md
-      - "Stinger": stinger.md
-      - "Strawberry": strawberry.md
-      - "Sunflower Seed": sunflower-seed.md
-      - "Super Smoothie": super-smoothie.md
-      - "Super-Scooper": super-scooper.md
-      - "Sweatband": sweatband.md
-      - "Swirled Wax": swirled-wax.md
-      - "Tacky Planter": tacky-planter.md
-      - "The Planter Of Plenty": the-planter-of-plenty.md
-      - "The Supreme Saturator": the-supreme-saturator.md
-      - "Thimble": thimble.md
-      - "Thumbtack": thumbtack.md
-      - "Ticket": ticket.md
-      - "Ticket Planter": ticket-planter.md
-      - "Tide Popper": tide-popper.md
-      - "Tools": tools.md
-      - "Toy Drum": toy-drum.md
-      - "Toy Horn": toy-horn.md
-      - "Translator": translator.md
-      - "Treat": treat.md
-      - "Treats": treats.md
-      - "Tropical Drink": tropical-drink.md
-      - "Turpentine": turpentine.md
-      - "Vacuum": vacuum.md
-      - "Warm Scarf": warm-scarf.md
       - "Waxes": waxes.md
-      - "Whirligig": whirligig.md
-      - "Whistle": whistle.md
+      - "Soft Wax": soft-wax.md
+      - "Hard Wax": hard-wax.md
+      - "Caustic Wax": caustic-wax.md
+      - "Swirled Wax": swirled-wax.md
+      - "Fluxite Wax": fluxite-wax.md
+      - "Turpentine": turpentine.md
+      - "Debug Wax": debug-wax.md
+      - "Balloon": balloon.md
+      - "Pink Balloon": pink-balloon.md
+      - "Red Balloon": red-balloon.md
       - "White Balloon": white-balloon.md
+      - "Black Balloon": black-balloon.md
+      - "Ticket": ticket.md
+      - "Ant Pass": ant-pass.md
+      - "Robo Pass": robo-pass.md
+      - "Cog": cog.md
+      - "Drives": drives.md
+      - "Broken Drive": broken-drive.md
+      - "Snowflake": snowflake.md
+      - "Spirit Petal": spirit-petal.md
+      - "Present": present.md
+      - "Ornaments": ornaments.md
+      - "Translator": translator.md
+      - "Hive Slot": hive-slot.md
+      - "Eviction": eviction.md
+  - "Equipment":
+      - browse-equipment.md
+      - "Bags": bags.md
+      - "Pouch": pouch.md
+      - "Jar": jar.md
+      - "Backpack": backpack.md
+      - "Canister": canister.md
+      - "Mega-Jug": mega-jug.md
+      - "Compressor": compressor.md
+      - "Elite Barrel": elite-barrel.md
+      - "Port-O-Hive": port-o-hive.md
+      - "Red Port-O-Hive": red-port-o-hive.md
+      - "Blue Port-O-Hive": blue-port-o-hive.md
+      - "Porcelain Port-O-Hive": porcelain-port-o-hive.md
+      - "Coconut Canister": coconut-canister.md
+      - "Tools": tools.md
+      - "Scooper": scooper.md
+      - "Rake": rake.md
+      - "Clippers": clippers.md
+      - "Magnet": magnet.md
+      - "Vacuum": vacuum.md
+      - "Super-Scooper": super-scooper.md
+      - "Pulsar": pulsar.md
+      - "Electro-Magnet": electro-magnet.md
+      - "Scissors": scissors.md
+      - "Honey Dipper": honey-dipper.md
+      - "Bubble Wand": bubble-wand.md
+      - "Scythe": scythe.md
+      - "Golden Rake": golden-rake.md
+      - "Spark Staff": spark-staff.md
+      - "Porcelain Dipper": porcelain-dipper.md
+      - "Petal Wand": petal-wand.md
+      - "Tide Popper": tide-popper.md
+      - "Dark Scythe": dark-scythe.md
+      - "Gummyballer": gummyballer.md
+      - "Sticker-Seeker": sticker-seeker.md
+      - "Helmet": helmet.md
+      - "Propeller Hat": propeller-hat.md
+      - "Beekeeper's Mask": beekeeper-s-mask.md
+      - "Honey Mask": honey-mask.md
+      - "Fire Mask": fire-mask.md
+      - "Bubble Mask": bubble-mask.md
+      - "Gummy Mask": gummy-mask.md
+      - "Demon Mask": demon-mask.md
+      - "Diamond Mask": diamond-mask.md
+      - "Looker Guard": looker-guard.md
+      - "Bomber Guard": bomber-guard.md
+      - "Red Guard": red-guard.md
+      - "Elite Red Guard": elite-red-guard.md
+      - "Riley Guard": riley-guard.md
+      - "Crimson Guard": crimson-guard.md
+      - "Brave Guard": brave-guard.md
+      - "Hasty Guard": hasty-guard.md
+      - "Blue Guard": blue-guard.md
+      - "Elite Blue Guard": elite-blue-guard.md
+      - "Bucko Guard": bucko-guard.md
+      - "Cobalt Guard": cobalt-guard.md
+      - "Belt Pocket": belt-pocket.md
+      - "Belt Bag": belt-bag.md
+      - "Mondo Belt Bag": mondo-belt-bag.md
+      - "Honeycomb Belt": honeycomb-belt.md
+      - "Petal Belt": petal-belt.md
+      - "Coconut Belt": coconut-belt.md
+      - "Basic Boots": basic-boots.md
+      - "Hiking Boots": hiking-boots.md
+      - "Beekeeper's Boots": beekeeper-s-boots.md
+      - "Coconut Clogs": coconut-clogs.md
+      - "Gummy Boots": gummy-boots.md
+      - "Amulet": amulet.md
+      - "Ant Amulet": ant-amulet.md
+      - "Cog Amulet": cog-amulet.md
+      - "Moon Amulet": moon-amulet.md
+      - "Shell Amulet": shell-amulet.md
+      - "Star Amulet": star-amulet.md
+      - "Stick Bug Amulet": stick-bug-amulet.md
+      - "King Beetle Amulet": king-beetle-amulet.md
+      - "Sprinklers": sprinklers.md
+      - "Basic Sprinkler": basic-sprinkler.md
+      - "Silver Soakers": silver-soakers.md
+      - "Golden Gushers": golden-gushers.md
+      - "Diamond Drenchers": diamond-drenchers.md
+      - "The Supreme Saturator": the-supreme-saturator.md
+      - "Glider": glider.md
+      - "Parachute": parachute.md
+  - "Beequips":
+      - browse-beequips.md
+      - "Beequip": beequip.md
+      - "Beequip Generation": beequip-generation.md
+      - "Bandage": bandage.md
+      - "Elf Cap": elf-cap.md
+      - "Thimble": thimble.md
+      - "Beesmas Top": beesmas-top.md
+      - "Bottle Cap": bottle-cap.md
+      - "Sweatband": sweatband.md
+      - "Warm Scarf": warm-scarf.md
+      - "Electric Candle": electric-candle.md
+      - "Poinsettia": poinsettia.md
+      - "Single Mitten": single-mitten.md
+      - "Thumbtack": thumbtack.md
+      - "Paperclip": paperclip.md
+      - "Peppermint Antennas": peppermint-antennas.md
+      - "Smiley Sticker": smiley-sticker.md
+      - "Snowglobe": snowglobe.md
+      - "Toy Drum": toy-drum.md
+      - "Bubble Light": bubble-light.md
+      - "Camo Bandana": camo-bandana.md
+      - "Paper Angel": paper-angel.md
+      - "Reindeer Antlers": reindeer-antlers.md
+      - "Whistle": whistle.md
+      - "Bead Lizard": bead-lizard.md
+      - "Kazoo": kazoo.md
+      - "Pinecone": pinecone.md
+      - "Toy Horn": toy-horn.md
+      - "Bang Snap": bang-snap.md
+      - "Beesmas Tree Hat": beesmas-tree-hat.md
+      - "Festive Wreath": festive-wreath.md
+      - "Icicles": icicles.md
+      - "Pink Shades": pink-shades.md
+      - "Beret": beret.md
+      - "Camphor Lip Balm": camphor-lip-balm.md
+      - "Charm Bracelet": charm-bracelet.md
+      - "Pink Eraser": pink-eraser.md
+      - "Snow Tiara": snow-tiara.md
+      - "Demon Talisman": demon-talisman.md
+      - "Lump Of Coal": lump-of-coal.md
+      - "Rose Headband": rose-headband.md
+      - "Candy Ring": candy-ring.md
+      - "Lei": lei.md
+      - "Autumn Sunhat": autumn-sunhat.md
+  - "Planters":
+      - browse-planters.md
+      - "Planter": planter.md
+      - "Paper Planter": paper-planter.md
+      - "Plastic Planter": plastic-planter.md
+      - "Ticket Planter": ticket-planter.md
+      - "Sticker Planter": sticker-planter.md
+      - "Candy Planter": candy-planter.md
+      - "Festive Planter": festive-planter.md
+      - "Red Clay Planter": red-clay-planter.md
+      - "Blue Clay Planter": blue-clay-planter.md
+      - "Tacky Planter": tacky-planter.md
+      - "Pesticide Planter": pesticide-planter.md
+      - "Heat-Treated Planter": heat-treated-planter.md
+      - "Hydroponic Planter": hydroponic-planter.md
+      - "Petal Planter": petal-planter.md
+      - "The Planter Of Plenty": the-planter-of-plenty.md
   - "Update Logs":
       - update-logs.md
       - "Painter Bee Event":
@@ -430,53 +444,6 @@ nav:
           - "Painter Stickers": painter-stickers.md
           - "Fluxite Wax": fluxite-wax.md
           - "Supreme Puffshroom": supreme-puffshroom.md
-  - "Accessories":
-      - browse-accessories.md
-      - "Amulet": amulet.md
-      - "Ant Amulet": ant-amulet.md
-      - "Bags": bags.md
-      - "Basic Boots": basic-boots.md
-      - "Beekeeper's Boots": beekeeper-s-boots.md
-      - "Beekeeper's Mask": beekeeper-s-mask.md
-      - "Belt Bag": belt-bag.md
-      - "Belt Pocket": belt-pocket.md
-      - "Blue Guard": blue-guard.md
-      - "Bomber Guard": bomber-guard.md
-      - "Brave Guard": brave-guard.md
-      - "Bubble Mask": bubble-mask.md
-      - "Bucko Guard": bucko-guard.md
-      - "Cobalt Guard": cobalt-guard.md
-      - "Coconut Belt": coconut-belt.md
-      - "Coconut Clogs": coconut-clogs.md
-      - "Cog Amulet": cog-amulet.md
-      - "Crimson Guard": crimson-guard.md
-      - "Demon Mask": demon-mask.md
-      - "Diamond Mask": diamond-mask.md
-      - "Elite Blue Guard": elite-blue-guard.md
-      - "Elite Red Guard": elite-red-guard.md
-      - "Eviction": eviction.md
-      - "Fire Mask": fire-mask.md
-      - "Glider": glider.md
-      - "Gummy Boots": gummy-boots.md
-      - "Gummy Mask": gummy-mask.md
-      - "Hasty Guard": hasty-guard.md
-      - "Helmet": helmet.md
-      - "Hiking Boots": hiking-boots.md
-      - "Hive Slot": hive-slot.md
-      - "Honey Mask": honey-mask.md
-      - "Honeycomb Belt": honeycomb-belt.md
-      - "King Beetle Amulet": king-beetle-amulet.md
-      - "Looker Guard": looker-guard.md
-      - "Mondo Belt Bag": mondo-belt-bag.md
-      - "Moon Amulet": moon-amulet.md
-      - "Parachute": parachute.md
-      - "Petal Belt": petal-belt.md
-      - "Propeller Hat": propeller-hat.md
-      - "Red Guard": red-guard.md
-      - "Riley Guard": riley-guard.md
-      - "Shell Amulet": shell-amulet.md
-      - "Star Amulet": star-amulet.md
-      - "Stick Bug Amulet": stick-bug-amulet.md
   - "Mechanics":
       - browse-mechanics.md
       - "Ability Tokens": ability-tokens.md

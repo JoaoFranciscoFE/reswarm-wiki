@@ -5,8 +5,10 @@
 <a class="wiki-card" href="browse-fields.html"><img src="img/Sunflower_Field_Stamp.png" alt="" loading="lazy"><span>Fields</span></a>
 <a class="wiki-card" href="browse-mobs.html"><img src="img/Forward_Facing_Spider.png" alt="" loading="lazy"><span>Mobs</span></a>
 <a class="wiki-card" href="browse-items.html"><img src="img/Royal_Jelly.png" alt="" loading="lazy"><span>Items</span></a>
+<a class="wiki-card" href="browse-equipment.html"><img src="img/Beekeeper's_Mask.png" alt="" loading="lazy"><span>Equipment</span></a>
+<a class="wiki-card" href="browse-beequips.html"><img src="img/Bang_Snap.png" alt="" loading="lazy"><span>Beequips</span></a>
+<a class="wiki-card" href="browse-planters.html"><img src="img/The_Planter_Of_Plenty.png" alt="" loading="lazy"><span>Planters</span></a>
 <a class="wiki-card" href="update-logs.html"><img src="img/Painter_Bee.png" alt="" loading="lazy"><span>Update Logs</span></a>
-<a class="wiki-card" href="browse-accessories.html"><img src="img/Beekeeper's_Mask.png" alt="" loading="lazy"><span>Accessories</span></a>
 <a class="wiki-card" href="browse-mechanics.html"><img src="img/Field_Dice.png" alt="" loading="lazy"><span>Mechanics</span></a>
 <a class="wiki-card" href="browse-about-the-game.html"><img src="images/game-icon.png" alt="" loading="lazy"><span>About the game</span></a>
 <a class="wiki-card" href="browse-places-objects.html"><img src="img/Port-O-Hive.png" alt="" loading="lazy"><span>Places &amp; Objects</span></a>
