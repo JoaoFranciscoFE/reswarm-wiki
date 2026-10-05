@@ -38,7 +38,7 @@ where *n* represents the *n*th drive of that type to purchase (1st is 250,000, 2
 <th><a href="cog-amulet.html">Cog Amulet</a> Prerequisite
 </th></tr>
 <tr>
-<td><span typeof="mw:Error mw:File"></span>
+<td><img alt="Honey" height="25" src="img/Honey.png" width="25"/>
 </td>
 <td><a href="drives.html#Red_Drive">Red Drive</a>
 </td>
@@ -54,7 +54,7 @@ where *n* represents the *n*th drive of that type to purchase (1st is 250,000, 2
 <td>None
 </td></tr>
 <tr>
-<td><span typeof="mw:Error mw:File"></span>
+<td><img alt="Honey" height="25" src="img/Honey.png" width="25"/>
 </td>
 <td><a href="drives.html#White_Drive">White Drive</a>
 </td>
@@ -70,7 +70,7 @@ where *n* represents the *n*th drive of that type to purchase (1st is 250,000, 2
 <td>None
 </td></tr>
 <tr>
-<td><span typeof="mw:Error mw:File"></span>
+<td><img alt="Honey" height="25" src="img/Honey.png" width="25"/>
 </td>
 <td><a href="drives.html#Blue_Drive">Blue Drive</a>
 </td>
@@ -86,7 +86,7 @@ where *n* represents the *n*th drive of that type to purchase (1st is 250,000, 2
 <td>None
 </td></tr>
 <tr>
-<td><span typeof="mw:Error mw:File"></span>
+<td><img alt="Honey" height="25" src="img/Honey.png" width="25"/>
 </td>
 <td><a href="drives.html#Glitched_Drive">Glitched Drive</a>
 </td>
@@ -105,7 +105,7 @@ where *n* represents the *n*th drive of that type to purchase (1st is 250,000, 2
 <td>Gold Cog Amulet
 </td></tr>
 <tr>
-<td><span typeof="mw:Error mw:File"></span>
+<td><img alt="Digital Bee" height="25" src="img/Digital_Bee.png" width="25"/>
 </td>
 <td><a href="digital-bee.html">Digital Bee</a>
 </td>

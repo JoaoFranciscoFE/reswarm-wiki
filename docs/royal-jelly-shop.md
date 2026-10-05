@@ -7,7 +7,6 @@ tags: ["Shops", "Locations", "Machines"]
 
 ![Royal Jelly Shop](img/places/Royal_Jelly_Shop.png){ .wiki-photo }
 
-<figure class="mw-halign-right" typeof="mw:Error mw:File"><figcaption>The Royal Jelly Shop.</figcaption></figure>
 
 *Not to be confused with the [Royal Jelly Dispenser](royal-jelly-dispenser.md).*
 

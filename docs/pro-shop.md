@@ -31,35 +31,35 @@ As with the [Noob Shop](noob-shop.md), the game does not explicitly name the sho
 <th>Description
 </th></tr>
 <tr>
-<td><figure class="mw-halign-center" typeof="mw:Error mw:File"><figcaption></figcaption></figure><div style="text-align: center;"><a href="super-scooper.html">Super-Scooper</a></div>
+<td><figure class="mw-halign-center"><img alt="Super-Scooper" src="img/Super-Scooper.png" width="60"/></figure><div style="text-align: center;"><a href="super-scooper.html">Super-Scooper</a></div>
 </td>
 <td><img alt="Honey" height="25" src="img/Honey.png" width="25"/>40,000 <a href="honey.html"><span class="color-template color-template-honey">Honey</span></a>
 </td>
 <td>Collects 4 pollen from the 5 patches in front of you in 0.5 seconds.
 </td></tr>
 <tr>
-<td><figure class="mw-halign-center" typeof="mw:Error mw:File"><figcaption></figcaption></figure><div style="text-align: center;"><a href="pulsar.html">Pulsar</a></div>
+<td><figure class="mw-halign-center"><img alt="Pulsar" src="img/Pulsar.png" width="60"/></figure><div style="text-align: center;"><a href="pulsar.html">Pulsar</a></div>
 </td>
 <td><img alt="Honey" height="25" src="img/Honey.png" width="25"/>125,000 <a href="honey.html"><span class="color-template color-template-honey">Honey</span></a>
 </td>
 <td>Collects 2 pollen from 29 surrounding patches in 1 second.
 </td></tr>
 <tr>
-<td><figure class="mw-halign-center" typeof="mw:Error mw:File"><figcaption></figcaption></figure><div style="text-align: center;"><a href="electro-magnet.html">Electro-Magnet</a></div>
+<td><figure class="mw-halign-center"><img alt="Electro-Magnet" src="img/Electro-Magnet.png" width="60"/></figure><div style="text-align: center;"><a href="electro-magnet.html">Electro-Magnet</a></div>
 </td>
 <td><img alt="Honey" height="25" src="img/Honey.png" width="25"/>300,000 <a href="honey.html"><span class="color-template color-template-honey">Honey</span></a>
 </td>
 <td>Collects 4 pollen from 9 surrounding patches in 0.5 seconds.
 </td></tr>
 <tr>
-<td><figure class="mw-halign-center" typeof="mw:Error mw:File"><figcaption></figcaption></figure><div style="text-align: center;"><a href="scissors.html">Scissors</a></div>
+<td><figure class="mw-halign-center"><img alt="Scissors" src="img/Scissors.png" width="60"/></figure><div style="text-align: center;"><a href="scissors.html">Scissors</a></div>
 </td>
 <td><img alt="Honey" height="25" src="img/Honey.png" width="25"/>850,000 <a href="honey.html"><span class="color-template color-template-honey">Honey</span></a>
 </td>
 <td>Collects ALL pollen from patch in front of you in 0.5 seconds.
 </td></tr>
 <tr>
-<td><figure class="mw-halign-center" typeof="mw:Error mw:File"><figcaption></figcaption></figure><div style="text-align: center;"><a href="honey-dipper.html">Honey Dipper</a></div>
+<td><figure class="mw-halign-center"><img alt="Honey Dipper" src="img/Honey_Dipper.png" width="60"/></figure><div style="text-align: center;"><a href="honey-dipper.html">Honey Dipper</a></div>
 </td>
 <td><img alt="Honey" height="25" src="img/Honey.png" width="25"/>1,500,000 <a href="honey.html"><span class="color-template color-template-honey">Honey</span></a>
 </td>
@@ -239,7 +239,7 @@ As with the [Noob Shop](noob-shop.md), the game does not explicitly name the sho
 <td>A parachute you can use to glide down the mountain and reach new places! Press jump while in the air to open.
 </td></tr>
 <tr>
-<td><figure class="mw-halign-center" typeof="mw:Error mw:File"><figcaption></figcaption></figure><div style="text-align: center;"><a href="paper-planter.html">Paper Planter</a></div>
+<td><figure class="mw-halign-center"><img alt="Paper Planter" src="img/Paper_Planter.png" width="60"/></figure><div style="text-align: center;"><a href="paper-planter.html">Paper Planter</a></div>
 </td>
 <td><img alt="Honey" height="25" src="img/Honey.png" width="25"/>25,000 <a href="honey.html"><span class="color-template color-template-honey">Honey</span></a><br/>
 <p><img alt="Sunflower Seed" height="25" src="img/Sunflower_Seed.png" width="25"/>1 <a href="sunflower-seed.html"><span class="color-template color-template-sunflower-seed color-template-background-clip">Sunflower Seed</span></a>
