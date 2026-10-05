@@ -273,3 +273,19 @@ figure img { max-width: 100%; height: auto; }
 .md-typeset table.infobox tr:has(span[typeof~="mw:Error"]) { display: none; }
 .md-typeset table.infobox td.templateToolTitle { background: #c9a51c; color: #111; text-align: center; font-size: .95rem; padding: .6em .5em; }
 .md-typeset table.infobox td.templateToolHeader { background: #1c2e30; text-align: center; text-transform: uppercase; font-size: .72rem; padding: .3em .5em; }
+
+/* Tool collecting patterns (```tool-pattern blocks, see hooks/tool_patterns.py) */
+.md-typeset .tool-pattern {
+  display: grid; grid-template-columns: repeat(var(--cols), .7rem); gap: 2px;
+  justify-content: center; margin: .5em auto .3em;
+}
+.md-typeset .tool-pattern > i { display: block; width: .7rem; height: .7rem; border-radius: 2px; background: #1f3133; }
+.md-typeset .tool-pattern > i.on, .md-typeset .tool-pattern-key > .on { background: #e8c547; }
+.md-typeset .tool-pattern > i.area, .md-typeset .tool-pattern-key > .area { background: #5f8f52; }
+.md-typeset .tool-pattern > i.me, .md-typeset .tool-pattern-key > .me { background: #1f3133; box-shadow: inset 0 0 0 2px #4fb3ff; border-radius: 50%; }
+.md-typeset .tool-pattern > i.me.on { background: #e8c547; }
+.md-typeset .tool-pattern-key, .md-typeset .tool-pattern-note { text-align: center; font-size: .62rem; color: var(--md-default-fg-color--light); }
+.md-typeset .tool-pattern-key > span { display: inline-block; width: .6rem; height: .6rem; border-radius: 2px; margin: 0 .25rem 0 .6rem; vertical-align: -1px; }
+.md-typeset .tool-pattern-key > span:first-child { margin-left: 0; }
+.md-typeset .tool-pattern-note { margin-bottom: .4em; }
+[data-md-color-scheme="default"] .md-typeset .tool-pattern > i:not(.on):not(.area) { background: #d5dfe1; }

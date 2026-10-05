@@ -33,7 +33,7 @@ tags: ["Items", "Tools"]
 <tr>
 <td class="templateToolDefaultCell"><b><span style="border-bottom:1px dotted gray;cursor:help;" title="Number of flowers covered">Range</span></b>
 </td>
-<td>81 Flowers
+<td>3 Flowers (picked from an 81-tile area)
 </td></tr>
 <tr>
 <td class="templateToolDefaultCell"><b>Collecting Pattern</b>
@@ -46,151 +46,22 @@ tags: ["Items", "Tools"]
 <td>
 </td></tr>
 <tr>
-<td colspan="2"><table align="center" border="0" cellpadding="1" cellspacing="1" class="wikitable toolbackground templateToolFlowerField toolTemplateSpark" id="collector">
-<tbody><tr>
-<td> </td>
-<td> </td>
-<td> </td>
-<td> </td>
-<td> </td>
-<td> </td>
-<td> </td>
-<td> </td>
-<td> </td>
-<td> </td>
-<td> </td>
-</tr>
-<tr>
-<td> </td>
-<td> </td>
-<td> </td>
-<td> </td>
-<td> </td>
-<td> </td>
-<td> </td>
-<td> </td>
-<td> </td>
-<td> </td>
-<td> </td>
-</tr>
-<tr>
-<td> </td>
-<td> </td>
-<td> </td>
-<td> </td>
-<td> </td>
-<td> </td>
-<td> </td>
-<td> </td>
-<td> </td>
-<td> </td>
-<td> </td>
-</tr>
-<tr>
-<td> </td>
-<td> </td>
-<td> </td>
-<td> </td>
-<td> </td>
-<td> </td>
-<td> </td>
-<td> </td>
-<td> </td>
-<td> </td>
-<td> </td>
-</tr>
-<tr>
-<td> </td>
-<td> </td>
-<td> </td>
-<td> </td>
-<td> </td>
-<td> </td>
-<td> </td>
-<td> </td>
-<td> </td>
-<td> </td>
-<td> </td>
-</tr>
-<tr>
-<td> </td>
-<td> </td>
-<td> </td>
-<td> </td>
-<td> </td>
-<td> </td>
-<td> </td>
-<td> </td>
-<td> </td>
-<td> </td>
-<td> </td>
-</tr>
-<tr>
-<td> </td>
-<td> </td>
-<td> </td>
-<td> </td>
-<td> </td>
-<td> </td>
-<td> </td>
-<td> </td>
-<td> </td>
-<td> </td>
-<td> </td>
-</tr>
-<tr>
-<td> </td>
-<td> </td>
-<td> </td>
-<td> </td>
-<td> </td>
-<td> </td>
-<td> </td>
-<td> </td>
-<td> </td>
-<td> </td>
-<td> </td>
-</tr>
-<tr>
-<td> </td>
-<td> </td>
-<td> </td>
-<td> </td>
-<td> </td>
-<td> </td>
-<td> </td>
-<td> </td>
-<td> </td>
-<td> </td>
-<td> </td>
-</tr>
-<tr>
-<td> </td>
-<td> </td>
-<td> </td>
-<td> </td>
-<td> </td>
-<td> </td>
-<td> </td>
-<td> </td>
-<td> </td>
-<td> </td>
-<td> </td>
-</tr>
-<tr>
-<td> </td>
-<td> </td>
-<td> </td>
-<td> </td>
-<td> </td>
-<td> </td>
-<td> </td>
-<td> </td>
-<td> </td>
-<td> </td>
-<td> </td>
-</tr>
-</tbody></table>
+<td colspan="2">
+```tool-pattern
+.....o.....
+..ooooooo..
+.ooooooooo.
+.ooooooooo.
+.ooooooooo.
+oooooPooooo
+.ooooooooo.
+.ooooooooo.
+.ooooooooo.
+..ooooooo..
+.....o.....
+note: Collects the 3 flowers with the most pollen in this area.
+```
+
 </td></tr>
 <tr>
 <td style="templateToolDefaultCell"><b>Collecting Time</b>
