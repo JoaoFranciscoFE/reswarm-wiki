@@ -306,3 +306,21 @@ figure img { max-width: 100%; height: auto; }
 .md-typeset .tool-pattern-key > span { display: inline-block; width: .8rem; height: .8rem; margin: 0 .25rem 0 .6rem; vertical-align: -2px; }
 .md-typeset .tool-pattern-key > span:first-child { margin-left: 0; }
 .md-typeset .tool-pattern-note { margin-bottom: .4em; }
+
+/* Critical hit number animations (Critical Hits page) */
+.md-typeset .crit-demo { margin: 1em 0; padding: 1.2em .5em .6em; text-align: center; background: #1a2b2d; border-radius: 6px; }
+.md-typeset .crit-demo > p { margin: .4em 0 0; font-size: .7rem; color: var(--md-default-fg-color--light); }
+.md-typeset .crit-num {
+  display: inline-block; font-size: 1.6rem; font-weight: 800; letter-spacing: .02em;
+  -webkit-text-stroke: 2px #111; paint-order: stroke fill;
+  animation: crit-shake .12s linear infinite, crit-pop 1.6s ease-out infinite;
+}
+.md-typeset .crit-pollen { animation-name: crit-shake, crit-pop, crit-pollen-colour; animation-duration: .12s, 1.6s, .3s; }
+.md-typeset .crit-attack { animation-name: crit-shake, crit-pop, crit-attack-colour; animation-duration: .12s, 1.6s, .3s; }
+@keyframes crit-shake {
+  0% { translate: 0 0; } 25% { translate: 2px -1px; } 50% { translate: -2px 1px; } 75% { translate: 1px 2px; } 100% { translate: 0 0; }
+}
+@keyframes crit-pop { 0% { scale: .4; opacity: 0; } 12% { scale: 1.25; opacity: 1; } 25% { scale: 1; } 80% { opacity: 1; } 100% { scale: 1; opacity: 0; } }
+@keyframes crit-pollen-colour { 0%, 100% { color: #fff36b; } 50% { color: #ff9d2e; } }
+@keyframes crit-attack-colour { 0%, 100% { color: #ff4b4b; } 50% { color: #ffffff; } }
+@media (prefers-reduced-motion: reduce) { .md-typeset .crit-num { animation: none; color: #fff36b; } .md-typeset .crit-attack { color: #ff4b4b; } }
