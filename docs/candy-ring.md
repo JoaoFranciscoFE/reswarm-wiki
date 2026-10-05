@@ -438,7 +438,9 @@ The **Candy Ring** is a [level](bond.md) 14 [Beequip](beequip.md). It has an equ
 
 ### Max possible stats
 
-*The best value each stat can reach. The top base value can roll at any potential; higher potential only makes it more likely. A beequip takes 5 waxes: Soft and Hard Wax give at most 10 upgrade rolls, and Caustic Wax gives up to 20, though each Caustic only succeeds 25% of the time and destroys the beequip when it fails. The max columns assume every roll lands on that stat at its best value, up to its max picks, so they are a ceiling rather than a typical result. "Pick chance" is how likely each roll is to pick that upgrade, from 1 ★ to 5 ★.*
+*A beequip takes 5 waxes, and a failed wax still uses a slot. Soft and Hard Wax give at most 10 upgrade rolls. Caustic Wax and Debug Wax give 4 rolls each, so 5 of them give 20 rolls and can also pick Caustic-only upgrades; Debug Wax always succeeds, while Caustic only succeeds 25% of the time and destroys the beequip when it fails. Every roll picks one upgrade at random, and an upgrade stops being picked once it reaches its max picks.*
+
+*<b>Best base value</b> is the top roll before any wax, with how often a roll lands on it at 1 ★ and 5 ★. <b>Realistic max</b> is the best you can expect to actually see: the most picks of that upgrade that about 1 in 1,000 fully waxed 5 ★ beequips get, each at its top value. <b>Absolute ceiling</b> is the most the game allows, with every roll landing on that upgrade up to its max picks. Where it is higher than the realistic max, players are very unlikely to ever see it.*
 
 <table class="article-table">
 <tbody><tr>
@@ -448,39 +450,39 @@ The **Candy Ring** is a [level](bond.md) 14 [Beequip](beequip.md). It has an equ
 </th>
 <th>Per wax pick
 </th>
-<th>Pick chance
-</th>
 <th>Max picks
 </th>
-<th>Max with Soft/Hard Wax
+<th>Realistic max, Soft/Hard Wax (10 rolls)
 </th>
-<th>Max with Caustic Wax
+<th>Realistic max, Caustic/Debug Wax (20 rolls)
+</th>
+<th>Absolute ceiling (20 rolls)
 </th></tr>
 <tr>
 <td>Energy
 </td>
-<td>+80
+<td>+80<br/><small>Top roll: 1 in 26,663,000 at 1 ★, 0.23% at 5 ★</small>
 </td>
-<td>+6 to +8
-</td>
-<td>49% → 43%
+<td>+6 to +8<br/><small>Picked 49% → 43% of rolls (1 ★ → 5 ★)</small>
 </td>
 <td>20
 </td>
-<td>+160
+<td>+152
+</td>
+<td>+192
 </td>
 <td>+240
 </td></tr>
 <tr>
 <td>Convert Amount
 </td>
-<td>+30%
+<td>+30%<br/><small>Top roll: 0.16% at 1 ★, 20% at 5 ★</small>
 </td>
-<td>+0 (always 0, see the bug note)
-</td>
-<td>49% → 43%
+<td>+0 (always 0, see the game bug note)<br/><small>Picked 49% → 43% of rolls (1 ★ → 5 ★)</small>
 </td>
 <td>10
+</td>
+<td>+30%
 </td>
 <td>+30%
 </td>
@@ -489,30 +491,30 @@ The **Candy Ring** is a [level](bond.md) 14 [Beequip](beequip.md). It has an equ
 <tr>
 <td>Ability Rate
 </td>
-<td>+2%
+<td>+2%<br/><small>Top roll: 21% at 1 ★, 85% at 5 ★</small>
 </td>
-<td>+1% (Caustic only)
-</td>
-<td>9.59% → 15%
+<td>+1% (Caustic only)<br/><small>Picked 9.59% → 15% of rolls (1 ★ → 5 ★)</small>
 </td>
 <td>3
 </td>
 <td>+2%
 </td>
 <td>+5%
+</td>
+<td>+5%
 </td></tr>
 <tr>
 <td>Honey At Hive (hive bonus)
 </td>
-<td>+5%
+<td>+5%<br/><small>Top roll: 1.9% at 1 ★, 47% at 5 ★</small>
 </td>
-<td>+1% to +2%
-</td>
-<td>1.75% → 8.7%
+<td>+1% to +2%<br/><small>Picked 1.75% → 8.7% of rolls (1 ★ → 5 ★)</small>
 </td>
 <td>10
 </td>
-<td>+25%
+<td>+13%
+</td>
+<td>+17%
 </td>
 <td>+25%
 </td></tr>
@@ -521,13 +523,13 @@ The **Candy Ring** is a [level](bond.md) 14 [Beequip](beequip.md). It has an equ
 </td>
 <td>+1%
 </td>
-<td>+1%
-</td>
-<td>0.88% → 4.35%
+<td>+1%<br/><small>Picked 0.88% → 4.35% of rolls (1 ★ → 5 ★)</small>
 </td>
 <td>6
 </td>
-<td>+7%
+<td>+4%
+</td>
+<td>+5%
 </td>
 <td>+7%
 </td></tr>
@@ -536,13 +538,13 @@ The **Candy Ring** is a [level](bond.md) 14 [Beequip](beequip.md). It has an equ
 </td>
 <td>Only from wax
 </td>
-<td>x1.01 (new bonus) (Caustic only)
-</td>
-<td>0.009%
+<td>x1.01 (new bonus) (Caustic only)<br/><small>Picked 0.009% of rolls</small>
 </td>
 <td>1
 </td>
 <td>—
+</td>
+<td>x1.01
 </td>
 <td>x1.01
 </td></tr></tbody></table>

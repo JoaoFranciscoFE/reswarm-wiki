@@ -383,7 +383,9 @@ The **Kazoo** is a [level](bond.md) 9 [Beequip](beequip.md). It has an equip lim
 
 ### Max possible stats
 
-*The best value each stat can reach. The top base value can roll at any potential; higher potential only makes it more likely. A beequip takes 5 waxes: Soft and Hard Wax give at most 10 upgrade rolls, and Caustic Wax gives up to 20, though each Caustic only succeeds 25% of the time and destroys the beequip when it fails. The max columns assume every roll lands on that stat at its best value, up to its max picks, so they are a ceiling rather than a typical result. "Pick chance" is how likely each roll is to pick that upgrade, from 1 ★ to 5 ★.*
+*A beequip takes 5 waxes, and a failed wax still uses a slot. Soft and Hard Wax give at most 10 upgrade rolls. Caustic Wax and Debug Wax give 4 rolls each, so 5 of them give 20 rolls and can also pick Caustic-only upgrades; Debug Wax always succeeds, while Caustic only succeeds 25% of the time and destroys the beequip when it fails. Every roll picks one upgrade at random, and an upgrade stops being picked once it reaches its max picks.*
+
+*<b>Best base value</b> is the top roll before any wax, with how often a roll lands on it at 1 ★ and 5 ★. <b>Realistic max</b> is the best you can expect to actually see: the most picks of that upgrade that about 1 in 1,000 fully waxed 5 ★ beequips get, each at its top value. <b>Absolute ceiling</b> is the most the game allows, with every roll landing on that upgrade up to its max picks. Where it is higher than the realistic max, players are very unlikely to ever see it.*
 
 <table class="article-table">
 <tbody><tr>
@@ -393,54 +395,54 @@ The **Kazoo** is a [level](bond.md) 9 [Beequip](beequip.md). It has an equip lim
 </th>
 <th>Per wax pick
 </th>
-<th>Pick chance
-</th>
 <th>Max picks
 </th>
-<th>Max with Soft/Hard Wax
+<th>Realistic max, Soft/Hard Wax (10 rolls)
 </th>
-<th>Max with Caustic Wax
+<th>Realistic max, Caustic/Debug Wax (20 rolls)
+</th>
+<th>Absolute ceiling (20 rolls)
 </th></tr>
 <tr>
 <td>Convert Amount
 </td>
-<td>+30%
+<td>+30%<br/><small>Top roll: 0.16% at 1 ★, 20% at 5 ★</small>
 </td>
-<td>+1% to +3%
-</td>
-<td>49% → 48%
+<td>+1% to +3%<br/><small>Picked 49% → 48% of rolls (1 ★ → 5 ★)</small>
 </td>
 <td>20
 </td>
-<td>+60%
+<td>+57%
+</td>
+<td>+78%
 </td>
 <td>+90%
 </td></tr>
 <tr>
 <td>Critical Power
 </td>
-<td>+30%
+<td>+30%<br/><small>Top roll: 0.16% at 1 ★, 20% at 5 ★</small>
 </td>
-<td>+1% to +3%
-</td>
-<td>49% → 48%
+<td>+1% to +3%<br/><small>Picked 49% → 48% of rolls (1 ★ → 5 ★)</small>
 </td>
 <td>20
 </td>
-<td>+60%
+<td>+57%
+</td>
+<td>+78%
 </td>
 <td>+90%
 </td></tr>
 <tr>
 <td>Energy
 </td>
+<td>−45%<br/><small>Top roll: 0.16% at 1 ★, 20% at 5 ★</small>
+</td>
+<td>—
+</td>
+<td>—
+</td>
 <td>−45%
-</td>
-<td>—
-</td>
-<td>—
-</td>
-<td>—
 </td>
 <td>−45%
 </td>
@@ -449,13 +451,13 @@ The **Kazoo** is a [level](bond.md) 9 [Beequip](beequip.md). It has an equip lim
 <tr>
 <td>Critical Power (hive bonus)
 </td>
-<td>+5%
+<td>+5%<br/><small>Top roll: 1.5% at 1 ★, 47% at 5 ★</small>
 </td>
-<td>+1%
-</td>
-<td>1.34% → 4.76%
+<td>+1%<br/><small>Picked 1.34% → 4.76% of rolls (1 ★ → 5 ★)</small>
 </td>
 <td>5
+</td>
+<td>+8%
 </td>
 <td>+10%
 </td>
@@ -466,13 +468,13 @@ The **Kazoo** is a [level](bond.md) 9 [Beequip](beequip.md). It has an equip lim
 </td>
 <td>Only from wax
 </td>
-<td>+1% (Caustic only)
-</td>
-<td>2.44% → 7.08%
+<td>+1% (Caustic only)<br/><small>Picked 2.44% → 7.08% of rolls (1 ★ → 5 ★)</small>
 </td>
 <td>5
 </td>
 <td>—
+</td>
+<td>+5%
 </td>
 <td>+5%
 </td></tr></tbody></table>

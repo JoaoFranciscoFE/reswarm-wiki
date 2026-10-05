@@ -70,6 +70,8 @@ A **Thimble** is a [level](bond.md) 3 [Beequip](beequip.md). It has an equip lim
 
 <p class="beequip-meta"><b>Rarity:</b> Common · <b>Equip limit:</b> 3 · <b>Who can wear it:</b> level 3+</p>
 
+<p class="game-bug"><b>Game bug:</b> Its Caustic-only Convert Rate upgrade adds <b>+101% Convert Rate</b> in one pick. That looks like a mistake for x1.01.</p>
+
 *Stats and hive bonuses each roll on their own. Higher potential makes a stat more likely to appear and pulls its value towards the top of its range. The chances and averages below come from running the game's own roll code 5,000 times at each potential. Bee stats that the game applies as a multiplier are shown as a %, the way the in-game tooltip shows them.*
 
 /// tab | 1 ★
@@ -324,7 +326,9 @@ A **Thimble** is a [level](bond.md) 3 [Beequip](beequip.md). It has an equip lim
 
 ### Max possible stats
 
-*The best value each stat can reach. The top base value can roll at any potential; higher potential only makes it more likely. A beequip takes 5 waxes: Soft and Hard Wax give at most 10 upgrade rolls, and Caustic Wax gives up to 20, though each Caustic only succeeds 25% of the time and destroys the beequip when it fails. The max columns assume every roll lands on that stat at its best value, up to its max picks, so they are a ceiling rather than a typical result. "Pick chance" is how likely each roll is to pick that upgrade, from 1 ★ to 5 ★.*
+*A beequip takes 5 waxes, and a failed wax still uses a slot. Soft and Hard Wax give at most 10 upgrade rolls. Caustic Wax and Debug Wax give 4 rolls each, so 5 of them give 20 rolls and can also pick Caustic-only upgrades; Debug Wax always succeeds, while Caustic only succeeds 25% of the time and destroys the beequip when it fails. Every roll picks one upgrade at random, and an upgrade stops being picked once it reaches its max picks.*
+
+*<b>Best base value</b> is the top roll before any wax, with how often a roll lands on it at 1 ★ and 5 ★. <b>Realistic max</b> is the best you can expect to actually see: the most picks of that upgrade that about 1 in 1,000 fully waxed 5 ★ beequips get, each at its top value. <b>Absolute ceiling</b> is the most the game allows, with every roll landing on that upgrade up to its max picks. Where it is higher than the realistic max, players are very unlikely to ever see it.*
 
 <table class="article-table">
 <tbody><tr>
@@ -334,39 +338,39 @@ A **Thimble** is a [level](bond.md) 3 [Beequip](beequip.md). It has an equip lim
 </th>
 <th>Per wax pick
 </th>
-<th>Pick chance
-</th>
 <th>Max picks
 </th>
-<th>Max with Soft/Hard Wax
+<th>Realistic max, Soft/Hard Wax (10 rolls)
 </th>
-<th>Max with Caustic Wax
+<th>Realistic max, Caustic/Debug Wax (20 rolls)
+</th>
+<th>Absolute ceiling (20 rolls)
 </th></tr>
 <tr>
 <td>Convert Amount
 </td>
-<td>+40
+<td>+40<br/><small>Top roll: 1 in 2,530 at 1 ★, 12% at 5 ★</small>
 </td>
-<td>+1 to +2
-</td>
-<td>54% → 50%
+<td>+1 to +2<br/><small>Picked 54% → 50% of rolls (1 ★ → 5 ★)</small>
 </td>
 <td>20
 </td>
-<td>+60
+<td>+58
+</td>
+<td>+74
 </td>
 <td>+80
 </td></tr>
 <tr>
 <td>Convert Amount
 </td>
-<td>+5%
+<td>+5%<br/><small>Top roll: 1% at 1 ★, 38% at 5 ★</small>
 </td>
-<td>+1%
-</td>
-<td>36% → 33%
+<td>+1%<br/><small>Picked 36% → 33% of rolls (1 ★ → 5 ★)</small>
 </td>
 <td>5
+</td>
+<td>+10%
 </td>
 <td>+10%
 </td>
@@ -377,13 +381,13 @@ A **Thimble** is a [level](bond.md) 3 [Beequip](beequip.md). It has an equip lim
 </td>
 <td>+1%
 </td>
-<td>+1%<br>+101% (Caustic only)
+<td>+1%<br/><small>Picked 9.42% → 17% of rolls (1 ★ → 5 ★)</small><br/>+101% (Caustic only)<br/><small>Picked 0.2% → 0.66% of rolls (1 ★ → 5 ★)</small>
 </td>
-<td>9.42% → 17%<br>0.2% → 0.66%
+<td>9 + 1
 </td>
-<td>9<br>1
+<td>+7%
 </td>
-<td>+10%
+<td>+111%
 </td>
 <td>+111%
 </td></tr></tbody></table>

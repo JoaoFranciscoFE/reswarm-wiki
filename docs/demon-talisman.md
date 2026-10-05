@@ -986,7 +986,9 @@ The **Demon Talisman** is a [level](bond.md) 13 [beequip](beequip.md). It has an
 
 ### Max possible stats
 
-*The best value each stat can reach. The top base value can roll at any potential; higher potential only makes it more likely. A beequip takes 5 waxes: Soft and Hard Wax give at most 10 upgrade rolls, and Caustic Wax gives up to 20, though each Caustic only succeeds 25% of the time and destroys the beequip when it fails. The max columns assume every roll lands on that stat at its best value, up to its max picks, so they are a ceiling rather than a typical result. "Pick chance" is how likely each roll is to pick that upgrade, from 1 ★ to 5 ★.*
+*A beequip takes 5 waxes, and a failed wax still uses a slot. Soft and Hard Wax give at most 10 upgrade rolls. Caustic Wax and Debug Wax give 4 rolls each, so 5 of them give 20 rolls and can also pick Caustic-only upgrades; Debug Wax always succeeds, while Caustic only succeeds 25% of the time and destroys the beequip when it fails. Every roll picks one upgrade at random, and an upgrade stops being picked once it reaches its max picks.*
+
+*<b>Best base value</b> is the top roll before any wax, with how often a roll lands on it at 1 ★ and 5 ★. <b>Realistic max</b> is the best you can expect to actually see: the most picks of that upgrade that about 1 in 1,000 fully waxed 5 ★ beequips get, each at its top value. <b>Absolute ceiling</b> is the most the game allows, with every roll landing on that upgrade up to its max picks. Where it is higher than the realistic max, players are very unlikely to ever see it.*
 
 <table class="article-table">
 <tbody><tr>
@@ -996,24 +998,24 @@ The **Demon Talisman** is a [level](bond.md) 13 [beequip](beequip.md). It has an
 </th>
 <th>Per wax pick
 </th>
-<th>Pick chance
-</th>
 <th>Max picks
 </th>
-<th>Max with Soft/Hard Wax
+<th>Realistic max, Soft/Hard Wax (10 rolls)
 </th>
-<th>Max with Caustic Wax
+<th>Realistic max, Caustic/Debug Wax (20 rolls)
+</th>
+<th>Absolute ceiling (20 rolls)
 </th></tr>
 <tr>
 <td>Bee Attack
 </td>
-<td>+70%
+<td>+70%<br/><small>Top roll: 1 in 2,530 at 1 ★, 12% at 5 ★</small>
 </td>
-<td>+3% to +5%
-</td>
-<td>15% → 12%
+<td>+3% to +5%<br/><small>Picked 15% → 12% of rolls (1 ★ → 5 ★)</small>
 </td>
 <td>5
+</td>
+<td>+95%
 </td>
 <td>+95%
 </td>
@@ -1022,43 +1024,43 @@ The **Demon Talisman** is a [level](bond.md) 13 [beequip](beequip.md). It has an
 <tr>
 <td>Gather Amount
 </td>
-<td>+70%
+<td>+70%<br/><small>Top roll: 1 in 2,530 at 1 ★, 12% at 5 ★</small>
 </td>
-<td>+4% to +6%
-</td>
-<td>7.79% → 6.17%
+<td>+4% to +6%<br/><small>Picked 7.79% → 6.17% of rolls (1 ★ → 5 ★)</small>
 </td>
 <td>15
 </td>
-<td>+130%
+<td>+94%
+</td>
+<td>+100%
 </td>
 <td>+160%
 </td></tr>
 <tr>
 <td>Ability Pollen
 </td>
-<td>+70%
+<td>+70%<br/><small>Top roll: 1 in 2,530 at 1 ★, 12% at 5 ★</small>
 </td>
-<td>+4% to +6%
-</td>
-<td>7.79% → 6.17%
+<td>+4% to +6%<br/><small>Picked 7.79% → 6.17% of rolls (1 ★ → 5 ★)</small>
 </td>
 <td>15
 </td>
-<td>+130%
+<td>+94%
+</td>
+<td>+100%
 </td>
 <td>+160%
 </td></tr>
 <tr>
 <td>Gathering Flames Chance
 </td>
-<td>+15%
+<td>+15%<br/><small>Top roll: 0.65% at 1 ★, 33% at 5 ★</small>
 </td>
-<td>+1% to +2%
-</td>
-<td>11% → 8.54%
+<td>+1% to +2%<br/><small>Picked 11% → 8.54% of rolls (1 ★ → 5 ★)</small>
 </td>
 <td>3
+</td>
+<td>+21%
 </td>
 <td>+21%
 </td>
@@ -1067,28 +1069,28 @@ The **Demon Talisman** is a [level](bond.md) 13 [beequip](beequip.md). It has an
 <tr>
 <td>Super-Crit Chance
 </td>
-<td>+10%
+<td>+10%<br/><small>Top roll: 0.65% at 1 ★, 33% at 5 ★</small>
 </td>
-<td>+2%
-</td>
-<td>4.69% → 3.71%
+<td>+2%<br/><small>Picked 4.69% → 3.71% of rolls (1 ★ → 5 ★)</small>
 </td>
 <td>10
 </td>
-<td>+30%
+<td>+16%
+</td>
+<td>+18%
 </td>
 <td>+30%
 </td></tr>
 <tr>
 <td>Movespeed
 </td>
+<td>−30%<br/><small>Top roll: 0.16% at 1 ★, 20% at 5 ★</small>
+</td>
+<td>—
+</td>
+<td>—
+</td>
 <td>−30%
-</td>
-<td>—
-</td>
-<td>—
-</td>
-<td>—
 </td>
 <td>−30%
 </td>
@@ -1097,13 +1099,13 @@ The **Demon Talisman** is a [level](bond.md) 13 [beequip](beequip.md). It has an
 <tr>
 <td>Energy
 </td>
+<td>−70%<br/><small>Top roll: 0.16% at 1 ★, 20% at 5 ★</small>
+</td>
+<td>—
+</td>
+<td>—
+</td>
 <td>−70%
-</td>
-<td>—
-</td>
-<td>—
-</td>
-<td>—
 </td>
 <td>−70%
 </td>
@@ -1112,13 +1114,13 @@ The **Demon Talisman** is a [level](bond.md) 13 [beequip](beequip.md). It has an
 <tr>
 <td>Red Bomb Pollen (hive bonus)
 </td>
-<td>+13%
+<td>+13%<br/><small>Top roll: 0.39% at 1 ★, 29% at 5 ★</small>
 </td>
-<td>+1% to +2%
-</td>
-<td>21% → 22%
+<td>+1% to +2%<br/><small>Picked 21% → 22% of rolls (1 ★ → 5 ★)</small>
 </td>
 <td>11
+</td>
+<td>+27%
 </td>
 <td>+33%
 </td>
@@ -1127,13 +1129,13 @@ The **Demon Talisman** is a [level](bond.md) 13 [beequip](beequip.md). It has an
 <tr>
 <td>Flame Pollen (hive bonus)
 </td>
-<td>+13%
+<td>+13%<br/><small>Top roll: 0.39% at 1 ★, 29% at 5 ★</small>
 </td>
-<td>+1% to +2%
-</td>
-<td>21% → 22%
+<td>+1% to +2%<br/><small>Picked 21% → 22% of rolls (1 ★ → 5 ★)</small>
 </td>
 <td>11
+</td>
+<td>+27%
 </td>
 <td>+33%
 </td>
@@ -1142,13 +1144,13 @@ The **Demon Talisman** is a [level](bond.md) 13 [beequip](beequip.md). It has an
 <tr>
 <td>Instant Red Bomb Conversion (hive bonus)
 </td>
-<td>+9%
+<td>+9%<br/><small>Top roll: 1.6% at 1 ★, 47% at 5 ★</small>
 </td>
-<td>+1%
-</td>
-<td>6.1% → 9.29%
+<td>+1%<br/><small>Picked 6.1% → 9.29% of rolls (1 ★ → 5 ★)</small>
 </td>
 <td>5
+</td>
+<td>+14%
 </td>
 <td>+14%
 </td>
@@ -1157,13 +1159,13 @@ The **Demon Talisman** is a [level](bond.md) 13 [beequip](beequip.md). It has an
 <tr>
 <td>Instant Flame Conversion (hive bonus)
 </td>
-<td>+9%
+<td>+9%<br/><small>Top roll: 1.6% at 1 ★, 47% at 5 ★</small>
 </td>
-<td>+1%
-</td>
-<td>6.1% → 9.29%
+<td>+1%<br/><small>Picked 6.1% → 9.29% of rolls (1 ★ → 5 ★)</small>
 </td>
 <td>5
+</td>
+<td>+14%
 </td>
 <td>+14%
 </td>
@@ -1178,7 +1180,7 @@ The **Demon Talisman** is a [level](bond.md) 13 [beequip](beequip.md). It has an
 </td>
 <td>—
 </td>
-<td>—
+<td>+10%
 </td>
 <td>+10%
 </td>
@@ -1187,13 +1189,13 @@ The **Demon Talisman** is a [level](bond.md) 13 [beequip](beequip.md). It has an
 <tr>
 <td>Max Bee Energy (hive bonus)
 </td>
+<td>−20%<br/><small>Top roll: 0.54% at 1 ★, 33% at 5 ★</small>
+</td>
+<td>—
+</td>
+<td>—
+</td>
 <td>−20%
-</td>
-<td>—
-</td>
-<td>—
-</td>
-<td>—
 </td>
 <td>−20%
 </td>
@@ -1208,7 +1210,7 @@ The **Demon Talisman** is a [level](bond.md) 13 [beequip](beequip.md). It has an
 </td>
 <td>—
 </td>
-<td>—
+<td>−5
 </td>
 <td>−5
 </td>
@@ -1223,7 +1225,7 @@ The **Demon Talisman** is a [level](bond.md) 13 [beequip](beequip.md). It has an
 </td>
 <td>—
 </td>
-<td>—
+<td>x0.5
 </td>
 <td>x0.5
 </td>
@@ -1234,13 +1236,13 @@ The **Demon Talisman** is a [level](bond.md) 13 [beequip](beequip.md). It has an
 </td>
 <td>Only from wax
 </td>
-<td>+2% (Caustic only)
-</td>
-<td>2.56% → 6.91%
+<td>+2% (Caustic only)<br/><small>Picked 2.56% → 6.91% of rolls (1 ★ → 5 ★)</small>
 </td>
 <td>5
 </td>
 <td>—
+</td>
+<td>+10%
 </td>
 <td>+10%
 </td></tr></tbody></table>
