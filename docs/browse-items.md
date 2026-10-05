@@ -31,6 +31,14 @@ Feed these to bees for bond, or to change them.
 <a class="wiki-card" href="gingerbread-bear.html"><img src="img/Gingerbread_Bear.png" alt="" loading="lazy"><span>Gingerbread Bear</span></a>
 <a class="wiki-card" href="aged-gingerbread-bear.html"><img src="img/Aged_Gingerbread_Bear.png" alt="" loading="lazy"><span>Aged Gingerbread Bear</span></a>
 <a class="wiki-card" href="atomic-treat.html"><img src="img/Atomic_Treat.png" alt="" loading="lazy"><span>Atomic Treat</span></a>
+<a class="wiki-card" href="gathering-atomic-treat.html"><img src="img/Gathering_Atomic_Treat.png" alt="" loading="lazy"><span>Gathering Atomic Treat</span></a>
+<a class="wiki-card" href="energized-atomic-treat.html"><img src="img/Energized_Atomic_Treat.png" alt="" loading="lazy"><span>Energized Atomic Treat</span></a>
+<a class="wiki-card" href="critical-atomic-treat.html"><img src="img/Critical_Atomic_Treat.png" alt="" loading="lazy"><span>Critical Atomic Treat</span></a>
+<a class="wiki-card" href="conversion-atomic-treat.html"><img src="img/Conversion_Atomic_Treat.png" alt="" loading="lazy"><span>Conversion Atomic Treat</span></a>
+<a class="wiki-card" href="swift-atomic-treat.html"><img src="img/Swift_Atomic_Treat.png" alt="" loading="lazy"><span>Swift Atomic Treat</span></a>
+<a class="wiki-card" href="fierce-atomic-treat.html"><img src="img/Fierce_Atomic_Treat.png" alt="" loading="lazy"><span>Fierce Atomic Treat</span></a>
+<a class="wiki-card" href="ability-atomic-treat.html"><img src="img/Ability_Atomic_Treat.png" alt="" loading="lazy"><span>Ability Atomic Treat</span></a>
+<a class="wiki-card" href="ic-atomic-treat.html"><img src="img/IC_Atomic_Treat.png" alt="" loading="lazy"><span>IC Atomic Treat</span></a>
 <a class="wiki-card" href="star-treat.html"><img src="img/Star_Treat.png" alt="" loading="lazy"><span>Star Treat</span></a>
 </div>
 
