@@ -102,7 +102,7 @@ note: Collects the 26 flowers nearest you in this circle; every 6th scoop slams 
 </td></tr>
 </tbody></table>
 
-The **Honey Hammer** is a [tool](tools.md) and the best collector in the game. You can't buy it: it is the reward for finishing the Melittology tree.
+The **Honey Hammer** is a [tool](tools.md) and the best collector in the game. You can't buy it: it is the reward for finishing the [Melittology](melittology.md) tree.
 
 > *"Harnesses the Dark Scythe, Gummyballer, and Tide Popper in one tool. Sweeps flames and bubbles, charges and launches gummyballs, builds tidal power, and unleashes a massive Honey Hammer slam every 6th scoop."*
 
@@ -159,7 +159,7 @@ Every **6th scoop** the hammer slams down 20 studs in front of you, just under a
 
 ## How to obtain
 
-The Honey Hammer is the capstone of the Melittology tree: the node **"A Beginning to a end."** (tier 61), which costs **10 Research Points**. To unlock it you have to master both of your active paths.
+The Honey Hammer is the capstone of the [Melittology](melittology.md) tree: the node **"A Beginning to a end."** (tier 61), which costs **10 Research Points**. To unlock it you have to master both of your active paths.
 
 Buying the capstone adds the Honey Hammer to your tools straight away. If the capstone is ever refunded, the Honey Hammer is taken away again.
 

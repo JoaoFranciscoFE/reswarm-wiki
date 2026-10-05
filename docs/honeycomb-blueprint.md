@@ -15,7 +15,7 @@ The **Honeycomb Blueprint** is a permanent inventory item for managing your [hiv
 
 * **Rearrange your hive:** tap a bee, then another slot, to swap them. Bees keep their gift, mutations, levels and Beequips when moved. You can zoom in and out to see more of your hive.
 * **Buy hive slots** and use any item that works on your hive from inside the blueprint.
-* More tools unlock with rebirths:
+* More tools unlock with [rebirths](rebirths.md):
     * **Rebirth 10:** level up bees directly. Pick the bees and the level, and it shows the honey cost.
     * **Rebirth 15:** roll until a chosen [mutation](mutation.md). Pick the mutation, the stat or stat range, and the bees.
     * **Rebirth 20:** roll until a chosen bee with a chosen mutation.

@@ -15,6 +15,6 @@
 <a class="wiki-card" href="browse-shops.html"><img src="img/Ticket.png" alt="" loading="lazy"><span>Shops</span></a>
 <a class="wiki-card" href="browse-dispensers.html"><img src="img/Strawberry.png" alt="" loading="lazy"><span>Dispensers</span></a>
 <a class="wiki-card" href="browse-events.html"><img src="img/Beesmas_Tree_Hat.png" alt="" loading="lazy"><span>Events</span></a>
-<a class="wiki-card" href="browse-leaderboards.html"><img src="img/Shining_Star.png" alt="" loading="lazy"><span>Leaderboards</span></a>
+<a class="wiki-card" href="rebirths.html"><img src="img/Rebirth.png" alt="" loading="lazy"><span>Rebirths</span></a>
 <a class="wiki-card" href="browse-probabilities.html"><img src="img/Loaded_Dice.png" alt="" loading="lazy"><span>Probabilities</span></a>
 </div>

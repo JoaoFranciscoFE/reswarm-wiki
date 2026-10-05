@@ -483,6 +483,9 @@ nav:
       - "Aug 26, 2026: SSA locking and treat amounts": update-log-2026-08-26.md
   - "Codes":
       - codes.md
+  - "Rebirths":
+      - rebirths.md
+      - "Melittology": melittology.md
   - "Mechanics":
       - browse-mechanics.md
       - "Ability Tokens": ability-tokens.md
