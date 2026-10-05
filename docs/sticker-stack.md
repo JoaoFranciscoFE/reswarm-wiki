@@ -5,6 +5,8 @@ tags: ["Locations", "Machines"]
 
 # Sticker Stack
 
+![Sticker Stack](img/Sticker_Stack.png){ align=right width=150 }
+
 <figure class="thumb" style="width: 180px" typeof="mw:File/Thumb">  <figcaption class="thumbcaption"> <p class="caption">The Sticker Stack while activated</p> </figcaption> </figure>
 
 <figure class="thumb" style="width: 180px" typeof="mw:File/Thumb">  <figcaption class="thumbcaption"> <p class="caption">The icon located on top of the Sticker Stack.</p> </figcaption> </figure>

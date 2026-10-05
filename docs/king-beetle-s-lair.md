@@ -5,6 +5,8 @@ tags: ["Locations", "Starter Zone"]
 
 # King Beetle's Lair
 
+![King Beetle's Lair](img/King_Beetle's_Lair.png){ align=right width=150 }
+
 **King Beetle's Lair** is the location where [King Beetle](king-beetle.md) spawns. It can be accessed from the light green door between [Blue HQ](blue-hq.md) and under the [Clover Field](clover-field.md) and next to the far end of the [Blue Flower Field](blue-flower-field.md). Inside the lair, the exit can be accessed by climbing a ladder leaning adjacent to the entrance. The interior of the lair is completely empty, except for the ladder for leaving. Both doors are one-way. The player will be pushed through either door if they stand too close, even if they aren't moving. The entrance to the lair cycles in color, so it stands out from the rest of the environment.
 
 The King Beetle spawns on the back wall adjacent to the Noob Shop and [Lava Obby](obstacle-courses.md#Lava_Obby).
