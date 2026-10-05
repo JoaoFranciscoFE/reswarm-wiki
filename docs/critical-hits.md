@@ -235,7 +235,7 @@ A **Super-Crit** is a stronger critical hit. Whenever a hit is already a crit, t
 * **Buffs**
     * Precise Mark (from Precise Bee's ability): +7% Super-Crit Chance and +7% Critical Chance per stack, up to 3 stacks (+21%).
     * Precision: +2% Super-Crit Chance per stack, up to 10 stacks (+20%) for 60 seconds.
-    * Crimbolt's Heat (Crimbolt Bee): +0% to +5% Super-Crit Chance, higher the more time the buff has left.
+    * Crimbolt's Heat ([Crimbolt Bee](crimbolt-bee.md)): +0% to +5% Super-Crit Chance, higher the more time the buff has left.
     * [Super Smoothie](super-smoothie.md): +1%.
     * Tabby Blessing+: +1% (also +1% Critical Chance and +25% Critical Power).
     * Galentine's Blessing: +1%.
@@ -257,7 +257,7 @@ A **Super-Crit** is a stronger critical hit. Whenever a hit is already a crit, t
 
 * **Buffs**
     * Dark Heat (from the [Dark Scythe](dark-scythe.md) and [Honey Hammer](honey-hammer.md)): x1.05 Super-Crit Power per stack, up to 100 stacks.
-    * Crimbolt's Heat (Crimbolt Bee): x1 to x2 Super-Crit Power, higher the more time the buff has left.
+    * Crimbolt's Heat ([Crimbolt Bee](crimbolt-bee.md)): x1 to x2 Super-Crit Power, higher the more time the buff has left.
 * **[Beequips](beequip.md)**
     * Six-Point Shuriken: +75% to +110%, plus +7% to +10% per wax upgrade (up to 12).
     * [Pink Shades](pink-shades.md): Super-Crit Power from wax upgrades.

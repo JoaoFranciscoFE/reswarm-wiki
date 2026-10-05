@@ -435,6 +435,16 @@ Ways to obtain a Gifted Frosty Bee Egg:
 
 Every bee has its own egg, jelly and Gifted egg. These use the [Basic Egg](#basic-egg) and [Royal Jelly](royal-jelly.md) icons.
 
+### Crimbolt Bee Egg
+
+![Crimbolt Bee Egg](img/Basic_Egg.png){ width=80 }
+
+Always hatches into a [Crimbolt Bee](crimbolt-bee.md) and also gives 1 Crimbolt Bee Jelly.
+
+* A rebirth reward at Rebirth 34. See [Rebirths](rebirths.md).
+
+The game also has a **Gifted Crimbolt Bee Egg**, which always hatches into a Gifted Crimbolt Bee.
+
 ### Painter Bee Egg
 
 ![Painter Bee Egg](img/Basic_Egg.png){ width=80 }
