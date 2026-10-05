@@ -12433,6 +12433,39 @@ They can be placed on your hive or added to the Sticker Stack.
 <ul><li>Reward from the Mondo Gift Box</li></ul>
 </div></td></tr></tbody></table>
 
+## Re://:Swarm Stickers
+
+Stickers, hive skins and cub skins added in Re://:Swarm. The Painter Bee set is on its own page: [Painter Stickers](painter-stickers.md).
+
+### New stickers
+
+| | Name | Description | Stack boost | Stack reward | Where it's from |
+|---|---|---|---|---|---|
+| ![Eureka!](img/Eureka!.png){ width=40 } | Eureka! | *"Such a shocking discovery!"* | +2.5% Instant Conversion | 5 [Moon Charms](moon-charm.md) | Reaching Rank 21 in Melittology Research (once per account). |
+| ![Joyous Gubbee](img/Joyous_Gubbee.png){ width=40 } | Joyous Gubbee | *"You ask and you won't receive."* | +2.5% Bond From Treats | 2 [Festive Beans](festive-bean.md) | Polar Bear's [Beesmas Feast](beesmas-feast.md): 1 in 20 per serving. |
+| ![Flying Mortar Bee](img/Flying_Mortar_Bee.png){ width=40 } | Flying Mortar Bee | *"Raining from the Sky."* | +5% Attack | 2 [Invigorating Vials](invigorating-vial.md) | [Mortar Bee](mortar-bee.md) shells landing in a field: 1 in 750. |
+| ![Menacing Crimbolt Bee](img/Menacing_Crimbolt_Bee.png){ width=40 } | Menacing Crimbolt Bee | *"Three Colors, One Hive."* | +1.5% Red, Blue and White Pollen | 5 [Purple Potions](purple-potion.md) | Crimbolt Bee rockets landing in a field: 1 in 1,750. |
+| ![Red Pointing Arrow](img/Red_Pointing_Arrow.png){ width=40 } | Red Pointing Arrow | *"Bro look over here."* | +0.5% Red Pollen | 1 [Red Extract](red-extract.md) | [Hidden sticker](#hidden-stickers) (Rare). |
+| ![Honey Hammer](img/Honey_Hammer.png){ width=40 } | Honey Hammer | *"The ultimate collector, earned through total mastery."* | +2% Tool Pollen | 3 [Tickets](ticket.md) | Using the [Honey Hammer](honey-hammer.md) in any field (Unfathomably Rare). Better chances in the [Mountain Top Field](mountain-top-field.md) and [Hub Field](hub-field.md). |
+| ![Chicken Bee](img/Chicken_Bee.png){ width=40 } | Chicken Bee | *"Hatched with a blessing."* | +1% Honey At Hive | 25 [Sunflower Seeds](sunflower-seed.md) | The code **chickenbee**, which also gives x1.5 Capacity and x1.5 Honey At Hive for 15 minutes. |
+| ![Happy Mortar Bee](img/Happy_Mortar_Bee.png){ width=40 } | Happy Mortar Bee | *"Never happier than when the shells are falling."* | +5% Attack | 2 [Invigorating Vials](invigorating-vial.md) | [Mortar Bee](mortar-bee.md) shells landing in a field: 1 in 3,000. |
+| ![Explosion](img/Explosion.png){ width=40 } | Explosion | *"Everything worth doing ends with a bang."* | +2.5% Bomb Pollen | 2 [Glitter](glitter.md) | Collecting any Bomb token: 1 in 100,000. Mortar Bee or Crimbolt Bee shells landing in a field: 1 in 10,000. |
+
+### New hive skins
+
+| | Name | Description | Stack boost | Stack reward | Where it's from |
+|---|---|---|---|---|---|
+| ![Basic Hive Skin](img/Basic_Hive_Skin.png){ width=40 } | Basic Hive Skin |  | +1% Honey At Hive | 5 [Tickets](ticket.md) | The default hive skin. Everyone has it. |
+|  | Veridian Crowned Hive Skin | *"A Crowned hive with a Veridian sheen"* | +1% Honey At Hive | 10 [Tickets](ticket.md) | Beating Round 25 of [Robo Bear's Challenge](robo-bear-challenge.md): 1 in 10 every time. |
+| ![Robo Comb Hive Skin](img/Robo_Comb_Hive_Skin.png){ width=40 } | Robo Comb Hive Skin | *"A Hive with petruding cogs"* | +1% Honey At Hive | 10 [Tickets](ticket.md) | Dropped by [Cogturrets](cogturret.md) in Robo Bear's Challenge: 1 in 2,000. |
+
+### New cub skins
+
+| | Name | Description | Stack boost | Stack reward | Where it's from |
+|---|---|---|---|---|---|
+| ![Black Cub Skin](img/Black_Cub_Skin.png){ width=40 } | Black Cub Skin | *"A precious baby Black Bear!"* | +10,000 Capacity | 10 [Tickets](ticket.md) | The default skin for every [Cub Buddy](cub-buddy.md) owner. |
+| ![Custom Cub Skin](img/Custom_Cub_Skin.png){ width=40 } | Custom Cub Skin | *"A mini version of you!"* | +10,000 Capacity | 10 [Tickets](ticket.md) | Bubble Bee Man's "BBM isn't sorry" Beesmas quest (limited). |
+
 ## Hidden Stickers
 
 
