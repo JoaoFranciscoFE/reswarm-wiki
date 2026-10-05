@@ -74,7 +74,7 @@ The **Smiley Sticker** is a [level](bond.md) 7 [Beequip](beequip.md). It has an 
 
 <p class="beequip-meta"><b>Rarity:</b> Common · <b>Equip limit:</b> 2 · <b>Who can wear it:</b> level 7+; Gifted</p>
 
-*Stats and hive bonuses each roll on their own. Higher potential makes a stat more likely to appear and pulls its value towards the top of its range. The chances and averages below come from running the game's own roll code 5,000 times at each potential.*
+*Stats and hive bonuses each roll on their own. Higher potential makes a stat more likely to appear and pulls its value towards the top of its range. The chances and averages below come from running the game's own roll code 5,000 times at each potential. Bee stats that the game applies as a multiplier are shown as a %, the way the in-game tooltip shows them.*
 
 /// tab | 1 ★
 
@@ -95,33 +95,33 @@ The **Smiley Sticker** is a [level](bond.md) 7 [Beequip](beequip.md). It has an 
 </td>
 <td>Energy
 </td>
-<td>x1.15 to x1.25
+<td>+15% to +25%
 </td>
 <td>100%
 </td>
-<td>x1.185
+<td>+18.5%
 </td></tr>
 <tr>
 <td>Bee stat
 </td>
 <td>Bomb Pollen
 </td>
-<td>+1.1 to +1.2
+<td>+10% to +20%
 </td>
 <td>100%
 </td>
-<td>+1.13
+<td>+13%
 </td></tr>
 <tr>
 <td>Bee stat
 </td>
 <td>Mark Duration
 </td>
-<td>+1.05 to +1.1
+<td>+5% to +10%
 </td>
 <td>100%
 </td>
-<td>+1.07
+<td>+7%
 </td></tr>
 <tr>
 <td>Hive bonus
@@ -156,33 +156,33 @@ The **Smiley Sticker** is a [level](bond.md) 7 [Beequip](beequip.md). It has an 
 </td>
 <td>Energy
 </td>
-<td>x1.15 to x1.25
+<td>+15% to +25%
 </td>
 <td>100%
 </td>
-<td>x1.194
+<td>+19.4%
 </td></tr>
 <tr>
 <td>Bee stat
 </td>
 <td>Bomb Pollen
 </td>
-<td>+1.1 to +1.2
+<td>+10% to +20%
 </td>
 <td>100%
 </td>
-<td>+1.15
+<td>+15%
 </td></tr>
 <tr>
 <td>Bee stat
 </td>
 <td>Mark Duration
 </td>
-<td>+1.05 to +1.1
+<td>+5% to +10%
 </td>
 <td>100%
 </td>
-<td>+1.07
+<td>+7%
 </td></tr>
 <tr>
 <td>Hive bonus
@@ -217,33 +217,33 @@ The **Smiley Sticker** is a [level](bond.md) 7 [Beequip](beequip.md). It has an 
 </td>
 <td>Energy
 </td>
-<td>x1.15 to x1.25
+<td>+15% to +25%
 </td>
 <td>100%
 </td>
-<td>x1.205
+<td>+20.5%
 </td></tr>
 <tr>
 <td>Bee stat
 </td>
 <td>Bomb Pollen
 </td>
-<td>+1.1 to +1.2
+<td>+10% to +20%
 </td>
 <td>100%
 </td>
-<td>+1.15
+<td>+15%
 </td></tr>
 <tr>
 <td>Bee stat
 </td>
 <td>Mark Duration
 </td>
-<td>+1.05 to +1.1
+<td>+5% to +10%
 </td>
 <td>100%
 </td>
-<td>+1.08
+<td>+8%
 </td></tr>
 <tr>
 <td>Hive bonus
@@ -278,33 +278,33 @@ The **Smiley Sticker** is a [level](bond.md) 7 [Beequip](beequip.md). It has an 
 </td>
 <td>Energy
 </td>
-<td>x1.15 to x1.25
+<td>+15% to +25%
 </td>
 <td>100%
 </td>
-<td>x1.216
+<td>+21.6%
 </td></tr>
 <tr>
 <td>Bee stat
 </td>
 <td>Bomb Pollen
 </td>
-<td>+1.1 to +1.2
+<td>+10% to +20%
 </td>
 <td>100%
 </td>
-<td>+1.17
+<td>+17%
 </td></tr>
 <tr>
 <td>Bee stat
 </td>
 <td>Mark Duration
 </td>
-<td>+1.05 to +1.1
+<td>+5% to +10%
 </td>
 <td>100%
 </td>
-<td>+1.08
+<td>+8%
 </td></tr>
 <tr>
 <td>Hive bonus
@@ -339,33 +339,33 @@ The **Smiley Sticker** is a [level](bond.md) 7 [Beequip](beequip.md). It has an 
 </td>
 <td>Energy
 </td>
-<td>x1.15 to x1.25
+<td>+15% to +25%
 </td>
 <td>100%
 </td>
-<td>x1.225
+<td>+22.5%
 </td></tr>
 <tr>
 <td>Bee stat
 </td>
 <td>Bomb Pollen
 </td>
-<td>+1.1 to +1.2
+<td>+10% to +20%
 </td>
 <td>100%
 </td>
-<td>+1.18
+<td>+18%
 </td></tr>
 <tr>
 <td>Bee stat
 </td>
 <td>Mark Duration
 </td>
-<td>+1.05 to +1.1
+<td>+5% to +10%
 </td>
 <td>100%
 </td>
-<td>+1.09
+<td>+9%
 </td></tr>
 <tr>
 <td>Hive bonus
@@ -381,131 +381,107 @@ The **Smiley Sticker** is a [level](bond.md) 7 [Beequip](beequip.md). It has an 
 
 ///
 
-### Wax upgrades
+### Max possible stats
 
-*Each upgrade a wax rolls picks one entry below, weighted by its share of the pool at that potential. Caustic-only entries can only come from Caustic or Debug Wax. An entry leaves the pool once it reaches its max picks.*
+*A beequip takes 5 waxes, and a failed wax still uses a slot. Soft and Hard Wax give at most 10 upgrade rolls. Caustic Wax and Debug Wax give 4 rolls each, so 5 of them give 20 rolls and can also pick Caustic-only upgrades; Debug Wax always succeeds, while Caustic only succeeds 25% of the time and destroys the beequip when it fails. Every roll picks one upgrade at random, and an upgrade stops being picked once it reaches its max picks.*
+
+*<b>Best base value</b> is the top roll before any wax, with how often a roll lands on it at 1 ★ and 5 ★. <b>Realistic max</b> is the best you can expect to actually see: the most picks of that upgrade that about 1 in 1,000 fully waxed 5 ★ beequips get, each at its top value. <b>Absolute ceiling</b> is the most the game allows, with every roll landing on that upgrade up to its max picks. Where it is higher than the realistic max, players are very unlikely to ever see it.*
 
 <table class="article-table">
 <tbody><tr>
-<th>Upgrade
+<th>Stat
+</th>
+<th>Best base value
+</th>
+<th>Per wax pick
 </th>
 <th>Max picks
 </th>
-<th>Caustic only
+<th>Realistic max, Soft/Hard Wax (10 rolls)
 </th>
-<th>Value per pick
+<th>Realistic max, Caustic/Debug Wax (20 rolls)
 </th>
-<th>Weight at 1 ★
-</th>
-<th>Weight at 3 ★
-</th>
-<th>Weight at 5 ★
+<th>Absolute ceiling (20 rolls)
 </th></tr>
 <tr>
 <td>Energy
 </td>
+<td>+25%<br/><small>Top roll: 0.16% at 1 ★, 20% at 5 ★</small>
+</td>
+<td>+1% to +3%<br/><small>Picked 33% → 31% of rolls (1 ★ → 5 ★)</small>
+</td>
 <td>20
 </td>
-<td>
+<td>+49%
 </td>
-<td>+0.01 to +0.03
+<td>+64%
 </td>
-<td>33%
-</td>
-<td>32%
-</td>
-<td>31%
+<td>+85%
 </td></tr>
 <tr>
 <td>Bomb Pollen
 </td>
+<td>+20%<br/><small>Top roll: 0.16% at 1 ★, 20% at 5 ★</small>
+</td>
+<td>+1% to +2%<br/><small>Picked 33% → 31% of rolls (1 ★ → 5 ★)</small>
+</td>
 <td>20
 </td>
-<td>
+<td>+36%
 </td>
-<td>+0.01 to +0.02
+<td>+46%
 </td>
-<td>33%
-</td>
-<td>32%
-</td>
-<td>31%
+<td>+60%
 </td></tr>
 <tr>
 <td>Mark Duration
 </td>
+<td>+10%<br/><small>Top roll: 0.65% at 1 ★, 33% at 5 ★</small>
+</td>
+<td>+1%<br/><small>Picked 33% → 31% of rolls (1 ★ → 5 ★)</small>
+</td>
 <td>20
 </td>
-<td>
+<td>+18%
 </td>
-<td>+0.01
+<td>+23%
 </td>
-<td>33%
-</td>
-<td>32%
-</td>
-<td>31%
-</td></tr>
-<tr>
-<td>Max Bee Energy (hive bonus)
-</td>
-<td>3
-</td>
-<td>
-</td>
-<td>+0.01
-</td>
-<td>2%
-</td>
-<td>3%
-</td>
-<td>5%
+<td>+30%
 </td></tr>
 <tr>
 <td>Mark Duration (hive bonus)
 </td>
+<td>+1%
+</td>
+<td>+1%<br/><small>Picked 0.18% → 0.95% of rolls (1 ★ → 5 ★)</small>
+</td>
 <td>1
 </td>
-<td>
+<td>+2%
 </td>
-<td>+0.01
+<td>+2%
 </td>
-<td>0%
-</td>
-<td>1%
-</td>
-<td>1%
+<td>+2%
 </td></tr>
 <tr>
-<td>Blue Bomb ability
+<td>Max Bee Energy (hive bonus)
 </td>
-<td>1
+<td>Only from wax
 </td>
-<td>Yes
+<td>+1%<br/><small>Picked 1.78% → 4.76% of rolls (1 ★ → 5 ★)</small>
 </td>
-<td>+1
+<td>3
 </td>
-<td>0%
+<td>+3%
 </td>
-<td>0%
+<td>+3%
 </td>
-<td>0%
-</td></tr>
-<tr>
-<td>Honey Mark ability
-</td>
-<td>1
-</td>
-<td>Yes
-</td>
-<td>+1
-</td>
-<td>0%
-</td>
-<td>0%
-</td>
-<td>0%
+<td>+3%
 </td></tr></tbody></table>
+
+<p class="beequip-note"><b>Caustic-only ability upgrade:</b> grants the bee the ability <b>Blue Bomb</b> (Max 1).</p>
+
+<p class="beequip-note"><b>Caustic-only ability upgrade:</b> grants the bee the ability <b>Honey Mark</b> (Max 1).</p>
 
 ## Ways to obtain
 

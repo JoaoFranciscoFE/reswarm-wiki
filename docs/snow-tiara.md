@@ -72,7 +72,7 @@ A **Snow Tiara** is a [level](bond.md) 12 Beesmas [beequip](beequip.md). It has 
 
 <p class="beequip-meta"><b>Rarity:</b> Epic · <b>Equip limit:</b> 1 · <b>Who can wear it:</b> level 12+; Gifted; bee types: Cool, Shocked, Stubborn, Diamond, Frosty, Windy · Beesmas · uses the older roll function (OldRNG)</p>
 
-*Stats and hive bonuses each roll on their own. Higher potential makes a stat more likely to appear and pulls its value towards the top of its range. The chances and averages below come from running the game's own roll code 5,000 times at each potential.*
+*Stats and hive bonuses each roll on their own. Higher potential makes a stat more likely to appear and pulls its value towards the top of its range. The chances and averages below come from running the game's own roll code 5,000 times at each potential. Bee stats that the game applies as a multiplier are shown as a %, the way the in-game tooltip shows them.*
 
 /// tab | 1 ★
 
@@ -93,44 +93,44 @@ A **Snow Tiara** is a [level](bond.md) 12 Beesmas [beequip](beequip.md). It has 
 </td>
 <td>Convert Amount
 </td>
-<td>x1.1 to x1.25
+<td>+10% to +25%
 </td>
 <td>100%
 </td>
-<td>x1.152
+<td>+15.2%
 </td></tr>
 <tr>
 <td>Bee stat
 </td>
-<td>Convert Rate At Hive
+<td>Convert At Hive
 </td>
-<td>x1.1 to x1.25
+<td>+10% to +25%
 </td>
 <td>100%
 </td>
-<td>x1.153
+<td>+15.3%
 </td></tr>
 <tr>
 <td>Bee stat
 </td>
 <td>Blue Gather Amount
 </td>
-<td>x1.1 to x1.25
+<td>+10% to +25%
 </td>
 <td>100%
 </td>
-<td>x1.152
+<td>+15.2%
 </td></tr>
 <tr>
 <td>Bee stat
 </td>
 <td>White Gather Amount
 </td>
-<td>x1.1 to x1.25
+<td>+10% to +25%
 </td>
 <td>100%
 </td>
-<td>x1.153
+<td>+15.3%
 </td></tr>
 <tr>
 <td>Bee stat
@@ -198,44 +198,44 @@ A **Snow Tiara** is a [level](bond.md) 12 Beesmas [beequip](beequip.md). It has 
 </td>
 <td>Convert Amount
 </td>
-<td>x1.1 to x1.25
+<td>+10% to +25%
 </td>
 <td>100%
 </td>
-<td>x1.167
+<td>+16.7%
 </td></tr>
 <tr>
 <td>Bee stat
 </td>
-<td>Convert Rate At Hive
+<td>Convert At Hive
 </td>
-<td>x1.1 to x1.25
+<td>+10% to +25%
 </td>
 <td>100%
 </td>
-<td>x1.167
+<td>+16.7%
 </td></tr>
 <tr>
 <td>Bee stat
 </td>
 <td>Blue Gather Amount
 </td>
-<td>x1.1 to x1.25
+<td>+10% to +25%
 </td>
 <td>100%
 </td>
-<td>x1.167
+<td>+16.7%
 </td></tr>
 <tr>
 <td>Bee stat
 </td>
 <td>White Gather Amount
 </td>
-<td>x1.1 to x1.25
+<td>+10% to +25%
 </td>
 <td>100%
 </td>
-<td>x1.167
+<td>+16.7%
 </td></tr>
 <tr>
 <td>Bee stat
@@ -303,44 +303,44 @@ A **Snow Tiara** is a [level](bond.md) 12 Beesmas [beequip](beequip.md). It has 
 </td>
 <td>Convert Amount
 </td>
-<td>x1.1 to x1.25
+<td>+10% to +25%
 </td>
 <td>100%
 </td>
-<td>x1.183
+<td>+18.3%
 </td></tr>
 <tr>
 <td>Bee stat
 </td>
-<td>Convert Rate At Hive
+<td>Convert At Hive
 </td>
-<td>x1.1 to x1.25
+<td>+10% to +25%
 </td>
 <td>100%
 </td>
-<td>x1.182
+<td>+18.2%
 </td></tr>
 <tr>
 <td>Bee stat
 </td>
 <td>Blue Gather Amount
 </td>
-<td>x1.1 to x1.25
+<td>+10% to +25%
 </td>
 <td>100%
 </td>
-<td>x1.183
+<td>+18.3%
 </td></tr>
 <tr>
 <td>Bee stat
 </td>
 <td>White Gather Amount
 </td>
-<td>x1.1 to x1.25
+<td>+10% to +25%
 </td>
 <td>100%
 </td>
-<td>x1.183
+<td>+18.3%
 </td></tr>
 <tr>
 <td>Bee stat
@@ -408,44 +408,44 @@ A **Snow Tiara** is a [level](bond.md) 12 Beesmas [beequip](beequip.md). It has 
 </td>
 <td>Convert Amount
 </td>
-<td>x1.1 to x1.25
+<td>+10% to +25%
 </td>
 <td>100%
 </td>
-<td>x1.197
+<td>+19.7%
 </td></tr>
 <tr>
 <td>Bee stat
 </td>
-<td>Convert Rate At Hive
+<td>Convert At Hive
 </td>
-<td>x1.1 to x1.25
+<td>+10% to +25%
 </td>
 <td>100%
 </td>
-<td>x1.197
+<td>+19.7%
 </td></tr>
 <tr>
 <td>Bee stat
 </td>
 <td>Blue Gather Amount
 </td>
-<td>x1.1 to x1.25
+<td>+10% to +25%
 </td>
 <td>100%
 </td>
-<td>x1.198
+<td>+19.8%
 </td></tr>
 <tr>
 <td>Bee stat
 </td>
 <td>White Gather Amount
 </td>
-<td>x1.1 to x1.25
+<td>+10% to +25%
 </td>
 <td>100%
 </td>
-<td>x1.198
+<td>+19.8%
 </td></tr>
 <tr>
 <td>Bee stat
@@ -513,44 +513,44 @@ A **Snow Tiara** is a [level](bond.md) 12 Beesmas [beequip](beequip.md). It has 
 </td>
 <td>Convert Amount
 </td>
-<td>x1.1 to x1.25
+<td>+10% to +25%
 </td>
 <td>100%
 </td>
-<td>x1.212
+<td>+21.2%
 </td></tr>
 <tr>
 <td>Bee stat
 </td>
-<td>Convert Rate At Hive
+<td>Convert At Hive
 </td>
-<td>x1.1 to x1.25
+<td>+10% to +25%
 </td>
 <td>100%
 </td>
-<td>x1.212
+<td>+21.2%
 </td></tr>
 <tr>
 <td>Bee stat
 </td>
 <td>Blue Gather Amount
 </td>
-<td>x1.1 to x1.25
+<td>+10% to +25%
 </td>
 <td>100%
 </td>
-<td>x1.213
+<td>+21.3%
 </td></tr>
 <tr>
 <td>Bee stat
 </td>
 <td>White Gather Amount
 </td>
-<td>x1.1 to x1.25
+<td>+10% to +25%
 </td>
 <td>100%
 </td>
-<td>x1.214
+<td>+21.4%
 </td></tr>
 <tr>
 <td>Bee stat
@@ -599,115 +599,147 @@ A **Snow Tiara** is a [level](bond.md) 12 Beesmas [beequip](beequip.md). It has 
 
 ///
 
-### Wax upgrades
+### Max possible stats
 
-*Each upgrade a wax rolls picks one entry below, weighted by its share of the pool at that potential. Caustic-only entries can only come from Caustic or Debug Wax. An entry leaves the pool once it reaches its max picks.*
+*A beequip takes 5 waxes, and a failed wax still uses a slot. Soft and Hard Wax give at most 10 upgrade rolls. Caustic Wax and Debug Wax give 4 rolls each, so 5 of them give 20 rolls and can also pick Caustic-only upgrades; Debug Wax always succeeds, while Caustic only succeeds 25% of the time and destroys the beequip when it fails. Every roll picks one upgrade at random, and an upgrade stops being picked once it reaches its max picks.*
+
+*<b>Best base value</b> is the top roll before any wax, with how often a roll lands on it at 1 ★ and 5 ★. <b>Realistic max</b> is the best you can expect to actually see: the most picks of that upgrade that about 1 in 1,000 fully waxed 5 ★ beequips get, each at its top value. <b>Absolute ceiling</b> is the most the game allows, with every roll landing on that upgrade up to its max picks. Where it is higher than the realistic max, players are very unlikely to ever see it.*
 
 <table class="article-table">
 <tbody><tr>
-<th>Upgrade
+<th>Stat
+</th>
+<th>Best base value
+</th>
+<th>Per wax pick
 </th>
 <th>Max picks
 </th>
-<th>Caustic only
+<th>Realistic max, Soft/Hard Wax (10 rolls)
 </th>
-<th>Value per pick
+<th>Realistic max, Caustic/Debug Wax (20 rolls)
 </th>
-<th>Weight at 1 ★
-</th>
-<th>Weight at 3 ★
-</th>
-<th>Weight at 5 ★
+<th>Absolute ceiling (20 rolls)
 </th></tr>
 <tr>
-<td>Convert Rate At Hive
+<td>Convert Amount
+</td>
+<td>+25%<br/><small>Top roll: 1 in 1,420 at 1 ★, 15% at 5 ★</small>
+</td>
+<td>+1% to +2%<br/><small>Picked 11% → 16% of rolls (1 ★ → 5 ★)</small>
 </td>
 <td>20
 </td>
-<td>
+<td>+37%
 </td>
-<td>+0.01 to +0.02
+<td>+43%
 </td>
-<td>29%
+<td>+65%
+</td></tr>
+<tr>
+<td>Convert At Hive
 </td>
-<td>28%
+<td>+25%<br/><small>Top roll: 1 in 1,420 at 1 ★, 15% at 5 ★</small>
 </td>
-<td>26%
+<td>+1% to +2%<br/><small>Picked 29% → 26% of rolls (1 ★ → 5 ★)</small>
+</td>
+<td>20
+</td>
+<td>+39%
+</td>
+<td>+49%
+</td>
+<td>+65%
 </td></tr>
 <tr>
 <td>Blue Gather Amount
 </td>
+<td>+25%<br/><small>Top roll: 1 in 1,420 at 1 ★, 15% at 5 ★</small>
+</td>
+<td>+1% to +2%<br/><small>Picked 29% → 26% of rolls (1 ★ → 5 ★)</small>
+</td>
 <td>20
 </td>
-<td>
+<td>+39%
 </td>
-<td>+0.01 to +0.02
+<td>+49%
 </td>
-<td>29%
-</td>
-<td>28%
-</td>
-<td>26%
+<td>+65%
 </td></tr>
 <tr>
 <td>White Gather Amount
 </td>
+<td>+25%<br/><small>Top roll: 1 in 1,420 at 1 ★, 15% at 5 ★</small>
+</td>
+<td>+1% to +2%<br/><small>Picked 29% → 26% of rolls (1 ★ → 5 ★)</small>
+</td>
 <td>20
 </td>
-<td>
+<td>+39%
 </td>
-<td>+0.01 to +0.02
+<td>+49%
 </td>
-<td>29%
-</td>
-<td>28%
-</td>
-<td>26%
+<td>+65%
 </td></tr>
 <tr>
-<td>Convert Amount
+<td>Critical Chance
 </td>
-<td>20
+<td>+1%
 </td>
-<td>
+<td>—
 </td>
-<td>+0.01 to +0.02
+<td>—
 </td>
-<td>11%
+<td>+1%
 </td>
-<td>13%
+<td>+1%
 </td>
-<td>16%
+<td>+1%
 </td></tr>
 <tr>
 <td>Blue Field Capacity (hive bonus)
 </td>
+<td>+5%<br/><small>Shows as the top value: 1 in 577,000 at 1 ★, 1.2% at 5 ★</small>
+</td>
+<td>+1%<br/><small>Picked 0.82% → 2.63% of rolls (1 ★ → 5 ★)</small>
+</td>
 <td>10
 </td>
-<td>
+<td>+8%
 </td>
-<td>+0.01
+<td>+9%
 </td>
-<td>1%
-</td>
-<td>2%
-</td>
-<td>3%
+<td>+15%
 </td></tr>
 <tr>
 <td>White Field Capacity (hive bonus)
 </td>
+<td>+5%<br/><small>Shows as the top value: 1 in 577,000 at 1 ★, 1.2% at 5 ★</small>
+</td>
+<td>+1%<br/><small>Picked 0.82% → 2.63% of rolls (1 ★ → 5 ★)</small>
+</td>
 <td>10
 </td>
-<td>
+<td>+8%
 </td>
-<td>+0.01
+<td>+9%
 </td>
-<td>1%
+<td>+15%
+</td></tr>
+<tr>
+<td>Honey From Tokens (hive bonus)
 </td>
-<td>2%
+<td>+5%<br/><small>Shows as the top value: 1 in 577,000 at 1 ★, 1.2% at 5 ★</small>
 </td>
-<td>3%
+<td>—
+</td>
+<td>—
+</td>
+<td>+5%
+</td>
+<td>+5%
+</td>
+<td>+5%
 </td></tr></tbody></table>
 
 ## Ways to Obtain

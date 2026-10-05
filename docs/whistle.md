@@ -74,7 +74,7 @@ The **Whistle** is a [level](bond.md) 8 [Beequip](beequip.md). It has an equip l
 
 <p class="beequip-meta"><b>Abilities:</b> Haste</p>
 
-*Stats and hive bonuses each roll on their own. Higher potential makes a stat more likely to appear and pulls its value towards the top of its range. The chances and averages below come from running the game's own roll code 5,000 times at each potential.*
+*Stats and hive bonuses each roll on their own. Higher potential makes a stat more likely to appear and pulls its value towards the top of its range. The chances and averages below come from running the game's own roll code 5,000 times at each potential. Bee stats that the game applies as a multiplier are shown as a %, the way the in-game tooltip shows them.*
 
 /// tab | 1 ★
 
@@ -95,11 +95,11 @@ The **Whistle** is a [level](bond.md) 8 [Beequip](beequip.md). It has an equip l
 </td>
 <td>Movespeed
 </td>
-<td>x1.05 to x1.1
+<td>+5% to +10%
 </td>
 <td>100%
 </td>
-<td>x1.067
+<td>+6.7%
 </td></tr>
 <tr>
 <td>Bee stat
@@ -117,11 +117,11 @@ The **Whistle** is a [level](bond.md) 8 [Beequip](beequip.md). It has an equip l
 </td>
 <td>Energy
 </td>
-<td>x0.45 to x0.55
+<td>−55% to −45%
 </td>
 <td>100%
 </td>
-<td>x0.485
+<td>−51.5%
 </td></tr></tbody></table>
 
 ///
@@ -145,11 +145,11 @@ The **Whistle** is a [level](bond.md) 8 [Beequip](beequip.md). It has an equip l
 </td>
 <td>Movespeed
 </td>
-<td>x1.05 to x1.1
+<td>+5% to +10%
 </td>
 <td>100%
 </td>
-<td>x1.072
+<td>+7.2%
 </td></tr>
 <tr>
 <td>Bee stat
@@ -167,11 +167,11 @@ The **Whistle** is a [level](bond.md) 8 [Beequip](beequip.md). It has an equip l
 </td>
 <td>Energy
 </td>
-<td>x0.45 to x0.55
+<td>−55% to −45%
 </td>
 <td>100%
 </td>
-<td>x0.495
+<td>−50.5%
 </td></tr></tbody></table>
 
 ///
@@ -195,11 +195,11 @@ The **Whistle** is a [level](bond.md) 8 [Beequip](beequip.md). It has an equip l
 </td>
 <td>Movespeed
 </td>
-<td>x1.05 to x1.1
+<td>+5% to +10%
 </td>
 <td>100%
 </td>
-<td>x1.077
+<td>+7.7%
 </td></tr>
 <tr>
 <td>Bee stat
@@ -217,11 +217,11 @@ The **Whistle** is a [level](bond.md) 8 [Beequip](beequip.md). It has an equip l
 </td>
 <td>Energy
 </td>
-<td>x0.45 to x0.55
+<td>−55% to −45%
 </td>
 <td>100%
 </td>
-<td>x0.505
+<td>−49.5%
 </td></tr></tbody></table>
 
 ///
@@ -245,11 +245,11 @@ The **Whistle** is a [level](bond.md) 8 [Beequip](beequip.md). It has an equip l
 </td>
 <td>Movespeed
 </td>
-<td>x1.05 to x1.1
+<td>+5% to +10%
 </td>
 <td>100%
 </td>
-<td>x1.083
+<td>+8.3%
 </td></tr>
 <tr>
 <td>Bee stat
@@ -267,11 +267,11 @@ The **Whistle** is a [level](bond.md) 8 [Beequip](beequip.md). It has an equip l
 </td>
 <td>Energy
 </td>
-<td>x0.45 to x0.55
+<td>−55% to −45%
 </td>
 <td>100%
 </td>
-<td>x0.515
+<td>−48.5%
 </td></tr></tbody></table>
 
 ///
@@ -295,11 +295,11 @@ The **Whistle** is a [level](bond.md) 8 [Beequip](beequip.md). It has an equip l
 </td>
 <td>Movespeed
 </td>
-<td>x1.05 to x1.1
+<td>+5% to +10%
 </td>
 <td>100%
 </td>
-<td>x1.088
+<td>+8.8%
 </td></tr>
 <tr>
 <td>Bee stat
@@ -317,125 +317,129 @@ The **Whistle** is a [level](bond.md) 8 [Beequip](beequip.md). It has an equip l
 </td>
 <td>Energy
 </td>
-<td>x0.45 to x0.55
+<td>−55% to −45%
 </td>
 <td>100%
 </td>
-<td>x0.525
+<td>−47.5%
 </td></tr></tbody></table>
 
 ///
 
-### Wax upgrades
+### Max possible stats
 
-*Each upgrade a wax rolls picks one entry below, weighted by its share of the pool at that potential. Caustic-only entries can only come from Caustic or Debug Wax. An entry leaves the pool once it reaches its max picks.*
+*A beequip takes 5 waxes, and a failed wax still uses a slot. Soft and Hard Wax give at most 10 upgrade rolls. Caustic Wax and Debug Wax give 4 rolls each, so 5 of them give 20 rolls and can also pick Caustic-only upgrades; Debug Wax always succeeds, while Caustic only succeeds 25% of the time and destroys the beequip when it fails. Every roll picks one upgrade at random, and an upgrade stops being picked once it reaches its max picks.*
+
+*<b>Best base value</b> is the top roll before any wax, with how often a roll lands on it at 1 ★ and 5 ★. <b>Realistic max</b> is the best you can expect to actually see: the most picks of that upgrade that about 1 in 1,000 fully waxed 5 ★ beequips get, each at its top value. <b>Absolute ceiling</b> is the most the game allows, with every roll landing on that upgrade up to its max picks. Where it is higher than the realistic max, players are very unlikely to ever see it.*
 
 <table class="article-table">
 <tbody><tr>
-<th>Upgrade
+<th>Stat
+</th>
+<th>Best base value
+</th>
+<th>Per wax pick
 </th>
 <th>Max picks
 </th>
-<th>Caustic only
+<th>Realistic max, Soft/Hard Wax (10 rolls)
 </th>
-<th>Value per pick
+<th>Realistic max, Caustic/Debug Wax (20 rolls)
 </th>
-<th>Weight at 1 ★
-</th>
-<th>Weight at 3 ★
-</th>
-<th>Weight at 5 ★
+<th>Absolute ceiling (20 rolls)
 </th></tr>
 <tr>
 <td>Movespeed
 </td>
+<td>+10%<br/><small>Top roll: 0.65% at 1 ★, 33% at 5 ★</small>
+</td>
+<td>+1.01% to +2%<br/><small>Picked 33% → 33% of rolls (1 ★ → 5 ★)</small>
+</td>
 <td>15
 </td>
-<td>
+<td>+26%
 </td>
-<td>+0.0102 to +0.0197
+<td>+36%
 </td>
-<td>33%
-</td>
-<td>33%
-</td>
-<td>33%
+<td>+40%
 </td></tr>
 <tr>
 <td>Critical Power
 </td>
+<td>+25%<br/><small>Top roll: 0.14% at 1 ★, 20% at 5 ★</small>
+</td>
+<td>+2% to +3%<br/><small>Picked 67% → 66% of rolls (1 ★ → 5 ★)</small>
+</td>
 <td>20
 </td>
-<td>
+<td>+55%
 </td>
-<td>+0.02 to +0.03
+<td>+79%
 </td>
-<td>67%
+<td>+85%
+</td></tr>
+<tr>
+<td>Energy
 </td>
-<td>66%
+<td>−45%<br/><small>Top roll: 0.16% at 1 ★, 20% at 5 ★</small>
 </td>
-<td>66%
+<td>—
+</td>
+<td>—
+</td>
+<td>−45%
+</td>
+<td>−45%
+</td>
+<td>−45%
 </td></tr>
 <tr>
 <td>Player Movespeed (hive bonus)
 </td>
+<td>Only from wax
+</td>
+<td>x1.01 (new bonus)<br/><small>Picked 0.16% → 0.4% of rolls (1 ★ → 5 ★)</small>
+</td>
 <td>1
 </td>
-<td>
+<td>x1.01
 </td>
-<td>+1.01
+<td>x1.01
 </td>
-<td>0%
-</td>
-<td>0%
-</td>
-<td>0%
+<td>x1.01
 </td></tr>
 <tr>
 <td>Bee Movespeed (hive bonus)
 </td>
+<td>Only from wax
+</td>
+<td>+1% (Caustic only)<br/><small>Picked 0.35% → 0.9% of rolls (1 ★ → 5 ★)</small>
+</td>
 <td>1
 </td>
-<td>Yes
+<td>—
 </td>
-<td>+0.01
+<td>+1%
 </td>
-<td>0%
-</td>
-<td>1%
-</td>
-<td>1%
+<td>+1%
 </td></tr>
 <tr>
 <td>Super-Crit Power (hive bonus)
 </td>
+<td>Only from wax
+</td>
+<td>+1% to +2% (Caustic only)<br/><small>Picked 2.74% → 9.05% of rolls (1 ★ → 5 ★)</small>
+</td>
 <td>10
 </td>
-<td>Yes
+<td>—
 </td>
-<td>+0.01 to +0.02
+<td>+14%
 </td>
-<td>3%
-</td>
-<td>6%
-</td>
-<td>9%
-</td></tr>
-<tr>
-<td>Melody ability
-</td>
-<td>1
-</td>
-<td>Yes
-</td>
-<td>+1
-</td>
-<td>0%
-</td>
-<td>0%
-</td>
-<td>0%
+<td>+20%
 </td></tr></tbody></table>
+
+<p class="beequip-note"><b>Caustic-only ability upgrade:</b> grants the bee the ability <b>Melody</b> (Max 1).</p>
 
 ## Ways to Obtain
 

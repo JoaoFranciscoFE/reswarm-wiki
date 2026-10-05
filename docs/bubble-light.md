@@ -72,7 +72,7 @@ A **Bubble Light** is a [level](bond.md) 8 Beesmas [beequip](beequip.md). It has
 
 <p class="beequip-meta"><b>Rarity:</b> Epic · <b>Equip limit:</b> 3 · <b>Who can wear it:</b> level 8+; mutated · Beesmas · uses the older roll function (OldRNG)</p>
 
-*Stats and hive bonuses each roll on their own. Higher potential makes a stat more likely to appear and pulls its value towards the top of its range. The chances and averages below come from running the game's own roll code 5,000 times at each potential.*
+*Stats and hive bonuses each roll on their own. Higher potential makes a stat more likely to appear and pulls its value towards the top of its range. The chances and averages below come from running the game's own roll code 5,000 times at each potential. Bee stats that the game applies as a multiplier are shown as a %, the way the in-game tooltip shows them.*
 
 /// tab | 1 ★
 
@@ -115,22 +115,22 @@ A **Bubble Light** is a [level](bond.md) 8 Beesmas [beequip](beequip.md). It has
 </td>
 <td>Bubble Pollen
 </td>
-<td>+1.15 to +1.3
+<td>+15% to +30%
 </td>
 <td>100%
 </td>
-<td>+1.2
+<td>+20%
 </td></tr>
 <tr>
 <td>Bee stat
 </td>
 <td>Mark Duration
 </td>
-<td>+1.05 to +1.15
+<td>+5% to +15%
 </td>
 <td>100%
 </td>
-<td>+1.09
+<td>+9%
 </td></tr>
 <tr>
 <td>Hive bonus
@@ -187,22 +187,22 @@ A **Bubble Light** is a [level](bond.md) 8 Beesmas [beequip](beequip.md). It has
 </td>
 <td>Bubble Pollen
 </td>
-<td>+1.15 to +1.3
+<td>+15% to +30%
 </td>
 <td>100%
 </td>
-<td>+1.22
+<td>+22%
 </td></tr>
 <tr>
 <td>Bee stat
 </td>
 <td>Mark Duration
 </td>
-<td>+1.05 to +1.15
+<td>+5% to +15%
 </td>
 <td>100%
 </td>
-<td>+1.1
+<td>+10%
 </td></tr>
 <tr>
 <td>Hive bonus
@@ -259,22 +259,22 @@ A **Bubble Light** is a [level](bond.md) 8 Beesmas [beequip](beequip.md). It has
 </td>
 <td>Bubble Pollen
 </td>
-<td>+1.15 to +1.3
+<td>+15% to +30%
 </td>
 <td>100%
 </td>
-<td>+1.23
+<td>+23%
 </td></tr>
 <tr>
 <td>Bee stat
 </td>
 <td>Mark Duration
 </td>
-<td>+1.05 to +1.15
+<td>+5% to +15%
 </td>
 <td>100%
 </td>
-<td>+1.1
+<td>+10%
 </td></tr>
 <tr>
 <td>Hive bonus
@@ -331,22 +331,22 @@ A **Bubble Light** is a [level](bond.md) 8 Beesmas [beequip](beequip.md). It has
 </td>
 <td>Bubble Pollen
 </td>
-<td>+1.15 to +1.3
+<td>+15% to +30%
 </td>
 <td>100%
 </td>
-<td>+1.25
+<td>+25%
 </td></tr>
 <tr>
 <td>Bee stat
 </td>
 <td>Mark Duration
 </td>
-<td>+1.05 to +1.15
+<td>+5% to +15%
 </td>
 <td>100%
 </td>
-<td>+1.12
+<td>+12%
 </td></tr>
 <tr>
 <td>Hive bonus
@@ -403,22 +403,22 @@ A **Bubble Light** is a [level](bond.md) 8 Beesmas [beequip](beequip.md). It has
 </td>
 <td>Bubble Pollen
 </td>
-<td>+1.15 to +1.3
+<td>+15% to +30%
 </td>
 <td>100%
 </td>
-<td>+1.26
+<td>+26%
 </td></tr>
 <tr>
 <td>Bee stat
 </td>
 <td>Mark Duration
 </td>
-<td>+1.05 to +1.15
+<td>+5% to +15%
 </td>
 <td>100%
 </td>
-<td>+1.12
+<td>+12%
 </td></tr>
 <tr>
 <td>Hive bonus
@@ -434,115 +434,117 @@ A **Bubble Light** is a [level](bond.md) 8 Beesmas [beequip](beequip.md). It has
 
 ///
 
-### Wax upgrades
+### Max possible stats
 
-*Each upgrade a wax rolls picks one entry below, weighted by its share of the pool at that potential. Caustic-only entries can only come from Caustic or Debug Wax. An entry leaves the pool once it reaches its max picks.*
+*A beequip takes 5 waxes, and a failed wax still uses a slot. Soft and Hard Wax give at most 10 upgrade rolls. Caustic Wax and Debug Wax give 4 rolls each, so 5 of them give 20 rolls and can also pick Caustic-only upgrades; Debug Wax always succeeds, while Caustic only succeeds 25% of the time and destroys the beequip when it fails. Every roll picks one upgrade at random, and an upgrade stops being picked once it reaches its max picks.*
+
+*<b>Best base value</b> is the top roll before any wax, with how often a roll lands on it at 1 ★ and 5 ★. <b>Realistic max</b> is the best you can expect to actually see: the most picks of that upgrade that about 1 in 1,000 fully waxed 5 ★ beequips get, each at its top value. <b>Absolute ceiling</b> is the most the game allows, with every roll landing on that upgrade up to its max picks. Where it is higher than the realistic max, players are very unlikely to ever see it.*
 
 <table class="article-table">
 <tbody><tr>
-<th>Upgrade
+<th>Stat
+</th>
+<th>Best base value
+</th>
+<th>Per wax pick
 </th>
 <th>Max picks
 </th>
-<th>Caustic only
+<th>Realistic max, Soft/Hard Wax (10 rolls)
 </th>
-<th>Value per pick
+<th>Realistic max, Caustic/Debug Wax (20 rolls)
 </th>
-<th>Weight at 1 ★
-</th>
-<th>Weight at 3 ★
-</th>
-<th>Weight at 5 ★
+<th>Absolute ceiling (20 rolls)
 </th></tr>
 <tr>
 <td>Convert Amount
 </td>
+<td>+50<br/><small>Top roll: 1 in 2,530 at 1 ★, 12% at 5 ★</small>
+</td>
+<td>+2 to +6<br/><small>Picked 74% → 58% of rolls (1 ★ → 5 ★)</small>
+</td>
 <td>20
 </td>
-<td>
+<td>+110
 </td>
-<td>+2 to +6
+<td>+158
 </td>
-<td>74%
-</td>
-<td>65%
-</td>
-<td>58%
+<td>+170
 </td></tr>
 <tr>
 <td>Movespeed
 </td>
+<td>+5<br/><small>Top roll: 4.4% at 1 ★, 60% at 5 ★</small>
+</td>
+<td>+1<br/><small>Picked 4.44% → 5.85% of rolls (1 ★ → 5 ★)</small>
+</td>
 <td>5
 </td>
-<td>
+<td>+9
 </td>
-<td>+1
+<td>+10
 </td>
-<td>4%
-</td>
-<td>5%
-</td>
-<td>6%
+<td>+10
 </td></tr>
 <tr>
 <td>Bubble Pollen
 </td>
+<td>+30%<br/><small>Top roll: 1 in 1,420 at 1 ★, 15% at 5 ★</small>
+</td>
+<td>+1% to +3%<br/><small>Picked 9.62% → 15% of rolls (1 ★ → 5 ★)</small>
+</td>
 <td>10
 </td>
-<td>
+<td>+48%
 </td>
-<td>+0.01 to +0.03
+<td>+57%
 </td>
-<td>10%
-</td>
-<td>12%
-</td>
-<td>15%
+<td>+60%
 </td></tr>
 <tr>
 <td>Mark Duration
 </td>
+<td>+15%<br/><small>Top roll: 0.16% at 1 ★, 20% at 5 ★</small>
+</td>
+<td>+1%<br/><small>Picked 9.62% → 15% of rolls (1 ★ → 5 ★)</small>
+</td>
 <td>10
 </td>
-<td>
+<td>+21%
 </td>
-<td>+0.01
+<td>+24%
 </td>
-<td>10%
-</td>
-<td>12%
-</td>
-<td>15%
+<td>+25%
 </td></tr>
 <tr>
 <td>Bubble Pollen (hive bonus)
 </td>
+<td>+1%
+</td>
+<td>+1%<br/><small>Picked 2.07% → 5.85% of rolls (1 ★ → 5 ★)</small>
+</td>
 <td>10
 </td>
-<td>
+<td>+5%
 </td>
-<td>+0.01
+<td>+6%
 </td>
-<td>2%
-</td>
-<td>4%
-</td>
-<td>6%
+<td>+11%
 </td></tr>
 <tr>
 <td>Bee Movespeed (hive bonus)
 </td>
+<td>Only from wax
+</td>
+<td>+1%<br/><small>Picked 0.21% → 0.58% of rolls (1 ★ → 5 ★)</small>
+</td>
 <td>1
 </td>
-<td>
+<td>+1%
 </td>
-<td>+0.01
+<td>+1%
 </td>
-<td>0%
-</td>
-<td>0%
-</td>
-<td>1%
+<td>+1%
 </td></tr></tbody></table>
 
 ## Ways to Obtain

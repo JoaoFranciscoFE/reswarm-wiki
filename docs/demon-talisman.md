@@ -72,7 +72,7 @@ The **Demon Talisman** is a [level](bond.md) 13 [beequip](beequip.md). It has an
 
 <p class="beequip-meta"><b>Rarity:</b> Mythic · <b>Equip limit:</b> 1 · <b>Who can wear it:</b> level 13+; mutated; Red bees; bee types: Demon</p>
 
-*Stats and hive bonuses each roll on their own. Higher potential makes a stat more likely to appear and pulls its value towards the top of its range. The chances and averages below come from running the game's own roll code 5,000 times at each potential.*
+*Stats and hive bonuses each roll on their own. Higher potential makes a stat more likely to appear and pulls its value towards the top of its range. The chances and averages below come from running the game's own roll code 5,000 times at each potential. Bee stats that the game applies as a multiplier are shown as a %, the way the in-game tooltip shows them.*
 
 /// tab | 1 ★
 
@@ -93,33 +93,33 @@ The **Demon Talisman** is a [level](bond.md) 13 [beequip](beequip.md). It has an
 </td>
 <td>Bee Attack
 </td>
-<td>x1.5 to x1.7
+<td>+50% to +70%
 </td>
 <td>100%
 </td>
-<td>x1.57
+<td>+57%
 </td></tr>
 <tr>
 <td>Bee stat
 </td>
 <td>Gather Amount
 </td>
-<td>x1.5 to x1.7
+<td>+50% to +70%
 </td>
 <td>100%
 </td>
-<td>x1.571
+<td>+57.1%
 </td></tr>
 <tr>
 <td>Bee stat
 </td>
 <td>Ability Pollen
 </td>
-<td>x1.5 to x1.7
+<td>+50% to +70%
 </td>
 <td>100%
 </td>
-<td>x1.57
+<td>+57%
 </td></tr>
 <tr>
 <td>Bee stat
@@ -148,22 +148,22 @@ The **Demon Talisman** is a [level](bond.md) 13 [beequip](beequip.md). It has an
 </td>
 <td>Movespeed
 </td>
-<td>x0.6 to x0.7
+<td>−40% to −30%
 </td>
 <td>100%
 </td>
-<td>x0.635
+<td>−36.5%
 </td></tr>
 <tr>
 <td>Bee stat
 </td>
 <td>Energy
 </td>
-<td>x0.2 to x0.3
+<td>−80% to −70%
 </td>
 <td>100%
 </td>
-<td>x0.235
+<td>−76.5%
 </td></tr>
 <tr>
 <td>Hive bonus
@@ -275,33 +275,33 @@ The **Demon Talisman** is a [level](bond.md) 13 [beequip](beequip.md). It has an
 </td>
 <td>Bee Attack
 </td>
-<td>x1.5 to x1.7
+<td>+50% to +70%
 </td>
 <td>100%
 </td>
-<td>x1.59
+<td>+59%
 </td></tr>
 <tr>
 <td>Bee stat
 </td>
 <td>Gather Amount
 </td>
-<td>x1.5 to x1.7
+<td>+50% to +70%
 </td>
 <td>100%
 </td>
-<td>x1.59
+<td>+59%
 </td></tr>
 <tr>
 <td>Bee stat
 </td>
 <td>Ability Pollen
 </td>
-<td>x1.5 to x1.7
+<td>+50% to +70%
 </td>
 <td>100%
 </td>
-<td>x1.59
+<td>+59%
 </td></tr>
 <tr>
 <td>Bee stat
@@ -330,22 +330,22 @@ The **Demon Talisman** is a [level](bond.md) 13 [beequip](beequip.md). It has an
 </td>
 <td>Movespeed
 </td>
-<td>x0.6 to x0.7
+<td>−40% to −30%
 </td>
 <td>100%
 </td>
-<td>x0.645
+<td>−35.5%
 </td></tr>
 <tr>
 <td>Bee stat
 </td>
 <td>Energy
 </td>
-<td>x0.2 to x0.3
+<td>−80% to −70%
 </td>
 <td>100%
 </td>
-<td>x0.245
+<td>−75.5%
 </td></tr>
 <tr>
 <td>Hive bonus
@@ -457,33 +457,33 @@ The **Demon Talisman** is a [level](bond.md) 13 [beequip](beequip.md). It has an
 </td>
 <td>Bee Attack
 </td>
-<td>x1.5 to x1.7
+<td>+50% to +70%
 </td>
 <td>100%
 </td>
-<td>x1.609
+<td>+60.9%
 </td></tr>
 <tr>
 <td>Bee stat
 </td>
 <td>Gather Amount
 </td>
-<td>x1.5 to x1.7
+<td>+50% to +70%
 </td>
 <td>100%
 </td>
-<td>x1.609
+<td>+60.9%
 </td></tr>
 <tr>
 <td>Bee stat
 </td>
 <td>Ability Pollen
 </td>
-<td>x1.5 to x1.7
+<td>+50% to +70%
 </td>
 <td>100%
 </td>
-<td>x1.61
+<td>+61%
 </td></tr>
 <tr>
 <td>Bee stat
@@ -512,22 +512,22 @@ The **Demon Talisman** is a [level](bond.md) 13 [beequip](beequip.md). It has an
 </td>
 <td>Movespeed
 </td>
-<td>x0.6 to x0.7
+<td>−40% to −30%
 </td>
 <td>100%
 </td>
-<td>x0.655
+<td>−34.5%
 </td></tr>
 <tr>
 <td>Bee stat
 </td>
 <td>Energy
 </td>
-<td>x0.2 to x0.3
+<td>−80% to −70%
 </td>
 <td>100%
 </td>
-<td>x0.255
+<td>−74.5%
 </td></tr>
 <tr>
 <td>Hive bonus
@@ -639,33 +639,33 @@ The **Demon Talisman** is a [level](bond.md) 13 [beequip](beequip.md). It has an
 </td>
 <td>Bee Attack
 </td>
-<td>x1.5 to x1.7
+<td>+50% to +70%
 </td>
 <td>100%
 </td>
-<td>x1.63
+<td>+63%
 </td></tr>
 <tr>
 <td>Bee stat
 </td>
 <td>Gather Amount
 </td>
-<td>x1.5 to x1.7
+<td>+50% to +70%
 </td>
 <td>100%
 </td>
-<td>x1.629
+<td>+62.9%
 </td></tr>
 <tr>
 <td>Bee stat
 </td>
 <td>Ability Pollen
 </td>
-<td>x1.5 to x1.7
+<td>+50% to +70%
 </td>
 <td>100%
 </td>
-<td>x1.63
+<td>+63%
 </td></tr>
 <tr>
 <td>Bee stat
@@ -694,22 +694,22 @@ The **Demon Talisman** is a [level](bond.md) 13 [beequip](beequip.md). It has an
 </td>
 <td>Movespeed
 </td>
-<td>x0.6 to x0.7
+<td>−40% to −30%
 </td>
 <td>100%
 </td>
-<td>x0.665
+<td>−33.5%
 </td></tr>
 <tr>
 <td>Bee stat
 </td>
 <td>Energy
 </td>
-<td>x0.2 to x0.3
+<td>−80% to −70%
 </td>
 <td>100%
 </td>
-<td>x0.265
+<td>−73.5%
 </td></tr>
 <tr>
 <td>Hive bonus
@@ -821,33 +821,33 @@ The **Demon Talisman** is a [level](bond.md) 13 [beequip](beequip.md). It has an
 </td>
 <td>Bee Attack
 </td>
-<td>x1.5 to x1.7
+<td>+50% to +70%
 </td>
 <td>100%
 </td>
-<td>x1.65
+<td>+65%
 </td></tr>
 <tr>
 <td>Bee stat
 </td>
 <td>Gather Amount
 </td>
-<td>x1.5 to x1.7
+<td>+50% to +70%
 </td>
 <td>100%
 </td>
-<td>x1.65
+<td>+65%
 </td></tr>
 <tr>
 <td>Bee stat
 </td>
 <td>Ability Pollen
 </td>
-<td>x1.5 to x1.7
+<td>+50% to +70%
 </td>
 <td>100%
 </td>
-<td>x1.649
+<td>+64.9%
 </td></tr>
 <tr>
 <td>Bee stat
@@ -876,22 +876,22 @@ The **Demon Talisman** is a [level](bond.md) 13 [beequip](beequip.md). It has an
 </td>
 <td>Movespeed
 </td>
-<td>x0.6 to x0.7
+<td>−40% to −30%
 </td>
 <td>100%
 </td>
-<td>x0.676
+<td>−32.4%
 </td></tr>
 <tr>
 <td>Bee stat
 </td>
 <td>Energy
 </td>
-<td>x0.2 to x0.3
+<td>−80% to −70%
 </td>
 <td>100%
 </td>
-<td>x0.275
+<td>−72.5%
 </td></tr>
 <tr>
 <td>Hive bonus
@@ -984,191 +984,270 @@ The **Demon Talisman** is a [level](bond.md) 13 [beequip](beequip.md). It has an
 
 ///
 
-### Wax upgrades
+### Max possible stats
 
-*Each upgrade a wax rolls picks one entry below, weighted by its share of the pool at that potential. Caustic-only entries can only come from Caustic or Debug Wax. An entry leaves the pool once it reaches its max picks.*
+*A beequip takes 5 waxes, and a failed wax still uses a slot. Soft and Hard Wax give at most 10 upgrade rolls. Caustic Wax and Debug Wax give 4 rolls each, so 5 of them give 20 rolls and can also pick Caustic-only upgrades; Debug Wax always succeeds, while Caustic only succeeds 25% of the time and destroys the beequip when it fails. Every roll picks one upgrade at random, and an upgrade stops being picked once it reaches its max picks.*
+
+*<b>Best base value</b> is the top roll before any wax, with how often a roll lands on it at 1 ★ and 5 ★. <b>Realistic max</b> is the best you can expect to actually see: the most picks of that upgrade that about 1 in 1,000 fully waxed 5 ★ beequips get, each at its top value. <b>Absolute ceiling</b> is the most the game allows, with every roll landing on that upgrade up to its max picks. Where it is higher than the realistic max, players are very unlikely to ever see it.*
 
 <table class="article-table">
 <tbody><tr>
-<th>Upgrade
+<th>Stat
+</th>
+<th>Best base value
+</th>
+<th>Per wax pick
 </th>
 <th>Max picks
 </th>
-<th>Caustic only
+<th>Realistic max, Soft/Hard Wax (10 rolls)
 </th>
-<th>Value per pick
+<th>Realistic max, Caustic/Debug Wax (20 rolls)
 </th>
-<th>Weight at 1 ★
-</th>
-<th>Weight at 3 ★
-</th>
-<th>Weight at 5 ★
+<th>Absolute ceiling (20 rolls)
 </th></tr>
 <tr>
 <td>Bee Attack
 </td>
+<td>+70%<br/><small>Top roll: 1 in 2,530 at 1 ★, 12% at 5 ★</small>
+</td>
+<td>+3% to +5%<br/><small>Picked 15% → 12% of rolls (1 ★ → 5 ★)</small>
+</td>
 <td>5
 </td>
-<td>
+<td>+95%
 </td>
-<td>+0.03 to +0.05
+<td>+95%
 </td>
-<td>15%
-</td>
-<td>14%
-</td>
-<td>12%
+<td>+95%
 </td></tr>
 <tr>
 <td>Gather Amount
 </td>
+<td>+70%<br/><small>Top roll: 1 in 2,530 at 1 ★, 12% at 5 ★</small>
+</td>
+<td>+4% to +6%<br/><small>Picked 7.79% → 6.17% of rolls (1 ★ → 5 ★)</small>
+</td>
 <td>15
 </td>
-<td>
+<td>+94%
 </td>
-<td>+0.04 to +0.06
+<td>+100%
 </td>
-<td>8%
-</td>
-<td>7%
-</td>
-<td>6%
+<td>+160%
 </td></tr>
 <tr>
 <td>Ability Pollen
 </td>
+<td>+70%<br/><small>Top roll: 1 in 2,530 at 1 ★, 12% at 5 ★</small>
+</td>
+<td>+4% to +6%<br/><small>Picked 7.79% → 6.17% of rolls (1 ★ → 5 ★)</small>
+</td>
 <td>15
 </td>
-<td>
+<td>+94%
 </td>
-<td>+0.04 to +0.06
+<td>+100%
 </td>
-<td>8%
-</td>
-<td>7%
-</td>
-<td>6%
+<td>+160%
 </td></tr>
 <tr>
 <td>Gathering Flames Chance
 </td>
+<td>+15%<br/><small>Top roll: 0.65% at 1 ★, 33% at 5 ★</small>
+</td>
+<td>+1% to +2%<br/><small>Picked 11% → 8.54% of rolls (1 ★ → 5 ★)</small>
+</td>
 <td>3
 </td>
-<td>
+<td>+21%
 </td>
-<td>+0.01 to +0.02
+<td>+21%
 </td>
-<td>11%
-</td>
-<td>10%
-</td>
-<td>9%
+<td>+21%
 </td></tr>
 <tr>
 <td>Super-Crit Chance
 </td>
+<td>+10%<br/><small>Top roll: 0.65% at 1 ★, 33% at 5 ★</small>
+</td>
+<td>+2%<br/><small>Picked 4.69% → 3.71% of rolls (1 ★ → 5 ★)</small>
+</td>
 <td>10
 </td>
-<td>
+<td>+16%
 </td>
-<td>+0.02
+<td>+18%
 </td>
-<td>5%
+<td>+30%
+</td></tr>
+<tr>
+<td>Movespeed
 </td>
-<td>4%
+<td>−30%<br/><small>Top roll: 0.16% at 1 ★, 20% at 5 ★</small>
 </td>
-<td>4%
+<td>—
+</td>
+<td>—
+</td>
+<td>−30%
+</td>
+<td>−30%
+</td>
+<td>−30%
+</td></tr>
+<tr>
+<td>Energy
+</td>
+<td>−70%<br/><small>Top roll: 0.16% at 1 ★, 20% at 5 ★</small>
+</td>
+<td>—
+</td>
+<td>—
+</td>
+<td>−70%
+</td>
+<td>−70%
+</td>
+<td>−70%
 </td></tr>
 <tr>
 <td>Red Bomb Pollen (hive bonus)
 </td>
+<td>+13%<br/><small>Top roll: 0.39% at 1 ★, 29% at 5 ★</small>
+</td>
+<td>+1% to +2%<br/><small>Picked 21% → 22% of rolls (1 ★ → 5 ★)</small>
+</td>
 <td>11
 </td>
-<td>
+<td>+27%
 </td>
-<td>+0.01 to +0.02
+<td>+33%
 </td>
-<td>21%
-</td>
-<td>22%
-</td>
-<td>22%
+<td>+35%
 </td></tr>
 <tr>
 <td>Flame Pollen (hive bonus)
 </td>
+<td>+13%<br/><small>Top roll: 0.39% at 1 ★, 29% at 5 ★</small>
+</td>
+<td>+1% to +2%<br/><small>Picked 21% → 22% of rolls (1 ★ → 5 ★)</small>
+</td>
 <td>11
 </td>
-<td>
+<td>+27%
 </td>
-<td>+0.01 to +0.02
+<td>+33%
 </td>
-<td>21%
-</td>
-<td>22%
-</td>
-<td>22%
+<td>+35%
 </td></tr>
 <tr>
 <td>Instant Red Bomb Conversion (hive bonus)
 </td>
+<td>+9%<br/><small>Top roll: 1.6% at 1 ★, 47% at 5 ★</small>
+</td>
+<td>+1%<br/><small>Picked 6.1% → 9.29% of rolls (1 ★ → 5 ★)</small>
+</td>
 <td>5
 </td>
-<td>
+<td>+14%
 </td>
-<td>+0.01
+<td>+14%
 </td>
-<td>6%
-</td>
-<td>8%
-</td>
-<td>9%
+<td>+14%
 </td></tr>
 <tr>
 <td>Instant Flame Conversion (hive bonus)
 </td>
+<td>+9%<br/><small>Top roll: 1.6% at 1 ★, 47% at 5 ★</small>
+</td>
+<td>+1%<br/><small>Picked 6.1% → 9.29% of rolls (1 ★ → 5 ★)</small>
+</td>
 <td>5
 </td>
-<td>
+<td>+14%
 </td>
-<td>+0.01
+<td>+14%
 </td>
-<td>6%
+<td>+14%
+</td></tr>
+<tr>
+<td>Instant Demon Bee Conversion (hive bonus)
 </td>
-<td>8%
+<td>+10%
 </td>
-<td>9%
+<td>—
+</td>
+<td>—
+</td>
+<td>+10%
+</td>
+<td>+10%
+</td>
+<td>+10%
+</td></tr>
+<tr>
+<td>Max Bee Energy (hive bonus)
+</td>
+<td>−20%<br/><small>Top roll: 0.54% at 1 ★, 33% at 5 ★</small>
+</td>
+<td>—
+</td>
+<td>—
+</td>
+<td>−20%
+</td>
+<td>−20%
+</td>
+<td>−20%
+</td></tr>
+<tr>
+<td>Player Movespeed (hive bonus)
+</td>
+<td>−5
+</td>
+<td>—
+</td>
+<td>—
+</td>
+<td>−5
+</td>
+<td>−5
+</td>
+<td>−5
+</td></tr>
+<tr>
+<td>Blue Pollen (hive bonus)
+</td>
+<td>x0.5
+</td>
+<td>—
+</td>
+<td>—
+</td>
+<td>x0.5
+</td>
+<td>x0.5
+</td>
+<td>x0.5
 </td></tr>
 <tr>
 <td>Super-Crit Power (hive bonus)
 </td>
+<td>Only from wax
+</td>
+<td>+2% (Caustic only)<br/><small>Picked 2.56% → 6.91% of rolls (1 ★ → 5 ★)</small>
+</td>
 <td>5
 </td>
-<td>Yes
+<td>—
 </td>
-<td>+0.02
+<td>+10%
 </td>
-<td>3%
-</td>
-<td>4%
-</td>
-<td>7%
-</td></tr>
-<tr>
-<td>Inferno ability
-</td>
-<td>1
-</td>
-<td>Yes
-</td>
-<td>+1
-</td>
-<td>0%
-</td>
-<td>0%
-</td>
-<td>0%
+<td>+10%
 </td></tr></tbody></table>
+
+<p class="beequip-note"><b>Caustic-only ability upgrade:</b> grants the bee the ability <b>Inferno</b> (Max 1).</p>
 
 ## Ways to obtain
 
