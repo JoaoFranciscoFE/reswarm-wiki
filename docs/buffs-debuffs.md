@@ -745,6 +745,21 @@ Buffs that can be obtained from completing quests from quest givers.
 <td><span style="border-bottom:1px dotted gray;cursor:help;" title="100%">+20% Ability Duplication Chance, x3 Duped Ability Pollen, +90% Instant Duped Ability Conversion</span>
 </td>
 <td>When the player steps away from the field, or when the corruption ends
+</td></tr>
+<tr>
+<td><div id="BBM_Blessing">BBM's Blessing</div>
+<p>(Bubble Bee Man's Blessing)
+</p>
+</td>
+<td><img alt="BBM's Blessing" height="50" src="img/BBM_Blessing.png" width="50"/>
+</td>
+<td>Reward for completing <a href="bubble-bee-man.html#bbm-isnt-sorry">Bubble Bee Man's</a> Beesmas quest "BBM isn't sorry", which unlocks after finishing all 15 other Beesmas 2025 quests.
+</td>
+<td>x2 Pollen, x100 <a href="system-page.html#Hive_Convert_Rate">Convert Rate at Hive</a>, x20 Capacity, x50 Blue Pollen, x10 Pollen From Bubbles, x2.5 Goo, x10 Honey at Hive, +25% Instant Blue Conversion
+</td>
+<td>Does not stack
+</td>
+<td>Permanent (kept when rejoining and rebirthing)
 </td></tr></tbody></table>
 
 ### From Items

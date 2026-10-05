@@ -64,6 +64,17 @@ Bubble Bee Man did not have a quest for Beesmas 2025. Instead, if the player com
 </p>
 </td></tr></tbody></table>
 
+## BBM isn't sorry
+
+After finishing all 15 other Beesmas 2025 quests, Bubble Bee Man gives the quest "BBM isn't sorry". It has 40 tasks, and its rewards are:
+
+* 67,676,676,676 [Honey](honey.md)
+* 67 [Box-O-Frogs](box-o-frogs.md)
+* [BBM's Blessing](buffs-debuffs.md#BBM_Blessing), a permanent buff: x2 Pollen, x100 Convert Rate at Hive, x20 Capacity, x50 Blue Pollen, x10 Pollen From Bubbles, x2.5 Goo, x10 Honey at Hive and +25% Instant Blue Conversion
+* 1 Custom Cub Skin
+
+Completing the same 15 quests also lets you claim his separate Beesmas reward, which does not include the Blessing.
+
 ## Quest (Near Panda Bear)
 
 This was removed from the game.
