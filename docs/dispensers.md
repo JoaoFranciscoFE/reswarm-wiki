@@ -13,49 +13,21 @@ To use a dispenser, simply stand on the pad in front of the dispenser to use it.
 
 Unlike in Bee Swarm Simulator, the Honey, Treat, Blueberry and Strawberry Dispensers do not need Bee Swarm Simulator Club membership in Re://:Swarm.
 
-## Dispenser Types
+## Dispensers by Area
 
-There are currently 14 dispensers, plus 2 bee claimers:
+There are currently 14 dispensers, plus 2 bee claimers that turn an item into a bee egg once. Ticket dispensers cost [tickets](ticket.md) each use; the rest are free on a cooldown.
 
-### Free Dispensers
-
-Free Dispensers can be used by any player without spending anything, on a cooldown.
-They are the:
-
-<tabview>
-Blue Extract Dispenser
-Blueberry Dispenser
-Coconut Dispenser
-Free Ant Pass Dispenser
-Free Robo Pass Dispenser
-Free Royal Jelly Dispenser
-Glue Dispenser
-Honey Dispenser
-Red Extract Dispenser
-Strawberry Dispenser
-Treat Dispenser
-</tabview>
-
-### Ticket Dispensers
-
-Ticket Dispensers require the player to spend [tickets](ticket.md) to use them.
-They are the:
-
-<tabview>
-Ant Pass Dispenser
-Robo Pass Dispenser
-Royal Jelly Dispenser
-</tabview>
-
-### Bee Claimers
-
-Bee Claimers turn an item into a bee egg, once per player.
-They are the:
-
-<tabview>
-Gummy Bee Claimer
-Vicious Bee Claimer
-</tabview>
+| Area | Dispensers |
+|---|---|
+| Starter Zone | [Honey Dispenser](honey-dispenser.md), [Royal Jelly Dispenser](royal-jelly-dispenser.md) (tickets), [Free Royal Jelly Dispenser](free-royal-jelly-dispenser.md) |
+| [Blue HQ](blue-hq.md) | [Blueberry Dispenser](blueberry-dispenser.md), [Blue Extract Dispenser](blue-extract-dispenser.md) |
+| [Red HQ](red-hq.md) | [Strawberry Dispenser](strawberry-dispenser.md), [Red Extract Dispenser](red-extract-dispenser.md) |
+| 5 Bee Zone | [Vicious Bee Claimer](vicious-bee-egg-claim.md) |
+| 10 Bee Zone | [Treat Dispenser](treat-dispenser.md) |
+| 20 Bee Zone | [Ant Pass Dispenser](ant-pass-dispenser.md) (tickets), [Free Ant Pass Dispenser](free-ant-pass-dispenser.md), [Gummy Bee Claimer](gummy-bee-egg-claim.md) |
+| 30 Bee Zone | [Robo Pass Dispenser](robo-pass-dispenser.md) (tickets), [Free Robo Pass Dispenser](free-robo-pass-dispenser.md) |
+| 35 Bee Zone | [Coconut Dispenser](coconut-dispenser.md), in the [Coconut Cave](coconut-cave.md) |
+| [Gummy Bear's Lair](gummy-bear-s-lair.md) | [Glue Dispenser](glue-dispenser.md) |
 
 ## Trivia
 
