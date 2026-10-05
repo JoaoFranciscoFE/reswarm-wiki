@@ -5,6 +5,8 @@ tags: ["Update Logs", "Re://:Swarm"]
 
 # Painter Bee update
 
+![Painter Bee update](img/Painter_Bee_Event.png){ .update-log-icon }
+
 **Released:** October 2, 2026
 
 The [Painter Bee Event](painter-bee-event.md): a new bee, new flowers, a new wax and a new Puffshroom tier.

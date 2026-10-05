@@ -241,3 +241,7 @@ figure img { max-width: 100%; height: auto; }
   .md-typeset table.infobox { float: none !important; display: block; width: 100% !important; overflow-x: auto; margin-left: 0 !important; margin-right: 0 !important; }
   .md-typeset table.infobox img { max-width: 100%; height: auto; }
 }
+
+/* Update log page icon */
+.md-typeset img.update-log-icon { float: right; width: 8rem; height: 8rem; object-fit: contain; margin: 0 0 1em 1.2em; }
+@media screen and (max-width: 44.9375em) { .md-typeset img.update-log-icon { width: 5rem; height: 5rem; } }

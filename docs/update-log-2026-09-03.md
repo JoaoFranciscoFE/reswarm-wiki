@@ -5,6 +5,8 @@ tags: ["Update Logs", "Re://:Swarm"]
 
 # Crafting and planters
 
+![Crafting and planters](img/Marshmallow_Bee.png){ .update-log-icon }
+
 **Released:** September 3, 2026
 
 Craftable Marshmallow Bee and Debug Wax, faster converters and glitter buffs.

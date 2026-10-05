@@ -5,6 +5,8 @@ tags: ["Update Logs", "Re://:Swarm"]
 
 # Treat amounts
 
+![Treat amounts](img/Treat.png){ .update-log-icon }
+
 **Released:** October 4, 2026
 
 Bigger numbers are easier to type when feeding treats.

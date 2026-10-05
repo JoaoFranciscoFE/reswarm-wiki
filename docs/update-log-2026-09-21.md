@@ -5,6 +5,8 @@ tags: ["Update Logs", "Re://:Swarm"]
 
 # Honeycomb Blueprint upgrades
 
+![Honeycomb Blueprint upgrades](img/Honeycomb_Blueprint.png){ .update-log-icon }
+
 **Released:** September 21, 2026
 
 The Honeycomb Blueprint gets leveling, mutation rolling and hive slot buying.

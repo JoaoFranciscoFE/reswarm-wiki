@@ -5,6 +5,8 @@ tags: ["Update Logs", "Re://:Swarm"]
 
 # Puffshroom changes
 
+![Puffshroom changes](img/Supreme_Puffshroom.png){ .update-log-icon }
+
 **Released:** September 14, 2026
 
 ## Changes

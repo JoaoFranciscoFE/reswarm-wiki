@@ -5,6 +5,8 @@ tags: ["Update Logs", "Re://:Swarm"]
 
 # Quality of life
 
+![Quality of life](img/Sprinklers.png){ .update-log-icon }
+
 **Released:** September 1, 2026
 
 Auto sprinklers, auto gifted basic eggs, quest chaining and balance changes.

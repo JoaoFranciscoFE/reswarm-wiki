@@ -5,6 +5,8 @@ tags: ["Update Logs", "Re://:Swarm"]
 
 # UPDATE NAME
 
+![UPDATE NAME](img/ICON.png){ .update-log-icon }
+
 **Released:** DATE
 
 Short summary of the update.

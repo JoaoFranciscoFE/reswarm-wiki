@@ -5,6 +5,8 @@ tags: ["Update Logs", "Re://:Swarm"]
 
 # Early rebirth nerfs
 
+![Early rebirth nerfs](img/Bloom.png){ .update-log-icon }
+
 **Released:** September 4, 2026
 
 Two nerfs to stop players almost instantly skipping early rebirths.

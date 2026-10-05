@@ -5,6 +5,8 @@ tags: ["Update Logs", "Re://:Swarm"]
 
 # Bee levels, sticker inventory and fixes
 
+![Bee levels, sticker inventory and fixes](img/Sticker.png){ .update-log-icon }
+
 **Released:** October 3, 2026
 
 A display change for bee levels and a few fixes.

@@ -5,6 +5,8 @@ tags: ["Update Logs", "Re://:Swarm"]
 
 # Better start
 
+![Better start](img/Belt_Pocket.png){ .update-log-icon }
+
 **Released:** September 12, 2026
 
 ## Changes

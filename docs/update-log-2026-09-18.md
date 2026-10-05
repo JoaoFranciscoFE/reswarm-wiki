@@ -5,6 +5,8 @@ tags: ["Update Logs", "Re://:Swarm"]
 
 # Mortar Bee update
 
+![Mortar Bee update](img/Mortar_Bee.png){ .update-log-icon }
+
 **Released:** September 18, 2026
 
 A new Mythic bee, new bag models, the Honeycomb Blueprint and many fixes.
