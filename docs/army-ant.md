@@ -5,12 +5,14 @@ tags: ["Mobs", "Ant Challenge"]
 
 # Army Ant
 
-![Army Ant](img/Army_Ant.png){ align=right width=150 }
 
 An **Army Ant** is one of five mobs that is part of a family called [Ants](ants.md) that are exclusively found in the [Ant Challenge](ant-challenge.md), past the [Ant Gate](ant-gate.md).
 
 <aside class="portable-infobox pi-background pi-border-color pi-theme-wikia pi-layout-stacked" role="region">
 <h2 class="pi-item pi-item-spacing pi-title pi-secondary-background" data-source="title">Army Ant</h2>
+<figure class="pi-item pi-image">
+<img alt="Army Ant" src="img/mobs/Army_Ant.png"/>
+</figure>
 <div class="pi-item pi-data pi-item-spacing pi-border-color" data-source="location">
 <h3 class="pi-data-label pi-secondary-font">Location</h3>
 <div class="pi-data-value pi-font"><a href="ant-field.html">Ant Field</a> while the <a href="ant-challenge.html">Ant Challenge</a> is active.</div>

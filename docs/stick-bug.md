@@ -5,10 +5,11 @@ tags: ["Mobs", "Bosses", "Multiplayer Bosses", "NPC", "Quest Giver", "Stick Bug 
 
 # Stick Bug
 
-![Stick Bug](img/Stick_Bug.png){ align=right width=150 }
-
 <aside class="portable-infobox pi-background pi-border-color pi-theme-wikia pi-layout-stacked" role="region">
 <h2 class="pi-item pi-item-spacing pi-title pi-secondary-background" data-source="title">Stick Bug</h2>
+<figure class="pi-item pi-image">
+<img alt="Stick Bug" src="img/mobs/Stick_Bug.png"/>
+</figure>
 <div class="pi-item pi-data pi-item-spacing pi-border-color" data-source="location">
 <h3 class="pi-data-label pi-secondary-font">Location</h3>
 <div class="pi-data-value pi-font">On top of the tallest mushroom in the <a href="mushroom-field.html">Mushroom Field</a>.</div>

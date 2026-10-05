@@ -5,6 +5,8 @@ tags: ["Mobs", "Stick Bug Challenge"]
 
 # Stick Nymph
 
+![Stick Nymph](img/mobs/Stick_Nymph.png){ align=right width=180 }
+
 
 
 

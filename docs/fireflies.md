@@ -5,6 +5,8 @@ tags: ["Mobs", "Passive Mobs"]
 
 # Fireflies
 
+![Fireflies](img/mobs/Firefly.png){ align=right width=180 }
+
 
 
 

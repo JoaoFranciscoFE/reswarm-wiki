@@ -5,12 +5,14 @@ tags: ["Mobs", "Robo Bear Challenge", "Robo Bear"]
 
 # Golden Cogmower
 
-![Golden Cogmower](img/Golden_Cogmower.png){ align=right width=150 }
 
 *Not to be confused with [Cogmowers](cogmower.md), the more common counterparts of Golden Cogmowers or [Party Cogmowers](party-cogmower.md), the Beesmas edition of Cogmowers.*
 
 <aside class="portable-infobox pi-background pi-border-color pi-theme-wikia pi-layout-stacked" role="region">
 <h2 class="pi-item pi-item-spacing pi-title pi-secondary-background" data-source="title">Golden Cogmower</h2>
+<figure class="pi-item pi-image">
+<img alt="Golden Cogmower" src="img/mobs/Golden_Cogmower.png"/>
+</figure>
 <div class="pi-item pi-data pi-item-spacing pi-border-color" data-source="location">
 <h3 class="pi-data-label pi-secondary-font">Location</h3>
 <div class="pi-data-value pi-font"><a href="clover-field.html">Clover Field</a>, <a href="pineapple-patch.html">Pineapple Patch</a>, <a href="pumpkin-patch.html">Pumpkin Patch</a> or <a href="mountain-top-field.html">Mountain Top Field</a> while the <a href="robo-bear-challenge.html">Robo Bear Challenge</a> is active.</div>

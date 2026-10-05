@@ -219,6 +219,7 @@ figure img { max-width: 100%; height: auto; }
 .md-typeset .portable-infobox .pi-header:last-child { display: none; }
 .md-typeset .portable-infobox .pi-image { display: block; margin: 0; padding: .8em 0; text-align: center; }
 .md-typeset .portable-infobox .pi-image img { display: block; margin: 0 auto; width: 150px; height: 150px; object-fit: contain; }
+.md-typeset .portable-infobox figure.pi-image { width: auto; max-width: none; }
 .md-typeset .portable-infobox .pi-data { padding: .45em .8em; border-top: 1px solid #263738; }
 .md-typeset .portable-infobox .pi-data-label { margin: 0 0 .15em; font-size: .72rem; font-weight: 700; }
 .md-typeset .portable-infobox .pi-data-value p { margin: .4em 0 0; }
