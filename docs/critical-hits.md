@@ -12,7 +12,7 @@ This piece of content recently got an update.
 We are in the process of catching up to the game. Please feel free to help us by updating the following information:  
 The #Trivia stats need updating.
 
-**Critical Hits** are moments of increased [pollen](pollen.md) collection and attack damage, doubled at its base power. Their frequency is increased with higher [Critical Chance](system-page.md#Critical_Chance), and their strength is increased by greater [Critical Power](system-page.md#Critical_Power). A critical hit will have the pollen amount/attack damage shake and change color, similar to the animation below.
+**Critical Hits** are moments of increased [pollen](pollen.md) collection and attack damage, doubled at its base power. Their frequency is increased with higher [Critical Chance](system-page.md#Critical_Chance), and their strength is increased by greater [Critical Power](system-page.md#Critical_Power). A critical hit will have the pollen amount/attack damage shake and change color, similar to the animation below. Some critical hits become even stronger [Super-Crits](#super-crit).
 
 <div class="crit-demo" markdown>
 <span class="crit-num crit-pollen">+5,627!</span>
@@ -187,9 +187,15 @@ There are certain upgrades that can be bought with cogs during the Robo Bear Cha
 * Epic Upgrades:
   * Client-Side: This upgrade gives x0.75 Critical Power.
 
-## Super-Crit
+## Super-Crit { #super-crit }
 
 When performing a critical hit, there is a chance to perform a **Super-Crit** (purple version of a critical hit) which doubles the pollen collection while also instantly converting the pollen collected, while for the attack damage is increased by roughly 33% of the player's Super-Crit Power. The frequency for a Super-Crit is increased with higher Super-Crit Chance, and their strength is increased by greater Super-Crit Power.
+
+<div class="crit-demo" markdown>
+<span class="crit-num crit-super">+28,140!!</span>
+
+*The animation of a Super-Crit.*
+</div>
 
 ### Super-Crit Chance
 
@@ -211,6 +217,7 @@ When performing a critical hit, there is a chance to perform a **Super-Crit** (p
 
 * Individual Bee:
   * [Pink Shades](pink-shades.md) can give from +10% Super-Crit Chance to +15% Super-Crit Chance. Using waxes can increase it to +40% Super-Crit Chance.
+  * The Six-Point Shuriken (for a mutated Gifted Ninja Bee) gives +15% to +20% Super-Crit Chance.
 * Hive Bonus:
   * [Pink Shades](pink-shades.md) can give +1% Super-Crit Chance as a hive bonus.
 
@@ -234,6 +241,7 @@ When performing a critical hit, there is a chance to perform a **Super-Crit** (p
 
 * Individual Bee:
   * A [Camo Bandana](camo-bandana.md) can give up to +14% Super-Crit Power.
+  * The Six-Point Shuriken (for a mutated Gifted Ninja Bee) gives +75% to +110% Super-Crit Power.
 * Hive Bonus:
   * A [Whistle](whistle.md) can give from +1% Super-Crit Power to +20% Super-Crit Power from waxing.
   * [Pink Shades](pink-shades.md) from +2% Super-Crit Power to +30% Super-Crit Power from waxing.
@@ -242,7 +250,7 @@ When performing a critical hit, there is a chance to perform a **Super-Crit** (p
 ### Amulets
 
 * [Cog Amulets](cog-amulet.md):
-  * The Diamond Cog Amulet can give from +10% Super-Crit Power up to +12% Super-Crit Power.
+  * The Diamond Cog Amulet can give from +10% Super-Crit Power up to +15% Super-Crit Power.
   * The Supreme Cog Amulet can give from +15% Super-Crit Power up to +25% Super-Crit Power.
 
 ### Buffs
