@@ -19,8 +19,9 @@ def _render(m):
     if lines and lines[-1].lower().startswith('note:'):
         note = lines.pop()[5:].strip()
     cols = max(len(l) for l in lines)
-    # each tile is a flower decal; mix white, red and blue so it reads like a field
-    cells = ''.join(f'<i class="{_cls.get(c, "off")} f{(x * 5 + y * 3 + x * y) % 3}"></i>'
+    # each tile is one of the game's flower decals (white/red/blue, 1-3 flowers),
+    # mixed in a fixed scatter so the grid reads like a field
+    cells = ''.join(f'<i class="{_cls.get(c, "off")} f{(x * 5 + y * 3 + x * y) % 3}{(x * 2 + y * 7 + x * y) % 3 + 1}"></i>'
                     for y, l in enumerate(lines) for x, c in enumerate(l.ljust(cols, '.')))
     out = f'<div class="tool-pattern" style="--cols:{cols}">{cells}</div>'
     key = '<span class="on"></span>collected'

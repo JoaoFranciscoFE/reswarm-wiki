@@ -275,17 +275,24 @@ figure img { max-width: 100%; height: auto; }
 .md-typeset table.infobox td.templateToolHeader { background: #1c2e30; text-align: center; text-transform: uppercase; font-size: .72rem; padding: .3em .5em; }
 
 /* Tool collecting patterns (```tool-pattern blocks, see hooks/tool_patterns.py).
-   Each tile is a flower decal from img/patterns/; collected tiles are lit and outlined. */
+   Each tile is one of the game's flower decals from img/patterns/; collected tiles are lit and outlined. */
 .md-typeset .tool-pattern {
-  display: grid; grid-template-columns: repeat(var(--cols), 1.1rem); gap: 1px;
+  display: grid; grid-template-columns: repeat(var(--cols), 1.35rem); gap: 1px;
   justify-content: center; margin: .5em auto .3em;
 }
 .md-typeset .tool-pattern > i, .md-typeset .tool-pattern-key > span {
-  position: relative; display: block; width: 1.1rem; height: 1.1rem; border-radius: 2px;
-  background: #2f6a2a center / cover no-repeat url("../img/patterns/white.png");
+  position: relative; display: block; width: 1.35rem; height: 1.35rem; border-radius: 2px;
+  background: #2f7a32 center / cover no-repeat url("../img/patterns/white-1.png");
 }
-.md-typeset .tool-pattern > i.f1 { background-image: url("../img/patterns/red.png"); }
-.md-typeset .tool-pattern > i.f2 { background-image: url("../img/patterns/blue.png"); }
+.md-typeset .tool-pattern > i.f01 { background-image: url("../img/patterns/white-1.png"); }
+.md-typeset .tool-pattern > i.f02 { background-image: url("../img/patterns/white-2.png"); }
+.md-typeset .tool-pattern > i.f03 { background-image: url("../img/patterns/white-3.png"); }
+.md-typeset .tool-pattern > i.f11 { background-image: url("../img/patterns/red-1.png"); }
+.md-typeset .tool-pattern > i.f12 { background-image: url("../img/patterns/red-2.png"); }
+.md-typeset .tool-pattern > i.f13 { background-image: url("../img/patterns/red-3.png"); }
+.md-typeset .tool-pattern > i.f21 { background-image: url("../img/patterns/blue-1.png"); }
+.md-typeset .tool-pattern > i.f22 { background-image: url("../img/patterns/blue-2.png"); }
+.md-typeset .tool-pattern > i.f23 { background-image: url("../img/patterns/blue-3.png"); }
 .md-typeset .tool-pattern > i.off::before, .md-typeset .tool-pattern > i.me:not(.on)::before {
   content: ""; position: absolute; inset: 0; border-radius: 2px; background: rgba(8, 16, 18, .68);
 }
