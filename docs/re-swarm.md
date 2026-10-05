@@ -9,7 +9,7 @@ tags: ["Community", "Re://:Swarm"]
 
 <figure class="thumb" style="width: 180px" typeof="mw:File/Thumb"> <img alt="Re://:Swarm game thumbnail" src="images/game-banner.png" width="180"/> <figcaption class="thumbcaption"> <p class="caption">A Re://:Swarm game thumbnail.</p> </figcaption> </figure>
 
-**[Re://:Swarm](https://www.roblox.com/games/123769064408347/)** is an online multiplayer game made in **[Roblox](https://roblox.fandom.com/wiki/Roblox)** by **[ReplicatedEvents](https://www.roblox.com/users/4940357204/profile)**. It is based on **[Bee Swarm Simulator](https://www.roblox.com/games/1537690962/)** by Onett, with [rebirths](rebirths.md) added. The purpose of the game is to hatch [bees](bees.md) to make a swarm, collect [pollen](pollen.md), and make it into [honey](honey.md). Players can also rebirth to trade their honey for permanent multipliers and rewards.
+**[Re://:Swarm](https://www.roblox.com/games/123769064408347/)** is an online multiplayer game made in **[Roblox](https://roblox.fandom.com/wiki/Roblox)** by **[ReplicatedEvents](https://www.roblox.com/users/4940357204/profile)**. It is based on **[Bee Swarm Simulator](https://www.roblox.com/games/1537690962/)** by Onett, with [rebirths](rebirths.md) added. The purpose of the game is to hatch [bees](bees.md) to make a swarm, collect [pollen](pollen.md), and make it into [honey](honey.md). Players can also rebirth to trade their honey for permanent multipliers and rewards. The game was released on August 26, 2026.
 
 ***Please note that this page does not need much expansion or information as this wiki is dedicated to the game. Please check out the other pages for more info.***
 
