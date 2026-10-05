@@ -14,13 +14,17 @@ The #Trivia stats need updating.
 
 **Critical Hits** are moments of increased [pollen](pollen.md) collection and attack damage, doubled at its base power. Their frequency is increased with higher [Critical Chance](system-page.md#Critical_Chance), and their strength is increased by greater [Critical Power](system-page.md#Critical_Power). A critical hit will have the pollen amount/attack damage shake and change color, similar to the animation below.
 
-+5,627!
+<div class="crit-demo" markdown>
+<span class="crit-num crit-pollen">+5,627!</span>
 
 *The animation of a critical hit for pollen.*
+</div>
 
--1,139
+<div class="crit-demo" markdown>
+<span class="crit-num crit-attack">-1,139</span>
 
 *The animation of a critical hit when attacking.*
+</div>
 
 
 
