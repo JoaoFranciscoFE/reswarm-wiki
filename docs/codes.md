@@ -9,7 +9,7 @@ Codes give free rewards like [Tickets](ticket.md), [Honey](honey.md), [stickers]
 
 ## How to redeem
 
-Type the code into the in-game codes box and redeem it. Codes are not case-sensitive and spaces are ignored, so `Splat!` and `SPLAT !` both work.
+Open **Settings** in-game, type the code into the codes box and redeem it. Codes are not case-sensitive and spaces are ignored, so `Splat!` and `SPLAT !` both work.
 
 ## Active codes
 
