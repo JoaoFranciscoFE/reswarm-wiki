@@ -300,6 +300,16 @@ Photon Bee likes the [Pineapple Patch](pineapple-patch.md) and the [Pumpkin Patc
 </td></tr>
 </tbody></table>
 
+## Stickers
+
+These are the stickers Photon Bee can find for you. Odds are from the game's code.
+
+| | Sticker | How | Chance |
+|---|---|---|---|
+| ![Flying Photon Bee](img/Flying_Photon_Bee.png){ width=40 } | [Flying Photon Bee](sticker.md) | Gathering in a field it likes ([Pineapple Patch](pineapple-patch.md), [Pumpkin Patch](pumpkin-patch.md)) | 1 in 100,000 per flower gathered |
+
+Like any bee, it can also find the stickers listed under [Bee sticker drops](sticker.md#bee-sticker-drops).
+
 ## Trivia
 
 * Photon Bee's energy is set to 999,999,999,999,999.

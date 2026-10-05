@@ -334,6 +334,17 @@ Exhausted Bee likes the [Stump Field](stump-field.md), the [Sunflower Field](su
 </td></tr>
 </tbody></table>
 
+## Stickers
+
+These are the stickers Exhausted Bee can find for you. Odds are from the game's code.
+
+| | Sticker | How | Chance |
+|---|---|---|---|
+| ![Moai](img/Moai.png){ width=40 } | [Moai](sticker.md) | Gathering in a field it likes ([Sunflower Field](sunflower-field.md), [Dandelion Field](dandelion-field.md), [Stump Field](stump-field.md)) | 1 in 1,000,000 per flower gathered |
+| ![Explosion](img/Explosion.png){ width=40 } | [Explosion](sticker.md) | Collecting one of its Bomb tokens | 1 in 100,000 per token |
+
+Like any bee, it can also find the stickers listed under [Bee sticker drops](sticker.md#bee-sticker-drops).
+
 ## Trivia
 
 * Exhausted Bee's energy is set to 999,999,999,999.

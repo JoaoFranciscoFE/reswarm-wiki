@@ -402,6 +402,17 @@ Fire Bee likes the [Mushroom Field](mushroom-field.md), and [Strawberry Field](s
 </td></tr>
 </tbody></table>
 
+## Stickers
+
+These are the stickers Fire Bee can find for you. Odds are from the game's code.
+
+| | Sticker | How | Chance |
+|---|---|---|---|
+| ![Small Flame](img/Small_Flame.png){ width=40 } | [Small Flame](sticker.md) | Gathering in a field it dislikes ([Pine Tree Forest](pine-tree-forest.md)) | 1 in 2,500 per flower gathered |
+| ![Explosion](img/Explosion.png){ width=40 } | [Explosion](sticker.md) | Collecting one of its Bomb tokens | 1 in 100,000 per token |
+
+Like any bee, it can also find the stickers listed under [Bee sticker drops](sticker.md#bee-sticker-drops).
+
 ## Trivia
 
 * The [Fire Mask](fire-mask.md), which can be purchased in the [Red HQ](red-hq.md), has a special design, name, and stats dedicated to Fire Bee.

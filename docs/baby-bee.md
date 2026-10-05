@@ -401,6 +401,16 @@ Baby Bee likes the [Dandelion Field](dandelion-field.md), [Sunflower Field](sunf
 </td></tr>
 </tbody></table>
 
+## Stickers
+
+These are the stickers Baby Bee can find for you. Odds are from the game's code.
+
+| | Sticker | How | Chance |
+|---|---|---|---|
+| ![Pale Heart](img/Pale_Heart.png){ width=40 } | [Pale Heart](sticker.md) | Gathering while Gifted in a field it likes ([Dandelion Field](dandelion-field.md), [Sunflower Field](sunflower-field.md), [Clover Field](clover-field.md), [Mushroom Field](mushroom-field.md), [Blue Flower Field](blue-flower-field.md)) | 1 in 25,000 per flower gathered |
+
+Like any bee, it can also find the stickers listed under [Bee sticker drops](sticker.md#bee-sticker-drops).
+
 ## Trivia
 
 * Baby Bee and Tadpole Bee tie for the smallest [bees](bees.md) in the game. They are also the only two bee types to have a different size compared to other bees.

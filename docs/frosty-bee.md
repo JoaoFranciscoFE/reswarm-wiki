@@ -402,6 +402,17 @@ Frosty Bee likes the [Blue Flower Field](blue-flower-field.md), and the [Mounta
 </td></tr>
 </tbody></table>
 
+## Stickers
+
+These are the stickers Frosty Bee can find for you. Odds are from the game's code.
+
+| | Sticker | How | Chance |
+|---|---|---|---|
+| ![Small Dandelion](img/Small_Dandelion.png){ width=40 } | [Small Dandelion](sticker.md) | Gathering in the [Dandelion Field](dandelion-field.md) or the [Clover Field](clover-field.md) | 1 in 2,500 per flower gathered |
+| ![Explosion](img/Explosion.png){ width=40 } | [Explosion](sticker.md) | Collecting one of its Bomb tokens | 1 in 100,000 per token |
+
+Like any bee, it can also find the stickers listed under [Bee sticker drops](sticker.md#bee-sticker-drops).
+
 ## Trivia
 
 * Frosty Bee, [Commander Bee](commander-bee.md), and [Buoyant Bee](buoyant-bee.md) are the only [bees](bees.md) that wear hats.

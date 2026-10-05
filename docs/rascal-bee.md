@@ -401,6 +401,21 @@ Rascal Bee likes the [Mushroom Field](mushroom-field.md) and the [Rose Field](ro
 </td></tr>
 </tbody></table>
 
+## Stickers
+
+These are the stickers Rascal Bee can find for you. Odds are from the game's code.
+
+| | Sticker | How | Chance |
+|---|---|---|---|
+| ![Jack-O-Lantern](img/Jack-O-Lantern.png){ width=40 } | [Jack-O-Lantern](sticker.md) | Gathering in the [Pumpkin Patch](pumpkin-patch.md) | 1 in 100,000 per flower gathered |
+| ![Round Rascal Bee](img/Round_Rascal_Bee.png){ width=40 } | [Round Rascal Bee](sticker.md) | Gathering with a Mutation in the [Sunflower Field](sunflower-field.md) | 1 in 25,000 per flower gathered |
+| ![Silly Tongue](img/Silly_Tongue.png){ width=40 } | [Silly Tongue](sticker.md) | Gathering in the [Pineapple Patch](pineapple-patch.md) | 1 in 2,500 per flower gathered |
+| ![Explosion](img/Explosion.png){ width=40 } | [Explosion](sticker.md) | Collecting one of its Bomb tokens | 1 in 100,000 per token |
+
+<p class="game-bug"><b>Game bug:</b> The Round Rascal Bee sticker says it comes from feeding a Neonberry to a Rascal Bee, but the game never rolls stickers when you feed a bee, so this way doesn't work.</p>
+
+Like any bee, it can also find the stickers listed under [Bee sticker drops](sticker.md#bee-sticker-drops).
+
 ## Trivia
 
 * Its blue counterpart is [Bumble Bee](bumble-bee.md).

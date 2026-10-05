@@ -333,6 +333,16 @@ Brave Bee likes the [Clover Field](clover-field.md) and the [Spider Field](spide
 </td></tr>
 </tbody></table>
 
+## Stickers
+
+These are the stickers Brave Bee can find for you. Odds are from the game's code.
+
+| | Sticker | How | Chance |
+|---|---|---|---|
+| ![Flying Brave Bee](img/Flying_Brave_Bee.png){ width=40 } | [Flying Brave Bee](sticker.md) | Gathering in a field it likes ([Spider Field](spider-field.md), [Clover Field](clover-field.md)) | 1 in 100,000 per flower gathered |
+
+Like any bee, it can also find the stickers listed under [Bee sticker drops](sticker.md#bee-sticker-drops).
+
 ## Trivia
 
 * Brave Bee and [Basic Bee](basic-bee.md) are the only [bees](bees.md) in the game that don't produce any [ability tokens](ability-tokens.md) unless they are in their gifted form or have a [beequip](beequip.md) that grants an ability token.

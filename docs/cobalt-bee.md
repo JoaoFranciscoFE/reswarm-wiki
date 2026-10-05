@@ -371,6 +371,12 @@ Cobalt Bee likes the [Clover Field](clover-field.md) and the [Pine Tree Forest](
 </td></tr>
 </tbody></table>
 
+## Stickers
+
+Cobalt Bee has no sticker of its own.
+
+Like any bee, it can also find the stickers listed under [Bee sticker drops](sticker.md#bee-sticker-drops).
+
 ## Trivia
 
 * The only difference between Cobalt Bee and Crimson Bee's [field](fields.md) preferences is that the Cobalt Bee likes the Pine Tree Forest, whereas Crimson Bee prefers the [Rose Field](rose-field.md).

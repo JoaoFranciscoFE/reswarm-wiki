@@ -403,6 +403,17 @@ Shy Bee likes the [Strawberry Field](strawberry-field.md) and the [Pumpkin Patch
 </td></tr>
 </tbody></table>
 
+## Stickers
+
+These are the stickers Shy Bee can find for you. Odds are from the game's code.
+
+| | Sticker | How | Chance |
+|---|---|---|---|
+| ![Pink Chair](img/Pink_Chair.png){ width=40 } | [Pink Chair](sticker.md) | Gathering in a field it likes ([Strawberry Field](strawberry-field.md), [Pumpkin Patch](pumpkin-patch.md)) | 1 in 100,000 per flower gathered |
+| ![Explosion](img/Explosion.png){ width=40 } | [Explosion](sticker.md) | Collecting one of its Bomb tokens | 1 in 100,000 per token |
+
+Like any bee, it can also find the stickers listed under [Bee sticker drops](sticker.md#bee-sticker-drops).
+
 ## Trivia
 
 * This bee, [Ninja Bee](ninja-bee.md), [Fuzzy Bee](fuzzy-bee.md), and [Windy Bee](windy-bee.md) are the only bees that have only one skin color.

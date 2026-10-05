@@ -334,6 +334,17 @@ Commander Bee likes the [Spider Field](spider-field.md) and the [Cactus Field](c
 </td></tr>
 </tbody></table>
 
+## Stickers
+
+These are the stickers Commander Bee can find for you. Odds are from the game's code.
+
+| | Sticker | How | Chance |
+|---|---|---|---|
+| ![Green Circle](img/Green_Circle.png){ width=40 } | [Green Circle](sticker.md) | Gathering in a field it likes ([Cactus Field](cactus-field.md), [Spider Field](spider-field.md), [Clover Field](clover-field.md)) | 1 in 2,500 per flower gathered |
+| ![Explosion](img/Explosion.png){ width=40 } | [Explosion](sticker.md) | Collecting one of its Bomb tokens | 1 in 100,000 per token |
+
+Like any bee, it can also find the stickers listed under [Bee sticker drops](sticker.md#bee-sticker-drops).
+
 ## Trivia
 
 * Commander Bee's skin is the same as [Looker Bee's](looker-bee.md).

@@ -333,6 +333,17 @@ Hasty Bee likes the [Sunflower Field](sunflower-field.md) and [Cactus Field](cac
 </td></tr>
 </tbody></table>
 
+## Stickers
+
+These are the stickers Hasty Bee can find for you. Odds are from the game's code.
+
+| | Sticker | How | Chance |
+|---|---|---|---|
+| ![Orange Step Array](img/Orange_Step_Array.png){ width=40 } | [Orange Step Array](sticker.md) | Gathering in a field it likes ([Sunflower Field](sunflower-field.md), [Cactus Field](cactus-field.md)) | 1 in 25,000 per flower gathered |
+| ![Small White Daisy](img/Small_White_Daisy.png){ width=40 } | [Small White Daisy](sticker.md) | Gathering in the [Spider Field](spider-field.md) or the [Pineapple Patch](pineapple-patch.md) | 1 in 2,500 per flower gathered |
+
+Like any bee, it can also find the stickers listed under [Bee sticker drops](sticker.md#bee-sticker-drops).
+
 ## Trivia
 
 * The [Hasty Guard](hasty-guard.md), which can be bought in the [Pro Shop](pro-shop.md), has a special design, name, and stats dedicated to Hasty Bee.

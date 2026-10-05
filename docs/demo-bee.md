@@ -333,6 +333,17 @@ Demo Bee likes the [Dandelion Field](dandelion-field.md) and the [Cactus Field](
 </td></tr>
 </tbody></table>
 
+## Stickers
+
+These are the stickers Demo Bee can find for you. Odds are from the game's code.
+
+| | Sticker | How | Chance |
+|---|---|---|---|
+| ![TNT](img/TNT.png){ width=40 } | [TNT](sticker.md) | Gathering in a field it likes ([Cactus Field](cactus-field.md), [Dandelion Field](dandelion-field.md)) | 1 in 2,500 per flower gathered |
+| ![Explosion](img/Explosion.png){ width=40 } | [Explosion](sticker.md) | Collecting one of its Bomb tokens | 1 in 100,000 per token |
+
+Like any bee, it can also find the stickers listed under [Bee sticker drops](sticker.md#bee-sticker-drops).
+
 ## Trivia
 
 * Demo Bee and [Basic Bee](basic-bee.md) have the same skin colors.

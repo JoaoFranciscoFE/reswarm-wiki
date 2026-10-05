@@ -402,6 +402,17 @@ Ninja Bee likes the [Blue Flower Field](blue-flower-field.md) and [Bamboo Field]
 </td></tr>
 </tbody></table>
 
+## Stickers
+
+These are the stickers Ninja Bee can find for you. Odds are from the game's code.
+
+| | Sticker | How | Chance |
+|---|---|---|---|
+| ![Flying Ninja Bee](img/Flying_Ninja_Bee.png){ width=40 } | [Flying Ninja Bee](sticker.md) | Gathering in a field it likes ([Bamboo Field](bamboo-field.md), [Blue Flower Field](blue-flower-field.md)) | 1 in 100,000 per flower gathered |
+| ![Explosion](img/Explosion.png){ width=40 } | [Explosion](sticker.md) | Collecting one of its Bomb tokens | 1 in 100,000 per token |
+
+Like any bee, it can also find the stickers listed under [Bee sticker drops](sticker.md#bee-sticker-drops).
+
 ## Trivia
 
 * In the early versions of the game, Ninja Bee had an ability called "[Haste+](buffs-debuffs.md#From_Areas)," which doubled the player's Movespeed for 20 seconds. This ability has now been stripped from the bee and is currently only obtainable through the [Star Hall's](star-hall.md) [Royal Jelly Dispenser](royal-jelly-dispenser.md) and [codes](codes.md).

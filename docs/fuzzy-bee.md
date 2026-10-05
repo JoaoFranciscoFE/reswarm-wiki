@@ -336,6 +336,18 @@ Fuzzy Bee likes the [Dandelion Field](dandelion-field.md) and [Pine Tree Forest]
 </td></tr>
 </tbody></table>
 
+## Stickers
+
+These are the stickers Fuzzy Bee can find for you. Odds are from the game's code.
+
+| | Sticker | How | Chance |
+|---|---|---|---|
+| ![Fuzz Bomb](img/Fuzz_Bomb.png){ width=40 } | [Fuzz Bomb](sticker.md) | Gathering in the [Bamboo Field](bamboo-field.md) | 1 in 100,000 per flower gathered |
+| ![Fuzz Bomb](img/Fuzz_Bomb.png){ width=40 } | [Fuzz Bomb](sticker.md) | Collecting (popping) a Fuzz Bombs token in the Bamboo Field | 1 in 10,000 per token |
+| ![Explosion](img/Explosion.png){ width=40 } | [Explosion](sticker.md) | Collecting one of its Bomb tokens | 1 in 100,000 per token |
+
+Like any bee, it can also find the stickers listed under [Bee sticker drops](sticker.md#bee-sticker-drops).
+
 ## Trivia
 
 * This bee, [Buoyant Bee](buoyant-bee.md), and [Precise Bee](precise-bee.md) are the first Mythic bees to be added since the release of the original Mythic bees.

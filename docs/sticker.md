@@ -4889,6 +4889,46 @@ Stickers, hive skins and cub skins added in Re://:Swarm. The Painter Bee set is 
 | ![Black Cub Skin](img/Black_Cub_Skin.png){ width=40 } | Black Cub Skin | *"A precious baby Black Bear!"* | +10,000 Capacity | 10 [Tickets](ticket.md) | The default skin for every [Cub Buddy](cub-buddy.md) owner. |
 | ![Custom Cub Skin](img/Custom_Cub_Skin.png){ width=40 } | Custom Cub Skin | *"A mini version of you!"* | +10,000 Capacity | 10 [Tickets](ticket.md) | Bubble Bee Man's "BBM isn't sorry" Beesmas quest (limited). |
 
+## Bee sticker drops
+
+Bees can find stickers while they gather. Each time a bee finishes gathering a flower, the game rolls that bee's stickers in order and stops at the first one that drops, so a bee finds at most one sticker per flower. The sticker appears as a rainbow token on the flower for 20 seconds, with the message *"Oh! <Bee> Bee found something while gathering."* Each bee's page lists its own stickers under **Stickers**.
+
+The rarity word in a sticker's source text sets its odds per flower:
+
+| Rarity | Chance |
+|---|---|
+| Uncommon | 1 in 2,500 |
+| Rare | 1 in 10,000 |
+| Very Rare | 1 in 25,000 |
+| Extremely Rare | 1 in 100,000 |
+| Unbelievably Rare | 1 in 1,000,000 |
+| Unfathomably Rare | 1 in 10,000,000 |
+| Nearly Impossible | 1 in 25,000,000 |
+
+"Very happy" means the bee is gathering in a field it likes, and "upset" means a field it dislikes.
+
+### Any bee
+
+| | Sticker | How | Chance |
+|---|---|---|---|
+| ![Atom Symbol](img/Atom_Symbol.png){ width=40 } | Atom Symbol | Any bee with a Mutation gathering in any field | 1 in 25,000 per flower |
+| ![Panicked Science Bear](img/Panicked_Science_Bear.png){ width=40 } | Panicked Science Bear | Any bee with a Mutation gathering in the [Pineapple Patch](pineapple-patch.md) | 1 in 25,000 per flower |
+| ![Shining Star](img/Shining_Star.png){ width=40 } | Shining Star | Any Gifted bee gathering in a field it likes | 1 in 25,000,000 per flower |
+| ![Explosion](img/Explosion.png){ width=40 } | Explosion | Collecting any Bomb token | 1 in 100,000 per token |
+| ![Tadpole](img/Tadpole.png){ width=40 } | Tadpole | Popping any Bubble | 1 in 1,000,000 per Bubble |
+| ![Saturn](img/Saturn.png){ width=40 } | Saturn | Having 10 Marks active at once | Guaranteed, once |
+| ![Red Wailing Cry](img/Red_Wailing_Cry.png){ width=40 } | Red Wailing Cry | Using 100,000 Royal Jellies in a row without getting a Mythic bee | Guaranteed, once per streak |
+
+Using a Star Jelly has a 1 in 1,000 chance to give the Star Sign sticker for the current date.
+
+<p class="game-bug"><b>Game bug:</b> Atom Symbol and Panicked Science Bear say they are found by "Radioactive Bees", but the game actually checks for a bee with a Mutation.</p>
+
+<p class="game-bug"><b>Game bug:</b> Ten stickers say they come from feeding a bee (a Neonberry, Moon Charm or Star Treat), but the game never rolls stickers when you feed a bee. These are Shocked Hive Slot, Wobbly Looker Bee, Drooping Stubborn Bee, Blob Bumble Bee, Round Rascal Bee, 4-Pronged Vector Bee, Diamond Diamond Bee, Round Basic Bee, Tabby From Behind and Bear Bee Offer. Most still have other sources. 4-Pronged Vector Bee only comes from a Sticker-Seeker quest or the Sticker Printer, and Tabby From Behind only from the Sticker Printer or planters.</p>
+
+<p class="game-bug"><b>Game bug:</b> Tabby Scratch says it comes from collecting Tabby Love at max stacks while a Stinger is active, but nothing in the game gives it, so it can't be obtained.</p>
+
+<p class="game-bug"><b>Game bug:</b> Launching Rocket, Left Facing Ant and Traffic Light have no rarity word in their source text. The game uses Rare (1 in 10,000) for them.</p>
+
 ## Hidden Stickers
 
 

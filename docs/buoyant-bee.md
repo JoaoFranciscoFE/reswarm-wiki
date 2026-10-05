@@ -407,6 +407,16 @@ Buoyant Bee likes the [Blue Flower Field](blue-flower-field.md), [Bamboo Field](
 </td></tr>
 </tbody></table>
 
+## Stickers
+
+These are the stickers Buoyant Bee can find for you. Odds are from the game's code.
+
+| | Sticker | How | Chance |
+|---|---|---|---|
+| ![Explosion](img/Explosion.png){ width=40 } | [Explosion](sticker.md) | Collecting one of its Bomb tokens | 1 in 100,000 per token |
+
+Like any bee, it can also find the stickers listed under [Bee sticker drops](sticker.md#bee-sticker-drops).
+
 ## Trivia
 
 * This bee, [Digital Bee](digital-bee.md), [Windy Bee](windy-bee.md), and [Festive Bee](festive-bee.md) are the only bees that can grant boosts to all the players on the server.

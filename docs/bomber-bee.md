@@ -333,6 +333,17 @@ Bomber Bee likes the [Dandelion Field](dandelion-field.md) and the [Cactus Field
 </td></tr>
 </tbody></table>
 
+## Stickers
+
+These are the stickers Bomber Bee can find for you. Odds are from the game's code.
+
+| | Sticker | How | Chance |
+|---|---|---|---|
+| ![Bomber Bee Bear](img/Bomber_Bee_Bear.png){ width=40 } | [Bomber Bee Bear](sticker.md) | Gathering in the [Mountain Top Field](mountain-top-field.md) | 1 in 100,000 per flower gathered |
+| ![Explosion](img/Explosion.png){ width=40 } | [Explosion](sticker.md) | Collecting one of its Bomb tokens | 1 in 100,000 per token |
+
+Like any bee, it can also find the stickers listed under [Bee sticker drops](sticker.md#bee-sticker-drops).
+
 ## Trivia
 
 * Bomber Bee has a direct correlation with [Demo Bee](demo-bee.md) because Demo Bees are elite Bomber Bees, according to its description.

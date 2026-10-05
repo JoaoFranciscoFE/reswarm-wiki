@@ -402,6 +402,17 @@ Rage Bee likes the [Spider Field](spider-field.md) and [Rose Field](rose-field.m
 </td></tr>
 </tbody></table>
 
+## Stickers
+
+These are the stickers Rage Bee can find for you. Odds are from the game's code.
+
+| | Sticker | How | Chance |
+|---|---|---|---|
+| ![Menacing Mantis](img/Menacing_Mantis.png){ width=40 } | [Menacing Mantis](sticker.md) | Gathering in the [Pine Tree Forest](pine-tree-forest.md) | 1 in 25,000 per flower gathered |
+| ![Red Palm Hand](img/Red_Palm_Hand.png){ width=40 } | [Red Palm Hand](sticker.md) | Gathering in the [Stump Field](stump-field.md) | 1 in 2,500 per flower gathered |
+
+Like any bee, it can also find the stickers listed under [Bee sticker drops](sticker.md#bee-sticker-drops).
+
 ## Trivia
 
 * Rage Bee is the first [bee](bees.md) to produce an ability token that has their face on it, the second being [Tabby Bee](tabby-bee.md), and the third being [Puppy Bee](puppy-bee.md).

@@ -333,6 +333,18 @@ Looker Bee likes the [Clover Field](clover-field.md) and the [Mountain Top Field
 </td></tr>
 </tbody></table>
 
+## Stickers
+
+These are the stickers Looker Bee can find for you. Odds are from the game's code.
+
+| | Sticker | How | Chance |
+|---|---|---|---|
+| ![Wobbly Looker Bee](img/Wobbly_Looker_Bee.png){ width=40 } | [Wobbly Looker Bee](sticker.md) | Gathering in a field it likes ([Clover Field](clover-field.md), [Mountain Top Field](mountain-top-field.md)) | 1 in 100,000 per flower gathered |
+
+<p class="game-bug"><b>Game bug:</b> The Wobbly Looker Bee sticker says it comes from feeding a Neonberry to a Looker Bee, but the game never rolls stickers when you feed a bee, so this way doesn't work.</p>
+
+Like any bee, it can also find the stickers listed under [Bee sticker drops](sticker.md#bee-sticker-drops).
+
 ## Trivia
 
 * Looker Bee was the "oldest designed character",[1] not necessarily in the form of a bee. It had the signature eyes, was green, and had two little legs.[2]

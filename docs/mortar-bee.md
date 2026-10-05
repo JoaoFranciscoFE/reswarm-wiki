@@ -51,6 +51,18 @@ Mortar Bee has no active abilities, only passives.
 * **Passive: Sluggish.** Movespeed buffs are 50% less effective on this bee.
 * **Passive: Inspiring Shell** (Gifted only). When Gifted, this bee has the same chance as other bees to generate Inspire. When it does, it immediately fires an extra bomb-sized shell regardless of cooldown, collecting 15 pollen (+5% per level) from 13 flowers. This shell grants Inspire and pollinates flowers like a Fuzz Bomb, but never spawns Flames.
 
+## Stickers
+
+These are the stickers Mortar Bee can find for you. Odds are from the game's code.
+
+| | Sticker | How | Chance |
+|---|---|---|---|
+| ![Flying Mortar Bee](img/Flying_Mortar_Bee.png){ width=40 } | [Flying Mortar Bee](sticker.md) | Each mortar shell that lands in a field | 1 in 750 per rocket |
+| ![Happy Mortar Bee](img/Happy_Mortar_Bee.png){ width=40 } | [Happy Mortar Bee](sticker.md) | Each mortar shell that lands in a field | 1 in 3,000 per rocket |
+| ![Explosion](img/Explosion.png){ width=40 } | [Explosion](sticker.md) | Each mortar shell that lands in a field | 1 in 10,000 per rocket |
+
+Like any bee, it can also find the stickers listed under [Bee sticker drops](sticker.md#bee-sticker-drops).
+
 ## Gallery
 
 <div class="grid" markdown>

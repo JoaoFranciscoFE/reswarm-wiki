@@ -132,10 +132,14 @@ The game also has a Gifted Crimbolt Bee Egg, but nothing gives it yet. No shop, 
 
 ## Stickers
 
-<div class="grid" markdown>
-<figure><img alt="Menacing Crimbolt Bee" src="img/Menacing_Crimbolt_Bee.png" width="96"><figcaption>Menacing Crimbolt Bee: <i>"Three Colors, One Hive."</i> +1.5% Red, Blue and White Pollen</figcaption></figure>
-<figure><img alt="Explosion" src="img/Explosion.png" width="96"><figcaption>Explosion: <i>"Everything worth doing ends with a bang."</i> +2.5% Bomb Pollen</figcaption></figure>
-</div>
+These are the stickers Crimbolt Bee can find for you. Odds are from the game's code.
+
+| | Sticker | How | Chance |
+|---|---|---|---|
+| ![Menacing Crimbolt Bee](img/Menacing_Crimbolt_Bee.png){ width=40 } | [Menacing Crimbolt Bee](sticker.md) | Each Crimbolt Rockets rocket that lands in a field (3 per token) | 1 in 1,750 per rocket |
+| ![Explosion](img/Explosion.png){ width=40 } | [Explosion](sticker.md) | Each Crimbolt Rockets rocket that lands in a field | 1 in 10,000 per rocket |
+
+Like any bee, it can also find the stickers listed under [Bee sticker drops](sticker.md#bee-sticker-drops).
 
 ## See also
 

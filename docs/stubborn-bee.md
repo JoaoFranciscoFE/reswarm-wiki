@@ -333,6 +333,20 @@ Stubborn Bee likes the [Dandelion Field](dandelion-field.md) and the [Pineapple
 </td></tr>
 </tbody></table>
 
+## Stickers
+
+These are the stickers Stubborn Bee can find for you. Odds are from the game's code.
+
+| | Sticker | How | Chance |
+|---|---|---|---|
+| ![Drooping Stubborn Bee](img/Drooping_Stubborn_Bee.png){ width=40 } | [Drooping Stubborn Bee](sticker.md) | Gathering in a field it dislikes ([Rose Field](rose-field.md)) | 1 in 100,000 per flower gathered |
+| ![Pink Cupcake](img/Pink_Cupcake.png){ width=40 } | [Pink Cupcake](sticker.md) | Gathering while Gifted in the [Strawberry Field](strawberry-field.md) | 1 in 10,000 per flower gathered |
+| ![Saturn](img/Saturn.png){ width=40 } | [Saturn](sticker.md) | Having 10 Marks active at once (its Marks count toward this) | Guaranteed, once |
+
+<p class="game-bug"><b>Game bug:</b> The Drooping Stubborn Bee sticker says it comes from feeding a Neonberry to a Stubborn Bee, but the game never rolls stickers when you feed a bee, so this way doesn't work.</p>
+
+Like any bee, it can also find the stickers listed under [Bee sticker drops](sticker.md#bee-sticker-drops).
+
 ## Trivia
 
 * Stubborn Bee was one of the two bees added in the 2018-11-25 update, the other being [Carpenter Bee](carpenter-bee.md).

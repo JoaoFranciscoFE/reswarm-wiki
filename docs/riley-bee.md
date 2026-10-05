@@ -403,6 +403,16 @@ Riley Bee likes the [Mushroom Field](mushroom-field.md), [Strawberry Field](stra
 </td></tr>
 </tbody></table>
 
+## Stickers
+
+These are the stickers Riley Bee can find for you. Odds are from the game's code.
+
+| | Sticker | How | Chance |
+|---|---|---|---|
+| ![Small Pink Tulip](img/Small_Pink_Tulip.png){ width=40 } | [Small Pink Tulip](sticker.md) | Gathering in the [Mushroom Field](mushroom-field.md) or the [Strawberry Field](strawberry-field.md) | 1 in 2,500 per flower gathered |
+
+Like any bee, it can also find the stickers listed under [Bee sticker drops](sticker.md#bee-sticker-drops).
+
 ## Trivia
 
 * Based on its description, this [bee](bees.md) is the rival and counterpart of [Bucko Bee](bucko-bee.md).

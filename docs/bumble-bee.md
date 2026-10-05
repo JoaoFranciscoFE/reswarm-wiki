@@ -403,6 +403,20 @@ Bumble Bee likes the [Blue Flower Field](blue-flower-field.md) and the [Stump Fi
 
 * 100% Obtainable from the [Bumble Bee Eggs](egg.md#Bumble_Bee_Egg)
 
+## Stickers
+
+These are the stickers Bumble Bee can find for you. Odds are from the game's code.
+
+| | Sticker | How | Chance |
+|---|---|---|---|
+| ![Blob Bumble Bee](img/Blob_Bumble_Bee.png){ width=40 } | [Blob Bumble Bee](sticker.md) | Gathering with a Mutation in the [Sunflower Field](sunflower-field.md) | 1 in 25,000 per flower gathered |
+| ![Blue Square](img/Blue_Square.png){ width=40 } | [Blue Square](sticker.md) | Gathering in a field it likes ([Blue Flower Field](blue-flower-field.md), [Stump Field](stump-field.md)) | 1 in 2,500 per flower gathered |
+| ![Explosion](img/Explosion.png){ width=40 } | [Explosion](sticker.md) | Collecting one of its Bomb tokens | 1 in 100,000 per token |
+
+<p class="game-bug"><b>Game bug:</b> The Blob Bumble Bee sticker says it comes from feeding a Neonberry to a Bumble Bee, but the game never rolls stickers when you feed a bee, so this way doesn't work.</p>
+
+Like any bee, it can also find the stickers listed under [Bee sticker drops](sticker.md#bee-sticker-drops).
+
 ## Trivia
 
 * Bumble Bee has the same skin color as the [Bucko Bee](bucko-bee.md).

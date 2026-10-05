@@ -404,6 +404,12 @@ Spicy Bee likes the [Pepper Patch](pepper-patch.md). It dislikes the [Stump Fiel
 </td></tr>
 </tbody></table>
 
+## Stickers
+
+Spicy Bee has no sticker of its own.
+
+Like any bee, it can also find the stickers listed under [Bee sticker drops](sticker.md#bee-sticker-drops).
+
 ## Trivia
 
 * Spicy Bee, [Tadpole Bee](tadpole-bee.md), [Fuzzy Bee](fuzzy-bee.md), [Buoyant Bee](buoyant-bee.md) and [Digital Bee](digital-bee.md) all have four different [Abilities](ability-tokens.md), the most for any [bee](bees.md).

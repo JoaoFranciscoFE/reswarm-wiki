@@ -318,6 +318,16 @@ Digital Bee likes the [Dandelion Field](dandelion-field.md), [Mountain Top Field
 </td></tr>
 </tbody></table>
 
+## Stickers
+
+These are the stickers Digital Bee can find for you. Odds are from the game's code.
+
+| | Sticker | How | Chance |
+|---|---|---|---|
+| ![Barcode](img/Barcode.png){ width=40 } | [Barcode](sticker.md) | Gathering in a field it likes ([Coconut Field](coconut-field.md), [Mountain Top Field](mountain-top-field.md), [Dandelion Field](dandelion-field.md)) | 1 in 10,000 per flower gathered |
+
+Like any bee, it can also find the stickers listed under [Bee sticker drops](sticker.md#bee-sticker-drops).
+
 ## Trivia
 
 * Digital Bee first made its appearance in the Ready Player Two event.

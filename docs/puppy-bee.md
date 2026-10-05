@@ -300,6 +300,16 @@ Puppy Bee likes the [Clover Field](clover-field.md) and the [Pumpkin Patch](pump
 </td></tr>
 </tbody></table>
 
+## Stickers
+
+These are the stickers Puppy Bee can find for you. Odds are from the game's code.
+
+| | Sticker | How | Chance |
+|---|---|---|---|
+| ![Pale Heart](img/Pale_Heart.png){ width=40 } | [Pale Heart](sticker.md) | Gathering in a field it likes ([Clover Field](clover-field.md), [Pumpkin Patch](pumpkin-patch.md)) | 1 in 2,500 per flower gathered |
+
+Like any bee, it can also find the stickers listed under [Bee sticker drops](sticker.md#bee-sticker-drops).
+
 ## Trivia
 
 * When Puppy Bee came out on the 2018-09-10 Update, it was on sale in the Ticket Tent for 250 tickets until September 22, 2018.

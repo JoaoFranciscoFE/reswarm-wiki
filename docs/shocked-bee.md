@@ -334,6 +334,19 @@ Shocked Bee likes the [Spider Field](spider-field.md) and the [Pineapple Patch](
 </td></tr>
 </tbody></table>
 
+## Stickers
+
+These are the stickers Shocked Bee can find for you. Odds are from the game's code.
+
+| | Sticker | How | Chance |
+|---|---|---|---|
+| ![Shocked Hive Slot](img/Shocked_Hive_Slot.png){ width=40 } | [Shocked Hive Slot](sticker.md) | Gathering in the [Mushroom Field](mushroom-field.md) | 1 in 25,000 per flower gathered |
+| ![Traffic Light](img/Traffic_Light.png){ width=40 } | [Traffic Light](sticker.md) | Gathering in a field it likes ([Spider Field](spider-field.md), [Pineapple Patch](pineapple-patch.md)) | 1 in 10,000 per flower gathered |
+
+<p class="game-bug"><b>Game bug:</b> The Shocked Hive Slot sticker says it comes from feeding a Neonberry to a Shocked Bee, but the game never rolls stickers when you feed a bee, so this way doesn't work.</p>
+
+Like any bee, it can also find the stickers listed under [Bee sticker drops](sticker.md#bee-sticker-drops).
+
 ## Trivia
 
 * Shocked Bee, [Hasty Bee](hasty-bee.md), [Shy Bee](shy-bee.md), and [Rascal Bee](rascal-bee.md) are the only [bees](bees.md) in the game that has a spelling or grammar mistake in their description.

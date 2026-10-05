@@ -303,6 +303,12 @@ Windy Bee likes the [Dandelion Field](dandelion-field.md) and the [Coconut Field
 </td></tr>
 </tbody></table>
 
+## Stickers
+
+Windy Bee has no sticker of its own.
+
+Like any bee, it can also find the stickers listed under [Bee sticker drops](sticker.md#bee-sticker-drops).
+
 ## Trivia
 
 * Windy Bee's tornado path doesn't actually travel across the field randomly. It instead loosely follows a grid. This is slightly more noticeable when more haste tokens are spent and the tornado is faster.

@@ -336,6 +336,17 @@ Honey Bee likes the [Pumpkin Patch](pumpkin-patch.md) and the [Mountain Top Fiel
 </td></tr>
 </tbody></table>
 
+## Stickers
+
+These are the stickers Honey Bee can find for you. Odds are from the game's code.
+
+| | Sticker | How | Chance |
+|---|---|---|---|
+| ![Honey Bee Bear](img/Honey_Bee_Bear.png){ width=40 } | [Honey Bee Bear](sticker.md) | Gathering in the [Mountain Top Field](mountain-top-field.md) | 1 in 100,000 per flower gathered |
+| ![Saturn](img/Saturn.png){ width=40 } | [Saturn](sticker.md) | Having 10 Marks active at once (its Marks count toward this) | Guaranteed, once |
+
+Like any bee, it can also find the stickers listed under [Bee sticker drops](sticker.md#bee-sticker-drops).
+
 ## Trivia
 
 * There is a gate dedicated to the bee, the [Honey Bee Gate](honey-bee-gate.md) (or the 15 Bee Zone).

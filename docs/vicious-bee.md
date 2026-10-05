@@ -453,6 +453,16 @@ Vicious Bee likes the [Cactus Field](cactus-field.md) and the [Rose Field](rose-
 </td></tr>
 </tbody></table>
 
+## Stickers
+
+These are the stickers Vicious Bee can find for you. Odds are from the game's code.
+
+| | Sticker | How | Chance |
+|---|---|---|---|
+| ![Explosion](img/Explosion.png){ width=40 } | [Explosion](sticker.md) | Collecting one of its Bomb tokens | 1 in 100,000 per token |
+
+Like any bee, it can also find the stickers listed under [Bee sticker drops](sticker.md#bee-sticker-drops).
+
 ## Trivia
 
 * Vicious Bee's base attack was previously 7 before it was increased to 8 in the 2021-12-26 update.

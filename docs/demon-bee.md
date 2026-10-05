@@ -403,6 +403,18 @@ Demon Bee likes the [Mushroom Field](mushroom-field.md) and the [Spider Field](s
 </td></tr>
 </tbody></table>
 
+## Stickers
+
+These are the stickers Demon Bee can find for you. Odds are from the game's code.
+
+| | Sticker | How | Chance |
+|---|---|---|---|
+| ![Dark Flame](img/Dark_Flame.png){ width=40 } | [Dark Flame](sticker.md) | Gathering in a field it dislikes ([Mountain Top Field](mountain-top-field.md)) | 1 in 100,000 per flower gathered |
+| ![Forward Facing Spider](img/Forward_Facing_Spider.png){ width=40 } | [Forward Facing Spider](sticker.md) | Gathering in the [Spider Field](spider-field.md) | 1 in 25,000 per flower gathered |
+| ![Explosion](img/Explosion.png){ width=40 } | [Explosion](sticker.md) | Collecting one of its Bomb tokens | 1 in 100,000 per token |
+
+Like any bee, it can also find the stickers listed under [Bee sticker drops](sticker.md#bee-sticker-drops).
+
 ## Trivia
 
 * Demon Bee is one of the slowest [bees](bees.md) in the game, but is also one of the most powerful in terms of attack and gather amount.
