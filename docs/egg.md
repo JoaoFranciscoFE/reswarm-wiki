@@ -442,8 +442,9 @@ Every bee has its own egg, jelly and Gifted egg. These use the [Basic Egg](#basi
 Always hatches into a [Crimbolt Bee](crimbolt-bee.md) and also gives 1 Crimbolt Bee Jelly.
 
 * A rebirth reward at Rebirth 34. See [Rebirths](rebirths.md).
+* The reward for [Sun Bear](sun-bear.md#crimbolt-quests-15)'s last Crimbolt quest, "Crimbolt's Final Test".
 
-The game also has a **Gifted Crimbolt Bee Egg**, which always hatches into a Gifted Crimbolt Bee.
+The game also has a **Gifted Crimbolt Bee Egg**, which always hatches into a Gifted Crimbolt Bee, but nothing gives it yet.
 
 ### Painter Bee Egg
 

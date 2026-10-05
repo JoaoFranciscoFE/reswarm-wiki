@@ -15,6 +15,7 @@ tags: ["Bees", "Event", "Colorless", "Re://:Swarm"]
 <div class="bee-infobox-image bee-tab-original"><img alt="Crimbolt Bee" src="img/Crimbolt_Bee.png" width="150"></div>
 <div class="bee-infobox-image bee-tab-gifted"><img alt="Gifted Crimbolt Bee" src="img/Gifted_Crimbolt_Bee.png" width="150"></div>
 </div>
+<div class="bee-infobox-quote"><i>"A harmonious bee embodying the united force of red, white, and blue."</i></div>
 <div class="bee-infobox-row"><b>Rarity</b><span>Event</span></div>
 <div class="bee-infobox-row"><b>Color</b><span>Colorless</span></div>
 <div class="bee-infobox-stats">
@@ -24,9 +25,13 @@ tags: ["Bees", "Event", "Colorless", "Re://:Swarm"]
 </div>
 </div>
 
-**Crimbolt Bee** is a Colorless [Event bee](bees-event.md) that is only in Re://:Swarm. It is a red, white and blue rocket launcher bee that brings all three pollen colours together.
+**Crimbolt Bee** is a Colorless [Event bee](bees-event.md) that is only in Re://:Swarm. Its body is red on the left, blue on the right and white on the front, with a "C" crest, and it carries a rocket tube on its back.
+
+Its egg description reads: *"The symbol of all colors in unison. Uses Token Link, Haste, and Crimbolt Rockets, and empowers its hive through Combined Forces."*
 
 It fires rockets at the field with its own ability, Crimbolt Rockets, and also has [Token Link](ability-tokens.md#token-link) and [Haste](ability-tokens.md#haste). Its passive, Combined Forces, boosts Instant Conversion of all three colours and your critical hits.
+
+Crimbolt Bee has no favourite treat. It likes the [Rose Field](rose-field.md) and [Clover Field](clover-field.md), and dislikes the [Pineapple Patch](pineapple-patch.md). Only one can be in a hive.
 
 ## Stats
 
@@ -41,6 +46,8 @@ It fires rockets at the field with its own ability, Crimbolt Rockets, and also h
 | Convert | 280 honey every 3 seconds |
 | Gifted bonus | x1.2 Pollen, +8% Instant Conversion, +2 Attack |
 
+The bee info panel lists its bonuses as: *+7,400% Energy, +50% Movespeed, +25% Convert Speed, +50% Gather Amount, +180 Convert Amount, +11 Attack.* Two of those don't match its real stats: it gathers 75 pollen against a Basic Bee's 10 (x7.5), and makes 280 honey against 80 (+200).
+
 Crimbolt Bee has the highest Energy of any bee in the game.
 
 ## Abilities
@@ -49,7 +56,9 @@ Crimbolt Bee has the highest Energy of any bee in the game.
 
 <div class="ability-token-row"><figure class="ability-token"><img alt="Crimbolt Rockets" src="img/Crimbolt_Rockets.png" width="60"/><figcaption>Crimbolt Rockets</figcaption></figure></div>
 
-Crimbolt Bee flies into the air and fires 3 rockets at random flowers in the field. Each impact collects pollen from the same 13 flowers as a Bomb token, and every flower struck spawns a Crimbolt Flame.
+*"Causes Crimbolt Bee to fly into the air and fire 3 rockets at random flowers in the field. Each impact collects pollen in the same 13-flower pattern as a regular Bomb token, and every flower struck spawns a Crimbolt Flame."*
+
+The rockets fire 0.45 seconds apart and land on 3 different flowers. Each impact counts as a Bomb and a Buzz Bomb, so it works with Bomb Combo and Bomb Power.
 
 * Attempt cooldown: 6 seconds
 * Use cooldown: 24 seconds
@@ -57,7 +66,7 @@ Crimbolt Bee flies into the air and fires 3 rockets at random flowers in the fie
 * Token lasts 8 seconds
 * Spawns while gathering and in battle
 
-Each rocket impact has a 1 in 1,750 chance to give the [Menacing Crimbolt Bee](sticker.md) sticker and a 1 in 10,000 chance to give the [Explosion](sticker.md) sticker.
+Each rocket that lands in a field has a 1 in 1,750 chance to give the [Menacing Crimbolt Bee](sticker.md) sticker and a 1 in 10,000 chance to give the [Explosion](sticker.md) sticker.
 
 See [Ability Tokens](ability-tokens.md#crimbolt-rockets) for more.
 
@@ -65,13 +74,19 @@ See [Ability Tokens](ability-tokens.md#crimbolt-rockets) for more.
 
 <div class="ability-token-row"><figure class="ability-token"><img alt="Token Link" src="img/Token_Link.png" width="60"/><figcaption>Token Link</figcaption></figure></div>
 
-Collects all of your bees' ability tokens in the field. See [Token Link](ability-tokens.md#token-link).
+*"Collects all other ability tokens, granting 25 Honey (+10 per lvl) per token collected."*
+
+* Cooldown: 5 seconds
+* Chance: 1 in 3
 
 ### Haste
 
 <div class="ability-token-row"><figure class="ability-token"><img alt="Haste" src="img/Haste.png" width="60"/><figcaption>Haste</figcaption></figure></div>
 
-Gives you the [Haste](buffs-debuffs.md#Haste) buff for extra movement speed. See [Haste](ability-tokens.md#haste).
+*"Grants +10% player movespeed for 20 seconds. Stacks up to 10 times."*
+
+* Cooldown: 4.5 seconds
+* Chance: 1 in 3
 
 ## Passive: Combined Forces
 
@@ -85,26 +100,35 @@ While Crimbolt Bee is in your hive, you get:
 
 ## Passive: Trio (Gifted only)
 
-Every 4.5 seconds, a [Gifted](gifted-bee.md) Crimbolt Bee has an independent 33% chance to spawn a Red, Blue and White [Boost](ability-tokens.md#boost) token together.
+While gathering, a [Gifted](gifted-bee.md) Crimbolt Bee has an independent 33% chance every 4.5 seconds to spawn a Red, Blue and White [Boost](ability-tokens.md#boost) token together. This doesn't lower its other ability chances.
 
-## Crimbolt's Heat
+## Crimbolt Flame and Crimbolt's Heat
 
-Crimbolt Bee can give you the **Crimbolt's Heat** buff, which lasts up to 20 seconds. The more time it has left, the stronger it is:
+<img alt="Crimbolt's Heat" src="img/Crimbolt_Face.png" width="64" align="right">
 
-* +0% to +5% Super-Crit Chance
-* x1 to x2 Super-Crit Power
+Every flower a Crimbolt Rocket hits spawns a **Crimbolt Flame**. It works like a normal [Flame](flame.md), collecting pollen every second, but:
 
-See [Critical Hits](critical-hits.md) for how Super-Crits work.
+* It lasts 6 seconds (longer with flame duration bonuses).
+* It is red, white and blue.
+* It can never turn into a Dark Flame.
+* Standing near it gives **Crimbolt's Heat** instead of Flame Heat.
+
+**Crimbolt's Heat** fills up while you stand near your own Crimbolt Flames, up to 20 seconds. It fills twice as fast as Flame Heat, and more flames fill it faster. Its bonuses grow as it fills. At a full 20 seconds it gives:
+
+* x2 Red, Blue and White Pollen
+* x2 Super-Crit Power
+* +5% Super-Crit Chance
+
+Crimbolt's Heat and Flame Heat are separate buffs, so you can have both. It is lost when you leave the game. See [Critical Hits](critical-hits.md) for how Super-Crits work.
 
 ## How to obtain
 
-* **Crimbolt Bee Egg:** always hatches a Crimbolt Bee and also gives a Crimbolt Bee Jelly. See [Crimbolt Bee Egg](egg.md#crimbolt-bee-egg).
-* **Rebirth 34** rewards 1 Crimbolt Bee Egg. See [Rebirths](rebirths.md).
-* **Gifted Crimbolt Bee Egg:** always hatches a Gifted Crimbolt Bee.
-* **Crimbolt Bee Jelly:** turns any bee into a Crimbolt Bee.
-* Like other Event bees, it can be made Gifted with a [Star Treat](star-treat.md).
+* **[Sun Bear](sun-bear.md)'s 15th Crimbolt quest, "Crimbolt's Final Test"**, gives a [Crimbolt Bee Egg](egg.md#crimbolt-bee-egg). See [Crimbolt Quests](sun-bear.md#crimbolt-quests-15).
+* **Rebirth 34** rewards a Crimbolt Bee Egg. See [Rebirths](rebirths.md).
 
-[Sun Bear](sun-bear.md) gives the 15 Crimbolt quests.
+Hatching the egg also gives a **Crimbolt Bee Jelly**, which turns any bee into a Crimbolt Bee. Like other Event bees, it can be made Gifted with a [Star Treat](star-treat.md).
+
+The game also has a Gifted Crimbolt Bee Egg, but nothing gives it yet. No shop, code or Robux pack sells any Crimbolt item.
 
 ## Stickers
 
@@ -117,7 +141,8 @@ See [Critical Hits](critical-hits.md) for how Super-Crits work.
 
 * [Ability Tokens](ability-tokens.md#crimbolt-rockets)
 * [Bees/Event](bees-event.md)
-* [Mortar Bee](mortar-bee.md), the other rocket bee
+* [Sun Bear](sun-bear.md#crimbolt-quests-15)
+* [Mortar Bee](mortar-bee.md), which uses the same rocket code but fires one rocket at a time and makes no Crimbolt Flames
 
 ## All bees
 
