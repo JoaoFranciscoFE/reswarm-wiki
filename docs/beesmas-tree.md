@@ -17,6 +17,8 @@ The following content has been removed from the game. The contents below may be 
 
 The **Beesmas Tree** is a feature that appeared in every Beesmas between 2019 and 2025. The Beesmas Tree allows the player to view their collected [ornaments](ornaments.md), who they are from, and what boosts they give. The tree is located in front of the [Ant Gate](ant-gate.md), near the [Noob Shop](noob-shop.md), and next to the hives.
 
+<figure class="mw-halign-center" style="text-align:center"><img alt="" src="img/places/Beesmas_Tree.png" width="480"/><figcaption>The Beesmas Tree.</figcaption></figure>
+
 ## Beesmas 2025
 
 This piece of content goes bye bye.

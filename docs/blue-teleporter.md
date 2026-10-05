@@ -15,6 +15,8 @@ The **Blue Teleporter** is a portal located inside the first floor of the [Blue 
 
 To activate the Blue Teleporter, the player must walk onto the white teleport pad and press the "E" key on their keyboard if they are on PC or laptop. However, if they are on mobile, then they must walk onto the pad and tap on the button that appears at the top of the screen.
 
+<figure class="mw-halign-center" style="text-align:center"><img alt="" src="img/places/Blue_Teleporter_destination.png" width="480"/><figcaption>The destination of the Blue Teleporter.</figcaption></figure>
+
 ## Trivia
 
 * Like its [Red Counterpart](red-teleporter.md), the Blue Teleporter used to have an animation where the rings would revolve in circles, but it can get bugged to the point where the rings will start to slow down until they completely stop.

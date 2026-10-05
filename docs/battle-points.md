@@ -13,6 +13,8 @@ tags: ["Mechanics"]
 
 The player can see how many battle points they have by stepping on the pad in front of the Global Top Battlers Leaderboard or by looking in your [badges](badges.md) and scrolling down to the Battle Badge.
 
+<figure class="mw-halign-center" style="text-align:center"><img alt="" src="img/places/Top_Battlers_Leaderboard.png" width="480"/><figcaption>The Top Battlers leaderboard.</figcaption></figure>
+
 ## Battle Points per Mob
 
 * [Ladybugs](ladybug.md), [rhino beetles](rhino-beetle.md), and [cave monsters](cave-monster.md): 1 point.

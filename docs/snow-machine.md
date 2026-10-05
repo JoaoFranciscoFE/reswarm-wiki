@@ -22,6 +22,8 @@ This machine has a cooldown of 2 hours before the player can use it again.
 
 If a player stepped on the pad before completing Gifted Bucko Bee's Beesmas Quest, a red text box would appear on top of the player's screen saying: "*The Snow Machine is missing some integral parts...*"
 
+<figure class="mw-halign-center" style="text-align:center"><img alt="" src="img/places/Snow_Machine.png" width="480"/><figcaption>The Snow Machine.</figcaption></figure>
+
 ## Appearance
 
 The Snow Machine looks like a machine with a green light situated on top of the [Blue HQ](blue-hq.md). Before completing Gifted Bucko Bee's quest, the light would be red, the inside of the machine appearing empty and hollow, except for the wire netting on the back. After completing the quest, 2 fans will be installed in it. Activating it shoots out snowflake particles as well.

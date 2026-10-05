@@ -13,6 +13,8 @@ tags: ["Locations", "Challenges", "Ant Challenge"]
 
 The **Ant Challenge** is a challenge found past the [Ant Gate](ant-gate.md), with the objective being to defeat as many ants as possible.
 
+<figure class="mw-halign-center" style="text-align:center"><img alt="" src="img/places/Ant_Challenge_arena.png" width="480"/><figcaption>The Ant Challenge arena.</figcaption></figure>
+
 ## Accessing and Participating
 
 The player needs 20 [bees](bees.md) in order to pass the Ant Gate and play the Ant Challenge. An [ant pass](ant-pass.md) is also required each time to participate in the challenge. The player can obtain a free [Ant Pass](ant-pass.md) every two hours by using the [Free Ant Pass Dispenser](free-ant-pass-dispenser.md) behind the Ant Gate. If players wish to get more ant passes, they can purchase another one for 10 [Tickets](ticket.md) each at the [Ant Pass Dispenser](ant-pass-dispenser.md). [Panda Bear](panda-bear.md) also gives ant passes in his [quests](quests.md) sometimes.

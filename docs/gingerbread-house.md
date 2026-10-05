@@ -19,6 +19,8 @@ It sits between [Mother Bear](mother-bear.md) and the [Treat Shop](treat-shop.md
 
 If the player attempts to use the Gingerbread House before it is completed, it will display text that reads: This Gingerbread House is far from complete...
 
+<figure class="mw-halign-center" style="text-align:center"><img alt="" src="img/places/Gingerbread_House_unbuilt_stand.png" width="480"/><figcaption>The Gingerbread House stand before Mother Bear&#x27;s Beesmas quest is completed.</figcaption></figure>
+
 ## Overview
 
 The Gingerbread House has gumdrops for decorations at the corners, a [Gingerbread Bear](gingerbread-bear.md) in the middle, and a candy cane acting as a possible chimney.

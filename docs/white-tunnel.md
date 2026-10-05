@@ -13,6 +13,8 @@ The **White Tunnel** is a hidden location behind the [Brave Bee Gate](brave-bee-
 
 
 
+<figure class="mw-halign-center" style="text-align:center"><img alt="" src="img/places/White_Tunnel_interior.png" width="480"/><figcaption>The interior of the White Tunnel.</figcaption></figure>
+
 ## Entrances
 
 There are two ways to enter: by jumping into the top of the instant converter, or by hopping up into the right side of the converter. To use the first method, either hop up on one of the shorter parts of the converter, then jump into the chute at the top, or if you don't have enough jumping power to do that, go up to the [Yellow Cannon](yellow-cannon.md) and jump down from there, or jump on the converter from the ledge beside it.

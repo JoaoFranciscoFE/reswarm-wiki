@@ -22,6 +22,8 @@ Outside of the Star Hall, there is a [Royal Jelly](royal-jelly.md) token to the 
 * **Diamond Star Amulet Generator**: Players must discover 30 Gifted Bee types (not gifted bees in hive) to use this machine. It costs 1 billion honey to generate a Diamond Star Amulet and has a 1 in 10,000 chance to give the player a [Cyan Star Sticker](sticker.md#Sticker_Index) upon use. It is also has a 1 in 1 million chance (1,000,000) to grant a [Star Cub](cub-buddy.md#Skins) upon summoning.
 * **Supreme Star Amulet Generator**: Players must discover 40 Gifted Bee types (not gifted bees in hive) to use this machine. It costs 10 billion honey to generate a Supreme Star Amulet and an option to spend 500 billion honey (if the player has 500 billion concurrent honey) to guaranteed two Supreme Star Amulet [Passive Abilities](passive-abilities.md).
 
+<figure class="mw-halign-center" style="text-align:center"><img alt="" src="img/places/Star_Hall_interior.png" width="480"/><figcaption>The interior of the Star Hall.</figcaption></figure>
+
 ## Music
 
 ## Trivia

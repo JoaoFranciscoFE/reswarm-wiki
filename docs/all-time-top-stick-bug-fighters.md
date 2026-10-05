@@ -18,6 +18,8 @@ It was later reset again on 2022-12-26.
 
 The leaderboard was recently reset once more in 2024-01-12 due to the technique of using attack buffs in Robo Bear's Challenge to increase damage drastically.
 
+<figure class="mw-halign-center" style="text-align:center"><img alt="" src="img/places/All-Time_Top_Stick_Bug_Fighters.png" width="480"/><figcaption>The Top Stick Bug Fighters leaderboard.</figcaption></figure>
+
 ## Location
 
 It is located right behind Stick Bug, on top of the biggest mushroom in the [Mushroom Field](mushroom-field.md). One method to get there is to use the [Red](red-cannon.md), [Blue](blue-cannon.md), or [Yellow Cannons](yellow-cannon.md) paired with either the [Parachute](parachute.md) or [Glider](glider.md). Another way to get there is to parachute or glide from a tall place, like near the [Lion Bee Gate](lion-bee-gate.md). Doing the [Mushroom Field Obby](obstacle-courses.md#Mushroom_Field_Obby) and jumping and gliding to the tallest mushroom is also a viable solution.

@@ -15,6 +15,8 @@ The following content has been removed from the game. The contents below may be 
 
 The **Robo Party Cake** is a Beesmas-exclusive machine that was added in the second part of Beesmas 2022 and has returned in every Beesmas events since. It is accessible after completing [Robo Bear's Party Cake quest](robo-bear.md#Beesmas_Quest_-_Robo_Bear's_Party_Cake) and is able to initiate a special challenge every 3 hours.
 
+<figure class="mw-halign-center" style="text-align:center"><img alt="" src="img/places/Robo_Party_Cake_unbuilt_frame.png" width="480"/><figcaption>The Robo Party Cake frame and its leaderboard.</figcaption></figure>
+
 ## Appearance
 
 Before completing Robo Bear's quest, the party cake is only 3 metal trusses, stacked to make a pyramid, with an unlit olive green candle on the top. The candle's number changes every year to show how many years the game's been up.

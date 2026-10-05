@@ -22,7 +22,7 @@ All 19 pages in Bears.
 <a class="wiki-card" href="quest-givers.html"><img src="img/Quest_Givers.png" alt="" loading="lazy"><span>Quest Givers</span></a>
 <a class="wiki-card" href="robo-bear.html"><img src="img/bears/Robo_Bear.png" alt="" loading="lazy"><span>Robo Bear</span></a>
 <a class="wiki-card" href="science-bear.html"><img src="img/bears/Science_Bear.png" alt="" loading="lazy"><span>Science Bear</span></a>
-<a class="wiki-card wiki-card--noicon" href="shadow-bear.html"><img src="images/no-icon.svg" alt="" loading="lazy"><span>Shadow Bear</span></a>
+<a class="wiki-card wiki-card--photo" href="shadow-bear.html"><img src="img/places/Shadow_Bear_with_the_Diamond_Egg_spot.png" alt="" loading="lazy"><span>Shadow Bear</span></a>
 <a class="wiki-card" href="snowbear.html"><img src="img/Snowbear.png" alt="" loading="lazy"><span>Snowbear</span></a>
 <a class="wiki-card" href="spirit-bear.html"><img src="img/bears/Spirit_Bear.png" alt="" loading="lazy"><span>Spirit Bear</span></a>
 <a class="wiki-card" href="sun-bear.html"><img src="img/bears/Sun_Bear.png" alt="" loading="lazy"><span>Sun Bear</span></a>
