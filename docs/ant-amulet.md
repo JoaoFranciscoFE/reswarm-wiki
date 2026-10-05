@@ -5,26 +5,11 @@ tags: ["Amulet", "Ant Challenge", "Accessories"]
 
 # Ant Amulet
 
-This piece of content contains information obtained through datamining.
-
-Due to the nature of the information, details may be inaccurate or outdated.
-
-Datamined information: Ant Amulet's possible stats and relevant information. — December 19th, 2024
-
-This content contains assumptions.
-
-Though the precise details may be inaccurate, most information comes from great testing and supported assumptions.
-
-Assumptions made:
-
-* The quality of the amulet increases linearly. The formula for calculating the quality of the amulet is unknown, so this can't be confirmed.
-* All tiers of the amulet have the same quality scaling, even if it is impossible to obtain the tier with said quality.
-
 The **Ant Amulet** is an [amulet](amulet.md) that is obtained from participating in the [Ant Challenge](ant-challenge.md).
 
 The amulet gives the player buffs and will always boost [Convert Rate](system-page.md#Convert_Rate). There are five tiers of Ant Amulets, each awarded for reaching a certain point milestone in the Ant Challenge.
 
-The quality of the amulet increases linearly with the player's score until a score of 400,[1] where its quality is maxed.
+The amulet's quality is your Ant Challenge score divided by 400, capped at 1. It is the same linear formula for every tier, so quality is maxed at a score of 400.
 
 ## Requirements
 
@@ -142,7 +127,7 @@ The tables below give the percentage of a certain stat on the amulet having stre
 <th>+35%
 </th></tr>
 <tr>
-<td><b>0</b> (0 kills)
+<td><b>0</b> (0 points)
 </td>
 <td>56.062%
 </td>
@@ -157,7 +142,7 @@ The tables below give the percentage of a certain stat on the amulet having stre
 <td>+20%
 </td></tr>
 <tr>
-<td><b>0.0075</b> (3 kills)
+<td><b>0.0075</b> (3 points)
 </td>
 <td>55.52%
 </td>
@@ -172,7 +157,7 @@ The tables below give the percentage of a certain stat on the amulet having stre
 <td>+20%
 </td></tr>
 <tr>
-<td><b>0.015</b> (6 kills)
+<td><b>0.015</b> (6 points)
 </td>
 <td>54.96%
 </td>
@@ -187,7 +172,7 @@ The tables below give the percentage of a certain stat on the amulet having stre
 <td>+20%
 </td></tr>
 <tr>
-<td><b>0.0225</b> (9 kills)
+<td><b>0.0225</b> (9 points)
 </td>
 <td>54.38%
 </td>
@@ -202,7 +187,7 @@ The tables below give the percentage of a certain stat on the amulet having stre
 <td>+20%
 </td></tr>
 <tr>
-<td><b>0.03</b> (12 kills)
+<td><b>0.03</b> (12 points)
 </td>
 <td>53.78%
 </td>
@@ -217,7 +202,7 @@ The tables below give the percentage of a certain stat on the amulet having stre
 <td>+20%
 </td></tr>
 <tr>
-<td><b>0.0375</b> (15 kills)
+<td><b>0.0375</b> (15 points)
 </td>
 <td>53.17%
 </td>
@@ -232,7 +217,7 @@ The tables below give the percentage of a certain stat on the amulet having stre
 <td>+20%
 </td></tr>
 <tr>
-<td><b>0.045</b> (18 kills)
+<td><b>0.045</b> (18 points)
 </td>
 <td>52.54%
 </td>
@@ -247,7 +232,7 @@ The tables below give the percentage of a certain stat on the amulet having stre
 <td>+20%
 </td></tr>
 <tr>
-<td><b>0.0525</b> (21 kills)
+<td><b>0.0525</b> (21 points)
 </td>
 <td>51.88%
 </td>
@@ -262,7 +247,7 @@ The tables below give the percentage of a certain stat on the amulet having stre
 <td>+21%
 </td></tr>
 <tr>
-<td><b>0.06</b> (24 kills)
+<td><b>0.06</b> (24 points)
 </td>
 <td>51.21%
 </td>
@@ -299,7 +284,7 @@ The tables below give the percentage of a certain stat on the amulet having stre
 <th>+5%
 </th></tr>
 <tr>
-<td><b>0</b> (0 kills)
+<td><b>0</b> (0 points)
 </td>
 <td>38.49%
 </td>
@@ -314,7 +299,7 @@ The tables below give the percentage of a certain stat on the amulet having stre
 <td>+2%
 </td></tr>
 <tr>
-<td><b>0.0075</b> (3 kills)
+<td><b>0.0075</b> (3 points)
 </td>
 <td>37.57%
 </td>
@@ -329,7 +314,7 @@ The tables below give the percentage of a certain stat on the amulet having stre
 <td>+2%
 </td></tr>
 <tr>
-<td><b>0.015</b> (6 kills)
+<td><b>0.015</b> (6 points)
 </td>
 <td>36.61%
 </td>
@@ -344,7 +329,7 @@ The tables below give the percentage of a certain stat on the amulet having stre
 <td>+2%
 </td></tr>
 <tr>
-<td><b>0.0225</b> (9 kills)
+<td><b>0.0225</b> (9 points)
 </td>
 <td>35.62%
 </td>
@@ -359,7 +344,7 @@ The tables below give the percentage of a certain stat on the amulet having stre
 <td>+2%
 </td></tr>
 <tr>
-<td><b>0.03</b> (12 kills)
+<td><b>0.03</b> (12 points)
 </td>
 <td>34.57%
 </td>
@@ -374,7 +359,7 @@ The tables below give the percentage of a certain stat on the amulet having stre
 <td>+2%
 </td></tr>
 <tr>
-<td><b>0.0375</b> (15 kills)
+<td><b>0.0375</b> (15 points)
 </td>
 <td>33.48%
 </td>
@@ -389,7 +374,7 @@ The tables below give the percentage of a certain stat on the amulet having stre
 <td>+2%
 </td></tr>
 <tr>
-<td><b>0.045</b> (18 kills)
+<td><b>0.045</b> (18 points)
 </td>
 <td>32.34%
 </td>
@@ -404,7 +389,7 @@ The tables below give the percentage of a certain stat on the amulet having stre
 <td>+2%
 </td></tr>
 <tr>
-<td><b>0.0525</b> (21 kills)
+<td><b>0.0525</b> (21 points)
 </td>
 <td>31.13%
 </td>
@@ -419,7 +404,7 @@ The tables below give the percentage of a certain stat on the amulet having stre
 <td>+2.1%
 </td></tr>
 <tr>
-<td><b>0.06</b> (24 kills)
+<td><b>0.06</b> (24 points)
 </td>
 <td>29.86%
 </td>
@@ -456,7 +441,7 @@ The tables below give the percentage of a certain stat on the amulet having stre
 <th>+5%
 </th></tr>
 <tr>
-<td><b>0</b> (0 kills)
+<td><b>0</b> (0 points)
 </td>
 <td>38.49%
 </td>
@@ -471,7 +456,7 @@ The tables below give the percentage of a certain stat on the amulet having stre
 <td>+2%
 </td></tr>
 <tr>
-<td><b>0.0075</b> (3 kills)
+<td><b>0.0075</b> (3 points)
 </td>
 <td>37.57%
 </td>
@@ -486,7 +471,7 @@ The tables below give the percentage of a certain stat on the amulet having stre
 <td>+2%
 </td></tr>
 <tr>
-<td><b>0.015</b> (6 kills)
+<td><b>0.015</b> (6 points)
 </td>
 <td>36.61%
 </td>
@@ -501,7 +486,7 @@ The tables below give the percentage of a certain stat on the amulet having stre
 <td>+2%
 </td></tr>
 <tr>
-<td><b>0.0225</b> (9 kills)
+<td><b>0.0225</b> (9 points)
 </td>
 <td>35.62%
 </td>
@@ -516,7 +501,7 @@ The tables below give the percentage of a certain stat on the amulet having stre
 <td>+2%
 </td></tr>
 <tr>
-<td><b>0.03</b> (12 kills)
+<td><b>0.03</b> (12 points)
 </td>
 <td>34.57%
 </td>
@@ -531,7 +516,7 @@ The tables below give the percentage of a certain stat on the amulet having stre
 <td>+2%
 </td></tr>
 <tr>
-<td><b>0.0375</b> (15 kills)
+<td><b>0.0375</b> (15 points)
 </td>
 <td>33.48%
 </td>
@@ -546,7 +531,7 @@ The tables below give the percentage of a certain stat on the amulet having stre
 <td>+2%
 </td></tr>
 <tr>
-<td><b>0.045</b> (18 kills)
+<td><b>0.045</b> (18 points)
 </td>
 <td>32.34%
 </td>
@@ -561,7 +546,7 @@ The tables below give the percentage of a certain stat on the amulet having stre
 <td>+2%
 </td></tr>
 <tr>
-<td><b>0.0525</b> (21 kills)
+<td><b>0.0525</b> (21 points)
 </td>
 <td>31.13%
 </td>
@@ -576,7 +561,7 @@ The tables below give the percentage of a certain stat on the amulet having stre
 <td>+2.1%
 </td></tr>
 <tr>
-<td><b>0.06</b> (24 kills)
+<td><b>0.06</b> (24 points)
 </td>
 <td>29.86%
 </td>
@@ -613,7 +598,7 @@ The tables below give the percentage of a certain stat on the amulet having stre
 <th>+5%
 </th></tr>
 <tr>
-<td><b>0</b> (0 kills)
+<td><b>0</b> (0 points)
 </td>
 <td>38.49%
 </td>
@@ -628,7 +613,7 @@ The tables below give the percentage of a certain stat on the amulet having stre
 <td>+2%
 </td></tr>
 <tr>
-<td><b>0.0075</b> (3 kills)
+<td><b>0.0075</b> (3 points)
 </td>
 <td>37.57%
 </td>
@@ -643,7 +628,7 @@ The tables below give the percentage of a certain stat on the amulet having stre
 <td>+2%
 </td></tr>
 <tr>
-<td><b>0.015</b> (6 kills)
+<td><b>0.015</b> (6 points)
 </td>
 <td>36.61%
 </td>
@@ -658,7 +643,7 @@ The tables below give the percentage of a certain stat on the amulet having stre
 <td>+2%
 </td></tr>
 <tr>
-<td><b>0.0225</b> (9 kills)
+<td><b>0.0225</b> (9 points)
 </td>
 <td>35.62%
 </td>
@@ -673,7 +658,7 @@ The tables below give the percentage of a certain stat on the amulet having stre
 <td>+2%
 </td></tr>
 <tr>
-<td><b>0.03</b> (12 kills)
+<td><b>0.03</b> (12 points)
 </td>
 <td>34.57%
 </td>
@@ -688,7 +673,7 @@ The tables below give the percentage of a certain stat on the amulet having stre
 <td>+2%
 </td></tr>
 <tr>
-<td><b>0.0375</b> (15 kills)
+<td><b>0.0375</b> (15 points)
 </td>
 <td>33.48%
 </td>
@@ -703,7 +688,7 @@ The tables below give the percentage of a certain stat on the amulet having stre
 <td>+2%
 </td></tr>
 <tr>
-<td><b>0.045</b> (18 kills)
+<td><b>0.045</b> (18 points)
 </td>
 <td>32.34%
 </td>
@@ -718,7 +703,7 @@ The tables below give the percentage of a certain stat on the amulet having stre
 <td>+2%
 </td></tr>
 <tr>
-<td><b>0.0525</b> (21 kills)
+<td><b>0.0525</b> (21 points)
 </td>
 <td>31.13%
 </td>
@@ -733,7 +718,7 @@ The tables below give the percentage of a certain stat on the amulet having stre
 <td>+2.1%
 </td></tr>
 <tr>
-<td><b>0.06</b> (24 kills)
+<td><b>0.06</b> (24 points)
 </td>
 <td>29.86%
 </td>
@@ -849,7 +834,7 @@ The tables below give the percentage of a certain stat on the amulet having stre
 <th>+60%
 </th></tr>
 <tr>
-<td><b>0.0625</b> (25 kills)
+<td><b>0.0625</b> (25 points)
 </td>
 <td>50.98%
 </td>
@@ -864,7 +849,7 @@ The tables below give the percentage of a certain stat on the amulet having stre
 <td>+46%
 </td></tr>
 <tr>
-<td><b>0.07</b> (28 kills)
+<td><b>0.07</b> (28 points)
 </td>
 <td>50.27%
 </td>
@@ -879,7 +864,7 @@ The tables below give the percentage of a certain stat on the amulet having stre
 <td>+46%
 </td></tr>
 <tr>
-<td><b>0.0775</b> (31 kills)
+<td><b>0.0775</b> (31 points)
 </td>
 <td>49.54%
 </td>
@@ -894,7 +879,7 @@ The tables below give the percentage of a certain stat on the amulet having stre
 <td>+46%
 </td></tr>
 <tr>
-<td><b>0.085</b> (34 kills)
+<td><b>0.085</b> (34 points)
 </td>
 <td>48.78%
 </td>
@@ -909,7 +894,7 @@ The tables below give the percentage of a certain stat on the amulet having stre
 <td>+46%
 </td></tr>
 <tr>
-<td><b>0.0925</b> (37 kills)
+<td><b>0.0925</b> (37 points)
 </td>
 <td>47.99%
 </td>
@@ -924,7 +909,7 @@ The tables below give the percentage of a certain stat on the amulet having stre
 <td>+46%
 </td></tr>
 <tr>
-<td><b>0.1</b> (40 kills)
+<td><b>0.1</b> (40 points)
 </td>
 <td>47.18%
 </td>
@@ -939,7 +924,7 @@ The tables below give the percentage of a certain stat on the amulet having stre
 <td>+46%
 </td></tr>
 <tr>
-<td><b>0.1075</b> (43 kills)
+<td><b>0.1075</b> (43 points)
 </td>
 <td>46.32%
 </td>
@@ -954,7 +939,7 @@ The tables below give the percentage of a certain stat on the amulet having stre
 <td>+46%
 </td></tr>
 <tr>
-<td><b>0.115</b> (46 kills)
+<td><b>0.115</b> (46 points)
 </td>
 <td>45.44%
 </td>
@@ -969,7 +954,7 @@ The tables below give the percentage of a certain stat on the amulet having stre
 <td>+46%
 </td></tr>
 <tr>
-<td><b>0.1225</b> (49 kills)
+<td><b>0.1225</b> (49 points)
 </td>
 <td>44.51%
 </td>
@@ -1008,7 +993,7 @@ The tables below give the percentage of a certain stat on the amulet having stre
 <th>+10%
 </th></tr>
 <tr>
-<td><b>0.0625</b> (25 kills)
+<td><b>0.0625</b> (25 points)
 </td>
 <td>29.69%
 </td>
@@ -1025,7 +1010,7 @@ The tables below give the percentage of a certain stat on the amulet having stre
 <td>+6.3%
 </td></tr>
 <tr>
-<td><b>0.07</b> (28 kills)
+<td><b>0.07</b> (28 points)
 </td>
 <td>29.22%
 </td>
@@ -1042,7 +1027,7 @@ The tables below give the percentage of a certain stat on the amulet having stre
 <td>+6.3%
 </td></tr>
 <tr>
-<td><b>0.0775</b> (31 kills)
+<td><b>0.0775</b> (31 points)
 </td>
 <td>28.74%
 </td>
@@ -1059,7 +1044,7 @@ The tables below give the percentage of a certain stat on the amulet having stre
 <td>+6.3%
 </td></tr>
 <tr>
-<td><b>0.085</b> (34 kills)
+<td><b>0.085</b> (34 points)
 </td>
 <td>28.24%
 </td>
@@ -1076,7 +1061,7 @@ The tables below give the percentage of a certain stat on the amulet having stre
 <td>+6.3%
 </td></tr>
 <tr>
-<td><b>0.0925</b> (37 kills)
+<td><b>0.0925</b> (37 points)
 </td>
 <td>27.72%
 </td>
@@ -1093,7 +1078,7 @@ The tables below give the percentage of a certain stat on the amulet having stre
 <td>+6.3%
 </td></tr>
 <tr>
-<td><b>0.1</b> (40 kills)
+<td><b>0.1</b> (40 points)
 </td>
 <td>27.17%
 </td>
@@ -1110,7 +1095,7 @@ The tables below give the percentage of a certain stat on the amulet having stre
 <td>+6.3%
 </td></tr>
 <tr>
-<td><b>0.1075</b> (43 kills)
+<td><b>0.1075</b> (43 points)
 </td>
 <td>26.61%
 </td>
@@ -1127,7 +1112,7 @@ The tables below give the percentage of a certain stat on the amulet having stre
 <td>+6.3%
 </td></tr>
 <tr>
-<td><b>0.115</b> (46 kills)
+<td><b>0.115</b> (46 points)
 </td>
 <td>26.019%
 </td>
@@ -1144,7 +1129,7 @@ The tables below give the percentage of a certain stat on the amulet having stre
 <td>+6.3%
 </td></tr>
 <tr>
-<td><b>0.1225</b> (49 kills)
+<td><b>0.1225</b> (49 points)
 </td>
 <td>25.4%
 </td>
@@ -1185,7 +1170,7 @@ The tables below give the percentage of a certain stat on the amulet having stre
 <th>+10%
 </th></tr>
 <tr>
-<td><b>0.0625</b> (25 kills)
+<td><b>0.0625</b> (25 points)
 </td>
 <td>22.071%
 </td>
@@ -1202,7 +1187,7 @@ The tables below give the percentage of a certain stat on the amulet having stre
 <td>+6.4%
 </td></tr>
 <tr>
-<td><b>0.07</b> (28 kills)
+<td><b>0.07</b> (28 points)
 </td>
 <td>20.3%
 </td>
@@ -1219,7 +1204,7 @@ The tables below give the percentage of a certain stat on the amulet having stre
 <td>+6.4%
 </td></tr>
 <tr>
-<td><b>0.0775</b> (31 kills)
+<td><b>0.0775</b> (31 points)
 </td>
 <td>18.36%
 </td>
@@ -1236,7 +1221,7 @@ The tables below give the percentage of a certain stat on the amulet having stre
 <td>+6.4%
 </td></tr>
 <tr>
-<td><b>0.085</b> (34 kills)
+<td><b>0.085</b> (34 points)
 </td>
 <td>16.17%
 </td>
@@ -1253,7 +1238,7 @@ The tables below give the percentage of a certain stat on the amulet having stre
 <td>+6.5%
 </td></tr>
 <tr>
-<td><b>0.0925</b> (37 kills)
+<td><b>0.0925</b> (37 points)
 </td>
 <td>13.6%
 </td>
@@ -1270,7 +1255,7 @@ The tables below give the percentage of a certain stat on the amulet having stre
 <td>+6.5%
 </td></tr>
 <tr>
-<td><b>0.1</b> (40 kills)
+<td><b>0.1</b> (40 points)
 </td>
 <td>10%
 </td>
@@ -1287,7 +1272,7 @@ The tables below give the percentage of a certain stat on the amulet having stre
 <td>+6.5%
 </td></tr>
 <tr>
-<td><b>0.1075</b> (43 kills)
+<td><b>0.1075</b> (43 points)
 </td>
 <td>8.0031%
 </td>
@@ -1304,7 +1289,7 @@ The tables below give the percentage of a certain stat on the amulet having stre
 <td>+6.6%
 </td></tr>
 <tr>
-<td><b>0.115</b> (46 kills)
+<td><b>0.115</b> (46 points)
 </td>
 <td>6.94%
 </td>
@@ -1321,7 +1306,7 @@ The tables below give the percentage of a certain stat on the amulet having stre
 <td>+6.6%
 </td></tr>
 <tr>
-<td><b>0.1225</b> (49 kills)
+<td><b>0.1225</b> (49 points)
 </td>
 <td>6.19%
 </td>
@@ -1362,7 +1347,7 @@ The tables below give the percentage of a certain stat on the amulet having stre
 <th>+10%
 </th></tr>
 <tr>
-<td><b>0.0625</b> (25 kills)
+<td><b>0.0625</b> (25 points)
 </td>
 <td>22.071%
 </td>
@@ -1379,7 +1364,7 @@ The tables below give the percentage of a certain stat on the amulet having stre
 <td>+6.4%
 </td></tr>
 <tr>
-<td><b>0.07</b> (28 kills)
+<td><b>0.07</b> (28 points)
 </td>
 <td>20.3%
 </td>
@@ -1396,7 +1381,7 @@ The tables below give the percentage of a certain stat on the amulet having stre
 <td>+6.4%
 </td></tr>
 <tr>
-<td><b>0.0775</b> (31 kills)
+<td><b>0.0775</b> (31 points)
 </td>
 <td>18.36%
 </td>
@@ -1413,7 +1398,7 @@ The tables below give the percentage of a certain stat on the amulet having stre
 <td>+6.4%
 </td></tr>
 <tr>
-<td><b>0.085</b> (34 kills)
+<td><b>0.085</b> (34 points)
 </td>
 <td>16.17%
 </td>
@@ -1430,7 +1415,7 @@ The tables below give the percentage of a certain stat on the amulet having stre
 <td>+6.5%
 </td></tr>
 <tr>
-<td><b>0.0925</b> (37 kills)
+<td><b>0.0925</b> (37 points)
 </td>
 <td>13.6%
 </td>
@@ -1447,7 +1432,7 @@ The tables below give the percentage of a certain stat on the amulet having stre
 <td>+6.5%
 </td></tr>
 <tr>
-<td><b>0.1</b> (40 kills)
+<td><b>0.1</b> (40 points)
 </td>
 <td>10%
 </td>
@@ -1464,7 +1449,7 @@ The tables below give the percentage of a certain stat on the amulet having stre
 <td>+6.5%
 </td></tr>
 <tr>
-<td><b>0.1075</b> (43 kills)
+<td><b>0.1075</b> (43 points)
 </td>
 <td>8.0031%
 </td>
@@ -1481,7 +1466,7 @@ The tables below give the percentage of a certain stat on the amulet having stre
 <td>+6.6%
 </td></tr>
 <tr>
-<td><b>0.115</b> (46 kills)
+<td><b>0.115</b> (46 points)
 </td>
 <td>6.94%
 </td>
@@ -1498,7 +1483,7 @@ The tables below give the percentage of a certain stat on the amulet having stre
 <td>+6.6%
 </td></tr>
 <tr>
-<td><b>0.1225</b> (49 kills)
+<td><b>0.1225</b> (49 points)
 </td>
 <td>6.19%
 </td>
@@ -1539,7 +1524,7 @@ The tables below give the percentage of a certain stat on the amulet having stre
 <th>+10%
 </th></tr>
 <tr>
-<td><b>0.0625</b> (25 kills)
+<td><b>0.0625</b> (25 points)
 </td>
 <td>22.071%
 </td>
@@ -1556,7 +1541,7 @@ The tables below give the percentage of a certain stat on the amulet having stre
 <td>+6.4%
 </td></tr>
 <tr>
-<td><b>0.07</b> (28 kills)
+<td><b>0.07</b> (28 points)
 </td>
 <td>20.3%
 </td>
@@ -1573,7 +1558,7 @@ The tables below give the percentage of a certain stat on the amulet having stre
 <td>+6.4%
 </td></tr>
 <tr>
-<td><b>0.0775</b> (31 kills)
+<td><b>0.0775</b> (31 points)
 </td>
 <td>18.36%
 </td>
@@ -1590,7 +1575,7 @@ The tables below give the percentage of a certain stat on the amulet having stre
 <td>+6.4%
 </td></tr>
 <tr>
-<td><b>0.085</b> (34 kills)
+<td><b>0.085</b> (34 points)
 </td>
 <td>16.17%
 </td>
@@ -1607,7 +1592,7 @@ The tables below give the percentage of a certain stat on the amulet having stre
 <td>+6.5%
 </td></tr>
 <tr>
-<td><b>0.0925</b> (37 kills)
+<td><b>0.0925</b> (37 points)
 </td>
 <td>13.6%
 </td>
@@ -1624,7 +1609,7 @@ The tables below give the percentage of a certain stat on the amulet having stre
 <td>+6.5%
 </td></tr>
 <tr>
-<td><b>0.1</b> (40 kills)
+<td><b>0.1</b> (40 points)
 </td>
 <td>10%
 </td>
@@ -1641,7 +1626,7 @@ The tables below give the percentage of a certain stat on the amulet having stre
 <td>+6.5%
 </td></tr>
 <tr>
-<td><b>0.1075</b> (43 kills)
+<td><b>0.1075</b> (43 points)
 </td>
 <td>8.0031%
 </td>
@@ -1658,7 +1643,7 @@ The tables below give the percentage of a certain stat on the amulet having stre
 <td>+6.6%
 </td></tr>
 <tr>
-<td><b>0.115</b> (46 kills)
+<td><b>0.115</b> (46 points)
 </td>
 <td>6.94%
 </td>
@@ -1675,7 +1660,7 @@ The tables below give the percentage of a certain stat on the amulet having stre
 <td>+6.6%
 </td></tr>
 <tr>
-<td><b>0.1225</b> (49 kills)
+<td><b>0.1225</b> (49 points)
 </td>
 <td>6.19%
 </td>
@@ -1802,7 +1787,7 @@ The tables below give the percentage of a certain stat on the amulet having stre
 <th>+80%
 </th></tr>
 <tr>
-<td><b>0.125</b> (50 kills)
+<td><b>0.125</b> (50 points)
 </td>
 <td>44.19%
 </td>
@@ -1817,7 +1802,7 @@ The tables below give the percentage of a certain stat on the amulet having stre
 <td>+66%
 </td></tr>
 <tr>
-<td><b>0.1425</b> (57 kills)
+<td><b>0.1425</b> (57 points)
 </td>
 <td>41.82%
 </td>
@@ -1832,7 +1817,7 @@ The tables below give the percentage of a certain stat on the amulet having stre
 <td>+66%
 </td></tr>
 <tr>
-<td><b>0.16</b> (64 kills)
+<td><b>0.16</b> (64 points)
 </td>
 <td>39.13%
 </td>
@@ -1847,7 +1832,7 @@ The tables below give the percentage of a certain stat on the amulet having stre
 <td>+67%
 </td></tr>
 <tr>
-<td><b>0.1775</b> (71 kills)
+<td><b>0.1775</b> (71 points)
 </td>
 <td>36.045%
 </td>
@@ -1862,7 +1847,7 @@ The tables below give the percentage of a certain stat on the amulet having stre
 <td>+67%
 </td></tr>
 <tr>
-<td><b>0.195</b> (78 kills)
+<td><b>0.195</b> (78 points)
 </td>
 <td>32.37%
 </td>
@@ -1877,7 +1862,7 @@ The tables below give the percentage of a certain stat on the amulet having stre
 <td>+67%
 </td></tr>
 <tr>
-<td><b>0.2125</b> (85 kills)
+<td><b>0.2125</b> (85 points)
 </td>
 <td>27.68%
 </td>
@@ -1892,7 +1877,7 @@ The tables below give the percentage of a certain stat on the amulet having stre
 <td>+67%
 </td></tr>
 <tr>
-<td><b>0.23</b> (92 kills)
+<td><b>0.23</b> (92 points)
 </td>
 <td>20.59%
 </td>
@@ -1907,7 +1892,7 @@ The tables below give the percentage of a certain stat on the amulet having stre
 <td>+67%
 </td></tr>
 <tr>
-<td><b>0.2475</b> (99 kills)
+<td><b>0.2475</b> (99 points)
 </td>
 <td>17.1%
 </td>
@@ -1938,7 +1923,7 @@ The tables below give the percentage of a certain stat on the amulet having stre
 <th>+1
 </th></tr>
 <tr>
-<td><b>0.125</b> (50 kills)
+<td><b>0.125</b> (50 points)
 </td>
 <td>84.52%
 </td>
@@ -1947,7 +1932,7 @@ The tables below give the percentage of a certain stat on the amulet having stre
 <td>+0.15
 </td></tr>
 <tr>
-<td><b>0.1425</b> (57 kills)
+<td><b>0.1425</b> (57 points)
 </td>
 <td>84.5%
 </td>
@@ -1956,7 +1941,7 @@ The tables below give the percentage of a certain stat on the amulet having stre
 <td>+0.16
 </td></tr>
 <tr>
-<td><b>0.16</b> (64 kills)
+<td><b>0.16</b> (64 points)
 </td>
 <td>84.47%
 </td>
@@ -1965,7 +1950,7 @@ The tables below give the percentage of a certain stat on the amulet having stre
 <td>+0.16
 </td></tr>
 <tr>
-<td><b>0.1775</b> (71 kills)
+<td><b>0.1775</b> (71 points)
 </td>
 <td>84.45%
 </td>
@@ -1974,7 +1959,7 @@ The tables below give the percentage of a certain stat on the amulet having stre
 <td>+0.16
 </td></tr>
 <tr>
-<td><b>0.195</b> (78 kills)
+<td><b>0.195</b> (78 points)
 </td>
 <td>84.42%
 </td>
@@ -1983,7 +1968,7 @@ The tables below give the percentage of a certain stat on the amulet having stre
 <td>+0.16
 </td></tr>
 <tr>
-<td><b>0.2125</b> (85 kills)
+<td><b>0.2125</b> (85 points)
 </td>
 <td>84.39%
 </td>
@@ -1992,7 +1977,7 @@ The tables below give the percentage of a certain stat on the amulet having stre
 <td>+0.16
 </td></tr>
 <tr>
-<td><b>0.23</b> (92 kills)
+<td><b>0.23</b> (92 points)
 </td>
 <td>84.36%
 </td>
@@ -2001,7 +1986,7 @@ The tables below give the percentage of a certain stat on the amulet having stre
 <td>+0.16
 </td></tr>
 <tr>
-<td><b>0.2475</b> (99 kills)
+<td><b>0.2475</b> (99 points)
 </td>
 <td>84.33%
 </td>
@@ -2026,7 +2011,7 @@ The tables below give the percentage of a certain stat on the amulet having stre
 <th>+2
 </th></tr>
 <tr>
-<td><b>0.125</b> (50 kills)
+<td><b>0.125</b> (50 points)
 </td>
 <td>81.77%
 </td>
@@ -2035,7 +2020,7 @@ The tables below give the percentage of a certain stat on the amulet having stre
 <td>+1.18
 </td></tr>
 <tr>
-<td><b>0.1425</b> (57 kills)
+<td><b>0.1425</b> (57 points)
 </td>
 <td>81.28%
 </td>
@@ -2044,7 +2029,7 @@ The tables below give the percentage of a certain stat on the amulet having stre
 <td>+1.19
 </td></tr>
 <tr>
-<td><b>0.16</b> (64 kills)
+<td><b>0.16</b> (64 points)
 </td>
 <td>80.75%
 </td>
@@ -2053,7 +2038,7 @@ The tables below give the percentage of a certain stat on the amulet having stre
 <td>+1.19
 </td></tr>
 <tr>
-<td><b>0.1775</b> (71 kills)
+<td><b>0.1775</b> (71 points)
 </td>
 <td>80.19%
 </td>
@@ -2062,7 +2047,7 @@ The tables below give the percentage of a certain stat on the amulet having stre
 <td>+1.2
 </td></tr>
 <tr>
-<td><b>0.195</b> (78 kills)
+<td><b>0.195</b> (78 points)
 </td>
 <td>79.6%
 </td>
@@ -2071,7 +2056,7 @@ The tables below give the percentage of a certain stat on the amulet having stre
 <td>+1.2
 </td></tr>
 <tr>
-<td><b>0.2125</b> (85 kills)
+<td><b>0.2125</b> (85 points)
 </td>
 <td>78.97%
 </td>
@@ -2080,7 +2065,7 @@ The tables below give the percentage of a certain stat on the amulet having stre
 <td>+1.21
 </td></tr>
 <tr>
-<td><b>0.23</b> (92 kills)
+<td><b>0.23</b> (92 points)
 </td>
 <td>78.3%
 </td>
@@ -2089,7 +2074,7 @@ The tables below give the percentage of a certain stat on the amulet having stre
 <td>+1.22
 </td></tr>
 <tr>
-<td><b>0.2475</b> (99 kills)
+<td><b>0.2475</b> (99 points)
 </td>
 <td>77.57%
 </td>
@@ -2114,7 +2099,7 @@ The tables below give the percentage of a certain stat on the amulet having stre
 <th>+2%
 </th></tr>
 <tr>
-<td><b>0.125</b> (50 kills)
+<td><b>0.125</b> (50 points)
 </td>
 <td>83.68%
 </td>
@@ -2123,7 +2108,7 @@ The tables below give the percentage of a certain stat on the amulet having stre
 <td>+1.2%
 </td></tr>
 <tr>
-<td><b>0.1425</b> (57 kills)
+<td><b>0.1425</b> (57 points)
 </td>
 <td>83.5%
 </td>
@@ -2132,7 +2117,7 @@ The tables below give the percentage of a certain stat on the amulet having stre
 <td>+1.2%
 </td></tr>
 <tr>
-<td><b>0.16</b> (64 kills)
+<td><b>0.16</b> (64 points)
 </td>
 <td>83.32%
 </td>
@@ -2141,7 +2126,7 @@ The tables below give the percentage of a certain stat on the amulet having stre
 <td>+1.2%
 </td></tr>
 <tr>
-<td><b>0.1775</b> (71 kills)
+<td><b>0.1775</b> (71 points)
 </td>
 <td>83.12%
 </td>
@@ -2150,7 +2135,7 @@ The tables below give the percentage of a certain stat on the amulet having stre
 <td>+1.2%
 </td></tr>
 <tr>
-<td><b>0.195</b> (78 kills)
+<td><b>0.195</b> (78 points)
 </td>
 <td>82.92%
 </td>
@@ -2159,7 +2144,7 @@ The tables below give the percentage of a certain stat on the amulet having stre
 <td>+1.2%
 </td></tr>
 <tr>
-<td><b>0.2125</b> (85 kills)
+<td><b>0.2125</b> (85 points)
 </td>
 <td>82.69%
 </td>
@@ -2168,7 +2153,7 @@ The tables below give the percentage of a certain stat on the amulet having stre
 <td>+1.2%
 </td></tr>
 <tr>
-<td><b>0.23</b> (92 kills)
+<td><b>0.23</b> (92 points)
 </td>
 <td>82.45%
 </td>
@@ -2177,7 +2162,7 @@ The tables below give the percentage of a certain stat on the amulet having stre
 <td>+1.2%
 </td></tr>
 <tr>
-<td><b>0.2475</b> (99 kills)
+<td><b>0.2475</b> (99 points)
 </td>
 <td>82.19%
 </td>
@@ -2206,7 +2191,7 @@ The tables below give the percentage of a certain stat on the amulet having stre
 <th>+25%
 </th></tr>
 <tr>
-<td><b>0.125</b> (50 kills)
+<td><b>0.125</b> (50 points)
 </td>
 <td>63.52%
 </td>
@@ -2219,7 +2204,7 @@ The tables below give the percentage of a certain stat on the amulet having stre
 <td>+14%
 </td></tr>
 <tr>
-<td><b>0.1425</b> (57 kills)
+<td><b>0.1425</b> (57 points)
 </td>
 <td>63.049%
 </td>
@@ -2232,7 +2217,7 @@ The tables below give the percentage of a certain stat on the amulet having stre
 <td>+14%
 </td></tr>
 <tr>
-<td><b>0.16</b> (64 kills)
+<td><b>0.16</b> (64 points)
 </td>
 <td>62.55%
 </td>
@@ -2245,7 +2230,7 @@ The tables below give the percentage of a certain stat on the amulet having stre
 <td>+14%
 </td></tr>
 <tr>
-<td><b>0.1775</b> (71 kills)
+<td><b>0.1775</b> (71 points)
 </td>
 <td>62.0083%
 </td>
@@ -2258,7 +2243,7 @@ The tables below give the percentage of a certain stat on the amulet having stre
 <td>+14%
 </td></tr>
 <tr>
-<td><b>0.195</b> (78 kills)
+<td><b>0.195</b> (78 points)
 </td>
 <td>61.43%
 </td>
@@ -2271,7 +2256,7 @@ The tables below give the percentage of a certain stat on the amulet having stre
 <td>+14%
 </td></tr>
 <tr>
-<td><b>0.2125</b> (85 kills)
+<td><b>0.2125</b> (85 points)
 </td>
 <td>60.8%
 </td>
@@ -2284,7 +2269,7 @@ The tables below give the percentage of a certain stat on the amulet having stre
 <td>+14%
 </td></tr>
 <tr>
-<td><b>0.23</b> (92 kills)
+<td><b>0.23</b> (92 points)
 </td>
 <td>60.11%
 </td>
@@ -2297,7 +2282,7 @@ The tables below give the percentage of a certain stat on the amulet having stre
 <td>+15%
 </td></tr>
 <tr>
-<td><b>0.2475</b> (99 kills)
+<td><b>0.2475</b> (99 points)
 </td>
 <td>59.37%
 </td>
@@ -2334,7 +2319,7 @@ The tables below give the percentage of a certain stat on the amulet having stre
 <th>+15%
 </th></tr>
 <tr>
-<td><b>0.125</b> (50 kills)
+<td><b>0.125</b> (50 points)
 </td>
 <td>5.98%
 </td>
@@ -2351,7 +2336,7 @@ The tables below give the percentage of a certain stat on the amulet having stre
 <td>+12%
 </td></tr>
 <tr>
-<td><b>0.1425</b> (57 kills)
+<td><b>0.1425</b> (57 points)
 </td>
 <td>4.86%
 </td>
@@ -2368,7 +2353,7 @@ The tables below give the percentage of a certain stat on the amulet having stre
 <td>+12%
 </td></tr>
 <tr>
-<td><b>0.16</b> (64 kills)
+<td><b>0.16</b> (64 points)
 </td>
 <td>4.12%
 </td>
@@ -2385,7 +2370,7 @@ The tables below give the percentage of a certain stat on the amulet having stre
 <td>+12%
 </td></tr>
 <tr>
-<td><b>0.1775</b> (71 kills)
+<td><b>0.1775</b> (71 points)
 </td>
 <td>3.58%
 </td>
@@ -2402,7 +2387,7 @@ The tables below give the percentage of a certain stat on the amulet having stre
 <td>+12%
 </td></tr>
 <tr>
-<td><b>0.195</b> (78 kills)
+<td><b>0.195</b> (78 points)
 </td>
 <td>3.17%
 </td>
@@ -2419,7 +2404,7 @@ The tables below give the percentage of a certain stat on the amulet having stre
 <td>+12%
 </td></tr>
 <tr>
-<td><b>0.2125</b> (85 kills)
+<td><b>0.2125</b> (85 points)
 </td>
 <td>2.85%
 </td>
@@ -2436,7 +2421,7 @@ The tables below give the percentage of a certain stat on the amulet having stre
 <td>+12%
 </td></tr>
 <tr>
-<td><b>0.23</b> (92 kills)
+<td><b>0.23</b> (92 points)
 </td>
 <td>2.58%
 </td>
@@ -2453,7 +2438,7 @@ The tables below give the percentage of a certain stat on the amulet having stre
 <td>+12%
 </td></tr>
 <tr>
-<td><b>0.2475</b> (99 kills)
+<td><b>0.2475</b> (99 points)
 </td>
 <td>2.37%
 </td>
@@ -2494,7 +2479,7 @@ The tables below give the percentage of a certain stat on the amulet having stre
 <th>+15%
 </th></tr>
 <tr>
-<td><b>0.125</b> (50 kills)
+<td><b>0.125</b> (50 points)
 </td>
 <td>5.98%
 </td>
@@ -2511,7 +2496,7 @@ The tables below give the percentage of a certain stat on the amulet having stre
 <td>+12%
 </td></tr>
 <tr>
-<td><b>0.1425</b> (57 kills)
+<td><b>0.1425</b> (57 points)
 </td>
 <td>4.86%
 </td>
@@ -2528,7 +2513,7 @@ The tables below give the percentage of a certain stat on the amulet having stre
 <td>+12%
 </td></tr>
 <tr>
-<td><b>0.16</b> (64 kills)
+<td><b>0.16</b> (64 points)
 </td>
 <td>4.12%
 </td>
@@ -2545,7 +2530,7 @@ The tables below give the percentage of a certain stat on the amulet having stre
 <td>+12%
 </td></tr>
 <tr>
-<td><b>0.1775</b> (71 kills)
+<td><b>0.1775</b> (71 points)
 </td>
 <td>3.58%
 </td>
@@ -2562,7 +2547,7 @@ The tables below give the percentage of a certain stat on the amulet having stre
 <td>+12%
 </td></tr>
 <tr>
-<td><b>0.195</b> (78 kills)
+<td><b>0.195</b> (78 points)
 </td>
 <td>3.17%
 </td>
@@ -2579,7 +2564,7 @@ The tables below give the percentage of a certain stat on the amulet having stre
 <td>+12%
 </td></tr>
 <tr>
-<td><b>0.2125</b> (85 kills)
+<td><b>0.2125</b> (85 points)
 </td>
 <td>2.85%
 </td>
@@ -2596,7 +2581,7 @@ The tables below give the percentage of a certain stat on the amulet having stre
 <td>+12%
 </td></tr>
 <tr>
-<td><b>0.23</b> (92 kills)
+<td><b>0.23</b> (92 points)
 </td>
 <td>2.58%
 </td>
@@ -2613,7 +2598,7 @@ The tables below give the percentage of a certain stat on the amulet having stre
 <td>+12%
 </td></tr>
 <tr>
-<td><b>0.2475</b> (99 kills)
+<td><b>0.2475</b> (99 points)
 </td>
 <td>2.37%
 </td>
@@ -2654,7 +2639,7 @@ The tables below give the percentage of a certain stat on the amulet having stre
 <th>+15%
 </th></tr>
 <tr>
-<td><b>0.125</b> (50 kills)
+<td><b>0.125</b> (50 points)
 </td>
 <td>5.98%
 </td>
@@ -2671,7 +2656,7 @@ The tables below give the percentage of a certain stat on the amulet having stre
 <td>+12%
 </td></tr>
 <tr>
-<td><b>0.1425</b> (57 kills)
+<td><b>0.1425</b> (57 points)
 </td>
 <td>4.86%
 </td>
@@ -2688,7 +2673,7 @@ The tables below give the percentage of a certain stat on the amulet having stre
 <td>+12%
 </td></tr>
 <tr>
-<td><b>0.16</b> (64 kills)
+<td><b>0.16</b> (64 points)
 </td>
 <td>4.12%
 </td>
@@ -2705,7 +2690,7 @@ The tables below give the percentage of a certain stat on the amulet having stre
 <td>+12%
 </td></tr>
 <tr>
-<td><b>0.1775</b> (71 kills)
+<td><b>0.1775</b> (71 points)
 </td>
 <td>3.58%
 </td>
@@ -2722,7 +2707,7 @@ The tables below give the percentage of a certain stat on the amulet having stre
 <td>+12%
 </td></tr>
 <tr>
-<td><b>0.195</b> (78 kills)
+<td><b>0.195</b> (78 points)
 </td>
 <td>3.17%
 </td>
@@ -2739,7 +2724,7 @@ The tables below give the percentage of a certain stat on the amulet having stre
 <td>+12%
 </td></tr>
 <tr>
-<td><b>0.2125</b> (85 kills)
+<td><b>0.2125</b> (85 points)
 </td>
 <td>2.85%
 </td>
@@ -2756,7 +2741,7 @@ The tables below give the percentage of a certain stat on the amulet having stre
 <td>+12%
 </td></tr>
 <tr>
-<td><b>0.23</b> (92 kills)
+<td><b>0.23</b> (92 points)
 </td>
 <td>2.58%
 </td>
@@ -2773,7 +2758,7 @@ The tables below give the percentage of a certain stat on the amulet having stre
 <td>+12%
 </td></tr>
 <tr>
-<td><b>0.2475</b> (99 kills)
+<td><b>0.2475</b> (99 points)
 </td>
 <td>2.37%
 </td>
@@ -2893,7 +2878,7 @@ The tables below give the percentage of a certain stat on the amulet having stre
 <th>+90%
 </th></tr>
 <tr>
-<td><b>0.25</b> (100 kills)
+<td><b>0.25</b> (100 points)
 </td>
 <td>5.84%
 </td>
@@ -2910,7 +2895,7 @@ The tables below give the percentage of a certain stat on the amulet having stre
 <td>+84%
 </td></tr>
 <tr>
-<td><b>0.2675</b> (107 kills)
+<td><b>0.2675</b> (107 points)
 </td>
 <td>5.33%
 </td>
@@ -2927,7 +2912,7 @@ The tables below give the percentage of a certain stat on the amulet having stre
 <td>+84%
 </td></tr>
 <tr>
-<td><b>0.285</b> (114 kills)
+<td><b>0.285</b> (114 points)
 </td>
 <td>4.91%
 </td>
@@ -2944,7 +2929,7 @@ The tables below give the percentage of a certain stat on the amulet having stre
 <td>+84%
 </td></tr>
 <tr>
-<td><b>0.3025</b> (121 kills)
+<td><b>0.3025</b> (121 points)
 </td>
 <td>4.56%
 </td>
@@ -2961,7 +2946,7 @@ The tables below give the percentage of a certain stat on the amulet having stre
 <td>+84%
 </td></tr>
 <tr>
-<td><b>0.32</b> (128 kills)
+<td><b>0.32</b> (128 points)
 </td>
 <td>4.25%
 </td>
@@ -2978,7 +2963,7 @@ The tables below give the percentage of a certain stat on the amulet having stre
 <td>+84%
 </td></tr>
 <tr>
-<td><b>0.3375</b> (135 kills)
+<td><b>0.3375</b> (135 points)
 </td>
 <td>3.98%
 </td>
@@ -2995,7 +2980,7 @@ The tables below give the percentage of a certain stat on the amulet having stre
 <td>+84%
 </td></tr>
 <tr>
-<td><b>0.355</b> (142 kills)
+<td><b>0.355</b> (142 points)
 </td>
 <td>3.74%
 </td>
@@ -3012,7 +2997,7 @@ The tables below give the percentage of a certain stat on the amulet having stre
 <td>+84%
 </td></tr>
 <tr>
-<td><b>0.3725</b> (149 kills)
+<td><b>0.3725</b> (149 points)
 </td>
 <td>3.53%
 </td>
@@ -3045,7 +3030,7 @@ The tables below give the percentage of a certain stat on the amulet having stre
 <th>+2%
 </th></tr>
 <tr>
-<td><b>0.25</b> (100 kills)
+<td><b>0.25</b> (100 points)
 </td>
 <td>82.15%
 </td>
@@ -3054,7 +3039,7 @@ The tables below give the percentage of a certain stat on the amulet having stre
 <td>+1.2%
 </td></tr>
 <tr>
-<td><b>0.2675</b> (107 kills)
+<td><b>0.2675</b> (107 points)
 </td>
 <td>81.86%
 </td>
@@ -3063,7 +3048,7 @@ The tables below give the percentage of a certain stat on the amulet having stre
 <td>+1.2%
 </td></tr>
 <tr>
-<td><b>0.285</b> (114 kills)
+<td><b>0.285</b> (114 points)
 </td>
 <td>81.55%
 </td>
@@ -3072,7 +3057,7 @@ The tables below give the percentage of a certain stat on the amulet having stre
 <td>+1.2%
 </td></tr>
 <tr>
-<td><b>0.3025</b> (121 kills)
+<td><b>0.3025</b> (121 points)
 </td>
 <td>81.22%
 </td>
@@ -3081,7 +3066,7 @@ The tables below give the percentage of a certain stat on the amulet having stre
 <td>+1.2%
 </td></tr>
 <tr>
-<td><b>0.32</b> (128 kills)
+<td><b>0.32</b> (128 points)
 </td>
 <td>80.85%
 </td>
@@ -3090,7 +3075,7 @@ The tables below give the percentage of a certain stat on the amulet having stre
 <td>+1.2%
 </td></tr>
 <tr>
-<td><b>0.3375</b> (135 kills)
+<td><b>0.3375</b> (135 points)
 </td>
 <td>80.44%
 </td>
@@ -3099,7 +3084,7 @@ The tables below give the percentage of a certain stat on the amulet having stre
 <td>+1.2%
 </td></tr>
 <tr>
-<td><b>0.355</b> (142 kills)
+<td><b>0.355</b> (142 points)
 </td>
 <td>80%
 </td>
@@ -3108,7 +3093,7 @@ The tables below give the percentage of a certain stat on the amulet having stre
 <td>+1.2%
 </td></tr>
 <tr>
-<td><b>0.3725</b> (149 kills)
+<td><b>0.3725</b> (149 points)
 </td>
 <td>79.5%
 </td>
@@ -3137,7 +3122,7 @@ The tables below give the percentage of a certain stat on the amulet having stre
 <th>+40%
 </th></tr>
 <tr>
-<td><b>0.25</b> (100 kills)
+<td><b>0.25</b> (100 points)
 </td>
 <td>59.26%
 </td>
@@ -3150,7 +3135,7 @@ The tables below give the percentage of a certain stat on the amulet having stre
 <td>+30%
 </td></tr>
 <tr>
-<td><b>0.2675</b> (107 kills)
+<td><b>0.2675</b> (107 points)
 </td>
 <td>58.43%
 </td>
@@ -3163,7 +3148,7 @@ The tables below give the percentage of a certain stat on the amulet having stre
 <td>+30%
 </td></tr>
 <tr>
-<td><b>0.285</b> (114 kills)
+<td><b>0.285</b> (114 points)
 </td>
 <td>57.52%
 </td>
@@ -3176,7 +3161,7 @@ The tables below give the percentage of a certain stat on the amulet having stre
 <td>+30%
 </td></tr>
 <tr>
-<td><b>0.3025</b> (121 kills)
+<td><b>0.3025</b> (121 points)
 </td>
 <td>56.51%
 </td>
@@ -3189,7 +3174,7 @@ The tables below give the percentage of a certain stat on the amulet having stre
 <td>+30%
 </td></tr>
 <tr>
-<td><b>0.32</b> (128 kills)
+<td><b>0.32</b> (128 points)
 </td>
 <td>55.38%
 </td>
@@ -3202,7 +3187,7 @@ The tables below give the percentage of a certain stat on the amulet having stre
 <td>+30%
 </td></tr>
 <tr>
-<td><b>0.3375</b> (135 kills)
+<td><b>0.3375</b> (135 points)
 </td>
 <td>54.12%
 </td>
@@ -3215,7 +3200,7 @@ The tables below give the percentage of a certain stat on the amulet having stre
 <td>+30%
 </td></tr>
 <tr>
-<td><b>0.355</b> (142 kills)
+<td><b>0.355</b> (142 points)
 </td>
 <td>52.69%
 </td>
@@ -3228,7 +3213,7 @@ The tables below give the percentage of a certain stat on the amulet having stre
 <td>+30%
 </td></tr>
 <tr>
-<td><b>0.3725</b> (149 kills)
+<td><b>0.3725</b> (149 points)
 </td>
 <td>51.049%
 </td>
@@ -3265,7 +3250,7 @@ The tables below give the percentage of a certain stat on the amulet having stre
 <th>+20%
 </th></tr>
 <tr>
-<td><b>0.25</b> (100 kills)
+<td><b>0.25</b> (100 points)
 </td>
 <td>2.34%
 </td>
@@ -3282,7 +3267,7 @@ The tables below give the percentage of a certain stat on the amulet having stre
 <td>+17%
 </td></tr>
 <tr>
-<td><b>0.2675</b> (107 kills)
+<td><b>0.2675</b> (107 points)
 </td>
 <td>2.16%
 </td>
@@ -3299,7 +3284,7 @@ The tables below give the percentage of a certain stat on the amulet having stre
 <td>+17%
 </td></tr>
 <tr>
-<td><b>0.285</b> (114 kills)
+<td><b>0.285</b> (114 points)
 </td>
 <td>2.0055%
 </td>
@@ -3316,7 +3301,7 @@ The tables below give the percentage of a certain stat on the amulet having stre
 <td>+17%
 </td></tr>
 <tr>
-<td><b>0.3025</b> (121 kills)
+<td><b>0.3025</b> (121 points)
 </td>
 <td>1.87%
 </td>
@@ -3333,7 +3318,7 @@ The tables below give the percentage of a certain stat on the amulet having stre
 <td>+17%
 </td></tr>
 <tr>
-<td><b>0.32</b> (128 kills)
+<td><b>0.32</b> (128 points)
 </td>
 <td>1.76%
 </td>
@@ -3350,7 +3335,7 @@ The tables below give the percentage of a certain stat on the amulet having stre
 <td>+17%
 </td></tr>
 <tr>
-<td><b>0.3375</b> (135 kills)
+<td><b>0.3375</b> (135 points)
 </td>
 <td>1.65%
 </td>
@@ -3367,7 +3352,7 @@ The tables below give the percentage of a certain stat on the amulet having stre
 <td>+17%
 </td></tr>
 <tr>
-<td><b>0.355</b> (142 kills)
+<td><b>0.355</b> (142 points)
 </td>
 <td>1.56%
 </td>
@@ -3384,7 +3369,7 @@ The tables below give the percentage of a certain stat on the amulet having stre
 <td>+17%
 </td></tr>
 <tr>
-<td><b>0.3725</b> (149 kills)
+<td><b>0.3725</b> (149 points)
 </td>
 <td>1.48%
 </td>
@@ -3425,7 +3410,7 @@ The tables below give the percentage of a certain stat on the amulet having stre
 <th>+20%
 </th></tr>
 <tr>
-<td><b>0.25</b> (100 kills)
+<td><b>0.25</b> (100 points)
 </td>
 <td>2.34%
 </td>
@@ -3442,7 +3427,7 @@ The tables below give the percentage of a certain stat on the amulet having stre
 <td>+17%
 </td></tr>
 <tr>
-<td><b>0.2675</b> (107 kills)
+<td><b>0.2675</b> (107 points)
 </td>
 <td>2.16%
 </td>
@@ -3459,7 +3444,7 @@ The tables below give the percentage of a certain stat on the amulet having stre
 <td>+17%
 </td></tr>
 <tr>
-<td><b>0.285</b> (114 kills)
+<td><b>0.285</b> (114 points)
 </td>
 <td>2.0055%
 </td>
@@ -3476,7 +3461,7 @@ The tables below give the percentage of a certain stat on the amulet having stre
 <td>+17%
 </td></tr>
 <tr>
-<td><b>0.3025</b> (121 kills)
+<td><b>0.3025</b> (121 points)
 </td>
 <td>1.87%
 </td>
@@ -3493,7 +3478,7 @@ The tables below give the percentage of a certain stat on the amulet having stre
 <td>+17%
 </td></tr>
 <tr>
-<td><b>0.32</b> (128 kills)
+<td><b>0.32</b> (128 points)
 </td>
 <td>1.76%
 </td>
@@ -3510,7 +3495,7 @@ The tables below give the percentage of a certain stat on the amulet having stre
 <td>+17%
 </td></tr>
 <tr>
-<td><b>0.3375</b> (135 kills)
+<td><b>0.3375</b> (135 points)
 </td>
 <td>1.65%
 </td>
@@ -3527,7 +3512,7 @@ The tables below give the percentage of a certain stat on the amulet having stre
 <td>+17%
 </td></tr>
 <tr>
-<td><b>0.355</b> (142 kills)
+<td><b>0.355</b> (142 points)
 </td>
 <td>1.56%
 </td>
@@ -3544,7 +3529,7 @@ The tables below give the percentage of a certain stat on the amulet having stre
 <td>+17%
 </td></tr>
 <tr>
-<td><b>0.3725</b> (149 kills)
+<td><b>0.3725</b> (149 points)
 </td>
 <td>1.48%
 </td>
@@ -3585,7 +3570,7 @@ The tables below give the percentage of a certain stat on the amulet having stre
 <th>+20%
 </th></tr>
 <tr>
-<td><b>0.25</b> (100 kills)
+<td><b>0.25</b> (100 points)
 </td>
 <td>2.34%
 </td>
@@ -3602,7 +3587,7 @@ The tables below give the percentage of a certain stat on the amulet having stre
 <td>+17%
 </td></tr>
 <tr>
-<td><b>0.2675</b> (107 kills)
+<td><b>0.2675</b> (107 points)
 </td>
 <td>2.16%
 </td>
@@ -3619,7 +3604,7 @@ The tables below give the percentage of a certain stat on the amulet having stre
 <td>+17%
 </td></tr>
 <tr>
-<td><b>0.285</b> (114 kills)
+<td><b>0.285</b> (114 points)
 </td>
 <td>2.0055%
 </td>
@@ -3636,7 +3621,7 @@ The tables below give the percentage of a certain stat on the amulet having stre
 <td>+17%
 </td></tr>
 <tr>
-<td><b>0.3025</b> (121 kills)
+<td><b>0.3025</b> (121 points)
 </td>
 <td>1.87%
 </td>
@@ -3653,7 +3638,7 @@ The tables below give the percentage of a certain stat on the amulet having stre
 <td>+17%
 </td></tr>
 <tr>
-<td><b>0.32</b> (128 kills)
+<td><b>0.32</b> (128 points)
 </td>
 <td>1.76%
 </td>
@@ -3670,7 +3655,7 @@ The tables below give the percentage of a certain stat on the amulet having stre
 <td>+17%
 </td></tr>
 <tr>
-<td><b>0.3375</b> (135 kills)
+<td><b>0.3375</b> (135 points)
 </td>
 <td>1.65%
 </td>
@@ -3687,7 +3672,7 @@ The tables below give the percentage of a certain stat on the amulet having stre
 <td>+17%
 </td></tr>
 <tr>
-<td><b>0.355</b> (142 kills)
+<td><b>0.355</b> (142 points)
 </td>
 <td>1.56%
 </td>
@@ -3704,7 +3689,7 @@ The tables below give the percentage of a certain stat on the amulet having stre
 <td>+17%
 </td></tr>
 <tr>
-<td><b>0.3725</b> (149 kills)
+<td><b>0.3725</b> (149 points)
 </td>
 <td>1.48%
 </td>
@@ -3836,7 +3821,7 @@ The tables below give the percentage of a certain stat on the amulet having stre
 <th>+110%
 </th></tr>
 <tr>
-<td><b>0.375</b> (150 kills)
+<td><b>0.375</b> (150 points)
 </td>
 <td>8.76%
 </td>
@@ -3851,7 +3836,7 @@ The tables below give the percentage of a certain stat on the amulet having stre
 <td>+99%
 </td></tr>
 <tr>
-<td><b>0.4375</b> (175 kills)
+<td><b>0.4375</b> (175 points)
 </td>
 <td>7.15%
 </td>
@@ -3866,7 +3851,7 @@ The tables below give the percentage of a certain stat on the amulet having stre
 <td>+99%
 </td></tr>
 <tr>
-<td><b>0.5</b> (200 kills)
+<td><b>0.5</b> (200 points)
 </td>
 <td>6.059%
 </td>
@@ -3881,7 +3866,7 @@ The tables below give the percentage of a certain stat on the amulet having stre
 <td>+100%
 </td></tr>
 <tr>
-<td><b>0.5625</b> (225 kills)
+<td><b>0.5625</b> (225 points)
 </td>
 <td>5.26%
 </td>
@@ -3896,7 +3881,7 @@ The tables below give the percentage of a certain stat on the amulet having stre
 <td>+100.62%
 </td></tr>
 <tr>
-<td><b>0.625</b> (250 kills)
+<td><b>0.625</b> (250 points)
 </td>
 <td>4.65%
 </td>
@@ -3911,7 +3896,7 @@ The tables below give the percentage of a certain stat on the amulet having stre
 <td>+101.2%
 </td></tr>
 <tr>
-<td><b>0.6875</b> (275 kills)
+<td><b>0.6875</b> (275 points)
 </td>
 <td>4.17%
 </td>
@@ -3926,7 +3911,7 @@ The tables below give the percentage of a certain stat on the amulet having stre
 <td>+101.9%
 </td></tr>
 <tr>
-<td><b>0.75</b> (300 kills)
+<td><b>0.75</b> (300 points)
 </td>
 <td>3.77%
 </td>
@@ -3941,7 +3926,7 @@ The tables below give the percentage of a certain stat on the amulet having stre
 <td>+102.5%
 </td></tr>
 <tr>
-<td><b>0.8125</b> (325 kills)
+<td><b>0.8125</b> (325 points)
 </td>
 <td>3.45%
 </td>
@@ -3956,7 +3941,7 @@ The tables below give the percentage of a certain stat on the amulet having stre
 <td>+103.1%
 </td></tr>
 <tr>
-<td><b>0.875</b> (350 kills)
+<td><b>0.875</b> (350 points)
 </td>
 <td>3.18%
 </td>
@@ -3971,7 +3956,7 @@ The tables below give the percentage of a certain stat on the amulet having stre
 <td>+103.7%
 </td></tr>
 <tr>
-<td><b>0.9375</b> (375 kills)
+<td><b>0.9375</b> (375 points)
 </td>
 <td>2.95%
 </td>
@@ -3986,7 +3971,7 @@ The tables below give the percentage of a certain stat on the amulet having stre
 <td>+104.4%
 </td></tr>
 <tr>
-<td><b>1</b> (400+ kills)
+<td><b>1</b> (400+ points)
 </td>
 <td>2.75%
 </td>
@@ -4017,7 +4002,7 @@ The tables below give the percentage of a certain stat on the amulet having stre
 <th>+3
 </th></tr>
 <tr>
-<td><b>0.375</b> (150 kills)
+<td><b>0.375</b> (150 points)
 </td>
 <td>84.054%
 </td>
@@ -4026,7 +4011,7 @@ The tables below give the percentage of a certain stat on the amulet having stre
 <td>+2.16
 </td></tr>
 <tr>
-<td><b>0.4375</b> (175 kills)
+<td><b>0.4375</b> (175 points)
 </td>
 <td>83.87%
 </td>
@@ -4035,7 +4020,7 @@ The tables below give the percentage of a certain stat on the amulet having stre
 <td>+2.16
 </td></tr>
 <tr>
-<td><b>0.5</b> (200 kills)
+<td><b>0.5</b> (200 points)
 </td>
 <td>83.62%
 </td>
@@ -4044,7 +4029,7 @@ The tables below give the percentage of a certain stat on the amulet having stre
 <td>+2.16
 </td></tr>
 <tr>
-<td><b>0.5625</b> (225 kills)
+<td><b>0.5625</b> (225 points)
 </td>
 <td>83.3%
 </td>
@@ -4053,7 +4038,7 @@ The tables below give the percentage of a certain stat on the amulet having stre
 <td>+2.17
 </td></tr>
 <tr>
-<td><b>0.625</b> (250 kills)
+<td><b>0.625</b> (250 points)
 </td>
 <td>82.85%
 </td>
@@ -4062,7 +4047,7 @@ The tables below give the percentage of a certain stat on the amulet having stre
 <td>+2.17
 </td></tr>
 <tr>
-<td><b>0.6875</b> (275 kills)
+<td><b>0.6875</b> (275 points)
 </td>
 <td>82.18%
 </td>
@@ -4071,7 +4056,7 @@ The tables below give the percentage of a certain stat on the amulet having stre
 <td>+2.18
 </td></tr>
 <tr>
-<td><b>0.75</b> (300 kills)
+<td><b>0.75</b> (300 points)
 </td>
 <td>81.056%
 </td>
@@ -4080,7 +4065,7 @@ The tables below give the percentage of a certain stat on the amulet having stre
 <td>+2.19
 </td></tr>
 <tr>
-<td><b>0.8125</b> (325 kills)
+<td><b>0.8125</b> (325 points)
 </td>
 <td>78.81%
 </td>
@@ -4089,7 +4074,7 @@ The tables below give the percentage of a certain stat on the amulet having stre
 <td>+2.21
 </td></tr>
 <tr>
-<td><b>0.875</b> (350 kills)
+<td><b>0.875</b> (350 points)
 </td>
 <td>72%
 </td>
@@ -4098,7 +4083,7 @@ The tables below give the percentage of a certain stat on the amulet having stre
 <td>+2.28
 </td></tr>
 <tr>
-<td><b>0.9375</b> (375 kills)
+<td><b>0.9375</b> (375 points)
 </td>
 <td>22.53%
 </td>
@@ -4107,7 +4092,7 @@ The tables below give the percentage of a certain stat on the amulet having stre
 <td>+2.77
 </td></tr>
 <tr>
-<td><b>1</b> (400+ kills)
+<td><b>1</b> (400+ points)
 </td>
 <td>15.34%
 </td>
@@ -4132,7 +4117,7 @@ The tables below give the percentage of a certain stat on the amulet having stre
 <th>+3%
 </th></tr>
 <tr>
-<td><b>0.375</b> (150 kills)
+<td><b>0.375</b> (150 points)
 </td>
 <td>83.4%
 </td>
@@ -4141,7 +4126,7 @@ The tables below give the percentage of a certain stat on the amulet having stre
 <td>+2.2%
 </td></tr>
 <tr>
-<td><b>0.4375</b> (175 kills)
+<td><b>0.4375</b> (175 points)
 </td>
 <td>82.99%
 </td>
@@ -4150,7 +4135,7 @@ The tables below give the percentage of a certain stat on the amulet having stre
 <td>+2.2%
 </td></tr>
 <tr>
-<td><b>0.5</b> (200 kills)
+<td><b>0.5</b> (200 points)
 </td>
 <td>82.44%
 </td>
@@ -4159,7 +4144,7 @@ The tables below give the percentage of a certain stat on the amulet having stre
 <td>+2.2%
 </td></tr>
 <tr>
-<td><b>0.5625</b> (225 kills)
+<td><b>0.5625</b> (225 points)
 </td>
 <td>81.67%
 </td>
@@ -4168,7 +4153,7 @@ The tables below give the percentage of a certain stat on the amulet having stre
 <td>+2.2%
 </td></tr>
 <tr>
-<td><b>0.625</b> (250 kills)
+<td><b>0.625</b> (250 points)
 </td>
 <td>80.54%
 </td>
@@ -4177,7 +4162,7 @@ The tables below give the percentage of a certain stat on the amulet having stre
 <td>+2.2%
 </td></tr>
 <tr>
-<td><b>0.6875</b> (275 kills)
+<td><b>0.6875</b> (275 points)
 </td>
 <td>78.69%
 </td>
@@ -4186,7 +4171,7 @@ The tables below give the percentage of a certain stat on the amulet having stre
 <td>+2.2%
 </td></tr>
 <tr>
-<td><b>0.75</b> (300 kills)
+<td><b>0.75</b> (300 points)
 </td>
 <td>75.055%
 </td>
@@ -4195,7 +4180,7 @@ The tables below give the percentage of a certain stat on the amulet having stre
 <td>+2.2%
 </td></tr>
 <tr>
-<td><b>0.8125</b> (325 kills)
+<td><b>0.8125</b> (325 points)
 </td>
 <td>64.27%
 </td>
@@ -4204,7 +4189,7 @@ The tables below give the percentage of a certain stat on the amulet having stre
 <td>+2.4%
 </td></tr>
 <tr>
-<td><b>0.875</b> (350 kills)
+<td><b>0.875</b> (350 points)
 </td>
 <td>24.94%
 </td>
@@ -4213,7 +4198,7 @@ The tables below give the percentage of a certain stat on the amulet having stre
 <td>+2.8%
 </td></tr>
 <tr>
-<td><b>0.9375</b> (375 kills)
+<td><b>0.9375</b> (375 points)
 </td>
 <td>16.66%
 </td>
@@ -4222,7 +4207,7 @@ The tables below give the percentage of a certain stat on the amulet having stre
 <td>+2.8%
 </td></tr>
 <tr>
-<td><b>1</b> (400+ kills)
+<td><b>1</b> (400+ points)
 </td>
 <td>15.34%
 </td>
@@ -4251,7 +4236,7 @@ The tables below give the percentage of a certain stat on the amulet having stre
 <th>+50%
 </th></tr>
 <tr>
-<td><b>0.375</b> (150 kills)
+<td><b>0.375</b> (150 points)
 </td>
 <td>50.79%
 </td>
@@ -4264,7 +4249,7 @@ The tables below give the percentage of a certain stat on the amulet having stre
 <td>+40%
 </td></tr>
 <tr>
-<td><b>0.4375</b> (175 kills)
+<td><b>0.4375</b> (175 points)
 </td>
 <td>41.82%
 </td>
@@ -4277,7 +4262,7 @@ The tables below give the percentage of a certain stat on the amulet having stre
 <td>+41%
 </td></tr>
 <tr>
-<td><b>0.5</b> (200 kills)
+<td><b>0.5</b> (200 points)
 </td>
 <td>22.32%
 </td>
@@ -4290,7 +4275,7 @@ The tables below give the percentage of a certain stat on the amulet having stre
 <td>+41%
 </td></tr>
 <tr>
-<td><b>0.5625</b> (225 kills)
+<td><b>0.5625</b> (225 points)
 </td>
 <td>14.52%
 </td>
@@ -4303,7 +4288,7 @@ The tables below give the percentage of a certain stat on the amulet having stre
 <td>+42%
 </td></tr>
 <tr>
-<td><b>0.625</b> (250 kills)
+<td><b>0.625</b> (250 points)
 </td>
 <td>10.16%
 </td>
@@ -4316,7 +4301,7 @@ The tables below give the percentage of a certain stat on the amulet having stre
 <td>+43%
 </td></tr>
 <tr>
-<td><b>0.6875</b> (275 kills)
+<td><b>0.6875</b> (275 points)
 </td>
 <td>7.78%
 </td>
@@ -4329,7 +4314,7 @@ The tables below give the percentage of a certain stat on the amulet having stre
 <td>+44%
 </td></tr>
 <tr>
-<td><b>0.75</b> (300 kills)
+<td><b>0.75</b> (300 points)
 </td>
 <td>7.013%
 </td>
@@ -4342,7 +4327,7 @@ The tables below give the percentage of a certain stat on the amulet having stre
 <td>+44%
 </td></tr>
 <tr>
-<td><b>0.8125</b> (325 kills)
+<td><b>0.8125</b> (325 points)
 </td>
 <td>6.38%
 </td>
@@ -4355,7 +4340,7 @@ The tables below give the percentage of a certain stat on the amulet having stre
 <td>+45%
 </td></tr>
 <tr>
-<td><b>0.875</b> (350 kills)
+<td><b>0.875</b> (350 points)
 </td>
 <td>5.86%
 </td>
@@ -4368,7 +4353,7 @@ The tables below give the percentage of a certain stat on the amulet having stre
 <td>+45%
 </td></tr>
 <tr>
-<td><b>0.9375</b> (375 kills)
+<td><b>0.9375</b> (375 points)
 </td>
 <td>5.41%
 </td>
@@ -4381,7 +4366,7 @@ The tables below give the percentage of a certain stat on the amulet having stre
 <td>+46%
 </td></tr>
 <tr>
-<td><b>1</b> (400+ kills)
+<td><b>1</b> (400+ points)
 </td>
 <td>5.033%
 </td>
@@ -4416,7 +4401,7 @@ The tables below give the percentage of a certain stat on the amulet having stre
 <th>+5%
 </th></tr>
 <tr>
-<td><b>0.375</b> (150 kills)
+<td><b>0.375</b> (150 points)
 </td>
 <td>29.86%
 </td>
@@ -4431,7 +4416,7 @@ The tables below give the percentage of a certain stat on the amulet having stre
 <td>+2.1%
 </td></tr>
 <tr>
-<td><b>0.4375</b> (175 kills)
+<td><b>0.4375</b> (175 points)
 </td>
 <td>26.53%
 </td>
@@ -4446,7 +4431,7 @@ The tables below give the percentage of a certain stat on the amulet having stre
 <td>+2.1%
 </td></tr>
 <tr>
-<td><b>0.5</b> (200 kills)
+<td><b>0.5</b> (200 points)
 </td>
 <td>21.46%
 </td>
@@ -4461,7 +4446,7 @@ The tables below give the percentage of a certain stat on the amulet having stre
 <td>+2.2%
 </td></tr>
 <tr>
-<td><b>0.5625</b> (225 kills)
+<td><b>0.5625</b> (225 points)
 </td>
 <td>11.22%
 </td>
@@ -4476,7 +4461,7 @@ The tables below give the percentage of a certain stat on the amulet having stre
 <td>+2.3%
 </td></tr>
 <tr>
-<td><b>0.625</b> (250 kills)
+<td><b>0.625</b> (250 points)
 </td>
 <td>6.72%
 </td>
@@ -4491,7 +4476,7 @@ The tables below give the percentage of a certain stat on the amulet having stre
 <td>+2.4%
 </td></tr>
 <tr>
-<td><b>0.6875</b> (275 kills)
+<td><b>0.6875</b> (275 points)
 </td>
 <td>4.52%
 </td>
@@ -4506,7 +4491,7 @@ The tables below give the percentage of a certain stat on the amulet having stre
 <td>+2.4%
 </td></tr>
 <tr>
-<td><b>0.75</b> (300 kills)
+<td><b>0.75</b> (300 points)
 </td>
 <td>3.068%
 </td>
@@ -4521,7 +4506,7 @@ The tables below give the percentage of a certain stat on the amulet having stre
 <td>+2.6%
 </td></tr>
 <tr>
-<td><b>0.8125</b> (325 kills)
+<td><b>0.8125</b> (325 points)
 </td>
 <td>2.0066%
 </td>
@@ -4536,7 +4521,7 @@ The tables below give the percentage of a certain stat on the amulet having stre
 <td>+2.9%
 </td></tr>
 <tr>
-<td><b>0.875</b> (350 kills)
+<td><b>0.875</b> (350 points)
 </td>
 <td>1.19%
 </td>
@@ -4551,7 +4536,7 @@ The tables below give the percentage of a certain stat on the amulet having stre
 <td>+3.4%
 </td></tr>
 <tr>
-<td><b>0.9375</b> (375 kills)
+<td><b>0.9375</b> (375 points)
 </td>
 <td>0.87%
 </td>
@@ -4566,7 +4551,7 @@ The tables below give the percentage of a certain stat on the amulet having stre
 <td>+3.9%
 </td></tr>
 <tr>
-<td><b>1</b> (400+ kills)
+<td><b>1</b> (400+ points)
 </td>
 <td>0.82%
 </td>
@@ -4605,7 +4590,7 @@ The tables below give the percentage of a certain stat on the amulet having stre
 <th>+30%
 </th></tr>
 <tr>
-<td><b>0.375</b> (150 kills)
+<td><b>0.375</b> (150 points)
 </td>
 <td>3.51%
 </td>
@@ -4622,7 +4607,7 @@ The tables below give the percentage of a certain stat on the amulet having stre
 <td>+24%
 </td></tr>
 <tr>
-<td><b>0.4375</b> (175 kills)
+<td><b>0.4375</b> (175 points)
 </td>
 <td>2.93%
 </td>
@@ -4639,7 +4624,7 @@ The tables below give the percentage of a certain stat on the amulet having stre
 <td>+25%
 </td></tr>
 <tr>
-<td><b>0.5</b> (200 kills)
+<td><b>0.5</b> (200 points)
 </td>
 <td>2.52%
 </td>
@@ -4656,7 +4641,7 @@ The tables below give the percentage of a certain stat on the amulet having stre
 <td>+25%
 </td></tr>
 <tr>
-<td><b>0.5625</b> (225 kills)
+<td><b>0.5625</b> (225 points)
 </td>
 <td>2.21%
 </td>
@@ -4673,7 +4658,7 @@ The tables below give the percentage of a certain stat on the amulet having stre
 <td>+25%
 </td></tr>
 <tr>
-<td><b>0.625</b> (250 kills)
+<td><b>0.625</b> (250 points)
 </td>
 <td>1.96%
 </td>
@@ -4690,7 +4675,7 @@ The tables below give the percentage of a certain stat on the amulet having stre
 <td>+26%
 </td></tr>
 <tr>
-<td><b>0.6875</b> (275 kills)
+<td><b>0.6875</b> (275 points)
 </td>
 <td>1.77%
 </td>
@@ -4707,7 +4692,7 @@ The tables below give the percentage of a certain stat on the amulet having stre
 <td>+26%
 </td></tr>
 <tr>
-<td><b>0.75</b> (300 kills)
+<td><b>0.75</b> (300 points)
 </td>
 <td>1.61%
 </td>
@@ -4724,7 +4709,7 @@ The tables below give the percentage of a certain stat on the amulet having stre
 <td>+26%
 </td></tr>
 <tr>
-<td><b>0.8125</b> (325 kills)
+<td><b>0.8125</b> (325 points)
 </td>
 <td>1.48%
 </td>
@@ -4741,7 +4726,7 @@ The tables below give the percentage of a certain stat on the amulet having stre
 <td>+27%
 </td></tr>
 <tr>
-<td><b>0.875</b> (350 kills)
+<td><b>0.875</b> (350 points)
 </td>
 <td>1.37%
 </td>
@@ -4758,7 +4743,7 @@ The tables below give the percentage of a certain stat on the amulet having stre
 <td>+27%
 </td></tr>
 <tr>
-<td><b>0.9375</b> (375 kills)
+<td><b>0.9375</b> (375 points)
 </td>
 <td>1.27%
 </td>
@@ -4775,7 +4760,7 @@ The tables below give the percentage of a certain stat on the amulet having stre
 <td>+27%
 </td></tr>
 <tr>
-<td><b>1</b> (400+ kills)
+<td><b>1</b> (400+ points)
 </td>
 <td>1.19%
 </td>
@@ -4816,7 +4801,7 @@ The tables below give the percentage of a certain stat on the amulet having stre
 <th>+30%
 </th></tr>
 <tr>
-<td><b>0.375</b> (150 kills)
+<td><b>0.375</b> (150 points)
 </td>
 <td>3.51%
 </td>
@@ -4833,7 +4818,7 @@ The tables below give the percentage of a certain stat on the amulet having stre
 <td>+24%
 </td></tr>
 <tr>
-<td><b>0.4375</b> (175 kills)
+<td><b>0.4375</b> (175 points)
 </td>
 <td>2.93%
 </td>
@@ -4850,7 +4835,7 @@ The tables below give the percentage of a certain stat on the amulet having stre
 <td>+25%
 </td></tr>
 <tr>
-<td><b>0.5</b> (200 kills)
+<td><b>0.5</b> (200 points)
 </td>
 <td>2.52%
 </td>
@@ -4867,7 +4852,7 @@ The tables below give the percentage of a certain stat on the amulet having stre
 <td>+25%
 </td></tr>
 <tr>
-<td><b>0.5625</b> (225 kills)
+<td><b>0.5625</b> (225 points)
 </td>
 <td>2.21%
 </td>
@@ -4884,7 +4869,7 @@ The tables below give the percentage of a certain stat on the amulet having stre
 <td>+25%
 </td></tr>
 <tr>
-<td><b>0.625</b> (250 kills)
+<td><b>0.625</b> (250 points)
 </td>
 <td>1.96%
 </td>
@@ -4901,7 +4886,7 @@ The tables below give the percentage of a certain stat on the amulet having stre
 <td>+26%
 </td></tr>
 <tr>
-<td><b>0.6875</b> (275 kills)
+<td><b>0.6875</b> (275 points)
 </td>
 <td>1.77%
 </td>
@@ -4918,7 +4903,7 @@ The tables below give the percentage of a certain stat on the amulet having stre
 <td>+26%
 </td></tr>
 <tr>
-<td><b>0.75</b> (300 kills)
+<td><b>0.75</b> (300 points)
 </td>
 <td>1.61%
 </td>
@@ -4935,7 +4920,7 @@ The tables below give the percentage of a certain stat on the amulet having stre
 <td>+26%
 </td></tr>
 <tr>
-<td><b>0.8125</b> (325 kills)
+<td><b>0.8125</b> (325 points)
 </td>
 <td>1.48%
 </td>
@@ -4952,7 +4937,7 @@ The tables below give the percentage of a certain stat on the amulet having stre
 <td>+27%
 </td></tr>
 <tr>
-<td><b>0.875</b> (350 kills)
+<td><b>0.875</b> (350 points)
 </td>
 <td>1.37%
 </td>
@@ -4969,7 +4954,7 @@ The tables below give the percentage of a certain stat on the amulet having stre
 <td>+27%
 </td></tr>
 <tr>
-<td><b>0.9375</b> (375 kills)
+<td><b>0.9375</b> (375 points)
 </td>
 <td>1.27%
 </td>
@@ -4986,7 +4971,7 @@ The tables below give the percentage of a certain stat on the amulet having stre
 <td>+27%
 </td></tr>
 <tr>
-<td><b>1</b> (400+ kills)
+<td><b>1</b> (400+ points)
 </td>
 <td>1.19%
 </td>
@@ -5027,7 +5012,7 @@ The tables below give the percentage of a certain stat on the amulet having stre
 <th>+30%
 </th></tr>
 <tr>
-<td><b>0.375</b> (150 kills)
+<td><b>0.375</b> (150 points)
 </td>
 <td>3.51%
 </td>
@@ -5044,7 +5029,7 @@ The tables below give the percentage of a certain stat on the amulet having stre
 <td>+24%
 </td></tr>
 <tr>
-<td><b>0.4375</b> (175 kills)
+<td><b>0.4375</b> (175 points)
 </td>
 <td>2.93%
 </td>
@@ -5061,7 +5046,7 @@ The tables below give the percentage of a certain stat on the amulet having stre
 <td>+25%
 </td></tr>
 <tr>
-<td><b>0.5</b> (200 kills)
+<td><b>0.5</b> (200 points)
 </td>
 <td>2.52%
 </td>
@@ -5078,7 +5063,7 @@ The tables below give the percentage of a certain stat on the amulet having stre
 <td>+25%
 </td></tr>
 <tr>
-<td><b>0.5625</b> (225 kills)
+<td><b>0.5625</b> (225 points)
 </td>
 <td>2.21%
 </td>
@@ -5095,7 +5080,7 @@ The tables below give the percentage of a certain stat on the amulet having stre
 <td>+25%
 </td></tr>
 <tr>
-<td><b>0.625</b> (250 kills)
+<td><b>0.625</b> (250 points)
 </td>
 <td>1.96%
 </td>
@@ -5112,7 +5097,7 @@ The tables below give the percentage of a certain stat on the amulet having stre
 <td>+26%
 </td></tr>
 <tr>
-<td><b>0.6875</b> (275 kills)
+<td><b>0.6875</b> (275 points)
 </td>
 <td>1.77%
 </td>
@@ -5129,7 +5114,7 @@ The tables below give the percentage of a certain stat on the amulet having stre
 <td>+26%
 </td></tr>
 <tr>
-<td><b>0.75</b> (300 kills)
+<td><b>0.75</b> (300 points)
 </td>
 <td>1.61%
 </td>
@@ -5146,7 +5131,7 @@ The tables below give the percentage of a certain stat on the amulet having stre
 <td>+26%
 </td></tr>
 <tr>
-<td><b>0.8125</b> (325 kills)
+<td><b>0.8125</b> (325 points)
 </td>
 <td>1.48%
 </td>
@@ -5163,7 +5148,7 @@ The tables below give the percentage of a certain stat on the amulet having stre
 <td>+27%
 </td></tr>
 <tr>
-<td><b>0.875</b> (350 kills)
+<td><b>0.875</b> (350 points)
 </td>
 <td>1.37%
 </td>
@@ -5180,7 +5165,7 @@ The tables below give the percentage of a certain stat on the amulet having stre
 <td>+27%
 </td></tr>
 <tr>
-<td><b>0.9375</b> (375 kills)
+<td><b>0.9375</b> (375 points)
 </td>
 <td>1.27%
 </td>
@@ -5197,7 +5182,7 @@ The tables below give the percentage of a certain stat on the amulet having stre
 <td>+27%
 </td></tr>
 <tr>
-<td><b>1</b> (400+ kills)
+<td><b>1</b> (400+ points)
 </td>
 <td>1.19%
 </td>
@@ -5220,10 +5205,6 @@ The tables below give the percentage of a certain stat on the amulet having stre
 
 * The Supreme Ant Amulet is the only tier of Ant Amulets that resembles a [Flying Ant](flying-ant.md) rather than a Regular Ant.
 * The higher the tiers get, the more sparkles are emitted from the Ant Amulet.
-
-## References
-
-1. ↑ Information was sourced from Nabees, a former staff member for the game, though the source cannot be confirmed.
 
 <table class="mw-collapsible autocollapse" style="margin:auto; background:#000; font-size: 10pt; border:5px solid #56CB5A; width: 100%; border-radius: 20px; -moz-border-radius: 20px; -webkit-border-radius: 20px; -khtml-border-radius: 20px; -icab-border-radius: 20px; -o-border-radius: 20px;">
 <tbody><tr>

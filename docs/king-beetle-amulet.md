@@ -5,25 +5,13 @@ tags: ["Amulet", "Accessories"]
 
 # King Beetle Amulet
 
-This piece of content contains information obtained through datamining.
-
-Due to the nature of the information, details may be inaccurate or outdated.
-
-Datamined information: King Beetle Amulet's possible stats and relevant information. — December 19th, 2024
-
-This content contains assumptions.
-
-Though the precise details may be inaccurate, most information comes from great testing and supported assumptions.
-
-Assumptions made: The quality of the amulet increases linearly. The formula for calculating the quality of the amulet is unknown, so this can't be confirmed.
-
 <figure class="thumb" style="width: 220px" typeof="mw:File/Thumb">  <figcaption class="thumbcaption"> </figcaption> </figure>
 
-The **King Beetle Amulet** is an [amulet](amulet.md) with a 1/7 chance of dropping upon defeating the [King Beetle](king-beetle.md).[1]
+The **King Beetle Amulet** is an [amulet](amulet.md) that is guaranteed to drop every time the [King Beetle](king-beetle.md) is defeated.
 
 The amulet grants a random number of [buffs](buffs-debuffs.md). The buffs can be field-specific [pollen boosts](field-boost.md), [Convert Rate](system-page.md#Convert_Rate) bonuses, and/or [Bee Attack](system-page.md#Bee_Attack) bonuses.
 
-The quality of the amulet increases linearly with the number of times the King Beetle is defeated, up to a maximum of 100 defeats where its quality is maxed.[1]
+It always drops at max quality (1). In the quality tables below, only the quality 1 row applies to this game.
 
 If the player has three or more types of amulets, the King Beetle Amulet will be above the player's right shoulder. If the player has two types, it will be above their left shoulder, and if it's the only type, it will be above their head.
 
@@ -136,7 +124,7 @@ Show/hide tables
 <th>+100%
 </th></tr>
 <tr>
-<td><b>0</b> (0 kills)
+<td><b>0</b>
 </td>
 <td>69.21%
 </td>
@@ -149,7 +137,7 @@ Show/hide tables
 <td>+44%
 </td></tr>
 <tr>
-<td><b>0.1</b> (10 kills)
+<td><b>0.1</b>
 </td>
 <td>63.92%
 </td>
@@ -162,7 +150,7 @@ Show/hide tables
 <td>+48%
 </td></tr>
 <tr>
-<td><b>0.2</b> (20 kills)
+<td><b>0.2</b>
 </td>
 <td>56.012%
 </td>
@@ -175,7 +163,7 @@ Show/hide tables
 <td>+51%
 </td></tr>
 <tr>
-<td><b>0.3</b> (30 kills)
+<td><b>0.3</b>
 </td>
 <td>41.38%
 </td>
@@ -188,7 +176,7 @@ Show/hide tables
 <td>+55%
 </td></tr>
 <tr>
-<td><b>0.4</b> (40 kills)
+<td><b>0.4</b>
 </td>
 <td>20.23%
 </td>
@@ -201,7 +189,7 @@ Show/hide tables
 <td>+59%
 </td></tr>
 <tr>
-<td><b>0.5</b> (50 kills)
+<td><b>0.5</b>
 </td>
 <td>14.3%
 </td>
@@ -214,7 +202,7 @@ Show/hide tables
 <td>+63%
 </td></tr>
 <tr>
-<td><b>0.6</b> (60 kills)
+<td><b>0.6</b>
 </td>
 <td>11.18%
 </td>
@@ -227,7 +215,7 @@ Show/hide tables
 <td>+66%
 </td></tr>
 <tr>
-<td><b>0.7</b> (70 kills)
+<td><b>0.7</b>
 </td>
 <td>9.2%
 </td>
@@ -240,7 +228,7 @@ Show/hide tables
 <td>+70%
 </td></tr>
 <tr>
-<td><b>0.8</b> (80 kills)
+<td><b>0.8</b>
 </td>
 <td>7.83%
 </td>
@@ -253,7 +241,7 @@ Show/hide tables
 <td>+74%
 </td></tr>
 <tr>
-<td><b>0.9</b> (90 kills)
+<td><b>0.9</b>
 </td>
 <td>6.81%
 </td>
@@ -266,7 +254,7 @@ Show/hide tables
 <td>+77%
 </td></tr>
 <tr>
-<td><b>1</b> (100+ kills)
+<td><b>1</b>
 </td>
 <td>6.035%
 </td>
@@ -295,7 +283,7 @@ Show/hide tables
 <th>+1
 </th></tr>
 <tr>
-<td><b>0</b> (0 kills)
+<td><b>0</b>
 </td>
 <td>84.66%
 </td>
@@ -304,7 +292,7 @@ Show/hide tables
 <td>+0.15
 </td></tr>
 <tr>
-<td><b>0.1</b> (10 kills)
+<td><b>0.1</b>
 </td>
 <td>83.074%
 </td>
@@ -313,7 +301,7 @@ Show/hide tables
 <td>+0.17
 </td></tr>
 <tr>
-<td><b>0.2</b> (20 kills)
+<td><b>0.2</b>
 </td>
 <td>80.54%
 </td>
@@ -322,7 +310,7 @@ Show/hide tables
 <td>+0.19
 </td></tr>
 <tr>
-<td><b>0.3</b> (30 kills)
+<td><b>0.3</b>
 </td>
 <td>75.8%
 </td>
@@ -331,7 +319,7 @@ Show/hide tables
 <td>+0.24
 </td></tr>
 <tr>
-<td><b>0.4</b> (40 kills)
+<td><b>0.4</b>
 </td>
 <td>67.92%
 </td>
@@ -340,7 +328,7 @@ Show/hide tables
 <td>+0.32
 </td></tr>
 <tr>
-<td><b>0.5</b> (50 kills)
+<td><b>0.5</b>
 </td>
 <td>50%
 </td>
@@ -349,7 +337,7 @@ Show/hide tables
 <td>+0.5
 </td></tr>
 <tr>
-<td><b>0.6</b> (60 kills)
+<td><b>0.6</b>
 </td>
 <td>32.082%
 </td>
@@ -358,7 +346,7 @@ Show/hide tables
 <td>+0.68
 </td></tr>
 <tr>
-<td><b>0.7</b> (70 kills)
+<td><b>0.7</b>
 </td>
 <td>24.94%
 </td>
@@ -367,7 +355,7 @@ Show/hide tables
 <td>+0.75
 </td></tr>
 <tr>
-<td><b>0.8</b> (80 kills)
+<td><b>0.8</b>
 </td>
 <td>20.58%
 </td>
@@ -376,7 +364,7 @@ Show/hide tables
 <td>+0.79
 </td></tr>
 <tr>
-<td><b>0.9</b> (90 kills)
+<td><b>0.9</b>
 </td>
 <td>17.56%
 </td>
@@ -385,7 +373,7 @@ Show/hide tables
 <td>+0.82
 </td></tr>
 <tr>
-<td><b>1</b> (100+ kills)
+<td><b>1</b>
 </td>
 <td>15.34%
 </td>
@@ -410,7 +398,7 @@ Show/hide tables
 <th>+1
 </th></tr>
 <tr>
-<td><b>0</b> (0 kills)
+<td><b>0</b>
 </td>
 <td>84.66%
 </td>
@@ -419,7 +407,7 @@ Show/hide tables
 <td>+0.15
 </td></tr>
 <tr>
-<td><b>0.1</b> (10 kills)
+<td><b>0.1</b>
 </td>
 <td>83.074%
 </td>
@@ -428,7 +416,7 @@ Show/hide tables
 <td>+0.17
 </td></tr>
 <tr>
-<td><b>0.2</b> (20 kills)
+<td><b>0.2</b>
 </td>
 <td>80.54%
 </td>
@@ -437,7 +425,7 @@ Show/hide tables
 <td>+0.19
 </td></tr>
 <tr>
-<td><b>0.3</b> (30 kills)
+<td><b>0.3</b>
 </td>
 <td>75.8%
 </td>
@@ -446,7 +434,7 @@ Show/hide tables
 <td>+0.24
 </td></tr>
 <tr>
-<td><b>0.4</b> (40 kills)
+<td><b>0.4</b>
 </td>
 <td>67.92%
 </td>
@@ -455,7 +443,7 @@ Show/hide tables
 <td>+0.32
 </td></tr>
 <tr>
-<td><b>0.5</b> (50 kills)
+<td><b>0.5</b>
 </td>
 <td>50%
 </td>
@@ -464,7 +452,7 @@ Show/hide tables
 <td>+0.5
 </td></tr>
 <tr>
-<td><b>0.6</b> (60 kills)
+<td><b>0.6</b>
 </td>
 <td>32.082%
 </td>
@@ -473,7 +461,7 @@ Show/hide tables
 <td>+0.68
 </td></tr>
 <tr>
-<td><b>0.7</b> (70 kills)
+<td><b>0.7</b>
 </td>
 <td>24.94%
 </td>
@@ -482,7 +470,7 @@ Show/hide tables
 <td>+0.75
 </td></tr>
 <tr>
-<td><b>0.8</b> (80 kills)
+<td><b>0.8</b>
 </td>
 <td>20.58%
 </td>
@@ -491,7 +479,7 @@ Show/hide tables
 <td>+0.79
 </td></tr>
 <tr>
-<td><b>0.9</b> (90 kills)
+<td><b>0.9</b>
 </td>
 <td>17.56%
 </td>
@@ -500,7 +488,7 @@ Show/hide tables
 <td>+0.82
 </td></tr>
 <tr>
-<td><b>1</b> (100+ kills)
+<td><b>1</b>
 </td>
 <td>15.34%
 </td>
@@ -525,7 +513,7 @@ Show/hide tables
 <th>+1
 </th></tr>
 <tr>
-<td><b>0</b> (0 kills)
+<td><b>0</b>
 </td>
 <td>84.66%
 </td>
@@ -534,7 +522,7 @@ Show/hide tables
 <td>+0.15
 </td></tr>
 <tr>
-<td><b>0.1</b> (10 kills)
+<td><b>0.1</b>
 </td>
 <td>83.91%
 </td>
@@ -543,7 +531,7 @@ Show/hide tables
 <td>+0.16
 </td></tr>
 <tr>
-<td><b>0.2</b> (20 kills)
+<td><b>0.2</b>
 </td>
 <td>82.85%
 </td>
@@ -552,7 +540,7 @@ Show/hide tables
 <td>+0.17
 </td></tr>
 <tr>
-<td><b>0.3</b> (30 kills)
+<td><b>0.3</b>
 </td>
 <td>81.27%
 </td>
@@ -561,7 +549,7 @@ Show/hide tables
 <td>+0.19
 </td></tr>
 <tr>
-<td><b>0.4</b> (40 kills)
+<td><b>0.4</b>
 </td>
 <td>78.6%
 </td>
@@ -570,7 +558,7 @@ Show/hide tables
 <td>+0.21
 </td></tr>
 <tr>
-<td><b>0.5</b> (50 kills)
+<td><b>0.5</b>
 </td>
 <td>73.1%
 </td>
@@ -579,7 +567,7 @@ Show/hide tables
 <td>+0.27
 </td></tr>
 <tr>
-<td><b>0.6</b> (60 kills)
+<td><b>0.6</b>
 </td>
 <td>50%
 </td>
@@ -588,7 +576,7 @@ Show/hide tables
 <td>+0.5
 </td></tr>
 <tr>
-<td><b>0.7</b> (70 kills)
+<td><b>0.7</b>
 </td>
 <td>24.94%
 </td>
@@ -597,7 +585,7 @@ Show/hide tables
 <td>+0.75
 </td></tr>
 <tr>
-<td><b>0.8</b> (80 kills)
+<td><b>0.8</b>
 </td>
 <td>20.58%
 </td>
@@ -606,7 +594,7 @@ Show/hide tables
 <td>+0.79
 </td></tr>
 <tr>
-<td><b>0.9</b> (90 kills)
+<td><b>0.9</b>
 </td>
 <td>17.56%
 </td>
@@ -615,7 +603,7 @@ Show/hide tables
 <td>+0.82
 </td></tr>
 <tr>
-<td><b>1</b> (100+ kills)
+<td><b>1</b>
 </td>
 <td>15.34%
 </td>
@@ -646,7 +634,7 @@ Show/hide tables
 <th>+100%
 </th></tr>
 <tr>
-<td><b>0</b> (0 kills)
+<td><b>0</b>
 </td>
 <td>58.78%
 </td>
@@ -661,7 +649,7 @@ Show/hide tables
 <td>+40%
 </td></tr>
 <tr>
-<td><b>0.1</b> (10 kills)
+<td><b>0.1</b>
 </td>
 <td>50.74%
 </td>
@@ -676,7 +664,7 @@ Show/hide tables
 <td>+44%
 </td></tr>
 <tr>
-<td><b>0.2</b> (20 kills)
+<td><b>0.2</b>
 </td>
 <td>37.089%
 </td>
@@ -691,7 +679,7 @@ Show/hide tables
 <td>+48%
 </td></tr>
 <tr>
-<td><b>0.3</b> (30 kills)
+<td><b>0.3</b>
 </td>
 <td>14.96%
 </td>
@@ -706,7 +694,7 @@ Show/hide tables
 <td>+52%
 </td></tr>
 <tr>
-<td><b>0.4</b> (40 kills)
+<td><b>0.4</b>
 </td>
 <td>9.69%
 </td>
@@ -721,7 +709,7 @@ Show/hide tables
 <td>+56%
 </td></tr>
 <tr>
-<td><b>0.5</b> (50 kills)
+<td><b>0.5</b>
 </td>
 <td>7.25%
 </td>
@@ -736,7 +724,7 @@ Show/hide tables
 <td>+60%
 </td></tr>
 <tr>
-<td><b>0.6</b> (60 kills)
+<td><b>0.6</b>
 </td>
 <td>5.8%
 </td>
@@ -751,7 +739,7 @@ Show/hide tables
 <td>+64%
 </td></tr>
 <tr>
-<td><b>0.7</b> (70 kills)
+<td><b>0.7</b>
 </td>
 <td>4.85%
 </td>
@@ -766,7 +754,7 @@ Show/hide tables
 <td>+68%
 </td></tr>
 <tr>
-<td><b>0.8</b> (80 kills)
+<td><b>0.8</b>
 </td>
 <td>4.16%
 </td>
@@ -781,7 +769,7 @@ Show/hide tables
 <td>+72%
 </td></tr>
 <tr>
-<td><b>0.9</b> (90 kills)
+<td><b>0.9</b>
 </td>
 <td>3.65%
 </td>
@@ -796,7 +784,7 @@ Show/hide tables
 <td>+76%
 </td></tr>
 <tr>
-<td><b>1</b> (100+ kills)
+<td><b>1</b>
 </td>
 <td>3.25%
 </td>
@@ -833,7 +821,7 @@ Show/hide tables
 <th>+100%
 </th></tr>
 <tr>
-<td><b>0</b> (0 kills)
+<td><b>0</b>
 </td>
 <td>58.78%
 </td>
@@ -848,7 +836,7 @@ Show/hide tables
 <td>+40%
 </td></tr>
 <tr>
-<td><b>0.1</b> (10 kills)
+<td><b>0.1</b>
 </td>
 <td>50.74%
 </td>
@@ -863,7 +851,7 @@ Show/hide tables
 <td>+44%
 </td></tr>
 <tr>
-<td><b>0.2</b> (20 kills)
+<td><b>0.2</b>
 </td>
 <td>37.089%
 </td>
@@ -878,7 +866,7 @@ Show/hide tables
 <td>+48%
 </td></tr>
 <tr>
-<td><b>0.3</b> (30 kills)
+<td><b>0.3</b>
 </td>
 <td>14.96%
 </td>
@@ -893,7 +881,7 @@ Show/hide tables
 <td>+52%
 </td></tr>
 <tr>
-<td><b>0.4</b> (40 kills)
+<td><b>0.4</b>
 </td>
 <td>9.69%
 </td>
@@ -908,7 +896,7 @@ Show/hide tables
 <td>+56%
 </td></tr>
 <tr>
-<td><b>0.5</b> (50 kills)
+<td><b>0.5</b>
 </td>
 <td>7.25%
 </td>
@@ -923,7 +911,7 @@ Show/hide tables
 <td>+60%
 </td></tr>
 <tr>
-<td><b>0.6</b> (60 kills)
+<td><b>0.6</b>
 </td>
 <td>5.8%
 </td>
@@ -938,7 +926,7 @@ Show/hide tables
 <td>+64%
 </td></tr>
 <tr>
-<td><b>0.7</b> (70 kills)
+<td><b>0.7</b>
 </td>
 <td>4.85%
 </td>
@@ -953,7 +941,7 @@ Show/hide tables
 <td>+68%
 </td></tr>
 <tr>
-<td><b>0.8</b> (80 kills)
+<td><b>0.8</b>
 </td>
 <td>4.16%
 </td>
@@ -968,7 +956,7 @@ Show/hide tables
 <td>+72%
 </td></tr>
 <tr>
-<td><b>0.9</b> (90 kills)
+<td><b>0.9</b>
 </td>
 <td>3.65%
 </td>
@@ -983,7 +971,7 @@ Show/hide tables
 <td>+76%
 </td></tr>
 <tr>
-<td><b>1</b> (100+ kills)
+<td><b>1</b>
 </td>
 <td>3.25%
 </td>
@@ -1020,7 +1008,7 @@ Show/hide tables
 <th>+100%
 </th></tr>
 <tr>
-<td><b>0</b> (0 kills)
+<td><b>0</b>
 </td>
 <td>58.78%
 </td>
@@ -1035,7 +1023,7 @@ Show/hide tables
 <td>+40%
 </td></tr>
 <tr>
-<td><b>0.1</b> (10 kills)
+<td><b>0.1</b>
 </td>
 <td>50.74%
 </td>
@@ -1050,7 +1038,7 @@ Show/hide tables
 <td>+44%
 </td></tr>
 <tr>
-<td><b>0.2</b> (20 kills)
+<td><b>0.2</b>
 </td>
 <td>37.089%
 </td>
@@ -1065,7 +1053,7 @@ Show/hide tables
 <td>+48%
 </td></tr>
 <tr>
-<td><b>0.3</b> (30 kills)
+<td><b>0.3</b>
 </td>
 <td>14.96%
 </td>
@@ -1080,7 +1068,7 @@ Show/hide tables
 <td>+52%
 </td></tr>
 <tr>
-<td><b>0.4</b> (40 kills)
+<td><b>0.4</b>
 </td>
 <td>9.69%
 </td>
@@ -1095,7 +1083,7 @@ Show/hide tables
 <td>+56%
 </td></tr>
 <tr>
-<td><b>0.5</b> (50 kills)
+<td><b>0.5</b>
 </td>
 <td>7.25%
 </td>
@@ -1110,7 +1098,7 @@ Show/hide tables
 <td>+60%
 </td></tr>
 <tr>
-<td><b>0.6</b> (60 kills)
+<td><b>0.6</b>
 </td>
 <td>5.8%
 </td>
@@ -1125,7 +1113,7 @@ Show/hide tables
 <td>+64%
 </td></tr>
 <tr>
-<td><b>0.7</b> (70 kills)
+<td><b>0.7</b>
 </td>
 <td>4.85%
 </td>
@@ -1140,7 +1128,7 @@ Show/hide tables
 <td>+68%
 </td></tr>
 <tr>
-<td><b>0.8</b> (80 kills)
+<td><b>0.8</b>
 </td>
 <td>4.16%
 </td>
@@ -1155,7 +1143,7 @@ Show/hide tables
 <td>+72%
 </td></tr>
 <tr>
-<td><b>0.9</b> (90 kills)
+<td><b>0.9</b>
 </td>
 <td>3.65%
 </td>
@@ -1170,7 +1158,7 @@ Show/hide tables
 <td>+76%
 </td></tr>
 <tr>
-<td><b>1</b> (100+ kills)
+<td><b>1</b>
 </td>
 <td>3.25%
 </td>
@@ -1207,7 +1195,7 @@ Show/hide tables
 <th>+100%
 </th></tr>
 <tr>
-<td><b>0</b> (0 kills)
+<td><b>0</b>
 </td>
 <td>58.78%
 </td>
@@ -1222,7 +1210,7 @@ Show/hide tables
 <td>+40%
 </td></tr>
 <tr>
-<td><b>0.1</b> (10 kills)
+<td><b>0.1</b>
 </td>
 <td>50.74%
 </td>
@@ -1237,7 +1225,7 @@ Show/hide tables
 <td>+44%
 </td></tr>
 <tr>
-<td><b>0.2</b> (20 kills)
+<td><b>0.2</b>
 </td>
 <td>37.089%
 </td>
@@ -1252,7 +1240,7 @@ Show/hide tables
 <td>+48%
 </td></tr>
 <tr>
-<td><b>0.3</b> (30 kills)
+<td><b>0.3</b>
 </td>
 <td>14.96%
 </td>
@@ -1267,7 +1255,7 @@ Show/hide tables
 <td>+52%
 </td></tr>
 <tr>
-<td><b>0.4</b> (40 kills)
+<td><b>0.4</b>
 </td>
 <td>9.69%
 </td>
@@ -1282,7 +1270,7 @@ Show/hide tables
 <td>+56%
 </td></tr>
 <tr>
-<td><b>0.5</b> (50 kills)
+<td><b>0.5</b>
 </td>
 <td>7.25%
 </td>
@@ -1297,7 +1285,7 @@ Show/hide tables
 <td>+60%
 </td></tr>
 <tr>
-<td><b>0.6</b> (60 kills)
+<td><b>0.6</b>
 </td>
 <td>5.8%
 </td>
@@ -1312,7 +1300,7 @@ Show/hide tables
 <td>+64%
 </td></tr>
 <tr>
-<td><b>0.7</b> (70 kills)
+<td><b>0.7</b>
 </td>
 <td>4.85%
 </td>
@@ -1327,7 +1315,7 @@ Show/hide tables
 <td>+68%
 </td></tr>
 <tr>
-<td><b>0.8</b> (80 kills)
+<td><b>0.8</b>
 </td>
 <td>4.16%
 </td>
@@ -1342,7 +1330,7 @@ Show/hide tables
 <td>+72%
 </td></tr>
 <tr>
-<td><b>0.9</b> (90 kills)
+<td><b>0.9</b>
 </td>
 <td>3.65%
 </td>
@@ -1357,7 +1345,7 @@ Show/hide tables
 <td>+76%
 </td></tr>
 <tr>
-<td><b>1</b> (100+ kills)
+<td><b>1</b>
 </td>
 <td>3.25%
 </td>
@@ -1394,7 +1382,7 @@ Show/hide tables
 <th>+100%
 </th></tr>
 <tr>
-<td><b>0</b> (0 kills)
+<td><b>0</b>
 </td>
 <td>58.78%
 </td>
@@ -1409,7 +1397,7 @@ Show/hide tables
 <td>+40%
 </td></tr>
 <tr>
-<td><b>0.1</b> (10 kills)
+<td><b>0.1</b>
 </td>
 <td>50.74%
 </td>
@@ -1424,7 +1412,7 @@ Show/hide tables
 <td>+44%
 </td></tr>
 <tr>
-<td><b>0.2</b> (20 kills)
+<td><b>0.2</b>
 </td>
 <td>37.089%
 </td>
@@ -1439,7 +1427,7 @@ Show/hide tables
 <td>+48%
 </td></tr>
 <tr>
-<td><b>0.3</b> (30 kills)
+<td><b>0.3</b>
 </td>
 <td>14.96%
 </td>
@@ -1454,7 +1442,7 @@ Show/hide tables
 <td>+52%
 </td></tr>
 <tr>
-<td><b>0.4</b> (40 kills)
+<td><b>0.4</b>
 </td>
 <td>9.69%
 </td>
@@ -1469,7 +1457,7 @@ Show/hide tables
 <td>+56%
 </td></tr>
 <tr>
-<td><b>0.5</b> (50 kills)
+<td><b>0.5</b>
 </td>
 <td>7.25%
 </td>
@@ -1484,7 +1472,7 @@ Show/hide tables
 <td>+60%
 </td></tr>
 <tr>
-<td><b>0.6</b> (60 kills)
+<td><b>0.6</b>
 </td>
 <td>5.8%
 </td>
@@ -1499,7 +1487,7 @@ Show/hide tables
 <td>+64%
 </td></tr>
 <tr>
-<td><b>0.7</b> (70 kills)
+<td><b>0.7</b>
 </td>
 <td>4.85%
 </td>
@@ -1514,7 +1502,7 @@ Show/hide tables
 <td>+68%
 </td></tr>
 <tr>
-<td><b>0.8</b> (80 kills)
+<td><b>0.8</b>
 </td>
 <td>4.16%
 </td>
@@ -1529,7 +1517,7 @@ Show/hide tables
 <td>+72%
 </td></tr>
 <tr>
-<td><b>0.9</b> (90 kills)
+<td><b>0.9</b>
 </td>
 <td>3.65%
 </td>
@@ -1544,7 +1532,7 @@ Show/hide tables
 <td>+76%
 </td></tr>
 <tr>
-<td><b>1</b> (100+ kills)
+<td><b>1</b>
 </td>
 <td>3.25%
 </td>
@@ -1566,10 +1554,6 @@ Show/hide tables
 * The King Beetle Amulet is the first amulet that is a dropped from a [mob](mobs.md), the second being the [Shell Amulet](shell-amulet.md) that is dropped by [Stump Snail](stump-snail.md).
 * This is the only amulet in the game to not be guaranteed to drop from its source.
 * All rewards from King Beetle will automatically be added into the player's inventory if they receive a King Beetle Amulet.
-
-## References
-
-1. ↑ 1.0 1.1 Mentioned in Onett's dialogue for [Star Journey 3](onett.md#Dialogue).
 
 <table class="mw-collapsible autocollapse" style="margin:auto; background:#000; font-size: 10pt; border:5px solid #56CB5A; width: 100%; border-radius: 20px; -moz-border-radius: 20px; -webkit-border-radius: 20px; -khtml-border-radius: 20px; -icab-border-radius: 20px; -o-border-radius: 20px;">
 <tbody><tr>
