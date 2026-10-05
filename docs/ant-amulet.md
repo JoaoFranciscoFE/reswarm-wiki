@@ -37,36 +37,39 @@ The quality of the amulet increases linearly with the player's score until a sco
 <tr>
 <td>0-24 Points in the Ant Challenge
 </td>
-<td><span typeof="mw:Error mw:File"></span> Bronze Ant Amulet
+<td><img alt="Bronze Ant Amulet" src="img/Bronze_Ant_Amulet.png" width="30" height="30"/> Bronze Ant Amulet
 </td></tr>
 <tr>
 <td>25-49 Points in the Ant Challenge
 </td>
-<td><span typeof="mw:Error mw:File"></span> Silver Ant Amulet
+<td><img alt="Silver Ant Amulet" src="img/Silver_Ant_Amulet.png" width="30" height="30"/> Silver Ant Amulet
 </td></tr>
 <tr>
 <td>50-99 Points in the Ant Challenge
 </td>
-<td><span typeof="mw:Error mw:File"></span> Gold Ant Amulet
+<td><img alt="Gold Ant Amulet" src="img/Gold_Ant_Amulet.png" width="30" height="30"/> Gold Ant Amulet
 </td></tr>
 <tr>
 <td>100-149 Points in the Ant Challenge
 </td>
-<td><span typeof="mw:Error mw:File"></span> Diamond Ant Amulet
+<td><img alt="Diamond Ant Amulet" src="img/Diamond_Ant_Amulet.png" width="30" height="30"/> Diamond Ant Amulet
 </td></tr>
 <tr>
 <td>150+ Points in the Ant Challenge
 </td>
-<td><span typeof="mw:Error mw:File"></span> Supreme Ant Amulet
+<td><img alt="Supreme Ant Amulet" src="img/Supreme_Ant_Amulet.png" width="30" height="30"/> Supreme Ant Amulet
 </td></tr></tbody></table>
 
 ## Possible Buffs
 
 *For more information on how amulets generate, see [Amulet#Generation](amulet.md#Generation).*
 
-### Bronze Ant Amulet
+/// tab | Bronze <span class="tier-suffix">Ant Amulet</span>
 
-<figure class="mw-halign-center" style="text-align:center"><img alt="Bronze Ant Amulet" src="img/Bronze_Ant_Amulet.png" width="60"/><figcaption><p class="caption">The icon for the Bronze Ant Amulet.</p></figcaption></figure>
+
+<figure class="amulet-tier-icon"><img alt="Bronze Ant Amulet" src="img/Bronze_Ant_Amulet.png"/><figcaption>The icon for the Bronze Ant Amulet.</figcaption></figure>
+
+<p class="amulet-tier-obtain"><b>How to get:</b> 0-24 Points in the Ant Challenge</p>
 
 <table class="article-table">
 <tbody><tr>
@@ -114,7 +117,6 @@ The quality of the amulet increases linearly with the player's score until a sco
 The tables below give the percentage of a certain stat on the amulet having strength within a specific range, at a few quality milestones. To see the percentage of a certain stat having a specific strength value, see [the designated subpage](ant-amulet-probability.md#Bronze_Ant_Amulet).
 
 *Note that the precise percentages may be off due to floating point errors.*  
-Show/hide tables
 
 ### + Convert Rate %
 
@@ -744,9 +746,14 @@ Show/hide tables
 <td>+2.1%
 </td></tr></tbody></table>
 
-### Silver Ant Amulet
+///
 
-<figure class="mw-halign-center" style="text-align:center"><img alt="Silver Ant Amulet" src="img/Silver_Ant_Amulet.png" width="60"/><figcaption><p class="caption">The icon for the Silver Ant Amulet.</p></figcaption></figure>
+/// tab | Silver <span class="tier-suffix">Ant Amulet</span>
+
+
+<figure class="amulet-tier-icon"><img alt="Silver Ant Amulet" src="img/Silver_Ant_Amulet.png"/><figcaption>The icon for the Silver Ant Amulet.</figcaption></figure>
+
+<p class="amulet-tier-obtain"><b>How to get:</b> 25-49 Points in the Ant Challenge</p>
 
 <table class="article-table">
 <tbody><tr>
@@ -817,7 +824,6 @@ Show/hide tables
 The tables below give the percentage of a certain stat on the amulet having strength within a specific range, at a few quality milestones. To see the percentage of a certain stat having a specific strength value, see [the designated subpage](ant-amulet-probability.md#Silver_Ant_Amulet).
 
 *Note that the precise percentages may be off due to floating point errors.*  
-Show/hide tables
 
 ### + Convert Rate %
 
@@ -1684,9 +1690,14 @@ Show/hide tables
 <td>+6.6%
 </td></tr></tbody></table>
 
-### Gold Ant Amulet
+///
 
-<figure class="mw-halign-center" style="text-align:center"><img alt="Gold Ant Amulet" src="img/Gold_Ant_Amulet.png" width="60"/><figcaption><p class="caption">The icon for the Gold Ant Amulet.</p></figcaption></figure>
+/// tab | Gold <span class="tier-suffix">Ant Amulet</span>
+
+
+<figure class="amulet-tier-icon"><img alt="Gold Ant Amulet" src="img/Gold_Ant_Amulet.png"/><figcaption>The icon for the Gold Ant Amulet.</figcaption></figure>
+
+<p class="amulet-tier-obtain"><b>How to get:</b> 50-99 Points in the Ant Challenge</p>
 
 <table class="article-table">
 <tbody><tr>
@@ -1766,7 +1777,6 @@ Show/hide tables
 The tables below give the percentage of a certain stat on the amulet having strength within a specific range, at a few quality milestones. To see the percentage of a certain stat having a specific strength value, see [the designated subpage](ant-amulet-probability.md#Gold_Ant_Amulet).
 
 *Note that the precise percentages may be off due to floating point errors.*  
-Show/hide tables
 
 ### + Convert Rate %
 
@@ -2778,9 +2788,14 @@ Show/hide tables
 <td>+12%
 </td></tr></tbody></table>
 
-### Diamond Ant Amulet
+///
 
-<figure class="mw-halign-center" style="text-align:center"><img alt="Diamond Ant Amulet" src="img/Diamond_Ant_Amulet.png" width="60"/><figcaption><p class="caption">The icon for the Diamond Ant Amulet.</p></figcaption></figure>
+/// tab | Diamond <span class="tier-suffix">Ant Amulet</span>
+
+
+<figure class="amulet-tier-icon"><img alt="Diamond Ant Amulet" src="img/Diamond_Ant_Amulet.png"/><figcaption>The icon for the Diamond Ant Amulet.</figcaption></figure>
+
+<p class="amulet-tier-obtain"><b>How to get:</b> 100-149 Points in the Ant Challenge</p>
 
 <table class="article-table">
 <tbody><tr>
@@ -2851,7 +2866,6 @@ Show/hide tables
 The tables below give the percentage of a certain stat on the amulet having strength within a specific range, at a few quality milestones. To see the percentage of a certain stat having a specific strength value, see [the designated subpage](ant-amulet-probability.md#Diamond_Ant_Amulet).
 
 *Note that the precise percentages may be off due to floating point errors.*  
-Show/hide tables
 
 ### + Convert Rate %
 
@@ -3705,9 +3719,14 @@ Show/hide tables
 <td>+17%
 </td></tr></tbody></table>
 
-### Supreme Ant Amulet
+///
 
-<figure class="mw-halign-center" style="text-align:center"><img alt="Supreme Ant Amulet" src="img/Supreme_Ant_Amulet.png" width="60"/><figcaption><p class="caption">The icon for the Supreme Ant Amulet.</p></figcaption></figure>
+/// tab | Supreme <span class="tier-suffix">Ant Amulet</span>
+
+
+<figure class="amulet-tier-icon"><img alt="Supreme Ant Amulet" src="img/Supreme_Ant_Amulet.png"/><figcaption>The icon for the Supreme Ant Amulet.</figcaption></figure>
+
+<p class="amulet-tier-obtain"><b>How to get:</b> 150+ Points in the Ant Challenge</p>
 
 <table class="article-table">
 <tbody><tr>
@@ -3792,7 +3811,6 @@ Show/hide tables
 The tables below give the percentage of a certain stat on the amulet having strength within a specific range, at a few quality milestones. To see the percentage of a certain stat having a specific strength value, see [the designated subpage](ant-amulet-probability.md#Supreme_Ant_Amulet).
 
 *Note that the precise percentages may be off due to floating point errors.*  
-Show/hide tables
 
 ### + Convert Rate %
 
@@ -5193,6 +5211,8 @@ Show/hide tables
 </td>
 <td>+28%
 </td></tr></tbody></table>
+
+///
 
 ## Trivia
 

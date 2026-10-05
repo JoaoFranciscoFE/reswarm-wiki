@@ -28,36 +28,39 @@ The chance of getting an amulet of a higher tier and the quality of the amulet i
 <tr>
 <td>At least 1 <a href="stump-snail.html">Stump Snail</a> defeat
 </td>
-<td><span typeof="mw:Error mw:File"></span> Bronze Shell Amulet
+<td><img alt="Bronze Shell Amulet" src="img/Bronze_Shell_Amulet.png" width="30" height="30"/> Bronze Shell Amulet
 </td></tr>
 <tr>
 <td>At least 1 <a href="stump-snail.html">Stump Snail</a> defeat
 </td>
-<td><span typeof="mw:Error mw:File"></span> Silver Shell Amulet
+<td><img alt="Silver Shell Amulet" src="img/Silver_Shell_Amulet.png" width="30" height="30"/> Silver Shell Amulet
 </td></tr>
 <tr>
 <td>At least 5 <a href="stump-snail.html">Stump Snail</a> defeats
 </td>
-<td><span typeof="mw:Error mw:File"></span> Gold Shell Amulet
+<td><img alt="Gold Shell Amulet" src="img/Gold_Shell_Amulet.png" width="30" height="30"/> Gold Shell Amulet
 </td></tr>
 <tr>
 <td>At least 7 <a href="stump-snail.html">Stump Snail</a> defeats
 </td>
-<td><span typeof="mw:Error mw:File"></span> Diamond Shell Amulet
+<td><img alt="Diamond Shell Amulet" src="img/Diamond_Shell_Amulet.png" width="30" height="30"/> Diamond Shell Amulet
 </td></tr>
 <tr>
 <td>At least 15 <a href="stump-snail.html">Stump Snail</a> defeats
 </td>
-<td><span typeof="mw:Error mw:File"></span> Supreme Shell Amulet
+<td><img alt="Supreme Shell Amulet" src="img/Supreme_Shell_Amulet.png" width="30" height="30"/> Supreme Shell Amulet
 </td></tr></tbody></table>
 
 ## Possible Buffs
 
 *For more information on how amulets generate, see [Amulet#Generation](amulet.md#Generation).*
 
-### Bronze Shell Amulet
+/// tab | Bronze <span class="tier-suffix">Shell Amulet</span>
 
-<figure class="mw-halign-center" style="text-align:center"><img alt="Bronze Shell Amulet" src="img/Bronze_Shell_Amulet.png" width="60"/><figcaption><p class="caption">The icon for the Bronze Shell Amulet.</p></figcaption></figure>
+
+<figure class="amulet-tier-icon"><img alt="Bronze Shell Amulet" src="img/Bronze_Shell_Amulet.png"/><figcaption>The icon for the Bronze Shell Amulet.</figcaption></figure>
+
+<p class="amulet-tier-obtain"><b>How to get:</b> At least 1 <a href="stump-snail.html">Stump Snail</a> defeat</p>
 
 <table class="article-table">
 <tbody><tr>
@@ -200,7 +203,6 @@ The chance of getting an amulet of a higher tier and the quality of the amulet i
 The tables below give the percentage of a certain stat on the amulet having strength within a specific range, at a few quality milestones. To see the percentage of a certain stat having a specific strength value, see [the designated subpage](shell-amulet-probability.md#Bronze_Shell_Amulet).
 
 *Note that the precise percentages may be off due to floating point errors.*  
-Show/hide tables
 
 ### + Goo %
 
@@ -3074,9 +3076,14 @@ Show/hide tables
 <td>+8.8%
 </td></tr></tbody></table>
 
-### Silver Shell Amulet
+///
 
-<figure class="mw-halign-center" style="text-align:center"><img alt="Silver Shell Amulet" src="img/Silver_Shell_Amulet.png" width="60"/><figcaption><p class="caption">The icon for the Silver Shell Amulet.</p></figcaption></figure>
+/// tab | Silver <span class="tier-suffix">Shell Amulet</span>
+
+
+<figure class="amulet-tier-icon"><img alt="Silver Shell Amulet" src="img/Silver_Shell_Amulet.png"/><figcaption>The icon for the Silver Shell Amulet.</figcaption></figure>
+
+<p class="amulet-tier-obtain"><b>How to get:</b> At least 1 <a href="stump-snail.html">Stump Snail</a> defeat</p>
 
 <table class="article-table">
 <tbody><tr>
@@ -3219,7 +3226,6 @@ Show/hide tables
 The tables below give the percentage of a certain stat on the amulet having strength within a specific range, at a few quality milestones. To see the percentage of a certain stat having a specific strength value, see [the designated subpage](shell-amulet-probability.md#Silver_Shell_Amulet).
 
 *Note that the precise percentages may be off due to floating point errors.*  
-Show/hide tables
 
 ### + Goo %
 
@@ -6664,9 +6670,14 @@ Show/hide tables
 <td>+13%
 </td></tr></tbody></table>
 
-### Gold Shell Amulet
+///
 
-<figure class="mw-halign-center" style="text-align:center"><img alt="Gold Shell Amulet" src="img/Gold_Shell_Amulet.png" width="60"/><figcaption><p class="caption">The icon for the Gold Shell Amulet.</p></figcaption></figure>
+/// tab | Gold <span class="tier-suffix">Shell Amulet</span>
+
+
+<figure class="amulet-tier-icon"><img alt="Gold Shell Amulet" src="img/Gold_Shell_Amulet.png"/><figcaption>The icon for the Gold Shell Amulet.</figcaption></figure>
+
+<p class="amulet-tier-obtain"><b>How to get:</b> At least 5 <a href="stump-snail.html">Stump Snail</a> defeats</p>
 
 <table class="article-table">
 <tbody><tr>
@@ -6809,7 +6820,6 @@ Show/hide tables
 The tables below give the percentage of a certain stat on the amulet having strength within a specific range, at a few quality milestones. To see the percentage of a certain stat having a specific strength value, see [the designated subpage](shell-amulet-probability.md#Gold_Shell_Amulet).
 
 *Note that the precise percentages may be off due to floating point errors.*  
-Show/hide tables
 
 ### + Goo %
 
@@ -9918,9 +9928,14 @@ Show/hide tables
 <td>+19%
 </td></tr></tbody></table>
 
-### Diamond Shell Amulet
+///
 
-<figure class="mw-halign-center" style="text-align:center"><img alt="Diamond Shell Amulet" src="img/Diamond_Shell_Amulet.png" width="60"/><figcaption><p class="caption">The icon for the Diamond Shell Amulet.</p></figcaption></figure>
+/// tab | Diamond <span class="tier-suffix">Shell Amulet</span>
+
+
+<figure class="amulet-tier-icon"><img alt="Diamond Shell Amulet" src="img/Diamond_Shell_Amulet.png"/><figcaption>The icon for the Diamond Shell Amulet.</figcaption></figure>
+
+<p class="amulet-tier-obtain"><b>How to get:</b> At least 7 <a href="stump-snail.html">Stump Snail</a> defeats</p>
 
 <table class="article-table">
 <tbody><tr>
@@ -10063,7 +10078,6 @@ Show/hide tables
 The tables below give the percentage of a certain stat on the amulet having strength within a specific range, at a few quality milestones. To see the percentage of a certain stat having a specific strength value, see [the designated subpage](shell-amulet-probability.md#Diamond_Shell_Amulet).
 
 *Note that the precise percentages may be off due to floating point errors.*  
-Show/hide tables
 
 ### + Goo %
 
@@ -13081,9 +13095,14 @@ Show/hide tables
 <td>+24%
 </td></tr></tbody></table>
 
-### Supreme Shell Amulet
+///
 
-<figure class="mw-halign-center" style="text-align:center"><img alt="Supreme Shell Amulet" src="img/Supreme_Shell_Amulet.png" width="60"/><figcaption><p class="caption">The icon for the Supreme Shell Amulet.</p></figcaption></figure>
+/// tab | Supreme <span class="tier-suffix">Shell Amulet</span>
+
+
+<figure class="amulet-tier-icon"><img alt="Supreme Shell Amulet" src="img/Supreme_Shell_Amulet.png"/><figcaption>The icon for the Supreme Shell Amulet.</figcaption></figure>
+
+<p class="amulet-tier-obtain"><b>How to get:</b> At least 15 <a href="stump-snail.html">Stump Snail</a> defeats</p>
 
 <table class="article-table">
 <tbody><tr>
@@ -13226,7 +13245,6 @@ Show/hide tables
 The tables below give the percentage of a certain stat on the amulet having strength within a specific range, at a few quality milestones. To see the percentage of a certain stat having a specific strength value, see [the designated subpage](shell-amulet-probability.md#Supreme_Star_Amulet).
 
 *Note that the precise percentages may be off due to floating point errors.*  
-Show/hide tables
 
 ### + Goo %
 
@@ -16051,6 +16069,8 @@ Show/hide tables
 </td>
 <td>+29%
 </td></tr></tbody></table>
+
+///
 
 ## Trivia
 
