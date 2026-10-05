@@ -30,9 +30,7 @@ Aphids always appear as 1 of 4 different variants: Normal, Rage, Armored, and Di
 
 ### Normal Aphid
 
-### Normal Aphid
-
-<figure class="mw-halign-left" typeof="mw:Error mw:File"><figcaption></figcaption></figure>
+![Normal Aphid](img/mobs/Aphid.png){ width=160 }
 
 This is the most common aphid that can be encountered. They possess the least amount of health and deal the least amount of damage out of all aphids. It has a green body with red eyes and neon yellow-green legs and antennae.
 
@@ -57,9 +55,7 @@ This is the most common aphid that can be encountered. They possess the least am
 
 ### Rage Aphid
 
-### Rage Aphid
-
-<figure class="mw-halign-left" typeof="mw:Error mw:File"><figcaption></figcaption></figure>
+![Rage Aphid](img/mobs/Rage_Aphid.png){ width=160 }
 
 The Rage Aphid is one of the 3 rare types of aphids, the others being Armored Aphid and Diamond Aphid. The Rage Aphid has a higher chance to spawn in fields with red flowers. The Rage Aphid has higher health and deals the most damage out of all the aphids. They are colored similar to a [Gifted](gifted-bee.md) [Rage Bee](rage-bee.md) or Gifted [Spicy Bee](spicy-bee.md), with red bodies and green eyes, legs, and antennae.
 
@@ -90,9 +86,7 @@ The Rage Aphid is one of the 3 rare types of aphids, the others being Armored Ap
 
 ### Armored Aphid
 
-### Armored Aphid
-
-<figure class="mw-halign-left" typeof="mw:Error mw:File"><figcaption></figcaption></figure>
+![Armored Aphid](img/mobs/Armored_Aphid.png){ width=160 }
 
 The Armored Aphid is one of the 3 rare types of aphids, the others being Rage Aphid and Diamond Aphid. The Armored Aphid has a higher chance of spawning in mixed fields and fields with white flowers. The Armored aphid has higher defense compared to other types of aphids, allowing it to survive for a longer amount of time. It has a metallic gray body with red eyes and black legs and antennae.
 
@@ -124,9 +118,7 @@ The Armored Aphid is one of the 3 rare types of aphids, the others being Rage Ap
 
 ### Diamond Aphid
 
-### Diamond Aphid
-
-<figure class="mw-halign-left" typeof="mw:Error mw:File"><figcaption></figcaption></figure>
+![Diamond Aphid](img/mobs/Diamond_Aphid.png){ width=160 }
 
 The Diamond Aphid is one of the 3 rare types of aphids, the others being Rage Aphid and Armored Aphid. The Diamond Aphid has a higher chance to spawn in fields with blue flowers. The Diamond aphid possesses more health than the other aphids, which allows it to survive for a longer period of time. It looks similar to a [Diamond Bee](diamond-bee.md), with a sky-blue body and white eyes, legs, and antennae.
 
