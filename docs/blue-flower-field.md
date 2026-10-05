@@ -158,8 +158,6 @@ This is a 17×43 field made up of 731 [flowers](flowers.md). The flowers are blu
 * Using [glitter](glitter.md) will add 100% Blue Flower Field pollen onto the current boost for 15 minutes if it isn't already maxed out.
 * Using [field dice](field-dice.md), [smooth dice](smooth-dice.md), and [loaded dice](loaded-dice.md) may add +100% - 300% Blue Flower Field pollen for 15 minutes if the current boost isn't already maxed out.
 * Blue Flower [Field Winds](field-wind.md) can be obtained through the [Wind Shrine](wind-shrine.md) or [codes](codes.md). They have a base of +20% instant Blue Flower Field conversion and gives +5% instant Blue Flower Field conversion and +25% Blue Flower Field pollen for each stack. Blue Flower Field Winds can stack up to a total of 13 times.
-* Redeeming certain valid codes:
-  * Luther (Activates Blue Flower Field Code Buff + other stuff).
 * It can be boosted by the [King Beetle Amulet](king-beetle-amulet.md). If it has a Blue Flower Field Boost, it can boost the field by +1% to +100%.
 
 ### The methods below are no longer possible.

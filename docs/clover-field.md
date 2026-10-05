@@ -149,8 +149,6 @@ This field can spawn [treat](treat.md), [red boost](ability-tokens.md#Boost), bl
 * Using [glitter](glitter.md) will add 100% Clover Field pollen onto the current boost for 15 minutes, if it isn't already maxed out.
 * Using [field dice](field-dice.md), [smooth dice](smooth-dice.md), or [loaded dice](loaded-dice.md) may add +100% [(field dice)](field-dice.md) - 300% [(loaded dice)](loaded-dice.md) Clover Field pollen for 15 minutes if the boost isn't maxed out yet.
 * Clover [Field Winds](field-wind.md) can be obtained through the [Wind Shrine](wind-shrine.md) or [codes](codes.md). They have a base of +20% instant Clover Field conversion and give +5% instant Clover Field conversion and +20% Clover Field pollen for each stack. All Field Winds (Including Clover Field Winds) can stack up to a total of 13 times.
-* Redeeming certain valid codes:
-  * Troggles (Gives Clover Field Code Buff + other stuff).
 * It can be boosted by the [King Beetle Amulet](king-beetle-amulet.md). If it has a Clover Field Boost, it can boost the field by +1% to +100%.
 * It can be boosted by the [Shell Amulet](shell-amulet.md). If it has a Clover Field Boost, it can boost the field by +5% to +30% depending on the amulet rarity.
 

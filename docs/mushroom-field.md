@@ -182,7 +182,6 @@ This is a 32x23 field made up of 736 [flowers](flowers.md). The flowers are red 
   * Buzzy (Gave Mushroom Field Boost x3 and Mushroom Field Winds x3 + other stuff).
   * ClubBasket (Gave Mushroom Field Boost x2 + other stuff).
   * WonkyFlop (Gives Mushroom Field Boost x4, Mushroom Field Winds x10 + other stuff).
-  * Dysentery (Activates Mushroom Field Code Buff + other stuff)
 
 ## Trivia
 

@@ -153,7 +153,6 @@ This is a 20×31 field, containing 620 [flowers](flowers.md). The flowers are re
 * Redeeming certain expired codes.
   * LateNightGumdrops (Gave Rose Field Boost x2 + other stuff).\
   * Discord100k (Gives Rose Field Boost x3 + other stuff).
-  * CarmenSanDiego (Activates Rose Field Code Buff + other stuff).
   * 1MLikes (Gives a x1 Field Boost for all Fields + other stuff).
   * PlushFriday (Gives Rose Field Code Buff + other stuff).
   * Afternoon (Gave Rose Field Boost x3 + other stuff).

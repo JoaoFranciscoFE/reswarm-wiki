@@ -58,7 +58,6 @@ This guard is one of 3 guards that can be purchased in the [Red HQ](red-hq.md), 
 ## Trivia
 
 * Before the 2018-11-25 update, the Elite Red Guard costed 8,000,000 honey and no crafting materials.
-* Previously in the Ready Player Two event, its description read ">> ☺ Sa livsuee sa dawol, romf nyyeds ot moakab." This is an anagram for "As elusive as Waldo, from Sydney to Bamako". It hinted towards the [code](codes.md#Ready_Player_Two_codes), "CarmenSanDiego".
 * This guard's blue counterpart is the [Elite Blue Guard](elite-blue-guard.md).
 
 <table class="mw-collapsible autocollapse" style="margin:auto; background:#000; font-size: 10pt; border:5px solid #56CB5A; width: 100%; border-radius: 20px; -moz-border-radius: 20px; -webkit-border-radius: 20px; -khtml-border-radius: 20px; -icab-border-radius: 20px; -o-border-radius: 20px;">
