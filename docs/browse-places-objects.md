@@ -19,13 +19,13 @@ All 39 pages in Places & Objects.
 <a class="wiki-card wiki-card--photo" href="blue-teleporter.html"><img src="img/places/Blue_Teleporter.png" alt="" loading="lazy"><span>Blue Teleporter</span></a>
 <a class="wiki-card wiki-card--photo" href="brave-bee-gate.html"><img src="img/places/Brave_Bee_Gate.png" alt="" loading="lazy"><span>Brave Bee Gate</span></a>
 <a class="wiki-card wiki-card--photo" href="coconut-cave.html"><img src="img/places/Coconut_Cave.png" alt="" loading="lazy"><span>Coconut Cave</span></a>
-<a class="wiki-card wiki-card--noicon" href="commando-chick-s-hideout.html"><img src="images/no-icon.svg" alt="" loading="lazy"><span>Commando Chick&#x27;s Hideout</span></a>
+<a class="wiki-card" href="commando-chick-s-hideout.html"><img src="img/Commando_Chick's_Hideout.png" alt="" loading="lazy"><span>Commando Chick&#x27;s Hideout</span></a>
 <a class="wiki-card wiki-card--photo" href="field-booster.html"><img src="img/places/Field_Booster.png" alt="" loading="lazy"><span>Field Booster</span></a>
 <a class="wiki-card wiki-card--photo" href="gummy-bear-s-lair.html"><img src="img/places/Gummy_Bear's_Lair.png" alt="" loading="lazy"><span>Gummy Bear&#x27;s Lair</span></a>
 <a class="wiki-card wiki-card--photo" href="hive-hub.html"><img src="img/places/Hive_Hub.png" alt="" loading="lazy"><span>Hive Hub</span></a>
 <a class="wiki-card wiki-card--photo" href="honey-bee-gate.html"><img src="img/places/Honey_Bee_Gate.png" alt="" loading="lazy"><span>Honey Bee Gate</span></a>
 <a class="wiki-card wiki-card--photo" href="instant-converter.html"><img src="img/places/Instant_Converter.png" alt="" loading="lazy"><span>Instant Converter</span></a>
-<a class="wiki-card wiki-card--noicon" href="king-beetle-s-lair.html"><img src="images/no-icon.svg" alt="" loading="lazy"><span>King Beetle&#x27;s Lair</span></a>
+<a class="wiki-card" href="king-beetle-s-lair.html"><img src="img/King_Beetle's_Lair.png" alt="" loading="lazy"><span>King Beetle&#x27;s Lair</span></a>
 <a class="wiki-card wiki-card--photo" href="lion-bee-gate.html"><img src="img/places/Lion_Bee_Gate.png" alt="" loading="lazy"><span>Lion Bee Gate</span></a>
 <a class="wiki-card wiki-card--photo" href="moon-amulet-generator.html"><img src="img/places/Moon_Amulet_Generator.png" alt="" loading="lazy"><span>Moon Amulet Generator</span></a>
 <a class="wiki-card wiki-card--photo" href="nectar-condenser.html"><img src="img/places/Nectar_Condenser.png" alt="" loading="lazy"><span>Nectar Condenser</span></a>
@@ -36,7 +36,7 @@ All 39 pages in Places & Objects.
 <a class="wiki-card wiki-card--photo" href="red-teleporter.html"><img src="img/places/Red_Teleporter.png" alt="" loading="lazy"><span>Red Teleporter</span></a>
 <a class="wiki-card" href="slingshot.html"><img src="img/Slingshot.png" alt="" loading="lazy"><span>Slingshot</span></a>
 <a class="wiki-card wiki-card--photo" href="snowbear-summoner.html"><img src="img/places/Snowbear_Summoner.png" alt="" loading="lazy"><span>Snowbear Summoner</span></a>
-<a class="wiki-card wiki-card--noicon" href="special-sprout-summoner.html"><img src="images/no-icon.svg" alt="" loading="lazy"><span>Special Sprout Summoner</span></a>
+<a class="wiki-card" href="special-sprout-summoner.html"><img src="img/Special_Sprout_Summoner.png" alt="" loading="lazy"><span>Special Sprout Summoner</span></a>
 <a class="wiki-card wiki-card--photo" href="star-hall.html"><img src="img/places/Star_Hall.png" alt="" loading="lazy"><span>Star Hall</span></a>
 <a class="wiki-card wiki-card--photo" href="starter-zone.html"><img src="img/places/Starter_Zone.png" alt="" loading="lazy"><span>Starter Zone</span></a>
 <a class="wiki-card wiki-card--photo" href="sticker-printer.html"><img src="img/places/Sticker_Printer.png" alt="" loading="lazy"><span>Sticker Printer</span></a>
