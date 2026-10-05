@@ -77,2765 +77,394 @@ A **Pinecone** is a [level](bond.md) 9 Beesmas [beequip](beequip.md). It has an 
 
 ## Possible Stats
 
-### General
+<p class="beequip-meta"><b>Rarity:</b> Epic · <b>Equip limit:</b> 2 · <b>Who can wear it:</b> level 9+; bee types: Bumble, Bucko, Stubborn, Carpenter, Frosty, Bear · Beesmas · uses the older roll function (OldRNG)</p>
 
-<table class="wikitable" style="border:2px solid">
-<caption>Hover over column headers for more information. <br/>
-Check the <a href="beequip.html#Generation">Beequip#Generation</a> article for a short explanation on how the game generates Beequips. <br/>
-Credit: Pawselfie - <a href="https://docs.google.com/spreadsheets/d/1DFvWFNN7euft6ELtkif0BgORQIppZ3PnrLWwk0dfAEQ/edit">Original spreadsheet</a>
-</caption>
+*Stats and hive bonuses each roll on their own. Higher potential makes a stat more likely to appear and pulls its value towards the top of its range. The chances and averages below come from running the game's own roll code 5,000 times at each potential.*
+
+/// tab | 1 ★
+
+<table class="article-table">
 <tbody><tr>
-<td colspan="7"><center>This beequip <b>uses</b> the old RNG functions.</center>
-</td></tr>
-<tr>
-<th rowspan="2">Stat <br/><span style="border-bottom:1px dotted;" title="Stats that can only be upgraded with points from a Caustic Wax. Note that this does not apply to the beequip's base stats.">Caustic Req.</span> 
+<th>Type
 </th>
-<th colspan="2"><span style="border-bottom:1px dotted;" title="Stats the beequip can have without using any waxes.">Base</span> 
+<th>Stat
 </th>
-<th colspan="3"><span style="border-bottom:1px dotted;" title="Stats the beequip can get from using waxes.">Upgrades</span> 
+<th>Range
 </th>
-<th rowspan="2"><span style="border-bottom:1px dotted;" title="The range of values of that stat the beequip can receive, including using waxes.">Range</span> 
+<th>Chance at 1 ★
+</th>
+<th>Average at 1 ★
 </th></tr>
 <tr>
-<th><span style="border-bottom:1px dotted;" title="Probabiity of the beequip having the stat without using any waxes. Note that multiple of these stats can be picked.">Chance</span> 
-</th>
-<th><span style="border-bottom:1px dotted;" title="The range of the strength of the stat without using any waxes.">Value</span> 
-</th>
-<th><span style="border-bottom:1px dotted;" title="The range of the stat's weight, used to find its probability of being upgraded from a wax point. Note that a wax point can only pick 1 of the listed stats.">Weight</span> 
-</th>
-<th><span style="border-bottom:1px dotted;" title="The range of how much a wax point can upgrade the stat.">Value</span> 
-</th>
-<th><span style="border-bottom:1px dotted;" title="Limit of how many wax points can upgrade the stat.">Limit</span>
-</th></tr>
-<tr>
-<td>+<a href="stats.html#Production_Amount">Convert Amount</a>%
+<td>Bee stat
 </td>
-<td><b>100%</b>
+<td>Convert Amount
 </td>
-<td>A random value between <b>+20%</b>-<b>+30%</b><br/>Intervals of +1%<br/>Bias scales linearly
+<td>x1.2 to x1.3
 </td>
-<td><b>1</b>
+<td>100%
 </td>
-<td>A random value between <b>+1%</b>-<b>+2%</b><br/>Intervals of +1%<br/>Bias scales linearly
-</td>
-<td><b>20</b>
-</td>
-<td><b>+20% - +70%</b>
+<td>x1.235
 </td></tr>
 <tr>
-<td>+<a href="system-page.html#Ability_Rate">Ability Rate</a>%
+<td>Bee stat
 </td>
-<td>A random value between <b>10%</b>-<b>25%</b><br/>Bias scales linearly
+<td>Ability Rate
 </td>
-<td><b>+1%</b><br/>Intervals of +1%<br/>Bias scales linearly
+<td>x1.01
 </td>
-<td>An exact value between <b>0.01</b>-<b>0.1</b><br/>Linear scaling by a factor of 1
+<td>15%
 </td>
-<td><b>+1%</b>
-</td>
-<td><b>1</b>
-</td>
-<td><b>0% - +2%</b>
+<td>x1.01
 </td></tr>
 <tr>
-<th colspan="7">Hive Bonus
-</th></tr>
-<tr>
-<td>+<a href="system-page.html#Capacity_Multiplier">Pine Tree Forest Capacity</a>%
+<td>Hive bonus
 </td>
-<td><b>100%</b>
+<td>Pine Tree Forest Capacity
 </td>
-<td>A random value between <b>+8%</b>-<b>+15%</b><br/>Intervals of +1%<br/>Bias scales linearly
+<td>+8% to +15%
 </td>
-<td>An exact value between <b>0.05</b>-<b>0.2</b><br/>Linear scaling by a factor of 1
+<td>100%
 </td>
-<td><b>+1%</b>
-</td>
-<td><b>10</b>
-</td>
-<td><b>+8% - +25%</b>
+<td>+10.42%
 </td></tr>
 <tr>
-<td>+<a href="system-page.html#Pollen">Pine Tree Forest Pollen</a>%
+<td>Hive bonus
 </td>
-<td><b>100%</b>
+<td>Pine Tree Forest Pollen
 </td>
-<td>A random value between <b>+5%</b>-<b>+10%</b><br/>Intervals of +1%<br/>Bias scales linearly
+<td>+5% to +10%
 </td>
-<td>An exact value between <b>0.03</b>-<b>0.1</b><br/>Linear scaling by a factor of 1
+<td>100%
 </td>
-<td><b>+1%</b>
-</td>
-<td><b>10</b>
-</td>
-<td><b>+5% - +20%</b>
+<td>+6.75%
 </td></tr></tbody></table>
 
-### With Potential
+///
 
-*Note that the values shown may differ greatly from the real values, as there is no way to view a beequip's true potential in-game ― the player can only see a beequip's potential rounded to the nearest 1 ★ (or 0.5 ★ in Dapper Bear's Shop).*
+/// tab | 2 ★
 
-### 0 ★
-
-### Non-Caustic
-
-<table class="wikitable" style="border:2px solid">
+<table class="article-table">
 <tbody><tr>
-<td colspan="6"><center>
-<p>All results are rounded to at most 4 decimal digits.<br/>
-</p>
-Due to certain quirks within the game's generation, the probability of some of this beequip's stats are randomized between the 2 given values.</center>
-</td></tr>
-<tr>
-<th rowspan="2">Stat <br/><span style="border-bottom:1px dotted;" title="Stats that can only be upgraded with points from a Caustic Wax. Note that this does not apply to the beequip's base stats.">Caustic Req.</span> 
+<th>Type
 </th>
-<th colspan="2"><span style="border-bottom:1px dotted;" title="Stats the beequip can have without using any waxes.">Base</span> 
+<th>Stat
 </th>
-<th colspan="3"><span style="border-bottom:1px dotted;" title="Stats the beequip can get from using waxes.">Upgrades</span> 
+<th>Range
+</th>
+<th>Chance at 2 ★
+</th>
+<th>Average at 2 ★
 </th></tr>
 <tr>
-<th><span style="border-bottom:1px dotted;" title="Probabiity of the beequip having the stat without using any waxes. Note that multiple of these stats can be picked.">Chance</span> 
-</th>
-<th><span style="border-bottom:1px dotted;" title="The range of the strength of the stat without using any waxes.">Value</span> 
-</th>
-<th><span style="border-bottom:1px dotted;" title="Probability for the stat to be upgraded from a wax point. Note that a wax point can only pick 1 of the listed stats.">Chance</span> 
-</th>
-<th><span style="border-bottom:1px dotted;" title="The range of how much a wax point can upgrade the stat.">Value</span> 
-</th>
-<th><span style="border-bottom:1px dotted;" title="Limit of how many wax points can upgrade the stat.">Limit</span>
-</th></tr>
-<tr>
-<td>+<a href="stats.html#Production_Amount">Convert Amount</a>%
+<td>Bee stat
 </td>
-<td><b>100%</b>
+<td>Convert Amount
 </td>
-<td>A random value between <b>+20%</b>-<b>+30%</b><br/>Intervals of +1%<br/>Biased to values near +20%<br/>Average value: +22.48%
+<td>x1.2 to x1.3
 </td>
-<td><b>91.7431%</b>
+<td>100%
 </td>
-<td>A random value between <b>+1%</b>-<b>+2%</b><br/>Intervals of +1%<br/>Biased to values near +1%<br/>Average value: +1.15%
-</td>
-<td><b>20</b>
+<td>x1.245
 </td></tr>
 <tr>
-<td>+<a href="system-page.html#Ability_Rate">Ability Rate</a>%
+<td>Bee stat
 </td>
-<td>A random value between <b>10%</b>-<b>25%</b><br/>Biased to values near 10%<br/>Average value: 13.75%
+<td>Ability Rate
 </td>
-<td><b>+1%</b>
+<td>x1.01
 </td>
-<td><b>0.9174%</b>
+<td>17%
 </td>
-<td><b>+1%</b>
-</td>
-<td><b>1</b>
+<td>x1.01
 </td></tr>
 <tr>
-<th colspan="7">Hive Bonus
-</th></tr>
-<tr>
-<td>+<a href="system-page.html#Capacity_Multiplier">Pine Tree Forest Capacity</a>%
+<td>Hive bonus
 </td>
-<td><b>100%</b>
+<td>Pine Tree Forest Capacity
 </td>
-<td>A random value between <b>+8%</b>-<b>+15%</b><br/>Intervals of +1%<br/>Biased to values near +8%<br/>Average value: +9.72%
+<td>+8% to +15%
 </td>
-<td><b>4.5872%</b>
+<td>100%
 </td>
-<td><b>+1%</b>
-</td>
-<td><b>10</b>
+<td>+11.18%
 </td></tr>
 <tr>
-<td>+<a href="system-page.html#Pollen">Pine Tree Forest Pollen</a>%
+<td>Hive bonus
 </td>
-<td><b>100%</b>
+<td>Pine Tree Forest Pollen
 </td>
-<td>A random value between <b>+5%</b>-<b>+10%</b><br/>Intervals of +1%<br/>Biased to values near +5%<br/>Average value: +6.22%
+<td>+5% to +10%
 </td>
-<td><b>2.7523%</b>
+<td>100%
 </td>
-<td><b>+1%</b>
-</td>
-<td><b>10</b>
+<td>+7.22%
 </td></tr></tbody></table>
 
-### Caustic
+///
 
-<table class="wikitable" style="border:2px solid">
+/// tab | 3 ★
+
+<table class="article-table">
 <tbody><tr>
-<td colspan="6"><center>
-<p>All results are rounded to at most 4 decimal digits.<br/>
-</p>
-Due to certain quirks within the game's generation, the probability of some of this beequip's stats are randomized between the 2 given values.</center>
-</td></tr>
-<tr>
-<th rowspan="2">Stat <br/><span style="border-bottom:1px dotted;" title="Stats that can only be upgraded with points from a Caustic Wax. Note that this does not apply to the beequip's base stats.">Caustic Req.</span> 
+<th>Type
 </th>
-<th colspan="2"><span style="border-bottom:1px dotted;" title="Stats the beequip can have without using any waxes.">Base</span> 
+<th>Stat
 </th>
-<th colspan="3"><span style="border-bottom:1px dotted;" title="Stats the beequip can get from using waxes.">Upgrades</span> 
+<th>Range
+</th>
+<th>Chance at 3 ★
+</th>
+<th>Average at 3 ★
 </th></tr>
 <tr>
-<th><span style="border-bottom:1px dotted;" title="Probabiity of the beequip having the stat without using any waxes. Note that multiple of these stats can be picked.">Chance</span> 
-</th>
-<th><span style="border-bottom:1px dotted;" title="The range of the strength of the stat without using any waxes.">Value</span> 
-</th>
-<th><span style="border-bottom:1px dotted;" title="Probability for the stat to be upgraded from a wax point. Note that a wax point can only pick 1 of the listed stats.">Chance</span> 
-</th>
-<th><span style="border-bottom:1px dotted;" title="The range of how much a wax point can upgrade the stat.">Value</span> 
-</th>
-<th><span style="border-bottom:1px dotted;" title="Limit of how many wax points can upgrade the stat.">Limit</span>
-</th></tr>
-<tr>
-<td>+<a href="stats.html#Production_Amount">Convert Amount</a>%
+<td>Bee stat
 </td>
-<td><b>100%</b>
+<td>Convert Amount
 </td>
-<td>A random value between <b>+20%</b>-<b>+30%</b><br/>Intervals of +1%<br/>Biased to values near +20%<br/>Average value: +22.48%
+<td>x1.2 to x1.3
 </td>
-<td><b>91.7431%</b>
+<td>100%
 </td>
-<td>A random value between <b>+1%</b>-<b>+2%</b><br/>Intervals of +1%<br/>Biased to values near +1%<br/>Average value: +1.15%
-</td>
-<td><b>20</b>
+<td>x1.255
 </td></tr>
 <tr>
-<td>+<a href="system-page.html#Ability_Rate">Ability Rate</a>%
+<td>Bee stat
 </td>
-<td>A random value between <b>10%</b>-<b>25%</b><br/>Biased to values near 10%<br/>Average value: 13.75%
+<td>Ability Rate
 </td>
-<td><b>+1%</b>
+<td>x1.01
 </td>
-<td><b>0.9174%</b>
+<td>18%
 </td>
-<td><b>+1%</b>
-</td>
-<td><b>1</b>
+<td>x1.01
 </td></tr>
 <tr>
-<th colspan="7">Hive Bonus
-</th></tr>
-<tr>
-<td>+<a href="system-page.html#Capacity_Multiplier">Pine Tree Forest Capacity</a>%
+<td>Hive bonus
 </td>
-<td><b>100%</b>
+<td>Pine Tree Forest Capacity
 </td>
-<td>A random value between <b>+8%</b>-<b>+15%</b><br/>Intervals of +1%<br/>Biased to values near +8%<br/>Average value: +9.72%
+<td>+8% to +15%
 </td>
-<td><b>4.5872%</b>
+<td>100%
 </td>
-<td><b>+1%</b>
-</td>
-<td><b>10</b>
+<td>+11.82%
 </td></tr>
 <tr>
-<td>+<a href="system-page.html#Pollen">Pine Tree Forest Pollen</a>%
+<td>Hive bonus
 </td>
-<td><b>100%</b>
+<td>Pine Tree Forest Pollen
 </td>
-<td>A random value between <b>+5%</b>-<b>+10%</b><br/>Intervals of +1%<br/>Biased to values near +5%<br/>Average value: +6.22%
+<td>+5% to +10%
 </td>
-<td><b>2.7523%</b>
+<td>100%
 </td>
-<td><b>+1%</b>
-</td>
-<td><b>10</b>
+<td>+7.74%
 </td></tr></tbody></table>
 
-### 0.5 ★
+///
 
-### Non-Caustic
+/// tab | 4 ★
 
-<table class="wikitable" style="border:2px solid">
+<table class="article-table">
 <tbody><tr>
-<td colspan="6"><center>
-<p>All results are rounded to at most 4 decimal digits.<br/>
-</p>
-Due to certain quirks within the game's generation, the probability of some of this beequip's stats are randomized between the 2 given values.</center>
-</td></tr>
-<tr>
-<th rowspan="2">Stat <br/><span style="border-bottom:1px dotted;" title="Stats that can only be upgraded with points from a Caustic Wax. Note that this does not apply to the beequip's base stats.">Caustic Req.</span> 
+<th>Type
 </th>
-<th colspan="2"><span style="border-bottom:1px dotted;" title="Stats the beequip can have without using any waxes.">Base</span> 
+<th>Stat
 </th>
-<th colspan="3"><span style="border-bottom:1px dotted;" title="Stats the beequip can get from using waxes.">Upgrades</span> 
+<th>Range
+</th>
+<th>Chance at 4 ★
+</th>
+<th>Average at 4 ★
 </th></tr>
 <tr>
-<th><span style="border-bottom:1px dotted;" title="Probabiity of the beequip having the stat without using any waxes. Note that multiple of these stats can be picked.">Chance</span> 
-</th>
-<th><span style="border-bottom:1px dotted;" title="The range of the strength of the stat without using any waxes.">Value</span> 
-</th>
-<th><span style="border-bottom:1px dotted;" title="Probability for the stat to be upgraded from a wax point. Note that a wax point can only pick 1 of the listed stats.">Chance</span> 
-</th>
-<th><span style="border-bottom:1px dotted;" title="The range of how much a wax point can upgrade the stat.">Value</span> 
-</th>
-<th><span style="border-bottom:1px dotted;" title="Limit of how many wax points can upgrade the stat.">Limit</span>
-</th></tr>
-<tr>
-<td>+<a href="stats.html#Production_Amount">Convert Amount</a>%
+<td>Bee stat
 </td>
-<td><b>100%</b>
+<td>Convert Amount
 </td>
-<td>A random value between <b>+20%</b>-<b>+30%</b><br/>Intervals of +1%<br/>Biased to values near +21%<br/>Average value: +22.99%
+<td>x1.2 to x1.3
 </td>
-<td><b>89.2061%</b>
+<td>100%
 </td>
-<td>A random value between <b>+1%</b>-<b>+2%</b><br/>Intervals of +1%<br/>Biased to values near +1.1%<br/>Average value: +1.18%
-</td>
-<td><b>20</b>
+<td>x1.265
 </td></tr>
 <tr>
-<td>+<a href="system-page.html#Ability_Rate">Ability Rate</a>%
+<td>Bee stat
 </td>
-<td>A random value between <b>10%</b>-<b>25%</b><br/>Biased to values near 11.5%<br/>Average value: 14.5%
+<td>Ability Rate
 </td>
-<td><b>+1%</b>
+<td>x1.01
 </td>
-<td><b>1.6949%</b>
+<td>20%
 </td>
-<td><b>+1%</b>
-</td>
-<td><b>1</b>
+<td>x1.01
 </td></tr>
 <tr>
-<th colspan="7">Hive Bonus
-</th></tr>
-<tr>
-<td>+<a href="system-page.html#Capacity_Multiplier">Pine Tree Forest Capacity</a>%
+<td>Hive bonus
 </td>
-<td><b>100%</b>
+<td>Pine Tree Forest Capacity
 </td>
-<td>A random value between <b>+8%</b>-<b>+15%</b><br/>Intervals of +1%<br/>Biased to values near +8.7%<br/>Average value: +10.12%
+<td>+8% to +15%
 </td>
-<td><b>5.7984%</b>
+<td>100%
 </td>
-<td><b>+1%</b>
-</td>
-<td><b>10</b>
+<td>+12.57%
 </td></tr>
 <tr>
-<td>+<a href="system-page.html#Pollen">Pine Tree Forest Pollen</a>%
+<td>Hive bonus
 </td>
-<td><b>100%</b>
+<td>Pine Tree Forest Pollen
 </td>
-<td>A random value between <b>+5%</b>-<b>+10%</b><br/>Intervals of +1%<br/>Biased to values near +5.5%<br/>Average value: +6.54%
+<td>+5% to +10%
 </td>
-<td><b>3.3006%</b>
+<td>100%
 </td>
-<td><b>+1%</b>
-</td>
-<td><b>10</b>
+<td>+8.28%
 </td></tr></tbody></table>
 
-### Caustic
+///
 
-<table class="wikitable" style="border:2px solid">
+/// tab | 5 ★
+
+<table class="article-table">
 <tbody><tr>
-<td colspan="6"><center>
-<p>All results are rounded to at most 4 decimal digits.<br/>
-</p>
-Due to certain quirks within the game's generation, the probability of some of this beequip's stats are randomized between the 2 given values.</center>
-</td></tr>
-<tr>
-<th rowspan="2">Stat <br/><span style="border-bottom:1px dotted;" title="Stats that can only be upgraded with points from a Caustic Wax. Note that this does not apply to the beequip's base stats.">Caustic Req.</span> 
+<th>Type
 </th>
-<th colspan="2"><span style="border-bottom:1px dotted;" title="Stats the beequip can have without using any waxes.">Base</span> 
+<th>Stat
 </th>
-<th colspan="3"><span style="border-bottom:1px dotted;" title="Stats the beequip can get from using waxes.">Upgrades</span> 
+<th>Range
+</th>
+<th>Chance at 5 ★
+</th>
+<th>Average at 5 ★
 </th></tr>
 <tr>
-<th><span style="border-bottom:1px dotted;" title="Probabiity of the beequip having the stat without using any waxes. Note that multiple of these stats can be picked.">Chance</span> 
-</th>
-<th><span style="border-bottom:1px dotted;" title="The range of the strength of the stat without using any waxes.">Value</span> 
-</th>
-<th><span style="border-bottom:1px dotted;" title="Probability for the stat to be upgraded from a wax point. Note that a wax point can only pick 1 of the listed stats.">Chance</span> 
-</th>
-<th><span style="border-bottom:1px dotted;" title="The range of how much a wax point can upgrade the stat.">Value</span> 
-</th>
-<th><span style="border-bottom:1px dotted;" title="Limit of how many wax points can upgrade the stat.">Limit</span>
-</th></tr>
-<tr>
-<td>+<a href="stats.html#Production_Amount">Convert Amount</a>%
+<td>Bee stat
 </td>
-<td><b>100%</b>
+<td>Convert Amount
 </td>
-<td>A random value between <b>+20%</b>-<b>+30%</b><br/>Intervals of +1%<br/>Biased to values near +21%<br/>Average value: +22.99%
+<td>x1.2 to x1.3
 </td>
-<td><b>89.2061%</b>
+<td>100%
 </td>
-<td>A random value between <b>+1%</b>-<b>+2%</b><br/>Intervals of +1%<br/>Biased to values near +1.1%<br/>Average value: +1.18%
-</td>
-<td><b>20</b>
+<td>x1.275
 </td></tr>
 <tr>
-<td>+<a href="system-page.html#Ability_Rate">Ability Rate</a>%
+<td>Bee stat
 </td>
-<td>A random value between <b>10%</b>-<b>25%</b><br/>Biased to values near 11.5%<br/>Average value: 14.5%
+<td>Ability Rate
 </td>
-<td><b>+1%</b>
+<td>x1.01
 </td>
-<td><b>1.6949%</b>
+<td>20%
 </td>
-<td><b>+1%</b>
-</td>
-<td><b>1</b>
+<td>x1.01
 </td></tr>
 <tr>
-<th colspan="7">Hive Bonus
-</th></tr>
-<tr>
-<td>+<a href="system-page.html#Capacity_Multiplier">Pine Tree Forest Capacity</a>%
+<td>Hive bonus
 </td>
-<td><b>100%</b>
+<td>Pine Tree Forest Capacity
 </td>
-<td>A random value between <b>+8%</b>-<b>+15%</b><br/>Intervals of +1%<br/>Biased to values near +8.7%<br/>Average value: +10.12%
+<td>+8% to +15%
 </td>
-<td><b>5.7984%</b>
+<td>100%
 </td>
-<td><b>+1%</b>
-</td>
-<td><b>10</b>
+<td>+13.26%
 </td></tr>
 <tr>
-<td>+<a href="system-page.html#Pollen">Pine Tree Forest Pollen</a>%
+<td>Hive bonus
 </td>
-<td><b>100%</b>
+<td>Pine Tree Forest Pollen
 </td>
-<td>A random value between <b>+5%</b>-<b>+10%</b><br/>Intervals of +1%<br/>Biased to values near +5.5%<br/>Average value: +6.54%
+<td>+5% to +10%
 </td>
-<td><b>3.3006%</b>
+<td>100%
 </td>
-<td><b>+1%</b>
-</td>
-<td><b>10</b>
+<td>+8.76%
 </td></tr></tbody></table>
 
-### 1 ★
+///
 
-### Non-Caustic
+### Wax upgrades
 
-<table class="wikitable" style="border:2px solid">
+*Each upgrade a wax rolls picks one entry below, weighted by its share of the pool at that potential. Caustic-only entries can only come from Caustic or Debug Wax. An entry leaves the pool once it reaches its max picks.*
+
+<table class="article-table">
 <tbody><tr>
-<td colspan="6"><center>
-<p>All results are rounded to at most 4 decimal digits.<br/>
-</p>
-Due to certain quirks within the game's generation, the probability of some of this beequip's stats are randomized between the 2 given values.</center>
-</td></tr>
-<tr>
-<th rowspan="2">Stat <br/><span style="border-bottom:1px dotted;" title="Stats that can only be upgraded with points from a Caustic Wax. Note that this does not apply to the beequip's base stats.">Caustic Req.</span> 
+<th>Upgrade
 </th>
-<th colspan="2"><span style="border-bottom:1px dotted;" title="Stats the beequip can have without using any waxes.">Base</span> 
+<th>Max picks
 </th>
-<th colspan="3"><span style="border-bottom:1px dotted;" title="Stats the beequip can get from using waxes.">Upgrades</span> 
+<th>Caustic only
+</th>
+<th>Value per pick
+</th>
+<th>Weight at 1 ★
+</th>
+<th>Weight at 3 ★
+</th>
+<th>Weight at 5 ★
 </th></tr>
 <tr>
-<th><span style="border-bottom:1px dotted;" title="Probabiity of the beequip having the stat without using any waxes. Note that multiple of these stats can be picked.">Chance</span> 
-</th>
-<th><span style="border-bottom:1px dotted;" title="The range of the strength of the stat without using any waxes.">Value</span> 
-</th>
-<th><span style="border-bottom:1px dotted;" title="Probability for the stat to be upgraded from a wax point. Note that a wax point can only pick 1 of the listed stats.">Chance</span> 
-</th>
-<th><span style="border-bottom:1px dotted;" title="The range of how much a wax point can upgrade the stat.">Value</span> 
-</th>
-<th><span style="border-bottom:1px dotted;" title="Limit of how many wax points can upgrade the stat.">Limit</span>
-</th></tr>
-<tr>
-<td>+<a href="stats.html#Production_Amount">Convert Amount</a>%
-</td>
-<td><b>100%</b>
-</td>
-<td>A random value between <b>+20%</b>-<b>+30%</b><br/>Intervals of +1%<br/>Biased to values near +22%<br/>Average value: +23.49%
-</td>
-<td><b>86.8056%</b>
-</td>
-<td>A random value between <b>+1%</b>-<b>+2%</b><br/>Intervals of +1%<br/>Biased to values near +1.2%<br/>Average value: +1.21%
-</td>
-<td><b>20</b>
-</td></tr>
-<tr>
-<td>+<a href="system-page.html#Ability_Rate">Ability Rate</a>%
-</td>
-<td>A random value between <b>10%</b>-<b>25%</b><br/>Biased to values near 13%<br/>Average value: 15.25%
-</td>
-<td><b>+1%</b>
-</td>
-<td><b>2.4306%</b>
-</td>
-<td><b>+1%</b>
-</td>
-<td><b>1</b>
-</td></tr>
-<tr>
-<th colspan="7">Hive Bonus
-</th></tr>
-<tr>
-<td>+<a href="system-page.html#Capacity_Multiplier">Pine Tree Forest Capacity</a>%
-</td>
-<td><b>100%</b>
-</td>
-<td>A random value between <b>+8%</b>-<b>+15%</b><br/>Intervals of +1%<br/>Biased to values near +9.4%<br/>Average value: +10.44%
-</td>
-<td><b>6.9444%</b>
-</td>
-<td><b>+1%</b>
-</td>
-<td><b>10</b>
-</td></tr>
-<tr>
-<td>+<a href="system-page.html#Pollen">Pine Tree Forest Pollen</a>%
-</td>
-<td><b>100%</b>
-</td>
-<td>A random value between <b>+5%</b>-<b>+10%</b><br/>Intervals of +1%<br/>Biased to values near +6%<br/>Average value: +6.74%
-</td>
-<td><b>3.8194%</b>
-</td>
-<td><b>+1%</b>
-</td>
-<td><b>10</b>
-</td></tr></tbody></table>
-
-### Caustic
-
-<table class="wikitable" style="border:2px solid">
-<tbody><tr>
-<td colspan="6"><center>
-<p>All results are rounded to at most 4 decimal digits.<br/>
-</p>
-Due to certain quirks within the game's generation, the probability of some of this beequip's stats are randomized between the 2 given values.</center>
-</td></tr>
-<tr>
-<th rowspan="2">Stat <br/><span style="border-bottom:1px dotted;" title="Stats that can only be upgraded with points from a Caustic Wax. Note that this does not apply to the beequip's base stats.">Caustic Req.</span> 
-</th>
-<th colspan="2"><span style="border-bottom:1px dotted;" title="Stats the beequip can have without using any waxes.">Base</span> 
-</th>
-<th colspan="3"><span style="border-bottom:1px dotted;" title="Stats the beequip can get from using waxes.">Upgrades</span> 
-</th></tr>
-<tr>
-<th><span style="border-bottom:1px dotted;" title="Probabiity of the beequip having the stat without using any waxes. Note that multiple of these stats can be picked.">Chance</span> 
-</th>
-<th><span style="border-bottom:1px dotted;" title="The range of the strength of the stat without using any waxes.">Value</span> 
-</th>
-<th><span style="border-bottom:1px dotted;" title="Probability for the stat to be upgraded from a wax point. Note that a wax point can only pick 1 of the listed stats.">Chance</span> 
-</th>
-<th><span style="border-bottom:1px dotted;" title="The range of how much a wax point can upgrade the stat.">Value</span> 
-</th>
-<th><span style="border-bottom:1px dotted;" title="Limit of how many wax points can upgrade the stat.">Limit</span>
-</th></tr>
-<tr>
-<td>+<a href="stats.html#Production_Amount">Convert Amount</a>%
-</td>
-<td><b>100%</b>
-</td>
-<td>A random value between <b>+20%</b>-<b>+30%</b><br/>Intervals of +1%<br/>Biased to values near +22%<br/>Average value: +23.49%
-</td>
-<td><b>86.8056%</b>
-</td>
-<td>A random value between <b>+1%</b>-<b>+2%</b><br/>Intervals of +1%<br/>Biased to values near +1.2%<br/>Average value: +1.21%
-</td>
-<td><b>20</b>
-</td></tr>
-<tr>
-<td>+<a href="system-page.html#Ability_Rate">Ability Rate</a>%
-</td>
-<td>A random value between <b>10%</b>-<b>25%</b><br/>Biased to values near 13%<br/>Average value: 15.25%
-</td>
-<td><b>+1%</b>
-</td>
-<td><b>2.4306%</b>
-</td>
-<td><b>+1%</b>
-</td>
-<td><b>1</b>
-</td></tr>
-<tr>
-<th colspan="7">Hive Bonus
-</th></tr>
-<tr>
-<td>+<a href="system-page.html#Capacity_Multiplier">Pine Tree Forest Capacity</a>%
-</td>
-<td><b>100%</b>
-</td>
-<td>A random value between <b>+8%</b>-<b>+15%</b><br/>Intervals of +1%<br/>Biased to values near +9.4%<br/>Average value: +10.44%
-</td>
-<td><b>6.9444%</b>
-</td>
-<td><b>+1%</b>
-</td>
-<td><b>10</b>
-</td></tr>
-<tr>
-<td>+<a href="system-page.html#Pollen">Pine Tree Forest Pollen</a>%
-</td>
-<td><b>100%</b>
-</td>
-<td>A random value between <b>+5%</b>-<b>+10%</b><br/>Intervals of +1%<br/>Biased to values near +6%<br/>Average value: +6.74%
-</td>
-<td><b>3.8194%</b>
-</td>
-<td><b>+1%</b>
-</td>
-<td><b>10</b>
-</td></tr></tbody></table>
-
-### 1.5 ★
-
-### Non-Caustic
-
-<table class="wikitable" style="border:2px solid">
-<tbody><tr>
-<td colspan="6"><center>
-<p>All results are rounded to at most 4 decimal digits.<br/>
-</p>
-Due to certain quirks within the game's generation, the probability of some of this beequip's stats are randomized between the 2 given values.</center>
-</td></tr>
-<tr>
-<th rowspan="2">Stat <br/><span style="border-bottom:1px dotted;" title="Stats that can only be upgraded with points from a Caustic Wax. Note that this does not apply to the beequip's base stats.">Caustic Req.</span> 
-</th>
-<th colspan="2"><span style="border-bottom:1px dotted;" title="Stats the beequip can have without using any waxes.">Base</span> 
-</th>
-<th colspan="3"><span style="border-bottom:1px dotted;" title="Stats the beequip can get from using waxes.">Upgrades</span> 
-</th></tr>
-<tr>
-<th><span style="border-bottom:1px dotted;" title="Probabiity of the beequip having the stat without using any waxes. Note that multiple of these stats can be picked.">Chance</span> 
-</th>
-<th><span style="border-bottom:1px dotted;" title="The range of the strength of the stat without using any waxes.">Value</span> 
-</th>
-<th><span style="border-bottom:1px dotted;" title="Probability for the stat to be upgraded from a wax point. Note that a wax point can only pick 1 of the listed stats.">Chance</span> 
-</th>
-<th><span style="border-bottom:1px dotted;" title="The range of how much a wax point can upgrade the stat.">Value</span> 
-</th>
-<th><span style="border-bottom:1px dotted;" title="Limit of how many wax points can upgrade the stat.">Limit</span>
-</th></tr>
-<tr>
-<td>+<a href="stats.html#Production_Amount">Convert Amount</a>%
-</td>
-<td><b>100%</b>
-</td>
-<td>A random value between <b>+20%</b>-<b>+30%</b><br/>Intervals of +1%<br/>Biased to values near +23%<br/>Average value: +24%
-</td>
-<td><b>84.5309%</b>
-</td>
-<td>A random value between <b>+1%</b>-<b>+2%</b><br/>Intervals of +1%<br/>Biased to values near +1.3%<br/>Average value: +1.25%
-</td>
-<td><b>20</b>
-</td></tr>
-<tr>
-<td>+<a href="system-page.html#Ability_Rate">Ability Rate</a>%
-</td>
-<td>A random value between <b>10%</b>-<b>25%</b><br/>Biased to values near 14.5%<br/>Average value: 16%
-</td>
-<td><b>+1%</b>
-</td>
-<td><b>3.1276%</b>
-</td>
-<td><b>+1%</b>
-</td>
-<td><b>1</b>
-</td></tr>
-<tr>
-<th colspan="7">Hive Bonus
-</th></tr>
-<tr>
-<td>+<a href="system-page.html#Capacity_Multiplier">Pine Tree Forest Capacity</a>%
-</td>
-<td><b>100%</b>
-</td>
-<td>A random value between <b>+8%</b>-<b>+15%</b><br/>Intervals of +1%<br/>Biased to values near +10.1%<br/>Average value: +10.79%
-</td>
-<td><b>8.0304%</b>
-</td>
-<td><b>+1%</b>
-</td>
-<td><b>10</b>
-</td></tr>
-<tr>
-<td>+<a href="system-page.html#Pollen">Pine Tree Forest Pollen</a>%
-</td>
-<td><b>100%</b>
-</td>
-<td>A random value between <b>+5%</b>-<b>+10%</b><br/>Intervals of +1%<br/>Biased to values near +6.5%<br/>Average value: +7.01%
-</td>
-<td><b>4.3111%</b>
-</td>
-<td><b>+1%</b>
-</td>
-<td><b>10</b>
-</td></tr></tbody></table>
-
-### Caustic
-
-<table class="wikitable" style="border:2px solid">
-<tbody><tr>
-<td colspan="6"><center>
-<p>All results are rounded to at most 4 decimal digits.<br/>
-</p>
-Due to certain quirks within the game's generation, the probability of some of this beequip's stats are randomized between the 2 given values.</center>
-</td></tr>
-<tr>
-<th rowspan="2">Stat <br/><span style="border-bottom:1px dotted;" title="Stats that can only be upgraded with points from a Caustic Wax. Note that this does not apply to the beequip's base stats.">Caustic Req.</span> 
-</th>
-<th colspan="2"><span style="border-bottom:1px dotted;" title="Stats the beequip can have without using any waxes.">Base</span> 
-</th>
-<th colspan="3"><span style="border-bottom:1px dotted;" title="Stats the beequip can get from using waxes.">Upgrades</span> 
-</th></tr>
-<tr>
-<th><span style="border-bottom:1px dotted;" title="Probabiity of the beequip having the stat without using any waxes. Note that multiple of these stats can be picked.">Chance</span> 
-</th>
-<th><span style="border-bottom:1px dotted;" title="The range of the strength of the stat without using any waxes.">Value</span> 
-</th>
-<th><span style="border-bottom:1px dotted;" title="Probability for the stat to be upgraded from a wax point. Note that a wax point can only pick 1 of the listed stats.">Chance</span> 
-</th>
-<th><span style="border-bottom:1px dotted;" title="The range of how much a wax point can upgrade the stat.">Value</span> 
-</th>
-<th><span style="border-bottom:1px dotted;" title="Limit of how many wax points can upgrade the stat.">Limit</span>
-</th></tr>
-<tr>
-<td>+<a href="stats.html#Production_Amount">Convert Amount</a>%
-</td>
-<td><b>100%</b>
-</td>
-<td>A random value between <b>+20%</b>-<b>+30%</b><br/>Intervals of +1%<br/>Biased to values near +23%<br/>Average value: +24%
-</td>
-<td><b>84.5309%</b>
-</td>
-<td>A random value between <b>+1%</b>-<b>+2%</b><br/>Intervals of +1%<br/>Biased to values near +1.3%<br/>Average value: +1.25%
-</td>
-<td><b>20</b>
-</td></tr>
-<tr>
-<td>+<a href="system-page.html#Ability_Rate">Ability Rate</a>%
-</td>
-<td>A random value between <b>10%</b>-<b>25%</b><br/>Biased to values near 14.5%<br/>Average value: 16%
-</td>
-<td><b>+1%</b>
-</td>
-<td><b>3.1276%</b>
-</td>
-<td><b>+1%</b>
-</td>
-<td><b>1</b>
-</td></tr>
-<tr>
-<th colspan="7">Hive Bonus
-</th></tr>
-<tr>
-<td>+<a href="system-page.html#Capacity_Multiplier">Pine Tree Forest Capacity</a>%
-</td>
-<td><b>100%</b>
-</td>
-<td>A random value between <b>+8%</b>-<b>+15%</b><br/>Intervals of +1%<br/>Biased to values near +10.1%<br/>Average value: +10.79%
-</td>
-<td><b>8.0304%</b>
-</td>
-<td><b>+1%</b>
-</td>
-<td><b>10</b>
-</td></tr>
-<tr>
-<td>+<a href="system-page.html#Pollen">Pine Tree Forest Pollen</a>%
-</td>
-<td><b>100%</b>
-</td>
-<td>A random value between <b>+5%</b>-<b>+10%</b><br/>Intervals of +1%<br/>Biased to values near +6.5%<br/>Average value: +7.01%
-</td>
-<td><b>4.3111%</b>
-</td>
-<td><b>+1%</b>
-</td>
-<td><b>10</b>
-</td></tr></tbody></table>
-
-### 2 ★
-
-### Non-Caustic
-
-<table class="wikitable" style="border:2px solid">
-<tbody><tr>
-<td colspan="6"><center>
-<p>All results are rounded to at most 4 decimal digits.<br/>
-</p>
-Due to certain quirks within the game's generation, the probability of some of this beequip's stats are randomized between the 2 given values.</center>
-</td></tr>
-<tr>
-<th rowspan="2">Stat <br/><span style="border-bottom:1px dotted;" title="Stats that can only be upgraded with points from a Caustic Wax. Note that this does not apply to the beequip's base stats.">Caustic Req.</span> 
-</th>
-<th colspan="2"><span style="border-bottom:1px dotted;" title="Stats the beequip can have without using any waxes.">Base</span> 
-</th>
-<th colspan="3"><span style="border-bottom:1px dotted;" title="Stats the beequip can get from using waxes.">Upgrades</span> 
-</th></tr>
-<tr>
-<th><span style="border-bottom:1px dotted;" title="Probabiity of the beequip having the stat without using any waxes. Note that multiple of these stats can be picked.">Chance</span> 
-</th>
-<th><span style="border-bottom:1px dotted;" title="The range of the strength of the stat without using any waxes.">Value</span> 
-</th>
-<th><span style="border-bottom:1px dotted;" title="Probability for the stat to be upgraded from a wax point. Note that a wax point can only pick 1 of the listed stats.">Chance</span> 
-</th>
-<th><span style="border-bottom:1px dotted;" title="The range of how much a wax point can upgrade the stat.">Value</span> 
-</th>
-<th><span style="border-bottom:1px dotted;" title="Limit of how many wax points can upgrade the stat.">Limit</span>
-</th></tr>
-<tr>
-<td>+<a href="stats.html#Production_Amount">Convert Amount</a>%
-</td>
-<td><b>100%</b>
-</td>
-<td>A random value between <b>+20%</b>-<b>+30%</b><br/>Intervals of +1%<br/>Biased to values near +24%<br/>Average value: +24.5%
-</td>
-<td><b>82.3723%</b>
-</td>
-<td>A random value between <b>+1%</b>-<b>+2%</b><br/>Intervals of +1%<br/>Biased to values near +1.4%<br/>Average value: +1.32%
-</td>
-<td><b>20</b>
-</td></tr>
-<tr>
-<td>+<a href="system-page.html#Ability_Rate">Ability Rate</a>%
-</td>
-<td>A random value between <b>10%</b>-<b>25%</b><br/>Biased to values near 16%<br/>Average value: 16.75%
-</td>
-<td><b>+1%</b>
-</td>
-<td><b>3.7891%</b>
-</td>
-<td><b>+1%</b>
-</td>
-<td><b>1</b>
-</td></tr>
-<tr>
-<th colspan="7">Hive Bonus
-</th></tr>
-<tr>
-<td>+<a href="system-page.html#Capacity_Multiplier">Pine Tree Forest Capacity</a>%
-</td>
-<td><b>100%</b>
-</td>
-<td>A random value between <b>+8%</b>-<b>+15%</b><br/>Intervals of +1%<br/>Biased to values near +10.8%<br/>Average value: +11.17%
-</td>
-<td><b>9.061%</b>
-</td>
-<td><b>+1%</b>
-</td>
-<td><b>10</b>
-</td></tr>
-<tr>
-<td>+<a href="system-page.html#Pollen">Pine Tree Forest Pollen</a>%
-</td>
-<td><b>100%</b>
-</td>
-<td>A random value between <b>+5%</b>-<b>+10%</b><br/>Intervals of +1%<br/>Biased to values near +7%<br/>Average value: +7.25%
-</td>
-<td><b>4.7776%</b>
-</td>
-<td><b>+1%</b>
-</td>
-<td><b>10</b>
-</td></tr></tbody></table>
-
-### Caustic
-
-<table class="wikitable" style="border:2px solid">
-<tbody><tr>
-<td colspan="6"><center>
-<p>All results are rounded to at most 4 decimal digits.<br/>
-</p>
-Due to certain quirks within the game's generation, the probability of some of this beequip's stats are randomized between the 2 given values.</center>
-</td></tr>
-<tr>
-<th rowspan="2">Stat <br/><span style="border-bottom:1px dotted;" title="Stats that can only be upgraded with points from a Caustic Wax. Note that this does not apply to the beequip's base stats.">Caustic Req.</span> 
-</th>
-<th colspan="2"><span style="border-bottom:1px dotted;" title="Stats the beequip can have without using any waxes.">Base</span> 
-</th>
-<th colspan="3"><span style="border-bottom:1px dotted;" title="Stats the beequip can get from using waxes.">Upgrades</span> 
-</th></tr>
-<tr>
-<th><span style="border-bottom:1px dotted;" title="Probabiity of the beequip having the stat without using any waxes. Note that multiple of these stats can be picked.">Chance</span> 
-</th>
-<th><span style="border-bottom:1px dotted;" title="The range of the strength of the stat without using any waxes.">Value</span> 
-</th>
-<th><span style="border-bottom:1px dotted;" title="Probability for the stat to be upgraded from a wax point. Note that a wax point can only pick 1 of the listed stats.">Chance</span> 
-</th>
-<th><span style="border-bottom:1px dotted;" title="The range of how much a wax point can upgrade the stat.">Value</span> 
-</th>
-<th><span style="border-bottom:1px dotted;" title="Limit of how many wax points can upgrade the stat.">Limit</span>
-</th></tr>
-<tr>
-<td>+<a href="stats.html#Production_Amount">Convert Amount</a>%
-</td>
-<td><b>100%</b>
-</td>
-<td>A random value between <b>+20%</b>-<b>+30%</b><br/>Intervals of +1%<br/>Biased to values near +24%<br/>Average value: +24.5%
-</td>
-<td><b>82.3723%</b>
-</td>
-<td>A random value between <b>+1%</b>-<b>+2%</b><br/>Intervals of +1%<br/>Biased to values near +1.4%<br/>Average value: +1.32%
-</td>
-<td><b>20</b>
-</td></tr>
-<tr>
-<td>+<a href="system-page.html#Ability_Rate">Ability Rate</a>%
-</td>
-<td>A random value between <b>10%</b>-<b>25%</b><br/>Biased to values near 16%<br/>Average value: 16.75%
-</td>
-<td><b>+1%</b>
-</td>
-<td><b>3.7891%</b>
-</td>
-<td><b>+1%</b>
-</td>
-<td><b>1</b>
-</td></tr>
-<tr>
-<th colspan="7">Hive Bonus
-</th></tr>
-<tr>
-<td>+<a href="system-page.html#Capacity_Multiplier">Pine Tree Forest Capacity</a>%
-</td>
-<td><b>100%</b>
-</td>
-<td>A random value between <b>+8%</b>-<b>+15%</b><br/>Intervals of +1%<br/>Biased to values near +10.8%<br/>Average value: +11.17%
-</td>
-<td><b>9.061%</b>
-</td>
-<td><b>+1%</b>
-</td>
-<td><b>10</b>
-</td></tr>
-<tr>
-<td>+<a href="system-page.html#Pollen">Pine Tree Forest Pollen</a>%
-</td>
-<td><b>100%</b>
-</td>
-<td>A random value between <b>+5%</b>-<b>+10%</b><br/>Intervals of +1%<br/>Biased to values near +7%<br/>Average value: +7.25%
-</td>
-<td><b>4.7776%</b>
-</td>
-<td><b>+1%</b>
-</td>
-<td><b>10</b>
-</td></tr></tbody></table>
-
-### 2.5 ★
-
-### Non-Caustic
-
-<table class="wikitable" style="border:2px solid">
-<tbody><tr>
-<td colspan="6"><center>
-<p>All results are rounded to at most 4 decimal digits.<br/>
-</p>
-Due to certain quirks within the game's generation, the probability of some of this beequip's stats are randomized between the 2 given values.</center>
-</td></tr>
-<tr>
-<th rowspan="2">Stat <br/><span style="border-bottom:1px dotted;" title="Stats that can only be upgraded with points from a Caustic Wax. Note that this does not apply to the beequip's base stats.">Caustic Req.</span> 
-</th>
-<th colspan="2"><span style="border-bottom:1px dotted;" title="Stats the beequip can have without using any waxes.">Base</span> 
-</th>
-<th colspan="3"><span style="border-bottom:1px dotted;" title="Stats the beequip can get from using waxes.">Upgrades</span> 
-</th></tr>
-<tr>
-<th><span style="border-bottom:1px dotted;" title="Probabiity of the beequip having the stat without using any waxes. Note that multiple of these stats can be picked.">Chance</span> 
-</th>
-<th><span style="border-bottom:1px dotted;" title="The range of the strength of the stat without using any waxes.">Value</span> 
-</th>
-<th><span style="border-bottom:1px dotted;" title="Probability for the stat to be upgraded from a wax point. Note that a wax point can only pick 1 of the listed stats.">Chance</span> 
-</th>
-<th><span style="border-bottom:1px dotted;" title="The range of how much a wax point can upgrade the stat.">Value</span> 
-</th>
-<th><span style="border-bottom:1px dotted;" title="Limit of how many wax points can upgrade the stat.">Limit</span>
-</th></tr>
-<tr>
-<td>+<a href="stats.html#Production_Amount">Convert Amount</a>%
-</td>
-<td><b>100%</b>
-</td>
-<td>A random value between <b>+20%</b>-<b>+30%</b><br/>Intervals of +1%<br/>Biased to values near +25%<br/>Average value: +25%
-</td>
-<td><b>80.3213%</b>
-</td>
-<td>A random value between <b>+1%</b>-<b>+2%</b><br/>Intervals of +1%<br/>Biased to values near +1.5%<br/>Average value: +1.5%
-</td>
-<td><b>20</b>
-</td></tr>
-<tr>
-<td>+<a href="system-page.html#Ability_Rate">Ability Rate</a>%
-</td>
-<td>A random value between <b>10%</b>-<b>25%</b><br/>Biased to values near 17.5%<br/>Average value: 17.5%
-</td>
-<td><b>+1%</b>
-</td>
-<td><b>4.4177%</b>
-</td>
-<td><b>+1%</b>
-</td>
-<td><b>1</b>
-</td></tr>
-<tr>
-<th colspan="7">Hive Bonus
-</th></tr>
-<tr>
-<td>+<a href="system-page.html#Capacity_Multiplier">Pine Tree Forest Capacity</a>%
-</td>
-<td><b>100%</b>
-</td>
-<td>A random value between <b>+8%</b>-<b>+15%</b><br/>Intervals of +1%<br/>Biased to values near +11.5%<br/>Average value: +11.5%
-</td>
-<td><b>10.0402%</b>
-</td>
-<td><b>+1%</b>
-</td>
-<td><b>10</b>
-</td></tr>
-<tr>
-<td>+<a href="system-page.html#Pollen">Pine Tree Forest Pollen</a>%
-</td>
-<td><b>100%</b>
-</td>
-<td>A random value between <b>+5%</b>-<b>+10%</b><br/>Intervals of +1%<br/>Biased to values near +7.5%<br/>Average value: +7.5%
-</td>
-<td><b>5.2209%</b>
-</td>
-<td><b>+1%</b>
-</td>
-<td><b>10</b>
-</td></tr></tbody></table>
-
-### Caustic
-
-<table class="wikitable" style="border:2px solid">
-<tbody><tr>
-<td colspan="6"><center>
-<p>All results are rounded to at most 4 decimal digits.<br/>
-</p>
-Due to certain quirks within the game's generation, the probability of some of this beequip's stats are randomized between the 2 given values.</center>
-</td></tr>
-<tr>
-<th rowspan="2">Stat <br/><span style="border-bottom:1px dotted;" title="Stats that can only be upgraded with points from a Caustic Wax. Note that this does not apply to the beequip's base stats.">Caustic Req.</span> 
-</th>
-<th colspan="2"><span style="border-bottom:1px dotted;" title="Stats the beequip can have without using any waxes.">Base</span> 
-</th>
-<th colspan="3"><span style="border-bottom:1px dotted;" title="Stats the beequip can get from using waxes.">Upgrades</span> 
-</th></tr>
-<tr>
-<th><span style="border-bottom:1px dotted;" title="Probabiity of the beequip having the stat without using any waxes. Note that multiple of these stats can be picked.">Chance</span> 
-</th>
-<th><span style="border-bottom:1px dotted;" title="The range of the strength of the stat without using any waxes.">Value</span> 
-</th>
-<th><span style="border-bottom:1px dotted;" title="Probability for the stat to be upgraded from a wax point. Note that a wax point can only pick 1 of the listed stats.">Chance</span> 
-</th>
-<th><span style="border-bottom:1px dotted;" title="The range of how much a wax point can upgrade the stat.">Value</span> 
-</th>
-<th><span style="border-bottom:1px dotted;" title="Limit of how many wax points can upgrade the stat.">Limit</span>
-</th></tr>
-<tr>
-<td>+<a href="stats.html#Production_Amount">Convert Amount</a>%
-</td>
-<td><b>100%</b>
-</td>
-<td>A random value between <b>+20%</b>-<b>+30%</b><br/>Intervals of +1%<br/>Biased to values near +25%<br/>Average value: +25%
-</td>
-<td><b>80.3213%</b>
-</td>
-<td>A random value between <b>+1%</b>-<b>+2%</b><br/>Intervals of +1%<br/>Biased to values near +1.5%<br/>Average value: +1.5%
-</td>
-<td><b>20</b>
-</td></tr>
-<tr>
-<td>+<a href="system-page.html#Ability_Rate">Ability Rate</a>%
-</td>
-<td>A random value between <b>10%</b>-<b>25%</b><br/>Biased to values near 17.5%<br/>Average value: 17.5%
-</td>
-<td><b>+1%</b>
-</td>
-<td><b>4.4177%</b>
-</td>
-<td><b>+1%</b>
-</td>
-<td><b>1</b>
-</td></tr>
-<tr>
-<th colspan="7">Hive Bonus
-</th></tr>
-<tr>
-<td>+<a href="system-page.html#Capacity_Multiplier">Pine Tree Forest Capacity</a>%
-</td>
-<td><b>100%</b>
-</td>
-<td>A random value between <b>+8%</b>-<b>+15%</b><br/>Intervals of +1%<br/>Biased to values near +11.5%<br/>Average value: +11.5%
-</td>
-<td><b>10.0402%</b>
-</td>
-<td><b>+1%</b>
-</td>
-<td><b>10</b>
-</td></tr>
-<tr>
-<td>+<a href="system-page.html#Pollen">Pine Tree Forest Pollen</a>%
-</td>
-<td><b>100%</b>
-</td>
-<td>A random value between <b>+5%</b>-<b>+10%</b><br/>Intervals of +1%<br/>Biased to values near +7.5%<br/>Average value: +7.5%
-</td>
-<td><b>5.2209%</b>
-</td>
-<td><b>+1%</b>
-</td>
-<td><b>10</b>
-</td></tr></tbody></table>
-
-### 3 ★
-
-### Non-Caustic
-
-<table class="wikitable" style="border:2px solid">
-<tbody><tr>
-<td colspan="6"><center>
-<p>All results are rounded to at most 4 decimal digits.<br/>
-</p>
-Due to certain quirks within the game's generation, the probability of some of this beequip's stats are randomized between the 2 given values.</center>
-</td></tr>
-<tr>
-<th rowspan="2">Stat <br/><span style="border-bottom:1px dotted;" title="Stats that can only be upgraded with points from a Caustic Wax. Note that this does not apply to the beequip's base stats.">Caustic Req.</span> 
-</th>
-<th colspan="2"><span style="border-bottom:1px dotted;" title="Stats the beequip can have without using any waxes.">Base</span> 
-</th>
-<th colspan="3"><span style="border-bottom:1px dotted;" title="Stats the beequip can get from using waxes.">Upgrades</span> 
-</th></tr>
-<tr>
-<th><span style="border-bottom:1px dotted;" title="Probabiity of the beequip having the stat without using any waxes. Note that multiple of these stats can be picked.">Chance</span> 
-</th>
-<th><span style="border-bottom:1px dotted;" title="The range of the strength of the stat without using any waxes.">Value</span> 
-</th>
-<th><span style="border-bottom:1px dotted;" title="Probability for the stat to be upgraded from a wax point. Note that a wax point can only pick 1 of the listed stats.">Chance</span> 
-</th>
-<th><span style="border-bottom:1px dotted;" title="The range of how much a wax point can upgrade the stat.">Value</span> 
-</th>
-<th><span style="border-bottom:1px dotted;" title="Limit of how many wax points can upgrade the stat.">Limit</span>
-</th></tr>
-<tr>
-<td>+<a href="stats.html#Production_Amount">Convert Amount</a>%
-</td>
-<td><b>100%</b>
-</td>
-<td>A random value between <b>+20%</b>-<b>+30%</b><br/>Intervals of +1%<br/>Biased to values near +26%<br/>Average value: +25.5%
-</td>
-<td><b>78.3699%</b>
-</td>
-<td>A random value between <b>+1%</b>-<b>+2%</b><br/>Intervals of +1%<br/>Biased to values near +1.6%<br/>Average value: +1.68%
-</td>
-<td><b>20</b>
-</td></tr>
-<tr>
-<td>+<a href="system-page.html#Ability_Rate">Ability Rate</a>%
-</td>
-<td>A random value between <b>10%</b>-<b>25%</b><br/>Biased to values near 19%<br/>Average value: 18.25%
-</td>
-<td><b>+1%</b>
-</td>
-<td><b>5.0157%</b>
-</td>
-<td><b>+1%</b>
-</td>
-<td><b>1</b>
-</td></tr>
-<tr>
-<th colspan="7">Hive Bonus
-</th></tr>
-<tr>
-<td>+<a href="system-page.html#Capacity_Multiplier">Pine Tree Forest Capacity</a>%
-</td>
-<td><b>100%</b>
-</td>
-<td>A random value between <b>+8%</b>-<b>+15%</b><br/>Intervals of +1%<br/>Biased to values near +12.2%<br/>Average value: +11.83%
-</td>
-<td><b>10.9718%</b>
-</td>
-<td><b>+1%</b>
-</td>
-<td><b>10</b>
-</td></tr>
-<tr>
-<td>+<a href="system-page.html#Pollen">Pine Tree Forest Pollen</a>%
-</td>
-<td><b>100%</b>
-</td>
-<td>A random value between <b>+5%</b>-<b>+10%</b><br/>Intervals of +1%<br/>Biased to values near +8%<br/>Average value: +7.75%
-</td>
-<td><b>5.6426%</b>
-</td>
-<td><b>+1%</b>
-</td>
-<td><b>10</b>
-</td></tr></tbody></table>
-
-### Caustic
-
-<table class="wikitable" style="border:2px solid">
-<tbody><tr>
-<td colspan="6"><center>
-<p>All results are rounded to at most 4 decimal digits.<br/>
-</p>
-Due to certain quirks within the game's generation, the probability of some of this beequip's stats are randomized between the 2 given values.</center>
-</td></tr>
-<tr>
-<th rowspan="2">Stat <br/><span style="border-bottom:1px dotted;" title="Stats that can only be upgraded with points from a Caustic Wax. Note that this does not apply to the beequip's base stats.">Caustic Req.</span> 
-</th>
-<th colspan="2"><span style="border-bottom:1px dotted;" title="Stats the beequip can have without using any waxes.">Base</span> 
-</th>
-<th colspan="3"><span style="border-bottom:1px dotted;" title="Stats the beequip can get from using waxes.">Upgrades</span> 
-</th></tr>
-<tr>
-<th><span style="border-bottom:1px dotted;" title="Probabiity of the beequip having the stat without using any waxes. Note that multiple of these stats can be picked.">Chance</span> 
-</th>
-<th><span style="border-bottom:1px dotted;" title="The range of the strength of the stat without using any waxes.">Value</span> 
-</th>
-<th><span style="border-bottom:1px dotted;" title="Probability for the stat to be upgraded from a wax point. Note that a wax point can only pick 1 of the listed stats.">Chance</span> 
-</th>
-<th><span style="border-bottom:1px dotted;" title="The range of how much a wax point can upgrade the stat.">Value</span> 
-</th>
-<th><span style="border-bottom:1px dotted;" title="Limit of how many wax points can upgrade the stat.">Limit</span>
-</th></tr>
-<tr>
-<td>+<a href="stats.html#Production_Amount">Convert Amount</a>%
-</td>
-<td><b>100%</b>
-</td>
-<td>A random value between <b>+20%</b>-<b>+30%</b><br/>Intervals of +1%<br/>Biased to values near +26%<br/>Average value: +25.5%
-</td>
-<td><b>78.3699%</b>
-</td>
-<td>A random value between <b>+1%</b>-<b>+2%</b><br/>Intervals of +1%<br/>Biased to values near +1.6%<br/>Average value: +1.68%
-</td>
-<td><b>20</b>
-</td></tr>
-<tr>
-<td>+<a href="system-page.html#Ability_Rate">Ability Rate</a>%
-</td>
-<td>A random value between <b>10%</b>-<b>25%</b><br/>Biased to values near 19%<br/>Average value: 18.25%
-</td>
-<td><b>+1%</b>
-</td>
-<td><b>5.0157%</b>
-</td>
-<td><b>+1%</b>
-</td>
-<td><b>1</b>
-</td></tr>
-<tr>
-<th colspan="7">Hive Bonus
-</th></tr>
-<tr>
-<td>+<a href="system-page.html#Capacity_Multiplier">Pine Tree Forest Capacity</a>%
-</td>
-<td><b>100%</b>
-</td>
-<td>A random value between <b>+8%</b>-<b>+15%</b><br/>Intervals of +1%<br/>Biased to values near +12.2%<br/>Average value: +11.83%
-</td>
-<td><b>10.9718%</b>
-</td>
-<td><b>+1%</b>
-</td>
-<td><b>10</b>
-</td></tr>
-<tr>
-<td>+<a href="system-page.html#Pollen">Pine Tree Forest Pollen</a>%
-</td>
-<td><b>100%</b>
-</td>
-<td>A random value between <b>+5%</b>-<b>+10%</b><br/>Intervals of +1%<br/>Biased to values near +8%<br/>Average value: +7.75%
-</td>
-<td><b>5.6426%</b>
-</td>
-<td><b>+1%</b>
-</td>
-<td><b>10</b>
-</td></tr></tbody></table>
-
-### 3.5 ★
-
-### Non-Caustic
-
-<table class="wikitable" style="border:2px solid">
-<tbody><tr>
-<td colspan="6"><center>
-<p>All results are rounded to at most 4 decimal digits.<br/>
-</p>
-Due to certain quirks within the game's generation, the probability of some of this beequip's stats are randomized between the 2 given values.</center>
-</td></tr>
-<tr>
-<th rowspan="2">Stat <br/><span style="border-bottom:1px dotted;" title="Stats that can only be upgraded with points from a Caustic Wax. Note that this does not apply to the beequip's base stats.">Caustic Req.</span> 
-</th>
-<th colspan="2"><span style="border-bottom:1px dotted;" title="Stats the beequip can have without using any waxes.">Base</span> 
-</th>
-<th colspan="3"><span style="border-bottom:1px dotted;" title="Stats the beequip can get from using waxes.">Upgrades</span> 
-</th></tr>
-<tr>
-<th><span style="border-bottom:1px dotted;" title="Probabiity of the beequip having the stat without using any waxes. Note that multiple of these stats can be picked.">Chance</span> 
-</th>
-<th><span style="border-bottom:1px dotted;" title="The range of the strength of the stat without using any waxes.">Value</span> 
-</th>
-<th><span style="border-bottom:1px dotted;" title="Probability for the stat to be upgraded from a wax point. Note that a wax point can only pick 1 of the listed stats.">Chance</span> 
-</th>
-<th><span style="border-bottom:1px dotted;" title="The range of how much a wax point can upgrade the stat.">Value</span> 
-</th>
-<th><span style="border-bottom:1px dotted;" title="Limit of how many wax points can upgrade the stat.">Limit</span>
-</th></tr>
-<tr>
-<td>+<a href="stats.html#Production_Amount">Convert Amount</a>%
-</td>
-<td><b>100%</b>
-</td>
-<td>A random value between <b>+20%</b>-<b>+30%</b><br/>Intervals of +1%<br/>Biased to values near +27%<br/>Average value: +26%
-</td>
-<td><b>76.5111%</b>
-</td>
-<td>A random value between <b>+1%</b>-<b>+2%</b><br/>Intervals of +1%<br/>Biased to values near +1.7%<br/>Average value: +1.75%
-</td>
-<td><b>20</b>
-</td></tr>
-<tr>
-<td>+<a href="system-page.html#Ability_Rate">Ability Rate</a>%
-</td>
-<td>A random value between <b>10%</b>-<b>25%</b><br/>Biased to values near 20.5%<br/>Average value: 19%
-</td>
-<td><b>+1%</b>
-</td>
-<td><b>5.5853%</b>
-</td>
-<td><b>+1%</b>
-</td>
-<td><b>1</b>
-</td></tr>
-<tr>
-<th colspan="7">Hive Bonus
-</th></tr>
-<tr>
-<td>+<a href="system-page.html#Capacity_Multiplier">Pine Tree Forest Capacity</a>%
-</td>
-<td><b>100%</b>
-</td>
-<td>A random value between <b>+8%</b>-<b>+15%</b><br/>Intervals of +1%<br/>Biased to values near +12.9%<br/>Average value: +12.21%
-</td>
-<td><b>11.8592%</b>
-</td>
-<td><b>+1%</b>
-</td>
-<td><b>10</b>
-</td></tr>
-<tr>
-<td>+<a href="system-page.html#Pollen">Pine Tree Forest Pollen</a>%
-</td>
-<td><b>100%</b>
-</td>
-<td>A random value between <b>+5%</b>-<b>+10%</b><br/>Intervals of +1%<br/>Biased to values near +8.5%<br/>Average value: +7.99%
-</td>
-<td><b>6.0444%</b>
-</td>
-<td><b>+1%</b>
-</td>
-<td><b>10</b>
-</td></tr></tbody></table>
-
-### Caustic
-
-<table class="wikitable" style="border:2px solid">
-<tbody><tr>
-<td colspan="6"><center>
-<p>All results are rounded to at most 4 decimal digits.<br/>
-</p>
-Due to certain quirks within the game's generation, the probability of some of this beequip's stats are randomized between the 2 given values.</center>
-</td></tr>
-<tr>
-<th rowspan="2">Stat <br/><span style="border-bottom:1px dotted;" title="Stats that can only be upgraded with points from a Caustic Wax. Note that this does not apply to the beequip's base stats.">Caustic Req.</span> 
-</th>
-<th colspan="2"><span style="border-bottom:1px dotted;" title="Stats the beequip can have without using any waxes.">Base</span> 
-</th>
-<th colspan="3"><span style="border-bottom:1px dotted;" title="Stats the beequip can get from using waxes.">Upgrades</span> 
-</th></tr>
-<tr>
-<th><span style="border-bottom:1px dotted;" title="Probabiity of the beequip having the stat without using any waxes. Note that multiple of these stats can be picked.">Chance</span> 
-</th>
-<th><span style="border-bottom:1px dotted;" title="The range of the strength of the stat without using any waxes.">Value</span> 
-</th>
-<th><span style="border-bottom:1px dotted;" title="Probability for the stat to be upgraded from a wax point. Note that a wax point can only pick 1 of the listed stats.">Chance</span> 
-</th>
-<th><span style="border-bottom:1px dotted;" title="The range of how much a wax point can upgrade the stat.">Value</span> 
-</th>
-<th><span style="border-bottom:1px dotted;" title="Limit of how many wax points can upgrade the stat.">Limit</span>
-</th></tr>
-<tr>
-<td>+<a href="stats.html#Production_Amount">Convert Amount</a>%
-</td>
-<td><b>100%</b>
-</td>
-<td>A random value between <b>+20%</b>-<b>+30%</b><br/>Intervals of +1%<br/>Biased to values near +27%<br/>Average value: +26%
-</td>
-<td><b>76.5111%</b>
-</td>
-<td>A random value between <b>+1%</b>-<b>+2%</b><br/>Intervals of +1%<br/>Biased to values near +1.7%<br/>Average value: +1.75%
-</td>
-<td><b>20</b>
-</td></tr>
-<tr>
-<td>+<a href="system-page.html#Ability_Rate">Ability Rate</a>%
-</td>
-<td>A random value between <b>10%</b>-<b>25%</b><br/>Biased to values near 20.5%<br/>Average value: 19%
-</td>
-<td><b>+1%</b>
-</td>
-<td><b>5.5853%</b>
-</td>
-<td><b>+1%</b>
-</td>
-<td><b>1</b>
-</td></tr>
-<tr>
-<th colspan="7">Hive Bonus
-</th></tr>
-<tr>
-<td>+<a href="system-page.html#Capacity_Multiplier">Pine Tree Forest Capacity</a>%
-</td>
-<td><b>100%</b>
-</td>
-<td>A random value between <b>+8%</b>-<b>+15%</b><br/>Intervals of +1%<br/>Biased to values near +12.9%<br/>Average value: +12.21%
-</td>
-<td><b>11.8592%</b>
-</td>
-<td><b>+1%</b>
-</td>
-<td><b>10</b>
-</td></tr>
-<tr>
-<td>+<a href="system-page.html#Pollen">Pine Tree Forest Pollen</a>%
-</td>
-<td><b>100%</b>
-</td>
-<td>A random value between <b>+5%</b>-<b>+10%</b><br/>Intervals of +1%<br/>Biased to values near +8.5%<br/>Average value: +7.99%
-</td>
-<td><b>6.0444%</b>
-</td>
-<td><b>+1%</b>
-</td>
-<td><b>10</b>
-</td></tr></tbody></table>
-
-### 4 ★
-
-### Non-Caustic
-
-<table class="wikitable" style="border:2px solid">
-<tbody><tr>
-<td colspan="6"><center>
-<p>All results are rounded to at most 4 decimal digits.<br/>
-</p>
-Due to certain quirks within the game's generation, the probability of some of this beequip's stats are randomized between the 2 given values.</center>
-</td></tr>
-<tr>
-<th rowspan="2">Stat <br/><span style="border-bottom:1px dotted;" title="Stats that can only be upgraded with points from a Caustic Wax. Note that this does not apply to the beequip's base stats.">Caustic Req.</span> 
-</th>
-<th colspan="2"><span style="border-bottom:1px dotted;" title="Stats the beequip can have without using any waxes.">Base</span> 
-</th>
-<th colspan="3"><span style="border-bottom:1px dotted;" title="Stats the beequip can get from using waxes.">Upgrades</span> 
-</th></tr>
-<tr>
-<th><span style="border-bottom:1px dotted;" title="Probabiity of the beequip having the stat without using any waxes. Note that multiple of these stats can be picked.">Chance</span> 
-</th>
-<th><span style="border-bottom:1px dotted;" title="The range of the strength of the stat without using any waxes.">Value</span> 
-</th>
-<th><span style="border-bottom:1px dotted;" title="Probability for the stat to be upgraded from a wax point. Note that a wax point can only pick 1 of the listed stats.">Chance</span> 
-</th>
-<th><span style="border-bottom:1px dotted;" title="The range of how much a wax point can upgrade the stat.">Value</span> 
-</th>
-<th><span style="border-bottom:1px dotted;" title="Limit of how many wax points can upgrade the stat.">Limit</span>
-</th></tr>
-<tr>
-<td>+<a href="stats.html#Production_Amount">Convert Amount</a>%
-</td>
-<td><b>100%</b>
-</td>
-<td>A random value between <b>+20%</b>-<b>+30%</b><br/>Intervals of +1%<br/>Biased to values near +28%<br/>Average value: +26.51%
-</td>
-<td><b>74.7384%</b>
-</td>
-<td>A random value between <b>+1%</b>-<b>+2%</b><br/>Intervals of +1%<br/>Biased to values near +1.8%<br/>Average value: +1.79%
-</td>
-<td><b>20</b>
-</td></tr>
-<tr>
-<td>+<a href="system-page.html#Ability_Rate">Ability Rate</a>%
-</td>
-<td>A random value between <b>10%</b>-<b>25%</b><br/>Biased to values near 22%<br/>Average value: 19.75%
-</td>
-<td><b>+1%</b>
-</td>
-<td><b>6.1286%</b>
-</td>
-<td><b>+1%</b>
-</td>
-<td><b>1</b>
-</td></tr>
-<tr>
-<th colspan="7">Hive Bonus
-</th></tr>
-<tr>
-<td>+<a href="system-page.html#Capacity_Multiplier">Pine Tree Forest Capacity</a>%
-</td>
-<td><b>100%</b>
-</td>
-<td>A random value between <b>+8%</b>-<b>+15%</b><br/>Intervals of +1%<br/>Biased to values near +13.6%<br/>Average value: +12.56%
-</td>
-<td><b>12.7055%</b>
-</td>
-<td><b>+1%</b>
-</td>
-<td><b>10</b>
-</td></tr>
-<tr>
-<td>+<a href="system-page.html#Pollen">Pine Tree Forest Pollen</a>%
-</td>
-<td><b>100%</b>
-</td>
-<td>A random value between <b>+5%</b>-<b>+10%</b><br/>Intervals of +1%<br/>Biased to values near +9%<br/>Average value: +8.26%
-</td>
-<td><b>6.4275%</b>
-</td>
-<td><b>+1%</b>
-</td>
-<td><b>10</b>
-</td></tr></tbody></table>
-
-### Caustic
-
-<table class="wikitable" style="border:2px solid">
-<tbody><tr>
-<td colspan="6"><center>
-<p>All results are rounded to at most 4 decimal digits.<br/>
-</p>
-Due to certain quirks within the game's generation, the probability of some of this beequip's stats are randomized between the 2 given values.</center>
-</td></tr>
-<tr>
-<th rowspan="2">Stat <br/><span style="border-bottom:1px dotted;" title="Stats that can only be upgraded with points from a Caustic Wax. Note that this does not apply to the beequip's base stats.">Caustic Req.</span> 
-</th>
-<th colspan="2"><span style="border-bottom:1px dotted;" title="Stats the beequip can have without using any waxes.">Base</span> 
-</th>
-<th colspan="3"><span style="border-bottom:1px dotted;" title="Stats the beequip can get from using waxes.">Upgrades</span> 
-</th></tr>
-<tr>
-<th><span style="border-bottom:1px dotted;" title="Probabiity of the beequip having the stat without using any waxes. Note that multiple of these stats can be picked.">Chance</span> 
-</th>
-<th><span style="border-bottom:1px dotted;" title="The range of the strength of the stat without using any waxes.">Value</span> 
-</th>
-<th><span style="border-bottom:1px dotted;" title="Probability for the stat to be upgraded from a wax point. Note that a wax point can only pick 1 of the listed stats.">Chance</span> 
-</th>
-<th><span style="border-bottom:1px dotted;" title="The range of how much a wax point can upgrade the stat.">Value</span> 
-</th>
-<th><span style="border-bottom:1px dotted;" title="Limit of how many wax points can upgrade the stat.">Limit</span>
-</th></tr>
-<tr>
-<td>+<a href="stats.html#Production_Amount">Convert Amount</a>%
-</td>
-<td><b>100%</b>
-</td>
-<td>A random value between <b>+20%</b>-<b>+30%</b><br/>Intervals of +1%<br/>Biased to values near +28%<br/>Average value: +26.51%
-</td>
-<td><b>74.7384%</b>
-</td>
-<td>A random value between <b>+1%</b>-<b>+2%</b><br/>Intervals of +1%<br/>Biased to values near +1.8%<br/>Average value: +1.79%
-</td>
-<td><b>20</b>
-</td></tr>
-<tr>
-<td>+<a href="system-page.html#Ability_Rate">Ability Rate</a>%
-</td>
-<td>A random value between <b>10%</b>-<b>25%</b><br/>Biased to values near 22%<br/>Average value: 19.75%
-</td>
-<td><b>+1%</b>
-</td>
-<td><b>6.1286%</b>
-</td>
-<td><b>+1%</b>
-</td>
-<td><b>1</b>
-</td></tr>
-<tr>
-<th colspan="7">Hive Bonus
-</th></tr>
-<tr>
-<td>+<a href="system-page.html#Capacity_Multiplier">Pine Tree Forest Capacity</a>%
-</td>
-<td><b>100%</b>
-</td>
-<td>A random value between <b>+8%</b>-<b>+15%</b><br/>Intervals of +1%<br/>Biased to values near +13.6%<br/>Average value: +12.56%
-</td>
-<td><b>12.7055%</b>
-</td>
-<td><b>+1%</b>
-</td>
-<td><b>10</b>
-</td></tr>
-<tr>
-<td>+<a href="system-page.html#Pollen">Pine Tree Forest Pollen</a>%
-</td>
-<td><b>100%</b>
-</td>
-<td>A random value between <b>+5%</b>-<b>+10%</b><br/>Intervals of +1%<br/>Biased to values near +9%<br/>Average value: +8.26%
-</td>
-<td><b>6.4275%</b>
-</td>
-<td><b>+1%</b>
-</td>
-<td><b>10</b>
-</td></tr></tbody></table>
-
-### 4.5 ★
-
-### Non-Caustic
-
-<table class="wikitable" style="border:2px solid">
-<tbody><tr>
-<td colspan="6"><center>
-<p>All results are rounded to at most 4 decimal digits.<br/>
-</p>
-Due to certain quirks within the game's generation, the probability of some of this beequip's stats are randomized between the 2 given values.</center>
-</td></tr>
-<tr>
-<th rowspan="2">Stat <br/><span style="border-bottom:1px dotted;" title="Stats that can only be upgraded with points from a Caustic Wax. Note that this does not apply to the beequip's base stats.">Caustic Req.</span> 
-</th>
-<th colspan="2"><span style="border-bottom:1px dotted;" title="Stats the beequip can have without using any waxes.">Base</span> 
-</th>
-<th colspan="3"><span style="border-bottom:1px dotted;" title="Stats the beequip can get from using waxes.">Upgrades</span> 
-</th></tr>
-<tr>
-<th><span style="border-bottom:1px dotted;" title="Probabiity of the beequip having the stat without using any waxes. Note that multiple of these stats can be picked.">Chance</span> 
-</th>
-<th><span style="border-bottom:1px dotted;" title="The range of the strength of the stat without using any waxes.">Value</span> 
-</th>
-<th><span style="border-bottom:1px dotted;" title="Probability for the stat to be upgraded from a wax point. Note that a wax point can only pick 1 of the listed stats.">Chance</span> 
-</th>
-<th><span style="border-bottom:1px dotted;" title="The range of how much a wax point can upgrade the stat.">Value</span> 
-</th>
-<th><span style="border-bottom:1px dotted;" title="Limit of how many wax points can upgrade the stat.">Limit</span>
-</th></tr>
-<tr>
-<td>+<a href="stats.html#Production_Amount">Convert Amount</a>%
-</td>
-<td><b>100%</b>
-</td>
-<td>A random value between <b>+20%</b>-<b>+30%</b><br/>Intervals of +1%<br/>Biased to values near +29%<br/>Average value: +27.01%
-</td>
-<td><b>73.046%</b>
-</td>
-<td>A random value between <b>+1%</b>-<b>+2%</b><br/>Intervals of +1%<br/>Biased to values near +1.9%<br/>Average value: +1.82%
-</td>
-<td><b>20</b>
-</td></tr>
-<tr>
-<td>+<a href="system-page.html#Ability_Rate">Ability Rate</a>%
-</td>
-<td>A random value between <b>10%</b>-<b>25%</b><br/>Biased to values near 23.5%<br/>Average value: 20.5%
-</td>
-<td><b>+1%</b>
-</td>
-<td><b>6.6472%</b>
-</td>
-<td><b>+1%</b>
-</td>
-<td><b>1</b>
-</td></tr>
-<tr>
-<th colspan="7">Hive Bonus
-</th></tr>
-<tr>
-<td>+<a href="system-page.html#Capacity_Multiplier">Pine Tree Forest Capacity</a>%
-</td>
-<td><b>100%</b>
-</td>
-<td>A random value between <b>+8%</b>-<b>+15%</b><br/>Intervals of +1%<br/>Biased to values near +14.3%<br/>Average value: +12.88%
-</td>
-<td><b>13.5135%</b>
-</td>
-<td><b>+1%</b>
-</td>
-<td><b>10</b>
-</td></tr>
-<tr>
-<td>+<a href="system-page.html#Pollen">Pine Tree Forest Pollen</a>%
-</td>
-<td><b>100%</b>
-</td>
-<td>A random value between <b>+5%</b>-<b>+10%</b><br/>Intervals of +1%<br/>Biased to values near +9.5%<br/>Average value: +8.46%
-</td>
-<td><b>6.7933%</b>
-</td>
-<td><b>+1%</b>
-</td>
-<td><b>10</b>
-</td></tr></tbody></table>
-
-### Caustic
-
-<table class="wikitable" style="border:2px solid">
-<tbody><tr>
-<td colspan="6"><center>
-<p>All results are rounded to at most 4 decimal digits.<br/>
-</p>
-Due to certain quirks within the game's generation, the probability of some of this beequip's stats are randomized between the 2 given values.</center>
-</td></tr>
-<tr>
-<th rowspan="2">Stat <br/><span style="border-bottom:1px dotted;" title="Stats that can only be upgraded with points from a Caustic Wax. Note that this does not apply to the beequip's base stats.">Caustic Req.</span> 
-</th>
-<th colspan="2"><span style="border-bottom:1px dotted;" title="Stats the beequip can have without using any waxes.">Base</span> 
-</th>
-<th colspan="3"><span style="border-bottom:1px dotted;" title="Stats the beequip can get from using waxes.">Upgrades</span> 
-</th></tr>
-<tr>
-<th><span style="border-bottom:1px dotted;" title="Probabiity of the beequip having the stat without using any waxes. Note that multiple of these stats can be picked.">Chance</span> 
-</th>
-<th><span style="border-bottom:1px dotted;" title="The range of the strength of the stat without using any waxes.">Value</span> 
-</th>
-<th><span style="border-bottom:1px dotted;" title="Probability for the stat to be upgraded from a wax point. Note that a wax point can only pick 1 of the listed stats.">Chance</span> 
-</th>
-<th><span style="border-bottom:1px dotted;" title="The range of how much a wax point can upgrade the stat.">Value</span> 
-</th>
-<th><span style="border-bottom:1px dotted;" title="Limit of how many wax points can upgrade the stat.">Limit</span>
-</th></tr>
-<tr>
-<td>+<a href="stats.html#Production_Amount">Convert Amount</a>%
-</td>
-<td><b>100%</b>
-</td>
-<td>A random value between <b>+20%</b>-<b>+30%</b><br/>Intervals of +1%<br/>Biased to values near +29%<br/>Average value: +27.01%
-</td>
-<td><b>73.046%</b>
-</td>
-<td>A random value between <b>+1%</b>-<b>+2%</b><br/>Intervals of +1%<br/>Biased to values near +1.9%<br/>Average value: +1.82%
-</td>
-<td><b>20</b>
-</td></tr>
-<tr>
-<td>+<a href="system-page.html#Ability_Rate">Ability Rate</a>%
-</td>
-<td>A random value between <b>10%</b>-<b>25%</b><br/>Biased to values near 23.5%<br/>Average value: 20.5%
-</td>
-<td><b>+1%</b>
-</td>
-<td><b>6.6472%</b>
-</td>
-<td><b>+1%</b>
-</td>
-<td><b>1</b>
-</td></tr>
-<tr>
-<th colspan="7">Hive Bonus
-</th></tr>
-<tr>
-<td>+<a href="system-page.html#Capacity_Multiplier">Pine Tree Forest Capacity</a>%
-</td>
-<td><b>100%</b>
-</td>
-<td>A random value between <b>+8%</b>-<b>+15%</b><br/>Intervals of +1%<br/>Biased to values near +14.3%<br/>Average value: +12.88%
-</td>
-<td><b>13.5135%</b>
-</td>
-<td><b>+1%</b>
-</td>
-<td><b>10</b>
-</td></tr>
-<tr>
-<td>+<a href="system-page.html#Pollen">Pine Tree Forest Pollen</a>%
-</td>
-<td><b>100%</b>
-</td>
-<td>A random value between <b>+5%</b>-<b>+10%</b><br/>Intervals of +1%<br/>Biased to values near +9.5%<br/>Average value: +8.46%
-</td>
-<td><b>6.7933%</b>
-</td>
-<td><b>+1%</b>
-</td>
-<td><b>10</b>
-</td></tr></tbody></table>
-
-### 5 ★
-
-### Non-Caustic
-
-<table class="wikitable" style="border:2px solid">
-<tbody><tr>
-<td colspan="6"><center>
-<p>All results are rounded to at most 4 decimal digits.<br/>
-</p>
-Due to certain quirks within the game's generation, the probability of some of this beequip's stats are randomized between the 2 given values.</center>
-</td></tr>
-<tr>
-<th rowspan="2">Stat <br/><span style="border-bottom:1px dotted;" title="Stats that can only be upgraded with points from a Caustic Wax. Note that this does not apply to the beequip's base stats.">Caustic Req.</span> 
-</th>
-<th colspan="2"><span style="border-bottom:1px dotted;" title="Stats the beequip can have without using any waxes.">Base</span> 
-</th>
-<th colspan="3"><span style="border-bottom:1px dotted;" title="Stats the beequip can get from using waxes.">Upgrades</span> 
-</th></tr>
-<tr>
-<th><span style="border-bottom:1px dotted;" title="Probabiity of the beequip having the stat without using any waxes. Note that multiple of these stats can be picked.">Chance</span> 
-</th>
-<th><span style="border-bottom:1px dotted;" title="The range of the strength of the stat without using any waxes.">Value</span> 
-</th>
-<th><span style="border-bottom:1px dotted;" title="Probability for the stat to be upgraded from a wax point. Note that a wax point can only pick 1 of the listed stats.">Chance</span> 
-</th>
-<th><span style="border-bottom:1px dotted;" title="The range of how much a wax point can upgrade the stat.">Value</span> 
-</th>
-<th><span style="border-bottom:1px dotted;" title="Limit of how many wax points can upgrade the stat.">Limit</span>
-</th></tr>
-<tr>
-<td>+<a href="stats.html#Production_Amount">Convert Amount</a>%
-</td>
-<td><b>100%</b>
-</td>
-<td>A random value between <b>+20%</b>-<b>+30%</b><br/>Intervals of +1%<br/>Biased to values near +30%<br/>Average value: +27.52%
-</td>
-<td><b>71.4286%</b>
-</td>
-<td>A random value between <b>+1%</b>-<b>+2%</b><br/>Intervals of +1%<br/>Biased to values near +2%<br/>Average value: +1.85%
-</td>
-<td><b>20</b>
-</td></tr>
-<tr>
-<td>+<a href="system-page.html#Ability_Rate">Ability Rate</a>%
-</td>
-<td>A random value between <b>10%</b>-<b>25%</b><br/>Biased to values near 25%<br/>Average value: 21.25%
-</td>
-<td><b>+1%</b>
-</td>
-<td><b>7.1429%</b>
-</td>
-<td><b>+1%</b>
-</td>
-<td><b>1</b>
-</td></tr>
-<tr>
-<th colspan="7">Hive Bonus
-</th></tr>
-<tr>
-<td>+<a href="system-page.html#Capacity_Multiplier">Pine Tree Forest Capacity</a>%
-</td>
-<td><b>100%</b>
-</td>
-<td>A random value between <b>+8%</b>-<b>+15%</b><br/>Intervals of +1%<br/>Biased to values near +15%<br/>Average value: +13.28%
-</td>
-<td><b>14.2857%</b>
-</td>
-<td><b>+1%</b>
-</td>
-<td><b>10</b>
-</td></tr>
-<tr>
-<td>+<a href="system-page.html#Pollen">Pine Tree Forest Pollen</a>%
-</td>
-<td><b>100%</b>
-</td>
-<td>A random value between <b>+5%</b>-<b>+10%</b><br/>Intervals of +1%<br/>Biased to values near +10%<br/>Average value: +8.78%
-</td>
-<td><b>7.1429%</b>
-</td>
-<td><b>+1%</b>
-</td>
-<td><b>10</b>
-</td></tr></tbody></table>
-
-### Caustic
-
-<table class="wikitable" style="border:2px solid">
-<tbody><tr>
-<td colspan="6"><center>
-<p>All results are rounded to at most 4 decimal digits.<br/>
-</p>
-Due to certain quirks within the game's generation, the probability of some of this beequip's stats are randomized between the 2 given values.</center>
-</td></tr>
-<tr>
-<th rowspan="2">Stat <br/><span style="border-bottom:1px dotted;" title="Stats that can only be upgraded with points from a Caustic Wax. Note that this does not apply to the beequip's base stats.">Caustic Req.</span> 
-</th>
-<th colspan="2"><span style="border-bottom:1px dotted;" title="Stats the beequip can have without using any waxes.">Base</span> 
-</th>
-<th colspan="3"><span style="border-bottom:1px dotted;" title="Stats the beequip can get from using waxes.">Upgrades</span> 
-</th></tr>
-<tr>
-<th><span style="border-bottom:1px dotted;" title="Probabiity of the beequip having the stat without using any waxes. Note that multiple of these stats can be picked.">Chance</span> 
-</th>
-<th><span style="border-bottom:1px dotted;" title="The range of the strength of the stat without using any waxes.">Value</span> 
-</th>
-<th><span style="border-bottom:1px dotted;" title="Probability for the stat to be upgraded from a wax point. Note that a wax point can only pick 1 of the listed stats.">Chance</span> 
-</th>
-<th><span style="border-bottom:1px dotted;" title="The range of how much a wax point can upgrade the stat.">Value</span> 
-</th>
-<th><span style="border-bottom:1px dotted;" title="Limit of how many wax points can upgrade the stat.">Limit</span>
-</th></tr>
-<tr>
-<td>+<a href="stats.html#Production_Amount">Convert Amount</a>%
-</td>
-<td><b>100%</b>
-</td>
-<td>A random value between <b>+20%</b>-<b>+30%</b><br/>Intervals of +1%<br/>Biased to values near +30%<br/>Average value: +27.52%
-</td>
-<td><b>71.4286%</b>
-</td>
-<td>A random value between <b>+1%</b>-<b>+2%</b><br/>Intervals of +1%<br/>Biased to values near +2%<br/>Average value: +1.85%
-</td>
-<td><b>20</b>
-</td></tr>
-<tr>
-<td>+<a href="system-page.html#Ability_Rate">Ability Rate</a>%
-</td>
-<td>A random value between <b>10%</b>-<b>25%</b><br/>Biased to values near 25%<br/>Average value: 21.25%
-</td>
-<td><b>+1%</b>
-</td>
-<td><b>7.1429%</b>
-</td>
-<td><b>+1%</b>
-</td>
-<td><b>1</b>
-</td></tr>
-<tr>
-<th colspan="7">Hive Bonus
-</th></tr>
-<tr>
-<td>+<a href="system-page.html#Capacity_Multiplier">Pine Tree Forest Capacity</a>%
-</td>
-<td><b>100%</b>
-</td>
-<td>A random value between <b>+8%</b>-<b>+15%</b><br/>Intervals of +1%<br/>Biased to values near +15%<br/>Average value: +13.28%
-</td>
-<td><b>14.2857%</b>
-</td>
-<td><b>+1%</b>
-</td>
-<td><b>10</b>
-</td></tr>
-<tr>
-<td>+<a href="system-page.html#Pollen">Pine Tree Forest Pollen</a>%
-</td>
-<td><b>100%</b>
-</td>
-<td>A random value between <b>+5%</b>-<b>+10%</b><br/>Intervals of +1%<br/>Biased to values near +10%<br/>Average value: +8.78%
-</td>
-<td><b>7.1429%</b>
-</td>
-<td><b>+1%</b>
-</td>
-<td><b>10</b>
-</td></tr></tbody></table>
-
-## Probabilities
-
-The tables below give the probability of a stat of Pinecone falling within a given range, and being upgraded within a given range by a wax point. Note that only stats that have a range of base/upgrade stats are shown.
-
-For smaller ranges, see [the linked subpage](pinecone-probability.md).
-
-*Results are rounded to the 3rd-5th decimal digits. Note that the precise percentages may be off due to floating point errors.*  
-Show/hide tables
-
-### Base
-
-### Bee Stats
-
-### +Convert Amount%
-
-<table class="wikitable" style="border:2px solid">
-<tbody><tr>
-<th rowspan="2">Potential
-</th>
-<th colspan="6">Stat ranges
-</th>
-<th rowspan="2">Average
-</th></tr>
-<tr>
-<th>+20%-+21%
-</th>
-<th>+22%-+23%
-</th>
-<th>+24%-+25%
-</th>
-<th>+26%-+27%
-</th>
-<th>+28%-+29%
-</th>
-<th>+30%
-</th></tr>
-<tr>
-<td><b>0 ★</b>
-</td>
-<td>43.457%
-</td>
-<td>28.287%
-</td>
-<td>16.137%
-</td>
-<td>8.695%
-</td>
-<td>3.297%
-</td>
-<td>0.127%
-</td>
-<td>+22.5%
-</td></tr>
-<tr>
-<td><b>0.5 ★</b>
-</td>
-<td>29.452%
-</td>
-<td>37.571%
-</td>
-<td>19.168%
-</td>
-<td>9.961%
-</td>
-<td>3.706%
-</td>
-<td>0.142%
-</td>
-<td>+23%
-</td></tr>
-<tr>
-<td><b>1 ★</b>
-</td>
-<td>8.069%
-</td>
-<td>52.041%
-</td>
-<td>23.824%
-</td>
-<td>11.674%
-</td>
-<td>4.232%
-</td>
-<td>0.16%
-</td>
-<td>+23.5%
-</td></tr>
-<tr>
-<td><b>1.5 ★</b>
-</td>
-<td>4.603%
-</td>
-<td>43.592%
-</td>
-<td>32.545%
-</td>
-<td>14.142%
-</td>
-<td>4.935%
-</td>
-<td>0.183%
-</td>
-<td>+24%
-</td></tr>
-<tr>
-<td><b>2 ★</b>
-</td>
-<td>3.25%
-</td>
-<td>21.353%
-</td>
-<td>51.192%
-</td>
-<td>18.07%
-</td>
-<td>5.921%
-</td>
-<td>0.214%
-</td>
-<td>+24.5%
-</td></tr>
-<tr>
-<td><b>2.5 ★</b>
-</td>
-<td>2.516%
-</td>
-<td>14.424%
-</td>
-<td>49.573%
-</td>
-<td>25.816%
-</td>
-<td>7.413%
-</td>
-<td>0.259%
-</td>
-<td>+25%
-</td></tr>
-<tr>
-<td><b>3 ★</b>
-</td>
-<td>2.054%
-</td>
-<td>11.059%
-</td>
-<td>29.462%
-</td>
-<td>47.137%
-</td>
-<td>9.961%
-</td>
-<td>0.326%
-</td>
-<td>+25.5%
-</td></tr>
-<tr>
-<td><b>3.5 ★</b>
-</td>
-<td>1.736%
-</td>
-<td>9.0038%
-</td>
-<td>21.153%
-</td>
-<td>52.065%
-</td>
-<td>15.599%
-</td>
-<td>0.442%
-</td>
-<td>+26%
-</td></tr>
-<tr>
-<td><b>4 ★</b>
-</td>
-<td>1.503%
-</td>
-<td>7.605%
-</td>
-<td>16.813%
-</td>
-<td>35.216%
-</td>
-<td>38.178%
-</td>
-<td>0.685%
-</td>
-<td>+26.5%
-</td></tr>
-<tr>
-<td><b>4.5 ★</b>
-</td>
-<td>1.326%
-</td>
-<td>6.588%
-</td>
-<td>14.03%
-</td>
-<td>26.18%
+<td>Convert Amount
 </td>
-<td>50.342%
+<td>20
 </td>
-<td>1.534%
+<td>
 </td>
-<td>+27%
-</td></tr>
-<tr>
-<td><b>5 ★</b>
-</td>
-<td>1.186%
-</td>
-<td>5.813%
-</td>
-<td>12.068%
-</td>
-<td>21.275%
-</td>
-<td>39.679%
-</td>
-<td>19.979%
-</td>
-<td>+27.5%
-</td></tr></tbody></table>
-
-### Hive Bonuses
-
-### +Pine Tree Forest Capacity%
-
-<table class="wikitable" style="border:2px solid">
-<tbody><tr>
-<th rowspan="2">Potential
-</th>
-<th colspan="8">Stat ranges
-</th>
-<th rowspan="2">Average
-</th></tr>
-<tr>
-<th>+8%
-</th>
-<th>+9%
-</th>
-<th>+10%
-</th>
-<th>+11%
-</th>
-<th>+12%
-</th>
-<th>+13%
-</th>
-<th>+14%
-</th>
-<th>+15%
-</th></tr>
-<tr>
-<td><b>0 ★</b>
-</td>
-<td>25.993%
-</td>
-<td>28.445%
-</td>
-<td>18.048%
-</td>
-<td>12.171%
-</td>
-<td>8.032%
-</td>
-<td>4.831%
-</td>
-<td>2.219%
-</td>
-<td>0.261%
-</td>
-<td>+9.7%
-</td></tr>
-<tr>
-<td><b>0.5 ★</b>
-</td>
-<td>3.564%
-</td>
-<td>41.45%
-</td>
-<td>22.915%
-</td>
-<td>14.509%
-</td>
-<td>9.293%
-</td>
-<td>5.489%
-</td>
-<td>2.49%
-</td>
-<td>0.291%
-</td>
-<td>+10.1%
-</td></tr>
-<tr>
-<td><b>1 ★</b>
-</td>
-<td>1.462%
-</td>
-<td>25.717%
-</td>
-<td>34.11%
-</td>
-<td>18.136%
-</td>
-<td>11.05%
-</td>
-<td>6.358%
-</td>
-<td>2.838%
-</td>
-<td>0.329%
-</td>
-<td>+10.4%
-</td></tr>
-<tr>
-<td><b>1.5 ★</b>
-</td>
-<td>0.927%
-</td>
-<td>9.763%
-</td>
-<td>39.341%
-</td>
-<td>25.024%
-</td>
-<td>13.702%
-</td>
-<td>7.565%
-</td>
-<td>3.3%
-</td>
-<td>0.378%
-</td>
-<td>+10.8%
-</td></tr>
-<tr>
-<td><b>2 ★</b>
-</td>
-<td>0.68%
-</td>
-<td>6.5%
-</td>
-<td>18.962%
-</td>
-<td>41.776%
-</td>
-<td>18.333%
-</td>
-<td>9.362%
-</td>
-<td>3.943%
-</td>
-<td>0.443%
-</td>
-<td>+11.2%
-</td></tr>
-<tr>
-<td><b>2.5 ★</b>
-</td>
-<td>0.536%
-</td>
-<td>4.903%
-</td>
-<td>12.378%
-</td>
-<td>32.182%
-</td>
-<td>32.182%
-</td>
-<td>12.378%
-</td>
-<td>4.903%
-</td>
-<td>0.536%
-</td>
-<td>+11.5%
-</td></tr>
-<tr>
-<td><b>3 ★</b>
-</td>
-<td>0.443%
-</td>
-<td>3.943%
-</td>
-<td>9.362%
-</td>
-<td>18.333%
-</td>
-<td>41.776%
-</td>
-<td>18.962%
-</td>
-<td>6.5%
-</td>
-<td>0.68%
-</td>
-<td>+11.8%
-</td></tr>
-<tr>
-<td><b>3.5 ★</b>
-</td>
-<td>0.378%
-</td>
-<td>3.3%
-</td>
-<td>7.565%
-</td>
-<td>13.702%
-</td>
-<td>25.024%
-</td>
-<td>39.341%
-</td>
-<td>9.763%
-</td>
-<td>0.927%
-</td>
-<td>+12.2%
-</td></tr>
-<tr>
-<td><b>4 ★</b>
-</td>
-<td>0.329%
-</td>
-<td>2.838%
-</td>
-<td>6.358%
-</td>
-<td>11.05%
-</td>
-<td>18.136%
-</td>
-<td>34.11%
-</td>
-<td>25.717%
-</td>
-<td>1.462%
-</td>
-<td>+12.6%
-</td></tr>
-<tr>
-<td><b>4.5 ★</b>
-</td>
-<td>0.291%
-</td>
-<td>2.49%
-</td>
-<td>5.489%
-</td>
-<td>9.293%
-</td>
-<td>14.509%
-</td>
-<td>22.915%
-</td>
-<td>41.45%
-</td>
-<td>3.564%
-</td>
-<td>+12.9%
-</td></tr>
-<tr>
-<td><b>5 ★</b>
-</td>
-<td>0.261%
-</td>
-<td>2.219%
-</td>
-<td>4.831%
-</td>
-<td>8.032%
-</td>
-<td>12.171%
-</td>
-<td>18.048%
-</td>
-<td>28.445%
+<td>+0.01 to +0.02
 </td>
-<td>25.993%
+<td>87%
 </td>
-<td>+13.3%
-</td></tr></tbody></table>
-
-### +Pine Tree Forest Pollen%
-
-<table class="wikitable" style="border:2px solid">
-<tbody><tr>
-<th rowspan="2">Potential
-</th>
-<th colspan="6">Stat ranges
-</th>
-<th rowspan="2">Average
-</th></tr>
-<tr>
-<th>+5%
-</th>
-<th>+6%
-</th>
-<th>+7%
-</th>
-<th>+8%
-</th>
-<th>+9%
-</th>
-<th>+10%
-</th></tr>
-<tr>
-<td><b>0 ★</b>
-</td>
-<td>33.026%
-</td>
-<td>33.093%
-</td>
-<td>18.538%
-</td>
-<td>10.31%
-</td>
-<td>4.515%
-</td>
-<td>0.518%
-</td>
-<td>+6.2%
-</td></tr>
-<tr>
-<td><b>0.5 ★</b>
-</td>
-<td>10%
-</td>
-<td>50.082%
-</td>
-<td>22.356%
-</td>
-<td>11.891%
-</td>
-<td>5.095%
-</td>
-<td>0.577%
-</td>
-<td>+6.5%
-</td></tr>
-<tr>
-<td><b>1 ★</b>
-</td>
-<td>3.069%
-</td>
-<td>47.726%
-</td>
-<td>28.63%
-</td>
-<td>14.075%
-</td>
-<td>5.847%
-</td>
-<td>0.653%
-</td>
-<td>+6.7%
-</td></tr>
-<tr>
-<td><b>1.5 ★</b>
-</td>
-<td>1.891%
-</td>
-<td>28.109%
-</td>
-<td>45.055%
-</td>
-<td>17.329%
-</td>
-<td>6.864%
-</td>
-<td>0.751%
-</td>
-<td>+7%
-</td></tr>
-<tr>
-<td><b>2 ★</b>
-</td>
-<td>1.37%
-</td>
-<td>14.768%
-</td>
-<td>51.781%
-</td>
-<td>22.877%
-</td>
-<td>8.322%
-</td>
-<td>0.884%
-</td>
-<td>+7.2%
-</td></tr>
-<tr>
-<td><b>2.5 ★</b>
-</td>
-<td>1.074%
-</td>
-<td>10.6%
-</td>
-<td>38.326%
-</td>
-<td>38.326%
-</td>
-<td>10.6%
-</td>
-<td>1.074%
-</td>
-<td>+7.5%
-</td></tr>
-<tr>
-<td><b>3 ★</b>
-</td>
-<td>0.884%
-</td>
-<td>8.322%
-</td>
-<td>22.877%
-</td>
-<td>51.781%
-</td>
-<td>14.768%
-</td>
-<td>1.37%
-</td>
-<td>+7.8%
-</td></tr>
-<tr>
-<td><b>3.5 ★</b>
-</td>
-<td>0.751%
-</td>
-<td>6.864%
-</td>
-<td>17.329%
-</td>
-<td>45.055%
-</td>
-<td>28.109%
-</td>
-<td>1.891%
-</td>
-<td>+8%
-</td></tr>
-<tr>
-<td><b>4 ★</b>
-</td>
-<td>0.653%
-</td>
-<td>5.847%
-</td>
-<td>14.075%
-</td>
-<td>28.63%
-</td>
-<td>47.726%
-</td>
-<td>3.069%
-</td>
-<td>+8.3%
-</td></tr>
-<tr>
-<td><b>4.5 ★</b>
-</td>
-<td>0.577%
-</td>
-<td>5.095%
-</td>
-<td>11.891%
-</td>
-<td>22.356%
-</td>
-<td>50.082%
-</td>
-<td>10%
-</td>
-<td>+8.5%
-</td></tr>
-<tr>
-<td><b>5 ★</b>
-</td>
-<td>0.518%
-</td>
-<td>4.515%
-</td>
-<td>10.31%
-</td>
-<td>18.538%
+<td>78%
 </td>
-<td>33.093%
-</td>
-<td>33.026%
-</td>
-<td>+8.8%
-</td></tr></tbody></table>
-
-### Upgrade
-
-### Bee Stats
-
-### +Convert Amount%
-
-<table class="wikitable" style="border:2px solid">
-<tbody><tr>
-<th rowspan="2">Potential
-</th>
-<th colspan="2">Stat ranges
-</th>
-<th rowspan="2">Average
-</th></tr>
-<tr>
-<th>+1%
-</th>
-<th>+2%
-</th></tr>
-<tr>
-<td><b>0 ★</b>
-</td>
-<td>84.657%
-</td>
-<td>15.343%
-</td>
-<td>+1.2%
-</td></tr>
-<tr>
-<td><b>0.5 ★</b>
-</td>
-<td>82.437%
-</td>
-<td>17.563%
-</td>
-<td>+1.2%
-</td></tr>
-<tr>
-<td><b>1 ★</b>
-</td>
-<td>79.425%
-</td>
-<td>20.575%
-</td>
-<td>+1.2%
-</td></tr>
-<tr>
-<td><b>1.5 ★</b>
-</td>
-<td>75.055%
-</td>
-<td>24.945%
-</td>
-<td>+1.2%
-</td></tr>
-<tr>
-<td><b>2 ★</b>
-</td>
-<td>67.918%
-</td>
-<td>32.082%
-</td>
-<td>+1.3%
+<td>71%
 </td></tr>
 <tr>
-<td><b>2.5 ★</b>
+<td>Ability Rate
 </td>
-<td>50%
+<td>1
 </td>
-<td>50%
+<td>
 </td>
-<td>+1.5%
-</td></tr>
-<tr>
-<td><b>3 ★</b>
+<td>+0.01
 </td>
-<td>32.082%
+<td>2%
 </td>
-<td>67.918%
+<td>5%
 </td>
-<td>+1.7%
+<td>7%
 </td></tr>
 <tr>
-<td><b>3.5 ★</b>
+<td>Pine Tree Forest Capacity (hive bonus)
 </td>
-<td>24.945%
+<td>10
 </td>
-<td>75.055%
+<td>
 </td>
-<td>+1.8%
-</td></tr>
-<tr>
-<td><b>4 ★</b>
+<td>+0.01
 </td>
-<td>20.575%
+<td>7%
 </td>
-<td>79.425%
+<td>11%
 </td>
-<td>+1.8%
+<td>14%
 </td></tr>
 <tr>
-<td><b>4.5 ★</b>
+<td>Pine Tree Forest Pollen (hive bonus)
 </td>
-<td>17.563%
+<td>10
 </td>
-<td>82.437%
+<td>
 </td>
-<td>+1.8%
-</td></tr>
-<tr>
-<td><b>5 ★</b>
+<td>+0.01
 </td>
-<td>15.343%
+<td>4%
 </td>
-<td>84.657%
+<td>6%
 </td>
-<td>+1.8%
+<td>7%
 </td></tr></tbody></table>
 
 ## Ways to Obtain
