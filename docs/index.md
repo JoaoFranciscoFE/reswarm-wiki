@@ -23,7 +23,7 @@ The community encyclopedia for **[Re://:Swarm](re-swarm.md)**: hatch bees, colle
 
 ## New to the game?
 
-Start with the [Tutorial](tutorial.md), learn how your [hive](hive.md) works, and check out which [bees](bees.md) to hatch first. Then visit the bears around the map to get your first [quests](quests.md)!
+Start with the [Tutorial](tutorial.md), learn how your [hive](hive.md) works, and check out which [bees](bees.md) to hatch first. Redeem the free [codes](codes.md) for an early boost. Then visit the bears around the map to get your first [quests](quests.md)!
 
 ## About
 
