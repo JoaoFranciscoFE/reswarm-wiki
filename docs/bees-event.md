@@ -7,7 +7,7 @@ tags: ["Bees", "Event"]
 
 **Event Bees** are [bees](bees.md) that can only be obtained by purchasing/acquiring their [specific eggs](egg.md#Event_Bee_Eggs). They are generally very expensive, costing either Robux, [Tickets](ticket.md), or are time-consuming to acquire, requiring completion of a long series of [quests](quests.md) or collection of [items](items.md). Some could have been purchased as a [First Edition Bee](first-edition-bee.md), which are bees with a "1st" flag on top of them. The flags serve as decor and don't actually affect anything about the bee, as they perform the same compared to a non-First Edition bee. Event Bees have unique [abilities](ability-tokens.md) that are not seen in any other type of bee and appear with a green background on the [hive slot](hive-slot.md) they are in. There are currently a total of 14 Event Bees, composed of 9 colorless, 3 red, and 2 blue. Event Bees are a one-time purchase.
 
-Re://:Swarm adds the **[Painter Bee](painter-bee.md)**, from the [Painter Bee event](painter-bee-event.md).
+Re://:Swarm adds the **[Crimbolt Bee](crimbolt-bee.md)** and the **[Painter Bee](painter-bee.md)** (from the [Painter Bee event](painter-bee-event.md)).
 
 When hatching an Event Bee Egg, the egg turns into a special [Royal Jelly](royal-jelly.md) that will always transform a bee into that specific Event Bee. Since a hive can only contain one of any given Event Bee, the special royal jelly only exists for the purpose of recovering the Event Bee if the player transformed it.
 
@@ -36,6 +36,13 @@ All Event Bees can become gifted, though none except [Digital Bee](digital-bee.m
 <td><span typeof="mw:Error mw:File"></span>
 </td>
 <td>A superhero and defender of all things Blue! Together with Crimson Bee it works to unite bees of all colors.
+</td></tr>
+<tr>
+<td><img alt="Crimbolt Bee" height="35" src="img/Crimbolt_Bee.png" width="35"/> <a href="crimbolt-bee.html">Crimbolt Bee</a>
+</td>
+<td><span typeof="mw:Error mw:File"></span>
+</td>
+<td>A Re://:Swarm bee that fires rockets at the field and boosts all three pollen colours.
 </td></tr>
 <tr>
 <td><img alt="Crimson Bee" height="35" src="img/Crimson_Bee.png" width="35"/> <a href="crimson-bee.html">Crimson Bee</a>

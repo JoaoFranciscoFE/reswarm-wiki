@@ -74,6 +74,7 @@ Every bee in Re://:Swarm, sorted by rarity. Pick a bee to see its stats, abiliti
 <div class="wiki-cards">
 <a class="wiki-card" href="bear-bee.html"><img src="img/Bear_Bee.png" alt="" loading="lazy"><span>Bear Bee</span></a>
 <a class="wiki-card" href="cobalt-bee.html"><img src="img/Cobalt_Bee.png" alt="" loading="lazy"><span>Cobalt Bee</span></a>
+<a class="wiki-card" href="crimbolt-bee.html"><img src="img/Crimbolt_Bee.png" alt="" loading="lazy"><span>Crimbolt Bee</span></a>
 <a class="wiki-card" href="crimson-bee.html"><img src="img/Crimson_Bee.png" alt="" loading="lazy"><span>Crimson Bee</span></a>
 <a class="wiki-card" href="digital-bee.html"><img src="img/Digital_Bee.png" alt="" loading="lazy"><span>Digital Bee</span></a>
 <a class="wiki-card" href="festive-bee.html"><img src="img/Festive_Bee.png" alt="" loading="lazy"><span>Festive Bee</span></a>
