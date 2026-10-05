@@ -9,6 +9,148 @@ The tables below give the percentage of a certain stat having a specific strengt
 
 /// tab | Bronze <span class="tier-suffix">Shell Amulet</span>
 
+**What it can roll**
+
+<table class="article-table">
+<tbody><tr>
+<th>Number of stats taken
+</th>
+<th>Stat
+</th>
+<th>Range
+</th>
+<th>Probability of being selected
+</th></tr>
+<tr>
+<td>Guaranteed
+</td>
+<td><a href="system-page.html#Goo">Goo</a>
+</td>
+<td>+1% - +2%<br/>Intervals of 1%
+</td>
+<td>100%
+</td></tr>
+<tr>
+<td rowspan="8">Select 1
+</td>
+<td><a href="system-page.html#Honey_From_Tokens">Honey From Tokens</a>
+</td>
+<td>+10% - +15%<br/>Intervals of 1%
+</td>
+<td>12.5%
+</td></tr>
+<tr>
+<td><a href="system-page.html#Bond_From_Battle">Bond From Battle</a>
+</td>
+<td>+1% - +5%<br/>Intervals of 1%
+</td>
+<td>12.5%
+</td></tr>
+<tr>
+<td><a href="system-page.html#Convert_Amount">Convert Amount</a>
+</td>
+<td>+2 - +6<br/>Intervals of 1
+</td>
+<td>12.5%
+</td></tr>
+<tr>
+<td><a href="system-page.html#Defense">Defense</a>
+</td>
+<td>+2% - +3%<br/>Intervals of 1%
+</td>
+<td>12.5%
+</td></tr>
+<tr>
+<td><a href="system-page.html#Tool_Pollen">Pollen From Tools</a>
+</td>
+<td>+1% - +3%<br/>Intervals of 1%
+</td>
+<td>12.5%
+</td></tr>
+<tr>
+<td><a href="system-page.html#Pollen">Pollen</a>
+</td>
+<td>+1%
+</td>
+<td>12.5%
+</td></tr>
+<tr>
+<td><a href="system-page.html#White_Pollen">White Pollen</a>
+</td>
+<td>+8% - +14%<br/>Intervals of 1%
+</td>
+<td>12.5%
+</td></tr>
+<tr>
+<td><a href="system-page.html#Goo_Conversion">Goo Conversion</a>
+</td>
+<td>+2% - +3%<br/>Intervals of 1%
+</td>
+<td>12.5%
+</td></tr>
+<tr>
+<td>Guaranteed
+</td>
+<td><a href="system-page.html#Stump_Field_Pollen">Stump Field Pollen</a>
+</td>
+<td>+10% - +25%<br/>Intervals of 1%
+</td>
+<td>100%
+</td></tr>
+<tr>
+<td rowspan="7">Select 1
+</td>
+<td><a href="system-page.html#Cactus_Field_Pollen">Cactus Field Pollen</a>
+</td>
+<td>+5% - +10%<br/>Intervals of 1%
+</td>
+<td>14.2857%
+</td></tr>
+<tr>
+<td><a href="system-page.html#Pineapple_Patch_Pollen">Pineapple Patch Pollen</a>
+</td>
+<td>+5% - +10%<br/>Intervals of 1%
+</td>
+<td>14.2857%
+</td></tr>
+<tr>
+<td><a href="system-page.html#Pumpkin_Patch_Pollen">Pumpkin Patch Pollen</a>
+</td>
+<td>+5% - +10%<br/>Intervals of 1%
+</td>
+<td>14.2857%
+</td></tr>
+<tr>
+<td><a href="system-page.html#Dandelion_Field_Pollen">Dandelion Field Pollen</a>
+</td>
+<td>+5% - +10%<br/>Intervals of 1%
+</td>
+<td>14.2857%
+</td></tr>
+<tr>
+<td><a href="system-page.html#Clover_Field_Pollen">Clover Field Pollen</a>
+</td>
+<td>+5% - +10%<br/>Intervals of 1%
+</td>
+<td>14.2857%
+</td></tr>
+<tr>
+<td><a href="system-page.html#Spider_Field_Pollen">Spider Field Pollen</a>
+</td>
+<td>+5% - +10%<br/>Intervals of 1%
+</td>
+<td>14.2857%
+</td></tr>
+<tr>
+<td><a href="system-page.html#Sunflower_Field_Pollen">Sunflower Field Pollen</a>
+</td>
+<td>+5% - +10%<br/>Intervals of 1%
+</td>
+<td>14.2857%
+</td></tr></tbody></table>
+
+**Chance breakdown**
+
 
 *Note that the precise percentages may be off due to floating point errors.*  
 
@@ -26387,6 +26529,148 @@ The tables below give the percentage of a certain stat having a specific strengt
 ///
 
 /// tab | Silver <span class="tier-suffix">Shell Amulet</span>
+
+**What it can roll**
+
+<table class="article-table">
+<tbody><tr>
+<th>Number of stats taken
+</th>
+<th>Stat
+</th>
+<th>Range
+</th>
+<th>Probability of being selected
+</th></tr>
+<tr>
+<td>Guaranteed
+</td>
+<td><a href="system-page.html#Goo">Goo</a>
+</td>
+<td>+2% - +4%<br/>Intervals of 1%
+</td>
+<td>100%
+</td></tr>
+<tr>
+<td rowspan="8">Select 2
+</td>
+<td><a href="system-page.html#Honey_From_Tokens">Honey From Tokens</a>
+</td>
+<td>+15% - +25%<br/>Intervals of 1%
+</td>
+<td>25%
+</td></tr>
+<tr>
+<td><a href="system-page.html#Bond_From_Battle">Bond From Battle</a>
+</td>
+<td>+3% - +8%<br/>Intervals of 1%
+</td>
+<td>25%
+</td></tr>
+<tr>
+<td><a href="system-page.html#Convert_Amount">Convert Amount</a>
+</td>
+<td>+6 - +10<br/>Intervals of 1
+</td>
+<td>25%
+</td></tr>
+<tr>
+<td><a href="system-page.html#Defense">Defense</a>
+</td>
+<td>+3% - +4%<br/>Intervals of 1%
+</td>
+<td>25%
+</td></tr>
+<tr>
+<td><a href="system-page.html#Tool_Pollen">Pollen From Tools</a>
+</td>
+<td>+3% - +6%<br/>Intervals of 1%
+</td>
+<td>25%
+</td></tr>
+<tr>
+<td><a href="system-page.html#Pollen">Pollen</a>
+</td>
+<td>+1% - +2%<br/>Intervals of 1%
+</td>
+<td>25%
+</td></tr>
+<tr>
+<td><a href="system-page.html#White_Pollen">White Pollen</a>
+</td>
+<td>+15% - +20%<br/>Intervals of 1%
+</td>
+<td>25%
+</td></tr>
+<tr>
+<td><a href="system-page.html#Goo_Conversion">Goo Conversion</a>
+</td>
+<td>+3% - +4%<br/>Intervals of 1%
+</td>
+<td>25%
+</td></tr>
+<tr>
+<td>Guaranteed
+</td>
+<td><a href="system-page.html#Stump_Field_Pollen">Stump Field Pollen</a>
+</td>
+<td>+26% - +35%<br/>Intervals of 1%
+</td>
+<td>100%
+</td></tr>
+<tr>
+<td rowspan="7">Select 1
+</td>
+<td><a href="system-page.html#Cactus_Field_Pollen">Cactus Field Pollen</a>
+</td>
+<td>+8% - +15%<br/>Intervals of 1%
+</td>
+<td>14.2857%
+</td></tr>
+<tr>
+<td><a href="system-page.html#Pineapple_Patch_Pollen">Pineapple Patch Pollen</a>
+</td>
+<td>+8% - +15%<br/>Intervals of 1%
+</td>
+<td>14.2857%
+</td></tr>
+<tr>
+<td><a href="system-page.html#Pumpkin_Patch_Pollen">Pumpkin Patch Pollen</a>
+</td>
+<td>+8% - +15%<br/>Intervals of 1%
+</td>
+<td>14.2857%
+</td></tr>
+<tr>
+<td><a href="system-page.html#Dandelion_Field_Pollen">Dandelion Field Pollen</a>
+</td>
+<td>+8% - +15%<br/>Intervals of 1%
+</td>
+<td>14.2857%
+</td></tr>
+<tr>
+<td><a href="system-page.html#Clover_Field_Pollen">Clover Field Pollen</a>
+</td>
+<td>+8% - +15%<br/>Intervals of 1%
+</td>
+<td>14.2857%
+</td></tr>
+<tr>
+<td><a href="system-page.html#Spider_Field_Pollen">Spider Field Pollen</a>
+</td>
+<td>+8% - +15%<br/>Intervals of 1%
+</td>
+<td>14.2857%
+</td></tr>
+<tr>
+<td><a href="system-page.html#Sunflower_Field_Pollen">Sunflower Field Pollen</a>
+</td>
+<td>+8% - +15%<br/>Intervals of 1%
+</td>
+<td>14.2857%
+</td></tr></tbody></table>
+
+**Chance breakdown**
 
 
 *Note that the precise percentages may be off due to floating point errors.*  
@@ -56713,6 +56997,148 @@ The tables below give the percentage of a certain stat having a specific strengt
 
 /// tab | Gold <span class="tier-suffix">Shell Amulet</span>
 
+**What it can roll**
+
+<table class="article-table">
+<tbody><tr>
+<th>Number of stats taken
+</th>
+<th>Stat
+</th>
+<th>Range
+</th>
+<th>Probability of being selected
+</th></tr>
+<tr>
+<td>Guaranteed
+</td>
+<td><a href="system-page.html#Goo">Goo</a>
+</td>
+<td>+5% - +8%<br/>Intervals of 1%
+</td>
+<td>100%
+</td></tr>
+<tr>
+<td rowspan="8">Select 2
+</td>
+<td><a href="system-page.html#Honey_From_Tokens">Honey From Tokens</a>
+</td>
+<td>+25% - +35%<br/>Intervals of 1%
+</td>
+<td>25%
+</td></tr>
+<tr>
+<td><a href="system-page.html#Bond_From_Battle">Bond From Battle</a>
+</td>
+<td>+8% - +12%<br/>Intervals of 1%
+</td>
+<td>25%
+</td></tr>
+<tr>
+<td><a href="system-page.html#Convert_Amount">Convert Amount</a>
+</td>
+<td>+12 - +15<br/>Intervals of 1
+</td>
+<td>25%
+</td></tr>
+<tr>
+<td><a href="system-page.html#Defense">Defense</a>
+</td>
+<td>+4% - +5%<br/>Intervals of 1%
+</td>
+<td>25%
+</td></tr>
+<tr>
+<td><a href="system-page.html#Tool_Pollen">Pollen From Tools</a>
+</td>
+<td>+6% - +10%<br/>Intervals of 1%
+</td>
+<td>25%
+</td></tr>
+<tr>
+<td><a href="system-page.html#Pollen">Pollen</a>
+</td>
+<td>+2% - +3%<br/>Intervals of 1%
+</td>
+<td>25%
+</td></tr>
+<tr>
+<td><a href="system-page.html#White_Pollen">White Pollen</a>
+</td>
+<td>+21% - +25%<br/>Intervals of 1%
+</td>
+<td>25%
+</td></tr>
+<tr>
+<td><a href="system-page.html#Goo_Conversion">Goo Conversion</a>
+</td>
+<td>+4% - +6%<br/>Intervals of 1%
+</td>
+<td>25%
+</td></tr>
+<tr>
+<td>Guaranteed
+</td>
+<td><a href="system-page.html#Stump_Field_Pollen">Stump Field Pollen</a>
+</td>
+<td>+36% - +45%<br/>Intervals of 1%
+</td>
+<td>100%
+</td></tr>
+<tr>
+<td rowspan="7">Select 2
+</td>
+<td><a href="system-page.html#Cactus_Field_Pollen">Cactus Field Pollen</a>
+</td>
+<td>+15% - +20%<br/>Intervals of 1%
+</td>
+<td>28.5714%
+</td></tr>
+<tr>
+<td><a href="system-page.html#Pineapple_Patch_Pollen">Pineapple Patch Pollen</a>
+</td>
+<td>+15% - +20%<br/>Intervals of 1%
+</td>
+<td>28.5714%
+</td></tr>
+<tr>
+<td><a href="system-page.html#Pumpkin_Patch_Pollen">Pumpkin Patch Pollen</a>
+</td>
+<td>+15% - +20%<br/>Intervals of 1%
+</td>
+<td>28.5714%
+</td></tr>
+<tr>
+<td><a href="system-page.html#Dandelion_Field_Pollen">Dandelion Field Pollen</a>
+</td>
+<td>+15% - +20%<br/>Intervals of 1%
+</td>
+<td>28.5714%
+</td></tr>
+<tr>
+<td><a href="system-page.html#Clover_Field_Pollen">Clover Field Pollen</a>
+</td>
+<td>+15% - +20%<br/>Intervals of 1%
+</td>
+<td>28.5714%
+</td></tr>
+<tr>
+<td><a href="system-page.html#Spider_Field_Pollen">Spider Field Pollen</a>
+</td>
+<td>+15% - +20%<br/>Intervals of 1%
+</td>
+<td>28.5714%
+</td></tr>
+<tr>
+<td><a href="system-page.html#Sunflower_Field_Pollen">Sunflower Field Pollen</a>
+</td>
+<td>+15% - +20%<br/>Intervals of 1%
+</td>
+<td>28.5714%
+</td></tr></tbody></table>
+
+**Chance breakdown**
+
 
 *Note that the precise percentages may be off due to floating point errors.*  
 
@@ -84210,6 +84636,148 @@ The tables below give the percentage of a certain stat having a specific strengt
 
 /// tab | Diamond <span class="tier-suffix">Shell Amulet</span>
 
+**What it can roll**
+
+<table class="article-table">
+<tbody><tr>
+<th>Number of stats taken
+</th>
+<th>Stat
+</th>
+<th>Range
+</th>
+<th>Probability of being selected
+</th></tr>
+<tr>
+<td>Guaranteed
+</td>
+<td><a href="system-page.html#Goo">Goo</a>
+</td>
+<td>+8% - +10%<br/>Intervals of 1%
+</td>
+<td>100%
+</td></tr>
+<tr>
+<td rowspan="8">Select 2
+</td>
+<td><a href="system-page.html#Honey_From_Tokens">Honey From Tokens</a>
+</td>
+<td>+35% - +40%<br/>Intervals of 1%
+</td>
+<td>25%
+</td></tr>
+<tr>
+<td><a href="system-page.html#Bond_From_Battle">Bond From Battle</a>
+</td>
+<td>+12% - +15%<br/>Intervals of 1%
+</td>
+<td>25%
+</td></tr>
+<tr>
+<td><a href="system-page.html#Convert_Amount">Convert Amount</a>
+</td>
+<td>+15 - +20<br/>Intervals of 1
+</td>
+<td>25%
+</td></tr>
+<tr>
+<td><a href="system-page.html#Defense">Defense</a>
+</td>
+<td>+5%
+</td>
+<td>25%
+</td></tr>
+<tr>
+<td><a href="system-page.html#Tool_Pollen">Pollen From Tools</a>
+</td>
+<td>+10% - +15%<br/>Intervals of 1%
+</td>
+<td>25%
+</td></tr>
+<tr>
+<td><a href="system-page.html#Pollen">Pollen</a>
+</td>
+<td>+3% - +4%<br/>Intervals of 1%
+</td>
+<td>25%
+</td></tr>
+<tr>
+<td><a href="system-page.html#White_Pollen">White Pollen</a>
+</td>
+<td>+26% - +30%<br/>Intervals of 1%
+</td>
+<td>25%
+</td></tr>
+<tr>
+<td><a href="system-page.html#Goo_Conversion">Goo Conversion</a>
+</td>
+<td>+6% - +8%<br/>Intervals of 1%
+</td>
+<td>25%
+</td></tr>
+<tr>
+<td>Guaranteed
+</td>
+<td><a href="system-page.html#Stump_Field_Pollen">Stump Field Pollen</a>
+</td>
+<td>+46% - +55%<br/>Intervals of 1%<br/>Low values more likely (bias 5:1)
+</td>
+<td>100%
+</td></tr>
+<tr>
+<td rowspan="7">Select 2
+</td>
+<td><a href="system-page.html#Cactus_Field_Pollen">Cactus Field Pollen</a>
+</td>
+<td>+20% - +25%<br/>Intervals of 1%
+</td>
+<td>28.5714%
+</td></tr>
+<tr>
+<td><a href="system-page.html#Pineapple_Patch_Pollen">Pineapple Patch Pollen</a>
+</td>
+<td>+20% - +25%<br/>Intervals of 1%
+</td>
+<td>28.5714%
+</td></tr>
+<tr>
+<td><a href="system-page.html#Pumpkin_Patch_Pollen">Pumpkin Patch Pollen</a>
+</td>
+<td>+20% - +25%<br/>Intervals of 1%
+</td>
+<td>28.5714%
+</td></tr>
+<tr>
+<td><a href="system-page.html#Dandelion_Field_Pollen">Dandelion Field Pollen</a>
+</td>
+<td>+20% - +25%<br/>Intervals of 1%
+</td>
+<td>28.5714%
+</td></tr>
+<tr>
+<td><a href="system-page.html#Clover_Field_Pollen">Clover Field Pollen</a>
+</td>
+<td>+20% - +25%<br/>Intervals of 1%
+</td>
+<td>28.5714%
+</td></tr>
+<tr>
+<td><a href="system-page.html#Spider_Field_Pollen">Spider Field Pollen</a>
+</td>
+<td>+20% - +25%<br/>Intervals of 1%
+</td>
+<td>28.5714%
+</td></tr>
+<tr>
+<td><a href="system-page.html#Sunflower_Field_Pollen">Sunflower Field Pollen</a>
+</td>
+<td>+20% - +25%<br/>Intervals of 1%
+</td>
+<td>28.5714%
+</td></tr></tbody></table>
+
+**Chance breakdown**
+
 
 *Note that the precise percentages may be off due to floating point errors.*  
 
@@ -109982,6 +110550,148 @@ The tables below give the percentage of a certain stat having a specific strengt
 ///
 
 /// tab | Supreme <span class="tier-suffix">Shell Amulet</span>
+
+**What it can roll**
+
+<table class="article-table">
+<tbody><tr>
+<th>Number of stats taken
+</th>
+<th>Stat
+</th>
+<th>Range
+</th>
+<th>Probability of being selected
+</th></tr>
+<tr>
+<td>Guaranteed
+</td>
+<td><a href="system-page.html#Goo">Goo</a>
+</td>
+<td>+11% - +15%<br/>Intervals of 1%
+</td>
+<td>100%
+</td></tr>
+<tr>
+<td rowspan="8">Select 2
+</td>
+<td><a href="system-page.html#Honey_From_Tokens">Honey From Tokens</a>
+</td>
+<td>+41% - +50%<br/>Intervals of 1%
+</td>
+<td>25%
+</td></tr>
+<tr>
+<td><a href="system-page.html#Bond_From_Battle">Bond From Battle</a>
+</td>
+<td>+16% - +20%<br/>Intervals of 1%
+</td>
+<td>25%
+</td></tr>
+<tr>
+<td><a href="system-page.html#Convert_Amount">Convert Amount</a>
+</td>
+<td>+21 - +25<br/>Intervals of 1
+</td>
+<td>25%
+</td></tr>
+<tr>
+<td><a href="system-page.html#Defense">Defense</a>
+</td>
+<td>+5%
+</td>
+<td>25%
+</td></tr>
+<tr>
+<td><a href="system-page.html#Tool_Pollen">Pollen From Tools</a>
+</td>
+<td>+16% - +20%<br/>Intervals of 1%
+</td>
+<td>25%
+</td></tr>
+<tr>
+<td><a href="system-page.html#Pollen">Pollen</a>
+</td>
+<td>+4% - +5%<br/>Intervals of 1%
+</td>
+<td>25%
+</td></tr>
+<tr>
+<td><a href="system-page.html#White_Pollen">White Pollen</a>
+</td>
+<td>+32% - +40%<br/>Intervals of 1%
+</td>
+<td>25%
+</td></tr>
+<tr>
+<td><a href="system-page.html#Goo_Conversion">Goo Conversion</a>
+</td>
+<td>+8% - +10%<br/>Intervals of 1%
+</td>
+<td>25%
+</td></tr>
+<tr>
+<td>Guaranteed
+</td>
+<td><a href="system-page.html#Stump_Field_Pollen">Stump Field Pollen</a>
+</td>
+<td>+56% - +65%<br/>Intervals of 1%<br/>Low values more likely (bias 5:1)
+</td>
+<td>100%
+</td></tr>
+<tr>
+<td rowspan="7">Select 3
+</td>
+<td><a href="system-page.html#Cactus_Field_Pollen">Cactus Field Pollen</a>
+</td>
+<td>+26% - +30%<br/>Intervals of 1%
+</td>
+<td>42.8571%
+</td></tr>
+<tr>
+<td><a href="system-page.html#Pineapple_Patch_Pollen">Pineapple Patch Pollen</a>
+</td>
+<td>+26% - +30%<br/>Intervals of 1%
+</td>
+<td>42.8571%
+</td></tr>
+<tr>
+<td><a href="system-page.html#Pumpkin_Patch_Pollen">Pumpkin Patch Pollen</a>
+</td>
+<td>+26% - +30%<br/>Intervals of 1%
+</td>
+<td>42.8571%
+</td></tr>
+<tr>
+<td><a href="system-page.html#Dandelion_Field_Pollen">Dandelion Field Pollen</a>
+</td>
+<td>+26% - +30%<br/>Intervals of 1%
+</td>
+<td>42.8571%
+</td></tr>
+<tr>
+<td><a href="system-page.html#Clover_Field_Pollen">Clover Field Pollen</a>
+</td>
+<td>+26% - +30%<br/>Intervals of 1%
+</td>
+<td>42.8571%
+</td></tr>
+<tr>
+<td><a href="system-page.html#Spider_Field_Pollen">Spider Field Pollen</a>
+</td>
+<td>+26% - +30%<br/>Intervals of 1%
+</td>
+<td>42.8571%
+</td></tr>
+<tr>
+<td><a href="system-page.html#Sunflower_Field_Pollen">Sunflower Field Pollen</a>
+</td>
+<td>+26% - +30%<br/>Intervals of 1%
+</td>
+<td>42.8571%
+</td></tr></tbody></table>
+
+**Chance breakdown**
 
 
 **The time allocated for running scripts has expired.**

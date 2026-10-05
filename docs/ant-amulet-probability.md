@@ -9,6 +9,53 @@ The tables below give the percentage of a certain stat having a specific strengt
 
 /// tab | Bronze <span class="tier-suffix">Ant Amulet</span>
 
+**What it can roll**
+
+<table class="article-table">
+<tbody><tr>
+<th>Number of stats taken
+</th>
+<th>Stat
+</th>
+<th>Range
+</th>
+<th>Probability of being selected
+</th></tr>
+<tr>
+<td>Guaranteed
+</td>
+<td><a href="system-page.html#Convert_Rate">Convert Rate</a>
+</td>
+<td>+15% - +35%<br/>Intervals of 1%
+</td>
+<td>100%
+</td></tr>
+<tr>
+<td rowspan="3">Select 2
+</td>
+<td><a href="system-page.html#White_Pollen">White Pollen</a>
+</td>
+<td>+1% - +5%<br/>Intervals of 1%
+</td>
+<td>66.6667%
+</td></tr>
+<tr>
+<td><a href="system-page.html#Red_Pollen">Red Pollen</a>
+</td>
+<td>+1% - +5%<br/>Intervals of 1%
+</td>
+<td>66.6667%
+</td></tr>
+<tr>
+<td><a href="system-page.html#Blue_Pollen">Blue Pollen</a>
+</td>
+<td>+1% - +5%<br/>Intervals of 1%
+</td>
+<td>66.6667%
+</td></tr></tbody></table>
+
+**Chance breakdown**
+
 
 *Note that the precise percentages may be off due to floating point errors.*  
 
@@ -2435,6 +2482,76 @@ The tables below give the percentage of a certain stat having a specific strengt
 ///
 
 /// tab | Silver <span class="tier-suffix">Ant Amulet</span>
+
+**What it can roll**
+
+<table class="article-table">
+<tbody><tr>
+<th>Number of stats taken
+</th>
+<th>Stat
+</th>
+<th>Range
+</th>
+<th>Probability of being selected
+</th></tr>
+<tr>
+<td>Guaranteed
+</td>
+<td><a href="system-page.html#Convert_Rate">Convert Rate</a>
+</td>
+<td>+40% - +60%<br/>Intervals of 1%
+</td>
+<td>100%
+</td></tr>
+<tr>
+<td rowspan="3">Select 1
+</td>
+<td><a href="system-page.html#Movespeed">Player Movespeed</a>
+</td>
+<td>+1
+</td>
+<td>33.3333%
+</td></tr>
+<tr>
+<td><a href="system-page.html#Critical_Chance">Critical Chance</a>
+</td>
+<td>+1%
+</td>
+<td>33.3333%
+</td></tr>
+<tr>
+<td><a href="system-page.html#Critical_Power">Critical Power</a>
+</td>
+<td>+5% - +10%<br/>Intervals of 1%<br/>Low values more likely (bias 3:1)
+</td>
+<td>33.3333%
+</td></tr>
+<tr>
+<td rowspan="3">Select 2
+</td>
+<td><a href="system-page.html#White_Pollen">White Pollen</a>
+</td>
+<td>+5% - +10%<br/>Intervals of 1%
+</td>
+<td>66.6667%
+</td></tr>
+<tr>
+<td><a href="system-page.html#Red_Pollen">Red Pollen</a>
+</td>
+<td>+5% - +10%<br/>Intervals of 1%
+</td>
+<td>66.6667%
+</td></tr>
+<tr>
+<td><a href="system-page.html#Blue_Pollen">Blue Pollen</a>
+</td>
+<td>+5% - +10%<br/>Intervals of 1%
+</td>
+<td>66.6667%
+</td></tr></tbody></table>
+
+**Chance breakdown**
 
 
 *Note that the precise percentages may be off due to floating point errors.*  
@@ -5467,6 +5584,85 @@ The tables below give the percentage of a certain stat having a specific strengt
 ///
 
 /// tab | Gold <span class="tier-suffix">Ant Amulet</span>
+
+**What it can roll**
+
+<table class="article-table">
+<tbody><tr>
+<th>Number of stats taken
+</th>
+<th>Stat
+</th>
+<th>Range
+</th>
+<th>Probability of being selected
+</th></tr>
+<tr>
+<td>Guaranteed
+</td>
+<td><a href="system-page.html#Convert_Rate">Convert Rate</a>
+</td>
+<td>+60% - +80%<br/>Intervals of 1%
+</td>
+<td>100%
+</td></tr>
+<tr>
+<td>Potentially
+</td>
+<td><a href="system-page.html#Bee_Attack">Bee Attack</a>
+</td>
+<td>+0 - +1<br/>Intervals of 1<br/>Low values more likely (bias 20:1)
+</td>
+<td>5% (separate chance roll)
+</td></tr>
+<tr>
+<td rowspan="3">Select 1
+</td>
+<td><a href="system-page.html#Movespeed">Player Movespeed</a>
+</td>
+<td>+1 - +2<br/>Intervals of 1
+</td>
+<td>33.3333%
+</td></tr>
+<tr>
+<td><a href="system-page.html#Critical_Chance">Critical Chance</a>
+</td>
+<td>+1% - +2%<br/>Intervals of 1%<br/>Low values more likely (bias 3:1)
+</td>
+<td>33.3333%
+</td></tr>
+<tr>
+<td><a href="system-page.html#Critical_Power">Critical Power</a>
+</td>
+<td>+10% - +25%<br/>Intervals of 1%<br/>Low values more likely (bias 3:1)
+</td>
+<td>33.3333%
+</td></tr>
+<tr>
+<td rowspan="3">Select 2
+</td>
+<td><a href="system-page.html#White_Pollen">White Pollen</a>
+</td>
+<td>+10% - +15%<br/>Intervals of 1%
+</td>
+<td>66.6667%
+</td></tr>
+<tr>
+<td><a href="system-page.html#Red_Pollen">Red Pollen</a>
+</td>
+<td>+10% - +15%<br/>Intervals of 1%
+</td>
+<td>66.6667%
+</td></tr>
+<tr>
+<td><a href="system-page.html#Blue_Pollen">Blue Pollen</a>
+</td>
+<td>+10% - +15%<br/>Intervals of 1%
+</td>
+<td>66.6667%
+</td></tr></tbody></table>
+
+**Chance breakdown**
 
 
 *Note that the precise percentages may be off due to floating point errors.*  
@@ -13793,6 +13989,76 @@ The tables below give the percentage of a certain stat having a specific strengt
 
 /// tab | Diamond <span class="tier-suffix">Ant Amulet</span>
 
+**What it can roll**
+
+<table class="article-table">
+<tbody><tr>
+<th>Number of stats taken
+</th>
+<th>Stat
+</th>
+<th>Range
+</th>
+<th>Probability of being selected
+</th></tr>
+<tr>
+<td>Guaranteed
+</td>
+<td><a href="system-page.html#Convert_Rate">Convert Rate</a>
+</td>
+<td>+80% - +90%<br/>Intervals of 1%
+</td>
+<td>100%
+</td></tr>
+<tr>
+<td rowspan="3">Select 2
+</td>
+<td><a href="system-page.html#Movespeed">Player Movespeed</a>
+</td>
+<td>+2
+</td>
+<td>66.6667%
+</td></tr>
+<tr>
+<td><a href="system-page.html#Critical_Chance">Critical Chance</a>
+</td>
+<td>+1% - +2%<br/>Intervals of 1%<br/>Low values more likely (bias 3:1)
+</td>
+<td>66.6667%
+</td></tr>
+<tr>
+<td><a href="system-page.html#Critical_Power">Critical Power</a>
+</td>
+<td>+25% - +40%<br/>Intervals of 1%<br/>Low values more likely (bias 3:1)
+</td>
+<td>66.6667%
+</td></tr>
+<tr>
+<td rowspan="3">Select 2
+</td>
+<td><a href="system-page.html#White_Pollen">White Pollen</a>
+</td>
+<td>+15% - +20%<br/>Intervals of 1%
+</td>
+<td>66.6667%
+</td></tr>
+<tr>
+<td><a href="system-page.html#Red_Pollen">Red Pollen</a>
+</td>
+<td>+15% - +20%<br/>Intervals of 1%
+</td>
+<td>66.6667%
+</td></tr>
+<tr>
+<td><a href="system-page.html#Blue_Pollen">Blue Pollen</a>
+</td>
+<td>+15% - +20%<br/>Intervals of 1%
+</td>
+<td>66.6667%
+</td></tr></tbody></table>
+
+**Chance breakdown**
+
 
 *Note that the precise percentages may be off due to floating point errors.*  
 
@@ -20165,6 +20431,90 @@ The tables below give the percentage of a certain stat having a specific strengt
 ///
 
 /// tab | Supreme <span class="tier-suffix">Ant Amulet</span>
+
+**What it can roll**
+
+<table class="article-table">
+<tbody><tr>
+<th>Number of stats taken
+</th>
+<th>Stat
+</th>
+<th>Range
+</th>
+<th>Probability of being selected
+</th></tr>
+<tr>
+<td>Guaranteed
+</td>
+<td><a href="system-page.html#Convert_Rate">Convert Rate</a>
+</td>
+<td>+90% - +110%<br/>Intervals of 1%
+</td>
+<td>100%
+</td></tr>
+<tr>
+<td rowspan="5">Select 3
+</td>
+<td><a href="system-page.html#Movespeed">Player Movespeed</a>
+</td>
+<td>+2 - +3<br/>Intervals of 1<br/>Low values more likely (bias 20:1)
+</td>
+<td>60%
+</td></tr>
+<tr>
+<td><a href="system-page.html#Critical_Chance">Critical Chance</a>
+</td>
+<td>+2% - +3%<br/>Intervals of 1%<br/>Low values more likely (bias 10:1)
+</td>
+<td>60%
+</td></tr>
+<tr>
+<td><a href="system-page.html#Critical_Power">Critical Power</a>
+</td>
+<td>+35% - +50%<br/>Intervals of 1%<br/>Low values more likely (bias 3:1)
+</td>
+<td>60%
+</td></tr>
+<tr>
+<td><a href="system-page.html#Bee_Attack">Bee Attack</a>
+</td>
+<td>+1<br/>Low values more likely (bias 20:1)
+</td>
+<td>60%
+</td></tr>
+<tr>
+<td><a href="system-page.html#Pollen">Pollen</a>
+</td>
+<td>+1% - +5%<br/>Intervals of 1%<br/>Low values more likely (bias 10:1)
+</td>
+<td>60%
+</td></tr>
+<tr>
+<td rowspan="3">Select 2
+</td>
+<td><a href="system-page.html#White_Pollen">White Pollen</a>
+</td>
+<td>+20% - +30%<br/>Intervals of 1%
+</td>
+<td>66.6667%
+</td></tr>
+<tr>
+<td><a href="system-page.html#Red_Pollen">Red Pollen</a>
+</td>
+<td>+20% - +30%<br/>Intervals of 1%
+</td>
+<td>66.6667%
+</td></tr>
+<tr>
+<td><a href="system-page.html#Blue_Pollen">Blue Pollen</a>
+</td>
+<td>+20% - +30%<br/>Intervals of 1%
+</td>
+<td>66.6667%
+</td></tr></tbody></table>
+
+**Chance breakdown**
 
 
 *Note that the precise percentages may be off due to floating point errors.*  

@@ -9,6 +9,115 @@ The tables below give the percentage of a certain stat having a specific strengt
 
 /// tab | Bronze <span class="tier-suffix">Cog Amulet</span>
 
+**What it can roll**
+
+<table class="article-table">
+<tbody><tr>
+<th>Number of stats taken
+</th>
+<th>Stat
+</th>
+<th>Range
+</th>
+<th>Probability of being selected
+</th></tr>
+<tr>
+<td>Guaranteed
+</td>
+<td><a href="system-page.html#Capacity_Multiplier">Capacity</a>
+</td>
+<td>+22,500 - +27,500<br/>Intervals of 500
+</td>
+<td>100%
+</td></tr>
+<tr>
+<td rowspan="1">Select 1
+</td>
+<td><a href="system-page.html#Attack_Multiplier">Bee Attack</a>
+</td>
+<td>+3% - +6%<br/>Intervals of 1%<br/>Low values more likely (bias 3:1)
+</td>
+<td>100%
+</td></tr>
+<tr>
+<td rowspan="3">Select 1
+</td>
+<td><a href="system-page.html#White_Pollen">White Pollen</a>
+</td>
+<td>+5% - +10%<br/>Intervals of 1%
+</td>
+<td>33.3333%
+</td></tr>
+<tr>
+<td><a href="system-page.html#Red_Pollen">Red Pollen</a>
+</td>
+<td>+5% - +10%<br/>Intervals of 1%
+</td>
+<td>33.3333%
+</td></tr>
+<tr>
+<td><a href="system-page.html#Blue_Pollen">Blue Pollen</a>
+</td>
+<td>+5% - +10%<br/>Intervals of 1%
+</td>
+<td>33.3333%
+</td></tr>
+<tr>
+<td rowspan="4">Select 1
+</td>
+<td><a href="system-page.html#Bubble_Pollen">Bubble Pollen</a>
+</td>
+<td>+4% - +8%<br/>Intervals of 1%
+</td>
+<td>25%
+</td></tr>
+<tr>
+<td><a href="system-page.html#Flame_Pollen">Flame Pollen</a>
+</td>
+<td>+4% - +8%<br/>Intervals of 1%
+</td>
+<td>25%
+</td></tr>
+<tr>
+<td><a href="system-page.html#Bee_Gather_Pollen">Bee Gather Pollen</a>
+</td>
+<td>+4% - +8%<br/>Intervals of 1%
+</td>
+<td>25%
+</td></tr>
+<tr>
+<td><a href="system-page.html#Event_Bee_Pollen">Event Bee Pollen</a>
+</td>
+<td>+3% - +5%<br/>Intervals of 1%
+</td>
+<td>25%
+</td></tr>
+<tr>
+<td rowspan="3">Select 1
+</td>
+<td><a href="system-page.html#Instant_White_Conversion">Instant White Conversion</a>
+</td>
+<td>+1% - +2%<br/>Intervals of 1%
+</td>
+<td>33.3333%
+</td></tr>
+<tr>
+<td><a href="system-page.html#Instant_Red_Conversion">Instant Red Conversion</a>
+</td>
+<td>+1% - +2%<br/>Intervals of 1%
+</td>
+<td>33.3333%
+</td></tr>
+<tr>
+<td><a href="system-page.html#Instant_Blue_Conversion">Instant Blue Conversion</a>
+</td>
+<td>+1% - +2%<br/>Intervals of 1%
+</td>
+<td>33.3333%
+</td></tr></tbody></table>
+
+**Chance breakdown**
+
 
 *Note that the precise percentages may be off due to floating point errors.*  
 
@@ -35247,6 +35356,122 @@ The tables below give the percentage of a certain stat having a specific strengt
 ///
 
 /// tab | Silver <span class="tier-suffix">Cog Amulet</span>
+
+**What it can roll**
+
+<table class="article-table">
+<tbody><tr>
+<th>Number of stats taken
+</th>
+<th>Stat
+</th>
+<th>Range
+</th>
+<th>Probability of being selected
+</th></tr>
+<tr>
+<td>Guaranteed
+</td>
+<td><a href="system-page.html#Capacity_Multiplier">Capacity</a>
+</td>
+<td>+45,000 - +55,000<br/>Intervals of 500
+</td>
+<td>100%
+</td></tr>
+<tr>
+<td rowspan="1">Select 1
+</td>
+<td><a href="system-page.html#Attack_Multiplier">Bee Attack</a>
+</td>
+<td>+5% - +8%<br/>Intervals of 1%<br/>Low values more likely (bias 3:1)
+</td>
+<td>100%
+</td></tr>
+<tr>
+<td rowspan="4">Select 1
+</td>
+<td><a href="system-page.html#White_Pollen">White Pollen</a>
+</td>
+<td>+10% - +15%<br/>Intervals of 1%
+</td>
+<td>25%
+</td></tr>
+<tr>
+<td><a href="system-page.html#Red_Pollen">Red Pollen</a>
+</td>
+<td>+10% - +15%<br/>Intervals of 1%
+</td>
+<td>25%
+</td></tr>
+<tr>
+<td><a href="system-page.html#Blue_Pollen">Blue Pollen</a>
+</td>
+<td>+10% - +15%<br/>Intervals of 1%
+</td>
+<td>25%
+</td></tr>
+<tr>
+<td><a href="system-page.html#Pollen">Pollen</a>
+</td>
+<td>+1% - +2%<br/>Intervals of 1%
+</td>
+<td>25%
+</td></tr>
+<tr>
+<td rowspan="4">Select 1
+</td>
+<td><a href="system-page.html#Bubble_Pollen">Bubble Pollen</a>
+</td>
+<td>+10% - +15%<br/>Intervals of 1%
+</td>
+<td>25%
+</td></tr>
+<tr>
+<td><a href="system-page.html#Flame_Pollen">Flame Pollen</a>
+</td>
+<td>+10% - +15%<br/>Intervals of 1%
+</td>
+<td>25%
+</td></tr>
+<tr>
+<td><a href="system-page.html#Bee_Gather_Pollen">Bee Gather Pollen</a>
+</td>
+<td>+10% - +15%<br/>Intervals of 1%
+</td>
+<td>25%
+</td></tr>
+<tr>
+<td><a href="system-page.html#Event_Bee_Ability_Pollen">Event Bee Ability Pollen</a>
+</td>
+<td>+6% - +10%<br/>Intervals of 1%
+</td>
+<td>25%
+</td></tr>
+<tr>
+<td rowspan="3">Select 1
+</td>
+<td><a href="system-page.html#Instant_White_Conversion">Instant White Conversion</a>
+</td>
+<td>+2% - +3%<br/>Intervals of 1%
+</td>
+<td>33.3333%
+</td></tr>
+<tr>
+<td><a href="system-page.html#Instant_Red_Conversion">Instant Red Conversion</a>
+</td>
+<td>+2% - +3%<br/>Intervals of 1%
+</td>
+<td>33.3333%
+</td></tr>
+<tr>
+<td><a href="system-page.html#Instant_Blue_Conversion">Instant Blue Conversion</a>
+</td>
+<td>+2% - +3%<br/>Intervals of 1%
+</td>
+<td>33.3333%
+</td></tr></tbody></table>
+
+**Chance breakdown**
 
 
 *Note that the precise percentages may be off due to floating point errors.*  
@@ -78371,6 +78596,136 @@ The tables below give the percentage of a certain stat having a specific strengt
 ///
 
 /// tab | Gold <span class="tier-suffix">Cog Amulet</span>
+
+**What it can roll**
+
+<table class="article-table">
+<tbody><tr>
+<th>Number of stats taken
+</th>
+<th>Stat
+</th>
+<th>Range
+</th>
+<th>Probability of being selected
+</th></tr>
+<tr>
+<td>Guaranteed
+</td>
+<td><a href="system-page.html#Capacity_Multiplier">Capacity</a>
+</td>
+<td>+90,000 - +110,000<br/>Intervals of 1,000
+</td>
+<td>100%
+</td></tr>
+<tr>
+<td rowspan="2">Select 1
+</td>
+<td><a href="system-page.html#Attack_Multiplier">Bee Attack</a>
+</td>
+<td>+8% - +10%<br/>Intervals of 1%<br/>Low values more likely (bias 3:1)
+</td>
+<td>50%
+</td></tr>
+<tr>
+<td>Red/Colorless/Blue <a href="system-page.html#Bee_Attack"> Bee Attack</a>
+</td>
+<td>+1 (one random colour)
+</td>
+<td>50%
+</td></tr>
+<tr>
+<td rowspan="4">Select 1
+</td>
+<td><a href="system-page.html#White_Pollen">White Pollen</a>
+</td>
+<td>+15% - +20%<br/>Intervals of 1%
+</td>
+<td>25%
+</td></tr>
+<tr>
+<td><a href="system-page.html#Red_Pollen">Red Pollen</a>
+</td>
+<td>+15% - +20%<br/>Intervals of 1%
+</td>
+<td>25%
+</td></tr>
+<tr>
+<td><a href="system-page.html#Blue_Pollen">Blue Pollen</a>
+</td>
+<td>+15% - +20%<br/>Intervals of 1%
+</td>
+<td>25%
+</td></tr>
+<tr>
+<td><a href="system-page.html#Pollen">Pollen</a>
+</td>
+<td>+2% - +3%<br/>Intervals of 1%
+</td>
+<td>25%
+</td></tr>
+<tr>
+<td rowspan="5">Select 1
+</td>
+<td><a href="system-page.html#Bubble_Pollen">Bubble Pollen</a>
+</td>
+<td>+15% - +20%<br/>Intervals of 1%
+</td>
+<td>20%
+</td></tr>
+<tr>
+<td><a href="system-page.html#Flame_Pollen">Flame Pollen</a>
+</td>
+<td>+15% - +20%<br/>Intervals of 1%
+</td>
+<td>20%
+</td></tr>
+<tr>
+<td><a href="system-page.html#Bee_Gather_Pollen">Bee Gather Pollen</a>
+</td>
+<td>+15% - +20%<br/>Intervals of 1%
+</td>
+<td>20%
+</td></tr>
+<tr>
+<td><a href="system-page.html#Mark_Ability_Pollen">Mark Ability Pollen</a>
+</td>
+<td>+8% - +10%<br/>Intervals of 1%
+</td>
+<td>20%
+</td></tr>
+<tr>
+<td><a href="system-page.html#Event_Bee_Ability_Pollen">Event Bee Ability Pollen</a>
+</td>
+<td>+8% - +10%<br/>Intervals of 1%
+</td>
+<td>20%
+</td></tr>
+<tr>
+<td rowspan="3">Select 1
+</td>
+<td><a href="system-page.html#Instant_White_Conversion">Instant White Conversion</a>
+</td>
+<td>+3% - +4%<br/>Intervals of 1%
+</td>
+<td>33.3333%
+</td></tr>
+<tr>
+<td><a href="system-page.html#Instant_Red_Conversion">Instant Red Conversion</a>
+</td>
+<td>+3% - +4%<br/>Intervals of 1%
+</td>
+<td>33.3333%
+</td></tr>
+<tr>
+<td><a href="system-page.html#Instant_Blue_Conversion">Instant Blue Conversion</a>
+</td>
+<td>+3% - +4%<br/>Intervals of 1%
+</td>
+<td>33.3333%
+</td></tr></tbody></table>
+
+**Chance breakdown**
 
 
 *Note that the precise percentages may be off due to floating point errors.*  
@@ -122513,12 +122868,332 @@ The tables below give the percentage of a certain stat having a specific strengt
 
 /// tab | Diamond <span class="tier-suffix">Cog Amulet</span>
 
+**What it can roll**
+
+<table class="article-table">
+<tbody><tr>
+<th>Number of stats taken
+</th>
+<th>Stat
+</th>
+<th>Range
+</th>
+<th>Probability of being selected
+</th></tr>
+<tr>
+<td>Guaranteed
+</td>
+<td><a href="system-page.html#Capacity_Multiplier">Capacity</a>
+</td>
+<td>+125,000 - +175,000<br/>Intervals of 2,500
+</td>
+<td>100%
+</td></tr>
+<tr>
+<td rowspan="2">Select 1
+</td>
+<td><a href="system-page.html#Attack_Multiplier">Bee Attack</a>
+</td>
+<td>+9% - +12%<br/>Intervals of 1%<br/>Low values more likely (bias 3:1)
+</td>
+<td>50%
+</td></tr>
+<tr>
+<td>Red/Colorless/Blue <a href="system-page.html#Bee_Attack"> Bee Attack</a>
+</td>
+<td>+1 (one random colour)
+</td>
+<td>50%
+</td></tr>
+<tr>
+<td rowspan="4">Select 1
+</td>
+<td><a href="system-page.html#White_Pollen">White Pollen</a>
+</td>
+<td>+20% - +25%<br/>Intervals of 1%
+</td>
+<td>25%
+</td></tr>
+<tr>
+<td><a href="system-page.html#Red_Pollen">Red Pollen</a>
+</td>
+<td>+20% - +25%<br/>Intervals of 1%
+</td>
+<td>25%
+</td></tr>
+<tr>
+<td><a href="system-page.html#Blue_Pollen">Blue Pollen</a>
+</td>
+<td>+20% - +25%<br/>Intervals of 1%
+</td>
+<td>25%
+</td></tr>
+<tr>
+<td><a href="system-page.html#Pollen">Pollen</a>
+</td>
+<td>+3% - +5%<br/>Intervals of 1%
+</td>
+<td>25%
+</td></tr>
+<tr>
+<td rowspan="5">Select 1
+</td>
+<td><a href="system-page.html#Bubble_Pollen">Bubble Pollen</a>
+</td>
+<td>+20% - +25%<br/>Intervals of 1%
+</td>
+<td>20%
+</td></tr>
+<tr>
+<td><a href="system-page.html#Flame_Pollen">Flame Pollen</a>
+</td>
+<td>+20% - +25%<br/>Intervals of 1%
+</td>
+<td>20%
+</td></tr>
+<tr>
+<td><a href="system-page.html#Bee_Gather_Pollen">Bee Gather Pollen</a>
+</td>
+<td>+20% - +25%<br/>Intervals of 1%
+</td>
+<td>20%
+</td></tr>
+<tr>
+<td><a href="system-page.html#Mark_Ability_Pollen">Mark Ability Pollen</a>
+</td>
+<td>+10% - +15%<br/>Intervals of 1%
+</td>
+<td>20%
+</td></tr>
+<tr>
+<td><a href="system-page.html#Event_Bee_Ability_Pollen">Event Bee Ability Pollen</a>
+</td>
+<td>+10% - +15%<br/>Intervals of 1%
+</td>
+<td>20%
+</td></tr>
+<tr>
+<td rowspan="4">Select 1
+</td>
+<td><a href="system-page.html#Super-Crit_Power">Super-Crit Power</a>
+</td>
+<td>+10% - +15%<br/>Intervals of 1%
+</td>
+<td>25%
+</td></tr>
+<tr>
+<td><a href="system-page.html#Honey_From_Tokens">Honey From Tokens</a>
+</td>
+<td>+25% - +50%<br/>Intervals of 1%
+</td>
+<td>25%
+</td></tr>
+<tr>
+<td><a href="nectar.html">Nectar</a>
+</td>
+<td>+5%
+</td>
+<td>25%
+</td></tr>
+<tr>
+<td><a href="ability-tokens.html#Ability_Token_Lifespan">Ability Token Lifespan</a>
+</td>
+<td>+5%
+</td>
+<td>25%
+</td></tr>
+<tr>
+<td rowspan="3">Select 1
+</td>
+<td><a href="system-page.html#Instant_White_Conversion">Instant White Conversion</a>
+</td>
+<td>+4% - +5%<br/>Intervals of 1%
+</td>
+<td>33.3333%
+</td></tr>
+<tr>
+<td><a href="system-page.html#Instant_Red_Conversion">Instant Red Conversion</a>
+</td>
+<td>+4% - +5%<br/>Intervals of 1%
+</td>
+<td>33.3333%
+</td></tr>
+<tr>
+<td><a href="system-page.html#Instant_Blue_Conversion">Instant Blue Conversion</a>
+</td>
+<td>+4% - +5%<br/>Intervals of 1%
+</td>
+<td>33.3333%
+</td></tr></tbody></table>
+
+**Chance breakdown**
+
 
 **The time allocated for running scripts has expired.**
 
 ///
 
 /// tab | Supreme <span class="tier-suffix">Cog Amulet</span>
+
+**What it can roll**
+
+<table class="article-table">
+<tbody><tr>
+<th>Number of stats taken
+</th>
+<th>Stat
+</th>
+<th>Range
+</th>
+<th>Probability of being selected
+</th></tr>
+<tr>
+<td>Guaranteed
+</td>
+<td><a href="system-page.html#Capacity_Multiplier">Capacity</a>
+</td>
+<td>+200,000 - +250,000<br/>Intervals of 5,000
+</td>
+<td>100%
+</td></tr>
+<tr>
+<td rowspan="2">Select 1
+</td>
+<td><a href="system-page.html#Attack_Multiplier">Bee Attack</a>
+</td>
+<td>+10% - +15%<br/>Intervals of 1%<br/>Low values more likely (bias 3:1)
+</td>
+<td>50%
+</td></tr>
+<tr>
+<td>Red/Colorless/Blue <a href="system-page.html#Bee_Attack"> Bee Attack</a>
+</td>
+<td>+1 - +2 (one random colour)<br/>Intervals of 1
+</td>
+<td>50%
+</td></tr>
+<tr>
+<td rowspan="4">Select 1
+</td>
+<td><a href="system-page.html#White_Pollen">White Pollen</a>
+</td>
+<td>+25% - +30%<br/>Intervals of 1%
+</td>
+<td>25%
+</td></tr>
+<tr>
+<td><a href="system-page.html#Red_Pollen">Red Pollen</a>
+</td>
+<td>+25% - +30%<br/>Intervals of 1%
+</td>
+<td>25%
+</td></tr>
+<tr>
+<td><a href="system-page.html#Blue_Pollen">Blue Pollen</a>
+</td>
+<td>+25% - +30%<br/>Intervals of 1%
+</td>
+<td>25%
+</td></tr>
+<tr>
+<td><a href="system-page.html#Pollen">Pollen</a>
+</td>
+<td>+6% - +10%<br/>Intervals of 1%
+</td>
+<td>25%
+</td></tr>
+<tr>
+<td rowspan="5">Select 1
+</td>
+<td><a href="system-page.html#Bubble_Pollen">Bubble Pollen</a>
+</td>
+<td>+25% - +30%<br/>Intervals of 1%
+</td>
+<td>20%
+</td></tr>
+<tr>
+<td><a href="system-page.html#Flame_Pollen">Flame Pollen</a>
+</td>
+<td>+25% - +30%<br/>Intervals of 1%
+</td>
+<td>20%
+</td></tr>
+<tr>
+<td><a href="system-page.html#Bee_Gather_Pollen">Bee Gather Pollen</a>
+</td>
+<td>+25% - +30%<br/>Intervals of 1%
+</td>
+<td>20%
+</td></tr>
+<tr>
+<td><a href="system-page.html#Mark_Ability_Pollen">Mark Ability Pollen</a>
+</td>
+<td>+15% - +20%<br/>Intervals of 1%
+</td>
+<td>20%
+</td></tr>
+<tr>
+<td><a href="system-page.html#Event_Bee_Ability_Pollen">Event Bee Ability Pollen</a>
+</td>
+<td>+15% - +20%<br/>Intervals of 1%
+</td>
+<td>20%
+</td></tr>
+<tr>
+<td rowspan="4">Select 1
+</td>
+<td><a href="system-page.html#Super-Crit_Power">Super-Crit Power</a>
+</td>
+<td>+15% - +25%<br/>Intervals of 1%
+</td>
+<td>25%
+</td></tr>
+<tr>
+<td><a href="system-page.html#Honey_From_Tokens">Honey From Tokens</a>
+</td>
+<td>+50% - +75%<br/>Intervals of 1%
+</td>
+<td>25%
+</td></tr>
+<tr>
+<td><a href="nectar.html">Nectar</a>
+</td>
+<td>+5%
+</td>
+<td>25%
+</td></tr>
+<tr>
+<td><a href="ability-tokens.html#Ability_Token_Lifespan">Ability Token Lifespan</a>
+</td>
+<td>+5% - +10%<br/>Intervals of 1%
+</td>
+<td>25%
+</td></tr>
+<tr>
+<td rowspan="3">Select 1
+</td>
+<td><a href="system-page.html#Instant_White_Conversion">Instant White Conversion</a>
+</td>
+<td>+4% - +5%<br/>Intervals of 1%
+</td>
+<td>33.3333%
+</td></tr>
+<tr>
+<td><a href="system-page.html#Instant_Red_Conversion">Instant Red Conversion</a>
+</td>
+<td>+4% - +5%<br/>Intervals of 1%
+</td>
+<td>33.3333%
+</td></tr>
+<tr>
+<td><a href="system-page.html#Instant_Blue_Conversion">Instant Blue Conversion</a>
+</td>
+<td>+4% - +5%<br/>Intervals of 1%
+</td>
+<td>33.3333%
+</td></tr></tbody></table>
+
+**Chance breakdown**
 
 
 **The time allocated for running scripts has expired.**
