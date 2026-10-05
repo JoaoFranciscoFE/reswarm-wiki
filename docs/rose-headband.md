@@ -758,7 +758,6 @@ The **Rose Headband** is a [level](bond.md) 13 [Beequip](beequip.md). It has an 
 ## Ways to obtain
 
 * Can be purchased from [Dapper Bear's Beequip Shop.](dapper-bear-s-shop.md)
-* As a very rare drop from the [Red Clay Planter](red-clay-planter.md).
 
 <table class="mw-collapsible autocollapse" style="margin:auto; background:#000; font-size: 10pt; border:5px solid #56CB5A; width: 100%; border-radius: 20px; -moz-border-radius: 20px; -webkit-border-radius: 20px; -khtml-border-radius: 20px; -icab-border-radius: 20px; -o-border-radius: 20px;">
 <tbody><tr>

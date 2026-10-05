@@ -493,7 +493,6 @@ A **Beret** is a [level](bond.md) 11 [Beequip](beequip.md). It has an equip limi
 * Small chance of dropping from [Blue Clay Planter](blue-clay-planter.md) and [The Planter Of Plenty](the-planter-of-plenty.md).
 * Can be purchased from [Dapper Bear's Shop](dapper-bear-s-shop.md).
 * Completing [Gifted Bucko Bee](gifted-bucko-bee.md)'s 2025 Beesmas quest.
-* Giving Dapper Bear a [Present](present.md) during Beesmas 2025.
 
 <table class="mw-collapsible autocollapse" style="margin:auto; background:#000; font-size: 10pt; border:5px solid #56CB5A; width: 100%; border-radius: 20px; -moz-border-radius: 20px; -webkit-border-radius: 20px; -khtml-border-radius: 20px; -icab-border-radius: 20px; -o-border-radius: 20px;">
 <tbody><tr>

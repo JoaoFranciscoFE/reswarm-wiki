@@ -440,7 +440,6 @@ The **Whistle** is a [level](bond.md) 8 [Beequip](beequip.md). It has an equip l
 ## Ways to Obtain
 
 * Can be a product available for purchase in [Dapper Bear's Shop](dapper-bear-s-shop.md).
-* As an exceptionally rare drop from harvesting the [Plastic Planter](plastic-planter.md).
 * As a very rare drop from harvesting [Pesticide Planter](pesticide-planter.md)
 * As a very rare drop from harvesting [The Planter Of Plenty](the-planter-of-plenty.md).
 * As a reward from [Robo Bear Challenge](robo-bear-challenge.md).

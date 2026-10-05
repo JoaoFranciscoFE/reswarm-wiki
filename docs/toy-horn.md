@@ -1,16 +1,9 @@
 ---
 title: "Toy Horn"
-tags: ["Unobtainable", "Inventory", "Items", "Beequips", "Beesmas"]
+tags: ["Inventory", "Items", "Beequips", "Beesmas"]
 ---
 
 # Toy Horn
-
-<table style="color: #fff; background-color:#1c68355c; margin: 10px auto; border: 2px solid #ffffffd9; border-left: 15px solid #ffffffd9; border-radius: 5px">
-<tbody><tr>
-<td style="padding-left: 10px; width: 100px; font-size: 2vh; vertical-align: middle;"><span typeof="mw:Error mw:File"></span>
-</td>
-<td style="padding: 0.25em 0.5em;"><div style="display: flex; flex-direction: column; height: 100%; padding-right: 15px;"><b>This piece of content is unobtainable or inaccessible.</b><p style="margin: 0; color: #dbdbdb; font-size:1.5vh;">This content can no longer be obtained or accessed but still exists in the game. This content may still be subject to updates, so feel free to edit below.</p></div>
-</td></tr></tbody></table>
 
 <table class="infobox beequipTemplateDefault">
 <tbody><tr>
@@ -484,14 +477,16 @@ A **Toy Horn** is a [level](bond.md) 9 Beesmas [beequip](beequip.md). It has an 
 
 ## Ways to Obtain
 
-**There are currently no ways to obtain a **The time allocated for running scripts has expired.** without trading.**
+* As a rare drop from [Onett's Lid Art](onett-s-lid-art.md).
+* As a reward for reaching Rebirth 23 and Rebirth 28.
 
 ## Trivia
 
 * This is one of three instrumental Beequips.
-  * The other two are **The time allocated for running scripts has expired.** and **The time allocated for running scripts has expired.**.
+  * The other two are [Kazoo](kazoo.md) and [Toy Drum](toy-drum.md).
 * This is one of eight Beequips to give a negative stat.
-  * The other seven are **The time allocated for running scripts has expired.**, **The time allocated for running scripts has expired.**, **The time allocated for running scripts has expired.**, **The time allocated for running scripts has expired.**, [Pink Eraser](pink-eraser.md), [Demon Talisman](demon-talisman.md), and **The time allocated for running scripts has expired.**.
+  * The other seven are [Kazoo](kazoo.md), [Whistle](whistle.md), [Beesmas Top](beesmas-top.md), [Toy Drum](toy-drum.md), [Pink Eraser](pink-eraser.md), [Demon Talisman](demon-talisman.md), and [Lump Of Coal](lump-of-coal.md).
+* Its internal name in the game is Horn Ornament.
 
 <table class="mw-collapsible autocollapse" style="margin:auto; background:#000; font-size: 10pt; border:5px solid #56CB5A; width: 100%; border-radius: 20px; -moz-border-radius: 20px; -webkit-border-radius: 20px; -khtml-border-radius: 20px; -icab-border-radius: 20px; -o-border-radius: 20px;">
 <tbody><tr>

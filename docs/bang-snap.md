@@ -417,6 +417,7 @@ The **Bang Snap** is a [level](bond.md) 10 [beequip](beequip.md). It has an equi
 * As a very rare drop from [Pesticide Planter](pesticide-planter.md).
 * Buying it in [Dapper Bear's Shop](dapper-bear-s-shop.md).
 * As a reward from the [Robo Bear Challenge](robo-bear-challenge.md).
+* As a reward from a 2025 Beesmas quest.
 
 <table class="mw-collapsible autocollapse" style="margin:auto; background:#000; font-size: 10pt; border:5px solid #56CB5A; width: 100%; border-radius: 20px; -moz-border-radius: 20px; -webkit-border-radius: 20px; -khtml-border-radius: 20px; -icab-border-radius: 20px; -o-border-radius: 20px;">
 <tbody><tr>

@@ -1,18 +1,11 @@
 ---
 title: "Poinsettia"
-tags: ["Unobtainable", "Inventory", "Items", "Beequips", "Beesmas"]
+tags: ["Inventory", "Items", "Beequips", "Beesmas"]
 ---
 
 # Poinsettia
 
 ![Poinsettia](img/Poinsettia.png){ align=right width=150 }
-
-<table style="color: #fff; background-color:#1c68355c; margin: 10px auto; border: 2px solid #ffffffd9; border-left: 15px solid #ffffffd9; border-radius: 5px">
-<tbody><tr>
-<td style="padding-left: 10px; width: 100px; font-size: 2vh; vertical-align: middle;"><span typeof="mw:Error mw:File"></span>
-</td>
-<td style="padding: 0.25em 0.5em;"><div style="display: flex; flex-direction: column; height: 100%; padding-right: 15px;"><b>This piece of content is unobtainable or inaccessible.</b><p style="margin: 0; color: #dbdbdb; font-size:1.5vh;">This content can no longer be obtained or accessed but still exists in the game. This content may still be subject to updates, so feel free to edit below.</p></div>
-</td></tr></tbody></table>
 
 <table class="infobox beequipTemplateDefault">
 <tbody><tr>
@@ -413,6 +406,9 @@ A **Poinsettia** is a [level](bond.md) 6 Beesmas [beequip](beequip.md). It has a
 </td></tr></tbody></table>
 
 ## Ways To Obtain
+
+* In the Poinsettia Bundle from [Bee Bear's Catalog 2025](bee-bear-s-catalog-2025.md), bought with Gingerbread Bears.
+* As a reward from the [Ant Challenge](ant-challenge.md).
 
 ## Trivia
 
