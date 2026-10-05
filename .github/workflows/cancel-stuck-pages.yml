@@ -1,0 +1,16 @@
+name: Cancel stuck Pages deploy
+on:
+  workflow_dispatch:
+    inputs:
+      deployment:
+        description: Stuck deployment id (from the "Please cancel ..." error)
+        default: 9957bbadc47007a5ce749bd1200693dc83a6b26b
+permissions:
+  pages: write
+jobs:
+  cancel:
+    runs-on: ubuntu-latest
+    steps:
+      - run: gh api -X POST "repos/${{ github.repository }}/pages/deployments/${{ inputs.deployment }}/cancel"
+        env:
+          GH_TOKEN: ${{ github.token }}
