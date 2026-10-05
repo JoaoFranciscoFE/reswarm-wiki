@@ -37,7 +37,7 @@ As of the time of writing, during every Beesmas since 2021, Dapper Bear's [Samov
 <th>Description
 </th></tr>
 <tr>
-<td><figure class="mw-halign-center" typeof="mw:Error mw:File"><figcaption></figcaption></figure><div style="text-align: center;"><a href="plastic-planter.html"><span class="color-template color-template-plastic-planter color-template-background-clip">Plastic Planter</span></a></div>
+<td><figure class="mw-halign-center"><img alt="Plastic Planter" src="img/Plastic_Planter.png" width="60"/></figure><div style="text-align: center;"><a href="plastic-planter.html"><span class="color-template color-template-plastic-planter color-template-background-clip">Plastic Planter</span></a></div>
 </td>
 <td><img alt="Honey" height="25" src="img/Honey.png" width="25"/>750,000 <a href="honey.html"><span class="color-template color-template-honey">Honey</span></a><br/>
 <p><img alt="Magic Bean" height="25" src="img/Magic_Bean.png" width="25"/>3 <a href="magic-bean.html"><span class="color-template color-template-magic-bean color-template-background-clip">Magic Beans</span></a><br/>
@@ -47,7 +47,7 @@ As of the time of writing, during every Beesmas since 2021, Dapper Bear's [Samov
 <td>A reusable planter that grows in about 2 hours. Stores around 250k Pollen. Harvest to collect random items and Nectar boosts!
 </td></tr>
 <tr>
-<td><figure class="mw-halign-center" typeof="mw:Error mw:File"><figcaption></figcaption></figure><div style="text-align: center;"><a href="candy-planter.html"><span class="color-template color-template-candy-planter color-template-background-clip">Candy Planter</span></a></div>
+<td><figure class="mw-halign-center"><img alt="Candy Planter" src="img/Candy_Planter.png" width="60"/></figure><div style="text-align: center;"><a href="candy-planter.html"><span class="color-template color-template-candy-planter color-template-background-clip">Candy Planter</span></a></div>
 </td>
 <td><img alt="Honey" height="25" src="img/Honey.png" width="25"/>5,000,000 <a href="honey.html"><span class="color-template color-template-honey">Honey</span></a><br/>
 <p><img alt="Magic Bean" height="25" src="img/Magic_Bean.png" width="25"/>5 <a href="magic-bean.html"><span class="color-template color-template-magic-bean color-template-background-clip">Magic Beans</span></a><br/>
@@ -64,7 +64,7 @@ As of the time of writing, during every Beesmas since 2021, Dapper Bear's [Samov
 <li>Grants +20% Motivating Nectar</li></ul>
 </td></tr>
 <tr>
-<td><figure class="mw-halign-center" typeof="mw:Error mw:File"><figcaption></figcaption></figure><div style="text-align: center;"><a href="tacky-planter.html"><span class="color-template color-template-tacky-planter color-template-background-clip">Tacky Planter</span></a></div>
+<td><figure class="mw-halign-center"><img alt="Tacky Planter" src="img/Tacky_Planter.png" width="60"/></figure><div style="text-align: center;"><a href="tacky-planter.html"><span class="color-template color-template-tacky-planter color-template-background-clip">Tacky Planter</span></a></div>
 </td>
 <td><img alt="Honey" height="25" src="img/Honey.png" width="25"/>50,000,000 <a href="honey.html"><span class="color-template color-template-honey">Honey</span></a><br/>
 <p><img alt="Magic Bean" height="25" src="img/Magic_Bean.png" width="25"/>10 <a href="magic-bean.html"><span class="color-template color-template-magic-bean color-template-background-clip">Magic Beans</span></a><br/>
@@ -78,7 +78,7 @@ As of the time of writing, during every Beesmas since 2021, Dapper Bear's [Samov
 <li>Grants +25% Satisfying and Comforting Nectar</li></ul>
 </td></tr>
 <tr>
-<td><figure class="mw-halign-center" typeof="mw:Error mw:File"><figcaption></figcaption></figure><div style="text-align: center;"><a href="pesticide-planter.html"><span class="color-template color-template-pesticide-planter color-template-background-clip">Pesticide Planter</span></a></div>
+<td><figure class="mw-halign-center"><img alt="Pesticide Planter" src="img/Pesticide_Planter.png" width="60"/></figure><div style="text-align: center;"><a href="pesticide-planter.html"><span class="color-template color-template-pesticide-planter color-template-background-clip">Pesticide Planter</span></a></div>
 </td>
 <td><img alt="Honey" height="25" src="img/Honey.png" width="25"/>750,000,000 <a href="honey.html"><span class="color-template color-template-honey">Honey</span></a><br/>
 <p><img alt="Magic Bean" height="25" src="img/Magic_Bean.png" width="25"/>25 <a href="magic-bean.html"><span class="color-template color-template-magic-bean color-template-background-clip">Magic Beans</span></a><br/>
@@ -94,10 +94,10 @@ As of the time of writing, during every Beesmas since 2021, Dapper Bear's [Samov
 <li>Grants +30% Satisfying and Motivating Nectar</li></ul>
 </td></tr>
 <tr>
-<td><figure class="mw-halign-center" typeof="mw:Error mw:File"><figcaption></figcaption></figure><br/>
+<td><figure class="mw-halign-center"><img alt="The Planter Of Plenty" src="img/The_Planter_Of_Plenty.png" width="60"/></figure><br/>
 <div style="text-align: center;"><a href="the-planter-of-plenty.html"><span class="color-template color-template-the-planter-of-plenty color-template-background-clip">The Planter Of Plenty</span></a></div>
 </td>
-<td><span typeof="mw:Error mw:File"></span><span style="border-bottom:1px dotted;" title="100,000,000,000,000">100T</span> <a href="honey.html"><span class="color-template color-template-honey">Honey</span></a><br/>
+<td><img alt="Honey" height="25" src="img/Honey.png" width="25"/><span style="border-bottom:1px dotted;" title="100,000,000,000,000">100T</span> <a href="honey.html"><span class="color-template color-template-honey">Honey</span></a><br/>
 <p><img alt="Magic Bean" height="25" src="img/Magic_Bean.png" width="25"/>500 <a href="magic-bean.html"><span class="color-template color-template-magic-bean color-template-background-clip">Magic Beans</span></a><br/>
 <img alt="Super Smoothie" height="25" src="img/Super_Smoothie.png" width="25"/>100 <a href="super-smoothie.html"><span class="color-template color-template-super-smoothie color-template-background-clip">Super Smoothies</span></a><br/>
 <img alt="Swirled Wax" height="25" src="img/Swirled_Wax.png" width="25"/>100 <a href="swirled-wax.html"><span class="color-template color-template-swirled-wax color-template-background-clip">Swirled Waxes</span></a><br/>
@@ -155,260 +155,260 @@ Show/hide table
 <th>Slots Available
 </th></tr>
 <tr>
-<td><figure class="mw-halign-center" typeof="mw:Error mw:File"><figcaption></figcaption></figure><div style="text-align: center;"><a href="autumn-sunhat.html"><span class="color-template color-template-autumn-sunhat color-template-background-clip">Autumn Sunhat</span></a></div>
+<td><figure class="mw-halign-center"><img alt="Autumn Sunhat" src="img/Autumn_Sunhat.png" width="60"/></figure><div style="text-align: center;"><a href="autumn-sunhat.html"><span class="color-template color-template-autumn-sunhat color-template-background-clip">Autumn Sunhat</span></a></div>
 </td>
-<td><span typeof="mw:Error mw:File"></span><span style="border-bottom:1px dotted;" title="10,000,000,000">10B</span> <a href="honey.html"><span class="color-template color-template-honey">Honey</span></a><br/>
+<td><img alt="Honey" height="25" src="img/Honey.png" width="25"/><span style="border-bottom:1px dotted;" title="10,000,000,000">10B</span> <a href="honey.html"><span class="color-template color-template-honey">Honey</span></a><br/>
 <p><img alt="Ticket" height="25" src="img/Ticket.png" width="25"/>75 <a href="ticket.html"><span class="color-template color-template-ticket color-template-background-clip">Tickets</span></a>
 </p>
 </td>
-<td><span typeof="mw:Error mw:File"></span><span style="border-bottom:1px dotted;" title="10,000,000,000,000">10T</span> <a href="honey.html"><span class="color-template color-template-honey">Honey</span></a><br/>
+<td><img alt="Honey" height="25" src="img/Honey.png" width="25"/><span style="border-bottom:1px dotted;" title="10,000,000,000,000">10T</span> <a href="honey.html"><span class="color-template color-template-honey">Honey</span></a><br/>
 <p><img alt="Ticket" height="25" src="img/Ticket.png" width="25"/>150 <a href="ticket.html"><span class="color-template color-template-ticket color-template-background-clip">Tickets</span></a>
 </p>
 </td>
 <td>3, 4, 5, 6
 </td></tr>
 <tr>
-<td><figure class="mw-halign-center" typeof="mw:Error mw:File"><figcaption></figcaption></figure><div style="text-align: center;"><a href="bandage.html"><span class="color-template color-template-bandage color-template-background-clip">Bandage</span></a></div>
+<td><figure class="mw-halign-center"><img alt="Bandage" src="img/Bandage.png" width="60"/></figure><div style="text-align: center;"><a href="bandage.html"><span class="color-template color-template-bandage color-template-background-clip">Bandage</span></a></div>
 </td>
-<td><span typeof="mw:Error mw:File"></span><span style="border-bottom:1px dotted;" title="250,000">250K</span> <a href="honey.html"><span class="color-template color-template-honey">Honey</span></a><br/>
+<td><img alt="Honey" height="25" src="img/Honey.png" width="25"/><span style="border-bottom:1px dotted;" title="250,000">250K</span> <a href="honey.html"><span class="color-template color-template-honey">Honey</span></a><br/>
 <p><img alt="Ticket" height="25" src="img/Ticket.png" width="25"/>5 <a href="ticket.html"><span class="color-template color-template-ticket color-template-background-clip">Tickets</span></a>
 </p>
 </td>
-<td><span typeof="mw:Error mw:File"></span><span style="border-bottom:1px dotted;" title="20,000,000">20M</span> <a href="honey.html"><span class="color-template color-template-honey">Honey</span></a><br/>
+<td><img alt="Honey" height="25" src="img/Honey.png" width="25"/><span style="border-bottom:1px dotted;" title="20,000,000">20M</span> <a href="honey.html"><span class="color-template color-template-honey">Honey</span></a><br/>
 <p><img alt="Ticket" height="25" src="img/Ticket.png" width="25"/>15 <a href="ticket.html"><span class="color-template color-template-ticket color-template-background-clip">Tickets</span></a>
 </p>
 </td>
 <td>1, 2, 3, 4
 </td></tr>
 <tr>
-<td><figure class="mw-halign-center" typeof="mw:Error mw:File"><figcaption></figcaption></figure><div style="text-align: center;"><a href="bang-snap.html"><span class="color-template color-template-bang-snap color-template-background-clip">Bang Snap</span></a></div>
+<td><figure class="mw-halign-center"><img alt="Bang Snap" src="img/Bang_Snap.png" width="60"/></figure><div style="text-align: center;"><a href="bang-snap.html"><span class="color-template color-template-bang-snap color-template-background-clip">Bang Snap</span></a></div>
 </td>
-<td><span typeof="mw:Error mw:File"></span><span style="border-bottom:1px dotted;" title="100,000,000">100M</span> <a href="honey.html"><span class="color-template color-template-honey">Honey</span></a><br/>
-<p><span typeof="mw:Error mw:File"></span>Unknown <a href="ticket.html"><span class="color-template color-template-ticket color-template-background-clip">Tickets</span></a>
+<td><img alt="Honey" height="25" src="img/Honey.png" width="25"/><span style="border-bottom:1px dotted;" title="100,000,000">100M</span> <a href="honey.html"><span class="color-template color-template-honey">Honey</span></a><br/>
+<p><img alt="Ticket" height="25" src="img/Ticket.png" width="25"/>Unknown <a href="ticket.html"><span class="color-template color-template-ticket color-template-background-clip">Tickets</span></a>
 </p>
 </td>
-<td><span typeof="mw:Error mw:File"></span><span style="border-bottom:1px dotted;" title="100,000,000,000">100B</span> <a href="honey.html"><span class="color-template color-template-honey">Honey</span></a><br/>
+<td><img alt="Honey" height="25" src="img/Honey.png" width="25"/><span style="border-bottom:1px dotted;" title="100,000,000,000">100B</span> <a href="honey.html"><span class="color-template color-template-honey">Honey</span></a><br/>
 <p><img alt="Ticket" height="25" src="img/Ticket.png" width="25"/>100 <a href="ticket.html"><span class="color-template color-template-ticket color-template-background-clip">Tickets</span></a>
 </p>
 </td>
 <td>5, 6
 </td></tr>
 <tr>
-<td><figure class="mw-halign-center" typeof="mw:Error mw:File"><figcaption></figcaption></figure><div style="text-align: center;"><a href="bead-lizard.html"><span class="color-template color-template-bead-lizard color-template-background-clip">Bead Lizard</span></a></div>
+<td><figure class="mw-halign-center"><img alt="Bead Lizard" src="img/Bead_Lizard.png" width="60"/></figure><div style="text-align: center;"><a href="bead-lizard.html"><span class="color-template color-template-bead-lizard color-template-background-clip">Bead Lizard</span></a></div>
 </td>
-<td><span typeof="mw:Error mw:File"></span><span style="border-bottom:1px dotted;" title="50,000,000">50M</span> <a href="honey.html"><span class="color-template color-template-honey">Honey</span></a><br/>
+<td><img alt="Honey" height="25" src="img/Honey.png" width="25"/><span style="border-bottom:1px dotted;" title="50,000,000">50M</span> <a href="honey.html"><span class="color-template color-template-honey">Honey</span></a><br/>
 <p><img alt="Ticket" height="25" src="img/Ticket.png" width="25"/>25 <a href="ticket.html"><span class="color-template color-template-ticket color-template-background-clip">Tickets</span></a>
 </p>
 </td>
-<td><span typeof="mw:Error mw:File"></span><span style="border-bottom:1px dotted;" title="50,000,000,000">50B</span> <a href="honey.html"><span class="color-template color-template-honey">Honey</span></a><br/>
+<td><img alt="Honey" height="25" src="img/Honey.png" width="25"/><span style="border-bottom:1px dotted;" title="50,000,000,000">50B</span> <a href="honey.html"><span class="color-template color-template-honey">Honey</span></a><br/>
 <p><img alt="Ticket" height="25" src="img/Ticket.png" width="25"/>70 <a href="ticket.html"><span class="color-template color-template-ticket color-template-background-clip">Tickets</span></a>
 </p>
 </td>
 <td>5, 6
 </td></tr>
 <tr>
-<td><figure class="mw-halign-center" typeof="mw:Error mw:File"><figcaption></figcaption></figure><div style="text-align: center;"><a href="beret.html"><span class="color-template color-template-beret color-template-background-clip">Beret</span></a></div>
+<td><figure class="mw-halign-center"><img alt="Beret" src="img/Beret.png" width="60"/></figure><div style="text-align: center;"><a href="beret.html"><span class="color-template color-template-beret color-template-background-clip">Beret</span></a></div>
 </td>
-<td><span typeof="mw:Error mw:File"></span><span style="border-bottom:1px dotted;" title="100,000,000">100M</span> <a href="honey.html"><span class="color-template color-template-honey">Honey</span></a><br/>
-<p><span typeof="mw:Error mw:File"></span>Unknown <a href="ticket.html"><span class="color-template color-template-ticket color-template-background-clip">Tickets</span></a>
+<td><img alt="Honey" height="25" src="img/Honey.png" width="25"/><span style="border-bottom:1px dotted;" title="100,000,000">100M</span> <a href="honey.html"><span class="color-template color-template-honey">Honey</span></a><br/>
+<p><img alt="Ticket" height="25" src="img/Ticket.png" width="25"/>Unknown <a href="ticket.html"><span class="color-template color-template-ticket color-template-background-clip">Tickets</span></a>
 </p>
 </td>
-<td><span typeof="mw:Error mw:File"></span><span style="border-bottom:1px dotted;" title="100,000,000,000">100B</span> <a href="honey.html"><span class="color-template color-template-honey">Honey</span></a><br/>
+<td><img alt="Honey" height="25" src="img/Honey.png" width="25"/><span style="border-bottom:1px dotted;" title="100,000,000,000">100B</span> <a href="honey.html"><span class="color-template color-template-honey">Honey</span></a><br/>
 <p><img alt="Ticket" height="25" src="img/Ticket.png" width="25"/>75 <a href="ticket.html"><span class="color-template color-template-ticket color-template-background-clip">Tickets</span></a>
 </p>
 </td>
 <td>5, 6
 </td></tr>
 <tr>
-<td><figure class="mw-halign-center" typeof="mw:Error mw:File"><figcaption></figcaption></figure><div style="text-align: center;"><a href="bottle-cap.html"><span class="color-template color-template-bottle-cap color-template-background-clip">Bottle Cap</span></a></div>
+<td><figure class="mw-halign-center"><img alt="Bottle Cap" src="img/Bottle_Cap.png" width="60"/></figure><div style="text-align: center;"><a href="bottle-cap.html"><span class="color-template color-template-bottle-cap color-template-background-clip">Bottle Cap</span></a></div>
 </td>
-<td><span typeof="mw:Error mw:File"></span><span style="border-bottom:1px dotted;" title="2,500,000">2.5M</span> <a href="honey.html"><span class="color-template color-template-honey">Honey</span></a><br/>
+<td><img alt="Honey" height="25" src="img/Honey.png" width="25"/><span style="border-bottom:1px dotted;" title="2,500,000">2.5M</span> <a href="honey.html"><span class="color-template color-template-honey">Honey</span></a><br/>
 <p><img alt="Ticket" height="25" src="img/Ticket.png" width="25"/>10 <a href="ticket.html"><span class="color-template color-template-ticket color-template-background-clip">Tickets</span></a>
 </p>
 </td>
-<td><span typeof="mw:Error mw:File"></span><span style="border-bottom:1px dotted;" title="2,500,000,000">2.5B</span> <a href="honey.html"><span class="color-template color-template-honey">Honey</span></a><br/>
+<td><img alt="Honey" height="25" src="img/Honey.png" width="25"/><span style="border-bottom:1px dotted;" title="2,500,000,000">2.5B</span> <a href="honey.html"><span class="color-template color-template-honey">Honey</span></a><br/>
 <p><img alt="Ticket" height="25" src="img/Ticket.png" width="25"/>25 <a href="ticket.html"><span class="color-template color-template-ticket color-template-background-clip">Tickets</span></a>
 </p>
 </td>
 <td>1, 2, 3, 4
 </td></tr>
 <tr>
-<td><figure class="mw-halign-center" typeof="mw:Error mw:File"><figcaption></figcaption></figure><div style="text-align: center;"><a href="camo-bandana.html"><span class="color-template color-template-camo-bandana color-template-background-clip">Camo Bandana</span></a></div>
+<td><figure class="mw-halign-center"><img alt="Camo Bandana" src="img/Camo_Bandana.png" width="60"/></figure><div style="text-align: center;"><a href="camo-bandana.html"><span class="color-template color-template-camo-bandana color-template-background-clip">Camo Bandana</span></a></div>
 </td>
-<td><span typeof="mw:Error mw:File"></span><span style="border-bottom:1px dotted;" title="10,000,000">10M</span> <a href="honey.html"><span class="color-template color-template-honey">Honey</span></a><br/>
+<td><img alt="Honey" height="25" src="img/Honey.png" width="25"/><span style="border-bottom:1px dotted;" title="10,000,000">10M</span> <a href="honey.html"><span class="color-template color-template-honey">Honey</span></a><br/>
 <p><img alt="Ticket" height="25" src="img/Ticket.png" width="25"/>15 <a href="ticket.html"><span class="color-template color-template-ticket color-template-background-clip">Tickets</span></a>
 </p>
 </td>
-<td><span typeof="mw:Error mw:File"></span><span style="border-bottom:1px dotted;" title="10,000,000,000">10B</span> <a href="honey.html"><span class="color-template color-template-honey">Honey</span></a><br/>
+<td><img alt="Honey" height="25" src="img/Honey.png" width="25"/><span style="border-bottom:1px dotted;" title="10,000,000,000">10B</span> <a href="honey.html"><span class="color-template color-template-honey">Honey</span></a><br/>
 <p><img alt="Ticket" height="25" src="img/Ticket.png" width="25"/>60 <a href="ticket.html"><span class="color-template color-template-ticket color-template-background-clip">Tickets</span></a>
 </p>
 </td>
 <td>3, 4, 5, 6
 </td></tr>
 <tr>
-<td><figure class="mw-halign-center" typeof="mw:Error mw:File"><figcaption></figcaption></figure><div style="text-align: center;"><a href="camphor-lip-balm.html"><span class="color-template color-template-camphor-lip-balm color-template-background-clip">Camphor Lip Balm</span></a></div>
+<td><figure class="mw-halign-center"><img alt="Camphor Lip Balm" src="img/Camphor_Lip_Balm.png" width="60"/></figure><div style="text-align: center;"><a href="camphor-lip-balm.html"><span class="color-template color-template-camphor-lip-balm color-template-background-clip">Camphor Lip Balm</span></a></div>
 </td>
-<td><span typeof="mw:Error mw:File"></span><span style="border-bottom:1px dotted;" title="400,000,000">400M</span> <a href="honey.html"><span class="color-template color-template-honey">Honey</span></a><br/>
+<td><img alt="Honey" height="25" src="img/Honey.png" width="25"/><span style="border-bottom:1px dotted;" title="400,000,000">400M</span> <a href="honey.html"><span class="color-template color-template-honey">Honey</span></a><br/>
 <p><img alt="Ticket" height="25" src="img/Ticket.png" width="25"/>25 <a href="ticket.html"><span class="color-template color-template-ticket color-template-background-clip">Tickets</span></a>
 </p>
 </td>
-<td><span typeof="mw:Error mw:File"></span><span style="border-bottom:1px dotted;" title="400,000,000,000">400B</span> <a href="honey.html"><span class="color-template color-template-honey">Honey</span></a><br/>
+<td><img alt="Honey" height="25" src="img/Honey.png" width="25"/><span style="border-bottom:1px dotted;" title="400,000,000,000">400B</span> <a href="honey.html"><span class="color-template color-template-honey">Honey</span></a><br/>
 <p><img alt="Ticket" height="25" src="img/Ticket.png" width="25"/>75 <a href="ticket.html"><span class="color-template color-template-ticket color-template-background-clip">Tickets</span></a>
 </p>
 </td>
 <td>3, 4, 5, 6
 </td></tr>
 <tr>
-<td><figure class="mw-halign-center" typeof="mw:Error mw:File"><figcaption></figcaption></figure><div style="text-align: center;"><a href="candy-ring.html"><span class="color-template color-template-candy-ring color-template-background-clip">Candy Ring</span></a></div>
+<td><figure class="mw-halign-center"><img alt="Candy Ring" src="img/Candy_Ring.png" width="60"/></figure><div style="text-align: center;"><a href="candy-ring.html"><span class="color-template color-template-candy-ring color-template-background-clip">Candy Ring</span></a></div>
 </td>
-<td><span typeof="mw:Error mw:File"></span><span style="border-bottom:1px dotted;" title="1,000,000,000">1B</span> <a href="honey.html"><span class="color-template color-template-honey">Honey</span></a><br/>
+<td><img alt="Honey" height="25" src="img/Honey.png" width="25"/><span style="border-bottom:1px dotted;" title="1,000,000,000">1B</span> <a href="honey.html"><span class="color-template color-template-honey">Honey</span></a><br/>
 <p><img alt="Ticket" height="25" src="img/Ticket.png" width="25"/>100 <a href="ticket.html"><span class="color-template color-template-ticket color-template-background-clip">Tickets</span></a>
 </p>
 </td>
-<td><span typeof="mw:Error mw:File"></span><span style="border-bottom:1px dotted;" title="1,000,000,000,000">1T</span> <a href="honey.html"><span class="color-template color-template-honey">Honey</span></a><br/>
+<td><img alt="Honey" height="25" src="img/Honey.png" width="25"/><span style="border-bottom:1px dotted;" title="1,000,000,000,000">1T</span> <a href="honey.html"><span class="color-template color-template-honey">Honey</span></a><br/>
 <p><img alt="Ticket" height="25" src="img/Ticket.png" width="25"/>200 <a href="ticket.html"><span class="color-template color-template-ticket color-template-background-clip">Tickets</span></a>
 </p>
 </td>
 <td>3, 4, 5, 6
 </td></tr>
 <tr>
-<td><figure class="mw-halign-center" typeof="mw:Error mw:File"><figcaption></figcaption></figure><div style="text-align: center;"><a href="charm-bracelet.html"><span class="color-template color-template-charm-bracelet color-template-background-clip">Charm Bracelet</span></a></div>
+<td><figure class="mw-halign-center"><img alt="Charm Bracelet" src="img/Charm_Bracelet.png" width="60"/></figure><div style="text-align: center;"><a href="charm-bracelet.html"><span class="color-template color-template-charm-bracelet color-template-background-clip">Charm Bracelet</span></a></div>
 </td>
-<td><span typeof="mw:Error mw:File"></span><span style="border-bottom:1px dotted;" title="500,000,000">500M</span> <a href="honey.html"><span class="color-template color-template-honey">Honey</span></a><br/>
+<td><img alt="Honey" height="25" src="img/Honey.png" width="25"/><span style="border-bottom:1px dotted;" title="500,000,000">500M</span> <a href="honey.html"><span class="color-template color-template-honey">Honey</span></a><br/>
 <p><img alt="Ticket" height="25" src="img/Ticket.png" width="25"/>50 <a href="ticket.html"><span class="color-template color-template-ticket color-template-background-clip">Tickets</span></a>
 </p>
 </td>
-<td><span typeof="mw:Error mw:File"></span><span style="border-bottom:1px dotted;" title="500,000,000,000">500B</span> <a href="honey.html"><span class="color-template color-template-honey">Honey</span></a><br/>
+<td><img alt="Honey" height="25" src="img/Honey.png" width="25"/><span style="border-bottom:1px dotted;" title="500,000,000,000">500B</span> <a href="honey.html"><span class="color-template color-template-honey">Honey</span></a><br/>
 <p><img alt="Ticket" height="25" src="img/Ticket.png" width="25"/>150 <a href="ticket.html"><span class="color-template color-template-ticket color-template-background-clip">Tickets</span></a>
 </p>
 </td>
 <td>5, 6
 </td></tr>
 <tr>
-<td><figure class="mw-halign-center" typeof="mw:Error mw:File"><figcaption></figcaption></figure><div style="text-align: center;"><a href="demon-talisman.html"><span class="color-template color-template-demon-talisman color-template-background-clip">Demon Talisman</span></a></div>
+<td><figure class="mw-halign-center"><img alt="Demon Talisman" src="img/Demon_Talisman.png" width="60"/></figure><div style="text-align: center;"><a href="demon-talisman.html"><span class="color-template color-template-demon-talisman color-template-background-clip">Demon Talisman</span></a></div>
 </td>
-<td><span typeof="mw:Error mw:File"></span><span style="border-bottom:1px dotted;" title="1,000,000,000">1B</span> <a href="honey.html"><span class="color-template color-template-honey">Honey</span></a><br/>
+<td><img alt="Honey" height="25" src="img/Honey.png" width="25"/><span style="border-bottom:1px dotted;" title="1,000,000,000">1B</span> <a href="honey.html"><span class="color-template color-template-honey">Honey</span></a><br/>
 <p><img alt="Ticket" height="25" src="img/Ticket.png" width="25"/>400 <a href="ticket.html"><span class="color-template color-template-ticket color-template-background-clip">Tickets</span></a>
 </p>
 </td>
-<td><span typeof="mw:Error mw:File"></span><span style="border-bottom:1px dotted;" title="1,000,000,000,000">1T</span> <a href="honey.html"><span class="color-template color-template-honey">Honey</span></a><br/>
+<td><img alt="Honey" height="25" src="img/Honey.png" width="25"/><span style="border-bottom:1px dotted;" title="1,000,000,000,000">1T</span> <a href="honey.html"><span class="color-template color-template-honey">Honey</span></a><br/>
 <p><img alt="Ticket" height="25" src="img/Ticket.png" width="25"/>650 <a href="ticket.html"><span class="color-template color-template-ticket color-template-background-clip">Tickets</span></a>
 </p>
 </td>
 <td>4, 5, 6
 </td></tr>
 <tr>
-<td><figure class="mw-halign-center" typeof="mw:Error mw:File"><figcaption></figcaption></figure><div style="text-align: center;"><a href="kazoo.html"><span class="color-template color-template-kazoo color-template-background-clip">Kazoo</span></a></div>
+<td><figure class="mw-halign-center"><img alt="Kazoo" src="img/Kazoo.png" width="60"/></figure><div style="text-align: center;"><a href="kazoo.html"><span class="color-template color-template-kazoo color-template-background-clip">Kazoo</span></a></div>
 </td>
-<td><span typeof="mw:Error mw:File"></span><span style="border-bottom:1px dotted;" title="100,000,000">100M</span> <a href="honey.html"><span class="color-template color-template-honey">Honey</span></a><br/>
+<td><img alt="Honey" height="25" src="img/Honey.png" width="25"/><span style="border-bottom:1px dotted;" title="100,000,000">100M</span> <a href="honey.html"><span class="color-template color-template-honey">Honey</span></a><br/>
 <p><img alt="Ticket" height="25" src="img/Ticket.png" width="25"/>75 <a href="ticket.html"><span class="color-template color-template-ticket color-template-background-clip">Tickets</span></a>
 </p>
 </td>
-<td><span typeof="mw:Error mw:File"></span><span style="border-bottom:1px dotted;" title="100,000,000,000">100B</span> <a href="honey.html"><span class="color-template color-template-honey">Honey</span></a><br/>
+<td><img alt="Honey" height="25" src="img/Honey.png" width="25"/><span style="border-bottom:1px dotted;" title="100,000,000,000">100B</span> <a href="honey.html"><span class="color-template color-template-honey">Honey</span></a><br/>
 <p><img alt="Ticket" height="25" src="img/Ticket.png" width="25"/>100 <a href="ticket.html"><span class="color-template color-template-ticket color-template-background-clip">Tickets</span></a>
 </p>
 </td>
 <td>5, 6
 </td></tr>
 <tr>
-<td><figure class="mw-halign-center" typeof="mw:Error mw:File"><figcaption></figcaption></figure><div style="text-align: center;"><a href="paperclip.html"><span class="color-template color-template-paperclip color-template-background-clip">Paperclip</span></a></div>
+<td><figure class="mw-halign-center"><img alt="Paperclip" src="img/Paperclip.png" width="60"/></figure><div style="text-align: center;"><a href="paperclip.html"><span class="color-template color-template-paperclip color-template-background-clip">Paperclip</span></a></div>
 </td>
-<td><span typeof="mw:Error mw:File"></span><span style="border-bottom:1px dotted;" title="20,000,000">20M</span> <a href="honey.html"><span class="color-template color-template-honey">Honey</span></a><br/>
+<td><img alt="Honey" height="25" src="img/Honey.png" width="25"/><span style="border-bottom:1px dotted;" title="20,000,000">20M</span> <a href="honey.html"><span class="color-template color-template-honey">Honey</span></a><br/>
 <p><img alt="Ticket" height="25" src="img/Ticket.png" width="25"/>15 <a href="ticket.html"><span class="color-template color-template-ticket color-template-background-clip">Tickets</span></a>
 </p>
 </td>
-<td><span typeof="mw:Error mw:File"></span><span style="border-bottom:1px dotted;" title="20,000,000,000">20B</span> <a href="honey.html"><span class="color-template color-template-honey">Honey</span></a><br/>
+<td><img alt="Honey" height="25" src="img/Honey.png" width="25"/><span style="border-bottom:1px dotted;" title="20,000,000,000">20B</span> <a href="honey.html"><span class="color-template color-template-honey">Honey</span></a><br/>
 <p><img alt="Ticket" height="25" src="img/Ticket.png" width="25"/>75 <a href="ticket.html"><span class="color-template color-template-ticket color-template-background-clip">Tickets</span></a>
 </p>
 </td>
 <td>1, 2, 3, 4, 5
 </td></tr>
 <tr>
-<td><figure class="mw-halign-center" typeof="mw:Error mw:File"><figcaption></figcaption></figure><div style="text-align: center;"><a href="pink-eraser.html"><span class="color-template color-template-pink-eraser color-template-background-clip">Pink Eraser</span></a></div>
+<td><figure class="mw-halign-center"><img alt="Pink Eraser" src="img/Pink_Eraser.png" width="60"/></figure><div style="text-align: center;"><a href="pink-eraser.html"><span class="color-template color-template-pink-eraser color-template-background-clip">Pink Eraser</span></a></div>
 </td>
-<td><span typeof="mw:Error mw:File"></span><span style="border-bottom:1px dotted;" title="250,000,000">250M</span> <a href="honey.html"><span class="color-template color-template-honey">Honey</span></a><br/>
+<td><img alt="Honey" height="25" src="img/Honey.png" width="25"/><span style="border-bottom:1px dotted;" title="250,000,000">250M</span> <a href="honey.html"><span class="color-template color-template-honey">Honey</span></a><br/>
 <p><img alt="Ticket" height="25" src="img/Ticket.png" width="25"/>50 <a href="ticket.html"><span class="color-template color-template-ticket color-template-background-clip">Tickets</span></a>
 </p>
 </td>
-<td><span typeof="mw:Error mw:File"></span><span style="border-bottom:1px dotted;" title="250,000,000,000">250B</span> <a href="honey.html"><span class="color-template color-template-honey">Honey</span></a><br/>
+<td><img alt="Honey" height="25" src="img/Honey.png" width="25"/><span style="border-bottom:1px dotted;" title="250,000,000,000">250B</span> <a href="honey.html"><span class="color-template color-template-honey">Honey</span></a><br/>
 <p><img alt="Ticket" height="25" src="img/Ticket.png" width="25"/>100 <a href="ticket.html"><span class="color-template color-template-ticket color-template-background-clip">Tickets</span></a>
 </p>
 </td>
 <td>3, 4, 5, 6
 </td></tr>
 <tr>
-<td><figure class="mw-halign-center" typeof="mw:Error mw:File"><figcaption></figcaption></figure><div style="text-align: center;"><a href="rose-headband.html"><span class="color-template color-template-rose-headband color-template-background-clip">Rose Headband</span></a></div>
+<td><figure class="mw-halign-center"><img alt="Rose Headband" src="img/Rose_Headband.png" width="60"/></figure><div style="text-align: center;"><a href="rose-headband.html"><span class="color-template color-template-rose-headband color-template-background-clip">Rose Headband</span></a></div>
 </td>
-<td><span typeof="mw:Error mw:File"></span><span style="border-bottom:1px dotted;" title="500,000,000">500M</span> <a href="honey.html"><span class="color-template color-template-honey">Honey</span></a><br/>
+<td><img alt="Honey" height="25" src="img/Honey.png" width="25"/><span style="border-bottom:1px dotted;" title="500,000,000">500M</span> <a href="honey.html"><span class="color-template color-template-honey">Honey</span></a><br/>
 <p><img alt="Ticket" height="25" src="img/Ticket.png" width="25"/>75 <a href="ticket.html"><span class="color-template color-template-ticket color-template-background-clip">Tickets</span></a>
 </p>
 </td>
-<td><span typeof="mw:Error mw:File"></span><span style="border-bottom:1px dotted;" title="500,000,000,000">500B</span> <a href="honey.html"><span class="color-template color-template-honey">Honey</span></a><br/>
+<td><img alt="Honey" height="25" src="img/Honey.png" width="25"/><span style="border-bottom:1px dotted;" title="500,000,000,000">500B</span> <a href="honey.html"><span class="color-template color-template-honey">Honey</span></a><br/>
 <p><img alt="Ticket" height="25" src="img/Ticket.png" width="25"/>100 <a href="ticket.html"><span class="color-template color-template-ticket color-template-background-clip">Tickets</span></a>
 </p>
 </td>
 <td>3, 4, 5, 6
 </td></tr>
 <tr>
-<td><figure class="mw-halign-center" typeof="mw:Error mw:File"><figcaption></figcaption></figure><div style="text-align: center;"><a href="smiley-sticker.html"><span class="color-template color-template-smiley-sticker color-template-background-clip">Smiley Sticker</span></a></div>
+<td><figure class="mw-halign-center"><img alt="Smiley Sticker" src="img/Smiley_Sticker.png" width="60"/></figure><div style="text-align: center;"><a href="smiley-sticker.html"><span class="color-template color-template-smiley-sticker color-template-background-clip">Smiley Sticker</span></a></div>
 </td>
-<td><span typeof="mw:Error mw:File"></span><span style="border-bottom:1px dotted;" title="10,000,000">10M</span> <a href="honey.html"><span class="color-template color-template-honey">Honey</span></a><br/>
+<td><img alt="Honey" height="25" src="img/Honey.png" width="25"/><span style="border-bottom:1px dotted;" title="10,000,000">10M</span> <a href="honey.html"><span class="color-template color-template-honey">Honey</span></a><br/>
 <p><img alt="Ticket" height="25" src="img/Ticket.png" width="25"/>15 <a href="ticket.html"><span class="color-template color-template-ticket color-template-background-clip">Tickets</span></a>
 </p>
 </td>
-<td><span typeof="mw:Error mw:File"></span><span style="border-bottom:1px dotted;" title="15,000,000,000">15B</span> <a href="honey.html"><span class="color-template color-template-honey">Honey</span></a><br/>
+<td><img alt="Honey" height="25" src="img/Honey.png" width="25"/><span style="border-bottom:1px dotted;" title="15,000,000,000">15B</span> <a href="honey.html"><span class="color-template color-template-honey">Honey</span></a><br/>
 <p><img alt="Ticket" height="25" src="img/Ticket.png" width="25"/>75 <a href="ticket.html"><span class="color-template color-template-ticket color-template-background-clip">Tickets</span></a>
 </p>
 </td>
 <td>2, 3, 4, 5, 6
 </td></tr>
 <tr>
-<td><figure class="mw-halign-center" typeof="mw:Error mw:File"><figcaption></figcaption></figure><div style="text-align: center;"><a href="sweatband.html"><span class="color-template color-template-sweatband color-template-background-clip">Sweatband</span></a></div>
+<td><figure class="mw-halign-center"><img alt="Sweatband" src="img/Sweatband.png" width="60"/></figure><div style="text-align: center;"><a href="sweatband.html"><span class="color-template color-template-sweatband color-template-background-clip">Sweatband</span></a></div>
 </td>
-<td><span typeof="mw:Error mw:File"></span><span style="border-bottom:1px dotted;" title="1,000,000">1M</span> <a href="honey.html"><span class="color-template color-template-honey">Honey</span></a><br/>
+<td><img alt="Honey" height="25" src="img/Honey.png" width="25"/><span style="border-bottom:1px dotted;" title="1,000,000">1M</span> <a href="honey.html"><span class="color-template color-template-honey">Honey</span></a><br/>
 <p><img alt="Ticket" height="25" src="img/Ticket.png" width="25"/>5 <a href="ticket.html"><span class="color-template color-template-ticket color-template-background-clip">Tickets</span></a>
 </p>
 </td>
-<td><span typeof="mw:Error mw:File"></span><span style="border-bottom:1px dotted;" title="1,000,000,000">1B</span> <a href="honey.html"><span class="color-template color-template-honey">Honey</span></a><br/>
+<td><img alt="Honey" height="25" src="img/Honey.png" width="25"/><span style="border-bottom:1px dotted;" title="1,000,000,000">1B</span> <a href="honey.html"><span class="color-template color-template-honey">Honey</span></a><br/>
 <p><img alt="Ticket" height="25" src="img/Ticket.png" width="25"/>25 <a href="ticket.html"><span class="color-template color-template-ticket color-template-background-clip">Tickets</span></a>
 </p>
 </td>
 <td>2, 3, 4, 5
 </td></tr>
 <tr>
-<td><figure class="mw-halign-center" typeof="mw:Error mw:File"><figcaption></figcaption></figure><div style="text-align: center;"><a href="thimble.html"><span class="color-template color-template-thimble color-template-background-clip">Thimble</span></a></div>
+<td><figure class="mw-halign-center"><img alt="Thimble" src="img/Thimble.png" width="60"/></figure><div style="text-align: center;"><a href="thimble.html"><span class="color-template color-template-thimble color-template-background-clip">Thimble</span></a></div>
 </td>
-<td><span typeof="mw:Error mw:File"></span><span style="border-bottom:1px dotted;" title="250,000">250K</span> <a href="honey.html"><span class="color-template color-template-honey">Honey</span></a><br/>
+<td><img alt="Honey" height="25" src="img/Honey.png" width="25"/><span style="border-bottom:1px dotted;" title="250,000">250K</span> <a href="honey.html"><span class="color-template color-template-honey">Honey</span></a><br/>
 <p><img alt="Ticket" height="25" src="img/Ticket.png" width="25"/>5 <a href="ticket.html"><span class="color-template color-template-ticket color-template-background-clip">Tickets</span></a>
 </p>
 </td>
-<td><span typeof="mw:Error mw:File"></span><span style="border-bottom:1px dotted;" title="20,000,000">20M</span> <a href="honey.html"><span class="color-template color-template-honey">Honey</span></a><br/>
+<td><img alt="Honey" height="25" src="img/Honey.png" width="25"/><span style="border-bottom:1px dotted;" title="20,000,000">20M</span> <a href="honey.html"><span class="color-template color-template-honey">Honey</span></a><br/>
 <p><img alt="Ticket" height="25" src="img/Ticket.png" width="25"/>15 <a href="ticket.html"><span class="color-template color-template-ticket color-template-background-clip">Tickets</span></a>
 </p>
 </td>
 <td>1, 2, 3, 4
 </td></tr>
 <tr>
-<td><figure class="mw-halign-center" typeof="mw:Error mw:File"><figcaption></figcaption></figure><div style="text-align: center;"><a href="thumbtack.html"><span class="color-template color-template-thumbtack color-template-background-clip">Thumbtack</span></a></div>
+<td><figure class="mw-halign-center"><img alt="Thumbtack" src="img/Thumbtack.png" width="60"/></figure><div style="text-align: center;"><a href="thumbtack.html"><span class="color-template color-template-thumbtack color-template-background-clip">Thumbtack</span></a></div>
 </td>
-<td><span typeof="mw:Error mw:File"></span><span style="border-bottom:1px dotted;" title="10,000,000">10M</span> <a href="honey.html"><span class="color-template color-template-honey">Honey</span></a><br/>
+<td><img alt="Honey" height="25" src="img/Honey.png" width="25"/><span style="border-bottom:1px dotted;" title="10,000,000">10M</span> <a href="honey.html"><span class="color-template color-template-honey">Honey</span></a><br/>
 <p><img alt="Ticket" height="25" src="img/Ticket.png" width="25"/>10 <a href="ticket.html"><span class="color-template color-template-ticket color-template-background-clip">Tickets</span></a>
 </p>
 </td>
-<td><span typeof="mw:Error mw:File"></span><span style="border-bottom:1px dotted;" title="10,000,000,000">10B</span> <a href="honey.html"><span class="color-template color-template-honey">Honey</span></a><br/>
+<td><img alt="Honey" height="25" src="img/Honey.png" width="25"/><span style="border-bottom:1px dotted;" title="10,000,000,000">10B</span> <a href="honey.html"><span class="color-template color-template-honey">Honey</span></a><br/>
 <p><img alt="Ticket" height="25" src="img/Ticket.png" width="25"/>45 <a href="ticket.html"><span class="color-template color-template-ticket color-template-background-clip">Tickets</span></a>
 </p>
 </td>
 <td>2, 3, 4, 5
 </td></tr>
 <tr>
-<td><figure class="mw-halign-center" typeof="mw:Error mw:File"><figcaption></figcaption></figure><div style="text-align: center;"><a href="whistle.html"><span class="color-template color-template-whistle color-template-background-clip">Whistle</span></a></div>
+<td><figure class="mw-halign-center"><img alt="Whistle" src="img/Whistle.png" width="60"/></figure><div style="text-align: center;"><a href="whistle.html"><span class="color-template color-template-whistle color-template-background-clip">Whistle</span></a></div>
 </td>
-<td><span typeof="mw:Error mw:File"></span><span style="border-bottom:1px dotted;" title="100,000,000">100M</span> <a href="honey.html"><span class="color-template color-template-honey">Honey</span></a><br/>
+<td><img alt="Honey" height="25" src="img/Honey.png" width="25"/><span style="border-bottom:1px dotted;" title="100,000,000">100M</span> <a href="honey.html"><span class="color-template color-template-honey">Honey</span></a><br/>
 <p><img alt="Ticket" height="25" src="img/Ticket.png" width="25"/>75 <a href="ticket.html"><span class="color-template color-template-ticket color-template-background-clip">Tickets</span></a>
 </p>
 </td>
-<td><span typeof="mw:Error mw:File"></span><span style="border-bottom:1px dotted;" title="100,000,000,000">100B</span> <a href="honey.html"><span class="color-template color-template-honey">Honey</span></a><br/>
+<td><img alt="Honey" height="25" src="img/Honey.png" width="25"/><span style="border-bottom:1px dotted;" title="100,000,000,000">100B</span> <a href="honey.html"><span class="color-template color-template-honey">Honey</span></a><br/>
 <p><img alt="Ticket" height="25" src="img/Ticket.png" width="25"/>100 <a href="ticket.html"><span class="color-template color-template-ticket color-template-background-clip">Tickets</span></a>
 </p>
 </td>
@@ -438,7 +438,7 @@ Show/hide table
 <th>Slot 6
 </th></tr>
 <tr>
-<td><figure class="mw-halign-center" typeof="mw:Error mw:File"><figcaption></figcaption></figure><div style="text-align: center;"><a href="autumn-sunhat.html"><span class="color-template color-template-autumn-sunhat color-template-background-clip">Autumn Sunhat</span></a></div>
+<td><figure class="mw-halign-center"><img alt="Autumn Sunhat" src="img/Autumn_Sunhat.png" width="60"/></figure><div style="text-align: center;"><a href="autumn-sunhat.html"><span class="color-template color-template-autumn-sunhat color-template-background-clip">Autumn Sunhat</span></a></div>
 </td>
 <td>N/A
 </td>
@@ -453,7 +453,7 @@ Show/hide table
 <td>2-5 stars
 </td></tr>
 <tr>
-<td><figure class="mw-halign-center" typeof="mw:Error mw:File"><figcaption></figcaption></figure><div style="text-align: center;"><a href="bandage.html"><span class="color-template color-template-bandage color-template-background-clip">Bandage</span></a></div>
+<td><figure class="mw-halign-center"><img alt="Bandage" src="img/Bandage.png" width="60"/></figure><div style="text-align: center;"><a href="bandage.html"><span class="color-template color-template-bandage color-template-background-clip">Bandage</span></a></div>
 </td>
 <td>0-2 stars
 </td>
@@ -468,7 +468,7 @@ Show/hide table
 <td>N/A
 </td></tr>
 <tr>
-<td><figure class="mw-halign-center" typeof="mw:Error mw:File"><figcaption></figcaption></figure><div style="text-align: center;"><a href="bang-snap.html"><span class="color-template color-template-bang-snap color-template-background-clip">Bang Snap</span></a></div>
+<td><figure class="mw-halign-center"><img alt="Bang Snap" src="img/Bang_Snap.png" width="60"/></figure><div style="text-align: center;"><a href="bang-snap.html"><span class="color-template color-template-bang-snap color-template-background-clip">Bang Snap</span></a></div>
 </td>
 <td>N/A
 </td>
@@ -483,7 +483,7 @@ Show/hide table
 <td>2-5 stars
 </td></tr>
 <tr>
-<td><figure class="mw-halign-center" typeof="mw:Error mw:File"><figcaption></figcaption></figure><div style="text-align: center;"><a href="bead-lizard.html"><span class="color-template color-template-bead-lizard color-template-background-clip">Bead Lizard</span></a></div>
+<td><figure class="mw-halign-center"><img alt="Bead Lizard" src="img/Bead_Lizard.png" width="60"/></figure><div style="text-align: center;"><a href="bead-lizard.html"><span class="color-template color-template-bead-lizard color-template-background-clip">Bead Lizard</span></a></div>
 </td>
 <td>N/A
 </td>
@@ -498,7 +498,7 @@ Show/hide table
 <td>2-5 stars
 </td></tr>
 <tr>
-<td><figure class="mw-halign-center" typeof="mw:Error mw:File"><figcaption></figcaption></figure><div style="text-align: center;"><a href="beret.html"><span class="color-template color-template-beret color-template-background-clip">Beret</span></a></div>
+<td><figure class="mw-halign-center"><img alt="Beret" src="img/Beret.png" width="60"/></figure><div style="text-align: center;"><a href="beret.html"><span class="color-template color-template-beret color-template-background-clip">Beret</span></a></div>
 </td>
 <td>N/A
 </td>
@@ -513,7 +513,7 @@ Show/hide table
 <td>3-5 stars
 </td></tr>
 <tr>
-<td><figure class="mw-halign-center" typeof="mw:Error mw:File"><figcaption></figcaption></figure><div style="text-align: center;"><a href="bottle-cap.html"><span class="color-template color-template-bottle-cap color-template-background-clip">Bottle Cap</span></a></div>
+<td><figure class="mw-halign-center"><img alt="Bottle Cap" src="img/Bottle_Cap.png" width="60"/></figure><div style="text-align: center;"><a href="bottle-cap.html"><span class="color-template color-template-bottle-cap color-template-background-clip">Bottle Cap</span></a></div>
 </td>
 <td>0-1 stars
 </td>
@@ -528,7 +528,7 @@ Show/hide table
 <td>N/A
 </td></tr>
 <tr>
-<td><figure class="mw-halign-center" typeof="mw:Error mw:File"><figcaption></figcaption></figure><div style="text-align: center;"><a href="camo-bandana.html"><span class="color-template color-template-camo-bandana color-template-background-clip">Camo Bandana</span></a></div>
+<td><figure class="mw-halign-center"><img alt="Camo Bandana" src="img/Camo_Bandana.png" width="60"/></figure><div style="text-align: center;"><a href="camo-bandana.html"><span class="color-template color-template-camo-bandana color-template-background-clip">Camo Bandana</span></a></div>
 </td>
 <td>N/A
 </td>
@@ -543,7 +543,7 @@ Show/hide table
 <td>4-5 stars
 </td></tr>
 <tr>
-<td><figure class="mw-halign-center" typeof="mw:Error mw:File"><figcaption></figcaption></figure><div style="text-align: center;"><a href="camphor-lip-balm.html"><span class="color-template color-template-camphor-lip-balm color-template-background-clip">Camphor Lip Balm</span></a></div>
+<td><figure class="mw-halign-center"><img alt="Camphor Lip Balm" src="img/Camphor_Lip_Balm.png" width="60"/></figure><div style="text-align: center;"><a href="camphor-lip-balm.html"><span class="color-template color-template-camphor-lip-balm color-template-background-clip">Camphor Lip Balm</span></a></div>
 </td>
 <td>N/A
 </td>
@@ -558,7 +558,7 @@ Show/hide table
 <td>3-5 stars
 </td></tr>
 <tr>
-<td><figure class="mw-halign-center" typeof="mw:Error mw:File"><figcaption></figcaption></figure><div style="text-align: center;"><a href="candy-ring.html"><span class="color-template color-template-candy-ring color-template-background-clip">Candy Ring</span></a></div>
+<td><figure class="mw-halign-center"><img alt="Candy Ring" src="img/Candy_Ring.png" width="60"/></figure><div style="text-align: center;"><a href="candy-ring.html"><span class="color-template color-template-candy-ring color-template-background-clip">Candy Ring</span></a></div>
 </td>
 <td>N/A
 </td>
@@ -573,7 +573,7 @@ Show/hide table
 <td>2-5 stars
 </td></tr>
 <tr>
-<td><figure class="mw-halign-center" typeof="mw:Error mw:File"><figcaption></figcaption></figure><div style="text-align: center;"><a href="charm-bracelet.html"><span class="color-template color-template-charm-bracelet color-template-background-clip">Charm Bracelet</span></a></div>
+<td><figure class="mw-halign-center"><img alt="Charm Bracelet" src="img/Charm_Bracelet.png" width="60"/></figure><div style="text-align: center;"><a href="charm-bracelet.html"><span class="color-template color-template-charm-bracelet color-template-background-clip">Charm Bracelet</span></a></div>
 </td>
 <td>N/A
 </td>
@@ -588,7 +588,7 @@ Show/hide table
 <td>2-5 stars
 </td></tr>
 <tr>
-<td><figure class="mw-halign-center" typeof="mw:Error mw:File"><figcaption></figcaption></figure><div style="text-align: center;"><a href="demon-talisman.html"><span class="color-template color-template-demon-talisman color-template-background-clip">Demon Talisman</span></a></div>
+<td><figure class="mw-halign-center"><img alt="Demon Talisman" src="img/Demon_Talisman.png" width="60"/></figure><div style="text-align: center;"><a href="demon-talisman.html"><span class="color-template color-template-demon-talisman color-template-background-clip">Demon Talisman</span></a></div>
 </td>
 <td>N/A
 </td>
@@ -603,7 +603,7 @@ Show/hide table
 <td>2-5 stars
 </td></tr>
 <tr>
-<td><figure class="mw-halign-center" typeof="mw:Error mw:File"><figcaption></figcaption></figure><div style="text-align: center;"><a href="kazoo.html"><span class="color-template color-template-kazoo color-template-background-clip">Kazoo</span></a></div>
+<td><figure class="mw-halign-center"><img alt="Kazoo" src="img/Kazoo.png" width="60"/></figure><div style="text-align: center;"><a href="kazoo.html"><span class="color-template color-template-kazoo color-template-background-clip">Kazoo</span></a></div>
 </td>
 <td>N/A
 </td>
@@ -618,7 +618,7 @@ Show/hide table
 <td>2-5 stars
 </td></tr>
 <tr>
-<td><figure class="mw-halign-center" typeof="mw:Error mw:File"><figcaption></figcaption></figure><div style="text-align: center;"><a href="paperclip.html"><span class="color-template color-template-paperclip color-template-background-clip">Paperclip</span></a></div>
+<td><figure class="mw-halign-center"><img alt="Paperclip" src="img/Paperclip.png" width="60"/></figure><div style="text-align: center;"><a href="paperclip.html"><span class="color-template color-template-paperclip color-template-background-clip">Paperclip</span></a></div>
 </td>
 <td>0-1 stars
 </td>
@@ -633,7 +633,7 @@ Show/hide table
 <td>N/A
 </td></tr>
 <tr>
-<td><figure class="mw-halign-center" typeof="mw:Error mw:File"><figcaption></figcaption></figure><div style="text-align: center;"><a href="pink-eraser.html"><span class="color-template color-template-pink-eraser color-template-background-clip">Pink Eraser</span></a></div>
+<td><figure class="mw-halign-center"><img alt="Pink Eraser" src="img/Pink_Eraser.png" width="60"/></figure><div style="text-align: center;"><a href="pink-eraser.html"><span class="color-template color-template-pink-eraser color-template-background-clip">Pink Eraser</span></a></div>
 </td>
 <td>N/A
 </td>
@@ -648,7 +648,7 @@ Show/hide table
 <td>3-5 stars
 </td></tr>
 <tr>
-<td><figure class="mw-halign-center" typeof="mw:Error mw:File"><figcaption></figcaption></figure><div style="text-align: center;"><a href="rose-headband.html"><span class="color-template color-template-rose-headband color-template-background-clip">Rose Headband</span></a></div>
+<td><figure class="mw-halign-center"><img alt="Rose Headband" src="img/Rose_Headband.png" width="60"/></figure><div style="text-align: center;"><a href="rose-headband.html"><span class="color-template color-template-rose-headband color-template-background-clip">Rose Headband</span></a></div>
 </td>
 <td>N/A
 </td>
@@ -663,7 +663,7 @@ Show/hide table
 <td>3-5 stars
 </td></tr>
 <tr>
-<td><figure class="mw-halign-center" typeof="mw:Error mw:File"><figcaption></figcaption></figure><div style="text-align: center;"><a href="smiley-sticker.html"><span class="color-template color-template-smiley-sticker color-template-background-clip">Smiley Sticker</span></a></div>
+<td><figure class="mw-halign-center"><img alt="Smiley Sticker" src="img/Smiley_Sticker.png" width="60"/></figure><div style="text-align: center;"><a href="smiley-sticker.html"><span class="color-template color-template-smiley-sticker color-template-background-clip">Smiley Sticker</span></a></div>
 </td>
 <td>N/A
 </td>
@@ -678,7 +678,7 @@ Show/hide table
 <td>4-5 stars
 </td></tr>
 <tr>
-<td><figure class="mw-halign-center" typeof="mw:Error mw:File"><figcaption></figcaption></figure><div style="text-align: center;"><a href="sweatband.html"><span class="color-template color-template-sweatband color-template-background-clip">Sweatband</span></a></div>
+<td><figure class="mw-halign-center"><img alt="Sweatband" src="img/Sweatband.png" width="60"/></figure><div style="text-align: center;"><a href="sweatband.html"><span class="color-template color-template-sweatband color-template-background-clip">Sweatband</span></a></div>
 </td>
 <td>N/A
 </td>
@@ -693,7 +693,7 @@ Show/hide table
 <td>N/A
 </td></tr>
 <tr>
-<td><figure class="mw-halign-center" typeof="mw:Error mw:File"><figcaption></figcaption></figure><div style="text-align: center;"><a href="thimble.html"><span class="color-template color-template-thimble color-template-background-clip">Thimble</span></a></div>
+<td><figure class="mw-halign-center"><img alt="Thimble" src="img/Thimble.png" width="60"/></figure><div style="text-align: center;"><a href="thimble.html"><span class="color-template color-template-thimble color-template-background-clip">Thimble</span></a></div>
 </td>
 <td>0-2 stars
 </td>
@@ -708,7 +708,7 @@ Show/hide table
 <td>N/A
 </td></tr>
 <tr>
-<td><figure class="mw-halign-center" typeof="mw:Error mw:File"><figcaption></figcaption></figure><div style="text-align: center;"><a href="thumbtack.html"><span class="color-template color-template-thumbtack color-template-background-clip">Thumbtack</span></a></div>
+<td><figure class="mw-halign-center"><img alt="Thumbtack" src="img/Thumbtack.png" width="60"/></figure><div style="text-align: center;"><a href="thumbtack.html"><span class="color-template color-template-thumbtack color-template-background-clip">Thumbtack</span></a></div>
 </td>
 <td>N/A
 </td>
@@ -723,7 +723,7 @@ Show/hide table
 <td>N/A
 </td></tr>
 <tr>
-<td><figure class="mw-halign-center" typeof="mw:Error mw:File"><figcaption></figcaption></figure><div style="text-align: center;"><a href="whistle.html"><span class="color-template color-template-whistle color-template-background-clip">Whistle</span></a></div>
+<td><figure class="mw-halign-center"><img alt="Whistle" src="img/Whistle.png" width="60"/></figure><div style="text-align: center;"><a href="whistle.html"><span class="color-template color-template-whistle color-template-background-clip">Whistle</span></a></div>
 </td>
 <td>N/A
 </td>

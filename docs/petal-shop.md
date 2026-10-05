@@ -27,9 +27,9 @@ It is called the Petal Shop because of the giant petals draped across the back w
 <th>Description
 </th></tr>
 <tr>
-<td><figure class="mw-halign-center" typeof="mw:Error mw:File"><figcaption></figcaption></figure><div style="text-align: center;"><a href="petal-wand.html">Petal Wand</a></div>
+<td><figure class="mw-halign-center"><img alt="Petal Wand" src="img/Petal_Wand.png" width="60"/></figure><div style="text-align: center;"><a href="petal-wand.html">Petal Wand</a></div>
 </td>
-<td><span typeof="mw:Error mw:File"></span><span style="border-bottom:1px dotted;" title="1,500,000,000">1.5B</span> <a href="honey.html"><span class="color-template color-template-honey">Honey</span></a><br/>
+<td><img alt="Honey" height="25" src="img/Honey.png" width="25"/><span style="border-bottom:1px dotted;" title="1,500,000,000">1.5B</span> <a href="honey.html"><span class="color-template color-template-honey">Honey</span></a><br/>
 <p><img alt="Spirit Petal" height="25" src="img/Spirit_Petal.png" width="25"/>1 <a href="spirit-petal.html"><span class="color-template color-template-spirit-petal color-template-background-clip">Spirit Petal</span></a><br/>
 <img alt="Star Jelly" height="25" src="img/Star_Jelly.png" width="25"/>10 <a href="royal-jelly.html#Star_Jelly"><span class="color-template color-template-star-jelly color-template-background-clip">Star Jellies</span></a><br/>
 <img alt="Glitter" height="25" src="img/Glitter.png" width="25"/>25 <a href="glitter.html"><span class="color-template color-template-glitter color-template-background-clip">Glitter</span></a><br/>
@@ -41,7 +41,7 @@ It is called the Petal Shop because of the giant petals draped across the back w
 <tr>
 <td><figure class="mw-halign-center" typeof="mw:File"><img alt="Petal Belt" data-image-key="Petal_Belt.png" data-image-name="Petal Belt.png" data-relevant="1" height="80" src="img/Petal_Belt.png" width="80"/><figcaption></figcaption></figure><div style="text-align: center;"><a href="petal-belt.html">Petal Belt</a></div>
 </td>
-<td><span typeof="mw:Error mw:File"></span><span style="border-bottom:1px dotted;" title="15,000,000,000">15B</span> <a href="honey.html"><span class="color-template color-template-honey">Honey</span></a><br/>
+<td><img alt="Honey" height="25" src="img/Honey.png" width="25"/><span style="border-bottom:1px dotted;" title="15,000,000,000">15B</span> <a href="honey.html"><span class="color-template color-template-honey">Honey</span></a><br/>
 <p><img alt="Star Jelly" height="25" src="img/Star_Jelly.png" width="25"/>25 <a href="royal-jelly.html#Star_Jelly"><span class="color-template color-template-star-jelly color-template-background-clip">Star Jellies</span></a><br/>
 <img alt="Glitter" height="25" src="img/Glitter.png" width="25"/>50 <a href="glitter.html"><span class="color-template color-template-glitter color-template-background-clip">Glitter</span></a><br/>
 <img alt="Glue" height="25" src="img/Glue.png" width="25"/>100 <a href="glue.html"><span class="color-template color-template-glue color-template-background-clip">Glues</span></a><br/>
@@ -59,9 +59,9 @@ It is called the Petal Shop because of the giant petals draped across the back w
 <li><a href="passive-abilities.html#Petal_Storm">+Passive: Petal Storm</a>.</li></ul>
 </td></tr>
 <tr>
-<td><figure class="mw-halign-center" typeof="mw:Error mw:File"><figcaption></figcaption></figure><div style="text-align: center;"><a href="petal-planter.html"><span class="color-template color-template-petal-planter color-template-background-clip">Petal Planter</span></a></div>
+<td><figure class="mw-halign-center"><img alt="Petal Planter" src="img/Petal_Planter.png" width="60"/></figure><div style="text-align: center;"><a href="petal-planter.html"><span class="color-template color-template-petal-planter color-template-background-clip">Petal Planter</span></a></div>
 </td>
-<td><span typeof="mw:Error mw:File"></span><span style="border-bottom:1px dotted;" title="5,000,000,000,000">5T</span> <a href="honey.html"><span class="color-template color-template-honey">Honey</span></a><br/>
+<td><img alt="Honey" height="25" src="img/Honey.png" width="25"/><span style="border-bottom:1px dotted;" title="5,000,000,000,000">5T</span> <a href="honey.html"><span class="color-template color-template-honey">Honey</span></a><br/>
 <p><img alt="Magic Bean" height="25" src="img/Magic_Bean.png" width="25"/>100 <a href="magic-bean.html"><span class="color-template color-template-magic-bean color-template-background-clip">Magic Beans</span></a><br/>
 <img alt="Glitter" height="25" src="img/Glitter.png" width="25"/>100 <a href="glitter.html"><span class="color-template color-template-glitter color-template-background-clip">Glitter</span></a><br/>
 <img alt="Soft Wax" height="25" src="img/Soft_Wax.png" width="25"/>250 <a href="soft-wax.html"><span class="color-template color-template-soft-wax">Soft Waxes</span></a><br/>

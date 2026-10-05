@@ -38,7 +38,7 @@ Behind the Honey Dispenser is a hidden [obstacle course](obstacle-courses.md#Lav
 <th>Description
 </th></tr>
 <tr>
-<td><figure class="mw-halign-center" typeof="mw:Error mw:File"><figcaption></figcaption></figure><div style="text-align: center;"><a href="scooper.html">Scooper</a></div>
+<td><figure class="mw-halign-center"><img alt="Scooper" src="img/Scooper.png" width="60"/></figure><div style="text-align: center;"><a href="scooper.html">Scooper</a></div>
 </td>
 <td><img alt="Honey" height="25" src="img/Honey.png" width="25"/>0 <a href="honey.html"><span class="color-template color-template-honey">Honey</span></a><br/>
 <p>(Starter Tool)
@@ -47,28 +47,28 @@ Behind the Honey Dispenser is a hidden [obstacle course](obstacle-courses.md#Lav
 <td>Collects 2 pollen from 2 patches in front of you in 0.8 seconds.
 </td></tr>
 <tr>
-<td><figure class="mw-halign-center" typeof="mw:Error mw:File"><figcaption></figcaption></figure><div style="text-align: center;"><a href="rake.html">Rake</a></div>
+<td><figure class="mw-halign-center"><img alt="Rake" src="img/Rake.png" width="60"/></figure><div style="text-align: center;"><a href="rake.html">Rake</a></div>
 </td>
 <td><img alt="Honey" height="25" src="img/Honey.png" width="25"/>800 <a href="honey.html"><span class="color-template color-template-honey">Honey</span></a>
 </td>
 <td>Collects 2 pollen from 3 patches in front of you in 0.7 seconds.
 </td></tr>
 <tr>
-<td><figure class="mw-halign-center" typeof="mw:Error mw:File"><figcaption></figcaption></figure><div style="text-align: center;"><a href="clippers.html">Clippers</a></div>
+<td><figure class="mw-halign-center"><img alt="Clippers" src="img/Clippers.png" width="60"/></figure><div style="text-align: center;"><a href="clippers.html">Clippers</a></div>
 </td>
 <td><img alt="Honey" height="25" src="img/Honey.png" width="25"/>2,200 <a href="honey.html"><span class="color-template color-template-honey">Honey</span></a>
 </td>
 <td>Collects 9 pollen in the patch in front of you in 0.6 seconds.
 </td></tr>
 <tr>
-<td><figure class="mw-halign-center" typeof="mw:Error mw:File"><figcaption></figcaption></figure><div style="text-align: center;"><a href="magnet.html">Magnet</a></div>
+<td><figure class="mw-halign-center"><img alt="Magnet" src="img/Magnet.png" width="60"/></figure><div style="text-align: center;"><a href="magnet.html">Magnet</a></div>
 </td>
 <td><img alt="Honey" height="25" src="img/Honey.png" width="25"/>5,500 <a href="honey.html"><span class="color-template color-template-honey">Honey</span></a>
 </td>
 <td>Collects 2 pollen from 9 surrounding patches in 0.8 seconds.
 </td></tr>
 <tr>
-<td><figure class="mw-halign-center" typeof="mw:Error mw:File"><figcaption></figcaption></figure><div style="text-align: center;"><a href="vacuum.html">Vacuum</a></div>
+<td><figure class="mw-halign-center"><img alt="Vacuum" src="img/Vacuum.png" width="60"/></figure><div style="text-align: center;"><a href="vacuum.html">Vacuum</a></div>
 </td>
 <td><img alt="Honey" height="25" src="img/Honey.png" width="25"/>14,000 <a href="honey.html"><span class="color-template color-template-honey">Honey</span></a>
 </td>
@@ -175,7 +175,7 @@ Behind the Honey Dispenser is a hidden [obstacle course](obstacle-courses.md#Lav
 </td>
 <td><img alt="Honey" height="25" src="img/Honey.png" width="25"/>77 <a href="honey.html"><span class="color-template color-template-honey">Honey</span></a><br/>
 <p><img alt="Micro-Converter" height="25" src="img/Micro-Converter.png" width="25"/>1 <a href="micro-converter.html"><span class="color-template color-template-micro-converter color-template-background-clip">Micro-Converter</span></a><br/>
-<span typeof="mw:Error mw:File"></span>7 <span class="new" data-uncrawlable-url="L3dpa2kvNy1Qcm9uZ2VkX0NvZz9hY3Rpb249ZWRpdCZyZWRsaW5rPTE=" title="7-Pronged Cog (page does not exist)"><span class="color-template color-template-7-pronged-cog color-template-background-clip">7-Pronged Cogs</span></span>
+<img alt="7-Pronged Cog" height="25" src="img/7-Pronged_Cog.png" width="25"/>7 <span class="new" data-uncrawlable-url="L3dpa2kvNy1Qcm9uZ2VkX0NvZz9hY3Rpb249ZWRpdCZyZWRsaW5rPTE=" title="7-Pronged Cog (page does not exist)"><span class="color-template color-template-7-pronged-cog color-template-background-clip">7-Pronged Cogs</span></span>
 </p>
 </td>
 <td>This futuristic looking headset doesn't seem to do very much...

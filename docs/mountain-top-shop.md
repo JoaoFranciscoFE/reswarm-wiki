@@ -7,7 +7,6 @@ tags: ["Shops", "Locations"]
 
 ![Mountain Top Shop](img/places/Mountain_Top_Shop.png){ .wiki-photo }
 
-<figure class="mw-halign-right" typeof="mw:Error mw:File"><figcaption>the Mountain Top Shop at an angle.</figcaption></figure>
 
 The **Mountain Top Shop**, also called the **Top Shop**, is a [shop](shops.md) located past the [Lion Bee Gate](lion-bee-gate.md). Before the [Mountain Top Field's](mountain-top-field.md) name was known, this shop used to be called the **25 Bee Shop**. The shop sells various high-end [items](items.md) and is run by [Top Bear](top-bear.md).
 
@@ -24,7 +23,7 @@ There is a [Royal Jelly](royal-jelly.md) token on the roof and a [Ticket](ticket
 <th>Description
 </th></tr>
 <tr>
-<td><figure class="mw-halign-center" typeof="mw:Error mw:File"><figcaption></figcaption></figure><div style="text-align: center;"><a href="golden-rake.html">Golden Rake</a> </div>
+<td><figure class="mw-halign-center"><img alt="Golden Rake" src="img/Golden_Rake.png" width="60"/></figure><div style="text-align: center;"><a href="golden-rake.html">Golden Rake</a> </div>
 </td>
 <td><img alt="Honey" height="25" src="img/Honey.png" width="25"/>20,000,000 <a href="honey.html"><span class="color-template color-template-honey">Honey</span></a>
 </td>
@@ -33,14 +32,14 @@ There is a [Royal Jelly](royal-jelly.md) token on the roof and a [Ticket](ticket
 </p>
 </td></tr>
 <tr>
-<td><figure class="mw-halign-center" typeof="mw:Error mw:File"><figcaption></figcaption></figure><div style="text-align: center;"><a href="spark-staff.html">Spark Staff</a></div>
+<td><figure class="mw-halign-center"><img alt="Spark Staff" src="img/Spark_Staff.png" width="60"/></figure><div style="text-align: center;"><a href="spark-staff.html">Spark Staff</a></div>
 </td>
 <td><img alt="Honey" height="25" src="img/Honey.png" width="25"/>60,000,000 <a href="honey.html"><span class="color-template color-template-honey">Honey</span></a>
 </td>
 <td>Collects ALL pollen from the 3 tallest nearby flowers in 0.6 seconds.
 </td></tr>
 <tr>
-<td><figure class="mw-halign-center" typeof="mw:Error mw:File"><figcaption></figcaption></figure><div style="text-align: center;"><a href="porcelain-dipper.html">Porcelain Dipper</a></div>
+<td><figure class="mw-halign-center"><img alt="Porcelain Dipper" src="img/Porcelain_Dipper.png" width="60"/></figure><div style="text-align: center;"><a href="porcelain-dipper.html">Porcelain Dipper</a></div>
 </td>
 <td><img alt="Honey" height="25" src="img/Honey.png" width="25"/>150,000,000 <a href="honey.html"><span class="color-template color-template-honey">Honey</span></a>
 </td>
@@ -153,7 +152,7 @@ There is a [Royal Jelly](royal-jelly.md) token on the roof and a [Ticket](ticket
 <td>Floats much faster than the <a href="parachute.html">Parachute</a>, allowing you to fly through the sky! Press jump while in the air to open.
 </td></tr>
 <tr>
-<td><figure class="mw-halign-center" typeof="mw:Error mw:File"><figcaption></figcaption></figure><div style="text-align: center;"><a href="hive-slot.html">Hive Slot</a></div>
+<td><figure class="mw-halign-center"><img alt="Hive Slot" src="img/Hive_Slot.png" width="60"/></figure><div style="text-align: center;"><a href="hive-slot.html">Hive Slot</a></div>
 </td>
 <td>Varies on how many hive slots the player has bought
 </td>
