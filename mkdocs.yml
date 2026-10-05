@@ -593,6 +593,7 @@ nav:
   - "Dispensers":
       - browse-dispensers.md
       - "Ant Pass Dispenser": ant-pass-dispenser.md
+      - "Blue Extract Dispenser": blue-extract-dispenser.md
       - "Blueberry Dispenser": blueberry-dispenser.md
       - "Coconut Dispenser": coconut-dispenser.md
       - "Dispensers": dispensers.md
@@ -600,13 +601,14 @@ nav:
       - "Free Robo Pass Dispenser": free-robo-pass-dispenser.md
       - "Free Royal Jelly Dispenser": free-royal-jelly-dispenser.md
       - "Glue Dispenser": glue-dispenser.md
-      - "Gummy Bee Egg Claim": gummy-bee-egg-claim.md
+      - "Gummy Bee Claimer": gummy-bee-egg-claim.md
       - "Honey Dispenser": honey-dispenser.md
+      - "Red Extract Dispenser": red-extract-dispenser.md
       - "Robo Pass Dispenser": robo-pass-dispenser.md
       - "Royal Jelly Dispenser": royal-jelly-dispenser.md
       - "Strawberry Dispenser": strawberry-dispenser.md
       - "Treat Dispenser": treat-dispenser.md
-      - "Vicious Bee Egg Claim": vicious-bee-egg-claim.md
+      - "Vicious Bee Claimer": vicious-bee-egg-claim.md
   - "Events":
       - browse-events.md
       - "Ant Challenge": ant-challenge.md

@@ -22,7 +22,7 @@ Datamined information: The formula for the amount of Honey and Strawberries rece
 </div>
 <div class="pi-item pi-data pi-item-spacing pi-border-color" data-source="requirement">
 <h3 class="pi-data-label pi-secondary-font">Requirement(s)</h3>
-<div class="pi-data-value pi-font">Membership in the Bee Swarm Simulator Club group</div>
+<div class="pi-data-value pi-font">None</div>
 </div>
 <div class="pi-item pi-data pi-item-spacing pi-border-color" data-source="cooldown">
 <h3 class="pi-data-label pi-secondary-font">Cooldown</h3>
@@ -41,7 +41,7 @@ It has a cooldown of 4 hours.
 
 If the player doesn't have any red bees in their hive, it will not grant any strawberries.
 
-The player must be in the Bee Swarm Simulator Club in order to use this.
+Unlike in Bee Swarm Simulator, the player does not need to be in the Bee Swarm Simulator Club to use this.
 
 ## Honey and Strawberry reward amounts
 
@@ -293,7 +293,7 @@ Below is a table of the amount of honey a player receives, given the number of R
 * The only time this dispenser appears in a quest is in [Science Bear](science-bear.md)'s *"The Power of Information"*, in which it requires the player to use this machine 3 times.
 * This dispenser gives the same honey per bee as the [Blueberry Dispenser](blueberry-dispenser.md).
 * This is one of three dispensers that give [Treats](treats.md) in the game with the other two being the [Treat Dispenser](treat-dispenser.md) and the Blueberry Dispenser.
-* This is one of four dispensers requiring the player to be part of the Bee Swarm Simulator Club with the others being the [Honey Dispenser](honey-dispenser.md), the Treat Dispenser, and the Blueberry Dispenser.
+* In Bee Swarm Simulator this is one of four Club dispensers, with the [Honey Dispenser](honey-dispenser.md), the Treat Dispenser and the Blueberry Dispenser. In Re://:Swarm none of them need the Club.
 
 <table class="mw-collapsible mw-collapsed NavTable">
 <tbody><tr>
@@ -332,7 +332,7 @@ Below is a table of the amount of honey a player receives, given the number of R
 <tr>
 <th class="NavCategory">Other<br/>Places
 </th>
-<td class="NavLinks NavLinksBasicOdd"><b><a href="hive.html">Hive</a> • <a href="obstacle-courses.html">Obstacle Courses</a> • King Beetle Lair • <a href="white-tunnel.html">White Tunnel</a> • <a href="werewolf-s-cave.html">Werewolf's Cave</a> • <a href="ant-challenge.html">Ant Challenge</a> • <a href="star-hall.html">Star Hall</a> • <a href="gummy-bear-s-lair.html">Gummy Bear's Lair</a> • <a href="ant-challenge-info.html">Ant Challenge Info</a> • <a href="vicious-bee-egg-claim.html">Vicious Bee Egg Claim</a> • <a href="gummy-bee-egg-claim.html">Gummy Bee Egg Claim</a> • <a href="wind-shrine.html">Wind Shrine</a> • <a href="mazes.html">Mazes</a> • <a href="hive-hub.html">Hive Hub</a> • <a href="sticker-seeker-quest-machine.html">Sticker-Seeker Quest Machine</a></b>
+<td class="NavLinks NavLinksBasicOdd"><b><a href="hive.html">Hive</a> • <a href="obstacle-courses.html">Obstacle Courses</a> • King Beetle Lair • <a href="white-tunnel.html">White Tunnel</a> • <a href="werewolf-s-cave.html">Werewolf's Cave</a> • <a href="ant-challenge.html">Ant Challenge</a> • <a href="star-hall.html">Star Hall</a> • <a href="gummy-bear-s-lair.html">Gummy Bear's Lair</a> • <a href="ant-challenge-info.html">Ant Challenge Info</a> • <a href="vicious-bee-egg-claim.html">Vicious Bee Claimer</a> • <a href="gummy-bee-egg-claim.html">Gummy Bee Claimer</a> • <a href="wind-shrine.html">Wind Shrine</a> • <a href="mazes.html">Mazes</a> • <a href="hive-hub.html">Hive Hub</a> • <a href="sticker-seeker-quest-machine.html">Sticker-Seeker Quest Machine</a></b>
 </td></tr>
 <tr>
 <th class="NavCategory">Event<br/>Locations

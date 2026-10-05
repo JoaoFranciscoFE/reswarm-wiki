@@ -22,7 +22,7 @@ Datamined information: The formula for the amount of Honey and Treats received b
 </div>
 <div class="pi-item pi-data pi-item-spacing pi-border-color" data-source="requirement">
 <h3 class="pi-data-label pi-secondary-font">Requirement(s)</h3>
-<div class="pi-data-value pi-font">Membership in the Bee Swarm Simulator Club group</div>
+<div class="pi-data-value pi-font">None</div>
 </div>
 <div class="pi-item pi-data pi-item-spacing pi-border-color" data-source="cooldown">
 <h3 class="pi-data-label pi-secondary-font">Cooldown</h3>
@@ -35,9 +35,8 @@ Datamined information: The formula for the amount of Honey and Treats received b
 </section>
 </aside>
 
-The **Treat Dispenser** is a dispenser located between the [Pineapple Patch](pineapple-patch.md) and the entrance of the [Pro Shop](pro-shop.md). Members of the Bee Swarm Simulator Club can use it to collect [Honey](honey.md), [Treats](treat.md), 1 [Pineapple](pineapple.md), and x5 [Haste](ability-tokens.md#Haste) every hour. The number of [Treats](treat.md) varies, depending on the number of [bees](bees.md) the player has.
+The **Treat Dispenser** is a dispenser located between the [Pineapple Patch](pineapple-patch.md) and the entrance of the [Pro Shop](pro-shop.md). Any player can use it to collect [Honey](honey.md), [Treats](treat.md), 1 [Pineapple](pineapple.md), and x5 [Haste](ability-tokens.md#Haste) every hour. The number of [Treats](treat.md) varies, depending on the number of [bees](bees.md) the player has.
 
-If a player tries to use the Treat Dispenser without being in the group, they will get a prompt saying they must join the Bee Swarm Simulator Club.
 
 ## Honey and Treats reward amounts
 
@@ -340,7 +339,7 @@ Below is a table of the amount of honey and treats a player receives, given the 
 
 * This is one of three dispensers that give [Treats](treat.md) in the game with the other two being the [Blueberry Dispenser](blueberry-dispenser.md) and the [Strawberry Dispenser](strawberry-dispenser.md).
   * This is the only dispenser to give two different treats, being [Treats](treat.md) and [Pineapples](pineapple.md).
-* This is one of four dispensers requiring the player to be part of the Bee Swarm Simulator Club with the others being the [Honey Dispenser](honey-dispenser.md), the Blueberry Dispenser, and the Strawberry Dispenser.
+* In Bee Swarm Simulator this dispenser needs Bee Swarm Simulator Club membership, but in Re://:Swarm anyone can use it, like the [Honey Dispenser](honey-dispenser.md), the Blueberry Dispenser and the Strawberry Dispenser.
 
 <table class="mw-collapsible mw-collapsed NavTable">
 <tbody><tr>
@@ -364,7 +363,7 @@ Below is a table of the amount of honey and treats a player receives, given the 
 <tr>
 <th class="NavCategory">Machines
 </th>
-<td class="NavLinks NavLinksBasicEven"><b><a href="honey-dispenser.html">Honey Dispenser</a> • <a href="royal-jelly-dispenser.html">Royal Jelly Dispenser</a> • <strong class="mw-selflink selflink">Treat Dispenser</strong> • <a href="instant-converter.html">Instant Converter</a> • <a href="wealth-clock.html">Wealth Clock</a> • <a href="moon-amulet-generator.html">Moon Amulet Generator</a> • <a href="memory-match.html">Memory Match</a> • <a href="blue-field-booster.html">Blue Field Booster</a> • <a href="red-field-booster.html">Red Field Booster</a> • <a href="field-booster.html">Field Booster</a> • <a href="blueberry-dispenser.html">Blueberry Dispenser</a> • <a href="strawberry-dispenser.html">Strawberry Dispenser</a> • <a href="honeystorm.html">Honeystorm</a> • <a href="special-sprout-summoner.html">Special Sprout Summoner</a> • <a href="free-ant-pass-dispenser.html">Free Ant Pass Dispenser</a> • <a href="ant-pass-dispenser.html">Ant Pass Dispenser</a> • <a href="glue-dispenser.html">Glue Dispenser</a> • <a href="blender.html">Blender</a> • <a href="coconut-dispenser.html">Coconut Dispenser</a> • <a href="mythic-meteor-shower.html">Mythic Meteor Shower</a> • <a href="free-robo-pass-dispenser.html">Free Robo Pass Dispenser</a> • <a href="robo-pass-dispenser.html">Robo Pass Dispenser</a> • <a href="sticker-stack.html">Sticker Stack</a> • <a href="sticker-printer.html">Sticker Printer</a> • <a href="nectar-condenser.html">Nectar Condenser</a></b>
+<td class="NavLinks NavLinksBasicEven"><b><a href="honey-dispenser.html">Honey Dispenser</a> • <a href="royal-jelly-dispenser.html">Royal Jelly Dispenser</a> • <strong class="mw-selflink selflink">Treat Dispenser</strong> • <a href="instant-converter.html">Instant Converter</a> • <a href="wealth-clock.html">Wealth Clock</a> • <a href="moon-amulet-generator.html">Moon Amulet Generator</a> • <a href="memory-match.html">Memory Match</a> • <a href="blue-field-booster.html">Blue Field Booster</a> • <a href="red-field-booster.html">Red Field Booster</a> • <a href="field-booster.html">Field Booster</a> • <a href="blueberry-dispenser.html">Blueberry Dispenser</a> • <a href="strawberry-dispenser.html">Strawberry Dispenser</a> • <a href="blue-extract-dispenser.html">Blue Extract Dispenser</a> • <a href="red-extract-dispenser.html">Red Extract Dispenser</a> • <a href="honeystorm.html">Honeystorm</a> • <a href="special-sprout-summoner.html">Special Sprout Summoner</a> • <a href="free-ant-pass-dispenser.html">Free Ant Pass Dispenser</a> • <a href="ant-pass-dispenser.html">Ant Pass Dispenser</a> • <a href="glue-dispenser.html">Glue Dispenser</a> • <a href="blender.html">Blender</a> • <a href="coconut-dispenser.html">Coconut Dispenser</a> • <a href="mythic-meteor-shower.html">Mythic Meteor Shower</a> • <a href="free-robo-pass-dispenser.html">Free Robo Pass Dispenser</a> • <a href="robo-pass-dispenser.html">Robo Pass Dispenser</a> • <a href="sticker-stack.html">Sticker Stack</a> • <a href="sticker-printer.html">Sticker Printer</a> • <a href="nectar-condenser.html">Nectar Condenser</a></b>
 </td></tr>
 <tr>
 <th class="NavCategory">Transportation
@@ -379,7 +378,7 @@ Below is a table of the amount of honey and treats a player receives, given the 
 <tr>
 <th class="NavCategory">Other<br/>Places
 </th>
-<td class="NavLinks NavLinksBasicOdd"><b><a href="hive.html">Hive</a> • <a href="obstacle-courses.html">Obstacle Courses</a> • King Beetle Lair • <a href="white-tunnel.html">White Tunnel</a> • <a href="werewolf-s-cave.html">Werewolf's Cave</a> • <a href="ant-challenge.html">Ant Challenge</a> • <a href="star-hall.html">Star Hall</a> • <a href="gummy-bear-s-lair.html">Gummy Bear's Lair</a> • <a href="ant-challenge-info.html">Ant Challenge Info</a> • <a href="vicious-bee-egg-claim.html">Vicious Bee Egg Claim</a> • <a href="gummy-bee-egg-claim.html">Gummy Bee Egg Claim</a> • <a href="wind-shrine.html">Wind Shrine</a> • <a href="mazes.html">Mazes</a> • <a href="hive-hub.html">Hive Hub</a> • <a href="sticker-seeker-quest-machine.html">Sticker-Seeker Quest Machine</a></b>
+<td class="NavLinks NavLinksBasicOdd"><b><a href="hive.html">Hive</a> • <a href="obstacle-courses.html">Obstacle Courses</a> • King Beetle Lair • <a href="white-tunnel.html">White Tunnel</a> • <a href="werewolf-s-cave.html">Werewolf's Cave</a> • <a href="ant-challenge.html">Ant Challenge</a> • <a href="star-hall.html">Star Hall</a> • <a href="gummy-bear-s-lair.html">Gummy Bear's Lair</a> • <a href="ant-challenge-info.html">Ant Challenge Info</a> • <a href="vicious-bee-egg-claim.html">Vicious Bee Claimer</a> • <a href="gummy-bee-egg-claim.html">Gummy Bee Claimer</a> • <a href="wind-shrine.html">Wind Shrine</a> • <a href="mazes.html">Mazes</a> • <a href="hive-hub.html">Hive Hub</a> • <a href="sticker-seeker-quest-machine.html">Sticker-Seeker Quest Machine</a></b>
 </td></tr>
 <tr>
 <th class="NavCategory">Event<br/>Locations

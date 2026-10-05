@@ -12492,7 +12492,7 @@ One of the following sounds can play when collecting a sticker:
 <ul>
 <li>Blue wall near <a href="bamboo-field.html">Bamboo Field</a>.</li>
 <li>Blue slope near <a href="strawberry-field.html">Strawberry Field</a>.</li>
-<li>On the left side of the <a href="vicious-bee-egg-claim.html">Vicious Bee Egg Claim</a> platform.</li>
+<li>On the left side of the <a href="vicious-bee-egg-claim.html">Vicious Bee Claimer</a> platform.</li>
 <li>At the start of the secret passageway to <a href="royal-jelly.html">Royal Jelly</a> inside the blue slope near <a href="bamboo-field.html">Bamboo Field</a>.</li>
 <li>Behind bamboo in the <a href="bamboo-field.html">Bamboo Field</a>.</li>
 <li>On the <a href="panda-bear.html">Panda Bear</a>'s platform.</li>

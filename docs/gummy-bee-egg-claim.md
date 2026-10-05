@@ -1,15 +1,15 @@
 ---
-title: "Gummy Bee Egg Claim"
+title: "Gummy Bee Claimer"
 tags: ["Locations", "Egg Claims"]
 ---
 
-# Gummy Bee Egg Claim
+# Gummy Bee Claimer
 
-![Gummy Bee Egg Claim](img/places/Gummy_Bee_Egg_Claim.png){ .wiki-photo }
+![Gummy Bee Claimer](img/places/Gummy_Bee_Egg_Claim.png){ .wiki-photo }
 
 
 
-The **Gummy Bee Egg Claim** is a platform that can be found beyond the [Ant Gate](ant-gate.md). It's located on a ledge near the [Ant Challenge](ant-challenge.md) and the [hives](hive.md). It can be reached by going through the gap behind the Top Ant Exterminators Leaderboard, going on top of the Ant Gate, or by walking on top of the hives to the egg claim.
+The **Gummy Bee Claimer** (called the Gummy Bee Egg Claim in Bee Swarm Simulator) is a platform that can be found beyond the [Ant Gate](ant-gate.md). It's located on a ledge near the [Ant Challenge](ant-challenge.md) and the [hives](hive.md). It can be reached by going through the gap behind the Top Ant Exterminators Leaderboard, going on top of the Ant Gate, or by walking on top of the hives to the egg claim.
 
 The player can combine 2,500 [Gumdrops](gumdrops.md) here in order to receive a [Gummy Bee Egg](egg.md#Gummy_Bee_Egg), once.
 
@@ -17,7 +17,7 @@ The player can combine 2,500 [Gumdrops](gumdrops.md) here in order to receive a 
 
 Standing on the white platform prompts players with a message saying, "Combine 2500 [Gumdrops](gumdrops.md) into a [Gummy Bee](gummy-bee.md)" if they haven't claimed a [Gummy Bee Egg](egg.md#Gummy_Bee_Egg). If the player already owns one, the text saying, "You Already Own a Gummy Bee" is displayed.
 
-Whenever a player forms a Gummy Bee Egg, a slight remix of "[gbtune1](music.md)" (the music played around the Gummy Bee Egg Claim and in [Gummy Bear's Lair](gummy-bear-s-lair.md)) is played throughout the map and a server-wide announcement is made reading:
+Whenever a player forms a Gummy Bee Egg, a slight remix of "[gbtune1](music.md)" (the music played around the Gummy Bee Claimer and in [Gummy Bear's Lair](gummy-bear-s-lair.md)) is played throughout the map and a server-wide announcement is made reading:
 🎉 {Username} has formed a Gummy Bee 🎉
 
 ## Teleporting to the Lair
@@ -32,14 +32,14 @@ Using Gumdrops while standing on the model with Goo Hotshot teleports the player
 
 ## Music
 
-Gummy Bee Egg Claim's theme:
+Gummy Bee Claimer's theme:
 
 The sound that plays when the player combines 2500 gumdrops into a [Gummy Bee Egg](egg.md#Gummy_Bee_Egg):
 
 ## Trivia
 
 * Over the course of the Beesmas events succeeding the first one in 2018, there were several presents placed beyond an [obstacle course](obstacle-courses.md) next to the claim with a theme similar to gumdrops.
-* This is one of two egg claims in the map, the other being the [Vicious Bee Egg Claim](vicious-bee-egg-claim.md) for [Vicious Bee](vicious-bee.md).
+* This is one of two egg claims in the map, the other being the [Vicious Bee Claimer](vicious-bee-egg-claim.md) for [Vicious Bee](vicious-bee.md).
 * At night time, the Gummy Bee model's face glows as well as the teal outline of the pad.
 * An alternative way to reach this is by jumping on top of one of the Ant Pass Dispensers, jumping on to the rock by the Ant Gate, walking across the Ant Gate, and jumping onto the pad.
 * This is the only bee claim to have a different soundtrack than the area around it playing gbtune1.
@@ -68,7 +68,7 @@ The sound that plays when the player combines 2500 gumdrops into a [Gummy Bee Eg
 <tr>
 <th class="NavCategory">Machines
 </th>
-<td class="NavLinks NavLinksBasicEven"><b><a href="honey-dispenser.html">Honey Dispenser</a> • <a href="royal-jelly-dispenser.html">Royal Jelly Dispenser</a> • <a href="treat-dispenser.html">Treat Dispenser</a> • <a href="instant-converter.html">Instant Converter</a> • <a href="wealth-clock.html">Wealth Clock</a> • <a href="moon-amulet-generator.html">Moon Amulet Generator</a> • <a href="memory-match.html">Memory Match</a> • <a href="blue-field-booster.html">Blue Field Booster</a> • <a href="red-field-booster.html">Red Field Booster</a> • <a href="field-booster.html">Field Booster</a> • <a href="blueberry-dispenser.html">Blueberry Dispenser</a> • <a href="strawberry-dispenser.html">Strawberry Dispenser</a> • <a href="honeystorm.html">Honeystorm</a> • <a href="special-sprout-summoner.html">Special Sprout Summoner</a> • <a href="free-ant-pass-dispenser.html">Free Ant Pass Dispenser</a> • <a href="ant-pass-dispenser.html">Ant Pass Dispenser</a> • <a href="glue-dispenser.html">Glue Dispenser</a> • <a href="blender.html">Blender</a> • <a href="coconut-dispenser.html">Coconut Dispenser</a> • <a href="mythic-meteor-shower.html">Mythic Meteor Shower</a> • <a href="free-robo-pass-dispenser.html">Free Robo Pass Dispenser</a> • <a href="robo-pass-dispenser.html">Robo Pass Dispenser</a> • <a href="sticker-stack.html">Sticker Stack</a> • <a href="sticker-printer.html">Sticker Printer</a> • <a href="nectar-condenser.html">Nectar Condenser</a></b>
+<td class="NavLinks NavLinksBasicEven"><b><a href="honey-dispenser.html">Honey Dispenser</a> • <a href="royal-jelly-dispenser.html">Royal Jelly Dispenser</a> • <a href="treat-dispenser.html">Treat Dispenser</a> • <a href="instant-converter.html">Instant Converter</a> • <a href="wealth-clock.html">Wealth Clock</a> • <a href="moon-amulet-generator.html">Moon Amulet Generator</a> • <a href="memory-match.html">Memory Match</a> • <a href="blue-field-booster.html">Blue Field Booster</a> • <a href="red-field-booster.html">Red Field Booster</a> • <a href="field-booster.html">Field Booster</a> • <a href="blueberry-dispenser.html">Blueberry Dispenser</a> • <a href="strawberry-dispenser.html">Strawberry Dispenser</a> • <a href="blue-extract-dispenser.html">Blue Extract Dispenser</a> • <a href="red-extract-dispenser.html">Red Extract Dispenser</a> • <a href="honeystorm.html">Honeystorm</a> • <a href="special-sprout-summoner.html">Special Sprout Summoner</a> • <a href="free-ant-pass-dispenser.html">Free Ant Pass Dispenser</a> • <a href="ant-pass-dispenser.html">Ant Pass Dispenser</a> • <a href="glue-dispenser.html">Glue Dispenser</a> • <a href="blender.html">Blender</a> • <a href="coconut-dispenser.html">Coconut Dispenser</a> • <a href="mythic-meteor-shower.html">Mythic Meteor Shower</a> • <a href="free-robo-pass-dispenser.html">Free Robo Pass Dispenser</a> • <a href="robo-pass-dispenser.html">Robo Pass Dispenser</a> • <a href="sticker-stack.html">Sticker Stack</a> • <a href="sticker-printer.html">Sticker Printer</a> • <a href="nectar-condenser.html">Nectar Condenser</a></b>
 </td></tr>
 <tr>
 <th class="NavCategory">Transportation
@@ -83,7 +83,7 @@ The sound that plays when the player combines 2500 gumdrops into a [Gummy Bee Eg
 <tr>
 <th class="NavCategory">Other<br/>Places
 </th>
-<td class="NavLinks NavLinksBasicOdd"><b><a href="hive.html">Hive</a> • <a href="obstacle-courses.html">Obstacle Courses</a> • King Beetle Lair • <a href="white-tunnel.html">White Tunnel</a> • <a href="werewolf-s-cave.html">Werewolf's Cave</a> • <a href="ant-challenge.html">Ant Challenge</a> • <a href="star-hall.html">Star Hall</a> • <a href="gummy-bear-s-lair.html">Gummy Bear's Lair</a> • <a href="ant-challenge-info.html">Ant Challenge Info</a> • <a href="vicious-bee-egg-claim.html">Vicious Bee Egg Claim</a> • <strong class="mw-selflink selflink">Gummy Bee Egg Claim</strong> • <a href="wind-shrine.html">Wind Shrine</a> • <a href="mazes.html">Mazes</a> • <a href="hive-hub.html">Hive Hub</a> • <a href="sticker-seeker-quest-machine.html">Sticker-Seeker Quest Machine</a></b>
+<td class="NavLinks NavLinksBasicOdd"><b><a href="hive.html">Hive</a> • <a href="obstacle-courses.html">Obstacle Courses</a> • King Beetle Lair • <a href="white-tunnel.html">White Tunnel</a> • <a href="werewolf-s-cave.html">Werewolf's Cave</a> • <a href="ant-challenge.html">Ant Challenge</a> • <a href="star-hall.html">Star Hall</a> • <a href="gummy-bear-s-lair.html">Gummy Bear's Lair</a> • <a href="ant-challenge-info.html">Ant Challenge Info</a> • <a href="vicious-bee-egg-claim.html">Vicious Bee Claimer</a> • <strong class="mw-selflink selflink">Gummy Bee Claimer</strong> • <a href="wind-shrine.html">Wind Shrine</a> • <a href="mazes.html">Mazes</a> • <a href="hive-hub.html">Hive Hub</a> • <a href="sticker-seeker-quest-machine.html">Sticker-Seeker Quest Machine</a></b>
 </td></tr>
 <tr>
 <th class="NavCategory">Event<br/>Locations

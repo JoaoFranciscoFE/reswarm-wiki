@@ -128,7 +128,7 @@ One from the following pool:
 </p>
 <div style="text-align: center;">Confectionery Gift Box
 </div></td>
-<td>Inside a cave near <a href="gummy-bee-egg-claim.html">Gummy Bee Egg Claim</a>.
+<td>Inside a cave near <a href="gummy-bee-egg-claim.html">Gummy Bee Claimer</a>.
 </td>
 <td>9
 </td>

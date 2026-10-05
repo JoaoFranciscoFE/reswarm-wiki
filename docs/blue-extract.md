@@ -21,6 +21,7 @@ The **Blue Extract** is an inventory item added in the 2018-11-25 update. The pu
 
 ## Ways to Obtain
 
+* Using the [Blue Extract Dispenser](blue-extract-dispenser.md) in the [Blue HQ](blue-hq.md), which gives 10 plus one for each Blue bee in the hive every 8 hours.
 * Crafting it via [Blender](blender.md) for:
   * 50 [Blueberries](blueberry.md)
   * 10 [Royal Jellies](royal-jelly.md)

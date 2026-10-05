@@ -26,7 +26,7 @@ tags: ["Items", "Accessories", "Hats", "Crafted", "Goo", "Colorless"]
 </div>
 </aside>
 
-The **Gummy Mask** is a mask available for purchase in [Gummy Bear's Lair](gummy-bear-s-lair.md). It can be reached by touching the [Gummy Bee](gummy-bee.md) model on the [Gummy Bee Egg Claim](gummy-bee-egg-claim.md) and using [gumdrops](gumdrops.md) if the player has obtained the [Goo Hotshot](badges.md#Goo_Badge) badge.
+The **Gummy Mask** is a mask available for purchase in [Gummy Bear's Lair](gummy-bear-s-lair.md). It can be reached by touching the [Gummy Bee](gummy-bee.md) model on the [Gummy Bee Claimer](gummy-bee-egg-claim.md) and using [gumdrops](gumdrops.md) if the player has obtained the [Goo Hotshot](badges.md#Goo_Badge) badge.
 
 <table class="article-table">
 <tbody><tr>

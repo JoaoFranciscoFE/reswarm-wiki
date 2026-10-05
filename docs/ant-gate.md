@@ -22,7 +22,7 @@ tags: ["Locations", "Gates", "Ant Challenge"]
 </div>
 <div class="pi-item pi-data pi-item-spacing pi-border-color" data-source="extras">
 <h3 class="pi-data-label pi-secondary-font">Extras</h3>
-<div class="pi-data-value pi-font"><ul><li><a href="ant-challenge.html">Ant Challenge</a></li><li><a href="free-ant-pass-dispenser.html">Free Ant Pass Dispenser</a></li><li><a href="ant-challenge-info.html">Ant Challenge Info</a></li><li>Top Ant Exterminators</li><li><a href="gummy-bee-egg-claim.html">Gummy Bee Egg Claim</a></li><li><a href="hive-hub.html">Hive Hub Portal</a></li></ul></div>
+<div class="pi-data-value pi-font"><ul><li><a href="ant-challenge.html">Ant Challenge</a></li><li><a href="free-ant-pass-dispenser.html">Free Ant Pass Dispenser</a></li><li><a href="ant-challenge-info.html">Ant Challenge Info</a></li><li>Top Ant Exterminators</li><li><a href="gummy-bee-egg-claim.html">Gummy Bee Claimer</a></li><li><a href="hive-hub.html">Hive Hub Portal</a></li></ul></div>
 </div>
 </aside>
 
@@ -40,11 +40,11 @@ During Beesmas, the audio "Drone" plays during daytime instead.
 * This gate and the [Windy Bee Gate](windy-bee-gate.md) are the only gates in the game that don't have a [Royal Jelly](royal-jelly.md) token in the area behind it.
   * However, the Windy Bee Gate has a [Star Jelly](royal-jelly.md#Star_Jelly) token, making this the only gate without any royal jelly tokens at all.
 * This gate and the Windy Bee Gate are also the only gates that is designed based on a component of the zone (e. g. The Ant Gate has the [Ant Challenge](ant-challenge.md) in it).
-* The [Gummy Bee Egg Claim](gummy-bee-egg-claim.md) is near this gate, to the side of the Ant Gate closest to the [hives](hive.md).
+* The [Gummy Bee Claimer](gummy-bee-egg-claim.md) is near this gate, to the side of the Ant Gate closest to the [hives](hive.md).
 * There is a [Ticket](ticket.md) token on top of the gate.
 * The [Army Ant](army-ant.md) on top of the gate has glowing eyes, but in the [Ant Challenge](ant-challenge.md), Army Ants (and all the other [ants](ants.md)) do not have glowing eyes.
 * As of the 2019-09-28 update, you will get teleported back to spawn if you manage to bypass the gate.
-* There is a secret path behind the Global Top Ant Exterminators Leaderboard, which leads to an [Ant Pass](ant-pass.md) and the Gummy Bee Egg Claim.
+* There is a secret path behind the Global Top Ant Exterminators Leaderboard, which leads to an [Ant Pass](ant-pass.md) and the Gummy Bee Claimer.
 * This gate indirectly has a temporary quest giver, being [Gummy Bear](gummy-bear.md) and his quest "Gummy Bear's Goo Years Beacon".
 * This and the [Basic Bee Gate](basic-bee-gate.md) are the only gates that lead to an area where there is nothing able to be purchased with [Honey](honey.md).
 * This is the only gate to have a [mob](mobs.md) representing it.
@@ -71,7 +71,7 @@ During Beesmas, the audio "Drone" plays during daytime instead.
 <tr>
 <th class="NavCategory">Machines
 </th>
-<td class="NavLinks NavLinksBasicEven"><b><a href="honey-dispenser.html">Honey Dispenser</a> • <a href="royal-jelly-dispenser.html">Royal Jelly Dispenser</a> • <a href="treat-dispenser.html">Treat Dispenser</a> • <a href="instant-converter.html">Instant Converter</a> • <a href="wealth-clock.html">Wealth Clock</a> • <a href="moon-amulet-generator.html">Moon Amulet Generator</a> • <a href="memory-match.html">Memory Match</a> • <a href="blue-field-booster.html">Blue Field Booster</a> • <a href="red-field-booster.html">Red Field Booster</a> • <a href="field-booster.html">Field Booster</a> • <a href="blueberry-dispenser.html">Blueberry Dispenser</a> • <a href="strawberry-dispenser.html">Strawberry Dispenser</a> • <a href="honeystorm.html">Honeystorm</a> • <a href="special-sprout-summoner.html">Special Sprout Summoner</a> • <a href="free-ant-pass-dispenser.html">Free Ant Pass Dispenser</a> • <a href="ant-pass-dispenser.html">Ant Pass Dispenser</a> • <a href="glue-dispenser.html">Glue Dispenser</a> • <a href="blender.html">Blender</a> • <a href="coconut-dispenser.html">Coconut Dispenser</a> • <a href="mythic-meteor-shower.html">Mythic Meteor Shower</a> • <a href="free-robo-pass-dispenser.html">Free Robo Pass Dispenser</a> • <a href="robo-pass-dispenser.html">Robo Pass Dispenser</a> • <a href="sticker-stack.html">Sticker Stack</a> • <a href="sticker-printer.html">Sticker Printer</a> • <a href="nectar-condenser.html">Nectar Condenser</a></b>
+<td class="NavLinks NavLinksBasicEven"><b><a href="honey-dispenser.html">Honey Dispenser</a> • <a href="royal-jelly-dispenser.html">Royal Jelly Dispenser</a> • <a href="treat-dispenser.html">Treat Dispenser</a> • <a href="instant-converter.html">Instant Converter</a> • <a href="wealth-clock.html">Wealth Clock</a> • <a href="moon-amulet-generator.html">Moon Amulet Generator</a> • <a href="memory-match.html">Memory Match</a> • <a href="blue-field-booster.html">Blue Field Booster</a> • <a href="red-field-booster.html">Red Field Booster</a> • <a href="field-booster.html">Field Booster</a> • <a href="blueberry-dispenser.html">Blueberry Dispenser</a> • <a href="strawberry-dispenser.html">Strawberry Dispenser</a> • <a href="blue-extract-dispenser.html">Blue Extract Dispenser</a> • <a href="red-extract-dispenser.html">Red Extract Dispenser</a> • <a href="honeystorm.html">Honeystorm</a> • <a href="special-sprout-summoner.html">Special Sprout Summoner</a> • <a href="free-ant-pass-dispenser.html">Free Ant Pass Dispenser</a> • <a href="ant-pass-dispenser.html">Ant Pass Dispenser</a> • <a href="glue-dispenser.html">Glue Dispenser</a> • <a href="blender.html">Blender</a> • <a href="coconut-dispenser.html">Coconut Dispenser</a> • <a href="mythic-meteor-shower.html">Mythic Meteor Shower</a> • <a href="free-robo-pass-dispenser.html">Free Robo Pass Dispenser</a> • <a href="robo-pass-dispenser.html">Robo Pass Dispenser</a> • <a href="sticker-stack.html">Sticker Stack</a> • <a href="sticker-printer.html">Sticker Printer</a> • <a href="nectar-condenser.html">Nectar Condenser</a></b>
 </td></tr>
 <tr>
 <th class="NavCategory">Transportation
@@ -86,7 +86,7 @@ During Beesmas, the audio "Drone" plays during daytime instead.
 <tr>
 <th class="NavCategory">Other<br/>Places
 </th>
-<td class="NavLinks NavLinksBasicOdd"><b><a href="hive.html">Hive</a> • <a href="obstacle-courses.html">Obstacle Courses</a> • King Beetle Lair • <a href="white-tunnel.html">White Tunnel</a> • <a href="werewolf-s-cave.html">Werewolf's Cave</a> • <a href="ant-challenge.html">Ant Challenge</a> • <a href="star-hall.html">Star Hall</a> • <a href="gummy-bear-s-lair.html">Gummy Bear's Lair</a> • <a href="ant-challenge-info.html">Ant Challenge Info</a> • <a href="vicious-bee-egg-claim.html">Vicious Bee Egg Claim</a> • <a href="gummy-bee-egg-claim.html">Gummy Bee Egg Claim</a> • <a href="wind-shrine.html">Wind Shrine</a> • <a href="mazes.html">Mazes</a> • <a href="hive-hub.html">Hive Hub</a> • <a href="sticker-seeker-quest-machine.html">Sticker-Seeker Quest Machine</a></b>
+<td class="NavLinks NavLinksBasicOdd"><b><a href="hive.html">Hive</a> • <a href="obstacle-courses.html">Obstacle Courses</a> • King Beetle Lair • <a href="white-tunnel.html">White Tunnel</a> • <a href="werewolf-s-cave.html">Werewolf's Cave</a> • <a href="ant-challenge.html">Ant Challenge</a> • <a href="star-hall.html">Star Hall</a> • <a href="gummy-bear-s-lair.html">Gummy Bear's Lair</a> • <a href="ant-challenge-info.html">Ant Challenge Info</a> • <a href="vicious-bee-egg-claim.html">Vicious Bee Claimer</a> • <a href="gummy-bee-egg-claim.html">Gummy Bee Claimer</a> • <a href="wind-shrine.html">Wind Shrine</a> • <a href="mazes.html">Mazes</a> • <a href="hive-hub.html">Hive Hub</a> • <a href="sticker-seeker-quest-machine.html">Sticker-Seeker Quest Machine</a></b>
 </td></tr>
 <tr>
 <th class="NavCategory">Event<br/>Locations
