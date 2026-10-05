@@ -1,6 +1,7 @@
 """Search engine and AI crawler files: robots.txt, llms.txt, agents.md, clean home URL."""
 import gzip
 import os
+import re
 
 _NAV = None
 
@@ -49,7 +50,7 @@ def on_post_build(config):
                 "Googlebot", "Google-Extended", "Bingbot", "GPTBot", "OAI-SearchBot", "ChatGPT-User",
                 "ClaudeBot", "Claude-SearchBot", "Claude-User", "PerplexityBot", "Applebot-Extended",
             ])
-            + f"Sitemap: {site}/sitemap.xml\n"
+            + f"Sitemap: {site}/sitemap.xml\nSitemap: {site}/sitemap.txt\n"
         )
 
     sections = []
@@ -88,6 +89,9 @@ def on_post_build(config):
             f.write(xml)
         with gzip.open(path + ".gz", "wt") as f:
             f.write(xml)
+        # Plain-text copy, a second sitemap format Google accepts.
+        with open(os.path.join(out, "sitemap.txt"), "w") as f:
+            f.write("".join(u + "\n" for u in re.findall(r"<loc>(.*?)</loc>", xml)))
 
 
 def on_nav(nav, config, files):
