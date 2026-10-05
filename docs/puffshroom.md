@@ -5,7 +5,7 @@ tags: ["Passive Mobs", "Mobs", "Painter Bee Event", "Re://:Swarm"]
 
 # Puffshroom
 
-
+![Puffshroom](img/mobs/Puffshroom.png){ align=right width=180 }
 
 **Puffshrooms** are passive entities that spawn naturally on the 15th and the 45th minute of the hour in a random field except Hive Hub and Challenge Fields (Ant Field); they may also spawn in the players' planters with their base level depending on the planter. Puffshrooms receive damage by collecting pollen around its vicinity, filling up the required pollen in the pollen meter will defeat the puffshroom, drop loot, and may release 0 to 4 spores that generates puffshrooms.
 

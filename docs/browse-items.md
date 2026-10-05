@@ -31,6 +31,14 @@ Feed these to bees for bond, or to change them.
 <a class="wiki-card" href="gingerbread-bear.html"><img src="img/Gingerbread_Bear.png" alt="" loading="lazy"><span>Gingerbread Bear</span></a>
 <a class="wiki-card" href="aged-gingerbread-bear.html"><img src="img/Aged_Gingerbread_Bear.png" alt="" loading="lazy"><span>Aged Gingerbread Bear</span></a>
 <a class="wiki-card" href="atomic-treat.html"><img src="img/Atomic_Treat.png" alt="" loading="lazy"><span>Atomic Treat</span></a>
+<a class="wiki-card" href="gathering-atomic-treat.html"><img src="img/Gathering_Atomic_Treat.png" alt="" loading="lazy"><span>Gathering Atomic Treat</span></a>
+<a class="wiki-card" href="energized-atomic-treat.html"><img src="img/Energized_Atomic_Treat.png" alt="" loading="lazy"><span>Energized Atomic Treat</span></a>
+<a class="wiki-card" href="critical-atomic-treat.html"><img src="img/Critical_Atomic_Treat.png" alt="" loading="lazy"><span>Critical Atomic Treat</span></a>
+<a class="wiki-card" href="conversion-atomic-treat.html"><img src="img/Conversion_Atomic_Treat.png" alt="" loading="lazy"><span>Conversion Atomic Treat</span></a>
+<a class="wiki-card" href="swift-atomic-treat.html"><img src="img/Swift_Atomic_Treat.png" alt="" loading="lazy"><span>Swift Atomic Treat</span></a>
+<a class="wiki-card" href="fierce-atomic-treat.html"><img src="img/Fierce_Atomic_Treat.png" alt="" loading="lazy"><span>Fierce Atomic Treat</span></a>
+<a class="wiki-card" href="ability-atomic-treat.html"><img src="img/Ability_Atomic_Treat.png" alt="" loading="lazy"><span>Ability Atomic Treat</span></a>
+<a class="wiki-card" href="ic-atomic-treat.html"><img src="img/IC_Atomic_Treat.png" alt="" loading="lazy"><span>IC Atomic Treat</span></a>
 <a class="wiki-card" href="star-treat.html"><img src="img/Star_Treat.png" alt="" loading="lazy"><span>Star Treat</span></a>
 </div>
 
@@ -38,6 +46,7 @@ Feed these to bees for bond, or to change them.
 
 <div class="wiki-cards">
 <a class="wiki-card" href="royal-jelly.html"><img src="img/Royal_Jelly.png" alt="" loading="lazy"><span>Royal Jelly</span></a>
+<a class="wiki-card" href="mythic-jelly.html"><img src="img/Mythic_Jelly.png" alt="" loading="lazy"><span>Mythic Jelly</span></a>
 <a class="wiki-card" href="egg.html"><img src="img/Star_Egg.png" alt="" loading="lazy"><span>Egg</span></a>
 </div>
 
@@ -126,6 +135,7 @@ Waxes upgrade beequips.
 <a class="wiki-card" href="broken-drive.html"><img src="img/Broken_Drive.png" alt="" loading="lazy"><span>Broken Drive</span></a>
 <a class="wiki-card" href="snowflake.html"><img src="img/Snowflake.png" alt="" loading="lazy"><span>Snowflake</span></a>
 <a class="wiki-card" href="spirit-petal.html"><img src="img/Spirit_Petal.png" alt="" loading="lazy"><span>Spirit Petal</span></a>
+<a class="wiki-card" href="research-points.html"><img src="img/Research_Points.png" alt="" loading="lazy"><span>Research Points</span></a>
 <a class="wiki-card" href="present.html"><img src="img/Present.png" alt="" loading="lazy"><span>Present</span></a>
 <a class="wiki-card" href="ornaments.html"><img src="img/Ornaments.png" alt="" loading="lazy"><span>Ornaments</span></a>
 <a class="wiki-card" href="translator.html"><img src="img/Translator.png" alt="" loading="lazy"><span>Translator</span></a>
@@ -136,4 +146,7 @@ Waxes upgrade beequips.
 <div class="wiki-cards">
 <a class="wiki-card" href="hive-slot.html"><img src="img/Shocked_Hive_Slot.png" alt="" loading="lazy"><span>Hive Slot</span></a>
 <a class="wiki-card" href="eviction.html"><img src="img/Eviction.png" alt="" loading="lazy"><span>Eviction</span></a>
+<a class="wiki-card" href="honeycomb-blueprint.html"><img src="img/Honeycomb_Blueprint.png" alt="" loading="lazy"><span>Honeycomb Blueprint</span></a>
+<a class="wiki-card" href="beequip-case.html"><img src="img/Beequip_Case.png" alt="" loading="lazy"><span>Beequip Case</span></a>
+<a class="wiki-card" href="sprinkler-builder.html"><img src="img/Sprinkler_Builder.png" alt="" loading="lazy"><span>Sprinkler Builder</span></a>
 </div>

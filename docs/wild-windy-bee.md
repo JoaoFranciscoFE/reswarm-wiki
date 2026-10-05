@@ -5,10 +5,11 @@ tags: ["Mobs", "Mini Bosses", "Multiplayer Bosses", "Bees"]
 
 # Wild Windy Bee
 
-![Wild Windy Bee](img/Wild_Windy_Bee.png){ align=right width=150 }
-
 <aside class="portable-infobox pi-background pi-border-color pi-theme-wikia pi-layout-stacked" role="region">
 <h2 class="pi-item pi-item-spacing pi-title pi-secondary-background" data-source="title">Wild Windy Bee</h2>
+<figure class="pi-item pi-image">
+<img alt="Wild Windy Bee" src="img/mobs/Wild_Windy_Bee.png"/>
+</figure>
 <div class="pi-item pi-data pi-item-spacing pi-border-color" data-source="location">
 <h3 class="pi-data-label pi-secondary-font">Location</h3>
 <div class="pi-data-value pi-font">All Fields except the <a href="stump-field.html">Stump Field</a>, <a href="ant-field.html">Ant Field</a>. and the <a href="hive-hub.html">Hive Hub</a>.</div>
