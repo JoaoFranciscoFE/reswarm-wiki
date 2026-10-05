@@ -12,7 +12,7 @@ This piece of content recently got an update.
 We are in the process of catching up to the game. Please feel free to help us by updating the following information:  
 The #Trivia stats need updating.
 
-**Critical Hits** are moments of increased [pollen](pollen.md) collection and attack damage, doubled at its base power. Their frequency is increased with higher [Critical Chance](system-page.md#Critical_Chance), and their strength is increased by greater [Critical Power](system-page.md#Critical_Power). A critical hit will have the pollen amount/attack damage shake and change color, similar to the animation below.
+**Critical Hits** are moments of increased [pollen](pollen.md) collection and attack damage, doubled at its base power. Their frequency is increased with higher [Critical Chance](system-page.md#Critical_Chance), and their strength is increased by greater [Critical Power](system-page.md#Critical_Power). A critical hit's pollen or damage number turns bright green and shows 1.25 times larger, similar to the animation below. Some critical hits become even stronger [Super-Crits](#super-crit).
 
 <div class="crit-demo" markdown>
 <span class="crit-num crit-pollen">+5,627!</span>
@@ -29,6 +29,22 @@ The #Trivia stats need updating.
 
 
 You can see the stats for all critical hit statistics in the [System Page](system-page.md).
+
+## How critical hits work
+
+* **Base values:** Critical Chance starts at **0%** and Critical Power at **x2**. Bonuses to both are added together, then any multipliers are applied. There is no cap, so 100% Critical Chance makes every hit a crit.
+* **When the game rolls:**
+    * A scoop, a bee gathering, or a bee ability makes **one roll for the whole collection**, and every flower in it shares the result.
+    * Pollen collected one flower at a time, such as walking over flowers, rolls **once per flower**.
+    * Attacks roll **once per hit**.
+* **Pollen:** a crit multiplies the pollen collected by Critical Power.
+* **Attacks:** a crit multiplies the damage by Critical Power.
+* **Melittology** adds these pollen-only bonuses after the normal stats:
+    * Upgrade Focus: +2% Critical Chance per Focus stack, up to +40%.
+    * Critical Edge (tool pollen only): +25% Critical Chance and x2 Critical Power.
+    * Critical Abilities (bee abilities, not bombs): +5% Critical Chance and x1.5 Critical Power.
+    * Ability Ascension (bee abilities, not bombs): +10% Critical Chance.
+    * Precision Conversion: 20% extra instant conversion on crits (not bomb crits).
 
 ## Critical Chance
 
@@ -187,79 +203,73 @@ There are certain upgrades that can be bought with cogs during the Robo Bear Cha
 * Epic Upgrades:
   * Client-Side: This upgrade gives x0.75 Critical Power.
 
-## Super-Crit
+## Super-Crit { #super-crit }
 
-When performing a critical hit, there is a chance to perform a **Super-Crit** (purple version of a critical hit) which doubles the pollen collection while also instantly converting the pollen collected, while for the attack damage is increased by roughly 33% of the player's Super-Crit Power. The frequency for a Super-Crit is increased with higher Super-Crit Chance, and their strength is increased by greater Super-Crit Power.
+A **Super-Crit** is a stronger critical hit. Whenever a hit is already a crit, the game makes a second roll against Super-Crit Chance, so the real chance of a Super-Crit is Critical Chance × Super-Crit Chance. A Super-Crit number shows in purple with a violet outline, 1.5 times larger, and shimmers before it fades.
+
+<div class="crit-demo" markdown>
+<span class="crit-num crit-super">+28,140!!</span>
+
+*The animation of a Super-Crit.*
+</div>
+
+### How Super-Crits work
+
+* **Base values:** Super-Crit Chance starts at **0%** and Super-Crit Power at **x2**, with no cap.
+* **Pollen:** Super-Crit Power multiplies on top of Critical Power, so with base stats a Super-Crit collects **x4** pollen (x2 × x2). All of a Super-Crit's pollen is **converted to honey instantly**.
+* **Attacks:** only a third of the extra Super-Crit Power applies, using `Critical Power × (1 + (Super-Crit Power − 1) / 3)`. With base stats a Super-Crit hit does about **x2.67** damage.
+* Super-Crits roll at the same times as crits: once per scoop, gathering or ability, once per flower when walking, and once per hit when attacking.
+
+| | Pollen | Attack damage |
+|---|---|---|
+| Normal | x1 | x1 |
+| Crit (base) | x2 | x2 |
+| Super-Crit (base) | x4, converted instantly | x2.67 |
 
 ### Super-Crit Chance
 
-**Super-Crit Chance** is how often a critical hit will be a Super-Crit. The player can see how much their Super-Crit Chance is by looking for the Super-Crit Chance stat in the System Page. Super-Crit Chance can be improved by several ways.
+**Super-Crit Chance** is how often a critical hit becomes a Super-Crit. It can be raised by:
 
-#### Bees
-
-##### Tokens
-
-* The [Precision](buffs-debuffs.md#Precision) buff granted from the [Target Practice](ability-tokens.md#Target_Practice) ability gives +2% per token and caps at +20% from ten tokens.
-* The [Precise Mark](buffs-debuffs.md#Precise_Mark) buff from the Target Practice ability gives +7% Super-Crit Chance per token and caps at +21% Super-Crit Chance from three tokens.
-* The [Tabby Blessing+](buffs-debuffs.md#From_Ability_Tokens) buff, granted from collecting [Tabby Love](ability-tokens.md#Tabby_Love) from a [Gifted](gifted-bee.md) [Tabby Bee](tabby-bee.md) while having maximum Tabby Love stacks, grants +1% Super-Crit Chance.
-
-##### Gifted Hive Bonuses
-
-* Gifted [Precise Bee](precise-bee.md) gives +3% Super-Crit Chance.
-
-##### Beequips
-
-* Individual Bee:
-  * [Pink Shades](pink-shades.md) can give from +10% Super-Crit Chance to +15% Super-Crit Chance. Using waxes can increase it to +40% Super-Crit Chance.
-* Hive Bonus:
-  * [Pink Shades](pink-shades.md) can give +1% Super-Crit Chance as a hive bonus.
-
-### Buffs
-
-* Using a [Super Smoothie](super-smoothie.md) gives +1% Super-Crit Chance. The buff can also be given from certain codes.
-* Collecting Violet Petals from blooms give 5% Super-Crit Chance.
-
-### Robo Bear Challenge
-
-* Legendary Upgrades:
-  * Bruteforce: This upgrade gives +6% Super-Crit Chance.
+* **Bees**
+    * [Precise Bee](precise-bee.md): +3% Super-Crit Chance, and another +3% when [Gifted](gifted-bee.md).
+* **Buffs**
+    * Precise Mark (from Precise Bee's ability): +7% Super-Crit Chance and +7% Critical Chance per stack, up to 3 stacks (+21%).
+    * Precision: +2% Super-Crit Chance per stack, up to 10 stacks (+20%) for 60 seconds.
+    * Crimbolt's Heat (Crimbolt Bee): +0% to +5% Super-Crit Chance, higher the more time the buff has left.
+    * [Super Smoothie](super-smoothie.md): +1%.
+    * Tabby Blessing+: +1% (also +1% Critical Chance and +25% Critical Power).
+    * Galentine's Blessing: +1%.
+    * Console Launch Boost (event buff): +1%.
+    * Bloxiade (Retro Challenge only): +1% (also +5% Critical Chance).
+* **[Beequips](beequip.md)**
+    * Six-Point Shuriken: +15% to +20%, plus +1% to +2% per wax upgrade (up to 12).
+    * [Demon Talisman](demon-talisman.md): +5% to +10%, plus +2% per wax upgrade (up to 10).
+    * [Pink Shades](pink-shades.md): +10% to +15%, more from wax upgrades, and +1% from Caustic Wax.
+* **[Robo Bear Challenge](robo-bear-challenge.md)**
+    * Bruteforce (Legendary): +6% Super-Crit Chance and x1.25 Red pollen.
+* **Other**
+    * Violet petals from blooms: +5%, growing slightly with each stack.
+    * Gummy Globe ornament on the Beesmas Tree: +1%.
 
 ### Super-Crit Power
 
-**Super-Crit Power** is how strong a Super-Crit will be. The player can see how much their Super-Crit Power is by looking for the Super-Crit Power stat in the System Page. Super-Crit Power can be improved by several ways.
+**Super-Crit Power** is how strong a Super-Crit is. It can be raised by:
 
-#### Bees
+* **Buffs**
+    * Dark Heat (from the [Dark Scythe](dark-scythe.md) and [Honey Hammer](honey-hammer.md)): x1.05 Super-Crit Power per stack, up to 100 stacks.
+    * Crimbolt's Heat (Crimbolt Bee): x1 to x2 Super-Crit Power, higher the more time the buff has left.
+* **[Beequips](beequip.md)**
+    * Six-Point Shuriken: +75% to +110%, plus +7% to +10% per wax upgrade (up to 12).
+    * [Pink Shades](pink-shades.md): Super-Crit Power from wax upgrades.
+    * [Demon Talisman](demon-talisman.md): +2% hive bonus per Caustic Wax (up to 5).
+    * [Whistle](whistle.md), [Kazoo](kazoo.md) (+1%) and [Camo Bandana](camo-bandana.md) (+1%): Super-Crit Power hive bonuses from Caustic Wax.
+* **[Amulets](amulet.md)**
+    * [Diamond Cog Amulet](cog-amulet.md): +10% to +15% (one of its random stats).
+    * [Supreme Cog Amulet](cog-amulet.md): +15% to +25% (one of its random stats).
+* **[Robo Bear Challenge](robo-bear-challenge.md)**
+    * Pseudo-RNG (Legendary): x1.25 Super-Crit Power, +3% Critical Chance and x2 Clover Field pollen.
+* **[Stickers](sticker.md)** in the Sticker Stack, +1% each: Purple 4-Point Flower, Stretched Head Bear, Squashed Head Bear, Royal Bear, Purple Fleuron, Precise Eye and Royal Symbol.
+* **Other**
+    * Bread Climp ornament on the Beesmas Tree: +5%.
 
-##### Beequips
-
-* Individual Bee:
-  * A [Camo Bandana](camo-bandana.md) can give up to +14% Super-Crit Power.
-* Hive Bonus:
-  * A [Whistle](whistle.md) can give from +1% Super-Crit Power to +20% Super-Crit Power from waxing.
-  * [Pink Shades](pink-shades.md) from +2% Super-Crit Power to +30% Super-Crit Power from waxing.
-  * A [Demon Talisman](demon-talisman.md) can give up to 10% Super-Crit Power as a hive bonus from waxing.
-
-### Amulets
-
-* [Cog Amulets](cog-amulet.md):
-  * The Diamond Cog Amulet can give from +10% Super-Crit Power up to +12% Super-Crit Power.
-  * The Supreme Cog Amulet can give from +15% Super-Crit Power up to +25% Super-Crit Power.
-
-### Buffs
-
-* Dark Heat made from dark flames using the [Dark Scythe](dark-scythe.md) gives x1.05 Super-Crit Power with each additional dark flame granting x0.05 Super-Crit Power.
-
-#### Stickers
-
-* The Precise Eye Sticker gives +1% Super-Crit Power.
-* The Squashed Head Bear Sticker gives +1% Super-Crit Power.
-* Purple Fleuron Sticker gives +1% Super-Crit Power.
-* The Royal Symbol Sticker gives +1% Super-Crit Power.
-* The Royal Bear Sticker gives +1% Super-Crit Power.
-* The Purple 4-Point Flower Sticker gives +1% Super-Crit Power.
-
-### Robo Bear Challenge
-
-* Legendary Upgrades:
-  * Pseudo-RNG: This upgrade gives x1.25 Super-Crit Power.
-
+No tool raises Super-Crit stats by itself, and no Melittology node changes them.
