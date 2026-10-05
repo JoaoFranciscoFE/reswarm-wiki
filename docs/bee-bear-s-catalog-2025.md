@@ -227,7 +227,7 @@ tags: []
 <th>Description
 </th></tr>
 <tr>
-<td><figure class="mw-halign-center" typeof="mw:Error mw:File"><figcaption></figcaption></figure><div style="text-align: center;"><a href="egg.html#Silver_Egg"><span class="color-template color-template-silver-egg color-template-background-clip">Silver Egg</span></a>
+<td><figure class="mw-halign-center"><img alt="Silver Egg" src="img/Silver_Egg.png" width="60"/></figure><div style="text-align: center;"><a href="egg.html#Silver_Egg"><span class="color-template color-template-silver-egg color-template-background-clip">Silver Egg</span></a>
 </div></td>
 <td><img alt="Snowflake" height="25" src="img/Snowflake.png" width="25"/>25 <a href="snowflake.html"><span class="color-template color-template-snowflake color-template-background-clip">Snowflakes</span></a><br/>
 <p><img alt="Gingerbread Bear" height="25" src="img/Gingerbread_Bear.png" width="25"/>5 <a href="gingerbread-bear.html"><span class="color-template color-template-gingerbread-bear color-template-background-clip">Gingerbread Bears</span></a>
@@ -236,21 +236,21 @@ tags: []
 <td>Hatches into a Rare, <a href="bees-epic.html">Epic</a>, <a href="bees-legendary.html">Legendary</a>, or <a href="bees-mythic.html">Mythic Bee</a>!
 </td></tr>
 <tr>
-<td><figure class="mw-halign-center" typeof="mw:Error mw:File"><figcaption></figcaption></figure><div style="text-align: center;"><a href="egg.html#Gold_Egg"><span class="color-template color-template-gold-egg color-template-background-clip">Gold Egg</span></a>
+<td><figure class="mw-halign-center"><img alt="Gold Egg" src="img/Gold_Egg.png" width="60"/></figure><div style="text-align: center;"><a href="egg.html#Gold_Egg"><span class="color-template color-template-gold-egg color-template-background-clip">Gold Egg</span></a>
 </div></td>
 <td><img alt="Gingerbread Bear" height="25" src="img/Gingerbread_Bear.png" width="25"/>10 <a href="gingerbread-bear.html"><span class="color-template color-template-gingerbread-bear color-template-background-clip">Gingerbread Bears</span></a>
 </td>
 <td>Hatches into a Epic, <a href="bees-legendary.html">Legendary</a>, or <a href="bees-mythic.html">Mythic Bee</a>!
 </td></tr>
 <tr>
-<td><figure class="mw-halign-center" typeof="mw:Error mw:File"><figcaption></figcaption></figure><div style="text-align: center;"><a href="egg.html#Diamond_Egg"><span class="color-template color-template-diamond-egg color-template-background-clip">Diamond Egg</span></a>
+<td><figure class="mw-halign-center"><img alt="Diamond Egg" src="img/Diamond_Egg.png" width="60"/></figure><div style="text-align: center;"><a href="egg.html#Diamond_Egg"><span class="color-template color-template-diamond-egg color-template-background-clip">Diamond Egg</span></a>
 </div></td>
 <td><img alt="Snowflake" height="25" src="img/Snowflake.png" width="25"/>1,000 <a href="snowflake.html"><span class="color-template color-template-snowflake color-template-background-clip">Snowflakes</span></a>
 </td>
 <td>Always hatches into a Legendary or Mythic Bee!
 </td></tr>
 <tr>
-<td><figure class="mw-halign-center" typeof="mw:Error mw:File"><figcaption></figcaption></figure><div style="text-align: center;"><a href="egg.html#Mythic_Egg"><span class="color-template color-template-mythic-egg color-template-background-clip">Mythic Egg</span></a>
+<td><figure class="mw-halign-center"><img alt="Mythic Egg" src="img/Mythic_Egg.png" width="60"/></figure><div style="text-align: center;"><a href="egg.html#Mythic_Egg"><span class="color-template color-template-mythic-egg color-template-background-clip">Mythic Egg</span></a>
 </div></td>
 <td><img alt="Snowflake" height="25" src="img/Snowflake.png" width="25"/>500 <a href="snowflake.html"><span class="color-template color-template-snowflake color-template-background-clip">Snowflakes</span></a><br/>
 <p><img alt="Gingerbread Bear" height="25" src="img/Gingerbread_Bear.png" width="25"/>100 <a href="gingerbread-bear.html"><span class="color-template color-template-gingerbread-bear color-template-background-clip">Gingerbread Bears</span></a>
@@ -259,7 +259,7 @@ tags: []
 <td>Always hatches into a random Mythic bee!
 </td></tr>
 <tr>
-<td><figure class="mw-halign-center" typeof="mw:Error mw:File"><figcaption></figcaption></figure><div style="text-align: center;"><a href="egg.html#Gifted_Silver_Egg"><span class="color-template color-template-gifted-silver-egg color-template-background-clip">Gifted Silver Egg</span></a>
+<td><figure class="mw-halign-center"><img alt="Gifted Silver Egg" src="img/Gifted_Silver_Egg.png" width="60"/></figure><div style="text-align: center;"><a href="egg.html#Gifted_Silver_Egg"><span class="color-template color-template-gifted-silver-egg color-template-background-clip">Gifted Silver Egg</span></a>
 </div></td>
 <td><img alt="Snowflake" height="25" src="img/Snowflake.png" width="25"/>2,500 <a href="snowflake.html"><span class="color-template color-template-snowflake color-template-background-clip">Snowflakes</span></a><br/>
 <p><img alt="Gingerbread Bear" height="25" src="img/Gingerbread_Bear.png" width="25"/>10 <a href="gingerbread-bear.html"><span class="color-template color-template-gingerbread-bear color-template-background-clip">Gingerbread Bears</span></a>
@@ -268,21 +268,21 @@ tags: []
 <td>Always hatches into a random Gifted Rare, Epic, Legendary or Mythic bee!
 </td></tr>
 <tr>
-<td><figure class="mw-halign-center" typeof="mw:Error mw:File"><figcaption></figcaption></figure><div style="text-align: center;"><a href="egg.html#Gifted_Gold_Egg"><span class="color-template color-template-gifted-gold-egg color-template-background-clip">Gifted Gold Egg</span></a>
+<td><figure class="mw-halign-center"><img alt="Gifted Gold Egg" src="img/Gifted_Gold_Egg.png" width="60"/></figure><div style="text-align: center;"><a href="egg.html#Gifted_Gold_Egg"><span class="color-template color-template-gifted-gold-egg color-template-background-clip">Gifted Gold Egg</span></a>
 </div></td>
 <td><img alt="Gingerbread Bear" height="25" src="img/Gingerbread_Bear.png" width="25"/>100 <a href="gingerbread-bear.html"><span class="color-template color-template-gingerbread-bear color-template-background-clip">Gingerbread Bears</span></a>
 </td>
 <td>Always hatches into a random Gifted Epic, Legendary or Mythic bee!
 </td></tr>
 <tr>
-<td><figure class="mw-halign-center" typeof="mw:Error mw:File"><figcaption></figcaption></figure><div style="text-align: center;"><a href="egg.html#Gifted_Diamond_Egg"><span class="color-template color-template-gifted-diamond-egg color-template-background-clip">Gifted Diamond Egg</span></a>
+<td><figure class="mw-halign-center"><img alt="Gifted Diamond Egg" src="img/Gifted_Diamond_Egg.png" width="60"/></figure><div style="text-align: center;"><a href="egg.html#Gifted_Diamond_Egg"><span class="color-template color-template-gifted-diamond-egg color-template-background-clip">Gifted Diamond Egg</span></a>
 </div></td>
 <td><img alt="Snowflake" height="25" src="img/Snowflake.png" width="25"/>15,000 <a href="snowflake.html"><span class="color-template color-template-snowflake color-template-background-clip">Snowflakes</span></a>
 </td>
 <td>Always hatches into a random Gifted Legendary or Mythic bee!
 </td></tr>
 <tr>
-<td><figure class="mw-halign-center" typeof="mw:Error mw:File"><figcaption></figcaption></figure><div style="text-align: center;"><a href="egg.html#Gifted_Mythic_Egg"><span class="color-template color-template-gifted-mythic-egg color-template-background-clip">Gifted Mythic Egg</span></a>
+<td><figure class="mw-halign-center"><img alt="Gifted Mythic Egg" src="img/Gifted_Mythic_Egg.png" width="60"/></figure><div style="text-align: center;"><a href="egg.html#Gifted_Mythic_Egg"><span class="color-template color-template-gifted-mythic-egg color-template-background-clip">Gifted Mythic Egg</span></a>
 </div></td>
 <td><img alt="Snowflake" height="25" src="img/Snowflake.png" width="25"/>10,000 <a href="snowflake.html"><span class="color-template color-template-snowflake color-template-background-clip">Snowflakes</span></a><br/>
 <p><img alt="Gingerbread Bear" height="25" src="img/Gingerbread_Bear.png" width="25"/>150 <a href="gingerbread-bear.html"><span class="color-template color-template-gingerbread-bear color-template-background-clip">Gingerbread Bears</span></a>
@@ -302,42 +302,42 @@ tags: []
 <th>Description
 </th></tr>
 <tr>
-<td><figure class="mw-halign-center" typeof="mw:Error mw:File"><figcaption></figcaption></figure><div style="text-align: center">Cyan Star Sticker
+<td><figure class="mw-halign-center"><img alt="Cyan Star Sticker" src="img/Cyan_Star.png" width="60"/></figure><div style="text-align: center">Cyan Star Sticker
 </div></td>
 <td><img alt="Snowflake" height="25" src="img/Snowflake.png" width="25"/>10,000 <a href="snowflake.html"><span class="color-template color-template-snowflake color-template-background-clip">Snowflakes</span></a>
 </td>
 <td>A Sticker that can be stuck to your hive.
 </td></tr>
 <tr>
-<td><figure class="mw-halign-center" typeof="mw:Error mw:File"><figcaption></figcaption></figure><div style="text-align: center">Shining Star Sticker
+<td><figure class="mw-halign-center"><img alt="Shining Star Sticker" src="img/Shining_Star.png" width="60"/></figure><div style="text-align: center">Shining Star Sticker
 </div></td>
 <td><img alt="Snowflake" height="25" src="img/Snowflake.png" width="25"/>10,000 <a href="snowflake.html"><span class="color-template color-template-snowflake color-template-background-clip">Snowflakes</span></a>
 </td>
 <td>A Sticker that can be stuck to your hive.
 </td></tr>
 <tr>
-<td><figure class="mw-halign-center" typeof="mw:Error mw:File"><figcaption></figcaption></figure><div style="text-align: center">Black Star Sticker
+<td><figure class="mw-halign-center"><img alt="Black Star Sticker" src="img/Black_Star.png" width="60"/></figure><div style="text-align: center">Black Star Sticker
 </div></td>
 <td><img alt="Snowflake" height="25" src="img/Snowflake.png" width="25"/>10,000 <a href="snowflake.html"><span class="color-template color-template-snowflake color-template-background-clip">Snowflakes</span></a>
 </td>
 <td>A Sticker that can be stuck to your hive.
 </td></tr>
 <tr>
-<td><figure class="mw-halign-center" typeof="mw:Error mw:File"><figcaption></figcaption></figure><div style="text-align: center">Banana Painting Sticker
+<td><figure class="mw-halign-center"><img alt="Banana Painting Sticker" src="img/Banana_Painting.png" width="60"/></figure><div style="text-align: center">Banana Painting Sticker
 </div></td>
 <td><img alt="Gingerbread Bear" height="25" src="img/Gingerbread_Bear.png" width="25"/>100 <a href="gingerbread-bear.html"><span class="color-template color-template-gingerbread-bear color-template-background-clip">Gingerbread Bears</span></a>
 </td>
 <td>A Sticker that can be stuck to your hive.
 </td></tr>
 <tr>
-<td><figure class="mw-halign-center" typeof="mw:Error mw:File"><figcaption></figcaption></figure><div style="text-align: center">Prism Painting Sticker
+<td><figure class="mw-halign-center"><img alt="Prism Painting Sticker" src="img/Prism_Painting.png" width="60"/></figure><div style="text-align: center">Prism Painting Sticker
 </div></td>
 <td><img alt="Gingerbread Bear" height="25" src="img/Gingerbread_Bear.png" width="25"/>100 <a href="gingerbread-bear.html"><span class="color-template color-template-gingerbread-bear color-template-background-clip">Gingerbread Bears</span></a>
 </td>
 <td>A Sticker that can be stuck to your hive.
 </td></tr>
 <tr>
-<td><figure class="mw-halign-center" typeof="mw:Error mw:File"><figcaption></figcaption></figure><div style="text-align: center">Wavy Festive Hive Skin
+<td><figure class="mw-halign-center"><img alt="Wavy Festive Hive Skin" src="img/Wavy_Festive_Hive_Skin.png" width="60"/></figure><div style="text-align: center">Wavy Festive Hive Skin
 </div></td>
 <td><img alt="Snowflake" height="25" src="img/Snowflake.png" width="25"/>2,500 <a href="snowflake.html"><span class="color-template color-template-snowflake color-template-background-clip">Snowflakes</span></a><br/>
 <p><img alt="Gingerbread Bear" height="25" src="img/Gingerbread_Bear.png" width="25"/>10 <a href="gingerbread-bear.html"><span class="color-template color-template-gingerbread-bear color-template-background-clip">Gingerbread Bears</span></a>
@@ -346,7 +346,7 @@ tags: []
 <td>A hive skin with undulating edges in the color scheme of Festive Bee!
 </td></tr>
 <tr>
-<td><figure class="mw-halign-center" typeof="mw:Error mw:File"><figcaption></figcaption></figure><div style="text-align: center">Flying Festive Bee Sticker
+<td><figure class="mw-halign-center"><img alt="Flying Festive Bee Sticker" src="img/Flying_Festive_Bee.png" width="60"/></figure><div style="text-align: center">Flying Festive Bee Sticker
 </div></td>
 <td><img alt="Snowflake" height="25" src="img/Snowflake.png" width="25"/>20,000 <a href="snowflake.html"><span class="color-template color-template-snowflake color-template-background-clip">Snowflakes</span></a>
 </td>
@@ -364,7 +364,7 @@ tags: []
 <th>Description
 </th></tr>
 <tr>
-<td><figure class="mw-halign-center" typeof="mw:Error mw:File"><figcaption></figcaption></figure><div style="text-align: center;"><a href="present.html"><span class="color-template color-template-present color-template-background-clip">Present</span></a>
+<td><figure class="mw-halign-center"><img alt="Present" src="img/Present.png" width="60"/></figure><div style="text-align: center;"><a href="present.html"><span class="color-template color-template-present color-template-background-clip">Present</span></a>
 </div></td>
 <td><img alt="Snowflake" height="25" src="img/Snowflake.png" width="25"/>250 <a href="snowflake.html"><span class="color-template color-template-snowflake color-template-background-clip">Snowflakes</span></a><br/>
 <p><img alt="Gingerbread Bear" height="25" src="img/Gingerbread_Bear.png" width="25"/>10 <a href="gingerbread-bear.html"><span class="color-template color-template-gingerbread-bear color-template-background-clip">Gingerbread Bears</span></a>
@@ -373,14 +373,14 @@ tags: []
 <td>A festively wrapped gift. Exchange it with an NPC for prizes!
 </td></tr>
 <tr>
-<td><figure class="mw-halign-center" typeof="mw:Error mw:File"><figcaption></figcaption></figure><div style="text-align: center;">50 <a href="super-smoothie.html"><span class="color-template color-template-super-smoothie color-template-background-clip">Super Smoothies</span></a>
+<td><figure class="mw-halign-center"><img alt="50 Super Smoothies" src="img/Super_Smoothie.png" width="60"/></figure><div style="text-align: center;">50 <a href="super-smoothie.html"><span class="color-template color-template-super-smoothie color-template-background-clip">Super Smoothies</span></a>
 </div></td>
 <td><img alt="Gingerbread Bear" height="25" src="img/Gingerbread_Bear.png" width="25"/>500 <a href="gingerbread-bear.html"><span class="color-template color-template-gingerbread-bear color-template-background-clip">Gingerbread Bears</span></a>
 </td>
 <td>50 Super Smoothies! Grants many boosts for 20 minutes.
 </td></tr>
 <tr>
-<td><figure class="mw-halign-center" typeof="mw:Error mw:File"><figcaption></figcaption></figure><div style="text-align: center;"><a href="star-treat.html"><span class="color-template color-template-star-treat color-template-background-clip">Star Treat</span></a>
+<td><figure class="mw-halign-center"><img alt="Star Treat" src="img/Star_Treat.png" width="60"/></figure><div style="text-align: center;"><a href="star-treat.html"><span class="color-template color-template-star-treat color-template-background-clip">Star Treat</span></a>
 </div></td>
 <td><img alt="Snowflake" height="25" src="img/Snowflake.png" width="25"/>10,000 <a href="snowflake.html"><span class="color-template color-template-snowflake color-template-background-clip">Snowflakes</span></a>
 </td>

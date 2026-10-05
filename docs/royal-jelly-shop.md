@@ -8,7 +8,6 @@ tags: ["Shops", "Locations", "Machines"]
 ![Royal Jelly Shop](img/places/Royal_Jelly_Shop.png){ .wiki-photo }
 
 
-
 *Not to be confused with the [Royal Jelly Dispenser](royal-jelly-dispenser.md).*
 
 The **Royal Jelly Shop** is a [shop](shops.md) located on a rocky hill between the [Rose Field](rose-field.md) and the [Pine Tree Forest](pine-tree-forest.md), to the right of and just below the [Blue Cannon](blue-cannon.md). Players can purchase [royal jelly](royal-jelly.md) in exchange for [honey](honey.md).

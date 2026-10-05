@@ -46,7 +46,7 @@ x1.05 <a href="pollen.html">Pollen</a><br/>
 x1.25 <a href="system-page.html#Hive_Convert_Rate">Convert Rate At Hive</a>
 </p>
 </td>
-<td><figure class="thumb mw-halign-center" style="width: 50px" typeof="mw:File/Thumb">  <figcaption class="thumbcaption"> </figcaption> </figure>
+<td><figure class="mw-halign-center"><img alt="Sunflower Field" src="img/Sunflower_Field_Stamp.png" width="50"/></figure>
 </td></tr>
 <tr>
 <td><a href="dandelion-field.html">Dandelion Field</a> Market Boost
@@ -57,7 +57,7 @@ x1.25 <a href="system-page.html#Hive_Convert_Rate">Convert Rate At Hive</a>
 x1.25 Convert Rate At Hive
 </p>
 </td>
-<td><figure class="thumb mw-halign-center" style="width: 50px" typeof="mw:File/Thumb">  <figcaption class="thumbcaption"> </figcaption> </figure>
+<td><figure class="mw-halign-center"><img alt="Dandelion Field" src="img/Dandelion_Field_Stamp.png" width="50"/></figure>
 </td></tr>
 <tr>
 <td><a href="mushroom-field.html">Mushroom Field</a> Market Boost
@@ -68,7 +68,7 @@ x1.1 <a href="system-page.html#Red_Pollen">Red Pollen</a><br/>
 x1.25 Convert Rate At Hive
 </p>
 </td>
-<td><figure class="thumb mw-halign-center" style="width: 50px" typeof="mw:File/Thumb">  <figcaption class="thumbcaption"> </figcaption> </figure>
+<td><figure class="mw-halign-center"><img alt="Mushroom Field" src="img/Mushroom_Field_Stamp.png" width="50"/></figure>
 </td></tr>
 <tr>
 <td><a href="blue-flower-field.html">Blue Flower Field</a> Market Boost
@@ -79,7 +79,7 @@ x1.5 <a href="system-page.html#Pollen_From_Bubbles">Bubble Pollen</a><br/>
 x1.25 Convert Rate At Hive
 </p>
 </td>
-<td><figure class="thumb mw-halign-center" style="width: 50px" typeof="mw:File/Thumb">  <figcaption class="thumbcaption"> </figcaption> </figure>
+<td><figure class="mw-halign-center"><img alt="Blue Flower Field" src="img/Blue_Flower_Field_Stamp.png" width="50"/></figure>
 </td></tr>
 <tr>
 <td><a href="clover-field.html">Clover Field</a> Market Boost
@@ -90,7 +90,7 @@ x1.25 <a href="system-page.html#Bee_Gather_Pollen">Bee Gather Pollen</a><br/>
 +15% <a href="system-page.html#Loot_Luck">Loot Luck</a>
 </p>
 </td>
-<td><figure class="thumb mw-halign-center" style="width: 50px" typeof="mw:File/Thumb">  <figcaption class="thumbcaption"> </figcaption> </figure>
+<td><figure class="mw-halign-center"><img alt="Clover Field" src="img/Clover_Field_Stamp.png" width="50"/></figure>
 </td></tr>
 <tr>
 <td><a href="spider-field.html">Spider Field</a> Market Boost
@@ -101,7 +101,7 @@ x1.25 <a href="system-page.html#Bee_Gather_Pollen">Bee Gather Pollen</a><br/>
 x1.25 Convert Rate At Hive
 </p>
 </td>
-<td><figure class="thumb mw-halign-center" style="width: 50px" typeof="mw:File/Thumb">  <figcaption class="thumbcaption"> </figcaption> </figure>
+<td><figure class="mw-halign-center"><img alt="Spider Field" src="img/Spider_Field_Stamp.png" width="50"/></figure>
 </td></tr>
 <tr>
 <td><a href="strawberry-field.html">Strawberry Field</a> Market Boost
@@ -112,7 +112,7 @@ x1.25 <a href="system-page.html#Red_Bomb_Pollen">Red Bomb Pollen</a><br/>
 x1.25 Convert Rate At Hive
 </p>
 </td>
-<td><figure class="thumb mw-halign-center" style="width: 50px" typeof="mw:File/Thumb">  <figcaption class="thumbcaption"> </figcaption> </figure>
+<td><figure class="mw-halign-center"><img alt="Strawberry Field" src="img/Strawberry_Field_Stamp.png" width="50"/></figure>
 </td></tr>
 <tr>
 <td><a href="bamboo-field.html">Bamboo Field</a> Market Boost
@@ -123,7 +123,7 @@ x1.1 <a href="system-page.html#Blue_Pollen">Blue Pollen</a><br/>
 x1.25 Convert Rate At Hive
 </p>
 </td>
-<td><figure class="thumb mw-halign-center" style="width: 50px" typeof="mw:File/Thumb">  <figcaption class="thumbcaption"> </figcaption> </figure>
+<td><figure class="mw-halign-center"><img alt="Bamboo Field" src="img/Bamboo_Field_Stamp.png" width="50"/></figure>
 </td></tr>
 <tr>
 <td><a href="pineapple-patch.html">Pineapple Patch</a> Market Boost
@@ -134,7 +134,7 @@ x1.25 White Pollen<br/>
 x1.25 Convert Rate At Hive
 </p>
 </td>
-<td><figure class="thumb mw-halign-center" style="width: 50px" typeof="mw:File/Thumb">  <figcaption class="thumbcaption"> </figcaption> </figure>
+<td><figure class="mw-halign-center"><img alt="Pineapple Patch" src="img/Pineapple_Patch_Stamp.png" width="50"/></figure>
 </td></tr>
 <tr>
 <td><a href="stump-field.html">Stump Field</a> Market Boost
@@ -145,7 +145,7 @@ x1.1 <a href="goo.html">Goo</a><br/>
 x1.25 Convert Rate At Hive
 </p>
 </td>
-<td><figure class="thumb mw-halign-center" style="width: 50px" typeof="mw:File/Thumb">  <figcaption class="thumbcaption"> </figcaption> </figure>
+<td><figure class="mw-halign-center"><img alt="Stump Field" src="img/Stump_Field_Stamp.png" width="50"/></figure>
 </td></tr>
 <tr>
 <td><a href="pumpkin-patch.html">Pumpkin Patch</a> Market Boost
@@ -156,7 +156,7 @@ x1.25 <a href="system-page.html#Capacity_Multiplier">Capacity</a><br/>
 +50 <a href="system-page.html#Convert_Amount">Convert Amount</a>
 </p>
 </td>
-<td><figure class="thumb mw-halign-center" style="width: 50px" typeof="mw:File/Thumb">  <figcaption class="thumbcaption"> </figcaption> </figure>
+<td><figure class="mw-halign-center"><img alt="Pumpkin Patch" src="img/Pumpkin_Patch_Stamp.png" width="50"/></figure>
 </td></tr>
 <tr>
 <td><a href="cactus-field.html">Cactus Field</a> Market Boost
@@ -167,7 +167,7 @@ x1.5 Buzz Bomb Pollen<br/>
 +50 Convert Amount
 </p>
 </td>
-<td><figure class="thumb mw-halign-center" style="width: 50px" typeof="mw:File/Thumb">  <figcaption class="thumbcaption"> </figcaption> </figure>
+<td><figure class="mw-halign-center"><img alt="Cactus Field" src="img/Cactus_Field_Stamp.png" width="50"/></figure>
 </td></tr>
 <tr>
 <td><a href="rose-field.html">Rose Field</a> Market Boost
@@ -178,7 +178,7 @@ x1.5 Buzz Bomb Pollen<br/>
 +50 Convert Amount
 </p>
 </td>
-<td><figure class="thumb mw-halign-center" style="width: 50px" typeof="mw:File/Thumb">  <figcaption class="thumbcaption"> </figcaption> </figure>
+<td><figure class="mw-halign-center"><img alt="Rose Field" src="img/Rose_Field_Stamp.png" width="50"/></figure>
 </td></tr>
 <tr>
 <td><a href="pine-tree-forest.html">Pine Tree Forest</a> Market Boost
@@ -189,7 +189,7 @@ x1.25 <a href="system-page.html#Blue_Bomb_Pollen">Blue Bomb Pollen</a><br/>
 x1.25 Convert Rate At Hive
 </p>
 </td>
-<td><figure class="thumb mw-halign-center" style="width: 50px" typeof="mw:File/Thumb">  <figcaption class="thumbcaption"> </figcaption> </figure>
+<td><figure class="mw-halign-center"><img alt="Pine Tree Forest" src="img/Pine_Tree_Forest_Stamp.png" width="50"/></figure>
 </td></tr>
 <tr>
 <td><a href="mountain-top-field.html">Mountain Top Field</a> Market Boost
@@ -200,7 +200,7 @@ x1.25 Convert Rate At Hive
 x1.25 Convert Rate At Hive
 </p>
 </td>
-<td><figure class="thumb mw-halign-center" style="width: 50px" typeof="mw:File/Thumb">  <figcaption class="thumbcaption"> </figcaption> </figure>
+<td><figure class="mw-halign-center"><img alt="Mountain Top Field" src="img/Mountain_Top_Field_Stamp.png" width="50"/></figure>
 </td></tr>
 <tr>
 <td><a href="coconut-field.html">Coconut Field</a> Market Boost
@@ -211,7 +211,7 @@ x2.5 Pollen From <a href="coconut.html">Coconuts</a><br/>
 x1.1 White Pollen
 </p>
 </td>
-<td><figure class="thumb mw-halign-center" style="width: 50px" typeof="mw:File/Thumb">  <figcaption class="thumbcaption"> </figcaption> </figure>
+<td><figure class="mw-halign-center"><img alt="Coconut Field" src="img/Coconut_Field_Stamp.png" width="50"/></figure>
 </td></tr>
 <tr>
 <td><a href="pepper-patch.html">Pepper Patch</a> Market Boost
@@ -222,7 +222,7 @@ x1.25 <a href="system-page.html#Pollen_From_Flames">Flame Pollen</a><br/>
 x1.25 Convert Rate At Hive
 </p>
 </td>
-<td><figure class="thumb mw-halign-center" style="width: 50px" typeof="mw:File/Thumb">  <figcaption class="thumbcaption"> </figcaption> </figure>
+<td><figure class="mw-halign-center"><img alt="Pepper Patch" src="img/Pepper_Patch_Stamp.png" width="50"/></figure>
 </td></tr></tbody></table>
 
 ## Trivia
