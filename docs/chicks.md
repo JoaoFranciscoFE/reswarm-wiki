@@ -170,7 +170,7 @@ The Commando Chick deals 20 damage when colliding with the player and 50 damage 
 
 ### Drops
 
-Main article: [Commando Chick/Drops](commando-chick-drops.md)
+Main article: [Commando Chick drops](commando-chick.md#drops)
 
 * [Honey From Tokens](system-page.md#Honey_From_Tokens) will increase the honey output of each capture.
 * Loot Luck will *not* impact any drops from Commando Chick.
@@ -178,7 +178,7 @@ Main article: [Commando Chick/Drops](commando-chick-drops.md)
 * Drops [Mythic Egg](egg.md#Mythic_Egg) upon the 50th capture.
 * Drops [Star Treat](star-treat.md) upon the 100th capture.
 * After 200 captures, Commando Chick drops a [Commander Bee Egg](egg.md#Commander_Bee_Egg).
-* For a full list of known drops, see [Commando Chick/Drops](commando-chick-drops.md).
+* For a full list of known drops, see [Commando Chick drops](commando-chick.md#drops).
 
 ## Mondo Chick
 

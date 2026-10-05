@@ -44,7 +44,6 @@ Big mobs with long respawn timers, in zone order.
 <a class="wiki-card" href="tunnel-bear.html"><img src="img/Tunnel_Bear.png" alt="" loading="lazy"><span>Tunnel Bear</span></a>
 <a class="wiki-card" href="cave-monster.html"><img src="img/mobs/Cave_Monster.png" alt="" loading="lazy"><span>Cave Monster</span></a>
 <a class="wiki-card" href="commando-chick.html"><img src="img/mobs/Commando_Chick.png" alt="" loading="lazy"><span>Commando Chick</span></a>
-<a class="wiki-card wiki-card--noicon" href="commando-chick-drops.html"><img src="images/no-icon.svg" alt="" loading="lazy"><span>Commando Chick/Drops</span></a>
 <a class="wiki-card" href="mondo-chick.html"><img src="img/mobs/Mondo_Chick.png" alt="" loading="lazy"><span>Mondo Chick</span></a>
 <a class="wiki-card" href="coconut-crab.html"><img src="img/mobs/Coconut_Crab.png" alt="" loading="lazy"><span>Coconut Crab</span></a>
 </div>
