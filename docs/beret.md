@@ -70,7 +70,7 @@ A **Beret** is a [level](bond.md) 11 [Beequip](beequip.md). It has an equip limi
 
 <p class="beequip-meta"><b>Rarity:</b> Common · <b>Equip limit:</b> 2 · <b>Who can wear it:</b> level 11+; Blue bees</p>
 
-*Stats and hive bonuses each roll on their own. Higher potential makes a stat more likely to appear and pulls its value towards the top of its range. The chances and averages below come from running the game's own roll code 5,000 times at each potential.*
+*Stats and hive bonuses each roll on their own. Higher potential makes a stat more likely to appear and pulls its value towards the top of its range. The chances and averages below come from running the game's own roll code 5,000 times at each potential. Bee stats that the game applies as a multiplier are shown as a %, the way the in-game tooltip shows them.*
 
 /// tab | 1 ★
 
@@ -102,22 +102,22 @@ A **Beret** is a [level](bond.md) 11 [Beequip](beequip.md). It has an equip limi
 </td>
 <td>Convert Amount
 </td>
-<td>x1.05 to x1.1
+<td>+5% to +10%
 </td>
 <td>100%
 </td>
-<td>x1.067
+<td>+6.7%
 </td></tr>
 <tr>
 <td>Bee stat
 </td>
 <td>Ability Pollen
 </td>
-<td>x1.01 to x1.05
+<td>+1% to +5%
 </td>
 <td>18%
 </td>
-<td>x1.024
+<td>+2.4%
 </td></tr>
 <tr>
 <td>Hive bonus
@@ -163,22 +163,22 @@ A **Beret** is a [level](bond.md) 11 [Beequip](beequip.md). It has an equip limi
 </td>
 <td>Convert Amount
 </td>
-<td>x1.05 to x1.1
+<td>+5% to +10%
 </td>
 <td>100%
 </td>
-<td>x1.073
+<td>+7.3%
 </td></tr>
 <tr>
 <td>Bee stat
 </td>
 <td>Ability Pollen
 </td>
-<td>x1.01 to x1.05
+<td>+1% to +5%
 </td>
 <td>25%
 </td>
-<td>x1.029
+<td>+2.9%
 </td></tr>
 <tr>
 <td>Hive bonus
@@ -224,22 +224,22 @@ A **Beret** is a [level](bond.md) 11 [Beequip](beequip.md). It has an equip limi
 </td>
 <td>Convert Amount
 </td>
-<td>x1.05 to x1.1
+<td>+5% to +10%
 </td>
 <td>100%
 </td>
-<td>x1.077
+<td>+7.7%
 </td></tr>
 <tr>
 <td>Bee stat
 </td>
 <td>Ability Pollen
 </td>
-<td>x1.01 to x1.05
+<td>+1% to +5%
 </td>
 <td>34%
 </td>
-<td>x1.032
+<td>+3.2%
 </td></tr>
 <tr>
 <td>Hive bonus
@@ -285,22 +285,22 @@ A **Beret** is a [level](bond.md) 11 [Beequip](beequip.md). It has an equip limi
 </td>
 <td>Convert Amount
 </td>
-<td>x1.05 to x1.1
+<td>+5% to +10%
 </td>
 <td>100%
 </td>
-<td>x1.083
+<td>+8.3%
 </td></tr>
 <tr>
 <td>Bee stat
 </td>
 <td>Ability Pollen
 </td>
-<td>x1.01 to x1.05
+<td>+1% to +5%
 </td>
 <td>42%
 </td>
-<td>x1.036
+<td>+3.6%
 </td></tr>
 <tr>
 <td>Hive bonus
@@ -346,22 +346,22 @@ A **Beret** is a [level](bond.md) 11 [Beequip](beequip.md). It has an equip limi
 </td>
 <td>Convert Amount
 </td>
-<td>x1.05 to x1.1
+<td>+5% to +10%
 </td>
 <td>100%
 </td>
-<td>x1.087
+<td>+8.7%
 </td></tr>
 <tr>
 <td>Bee stat
 </td>
 <td>Ability Pollen
 </td>
-<td>x1.01 to x1.05
+<td>+1% to +5%
 </td>
 <td>50%
 </td>
-<td>x1.04
+<td>+4%
 </td></tr>
 <tr>
 <td>Hive bonus
@@ -377,116 +377,118 @@ A **Beret** is a [level](bond.md) 11 [Beequip](beequip.md). It has an equip limi
 
 ///
 
-### Wax upgrades
+### Max possible stats
 
-*Each upgrade a wax rolls picks one entry below, weighted by its share of the pool at that potential. Caustic-only entries can only come from Caustic or Debug Wax. An entry leaves the pool once it reaches its max picks.*
+*The best value each stat can reach. The top base value can roll at any potential; higher potential only makes it more likely. A beequip takes 5 waxes: Soft and Hard Wax give at most 10 upgrade rolls, and Caustic Wax gives up to 20, though each Caustic only succeeds 25% of the time and destroys the beequip when it fails. The max columns assume every roll lands on that stat at its best value, up to its max picks, so they are a ceiling rather than a typical result. "Pick chance" is how likely each roll is to pick that upgrade, from 1 ★ to 5 ★.*
 
 <table class="article-table">
 <tbody><tr>
-<th>Upgrade
+<th>Stat
+</th>
+<th>Best base value
+</th>
+<th>Per wax pick
+</th>
+<th>Pick chance
 </th>
 <th>Max picks
 </th>
-<th>Caustic only
+<th>Max with Soft/Hard Wax
 </th>
-<th>Value per pick
-</th>
-<th>Weight at 1 ★
-</th>
-<th>Weight at 3 ★
-</th>
-<th>Weight at 5 ★
+<th>Max with Caustic Wax
 </th></tr>
 <tr>
 <td>Convert Amount
 </td>
-<td>20
-</td>
-<td>
+<td>+20
 </td>
 <td>+1 to +2
 </td>
-<td>37%
+<td>37% → 31%
 </td>
-<td>34%
+<td>20
 </td>
-<td>31%
+<td>+40
+</td>
+<td>+60
 </td></tr>
 <tr>
 <td>Convert Amount
 </td>
+<td>+10%
+</td>
+<td>+1% to +2%
+</td>
+<td>37% → 31%
+</td>
 <td>20
 </td>
-<td>
+<td>+30%
 </td>
-<td>+0.01 to +0.02
+<td>+50%
+</td></tr>
+<tr>
+<td>Ability Pollen
 </td>
-<td>37%
+<td>+5%
 </td>
-<td>34%
+<td>—
 </td>
-<td>31%
+<td>—
+</td>
+<td>—
+</td>
+<td>+5%
+</td>
+<td>+5%
 </td></tr>
 <tr>
 <td>Capacity (hive bonus)
 </td>
-<td>5
-</td>
-<td>
+<td>+20,000
 </td>
 <td>+2000 to +3000
 </td>
-<td>22%
+<td>22% → 31%
 </td>
-<td>27%
+<td>5
 </td>
-<td>31%
+<td>+35,000
+</td>
+<td>+35,000
 </td></tr>
 <tr>
 <td>Blue Field Capacity (hive bonus)
 </td>
+<td>Only from wax
+</td>
+<td>+1%
+</td>
+<td>2.69% → 6.25%
+</td>
 <td>5
 </td>
-<td>
+<td>+5%
 </td>
-<td>+0.01
-</td>
-<td>3%
-</td>
-<td>5%
-</td>
-<td>6%
+<td>+5%
 </td></tr>
 <tr>
 <td>Capacity (hive bonus)
 </td>
+<td>Only from wax
+</td>
+<td>+1% (Caustic only)
+</td>
+<td>0.8% → 3.03%
+</td>
 <td>5
 </td>
-<td>Yes
+<td>—
 </td>
-<td>+0.01
-</td>
-<td>1%
-</td>
-<td>2%
-</td>
-<td>3%
-</td></tr>
-<tr>
-<td>Blue Boost ability
-</td>
-<td>1
-</td>
-<td>Yes
-</td>
-<td>+1
-</td>
-<td>0%
-</td>
-<td>0%
-</td>
-<td>0%
+<td>+5%
 </td></tr></tbody></table>
+
+<p class="beequip-note"><b>Caustic-only ability upgrade:</b> grants the bee the ability <b>Blue Boost</b> (Max 1).</p>
 
 ## Ways to obtain
 

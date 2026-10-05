@@ -72,7 +72,7 @@ A **Lei** is a [level](bond.md) 14 [Beequip](beequip.md). It has an equip limit 
 
 <p class="beequip-meta"><b>Rarity:</b> Common · <b>Equip limit:</b> 1 · <b>Who can wear it:</b> level 14+; bee types: Basic, Stubborn, Looker, Exhausted, Hasty</p>
 
-*Stats and hive bonuses each roll on their own. Higher potential makes a stat more likely to appear and pulls its value towards the top of its range. The chances and averages below come from running the game's own roll code 5,000 times at each potential.*
+*Stats and hive bonuses each roll on their own. Higher potential makes a stat more likely to appear and pulls its value towards the top of its range. The chances and averages below come from running the game's own roll code 5,000 times at each potential. Bee stats that the game applies as a multiplier are shown as a %, the way the in-game tooltip shows them.*
 
 /// tab | 1 ★
 
@@ -104,11 +104,11 @@ A **Lei** is a [level](bond.md) 14 [Beequip](beequip.md). It has an equip limit 
 </td>
 <td>Gather Amount
 </td>
-<td>x1.1 to x1.2
+<td>+10% to +20%
 </td>
 <td>100%
 </td>
-<td>x1.135
+<td>+13.5%
 </td></tr>
 <tr>
 <td>Bee stat
@@ -126,11 +126,11 @@ A **Lei** is a [level](bond.md) 14 [Beequip](beequip.md). It has an equip limit 
 </td>
 <td>Ability Rate
 </td>
-<td>x1.01
+<td>+1%
 </td>
 <td>18%
 </td>
-<td>x1.01
+<td>+1%
 </td></tr>
 <tr>
 <td>Hive bonus
@@ -209,11 +209,11 @@ A **Lei** is a [level](bond.md) 14 [Beequip](beequip.md). It has an equip limit 
 </td>
 <td>Gather Amount
 </td>
-<td>x1.1 to x1.2
+<td>+10% to +20%
 </td>
 <td>100%
 </td>
-<td>x1.145
+<td>+14.5%
 </td></tr>
 <tr>
 <td>Bee stat
@@ -231,11 +231,11 @@ A **Lei** is a [level](bond.md) 14 [Beequip](beequip.md). It has an equip limit 
 </td>
 <td>Ability Rate
 </td>
-<td>x1.01
+<td>+1%
 </td>
 <td>26%
 </td>
-<td>x1.01
+<td>+1%
 </td></tr>
 <tr>
 <td>Hive bonus
@@ -314,11 +314,11 @@ A **Lei** is a [level](bond.md) 14 [Beequip](beequip.md). It has an equip limit 
 </td>
 <td>Gather Amount
 </td>
-<td>x1.1 to x1.2
+<td>+10% to +20%
 </td>
 <td>100%
 </td>
-<td>x1.155
+<td>+15.5%
 </td></tr>
 <tr>
 <td>Bee stat
@@ -336,11 +336,11 @@ A **Lei** is a [level](bond.md) 14 [Beequip](beequip.md). It has an equip limit 
 </td>
 <td>Ability Rate
 </td>
-<td>x1.01
+<td>+1%
 </td>
 <td>35%
 </td>
-<td>x1.01
+<td>+1%
 </td></tr>
 <tr>
 <td>Hive bonus
@@ -419,11 +419,11 @@ A **Lei** is a [level](bond.md) 14 [Beequip](beequip.md). It has an equip limit 
 </td>
 <td>Gather Amount
 </td>
-<td>x1.1 to x1.2
+<td>+10% to +20%
 </td>
 <td>100%
 </td>
-<td>x1.166
+<td>+16.6%
 </td></tr>
 <tr>
 <td>Bee stat
@@ -441,11 +441,11 @@ A **Lei** is a [level](bond.md) 14 [Beequip](beequip.md). It has an equip limit 
 </td>
 <td>Ability Rate
 </td>
-<td>x1.01
+<td>+1%
 </td>
 <td>43%
 </td>
-<td>x1.01
+<td>+1%
 </td></tr>
 <tr>
 <td>Hive bonus
@@ -524,11 +524,11 @@ A **Lei** is a [level](bond.md) 14 [Beequip](beequip.md). It has an equip limit 
 </td>
 <td>Gather Amount
 </td>
-<td>x1.1 to x1.2
+<td>+10% to +20%
 </td>
 <td>100%
 </td>
-<td>x1.175
+<td>+17.5%
 </td></tr>
 <tr>
 <td>Bee stat
@@ -546,11 +546,11 @@ A **Lei** is a [level](bond.md) 14 [Beequip](beequip.md). It has an equip limit 
 </td>
 <td>Ability Rate
 </td>
-<td>x1.01
+<td>+1%
 </td>
 <td>50%
 </td>
-<td>x1.01
+<td>+1%
 </td></tr>
 <tr>
 <td>Hive bonus
@@ -599,146 +599,148 @@ A **Lei** is a [level](bond.md) 14 [Beequip](beequip.md). It has an equip limit 
 
 ///
 
-### Wax upgrades
+### Max possible stats
 
-*Each upgrade a wax rolls picks one entry below, weighted by its share of the pool at that potential. Caustic-only entries can only come from Caustic or Debug Wax. An entry leaves the pool once it reaches its max picks.*
+*The best value each stat can reach. The top base value can roll at any potential; higher potential only makes it more likely. A beequip takes 5 waxes: Soft and Hard Wax give at most 10 upgrade rolls, and Caustic Wax gives up to 20, though each Caustic only succeeds 25% of the time and destroys the beequip when it fails. The max columns assume every roll lands on that stat at its best value, up to its max picks, so they are a ceiling rather than a typical result. "Pick chance" is how likely each roll is to pick that upgrade, from 1 ★ to 5 ★.*
 
 <table class="article-table">
 <tbody><tr>
-<th>Upgrade
+<th>Stat
+</th>
+<th>Best base value
+</th>
+<th>Per wax pick
+</th>
+<th>Pick chance
 </th>
 <th>Max picks
 </th>
-<th>Caustic only
+<th>Max with Soft/Hard Wax
 </th>
-<th>Value per pick
-</th>
-<th>Weight at 1 ★
-</th>
-<th>Weight at 3 ★
-</th>
-<th>Weight at 5 ★
+<th>Max with Caustic Wax
 </th></tr>
 <tr>
 <td>Gather Amount
 </td>
-<td>20
-</td>
-<td>
+<td>+20
 </td>
 <td>+1 to +2
 </td>
-<td>29%
+<td>29% → 24%
 </td>
-<td>26%
+<td>20
 </td>
-<td>24%
+<td>+40
+</td>
+<td>+60
 </td></tr>
 <tr>
 <td>Gather Amount
 </td>
+<td>+20%
+</td>
+<td>+1% to +2%
+</td>
+<td>29% → 24%
+</td>
 <td>20
 </td>
-<td>
+<td>+40%
 </td>
-<td>+0.01 to +0.02
-</td>
-<td>29%
-</td>
-<td>26%
-</td>
-<td>24%
+<td>+60%
 </td></tr>
 <tr>
 <td>Gather Pollination Chance
 </td>
+<td>+30%
+</td>
+<td>+1%
+</td>
+<td>29% → 24%
+</td>
 <td>20
 </td>
-<td>
+<td>+40%
 </td>
-<td>+0.01
+<td>+50%
+</td></tr>
+<tr>
+<td>Ability Rate
 </td>
-<td>29%
+<td>+1%
 </td>
-<td>26%
+<td>—
 </td>
-<td>24%
+<td>—
+</td>
+<td>—
+</td>
+<td>+1%
+</td>
+<td>+1%
 </td></tr>
 <tr>
 <td>Sunflower Field Pollen (hive bonus)
 </td>
+<td>+5%
+</td>
+<td>+2%
+</td>
+<td>3.17% → 7.19%
+</td>
 <td>10
 </td>
-<td>
+<td>+25%
 </td>
-<td>+0.02
-</td>
-<td>3%
-</td>
-<td>5%
-</td>
-<td>7%
+<td>+25%
 </td></tr>
 <tr>
 <td>Blue Flower Field Pollen (hive bonus)
 </td>
+<td>+5%
+</td>
+<td>+2%
+</td>
+<td>3.17% → 7.19%
+</td>
 <td>10
 </td>
-<td>
+<td>+25%
 </td>
-<td>+0.02
-</td>
-<td>3%
-</td>
-<td>5%
-</td>
-<td>7%
+<td>+25%
 </td></tr>
 <tr>
 <td>Rose Field Pollen (hive bonus)
 </td>
+<td>+5%
+</td>
+<td>+2%
+</td>
+<td>3.17% → 7.19%
+</td>
 <td>10
 </td>
-<td>
+<td>+25%
 </td>
-<td>+0.02
-</td>
-<td>3%
-</td>
-<td>5%
-</td>
-<td>7%
+<td>+25%
 </td></tr>
 <tr>
 <td>Coconut Field Pollen (hive bonus)
 </td>
+<td>+5%
+</td>
+<td>+2%
+</td>
+<td>3.17% → 7.19%
+</td>
 <td>10
 </td>
-<td>
+<td>+25%
 </td>
-<td>+0.02
-</td>
-<td>3%
-</td>
-<td>5%
-</td>
-<td>7%
-</td></tr>
-<tr>
-<td>Ability from the pool
-</td>
-<td>1
-</td>
-<td>Yes
-</td>
-<td>+1
-</td>
-<td>0%
-</td>
-<td>1%
-</td>
-<td>1%
+<td>+25%
 </td></tr></tbody></table>
+
+<p class="beequip-note"><b>Caustic-only ability upgrade:</b> grants the bee the ability <b>Blue Boost, Red Boost</b> (Max 1).</p>
 
 ## Ways to Obtain
 

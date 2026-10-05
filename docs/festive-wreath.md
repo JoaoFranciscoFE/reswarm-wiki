@@ -74,7 +74,7 @@ The **Festive Wreath** is a [level](bond.md) 10 Beesmas [beequip](beequip.md). I
 
 <p class="beequip-meta"><b>Abilities:</b> Festive Mark</p>
 
-*Stats and hive bonuses each roll on their own. Higher potential makes a stat more likely to appear and pulls its value towards the top of its range. The chances and averages below come from running the game's own roll code 5,000 times at each potential.*
+*Stats and hive bonuses each roll on their own. Higher potential makes a stat more likely to appear and pulls its value towards the top of its range. The chances and averages below come from running the game's own roll code 5,000 times at each potential. Bee stats that the game applies as a multiplier are shown as a %, the way the in-game tooltip shows them.*
 
 /// tab | 1 ★
 
@@ -117,33 +117,33 @@ The **Festive Wreath** is a [level](bond.md) 10 Beesmas [beequip](beequip.md). I
 </td>
 <td>Red Bomb Pollen
 </td>
-<td>+1.2 to +1.4
+<td>+20% to +40%
 </td>
 <td>100%
 </td>
-<td>+1.27
+<td>+27%
 </td></tr>
 <tr>
 <td>Bee stat
 </td>
 <td>Mark Duration
 </td>
-<td>+1.02 to +1.08
+<td>+2% to +8%
 </td>
 <td>100%
 </td>
-<td>+1.04
+<td>+4%
 </td></tr>
 <tr>
 <td>Bee stat
 </td>
 <td>Ability Rate
 </td>
-<td>x1.01
+<td>+1%
 </td>
 <td>10%
 </td>
-<td>x1.01
+<td>+1%
 </td></tr>
 <tr>
 <td>Hive bonus
@@ -200,33 +200,33 @@ The **Festive Wreath** is a [level](bond.md) 10 Beesmas [beequip](beequip.md). I
 </td>
 <td>Red Bomb Pollen
 </td>
-<td>+1.2 to +1.4
+<td>+20% to +40%
 </td>
 <td>100%
 </td>
-<td>+1.29
+<td>+29%
 </td></tr>
 <tr>
 <td>Bee stat
 </td>
 <td>Mark Duration
 </td>
-<td>+1.02 to +1.08
+<td>+2% to +8%
 </td>
 <td>100%
 </td>
-<td>+1.05
+<td>+5%
 </td></tr>
 <tr>
 <td>Bee stat
 </td>
 <td>Ability Rate
 </td>
-<td>x1.01
+<td>+1%
 </td>
 <td>10%
 </td>
-<td>x1.01
+<td>+1%
 </td></tr>
 <tr>
 <td>Hive bonus
@@ -283,33 +283,33 @@ The **Festive Wreath** is a [level](bond.md) 10 Beesmas [beequip](beequip.md). I
 </td>
 <td>Red Bomb Pollen
 </td>
-<td>+1.2 to +1.4
+<td>+20% to +40%
 </td>
 <td>100%
 </td>
-<td>+1.31
+<td>+31%
 </td></tr>
 <tr>
 <td>Bee stat
 </td>
 <td>Mark Duration
 </td>
-<td>+1.02 to +1.08
+<td>+2% to +8%
 </td>
 <td>100%
 </td>
-<td>+1.05
+<td>+5%
 </td></tr>
 <tr>
 <td>Bee stat
 </td>
 <td>Ability Rate
 </td>
-<td>x1.01
+<td>+1%
 </td>
 <td>9%
 </td>
-<td>x1.01
+<td>+1%
 </td></tr>
 <tr>
 <td>Hive bonus
@@ -366,33 +366,33 @@ The **Festive Wreath** is a [level](bond.md) 10 Beesmas [beequip](beequip.md). I
 </td>
 <td>Red Bomb Pollen
 </td>
-<td>+1.2 to +1.4
+<td>+20% to +40%
 </td>
 <td>100%
 </td>
-<td>+1.33
+<td>+33%
 </td></tr>
 <tr>
 <td>Bee stat
 </td>
 <td>Mark Duration
 </td>
-<td>+1.02 to +1.08
+<td>+2% to +8%
 </td>
 <td>100%
 </td>
-<td>+1.06
+<td>+6%
 </td></tr>
 <tr>
 <td>Bee stat
 </td>
 <td>Ability Rate
 </td>
-<td>x1.01
+<td>+1%
 </td>
 <td>10%
 </td>
-<td>x1.01
+<td>+1%
 </td></tr>
 <tr>
 <td>Hive bonus
@@ -449,33 +449,33 @@ The **Festive Wreath** is a [level](bond.md) 10 Beesmas [beequip](beequip.md). I
 </td>
 <td>Red Bomb Pollen
 </td>
-<td>+1.2 to +1.4
+<td>+20% to +40%
 </td>
 <td>100%
 </td>
-<td>+1.35
+<td>+35%
 </td></tr>
 <tr>
 <td>Bee stat
 </td>
 <td>Mark Duration
 </td>
-<td>+1.02 to +1.08
+<td>+2% to +8%
 </td>
 <td>100%
 </td>
-<td>+1.07
+<td>+7%
 </td></tr>
 <tr>
 <td>Bee stat
 </td>
 <td>Ability Rate
 </td>
-<td>x1.01
+<td>+1%
 </td>
 <td>11%
 </td>
-<td>x1.01
+<td>+1%
 </td></tr>
 <tr>
 <td>Hive bonus
@@ -491,130 +491,160 @@ The **Festive Wreath** is a [level](bond.md) 10 Beesmas [beequip](beequip.md). I
 
 ///
 
-### Wax upgrades
+### Max possible stats
 
-*Each upgrade a wax rolls picks one entry below, weighted by its share of the pool at that potential. Caustic-only entries can only come from Caustic or Debug Wax. An entry leaves the pool once it reaches its max picks.*
+*The best value each stat can reach. The top base value can roll at any potential; higher potential only makes it more likely. A beequip takes 5 waxes: Soft and Hard Wax give at most 10 upgrade rolls, and Caustic Wax gives up to 20, though each Caustic only succeeds 25% of the time and destroys the beequip when it fails. The max columns assume every roll lands on that stat at its best value, up to its max picks, so they are a ceiling rather than a typical result. "Pick chance" is how likely each roll is to pick that upgrade, from 1 ★ to 5 ★.*
 
 <table class="article-table">
 <tbody><tr>
-<th>Upgrade
+<th>Stat
+</th>
+<th>Best base value
+</th>
+<th>Per wax pick
+</th>
+<th>Pick chance
 </th>
 <th>Max picks
 </th>
-<th>Caustic only
+<th>Max with Soft/Hard Wax
 </th>
-<th>Value per pick
-</th>
-<th>Weight at 1 ★
-</th>
-<th>Weight at 3 ★
-</th>
-<th>Weight at 5 ★
+<th>Max with Caustic Wax
 </th></tr>
 <tr>
 <td>Gather Amount
 </td>
-<td>20
-</td>
-<td>
+<td>+15
 </td>
 <td>+1 to +2
 </td>
-<td>49%
+<td>49% → 45%
 </td>
-<td>47%
+<td>20
 </td>
-<td>45%
+<td>+35
+</td>
+<td>+55
 </td></tr>
 <tr>
 <td>Convert Amount
 </td>
-<td>20
-</td>
-<td>
+<td>+30
 </td>
 <td>+2 to +4
 </td>
-<td>49%
+<td>49% → 45%
 </td>
-<td>47%
+<td>20
 </td>
-<td>45%
+<td>+70
+</td>
+<td>+110
+</td></tr>
+<tr>
+<td>Red Bomb Pollen
+</td>
+<td>+40%
+</td>
+<td>—
+</td>
+<td>—
+</td>
+<td>—
+</td>
+<td>+40%
+</td>
+<td>+40%
 </td></tr>
 <tr>
 <td>Mark Duration
 </td>
+<td>+8%
+</td>
+<td>+1%
+</td>
+<td>1.36% → 4.54%
+</td>
 <td>5
 </td>
-<td>
+<td>+13%
 </td>
-<td>+0.01
+<td>+13%
+</td></tr>
+<tr>
+<td>Ability Rate
 </td>
-<td>1%
+<td>+1%
 </td>
-<td>3%
+<td>—
 </td>
-<td>5%
+<td>—
+</td>
+<td>—
+</td>
+<td>+1%
+</td>
+<td>+1%
 </td></tr>
 <tr>
 <td>Capacity (hive bonus)
 </td>
-<td>20
-</td>
-<td>
+<td>+15,000
 </td>
 <td>+1000 to +5000
 </td>
-<td>1%
+<td>1.36% → 4.54%
 </td>
-<td>3%
+<td>20
 </td>
-<td>5%
+<td>+65,000
+</td>
+<td>+115,000
 </td></tr>
 <tr>
 <td>Ticket Chance (hive bonus)
 </td>
+<td>Only from wax
+</td>
+<td>+1%
+</td>
+<td>0.01%
+</td>
 <td>5
 </td>
-<td>
+<td>+5%
 </td>
-<td>+0.01
-</td>
-<td>0%
-</td>
-<td>0%
-</td>
-<td>0%
+<td>+5%
 </td></tr>
 <tr>
-<td>Convert Rate (Red) (hive bonus)
+<td>Red Bee Convert Rate (hive bonus)
+</td>
+<td>Only from wax
+</td>
+<td>+2% (Caustic only)
+</td>
+<td>2.77% → 5.66%
 </td>
 <td>5
 </td>
-<td>Yes
+<td>—
 </td>
-<td>+0.02
-</td>
-<td>3%
-</td>
-<td>4%
-</td>
-<td>6%
+<td>+10%
 </td></tr>
 <tr>
 <td>Honey At Hive (hive bonus)
 </td>
+<td>Only from wax
+</td>
+<td>+1% (Caustic only)
+</td>
+<td>5.53% → 11%
+</td>
 <td>10
 </td>
-<td>Yes
+<td>—
 </td>
-<td>+0.01
-</td>
-<td>6%
-</td>
-<td>9%
-</td>
-<td>11%
+<td>+10%
 </td></tr></tbody></table>
 
 ## Ways To Obtain

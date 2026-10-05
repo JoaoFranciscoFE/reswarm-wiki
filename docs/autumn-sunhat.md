@@ -72,7 +72,9 @@ The **Autumn Sunhat** is a [level](bond.md) 16 [Beequip](beequip.md). It has an 
 
 <p class="beequip-meta"><b>Rarity:</b> Epic · <b>Equip limit:</b> 1 · <b>Who can wear it:</b> level 16+; bee types: Hasty, Looker, Bumble, Diamond, Exhausted, Puppy</p>
 
-*Stats and hive bonuses each roll on their own. Higher potential makes a stat more likely to appear and pulls its value towards the top of its range. The chances and averages below come from running the game's own roll code 5,000 times at each potential.*
+<p class="game-bug"><b>Game bug:</b> Its Convert Amount (%) and White Gather Amount wax upgrades always add 0. The game rounds every roll of them to 0, so picking them uses up a roll and does nothing.</p>
+
+*Stats and hive bonuses each roll on their own. Higher potential makes a stat more likely to appear and pulls its value towards the top of its range. The chances and averages below come from running the game's own roll code 5,000 times at each potential. Bee stats that the game applies as a multiplier are shown as a %, the way the in-game tooltip shows them.*
 
 /// tab | 1 ★
 
@@ -104,33 +106,33 @@ The **Autumn Sunhat** is a [level](bond.md) 16 [Beequip](beequip.md). It has an 
 </td>
 <td>Convert Amount
 </td>
-<td>x1.15 to x1.2
+<td>+15% to +20%
 </td>
 <td>100%
 </td>
-<td>x1.167
+<td>+16.7%
 </td></tr>
 <tr>
 <td>Bee stat
 </td>
 <td>White Gather Amount
 </td>
-<td>x1.4 to x1.6
+<td>+40% to +60%
 </td>
 <td>100%
 </td>
-<td>x1.47
+<td>+47%
 </td></tr>
 <tr>
 <td>Bee stat
 </td>
 <td>Ability Rate
 </td>
-<td>x1.08 to x1.15
+<td>+8% to +15%
 </td>
 <td>28%
 </td>
-<td>x1.104
+<td>+10.4%
 </td></tr>
 <tr>
 <td>Hive bonus
@@ -209,33 +211,33 @@ The **Autumn Sunhat** is a [level](bond.md) 16 [Beequip](beequip.md). It has an 
 </td>
 <td>Convert Amount
 </td>
-<td>x1.15 to x1.2
+<td>+15% to +20%
 </td>
 <td>100%
 </td>
-<td>x1.173
+<td>+17.3%
 </td></tr>
 <tr>
 <td>Bee stat
 </td>
 <td>White Gather Amount
 </td>
-<td>x1.4 to x1.6
+<td>+40% to +60%
 </td>
 <td>100%
 </td>
-<td>x1.49
+<td>+49%
 </td></tr>
 <tr>
 <td>Bee stat
 </td>
 <td>Ability Rate
 </td>
-<td>x1.08 to x1.15
+<td>+8% to +15%
 </td>
 <td>45%
 </td>
-<td>x1.111
+<td>+11.1%
 </td></tr>
 <tr>
 <td>Hive bonus
@@ -314,33 +316,33 @@ The **Autumn Sunhat** is a [level](bond.md) 16 [Beequip](beequip.md). It has an 
 </td>
 <td>Convert Amount
 </td>
-<td>x1.15 to x1.2
+<td>+15% to +20%
 </td>
 <td>100%
 </td>
-<td>x1.177
+<td>+17.7%
 </td></tr>
 <tr>
 <td>Bee stat
 </td>
 <td>White Gather Amount
 </td>
-<td>x1.4 to x1.6
+<td>+40% to +60%
 </td>
 <td>100%
 </td>
-<td>x1.511
+<td>+51.1%
 </td></tr>
 <tr>
 <td>Bee stat
 </td>
 <td>Ability Rate
 </td>
-<td>x1.08 to x1.15
+<td>+8% to +15%
 </td>
 <td>65%
 </td>
-<td>x1.118
+<td>+11.8%
 </td></tr>
 <tr>
 <td>Hive bonus
@@ -419,33 +421,33 @@ The **Autumn Sunhat** is a [level](bond.md) 16 [Beequip](beequip.md). It has an 
 </td>
 <td>Convert Amount
 </td>
-<td>x1.15 to x1.2
+<td>+15% to +20%
 </td>
 <td>100%
 </td>
-<td>x1.183
+<td>+18.3%
 </td></tr>
 <tr>
 <td>Bee stat
 </td>
 <td>White Gather Amount
 </td>
-<td>x1.4 to x1.6
+<td>+40% to +60%
 </td>
 <td>100%
 </td>
-<td>x1.529
+<td>+52.9%
 </td></tr>
 <tr>
 <td>Bee stat
 </td>
 <td>Ability Rate
 </td>
-<td>x1.08 to x1.15
+<td>+8% to +15%
 </td>
 <td>82%
 </td>
-<td>x1.126
+<td>+12.6%
 </td></tr>
 <tr>
 <td>Hive bonus
@@ -524,33 +526,33 @@ The **Autumn Sunhat** is a [level](bond.md) 16 [Beequip](beequip.md). It has an 
 </td>
 <td>Convert Amount
 </td>
-<td>x1.15 to x1.2
+<td>+15% to +20%
 </td>
 <td>100%
 </td>
-<td>x1.188
+<td>+18.8%
 </td></tr>
 <tr>
 <td>Bee stat
 </td>
 <td>White Gather Amount
 </td>
-<td>x1.4 to x1.6
+<td>+40% to +60%
 </td>
 <td>100%
 </td>
-<td>x1.55
+<td>+55%
 </td></tr>
 <tr>
 <td>Bee stat
 </td>
 <td>Ability Rate
 </td>
-<td>x1.08 to x1.15
+<td>+8% to +15%
 </td>
 <td>100%
 </td>
-<td>x1.133
+<td>+13.3%
 </td></tr>
 <tr>
 <td>Hive bonus
@@ -599,160 +601,160 @@ The **Autumn Sunhat** is a [level](bond.md) 16 [Beequip](beequip.md). It has an 
 
 ///
 
-### Wax upgrades
+### Max possible stats
 
-*Each upgrade a wax rolls picks one entry below, weighted by its share of the pool at that potential. Caustic-only entries can only come from Caustic or Debug Wax. An entry leaves the pool once it reaches its max picks.*
+*The best value each stat can reach. The top base value can roll at any potential; higher potential only makes it more likely. A beequip takes 5 waxes: Soft and Hard Wax give at most 10 upgrade rolls, and Caustic Wax gives up to 20, though each Caustic only succeeds 25% of the time and destroys the beequip when it fails. The max columns assume every roll lands on that stat at its best value, up to its max picks, so they are a ceiling rather than a typical result. "Pick chance" is how likely each roll is to pick that upgrade, from 1 ★ to 5 ★.*
 
 <table class="article-table">
 <tbody><tr>
-<th>Upgrade
+<th>Stat
+</th>
+<th>Best base value
+</th>
+<th>Per wax pick
+</th>
+<th>Pick chance
 </th>
 <th>Max picks
 </th>
-<th>Caustic only
+<th>Max with Soft/Hard Wax
 </th>
-<th>Value per pick
-</th>
-<th>Weight at 1 ★
-</th>
-<th>Weight at 3 ★
-</th>
-<th>Weight at 5 ★
+<th>Max with Caustic Wax
 </th></tr>
 <tr>
 <td>Convert Amount
 </td>
-<td>20
-</td>
-<td>
+<td>+80
 </td>
 <td>+4 to +6
 </td>
-<td>17%
+<td>17% → 14%
 </td>
-<td>15%
+<td>20
 </td>
-<td>14%
+<td>+140
+</td>
+<td>+200
 </td></tr>
 <tr>
 <td>Convert Amount
 </td>
+<td>+20%
+</td>
+<td>+0 (always 0, see the bug note)
+</td>
+<td>17% → 14%
+</td>
 <td>10
 </td>
-<td>
+<td>+20%
 </td>
-<td>under 0.01
-</td>
-<td>17%
-</td>
-<td>15%
-</td>
-<td>14%
+<td>+20%
 </td></tr>
 <tr>
 <td>White Gather Amount
 </td>
+<td>+60%
+</td>
+<td>+0 (always 0, see the bug note)
+</td>
+<td>17% → 14%
+</td>
 <td>10
 </td>
-<td>
+<td>+60%
 </td>
-<td>under 0.01
-</td>
-<td>17%
-</td>
-<td>15%
-</td>
-<td>14%
+<td>+60%
 </td></tr>
 <tr>
 <td>Ability Rate
 </td>
+<td>+15%
+</td>
+<td>+1%
+</td>
+<td>5.16% → 4.28%
+</td>
 <td>10
 </td>
-<td>
+<td>+25%
 </td>
-<td>+0.01
-</td>
-<td>5%
-</td>
-<td>5%
-</td>
-<td>4%
+<td>+25%
 </td></tr>
 <tr>
 <td>Capacity (hive bonus)
 </td>
-<td>5
-</td>
-<td>
+<td>+60,000
 </td>
 <td>+4000 to +8000
 </td>
-<td>12%
+<td>12% → 14%
 </td>
-<td>13%
+<td>5
 </td>
-<td>14%
-</td></tr>
-<tr>
-<td>Pumpkin Patch Pollen (hive bonus)
+<td>+100,000
 </td>
-<td>10
-</td>
-<td>
-</td>
-<td>+0.01 to +0.02
-</td>
-<td>12%
-</td>
-<td>13%
-</td>
-<td>14%
+<td>+100,000
 </td></tr>
 <tr>
 <td>Sunflower Field Pollen (hive bonus)
 </td>
+<td>+24%
+</td>
+<td>+1% to +2%
+</td>
+<td>12% → 14%
+</td>
 <td>10
 </td>
-<td>
+<td>+44%
 </td>
-<td>+0.01 to +0.02
+<td>+44%
+</td></tr>
+<tr>
+<td>Pumpkin Patch Pollen (hive bonus)
 </td>
-<td>12%
+<td>+24%
 </td>
-<td>13%
+<td>+1% to +2%
 </td>
-<td>14%
+<td>12% → 14%
+</td>
+<td>10
+</td>
+<td>+44%
+</td>
+<td>+44%
 </td></tr>
 <tr>
 <td>White Field Capacity (hive bonus)
 </td>
+<td>+10%
+</td>
+<td>+1%
+</td>
+<td>8.76% → 11%
+</td>
 <td>12
 </td>
-<td>
+<td>+20%
 </td>
-<td>+0.01
-</td>
-<td>9%
-</td>
-<td>10%
-</td>
-<td>11%
+<td>+22%
 </td></tr>
 <tr>
 <td>White Pollen (hive bonus)
 </td>
+<td>Only from wax
+</td>
+<td>+1% to +3% (Caustic only)
+</td>
+<td>3% → 4.1%
+</td>
 <td>10
 </td>
-<td>Yes
+<td>—
 </td>
-<td>+0.01 to +0.03
-</td>
-<td>3%
-</td>
-<td>4%
-</td>
-<td>4%
+<td>+30%
 </td></tr></tbody></table>
 
 ## Ways to obtain

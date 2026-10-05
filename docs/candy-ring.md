@@ -72,7 +72,9 @@ The **Candy Ring** is a [level](bond.md) 14 [Beequip](beequip.md). It has an equ
 
 <p class="beequip-meta"><b>Rarity:</b> Epic · <b>Equip limit:</b> 1 · <b>Who can wear it:</b> level 14+; bee types: Stubborn, Honey, Bumble, Festive, Diamond, Gummy</p>
 
-*Stats and hive bonuses each roll on their own. Higher potential makes a stat more likely to appear and pulls its value towards the top of its range. The chances and averages below come from running the game's own roll code 5,000 times at each potential.*
+<p class="game-bug"><b>Game bug:</b> Its Convert Amount wax upgrade always adds 0. The game rounds every roll of it to 0, so picking it uses up a roll and does nothing.</p>
+
+*Stats and hive bonuses each roll on their own. Higher potential makes a stat more likely to appear and pulls its value towards the top of its range. The chances and averages below come from running the game's own roll code 5,000 times at each potential. Bee stats that the game applies as a multiplier are shown as a %, the way the in-game tooltip shows them.*
 
 /// tab | 1 ★
 
@@ -104,22 +106,22 @@ The **Candy Ring** is a [level](bond.md) 14 [Beequip](beequip.md). It has an equ
 </td>
 <td>Convert Amount
 </td>
-<td>x1.2 to x1.3
+<td>+20% to +30%
 </td>
 <td>100%
 </td>
-<td>x1.235
+<td>+23.5%
 </td></tr>
 <tr>
 <td>Bee stat
 </td>
 <td>Ability Rate
 </td>
-<td>x1.01 to x1.02
+<td>+1% to +2%
 </td>
 <td>100%
 </td>
-<td>x1.012
+<td>+1.2%
 </td></tr>
 <tr>
 <td>Hive bonus
@@ -176,22 +178,22 @@ The **Candy Ring** is a [level](bond.md) 14 [Beequip](beequip.md). It has an equ
 </td>
 <td>Convert Amount
 </td>
-<td>x1.2 to x1.3
+<td>+20% to +30%
 </td>
 <td>100%
 </td>
-<td>x1.245
+<td>+24.5%
 </td></tr>
 <tr>
 <td>Bee stat
 </td>
 <td>Ability Rate
 </td>
-<td>x1.01 to x1.02
+<td>+1% to +2%
 </td>
 <td>100%
 </td>
-<td>x1.013
+<td>+1.3%
 </td></tr>
 <tr>
 <td>Hive bonus
@@ -248,22 +250,22 @@ The **Candy Ring** is a [level](bond.md) 14 [Beequip](beequip.md). It has an equ
 </td>
 <td>Convert Amount
 </td>
-<td>x1.2 to x1.3
+<td>+20% to +30%
 </td>
 <td>100%
 </td>
-<td>x1.255
+<td>+25.5%
 </td></tr>
 <tr>
 <td>Bee stat
 </td>
 <td>Ability Rate
 </td>
-<td>x1.01 to x1.02
+<td>+1% to +2%
 </td>
 <td>100%
 </td>
-<td>x1.017
+<td>+1.7%
 </td></tr>
 <tr>
 <td>Hive bonus
@@ -320,22 +322,22 @@ The **Candy Ring** is a [level](bond.md) 14 [Beequip](beequip.md). It has an equ
 </td>
 <td>Convert Amount
 </td>
-<td>x1.2 to x1.3
+<td>+20% to +30%
 </td>
 <td>100%
 </td>
-<td>x1.265
+<td>+26.5%
 </td></tr>
 <tr>
 <td>Bee stat
 </td>
 <td>Ability Rate
 </td>
-<td>x1.01 to x1.02
+<td>+1% to +2%
 </td>
 <td>100%
 </td>
-<td>x1.018
+<td>+1.8%
 </td></tr>
 <tr>
 <td>Hive bonus
@@ -392,22 +394,22 @@ The **Candy Ring** is a [level](bond.md) 14 [Beequip](beequip.md). It has an equ
 </td>
 <td>Convert Amount
 </td>
-<td>x1.2 to x1.3
+<td>+20% to +30%
 </td>
 <td>100%
 </td>
-<td>x1.275
+<td>+27.5%
 </td></tr>
 <tr>
 <td>Bee stat
 </td>
 <td>Ability Rate
 </td>
-<td>x1.01 to x1.02
+<td>+1% to +2%
 </td>
 <td>100%
 </td>
-<td>x1.018
+<td>+1.8%
 </td></tr>
 <tr>
 <td>Hive bonus
@@ -434,115 +436,115 @@ The **Candy Ring** is a [level](bond.md) 14 [Beequip](beequip.md). It has an equ
 
 ///
 
-### Wax upgrades
+### Max possible stats
 
-*Each upgrade a wax rolls picks one entry below, weighted by its share of the pool at that potential. Caustic-only entries can only come from Caustic or Debug Wax. An entry leaves the pool once it reaches its max picks.*
+*The best value each stat can reach. The top base value can roll at any potential; higher potential only makes it more likely. A beequip takes 5 waxes: Soft and Hard Wax give at most 10 upgrade rolls, and Caustic Wax gives up to 20, though each Caustic only succeeds 25% of the time and destroys the beequip when it fails. The max columns assume every roll lands on that stat at its best value, up to its max picks, so they are a ceiling rather than a typical result. "Pick chance" is how likely each roll is to pick that upgrade, from 1 ★ to 5 ★.*
 
 <table class="article-table">
 <tbody><tr>
-<th>Upgrade
+<th>Stat
+</th>
+<th>Best base value
+</th>
+<th>Per wax pick
+</th>
+<th>Pick chance
 </th>
 <th>Max picks
 </th>
-<th>Caustic only
+<th>Max with Soft/Hard Wax
 </th>
-<th>Value per pick
-</th>
-<th>Weight at 1 ★
-</th>
-<th>Weight at 3 ★
-</th>
-<th>Weight at 5 ★
+<th>Max with Caustic Wax
 </th></tr>
 <tr>
 <td>Energy
 </td>
-<td>20
-</td>
-<td>
+<td>+80
 </td>
 <td>+6 to +8
 </td>
-<td>49%
+<td>49% → 43%
 </td>
-<td>46%
+<td>20
 </td>
-<td>43%
+<td>+160
+</td>
+<td>+240
 </td></tr>
 <tr>
 <td>Convert Amount
 </td>
+<td>+30%
+</td>
+<td>+0 (always 0, see the bug note)
+</td>
+<td>49% → 43%
+</td>
 <td>10
 </td>
-<td>
+<td>+30%
 </td>
-<td>under 0.01
-</td>
-<td>49%
-</td>
-<td>46%
-</td>
-<td>43%
+<td>+30%
 </td></tr>
 <tr>
 <td>Ability Rate
 </td>
+<td>+2%
+</td>
+<td>+1% (Caustic only)
+</td>
+<td>9.59% → 15%
+</td>
 <td>3
 </td>
-<td>Yes
+<td>+2%
 </td>
-<td>+0.01
-</td>
-<td>10%
-</td>
-<td>12%
-</td>
-<td>15%
+<td>+5%
 </td></tr>
 <tr>
 <td>Honey At Hive (hive bonus)
 </td>
+<td>+5%
+</td>
+<td>+1% to +2%
+</td>
+<td>1.75% → 8.7%
+</td>
 <td>10
 </td>
-<td>
+<td>+25%
 </td>
-<td>+0.01 to +0.02
-</td>
-<td>2%
-</td>
-<td>5%
-</td>
-<td>9%
+<td>+25%
 </td></tr>
 <tr>
 <td>Honey Per Goo (hive bonus)
 </td>
+<td>+1%
+</td>
+<td>+1%
+</td>
+<td>0.88% → 4.35%
+</td>
 <td>6
 </td>
-<td>
+<td>+7%
 </td>
-<td>+0.01
-</td>
-<td>1%
-</td>
-<td>2%
-</td>
-<td>4%
+<td>+7%
 </td></tr>
 <tr>
 <td>Honey From Tokens (hive bonus)
 </td>
+<td>Only from wax
+</td>
+<td>x1.01 (new bonus) (Caustic only)
+</td>
+<td>0.009%
+</td>
 <td>1
 </td>
-<td>Yes
+<td>—
 </td>
-<td>+1.01
-</td>
-<td>0%
-</td>
-<td>0%
-</td>
-<td>0%
+<td>x1.01
 </td></tr></tbody></table>
 
 ## Ways to Obtain

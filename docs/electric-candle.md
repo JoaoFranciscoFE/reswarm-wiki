@@ -70,7 +70,7 @@ An **Electric Candle** is a [level](bond.md) 6 Beesmas [beequip](beequip.md). It
 
 <p class="beequip-meta"><b>Rarity:</b> Epic · <b>Equip limit:</b> 3 · <b>Who can wear it:</b> level 6+; Red bees · Beesmas · uses the older roll function (OldRNG)</p>
 
-*Stats and hive bonuses each roll on their own. Higher potential makes a stat more likely to appear and pulls its value towards the top of its range. The chances and averages below come from running the game's own roll code 5,000 times at each potential.*
+*Stats and hive bonuses each roll on their own. Higher potential makes a stat more likely to appear and pulls its value towards the top of its range. The chances and averages below come from running the game's own roll code 5,000 times at each potential. Bee stats that the game applies as a multiplier are shown as a %, the way the in-game tooltip shows them.*
 
 /// tab | 1 ★
 
@@ -91,22 +91,22 @@ An **Electric Candle** is a [level](bond.md) 6 Beesmas [beequip](beequip.md). It
 </td>
 <td>Red Gather Amount
 </td>
-<td>x1.05 to x1.1
+<td>+5% to +10%
 </td>
 <td>100%
 </td>
-<td>x1.067
+<td>+6.7%
 </td></tr>
 <tr>
 <td>Bee stat
 </td>
 <td>Flame Pollen
 </td>
-<td>+1.05 to +1.1
+<td>+5% to +10%
 </td>
 <td>100%
 </td>
-<td>+1.07
+<td>+7%
 </td></tr>
 <tr>
 <td>Bee stat
@@ -124,11 +124,11 @@ An **Electric Candle** is a [level](bond.md) 6 Beesmas [beequip](beequip.md). It
 </td>
 <td>Energy
 </td>
-<td>x1.05 to x1.1
+<td>+5% to +10%
 </td>
 <td>100%
 </td>
-<td>x1.068
+<td>+6.8%
 </td></tr>
 <tr>
 <td>Hive bonus
@@ -163,22 +163,22 @@ An **Electric Candle** is a [level](bond.md) 6 Beesmas [beequip](beequip.md). It
 </td>
 <td>Red Gather Amount
 </td>
-<td>x1.05 to x1.1
+<td>+5% to +10%
 </td>
 <td>100%
 </td>
-<td>x1.072
+<td>+7.2%
 </td></tr>
 <tr>
 <td>Bee stat
 </td>
 <td>Flame Pollen
 </td>
-<td>+1.05 to +1.1
+<td>+5% to +10%
 </td>
 <td>100%
 </td>
-<td>+1.07
+<td>+7%
 </td></tr>
 <tr>
 <td>Bee stat
@@ -196,11 +196,11 @@ An **Electric Candle** is a [level](bond.md) 6 Beesmas [beequip](beequip.md). It
 </td>
 <td>Energy
 </td>
-<td>x1.05 to x1.1
+<td>+5% to +10%
 </td>
 <td>100%
 </td>
-<td>x1.072
+<td>+7.2%
 </td></tr>
 <tr>
 <td>Hive bonus
@@ -235,22 +235,22 @@ An **Electric Candle** is a [level](bond.md) 6 Beesmas [beequip](beequip.md). It
 </td>
 <td>Red Gather Amount
 </td>
-<td>x1.05 to x1.1
+<td>+5% to +10%
 </td>
 <td>100%
 </td>
-<td>x1.078
+<td>+7.8%
 </td></tr>
 <tr>
 <td>Bee stat
 </td>
 <td>Flame Pollen
 </td>
-<td>+1.05 to +1.1
+<td>+5% to +10%
 </td>
 <td>100%
 </td>
-<td>+1.08
+<td>+8%
 </td></tr>
 <tr>
 <td>Bee stat
@@ -268,11 +268,11 @@ An **Electric Candle** is a [level](bond.md) 6 Beesmas [beequip](beequip.md). It
 </td>
 <td>Energy
 </td>
-<td>x1.05 to x1.1
+<td>+5% to +10%
 </td>
 <td>100%
 </td>
-<td>x1.077
+<td>+7.7%
 </td></tr>
 <tr>
 <td>Hive bonus
@@ -307,22 +307,22 @@ An **Electric Candle** is a [level](bond.md) 6 Beesmas [beequip](beequip.md). It
 </td>
 <td>Red Gather Amount
 </td>
-<td>x1.05 to x1.1
+<td>+5% to +10%
 </td>
 <td>100%
 </td>
-<td>x1.083
+<td>+8.3%
 </td></tr>
 <tr>
 <td>Bee stat
 </td>
 <td>Flame Pollen
 </td>
-<td>+1.05 to +1.1
+<td>+5% to +10%
 </td>
 <td>100%
 </td>
-<td>+1.08
+<td>+8%
 </td></tr>
 <tr>
 <td>Bee stat
@@ -340,11 +340,11 @@ An **Electric Candle** is a [level](bond.md) 6 Beesmas [beequip](beequip.md). It
 </td>
 <td>Energy
 </td>
-<td>x1.05 to x1.1
+<td>+5% to +10%
 </td>
 <td>100%
 </td>
-<td>x1.083
+<td>+8.3%
 </td></tr>
 <tr>
 <td>Hive bonus
@@ -379,22 +379,22 @@ An **Electric Candle** is a [level](bond.md) 6 Beesmas [beequip](beequip.md). It
 </td>
 <td>Red Gather Amount
 </td>
-<td>x1.05 to x1.1
+<td>+5% to +10%
 </td>
 <td>100%
 </td>
-<td>x1.088
+<td>+8.8%
 </td></tr>
 <tr>
 <td>Bee stat
 </td>
 <td>Flame Pollen
 </td>
-<td>+1.05 to +1.1
+<td>+5% to +10%
 </td>
 <td>100%
 </td>
-<td>+1.09
+<td>+9%
 </td></tr>
 <tr>
 <td>Bee stat
@@ -412,11 +412,11 @@ An **Electric Candle** is a [level](bond.md) 6 Beesmas [beequip](beequip.md). It
 </td>
 <td>Energy
 </td>
-<td>x1.05 to x1.1
+<td>+5% to +10%
 </td>
 <td>100%
 </td>
-<td>x1.088
+<td>+8.8%
 </td></tr>
 <tr>
 <td>Hive bonus
@@ -432,85 +432,100 @@ An **Electric Candle** is a [level](bond.md) 6 Beesmas [beequip](beequip.md). It
 
 ///
 
-### Wax upgrades
+### Max possible stats
 
-*Each upgrade a wax rolls picks one entry below, weighted by its share of the pool at that potential. Caustic-only entries can only come from Caustic or Debug Wax. An entry leaves the pool once it reaches its max picks.*
+*The best value each stat can reach. The top base value can roll at any potential; higher potential only makes it more likely. A beequip takes 5 waxes: Soft and Hard Wax give at most 10 upgrade rolls, and Caustic Wax gives up to 20, though each Caustic only succeeds 25% of the time and destroys the beequip when it fails. The max columns assume every roll lands on that stat at its best value, up to its max picks, so they are a ceiling rather than a typical result. "Pick chance" is how likely each roll is to pick that upgrade, from 1 ★ to 5 ★.*
 
 <table class="article-table">
 <tbody><tr>
-<th>Upgrade
+<th>Stat
+</th>
+<th>Best base value
+</th>
+<th>Per wax pick
+</th>
+<th>Pick chance
 </th>
 <th>Max picks
 </th>
-<th>Caustic only
+<th>Max with Soft/Hard Wax
 </th>
-<th>Value per pick
-</th>
-<th>Weight at 1 ★
-</th>
-<th>Weight at 3 ★
-</th>
-<th>Weight at 5 ★
+<th>Max with Caustic Wax
 </th></tr>
 <tr>
 <td>Red Gather Amount
 </td>
+<td>+10%
+</td>
+<td>+1% to +2%
+</td>
+<td>45% → 39%
+</td>
 <td>20
 </td>
-<td>
+<td>+30%
 </td>
-<td>+0.01 to +0.02
-</td>
-<td>45%
-</td>
-<td>42%
-</td>
-<td>39%
+<td>+50%
 </td></tr>
 <tr>
 <td>Flame Pollen
 </td>
+<td>+10%
+</td>
+<td>+1% to +2%
+</td>
+<td>45% → 39%
+</td>
 <td>20
 </td>
-<td>
+<td>+30%
 </td>
-<td>+0.01 to +0.02
-</td>
-<td>45%
-</td>
-<td>42%
-</td>
-<td>39%
+<td>+50%
 </td></tr>
 <tr>
 <td>Gathering Flames Chance
 </td>
+<td>+5%
+</td>
+<td>+1%
+</td>
+<td>8.19% → 20%
+</td>
 <td>20
 </td>
-<td>
+<td>+15%
 </td>
-<td>+0.01
+<td>+25%
+</td></tr>
+<tr>
+<td>Energy
 </td>
-<td>8%
+<td>+10%
 </td>
-<td>14%
+<td>—
 </td>
-<td>20%
+<td>—
+</td>
+<td>—
+</td>
+<td>+10%
+</td>
+<td>+10%
 </td></tr>
 <tr>
 <td>Flame Pollen (hive bonus)
 </td>
+<td>+1%
+</td>
+<td>+1%
+</td>
+<td>0.82% → 1.96%
+</td>
 <td>10
 </td>
-<td>
+<td>+11%
 </td>
-<td>+0.01
-</td>
-<td>1%
-</td>
-<td>1%
-</td>
-<td>2%
+<td>+11%
 </td></tr></tbody></table>
 
 ## Ways to Obtain

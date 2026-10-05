@@ -70,7 +70,7 @@ A **Lump Of Coal** is a [level](bond.md) 13 Beesmas [beequip](beequip.md). It ha
 
 <p class="beequip-meta"><b>Rarity:</b> Legendary · <b>Equip limit:</b> 3 · <b>Who can wear it:</b> level 13+ · Beesmas · uses the older roll function (OldRNG)</p>
 
-*Stats and hive bonuses each roll on their own. Higher potential makes a stat more likely to appear and pulls its value towards the top of its range. The chances and averages below come from running the game's own roll code 5,000 times at each potential.*
+*Stats and hive bonuses each roll on their own. Higher potential makes a stat more likely to appear and pulls its value towards the top of its range. The chances and averages below come from running the game's own roll code 5,000 times at each potential. Bee stats that the game applies as a multiplier are shown as a %, the way the in-game tooltip shows them.*
 
 /// tab | 1 ★
 
@@ -91,22 +91,22 @@ A **Lump Of Coal** is a [level](bond.md) 13 Beesmas [beequip](beequip.md). It ha
 </td>
 <td>Energy
 </td>
-<td>x0.2 to x0.3
+<td>−80% to −70%
 </td>
 <td>100%
 </td>
-<td>x0.235
+<td>−76.5%
 </td></tr>
 <tr>
 <td>Bee stat
 </td>
 <td>Movespeed
 </td>
-<td>x0.5 to x0.6
+<td>−50% to −40%
 </td>
 <td>100%
 </td>
-<td>x0.535
+<td>−46.5%
 </td></tr>
 <tr>
 <td>Hive bonus
@@ -218,22 +218,22 @@ A **Lump Of Coal** is a [level](bond.md) 13 Beesmas [beequip](beequip.md). It ha
 </td>
 <td>Energy
 </td>
-<td>x0.2 to x0.3
+<td>−80% to −70%
 </td>
 <td>100%
 </td>
-<td>x0.245
+<td>−75.5%
 </td></tr>
 <tr>
 <td>Bee stat
 </td>
 <td>Movespeed
 </td>
-<td>x0.5 to x0.6
+<td>−50% to −40%
 </td>
 <td>100%
 </td>
-<td>x0.545
+<td>−45.5%
 </td></tr>
 <tr>
 <td>Hive bonus
@@ -345,22 +345,22 @@ A **Lump Of Coal** is a [level](bond.md) 13 Beesmas [beequip](beequip.md). It ha
 </td>
 <td>Energy
 </td>
-<td>x0.2 to x0.3
+<td>−80% to −70%
 </td>
 <td>100%
 </td>
-<td>x0.255
+<td>−74.5%
 </td></tr>
 <tr>
 <td>Bee stat
 </td>
 <td>Movespeed
 </td>
-<td>x0.5 to x0.6
+<td>−50% to −40%
 </td>
 <td>100%
 </td>
-<td>x0.555
+<td>−44.5%
 </td></tr>
 <tr>
 <td>Hive bonus
@@ -472,22 +472,22 @@ A **Lump Of Coal** is a [level](bond.md) 13 Beesmas [beequip](beequip.md). It ha
 </td>
 <td>Energy
 </td>
-<td>x0.2 to x0.3
+<td>−80% to −70%
 </td>
 <td>100%
 </td>
-<td>x0.265
+<td>−73.5%
 </td></tr>
 <tr>
 <td>Bee stat
 </td>
 <td>Movespeed
 </td>
-<td>x0.5 to x0.6
+<td>−50% to −40%
 </td>
 <td>100%
 </td>
-<td>x0.565
+<td>−43.5%
 </td></tr>
 <tr>
 <td>Hive bonus
@@ -599,22 +599,22 @@ A **Lump Of Coal** is a [level](bond.md) 13 Beesmas [beequip](beequip.md). It ha
 </td>
 <td>Energy
 </td>
-<td>x0.2 to x0.3
+<td>−80% to −70%
 </td>
 <td>100%
 </td>
-<td>x0.275
+<td>−72.5%
 </td></tr>
 <tr>
 <td>Bee stat
 </td>
 <td>Movespeed
 </td>
-<td>x0.5 to x0.6
+<td>−50% to −40%
 </td>
 <td>100%
 </td>
-<td>x0.575
+<td>−42.5%
 </td></tr>
 <tr>
 <td>Hive bonus
@@ -707,100 +707,190 @@ A **Lump Of Coal** is a [level](bond.md) 13 Beesmas [beequip](beequip.md). It ha
 
 ///
 
-### Wax upgrades
+### Max possible stats
 
-*Each upgrade a wax rolls picks one entry below, weighted by its share of the pool at that potential. Caustic-only entries can only come from Caustic or Debug Wax. An entry leaves the pool once it reaches its max picks.*
+*The best value each stat can reach. The top base value can roll at any potential; higher potential only makes it more likely. A beequip takes 5 waxes: Soft and Hard Wax give at most 10 upgrade rolls, and Caustic Wax gives up to 20, though each Caustic only succeeds 25% of the time and destroys the beequip when it fails. The max columns assume every roll lands on that stat at its best value, up to its max picks, so they are a ceiling rather than a typical result. "Pick chance" is how likely each roll is to pick that upgrade, from 1 ★ to 5 ★.*
 
 <table class="article-table">
 <tbody><tr>
-<th>Upgrade
+<th>Stat
+</th>
+<th>Best base value
+</th>
+<th>Per wax pick
+</th>
+<th>Pick chance
 </th>
 <th>Max picks
 </th>
-<th>Caustic only
+<th>Max with Soft/Hard Wax
 </th>
-<th>Value per pick
-</th>
-<th>Weight at 1 ★
-</th>
-<th>Weight at 3 ★
-</th>
-<th>Weight at 5 ★
+<th>Max with Caustic Wax
 </th></tr>
 <tr>
-<td>Bomb Pollen
+<td>Energy
 </td>
-<td>20
+<td>−70%
 </td>
-<td>
+<td>—
 </td>
-<td>+0.01 to +0.02
+<td>—
 </td>
-<td>76%
+<td>—
 </td>
-<td>64%
+<td>−70%
 </td>
-<td>56%
+<td>−70%
+</td></tr>
+<tr>
+<td>Movespeed
+</td>
+<td>−40%
+</td>
+<td>—
+</td>
+<td>—
+</td>
+<td>—
+</td>
+<td>−40%
+</td>
+<td>−40%
+</td></tr>
+<tr>
+<td>Pollen (hive bonus)
+</td>
+<td>+1%
+</td>
+<td>—
+</td>
+<td>—
+</td>
+<td>—
+</td>
+<td>+1%
+</td>
+<td>+1%
+</td></tr>
+<tr>
+<td>White Pollen (hive bonus)
+</td>
+<td>+2%
+</td>
+<td>—
+</td>
+<td>—
+</td>
+<td>—
+</td>
+<td>+2%
+</td>
+<td>+2%
+</td></tr>
+<tr>
+<td>Red Pollen (hive bonus)
+</td>
+<td>+2%
+</td>
+<td>—
+</td>
+<td>—
+</td>
+<td>—
+</td>
+<td>+2%
+</td>
+<td>+2%
+</td></tr>
+<tr>
+<td>Blue Pollen (hive bonus)
+</td>
+<td>+2%
+</td>
+<td>—
+</td>
+<td>—
+</td>
+<td>—
+</td>
+<td>+2%
+</td>
+<td>+2%
 </td></tr>
 <tr>
 <td>Bomb Pollen (hive bonus)
 </td>
+<td>+3%
+</td>
+<td>+1%
+</td>
+<td>6.06% → 11%
+</td>
 <td>10
 </td>
-<td>
+<td>+13%
 </td>
-<td>+0.01
-</td>
-<td>6%
-</td>
-<td>9%
-</td>
-<td>11%
+<td>+13%
 </td></tr>
 <tr>
 <td>Buzz Bomb Pollen (hive bonus)
 </td>
+<td>+3%
+</td>
+<td>+1%
+</td>
+<td>6.06% → 11%
+</td>
 <td>10
 </td>
-<td>
+<td>+13%
 </td>
-<td>+0.01
-</td>
-<td>6%
-</td>
-<td>9%
-</td>
-<td>11%
+<td>+13%
 </td></tr>
 <tr>
 <td>Red Bomb Pollen (hive bonus)
 </td>
+<td>+3%
+</td>
+<td>+1%
+</td>
+<td>6.06% → 11%
+</td>
 <td>10
 </td>
-<td>
+<td>+13%
 </td>
-<td>+0.01
-</td>
-<td>6%
-</td>
-<td>9%
-</td>
-<td>11%
+<td>+13%
 </td></tr>
 <tr>
 <td>Blue Bomb Pollen (hive bonus)
 </td>
+<td>+3%
+</td>
+<td>+1%
+</td>
+<td>6.06% → 11%
+</td>
 <td>10
 </td>
-<td>
+<td>+13%
 </td>
-<td>+0.01
+<td>+13%
+</td></tr>
+<tr>
+<td>Bomb Pollen
 </td>
-<td>6%
+<td>Only from wax
 </td>
-<td>9%
+<td>+1% to +2%
 </td>
-<td>11%
+<td>76% → 56%
+</td>
+<td>20
+</td>
+<td>+20%
+</td>
+<td>+40%
 </td></tr></tbody></table>
 
 ## Way(s) to Obtain

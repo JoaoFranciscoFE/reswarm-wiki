@@ -72,7 +72,7 @@ tags: ["Inventory", "Items", "Beequips"]
 
 <p class="beequip-meta"><b>Rarity:</b> Common · <b>Equip limit:</b> 1 · <b>Who can wear it:</b> level 10+; Gifted; bee types: Basic, Bomber, Rad, Honey, Demo, Shy</p>
 
-*Stats and hive bonuses each roll on their own. Higher potential makes a stat more likely to appear and pulls its value towards the top of its range. The chances and averages below come from running the game's own roll code 5,000 times at each potential.*
+*Stats and hive bonuses each roll on their own. Higher potential makes a stat more likely to appear and pulls its value towards the top of its range. The chances and averages below come from running the game's own roll code 5,000 times at each potential. Bee stats that the game applies as a multiplier are shown as a %, the way the in-game tooltip shows them.*
 
 /// tab | 1 ★
 
@@ -93,11 +93,11 @@ tags: ["Inventory", "Items", "Beequips"]
 </td>
 <td>Ability Pollen
 </td>
-<td>x1.15 to x1.25
+<td>+15% to +25%
 </td>
 <td>100%
 </td>
-<td>x1.185
+<td>+18.5%
 </td></tr>
 <tr>
 <td>Bee stat
@@ -154,11 +154,11 @@ tags: ["Inventory", "Items", "Beequips"]
 </td>
 <td>Ability Pollen
 </td>
-<td>x1.15 to x1.25
+<td>+15% to +25%
 </td>
 <td>100%
 </td>
-<td>x1.195
+<td>+19.5%
 </td></tr>
 <tr>
 <td>Bee stat
@@ -215,11 +215,11 @@ tags: ["Inventory", "Items", "Beequips"]
 </td>
 <td>Ability Pollen
 </td>
-<td>x1.15 to x1.25
+<td>+15% to +25%
 </td>
 <td>100%
 </td>
-<td>x1.205
+<td>+20.5%
 </td></tr>
 <tr>
 <td>Bee stat
@@ -276,11 +276,11 @@ tags: ["Inventory", "Items", "Beequips"]
 </td>
 <td>Ability Pollen
 </td>
-<td>x1.15 to x1.25
+<td>+15% to +25%
 </td>
 <td>100%
 </td>
-<td>x1.215
+<td>+21.5%
 </td></tr>
 <tr>
 <td>Bee stat
@@ -337,11 +337,11 @@ tags: ["Inventory", "Items", "Beequips"]
 </td>
 <td>Ability Pollen
 </td>
-<td>x1.15 to x1.25
+<td>+15% to +25%
 </td>
 <td>100%
 </td>
-<td>x1.225
+<td>+22.5%
 </td></tr>
 <tr>
 <td>Bee stat
@@ -379,116 +379,118 @@ tags: ["Inventory", "Items", "Beequips"]
 
 ///
 
-### Wax upgrades
+### Max possible stats
 
-*Each upgrade a wax rolls picks one entry below, weighted by its share of the pool at that potential. Caustic-only entries can only come from Caustic or Debug Wax. An entry leaves the pool once it reaches its max picks.*
+*The best value each stat can reach. The top base value can roll at any potential; higher potential only makes it more likely. A beequip takes 5 waxes: Soft and Hard Wax give at most 10 upgrade rolls, and Caustic Wax gives up to 20, though each Caustic only succeeds 25% of the time and destroys the beequip when it fails. The max columns assume every roll lands on that stat at its best value, up to its max picks, so they are a ceiling rather than a typical result. "Pick chance" is how likely each roll is to pick that upgrade, from 1 ★ to 5 ★.*
 
 <table class="article-table">
 <tbody><tr>
-<th>Upgrade
+<th>Stat
+</th>
+<th>Best base value
+</th>
+<th>Per wax pick
+</th>
+<th>Pick chance
 </th>
 <th>Max picks
 </th>
-<th>Caustic only
+<th>Max with Soft/Hard Wax
 </th>
-<th>Value per pick
-</th>
-<th>Weight at 1 ★
-</th>
-<th>Weight at 3 ★
-</th>
-<th>Weight at 5 ★
+<th>Max with Caustic Wax
 </th></tr>
+<tr>
+<td>Ability Pollen
+</td>
+<td>+25%
+</td>
+<td>+1% to +2%
+</td>
+<td>14% → 14%
+</td>
+<td>20
+</td>
+<td>+45%
+</td>
+<td>+65%
+</td></tr>
+<tr>
+<td>Critical Power
+</td>
+<td>+50%
+</td>
+<td>—
+</td>
+<td>—
+</td>
+<td>—
+</td>
+<td>+50%
+</td>
+<td>+50%
+</td></tr>
 <tr>
 <td>Critical Chance
 </td>
+<td>+30%
+</td>
+<td>+1% to +2%
+</td>
+<td>53% → 50%
+</td>
 <td>19
 </td>
-<td>
+<td>+50%
 </td>
-<td>+0.01 to +0.02
-</td>
-<td>53%
-</td>
-<td>51%
-</td>
-<td>50%
+<td>+68%
 </td></tr>
 <tr>
 <td>Super-Crit Chance
 </td>
-<td>20
+<td>+15%
 </td>
-<td>
+<td>+1% to +2%
 </td>
-<td>+0.01 to +0.02
-</td>
-<td>29%
-</td>
-<td>28%
-</td>
-<td>27%
-</td></tr>
-<tr>
-<td>Ability Pollen
+<td>29% → 27%
 </td>
 <td>20
 </td>
-<td>
+<td>+35%
 </td>
-<td>+0.01 to +0.02
-</td>
-<td>14%
-</td>
-<td>14%
-</td>
-<td>14%
+<td>+55%
 </td></tr>
 <tr>
 <td>Super-Crit Power (hive bonus)
 </td>
+<td>Only from wax
+</td>
+<td>+2% to +3%
+</td>
+<td>3.85% → 9.09%
+</td>
 <td>10
 </td>
-<td>
+<td>+30%
 </td>
-<td>+0.02 to +0.03
-</td>
-<td>4%
-</td>
-<td>7%
-</td>
-<td>9%
+<td>+30%
 </td></tr>
 <tr>
 <td>Super-Crit Chance (hive bonus)
 </td>
-<td>1
+<td>Only from wax
 </td>
-<td>Yes
+<td>+1% (Caustic only)
 </td>
-<td>+0.01
-</td>
-<td>3%
-</td>
-<td>5%
-</td>
-<td>7%
-</td></tr>
-<tr>
-<td>Focus ability
+<td>3.42% → 6.9%
 </td>
 <td>1
 </td>
-<td>Yes
+<td>—
 </td>
-<td>+1
-</td>
-<td>8%
-</td>
-<td>13%
-</td>
-<td>17%
+<td>+1%
 </td></tr></tbody></table>
+
+<p class="beequip-note"><b>Caustic-only ability upgrade:</b> grants the bee the ability <b>Focus</b> (Max 1).</p>
 
 ## Ways to obtain
 

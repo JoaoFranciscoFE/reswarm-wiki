@@ -74,7 +74,7 @@ The **Kazoo** is a [level](bond.md) 9 [Beequip](beequip.md). It has an equip lim
 
 <p class="beequip-meta"><b>Abilities:</b> Melody</p>
 
-*Stats and hive bonuses each roll on their own. Higher potential makes a stat more likely to appear and pulls its value towards the top of its range. The chances and averages below come from running the game's own roll code 5,000 times at each potential.*
+*Stats and hive bonuses each roll on their own. Higher potential makes a stat more likely to appear and pulls its value towards the top of its range. The chances and averages below come from running the game's own roll code 5,000 times at each potential. Bee stats that the game applies as a multiplier are shown as a %, the way the in-game tooltip shows them.*
 
 /// tab | 1 ★
 
@@ -95,11 +95,11 @@ The **Kazoo** is a [level](bond.md) 9 [Beequip](beequip.md). It has an equip lim
 </td>
 <td>Convert Amount
 </td>
-<td>x1.2 to x1.3
+<td>+20% to +30%
 </td>
 <td>100%
 </td>
-<td>x1.234
+<td>+23.4%
 </td></tr>
 <tr>
 <td>Bee stat
@@ -117,11 +117,11 @@ The **Kazoo** is a [level](bond.md) 9 [Beequip](beequip.md). It has an equip lim
 </td>
 <td>Energy
 </td>
-<td>x0.45 to x0.55
+<td>−55% to −45%
 </td>
 <td>100%
 </td>
-<td>x0.486
+<td>−51.4%
 </td></tr>
 <tr>
 <td>Hive bonus
@@ -156,11 +156,11 @@ The **Kazoo** is a [level](bond.md) 9 [Beequip](beequip.md). It has an equip lim
 </td>
 <td>Convert Amount
 </td>
-<td>x1.2 to x1.3
+<td>+20% to +30%
 </td>
 <td>100%
 </td>
-<td>x1.245
+<td>+24.5%
 </td></tr>
 <tr>
 <td>Bee stat
@@ -178,11 +178,11 @@ The **Kazoo** is a [level](bond.md) 9 [Beequip](beequip.md). It has an equip lim
 </td>
 <td>Energy
 </td>
-<td>x0.45 to x0.55
+<td>−55% to −45%
 </td>
 <td>100%
 </td>
-<td>x0.495
+<td>−50.5%
 </td></tr>
 <tr>
 <td>Hive bonus
@@ -217,11 +217,11 @@ The **Kazoo** is a [level](bond.md) 9 [Beequip](beequip.md). It has an equip lim
 </td>
 <td>Convert Amount
 </td>
-<td>x1.2 to x1.3
+<td>+20% to +30%
 </td>
 <td>100%
 </td>
-<td>x1.254
+<td>+25.4%
 </td></tr>
 <tr>
 <td>Bee stat
@@ -239,11 +239,11 @@ The **Kazoo** is a [level](bond.md) 9 [Beequip](beequip.md). It has an equip lim
 </td>
 <td>Energy
 </td>
-<td>x0.45 to x0.55
+<td>−55% to −45%
 </td>
 <td>100%
 </td>
-<td>x0.505
+<td>−49.5%
 </td></tr>
 <tr>
 <td>Hive bonus
@@ -278,11 +278,11 @@ The **Kazoo** is a [level](bond.md) 9 [Beequip](beequip.md). It has an equip lim
 </td>
 <td>Convert Amount
 </td>
-<td>x1.2 to x1.3
+<td>+20% to +30%
 </td>
 <td>100%
 </td>
-<td>x1.265
+<td>+26.5%
 </td></tr>
 <tr>
 <td>Bee stat
@@ -300,11 +300,11 @@ The **Kazoo** is a [level](bond.md) 9 [Beequip](beequip.md). It has an equip lim
 </td>
 <td>Energy
 </td>
-<td>x0.45 to x0.55
+<td>−55% to −45%
 </td>
 <td>100%
 </td>
-<td>x0.515
+<td>−48.5%
 </td></tr>
 <tr>
 <td>Hive bonus
@@ -339,11 +339,11 @@ The **Kazoo** is a [level](bond.md) 9 [Beequip](beequip.md). It has an equip lim
 </td>
 <td>Convert Amount
 </td>
-<td>x1.2 to x1.3
+<td>+20% to +30%
 </td>
 <td>100%
 </td>
-<td>x1.275
+<td>+27.5%
 </td></tr>
 <tr>
 <td>Bee stat
@@ -361,11 +361,11 @@ The **Kazoo** is a [level](bond.md) 9 [Beequip](beequip.md). It has an equip lim
 </td>
 <td>Energy
 </td>
-<td>x0.45 to x0.55
+<td>−55% to −45%
 </td>
 <td>100%
 </td>
-<td>x0.525
+<td>−47.5%
 </td></tr>
 <tr>
 <td>Hive bonus
@@ -381,85 +381,100 @@ The **Kazoo** is a [level](bond.md) 9 [Beequip](beequip.md). It has an equip lim
 
 ///
 
-### Wax upgrades
+### Max possible stats
 
-*Each upgrade a wax rolls picks one entry below, weighted by its share of the pool at that potential. Caustic-only entries can only come from Caustic or Debug Wax. An entry leaves the pool once it reaches its max picks.*
+*The best value each stat can reach. The top base value can roll at any potential; higher potential only makes it more likely. A beequip takes 5 waxes: Soft and Hard Wax give at most 10 upgrade rolls, and Caustic Wax gives up to 20, though each Caustic only succeeds 25% of the time and destroys the beequip when it fails. The max columns assume every roll lands on that stat at its best value, up to its max picks, so they are a ceiling rather than a typical result. "Pick chance" is how likely each roll is to pick that upgrade, from 1 ★ to 5 ★.*
 
 <table class="article-table">
 <tbody><tr>
-<th>Upgrade
+<th>Stat
+</th>
+<th>Best base value
+</th>
+<th>Per wax pick
+</th>
+<th>Pick chance
 </th>
 <th>Max picks
 </th>
-<th>Caustic only
+<th>Max with Soft/Hard Wax
 </th>
-<th>Value per pick
-</th>
-<th>Weight at 1 ★
-</th>
-<th>Weight at 3 ★
-</th>
-<th>Weight at 5 ★
+<th>Max with Caustic Wax
 </th></tr>
 <tr>
 <td>Convert Amount
 </td>
+<td>+30%
+</td>
+<td>+1% to +3%
+</td>
+<td>49% → 48%
+</td>
 <td>20
 </td>
-<td>
+<td>+60%
 </td>
-<td>+0.01 to +0.03
-</td>
-<td>49%
-</td>
-<td>49%
-</td>
-<td>48%
+<td>+90%
 </td></tr>
 <tr>
 <td>Critical Power
 </td>
+<td>+30%
+</td>
+<td>+1% to +3%
+</td>
+<td>49% → 48%
+</td>
 <td>20
 </td>
-<td>
+<td>+60%
 </td>
-<td>+0.01 to +0.03
+<td>+90%
+</td></tr>
+<tr>
+<td>Energy
 </td>
-<td>49%
+<td>−45%
 </td>
-<td>49%
+<td>—
 </td>
-<td>48%
+<td>—
+</td>
+<td>—
+</td>
+<td>−45%
+</td>
+<td>−45%
 </td></tr>
 <tr>
 <td>Critical Power (hive bonus)
 </td>
+<td>+5%
+</td>
+<td>+1%
+</td>
+<td>1.34% → 4.76%
+</td>
 <td>5
 </td>
-<td>
+<td>+10%
 </td>
-<td>+0.01
-</td>
-<td>1%
-</td>
-<td>3%
-</td>
-<td>5%
+<td>+10%
 </td></tr>
 <tr>
 <td>Super-Crit Power (hive bonus)
 </td>
+<td>Only from wax
+</td>
+<td>+1% (Caustic only)
+</td>
+<td>2.44% → 7.08%
+</td>
 <td>5
 </td>
-<td>Yes
+<td>—
 </td>
-<td>+0.01
-</td>
-<td>2%
-</td>
-<td>4%
-</td>
-<td>7%
+<td>+5%
 </td></tr></tbody></table>
 
 ## Ways to obtain
