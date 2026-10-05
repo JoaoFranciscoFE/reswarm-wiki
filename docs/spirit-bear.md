@@ -5,6 +5,8 @@ tags: ["NPC", "Bears", "Quest Giver"]
 
 # Spirit Bear
 
+![Spirit Bear](img/bears/Spirit_Bear.png){ align=right width=150 }
+
 <table class="infobox" style="font-size:12px; color:white; width:300px; background:#a58b59;padding:0; border:none; color:#FFF;">
 <tbody><tr>
 <td colspan="2" style="background-color:#684a12; font-size:2vh; text-align: center; padding: 15px 0; color:#FFF"><b>Spirit Bear</b>

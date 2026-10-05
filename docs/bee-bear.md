@@ -5,6 +5,8 @@ tags: ["NPC", "Bears", "Traveling Bears", "Quest Giver", "Beesmas", "Events"]
 
 # Bee Bear
 
+![Bee Bear](img/bears/Bee_Bear.png){ align=right width=150 }
+
 This piece of content goes bye bye.
 
 The following content has been removed from the game. The contents below may be archival, but feel free to edit below.
