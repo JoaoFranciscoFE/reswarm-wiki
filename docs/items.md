@@ -1110,7 +1110,7 @@ The following is a list of all of the **items** in [Re://:Swarm](re-swarm.md).
 <tr>
 <td><figure class="mw-halign-center" typeof="mw:Error mw:File"><figcaption></figcaption></figure><div style="text-align: center;"><a href="king-beetle-amulet.html">King Beetle Amulet</a>
 </div></td>
-<td>The King Beetle Amulet is an amulet with a one in seven (or 14.287%) chance of dropping upon defeating the King Beetle (Loot Luck does not affect the probability or stats).
+<td>The King Beetle Amulet is an amulet that always drops, at max quality, when the King Beetle is defeated.
 </td>
 <td>-
 </td>

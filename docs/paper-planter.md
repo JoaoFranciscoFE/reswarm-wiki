@@ -27,7 +27,7 @@ tags: ["Inventory", "Items", "Planter", "Crafted"]
 </div>
 </div>
 
-The **Paper Planter** is a single-use [planter](planter.md) added in the 2021-12-26 update. Alone, it grows in 1 hour and stores 50,000 pollen. It can be bought in the [Pro Shop](pro-shop.md) for 25,000 [Honey](honey.md) and 1 [Sunflower Seed](sunflower-seed.md). A player can store up to 100 Paper Planters at a time, and up to 3 planters of any kind can be planted at once.
+The **Paper Planter** is a single-use [planter](planter.md) added in the 2021-12-26 update. Alone, it grows in 1 hour and stores 50,000 pollen. It can be bought in the [Pro Shop](pro-shop.md) for 25,000 [Honey](honey.md) and 1 [Sunflower Seed](sunflower-seed.md). A player can store up to 100 Paper Planters at a time, and up to 3 planters can be planted at once.
 
 ## Growth, pollen and nectar
 

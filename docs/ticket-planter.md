@@ -27,7 +27,7 @@ tags: ["Inventory", "Items", "Planter", "Consumables"]
 </div>
 </div>
 
-A **Ticket Planter** is a single use [planter](planter.md) added in the 2021-12-26 update. Alone, it grows in about 2 hours and stores 50,000 [pollen](pollen.md). When harvested, it grants bonus Tickets. A player can store up to 100 Ticket Planters at a time, and up to 3 planters of any kind can be planted at once.
+A **Ticket Planter** is a single use [planter](planter.md) added in the 2021-12-26 update. Alone, it grows in about 2 hours and stores 50,000 [pollen](pollen.md). When harvested, it grants bonus Tickets. A player can store up to 100 Ticket Planters at a time, and up to 3 planters can be planted at once.
 
 ## Growth, pollen and nectar
 

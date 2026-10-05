@@ -24,7 +24,7 @@ The **King Beetle** is a level 7 boss mob that resides in his [lair](king-beetle
 
 He takes 1 day (24 hours) to respawn after being defeated (20 hours and 24 minutes with a [Gifted](gifted-bee.md) [Vicious Bee](vicious-bee.md)). The rewards for defeating him vary, but always include 150 [Battle Points](battle-points.md), as well as [Honey](honey.md), [Royal Jellies](royal-jelly.md), [Tickets](ticket.md) and [Bond](bond.md).
 
-There is a one-in-seven (approximately 14%) chance that he will drop a [King Beetle Amulet](king-beetle-amulet.md) when defeated. Having more [Loot Luck](loot-luck.md) increases the probabilities of other drops but doesn't improve the probability of a King Beetle Amulet dropping. After the 2019-02-01 Update, King Beetle drops honey tokens and rewards in a token circle around the center of the lair unlike all other mobs who drop the circle around the place of their death (except for [Stump Snail](stump-snail.md), [Tunnel Bear](tunnel-bear.md), and [Rogue Vicious Bee](rogue-vicious-bee.md)) unless the player receives a King Beetle Amulet, in which it goes directly into the player's inventory.
+He always drops a [King Beetle Amulet](king-beetle-amulet.md) at max quality when defeated. Having more [Loot Luck](loot-luck.md) increases the probabilities of other drops. After the 2019-02-01 Update, King Beetle drops honey tokens and rewards in a token circle around the center of the lair unlike all other mobs who drop the circle around the place of their death (except for [Stump Snail](stump-snail.md), [Tunnel Bear](tunnel-bear.md), and [Rogue Vicious Bee](rogue-vicious-bee.md)) unless the player receives a King Beetle Amulet, in which it goes directly into the player's inventory.
 
 ## Drops
 
@@ -59,7 +59,7 @@ There is a one-in-seven (approximately 14%) chance that he will drop a [King Bee
 
 <table class="article-table">
 <tbody><tr>
-<td><a href="king-beetle-amulet.html">King Beetle Amulet</a> (1/7 chance)<br/>
+<td><a href="king-beetle-amulet.html">King Beetle Amulet</a> (always)<br/>
 <p><span typeof="mw:Error mw:File"></span>5-25 <a href="ticket.html"><span class="color-template color-template-ticket color-template-background-clip">Tickets</span></a><br/>
 <span typeof="mw:Error mw:File"></span>1-25 <a href="royal-jelly.html"><span class="color-template color-template-royal-jelly color-template-background-clip">Royal Jelly</span></a><br/>
 <img alt="Ant Pass" height="35" src="img/Ant_Pass.png" width="35"/><a href="ant-pass.html"><span class="color-template color-template-ant-pass color-template-background-clip">Ant Pass</span></a><br/>

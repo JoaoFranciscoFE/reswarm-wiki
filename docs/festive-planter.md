@@ -27,7 +27,7 @@ tags: ["Unobtainable", "Inventory", "Items", "Planter", "Beesmas", "Consumables"
 </div>
 </div>
 
-The **Festive Planter** is a Beesmas-exclusive single-use planter added in the 2021-12-26 update. Alone, it grows in 4 hours of playtime and stores 250,000 [pollen](pollen.md). A player can store up to 100 Festive Planters at a time, and up to 3 planters of any kind can be planted at once.
+The **Festive Planter** is a Beesmas-exclusive single-use planter added in the 2021-12-26 update. Alone, it grows in 4 hours of playtime and stores 250,000 [pollen](pollen.md). A player can store up to 100 Festive Planters at a time, and up to 3 planters can be planted at once.
 
 ## Growth, pollen and nectar
 
