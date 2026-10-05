@@ -18,7 +18,7 @@ The [Painter Bee Event](painter-bee-event.md): a new bee, new flowers, a new wax
 * **New pack: Painter Bee's Colorful Haul**, with a 1st Edition Painter Bee Voucher, each Color Splat sticker, Painter Bee's Hive Skin, both Painter Bee stickers and Painter's Doodle. See [Painter Stickers](painter-stickers.md).
 * **All new flowers:** every field flower has been redrawn.
 * **New wax: [Fluxite Wax](fluxite-wax.md)**, which rerolls a [Beequip](beequip.md)'s potential from 1 to 5 stars. Get it as a 1/10 drop from Supreme Sprouts, by crafting, or with Robux.
-* **New Puffshroom tier: [Supreme Puffshroom](supreme-puffshroom.md)**, above Mythic, with a 1/100 chance to drop a sticker of itself.
+* **New Puffshroom tier: [Supreme Puffshroom](puffshroom.md#supreme-puffshroom)**, above Mythic, with a 1/100 chance to drop a sticker of itself.
 * New performance setting: hide [Puffshrooms](puffshroom.md) below a chosen rarity (also hides the flying spores).
 
 ## Changes

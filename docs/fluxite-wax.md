@@ -28,11 +28,11 @@ tags: ["Items", "Inventory", "Waxes", "Crafted", "Consumables", "Painter Bee Eve
   * 4,000 [Hard Wax](hard-wax.md)
   * 7,500 [Soft Wax](soft-wax.md)
   * 3 [Turpentine](turpentine.md)
-* Dropped by [Supreme Puffshrooms](supreme-puffshroom.md) (1 in 10). Loot multipliers never change this chance.
+* Dropped by [Supreme Puffshrooms](puffshroom.md#supreme-puffshroom) (1 in 10). Loot multipliers never change this chance.
 * Sold in the [Robux Shop](robux-shop.md).
 
 ## See also
 
 * [Waxes](waxes.md)
 * [Beequip](beequip.md)
-* [Supreme Puffshroom](supreme-puffshroom.md)
+* [Supreme Puffshroom](puffshroom.md#supreme-puffshroom)
