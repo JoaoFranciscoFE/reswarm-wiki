@@ -6,8 +6,6 @@ tags: ["Shops", "Locations", "Machines"]
 # Boost Market
 
 
-This was removed from the game.
-
 <aside class="portable-infobox pi-background pi-border-color pi-theme-wikia pi-layout-default" role="region">
 <h2 class="pi-item pi-item-spacing pi-title pi-secondary-background" data-source="title1">Boost Market</h2>
 <figure class="pi-item pi-image pi-photo"><img alt="Boost Market" src="img/places/Boost_Market.png" width="640" height="385"/></figure>
@@ -19,9 +17,9 @@ This was removed from the game.
 
 
 
-The **Boost Market** was a [shop](shops.md) that could have been found in the [30 Bee Zone](bear-gate.md). Since the Beesmas 2021 update, it has been replaced by the [Nectar Pot](nectar-pot.md).
+The **Boost Market** is a [shop](shops.md) in the [30 Bee Zone](bear-gate.md). It is usable in Re://:Swarm.
 
-Every 30 minutes, the shop allowed the player to purchase a market boost at a certain price. The price depended on the number of people who have purchased that specific boost, much like in a real [stock market](https://en.wikipedia.org/wiki/Stock_Market). It cost both [Tickets](ticket.md) and [Honey](honey.md) to purchase a boost. These boosts lasted for 30 minutes. Market boosts could also have been obtained from certain [codes](codes.md), like RedMarket, or the ones used in the Ready Player Two event.
+Every 30 minutes, the shop allows the player to purchase a market boost at a certain price. The price depends on the number of people who have purchased that specific boost, much like in a real [stock market](https://en.wikipedia.org/wiki/Stock_Market). It costs both [Tickets](ticket.md) and [Honey](honey.md) to purchase a boost. These boosts last for 30 minutes. Market boosts could also be obtained from certain [codes](codes.md), like RedMarket, or the ones used in the Ready Player Two event.
 
 
 ## Boosts

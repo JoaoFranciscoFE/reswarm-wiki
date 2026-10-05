@@ -7,11 +7,7 @@ tags: ["Summoner", "Machines", "Beesmas", "Locations", "Beesmas Decorations"]
 
 ![Snowbear Summoner](img/places/Snowbear_Summoner.png){ .wiki-photo }
 
-This was removed from the game.
-
-<figure class="thumb" style="width: 183px" typeof="mw:File/Thumb">  <figcaption class="thumbcaption"> </figcaption> </figure>
-
-The **Snowbear Summoner** is a Beesmas-exclusive summoner machine. It would be located next to the [Basic Bee Gate](basic-bee-gate.md), [Highest Snowbear Level](highest-snowbear-level.md) leaderboard, and [Spider Field](spider-field.md). It can be used after completing [Panda Bear](panda-bear.md)'s Snowbear quest. It has a cooldown of 90 minutes before being able to be used again to avoid instant farming or overcrowding of [Snowbears](snowbear.md) in the Spider Field.
+The **Snowbear Summoner** is a Beesmas-exclusive summoner machine. It is located next to the [Basic Bee Gate](basic-bee-gate.md) and the [Spider Field](spider-field.md). It works in Re://:Swarm after completing Panda Bear's 2025 Beesmas quest, and has a 15-second cooldown. It can be used after completing [Panda Bear](panda-bear.md)'s Snowbear quest. It has a cooldown of 90 minutes before being able to be used again to avoid instant farming or overcrowding of [Snowbears](snowbear.md) in the Spider Field.
 
 If a player attempts to use the summoner without completing Panda Bear's Snowbear quest, the following message will appear: *'Last year's Snowbear is already complete! But it's starting to melt...'*
 

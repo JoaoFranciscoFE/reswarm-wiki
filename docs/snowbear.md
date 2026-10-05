@@ -6,8 +6,6 @@ tags: ["Mobs", "Mini Bosses", "Bears", "Beesmas", "Multiplayer Bosses"]
 # Snowbear
 
 
-This was removed from the game.
-
 <aside class="portable-infobox pi-background pi-border-color pi-theme-wikia pi-layout-stacked" role="region">
 <h2 class="pi-item pi-item-spacing pi-title pi-secondary-background" data-source="title">Snowbear</h2>
 <figure class="pi-item pi-image">
@@ -23,7 +21,7 @@ This was removed from the game.
 </div>
 </aside>
 
-**Snowbear** is a mini-boss that can be summoned every 1 hour and 30 minutes at the [Snowbear Summoner](snowbear-summoner.md) after completing [Panda Bear](panda-bear.md)'s Beesmas quest. When summoned, it spawns in the [Spider Field](spider-field.md), and players have 60 seconds (1 minute) to defeat it. If 60 seconds has passed without enough damage done to it, it will despawn (melt). All players' bees can attack another player's Snowbear, but the player that summoned it would receive more rewards.
+**Snowbear** is a mini-boss that can be summoned every 15 seconds at the [Snowbear Summoner](snowbear-summoner.md) after completing [Panda Bear](panda-bear.md)'s Beesmas quest. When summoned, it spawns in the [Spider Field](spider-field.md), and players have 60 seconds (1 minute) to defeat it. If 60 seconds has passed without enough damage done to it, it will despawn (melt). All players' bees can attack another player's Snowbear, but the player that summoned it would receive more rewards.
 
 ## Attacks
 
@@ -276,7 +274,6 @@ It is also recommended to have another player have their bees attack a high-leve
 * Snowbear uses the Cartoony Animation Pack.
 * The icon for the Frozen debuff is the asset for [Ice Cube](https://battlefordreamisland.fandom.com/wiki/Ice_Cube) from the animated show [Battle for Dream Island](https://en.wikipedia.org/wiki/Battle_for_Dream_Island).
 * Snowbear and [Stick Bug](stick-bug.md) are the only hostile mobs that can be directly summoned by players. They are also the only mobs whose cooldowns are not affected by [Gifted Vicious Bee's](vicious-bee.md) Gifted Hive Bonus.
-* Snowbear is the fourth mob to be removed from the game, after the [Chick](chicks.md), Spotted Chick, and Hostage Chick.
   * It's also the only mob to return after being removed.
 * Snowbear's leveling up mechanic work similarly to Stick Bug and [Wild Windy Bee](wild-windy-bee.md).
   * It's also the only mob that has a changing size, which also increases by leveling. This can make it the largest mob in the game.
