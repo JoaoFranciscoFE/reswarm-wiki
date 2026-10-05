@@ -321,9 +321,9 @@ figure img { max-width: 100%; height: auto; }
   0% { translate: 0 0; } 25% { translate: 2px -1px; } 50% { translate: -2px 1px; } 75% { translate: 1px 2px; } 100% { translate: 0 0; }
 }
 @keyframes crit-pop { 0% { scale: .4; opacity: 0; } 12% { scale: 1.25; opacity: 1; } 25% { scale: 1; } 80% { opacity: 1; } 100% { scale: 1; opacity: 0; } }
-@keyframes crit-pollen-colour { 0%, 100% { color: #28ff09; } 50% { color: #a6ff94; } }
-@keyframes crit-attack-colour { 0%, 100% { color: #28ff09; } 50% { color: #a6ff94; } }
-@media (prefers-reduced-motion: reduce) { .md-typeset .crit-num { animation: none; color: #28ff09; } }
+@keyframes crit-pollen-colour { 0%, 100% { color: #fff36b; } 50% { color: #ff9d2e; } }
+@keyframes crit-attack-colour { 0%, 100% { color: #ff4b4b; } 50% { color: #ffffff; } }
+@media (prefers-reduced-motion: reduce) { .md-typeset .crit-num { animation: none; color: #fff36b; } .md-typeset .crit-attack { color: #ff4b4b; } }
 .md-typeset .crit-super { animation-name: crit-shake, crit-pop, crit-super-colour; animation-duration: .1s, 1.6s, .35s; font-size: 1.92rem; -webkit-text-stroke: 1.5px #964bff; text-shadow: 0 2px 0 #160a24; }
 @keyframes crit-super-colour { 0%, 100% { color: #b53dff; } 50% { color: #6a1fb8; } }
 @media (prefers-reduced-motion: reduce) { .md-typeset .crit-super { color: #b53dff; } }
