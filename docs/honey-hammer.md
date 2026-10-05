@@ -38,6 +38,20 @@ tags: ["Items", "Tools", "Melittology"]
 <td>Circle (radius 3)
 </td></tr>
 <tr>
+<td colspan="2">
+```tool-pattern
+...#...
+.#####.
+.#####.
+###@###
+.#####.
+.#####.
+...#...
+note: Collects the 26 flowers nearest you in this circle; every 6th scoop slams the same area 5 tiles ahead.
+```
+
+</td></tr>
+<tr>
 <td class="templateToolDefaultCell"><b>Collecting Time</b>
 </td>
 <td>1 second
