@@ -404,5 +404,5 @@ The sticker appears as a rainbow token on a random flower on the field you're in
 <tr>
 <th class="NavCategory">Gliding<br/>Tools
 </th>
-<td class="NavLinks NavLinksBasicOdd"><b><span typeof="mw:Error mw:File"></span> <a href="parachute.html">Parachute</a> • <span typeof="mw:Error mw:File"></span> <a href="glider.html">Glider</a></b>
+<td class="NavLinks NavLinksBasicOdd"><b><img alt="Parachute" height="35" src="img/Parachute.png" width="42"/> <a href="parachute.html">Parachute</a> • <img alt="Glider" height="35" src="img/Glider.png" width="44"/> <a href="glider.html">Glider</a></b>
 </td></tr></tbody></table>

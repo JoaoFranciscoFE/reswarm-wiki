@@ -39,7 +39,7 @@ Different eggs reward different types of stickers when used in the Sticker Print
 
 ### Basic Egg
 
-<figure class="thumb" style="width: 180px" typeof="mw:File/Thumb">  <figcaption class="thumbcaption"> </figcaption> </figure>
+<img alt="Basic Egg" src="img/Basic_Egg.png" width="180"/>
 
 * Yellow Coffee Mug, Simple Sun, Green Check Mark, Rubber Duck, Green Plus Sign (11.1486%, or about 1/9)
 * Yellow Hi, Red X, Baseball Bat (6.6892%, or about 1/15)
@@ -54,7 +54,7 @@ Different eggs reward different types of stickers when used in the Sticker Print
 
 ### Silver Egg
 
-<figure class="thumb" style="width: 180px" typeof="mw:File/Thumb">  <figcaption class="thumbcaption"> </figcaption> </figure>
+<img alt="Silver Egg" src="img/Silver_Egg.png" width="180"/>
 
 * Flying Rad Bee, Fork and Knife, Barcode, Bomber Bee Bear, Flying Brave Bee, Grey Diamond Logo (10.288%, or about 1/10)
 * Basic Blue Hive Skin, Basic Red Hive Skin, Pink Chair, Green Circle (5.144%, or about 1/19)
@@ -65,7 +65,7 @@ Different eggs reward different types of stickers when used in the Sticker Print
 
 ### Gold Egg
 
-<figure class="thumb" style="width: 180px" typeof="mw:File/Thumb">  <figcaption class="thumbcaption"> </figcaption> </figure>
+<img alt="Gold Egg" src="img/Gold_Egg.png" width="180"/>
 
 * Uplooking Bear, Simple Sun, Giraffe, Window, Pyramid, Sitting Green Shirt Bear, Small Blue Chick (7.5888%, or about 1/13)
 * Basic Blue Hive Skin, Basic Red Hive Skin (4.5457%, or about 1/22)
@@ -82,7 +82,7 @@ Different eggs reward different types of stickers when used in the Sticker Print
 
 ### Diamond Egg
 
-<figure class="thumb" style="width: 180px" typeof="mw:File/Thumb">  <figcaption class="thumbcaption"> </figcaption> </figure>
+<img alt="Diamond Egg" src="img/Diamond_Egg.png" width="180"/>
 
 * Flying Ninja Bee, Basic Red Hive, Diamond Cluster, Blue and Green Marble, Yellow Swirled Marble, Basic Blue Hive, Orange Swirled Marble (10%, or 1/10)
 * Basic Green Hive Skin, Basic Pink Hive Skin (6%, or about 1/17)
@@ -93,7 +93,7 @@ Different eggs reward different types of stickers when used in the Sticker Print
 
 ### Mythic Egg
 
-<figure class="thumb" style="width: 180px" typeof="mw:File/Thumb">  <figcaption class="thumbcaption"> </figcaption> </figure>
+<img alt="Mythic Egg" src="img/Mythic_Egg.png" width="180"/>
 
 * Precise Eye, Purple Fleuron, Purple 4-Point Flower (17.6991%, or about 1/6)
 * Basic Black Hive Skin (12.3893%, or about 1/8)
@@ -106,7 +106,7 @@ Different eggs reward different types of stickers when used in the Sticker Print
 
 ### Star Egg
 
-<figure class="thumb" style="width: 180px" typeof="mw:File/Thumb">  <figcaption class="thumbcaption"> </figcaption> </figure>
+<img alt="Star Egg" src="img/Star_Egg.png" width="180"/>
 
 * Cyan Star, Shining Star, Pearl Girl (16.0965%, or about 1/6)
 * Basic White Hive Skin (12.8772%, or about 1/8)
@@ -115,7 +115,7 @@ Different eggs reward different types of stickers when used in the Sticker Print
 
 ### Gifted Silver Egg
 
-<figure class="thumb" style="width: 180px" typeof="mw:File/Thumb">  <figcaption class="thumbcaption"> </figcaption> </figure>
+<img alt="Gifted Silver Egg" src="img/Gifted_Silver_Egg.png" width="180"/>
 
 * Moai, Cyan Decorative Border, Atom Symbol (11.1098%, or about 1/9)
 * Basic White Hive Skin (8.8879%, or about 1/11)
@@ -126,7 +126,7 @@ Different eggs reward different types of stickers when used in the Sticker Print
 
 ### Gifted Gold Egg
 
-<figure class="thumb" style="width: 180px" typeof="mw:File/Thumb">  <figcaption class="thumbcaption"> </figcaption> </figure>
+<img alt="Gifted Gold Egg" src="img/Gifted_Gold_Egg.png" width="180"/>
 
 * Prehistoric Hand, Basic Black Hive Skin, Red Palm Hand, Prehistoric Boar, Honey Bee Bear (13.8768%, or about 1/7)
 * Shining Star, Cyan Star (6.9384%, or about 1/14)
@@ -137,7 +137,7 @@ Different eggs reward different types of stickers when used in the Sticker Print
 
 ### Gifted Diamond Egg
 
-<figure class="thumb" style="width: 180px" typeof="mw:File/Thumb">  <figcaption class="thumbcaption"> </figcaption> </figure>
+<img alt="Gifted Diamond Egg" src="img/Gifted_Diamond_Egg.png" width="180"/>
 
 * Basic Pink Hive Skin, Cyan Star, Diamond Diamond Bee, Diamond Trim, Diamond Cluster, Shining Star, Cyan Decorative Border, Basic White Hive Skin (10.2564%, or about 1/10)
 * Wavy Cyan Hive Skin (3.0769%, or about 1/32)
@@ -147,7 +147,7 @@ Different eggs reward different types of stickers when used in the Sticker Print
 
 ### Gifted Mythic Egg
 
-<figure class="thumb" style="width: 180px" typeof="mw:File/Thumb">  <figcaption class="thumbcaption"> </figcaption> </figure>
+<img alt="Gifted Mythic Egg" src="img/Gifted_Mythic_Egg.png" width="180"/>
 
 * Basic Black Hive Skin (25.8064%, or about 1/4)
 * Royal Symbol (12.9032%, or about 1/8)
@@ -203,5 +203,5 @@ Different eggs reward different types of stickers when used in the Sticker Print
 <tr>
 <th class="NavCategory">Event<br/>Locations
 </th>
-<td class="NavLinks NavLinksBasicEven"><b><a href="beesmas-tree.html">Beesmas Tree</a> • <span class="new" data-uncrawlable-url="L3dpa2kvQ29tcHV0ZXI/YWN0aW9uPWVkaXQmcmVkbGluaz0x" title="Computer (page does not exist)">Computer</span> • <a href="gift-boxes.html">Gift Boxes</a> • <a href="honey-wreath.html">Honey Wreath</a> • <a href="stockings.html">Stockings</a> • <a href="gingerbread-house.html">Gingerbread House</a> • <a href="snowbear-summoner.html">Snowbear Summoner</a> • <a href="beesmas-lights.html">Beesmas Lights</a> • <a href="samovar.html">Samovar</a> • <a href="beesmas-feast.html">Beesmas Feast</a> • <a href="onett-s-lid-art.html">Onett's Lid Art</a> • <a href="wind-shrine.html#Galentine_Shrine">Galentine Shrine</a> • <a href="memory-match.html#Winter_Memory_Match">Winter Memory Match</a> • <a href="snow-machine.html">Snow Machine</a> • <a href="honeyday-candles.html">Honeyday Candles</a> • <a href="robo-party-cake.html">Robo Party Cake</a> • <a href="gummy-beacon.html">Gummy Beacon</a> • <a href="naughty-list.html">Naughty List</a></b>
+<td class="NavLinks NavLinksBasicEven"><b><a href="beesmas-tree.html">Beesmas Tree</a> • <a href="gift-boxes.html">Gift Boxes</a> • <a href="honey-wreath.html">Honey Wreath</a> • <a href="stockings.html">Stockings</a> • <a href="gingerbread-house.html">Gingerbread House</a> • <a href="snowbear-summoner.html">Snowbear Summoner</a> • <a href="beesmas-lights.html">Beesmas Lights</a> • <a href="samovar.html">Samovar</a> • <a href="beesmas-feast.html">Beesmas Feast</a> • <a href="onett-s-lid-art.html">Onett's Lid Art</a> • <a href="wind-shrine.html#Galentine_Shrine">Galentine Shrine</a> • <a href="memory-match.html#Winter_Memory_Match">Winter Memory Match</a> • <a href="snow-machine.html">Snow Machine</a> • <a href="honeyday-candles.html">Honeyday Candles</a> • <a href="robo-party-cake.html">Robo Party Cake</a> • <a href="gummy-beacon.html">Gummy Beacon</a> • <a href="naughty-list.html">Naughty List</a></b>
 </td></tr></tbody></table>

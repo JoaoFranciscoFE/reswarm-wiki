@@ -54,7 +54,7 @@ The following audio plays when a frog is active, making frog ribbit sounds:
 
 ## References
 
-Template:Reflist
+1. ↑ [[1]](https://discord.com/channels/427553293862961153/427573109600550919/793608414894227496) Discord message from Onett. Note that this message is old, but the fact is still true in-game.
 
 <table class="mw-collapsible NavTable">
 <tbody><tr>
@@ -113,4 +113,3 @@ Template:Reflist
 <td class="NavLinks NavLinksBasicOdd" colspan="2"><b><a href="chicks.html#Chick">Chick</a> • <a href="chicks.html#Hostage_Chick">Hostage Chick</a> • <a href="chicks.html#Spotted_Chick">Spotted Chick</a></b>
 </td></tr></tbody></table>
 
-1. ↑ [[1]](https://discord.com/channels/427553293862961153/427573109600550919/793608414894227496) Discord message from Onett. Note that this message is old, but the fact is still true in-game.

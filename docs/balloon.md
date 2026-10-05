@@ -39,13 +39,13 @@ Gold balloons are able to buff [bubbles](passive-abilities.md#Gathering_Bubbles)
 <tbody><tr>
 <th>
 </th>
-<th style="text-align:center"><div id="Pink_Balloon"><a href="pink-balloon.html">Pink Balloon</a><br/><figure class="thumb mw-halign-center" style="width: 40px" typeof="mw:File/Thumb">  <figcaption class="thumbcaption"> </figcaption> </figure></div>
+<th style="text-align:center"><div id="Pink_Balloon"><a href="pink-balloon.html">Pink Balloon</a><br/><img alt="Pink Balloon" src="img/Pink_Balloon.png" width="40"/></div>
 </th>
-<th style="text-align:center"><div id="Red_Balloon"><a href="red-balloon.html">Red Balloon</a><br/><figure class="thumb mw-halign-center" style="width: 40px" typeof="mw:File/Thumb">  <figcaption class="thumbcaption"> </figcaption> </figure></div>
+<th style="text-align:center"><div id="Red_Balloon"><a href="red-balloon.html">Red Balloon</a><br/><img alt="Red Balloon" src="img/Red_Balloon.png" width="40"/></div>
 </th>
-<th style="text-align:center"><div id="White_Balloon"><a href="white-balloon.html">White Balloon</a><br/><figure class="thumb mw-halign-center" style="width: 40px" typeof="mw:File/Thumb">  <figcaption class="thumbcaption"> </figcaption> </figure></div>
+<th style="text-align:center"><div id="White_Balloon"><a href="white-balloon.html">White Balloon</a><br/><img alt="White Balloon" src="img/White_Balloon.png" width="40"/></div>
 </th>
-<th style="text-align:center"><div id="Black_Balloon"><a href="black-balloon.html">Black Balloon</a><br/><figure class="thumb mw-halign-center" style="width: 40px" typeof="mw:File/Thumb">  <figcaption class="thumbcaption"> </figcaption> </figure></div>
+<th style="text-align:center"><div id="Black_Balloon"><a href="black-balloon.html">Black Balloon</a><br/><img alt="Black Balloon" src="img/Black_Balloon.png" width="40"/></div>
 </th>
 <th style="text-align:center"><div id="Blue_Balloon">Blue Balloon</div>
 </th>

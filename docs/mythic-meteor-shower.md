@@ -52,18 +52,18 @@ When a player stands on the drop zone of a meteor (which is indicated by a purpl
 * [Squashed Head Bear Sticker](sticker.md#Sticker_Index) (Extremely Rare).
 * [Royal Symbol Sticker](sticker.md#Sticker_Index) (Unbelievably Rare)
 * Star Sign Stickers (Depends on the date, Unbelievably Rare)
-  * **Lua error in Module:Item\_image at line 88: Template error! There's no such file named File:Hivesticker capricorn star sign.png for Template:I.**Capricorn: December 22 to January 19
-  * **Lua error in Module:Item\_image at line 88: Template error! There's no such file named File:Hivesticker aquarius star sign.png for Template:I.**Aquarius: January 20 to February 18
-  * **Lua error in Module:Item\_image at line 88: Template error! There's no such file named File:Hivesticker pisces star sign.png for Template:I.**Pisces: February 19 to March 20
-  * **Lua error in Module:Item\_image at line 88: Template error! There's no such file named File:Hivesticker aries star sign.png for Template:I.**Aries: March 21 to April 19
-  * **Lua error in Module:Item\_image at line 88: Template error! There's no such file named File:Hivesticker taurus star sign.png for Template:I.**Taurus: April 20 to May 20
-  * **Lua error in Module:Item\_image at line 88: Template error! There's no such file named File:Hivesticker gemini star sign.png for Template:I.**Gemini: May 21 to June 20
-  * **Lua error in Module:Item\_image at line 88: Template error! There's no such file named File:Hivesticker cancer star sign.png for Template:I.**Cancer: June 21 to July 22
-  * **Lua error in Module:Item\_image at line 88: Template error! There's no such file named File:Hivesticker leo star sign.png for Template:I.**Leo: July 23 to August 22
-  * **Lua error in Module:Item\_image at line 88: Template error! There's no such file named File:Hivesticker virgo star sign.png for Template:I.**Virgo: August 23 to September 22
-  * **Lua error in Module:Item\_image at line 88: Template error! There's no such file named File:Hivesticker libra star sign.png for Template:I.**Libra: September 23 to October 22
-  * **Lua error in Module:Item\_image at line 88: Template error! There's no such file named File:Hivesticker scorpio star sign.png for Template:I.**Scorpio: October 23 to November 21
-  * **Lua error in Module:Item\_image at line 88: Template error! There's no such file named File:Hivesticker sagittarius star sign.png for Template:I.**Sagittarius: November 22 to December 21
+  * <img alt="Capricorn Star Sign" height="25" src="img/Capricorn_Star_Sign.png" width="25"/> Capricorn: December 22 to January 19
+  * <img alt="Aquarius Star Sign" height="25" src="img/Aquarius_Star_Sign.png" width="25"/> Aquarius: January 20 to February 18
+  * <img alt="Pisces Star Sign" height="25" src="img/Pisces_Star_Sign.png" width="25"/> Pisces: February 19 to March 20
+  * <img alt="Aries Star Sign" height="25" src="img/Aries_Star_Sign.png" width="25"/> Aries: March 21 to April 19
+  * <img alt="Taurus Star Sign" height="25" src="img/Taurus_Star_Sign.png" width="25"/> Taurus: April 20 to May 20
+  * <img alt="Gemini Star Sign" height="25" src="img/Gemini_Star_Sign.png" width="25"/> Gemini: May 21 to June 20
+  * <img alt="Cancer Star Sign" height="25" src="img/Cancer_Star_Sign.png" width="25"/> Cancer: June 21 to July 22
+  * <img alt="Leo Star Sign" height="25" src="img/Leo_Star_Sign.png" width="25"/> Leo: July 23 to August 22
+  * <img alt="Virgo Star Sign" height="25" src="img/Virgo_Star_Sign.png" width="25"/> Virgo: August 23 to September 22
+  * <img alt="Libra Star Sign" height="25" src="img/Libra_Star_Sign.png" width="25"/> Libra: September 23 to October 22
+  * <img alt="Scorpio Star Sign" height="25" src="img/Scorpio_Star_Sign.png" width="25"/> Scorpio: October 23 to November 21
+  * <img alt="Sagittarius Star Sign" height="25" src="img/Sagittarius_Star_Sign.png" width="25"/> Sagittarius: November 22 to December 21
 
 ## Sound Effects
 
@@ -127,5 +127,5 @@ Onett is able to manipulate the function of the Mythic Meteor Shower event to ac
 <tr>
 <th class="NavCategory">Event<br/>Locations
 </th>
-<td class="NavLinks NavLinksBasicEven"><b><a href="beesmas-tree.html">Beesmas Tree</a> • <span class="new" data-uncrawlable-url="L3dpa2kvQ29tcHV0ZXI/YWN0aW9uPWVkaXQmcmVkbGluaz0x" title="Computer (page does not exist)">Computer</span> • <a href="gift-boxes.html">Gift Boxes</a> • <a href="honey-wreath.html">Honey Wreath</a> • <a href="stockings.html">Stockings</a> • <a href="gingerbread-house.html">Gingerbread House</a> • <a href="snowbear-summoner.html">Snowbear Summoner</a> • <a href="beesmas-lights.html">Beesmas Lights</a> • <a href="samovar.html">Samovar</a> • <a href="beesmas-feast.html">Beesmas Feast</a> • <a href="onett-s-lid-art.html">Onett's Lid Art</a> • <a href="wind-shrine.html#Galentine_Shrine">Galentine Shrine</a> • <a href="memory-match.html#Winter_Memory_Match">Winter Memory Match</a> • <a href="snow-machine.html">Snow Machine</a> • <a href="honeyday-candles.html">Honeyday Candles</a> • <a href="robo-party-cake.html">Robo Party Cake</a> • <a href="gummy-beacon.html">Gummy Beacon</a> • <a href="naughty-list.html">Naughty List</a></b>
+<td class="NavLinks NavLinksBasicEven"><b><a href="beesmas-tree.html">Beesmas Tree</a> • <a href="gift-boxes.html">Gift Boxes</a> • <a href="honey-wreath.html">Honey Wreath</a> • <a href="stockings.html">Stockings</a> • <a href="gingerbread-house.html">Gingerbread House</a> • <a href="snowbear-summoner.html">Snowbear Summoner</a> • <a href="beesmas-lights.html">Beesmas Lights</a> • <a href="samovar.html">Samovar</a> • <a href="beesmas-feast.html">Beesmas Feast</a> • <a href="onett-s-lid-art.html">Onett's Lid Art</a> • <a href="wind-shrine.html#Galentine_Shrine">Galentine Shrine</a> • <a href="memory-match.html#Winter_Memory_Match">Winter Memory Match</a> • <a href="snow-machine.html">Snow Machine</a> • <a href="honeyday-candles.html">Honeyday Candles</a> • <a href="robo-party-cake.html">Robo Party Cake</a> • <a href="gummy-beacon.html">Gummy Beacon</a> • <a href="naughty-list.html">Naughty List</a></b>
 </td></tr></tbody></table>

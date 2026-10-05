@@ -30,7 +30,7 @@ Walking near a firefly will make it fly into the air and leave a 1x1 patch of [s
 * [Star Treat](star-treat.md) (Exceptionally rare).
 * [Waxing Crescent Moon Sticker](sticker.md#Sticker_Index) (Rare)
 * [Glowing Smile Sticker](sticker.md#Sticker_Index) (Extremely Rare)
-* **Lua error in Module:Item\_image at line 88: Template error! There's no such file named File:hivesticker aries star sign.png for Template:I.**[Star Signs](sticker.md#Sticker_Index) (Extremely Rare)
+* <img alt="Aries Star Sign" height="25" src="img/Aries_Star_Sign.png" width="25"/> [Star Signs](sticker.md#Sticker_Index) (Extremely Rare)
 * [Cyan Star Sticker](sticker.md#Sticker_Index) (Exceptionally Rare)
 * [Shining Star Sticker](sticker.md#Sticker_Index) (Exceptionally Rare)
 

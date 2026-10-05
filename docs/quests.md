@@ -53,7 +53,7 @@ Quest Bears are quest givers that have an appearance of a bear. They are the mos
 
 ### Black Bear
 
-<figure class="thumb mw-halign-right" style="width: 180px" typeof="mw:File/Thumb">  <figcaption class="thumbcaption"> </figcaption> </figure>
+<img alt="Black Bear" src="img/Black_Bear.png" width="180"/>
 
 [Black Bear](black-bear.md) is likely the first quest-giver the player will encounter when they start the game. His quests completely consist of collecting pollen. He is located to the right of the hives and in front of the [Red Cannon](red-cannon.md).
 
@@ -1511,7 +1511,7 @@ After completing his 20 star jelly quests, Black Bear would randomly assign ques
 
 ### Mother Bear
 
-<figure class="thumb mw-halign-right" style="width: 180px" typeof="mw:File/Thumb">  <figcaption class="thumbcaption"> </figcaption> </figure>
+<img alt="Mother Bear" src="img/bears/Mother_Bear.png" width="180"/>
 
 [Mother Bear](mother-bear.md) is the second quest-giver available in the game. Her quests consist of raising bees to levels and feeding [treats](treats.md) to bees. She is located to the right of the [Treat Shop](treat-shop.md).
 
@@ -1736,7 +1736,7 @@ After completing his 20 star jelly quests, Black Bear would randomly assign ques
 
 ### Brown Bear
 
-<figure class="thumb mw-halign-right" style="width: 180px" typeof="mw:File/Thumb">  <figcaption class="thumbcaption"> </figcaption> </figure>
+<img alt="Brown Bear" src="img/bears/Brown_Bear.png" width="180"/>
 
 ## Quests
 
@@ -2059,7 +2059,7 @@ Amount of pollen required for a quest = \(x+(y-x)\times \left(\frac{numberofques
 
 ### Panda Bear
 
-<figure class="thumb mw-halign-right" style="width: 180px" typeof="mw:File/Thumb">  <figcaption class="thumbcaption"> </figcaption> </figure>
+<img alt="Panda Bear" src="img/Panda_Bear.png" width="180"/>
 
 [Panda Bear](panda-bear.md) is the third quest-giver available in the game. His quests consist largely of defeating mobs and obtaining scores in the Ant Challenge. He is located behind the [Bamboo Field](bamboo-field.md) and to the left of the Global Top Battlers Leaderboard.
 
@@ -2427,7 +2427,7 @@ Amount of pollen required for a quest = \(x+(y-x)\times \left(\frac{numberofques
 
 ### Science Bear
 
-<figure class="thumb mw-halign-right" style="width: 180px" typeof="mw:File/Thumb">  <figcaption class="thumbcaption"> </figcaption> </figure>
+<img alt="Science Bear" src="img/bears/Science_Bear.png" width="180"/>
 
 [Science Bear](science-bear.md) is the fourth quest-giver in the game. His quests largely consist of pollen collection, defeating mobs, crafting materials, and collecting ability tokens. He is located behind the [Yellow Cannon](yellow-cannon.md).
 
@@ -3039,7 +3039,7 @@ x5 Glue
 
 ### Polar Bear
 
-<figure class="thumb mw-halign-right" style="width: 180px" typeof="mw:File/Thumb">  <figcaption class="thumbcaption"> </figcaption> </figure>
+<img alt="Polar Bear" src="img/bears/Polar_Bear.png" width="180"/>
 
 Polar Bear is the sixth quest-giver in the game. His quests consist of pollen collection and defeating mobs and are randomly assigned. He is located on the path to the [Mountain Top Field](mountain-top-field.md).
 
@@ -3295,7 +3295,7 @@ Polar Bear is the sixth quest-giver in the game. His quests consist of pollen co
 
 ### Spirit Bear
 
-<figure class="thumb mw-halign-right" style="width: 180px" typeof="mw:File/Thumb">  <figcaption class="thumbcaption"> </figcaption> </figure>
+<img alt="Spirit Bear" src="img/bears/Spirit_Bear.png" width="180"/>
 
 Spirit Bear is the seventh quest bear in the game. Her quests consist of pollen collection, tokens from leaves collection, donating various items to the [Wind Shrine](wind-shrine.md), and goo collection. She is located to the right of the [Coconut Field](coconut-field.md).
 
@@ -4105,7 +4105,7 @@ Play Memory Match (Upon receiving quest)
 
 ### Dapper Bear
 
-<figure class="thumb mw-halign-right" style="width: 180px" typeof="mw:File/Thumb">  <figcaption class="thumbcaption"> </figcaption> </figure>
+<img alt="Dapper Bear" src="img/Dapper_Bear.png" width="180"/>
 
 [Dapper Bear](dapper-bear.md) is the eighth quest-giver available in the game. His quests mainly focus on collecting nectar, collecting tokens from planters, and popping Puffshrooms.
 
@@ -4429,7 +4429,7 @@ Below is a list of all possible requirements:
 
 ### Gifted Bucko Bee
 
-<figure class="thumb mw-halign-right" style="width: 180px" typeof="mw:File/Thumb">  <figcaption class="thumbcaption"> </figcaption> </figure>
+<img alt="Gifted Bucko Bee" src="img/Gifted_Bucko_Bee.png" width="180"/>
 
 [Gifted Bucko Bee](gifted-bucko-bee.md) is one of the three permanent quest bees. Its quests consist largely of pollen collection from blue fields, defeating blue themed mobs, and collecting/feeding blueberries. Like the other quest bees, it only gives repeatable quests that scale in difficulty. It is located in the [Blue HQ](blue-hq.md).
 
@@ -4563,7 +4563,7 @@ Below is a list of all possible requirements:
 
 ### Gifted Riley Bee
 
-<figure class="thumb mw-halign-right" style="width: 180px" typeof="mw:File/Thumb">  <figcaption class="thumbcaption"> </figcaption> </figure>
+<img alt="Gifted Riley Bee" src="img/Gifted_Riley_Bee.png" width="180"/>
 
 [Gifted Riley Bee](gifted-riley-bee.md) is one of the three permanent quest bees. Its quests consist largely of pollen collection from red fields, defeating red themed mobs, and collecting/feeding strawberries. Like the other quest bees, it only gives repeatable quests that scale in difficulty. It is located in the [Red HQ](red-hq.md).
 
@@ -4695,7 +4695,7 @@ Below is a list of all possible requirements:
 
 ### Honey Bee
 
-<figure class="thumb mw-halign-right" style="width: 180px" typeof="mw:File/Thumb">  <figcaption class="thumbcaption"> </figcaption> </figure>
+<img alt="Honey Bee" src="img/Honey_Bee.png" width="180"/>
 
 [Honey Bee](honey-bee-npc.md) is one of the three permanent quest bees. It has repeatable quests which consist of collecting honey tokens, with the difficulty increasing by 500 tokens every quest. It is located on the rock near the [Pine Tree Forest](pine-tree-forest.md).
 
@@ -4859,7 +4859,7 @@ Temporary Quest Givers are quest givers that appear exclusively during an event.
 
 ### Sun Bear
 
-<figure class="thumb mw-halign-right" style="width: 180px" typeof="mw:File/Thumb">  <figcaption class="thumbcaption"> </figcaption> </figure>
+<img alt="Sun Bear" src="img/bears/Sun_Bear.png" width="180"/>
 
 [Sun Bear](sun-bear.md) is one of the three traveling bears to appear in the game. He has appeared four times, with his first visit starting on April 27, 2018, to May 13, 2018, where he gave 12 quests and 2 belt bags. His second visit started on September 10, 2018, to October 8, 2018, where he gave 14 quests and 3 boots. His third visit was from September 28, 2019, to October 28, 2019. During that period, he handed out quests that were mainly themed around [bean bugs](bean-bug.md) with a final reward of 250 tickets. His fourth and last visit started on April 6, 2020, where he participated in the Egg Hunt 2020 event and required the player to help three bears with their Egg Hunt quests. Once finished, he would hand out a small variety of rewards and the Swarming Egg of the Hive.
 
