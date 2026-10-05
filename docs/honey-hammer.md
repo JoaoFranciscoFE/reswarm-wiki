@@ -1,234 +1,160 @@
 ---
-title: "Red Extract"
-tags: ["Items", "Inventory", "Crafted", "Consumables", "Red"]
+title: "Honey Hammer"
+tags: ["Items", "Tools", "Melittology"]
 ---
 
-# Red Extract
+# Honey Hammer
 
-![Red Extract](img/Red_Extract.png){ align=right width=150 }
+![Honey Hammer](img/Honey_Hammer.png){ align=right width=150 }
 
-Red Extract
-
-*"Grants x1.25 Red Pollen for 10 minutes."*
-
-COOLDOWN
-
-10 minutes
-
-A **Red Extract** is an inventory item that was added in the 2018-11-25 update. The purpose of it is to use it as a material to craft accessories, or for a 10-minute boost that grants x1.25 [Red Pollen](system-page.md#Red_Pollen). The [buff](buffs-debuffs.md#From_Items) cannot stack and will only reset its timer if you used a **Red Extract** when there is another one active. Using a [Purple Potion](purple-potion.md) or [Super Smoothie](super-smoothie.md) will override the buff.
-
-<figure class="mw-halign-center" style="text-align:center"><img alt="red extract" src="img/Red_Extract.png" width="60"/><figcaption><p class="caption">A red extract token.</p></figcaption></figure>
-
-## Ways to Obtain
-
-* Crafting it via [Blender](blender.md) for:
-  * 50 [Strawberries](strawberry.md)
-  * 10 [Royal Jellies](royal-jelly.md)
-* Matching a pair of red extracts in [Mega Memory Match](memory-match.md#Mega_Memory_Match) (worth 1 red extract) or [Extreme Memory Match](memory-match.md#Extreme_Memory_Match) (worth 3 red extracts).
-* As a reward from the [Wind Shrine](wind-shrine.md).
-* As a Stack Reward for adding certain [Stickers](sticker.md) to the [Sticker Stack](sticker-stack.md):
-  * [Flying Rad Bee Sticker](sticker.md#Sticker_Index) rewards 1 red extract.
-  * [Round Rascal Bee Sticker](sticker.md#Sticker_Index) rewards 1 red extract.
-  * [Flying Festive Bee Sticker](sticker.md#Sticker_Index) rewards 1 red extract.
-  * [Little Scorpion Sticker](sticker.md#Sticker_Index) rewards 1 red extract.
-  * [Red X Sticker](sticker.md#Sticker_Index) rewards 1 red extract.
-  * [AFK Sticker](sticker.md#Sticker_Index) rewards 1 red extract.
-  * [Small Flame Sticker](sticker.md#Sticker_Index) rewards 1 red extract.
-  * [Shrugging Heart Sticker](sticker.md#Sticker_Index) rewards 1 red extract.
-  * [Red Doodle Person Sticker](sticker.md#Sticker_Index) rewards 1 red extract.
-  * [Scythe Sticker](sticker.md#Sticker_Index) rewards 1 red extract.
-  * [Dark Scythe Sticker](sticker.md#Sticker_Index) rewards 1 red extract.
-
-
-### Drops
-
-* As a drop from certain [mobs](mobs.md)
-  * [Ladybug](ladybug.md) (Rare)
-  * [Scorpion](scorpion.md) (Rare)
-  * [King Beetle](king-beetle.md)
-  * [Rage Aphid](aphid.md#Rage_Aphid)
-* Farming in the [Mushroom Field](mushroom-field.md), [Strawberry Field](strawberry-field.md), [Rose Field](rose-field.md), or the [Pepper Patch](pepper-patch.md) can rarely drop red extracts.
-  * A rare drop from [leaves](leaves.md) in the Mushroom Field, Strawberry Field, or the Rose Field.
-* As a rare drop from [sprouts](sprout.md) (the odds increase depending on the rarity of the sprout and if the sprout is located in red fields).
-* As a drop from a [Festive Gift](ability-tokens.md#Festive_Gift) (if [Festive Bee](festive-bee.md) is [gifted](gifted-bee.md)) or [Festive Mark](ability-tokens.md#Festive_Mark).
-* As a rare gift from a [cub buddy](cub-buddy.md).
-* As a guaranteed drop from the certain [planters](planter.md):
-  * [Red Clay Planter](red-clay-planter.md)
-  * [Heat-Treated Planter](heat-treated-planter.md) (Drops extra red extracts in red fields.)
-    * Planting the [Heat-Treated Planter](heat-treated-planter.md) in the Mushroom Field, then the Strawberry Field, then the Rose Field, then the Pepper Patch results in an additional 100 **Red Extracts** (unknown cooldown).
-    * Additionally, it has a small chance to drop 100 **Red Extracts** upon harvesting in any field.
-  * Planters harvested in red fields have a chance to drop red extracts.
-
-### Quests
-
-* Completing any of [Gifted Riley Bee's quests](gifted-riley-bee.md#Quests) will always reward one Red Extract.
-* [Black Bear](black-bear.md) gives Red Extracts on the following quests:
-  * Get Red-y gives 1 **Red Extract** and other items.
-  * Rocky Red Mountain gives 1 **Red Extract** and other items.
-  * Capsaicin Collector gives 1 **Red Extract** and other items.
-  * Black Bear's repeatable quests occasionally give Red Extracts.
-* [Science Bear](science-bear.md) gives red extracts on the following quests:
-  * Meticulously Crafted gives 1 **Red Extract** and other items.
-  * Mushroom Measurement Monotony gives 3 **Red Extracts** and other items.
-
-## Crafting Uses
-
-Total required for all single-purchase items: 3,083 **Red Extracts**
-
-<table class="article-table mw-collapsible mw-collapsed">
+<table class="infobox templateToolDefault">
 <tbody><tr>
-<th><img alt="Red Extract" height="35" src="img/Red_Extract.png" width="35"/><strong class="mw-selflink selflink"><span class="color-template color-template-red-extract color-template-background-clip">Red Extracts</span></strong>
-</th>
-<th>Other items required
-</th>
-<th>Crafted item
-</th></tr>
-<tr>
-<td><div style="text-align: center;">2
-</div></td>
-<td><img alt="Honey" height="25" src="img/Honey.png" width="25"/>12,500,000 <a href="honey.html"><span class="color-template color-template-honey">Honey</span></a><br/>
-<p><img alt="Soft Wax" height="25" src="img/Soft_Wax.png" width="25"/>2 <a href="soft-wax.html"><span class="color-template color-template-soft-wax">Soft Waxes</span></a>
-</p>
-</td>
-<td><figure class="mw-halign-center" typeof="mw:File"><img alt="Red Port-O-Hive" data-image-key="Red_Port-O-Hive.png" data-image-name="Red Port-O-Hive.png" data-relevant="1" height="80" src="img/Red_Port-O-Hive.png" width="80"/><figcaption></figcaption></figure><div style="text-align: center;"><a href="red-port-o-hive.html">Red Port-O-Hive</a>
-</div></td></tr>
-<tr>
-<td><div style="text-align: center;">3
-</div></td>
-<td><img alt="Blue Extract" height="25" src="img/Blue_Extract.png" width="25"/>3 <a href="blue-extract.html"><span class="color-template color-template-blue-extract color-template-background-clip">Blue Extracts</span></a><br/>
-<p><img alt="Glue" height="25" src="img/Glue.png" width="25"/>3 <a href="glue.html"><span class="color-template color-template-glue color-template-background-clip">Glues</span></a><br/>
-<img alt="Neonberry" height="25" src="img/Neonberry.png" width="25"/>3 <a href="neonberry.html"><span class="color-template color-template-neonberry color-template-background-clip">Neonberries</span></a>
-</p>
-</td>
-<td><figure class="mw-halign-center" typeof="mw:Error mw:File"><figcaption></figcaption></figure><div style="text-align: center;"><a href="purple-potion.html"><span class="color-template color-template-purple-potion color-template-background-clip">Purple Potion</span></a></div>
+<td class="templateToolTitle" colspan="2"><b>Honey Hammer</b>
 </td></tr>
 <tr>
-<td><div style="text-align: center;">3
-</div></td>
-<td><img alt="Honey" height="25" src="img/Honey.png" width="25"/>15,000,000 <a href="honey.html"><span class="color-template color-template-honey">Honey</span></a><br/>
-<p><img alt="Oil" height="25" src="img/Oil.png" width="25"/>5 <a href="oil.html"><span class="color-template color-template-oil color-template-background-clip">Oils</span></a><br/>
-<img alt="Blue Extract" height="25" src="img/Blue_Extract.png" width="25"/>3 <a href="blue-extract.html"><span class="color-template color-template-blue-extract color-template-background-clip">Blue Extracts</span></a>
-</p>
-</td>
-<td><figure class="mw-halign-center" typeof="mw:File"><a href="beekeeper-s-boots.html"><img alt="Beekeeper's Boots" data-image-key="Beekeeper%27s_Boots.png" data-image-name="Beekeeper's Boots.png" data-relevant="1" height="80" src="img/Beekeeper's_Boots.png" width="80"/></a><figcaption></figcaption></figure><div style="text-align: center;"><a href="beekeeper-s-boots.html">Beekeeper's Boots</a></div>
+<td class="templateToolHeader" colspan="2">Overview
 </td></tr>
 <tr>
-<td><div style="text-align: center;">3</div>
+<td class="templateToolDefaultCell"><b>Price</b>
 </td>
-<td><img alt="Honey" height="25" src="img/Honey.png" width="25"/>5,000,000 <a href="honey.html"><span class="color-template color-template-honey">Honey</span></a><br/>
-<p><img alt="Strawberry" height="25" src="img/Strawberry.png" width="25"/>50 <a href="strawberry.html"><span class="color-template color-template-strawberry color-template-background-clip">Strawberries</span></a><br/>
-<img alt="Royal Jelly" height="25" src="img/Royal_Jelly.png" width="25"/>5 <a href="royal-jelly.html"><span class="color-template color-template-royal-jelly color-template-background-clip">Royal Jellies</span></a><br/>
-<img alt="Stinger" height="25" src="img/Stinger.png" width="25"/>5 <a href="stinger.html"><span class="color-template color-template-stinger color-template-background-clip">Stingers</span></a>
-</p>
-</td>
-<td><figure class="mw-halign-center" typeof="mw:File"><a href="elite-red-guard.html"><img alt="Elite Red Guard" data-image-key="Elite_Red_Guard.png" data-image-name="Elite Red Guard.png" data-relevant="1" height="80" src="img/Elite_Red_Guard.png" width="80"/></a><figcaption></figcaption></figure><div style="text-align: center;"><a href="elite-red-guard.html">Elite Red Guard</a></div>
+<td>Can't be bought
 </td></tr>
 <tr>
-<td><div style="text-align: center;">10</div>
+<td class="templateToolDefaultCell"><b><span style="border-bottom:1px dotted gray;cursor:help;" title="How the tool is unlocked.">Obtained</span></b>
 </td>
-<td><img alt="Honey" height="25" src="img/Honey.png" width="25"/>30,000,000 <a href="honey.html"><span class="color-template color-template-honey">Honey</span></a><br/>
-<p><img alt="Strawberry" height="25" src="img/Strawberry.png" width="25"/>100 <a href="strawberry.html"><span class="color-template color-template-strawberry color-template-background-clip">Strawberries</span></a><br/>
-<img alt="Glue" height="25" src="img/Glue.png" width="25"/>5 <a href="glue.html"><span class="color-template color-template-glue color-template-background-clip">Glues</span></a><br/>
-<img alt="Stinger" height="25" src="img/Stinger.png" width="25"/>25 <a href="stinger.html"><span class="color-template color-template-stinger color-template-background-clip">Stingers</span></a>
-</p>
-</td>
-<td><figure class="mw-halign-center" typeof="mw:File"><a href="riley-guard.html"><img alt="Riley Guard" data-image-key="Riley_Guard.png" data-image-name="Riley Guard.png" data-relevant="1" height="80" src="img/Riley_Guard.png" width="80"/></a><figcaption></figcaption></figure><div style="text-align: center;"><a href="riley-guard.html">Riley Guard</a></div>
+<td>Melittology capstone, "A Beginning to a end." (10 Research Points)
 </td></tr>
 <tr>
-<td><div style="text-align: center;">15
-</div></td>
-<td><img alt="Honey" height="25" src="img/Honey.png" width="25"/>10,000,000 <a href="honey.html"><span class="color-template color-template-honey">Honey</span></a><br/>
-<p><img alt="Magic Bean" height="25" src="img/Magic_Bean.png" width="25"/>5 <a href="magic-bean.html"><span class="color-template color-template-magic-bean color-template-background-clip">Magic Beans</span></a><br/>
-<img alt="Soft Wax" height="25" src="img/Soft_Wax.png" width="25"/>20 <a href="soft-wax.html"><span class="color-template color-template-soft-wax">Soft Waxes</span></a>
-</p>
-</td>
-<td><figure class="mw-halign-center" typeof="mw:Error mw:File"><figcaption></figcaption></figure><div style="text-align: center;"><a href="red-clay-planter.html"><span class="color-template color-template-red-clay-planter color-template-background-clip">Red Clay Planter</span></a></div>
+<td class="templateToolHeader" colspan="2">Pollen Collection
 </td></tr>
 <tr>
-<td><div style="text-align: center;">50</div>
+<td class="templateToolDefaultCell"><b><span style="border-bottom:1px dotted gray;cursor:help;" title="Number of flowers covered">Range</span></b>
 </td>
-<td><img alt="Honey" height="25" src="img/Honey.png" width="25"/>100,000,000 <a href="honey.html"><span class="color-template color-template-honey">Honey</span></a><br/>
-<p><img alt="Strawberry" height="25" src="img/Strawberry.png" width="25"/>500 <a href="strawberry.html"><span class="color-template color-template-strawberry color-template-background-clip">Strawberries</span></a><br/>
-<img alt="Enzymes" height="25" src="img/Enzymes.png" width="25"/>25 <a href="enzymes.html"><span class="color-template color-template-enzymes color-template-background-clip">Enzymes</span></a><br/>
-<img alt="Glue" height="25" src="img/Glue.png" width="25"/>15 <a href="glue.html"><span class="color-template color-template-glue color-template-background-clip">Glues</span></a>
-</p>
-</td>
-<td><figure class="mw-halign-center" typeof="mw:File"><a href="fire-mask.html"><img alt="Fire Mask" data-image-key="Fire_Mask.png" data-image-name="Fire Mask.png" data-relevant="1" height="80" src="img/Fire_Mask.png" width="80"/></a><figcaption></figcaption></figure><div style="text-align: center;"><a href="fire-mask.html">Fire Mask</a></div>
+<td>26 Flowers
 </td></tr>
 <tr>
-<td><div style="text-align: center;">100
-</div></td>
-<td><img alt="Honey" height="25" src="img/Honey.png" width="25"/>200,000,000 <a href="honey.html"><span class="color-template color-template-honey">Honey</span></a><br/>
-<p><img alt="Stinger" height="25" src="img/Stinger.png" width="25"/>100 <a href="stinger.html"><span class="color-template color-template-stinger color-template-background-clip">Stingers</span></a><br/>
-<img alt="Oil" height="25" src="img/Oil.png" width="25"/>50 <a href="oil.html"><span class="color-template color-template-oil color-template-background-clip">Oils</span></a><br/>
-<img alt="Glitter" height="25" src="img/Glitter.png" width="25"/>25 <a href="glitter.html"><span class="color-template color-template-glitter color-template-background-clip">Glitter</span></a>
-</p>
+<td class="templateToolDefaultCell"><b>Collecting Pattern</b>
 </td>
-<td><figure class="mw-halign-center" typeof="mw:File"><a href="crimson-guard.html"><img alt="Crimson Guard" data-image-key="Crimson_Guard.png" data-image-name="Crimson Guard.png" data-relevant="1" height="80" src="img/Crimson_Guard.png" width="80"/></a><figcaption></figcaption></figure><div style="text-align: center;"><a href="crimson-guard.html">Crimson Guard</a></div>
+<td>Circle (radius 3)
 </td></tr>
 <tr>
-<td><div style="text-align: center;">150
-</div></td>
-<td><span typeof="mw:Error mw:File"></span><span style="border-bottom:1px dotted;" title="25,000,000,000">25B</span> <a href="honey.html"><span class="color-template color-template-honey">Honey</span></a><br/>
-<p><img alt="Tropical Drink" height="25" src="img/Tropical_Drink.png" width="25"/>150 <a href="tropical-drink.html"><span class="color-template color-template-tropical-drink color-template-background-clip">Tropical Drinks</span></a><br/>
-<img alt="Coconut" height="25" src="img/Coconut.png" width="25"/>150 <a href="coconut.html"><span class="color-template color-template-coconut color-template-background-clip">Coconuts</span></a><br/>
-<img alt="Blue Extract" height="25" src="img/Blue_Extract.png" width="25"/>150 <a href="blue-extract.html"><span class="color-template color-template-blue-extract color-template-background-clip">Blue Extracts</span></a>
-</p>
+<td class="templateToolDefaultCell"><b>Collecting Time</b>
 </td>
-<td><figure class="mw-halign-center" typeof="mw:File"><a href="coconut-canister.html"><img alt="Coconut Canister" data-image-key="Coconut_Canister.png" data-image-name="Coconut Canister.png" data-relevant="1" height="80" src="img/Coconut_Canister.png" width="80"/></a><figcaption></figcaption></figure><div style="text-align: center;"><a href="coconut-canister.html">Coconut Canister</a></div>
+<td>1 second
 </td></tr>
 <tr>
-<td><div style="text-align: center;">250
-</div></td>
-<td><span typeof="mw:Error mw:File"></span><span style="border-bottom:1px dotted;" title="5,000,000,000">5B</span> <a href="honey.html"><span class="color-template color-template-honey">Honey</span></a><br/>
-<p><img alt="Stinger" height="25" src="img/Stinger.png" width="25"/>500 <a href="stinger.html"><span class="color-template color-template-stinger color-template-background-clip">Stingers</span></a><br/>
-<img alt="Enzymes" height="25" src="img/Enzymes.png" width="25"/>150 <a href="enzymes.html"><span class="color-template color-template-enzymes color-template-background-clip">Enzymes</span></a><br/>
-<img alt="Glue" height="25" src="img/Glue.png" width="25"/>100 <a href="glue.html"><span class="color-template color-template-glue color-template-background-clip">Glues</span></a><br/>
-<img alt="Invigorating Vial" height="25" src="img/Invigorating_Vial.png" width="25"/>1 <a href="invigorating-vial.html"><span class="color-template color-template-invigorating-vial color-template-background-clip">Invigorating Vial</span></a>
-</p>
+<td class="templateToolDefaultCell"><b><span style="border-bottom:1px dotted gray;cursor:help;" title="Number of pollen it can collect per flower">Base Collection</span></b>
 </td>
-<td><figure class="mw-halign-center" typeof="mw:File"><a href="demon-mask.html"><img alt="Demon Mask" data-image-key="Demon_Mask.png" data-image-name="Demon Mask.png" data-relevant="1" height="80" src="img/Demon_Mask.png" width="80"/></a><figcaption></figcaption></figure><div style="text-align: center;"><a href="demon-mask.html">Demon Mask</a></div>
+<td>10
 </td></tr>
 <tr>
-<td><div style="text-align: center;">250
-</div></td>
-<td><span typeof="mw:Error mw:File"></span><span style="border-bottom:1px dotted;" title="100,000,000,000">100B</span> <a href="honey.html"><span class="color-template color-template-honey">Honey</span></a><br/>
-<p><img alt="Glue" height="25" src="img/Glue.png" width="25"/>500 <a href="glue.html"><span class="color-template color-template-glue color-template-background-clip">Glues</span></a><br/>
-<img alt="Blue Extract" height="25" src="img/Blue_Extract.png" width="25"/>250 <a href="blue-extract.html"><span class="color-template color-template-blue-extract color-template-background-clip">Blue Extracts</span></a><br/>
-<img alt="Glitter" height="25" src="img/Glitter.png" width="25"/>250 <a href="glitter.html"><span class="color-template color-template-glitter color-template-background-clip">Glitter</span></a><br/>
-<img alt="Satisfying Vial" height="25" src="img/Satisfying_Vial.png" width="25"/>1 <a href="satisfying-vial.html"><span class="color-template color-template-satisfying-vial color-template-background-clip">Satisfying Vial</span></a><br/>
-<img alt="Motivating Vial" height="25" src="img/Motivating_Vial.png" width="25"/>1 <a href="motivating-vial.html"><span class="color-template color-template-motivating-vial color-template-background-clip">Motivating Vial</span></a>
-</p>
-</td>
-<td><figure class="mw-halign-center" typeof="mw:File"><a href="gummy-boots.html"><img alt="Gummy Boots" data-image-key="Gummy_Boots.png" data-image-name="Gummy Boots.png" data-relevant="1" height="80" src="img/Gummy_Boots.png" width="80"/></a><figcaption></figcaption></figure><div style="text-align: center;"><a href="gummy-boots.html">Gummy Boots</a></div>
+<td colspan="2"><table align="center" border="0" cellpadding="1" cellspacing="1" class="wikitable templateToolStatsTable" id="collector" style="">
+<tbody><tr>
+<th><span style="border-bottom:1px dotted gray;cursor:help;" title="amount of pollen collected per flower">Flowers</span></th>
+<td>Single</td>
+<td>Double</td>
+<td>Triple</td>
+<td>Large</td>
+<td>Star</td>
+</tr>
+<tr>
+<td>White</td>
+<td>10</td>
+<td>20</td>
+<td>30</td>
+<td>40</td>
+<td>50</td>
+</tr>
+<tr>
+<td>Red</td>
+<td>10</td>
+<td>20</td>
+<td>30</td>
+<td>40</td>
+<td>50</td>
+</tr>
+<tr>
+<td>Blue</td>
+<td>10</td>
+<td>20</td>
+<td>30</td>
+<td>40</td>
+<td>50</td>
+</tr>
+<tr>
+<td colspan="7"><i>Special Multiplier(s): x1.25 White, Red and Blue Pollen. Every 6th scoop slams for 25 pollen per flower.</i></td>
+</tr>
+</tbody></table>
 </td></tr>
+</tbody></table>
+
+The **Honey Hammer** is a [tool](tools.md) and the best collector in the game. You can't buy it: it is the reward for finishing the Melittology tree.
+
+> *"Harnesses the Dark Scythe, Gummyballer, and Tide Popper in one tool. Sweeps flames and bubbles, charges and launches gummyballs, builds tidal power, and unleashes a massive Honey Hammer slam every 6th scoop."*
+
+## Stats
+
+The Honey Hammer collects 10 pollen from 26 flowers in a circle every second, with x1.25 White, Red and Blue Pollen.
+
+Every scoop also uses the abilities of three other tools at once:
+
+* the [Dark Scythe](dark-scythe.md)'s flames,
+* the [Gummyballer](gummyballer.md)'s gummyballs,
+* the [Tide Popper](tide-popper.md)'s waves, which pop [bubbles](bubble.md) and build tidal power.
+
+These effects trigger even when a scoop hits no flowers.
+
+### Honey Hammer slam
+
+Every **6th scoop** the hammer slams down 20 studs in front of you, just under a second after the swing. The slam collects **25 pollen per flower** from the same 26-flower circle, with the same x1.25 multipliers. It counts as Tool pollen.
+
+<table class="wikitable templateToolStatsTable" id="collector">
+<tbody><tr>
+<th><span style="border-bottom:1px dotted gray;cursor:help;" title="amount of pollen collected per flower">Flowers</span></th>
+<td>Single</td>
+<td>Double</td>
+<td>Triple</td>
+<td>Large</td>
+<td>Star</td>
+</tr>
 <tr>
-<td><div style="text-align: center;">750
-</div></td>
-<td>150 <a href="gifted-riley-bee.html">Gifted Riley Bee</a> quests completed<br/>
-<p><span typeof="mw:Error mw:File"></span><span style="border-bottom:1px dotted;" title="750,000,000,000">750B</span> <a href="honey.html"><span class="color-template color-template-honey">Honey</span></a><br/>
-<img alt="Magic Bean" height="25" src="img/Magic_Bean.png" width="25"/>75 <a href="magic-bean.html"><span class="color-template color-template-magic-bean color-template-background-clip">Magic Beans</span></a><br/>
-<img alt="Hard Wax" height="25" src="img/Hard_Wax.png" width="25"/>150 <a href="hard-wax.html"><span class="color-template color-template-hard-wax">Hard Waxes</span></a><br/>
-<img alt="Swirled Wax" height="25" src="img/Swirled_Wax.png" width="25"/>25 <a href="swirled-wax.html"><span class="color-template color-template-swirled-wax color-template-background-clip">Swirled Waxes</span></a><br/>
-<img alt="Turpentine" height="25" src="img/Turpentine.png" width="25"/>1 <a href="turpentine.html"><span class="color-template color-template-turpentine color-template-background-clip">Turpentine</span></a>
-</p>
-</td>
-<td><figure class="mw-halign-center" typeof="mw:Error mw:File"><figcaption></figcaption></figure><div style="text-align: center;"><a href="heat-treated-planter.html"><span class="color-template color-template-heat-treated-planter color-template-background-clip">Heat-Treated Planter</span></a>
-</div></td></tr>
+<td>White</td>
+<td>25</td>
+<td>50</td>
+<td>75</td>
+<td>100</td>
+<td>125</td>
+</tr>
 <tr>
-<td><div style="text-align: center;">1,500
-</div></td>
-<td>250 <a href="gifted-riley-bee.html">Gifted Riley Bee</a> quests completed<br/>
-<p><span typeof="mw:Error mw:File"></span><span style="border-bottom:1px dotted;" title="2,500,000,000,000">2.5T</span> <a href="honey.html"><span class="color-template color-template-honey">Honey</span></a><br/>
-<img alt="Stinger" height="25" src="img/Stinger.png" width="25"/>150 <a href="stinger.html"><span class="color-template color-template-stinger color-template-background-clip">Stingers</span></a><br/>
-<img alt="Hard Wax" height="25" src="img/Hard_Wax.png" width="25"/>100 <a href="hard-wax.html"><span class="color-template color-template-hard-wax">Hard Waxes</span></a><br/>
-<img alt="Caustic Wax" height="25" src="img/Caustic_Wax.png" width="25"/>50 <a href="caustic-wax.html"><span class="color-template color-template-caustic-wax">Caustic Waxes</span></a><br/>
-<img alt="Super Smoothie" height="25" src="img/Super_Smoothie.png" width="25"/>50 <a href="super-smoothie.html"><span class="color-template color-template-super-smoothie color-template-background-clip">Super Smoothies</span></a><br/>
-<img alt="Invigorating Vial" height="25" src="img/Invigorating_Vial.png" width="25"/>3 <a href="invigorating-vial.html"><span class="color-template color-template-invigorating-vial color-template-background-clip">Invigorating Vials</span></a>
-</p>
-</td>
-<td><figure class="mw-halign-center" typeof="mw:Error mw:File"><figcaption></figcaption></figure><div style="text-align: center;"><a href="dark-scythe.html">Dark Scythe</a>
-</div></td></tr></tbody></table>
+<td>Red</td>
+<td>25</td>
+<td>50</td>
+<td>75</td>
+<td>100</td>
+<td>125</td>
+</tr>
+<tr>
+<td>Blue</td>
+<td>25</td>
+<td>50</td>
+<td>75</td>
+<td>100</td>
+<td>125</td>
+</tr>
+</tbody></table>
+
+## How to obtain
+
+The Honey Hammer is the capstone of the Melittology tree: the node **"A Beginning to a end."** (tier 61), which costs **10 Research Points**. To unlock it you have to master both of your active paths.
+
+Buying the capstone adds the Honey Hammer to your tools straight away. If the capstone is ever refunded, the Honey Hammer is taken away again.
+
+## Trivia
+
+* The game calls it "the ultimate collector". It is the only tool that can't be bought from a shop.
+* Unequipping it clears the buffs from the tools it combines: Dark Heat, Gummyball, Gummyball Combo, Tidal Surge, Tide Power and Tide Blessing.
+* The [September 18, 2026 update](update-log-2026-09-18.md) fixed the Honey Hammer taking your head.
+* The [September 11, 2026 update](update-log-2026-09-11.md) added three new Melittology paths after the Honey Hammer: Supreme White, Supreme Red and Supreme Blue.
 
 <table class="mw-collapsible autocollapse" style="margin:auto; background:#000; font-size: 10pt; border:5px solid #56CB5A; width: 100%; border-radius: 20px; -moz-border-radius: 20px; -webkit-border-radius: 20px; -khtml-border-radius: 20px; -icab-border-radius: 20px; -o-border-radius: 20px;">
 <tbody><tr>
@@ -254,7 +180,7 @@ Total required for all single-purchase items: 3,083 **Red Extracts**
 <tr>
 <th class="NavCategory">Crafting Materials
 </th>
-<td class="NavLinks NavLinksBasicOdd"><b><img alt="Red Extract" height="35" src="img/Red_Extract.png" width="35"/> <strong class="mw-selflink selflink">Red Extract</strong> • <img alt="Blue Extract" height="35" src="img/Blue_Extract.png" width="35"/> <a href="blue-extract.html">Blue Extract</a> • <img alt="Glitter" height="35" src="img/Glitter.png" width="35"/> <a href="glitter.html">Glitter</a> • <img alt="Glue" height="35" src="img/Glue.png" width="35"/> <a href="glue.html">Glue</a> • <img alt="Oil" height="35" src="img/Oil.png" width="35"/> <a href="oil.html">Oil</a> • <img alt="Enzymes" height="35" src="img/Enzymes.png" width="35"/> <a href="enzymes.html">Enzymes</a> • <img alt="Tropical Drink" height="35" src="img/Tropical_Drink.png" width="35"/> <a href="tropical-drink.html">Tropical Drink</a> • <img alt="Purple Potion" height="35" src="img/Purple_Potion.png" width="35"/> <a href="purple-potion.html">Purple Potion</a> • <img alt="Super Smoothie" height="35" src="img/Super_Smoothie.png" width="35"/> <a href="super-smoothie.html">Super Smoothie</a></b>
+<td class="NavLinks NavLinksBasicOdd"><b><img alt="Red Extract" height="35" src="img/Red_Extract.png" width="35"/> <a href="red-extract.html">Red Extract</a> • <img alt="Blue Extract" height="35" src="img/Blue_Extract.png" width="35"/> <a href="blue-extract.html">Blue Extract</a> • <img alt="Glitter" height="35" src="img/Glitter.png" width="35"/> <a href="glitter.html">Glitter</a> • <img alt="Glue" height="35" src="img/Glue.png" width="35"/> <a href="glue.html">Glue</a> • <img alt="Oil" height="35" src="img/Oil.png" width="35"/> <a href="oil.html">Oil</a> • <img alt="Enzymes" height="35" src="img/Enzymes.png" width="35"/> <a href="enzymes.html">Enzymes</a> • <img alt="Tropical Drink" height="35" src="img/Tropical_Drink.png" width="35"/> <a href="tropical-drink.html">Tropical Drink</a> • <img alt="Purple Potion" height="35" src="img/Purple_Potion.png" width="35"/> <a href="purple-potion.html">Purple Potion</a> • <img alt="Super Smoothie" height="35" src="img/Super_Smoothie.png" width="35"/> <a href="super-smoothie.html">Super Smoothie</a></b>
 </td></tr>
 <tr>
 <th class="NavCategory">Dice
@@ -329,7 +255,7 @@ Total required for all single-purchase items: 3,083 **Red Extracts**
 <tr>
 <th class="NavCategory">Pollen<br/>Collectors
 </th>
-<td class="NavLinks NavLinksBasicOdd"><b><img alt="Scooper" height="35" src="img/Scooper.png" width="35"/> <a href="scooper.html">Scooper</a> • <img alt="Rake" height="35" src="img/Rake.png" width="35"/> <a href="rake.html">Rake</a> • <img alt="Clippers" height="35" src="img/Clippers.png" width="35"/> <a href="clippers.html">Clippers</a> • <img alt="Magnet" height="35" src="img/Magnet.png" width="35"/> <a href="magnet.html">Magnet</a> • <img alt="Vacuum" height="35" src="img/Vacuum.png" width="35"/> <a href="vacuum.html">Vacuum</a> • <img alt="Super-Scooper" height="35" src="img/Super-Scooper.png" width="35"/> <a href="super-scooper.html">Super-Scooper</a> • <img alt="Pulsar" height="35" src="img/Pulsar.png" width="35"/> <a href="pulsar.html">Pulsar</a> • <img alt="Electro-Magnet" height="35" src="img/Electro-Magnet.png" width="35"/> <a href="electro-magnet.html">Electro-Magnet</a> • <img alt="Scissors" height="35" src="img/Scissors.png" width="35"/> <a href="scissors.html">Scissors</a> • <img alt="Honey Dipper" height="35" src="img/Honey_Dipper.png" width="35"/> <a href="honey-dipper.html">Honey Dipper</a> • <img alt="Bubble Wand" height="35" src="img/Bubble_Wand.png" width="35"/> <a href="bubble-wand.html">Bubble Wand</a> • <img alt="Scythe" height="35" src="img/Scythe.png" width="35"/> <a href="scythe.html">Scythe</a> • <img alt="Sticker-Seeker" height="35" src="img/Sticker-Seeker.png" width="35"/> <a href="sticker-seeker.html">Sticker-Seeker</a> • <img alt="Golden Rake" height="35" src="img/Golden_Rake.png" width="35"/> <a href="golden-rake.html">Golden Rake</a> • <img alt="Spark Staff" height="35" src="img/Spark_Staff.png" width="35"/> <a href="spark-staff.html">Spark Staff</a> • <img alt="Porcelain Dipper" height="35" src="img/Porcelain_Dipper.png" width="35"/> <a href="porcelain-dipper.html">Porcelain Dipper</a> • <img alt="Petal Wand" height="35" src="img/Petal_Wand.png" width="35"/> <a href="petal-wand.html">Petal Wand</a> • <img alt="Dark Scythe" height="35" src="img/Dark_Scythe.png" width="35"/> <a href="dark-scythe.html">Dark Scythe</a> • <img alt="Tide Popper" height="35" src="img/Tide_Popper.png" width="35"/> <a href="tide-popper.html">Tide Popper</a> • <img alt="Gummyballer" height="35" src="img/Gummyballer.png" width="35"/> <a href="gummyballer.html">Gummyballer</a> • <img alt="Honey Hammer" height="35" src="img/Honey_Hammer.png" width="35"/> <a href="honey-hammer.html">Honey Hammer</a></b>
+<td class="NavLinks NavLinksBasicOdd"><b><img alt="Scooper" height="35" src="img/Scooper.png" width="35"/> <a href="scooper.html">Scooper</a> • <img alt="Rake" height="35" src="img/Rake.png" width="35"/> <a href="rake.html">Rake</a> • <img alt="Clippers" height="35" src="img/Clippers.png" width="35"/> <a href="clippers.html">Clippers</a> • <img alt="Magnet" height="35" src="img/Magnet.png" width="35"/> <a href="magnet.html">Magnet</a> • <img alt="Vacuum" height="35" src="img/Vacuum.png" width="35"/> <a href="vacuum.html">Vacuum</a> • <img alt="Super-Scooper" height="35" src="img/Super-Scooper.png" width="35"/> <a href="super-scooper.html">Super-Scooper</a> • <img alt="Pulsar" height="35" src="img/Pulsar.png" width="35"/> <a href="pulsar.html">Pulsar</a> • <img alt="Electro-Magnet" height="35" src="img/Electro-Magnet.png" width="35"/> <a href="electro-magnet.html">Electro-Magnet</a> • <img alt="Scissors" height="35" src="img/Scissors.png" width="35"/> <a href="scissors.html">Scissors</a> • <img alt="Honey Dipper" height="35" src="img/Honey_Dipper.png" width="35"/> <a href="honey-dipper.html">Honey Dipper</a> • <img alt="Bubble Wand" height="35" src="img/Bubble_Wand.png" width="35"/> <a href="bubble-wand.html">Bubble Wand</a> • <img alt="Scythe" height="35" src="img/Scythe.png" width="35"/> <a href="scythe.html">Scythe</a> • <img alt="Sticker-Seeker" height="35" src="img/Sticker-Seeker.png" width="35"/> <a href="sticker-seeker.html">Sticker-Seeker</a> • <img alt="Golden Rake" height="35" src="img/Golden_Rake.png" width="35"/> <a href="golden-rake.html">Golden Rake</a> • <img alt="Spark Staff" height="35" src="img/Spark_Staff.png" width="35"/> <a href="spark-staff.html">Spark Staff</a> • <img alt="Porcelain Dipper" height="35" src="img/Porcelain_Dipper.png" width="35"/> <a href="porcelain-dipper.html">Porcelain Dipper</a> • <img alt="Petal Wand" height="35" src="img/Petal_Wand.png" width="35"/> <a href="petal-wand.html">Petal Wand</a> • <img alt="Dark Scythe" height="35" src="img/Dark_Scythe.png" width="35"/> <a href="dark-scythe.html">Dark Scythe</a> • <img alt="Tide Popper" height="35" src="img/Tide_Popper.png" width="35"/> <a href="tide-popper.html">Tide Popper</a> • <img alt="Gummyballer" height="35" src="img/Gummyballer.png" width="35"/> <a href="gummyballer.html">Gummyballer</a> • <img alt="Honey Hammer" height="35" src="img/Honey_Hammer.png" width="35"/> <strong class="mw-selflink selflink">Honey Hammer</strong></b>
 </td></tr>
 <tr>
 <th class="NavCategory">Sprinklers

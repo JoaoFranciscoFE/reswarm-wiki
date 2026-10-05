@@ -54,6 +54,7 @@ Tools collect pollen from flowers. Listed from cheapest to best.
 <a class="wiki-card" href="dark-scythe.html"><img src="img/Dark_Scythe.png" alt="" loading="lazy"><span>Dark Scythe</span></a>
 <a class="wiki-card" href="gummyballer.html"><img src="img/Gummyballer.png" alt="" loading="lazy"><span>Gummyballer</span></a>
 <a class="wiki-card" href="sticker-seeker.html"><img src="img/Sticker-Seeker.png" alt="" loading="lazy"><span>Sticker-Seeker</span></a>
+<a class="wiki-card" href="honey-hammer.html"><img src="img/Honey_Hammer.png" alt="" loading="lazy"><span>Honey Hammer</span></a>
 </div>
 
 ## Hats
