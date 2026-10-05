@@ -70,3360 +70,424 @@ The **Camphor Lip Balm** is a [level](bond.md) 12 [Beequip](beequip.md). It has 
 
 ## Possible Stats
 
-### General
+<p class="beequip-meta"><b>Rarity:</b> Epic · <b>Equip limit:</b> 1 · <b>Who can wear it:</b> level 12+; bee types: Cool, Commander, Stubborn, Crimson, Bubble</p>
 
-<table class="wikitable" style="border:2px solid">
-<caption>Hover over column headers for more information. <br/>
-Check the <a href="beequip.html#Generation">Beequip#Generation</a> article for a short explanation on how the game generates Beequips. <br/>
-Credit: Pawselfie - <a href="https://docs.google.com/spreadsheets/d/1DFvWFNN7euft6ELtkif0BgORQIppZ3PnrLWwk0dfAEQ/edit">Original spreadsheet</a>
-</caption>
+*Stats and hive bonuses each roll on their own. Higher potential makes a stat more likely to appear and pulls its value towards the top of its range. The chances and averages below come from running the game's own roll code 5,000 times at each potential.*
+
+/// tab | 1 ★
+
+<table class="article-table">
 <tbody><tr>
-<td colspan="7"><center>This beequip <b>does not use</b> the old RNG functions.</center>
-</td></tr>
-<tr>
-<th rowspan="2">Stat <br/><span style="border-bottom:1px dotted;" title="Stats that can only be upgraded with points from a Caustic Wax. Note that this does not apply to the beequip's base stats.">Caustic Req.</span> 
+<th>Type
 </th>
-<th colspan="2"><span style="border-bottom:1px dotted;" title="Stats the beequip can have without using any waxes.">Base</span> 
+<th>Stat
 </th>
-<th colspan="3"><span style="border-bottom:1px dotted;" title="Stats the beequip can get from using waxes.">Upgrades</span> 
+<th>Range
 </th>
-<th rowspan="2"><span style="border-bottom:1px dotted;" title="The range of values of that stat the beequip can receive, including using waxes.">Range</span> 
+<th>Chance at 1 ★
+</th>
+<th>Average at 1 ★
 </th></tr>
 <tr>
-<th><span style="border-bottom:1px dotted;" title="Probabiity of the beequip having the stat without using any waxes. Note that multiple of these stats can be picked.">Chance</span> 
-</th>
-<th><span style="border-bottom:1px dotted;" title="The range of the strength of the stat without using any waxes.">Value</span> 
-</th>
-<th><span style="border-bottom:1px dotted;" title="The range of the stat's weight, used to find its probability of being upgraded from a wax point. Note that a wax point can only pick 1 of the listed stats.">Weight</span> 
-</th>
-<th><span style="border-bottom:1px dotted;" title="The range of how much a wax point can upgrade the stat.">Value</span> 
-</th>
-<th><span style="border-bottom:1px dotted;" title="Limit of how many wax points can upgrade the stat.">Limit</span>
-</th></tr>
-<tr>
-<td>+<a href="system-page.html#Gather_Amount">Gather Amount</a>
+<td>Bee stat
 </td>
-<td><b>100%</b>
+<td>Gather Amount
 </td>
-<td>A random value between <b>+20</b>-<b>+30</b><br/>Intervals of +1<br/>Bias scales linearly
+<td>+20 to +30
 </td>
-<td><b>0.5</b>
+<td>100%
 </td>
-<td>A random value between <b>+2</b>-<b>+3</b><br/>Intervals of +1<br/>Bias: {3, 1}
-</td>
-<td><b>15</b>
-</td>
-<td><b>+20 - +75</b>
+<td>+23.48
 </td></tr>
 <tr>
-<td>+<a href="system-page.html#Critical_Power">Critical Power</a>%
+<td>Bee stat
 </td>
-<td><b>100%</b>
+<td>Critical Power
 </td>
-<td>A random value between <b>+50%</b>-<b>+70%</b><br/>Intervals of +1%<br/>Bias scales linearly
+<td>+50% to +70%
 </td>
-<td><b>0.5</b>
+<td>100%
 </td>
-<td>A random value between <b>+3%</b>-<b>+5%</b><br/>Intervals of +1%<br/>Bias: {3, 1}
-</td>
-<td><b>15</b>
-</td>
-<td><b>+50% - +145%</b>
+<td>+56.98%
 </td></tr>
 <tr>
-<th colspan="7">Hive Bonus
-</th></tr>
-<tr>
-<td>x<a href="system-page.html#Pollen">Pepper Patch Pollen</a>
+<td>Hive bonus
 </td>
-<td><b>100%</b>
+<td>Pepper Patch Pollen
 </td>
-<td>A random value between <b>x1.03</b>-<b>x1.05</b><br/>Intervals of +0.01<br/>Bias scales linearly
+<td>x1.03 to x1.05
 </td>
-<td>An exact value between <b>0.02</b>-<b>0.08</b><br/>Linear scaling by a factor of 1<br/>Scaling power: 1.5
+<td>100%
 </td>
-<td><b>+0.01</b>
-</td>
-<td><b>3</b>
-</td>
-<td><b>x1.03 - x1.08</b>
+<td>x1.036
 </td></tr>
 <tr>
-<td>+<a href="system-page.html#Bubble_Pollen">Bubble Pollen</a>%
+<td>Hive bonus
 </td>
-<td><b>100%</b>
+<td>Bubble Pollen
 </td>
-<td>A random value between <b>+10%</b>-<b>+15%</b><br/>Intervals of +1%<br/>Bias scales linearly
+<td>+10% to +15%
 </td>
-<td>An exact value between <b>0.1</b>-<b>0.25</b><br/>Linear scaling by a factor of 1<br/>Scaling power: 1.5
+<td>100%
 </td>
-<td><b>+1%</b>
-</td>
-<td><b>10</b>
-</td>
-<td><b>+10% - +25%</b>
-</td></tr>
-<tr>
-<td>+<a href="system-page.html#Gold_Bubble_Pollen">Gold Bubble Pollen</a>%<br/><a href="caustic-wax.html"><span class="color-template color-template-caustic-wax">Caustic</span></a> Points Only
-</td>
-<td>-
-</td>
-<td>-
-</td>
-<td>An exact value between <b>0.01</b>-<b>0.1</b><br/>Linear scaling by a factor of 1<br/>Scaling power: 1.5
-</td>
-<td>A random value between <b>+2%</b>-<b>+3%</b><br/>Intervals of +1%<br/>Bias: {3, 1}
-</td>
-<td><b>4</b>
-</td>
-<td><b>0% - +12%</b>
-</td></tr>
-<tr>
-<td>+Honey From Instant Conversion%<br/><a href="caustic-wax.html"><span class="color-template color-template-caustic-wax">Caustic</span></a> Points Only
-</td>
-<td>-
-</td>
-<td>-
-</td>
-<td>An exact value between <b>0.001</b>-<b>0.01</b><br/>Linear scaling by a factor of 1<br/>Scaling power: 1.5
-</td>
-<td><b>+1%</b>
-</td>
-<td><b>1</b>
-</td>
-<td><b>0% - +1%</b>
+<td>+11.72%
 </td></tr></tbody></table>
 
-### With Potential
+///
 
-*Note that the values shown may differ greatly from the real values, as there is no way to view a beequip's true potential in-game ― the player can only see a beequip's potential rounded to the nearest 1 ★ (or 0.5 ★ in Dapper Bear's Shop).*
+/// tab | 2 ★
 
-### 0 ★
-
-### Non-Caustic
-
-<table class="wikitable" style="border:2px solid">
+<table class="article-table">
 <tbody><tr>
-<td colspan="6"><center>
-All results are rounded to at most 4 decimal digits.</center>
-</td></tr>
-<tr>
-<th rowspan="2">Stat <br/><span style="border-bottom:1px dotted;" title="Stats that can only be upgraded with points from a Caustic Wax. Note that this does not apply to the beequip's base stats.">Caustic Req.</span> 
+<th>Type
 </th>
-<th colspan="2"><span style="border-bottom:1px dotted;" title="Stats the beequip can have without using any waxes.">Base</span> 
+<th>Stat
 </th>
-<th colspan="3"><span style="border-bottom:1px dotted;" title="Stats the beequip can get from using waxes.">Upgrades</span> 
+<th>Range
+</th>
+<th>Chance at 2 ★
+</th>
+<th>Average at 2 ★
 </th></tr>
 <tr>
-<th><span style="border-bottom:1px dotted;" title="Probabiity of the beequip having the stat without using any waxes. Note that multiple of these stats can be picked.">Chance</span> 
-</th>
-<th><span style="border-bottom:1px dotted;" title="The range of the strength of the stat without using any waxes.">Value</span> 
-</th>
-<th><span style="border-bottom:1px dotted;" title="Probability for the stat to be upgraded from a wax point. Note that a wax point can only pick 1 of the listed stats.">Chance</span> 
-</th>
-<th><span style="border-bottom:1px dotted;" title="The range of how much a wax point can upgrade the stat.">Value</span> 
-</th>
-<th><span style="border-bottom:1px dotted;" title="Limit of how many wax points can upgrade the stat.">Limit</span>
-</th></tr>
-<tr>
-<td>+<a href="system-page.html#Gather_Amount">Gather Amount</a>
+<td>Bee stat
 </td>
-<td><b>100%</b>
+<td>Gather Amount
 </td>
-<td>A random value between <b>+20</b>-<b>+30</b><br/>Intervals of +1<br/>Biased to values near +20<br/>Average value: +22.4809
+<td>+20 to +30
 </td>
-<td><b>44.6429%</b>
+<td>100%
 </td>
-<td>A random value between <b>+2</b>-<b>+3</b><br/>Intervals of +1<br/>Biased to values near +2<br/>Average value: +2.1534
-</td>
-<td><b>15</b>
+<td>+24.49
 </td></tr>
 <tr>
-<td>+<a href="system-page.html#Critical_Power">Critical Power</a>%
+<td>Bee stat
 </td>
-<td><b>100%</b>
+<td>Critical Power
 </td>
-<td>A random value between <b>+50%</b>-<b>+70%</b><br/>Intervals of +1%<br/>Biased to values near +50%<br/>Average value: +54.99%
+<td>+50% to +70%
 </td>
-<td><b>44.6429%</b>
+<td>100%
 </td>
-<td>A random value between <b>+3%</b>-<b>+5%</b><br/>Intervals of +1%<br/>Biased to values near +3%<br/>Average value: +3.44%
-</td>
-<td><b>15</b>
+<td>+59.14%
 </td></tr>
 <tr>
-<th colspan="7">Hive Bonus
-</th></tr>
-<tr>
-<td>x<a href="system-page.html#Pollen">Pepper Patch Pollen</a>
+<td>Hive bonus
 </td>
-<td><b>100%</b>
+<td>Pepper Patch Pollen
 </td>
-<td>A random value between <b>x1.03</b>-<b>x1.05</b><br/>Intervals of +0.01<br/>Biased to values near x1.03<br/>Average value: x1.0344
+<td>x1.03 to x1.05
 </td>
-<td><b>1.7857%</b>
+<td>100%
 </td>
-<td><b>+0.01</b>
-</td>
-<td><b>3</b>
+<td>x1.04
 </td></tr>
 <tr>
-<td>+<a href="system-page.html#Bubble_Pollen">Bubble Pollen</a>%
+<td>Hive bonus
 </td>
-<td><b>100%</b>
+<td>Bubble Pollen
 </td>
-<td>A random value between <b>+10%</b>-<b>+15%</b><br/>Intervals of +1%<br/>Biased to values near +10%<br/>Average value: +11.22%
+<td>+10% to +15%
 </td>
-<td><b>8.9286%</b>
+<td>100%
 </td>
-<td><b>+1%</b>
-</td>
-<td><b>10</b>
+<td>+12.25%
 </td></tr></tbody></table>
 
-### Caustic
+///
 
-<table class="wikitable" style="border:2px solid">
+/// tab | 3 ★
+
+<table class="article-table">
 <tbody><tr>
-<td colspan="6"><center>
-All results are rounded to at most 4 decimal digits.</center>
-</td></tr>
-<tr>
-<th rowspan="2">Stat <br/><span style="border-bottom:1px dotted;" title="Stats that can only be upgraded with points from a Caustic Wax. Note that this does not apply to the beequip's base stats.">Caustic Req.</span> 
-</th>
-<th colspan="2"><span style="border-bottom:1px dotted;" title="Stats the beequip can have without using any waxes.">Base</span> 
-</th>
-<th colspan="3"><span style="border-bottom:1px dotted;" title="Stats the beequip can get from using waxes.">Upgrades</span> 
-</th></tr>
-<tr>
-<th><span style="border-bottom:1px dotted;" title="Probabiity of the beequip having the stat without using any waxes. Note that multiple of these stats can be picked.">Chance</span> 
-</th>
-<th><span style="border-bottom:1px dotted;" title="The range of the strength of the stat without using any waxes.">Value</span> 
-</th>
-<th><span style="border-bottom:1px dotted;" title="Probability for the stat to be upgraded from a wax point. Note that a wax point can only pick 1 of the listed stats.">Chance</span> 
-</th>
-<th><span style="border-bottom:1px dotted;" title="The range of how much a wax point can upgrade the stat.">Value</span> 
-</th>
-<th><span style="border-bottom:1px dotted;" title="Limit of how many wax points can upgrade the stat.">Limit</span>
-</th></tr>
-<tr>
-<td>+<a href="system-page.html#Gather_Amount">Gather Amount</a>
-</td>
-<td><b>100%</b>
-</td>
-<td>A random value between <b>+20</b>-<b>+30</b><br/>Intervals of +1<br/>Biased to values near +20<br/>Average value: +22.4809
-</td>
-<td><b>44.2087%</b>
-</td>
-<td>A random value between <b>+2</b>-<b>+3</b><br/>Intervals of +1<br/>Biased to values near +2<br/>Average value: +2.1534
-</td>
-<td><b>15</b>
-</td></tr>
-<tr>
-<td>+<a href="system-page.html#Critical_Power">Critical Power</a>%
-</td>
-<td><b>100%</b>
-</td>
-<td>A random value between <b>+50%</b>-<b>+70%</b><br/>Intervals of +1%<br/>Biased to values near +50%<br/>Average value: +54.99%
-</td>
-<td><b>44.2087%</b>
-</td>
-<td>A random value between <b>+3%</b>-<b>+5%</b><br/>Intervals of +1%<br/>Biased to values near +3%<br/>Average value: +3.44%
-</td>
-<td><b>15</b>
-</td></tr>
-<tr>
-<th colspan="7">Hive Bonus
-</th></tr>
-<tr>
-<td>x<a href="system-page.html#Pollen">Pepper Patch Pollen</a>
-</td>
-<td><b>100%</b>
-</td>
-<td>A random value between <b>x1.03</b>-<b>x1.05</b><br/>Intervals of +0.01<br/>Biased to values near x1.03<br/>Average value: x1.0344
-</td>
-<td><b>1.7683%</b>
-</td>
-<td><b>+0.01</b>
-</td>
-<td><b>3</b>
-</td></tr>
-<tr>
-<td>+<a href="system-page.html#Bubble_Pollen">Bubble Pollen</a>%
-</td>
-<td><b>100%</b>
-</td>
-<td>A random value between <b>+10%</b>-<b>+15%</b><br/>Intervals of +1%<br/>Biased to values near +10%<br/>Average value: +11.22%
-</td>
-<td><b>8.8417%</b>
-</td>
-<td><b>+1%</b>
-</td>
-<td><b>10</b>
-</td></tr>
-<tr>
-<td>+<a href="system-page.html#Gold_Bubble_Pollen">Gold Bubble Pollen</a>%<br/><a href="caustic-wax.html"><span class="color-template color-template-caustic-wax">Caustic</span></a> Points Only
-</td>
-<td>-
-</td>
-<td>-
-</td>
-<td><b>0.8842%</b>
-</td>
-<td>A random value between <b>+2%</b>-<b>+3%</b><br/>Intervals of +1%<br/>Biased to values near +2%<br/>Average value: +2.15%
-</td>
-<td><b>4</b>
-</td></tr>
-<tr>
-<td>+Honey From Instant Conversion%<br/><a href="caustic-wax.html"><span class="color-template color-template-caustic-wax">Caustic</span></a> Points Only
-</td>
-<td>-
-</td>
-<td>-
-</td>
-<td><b>0.0884%</b>
-</td>
-<td><b>+1%</b>
-</td>
-<td><b>1</b>
-</td></tr></tbody></table>
-
-### 0.5 ★
-
-### Non-Caustic
-
-<table class="wikitable" style="border:2px solid">
-<tbody><tr>
-<td colspan="6"><center>
-All results are rounded to at most 4 decimal digits.</center>
-</td></tr>
-<tr>
-<th rowspan="2">Stat <br/><span style="border-bottom:1px dotted;" title="Stats that can only be upgraded with points from a Caustic Wax. Note that this does not apply to the beequip's base stats.">Caustic Req.</span> 
-</th>
-<th colspan="2"><span style="border-bottom:1px dotted;" title="Stats the beequip can have without using any waxes.">Base</span> 
-</th>
-<th colspan="3"><span style="border-bottom:1px dotted;" title="Stats the beequip can get from using waxes.">Upgrades</span> 
-</th></tr>
-<tr>
-<th><span style="border-bottom:1px dotted;" title="Probabiity of the beequip having the stat without using any waxes. Note that multiple of these stats can be picked.">Chance</span> 
-</th>
-<th><span style="border-bottom:1px dotted;" title="The range of the strength of the stat without using any waxes.">Value</span> 
-</th>
-<th><span style="border-bottom:1px dotted;" title="Probability for the stat to be upgraded from a wax point. Note that a wax point can only pick 1 of the listed stats.">Chance</span> 
-</th>
-<th><span style="border-bottom:1px dotted;" title="The range of how much a wax point can upgrade the stat.">Value</span> 
-</th>
-<th><span style="border-bottom:1px dotted;" title="Limit of how many wax points can upgrade the stat.">Limit</span>
-</th></tr>
-<tr>
-<td>+<a href="system-page.html#Gather_Amount">Gather Amount</a>
-</td>
-<td><b>100%</b>
-</td>
-<td>A random value between <b>+20</b>-<b>+30</b><br/>Intervals of +1<br/>Biased to values near +21<br/>Average value: +22.991
-</td>
-<td><b>44.3797%</b>
-</td>
-<td>A random value between <b>+2</b>-<b>+3</b><br/>Intervals of +1<br/>Biased to values near +2.01<br/>Average value: +2.1554
-</td>
-<td><b>15</b>
-</td></tr>
-<tr>
-<td>+<a href="system-page.html#Critical_Power">Critical Power</a>%
-</td>
-<td><b>100%</b>
-</td>
-<td>A random value between <b>+50%</b>-<b>+70%</b><br/>Intervals of +1%<br/>Biased to values near +52%<br/>Average value: +56%
-</td>
-<td><b>44.3797%</b>
-</td>
-<td>A random value between <b>+3%</b>-<b>+5%</b><br/>Intervals of +1%<br/>Biased to values near +3.02%<br/>Average value: +3.44%
-</td>
-<td><b>15</b>
-</td></tr>
-<tr>
-<th colspan="7">Hive Bonus
-</th></tr>
-<tr>
-<td>x<a href="system-page.html#Pollen">Pepper Patch Pollen</a>
-</td>
-<td><b>100%</b>
-</td>
-<td>A random value between <b>x1.03</b>-<b>x1.05</b><br/>Intervals of +0.01<br/>Biased to values near x1.032<br/>Average value: x1.0352
-</td>
-<td><b>1.9436%</b>
-</td>
-<td><b>+0.01</b>
-</td>
-<td><b>3</b>
-</td></tr>
-<tr>
-<td>+<a href="system-page.html#Bubble_Pollen">Bubble Pollen</a>%
-</td>
-<td><b>100%</b>
-</td>
-<td>A random value between <b>+10%</b>-<b>+15%</b><br/>Intervals of +1%<br/>Biased to values near +10.5%<br/>Average value: +11.54%
-</td>
-<td><b>9.297%</b>
-</td>
-<td><b>+1%</b>
-</td>
-<td><b>10</b>
-</td></tr></tbody></table>
-
-### Caustic
-
-<table class="wikitable" style="border:2px solid">
-<tbody><tr>
-<td colspan="6"><center>
-All results are rounded to at most 4 decimal digits.</center>
-</td></tr>
-<tr>
-<th rowspan="2">Stat <br/><span style="border-bottom:1px dotted;" title="Stats that can only be upgraded with points from a Caustic Wax. Note that this does not apply to the beequip's base stats.">Caustic Req.</span> 
-</th>
-<th colspan="2"><span style="border-bottom:1px dotted;" title="Stats the beequip can have without using any waxes.">Base</span> 
-</th>
-<th colspan="3"><span style="border-bottom:1px dotted;" title="Stats the beequip can get from using waxes.">Upgrades</span> 
-</th></tr>
-<tr>
-<th><span style="border-bottom:1px dotted;" title="Probabiity of the beequip having the stat without using any waxes. Note that multiple of these stats can be picked.">Chance</span> 
-</th>
-<th><span style="border-bottom:1px dotted;" title="The range of the strength of the stat without using any waxes.">Value</span> 
-</th>
-<th><span style="border-bottom:1px dotted;" title="Probability for the stat to be upgraded from a wax point. Note that a wax point can only pick 1 of the listed stats.">Chance</span> 
-</th>
-<th><span style="border-bottom:1px dotted;" title="The range of how much a wax point can upgrade the stat.">Value</span> 
-</th>
-<th><span style="border-bottom:1px dotted;" title="Limit of how many wax points can upgrade the stat.">Limit</span>
-</th></tr>
-<tr>
-<td>+<a href="system-page.html#Gather_Amount">Gather Amount</a>
-</td>
-<td><b>100%</b>
-</td>
-<td>A random value between <b>+20</b>-<b>+30</b><br/>Intervals of +1<br/>Biased to values near +21<br/>Average value: +22.991
-</td>
-<td><b>43.83%</b>
-</td>
-<td>A random value between <b>+2</b>-<b>+3</b><br/>Intervals of +1<br/>Biased to values near +2.01<br/>Average value: +2.1554
-</td>
-<td><b>15</b>
-</td></tr>
-<tr>
-<td>+<a href="system-page.html#Critical_Power">Critical Power</a>%
-</td>
-<td><b>100%</b>
-</td>
-<td>A random value between <b>+50%</b>-<b>+70%</b><br/>Intervals of +1%<br/>Biased to values near +52%<br/>Average value: +56%
-</td>
-<td><b>43.83%</b>
-</td>
-<td>A random value between <b>+3%</b>-<b>+5%</b><br/>Intervals of +1%<br/>Biased to values near +3.02%<br/>Average value: +3.44%
-</td>
-<td><b>15</b>
-</td></tr>
-<tr>
-<th colspan="7">Hive Bonus
-</th></tr>
-<tr>
-<td>x<a href="system-page.html#Pollen">Pepper Patch Pollen</a>
-</td>
-<td><b>100%</b>
-</td>
-<td>A random value between <b>x1.03</b>-<b>x1.05</b><br/>Intervals of +0.01<br/>Biased to values near x1.032<br/>Average value: x1.0352
-</td>
-<td><b>1.9195%</b>
-</td>
-<td><b>+0.01</b>
-</td>
-<td><b>3</b>
-</td></tr>
-<tr>
-<td>+<a href="system-page.html#Bubble_Pollen">Bubble Pollen</a>%
-</td>
-<td><b>100%</b>
-</td>
-<td>A random value between <b>+10%</b>-<b>+15%</b><br/>Intervals of +1%<br/>Biased to values near +10.5%<br/>Average value: +11.54%
-</td>
-<td><b>9.1818%</b>
-</td>
-<td><b>+1%</b>
-</td>
-<td><b>10</b>
-</td></tr>
-<tr>
-<td>+<a href="system-page.html#Gold_Bubble_Pollen">Gold Bubble Pollen</a>%<br/><a href="caustic-wax.html"><span class="color-template color-template-caustic-wax">Caustic</span></a> Points Only
-</td>
-<td>-
-</td>
-<td>-
-</td>
-<td><b>1.1261%</b>
-</td>
-<td>A random value between <b>+2%</b>-<b>+3%</b><br/>Intervals of +1%<br/>Biased to values near +2.01%<br/>Average value: +2.16%
-</td>
-<td><b>4</b>
-</td></tr>
-<tr>
-<td>+Honey From Instant Conversion%<br/><a href="caustic-wax.html"><span class="color-template color-template-caustic-wax">Caustic</span></a> Points Only
-</td>
-<td>-
-</td>
-<td>-
-</td>
-<td><b>0.1126%</b>
-</td>
-<td><b>+1%</b>
-</td>
-<td><b>1</b>
-</td></tr></tbody></table>
-
-### 1 ★
-
-### Non-Caustic
-
-<table class="wikitable" style="border:2px solid">
-<tbody><tr>
-<td colspan="6"><center>
-All results are rounded to at most 4 decimal digits.</center>
-</td></tr>
-<tr>
-<th rowspan="2">Stat <br/><span style="border-bottom:1px dotted;" title="Stats that can only be upgraded with points from a Caustic Wax. Note that this does not apply to the beequip's base stats.">Caustic Req.</span> 
-</th>
-<th colspan="2"><span style="border-bottom:1px dotted;" title="Stats the beequip can have without using any waxes.">Base</span> 
-</th>
-<th colspan="3"><span style="border-bottom:1px dotted;" title="Stats the beequip can get from using waxes.">Upgrades</span> 
-</th></tr>
-<tr>
-<th><span style="border-bottom:1px dotted;" title="Probabiity of the beequip having the stat without using any waxes. Note that multiple of these stats can be picked.">Chance</span> 
-</th>
-<th><span style="border-bottom:1px dotted;" title="The range of the strength of the stat without using any waxes.">Value</span> 
-</th>
-<th><span style="border-bottom:1px dotted;" title="Probability for the stat to be upgraded from a wax point. Note that a wax point can only pick 1 of the listed stats.">Chance</span> 
-</th>
-<th><span style="border-bottom:1px dotted;" title="The range of how much a wax point can upgrade the stat.">Value</span> 
-</th>
-<th><span style="border-bottom:1px dotted;" title="Limit of how many wax points can upgrade the stat.">Limit</span>
-</th></tr>
-<tr>
-<td>+<a href="system-page.html#Gather_Amount">Gather Amount</a>
-</td>
-<td><b>100%</b>
-</td>
-<td>A random value between <b>+20</b>-<b>+30</b><br/>Intervals of +1<br/>Biased to values near +22<br/>Average value: +23.4943
-</td>
-<td><b>43.9065%</b>
-</td>
-<td>A random value between <b>+2</b>-<b>+3</b><br/>Intervals of +1<br/>Biased to values near +2.04<br/>Average value: +2.1616
-</td>
-<td><b>15</b>
-</td></tr>
-<tr>
-<td>+<a href="system-page.html#Critical_Power">Critical Power</a>%
-</td>
-<td><b>100%</b>
-</td>
-<td>A random value between <b>+50%</b>-<b>+70%</b><br/>Intervals of +1%<br/>Biased to values near +54%<br/>Average value: +57%
-</td>
-<td><b>43.9065%</b>
-</td>
-<td>A random value between <b>+3%</b>-<b>+5%</b><br/>Intervals of +1%<br/>Biased to values near +3.08%<br/>Average value: +3.47%
-</td>
-<td><b>15</b>
-</td></tr>
-<tr>
-<th colspan="7">Hive Bonus
-</th></tr>
-<tr>
-<td>x<a href="system-page.html#Pollen">Pepper Patch Pollen</a>
-</td>
-<td><b>100%</b>
-</td>
-<td>A random value between <b>x1.03</b>-<b>x1.05</b><br/>Intervals of +0.01<br/>Biased to values near x1.034<br/>Average value: x1.0366
-</td>
-<td><b>2.2275%</b>
-</td>
-<td><b>+0.01</b>
-</td>
-<td><b>3</b>
-</td></tr>
-<tr>
-<td>+<a href="system-page.html#Bubble_Pollen">Bubble Pollen</a>%
-</td>
-<td><b>100%</b>
-</td>
-<td>A random value between <b>+10%</b>-<b>+15%</b><br/>Intervals of +1%<br/>Biased to values near +11%<br/>Average value: +11.74%
-</td>
-<td><b>9.9594%</b>
-</td>
-<td><b>+1%</b>
-</td>
-<td><b>10</b>
-</td></tr></tbody></table>
-
-### Caustic
-
-<table class="wikitable" style="border:2px solid">
-<tbody><tr>
-<td colspan="6"><center>
-All results are rounded to at most 4 decimal digits.</center>
-</td></tr>
-<tr>
-<th rowspan="2">Stat <br/><span style="border-bottom:1px dotted;" title="Stats that can only be upgraded with points from a Caustic Wax. Note that this does not apply to the beequip's base stats.">Caustic Req.</span> 
-</th>
-<th colspan="2"><span style="border-bottom:1px dotted;" title="Stats the beequip can have without using any waxes.">Base</span> 
-</th>
-<th colspan="3"><span style="border-bottom:1px dotted;" title="Stats the beequip can get from using waxes.">Upgrades</span> 
-</th></tr>
-<tr>
-<th><span style="border-bottom:1px dotted;" title="Probabiity of the beequip having the stat without using any waxes. Note that multiple of these stats can be picked.">Chance</span> 
-</th>
-<th><span style="border-bottom:1px dotted;" title="The range of the strength of the stat without using any waxes.">Value</span> 
-</th>
-<th><span style="border-bottom:1px dotted;" title="Probability for the stat to be upgraded from a wax point. Note that a wax point can only pick 1 of the listed stats.">Chance</span> 
-</th>
-<th><span style="border-bottom:1px dotted;" title="The range of how much a wax point can upgrade the stat.">Value</span> 
-</th>
-<th><span style="border-bottom:1px dotted;" title="Limit of how many wax points can upgrade the stat.">Limit</span>
-</th></tr>
-<tr>
-<td>+<a href="system-page.html#Gather_Amount">Gather Amount</a>
-</td>
-<td><b>100%</b>
-</td>
-<td>A random value between <b>+20</b>-<b>+30</b><br/>Intervals of +1<br/>Biased to values near +22<br/>Average value: +23.4943
-</td>
-<td><b>43.1541%</b>
-</td>
-<td>A random value between <b>+2</b>-<b>+3</b><br/>Intervals of +1<br/>Biased to values near +2.04<br/>Average value: +2.1616
-</td>
-<td><b>15</b>
-</td></tr>
-<tr>
-<td>+<a href="system-page.html#Critical_Power">Critical Power</a>%
-</td>
-<td><b>100%</b>
-</td>
-<td>A random value between <b>+50%</b>-<b>+70%</b><br/>Intervals of +1%<br/>Biased to values near +54%<br/>Average value: +57%
-</td>
-<td><b>43.1541%</b>
-</td>
-<td>A random value between <b>+3%</b>-<b>+5%</b><br/>Intervals of +1%<br/>Biased to values near +3.08%<br/>Average value: +3.47%
-</td>
-<td><b>15</b>
-</td></tr>
-<tr>
-<th colspan="7">Hive Bonus
-</th></tr>
-<tr>
-<td>x<a href="system-page.html#Pollen">Pepper Patch Pollen</a>
-</td>
-<td><b>100%</b>
-</td>
-<td>A random value between <b>x1.03</b>-<b>x1.05</b><br/>Intervals of +0.01<br/>Biased to values near x1.034<br/>Average value: x1.0366
-</td>
-<td><b>2.1893%</b>
-</td>
-<td><b>+0.01</b>
-</td>
-<td><b>3</b>
-</td></tr>
-<tr>
-<td>+<a href="system-page.html#Bubble_Pollen">Bubble Pollen</a>%
-</td>
-<td><b>100%</b>
-</td>
-<td>A random value between <b>+10%</b>-<b>+15%</b><br/>Intervals of +1%<br/>Biased to values near +11%<br/>Average value: +11.74%
-</td>
-<td><b>9.7888%</b>
-</td>
-<td><b>+1%</b>
-</td>
-<td><b>10</b>
-</td></tr>
-<tr>
-<td>+<a href="system-page.html#Gold_Bubble_Pollen">Gold Bubble Pollen</a>%<br/><a href="caustic-wax.html"><span class="color-template color-template-caustic-wax">Caustic</span></a> Points Only
-</td>
-<td>-
-</td>
-<td>-
-</td>
-<td><b>1.5579%</b>
-</td>
-<td>A random value between <b>+2%</b>-<b>+3%</b><br/>Intervals of +1%<br/>Biased to values near +2.04%<br/>Average value: +2.16%
-</td>
-<td><b>4</b>
-</td></tr>
-<tr>
-<td>+Honey From Instant Conversion%<br/><a href="caustic-wax.html"><span class="color-template color-template-caustic-wax">Caustic</span></a> Points Only
-</td>
-<td>-
-</td>
-<td>-
-</td>
-<td><b>0.1558%</b>
-</td>
-<td><b>+1%</b>
-</td>
-<td><b>1</b>
-</td></tr></tbody></table>
-
-### 1.5 ★
-
-### Non-Caustic
-
-<table class="wikitable" style="border:2px solid">
-<tbody><tr>
-<td colspan="6"><center>
-All results are rounded to at most 4 decimal digits.</center>
-</td></tr>
-<tr>
-<th rowspan="2">Stat <br/><span style="border-bottom:1px dotted;" title="Stats that can only be upgraded with points from a Caustic Wax. Note that this does not apply to the beequip's base stats.">Caustic Req.</span> 
-</th>
-<th colspan="2"><span style="border-bottom:1px dotted;" title="Stats the beequip can have without using any waxes.">Base</span> 
-</th>
-<th colspan="3"><span style="border-bottom:1px dotted;" title="Stats the beequip can get from using waxes.">Upgrades</span> 
-</th></tr>
-<tr>
-<th><span style="border-bottom:1px dotted;" title="Probabiity of the beequip having the stat without using any waxes. Note that multiple of these stats can be picked.">Chance</span> 
-</th>
-<th><span style="border-bottom:1px dotted;" title="The range of the strength of the stat without using any waxes.">Value</span> 
-</th>
-<th><span style="border-bottom:1px dotted;" title="Probability for the stat to be upgraded from a wax point. Note that a wax point can only pick 1 of the listed stats.">Chance</span> 
-</th>
-<th><span style="border-bottom:1px dotted;" title="The range of how much a wax point can upgrade the stat.">Value</span> 
-</th>
-<th><span style="border-bottom:1px dotted;" title="Limit of how many wax points can upgrade the stat.">Limit</span>
-</th></tr>
-<tr>
-<td>+<a href="system-page.html#Gather_Amount">Gather Amount</a>
-</td>
-<td><b>100%</b>
-</td>
-<td>A random value between <b>+20</b>-<b>+30</b><br/>Intervals of +1<br/>Biased to values near +23<br/>Average value: +23.9965
-</td>
-<td><b>43.3085%</b>
-</td>
-<td>A random value between <b>+2</b>-<b>+3</b><br/>Intervals of +1<br/>Biased to values near +2.09<br/>Average value: +2.1731
-</td>
-<td><b>15</b>
-</td></tr>
-<tr>
-<td>+<a href="system-page.html#Critical_Power">Critical Power</a>%
-</td>
-<td><b>100%</b>
-</td>
-<td>A random value between <b>+50%</b>-<b>+70%</b><br/>Intervals of +1%<br/>Biased to values near +56%<br/>Average value: +58%
-</td>
-<td><b>43.3085%</b>
-</td>
-<td>A random value between <b>+3%</b>-<b>+5%</b><br/>Intervals of +1%<br/>Biased to values near +3.18%<br/>Average value: +3.51%
-</td>
-<td><b>15</b>
-</td></tr>
-<tr>
-<th colspan="7">Hive Bonus
-</th></tr>
-<tr>
-<td>x<a href="system-page.html#Pollen">Pepper Patch Pollen</a>
-</td>
-<td><b>100%</b>
-</td>
-<td>A random value between <b>x1.03</b>-<b>x1.05</b><br/>Intervals of +0.01<br/>Biased to values near x1.036<br/>Average value: x1.0389
-</td>
-<td><b>2.5863%</b>
-</td>
-<td><b>+0.01</b>
-</td>
-<td><b>3</b>
-</td></tr>
-<tr>
-<td>+<a href="system-page.html#Bubble_Pollen">Bubble Pollen</a>%
-</td>
-<td><b>100%</b>
-</td>
-<td>A random value between <b>+10%</b>-<b>+15%</b><br/>Intervals of +1%<br/>Biased to values near +11.5%<br/>Average value: +12.01%
-</td>
-<td><b>10.7966%</b>
-</td>
-<td><b>+1%</b>
-</td>
-<td><b>10</b>
-</td></tr></tbody></table>
-
-### Caustic
-
-<table class="wikitable" style="border:2px solid">
-<tbody><tr>
-<td colspan="6"><center>
-All results are rounded to at most 4 decimal digits.</center>
-</td></tr>
-<tr>
-<th rowspan="2">Stat <br/><span style="border-bottom:1px dotted;" title="Stats that can only be upgraded with points from a Caustic Wax. Note that this does not apply to the beequip's base stats.">Caustic Req.</span> 
-</th>
-<th colspan="2"><span style="border-bottom:1px dotted;" title="Stats the beequip can have without using any waxes.">Base</span> 
-</th>
-<th colspan="3"><span style="border-bottom:1px dotted;" title="Stats the beequip can get from using waxes.">Upgrades</span> 
-</th></tr>
-<tr>
-<th><span style="border-bottom:1px dotted;" title="Probabiity of the beequip having the stat without using any waxes. Note that multiple of these stats can be picked.">Chance</span> 
-</th>
-<th><span style="border-bottom:1px dotted;" title="The range of the strength of the stat without using any waxes.">Value</span> 
-</th>
-<th><span style="border-bottom:1px dotted;" title="Probability for the stat to be upgraded from a wax point. Note that a wax point can only pick 1 of the listed stats.">Chance</span> 
-</th>
-<th><span style="border-bottom:1px dotted;" title="The range of how much a wax point can upgrade the stat.">Value</span> 
-</th>
-<th><span style="border-bottom:1px dotted;" title="Limit of how many wax points can upgrade the stat.">Limit</span>
-</th></tr>
-<tr>
-<td>+<a href="system-page.html#Gather_Amount">Gather Amount</a>
-</td>
-<td><b>100%</b>
-</td>
-<td>A random value between <b>+20</b>-<b>+30</b><br/>Intervals of +1<br/>Biased to values near +23<br/>Average value: +23.9965
-</td>
-<td><b>42.3093%</b>
-</td>
-<td>A random value between <b>+2</b>-<b>+3</b><br/>Intervals of +1<br/>Biased to values near +2.09<br/>Average value: +2.1731
-</td>
-<td><b>15</b>
-</td></tr>
-<tr>
-<td>+<a href="system-page.html#Critical_Power">Critical Power</a>%
-</td>
-<td><b>100%</b>
-</td>
-<td>A random value between <b>+50%</b>-<b>+70%</b><br/>Intervals of +1%<br/>Biased to values near +56%<br/>Average value: +58%
-</td>
-<td><b>42.3093%</b>
-</td>
-<td>A random value between <b>+3%</b>-<b>+5%</b><br/>Intervals of +1%<br/>Biased to values near +3.18%<br/>Average value: +3.51%
-</td>
-<td><b>15</b>
-</td></tr>
-<tr>
-<th colspan="7">Hive Bonus
-</th></tr>
-<tr>
-<td>x<a href="system-page.html#Pollen">Pepper Patch Pollen</a>
-</td>
-<td><b>100%</b>
-</td>
-<td>A random value between <b>x1.03</b>-<b>x1.05</b><br/>Intervals of +0.01<br/>Biased to values near x1.036<br/>Average value: x1.0389
-</td>
-<td><b>2.5266%</b>
-</td>
-<td><b>+0.01</b>
-</td>
-<td><b>3</b>
-</td></tr>
-<tr>
-<td>+<a href="system-page.html#Bubble_Pollen">Bubble Pollen</a>%
-</td>
-<td><b>100%</b>
-</td>
-<td>A random value between <b>+10%</b>-<b>+15%</b><br/>Intervals of +1%<br/>Biased to values near +11.5%<br/>Average value: +12.01%
-</td>
-<td><b>10.5475%</b>
-</td>
-<td><b>+1%</b>
-</td>
-<td><b>10</b>
-</td></tr>
-<tr>
-<td>+<a href="system-page.html#Gold_Bubble_Pollen">Gold Bubble Pollen</a>%<br/><a href="caustic-wax.html"><span class="color-template color-template-caustic-wax">Caustic</span></a> Points Only
-</td>
-<td>-
-</td>
-<td>-
-</td>
-<td><b>2.0976%</b>
-</td>
-<td>A random value between <b>+2%</b>-<b>+3%</b><br/>Intervals of +1%<br/>Biased to values near +2.09%<br/>Average value: +2.17%
-</td>
-<td><b>4</b>
-</td></tr>
-<tr>
-<td>+Honey From Instant Conversion%<br/><a href="caustic-wax.html"><span class="color-template color-template-caustic-wax">Caustic</span></a> Points Only
-</td>
-<td>-
-</td>
-<td>-
-</td>
-<td><b>0.2098%</b>
-</td>
-<td><b>+1%</b>
-</td>
-<td><b>1</b>
-</td></tr></tbody></table>
-
-### 2 ★
-
-### Non-Caustic
-
-<table class="wikitable" style="border:2px solid">
-<tbody><tr>
-<td colspan="6"><center>
-All results are rounded to at most 4 decimal digits.</center>
-</td></tr>
-<tr>
-<th rowspan="2">Stat <br/><span style="border-bottom:1px dotted;" title="Stats that can only be upgraded with points from a Caustic Wax. Note that this does not apply to the beequip's base stats.">Caustic Req.</span> 
-</th>
-<th colspan="2"><span style="border-bottom:1px dotted;" title="Stats the beequip can have without using any waxes.">Base</span> 
-</th>
-<th colspan="3"><span style="border-bottom:1px dotted;" title="Stats the beequip can get from using waxes.">Upgrades</span> 
-</th></tr>
-<tr>
-<th><span style="border-bottom:1px dotted;" title="Probabiity of the beequip having the stat without using any waxes. Note that multiple of these stats can be picked.">Chance</span> 
-</th>
-<th><span style="border-bottom:1px dotted;" title="The range of the strength of the stat without using any waxes.">Value</span> 
-</th>
-<th><span style="border-bottom:1px dotted;" title="Probability for the stat to be upgraded from a wax point. Note that a wax point can only pick 1 of the listed stats.">Chance</span> 
-</th>
-<th><span style="border-bottom:1px dotted;" title="The range of how much a wax point can upgrade the stat.">Value</span> 
-</th>
-<th><span style="border-bottom:1px dotted;" title="Limit of how many wax points can upgrade the stat.">Limit</span>
-</th></tr>
-<tr>
-<td>+<a href="system-page.html#Gather_Amount">Gather Amount</a>
-</td>
-<td><b>100%</b>
-</td>
-<td>A random value between <b>+20</b>-<b>+30</b><br/>Intervals of +1<br/>Biased to values near +24<br/>Average value: +24.4983
-</td>
-<td><b>42.6212%</b>
-</td>
-<td>A random value between <b>+2</b>-<b>+3</b><br/>Intervals of +1<br/>Biased to values near +2.16<br/>Average value: +2.1925
-</td>
-<td><b>15</b>
-</td></tr>
-<tr>
-<td>+<a href="system-page.html#Critical_Power">Critical Power</a>%
-</td>
-<td><b>100%</b>
-</td>
-<td>A random value between <b>+50%</b>-<b>+70%</b><br/>Intervals of +1%<br/>Biased to values near +58%<br/>Average value: +59%
-</td>
-<td><b>42.6212%</b>
-</td>
-<td>A random value between <b>+3%</b>-<b>+5%</b><br/>Intervals of +1%<br/>Biased to values near +3.32%<br/>Average value: +3.59%
-</td>
-<td><b>15</b>
-</td></tr>
-<tr>
-<th colspan="7">Hive Bonus
-</th></tr>
-<tr>
-<td>x<a href="system-page.html#Pollen">Pepper Patch Pollen</a>
-</td>
-<td><b>100%</b>
-</td>
-<td>A random value between <b>x1.03</b>-<b>x1.05</b><br/>Intervals of +0.01<br/>Biased to values near x1.038<br/>Average value: x1.0396
-</td>
-<td><b>2.9987%</b>
-</td>
-<td><b>+0.01</b>
-</td>
-<td><b>3</b>
-</td></tr>
-<tr>
-<td>+<a href="system-page.html#Bubble_Pollen">Bubble Pollen</a>%
-</td>
-<td><b>100%</b>
-</td>
-<td>A random value between <b>+10%</b>-<b>+15%</b><br/>Intervals of +1%<br/>Biased to values near +12%<br/>Average value: +12.25%
-</td>
-<td><b>11.759%</b>
-</td>
-<td><b>+1%</b>
-</td>
-<td><b>10</b>
-</td></tr></tbody></table>
-
-### Caustic
-
-<table class="wikitable" style="border:2px solid">
-<tbody><tr>
-<td colspan="6"><center>
-All results are rounded to at most 4 decimal digits.</center>
-</td></tr>
-<tr>
-<th rowspan="2">Stat <br/><span style="border-bottom:1px dotted;" title="Stats that can only be upgraded with points from a Caustic Wax. Note that this does not apply to the beequip's base stats.">Caustic Req.</span> 
-</th>
-<th colspan="2"><span style="border-bottom:1px dotted;" title="Stats the beequip can have without using any waxes.">Base</span> 
-</th>
-<th colspan="3"><span style="border-bottom:1px dotted;" title="Stats the beequip can get from using waxes.">Upgrades</span> 
-</th></tr>
-<tr>
-<th><span style="border-bottom:1px dotted;" title="Probabiity of the beequip having the stat without using any waxes. Note that multiple of these stats can be picked.">Chance</span> 
-</th>
-<th><span style="border-bottom:1px dotted;" title="The range of the strength of the stat without using any waxes.">Value</span> 
-</th>
-<th><span style="border-bottom:1px dotted;" title="Probability for the stat to be upgraded from a wax point. Note that a wax point can only pick 1 of the listed stats.">Chance</span> 
-</th>
-<th><span style="border-bottom:1px dotted;" title="The range of how much a wax point can upgrade the stat.">Value</span> 
-</th>
-<th><span style="border-bottom:1px dotted;" title="Limit of how many wax points can upgrade the stat.">Limit</span>
-</th></tr>
-<tr>
-<td>+<a href="system-page.html#Gather_Amount">Gather Amount</a>
-</td>
-<td><b>100%</b>
-</td>
-<td>A random value between <b>+20</b>-<b>+30</b><br/>Intervals of +1<br/>Biased to values near +24<br/>Average value: +24.4983
-</td>
-<td><b>41.3506%</b>
-</td>
-<td>A random value between <b>+2</b>-<b>+3</b><br/>Intervals of +1<br/>Biased to values near +2.16<br/>Average value: +2.1925
-</td>
-<td><b>15</b>
-</td></tr>
-<tr>
-<td>+<a href="system-page.html#Critical_Power">Critical Power</a>%
-</td>
-<td><b>100%</b>
-</td>
-<td>A random value between <b>+50%</b>-<b>+70%</b><br/>Intervals of +1%<br/>Biased to values near +58%<br/>Average value: +59%
-</td>
-<td><b>41.3506%</b>
-</td>
-<td>A random value between <b>+3%</b>-<b>+5%</b><br/>Intervals of +1%<br/>Biased to values near +3.32%<br/>Average value: +3.59%
-</td>
-<td><b>15</b>
-</td></tr>
-<tr>
-<th colspan="7">Hive Bonus
-</th></tr>
-<tr>
-<td>x<a href="system-page.html#Pollen">Pepper Patch Pollen</a>
-</td>
-<td><b>100%</b>
-</td>
-<td>A random value between <b>x1.03</b>-<b>x1.05</b><br/>Intervals of +0.01<br/>Biased to values near x1.038<br/>Average value: x1.0396
-</td>
-<td><b>2.9093%</b>
-</td>
-<td><b>+0.01</b>
-</td>
-<td><b>3</b>
-</td></tr>
-<tr>
-<td>+<a href="system-page.html#Bubble_Pollen">Bubble Pollen</a>%
-</td>
-<td><b>100%</b>
-</td>
-<td>A random value between <b>+10%</b>-<b>+15%</b><br/>Intervals of +1%<br/>Biased to values near +12%<br/>Average value: +12.25%
-</td>
-<td><b>11.4084%</b>
-</td>
-<td><b>+1%</b>
-</td>
-<td><b>10</b>
-</td></tr>
-<tr>
-<td>+<a href="system-page.html#Gold_Bubble_Pollen">Gold Bubble Pollen</a>%<br/><a href="caustic-wax.html"><span class="color-template color-template-caustic-wax">Caustic</span></a> Points Only
-</td>
-<td>-
-</td>
-<td>-
-</td>
-<td><b>2.71%</b>
-</td>
-<td>A random value between <b>+2%</b>-<b>+3%</b><br/>Intervals of +1%<br/>Biased to values near +2.16%<br/>Average value: +2.19%
-</td>
-<td><b>4</b>
-</td></tr>
-<tr>
-<td>+Honey From Instant Conversion%<br/><a href="caustic-wax.html"><span class="color-template color-template-caustic-wax">Caustic</span></a> Points Only
-</td>
-<td>-
-</td>
-<td>-
-</td>
-<td><b>0.271%</b>
-</td>
-<td><b>+1%</b>
-</td>
-<td><b>1</b>
-</td></tr></tbody></table>
-
-### 2.5 ★
-
-### Non-Caustic
-
-<table class="wikitable" style="border:2px solid">
-<tbody><tr>
-<td colspan="6"><center>
-All results are rounded to at most 4 decimal digits.</center>
-</td></tr>
-<tr>
-<th rowspan="2">Stat <br/><span style="border-bottom:1px dotted;" title="Stats that can only be upgraded with points from a Caustic Wax. Note that this does not apply to the beequip's base stats.">Caustic Req.</span> 
-</th>
-<th colspan="2"><span style="border-bottom:1px dotted;" title="Stats the beequip can have without using any waxes.">Base</span> 
-</th>
-<th colspan="3"><span style="border-bottom:1px dotted;" title="Stats the beequip can get from using waxes.">Upgrades</span> 
-</th></tr>
-<tr>
-<th><span style="border-bottom:1px dotted;" title="Probabiity of the beequip having the stat without using any waxes. Note that multiple of these stats can be picked.">Chance</span> 
-</th>
-<th><span style="border-bottom:1px dotted;" title="The range of the strength of the stat without using any waxes.">Value</span> 
-</th>
-<th><span style="border-bottom:1px dotted;" title="Probability for the stat to be upgraded from a wax point. Note that a wax point can only pick 1 of the listed stats.">Chance</span> 
-</th>
-<th><span style="border-bottom:1px dotted;" title="The range of how much a wax point can upgrade the stat.">Value</span> 
-</th>
-<th><span style="border-bottom:1px dotted;" title="Limit of how many wax points can upgrade the stat.">Limit</span>
-</th></tr>
-<tr>
-<td>+<a href="system-page.html#Gather_Amount">Gather Amount</a>
-</td>
-<td><b>100%</b>
-</td>
-<td>A random value between <b>+20</b>-<b>+30</b><br/>Intervals of +1<br/>Biased to values near +25<br/>Average value: +25
-</td>
-<td><b>41.8674%</b>
-</td>
-<td>A random value between <b>+2</b>-<b>+3</b><br/>Intervals of +1<br/>Biased to values near +2.25<br/>Average value: +2.2253
-</td>
-<td><b>15</b>
-</td></tr>
-<tr>
-<td>+<a href="system-page.html#Critical_Power">Critical Power</a>%
-</td>
-<td><b>100%</b>
-</td>
-<td>A random value between <b>+50%</b>-<b>+70%</b><br/>Intervals of +1%<br/>Biased to values near +60%<br/>Average value: +60%
-</td>
-<td><b>41.8674%</b>
-</td>
-<td>A random value between <b>+3%</b>-<b>+5%</b><br/>Intervals of +1%<br/>Biased to values near +3.5%<br/>Average value: +3.8%
-</td>
-<td><b>15</b>
-</td></tr>
-<tr>
-<th colspan="7">Hive Bonus
-</th></tr>
-<tr>
-<td>x<a href="system-page.html#Pollen">Pepper Patch Pollen</a>
-</td>
-<td><b>100%</b>
-</td>
-<td>A random value between <b>x1.03</b>-<b>x1.05</b><br/>Intervals of +0.01<br/>Biased to values near x1.04<br/>Average value: x1.04
-</td>
-<td><b>3.451%</b>
-</td>
-<td><b>+0.01</b>
-</td>
-<td><b>3</b>
-</td></tr>
-<tr>
-<td>+<a href="system-page.html#Bubble_Pollen">Bubble Pollen</a>%
-</td>
-<td><b>100%</b>
-</td>
-<td>A random value between <b>+10%</b>-<b>+15%</b><br/>Intervals of +1%<br/>Biased to values near +12.5%<br/>Average value: +12.5%
-</td>
-<td><b>12.8142%</b>
-</td>
-<td><b>+1%</b>
-</td>
-<td><b>10</b>
-</td></tr></tbody></table>
-
-### Caustic
-
-<table class="wikitable" style="border:2px solid">
-<tbody><tr>
-<td colspan="6"><center>
-All results are rounded to at most 4 decimal digits.</center>
-</td></tr>
-<tr>
-<th rowspan="2">Stat <br/><span style="border-bottom:1px dotted;" title="Stats that can only be upgraded with points from a Caustic Wax. Note that this does not apply to the beequip's base stats.">Caustic Req.</span> 
-</th>
-<th colspan="2"><span style="border-bottom:1px dotted;" title="Stats the beequip can have without using any waxes.">Base</span> 
-</th>
-<th colspan="3"><span style="border-bottom:1px dotted;" title="Stats the beequip can get from using waxes.">Upgrades</span> 
-</th></tr>
-<tr>
-<th><span style="border-bottom:1px dotted;" title="Probabiity of the beequip having the stat without using any waxes. Note that multiple of these stats can be picked.">Chance</span> 
-</th>
-<th><span style="border-bottom:1px dotted;" title="The range of the strength of the stat without using any waxes.">Value</span> 
-</th>
-<th><span style="border-bottom:1px dotted;" title="Probability for the stat to be upgraded from a wax point. Note that a wax point can only pick 1 of the listed stats.">Chance</span> 
-</th>
-<th><span style="border-bottom:1px dotted;" title="The range of how much a wax point can upgrade the stat.">Value</span> 
-</th>
-<th><span style="border-bottom:1px dotted;" title="Limit of how many wax points can upgrade the stat.">Limit</span>
-</th></tr>
-<tr>
-<td>+<a href="system-page.html#Gather_Amount">Gather Amount</a>
-</td>
-<td><b>100%</b>
-</td>
-<td>A random value between <b>+20</b>-<b>+30</b><br/>Intervals of +1<br/>Biased to values near +25<br/>Average value: +25
-</td>
-<td><b>40.3145%</b>
-</td>
-<td>A random value between <b>+2</b>-<b>+3</b><br/>Intervals of +1<br/>Biased to values near +2.25<br/>Average value: +2.2253
-</td>
-<td><b>15</b>
-</td></tr>
-<tr>
-<td>+<a href="system-page.html#Critical_Power">Critical Power</a>%
-</td>
-<td><b>100%</b>
-</td>
-<td>A random value between <b>+50%</b>-<b>+70%</b><br/>Intervals of +1%<br/>Biased to values near +60%<br/>Average value: +60%
-</td>
-<td><b>40.3145%</b>
-</td>
-<td>A random value between <b>+3%</b>-<b>+5%</b><br/>Intervals of +1%<br/>Biased to values near +3.5%<br/>Average value: +3.8%
-</td>
-<td><b>15</b>
-</td></tr>
-<tr>
-<th colspan="7">Hive Bonus
-</th></tr>
-<tr>
-<td>x<a href="system-page.html#Pollen">Pepper Patch Pollen</a>
-</td>
-<td><b>100%</b>
-</td>
-<td>A random value between <b>x1.03</b>-<b>x1.05</b><br/>Intervals of +0.01<br/>Biased to values near x1.04<br/>Average value: x1.04
-</td>
-<td><b>3.323%</b>
-</td>
-<td><b>+0.01</b>
-</td>
-<td><b>3</b>
-</td></tr>
-<tr>
-<td>+<a href="system-page.html#Bubble_Pollen">Bubble Pollen</a>%
-</td>
-<td><b>100%</b>
-</td>
-<td>A random value between <b>+10%</b>-<b>+15%</b><br/>Intervals of +1%<br/>Biased to values near +12.5%<br/>Average value: +12.5%
-</td>
-<td><b>12.3389%</b>
-</td>
-<td><b>+1%</b>
-</td>
-<td><b>10</b>
-</td></tr>
-<tr>
-<td>+<a href="system-page.html#Gold_Bubble_Pollen">Gold Bubble Pollen</a>%<br/><a href="caustic-wax.html"><span class="color-template color-template-caustic-wax">Caustic</span></a> Points Only
-</td>
-<td>-
-</td>
-<td>-
-</td>
-<td><b>3.3719%</b>
-</td>
-<td>A random value between <b>+2%</b>-<b>+3%</b><br/>Intervals of +1%<br/>Biased to values near +2.25%<br/>Average value: +2.23%
-</td>
-<td><b>4</b>
-</td></tr>
-<tr>
-<td>+Honey From Instant Conversion%<br/><a href="caustic-wax.html"><span class="color-template color-template-caustic-wax">Caustic</span></a> Points Only
-</td>
-<td>-
-</td>
-<td>-
-</td>
-<td><b>0.3372%</b>
-</td>
-<td><b>+1%</b>
-</td>
-<td><b>1</b>
-</td></tr></tbody></table>
-
-### 3 ★
-
-### Non-Caustic
-
-<table class="wikitable" style="border:2px solid">
-<tbody><tr>
-<td colspan="6"><center>
-All results are rounded to at most 4 decimal digits.</center>
-</td></tr>
-<tr>
-<th rowspan="2">Stat <br/><span style="border-bottom:1px dotted;" title="Stats that can only be upgraded with points from a Caustic Wax. Note that this does not apply to the beequip's base stats.">Caustic Req.</span> 
-</th>
-<th colspan="2"><span style="border-bottom:1px dotted;" title="Stats the beequip can have without using any waxes.">Base</span> 
-</th>
-<th colspan="3"><span style="border-bottom:1px dotted;" title="Stats the beequip can get from using waxes.">Upgrades</span> 
-</th></tr>
-<tr>
-<th><span style="border-bottom:1px dotted;" title="Probabiity of the beequip having the stat without using any waxes. Note that multiple of these stats can be picked.">Chance</span> 
-</th>
-<th><span style="border-bottom:1px dotted;" title="The range of the strength of the stat without using any waxes.">Value</span> 
-</th>
-<th><span style="border-bottom:1px dotted;" title="Probability for the stat to be upgraded from a wax point. Note that a wax point can only pick 1 of the listed stats.">Chance</span> 
-</th>
-<th><span style="border-bottom:1px dotted;" title="The range of how much a wax point can upgrade the stat.">Value</span> 
-</th>
-<th><span style="border-bottom:1px dotted;" title="Limit of how many wax points can upgrade the stat.">Limit</span>
-</th></tr>
-<tr>
-<td>+<a href="system-page.html#Gather_Amount">Gather Amount</a>
-</td>
-<td><b>100%</b>
-</td>
-<td>A random value between <b>+20</b>-<b>+30</b><br/>Intervals of +1<br/>Biased to values near +26<br/>Average value: +25.5017
-</td>
-<td><b>41.0644%</b>
-</td>
-<td>A random value between <b>+2</b>-<b>+3</b><br/>Intervals of +1<br/>Biased to values near +2.36<br/>Average value: +2.2872
-</td>
-<td><b>15</b>
-</td></tr>
-<tr>
-<td>+<a href="system-page.html#Critical_Power">Critical Power</a>%
-</td>
-<td><b>100%</b>
-</td>
-<td>A random value between <b>+50%</b>-<b>+70%</b><br/>Intervals of +1%<br/>Biased to values near +62%<br/>Average value: +61%
-</td>
-<td><b>41.0644%</b>
-</td>
-<td>A random value between <b>+3%</b>-<b>+5%</b><br/>Intervals of +1%<br/>Biased to values near +3.72%<br/>Average value: +3.94%
-</td>
-<td><b>15</b>
-</td></tr>
-<tr>
-<th colspan="7">Hive Bonus
-</th></tr>
-<tr>
-<td>x<a href="system-page.html#Pollen">Pepper Patch Pollen</a>
-</td>
-<td><b>100%</b>
-</td>
-<td>A random value between <b>x1.03</b>-<b>x1.05</b><br/>Intervals of +0.01<br/>Biased to values near x1.042<br/>Average value: x1.0404
-</td>
-<td><b>3.9328%</b>
-</td>
-<td><b>+0.01</b>
-</td>
-<td><b>3</b>
-</td></tr>
-<tr>
-<td>+<a href="system-page.html#Bubble_Pollen">Bubble Pollen</a>%
-</td>
-<td><b>100%</b>
-</td>
-<td>A random value between <b>+10%</b>-<b>+15%</b><br/>Intervals of +1%<br/>Biased to values near +13%<br/>Average value: +12.75%
-</td>
-<td><b>13.9384%</b>
-</td>
-<td><b>+1%</b>
-</td>
-<td><b>10</b>
-</td></tr></tbody></table>
-
-### Caustic
-
-<table class="wikitable" style="border:2px solid">
-<tbody><tr>
-<td colspan="6"><center>
-All results are rounded to at most 4 decimal digits.</center>
-</td></tr>
-<tr>
-<th rowspan="2">Stat <br/><span style="border-bottom:1px dotted;" title="Stats that can only be upgraded with points from a Caustic Wax. Note that this does not apply to the beequip's base stats.">Caustic Req.</span> 
-</th>
-<th colspan="2"><span style="border-bottom:1px dotted;" title="Stats the beequip can have without using any waxes.">Base</span> 
-</th>
-<th colspan="3"><span style="border-bottom:1px dotted;" title="Stats the beequip can get from using waxes.">Upgrades</span> 
-</th></tr>
-<tr>
-<th><span style="border-bottom:1px dotted;" title="Probabiity of the beequip having the stat without using any waxes. Note that multiple of these stats can be picked.">Chance</span> 
-</th>
-<th><span style="border-bottom:1px dotted;" title="The range of the strength of the stat without using any waxes.">Value</span> 
-</th>
-<th><span style="border-bottom:1px dotted;" title="Probability for the stat to be upgraded from a wax point. Note that a wax point can only pick 1 of the listed stats.">Chance</span> 
-</th>
-<th><span style="border-bottom:1px dotted;" title="The range of how much a wax point can upgrade the stat.">Value</span> 
-</th>
-<th><span style="border-bottom:1px dotted;" title="Limit of how many wax points can upgrade the stat.">Limit</span>
-</th></tr>
-<tr>
-<td>+<a href="system-page.html#Gather_Amount">Gather Amount</a>
-</td>
-<td><b>100%</b>
-</td>
-<td>A random value between <b>+20</b>-<b>+30</b><br/>Intervals of +1<br/>Biased to values near +26<br/>Average value: +25.5017
-</td>
-<td><b>39.2277%</b>
-</td>
-<td>A random value between <b>+2</b>-<b>+3</b><br/>Intervals of +1<br/>Biased to values near +2.36<br/>Average value: +2.2872
-</td>
-<td><b>15</b>
-</td></tr>
-<tr>
-<td>+<a href="system-page.html#Critical_Power">Critical Power</a>%
-</td>
-<td><b>100%</b>
-</td>
-<td>A random value between <b>+50%</b>-<b>+70%</b><br/>Intervals of +1%<br/>Biased to values near +62%<br/>Average value: +61%
-</td>
-<td><b>39.2277%</b>
-</td>
-<td>A random value between <b>+3%</b>-<b>+5%</b><br/>Intervals of +1%<br/>Biased to values near +3.72%<br/>Average value: +3.94%
-</td>
-<td><b>15</b>
-</td></tr>
-<tr>
-<th colspan="7">Hive Bonus
-</th></tr>
-<tr>
-<td>x<a href="system-page.html#Pollen">Pepper Patch Pollen</a>
-</td>
-<td><b>100%</b>
-</td>
-<td>A random value between <b>x1.03</b>-<b>x1.05</b><br/>Intervals of +0.01<br/>Biased to values near x1.042<br/>Average value: x1.0404
-</td>
-<td><b>3.7569%</b>
-</td>
-<td><b>+0.01</b>
-</td>
-<td><b>3</b>
-</td></tr>
-<tr>
-<td>+<a href="system-page.html#Bubble_Pollen">Bubble Pollen</a>%
-</td>
-<td><b>100%</b>
-</td>
-<td>A random value between <b>+10%</b>-<b>+15%</b><br/>Intervals of +1%<br/>Biased to values near +13%<br/>Average value: +12.75%
-</td>
-<td><b>13.3149%</b>
-</td>
-<td><b>+1%</b>
-</td>
-<td><b>10</b>
-</td></tr>
-<tr>
-<td>+<a href="system-page.html#Gold_Bubble_Pollen">Gold Bubble Pollen</a>%<br/><a href="caustic-wax.html"><span class="color-template color-template-caustic-wax">Caustic</span></a> Points Only
-</td>
-<td>-
-</td>
-<td>-
-</td>
-<td><b>4.0662%</b>
-</td>
-<td>A random value between <b>+2%</b>-<b>+3%</b><br/>Intervals of +1%<br/>Biased to values near +2.36%<br/>Average value: +2.29%
-</td>
-<td><b>4</b>
-</td></tr>
-<tr>
-<td>+Honey From Instant Conversion%<br/><a href="caustic-wax.html"><span class="color-template color-template-caustic-wax">Caustic</span></a> Points Only
-</td>
-<td>-
-</td>
-<td>-
-</td>
-<td><b>0.4066%</b>
-</td>
-<td><b>+1%</b>
-</td>
-<td><b>1</b>
-</td></tr></tbody></table>
-
-### 3.5 ★
-
-### Non-Caustic
-
-<table class="wikitable" style="border:2px solid">
-<tbody><tr>
-<td colspan="6"><center>
-All results are rounded to at most 4 decimal digits.</center>
-</td></tr>
-<tr>
-<th rowspan="2">Stat <br/><span style="border-bottom:1px dotted;" title="Stats that can only be upgraded with points from a Caustic Wax. Note that this does not apply to the beequip's base stats.">Caustic Req.</span> 
-</th>
-<th colspan="2"><span style="border-bottom:1px dotted;" title="Stats the beequip can have without using any waxes.">Base</span> 
-</th>
-<th colspan="3"><span style="border-bottom:1px dotted;" title="Stats the beequip can get from using waxes.">Upgrades</span> 
-</th></tr>
-<tr>
-<th><span style="border-bottom:1px dotted;" title="Probabiity of the beequip having the stat without using any waxes. Note that multiple of these stats can be picked.">Chance</span> 
-</th>
-<th><span style="border-bottom:1px dotted;" title="The range of the strength of the stat without using any waxes.">Value</span> 
-</th>
-<th><span style="border-bottom:1px dotted;" title="Probability for the stat to be upgraded from a wax point. Note that a wax point can only pick 1 of the listed stats.">Chance</span> 
-</th>
-<th><span style="border-bottom:1px dotted;" title="The range of how much a wax point can upgrade the stat.">Value</span> 
-</th>
-<th><span style="border-bottom:1px dotted;" title="Limit of how many wax points can upgrade the stat.">Limit</span>
-</th></tr>
-<tr>
-<td>+<a href="system-page.html#Gather_Amount">Gather Amount</a>
-</td>
-<td><b>100%</b>
-</td>
-<td>A random value between <b>+20</b>-<b>+30</b><br/>Intervals of +1<br/>Biased to values near +27<br/>Average value: +26.0035
-</td>
-<td><b>40.2256%</b>
-</td>
-<td>A random value between <b>+2</b>-<b>+3</b><br/>Intervals of +1<br/>Biased to values near +2.49<br/>Average value: +2.4607
-</td>
-<td><b>15</b>
-</td></tr>
-<tr>
-<td>+<a href="system-page.html#Critical_Power">Critical Power</a>%
-</td>
-<td><b>100%</b>
-</td>
-<td>A random value between <b>+50%</b>-<b>+70%</b><br/>Intervals of +1%<br/>Biased to values near +64%<br/>Average value: +62%
-</td>
-<td><b>40.2256%</b>
-</td>
-<td>A random value between <b>+3%</b>-<b>+5%</b><br/>Intervals of +1%<br/>Biased to values near +3.98%<br/>Average value: +4%
-</td>
-<td><b>15</b>
-</td></tr>
-<tr>
-<th colspan="7">Hive Bonus
-</th></tr>
-<tr>
-<td>x<a href="system-page.html#Pollen">Pepper Patch Pollen</a>
-</td>
-<td><b>100%</b>
-</td>
-<td>A random value between <b>x1.03</b>-<b>x1.05</b><br/>Intervals of +0.01<br/>Biased to values near x1.044<br/>Average value: x1.0411
-</td>
-<td><b>4.4361%</b>
-</td>
-<td><b>+0.01</b>
-</td>
-<td><b>3</b>
-</td></tr>
-<tr>
-<td>+<a href="system-page.html#Bubble_Pollen">Bubble Pollen</a>%
-</td>
-<td><b>100%</b>
-</td>
-<td>A random value between <b>+10%</b>-<b>+15%</b><br/>Intervals of +1%<br/>Biased to values near +13.5%<br/>Average value: +12.99%
-</td>
-<td><b>15.1127%</b>
-</td>
-<td><b>+1%</b>
-</td>
-<td><b>10</b>
-</td></tr></tbody></table>
-
-### Caustic
-
-<table class="wikitable" style="border:2px solid">
-<tbody><tr>
-<td colspan="6"><center>
-All results are rounded to at most 4 decimal digits.</center>
-</td></tr>
-<tr>
-<th rowspan="2">Stat <br/><span style="border-bottom:1px dotted;" title="Stats that can only be upgraded with points from a Caustic Wax. Note that this does not apply to the beequip's base stats.">Caustic Req.</span> 
-</th>
-<th colspan="2"><span style="border-bottom:1px dotted;" title="Stats the beequip can have without using any waxes.">Base</span> 
-</th>
-<th colspan="3"><span style="border-bottom:1px dotted;" title="Stats the beequip can get from using waxes.">Upgrades</span> 
-</th></tr>
-<tr>
-<th><span style="border-bottom:1px dotted;" title="Probabiity of the beequip having the stat without using any waxes. Note that multiple of these stats can be picked.">Chance</span> 
-</th>
-<th><span style="border-bottom:1px dotted;" title="The range of the strength of the stat without using any waxes.">Value</span> 
-</th>
-<th><span style="border-bottom:1px dotted;" title="Probability for the stat to be upgraded from a wax point. Note that a wax point can only pick 1 of the listed stats.">Chance</span> 
-</th>
-<th><span style="border-bottom:1px dotted;" title="The range of how much a wax point can upgrade the stat.">Value</span> 
-</th>
-<th><span style="border-bottom:1px dotted;" title="Limit of how many wax points can upgrade the stat.">Limit</span>
-</th></tr>
-<tr>
-<td>+<a href="system-page.html#Gather_Amount">Gather Amount</a>
-</td>
-<td><b>100%</b>
-</td>
-<td>A random value between <b>+20</b>-<b>+30</b><br/>Intervals of +1<br/>Biased to values near +27<br/>Average value: +26.0035
-</td>
-<td><b>38.1106%</b>
-</td>
-<td>A random value between <b>+2</b>-<b>+3</b><br/>Intervals of +1<br/>Biased to values near +2.49<br/>Average value: +2.4607
-</td>
-<td><b>15</b>
-</td></tr>
-<tr>
-<td>+<a href="system-page.html#Critical_Power">Critical Power</a>%
-</td>
-<td><b>100%</b>
-</td>
-<td>A random value between <b>+50%</b>-<b>+70%</b><br/>Intervals of +1%<br/>Biased to values near +64%<br/>Average value: +62%
-</td>
-<td><b>38.1106%</b>
-</td>
-<td>A random value between <b>+3%</b>-<b>+5%</b><br/>Intervals of +1%<br/>Biased to values near +3.98%<br/>Average value: +4%
-</td>
-<td><b>15</b>
-</td></tr>
-<tr>
-<th colspan="7">Hive Bonus
-</th></tr>
-<tr>
-<td>x<a href="system-page.html#Pollen">Pepper Patch Pollen</a>
-</td>
-<td><b>100%</b>
-</td>
-<td>A random value between <b>x1.03</b>-<b>x1.05</b><br/>Intervals of +0.01<br/>Biased to values near x1.044<br/>Average value: x1.0411
-</td>
-<td><b>4.2028%</b>
-</td>
-<td><b>+0.01</b>
-</td>
-<td><b>3</b>
-</td></tr>
-<tr>
-<td>+<a href="system-page.html#Bubble_Pollen">Bubble Pollen</a>%
-</td>
-<td><b>100%</b>
-</td>
-<td>A random value between <b>+10%</b>-<b>+15%</b><br/>Intervals of +1%<br/>Biased to values near +13.5%<br/>Average value: +12.99%
-</td>
-<td><b>14.3181%</b>
-</td>
-<td><b>+1%</b>
-</td>
-<td><b>10</b>
-</td></tr>
-<tr>
-<td>+<a href="system-page.html#Gold_Bubble_Pollen">Gold Bubble Pollen</a>%<br/><a href="caustic-wax.html"><span class="color-template color-template-caustic-wax">Caustic</span></a> Points Only
-</td>
-<td>-
-</td>
-<td>-
-</td>
-<td><b>4.7798%</b>
-</td>
-<td>A random value between <b>+2%</b>-<b>+3%</b><br/>Intervals of +1%<br/>Biased to values near +2.49%<br/>Average value: +2.46%
-</td>
-<td><b>4</b>
-</td></tr>
-<tr>
-<td>+Honey From Instant Conversion%<br/><a href="caustic-wax.html"><span class="color-template color-template-caustic-wax">Caustic</span></a> Points Only
-</td>
-<td>-
-</td>
-<td>-
-</td>
-<td><b>0.478%</b>
-</td>
-<td><b>+1%</b>
-</td>
-<td><b>1</b>
-</td></tr></tbody></table>
-
-### 4 ★
-
-### Non-Caustic
-
-<table class="wikitable" style="border:2px solid">
-<tbody><tr>
-<td colspan="6"><center>
-All results are rounded to at most 4 decimal digits.</center>
-</td></tr>
-<tr>
-<th rowspan="2">Stat <br/><span style="border-bottom:1px dotted;" title="Stats that can only be upgraded with points from a Caustic Wax. Note that this does not apply to the beequip's base stats.">Caustic Req.</span> 
-</th>
-<th colspan="2"><span style="border-bottom:1px dotted;" title="Stats the beequip can have without using any waxes.">Base</span> 
-</th>
-<th colspan="3"><span style="border-bottom:1px dotted;" title="Stats the beequip can get from using waxes.">Upgrades</span> 
-</th></tr>
-<tr>
-<th><span style="border-bottom:1px dotted;" title="Probabiity of the beequip having the stat without using any waxes. Note that multiple of these stats can be picked.">Chance</span> 
-</th>
-<th><span style="border-bottom:1px dotted;" title="The range of the strength of the stat without using any waxes.">Value</span> 
-</th>
-<th><span style="border-bottom:1px dotted;" title="Probability for the stat to be upgraded from a wax point. Note that a wax point can only pick 1 of the listed stats.">Chance</span> 
-</th>
-<th><span style="border-bottom:1px dotted;" title="The range of how much a wax point can upgrade the stat.">Value</span> 
-</th>
-<th><span style="border-bottom:1px dotted;" title="Limit of how many wax points can upgrade the stat.">Limit</span>
-</th></tr>
-<tr>
-<td>+<a href="system-page.html#Gather_Amount">Gather Amount</a>
-</td>
-<td><b>100%</b>
-</td>
-<td>A random value between <b>+20</b>-<b>+30</b><br/>Intervals of +1<br/>Biased to values near +28<br/>Average value: +26.5057
-</td>
-<td><b>39.3619%</b>
-</td>
-<td>A random value between <b>+2</b>-<b>+3</b><br/>Intervals of +1<br/>Biased to values near +2.64<br/>Average value: +2.7128
-</td>
-<td><b>15</b>
-</td></tr>
-<tr>
-<td>+<a href="system-page.html#Critical_Power">Critical Power</a>%
-</td>
-<td><b>100%</b>
-</td>
-<td>A random value between <b>+50%</b>-<b>+70%</b><br/>Intervals of +1%<br/>Biased to values near +66%<br/>Average value: +63%
-</td>
-<td><b>39.3619%</b>
-</td>
-<td>A random value between <b>+3%</b>-<b>+5%</b><br/>Intervals of +1%<br/>Biased to values near +4.28%<br/>Average value: +4.06%
-</td>
-<td><b>15</b>
-</td></tr>
-<tr>
-<th colspan="7">Hive Bonus
-</th></tr>
-<tr>
-<td>x<a href="system-page.html#Pollen">Pepper Patch Pollen</a>
-</td>
-<td><b>100%</b>
-</td>
-<td>A random value between <b>x1.03</b>-<b>x1.05</b><br/>Intervals of +0.01<br/>Biased to values near x1.046<br/>Average value: x1.0434
-</td>
-<td><b>4.9543%</b>
-</td>
-<td><b>+0.01</b>
-</td>
-<td><b>3</b>
-</td></tr>
-<tr>
-<td>+<a href="system-page.html#Bubble_Pollen">Bubble Pollen</a>%
-</td>
-<td><b>100%</b>
-</td>
-<td>A random value between <b>+10%</b>-<b>+15%</b><br/>Intervals of +1%<br/>Biased to values near +14%<br/>Average value: +13.26%
-</td>
-<td><b>16.3219%</b>
-</td>
-<td><b>+1%</b>
-</td>
-<td><b>10</b>
-</td></tr></tbody></table>
-
-### Caustic
-
-<table class="wikitable" style="border:2px solid">
-<tbody><tr>
-<td colspan="6"><center>
-All results are rounded to at most 4 decimal digits.</center>
-</td></tr>
-<tr>
-<th rowspan="2">Stat <br/><span style="border-bottom:1px dotted;" title="Stats that can only be upgraded with points from a Caustic Wax. Note that this does not apply to the beequip's base stats.">Caustic Req.</span> 
-</th>
-<th colspan="2"><span style="border-bottom:1px dotted;" title="Stats the beequip can have without using any waxes.">Base</span> 
-</th>
-<th colspan="3"><span style="border-bottom:1px dotted;" title="Stats the beequip can get from using waxes.">Upgrades</span> 
-</th></tr>
-<tr>
-<th><span style="border-bottom:1px dotted;" title="Probabiity of the beequip having the stat without using any waxes. Note that multiple of these stats can be picked.">Chance</span> 
-</th>
-<th><span style="border-bottom:1px dotted;" title="The range of the strength of the stat without using any waxes.">Value</span> 
-</th>
-<th><span style="border-bottom:1px dotted;" title="Probability for the stat to be upgraded from a wax point. Note that a wax point can only pick 1 of the listed stats.">Chance</span> 
-</th>
-<th><span style="border-bottom:1px dotted;" title="The range of how much a wax point can upgrade the stat.">Value</span> 
-</th>
-<th><span style="border-bottom:1px dotted;" title="Limit of how many wax points can upgrade the stat.">Limit</span>
-</th></tr>
-<tr>
-<td>+<a href="system-page.html#Gather_Amount">Gather Amount</a>
-</td>
-<td><b>100%</b>
-</td>
-<td>A random value between <b>+20</b>-<b>+30</b><br/>Intervals of +1<br/>Biased to values near +28<br/>Average value: +26.5057
-</td>
-<td><b>36.9794%</b>
-</td>
-<td>A random value between <b>+2</b>-<b>+3</b><br/>Intervals of +1<br/>Biased to values near +2.64<br/>Average value: +2.7128
-</td>
-<td><b>15</b>
-</td></tr>
-<tr>
-<td>+<a href="system-page.html#Critical_Power">Critical Power</a>%
-</td>
-<td><b>100%</b>
-</td>
-<td>A random value between <b>+50%</b>-<b>+70%</b><br/>Intervals of +1%<br/>Biased to values near +66%<br/>Average value: +63%
-</td>
-<td><b>36.9794%</b>
-</td>
-<td>A random value between <b>+3%</b>-<b>+5%</b><br/>Intervals of +1%<br/>Biased to values near +4.28%<br/>Average value: +4.06%
-</td>
-<td><b>15</b>
-</td></tr>
-<tr>
-<th colspan="7">Hive Bonus
-</th></tr>
-<tr>
-<td>x<a href="system-page.html#Pollen">Pepper Patch Pollen</a>
-</td>
-<td><b>100%</b>
-</td>
-<td>A random value between <b>x1.03</b>-<b>x1.05</b><br/>Intervals of +0.01<br/>Biased to values near x1.046<br/>Average value: x1.0434
-</td>
-<td><b>4.6544%</b>
-</td>
-<td><b>+0.01</b>
-</td>
-<td><b>3</b>
-</td></tr>
-<tr>
-<td>+<a href="system-page.html#Bubble_Pollen">Bubble Pollen</a>%
-</td>
-<td><b>100%</b>
-</td>
-<td>A random value between <b>+10%</b>-<b>+15%</b><br/>Intervals of +1%<br/>Biased to values near +14%<br/>Average value: +13.26%
-</td>
-<td><b>15.334%</b>
-</td>
-<td><b>+1%</b>
-</td>
-<td><b>10</b>
-</td></tr>
-<tr>
-<td>+<a href="system-page.html#Gold_Bubble_Pollen">Gold Bubble Pollen</a>%<br/><a href="caustic-wax.html"><span class="color-template color-template-caustic-wax">Caustic</span></a> Points Only
-</td>
-<td>-
-</td>
-<td>-
-</td>
-<td><b>5.5024%</b>
-</td>
-<td>A random value between <b>+2%</b>-<b>+3%</b><br/>Intervals of +1%<br/>Biased to values near +2.64%<br/>Average value: +2.71%
-</td>
-<td><b>4</b>
-</td></tr>
-<tr>
-<td>+Honey From Instant Conversion%<br/><a href="caustic-wax.html"><span class="color-template color-template-caustic-wax">Caustic</span></a> Points Only
-</td>
-<td>-
-</td>
-<td>-
-</td>
-<td><b>0.5502%</b>
-</td>
-<td><b>+1%</b>
-</td>
-<td><b>1</b>
-</td></tr></tbody></table>
-
-### 4.5 ★
-
-### Non-Caustic
-
-<table class="wikitable" style="border:2px solid">
-<tbody><tr>
-<td colspan="6"><center>
-All results are rounded to at most 4 decimal digits.</center>
-</td></tr>
-<tr>
-<th rowspan="2">Stat <br/><span style="border-bottom:1px dotted;" title="Stats that can only be upgraded with points from a Caustic Wax. Note that this does not apply to the beequip's base stats.">Caustic Req.</span> 
-</th>
-<th colspan="2"><span style="border-bottom:1px dotted;" title="Stats the beequip can have without using any waxes.">Base</span> 
-</th>
-<th colspan="3"><span style="border-bottom:1px dotted;" title="Stats the beequip can get from using waxes.">Upgrades</span> 
-</th></tr>
-<tr>
-<th><span style="border-bottom:1px dotted;" title="Probabiity of the beequip having the stat without using any waxes. Note that multiple of these stats can be picked.">Chance</span> 
-</th>
-<th><span style="border-bottom:1px dotted;" title="The range of the strength of the stat without using any waxes.">Value</span> 
-</th>
-<th><span style="border-bottom:1px dotted;" title="Probability for the stat to be upgraded from a wax point. Note that a wax point can only pick 1 of the listed stats.">Chance</span> 
-</th>
-<th><span style="border-bottom:1px dotted;" title="The range of how much a wax point can upgrade the stat.">Value</span> 
-</th>
-<th><span style="border-bottom:1px dotted;" title="Limit of how many wax points can upgrade the stat.">Limit</span>
-</th></tr>
-<tr>
-<td>+<a href="system-page.html#Gather_Amount">Gather Amount</a>
-</td>
-<td><b>100%</b>
-</td>
-<td>A random value between <b>+20</b>-<b>+30</b><br/>Intervals of +1<br/>Biased to values near +29<br/>Average value: +27.009
-</td>
-<td><b>38.4822%</b>
-</td>
-<td>A random value between <b>+2</b>-<b>+3</b><br/>Intervals of +1<br/>Biased to values near +2.81<br/>Average value: +2.7977
-</td>
-<td><b>15</b>
-</td></tr>
-<tr>
-<td>+<a href="system-page.html#Critical_Power">Critical Power</a>%
-</td>
-<td><b>100%</b>
-</td>
-<td>A random value between <b>+50%</b>-<b>+70%</b><br/>Intervals of +1%<br/>Biased to values near +68%<br/>Average value: +64%
-</td>
-<td><b>38.4822%</b>
-</td>
-<td>A random value between <b>+3%</b>-<b>+5%</b><br/>Intervals of +1%<br/>Biased to values near +4.62%<br/>Average value: +4.36%
-</td>
-<td><b>15</b>
-</td></tr>
-<tr>
-<th colspan="7">Hive Bonus
-</th></tr>
-<tr>
-<td>x<a href="system-page.html#Pollen">Pepper Patch Pollen</a>
-</td>
-<td><b>100%</b>
-</td>
-<td>A random value between <b>x1.03</b>-<b>x1.05</b><br/>Intervals of +0.01<br/>Biased to values near x1.048<br/>Average value: x1.0448
-</td>
-<td><b>5.4821%</b>
-</td>
-<td><b>+0.01</b>
-</td>
-<td><b>3</b>
-</td></tr>
-<tr>
-<td>+<a href="system-page.html#Bubble_Pollen">Bubble Pollen</a>%
-</td>
-<td><b>100%</b>
-</td>
-<td>A random value between <b>+10%</b>-<b>+15%</b><br/>Intervals of +1%<br/>Biased to values near +14.5%<br/>Average value: +13.46%
-</td>
-<td><b>17.5535%</b>
-</td>
-<td><b>+1%</b>
-</td>
-<td><b>10</b>
-</td></tr></tbody></table>
-
-### Caustic
-
-<table class="wikitable" style="border:2px solid">
-<tbody><tr>
-<td colspan="6"><center>
-All results are rounded to at most 4 decimal digits.</center>
-</td></tr>
-<tr>
-<th rowspan="2">Stat <br/><span style="border-bottom:1px dotted;" title="Stats that can only be upgraded with points from a Caustic Wax. Note that this does not apply to the beequip's base stats.">Caustic Req.</span> 
-</th>
-<th colspan="2"><span style="border-bottom:1px dotted;" title="Stats the beequip can have without using any waxes.">Base</span> 
-</th>
-<th colspan="3"><span style="border-bottom:1px dotted;" title="Stats the beequip can get from using waxes.">Upgrades</span> 
-</th></tr>
-<tr>
-<th><span style="border-bottom:1px dotted;" title="Probabiity of the beequip having the stat without using any waxes. Note that multiple of these stats can be picked.">Chance</span> 
-</th>
-<th><span style="border-bottom:1px dotted;" title="The range of the strength of the stat without using any waxes.">Value</span> 
-</th>
-<th><span style="border-bottom:1px dotted;" title="Probability for the stat to be upgraded from a wax point. Note that a wax point can only pick 1 of the listed stats.">Chance</span> 
-</th>
-<th><span style="border-bottom:1px dotted;" title="The range of how much a wax point can upgrade the stat.">Value</span> 
-</th>
-<th><span style="border-bottom:1px dotted;" title="Limit of how many wax points can upgrade the stat.">Limit</span>
-</th></tr>
-<tr>
-<td>+<a href="system-page.html#Gather_Amount">Gather Amount</a>
-</td>
-<td><b>100%</b>
-</td>
-<td>A random value between <b>+20</b>-<b>+30</b><br/>Intervals of +1<br/>Biased to values near +29<br/>Average value: +27.009
-</td>
-<td><b>35.8467%</b>
-</td>
-<td>A random value between <b>+2</b>-<b>+3</b><br/>Intervals of +1<br/>Biased to values near +2.81<br/>Average value: +2.7977
-</td>
-<td><b>15</b>
-</td></tr>
-<tr>
-<td>+<a href="system-page.html#Critical_Power">Critical Power</a>%
-</td>
-<td><b>100%</b>
-</td>
-<td>A random value between <b>+50%</b>-<b>+70%</b><br/>Intervals of +1%<br/>Biased to values near +68%<br/>Average value: +64%
-</td>
-<td><b>35.8467%</b>
-</td>
-<td>A random value between <b>+3%</b>-<b>+5%</b><br/>Intervals of +1%<br/>Biased to values near +4.62%<br/>Average value: +4.36%
-</td>
-<td><b>15</b>
-</td></tr>
-<tr>
-<th colspan="7">Hive Bonus
-</th></tr>
-<tr>
-<td>x<a href="system-page.html#Pollen">Pepper Patch Pollen</a>
-</td>
-<td><b>100%</b>
-</td>
-<td>A random value between <b>x1.03</b>-<b>x1.05</b><br/>Intervals of +0.01<br/>Biased to values near x1.048<br/>Average value: x1.0448
-</td>
-<td><b>5.1066%</b>
-</td>
-<td><b>+0.01</b>
-</td>
-<td><b>3</b>
-</td></tr>
-<tr>
-<td>+<a href="system-page.html#Bubble_Pollen">Bubble Pollen</a>%
-</td>
-<td><b>100%</b>
-</td>
-<td>A random value between <b>+10%</b>-<b>+15%</b><br/>Intervals of +1%<br/>Biased to values near +14.5%<br/>Average value: +13.46%
-</td>
-<td><b>16.3513%</b>
-</td>
-<td><b>+1%</b>
-</td>
-<td><b>10</b>
-</td></tr>
-<tr>
-<td>+<a href="system-page.html#Gold_Bubble_Pollen">Gold Bubble Pollen</a>%<br/><a href="caustic-wax.html"><span class="color-template color-template-caustic-wax">Caustic</span></a> Points Only
-</td>
-<td>-
-</td>
-<td>-
-</td>
-<td><b>6.2261%</b>
-</td>
-<td>A random value between <b>+2%</b>-<b>+3%</b><br/>Intervals of +1%<br/>Biased to values near +2.81%<br/>Average value: +2.8%
-</td>
-<td><b>4</b>
-</td></tr>
-<tr>
-<td>+Honey From Instant Conversion%<br/><a href="caustic-wax.html"><span class="color-template color-template-caustic-wax">Caustic</span></a> Points Only
-</td>
-<td>-
-</td>
-<td>-
-</td>
-<td><b>0.6226%</b>
-</td>
-<td><b>+1%</b>
-</td>
-<td><b>1</b>
-</td></tr></tbody></table>
-
-### 5 ★
-
-### Non-Caustic
-
-<table class="wikitable" style="border:2px solid">
-<tbody><tr>
-<td colspan="6"><center>
-All results are rounded to at most 4 decimal digits.</center>
-</td></tr>
-<tr>
-<th rowspan="2">Stat <br/><span style="border-bottom:1px dotted;" title="Stats that can only be upgraded with points from a Caustic Wax. Note that this does not apply to the beequip's base stats.">Caustic Req.</span> 
-</th>
-<th colspan="2"><span style="border-bottom:1px dotted;" title="Stats the beequip can have without using any waxes.">Base</span> 
-</th>
-<th colspan="3"><span style="border-bottom:1px dotted;" title="Stats the beequip can get from using waxes.">Upgrades</span> 
-</th></tr>
-<tr>
-<th><span style="border-bottom:1px dotted;" title="Probabiity of the beequip having the stat without using any waxes. Note that multiple of these stats can be picked.">Chance</span> 
-</th>
-<th><span style="border-bottom:1px dotted;" title="The range of the strength of the stat without using any waxes.">Value</span> 
-</th>
-<th><span style="border-bottom:1px dotted;" title="Probability for the stat to be upgraded from a wax point. Note that a wax point can only pick 1 of the listed stats.">Chance</span> 
-</th>
-<th><span style="border-bottom:1px dotted;" title="The range of how much a wax point can upgrade the stat.">Value</span> 
-</th>
-<th><span style="border-bottom:1px dotted;" title="Limit of how many wax points can upgrade the stat.">Limit</span>
-</th></tr>
-<tr>
-<td>+<a href="system-page.html#Gather_Amount">Gather Amount</a>
-</td>
-<td><b>100%</b>
-</td>
-<td>A random value between <b>+20</b>-<b>+30</b><br/>Intervals of +1<br/>Biased to values near +30<br/>Average value: +27.5191
-</td>
-<td><b>37.594%</b>
-</td>
-<td>A random value between <b>+2</b>-<b>+3</b><br/>Intervals of +1<br/>Biased to values near +3<br/>Average value: +2.8466
-</td>
-<td><b>15</b>
-</td></tr>
-<tr>
-<td>+<a href="system-page.html#Critical_Power">Critical Power</a>%
-</td>
-<td><b>100%</b>
-</td>
-<td>A random value between <b>+50%</b>-<b>+70%</b><br/>Intervals of +1%<br/>Biased to values near +70%<br/>Average value: +65.01%
-</td>
-<td><b>37.594%</b>
-</td>
-<td>A random value between <b>+3%</b>-<b>+5%</b><br/>Intervals of +1%<br/>Biased to values near +5%<br/>Average value: +4.56%
-</td>
-<td><b>15</b>
-</td></tr>
-<tr>
-<th colspan="7">Hive Bonus
-</th></tr>
-<tr>
-<td>x<a href="system-page.html#Pollen">Pepper Patch Pollen</a>
-</td>
-<td><b>100%</b>
-</td>
-<td>A random value between <b>x1.03</b>-<b>x1.05</b><br/>Intervals of +0.01<br/>Biased to values near x1.05<br/>Average value: x1.0456
-</td>
-<td><b>6.015%</b>
-</td>
-<td><b>+0.01</b>
-</td>
-<td><b>3</b>
-</td></tr>
-<tr>
-<td>+<a href="system-page.html#Bubble_Pollen">Bubble Pollen</a>%
-</td>
-<td><b>100%</b>
-</td>
-<td>A random value between <b>+10%</b>-<b>+15%</b><br/>Intervals of +1%<br/>Biased to values near +15%<br/>Average value: +13.78%
-</td>
-<td><b>18.797%</b>
-</td>
-<td><b>+1%</b>
-</td>
-<td><b>10</b>
-</td></tr></tbody></table>
-
-### Caustic
-
-<table class="wikitable" style="border:2px solid">
-<tbody><tr>
-<td colspan="6"><center>
-All results are rounded to at most 4 decimal digits.</center>
-</td></tr>
-<tr>
-<th rowspan="2">Stat <br/><span style="border-bottom:1px dotted;" title="Stats that can only be upgraded with points from a Caustic Wax. Note that this does not apply to the beequip's base stats.">Caustic Req.</span> 
-</th>
-<th colspan="2"><span style="border-bottom:1px dotted;" title="Stats the beequip can have without using any waxes.">Base</span> 
-</th>
-<th colspan="3"><span style="border-bottom:1px dotted;" title="Stats the beequip can get from using waxes.">Upgrades</span> 
-</th></tr>
-<tr>
-<th><span style="border-bottom:1px dotted;" title="Probabiity of the beequip having the stat without using any waxes. Note that multiple of these stats can be picked.">Chance</span> 
-</th>
-<th><span style="border-bottom:1px dotted;" title="The range of the strength of the stat without using any waxes.">Value</span> 
-</th>
-<th><span style="border-bottom:1px dotted;" title="Probability for the stat to be upgraded from a wax point. Note that a wax point can only pick 1 of the listed stats.">Chance</span> 
-</th>
-<th><span style="border-bottom:1px dotted;" title="The range of how much a wax point can upgrade the stat.">Value</span> 
-</th>
-<th><span style="border-bottom:1px dotted;" title="Limit of how many wax points can upgrade the stat.">Limit</span>
-</th></tr>
-<tr>
-<td>+<a href="system-page.html#Gather_Amount">Gather Amount</a>
-</td>
-<td><b>100%</b>
-</td>
-<td>A random value between <b>+20</b>-<b>+30</b><br/>Intervals of +1<br/>Biased to values near +30<br/>Average value: +27.5191
-</td>
-<td><b>34.7222%</b>
-</td>
-<td>A random value between <b>+2</b>-<b>+3</b><br/>Intervals of +1<br/>Biased to values near +3<br/>Average value: +2.8466
-</td>
-<td><b>15</b>
-</td></tr>
-<tr>
-<td>+<a href="system-page.html#Critical_Power">Critical Power</a>%
-</td>
-<td><b>100%</b>
-</td>
-<td>A random value between <b>+50%</b>-<b>+70%</b><br/>Intervals of +1%<br/>Biased to values near +70%<br/>Average value: +65.01%
-</td>
-<td><b>34.7222%</b>
-</td>
-<td>A random value between <b>+3%</b>-<b>+5%</b><br/>Intervals of +1%<br/>Biased to values near +5%<br/>Average value: +4.56%
-</td>
-<td><b>15</b>
-</td></tr>
-<tr>
-<th colspan="7">Hive Bonus
-</th></tr>
-<tr>
-<td>x<a href="system-page.html#Pollen">Pepper Patch Pollen</a>
-</td>
-<td><b>100%</b>
-</td>
-<td>A random value between <b>x1.03</b>-<b>x1.05</b><br/>Intervals of +0.01<br/>Biased to values near x1.05<br/>Average value: x1.0456
-</td>
-<td><b>5.5556%</b>
-</td>
-<td><b>+0.01</b>
-</td>
-<td><b>3</b>
-</td></tr>
-<tr>
-<td>+<a href="system-page.html#Bubble_Pollen">Bubble Pollen</a>%
-</td>
-<td><b>100%</b>
-</td>
-<td>A random value between <b>+10%</b>-<b>+15%</b><br/>Intervals of +1%<br/>Biased to values near +15%<br/>Average value: +13.78%
-</td>
-<td><b>17.3611%</b>
-</td>
-<td><b>+1%</b>
-</td>
-<td><b>10</b>
-</td></tr>
-<tr>
-<td>+<a href="system-page.html#Gold_Bubble_Pollen">Gold Bubble Pollen</a>%<br/><a href="caustic-wax.html"><span class="color-template color-template-caustic-wax">Caustic</span></a> Points Only
-</td>
-<td>-
-</td>
-<td>-
-</td>
-<td><b>6.9444%</b>
-</td>
-<td>A random value between <b>+2%</b>-<b>+3%</b><br/>Intervals of +1%<br/>Biased to values near +3%<br/>Average value: +2.85%
-</td>
-<td><b>4</b>
-</td></tr>
-<tr>
-<td>+Honey From Instant Conversion%<br/><a href="caustic-wax.html"><span class="color-template color-template-caustic-wax">Caustic</span></a> Points Only
-</td>
-<td>-
-</td>
-<td>-
-</td>
-<td><b>0.6944%</b>
-</td>
-<td><b>+1%</b>
-</td>
-<td><b>1</b>
-</td></tr></tbody></table>
-
-## Probabilities
-
-The tables below give the probability of a stat of Camphor Lip Balm falling within a given range, and being upgraded within a given range by a wax point. Note that only stats that have a range of base/upgrade stats are shown.
-
-For smaller ranges, see [the linked subpage](camphor-lip-balm-probability.md).
-
-*Results are rounded to the 3rd-5th decimal digits. Note that the precise percentages may be off due to floating point errors.*  
-Show/hide tables
-
-### Base
-
-### Bee Stats
-
-### +Gather Amount
-
-<table class="wikitable" style="border:2px solid">
-<tbody><tr>
-<th rowspan="2">Potential
-</th>
-<th colspan="6">Stat ranges
-</th>
-<th rowspan="2">Average
-</th></tr>
-<tr>
-<th>+20-+21
-</th>
-<th>+22-+23
-</th>
-<th>+24-+25
-</th>
-<th>+26-+27
-</th>
-<th>+28-+29
-</th>
-<th>+30
-</th></tr>
-<tr>
-<td><b>0 ★</b>
-</td>
-<td>43.457%
-</td>
-<td>28.287%
-</td>
-<td>16.137%
-</td>
-<td>8.695%
-</td>
-<td>3.297%
-</td>
-<td>0.127%
-</td>
-<td>+22.481
-</td></tr>
-<tr>
-<td><b>0.5 ★</b>
-</td>
-<td>29.452%
-</td>
-<td>37.571%
-</td>
-<td>19.168%
-</td>
-<td>9.961%
-</td>
-<td>3.706%
-</td>
-<td>0.142%
-</td>
-<td>+22.991
-</td></tr>
-<tr>
-<td><b>1 ★</b>
-</td>
-<td>8.069%
-</td>
-<td>52.041%
-</td>
-<td>23.824%
-</td>
-<td>11.674%
-</td>
-<td>4.232%
-</td>
-<td>0.16%
-</td>
-<td>+23.494
-</td></tr>
-<tr>
-<td><b>1.5 ★</b>
-</td>
-<td>4.603%
-</td>
-<td>43.592%
-</td>
-<td>32.545%
-</td>
-<td>14.142%
-</td>
-<td>4.935%
-</td>
-<td>0.183%
-</td>
-<td>+23.996
-</td></tr>
-<tr>
-<td><b>2 ★</b>
-</td>
-<td>3.25%
-</td>
-<td>21.353%
-</td>
-<td>51.192%
-</td>
-<td>18.07%
-</td>
-<td>5.921%
-</td>
-<td>0.214%
-</td>
-<td>+24.498
-</td></tr>
-<tr>
-<td><b>2.5 ★</b>
-</td>
-<td>2.516%
-</td>
-<td>14.424%
-</td>
-<td>49.573%
-</td>
-<td>25.816%
-</td>
-<td>7.413%
-</td>
-<td>0.259%
-</td>
-<td>+25
-</td></tr>
-<tr>
-<td><b>3 ★</b>
-</td>
-<td>2.054%
-</td>
-<td>11.059%
-</td>
-<td>29.462%
-</td>
-<td>47.137%
-</td>
-<td>9.961%
-</td>
-<td>0.326%
-</td>
-<td>+25.502
-</td></tr>
-<tr>
-<td><b>3.5 ★</b>
-</td>
-<td>1.736%
-</td>
-<td>9.0038%
-</td>
-<td>21.153%
-</td>
-<td>52.065%
-</td>
-<td>15.599%
-</td>
-<td>0.442%
-</td>
-<td>+26.0035
-</td></tr>
-<tr>
-<td><b>4 ★</b>
-</td>
-<td>1.503%
-</td>
-<td>7.605%
-</td>
-<td>16.813%
-</td>
-<td>35.216%
-</td>
-<td>38.178%
-</td>
-<td>0.685%
-</td>
-<td>+26.506
-</td></tr>
-<tr>
-<td><b>4.5 ★</b>
-</td>
-<td>1.326%
-</td>
-<td>6.588%
-</td>
-<td>14.03%
-</td>
-<td>26.18%
-</td>
-<td>50.342%
-</td>
-<td>1.534%
-</td>
-<td>+27.009
-</td></tr>
-<tr>
-<td><b>5 ★</b>
-</td>
-<td>1.186%
-</td>
-<td>5.813%
-</td>
-<td>12.068%
-</td>
-<td>21.275%
-</td>
-<td>39.679%
-</td>
-<td>19.979%
-</td>
-<td>+27.519
-</td></tr></tbody></table>
-
-### +Critical Power%
-
-<table class="wikitable" style="border:2px solid">
-<tbody><tr>
-<th rowspan="2">Potential
-</th>
-<th colspan="5">Stat ranges
-</th>
-<th rowspan="2">Average
-</th></tr>
-<tr>
-<th>+50%-+54%
+<th>Type
 </th>
-<th>+55%-+59%
+<th>Stat
 </th>
-<th>+60%-+64%
+<th>Range
 </th>
-<th>+65%-+69%
+<th>Chance at 3 ★
 </th>
-<th>+70%
+<th>Average at 3 ★
 </th></tr>
-<tr>
-<td><b>0 ★</b>
-</td>
-<td>56.062%
-</td>
-<td>26.799%
-</td>
-<td>12.954%
-</td>
-<td>4.154%
-</td>
-<td>0.032%
-</td>
-<td>+55%
-</td></tr>
-<tr>
-<td><b>0.5 ★</b>
-</td>
-<td>47.176%
-</td>
-<td>33.154%
-</td>
-<td>14.96%
-</td>
-<td>4.675%
-</td>
-<td>0.035%
-</td>
-<td>+56%
-</td></tr>
-<tr>
-<td><b>1 ★</b>
-</td>
-<td>31.164%
-</td>
-<td>45.701%
-</td>
-<td>17.748%
-</td>
-<td>5.347%
-</td>
-<td>0.039%
-</td>
-<td>+57%
-</td></tr>
-<tr>
-<td><b>1.5 ★</b>
-</td>
-<td>12.103%
-</td>
-<td>59.657%
-</td>
-<td>21.947%
-</td>
-<td>6.248%
-</td>
-<td>0.045%
-</td>
-<td>+58%
-</td></tr>
-<tr>
-<td><b>2 ★</b>
-</td>
-<td>8.033%
-</td>
-<td>55.063%
-</td>
-<td>29.33%
-</td>
-<td>7.521%
-</td>
-<td>0.053%
-</td>
-<td>+59%
-</td></tr>
 <tr>
-<td><b>2.5 ★</b>
-</td>
-<td>6.059%
+<td>Bee stat
 </td>
-<td>33.951%
+<td>Gather Amount
 </td>
-<td>50.456%
+<td>+20 to +30
 </td>
-<td>9.47%
+<td>100%
 </td>
-<td>0.064%
-</td>
-<td>+60%
+<td>+25.52
 </td></tr>
 <tr>
-<td><b>3 ★</b>
-</td>
-<td>4.875%
-</td>
-<td>23.017%
+<td>Bee stat
 </td>
-<td>59.147%
+<td>Critical Power
 </td>
-<td>12.881%
+<td>+50% to +70%
 </td>
-<td>0.08%
+<td>100%
 </td>
 <td>+61%
 </td></tr>
 <tr>
-<td><b>3.5 ★</b>
+<td>Hive bonus
 </td>
-<td>4.081%
+<td>Pepper Patch Pollen
 </td>
-<td>17.882%
+<td>x1.03 to x1.05
 </td>
-<td>56.749%
+<td>100%
 </td>
-<td>21.181%
-</td>
-<td>0.107%
-</td>
-<td>+62%
+<td>x1.04
 </td></tr>
 <tr>
-<td><b>4 ★</b>
+<td>Hive bonus
 </td>
-<td>3.511%
+<td>Bubble Pollen
 </td>
-<td>14.713%
+<td>+10% to +15%
 </td>
-<td>36.522%
+<td>100%
 </td>
-<td>45.09%
-</td>
-<td>0.163%
-</td>
-<td>+63%
-</td></tr>
-<tr>
-<td><b>4.5 ★</b>
-</td>
-<td>3.081%
-</td>
-<td>12.531%
-</td>
-<td>28.23%
-</td>
-<td>55.816%
-</td>
-<td>0.342%
-</td>
-<td>+64%
-</td></tr>
-<tr>
-<td><b>5 ★</b>
-</td>
-<td>2.746%
-</td>
-<td>10.925%
-</td>
-<td>23.327%
-</td>
-<td>51.28%
-</td>
-<td>11.722%
-</td>
-<td>+65%
+<td>+12.74%
 </td></tr></tbody></table>
 
-### Hive Bonuses
+///
 
-### xPepper Patch Pollen
+/// tab | 4 ★
 
-<table class="wikitable" style="border:2px solid">
+<table class="article-table">
 <tbody><tr>
-<th rowspan="2">Potential
+<th>Type
 </th>
-<th colspan="3">Stat ranges
+<th>Stat
 </th>
-<th rowspan="2">Average
+<th>Range
+</th>
+<th>Chance at 4 ★
+</th>
+<th>Average at 4 ★
 </th></tr>
 <tr>
-<th>x1.03
+<td>Bee stat
+</td>
+<td>Gather Amount
+</td>
+<td>+20 to +30
+</td>
+<td>100%
+</td>
+<td>+26.47
+</td></tr>
+<tr>
+<td>Bee stat
+</td>
+<td>Critical Power
+</td>
+<td>+50% to +70%
+</td>
+<td>100%
+</td>
+<td>+63.02%
+</td></tr>
+<tr>
+<td>Hive bonus
+</td>
+<td>Pepper Patch Pollen
+</td>
+<td>x1.03 to x1.05
+</td>
+<td>100%
+</td>
+<td>x1.044
+</td></tr>
+<tr>
+<td>Hive bonus
+</td>
+<td>Bubble Pollen
+</td>
+<td>+10% to +15%
+</td>
+<td>100%
+</td>
+<td>+13.27%
+</td></tr></tbody></table>
+
+///
+
+/// tab | 5 ★
+
+<table class="article-table">
+<tbody><tr>
+<th>Type
 </th>
-<th>x1.04
+<th>Stat
 </th>
-<th>x1.05
+<th>Range
+</th>
+<th>Chance at 5 ★
+</th>
+<th>Average at 5 ★
 </th></tr>
 <tr>
-<td><b>0 ★</b>
+<td>Bee stat
 </td>
-<td>59.657%
+<td>Gather Amount
 </td>
-<td>36.919%
+<td>+20 to +30
 </td>
-<td>3.424%
+<td>100%
 </td>
-<td>x1.034
+<td>+27.48
 </td></tr>
 <tr>
-<td><b>0.5 ★</b>
+<td>Bee stat
 </td>
-<td>51.876%
+<td>Critical Power
 </td>
-<td>44.276%
+<td>+50% to +70%
 </td>
-<td>3.848%
+<td>100%
 </td>
-<td>x1.035
+<td>+64.99%
 </td></tr>
 <tr>
-<td><b>1 ★</b>
+<td>Hive bonus
 </td>
-<td>38.863%
+<td>Pepper Patch Pollen
 </td>
-<td>56.745%
+<td>x1.03 to x1.05
 </td>
-<td>4.392%
-</td>
-<td>x1.037
-</td></tr>
-<tr>
-<td><b>1.5 ★</b>
-</td>
-<td>16.041%
-</td>
-<td>78.841%
-</td>
-<td>5.118%
-</td>
-<td>x1.039
-</td></tr>
-<tr>
-<td><b>2 ★</b>
-</td>
-<td>10.288%
-</td>
-<td>83.577%
-</td>
-<td>6.135%
-</td>
-<td>x1.04
-</td></tr>
-<tr>
-<td><b>2.5 ★</b>
-</td>
-<td>7.671%
-</td>
-<td>84.657%
-</td>
-<td>7.671%
-</td>
-<td>x1.04
-</td></tr>
-<tr>
-<td><b>3 ★</b>
-</td>
-<td>6.135%
-</td>
-<td>83.577%
-</td>
-<td>10.288%
-</td>
-<td>x1.04
-</td></tr>
-<tr>
-<td><b>3.5 ★</b>
-</td>
-<td>5.118%
-</td>
-<td>78.841%
-</td>
-<td>16.041%
-</td>
-<td>x1.041
-</td></tr>
-<tr>
-<td><b>4 ★</b>
-</td>
-<td>4.392%
-</td>
-<td>56.745%
-</td>
-<td>38.863%
-</td>
-<td>x1.043
-</td></tr>
-<tr>
-<td><b>4.5 ★</b>
-</td>
-<td>3.848%
-</td>
-<td>44.276%
-</td>
-<td>51.876%
-</td>
-<td>x1.045
-</td></tr>
-<tr>
-<td><b>5 ★</b>
-</td>
-<td>3.424%
-</td>
-<td>36.919%
-</td>
-<td>59.657%
+<td>100%
 </td>
 <td>x1.046
-</td></tr></tbody></table>
-
-### +Bubble Pollen%
-
-<table class="wikitable" style="border:2px solid">
-<tbody><tr>
-<th rowspan="2">Potential
-</th>
-<th colspan="6">Stat ranges
-</th>
-<th rowspan="2">Average
-</th></tr>
-<tr>
-<th>+10%
-</th>
-<th>+11%
-</th>
-<th>+12%
-</th>
-<th>+13%
-</th>
-<th>+14%
-</th>
-<th>+15%
-</th></tr>
-<tr>
-<td><b>0 ★</b>
-</td>
-<td>33.026%
-</td>
-<td>33.093%
-</td>
-<td>18.538%
-</td>
-<td>10.31%
-</td>
-<td>4.515%
-</td>
-<td>0.518%
-</td>
-<td>+11.2%
 </td></tr>
 <tr>
-<td><b>0.5 ★</b>
+<td>Hive bonus
+</td>
+<td>Bubble Pollen
+</td>
+<td>+10% to +15%
+</td>
+<td>100%
+</td>
+<td>+13.79%
+</td></tr></tbody></table>
+
+///
+
+### Wax upgrades
+
+*Each upgrade a wax rolls picks one entry below, weighted by its share of the pool at that potential. Caustic-only entries can only come from Caustic or Debug Wax. An entry leaves the pool once it reaches its max picks.*
+
+<table class="article-table">
+<tbody><tr>
+<th>Upgrade
+</th>
+<th>Max picks
+</th>
+<th>Caustic only
+</th>
+<th>Value per pick
+</th>
+<th>Weight at 1 ★
+</th>
+<th>Weight at 3 ★
+</th>
+<th>Weight at 5 ★
+</th></tr>
+<tr>
+<td>Gather Amount
+</td>
+<td>15
+</td>
+<td>
+</td>
+<td>+2 to +3
+</td>
+<td>44%
+</td>
+<td>41%
+</td>
+<td>38%
+</td></tr>
+<tr>
+<td>Critical Power
+</td>
+<td>15
+</td>
+<td>
+</td>
+<td>+0.03 to +0.05
+</td>
+<td>44%
+</td>
+<td>41%
+</td>
+<td>38%
+</td></tr>
+<tr>
+<td>Pepper Patch Pollen (hive bonus)
+</td>
+<td>3
+</td>
+<td>
+</td>
+<td>+0.01
+</td>
+<td>2%
+</td>
+<td>4%
+</td>
+<td>6%
+</td></tr>
+<tr>
+<td>Bubble Pollen (hive bonus)
+</td>
+<td>10
+</td>
+<td>
+</td>
+<td>+0.01
 </td>
 <td>10%
 </td>
-<td>50.082%
+<td>14%
 </td>
-<td>22.356%
-</td>
-<td>11.891%
-</td>
-<td>5.095%
-</td>
-<td>0.577%
-</td>
-<td>+11.5%
+<td>19%
 </td></tr>
 <tr>
-<td><b>1 ★</b>
+<td>Gold Bubble Pollen (hive bonus)
 </td>
-<td>3.069%
+<td>4
 </td>
-<td>47.726%
+<td>Yes
 </td>
-<td>28.63%
+<td>+0.02 to +0.03
 </td>
-<td>14.075%
+<td>2%
 </td>
-<td>5.847%
+<td>4%
 </td>
-<td>0.653%
-</td>
-<td>+11.7%
+<td>7%
 </td></tr>
 <tr>
-<td><b>1.5 ★</b>
+<td>Honey From Instant Conversion (hive bonus)
 </td>
-<td>1.891%
+<td>1
 </td>
-<td>28.109%
+<td>Yes
 </td>
-<td>45.055%
+<td>+0.01
 </td>
-<td>17.329%
+<td>0%
 </td>
-<td>6.864%
+<td>0%
 </td>
-<td>0.751%
-</td>
-<td>+12%
-</td></tr>
-<tr>
-<td><b>2 ★</b>
-</td>
-<td>1.37%
-</td>
-<td>14.768%
-</td>
-<td>51.781%
-</td>
-<td>22.877%
-</td>
-<td>8.322%
-</td>
-<td>0.884%
-</td>
-<td>+12.2%
-</td></tr>
-<tr>
-<td><b>2.5 ★</b>
-</td>
-<td>1.074%
-</td>
-<td>10.6%
-</td>
-<td>38.326%
-</td>
-<td>38.326%
-</td>
-<td>10.6%
-</td>
-<td>1.074%
-</td>
-<td>+12.5%
-</td></tr>
-<tr>
-<td><b>3 ★</b>
-</td>
-<td>0.884%
-</td>
-<td>8.322%
-</td>
-<td>22.877%
-</td>
-<td>51.781%
-</td>
-<td>14.768%
-</td>
-<td>1.37%
-</td>
-<td>+12.8%
-</td></tr>
-<tr>
-<td><b>3.5 ★</b>
-</td>
-<td>0.751%
-</td>
-<td>6.864%
-</td>
-<td>17.329%
-</td>
-<td>45.055%
-</td>
-<td>28.109%
-</td>
-<td>1.891%
-</td>
-<td>+13%
-</td></tr>
-<tr>
-<td><b>4 ★</b>
-</td>
-<td>0.653%
-</td>
-<td>5.847%
-</td>
-<td>14.075%
-</td>
-<td>28.63%
-</td>
-<td>47.726%
-</td>
-<td>3.069%
-</td>
-<td>+13.3%
-</td></tr>
-<tr>
-<td><b>4.5 ★</b>
-</td>
-<td>0.577%
-</td>
-<td>5.095%
-</td>
-<td>11.891%
-</td>
-<td>22.356%
-</td>
-<td>50.082%
-</td>
-<td>10%
-</td>
-<td>+13.5%
-</td></tr>
-<tr>
-<td><b>5 ★</b>
-</td>
-<td>0.518%
-</td>
-<td>4.515%
-</td>
-<td>10.31%
-</td>
-<td>18.538%
-</td>
-<td>33.093%
-</td>
-<td>33.026%
-</td>
-<td>+13.8%
-</td></tr></tbody></table>
-
-### Upgrade
-
-### Bee Stats
-
-### +Gather Amount
-
-<table class="wikitable" style="border:2px solid">
-<tbody><tr>
-<th rowspan="2">Potential
-</th>
-<th colspan="2">Stat ranges
-</th>
-<th rowspan="2">Average
-</th></tr>
-<tr>
-<th>+2
-</th>
-<th>+3
-</th></tr>
-<tr>
-<td><b>0 ★</b>
-</td>
-<td>84.657%
-</td>
-<td>15.343%
-</td>
-<td>+2.153
-</td></tr>
-<tr>
-<td><b>0.5 ★</b>
-</td>
-<td>84.462%
-</td>
-<td>15.538%
-</td>
-<td>+2.155
-</td></tr>
-<tr>
-<td><b>1 ★</b>
-</td>
-<td>83.843%
-</td>
-<td>16.157%
-</td>
-<td>+2.162
-</td></tr>
-<tr>
-<td><b>1.5 ★</b>
-</td>
-<td>82.689%
-</td>
-<td>17.311%
-</td>
-<td>+2.173
-</td></tr>
-<tr>
-<td><b>2 ★</b>
-</td>
-<td>80.752%
-</td>
-<td>19.248%
-</td>
-<td>+2.192
-</td></tr>
-<tr>
-<td><b>2.5 ★</b>
-</td>
-<td>77.465%
-</td>
-<td>22.535%
-</td>
-<td>+2.225
-</td></tr>
-<tr>
-<td><b>3 ★</b>
-</td>
-<td>71.278%
-</td>
-<td>28.722%
-</td>
-<td>+2.287
-</td></tr>
-<tr>
-<td><b>3.5 ★</b>
-</td>
-<td>53.932%
-</td>
-<td>46.068%
-</td>
-<td>+2.461
-</td></tr>
-<tr>
-<td><b>4 ★</b>
-</td>
-<td>28.722%
-</td>
-<td>71.278%
-</td>
-<td>+2.713
-</td></tr>
-<tr>
-<td><b>4.5 ★</b>
-</td>
-<td>20.226%
-</td>
-<td>79.774%
-</td>
-<td>+2.798
-</td></tr>
-<tr>
-<td><b>5 ★</b>
-</td>
-<td>15.343%
-</td>
-<td>84.657%
-</td>
-<td>+2.847
-</td></tr></tbody></table>
-
-### +Critical Power%
-
-<table class="wikitable" style="border:2px solid">
-<tbody><tr>
-<th rowspan="2">Potential
-</th>
-<th colspan="3">Stat ranges
-</th>
-<th rowspan="2">Average
-</th></tr>
-<tr>
-<th>+3%
-</th>
-<th>+4%
-</th>
-<th>+5%
-</th></tr>
-<tr>
-<td><b>0 ★</b>
-</td>
-<td>59.657%
-</td>
-<td>36.919%
-</td>
-<td>3.424%
-</td>
-<td>+3.4%
-</td></tr>
-<tr>
-<td><b>0.5 ★</b>
-</td>
-<td>59.0096%
-</td>
-<td>37.528%
-</td>
-<td>3.462%
-</td>
-<td>+3.4%
-</td></tr>
-<tr>
-<td><b>1 ★</b>
-</td>
-<td>56.916%
-</td>
-<td>39.502%
-</td>
-<td>3.582%
-</td>
-<td>+3.5%
-</td></tr>
-<tr>
-<td><b>1.5 ★</b>
-</td>
-<td>52.812%
-</td>
-<td>43.387%
-</td>
-<td>3.8%
-</td>
-<td>+3.5%
-</td></tr>
-<tr>
-<td><b>2 ★</b>
-</td>
-<td>45.102%
-</td>
-<td>50.741%
-</td>
-<td>4.157%
-</td>
-<td>+3.6%
-</td></tr>
-<tr>
-<td><b>2.5 ★</b>
-</td>
-<td>25%
-</td>
-<td>70.273%
-</td>
-<td>4.727%
-</td>
-<td>+3.8%
-</td></tr>
-<tr>
-<td><b>3 ★</b>
-</td>
-<td>11.958%
-</td>
-<td>82.359%
-</td>
-<td>5.682%
-</td>
-<td>+3.9%
-</td></tr>
-<tr>
-<td><b>3.5 ★</b>
-</td>
-<td>7.87%
-</td>
-<td>84.647%
-</td>
-<td>7.483%
-</td>
-<td>+4%
-</td></tr>
-<tr>
-<td><b>4 ★</b>
-</td>
-<td>5.682%
-</td>
-<td>82.359%
-</td>
-<td>11.958%
-</td>
-<td>+4.1%
-</td></tr>
-<tr>
-<td><b>4.5 ★</b>
-</td>
-<td>4.331%
-</td>
-<td>55.053%
-</td>
-<td>40.616%
-</td>
-<td>+4.4%
-</td></tr>
-<tr>
-<td><b>5 ★</b>
-</td>
-<td>3.424%
-</td>
-<td>36.919%
-</td>
-<td>59.657%
-</td>
-<td>+4.6%
-</td></tr></tbody></table>
-
-### Hive Bonuses
-
-### +Gold Bubble Pollen%
-
-<table class="wikitable" style="border:2px solid">
-<tbody><tr>
-<th rowspan="2">Potential
-</th>
-<th colspan="2">Stat ranges
-</th>
-<th rowspan="2">Average
-</th></tr>
-<tr>
-<th>+2%
-</th>
-<th>+3%
-</th></tr>
-<tr>
-<td><b>0 ★</b>
-</td>
-<td>84.657%
-</td>
-<td>15.343%
-</td>
-<td>+2.2%
-</td></tr>
-<tr>
-<td><b>0.5 ★</b>
-</td>
-<td>84.462%
-</td>
-<td>15.538%
-</td>
-<td>+2.2%
-</td></tr>
-<tr>
-<td><b>1 ★</b>
-</td>
-<td>83.843%
-</td>
-<td>16.157%
-</td>
-<td>+2.2%
-</td></tr>
-<tr>
-<td><b>1.5 ★</b>
-</td>
-<td>82.689%
-</td>
-<td>17.311%
-</td>
-<td>+2.2%
-</td></tr>
-<tr>
-<td><b>2 ★</b>
-</td>
-<td>80.752%
-</td>
-<td>19.248%
-</td>
-<td>+2.2%
-</td></tr>
-<tr>
-<td><b>2.5 ★</b>
-</td>
-<td>77.465%
-</td>
-<td>22.535%
-</td>
-<td>+2.2%
-</td></tr>
-<tr>
-<td><b>3 ★</b>
-</td>
-<td>71.278%
-</td>
-<td>28.722%
-</td>
-<td>+2.3%
-</td></tr>
-<tr>
-<td><b>3.5 ★</b>
-</td>
-<td>53.932%
-</td>
-<td>46.068%
-</td>
-<td>+2.5%
-</td></tr>
-<tr>
-<td><b>4 ★</b>
-</td>
-<td>28.722%
-</td>
-<td>71.278%
-</td>
-<td>+2.7%
-</td></tr>
-<tr>
-<td><b>4.5 ★</b>
-</td>
-<td>20.226%
-</td>
-<td>79.774%
-</td>
-<td>+2.8%
-</td></tr>
-<tr>
-<td><b>5 ★</b>
-</td>
-<td>15.343%
-</td>
-<td>84.657%
-</td>
-<td>+2.8%
+<td>1%
 </td></tr></tbody></table>
 
 ## Ways to obtain
