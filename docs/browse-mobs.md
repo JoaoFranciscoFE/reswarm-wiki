@@ -83,8 +83,8 @@ Big mobs with long respawn timers, in zone order.
 <a class="wiki-card" href="party-cogturret.html"><img src="img/mobs/Party_Cogturret.png" alt="" loading="lazy"><span>Party Cogturret</span></a>
 <a class="wiki-card" href="party-mechsquito.html"><img src="img/mobs/Party_Mechsquito.png" alt="" loading="lazy"><span>Party Mechsquito</span></a>
 <a class="wiki-card" href="party-mega-mechsquito.html"><img src="img/mobs/Party_Mega_Mechsquito.png" alt="" loading="lazy"><span>Party Mega Mechsquito</span></a>
-<a class="wiki-card" href="rogue-vicious-bee.html"><img src="img/Rogue_Vicious_Bee.png" alt="" loading="lazy"><span>Rogue Vicious Bee</span></a>
-<a class="wiki-card" href="wild-windy-bee.html"><img src="img/Wild_Windy_Bee.png" alt="" loading="lazy"><span>Wild Windy Bee</span></a>
+<a class="wiki-card" href="rogue-vicious-bee.html"><img src="img/mobs/Rogue_Vicious_Bee.png" alt="" loading="lazy"><span>Rogue Vicious Bee</span></a>
+<a class="wiki-card" href="wild-windy-bee.html"><img src="img/mobs/Wild_Windy_Bee.png" alt="" loading="lazy"><span>Wild Windy Bee</span></a>
 <a class="wiki-card" href="chicks.html"><img src="img/mobs/Chick.png" alt="" loading="lazy"><span>Chicks</span></a>
 <a class="wiki-card" href="snowbear.html"><img src="img/mobs/Snowbear.png" alt="" loading="lazy"><span>Snowbear</span></a>
 <a class="wiki-card" href="festive-nymph.html"><img src="img/mobs/Festive_Nymph.png" alt="" loading="lazy"><span>Festive Nymph</span></a>
@@ -96,16 +96,16 @@ Passive or wandering mobs that can show up in many fields.
 
 <div class="wiki-cards">
 <a class="wiki-card" href="aphid.html"><img src="img/mobs/Aphid.png" alt="" loading="lazy"><span>Aphid</span></a>
-<a class="wiki-card" href="bean-bug.html"><img src="img/Standing_Bean_Bug.png" alt="" loading="lazy"><span>Bean Bug</span></a>
-<a class="wiki-card" href="frog.html"><img src="img/Summon_Frog.png" alt="" loading="lazy"><span>Frog</span></a>
+<a class="wiki-card" href="bean-bug.html"><img src="img/mobs/Bean_Bug.png" alt="" loading="lazy"><span>Bean Bug</span></a>
+<a class="wiki-card" href="frog.html"><img src="img/mobs/Frog.png" alt="" loading="lazy"><span>Frog</span></a>
 <a class="wiki-card" href="fireflies.html"><img src="img/mobs/Firefly.png" alt="" loading="lazy"><span>Fireflies</span></a>
-<a class="wiki-card" href="bloom.html"><img src="img/Bloom.png" alt="" loading="lazy"><span>Bloom</span></a>
+<a class="wiki-card" href="bloom.html"><img src="img/mobs/Bloom.png" alt="" loading="lazy"><span>Bloom</span></a>
 </div>
 
 ## Puffshrooms
 
 <div class="wiki-cards">
-<a class="wiki-card" href="puffshroom.html"><img src="img/Supreme_Puffshroom.png" alt="" loading="lazy"><span>Puffshroom</span></a>
+<a class="wiki-card" href="puffshroom.html"><img src="img/mobs/Puffshroom.png" alt="" loading="lazy"><span>Puffshroom</span></a>
 </div>
 
 ## About mobs

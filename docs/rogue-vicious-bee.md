@@ -5,10 +5,11 @@ tags: ["Mobs", "Mini Bosses", "Multiplayer Bosses", "Bees"]
 
 # Rogue Vicious Bee
 
-![Rogue Vicious Bee](img/Rogue_Vicious_Bee.png){ align=right width=150 }
-
 <aside class="portable-infobox pi-background pi-border-color pi-theme-wikia pi-layout-stacked" role="region">
 <h2 class="pi-item pi-item-spacing pi-title pi-secondary-background" data-source="title">Rogue Vicious Bee</h2>
+<figure class="pi-item pi-image">
+<img alt="Rogue Vicious Bee" src="img/mobs/Rogue_Vicious_Bee.png"/>
+</figure>
 <div class="pi-item pi-data pi-item-spacing pi-border-color" data-source="location">
 <h3 class="pi-data-label pi-secondary-font">Location</h3>
 <div class="pi-data-value pi-font"><a href="clover-field.html">Clover Field</a>, <a href="spider-field.html">Spider Field</a>, <a href="cactus-field.html">Cactus Field</a>, <a href="rose-field.html">Rose Field</a>, <a href="mountain-top-field.html">Mountain Top Field</a>, <a href="pepper-patch.html">Pepper Patch</a></div>
