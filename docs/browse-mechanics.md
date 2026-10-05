@@ -6,7 +6,7 @@ hide:
 
 # Mechanics
 
-All 49 pages in Mechanics.
+All 48 pages in Mechanics.
 
 <div class="wiki-cards">
 <a class="wiki-card" href="ability-tokens.html"><img src="img/Ability_Tokens.png" alt="" loading="lazy"><span>Ability Tokens</span></a>
@@ -22,7 +22,6 @@ All 49 pages in Mechanics.
 <a class="wiki-card" href="buffs-debuffs.html"><img src="img/Buffs_&_Debuffs.png" alt="" loading="lazy"><span>Buffs &amp; Debuffs</span></a>
 <a class="wiki-card" href="capacity.html"><img src="img/Capacity.png" alt="" loading="lazy"><span>Capacity</span></a>
 <a class="wiki-card" href="cloud.html"><img src="img/Rain_Cloud.png" alt="" loading="lazy"><span>Cloud</span></a>
-<a class="wiki-card" href="codes.html"><img src="img/Codes.png" alt="" loading="lazy"><span>Codes</span></a>
 <a class="wiki-card" href="critical-hits.html"><img src="img/Critical_Hits.png" alt="" loading="lazy"><span>Critical Hits</span></a>
 <a class="wiki-card" href="cub-buddy.html"><img src="img/Cub_Buddy.png" alt="" loading="lazy"><span>Cub Buddy</span></a>
 <a class="wiki-card" href="day-night-cycle.html"><img src="img/Day/Night_Cycle.png" alt="" loading="lazy"><span>Day/Night Cycle</span></a>

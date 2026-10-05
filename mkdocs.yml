@@ -468,6 +468,8 @@ nav:
       - "Aug 30, 2026: Bloom Shaker and leaderboards": update-log-2026-08-30.md
       - "Aug 28, 2026: Rename and fixes": update-log-2026-08-28.md
       - "Aug 26, 2026: SSA locking and treat amounts": update-log-2026-08-26.md
+  - "Codes":
+      - codes.md
   - "Mechanics":
       - browse-mechanics.md
       - "Ability Tokens": ability-tokens.md
@@ -483,7 +485,6 @@ nav:
       - "Buffs & Debuffs": buffs-debuffs.md
       - "Capacity": capacity.md
       - "Cloud": cloud.md
-      - "Codes": codes.md
       - "Critical Hits": critical-hits.md
       - "Cub Buddy": cub-buddy.md
       - "Day/Night Cycle": day-night-cycle.md
