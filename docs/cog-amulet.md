@@ -78,6 +78,8 @@ The requirements are based on what round was completed during a challenge.
 
 *For more information on how amulets generate, see [Amulet#Generation](amulet.md#Generation).*
 
+*Stats in a "Select N" group are drawn evenly without repeats, so each one has an N in M chance. "Separate chance roll" means the stat only appears if an extra chance roll succeeds. "Low values more likely" means high values of that stat are rarer.*
+
 /// tab | Bronze <span class="tier-suffix">Cog Amulet</span>
 
 
@@ -109,7 +111,7 @@ The requirements are based on what round was completed during a challenge.
 </td>
 <td><a href="system-page.html#Attack_Multiplier">Bee Attack</a>
 </td>
-<td>+3% - +6%<br/>Intervals of 1%
+<td>+3% - +6%<br/>Intervals of 1%<br/>Low values more likely (bias 3:1)
 </td>
 <td>100%
 </td></tr>
@@ -2279,7 +2281,7 @@ The tables below give the percentage of a certain stat on the amulet having stre
 </td>
 <td><a href="system-page.html#Attack_Multiplier">Bee Attack</a>
 </td>
-<td>+5% - +8%<br/>Intervals of 1%
+<td>+5% - +8%<br/>Intervals of 1%<br/>Low values more likely (bias 3:1)
 </td>
 <td>100%
 </td></tr>
@@ -4667,14 +4669,14 @@ The tables below give the percentage of a certain stat on the amulet having stre
 </td>
 <td><a href="system-page.html#Attack_Multiplier">Bee Attack</a>
 </td>
-<td>+8% - +10%<br/>Intervals of 1%
+<td>+8% - +10%<br/>Intervals of 1%<br/>Low values more likely (bias 3:1)
 </td>
 <td>50%
 </td></tr>
 <tr>
 <td>Red/Colorless/Blue <a href="system-page.html#Bee_Attack"> Bee Attack</a>
 </td>
-<td>+100%
+<td>+1 (one random colour)
 </td>
 <td>50%
 </td></tr>
@@ -7136,14 +7138,14 @@ The tables below give the percentage of a certain stat on the amulet having stre
 </td>
 <td><a href="system-page.html#Attack_Multiplier">Bee Attack</a>
 </td>
-<td>+9% - +12%<br/>Intervals of 1%
+<td>+9% - +12%<br/>Intervals of 1%<br/>Low values more likely (bias 3:1)
 </td>
 <td>50%
 </td></tr>
 <tr>
 <td>Red/Colorless/Blue <a href="system-page.html#Bee_Attack"> Bee Attack</a>
 </td>
-<td>+100%
+<td>+1 (one random colour)
 </td>
 <td>50%
 </td></tr>
@@ -10249,14 +10251,14 @@ The tables below give the percentage of a certain stat on the amulet having stre
 </td>
 <td><a href="system-page.html#Attack_Multiplier">Bee Attack</a>
 </td>
-<td>+10% - +15%<br/>Intervals of 1%
+<td>+10% - +15%<br/>Intervals of 1%<br/>Low values more likely (bias 3:1)
 </td>
 <td>50%
 </td></tr>
 <tr>
 <td>Red/Colorless/Blue <a href="system-page.html#Bee_Attack"> Bee Attack</a>
 </td>
-<td>+1 - +2<br/>Intervals of 1
+<td>+1 - +2 (one random colour)<br/>Intervals of 1
 </td>
 <td>50%
 </td></tr>

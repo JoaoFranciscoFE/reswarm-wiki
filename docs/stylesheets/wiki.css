@@ -255,6 +255,7 @@ figure img { max-width: 100%; height: auto; }
 .js .md-typeset .tabbed-labels::before { background: var(--md-typeset-a-color); height: 3px; }
 /* drop the amulet name from the labels when the five tabs would not fit */
 @container (max-width: 660px) { .md-typeset .tier-suffix { display: none; } }
+@container (max-width: 860px) { .md-typeset .tier-suffix--long { display: none; } }
 .md-typeset .tabbed-labels > label > a:hover { text-decoration: none; }
 .md-typeset .amulet-tier-icon { float: left; width: 7rem; margin: .4em 1em .8em 0; padding: .4em; border: 1px solid var(--md-default-fg-color--lightest); border-radius: 8px; background: var(--md-code-bg-color); }
 .md-typeset .amulet-tier-icon img { width: 5rem; height: 5rem; display: block; margin: 0 auto; }

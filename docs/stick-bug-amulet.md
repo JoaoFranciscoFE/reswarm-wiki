@@ -61,7 +61,9 @@ The requirements are based on your score and Stick Bug's level on a challenge.
 
 *For more information on how amulets generate, see [Amulet#Generation](amulet.md#Generation).*
 
-/// tab | Bronze <span class="tier-suffix">Stick Bug Amulet</span>
+*Stats in a "Select N" group are drawn evenly without repeats, so each one has an N in M chance. "Separate chance roll" means the stat only appears if an extra chance roll succeeds. "Low values more likely" means high values of that stat are rarer.*
+
+/// tab | Bronze <span class="tier-suffix tier-suffix--long">Stick Bug Amulet</span>
 
 
 <figure class="amulet-tier-icon"><img alt="Bronze Stick Bug Amulet" src="img/Bronze_Stick_Bug_Amulet.png"/><figcaption>The icon for the Bronze Stick Bug Amulet.</figcaption></figure>
@@ -103,7 +105,7 @@ The requirements are based on your score and Stick Bug's level on a challenge.
 </td>
 <td>+1% - +4%<br/>Intervals of 1%
 </td>
-<td>1%
+<td>1% (separate chance roll)
 </td></tr>
 <tr>
 <td rowspan="2">Select at most 1
@@ -112,14 +114,14 @@ The requirements are based on your score and Stick Bug's level on a challenge.
 </td>
 <td>+1
 </td>
-<td>1%
+<td>1% (50% pick, then 2% roll)
 </td></tr>
 <tr>
 <td><a href="system-page.html#Blue_Attack">Blue Bee Attack</a>
 </td>
 <td>+1
 </td>
-<td>1%
+<td>1% (50% pick, then 2% roll)
 </td></tr>
 <tr>
 <td rowspan="4">Select 1
@@ -2048,7 +2050,7 @@ The tables below give the percentage of a certain stat on the amulet having stre
 
 ///
 
-/// tab | Silver <span class="tier-suffix">Stick Bug Amulet</span>
+/// tab | Silver <span class="tier-suffix tier-suffix--long">Stick Bug Amulet</span>
 
 
 <figure class="amulet-tier-icon"><img alt="Silver Stick Bug Amulet" src="img/Silver_Stick_Bug_Amulet.png"/><figcaption>The icon for the Silver Stick Bug Amulet.</figcaption></figure>
@@ -2090,7 +2092,7 @@ The tables below give the percentage of a certain stat on the amulet having stre
 </td>
 <td>+5% - +10%<br/>Intervals of 1%
 </td>
-<td>1%
+<td>1% (separate chance roll)
 </td></tr>
 <tr>
 <td rowspan="2">Select at most 1
@@ -2099,14 +2101,14 @@ The tables below give the percentage of a certain stat on the amulet having stre
 </td>
 <td>+1% - +3%<br/>Intervals of 1%
 </td>
-<td>16.6667%
+<td>16.6667% (50% pick, then 33.3% roll)
 </td></tr>
 <tr>
 <td><a href="system-page.html#Bond_From_Battle">Bond From Battle</a>
 </td>
 <td>+2% - +3%<br/>Intervals of 1%
 </td>
-<td>16.6667%
+<td>16.6667% (50% pick, then 33.3% roll)
 </td></tr>
 <tr>
 <td rowspan="2">Select at most 1
@@ -2115,14 +2117,14 @@ The tables below give the percentage of a certain stat on the amulet having stre
 </td>
 <td>+1
 </td>
-<td>5%
+<td>5% (50% pick, then 10% roll)
 </td></tr>
 <tr>
 <td><a href="system-page.html#Blue_Attack">Blue Bee Attack</a>
 </td>
 <td>+1
 </td>
-<td>5%
+<td>5% (50% pick, then 10% roll)
 </td></tr>
 <tr>
 <td rowspan="4">Select 1
@@ -4094,7 +4096,7 @@ The tables below give the percentage of a certain stat on the amulet having stre
 
 ///
 
-/// tab | Gold <span class="tier-suffix">Stick Bug Amulet</span>
+/// tab | Gold <span class="tier-suffix tier-suffix--long">Stick Bug Amulet</span>
 
 
 <figure class="amulet-tier-icon"><img alt="Gold Stick Bug Amulet" src="img/Gold_Stick_Bug_Amulet.png"/><figcaption>The icon for the Gold Stick Bug Amulet.</figcaption></figure>
@@ -4136,7 +4138,7 @@ The tables below give the percentage of a certain stat on the amulet having stre
 </td>
 <td>+10% - +15%<br/>Intervals of 1%
 </td>
-<td>1%
+<td>1% (separate chance roll)
 </td></tr>
 <tr>
 <td rowspan="3">Select at most 1
@@ -4159,7 +4161,7 @@ The tables below give the percentage of a certain stat on the amulet having stre
 </td>
 <td>+1
 </td>
-<td>8.3333%
+<td>8.3333% (33.3% pick, then 25% roll)
 </td></tr>
 <tr>
 <td rowspan="4">Select at most 1
@@ -4168,28 +4170,28 @@ The tables below give the percentage of a certain stat on the amulet having stre
 </td>
 <td>+1
 </td>
-<td>8.3333%
+<td>8.3333% (25% pick, then 33.3% roll)
 </td></tr>
 <tr>
 <td><a href="system-page.html#Blue_Attack">Blue Bee Attack</a>
 </td>
 <td>+1
 </td>
-<td>8.3333%
+<td>8.3333% (25% pick, then 33.3% roll)
 </td></tr>
 <tr>
 <td><a href="system-page.html#Red_Attack">Red Bee Attack</a>
 </td>
 <td>+1 - +2<br/>Intervals of 1
 </td>
-<td>2.5%
+<td>2.5% (25% pick, then 10% roll)
 </td></tr>
 <tr>
 <td><a href="system-page.html#Blue_Attack">Blue Bee Attack</a>
 </td>
 <td>+1 - +2<br/>Intervals of 1
 </td>
-<td>2.5%
+<td>2.5% (25% pick, then 10% roll)
 </td></tr>
 <tr>
 <td rowspan="4">Select 1
@@ -7283,7 +7285,7 @@ The tables below give the percentage of a certain stat on the amulet having stre
 
 ///
 
-/// tab | Diamond <span class="tier-suffix">Stick Bug Amulet</span>
+/// tab | Diamond <span class="tier-suffix tier-suffix--long">Stick Bug Amulet</span>
 
 
 <figure class="amulet-tier-icon"><img alt="Diamond Stick Bug Amulet" src="img/Diamond_Stick_Bug_Amulet.png"/><figcaption>The icon for the Diamond Stick Bug Amulet.</figcaption></figure>
@@ -7305,7 +7307,7 @@ The tables below give the percentage of a certain stat on the amulet having stre
 </td>
 <td><a href="system-page.html#Capacity_Multiplier">Capacity</a>
 </td>
-<td>+200,000 - +300,000<br/>Intervals of 25,000
+<td>+200,000 - +300,000<br/>Intervals of 25,000<br/>Low values more likely (bias 3:1)
 </td>
 <td>100%
 </td></tr>
@@ -7325,14 +7327,14 @@ The tables below give the percentage of a certain stat on the amulet having stre
 </td>
 <td>+15% - +20%<br/>Intervals of 1%
 </td>
-<td>1%
+<td>1% (separate chance roll)
 </td></tr>
 <tr>
 <td rowspan="3">Select 1
 </td>
 <td>Monster Respawn Time
 </td>
-<td>+5% - +10%<br/>Intervals of 1%
+<td>+5% - +10%<br/>Intervals of 1%<br/>Low values more likely (bias 5:1)
 </td>
 <td>33.3333%
 </td></tr>
@@ -10295,11 +10297,172 @@ The tables below give the percentage of a certain stat on the amulet having stre
 
 ///
 
+/// tab | Supreme <span class="tier-suffix tier-suffix--long">Stick Bug Amulet</span>
+
+<figure class="amulet-tier-icon"><img alt="Supreme Stick Bug Amulet" src="img/Supreme_Stick_Bug_Amulet.png"/><figcaption>The icon for the Supreme Stick Bug Amulet.</figcaption></figure>
+
+<p class="amulet-tier-obtain"><b>How to get:</b> Not documented yet.</p>
+
+<table class="article-table">
+<tbody><tr>
+<th>Number of stats taken
+</th>
+<th>Stat
+</th>
+<th>Range
+</th>
+<th>Probability of being selected
+</th></tr>
+<tr>
+<td>Guaranteed
+</td>
+<td><a href="system-page.html#Capacity_Multiplier">Capacity</a>
+</td>
+<td>+500,000 - +750,000<br/>Intervals of 25,000<br/>Low values more likely (bias 3:1)
+</td>
+<td>100%
+</td></tr>
+<tr>
+<td>Guaranteed
+</td>
+<td><a href="system-page.html#Convert_Rate">Convert Rate</a>
+</td>
+<td>x1.35 - x1.5<br/>Intervals of 0.01
+</td>
+<td>100%
+</td></tr>
+<tr>
+<td>Guaranteed
+</td>
+<td><a href="system-page.html#Tool_Pollen">Pollen From Tools</a>
+</td>
+<td>+30% - +40%<br/>Intervals of 1%
+</td>
+<td>100%
+</td></tr>
+<tr>
+<td rowspan="3">Select 1
+</td>
+<td>Monster Respawn Time
+</td>
+<td>+15% - +20%<br/>Intervals of 1%<br/>Low values more likely (bias 5:1)
+</td>
+<td>33.3333%
+</td></tr>
+<tr>
+<td><a href="system-page.html#Bond_From_Battle">Bond From Battle</a>
+</td>
+<td>+25% - +40%<br/>Intervals of 1%
+</td>
+<td>33.3333%
+</td></tr>
+<tr>
+<td><a href="system-page.html#Bee_Attack">Bee Attack</a>
+</td>
+<td>+2 - +3<br/>Intervals of 1
+</td>
+<td>33.3333%
+</td></tr>
+<tr>
+<td rowspan="2">Select 1
+</td>
+<td><a href="system-page.html#Red_Attack">Red Bee Attack</a>
+</td>
+<td>+3 - +4<br/>Intervals of 1
+</td>
+<td>50%
+</td></tr>
+<tr>
+<td><a href="system-page.html#Blue_Attack">Blue Bee Attack</a>
+</td>
+<td>+3 - +4<br/>Intervals of 1
+</td>
+<td>50%
+</td></tr>
+<tr>
+<td rowspan="4">Select 1
+</td>
+<td><a href="system-page.html#White_Pollen">White Pollen</a>
+</td>
+<td>+45% - +60%<br/>Intervals of 1%
+</td>
+<td>25%
+</td></tr>
+<tr>
+<td><a href="system-page.html#Red_Pollen">Red Pollen</a>
+</td>
+<td>+45% - +60%<br/>Intervals of 1%
+</td>
+<td>25%
+</td></tr>
+<tr>
+<td><a href="system-page.html#Blue_Pollen">Blue Pollen</a>
+</td>
+<td>+45% - +60%<br/>Intervals of 1%
+</td>
+<td>25%
+</td></tr>
+<tr>
+<td><a href="system-page.html#Pollen">Pollen</a>
+</td>
+<td>+18% - +25%<br/>Intervals of 1%
+</td>
+<td>25%
+</td></tr>
+<tr>
+<td rowspan="6">Select 2
+</td>
+<td><a href="system-page.html#Honey_From_Tokens">Honey From Tokens</a>
+</td>
+<td>+150% - +200%<br/>Intervals of 1%
+</td>
+<td>33.3333%
+</td></tr>
+<tr>
+<td><a href="system-page.html#Attack_Multiplier">Bee Attack</a>
+</td>
+<td>+18% - +25%<br/>Intervals of 1%
+</td>
+<td>33.3333%
+</td></tr>
+<tr>
+<td><a href="system-page.html#Blue_Bomb_Pollen">Blue Bomb Pollen</a>
+</td>
+<td>+45% - +60%<br/>Intervals of 1%
+</td>
+<td>33.3333%
+</td></tr>
+<tr>
+<td><a href="system-page.html#Red_Bomb_Pollen">Red Bomb Pollen</a>
+</td>
+<td>+45% - +60%<br/>Intervals of 1%
+</td>
+<td>33.3333%
+</td></tr>
+<tr>
+<td><a href="system-page.html#Buzz_Bomb_Pollen">Buzz Bomb Pollen</a>
+</td>
+<td>+45% - +60%<br/>Intervals of 1%
+</td>
+<td>33.3333%
+</td></tr>
+<tr>
+<td><a href="system-page.html#Bomb_Pollen">Bomb Pollen</a>
+</td>
+<td>+30% - +40%<br/>Intervals of 1%
+</td>
+<td>33.3333%
+</td></tr></tbody></table>
+
+*The chance breakdown for this tier isn't available yet.*
+
+///
+
 ## Trivia
 
 * This is the only amulet that can give monster respawn time as a stat.
   * This, the [Vicious Bee](vicious-bee.md)'s gifted bonus, and the [Icicles](icicles.md) Beequip and the are the only sources of the -% Mob Respawn Time stats.
-* This is currently the only amulet that has diamond as its highest tier. However, the [Star Amulet](star-amulet.md) used to not have a supreme variant until the 2020-06-06 update.
+* Unlike in Bee Swarm Simulator, the game has a Supreme Stick Bug Amulet. How to get it isn't documented yet.
 
 ## References
 

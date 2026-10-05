@@ -55,6 +55,8 @@ The chance of getting an amulet of a higher tier and the quality of the amulet i
 
 *For more information on how amulets generate, see [Amulet#Generation](amulet.md#Generation).*
 
+*Stats in a "Select N" group are drawn evenly without repeats, so each one has an N in M chance. "Separate chance roll" means the stat only appears if an extra chance roll succeeds. "Low values more likely" means high values of that stat are rarer.*
+
 /// tab | Bronze <span class="tier-suffix">Shell Amulet</span>
 
 
@@ -10019,7 +10021,7 @@ The tables below give the percentage of a certain stat on the amulet having stre
 </td>
 <td><a href="system-page.html#Stump_Field_Pollen">Stump Field Pollen</a>
 </td>
-<td>+46% - +55%<br/>Intervals of 1%
+<td>+46% - +55%<br/>Intervals of 1%<br/>Low values more likely (bias 5:1)
 </td>
 <td>100%
 </td></tr>
@@ -13186,7 +13188,7 @@ The tables below give the percentage of a certain stat on the amulet having stre
 </td>
 <td><a href="system-page.html#Stump_Field_Pollen">Stump Field Pollen</a>
 </td>
-<td>+56% - +65%<br/>Intervals of 1%
+<td>+56% - +65%<br/>Intervals of 1%<br/>Low values more likely (bias 5:1)
 </td>
 <td>100%
 </td></tr>
