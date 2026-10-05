@@ -5,15 +5,17 @@ tags: ["Mechanics"]
 
 # Emoticons
 
+![Emoticon](img/Emoticon_Happy.png){ align=right width=120 }
+
 **Emoticons** are a mechanic for showing a bee's mood. The mood can affect how much [bond](bond.md) a [bee](bees.md) gets when it collects [pollen](pollen.md)[1], bee movespeed[1], and can even enable some bees to find certain [stickers](sticker.md) when collecting. It does not affect other [stats](stats.md), such as [pollen collection rate](stats.md#Gather_Amount) or [honey conversion speed](stats.md#Production_Amount).
 
 ## Bee Moods
 
-<figure class="thumb mw-halign-left" style="width: 85px" typeof="mw:File/Thumb">  <figcaption class="thumbcaption"> </figcaption> </figure>
+<img alt="Happy emoticon" src="img/Emoticon_Happy.png" width="70" align="left" style="margin:0 1em .5em 0"/>
 
 A bee will express happiness if it is fed a [treat](treats.md) or if it is working (or most recently was working) in a [field](fields.md) that it likes. Bees gain extra bond from gathering when working in a field they like and also move slightly faster than usual[1]. [Precise Bee](precise-bee.md) will also express happiness when it shoots all the targets during its Target Practice ability.
 
-<figure class="thumb mw-halign-left" style="width: 85px" typeof="mw:File/Thumb">  <figcaption class="thumbcaption"> </figcaption> </figure>
+<img alt="Sad emoticon" src="img/Emoticon_Sad.png" width="70" align="left" style="margin:0 1em .5em 0"/>
 
 A bee will express unhappiness if it is working in a field it dislikes or if the last field it worked in was one it dislikes. Bees gain less bond from gathering in fields they dislike, but do not move slower than usual.
 

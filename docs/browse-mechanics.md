@@ -26,7 +26,7 @@ All 49 pages in Mechanics.
 <a class="wiki-card" href="critical-hits.html"><img src="img/Critical_Hits.png" alt="" loading="lazy"><span>Critical Hits</span></a>
 <a class="wiki-card" href="cub-buddy.html"><img src="img/Cub_Buddy.png" alt="" loading="lazy"><span>Cub Buddy</span></a>
 <a class="wiki-card" href="day-night-cycle.html"><img src="img/Day/Night_Cycle.png" alt="" loading="lazy"><span>Day/Night Cycle</span></a>
-<a class="wiki-card wiki-card--noicon" href="emoticons.html"><img src="images/no-icon.svg" alt="" loading="lazy"><span>Emoticons</span></a>
+<a class="wiki-card" href="emoticons.html"><img src="img/Emoticon_Happy.png" alt="" loading="lazy"><span>Emoticons</span></a>
 <a class="wiki-card" href="energy.html"><img src="img/Energy.png" alt="" loading="lazy"><span>Energy</span></a>
 <a class="wiki-card" href="field-boost.html"><img src="img/Field_Boost.png" alt="" loading="lazy"><span>Field Boost</span></a>
 <a class="wiki-card" href="field-capacity.html"><img src="img/Field_Capacity.png" alt="" loading="lazy"><span>Field Capacity</span></a>
