@@ -552,6 +552,7 @@ The **Candy Ring** is a [level](bond.md) 14 [Beequip](beequip.md). It has an equ
 * As a reward from the [Robo Bear Challenge](robo-bear-challenge.md).
 * As a drop from [Hydroponic Planter](hydroponic-planter.md) in the [Stump Field](stump-field.md), [Blue Flower Field](blue-flower-field.md), [Sunflower Field](sunflower-field.md), and the [Pine Tree Forest](pine-tree-forest.md).
 * As a drop from [Petal Planter](petal-planter.md).
+* As a reward from a 2025 Beesmas quest.
 
 <table class="mw-collapsible autocollapse" style="margin:auto; background:#000; font-size: 10pt; border:5px solid #56CB5A; width: 100%; border-radius: 20px; -moz-border-radius: 20px; -webkit-border-radius: 20px; -khtml-border-radius: 20px; -icab-border-radius: 20px; -o-border-radius: 20px;">
 <tbody><tr>

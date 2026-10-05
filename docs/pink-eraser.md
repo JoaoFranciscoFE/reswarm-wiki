@@ -604,7 +604,6 @@ The **Pink Eraser** is a [level](bond.md) 12 [Beequip](beequip.md). It has an eq
 
 * Can be purchased from [Dapper Bear's Beequip Shop.](dapper-bear-s-shop.md)
 * As a reward from the [Robo Bear Challenge](robo-bear-challenge.md).
-* A drop from the Plastic Planter
 
 <table class="mw-collapsible autocollapse" style="margin:auto; background:#000; font-size: 10pt; border:5px solid #56CB5A; width: 100%; border-radius: 20px; -moz-border-radius: 20px; -webkit-border-radius: 20px; -khtml-border-radius: 20px; -icab-border-radius: 20px; -o-border-radius: 20px;">
 <tbody><tr>

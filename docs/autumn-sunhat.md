@@ -758,7 +758,6 @@ The **Autumn Sunhat** is a [level](bond.md) 16 [Beequip](beequip.md). It has an 
 ## Ways to obtain
 
 * Can be purchased from [Dapper Bear's Beequip Shop.](dapper-bear-s-shop.md)
-* As a reward from the [Stick Bug Challenge](stick-bug-challenge.md).
 * As a very rare drop from the [Petal Planter](petal-planter.md).
 * As a very rare drop from the [Tacky Planter](tacky-planter.md).
 

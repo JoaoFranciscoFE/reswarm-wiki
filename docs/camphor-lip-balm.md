@@ -494,7 +494,8 @@ The **Camphor Lip Balm** is a [level](bond.md) 12 [Beequip](beequip.md). It has 
 
 * Can be purchased from [Dapper Bear's Beequip Shop](dapper-bear-s-shop.md).
 * As a reward from the [Ant Challenge](ant-challenge.md).
-* A very rare drop from the [Blue Clay Planter](blue-clay-planter.md), [Red Clay Planter](red-clay-planter.md), [Heat-Treated Planter](heat-treated-planter.md) and [The Planter Of Plenty](the-planter-of-plenty.md).
+* As a reward from the [Robo Bear Challenge](robo-bear-challenge.md).
+* A very rare drop from the [Blue Clay Planter](blue-clay-planter.md), [Heat-Treated Planter](heat-treated-planter.md) and [The Planter Of Plenty](the-planter-of-plenty.md).
 
 ## Trivia
 

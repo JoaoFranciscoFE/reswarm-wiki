@@ -496,6 +496,7 @@ tags: ["Inventory", "Items", "Beequips"]
 * As an exceptionally rare reward from the [Stick Bug Challenge](stick-bug-challenge.md).
 * As an exceptionally rare drop from [Tacky Planter](tacky-planter.md) (1 in 100,000 at full growth).
 * As an exceptionally rare drop from [The Planter Of Plenty](the-planter-of-plenty.md).
+* As a reward for reaching Rebirth 13.
 * As a reward from completing [Honey Bee's](honey-bee-npc.md) Beesmas 2025 quest.
 
 <table class="mw-collapsible autocollapse" style="margin:auto; background:#000; font-size: 10pt; border:5px solid #56CB5A; width: 100%; border-radius: 20px; -moz-border-radius: 20px; -webkit-border-radius: 20px; -khtml-border-radius: 20px; -icab-border-radius: 20px; -o-border-radius: 20px;">

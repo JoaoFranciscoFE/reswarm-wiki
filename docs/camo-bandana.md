@@ -633,7 +633,6 @@ A **Camo Bandana** is a [level](bond.md) 8 [Beequip](beequip.md). It has an equi
 ## Ways to Obtain
 
 * Can be an item available for purchase in [Dapper Bear's Shop](dapper-bear-s-shop.md).
-* Can be a reward from [Stick Bug Challenge](stick-bug-challenge.md).
 
 <table class="mw-collapsible autocollapse" style="margin:auto; background:#000; font-size: 10pt; border:5px solid #56CB5A; width: 100%; border-radius: 20px; -moz-border-radius: 20px; -webkit-border-radius: 20px; -khtml-border-radius: 20px; -icab-border-radius: 20px; -o-border-radius: 20px;">
 <tbody><tr>

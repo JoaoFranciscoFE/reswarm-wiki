@@ -424,7 +424,6 @@ The **Bottle Cap** is a [level](bond.md) 4 [Beequip](beequip.md). It has an equi
 
 * As a drop from certain [planters](planter.md):
   * As a rare drop from [The Planter Of Plenty](the-planter-of-plenty.md).
-  * As a very rare drop from the [Plastic Planter](plastic-planter.md).
   * As a very rare drop from the [Candy Planter](candy-planter.md).
 * Buying it from [Dapper Bear's Shop](dapper-bear-s-shop.md).
 * A very rare chance from the [Ant Challenge](ant-challenge.md).
