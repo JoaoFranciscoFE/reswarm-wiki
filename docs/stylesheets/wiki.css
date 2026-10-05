@@ -274,18 +274,34 @@ figure img { max-width: 100%; height: auto; }
 .md-typeset table.infobox td.templateToolTitle { background: #c9a51c; color: #111; text-align: center; font-size: .95rem; padding: .6em .5em; }
 .md-typeset table.infobox td.templateToolHeader { background: #1c2e30; text-align: center; text-transform: uppercase; font-size: .72rem; padding: .3em .5em; }
 
-/* Tool collecting patterns (```tool-pattern blocks, see hooks/tool_patterns.py) */
+/* Tool collecting patterns (```tool-pattern blocks, see hooks/tool_patterns.py).
+   Each tile is one of the game's flower decals from img/patterns/; collected tiles are lit and outlined. */
 .md-typeset .tool-pattern {
-  display: grid; grid-template-columns: repeat(var(--cols), .7rem); gap: 2px;
+  display: grid; grid-template-columns: repeat(var(--cols), 1.35rem); gap: 1px;
   justify-content: center; margin: .5em auto .3em;
 }
-.md-typeset .tool-pattern > i { display: block; width: .7rem; height: .7rem; border-radius: 2px; background: #1f3133; }
-.md-typeset .tool-pattern > i.on, .md-typeset .tool-pattern-key > .on { background: #e8c547; }
-.md-typeset .tool-pattern > i.area, .md-typeset .tool-pattern-key > .area { background: #5f8f52; }
-.md-typeset .tool-pattern > i.me, .md-typeset .tool-pattern-key > .me { background: #1f3133; box-shadow: inset 0 0 0 2px #4fb3ff; border-radius: 50%; }
-.md-typeset .tool-pattern > i.me.on { background: #e8c547; }
+.md-typeset .tool-pattern > i, .md-typeset .tool-pattern-key > span {
+  position: relative; display: block; width: 1.35rem; height: 1.35rem; border-radius: 2px;
+  background: #2f7a32 center / cover no-repeat url("../img/patterns/white-1.png");
+}
+.md-typeset .tool-pattern > i.f01 { background-image: url("../img/patterns/white-1.png"); }
+.md-typeset .tool-pattern > i.f02 { background-image: url("../img/patterns/white-2.png"); }
+.md-typeset .tool-pattern > i.f03 { background-image: url("../img/patterns/white-3.png"); }
+.md-typeset .tool-pattern > i.f11 { background-image: url("../img/patterns/red-1.png"); }
+.md-typeset .tool-pattern > i.f12 { background-image: url("../img/patterns/red-2.png"); }
+.md-typeset .tool-pattern > i.f13 { background-image: url("../img/patterns/red-3.png"); }
+.md-typeset .tool-pattern > i.f21 { background-image: url("../img/patterns/blue-1.png"); }
+.md-typeset .tool-pattern > i.f22 { background-image: url("../img/patterns/blue-2.png"); }
+.md-typeset .tool-pattern > i.f23 { background-image: url("../img/patterns/blue-3.png"); }
+.md-typeset .tool-pattern > i.off::before, .md-typeset .tool-pattern > i.me:not(.on)::before {
+  content: ""; position: absolute; inset: 0; border-radius: 2px; background: rgba(8, 16, 18, .68);
+}
+.md-typeset .tool-pattern > i.on, .md-typeset .tool-pattern-key > .on { box-shadow: inset 0 0 0 2px #f2cf3c; }
+.md-typeset .tool-pattern > i.area, .md-typeset .tool-pattern-key > .area { box-shadow: inset 0 0 0 2px #8fd16a; }
+.md-typeset .tool-pattern > i.me::after, .md-typeset .tool-pattern-key > .me::after {
+  content: ""; position: absolute; inset: 15%; border-radius: 50%; border: 2px solid #4fb3ff; background: rgba(79, 179, 255, .35);
+}
 .md-typeset .tool-pattern-key, .md-typeset .tool-pattern-note { text-align: center; font-size: .62rem; color: var(--md-default-fg-color--light); }
-.md-typeset .tool-pattern-key > span { display: inline-block; width: .6rem; height: .6rem; border-radius: 2px; margin: 0 .25rem 0 .6rem; vertical-align: -1px; }
+.md-typeset .tool-pattern-key > span { display: inline-block; width: .8rem; height: .8rem; margin: 0 .25rem 0 .6rem; vertical-align: -2px; }
 .md-typeset .tool-pattern-key > span:first-child { margin-left: 0; }
 .md-typeset .tool-pattern-note { margin-bottom: .4em; }
-[data-md-color-scheme="default"] .md-typeset .tool-pattern > i:not(.on):not(.area) { background: #d5dfe1; }
