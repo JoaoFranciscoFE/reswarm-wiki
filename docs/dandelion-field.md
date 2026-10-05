@@ -157,7 +157,6 @@ This is an 18x36 field, containing 648 [flowers](flowers.md). The flowers are wh
 * Using [field dice](field-dice.md), [smooth dice](smooth-dice.md), or [loaded dice](loaded-dice.md) may add +100%-300% Dandelion Field pollen for 15 minutes based on the dice used if the current boost isn't already maxed out.
 * Dandelion [Field Winds](field-wind.md) can be obtained through the [Wind Shrine](wind-shrine.md) or [codes](codes.md). They have a base of 20% instant Dandelion Field conversion and give +5% instant Dandelion Field conversion and +25% Dandelion Field pollen for each stack. Dandelion Field Winds can stack up to a total of 13 times.
 * Redeeming certain valid codes:
-  * Jumpstart (Activates Dandelion Field Code Buff + other stuff).
   * PlushFriday (Gives Dandelion Field Code Buff + other stuff).
 * It can be boosted by the [Shell Amulet](shell-amulet.md). If it has a Dandelion Field Boost, it can boost the field by +5% to +30% depending on the amulet rarity.
 

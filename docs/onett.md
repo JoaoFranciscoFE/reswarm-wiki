@@ -377,7 +377,6 @@ Access to <a href="onett-s-lid-art.html">Onett's Lid Art</a>
 * When you give Onett a present in Beesmas 2020, the present you gave him includes a collection of Korean skin care products. The detail that states the products are specifically Korean refers to how Korean skin care products are generally very high-quality.
 * Onett the quest giver and the statue are the only NPCs with a bag.
 * During Beesmas 2020, there was a temporary glitch which allowed players to claim the Honeyday Event buff and other stuff from Onett by talking to him (or rejoining the game) multiple times. This glitch was soon fixed after a shutdown.
-* When interacting with Onett while still having the Star Journey 1 quest, the text at the end of the dialogue is a riddle for one of the codes that would give a 7-Pronged Cog, used to craft the Strange Goggles in the Ready Player Two event.
 * Onett and [Polar Bear](polar-bear.md) are the only NPCs whose interaction have been a requirement to complete a [quest](quests.md).
   * The player needs to talk to Onett for [Mother Bear's](mother-bear.md) "⌛Waiting With Sun Bear (5/6): And Mother Bear. Again" quest.
 * In the 2026-04-23 update, all Port-O-Hive variants have its mesh scaled down due to a bug. Its cause is unknown.

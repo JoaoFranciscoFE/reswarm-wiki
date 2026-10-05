@@ -31,14 +31,6 @@ Open **Settings** in-game, type the code into the codes box and redeem it. Codes
 | `connoisseur` | 5 [Tickets](ticket.md) |
 | `crawlers` | 5 [Tickets](ticket.md) |
 | `roof` | 5 [Tickets](ticket.md) |
-| `troggles` | 7-Pronged Cog and the [Clover Field](clover-field.md) [code buff](buffs-debuffs.md#Field_Code_Buff) |
-| `wordfactory` | 7-Pronged Cog and the [Pine Tree Forest](pine-tree-forest.md) [code buff](buffs-debuffs.md#Field_Code_Buff) |
-| `millie` | 7-Pronged Cog and the [Sunflower Field](sunflower-field.md) [code buff](buffs-debuffs.md#Field_Code_Buff) |
-| `luther` | 7-Pronged Cog and the [Blue Flower Field](blue-flower-field.md) [code buff](buffs-debuffs.md#Field_Code_Buff) |
-| `carmensandiego` | 7-Pronged Cog and the [Rose Field](rose-field.md) [code buff](buffs-debuffs.md#Field_Code_Buff) |
-| `jumpstart` | 7-Pronged Cog and the [Dandelion Field](dandelion-field.md) [code buff](buffs-debuffs.md#Field_Code_Buff) |
-| `dysentery` | 7-Pronged Cog and the [Mushroom Field](mushroom-field.md) [code buff](buffs-debuffs.md#Field_Code_Buff) |
-| `bssrb10` | A free UGC item. Needs Rebirth 10 or higher. |
 
 ## Expired codes
 

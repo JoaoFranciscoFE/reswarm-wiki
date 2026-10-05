@@ -24,10 +24,6 @@ The **Ant Challenge Info** is located behind the [Ant Gate](ant-gate.md) and to 
 </p>
 </td></tr></tbody></table>
 
-## Trivia
-
-* The last sentence in Ant Challenge Info's previous dialogue is a clue to the code "Dysentery" from the Ready Player Two event.
-
 <table class="mw-collapsible mw-collapsed NavTable">
 <tbody><tr>
 <th class="NavTitle" colspan="2">Locations
