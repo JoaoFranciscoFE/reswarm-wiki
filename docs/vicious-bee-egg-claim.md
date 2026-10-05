@@ -1,15 +1,15 @@
 ---
-title: "Vicious Bee Egg Claim"
+title: "Vicious Bee Claimer"
 tags: ["Locations", "Egg Claims"]
 ---
 
-# Vicious Bee Egg Claim
+# Vicious Bee Claimer
 
-![Vicious Bee Egg Claim](img/places/Vicious_Bee_Egg_Claim.png){ .wiki-photo }
+![Vicious Bee Claimer](img/places/Vicious_Bee_Egg_Claim.png){ .wiki-photo }
 
 
 
-The **Vicious Bee Egg Claim** is a platform found between the [Spider Field](spider-field.md) and [Strawberry Field](strawberry-field.md) that lets the player exchange 250 [stingers](stinger.md) for a [Vicious Bee egg](egg.md#Event_Bee_Eggs). The platform is decorated with a large Vicious Bee and a "⚠️ WANTED ⚠️" sign. The pad's color is black, and the number "250" is printed on it, indicating that the player needs 250 stingers to claim a Vicious Bee egg. This exchange can only be done once per player. When the player walks on the platform and they do not have 250 or more stingers, a message on the top of the screen shows “Turn in 250 Stingers to Claim a Vicious Bee (Number of stingers/250)".
+The **Vicious Bee Claimer** (called the Vicious Bee Egg Claim in Bee Swarm Simulator) is a platform found between the [Spider Field](spider-field.md) and [Strawberry Field](strawberry-field.md) that lets the player exchange 250 [stingers](stinger.md) for a [Vicious Bee egg](egg.md#Event_Bee_Eggs). The platform is decorated with a large Vicious Bee and a "⚠️ WANTED ⚠️" sign. The pad's color is black, and the number "250" is printed on it, indicating that the player needs 250 stingers to claim a Vicious Bee egg. This exchange can only be done once per player. When the player walks on the platform and they do not have 250 or more stingers, a message on the top of the screen shows “Turn in 250 Stingers to Claim a Vicious Bee (Number of stingers/250)".
 
 ## Claiming the Egg
 
@@ -19,7 +19,7 @@ If a player doesn't have 250 stingers and attempts to claim a vicious bee, the p
 ## Trivia
 
 * There used to be a glitch where players could obtain 2 Vicious Bee eggs. This glitch has been patched as of the 2018-11-25 update.
-* This is one of the two egg claims, the other being the [Gummy Bee Egg Claim](gummy-bee-egg-claim.md) for [Gummy Bee](gummy-bee.md).
+* This is one of the two egg claims, the other being the [Gummy Bee Claimer](gummy-bee-egg-claim.md) for [Gummy Bee](gummy-bee.md).
 
 <table class="mw-collapsible mw-collapsed NavTable">
 <tbody><tr>
@@ -43,7 +43,7 @@ If a player doesn't have 250 stingers and attempts to claim a vicious bee, the p
 <tr>
 <th class="NavCategory">Machines
 </th>
-<td class="NavLinks NavLinksBasicEven"><b><a href="honey-dispenser.html">Honey Dispenser</a> • <a href="royal-jelly-dispenser.html">Royal Jelly Dispenser</a> • <a href="treat-dispenser.html">Treat Dispenser</a> • <a href="instant-converter.html">Instant Converter</a> • <a href="wealth-clock.html">Wealth Clock</a> • <a href="moon-amulet-generator.html">Moon Amulet Generator</a> • <a href="memory-match.html">Memory Match</a> • <a href="blue-field-booster.html">Blue Field Booster</a> • <a href="red-field-booster.html">Red Field Booster</a> • <a href="field-booster.html">Field Booster</a> • <a href="blueberry-dispenser.html">Blueberry Dispenser</a> • <a href="strawberry-dispenser.html">Strawberry Dispenser</a> • <a href="honeystorm.html">Honeystorm</a> • <a href="special-sprout-summoner.html">Special Sprout Summoner</a> • <a href="free-ant-pass-dispenser.html">Free Ant Pass Dispenser</a> • <a href="ant-pass-dispenser.html">Ant Pass Dispenser</a> • <a href="glue-dispenser.html">Glue Dispenser</a> • <a href="blender.html">Blender</a> • <a href="coconut-dispenser.html">Coconut Dispenser</a> • <a href="mythic-meteor-shower.html">Mythic Meteor Shower</a> • <a href="free-robo-pass-dispenser.html">Free Robo Pass Dispenser</a> • <a href="robo-pass-dispenser.html">Robo Pass Dispenser</a> • <a href="sticker-stack.html">Sticker Stack</a> • <a href="sticker-printer.html">Sticker Printer</a> • <a href="nectar-condenser.html">Nectar Condenser</a></b>
+<td class="NavLinks NavLinksBasicEven"><b><a href="honey-dispenser.html">Honey Dispenser</a> • <a href="royal-jelly-dispenser.html">Royal Jelly Dispenser</a> • <a href="treat-dispenser.html">Treat Dispenser</a> • <a href="instant-converter.html">Instant Converter</a> • <a href="wealth-clock.html">Wealth Clock</a> • <a href="moon-amulet-generator.html">Moon Amulet Generator</a> • <a href="memory-match.html">Memory Match</a> • <a href="blue-field-booster.html">Blue Field Booster</a> • <a href="red-field-booster.html">Red Field Booster</a> • <a href="field-booster.html">Field Booster</a> • <a href="blueberry-dispenser.html">Blueberry Dispenser</a> • <a href="strawberry-dispenser.html">Strawberry Dispenser</a> • <a href="blue-extract-dispenser.html">Blue Extract Dispenser</a> • <a href="red-extract-dispenser.html">Red Extract Dispenser</a> • <a href="honeystorm.html">Honeystorm</a> • <a href="special-sprout-summoner.html">Special Sprout Summoner</a> • <a href="free-ant-pass-dispenser.html">Free Ant Pass Dispenser</a> • <a href="ant-pass-dispenser.html">Ant Pass Dispenser</a> • <a href="glue-dispenser.html">Glue Dispenser</a> • <a href="blender.html">Blender</a> • <a href="coconut-dispenser.html">Coconut Dispenser</a> • <a href="mythic-meteor-shower.html">Mythic Meteor Shower</a> • <a href="free-robo-pass-dispenser.html">Free Robo Pass Dispenser</a> • <a href="robo-pass-dispenser.html">Robo Pass Dispenser</a> • <a href="sticker-stack.html">Sticker Stack</a> • <a href="sticker-printer.html">Sticker Printer</a> • <a href="nectar-condenser.html">Nectar Condenser</a></b>
 </td></tr>
 <tr>
 <th class="NavCategory">Transportation
@@ -58,7 +58,7 @@ If a player doesn't have 250 stingers and attempts to claim a vicious bee, the p
 <tr>
 <th class="NavCategory">Other<br/>Places
 </th>
-<td class="NavLinks NavLinksBasicOdd"><b><a href="hive.html">Hive</a> • <a href="obstacle-courses.html">Obstacle Courses</a> • King Beetle Lair • <a href="white-tunnel.html">White Tunnel</a> • <a href="werewolf-s-cave.html">Werewolf's Cave</a> • <a href="ant-challenge.html">Ant Challenge</a> • <a href="star-hall.html">Star Hall</a> • <a href="gummy-bear-s-lair.html">Gummy Bear's Lair</a> • <a href="ant-challenge-info.html">Ant Challenge Info</a> • <strong class="mw-selflink selflink">Vicious Bee Egg Claim</strong> • <a href="gummy-bee-egg-claim.html">Gummy Bee Egg Claim</a> • <a href="wind-shrine.html">Wind Shrine</a> • <a href="mazes.html">Mazes</a> • <a href="hive-hub.html">Hive Hub</a> • <a href="sticker-seeker-quest-machine.html">Sticker-Seeker Quest Machine</a></b>
+<td class="NavLinks NavLinksBasicOdd"><b><a href="hive.html">Hive</a> • <a href="obstacle-courses.html">Obstacle Courses</a> • King Beetle Lair • <a href="white-tunnel.html">White Tunnel</a> • <a href="werewolf-s-cave.html">Werewolf's Cave</a> • <a href="ant-challenge.html">Ant Challenge</a> • <a href="star-hall.html">Star Hall</a> • <a href="gummy-bear-s-lair.html">Gummy Bear's Lair</a> • <a href="ant-challenge-info.html">Ant Challenge Info</a> • <strong class="mw-selflink selflink">Vicious Bee Claimer</strong> • <a href="gummy-bee-egg-claim.html">Gummy Bee Claimer</a> • <a href="wind-shrine.html">Wind Shrine</a> • <a href="mazes.html">Mazes</a> • <a href="hive-hub.html">Hive Hub</a> • <a href="sticker-seeker-quest-machine.html">Sticker-Seeker Quest Machine</a></b>
 </td></tr>
 <tr>
 <th class="NavCategory">Event<br/>Locations

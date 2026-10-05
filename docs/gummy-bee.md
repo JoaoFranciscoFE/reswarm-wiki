@@ -30,7 +30,7 @@ tags: ["Bees", "Event", "Colorless", "Gummy Invasion", "Goo"]
 </div>
 </div>
 
-**Gummy Bee** is a Colorless [Event bee](bees-event.md). It can be purchased for 2,500 [Gumdrops](gumdrops.md) from the [Gummy Bee Egg Claim](gummy-bee-egg-claim.md).
+**Gummy Bee** is a Colorless [Event bee](bees-event.md). It can be purchased for 2,500 [Gumdrops](gumdrops.md) from the [Gummy Bee Claimer](gummy-bee-egg-claim.md).
 
 Like all other Event bees, this bee does not have a favorite treat, and the only way to make it gifted is by feeding it a [Star Treat](star-treat.md), [Gingerbread Bears](gingerbread-bear.md) or [Aged Gingerbread Bears](aged-gingerbread-bear.md).
 
@@ -302,7 +302,7 @@ Gummy Bee likes the [Pineapple Patch](pineapple-patch.md), [Mountain Top Field](
 
 ## Trivia
 
-* There is a model of the Gummy Bee on the [Gummy Bee Egg Claim](gummy-bee-egg-claim.md). Using [gumdrops](gumdrops.md) right after touching it and receiving the message; "The Gummy Bee wants gumdrops" will teleport the player to [Gummy Bear's Lair](gummy-bear-s-lair.md). The player must have the [Goo Hotshot Badge](badges.md#Goo_Badge) to enter the lair, or else there is a message that says "Only Goo Hotshots can hear Gummy Bee...".
+* There is a model of the Gummy Bee on the [Gummy Bee Claimer](gummy-bee-egg-claim.md). Using [gumdrops](gumdrops.md) right after touching it and receiving the message; "The Gummy Bee wants gumdrops" will teleport the player to [Gummy Bear's Lair](gummy-bear-s-lair.md). The player must have the [Goo Hotshot Badge](badges.md#Goo_Badge) to enter the lair, or else there is a message that says "Only Goo Hotshots can hear Gummy Bee...".
 * Gummy Bee is the only [Event bee](bees-event.md) that doesn't have extra body parts.
 * Gummy Bee and [Fireflies](fireflies.md) share the same face, which resembles [Basic Bee's](basic-bee.md) face.
 * The Gummy Bee is the fourth [Event bee](bees-event.md) to be released in an Update.

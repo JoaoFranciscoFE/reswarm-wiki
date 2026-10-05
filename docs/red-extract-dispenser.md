@@ -1,19 +1,65 @@
 ---
-title: "All-Time Top Red Pollen Collectors"
-tags: ["Leaderboards", "Locations", "Red"]
+title: "Red Extract Dispenser"
+tags: ["Machines", "Locations", "Dispenser", "Red"]
 ---
 
-# All-Time Top Red Pollen Collectors
+# Red Extract Dispenser
 
-![All-Time Top Red Pollen Collectors](img/All-Time_Top_Red_Pollen_Collectors.png){ align=right width=150 }
+<aside class="portable-infobox pi-background pi-border-color pi-theme-wikia pi-layout-stacked" role="region">
+<h2 class="pi-item pi-item-spacing pi-title pi-secondary-background" data-source="title">Red Extract Dispenser</h2>
+<figure class="pi-item pi-image pi-photo"><img alt="Red Extract Dispenser" src="img/places/Red_Extract_Dispenser.png" width="640" height="385"/></figure>
+<section class="pi-item pi-group pi-border-color">
+<h2 class="pi-item pi-header pi-secondary-font pi-item-spacing pi-secondary-background">Information</h2>
+<div class="pi-item pi-data pi-item-spacing pi-border-color" data-source="usage">
+<h3 class="pi-data-label pi-secondary-font">Usage</h3>
+<div class="pi-data-value pi-font">Grants:<p><img alt="Red Extract" height="35" src="img/Red_Extract.png" width="35"/><a href="red-extract.html">Red Extracts</a> <br/><img alt="Honey" height="35" src="img/Honey.png" width="35"/><a href="honey.html"><span class="color-template color-template-honey">Honey</span></a> <br/>x10 <a href="ability-tokens.html#Boost"><span class="color-template color-template-red-boost-token color-template-background-clip">Red Boost Tokens</span></a> <br/><img alt="Haste" height="25" src="img/Haste.png" width="25"/>x5 <a href="ability-tokens.html#Haste"><span class="color-template color-template-haste color-template-background-clip">Haste</span></a> <br/></p></div>
+</div>
+<div class="pi-item pi-data pi-item-spacing pi-border-color" data-source="requirement">
+<h3 class="pi-data-label pi-secondary-font">Requirement(s)</h3>
+<div class="pi-data-value pi-font">None</div>
+</div>
+<div class="pi-item pi-data pi-item-spacing pi-border-color" data-source="cooldown">
+<h3 class="pi-data-label pi-secondary-font">Cooldown</h3>
+<div class="pi-data-value pi-font">8 hours</div>
+</div>
+<div class="pi-item pi-data pi-item-spacing pi-border-color" data-source="location">
+<h3 class="pi-data-label pi-secondary-font">Location</h3>
+<div class="pi-data-value pi-font"><a href="red-hq.html">Red HQ</a>, next to the Strawberry Dispenser</div>
+</div>
+</section>
+</aside>
 
-The **All-Time Top Red Pollen Collectors** is one of 64 [leaderboards](leaderboards.md) in the game. This leaderboard shows how much red [pollen](pollen.md) players have collected over time. It shows 10 leaderboard positions at a time. The player can scroll down the leaderboard to see more leaderboard positions, all the way to 100th place. Only legitimate players appear on the leaderboards for lengths of time (hackers/exploiters will be removed).
+The **Red Extract Dispenser** is a dispenser added in Re://:Swarm. It is located in the [Red HQ](red-hq.md) near [Riley Bee](riley-bee.md), right next to the [Strawberry Dispenser](strawberry-dispenser.md). When used, it grants the player [Red Extracts](red-extract.md), [honey](honey.md), [red boost](ability-tokens.md#Boost) x10 and [haste](ability-tokens.md#Haste) x5.
 
-If the player steps on the white pad in front of it, the message "You've collected "x" Red Pollen" will appear, "x" being the total amount of red pollen you have collected in total.
+It has a cooldown of 8 hours and has no requirements, so any player can use it.
 
-## Location
+## Honey and Red Extract reward amounts
 
-It is located inside the [Red HQ](red-hq.md), between the ladder and the [Dark Scythe](dark-scythe.md).
+The amount of honey and Red Extracts given is based on the number of Red bees the player has in their hive. More specifically, let *cnt* be the number of Red bees in the player's hive:
+
+* The amount of Red Extracts the player receives is equal to 10 + *cnt*, so it always gives at least 10.
+* The amount of honey the player receives is equal to (10 + *cnt*)<sup>1.5</sup> rounded to the nearest whole number, times 200, or 500 if the result is less than 500.
+
+<table class="article-table">
+<tbody><tr><th>Red bees</th><th>Red Extracts</th><th>Honey</th></tr>
+<tr><td>0</td><td>10</td><td>6,400</td></tr>
+<tr><td>5</td><td>15</td><td>11,600</td></tr>
+<tr><td>10</td><td>20</td><td>17,800</td></tr>
+<tr><td>15</td><td>25</td><td>25,000</td></tr>
+<tr><td>20</td><td>30</td><td>32,800</td></tr>
+<tr><td>25</td><td>35</td><td>41,400</td></tr>
+<tr><td>30</td><td>40</td><td>50,600</td></tr>
+<tr><td>35</td><td>45</td><td>60,400</td></tr>
+<tr><td>40</td><td>50</td><td>70,800</td></tr>
+<tr><td>45</td><td>55</td><td>81,600</td></tr>
+<tr><td>50</td><td>60</td><td>93,000</td></tr>
+</tbody></table>
+
+## Trivia
+
+* This dispenser is unique to Re://:Swarm and does not exist in Bee Swarm Simulator.
+* It works like the [Strawberry Dispenser](strawberry-dispenser.md) next to it, but gives Red Extracts instead of Strawberries and counts 10 extra bees for both the extracts and the honey.
+* It has the longest cooldown of any dispenser in the Red HQ.
 
 <table class="mw-collapsible mw-collapsed NavTable">
 <tbody><tr>
@@ -37,7 +83,7 @@ It is located inside the [Red HQ](red-hq.md), between the ladder and the [Dark S
 <tr>
 <th class="NavCategory">Machines
 </th>
-<td class="NavLinks NavLinksBasicEven"><b><a href="honey-dispenser.html">Honey Dispenser</a> • <a href="royal-jelly-dispenser.html">Royal Jelly Dispenser</a> • <a href="treat-dispenser.html">Treat Dispenser</a> • <a href="instant-converter.html">Instant Converter</a> • <a href="wealth-clock.html">Wealth Clock</a> • <a href="moon-amulet-generator.html">Moon Amulet Generator</a> • <a href="memory-match.html">Memory Match</a> • <a href="blue-field-booster.html">Blue Field Booster</a> • <a href="red-field-booster.html">Red Field Booster</a> • <a href="field-booster.html">Field Booster</a> • <a href="blueberry-dispenser.html">Blueberry Dispenser</a> • <a href="strawberry-dispenser.html">Strawberry Dispenser</a> • <a href="blue-extract-dispenser.html">Blue Extract Dispenser</a> • <a href="red-extract-dispenser.html">Red Extract Dispenser</a> • <a href="honeystorm.html">Honeystorm</a> • <a href="special-sprout-summoner.html">Special Sprout Summoner</a> • <a href="free-ant-pass-dispenser.html">Free Ant Pass Dispenser</a> • <a href="ant-pass-dispenser.html">Ant Pass Dispenser</a> • <a href="glue-dispenser.html">Glue Dispenser</a> • <a href="blender.html">Blender</a> • <a href="coconut-dispenser.html">Coconut Dispenser</a> • <a href="mythic-meteor-shower.html">Mythic Meteor Shower</a> • <a href="free-robo-pass-dispenser.html">Free Robo Pass Dispenser</a> • <a href="robo-pass-dispenser.html">Robo Pass Dispenser</a> • <a href="sticker-stack.html">Sticker Stack</a> • <a href="sticker-printer.html">Sticker Printer</a> • <a href="nectar-condenser.html">Nectar Condenser</a></b>
+<td class="NavLinks NavLinksBasicEven"><b><a href="honey-dispenser.html">Honey Dispenser</a> • <a href="royal-jelly-dispenser.html">Royal Jelly Dispenser</a> • <a href="treat-dispenser.html">Treat Dispenser</a> • <a href="instant-converter.html">Instant Converter</a> • <a href="wealth-clock.html">Wealth Clock</a> • <a href="moon-amulet-generator.html">Moon Amulet Generator</a> • <a href="memory-match.html">Memory Match</a> • <a href="blue-field-booster.html">Blue Field Booster</a> • <a href="red-field-booster.html">Red Field Booster</a> • <a href="field-booster.html">Field Booster</a> • <strong class="mw-selflink selflink">Blueberry Dispenser</strong> • <a href="strawberry-dispenser.html">Strawberry Dispenser</a> • <a href="blue-extract-dispenser.html">Blue Extract Dispenser</a> • <a href="red-extract-dispenser.html">Red Extract Dispenser</a> • <a href="honeystorm.html">Honeystorm</a> • <a href="special-sprout-summoner.html">Special Sprout Summoner</a> • <a href="free-ant-pass-dispenser.html">Free Ant Pass Dispenser</a> • <a href="ant-pass-dispenser.html">Ant Pass Dispenser</a> • <a href="glue-dispenser.html">Glue Dispenser</a> • <a href="blender.html">Blender</a> • <a href="coconut-dispenser.html">Coconut Dispenser</a> • <a href="mythic-meteor-shower.html">Mythic Meteor Shower</a> • <a href="free-robo-pass-dispenser.html">Free Robo Pass Dispenser</a> • <a href="robo-pass-dispenser.html">Robo Pass Dispenser</a> • <a href="sticker-stack.html">Sticker Stack</a> • <a href="sticker-printer.html">Sticker Printer</a> • <a href="nectar-condenser.html">Nectar Condenser</a></b>
 </td></tr>
 <tr>
 <th class="NavCategory">Transportation

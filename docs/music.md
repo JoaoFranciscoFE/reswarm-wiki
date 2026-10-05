@@ -133,7 +133,7 @@ There are 15 songs principally used, all found in [Onett's inventory.](https://w
 </td>
 <td><span class="mw-default-size" typeof="mw:Error mw:File"></span>
 </td>
-<td><b>Plays inside <a href="gummy-bear-s-lair.html">Gummy Bear's Lair</a>, near the <a href="gummy-bee-egg-claim.html">Gummy Bee Egg Claim</a>, and near the Gooey Present area.</b>
+<td><b>Plays inside <a href="gummy-bear-s-lair.html">Gummy Bear's Lair</a>, near the <a href="gummy-bee-egg-claim.html">Gummy Bee Claimer</a>, and near the Gooey Present area.</b>
 </td></tr>
 <tr>
 <td>Vendor

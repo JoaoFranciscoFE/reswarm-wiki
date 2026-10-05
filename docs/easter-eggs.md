@@ -33,7 +33,7 @@ The statue is one of the easiest easter eggs to find and can be found on the top
 1. Using the [Yellow Cannon](yellow-cannon.md), [Red Cannon](red-cannon.md), or [Blue Cannon](blue-cannon.md) (only glider) in combination with the [parachute](parachute.md)/[glider](glider.md) to glide to the top of the hive.
 2. On very rare occasions the statue will fall to the ground, and actually could be found inside the honeycombs within the rightmost hive. Rarely, he can be found behind the 5-Bee Gate.
 3. You can jump on the Puppy Bee's tail on the [Ticket Tent](ticket-tent.md) or the Gifted Photon Bee on the ticket tent and jump on top of the hive if you have enough jump power or speed.
-4. You can jump in the Gummy Bee in [Gummy Bee Egg Claim](gummy-bee-egg-claim.md), and use the Glider to get on the hives.
+4. You can jump in the Gummy Bee in [Gummy Bee Claimer](gummy-bee-egg-claim.md), and use the Glider to get on the hives.
 5. Jump and use glider from the coconut field to get on top of the hives.
 
 Unlike the Onett NPC found in the [Bear Gate](bear-gate.md), he cannot be interacted with.

@@ -21,6 +21,7 @@ A **Red Extract** is an inventory item that was added in the 2018-11-25 update. 
 
 ## Ways to Obtain
 
+* Using the [Red Extract Dispenser](red-extract-dispenser.md) in the [Red HQ](red-hq.md), which gives 10 plus one for each Red bee in the hive every 8 hours.
 * Crafting it via [Blender](blender.md) for:
   * 50 [Strawberries](strawberry.md)
   * 10 [Royal Jellies](royal-jelly.md)

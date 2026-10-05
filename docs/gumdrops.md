@@ -117,9 +117,9 @@ Total required for all single-purchase items: 4,525 **Gumdrops**
 
 * Gumdrops are the only item that changes the overlay on the [leaves](leaves.md).
 * Gumdrops are the cheapest items in the game that cost tickets, costing only 1/3 tickets, and they are also the cheapest to speed up in the Blender, along with [moon charms](moon-charm.md), requiring only 1 ticket for every 10 gumdrops.
-* If the player crafts glue in the Blender, it will say " - [Amount of glues crafting \* 50] *Gumdropss*" instead of "*Gumdrops*". This also happens when donating gumdrops to the [Wind Shrine](wind-shrine.md) and getting Gummy Bee from the Gummy Bee Egg Claim.
+* If the player crafts glue in the Blender, it will say " - [Amount of glues crafting \* 50] *Gumdropss*" instead of "*Gumdrops*". This also happens when donating gumdrops to the [Wind Shrine](wind-shrine.md) and getting Gummy Bee from the Gummy Bee Claimer.
 * Unlimited Gumdrops is a buff allows the player to use gumdrops without taking them away from the player's inventory for 3 minutes (only obtainable from [codes](codes.md) and the [Glue Dispenser](glue-dispenser.md)). This does not increase the number of gumdrops the player has.
-* To enter [Gummy Bear's Lair](gummy-bear-s-lair.md), the player will need to use a gumdrop on top of the Gummy Bee at the Gummy Bee Egg Claim near the [Ant Gate](ant-gate.md) after earning the Goo Hotshot badge.
+* To enter [Gummy Bear's Lair](gummy-bear-s-lair.md), the player will need to use a gumdrop on top of the Gummy Bee at the Gummy Bee Claimer near the [Ant Gate](ant-gate.md) after earning the Goo Hotshot badge.
 * Gumdrops are currently the only way to get Gummy Bee after the 2019-04-05 update.
 * After the 2019-09-28 update, the hotkey for gumdrops (G), along with the hotkey of [Stingers](stinger.md) and [Micro-Converters](micro-converter.md), were removed.
 * Before the 2019-04-05 update, if the player attempted to use gumdrops before the cooldown was over, a message in the bottom right corner would say: [Must wait X seconds to use gumdrops again]. If the player doesn't have any gumdrops, a message will appear saying: [You don't have any Gumdrops].

@@ -9,51 +9,29 @@ tags: ["Dispenser", "Machines"]
 
 A **Dispenser** is a machine whose main purpose is to dispense various [items](items.md) or boosts to the player typically under a cooldown.
 
-To use a dispenser, simply stand on the pad in front of the dispenser to use it. Some of the dispensers have certain requirements in order to be used such as having enough [tickets](ticket.md) or being a part of the Bee Swarm Simulator Club. While there are some dispensers that don't directly have any requirements to be used, there are some that have indirect requirements such as the [Glue Dispenser](glue-dispenser.md) requiring the player have a certain [badge](badges.md) to access, as the Gummy Bear's Lair requires the player to have [Goo Hotshot](badges.md#Goo_Badge) or above to enter, or the [Coconut Dispenser](coconut-dispenser.md) needing the player to defeat the [Coconut Crab](coconut-crab.md) to gain access to it, similar to the rest of the content in the [Coconut Cave](coconut-cave.md) or the [Robo Pass Dispenser](free-robo-pass-dispenser.md) which requires the player to have 30 bees.
+To use a dispenser, simply stand on the pad in front of the dispenser to use it. Some of the dispensers have certain requirements in order to be used, such as having enough [tickets](ticket.md). Others have indirect requirements, such as the [Glue Dispenser](glue-dispenser.md), which sits in Gummy Bear's Lair and needs 2 Goo [badges](badges.md), or the [Coconut Dispenser](coconut-dispenser.md), which is inside the [Coconut Cave](coconut-cave.md). The [Free Ant Pass Dispenser](free-ant-pass-dispenser.md) needs 20 bees and the [Free Robo Pass Dispenser](free-robo-pass-dispenser.md) needs 30 bees.
 
-## Dispenser Types
+Unlike in Bee Swarm Simulator, the Honey, Treat, Blueberry and Strawberry Dispensers do not need Bee Swarm Simulator Club membership in Re://:Swarm.
 
-There are currently 12 types of dispensers listed below:
+## Dispensers by Area
 
-### Club Dispensers
+There are currently 14 dispensers, plus 2 bee claimers that turn an item into a bee egg once. Ticket dispensers cost [tickets](ticket.md) each use; the rest are free on a cooldown.
 
-Club Dispensers are dispensers that require the player to be part of the Bee Swarm Simulator Club in order to use them.
-They are the:
-
-<tabview>
-Blueberry Dispenser
-Honey Dispenser
-Strawberry Dispenser
-Treat Dispenser
-</tabview>
-
-### Free Dispensers
-
-Free Dispensers are dispensers that the player can use without having to join the Bee Swarm Simulator Club or spend tickets.
-They are the:
-
-<tabview>
-Coconut Dispenser
-Free Ant Pass Dispenser
-Free Robo Pass Dispenser
-Free Royal Jelly Dispenser
-Glue Dispenser
-</tabview>
-
-### Ticket Dispenser
-
-Ticket Dispensers are dispensers that require the player to spend tickets to use them.
-They are the:
-
-<tabview>
-Ant Pass Dispenser
-Robo Pass Dispenser
-Royal Jelly Dispenser
-</tabview>
+| Area | Dispensers |
+|---|---|
+| Starter Zone | [Honey Dispenser](honey-dispenser.md), [Royal Jelly Dispenser](royal-jelly-dispenser.md) (tickets), [Free Royal Jelly Dispenser](free-royal-jelly-dispenser.md) |
+| [Blue HQ](blue-hq.md) | [Blueberry Dispenser](blueberry-dispenser.md), [Blue Extract Dispenser](blue-extract-dispenser.md) |
+| [Red HQ](red-hq.md) | [Strawberry Dispenser](strawberry-dispenser.md), [Red Extract Dispenser](red-extract-dispenser.md) |
+| 5 Bee Zone | [Vicious Bee Claimer](vicious-bee-egg-claim.md) |
+| 10 Bee Zone | [Treat Dispenser](treat-dispenser.md) |
+| 20 Bee Zone | [Ant Pass Dispenser](ant-pass-dispenser.md) (tickets), [Free Ant Pass Dispenser](free-ant-pass-dispenser.md), [Gummy Bee Claimer](gummy-bee-egg-claim.md) |
+| 30 Bee Zone | [Robo Pass Dispenser](robo-pass-dispenser.md) (tickets), [Free Robo Pass Dispenser](free-robo-pass-dispenser.md) |
+| 35 Bee Zone | [Coconut Dispenser](coconut-dispenser.md), in the [Coconut Cave](coconut-cave.md) |
+| [Gummy Bear's Lair](gummy-bear-s-lair.md) | [Glue Dispenser](glue-dispenser.md) |
 
 ## Trivia
 
-* Of all the machines in the game, dispensers have the most variants, with a total of 12 different types.
+* The [Blue Extract Dispenser](blue-extract-dispenser.md) and the [Red Extract Dispenser](red-extract-dispenser.md) are unique to Re://:Swarm.
 * The [Honey Dispenser](honey-dispenser.md), the [Strawberry Dispenser](strawberry-dispenser.md), the [Blueberry Dispenser](blueberry-dispenser.md), the [Royal Jelly Dispenser](royal-jelly-dispenser.md), and the Glue Dispenser are the only dispensers that are required to be used for a [quest](quests.md) ("Honey Bee's Honey Wreath?" from [Honey Bee](honey-bee-npc.md) requires the player to use the Honey Dispenser, "BBM's Naughty List" from [Bubble Bee Man](bubble-bee-man.md) requires the player to use the Royal Jelly Ticket Dispenser, and "The Power of Information" from [Science Bear](science-bear.md) requires the player to use the Strawberry Dispenser, the Blueberry Dispenser, and the Glue Dispenser).
 * There are three dispensers that give [treats](treats.md) in the game being the [Treat Dispenser](treat-dispenser.md), the Blueberry Dispenser, and the Strawberry Dispenser.
 * The Glue Dispenser, the [Free Ant Pass Dispenser](free-ant-pass-dispenser.md), [Ant Pass Dispenser](ant-pass-dispenser.md), [Free Robo Pass Dispenser](free-robo-pass-dispenser.md), [Robo Pass Dispenser](robo-pass-dispenser.md), and the Coconut Dispenser are the only dispensers to not grant [haste](ability-tokens.md#Haste).
@@ -84,7 +62,7 @@ Royal Jelly Dispenser
 <tr>
 <th class="NavCategory">Machines
 </th>
-<td class="NavLinks NavLinksBasicEven"><b><a href="honey-dispenser.html">Honey Dispenser</a> • <a href="royal-jelly-dispenser.html">Royal Jelly Dispenser</a> • <a href="treat-dispenser.html">Treat Dispenser</a> • <a href="instant-converter.html">Instant Converter</a> • <a href="wealth-clock.html">Wealth Clock</a> • <a href="moon-amulet-generator.html">Moon Amulet Generator</a> • <a href="memory-match.html">Memory Match</a> • <a href="blue-field-booster.html">Blue Field Booster</a> • <a href="red-field-booster.html">Red Field Booster</a> • <a href="field-booster.html">Field Booster</a> • <a href="blueberry-dispenser.html">Blueberry Dispenser</a> • <a href="strawberry-dispenser.html">Strawberry Dispenser</a> • <a href="honeystorm.html">Honeystorm</a> • <a href="special-sprout-summoner.html">Special Sprout Summoner</a> • <a href="free-ant-pass-dispenser.html">Free Ant Pass Dispenser</a> • <a href="ant-pass-dispenser.html">Ant Pass Dispenser</a> • <a href="glue-dispenser.html">Glue Dispenser</a> • <a href="blender.html">Blender</a> • <a href="coconut-dispenser.html">Coconut Dispenser</a> • <a href="mythic-meteor-shower.html">Mythic Meteor Shower</a> • <a href="free-robo-pass-dispenser.html">Free Robo Pass Dispenser</a> • <a href="robo-pass-dispenser.html">Robo Pass Dispenser</a> • <a href="sticker-stack.html">Sticker Stack</a> • <a href="sticker-printer.html">Sticker Printer</a> • <a href="nectar-condenser.html">Nectar Condenser</a></b>
+<td class="NavLinks NavLinksBasicEven"><b><a href="honey-dispenser.html">Honey Dispenser</a> • <a href="royal-jelly-dispenser.html">Royal Jelly Dispenser</a> • <a href="treat-dispenser.html">Treat Dispenser</a> • <a href="instant-converter.html">Instant Converter</a> • <a href="wealth-clock.html">Wealth Clock</a> • <a href="moon-amulet-generator.html">Moon Amulet Generator</a> • <a href="memory-match.html">Memory Match</a> • <a href="blue-field-booster.html">Blue Field Booster</a> • <a href="red-field-booster.html">Red Field Booster</a> • <a href="field-booster.html">Field Booster</a> • <a href="blueberry-dispenser.html">Blueberry Dispenser</a> • <a href="strawberry-dispenser.html">Strawberry Dispenser</a> • <a href="blue-extract-dispenser.html">Blue Extract Dispenser</a> • <a href="red-extract-dispenser.html">Red Extract Dispenser</a> • <a href="honeystorm.html">Honeystorm</a> • <a href="special-sprout-summoner.html">Special Sprout Summoner</a> • <a href="free-ant-pass-dispenser.html">Free Ant Pass Dispenser</a> • <a href="ant-pass-dispenser.html">Ant Pass Dispenser</a> • <a href="glue-dispenser.html">Glue Dispenser</a> • <a href="blender.html">Blender</a> • <a href="coconut-dispenser.html">Coconut Dispenser</a> • <a href="mythic-meteor-shower.html">Mythic Meteor Shower</a> • <a href="free-robo-pass-dispenser.html">Free Robo Pass Dispenser</a> • <a href="robo-pass-dispenser.html">Robo Pass Dispenser</a> • <a href="sticker-stack.html">Sticker Stack</a> • <a href="sticker-printer.html">Sticker Printer</a> • <a href="nectar-condenser.html">Nectar Condenser</a></b>
 </td></tr>
 <tr>
 <th class="NavCategory">Transportation
@@ -99,7 +77,7 @@ Royal Jelly Dispenser
 <tr>
 <th class="NavCategory">Other<br/>Places
 </th>
-<td class="NavLinks NavLinksBasicOdd"><b><a href="hive.html">Hive</a> • <a href="obstacle-courses.html">Obstacle Courses</a> • King Beetle Lair • <a href="white-tunnel.html">White Tunnel</a> • <a href="werewolf-s-cave.html">Werewolf's Cave</a> • <a href="ant-challenge.html">Ant Challenge</a> • <a href="star-hall.html">Star Hall</a> • <a href="gummy-bear-s-lair.html">Gummy Bear's Lair</a> • <a href="ant-challenge-info.html">Ant Challenge Info</a> • <a href="vicious-bee-egg-claim.html">Vicious Bee Egg Claim</a> • <a href="gummy-bee-egg-claim.html">Gummy Bee Egg Claim</a> • <a href="wind-shrine.html">Wind Shrine</a> • <a href="mazes.html">Mazes</a> • <a href="hive-hub.html">Hive Hub</a> • <a href="sticker-seeker-quest-machine.html">Sticker-Seeker Quest Machine</a></b>
+<td class="NavLinks NavLinksBasicOdd"><b><a href="hive.html">Hive</a> • <a href="obstacle-courses.html">Obstacle Courses</a> • King Beetle Lair • <a href="white-tunnel.html">White Tunnel</a> • <a href="werewolf-s-cave.html">Werewolf's Cave</a> • <a href="ant-challenge.html">Ant Challenge</a> • <a href="star-hall.html">Star Hall</a> • <a href="gummy-bear-s-lair.html">Gummy Bear's Lair</a> • <a href="ant-challenge-info.html">Ant Challenge Info</a> • <a href="vicious-bee-egg-claim.html">Vicious Bee Claimer</a> • <a href="gummy-bee-egg-claim.html">Gummy Bee Claimer</a> • <a href="wind-shrine.html">Wind Shrine</a> • <a href="mazes.html">Mazes</a> • <a href="hive-hub.html">Hive Hub</a> • <a href="sticker-seeker-quest-machine.html">Sticker-Seeker Quest Machine</a></b>
 </td></tr>
 <tr>
 <th class="NavCategory">Event<br/>Locations

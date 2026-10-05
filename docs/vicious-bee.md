@@ -32,7 +32,7 @@ tags: ["Bees", "Event", "Blue"]
 
 *> This page is for the tamed version of Vicious Bee. For the hostile version, see [Rogue Vicious Bee](rogue-vicious-bee.md).*
 
-**Vicious Bee** is a Blue [Event bee](bees-event.md). It can be claimed for 250 [Stingers](stinger.md) at the [Vicious Bee Egg Claim](vicious-bee-egg-claim.md).
+**Vicious Bee** is a Blue [Event bee](bees-event.md). It can be claimed for 250 [Stingers](stinger.md) at the [Vicious Bee Claimer](vicious-bee-egg-claim.md).
 
 Like all other Event bees, this bee does not have a favorite treat, and the only way to make it gifted is by feeding it a [Star Treat](star-treat.md), [Gingerbread Bears](gingerbread-bear.md) or [Aged Gingerbread Bears](aged-gingerbread-bear.md).
 

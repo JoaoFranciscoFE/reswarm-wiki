@@ -506,7 +506,7 @@ The Gummy Bee Egg will always hatch into a Gummy Bee (100%)
 
 Ways to obtain a Gummy Bee Egg:
 
-* A Gummy Bee Egg can be obtained for  2,500 [Gumdrops](gumdrops.md) at the Gummy Bee Egg Claim. This could once have been obtained from completing all of Gummy Bear's quests during the Gummy Invasion event, and it could once have been purchased in the Ticket Tent for  500 [Tickets](ticket.md).
+* A Gummy Bee Egg can be obtained for  2,500 [Gumdrops](gumdrops.md) at the Gummy Bee Claimer. This could once have been obtained from completing all of Gummy Bear's quests during the Gummy Invasion event, and it could once have been purchased in the Ticket Tent for  500 [Tickets](ticket.md).
 
 ### Photon Bee Egg
 
@@ -554,7 +554,7 @@ The Vicious Bee Egg will always hatch into a Vicious Bee (100%)
 
 Ways to obtain a Vicious Bee Egg:
 
-* A Vicious Bee Egg can be obtained at the [Vicious Bee Egg Claim](vicious-bee-egg-claim.md) for 250 [Stingers](stinger.md).
+* A Vicious Bee Egg can be obtained at the [Vicious Bee Claimer](vicious-bee-egg-claim.md) for 250 [Stingers](stinger.md).
 
 ### Windy Bee Egg
 
