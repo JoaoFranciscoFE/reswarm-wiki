@@ -424,12 +424,33 @@ nav:
       - "White Balloon": white-balloon.md
   - "Update Logs":
       - update-logs.md
+      - "Oct 4, 2026: Treat amounts": update-log-2026-10-04.md
+      - "Oct 3, 2026: Bee levels, sticker inventory and fixes": update-log-2026-10-03.md
+      - "Oct 2, 2026: Painter Bee update": update-log-2026-10-02.md
       - "Painter Bee Event":
           - painter-bee-event.md
           - "Painter Bee": painter-bee.md
           - "Painter Stickers": painter-stickers.md
           - "Fluxite Wax": fluxite-wax.md
           - "Supreme Puffshroom": supreme-puffshroom.md
+      - "Sep 29, 2026: SSA locking on mobile": update-log-2026-09-29.md
+      - "Sep 27, 2026: Quest fix": update-log-2026-09-27.md
+      - "Sep 26, 2026: Equipment models and amulets": update-log-2026-09-26.md
+      - "Sep 22, 2026: Hive Hub": update-log-2026-09-22.md
+      - "Sep 21, 2026: Honeycomb Blueprint upgrades": update-log-2026-09-21.md
+      - "Sep 18, 2026: Mortar Bee update": update-log-2026-09-18.md
+      - "Sep 15, 2026: Camera zoom": update-log-2026-09-15.md
+      - "Sep 14, 2026: Puffshroom changes": update-log-2026-09-14.md
+      - "Sep 13, 2026: Tool models": update-log-2026-09-13.md
+      - "Sep 12, 2026: Better start": update-log-2026-09-12.md
+      - "Sep 11, 2026: Rebirth 35 and Melittology paths": update-log-2026-09-11.md
+      - "Sep 4, 2026: Early rebirth nerfs": update-log-2026-09-04.md
+      - "Sep 3, 2026: Crafting and planters": update-log-2026-09-03.md
+      - "Sep 1, 2026: Quality of life": update-log-2026-09-01.md
+      - "Aug 31, 2026: Audio": update-log-2026-08-31.md
+      - "Aug 30, 2026: Bloom Shaker and leaderboards": update-log-2026-08-30.md
+      - "Aug 28, 2026: Rename and fixes": update-log-2026-08-28.md
+      - "Aug 26, 2026: SSA locking": update-log-2026-08-26.md
   - "Accessories":
       - browse-accessories.md
       - "Amulet": amulet.md
