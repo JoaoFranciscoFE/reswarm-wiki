@@ -5,155 +5,112 @@ tags: ["Inventory", "Items", "Planter", "Blue", "Crafted"]
 
 # Blue Clay Planter
 
-![Blue Clay Planter](img/Blue_Clay_Planter.png){ align=right width=150 }
-
-This piece of content contains information obtained through datamining.
-
-Due to the nature of the information, details may be inaccurate or outdated.
-
-Datamined information:
-
-* Some of the planter's stats are corrected from the in-game description.
-* The probability of the planter spawning a puffshroom, and the probability of that puffshroom being a certain rarity.
-* How the planter generates its loot. — December 19th, 2024
-
-This content contains assumptions.
-
-Though the precise details may be inaccurate, most information comes from great testing and supported assumptions.
-
-Assumptions made: How the planter generates its loot is unclear with only the datamined information. Some information has been verified (the number of tokens it spawns and the guaranteed items), but the rest are assumptions.
-
-Blue Clay Planter
-
-*"Grows in about 6hrs, but faster near Blue flowers. Grants bonus Blue Extract, Micro-Converters, and x1.2 Refreshing and Comforting Nectar.*"
-
-REUSABLE?
-
-Yes
-
-COST
-
-10,000,000 [Honey](honey.md), 5 [Magic Beans](magic-bean.md), 15 [Blue Extracts](blue-extract.md), 20 [Soft Waxes](soft-wax.md).
-
-GROW TIME
-
-~6 hours
-
-GROW TIME BONUS
-
-+25% in fields with blue flowers.
-
-POLLEN CAPACITY
-
-3,000,000 Pollen
-
-POLLEN MULTIPLIER
-
-+25% Blue Pollen   
-
--25% Red Pollen
-
-NECTAR MULTIPLIER
-
-+20% Refreshing  
-
-+20% Comforting
-
-BONUS ITEMS
-
-Blue Extract   
-[Micro-Converter](micro-converter.md)
-
-[Honeysuckle](honeysuckle.md)
+<div class="planter-infobox">
+<div class="planter-infobox-title">Blue Clay Planter</div>
+<div class="planter-infobox-image"><img alt="Blue Clay Planter" src="img/Blue_Clay_Planter.png" width="150"></div>
+<div class="planter-infobox-quote"><i>"Grows in about 6hrs, but faster near Blue flowers. Grants bonus Blue Extract, Micro-Converters, and x1.2 Refreshing and Comforting Nectar."</i></div>
+<div class="planter-infobox-header">Stats</div>
+<div class="planter-stats">
+<div class="planter-stat planter-stat-wide"><b>Cost</b><span class="planter-chips"><span class="planter-chip"><img alt="" src="img/Honey.png" width="20" height="20"><b>10M</b> <a href="honey.html">Honey</a></span><span class="planter-chip"><img alt="" src="img/Magic_Bean.png" width="20" height="20"><b>5</b> <a href="magic-bean.html">Magic Beans</a></span><span class="planter-chip"><img alt="" src="img/Blue_Extract.png" width="20" height="20"><b>15</b> <a href="blue-extract.html">Blue Extract</a></span><span class="planter-chip"><img alt="" src="img/Soft_Wax.png" width="20" height="20"><b>20</b> <a href="soft-wax.html">Soft Wax</a></span></span></div>
+<div class="planter-stat"><b>Reusable</b><span>Yes</span></div>
+<div class="planter-stat"><b>Inventory cap</b><span>-</span></div>
+<div class="planter-stat"><b>Shop limit</b><span>1</span></div>
+<div class="planter-stat"><b>Grow time</b><span>6 hours</span></div>
+<div class="planter-stat planter-stat-wide"><b>Grows faster</b><span>x1.25 in fields with blue flowers</span></div>
+<div class="planter-stat planter-stat-wide"><b>Pollen bonus</b><span>x1.25 in fields with blue flowers, x0.75 in fields with red flowers</span></div>
+<div class="planter-stat planter-stat-wide"><b>Nectar</b><span class="planter-chips"><span class="planter-chip nectar-refreshing">x1.2 Refreshing</span><span class="planter-chip nectar-comforting">x1.2 Comforting</span></span></div>
+<div class="planter-stat"><b>Pollen capacity</b><span>3,000,000</span></div>
+<div class="planter-stat"><b>Item tokens</b><span>16</span></div>
+<div class="planter-stat"><b>Puffshroom chance</b><span>17%</span></div>
+<div class="planter-stat"><b>Puffshroom level</b><span>4 to 5</span></div>
+<div class="planter-stat planter-stat-wide"><b>Guaranteed items</b><span class="planter-chips"><span class="planter-chip"><img alt="" src="img/Blue_Extract.png" width="20" height="20"><b>1</b> <a href="blue-extract.html">Blue Extract</a></span><span class="planter-chip"><img alt="" src="img/Micro-Converter.png" width="20" height="20"><b>1</b> <a href="micro-converter.html">Micro-Converter</a></span><span class="planter-chip"><img alt="" src="img/Honeysuckle.png" width="20" height="20"><b>3</b> <a href="honeysuckle.html">Honeysuckle</a></span><span class="planter-chip"><img alt="" src="img/Ticket.png" width="20" height="20"><b>1</b> <a href="ticket.html">Ticket</a></span></span></div>
+</div>
+</div>
 
 The **Blue Clay Planter** is a reusable planter that was added in the 2021-12-26 update. Alone, it grows in about 6 hours and stores around 3 million [pollen](pollen.md). When harvested, it grants bonus [Blue Extracts](blue-extract.md) and [Micro-Converters](micro-converter.md). It is purchasable in the [Blue HQ](blue-hq.md).
 
-<table class="article-table">
-<tbody><tr>
-<th>Crafting Ingredients
-</th></tr>
-<tr>
-<td><img alt="Honey" height="25" src="img/Honey.png" width="25"/>10,000,000 <a href="honey.html"><span class="color-template color-template-honey">Honey</span></a><br/>
-<p><img alt="Magic Bean" height="25" src="img/Magic_Bean.png" width="25"/>5 <a href="magic-bean.html"><span class="color-template color-template-magic-bean color-template-background-clip">Magic Beans</span></a><br/>
-<img alt="Blue Extract" height="25" src="img/Blue_Extract.png" width="25"/>15 <a href="blue-extract.html"><span class="color-template color-template-blue-extract color-template-background-clip">Blue Extracts</span></a><br/>
-<img alt="Soft Wax" height="25" src="img/Soft_Wax.png" width="25"/>20 <a href="soft-wax.html"><span class="color-template color-template-soft-wax">Soft Waxes</span></a>
-</p>
-</td></tr></tbody></table>
+## Growth, pollen and nectar
 
-It grows 25% faster in fields with Blue flowers, and grants 25% more blue pollen, but 25% less red pollen. Blue bees are 25% more likely to sip [Nectar](nectar.md) from this planter, but Red bees avoid sipping nectar from it. It also grants 20% more Refreshing and Comforting Nectar.
+* Grows in 6 hours of playtime alone, and grows faster here: x1.25 in fields with blue flowers. A flower-colour bonus is weighted by how much of the field is that colour.
+* [Glitter](glitter.md) used in its field speeds it up: x1.5 for one, rising in halving steps up to x2 at 6 stacks. The stacks stay on the planter until it is harvested.
+* Holds 3,000,000 [pollen](pollen.md) at full growth. A harvest gives capacity × growth × pollen bonus. Pollen bonus: x1.25 in fields with blue flowers, x0.75 in fields with red flowers.
+* [Nectar](nectar.md) multipliers: x1.2 Refreshing, x1.2 Comforting. On harvest it gives one Nectar type from its field, lasting grow time × growth × multiplier × 3 seconds.
+* Up to 3 bees can sip from it at once. Blue bees are x1.25 as likely to sip from it; Red bees never sip from it.
 
-Harvesting a fully grown Blue Clay Planter has a 1/6 chance to spawn a [Puffshroom](puffshroom.md). The spawned puffshroom is between levels 4–5, and has a:
+**Note:** The shop text says +50% Blue pollen, but the game gives x1.25 Blue and x0.75 Red pollen.
 
-* ~76.28% chance of being a Common Puffshroom,
-* ~19.07% chance of being a Rare Puffshroom,
-* ~4.58% chance of being an Epic Puffshroom,
-* ~0.08% chance of being a Legendary Puffshroom.
+## Puffshrooms
+
+When it reaches 95% growth, it has a 17% chance to smoke and spawn 3 [Puffshrooms](puffshroom.md) (one at the planter and two nearby) at levels 4 to 5.
+
+Rarity odds:
+
+* Common 75%
+* Rare 19%
+* Epic 5.9%
+* Legendary 0.1%
 
 ## Drops
 
-When claimed, the planter gives up to 16 tokens worth of items. If the planter was fully grown when claimed, 4 of the tokens are guaranteed to be 1 [Blue Extract](blue-extract.md), 1 [Micro-Converter](micro-converter.md), 3 [Honeysuckles](honeysuckle.md) and 1 [Ticket](ticket.md). The others are picked randomly from the following, non-exhaustive list (note that the list does not include rewards based on the [field](fields.md) the planter is in):
+A full harvest gives 16 item tokens. Harvesting early gives fewer, in proportion to growth, but always at least 1. Tokens are filled in this order: guaranteed items (full harvests only), then field rules, then random picks from the pool below.
 
-### Bonus
+### Guaranteed
 
-<table class="article-table">
-<tbody><tr>
-<td><img alt="Blue Extract" height="35" src="img/Blue_Extract.png" width="35"/><a href="blue-extract.html"><span class="color-template color-template-blue-extract color-template-background-clip">Blue Extract</span></a> (Increments of 1 or 10)<br/>
-<p><img alt="Micro-Converter" height="35" src="img/Micro-Converter.png" width="35"/><a href="micro-converter.html"><span class="color-template color-template-micro-converter color-template-background-clip">Micro-Converters</span></a><br/>
-<img alt="Honeysuckle" height="35" src="img/Honeysuckle.png" width="35"/><a href="honeysuckle.html"><span class="color-template color-template-honeysuckle color-template-background-clip">Honeysuckle</span></a> (Increments of 1 or 5)
-</p>
-</td></tr></tbody></table>
+On every full harvest:
 
-### Other
+* <img alt="" src="img/Blue_Extract.png" width="20" height="20"> <b>1</b> <a href="blue-extract.html">Blue Extract</a>
+* <img alt="" src="img/Micro-Converter.png" width="20" height="20"> <b>1</b> <a href="micro-converter.html">Micro-Converter</a>
+* <img alt="" src="img/Honeysuckle.png" width="20" height="20"> <b>3</b> <a href="honeysuckle.html">Honeysuckle</a>
+* <img alt="" src="img/Ticket.png" width="20" height="20"> <b>1</b> <a href="ticket.html">Ticket</a>
 
-<table class="article-table">
-<tbody><tr>
-<td><img alt="Pineapple" height="35" src="img/Pineapple.png" width="35"/><a href="pineapple.html"><span class="color-template color-template-pineapple color-template-background-clip">Pineapples</span></a><br/>
-<p><img alt="Sunflower Seed" height="35" src="img/Sunflower_Seed.png" width="35"/><a href="sunflower-seed.html"><span class="color-template color-template-sunflower-seed color-template-background-clip">Sunflower Seeds</span></a><br/>
-<img alt="Gumdrops" height="35" src="img/Gumdrops.png" width="35"/><a href="gumdrops.html"><span class="color-template color-template-gumdrops color-template-background-clip">Gumdrops</span></a><br/>
-<img alt="Coconut" height="35" src="img/Coconut.png" width="35"/><a href="coconut.html"><span class="color-template color-template-coconut color-template-background-clip">Coconuts</span></a><br/>
-<img alt="Jelly Beans" height="35" src="img/Jelly_Beans.png" width="35"/><a href="jelly-beans.html"><span class="color-template color-template-jelly-beans color-template-background-clip">Jelly Beans</span></a><br/>
-<img alt="Smooth Dice" height="35" src="img/Smooth_Dice.png" width="35"/><a href="smooth-dice.html"><span class="color-template color-template-smooth-dice color-template-background-clip">Smooth Dice</span></a><br/>
-<img alt="Blueberry" height="35" src="img/Blueberry.png" width="35"/><a href="blueberry.html"><span class="color-template color-template-blueberry color-template-background-clip">Blueberries</span></a><br/>
-<img alt="Bitterberry" height="35" src="img/Bitterberry.png" width="35"/><a href="bitterberry.html"><span class="color-template color-template-bitterberry color-template-background-clip">Bitterberries</span></a><br/>
-<img alt="Neonberry" height="35" src="img/Neonberry.png" width="35"/><a href="neonberry.html"><span class="color-template color-template-neonberry color-template-background-clip">Neonberries</span></a><br/>
-<img alt="Ticket" height="35" src="img/Ticket.png" width="35"/><a href="ticket.html"><span class="color-template color-template-ticket color-template-background-clip">Tickets</span></a><br/>
-<img alt="Whirligig" height="35" src="img/Whirligig.png" width="35"/><a href="whirligig.html"><span class="color-template color-template-whirligig color-template-background-clip">Whirligigs</span></a><br/>
-<img alt="Royal Jelly" height="35" src="img/Royal_Jelly.png" width="35"/><a href="royal-jelly.html"><span class="color-template color-template-royal-jelly color-template-background-clip">Royal Jellies</span></a><br/>
-<img alt="Oil" height="35" src="img/Oil.png" width="35"/><a href="oil.html"><span class="color-template color-template-oil color-template-background-clip">Oils</span></a><br/>
-<img alt="Glue" height="35" src="img/Glue.png" width="35"/><a href="glue.html"><span class="color-template color-template-glue color-template-background-clip">Glues</span></a><br/>
-<img alt="Red Extract" height="35" src="img/Red_Extract.png" width="35"/><a href="red-extract.html"><span class="color-template color-template-red-extract color-template-background-clip">Red Extracts</span></a><br/>
-<img alt="Hard Wax" height="35" src="img/Hard_Wax.png" width="35"/><a href="hard-wax.html"><span class="color-template color-template-hard-wax">Hard Waxes</span></a><br/>
-<img alt="Star Jelly" height="35" src="img/Star_Jelly.png" width="35"/><a href="royal-jelly.html#Star_Jelly"><span class="color-template color-template-star-jelly color-template-background-clip">Star Jellies</span></a> (Rare)<br/>
-<img alt="Glitter" height="35" src="img/Glitter.png" width="35"/><a href="glitter.html"><span class="color-template color-template-glitter color-template-background-clip">Glitter</span></a> (Rare)<br/>
-<img alt="Purple Potion" height="35" src="img/Purple_Potion.png" width="35"/><a href="purple-potion.html"><span class="color-template color-template-purple-potion color-template-background-clip">Purple Potion</span></a> (Rare)<br/>
-<img alt="Swirled Wax" height="35" src="img/Swirled_Wax.png" width="35"/><a href="swirled-wax.html"><span class="color-template color-template-swirled-wax color-template-background-clip">Swirled Wax</span></a> (Very Rare)<br/>
-<img alt="Caustic Wax" height="35" src="img/Caustic_Wax.png" width="35"/><a href="caustic-wax.html"><span class="color-template color-template-caustic-wax">Caustic Wax</span></a> (Very Rare)<br/>
-<img alt="Super Smoothie" height="35" src="img/Super_Smoothie.png" width="35"/><a href="super-smoothie.html"><span class="color-template color-template-super-smoothie color-template-background-clip">Super Smoothie</span></a> (Extremely Rare)<br/>
-<img alt="Paperclip" height="35" src="img/Paperclip.png" width="35"/><a href="paperclip.html"><span class="color-template color-template-paperclip color-template-background-clip">Paperclip</span></a> (Rare)<br/>
-<img alt="Beret" height="35" src="img/Beret.png" width="35"/><a href="beret.html"><span class="color-template color-template-beret color-template-background-clip">Beret</span></a> (Very Rare)<br/>
-<img alt="Camphor Lip Balm" height="35" src="img/Camphor_Lip_Balm.png" width="35"/><a href="camphor-lip-balm.html"><span class="color-template color-template-camphor-lip-balm color-template-background-clip">Camphor Lip Balm</span></a> (Very Rare)<br/>
-<img alt="Turpentine" height="35" src="img/Turpentine.png" width="35"/><a href="turpentine.html"><span class="color-template color-template-turpentine color-template-background-clip">Turpentine</span></a> (Exceptionally Rare)
-</p>
-</td></tr></tbody></table>
+### Field rules
 
-### Special
+* In the [Spider Field](spider-field.md): +10 to 15 Micro-Converters (any growth).
+* [Blue Flower Field](blue-flower-field.md) or [Rose Field](rose-field.md): +5 Honeysuckles. [Sunflower Field](sunflower-field.md): +10 Honeysuckles.
+* [Mountain Top Field](mountain-top-field.md): Cool Backpack sticker, 1% when full (0.2% when not).
+* A full harvest in a blue field (Blue Flower, Bamboo, Pine Tree) followed by one in a red field (Mushroom, Strawberry, Rose, Pepper): 1 Purple Potion.
+* Full in the [Spider Field](spider-field.md): 1 Swirled Wax (every 30 days). [Clover Field](clover-field.md): 1 Caustic Wax (every 30 days).
 
-<table class="article-table">
-<tbody><tr>
-<td><span typeof="mw:Error mw:File"></span>10-15 <a href="micro-converter.html"><span class="color-template color-template-micro-converter color-template-background-clip">Micro-Converters</span></a> (When harvested from <a href="spider-field.html">Spider Field</a>)<br/>
-<p><span typeof="mw:Error mw:File"></span>x2 the usual <a href="honeysuckle.html"><span class="color-template color-template-honeysuckle color-template-background-clip">Honeysuckles</span></a> (When harvested from either <a href="blue-flower-field.html">Blue Flower Field</a>, <a href="rose-field.html">Rose Field</a> or especially <a href="sunflower-field.html">Sunflower Field</a>)<br/>
-<img alt="Purple Potion" height="25" src="img/Purple_Potion.png" width="25"/>1 <a href="purple-potion.html"><span class="color-template color-template-purple-potion color-template-background-clip">Purple Potion</span></a> (When harvested from a Blue Field, then Red Field in order, unknown cooldown)
-<br/>
-<img alt="Swirled Wax" height="25" src="img/Swirled_Wax.png" width="25"/>1 <a href="swirled-wax.html"><span class="color-template color-template-swirled-wax color-template-background-clip">Swirled Wax</span></a> (When harvested from <a href="spider-field.html">Spider Field</a>, 1 month cooldown)<br/>
-<img alt="Caustic Wax" height="25" src="img/Caustic_Wax.png" width="25"/>1 <a href="caustic-wax.html"><span class="color-template color-template-caustic-wax">Caustic Wax</span></a> (When harvested from <a href="clover-field.html">Clover Field</a>, 1 month cooldown)<br/>
-<img alt="Sticker" height="25" src="img/Sticker.png" width="25"/>1 <a href="sticker.html#Sticker_Index"><span class="color-template color-template-cool-backpack-sticker color-template-background-clip">Cool Backpack Sticker</span></a> (Extremely rare when harvested from <a href="mountain-top-field.html">Mountain Top Field</a>)
-</p>
-</td></tr></tbody></table>
+### Random items
+
+"Chance per token" is the chance that one random token is that item, before any field extras.
+
+| Item | Amount (one picked at random) | Chance per token |
+|---|---|---|
+| <img alt="" src="img/Blue_Extract.png" width="20" height="20"> <a href="blue-extract.html">Blue Extract</a> | 1 / 10 | 14.0% |
+| <img alt="" src="img/Micro-Converter.png" width="20" height="20"> <a href="micro-converter.html">Micro-Converter</a> | 1 | 14.0% |
+| <img alt="" src="img/Honeysuckle.png" width="20" height="20"> <a href="honeysuckle.html">Honeysuckle</a> | 1 / 5 | 14.0% |
+| <img alt="" src="img/Pineapple.png" width="20" height="20"> <a href="pineapple.html">Pineapple</a> | 1 / 3 / 5 | 9.8% |
+| <img alt="" src="img/Sunflower_Seed.png" width="20" height="20"> <a href="sunflower-seed.html">Sunflower Seed</a> | 1 / 3 / 5 | 9.8% |
+| <img alt="" src="img/Blueberry.png" width="20" height="20"> <a href="blueberry.html">Blueberry</a> | 1 / 3 / 5 / 10 | 9.8% |
+| <img alt="" src="img/Gumdrops.png" width="20" height="20"> <a href="gumdrops.html">Gumdrops</a> | 1 / 3 / 5 | 4.2% |
+| <img alt="" src="img/Bitterberry.png" width="20" height="20"> <a href="bitterberry.html">Bitterberry</a> | 1 / 3 | 4.2% |
+| <img alt="" src="img/Ticket.png" width="20" height="20"> <a href="ticket.html">Ticket</a> | 1 / 3 | 4.2% |
+| <img alt="" src="img/Royal_Jelly.png" width="20" height="20"> <a href="royal-jelly.html">Royal Jelly</a> | 1 / 3 | 4.2% |
+| <img alt="" src="img/Coconut.png" width="20" height="20"> <a href="coconut.html">Coconut</a> | 1 | 1.1% |
+| <img alt="" src="img/Jelly_Beans.png" width="20" height="20"> <a href="jelly-beans.html">Jelly Beans</a> | 1 | 1.1% |
+| <img alt="" src="img/Smooth_Dice.png" width="20" height="20"> <a href="smooth-dice.html">Smooth Dice</a> | 1 | 1.1% |
+| <img alt="" src="img/Neonberry.png" width="20" height="20"> <a href="neonberry.html">Neonberry</a> | 1 | 1.1% |
+| <img alt="" src="img/Whirligig.png" width="20" height="20"> <a href="whirligig.html">Whirligig</a> | 1 | 1.1% |
+| <img alt="" src="img/Oil.png" width="20" height="20"> <a href="oil.html">Oil</a> | 1 | 1.1% |
+| <img alt="" src="img/Glue.png" width="20" height="20"> <a href="glue.html">Glue</a> | 1 | 1.1% |
+| <img alt="" src="img/Red_Extract.png" width="20" height="20"> <a href="red-extract.html">Red Extract</a> | 1 | 1.1% |
+| <img alt="" src="img/Hard_Wax.png" width="20" height="20"> <a href="hard-wax.html">Hard Wax</a> | 1 | 1.1% |
+| <img alt="" src="img/Star_Jelly.png" width="20" height="20"> <a href="royal-jelly.html">Star Jelly</a> | 1 | 0.32% |
+| <img alt="" src="img/Glitter.png" width="20" height="20"> <a href="glitter.html">Glitter</a> | 1 | 0.32% |
+| <img alt="" src="img/Purple_Potion.png" width="20" height="20"> <a href="purple-potion.html">Purple Potion</a> | 1 | 0.32% |
+| <img alt="" src="img/Paperclip.png" width="20" height="20"> <a href="paperclip.html">Paperclip</a> <small>(beequip)</small> | 1 | 0.32% |
+| <img alt="" src="img/Swirled_Wax.png" width="20" height="20"> <a href="swirled-wax.html">Swirled Wax</a> | 1 | 0.09% |
+| <img alt="" src="img/Caustic_Wax.png" width="20" height="20"> <a href="caustic-wax.html">Caustic Wax</a> | 1 | 0.09% |
+| <img alt="" src="img/Beret.png" width="20" height="20"> <a href="beret.html">Beret</a> <small>(beequip)</small> | 1 | 0.09% |
+| <img alt="" src="img/Camphor_Lip_Balm.png" width="20" height="20"> <a href="camphor-lip-balm.html">Camphor Lip Balm</a> <small>(beequip)</small> | 1 | 0.09% |
+| <img alt="" src="img/Super_Smoothie.png" width="20" height="20"> <a href="super-smoothie.html">Super Smoothie</a> | 1 | 0.03% |
+| <img alt="" src="img/Sticker.png" width="20" height="20"> <a href="sticker.html">Cool Backpack</a> <small>(sticker)</small> | 1 | 0.03% |
+| <img alt="" src="img/Turpentine.png" width="20" height="20"> <a href="turpentine.html">Turpentine</a> | 1 | 1 in 20,400 |
 
 ## Trivia
 
 * Its red counterpart is the [Red Clay Planter](red-clay-planter.md).
-* This is the only planter that drops [Honeysuckles](honeysuckle.md) as a bonus item.
 * This is one of the five reusable planters to reside outside of [Dapper Bear's Shop](dapper-bear-s-shop.md), the others being the [Red Clay Planter](red-clay-planter.md), [Petal Planter](petal-planter.md), [Hydroponic Planter](hydroponic-planter.md), and [Heat-Treated Planter](heat-treated-planter.md).
   * This and the [Hydroponic Planter](hydroponic-planter.md) are the only planters to be sold from the Blue HQ.
 * In the inventory's description, it doesn't say that it drops [Honeysuckles](honeysuckle.md) as a bonus drop.

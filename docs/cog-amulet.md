@@ -5,26 +5,11 @@ tags: ["Amulet", "Robo Bear Challenge", "Accessories"]
 
 # Cog Amulet
 
-This piece of content contains information obtained through datamining.
-
-Due to the nature of the information, details may be inaccurate or outdated.
-
-Datamined information: Cog Amulet's possible stats and relevant information. — December 19th, 2024
-
-This content contains assumptions.
-
-Though the precise details may be inaccurate, most information comes from great testing and supported assumptions.
-
-Assumptions made:
-
-* The quality of the amulet increases linearly. The formula for calculating the quality of the amulet is unknown, so this can't be confirmed.
-* All tiers of the amulet have the same quality scaling, even if it is impossible to obtain the tier with said quality.
-
 The **Cog Amulet** is an amulet that can be obtained from the [Robo Bear Challenge](robo-bear-challenge.md). In order to obtain one, the player must beat certain rounds during the Robo Bear Challenge. The more rounds the player beats, the higher the tier of the Cog Amulet.
 
 The amulets grant buffs to the owner and always increase [capacity](capacity.md) and [attack](system-page.md#Attack) as they go up a tier. Higher tier amulets grant more and better buffs.
 
-The quality of the amulet increases linearly with the number of total cogs the player collected during the challenge until 1000 cogs,[1] where its quality is maxed.
+The amulet's quality (0 to 1) comes from three parts of your run: 0.45 × (rounds beaten / 25) + 0.35 × (final score / 125,000) + 0.2 × (average bee level / 20). The rounds and score parts are each capped at 1, the bee level part is kept between 0.05 and 1.25, and the total is capped at 1. Fewer than 5 rounds gives no amulet.
 
 ## Requirement(s)
 
@@ -220,7 +205,7 @@ The tables below give the percentage of a certain stat on the amulet having stre
 <th>+27,500
 </th></tr>
 <tr>
-<td><b>0</b> (0 cogs)
+<td><b>0</b>
 </td>
 <td>43.46%
 </td>
@@ -237,7 +222,7 @@ The tables below give the percentage of a certain stat on the amulet having stre
 <td>+23,740.43
 </td></tr>
 <tr>
-<td><b>0.02</b> (20 cogs)
+<td><b>0.02</b>
 </td>
 <td>41.26%
 </td>
@@ -254,7 +239,7 @@ The tables below give the percentage of a certain stat on the amulet having stre
 <td>+23,790.15
 </td></tr>
 <tr>
-<td><b>0.04</b> (40 cogs)
+<td><b>0.04</b>
 </td>
 <td>38.83%
 </td>
@@ -271,7 +256,7 @@ The tables below give the percentage of a certain stat on the amulet having stre
 <td>+23,848.98
 </td></tr>
 <tr>
-<td><b>0.06</b> (60 cogs)
+<td><b>0.06</b>
 </td>
 <td>36.11%
 </td>
@@ -288,7 +273,7 @@ The tables below give the percentage of a certain stat on the amulet having stre
 <td>+23,912.75
 </td></tr>
 <tr>
-<td><b>0.08</b> (80 cogs)
+<td><b>0.08</b>
 </td>
 <td>33.031%
 </td>
@@ -305,7 +290,7 @@ The tables below give the percentage of a certain stat on the amulet having stre
 <td>+23,953.68
 </td></tr>
 <tr>
-<td><b>0.1</b> (100 cogs)
+<td><b>0.1</b>
 </td>
 <td>29.45%
 </td>
@@ -322,7 +307,7 @@ The tables below give the percentage of a certain stat on the amulet having stre
 <td>+23,995.48
 </td></tr>
 <tr>
-<td><b>0.12</b> (120 cogs)
+<td><b>0.12</b>
 </td>
 <td>25.14%
 </td>
@@ -339,7 +324,7 @@ The tables below give the percentage of a certain stat on the amulet having stre
 <td>+24,041.63
 </td></tr>
 <tr>
-<td><b>0.14</b> (140 cogs)
+<td><b>0.14</b>
 </td>
 <td>19.45%
 </td>
@@ -356,7 +341,7 @@ The tables below give the percentage of a certain stat on the amulet having stre
 <td>+24,096.16
 </td></tr>
 <tr>
-<td><b>0.16</b> (160 cogs)
+<td><b>0.16</b>
 </td>
 <td>12.23%
 </td>
@@ -373,7 +358,7 @@ The tables below give the percentage of a certain stat on the amulet having stre
 <td>+24,160.55
 </td></tr>
 <tr>
-<td><b>0.18</b> (180 cogs)
+<td><b>0.18</b>
 </td>
 <td>9.62%
 </td>
@@ -390,7 +375,7 @@ The tables below give the percentage of a certain stat on the amulet having stre
 <td>+24,204.62
 </td></tr>
 <tr>
-<td><b>0.2</b> (200 cogs)
+<td><b>0.2</b>
 </td>
 <td>8.069%
 </td>
@@ -427,7 +412,7 @@ The tables below give the percentage of a certain stat on the amulet having stre
 <th>+6%
 </th></tr>
 <tr>
-<td><b>0</b> (0 cogs)
+<td><b>0</b>
 </td>
 <td>46.53%
 </td>
@@ -440,7 +425,7 @@ The tables below give the percentage of a certain stat on the amulet having stre
 <td>+3.7%
 </td></tr>
 <tr>
-<td><b>0.02</b> (20 cogs)
+<td><b>0.02</b>
 </td>
 <td>45.87%
 </td>
@@ -453,7 +438,7 @@ The tables below give the percentage of a certain stat on the amulet having stre
 <td>+3.7%
 </td></tr>
 <tr>
-<td><b>0.04</b> (40 cogs)
+<td><b>0.04</b>
 </td>
 <td>45.16%
 </td>
@@ -466,7 +451,7 @@ The tables below give the percentage of a certain stat on the amulet having stre
 <td>+3.7%
 </td></tr>
 <tr>
-<td><b>0.06</b> (60 cogs)
+<td><b>0.06</b>
 </td>
 <td>44.39%
 </td>
@@ -479,7 +464,7 @@ The tables below give the percentage of a certain stat on the amulet having stre
 <td>+3.7%
 </td></tr>
 <tr>
-<td><b>0.08</b> (80 cogs)
+<td><b>0.08</b>
 </td>
 <td>43.56%
 </td>
@@ -492,7 +477,7 @@ The tables below give the percentage of a certain stat on the amulet having stre
 <td>+3.7%
 </td></tr>
 <tr>
-<td><b>0.1</b> (100 cogs)
+<td><b>0.1</b>
 </td>
 <td>42.66%
 </td>
@@ -505,7 +490,7 @@ The tables below give the percentage of a certain stat on the amulet having stre
 <td>+3.7%
 </td></tr>
 <tr>
-<td><b>0.12</b> (120 cogs)
+<td><b>0.12</b>
 </td>
 <td>41.68%
 </td>
@@ -518,7 +503,7 @@ The tables below give the percentage of a certain stat on the amulet having stre
 <td>+3.8%
 </td></tr>
 <tr>
-<td><b>0.14</b> (140 cogs)
+<td><b>0.14</b>
 </td>
 <td>40.61%
 </td>
@@ -531,7 +516,7 @@ The tables below give the percentage of a certain stat on the amulet having stre
 <td>+3.8%
 </td></tr>
 <tr>
-<td><b>0.16</b> (160 cogs)
+<td><b>0.16</b>
 </td>
 <td>39.42%
 </td>
@@ -544,7 +529,7 @@ The tables below give the percentage of a certain stat on the amulet having stre
 <td>+3.8%
 </td></tr>
 <tr>
-<td><b>0.18</b> (180 cogs)
+<td><b>0.18</b>
 </td>
 <td>38.11%
 </td>
@@ -557,7 +542,7 @@ The tables below give the percentage of a certain stat on the amulet having stre
 <td>+3.8%
 </td></tr>
 <tr>
-<td><b>0.2</b> (200 cogs)
+<td><b>0.2</b>
 </td>
 <td>36.65%
 </td>
@@ -594,7 +579,7 @@ The tables below give the percentage of a certain stat on the amulet having stre
 <th>+10%
 </th></tr>
 <tr>
-<td><b>0</b> (0 cogs)
+<td><b>0</b>
 </td>
 <td>33.026%
 </td>
@@ -611,7 +596,7 @@ The tables below give the percentage of a certain stat on the amulet having stre
 <td>+6.2%
 </td></tr>
 <tr>
-<td><b>0.02</b> (20 cogs)
+<td><b>0.02</b>
 </td>
 <td>30.044%
 </td>
@@ -628,7 +613,7 @@ The tables below give the percentage of a certain stat on the amulet having stre
 <td>+6.3%
 </td></tr>
 <tr>
-<td><b>0.04</b> (40 cogs)
+<td><b>0.04</b>
 </td>
 <td>26.64%
 </td>
@@ -645,7 +630,7 @@ The tables below give the percentage of a certain stat on the amulet having stre
 <td>+6.3%
 </td></tr>
 <tr>
-<td><b>0.06</b> (60 cogs)
+<td><b>0.06</b>
 </td>
 <td>22.63%
 </td>
@@ -662,7 +647,7 @@ The tables below give the percentage of a certain stat on the amulet having stre
 <td>+6.4%
 </td></tr>
 <tr>
-<td><b>0.08</b> (80 cogs)
+<td><b>0.08</b>
 </td>
 <td>17.66%
 </td>
@@ -679,7 +664,7 @@ The tables below give the percentage of a certain stat on the amulet having stre
 <td>+6.4%
 </td></tr>
 <tr>
-<td><b>0.1</b> (100 cogs)
+<td><b>0.1</b>
 </td>
 <td>10%
 </td>
@@ -696,7 +681,7 @@ The tables below give the percentage of a certain stat on the amulet having stre
 <td>+6.5%
 </td></tr>
 <tr>
-<td><b>0.12</b> (120 cogs)
+<td><b>0.12</b>
 </td>
 <td>6.42%
 </td>
@@ -713,7 +698,7 @@ The tables below give the percentage of a certain stat on the amulet having stre
 <td>+6.6%
 </td></tr>
 <tr>
-<td><b>0.14</b> (140 cogs)
+<td><b>0.14</b>
 </td>
 <td>4.99%
 </td>
@@ -730,7 +715,7 @@ The tables below give the percentage of a certain stat on the amulet having stre
 <td>+6.6%
 </td></tr>
 <tr>
-<td><b>0.16</b> (160 cogs)
+<td><b>0.16</b>
 </td>
 <td>4.12%
 </td>
@@ -747,7 +732,7 @@ The tables below give the percentage of a certain stat on the amulet having stre
 <td>+6.7%
 </td></tr>
 <tr>
-<td><b>0.18</b> (180 cogs)
+<td><b>0.18</b>
 </td>
 <td>3.51%
 </td>
@@ -764,7 +749,7 @@ The tables below give the percentage of a certain stat on the amulet having stre
 <td>+6.7%
 </td></tr>
 <tr>
-<td><b>0.2</b> (200 cogs)
+<td><b>0.2</b>
 </td>
 <td>3.069%
 </td>
@@ -805,7 +790,7 @@ The tables below give the percentage of a certain stat on the amulet having stre
 <th>+10%
 </th></tr>
 <tr>
-<td><b>0</b> (0 cogs)
+<td><b>0</b>
 </td>
 <td>33.026%
 </td>
@@ -822,7 +807,7 @@ The tables below give the percentage of a certain stat on the amulet having stre
 <td>+6.2%
 </td></tr>
 <tr>
-<td><b>0.02</b> (20 cogs)
+<td><b>0.02</b>
 </td>
 <td>30.044%
 </td>
@@ -839,7 +824,7 @@ The tables below give the percentage of a certain stat on the amulet having stre
 <td>+6.3%
 </td></tr>
 <tr>
-<td><b>0.04</b> (40 cogs)
+<td><b>0.04</b>
 </td>
 <td>26.64%
 </td>
@@ -856,7 +841,7 @@ The tables below give the percentage of a certain stat on the amulet having stre
 <td>+6.3%
 </td></tr>
 <tr>
-<td><b>0.06</b> (60 cogs)
+<td><b>0.06</b>
 </td>
 <td>22.63%
 </td>
@@ -873,7 +858,7 @@ The tables below give the percentage of a certain stat on the amulet having stre
 <td>+6.4%
 </td></tr>
 <tr>
-<td><b>0.08</b> (80 cogs)
+<td><b>0.08</b>
 </td>
 <td>17.66%
 </td>
@@ -890,7 +875,7 @@ The tables below give the percentage of a certain stat on the amulet having stre
 <td>+6.4%
 </td></tr>
 <tr>
-<td><b>0.1</b> (100 cogs)
+<td><b>0.1</b>
 </td>
 <td>10%
 </td>
@@ -907,7 +892,7 @@ The tables below give the percentage of a certain stat on the amulet having stre
 <td>+6.5%
 </td></tr>
 <tr>
-<td><b>0.12</b> (120 cogs)
+<td><b>0.12</b>
 </td>
 <td>6.42%
 </td>
@@ -924,7 +909,7 @@ The tables below give the percentage of a certain stat on the amulet having stre
 <td>+6.6%
 </td></tr>
 <tr>
-<td><b>0.14</b> (140 cogs)
+<td><b>0.14</b>
 </td>
 <td>4.99%
 </td>
@@ -941,7 +926,7 @@ The tables below give the percentage of a certain stat on the amulet having stre
 <td>+6.6%
 </td></tr>
 <tr>
-<td><b>0.16</b> (160 cogs)
+<td><b>0.16</b>
 </td>
 <td>4.12%
 </td>
@@ -958,7 +943,7 @@ The tables below give the percentage of a certain stat on the amulet having stre
 <td>+6.7%
 </td></tr>
 <tr>
-<td><b>0.18</b> (180 cogs)
+<td><b>0.18</b>
 </td>
 <td>3.51%
 </td>
@@ -975,7 +960,7 @@ The tables below give the percentage of a certain stat on the amulet having stre
 <td>+6.7%
 </td></tr>
 <tr>
-<td><b>0.2</b> (200 cogs)
+<td><b>0.2</b>
 </td>
 <td>3.069%
 </td>
@@ -1016,7 +1001,7 @@ The tables below give the percentage of a certain stat on the amulet having stre
 <th>+10%
 </th></tr>
 <tr>
-<td><b>0</b> (0 cogs)
+<td><b>0</b>
 </td>
 <td>33.026%
 </td>
@@ -1033,7 +1018,7 @@ The tables below give the percentage of a certain stat on the amulet having stre
 <td>+6.2%
 </td></tr>
 <tr>
-<td><b>0.02</b> (20 cogs)
+<td><b>0.02</b>
 </td>
 <td>30.044%
 </td>
@@ -1050,7 +1035,7 @@ The tables below give the percentage of a certain stat on the amulet having stre
 <td>+6.3%
 </td></tr>
 <tr>
-<td><b>0.04</b> (40 cogs)
+<td><b>0.04</b>
 </td>
 <td>26.64%
 </td>
@@ -1067,7 +1052,7 @@ The tables below give the percentage of a certain stat on the amulet having stre
 <td>+6.3%
 </td></tr>
 <tr>
-<td><b>0.06</b> (60 cogs)
+<td><b>0.06</b>
 </td>
 <td>22.63%
 </td>
@@ -1084,7 +1069,7 @@ The tables below give the percentage of a certain stat on the amulet having stre
 <td>+6.4%
 </td></tr>
 <tr>
-<td><b>0.08</b> (80 cogs)
+<td><b>0.08</b>
 </td>
 <td>17.66%
 </td>
@@ -1101,7 +1086,7 @@ The tables below give the percentage of a certain stat on the amulet having stre
 <td>+6.4%
 </td></tr>
 <tr>
-<td><b>0.1</b> (100 cogs)
+<td><b>0.1</b>
 </td>
 <td>10%
 </td>
@@ -1118,7 +1103,7 @@ The tables below give the percentage of a certain stat on the amulet having stre
 <td>+6.5%
 </td></tr>
 <tr>
-<td><b>0.12</b> (120 cogs)
+<td><b>0.12</b>
 </td>
 <td>6.42%
 </td>
@@ -1135,7 +1120,7 @@ The tables below give the percentage of a certain stat on the amulet having stre
 <td>+6.6%
 </td></tr>
 <tr>
-<td><b>0.14</b> (140 cogs)
+<td><b>0.14</b>
 </td>
 <td>4.99%
 </td>
@@ -1152,7 +1137,7 @@ The tables below give the percentage of a certain stat on the amulet having stre
 <td>+6.6%
 </td></tr>
 <tr>
-<td><b>0.16</b> (160 cogs)
+<td><b>0.16</b>
 </td>
 <td>4.12%
 </td>
@@ -1169,7 +1154,7 @@ The tables below give the percentage of a certain stat on the amulet having stre
 <td>+6.7%
 </td></tr>
 <tr>
-<td><b>0.18</b> (180 cogs)
+<td><b>0.18</b>
 </td>
 <td>3.51%
 </td>
@@ -1186,7 +1171,7 @@ The tables below give the percentage of a certain stat on the amulet having stre
 <td>+6.7%
 </td></tr>
 <tr>
-<td><b>0.2</b> (200 cogs)
+<td><b>0.2</b>
 </td>
 <td>3.069%
 </td>
@@ -1225,7 +1210,7 @@ The tables below give the percentage of a certain stat on the amulet having stre
 <th>+8%
 </th></tr>
 <tr>
-<td><b>0</b> (0 cogs)
+<td><b>0</b>
 </td>
 <td>38.49%
 </td>
@@ -1240,7 +1225,7 @@ The tables below give the percentage of a certain stat on the amulet having stre
 <td>+5%
 </td></tr>
 <tr>
-<td><b>0.02</b> (20 cogs)
+<td><b>0.02</b>
 </td>
 <td>35.95%
 </td>
@@ -1255,7 +1240,7 @@ The tables below give the percentage of a certain stat on the amulet having stre
 <td>+5%
 </td></tr>
 <tr>
-<td><b>0.04</b> (40 cogs)
+<td><b>0.04</b>
 </td>
 <td>33.11%
 </td>
@@ -1270,7 +1255,7 @@ The tables below give the percentage of a certain stat on the amulet having stre
 <td>+5%
 </td></tr>
 <tr>
-<td><b>0.06</b> (60 cogs)
+<td><b>0.06</b>
 </td>
 <td>29.86%
 </td>
@@ -1285,7 +1270,7 @@ The tables below give the percentage of a certain stat on the amulet having stre
 <td>+5.1%
 </td></tr>
 <tr>
-<td><b>0.08</b> (80 cogs)
+<td><b>0.08</b>
 </td>
 <td>26.08%
 </td>
@@ -1300,7 +1285,7 @@ The tables below give the percentage of a certain stat on the amulet having stre
 <td>+5.1%
 </td></tr>
 <tr>
-<td><b>0.1</b> (100 cogs)
+<td><b>0.1</b>
 </td>
 <td>21.46%
 </td>
@@ -1315,7 +1300,7 @@ The tables below give the percentage of a certain stat on the amulet having stre
 <td>+5.2%
 </td></tr>
 <tr>
-<td><b>0.12</b> (120 cogs)
+<td><b>0.12</b>
 </td>
 <td>15.085%
 </td>
@@ -1330,7 +1315,7 @@ The tables below give the percentage of a certain stat on the amulet having stre
 <td>+5.3%
 </td></tr>
 <tr>
-<td><b>0.14</b> (140 cogs)
+<td><b>0.14</b>
 </td>
 <td>9.15%
 </td>
@@ -1345,7 +1330,7 @@ The tables below give the percentage of a certain stat on the amulet having stre
 <td>+5.3%
 </td></tr>
 <tr>
-<td><b>0.16</b> (160 cogs)
+<td><b>0.16</b>
 </td>
 <td>7.18%
 </td>
@@ -1360,7 +1345,7 @@ The tables below give the percentage of a certain stat on the amulet having stre
 <td>+5.4%
 </td></tr>
 <tr>
-<td><b>0.18</b> (180 cogs)
+<td><b>0.18</b>
 </td>
 <td>5.98%
 </td>
@@ -1375,7 +1360,7 @@ The tables below give the percentage of a certain stat on the amulet having stre
 <td>+5.4%
 </td></tr>
 <tr>
-<td><b>0.2</b> (200 cogs)
+<td><b>0.2</b>
 </td>
 <td>5.14%
 </td>
@@ -1412,7 +1397,7 @@ The tables below give the percentage of a certain stat on the amulet having stre
 <th>+8%
 </th></tr>
 <tr>
-<td><b>0</b> (0 cogs)
+<td><b>0</b>
 </td>
 <td>38.49%
 </td>
@@ -1427,7 +1412,7 @@ The tables below give the percentage of a certain stat on the amulet having stre
 <td>+5%
 </td></tr>
 <tr>
-<td><b>0.02</b> (20 cogs)
+<td><b>0.02</b>
 </td>
 <td>35.95%
 </td>
@@ -1442,7 +1427,7 @@ The tables below give the percentage of a certain stat on the amulet having stre
 <td>+5%
 </td></tr>
 <tr>
-<td><b>0.04</b> (40 cogs)
+<td><b>0.04</b>
 </td>
 <td>33.11%
 </td>
@@ -1457,7 +1442,7 @@ The tables below give the percentage of a certain stat on the amulet having stre
 <td>+5%
 </td></tr>
 <tr>
-<td><b>0.06</b> (60 cogs)
+<td><b>0.06</b>
 </td>
 <td>29.86%
 </td>
@@ -1472,7 +1457,7 @@ The tables below give the percentage of a certain stat on the amulet having stre
 <td>+5.1%
 </td></tr>
 <tr>
-<td><b>0.08</b> (80 cogs)
+<td><b>0.08</b>
 </td>
 <td>26.08%
 </td>
@@ -1487,7 +1472,7 @@ The tables below give the percentage of a certain stat on the amulet having stre
 <td>+5.1%
 </td></tr>
 <tr>
-<td><b>0.1</b> (100 cogs)
+<td><b>0.1</b>
 </td>
 <td>21.46%
 </td>
@@ -1502,7 +1487,7 @@ The tables below give the percentage of a certain stat on the amulet having stre
 <td>+5.2%
 </td></tr>
 <tr>
-<td><b>0.12</b> (120 cogs)
+<td><b>0.12</b>
 </td>
 <td>15.085%
 </td>
@@ -1517,7 +1502,7 @@ The tables below give the percentage of a certain stat on the amulet having stre
 <td>+5.3%
 </td></tr>
 <tr>
-<td><b>0.14</b> (140 cogs)
+<td><b>0.14</b>
 </td>
 <td>9.15%
 </td>
@@ -1532,7 +1517,7 @@ The tables below give the percentage of a certain stat on the amulet having stre
 <td>+5.3%
 </td></tr>
 <tr>
-<td><b>0.16</b> (160 cogs)
+<td><b>0.16</b>
 </td>
 <td>7.18%
 </td>
@@ -1547,7 +1532,7 @@ The tables below give the percentage of a certain stat on the amulet having stre
 <td>+5.4%
 </td></tr>
 <tr>
-<td><b>0.18</b> (180 cogs)
+<td><b>0.18</b>
 </td>
 <td>5.98%
 </td>
@@ -1562,7 +1547,7 @@ The tables below give the percentage of a certain stat on the amulet having stre
 <td>+5.4%
 </td></tr>
 <tr>
-<td><b>0.2</b> (200 cogs)
+<td><b>0.2</b>
 </td>
 <td>5.14%
 </td>
@@ -1599,7 +1584,7 @@ The tables below give the percentage of a certain stat on the amulet having stre
 <th>+8%
 </th></tr>
 <tr>
-<td><b>0</b> (0 cogs)
+<td><b>0</b>
 </td>
 <td>38.49%
 </td>
@@ -1614,7 +1599,7 @@ The tables below give the percentage of a certain stat on the amulet having stre
 <td>+5%
 </td></tr>
 <tr>
-<td><b>0.02</b> (20 cogs)
+<td><b>0.02</b>
 </td>
 <td>35.95%
 </td>
@@ -1629,7 +1614,7 @@ The tables below give the percentage of a certain stat on the amulet having stre
 <td>+5%
 </td></tr>
 <tr>
-<td><b>0.04</b> (40 cogs)
+<td><b>0.04</b>
 </td>
 <td>33.11%
 </td>
@@ -1644,7 +1629,7 @@ The tables below give the percentage of a certain stat on the amulet having stre
 <td>+5%
 </td></tr>
 <tr>
-<td><b>0.06</b> (60 cogs)
+<td><b>0.06</b>
 </td>
 <td>29.86%
 </td>
@@ -1659,7 +1644,7 @@ The tables below give the percentage of a certain stat on the amulet having stre
 <td>+5.1%
 </td></tr>
 <tr>
-<td><b>0.08</b> (80 cogs)
+<td><b>0.08</b>
 </td>
 <td>26.08%
 </td>
@@ -1674,7 +1659,7 @@ The tables below give the percentage of a certain stat on the amulet having stre
 <td>+5.1%
 </td></tr>
 <tr>
-<td><b>0.1</b> (100 cogs)
+<td><b>0.1</b>
 </td>
 <td>21.46%
 </td>
@@ -1689,7 +1674,7 @@ The tables below give the percentage of a certain stat on the amulet having stre
 <td>+5.2%
 </td></tr>
 <tr>
-<td><b>0.12</b> (120 cogs)
+<td><b>0.12</b>
 </td>
 <td>15.085%
 </td>
@@ -1704,7 +1689,7 @@ The tables below give the percentage of a certain stat on the amulet having stre
 <td>+5.3%
 </td></tr>
 <tr>
-<td><b>0.14</b> (140 cogs)
+<td><b>0.14</b>
 </td>
 <td>9.15%
 </td>
@@ -1719,7 +1704,7 @@ The tables below give the percentage of a certain stat on the amulet having stre
 <td>+5.3%
 </td></tr>
 <tr>
-<td><b>0.16</b> (160 cogs)
+<td><b>0.16</b>
 </td>
 <td>7.18%
 </td>
@@ -1734,7 +1719,7 @@ The tables below give the percentage of a certain stat on the amulet having stre
 <td>+5.4%
 </td></tr>
 <tr>
-<td><b>0.18</b> (180 cogs)
+<td><b>0.18</b>
 </td>
 <td>5.98%
 </td>
@@ -1749,7 +1734,7 @@ The tables below give the percentage of a certain stat on the amulet having stre
 <td>+5.4%
 </td></tr>
 <tr>
-<td><b>0.2</b> (200 cogs)
+<td><b>0.2</b>
 </td>
 <td>5.14%
 </td>
@@ -1782,7 +1767,7 @@ The tables below give the percentage of a certain stat on the amulet having stre
 <th>+5%
 </th></tr>
 <tr>
-<td><b>0</b> (0 cogs)
+<td><b>0</b>
 </td>
 <td>59.66%
 </td>
@@ -1793,7 +1778,7 @@ The tables below give the percentage of a certain stat on the amulet having stre
 <td>+3.4%
 </td></tr>
 <tr>
-<td><b>0.02</b> (20 cogs)
+<td><b>0.02</b>
 </td>
 <td>58.34%
 </td>
@@ -1804,7 +1789,7 @@ The tables below give the percentage of a certain stat on the amulet having stre
 <td>+3.5%
 </td></tr>
 <tr>
-<td><b>0.04</b> (40 cogs)
+<td><b>0.04</b>
 </td>
 <td>56.92%
 </td>
@@ -1815,7 +1800,7 @@ The tables below give the percentage of a certain stat on the amulet having stre
 <td>+3.5%
 </td></tr>
 <tr>
-<td><b>0.06</b> (60 cogs)
+<td><b>0.06</b>
 </td>
 <td>55.38%
 </td>
@@ -1826,7 +1811,7 @@ The tables below give the percentage of a certain stat on the amulet having stre
 <td>+3.5%
 </td></tr>
 <tr>
-<td><b>0.08</b> (80 cogs)
+<td><b>0.08</b>
 </td>
 <td>53.71%
 </td>
@@ -1837,7 +1822,7 @@ The tables below give the percentage of a certain stat on the amulet having stre
 <td>+3.5%
 </td></tr>
 <tr>
-<td><b>0.1</b> (100 cogs)
+<td><b>0.1</b>
 </td>
 <td>51.88%
 </td>
@@ -1848,7 +1833,7 @@ The tables below give the percentage of a certain stat on the amulet having stre
 <td>+3.5%
 </td></tr>
 <tr>
-<td><b>0.12</b> (120 cogs)
+<td><b>0.12</b>
 </td>
 <td>49.86%
 </td>
@@ -1859,7 +1844,7 @@ The tables below give the percentage of a certain stat on the amulet having stre
 <td>+3.5%
 </td></tr>
 <tr>
-<td><b>0.14</b> (140 cogs)
+<td><b>0.14</b>
 </td>
 <td>47.62%
 </td>
@@ -1870,7 +1855,7 @@ The tables below give the percentage of a certain stat on the amulet having stre
 <td>+3.6%
 </td></tr>
 <tr>
-<td><b>0.16</b> (160 cogs)
+<td><b>0.16</b>
 </td>
 <td>45.1%
 </td>
@@ -1881,7 +1866,7 @@ The tables below give the percentage of a certain stat on the amulet having stre
 <td>+3.6%
 </td></tr>
 <tr>
-<td><b>0.18</b> (180 cogs)
+<td><b>0.18</b>
 </td>
 <td>42.23%
 </td>
@@ -1892,7 +1877,7 @@ The tables below give the percentage of a certain stat on the amulet having stre
 <td>+3.6%
 </td></tr>
 <tr>
-<td><b>0.2</b> (200 cogs)
+<td><b>0.2</b>
 </td>
 <td>38.86%
 </td>
@@ -1919,7 +1904,7 @@ The tables below give the percentage of a certain stat on the amulet having stre
 <th>+2%
 </th></tr>
 <tr>
-<td><b>0</b> (0 cogs)
+<td><b>0</b>
 </td>
 <td>84.66%
 </td>
@@ -1928,7 +1913,7 @@ The tables below give the percentage of a certain stat on the amulet having stre
 <td>+1.2%
 </td></tr>
 <tr>
-<td><b>0.02</b> (20 cogs)
+<td><b>0.02</b>
 </td>
 <td>84.26%
 </td>
@@ -1937,7 +1922,7 @@ The tables below give the percentage of a certain stat on the amulet having stre
 <td>+1.2%
 </td></tr>
 <tr>
-<td><b>0.04</b> (40 cogs)
+<td><b>0.04</b>
 </td>
 <td>83.84%
 </td>
@@ -1946,7 +1931,7 @@ The tables below give the percentage of a certain stat on the amulet having stre
 <td>+1.2%
 </td></tr>
 <tr>
-<td><b>0.06</b> (60 cogs)
+<td><b>0.06</b>
 </td>
 <td>83.4%
 </td>
@@ -1955,7 +1940,7 @@ The tables below give the percentage of a certain stat on the amulet having stre
 <td>+1.2%
 </td></tr>
 <tr>
-<td><b>0.08</b> (80 cogs)
+<td><b>0.08</b>
 </td>
 <td>82.93%
 </td>
@@ -1964,7 +1949,7 @@ The tables below give the percentage of a certain stat on the amulet having stre
 <td>+1.2%
 </td></tr>
 <tr>
-<td><b>0.1</b> (100 cogs)
+<td><b>0.1</b>
 </td>
 <td>82.44%
 </td>
@@ -1973,7 +1958,7 @@ The tables below give the percentage of a certain stat on the amulet having stre
 <td>+1.2%
 </td></tr>
 <tr>
-<td><b>0.12</b> (120 cogs)
+<td><b>0.12</b>
 </td>
 <td>81.91%
 </td>
@@ -1982,7 +1967,7 @@ The tables below give the percentage of a certain stat on the amulet having stre
 <td>+1.2%
 </td></tr>
 <tr>
-<td><b>0.14</b> (140 cogs)
+<td><b>0.14</b>
 </td>
 <td>81.35%
 </td>
@@ -1991,7 +1976,7 @@ The tables below give the percentage of a certain stat on the amulet having stre
 <td>+1.2%
 </td></tr>
 <tr>
-<td><b>0.16</b> (160 cogs)
+<td><b>0.16</b>
 </td>
 <td>80.75%
 </td>
@@ -2000,7 +1985,7 @@ The tables below give the percentage of a certain stat on the amulet having stre
 <td>+1.2%
 </td></tr>
 <tr>
-<td><b>0.18</b> (180 cogs)
+<td><b>0.18</b>
 </td>
 <td>80.11%
 </td>
@@ -2009,7 +1994,7 @@ The tables below give the percentage of a certain stat on the amulet having stre
 <td>+1.2%
 </td></tr>
 <tr>
-<td><b>0.2</b> (200 cogs)
+<td><b>0.2</b>
 </td>
 <td>79.42%
 </td>
@@ -2034,7 +2019,7 @@ The tables below give the percentage of a certain stat on the amulet having stre
 <th>+2%
 </th></tr>
 <tr>
-<td><b>0</b> (0 cogs)
+<td><b>0</b>
 </td>
 <td>84.66%
 </td>
@@ -2043,7 +2028,7 @@ The tables below give the percentage of a certain stat on the amulet having stre
 <td>+1.2%
 </td></tr>
 <tr>
-<td><b>0.02</b> (20 cogs)
+<td><b>0.02</b>
 </td>
 <td>84.26%
 </td>
@@ -2052,7 +2037,7 @@ The tables below give the percentage of a certain stat on the amulet having stre
 <td>+1.2%
 </td></tr>
 <tr>
-<td><b>0.04</b> (40 cogs)
+<td><b>0.04</b>
 </td>
 <td>83.84%
 </td>
@@ -2061,7 +2046,7 @@ The tables below give the percentage of a certain stat on the amulet having stre
 <td>+1.2%
 </td></tr>
 <tr>
-<td><b>0.06</b> (60 cogs)
+<td><b>0.06</b>
 </td>
 <td>83.4%
 </td>
@@ -2070,7 +2055,7 @@ The tables below give the percentage of a certain stat on the amulet having stre
 <td>+1.2%
 </td></tr>
 <tr>
-<td><b>0.08</b> (80 cogs)
+<td><b>0.08</b>
 </td>
 <td>82.93%
 </td>
@@ -2079,7 +2064,7 @@ The tables below give the percentage of a certain stat on the amulet having stre
 <td>+1.2%
 </td></tr>
 <tr>
-<td><b>0.1</b> (100 cogs)
+<td><b>0.1</b>
 </td>
 <td>82.44%
 </td>
@@ -2088,7 +2073,7 @@ The tables below give the percentage of a certain stat on the amulet having stre
 <td>+1.2%
 </td></tr>
 <tr>
-<td><b>0.12</b> (120 cogs)
+<td><b>0.12</b>
 </td>
 <td>81.91%
 </td>
@@ -2097,7 +2082,7 @@ The tables below give the percentage of a certain stat on the amulet having stre
 <td>+1.2%
 </td></tr>
 <tr>
-<td><b>0.14</b> (140 cogs)
+<td><b>0.14</b>
 </td>
 <td>81.35%
 </td>
@@ -2106,7 +2091,7 @@ The tables below give the percentage of a certain stat on the amulet having stre
 <td>+1.2%
 </td></tr>
 <tr>
-<td><b>0.16</b> (160 cogs)
+<td><b>0.16</b>
 </td>
 <td>80.75%
 </td>
@@ -2115,7 +2100,7 @@ The tables below give the percentage of a certain stat on the amulet having stre
 <td>+1.2%
 </td></tr>
 <tr>
-<td><b>0.18</b> (180 cogs)
+<td><b>0.18</b>
 </td>
 <td>80.11%
 </td>
@@ -2124,7 +2109,7 @@ The tables below give the percentage of a certain stat on the amulet having stre
 <td>+1.2%
 </td></tr>
 <tr>
-<td><b>0.2</b> (200 cogs)
+<td><b>0.2</b>
 </td>
 <td>79.42%
 </td>
@@ -2149,7 +2134,7 @@ The tables below give the percentage of a certain stat on the amulet having stre
 <th>+2%
 </th></tr>
 <tr>
-<td><b>0</b> (0 cogs)
+<td><b>0</b>
 </td>
 <td>84.66%
 </td>
@@ -2158,7 +2143,7 @@ The tables below give the percentage of a certain stat on the amulet having stre
 <td>+1.2%
 </td></tr>
 <tr>
-<td><b>0.02</b> (20 cogs)
+<td><b>0.02</b>
 </td>
 <td>84.26%
 </td>
@@ -2167,7 +2152,7 @@ The tables below give the percentage of a certain stat on the amulet having stre
 <td>+1.2%
 </td></tr>
 <tr>
-<td><b>0.04</b> (40 cogs)
+<td><b>0.04</b>
 </td>
 <td>83.84%
 </td>
@@ -2176,7 +2161,7 @@ The tables below give the percentage of a certain stat on the amulet having stre
 <td>+1.2%
 </td></tr>
 <tr>
-<td><b>0.06</b> (60 cogs)
+<td><b>0.06</b>
 </td>
 <td>83.4%
 </td>
@@ -2185,7 +2170,7 @@ The tables below give the percentage of a certain stat on the amulet having stre
 <td>+1.2%
 </td></tr>
 <tr>
-<td><b>0.08</b> (80 cogs)
+<td><b>0.08</b>
 </td>
 <td>82.93%
 </td>
@@ -2194,7 +2179,7 @@ The tables below give the percentage of a certain stat on the amulet having stre
 <td>+1.2%
 </td></tr>
 <tr>
-<td><b>0.1</b> (100 cogs)
+<td><b>0.1</b>
 </td>
 <td>82.44%
 </td>
@@ -2203,7 +2188,7 @@ The tables below give the percentage of a certain stat on the amulet having stre
 <td>+1.2%
 </td></tr>
 <tr>
-<td><b>0.12</b> (120 cogs)
+<td><b>0.12</b>
 </td>
 <td>81.91%
 </td>
@@ -2212,7 +2197,7 @@ The tables below give the percentage of a certain stat on the amulet having stre
 <td>+1.2%
 </td></tr>
 <tr>
-<td><b>0.14</b> (140 cogs)
+<td><b>0.14</b>
 </td>
 <td>81.35%
 </td>
@@ -2221,7 +2206,7 @@ The tables below give the percentage of a certain stat on the amulet having stre
 <td>+1.2%
 </td></tr>
 <tr>
-<td><b>0.16</b> (160 cogs)
+<td><b>0.16</b>
 </td>
 <td>80.75%
 </td>
@@ -2230,7 +2215,7 @@ The tables below give the percentage of a certain stat on the amulet having stre
 <td>+1.2%
 </td></tr>
 <tr>
-<td><b>0.18</b> (180 cogs)
+<td><b>0.18</b>
 </td>
 <td>80.11%
 </td>
@@ -2239,7 +2224,7 @@ The tables below give the percentage of a certain stat on the amulet having stre
 <td>+1.2%
 </td></tr>
 <tr>
-<td><b>0.2</b> (200 cogs)
+<td><b>0.2</b>
 </td>
 <td>79.42%
 </td>
@@ -2395,7 +2380,7 @@ The tables below give the percentage of a certain stat on the amulet having stre
 <th>+55,000
 </th></tr>
 <tr>
-<td><b>0.2</b> (200 cogs)
+<td><b>0.2</b>
 </td>
 <td>31.16%
 </td>
@@ -2410,7 +2395,7 @@ The tables below give the percentage of a certain stat on the amulet having stre
 <td>+48,498.56
 </td></tr>
 <tr>
-<td><b>0.22</b> (220 cogs)
+<td><b>0.22</b>
 </td>
 <td>25.025%
 </td>
@@ -2425,7 +2410,7 @@ The tables below give the percentage of a certain stat on the amulet having stre
 <td>+48,597.54
 </td></tr>
 <tr>
-<td><b>0.24</b> (240 cogs)
+<td><b>0.24</b>
 </td>
 <td>18.34%
 </td>
@@ -2440,7 +2425,7 @@ The tables below give the percentage of a certain stat on the amulet having stre
 <td>+48,702.5
 </td></tr>
 <tr>
-<td><b>0.26</b> (260 cogs)
+<td><b>0.26</b>
 </td>
 <td>15.48%
 </td>
@@ -2455,7 +2440,7 @@ The tables below give the percentage of a certain stat on the amulet having stre
 <td>+48,796.31
 </td></tr>
 <tr>
-<td><b>0.28</b> (280 cogs)
+<td><b>0.28</b>
 </td>
 <td>13.55%
 </td>
@@ -2470,7 +2455,7 @@ The tables below give the percentage of a certain stat on the amulet having stre
 <td>+48,904.58
 </td></tr>
 <tr>
-<td><b>0.3</b> (300 cogs)
+<td><b>0.3</b>
 </td>
 <td>12.1%
 </td>
@@ -2485,7 +2470,7 @@ The tables below give the percentage of a certain stat on the amulet having stre
 <td>+48,999.12
 </td></tr>
 <tr>
-<td><b>0.32</b> (320 cogs)
+<td><b>0.32</b>
 </td>
 <td>10.96%
 </td>
@@ -2500,7 +2485,7 @@ The tables below give the percentage of a certain stat on the amulet having stre
 <td>+49,097.047
 </td></tr>
 <tr>
-<td><b>0.34</b> (340 cogs)
+<td><b>0.34</b>
 </td>
 <td>10.034%
 </td>
@@ -2515,7 +2500,7 @@ The tables below give the percentage of a certain stat on the amulet having stre
 <td>+49,202.76
 </td></tr>
 <tr>
-<td><b>0.36</b> (360 cogs)
+<td><b>0.36</b>
 </td>
 <td>9.26%
 </td>
@@ -2530,7 +2515,7 @@ The tables below give the percentage of a certain stat on the amulet having stre
 <td>+49,296.57
 </td></tr>
 <tr>
-<td><b>0.38</b> (380 cogs)
+<td><b>0.38</b>
 </td>
 <td>8.6%
 </td>
@@ -2545,7 +2530,7 @@ The tables below give the percentage of a certain stat on the amulet having stre
 <td>+49,404.14
 </td></tr>
 <tr>
-<td><b>0.4</b> (400 cogs)
+<td><b>0.4</b>
 </td>
 <td>8.033%
 </td>
@@ -2580,7 +2565,7 @@ The tables below give the percentage of a certain stat on the amulet having stre
 <th>+8%
 </th></tr>
 <tr>
-<td><b>0.2</b> (200 cogs)
+<td><b>0.2</b>
 </td>
 <td>36.65%
 </td>
@@ -2593,7 +2578,7 @@ The tables below give the percentage of a certain stat on the amulet having stre
 <td>+5.8%
 </td></tr>
 <tr>
-<td><b>0.22</b> (220 cogs)
+<td><b>0.22</b>
 </td>
 <td>35%
 </td>
@@ -2606,7 +2591,7 @@ The tables below give the percentage of a certain stat on the amulet having stre
 <td>+5.8%
 </td></tr>
 <tr>
-<td><b>0.24</b> (240 cogs)
+<td><b>0.24</b>
 </td>
 <td>33.12%
 </td>
@@ -2619,7 +2604,7 @@ The tables below give the percentage of a certain stat on the amulet having stre
 <td>+5.9%
 </td></tr>
 <tr>
-<td><b>0.26</b> (260 cogs)
+<td><b>0.26</b>
 </td>
 <td>30.94%
 </td>
@@ -2632,7 +2617,7 @@ The tables below give the percentage of a certain stat on the amulet having stre
 <td>+5.9%
 </td></tr>
 <tr>
-<td><b>0.28</b> (280 cogs)
+<td><b>0.28</b>
 </td>
 <td>28.36%
 </td>
@@ -2645,7 +2630,7 @@ The tables below give the percentage of a certain stat on the amulet having stre
 <td>+5.9%
 </td></tr>
 <tr>
-<td><b>0.3</b> (300 cogs)
+<td><b>0.3</b>
 </td>
 <td>25.2%
 </td>
@@ -2658,7 +2643,7 @@ The tables below give the percentage of a certain stat on the amulet having stre
 <td>+6%
 </td></tr>
 <tr>
-<td><b>0.32</b> (320 cogs)
+<td><b>0.32</b>
 </td>
 <td>21.034%
 </td>
@@ -2671,7 +2656,7 @@ The tables below give the percentage of a certain stat on the amulet having stre
 <td>+6%
 </td></tr>
 <tr>
-<td><b>0.34</b> (340 cogs)
+<td><b>0.34</b>
 </td>
 <td>14.89%
 </td>
@@ -2684,7 +2669,7 @@ The tables below give the percentage of a certain stat on the amulet having stre
 <td>+6.1%
 </td></tr>
 <tr>
-<td><b>0.36</b> (360 cogs)
+<td><b>0.36</b>
 </td>
 <td>12.089%
 </td>
@@ -2697,7 +2682,7 @@ The tables below give the percentage of a certain stat on the amulet having stre
 <td>+6.1%
 </td></tr>
 <tr>
-<td><b>0.38</b> (380 cogs)
+<td><b>0.38</b>
 </td>
 <td>10.3%
 </td>
@@ -2710,7 +2695,7 @@ The tables below give the percentage of a certain stat on the amulet having stre
 <td>+6.1%
 </td></tr>
 <tr>
-<td><b>0.4</b> (400 cogs)
+<td><b>0.4</b>
 </td>
 <td>8.97%
 </td>
@@ -2747,7 +2732,7 @@ The tables below give the percentage of a certain stat on the amulet having stre
 <th>+15%
 </th></tr>
 <tr>
-<td><b>0.2</b> (200 cogs)
+<td><b>0.2</b>
 </td>
 <td>3.069%
 </td>
@@ -2764,7 +2749,7 @@ The tables below give the percentage of a certain stat on the amulet having stre
 <td>+12%
 </td></tr>
 <tr>
-<td><b>0.22</b> (220 cogs)
+<td><b>0.22</b>
 </td>
 <td>2.73%
 </td>
@@ -2781,7 +2766,7 @@ The tables below give the percentage of a certain stat on the amulet having stre
 <td>+12%
 </td></tr>
 <tr>
-<td><b>0.24</b> (240 cogs)
+<td><b>0.24</b>
 </td>
 <td>2.45%
 </td>
@@ -2798,7 +2783,7 @@ The tables below give the percentage of a certain stat on the amulet having stre
 <td>+12%
 </td></tr>
 <tr>
-<td><b>0.26</b> (260 cogs)
+<td><b>0.26</b>
 </td>
 <td>2.23%
 </td>
@@ -2815,7 +2800,7 @@ The tables below give the percentage of a certain stat on the amulet having stre
 <td>+12%
 </td></tr>
 <tr>
-<td><b>0.28</b> (280 cogs)
+<td><b>0.28</b>
 </td>
 <td>2.047%
 </td>
@@ -2832,7 +2817,7 @@ The tables below give the percentage of a certain stat on the amulet having stre
 <td>+12%
 </td></tr>
 <tr>
-<td><b>0.3</b> (300 cogs)
+<td><b>0.3</b>
 </td>
 <td>1.89%
 </td>
@@ -2849,7 +2834,7 @@ The tables below give the percentage of a certain stat on the amulet having stre
 <td>+12%
 </td></tr>
 <tr>
-<td><b>0.32</b> (320 cogs)
+<td><b>0.32</b>
 </td>
 <td>1.76%
 </td>
@@ -2866,7 +2851,7 @@ The tables below give the percentage of a certain stat on the amulet having stre
 <td>+12%
 </td></tr>
 <tr>
-<td><b>0.34</b> (340 cogs)
+<td><b>0.34</b>
 </td>
 <td>1.64%
 </td>
@@ -2883,7 +2868,7 @@ The tables below give the percentage of a certain stat on the amulet having stre
 <td>+12%
 </td></tr>
 <tr>
-<td><b>0.36</b> (360 cogs)
+<td><b>0.36</b>
 </td>
 <td>1.54%
 </td>
@@ -2900,7 +2885,7 @@ The tables below give the percentage of a certain stat on the amulet having stre
 <td>+12%
 </td></tr>
 <tr>
-<td><b>0.38</b> (380 cogs)
+<td><b>0.38</b>
 </td>
 <td>1.45%
 </td>
@@ -2917,7 +2902,7 @@ The tables below give the percentage of a certain stat on the amulet having stre
 <td>+12%
 </td></tr>
 <tr>
-<td><b>0.4</b> (400 cogs)
+<td><b>0.4</b>
 </td>
 <td>1.37%
 </td>
@@ -2958,7 +2943,7 @@ The tables below give the percentage of a certain stat on the amulet having stre
 <th>+15%
 </th></tr>
 <tr>
-<td><b>0.2</b> (200 cogs)
+<td><b>0.2</b>
 </td>
 <td>3.069%
 </td>
@@ -2975,7 +2960,7 @@ The tables below give the percentage of a certain stat on the amulet having stre
 <td>+12%
 </td></tr>
 <tr>
-<td><b>0.22</b> (220 cogs)
+<td><b>0.22</b>
 </td>
 <td>2.73%
 </td>
@@ -2992,7 +2977,7 @@ The tables below give the percentage of a certain stat on the amulet having stre
 <td>+12%
 </td></tr>
 <tr>
-<td><b>0.24</b> (240 cogs)
+<td><b>0.24</b>
 </td>
 <td>2.45%
 </td>
@@ -3009,7 +2994,7 @@ The tables below give the percentage of a certain stat on the amulet having stre
 <td>+12%
 </td></tr>
 <tr>
-<td><b>0.26</b> (260 cogs)
+<td><b>0.26</b>
 </td>
 <td>2.23%
 </td>
@@ -3026,7 +3011,7 @@ The tables below give the percentage of a certain stat on the amulet having stre
 <td>+12%
 </td></tr>
 <tr>
-<td><b>0.28</b> (280 cogs)
+<td><b>0.28</b>
 </td>
 <td>2.047%
 </td>
@@ -3043,7 +3028,7 @@ The tables below give the percentage of a certain stat on the amulet having stre
 <td>+12%
 </td></tr>
 <tr>
-<td><b>0.3</b> (300 cogs)
+<td><b>0.3</b>
 </td>
 <td>1.89%
 </td>
@@ -3060,7 +3045,7 @@ The tables below give the percentage of a certain stat on the amulet having stre
 <td>+12%
 </td></tr>
 <tr>
-<td><b>0.32</b> (320 cogs)
+<td><b>0.32</b>
 </td>
 <td>1.76%
 </td>
@@ -3077,7 +3062,7 @@ The tables below give the percentage of a certain stat on the amulet having stre
 <td>+12%
 </td></tr>
 <tr>
-<td><b>0.34</b> (340 cogs)
+<td><b>0.34</b>
 </td>
 <td>1.64%
 </td>
@@ -3094,7 +3079,7 @@ The tables below give the percentage of a certain stat on the amulet having stre
 <td>+12%
 </td></tr>
 <tr>
-<td><b>0.36</b> (360 cogs)
+<td><b>0.36</b>
 </td>
 <td>1.54%
 </td>
@@ -3111,7 +3096,7 @@ The tables below give the percentage of a certain stat on the amulet having stre
 <td>+12%
 </td></tr>
 <tr>
-<td><b>0.38</b> (380 cogs)
+<td><b>0.38</b>
 </td>
 <td>1.45%
 </td>
@@ -3128,7 +3113,7 @@ The tables below give the percentage of a certain stat on the amulet having stre
 <td>+12%
 </td></tr>
 <tr>
-<td><b>0.4</b> (400 cogs)
+<td><b>0.4</b>
 </td>
 <td>1.37%
 </td>
@@ -3169,7 +3154,7 @@ The tables below give the percentage of a certain stat on the amulet having stre
 <th>+15%
 </th></tr>
 <tr>
-<td><b>0.2</b> (200 cogs)
+<td><b>0.2</b>
 </td>
 <td>3.069%
 </td>
@@ -3186,7 +3171,7 @@ The tables below give the percentage of a certain stat on the amulet having stre
 <td>+12%
 </td></tr>
 <tr>
-<td><b>0.22</b> (220 cogs)
+<td><b>0.22</b>
 </td>
 <td>2.73%
 </td>
@@ -3203,7 +3188,7 @@ The tables below give the percentage of a certain stat on the amulet having stre
 <td>+12%
 </td></tr>
 <tr>
-<td><b>0.24</b> (240 cogs)
+<td><b>0.24</b>
 </td>
 <td>2.45%
 </td>
@@ -3220,7 +3205,7 @@ The tables below give the percentage of a certain stat on the amulet having stre
 <td>+12%
 </td></tr>
 <tr>
-<td><b>0.26</b> (260 cogs)
+<td><b>0.26</b>
 </td>
 <td>2.23%
 </td>
@@ -3237,7 +3222,7 @@ The tables below give the percentage of a certain stat on the amulet having stre
 <td>+12%
 </td></tr>
 <tr>
-<td><b>0.28</b> (280 cogs)
+<td><b>0.28</b>
 </td>
 <td>2.047%
 </td>
@@ -3254,7 +3239,7 @@ The tables below give the percentage of a certain stat on the amulet having stre
 <td>+12%
 </td></tr>
 <tr>
-<td><b>0.3</b> (300 cogs)
+<td><b>0.3</b>
 </td>
 <td>1.89%
 </td>
@@ -3271,7 +3256,7 @@ The tables below give the percentage of a certain stat on the amulet having stre
 <td>+12%
 </td></tr>
 <tr>
-<td><b>0.32</b> (320 cogs)
+<td><b>0.32</b>
 </td>
 <td>1.76%
 </td>
@@ -3288,7 +3273,7 @@ The tables below give the percentage of a certain stat on the amulet having stre
 <td>+12%
 </td></tr>
 <tr>
-<td><b>0.34</b> (340 cogs)
+<td><b>0.34</b>
 </td>
 <td>1.64%
 </td>
@@ -3305,7 +3290,7 @@ The tables below give the percentage of a certain stat on the amulet having stre
 <td>+12%
 </td></tr>
 <tr>
-<td><b>0.36</b> (360 cogs)
+<td><b>0.36</b>
 </td>
 <td>1.54%
 </td>
@@ -3322,7 +3307,7 @@ The tables below give the percentage of a certain stat on the amulet having stre
 <td>+12%
 </td></tr>
 <tr>
-<td><b>0.38</b> (380 cogs)
+<td><b>0.38</b>
 </td>
 <td>1.45%
 </td>
@@ -3339,7 +3324,7 @@ The tables below give the percentage of a certain stat on the amulet having stre
 <td>+12%
 </td></tr>
 <tr>
-<td><b>0.4</b> (400 cogs)
+<td><b>0.4</b>
 </td>
 <td>1.37%
 </td>
@@ -3372,7 +3357,7 @@ The tables below give the percentage of a certain stat on the amulet having stre
 <th>+2%
 </th></tr>
 <tr>
-<td><b>0.2</b> (200 cogs)
+<td><b>0.2</b>
 </td>
 <td>79.42%
 </td>
@@ -3381,7 +3366,7 @@ The tables below give the percentage of a certain stat on the amulet having stre
 <td>+1.2%
 </td></tr>
 <tr>
-<td><b>0.22</b> (220 cogs)
+<td><b>0.22</b>
 </td>
 <td>78.69%
 </td>
@@ -3390,7 +3375,7 @@ The tables below give the percentage of a certain stat on the amulet having stre
 <td>+1.2%
 </td></tr>
 <tr>
-<td><b>0.24</b> (240 cogs)
+<td><b>0.24</b>
 </td>
 <td>77.89%
 </td>
@@ -3399,7 +3384,7 @@ The tables below give the percentage of a certain stat on the amulet having stre
 <td>+1.2%
 </td></tr>
 <tr>
-<td><b>0.26</b> (260 cogs)
+<td><b>0.26</b>
 </td>
 <td>77.024%
 </td>
@@ -3408,7 +3393,7 @@ The tables below give the percentage of a certain stat on the amulet having stre
 <td>+1.2%
 </td></tr>
 <tr>
-<td><b>0.28</b> (280 cogs)
+<td><b>0.28</b>
 </td>
 <td>76.084%
 </td>
@@ -3417,7 +3402,7 @@ The tables below give the percentage of a certain stat on the amulet having stre
 <td>+1.2%
 </td></tr>
 <tr>
-<td><b>0.3</b> (300 cogs)
+<td><b>0.3</b>
 </td>
 <td>75.055%
 </td>
@@ -3426,7 +3411,7 @@ The tables below give the percentage of a certain stat on the amulet having stre
 <td>+1.2%
 </td></tr>
 <tr>
-<td><b>0.32</b> (320 cogs)
+<td><b>0.32</b>
 </td>
 <td>73.92%
 </td>
@@ -3435,7 +3420,7 @@ The tables below give the percentage of a certain stat on the amulet having stre
 <td>+1.3%
 </td></tr>
 <tr>
-<td><b>0.34</b> (340 cogs)
+<td><b>0.34</b>
 </td>
 <td>72.67%
 </td>
@@ -3444,7 +3429,7 @@ The tables below give the percentage of a certain stat on the amulet having stre
 <td>+1.3%
 </td></tr>
 <tr>
-<td><b>0.36</b> (360 cogs)
+<td><b>0.36</b>
 </td>
 <td>71.28%
 </td>
@@ -3453,7 +3438,7 @@ The tables below give the percentage of a certain stat on the amulet having stre
 <td>+1.3%
 </td></tr>
 <tr>
-<td><b>0.38</b> (380 cogs)
+<td><b>0.38</b>
 </td>
 <td>69.71%
 </td>
@@ -3462,7 +3447,7 @@ The tables below give the percentage of a certain stat on the amulet having stre
 <td>+1.3%
 </td></tr>
 <tr>
-<td><b>0.4</b> (400 cogs)
+<td><b>0.4</b>
 </td>
 <td>67.92%
 </td>
@@ -3495,7 +3480,7 @@ The tables below give the percentage of a certain stat on the amulet having stre
 <th>+15%
 </th></tr>
 <tr>
-<td><b>0.2</b> (200 cogs)
+<td><b>0.2</b>
 </td>
 <td>3.069%
 </td>
@@ -3512,7 +3497,7 @@ The tables below give the percentage of a certain stat on the amulet having stre
 <td>+12%
 </td></tr>
 <tr>
-<td><b>0.22</b> (220 cogs)
+<td><b>0.22</b>
 </td>
 <td>2.73%
 </td>
@@ -3529,7 +3514,7 @@ The tables below give the percentage of a certain stat on the amulet having stre
 <td>+12%
 </td></tr>
 <tr>
-<td><b>0.24</b> (240 cogs)
+<td><b>0.24</b>
 </td>
 <td>2.45%
 </td>
@@ -3546,7 +3531,7 @@ The tables below give the percentage of a certain stat on the amulet having stre
 <td>+12%
 </td></tr>
 <tr>
-<td><b>0.26</b> (260 cogs)
+<td><b>0.26</b>
 </td>
 <td>2.23%
 </td>
@@ -3563,7 +3548,7 @@ The tables below give the percentage of a certain stat on the amulet having stre
 <td>+12%
 </td></tr>
 <tr>
-<td><b>0.28</b> (280 cogs)
+<td><b>0.28</b>
 </td>
 <td>2.047%
 </td>
@@ -3580,7 +3565,7 @@ The tables below give the percentage of a certain stat on the amulet having stre
 <td>+12%
 </td></tr>
 <tr>
-<td><b>0.3</b> (300 cogs)
+<td><b>0.3</b>
 </td>
 <td>1.89%
 </td>
@@ -3597,7 +3582,7 @@ The tables below give the percentage of a certain stat on the amulet having stre
 <td>+12%
 </td></tr>
 <tr>
-<td><b>0.32</b> (320 cogs)
+<td><b>0.32</b>
 </td>
 <td>1.76%
 </td>
@@ -3614,7 +3599,7 @@ The tables below give the percentage of a certain stat on the amulet having stre
 <td>+12%
 </td></tr>
 <tr>
-<td><b>0.34</b> (340 cogs)
+<td><b>0.34</b>
 </td>
 <td>1.64%
 </td>
@@ -3631,7 +3616,7 @@ The tables below give the percentage of a certain stat on the amulet having stre
 <td>+12%
 </td></tr>
 <tr>
-<td><b>0.36</b> (360 cogs)
+<td><b>0.36</b>
 </td>
 <td>1.54%
 </td>
@@ -3648,7 +3633,7 @@ The tables below give the percentage of a certain stat on the amulet having stre
 <td>+12%
 </td></tr>
 <tr>
-<td><b>0.38</b> (380 cogs)
+<td><b>0.38</b>
 </td>
 <td>1.45%
 </td>
@@ -3665,7 +3650,7 @@ The tables below give the percentage of a certain stat on the amulet having stre
 <td>+12%
 </td></tr>
 <tr>
-<td><b>0.4</b> (400 cogs)
+<td><b>0.4</b>
 </td>
 <td>1.37%
 </td>
@@ -3706,7 +3691,7 @@ The tables below give the percentage of a certain stat on the amulet having stre
 <th>+15%
 </th></tr>
 <tr>
-<td><b>0.2</b> (200 cogs)
+<td><b>0.2</b>
 </td>
 <td>3.069%
 </td>
@@ -3723,7 +3708,7 @@ The tables below give the percentage of a certain stat on the amulet having stre
 <td>+12%
 </td></tr>
 <tr>
-<td><b>0.22</b> (220 cogs)
+<td><b>0.22</b>
 </td>
 <td>2.73%
 </td>
@@ -3740,7 +3725,7 @@ The tables below give the percentage of a certain stat on the amulet having stre
 <td>+12%
 </td></tr>
 <tr>
-<td><b>0.24</b> (240 cogs)
+<td><b>0.24</b>
 </td>
 <td>2.45%
 </td>
@@ -3757,7 +3742,7 @@ The tables below give the percentage of a certain stat on the amulet having stre
 <td>+12%
 </td></tr>
 <tr>
-<td><b>0.26</b> (260 cogs)
+<td><b>0.26</b>
 </td>
 <td>2.23%
 </td>
@@ -3774,7 +3759,7 @@ The tables below give the percentage of a certain stat on the amulet having stre
 <td>+12%
 </td></tr>
 <tr>
-<td><b>0.28</b> (280 cogs)
+<td><b>0.28</b>
 </td>
 <td>2.047%
 </td>
@@ -3791,7 +3776,7 @@ The tables below give the percentage of a certain stat on the amulet having stre
 <td>+12%
 </td></tr>
 <tr>
-<td><b>0.3</b> (300 cogs)
+<td><b>0.3</b>
 </td>
 <td>1.89%
 </td>
@@ -3808,7 +3793,7 @@ The tables below give the percentage of a certain stat on the amulet having stre
 <td>+12%
 </td></tr>
 <tr>
-<td><b>0.32</b> (320 cogs)
+<td><b>0.32</b>
 </td>
 <td>1.76%
 </td>
@@ -3825,7 +3810,7 @@ The tables below give the percentage of a certain stat on the amulet having stre
 <td>+12%
 </td></tr>
 <tr>
-<td><b>0.34</b> (340 cogs)
+<td><b>0.34</b>
 </td>
 <td>1.64%
 </td>
@@ -3842,7 +3827,7 @@ The tables below give the percentage of a certain stat on the amulet having stre
 <td>+12%
 </td></tr>
 <tr>
-<td><b>0.36</b> (360 cogs)
+<td><b>0.36</b>
 </td>
 <td>1.54%
 </td>
@@ -3859,7 +3844,7 @@ The tables below give the percentage of a certain stat on the amulet having stre
 <td>+12%
 </td></tr>
 <tr>
-<td><b>0.38</b> (380 cogs)
+<td><b>0.38</b>
 </td>
 <td>1.45%
 </td>
@@ -3876,7 +3861,7 @@ The tables below give the percentage of a certain stat on the amulet having stre
 <td>+12%
 </td></tr>
 <tr>
-<td><b>0.4</b> (400 cogs)
+<td><b>0.4</b>
 </td>
 <td>1.37%
 </td>
@@ -3917,7 +3902,7 @@ The tables below give the percentage of a certain stat on the amulet having stre
 <th>+15%
 </th></tr>
 <tr>
-<td><b>0.2</b> (200 cogs)
+<td><b>0.2</b>
 </td>
 <td>3.069%
 </td>
@@ -3934,7 +3919,7 @@ The tables below give the percentage of a certain stat on the amulet having stre
 <td>+12%
 </td></tr>
 <tr>
-<td><b>0.22</b> (220 cogs)
+<td><b>0.22</b>
 </td>
 <td>2.73%
 </td>
@@ -3951,7 +3936,7 @@ The tables below give the percentage of a certain stat on the amulet having stre
 <td>+12%
 </td></tr>
 <tr>
-<td><b>0.24</b> (240 cogs)
+<td><b>0.24</b>
 </td>
 <td>2.45%
 </td>
@@ -3968,7 +3953,7 @@ The tables below give the percentage of a certain stat on the amulet having stre
 <td>+12%
 </td></tr>
 <tr>
-<td><b>0.26</b> (260 cogs)
+<td><b>0.26</b>
 </td>
 <td>2.23%
 </td>
@@ -3985,7 +3970,7 @@ The tables below give the percentage of a certain stat on the amulet having stre
 <td>+12%
 </td></tr>
 <tr>
-<td><b>0.28</b> (280 cogs)
+<td><b>0.28</b>
 </td>
 <td>2.047%
 </td>
@@ -4002,7 +3987,7 @@ The tables below give the percentage of a certain stat on the amulet having stre
 <td>+12%
 </td></tr>
 <tr>
-<td><b>0.3</b> (300 cogs)
+<td><b>0.3</b>
 </td>
 <td>1.89%
 </td>
@@ -4019,7 +4004,7 @@ The tables below give the percentage of a certain stat on the amulet having stre
 <td>+12%
 </td></tr>
 <tr>
-<td><b>0.32</b> (320 cogs)
+<td><b>0.32</b>
 </td>
 <td>1.76%
 </td>
@@ -4036,7 +4021,7 @@ The tables below give the percentage of a certain stat on the amulet having stre
 <td>+12%
 </td></tr>
 <tr>
-<td><b>0.34</b> (340 cogs)
+<td><b>0.34</b>
 </td>
 <td>1.64%
 </td>
@@ -4053,7 +4038,7 @@ The tables below give the percentage of a certain stat on the amulet having stre
 <td>+12%
 </td></tr>
 <tr>
-<td><b>0.36</b> (360 cogs)
+<td><b>0.36</b>
 </td>
 <td>1.54%
 </td>
@@ -4070,7 +4055,7 @@ The tables below give the percentage of a certain stat on the amulet having stre
 <td>+12%
 </td></tr>
 <tr>
-<td><b>0.38</b> (380 cogs)
+<td><b>0.38</b>
 </td>
 <td>1.45%
 </td>
@@ -4087,7 +4072,7 @@ The tables below give the percentage of a certain stat on the amulet having stre
 <td>+12%
 </td></tr>
 <tr>
-<td><b>0.4</b> (400 cogs)
+<td><b>0.4</b>
 </td>
 <td>1.37%
 </td>
@@ -4126,7 +4111,7 @@ The tables below give the percentage of a certain stat on the amulet having stre
 <th>+10%
 </th></tr>
 <tr>
-<td><b>0.2</b> (200 cogs)
+<td><b>0.2</b>
 </td>
 <td>5.14%
 </td>
@@ -4141,7 +4126,7 @@ The tables below give the percentage of a certain stat on the amulet having stre
 <td>+7.4%
 </td></tr>
 <tr>
-<td><b>0.22</b> (220 cogs)
+<td><b>0.22</b>
 </td>
 <td>4.52%
 </td>
@@ -4156,7 +4141,7 @@ The tables below give the percentage of a certain stat on the amulet having stre
 <td>+7.4%
 </td></tr>
 <tr>
-<td><b>0.24</b> (240 cogs)
+<td><b>0.24</b>
 </td>
 <td>4.039%
 </td>
@@ -4171,7 +4156,7 @@ The tables below give the percentage of a certain stat on the amulet having stre
 <td>+7.5%
 </td></tr>
 <tr>
-<td><b>0.26</b> (260 cogs)
+<td><b>0.26</b>
 </td>
 <td>3.65%
 </td>
@@ -4186,7 +4171,7 @@ The tables below give the percentage of a certain stat on the amulet having stre
 <td>+7.5%
 </td></tr>
 <tr>
-<td><b>0.28</b> (280 cogs)
+<td><b>0.28</b>
 </td>
 <td>3.33%
 </td>
@@ -4201,7 +4186,7 @@ The tables below give the percentage of a certain stat on the amulet having stre
 <td>+7.5%
 </td></tr>
 <tr>
-<td><b>0.3</b> (300 cogs)
+<td><b>0.3</b>
 </td>
 <td>3.068%
 </td>
@@ -4216,7 +4201,7 @@ The tables below give the percentage of a certain stat on the amulet having stre
 <td>+7.6%
 </td></tr>
 <tr>
-<td><b>0.32</b> (320 cogs)
+<td><b>0.32</b>
 </td>
 <td>2.84%
 </td>
@@ -4231,7 +4216,7 @@ The tables below give the percentage of a certain stat on the amulet having stre
 <td>+7.6%
 </td></tr>
 <tr>
-<td><b>0.34</b> (340 cogs)
+<td><b>0.34</b>
 </td>
 <td>2.65%
 </td>
@@ -4246,7 +4231,7 @@ The tables below give the percentage of a certain stat on the amulet having stre
 <td>+7.6%
 </td></tr>
 <tr>
-<td><b>0.36</b> (360 cogs)
+<td><b>0.36</b>
 </td>
 <td>2.48%
 </td>
@@ -4261,7 +4246,7 @@ The tables below give the percentage of a certain stat on the amulet having stre
 <td>+7.7%
 </td></tr>
 <tr>
-<td><b>0.38</b> (380 cogs)
+<td><b>0.38</b>
 </td>
 <td>2.33%
 </td>
@@ -4276,7 +4261,7 @@ The tables below give the percentage of a certain stat on the amulet having stre
 <td>+7.8%
 </td></tr>
 <tr>
-<td><b>0.4</b> (400 cogs)
+<td><b>0.4</b>
 </td>
 <td>2.2%
 </td>
@@ -4307,7 +4292,7 @@ The tables below give the percentage of a certain stat on the amulet having stre
 <th>+3%
 </th></tr>
 <tr>
-<td><b>0.2</b> (200 cogs)
+<td><b>0.2</b>
 </td>
 <td>79.42%
 </td>
@@ -4316,7 +4301,7 @@ The tables below give the percentage of a certain stat on the amulet having stre
 <td>+2.2%
 </td></tr>
 <tr>
-<td><b>0.22</b> (220 cogs)
+<td><b>0.22</b>
 </td>
 <td>78.69%
 </td>
@@ -4325,7 +4310,7 @@ The tables below give the percentage of a certain stat on the amulet having stre
 <td>+2.2%
 </td></tr>
 <tr>
-<td><b>0.24</b> (240 cogs)
+<td><b>0.24</b>
 </td>
 <td>77.89%
 </td>
@@ -4334,7 +4319,7 @@ The tables below give the percentage of a certain stat on the amulet having stre
 <td>+2.2%
 </td></tr>
 <tr>
-<td><b>0.26</b> (260 cogs)
+<td><b>0.26</b>
 </td>
 <td>77.024%
 </td>
@@ -4343,7 +4328,7 @@ The tables below give the percentage of a certain stat on the amulet having stre
 <td>+2.2%
 </td></tr>
 <tr>
-<td><b>0.28</b> (280 cogs)
+<td><b>0.28</b>
 </td>
 <td>76.084%
 </td>
@@ -4352,7 +4337,7 @@ The tables below give the percentage of a certain stat on the amulet having stre
 <td>+2.2%
 </td></tr>
 <tr>
-<td><b>0.3</b> (300 cogs)
+<td><b>0.3</b>
 </td>
 <td>75.055%
 </td>
@@ -4361,7 +4346,7 @@ The tables below give the percentage of a certain stat on the amulet having stre
 <td>+2.2%
 </td></tr>
 <tr>
-<td><b>0.32</b> (320 cogs)
+<td><b>0.32</b>
 </td>
 <td>73.92%
 </td>
@@ -4370,7 +4355,7 @@ The tables below give the percentage of a certain stat on the amulet having stre
 <td>+2.3%
 </td></tr>
 <tr>
-<td><b>0.34</b> (340 cogs)
+<td><b>0.34</b>
 </td>
 <td>72.67%
 </td>
@@ -4379,7 +4364,7 @@ The tables below give the percentage of a certain stat on the amulet having stre
 <td>+2.3%
 </td></tr>
 <tr>
-<td><b>0.36</b> (360 cogs)
+<td><b>0.36</b>
 </td>
 <td>71.28%
 </td>
@@ -4388,7 +4373,7 @@ The tables below give the percentage of a certain stat on the amulet having stre
 <td>+2.3%
 </td></tr>
 <tr>
-<td><b>0.38</b> (380 cogs)
+<td><b>0.38</b>
 </td>
 <td>69.71%
 </td>
@@ -4397,7 +4382,7 @@ The tables below give the percentage of a certain stat on the amulet having stre
 <td>+2.3%
 </td></tr>
 <tr>
-<td><b>0.4</b> (400 cogs)
+<td><b>0.4</b>
 </td>
 <td>67.92%
 </td>
@@ -4422,7 +4407,7 @@ The tables below give the percentage of a certain stat on the amulet having stre
 <th>+3%
 </th></tr>
 <tr>
-<td><b>0.2</b> (200 cogs)
+<td><b>0.2</b>
 </td>
 <td>79.42%
 </td>
@@ -4431,7 +4416,7 @@ The tables below give the percentage of a certain stat on the amulet having stre
 <td>+2.2%
 </td></tr>
 <tr>
-<td><b>0.22</b> (220 cogs)
+<td><b>0.22</b>
 </td>
 <td>78.69%
 </td>
@@ -4440,7 +4425,7 @@ The tables below give the percentage of a certain stat on the amulet having stre
 <td>+2.2%
 </td></tr>
 <tr>
-<td><b>0.24</b> (240 cogs)
+<td><b>0.24</b>
 </td>
 <td>77.89%
 </td>
@@ -4449,7 +4434,7 @@ The tables below give the percentage of a certain stat on the amulet having stre
 <td>+2.2%
 </td></tr>
 <tr>
-<td><b>0.26</b> (260 cogs)
+<td><b>0.26</b>
 </td>
 <td>77.024%
 </td>
@@ -4458,7 +4443,7 @@ The tables below give the percentage of a certain stat on the amulet having stre
 <td>+2.2%
 </td></tr>
 <tr>
-<td><b>0.28</b> (280 cogs)
+<td><b>0.28</b>
 </td>
 <td>76.084%
 </td>
@@ -4467,7 +4452,7 @@ The tables below give the percentage of a certain stat on the amulet having stre
 <td>+2.2%
 </td></tr>
 <tr>
-<td><b>0.3</b> (300 cogs)
+<td><b>0.3</b>
 </td>
 <td>75.055%
 </td>
@@ -4476,7 +4461,7 @@ The tables below give the percentage of a certain stat on the amulet having stre
 <td>+2.2%
 </td></tr>
 <tr>
-<td><b>0.32</b> (320 cogs)
+<td><b>0.32</b>
 </td>
 <td>73.92%
 </td>
@@ -4485,7 +4470,7 @@ The tables below give the percentage of a certain stat on the amulet having stre
 <td>+2.3%
 </td></tr>
 <tr>
-<td><b>0.34</b> (340 cogs)
+<td><b>0.34</b>
 </td>
 <td>72.67%
 </td>
@@ -4494,7 +4479,7 @@ The tables below give the percentage of a certain stat on the amulet having stre
 <td>+2.3%
 </td></tr>
 <tr>
-<td><b>0.36</b> (360 cogs)
+<td><b>0.36</b>
 </td>
 <td>71.28%
 </td>
@@ -4503,7 +4488,7 @@ The tables below give the percentage of a certain stat on the amulet having stre
 <td>+2.3%
 </td></tr>
 <tr>
-<td><b>0.38</b> (380 cogs)
+<td><b>0.38</b>
 </td>
 <td>69.71%
 </td>
@@ -4512,7 +4497,7 @@ The tables below give the percentage of a certain stat on the amulet having stre
 <td>+2.3%
 </td></tr>
 <tr>
-<td><b>0.4</b> (400 cogs)
+<td><b>0.4</b>
 </td>
 <td>67.92%
 </td>
@@ -4537,7 +4522,7 @@ The tables below give the percentage of a certain stat on the amulet having stre
 <th>+3%
 </th></tr>
 <tr>
-<td><b>0.2</b> (200 cogs)
+<td><b>0.2</b>
 </td>
 <td>79.42%
 </td>
@@ -4546,7 +4531,7 @@ The tables below give the percentage of a certain stat on the amulet having stre
 <td>+2.2%
 </td></tr>
 <tr>
-<td><b>0.22</b> (220 cogs)
+<td><b>0.22</b>
 </td>
 <td>78.69%
 </td>
@@ -4555,7 +4540,7 @@ The tables below give the percentage of a certain stat on the amulet having stre
 <td>+2.2%
 </td></tr>
 <tr>
-<td><b>0.24</b> (240 cogs)
+<td><b>0.24</b>
 </td>
 <td>77.89%
 </td>
@@ -4564,7 +4549,7 @@ The tables below give the percentage of a certain stat on the amulet having stre
 <td>+2.2%
 </td></tr>
 <tr>
-<td><b>0.26</b> (260 cogs)
+<td><b>0.26</b>
 </td>
 <td>77.024%
 </td>
@@ -4573,7 +4558,7 @@ The tables below give the percentage of a certain stat on the amulet having stre
 <td>+2.2%
 </td></tr>
 <tr>
-<td><b>0.28</b> (280 cogs)
+<td><b>0.28</b>
 </td>
 <td>76.084%
 </td>
@@ -4582,7 +4567,7 @@ The tables below give the percentage of a certain stat on the amulet having stre
 <td>+2.2%
 </td></tr>
 <tr>
-<td><b>0.3</b> (300 cogs)
+<td><b>0.3</b>
 </td>
 <td>75.055%
 </td>
@@ -4591,7 +4576,7 @@ The tables below give the percentage of a certain stat on the amulet having stre
 <td>+2.2%
 </td></tr>
 <tr>
-<td><b>0.32</b> (320 cogs)
+<td><b>0.32</b>
 </td>
 <td>73.92%
 </td>
@@ -4600,7 +4585,7 @@ The tables below give the percentage of a certain stat on the amulet having stre
 <td>+2.3%
 </td></tr>
 <tr>
-<td><b>0.34</b> (340 cogs)
+<td><b>0.34</b>
 </td>
 <td>72.67%
 </td>
@@ -4609,7 +4594,7 @@ The tables below give the percentage of a certain stat on the amulet having stre
 <td>+2.3%
 </td></tr>
 <tr>
-<td><b>0.36</b> (360 cogs)
+<td><b>0.36</b>
 </td>
 <td>71.28%
 </td>
@@ -4618,7 +4603,7 @@ The tables below give the percentage of a certain stat on the amulet having stre
 <td>+2.3%
 </td></tr>
 <tr>
-<td><b>0.38</b> (380 cogs)
+<td><b>0.38</b>
 </td>
 <td>69.71%
 </td>
@@ -4627,7 +4612,7 @@ The tables below give the percentage of a certain stat on the amulet having stre
 <td>+2.3%
 </td></tr>
 <tr>
-<td><b>0.4</b> (400 cogs)
+<td><b>0.4</b>
 </td>
 <td>67.92%
 </td>
@@ -4797,7 +4782,7 @@ The tables below give the percentage of a certain stat on the amulet having stre
 <th>+110,000
 </th></tr>
 <tr>
-<td><b>0.4</b> (400 cogs)
+<td><b>0.4</b>
 </td>
 <td>8.033%
 </td>
@@ -4812,7 +4797,7 @@ The tables below give the percentage of a certain stat on the amulet having stre
 <td>+98,999.16
 </td></tr>
 <tr>
-<td><b>0.42</b> (420 cogs)
+<td><b>0.42</b>
 </td>
 <td>7.54%
 </td>
@@ -4827,7 +4812,7 @@ The tables below give the percentage of a certain stat on the amulet having stre
 <td>+99,193.27
 </td></tr>
 <tr>
-<td><b>0.44</b> (440 cogs)
+<td><b>0.44</b>
 </td>
 <td>7.1%
 </td>
@@ -4842,7 +4827,7 @@ The tables below give the percentage of a certain stat on the amulet having stre
 <td>+99,405.98
 </td></tr>
 <tr>
-<td><b>0.46</b> (460 cogs)
+<td><b>0.46</b>
 </td>
 <td>6.72%
 </td>
@@ -4857,7 +4842,7 @@ The tables below give the percentage of a certain stat on the amulet having stre
 <td>+99,593.58
 </td></tr>
 <tr>
-<td><b>0.48</b> (480 cogs)
+<td><b>0.48</b>
 </td>
 <td>6.37%
 </td>
@@ -4872,7 +4857,7 @@ The tables below give the percentage of a certain stat on the amulet having stre
 <td>+99,807.5
 </td></tr>
 <tr>
-<td><b>0.5</b> (500 cogs)
+<td><b>0.5</b>
 </td>
 <td>6.059%
 </td>
@@ -4887,7 +4872,7 @@ The tables below give the percentage of a certain stat on the amulet having stre
 <td>+100,000
 </td></tr>
 <tr>
-<td><b>0.52</b> (520 cogs)
+<td><b>0.52</b>
 </td>
 <td>5.78%
 </td>
@@ -4902,7 +4887,7 @@ The tables below give the percentage of a certain stat on the amulet having stre
 <td>+100,192.5
 </td></tr>
 <tr>
-<td><b>0.54</b> (540 cogs)
+<td><b>0.54</b>
 </td>
 <td>5.52%
 </td>
@@ -4917,7 +4902,7 @@ The tables below give the percentage of a certain stat on the amulet having stre
 <td>+100,406.42
 </td></tr>
 <tr>
-<td><b>0.56</b> (560 cogs)
+<td><b>0.56</b>
 </td>
 <td>5.29%
 </td>
@@ -4932,7 +4917,7 @@ The tables below give the percentage of a certain stat on the amulet having stre
 <td>+100,594.016
 </td></tr>
 <tr>
-<td><b>0.58</b> (580 cogs)
+<td><b>0.58</b>
 </td>
 <td>5.073%
 </td>
@@ -4947,7 +4932,7 @@ The tables below give the percentage of a certain stat on the amulet having stre
 <td>+100,806.73
 </td></tr>
 <tr>
-<td><b>0.6</b> (600 cogs)
+<td><b>0.6</b>
 </td>
 <td>4.87%
 </td>
@@ -4980,7 +4965,7 @@ The tables below give the percentage of a certain stat on the amulet having stre
 <th>+10%
 </th></tr>
 <tr>
-<td><b>0.4</b> (400 cogs)
+<td><b>0.4</b>
 </td>
 <td>34.26%
 </td>
@@ -4991,7 +4976,7 @@ The tables below give the percentage of a certain stat on the amulet having stre
 <td>+8.7%
 </td></tr>
 <tr>
-<td><b>0.42</b> (420 cogs)
+<td><b>0.42</b>
 </td>
 <td>28.86%
 </td>
@@ -5002,7 +4987,7 @@ The tables below give the percentage of a certain stat on the amulet having stre
 <td>+8.8%
 </td></tr>
 <tr>
-<td><b>0.44</b> (440 cogs)
+<td><b>0.44</b>
 </td>
 <td>21.32%
 </td>
@@ -5013,7 +4998,7 @@ The tables below give the percentage of a certain stat on the amulet having stre
 <td>+8.8%
 </td></tr>
 <tr>
-<td><b>0.46</b> (460 cogs)
+<td><b>0.46</b>
 </td>
 <td>17.79%
 </td>
@@ -5024,7 +5009,7 @@ The tables below give the percentage of a certain stat on the amulet having stre
 <td>+8.9%
 </td></tr>
 <tr>
-<td><b>0.48</b> (480 cogs)
+<td><b>0.48</b>
 </td>
 <td>15.34%
 </td>
@@ -5035,7 +5020,7 @@ The tables below give the percentage of a certain stat on the amulet having stre
 <td>+8.9%
 </td></tr>
 <tr>
-<td><b>0.5</b> (500 cogs)
+<td><b>0.5</b>
 </td>
 <td>13.45%
 </td>
@@ -5046,7 +5031,7 @@ The tables below give the percentage of a certain stat on the amulet having stre
 <td>+8.9%
 </td></tr>
 <tr>
-<td><b>0.52</b> (520 cogs)
+<td><b>0.52</b>
 </td>
 <td>11.9%
 </td>
@@ -5057,7 +5042,7 @@ The tables below give the percentage of a certain stat on the amulet having stre
 <td>+8.9%
 </td></tr>
 <tr>
-<td><b>0.54</b> (540 cogs)
+<td><b>0.54</b>
 </td>
 <td>10.61%
 </td>
@@ -5068,7 +5053,7 @@ The tables below give the percentage of a certain stat on the amulet having stre
 <td>+9%
 </td></tr>
 <tr>
-<td><b>0.56</b> (560 cogs)
+<td><b>0.56</b>
 </td>
 <td>9.49%
 </td>
@@ -5079,7 +5064,7 @@ The tables below give the percentage of a certain stat on the amulet having stre
 <td>+9%
 </td></tr>
 <tr>
-<td><b>0.58</b> (580 cogs)
+<td><b>0.58</b>
 </td>
 <td>8.53%
 </td>
@@ -5090,7 +5075,7 @@ The tables below give the percentage of a certain stat on the amulet having stre
 <td>+9%
 </td></tr>
 <tr>
-<td><b>0.6</b> (600 cogs)
+<td><b>0.6</b>
 </td>
 <td>7.67%
 </td>
@@ -5125,7 +5110,7 @@ The tables below give the percentage of a certain stat on the amulet having stre
 <th>+20%
 </th></tr>
 <tr>
-<td><b>0.4</b> (400 cogs)
+<td><b>0.4</b>
 </td>
 <td>1.37%
 </td>
@@ -5142,7 +5127,7 @@ The tables below give the percentage of a certain stat on the amulet having stre
 <td>+17%
 </td></tr>
 <tr>
-<td><b>0.42</b> (420 cogs)
+<td><b>0.42</b>
 </td>
 <td>1.3%
 </td>
@@ -5159,7 +5144,7 @@ The tables below give the percentage of a certain stat on the amulet having stre
 <td>+17%
 </td></tr>
 <tr>
-<td><b>0.44</b> (440 cogs)
+<td><b>0.44</b>
 </td>
 <td>1.23%
 </td>
@@ -5176,7 +5161,7 @@ The tables below give the percentage of a certain stat on the amulet having stre
 <td>+17%
 </td></tr>
 <tr>
-<td><b>0.46</b> (460 cogs)
+<td><b>0.46</b>
 </td>
 <td>1.18%
 </td>
@@ -5193,7 +5178,7 @@ The tables below give the percentage of a certain stat on the amulet having stre
 <td>+17%
 </td></tr>
 <tr>
-<td><b>0.48</b> (480 cogs)
+<td><b>0.48</b>
 </td>
 <td>1.12%
 </td>
@@ -5210,7 +5195,7 @@ The tables below give the percentage of a certain stat on the amulet having stre
 <td>+17%
 </td></tr>
 <tr>
-<td><b>0.5</b> (500 cogs)
+<td><b>0.5</b>
 </td>
 <td>1.074%
 </td>
@@ -5227,7 +5212,7 @@ The tables below give the percentage of a certain stat on the amulet having stre
 <td>+18%
 </td></tr>
 <tr>
-<td><b>0.52</b> (520 cogs)
+<td><b>0.52</b>
 </td>
 <td>1.03%
 </td>
@@ -5244,7 +5229,7 @@ The tables below give the percentage of a certain stat on the amulet having stre
 <td>+18%
 </td></tr>
 <tr>
-<td><b>0.54</b> (540 cogs)
+<td><b>0.54</b>
 </td>
 <td>0.99%
 </td>
@@ -5261,7 +5246,7 @@ The tables below give the percentage of a certain stat on the amulet having stre
 <td>+18%
 </td></tr>
 <tr>
-<td><b>0.56</b> (560 cogs)
+<td><b>0.56</b>
 </td>
 <td>0.95%
 </td>
@@ -5278,7 +5263,7 @@ The tables below give the percentage of a certain stat on the amulet having stre
 <td>+18%
 </td></tr>
 <tr>
-<td><b>0.58</b> (580 cogs)
+<td><b>0.58</b>
 </td>
 <td>0.92%
 </td>
@@ -5295,7 +5280,7 @@ The tables below give the percentage of a certain stat on the amulet having stre
 <td>+18%
 </td></tr>
 <tr>
-<td><b>0.6</b> (600 cogs)
+<td><b>0.6</b>
 </td>
 <td>0.88%
 </td>
@@ -5336,7 +5321,7 @@ The tables below give the percentage of a certain stat on the amulet having stre
 <th>+20%
 </th></tr>
 <tr>
-<td><b>0.4</b> (400 cogs)
+<td><b>0.4</b>
 </td>
 <td>1.37%
 </td>
@@ -5353,7 +5338,7 @@ The tables below give the percentage of a certain stat on the amulet having stre
 <td>+17%
 </td></tr>
 <tr>
-<td><b>0.42</b> (420 cogs)
+<td><b>0.42</b>
 </td>
 <td>1.3%
 </td>
@@ -5370,7 +5355,7 @@ The tables below give the percentage of a certain stat on the amulet having stre
 <td>+17%
 </td></tr>
 <tr>
-<td><b>0.44</b> (440 cogs)
+<td><b>0.44</b>
 </td>
 <td>1.23%
 </td>
@@ -5387,7 +5372,7 @@ The tables below give the percentage of a certain stat on the amulet having stre
 <td>+17%
 </td></tr>
 <tr>
-<td><b>0.46</b> (460 cogs)
+<td><b>0.46</b>
 </td>
 <td>1.18%
 </td>
@@ -5404,7 +5389,7 @@ The tables below give the percentage of a certain stat on the amulet having stre
 <td>+17%
 </td></tr>
 <tr>
-<td><b>0.48</b> (480 cogs)
+<td><b>0.48</b>
 </td>
 <td>1.12%
 </td>
@@ -5421,7 +5406,7 @@ The tables below give the percentage of a certain stat on the amulet having stre
 <td>+17%
 </td></tr>
 <tr>
-<td><b>0.5</b> (500 cogs)
+<td><b>0.5</b>
 </td>
 <td>1.074%
 </td>
@@ -5438,7 +5423,7 @@ The tables below give the percentage of a certain stat on the amulet having stre
 <td>+18%
 </td></tr>
 <tr>
-<td><b>0.52</b> (520 cogs)
+<td><b>0.52</b>
 </td>
 <td>1.03%
 </td>
@@ -5455,7 +5440,7 @@ The tables below give the percentage of a certain stat on the amulet having stre
 <td>+18%
 </td></tr>
 <tr>
-<td><b>0.54</b> (540 cogs)
+<td><b>0.54</b>
 </td>
 <td>0.99%
 </td>
@@ -5472,7 +5457,7 @@ The tables below give the percentage of a certain stat on the amulet having stre
 <td>+18%
 </td></tr>
 <tr>
-<td><b>0.56</b> (560 cogs)
+<td><b>0.56</b>
 </td>
 <td>0.95%
 </td>
@@ -5489,7 +5474,7 @@ The tables below give the percentage of a certain stat on the amulet having stre
 <td>+18%
 </td></tr>
 <tr>
-<td><b>0.58</b> (580 cogs)
+<td><b>0.58</b>
 </td>
 <td>0.92%
 </td>
@@ -5506,7 +5491,7 @@ The tables below give the percentage of a certain stat on the amulet having stre
 <td>+18%
 </td></tr>
 <tr>
-<td><b>0.6</b> (600 cogs)
+<td><b>0.6</b>
 </td>
 <td>0.88%
 </td>
@@ -5547,7 +5532,7 @@ The tables below give the percentage of a certain stat on the amulet having stre
 <th>+20%
 </th></tr>
 <tr>
-<td><b>0.4</b> (400 cogs)
+<td><b>0.4</b>
 </td>
 <td>1.37%
 </td>
@@ -5564,7 +5549,7 @@ The tables below give the percentage of a certain stat on the amulet having stre
 <td>+17%
 </td></tr>
 <tr>
-<td><b>0.42</b> (420 cogs)
+<td><b>0.42</b>
 </td>
 <td>1.3%
 </td>
@@ -5581,7 +5566,7 @@ The tables below give the percentage of a certain stat on the amulet having stre
 <td>+17%
 </td></tr>
 <tr>
-<td><b>0.44</b> (440 cogs)
+<td><b>0.44</b>
 </td>
 <td>1.23%
 </td>
@@ -5598,7 +5583,7 @@ The tables below give the percentage of a certain stat on the amulet having stre
 <td>+17%
 </td></tr>
 <tr>
-<td><b>0.46</b> (460 cogs)
+<td><b>0.46</b>
 </td>
 <td>1.18%
 </td>
@@ -5615,7 +5600,7 @@ The tables below give the percentage of a certain stat on the amulet having stre
 <td>+17%
 </td></tr>
 <tr>
-<td><b>0.48</b> (480 cogs)
+<td><b>0.48</b>
 </td>
 <td>1.12%
 </td>
@@ -5632,7 +5617,7 @@ The tables below give the percentage of a certain stat on the amulet having stre
 <td>+17%
 </td></tr>
 <tr>
-<td><b>0.5</b> (500 cogs)
+<td><b>0.5</b>
 </td>
 <td>1.074%
 </td>
@@ -5649,7 +5634,7 @@ The tables below give the percentage of a certain stat on the amulet having stre
 <td>+18%
 </td></tr>
 <tr>
-<td><b>0.52</b> (520 cogs)
+<td><b>0.52</b>
 </td>
 <td>1.03%
 </td>
@@ -5666,7 +5651,7 @@ The tables below give the percentage of a certain stat on the amulet having stre
 <td>+18%
 </td></tr>
 <tr>
-<td><b>0.54</b> (540 cogs)
+<td><b>0.54</b>
 </td>
 <td>0.99%
 </td>
@@ -5683,7 +5668,7 @@ The tables below give the percentage of a certain stat on the amulet having stre
 <td>+18%
 </td></tr>
 <tr>
-<td><b>0.56</b> (560 cogs)
+<td><b>0.56</b>
 </td>
 <td>0.95%
 </td>
@@ -5700,7 +5685,7 @@ The tables below give the percentage of a certain stat on the amulet having stre
 <td>+18%
 </td></tr>
 <tr>
-<td><b>0.58</b> (580 cogs)
+<td><b>0.58</b>
 </td>
 <td>0.92%
 </td>
@@ -5717,7 +5702,7 @@ The tables below give the percentage of a certain stat on the amulet having stre
 <td>+18%
 </td></tr>
 <tr>
-<td><b>0.6</b> (600 cogs)
+<td><b>0.6</b>
 </td>
 <td>0.88%
 </td>
@@ -5750,7 +5735,7 @@ The tables below give the percentage of a certain stat on the amulet having stre
 <th>+3%
 </th></tr>
 <tr>
-<td><b>0.4</b> (400 cogs)
+<td><b>0.4</b>
 </td>
 <td>67.92%
 </td>
@@ -5759,7 +5744,7 @@ The tables below give the percentage of a certain stat on the amulet having stre
 <td>+2.3%
 </td></tr>
 <tr>
-<td><b>0.42</b> (420 cogs)
+<td><b>0.42</b>
 </td>
 <td>65.85%
 </td>
@@ -5768,7 +5753,7 @@ The tables below give the percentage of a certain stat on the amulet having stre
 <td>+2.3%
 </td></tr>
 <tr>
-<td><b>0.44</b> (440 cogs)
+<td><b>0.44</b>
 </td>
 <td>63.4%
 </td>
@@ -5777,7 +5762,7 @@ The tables below give the percentage of a certain stat on the amulet having stre
 <td>+2.4%
 </td></tr>
 <tr>
-<td><b>0.46</b> (460 cogs)
+<td><b>0.46</b>
 </td>
 <td>60.41%
 </td>
@@ -5786,7 +5771,7 @@ The tables below give the percentage of a certain stat on the amulet having stre
 <td>+2.4%
 </td></tr>
 <tr>
-<td><b>0.48</b> (480 cogs)
+<td><b>0.48</b>
 </td>
 <td>56.52%
 </td>
@@ -5795,7 +5780,7 @@ The tables below give the percentage of a certain stat on the amulet having stre
 <td>+2.4%
 </td></tr>
 <tr>
-<td><b>0.5</b> (500 cogs)
+<td><b>0.5</b>
 </td>
 <td>50%
 </td>
@@ -5804,7 +5789,7 @@ The tables below give the percentage of a certain stat on the amulet having stre
 <td>+2.5%
 </td></tr>
 <tr>
-<td><b>0.52</b> (520 cogs)
+<td><b>0.52</b>
 </td>
 <td>43.48%
 </td>
@@ -5813,7 +5798,7 @@ The tables below give the percentage of a certain stat on the amulet having stre
 <td>+2.6%
 </td></tr>
 <tr>
-<td><b>0.54</b> (540 cogs)
+<td><b>0.54</b>
 </td>
 <td>39.59%
 </td>
@@ -5822,7 +5807,7 @@ The tables below give the percentage of a certain stat on the amulet having stre
 <td>+2.6%
 </td></tr>
 <tr>
-<td><b>0.56</b> (560 cogs)
+<td><b>0.56</b>
 </td>
 <td>36.6%
 </td>
@@ -5831,7 +5816,7 @@ The tables below give the percentage of a certain stat on the amulet having stre
 <td>+2.6%
 </td></tr>
 <tr>
-<td><b>0.58</b> (580 cogs)
+<td><b>0.58</b>
 </td>
 <td>34.15%
 </td>
@@ -5840,7 +5825,7 @@ The tables below give the percentage of a certain stat on the amulet having stre
 <td>+2.7%
 </td></tr>
 <tr>
-<td><b>0.6</b> (600 cogs)
+<td><b>0.6</b>
 </td>
 <td>32.082%
 </td>
@@ -5873,7 +5858,7 @@ The tables below give the percentage of a certain stat on the amulet having stre
 <th>+20%
 </th></tr>
 <tr>
-<td><b>0.4</b> (400 cogs)
+<td><b>0.4</b>
 </td>
 <td>1.37%
 </td>
@@ -5890,7 +5875,7 @@ The tables below give the percentage of a certain stat on the amulet having stre
 <td>+17%
 </td></tr>
 <tr>
-<td><b>0.42</b> (420 cogs)
+<td><b>0.42</b>
 </td>
 <td>1.3%
 </td>
@@ -5907,7 +5892,7 @@ The tables below give the percentage of a certain stat on the amulet having stre
 <td>+17%
 </td></tr>
 <tr>
-<td><b>0.44</b> (440 cogs)
+<td><b>0.44</b>
 </td>
 <td>1.23%
 </td>
@@ -5924,7 +5909,7 @@ The tables below give the percentage of a certain stat on the amulet having stre
 <td>+17%
 </td></tr>
 <tr>
-<td><b>0.46</b> (460 cogs)
+<td><b>0.46</b>
 </td>
 <td>1.18%
 </td>
@@ -5941,7 +5926,7 @@ The tables below give the percentage of a certain stat on the amulet having stre
 <td>+17%
 </td></tr>
 <tr>
-<td><b>0.48</b> (480 cogs)
+<td><b>0.48</b>
 </td>
 <td>1.12%
 </td>
@@ -5958,7 +5943,7 @@ The tables below give the percentage of a certain stat on the amulet having stre
 <td>+17%
 </td></tr>
 <tr>
-<td><b>0.5</b> (500 cogs)
+<td><b>0.5</b>
 </td>
 <td>1.074%
 </td>
@@ -5975,7 +5960,7 @@ The tables below give the percentage of a certain stat on the amulet having stre
 <td>+18%
 </td></tr>
 <tr>
-<td><b>0.52</b> (520 cogs)
+<td><b>0.52</b>
 </td>
 <td>1.03%
 </td>
@@ -5992,7 +5977,7 @@ The tables below give the percentage of a certain stat on the amulet having stre
 <td>+18%
 </td></tr>
 <tr>
-<td><b>0.54</b> (540 cogs)
+<td><b>0.54</b>
 </td>
 <td>0.99%
 </td>
@@ -6009,7 +5994,7 @@ The tables below give the percentage of a certain stat on the amulet having stre
 <td>+18%
 </td></tr>
 <tr>
-<td><b>0.56</b> (560 cogs)
+<td><b>0.56</b>
 </td>
 <td>0.95%
 </td>
@@ -6026,7 +6011,7 @@ The tables below give the percentage of a certain stat on the amulet having stre
 <td>+18%
 </td></tr>
 <tr>
-<td><b>0.58</b> (580 cogs)
+<td><b>0.58</b>
 </td>
 <td>0.92%
 </td>
@@ -6043,7 +6028,7 @@ The tables below give the percentage of a certain stat on the amulet having stre
 <td>+18%
 </td></tr>
 <tr>
-<td><b>0.6</b> (600 cogs)
+<td><b>0.6</b>
 </td>
 <td>0.88%
 </td>
@@ -6084,7 +6069,7 @@ The tables below give the percentage of a certain stat on the amulet having stre
 <th>+20%
 </th></tr>
 <tr>
-<td><b>0.4</b> (400 cogs)
+<td><b>0.4</b>
 </td>
 <td>1.37%
 </td>
@@ -6101,7 +6086,7 @@ The tables below give the percentage of a certain stat on the amulet having stre
 <td>+17%
 </td></tr>
 <tr>
-<td><b>0.42</b> (420 cogs)
+<td><b>0.42</b>
 </td>
 <td>1.3%
 </td>
@@ -6118,7 +6103,7 @@ The tables below give the percentage of a certain stat on the amulet having stre
 <td>+17%
 </td></tr>
 <tr>
-<td><b>0.44</b> (440 cogs)
+<td><b>0.44</b>
 </td>
 <td>1.23%
 </td>
@@ -6135,7 +6120,7 @@ The tables below give the percentage of a certain stat on the amulet having stre
 <td>+17%
 </td></tr>
 <tr>
-<td><b>0.46</b> (460 cogs)
+<td><b>0.46</b>
 </td>
 <td>1.18%
 </td>
@@ -6152,7 +6137,7 @@ The tables below give the percentage of a certain stat on the amulet having stre
 <td>+17%
 </td></tr>
 <tr>
-<td><b>0.48</b> (480 cogs)
+<td><b>0.48</b>
 </td>
 <td>1.12%
 </td>
@@ -6169,7 +6154,7 @@ The tables below give the percentage of a certain stat on the amulet having stre
 <td>+17%
 </td></tr>
 <tr>
-<td><b>0.5</b> (500 cogs)
+<td><b>0.5</b>
 </td>
 <td>1.074%
 </td>
@@ -6186,7 +6171,7 @@ The tables below give the percentage of a certain stat on the amulet having stre
 <td>+18%
 </td></tr>
 <tr>
-<td><b>0.52</b> (520 cogs)
+<td><b>0.52</b>
 </td>
 <td>1.03%
 </td>
@@ -6203,7 +6188,7 @@ The tables below give the percentage of a certain stat on the amulet having stre
 <td>+18%
 </td></tr>
 <tr>
-<td><b>0.54</b> (540 cogs)
+<td><b>0.54</b>
 </td>
 <td>0.99%
 </td>
@@ -6220,7 +6205,7 @@ The tables below give the percentage of a certain stat on the amulet having stre
 <td>+18%
 </td></tr>
 <tr>
-<td><b>0.56</b> (560 cogs)
+<td><b>0.56</b>
 </td>
 <td>0.95%
 </td>
@@ -6237,7 +6222,7 @@ The tables below give the percentage of a certain stat on the amulet having stre
 <td>+18%
 </td></tr>
 <tr>
-<td><b>0.58</b> (580 cogs)
+<td><b>0.58</b>
 </td>
 <td>0.92%
 </td>
@@ -6254,7 +6239,7 @@ The tables below give the percentage of a certain stat on the amulet having stre
 <td>+18%
 </td></tr>
 <tr>
-<td><b>0.6</b> (600 cogs)
+<td><b>0.6</b>
 </td>
 <td>0.88%
 </td>
@@ -6295,7 +6280,7 @@ The tables below give the percentage of a certain stat on the amulet having stre
 <th>+20%
 </th></tr>
 <tr>
-<td><b>0.4</b> (400 cogs)
+<td><b>0.4</b>
 </td>
 <td>1.37%
 </td>
@@ -6312,7 +6297,7 @@ The tables below give the percentage of a certain stat on the amulet having stre
 <td>+17%
 </td></tr>
 <tr>
-<td><b>0.42</b> (420 cogs)
+<td><b>0.42</b>
 </td>
 <td>1.3%
 </td>
@@ -6329,7 +6314,7 @@ The tables below give the percentage of a certain stat on the amulet having stre
 <td>+17%
 </td></tr>
 <tr>
-<td><b>0.44</b> (440 cogs)
+<td><b>0.44</b>
 </td>
 <td>1.23%
 </td>
@@ -6346,7 +6331,7 @@ The tables below give the percentage of a certain stat on the amulet having stre
 <td>+17%
 </td></tr>
 <tr>
-<td><b>0.46</b> (460 cogs)
+<td><b>0.46</b>
 </td>
 <td>1.18%
 </td>
@@ -6363,7 +6348,7 @@ The tables below give the percentage of a certain stat on the amulet having stre
 <td>+17%
 </td></tr>
 <tr>
-<td><b>0.48</b> (480 cogs)
+<td><b>0.48</b>
 </td>
 <td>1.12%
 </td>
@@ -6380,7 +6365,7 @@ The tables below give the percentage of a certain stat on the amulet having stre
 <td>+17%
 </td></tr>
 <tr>
-<td><b>0.5</b> (500 cogs)
+<td><b>0.5</b>
 </td>
 <td>1.074%
 </td>
@@ -6397,7 +6382,7 @@ The tables below give the percentage of a certain stat on the amulet having stre
 <td>+18%
 </td></tr>
 <tr>
-<td><b>0.52</b> (520 cogs)
+<td><b>0.52</b>
 </td>
 <td>1.03%
 </td>
@@ -6414,7 +6399,7 @@ The tables below give the percentage of a certain stat on the amulet having stre
 <td>+18%
 </td></tr>
 <tr>
-<td><b>0.54</b> (540 cogs)
+<td><b>0.54</b>
 </td>
 <td>0.99%
 </td>
@@ -6431,7 +6416,7 @@ The tables below give the percentage of a certain stat on the amulet having stre
 <td>+18%
 </td></tr>
 <tr>
-<td><b>0.56</b> (560 cogs)
+<td><b>0.56</b>
 </td>
 <td>0.95%
 </td>
@@ -6448,7 +6433,7 @@ The tables below give the percentage of a certain stat on the amulet having stre
 <td>+18%
 </td></tr>
 <tr>
-<td><b>0.58</b> (580 cogs)
+<td><b>0.58</b>
 </td>
 <td>0.92%
 </td>
@@ -6465,7 +6450,7 @@ The tables below give the percentage of a certain stat on the amulet having stre
 <td>+18%
 </td></tr>
 <tr>
-<td><b>0.6</b> (600 cogs)
+<td><b>0.6</b>
 </td>
 <td>0.88%
 </td>
@@ -6500,7 +6485,7 @@ The tables below give the percentage of a certain stat on the amulet having stre
 <th>+10%
 </th></tr>
 <tr>
-<td><b>0.4</b> (400 cogs)
+<td><b>0.4</b>
 </td>
 <td>10.29%
 </td>
@@ -6511,7 +6496,7 @@ The tables below give the percentage of a certain stat on the amulet having stre
 <td>+9%
 </td></tr>
 <tr>
-<td><b>0.42</b> (420 cogs)
+<td><b>0.42</b>
 </td>
 <td>9.62%
 </td>
@@ -6522,7 +6507,7 @@ The tables below give the percentage of a certain stat on the amulet having stre
 <td>+9%
 </td></tr>
 <tr>
-<td><b>0.44</b> (440 cogs)
+<td><b>0.44</b>
 </td>
 <td>9.045%
 </td>
@@ -6533,7 +6518,7 @@ The tables below give the percentage of a certain stat on the amulet having stre
 <td>+9%
 </td></tr>
 <tr>
-<td><b>0.46</b> (460 cogs)
+<td><b>0.46</b>
 </td>
 <td>8.53%
 </td>
@@ -6544,7 +6529,7 @@ The tables below give the percentage of a certain stat on the amulet having stre
 <td>+9%
 </td></tr>
 <tr>
-<td><b>0.48</b> (480 cogs)
+<td><b>0.48</b>
 </td>
 <td>8.079%
 </td>
@@ -6555,7 +6540,7 @@ The tables below give the percentage of a certain stat on the amulet having stre
 <td>+9%
 </td></tr>
 <tr>
-<td><b>0.5</b> (500 cogs)
+<td><b>0.5</b>
 </td>
 <td>7.67%
 </td>
@@ -6566,7 +6551,7 @@ The tables below give the percentage of a certain stat on the amulet having stre
 <td>+9%
 </td></tr>
 <tr>
-<td><b>0.52</b> (520 cogs)
+<td><b>0.52</b>
 </td>
 <td>7.3%
 </td>
@@ -6577,7 +6562,7 @@ The tables below give the percentage of a certain stat on the amulet having stre
 <td>+9%
 </td></tr>
 <tr>
-<td><b>0.54</b> (540 cogs)
+<td><b>0.54</b>
 </td>
 <td>6.97%
 </td>
@@ -6588,7 +6573,7 @@ The tables below give the percentage of a certain stat on the amulet having stre
 <td>+9%
 </td></tr>
 <tr>
-<td><b>0.56</b> (560 cogs)
+<td><b>0.56</b>
 </td>
 <td>6.67%
 </td>
@@ -6599,7 +6584,7 @@ The tables below give the percentage of a certain stat on the amulet having stre
 <td>+9%
 </td></tr>
 <tr>
-<td><b>0.58</b> (580 cogs)
+<td><b>0.58</b>
 </td>
 <td>6.39%
 </td>
@@ -6610,7 +6595,7 @@ The tables below give the percentage of a certain stat on the amulet having stre
 <td>+9%
 </td></tr>
 <tr>
-<td><b>0.6</b> (600 cogs)
+<td><b>0.6</b>
 </td>
 <td>6.14%
 </td>
@@ -6639,7 +6624,7 @@ The tables below give the percentage of a certain stat on the amulet having stre
 <th>+10%
 </th></tr>
 <tr>
-<td><b>0.4</b> (400 cogs)
+<td><b>0.4</b>
 </td>
 <td>10.29%
 </td>
@@ -6650,7 +6635,7 @@ The tables below give the percentage of a certain stat on the amulet having stre
 <td>+9%
 </td></tr>
 <tr>
-<td><b>0.42</b> (420 cogs)
+<td><b>0.42</b>
 </td>
 <td>9.62%
 </td>
@@ -6661,7 +6646,7 @@ The tables below give the percentage of a certain stat on the amulet having stre
 <td>+9%
 </td></tr>
 <tr>
-<td><b>0.44</b> (440 cogs)
+<td><b>0.44</b>
 </td>
 <td>9.045%
 </td>
@@ -6672,7 +6657,7 @@ The tables below give the percentage of a certain stat on the amulet having stre
 <td>+9%
 </td></tr>
 <tr>
-<td><b>0.46</b> (460 cogs)
+<td><b>0.46</b>
 </td>
 <td>8.53%
 </td>
@@ -6683,7 +6668,7 @@ The tables below give the percentage of a certain stat on the amulet having stre
 <td>+9%
 </td></tr>
 <tr>
-<td><b>0.48</b> (480 cogs)
+<td><b>0.48</b>
 </td>
 <td>8.079%
 </td>
@@ -6694,7 +6679,7 @@ The tables below give the percentage of a certain stat on the amulet having stre
 <td>+9%
 </td></tr>
 <tr>
-<td><b>0.5</b> (500 cogs)
+<td><b>0.5</b>
 </td>
 <td>7.67%
 </td>
@@ -6705,7 +6690,7 @@ The tables below give the percentage of a certain stat on the amulet having stre
 <td>+9%
 </td></tr>
 <tr>
-<td><b>0.52</b> (520 cogs)
+<td><b>0.52</b>
 </td>
 <td>7.3%
 </td>
@@ -6716,7 +6701,7 @@ The tables below give the percentage of a certain stat on the amulet having stre
 <td>+9%
 </td></tr>
 <tr>
-<td><b>0.54</b> (540 cogs)
+<td><b>0.54</b>
 </td>
 <td>6.97%
 </td>
@@ -6727,7 +6712,7 @@ The tables below give the percentage of a certain stat on the amulet having stre
 <td>+9%
 </td></tr>
 <tr>
-<td><b>0.56</b> (560 cogs)
+<td><b>0.56</b>
 </td>
 <td>6.67%
 </td>
@@ -6738,7 +6723,7 @@ The tables below give the percentage of a certain stat on the amulet having stre
 <td>+9%
 </td></tr>
 <tr>
-<td><b>0.58</b> (580 cogs)
+<td><b>0.58</b>
 </td>
 <td>6.39%
 </td>
@@ -6749,7 +6734,7 @@ The tables below give the percentage of a certain stat on the amulet having stre
 <td>+9%
 </td></tr>
 <tr>
-<td><b>0.6</b> (600 cogs)
+<td><b>0.6</b>
 </td>
 <td>6.14%
 </td>
@@ -6776,7 +6761,7 @@ The tables below give the percentage of a certain stat on the amulet having stre
 <th>+4%
 </th></tr>
 <tr>
-<td><b>0.4</b> (400 cogs)
+<td><b>0.4</b>
 </td>
 <td>67.92%
 </td>
@@ -6785,7 +6770,7 @@ The tables below give the percentage of a certain stat on the amulet having stre
 <td>+3.3%
 </td></tr>
 <tr>
-<td><b>0.42</b> (420 cogs)
+<td><b>0.42</b>
 </td>
 <td>65.85%
 </td>
@@ -6794,7 +6779,7 @@ The tables below give the percentage of a certain stat on the amulet having stre
 <td>+3.3%
 </td></tr>
 <tr>
-<td><b>0.44</b> (440 cogs)
+<td><b>0.44</b>
 </td>
 <td>63.4%
 </td>
@@ -6803,7 +6788,7 @@ The tables below give the percentage of a certain stat on the amulet having stre
 <td>+3.4%
 </td></tr>
 <tr>
-<td><b>0.46</b> (460 cogs)
+<td><b>0.46</b>
 </td>
 <td>60.41%
 </td>
@@ -6812,7 +6797,7 @@ The tables below give the percentage of a certain stat on the amulet having stre
 <td>+3.4%
 </td></tr>
 <tr>
-<td><b>0.48</b> (480 cogs)
+<td><b>0.48</b>
 </td>
 <td>56.52%
 </td>
@@ -6821,7 +6806,7 @@ The tables below give the percentage of a certain stat on the amulet having stre
 <td>+3.4%
 </td></tr>
 <tr>
-<td><b>0.5</b> (500 cogs)
+<td><b>0.5</b>
 </td>
 <td>50%
 </td>
@@ -6830,7 +6815,7 @@ The tables below give the percentage of a certain stat on the amulet having stre
 <td>+3.5%
 </td></tr>
 <tr>
-<td><b>0.52</b> (520 cogs)
+<td><b>0.52</b>
 </td>
 <td>43.48%
 </td>
@@ -6839,7 +6824,7 @@ The tables below give the percentage of a certain stat on the amulet having stre
 <td>+3.6%
 </td></tr>
 <tr>
-<td><b>0.54</b> (540 cogs)
+<td><b>0.54</b>
 </td>
 <td>39.59%
 </td>
@@ -6848,7 +6833,7 @@ The tables below give the percentage of a certain stat on the amulet having stre
 <td>+3.6%
 </td></tr>
 <tr>
-<td><b>0.56</b> (560 cogs)
+<td><b>0.56</b>
 </td>
 <td>36.6%
 </td>
@@ -6857,7 +6842,7 @@ The tables below give the percentage of a certain stat on the amulet having stre
 <td>+3.6%
 </td></tr>
 <tr>
-<td><b>0.58</b> (580 cogs)
+<td><b>0.58</b>
 </td>
 <td>34.15%
 </td>
@@ -6866,7 +6851,7 @@ The tables below give the percentage of a certain stat on the amulet having stre
 <td>+3.7%
 </td></tr>
 <tr>
-<td><b>0.6</b> (600 cogs)
+<td><b>0.6</b>
 </td>
 <td>32.082%
 </td>
@@ -6891,7 +6876,7 @@ The tables below give the percentage of a certain stat on the amulet having stre
 <th>+4%
 </th></tr>
 <tr>
-<td><b>0.4</b> (400 cogs)
+<td><b>0.4</b>
 </td>
 <td>67.92%
 </td>
@@ -6900,7 +6885,7 @@ The tables below give the percentage of a certain stat on the amulet having stre
 <td>+3.3%
 </td></tr>
 <tr>
-<td><b>0.42</b> (420 cogs)
+<td><b>0.42</b>
 </td>
 <td>65.85%
 </td>
@@ -6909,7 +6894,7 @@ The tables below give the percentage of a certain stat on the amulet having stre
 <td>+3.3%
 </td></tr>
 <tr>
-<td><b>0.44</b> (440 cogs)
+<td><b>0.44</b>
 </td>
 <td>63.4%
 </td>
@@ -6918,7 +6903,7 @@ The tables below give the percentage of a certain stat on the amulet having stre
 <td>+3.4%
 </td></tr>
 <tr>
-<td><b>0.46</b> (460 cogs)
+<td><b>0.46</b>
 </td>
 <td>60.41%
 </td>
@@ -6927,7 +6912,7 @@ The tables below give the percentage of a certain stat on the amulet having stre
 <td>+3.4%
 </td></tr>
 <tr>
-<td><b>0.48</b> (480 cogs)
+<td><b>0.48</b>
 </td>
 <td>56.52%
 </td>
@@ -6936,7 +6921,7 @@ The tables below give the percentage of a certain stat on the amulet having stre
 <td>+3.4%
 </td></tr>
 <tr>
-<td><b>0.5</b> (500 cogs)
+<td><b>0.5</b>
 </td>
 <td>50%
 </td>
@@ -6945,7 +6930,7 @@ The tables below give the percentage of a certain stat on the amulet having stre
 <td>+3.5%
 </td></tr>
 <tr>
-<td><b>0.52</b> (520 cogs)
+<td><b>0.52</b>
 </td>
 <td>43.48%
 </td>
@@ -6954,7 +6939,7 @@ The tables below give the percentage of a certain stat on the amulet having stre
 <td>+3.6%
 </td></tr>
 <tr>
-<td><b>0.54</b> (540 cogs)
+<td><b>0.54</b>
 </td>
 <td>39.59%
 </td>
@@ -6963,7 +6948,7 @@ The tables below give the percentage of a certain stat on the amulet having stre
 <td>+3.6%
 </td></tr>
 <tr>
-<td><b>0.56</b> (560 cogs)
+<td><b>0.56</b>
 </td>
 <td>36.6%
 </td>
@@ -6972,7 +6957,7 @@ The tables below give the percentage of a certain stat on the amulet having stre
 <td>+3.6%
 </td></tr>
 <tr>
-<td><b>0.58</b> (580 cogs)
+<td><b>0.58</b>
 </td>
 <td>34.15%
 </td>
@@ -6981,7 +6966,7 @@ The tables below give the percentage of a certain stat on the amulet having stre
 <td>+3.7%
 </td></tr>
 <tr>
-<td><b>0.6</b> (600 cogs)
+<td><b>0.6</b>
 </td>
 <td>32.082%
 </td>
@@ -7006,7 +6991,7 @@ The tables below give the percentage of a certain stat on the amulet having stre
 <th>+4%
 </th></tr>
 <tr>
-<td><b>0.4</b> (400 cogs)
+<td><b>0.4</b>
 </td>
 <td>67.92%
 </td>
@@ -7015,7 +7000,7 @@ The tables below give the percentage of a certain stat on the amulet having stre
 <td>+3.3%
 </td></tr>
 <tr>
-<td><b>0.42</b> (420 cogs)
+<td><b>0.42</b>
 </td>
 <td>65.85%
 </td>
@@ -7024,7 +7009,7 @@ The tables below give the percentage of a certain stat on the amulet having stre
 <td>+3.3%
 </td></tr>
 <tr>
-<td><b>0.44</b> (440 cogs)
+<td><b>0.44</b>
 </td>
 <td>63.4%
 </td>
@@ -7033,7 +7018,7 @@ The tables below give the percentage of a certain stat on the amulet having stre
 <td>+3.4%
 </td></tr>
 <tr>
-<td><b>0.46</b> (460 cogs)
+<td><b>0.46</b>
 </td>
 <td>60.41%
 </td>
@@ -7042,7 +7027,7 @@ The tables below give the percentage of a certain stat on the amulet having stre
 <td>+3.4%
 </td></tr>
 <tr>
-<td><b>0.48</b> (480 cogs)
+<td><b>0.48</b>
 </td>
 <td>56.52%
 </td>
@@ -7051,7 +7036,7 @@ The tables below give the percentage of a certain stat on the amulet having stre
 <td>+3.4%
 </td></tr>
 <tr>
-<td><b>0.5</b> (500 cogs)
+<td><b>0.5</b>
 </td>
 <td>50%
 </td>
@@ -7060,7 +7045,7 @@ The tables below give the percentage of a certain stat on the amulet having stre
 <td>+3.5%
 </td></tr>
 <tr>
-<td><b>0.52</b> (520 cogs)
+<td><b>0.52</b>
 </td>
 <td>43.48%
 </td>
@@ -7069,7 +7054,7 @@ The tables below give the percentage of a certain stat on the amulet having stre
 <td>+3.6%
 </td></tr>
 <tr>
-<td><b>0.54</b> (540 cogs)
+<td><b>0.54</b>
 </td>
 <td>39.59%
 </td>
@@ -7078,7 +7063,7 @@ The tables below give the percentage of a certain stat on the amulet having stre
 <td>+3.6%
 </td></tr>
 <tr>
-<td><b>0.56</b> (560 cogs)
+<td><b>0.56</b>
 </td>
 <td>36.6%
 </td>
@@ -7087,7 +7072,7 @@ The tables below give the percentage of a certain stat on the amulet having stre
 <td>+3.6%
 </td></tr>
 <tr>
-<td><b>0.58</b> (580 cogs)
+<td><b>0.58</b>
 </td>
 <td>34.15%
 </td>
@@ -7096,7 +7081,7 @@ The tables below give the percentage of a certain stat on the amulet having stre
 <td>+3.7%
 </td></tr>
 <tr>
-<td><b>0.6</b> (600 cogs)
+<td><b>0.6</b>
 </td>
 <td>32.082%
 </td>
@@ -7296,7 +7281,7 @@ The tables below give the percentage of a certain stat on the amulet having stre
 <th>+175,000
 </th></tr>
 <tr>
-<td><b>0.6</b> (600 cogs)
+<td><b>0.6</b>
 </td>
 <td>4.87%
 </td>
@@ -7311,7 +7296,7 @@ The tables below give the percentage of a certain stat on the amulet having stre
 <td>+152,502.11
 </td></tr>
 <tr>
-<td><b>0.62</b> (620 cogs)
+<td><b>0.62</b>
 </td>
 <td>4.69%
 </td>
@@ -7326,7 +7311,7 @@ The tables below give the percentage of a certain stat on the amulet having stre
 <td>+152,979.28
 </td></tr>
 <tr>
-<td><b>0.64</b> (640 cogs)
+<td><b>0.64</b>
 </td>
 <td>4.52%
 </td>
@@ -7341,7 +7326,7 @@ The tables below give the percentage of a certain stat on the amulet having stre
 <td>+153,517.17
 </td></tr>
 <tr>
-<td><b>0.66</b> (660 cogs)
+<td><b>0.66</b>
 </td>
 <td>4.37%
 </td>
@@ -7356,7 +7341,7 @@ The tables below give the percentage of a certain stat on the amulet having stre
 <td>+153,986.18
 </td></tr>
 <tr>
-<td><b>0.68</b> (680 cogs)
+<td><b>0.68</b>
 </td>
 <td>4.22%
 </td>
@@ -7371,7 +7356,7 @@ The tables below give the percentage of a certain stat on the amulet having stre
 <td>+154,514.76
 </td></tr>
 <tr>
-<td><b>0.7</b> (700 cogs)
+<td><b>0.7</b>
 </td>
 <td>4.081%
 </td>
@@ -7386,7 +7371,7 @@ The tables below give the percentage of a certain stat on the amulet having stre
 <td>+155,004.41
 </td></tr>
 <tr>
-<td><b>0.72</b> (720 cogs)
+<td><b>0.72</b>
 </td>
 <td>3.95%
 </td>
@@ -7401,7 +7386,7 @@ The tables below give the percentage of a certain stat on the amulet having stre
 <td>+155,477.093
 </td></tr>
 <tr>
-<td><b>0.74</b> (740 cogs)
+<td><b>0.74</b>
 </td>
 <td>3.83%
 </td>
@@ -7416,7 +7401,7 @@ The tables below give the percentage of a certain stat on the amulet having stre
 <td>+156,018.44
 </td></tr>
 <tr>
-<td><b>0.76</b> (760 cogs)
+<td><b>0.76</b>
 </td>
 <td>3.72%
 </td>
@@ -7431,7 +7416,7 @@ The tables below give the percentage of a certain stat on the amulet having stre
 <td>+156,487.5
 </td></tr>
 <tr>
-<td><b>0.78</b> (780 cogs)
+<td><b>0.78</b>
 </td>
 <td>3.61%
 </td>
@@ -7446,7 +7431,7 @@ The tables below give the percentage of a certain stat on the amulet having stre
 <td>+157,012.31
 </td></tr>
 <tr>
-<td><b>0.8</b> (800 cogs)
+<td><b>0.8</b>
 </td>
 <td>3.51%
 </td>
@@ -7481,7 +7466,7 @@ The tables below give the percentage of a certain stat on the amulet having stre
 <th>+12%
 </th></tr>
 <tr>
-<td><b>0.6</b> (600 cogs)
+<td><b>0.6</b>
 </td>
 <td>3.15%
 </td>
@@ -7494,7 +7479,7 @@ The tables below give the percentage of a certain stat on the amulet having stre
 <td>+11%
 </td></tr>
 <tr>
-<td><b>0.62</b> (620 cogs)
+<td><b>0.62</b>
 </td>
 <td>2.86%
 </td>
@@ -7507,7 +7492,7 @@ The tables below give the percentage of a certain stat on the amulet having stre
 <td>+11%
 </td></tr>
 <tr>
-<td><b>0.64</b> (640 cogs)
+<td><b>0.64</b>
 </td>
 <td>2.6%
 </td>
@@ -7520,7 +7505,7 @@ The tables below give the percentage of a certain stat on the amulet having stre
 <td>+11%
 </td></tr>
 <tr>
-<td><b>0.66</b> (660 cogs)
+<td><b>0.66</b>
 </td>
 <td>2.36%
 </td>
@@ -7533,7 +7518,7 @@ The tables below give the percentage of a certain stat on the amulet having stre
 <td>+11%
 </td></tr>
 <tr>
-<td><b>0.68</b> (680 cogs)
+<td><b>0.68</b>
 </td>
 <td>2.23%
 </td>
@@ -7546,7 +7531,7 @@ The tables below give the percentage of a certain stat on the amulet having stre
 <td>+11%
 </td></tr>
 <tr>
-<td><b>0.7</b> (700 cogs)
+<td><b>0.7</b>
 </td>
 <td>2.16%
 </td>
@@ -7559,7 +7544,7 @@ The tables below give the percentage of a certain stat on the amulet having stre
 <td>+11%
 </td></tr>
 <tr>
-<td><b>0.72</b> (720 cogs)
+<td><b>0.72</b>
 </td>
 <td>2.098%
 </td>
@@ -7572,7 +7557,7 @@ The tables below give the percentage of a certain stat on the amulet having stre
 <td>+11%
 </td></tr>
 <tr>
-<td><b>0.74</b> (740 cogs)
+<td><b>0.74</b>
 </td>
 <td>2.036%
 </td>
@@ -7585,7 +7570,7 @@ The tables below give the percentage of a certain stat on the amulet having stre
 <td>+11%
 </td></tr>
 <tr>
-<td><b>0.76</b> (760 cogs)
+<td><b>0.76</b>
 </td>
 <td>1.98%
 </td>
@@ -7598,7 +7583,7 @@ The tables below give the percentage of a certain stat on the amulet having stre
 <td>+11%
 </td></tr>
 <tr>
-<td><b>0.78</b> (780 cogs)
+<td><b>0.78</b>
 </td>
 <td>1.92%
 </td>
@@ -7611,7 +7596,7 @@ The tables below give the percentage of a certain stat on the amulet having stre
 <td>+11%
 </td></tr>
 <tr>
-<td><b>0.8</b> (800 cogs)
+<td><b>0.8</b>
 </td>
 <td>1.87%
 </td>
@@ -7648,7 +7633,7 @@ The tables below give the percentage of a certain stat on the amulet having stre
 <th>+25%
 </th></tr>
 <tr>
-<td><b>0.6</b> (600 cogs)
+<td><b>0.6</b>
 </td>
 <td>0.88%
 </td>
@@ -7665,7 +7650,7 @@ The tables below give the percentage of a certain stat on the amulet having stre
 <td>+23%
 </td></tr>
 <tr>
-<td><b>0.62</b> (620 cogs)
+<td><b>0.62</b>
 </td>
 <td>0.85%
 </td>
@@ -7682,7 +7667,7 @@ The tables below give the percentage of a certain stat on the amulet having stre
 <td>+23%
 </td></tr>
 <tr>
-<td><b>0.64</b> (640 cogs)
+<td><b>0.64</b>
 </td>
 <td>0.83%
 </td>
@@ -7699,7 +7684,7 @@ The tables below give the percentage of a certain stat on the amulet having stre
 <td>+23%
 </td></tr>
 <tr>
-<td><b>0.66</b> (660 cogs)
+<td><b>0.66</b>
 </td>
 <td>0.8%
 </td>
@@ -7716,7 +7701,7 @@ The tables below give the percentage of a certain stat on the amulet having stre
 <td>+23%
 </td></tr>
 <tr>
-<td><b>0.68</b> (680 cogs)
+<td><b>0.68</b>
 </td>
 <td>0.77%
 </td>
@@ -7733,7 +7718,7 @@ The tables below give the percentage of a certain stat on the amulet having stre
 <td>+23%
 </td></tr>
 <tr>
-<td><b>0.7</b> (700 cogs)
+<td><b>0.7</b>
 </td>
 <td>0.75%
 </td>
@@ -7750,7 +7735,7 @@ The tables below give the percentage of a certain stat on the amulet having stre
 <td>+23%
 </td></tr>
 <tr>
-<td><b>0.72</b> (720 cogs)
+<td><b>0.72</b>
 </td>
 <td>0.73%
 </td>
@@ -7767,7 +7752,7 @@ The tables below give the percentage of a certain stat on the amulet having stre
 <td>+23%
 </td></tr>
 <tr>
-<td><b>0.74</b> (740 cogs)
+<td><b>0.74</b>
 </td>
 <td>0.71%
 </td>
@@ -7784,7 +7769,7 @@ The tables below give the percentage of a certain stat on the amulet having stre
 <td>+23%
 </td></tr>
 <tr>
-<td><b>0.76</b> (760 cogs)
+<td><b>0.76</b>
 </td>
 <td>0.69%
 </td>
@@ -7801,7 +7786,7 @@ The tables below give the percentage of a certain stat on the amulet having stre
 <td>+23%
 </td></tr>
 <tr>
-<td><b>0.78</b> (780 cogs)
+<td><b>0.78</b>
 </td>
 <td>0.67%
 </td>
@@ -7818,7 +7803,7 @@ The tables below give the percentage of a certain stat on the amulet having stre
 <td>+23%
 </td></tr>
 <tr>
-<td><b>0.8</b> (800 cogs)
+<td><b>0.8</b>
 </td>
 <td>0.65%
 </td>
@@ -7859,7 +7844,7 @@ The tables below give the percentage of a certain stat on the amulet having stre
 <th>+25%
 </th></tr>
 <tr>
-<td><b>0.6</b> (600 cogs)
+<td><b>0.6</b>
 </td>
 <td>0.88%
 </td>
@@ -7876,7 +7861,7 @@ The tables below give the percentage of a certain stat on the amulet having stre
 <td>+23%
 </td></tr>
 <tr>
-<td><b>0.62</b> (620 cogs)
+<td><b>0.62</b>
 </td>
 <td>0.85%
 </td>
@@ -7893,7 +7878,7 @@ The tables below give the percentage of a certain stat on the amulet having stre
 <td>+23%
 </td></tr>
 <tr>
-<td><b>0.64</b> (640 cogs)
+<td><b>0.64</b>
 </td>
 <td>0.83%
 </td>
@@ -7910,7 +7895,7 @@ The tables below give the percentage of a certain stat on the amulet having stre
 <td>+23%
 </td></tr>
 <tr>
-<td><b>0.66</b> (660 cogs)
+<td><b>0.66</b>
 </td>
 <td>0.8%
 </td>
@@ -7927,7 +7912,7 @@ The tables below give the percentage of a certain stat on the amulet having stre
 <td>+23%
 </td></tr>
 <tr>
-<td><b>0.68</b> (680 cogs)
+<td><b>0.68</b>
 </td>
 <td>0.77%
 </td>
@@ -7944,7 +7929,7 @@ The tables below give the percentage of a certain stat on the amulet having stre
 <td>+23%
 </td></tr>
 <tr>
-<td><b>0.7</b> (700 cogs)
+<td><b>0.7</b>
 </td>
 <td>0.75%
 </td>
@@ -7961,7 +7946,7 @@ The tables below give the percentage of a certain stat on the amulet having stre
 <td>+23%
 </td></tr>
 <tr>
-<td><b>0.72</b> (720 cogs)
+<td><b>0.72</b>
 </td>
 <td>0.73%
 </td>
@@ -7978,7 +7963,7 @@ The tables below give the percentage of a certain stat on the amulet having stre
 <td>+23%
 </td></tr>
 <tr>
-<td><b>0.74</b> (740 cogs)
+<td><b>0.74</b>
 </td>
 <td>0.71%
 </td>
@@ -7995,7 +7980,7 @@ The tables below give the percentage of a certain stat on the amulet having stre
 <td>+23%
 </td></tr>
 <tr>
-<td><b>0.76</b> (760 cogs)
+<td><b>0.76</b>
 </td>
 <td>0.69%
 </td>
@@ -8012,7 +7997,7 @@ The tables below give the percentage of a certain stat on the amulet having stre
 <td>+23%
 </td></tr>
 <tr>
-<td><b>0.78</b> (780 cogs)
+<td><b>0.78</b>
 </td>
 <td>0.67%
 </td>
@@ -8029,7 +8014,7 @@ The tables below give the percentage of a certain stat on the amulet having stre
 <td>+23%
 </td></tr>
 <tr>
-<td><b>0.8</b> (800 cogs)
+<td><b>0.8</b>
 </td>
 <td>0.65%
 </td>
@@ -8070,7 +8055,7 @@ The tables below give the percentage of a certain stat on the amulet having stre
 <th>+25%
 </th></tr>
 <tr>
-<td><b>0.6</b> (600 cogs)
+<td><b>0.6</b>
 </td>
 <td>0.88%
 </td>
@@ -8087,7 +8072,7 @@ The tables below give the percentage of a certain stat on the amulet having stre
 <td>+23%
 </td></tr>
 <tr>
-<td><b>0.62</b> (620 cogs)
+<td><b>0.62</b>
 </td>
 <td>0.85%
 </td>
@@ -8104,7 +8089,7 @@ The tables below give the percentage of a certain stat on the amulet having stre
 <td>+23%
 </td></tr>
 <tr>
-<td><b>0.64</b> (640 cogs)
+<td><b>0.64</b>
 </td>
 <td>0.83%
 </td>
@@ -8121,7 +8106,7 @@ The tables below give the percentage of a certain stat on the amulet having stre
 <td>+23%
 </td></tr>
 <tr>
-<td><b>0.66</b> (660 cogs)
+<td><b>0.66</b>
 </td>
 <td>0.8%
 </td>
@@ -8138,7 +8123,7 @@ The tables below give the percentage of a certain stat on the amulet having stre
 <td>+23%
 </td></tr>
 <tr>
-<td><b>0.68</b> (680 cogs)
+<td><b>0.68</b>
 </td>
 <td>0.77%
 </td>
@@ -8155,7 +8140,7 @@ The tables below give the percentage of a certain stat on the amulet having stre
 <td>+23%
 </td></tr>
 <tr>
-<td><b>0.7</b> (700 cogs)
+<td><b>0.7</b>
 </td>
 <td>0.75%
 </td>
@@ -8172,7 +8157,7 @@ The tables below give the percentage of a certain stat on the amulet having stre
 <td>+23%
 </td></tr>
 <tr>
-<td><b>0.72</b> (720 cogs)
+<td><b>0.72</b>
 </td>
 <td>0.73%
 </td>
@@ -8189,7 +8174,7 @@ The tables below give the percentage of a certain stat on the amulet having stre
 <td>+23%
 </td></tr>
 <tr>
-<td><b>0.74</b> (740 cogs)
+<td><b>0.74</b>
 </td>
 <td>0.71%
 </td>
@@ -8206,7 +8191,7 @@ The tables below give the percentage of a certain stat on the amulet having stre
 <td>+23%
 </td></tr>
 <tr>
-<td><b>0.76</b> (760 cogs)
+<td><b>0.76</b>
 </td>
 <td>0.69%
 </td>
@@ -8223,7 +8208,7 @@ The tables below give the percentage of a certain stat on the amulet having stre
 <td>+23%
 </td></tr>
 <tr>
-<td><b>0.78</b> (780 cogs)
+<td><b>0.78</b>
 </td>
 <td>0.67%
 </td>
@@ -8240,7 +8225,7 @@ The tables below give the percentage of a certain stat on the amulet having stre
 <td>+23%
 </td></tr>
 <tr>
-<td><b>0.8</b> (800 cogs)
+<td><b>0.8</b>
 </td>
 <td>0.65%
 </td>
@@ -8275,7 +8260,7 @@ The tables below give the percentage of a certain stat on the amulet having stre
 <th>+5%
 </th></tr>
 <tr>
-<td><b>0.6</b> (600 cogs)
+<td><b>0.6</b>
 </td>
 <td>6.14%
 </td>
@@ -8286,7 +8271,7 @@ The tables below give the percentage of a certain stat on the amulet having stre
 <td>+4%
 </td></tr>
 <tr>
-<td><b>0.62</b> (620 cogs)
+<td><b>0.62</b>
 </td>
 <td>5.9%
 </td>
@@ -8297,7 +8282,7 @@ The tables below give the percentage of a certain stat on the amulet having stre
 <td>+4.1%
 </td></tr>
 <tr>
-<td><b>0.64</b> (640 cogs)
+<td><b>0.64</b>
 </td>
 <td>5.68%
 </td>
@@ -8308,7 +8293,7 @@ The tables below give the percentage of a certain stat on the amulet having stre
 <td>+4.1%
 </td></tr>
 <tr>
-<td><b>0.66</b> (660 cogs)
+<td><b>0.66</b>
 </td>
 <td>5.48%
 </td>
@@ -8319,7 +8304,7 @@ The tables below give the percentage of a certain stat on the amulet having stre
 <td>+4.1%
 </td></tr>
 <tr>
-<td><b>0.68</b> (680 cogs)
+<td><b>0.68</b>
 </td>
 <td>5.29%
 </td>
@@ -8330,7 +8315,7 @@ The tables below give the percentage of a certain stat on the amulet having stre
 <td>+4.1%
 </td></tr>
 <tr>
-<td><b>0.7</b> (700 cogs)
+<td><b>0.7</b>
 </td>
 <td>5.12%
 </td>
@@ -8341,7 +8326,7 @@ The tables below give the percentage of a certain stat on the amulet having stre
 <td>+4.1%
 </td></tr>
 <tr>
-<td><b>0.72</b> (720 cogs)
+<td><b>0.72</b>
 </td>
 <td>4.95%
 </td>
@@ -8352,7 +8337,7 @@ The tables below give the percentage of a certain stat on the amulet having stre
 <td>+4.1%
 </td></tr>
 <tr>
-<td><b>0.74</b> (740 cogs)
+<td><b>0.74</b>
 </td>
 <td>4.8%
 </td>
@@ -8363,7 +8348,7 @@ The tables below give the percentage of a certain stat on the amulet having stre
 <td>+4.2%
 </td></tr>
 <tr>
-<td><b>0.76</b> (760 cogs)
+<td><b>0.76</b>
 </td>
 <td>4.66%
 </td>
@@ -8374,7 +8359,7 @@ The tables below give the percentage of a certain stat on the amulet having stre
 <td>+4.2%
 </td></tr>
 <tr>
-<td><b>0.78</b> (780 cogs)
+<td><b>0.78</b>
 </td>
 <td>4.52%
 </td>
@@ -8385,7 +8370,7 @@ The tables below give the percentage of a certain stat on the amulet having stre
 <td>+4.3%
 </td></tr>
 <tr>
-<td><b>0.8</b> (800 cogs)
+<td><b>0.8</b>
 </td>
 <td>4.39%
 </td>
@@ -8420,7 +8405,7 @@ The tables below give the percentage of a certain stat on the amulet having stre
 <th>+25%
 </th></tr>
 <tr>
-<td><b>0.6</b> (600 cogs)
+<td><b>0.6</b>
 </td>
 <td>0.88%
 </td>
@@ -8437,7 +8422,7 @@ The tables below give the percentage of a certain stat on the amulet having stre
 <td>+23%
 </td></tr>
 <tr>
-<td><b>0.62</b> (620 cogs)
+<td><b>0.62</b>
 </td>
 <td>0.85%
 </td>
@@ -8454,7 +8439,7 @@ The tables below give the percentage of a certain stat on the amulet having stre
 <td>+23%
 </td></tr>
 <tr>
-<td><b>0.64</b> (640 cogs)
+<td><b>0.64</b>
 </td>
 <td>0.83%
 </td>
@@ -8471,7 +8456,7 @@ The tables below give the percentage of a certain stat on the amulet having stre
 <td>+23%
 </td></tr>
 <tr>
-<td><b>0.66</b> (660 cogs)
+<td><b>0.66</b>
 </td>
 <td>0.8%
 </td>
@@ -8488,7 +8473,7 @@ The tables below give the percentage of a certain stat on the amulet having stre
 <td>+23%
 </td></tr>
 <tr>
-<td><b>0.68</b> (680 cogs)
+<td><b>0.68</b>
 </td>
 <td>0.77%
 </td>
@@ -8505,7 +8490,7 @@ The tables below give the percentage of a certain stat on the amulet having stre
 <td>+23%
 </td></tr>
 <tr>
-<td><b>0.7</b> (700 cogs)
+<td><b>0.7</b>
 </td>
 <td>0.75%
 </td>
@@ -8522,7 +8507,7 @@ The tables below give the percentage of a certain stat on the amulet having stre
 <td>+23%
 </td></tr>
 <tr>
-<td><b>0.72</b> (720 cogs)
+<td><b>0.72</b>
 </td>
 <td>0.73%
 </td>
@@ -8539,7 +8524,7 @@ The tables below give the percentage of a certain stat on the amulet having stre
 <td>+23%
 </td></tr>
 <tr>
-<td><b>0.74</b> (740 cogs)
+<td><b>0.74</b>
 </td>
 <td>0.71%
 </td>
@@ -8556,7 +8541,7 @@ The tables below give the percentage of a certain stat on the amulet having stre
 <td>+23%
 </td></tr>
 <tr>
-<td><b>0.76</b> (760 cogs)
+<td><b>0.76</b>
 </td>
 <td>0.69%
 </td>
@@ -8573,7 +8558,7 @@ The tables below give the percentage of a certain stat on the amulet having stre
 <td>+23%
 </td></tr>
 <tr>
-<td><b>0.78</b> (780 cogs)
+<td><b>0.78</b>
 </td>
 <td>0.67%
 </td>
@@ -8590,7 +8575,7 @@ The tables below give the percentage of a certain stat on the amulet having stre
 <td>+23%
 </td></tr>
 <tr>
-<td><b>0.8</b> (800 cogs)
+<td><b>0.8</b>
 </td>
 <td>0.65%
 </td>
@@ -8631,7 +8616,7 @@ The tables below give the percentage of a certain stat on the amulet having stre
 <th>+25%
 </th></tr>
 <tr>
-<td><b>0.6</b> (600 cogs)
+<td><b>0.6</b>
 </td>
 <td>0.88%
 </td>
@@ -8648,7 +8633,7 @@ The tables below give the percentage of a certain stat on the amulet having stre
 <td>+23%
 </td></tr>
 <tr>
-<td><b>0.62</b> (620 cogs)
+<td><b>0.62</b>
 </td>
 <td>0.85%
 </td>
@@ -8665,7 +8650,7 @@ The tables below give the percentage of a certain stat on the amulet having stre
 <td>+23%
 </td></tr>
 <tr>
-<td><b>0.64</b> (640 cogs)
+<td><b>0.64</b>
 </td>
 <td>0.83%
 </td>
@@ -8682,7 +8667,7 @@ The tables below give the percentage of a certain stat on the amulet having stre
 <td>+23%
 </td></tr>
 <tr>
-<td><b>0.66</b> (660 cogs)
+<td><b>0.66</b>
 </td>
 <td>0.8%
 </td>
@@ -8699,7 +8684,7 @@ The tables below give the percentage of a certain stat on the amulet having stre
 <td>+23%
 </td></tr>
 <tr>
-<td><b>0.68</b> (680 cogs)
+<td><b>0.68</b>
 </td>
 <td>0.77%
 </td>
@@ -8716,7 +8701,7 @@ The tables below give the percentage of a certain stat on the amulet having stre
 <td>+23%
 </td></tr>
 <tr>
-<td><b>0.7</b> (700 cogs)
+<td><b>0.7</b>
 </td>
 <td>0.75%
 </td>
@@ -8733,7 +8718,7 @@ The tables below give the percentage of a certain stat on the amulet having stre
 <td>+23%
 </td></tr>
 <tr>
-<td><b>0.72</b> (720 cogs)
+<td><b>0.72</b>
 </td>
 <td>0.73%
 </td>
@@ -8750,7 +8735,7 @@ The tables below give the percentage of a certain stat on the amulet having stre
 <td>+23%
 </td></tr>
 <tr>
-<td><b>0.74</b> (740 cogs)
+<td><b>0.74</b>
 </td>
 <td>0.71%
 </td>
@@ -8767,7 +8752,7 @@ The tables below give the percentage of a certain stat on the amulet having stre
 <td>+23%
 </td></tr>
 <tr>
-<td><b>0.76</b> (760 cogs)
+<td><b>0.76</b>
 </td>
 <td>0.69%
 </td>
@@ -8784,7 +8769,7 @@ The tables below give the percentage of a certain stat on the amulet having stre
 <td>+23%
 </td></tr>
 <tr>
-<td><b>0.78</b> (780 cogs)
+<td><b>0.78</b>
 </td>
 <td>0.67%
 </td>
@@ -8801,7 +8786,7 @@ The tables below give the percentage of a certain stat on the amulet having stre
 <td>+23%
 </td></tr>
 <tr>
-<td><b>0.8</b> (800 cogs)
+<td><b>0.8</b>
 </td>
 <td>0.65%
 </td>
@@ -8842,7 +8827,7 @@ The tables below give the percentage of a certain stat on the amulet having stre
 <th>+25%
 </th></tr>
 <tr>
-<td><b>0.6</b> (600 cogs)
+<td><b>0.6</b>
 </td>
 <td>0.88%
 </td>
@@ -8859,7 +8844,7 @@ The tables below give the percentage of a certain stat on the amulet having stre
 <td>+23%
 </td></tr>
 <tr>
-<td><b>0.62</b> (620 cogs)
+<td><b>0.62</b>
 </td>
 <td>0.85%
 </td>
@@ -8876,7 +8861,7 @@ The tables below give the percentage of a certain stat on the amulet having stre
 <td>+23%
 </td></tr>
 <tr>
-<td><b>0.64</b> (640 cogs)
+<td><b>0.64</b>
 </td>
 <td>0.83%
 </td>
@@ -8893,7 +8878,7 @@ The tables below give the percentage of a certain stat on the amulet having stre
 <td>+23%
 </td></tr>
 <tr>
-<td><b>0.66</b> (660 cogs)
+<td><b>0.66</b>
 </td>
 <td>0.8%
 </td>
@@ -8910,7 +8895,7 @@ The tables below give the percentage of a certain stat on the amulet having stre
 <td>+23%
 </td></tr>
 <tr>
-<td><b>0.68</b> (680 cogs)
+<td><b>0.68</b>
 </td>
 <td>0.77%
 </td>
@@ -8927,7 +8912,7 @@ The tables below give the percentage of a certain stat on the amulet having stre
 <td>+23%
 </td></tr>
 <tr>
-<td><b>0.7</b> (700 cogs)
+<td><b>0.7</b>
 </td>
 <td>0.75%
 </td>
@@ -8944,7 +8929,7 @@ The tables below give the percentage of a certain stat on the amulet having stre
 <td>+23%
 </td></tr>
 <tr>
-<td><b>0.72</b> (720 cogs)
+<td><b>0.72</b>
 </td>
 <td>0.73%
 </td>
@@ -8961,7 +8946,7 @@ The tables below give the percentage of a certain stat on the amulet having stre
 <td>+23%
 </td></tr>
 <tr>
-<td><b>0.74</b> (740 cogs)
+<td><b>0.74</b>
 </td>
 <td>0.71%
 </td>
@@ -8978,7 +8963,7 @@ The tables below give the percentage of a certain stat on the amulet having stre
 <td>+23%
 </td></tr>
 <tr>
-<td><b>0.76</b> (760 cogs)
+<td><b>0.76</b>
 </td>
 <td>0.69%
 </td>
@@ -8995,7 +8980,7 @@ The tables below give the percentage of a certain stat on the amulet having stre
 <td>+23%
 </td></tr>
 <tr>
-<td><b>0.78</b> (780 cogs)
+<td><b>0.78</b>
 </td>
 <td>0.67%
 </td>
@@ -9012,7 +8997,7 @@ The tables below give the percentage of a certain stat on the amulet having stre
 <td>+23%
 </td></tr>
 <tr>
-<td><b>0.8</b> (800 cogs)
+<td><b>0.8</b>
 </td>
 <td>0.65%
 </td>
@@ -9053,7 +9038,7 @@ The tables below give the percentage of a certain stat on the amulet having stre
 <th>+15%
 </th></tr>
 <tr>
-<td><b>0.6</b> (600 cogs)
+<td><b>0.6</b>
 </td>
 <td>0.88%
 </td>
@@ -9070,7 +9055,7 @@ The tables below give the percentage of a certain stat on the amulet having stre
 <td>+13%
 </td></tr>
 <tr>
-<td><b>0.62</b> (620 cogs)
+<td><b>0.62</b>
 </td>
 <td>0.85%
 </td>
@@ -9087,7 +9072,7 @@ The tables below give the percentage of a certain stat on the amulet having stre
 <td>+13%
 </td></tr>
 <tr>
-<td><b>0.64</b> (640 cogs)
+<td><b>0.64</b>
 </td>
 <td>0.83%
 </td>
@@ -9104,7 +9089,7 @@ The tables below give the percentage of a certain stat on the amulet having stre
 <td>+13%
 </td></tr>
 <tr>
-<td><b>0.66</b> (660 cogs)
+<td><b>0.66</b>
 </td>
 <td>0.8%
 </td>
@@ -9121,7 +9106,7 @@ The tables below give the percentage of a certain stat on the amulet having stre
 <td>+13%
 </td></tr>
 <tr>
-<td><b>0.68</b> (680 cogs)
+<td><b>0.68</b>
 </td>
 <td>0.77%
 </td>
@@ -9138,7 +9123,7 @@ The tables below give the percentage of a certain stat on the amulet having stre
 <td>+13%
 </td></tr>
 <tr>
-<td><b>0.7</b> (700 cogs)
+<td><b>0.7</b>
 </td>
 <td>0.75%
 </td>
@@ -9155,7 +9140,7 @@ The tables below give the percentage of a certain stat on the amulet having stre
 <td>+13%
 </td></tr>
 <tr>
-<td><b>0.72</b> (720 cogs)
+<td><b>0.72</b>
 </td>
 <td>0.73%
 </td>
@@ -9172,7 +9157,7 @@ The tables below give the percentage of a certain stat on the amulet having stre
 <td>+13%
 </td></tr>
 <tr>
-<td><b>0.74</b> (740 cogs)
+<td><b>0.74</b>
 </td>
 <td>0.71%
 </td>
@@ -9189,7 +9174,7 @@ The tables below give the percentage of a certain stat on the amulet having stre
 <td>+13%
 </td></tr>
 <tr>
-<td><b>0.76</b> (760 cogs)
+<td><b>0.76</b>
 </td>
 <td>0.69%
 </td>
@@ -9206,7 +9191,7 @@ The tables below give the percentage of a certain stat on the amulet having stre
 <td>+13%
 </td></tr>
 <tr>
-<td><b>0.78</b> (780 cogs)
+<td><b>0.78</b>
 </td>
 <td>0.67%
 </td>
@@ -9223,7 +9208,7 @@ The tables below give the percentage of a certain stat on the amulet having stre
 <td>+13%
 </td></tr>
 <tr>
-<td><b>0.8</b> (800 cogs)
+<td><b>0.8</b>
 </td>
 <td>0.65%
 </td>
@@ -9264,7 +9249,7 @@ The tables below give the percentage of a certain stat on the amulet having stre
 <th>+15%
 </th></tr>
 <tr>
-<td><b>0.6</b> (600 cogs)
+<td><b>0.6</b>
 </td>
 <td>0.88%
 </td>
@@ -9281,7 +9266,7 @@ The tables below give the percentage of a certain stat on the amulet having stre
 <td>+13%
 </td></tr>
 <tr>
-<td><b>0.62</b> (620 cogs)
+<td><b>0.62</b>
 </td>
 <td>0.85%
 </td>
@@ -9298,7 +9283,7 @@ The tables below give the percentage of a certain stat on the amulet having stre
 <td>+13%
 </td></tr>
 <tr>
-<td><b>0.64</b> (640 cogs)
+<td><b>0.64</b>
 </td>
 <td>0.83%
 </td>
@@ -9315,7 +9300,7 @@ The tables below give the percentage of a certain stat on the amulet having stre
 <td>+13%
 </td></tr>
 <tr>
-<td><b>0.66</b> (660 cogs)
+<td><b>0.66</b>
 </td>
 <td>0.8%
 </td>
@@ -9332,7 +9317,7 @@ The tables below give the percentage of a certain stat on the amulet having stre
 <td>+13%
 </td></tr>
 <tr>
-<td><b>0.68</b> (680 cogs)
+<td><b>0.68</b>
 </td>
 <td>0.77%
 </td>
@@ -9349,7 +9334,7 @@ The tables below give the percentage of a certain stat on the amulet having stre
 <td>+13%
 </td></tr>
 <tr>
-<td><b>0.7</b> (700 cogs)
+<td><b>0.7</b>
 </td>
 <td>0.75%
 </td>
@@ -9366,7 +9351,7 @@ The tables below give the percentage of a certain stat on the amulet having stre
 <td>+13%
 </td></tr>
 <tr>
-<td><b>0.72</b> (720 cogs)
+<td><b>0.72</b>
 </td>
 <td>0.73%
 </td>
@@ -9383,7 +9368,7 @@ The tables below give the percentage of a certain stat on the amulet having stre
 <td>+13%
 </td></tr>
 <tr>
-<td><b>0.74</b> (740 cogs)
+<td><b>0.74</b>
 </td>
 <td>0.71%
 </td>
@@ -9400,7 +9385,7 @@ The tables below give the percentage of a certain stat on the amulet having stre
 <td>+13%
 </td></tr>
 <tr>
-<td><b>0.76</b> (760 cogs)
+<td><b>0.76</b>
 </td>
 <td>0.69%
 </td>
@@ -9417,7 +9402,7 @@ The tables below give the percentage of a certain stat on the amulet having stre
 <td>+13%
 </td></tr>
 <tr>
-<td><b>0.78</b> (780 cogs)
+<td><b>0.78</b>
 </td>
 <td>0.67%
 </td>
@@ -9434,7 +9419,7 @@ The tables below give the percentage of a certain stat on the amulet having stre
 <td>+13%
 </td></tr>
 <tr>
-<td><b>0.8</b> (800 cogs)
+<td><b>0.8</b>
 </td>
 <td>0.65%
 </td>
@@ -9475,7 +9460,7 @@ The tables below give the percentage of a certain stat on the amulet having stre
 <th>+15%
 </th></tr>
 <tr>
-<td><b>0.6</b> (600 cogs)
+<td><b>0.6</b>
 </td>
 <td>0.88%
 </td>
@@ -9492,7 +9477,7 @@ The tables below give the percentage of a certain stat on the amulet having stre
 <td>+13%
 </td></tr>
 <tr>
-<td><b>0.62</b> (620 cogs)
+<td><b>0.62</b>
 </td>
 <td>0.85%
 </td>
@@ -9509,7 +9494,7 @@ The tables below give the percentage of a certain stat on the amulet having stre
 <td>+13%
 </td></tr>
 <tr>
-<td><b>0.64</b> (640 cogs)
+<td><b>0.64</b>
 </td>
 <td>0.83%
 </td>
@@ -9526,7 +9511,7 @@ The tables below give the percentage of a certain stat on the amulet having stre
 <td>+13%
 </td></tr>
 <tr>
-<td><b>0.66</b> (660 cogs)
+<td><b>0.66</b>
 </td>
 <td>0.8%
 </td>
@@ -9543,7 +9528,7 @@ The tables below give the percentage of a certain stat on the amulet having stre
 <td>+13%
 </td></tr>
 <tr>
-<td><b>0.68</b> (680 cogs)
+<td><b>0.68</b>
 </td>
 <td>0.77%
 </td>
@@ -9560,7 +9545,7 @@ The tables below give the percentage of a certain stat on the amulet having stre
 <td>+13%
 </td></tr>
 <tr>
-<td><b>0.7</b> (700 cogs)
+<td><b>0.7</b>
 </td>
 <td>0.75%
 </td>
@@ -9577,7 +9562,7 @@ The tables below give the percentage of a certain stat on the amulet having stre
 <td>+13%
 </td></tr>
 <tr>
-<td><b>0.72</b> (720 cogs)
+<td><b>0.72</b>
 </td>
 <td>0.73%
 </td>
@@ -9594,7 +9579,7 @@ The tables below give the percentage of a certain stat on the amulet having stre
 <td>+13%
 </td></tr>
 <tr>
-<td><b>0.74</b> (740 cogs)
+<td><b>0.74</b>
 </td>
 <td>0.71%
 </td>
@@ -9611,7 +9596,7 @@ The tables below give the percentage of a certain stat on the amulet having stre
 <td>+13%
 </td></tr>
 <tr>
-<td><b>0.76</b> (760 cogs)
+<td><b>0.76</b>
 </td>
 <td>0.69%
 </td>
@@ -9628,7 +9613,7 @@ The tables below give the percentage of a certain stat on the amulet having stre
 <td>+13%
 </td></tr>
 <tr>
-<td><b>0.78</b> (780 cogs)
+<td><b>0.78</b>
 </td>
 <td>0.67%
 </td>
@@ -9645,7 +9630,7 @@ The tables below give the percentage of a certain stat on the amulet having stre
 <td>+13%
 </td></tr>
 <tr>
-<td><b>0.8</b> (800 cogs)
+<td><b>0.8</b>
 </td>
 <td>0.65%
 </td>
@@ -9686,7 +9671,7 @@ The tables below give the percentage of a certain stat on the amulet having stre
 <th>+50%
 </th></tr>
 <tr>
-<td><b>0.6</b> (600 cogs)
+<td><b>0.6</b>
 </td>
 <td>3.02%
 </td>
@@ -9703,7 +9688,7 @@ The tables below give the percentage of a certain stat on the amulet having stre
 <td>+39%
 </td></tr>
 <tr>
-<td><b>0.62</b> (620 cogs)
+<td><b>0.62</b>
 </td>
 <td>2.91%
 </td>
@@ -9720,7 +9705,7 @@ The tables below give the percentage of a certain stat on the amulet having stre
 <td>+39%
 </td></tr>
 <tr>
-<td><b>0.64</b> (640 cogs)
+<td><b>0.64</b>
 </td>
 <td>2.81%
 </td>
@@ -9737,7 +9722,7 @@ The tables below give the percentage of a certain stat on the amulet having stre
 <td>+39%
 </td></tr>
 <tr>
-<td><b>0.66</b> (660 cogs)
+<td><b>0.66</b>
 </td>
 <td>2.71%
 </td>
@@ -9754,7 +9739,7 @@ The tables below give the percentage of a certain stat on the amulet having stre
 <td>+39%
 </td></tr>
 <tr>
-<td><b>0.68</b> (680 cogs)
+<td><b>0.68</b>
 </td>
 <td>2.63%
 </td>
@@ -9771,7 +9756,7 @@ The tables below give the percentage of a certain stat on the amulet having stre
 <td>+40%
 </td></tr>
 <tr>
-<td><b>0.7</b> (700 cogs)
+<td><b>0.7</b>
 </td>
 <td>2.54%
 </td>
@@ -9788,7 +9773,7 @@ The tables below give the percentage of a certain stat on the amulet having stre
 <td>+40%
 </td></tr>
 <tr>
-<td><b>0.72</b> (720 cogs)
+<td><b>0.72</b>
 </td>
 <td>2.47%
 </td>
@@ -9805,7 +9790,7 @@ The tables below give the percentage of a certain stat on the amulet having stre
 <td>+40%
 </td></tr>
 <tr>
-<td><b>0.74</b> (740 cogs)
+<td><b>0.74</b>
 </td>
 <td>2.39%
 </td>
@@ -9822,7 +9807,7 @@ The tables below give the percentage of a certain stat on the amulet having stre
 <td>+40%
 </td></tr>
 <tr>
-<td><b>0.76</b> (760 cogs)
+<td><b>0.76</b>
 </td>
 <td>2.32%
 </td>
@@ -9839,7 +9824,7 @@ The tables below give the percentage of a certain stat on the amulet having stre
 <td>+41%
 </td></tr>
 <tr>
-<td><b>0.78</b> (780 cogs)
+<td><b>0.78</b>
 </td>
 <td>2.26%
 </td>
@@ -9856,7 +9841,7 @@ The tables below give the percentage of a certain stat on the amulet having stre
 <td>+41%
 </td></tr>
 <tr>
-<td><b>0.8</b> (800 cogs)
+<td><b>0.8</b>
 </td>
 <td>2.2%
 </td>
@@ -9889,7 +9874,7 @@ The tables below give the percentage of a certain stat on the amulet having stre
 <th>+5%
 </th></tr>
 <tr>
-<td><b>0.6</b> (600 cogs)
+<td><b>0.6</b>
 </td>
 <td>32.082%
 </td>
@@ -9898,7 +9883,7 @@ The tables below give the percentage of a certain stat on the amulet having stre
 <td>+4.7%
 </td></tr>
 <tr>
-<td><b>0.62</b> (620 cogs)
+<td><b>0.62</b>
 </td>
 <td>30.29%
 </td>
@@ -9907,7 +9892,7 @@ The tables below give the percentage of a certain stat on the amulet having stre
 <td>+4.7%
 </td></tr>
 <tr>
-<td><b>0.64</b> (640 cogs)
+<td><b>0.64</b>
 </td>
 <td>28.72%
 </td>
@@ -9916,7 +9901,7 @@ The tables below give the percentage of a certain stat on the amulet having stre
 <td>+4.7%
 </td></tr>
 <tr>
-<td><b>0.66</b> (660 cogs)
+<td><b>0.66</b>
 </td>
 <td>27.33%
 </td>
@@ -9925,7 +9910,7 @@ The tables below give the percentage of a certain stat on the amulet having stre
 <td>+4.7%
 </td></tr>
 <tr>
-<td><b>0.68</b> (680 cogs)
+<td><b>0.68</b>
 </td>
 <td>26.076%
 </td>
@@ -9934,7 +9919,7 @@ The tables below give the percentage of a certain stat on the amulet having stre
 <td>+4.7%
 </td></tr>
 <tr>
-<td><b>0.7</b> (700 cogs)
+<td><b>0.7</b>
 </td>
 <td>24.94%
 </td>
@@ -9943,7 +9928,7 @@ The tables below give the percentage of a certain stat on the amulet having stre
 <td>+4.8%
 </td></tr>
 <tr>
-<td><b>0.72</b> (720 cogs)
+<td><b>0.72</b>
 </td>
 <td>23.92%
 </td>
@@ -9952,7 +9937,7 @@ The tables below give the percentage of a certain stat on the amulet having stre
 <td>+4.8%
 </td></tr>
 <tr>
-<td><b>0.74</b> (740 cogs)
+<td><b>0.74</b>
 </td>
 <td>22.98%
 </td>
@@ -9961,7 +9946,7 @@ The tables below give the percentage of a certain stat on the amulet having stre
 <td>+4.8%
 </td></tr>
 <tr>
-<td><b>0.76</b> (760 cogs)
+<td><b>0.76</b>
 </td>
 <td>22.11%
 </td>
@@ -9970,7 +9955,7 @@ The tables below give the percentage of a certain stat on the amulet having stre
 <td>+4.8%
 </td></tr>
 <tr>
-<td><b>0.78</b> (780 cogs)
+<td><b>0.78</b>
 </td>
 <td>21.31%
 </td>
@@ -9979,7 +9964,7 @@ The tables below give the percentage of a certain stat on the amulet having stre
 <td>+4.8%
 </td></tr>
 <tr>
-<td><b>0.8</b> (800 cogs)
+<td><b>0.8</b>
 </td>
 <td>20.58%
 </td>
@@ -10004,7 +9989,7 @@ The tables below give the percentage of a certain stat on the amulet having stre
 <th>+5%
 </th></tr>
 <tr>
-<td><b>0.6</b> (600 cogs)
+<td><b>0.6</b>
 </td>
 <td>32.082%
 </td>
@@ -10013,7 +9998,7 @@ The tables below give the percentage of a certain stat on the amulet having stre
 <td>+4.7%
 </td></tr>
 <tr>
-<td><b>0.62</b> (620 cogs)
+<td><b>0.62</b>
 </td>
 <td>30.29%
 </td>
@@ -10022,7 +10007,7 @@ The tables below give the percentage of a certain stat on the amulet having stre
 <td>+4.7%
 </td></tr>
 <tr>
-<td><b>0.64</b> (640 cogs)
+<td><b>0.64</b>
 </td>
 <td>28.72%
 </td>
@@ -10031,7 +10016,7 @@ The tables below give the percentage of a certain stat on the amulet having stre
 <td>+4.7%
 </td></tr>
 <tr>
-<td><b>0.66</b> (660 cogs)
+<td><b>0.66</b>
 </td>
 <td>27.33%
 </td>
@@ -10040,7 +10025,7 @@ The tables below give the percentage of a certain stat on the amulet having stre
 <td>+4.7%
 </td></tr>
 <tr>
-<td><b>0.68</b> (680 cogs)
+<td><b>0.68</b>
 </td>
 <td>26.076%
 </td>
@@ -10049,7 +10034,7 @@ The tables below give the percentage of a certain stat on the amulet having stre
 <td>+4.7%
 </td></tr>
 <tr>
-<td><b>0.7</b> (700 cogs)
+<td><b>0.7</b>
 </td>
 <td>24.94%
 </td>
@@ -10058,7 +10043,7 @@ The tables below give the percentage of a certain stat on the amulet having stre
 <td>+4.8%
 </td></tr>
 <tr>
-<td><b>0.72</b> (720 cogs)
+<td><b>0.72</b>
 </td>
 <td>23.92%
 </td>
@@ -10067,7 +10052,7 @@ The tables below give the percentage of a certain stat on the amulet having stre
 <td>+4.8%
 </td></tr>
 <tr>
-<td><b>0.74</b> (740 cogs)
+<td><b>0.74</b>
 </td>
 <td>22.98%
 </td>
@@ -10076,7 +10061,7 @@ The tables below give the percentage of a certain stat on the amulet having stre
 <td>+4.8%
 </td></tr>
 <tr>
-<td><b>0.76</b> (760 cogs)
+<td><b>0.76</b>
 </td>
 <td>22.11%
 </td>
@@ -10085,7 +10070,7 @@ The tables below give the percentage of a certain stat on the amulet having stre
 <td>+4.8%
 </td></tr>
 <tr>
-<td><b>0.78</b> (780 cogs)
+<td><b>0.78</b>
 </td>
 <td>21.31%
 </td>
@@ -10094,7 +10079,7 @@ The tables below give the percentage of a certain stat on the amulet having stre
 <td>+4.8%
 </td></tr>
 <tr>
-<td><b>0.8</b> (800 cogs)
+<td><b>0.8</b>
 </td>
 <td>20.58%
 </td>
@@ -10119,7 +10104,7 @@ The tables below give the percentage of a certain stat on the amulet having stre
 <th>+5%
 </th></tr>
 <tr>
-<td><b>0.6</b> (600 cogs)
+<td><b>0.6</b>
 </td>
 <td>32.082%
 </td>
@@ -10128,7 +10113,7 @@ The tables below give the percentage of a certain stat on the amulet having stre
 <td>+4.7%
 </td></tr>
 <tr>
-<td><b>0.62</b> (620 cogs)
+<td><b>0.62</b>
 </td>
 <td>30.29%
 </td>
@@ -10137,7 +10122,7 @@ The tables below give the percentage of a certain stat on the amulet having stre
 <td>+4.7%
 </td></tr>
 <tr>
-<td><b>0.64</b> (640 cogs)
+<td><b>0.64</b>
 </td>
 <td>28.72%
 </td>
@@ -10146,7 +10131,7 @@ The tables below give the percentage of a certain stat on the amulet having stre
 <td>+4.7%
 </td></tr>
 <tr>
-<td><b>0.66</b> (660 cogs)
+<td><b>0.66</b>
 </td>
 <td>27.33%
 </td>
@@ -10155,7 +10140,7 @@ The tables below give the percentage of a certain stat on the amulet having stre
 <td>+4.7%
 </td></tr>
 <tr>
-<td><b>0.68</b> (680 cogs)
+<td><b>0.68</b>
 </td>
 <td>26.076%
 </td>
@@ -10164,7 +10149,7 @@ The tables below give the percentage of a certain stat on the amulet having stre
 <td>+4.7%
 </td></tr>
 <tr>
-<td><b>0.7</b> (700 cogs)
+<td><b>0.7</b>
 </td>
 <td>24.94%
 </td>
@@ -10173,7 +10158,7 @@ The tables below give the percentage of a certain stat on the amulet having stre
 <td>+4.8%
 </td></tr>
 <tr>
-<td><b>0.72</b> (720 cogs)
+<td><b>0.72</b>
 </td>
 <td>23.92%
 </td>
@@ -10182,7 +10167,7 @@ The tables below give the percentage of a certain stat on the amulet having stre
 <td>+4.8%
 </td></tr>
 <tr>
-<td><b>0.74</b> (740 cogs)
+<td><b>0.74</b>
 </td>
 <td>22.98%
 </td>
@@ -10191,7 +10176,7 @@ The tables below give the percentage of a certain stat on the amulet having stre
 <td>+4.8%
 </td></tr>
 <tr>
-<td><b>0.76</b> (760 cogs)
+<td><b>0.76</b>
 </td>
 <td>22.11%
 </td>
@@ -10200,7 +10185,7 @@ The tables below give the percentage of a certain stat on the amulet having stre
 <td>+4.8%
 </td></tr>
 <tr>
-<td><b>0.78</b> (780 cogs)
+<td><b>0.78</b>
 </td>
 <td>21.31%
 </td>
@@ -10209,7 +10194,7 @@ The tables below give the percentage of a certain stat on the amulet having stre
 <td>+4.8%
 </td></tr>
 <tr>
-<td><b>0.8</b> (800 cogs)
+<td><b>0.8</b>
 </td>
 <td>20.58%
 </td>
@@ -10411,7 +10396,7 @@ The tables below give the percentage of a certain stat on the amulet having stre
 <th>+250,000
 </th></tr>
 <tr>
-<td><b>0.8</b> (800 cogs)
+<td><b>0.8</b>
 </td>
 <td>1.5%
 </td>
@@ -10428,7 +10413,7 @@ The tables below give the percentage of a certain stat on the amulet having stre
 <td>+232,528.74
 </td></tr>
 <tr>
-<td><b>0.82</b> (820 cogs)
+<td><b>0.82</b>
 </td>
 <td>1.46%
 </td>
@@ -10445,7 +10430,7 @@ The tables below give the percentage of a certain stat on the amulet having stre
 <td>+232,953.8
 </td></tr>
 <tr>
-<td><b>0.84</b> (840 cogs)
+<td><b>0.84</b>
 </td>
 <td>1.43%
 </td>
@@ -10462,7 +10447,7 @@ The tables below give the percentage of a certain stat on the amulet having stre
 <td>+233,394.49
 </td></tr>
 <tr>
-<td><b>0.86</b> (860 cogs)
+<td><b>0.86</b>
 </td>
 <td>1.39%
 </td>
@@ -10479,7 +10464,7 @@ The tables below give the percentage of a certain stat on the amulet having stre
 <td>+234,038.44
 </td></tr>
 <tr>
-<td><b>0.88</b> (880 cogs)
+<td><b>0.88</b>
 </td>
 <td>1.36%
 </td>
@@ -10496,7 +10481,7 @@ The tables below give the percentage of a certain stat on the amulet having stre
 <td>+234,583.66
 </td></tr>
 <tr>
-<td><b>0.9</b> (900 cogs)
+<td><b>0.9</b>
 </td>
 <td>1.33%
 </td>
@@ -10513,7 +10498,7 @@ The tables below give the percentage of a certain stat on the amulet having stre
 <td>+235,045.24
 </td></tr>
 <tr>
-<td><b>0.92</b> (920 cogs)
+<td><b>0.92</b>
 </td>
 <td>1.3%
 </td>
@@ -10530,7 +10515,7 @@ The tables below give the percentage of a certain stat on the amulet having stre
 <td>+235,463.21
 </td></tr>
 <tr>
-<td><b>0.94</b> (940 cogs)
+<td><b>0.94</b>
 </td>
 <td>1.27%
 </td>
@@ -10547,7 +10532,7 @@ The tables below give the percentage of a certain stat on the amulet having stre
 <td>+235,872.46
 </td></tr>
 <tr>
-<td><b>0.96</b> (960 cogs)
+<td><b>0.96</b>
 </td>
 <td>1.24%
 </td>
@@ -10564,7 +10549,7 @@ The tables below give the percentage of a certain stat on the amulet having stre
 <td>+236,510.15
 </td></tr>
 <tr>
-<td><b>0.98</b> (980 cogs)
+<td><b>0.98</b>
 </td>
 <td>1.21%
 </td>
@@ -10581,7 +10566,7 @@ The tables below give the percentage of a certain stat on the amulet having stre
 <td>+237,098.47
 </td></tr>
 <tr>
-<td><b>1</b> (1000+ cogs)
+<td><b>1</b>
 </td>
 <td>1.19%
 </td>
@@ -10622,7 +10607,7 @@ The tables below give the percentage of a certain stat on the amulet having stre
 <th>+15%
 </th></tr>
 <tr>
-<td><b>0.8</b> (800 cogs)
+<td><b>0.8</b>
 </td>
 <td>0.65%
 </td>
@@ -10639,7 +10624,7 @@ The tables below give the percentage of a certain stat on the amulet having stre
 <td>+13%
 </td></tr>
 <tr>
-<td><b>0.82</b> (820 cogs)
+<td><b>0.82</b>
 </td>
 <td>0.64%
 </td>
@@ -10656,7 +10641,7 @@ The tables below give the percentage of a certain stat on the amulet having stre
 <td>+13%
 </td></tr>
 <tr>
-<td><b>0.84</b> (840 cogs)
+<td><b>0.84</b>
 </td>
 <td>0.62%
 </td>
@@ -10673,7 +10658,7 @@ The tables below give the percentage of a certain stat on the amulet having stre
 <td>+13%
 </td></tr>
 <tr>
-<td><b>0.86</b> (860 cogs)
+<td><b>0.86</b>
 </td>
 <td>0.61%
 </td>
@@ -10690,7 +10675,7 @@ The tables below give the percentage of a certain stat on the amulet having stre
 <td>+13%
 </td></tr>
 <tr>
-<td><b>0.88</b> (880 cogs)
+<td><b>0.88</b>
 </td>
 <td>0.59%
 </td>
@@ -10707,7 +10692,7 @@ The tables below give the percentage of a certain stat on the amulet having stre
 <td>+13%
 </td></tr>
 <tr>
-<td><b>0.9</b> (900 cogs)
+<td><b>0.9</b>
 </td>
 <td>0.58%
 </td>
@@ -10724,7 +10709,7 @@ The tables below give the percentage of a certain stat on the amulet having stre
 <td>+13%
 </td></tr>
 <tr>
-<td><b>0.92</b> (920 cogs)
+<td><b>0.92</b>
 </td>
 <td>0.56%
 </td>
@@ -10741,7 +10726,7 @@ The tables below give the percentage of a certain stat on the amulet having stre
 <td>+14%
 </td></tr>
 <tr>
-<td><b>0.94</b> (940 cogs)
+<td><b>0.94</b>
 </td>
 <td>0.55%
 </td>
@@ -10758,7 +10743,7 @@ The tables below give the percentage of a certain stat on the amulet having stre
 <td>+14%
 </td></tr>
 <tr>
-<td><b>0.96</b> (960 cogs)
+<td><b>0.96</b>
 </td>
 <td>0.54%
 </td>
@@ -10775,7 +10760,7 @@ The tables below give the percentage of a certain stat on the amulet having stre
 <td>+14%
 </td></tr>
 <tr>
-<td><b>0.98</b> (980 cogs)
+<td><b>0.98</b>
 </td>
 <td>0.53%
 </td>
@@ -10792,7 +10777,7 @@ The tables below give the percentage of a certain stat on the amulet having stre
 <td>+14%
 </td></tr>
 <tr>
-<td><b>1</b> (1000+ cogs)
+<td><b>1</b>
 </td>
 <td>0.52%
 </td>
@@ -10825,7 +10810,7 @@ The tables below give the percentage of a certain stat on the amulet having stre
 <th>+2
 </th></tr>
 <tr>
-<td><b>0.8</b> (800 cogs)
+<td><b>0.8</b>
 </td>
 <td>20.58%
 </td>
@@ -10834,7 +10819,7 @@ The tables below give the percentage of a certain stat on the amulet having stre
 <td>+1.79
 </td></tr>
 <tr>
-<td><b>0.82</b> (820 cogs)
+<td><b>0.82</b>
 </td>
 <td>19.89%
 </td>
@@ -10843,7 +10828,7 @@ The tables below give the percentage of a certain stat on the amulet having stre
 <td>+1.8
 </td></tr>
 <tr>
-<td><b>0.84</b> (840 cogs)
+<td><b>0.84</b>
 </td>
 <td>19.25%
 </td>
@@ -10852,7 +10837,7 @@ The tables below give the percentage of a certain stat on the amulet having stre
 <td>+1.81
 </td></tr>
 <tr>
-<td><b>0.86</b> (860 cogs)
+<td><b>0.86</b>
 </td>
 <td>18.65%
 </td>
@@ -10861,7 +10846,7 @@ The tables below give the percentage of a certain stat on the amulet having stre
 <td>+1.81
 </td></tr>
 <tr>
-<td><b>0.88</b> (880 cogs)
+<td><b>0.88</b>
 </td>
 <td>18.089%
 </td>
@@ -10870,7 +10855,7 @@ The tables below give the percentage of a certain stat on the amulet having stre
 <td>+1.82
 </td></tr>
 <tr>
-<td><b>0.9</b> (900 cogs)
+<td><b>0.9</b>
 </td>
 <td>17.56%
 </td>
@@ -10879,7 +10864,7 @@ The tables below give the percentage of a certain stat on the amulet having stre
 <td>+1.82
 </td></tr>
 <tr>
-<td><b>0.92</b> (920 cogs)
+<td><b>0.92</b>
 </td>
 <td>17.067%
 </td>
@@ -10888,7 +10873,7 @@ The tables below give the percentage of a certain stat on the amulet having stre
 <td>+1.83
 </td></tr>
 <tr>
-<td><b>0.94</b> (940 cogs)
+<td><b>0.94</b>
 </td>
 <td>16.6%
 </td>
@@ -10897,7 +10882,7 @@ The tables below give the percentage of a certain stat on the amulet having stre
 <td>+1.83
 </td></tr>
 <tr>
-<td><b>0.96</b> (960 cogs)
+<td><b>0.96</b>
 </td>
 <td>16.16%
 </td>
@@ -10906,7 +10891,7 @@ The tables below give the percentage of a certain stat on the amulet having stre
 <td>+1.84
 </td></tr>
 <tr>
-<td><b>0.98</b> (980 cogs)
+<td><b>0.98</b>
 </td>
 <td>15.74%
 </td>
@@ -10915,7 +10900,7 @@ The tables below give the percentage of a certain stat on the amulet having stre
 <td>+1.84
 </td></tr>
 <tr>
-<td><b>1</b> (1000+ cogs)
+<td><b>1</b>
 </td>
 <td>15.34%
 </td>
@@ -10948,7 +10933,7 @@ The tables below give the percentage of a certain stat on the amulet having stre
 <th>+30%
 </th></tr>
 <tr>
-<td><b>0.8</b> (800 cogs)
+<td><b>0.8</b>
 </td>
 <td>0.65%
 </td>
@@ -10965,7 +10950,7 @@ The tables below give the percentage of a certain stat on the amulet having stre
 <td>+28%
 </td></tr>
 <tr>
-<td><b>0.82</b> (820 cogs)
+<td><b>0.82</b>
 </td>
 <td>0.64%
 </td>
@@ -10982,7 +10967,7 @@ The tables below give the percentage of a certain stat on the amulet having stre
 <td>+28%
 </td></tr>
 <tr>
-<td><b>0.84</b> (840 cogs)
+<td><b>0.84</b>
 </td>
 <td>0.62%
 </td>
@@ -10999,7 +10984,7 @@ The tables below give the percentage of a certain stat on the amulet having stre
 <td>+28%
 </td></tr>
 <tr>
-<td><b>0.86</b> (860 cogs)
+<td><b>0.86</b>
 </td>
 <td>0.61%
 </td>
@@ -11016,7 +11001,7 @@ The tables below give the percentage of a certain stat on the amulet having stre
 <td>+28%
 </td></tr>
 <tr>
-<td><b>0.88</b> (880 cogs)
+<td><b>0.88</b>
 </td>
 <td>0.59%
 </td>
@@ -11033,7 +11018,7 @@ The tables below give the percentage of a certain stat on the amulet having stre
 <td>+28%
 </td></tr>
 <tr>
-<td><b>0.9</b> (900 cogs)
+<td><b>0.9</b>
 </td>
 <td>0.58%
 </td>
@@ -11050,7 +11035,7 @@ The tables below give the percentage of a certain stat on the amulet having stre
 <td>+28%
 </td></tr>
 <tr>
-<td><b>0.92</b> (920 cogs)
+<td><b>0.92</b>
 </td>
 <td>0.56%
 </td>
@@ -11067,7 +11052,7 @@ The tables below give the percentage of a certain stat on the amulet having stre
 <td>+29%
 </td></tr>
 <tr>
-<td><b>0.94</b> (940 cogs)
+<td><b>0.94</b>
 </td>
 <td>0.55%
 </td>
@@ -11084,7 +11069,7 @@ The tables below give the percentage of a certain stat on the amulet having stre
 <td>+29%
 </td></tr>
 <tr>
-<td><b>0.96</b> (960 cogs)
+<td><b>0.96</b>
 </td>
 <td>0.54%
 </td>
@@ -11101,7 +11086,7 @@ The tables below give the percentage of a certain stat on the amulet having stre
 <td>+29%
 </td></tr>
 <tr>
-<td><b>0.98</b> (980 cogs)
+<td><b>0.98</b>
 </td>
 <td>0.53%
 </td>
@@ -11118,7 +11103,7 @@ The tables below give the percentage of a certain stat on the amulet having stre
 <td>+29%
 </td></tr>
 <tr>
-<td><b>1</b> (1000+ cogs)
+<td><b>1</b>
 </td>
 <td>0.52%
 </td>
@@ -11159,7 +11144,7 @@ The tables below give the percentage of a certain stat on the amulet having stre
 <th>+30%
 </th></tr>
 <tr>
-<td><b>0.8</b> (800 cogs)
+<td><b>0.8</b>
 </td>
 <td>0.65%
 </td>
@@ -11176,7 +11161,7 @@ The tables below give the percentage of a certain stat on the amulet having stre
 <td>+28%
 </td></tr>
 <tr>
-<td><b>0.82</b> (820 cogs)
+<td><b>0.82</b>
 </td>
 <td>0.64%
 </td>
@@ -11193,7 +11178,7 @@ The tables below give the percentage of a certain stat on the amulet having stre
 <td>+28%
 </td></tr>
 <tr>
-<td><b>0.84</b> (840 cogs)
+<td><b>0.84</b>
 </td>
 <td>0.62%
 </td>
@@ -11210,7 +11195,7 @@ The tables below give the percentage of a certain stat on the amulet having stre
 <td>+28%
 </td></tr>
 <tr>
-<td><b>0.86</b> (860 cogs)
+<td><b>0.86</b>
 </td>
 <td>0.61%
 </td>
@@ -11227,7 +11212,7 @@ The tables below give the percentage of a certain stat on the amulet having stre
 <td>+28%
 </td></tr>
 <tr>
-<td><b>0.88</b> (880 cogs)
+<td><b>0.88</b>
 </td>
 <td>0.59%
 </td>
@@ -11244,7 +11229,7 @@ The tables below give the percentage of a certain stat on the amulet having stre
 <td>+28%
 </td></tr>
 <tr>
-<td><b>0.9</b> (900 cogs)
+<td><b>0.9</b>
 </td>
 <td>0.58%
 </td>
@@ -11261,7 +11246,7 @@ The tables below give the percentage of a certain stat on the amulet having stre
 <td>+28%
 </td></tr>
 <tr>
-<td><b>0.92</b> (920 cogs)
+<td><b>0.92</b>
 </td>
 <td>0.56%
 </td>
@@ -11278,7 +11263,7 @@ The tables below give the percentage of a certain stat on the amulet having stre
 <td>+29%
 </td></tr>
 <tr>
-<td><b>0.94</b> (940 cogs)
+<td><b>0.94</b>
 </td>
 <td>0.55%
 </td>
@@ -11295,7 +11280,7 @@ The tables below give the percentage of a certain stat on the amulet having stre
 <td>+29%
 </td></tr>
 <tr>
-<td><b>0.96</b> (960 cogs)
+<td><b>0.96</b>
 </td>
 <td>0.54%
 </td>
@@ -11312,7 +11297,7 @@ The tables below give the percentage of a certain stat on the amulet having stre
 <td>+29%
 </td></tr>
 <tr>
-<td><b>0.98</b> (980 cogs)
+<td><b>0.98</b>
 </td>
 <td>0.53%
 </td>
@@ -11329,7 +11314,7 @@ The tables below give the percentage of a certain stat on the amulet having stre
 <td>+29%
 </td></tr>
 <tr>
-<td><b>1</b> (1000+ cogs)
+<td><b>1</b>
 </td>
 <td>0.52%
 </td>
@@ -11370,7 +11355,7 @@ The tables below give the percentage of a certain stat on the amulet having stre
 <th>+30%
 </th></tr>
 <tr>
-<td><b>0.8</b> (800 cogs)
+<td><b>0.8</b>
 </td>
 <td>0.65%
 </td>
@@ -11387,7 +11372,7 @@ The tables below give the percentage of a certain stat on the amulet having stre
 <td>+28%
 </td></tr>
 <tr>
-<td><b>0.82</b> (820 cogs)
+<td><b>0.82</b>
 </td>
 <td>0.64%
 </td>
@@ -11404,7 +11389,7 @@ The tables below give the percentage of a certain stat on the amulet having stre
 <td>+28%
 </td></tr>
 <tr>
-<td><b>0.84</b> (840 cogs)
+<td><b>0.84</b>
 </td>
 <td>0.62%
 </td>
@@ -11421,7 +11406,7 @@ The tables below give the percentage of a certain stat on the amulet having stre
 <td>+28%
 </td></tr>
 <tr>
-<td><b>0.86</b> (860 cogs)
+<td><b>0.86</b>
 </td>
 <td>0.61%
 </td>
@@ -11438,7 +11423,7 @@ The tables below give the percentage of a certain stat on the amulet having stre
 <td>+28%
 </td></tr>
 <tr>
-<td><b>0.88</b> (880 cogs)
+<td><b>0.88</b>
 </td>
 <td>0.59%
 </td>
@@ -11455,7 +11440,7 @@ The tables below give the percentage of a certain stat on the amulet having stre
 <td>+28%
 </td></tr>
 <tr>
-<td><b>0.9</b> (900 cogs)
+<td><b>0.9</b>
 </td>
 <td>0.58%
 </td>
@@ -11472,7 +11457,7 @@ The tables below give the percentage of a certain stat on the amulet having stre
 <td>+28%
 </td></tr>
 <tr>
-<td><b>0.92</b> (920 cogs)
+<td><b>0.92</b>
 </td>
 <td>0.56%
 </td>
@@ -11489,7 +11474,7 @@ The tables below give the percentage of a certain stat on the amulet having stre
 <td>+29%
 </td></tr>
 <tr>
-<td><b>0.94</b> (940 cogs)
+<td><b>0.94</b>
 </td>
 <td>0.55%
 </td>
@@ -11506,7 +11491,7 @@ The tables below give the percentage of a certain stat on the amulet having stre
 <td>+29%
 </td></tr>
 <tr>
-<td><b>0.96</b> (960 cogs)
+<td><b>0.96</b>
 </td>
 <td>0.54%
 </td>
@@ -11523,7 +11508,7 @@ The tables below give the percentage of a certain stat on the amulet having stre
 <td>+29%
 </td></tr>
 <tr>
-<td><b>0.98</b> (980 cogs)
+<td><b>0.98</b>
 </td>
 <td>0.53%
 </td>
@@ -11540,7 +11525,7 @@ The tables below give the percentage of a certain stat on the amulet having stre
 <td>+29%
 </td></tr>
 <tr>
-<td><b>1</b> (1000+ cogs)
+<td><b>1</b>
 </td>
 <td>0.52%
 </td>
@@ -11579,7 +11564,7 @@ The tables below give the percentage of a certain stat on the amulet having stre
 <th>+10%
 </th></tr>
 <tr>
-<td><b>0.8</b> (800 cogs)
+<td><b>0.8</b>
 </td>
 <td>1.032%
 </td>
@@ -11594,7 +11579,7 @@ The tables below give the percentage of a certain stat on the amulet having stre
 <td>+8.6%
 </td></tr>
 <tr>
-<td><b>0.82</b> (820 cogs)
+<td><b>0.82</b>
 </td>
 <td>1.0052%
 </td>
@@ -11609,7 +11594,7 @@ The tables below give the percentage of a certain stat on the amulet having stre
 <td>+8.6%
 </td></tr>
 <tr>
-<td><b>0.84</b> (840 cogs)
+<td><b>0.84</b>
 </td>
 <td>0.98%
 </td>
@@ -11624,7 +11609,7 @@ The tables below give the percentage of a certain stat on the amulet having stre
 <td>+8.6%
 </td></tr>
 <tr>
-<td><b>0.86</b> (860 cogs)
+<td><b>0.86</b>
 </td>
 <td>0.96%
 </td>
@@ -11639,7 +11624,7 @@ The tables below give the percentage of a certain stat on the amulet having stre
 <td>+8.7%
 </td></tr>
 <tr>
-<td><b>0.88</b> (880 cogs)
+<td><b>0.88</b>
 </td>
 <td>0.93%
 </td>
@@ -11654,7 +11639,7 @@ The tables below give the percentage of a certain stat on the amulet having stre
 <td>+8.7%
 </td></tr>
 <tr>
-<td><b>0.9</b> (900 cogs)
+<td><b>0.9</b>
 </td>
 <td>0.91%
 </td>
@@ -11669,7 +11654,7 @@ The tables below give the percentage of a certain stat on the amulet having stre
 <td>+8.8%
 </td></tr>
 <tr>
-<td><b>0.92</b> (920 cogs)
+<td><b>0.92</b>
 </td>
 <td>0.89%
 </td>
@@ -11684,7 +11669,7 @@ The tables below give the percentage of a certain stat on the amulet having stre
 <td>+8.9%
 </td></tr>
 <tr>
-<td><b>0.94</b> (940 cogs)
+<td><b>0.94</b>
 </td>
 <td>0.87%
 </td>
@@ -11699,7 +11684,7 @@ The tables below give the percentage of a certain stat on the amulet having stre
 <td>+8.9%
 </td></tr>
 <tr>
-<td><b>0.96</b> (960 cogs)
+<td><b>0.96</b>
 </td>
 <td>0.85%
 </td>
@@ -11714,7 +11699,7 @@ The tables below give the percentage of a certain stat on the amulet having stre
 <td>+9%
 </td></tr>
 <tr>
-<td><b>0.98</b> (980 cogs)
+<td><b>0.98</b>
 </td>
 <td>0.83%
 </td>
@@ -11729,7 +11714,7 @@ The tables below give the percentage of a certain stat on the amulet having stre
 <td>+9%
 </td></tr>
 <tr>
-<td><b>1</b> (1000+ cogs)
+<td><b>1</b>
 </td>
 <td>0.82%
 </td>
@@ -11768,7 +11753,7 @@ The tables below give the percentage of a certain stat on the amulet having stre
 <th>+30%
 </th></tr>
 <tr>
-<td><b>0.8</b> (800 cogs)
+<td><b>0.8</b>
 </td>
 <td>0.65%
 </td>
@@ -11785,7 +11770,7 @@ The tables below give the percentage of a certain stat on the amulet having stre
 <td>+28%
 </td></tr>
 <tr>
-<td><b>0.82</b> (820 cogs)
+<td><b>0.82</b>
 </td>
 <td>0.64%
 </td>
@@ -11802,7 +11787,7 @@ The tables below give the percentage of a certain stat on the amulet having stre
 <td>+28%
 </td></tr>
 <tr>
-<td><b>0.84</b> (840 cogs)
+<td><b>0.84</b>
 </td>
 <td>0.62%
 </td>
@@ -11819,7 +11804,7 @@ The tables below give the percentage of a certain stat on the amulet having stre
 <td>+28%
 </td></tr>
 <tr>
-<td><b>0.86</b> (860 cogs)
+<td><b>0.86</b>
 </td>
 <td>0.61%
 </td>
@@ -11836,7 +11821,7 @@ The tables below give the percentage of a certain stat on the amulet having stre
 <td>+28%
 </td></tr>
 <tr>
-<td><b>0.88</b> (880 cogs)
+<td><b>0.88</b>
 </td>
 <td>0.59%
 </td>
@@ -11853,7 +11838,7 @@ The tables below give the percentage of a certain stat on the amulet having stre
 <td>+28%
 </td></tr>
 <tr>
-<td><b>0.9</b> (900 cogs)
+<td><b>0.9</b>
 </td>
 <td>0.58%
 </td>
@@ -11870,7 +11855,7 @@ The tables below give the percentage of a certain stat on the amulet having stre
 <td>+28%
 </td></tr>
 <tr>
-<td><b>0.92</b> (920 cogs)
+<td><b>0.92</b>
 </td>
 <td>0.56%
 </td>
@@ -11887,7 +11872,7 @@ The tables below give the percentage of a certain stat on the amulet having stre
 <td>+29%
 </td></tr>
 <tr>
-<td><b>0.94</b> (940 cogs)
+<td><b>0.94</b>
 </td>
 <td>0.55%
 </td>
@@ -11904,7 +11889,7 @@ The tables below give the percentage of a certain stat on the amulet having stre
 <td>+29%
 </td></tr>
 <tr>
-<td><b>0.96</b> (960 cogs)
+<td><b>0.96</b>
 </td>
 <td>0.54%
 </td>
@@ -11921,7 +11906,7 @@ The tables below give the percentage of a certain stat on the amulet having stre
 <td>+29%
 </td></tr>
 <tr>
-<td><b>0.98</b> (980 cogs)
+<td><b>0.98</b>
 </td>
 <td>0.53%
 </td>
@@ -11938,7 +11923,7 @@ The tables below give the percentage of a certain stat on the amulet having stre
 <td>+29%
 </td></tr>
 <tr>
-<td><b>1</b> (1000+ cogs)
+<td><b>1</b>
 </td>
 <td>0.52%
 </td>
@@ -11979,7 +11964,7 @@ The tables below give the percentage of a certain stat on the amulet having stre
 <th>+30%
 </th></tr>
 <tr>
-<td><b>0.8</b> (800 cogs)
+<td><b>0.8</b>
 </td>
 <td>0.65%
 </td>
@@ -11996,7 +11981,7 @@ The tables below give the percentage of a certain stat on the amulet having stre
 <td>+28%
 </td></tr>
 <tr>
-<td><b>0.82</b> (820 cogs)
+<td><b>0.82</b>
 </td>
 <td>0.64%
 </td>
@@ -12013,7 +11998,7 @@ The tables below give the percentage of a certain stat on the amulet having stre
 <td>+28%
 </td></tr>
 <tr>
-<td><b>0.84</b> (840 cogs)
+<td><b>0.84</b>
 </td>
 <td>0.62%
 </td>
@@ -12030,7 +12015,7 @@ The tables below give the percentage of a certain stat on the amulet having stre
 <td>+28%
 </td></tr>
 <tr>
-<td><b>0.86</b> (860 cogs)
+<td><b>0.86</b>
 </td>
 <td>0.61%
 </td>
@@ -12047,7 +12032,7 @@ The tables below give the percentage of a certain stat on the amulet having stre
 <td>+28%
 </td></tr>
 <tr>
-<td><b>0.88</b> (880 cogs)
+<td><b>0.88</b>
 </td>
 <td>0.59%
 </td>
@@ -12064,7 +12049,7 @@ The tables below give the percentage of a certain stat on the amulet having stre
 <td>+28%
 </td></tr>
 <tr>
-<td><b>0.9</b> (900 cogs)
+<td><b>0.9</b>
 </td>
 <td>0.58%
 </td>
@@ -12081,7 +12066,7 @@ The tables below give the percentage of a certain stat on the amulet having stre
 <td>+28%
 </td></tr>
 <tr>
-<td><b>0.92</b> (920 cogs)
+<td><b>0.92</b>
 </td>
 <td>0.56%
 </td>
@@ -12098,7 +12083,7 @@ The tables below give the percentage of a certain stat on the amulet having stre
 <td>+29%
 </td></tr>
 <tr>
-<td><b>0.94</b> (940 cogs)
+<td><b>0.94</b>
 </td>
 <td>0.55%
 </td>
@@ -12115,7 +12100,7 @@ The tables below give the percentage of a certain stat on the amulet having stre
 <td>+29%
 </td></tr>
 <tr>
-<td><b>0.96</b> (960 cogs)
+<td><b>0.96</b>
 </td>
 <td>0.54%
 </td>
@@ -12132,7 +12117,7 @@ The tables below give the percentage of a certain stat on the amulet having stre
 <td>+29%
 </td></tr>
 <tr>
-<td><b>0.98</b> (980 cogs)
+<td><b>0.98</b>
 </td>
 <td>0.53%
 </td>
@@ -12149,7 +12134,7 @@ The tables below give the percentage of a certain stat on the amulet having stre
 <td>+29%
 </td></tr>
 <tr>
-<td><b>1</b> (1000+ cogs)
+<td><b>1</b>
 </td>
 <td>0.52%
 </td>
@@ -12190,7 +12175,7 @@ The tables below give the percentage of a certain stat on the amulet having stre
 <th>+30%
 </th></tr>
 <tr>
-<td><b>0.8</b> (800 cogs)
+<td><b>0.8</b>
 </td>
 <td>0.65%
 </td>
@@ -12207,7 +12192,7 @@ The tables below give the percentage of a certain stat on the amulet having stre
 <td>+28%
 </td></tr>
 <tr>
-<td><b>0.82</b> (820 cogs)
+<td><b>0.82</b>
 </td>
 <td>0.64%
 </td>
@@ -12224,7 +12209,7 @@ The tables below give the percentage of a certain stat on the amulet having stre
 <td>+28%
 </td></tr>
 <tr>
-<td><b>0.84</b> (840 cogs)
+<td><b>0.84</b>
 </td>
 <td>0.62%
 </td>
@@ -12241,7 +12226,7 @@ The tables below give the percentage of a certain stat on the amulet having stre
 <td>+28%
 </td></tr>
 <tr>
-<td><b>0.86</b> (860 cogs)
+<td><b>0.86</b>
 </td>
 <td>0.61%
 </td>
@@ -12258,7 +12243,7 @@ The tables below give the percentage of a certain stat on the amulet having stre
 <td>+28%
 </td></tr>
 <tr>
-<td><b>0.88</b> (880 cogs)
+<td><b>0.88</b>
 </td>
 <td>0.59%
 </td>
@@ -12275,7 +12260,7 @@ The tables below give the percentage of a certain stat on the amulet having stre
 <td>+28%
 </td></tr>
 <tr>
-<td><b>0.9</b> (900 cogs)
+<td><b>0.9</b>
 </td>
 <td>0.58%
 </td>
@@ -12292,7 +12277,7 @@ The tables below give the percentage of a certain stat on the amulet having stre
 <td>+28%
 </td></tr>
 <tr>
-<td><b>0.92</b> (920 cogs)
+<td><b>0.92</b>
 </td>
 <td>0.56%
 </td>
@@ -12309,7 +12294,7 @@ The tables below give the percentage of a certain stat on the amulet having stre
 <td>+29%
 </td></tr>
 <tr>
-<td><b>0.94</b> (940 cogs)
+<td><b>0.94</b>
 </td>
 <td>0.55%
 </td>
@@ -12326,7 +12311,7 @@ The tables below give the percentage of a certain stat on the amulet having stre
 <td>+29%
 </td></tr>
 <tr>
-<td><b>0.96</b> (960 cogs)
+<td><b>0.96</b>
 </td>
 <td>0.54%
 </td>
@@ -12343,7 +12328,7 @@ The tables below give the percentage of a certain stat on the amulet having stre
 <td>+29%
 </td></tr>
 <tr>
-<td><b>0.98</b> (980 cogs)
+<td><b>0.98</b>
 </td>
 <td>0.53%
 </td>
@@ -12360,7 +12345,7 @@ The tables below give the percentage of a certain stat on the amulet having stre
 <td>+29%
 </td></tr>
 <tr>
-<td><b>1</b> (1000+ cogs)
+<td><b>1</b>
 </td>
 <td>0.52%
 </td>
@@ -12401,7 +12386,7 @@ The tables below give the percentage of a certain stat on the amulet having stre
 <th>+20%
 </th></tr>
 <tr>
-<td><b>0.8</b> (800 cogs)
+<td><b>0.8</b>
 </td>
 <td>0.65%
 </td>
@@ -12418,7 +12403,7 @@ The tables below give the percentage of a certain stat on the amulet having stre
 <td>+18%
 </td></tr>
 <tr>
-<td><b>0.82</b> (820 cogs)
+<td><b>0.82</b>
 </td>
 <td>0.64%
 </td>
@@ -12435,7 +12420,7 @@ The tables below give the percentage of a certain stat on the amulet having stre
 <td>+18%
 </td></tr>
 <tr>
-<td><b>0.84</b> (840 cogs)
+<td><b>0.84</b>
 </td>
 <td>0.62%
 </td>
@@ -12452,7 +12437,7 @@ The tables below give the percentage of a certain stat on the amulet having stre
 <td>+18%
 </td></tr>
 <tr>
-<td><b>0.86</b> (860 cogs)
+<td><b>0.86</b>
 </td>
 <td>0.61%
 </td>
@@ -12469,7 +12454,7 @@ The tables below give the percentage of a certain stat on the amulet having stre
 <td>+18%
 </td></tr>
 <tr>
-<td><b>0.88</b> (880 cogs)
+<td><b>0.88</b>
 </td>
 <td>0.59%
 </td>
@@ -12486,7 +12471,7 @@ The tables below give the percentage of a certain stat on the amulet having stre
 <td>+18%
 </td></tr>
 <tr>
-<td><b>0.9</b> (900 cogs)
+<td><b>0.9</b>
 </td>
 <td>0.58%
 </td>
@@ -12503,7 +12488,7 @@ The tables below give the percentage of a certain stat on the amulet having stre
 <td>+18%
 </td></tr>
 <tr>
-<td><b>0.92</b> (920 cogs)
+<td><b>0.92</b>
 </td>
 <td>0.56%
 </td>
@@ -12520,7 +12505,7 @@ The tables below give the percentage of a certain stat on the amulet having stre
 <td>+19%
 </td></tr>
 <tr>
-<td><b>0.94</b> (940 cogs)
+<td><b>0.94</b>
 </td>
 <td>0.55%
 </td>
@@ -12537,7 +12522,7 @@ The tables below give the percentage of a certain stat on the amulet having stre
 <td>+19%
 </td></tr>
 <tr>
-<td><b>0.96</b> (960 cogs)
+<td><b>0.96</b>
 </td>
 <td>0.54%
 </td>
@@ -12554,7 +12539,7 @@ The tables below give the percentage of a certain stat on the amulet having stre
 <td>+19%
 </td></tr>
 <tr>
-<td><b>0.98</b> (980 cogs)
+<td><b>0.98</b>
 </td>
 <td>0.53%
 </td>
@@ -12571,7 +12556,7 @@ The tables below give the percentage of a certain stat on the amulet having stre
 <td>+19%
 </td></tr>
 <tr>
-<td><b>1</b> (1000+ cogs)
+<td><b>1</b>
 </td>
 <td>0.52%
 </td>
@@ -12612,7 +12597,7 @@ The tables below give the percentage of a certain stat on the amulet having stre
 <th>+20%
 </th></tr>
 <tr>
-<td><b>0.8</b> (800 cogs)
+<td><b>0.8</b>
 </td>
 <td>0.65%
 </td>
@@ -12629,7 +12614,7 @@ The tables below give the percentage of a certain stat on the amulet having stre
 <td>+18%
 </td></tr>
 <tr>
-<td><b>0.82</b> (820 cogs)
+<td><b>0.82</b>
 </td>
 <td>0.64%
 </td>
@@ -12646,7 +12631,7 @@ The tables below give the percentage of a certain stat on the amulet having stre
 <td>+18%
 </td></tr>
 <tr>
-<td><b>0.84</b> (840 cogs)
+<td><b>0.84</b>
 </td>
 <td>0.62%
 </td>
@@ -12663,7 +12648,7 @@ The tables below give the percentage of a certain stat on the amulet having stre
 <td>+18%
 </td></tr>
 <tr>
-<td><b>0.86</b> (860 cogs)
+<td><b>0.86</b>
 </td>
 <td>0.61%
 </td>
@@ -12680,7 +12665,7 @@ The tables below give the percentage of a certain stat on the amulet having stre
 <td>+18%
 </td></tr>
 <tr>
-<td><b>0.88</b> (880 cogs)
+<td><b>0.88</b>
 </td>
 <td>0.59%
 </td>
@@ -12697,7 +12682,7 @@ The tables below give the percentage of a certain stat on the amulet having stre
 <td>+18%
 </td></tr>
 <tr>
-<td><b>0.9</b> (900 cogs)
+<td><b>0.9</b>
 </td>
 <td>0.58%
 </td>
@@ -12714,7 +12699,7 @@ The tables below give the percentage of a certain stat on the amulet having stre
 <td>+18%
 </td></tr>
 <tr>
-<td><b>0.92</b> (920 cogs)
+<td><b>0.92</b>
 </td>
 <td>0.56%
 </td>
@@ -12731,7 +12716,7 @@ The tables below give the percentage of a certain stat on the amulet having stre
 <td>+19%
 </td></tr>
 <tr>
-<td><b>0.94</b> (940 cogs)
+<td><b>0.94</b>
 </td>
 <td>0.55%
 </td>
@@ -12748,7 +12733,7 @@ The tables below give the percentage of a certain stat on the amulet having stre
 <td>+19%
 </td></tr>
 <tr>
-<td><b>0.96</b> (960 cogs)
+<td><b>0.96</b>
 </td>
 <td>0.54%
 </td>
@@ -12765,7 +12750,7 @@ The tables below give the percentage of a certain stat on the amulet having stre
 <td>+19%
 </td></tr>
 <tr>
-<td><b>0.98</b> (980 cogs)
+<td><b>0.98</b>
 </td>
 <td>0.53%
 </td>
@@ -12782,7 +12767,7 @@ The tables below give the percentage of a certain stat on the amulet having stre
 <td>+19%
 </td></tr>
 <tr>
-<td><b>1</b> (1000+ cogs)
+<td><b>1</b>
 </td>
 <td>0.52%
 </td>
@@ -12823,7 +12808,7 @@ The tables below give the percentage of a certain stat on the amulet having stre
 <th>+25%
 </th></tr>
 <tr>
-<td><b>0.8</b> (800 cogs)
+<td><b>0.8</b>
 </td>
 <td>1.5%
 </td>
@@ -12840,7 +12825,7 @@ The tables below give the percentage of a certain stat on the amulet having stre
 <td>+22%
 </td></tr>
 <tr>
-<td><b>0.82</b> (820 cogs)
+<td><b>0.82</b>
 </td>
 <td>1.46%
 </td>
@@ -12857,7 +12842,7 @@ The tables below give the percentage of a certain stat on the amulet having stre
 <td>+22%
 </td></tr>
 <tr>
-<td><b>0.84</b> (840 cogs)
+<td><b>0.84</b>
 </td>
 <td>1.43%
 </td>
@@ -12874,7 +12859,7 @@ The tables below give the percentage of a certain stat on the amulet having stre
 <td>+22%
 </td></tr>
 <tr>
-<td><b>0.86</b> (860 cogs)
+<td><b>0.86</b>
 </td>
 <td>1.39%
 </td>
@@ -12891,7 +12876,7 @@ The tables below give the percentage of a certain stat on the amulet having stre
 <td>+22%
 </td></tr>
 <tr>
-<td><b>0.88</b> (880 cogs)
+<td><b>0.88</b>
 </td>
 <td>1.36%
 </td>
@@ -12908,7 +12893,7 @@ The tables below give the percentage of a certain stat on the amulet having stre
 <td>+22%
 </td></tr>
 <tr>
-<td><b>0.9</b> (900 cogs)
+<td><b>0.9</b>
 </td>
 <td>1.33%
 </td>
@@ -12925,7 +12910,7 @@ The tables below give the percentage of a certain stat on the amulet having stre
 <td>+22%
 </td></tr>
 <tr>
-<td><b>0.92</b> (920 cogs)
+<td><b>0.92</b>
 </td>
 <td>1.3%
 </td>
@@ -12942,7 +12927,7 @@ The tables below give the percentage of a certain stat on the amulet having stre
 <td>+22%
 </td></tr>
 <tr>
-<td><b>0.94</b> (940 cogs)
+<td><b>0.94</b>
 </td>
 <td>1.27%
 </td>
@@ -12959,7 +12944,7 @@ The tables below give the percentage of a certain stat on the amulet having stre
 <td>+22%
 </td></tr>
 <tr>
-<td><b>0.96</b> (960 cogs)
+<td><b>0.96</b>
 </td>
 <td>1.24%
 </td>
@@ -12976,7 +12961,7 @@ The tables below give the percentage of a certain stat on the amulet having stre
 <td>+22%
 </td></tr>
 <tr>
-<td><b>0.98</b> (980 cogs)
+<td><b>0.98</b>
 </td>
 <td>1.21%
 </td>
@@ -12993,7 +12978,7 @@ The tables below give the percentage of a certain stat on the amulet having stre
 <td>+22%
 </td></tr>
 <tr>
-<td><b>1</b> (1000+ cogs)
+<td><b>1</b>
 </td>
 <td>1.19%
 </td>
@@ -13034,7 +13019,7 @@ The tables below give the percentage of a certain stat on the amulet having stre
 <th>+75%
 </th></tr>
 <tr>
-<td><b>0.8</b> (800 cogs)
+<td><b>0.8</b>
 </td>
 <td>2.2%
 </td>
@@ -13051,7 +13036,7 @@ The tables below give the percentage of a certain stat on the amulet having stre
 <td>+66%
 </td></tr>
 <tr>
-<td><b>0.82</b> (820 cogs)
+<td><b>0.82</b>
 </td>
 <td>2.14%
 </td>
@@ -13068,7 +13053,7 @@ The tables below give the percentage of a certain stat on the amulet having stre
 <td>+66%
 </td></tr>
 <tr>
-<td><b>0.84</b> (840 cogs)
+<td><b>0.84</b>
 </td>
 <td>2.083%
 </td>
@@ -13085,7 +13070,7 @@ The tables below give the percentage of a certain stat on the amulet having stre
 <td>+67%
 </td></tr>
 <tr>
-<td><b>0.86</b> (860 cogs)
+<td><b>0.86</b>
 </td>
 <td>2.031%
 </td>
@@ -13102,7 +13087,7 @@ The tables below give the percentage of a certain stat on the amulet having stre
 <td>+67%
 </td></tr>
 <tr>
-<td><b>0.88</b> (880 cogs)
+<td><b>0.88</b>
 </td>
 <td>1.98%
 </td>
@@ -13119,7 +13104,7 @@ The tables below give the percentage of a certain stat on the amulet having stre
 <td>+67%
 </td></tr>
 <tr>
-<td><b>0.9</b> (900 cogs)
+<td><b>0.9</b>
 </td>
 <td>1.93%
 </td>
@@ -13136,7 +13121,7 @@ The tables below give the percentage of a certain stat on the amulet having stre
 <td>+67%
 </td></tr>
 <tr>
-<td><b>0.92</b> (920 cogs)
+<td><b>0.92</b>
 </td>
 <td>1.89%
 </td>
@@ -13153,7 +13138,7 @@ The tables below give the percentage of a certain stat on the amulet having stre
 <td>+68%
 </td></tr>
 <tr>
-<td><b>0.94</b> (940 cogs)
+<td><b>0.94</b>
 </td>
 <td>1.85%
 </td>
@@ -13170,7 +13155,7 @@ The tables below give the percentage of a certain stat on the amulet having stre
 <td>+68%
 </td></tr>
 <tr>
-<td><b>0.96</b> (960 cogs)
+<td><b>0.96</b>
 </td>
 <td>1.8%
 </td>
@@ -13187,7 +13172,7 @@ The tables below give the percentage of a certain stat on the amulet having stre
 <td>+68%
 </td></tr>
 <tr>
-<td><b>0.98</b> (980 cogs)
+<td><b>0.98</b>
 </td>
 <td>1.76%
 </td>
@@ -13204,7 +13189,7 @@ The tables below give the percentage of a certain stat on the amulet having stre
 <td>+68%
 </td></tr>
 <tr>
-<td><b>1</b> (1000+ cogs)
+<td><b>1</b>
 </td>
 <td>1.73%
 </td>
@@ -13245,7 +13230,7 @@ The tables below give the percentage of a certain stat on the amulet having stre
 <th>+10%
 </th></tr>
 <tr>
-<td><b>0.8</b> (800 cogs)
+<td><b>0.8</b>
 </td>
 <td>0.65%
 </td>
@@ -13262,7 +13247,7 @@ The tables below give the percentage of a certain stat on the amulet having stre
 <td>+8.3%
 </td></tr>
 <tr>
-<td><b>0.82</b> (820 cogs)
+<td><b>0.82</b>
 </td>
 <td>0.64%
 </td>
@@ -13279,7 +13264,7 @@ The tables below give the percentage of a certain stat on the amulet having stre
 <td>+8.3%
 </td></tr>
 <tr>
-<td><b>0.84</b> (840 cogs)
+<td><b>0.84</b>
 </td>
 <td>0.62%
 </td>
@@ -13296,7 +13281,7 @@ The tables below give the percentage of a certain stat on the amulet having stre
 <td>+8.3%
 </td></tr>
 <tr>
-<td><b>0.86</b> (860 cogs)
+<td><b>0.86</b>
 </td>
 <td>0.61%
 </td>
@@ -13313,7 +13298,7 @@ The tables below give the percentage of a certain stat on the amulet having stre
 <td>+8.4%
 </td></tr>
 <tr>
-<td><b>0.88</b> (880 cogs)
+<td><b>0.88</b>
 </td>
 <td>0.59%
 </td>
@@ -13330,7 +13315,7 @@ The tables below give the percentage of a certain stat on the amulet having stre
 <td>+8.4%
 </td></tr>
 <tr>
-<td><b>0.9</b> (900 cogs)
+<td><b>0.9</b>
 </td>
 <td>0.58%
 </td>
@@ -13347,7 +13332,7 @@ The tables below give the percentage of a certain stat on the amulet having stre
 <td>+8.5%
 </td></tr>
 <tr>
-<td><b>0.92</b> (920 cogs)
+<td><b>0.92</b>
 </td>
 <td>0.56%
 </td>
@@ -13364,7 +13349,7 @@ The tables below give the percentage of a certain stat on the amulet having stre
 <td>+8.6%
 </td></tr>
 <tr>
-<td><b>0.94</b> (940 cogs)
+<td><b>0.94</b>
 </td>
 <td>0.55%
 </td>
@@ -13381,7 +13366,7 @@ The tables below give the percentage of a certain stat on the amulet having stre
 <td>+8.6%
 </td></tr>
 <tr>
-<td><b>0.96</b> (960 cogs)
+<td><b>0.96</b>
 </td>
 <td>0.54%
 </td>
@@ -13398,7 +13383,7 @@ The tables below give the percentage of a certain stat on the amulet having stre
 <td>+8.7%
 </td></tr>
 <tr>
-<td><b>0.98</b> (980 cogs)
+<td><b>0.98</b>
 </td>
 <td>0.53%
 </td>
@@ -13415,7 +13400,7 @@ The tables below give the percentage of a certain stat on the amulet having stre
 <td>+8.7%
 </td></tr>
 <tr>
-<td><b>1</b> (1000+ cogs)
+<td><b>1</b>
 </td>
 <td>0.52%
 </td>
@@ -13448,7 +13433,7 @@ The tables below give the percentage of a certain stat on the amulet having stre
 <th>+5%
 </th></tr>
 <tr>
-<td><b>0.8</b> (800 cogs)
+<td><b>0.8</b>
 </td>
 <td>20.58%
 </td>
@@ -13457,7 +13442,7 @@ The tables below give the percentage of a certain stat on the amulet having stre
 <td>+4.8%
 </td></tr>
 <tr>
-<td><b>0.82</b> (820 cogs)
+<td><b>0.82</b>
 </td>
 <td>19.89%
 </td>
@@ -13466,7 +13451,7 @@ The tables below give the percentage of a certain stat on the amulet having stre
 <td>+4.8%
 </td></tr>
 <tr>
-<td><b>0.84</b> (840 cogs)
+<td><b>0.84</b>
 </td>
 <td>19.25%
 </td>
@@ -13475,7 +13460,7 @@ The tables below give the percentage of a certain stat on the amulet having stre
 <td>+4.8%
 </td></tr>
 <tr>
-<td><b>0.86</b> (860 cogs)
+<td><b>0.86</b>
 </td>
 <td>18.65%
 </td>
@@ -13484,7 +13469,7 @@ The tables below give the percentage of a certain stat on the amulet having stre
 <td>+4.8%
 </td></tr>
 <tr>
-<td><b>0.88</b> (880 cogs)
+<td><b>0.88</b>
 </td>
 <td>18.089%
 </td>
@@ -13493,7 +13478,7 @@ The tables below give the percentage of a certain stat on the amulet having stre
 <td>+4.8%
 </td></tr>
 <tr>
-<td><b>0.9</b> (900 cogs)
+<td><b>0.9</b>
 </td>
 <td>17.56%
 </td>
@@ -13502,7 +13487,7 @@ The tables below give the percentage of a certain stat on the amulet having stre
 <td>+4.8%
 </td></tr>
 <tr>
-<td><b>0.92</b> (920 cogs)
+<td><b>0.92</b>
 </td>
 <td>17.067%
 </td>
@@ -13511,7 +13496,7 @@ The tables below give the percentage of a certain stat on the amulet having stre
 <td>+4.8%
 </td></tr>
 <tr>
-<td><b>0.94</b> (940 cogs)
+<td><b>0.94</b>
 </td>
 <td>16.6%
 </td>
@@ -13520,7 +13505,7 @@ The tables below give the percentage of a certain stat on the amulet having stre
 <td>+4.8%
 </td></tr>
 <tr>
-<td><b>0.96</b> (960 cogs)
+<td><b>0.96</b>
 </td>
 <td>16.16%
 </td>
@@ -13529,7 +13514,7 @@ The tables below give the percentage of a certain stat on the amulet having stre
 <td>+4.8%
 </td></tr>
 <tr>
-<td><b>0.98</b> (980 cogs)
+<td><b>0.98</b>
 </td>
 <td>15.74%
 </td>
@@ -13538,7 +13523,7 @@ The tables below give the percentage of a certain stat on the amulet having stre
 <td>+4.8%
 </td></tr>
 <tr>
-<td><b>1</b> (1000+ cogs)
+<td><b>1</b>
 </td>
 <td>15.34%
 </td>
@@ -13563,7 +13548,7 @@ The tables below give the percentage of a certain stat on the amulet having stre
 <th>+5%
 </th></tr>
 <tr>
-<td><b>0.8</b> (800 cogs)
+<td><b>0.8</b>
 </td>
 <td>20.58%
 </td>
@@ -13572,7 +13557,7 @@ The tables below give the percentage of a certain stat on the amulet having stre
 <td>+4.8%
 </td></tr>
 <tr>
-<td><b>0.82</b> (820 cogs)
+<td><b>0.82</b>
 </td>
 <td>19.89%
 </td>
@@ -13581,7 +13566,7 @@ The tables below give the percentage of a certain stat on the amulet having stre
 <td>+4.8%
 </td></tr>
 <tr>
-<td><b>0.84</b> (840 cogs)
+<td><b>0.84</b>
 </td>
 <td>19.25%
 </td>
@@ -13590,7 +13575,7 @@ The tables below give the percentage of a certain stat on the amulet having stre
 <td>+4.8%
 </td></tr>
 <tr>
-<td><b>0.86</b> (860 cogs)
+<td><b>0.86</b>
 </td>
 <td>18.65%
 </td>
@@ -13599,7 +13584,7 @@ The tables below give the percentage of a certain stat on the amulet having stre
 <td>+4.8%
 </td></tr>
 <tr>
-<td><b>0.88</b> (880 cogs)
+<td><b>0.88</b>
 </td>
 <td>18.089%
 </td>
@@ -13608,7 +13593,7 @@ The tables below give the percentage of a certain stat on the amulet having stre
 <td>+4.8%
 </td></tr>
 <tr>
-<td><b>0.9</b> (900 cogs)
+<td><b>0.9</b>
 </td>
 <td>17.56%
 </td>
@@ -13617,7 +13602,7 @@ The tables below give the percentage of a certain stat on the amulet having stre
 <td>+4.8%
 </td></tr>
 <tr>
-<td><b>0.92</b> (920 cogs)
+<td><b>0.92</b>
 </td>
 <td>17.067%
 </td>
@@ -13626,7 +13611,7 @@ The tables below give the percentage of a certain stat on the amulet having stre
 <td>+4.8%
 </td></tr>
 <tr>
-<td><b>0.94</b> (940 cogs)
+<td><b>0.94</b>
 </td>
 <td>16.6%
 </td>
@@ -13635,7 +13620,7 @@ The tables below give the percentage of a certain stat on the amulet having stre
 <td>+4.8%
 </td></tr>
 <tr>
-<td><b>0.96</b> (960 cogs)
+<td><b>0.96</b>
 </td>
 <td>16.16%
 </td>
@@ -13644,7 +13629,7 @@ The tables below give the percentage of a certain stat on the amulet having stre
 <td>+4.8%
 </td></tr>
 <tr>
-<td><b>0.98</b> (980 cogs)
+<td><b>0.98</b>
 </td>
 <td>15.74%
 </td>
@@ -13653,7 +13638,7 @@ The tables below give the percentage of a certain stat on the amulet having stre
 <td>+4.8%
 </td></tr>
 <tr>
-<td><b>1</b> (1000+ cogs)
+<td><b>1</b>
 </td>
 <td>15.34%
 </td>
@@ -13678,7 +13663,7 @@ The tables below give the percentage of a certain stat on the amulet having stre
 <th>+5%
 </th></tr>
 <tr>
-<td><b>0.8</b> (800 cogs)
+<td><b>0.8</b>
 </td>
 <td>20.58%
 </td>
@@ -13687,7 +13672,7 @@ The tables below give the percentage of a certain stat on the amulet having stre
 <td>+4.8%
 </td></tr>
 <tr>
-<td><b>0.82</b> (820 cogs)
+<td><b>0.82</b>
 </td>
 <td>19.89%
 </td>
@@ -13696,7 +13681,7 @@ The tables below give the percentage of a certain stat on the amulet having stre
 <td>+4.8%
 </td></tr>
 <tr>
-<td><b>0.84</b> (840 cogs)
+<td><b>0.84</b>
 </td>
 <td>19.25%
 </td>
@@ -13705,7 +13690,7 @@ The tables below give the percentage of a certain stat on the amulet having stre
 <td>+4.8%
 </td></tr>
 <tr>
-<td><b>0.86</b> (860 cogs)
+<td><b>0.86</b>
 </td>
 <td>18.65%
 </td>
@@ -13714,7 +13699,7 @@ The tables below give the percentage of a certain stat on the amulet having stre
 <td>+4.8%
 </td></tr>
 <tr>
-<td><b>0.88</b> (880 cogs)
+<td><b>0.88</b>
 </td>
 <td>18.089%
 </td>
@@ -13723,7 +13708,7 @@ The tables below give the percentage of a certain stat on the amulet having stre
 <td>+4.8%
 </td></tr>
 <tr>
-<td><b>0.9</b> (900 cogs)
+<td><b>0.9</b>
 </td>
 <td>17.56%
 </td>
@@ -13732,7 +13717,7 @@ The tables below give the percentage of a certain stat on the amulet having stre
 <td>+4.8%
 </td></tr>
 <tr>
-<td><b>0.92</b> (920 cogs)
+<td><b>0.92</b>
 </td>
 <td>17.067%
 </td>
@@ -13741,7 +13726,7 @@ The tables below give the percentage of a certain stat on the amulet having stre
 <td>+4.8%
 </td></tr>
 <tr>
-<td><b>0.94</b> (940 cogs)
+<td><b>0.94</b>
 </td>
 <td>16.6%
 </td>
@@ -13750,7 +13735,7 @@ The tables below give the percentage of a certain stat on the amulet having stre
 <td>+4.8%
 </td></tr>
 <tr>
-<td><b>0.96</b> (960 cogs)
+<td><b>0.96</b>
 </td>
 <td>16.16%
 </td>
@@ -13759,7 +13744,7 @@ The tables below give the percentage of a certain stat on the amulet having stre
 <td>+4.8%
 </td></tr>
 <tr>
-<td><b>0.98</b> (980 cogs)
+<td><b>0.98</b>
 </td>
 <td>15.74%
 </td>
@@ -13768,7 +13753,7 @@ The tables below give the percentage of a certain stat on the amulet having stre
 <td>+4.8%
 </td></tr>
 <tr>
-<td><b>1</b> (1000+ cogs)
+<td><b>1</b>
 </td>
 <td>15.34%
 </td>
@@ -13784,10 +13769,6 @@ The tables below give the percentage of a certain stat on the amulet having stre
 * The Cog Amulet is the only amulet that unlocks items in a [shop](shops.md).
 * The Cog Amulet is the only amulet to boost [Nectar](nectar.md).
   * It is also the only amulet to boost Super-Crit Power, Event Bee Ability Pollen, Mark Ability Pollen, [Flame Pollen](flame.md#Flame_Pollen), and [Bubble Pollen](bubble.md#Bubble_Pollen).
-
-## References
-
-1. ↑ [[1]](https://discord.com/channels/427553293862961153/676148494276362260/1053607248351465482) Discord message from Onett.
 
 <table class="mw-collapsible autocollapse" style="margin:auto; background:#000; font-size: 10pt; border:5px solid #56CB5A; width: 100%; border-radius: 20px; -moz-border-radius: 20px; -webkit-border-radius: 20px; -khtml-border-radius: 20px; -icab-border-radius: 20px; -o-border-radius: 20px;">
 <tbody><tr>

@@ -5,257 +5,147 @@ tags: ["Inventory", "Items", "Planter", "Consumables"]
 
 # Sticker Planter
 
-![Sticker Planter](img/Sticker_Planter.png){ align=right width=150 }
+<div class="planter-infobox">
+<div class="planter-infobox-title">Sticker Planter</div>
+<div class="planter-infobox-image"><img alt="Sticker Planter" src="img/Sticker_Planter.png" width="150"></div>
+<div class="planter-infobox-quote"><i>"Grows in about 3 hours of playtime. Always grants some Stickers and spawns a Puffshroom (Rare+)!"</i></div>
+<div class="planter-infobox-header">Stats</div>
+<div class="planter-stats">
+<div class="planter-stat planter-stat-wide"><b>Cost</b><span>Not sold in shops</span></div>
+<div class="planter-stat"><b>Reusable</b><span>No</span></div>
+<div class="planter-stat"><b>Inventory cap</b><span>25</span></div>
+<div class="planter-stat"><b>Shop limit</b><span>-</span></div>
+<div class="planter-stat"><b>Grow time</b><span>3 hours</span></div>
+<div class="planter-stat planter-stat-wide"><b>Grows faster</b><span>None</span></div>
+<div class="planter-stat planter-stat-wide"><b>Pollen bonus</b><span>None</span></div>
+<div class="planter-stat planter-stat-wide"><b>Nectar</b><span class="planter-chips"><span class="planter-chip">x2 all Nectar</span></span></div>
+<div class="planter-stat"><b>Pollen capacity</b><span>200,000</span></div>
+<div class="planter-stat"><b>Item tokens</b><span>50</span></div>
+<div class="planter-stat"><b>Puffshroom chance</b><span>100%</span></div>
+<div class="planter-stat"><b>Puffshroom level</b><span>5 to 7</span></div>
+<div class="planter-stat planter-stat-wide"><b>Guaranteed items</b><span class="planter-chips"><span class="planter-chip"><img alt="" src="img/Ticket.png" width="20" height="20"><b>3</b> <a href="ticket.html">Ticket</a></span><span class="planter-chip"><img alt="" src="img/Smooth_Dice.png" width="20" height="20"><b>1</b> <a href="smooth-dice.html">Smooth Dice</a></span><span class="planter-chip"><img alt="" src="img/Neonberry.png" width="20" height="20"><b>1</b> <a href="neonberry.html">Neonberry</a></span><span class="planter-chip"><img alt="" src="img/Soft_Wax.png" width="20" height="20"><b>1</b> <a href="soft-wax.html">Soft Wax</a></span><span class="planter-chip"><img alt="" src="img/Whirligig.png" width="20" height="20"><b>1</b> <a href="whirligig.html">Whirligig</a></span></span></div>
+</div>
+</div>
 
-This piece of content contains information obtained through datamining.
+The **Sticker Planter** is a single-use [planter](planter.md) added in the 2024-01-12 update. Alone, it grows in about 3 hours of playtime and stores 200,000 [pollen](pollen.md). A player can store up to 25 Sticker Planters at a time, and up to 3 planters can be planted at once.
 
-Due to the nature of the information, details may be inaccurate or outdated.
+## Growth, pollen and nectar
 
-Datamined information:
+* Grows in 3 hours of playtime.
+* [Glitter](glitter.md) used in its field speeds it up: x1.5 for one, rising in halving steps up to x2 at 6 stacks. The stacks stay on the planter until it is harvested.
+* Holds 200,000 [pollen](pollen.md) at full growth. A harvest gives capacity × growth × pollen bonus. It has no pollen bonus.
+* [Nectar](nectar.md) multipliers: x2 Satisfying, x2 Comforting, x2 Invigorating, x2 Motivating, x2 Refreshing. On harvest it gives one Nectar type from its field, lasting grow time × growth × multiplier × 3 seconds.
+* Up to 3 bees can sip from it at once.
 
-* Some of the planter's stats are corrected from the in-game description.
-* The probability of the planter spawning a puffshroom, and the probability of that puffshroom being a certain rarity.
-* How the planter generates its loot. — December 19th, 2024
+## Puffshrooms
 
-This content contains assumptions.
+When it reaches 95% growth, it always smoke and spawn 3 [Puffshrooms](puffshroom.md) (one at the planter and two nearby) at levels 5 to 7.
 
-Though the precise details may be inaccurate, most information comes from great testing and supported assumptions.
+Rarity odds:
 
-Assumptions made: How the planter generates its loot is unclear with only the datamined information. Some information has been verified (the number of tokens it spawns and the guaranteed items), but the rest are assumptions.
-
-Sticker Planter
-
-*"Grows in about 3 hours of playtime. Always grants some Stickers and spawns a Puffshroom (Rare+)!*"
-
-REUSABLE?
-
-No
-
-CAP
-
-25
-
-COST
-
-100 Robux
-
-GROW TIME
-
-~3 hours
-
-GROW TIME BONUS
-
--
-
-POLLEN CAPACITY
-
-200,000 Pollen
-
-POLLEN MULTIPLIER
-
--
-
-NECTAR MULTIPLIER
-
-x2 Refreshing  
-
-x2 Comforting  
-x2 Satisfying  
-x2 Motivating  
-x2 Invigorating
-
-BONUS ITEMS
-
-Stickers
-
-The **Sticker Planter** is a single-use [planter](planter.md) added in the 2024-01-12 update. Alone, it grows in about 3 hours of playtime and stores 200,000 [pollen](pollen.md). A player can store up to 25 Sticker Planters at a time, but only 1 can be active.
-
-It does not have any growth nor pollen multipliers, and grants x2 [nectar](nectar.md).
-
-Harvesting a fully grown Sticker Planter is guaranteed to spawn a [Puffshroom](puffshroom.md). The spawned puffshroom is between levels 5–7, and has a:
-
-* ~89.28% chance of being a Rare Puffshroom,
-* ~17.86% chance of being an Epic Puffshroom,
-* ~0.89% chance of being a Legendary Puffshroom,
-* ~0.01% chance of being a Mythic Puffshroom.
+* Rare 80%
+* Epic 19%
+* Legendary 0.99%
+* Mythic 0.01%
 
 ## Drops
 
-When claimed, the planter gives up to 50 tokens worth of items. If the planter was fully grown when claimed, 10 of the tokens are guaranteed:
+A full harvest gives 50 item tokens. Harvesting early gives fewer, in proportion to growth, but always at least 1. Tokens are filled in this order: guaranteed items (full harvests only), then field rules, then random picks from the pool below.
 
-* 5 of them are 3 [Tickets](ticket.md), 1 [Smooth Dice](smooth-dice.md), 1 [Neonberry](neonberry.md), 1 [Soft Wax](soft-wax.md) and 1 [Whirligig](whirligig.md).
-* 3 of them are guaranteed to be from the following list:
+### Guaranteed
 
-<table class="article-table mw-collapsible mw-collapsed" style="width:auto">
-<caption>
-</caption>
-<tbody><tr>
-<td>
-<ul><li>1 Simple Sun Sticker (~6.67%)</li>
-<li>1 Colorful Buttons Sticker (~6.67%)</li>
-<li>1 Rubber Duck Sticker (~13.33%)</li>
-<li>1 Yellow Coffee Mug Sticker (~13.33%)</li>
-<li>1 Green Plus Sign Sticker (~13.33%)</li>
-<li>1 Green Check Mark Sticker (~13.33%)</li>
-<li>1 Window Sticker (~3.33%)</li>
-<li>1 Giraffe Sticker (~3.33%)</li>
-<li>1 Simple Skyscraper Sticker (~3.33%)</li>
-<li>1 Launching Rocket Sticker (~3.33%)</li>
-<li>1 Red X Sticker (~3.33%)</li>
-<li>1 Yellow Hi Sticker (~3.33%)</li>
-<li>1 Happy Fish Sticker (~3.33%)</li>
-<li>1 Green SELL Sticker (~3.33%)</li>
-<li>1 Coiled Snake Sticker (~3.33%)</li>
-<li>1 Alert Icon Sticker (~3.33%)</li></ul>
-</td></tr></tbody></table>
+On every full harvest:
 
-* 2 of them are guaranteed to be from the following list:
+* <img alt="" src="img/Ticket.png" width="20" height="20"> <b>3</b> <a href="ticket.html">Ticket</a>
+* <img alt="" src="img/Smooth_Dice.png" width="20" height="20"> <b>1</b> <a href="smooth-dice.html">Smooth Dice</a>
+* <img alt="" src="img/Neonberry.png" width="20" height="20"> <b>1</b> <a href="neonberry.html">Neonberry</a>
+* <img alt="" src="img/Soft_Wax.png" width="20" height="20"> <b>1</b> <a href="soft-wax.html">Soft Wax</a>
+* <img alt="" src="img/Whirligig.png" width="20" height="20"> <b>1</b> <a href="whirligig.html">Whirligig</a>
 
-<table class="article-table mw-collapsible mw-collapsed" style="width:auto">
-<caption>
-</caption>
-<tbody><tr>
-<td>
-<ul><li>1 Window Sticker (~7.58%)</li>
-<li>1 Giraffe Sticker (~7.58%)</li>
-<li>1 Simple Skyscraper Sticker (~7.58%)</li>
-<li>1 Launching Rocket Sticker (~7.58%)</li>
-<li>1 Red X Sticker (~7.58%)</li>
-<li>1 Yellow Hi Sticker (~7.58%)</li>
-<li>1 Colorful Buttons Sticker (~7.58%)</li>
-<li>1 Happy Fish Sticker (~7.58%)</li>
-<li>1 Green SELL Sticker (~7.58%)</li>
-<li>1 Coiled Snake Sticker (~7.58%)</li>
-<li>1 Simple Sun Sticker (~7.58%)</li>
-<li>1 Alert Icon Sticker (~7.58%)</li>
-<li>1 White Flag Sticker (~2.5%)</li>
-<li>1 Shining Halo Sticker (~2.5%)</li>
-<li>1 Pink Chair Sticker (~2.5%)</li>
-<li>1 Blue And Green Marble Sticker (~1.52%)</li>
-<li>1 Yellow Swirled Marble Sticker (~1.52%)</li>
-<li>1 Orange Swirled Marble Sticker (~1.52%)</li>
-<li>1 Blob Bumble Bee Sticker (~0.38%)</li>
-<li>1 Round Rascal Bee Sticker (~0.38%)</li>
-<li>1 Purple Fleuron Sticker (~0.15%)</li>
-<li>1 Auryn Sticker (~0.08%)</li>
-<li><img alt="Offline Voucher" height="25" src="img/Offline_Voucher.png" width="25"/>1 <a href="sticker.html#Sticker_Index"><span class="color-template color-template-offline-voucher color-template-background-clip">Offline Voucher</span></a> (~0.04%)</li></ul>
-</td></tr></tbody></table>
+### Field rules
 
-The others are picked randomly from the following, non-exhaustive list (note that the list does not include rewards based on the [field](fields.md) the planter is in, which also drops 25% more often for the planter):
+* Every full harvest adds 3 stickers from a common table and 2 from a rarer one. The rarer one includes Purple Fleuron (weight 0.02), Auryn (0.01) and Offline Voucher (0.005).
+* Each field adds its own stickers to the pool, mostly leaf stickers (for example Lyrate Leaf in Clover, Morel Mushroom on Mountain Top, Shiitake Mushroom in Mushroom). Coconuts are added in Mountain Top, Spider, Pepper, Coconut and Stump.
 
-### Stickers
+### Random items
 
-<table class="article-table">
-<tbody><tr>
-<td>Standing Caterpillar (Pineapple Patch)<br/>
-<p>Green Plus Sign<br/>
-Green Check Mark<br/>
-Simple Sun<br/>
-Rubber Duck<br/>
-Baseball Swing<br/>
-Yellow Coffee Mug<br/>
-Launching Rocket<br/>
-Colorful Buttons<br/>
-Yellow Umbrella<br/>
-Window (Uncommon)<br/>
-Simple Skyscraper (Uncommon)<br/>
-Giraffe (Uncommon)<br/>
-Wishbone (Uncommon)<br/>
-Young Elf (Cactus Field) (Uncommon)<br/>
-Red X (Rare)<br/>
-Simple Mountain (Mountain Top Field) (Rare)<br/>
-White Flag (Spider Field) (Rare)<br/>
-Yellow Hi (Rare)<br/>
-Green Circle (Rare)<br/>
-Happy Fish (Very Rare)<br/>
-Coiled Snake (Very Rare)<br/>
-Green SELL (Very Rare)<br/>
-Lightning (Very Rare)<br/>
-Blue Square (Very Rare)<br/>
-Prehistoric Hand (35 Bee Zone) (Very Rare)<br/>
-Prehistoric Boar (35 Bee Zone) (Very Rare)<br/>
-White Button Mushroom (5 Bee Zone) (Very Rare)<br/>
-Fly Agaric Mushroom (Starter Zone) (Very Rare)<br/>
-Porcini Mushroom (15 Bee Zone) (Very Rare)<br/>
-Oiler Mushroom (10 Bee Zone) (Very Rare)<br/>
-Chanterelle Mushroom (35 Bee Zone) (Very Rare)<br/>
-Cordate Leaf (Sunflower Field or Rose Field) (Very Rare)<br/>
-Cunate Leaf (Strawberry Field or Pumpkin Patch) (Very Rare)<br/>
-Elliptic Leaf (Blue Flower Field or Pine Tree Forest) (Very Rare)<br/>
-Hastate Leaf (Spider Field or Pepper Patch) (Very Rare)<br/>
-Lanceolate Leaf (Dandelion Field or Bamboo Field) (Very Rare)<br/>
-Lyrate Leaf (Clover Field or Mountain Top Field) (Very Rare)<br/>
-Oblique Leaf (Coconut Field) (Very Rare)<br/>
-Rhomboid Leaf (Cactus Field or Stump Field) (Very Rare)<br/>
-Reniform Leaf (Mushroom Field or Stump Field) (Very Rare)<br/>
-Spatulate Leaf (Pineapple Patch or Pine Tree Forest) (Very Rare)<br/>
-Flying Rad Bee (Extremely Rare)<br/>
-Flying Ninja Bee (Extremely Rare)<br/>
-Flying Brave Bee (Extremely Rare)<br/>
-Drooping Stubborn Bee (Extremely Rare)<br/>
-Shocked Hive Slot (Extremely Rare)<br/>
-Honey Bee Bear (Extremely Rare)<br/>
-Bomber Bee Bear (Extremely Rare)<br/>
-Squashed Head Bear (Extremely Rare)<br/>
-Stretched Head Bear (Extremely Rare)<br/>
-Small Blue Chick (Extremely Rare)<br/>
-Alert Icon (Extremely Rare)<br/>
-Red Palm Hand (Extremely Rare)<br/>
-Pink Chair (Extremely Rare)<br/>
-Shining Halo (Extremely Rare)<br/>
-Ionic Column Middle (5 Bee Zone) (Extremely Rare)<br/>
-Orange Step Array (Extremely Rare)<br/>
-Orange Green Tri Deco (Extremely Rare)<br/>
-Morel Mushroom (Mountain Top Field) (Extremely Rare)<br/>
-Shiitake Mushroom (Starter Zone or 10 Bee Zone) (Extremely Rare)<br/>
-Flying Photon Bee (Unbelievably Rare)<br/>
-Blob Bumble Bee (Unbelievably Rare)<br/>
-Round Rascal Bee (Unbelievably Rare)<br/>
-Diamond Diamond Bee (Unbelievably Rare)<br/>
-Bear Bee Offer (Unbelievably Rare)<br/>
-Tabby From Behind (Unbelievably Rare)<br/>
-AFK (Unbelievably Rare)<br/>
-Triple Exclamation (Unbelievably Rare)<br/>
-Eighth Note (Unbelievably Rare)<br/>
-Standing Beekeeper (Unbelievably Rare)<br/>
-Black Diamond (Unbelievably Rare)<br/>
-Pearl Girl (Unbelievably Rare)<br/>
-Abstract Color Painting (Unbelievably Rare)<br/>
-Ionic Column Top (15 Bee Zone) (Unbelievably Rare)<br/>
-Ionic Column Base (Starter Zone) (Unbelievably Rare)<br/>
-Orange Swirled Marble (Unbelievably Rare)<br/>
-Blue And Green Marble (Unbelievably Rare)<br/>
-Cyan Decorative Border (Unbelievably Rare)<br/>
-Purple Fleuron (Unbelievably Rare)<br/>
-Round Basic Bee (Unfathomably Rare)<br/>
-Auryn (Unfathomably Rare)<br/>
-Offline Voucher(Unfathomably Rare)<br/>
-</p>
-</td></tr></tbody></table>
+"Chance per token" is the chance that one random token is that item, before any field extras.
 
-### Other Drops
-
-<table class="article-table">
-<tbody><tr>
-<td><img alt="Ticket" height="35" src="img/Ticket.png" width="35"/><a href="ticket.html"><span class="color-template color-template-ticket color-template-background-clip">Tickets</span></a><br/>
-<p><img alt="Soft Wax" height="35" src="img/Soft_Wax.png" width="35"/><a href="soft-wax.html"><span class="color-template color-template-soft-wax">Soft Waxes</span></a><br/>
-<img alt="Field Dice" height="35" src="img/Field_Dice.png" width="35"/><a href="field-dice.html"><span class="color-template color-template-field-dice color-template-background-clip">Field Dice</span></a><br/>
-<img alt="Treat" height="35" src="img/Treat.png" width="35"/><a href="treat.html"><span class="color-template color-template-treat">Treats</span></a><br/>
-<img alt="Gumdrops" height="35" src="img/Gumdrops.png" width="35"/><a href="gumdrops.html"><span class="color-template color-template-gumdrops color-template-background-clip">Gumdrops</span></a><br/>
-<img alt="Sunflower Seed" height="35" src="img/Sunflower_Seed.png" width="35"/><a href="sunflower-seed.html"><span class="color-template color-template-sunflower-seed color-template-background-clip">Sunflower Seeds</span></a><br/>
-<img alt="Strawberry" height="35" src="img/Strawberry.png" width="35"/><a href="strawberry.html"><span class="color-template color-template-strawberry color-template-background-clip">Strawberries</span></a><br/>
-<img alt="Pineapple" height="35" src="img/Pineapple.png" width="35"/><a href="pineapple.html"><span class="color-template color-template-pineapple color-template-background-clip">Pineapples</span></a><br/>
-<img alt="Blueberry" height="35" src="img/Blueberry.png" width="35"/><a href="blueberry.html"><span class="color-template color-template-blueberry color-template-background-clip">Blueberries</span></a><br/>
-<img alt="Smooth Dice" height="35" src="img/Smooth_Dice.png" width="35"/><a href="smooth-dice.html"><span class="color-template color-template-smooth-dice color-template-background-clip">Smooth Dice</span></a><br/>
-<img alt="Cloud Vial" height="35" src="img/Cloud_Vial.png" width="35"/><a href="cloud-vial.html"><span class="color-template color-template-cloud-vial color-template-background-clip">Cloud Vials</span></a><br/>
-<img alt="Coconut" height="35" src="img/Coconut.png" width="35"/><a href="coconut.html"><span class="color-template color-template-coconut color-template-background-clip">Coconuts</span></a> (Exclusive in 35 bee zone fields)<br/>
-<img alt="Neonberry" height="35" src="img/Neonberry.png" width="35"/><a href="neonberry.html"><span class="color-template color-template-neonberry color-template-background-clip">Neonberries</span></a><br/>
-<img alt="Star Jelly" height="35" src="img/Star_Jelly.png" width="35"/><a href="royal-jelly.html#Star_Jelly"><span class="color-template color-template-star-jelly color-template-background-clip">Star Jelly</span></a> (Rare)<br/>
-<img alt="Purple Potion" height="35" src="img/Purple_Potion.png" width="35"/><a href="purple-potion.html"><span class="color-template color-template-purple-potion color-template-background-clip">Purple Potion</span></a> (Rare)<br/>
-<img alt="Super Smoothie" height="35" src="img/Super_Smoothie.png" width="35"/><a href="super-smoothie.html"><span class="color-template color-template-super-smoothie color-template-background-clip">Super Smoothie</span></a> (Rare)<br/>
-<img alt="Turpentine" height="35" src="img/Turpentine.png" width="35"/><a href="turpentine.html"><span class="color-template color-template-turpentine color-template-background-clip">Turpentine</span></a> (Extremely Rare)
-</p>
-</td></tr></tbody></table>
+| Item | Amount (one picked at random) | Chance per token |
+|---|---|---|
+| <img alt="" src="img/Sticker.png" width="20" height="20"> <a href="sticker.html">Green Plus Sign</a> <small>(sticker)</small> | 1 | 7.4% |
+| <img alt="" src="img/Sticker.png" width="20" height="20"> <a href="sticker.html">Green Check Mark</a> <small>(sticker)</small> | 1 | 7.4% |
+| <img alt="" src="img/Sticker.png" width="20" height="20"> <a href="sticker.html">Simple Sun</a> <small>(sticker)</small> | 1 | 7.4% |
+| <img alt="" src="img/Sticker.png" width="20" height="20"> <a href="sticker.html">Rubber Duck</a> <small>(sticker)</small> | 1 | 7.4% |
+| <img alt="" src="img/Sticker.png" width="20" height="20"> <a href="sticker.html">Baseball Swing</a> <small>(sticker)</small> | 1 | 7.4% |
+| <img alt="" src="img/Sticker.png" width="20" height="20"> <a href="sticker.html">Yellow Coffee Mug</a> <small>(sticker)</small> | 1 | 7.4% |
+| <img alt="" src="img/Treat.png" width="20" height="20"> <a href="treat.html">Treat</a> | 25 / 50 / 100 | 5.2% |
+| <img alt="" src="img/Sunflower_Seed.png" width="20" height="20"> <a href="sunflower-seed.html">Sunflower Seed</a> | 1 / 3 / 5 / 10 | 5.2% |
+| <img alt="" src="img/Strawberry.png" width="20" height="20"> <a href="strawberry.html">Strawberry</a> | 1 / 3 / 5 / 10 | 5.2% |
+| <img alt="" src="img/Pineapple.png" width="20" height="20"> <a href="pineapple.html">Pineapple</a> | 1 / 3 / 5 / 10 | 5.2% |
+| <img alt="" src="img/Blueberry.png" width="20" height="20"> <a href="blueberry.html">Blueberry</a> | 1 / 3 / 5 / 10 | 5.2% |
+| <img alt="" src="img/Sticker.png" width="20" height="20"> <a href="sticker.html">Launching Rocket</a> <small>(sticker)</small> | 1 | 2.2% |
+| <img alt="" src="img/Sticker.png" width="20" height="20"> <a href="sticker.html">Colorful Buttons</a> <small>(sticker)</small> | 1 | 2.2% |
+| <img alt="" src="img/Sticker.png" width="20" height="20"> <a href="sticker.html">Yellow Umbrella</a> <small>(sticker)</small> | 1 | 2.2% |
+| <img alt="" src="img/Sticker.png" width="20" height="20"> <a href="sticker.html">Window</a> <small>(sticker)</small> | 1 | 2.2% |
+| <img alt="" src="img/Sticker.png" width="20" height="20"> <a href="sticker.html">Simple Skyscraper</a> <small>(sticker)</small> | 1 | 2.2% |
+| <img alt="" src="img/Sticker.png" width="20" height="20"> <a href="sticker.html">Giraffe</a> <small>(sticker)</small> | 1 | 2.2% |
+| <img alt="" src="img/Sticker.png" width="20" height="20"> <a href="sticker.html">Wishbone</a> <small>(sticker)</small> | 1 | 2.2% |
+| <img alt="" src="img/Ticket.png" width="20" height="20"> <a href="ticket.html">Ticket</a> | 1 / 3 / 5 | 2.2% |
+| <img alt="" src="img/Soft_Wax.png" width="20" height="20"> <a href="soft-wax.html">Soft Wax</a> | 1 | 2.2% |
+| <img alt="" src="img/Field_Dice.png" width="20" height="20"> <a href="field-dice.html">Field Dice</a> | 1 | 2.2% |
+| <img alt="" src="img/Gumdrops.png" width="20" height="20"> <a href="gumdrops.html">Gumdrops</a> | 1 / 3 / 5 | 2.2% |
+| <img alt="" src="img/Sticker.png" width="20" height="20"> <a href="sticker.html">Red X</a> <small>(sticker)</small> | 1 | 0.59% |
+| <img alt="" src="img/Sticker.png" width="20" height="20"> <a href="sticker.html">Yellow Hi</a> <small>(sticker)</small> | 1 | 0.59% |
+| <img alt="" src="img/Sticker.png" width="20" height="20"> <a href="sticker.html">Green Circle</a> <small>(sticker)</small> | 1 | 0.59% |
+| <img alt="" src="img/Smooth_Dice.png" width="20" height="20"> <a href="smooth-dice.html">Smooth Dice</a> | 1 | 0.59% |
+| <img alt="" src="img/Cloud_Vial.png" width="20" height="20"> <a href="cloud-vial.html">Cloud Vial</a> | 1 | 0.59% |
+| <img alt="" src="img/Neonberry.png" width="20" height="20"> <a href="neonberry.html">Neonberry</a> | 1 | 0.59% |
+| <img alt="" src="img/Sticker.png" width="20" height="20"> <a href="sticker.html">Happy Fish</a> <small>(sticker)</small> | 1 | 0.17% |
+| <img alt="" src="img/Sticker.png" width="20" height="20"> <a href="sticker.html">Coiled Snake</a> <small>(sticker)</small> | 1 | 0.17% |
+| <img alt="" src="img/Sticker.png" width="20" height="20"> <a href="sticker.html">Green SELL</a> <small>(sticker)</small> | 1 | 0.17% |
+| <img alt="" src="img/Sticker.png" width="20" height="20"> <a href="sticker.html">Lightning</a> <small>(sticker)</small> | 1 | 0.17% |
+| <img alt="" src="img/Sticker.png" width="20" height="20"> <a href="sticker.html">Blue Square</a> <small>(sticker)</small> | 1 | 0.17% |
+| <img alt="" src="img/Star_Jelly.png" width="20" height="20"> <a href="royal-jelly.html">Star Jelly</a> | 1 | 0.17% |
+| <img alt="" src="img/Purple_Potion.png" width="20" height="20"> <a href="purple-potion.html">Purple Potion</a> | 1 | 0.17% |
+| <img alt="" src="img/Super_Smoothie.png" width="20" height="20"> <a href="super-smoothie.html">Super Smoothie</a> | 1 | 0.17% |
+| <img alt="" src="img/Sticker.png" width="20" height="20"> <a href="sticker.html">Flying Rad Bee</a> <small>(sticker)</small> | 1 | 0.05% |
+| <img alt="" src="img/Sticker.png" width="20" height="20"> <a href="sticker.html">Flying Ninja Bee</a> <small>(sticker)</small> | 1 | 0.05% |
+| <img alt="" src="img/Sticker.png" width="20" height="20"> <a href="sticker.html">Flying Brave Bee</a> <small>(sticker)</small> | 1 | 0.05% |
+| <img alt="" src="img/Sticker.png" width="20" height="20"> <a href="sticker.html">Drooping Stubborn Bee</a> <small>(sticker)</small> | 1 | 0.05% |
+| <img alt="" src="img/Sticker.png" width="20" height="20"> <a href="sticker.html">Shocked Hive Slot</a> <small>(sticker)</small> | 1 | 0.05% |
+| <img alt="" src="img/Sticker.png" width="20" height="20"> <a href="sticker.html">Honey Bee Bear</a> <small>(sticker)</small> | 1 | 0.05% |
+| <img alt="" src="img/Sticker.png" width="20" height="20"> <a href="sticker.html">Bomber Bee Bear</a> <small>(sticker)</small> | 1 | 0.05% |
+| <img alt="" src="img/Sticker.png" width="20" height="20"> <a href="sticker.html">Squashed Head Bear</a> <small>(sticker)</small> | 1 | 0.05% |
+| <img alt="" src="img/Sticker.png" width="20" height="20"> <a href="sticker.html">Stretched Head Bear</a> <small>(sticker)</small> | 1 | 0.05% |
+| <img alt="" src="img/Sticker.png" width="20" height="20"> <a href="sticker.html">Small Blue Chick</a> <small>(sticker)</small> | 1 | 0.05% |
+| <img alt="" src="img/Sticker.png" width="20" height="20"> <a href="sticker.html">Alert Icon</a> <small>(sticker)</small> | 1 | 0.05% |
+| <img alt="" src="img/Sticker.png" width="20" height="20"> <a href="sticker.html">Red Palm Hand</a> <small>(sticker)</small> | 1 | 0.05% |
+| <img alt="" src="img/Sticker.png" width="20" height="20"> <a href="sticker.html">Pink Chair</a> <small>(sticker)</small> | 1 | 0.05% |
+| <img alt="" src="img/Sticker.png" width="20" height="20"> <a href="sticker.html">Shining Halo</a> <small>(sticker)</small> | 1 | 0.05% |
+| <img alt="" src="img/Sticker.png" width="20" height="20"> <a href="sticker.html">Orange Step Array</a> <small>(sticker)</small> | 1 | 0.05% |
+| <img alt="" src="img/Sticker.png" width="20" height="20"> <a href="sticker.html">Orange Green Tri Deco</a> <small>(sticker)</small> | 1 | 0.05% |
+| <img alt="" src="img/Turpentine.png" width="20" height="20"> <a href="turpentine.html">Turpentine</a> | 1 | 0.01% |
+| <img alt="" src="img/Sticker.png" width="20" height="20"> <a href="sticker.html">Round Basic Bee</a> <small>(sticker)</small> | 1 | 1 in 113,060 |
+| <img alt="" src="img/Sticker.png" width="20" height="20"> <a href="sticker.html">Auryn</a> <small>(sticker)</small> | 1 | 1 in 113,060 |
+| <img alt="" src="img/Sticker.png" width="20" height="20"> <a href="sticker.html">Offline Voucher</a> <small>(sticker)</small> | 1 | 1 in 113,060 |
+| <img alt="" src="img/Sticker.png" width="20" height="20"> <a href="sticker.html">Flying Photon Bee</a> <small>(sticker)</small> | 1 | 1 in 226,120 |
+| <img alt="" src="img/Sticker.png" width="20" height="20"> <a href="sticker.html">Blob Bumble Bee</a> <small>(sticker)</small> | 1 | 1 in 226,120 |
+| <img alt="" src="img/Sticker.png" width="20" height="20"> <a href="sticker.html">Round Rascal Bee</a> <small>(sticker)</small> | 1 | 1 in 226,120 |
+| <img alt="" src="img/Sticker.png" width="20" height="20"> <a href="sticker.html">Diamond Diamond Bee</a> <small>(sticker)</small> | 1 | 1 in 226,120 |
+| <img alt="" src="img/Sticker.png" width="20" height="20"> <a href="sticker.html">Bear Bee Offer</a> <small>(sticker)</small> | 1 | 1 in 226,120 |
+| <img alt="" src="img/Sticker.png" width="20" height="20"> <a href="sticker.html">Tabby From Behind</a> <small>(sticker)</small> | 1 | 1 in 226,120 |
+| <img alt="" src="img/Sticker.png" width="20" height="20"> <a href="sticker.html">AFK</a> <small>(sticker)</small> | 1 | 1 in 226,120 |
+| <img alt="" src="img/Sticker.png" width="20" height="20"> <a href="sticker.html">Triple Exclamation</a> <small>(sticker)</small> | 1 | 1 in 226,120 |
+| <img alt="" src="img/Sticker.png" width="20" height="20"> <a href="sticker.html">Eighth Note</a> <small>(sticker)</small> | 1 | 1 in 226,120 |
+| <img alt="" src="img/Sticker.png" width="20" height="20"> <a href="sticker.html">Standing Beekeeper</a> <small>(sticker)</small> | 1 | 1 in 226,120 |
+| <img alt="" src="img/Sticker.png" width="20" height="20"> <a href="sticker.html">Black Diamond</a> <small>(sticker)</small> | 1 | 1 in 226,120 |
+| <img alt="" src="img/Sticker.png" width="20" height="20"> <a href="sticker.html">Pearl Girl</a> <small>(sticker)</small> | 1 | 1 in 226,120 |
+| <img alt="" src="img/Sticker.png" width="20" height="20"> <a href="sticker.html">Abstract Color Painting</a> <small>(sticker)</small> | 1 | 1 in 226,120 |
+| <img alt="" src="img/Sticker.png" width="20" height="20"> <a href="sticker.html">Orange Swirled Marble</a> <small>(sticker)</small> | 1 | 1 in 226,120 |
+| <img alt="" src="img/Sticker.png" width="20" height="20"> <a href="sticker.html">Blue And Green Marble</a> <small>(sticker)</small> | 1 | 1 in 226,120 |
+| <img alt="" src="img/Sticker.png" width="20" height="20"> <a href="sticker.html">Cyan Decorative Border</a> <small>(sticker)</small> | 1 | 1 in 226,120 |
+| <img alt="" src="img/Sticker.png" width="20" height="20"> <a href="sticker.html">Purple Fleuron</a> <small>(sticker)</small> | 1 | 1 in 226,120 |
 
 ## Ways To Obtain
 
@@ -278,7 +168,7 @@ Offline Voucher(Unfathomably Rare)<br/>
   * They also share the same outline for their decals.
 * It is tied with the Ticket Planter for the second-best Nectar multiplier in the game, behind the [Festive Planter](festive-planter.md) at x3.
 * It is one of four single-use planters in the game, the others being the Festive Planter, the Ticket Planter and the Paper Planter.
-* This and the Ticket Planter are the only planters that will always spawn a [Puffshroom](puffshroom.md) at full growth.
+* This and the Ticket Planter are the only planters that will always spawn [Puffshrooms](puffshroom.md) while growing.
   * Additionally, this is the only planter to always spawn at least a Rare Puffshroom.
 
 <table class="mw-collapsible mw-collapsed NavTable">

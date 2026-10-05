@@ -5,26 +5,11 @@ tags: ["Amulet", "Stick Bug Challenge", "Accessories"]
 
 # Stick Bug Amulet
 
-This piece of content contains information obtained through datamining.
-
-Due to the nature of the information, details may be inaccurate or outdated.
-
-Datamined information: Stick Bug Amulet's possible stats and relevant information. — December 19th, 2024
-
-This content contains assumptions.
-
-Though the precise details may be inaccurate, most information comes from great testing and supported assumptions.
-
-Assumptions made:
-
-* The quality of the amulet increases linearly. The formula for calculating the quality of the amulet is unknown, so this can't be confirmed.
-* All tiers of the amulet have the same quality scaling, even if it is impossible to obtain the tier with said quality.
-
 The **Stick Bug Amulet** is an [amulet](amulet.md) that can be obtained from the [Stick Bug Challenge](stick-bug-challenge.md). In order to obtain these amulets, the player will need to get [Stick Bug](stick-bug.md) to a certain level as well as reach a certain score during the Stick Bug Challenge.
 
 The amulets grant buffs to the owner and always increase [capacity](capacity.md), [convert rate](system-page.md#Convert_Rate) and [Tool Pollen](system-page.md#Tool_Pollen) as they go up a tier. Higher tier amulets grant more and better buffs.
 
-The quality of the amulet increases linearly with the player's score, up to 200 million score,[1] where its quality is maxed.
+The amulet's quality is worked out per tier. It rises linearly from that tier's minimum score to the next tier's score, so it starts again from 0 at each tier. The "next" scores are 8M for Bronze, 20M for Silver, 50M for Gold, 150M for Diamond and 3B for Supreme. For example, a Silver amulet at 14M score has quality (14M − 8M) / (20M − 8M) = 0.5.
 
 ## Requirement(s)
 
@@ -55,6 +40,11 @@ The requirements are based on your score and Stick Bug's level on a challenge.
 <td>At least <span style="border-bottom:1px dotted;" title="50,000,000">50M</span> score, must be at least a level 13 <a href="stick-bug.html">Stick Bug</a>
 </td>
 <td><img alt="Diamond Stick Bug Amulet" src="img/Diamond_Stick_Bug_Amulet.png" width="30" height="30"/> Diamond Stick Bug Amulet
+</td></tr>
+<tr>
+<td>At least <span style="border-bottom:1px dotted;" title="1,000,000,000">1B</span> score, must reach and defeat a level 18 <a href="stick-bug.html">Stick Bug</a>
+</td>
+<td><img alt="Supreme Stick Bug Amulet" src="img/Supreme_Stick_Bug_Amulet.png" width="30" height="30"/> Supreme Stick Bug Amulet
 </td></tr></tbody></table>
 
 ## Possible Buffs
@@ -222,7 +212,7 @@ The tables below give the percentage of a certain stat on the amulet having stre
 <th>+100,000
 </th></tr>
 <tr>
-<td><b>0.005</b> (1 million score)
+<td><b>0.005</b>
 </td>
 <td>46.045%
 </td>
@@ -235,7 +225,7 @@ The tables below give the percentage of a certain stat on the amulet having stre
 <td>+42,719.021
 </td></tr>
 <tr>
-<td><b>0.01</b> (2 million score)
+<td><b>0.01</b>
 </td>
 <td>45.55%
 </td>
@@ -248,7 +238,7 @@ The tables below give the percentage of a certain stat on the amulet having stre
 <td>+42,869.46
 </td></tr>
 <tr>
-<td><b>0.015</b> (3 million score)
+<td><b>0.015</b>
 </td>
 <td>45.043%
 </td>
@@ -261,7 +251,7 @@ The tables below give the percentage of a certain stat on the amulet having stre
 <td>+43,023.082
 </td></tr>
 <tr>
-<td><b>0.02</b> (4 million score)
+<td><b>0.02</b>
 </td>
 <td>44.52%
 </td>
@@ -274,7 +264,7 @@ The tables below give the percentage of a certain stat on the amulet having stre
 <td>+43,180.0039
 </td></tr>
 <tr>
-<td><b>0.025</b> (5 million score)
+<td><b>0.025</b>
 </td>
 <td>43.99%
 </td>
@@ -287,7 +277,7 @@ The tables below give the percentage of a certain stat on the amulet having stre
 <td>+43,340.37
 </td></tr>
 <tr>
-<td><b>0.03</b> (6 million score)
+<td><b>0.03</b>
 </td>
 <td>43.45%
 </td>
@@ -300,7 +290,7 @@ The tables below give the percentage of a certain stat on the amulet having stre
 <td>+43,504.33
 </td></tr>
 <tr>
-<td><b>0.035</b> (7 million score)
+<td><b>0.035</b>
 </td>
 <td>42.89%
 </td>
@@ -313,7 +303,7 @@ The tables below give the percentage of a certain stat on the amulet having stre
 <td>+43,672.037
 </td></tr>
 <tr>
-<td><b>0.04</b> (8 million score)
+<td><b>0.04</b>
 </td>
 <td>42.32%
 </td>
@@ -350,7 +340,7 @@ The tables below give the percentage of a certain stat on the amulet having stre
 <th>x1.1
 </th></tr>
 <tr>
-<td><b>0.005</b> (1 million score)
+<td><b>0.005</b>
 </td>
 <td>32.31%
 </td>
@@ -367,7 +357,7 @@ The tables below give the percentage of a certain stat on the amulet having stre
 <td>x1.062
 </td></tr>
 <tr>
-<td><b>0.01</b> (2 million score)
+<td><b>0.01</b>
 </td>
 <td>31.58%
 </td>
@@ -384,7 +374,7 @@ The tables below give the percentage of a certain stat on the amulet having stre
 <td>x1.062
 </td></tr>
 <tr>
-<td><b>0.015</b> (3 million score)
+<td><b>0.015</b>
 </td>
 <td>30.82%
 </td>
@@ -401,7 +391,7 @@ The tables below give the percentage of a certain stat on the amulet having stre
 <td>x1.063
 </td></tr>
 <tr>
-<td><b>0.02</b> (4 million score)
+<td><b>0.02</b>
 </td>
 <td>30.044%
 </td>
@@ -418,7 +408,7 @@ The tables below give the percentage of a certain stat on the amulet having stre
 <td>x1.063
 </td></tr>
 <tr>
-<td><b>0.025</b> (5 million score)
+<td><b>0.025</b>
 </td>
 <td>29.24%
 </td>
@@ -435,7 +425,7 @@ The tables below give the percentage of a certain stat on the amulet having stre
 <td>x1.063
 </td></tr>
 <tr>
-<td><b>0.03</b> (6 million score)
+<td><b>0.03</b>
 </td>
 <td>28.4%
 </td>
@@ -452,7 +442,7 @@ The tables below give the percentage of a certain stat on the amulet having stre
 <td>x1.063
 </td></tr>
 <tr>
-<td><b>0.035</b> (7 million score)
+<td><b>0.035</b>
 </td>
 <td>27.54%
 </td>
@@ -469,7 +459,7 @@ The tables below give the percentage of a certain stat on the amulet having stre
 <td>x1.063
 </td></tr>
 <tr>
-<td><b>0.04</b> (8 million score)
+<td><b>0.04</b>
 </td>
 <td>26.64%
 </td>
@@ -506,7 +496,7 @@ The tables below give the percentage of a certain stat on the amulet having stre
 <th>+4%
 </th></tr>
 <tr>
-<td><b>0.005</b> (1 million score)
+<td><b>0.005</b>
 </td>
 <td>46.045%
 </td>
@@ -519,7 +509,7 @@ The tables below give the percentage of a certain stat on the amulet having stre
 <td>+1.7%
 </td></tr>
 <tr>
-<td><b>0.01</b> (2 million score)
+<td><b>0.01</b>
 </td>
 <td>45.55%
 </td>
@@ -532,7 +522,7 @@ The tables below give the percentage of a certain stat on the amulet having stre
 <td>+1.7%
 </td></tr>
 <tr>
-<td><b>0.015</b> (3 million score)
+<td><b>0.015</b>
 </td>
 <td>45.043%
 </td>
@@ -545,7 +535,7 @@ The tables below give the percentage of a certain stat on the amulet having stre
 <td>+1.7%
 </td></tr>
 <tr>
-<td><b>0.02</b> (4 million score)
+<td><b>0.02</b>
 </td>
 <td>44.52%
 </td>
@@ -558,7 +548,7 @@ The tables below give the percentage of a certain stat on the amulet having stre
 <td>+1.7%
 </td></tr>
 <tr>
-<td><b>0.025</b> (5 million score)
+<td><b>0.025</b>
 </td>
 <td>43.99%
 </td>
@@ -571,7 +561,7 @@ The tables below give the percentage of a certain stat on the amulet having stre
 <td>+1.7%
 </td></tr>
 <tr>
-<td><b>0.03</b> (6 million score)
+<td><b>0.03</b>
 </td>
 <td>43.45%
 </td>
@@ -584,7 +574,7 @@ The tables below give the percentage of a certain stat on the amulet having stre
 <td>+1.7%
 </td></tr>
 <tr>
-<td><b>0.035</b> (7 million score)
+<td><b>0.035</b>
 </td>
 <td>42.89%
 </td>
@@ -597,7 +587,7 @@ The tables below give the percentage of a certain stat on the amulet having stre
 <td>+1.7%
 </td></tr>
 <tr>
-<td><b>0.04</b> (8 million score)
+<td><b>0.04</b>
 </td>
 <td>42.32%
 </td>
@@ -634,7 +624,7 @@ The tables below give the percentage of a certain stat on the amulet having stre
 <th>+15%
 </th></tr>
 <tr>
-<td><b>0.005</b> (1 million score)
+<td><b>0.005</b>
 </td>
 <td>32.31%
 </td>
@@ -651,7 +641,7 @@ The tables below give the percentage of a certain stat on the amulet having stre
 <td>+11%
 </td></tr>
 <tr>
-<td><b>0.01</b> (2 million score)
+<td><b>0.01</b>
 </td>
 <td>31.58%
 </td>
@@ -668,7 +658,7 @@ The tables below give the percentage of a certain stat on the amulet having stre
 <td>+11%
 </td></tr>
 <tr>
-<td><b>0.015</b> (3 million score)
+<td><b>0.015</b>
 </td>
 <td>30.82%
 </td>
@@ -685,7 +675,7 @@ The tables below give the percentage of a certain stat on the amulet having stre
 <td>+11%
 </td></tr>
 <tr>
-<td><b>0.02</b> (4 million score)
+<td><b>0.02</b>
 </td>
 <td>30.044%
 </td>
@@ -702,7 +692,7 @@ The tables below give the percentage of a certain stat on the amulet having stre
 <td>+11%
 </td></tr>
 <tr>
-<td><b>0.025</b> (5 million score)
+<td><b>0.025</b>
 </td>
 <td>29.24%
 </td>
@@ -719,7 +709,7 @@ The tables below give the percentage of a certain stat on the amulet having stre
 <td>+11%
 </td></tr>
 <tr>
-<td><b>0.03</b> (6 million score)
+<td><b>0.03</b>
 </td>
 <td>28.4%
 </td>
@@ -736,7 +726,7 @@ The tables below give the percentage of a certain stat on the amulet having stre
 <td>+11%
 </td></tr>
 <tr>
-<td><b>0.035</b> (7 million score)
+<td><b>0.035</b>
 </td>
 <td>27.54%
 </td>
@@ -753,7 +743,7 @@ The tables below give the percentage of a certain stat on the amulet having stre
 <td>+11%
 </td></tr>
 <tr>
-<td><b>0.04</b> (8 million score)
+<td><b>0.04</b>
 </td>
 <td>26.64%
 </td>
@@ -794,7 +784,7 @@ The tables below give the percentage of a certain stat on the amulet having stre
 <th>+15%
 </th></tr>
 <tr>
-<td><b>0.005</b> (1 million score)
+<td><b>0.005</b>
 </td>
 <td>32.31%
 </td>
@@ -811,7 +801,7 @@ The tables below give the percentage of a certain stat on the amulet having stre
 <td>+11%
 </td></tr>
 <tr>
-<td><b>0.01</b> (2 million score)
+<td><b>0.01</b>
 </td>
 <td>31.58%
 </td>
@@ -828,7 +818,7 @@ The tables below give the percentage of a certain stat on the amulet having stre
 <td>+11%
 </td></tr>
 <tr>
-<td><b>0.015</b> (3 million score)
+<td><b>0.015</b>
 </td>
 <td>30.82%
 </td>
@@ -845,7 +835,7 @@ The tables below give the percentage of a certain stat on the amulet having stre
 <td>+11%
 </td></tr>
 <tr>
-<td><b>0.02</b> (4 million score)
+<td><b>0.02</b>
 </td>
 <td>30.044%
 </td>
@@ -862,7 +852,7 @@ The tables below give the percentage of a certain stat on the amulet having stre
 <td>+11%
 </td></tr>
 <tr>
-<td><b>0.025</b> (5 million score)
+<td><b>0.025</b>
 </td>
 <td>29.24%
 </td>
@@ -879,7 +869,7 @@ The tables below give the percentage of a certain stat on the amulet having stre
 <td>+11%
 </td></tr>
 <tr>
-<td><b>0.03</b> (6 million score)
+<td><b>0.03</b>
 </td>
 <td>28.4%
 </td>
@@ -896,7 +886,7 @@ The tables below give the percentage of a certain stat on the amulet having stre
 <td>+11%
 </td></tr>
 <tr>
-<td><b>0.035</b> (7 million score)
+<td><b>0.035</b>
 </td>
 <td>27.54%
 </td>
@@ -913,7 +903,7 @@ The tables below give the percentage of a certain stat on the amulet having stre
 <td>+11%
 </td></tr>
 <tr>
-<td><b>0.04</b> (8 million score)
+<td><b>0.04</b>
 </td>
 <td>26.64%
 </td>
@@ -954,7 +944,7 @@ The tables below give the percentage of a certain stat on the amulet having stre
 <th>+15%
 </th></tr>
 <tr>
-<td><b>0.005</b> (1 million score)
+<td><b>0.005</b>
 </td>
 <td>32.31%
 </td>
@@ -971,7 +961,7 @@ The tables below give the percentage of a certain stat on the amulet having stre
 <td>+11%
 </td></tr>
 <tr>
-<td><b>0.01</b> (2 million score)
+<td><b>0.01</b>
 </td>
 <td>31.58%
 </td>
@@ -988,7 +978,7 @@ The tables below give the percentage of a certain stat on the amulet having stre
 <td>+11%
 </td></tr>
 <tr>
-<td><b>0.015</b> (3 million score)
+<td><b>0.015</b>
 </td>
 <td>30.82%
 </td>
@@ -1005,7 +995,7 @@ The tables below give the percentage of a certain stat on the amulet having stre
 <td>+11%
 </td></tr>
 <tr>
-<td><b>0.02</b> (4 million score)
+<td><b>0.02</b>
 </td>
 <td>30.044%
 </td>
@@ -1022,7 +1012,7 @@ The tables below give the percentage of a certain stat on the amulet having stre
 <td>+11%
 </td></tr>
 <tr>
-<td><b>0.025</b> (5 million score)
+<td><b>0.025</b>
 </td>
 <td>29.24%
 </td>
@@ -1039,7 +1029,7 @@ The tables below give the percentage of a certain stat on the amulet having stre
 <td>+11%
 </td></tr>
 <tr>
-<td><b>0.03</b> (6 million score)
+<td><b>0.03</b>
 </td>
 <td>28.4%
 </td>
@@ -1056,7 +1046,7 @@ The tables below give the percentage of a certain stat on the amulet having stre
 <td>+11%
 </td></tr>
 <tr>
-<td><b>0.035</b> (7 million score)
+<td><b>0.035</b>
 </td>
 <td>27.54%
 </td>
@@ -1073,7 +1063,7 @@ The tables below give the percentage of a certain stat on the amulet having stre
 <td>+11%
 </td></tr>
 <tr>
-<td><b>0.04</b> (8 million score)
+<td><b>0.04</b>
 </td>
 <td>26.64%
 </td>
@@ -1108,7 +1098,7 @@ The tables below give the percentage of a certain stat on the amulet having stre
 <th>+3%
 </th></tr>
 <tr>
-<td><b>0.005</b> (1 million score)
+<td><b>0.005</b>
 </td>
 <td>59.34%
 </td>
@@ -1119,7 +1109,7 @@ The tables below give the percentage of a certain stat on the amulet having stre
 <td>+1.4%
 </td></tr>
 <tr>
-<td><b>0.01</b> (2 million score)
+<td><b>0.01</b>
 </td>
 <td>59.0096%
 </td>
@@ -1130,7 +1120,7 @@ The tables below give the percentage of a certain stat on the amulet having stre
 <td>+1.4%
 </td></tr>
 <tr>
-<td><b>0.015</b> (3 million score)
+<td><b>0.015</b>
 </td>
 <td>58.68%
 </td>
@@ -1141,7 +1131,7 @@ The tables below give the percentage of a certain stat on the amulet having stre
 <td>+1.4%
 </td></tr>
 <tr>
-<td><b>0.02</b> (4 million score)
+<td><b>0.02</b>
 </td>
 <td>58.34%
 </td>
@@ -1152,7 +1142,7 @@ The tables below give the percentage of a certain stat on the amulet having stre
 <td>+1.5%
 </td></tr>
 <tr>
-<td><b>0.025</b> (5 million score)
+<td><b>0.025</b>
 </td>
 <td>57.99%
 </td>
@@ -1163,7 +1153,7 @@ The tables below give the percentage of a certain stat on the amulet having stre
 <td>+1.5%
 </td></tr>
 <tr>
-<td><b>0.03</b> (6 million score)
+<td><b>0.03</b>
 </td>
 <td>57.64%
 </td>
@@ -1174,7 +1164,7 @@ The tables below give the percentage of a certain stat on the amulet having stre
 <td>+1.5%
 </td></tr>
 <tr>
-<td><b>0.035</b> (7 million score)
+<td><b>0.035</b>
 </td>
 <td>57.28%
 </td>
@@ -1185,7 +1175,7 @@ The tables below give the percentage of a certain stat on the amulet having stre
 <td>+1.5%
 </td></tr>
 <tr>
-<td><b>0.04</b> (8 million score)
+<td><b>0.04</b>
 </td>
 <td>56.92%
 </td>
@@ -1218,7 +1208,7 @@ The tables below give the percentage of a certain stat on the amulet having stre
 <th>+40%
 </th></tr>
 <tr>
-<td><b>0.005</b> (1 million score)
+<td><b>0.005</b>
 </td>
 <td>55.7%
 </td>
@@ -1233,7 +1223,7 @@ The tables below give the percentage of a certain stat on the amulet having stre
 <td>+25%
 </td></tr>
 <tr>
-<td><b>0.01</b> (2 million score)
+<td><b>0.01</b>
 </td>
 <td>55.33%
 </td>
@@ -1248,7 +1238,7 @@ The tables below give the percentage of a certain stat on the amulet having stre
 <td>+25%
 </td></tr>
 <tr>
-<td><b>0.015</b> (3 million score)
+<td><b>0.015</b>
 </td>
 <td>54.96%
 </td>
@@ -1263,7 +1253,7 @@ The tables below give the percentage of a certain stat on the amulet having stre
 <td>+25%
 </td></tr>
 <tr>
-<td><b>0.02</b> (4 million score)
+<td><b>0.02</b>
 </td>
 <td>54.57%
 </td>
@@ -1278,7 +1268,7 @@ The tables below give the percentage of a certain stat on the amulet having stre
 <td>+25%
 </td></tr>
 <tr>
-<td><b>0.025</b> (5 million score)
+<td><b>0.025</b>
 </td>
 <td>54.18%
 </td>
@@ -1293,7 +1283,7 @@ The tables below give the percentage of a certain stat on the amulet having stre
 <td>+25%
 </td></tr>
 <tr>
-<td><b>0.03</b> (6 million score)
+<td><b>0.03</b>
 </td>
 <td>53.78%
 </td>
@@ -1308,7 +1298,7 @@ The tables below give the percentage of a certain stat on the amulet having stre
 <td>+25%
 </td></tr>
 <tr>
-<td><b>0.035</b> (7 million score)
+<td><b>0.035</b>
 </td>
 <td>53.38%
 </td>
@@ -1323,7 +1313,7 @@ The tables below give the percentage of a certain stat on the amulet having stre
 <td>+25%
 </td></tr>
 <tr>
-<td><b>0.04</b> (8 million score)
+<td><b>0.04</b>
 </td>
 <td>52.96%
 </td>
@@ -1356,7 +1346,7 @@ The tables below give the percentage of a certain stat on the amulet having stre
 <th>+5%
 </th></tr>
 <tr>
-<td><b>0.005</b> (1 million score)
+<td><b>0.005</b>
 </td>
 <td>59.34%
 </td>
@@ -1367,7 +1357,7 @@ The tables below give the percentage of a certain stat on the amulet having stre
 <td>+3.4%
 </td></tr>
 <tr>
-<td><b>0.01</b> (2 million score)
+<td><b>0.01</b>
 </td>
 <td>59.0096%
 </td>
@@ -1378,7 +1368,7 @@ The tables below give the percentage of a certain stat on the amulet having stre
 <td>+3.4%
 </td></tr>
 <tr>
-<td><b>0.015</b> (3 million score)
+<td><b>0.015</b>
 </td>
 <td>58.68%
 </td>
@@ -1389,7 +1379,7 @@ The tables below give the percentage of a certain stat on the amulet having stre
 <td>+3.4%
 </td></tr>
 <tr>
-<td><b>0.02</b> (4 million score)
+<td><b>0.02</b>
 </td>
 <td>58.34%
 </td>
@@ -1400,7 +1390,7 @@ The tables below give the percentage of a certain stat on the amulet having stre
 <td>+3.5%
 </td></tr>
 <tr>
-<td><b>0.025</b> (5 million score)
+<td><b>0.025</b>
 </td>
 <td>57.99%
 </td>
@@ -1411,7 +1401,7 @@ The tables below give the percentage of a certain stat on the amulet having stre
 <td>+3.5%
 </td></tr>
 <tr>
-<td><b>0.03</b> (6 million score)
+<td><b>0.03</b>
 </td>
 <td>57.64%
 </td>
@@ -1422,7 +1412,7 @@ The tables below give the percentage of a certain stat on the amulet having stre
 <td>+3.5%
 </td></tr>
 <tr>
-<td><b>0.035</b> (7 million score)
+<td><b>0.035</b>
 </td>
 <td>57.28%
 </td>
@@ -1433,7 +1423,7 @@ The tables below give the percentage of a certain stat on the amulet having stre
 <td>+3.5%
 </td></tr>
 <tr>
-<td><b>0.04</b> (8 million score)
+<td><b>0.04</b>
 </td>
 <td>56.92%
 </td>
@@ -1468,7 +1458,7 @@ The tables below give the percentage of a certain stat on the amulet having stre
 <th>+15%
 </th></tr>
 <tr>
-<td><b>0.005</b> (1 million score)
+<td><b>0.005</b>
 </td>
 <td>32.31%
 </td>
@@ -1485,7 +1475,7 @@ The tables below give the percentage of a certain stat on the amulet having stre
 <td>+11%
 </td></tr>
 <tr>
-<td><b>0.01</b> (2 million score)
+<td><b>0.01</b>
 </td>
 <td>31.58%
 </td>
@@ -1502,7 +1492,7 @@ The tables below give the percentage of a certain stat on the amulet having stre
 <td>+11%
 </td></tr>
 <tr>
-<td><b>0.015</b> (3 million score)
+<td><b>0.015</b>
 </td>
 <td>30.82%
 </td>
@@ -1519,7 +1509,7 @@ The tables below give the percentage of a certain stat on the amulet having stre
 <td>+11%
 </td></tr>
 <tr>
-<td><b>0.02</b> (4 million score)
+<td><b>0.02</b>
 </td>
 <td>30.044%
 </td>
@@ -1536,7 +1526,7 @@ The tables below give the percentage of a certain stat on the amulet having stre
 <td>+11%
 </td></tr>
 <tr>
-<td><b>0.025</b> (5 million score)
+<td><b>0.025</b>
 </td>
 <td>29.24%
 </td>
@@ -1553,7 +1543,7 @@ The tables below give the percentage of a certain stat on the amulet having stre
 <td>+11%
 </td></tr>
 <tr>
-<td><b>0.03</b> (6 million score)
+<td><b>0.03</b>
 </td>
 <td>28.4%
 </td>
@@ -1570,7 +1560,7 @@ The tables below give the percentage of a certain stat on the amulet having stre
 <td>+11%
 </td></tr>
 <tr>
-<td><b>0.035</b> (7 million score)
+<td><b>0.035</b>
 </td>
 <td>27.54%
 </td>
@@ -1587,7 +1577,7 @@ The tables below give the percentage of a certain stat on the amulet having stre
 <td>+11%
 </td></tr>
 <tr>
-<td><b>0.04</b> (8 million score)
+<td><b>0.04</b>
 </td>
 <td>26.64%
 </td>
@@ -1628,7 +1618,7 @@ The tables below give the percentage of a certain stat on the amulet having stre
 <th>+15%
 </th></tr>
 <tr>
-<td><b>0.005</b> (1 million score)
+<td><b>0.005</b>
 </td>
 <td>32.31%
 </td>
@@ -1645,7 +1635,7 @@ The tables below give the percentage of a certain stat on the amulet having stre
 <td>+11%
 </td></tr>
 <tr>
-<td><b>0.01</b> (2 million score)
+<td><b>0.01</b>
 </td>
 <td>31.58%
 </td>
@@ -1662,7 +1652,7 @@ The tables below give the percentage of a certain stat on the amulet having stre
 <td>+11%
 </td></tr>
 <tr>
-<td><b>0.015</b> (3 million score)
+<td><b>0.015</b>
 </td>
 <td>30.82%
 </td>
@@ -1679,7 +1669,7 @@ The tables below give the percentage of a certain stat on the amulet having stre
 <td>+11%
 </td></tr>
 <tr>
-<td><b>0.02</b> (4 million score)
+<td><b>0.02</b>
 </td>
 <td>30.044%
 </td>
@@ -1696,7 +1686,7 @@ The tables below give the percentage of a certain stat on the amulet having stre
 <td>+11%
 </td></tr>
 <tr>
-<td><b>0.025</b> (5 million score)
+<td><b>0.025</b>
 </td>
 <td>29.24%
 </td>
@@ -1713,7 +1703,7 @@ The tables below give the percentage of a certain stat on the amulet having stre
 <td>+11%
 </td></tr>
 <tr>
-<td><b>0.03</b> (6 million score)
+<td><b>0.03</b>
 </td>
 <td>28.4%
 </td>
@@ -1730,7 +1720,7 @@ The tables below give the percentage of a certain stat on the amulet having stre
 <td>+11%
 </td></tr>
 <tr>
-<td><b>0.035</b> (7 million score)
+<td><b>0.035</b>
 </td>
 <td>27.54%
 </td>
@@ -1747,7 +1737,7 @@ The tables below give the percentage of a certain stat on the amulet having stre
 <td>+11%
 </td></tr>
 <tr>
-<td><b>0.04</b> (8 million score)
+<td><b>0.04</b>
 </td>
 <td>26.64%
 </td>
@@ -1788,7 +1778,7 @@ The tables below give the percentage of a certain stat on the amulet having stre
 <th>+15%
 </th></tr>
 <tr>
-<td><b>0.005</b> (1 million score)
+<td><b>0.005</b>
 </td>
 <td>32.31%
 </td>
@@ -1805,7 +1795,7 @@ The tables below give the percentage of a certain stat on the amulet having stre
 <td>+11%
 </td></tr>
 <tr>
-<td><b>0.01</b> (2 million score)
+<td><b>0.01</b>
 </td>
 <td>31.58%
 </td>
@@ -1822,7 +1812,7 @@ The tables below give the percentage of a certain stat on the amulet having stre
 <td>+11%
 </td></tr>
 <tr>
-<td><b>0.015</b> (3 million score)
+<td><b>0.015</b>
 </td>
 <td>30.82%
 </td>
@@ -1839,7 +1829,7 @@ The tables below give the percentage of a certain stat on the amulet having stre
 <td>+11%
 </td></tr>
 <tr>
-<td><b>0.02</b> (4 million score)
+<td><b>0.02</b>
 </td>
 <td>30.044%
 </td>
@@ -1856,7 +1846,7 @@ The tables below give the percentage of a certain stat on the amulet having stre
 <td>+11%
 </td></tr>
 <tr>
-<td><b>0.025</b> (5 million score)
+<td><b>0.025</b>
 </td>
 <td>29.24%
 </td>
@@ -1873,7 +1863,7 @@ The tables below give the percentage of a certain stat on the amulet having stre
 <td>+11%
 </td></tr>
 <tr>
-<td><b>0.03</b> (6 million score)
+<td><b>0.03</b>
 </td>
 <td>28.4%
 </td>
@@ -1890,7 +1880,7 @@ The tables below give the percentage of a certain stat on the amulet having stre
 <td>+11%
 </td></tr>
 <tr>
-<td><b>0.035</b> (7 million score)
+<td><b>0.035</b>
 </td>
 <td>27.54%
 </td>
@@ -1907,7 +1897,7 @@ The tables below give the percentage of a certain stat on the amulet having stre
 <td>+11%
 </td></tr>
 <tr>
-<td><b>0.04</b> (8 million score)
+<td><b>0.04</b>
 </td>
 <td>26.64%
 </td>
@@ -1944,7 +1934,7 @@ The tables below give the percentage of a certain stat on the amulet having stre
 <th>+8%
 </th></tr>
 <tr>
-<td><b>0.005</b> (1 million score)
+<td><b>0.005</b>
 </td>
 <td>46.045%
 </td>
@@ -1957,7 +1947,7 @@ The tables below give the percentage of a certain stat on the amulet having stre
 <td>+5.7%
 </td></tr>
 <tr>
-<td><b>0.01</b> (2 million score)
+<td><b>0.01</b>
 </td>
 <td>45.55%
 </td>
@@ -1970,7 +1960,7 @@ The tables below give the percentage of a certain stat on the amulet having stre
 <td>+5.7%
 </td></tr>
 <tr>
-<td><b>0.015</b> (3 million score)
+<td><b>0.015</b>
 </td>
 <td>45.043%
 </td>
@@ -1983,7 +1973,7 @@ The tables below give the percentage of a certain stat on the amulet having stre
 <td>+5.7%
 </td></tr>
 <tr>
-<td><b>0.02</b> (4 million score)
+<td><b>0.02</b>
 </td>
 <td>44.52%
 </td>
@@ -1996,7 +1986,7 @@ The tables below give the percentage of a certain stat on the amulet having stre
 <td>+5.7%
 </td></tr>
 <tr>
-<td><b>0.025</b> (5 million score)
+<td><b>0.025</b>
 </td>
 <td>43.99%
 </td>
@@ -2009,7 +1999,7 @@ The tables below give the percentage of a certain stat on the amulet having stre
 <td>+5.7%
 </td></tr>
 <tr>
-<td><b>0.03</b> (6 million score)
+<td><b>0.03</b>
 </td>
 <td>43.45%
 </td>
@@ -2022,7 +2012,7 @@ The tables below give the percentage of a certain stat on the amulet having stre
 <td>+5.7%
 </td></tr>
 <tr>
-<td><b>0.035</b> (7 million score)
+<td><b>0.035</b>
 </td>
 <td>42.89%
 </td>
@@ -2035,7 +2025,7 @@ The tables below give the percentage of a certain stat on the amulet having stre
 <td>+5.7%
 </td></tr>
 <tr>
-<td><b>0.04</b> (8 million score)
+<td><b>0.04</b>
 </td>
 <td>42.32%
 </td>
@@ -2223,7 +2213,7 @@ The tables below give the percentage of a certain stat on the amulet having stre
 <th>+150,000
 </th></tr>
 <tr>
-<td><b>0.04</b> (8 million score)
+<td><b>0.04</b>
 </td>
 <td>56.92%
 </td>
@@ -2234,7 +2224,7 @@ The tables below give the percentage of a certain stat on the amulet having stre
 <td>+111,666.3
 </td></tr>
 <tr>
-<td><b>0.05</b> (10 million score)
+<td><b>0.05</b>
 </td>
 <td>56.16%
 </td>
@@ -2245,7 +2235,7 @@ The tables below give the percentage of a certain stat on the amulet having stre
 <td>+111,865.098
 </td></tr>
 <tr>
-<td><b>0.06</b> (12 million score)
+<td><b>0.06</b>
 </td>
 <td>55.38%
 </td>
@@ -2256,7 +2246,7 @@ The tables below give the percentage of a certain stat on the amulet having stre
 <td>+112,071.94
 </td></tr>
 <tr>
-<td><b>0.07</b> (14 million score)
+<td><b>0.07</b>
 </td>
 <td>54.56%
 </td>
@@ -2267,7 +2257,7 @@ The tables below give the percentage of a certain stat on the amulet having stre
 <td>+112,287.41
 </td></tr>
 <tr>
-<td><b>0.08</b> (16 million score)
+<td><b>0.08</b>
 </td>
 <td>53.71%
 </td>
@@ -2278,7 +2268,7 @@ The tables below give the percentage of a certain stat on the amulet having stre
 <td>+112,512.2
 </td></tr>
 <tr>
-<td><b>0.09</b> (18 million score)
+<td><b>0.09</b>
 </td>
 <td>52.81%
 </td>
@@ -2289,7 +2279,7 @@ The tables below give the percentage of a certain stat on the amulet having stre
 <td>+112,747.038
 </td></tr>
 <tr>
-<td><b>0.1</b> (20 million score)
+<td><b>0.1</b>
 </td>
 <td>51.88%
 </td>
@@ -2324,7 +2314,7 @@ The tables below give the percentage of a certain stat on the amulet having stre
 <th>x1.15
 </th></tr>
 <tr>
-<td><b>0.04</b> (8 million score)
+<td><b>0.04</b>
 </td>
 <td>26.64%
 </td>
@@ -2341,7 +2331,7 @@ The tables below give the percentage of a certain stat on the amulet having stre
 <td>x1.11
 </td></tr>
 <tr>
-<td><b>0.05</b> (10 million score)
+<td><b>0.05</b>
 </td>
 <td>24.72%
 </td>
@@ -2358,7 +2348,7 @@ The tables below give the percentage of a certain stat on the amulet having stre
 <td>x1.11
 </td></tr>
 <tr>
-<td><b>0.06</b> (12 million score)
+<td><b>0.06</b>
 </td>
 <td>22.63%
 </td>
@@ -2375,7 +2365,7 @@ The tables below give the percentage of a certain stat on the amulet having stre
 <td>x1.11
 </td></tr>
 <tr>
-<td><b>0.07</b> (14 million score)
+<td><b>0.07</b>
 </td>
 <td>20.3%
 </td>
@@ -2392,7 +2382,7 @@ The tables below give the percentage of a certain stat on the amulet having stre
 <td>x1.11
 </td></tr>
 <tr>
-<td><b>0.08</b> (16 million score)
+<td><b>0.08</b>
 </td>
 <td>17.66%
 </td>
@@ -2409,7 +2399,7 @@ The tables below give the percentage of a certain stat on the amulet having stre
 <td>x1.11
 </td></tr>
 <tr>
-<td><b>0.09</b> (18 million score)
+<td><b>0.09</b>
 </td>
 <td>14.51%
 </td>
@@ -2426,7 +2416,7 @@ The tables below give the percentage of a certain stat on the amulet having stre
 <td>x1.11
 </td></tr>
 <tr>
-<td><b>0.1</b> (20 million score)
+<td><b>0.1</b>
 </td>
 <td>10%
 </td>
@@ -2467,7 +2457,7 @@ The tables below give the percentage of a certain stat on the amulet having stre
 <th>+10%
 </th></tr>
 <tr>
-<td><b>0.04</b> (8 million score)
+<td><b>0.04</b>
 </td>
 <td>26.64%
 </td>
@@ -2484,7 +2474,7 @@ The tables below give the percentage of a certain stat on the amulet having stre
 <td>+6.3%
 </td></tr>
 <tr>
-<td><b>0.05</b> (10 million score)
+<td><b>0.05</b>
 </td>
 <td>24.72%
 </td>
@@ -2501,7 +2491,7 @@ The tables below give the percentage of a certain stat on the amulet having stre
 <td>+6.3%
 </td></tr>
 <tr>
-<td><b>0.06</b> (12 million score)
+<td><b>0.06</b>
 </td>
 <td>22.63%
 </td>
@@ -2518,7 +2508,7 @@ The tables below give the percentage of a certain stat on the amulet having stre
 <td>+6.4%
 </td></tr>
 <tr>
-<td><b>0.07</b> (14 million score)
+<td><b>0.07</b>
 </td>
 <td>20.3%
 </td>
@@ -2535,7 +2525,7 @@ The tables below give the percentage of a certain stat on the amulet having stre
 <td>+6.4%
 </td></tr>
 <tr>
-<td><b>0.08</b> (16 million score)
+<td><b>0.08</b>
 </td>
 <td>17.66%
 </td>
@@ -2552,7 +2542,7 @@ The tables below give the percentage of a certain stat on the amulet having stre
 <td>+6.4%
 </td></tr>
 <tr>
-<td><b>0.09</b> (18 million score)
+<td><b>0.09</b>
 </td>
 <td>14.51%
 </td>
@@ -2569,7 +2559,7 @@ The tables below give the percentage of a certain stat on the amulet having stre
 <td>+6.5%
 </td></tr>
 <tr>
-<td><b>0.1</b> (20 million score)
+<td><b>0.1</b>
 </td>
 <td>10%
 </td>
@@ -2604,7 +2594,7 @@ The tables below give the percentage of a certain stat on the amulet having stre
 <th>+3%
 </th></tr>
 <tr>
-<td><b>0.04</b> (8 million score)
+<td><b>0.04</b>
 </td>
 <td>56.92%
 </td>
@@ -2615,7 +2605,7 @@ The tables below give the percentage of a certain stat on the amulet having stre
 <td>+1.5%
 </td></tr>
 <tr>
-<td><b>0.05</b> (10 million score)
+<td><b>0.05</b>
 </td>
 <td>56.16%
 </td>
@@ -2626,7 +2616,7 @@ The tables below give the percentage of a certain stat on the amulet having stre
 <td>+1.5%
 </td></tr>
 <tr>
-<td><b>0.06</b> (12 million score)
+<td><b>0.06</b>
 </td>
 <td>55.38%
 </td>
@@ -2637,7 +2627,7 @@ The tables below give the percentage of a certain stat on the amulet having stre
 <td>+1.5%
 </td></tr>
 <tr>
-<td><b>0.07</b> (14 million score)
+<td><b>0.07</b>
 </td>
 <td>54.56%
 </td>
@@ -2648,7 +2638,7 @@ The tables below give the percentage of a certain stat on the amulet having stre
 <td>+1.5%
 </td></tr>
 <tr>
-<td><b>0.08</b> (16 million score)
+<td><b>0.08</b>
 </td>
 <td>53.71%
 </td>
@@ -2659,7 +2649,7 @@ The tables below give the percentage of a certain stat on the amulet having stre
 <td>+1.5%
 </td></tr>
 <tr>
-<td><b>0.09</b> (18 million score)
+<td><b>0.09</b>
 </td>
 <td>52.81%
 </td>
@@ -2670,7 +2660,7 @@ The tables below give the percentage of a certain stat on the amulet having stre
 <td>+1.5%
 </td></tr>
 <tr>
-<td><b>0.1</b> (20 million score)
+<td><b>0.1</b>
 </td>
 <td>51.88%
 </td>
@@ -2697,7 +2687,7 @@ The tables below give the percentage of a certain stat on the amulet having stre
 <th>+3%
 </th></tr>
 <tr>
-<td><b>0.04</b> (8 million score)
+<td><b>0.04</b>
 </td>
 <td>83.84%
 </td>
@@ -2706,7 +2696,7 @@ The tables below give the percentage of a certain stat on the amulet having stre
 <td>+2.2%
 </td></tr>
 <tr>
-<td><b>0.05</b> (10 million score)
+<td><b>0.05</b>
 </td>
 <td>83.62%
 </td>
@@ -2715,7 +2705,7 @@ The tables below give the percentage of a certain stat on the amulet having stre
 <td>+2.2%
 </td></tr>
 <tr>
-<td><b>0.06</b> (12 million score)
+<td><b>0.06</b>
 </td>
 <td>83.4%
 </td>
@@ -2724,7 +2714,7 @@ The tables below give the percentage of a certain stat on the amulet having stre
 <td>+2.2%
 </td></tr>
 <tr>
-<td><b>0.07</b> (14 million score)
+<td><b>0.07</b>
 </td>
 <td>83.17%
 </td>
@@ -2733,7 +2723,7 @@ The tables below give the percentage of a certain stat on the amulet having stre
 <td>+2.2%
 </td></tr>
 <tr>
-<td><b>0.08</b> (16 million score)
+<td><b>0.08</b>
 </td>
 <td>82.93%
 </td>
@@ -2742,7 +2732,7 @@ The tables below give the percentage of a certain stat on the amulet having stre
 <td>+2.2%
 </td></tr>
 <tr>
-<td><b>0.09</b> (18 million score)
+<td><b>0.09</b>
 </td>
 <td>82.69%
 </td>
@@ -2751,7 +2741,7 @@ The tables below give the percentage of a certain stat on the amulet having stre
 <td>+2.2%
 </td></tr>
 <tr>
-<td><b>0.1</b> (20 million score)
+<td><b>0.1</b>
 </td>
 <td>82.44%
 </td>
@@ -2784,7 +2774,7 @@ The tables below give the percentage of a certain stat on the amulet having stre
 <th>+20%
 </th></tr>
 <tr>
-<td><b>0.04</b> (8 million score)
+<td><b>0.04</b>
 </td>
 <td>26.64%
 </td>
@@ -2801,7 +2791,7 @@ The tables below give the percentage of a certain stat on the amulet having stre
 <td>+16%
 </td></tr>
 <tr>
-<td><b>0.05</b> (10 million score)
+<td><b>0.05</b>
 </td>
 <td>24.72%
 </td>
@@ -2818,7 +2808,7 @@ The tables below give the percentage of a certain stat on the amulet having stre
 <td>+16%
 </td></tr>
 <tr>
-<td><b>0.06</b> (12 million score)
+<td><b>0.06</b>
 </td>
 <td>22.63%
 </td>
@@ -2835,7 +2825,7 @@ The tables below give the percentage of a certain stat on the amulet having stre
 <td>+16%
 </td></tr>
 <tr>
-<td><b>0.07</b> (14 million score)
+<td><b>0.07</b>
 </td>
 <td>20.3%
 </td>
@@ -2852,7 +2842,7 @@ The tables below give the percentage of a certain stat on the amulet having stre
 <td>+16%
 </td></tr>
 <tr>
-<td><b>0.08</b> (16 million score)
+<td><b>0.08</b>
 </td>
 <td>17.66%
 </td>
@@ -2869,7 +2859,7 @@ The tables below give the percentage of a certain stat on the amulet having stre
 <td>+16%
 </td></tr>
 <tr>
-<td><b>0.09</b> (18 million score)
+<td><b>0.09</b>
 </td>
 <td>14.51%
 </td>
@@ -2886,7 +2876,7 @@ The tables below give the percentage of a certain stat on the amulet having stre
 <td>+16%
 </td></tr>
 <tr>
-<td><b>0.1</b> (20 million score)
+<td><b>0.1</b>
 </td>
 <td>10%
 </td>
@@ -2927,7 +2917,7 @@ The tables below give the percentage of a certain stat on the amulet having stre
 <th>+20%
 </th></tr>
 <tr>
-<td><b>0.04</b> (8 million score)
+<td><b>0.04</b>
 </td>
 <td>26.64%
 </td>
@@ -2944,7 +2934,7 @@ The tables below give the percentage of a certain stat on the amulet having stre
 <td>+16%
 </td></tr>
 <tr>
-<td><b>0.05</b> (10 million score)
+<td><b>0.05</b>
 </td>
 <td>24.72%
 </td>
@@ -2961,7 +2951,7 @@ The tables below give the percentage of a certain stat on the amulet having stre
 <td>+16%
 </td></tr>
 <tr>
-<td><b>0.06</b> (12 million score)
+<td><b>0.06</b>
 </td>
 <td>22.63%
 </td>
@@ -2978,7 +2968,7 @@ The tables below give the percentage of a certain stat on the amulet having stre
 <td>+16%
 </td></tr>
 <tr>
-<td><b>0.07</b> (14 million score)
+<td><b>0.07</b>
 </td>
 <td>20.3%
 </td>
@@ -2995,7 +2985,7 @@ The tables below give the percentage of a certain stat on the amulet having stre
 <td>+16%
 </td></tr>
 <tr>
-<td><b>0.08</b> (16 million score)
+<td><b>0.08</b>
 </td>
 <td>17.66%
 </td>
@@ -3012,7 +3002,7 @@ The tables below give the percentage of a certain stat on the amulet having stre
 <td>+16%
 </td></tr>
 <tr>
-<td><b>0.09</b> (18 million score)
+<td><b>0.09</b>
 </td>
 <td>14.51%
 </td>
@@ -3029,7 +3019,7 @@ The tables below give the percentage of a certain stat on the amulet having stre
 <td>+16%
 </td></tr>
 <tr>
-<td><b>0.1</b> (20 million score)
+<td><b>0.1</b>
 </td>
 <td>10%
 </td>
@@ -3070,7 +3060,7 @@ The tables below give the percentage of a certain stat on the amulet having stre
 <th>+20%
 </th></tr>
 <tr>
-<td><b>0.04</b> (8 million score)
+<td><b>0.04</b>
 </td>
 <td>26.64%
 </td>
@@ -3087,7 +3077,7 @@ The tables below give the percentage of a certain stat on the amulet having stre
 <td>+16%
 </td></tr>
 <tr>
-<td><b>0.05</b> (10 million score)
+<td><b>0.05</b>
 </td>
 <td>24.72%
 </td>
@@ -3104,7 +3094,7 @@ The tables below give the percentage of a certain stat on the amulet having stre
 <td>+16%
 </td></tr>
 <tr>
-<td><b>0.06</b> (12 million score)
+<td><b>0.06</b>
 </td>
 <td>22.63%
 </td>
@@ -3121,7 +3111,7 @@ The tables below give the percentage of a certain stat on the amulet having stre
 <td>+16%
 </td></tr>
 <tr>
-<td><b>0.07</b> (14 million score)
+<td><b>0.07</b>
 </td>
 <td>20.3%
 </td>
@@ -3138,7 +3128,7 @@ The tables below give the percentage of a certain stat on the amulet having stre
 <td>+16%
 </td></tr>
 <tr>
-<td><b>0.08</b> (16 million score)
+<td><b>0.08</b>
 </td>
 <td>17.66%
 </td>
@@ -3155,7 +3145,7 @@ The tables below give the percentage of a certain stat on the amulet having stre
 <td>+16%
 </td></tr>
 <tr>
-<td><b>0.09</b> (18 million score)
+<td><b>0.09</b>
 </td>
 <td>14.51%
 </td>
@@ -3172,7 +3162,7 @@ The tables below give the percentage of a certain stat on the amulet having stre
 <td>+16%
 </td></tr>
 <tr>
-<td><b>0.1</b> (20 million score)
+<td><b>0.1</b>
 </td>
 <td>10%
 </td>
@@ -3207,7 +3197,7 @@ The tables below give the percentage of a certain stat on the amulet having stre
 <th>+5%
 </th></tr>
 <tr>
-<td><b>0.04</b> (8 million score)
+<td><b>0.04</b>
 </td>
 <td>56.92%
 </td>
@@ -3218,7 +3208,7 @@ The tables below give the percentage of a certain stat on the amulet having stre
 <td>+3.5%
 </td></tr>
 <tr>
-<td><b>0.05</b> (10 million score)
+<td><b>0.05</b>
 </td>
 <td>56.16%
 </td>
@@ -3229,7 +3219,7 @@ The tables below give the percentage of a certain stat on the amulet having stre
 <td>+3.5%
 </td></tr>
 <tr>
-<td><b>0.06</b> (12 million score)
+<td><b>0.06</b>
 </td>
 <td>55.38%
 </td>
@@ -3240,7 +3230,7 @@ The tables below give the percentage of a certain stat on the amulet having stre
 <td>+3.5%
 </td></tr>
 <tr>
-<td><b>0.07</b> (14 million score)
+<td><b>0.07</b>
 </td>
 <td>54.56%
 </td>
@@ -3251,7 +3241,7 @@ The tables below give the percentage of a certain stat on the amulet having stre
 <td>+3.5%
 </td></tr>
 <tr>
-<td><b>0.08</b> (16 million score)
+<td><b>0.08</b>
 </td>
 <td>53.71%
 </td>
@@ -3262,7 +3252,7 @@ The tables below give the percentage of a certain stat on the amulet having stre
 <td>+3.5%
 </td></tr>
 <tr>
-<td><b>0.09</b> (18 million score)
+<td><b>0.09</b>
 </td>
 <td>52.81%
 </td>
@@ -3273,7 +3263,7 @@ The tables below give the percentage of a certain stat on the amulet having stre
 <td>+3.5%
 </td></tr>
 <tr>
-<td><b>0.1</b> (20 million score)
+<td><b>0.1</b>
 </td>
 <td>51.88%
 </td>
@@ -3310,7 +3300,7 @@ The tables below give the percentage of a certain stat on the amulet having stre
 <th>+57%-+59%
 </th></tr>
 <tr>
-<td><b>0.04</b> (8 million score)
+<td><b>0.04</b>
 </td>
 <td>34.68%
 </td>
@@ -3329,7 +3319,7 @@ The tables below give the percentage of a certain stat on the amulet having stre
 <td>+46%
 </td></tr>
 <tr>
-<td><b>0.05</b> (10 million score)
+<td><b>0.05</b>
 </td>
 <td>33.18%
 </td>
@@ -3348,7 +3338,7 @@ The tables below give the percentage of a certain stat on the amulet having stre
 <td>+46%
 </td></tr>
 <tr>
-<td><b>0.06</b> (12 million score)
+<td><b>0.06</b>
 </td>
 <td>31.59%
 </td>
@@ -3367,7 +3357,7 @@ The tables below give the percentage of a certain stat on the amulet having stre
 <td>+46%
 </td></tr>
 <tr>
-<td><b>0.07</b> (14 million score)
+<td><b>0.07</b>
 </td>
 <td>29.88%
 </td>
@@ -3386,7 +3376,7 @@ The tables below give the percentage of a certain stat on the amulet having stre
 <td>+46%
 </td></tr>
 <tr>
-<td><b>0.08</b> (16 million score)
+<td><b>0.08</b>
 </td>
 <td>28.019%
 </td>
@@ -3405,7 +3395,7 @@ The tables below give the percentage of a certain stat on the amulet having stre
 <td>+47%
 </td></tr>
 <tr>
-<td><b>0.09</b> (18 million score)
+<td><b>0.09</b>
 </td>
 <td>25.99%
 </td>
@@ -3424,7 +3414,7 @@ The tables below give the percentage of a certain stat on the amulet having stre
 <td>+47%
 </td></tr>
 <tr>
-<td><b>0.1</b> (20 million score)
+<td><b>0.1</b>
 </td>
 <td>23.74%
 </td>
@@ -3461,7 +3451,7 @@ The tables below give the percentage of a certain stat on the amulet having stre
 <th>+7%
 </th></tr>
 <tr>
-<td><b>0.04</b> (8 million score)
+<td><b>0.04</b>
 </td>
 <td>56.92%
 </td>
@@ -3472,7 +3462,7 @@ The tables below give the percentage of a certain stat on the amulet having stre
 <td>+5.5%
 </td></tr>
 <tr>
-<td><b>0.05</b> (10 million score)
+<td><b>0.05</b>
 </td>
 <td>56.16%
 </td>
@@ -3483,7 +3473,7 @@ The tables below give the percentage of a certain stat on the amulet having stre
 <td>+5.5%
 </td></tr>
 <tr>
-<td><b>0.06</b> (12 million score)
+<td><b>0.06</b>
 </td>
 <td>55.38%
 </td>
@@ -3494,7 +3484,7 @@ The tables below give the percentage of a certain stat on the amulet having stre
 <td>+5.5%
 </td></tr>
 <tr>
-<td><b>0.07</b> (14 million score)
+<td><b>0.07</b>
 </td>
 <td>54.56%
 </td>
@@ -3505,7 +3495,7 @@ The tables below give the percentage of a certain stat on the amulet having stre
 <td>+5.5%
 </td></tr>
 <tr>
-<td><b>0.08</b> (16 million score)
+<td><b>0.08</b>
 </td>
 <td>53.71%
 </td>
@@ -3516,7 +3506,7 @@ The tables below give the percentage of a certain stat on the amulet having stre
 <td>+5.5%
 </td></tr>
 <tr>
-<td><b>0.09</b> (18 million score)
+<td><b>0.09</b>
 </td>
 <td>52.81%
 </td>
@@ -3527,7 +3517,7 @@ The tables below give the percentage of a certain stat on the amulet having stre
 <td>+5.5%
 </td></tr>
 <tr>
-<td><b>0.1</b> (20 million score)
+<td><b>0.1</b>
 </td>
 <td>51.88%
 </td>
@@ -3562,7 +3552,7 @@ The tables below give the percentage of a certain stat on the amulet having stre
 <th>+20%
 </th></tr>
 <tr>
-<td><b>0.04</b> (8 million score)
+<td><b>0.04</b>
 </td>
 <td>26.64%
 </td>
@@ -3579,7 +3569,7 @@ The tables below give the percentage of a certain stat on the amulet having stre
 <td>+16%
 </td></tr>
 <tr>
-<td><b>0.05</b> (10 million score)
+<td><b>0.05</b>
 </td>
 <td>24.72%
 </td>
@@ -3596,7 +3586,7 @@ The tables below give the percentage of a certain stat on the amulet having stre
 <td>+16%
 </td></tr>
 <tr>
-<td><b>0.06</b> (12 million score)
+<td><b>0.06</b>
 </td>
 <td>22.63%
 </td>
@@ -3613,7 +3603,7 @@ The tables below give the percentage of a certain stat on the amulet having stre
 <td>+16%
 </td></tr>
 <tr>
-<td><b>0.07</b> (14 million score)
+<td><b>0.07</b>
 </td>
 <td>20.3%
 </td>
@@ -3630,7 +3620,7 @@ The tables below give the percentage of a certain stat on the amulet having stre
 <td>+16%
 </td></tr>
 <tr>
-<td><b>0.08</b> (16 million score)
+<td><b>0.08</b>
 </td>
 <td>17.66%
 </td>
@@ -3647,7 +3637,7 @@ The tables below give the percentage of a certain stat on the amulet having stre
 <td>+16%
 </td></tr>
 <tr>
-<td><b>0.09</b> (18 million score)
+<td><b>0.09</b>
 </td>
 <td>14.51%
 </td>
@@ -3664,7 +3654,7 @@ The tables below give the percentage of a certain stat on the amulet having stre
 <td>+16%
 </td></tr>
 <tr>
-<td><b>0.1</b> (20 million score)
+<td><b>0.1</b>
 </td>
 <td>10%
 </td>
@@ -3705,7 +3695,7 @@ The tables below give the percentage of a certain stat on the amulet having stre
 <th>+20%
 </th></tr>
 <tr>
-<td><b>0.04</b> (8 million score)
+<td><b>0.04</b>
 </td>
 <td>26.64%
 </td>
@@ -3722,7 +3712,7 @@ The tables below give the percentage of a certain stat on the amulet having stre
 <td>+16%
 </td></tr>
 <tr>
-<td><b>0.05</b> (10 million score)
+<td><b>0.05</b>
 </td>
 <td>24.72%
 </td>
@@ -3739,7 +3729,7 @@ The tables below give the percentage of a certain stat on the amulet having stre
 <td>+16%
 </td></tr>
 <tr>
-<td><b>0.06</b> (12 million score)
+<td><b>0.06</b>
 </td>
 <td>22.63%
 </td>
@@ -3756,7 +3746,7 @@ The tables below give the percentage of a certain stat on the amulet having stre
 <td>+16%
 </td></tr>
 <tr>
-<td><b>0.07</b> (14 million score)
+<td><b>0.07</b>
 </td>
 <td>20.3%
 </td>
@@ -3773,7 +3763,7 @@ The tables below give the percentage of a certain stat on the amulet having stre
 <td>+16%
 </td></tr>
 <tr>
-<td><b>0.08</b> (16 million score)
+<td><b>0.08</b>
 </td>
 <td>17.66%
 </td>
@@ -3790,7 +3780,7 @@ The tables below give the percentage of a certain stat on the amulet having stre
 <td>+16%
 </td></tr>
 <tr>
-<td><b>0.09</b> (18 million score)
+<td><b>0.09</b>
 </td>
 <td>14.51%
 </td>
@@ -3807,7 +3797,7 @@ The tables below give the percentage of a certain stat on the amulet having stre
 <td>+16%
 </td></tr>
 <tr>
-<td><b>0.1</b> (20 million score)
+<td><b>0.1</b>
 </td>
 <td>10%
 </td>
@@ -3848,7 +3838,7 @@ The tables below give the percentage of a certain stat on the amulet having stre
 <th>+20%
 </th></tr>
 <tr>
-<td><b>0.04</b> (8 million score)
+<td><b>0.04</b>
 </td>
 <td>26.64%
 </td>
@@ -3865,7 +3855,7 @@ The tables below give the percentage of a certain stat on the amulet having stre
 <td>+16%
 </td></tr>
 <tr>
-<td><b>0.05</b> (10 million score)
+<td><b>0.05</b>
 </td>
 <td>24.72%
 </td>
@@ -3882,7 +3872,7 @@ The tables below give the percentage of a certain stat on the amulet having stre
 <td>+16%
 </td></tr>
 <tr>
-<td><b>0.06</b> (12 million score)
+<td><b>0.06</b>
 </td>
 <td>22.63%
 </td>
@@ -3899,7 +3889,7 @@ The tables below give the percentage of a certain stat on the amulet having stre
 <td>+16%
 </td></tr>
 <tr>
-<td><b>0.07</b> (14 million score)
+<td><b>0.07</b>
 </td>
 <td>20.3%
 </td>
@@ -3916,7 +3906,7 @@ The tables below give the percentage of a certain stat on the amulet having stre
 <td>+16%
 </td></tr>
 <tr>
-<td><b>0.08</b> (16 million score)
+<td><b>0.08</b>
 </td>
 <td>17.66%
 </td>
@@ -3933,7 +3923,7 @@ The tables below give the percentage of a certain stat on the amulet having stre
 <td>+16%
 </td></tr>
 <tr>
-<td><b>0.09</b> (18 million score)
+<td><b>0.09</b>
 </td>
 <td>14.51%
 </td>
@@ -3950,7 +3940,7 @@ The tables below give the percentage of a certain stat on the amulet having stre
 <td>+16%
 </td></tr>
 <tr>
-<td><b>0.1</b> (20 million score)
+<td><b>0.1</b>
 </td>
 <td>10%
 </td>
@@ -3989,7 +3979,7 @@ The tables below give the percentage of a certain stat on the amulet having stre
 <th>+12%
 </th></tr>
 <tr>
-<td><b>0.04</b> (8 million score)
+<td><b>0.04</b>
 </td>
 <td>33.11%
 </td>
@@ -4004,7 +3994,7 @@ The tables below give the percentage of a certain stat on the amulet having stre
 <td>+9%
 </td></tr>
 <tr>
-<td><b>0.05</b> (10 million score)
+<td><b>0.05</b>
 </td>
 <td>31.54%
 </td>
@@ -4019,7 +4009,7 @@ The tables below give the percentage of a certain stat on the amulet having stre
 <td>+9.1%
 </td></tr>
 <tr>
-<td><b>0.06</b> (12 million score)
+<td><b>0.06</b>
 </td>
 <td>29.86%
 </td>
@@ -4034,7 +4024,7 @@ The tables below give the percentage of a certain stat on the amulet having stre
 <td>+9.1%
 </td></tr>
 <tr>
-<td><b>0.07</b> (14 million score)
+<td><b>0.07</b>
 </td>
 <td>28.053%
 </td>
@@ -4049,7 +4039,7 @@ The tables below give the percentage of a certain stat on the amulet having stre
 <td>+9.1%
 </td></tr>
 <tr>
-<td><b>0.08</b> (16 million score)
+<td><b>0.08</b>
 </td>
 <td>26.08%
 </td>
@@ -4064,7 +4054,7 @@ The tables below give the percentage of a certain stat on the amulet having stre
 <td>+9.1%
 </td></tr>
 <tr>
-<td><b>0.09</b> (18 million score)
+<td><b>0.09</b>
 </td>
 <td>23.9%
 </td>
@@ -4079,7 +4069,7 @@ The tables below give the percentage of a certain stat on the amulet having stre
 <td>+9.2%
 </td></tr>
 <tr>
-<td><b>0.1</b> (20 million score)
+<td><b>0.1</b>
 </td>
 <td>21.46%
 </td>
@@ -4290,7 +4280,7 @@ The tables below give the percentage of a certain stat on the amulet having stre
 <th>+200,000
 </th></tr>
 <tr>
-<td><b>0.1</b> (20 million score)
+<td><b>0.1</b>
 </td>
 <td>51.88%
 </td>
@@ -4301,7 +4291,7 @@ The tables below give the percentage of a certain stat on the amulet having stre
 <td>+162,992.79
 </td></tr>
 <tr>
-<td><b>0.115</b> (23 million score)
+<td><b>0.115</b>
 </td>
 <td>50.38%
 </td>
@@ -4312,7 +4302,7 @@ The tables below give the percentage of a certain stat on the amulet having stre
 <td>+163,384.037
 </td></tr>
 <tr>
-<td><b>0.13</b> (26 million score)
+<td><b>0.13</b>
 </td>
 <td>48.77%
 </td>
@@ -4323,7 +4313,7 @@ The tables below give the percentage of a certain stat on the amulet having stre
 <td>+163,806.0027
 </td></tr>
 <tr>
-<td><b>0.145</b> (29 million score)
+<td><b>0.145</b>
 </td>
 <td>47.02%
 </td>
@@ -4334,7 +4324,7 @@ The tables below give the percentage of a certain stat on the amulet having stre
 <td>+164,263.68
 </td></tr>
 <tr>
-<td><b>0.16</b> (32 million score)
+<td><b>0.16</b>
 </td>
 <td>45.1%
 </td>
@@ -4345,7 +4335,7 @@ The tables below give the percentage of a certain stat on the amulet having stre
 <td>+164,763.55
 </td></tr>
 <tr>
-<td><b>0.175</b> (35 million score)
+<td><b>0.175</b>
 </td>
 <td>42.98%
 </td>
@@ -4356,7 +4346,7 @@ The tables below give the percentage of a certain stat on the amulet having stre
 <td>+165,314.38
 </td></tr>
 <tr>
-<td><b>0.19</b> (38 million score)
+<td><b>0.19</b>
 </td>
 <td>40.62%
 </td>
@@ -4367,7 +4357,7 @@ The tables below give the percentage of a certain stat on the amulet having stre
 <td>+165,928.6
 </td></tr>
 <tr>
-<td><b>0.205</b> (41 million score)
+<td><b>0.205</b>
 </td>
 <td>37.92%
 </td>
@@ -4378,7 +4368,7 @@ The tables below give the percentage of a certain stat on the amulet having stre
 <td>+166,625.16
 </td></tr>
 <tr>
-<td><b>0.22</b> (44 million score)
+<td><b>0.22</b>
 </td>
 <td>34.77%
 </td>
@@ -4389,7 +4379,7 @@ The tables below give the percentage of a certain stat on the amulet having stre
 <td>+167,436.4
 </td></tr>
 <tr>
-<td><b>0.235</b> (47 million score)
+<td><b>0.235</b>
 </td>
 <td>30.9%
 </td>
@@ -4400,7 +4390,7 @@ The tables below give the percentage of a certain stat on the amulet having stre
 <td>+168,430.81
 </td></tr>
 <tr>
-<td><b>0.25</b> (50 million score)
+<td><b>0.25</b>
 </td>
 <td>25%
 </td>
@@ -4435,7 +4425,7 @@ The tables below give the percentage of a certain stat on the amulet having stre
 <th>x1.2
 </th></tr>
 <tr>
-<td><b>0.1</b> (20 million score)
+<td><b>0.1</b>
 </td>
 <td>10%
 </td>
@@ -4452,7 +4442,7 @@ The tables below give the percentage of a certain stat on the amulet having stre
 <td>x1.17
 </td></tr>
 <tr>
-<td><b>0.115</b> (23 million score)
+<td><b>0.115</b>
 </td>
 <td>6.94%
 </td>
@@ -4469,7 +4459,7 @@ The tables below give the percentage of a certain stat on the amulet having stre
 <td>x1.17
 </td></tr>
 <tr>
-<td><b>0.13</b> (26 million score)
+<td><b>0.13</b>
 </td>
 <td>5.6%
 </td>
@@ -4486,7 +4476,7 @@ The tables below give the percentage of a certain stat on the amulet having stre
 <td>x1.17
 </td></tr>
 <tr>
-<td><b>0.145</b> (29 million score)
+<td><b>0.145</b>
 </td>
 <td>4.73%
 </td>
@@ -4503,7 +4493,7 @@ The tables below give the percentage of a certain stat on the amulet having stre
 <td>x1.17
 </td></tr>
 <tr>
-<td><b>0.16</b> (32 million score)
+<td><b>0.16</b>
 </td>
 <td>4.12%
 </td>
@@ -4520,7 +4510,7 @@ The tables below give the percentage of a certain stat on the amulet having stre
 <td>x1.17
 </td></tr>
 <tr>
-<td><b>0.175</b> (35 million score)
+<td><b>0.175</b>
 </td>
 <td>3.65%
 </td>
@@ -4537,7 +4527,7 @@ The tables below give the percentage of a certain stat on the amulet having stre
 <td>x1.17
 </td></tr>
 <tr>
-<td><b>0.19</b> (38 million score)
+<td><b>0.19</b>
 </td>
 <td>3.28%
 </td>
@@ -4554,7 +4544,7 @@ The tables below give the percentage of a certain stat on the amulet having stre
 <td>x1.17
 </td></tr>
 <tr>
-<td><b>0.205</b> (41 million score)
+<td><b>0.205</b>
 </td>
 <td>2.97%
 </td>
@@ -4571,7 +4561,7 @@ The tables below give the percentage of a certain stat on the amulet having stre
 <td>x1.17
 </td></tr>
 <tr>
-<td><b>0.22</b> (44 million score)
+<td><b>0.22</b>
 </td>
 <td>2.73%
 </td>
@@ -4588,7 +4578,7 @@ The tables below give the percentage of a certain stat on the amulet having stre
 <td>x1.17
 </td></tr>
 <tr>
-<td><b>0.235</b> (47 million score)
+<td><b>0.235</b>
 </td>
 <td>2.52%
 </td>
@@ -4605,7 +4595,7 @@ The tables below give the percentage of a certain stat on the amulet having stre
 <td>x1.17
 </td></tr>
 <tr>
-<td><b>0.25</b> (50 million score)
+<td><b>0.25</b>
 </td>
 <td>2.34%
 </td>
@@ -4646,7 +4636,7 @@ The tables below give the percentage of a certain stat on the amulet having stre
 <th>+15%
 </th></tr>
 <tr>
-<td><b>0.1</b> (20 million score)
+<td><b>0.1</b>
 </td>
 <td>10%
 </td>
@@ -4663,7 +4653,7 @@ The tables below give the percentage of a certain stat on the amulet having stre
 <td>+12%
 </td></tr>
 <tr>
-<td><b>0.115</b> (23 million score)
+<td><b>0.115</b>
 </td>
 <td>6.94%
 </td>
@@ -4680,7 +4670,7 @@ The tables below give the percentage of a certain stat on the amulet having stre
 <td>+12%
 </td></tr>
 <tr>
-<td><b>0.13</b> (26 million score)
+<td><b>0.13</b>
 </td>
 <td>5.6%
 </td>
@@ -4697,7 +4687,7 @@ The tables below give the percentage of a certain stat on the amulet having stre
 <td>+12%
 </td></tr>
 <tr>
-<td><b>0.145</b> (29 million score)
+<td><b>0.145</b>
 </td>
 <td>4.73%
 </td>
@@ -4714,7 +4704,7 @@ The tables below give the percentage of a certain stat on the amulet having stre
 <td>+12%
 </td></tr>
 <tr>
-<td><b>0.16</b> (32 million score)
+<td><b>0.16</b>
 </td>
 <td>4.12%
 </td>
@@ -4731,7 +4721,7 @@ The tables below give the percentage of a certain stat on the amulet having stre
 <td>+12%
 </td></tr>
 <tr>
-<td><b>0.175</b> (35 million score)
+<td><b>0.175</b>
 </td>
 <td>3.65%
 </td>
@@ -4748,7 +4738,7 @@ The tables below give the percentage of a certain stat on the amulet having stre
 <td>+12%
 </td></tr>
 <tr>
-<td><b>0.19</b> (38 million score)
+<td><b>0.19</b>
 </td>
 <td>3.28%
 </td>
@@ -4765,7 +4755,7 @@ The tables below give the percentage of a certain stat on the amulet having stre
 <td>+12%
 </td></tr>
 <tr>
-<td><b>0.205</b> (41 million score)
+<td><b>0.205</b>
 </td>
 <td>2.97%
 </td>
@@ -4782,7 +4772,7 @@ The tables below give the percentage of a certain stat on the amulet having stre
 <td>+12%
 </td></tr>
 <tr>
-<td><b>0.22</b> (44 million score)
+<td><b>0.22</b>
 </td>
 <td>2.73%
 </td>
@@ -4799,7 +4789,7 @@ The tables below give the percentage of a certain stat on the amulet having stre
 <td>+12%
 </td></tr>
 <tr>
-<td><b>0.235</b> (47 million score)
+<td><b>0.235</b>
 </td>
 <td>2.52%
 </td>
@@ -4816,7 +4806,7 @@ The tables below give the percentage of a certain stat on the amulet having stre
 <td>+12%
 </td></tr>
 <tr>
-<td><b>0.25</b> (50 million score)
+<td><b>0.25</b>
 </td>
 <td>2.34%
 </td>
@@ -4849,7 +4839,7 @@ The tables below give the percentage of a certain stat on the amulet having stre
 <th>+4%
 </th></tr>
 <tr>
-<td><b>0.1</b> (20 million score)
+<td><b>0.1</b>
 </td>
 <td>82.44%
 </td>
@@ -4858,7 +4848,7 @@ The tables below give the percentage of a certain stat on the amulet having stre
 <td>+3.2%
 </td></tr>
 <tr>
-<td><b>0.115</b> (23 million score)
+<td><b>0.115</b>
 </td>
 <td>82.045%
 </td>
@@ -4867,7 +4857,7 @@ The tables below give the percentage of a certain stat on the amulet having stre
 <td>+3.2%
 </td></tr>
 <tr>
-<td><b>0.13</b> (26 million score)
+<td><b>0.13</b>
 </td>
 <td>81.63%
 </td>
@@ -4876,7 +4866,7 @@ The tables below give the percentage of a certain stat on the amulet having stre
 <td>+3.2%
 </td></tr>
 <tr>
-<td><b>0.145</b> (29 million score)
+<td><b>0.145</b>
 </td>
 <td>81.2%
 </td>
@@ -4885,7 +4875,7 @@ The tables below give the percentage of a certain stat on the amulet having stre
 <td>+3.2%
 </td></tr>
 <tr>
-<td><b>0.16</b> (32 million score)
+<td><b>0.16</b>
 </td>
 <td>80.75%
 </td>
@@ -4894,7 +4884,7 @@ The tables below give the percentage of a certain stat on the amulet having stre
 <td>+3.2%
 </td></tr>
 <tr>
-<td><b>0.175</b> (35 million score)
+<td><b>0.175</b>
 </td>
 <td>80.28%
 </td>
@@ -4903,7 +4893,7 @@ The tables below give the percentage of a certain stat on the amulet having stre
 <td>+3.2%
 </td></tr>
 <tr>
-<td><b>0.19</b> (38 million score)
+<td><b>0.19</b>
 </td>
 <td>79.77%
 </td>
@@ -4912,7 +4902,7 @@ The tables below give the percentage of a certain stat on the amulet having stre
 <td>+3.2%
 </td></tr>
 <tr>
-<td><b>0.205</b> (41 million score)
+<td><b>0.205</b>
 </td>
 <td>79.25%
 </td>
@@ -4921,7 +4911,7 @@ The tables below give the percentage of a certain stat on the amulet having stre
 <td>+3.2%
 </td></tr>
 <tr>
-<td><b>0.22</b> (44 million score)
+<td><b>0.22</b>
 </td>
 <td>78.69%
 </td>
@@ -4930,7 +4920,7 @@ The tables below give the percentage of a certain stat on the amulet having stre
 <td>+3.2%
 </td></tr>
 <tr>
-<td><b>0.235</b> (47 million score)
+<td><b>0.235</b>
 </td>
 <td>78.094%
 </td>
@@ -4939,7 +4929,7 @@ The tables below give the percentage of a certain stat on the amulet having stre
 <td>+3.2%
 </td></tr>
 <tr>
-<td><b>0.25</b> (50 million score)
+<td><b>0.25</b>
 </td>
 <td>77.47%
 </td>
@@ -4966,7 +4956,7 @@ The tables below give the percentage of a certain stat on the amulet having stre
 <th>+6%
 </th></tr>
 <tr>
-<td><b>0.1</b> (20 million score)
+<td><b>0.1</b>
 </td>
 <td>51.88%
 </td>
@@ -4977,7 +4967,7 @@ The tables below give the percentage of a certain stat on the amulet having stre
 <td>+4.5%
 </td></tr>
 <tr>
-<td><b>0.115</b> (23 million score)
+<td><b>0.115</b>
 </td>
 <td>50.38%
 </td>
@@ -4988,7 +4978,7 @@ The tables below give the percentage of a certain stat on the amulet having stre
 <td>+4.5%
 </td></tr>
 <tr>
-<td><b>0.13</b> (26 million score)
+<td><b>0.13</b>
 </td>
 <td>48.77%
 </td>
@@ -4999,7 +4989,7 @@ The tables below give the percentage of a certain stat on the amulet having stre
 <td>+4.6%
 </td></tr>
 <tr>
-<td><b>0.145</b> (29 million score)
+<td><b>0.145</b>
 </td>
 <td>47.02%
 </td>
@@ -5010,7 +5000,7 @@ The tables below give the percentage of a certain stat on the amulet having stre
 <td>+4.6%
 </td></tr>
 <tr>
-<td><b>0.16</b> (32 million score)
+<td><b>0.16</b>
 </td>
 <td>45.1%
 </td>
@@ -5021,7 +5011,7 @@ The tables below give the percentage of a certain stat on the amulet having stre
 <td>+4.6%
 </td></tr>
 <tr>
-<td><b>0.175</b> (35 million score)
+<td><b>0.175</b>
 </td>
 <td>42.98%
 </td>
@@ -5032,7 +5022,7 @@ The tables below give the percentage of a certain stat on the amulet having stre
 <td>+4.6%
 </td></tr>
 <tr>
-<td><b>0.19</b> (38 million score)
+<td><b>0.19</b>
 </td>
 <td>40.62%
 </td>
@@ -5043,7 +5033,7 @@ The tables below give the percentage of a certain stat on the amulet having stre
 <td>+4.6%
 </td></tr>
 <tr>
-<td><b>0.205</b> (41 million score)
+<td><b>0.205</b>
 </td>
 <td>37.92%
 </td>
@@ -5054,7 +5044,7 @@ The tables below give the percentage of a certain stat on the amulet having stre
 <td>+4.7%
 </td></tr>
 <tr>
-<td><b>0.22</b> (44 million score)
+<td><b>0.22</b>
 </td>
 <td>34.77%
 </td>
@@ -5065,7 +5055,7 @@ The tables below give the percentage of a certain stat on the amulet having stre
 <td>+4.7%
 </td></tr>
 <tr>
-<td><b>0.235</b> (47 million score)
+<td><b>0.235</b>
 </td>
 <td>30.9%
 </td>
@@ -5076,7 +5066,7 @@ The tables below give the percentage of a certain stat on the amulet having stre
 <td>+4.7%
 </td></tr>
 <tr>
-<td><b>0.25</b> (50 million score)
+<td><b>0.25</b>
 </td>
 <td>25%
 </td>
@@ -5103,7 +5093,7 @@ The tables below give the percentage of a certain stat on the amulet having stre
 <th>+2
 </th></tr>
 <tr>
-<td><b>0.1</b> (20 million score)
+<td><b>0.1</b>
 </td>
 <td>82.44%
 </td>
@@ -5112,7 +5102,7 @@ The tables below give the percentage of a certain stat on the amulet having stre
 <td>+1.18
 </td></tr>
 <tr>
-<td><b>0.115</b> (23 million score)
+<td><b>0.115</b>
 </td>
 <td>82.045%
 </td>
@@ -5121,7 +5111,7 @@ The tables below give the percentage of a certain stat on the amulet having stre
 <td>+1.18
 </td></tr>
 <tr>
-<td><b>0.13</b> (26 million score)
+<td><b>0.13</b>
 </td>
 <td>81.63%
 </td>
@@ -5130,7 +5120,7 @@ The tables below give the percentage of a certain stat on the amulet having stre
 <td>+1.18
 </td></tr>
 <tr>
-<td><b>0.145</b> (29 million score)
+<td><b>0.145</b>
 </td>
 <td>81.2%
 </td>
@@ -5139,7 +5129,7 @@ The tables below give the percentage of a certain stat on the amulet having stre
 <td>+1.19
 </td></tr>
 <tr>
-<td><b>0.16</b> (32 million score)
+<td><b>0.16</b>
 </td>
 <td>80.75%
 </td>
@@ -5148,7 +5138,7 @@ The tables below give the percentage of a certain stat on the amulet having stre
 <td>+1.19
 </td></tr>
 <tr>
-<td><b>0.175</b> (35 million score)
+<td><b>0.175</b>
 </td>
 <td>80.28%
 </td>
@@ -5157,7 +5147,7 @@ The tables below give the percentage of a certain stat on the amulet having stre
 <td>+1.2
 </td></tr>
 <tr>
-<td><b>0.19</b> (38 million score)
+<td><b>0.19</b>
 </td>
 <td>79.77%
 </td>
@@ -5166,7 +5156,7 @@ The tables below give the percentage of a certain stat on the amulet having stre
 <td>+1.2
 </td></tr>
 <tr>
-<td><b>0.205</b> (41 million score)
+<td><b>0.205</b>
 </td>
 <td>79.25%
 </td>
@@ -5175,7 +5165,7 @@ The tables below give the percentage of a certain stat on the amulet having stre
 <td>+1.21
 </td></tr>
 <tr>
-<td><b>0.22</b> (44 million score)
+<td><b>0.22</b>
 </td>
 <td>78.69%
 </td>
@@ -5184,7 +5174,7 @@ The tables below give the percentage of a certain stat on the amulet having stre
 <td>+1.21
 </td></tr>
 <tr>
-<td><b>0.235</b> (47 million score)
+<td><b>0.235</b>
 </td>
 <td>78.094%
 </td>
@@ -5193,7 +5183,7 @@ The tables below give the percentage of a certain stat on the amulet having stre
 <td>+1.22
 </td></tr>
 <tr>
-<td><b>0.25</b> (50 million score)
+<td><b>0.25</b>
 </td>
 <td>77.47%
 </td>
@@ -5218,7 +5208,7 @@ The tables below give the percentage of a certain stat on the amulet having stre
 <th>+2
 </th></tr>
 <tr>
-<td><b>0.1</b> (20 million score)
+<td><b>0.1</b>
 </td>
 <td>82.44%
 </td>
@@ -5227,7 +5217,7 @@ The tables below give the percentage of a certain stat on the amulet having stre
 <td>+1.18
 </td></tr>
 <tr>
-<td><b>0.115</b> (23 million score)
+<td><b>0.115</b>
 </td>
 <td>82.045%
 </td>
@@ -5236,7 +5226,7 @@ The tables below give the percentage of a certain stat on the amulet having stre
 <td>+1.18
 </td></tr>
 <tr>
-<td><b>0.13</b> (26 million score)
+<td><b>0.13</b>
 </td>
 <td>81.63%
 </td>
@@ -5245,7 +5235,7 @@ The tables below give the percentage of a certain stat on the amulet having stre
 <td>+1.18
 </td></tr>
 <tr>
-<td><b>0.145</b> (29 million score)
+<td><b>0.145</b>
 </td>
 <td>81.2%
 </td>
@@ -5254,7 +5244,7 @@ The tables below give the percentage of a certain stat on the amulet having stre
 <td>+1.19
 </td></tr>
 <tr>
-<td><b>0.16</b> (32 million score)
+<td><b>0.16</b>
 </td>
 <td>80.75%
 </td>
@@ -5263,7 +5253,7 @@ The tables below give the percentage of a certain stat on the amulet having stre
 <td>+1.19
 </td></tr>
 <tr>
-<td><b>0.175</b> (35 million score)
+<td><b>0.175</b>
 </td>
 <td>80.28%
 </td>
@@ -5272,7 +5262,7 @@ The tables below give the percentage of a certain stat on the amulet having stre
 <td>+1.2
 </td></tr>
 <tr>
-<td><b>0.19</b> (38 million score)
+<td><b>0.19</b>
 </td>
 <td>79.77%
 </td>
@@ -5281,7 +5271,7 @@ The tables below give the percentage of a certain stat on the amulet having stre
 <td>+1.2
 </td></tr>
 <tr>
-<td><b>0.205</b> (41 million score)
+<td><b>0.205</b>
 </td>
 <td>79.25%
 </td>
@@ -5290,7 +5280,7 @@ The tables below give the percentage of a certain stat on the amulet having stre
 <td>+1.21
 </td></tr>
 <tr>
-<td><b>0.22</b> (44 million score)
+<td><b>0.22</b>
 </td>
 <td>78.69%
 </td>
@@ -5299,7 +5289,7 @@ The tables below give the percentage of a certain stat on the amulet having stre
 <td>+1.21
 </td></tr>
 <tr>
-<td><b>0.235</b> (47 million score)
+<td><b>0.235</b>
 </td>
 <td>78.094%
 </td>
@@ -5308,7 +5298,7 @@ The tables below give the percentage of a certain stat on the amulet having stre
 <td>+1.22
 </td></tr>
 <tr>
-<td><b>0.25</b> (50 million score)
+<td><b>0.25</b>
 </td>
 <td>77.47%
 </td>
@@ -5341,7 +5331,7 @@ The tables below give the percentage of a certain stat on the amulet having stre
 <th>+25%
 </th></tr>
 <tr>
-<td><b>0.1</b> (20 million score)
+<td><b>0.1</b>
 </td>
 <td>10%
 </td>
@@ -5358,7 +5348,7 @@ The tables below give the percentage of a certain stat on the amulet having stre
 <td>+22%
 </td></tr>
 <tr>
-<td><b>0.115</b> (23 million score)
+<td><b>0.115</b>
 </td>
 <td>6.94%
 </td>
@@ -5375,7 +5365,7 @@ The tables below give the percentage of a certain stat on the amulet having stre
 <td>+22%
 </td></tr>
 <tr>
-<td><b>0.13</b> (26 million score)
+<td><b>0.13</b>
 </td>
 <td>5.6%
 </td>
@@ -5392,7 +5382,7 @@ The tables below give the percentage of a certain stat on the amulet having stre
 <td>+22%
 </td></tr>
 <tr>
-<td><b>0.145</b> (29 million score)
+<td><b>0.145</b>
 </td>
 <td>4.73%
 </td>
@@ -5409,7 +5399,7 @@ The tables below give the percentage of a certain stat on the amulet having stre
 <td>+22%
 </td></tr>
 <tr>
-<td><b>0.16</b> (32 million score)
+<td><b>0.16</b>
 </td>
 <td>4.12%
 </td>
@@ -5426,7 +5416,7 @@ The tables below give the percentage of a certain stat on the amulet having stre
 <td>+22%
 </td></tr>
 <tr>
-<td><b>0.175</b> (35 million score)
+<td><b>0.175</b>
 </td>
 <td>3.65%
 </td>
@@ -5443,7 +5433,7 @@ The tables below give the percentage of a certain stat on the amulet having stre
 <td>+22%
 </td></tr>
 <tr>
-<td><b>0.19</b> (38 million score)
+<td><b>0.19</b>
 </td>
 <td>3.28%
 </td>
@@ -5460,7 +5450,7 @@ The tables below give the percentage of a certain stat on the amulet having stre
 <td>+22%
 </td></tr>
 <tr>
-<td><b>0.205</b> (41 million score)
+<td><b>0.205</b>
 </td>
 <td>2.97%
 </td>
@@ -5477,7 +5467,7 @@ The tables below give the percentage of a certain stat on the amulet having stre
 <td>+22%
 </td></tr>
 <tr>
-<td><b>0.22</b> (44 million score)
+<td><b>0.22</b>
 </td>
 <td>2.73%
 </td>
@@ -5494,7 +5484,7 @@ The tables below give the percentage of a certain stat on the amulet having stre
 <td>+22%
 </td></tr>
 <tr>
-<td><b>0.235</b> (47 million score)
+<td><b>0.235</b>
 </td>
 <td>2.52%
 </td>
@@ -5511,7 +5501,7 @@ The tables below give the percentage of a certain stat on the amulet having stre
 <td>+22%
 </td></tr>
 <tr>
-<td><b>0.25</b> (50 million score)
+<td><b>0.25</b>
 </td>
 <td>2.34%
 </td>
@@ -5552,7 +5542,7 @@ The tables below give the percentage of a certain stat on the amulet having stre
 <th>+25%
 </th></tr>
 <tr>
-<td><b>0.1</b> (20 million score)
+<td><b>0.1</b>
 </td>
 <td>10%
 </td>
@@ -5569,7 +5559,7 @@ The tables below give the percentage of a certain stat on the amulet having stre
 <td>+22%
 </td></tr>
 <tr>
-<td><b>0.115</b> (23 million score)
+<td><b>0.115</b>
 </td>
 <td>6.94%
 </td>
@@ -5586,7 +5576,7 @@ The tables below give the percentage of a certain stat on the amulet having stre
 <td>+22%
 </td></tr>
 <tr>
-<td><b>0.13</b> (26 million score)
+<td><b>0.13</b>
 </td>
 <td>5.6%
 </td>
@@ -5603,7 +5593,7 @@ The tables below give the percentage of a certain stat on the amulet having stre
 <td>+22%
 </td></tr>
 <tr>
-<td><b>0.145</b> (29 million score)
+<td><b>0.145</b>
 </td>
 <td>4.73%
 </td>
@@ -5620,7 +5610,7 @@ The tables below give the percentage of a certain stat on the amulet having stre
 <td>+22%
 </td></tr>
 <tr>
-<td><b>0.16</b> (32 million score)
+<td><b>0.16</b>
 </td>
 <td>4.12%
 </td>
@@ -5637,7 +5627,7 @@ The tables below give the percentage of a certain stat on the amulet having stre
 <td>+22%
 </td></tr>
 <tr>
-<td><b>0.175</b> (35 million score)
+<td><b>0.175</b>
 </td>
 <td>3.65%
 </td>
@@ -5654,7 +5644,7 @@ The tables below give the percentage of a certain stat on the amulet having stre
 <td>+22%
 </td></tr>
 <tr>
-<td><b>0.19</b> (38 million score)
+<td><b>0.19</b>
 </td>
 <td>3.28%
 </td>
@@ -5671,7 +5661,7 @@ The tables below give the percentage of a certain stat on the amulet having stre
 <td>+22%
 </td></tr>
 <tr>
-<td><b>0.205</b> (41 million score)
+<td><b>0.205</b>
 </td>
 <td>2.97%
 </td>
@@ -5688,7 +5678,7 @@ The tables below give the percentage of a certain stat on the amulet having stre
 <td>+22%
 </td></tr>
 <tr>
-<td><b>0.22</b> (44 million score)
+<td><b>0.22</b>
 </td>
 <td>2.73%
 </td>
@@ -5705,7 +5695,7 @@ The tables below give the percentage of a certain stat on the amulet having stre
 <td>+22%
 </td></tr>
 <tr>
-<td><b>0.235</b> (47 million score)
+<td><b>0.235</b>
 </td>
 <td>2.52%
 </td>
@@ -5722,7 +5712,7 @@ The tables below give the percentage of a certain stat on the amulet having stre
 <td>+22%
 </td></tr>
 <tr>
-<td><b>0.25</b> (50 million score)
+<td><b>0.25</b>
 </td>
 <td>2.34%
 </td>
@@ -5763,7 +5753,7 @@ The tables below give the percentage of a certain stat on the amulet having stre
 <th>+25%
 </th></tr>
 <tr>
-<td><b>0.1</b> (20 million score)
+<td><b>0.1</b>
 </td>
 <td>10%
 </td>
@@ -5780,7 +5770,7 @@ The tables below give the percentage of a certain stat on the amulet having stre
 <td>+22%
 </td></tr>
 <tr>
-<td><b>0.115</b> (23 million score)
+<td><b>0.115</b>
 </td>
 <td>6.94%
 </td>
@@ -5797,7 +5787,7 @@ The tables below give the percentage of a certain stat on the amulet having stre
 <td>+22%
 </td></tr>
 <tr>
-<td><b>0.13</b> (26 million score)
+<td><b>0.13</b>
 </td>
 <td>5.6%
 </td>
@@ -5814,7 +5804,7 @@ The tables below give the percentage of a certain stat on the amulet having stre
 <td>+22%
 </td></tr>
 <tr>
-<td><b>0.145</b> (29 million score)
+<td><b>0.145</b>
 </td>
 <td>4.73%
 </td>
@@ -5831,7 +5821,7 @@ The tables below give the percentage of a certain stat on the amulet having stre
 <td>+22%
 </td></tr>
 <tr>
-<td><b>0.16</b> (32 million score)
+<td><b>0.16</b>
 </td>
 <td>4.12%
 </td>
@@ -5848,7 +5838,7 @@ The tables below give the percentage of a certain stat on the amulet having stre
 <td>+22%
 </td></tr>
 <tr>
-<td><b>0.175</b> (35 million score)
+<td><b>0.175</b>
 </td>
 <td>3.65%
 </td>
@@ -5865,7 +5855,7 @@ The tables below give the percentage of a certain stat on the amulet having stre
 <td>+22%
 </td></tr>
 <tr>
-<td><b>0.19</b> (38 million score)
+<td><b>0.19</b>
 </td>
 <td>3.28%
 </td>
@@ -5882,7 +5872,7 @@ The tables below give the percentage of a certain stat on the amulet having stre
 <td>+22%
 </td></tr>
 <tr>
-<td><b>0.205</b> (41 million score)
+<td><b>0.205</b>
 </td>
 <td>2.97%
 </td>
@@ -5899,7 +5889,7 @@ The tables below give the percentage of a certain stat on the amulet having stre
 <td>+22%
 </td></tr>
 <tr>
-<td><b>0.22</b> (44 million score)
+<td><b>0.22</b>
 </td>
 <td>2.73%
 </td>
@@ -5916,7 +5906,7 @@ The tables below give the percentage of a certain stat on the amulet having stre
 <td>+22%
 </td></tr>
 <tr>
-<td><b>0.235</b> (47 million score)
+<td><b>0.235</b>
 </td>
 <td>2.52%
 </td>
@@ -5933,7 +5923,7 @@ The tables below give the percentage of a certain stat on the amulet having stre
 <td>+22%
 </td></tr>
 <tr>
-<td><b>0.25</b> (50 million score)
+<td><b>0.25</b>
 </td>
 <td>2.34%
 </td>
@@ -5970,7 +5960,7 @@ The tables below give the percentage of a certain stat on the amulet having stre
 <th>+8%
 </th></tr>
 <tr>
-<td><b>0.1</b> (20 million score)
+<td><b>0.1</b>
 </td>
 <td>34.018%
 </td>
@@ -5983,7 +5973,7 @@ The tables below give the percentage of a certain stat on the amulet having stre
 <td>+5.9%
 </td></tr>
 <tr>
-<td><b>0.115</b> (23 million score)
+<td><b>0.115</b>
 </td>
 <td>31.34%
 </td>
@@ -5996,7 +5986,7 @@ The tables below give the percentage of a certain stat on the amulet having stre
 <td>+5.9%
 </td></tr>
 <tr>
-<td><b>0.13</b> (26 million score)
+<td><b>0.13</b>
 </td>
 <td>28.28%
 </td>
@@ -6009,7 +5999,7 @@ The tables below give the percentage of a certain stat on the amulet having stre
 <td>+5.9%
 </td></tr>
 <tr>
-<td><b>0.145</b> (29 million score)
+<td><b>0.145</b>
 </td>
 <td>24.63%
 </td>
@@ -6022,7 +6012,7 @@ The tables below give the percentage of a certain stat on the amulet having stre
 <td>+6%
 </td></tr>
 <tr>
-<td><b>0.16</b> (32 million score)
+<td><b>0.16</b>
 </td>
 <td>19.89%
 </td>
@@ -6035,7 +6025,7 @@ The tables below give the percentage of a certain stat on the amulet having stre
 <td>+6%
 </td></tr>
 <tr>
-<td><b>0.175</b> (35 million score)
+<td><b>0.175</b>
 </td>
 <td>14.13%
 </td>
@@ -6048,7 +6038,7 @@ The tables below give the percentage of a certain stat on the amulet having stre
 <td>+6.1%
 </td></tr>
 <tr>
-<td><b>0.19</b> (38 million score)
+<td><b>0.19</b>
 </td>
 <td>11.77%
 </td>
@@ -6061,7 +6051,7 @@ The tables below give the percentage of a certain stat on the amulet having stre
 <td>+6.1%
 </td></tr>
 <tr>
-<td><b>0.205</b> (41 million score)
+<td><b>0.205</b>
 </td>
 <td>10.24%
 </td>
@@ -6074,7 +6064,7 @@ The tables below give the percentage of a certain stat on the amulet having stre
 <td>+6.1%
 </td></tr>
 <tr>
-<td><b>0.22</b> (44 million score)
+<td><b>0.22</b>
 </td>
 <td>9.11%
 </td>
@@ -6087,7 +6077,7 @@ The tables below give the percentage of a certain stat on the amulet having stre
 <td>+6.1%
 </td></tr>
 <tr>
-<td><b>0.235</b> (47 million score)
+<td><b>0.235</b>
 </td>
 <td>8.23%
 </td>
@@ -6100,7 +6090,7 @@ The tables below give the percentage of a certain stat on the amulet having stre
 <td>+6.2%
 </td></tr>
 <tr>
-<td><b>0.25</b> (50 million score)
+<td><b>0.25</b>
 </td>
 <td>7.51%
 </td>
@@ -6139,7 +6129,7 @@ The tables below give the percentage of a certain stat on the amulet having stre
 <th>+77%-+79%
 </th></tr>
 <tr>
-<td><b>0.1</b> (20 million score)
+<td><b>0.1</b>
 </td>
 <td>23.74%
 </td>
@@ -6158,7 +6148,7 @@ The tables below give the percentage of a certain stat on the amulet having stre
 <td>+67%
 </td></tr>
 <tr>
-<td><b>0.115</b> (23 million score)
+<td><b>0.115</b>
 </td>
 <td>19.75%
 </td>
@@ -6177,7 +6167,7 @@ The tables below give the percentage of a certain stat on the amulet having stre
 <td>+67%
 </td></tr>
 <tr>
-<td><b>0.13</b> (26 million score)
+<td><b>0.13</b>
 </td>
 <td>14.15%
 </td>
@@ -6196,7 +6186,7 @@ The tables below give the percentage of a certain stat on the amulet having stre
 <td>+67%
 </td></tr>
 <tr>
-<td><b>0.145</b> (29 million score)
+<td><b>0.145</b>
 </td>
 <td>9.96%
 </td>
@@ -6215,7 +6205,7 @@ The tables below give the percentage of a certain stat on the amulet having stre
 <td>+67%
 </td></tr>
 <tr>
-<td><b>0.16</b> (32 million score)
+<td><b>0.16</b>
 </td>
 <td>8.25%
 </td>
@@ -6234,7 +6224,7 @@ The tables below give the percentage of a certain stat on the amulet having stre
 <td>+67%
 </td></tr>
 <tr>
-<td><b>0.175</b> (35 million score)
+<td><b>0.175</b>
 </td>
 <td>7.11%
 </td>
@@ -6253,7 +6243,7 @@ The tables below give the percentage of a certain stat on the amulet having stre
 <td>+67%
 </td></tr>
 <tr>
-<td><b>0.19</b> (38 million score)
+<td><b>0.19</b>
 </td>
 <td>6.27%
 </td>
@@ -6272,7 +6262,7 @@ The tables below give the percentage of a certain stat on the amulet having stre
 <td>+68%
 </td></tr>
 <tr>
-<td><b>0.205</b> (41 million score)
+<td><b>0.205</b>
 </td>
 <td>5.62%
 </td>
@@ -6291,7 +6281,7 @@ The tables below give the percentage of a certain stat on the amulet having stre
 <td>+68%
 </td></tr>
 <tr>
-<td><b>0.22</b> (44 million score)
+<td><b>0.22</b>
 </td>
 <td>5.098%
 </td>
@@ -6310,7 +6300,7 @@ The tables below give the percentage of a certain stat on the amulet having stre
 <td>+68%
 </td></tr>
 <tr>
-<td><b>0.235</b> (47 million score)
+<td><b>0.235</b>
 </td>
 <td>4.67%
 </td>
@@ -6329,7 +6319,7 @@ The tables below give the percentage of a certain stat on the amulet having stre
 <td>+68%
 </td></tr>
 <tr>
-<td><b>0.25</b> (50 million score)
+<td><b>0.25</b>
 </td>
 <td>4.31%
 </td>
@@ -6366,7 +6356,7 @@ The tables below give the percentage of a certain stat on the amulet having stre
 <th>+9%
 </th></tr>
 <tr>
-<td><b>0.1</b> (20 million score)
+<td><b>0.1</b>
 </td>
 <td>51.88%
 </td>
@@ -6377,7 +6367,7 @@ The tables below give the percentage of a certain stat on the amulet having stre
 <td>+7.5%
 </td></tr>
 <tr>
-<td><b>0.115</b> (23 million score)
+<td><b>0.115</b>
 </td>
 <td>50.38%
 </td>
@@ -6388,7 +6378,7 @@ The tables below give the percentage of a certain stat on the amulet having stre
 <td>+7.5%
 </td></tr>
 <tr>
-<td><b>0.13</b> (26 million score)
+<td><b>0.13</b>
 </td>
 <td>48.77%
 </td>
@@ -6399,7 +6389,7 @@ The tables below give the percentage of a certain stat on the amulet having stre
 <td>+7.6%
 </td></tr>
 <tr>
-<td><b>0.145</b> (29 million score)
+<td><b>0.145</b>
 </td>
 <td>47.02%
 </td>
@@ -6410,7 +6400,7 @@ The tables below give the percentage of a certain stat on the amulet having stre
 <td>+7.6%
 </td></tr>
 <tr>
-<td><b>0.16</b> (32 million score)
+<td><b>0.16</b>
 </td>
 <td>45.1%
 </td>
@@ -6421,7 +6411,7 @@ The tables below give the percentage of a certain stat on the amulet having stre
 <td>+7.6%
 </td></tr>
 <tr>
-<td><b>0.175</b> (35 million score)
+<td><b>0.175</b>
 </td>
 <td>42.98%
 </td>
@@ -6432,7 +6422,7 @@ The tables below give the percentage of a certain stat on the amulet having stre
 <td>+7.6%
 </td></tr>
 <tr>
-<td><b>0.19</b> (38 million score)
+<td><b>0.19</b>
 </td>
 <td>40.62%
 </td>
@@ -6443,7 +6433,7 @@ The tables below give the percentage of a certain stat on the amulet having stre
 <td>+7.6%
 </td></tr>
 <tr>
-<td><b>0.205</b> (41 million score)
+<td><b>0.205</b>
 </td>
 <td>37.92%
 </td>
@@ -6454,7 +6444,7 @@ The tables below give the percentage of a certain stat on the amulet having stre
 <td>+7.7%
 </td></tr>
 <tr>
-<td><b>0.22</b> (44 million score)
+<td><b>0.22</b>
 </td>
 <td>34.77%
 </td>
@@ -6465,7 +6455,7 @@ The tables below give the percentage of a certain stat on the amulet having stre
 <td>+7.7%
 </td></tr>
 <tr>
-<td><b>0.235</b> (47 million score)
+<td><b>0.235</b>
 </td>
 <td>30.9%
 </td>
@@ -6476,7 +6466,7 @@ The tables below give the percentage of a certain stat on the amulet having stre
 <td>+7.7%
 </td></tr>
 <tr>
-<td><b>0.25</b> (50 million score)
+<td><b>0.25</b>
 </td>
 <td>25%
 </td>
@@ -6511,7 +6501,7 @@ The tables below give the percentage of a certain stat on the amulet having stre
 <th>+25%
 </th></tr>
 <tr>
-<td><b>0.1</b> (20 million score)
+<td><b>0.1</b>
 </td>
 <td>10%
 </td>
@@ -6528,7 +6518,7 @@ The tables below give the percentage of a certain stat on the amulet having stre
 <td>+22%
 </td></tr>
 <tr>
-<td><b>0.115</b> (23 million score)
+<td><b>0.115</b>
 </td>
 <td>6.94%
 </td>
@@ -6545,7 +6535,7 @@ The tables below give the percentage of a certain stat on the amulet having stre
 <td>+22%
 </td></tr>
 <tr>
-<td><b>0.13</b> (26 million score)
+<td><b>0.13</b>
 </td>
 <td>5.6%
 </td>
@@ -6562,7 +6552,7 @@ The tables below give the percentage of a certain stat on the amulet having stre
 <td>+22%
 </td></tr>
 <tr>
-<td><b>0.145</b> (29 million score)
+<td><b>0.145</b>
 </td>
 <td>4.73%
 </td>
@@ -6579,7 +6569,7 @@ The tables below give the percentage of a certain stat on the amulet having stre
 <td>+22%
 </td></tr>
 <tr>
-<td><b>0.16</b> (32 million score)
+<td><b>0.16</b>
 </td>
 <td>4.12%
 </td>
@@ -6596,7 +6586,7 @@ The tables below give the percentage of a certain stat on the amulet having stre
 <td>+22%
 </td></tr>
 <tr>
-<td><b>0.175</b> (35 million score)
+<td><b>0.175</b>
 </td>
 <td>3.65%
 </td>
@@ -6613,7 +6603,7 @@ The tables below give the percentage of a certain stat on the amulet having stre
 <td>+22%
 </td></tr>
 <tr>
-<td><b>0.19</b> (38 million score)
+<td><b>0.19</b>
 </td>
 <td>3.28%
 </td>
@@ -6630,7 +6620,7 @@ The tables below give the percentage of a certain stat on the amulet having stre
 <td>+22%
 </td></tr>
 <tr>
-<td><b>0.205</b> (41 million score)
+<td><b>0.205</b>
 </td>
 <td>2.97%
 </td>
@@ -6647,7 +6637,7 @@ The tables below give the percentage of a certain stat on the amulet having stre
 <td>+22%
 </td></tr>
 <tr>
-<td><b>0.22</b> (44 million score)
+<td><b>0.22</b>
 </td>
 <td>2.73%
 </td>
@@ -6664,7 +6654,7 @@ The tables below give the percentage of a certain stat on the amulet having stre
 <td>+22%
 </td></tr>
 <tr>
-<td><b>0.235</b> (47 million score)
+<td><b>0.235</b>
 </td>
 <td>2.52%
 </td>
@@ -6681,7 +6671,7 @@ The tables below give the percentage of a certain stat on the amulet having stre
 <td>+22%
 </td></tr>
 <tr>
-<td><b>0.25</b> (50 million score)
+<td><b>0.25</b>
 </td>
 <td>2.34%
 </td>
@@ -6722,7 +6712,7 @@ The tables below give the percentage of a certain stat on the amulet having stre
 <th>+25%
 </th></tr>
 <tr>
-<td><b>0.1</b> (20 million score)
+<td><b>0.1</b>
 </td>
 <td>10%
 </td>
@@ -6739,7 +6729,7 @@ The tables below give the percentage of a certain stat on the amulet having stre
 <td>+22%
 </td></tr>
 <tr>
-<td><b>0.115</b> (23 million score)
+<td><b>0.115</b>
 </td>
 <td>6.94%
 </td>
@@ -6756,7 +6746,7 @@ The tables below give the percentage of a certain stat on the amulet having stre
 <td>+22%
 </td></tr>
 <tr>
-<td><b>0.13</b> (26 million score)
+<td><b>0.13</b>
 </td>
 <td>5.6%
 </td>
@@ -6773,7 +6763,7 @@ The tables below give the percentage of a certain stat on the amulet having stre
 <td>+22%
 </td></tr>
 <tr>
-<td><b>0.145</b> (29 million score)
+<td><b>0.145</b>
 </td>
 <td>4.73%
 </td>
@@ -6790,7 +6780,7 @@ The tables below give the percentage of a certain stat on the amulet having stre
 <td>+22%
 </td></tr>
 <tr>
-<td><b>0.16</b> (32 million score)
+<td><b>0.16</b>
 </td>
 <td>4.12%
 </td>
@@ -6807,7 +6797,7 @@ The tables below give the percentage of a certain stat on the amulet having stre
 <td>+22%
 </td></tr>
 <tr>
-<td><b>0.175</b> (35 million score)
+<td><b>0.175</b>
 </td>
 <td>3.65%
 </td>
@@ -6824,7 +6814,7 @@ The tables below give the percentage of a certain stat on the amulet having stre
 <td>+22%
 </td></tr>
 <tr>
-<td><b>0.19</b> (38 million score)
+<td><b>0.19</b>
 </td>
 <td>3.28%
 </td>
@@ -6841,7 +6831,7 @@ The tables below give the percentage of a certain stat on the amulet having stre
 <td>+22%
 </td></tr>
 <tr>
-<td><b>0.205</b> (41 million score)
+<td><b>0.205</b>
 </td>
 <td>2.97%
 </td>
@@ -6858,7 +6848,7 @@ The tables below give the percentage of a certain stat on the amulet having stre
 <td>+22%
 </td></tr>
 <tr>
-<td><b>0.22</b> (44 million score)
+<td><b>0.22</b>
 </td>
 <td>2.73%
 </td>
@@ -6875,7 +6865,7 @@ The tables below give the percentage of a certain stat on the amulet having stre
 <td>+22%
 </td></tr>
 <tr>
-<td><b>0.235</b> (47 million score)
+<td><b>0.235</b>
 </td>
 <td>2.52%
 </td>
@@ -6892,7 +6882,7 @@ The tables below give the percentage of a certain stat on the amulet having stre
 <td>+22%
 </td></tr>
 <tr>
-<td><b>0.25</b> (50 million score)
+<td><b>0.25</b>
 </td>
 <td>2.34%
 </td>
@@ -6933,7 +6923,7 @@ The tables below give the percentage of a certain stat on the amulet having stre
 <th>+25%
 </th></tr>
 <tr>
-<td><b>0.1</b> (20 million score)
+<td><b>0.1</b>
 </td>
 <td>10%
 </td>
@@ -6950,7 +6940,7 @@ The tables below give the percentage of a certain stat on the amulet having stre
 <td>+22%
 </td></tr>
 <tr>
-<td><b>0.115</b> (23 million score)
+<td><b>0.115</b>
 </td>
 <td>6.94%
 </td>
@@ -6967,7 +6957,7 @@ The tables below give the percentage of a certain stat on the amulet having stre
 <td>+22%
 </td></tr>
 <tr>
-<td><b>0.13</b> (26 million score)
+<td><b>0.13</b>
 </td>
 <td>5.6%
 </td>
@@ -6984,7 +6974,7 @@ The tables below give the percentage of a certain stat on the amulet having stre
 <td>+22%
 </td></tr>
 <tr>
-<td><b>0.145</b> (29 million score)
+<td><b>0.145</b>
 </td>
 <td>4.73%
 </td>
@@ -7001,7 +6991,7 @@ The tables below give the percentage of a certain stat on the amulet having stre
 <td>+22%
 </td></tr>
 <tr>
-<td><b>0.16</b> (32 million score)
+<td><b>0.16</b>
 </td>
 <td>4.12%
 </td>
@@ -7018,7 +7008,7 @@ The tables below give the percentage of a certain stat on the amulet having stre
 <td>+22%
 </td></tr>
 <tr>
-<td><b>0.175</b> (35 million score)
+<td><b>0.175</b>
 </td>
 <td>3.65%
 </td>
@@ -7035,7 +7025,7 @@ The tables below give the percentage of a certain stat on the amulet having stre
 <td>+22%
 </td></tr>
 <tr>
-<td><b>0.19</b> (38 million score)
+<td><b>0.19</b>
 </td>
 <td>3.28%
 </td>
@@ -7052,7 +7042,7 @@ The tables below give the percentage of a certain stat on the amulet having stre
 <td>+22%
 </td></tr>
 <tr>
-<td><b>0.205</b> (41 million score)
+<td><b>0.205</b>
 </td>
 <td>2.97%
 </td>
@@ -7069,7 +7059,7 @@ The tables below give the percentage of a certain stat on the amulet having stre
 <td>+22%
 </td></tr>
 <tr>
-<td><b>0.22</b> (44 million score)
+<td><b>0.22</b>
 </td>
 <td>2.73%
 </td>
@@ -7086,7 +7076,7 @@ The tables below give the percentage of a certain stat on the amulet having stre
 <td>+22%
 </td></tr>
 <tr>
-<td><b>0.235</b> (47 million score)
+<td><b>0.235</b>
 </td>
 <td>2.52%
 </td>
@@ -7103,7 +7093,7 @@ The tables below give the percentage of a certain stat on the amulet having stre
 <td>+22%
 </td></tr>
 <tr>
-<td><b>0.25</b> (50 million score)
+<td><b>0.25</b>
 </td>
 <td>2.34%
 </td>
@@ -7140,7 +7130,7 @@ The tables below give the percentage of a certain stat on the amulet having stre
 <th>+15%
 </th></tr>
 <tr>
-<td><b>0.1</b> (20 million score)
+<td><b>0.1</b>
 </td>
 <td>34.018%
 </td>
@@ -7153,7 +7143,7 @@ The tables below give the percentage of a certain stat on the amulet having stre
 <td>+13%
 </td></tr>
 <tr>
-<td><b>0.115</b> (23 million score)
+<td><b>0.115</b>
 </td>
 <td>31.34%
 </td>
@@ -7166,7 +7156,7 @@ The tables below give the percentage of a certain stat on the amulet having stre
 <td>+13%
 </td></tr>
 <tr>
-<td><b>0.13</b> (26 million score)
+<td><b>0.13</b>
 </td>
 <td>28.28%
 </td>
@@ -7179,7 +7169,7 @@ The tables below give the percentage of a certain stat on the amulet having stre
 <td>+13%
 </td></tr>
 <tr>
-<td><b>0.145</b> (29 million score)
+<td><b>0.145</b>
 </td>
 <td>24.63%
 </td>
@@ -7192,7 +7182,7 @@ The tables below give the percentage of a certain stat on the amulet having stre
 <td>+13%
 </td></tr>
 <tr>
-<td><b>0.16</b> (32 million score)
+<td><b>0.16</b>
 </td>
 <td>19.89%
 </td>
@@ -7205,7 +7195,7 @@ The tables below give the percentage of a certain stat on the amulet having stre
 <td>+13%
 </td></tr>
 <tr>
-<td><b>0.175</b> (35 million score)
+<td><b>0.175</b>
 </td>
 <td>14.13%
 </td>
@@ -7218,7 +7208,7 @@ The tables below give the percentage of a certain stat on the amulet having stre
 <td>+13%
 </td></tr>
 <tr>
-<td><b>0.19</b> (38 million score)
+<td><b>0.19</b>
 </td>
 <td>11.77%
 </td>
@@ -7231,7 +7221,7 @@ The tables below give the percentage of a certain stat on the amulet having stre
 <td>+13%
 </td></tr>
 <tr>
-<td><b>0.205</b> (41 million score)
+<td><b>0.205</b>
 </td>
 <td>10.24%
 </td>
@@ -7244,7 +7234,7 @@ The tables below give the percentage of a certain stat on the amulet having stre
 <td>+13%
 </td></tr>
 <tr>
-<td><b>0.22</b> (44 million score)
+<td><b>0.22</b>
 </td>
 <td>9.11%
 </td>
@@ -7257,7 +7247,7 @@ The tables below give the percentage of a certain stat on the amulet having stre
 <td>+13%
 </td></tr>
 <tr>
-<td><b>0.235</b> (47 million score)
+<td><b>0.235</b>
 </td>
 <td>8.23%
 </td>
@@ -7270,7 +7260,7 @@ The tables below give the percentage of a certain stat on the amulet having stre
 <td>+13%
 </td></tr>
 <tr>
-<td><b>0.25</b> (50 million score)
+<td><b>0.25</b>
 </td>
 <td>7.51%
 </td>
@@ -7483,7 +7473,7 @@ The tables below give the percentage of a certain stat on the amulet having stre
 <th>+300,000
 </th></tr>
 <tr>
-<td><b>0.25</b> (50 million score)
+<td><b>0.25</b>
 </td>
 <td>18.28%
 </td>
@@ -7498,7 +7488,7 @@ The tables below give the percentage of a certain stat on the amulet having stre
 <td>+230,609.97
 </td></tr>
 <tr>
-<td><b>0.325</b> (65 million score)
+<td><b>0.325</b>
 </td>
 <td>7.14%
 </td>
@@ -7513,7 +7503,7 @@ The tables below give the percentage of a certain stat on the amulet having stre
 <td>+234,269.026
 </td></tr>
 <tr>
-<td><b>0.4</b> (80 million score)
+<td><b>0.4</b>
 </td>
 <td>4.46%
 </td>
@@ -7528,7 +7518,7 @@ The tables below give the percentage of a certain stat on the amulet having stre
 <td>+236,307.82
 </td></tr>
 <tr>
-<td><b>0.475</b> (95 million score)
+<td><b>0.475</b>
 </td>
 <td>3.048%
 </td>
@@ -7543,7 +7533,7 @@ The tables below give the percentage of a certain stat on the amulet having stre
 <td>+239,176.77
 </td></tr>
 <tr>
-<td><b>0.55</b> (110 million score)
+<td><b>0.55</b>
 </td>
 <td>2.15%
 </td>
@@ -7558,7 +7548,7 @@ The tables below give the percentage of a certain stat on the amulet having stre
 <td>+246,418.73
 </td></tr>
 <tr>
-<td><b>0.625</b> (125 million score)
+<td><b>0.625</b>
 </td>
 <td>1.53%
 </td>
@@ -7573,7 +7563,7 @@ The tables below give the percentage of a certain stat on the amulet having stre
 <td>+251,956.84
 </td></tr>
 <tr>
-<td><b>0.7</b> (140 million score)
+<td><b>0.7</b>
 </td>
 <td>1.19%
 </td>
@@ -7588,7 +7578,7 @@ The tables below give the percentage of a certain stat on the amulet having stre
 <td>+260,891.53
 </td></tr>
 <tr>
-<td><b>0.775</b> (155 million score)
+<td><b>0.775</b>
 </td>
 <td>1.067%
 </td>
@@ -7603,7 +7593,7 @@ The tables below give the percentage of a certain stat on the amulet having stre
 <td>+263,603.24
 </td></tr>
 <tr>
-<td><b>0.85</b> (170 million score)
+<td><b>0.85</b>
 </td>
 <td>0.97%
 </td>
@@ -7618,7 +7608,7 @@ The tables below give the percentage of a certain stat on the amulet having stre
 <td>+266,149.91
 </td></tr>
 <tr>
-<td><b>0.925</b> (185 million score)
+<td><b>0.925</b>
 </td>
 <td>0.89%
 </td>
@@ -7672,7 +7662,7 @@ The tables below give the percentage of a certain stat on the amulet having stre
 <th>x1.25
 </th></tr>
 <tr>
-<td><b>0.25</b> (50 million score)
+<td><b>0.25</b>
 </td>
 <td>2.34%
 </td>
@@ -7689,7 +7679,7 @@ The tables below give the percentage of a certain stat on the amulet having stre
 <td>x1.22
 </td></tr>
 <tr>
-<td><b>0.325</b> (65 million score)
+<td><b>0.325</b>
 </td>
 <td>1.73%
 </td>
@@ -7706,7 +7696,7 @@ The tables below give the percentage of a certain stat on the amulet having stre
 <td>x1.22
 </td></tr>
 <tr>
-<td><b>0.4</b> (80 million score)
+<td><b>0.4</b>
 </td>
 <td>1.37%
 </td>
@@ -7723,7 +7713,7 @@ The tables below give the percentage of a certain stat on the amulet having stre
 <td>x1.22
 </td></tr>
 <tr>
-<td><b>0.475</b> (95 million score)
+<td><b>0.475</b>
 </td>
 <td>1.14%
 </td>
@@ -7740,7 +7730,7 @@ The tables below give the percentage of a certain stat on the amulet having stre
 <td>x1.22
 </td></tr>
 <tr>
-<td><b>0.55</b> (110 million score)
+<td><b>0.55</b>
 </td>
 <td>0.97%
 </td>
@@ -7757,7 +7747,7 @@ The tables below give the percentage of a certain stat on the amulet having stre
 <td>x1.23
 </td></tr>
 <tr>
-<td><b>0.625</b> (125 million score)
+<td><b>0.625</b>
 </td>
 <td>0.85%
 </td>
@@ -7774,7 +7764,7 @@ The tables below give the percentage of a certain stat on the amulet having stre
 <td>x1.23
 </td></tr>
 <tr>
-<td><b>0.7</b> (140 million score)
+<td><b>0.7</b>
 </td>
 <td>0.75%
 </td>
@@ -7791,7 +7781,7 @@ The tables below give the percentage of a certain stat on the amulet having stre
 <td>x1.23
 </td></tr>
 <tr>
-<td><b>0.775</b> (155 million score)
+<td><b>0.775</b>
 </td>
 <td>0.67%
 </td>
@@ -7808,7 +7798,7 @@ The tables below give the percentage of a certain stat on the amulet having stre
 <td>x1.23
 </td></tr>
 <tr>
-<td><b>0.85</b> (170 million score)
+<td><b>0.85</b>
 </td>
 <td>0.61%
 </td>
@@ -7825,7 +7815,7 @@ The tables below give the percentage of a certain stat on the amulet having stre
 <td>x1.23
 </td></tr>
 <tr>
-<td><b>0.925</b> (185 million score)
+<td><b>0.925</b>
 </td>
 <td>0.56%
 </td>
@@ -7883,7 +7873,7 @@ The tables below give the percentage of a certain stat on the amulet having stre
 <th>+20%
 </th></tr>
 <tr>
-<td><b>0.25</b> (50 million score)
+<td><b>0.25</b>
 </td>
 <td>2.34%
 </td>
@@ -7900,7 +7890,7 @@ The tables below give the percentage of a certain stat on the amulet having stre
 <td>+17%
 </td></tr>
 <tr>
-<td><b>0.325</b> (65 million score)
+<td><b>0.325</b>
 </td>
 <td>1.73%
 </td>
@@ -7917,7 +7907,7 @@ The tables below give the percentage of a certain stat on the amulet having stre
 <td>+17%
 </td></tr>
 <tr>
-<td><b>0.4</b> (80 million score)
+<td><b>0.4</b>
 </td>
 <td>1.37%
 </td>
@@ -7934,7 +7924,7 @@ The tables below give the percentage of a certain stat on the amulet having stre
 <td>+17%
 </td></tr>
 <tr>
-<td><b>0.475</b> (95 million score)
+<td><b>0.475</b>
 </td>
 <td>1.14%
 </td>
@@ -7951,7 +7941,7 @@ The tables below give the percentage of a certain stat on the amulet having stre
 <td>+17%
 </td></tr>
 <tr>
-<td><b>0.55</b> (110 million score)
+<td><b>0.55</b>
 </td>
 <td>0.97%
 </td>
@@ -7968,7 +7958,7 @@ The tables below give the percentage of a certain stat on the amulet having stre
 <td>+18%
 </td></tr>
 <tr>
-<td><b>0.625</b> (125 million score)
+<td><b>0.625</b>
 </td>
 <td>0.85%
 </td>
@@ -7985,7 +7975,7 @@ The tables below give the percentage of a certain stat on the amulet having stre
 <td>+18%
 </td></tr>
 <tr>
-<td><b>0.7</b> (140 million score)
+<td><b>0.7</b>
 </td>
 <td>0.75%
 </td>
@@ -8002,7 +7992,7 @@ The tables below give the percentage of a certain stat on the amulet having stre
 <td>+18%
 </td></tr>
 <tr>
-<td><b>0.775</b> (155 million score)
+<td><b>0.775</b>
 </td>
 <td>0.67%
 </td>
@@ -8019,7 +8009,7 @@ The tables below give the percentage of a certain stat on the amulet having stre
 <td>+18%
 </td></tr>
 <tr>
-<td><b>0.85</b> (170 million score)
+<td><b>0.85</b>
 </td>
 <td>0.61%
 </td>
@@ -8036,7 +8026,7 @@ The tables below give the percentage of a certain stat on the amulet having stre
 <td>+18%
 </td></tr>
 <tr>
-<td><b>0.925</b> (185 million score)
+<td><b>0.925</b>
 </td>
 <td>0.56%
 </td>
@@ -8094,7 +8084,7 @@ The tables below give the percentage of a certain stat on the amulet having stre
 <th>+10%
 </th></tr>
 <tr>
-<td><b>0.25</b> (50 million score)
+<td><b>0.25</b>
 </td>
 <td>21.11%
 </td>
@@ -8111,7 +8101,7 @@ The tables below give the percentage of a certain stat on the amulet having stre
 <td>+6.4%
 </td></tr>
 <tr>
-<td><b>0.325</b> (65 million score)
+<td><b>0.325</b>
 </td>
 <td>12.036%
 </td>
@@ -8128,7 +8118,7 @@ The tables below give the percentage of a certain stat on the amulet having stre
 <td>+6.5%
 </td></tr>
 <tr>
-<td><b>0.4</b> (80 million score)
+<td><b>0.4</b>
 </td>
 <td>5.38%
 </td>
@@ -8145,7 +8135,7 @@ The tables below give the percentage of a certain stat on the amulet having stre
 <td>+6.6%
 </td></tr>
 <tr>
-<td><b>0.475</b> (95 million score)
+<td><b>0.475</b>
 </td>
 <td>3.49%
 </td>
@@ -8162,7 +8152,7 @@ The tables below give the percentage of a certain stat on the amulet having stre
 <td>+6.7%
 </td></tr>
 <tr>
-<td><b>0.55</b> (110 million score)
+<td><b>0.55</b>
 </td>
 <td>2.4%
 </td>
@@ -8179,7 +8169,7 @@ The tables below give the percentage of a certain stat on the amulet having stre
 <td>+6.8%
 </td></tr>
 <tr>
-<td><b>0.625</b> (125 million score)
+<td><b>0.625</b>
 </td>
 <td>1.68%
 </td>
@@ -8196,7 +8186,7 @@ The tables below give the percentage of a certain stat on the amulet having stre
 <td>+7.1%
 </td></tr>
 <tr>
-<td><b>0.7</b> (140 million score)
+<td><b>0.7</b>
 </td>
 <td>1.16%
 </td>
@@ -8213,7 +8203,7 @@ The tables below give the percentage of a certain stat on the amulet having stre
 <td>+7.4%
 </td></tr>
 <tr>
-<td><b>0.775</b> (155 million score)
+<td><b>0.775</b>
 </td>
 <td>0.76%
 </td>
@@ -8230,7 +8220,7 @@ The tables below give the percentage of a certain stat on the amulet having stre
 <td>+7.9%
 </td></tr>
 <tr>
-<td><b>0.85</b> (170 million score)
+<td><b>0.85</b>
 </td>
 <td>0.61%
 </td>
@@ -8247,7 +8237,7 @@ The tables below give the percentage of a certain stat on the amulet having stre
 <td>+8.3%
 </td></tr>
 <tr>
-<td><b>0.925</b> (185 million score)
+<td><b>0.925</b>
 </td>
 <td>0.56%
 </td>
@@ -8309,7 +8299,7 @@ The tables below give the percentage of a certain stat on the amulet having stre
 <th>+15%
 </th></tr>
 <tr>
-<td><b>0.25</b> (50 million score)
+<td><b>0.25</b>
 </td>
 <td>1.13%
 </td>
@@ -8330,7 +8320,7 @@ The tables below give the percentage of a certain stat on the amulet having stre
 <td>+11%
 </td></tr>
 <tr>
-<td><b>0.325</b> (65 million score)
+<td><b>0.325</b>
 </td>
 <td>0.85%
 </td>
@@ -8351,7 +8341,7 @@ The tables below give the percentage of a certain stat on the amulet having stre
 <td>+11%
 </td></tr>
 <tr>
-<td><b>0.4</b> (80 million score)
+<td><b>0.4</b>
 </td>
 <td>0.68%
 </td>
@@ -8372,7 +8362,7 @@ The tables below give the percentage of a certain stat on the amulet having stre
 <td>+11%
 </td></tr>
 <tr>
-<td><b>0.475</b> (95 million score)
+<td><b>0.475</b>
 </td>
 <td>0.57%
 </td>
@@ -8393,7 +8383,7 @@ The tables below give the percentage of a certain stat on the amulet having stre
 <td>+11%
 </td></tr>
 <tr>
-<td><b>0.55</b> (110 million score)
+<td><b>0.55</b>
 </td>
 <td>0.49%
 </td>
@@ -8414,7 +8404,7 @@ The tables below give the percentage of a certain stat on the amulet having stre
 <td>+12%
 </td></tr>
 <tr>
-<td><b>0.625</b> (125 million score)
+<td><b>0.625</b>
 </td>
 <td>0.42%
 </td>
@@ -8435,7 +8425,7 @@ The tables below give the percentage of a certain stat on the amulet having stre
 <td>+12%
 </td></tr>
 <tr>
-<td><b>0.7</b> (140 million score)
+<td><b>0.7</b>
 </td>
 <td>0.38%
 </td>
@@ -8456,7 +8446,7 @@ The tables below give the percentage of a certain stat on the amulet having stre
 <td>+12%
 </td></tr>
 <tr>
-<td><b>0.775</b> (155 million score)
+<td><b>0.775</b>
 </td>
 <td>0.34%
 </td>
@@ -8477,7 +8467,7 @@ The tables below give the percentage of a certain stat on the amulet having stre
 <td>+12%
 </td></tr>
 <tr>
-<td><b>0.85</b> (170 million score)
+<td><b>0.85</b>
 </td>
 <td>0.31%
 </td>
@@ -8498,7 +8488,7 @@ The tables below give the percentage of a certain stat on the amulet having stre
 <td>+13%
 </td></tr>
 <tr>
-<td><b>0.925</b> (185 million score)
+<td><b>0.925</b>
 </td>
 <td>0.28%
 </td>
@@ -8564,7 +8554,7 @@ The tables below give the percentage of a certain stat on the amulet having stre
 <th>+30%
 </th></tr>
 <tr>
-<td><b>0.25</b> (50 million score)
+<td><b>0.25</b>
 </td>
 <td>2.34%
 </td>
@@ -8581,7 +8571,7 @@ The tables below give the percentage of a certain stat on the amulet having stre
 <td>+27%
 </td></tr>
 <tr>
-<td><b>0.325</b> (65 million score)
+<td><b>0.325</b>
 </td>
 <td>1.73%
 </td>
@@ -8598,7 +8588,7 @@ The tables below give the percentage of a certain stat on the amulet having stre
 <td>+27%
 </td></tr>
 <tr>
-<td><b>0.4</b> (80 million score)
+<td><b>0.4</b>
 </td>
 <td>1.37%
 </td>
@@ -8615,7 +8605,7 @@ The tables below give the percentage of a certain stat on the amulet having stre
 <td>+27%
 </td></tr>
 <tr>
-<td><b>0.475</b> (95 million score)
+<td><b>0.475</b>
 </td>
 <td>1.14%
 </td>
@@ -8632,7 +8622,7 @@ The tables below give the percentage of a certain stat on the amulet having stre
 <td>+27%
 </td></tr>
 <tr>
-<td><b>0.55</b> (110 million score)
+<td><b>0.55</b>
 </td>
 <td>0.97%
 </td>
@@ -8649,7 +8639,7 @@ The tables below give the percentage of a certain stat on the amulet having stre
 <td>+28%
 </td></tr>
 <tr>
-<td><b>0.625</b> (125 million score)
+<td><b>0.625</b>
 </td>
 <td>0.85%
 </td>
@@ -8666,7 +8656,7 @@ The tables below give the percentage of a certain stat on the amulet having stre
 <td>+28%
 </td></tr>
 <tr>
-<td><b>0.7</b> (140 million score)
+<td><b>0.7</b>
 </td>
 <td>0.75%
 </td>
@@ -8683,7 +8673,7 @@ The tables below give the percentage of a certain stat on the amulet having stre
 <td>+28%
 </td></tr>
 <tr>
-<td><b>0.775</b> (155 million score)
+<td><b>0.775</b>
 </td>
 <td>0.67%
 </td>
@@ -8700,7 +8690,7 @@ The tables below give the percentage of a certain stat on the amulet having stre
 <td>+28%
 </td></tr>
 <tr>
-<td><b>0.85</b> (170 million score)
+<td><b>0.85</b>
 </td>
 <td>0.61%
 </td>
@@ -8717,7 +8707,7 @@ The tables below give the percentage of a certain stat on the amulet having stre
 <td>+28%
 </td></tr>
 <tr>
-<td><b>0.925</b> (185 million score)
+<td><b>0.925</b>
 </td>
 <td>0.56%
 </td>
@@ -8775,7 +8765,7 @@ The tables below give the percentage of a certain stat on the amulet having stre
 <th>+30%
 </th></tr>
 <tr>
-<td><b>0.25</b> (50 million score)
+<td><b>0.25</b>
 </td>
 <td>2.34%
 </td>
@@ -8792,7 +8782,7 @@ The tables below give the percentage of a certain stat on the amulet having stre
 <td>+27%
 </td></tr>
 <tr>
-<td><b>0.325</b> (65 million score)
+<td><b>0.325</b>
 </td>
 <td>1.73%
 </td>
@@ -8809,7 +8799,7 @@ The tables below give the percentage of a certain stat on the amulet having stre
 <td>+27%
 </td></tr>
 <tr>
-<td><b>0.4</b> (80 million score)
+<td><b>0.4</b>
 </td>
 <td>1.37%
 </td>
@@ -8826,7 +8816,7 @@ The tables below give the percentage of a certain stat on the amulet having stre
 <td>+27%
 </td></tr>
 <tr>
-<td><b>0.475</b> (95 million score)
+<td><b>0.475</b>
 </td>
 <td>1.14%
 </td>
@@ -8843,7 +8833,7 @@ The tables below give the percentage of a certain stat on the amulet having stre
 <td>+27%
 </td></tr>
 <tr>
-<td><b>0.55</b> (110 million score)
+<td><b>0.55</b>
 </td>
 <td>0.97%
 </td>
@@ -8860,7 +8850,7 @@ The tables below give the percentage of a certain stat on the amulet having stre
 <td>+28%
 </td></tr>
 <tr>
-<td><b>0.625</b> (125 million score)
+<td><b>0.625</b>
 </td>
 <td>0.85%
 </td>
@@ -8877,7 +8867,7 @@ The tables below give the percentage of a certain stat on the amulet having stre
 <td>+28%
 </td></tr>
 <tr>
-<td><b>0.7</b> (140 million score)
+<td><b>0.7</b>
 </td>
 <td>0.75%
 </td>
@@ -8894,7 +8884,7 @@ The tables below give the percentage of a certain stat on the amulet having stre
 <td>+28%
 </td></tr>
 <tr>
-<td><b>0.775</b> (155 million score)
+<td><b>0.775</b>
 </td>
 <td>0.67%
 </td>
@@ -8911,7 +8901,7 @@ The tables below give the percentage of a certain stat on the amulet having stre
 <td>+28%
 </td></tr>
 <tr>
-<td><b>0.85</b> (170 million score)
+<td><b>0.85</b>
 </td>
 <td>0.61%
 </td>
@@ -8928,7 +8918,7 @@ The tables below give the percentage of a certain stat on the amulet having stre
 <td>+28%
 </td></tr>
 <tr>
-<td><b>0.925</b> (185 million score)
+<td><b>0.925</b>
 </td>
 <td>0.56%
 </td>
@@ -8986,7 +8976,7 @@ The tables below give the percentage of a certain stat on the amulet having stre
 <th>+30%
 </th></tr>
 <tr>
-<td><b>0.25</b> (50 million score)
+<td><b>0.25</b>
 </td>
 <td>2.34%
 </td>
@@ -9003,7 +8993,7 @@ The tables below give the percentage of a certain stat on the amulet having stre
 <td>+27%
 </td></tr>
 <tr>
-<td><b>0.325</b> (65 million score)
+<td><b>0.325</b>
 </td>
 <td>1.73%
 </td>
@@ -9020,7 +9010,7 @@ The tables below give the percentage of a certain stat on the amulet having stre
 <td>+27%
 </td></tr>
 <tr>
-<td><b>0.4</b> (80 million score)
+<td><b>0.4</b>
 </td>
 <td>1.37%
 </td>
@@ -9037,7 +9027,7 @@ The tables below give the percentage of a certain stat on the amulet having stre
 <td>+27%
 </td></tr>
 <tr>
-<td><b>0.475</b> (95 million score)
+<td><b>0.475</b>
 </td>
 <td>1.14%
 </td>
@@ -9054,7 +9044,7 @@ The tables below give the percentage of a certain stat on the amulet having stre
 <td>+27%
 </td></tr>
 <tr>
-<td><b>0.55</b> (110 million score)
+<td><b>0.55</b>
 </td>
 <td>0.97%
 </td>
@@ -9071,7 +9061,7 @@ The tables below give the percentage of a certain stat on the amulet having stre
 <td>+28%
 </td></tr>
 <tr>
-<td><b>0.625</b> (125 million score)
+<td><b>0.625</b>
 </td>
 <td>0.85%
 </td>
@@ -9088,7 +9078,7 @@ The tables below give the percentage of a certain stat on the amulet having stre
 <td>+28%
 </td></tr>
 <tr>
-<td><b>0.7</b> (140 million score)
+<td><b>0.7</b>
 </td>
 <td>0.75%
 </td>
@@ -9105,7 +9095,7 @@ The tables below give the percentage of a certain stat on the amulet having stre
 <td>+28%
 </td></tr>
 <tr>
-<td><b>0.775</b> (155 million score)
+<td><b>0.775</b>
 </td>
 <td>0.67%
 </td>
@@ -9122,7 +9112,7 @@ The tables below give the percentage of a certain stat on the amulet having stre
 <td>+28%
 </td></tr>
 <tr>
-<td><b>0.85</b> (170 million score)
+<td><b>0.85</b>
 </td>
 <td>0.61%
 </td>
@@ -9139,7 +9129,7 @@ The tables below give the percentage of a certain stat on the amulet having stre
 <td>+28%
 </td></tr>
 <tr>
-<td><b>0.925</b> (185 million score)
+<td><b>0.925</b>
 </td>
 <td>0.56%
 </td>
@@ -9191,7 +9181,7 @@ The tables below give the percentage of a certain stat on the amulet having stre
 <th>+10%
 </th></tr>
 <tr>
-<td><b>0.25</b> (50 million score)
+<td><b>0.25</b>
 </td>
 <td>25%
 </td>
@@ -9202,7 +9192,7 @@ The tables below give the percentage of a certain stat on the amulet having stre
 <td>+8.8%
 </td></tr>
 <tr>
-<td><b>0.325</b> (65 million score)
+<td><b>0.325</b>
 </td>
 <td>14.0025%
 </td>
@@ -9213,7 +9203,7 @@ The tables below give the percentage of a certain stat on the amulet having stre
 <td>+8.9%
 </td></tr>
 <tr>
-<td><b>0.4</b> (80 million score)
+<td><b>0.4</b>
 </td>
 <td>10.29%
 </td>
@@ -9224,7 +9214,7 @@ The tables below give the percentage of a certain stat on the amulet having stre
 <td>+9%
 </td></tr>
 <tr>
-<td><b>0.475</b> (95 million score)
+<td><b>0.475</b>
 </td>
 <td>8.19%
 </td>
@@ -9235,7 +9225,7 @@ The tables below give the percentage of a certain stat on the amulet having stre
 <td>+9%
 </td></tr>
 <tr>
-<td><b>0.55</b> (110 million score)
+<td><b>0.55</b>
 </td>
 <td>6.82%
 </td>
@@ -9246,7 +9236,7 @@ The tables below give the percentage of a certain stat on the amulet having stre
 <td>+9%
 </td></tr>
 <tr>
-<td><b>0.625</b> (125 million score)
+<td><b>0.625</b>
 </td>
 <td>5.84%
 </td>
@@ -9257,7 +9247,7 @@ The tables below give the percentage of a certain stat on the amulet having stre
 <td>+9.1%
 </td></tr>
 <tr>
-<td><b>0.7</b> (140 million score)
+<td><b>0.7</b>
 </td>
 <td>5.12%
 </td>
@@ -9268,7 +9258,7 @@ The tables below give the percentage of a certain stat on the amulet having stre
 <td>+9.1%
 </td></tr>
 <tr>
-<td><b>0.775</b> (155 million score)
+<td><b>0.775</b>
 </td>
 <td>4.55%
 </td>
@@ -9279,7 +9269,7 @@ The tables below give the percentage of a certain stat on the amulet having stre
 <td>+9.3%
 </td></tr>
 <tr>
-<td><b>0.85</b> (170 million score)
+<td><b>0.85</b>
 </td>
 <td>4.1%
 </td>
@@ -9290,7 +9280,7 @@ The tables below give the percentage of a certain stat on the amulet having stre
 <td>+9.4%
 </td></tr>
 <tr>
-<td><b>0.925</b> (185 million score)
+<td><b>0.925</b>
 </td>
 <td>3.73%
 </td>
@@ -9338,7 +9328,7 @@ The tables below give the percentage of a certain stat on the amulet having stre
 <th>+97%-+99%
 </th></tr>
 <tr>
-<td><b>0.25</b> (50 million score)
+<td><b>0.25</b>
 </td>
 <td>4.31%
 </td>
@@ -9357,7 +9347,7 @@ The tables below give the percentage of a certain stat on the amulet having stre
 <td>+88%
 </td></tr>
 <tr>
-<td><b>0.325</b> (65 million score)
+<td><b>0.325</b>
 </td>
 <td>3.12%
 </td>
@@ -9376,7 +9366,7 @@ The tables below give the percentage of a certain stat on the amulet having stre
 <td>+89%
 </td></tr>
 <tr>
-<td><b>0.4</b> (80 million score)
+<td><b>0.4</b>
 </td>
 <td>2.45%
 </td>
@@ -9395,7 +9385,7 @@ The tables below give the percentage of a certain stat on the amulet having stre
 <td>+90%
 </td></tr>
 <tr>
-<td><b>0.475</b> (95 million score)
+<td><b>0.475</b>
 </td>
 <td>2.019%
 </td>
@@ -9414,7 +9404,7 @@ The tables below give the percentage of a certain stat on the amulet having stre
 <td>+90%
 </td></tr>
 <tr>
-<td><b>0.55</b> (110 million score)
+<td><b>0.55</b>
 </td>
 <td>1.72%
 </td>
@@ -9433,7 +9423,7 @@ The tables below give the percentage of a certain stat on the amulet having stre
 <td>+91%
 </td></tr>
 <tr>
-<td><b>0.625</b> (125 million score)
+<td><b>0.625</b>
 </td>
 <td>1.49%
 </td>
@@ -9452,7 +9442,7 @@ The tables below give the percentage of a certain stat on the amulet having stre
 <td>+92%
 </td></tr>
 <tr>
-<td><b>0.7</b> (140 million score)
+<td><b>0.7</b>
 </td>
 <td>1.32%
 </td>
@@ -9471,7 +9461,7 @@ The tables below give the percentage of a certain stat on the amulet having stre
 <td>+92%
 </td></tr>
 <tr>
-<td><b>0.775</b> (155 million score)
+<td><b>0.775</b>
 </td>
 <td>1.19%
 </td>
@@ -9490,7 +9480,7 @@ The tables below give the percentage of a certain stat on the amulet having stre
 <td>+93%
 </td></tr>
 <tr>
-<td><b>0.85</b> (170 million score)
+<td><b>0.85</b>
 </td>
 <td>1.075%
 </td>
@@ -9509,7 +9499,7 @@ The tables below give the percentage of a certain stat on the amulet having stre
 <td>+94%
 </td></tr>
 <tr>
-<td><b>0.925</b> (185 million score)
+<td><b>0.925</b>
 </td>
 <td>0.98%
 </td>
@@ -9563,7 +9553,7 @@ The tables below give the percentage of a certain stat on the amulet having stre
 <th>+10%
 </th></tr>
 <tr>
-<td><b>0.25</b> (50 million score)
+<td><b>0.25</b>
 </td>
 <td>77.47%
 </td>
@@ -9572,7 +9562,7 @@ The tables below give the percentage of a certain stat on the amulet having stre
 <td>+9.2%
 </td></tr>
 <tr>
-<td><b>0.325</b> (65 million score)
+<td><b>0.325</b>
 </td>
 <td>73.62%
 </td>
@@ -9581,7 +9571,7 @@ The tables below give the percentage of a certain stat on the amulet having stre
 <td>+9.3%
 </td></tr>
 <tr>
-<td><b>0.4</b> (80 million score)
+<td><b>0.4</b>
 </td>
 <td>67.92%
 </td>
@@ -9590,7 +9580,7 @@ The tables below give the percentage of a certain stat on the amulet having stre
 <td>+9.3%
 </td></tr>
 <tr>
-<td><b>0.475</b> (95 million score)
+<td><b>0.475</b>
 </td>
 <td>57.61%
 </td>
@@ -9599,7 +9589,7 @@ The tables below give the percentage of a certain stat on the amulet having stre
 <td>+9.4%
 </td></tr>
 <tr>
-<td><b>0.55</b> (110 million score)
+<td><b>0.55</b>
 </td>
 <td>38.011%
 </td>
@@ -9608,7 +9598,7 @@ The tables below give the percentage of a certain stat on the amulet having stre
 <td>+9.6%
 </td></tr>
 <tr>
-<td><b>0.625</b> (125 million score)
+<td><b>0.625</b>
 </td>
 <td>29.88%
 </td>
@@ -9617,7 +9607,7 @@ The tables below give the percentage of a certain stat on the amulet having stre
 <td>+9.7%
 </td></tr>
 <tr>
-<td><b>0.7</b> (140 million score)
+<td><b>0.7</b>
 </td>
 <td>24.94%
 </td>
@@ -9626,7 +9616,7 @@ The tables below give the percentage of a certain stat on the amulet having stre
 <td>+9.8%
 </td></tr>
 <tr>
-<td><b>0.775</b> (155 million score)
+<td><b>0.775</b>
 </td>
 <td>21.51%
 </td>
@@ -9635,7 +9625,7 @@ The tables below give the percentage of a certain stat on the amulet having stre
 <td>+9.8%
 </td></tr>
 <tr>
-<td><b>0.85</b> (170 million score)
+<td><b>0.85</b>
 </td>
 <td>18.94%
 </td>
@@ -9644,7 +9634,7 @@ The tables below give the percentage of a certain stat on the amulet having stre
 <td>+9.8%
 </td></tr>
 <tr>
-<td><b>0.925</b> (185 million score)
+<td><b>0.925</b>
 </td>
 <td>16.95%
 </td>
@@ -9686,7 +9676,7 @@ The tables below give the percentage of a certain stat on the amulet having stre
 <th>+30%
 </th></tr>
 <tr>
-<td><b>0.25</b> (50 million score)
+<td><b>0.25</b>
 </td>
 <td>2.34%
 </td>
@@ -9703,7 +9693,7 @@ The tables below give the percentage of a certain stat on the amulet having stre
 <td>+27%
 </td></tr>
 <tr>
-<td><b>0.325</b> (65 million score)
+<td><b>0.325</b>
 </td>
 <td>1.73%
 </td>
@@ -9720,7 +9710,7 @@ The tables below give the percentage of a certain stat on the amulet having stre
 <td>+27%
 </td></tr>
 <tr>
-<td><b>0.4</b> (80 million score)
+<td><b>0.4</b>
 </td>
 <td>1.37%
 </td>
@@ -9737,7 +9727,7 @@ The tables below give the percentage of a certain stat on the amulet having stre
 <td>+27%
 </td></tr>
 <tr>
-<td><b>0.475</b> (95 million score)
+<td><b>0.475</b>
 </td>
 <td>1.14%
 </td>
@@ -9754,7 +9744,7 @@ The tables below give the percentage of a certain stat on the amulet having stre
 <td>+27%
 </td></tr>
 <tr>
-<td><b>0.55</b> (110 million score)
+<td><b>0.55</b>
 </td>
 <td>0.97%
 </td>
@@ -9771,7 +9761,7 @@ The tables below give the percentage of a certain stat on the amulet having stre
 <td>+28%
 </td></tr>
 <tr>
-<td><b>0.625</b> (125 million score)
+<td><b>0.625</b>
 </td>
 <td>0.85%
 </td>
@@ -9788,7 +9778,7 @@ The tables below give the percentage of a certain stat on the amulet having stre
 <td>+28%
 </td></tr>
 <tr>
-<td><b>0.7</b> (140 million score)
+<td><b>0.7</b>
 </td>
 <td>0.75%
 </td>
@@ -9805,7 +9795,7 @@ The tables below give the percentage of a certain stat on the amulet having stre
 <td>+28%
 </td></tr>
 <tr>
-<td><b>0.775</b> (155 million score)
+<td><b>0.775</b>
 </td>
 <td>0.67%
 </td>
@@ -9822,7 +9812,7 @@ The tables below give the percentage of a certain stat on the amulet having stre
 <td>+28%
 </td></tr>
 <tr>
-<td><b>0.85</b> (170 million score)
+<td><b>0.85</b>
 </td>
 <td>0.61%
 </td>
@@ -9839,7 +9829,7 @@ The tables below give the percentage of a certain stat on the amulet having stre
 <td>+28%
 </td></tr>
 <tr>
-<td><b>0.925</b> (185 million score)
+<td><b>0.925</b>
 </td>
 <td>0.56%
 </td>
@@ -9897,7 +9887,7 @@ The tables below give the percentage of a certain stat on the amulet having stre
 <th>+30%
 </th></tr>
 <tr>
-<td><b>0.25</b> (50 million score)
+<td><b>0.25</b>
 </td>
 <td>2.34%
 </td>
@@ -9914,7 +9904,7 @@ The tables below give the percentage of a certain stat on the amulet having stre
 <td>+27%
 </td></tr>
 <tr>
-<td><b>0.325</b> (65 million score)
+<td><b>0.325</b>
 </td>
 <td>1.73%
 </td>
@@ -9931,7 +9921,7 @@ The tables below give the percentage of a certain stat on the amulet having stre
 <td>+27%
 </td></tr>
 <tr>
-<td><b>0.4</b> (80 million score)
+<td><b>0.4</b>
 </td>
 <td>1.37%
 </td>
@@ -9948,7 +9938,7 @@ The tables below give the percentage of a certain stat on the amulet having stre
 <td>+27%
 </td></tr>
 <tr>
-<td><b>0.475</b> (95 million score)
+<td><b>0.475</b>
 </td>
 <td>1.14%
 </td>
@@ -9965,7 +9955,7 @@ The tables below give the percentage of a certain stat on the amulet having stre
 <td>+27%
 </td></tr>
 <tr>
-<td><b>0.55</b> (110 million score)
+<td><b>0.55</b>
 </td>
 <td>0.97%
 </td>
@@ -9982,7 +9972,7 @@ The tables below give the percentage of a certain stat on the amulet having stre
 <td>+28%
 </td></tr>
 <tr>
-<td><b>0.625</b> (125 million score)
+<td><b>0.625</b>
 </td>
 <td>0.85%
 </td>
@@ -9999,7 +9989,7 @@ The tables below give the percentage of a certain stat on the amulet having stre
 <td>+28%
 </td></tr>
 <tr>
-<td><b>0.7</b> (140 million score)
+<td><b>0.7</b>
 </td>
 <td>0.75%
 </td>
@@ -10016,7 +10006,7 @@ The tables below give the percentage of a certain stat on the amulet having stre
 <td>+28%
 </td></tr>
 <tr>
-<td><b>0.775</b> (155 million score)
+<td><b>0.775</b>
 </td>
 <td>0.67%
 </td>
@@ -10033,7 +10023,7 @@ The tables below give the percentage of a certain stat on the amulet having stre
 <td>+28%
 </td></tr>
 <tr>
-<td><b>0.85</b> (170 million score)
+<td><b>0.85</b>
 </td>
 <td>0.61%
 </td>
@@ -10050,7 +10040,7 @@ The tables below give the percentage of a certain stat on the amulet having stre
 <td>+28%
 </td></tr>
 <tr>
-<td><b>0.925</b> (185 million score)
+<td><b>0.925</b>
 </td>
 <td>0.56%
 </td>
@@ -10108,7 +10098,7 @@ The tables below give the percentage of a certain stat on the amulet having stre
 <th>+30%
 </th></tr>
 <tr>
-<td><b>0.25</b> (50 million score)
+<td><b>0.25</b>
 </td>
 <td>2.34%
 </td>
@@ -10125,7 +10115,7 @@ The tables below give the percentage of a certain stat on the amulet having stre
 <td>+27%
 </td></tr>
 <tr>
-<td><b>0.325</b> (65 million score)
+<td><b>0.325</b>
 </td>
 <td>1.73%
 </td>
@@ -10142,7 +10132,7 @@ The tables below give the percentage of a certain stat on the amulet having stre
 <td>+27%
 </td></tr>
 <tr>
-<td><b>0.4</b> (80 million score)
+<td><b>0.4</b>
 </td>
 <td>1.37%
 </td>
@@ -10159,7 +10149,7 @@ The tables below give the percentage of a certain stat on the amulet having stre
 <td>+27%
 </td></tr>
 <tr>
-<td><b>0.475</b> (95 million score)
+<td><b>0.475</b>
 </td>
 <td>1.14%
 </td>
@@ -10176,7 +10166,7 @@ The tables below give the percentage of a certain stat on the amulet having stre
 <td>+27%
 </td></tr>
 <tr>
-<td><b>0.55</b> (110 million score)
+<td><b>0.55</b>
 </td>
 <td>0.97%
 </td>
@@ -10193,7 +10183,7 @@ The tables below give the percentage of a certain stat on the amulet having stre
 <td>+28%
 </td></tr>
 <tr>
-<td><b>0.625</b> (125 million score)
+<td><b>0.625</b>
 </td>
 <td>0.85%
 </td>
@@ -10210,7 +10200,7 @@ The tables below give the percentage of a certain stat on the amulet having stre
 <td>+28%
 </td></tr>
 <tr>
-<td><b>0.7</b> (140 million score)
+<td><b>0.7</b>
 </td>
 <td>0.75%
 </td>
@@ -10227,7 +10217,7 @@ The tables below give the percentage of a certain stat on the amulet having stre
 <td>+28%
 </td></tr>
 <tr>
-<td><b>0.775</b> (155 million score)
+<td><b>0.775</b>
 </td>
 <td>0.67%
 </td>
@@ -10244,7 +10234,7 @@ The tables below give the percentage of a certain stat on the amulet having stre
 <td>+28%
 </td></tr>
 <tr>
-<td><b>0.85</b> (170 million score)
+<td><b>0.85</b>
 </td>
 <td>0.61%
 </td>
@@ -10261,7 +10251,7 @@ The tables below give the percentage of a certain stat on the amulet having stre
 <td>+28%
 </td></tr>
 <tr>
-<td><b>0.925</b> (185 million score)
+<td><b>0.925</b>
 </td>
 <td>0.56%
 </td>
@@ -10301,7 +10291,7 @@ The tables below give the percentage of a certain stat on the amulet having stre
 
 <figure class="amulet-tier-icon"><img alt="Supreme Stick Bug Amulet" src="img/Supreme_Stick_Bug_Amulet.png"/><figcaption>The icon for the Supreme Stick Bug Amulet.</figcaption></figure>
 
-<p class="amulet-tier-obtain"><b>How to get:</b> Not documented yet.</p>
+<p class="amulet-tier-obtain"><b>How to get:</b> At least <span style="border-bottom:1px dotted;" title="1,000,000,000">1B</span> score, must reach and defeat a level 18 <a href="stick-bug.html">Stick Bug</a></p>
 
 <table class="article-table">
 <tbody><tr>
@@ -10462,11 +10452,7 @@ The tables below give the percentage of a certain stat on the amulet having stre
 
 * This is the only amulet that can give monster respawn time as a stat.
   * This, the [Vicious Bee](vicious-bee.md)'s gifted bonus, and the [Icicles](icicles.md) Beequip and the are the only sources of the -% Mob Respawn Time stats.
-* Unlike in Bee Swarm Simulator, the game has a Supreme Stick Bug Amulet. How to get it isn't documented yet.
-
-## References
-
-1. ↑ [[1]](https://discord.com/channels/427553293862961153/427573109600550919/541169619654934528) Discord message from Onett.
+* Unlike in Bee Swarm Simulator, the game has a Supreme Stick Bug Amulet.
 
 <table class="mw-collapsible autocollapse" style="margin:auto; background:#000; font-size: 10pt; border:5px solid #56CB5A; width: 100%; border-radius: 20px; -moz-border-radius: 20px; -webkit-border-radius: 20px; -khtml-border-radius: 20px; -icab-border-radius: 20px; -o-border-radius: 20px;">
 <tbody><tr>
