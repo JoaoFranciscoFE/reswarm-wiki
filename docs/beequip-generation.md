@@ -11,10 +11,6 @@ Due to the nature of the information, details may be inaccurate or outdated.
 
 Datamined information: All content below. — March 18th, 2026
 
-This piece of content recently got an update.
-
-We are in the process of catching up to the game. Please feel free to help us by **[updating this information](beequip-generation.md)**.
-
 This article goes into extreme detail on the inner workings of beequips. It will go through each step of the function that generates the stats of a beequip in order, and point out every known quirk/bug with the generation along the way.
 
 Reading through [the shortened version of this explanation](beequip.md#Generation) will provide important context. This article also assumes that the reader has a basic knowledge of programming, specifically with random number generation and float numbers. A basic understanding of [Lua](https://en.wikipedia.org/wiki/Lua) will also help.

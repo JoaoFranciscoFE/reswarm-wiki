@@ -5,7 +5,7 @@ tags: ["Beesmas", "Locations", "Machines", "Goo", "Summoner", "Beesmas Decoratio
 
 # Gummy Beacon
 
-
+![Gummy Beacon](img/places/Gummy_Beacon.png){ .wiki-photo }
 
 The **Gummy Beacon** is a Beesmas 2020+ machine that can be unlocked after completing [Gummy Bear's](gummy-bear.md) Beesmas [quest](quests.md). It is located on top of the [Noob Shop](noob-shop.md), on the corner closest to the [Royal Jelly Dispenser](royal-jelly-dispenser.md) next to the [Clover Field](clover-field.md), in front of the [Star Hall](star-hall.md). If the player attempts to activate it without completing Gummy Bear's Beesmas quest, it reads: *"The satellite dish isn't working, but it still emits bad vibes..."* Completing his quest allows the player to activate a Gummy Siege.
 

@@ -18,7 +18,7 @@ All 26 pages in Events.
 <a class="wiki-card" href="gift-boxes.html"><img src="img/Gift_Boxes.png" alt="" loading="lazy"><span>Gift Boxes</span></a>
 <a class="wiki-card" href="gift-boxes-2025.html"><img src="img/Gift_Boxes/2025.png" alt="" loading="lazy"><span>Gift Boxes/2025</span></a>
 <a class="wiki-card" href="gingerbread-house.html"><img src="img/Gingerbread_House.png" alt="" loading="lazy"><span>Gingerbread House</span></a>
-<a class="wiki-card wiki-card--noicon" href="gummy-beacon.html"><img src="images/no-icon.svg" alt="" loading="lazy"><span>Gummy Beacon</span></a>
+<a class="wiki-card wiki-card--photo" href="gummy-beacon.html"><img src="img/places/Gummy_Beacon.png" alt="" loading="lazy"><span>Gummy Beacon</span></a>
 <a class="wiki-card" href="honey-wreath.html"><img src="img/Honey_Wreath.png" alt="" loading="lazy"><span>Honey Wreath</span></a>
 <a class="wiki-card" href="honeyday-candles.html"><img src="img/Honeyday_Candles.png" alt="" loading="lazy"><span>Honeyday Candles</span></a>
 <a class="wiki-card wiki-card--photo" href="honeystorm.html"><img src="img/places/Honeystorm.png" alt="" loading="lazy"><span>Honeystorm</span></a>

@@ -123028,8 +123028,7 @@ The tables below give the percentage of a certain stat having a specific strengt
 
 **Chance breakdown**
 
-
-**The time allocated for running scripts has expired.**
+The chance breakdown for this tier is not available yet. The table above shows what it can roll.
 
 ///
 
@@ -123195,8 +123194,7 @@ The tables below give the percentage of a certain stat having a specific strengt
 
 **Chance breakdown**
 
-
-**The time allocated for running scripts has expired.**
+The chance breakdown for this tier is not available yet. The table above shows what it can roll.
 
 ///
 

@@ -7,14 +7,6 @@ tags: ["Mechanics"]
 
 ![Quests](img/Quests.png){ align=right width=150 }
 
-Stub
-
-*This article is a stub. You can help Re://:Swarm Wiki by [expanding it](quests.md).*
-
-This piece of content recently got an update.
-
-We are in the process of catching up to the game. Please feel free to help us by **[updating this information](quests.md)**.
-
 
 
 **Quests** are a major [mechanic](mechanics.md) in Re://:Swarm. It allows the player to do tasks in order to receive various rewards that allow them to progress further into the game. Quests are not necessary for progression, but are highly recommended. There are a few exceptions, such as [Science Bear](science-bear.md)'s [Translator](science-bear.md#Translator_Quest_List_(15)) questline, and [Spirit Bear](spirit-bear.md)'s questline, which are required to complete to progress.
@@ -5329,10 +5321,6 @@ Temporary Quest Givers are quest givers that appear exclusively during an event.
 </td></tr></tbody></table>
 
 ### Bee Bear
-
-This piece of content recently got an update.
-
-We are in the process of catching up to the game. Please feel free to help us by **[updating this information](quests.md)**.
 
 <img align="right" alt="Bee Bear" src="img/bears/Bee_Bear.png" width="150"/>
 

@@ -7,10 +7,6 @@ tags: ["Items", "Inventory", "Consumables"]
 
 ![Bloom Shaker](img/Bloom_Shaker.png){ align=right width=150 }
 
-This piece of content recently got an update.
-
-We are in the process of catching up to the game. Please feel free to help us by **[updating this information](bloom-shaker.md)**.
-
 Bloom Shaker
 
 *"Grows Blooms in the field you're standing in. Catch their Petals for Honey and boosts."*
