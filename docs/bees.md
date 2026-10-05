@@ -7,7 +7,7 @@ tags: ["Bees", "Gameplay", "Re://:Swarm"]
 
 ![Bees](img/Bees.png){ align=right width=150 }
 
-<figure class="thumb" style="width: 180px" typeof="mw:File/Thumb">  <figcaption class="thumbcaption"> <p class="caption">The list of all the bees currently in the game as of the 2022-12-26 update.</p> </figcaption> </figure>
+
 
 **Bees** are one of the main features of Re://:Swarm. They follow the player around, collect [pollen](pollen.md) from [fields](fields.md), and defend their beekeeper from [mobs](mobs.md) and bosses. Bees are one of the primary sources for collecting pollen, as they do it automatically, and most bees produce [Ability Tokens](ability-tokens.md). Upon returning to the [hive](hive.md), they will convert pollen into [Honey](honey.md), the main currency used in [shops](shops.md) to buy [items](items.md). The hive is also where bees sleep when they run out of [energy](energy.md), or where they rest if their beekeeper dies or resets, doing so for about 15 seconds before returning to work. When a bee runs out of energy, a message in the player's notifications or chat will pop out:
  [Bee's name] is out of energy! It's going to sleep.

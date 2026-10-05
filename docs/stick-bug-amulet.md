@@ -63,7 +63,7 @@ The requirements are based on your score and Stick Bug's level on a challenge.
 
 ### Bronze Stick Bug Amulet
 
-<figure class="thumb mw-halign-right" style="width: 180px" typeof="mw:File/Thumb">  <figcaption class="thumbcaption"> <p class="caption">The icon for the Bronze Stick Bug Amulet.</p> </figcaption> </figure>
+<figure class="mw-halign-center" style="text-align:center"><img alt="Bronze Stick Bug Amulet" src="img/Bronze_Stick_Bug_Amulet.png" width="60"/><figcaption><p class="caption">The icon for the Bronze Stick Bug Amulet.</p></figcaption></figure>
 
 <table class="article-table">
 <tbody><tr>
@@ -2046,7 +2046,7 @@ Show/hide tables
 
 ### Silver Stick Bug Amulet
 
-<figure class="thumb mw-halign-right" style="width: 180px" typeof="mw:File/Thumb">  <figcaption class="thumbcaption"> <p class="caption">The icon for the Silver Stick Bug Amulet.</p> </figcaption> </figure>
+<figure class="mw-halign-center" style="text-align:center"><img alt="Silver Stick Bug Amulet" src="img/Silver_Stick_Bug_Amulet.png" width="60"/><figcaption><p class="caption">The icon for the Silver Stick Bug Amulet.</p></figcaption></figure>
 
 <table class="article-table">
 <tbody><tr>
@@ -4088,7 +4088,7 @@ Show/hide tables
 
 ### Gold Stick Bug Amulet
 
-<figure class="thumb mw-halign-right" style="width: 180px" typeof="mw:File/Thumb">  <figcaption class="thumbcaption"> <p class="caption">The icon for the Gold Stick Bug Amulet.</p> </figcaption> </figure>
+<figure class="mw-halign-center" style="text-align:center"><img alt="Gold Stick Bug Amulet" src="img/Gold_Stick_Bug_Amulet.png" width="60"/><figcaption><p class="caption">The icon for the Gold Stick Bug Amulet.</p></figcaption></figure>
 
 <table class="article-table">
 <tbody><tr>
@@ -7273,7 +7273,7 @@ Show/hide tables
 
 ### Diamond Stick Bug Amulet
 
-<figure class="thumb mw-halign-right" style="width: 180px" typeof="mw:File/Thumb">  <figcaption class="thumbcaption"> <p class="caption">The icon for the Diamond Stick Bug Amulet.</p> </figcaption> </figure>
+<figure class="mw-halign-center" style="text-align:center"><img alt="Diamond Stick Bug Amulet" src="img/Diamond_Stick_Bug_Amulet.png" width="60"/><figcaption><p class="caption">The icon for the Diamond Stick Bug Amulet.</p></figcaption></figure>
 
 <table class="article-table">
 <tbody><tr>

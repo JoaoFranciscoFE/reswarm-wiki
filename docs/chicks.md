@@ -7,7 +7,7 @@ tags: ["Mobs", "Bosses", "Mini Bosses", "Multiplayer Bosses", "Passive Mobs"]
 
 ![Chicks](img/Chicks.png){ align=right width=150 }
 
-<figure class="thumb" style="width: 180px" typeof="mw:File/Thumb">  <figcaption class="thumbcaption"> <p class="caption">A Level 4 Chick, which is now removed.</p> </figcaption> </figure>
+
 
 **Chicks** are [mobs](mobs.md) that were added as part of the Egg Hunt 2020 event. They could spawn in a variety of places depending on their type, and have a special ability to hide inside their eggshells, increasing their defense and the chance for a bee's attacks to be blocked.
 
@@ -59,7 +59,7 @@ The following content has been removed from the game. The contents below may be 
 
 The **Hostage Chicks** were passive mobs that had a chance of spawning after defeating a hostile mob or a Boss (Defeating [ants](ants.md) or other chicks would not spawn a hostage chick). They could spawn with a level range of 1-15 and would always despawn 30 seconds after spawning. Mobs that are more difficult to defeat, such as [Tunnel Bear](tunnel-bear.md), were more likely to cause a hostage chick to spawn. Hostage chicks that spawn from more difficult mobs will have higher health, level, and better rewards than ones that spawn from easier mobs.
 
-<figure class="thumb" style="width: 180px" typeof="mw:File/Thumb">  <figcaption class="thumbcaption"> <p class="caption">A hostage chick hiding in its egg.</p> </figcaption> </figure>
+
 
 ### Drops
 

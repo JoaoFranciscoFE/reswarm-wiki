@@ -25,7 +25,7 @@ It can also be used as a material to craft certain items. Using a [Super Smoothi
 
 ## Ways to Obtain
 
-<figure class="thumb" style="width: 180px" typeof="mw:File/Thumb">  <figcaption class="thumbcaption"> <p class="caption">A Tropical Drink inside the player's inventory.</p> </figcaption> </figure>
+
 
 * Crafting it via [Blender](blender.md) for:
   * 10 [Coconuts](coconut.md)

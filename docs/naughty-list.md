@@ -14,7 +14,7 @@ tags: ["Unobtainable", "Beesmas", "Locations", "Machines", "Summoner", "Beesmas 
 <td style="padding: 0.25em 0.5em;"><div style="display: flex; flex-direction: column; height: 100%; padding-right: 15px;"><b>This piece of content is unobtainable or inaccessible.</b><p style="margin: 0; color: #dbdbdb; font-size:1.5vh;">This content can no longer be obtained or accessed but still exists in the game. This content may still be subject to updates, so feel free to edit below.</p></div>
 </td></tr></tbody></table>
 
-<figure class="thumb" style="width: 203px" typeof="mw:File/Thumb">  <figcaption class="thumbcaption"> <p class="caption">Bubble Bee Man's Naughty List after completing his Beesmas quest.</p> </figcaption> </figure>
+
 
 The **Naughty List** is a recurring Beesmas machine that is unlocked after completing [Bubble Bee Man](bubble-bee-man.md)'s Beesmas quest. As the quest is currently unavailable, this machine cannot be used.
 

@@ -17,7 +17,7 @@ COOLDOWN
 
 **Gumdrops** are an inventory item that was introduced in the Gummy Invasion Event. When used, gumdrop blobs fall from the air and splatter [goo](goo.md) if they hit a [flower](flowers.md). Goo grants an additional 40% bonus [honey](honey.md), with bigger goo puddles granting even more bonus honey. **Gumdrops** can also be used to craft other gear, such as the [Gummyballer](gummyballer.md).
 
-<figure class="thumb" style="width: 180px" typeof="mw:File/Thumb">  <figcaption class="thumbcaption"> <p class="caption">Gumdrops falling in a field.</p> </figcaption> </figure>
+
 
 Placing **gumdrops** in a hotbar slot triggers an ON/OFF switch to appear beneath it. Toggling the switch allows the player to use gumdrops automatically every half a second. The switch can be turned off by manually using gumdrops in any way.
 

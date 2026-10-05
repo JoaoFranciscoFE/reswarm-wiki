@@ -66,7 +66,7 @@ The quality of the amulet increases linearly with the player's score until a sco
 
 ### Bronze Ant Amulet
 
-<figure class="thumb mw-halign-right" style="width: 180px" typeof="mw:File/Thumb">  <figcaption class="thumbcaption"> <p class="caption">The icon for the Bronze Ant Amulet.</p> </figcaption> </figure>
+<figure class="mw-halign-center" style="text-align:center"><img alt="Bronze Ant Amulet" src="img/Bronze_Ant_Amulet.png" width="60"/><figcaption><p class="caption">The icon for the Bronze Ant Amulet.</p></figcaption></figure>
 
 <table class="article-table">
 <tbody><tr>
@@ -746,7 +746,7 @@ Show/hide tables
 
 ### Silver Ant Amulet
 
-<figure class="thumb mw-halign-right" style="width: 180px" typeof="mw:File/Thumb">  <figcaption class="thumbcaption"> <p class="caption">The icon for the Silver Ant Amulet.</p> </figcaption> </figure>
+<figure class="mw-halign-center" style="text-align:center"><img alt="Silver Ant Amulet" src="img/Silver_Ant_Amulet.png" width="60"/><figcaption><p class="caption">The icon for the Silver Ant Amulet.</p></figcaption></figure>
 
 <table class="article-table">
 <tbody><tr>
@@ -1686,7 +1686,7 @@ Show/hide tables
 
 ### Gold Ant Amulet
 
-<figure class="thumb mw-halign-right" style="width: 180px" typeof="mw:File/Thumb">  <figcaption class="thumbcaption"> <p class="caption">The icon for the Gold Ant Amulet.</p> </figcaption> </figure>
+<figure class="mw-halign-center" style="text-align:center"><img alt="Gold Ant Amulet" src="img/Gold_Ant_Amulet.png" width="60"/><figcaption><p class="caption">The icon for the Gold Ant Amulet.</p></figcaption></figure>
 
 <table class="article-table">
 <tbody><tr>
@@ -2780,7 +2780,7 @@ Show/hide tables
 
 ### Diamond Ant Amulet
 
-<figure class="thumb mw-halign-right" style="width: 180px" typeof="mw:File/Thumb">  <figcaption class="thumbcaption"> <p class="caption">The icon for the Diamond Ant Amulet.</p> </figcaption> </figure>
+<figure class="mw-halign-center" style="text-align:center"><img alt="Diamond Ant Amulet" src="img/Diamond_Ant_Amulet.png" width="60"/><figcaption><p class="caption">The icon for the Diamond Ant Amulet.</p></figcaption></figure>
 
 <table class="article-table">
 <tbody><tr>
@@ -3707,7 +3707,7 @@ Show/hide tables
 
 ### Supreme Ant Amulet
 
-<figure class="thumb mw-halign-right" style="width: 180px" typeof="mw:File/Thumb">  <figcaption class="thumbcaption"> <p class="caption">The icon for the Supreme Ant Amulet.</p> </figcaption> </figure>
+<figure class="mw-halign-center" style="text-align:center"><img alt="Supreme Ant Amulet" src="img/Supreme_Ant_Amulet.png" width="60"/><figcaption><p class="caption">The icon for the Supreme Ant Amulet.</p></figcaption></figure>
 
 <table class="article-table">
 <tbody><tr>

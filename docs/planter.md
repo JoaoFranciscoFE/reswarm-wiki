@@ -5,7 +5,7 @@ tags: ["Inventory", "Items", "Planter"]
 
 # Planter
 
-<figure class="thumb" style="width: 354px" typeof="mw:File/Thumb">  <figcaption class="thumbcaption"> <p class="caption">All of the planter models, one-time use at the top and permanent at the bottom.</p> </figcaption> </figure>
+
 
 **Planters** are inventory items that can be deployed in [fields](fields.md). Only one of each type of planter can be planted at any time, and only one planter can be planted in each field at any time. A player can only have up to 3 planters active at any given point of time. Harvesting planters grants [nectar](nectar.md), random loot depending on the planter and the field, and has a chance to summon a [Puffshroom](puffshroom.md). Planters remain where they are placed until claimed by the player.
 

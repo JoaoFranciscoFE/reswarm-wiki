@@ -7,7 +7,7 @@ tags: ["Mechanics"]
 
 <figure class="thumb" style="width: 180px" typeof="mw:File/Frame">  <figcaption class="thumbcaption"> <p class="caption">A bee is radioactive when there is an orange and white ☢️ symbol on the right of the bee's slot, along with green particles.</p> </figcaption> </figure>
 
-<figure class="thumb" style="width: 180px" typeof="mw:File/Thumb">  <figcaption class="thumbcaption"> <p class="caption">A radioactive bee.</p> </figcaption> </figure>
+
 
 **Radiation** is a [mechanic](mechanics.md) that gives a temporary “radioactive” status to a [bee](bees.md) that lasts for 11 minutes. Bees will stay radioactive regardless of any changes to their [hive slots](hive-slot.md) during these 11 minutes.
 
@@ -24,5 +24,5 @@ Bees glow green when radioactive. The brightness of the bee is based on how much
 
 ## Audio
 
-<figure class="thumb mw-halign-left" style="width: 180px" typeof="mw:File/Thumb">  <figcaption class="thumbcaption"> <p class="caption">The sound effect played when a bee turns radioactive. Note that the speed and pitch is random for each mutation.</p> </figcaption> </figure>
+
 

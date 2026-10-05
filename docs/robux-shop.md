@@ -7,7 +7,7 @@ tags: ["Shops", "Mechanics"]
 
 ![Robux Shop](img/Robux_Shop.png){ align=right width=150 }
 
-<figure class="thumb" style="width: 85px" typeof="mw:File/Thumb">  <figcaption class="thumbcaption"> <p class="caption">The icon for the Robux Shop.</p> </figcaption> </figure>
+<figure class="mw-halign-center" style="text-align:center"><img alt="Robux Shop" src="img/Robux_Shop.png" width="60"/><figcaption><p class="caption">The icon for the Robux Shop.</p></figcaption></figure>
 
 The **Robux Shop** is a shop that requires robux to purchase items. It can be accessed through the Shop tab on the menu bar. It is directly next to the [System Tab](system-page.md).
 

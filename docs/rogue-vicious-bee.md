@@ -41,7 +41,7 @@ Unlike other mobs, Rogue Vicious Bee's spikes are able to damage other entities 
 
 Upon defeat, Rogue Vicious Bee drops stingers and [Honey](honey.md). Bees gain 50 [Bond](bond.md) plus an additional 50 for every level of Rogue Vicious Bee above 2. The amount of honey rewarded is based on the total damage dealt to the bee. Stingers are awarded as long as the player deals any amount of damage to the bee, even if the player leaves the field before it is fully defeated and/or if they get killed. The higher the level of the Rogue Vicious Bee, the more stingers are yielded. A daily bonus of 5 Stingers is also given for the first Rogue Vicious Bee defeated that day, with a cooldown of 22 hours after the daily reward.
 
-<figure class="thumb" style="width: 273px" typeof="mw:File/Thumb">  <figcaption class="thumbcaption"> <p class="caption">Level 7-9 Vicious Bee rewards.</p> </figcaption> </figure>
+
 
 * Level 1-3: 1 stinger - Gifted: 6 stingers
 * Level 4-6: 2 stingers - Gifted: 9 stingers

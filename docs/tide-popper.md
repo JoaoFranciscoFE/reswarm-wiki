@@ -274,7 +274,7 @@ When Tide Power reaches 495 stacks or greater, each swing of the tool will relea
 
 Activating a Tidal Surge grants 1 minute of "Tide Blessing". Whenever a tidal wave hits a Balloon of the player's, it causes the balloon to convert up to 8% of your Convert Total into Honey Tokens worth x2.5 that (these tokens can not be collected by token link) and if the balloon is golden, grants 10 seconds of Tide Blessing. Tide Blessing stacks up to 4 hours, and grants up to x1.2 Blue Pollen, Honey From Tokens, Convert Rate at Hive, Pollen from Bees, and Tool Pollen.
 
-<figure class="thumb" style="width: 313px" typeof="mw:File/Thumb">  <figcaption class="thumbcaption"> <p class="caption">The sound that plays when Tidal Surge is activated.</p> </figcaption> </figure>
+
 
 ## Trivia
 

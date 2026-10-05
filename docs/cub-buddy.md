@@ -5,7 +5,7 @@ tags: ["Mechanics"]
 
 # Cub Buddy
 
-<figure class="thumb" style="width: 226px" typeof="mw:File/Thumb">  <figcaption class="thumbcaption"> <p class="caption">The default skin.</p> </figcaption> </figure>
+
 
 A **Cub Buddy** is a small, baby version of a bear that follows the player around, collects tokens, and creates gifts. Whenever the player's cub buddy gets too far away, it will teleport back to them.
 
@@ -17,7 +17,7 @@ When the player's cub buddy produces [items](items.md), it dances, emits heart p
 
 ## Cub Console
 
-<figure class="thumb" style="width: 180px" typeof="mw:File/Thumb">  <figcaption class="thumbcaption"> <p class="caption">The Cub Console.</p> </figcaption> </figure>
+
 
 The Cub Console can be accessed by clicking on the green Cub Console button under the options menu, and allows the player to customize and check their Cub Buddy. The player can equip or unequip their Cub Buddy, modify its name, and view its statistics.
 

@@ -7,7 +7,7 @@ tags: ["Transport", "Locations", "Machines", "Starter Zone"]
 
 ![Red Cannon](img/places/Red_Cannon.png){ .wiki-photo }
 
-<figure class="thumb" style="width: 180px" typeof="mw:File/Thumb">  <figcaption class="thumbcaption"> <p class="caption">The Red Cannon.</p> </figcaption> </figure>
+
 
 The **Red Cannon** is available for use once the player has discovered 25 [bee](bees.md) types. It is located to the right of the [hives](hive.md), next to [Black Bear](black-bear.md), and near the [Ticket Tent](ticket-tent.md) and the [Blue Teleporter](blue-teleporter.md) exit. It has a 5-second cooldown period.
 

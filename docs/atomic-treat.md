@@ -11,7 +11,7 @@ Atomic Treat
 
 *"Always causes a random Mutation in a bee! Mutations grant bonus stats."*
 
-<figure class="thumb" style="width: 120px" typeof="mw:File/Thumb">  <figcaption class="thumbcaption"> <p class="caption">An atomic treat token.</p> </figcaption> </figure>
+<figure class="mw-halign-center" style="text-align:center"><img alt="atomic treat" src="img/Atomic_Treat.png" width="60"/><figcaption><p class="caption">An atomic treat token.</p></figcaption></figure>
 
 An **Atomic Treat**, when fed to a [bee](bees.md), raises its [bond](bond.md) by 1000 and gives the bee a random [mutation](mutation.md). The mutations are [Attack](bee-attack.md), [Convert Amount](system-page.md#Convert_Amount), [Gather Amount](system-page.md#Gather_Total), [Energy](energy.md), and [Bee Ability Rate](system-page.md#Bee_Ability_Rate). These are not the favorite treat of any bee.
 

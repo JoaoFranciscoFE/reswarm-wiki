@@ -80,7 +80,7 @@ The requirements are based on what round was completed during a challenge.
 
 ### Bronze Cog Amulet
 
-<figure class="thumb mw-halign-right" style="width: 180px" typeof="mw:File/Thumb">  <figcaption class="thumbcaption"> <p class="caption">The icon for the Bronze Cog Amulet.</p> </figcaption> </figure>
+<figure class="mw-halign-center" style="text-align:center"><img alt="Bronze Cog Amulet" src="img/Bronze_Cog_Amulet.png" width="60"/><figcaption><p class="caption">The icon for the Bronze Cog Amulet.</p></figcaption></figure>
 
 <table class="article-table">
 <tbody><tr>
@@ -2246,7 +2246,7 @@ Show/hide tables
 
 ### Silver Cog Amulet
 
-<figure class="thumb mw-halign-right" style="width: 180px" typeof="mw:File/Thumb">  <figcaption class="thumbcaption"> <p class="caption">The icon for the Silver Cog Amulet.</p> </figcaption> </figure>
+<figure class="mw-halign-center" style="text-align:center"><img alt="Silver Cog Amulet" src="img/Silver_Cog_Amulet.png" width="60"/><figcaption><p class="caption">The icon for the Silver Cog Amulet.</p></figcaption></figure>
 
 <table class="article-table">
 <tbody><tr>
@@ -4630,7 +4630,7 @@ Show/hide tables
 
 ### Gold Cog Amulet
 
-<figure class="thumb mw-halign-right" style="width: 180px" typeof="mw:File/Thumb">  <figcaption class="thumbcaption"> <p class="caption">The icon for the Gold Cog Amulet.</p> </figcaption> </figure>
+<figure class="mw-halign-center" style="text-align:center"><img alt="Gold Cog Amulet" src="img/Gold_Cog_Amulet.png" width="60"/><figcaption><p class="caption">The icon for the Gold Cog Amulet.</p></figcaption></figure>
 
 <table class="article-table">
 <tbody><tr>
@@ -7095,7 +7095,7 @@ Show/hide tables
 
 ### Diamond Cog Amulet
 
-<figure class="thumb mw-halign-right" style="width: 180px" typeof="mw:File/Thumb">  <figcaption class="thumbcaption"> <p class="caption">The icon for the Diamond Cog Amulet.</p> </figcaption> </figure>
+<figure class="mw-halign-center" style="text-align:center"><img alt="Diamond Cog Amulet" src="img/Diamond_Cog_Amulet.png" width="60"/><figcaption><p class="caption">The icon for the Diamond Cog Amulet.</p></figcaption></figure>
 
 <table class="article-table">
 <tbody><tr>
@@ -10204,7 +10204,7 @@ Show/hide tables
 
 ### Supreme Cog Amulet
 
-<figure class="thumb mw-halign-right" style="width: 180px" typeof="mw:File/Thumb">  <figcaption class="thumbcaption"> <p class="caption">The icon for the Supreme Cog Amulet.</p> </figcaption> </figure>
+<figure class="mw-halign-center" style="text-align:center"><img alt="Supreme Cog Amulet" src="img/Supreme_Cog_Amulet.png" width="60"/><figcaption><p class="caption">The icon for the Supreme Cog Amulet.</p></figcaption></figure>
 
 <table class="article-table">
 <tbody><tr>

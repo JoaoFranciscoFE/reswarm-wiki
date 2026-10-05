@@ -65,7 +65,7 @@ When the player generates a Star Amulet, the following audio plays, with the sou
 
 ### Bronze Star Amulet
 
-<figure class="thumb mw-halign-right" style="width: 100px" typeof="mw:File/Thumb">  <figcaption class="thumbcaption"> <p class="caption">The icon for the Bronze Star Amulet.</p> </figcaption> </figure>
+<figure class="mw-halign-center" style="text-align:center"><img alt="Bronze Star Amulet" src="img/Bronze_Star_Amulet.png" width="60"/><figcaption><p class="caption">The icon for the Bronze Star Amulet.</p></figcaption></figure>
 
 <table class="article-table">
 <tbody><tr>
@@ -1752,7 +1752,7 @@ Show/hide tables
 
 ### Silver Star Amulet
 
-<figure class="thumb mw-halign-right" style="width: 100px" typeof="mw:File/Thumb">  <figcaption class="thumbcaption"> <p class="caption">The icon for the Silver Star Amulet.</p> </figcaption> </figure>
+<figure class="mw-halign-center" style="text-align:center"><img alt="Silver Star Amulet" src="img/Silver_Star_Amulet.png" width="60"/><figcaption><p class="caption">The icon for the Silver Star Amulet.</p></figcaption></figure>
 
 <table class="article-table">
 <tbody><tr>
@@ -3286,7 +3286,7 @@ Show/hide tables
 
 ### Gold Star Amulet
 
-<figure class="thumb mw-halign-right" style="width: 100px" typeof="mw:File/Thumb">  <figcaption class="thumbcaption"> <p class="caption">The icon for the Gold Star Amulet.</p> </figcaption> </figure>
+<figure class="mw-halign-center" style="text-align:center"><img alt="Gold Star Amulet" src="img/Gold_Star_Amulet.png" width="60"/><figcaption><p class="caption">The icon for the Gold Star Amulet.</p></figcaption></figure>
 
 <table class="article-table">
 <tbody><tr>
@@ -4514,7 +4514,7 @@ Show/hide tables
 
 ### Diamond Star Amulet
 
-<figure class="thumb mw-halign-right" style="width: 100px" typeof="mw:File/Thumb">  <figcaption class="thumbcaption"> <p class="caption">The icon for the Diamond Star Amulet.</p> </figcaption> </figure>
+<figure class="mw-halign-center" style="text-align:center"><img alt="Diamond Star Amulet" src="img/Diamond_Star_Amulet.png" width="60"/><figcaption><p class="caption">The icon for the Diamond Star Amulet.</p></figcaption></figure>
 
 <table class="article-table">
 <tbody><tr>
@@ -5758,7 +5758,7 @@ Show/hide tables
 
 ### Supreme Star Amulet
 
-<figure class="thumb mw-halign-right" style="width: 100px" typeof="mw:File/Thumb">  <figcaption class="thumbcaption"> <p class="caption">The icon for the Supreme Star Amulet.</p> </figcaption> </figure>
+<figure class="mw-halign-center" style="text-align:center"><img alt="Supreme Star Amulet" src="img/Supreme_Star_Amulet.png" width="60"/><figcaption><p class="caption">The icon for the Supreme Star Amulet.</p></figcaption></figure>
 
 <table class="article-table">
 <tbody><tr>

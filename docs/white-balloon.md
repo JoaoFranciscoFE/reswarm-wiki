@@ -23,7 +23,7 @@ The **White Balloon** is a consumable item added in the 2021-12-26 update. Once 
 
 White balloons have a cap of 25 in the player's inventory, and 1 per player in the field.
 
-<figure class="thumb" style="width: 180px" typeof="mw:File/Thumb">  <figcaption class="thumbcaption"> <p class="caption">A White Balloon floating above a field.</p> </figcaption> </figure>
+
 
 ## Ways to Obtain
 

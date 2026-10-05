@@ -5,9 +5,9 @@ tags: ["Mobs", "Stick Bug Challenge"]
 
 # Stick Nymph
 
-<figure class="thumb" style="width: 180px" typeof="mw:File/Thumb">  <figcaption class="thumbcaption"> <p class="caption">A Stick Nymph</p> </figcaption> </figure>
 
-<figure class="thumb" style="width: 180px" typeof="mw:File/Thumb">  <figcaption class="thumbcaption"> <p class="caption">A Stick Nymph from the side.</p> </figcaption> </figure>
+
+
 
 *Not to be confused with [Festive Nymphs](festive-nymph.md), a version of this mob that only appears in Beesmas.*
 

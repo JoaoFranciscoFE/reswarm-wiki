@@ -19,7 +19,7 @@ The following content has been removed from the game. The contents below may be 
 </div>
 </aside>
 
-<figure class="thumb" style="width: 180px" typeof="mw:File/Thumb">  <figcaption class="thumbcaption"> <p class="caption">The Boost Market page interface.</p> </figcaption> </figure>
+
 
 The **Boost Market** was a [shop](shops.md) that could have been found in the [30 Bee Zone](bear-gate.md). Since the Beesmas 2021 update, it has been replaced by the [Nectar Pot](nectar-pot.md).
 

@@ -13,7 +13,7 @@ Due to the nature of the information, details may be inaccurate or outdated.
 
 > *This article is about the quest giver. For the tool, see [Sticker-Seeker](sticker-seeker.md).*
 
-<figure class="thumb" style="width: 209px" typeof="mw:File/Thumb">  <figcaption class="thumbcaption"> <p class="caption">The Sticker Quest Giver and the Sticker-Seeker leaderboard.</p> </figcaption> </figure>
+
 
 The **Sticker-Seeker Quest Machine** is a [quest giver](quest-givers.md) in the [Hive Hub](hive-hub.md). To interact with it, the player must own and have the [Sticker-Seeker](sticker-seeker.md) equipped. The player must also have a total of 15 bees hatched to interact with the machine.
 

@@ -147,7 +147,7 @@ This is a 30x21 field, containing 630 [flowers](flowers.md). The flowers are whi
 
   
 
-<figure class="thumb" style="width: 75px" typeof="mw:File/Thumb">  <figcaption class="thumbcaption"> <p class="caption">The Coconut Field boost icon.</p> </figcaption> </figure>
+
 
 * Coconut [Field Winds](field-wind.md) can be obtained through the [Wind Shrine](wind-shrine.md) or [codes](codes.md). They have a base of +20% Instant Coconut Field Conversion and give +5% Instant Coconut Field Conversion and +10% Coconut Field pollen for each stack. Coconut Field Winds can stack up to a total of 15 times.
 * Using the [Coconut Dispenser](coconut-dispenser.md) will always give Coconut [Field Boost](field-boost.md) x1 (if the player has [Coconut Badge](badges.md#Coconut_Badges) cadet or higher), along with coconuts depending on the player's badge.

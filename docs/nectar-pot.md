@@ -9,7 +9,7 @@ tags: ["Locations", "Machines"]
 
 *Not to be confused with the [Nectar Condenser](nectar-condenser.md), located in the 35 Bee Zone which converts 12 hours of [Nectar](nectar.md) into a [Nectar Vial](nectar-vial.md).*
 
-<figure class="thumb" style="width: 180px" typeof="mw:File/Thumb">  <figcaption class="thumbcaption"> <p class="caption">The Nectar Pot in the 30 Bee Zone.</p> </figcaption> </figure>
+
 
 The **Nectar Pot** is a pot in the [30 Bee Zone](bear-gate.md) that can store any type of [Nectar](nectar.md) buff that the player can take out to use later, for the cost of 5 [tickets](ticket.md).
 

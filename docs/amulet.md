@@ -11,7 +11,7 @@ Due to the nature of the information, details may be inaccurate or outdated.
 
 Datamined information: How Amulets are generated. — December 19th, 2024
 
-<figure class="thumb" style="width: 246px" typeof="mw:File/Thumb">  <figcaption class="thumbcaption"> <p class="caption">The scheme for the Ant Amulet.</p> </figcaption> </figure>
+
 
 An **amulet** is an item introduced in the 2018-07-11 update. They grant several [buffs](buffs-debuffs.md) to the player and/or their [bees](bees.md), and can be obtained by completing certain special challenges.
 

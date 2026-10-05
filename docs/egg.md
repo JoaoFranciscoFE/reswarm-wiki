@@ -5,7 +5,7 @@ tags: ["Items", "Inventory"]
 
 # Egg
 
-<figure class="thumb" style="width: 180px" typeof="mw:File/Thumb">  <figcaption class="thumbcaption"> <p class="caption">Eggs available inside the <a href="robux-shop.html">Robux Shop</a>.</p> </figcaption> </figure>
+
 
 **Eggs** are a type of inventory item where the player drags into their [hive](hive.md) to hatch a [bee](bees.md), can be donated to the [Wind Shrine](wind-shrine.md) or are used to roll the [Sticker Printer](sticker-printer.md). They are also the items that help players start playing in the [game](re-swarm.md). Eggs come in many different types, some offering chances at different rarities of bees, and some hatching a specific bee. Currently, a total of 6 (or 11 if counting the [gifted](gifted-bee.md) variants) different types of eggs exist in the game, not including Plastic Eggs, specific bee eggs, the Flight of the Bumble Egg, or the Swarming Egg of the Hive.
 

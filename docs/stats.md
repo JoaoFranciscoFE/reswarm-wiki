@@ -5,9 +5,9 @@ tags: ["Mechanics", "System"]
 
 # Stats
 
-<figure class="thumb" style="width: 180px" typeof="mw:File/Thumb">  <figcaption class="thumbcaption"> <p class="caption">The stats for a Basic Bee.</p> </figcaption> </figure>
 
-<figure class="thumb" style="width: 180px" typeof="mw:File/Thumb">  <figcaption class="thumbcaption"> <p class="caption">A bee's level up page.</p> </figcaption> </figure>
+
+
 
 *This page is for stats that apply to bees. For stats that apply to the player, collecting pollen, and the [hive](hive.md), see [System Page](system-page.md).*
 

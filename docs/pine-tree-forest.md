@@ -35,7 +35,7 @@ LIKE
 
 DISLIKE
 
-<figure class="thumb" style="width: 200px" typeof="mw:File/Thumb">  <figcaption class="thumbcaption"> <p class="caption">The royal jelly token on top of the tallest pine tree.</p> </figcaption> </figure>
+
 
 The **Pine Tree Forest** is a [field](fields.md) located past the [Honey Bee Gate](honey-bee-gate.md) and near the [Badge Bearer's Guild](badge-bearer-s-guild.md). It is protected by two [mantises](mantis.md) and the [Werewolf](werewolf.md).
 
@@ -140,7 +140,7 @@ This is a 23x31 field, containing 713 [flowers](flowers.md). The flowers are whi
 
 ## Obtaining Boosts
 
-<figure class="thumb" style="width: 75px" typeof="mw:File/Thumb">  <figcaption class="thumbcaption"> <p class="caption">The Pine Tree Forest boost icon.</p> </figcaption> </figure>
+
 
 * Using the [Blue Field Booster](blue-field-booster.md) may give a Pine Tree [Forest Boost](field-boost.md). When it does, it will give +100% Pine Tree Forest pollen for 15 minutes.
 * Using [glitter](glitter.md) will add 100% Pine Tree Forest pollen onto the current boost for 15 minutes if the current boost isn't already maxed out.

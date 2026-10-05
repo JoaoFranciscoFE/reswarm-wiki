@@ -57,7 +57,7 @@ The chance of getting an amulet of a higher tier and the quality of the amulet i
 
 ### Bronze Shell Amulet
 
-<figure class="thumb mw-halign-right" style="width: 180px" typeof="mw:File/Thumb">  <figcaption class="thumbcaption"> <p class="caption">The icon for the Bronze Shell Amulet.</p> </figcaption> </figure>
+<figure class="mw-halign-center" style="text-align:center"><img alt="Bronze Shell Amulet" src="img/Bronze_Shell_Amulet.png" width="60"/><figcaption><p class="caption">The icon for the Bronze Shell Amulet.</p></figcaption></figure>
 
 <table class="article-table">
 <tbody><tr>
@@ -3076,7 +3076,7 @@ Show/hide tables
 
 ### Silver Shell Amulet
 
-<figure class="thumb mw-halign-right" style="width: 180px" typeof="mw:File/Thumb">  <figcaption class="thumbcaption"> <p class="caption">The icon for the Silver Shell Amulet.</p> </figcaption> </figure>
+<figure class="mw-halign-center" style="text-align:center"><img alt="Silver Shell Amulet" src="img/Silver_Shell_Amulet.png" width="60"/><figcaption><p class="caption">The icon for the Silver Shell Amulet.</p></figcaption></figure>
 
 <table class="article-table">
 <tbody><tr>
@@ -6666,7 +6666,7 @@ Show/hide tables
 
 ### Gold Shell Amulet
 
-<figure class="thumb mw-halign-right" style="width: 180px" typeof="mw:File/Thumb">  <figcaption class="thumbcaption"> <p class="caption">The icon for the Gold Shell Amulet.</p> </figcaption> </figure>
+<figure class="mw-halign-center" style="text-align:center"><img alt="Gold Shell Amulet" src="img/Gold_Shell_Amulet.png" width="60"/><figcaption><p class="caption">The icon for the Gold Shell Amulet.</p></figcaption></figure>
 
 <table class="article-table">
 <tbody><tr>
@@ -9920,7 +9920,7 @@ Show/hide tables
 
 ### Diamond Shell Amulet
 
-<figure class="thumb mw-halign-right" style="width: 180px" typeof="mw:File/Thumb">  <figcaption class="thumbcaption"> <p class="caption">The icon for the Diamond Shell Amulet.</p> </figcaption> </figure>
+<figure class="mw-halign-center" style="text-align:center"><img alt="Diamond Shell Amulet" src="img/Diamond_Shell_Amulet.png" width="60"/><figcaption><p class="caption">The icon for the Diamond Shell Amulet.</p></figcaption></figure>
 
 <table class="article-table">
 <tbody><tr>
@@ -13083,7 +13083,7 @@ Show/hide tables
 
 ### Supreme Shell Amulet
 
-<figure class="thumb mw-halign-right" style="width: 180px" typeof="mw:File/Thumb">  <figcaption class="thumbcaption"> <p class="caption">The icon for the Supreme Shell Amulet.</p> </figcaption> </figure>
+<figure class="mw-halign-center" style="text-align:center"><img alt="Supreme Shell Amulet" src="img/Supreme_Shell_Amulet.png" width="60"/><figcaption><p class="caption">The icon for the Supreme Shell Amulet.</p></figcaption></figure>
 
 <table class="article-table">
 <tbody><tr>

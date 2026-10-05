@@ -17,7 +17,7 @@ Due to the nature of the information, details may be inaccurate or outdated.
 
 Datamined information: The probability of getting every item and bee. — December 19th, 2024
 
-<figure class="thumb" style="width: 244px" typeof="mw:File/Thumb">  <figcaption class="thumbcaption"> <p class="caption">Onett's Lid Art after completing Onett's Beesmas quest.</p> </figcaption> </figure>
+
 
 **Onett's Lid Art**, or **Yard Art** is a Beesmas decoration which is unlocked after completing [Onett's](onett.md) Yard Art [quest](quests.md).
 
@@ -31,7 +31,7 @@ The Lid Art consists of (left to right) [Spirit Bear](spirit-bear.md) on [King B
 
 The names confirmed by Onett so far are: Queen Spirit Bear (Spirit Bear), King Stick Bug (Stick Bug), and King Bumble Bee (Bumble Bee).
 
-<figure class="thumb" style="width: 180px" typeof="mw:File/Thumb">  <figcaption class="thumbcaption"> <p class="caption">Onett's Lid Art before the completion of Onett's Beesmas 2020 quest and beyond.</p> </figcaption> </figure>
+
 
 After completing Onett's Yard Art quest, [Baby Bee](baby-bee.md), wearing a Santa hat, appears in between Black Bear and Mother Bear in the cradle.
 

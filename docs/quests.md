@@ -15,7 +15,7 @@ This piece of content recently got an update.
 
 We are in the process of catching up to the game. Please feel free to help us by **[updating this information](quests.md)**.
 
-<figure class="thumb" style="width: 85px" typeof="mw:File/Thumb">  <figcaption class="thumbcaption"> <p class="caption">The icon for the Quest Menu.</p> </figcaption> </figure>
+
 
 **Quests** are a major [mechanic](mechanics.md) in Re://:Swarm. It allows the player to do tasks in order to receive various rewards that allow them to progress further into the game. Quests are not necessary for progression, but are highly recommended. There are a few exceptions, such as [Science Bear](science-bear.md)'s [Translator](science-bear.md#Translator_Quest_List_(15)) questline, and [Spirit Bear](spirit-bear.md)'s questline, which are required to complete to progress.
 

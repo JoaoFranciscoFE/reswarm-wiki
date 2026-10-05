@@ -40,7 +40,7 @@ There are multiple aspects of flames that can be improved by stats and modifiers
 
 **Flame Pollen** is the amount of pollen that flames can collect. The player can check how much flame pollen they have in the system page.
 
-<figure class="thumb" style="width: 180px" typeof="mw:File/Thumb">  <figcaption class="thumbcaption"> <p class="caption">The Flame Pollen stat in the System Page.</p> </figcaption> </figure>
+
 
 Flame Pollen can be increased in a few ways:
 
@@ -68,7 +68,7 @@ Flame Pollen can be increased in a few ways:
 
 ### Instant Flame Conversion
 
-<figure class="thumb" style="width: 180px" typeof="mw:File/Thumb">  <figcaption class="thumbcaption"> <p class="caption">The Instant Flame Conversion stat in the System Page.</p> </figcaption> </figure>
+
 
 **Instant Flame Conversion** is how much pollen collected by flames are instantly converted. It can be increased by a few ways.
 

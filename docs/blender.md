@@ -33,7 +33,7 @@ The **Blender** is a machine located in the [Badge Bearer's Guild](badge-bearer-
 
 ## Crafting
 
-<figure class="thumb" style="width: 180px" typeof="mw:File/Thumb">  <figcaption class="thumbcaption"> <p class="caption">The Blender interface when crafting an item.</p> </figcaption> </figure>
+
 
 Each item takes 5 minutes to craft and the timer only counts down when the player is in-game, unless they have an [Offline Voucher](sticker.md#Sticker_Index), in which it will stay active for up to 24 hours after they log out. The player can end the crafting process at any time by clicking on the "End Crafting" button. This will give the player all finished items, and all unfinished items will be turned back into their ingredients and given back to the player. If the button is green, then everything has been blended. If not (red button), then the Blender has not finished blending. The player can also speed up the blending for a varying amount of [Tickets](ticket.md). For every 1 item being crafted, the Blender requires 1 more ticket to speed up. Except for [Moon Charms](moon-charm.md) and [Gumdrops](gumdrops.md), for which each ticket serves for speeding up whole 10 items.
 
@@ -152,7 +152,7 @@ Each item takes 5 minutes to craft and the timer only counts down when the playe
 * Crafting something that requires 2 or more strawberries will appear as [-n Strawberrys], being incorrectly spelt as the correct word should be strawberries.
 * 
 
-<figure class="thumb" style="width: 180px" typeof="mw:File/Thumb">  <figcaption class="thumbcaption"> <p class="caption">There is a misspelling present when using enzymes for crafting.</p> </figcaption> </figure>
+
 
   Crafting something that requires enzymes will appear as [-n Enzymess], being incorrectly spelt with an extra s at the end. However, if you craft the enzymes themselves, the correct spelling will appear.
 * The message above the buttons while crafting appears differently if one has the Offline Voucher redeemed. If the player has the Offline Voucher redeemed, it will say: "You've redeemed the offline voucher! The blender will continue running for up to 24 hours while you are offline."

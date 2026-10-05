@@ -7,7 +7,7 @@ tags: ["Shops", "Locations", "Gummy Invasion", "Goo", "Machines"]
 
 ![Gumdrop Shop](img/places/Gumdrop_Shop.png){ .wiki-photo }
 
-<figure class="thumb" style="width: 250px" typeof="mw:File/Thumb">  <figcaption class="thumbcaption"> <p class="caption"><i>The design of the Gumdrop Shop.</i></p> </figcaption> </figure>
+
 
 The **Gumdrop Shop** is a [shop](shops.md) introduced in the 2018-05-26 update, located between the [Spider Field](spider-field.md) and the [Bamboo Field](bamboo-field.md). It can be used to purchase [gumdrops](gumdrops.md) with [tickets](ticket.md), in increments of 3, 30, and 300.
 

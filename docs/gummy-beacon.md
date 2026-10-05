@@ -9,7 +9,7 @@ This piece of content goes bye bye.
 
 The following content has been removed from the game. The contents below may be archival, but feel free to edit below.
 
-<figure class="thumb" style="width: 180px" typeof="mw:File/Thumb">  <figcaption class="thumbcaption"> <p class="caption">The Gummy Beacon after the player has turned in Gummy Bear's Beesmas quest.</p> </figcaption> </figure>
+
 
 The **Gummy Beacon** is a Beesmas 2020+ machine that can be unlocked after completing [Gummy Bear's](gummy-bear.md) Beesmas [quest](quests.md). It is located on top of the [Noob Shop](noob-shop.md), on the corner closest to the [Royal Jelly Dispenser](royal-jelly-dispenser.md) next to the [Clover Field](clover-field.md), in front of the [Star Hall](star-hall.md). If the player attempts to activate it without completing Gummy Bear's Beesmas quest, it reads: *"The satellite dish isn't working, but it still emits bad vibes..."* Completing his quest allows the player to activate a Gummy Siege.
 
@@ -17,7 +17,7 @@ The **Gummy Beacon** is a Beesmas 2020+ machine that can be unlocked after compl
 
 Upon activating, a platform will appear with [Gummy Bear](gummy-bear.md) and [Gummy Bee](gummy-bee.md) in front of the Gummy Beacon, and the [Gummy Morph](passive-abilities.md#Gummy_Morph) tune will play. Then, it will [summon](bees.md#Summoned_Bees) three level 8-20 Gummy Bees for five minutes. Gummy Bear will begin to shoot [goo](goo.md) puddles at random fields similar to the Gummy Invasion event. The targeted field will also spawn [Gumdrops](gumdrops.md) tokens. Gummy Bear will pick five random fields (excluding the [Ant Field](ant-field.md) and [Hub Field](hub-field.md)), and shoots goo for one minute per field, making the Gummy Siege 5 minutes long. The cooldown for Gummy Siege is 8 Hours.
 
-<figure class="thumb" style="width: 180px" typeof="mw:File/Thumb">  <figcaption class="thumbcaption"> <p class="caption">Three random leveled Gummy Bees being summoned.</p> </figcaption> </figure>
+
 
 When it starts, two server-wide messages will appear saying the following lines:
 Gummy Bear: "Artillery has arrived, Gummy Soldier {Username}."

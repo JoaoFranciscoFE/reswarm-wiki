@@ -17,9 +17,9 @@ Datamined information: The probability of finding every possible reward. — Dec
 
 ## Gameplay
 
-<figure class="thumb" style="width: 180px" typeof="mw:File/Thumb">  <figcaption class="thumbcaption"> <p class="caption">The Night Memory Match Screen. An example of a board of size 4x4 cards.</p> </figcaption> </figure>
 
-<figure class="thumb" style="width: 180px" typeof="mw:File/Thumb">  <figcaption class="thumbcaption"> <p class="caption">The Extreme Memory Match screen. An example of a board of size 4x5 cards.</p> </figcaption> </figure>
+
+
 
 When activated, a screen will pop up with a board of size 4x4 or 4x5 grids. A player has a limited number of chances to match cards together. Matching a pair also costs a chance. They can gain more chances if they have the required certain ranks of [field badges](badges.md) to get it.
 

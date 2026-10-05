@@ -146,7 +146,7 @@ This is a 17x33 field, containing 561 [flowers](flowers.md). The flowers are whi
 
   
 
-<figure class="thumb" style="width: 75px" typeof="mw:File/Thumb">  <figcaption class="thumbcaption"> <p class="caption">The Pumpkin Patch boost icon.</p> </figcaption> </figure>
+
 
 * Using [glitter](glitter.md) in the field will add 100% Pumpkin Patch pollen onto the current boost if it isn't already maxed out.
 * Using [Field Dice](field-dice.md), [Smooth Dice](smooth-dice.md), or [Loaded Dice](loaded-dice.md) may add +100% - 300% Pumpkin Patch pollen for 15 minutes if the current boost isn't already maxed out.

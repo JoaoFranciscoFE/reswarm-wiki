@@ -7,7 +7,7 @@ tags: ["Locations", "Egg Claims"]
 
 ![Gummy Bee Egg Claim](img/places/Gummy_Bee_Egg_Claim.png){ .wiki-photo }
 
-<figure class="thumb" style="width: 220px" typeof="mw:File/Thumb">  <figcaption class="thumbcaption"> <p class="caption">The Gummy Bee Egg Claim.</p> </figcaption> </figure>
+
 
 The **Gummy Bee Egg Claim** is a platform that can be found beyond the [Ant Gate](ant-gate.md). It's located on a ledge near the [Ant Challenge](ant-challenge.md) and the [hives](hive.md). It can be reached by going through the gap behind the Top Ant Exterminators Leaderboard, going on top of the Ant Gate, or by walking on top of the hives to the egg claim.
 
