@@ -326,7 +326,9 @@ A **Paperclip** is a [level](bond.md) 7 [Beequip](beequip.md). It has an equip l
 
 ### Max possible stats
 
-*The best value each stat can reach. The top base value can roll at any potential; higher potential only makes it more likely. A beequip takes 5 waxes: Soft and Hard Wax give at most 10 upgrade rolls, and Caustic Wax gives up to 20, though each Caustic only succeeds 25% of the time and destroys the beequip when it fails. The max columns assume every roll lands on that stat at its best value, up to its max picks, so they are a ceiling rather than a typical result. "Pick chance" is how likely each roll is to pick that upgrade, from 1 ★ to 5 ★.*
+*A beequip takes 5 waxes, and a failed wax still uses a slot. Soft and Hard Wax give at most 10 upgrade rolls. Caustic Wax and Debug Wax give 4 rolls each, so 5 of them give 20 rolls and can also pick Caustic-only upgrades; Debug Wax always succeeds, while Caustic only succeeds 25% of the time and destroys the beequip when it fails. Every roll picks one upgrade at random, and an upgrade stops being picked once it reaches its max picks.*
+
+*<b>Best base value</b> is the top roll before any wax, with how often a roll lands on it at 1 ★ and 5 ★. <b>Realistic max</b> is the best you can expect to actually see: the most picks of that upgrade that about 1 in 1,000 fully waxed 5 ★ beequips get, each at its top value. <b>Absolute ceiling</b> is the most the game allows, with every roll landing on that upgrade up to its max picks. Where it is higher than the realistic max, players are very unlikely to ever see it.*
 
 <table class="article-table">
 <tbody><tr>
@@ -336,24 +338,24 @@ A **Paperclip** is a [level](bond.md) 7 [Beequip](beequip.md). It has an equip l
 </th>
 <th>Per wax pick
 </th>
-<th>Pick chance
-</th>
 <th>Max picks
 </th>
-<th>Max with Soft/Hard Wax
+<th>Realistic max, Soft/Hard Wax (10 rolls)
 </th>
-<th>Max with Caustic Wax
+<th>Realistic max, Caustic/Debug Wax (20 rolls)
+</th>
+<th>Absolute ceiling (20 rolls)
 </th></tr>
 <tr>
 <td>Ability Rate
 </td>
-<td>+3%
+<td>+3%<br/><small>Top roll: 3.5% at 1 ★, 60% at 5 ★</small>
 </td>
-<td>+1%
-</td>
-<td>2.48% → 7.25%
+<td>+1%<br/><small>Picked 2.48% → 7.25% of rolls (1 ★ → 5 ★)</small>
 </td>
 <td>3
+</td>
+<td>+6%
 </td>
 <td>+6%
 </td>
@@ -362,13 +364,13 @@ A **Paperclip** is a [level](bond.md) 7 [Beequip](beequip.md). It has an equip l
 <tr>
 <td>Ability Pollen
 </td>
-<td>+15%
+<td>+15%<br/><small>Top roll: 0.13% at 1 ★, 20% at 5 ★</small>
 </td>
-<td>+1.01% to +2%
-</td>
-<td>7.98% → 18%
+<td>+1.01% to +2%<br/><small>Picked 7.98% → 18% of rolls (1 ★ → 5 ★)</small>
 </td>
 <td>20
+</td>
+<td>+27%
 </td>
 <td>+35%
 </td>
@@ -377,15 +379,15 @@ A **Paperclip** is a [level](bond.md) 7 [Beequip](beequip.md). It has an equip l
 <tr>
 <td>Ability Token Lifespan (hive bonus)
 </td>
-<td>+3%
+<td>+3%<br/><small>Top roll: 3.5% at 1 ★, 60% at 5 ★</small>
 </td>
-<td>+1% to +2%
-</td>
-<td>0.24% → 0.72%
+<td>+1% to +2%<br/><small>Picked 0.24% → 0.72% of rolls (1 ★ → 5 ★)</small>
 </td>
 <td>3
 </td>
-<td>+9%
+<td>+7%
+</td>
+<td>+7%
 </td>
 <td>+9%
 </td></tr>
@@ -394,13 +396,13 @@ A **Paperclip** is a [level](bond.md) 7 [Beequip](beequip.md). It has an equip l
 </td>
 <td>Only from wax
 </td>
-<td>+2% to +3%
-</td>
-<td>89% → 72%
+<td>+2% to +3%<br/><small>Picked 89% → 72% of rolls (1 ★ → 5 ★)</small>
 </td>
 <td>20
 </td>
 <td>+30%
+</td>
+<td>+60%
 </td>
 <td>+60%
 </td></tr>
@@ -409,11 +411,11 @@ A **Paperclip** is a [level](bond.md) 7 [Beequip](beequip.md). It has an equip l
 </td>
 <td>Only from wax
 </td>
-<td>+1%
-</td>
-<td>0.64% → 1.45%
+<td>+1%<br/><small>Picked 0.64% → 1.45% of rolls (1 ★ → 5 ★)</small>
 </td>
 <td>3
+</td>
+<td>+2%
 </td>
 <td>+3%
 </td>
