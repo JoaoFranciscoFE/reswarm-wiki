@@ -5,7 +5,7 @@ tags: ["Leaderboards"]
 
 # Daily Top Pepper Patch Collectors
 
-![Daily Top Pepper Patch Collectors](img/Daily_Top_Pepper_Patch_Collectors.png){ align=right width=150 }
+![Daily Top Pepper Patch Collectors](img/Pepper_Patch_Stamp.png){ align=right width=150 }
 
 The **Daily Top Pepper Patch Collectors** is one of the 64 [leaderboards](leaderboards.md) in the game, and is only viewable via the Global Leaderboards menu in the [System Page](system-page.md). This leaderboard shows how much [pollen](pollen.md) players have collected in the [Pepper Patch](pepper-patch.md) on that day. It shows 10 leaderboard positions at a time. The player can scroll down the leaderboard to see more players, all the way to the 100th place. It resets every day at 12:00 AM CST.
 

@@ -5,7 +5,7 @@ tags: ["Leaderboards"]
 
 # Daily Top Wild Windy Token Collectors
 
-![Daily Top Wild Windy Token Collectors](img/Daily_Top_Wild_Windy_Token_Collectors.png){ align=right width=150 }
+![Daily Top Wild Windy Token Collectors](img/Tornado.png){ align=right width=150 }
 
 The **Daily Top Wild Windy Token Collectors** is one of the 64 [leaderboards](leaderboards.md) in the game, and is only viewable via the Global Leaderboards menu in the [System Page](system-page.md). This leaderboard shows how many tokens dropped by [Wild Windy Bee](wild-windy-bee.md) players have collected on that day. It shows 10 leaderboard positions at a time. The player can scroll down the leaderboard to see more players, all the way to the 100th place. It resets every day at 12:00 AM CST.
 

@@ -5,7 +5,7 @@ tags: ["Leaderboards"]
 
 # Daily Top Aphid Exterminators
 
-![Daily Top Aphid Exterminators](img/Daily_Top_Aphid_Exterminators.png){ align=right width=150 }
+![Daily Top Aphid Exterminators](img/Wavy_Cyan_Hive_Skin.png){ align=right width=150 }
 
 The **Daily Top Aphid Exterminators** is one of the 64 [leaderboards](leaderboards.md) in the game, and is only viewable via the Global Leaderboards menu in the [System Page](system-page.md). This leaderboard shows the number of [aphids](aphid.md) players have killed on that day. It shows 10 leaderboard positions at a time. The player can scroll down the leaderboard to see more players, all the way to the 100th place. It resets every day at 12:00 AM CST.
 

@@ -5,7 +5,7 @@ tags: ["Leaderboards", "Locations", "Red"]
 
 # Daily Top Red Pollen Collectors
 
-![Daily Top Red Pollen Collectors](img/Daily_Top_Red_Pollen_Collectors.png){ align=right width=150 }
+![Daily Top Red Pollen Collectors](img/Left_Mythic_Gem_Fleuron.png){ align=right width=150 }
 
 The **Daily Top Red Pollen Collectors** is one of 64 [leaderboards](leaderboards.md) in the game. This leaderboard shows how much red [pollen](pollen.md) players have collected on that day. It shows 10 leaderboard positions at a time. The player can scroll down the leaderboard to see more players, all the way to 100th place. It resets every day at 12:00 AM, CST.
 
