@@ -72,7 +72,7 @@ A **Camo Bandana** is a [level](bond.md) 8 [Beequip](beequip.md). It has an equi
 
 <p class="beequip-meta"><b>Rarity:</b> Common · <b>Equip limit:</b> 3 · <b>Who can wear it:</b> level 8+; AbilityTags: {&quot;1&quot;: &quot;Bomb&quot;}</p>
 
-*Stats and hive bonuses each roll on their own. Higher potential makes a stat more likely to appear and pulls its value towards the top of its range. The chances and averages below come from running the game's own roll code 5,000 times at each potential.*
+*Stats and hive bonuses each roll on their own. Higher potential makes a stat more likely to appear and pulls its value towards the top of its range. The chances and averages below come from running the game's own roll code 5,000 times at each potential. Bee stats that the game applies as a multiplier are shown as a %, the way the in-game tooltip shows them.*
 
 /// tab | 1 ★
 
@@ -93,22 +93,22 @@ A **Camo Bandana** is a [level](bond.md) 8 [Beequip](beequip.md). It has an equi
 </td>
 <td>Gather Amount
 </td>
-<td>x1.1 to x1.15
+<td>+10% to +15%
 </td>
 <td>100%
 </td>
-<td>x1.117
+<td>+11.7%
 </td></tr>
 <tr>
 <td>Bee stat
 </td>
 <td>Buzz Bomb Pollen
 </td>
-<td>+1.15 to +1.25
+<td>+15% to +25%
 </td>
 <td>100%
 </td>
-<td>+1.19
+<td>+19%
 </td></tr>
 <tr>
 <td>Bee stat
@@ -176,22 +176,22 @@ A **Camo Bandana** is a [level](bond.md) 8 [Beequip](beequip.md). It has an equi
 </td>
 <td>Gather Amount
 </td>
-<td>x1.1 to x1.15
+<td>+10% to +15%
 </td>
 <td>100%
 </td>
-<td>x1.122
+<td>+12.2%
 </td></tr>
 <tr>
 <td>Bee stat
 </td>
 <td>Buzz Bomb Pollen
 </td>
-<td>+1.15 to +1.25
+<td>+15% to +25%
 </td>
 <td>100%
 </td>
-<td>+1.2
+<td>+20%
 </td></tr>
 <tr>
 <td>Bee stat
@@ -259,22 +259,22 @@ A **Camo Bandana** is a [level](bond.md) 8 [Beequip](beequip.md). It has an equi
 </td>
 <td>Gather Amount
 </td>
-<td>x1.1 to x1.15
+<td>+10% to +15%
 </td>
 <td>100%
 </td>
-<td>x1.128
+<td>+12.8%
 </td></tr>
 <tr>
 <td>Bee stat
 </td>
 <td>Buzz Bomb Pollen
 </td>
-<td>+1.15 to +1.25
+<td>+15% to +25%
 </td>
 <td>100%
 </td>
-<td>+1.2
+<td>+20%
 </td></tr>
 <tr>
 <td>Bee stat
@@ -342,22 +342,22 @@ A **Camo Bandana** is a [level](bond.md) 8 [Beequip](beequip.md). It has an equi
 </td>
 <td>Gather Amount
 </td>
-<td>x1.1 to x1.15
+<td>+10% to +15%
 </td>
 <td>100%
 </td>
-<td>x1.133
+<td>+13.3%
 </td></tr>
 <tr>
 <td>Bee stat
 </td>
 <td>Buzz Bomb Pollen
 </td>
-<td>+1.15 to +1.25
+<td>+15% to +25%
 </td>
 <td>100%
 </td>
-<td>+1.21
+<td>+21%
 </td></tr>
 <tr>
 <td>Bee stat
@@ -425,22 +425,22 @@ A **Camo Bandana** is a [level](bond.md) 8 [Beequip](beequip.md). It has an equi
 </td>
 <td>Gather Amount
 </td>
-<td>x1.1 to x1.15
+<td>+10% to +15%
 </td>
 <td>100%
 </td>
-<td>x1.138
+<td>+13.8%
 </td></tr>
 <tr>
 <td>Bee stat
 </td>
 <td>Buzz Bomb Pollen
 </td>
-<td>+1.15 to +1.25
+<td>+15% to +25%
 </td>
 <td>100%
 </td>
-<td>+1.23
+<td>+23%
 </td></tr>
 <tr>
 <td>Bee stat
@@ -489,145 +489,160 @@ A **Camo Bandana** is a [level](bond.md) 8 [Beequip](beequip.md). It has an equi
 
 ///
 
-### Wax upgrades
+### Max possible stats
 
-*Each upgrade a wax rolls picks one entry below, weighted by its share of the pool at that potential. Caustic-only entries can only come from Caustic or Debug Wax. An entry leaves the pool once it reaches its max picks.*
+*The best value each stat can reach. The top base value can roll at any potential; higher potential only makes it more likely. A beequip takes 5 waxes: Soft and Hard Wax give at most 10 upgrade rolls, and Caustic Wax gives up to 20, though each Caustic only succeeds 25% of the time and destroys the beequip when it fails. The max columns assume every roll lands on that stat at its best value, up to its max picks, so they are a ceiling rather than a typical result. "Pick chance" is how likely each roll is to pick that upgrade, from 1 ★ to 5 ★.*
 
 <table class="article-table">
 <tbody><tr>
-<th>Upgrade
+<th>Stat
+</th>
+<th>Best base value
+</th>
+<th>Per wax pick
+</th>
+<th>Pick chance
 </th>
 <th>Max picks
 </th>
-<th>Caustic only
+<th>Max with Soft/Hard Wax
 </th>
-<th>Value per pick
-</th>
-<th>Weight at 1 ★
-</th>
-<th>Weight at 3 ★
-</th>
-<th>Weight at 5 ★
+<th>Max with Caustic Wax
 </th></tr>
 <tr>
 <td>Gather Amount
 </td>
+<td>+15%
+</td>
+<td>+2% to +4%
+</td>
+<td>28% → 22%
+</td>
 <td>20
 </td>
-<td>
+<td>+55%
 </td>
-<td>+0.02 to +0.04
-</td>
-<td>28%
-</td>
-<td>25%
-</td>
-<td>22%
+<td>+95%
 </td></tr>
 <tr>
 <td>Buzz Bomb Pollen
 </td>
+<td>+25%
+</td>
+<td>+2% to +4%
+</td>
+<td>28% → 22%
+</td>
 <td>20
 </td>
-<td>
+<td>+65%
 </td>
-<td>+0.02 to +0.04
-</td>
-<td>28%
-</td>
-<td>25%
-</td>
-<td>22%
+<td>+105%
 </td></tr>
 <tr>
-<td>Critical Power
+<td>Bee Attack
 </td>
-<td>20
+<td>+1
 </td>
-<td>
+<td>—
 </td>
-<td>+0.02 to +0.04
+<td>—
 </td>
-<td>28%
+<td>—
 </td>
-<td>25%
+<td>+1
 </td>
-<td>22%
-</td></tr>
-<tr>
-<td>Super-Crit Power
-</td>
-<td>20
-</td>
-<td>Yes
-</td>
-<td>+0.1 to +0.15
-</td>
-<td>21%
-</td>
-<td>19%
-</td>
-<td>17%
+<td>+1
 </td></tr>
 <tr>
 <td>Buzz Bomb Pollen (hive bonus)
 </td>
-<td>5
+<td>+5%
 </td>
-<td>
+<td>+1% to +2%
 </td>
-<td>+0.01 to +0.02
-</td>
-<td>6%
-</td>
-<td>14%
-</td>
-<td>22%
-</td></tr>
-<tr>
-<td>Coconut Field Capacity (hive bonus)
+<td>6.33% → 22%
 </td>
 <td>5
 </td>
-<td>
+<td>+15%
 </td>
-<td>+0.01
-</td>
-<td>5%
-</td>
-<td>6%
-</td>
-<td>7%
+<td>+15%
 </td></tr>
 <tr>
 <td>Pumpkin Patch Capacity (hive bonus)
 </td>
+<td>+8%
+</td>
+<td>+1%
+</td>
+<td>5.06% → 6.58%
+</td>
 <td>5
 </td>
-<td>
+<td>+13%
 </td>
-<td>+0.01
+<td>+13%
+</td></tr>
+<tr>
+<td>Coconut Field Capacity (hive bonus)
 </td>
-<td>5%
+<td>+8%
 </td>
-<td>6%
+<td>+1%
 </td>
-<td>7%
+<td>5.06% → 6.58%
+</td>
+<td>5
+</td>
+<td>+13%
+</td>
+<td>+13%
+</td></tr>
+<tr>
+<td>Critical Power
+</td>
+<td>Only from wax
+</td>
+<td>+2% to +4%
+</td>
+<td>28% → 22%
+</td>
+<td>20
+</td>
+<td>+40%
+</td>
+<td>+80%
+</td></tr>
+<tr>
+<td>Super-Crit Power
+</td>
+<td>Only from wax
+</td>
+<td>+10% to +15% (Caustic only)
+</td>
+<td>21% → 17%
+</td>
+<td>20
+</td>
+<td>—
+</td>
+<td>+300%
 </td></tr>
 <tr>
 <td>Super-Crit Power (hive bonus)
 </td>
+<td>Only from wax
+</td>
+<td>+1% (Caustic only)
+</td>
+<td>3.81% → 5.13%
+</td>
 <td>5
 </td>
-<td>Yes
+<td>—
 </td>
-<td>+0.01
-</td>
-<td>4%
-</td>
-<td>5%
-</td>
-<td>5%
+<td>+5%
 </td></tr></tbody></table>
 
 ## Ways to Obtain

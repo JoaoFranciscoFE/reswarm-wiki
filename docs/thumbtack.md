@@ -70,7 +70,7 @@ The **Thumbtack** is a level 6 [Beequip](beequip.md). It has an equip limit of t
 
 <p class="beequip-meta"><b>Rarity:</b> Common · <b>Equip limit:</b> 2 · <b>Who can wear it:</b> level 6+; Red bees</p>
 
-*Stats and hive bonuses each roll on their own. Higher potential makes a stat more likely to appear and pulls its value towards the top of its range. The chances and averages below come from running the game's own roll code 5,000 times at each potential.*
+*Stats and hive bonuses each roll on their own. Higher potential makes a stat more likely to appear and pulls its value towards the top of its range. The chances and averages below come from running the game's own roll code 5,000 times at each potential. Bee stats that the game applies as a multiplier are shown as a %, the way the in-game tooltip shows them.*
 
 /// tab | 1 ★
 
@@ -113,11 +113,11 @@ The **Thumbtack** is a level 6 [Beequip](beequip.md). It has an equip limit of t
 </td>
 <td>Bee Attack
 </td>
-<td>x1.02 to x1.05
+<td>+2% to +5%
 </td>
 <td>100%
 </td>
-<td>x1.028
+<td>+2.8%
 </td></tr>
 <tr>
 <td>Bee stat
@@ -133,7 +133,7 @@ The **Thumbtack** is a level 6 [Beequip](beequip.md). It has an equip limit of t
 <tr>
 <td>Hive bonus
 </td>
-<td>Bee Attack (Red)
+<td>Red Bee Attack
 </td>
 <td>+1% to +3%
 </td>
@@ -185,11 +185,11 @@ The **Thumbtack** is a level 6 [Beequip](beequip.md). It has an equip limit of t
 </td>
 <td>Bee Attack
 </td>
-<td>x1.02 to x1.05
+<td>+2% to +5%
 </td>
 <td>100%
 </td>
-<td>x1.03
+<td>+3%
 </td></tr>
 <tr>
 <td>Bee stat
@@ -205,7 +205,7 @@ The **Thumbtack** is a level 6 [Beequip](beequip.md). It has an equip limit of t
 <tr>
 <td>Hive bonus
 </td>
-<td>Bee Attack (Red)
+<td>Red Bee Attack
 </td>
 <td>+1% to +3%
 </td>
@@ -257,11 +257,11 @@ The **Thumbtack** is a level 6 [Beequip](beequip.md). It has an equip limit of t
 </td>
 <td>Bee Attack
 </td>
-<td>x1.02 to x1.05
+<td>+2% to +5%
 </td>
 <td>100%
 </td>
-<td>x1.033
+<td>+3.3%
 </td></tr>
 <tr>
 <td>Bee stat
@@ -277,7 +277,7 @@ The **Thumbtack** is a level 6 [Beequip](beequip.md). It has an equip limit of t
 <tr>
 <td>Hive bonus
 </td>
-<td>Bee Attack (Red)
+<td>Red Bee Attack
 </td>
 <td>+1% to +3%
 </td>
@@ -329,11 +329,11 @@ The **Thumbtack** is a level 6 [Beequip](beequip.md). It has an equip limit of t
 </td>
 <td>Bee Attack
 </td>
-<td>x1.02 to x1.05
+<td>+2% to +5%
 </td>
 <td>100%
 </td>
-<td>x1.037
+<td>+3.7%
 </td></tr>
 <tr>
 <td>Bee stat
@@ -349,7 +349,7 @@ The **Thumbtack** is a level 6 [Beequip](beequip.md). It has an equip limit of t
 <tr>
 <td>Hive bonus
 </td>
-<td>Bee Attack (Red)
+<td>Red Bee Attack
 </td>
 <td>+1% to +3%
 </td>
@@ -401,11 +401,11 @@ The **Thumbtack** is a level 6 [Beequip](beequip.md). It has an equip limit of t
 </td>
 <td>Bee Attack
 </td>
-<td>x1.02 to x1.05
+<td>+2% to +5%
 </td>
 <td>100%
 </td>
-<td>x1.043
+<td>+4.3%
 </td></tr>
 <tr>
 <td>Bee stat
@@ -421,7 +421,7 @@ The **Thumbtack** is a level 6 [Beequip](beequip.md). It has an equip limit of t
 <tr>
 <td>Hive bonus
 </td>
-<td>Bee Attack (Red)
+<td>Red Bee Attack
 </td>
 <td>+1% to +3%
 </td>
@@ -432,115 +432,115 @@ The **Thumbtack** is a level 6 [Beequip](beequip.md). It has an equip limit of t
 
 ///
 
-### Wax upgrades
+### Max possible stats
 
-*Each upgrade a wax rolls picks one entry below, weighted by its share of the pool at that potential. Caustic-only entries can only come from Caustic or Debug Wax. An entry leaves the pool once it reaches its max picks.*
+*The best value each stat can reach. The top base value can roll at any potential; higher potential only makes it more likely. A beequip takes 5 waxes: Soft and Hard Wax give at most 10 upgrade rolls, and Caustic Wax gives up to 20, though each Caustic only succeeds 25% of the time and destroys the beequip when it fails. The max columns assume every roll lands on that stat at its best value, up to its max picks, so they are a ceiling rather than a typical result. "Pick chance" is how likely each roll is to pick that upgrade, from 1 ★ to 5 ★.*
 
 <table class="article-table">
 <tbody><tr>
-<th>Upgrade
+<th>Stat
+</th>
+<th>Best base value
+</th>
+<th>Per wax pick
+</th>
+<th>Pick chance
 </th>
 <th>Max picks
 </th>
-<th>Caustic only
+<th>Max with Soft/Hard Wax
 </th>
-<th>Value per pick
-</th>
-<th>Weight at 1 ★
-</th>
-<th>Weight at 3 ★
-</th>
-<th>Weight at 5 ★
+<th>Max with Caustic Wax
 </th></tr>
 <tr>
 <td>Gather Amount
 </td>
-<td>15
-</td>
-<td>
+<td>+3
 </td>
 <td>+1 to +2
 </td>
-<td>20%
+<td>20% → 20%
 </td>
-<td>20%
+<td>15
 </td>
-<td>20%
+<td>+23
+</td>
+<td>+33
 </td></tr>
 <tr>
 <td>Critical Power
 </td>
+<td>+10%
+</td>
+<td>+1% to +2%
+</td>
+<td>40% → 39%
+</td>
 <td>15
 </td>
-<td>
+<td>+30%
 </td>
-<td>+0.01 to +0.02
-</td>
-<td>40%
-</td>
-<td>40%
-</td>
-<td>39%
+<td>+40%
 </td></tr>
 <tr>
 <td>Bee Attack
 </td>
+<td>+5%
+</td>
+<td>+1% to +2%
+</td>
+<td>40% → 39%
+</td>
 <td>15
 </td>
-<td>
+<td>+25%
 </td>
-<td>+0.01 to +0.02
-</td>
-<td>40%
-</td>
-<td>40%
-</td>
-<td>39%
+<td>+35%
 </td></tr>
 <tr>
 <td>Bee Attack
-</td>
-<td>1
-</td>
-<td>
 </td>
 <td>+1
 </td>
-<td>0%
+<td>+1
 </td>
-<td>0%
+<td>0.14% → 0.98%
 </td>
-<td>1%
+<td>1
+</td>
+<td>+2
+</td>
+<td>+2
 </td></tr>
 <tr>
-<td>Bee Attack (Red) (hive bonus)
+<td>Red Bee Attack (hive bonus)
+</td>
+<td>+3%
+</td>
+<td>+1%
+</td>
+<td>0.08% → 0.98%
 </td>
 <td>3
 </td>
-<td>
+<td>+6%
 </td>
-<td>+0.01
-</td>
-<td>0%
-</td>
-<td>0%
-</td>
-<td>1%
+<td>+6%
 </td></tr>
 <tr>
 <td>Bee Attack (hive bonus)
 </td>
+<td>Only from wax
+</td>
+<td>+1% (Caustic only)
+</td>
+<td>0.08% → 0.97%
+</td>
 <td>3
 </td>
-<td>Yes
+<td>—
 </td>
-<td>+0.01
-</td>
-<td>0%
-</td>
-<td>0%
-</td>
-<td>1%
+<td>+3%
 </td></tr></tbody></table>
 
 ## Ways to Obtain

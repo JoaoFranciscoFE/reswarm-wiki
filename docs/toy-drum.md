@@ -74,7 +74,7 @@ A **Toy Drum** is a [level](bond.md) 7 Beesmas [beequip](beequip.md). It has an 
 
 <p class="beequip-meta"><b>Abilities:</b> Haste</p>
 
-*Stats and hive bonuses each roll on their own. Higher potential makes a stat more likely to appear and pulls its value towards the top of its range. The chances and averages below come from running the game's own roll code 5,000 times at each potential.*
+*Stats and hive bonuses each roll on their own. Higher potential makes a stat more likely to appear and pulls its value towards the top of its range. The chances and averages below come from running the game's own roll code 5,000 times at each potential. Bee stats that the game applies as a multiplier are shown as a %, the way the in-game tooltip shows them.*
 
 /// tab | 1 ★
 
@@ -106,22 +106,22 @@ A **Toy Drum** is a [level](bond.md) 7 Beesmas [beequip](beequip.md). It has an 
 </td>
 <td>Bee Attack
 </td>
-<td>x1.01 to x1.05
+<td>+1% to +5%
 </td>
 <td>100%
 </td>
-<td>x1.024
+<td>+2.4%
 </td></tr>
 <tr>
 <td>Bee stat
 </td>
 <td>Energy
 </td>
-<td>x0.8 to x0.9
+<td>−20% to −10%
 </td>
 <td>100%
 </td>
-<td>x0.835
+<td>−16.5%
 </td></tr>
 <tr>
 <td>Bee stat
@@ -167,22 +167,22 @@ A **Toy Drum** is a [level](bond.md) 7 Beesmas [beequip](beequip.md). It has an 
 </td>
 <td>Bee Attack
 </td>
-<td>x1.01 to x1.05
+<td>+1% to +5%
 </td>
 <td>100%
 </td>
-<td>x1.028
+<td>+2.8%
 </td></tr>
 <tr>
 <td>Bee stat
 </td>
 <td>Energy
 </td>
-<td>x0.8 to x0.9
+<td>−20% to −10%
 </td>
 <td>100%
 </td>
-<td>x0.845
+<td>−15.5%
 </td></tr>
 <tr>
 <td>Bee stat
@@ -228,22 +228,22 @@ A **Toy Drum** is a [level](bond.md) 7 Beesmas [beequip](beequip.md). It has an 
 </td>
 <td>Bee Attack
 </td>
-<td>x1.01 to x1.05
+<td>+1% to +5%
 </td>
 <td>100%
 </td>
-<td>x1.032
+<td>+3.2%
 </td></tr>
 <tr>
 <td>Bee stat
 </td>
 <td>Energy
 </td>
-<td>x0.8 to x0.9
+<td>−20% to −10%
 </td>
 <td>100%
 </td>
-<td>x0.855
+<td>−14.5%
 </td></tr>
 <tr>
 <td>Bee stat
@@ -289,22 +289,22 @@ A **Toy Drum** is a [level](bond.md) 7 Beesmas [beequip](beequip.md). It has an 
 </td>
 <td>Bee Attack
 </td>
-<td>x1.01 to x1.05
+<td>+1% to +5%
 </td>
 <td>100%
 </td>
-<td>x1.036
+<td>+3.6%
 </td></tr>
 <tr>
 <td>Bee stat
 </td>
 <td>Energy
 </td>
-<td>x0.8 to x0.9
+<td>−20% to −10%
 </td>
 <td>100%
 </td>
-<td>x0.865
+<td>−13.5%
 </td></tr>
 <tr>
 <td>Bee stat
@@ -350,22 +350,22 @@ A **Toy Drum** is a [level](bond.md) 7 Beesmas [beequip](beequip.md). It has an 
 </td>
 <td>Bee Attack
 </td>
-<td>x1.01 to x1.05
+<td>+1% to +5%
 </td>
 <td>100%
 </td>
-<td>x1.04
+<td>+4%
 </td></tr>
 <tr>
 <td>Bee stat
 </td>
 <td>Energy
 </td>
-<td>x0.8 to x0.9
+<td>−20% to −10%
 </td>
 <td>100%
 </td>
-<td>x0.875
+<td>−12.5%
 </td></tr>
 <tr>
 <td>Bee stat
@@ -381,70 +381,100 @@ A **Toy Drum** is a [level](bond.md) 7 Beesmas [beequip](beequip.md). It has an 
 
 ///
 
-### Wax upgrades
+### Max possible stats
 
-*Each upgrade a wax rolls picks one entry below, weighted by its share of the pool at that potential. Caustic-only entries can only come from Caustic or Debug Wax. An entry leaves the pool once it reaches its max picks.*
+*The best value each stat can reach. The top base value can roll at any potential; higher potential only makes it more likely. A beequip takes 5 waxes: Soft and Hard Wax give at most 10 upgrade rolls, and Caustic Wax gives up to 20, though each Caustic only succeeds 25% of the time and destroys the beequip when it fails. The max columns assume every roll lands on that stat at its best value, up to its max picks, so they are a ceiling rather than a typical result. "Pick chance" is how likely each roll is to pick that upgrade, from 1 ★ to 5 ★.*
 
 <table class="article-table">
 <tbody><tr>
-<th>Upgrade
+<th>Stat
+</th>
+<th>Best base value
+</th>
+<th>Per wax pick
+</th>
+<th>Pick chance
 </th>
 <th>Max picks
 </th>
-<th>Caustic only
+<th>Max with Soft/Hard Wax
 </th>
-<th>Value per pick
-</th>
-<th>Weight at 1 ★
-</th>
-<th>Weight at 3 ★
-</th>
-<th>Weight at 5 ★
+<th>Max with Caustic Wax
 </th></tr>
 <tr>
 <td>Gather Amount
 </td>
-<td>20
-</td>
-<td>
+<td>+20
 </td>
 <td>+1 to +2
 </td>
-<td>63%
+<td>63% → 54%
 </td>
-<td>58%
+<td>20
 </td>
-<td>54%
+<td>+40
+</td>
+<td>+60
 </td></tr>
 <tr>
 <td>Bee Attack
 </td>
+<td>+5%
+</td>
+<td>+1% to +2%
+</td>
+<td>35% → 41%
+</td>
 <td>10
 </td>
-<td>
+<td>+25%
 </td>
-<td>+0.01 to +0.02
+<td>+25%
+</td></tr>
+<tr>
+<td>Energy
 </td>
-<td>35%
+<td>−10%
 </td>
-<td>38%
+<td>—
 </td>
-<td>41%
+<td>—
+</td>
+<td>—
+</td>
+<td>−10%
+</td>
+<td>−10%
+</td></tr>
+<tr>
+<td>Critical Chance
+</td>
+<td>+1%
+</td>
+<td>—
+</td>
+<td>—
+</td>
+<td>—
+</td>
+<td>+1%
+</td>
+<td>+1%
 </td></tr>
 <tr>
 <td>Bee Ability Pollen (hive bonus)
 </td>
+<td>Only from wax
+</td>
+<td>+1% to +2%
+</td>
+<td>1.77% → 5.41%
+</td>
 <td>5
 </td>
-<td>
+<td>+10%
 </td>
-<td>+0.01 to +0.02
-</td>
-<td>2%
-</td>
-<td>4%
-</td>
-<td>5%
+<td>+10%
 </td></tr></tbody></table>
 
 ## Ways to Obtain

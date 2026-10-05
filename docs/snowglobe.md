@@ -74,7 +74,7 @@ A **Snowglobe** is a [level](bond.md) 7 Beesmas [beequip](beequip.md). It has an
 
 <p class="beequip-meta"><b>Abilities:</b> Snowglobe Shake</p>
 
-*Stats and hive bonuses each roll on their own. Higher potential makes a stat more likely to appear and pulls its value towards the top of its range. The chances and averages below come from running the game's own roll code 5,000 times at each potential.*
+*Stats and hive bonuses each roll on their own. Higher potential makes a stat more likely to appear and pulls its value towards the top of its range. The chances and averages below come from running the game's own roll code 5,000 times at each potential. Bee stats that the game applies as a multiplier are shown as a %, the way the in-game tooltip shows them.*
 
 /// tab | 1 ★
 
@@ -95,11 +95,11 @@ A **Snowglobe** is a [level](bond.md) 7 Beesmas [beequip](beequip.md). It has an
 </td>
 <td>Bomb Pollen
 </td>
-<td>+1.3 to +1.5
+<td>+30% to +50%
 </td>
 <td>100%
 </td>
-<td>+1.37
+<td>+37%
 </td></tr></tbody></table>
 
 ///
@@ -123,11 +123,11 @@ A **Snowglobe** is a [level](bond.md) 7 Beesmas [beequip](beequip.md). It has an
 </td>
 <td>Bomb Pollen
 </td>
-<td>+1.3 to +1.5
+<td>+30% to +50%
 </td>
 <td>100%
 </td>
-<td>+1.39
+<td>+39%
 </td></tr></tbody></table>
 
 ///
@@ -151,11 +151,11 @@ A **Snowglobe** is a [level](bond.md) 7 Beesmas [beequip](beequip.md). It has an
 </td>
 <td>Bomb Pollen
 </td>
-<td>+1.3 to +1.5
+<td>+30% to +50%
 </td>
 <td>100%
 </td>
-<td>+1.41
+<td>+41%
 </td></tr></tbody></table>
 
 ///
@@ -179,11 +179,11 @@ A **Snowglobe** is a [level](bond.md) 7 Beesmas [beequip](beequip.md). It has an
 </td>
 <td>Bomb Pollen
 </td>
-<td>+1.3 to +1.5
+<td>+30% to +50%
 </td>
 <td>100%
 </td>
-<td>+1.43
+<td>+43%
 </td></tr></tbody></table>
 
 ///
@@ -207,79 +207,79 @@ A **Snowglobe** is a [level](bond.md) 7 Beesmas [beequip](beequip.md). It has an
 </td>
 <td>Bomb Pollen
 </td>
-<td>+1.3 to +1.5
+<td>+30% to +50%
 </td>
 <td>100%
 </td>
-<td>+1.45
+<td>+45%
 </td></tr></tbody></table>
 
 ///
 
-### Wax upgrades
+### Max possible stats
 
-*Each upgrade a wax rolls picks one entry below, weighted by its share of the pool at that potential. Caustic-only entries can only come from Caustic or Debug Wax. An entry leaves the pool once it reaches its max picks.*
+*The best value each stat can reach. The top base value can roll at any potential; higher potential only makes it more likely. A beequip takes 5 waxes: Soft and Hard Wax give at most 10 upgrade rolls, and Caustic Wax gives up to 20, though each Caustic only succeeds 25% of the time and destroys the beequip when it fails. The max columns assume every roll lands on that stat at its best value, up to its max picks, so they are a ceiling rather than a typical result. "Pick chance" is how likely each roll is to pick that upgrade, from 1 ★ to 5 ★.*
 
 <table class="article-table">
 <tbody><tr>
-<th>Upgrade
+<th>Stat
+</th>
+<th>Best base value
+</th>
+<th>Per wax pick
+</th>
+<th>Pick chance
 </th>
 <th>Max picks
 </th>
-<th>Caustic only
+<th>Max with Soft/Hard Wax
 </th>
-<th>Value per pick
-</th>
-<th>Weight at 1 ★
-</th>
-<th>Weight at 3 ★
-</th>
-<th>Weight at 5 ★
+<th>Max with Caustic Wax
 </th></tr>
 <tr>
 <td>Bomb Pollen
 </td>
+<td>+50%
+</td>
+<td>+1% to +2%
+</td>
+<td>95% → 83%
+</td>
 <td>20
 </td>
-<td>
+<td>+70%
 </td>
-<td>+0.01 to +0.02
-</td>
-<td>95%
-</td>
-<td>89%
-</td>
-<td>83%
+<td>+90%
 </td></tr>
 <tr>
 <td>Ability Rate
 </td>
+<td>Only from wax
+</td>
+<td>+1%
+</td>
+<td>2.65% → 8.33%
+</td>
 <td>1
 </td>
-<td>
+<td>+1%
 </td>
-<td>+0.01
-</td>
-<td>3%
-</td>
-<td>6%
-</td>
-<td>8%
+<td>+1%
 </td></tr>
 <tr>
 <td>Bomb Pollen (hive bonus)
 </td>
+<td>Only from wax
+</td>
+<td>+1%
+</td>
+<td>2.65% → 8.33%
+</td>
 <td>5
 </td>
-<td>
+<td>+5%
 </td>
-<td>+0.01
-</td>
-<td>3%
-</td>
-<td>6%
-</td>
-<td>8%
+<td>+5%
 </td></tr></tbody></table>
 
 ## Ways to Obtain

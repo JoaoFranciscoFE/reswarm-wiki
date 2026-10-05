@@ -367,3 +367,15 @@ figure img { max-width: 100%; height: auto; }
 
 /* Long tables (marked by hooks/performance.py) skip layout while off screen */
 .md-typeset table[data-long] { content-visibility: auto; }
+
+/* Beequip game bug and ability notes */
+.md-typeset .game-bug,
+.md-typeset .beequip-note {
+  padding: 0.5em 0.8em;
+  border-left: 3px solid var(--md-typeset-a-color);
+  background: var(--md-code-bg-color);
+  border-radius: 2px;
+}
+.md-typeset .game-bug {
+  border-left-color: #e53935;
+}
