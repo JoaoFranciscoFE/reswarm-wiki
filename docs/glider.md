@@ -5,6 +5,8 @@ tags: ["Items", "Gliding Tools", "Accessories", "Transport"]
 
 # Glider
 
+![Glider](img/places/Glider.png){ .wiki-photo }
+
 
 
 The **Glider** is a gliding tool that can be purchased at the [Mountain Top Shop](mountain-top-shop.md), it is the upgraded version of the [Parachute](parachute.md).

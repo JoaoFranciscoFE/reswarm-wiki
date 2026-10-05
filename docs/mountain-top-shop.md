@@ -145,7 +145,7 @@ There is a [Royal Jelly](royal-jelly.md) token on the roof and a [Ticket](ticket
 <th>Description
 </th></tr>
 <tr>
-<td><figure class="mw-halign-center" typeof="mw:Error mw:File"><figcaption></figcaption></figure><div style="text-align: center;"><a href="glider.html">Glider</a></div>
+<td><figure class="mw-halign-center"><img alt="Glider" src="img/Glider.png" width="60"/></figure><div style="text-align: center;"><a href="glider.html">Glider</a></div>
 </td>
 <td><img alt="Honey" height="25" src="img/Honey.png" width="25"/>5,000,000 <a href="honey.html"><span class="color-template color-template-honey">Honey</span></a>
 </td>

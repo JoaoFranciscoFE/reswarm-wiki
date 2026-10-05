@@ -232,7 +232,7 @@ As with the [Noob Shop](noob-shop.md), the game does not explicitly name the sho
 <th>Description
 </th></tr>
 <tr>
-<td><figure class="mw-halign-center" typeof="mw:Error mw:File"><figcaption></figcaption></figure><div style="text-align: center;"><a href="parachute.html">Parachute</a></div>
+<td><figure class="mw-halign-center"><img alt="Parachute" src="img/Parachute.png" width="60"/></figure><div style="text-align: center;"><a href="parachute.html">Parachute</a></div>
 </td>
 <td><img alt="Honey" height="25" src="img/Honey.png" width="25"/>500,000 <a href="honey.html"><span class="color-template color-template-honey">Honey</span></a>
 </td>

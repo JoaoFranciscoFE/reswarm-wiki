@@ -20,7 +20,7 @@ tags: []
 <th>Gives
 </th></tr>
 <tr>
-<td><figure class="mw-halign-center" typeof="mw:Error mw:File"><figcaption></figcaption></figure><div style="text-align: center;">Winter Winds Bundle
+<td><figure class="mw-halign-center"><img alt="Winter Winds Bundle" src="img/Winter_Winds_Bundle.png" width="60"/></figure><div style="text-align: center;">Winter Winds Bundle
 </div></td>
 <td><img alt="Snowflake" height="25" src="img/Snowflake.png" width="25"/>33 <a href="snowflake.html"><span class="color-template color-template-snowflake color-template-background-clip">Snowflakes</span></a>
 </td>
@@ -30,7 +30,7 @@ tags: []
 </p>
 </td></tr>
 <tr>
-<td><figure class="mw-halign-center" typeof="mw:Error mw:File"><figcaption></figcaption></figure><div style="text-align: center;">Bowl-Of-Beans Bundle
+<td><figure class="mw-halign-center"><img alt="Bowl-Of-Beans Bundle" src="img/Bowl-Of-Beans_Bundle.png" width="60"/></figure><div style="text-align: center;">Bowl-Of-Beans Bundle
 </div></td>
 <td><img alt="Snowflake" height="25" src="img/Snowflake.png" width="25"/>250 <a href="snowflake.html"><span class="color-template color-template-snowflake color-template-background-clip">Snowflakes</span></a>
 </td>
@@ -41,7 +41,7 @@ tags: []
 </p>
 </td></tr>
 <tr>
-<td><figure class="mw-halign-center" typeof="mw:Error mw:File"><figcaption></figcaption></figure><div style="text-align: center;">White Beesmas Bundle
+<td><figure class="mw-halign-center"><img alt="White Beesmas Bundle" src="img/White_Beesmas_Bundle.png" width="60"/></figure><div style="text-align: center;">White Beesmas Bundle
 </div></td>
 <td><img alt="Snowflake" height="25" src="img/Snowflake.png" width="25"/>100 <a href="snowflake.html"><span class="color-template color-template-snowflake color-template-background-clip">Snowflakes</span></a>
 <p><img alt="Gingerbread Bear" height="25" src="img/Gingerbread_Bear.png" width="25"/>3 <a href="gingerbread-bear.html"><span class="color-template color-template-gingerbread-bear color-template-background-clip">Gingerbread Bears</span></a><br/>
@@ -54,7 +54,7 @@ tags: []
 </p>
 </td></tr>
 <tr>
-<td><figure class="mw-halign-center" typeof="mw:Error mw:File"><figcaption></figcaption></figure><div style="text-align: center;">Festive Floral Bundle
+<td><figure class="mw-halign-center"><img alt="Festive Floral Bundle" src="img/Festive_Floral_Bundle.png" width="60"/></figure><div style="text-align: center;">Festive Floral Bundle
 </div></td>
 <td><img alt="Snowflake" height="25" src="img/Snowflake.png" width="25"/>400 <a href="snowflake.html"><span class="color-template color-template-snowflake color-template-background-clip">Snowflakes</span></a>
 </td>
@@ -65,7 +65,7 @@ tags: []
 </p>
 </td></tr>
 <tr>
-<td><figure class="mw-halign-center" typeof="mw:Error mw:File"><figcaption></figcaption></figure><div style="text-align: center;">Night-Before Bundle
+<td><figure class="mw-halign-center"><img alt="Night-Before Bundle" src="img/Night-Before_Bundle.png" width="60"/></figure><div style="text-align: center;">Night-Before Bundle
 </div></td>
 <td><img alt="Gingerbread Bear" height="25" src="img/Gingerbread_Bear.png" width="25"/>10 <a href="gingerbread-bear.html"><span class="color-template color-template-gingerbread-bear color-template-background-clip">Gingerbread Bears</span></a>
 </td>
@@ -76,7 +76,7 @@ tags: []
 </p>
 </td></tr>
 <tr>
-<td><figure class="mw-halign-center" typeof="mw:Error mw:File"><figcaption></figcaption></figure><div style="text-align: center;">Super Snowman Bundle
+<td><figure class="mw-halign-center"><img alt="Super Snowman Bundle" src="img/Super_Snowman_Bundle.png" width="60"/></figure><div style="text-align: center;">Super Snowman Bundle
 </div></td>
 <td><img alt="Snowflake" height="25" src="img/Snowflake.png" width="25"/>800 <a href="snowflake.html"><span class="color-template color-template-snowflake color-template-background-clip">Snowflakes</span></a>
 </td>
@@ -87,7 +87,7 @@ tags: []
 </p>
 </td></tr>
 <tr>
-<td><figure class="mw-halign-center" typeof="mw:Error mw:File"><figcaption></figcaption></figure><div style="text-align: center;">Festive Fun Pack
+<td><figure class="mw-halign-center"><img alt="Festive Fun Pack" src="img/Festive_Fun_Pack.png" width="60"/></figure><div style="text-align: center;">Festive Fun Pack
 </div></td>
 <td><img alt="Snowflake" height="25" src="img/Snowflake.png" width="25"/>1,000 <a href="snowflake.html"><span class="color-template color-template-snowflake color-template-background-clip">Snowflakes</span></a>
 <p><img alt="Gingerbread Bear" height="25" src="img/Gingerbread_Bear.png" width="25"/>5 <a href="gingerbread-bear.html"><span class="color-template color-template-gingerbread-bear color-template-background-clip">Gingerbread Bears</span></a><br/>
@@ -100,7 +100,7 @@ tags: []
 </p>
 </td></tr>
 <tr>
-<td><figure class="mw-halign-center" typeof="mw:Error mw:File"><figcaption></figcaption></figure><div style="text-align: center;">Poinsettia Bundle
+<td><figure class="mw-halign-center"><img alt="Poinsettia Bundle" src="img/Poinsettia_Bundle.png" width="60"/></figure><div style="text-align: center;">Poinsettia Bundle
 </div></td>
 <td><img alt="Snowflake" height="25" src="img/Snowflake.png" width="25"/>250 <a href="snowflake.html"><span class="color-template color-template-snowflake color-template-background-clip">Snowflakes</span></a>
 <p><img alt="Gingerbread Bear" height="25" src="img/Gingerbread_Bear.png" width="25"/>25 <a href="gingerbread-bear.html"><span class="color-template color-template-gingerbread-bear color-template-background-clip">Gingerbread Bears</span></a><br/>
@@ -113,7 +113,7 @@ tags: []
 </p>
 </td></tr>
 <tr>
-<td><figure class="mw-halign-center" typeof="mw:Error mw:File"><figcaption></figcaption></figure><div style="text-align: center;">Saint Puff's Pack
+<td><figure class="mw-halign-center"><img alt="Saint Puff&#x27;s Pack" src="img/Saint_Puff's_Pack.png" width="60"/></figure><div style="text-align: center;">Saint Puff's Pack
 </div></td>
 <td><img alt="Gingerbread Bear" height="25" src="img/Gingerbread_Bear.png" width="25"/>50 <a href="gingerbread-bear.html"><span class="color-template color-template-gingerbread-bear color-template-background-clip">Gingerbread Bears</span></a>
 </td>
@@ -125,7 +125,7 @@ tags: []
 </p>
 </td></tr>
 <tr>
-<td><figure class="mw-halign-center" typeof="mw:Error mw:File"><figcaption></figcaption></figure><div style="text-align: center;">Frozen Forest Pack
+<td><figure class="mw-halign-center"><img alt="Frozen Forest Pack" src="img/Frozen_Forest_Pack.png" width="60"/></figure><div style="text-align: center;">Frozen Forest Pack
 </div></td>
 <td><img alt="Snowflake" height="25" src="img/Snowflake.png" width="25"/>1,200 <a href="snowflake.html"><span class="color-template color-template-snowflake color-template-background-clip">Snowflakes</span></a>
 <p><img alt="Gingerbread Bear" height="25" src="img/Gingerbread_Bear.png" width="25"/>40 <a href="gingerbread-bear.html"><span class="color-template color-template-gingerbread-bear color-template-background-clip">Gingerbread Bears</span></a><br/>
@@ -139,7 +139,7 @@ tags: []
 </p>
 </td></tr>
 <tr>
-<td><figure class="mw-halign-center" typeof="mw:Error mw:File"><figcaption></figcaption></figure><div style="text-align: center;">Season's Sharing Bundle
+<td><figure class="mw-halign-center"><img alt="Season&#x27;s Sharing Bundle" src="img/Season's_Sharing_Bundle.png" width="60"/></figure><div style="text-align: center;">Season's Sharing Bundle
 </div></td>
 <td><img alt="Snowflake" height="25" src="img/Snowflake.png" width="25"/>600 <a href="snowflake.html"><span class="color-template color-template-snowflake color-template-background-clip">Snowflakes</span></a>
 <p><img alt="Gingerbread Bear" height="25" src="img/Gingerbread_Bear.png" width="25"/>60 <a href="gingerbread-bear.html"><span class="color-template color-template-gingerbread-bear color-template-background-clip">Gingerbread Bears</span></a><br/>
@@ -152,7 +152,7 @@ tags: []
 </p>
 </td></tr>
 <tr>
-<td><figure class="mw-halign-center" typeof="mw:Error mw:File"><figcaption></figcaption></figure><div style="text-align: center;">Radioactive Bundle
+<td><figure class="mw-halign-center"><img alt="Radioactive Bundle" src="img/Radioactive_Bundle.png" width="60"/></figure><div style="text-align: center;">Radioactive Bundle
 </div></td>
 <td><img alt="Snowflake" height="25" src="img/Snowflake.png" width="25"/>150 <a href="snowflake.html"><span class="color-template color-template-snowflake color-template-background-clip">Snowflakes</span></a>
 <p><img alt="Gingerbread Bear" height="25" src="img/Gingerbread_Bear.png" width="25"/>150 <a href="gingerbread-bear.html"><span class="color-template color-template-gingerbread-bear color-template-background-clip">Gingerbread Bears</span></a><br/>
@@ -166,7 +166,7 @@ tags: []
 </p>
 </td></tr>
 <tr>
-<td><figure class="mw-halign-center" typeof="mw:Error mw:File"><figcaption></figcaption></figure><div style="text-align: center;">Snow Queen Bundle
+<td><figure class="mw-halign-center"><img alt="Snow Queen Bundle" src="img/Snow_Queen_Bundle.png" width="60"/></figure><div style="text-align: center;">Snow Queen Bundle
 </div></td>
 <td><img alt="Snowflake" height="25" src="img/Snowflake.png" width="25"/>11,111 <a href="snowflake.html"><span class="color-template color-template-snowflake color-template-background-clip">Snowflakes</span></a>
 </td>
@@ -178,7 +178,7 @@ tags: []
 </p>
 </td></tr>
 <tr>
-<td><figure class="mw-halign-center" typeof="mw:Error mw:File"><figcaption></figcaption></figure><div style="text-align: center;">Reindeer Bundle
+<td><figure class="mw-halign-center"><img alt="Reindeer Bundle" src="img/Reindeer_Bundle.png" width="60"/></figure><div style="text-align: center;">Reindeer Bundle
 </div></td>
 <td><img alt="Gingerbread Bear" height="25" src="img/Gingerbread_Bear.png" width="25"/>250 <a href="gingerbread-bear.html"><span class="color-template color-template-gingerbread-bear color-template-background-clip">Gingerbread Bears</span></a>
 </td>
@@ -190,7 +190,7 @@ tags: []
 </p>
 </td></tr>
 <tr>
-<td><figure class="mw-halign-center" typeof="mw:Error mw:File"><figcaption></figcaption></figure><div style="text-align: center;">Tempting Ticket Pack
+<td><figure class="mw-halign-center"><img alt="Tempting Ticket Pack" src="img/Tempting_Ticket_Pack.png" width="60"/></figure><div style="text-align: center;">Tempting Ticket Pack
 </div></td>
 <td><img alt="Snowflake" height="25" src="img/Snowflake.png" width="25"/>55,555 <a href="snowflake.html"><span class="color-template color-template-snowflake color-template-background-clip">Snowflakes</span></a>
 </td>
@@ -202,7 +202,7 @@ tags: []
 </p>
 </td></tr>
 <tr>
-<td><figure class="mw-halign-center" typeof="mw:Error mw:File"><figcaption></figcaption></figure><div style="text-align: center;">Purple-Turple Mega Pack
+<td><figure class="mw-halign-center"><img alt="Purple-Turple Mega Pack" src="img/Purple-Turple_Mega_Pack.png" width="60"/></figure><div style="text-align: center;">Purple-Turple Mega Pack
 </div></td>
 <td><img alt="Snowflake" height="25" src="img/Snowflake.png" width="25"/>25,000 <a href="snowflake.html"><span class="color-template color-template-snowflake color-template-background-clip">Snowflakes</span></a>
 <p><img alt="Gingerbread Bear" height="25" src="img/Gingerbread_Bear.png" width="25"/>250 <a href="gingerbread-bear.html"><span class="color-template color-template-gingerbread-bear color-template-background-clip">Gingerbread Bears</span></a><br/>
