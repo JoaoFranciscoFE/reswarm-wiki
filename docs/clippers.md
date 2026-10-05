@@ -33,7 +33,7 @@ tags: ["Items", "Tools"]
 <tr>
 <td class="templateToolDefaultCell"><b><span style="border-bottom:1px dotted gray;cursor:help;" title="Number of flowers covered">Range</span></b>
 </td>
-<td>1 Flowers
+<td>1 Flower
 </td></tr>
 <tr>
 <td class="templateToolDefaultCell"><b>Collecting Pattern</b>
