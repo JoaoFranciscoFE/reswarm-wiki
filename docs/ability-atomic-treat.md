@@ -9,16 +9,22 @@ tags: ["Items", "Inventory", "Treats", "Re://:Swarm"]
 
 *"Always gives a bee an Ability Rate Mutation."*
 
-The **Ability Atomic Treat** is a [treat](treats.md) that always gives a [bee](bees.md) a **Ability Rate** [mutation](mutation.md). It works like an [Atomic Treat](atomic-treat.md), but the mutation is always Ability Rate instead of a random one.
+The **Ability Atomic Treat** is a [treat](treats.md) that always gives a [bee](bees.md) an **Ability Rate** [mutation](mutation.md). It works like an [Atomic Treat](atomic-treat.md), but the mutation is always Ability Rate instead of a random one.
 
 ## Effect
 
 * +1,000 [bond](bond.md).
-* Gives the bee a Ability Rate mutation. How strong it is depends on the bee's level; see [Mutation strength](mutation.md#mutation-strength).
+* Always mutates the bee. The new mutation replaces any mutation it already had.
+
+| Mutation | Chance | Value |
+|---|---|---|
+| % Ability Rate | Always | +1% to +5% |
+
+The value is random and leans towards the low end, but 7% of the time it rolls the maximum. The bee's level doesn't change the range.
 
 ## Ways to obtain
 
-* **Rebirth reward:** 5 at a time, from one of the later rebirth tiers.
+* **Rebirth rewards** (rebirth number, with the amount in brackets): 17 (5), 19 (10), 20 (25), 30 (100), 33 (400).
 
 ## See also
 

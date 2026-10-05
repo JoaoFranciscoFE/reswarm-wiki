@@ -14,11 +14,18 @@ The **Gathering Atomic Treat** is a [treat](treats.md) that always gives a [bee]
 ## Effect
 
 * +1,000 [bond](bond.md).
-* Gives the bee a Gather Amount mutation. How strong it is depends on the bee's level; see [Mutation strength](mutation.md#mutation-strength).
+* Always mutates the bee. The new mutation replaces any mutation it already had.
+
+| Mutation | Chance | Value |
+|---|---|---|
+| % Gather Amount | 2 in 3 | +10% to +30% |
+| + Gather Amount | 1 in 3 | +2 to +10 |
+
+The value is random and leans towards the low end, but 7% of the time it rolls the maximum. The bee's level doesn't change the range.
 
 ## Ways to obtain
 
-* **Rebirth reward:** 5 at a time, from one of the later rebirth tiers.
+* **Rebirth rewards** (rebirth number, with the amount in brackets): 17 (5), 19 (10), 20 (25), 30 (100), 32 (250).
 
 ## See also
 

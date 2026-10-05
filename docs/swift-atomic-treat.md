@@ -14,11 +14,17 @@ The **Swift Atomic Treat** is a [treat](treats.md) that always gives a [bee](bee
 ## Effect
 
 * +1,000 [bond](bond.md).
-* Gives the bee a Movespeed mutation. How strong it is depends on the bee's level; see [Mutation strength](mutation.md#mutation-strength).
+* Always mutates the bee. The new mutation replaces any mutation it already had.
+
+| Mutation | Chance | Value |
+|---|---|---|
+| + Movespeed | Always | +2 to +6 |
+
+The value is random and leans towards the low end, but 7% of the time it rolls the maximum. The bee's level doesn't change the range.
 
 ## Ways to obtain
 
-* **Rebirth reward:** 5 at Rebirth 11.
+* **Rebirth rewards** (rebirth number, with the amount in brackets): 11 (5), 17 (5), 19 (10), 20 (25), 30 (100).
 
 ## See also
 

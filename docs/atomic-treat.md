@@ -17,7 +17,7 @@ An **Atomic Treat**, when fed to a [bee](bees.md), raises its [bond](bond.md) by
 
 ## Typed Atomic Treats
 
-These always give one chosen mutation instead of a random one. Each also gives 1,000 bond. They come from rebirth rewards.
+These always give one chosen mutation instead of a random one, replacing any mutation the bee had. Each also gives 1,000 bond. They come from rebirth rewards (Swift from Rebirth 11, all eight from Rebirth 17).
 
 | Treat | Mutation |
 |---|---|
