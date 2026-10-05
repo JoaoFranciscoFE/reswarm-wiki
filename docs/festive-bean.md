@@ -18,7 +18,6 @@ COOLDOWN
 A **Festive Bean** is a special variant of the [Magic Bean](magic-bean.md) that always plants a [Festive Sprout](sprout.md) in a [field](fields.md). When harvested, it grants [Tickets](ticket.md), crafting materials, and unique tokens that are commonly found in [festive gifts](ability-tokens.md#Festive_Gift) in abundant quantities. There is a 120-minute (2-hour) cooldown between planting Festive Sprouts. Only the player who planted can receive the [Festive Blessing](ability-tokens.md#Festive_Blessing) and [Beesmas Cheer](ability-tokens.md#Beesmas_Cheer) buffs to avoid overuse. When a player plants a Festive Sprout, the following message appears, reading:
 "🌱 {Username} has planted a Festive Sprout 🌱
 
-When planted, the following audio also plays:
 
 ## Festive Sprout Rewards
 

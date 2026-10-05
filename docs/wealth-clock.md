@@ -37,8 +37,6 @@ To use the clock, the player will need to have discovered 5 types of [bees](bees
 
 [+5 Tickets (from Wealth Clock)]
 
-## Sound Effect
-
 ## Notes
 
 * There is a 15-minute grace period (can be offline for 15 minutes) until the Wealth Clock buff resets. This means the player can exit and rejoin, while still maintaining the boost, as long as they join within the 15-minute grace period.

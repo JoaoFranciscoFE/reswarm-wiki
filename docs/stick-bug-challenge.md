@@ -493,7 +493,6 @@ All regular rewards are also available in token form.
 
 The following music "Stickbug" plays during the challenge.
 
-Upon depleting Stick Bug's health, it will play one of the following audios at random:
 
 ## Trivia
 

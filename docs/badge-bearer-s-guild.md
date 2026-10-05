@@ -191,9 +191,8 @@ Outside, it is decorated with the Badge icon in the menu on top of the entrance,
 
 ## Music
 
-When in the shop, the following audio plays:
 
-This [audio](music.md) is known as "Vendor" and also plays inside the [Noob Shop](noob-shop.md), [Pro Shop](pro-shop.md), [Mountain Top Shop](mountain-top-shop.md), [Blue HQ](blue-hq.md), [Red HQ](red-hq.md), [Petal Shop](petal-shop.md), [Hive Hub](hive-hub.md), and in the [Blue Maze](mazes.md#Blue_Maze).
+The [music](music.md) here is "Vendor", which also plays inside the [Noob Shop](noob-shop.md), [Pro Shop](pro-shop.md), [Mountain Top Shop](mountain-top-shop.md), [Blue HQ](blue-hq.md), [Red HQ](red-hq.md), [Petal Shop](petal-shop.md), [Hive Hub](hive-hub.md), and in the [Blue Maze](mazes.md#Blue_Maze).
 
 ## Trivia
 

@@ -23,7 +23,6 @@ The quality of the amulet increases linearly with the number of discovered gifte
 * For Supreme Star Amulet, the player needs 50 types.
   * Note that this is currently not attainable, as there are only a total of 46 bee types in the game.
 
-When the player generates a Star Amulet, the following audio plays, with the sound pitch decreasing when going up in tiers:
 
 ## Requirements
 

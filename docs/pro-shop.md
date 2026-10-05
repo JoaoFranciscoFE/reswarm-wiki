@@ -250,10 +250,6 @@ As with the [Noob Shop](noob-shop.md), the game does not explicitly name the sho
 <li>Only grows while in game, but remains on the field and will still be there if you leave the game and come back.</li></ul>
 </td></tr></tbody></table>
 
-## Music
-
-When in the shop, the following audio plays:
-
 ## Trivia
 
 * The [Slingshot](slingshot.md) will sometimes undershoot the player near [Panda Bear](panda-bear.md) or in the middle of the [Bamboo Field](bamboo-field.md). If the Slingshot does not undershoot, it will regularly shoot the player in front of the shop's door.

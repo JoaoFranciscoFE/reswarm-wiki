@@ -30,9 +30,7 @@ Its radius extends to 8 [flower](flowers.md) tiles, its rate is 4 seconds, and i
 
 ## Audio
 
-When a sprinkler is placed in a field, the following audio plays:
 
-When a sprinkler regenerates flowers, the following audio plays:
 
 <table class="mw-collapsible autocollapse" style="margin:auto; background:#000; font-size: 10pt; border:5px solid #56CB5A; width: 100%; border-radius: 20px; -moz-border-radius: 20px; -webkit-border-radius: 20px; -khtml-border-radius: 20px; -icab-border-radius: 20px; -o-border-radius: 20px;">
 <tbody><tr>

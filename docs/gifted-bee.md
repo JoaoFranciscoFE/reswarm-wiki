@@ -17,7 +17,7 @@ Every time the player uses a [Royal Jelly](royal-jelly.md) or hatches an [egg](e
 
 [Star Treats](star-treat.md) will always turn the chosen bee into its gifted version. This is the only method that can turn [Event bees](bees-event.md) like [Bear Bee](bear-bee.md) and [Tabby Bee](tabby-bee.md) into a gifted bee (excluding gingerbread bears). If the player feeds a [Star Treat](star-treat.md) to an already gifted bee, the bee will only gain the bond and no extra benefits. [Star Egg](egg.md#Star_Egg) will always hatch into a non-event gifted bee that is not already found in the [hive](hive.md) unless the player already has all non-Event bees in their gifted forms, in which case it hatches into a random non-Event gifted bee instead. [Star Jelly](royal-jelly.md#Star_Jelly) will always turn the chosen bee into a random non-Event gifted bee, using the same odds as a royal jelly (except for a Gifted [Basic Bee](basic-bee.md)).
 
-A gifted bee's UI upon obtaining will cycle through colors, with text saying, "⭐ Your [type] Bee Transformed Into A Gifted [type] Bee!⭐" and play the following sound:
+A gifted bee's UI upon obtaining will cycle through colors, with text saying, "⭐ Your [type] Bee Transformed Into A Gifted [type] Bee!⭐" and a sound plays.
 
 On top of the [Noob Shop](noob-shop.md), there is a chamber called the [Star Hall](star-hall.md). There, the player can generate [Star Amulets](star-amulet.md) and claim royal jellies depending on the number of gifted bees they currently have, as well as giving them Haste+ for 1 minute.
 

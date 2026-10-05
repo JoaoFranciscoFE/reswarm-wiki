@@ -38,7 +38,6 @@ The **Coconut Canister** is a [bag](bags.md) that can be purchased in the [Cocon
 </p>
 </td></tr></tbody></table>
 
-The following audio plays whenever the Emergency Coconut Shield passive ability activates: (Note: The audio in game is sped up.)
 
 ## Stats
 

@@ -15,9 +15,8 @@ Near the back right corner of the lair, there is some text on the floor, "Song N
 
 ## Music
 
-When in the lair, the following audio plays:
 
-This [audio](music.md) is known as "Crawlers" and also plays inside the [Commando Chick's Hideout](commando-chick-s-hideout.md) and the [White Tunnel](white-tunnel.md).
+The [music](music.md) here is "Crawlers", which also plays inside the [Commando Chick's Hideout](commando-chick-s-hideout.md) and the [White Tunnel](white-tunnel.md).
 
 ## Trivia
 

@@ -145,12 +145,6 @@ The Gummyball rewards the player with "Gummyball Combo", giving 2 stacks for hit
 * Choose a narrow field and align your character perpendicular to the field border that you're facing by using the "," and "." keys with shift lock (rotates the camera by 45 degrees) If on mobile, go in straight vertical lines across the field. When aligned, launch the Gummyball at a place with lots of active marks, including the Honey Mark (+), Pollen Mark (+), Festive Mark, and Precise Mark. This will cause the ball to go back and forth and hit the mark(s) and other things that give stacks along the way without the Gummyball going to the left/right.
 * Time the Gummyball before [Gummy Morph](passive-abilities.md#Gummy_Morph) activates (at around 21/30 if gumdrops are being dropped), so it has the time to stack up before the Gummy Morph activates.
 
-## Sound Effects
-
-When the Gummyball is released from the Gummyballer, the following sound effect plays:
-
-When the Gummyball hits the boundaries of the field, the following sound effect plays (speed and pitch increases per hit):
-
 ## Trivia
 
 * The Gummyballer is the second most expensive item in the game in terms of honey, only behind [The Planter Of Plenty](the-planter-of-plenty.md) which costs 100T [Honey](honey.md).

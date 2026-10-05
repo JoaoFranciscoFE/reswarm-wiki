@@ -144,8 +144,6 @@ If the player already has an existing Ant Amulet, they may choose to keep their 
 * Though the ants spawned during the challenge are random, it is possible to predict what ants might spawn. During the first 15 rounds, flying ants are generally more common than army ants. After 15 rounds, army ants become much more common. Giants ants spawn every 5 waves, and always come with either fire ants or regular ants. This information can be helpful when dealing with quests that require defeating specific types of ants.
 * Having <img alt="Invigorating Nectar" height="25" src="img/Invigorating_Nectar_Icon.png" width="25"/> [Invigorating Nectar](nectar.md) can help buff bee attack.
 
-## Music
-
 ## Trivia
 
 * If a player uses a [Whirligig](whirligig.md) during an Ant Challenge, it used to teleport the player to the starting platform after teleporting to the hive, thus ending the challenge and granting an amulet with the score the player left with.

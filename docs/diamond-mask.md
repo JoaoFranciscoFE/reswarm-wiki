@@ -42,7 +42,7 @@ The **Diamond Mask** is a mask and the blue counterpart of the [Demon Mask](demo
 </p>
 </td></tr></tbody></table>
 
-Once the 30th blue ability token is collected, the Diamond Mask's passive ability activates with the following sound file:
+Once the 30th blue ability token is collected, the Diamond Mask's passive ability activates.
 
 ## Stats
 

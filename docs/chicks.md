@@ -272,41 +272,6 @@ When it runs out of time, it will jump out of the field towards the [Lion Bee Ga
 * [Small Blue Chick Sticker](sticker.md#Sticker_Index) (Very Rare)
 * [Basic Pink Hive Skin](sticker.md#Sticker_Index) (Extremely rare)
 
-## Audio
-
-<table class="fandom-table">
-<caption>
-</caption>
-<tbody><tr>
-<th><b>Information</b>
-</th>
-<th><b>Audio</b>
-</th></tr>
-<tr>
-<td>The chirping noise made from a Chick, Spotted, Hostage, or Commando Chick
-</td>
-<td><figure class="thumb mw-halign-center" style="width: 180px" typeof="mw:File/Thumb">  <figcaption class="thumbcaption"> </figcaption> </figure>
-</td></tr>
-<tr>
-<td>When a Chick, Spotted, Hostage or Commando Chick breaks out of its egg
-</td>
-<td><figure class="thumb mw-halign-center" style="width: 180px" typeof="mw:File/Thumb">  <figcaption class="thumbcaption"> </figcaption> </figure>
-</td></tr>
-<tr>
-<td>The chirping noise made from Mondo Chick
-</td>
-<td><figure class="thumb mw-halign-center" style="width: 180px" typeof="mw:File/Thumb">  <figcaption class="thumbcaption"> </figcaption> </figure>
-</td></tr>
-<tr>
-<td>When a Mondo Chick breaks out of its egg
-</td>
-<td><figure class="thumb mw-halign-center" style="width: 180px" typeof="mw:File/Thumb">  <figcaption class="thumbcaption"> </figcaption> </figure>
-</td></tr>
-<tr>
-<td>The chirping noise when Mondo Chick is captured
-</td>
-<td><figure class="thumb mw-halign-center" style="width: 180px" typeof="mw:File/Thumb">  <figcaption class="thumbcaption"> </figcaption> </figure>
-</td></tr></tbody></table>
 
 ## Trivia
 

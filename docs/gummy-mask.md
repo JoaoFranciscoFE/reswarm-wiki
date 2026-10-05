@@ -42,7 +42,7 @@ The **Gummy Mask** is a mask available for purchase in [Gummy Bear's Lair](gummy
 </p>
 </td></tr></tbody></table>
 
-Once 30 regular gumdrops are used or 10 [Ability Tokens](ability-tokens.md) from Gummy Bee are collected, Gummy Mask's passive ability (Gummy Morph) activates with the following sound file:
+Once 30 regular gumdrops are used or 10 [Ability Tokens](ability-tokens.md) from Gummy Bee are collected, Gummy Mask's passive ability (Gummy Morph) activates.
 
 The appearance of the Gummy Mask has a teal gumdrop on top emitting tiny bubbles. Below that is a pink dome with a neon teal disc and a pink disc underneath. The Gummy Bee face is placed on a pink barrier surrounding the player's face.
 

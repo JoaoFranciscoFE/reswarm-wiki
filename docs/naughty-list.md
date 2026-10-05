@@ -13,8 +13,6 @@ It is located on top of the [30 Bee Gate](bear-gate.md), between [Night Memory M
 
 If a player attempts to use it without completing Bubble Bee Man's quest, the pop up will read: There aren't any names on the Naughty List. That can't be right...
 
-## Audio
-
 ## Trivia
 
 * The [Honey Wreath](honey-wreath.md) and [Onett's Lid Art](onett-s-lid-art.md) are the only Beesmas decorations to have voices play upon activation.

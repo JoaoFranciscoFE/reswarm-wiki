@@ -123,7 +123,7 @@ The **Porcelain Dipper** is a [tool](tools.md) that was added in the 2018-06-02 
 
 It collects 3 pollen from 49 surrounding patches in 0.7 seconds, increasing white pollen by 50%. Its average base pollen collection rate is 245 pollen per second: 315 from white [flowers](flowers.md) and 210 from red and blue flowers (the ability is not counted, assuming all flowers are single-size). It has a maximum base [pollen](pollen.md) collection rate of 315 pollen per second, which is achievable only in the [Spider Field](spider-field.md). It emits bubbles and sparkles.
 
-Every 10th swing will summon a large copy of this tool rising up, it then summons a pillar of light collecting lots of pollen from 29 flowers (in a 5x5 area around the player and 4 other flowers 3 tiles ahead, to the side and behind the player) and plays the following audio:
+Every 10th swing will summon a large copy of this tool rising up, it then summons a pillar of light collecting lots of pollen from 29 flowers (in a 5x5 area around the player and 4 other flowers 3 tiles ahead, to the side and behind the player) and plays a sound.
 
 ## Trivia
 

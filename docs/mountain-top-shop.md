@@ -159,10 +159,6 @@ There is a [Royal Jelly](royal-jelly.md) token on the roof and a [Ticket](ticket
 <td>Increases the capacity of your hive, allowing you to hatch an additional bee!
 </td></tr></tbody></table>
 
-## Music
-
-When in the shop, the following audio plays:
-
 ## Trivia
 
 * [Mondo Belt Bag](mondo-belt-bag.md) and [Beekeeper's Boots](beekeeper-s-boots.md) could've also been obtained by completing [Sun Bear's](sun-bear.md) quests before he left during his first visit.

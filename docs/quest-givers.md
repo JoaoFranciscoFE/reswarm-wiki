@@ -11,7 +11,6 @@ tags: ["Bears", "Quest Bees", "NPC"]
 
 **Quest Givers** are interactive NPC characters who give [quests](quests.md) to the player to complete. In return, they give various rewards upon completion. There are a total of 13 quest givers in-game, excluding traveling quest givers.
 
-When the player receives a quest from a quest giver, the following audio plays:
 
 When the player completes a quest in a main questline, a message will appear, stating:
 
@@ -21,7 +20,6 @@ If the player completes a repeatable quest, a message will appear, stating:
 
 {Name of quest} is ready to turn in!
 
-Along with this message, the following sound effect is also played:
 
 This is to remind the player to go to the quest giver to claim their rewards. The message will also appear again whenever the player rejoins the game if they had not turned it in before.
 
@@ -29,7 +27,6 @@ When the player hands in a quest to a quest giver, a message will appear stating
 
 {Name of quest} Complete!
 
-Afterwards, the following audio plays:
 
 ## Permanent NPCs
 

@@ -24,7 +24,7 @@ Underneath the platform in the gate, there is a [Diamond Egg](egg.md#Diamond_Egg
 
 ## Music
 
-The following soundtrack "[overflowin4](music.md#Overflowin4)" in this area:
+The soundtrack "[overflowin4](music.md#Overflowin4)" plays in this area.
 
 ## Trivia
 

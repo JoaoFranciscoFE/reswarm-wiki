@@ -20,7 +20,6 @@ COOLDOWN
 It can be used in all fields except the [Ant Field](ant-field.md). Attempting to do so will result in the following message:
 You can't boost a challenge field
 
-The following audio plays when glitter is used to boost a field:
 
 ## Ways to Obtain
 

@@ -145,31 +145,6 @@ Strangely, for some players, the message that appears when Mondo Chick is captur
 * A [Rogue Vicious Bee](rogue-vicious-bee.md) can help kill the Mondo Chick significantly faster, as Rogue Vicious Bee spikes can damage other [mobs](mobs.md). However, this requires a Vicious Bee to have spawned during a [nighttime sequence](day-night-cycle.md), specifically on the Mountain Top Field and shortly before the Mondo Chick spawns (so the Vicious Bee doesn't despawn).
   * It is not advised to use a [Night Bell](night-bell.md) to summon a Vicious Bee for this purpose, as the Vicious Bee may not spawn on Mountain Top Field, and Night Bells are very rare to come across.
 
-## Audio
-
-<table class="fandom-table">
-<caption>
-</caption>
-<tbody><tr>
-<th><b>Information</b>
-</th>
-<th><b>Audio</b>
-</th></tr>
-<tr>
-<td>The chirping noise made from the Mondo Chick
-</td>
-<td><figure class="thumb mw-halign-center" style="width: 180px" typeof="mw:File/Thumb">  <figcaption class="thumbcaption"> </figcaption> </figure>
-</td></tr>
-<tr>
-<td>The following audio plays when the Mondo Chick breaks out of its egg
-</td>
-<td><figure class="thumb mw-halign-center" style="width: 180px" typeof="mw:File/Thumb">  <figcaption class="thumbcaption"> </figcaption> </figure>
-</td></tr>
-<tr>
-<td>The chirping noise made when the Mondo Chick is captured
-</td>
-<td><figure class="thumb mw-halign-center" style="width: 180px" typeof="mw:File/Thumb">  <figcaption class="thumbcaption"> </figcaption> </figure>
-</td></tr></tbody></table>
 
 ## Trivia
 

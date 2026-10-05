@@ -19,7 +19,6 @@ When using the generator, it will say:
 🌙 The moon seems to grow brighter... 🌙 If the player has reached the maximum [capacity](system-page.md#Capacity_Multiplier) [buff](buffs-debuffs.md) (+250k), the chat instead states: 
 🌙 The moon seems happy! 🌙
 
-When the player generates a Moon Amulet, the following audio plays:
 
 
 

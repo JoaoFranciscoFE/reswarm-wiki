@@ -25,7 +25,6 @@ The amount of honey the player receives from a micro-converter is not affected b
 
 The player can have a maximum of 15 micro-converters in their inventory at a time. Obtaining more than 15 will not add any micro-converters to their inventory unless purchased from the [Robux Shop](robux-shop.md), obtained from [Quests](quests.md), or adding certain [stickers](sticker.md) to your [Sticker Stack](sticker-stack.md).
 
-The following audio plays when a micro-converter is used:
 
 ## Ways To Obtain
 

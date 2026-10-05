@@ -186,9 +186,8 @@ Behind the Honey Dispenser is a hidden [obstacle course](obstacle-courses.md#Lav
 
 ## Music
 
-When in the shop, the following audio plays:
 
-This [audio](music.md) is known as "Vendor" and also plays inside the [Pro Shop](pro-shop.md), [Mountain Top Shop](mountain-top-shop.md), [Badge Bearer's Guild](badge-bearer-s-guild.md), [Blue HQ](blue-hq.md), [Red HQ](red-hq.md), [Petal Shop](petal-shop.md), [Hive Hub](hive-hub.md), and in the [Blue Maze](mazes.md#Blue_Maze).
+The [music](music.md) here is "Vendor", which also plays inside the [Pro Shop](pro-shop.md), [Mountain Top Shop](mountain-top-shop.md), [Badge Bearer's Guild](badge-bearer-s-guild.md), [Blue HQ](blue-hq.md), [Red HQ](red-hq.md), [Petal Shop](petal-shop.md), [Hive Hub](hive-hub.md), and in the [Blue Maze](mazes.md#Blue_Maze).
 
 ## Trivia
 

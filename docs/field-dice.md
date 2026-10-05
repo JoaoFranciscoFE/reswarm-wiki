@@ -19,7 +19,6 @@ COOLDOWN
 
 As of the 2021-12-26 Update, there are currently 3 types of dice in the game, those being Field Dice, [Smooth Dice](smooth-dice.md) and [Loaded Dice](loaded-dice.md).
 
-The following audio plays when a field dice is used:
 
 ## Ways of Obtaining
 

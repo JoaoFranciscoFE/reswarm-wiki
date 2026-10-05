@@ -17,7 +17,7 @@ Standing on the last stair, nearest to Commando Chick's hideout normally makes t
 
 ## Music
 
-When in the hideout, the following audio "Crawlers" plays:
+The music "Crawlers" plays in the hideout.
 
 ## Trivia
 

@@ -126,7 +126,6 @@ The **Spark Staff** is a [tool](tools.md) that was added in the 2019-04-05 updat
 
 The Spark Staff collects all [pollen](pollen.md) from the 3 fullest nearby [flowers](flowers.md) in 0.5 seconds and increases it by 20%. It has a maximum base pollen collection rate of 216 pollen per second from single flowers, 324 pollen per second from double flowers, 432 pollen per second from triple flowers, 540 pollen per second from large flowers, and 648 pollen per second from star flowers, varying immensely due to digging the entire flower, with pollen held by [flowers](flowers.md) depending on the tier. However, the nearby flowers may not be full, so it doesn't always reach its complete potential.
 
-The following audio plays when the Spark Staff collects pollen:
 
 ## Trivia
 

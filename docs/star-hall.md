@@ -24,8 +24,6 @@ Outside of the Star Hall, there is a [Royal Jelly](royal-jelly.md) token to the 
 
 <figure class="mw-halign-center" style="text-align:center"><img alt="" src="img/places/Star_Hall_interior.png" width="480"/><figcaption>The interior of the Star Hall.</figcaption></figure>
 
-## Music
-
 ## Trivia
 
 

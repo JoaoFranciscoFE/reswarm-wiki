@@ -27,7 +27,6 @@ A maximum of 500 coconuts can be held at a time, as the item's highest capacity 
 
 There's also an On/Off switch on the player's hotbar (if the coconut Item is in the player's hotbar). The coconut will be used automatically when this switch is turned on.
 
-The following audio plays when a coconut hits a field:
 
 ## Ways to Obtain
 

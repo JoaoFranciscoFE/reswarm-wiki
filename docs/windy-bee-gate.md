@@ -36,7 +36,7 @@ Inside this Gate is the [Coconut Field](coconut-field.md), the [Pepper Patch](pe
 
 ## Music
 
-The following soundtrack "[overflowin4](music.md#Overflowin4)" plays past this gate:
+The soundtrack "[overflowin4](music.md#Overflowin4)" plays past this gate.
 
 ## Trivia
 

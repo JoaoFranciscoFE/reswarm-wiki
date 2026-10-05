@@ -31,7 +31,6 @@ tags: ["Machines", "Locations", "Blue", "Field Boosters"]
 
 The **Blue Field Booster** is a machine that provides a field boost to a random blue field for 15 minutes. It is located on the second floor of the [Blue HQ](blue-hq.md). In order to use it, the player has to have discovered at least 5 different blue [bee](bees.md) types. It has a cooldown of 45 minutes.
 
-The following audio plays when the Blue Field Booster is activated:
 
 ## Boosts
 

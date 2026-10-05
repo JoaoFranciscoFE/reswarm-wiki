@@ -42,7 +42,7 @@ The **Demon Mask** is the red counterpart of the [Diamond Mask](diamond-mask.md)
 </p>
 </td></tr></tbody></table>
 
-Once the 25th battle [Ability Token](ability-tokens.md) is collected, Demon Mask's [Passive Ability](passive-abilities.md#X-Flame) (X-Flame) activates with the following sound file:
+Once the 25th battle [Ability Token](ability-tokens.md) is collected, Demon Mask's [Passive Ability](passive-abilities.md#X-Flame) (X-Flame) activates.
 
 ## Stats
 

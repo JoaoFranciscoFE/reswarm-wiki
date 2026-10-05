@@ -30,10 +30,6 @@ The following items are not usable in the Hive Hub:
 * Every type of [balloon](balloon.md).
 * Every type of [planter](planter.md).
 
-## Music
-
-When in the Hive Hub, the following audio plays:
-
 ## Trivia
 
 * During Beesmas, the hexagonal platform at the end of the obby in the Hive Hub has a [Gingerbread Bear](gingerbread-bear.md) token.

@@ -79,10 +79,6 @@ Grants bonus <a href="jelly-beans.html">Jelly Beans</a>, <a href="field-dice.htm
 <li>Grants +50% Comforting and Satisfying Nectar</li></ul>
 </td></tr></tbody></table>
 
-## Music
-
-When in the shop, the following audio plays:
-
 ## Trivia
 
 * The wall behind the Petal Shop is semi-transparent and can be walked through. Behind it, there's a corridor which leads to a [star jelly](royal-jelly.md#Star_Jelly) token that can be seen in the [Blue Maze](mazes.md#Blue_Maze), from where the jellybeans token is found. The token awards one star jelly.

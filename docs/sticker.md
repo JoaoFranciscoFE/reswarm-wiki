@@ -4909,10 +4909,6 @@ Seeker Stickers do not give rewards when collected, but progress [Sticker-Seeker
 
 Collecting excess Seeker Stickers will only give the same message as if the requirement had already been finished.
 
-### Audio
-
-One of the following sounds can play when collecting a sticker:
-
 ### Hidden Stickers Locations
 
 ### Starter Zone

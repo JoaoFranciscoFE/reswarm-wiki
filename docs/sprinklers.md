@@ -133,10 +133,3 @@ Note that what players are able to buy is actually a sprinkler *builder*, which 
 </td>
 <td>55,555,555,555
 </td></tr></tbody></table>
-
-## Audio
-
-When a sprinkler is placed in a field, the following audio plays:
-
-When a sprinkler regenerates flowers, the following audio plays:
-

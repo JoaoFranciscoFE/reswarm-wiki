@@ -26,7 +26,6 @@ If the player has maxed out their capacity buff, the message will instead say:
 
  The moon seems happy!
 
-When the player generates a Moon Amulet, the following audio plays:
 
 ## Possible Buffs
 

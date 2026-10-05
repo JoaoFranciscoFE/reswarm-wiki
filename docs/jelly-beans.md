@@ -269,10 +269,6 @@ All jelly bean types stack up to 3 times, except for Spoiled Jelly Bean, which o
 * Going into the [Blue Maze](mazes.md#Blue_Maze) next to the [Ticket Tent](ticket-tent.md). Taking the path to the right will lead to a jelly bean token.
 * Going into the [Coconut Cave](coconut-cave.md) on top of the [Coconut Dispenser](coconut-dispenser.md) there will be a hole, Going through the hole has jelly beans and others.
 
-## Audio
-
-Whenever a jelly bean token is collected, one of the five following audios will play:
-
 ## Trivia
 
 * [Bean Bugs](bean-bug.md) are passive mobs that spawn in random fields. They scatter jelly bean tokens around their current field. They are the second and only other way of getting jelly bean tokens.

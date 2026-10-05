@@ -28,12 +28,6 @@ The Basic Sprinkler is comprised of an individual sprinkler, meaning the player 
 
 Its radius extends to 7 [flower](flowers.md) tiles, its rate is 5 seconds, and its power is 7.
 
-## Audio
-
-When a sprinkler is placed in a field, the following audio plays:
-
-When a sprinkler regenerates flowers, the following audio plays:
-
 ## Trivia
 
 * The Basic Sprinkler is currently the cheapest sprinkler in the game.

@@ -43,7 +43,6 @@ The [Commando Chick's Hideout](commando-chick-s-hideout.md) is located past this
 
 
 
-When the vines blocking the entrance are being cut down, the following audio plays:
 
 The Commando Chick's Hideout Obby is, in fact, a newer version of the Golden Present obby, which had made its debut in Beesmas 2019 in order to serve as a challenge for people trying to get to the Golden Present. After the end of Beesmas 2020, the Golden Present obby was removed, only to return in the Egg Hunt 2020 event as the Commando Chick's Hideout obby. The only difference between the former and the latter is that the latter has vines to cut through.
 

@@ -26,12 +26,6 @@ tags: ["Items", "Sprinklers"]
 
 The Supreme Saturator is a single sprinkler. Its radius extends to 16 [flower](flowers.md) tiles, its rate is 1 second, and its power is 10. This adds up to 8042 [pollen](pollen.md) per second, outperforming four [Diamond Drenchers](diamond-drenchers.md) (1809 [pollen](pollen.md) per second) by over 340% (4.44x as effective).
 
-## Audio
-
-When a sprinkler is placed in a field, the following audio plays:
-
-When a sprinkler regenerates flowers, the following audio plays:
-
 ## Trivia
 
 * The shape of The Supreme Saturator resembles the head of a bear.

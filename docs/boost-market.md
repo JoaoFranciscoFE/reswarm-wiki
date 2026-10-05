@@ -23,7 +23,6 @@ The **Boost Market** was a [shop](shops.md) that could have been found in the [3
 
 Every 30 minutes, the shop allowed the player to purchase a market boost at a certain price. The price depended on the number of people who have purchased that specific boost, much like in a real [stock market](https://en.wikipedia.org/wiki/Stock_Market). It cost both [Tickets](ticket.md) and [Honey](honey.md) to purchase a boost. These boosts lasted for 30 minutes. Market boosts could also have been obtained from certain [codes](codes.md), like RedMarket, or the ones used in the Ready Player Two event.
 
-When the player purchased a market boost, the following audio played:
 
 ## Boosts
 

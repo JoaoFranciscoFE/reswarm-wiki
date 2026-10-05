@@ -230,9 +230,8 @@ There is a store in the Red HQ that sells nine [items](items.md). To open the st
 
 ## Music
 
-When in the shop, the following audio plays:
 
-This [audio](music.md) is known as "Vendor" and also plays inside the [Noob Shop](noob-shop.md), [Pro Shop](pro-shop.md), [Mountain Top Shop](mountain-top-shop.md), [Badge Bearer's Guild](badge-bearer-s-guild.md), [Blue HQ](blue-hq.md), Red HQ, [Petal Shop](petal-shop.md), [Hive Hub](hive-hub.md), and in the [Blue Maze](mazes.md#Blue_Maze).
+The [music](music.md) here is "Vendor", which also plays inside the [Noob Shop](noob-shop.md), [Pro Shop](pro-shop.md), [Mountain Top Shop](mountain-top-shop.md), [Badge Bearer's Guild](badge-bearer-s-guild.md), [Blue HQ](blue-hq.md), Red HQ, [Petal Shop](petal-shop.md), [Hive Hub](hive-hub.md), and in the [Blue Maze](mazes.md#Blue_Maze).
 
 ## Trivia
 

@@ -43,7 +43,6 @@ The **Honey Mask** is a hat accessory that can be purchased at the Ace Shop in t
 
 A player must have at least one [Ace badge](badges.md) to enter the interior store. The mask will be there along with three other accessories: the [Cobalt Guard](cobalt-guard.md), [Crimson Guard](crimson-guard.md), and the [Honeycomb Belt](honeycomb-belt.md).
 
-The following audio plays, when Coin Scatter is activated:
 
 ## Stats
 

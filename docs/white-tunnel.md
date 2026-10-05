@@ -27,9 +27,8 @@ There is an exit platform about a third of the way down the tunnel that will tel
 
 ## Music
 
-When in the tunnel, the following audio plays:
 
-This [audio](music.md) is known as "Crawlers" and also plays inside the [King Beetle's Lair](king-beetle-s-lair.md) and the [Commando Chick's Hideout](commando-chick-s-hideout.md).
+The [music](music.md) here is "Crawlers", which also plays inside the [King Beetle's Lair](king-beetle-s-lair.md) and the [Commando Chick's Hideout](commando-chick-s-hideout.md).
 
 ## Trivia
 

@@ -375,12 +375,6 @@ As a result, the exact chance of a pair appearing is significantly higher than t
 * 2 [Oils](oil.md) (~0.82%)
 * 2 [Enzymes](enzymes.md) (~0.82%)
 
-## Audio
-
-The following audio plays when a card is flipped over:
-
-The following audio plays when a pair is correctly matched (pitched higher and sped up in game):
-
 ## Trivia
 
 * The Extreme Memory Match is the biggest Memory Match machine in terms of the "computer" model size. It is also the most expensive machine in terms of honey.

@@ -34,7 +34,6 @@ You can't make clouds in the Hub Field.
 
 Donating a **Cloud Vial** to the [Wind Shrine](wind-shrine.md) after having donated a [Spirit Petal](spirit-petal.md) will give the player a chance to obtain a [Windy Bee Egg](egg.md#Event_Bee_Eggs) if they do not already own a [Windy Bee](windy-bee.md).
 
-The following audio plays when a **Cloud Vial** is used:
 
 ## Ways to Obtain
 

@@ -23,7 +23,7 @@ Whenever a player activates a night bell, the sound of a bell chiming will play 
 
 
 
-Upon using a night bell, the server will receive the public announcement above, along with the following sound file below.
+Upon using a night bell, the server will receive the public announcement above, along with a sound.
 
 ## Ways to Obtain
 

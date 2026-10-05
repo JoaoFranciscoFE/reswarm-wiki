@@ -65,10 +65,6 @@ When a player stands on the drop zone of a meteor (which is indicated by a purpl
   * <img alt="Scorpio Star Sign" height="25" src="img/Scorpio_Star_Sign.png" width="25"/> Scorpio: October 23 to November 21
   * <img alt="Sagittarius Star Sign" height="25" src="img/Sagittarius_Star_Sign.png" width="25"/> Sagittarius: November 22 to December 21
 
-## Sound Effects
-
-The following audios play when a meteor shower is summoned:
-
 ## Gallery
 
 Onett is able to manipulate the function of the Mythic Meteor Shower event to activate it globally, sometimes under unique names.

@@ -374,10 +374,6 @@ Onett is able to plant sprouts server-wide throughout the game. Some of them hav
 <td>
 </td></tr></tbody></table>
 
-## Audio
-
-As a sprout grows, the following audio is played once the sprout has hit the next respective stage:
-
 ## Trivia
 
 * If a [Festive Bean](festive-bean.md) is planted by a player, the [Festive Blessing](ability-tokens.md#Festive_Blessing) and [Beesmas Cheer](ability-tokens.md#Beesmas_Cheer) buffs are only obtainable by the player that planted it.

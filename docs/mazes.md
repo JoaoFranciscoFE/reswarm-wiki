@@ -13,7 +13,7 @@ The **Blue Maze** is located next to the [Ticket Tent](ticket-tent.md) (or behin
 
 Inside the maze, the player can obtain 5 [tickets](ticket.md) by taking a left turn first and then a right turn, and a [jelly bean](jelly-beans.md) token by taking the path on the right. There used to be a plastic egg where the tickets were in the 2019 Egg Hunt. The player can also find a [star jelly](royal-jelly.md#Star_Jelly) token on the right, but it is blocked by a glass wall. It can be obtained by going through a passage behind the [Petal Shop](petal-shop.md).
 
-When in the maze, the following audio "Vendor" plays:
+The music "Vendor" plays in the maze.
 
 [Spotted Chicks](chicks.md#Spotted_Chick) could spawn in this maze before they were removed.
 

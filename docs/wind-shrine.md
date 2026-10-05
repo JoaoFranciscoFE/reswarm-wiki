@@ -19,7 +19,6 @@ The Wind Shrine also indicates if a [Wild Windy Bee](wild-windy-bee.md) is activ
 
 
 
-The following audio plays when a player has donated something to the Wind Shrine:
 
 ## Usage
 
