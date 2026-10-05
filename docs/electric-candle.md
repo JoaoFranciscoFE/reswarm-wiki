@@ -516,7 +516,7 @@ An **Electric Candle** is a [level](bond.md) 6 Beesmas [beequip](beequip.md). It
 ## Ways to Obtain
 
 * As a very rare drop from the [Stockings](stockings.md).
-* From the Blinking Gift Box (see [Gift Boxes/2025](gift-boxes-2025.md)), once you have helped enough characters decorate.
+* From the Blinking Gift Box (see [Gift Boxes](gift-boxes.md#2025)), once you have helped enough characters decorate.
 
 ## Triva
 

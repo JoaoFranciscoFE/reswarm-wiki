@@ -28,8 +28,6 @@ Can't afford {Item/Bundle}
 
 ## Shop Items
 
-### 2025
-
 ## 2025
 
 ### Bundles

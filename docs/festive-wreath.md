@@ -620,7 +620,7 @@ The **Festive Wreath** is a [level](bond.md) 10 Beesmas [beequip](beequip.md). I
 ## Ways To Obtain
 
 * As a reward for reaching Rebirth 23 and Rebirth 28.
-* From the Festive Gift Box (see [Gift Boxes/2025](gift-boxes-2025.md)), once you have helped enough characters decorate.
+* From the Festive Gift Box (see [Gift Boxes](gift-boxes.md#2025)), once you have helped enough characters decorate.
 
 ## Trivia
 

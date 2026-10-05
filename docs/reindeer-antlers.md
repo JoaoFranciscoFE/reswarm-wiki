@@ -369,7 +369,7 @@ The **Reindeer Antlers** is a [level](bond.md) 8 Beesmas [beequip](beequip.md). 
 
 ## Ways to Obtain
 
-* In the Reindeer Bundle from [Bee Bear's Catalog 2025](bee-bear-s-catalog-2025.md), bought with Gingerbread Bears.
+* In the Reindeer Bundle from [Bee Bear's Catalog](bee-bear-s-catalog.md#2025), bought with Gingerbread Bears.
 * As a reward for reaching Rebirth 23 and Rebirth 28.
 
 ## Trivia

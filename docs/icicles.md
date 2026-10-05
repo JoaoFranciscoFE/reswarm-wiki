@@ -478,7 +478,7 @@ tags: ["Inventory", "Items", "Beequips", "Beesmas", "Blue"]
 ## Ways to Obtain
 
 * As a reward for reaching Rebirth 28.
-* From the Intimidating Gift Box (see [Gift Boxes/2025](gift-boxes-2025.md)), once you have helped enough characters decorate.
+* From the Intimidating Gift Box (see [Gift Boxes](gift-boxes.md#2025)), once you have helped enough characters decorate.
 
 ## Trivia
 

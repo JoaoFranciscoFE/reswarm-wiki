@@ -35,8 +35,8 @@ When used, it grants the following [buffs](buffs-debuffs.md#From_Items) for 30 m
   * 15MMembers (Gives 1 **Marshmallow Bee** + other stuff)
   * ThreeBeeVee (Gives 1 **Marshmallow Bee** + other stuff)
   * FOURtunate (Gives 1 **Marshmallow Bee** + other stuff)
-* The [Shiny Gift Box](gift-boxes-2025.md) rewards 1 Marshmallow Bee and other items.
-* The [Confectionary Gift Box](gift-boxes-2025.md) rewards 3 Marshmallow Bees and other items.
+* The [Shiny Gift Box](gift-boxes.md#2025) rewards 1 Marshmallow Bee and other items.
+* The [Confectionary Gift Box](gift-boxes.md#2025) rewards 3 Marshmallow Bees and other items.
 * Completing [Honey Bee's](honey-bee-npc.md) Beesmas quest rewards 9 Marshmallow Bees and other rewards.
 
 ## Trivia

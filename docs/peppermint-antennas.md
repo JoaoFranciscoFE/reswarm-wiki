@@ -531,7 +531,7 @@ The **Peppermint Antennas** are a [level](bond.md) 7 Beesmas [beequip](beequip.m
 ## Ways to Obtain
 
 * As a reward for reaching Rebirth 28.
-* From the Confectionery Gift Box (see [Gift Boxes/2025](gift-boxes-2025.md)), once you have helped enough characters decorate.
+* From the Confectionery Gift Box (see [Gift Boxes](gift-boxes.md#2025)), once you have helped enough characters decorate.
 
 <table class="mw-collapsible autocollapse" style="margin:auto; background:#000; font-size: 10pt; border:5px solid #56CB5A; width: 100%; border-radius: 20px; -moz-border-radius: 20px; -webkit-border-radius: 20px; -khtml-border-radius: 20px; -icab-border-radius: 20px; -o-border-radius: 20px;">
 <tbody><tr>
