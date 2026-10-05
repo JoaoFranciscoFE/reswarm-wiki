@@ -41,35 +41,35 @@ The requirements are based on what round was completed during a challenge.
 <tr>
 <td>Round 5+
 </td>
-<td><span typeof="mw:Error mw:File"></span> Bronze Cog Amulet
+<td><img alt="Bronze Cog Amulet" src="img/Bronze_Cog_Amulet.png" width="30" height="30"/> Bronze Cog Amulet
 </td>
 <td>
 </td></tr>
 <tr>
 <td>Round 10+
 </td>
-<td><span typeof="mw:Error mw:File"></span> Silver Cog Amulet
+<td><img alt="Silver Cog Amulet" src="img/Silver_Cog_Amulet.png" width="30" height="30"/> Silver Cog Amulet
 </td>
 <td>
 </td></tr>
 <tr>
 <td>Round 15+
 </td>
-<td><span typeof="mw:Error mw:File"></span> Gold Cog Amulet
+<td><img alt="Gold Cog Amulet" src="img/Gold_Cog_Amulet.png" width="30" height="30"/> Gold Cog Amulet
 </td>
 <td>Access to purchasing <img alt="Glitched Drive" height="35" src="img/Glitched_Drive.png" width="35"/><a href="drives.html#Glitched_Drive"><span class="color-template color-template-glitched-drive color-template-background-clip">Glitched Drives</span></a>
 </td></tr>
 <tr>
 <td>Round 20+
 </td>
-<td><span typeof="mw:Error mw:File"></span> Diamond Cog Amulet
+<td><img alt="Diamond Cog Amulet" src="img/Diamond_Cog_Amulet.png" width="30" height="30"/> Diamond Cog Amulet
 </td>
 <td>Access to crafting a <img alt="Digital Bee" height="35" src="img/Digital_Bee.png" width="35"/> <a href="digital-bee.html">Digital Bee</a>
 </td></tr>
 <tr>
 <td>Round 25
 </td>
-<td><span typeof="mw:Error mw:File"></span> Supreme Cog Amulet
+<td><img alt="Supreme Cog Amulet" src="img/Supreme_Cog_Amulet.png" width="30" height="30"/> Supreme Cog Amulet
 </td>
 <td>Challenge completion and obtaining the <img alt="Robo Cub" height="35" src="img/Robo_Cub.png" width="35"/><a href="cub-buddy.html#Skins"><span class="color-template color-template-robo-cub color-template-background-clip">Robo Cub</span></a> skin (only available through this method once)
 </td></tr></tbody></table>
@@ -78,9 +78,12 @@ The requirements are based on what round was completed during a challenge.
 
 *For more information on how amulets generate, see [Amulet#Generation](amulet.md#Generation).*
 
-### Bronze Cog Amulet
+/// tab | Bronze <span class="tier-suffix">Cog Amulet</span>
 
-<figure class="thumb mw-halign-right" style="width: 180px" typeof="mw:File/Thumb">  <figcaption class="thumbcaption"> <p class="caption">The icon for the Bronze Cog Amulet.</p> </figcaption> </figure>
+
+<figure class="amulet-tier-icon"><img alt="Bronze Cog Amulet" src="img/Bronze_Cog_Amulet.png"/><figcaption>The icon for the Bronze Cog Amulet.</figcaption></figure>
+
+<p class="amulet-tier-obtain"><b>How to get:</b> Round 5+</p>
 
 <table class="article-table">
 <tbody><tr>
@@ -190,7 +193,6 @@ The requirements are based on what round was completed during a challenge.
 The tables below give the percentage of a certain stat on the amulet having strength within a specific range, at a few quality milestones. To see the percentage of a certain stat having a specific strength value, see [the designated subpage](cog-amulet-probability.md#Bronze_Cog_Amulet).
 
 *Note that the precise percentages may be off due to floating point errors.*  
-Show/hide tables
 
 ### + Capacity
 
@@ -2244,9 +2246,14 @@ Show/hide tables
 <td>+1.2%
 </td></tr></tbody></table>
 
-### Silver Cog Amulet
+///
 
-<figure class="thumb mw-halign-right" style="width: 180px" typeof="mw:File/Thumb">  <figcaption class="thumbcaption"> <p class="caption">The icon for the Silver Cog Amulet.</p> </figcaption> </figure>
+/// tab | Silver <span class="tier-suffix">Cog Amulet</span>
+
+
+<figure class="amulet-tier-icon"><img alt="Silver Cog Amulet" src="img/Silver_Cog_Amulet.png"/><figcaption>The icon for the Silver Cog Amulet.</figcaption></figure>
+
+<p class="amulet-tier-obtain"><b>How to get:</b> Round 10+</p>
 
 <table class="article-table">
 <tbody><tr>
@@ -2363,7 +2370,6 @@ Show/hide tables
 The tables below give the percentage of a certain stat on the amulet having strength within a specific range, at a few quality milestones. To see the percentage of a certain stat having a specific strength value, see [the designated subpage](cog-amulet-probability.md#Silver_Cog_Amulet).
 
 *Note that the precise percentages may be off due to floating point errors.*  
-Show/hide tables
 
 ### + Capacity
 
@@ -4628,9 +4634,14 @@ Show/hide tables
 <td>+2.3%
 </td></tr></tbody></table>
 
-### Gold Cog Amulet
+///
 
-<figure class="thumb mw-halign-right" style="width: 180px" typeof="mw:File/Thumb">  <figcaption class="thumbcaption"> <p class="caption">The icon for the Gold Cog Amulet.</p> </figcaption> </figure>
+/// tab | Gold <span class="tier-suffix">Cog Amulet</span>
+
+
+<figure class="amulet-tier-icon"><img alt="Gold Cog Amulet" src="img/Gold_Cog_Amulet.png"/><figcaption>The icon for the Gold Cog Amulet.</figcaption></figure>
+
+<p class="amulet-tier-obtain"><b>How to get:</b> Round 15+</p>
 
 <table class="article-table">
 <tbody><tr>
@@ -4761,7 +4772,6 @@ Show/hide tables
 The tables below give the percentage of a certain stat on the amulet having strength within a specific range, at a few quality milestones. To see the percentage of a certain stat having a specific strength value, see [the designated subpage](cog-amulet-probability.md#Gold_Cog_Amulet).
 
 *Note that the precise percentages may be off due to floating point errors.*  
-Show/hide tables
 
 ### + Capacity
 
@@ -7093,9 +7103,14 @@ Show/hide tables
 <td>+3.7%
 </td></tr></tbody></table>
 
-### Diamond Cog Amulet
+///
 
-<figure class="thumb mw-halign-right" style="width: 180px" typeof="mw:File/Thumb">  <figcaption class="thumbcaption"> <p class="caption">The icon for the Diamond Cog Amulet.</p> </figcaption> </figure>
+/// tab | Diamond <span class="tier-suffix">Cog Amulet</span>
+
+
+<figure class="amulet-tier-icon"><img alt="Diamond Cog Amulet" src="img/Diamond_Cog_Amulet.png"/><figcaption>The icon for the Diamond Cog Amulet.</figcaption></figure>
+
+<p class="amulet-tier-obtain"><b>How to get:</b> Round 20+</p>
 
 <table class="article-table">
 <tbody><tr>
@@ -7256,7 +7271,6 @@ Show/hide tables
 The tables below give the percentage of a certain stat on the amulet having strength within a specific range, at a few quality milestones. To see the percentage of a certain stat having a specific strength value, see [the designated subpage](cog-amulet-probability.md#Diamond_Cog_Amulet).
 
 *Note that the precise percentages may be off due to floating point errors.*  
-Show/hide tables
 
 ### + Capacity
 
@@ -10202,9 +10216,14 @@ Show/hide tables
 <td>+4.8%
 </td></tr></tbody></table>
 
-### Supreme Cog Amulet
+///
 
-<figure class="thumb mw-halign-right" style="width: 180px" typeof="mw:File/Thumb">  <figcaption class="thumbcaption"> <p class="caption">The icon for the Supreme Cog Amulet.</p> </figcaption> </figure>
+/// tab | Supreme <span class="tier-suffix">Cog Amulet</span>
+
+
+<figure class="amulet-tier-icon"><img alt="Supreme Cog Amulet" src="img/Supreme_Cog_Amulet.png"/><figcaption>The icon for the Supreme Cog Amulet.</figcaption></figure>
+
+<p class="amulet-tier-obtain"><b>How to get:</b> Round 25</p>
 
 <table class="article-table">
 <tbody><tr>
@@ -10365,7 +10384,6 @@ Show/hide tables
 The tables below give the percentage of a certain stat on the amulet having strength within a specific range, at a few quality milestones. To see the percentage of a certain stat having a specific strength value, see [the designated subpage](cog-amulet-probability.md#Supreme_Cog_Amulet).
 
 *Note that the precise percentages may be off due to floating point errors.*  
-Show/hide tables
 
 ### + Capacity
 
@@ -13756,6 +13774,8 @@ Show/hide tables
 </td>
 <td>+4.8%
 </td></tr></tbody></table>
+
+///
 
 ## Trivia
 

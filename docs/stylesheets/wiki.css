@@ -241,3 +241,24 @@ figure img { max-width: 100%; height: auto; }
   .md-typeset table.infobox { float: none !important; display: block; width: 100% !important; overflow-x: auto; margin-left: 0 !important; margin-right: 0 !important; }
   .md-typeset table.infobox img { max-width: 100%; height: auto; }
 }
+
+/* Amulet tier tabs */
+.md-typeset .tabbed-set { margin: 1em 0; container-type: inline-size; }
+.md-typeset .tabbed-labels > label, .md-typeset .tabbed-labels--linked > label > a { font-size: .64rem; padding: .9em .8em .7em; }
+.md-typeset .tabbed-labels--linked > label { padding: 0; }
+.md-typeset .tabbed-labels > label:hover,
+.md-typeset .tabbed-set > input:nth-child(1):checked ~ .tabbed-labels > :nth-child(1),
+.md-typeset .tabbed-set > input:nth-child(2):checked ~ .tabbed-labels > :nth-child(2),
+.md-typeset .tabbed-set > input:nth-child(3):checked ~ .tabbed-labels > :nth-child(3),
+.md-typeset .tabbed-set > input:nth-child(4):checked ~ .tabbed-labels > :nth-child(4),
+.md-typeset .tabbed-set > input:nth-child(5):checked ~ .tabbed-labels > :nth-child(5) { color: var(--md-typeset-a-color); }
+.js .md-typeset .tabbed-labels::before { background: var(--md-typeset-a-color); height: 3px; }
+/* drop the amulet name from the labels when the five tabs would not fit */
+@container (max-width: 660px) { .md-typeset .tier-suffix { display: none; } }
+.md-typeset .tabbed-labels > label > a:hover { text-decoration: none; }
+.md-typeset .amulet-tier-icon { float: left; width: 7rem; margin: .4em 1em .8em 0; padding: .4em; border: 1px solid var(--md-default-fg-color--lightest); border-radius: 8px; background: var(--md-code-bg-color); }
+.md-typeset .amulet-tier-icon img { width: 5rem; height: 5rem; display: block; margin: 0 auto; }
+.md-typeset .amulet-tier-icon figcaption { font-size: .6rem; margin: .3em 0 0; color: var(--md-default-fg-color--light); }
+.md-typeset .amulet-tier-obtain { margin-top: .6em; }
+.md-typeset .amulet-tier-icon ~ .article-table { clear: both; }
+.md-typeset td > img[src$="_Amulet.png"] { vertical-align: middle; margin-right: .2em; }

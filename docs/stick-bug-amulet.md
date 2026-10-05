@@ -39,31 +39,34 @@ The requirements are based on your score and Stick Bug's level on a challenge.
 <tr>
 <td>At least <span style="border-bottom:1px dotted;" title="1,000,000">1M</span> score, must be at least a level 5 <a href="stick-bug.html">Stick Bug</a>
 </td>
-<td><span typeof="mw:Error mw:File"></span> Bronze Stick Amulet
+<td><img alt="Bronze Stick Bug Amulet" src="img/Bronze_Stick_Bug_Amulet.png" width="30" height="30"/> Bronze Stick Bug Amulet
 </td></tr>
 <tr>
 <td>At least <span style="border-bottom:1px dotted;" title="8,000,000">8M</span> score, must be at least a level 8 <a href="stick-bug.html">Stick Bug</a>
 </td>
-<td><span typeof="mw:Error mw:File"></span> Silver Stick Amulet
+<td><img alt="Silver Stick Bug Amulet" src="img/Silver_Stick_Bug_Amulet.png" width="30" height="30"/> Silver Stick Bug Amulet
 </td></tr>
 <tr>
 <td>At least <span style="border-bottom:1px dotted;" title="20,000,000">20M</span> score, must be at least a level 11 <a href="stick-bug.html">Stick Bug</a>
 </td>
-<td><span typeof="mw:Error mw:File"></span> Gold Stick Amulet
+<td><img alt="Gold Stick Bug Amulet" src="img/Gold_Stick_Bug_Amulet.png" width="30" height="30"/> Gold Stick Bug Amulet
 </td></tr>
 <tr>
 <td>At least <span style="border-bottom:1px dotted;" title="50,000,000">50M</span> score, must be at least a level 13 <a href="stick-bug.html">Stick Bug</a>
 </td>
-<td><span typeof="mw:Error mw:File"></span> Diamond Stick Amulet
+<td><img alt="Diamond Stick Bug Amulet" src="img/Diamond_Stick_Bug_Amulet.png" width="30" height="30"/> Diamond Stick Bug Amulet
 </td></tr></tbody></table>
 
 ## Possible Buffs
 
 *For more information on how amulets generate, see [Amulet#Generation](amulet.md#Generation).*
 
-### Bronze Stick Bug Amulet
+/// tab | Bronze <span class="tier-suffix">Stick Bug Amulet</span>
 
-<figure class="thumb mw-halign-right" style="width: 180px" typeof="mw:File/Thumb">  <figcaption class="thumbcaption"> <p class="caption">The icon for the Bronze Stick Bug Amulet.</p> </figcaption> </figure>
+
+<figure class="amulet-tier-icon"><img alt="Bronze Stick Bug Amulet" src="img/Bronze_Stick_Bug_Amulet.png"/><figcaption>The icon for the Bronze Stick Bug Amulet.</figcaption></figure>
+
+<p class="amulet-tier-obtain"><b>How to get:</b> At least <span style="border-bottom:1px dotted;" title="1,000,000">1M</span> score, must be at least a level 5 <a href="stick-bug.html">Stick Bug</a></p>
 
 <table class="article-table">
 <tbody><tr>
@@ -196,7 +199,6 @@ The requirements are based on your score and Stick Bug's level on a challenge.
 The tables below give the percentage of a certain stat on the amulet having strength within a specific range, at a few quality milestones. To see the percentage of a certain stat having a specific strength value, see [the designated subpage](stick-bug-amulet-probability.md#Bronze_Stick_Bug_Amulet).
 
 *Note that the precise percentages may be off due to floating point errors.*  
-Show/hide tables
 
 ### + Capacity
 
@@ -2044,9 +2046,14 @@ Show/hide tables
 <td>+5.8%
 </td></tr></tbody></table>
 
-### Silver Stick Bug Amulet
+///
 
-<figure class="thumb mw-halign-right" style="width: 180px" typeof="mw:File/Thumb">  <figcaption class="thumbcaption"> <p class="caption">The icon for the Silver Stick Bug Amulet.</p> </figcaption> </figure>
+/// tab | Silver <span class="tier-suffix">Stick Bug Amulet</span>
+
+
+<figure class="amulet-tier-icon"><img alt="Silver Stick Bug Amulet" src="img/Silver_Stick_Bug_Amulet.png"/><figcaption>The icon for the Silver Stick Bug Amulet.</figcaption></figure>
+
+<p class="amulet-tier-obtain"><b>How to get:</b> At least <span style="border-bottom:1px dotted;" title="8,000,000">8M</span> score, must be at least a level 8 <a href="stick-bug.html">Stick Bug</a></p>
 
 <table class="article-table">
 <tbody><tr>
@@ -2195,7 +2202,6 @@ Show/hide tables
 The tables below give the percentage of a certain stat on the amulet having strength within a specific range, at a few quality milestones. To see the percentage of a certain stat having a specific strength value, see [the designated subpage](stick-bug-amulet-probability.md#Silver_Stick_Bug_Amulet).
 
 *Note that the precise percentages may be off due to floating point errors.*  
-Show/hide tables
 
 ### + Capacity
 
@@ -4086,9 +4092,14 @@ Show/hide tables
 <td>+9.2%
 </td></tr></tbody></table>
 
-### Gold Stick Bug Amulet
+///
 
-<figure class="thumb mw-halign-right" style="width: 180px" typeof="mw:File/Thumb">  <figcaption class="thumbcaption"> <p class="caption">The icon for the Gold Stick Bug Amulet.</p> </figcaption> </figure>
+/// tab | Gold <span class="tier-suffix">Stick Bug Amulet</span>
+
+
+<figure class="amulet-tier-icon"><img alt="Gold Stick Bug Amulet" src="img/Gold_Stick_Bug_Amulet.png"/><figcaption>The icon for the Gold Stick Bug Amulet.</figcaption></figure>
+
+<p class="amulet-tier-obtain"><b>How to get:</b> At least <span style="border-bottom:1px dotted;" title="20,000,000">20M</span> score, must be at least a level 11 <a href="stick-bug.html">Stick Bug</a></p>
 
 <table class="article-table">
 <tbody><tr>
@@ -4258,7 +4269,6 @@ Show/hide tables
 The tables below give the percentage of a certain stat on the amulet having strength within a specific range, at a few quality milestones. To see the percentage of a certain stat having a specific strength value, see [the designated subpage](stick-bug-amulet-probability.md#Gold_Stick_Bug_Amulet).
 
 *Note that the precise percentages may be off due to floating point errors.*  
-Show/hide tables
 
 ### + Capacity
 
@@ -7271,9 +7281,14 @@ Show/hide tables
 <td>+13%
 </td></tr></tbody></table>
 
-### Diamond Stick Bug Amulet
+///
 
-<figure class="thumb mw-halign-right" style="width: 180px" typeof="mw:File/Thumb">  <figcaption class="thumbcaption"> <p class="caption">The icon for the Diamond Stick Bug Amulet.</p> </figcaption> </figure>
+/// tab | Diamond <span class="tier-suffix">Stick Bug Amulet</span>
+
+
+<figure class="amulet-tier-icon"><img alt="Diamond Stick Bug Amulet" src="img/Diamond_Stick_Bug_Amulet.png"/><figcaption>The icon for the Diamond Stick Bug Amulet.</figcaption></figure>
+
+<p class="amulet-tier-obtain"><b>How to get:</b> At least <span style="border-bottom:1px dotted;" title="50,000,000">50M</span> score, must be at least a level 13 <a href="stick-bug.html">Stick Bug</a></p>
 
 <table class="article-table">
 <tbody><tr>
@@ -7443,7 +7458,6 @@ Show/hide tables
 The tables below give the percentage of a certain stat on the amulet having strength within a specific range, at a few quality milestones. To see the percentage of a certain stat having a specific strength value, see [the designated subpage](stick-bug-amulet-probability.md#Diamond_Stick_Bug_Amulet).
 
 *Note that the precise percentages may be off due to floating point errors.*  
-Show/hide tables
 
 ### + Capacity
 
@@ -10278,6 +10292,8 @@ Show/hide tables
 </td>
 <td>+29%
 </td></tr></tbody></table>
+
+///
 
 ## Trivia
 
