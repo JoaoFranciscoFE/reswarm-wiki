@@ -63,6 +63,8 @@ When the player generates a Star Amulet, the following audio plays, with the sou
 
 *For more information on how amulets generate, see [Amulet#Generation](amulet.md#Generation).*
 
+*Stats in a "Select N" group are drawn evenly without repeats, so each one has an N in M chance. "Separate chance roll" means the stat only appears if an extra chance roll succeeds. "Low values more likely" means high values of that stat are rarer.*
+
 /// tab | Bronze <span class="tier-suffix">Star Amulet</span>
 
 
@@ -4622,14 +4624,14 @@ The tables below give the percentage of a certain stat on the amulet having stre
 </td>
 <td>-
 </td>
-<td>0.5%
+<td>0.5% (1% chance roll, then 1 of 2)
 </td></tr>
 <tr>
 <td><a href="passive-abilities.html#Star_Shower">Star Shower</a>
 </td>
 <td>-
 </td>
-<td>0.5%
+<td>0.5% (1% chance roll, then 1 of 2)
 </td></tr></tbody></table>
 
 The tables below give the percentage of a certain stat on the amulet having strength within a specific range, at a few quality milestones. To see the percentage of a certain stat having a specific strength value, see [the designated subpage](star-amulet-probability.md#Diamond_Star_Amulet).
@@ -5864,48 +5866,48 @@ The tables below give the percentage of a certain stat on the amulet having stre
 <td>55.5556%
 </td></tr>
 <tr>
-<td rowspan="6">Select 1 or 2
+<td rowspan="6">Select 1<br/>(2% chance of 2)
 </td>
 <td><a href="passive-abilities.html#Guiding_Star">Guiding Star</a>
 </td>
 <td>-
 </td>
-<td>16.6667% (select 1)<br/>33.3333% (select 2)<br/>
+<td>About 17%
 </td></tr>
 <tr>
 <td><a href="passive-abilities.html#Pop_Star">Pop Star</a>
 </td>
 <td>-
 </td>
-<td>16.6667% (select 1)<br/>33.3333% (select 2)<br/>
+<td>About 17%
 </td></tr>
 <tr>
 <td><a href="passive-abilities.html#Star_Shower">Star Shower</a>
 </td>
 <td>-
 </td>
-<td>16.6667% (select 1)<br/>33.3333% (select 2)<br/>
+<td>About 17%
 </td></tr>
 <tr>
 <td><a href="passive-abilities.html#Gummy_Star">Gummy Star</a>
 </td>
 <td>-
 </td>
-<td>16.6667% (select 1)<br/>33.3333% (select 2)<br/>
+<td>About 17%
 </td></tr>
 <tr>
 <td><a href="passive-abilities.html#Scorching_Star">Scorching Star</a>
 </td>
 <td>-
 </td>
-<td>16.6667% (select 1)<br/>33.3333% (select 2)<br/>
+<td>About 17%
 </td></tr>
 <tr>
 <td><a href="passive-abilities.html#Star_Saw">Star Saw</a>
 </td>
 <td>-
 </td>
-<td>16.6667% (select 1)<br/>33.3333% (select 2)<br/>
+<td>About 17%
 </td></tr></tbody></table>
 
 The Supreme Star Passives are the main feature of Supreme Star Amulets. There are 6 passives that the player can get, with a 1/6 chance of getting a specific one. There is also a 1/50 chance to get another passive, resulting in two passive abilities.

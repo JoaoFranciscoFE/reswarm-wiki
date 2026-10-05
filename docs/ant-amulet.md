@@ -64,6 +64,8 @@ The quality of the amulet increases linearly with the player's score until a sco
 
 *For more information on how amulets generate, see [Amulet#Generation](amulet.md#Generation).*
 
+*Stats in a "Select N" group are drawn evenly without repeats, so each one has an N in M chance. "Separate chance roll" means the stat only appears if an extra chance roll succeeds. "Low values more likely" means high values of that stat are rarer.*
+
 /// tab | Bronze <span class="tier-suffix">Ant Amulet</span>
 
 
@@ -793,7 +795,7 @@ The tables below give the percentage of a certain stat on the amulet having stre
 <tr>
 <td><a href="system-page.html#Critical_Power">Critical Power</a>
 </td>
-<td>+5% - +10%<br/>Intervals of 1%
+<td>+5% - +10%<br/>Intervals of 1%<br/>Low values more likely (bias 3:1)
 </td>
 <td>33.3333%
 </td></tr>
@@ -1723,9 +1725,9 @@ The tables below give the percentage of a certain stat on the amulet having stre
 </td>
 <td><a href="system-page.html#Bee_Attack">Bee Attack</a>
 </td>
-<td>+0 - +1<br/>Intervals of 1
+<td>+0 - +1<br/>Intervals of 1<br/>Low values more likely (bias 20:1)
 </td>
-<td>5%
+<td>5% (separate chance roll)
 </td></tr>
 <tr>
 <td rowspan="3">Select 1
@@ -1739,14 +1741,14 @@ The tables below give the percentage of a certain stat on the amulet having stre
 <tr>
 <td><a href="system-page.html#Critical_Chance">Critical Chance</a>
 </td>
-<td>+1% - +2%<br/>Intervals of 1%
+<td>+1% - +2%<br/>Intervals of 1%<br/>Low values more likely (bias 3:1)
 </td>
 <td>33.3333%
 </td></tr>
 <tr>
 <td><a href="system-page.html#Critical_Power">Critical Power</a>
 </td>
-<td>+10% - +25%<br/>Intervals of 1%
+<td>+10% - +25%<br/>Intervals of 1%<br/>Low values more likely (bias 3:1)
 </td>
 <td>33.3333%
 </td></tr>
@@ -2828,14 +2830,14 @@ The tables below give the percentage of a certain stat on the amulet having stre
 <tr>
 <td><a href="system-page.html#Critical_Chance">Critical Chance</a>
 </td>
-<td>+1% - +2%<br/>Intervals of 1%
+<td>+1% - +2%<br/>Intervals of 1%<br/>Low values more likely (bias 3:1)
 </td>
 <td>66.6667%
 </td></tr>
 <tr>
 <td><a href="system-page.html#Critical_Power">Critical Power</a>
 </td>
-<td>+25% - +40%<br/>Intervals of 1%
+<td>+25% - +40%<br/>Intervals of 1%<br/>Low values more likely (bias 3:1)
 </td>
 <td>66.6667%
 </td></tr>
@@ -3752,35 +3754,35 @@ The tables below give the percentage of a certain stat on the amulet having stre
 </td>
 <td><a href="system-page.html#Movespeed">Player Movespeed</a>
 </td>
-<td>+2 - +3<br/>Intervals of 1
+<td>+2 - +3<br/>Intervals of 1<br/>Low values more likely (bias 20:1)
 </td>
 <td>60%
 </td></tr>
 <tr>
 <td><a href="system-page.html#Critical_Chance">Critical Chance</a>
 </td>
-<td>+2% - +3%<br/>Intervals of 1%
+<td>+2% - +3%<br/>Intervals of 1%<br/>Low values more likely (bias 10:1)
 </td>
 <td>60%
 </td></tr>
 <tr>
 <td><a href="system-page.html#Critical_Power">Critical Power</a>
 </td>
-<td>+35% - +50%<br/>Intervals of 1%
+<td>+35% - +50%<br/>Intervals of 1%<br/>Low values more likely (bias 3:1)
 </td>
 <td>60%
 </td></tr>
 <tr>
 <td><a href="system-page.html#Bee_Attack">Bee Attack</a>
 </td>
-<td>+1
+<td>+1<br/>Low values more likely (bias 20:1)
 </td>
 <td>60%
 </td></tr>
 <tr>
 <td><a href="system-page.html#Pollen">Pollen</a>
 </td>
-<td>+1% - +5%<br/>Intervals of 1%
+<td>+1% - +5%<br/>Intervals of 1%<br/>Low values more likely (bias 10:1)
 </td>
 <td>60%
 </td></tr>
