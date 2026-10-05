@@ -46,6 +46,7 @@ Feed these to bees for bond, or to change them.
 
 <div class="wiki-cards">
 <a class="wiki-card" href="royal-jelly.html"><img src="img/Royal_Jelly.png" alt="" loading="lazy"><span>Royal Jelly</span></a>
+<a class="wiki-card" href="mythic-jelly.html"><img src="img/Mythic_Jelly.png" alt="" loading="lazy"><span>Mythic Jelly</span></a>
 <a class="wiki-card" href="egg.html"><img src="img/Star_Egg.png" alt="" loading="lazy"><span>Egg</span></a>
 </div>
 
@@ -134,6 +135,7 @@ Waxes upgrade beequips.
 <a class="wiki-card" href="broken-drive.html"><img src="img/Broken_Drive.png" alt="" loading="lazy"><span>Broken Drive</span></a>
 <a class="wiki-card" href="snowflake.html"><img src="img/Snowflake.png" alt="" loading="lazy"><span>Snowflake</span></a>
 <a class="wiki-card" href="spirit-petal.html"><img src="img/Spirit_Petal.png" alt="" loading="lazy"><span>Spirit Petal</span></a>
+<a class="wiki-card" href="research-points.html"><img src="img/Research_Points.png" alt="" loading="lazy"><span>Research Points</span></a>
 <a class="wiki-card" href="present.html"><img src="img/Present.png" alt="" loading="lazy"><span>Present</span></a>
 <a class="wiki-card" href="ornaments.html"><img src="img/Ornaments.png" alt="" loading="lazy"><span>Ornaments</span></a>
 <a class="wiki-card" href="translator.html"><img src="img/Translator.png" alt="" loading="lazy"><span>Translator</span></a>
@@ -144,4 +146,7 @@ Waxes upgrade beequips.
 <div class="wiki-cards">
 <a class="wiki-card" href="hive-slot.html"><img src="img/Shocked_Hive_Slot.png" alt="" loading="lazy"><span>Hive Slot</span></a>
 <a class="wiki-card" href="eviction.html"><img src="img/Eviction.png" alt="" loading="lazy"><span>Eviction</span></a>
+<a class="wiki-card" href="honeycomb-blueprint.html"><img src="img/Honeycomb_Blueprint.png" alt="" loading="lazy"><span>Honeycomb Blueprint</span></a>
+<a class="wiki-card" href="beequip-case.html"><img src="img/Beequip_Case.png" alt="" loading="lazy"><span>Beequip Case</span></a>
+<a class="wiki-card" href="sprinkler-builder.html"><img src="img/Sprinkler_Builder.png" alt="" loading="lazy"><span>Sprinkler Builder</span></a>
 </div>

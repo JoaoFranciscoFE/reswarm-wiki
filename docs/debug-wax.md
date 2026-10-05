@@ -1,18 +1,11 @@
 ---
 title: "Debug Wax"
-tags: ["Unobtainable", "Items", "Inventory", "Waxes", "Consumables"]
+tags: ["Items", "Inventory", "Waxes", "Consumables"]
 ---
 
 # Debug Wax
 
 ![Debug Wax](img/Debug_Wax.png){ align=right width=150 }
-
-<table style="color: #fff; background-color:#1c68355c; margin: 10px auto; border: 2px solid #ffffffd9; border-left: 15px solid #ffffffd9; border-radius: 5px">
-<tbody><tr>
-<td style="padding-left: 10px; width: 100px; font-size: 2vh; vertical-align: middle;"><span typeof="mw:Error mw:File"></span>
-</td>
-<td style="padding: 0.25em 0.5em;"><div style="display: flex; flex-direction: column; height: 100%; padding-right: 15px;"><b>This piece of content is unobtainable or inaccessible.</b><p style="margin: 0; color: #dbdbdb; font-size:1.5vh;">This content can no longer be obtained or accessed but still exists in the game. This content may still be subject to updates, so feel free to edit below.</p></div>
-</td></tr></tbody></table>
 
 Debug Wax
 
@@ -25,11 +18,18 @@ The Wax improved the Beequip!
 
 ## Ways to Obtain
 
-There are currently no ways to obtain a **Debug Wax**.
+* **Rebirth rewards:** 1, 3 or 10 depending on the rebirth, plus [Mother Bear](mother-bear.md)'s rebirth quest.
+* **[Blender](blender.md)** (takes 5 minutes):
+  * 1 [Turpentine](turpentine.md)
+  * 500 [Swirled Wax](swirled-wax.md)
+  * 500 [Caustic Wax](caustic-wax.md)
+
+## Crafting Uses
+
+* 10 Debug Wax are used to make [Fluxite Wax](fluxite-wax.md).
 
 ## Trivia
 
-* This is the only wax which is unable to be crafted.
 * This item functions almost the same as a [Caustic Wax](caustic-wax.md), the only difference being that it always succeeds.
   * This item originally shared its icon with Caustic Wax before the 2024-12-25 update.
 * This item originated from the Test Realm, being a risk-free way to upgrade Beequips, before officially being added to the game.
