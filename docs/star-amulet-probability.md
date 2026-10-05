@@ -9,6 +9,95 @@ The tables below give the percentage of a certain stat having a specific strengt
 
 /// tab | Bronze <span class="tier-suffix">Star Amulet</span>
 
+**What it can roll**
+
+<table class="article-table">
+<tbody><tr>
+<th>Number of stats taken
+</th>
+<th>Stat
+</th>
+<th>Range
+</th>
+<th>Probability of being selected
+</th></tr>
+<tr>
+<td>Guaranteed
+</td>
+<td><a href="system-page.html#Capacity_Multiplier">Capacity</a>
+</td>
+<td>x1.25
+</td>
+<td>100%
+</td></tr>
+<tr>
+<td rowspan="9">Select 2
+</td>
+<td><a href="system-page.html#Convert_Rate">Convert Rate</a>
+</td>
+<td>x1.05 - x1.15<br/>Intervals of 0.01
+</td>
+<td>22.2222%
+</td></tr>
+<tr>
+<td><a href="system-page.html#Pollen">Pollen</a>
+</td>
+<td>+5% - +15%<br/>Intervals of 1%
+</td>
+<td>22.2222%
+</td></tr>
+<tr>
+<td><a href="system-page.html#White_Pollen">White Pollen</a>
+</td>
+<td>+15% - +50%<br/>Intervals of 1%
+</td>
+<td>22.2222%
+</td></tr>
+<tr>
+<td><a href="system-page.html#Red_Pollen">Red Pollen</a>
+</td>
+<td>+15% - +50%<br/>Intervals of 1%
+</td>
+<td>22.2222%
+</td></tr>
+<tr>
+<td><a href="system-page.html#Blue_Pollen">Blue Pollen</a>
+</td>
+<td>+15% - +50%<br/>Intervals of 1%
+</td>
+<td>22.2222%
+</td></tr>
+<tr>
+<td><a href="system-page.html#Bee_Ability_Rate">Bee Ability Rate</a>
+</td>
+<td>+1% - +5%<br/>Intervals of 1%
+</td>
+<td>22.2222%
+</td></tr>
+<tr>
+<td><a href="system-page.html#Critical_Chance">Critical Chance</a>
+</td>
+<td>+1% - +5%<br/>Intervals of 1%
+</td>
+<td>22.2222%
+</td></tr>
+<tr>
+<td><a href="system-page.html#Bee_Gather_Pollen">Bee Gather Pollen</a>
+</td>
+<td>+15% - +50%<br/>Intervals of 1%
+</td>
+<td>22.2222%
+</td></tr>
+<tr>
+<td><a href="system-page.html#Instant_Conversion">Instant Conversion</a>
+</td>
+<td>+3% - +10%<br/>Intervals of 1%
+</td>
+<td>22.2222%
+</td></tr></tbody></table>
+
+**Chance breakdown**
+
 
 *Note that the precise percentages may be off due to floating point errors.*  
 
@@ -17425,6 +17514,95 @@ The tables below give the percentage of a certain stat having a specific strengt
 
 /// tab | Silver <span class="tier-suffix">Star Amulet</span>
 
+**What it can roll**
+
+<table class="article-table">
+<tbody><tr>
+<th>Number of stats taken
+</th>
+<th>Stat
+</th>
+<th>Range
+</th>
+<th>Probability of being selected
+</th></tr>
+<tr>
+<td>Guaranteed
+</td>
+<td><a href="system-page.html#Capacity_Multiplier">Capacity</a>
+</td>
+<td>x1.5
+</td>
+<td>100%
+</td></tr>
+<tr>
+<td rowspan="9">Select 3
+</td>
+<td><a href="system-page.html#Convert_Rate">Convert Rate</a>
+</td>
+<td>x1.05 - x1.15<br/>Intervals of 0.01
+</td>
+<td>33.3333%
+</td></tr>
+<tr>
+<td><a href="system-page.html#Pollen">Pollen</a>
+</td>
+<td>+5% - +15%<br/>Intervals of 1%
+</td>
+<td>33.3333%
+</td></tr>
+<tr>
+<td><a href="system-page.html#White_Pollen">White Pollen</a>
+</td>
+<td>+15% - +50%<br/>Intervals of 1%
+</td>
+<td>33.3333%
+</td></tr>
+<tr>
+<td><a href="system-page.html#Red_Pollen">Red Pollen</a>
+</td>
+<td>+15% - +50%<br/>Intervals of 1%
+</td>
+<td>33.3333%
+</td></tr>
+<tr>
+<td><a href="system-page.html#Blue_Pollen">Blue Pollen</a>
+</td>
+<td>+15% - +50%<br/>Intervals of 1%
+</td>
+<td>33.3333%
+</td></tr>
+<tr>
+<td><a href="system-page.html#Bee_Ability_Rate">Bee Ability Rate</a>
+</td>
+<td>+1% - +5%<br/>Intervals of 1%
+</td>
+<td>33.3333%
+</td></tr>
+<tr>
+<td><a href="system-page.html#Critical_Chance">Critical Chance</a>
+</td>
+<td>+1% - +5%<br/>Intervals of 1%
+</td>
+<td>33.3333%
+</td></tr>
+<tr>
+<td><a href="system-page.html#Bee_Gather_Pollen">Bee Gather Pollen</a>
+</td>
+<td>+15% - +50%<br/>Intervals of 1%
+</td>
+<td>33.3333%
+</td></tr>
+<tr>
+<td><a href="system-page.html#Instant_Conversion">Instant Conversion</a>
+</td>
+<td>+3% - +10%<br/>Intervals of 1%
+</td>
+<td>33.3333%
+</td></tr></tbody></table>
+
+**Chance breakdown**
+
 
 *Note that the precise percentages may be off due to floating point errors.*  
 
@@ -32776,6 +32954,95 @@ The tables below give the percentage of a certain stat having a specific strengt
 
 /// tab | Gold <span class="tier-suffix">Star Amulet</span>
 
+**What it can roll**
+
+<table class="article-table">
+<tbody><tr>
+<th>Number of stats taken
+</th>
+<th>Stat
+</th>
+<th>Range
+</th>
+<th>Probability of being selected
+</th></tr>
+<tr>
+<td>Guaranteed
+</td>
+<td><a href="system-page.html#Capacity_Multiplier">Capacity</a>
+</td>
+<td>x1.75
+</td>
+<td>100%
+</td></tr>
+<tr>
+<td rowspan="9">Select 4
+</td>
+<td><a href="system-page.html#Convert_Rate">Convert Rate</a>
+</td>
+<td>x1.05 - x1.15<br/>Intervals of 0.01
+</td>
+<td>44.4444%
+</td></tr>
+<tr>
+<td><a href="system-page.html#Pollen">Pollen</a>
+</td>
+<td>+5% - +15%<br/>Intervals of 1%
+</td>
+<td>44.4444%
+</td></tr>
+<tr>
+<td><a href="system-page.html#White_Pollen">White Pollen</a>
+</td>
+<td>+15% - +50%<br/>Intervals of 1%
+</td>
+<td>44.4444%
+</td></tr>
+<tr>
+<td><a href="system-page.html#Red_Pollen">Red Pollen</a>
+</td>
+<td>+15% - +50%<br/>Intervals of 1%
+</td>
+<td>44.4444%
+</td></tr>
+<tr>
+<td><a href="system-page.html#Blue_Pollen">Blue Pollen</a>
+</td>
+<td>+15% - +50%<br/>Intervals of 1%
+</td>
+<td>44.4444%
+</td></tr>
+<tr>
+<td><a href="system-page.html#Bee_Ability_Rate">Bee Ability Rate</a>
+</td>
+<td>+1% - +5%<br/>Intervals of 1%
+</td>
+<td>44.4444%
+</td></tr>
+<tr>
+<td><a href="system-page.html#Critical_Chance">Critical Chance</a>
+</td>
+<td>+1% - +5%<br/>Intervals of 1%
+</td>
+<td>44.4444%
+</td></tr>
+<tr>
+<td><a href="system-page.html#Bee_Gather_Pollen">Bee Gather Pollen</a>
+</td>
+<td>+15% - +50%<br/>Intervals of 1%
+</td>
+<td>44.4444%
+</td></tr>
+<tr>
+<td><a href="system-page.html#Instant_Conversion">Instant Conversion</a>
+</td>
+<td>+3% - +10%<br/>Intervals of 1%
+</td>
+<td>44.4444%
+</td></tr></tbody></table>
+
+**Chance breakdown**
+
 
 *Note that the precise percentages may be off due to floating point errors.*  
 
@@ -43997,6 +44264,111 @@ The tables below give the percentage of a certain stat having a specific strengt
 
 /// tab | Diamond <span class="tier-suffix">Star Amulet</span>
 
+**What it can roll**
+
+<table class="article-table">
+<tbody><tr>
+<th>Number of stats taken
+</th>
+<th>Stat
+</th>
+<th>Range
+</th>
+<th>Probability of being selected
+</th></tr>
+<tr>
+<td>Guaranteed
+</td>
+<td><a href="system-page.html#Capacity_Multiplier">Capacity</a>
+</td>
+<td>x2
+</td>
+<td>100%
+</td></tr>
+<tr>
+<td rowspan="9">Select 5
+</td>
+<td><a href="system-page.html#Convert_Rate">Convert Rate</a>
+</td>
+<td>x1.05 - x1.15<br/>Intervals of 0.01
+</td>
+<td>55.5556%
+</td></tr>
+<tr>
+<td><a href="system-page.html#Pollen">Pollen</a>
+</td>
+<td>+5% - +15%<br/>Intervals of 1%
+</td>
+<td>55.5556%
+</td></tr>
+<tr>
+<td><a href="system-page.html#White_Pollen">White Pollen</a>
+</td>
+<td>+15% - +50%<br/>Intervals of 1%
+</td>
+<td>55.5556%
+</td></tr>
+<tr>
+<td><a href="system-page.html#Red_Pollen">Red Pollen</a>
+</td>
+<td>+15% - +50%<br/>Intervals of 1%
+</td>
+<td>55.5556%
+</td></tr>
+<tr>
+<td><a href="system-page.html#Blue_Pollen">Blue Pollen</a>
+</td>
+<td>+15% - +50%<br/>Intervals of 1%
+</td>
+<td>55.5556%
+</td></tr>
+<tr>
+<td><a href="system-page.html#Bee_Ability_Rate">Bee Ability Rate</a>
+</td>
+<td>+1% - +5%<br/>Intervals of 1%
+</td>
+<td>55.5556%
+</td></tr>
+<tr>
+<td><a href="system-page.html#Critical_Chance">Critical Chance</a>
+</td>
+<td>+1% - +5%<br/>Intervals of 1%
+</td>
+<td>55.5556%
+</td></tr>
+<tr>
+<td><a href="system-page.html#Bee_Gather_Pollen">Bee Gather Pollen</a>
+</td>
+<td>+15% - +50%<br/>Intervals of 1%
+</td>
+<td>55.5556%
+</td></tr>
+<tr>
+<td><a href="system-page.html#Instant_Conversion">Instant Conversion</a>
+</td>
+<td>+3% - +10%<br/>Intervals of 1%
+</td>
+<td>55.5556%
+</td></tr>
+<tr>
+<td rowspan="2">Select 1
+</td>
+<td><a href="passive-abilities.html#Guiding_Star">Guiding Star</a>
+</td>
+<td>-
+</td>
+<td>0.5% (1% chance roll, then 1 of 2)
+</td></tr>
+<tr>
+<td><a href="passive-abilities.html#Star_Shower">Star Shower</a>
+</td>
+<td>-
+</td>
+<td>0.5% (1% chance roll, then 1 of 2)
+</td></tr></tbody></table>
+
+**Chance breakdown**
+
 
 *Note that the precise percentages may be off due to floating point errors.*  
 
@@ -51087,6 +51459,139 @@ The tables below give the percentage of a certain stat having a specific strengt
 ///
 
 /// tab | Supreme <span class="tier-suffix">Star Amulet</span>
+
+**What it can roll**
+
+<table class="article-table">
+<tbody><tr>
+<th>Number of stats taken
+</th>
+<th>Stat
+</th>
+<th>Range
+</th>
+<th>Probability of being selected
+</th></tr>
+<tr>
+<td>Guaranteed
+</td>
+<td><a href="system-page.html#Capacity_Multiplier">Capacity</a>
+</td>
+<td>x2.5
+</td>
+<td>100%
+</td></tr>
+<tr>
+<td rowspan="9">Select 5
+</td>
+<td><a href="system-page.html#Convert_Rate">Convert Rate</a>
+</td>
+<td>x1.05 - x1.25<br/>Intervals of 0.01
+</td>
+<td>55.5556%
+</td></tr>
+<tr>
+<td><a href="system-page.html#Pollen">Pollen</a>
+</td>
+<td>+5% - +20%<br/>Intervals of 1%
+</td>
+<td>55.5556%
+</td></tr>
+<tr>
+<td><a href="system-page.html#White_Pollen">White Pollen</a>
+</td>
+<td>+15% - +70%<br/>Intervals of 1%
+</td>
+<td>55.5556%
+</td></tr>
+<tr>
+<td><a href="system-page.html#Red_Pollen">Red Pollen</a>
+</td>
+<td>+15% - +70%<br/>Intervals of 1%
+</td>
+<td>55.5556%
+</td></tr>
+<tr>
+<td><a href="system-page.html#Blue_Pollen">Blue Pollen</a>
+</td>
+<td>+15% - +70%<br/>Intervals of 1%
+</td>
+<td>55.5556%
+</td></tr>
+<tr>
+<td><a href="system-page.html#Bee_Ability_Rate">Bee Ability Rate</a>
+</td>
+<td>+1% - +7%<br/>Intervals of 1%
+</td>
+<td>55.5556%
+</td></tr>
+<tr>
+<td><a href="system-page.html#Critical_Chance">Critical Chance</a>
+</td>
+<td>+1% - +7%<br/>Intervals of 1%
+</td>
+<td>55.5556%
+</td></tr>
+<tr>
+<td><a href="system-page.html#Bee_Gather_Pollen">Bee Gather Pollen</a>
+</td>
+<td>+15% - +70%<br/>Intervals of 1%
+</td>
+<td>55.5556%
+</td></tr>
+<tr>
+<td><a href="system-page.html#Instant_Conversion">Instant Conversion</a>
+</td>
+<td>+3% - +12%<br/>Intervals of 1%
+</td>
+<td>55.5556%
+</td></tr>
+<tr>
+<td rowspan="6">Select 1<br/>(2% chance of 2)
+</td>
+<td><a href="passive-abilities.html#Guiding_Star">Guiding Star</a>
+</td>
+<td>-
+</td>
+<td>About 17%
+</td></tr>
+<tr>
+<td><a href="passive-abilities.html#Pop_Star">Pop Star</a>
+</td>
+<td>-
+</td>
+<td>About 17%
+</td></tr>
+<tr>
+<td><a href="passive-abilities.html#Star_Shower">Star Shower</a>
+</td>
+<td>-
+</td>
+<td>About 17%
+</td></tr>
+<tr>
+<td><a href="passive-abilities.html#Gummy_Star">Gummy Star</a>
+</td>
+<td>-
+</td>
+<td>About 17%
+</td></tr>
+<tr>
+<td><a href="passive-abilities.html#Scorching_Star">Scorching Star</a>
+</td>
+<td>-
+</td>
+<td>About 17%
+</td></tr>
+<tr>
+<td><a href="passive-abilities.html#Star_Saw">Star Saw</a>
+</td>
+<td>-
+</td>
+<td>About 17%
+</td></tr></tbody></table>
+
+**Chance breakdown**
 
 
 *Note that the precise percentages may be off due to floating point errors.*  
