@@ -1,6 +1,6 @@
 site_name: "Re://:Swarm Wiki"
 site_url: https://reswarm.org/
-site_description: "The community wiki for Re://:Swarm, a reimagined take on classic Bee Swarm Simulator on Roblox. Bees, items, fields, quests, codes and update logs."
+site_description: "The community wiki for Re://:Swarm (Re Swarm, ReSwarm), a reimagined take on classic Bee Swarm Simulator on Roblox. Bees, items, fields, quests, codes and update logs."
 use_directory_urls: false
 theme:
   name: material
@@ -35,10 +35,14 @@ markdown_extensions:
   - pymdownx.blocks.tab:
       alternate_style: true
 extra_css: [stylesheets/wiki.css]
-hooks: [hooks/cache_bust.py, hooks/nav_links.py, hooks/page_description.py, hooks/tool_patterns.py, hooks/performance.py]
+hooks: [hooks/cache_bust.py, hooks/nav_links.py, hooks/page_description.py, hooks/tool_patterns.py, hooks/performance.py, hooks/seo.py]
 extra_javascript:
   - javascripts/mathjax.js
   - javascripts/tabs.js
+extra:
+  # Paste the content="..." value from Google Search Console / Bing Webmaster Tools here.
+  google_site_verification: ""
+  bing_site_verification: ""
 copyright: "Content adapted from the Bee Swarm Simulator Wiki (Fandom), licensed under CC BY-SA 3.0."
 nav:
   - "Home": index.md

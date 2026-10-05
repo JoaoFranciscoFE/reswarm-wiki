@@ -1,5 +1,33 @@
 {% extends "base.html" %}
 
+{% block htmltitle %}
+  {% if page and page.is_homepage %}
+    <title>Re://:Swarm Wiki (ReSwarm, Re Swarm) - Bees, Items, Codes and Guides</title>
+  {% else %}
+    {{ super() }}
+  {% endif %}
+  {% if config.extra.google_site_verification %}<meta name="google-site-verification" content="{{ config.extra.google_site_verification }}">{% endif %}
+  {% if config.extra.bing_site_verification %}<meta name="msvalidate.01" content="{{ config.extra.bing_site_verification }}">{% endif %}
+  {% if page and page.is_homepage %}
+  <script type="application/ld+json">
+  {"@context": "https://schema.org", "@graph": [
+    {"@type": "WebSite", "@id": "{{ config.site_url }}#website", "url": "{{ config.site_url }}",
+     "name": "Re://:Swarm Wiki",
+     "alternateName": ["ReSwarm Wiki", "Reswarm Wiki", "Re Swarm Wiki", "Re://:Swarm", "ReSwarm", "Re Swarm", "reswarm.org"],
+     "description": {{ config.site_description | tojson }},
+     "inLanguage": "en",
+     "about": {"@id": "{{ config.site_url }}#game"}},
+    {"@type": "VideoGame", "@id": "{{ config.site_url }}#game", "name": "Re://:Swarm",
+     "alternateName": ["Re Swarm", "ReSwarm", "Reswarm"],
+     "gamePlatform": "Roblox", "datePublished": "2026-08-26",
+     "author": {"@id": "{{ config.site_url }}#org"}},
+    {"@type": "Organization", "@id": "{{ config.site_url }}#org", "name": "ReplicatedEvents",
+     "url": "{{ config.site_url }}", "logo": "{{ config.site_url }}images/og-image.png"}
+  ]}
+  </script>
+  {% endif %}
+{% endblock %}
+
 {% block extrahead %}
   {% set desc = page.meta.description if page and page.meta and page.meta.description else config.site_description %}
   {% set title = page.title ~ " - " ~ config.site_name if page and page.title and not page.is_homepage else config.site_name %}
