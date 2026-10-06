@@ -1,9 +1,9 @@
 // Hive builder (hive-builder.md). Runs only on pages that have #hive-builder-app.
 (() => {
-  // Hive size, from the game: 25 slots to start, more bought one at a time in the
-  // Honeycomb Blueprint up to row 100 (500 slots). The hive always shows at least
-  // 10 rows; cells past your slot count are locked. Slot N fills left to right, bottom row first.
-  const MIN_SLOTS = 25, MAX_SLOTS = 500, COLS = 5, MIN_ROWS = 10;
+  // Hive size: 25 slots to start, more bought one at a time in the Honeycomb Blueprint
+  // (capped at 115 here). The hive always shows at least 10 rows; cells past your slot
+  // count are locked. Slot N fills left to right, bottom row first.
+  const MIN_SLOTS = 25, MAX_SLOTS = 115, COLS = 5, MIN_ROWS = 10;
   const HEX_H = Math.sqrt(3) / 2;               // flat-top hexagon height for width 1
   const GRID_W = 0.75 * (COLS - 1) + 1;          // grid width in hexagon widths
   const rowsFor = slots => Math.max(MIN_ROWS, Math.ceil(slots / COLS));
@@ -222,7 +222,7 @@
       const p = new URLSearchParams(text.replace(/^#/, ""));
       if (!p.has("slots") && !p.has("hive")) return false;
       const n = parseInt(p.get("slots"), 10);
-      s.slots = n >= MIN_SLOTS && n <= MAX_SLOTS ? n : MIN_SLOTS;
+      s.slots = n >= MIN_SLOTS ? Math.min(n, MAX_SLOTS) : MIN_SLOTS;
       s.cells.fill(null);
       const hive = p.get("hive") || "", seen = new Set();
       for (let i = 0; i < MAX_SLOTS && i * 2 + 1 < hive.length; i++) {
