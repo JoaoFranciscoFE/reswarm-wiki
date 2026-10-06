@@ -87,6 +87,23 @@ If that flower is already your colour and at max tier, the paint goes to another
 * **Rebirth 35** rewards a Painter Bee Egg.
 * The 1st Edition Painter Bee Voucher comes in the Painter Bee's Colorful Haul pack (see [Painter Bee event](painter-bee-event.md#shop)).
 
+## Stickers
+
+These are the stickers Painter Bee can find for you. Odds are from the game's code.
+
+| | Sticker | How | Chance |
+|---|---|---|---|
+| ![Painter Bee Painting](img/Painter_Bee_Painting.png){ width=40 } | [Painter Bee Painting](sticker.md) | Gathering while not Gifted | 1 in 7,500 per flower gathered |
+| ![Painter Bee Painting](img/Painter_Bee_Painting.png){ width=40 } | [Painter Bee Painting](sticker.md) | Gathering while Gifted | 1 in 6,000 per flower gathered |
+| ![Red Paint Splatter](img/Red_Paint_Splatter.png){ width=40 } | [Red Paint Splatter](sticker.md) | Collecting a Color Splat token while your Paint color is Red | 1 in 1,000 per token |
+| ![Blue Paint Splatter](img/Blue_Paint_Splatter.png){ width=40 } | [Blue Paint Splatter](sticker.md) | Collecting a Color Splat token while your Paint color is Blue | 1 in 1,000 per token |
+| ![White Paint Splatter](img/White_Paint_Splatter.png){ width=40 } | [White Paint Splatter](sticker.md) | Collecting a Color Splat token while your Paint color is White | 1 in 1,000 per token |
+| ![Gifted Painter Bee](img/Gifted_Painter_Bee.png){ width=40 } | [Gifted Painter Bee](sticker.md) | A Gifted Painter Bee summoning a Painter's Haze | 1 in 5,000 per Painter's Haze |
+| ![Painter's Doodle](img/Painter's_Doodle.png){ width=40 } | [Painter's Doodle](sticker.md) | Stacking all 3 Paint Splatters in your Sticker Stack | Guaranteed, once |
+| ![Painter Bee's Artistic Hive Skin](img/Painter_Bee's_Artistic_Hive_Skin.png){ width=40 } | [Painter Bee's Artistic Hive Skin](sticker.md) | Stacking every Painter Bee sticker in your Sticker Stack | Guaranteed, once |
+
+Like any bee, it can also find the stickers listed under [Bee sticker drops](sticker.md#bee-sticker-drops).
+
 ## See also
 
 * [Painter Bee event](painter-bee-event.md)

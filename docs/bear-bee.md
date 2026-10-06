@@ -301,6 +301,18 @@ Bear Bee likes the [Pumpkin Patch](pumpkin-patch.md) and the [Pine Tree Forest](
 </td></tr>
 </tbody></table>
 
+## Stickers
+
+These are the stickers Bear Bee can find for you. Odds are from the game's code.
+
+| | Sticker | How | Chance |
+|---|---|---|---|
+| ![Bear Bee Offer](img/Bear_Bee_Offer.png){ width=40 } | [Bear Bee Offer](sticker.md) | Gathering while Gifted in the [Pineapple Patch](pineapple-patch.md) | 1 in 100,000 per flower gathered |
+
+<p class="game-bug"><b>Game bug:</b> The Bear Bee Offer sticker says it comes from feeding a Star Treat to an already Gifted Bear Bee, but the game never rolls stickers when you feed a bee, so this way doesn't work.</p>
+
+Like any bee, it can also find the stickers listed under [Bee sticker drops](sticker.md#bee-sticker-drops).
+
 ## Trivia
 
 * Bear Morph's extra jump power and speed can give early access to things such as [royal jellies](royal-jelly.md) and [tickets](ticket.md) that can normally only be accessed later in the game.

@@ -307,6 +307,16 @@ Unlike other bees, this bee has a unique perk: its stats increase permanently wi
 </td></tr>
 </tbody></table>
 
+## Stickers
+
+Tabby Bee has no working sticker drop of its own.
+
+<p class="game-bug"><b>Game bug:</b> The Tabby Scratch sticker says it comes from collecting Tabby Love at max stacks while a Stinger is active, but nothing in the game gives it, so it can't be obtained.</p>
+
+<p class="game-bug"><b>Game bug:</b> The Tabby From Behind sticker says it comes from feeding a Moon Charm at max Tabby Love, but the game never rolls stickers when you feed a bee, so this way doesn't work.</p>
+
+Like any bee, it can also find the stickers listed under [Bee sticker drops](sticker.md#bee-sticker-drops).
+
 ## Trivia
 
 * When Tabby Bee was added, the maximum Tabby Love stack was mistakenly set to 500. This mistake was fixed in a later update.

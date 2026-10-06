@@ -337,6 +337,17 @@ Tadpole Bee likes the [Pine Tree Forest](pine-tree-forest.md) and [Stump Field](
 </td></tr>
 </tbody></table>
 
+## Stickers
+
+These are the stickers Tadpole Bee can find for you. Odds are from the game's code.
+
+| | Sticker | How | Chance |
+|---|---|---|---|
+| ![Tadpole](img/Tadpole.png){ width=40 } | [Tadpole](sticker.md) | Gathering in the [Mushroom Field](mushroom-field.md) | 1 in 25,000 per flower gathered |
+| ![Tadpole](img/Tadpole.png){ width=40 } | [Tadpole](sticker.md) | Popping one of its Bubbles | 1 in 1,000,000 per Bubble |
+
+Like any bee, it can also find the stickers listed under [Bee sticker drops](sticker.md#bee-sticker-drops).
+
 ## Trivia
 
 * The Tadpole Bee, [Lion Bee](lion-bee.md), [Tabby Bee](tabby-bee.md), [Bear Bee](bear-bee.md), and [Puppy Bee](puppy-bee.md) are the only [bees](bees.md) to represent realistic animals.

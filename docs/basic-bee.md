@@ -338,6 +338,20 @@ Basic Bee likes the [Sunflower Field](sunflower-field.md), [Clover Field](clover
 
 *For a list of icons and thumbnails, see [Re://:Swarm](re-swarm.md).*
 
+## Stickers
+
+These are the stickers Basic Bee can find for you. Odds are from the game's code.
+
+| | Sticker | How | Chance |
+|---|---|---|---|
+| ![Little Scorpion](img/Little_Scorpion.png){ width=40 } | [Little Scorpion](sticker.md) | Gathering in the [Rose Field](rose-field.md) | 1 in 25,000 per flower gathered |
+| ![Round Basic Bee](img/Round_Basic_Bee.png){ width=40 } | [Round Basic Bee](sticker.md) | Gathering with a Mutation in the [Pumpkin Patch](pumpkin-patch.md) | 1 in 25,000,000 per flower gathered |
+| ![Simple Mountain](img/Simple_Mountain.png){ width=40 } | [Simple Mountain](sticker.md) | Gathering in the [Mountain Top Field](mountain-top-field.md) | 1 in 10,000 per flower gathered |
+
+<p class="game-bug"><b>Game bug:</b> The Round Basic Bee sticker says it comes from feeding a Neonberry to a Basic Bee, but the game never rolls stickers when you feed a bee, so this way doesn't work.</p>
+
+Like any bee, it can also find the stickers listed under [Bee sticker drops](sticker.md#bee-sticker-drops).
+
 ## Trivia
 
 * Basic Bee is the only type of Common bee.

@@ -369,6 +369,17 @@ Festive Bee likes the [Mountain Top Field](mountain-top-field.md), [Mushroom Fie
 </td></tr>
 </tbody></table>
 
+## Stickers
+
+These are the stickers Festive Bee can find for you. Odds are from the game's code.
+
+| | Sticker | How | Chance |
+|---|---|---|---|
+| ![Explosion](img/Explosion.png){ width=40 } | [Explosion](sticker.md) | Collecting one of its Bomb tokens | 1 in 100,000 per token |
+| ![Saturn](img/Saturn.png){ width=40 } | [Saturn](sticker.md) | Having 10 Marks active at once (its Marks count toward this) | Guaranteed, once |
+
+Like any bee, it can also find the stickers listed under [Bee sticker drops](sticker.md#bee-sticker-drops).
+
 ## Trivia
 
 * When this bee's egg was moved to the [Ticket Tent](ticket-tent.md), it replaced [Gummy Bee](gummy-bee.md)'s spot.

@@ -333,6 +333,18 @@ Lion Bee likes the [Ant Field](ant-field.md) and the [Pineapple Patch](pineapple
 </td></tr>
 </tbody></table>
 
+## Stickers
+
+These are the stickers Lion Bee can find for you. Odds are from the game's code.
+
+| | Sticker | How | Chance |
+|---|---|---|---|
+| ![Left Facing Ant](img/Left_Facing_Ant.png){ width=40 } | [Left Facing Ant](sticker.md) | Gathering in the [Ant Field](ant-field.md) | 1 in 10,000 per flower gathered |
+| ![Pyramid](img/Pyramid.png){ width=40 } | [Pyramid](sticker.md) | Gathering in the [Cactus Field](cactus-field.md) | 1 in 10,000 per flower gathered |
+| ![Explosion](img/Explosion.png){ width=40 } | [Explosion](sticker.md) | Collecting one of its Bomb tokens | 1 in 100,000 per token |
+
+Like any bee, it can also find the stickers listed under [Bee sticker drops](sticker.md#bee-sticker-drops).
+
 ## Trivia
 
 * The Lion Bee has the highest **base** attack stat in the game.

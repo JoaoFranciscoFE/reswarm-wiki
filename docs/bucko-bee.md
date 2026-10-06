@@ -403,6 +403,16 @@ Bucko Bee likes the [Blue Flower Field](blue-flower-field.md), [Bamboo Field](ba
 </td></tr>
 </tbody></table>
 
+## Stickers
+
+These are the stickers Bucko Bee can find for you. Odds are from the game's code.
+
+| | Sticker | How | Chance |
+|---|---|---|---|
+| ![Small Tickseed](img/Small_Tickseed.png){ width=40 } | [Small Tickseed](sticker.md) | Gathering in the [Sunflower Field](sunflower-field.md) or the [Clover Field](clover-field.md) | 1 in 2,500 per flower gathered |
+
+Like any bee, it can also find the stickers listed under [Bee sticker drops](sticker.md#bee-sticker-drops).
+
 ## Trivia
 
 * As per the description, this [bee](bees.md) is the rival and counterpart of [Riley Bee](riley-bee.md).

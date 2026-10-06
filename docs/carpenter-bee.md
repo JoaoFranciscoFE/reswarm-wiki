@@ -334,6 +334,16 @@ Carpenter Bee likes the [Bamboo Field](bamboo-field.md), and [Pine Tree Forest](
 </td></tr>
 </tbody></table>
 
+## Stickers
+
+These are the stickers Carpenter Bee can find for you. Odds are from the game's code.
+
+| | Sticker | How | Chance |
+|---|---|---|---|
+| ![Saturn](img/Saturn.png){ width=40 } | [Saturn](sticker.md) | Having 10 Marks active at once (its Marks count toward this) | Guaranteed, once |
+
+Like any bee, it can also find the stickers listed under [Bee sticker drops](sticker.md#bee-sticker-drops).
+
 ## Trivia
 
 * Carpenter Bee and Music Bee are also the only Legendary bees added in an update.

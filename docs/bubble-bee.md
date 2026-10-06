@@ -402,6 +402,18 @@ Bubble Bee likes the [Blue Flower Field](blue-flower-field.md) and the [Pine Tre
 </td></tr>
 </tbody></table>
 
+## Stickers
+
+These are the stickers Bubble Bee can find for you. Odds are from the game's code.
+
+| | Sticker | How | Chance |
+|---|---|---|---|
+| ![Sitting Green Shirt Bear](img/Sitting_Green_Shirt_Bear.png){ width=40 } | [Sitting Green Shirt Bear](sticker.md) | Gathering in the [Clover Field](clover-field.md) | 1 in 2,500 per flower gathered |
+| ![Explosion](img/Explosion.png){ width=40 } | [Explosion](sticker.md) | Collecting one of its Bomb tokens | 1 in 100,000 per token |
+| ![Tadpole](img/Tadpole.png){ width=40 } | [Tadpole](sticker.md) | Popping one of its Bubbles | 1 in 1,000,000 per Bubble |
+
+Like any bee, it can also find the stickers listed under [Bee sticker drops](sticker.md#bee-sticker-drops).
+
 ## Trivia
 
 * Bubble Bee is the blue counterpart of [Fire Bee](fire-bee.md).

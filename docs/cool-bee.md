@@ -401,6 +401,17 @@ Cool Bee likes the [Bamboo Field](bamboo-field.md) and the [Pine Tree Forest](pi
 </td></tr>
 </tbody></table>
 
+## Stickers
+
+These are the stickers Cool Bee can find for you. Odds are from the game's code.
+
+| | Sticker | How | Chance |
+|---|---|---|---|
+| ![Peace Sign Hand](img/Peace_Sign_Hand.png){ width=40 } | [Peace Sign Hand](sticker.md) | Gathering while Gifted in the [Pepper Patch](pepper-patch.md) | 1 in 10,000 per flower gathered |
+| ![Thumbs Up Hand](img/Thumbs_Up_Hand.png){ width=40 } | [Thumbs Up Hand](sticker.md) | Gathering while Gifted in the [Stump Field](stump-field.md) | 1 in 10,000 per flower gathered |
+
+Like any bee, it can also find the stickers listed under [Bee sticker drops](sticker.md#bee-sticker-drops).
+
 ## Trivia
 
 * Its red counterpart is [Rad Bee](rad-bee.md).

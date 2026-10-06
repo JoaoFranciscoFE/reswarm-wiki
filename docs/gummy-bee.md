@@ -300,6 +300,17 @@ Gummy Bee likes the [Pineapple Patch](pineapple-patch.md), [Mountain Top Field](
 </td></tr>
 </tbody></table>
 
+## Stickers
+
+These are the stickers Gummy Bee can find for you. Odds are from the game's code.
+
+| | Sticker | How | Chance |
+|---|---|---|---|
+| ![Launching Rocket](img/Launching_Rocket.png){ width=40 } | [Launching Rocket](sticker.md) | Gathering in the [Clover Field](clover-field.md) | 1 in 10,000 per flower gathered |
+| ![Yellow Sticky Hand](img/Yellow_Sticky_Hand.png){ width=40 } | [Yellow Sticky Hand](sticker.md) | Gathering in the [Sunflower Field](sunflower-field.md) | 1 in 25,000 per flower gathered |
+
+Like any bee, it can also find the stickers listed under [Bee sticker drops](sticker.md#bee-sticker-drops).
+
 ## Trivia
 
 * There is a model of the Gummy Bee on the [Gummy Bee Claimer](gummy-bee-egg-claim.md). Using [gumdrops](gumdrops.md) right after touching it and receiving the message; "The Gummy Bee wants gumdrops" will teleport the player to [Gummy Bear's Lair](gummy-bear-s-lair.md). The player must have the [Goo Hotshot Badge](badges.md#Goo_Badge) to enter the lair, or else there is a message that says "Only Goo Hotshots can hear Gummy Bee...".

@@ -403,6 +403,21 @@ Diamond Bee likes the [Blue Flower Field](blue-flower-field.md), and [Pineapple 
 </td></tr>
 </tbody></table>
 
+## Stickers
+
+These are the stickers Diamond Bee can find for you. Odds are from the game's code.
+
+| | Sticker | How | Chance |
+|---|---|---|---|
+| ![Black Diamond](img/Black_Diamond.png){ width=40 } | [Black Diamond](sticker.md) | Gathering in a field it dislikes ([Rose Field](rose-field.md)) | 1 in 100,000 per flower gathered |
+| ![Diamond Cluster](img/Diamond_Cluster.png){ width=40 } | [Diamond Cluster](sticker.md) | Gathering in the [Mountain Top Field](mountain-top-field.md) | 1 in 100,000 per flower gathered |
+| ![Diamond Cluster](img/Diamond_Cluster.png){ width=40 } | [Diamond Cluster](sticker.md) | Gathering while Gifted | 1 in 1,000,000 per flower gathered |
+| ![Diamond Diamond Bee](img/Diamond_Diamond_Bee.png){ width=40 } | [Diamond Diamond Bee](sticker.md) | Gathering while Gifted in the [Mountain Top Field](mountain-top-field.md) | 1 in 1,000,000 per flower gathered |
+
+<p class="game-bug"><b>Game bug:</b> The Diamond Diamond Bee sticker says it comes from feeding a Neonberry to a Diamond Bee, but the game never rolls stickers when you feed a bee, so this way doesn't work.</p>
+
+Like any bee, it can also find the stickers listed under [Bee sticker drops](sticker.md#bee-sticker-drops).
+
 ## Trivia
 
 * The light colors around Diamond Bee make it nearly translucent.

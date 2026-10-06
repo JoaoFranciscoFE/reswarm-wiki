@@ -407,6 +407,16 @@ Precise Bee likes the [Mountain Top Field](mountain-top-field.md) and [Rose Fiel
 </td></tr>
 </tbody></table>
 
+## Stickers
+
+These are the stickers Precise Bee can find for you. Odds are from the game's code.
+
+| | Sticker | How | Chance |
+|---|---|---|---|
+| ![Saturn](img/Saturn.png){ width=40 } | [Saturn](sticker.md) | Having 10 Marks active at once (its Marks count toward this) | Guaranteed, once |
+
+Like any bee, it can also find the stickers listed under [Bee sticker drops](sticker.md#bee-sticker-drops).
+
 ## Trivia
 
 * Excluding Event bees, this bee, [Demon Bee](demon-bee.md) and [Fire Bee](fire-bee.md) are the only red bees currently in the game whose favorite treat is not strawberries.

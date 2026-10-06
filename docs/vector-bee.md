@@ -340,6 +340,18 @@ Vector Bee likes the [Spider Field](spider-field.md) and the [Coconut Field](coc
 </td></tr>
 </tbody></table>
 
+## Stickers
+
+These are the stickers Vector Bee can find for you. Odds are from the game's code.
+
+| | Sticker | How | Chance |
+|---|---|---|---|
+| ![Saturn](img/Saturn.png){ width=40 } | [Saturn](sticker.md) | Having 10 Marks active at once (its Marks count toward this) | Guaranteed, once |
+
+<p class="game-bug"><b>Game bug:</b> The 4-Pronged Vector Bee sticker says it comes from feeding a Neonberry to a Vector Bee, but the game never rolls stickers when you feed a bee, so this way doesn't work.</p>
+
+Like any bee, it can also find the stickers listed under [Bee sticker drops](sticker.md#bee-sticker-drops).
+
 ## Trivia
 
 * Vector Bee's stats follow a [Geometric Progression](https://en.wikipedia.org/wiki/Geometric_Progression) pattern, where each number is double the amount of the previous number.

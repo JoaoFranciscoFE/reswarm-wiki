@@ -335,6 +335,16 @@ Music Bee likes the [Clover Field](clover-field.md) and the [Dandelion Field](da
 </td></tr>
 </tbody></table>
 
+## Stickers
+
+These are the stickers Music Bee can find for you. Odds are from the game's code.
+
+| | Sticker | How | Chance |
+|---|---|---|---|
+| ![Eighth Note](img/Eighth_Note.png){ width=40 } | [Eighth Note](sticker.md) | Gathering in a field it likes ([Clover Field](clover-field.md), [Dandelion Field](dandelion-field.md)) | 1 in 25,000 per flower gathered |
+
+Like any bee, it can also find the stickers listed under [Bee sticker drops](sticker.md#bee-sticker-drops).
+
 ## Trivia
 
 * This bee and [Carpenter Bee](carpenter-bee.md) are the only Legendary bees added in an update.

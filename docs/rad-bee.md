@@ -401,6 +401,16 @@ Rad Bee likes the [Mushroom Field](mushroom-field.md) and the [Rose Field](rose-
 </td></tr>
 </tbody></table>
 
+## Stickers
+
+These are the stickers Rad Bee can find for you. Odds are from the game's code.
+
+| | Sticker | How | Chance |
+|---|---|---|---|
+| ![Flying Rad Bee](img/Flying_Rad_Bee.png){ width=40 } | [Flying Rad Bee](sticker.md) | Gathering in a field it likes ([Rose Field](rose-field.md), [Mushroom Field](mushroom-field.md)) | 1 in 100,000 per flower gathered |
+
+Like any bee, it can also find the stickers listed under [Bee sticker drops](sticker.md#bee-sticker-drops).
+
 ## Trivia
 
 * Rad Bee used to have the entry: "A stylish bee with a taste for red flowers. Everyone wants to be him." This was changed to the current entry in the 2018-11-25 update.
