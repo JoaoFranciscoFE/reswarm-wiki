@@ -39,6 +39,7 @@ hooks: [hooks/cache_bust.py, hooks/nav_links.py, hooks/page_description.py, hook
 extra_javascript:
   - javascripts/mathjax.js
   - javascripts/tabs.js
+  - javascripts/hive-builder.js
 extra:
   # Paste the content="..." value from Google Search Console / Bing Webmaster Tools here.
   google_site_verification: ""
@@ -109,6 +110,7 @@ nav:
       - "Vicious Bee": vicious-bee.md
       - "Wild Windy Bee": wild-windy-bee.md
       - "Windy Bee": windy-bee.md
+  - "Hive Builder": hive-builder.md
   - "Bears":
       - browse-bears.md
       - "Bee Bear": bee-bear.md
