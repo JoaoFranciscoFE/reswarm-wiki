@@ -14,18 +14,19 @@
     return [col * 0.75, (rows - 1 - row) * HEX_H + (col % 2 === 0 ? HEX_H / 2 : 0)];
   };
 
-  // Rarities in the Bee menu's order, with the game's rarity colours; bees are alphabetical
+  // Rarities in the Bee menu's order, with the game's hive slot colour for each; bees are alphabetical
   // within each. Each bee has a fixed two-letter code for share links: never change or
   // reuse a code, only add new ones. Hell Bee is left out (admin only).
   const RARITIES = [
-    ["Common", "#a05f35", "bs Basic"],
-    ["Rare", "#9f9f9f", "bo Bomber, bv Brave, bu Bumble, co Cool, ha Hasty, lo Looker, ra Rad, rs Rascal, st Stubborn"],
-    ["Epic", "#e5cf38", "bb Bubble, bk Bucko, cm Commander, de Demo, ex Exhausted, fi Fire, fr Frosty, ho Honey, rg Rage, ri Riley, sk Shocked"],
-    ["Legendary", "#21ffac", "by Baby, ca Carpenter, dm Demon, di Diamond, li Lion, mu Music, ni Ninja, sh Shy"],
-    ["Mythic", "#f281ff", "bt Buoyant, fu Fuzzy, mo Mortar, pr Precise, sp Spicy, ta Tadpole, ve Vector"],
-    ["Event", "#82ff64", "be Bear, cb Cobalt, ct Crimbolt, cr Crimson, dg Digital, fe Festive, gu Gummy, pa Painter, ph Photon, pu Puppy, tb Tabby, vi Vicious, wi Windy"],
+    ["Common", "#ae792f", "bs Basic"],
+    ["Rare", "#dcdde4", "bo Bomber, bv Brave, bu Bumble, co Cool, ha Hasty, lo Looker, ra Rad, rs Rascal, st Stubborn"],
+    ["Epic", "#f5d010", "bb Bubble, bk Bucko, cm Commander, de Demo, ex Exhausted, fi Fire, fr Frosty, ho Honey, rg Rage, ri Riley, sk Shocked"],
+    ["Legendary", "#4bf6e0", "by Baby, ca Carpenter, dm Demon, di Diamond, li Lion, mu Music, ni Ninja, sh Shy"],
+    ["Mythic", "#bda4ff", "bt Buoyant, fu Fuzzy, mo Mortar, pr Precise, sp Spicy, ta Tadpole, ve Vector"],
+    ["Event", "#9eea6a", "be Bear, cb Cobalt, ct Crimbolt, cr Crimson, dg Digital, fe Festive, gu Gummy, pa Painter, ph Photon, pu Puppy, tb Tabby, vi Vicious, wi Windy"],
   ];
-  const NO_GIFTED_ICON = new Set(["mo"]);
+  // Hive slot faces, tinted like the game. Only Painter has a different gifted face.
+  const GIFTED_FACE = new Set(["pa"]);
   const BEES = [], BY_CODE = {};
   for (const [rarity, color, list] of RARITIES) {
     for (const entry of list.split(", ")) {
@@ -33,10 +34,9 @@
       const file = short.replace(/ /g, "_") + "_Bee";
       const bee = {
         code, short, rarity, color, name: short + " Bee",
-        unique: rarity === "Event",   // event bees: one per hive
         page: short.toLowerCase() + "-bee.html",
         img: "img/hive-builder/" + file + ".webp",
-        giftedImg: "img/hive-builder/" + (NO_GIFTED_ICON.has(code) ? "" : "Gifted_") + file + ".webp",
+        giftedImg: "img/hive-builder/" + (GIFTED_FACE.has(code) ? "Gifted_" : "") + file + ".webp",
       };
       BEES.push(bee);
       BY_CODE[code] = bee;
@@ -77,7 +77,10 @@
         b.dataset.code = bee.code;
         const img = el("img");
         Object.assign(img, { src: bee.img, alt: "", loading: "lazy", draggable: false });
-        b.append(img, el("span", null, bee.short));
+        const face = el("span", "hb-face");
+        face.style.background = bee.color;
+        face.append(img);
+        b.append(face, el("span", null, bee.short));
         items.append(b);
         pickButtons.set(bee.code, b);
       }
@@ -97,7 +100,7 @@
     Object.assign(slotsInput, { type: "number", min: MIN_SLOTS, max: MAX_SLOTS, value: s.slots, inputMode: "numeric" });
     slotsBox.append(el("span", null, "Hive slots"), minus, slotsInput, plus);
     const btn = (label, cls) => { const b = el("button", "hb-btn" + (cls ? " " + cls : ""), label); b.type = "button"; return b; };
-    const giftedBtn = btn("★ Gifted", "hb-toggle");
+    const giftedBtn = btn("Gifted", "hb-toggle");
     const eraseBtn = btn("Eraser", "hb-toggle");
     const fillBtn = btn("Fill empty");
     const clearBtn = btn("Clear hive", "hb-danger");
@@ -160,8 +163,6 @@
           hex.append(n);
         }
       } else if (img) img.remove();
-      hex.querySelector(".hb-star")?.remove();
-      if (show && cell.g) hex.append(el("span", "hb-star", "★"));
     }
 
     function renderStats() {
@@ -174,26 +175,18 @@
         if (cell.g) gifted++;
         per[cell.b.rarity] = (per[cell.b.rarity] || 0) + 1;
       }
-      stats.textContent = "";
-      const main = el("span", "hb-count");
-      main.append(el("b", null, `${placed} / ${s.slots}`), " bees");
-      if (gifted) main.append(" · ", el("b", null, String(gifted)), " gifted");
-      stats.append(main);
-      for (const [rarity, color] of RARITIES) {
-        if (!per[rarity]) continue;
-        const chip = el("span", "hb-chip", `${rarity} ${per[rarity]}`);
-        chip.style.setProperty("--rarity", color);
-        stats.append(chip);
-      }
+      const parts = RARITIES.filter(([r]) => per[r]).map(([r]) => `${r} ${per[r]}`);
+      stats.textContent = `${placed} / ${s.slots} bees` + (gifted ? `, ${gifted} gifted` : "") + (parts.length ? ` (${parts.join(", ")})` : "");
     }
 
     function renderTools() {
       for (const [code, b] of pickButtons) b.classList.toggle("hb-active", s.brush && s.brush.code === code);
-      for (const b of pickButtons.values()) b.firstChild.src = s.gifted ? BY_CODE[b.dataset.code].giftedImg : BY_CODE[b.dataset.code].img;
+      for (const b of pickButtons.values()) b.querySelector("img").src = s.gifted ? BY_CODE[b.dataset.code].giftedImg : BY_CODE[b.dataset.code].img;
       giftedBtn.setAttribute("aria-pressed", s.gifted);
       eraseBtn.setAttribute("aria-pressed", s.brush === "erase");
-      fillBtn.disabled = !(s.brush && s.brush !== "erase" && !s.brush.unique);
+      fillBtn.disabled = !(s.brush && s.brush !== "erase");
       root.classList.toggle("hb-erasing", s.brush === "erase");
+      root.classList.toggle("hb-painting", !!s.brush);
       hint.textContent = s.brush === "erase" ? "Eraser: tap bees in the hive to remove them."
         : s.brush ? `Placing ${s.gifted ? "Gifted " : ""}${s.brush.name}: tap hive slots.`
         : "Pick a bee from the list to start placing.";
@@ -224,13 +217,11 @@
       const n = parseInt(p.get("slots"), 10);
       s.slots = n >= MIN_SLOTS ? Math.min(n, MAX_SLOTS) : MIN_SLOTS;
       s.cells.fill(null);
-      const hive = p.get("hive") || "", seen = new Set();
+      const hive = p.get("hive") || "";
       for (let i = 0; i < MAX_SLOTS && i * 2 + 1 < hive.length; i++) {
         const code = hive.substr(i * 2, 2);
         const bee = BY_CODE[code.toLowerCase()];
-        if (!bee || (bee.unique && seen.has(bee))) continue;
-        seen.add(bee);
-        s.cells[i] = { b: bee, g: code !== code.toLowerCase() };
+        if (bee) s.cells[i] = { b: bee, g: code !== code.toLowerCase() };
       }
       return true;
     }
@@ -257,9 +248,7 @@
     }
 
     // ---- actions ----
-    // Put a bee in slot i. An event bee can only be in the hive once, so it moves there.
     function place(i, bee, gifted) {
-      if (bee.unique) s.cells.forEach((c, k) => { if (c && c.b === bee && k !== i) { s.cells[k] = null; renderCell(k); } });
       s.cells[i] = { b: bee, g: gifted };
     }
 
@@ -300,6 +289,23 @@
       }
     }
 
+    // With a bee (or the eraser) picked, press and drag over slots to fill (or clear) each one.
+    // Starting on a slot that already has that bee clears instead.
+    let paint = null;
+    function paintAt(x, y) {
+      const t = document.elementFromPoint(x, y), c = t && t.closest(".hb-cell");
+      if (!c || !hive.contains(c)) return;
+      const i = +c.dataset.i;
+      if (i >= s.slots || paint.done.has(i)) return;
+      paint.done.add(i);
+      if (paint.clear) {
+        if (!s.cells[i]) return;
+        s.cells[i] = null;
+      } else place(i, s.brush, s.gifted);
+      renderCell(i);
+      paint.changed = true;
+    }
+
     // Pointer dragging (mouse and touch): from the list to the hive, between slots, or out.
     let drag = null, skipClick = false;
     function press(e, src) {
@@ -307,6 +313,7 @@
       drag = { src, id: e.pointerId, x: e.clientX, y: e.clientY, ghost: null };
     }
     function move(e) {
+      if (paint && e.pointerId === paint.id) { paintAt(e.clientX, e.clientY); e.preventDefault(); return; }
       if (!drag || e.pointerId !== drag.id) return;
       if (!drag.ghost) {
         if (Math.hypot(e.clientX - drag.x, e.clientY - drag.y) < 8) return;
@@ -321,6 +328,11 @@
       e.preventDefault();
     }
     function release(e) {
+      if (paint && e.pointerId === paint.id) {
+        if (paint.changed) { renderStats(); save(); }
+        paint = null;
+        return;
+      }
       if (!drag || e.pointerId !== drag.id) return;
       const d = drag;
       drag = null;
@@ -335,8 +347,16 @@
       if (b) press(e, { bee: BY_CODE[b.dataset.code] });
     });
     hive.addEventListener("pointerdown", e => {
-      const c = e.target.closest(".hb-cell.hb-filled");
-      if (c) press(e, { i: +c.dataset.i });
+      const c = e.target.closest(".hb-cell");
+      if (!c || e.button !== 0) return;
+      const i = +c.dataset.i, cell = s.cells[i];
+      if (s.brush) {
+        if (i >= s.slots) return;
+        const clear = s.brush === "erase" || !!(cell && cell.b === s.brush && cell.g === s.gifted);
+        paint = { id: e.pointerId, clear, done: new Set(), changed: false };
+        paintAt(e.clientX, e.clientY);
+        e.preventDefault();
+      } else if (cell && i < s.slots) press(e, { i });
     });
     root.addEventListener("click", e => {
       if (skipClick) return;
@@ -348,7 +368,8 @@
         return;
       }
       const c = e.target.closest(".hb-cell");
-      if (c) tapCell(+c.dataset.i);
+      // a mouse or touch press with a bee picked was already handled by painting
+      if (c && !(s.brush && e.detail > 0)) tapCell(+c.dataset.i);
     });
     root.addEventListener("dragstart", e => e.preventDefault());
 
@@ -363,7 +384,7 @@
     giftedBtn.addEventListener("click", () => { s.gifted = !s.gifted; renderTools(); });
     eraseBtn.addEventListener("click", () => { s.brush = s.brush === "erase" ? null : "erase"; renderTools(); });
     fillBtn.addEventListener("click", () => {
-      if (!s.brush || s.brush === "erase" || s.brush.unique) return;
+      if (!s.brush || s.brush === "erase") return;
       for (let i = 0; i < s.slots; i++) if (!s.cells[i]) s.cells[i] = { b: s.brush, g: s.gifted };
       changed();
     });
@@ -436,22 +457,17 @@
       const x = pad + cx * W, y = head + cy * W;
       const cell = i < s.slots ? s.cells[i] : null;
       hexPath(ctx, x + 2, y + 2, W - 4, H - 4);
-      ctx.fillStyle = i >= s.slots ? "#0f1a1b" : cell ? "#203436" : "#1a2a2b";
+      ctx.fillStyle = i >= s.slots ? "#0f1a1b" : cell ? cell.b.color : "#1a2a2b";
       ctx.fill();
       ctx.lineWidth = cell ? 4 : 2;
-      ctx.strokeStyle = !cell ? (i >= s.slots ? "#182627" : "#4a5f60") : cell.g ? "#ffc107" : cell.b.color;
+      ctx.strokeStyle = !cell ? (i >= s.slots ? "#182627" : "#4a5f60") : cell.g ? "#ffd700" : "#4a5f60";
       ctx.stroke();
       if (!cell) continue;
       const img = images[icon(cell)];
       if (img) {
-        const box = W * 0.62, k = Math.min(box / img.width, box / img.height);
+        const box = W * 0.7, k = Math.min(box / img.width, box / img.height);
         const iw = img.width * k, ih = img.height * k;
         ctx.drawImage(img, x + (W - iw) / 2, y + (H - ih) / 2, iw, ih);
-      }
-      if (cell.g) {
-        ctx.fillStyle = "#ffc107";
-        ctx.font = "bold 16px system-ui, sans-serif";
-        ctx.fillText("★", x + W * 0.66, y + H * 0.2);
       }
     }
     ctx.fillStyle = "#7d8b8c";
