@@ -11,6 +11,9 @@ is rebuilt and published automatically by GitHub Actions.
 2. Add a card with the same icon at the **top** of `docs/update-logs.md` (newest first).
 3. Add it under `"Update Logs"` in the `nav` of `mkdocs.yml`, right after `update-logs.md`.
 
+## Adding a new bee
+Follow [`runbooks/new-bee.md`](runbooks/new-bee.md). It lists every page, list and file a bee touches.
+
 ## Running locally
     pip install -r requirements.txt
     mkdocs serve
