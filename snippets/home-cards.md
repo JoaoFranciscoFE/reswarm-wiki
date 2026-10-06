@@ -1,6 +1,6 @@
 <div class="wiki-cards wiki-cards--big">
 <a class="wiki-card" href="browse-bees.html"><img src="img/Basic_Bee.png" alt="" loading="lazy"><span>Bees</span></a>
-<a class="wiki-card" href="hive-builder.html"><img src="img/hive-builder/Gifted_Basic_Bee.webp" alt="" loading="lazy"><span>Hive Builder</span></a>
+<a class="wiki-card" href="hive-builder.html"><img src="img/Basic_Hive_Skin.png" alt="" loading="lazy"><span>Hive Builder</span></a>
 <a class="wiki-card" href="browse-bears.html"><img src="img/bears/Brown_Bear.png" alt="" loading="lazy"><span>Bears</span></a>
 <a class="wiki-card" href="browse-quests.html"><img src="img/Shy_Brown_Bear.png" alt="" loading="lazy"><span>Quests</span></a>
 <a class="wiki-card" href="browse-fields.html"><img src="img/Sunflower_Field_Stamp.png" alt="" loading="lazy"><span>Fields</span></a>
