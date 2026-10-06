@@ -6,7 +6,7 @@ hide:
 
 # Bees
 
-Every bee in Re://:Swarm, sorted by rarity. Pick a bee to see its stats, abilities and colours.
+Every bee in Re://:Swarm, sorted by rarity. Pick a bee to see its stats, abilities and colours, or plan your hive with the [Hive Builder](hive-builder.md).
 
 ## Common
 
