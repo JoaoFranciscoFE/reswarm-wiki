@@ -44,6 +44,46 @@
   }
   const STORE_KEY = "reswarm-hive-builder";
 
+  // In-game hive codes (Honeycomb Blueprint > Layouts): RSH1. then one slot per hive cell,
+  // joined by "-". A slot is the bee's game ID in base 36, "!" on the end if gifted, "0" if empty.
+  // Old codes used "*" for gifted. Game IDs never change; new bees get the next one.
+  // ID 49 is Hell Bee, which the builder leaves out.
+  const CODE_PREFIX = "RSH1.", CODE_MAX = 200;
+  const GAME_IDS = ("Basic Bomber Rascal Bumble Cool Brave Hasty Rad Looker Stubborn Shocked Demo Bubble " +
+    "Rage Frosty Exhausted Bucko Riley Honey Fire Commander Baby Diamond Lion Shy Demon Ninja Music " +
+    "Carpenter Bear Photon Tabby Gummy Cobalt Crimson Puppy Vicious Festive Windy Tadpole Vector " +
+    "Spicy Fuzzy Buoyant Precise Digital Crimbolt Mortar Hell Painter").split(" ");
+  for (const bee of BEES) bee.id = GAME_IDS.indexOf(bee.short) + 1;
+  const BY_ID = Object.fromEntries(BEES.map(b => [b.id, b]));
+
+  // cells -> "RSH1.w!-12!-0-1"
+  function hiveCode(cells) {
+    const tokens = cells.map(c => (c ? c.b.id.toString(36) + (c.g ? "!" : "") : "0"));
+    while (tokens.length && tokens[tokens.length - 1] === "0") tokens.pop();
+    return CODE_PREFIX + tokens.join("-");
+  }
+
+  // "RSH1...." -> { cells, skipped } or { error }
+  function readHiveCode(text) {
+    const code = String(text).replace(/\s+/g, "");
+    if (!code.startsWith(CODE_PREFIX)) return { error: "That isn't a hive code. Codes start with RSH1." };
+    const tokens = code.slice(CODE_PREFIX.length).split("-").filter(t => t !== "");
+    if (!tokens.length) return { error: "That hive code is empty." };
+    if (tokens.length > CODE_MAX) return { error: "That hive code is too long." };
+    const cells = [];
+    let skipped = 0;
+    for (const token of tokens) {
+      if (token === "0") { cells.push(null); continue; }
+      const gifted = /[!*]$/.test(token), raw = gifted ? token.slice(0, -1) : token;
+      const id = /^[0-9a-z]{1,4}$/.test(raw) ? parseInt(raw, 36) : 0;
+      if (!id || id > GAME_IDS.length) return { error: `Unknown bee in code (${token}).` };
+      const bee = BY_ID[id];
+      if (!bee) skipped++;
+      cells.push(bee ? { b: bee, g: gifted } : null);
+    }
+    return { cells, skipped };
+  }
+
   const el = (tag, cls, text) => {
     const e = document.createElement(tag);
     if (cls) e.className = cls;
@@ -105,8 +145,10 @@
     const fillBtn = btn("Fill empty");
     const clearBtn = btn("Clear hive", "hb-danger");
     const linkBtn = btn("Copy link");
+    const codeBtn = btn("Copy code");
+    const importBtn = btn("Import code");
     const pngBtn = btn("Save PNG");
-    bar.append(slotsBox, giftedBtn, eraseBtn, fillBtn, clearBtn, linkBtn, pngBtn);
+    bar.append(slotsBox, giftedBtn, eraseBtn, fillBtn, clearBtn, linkBtn, codeBtn, importBtn, pngBtn);
 
     const stats = el("div", "hb-stats");
     const hint = el("div", "hb-hint");
@@ -402,6 +444,33 @@
         prompt("Copy this link:", location.href);
       }
       setTimeout(() => (linkBtn.textContent = "Copy link"), 1500);
+    });
+    codeBtn.addEventListener("click", async () => {
+      const code = hiveCode(s.cells.slice(0, s.slots));
+      try {
+        await navigator.clipboard.writeText(code);
+        codeBtn.textContent = "Code copied";
+      } catch (e) {
+        prompt("Copy this hive code:", code);
+      }
+      setTimeout(() => (codeBtn.textContent = "Copy code"), 1500);
+    });
+    importBtn.addEventListener("click", () => {
+      const text = prompt("Paste a hive code from the game:");
+      if (text == null || !text.trim()) return;
+      const r = readHiveCode(text);
+      if (r.error) { alert(r.error); return; }
+      if (s.cells.some(Boolean) && !confirm("Replace the bees in your hive with this code?")) return;
+      const n = Math.min(r.cells.length, MAX_SLOTS);
+      s.cells.fill(null);
+      r.cells.slice(0, n).forEach((c, i) => (s.cells[i] = c));
+      s.slots = Math.max(s.slots, Math.min(MAX_SLOTS, n));
+      slotsInput.value = s.slots;
+      changed();
+      const notes = [];
+      if (r.skipped) notes.push(`${r.skipped} Hell Bee slot${r.skipped > 1 ? "s were" : " was"} left empty.`);
+      if (r.cells.length > MAX_SLOTS) notes.push(`Only the first ${MAX_SLOTS} slots fit in the builder.`);
+      if (notes.length) alert(notes.join(" "));
     });
     pngBtn.addEventListener("click", () => exportPng(s));
 
