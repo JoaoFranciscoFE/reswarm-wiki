@@ -1,0 +1,438 @@
+/* Re://:Swarm Wiki styles */
+.portable-infobox { float: right; width: 280px; margin: 0 0 1em 1em; padding: .5em;
+  border: 1px solid var(--md-default-fg-color--lightest); border-radius: 8px;
+  background: var(--md-code-bg-color); font-size: .75rem; }
+.portable-infobox .pi-title { margin: .2em 0; font-size: 1rem; text-align: center; }
+.portable-infobox img { max-width: 100%; height: auto; display: block; margin: 0 auto; }
+.portable-infobox .pi-item { padding: .3em 0; border-top: 1px solid var(--md-default-fg-color--lightest); }
+.portable-infobox .pi-data-label { margin: 0; font-size: .7rem; }
+.portable-infobox .pi-horizontal-group { width: 100%; }
+figure { display: inline-block; margin: .5em; text-align: center; }
+figure img { max-width: 100%; height: auto; }
+.wikia-gallery, .gallery { display: flex; flex-wrap: wrap; gap: .5em; }
+.md-typeset table:not([class]) { font-size: .7rem; }
+@media (max-width: 700px) { .portable-infobox { float: none; width: 100%; margin: 0 0 1em 0; } }
+
+/* Fandom-style look for the whole site (dark, like the Bee Swarm Simulator Fandom wiki) */
+[data-md-color-scheme="slate"] {
+  --md-hue: 190;
+  --md-default-bg-color: #0d1819;
+  --md-default-fg-color: #e8eced;
+  --md-default-fg-color--light: #b9c3c4;
+  --md-default-fg-color--lighter: #7d8b8c;
+  --md-default-fg-color--lightest: #2c3c3d;
+  --md-typeset-color: #e8eced;
+  --md-typeset-a-color: #00c2d6;
+  --md-accent-fg-color: #4fe0ee;
+  --md-primary-fg-color: #0d1819;
+  --md-primary-bg-color: #ffffff;
+  --md-code-bg-color: #172526;
+  --md-typeset-table-color: #2c3c3d;
+}
+[data-md-color-scheme="default"] {
+  --md-typeset-a-color: #00818f;
+  --md-accent-fg-color: #00a6b8;
+  --md-primary-fg-color: #0d1819;
+  --md-primary-bg-color: #ffffff;
+}
+
+/* Header: game banner behind a dark bar */
+.md-header {
+  background: linear-gradient(rgba(8, 16, 17, .55), rgba(8, 16, 17, .85)), url("../images/game-banner.webp") center 40% / cover;
+  box-shadow: 0 2px 6px rgba(0, 0, 0, .5);
+}
+.md-header__title { font-weight: 700; letter-spacing: .02em; }
+.md-search__form { background: rgba(255, 255, 255, .12); border-radius: 4px; }
+
+/* Page background: blurred banner, content sits on a dark card.
+   Drawn on its own fixed layer: a "background-attachment: fixed" repaints the whole
+   page on every scroll step, which makes scrolling stutter on slow phones. */
+.md-main::before {
+  content: ""; position: fixed; inset: 0; z-index: -1; pointer-events: none;
+  background: linear-gradient(rgba(6, 22, 12, .7), rgba(6, 22, 12, .7)), url("../images/game-banner.webp") center top / cover;
+}
+.md-main__inner {
+  margin-top: 1.4rem; margin-bottom: 1.4rem; border-radius: 10px;
+  background: var(--md-default-bg-color); box-shadow: 0 4px 18px rgba(0, 0, 0, .5);
+}
+[data-md-color-scheme="default"] .md-main__inner { background: #ffffff; }
+.md-sidebar__scrollwrap { scrollbar-color: #2c3c3d transparent; }
+/* keep the whole sidebar inside the panel on short pages */
+@media screen and (min-width: 76.25em) {
+  .md-main__inner { min-height: 36rem; }
+}
+
+/* Sidebars */
+.md-nav__title { color: var(--md-default-fg-color--light); text-transform: uppercase; letter-spacing: .05em; }
+.md-nav__link--active, .md-nav__link:hover { color: var(--md-typeset-a-color) !important; }
+
+/* Categories (tags) shown like Fandom's breadcrumb line */
+.md-typeset .md-tags { margin-bottom: .2em; }
+.md-typeset .md-tags .md-tag {
+  display: inline; background: none; padding: 0; margin: 0; font-size: .68rem; font-weight: 400;
+  color: var(--md-typeset-a-color) !important;
+}
+.md-typeset .md-tags .md-tag:not(:last-child)::after { content: ","; color: var(--md-default-fg-color--light); margin-right: .35em; }
+.md-typeset .md-tags .md-tag:hover { background: none; text-decoration: underline; }
+
+/* Typography */
+.md-typeset h1 { color: var(--md-default-fg-color); font-weight: 400; font-size: 2em; margin-bottom: .8em; }
+.md-typeset h2 {
+  font-weight: 500; font-size: 1.35em; margin-top: 1.4em;
+  padding-bottom: .25em; border-bottom: 1px solid var(--md-default-fg-color--lightest);
+}
+.md-typeset h3 { font-weight: 600; font-size: 1.1em; }
+.md-typeset a { text-decoration: none; }
+.md-typeset a:hover { text-decoration: underline; }
+.md-typeset .headerlink { color: var(--md-typeset-a-color); }
+
+/* Wiki tables */
+.md-typeset table:not([class]), .md-typeset .wikitable, .md-typeset .article-table {
+  border-collapse: collapse; border: 1px solid #2c3c3d; border-radius: 0; font-size: .72rem;
+}
+.md-typeset .wikitable th, .md-typeset .article-table th, .md-typeset table:not([class]) th {
+  background: #1c2e30; color: var(--md-default-fg-color); font-weight: 700;
+}
+.md-typeset .wikitable td, .md-typeset .wikitable th, .md-typeset .article-table td, .md-typeset .article-table th {
+  border: 1px solid #2c3c3d; padding: .4em .7em;
+}
+[data-md-color-scheme="default"] .md-typeset .wikitable th,
+[data-md-color-scheme="default"] .md-typeset .article-table th,
+[data-md-color-scheme="default"] .md-typeset table:not([class]) th { background: #e6eef0; }
+/* wide tables scroll sideways instead of running over the table of contents */
+.md-typeset .wikitable, .md-typeset .article-table { display: inline-block; max-width: 100%; overflow-x: auto; }
+
+/* Footer */
+.md-footer, .md-footer-meta { background: #081011; }
+
+/* Bee infobox (Fandom style) */
+.bee-infobox { --bee-rarity: #c9a51c; float: right; clear: right; width: 270px; margin: 0 0 1em 1.2em;
+  background: color-mix(in srgb, var(--bee-rarity) 22%, #f6efd6); color: #1b1b1b; font-size: .72rem;
+  border-radius: 4px; overflow: hidden; box-shadow: 0 1px 4px rgba(0,0,0,.35); }
+.bee-rarity-common { --bee-rarity: #c9a51c; }
+.bee-rarity-rare { --bee-rarity: #b7bec6; }
+.bee-rarity-epic { --bee-rarity: #f2d65e; }
+.bee-rarity-legendary { --bee-rarity: #3fcfc4; }
+.bee-rarity-mythic { --bee-rarity: #b18cf0; }
+.bee-rarity-event { --bee-rarity: #6fcf63; }
+.bee-infobox-title, .bee-infobox-header { background: var(--bee-rarity); color: #111; text-align: center; }
+.bee-infobox-title { padding: .9em .5em; font-size: 1rem; font-weight: 700; }
+.bee-infobox-header { padding: .3em; font-size: .8rem; text-transform: uppercase; margin-top: .6em; }
+.bee-infobox-tabs { display: flex; flex-wrap: wrap; }
+.bee-infobox-tabs label { order: 0; }
+.bee-infobox-tabs input { display: none; }
+.bee-infobox-tabs label { padding: .6em .9em .5em; cursor: pointer; font-weight: 700; color: #777;
+  border-bottom: 2px solid transparent; }
+.bee-infobox-tabs label:hover { color: #333; }
+.bee-infobox-image { display: none; order: 1; width: 100%; padding: .8em 0; text-align: center;
+  border-bottom: 1px solid rgba(0,0,0,.15); }
+.bee-infobox-image img { width: 150px; height: 150px; object-fit: contain; }
+#bee-tab-original:checked + label, #bee-tab-gifted:checked + label { color: #0a7f86; border-bottom-color: #0a7f86; }
+#bee-tab-original:checked ~ .bee-tab-original, #bee-tab-gifted:checked ~ .bee-tab-gifted { display: block; }
+.bee-infobox-quote { padding: .4em .9em; text-align: center; font-style: italic; }
+.bee-infobox-row { padding: .25em .6em; }
+.bee-infobox-row b, .bee-infobox-row span, .bee-infobox-stats b, .bee-infobox-stats span { display: block; }
+.bee-infobox-stats { display: flex; padding: .5em .3em 0; text-align: center; }
+.bee-infobox-stats > div { flex: 1; }
+.bee-infobox-scheme { width: 130px; margin: .6em auto .8em; border-radius: 8px; overflow: hidden; background: #fff; }
+.bee-infobox-stripes { display: flex; height: 70px; }
+.bee-infobox-stripes span { flex: 1; }
+.bee-infobox-swatch { padding: .5em; text-align: center; }
+.bee-infobox-swatch b { display: block; font-size: .85rem; margin-bottom: .2em; }
+.md-typeset .bee-infobox-swatch code { display: block; padding: 0; background: none; color: #111; font-size: .6rem; }
+@media (max-width: 700px) { .bee-infobox { float: none; width: 100%; max-width: 320px; margin: 0 auto 1em; } }
+
+/* Never stretch pictures: keep their own shape inside any fixed box */
+.md-typeset img { object-fit: contain; }
+.md-typeset img[width]:not([height]) { height: auto; }
+
+/* ---- Cleaner layout (inspired by Majestic Bees Wiki) ---- */
+/* Sidebar: only the main categories; pages are reached through each category's card page */
+.md-nav--primary .md-nav__item--nested > .md-nav { display: none; }
+.md-nav--primary .md-nav__item--nested > .md-nav__link .md-nav__icon { display: none; }
+@media screen and (min-width: 76.25em) {
+  .md-nav--primary > .md-nav__list > .md-nav__item > .md-nav__link,
+  .md-nav--primary > .md-nav__list > .md-nav__item > .md-nav__container > .md-nav__link {
+    padding: .45em .7em; margin: .15em 0; border-radius: 6px; font-weight: 500;
+  }
+  .md-nav--primary > .md-nav__list > .md-nav__item--active > .md-nav__link,
+  .md-nav--primary > .md-nav__list > .md-nav__item--active > .md-nav__container > .md-nav__link {
+    background: rgba(0, 194, 214, .12); outline: 1px solid rgba(0, 194, 214, .35);
+  }
+}
+
+/* Bigger search box in the header */
+@media screen and (min-width: 60em) {
+  .md-search__inner { width: 24rem; }
+}
+@media screen and (min-width: 76.25em) { .md-search__inner { width: 30rem; } }
+
+/* Card grids: equal tiles, fixed square picture box, label centred underneath */
+.md-typeset .wiki-cards {
+  display: grid; grid-template-columns: repeat(auto-fill, minmax(7.5rem, 1fr));
+  gap: .6rem; margin: .8em 0 1.6em; padding: 0;
+}
+.md-typeset .wiki-cards > a.wiki-card {
+  display: flex; flex-direction: column; align-items: center; justify-content: flex-start;
+  gap: .4rem; min-width: 0; padding: .7rem .5rem .6rem; margin: 0;
+  border-radius: 8px; background: #142224; border: 1px solid #263738;
+  color: var(--md-default-fg-color); text-align: center; text-decoration: none;
+  transition: border-color .15s, background .15s;
+}
+.md-typeset .wiki-cards > a.wiki-card:hover { border-color: var(--md-typeset-a-color); background: #18292b; text-decoration: none; }
+.md-typeset .wiki-cards > a.wiki-card > img {
+  display: block; flex: none; width: 4rem; height: 4rem; max-width: none; margin: 0;
+  object-fit: contain; object-position: center;
+}
+.md-typeset .wiki-cards > a.wiki-card > span {
+  display: block; width: 100%; font-size: .7rem; line-height: 1.3; overflow-wrap: anywhere;
+}
+.md-typeset .wiki-cards > a.wiki-card--noicon > img { opacity: .8; padding: .6rem; }
+.md-typeset .wiki-cards > a.wiki-card > small { display: block; margin-top: auto; font-size: .62rem; line-height: 1.2; color: var(--md-accent-fg-color); letter-spacing: .05em; }
+.md-typeset .wiki-cards--big { grid-template-columns: repeat(6, 1fr); gap: .8rem; }
+@media screen and (max-width: 76.1875em) { .md-typeset .wiki-cards--big { grid-template-columns: repeat(3, 1fr); } }
+@media screen and (max-width: 44.9375em) { .md-typeset .wiki-cards--big { grid-template-columns: repeat(2, 1fr); } }
+.md-typeset .wiki-cards--big > a.wiki-card > img { width: 4.5rem; height: 4.5rem; }
+.md-typeset .wiki-cards--big > a.wiki-card > span { font-size: .8rem; font-weight: 600; }
+.md-typeset .wiki-cards--small { grid-template-columns: repeat(auto-fill, minmax(6rem, 1fr)); gap: .4rem; }
+.md-typeset .wiki-cards--small > a.wiki-card { padding: .45rem .3rem .4rem; gap: .25rem; }
+.md-typeset .wiki-cards--small > a.wiki-card > img { width: 2.8rem; height: 2.8rem; }
+.md-typeset .wiki-cards--small > a.wiki-card > span { font-size: .62rem; }
+[data-md-color-scheme="default"] .md-typeset .wiki-cards > a.wiki-card { background: #f3f6f7; border-color: #dbe3e5; }
+
+/* Home page hero */
+.md-typeset h1.wiki-hero-title { text-align: center; font-size: 2.4em; font-weight: 500; margin: .2em 0 .6em; }
+.wiki-hero { text-align: center; max-width: 30rem; margin: 0 auto 1.5em; }
+.md-typeset .wiki-hero-banner { width: 100%; height: auto; border-radius: 10px; box-shadow: 0 4px 16px rgba(0, 0, 0, .45); margin-bottom: .8em; }
+
+/* Item infoboxes: same card look as the bee infobox, stacked under any right-floated picture */
+.md-typeset img[align=right] { clear: right; margin: 0 0 1em 1.2em; }
+.md-typeset .portable-infobox {
+  float: right; clear: right; width: 270px; margin: 0 0 1em 1.2em; padding: 0; overflow: hidden;
+  border: 1px solid #263738; border-radius: 6px; background: #142224; font-size: .72rem;
+}
+.md-typeset .portable-infobox .pi-title {
+  margin: 0; padding: .7em .5em; font-size: .95rem; font-weight: 700; text-align: center;
+  background: #c9a51c; color: #111; border: 0;
+}
+.md-typeset .portable-infobox .pi-header {
+  margin: 0; padding: .3em .5em; font-size: .75rem; font-weight: 500; text-align: center; text-transform: uppercase;
+  background: #1c2e30; border: 0;
+}
+.md-typeset .portable-infobox .pi-header:last-child { display: none; }
+.md-typeset .portable-infobox .pi-image { display: block; margin: 0; padding: .8em 0; text-align: center; }
+.md-typeset .portable-infobox .pi-image img { display: block; margin: 0 auto; width: 150px; height: 150px; object-fit: contain; }
+.md-typeset .portable-infobox figure.pi-image { width: auto; max-width: none; }
+.md-typeset .portable-infobox .pi-data { padding: .45em .8em; border-top: 1px solid #263738; }
+.md-typeset .portable-infobox .pi-data-label { margin: 0 0 .15em; font-size: .72rem; font-weight: 700; }
+.md-typeset .portable-infobox .pi-data-value p { margin: .4em 0 0; }
+@media (max-width: 700px) { .md-typeset .portable-infobox, .md-typeset img[align=right] { float: none; margin: 0 auto 1em; display: block; } }
+
+/* Studio screenshots of places and objects */
+.md-typeset img.wiki-photo { float: right; width: 320px; max-width: 100%; height: auto; margin: 0 0 1em 1em; border-radius: 6px; }
+@media screen and (max-width: 44.9375em) { .md-typeset img.wiki-photo { float: none; width: 100%; margin: 0 0 1em; } }
+.md-typeset .wiki-cards > a.wiki-card--photo > img { width: 100%; height: 4.5rem; object-fit: cover; border-radius: 5px; }
+.md-typeset .portable-infobox .pi-photo { padding: .5em; }
+.md-typeset .portable-infobox .pi-photo img { width: 100%; height: auto; border-radius: 5px; }
+
+/* nothing wider than the page card */
+.md-typeset .wikia-slideshow-wrapper { width: auto !important; max-width: 100%; }
+.md-typeset .wikia-slideshow-wrapper img { max-width: 100%; height: auto; }
+.md-typeset table.infobox { max-width: 100%; }
+.md-content__inner > pre { margin-left: 0; margin-right: 0; }
+.md-typeset .wikia-slideshow-images { width: auto !important; height: auto !important; max-width: 100%; }
+@media screen and (max-width: 44.9375em) {
+  .md-typeset table.infobox { float: none !important; display: block; width: 100% !important; overflow-x: auto; margin-left: 0 !important; margin-right: 0 !important; }
+  .md-typeset table.infobox img { max-width: 100%; height: auto; }
+}
+
+/* Amulet tier tabs */
+.md-typeset .tabbed-set { margin: 1em 0; container-type: inline-size; }
+.md-typeset .tabbed-labels > label, .md-typeset .tabbed-labels--linked > label > a { font-size: .64rem; padding: .9em .8em .7em; }
+.md-typeset .tabbed-labels--linked > label { padding: 0; }
+.md-typeset .tabbed-labels > label:hover,
+.md-typeset .tabbed-set > input:nth-child(1):checked ~ .tabbed-labels > :nth-child(1),
+.md-typeset .tabbed-set > input:nth-child(2):checked ~ .tabbed-labels > :nth-child(2),
+.md-typeset .tabbed-set > input:nth-child(3):checked ~ .tabbed-labels > :nth-child(3),
+.md-typeset .tabbed-set > input:nth-child(4):checked ~ .tabbed-labels > :nth-child(4),
+.md-typeset .tabbed-set > input:nth-child(5):checked ~ .tabbed-labels > :nth-child(5) { color: var(--md-typeset-a-color); }
+.js .md-typeset .tabbed-labels::before { background: var(--md-typeset-a-color); height: 3px; }
+/* drop the amulet name from the labels when the five tabs would not fit */
+@container (max-width: 660px) { .md-typeset .tier-suffix { display: none; } }
+@container (max-width: 860px) { .md-typeset .tier-suffix--long { display: none; } }
+.md-typeset .tabbed-labels > label > a:hover { text-decoration: none; }
+.md-typeset .amulet-tier-icon { float: left; width: 7rem; margin: .4em 1em .8em 0; padding: .4em; border: 1px solid var(--md-default-fg-color--lightest); border-radius: 8px; background: var(--md-code-bg-color); }
+.md-typeset .amulet-tier-icon img { width: 5rem; height: 5rem; display: block; margin: 0 auto; }
+.md-typeset .amulet-tier-icon figcaption { font-size: .6rem; margin: .3em 0 0; color: var(--md-default-fg-color--light); }
+.md-typeset .amulet-tier-obtain { margin-top: .6em; }
+.md-typeset .amulet-tier-icon ~ .article-table { clear: both; }
+.md-typeset td > img[src$="_Amulet.png"] { vertical-align: middle; margin-right: .2em; }
+
+/* Update log page icon */
+.md-typeset img.update-log-icon { float: right; width: 8rem; height: 8rem; object-fit: contain; margin: 0 0 1em 1.2em; }
+@media screen and (max-width: 44.9375em) { .md-typeset img.update-log-icon { width: 5rem; height: 5rem; } }
+
+/* Tool infoboxes: the Fandom collecting-pattern grid needs scripts we don't have, so hide the empty grid */
+.md-typeset table.infobox tr:has(> td > table.templateToolFlowerField),
+.md-typeset table.infobox tr:has(span[typeof~="mw:Error"]) { display: none; }
+.md-typeset table.infobox td.templateToolTitle { background: #c9a51c; color: #111; text-align: center; font-size: .95rem; padding: .6em .5em; }
+.md-typeset table.infobox td.templateToolHeader { background: #1c2e30; text-align: center; text-transform: uppercase; font-size: .72rem; padding: .3em .5em; }
+
+/* Tool collecting patterns (```tool-pattern blocks, see hooks/tool_patterns.py).
+   Each tile is one of the game's flower decals from img/patterns/; collected tiles are lit and outlined. */
+.md-typeset .tool-pattern {
+  display: grid; grid-template-columns: repeat(var(--cols), 1.35rem); gap: 1px;
+  justify-content: center; margin: .5em auto .3em;
+}
+.md-typeset .tool-pattern > i, .md-typeset .tool-pattern-key > span {
+  position: relative; display: block; width: 1.35rem; height: 1.35rem; border-radius: 2px;
+  background: #2f7a32 center / cover no-repeat url("../img/patterns/white-1.png");
+}
+.md-typeset .tool-pattern > i.f01 { background-image: url("../img/patterns/white-1.png"); }
+.md-typeset .tool-pattern > i.f02 { background-image: url("../img/patterns/white-2.png"); }
+.md-typeset .tool-pattern > i.f03 { background-image: url("../img/patterns/white-3.png"); }
+.md-typeset .tool-pattern > i.f11 { background-image: url("../img/patterns/red-1.png"); }
+.md-typeset .tool-pattern > i.f12 { background-image: url("../img/patterns/red-2.png"); }
+.md-typeset .tool-pattern > i.f13 { background-image: url("../img/patterns/red-3.png"); }
+.md-typeset .tool-pattern > i.f21 { background-image: url("../img/patterns/blue-1.png"); }
+.md-typeset .tool-pattern > i.f22 { background-image: url("../img/patterns/blue-2.png"); }
+.md-typeset .tool-pattern > i.f23 { background-image: url("../img/patterns/blue-3.png"); }
+.md-typeset .tool-pattern > i.off::before, .md-typeset .tool-pattern > i.me:not(.on)::before {
+  content: ""; position: absolute; inset: 0; border-radius: 2px; background: rgba(8, 16, 18, .68);
+}
+.md-typeset .tool-pattern > i.on, .md-typeset .tool-pattern-key > .on { box-shadow: inset 0 0 0 2px #f2cf3c; }
+.md-typeset .tool-pattern > i.area, .md-typeset .tool-pattern-key > .area { box-shadow: inset 0 0 0 2px #8fd16a; }
+.md-typeset .tool-pattern > i.me::after, .md-typeset .tool-pattern-key > .me::after {
+  content: ""; position: absolute; inset: 15%; border-radius: 50%; border: 2px solid #4fb3ff; background: rgba(79, 179, 255, .35);
+}
+.md-typeset .tool-pattern-key, .md-typeset .tool-pattern-note { text-align: center; font-size: .62rem; color: var(--md-default-fg-color--light); }
+.md-typeset .tool-pattern-key > span { display: inline-block; width: .8rem; height: .8rem; margin: 0 .25rem 0 .6rem; vertical-align: -2px; }
+.md-typeset .tool-pattern-key > span:first-child { margin-left: 0; }
+.md-typeset .tool-pattern-note { margin-bottom: .4em; }
+
+/* Critical hit number animations (Critical Hits page) */
+.md-typeset .crit-demo { margin: 1em 0; padding: 1.2em .5em .6em; text-align: center; background: #1a2b2d; border-radius: 6px; }
+.md-typeset .crit-demo > p { margin: .4em 0 0; font-size: .7rem; color: var(--md-default-fg-color--light); }
+.md-typeset .crit-num {
+  display: inline-block; font-size: 1.6rem; font-weight: 800; letter-spacing: .02em;
+  -webkit-text-stroke: 2px #111; paint-order: stroke fill;
+  animation: crit-shake .12s linear infinite, crit-pop 1.6s ease-out infinite;
+}
+.md-typeset .crit-pollen { animation-name: crit-shake, crit-pop, crit-pollen-colour; animation-duration: .12s, 1.6s, .3s; }
+.md-typeset .crit-attack { animation-name: crit-shake, crit-pop, crit-attack-colour; animation-duration: .12s, 1.6s, .3s; }
+@keyframes crit-shake {
+  0% { translate: 0 0; } 25% { translate: 2px -1px; } 50% { translate: -2px 1px; } 75% { translate: 1px 2px; } 100% { translate: 0 0; }
+}
+@keyframes crit-pop { 0% { scale: .4; opacity: 0; } 12% { scale: 1.25; opacity: 1; } 25% { scale: 1; } 80% { opacity: 1; } 100% { scale: 1; opacity: 0; } }
+@keyframes crit-pollen-colour { 0%, 100% { color: #fff36b; } 50% { color: #ff9d2e; } }
+@keyframes crit-attack-colour { 0%, 100% { color: #ff4b4b; } 50% { color: #ffffff; } }
+@media (prefers-reduced-motion: reduce) { .md-typeset .crit-num { animation: none; color: #fff36b; } .md-typeset .crit-attack { color: #ff4b4b; } }
+.md-typeset .crit-super { animation-name: crit-shake, crit-pop, crit-super-colour; animation-duration: .1s, 1.6s, .35s; font-size: 1.92rem; -webkit-text-stroke: 1.5px #964bff; text-shadow: 0 2px 0 #160a24; }
+@keyframes crit-super-colour { 0%, 100% { color: #b53dff; } 50% { color: #6a1fb8; } }
+@media (prefers-reduced-motion: reduce) { .md-typeset .crit-super { color: #b53dff; } }
+
+/* Planter infobox: same look as the bee infobox, stats in a compact two-column grid */
+.planter-infobox { --planter: #b98a4e; float: right; clear: right; width: 290px; margin: 0 0 1em 1.2em;
+  --planter-bg: color-mix(in srgb, var(--planter) 22%, #f6efd6);
+  background: var(--planter-bg); color: #1b1b1b; font-size: .72rem;
+  border-radius: 4px; overflow: hidden; box-shadow: 0 1px 4px rgba(0,0,0,.35); }
+.planter-infobox-title, .planter-infobox-header { background: var(--planter); color: #111; text-align: center; }
+.planter-infobox-title { padding: .9em .5em; font-size: 1rem; font-weight: 700; }
+.planter-infobox-header { padding: .3em; font-size: .8rem; text-transform: uppercase; }
+.planter-infobox-image { padding: .8em 0 .4em; text-align: center; }
+.planter-infobox-image img { width: 150px; height: 150px; object-fit: contain; }
+.planter-infobox-quote { padding: 0 .9em .7em; text-align: center; }
+.planter-stats { display: grid; grid-template-columns: 1fr 1fr; gap: 1px; background: rgba(0,0,0,.14); }
+.planter-stat { padding: .4em .6em; background: var(--planter-bg); }
+.planter-stat-wide { grid-column: 1 / -1; }
+.planter-stat > b { display: block; font-size: .62rem; text-transform: uppercase; letter-spacing: .03em; color: #5a4a35; }
+.planter-stat > span { display: block; }
+.planter-stat > span.planter-chips { display: flex; flex-wrap: wrap; gap: .25em; align-items: center; }
+.md-typeset .planter-infobox a { color: #0a6f76; }
+.planter-chip { display: inline-flex; align-items: center; gap: .25em; padding: .1em .45em; border-radius: 99px;
+  background: rgba(255,255,255,.55); border: 1px solid rgba(0,0,0,.1); white-space: nowrap; }
+.md-typeset .planter-chip img { width: 18px; height: 18px; }
+.planter-chip.nectar-comforting { background: #e6d9f7; }
+.planter-chip.nectar-invigorating { background: #f9d6d2; }
+.planter-chip.nectar-motivating { background: #f8d6ec; }
+.planter-chip.nectar-refreshing { background: #d4f0d2; }
+.planter-chip.nectar-satisfying { background: #f8edc4; }
+@media (max-width: 700px) { .planter-infobox { float: none; width: 100%; max-width: 340px; margin: 0 auto 1em; } }
+
+/* Ability token rows: tokens side by side, each with its name under it */
+.md-typeset .ability-token-row { display: flex; flex-wrap: wrap; justify-content: center; gap: .5em 1.5em; margin: 1em 0; }
+.md-typeset .ability-token-row .ability-token { display: flex; flex-direction: column; align-items: center; margin: 0; width: auto; }
+.md-typeset .ability-token-row .ability-token img { width: 60px; height: 60px; object-fit: contain; }
+.md-typeset .ability-token-row .ability-token figcaption { margin: .3em 0 0; max-width: none; font-size: .7rem; font-style: normal; }
+
+/* Long tables (marked by hooks/performance.py) skip layout while off screen */
+.md-typeset table[data-long] { content-visibility: auto; }
+
+/* Beequip game bug and ability notes */
+.md-typeset .game-bug,
+.md-typeset .beequip-note {
+  padding: 0.5em 0.8em;
+  border-left: 3px solid var(--md-typeset-a-color);
+  background: var(--md-code-bg-color);
+  border-radius: 2px;
+}
+.md-typeset .game-bug {
+  border-left-color: #e53935;
+}
+
+/* Hive builder (hive-builder.md, javascripts/hive-builder.js) */
+.md-typeset .hive-builder { display: grid; grid-template-columns: 13rem minmax(0, 1fr); gap: 1rem; align-items: start; margin-top: 1em; user-select: none; -webkit-user-select: none; }
+.hive-builder .hb-picker { position: sticky; top: 3.4rem; display: flex; flex-direction: column; gap: .4rem; max-height: calc(100vh - 5rem); padding: .5rem; border-radius: 8px; background: #142224; border: 1px solid #263738; }
+[data-md-color-scheme="default"] .hive-builder .hb-picker { background: #f5f7f7; border-color: #dde3e3; }
+.hive-builder .hb-search { width: 100%; padding: .3rem .45rem; border-radius: 4px; border: 1px solid var(--md-default-fg-color--lightest); background: var(--md-default-bg-color); color: var(--md-default-fg-color); font: inherit; font-size: .7rem; }
+.hive-builder .hb-list { overflow-y: auto; overscroll-behavior: contain; scrollbar-width: thin; }
+.hive-builder .hb-group-title { margin: .5rem 0 .25rem; font-size: .7rem; font-weight: 700; }
+.hive-builder .hb-items { display: grid; grid-template-columns: repeat(auto-fill, minmax(3.5rem, 1fr)); gap: .25rem; }
+.hive-builder .hb-pick { display: flex; flex-direction: column; align-items: center; gap: .1rem; min-width: 0; padding: .25rem .15rem; border-radius: 4px; cursor: grab; touch-action: pan-y;
+  background: transparent; border: 1px solid transparent; color: var(--md-default-fg-color); font: inherit; }
+.hive-builder .hb-pick:hover { border-color: var(--md-default-fg-color--lightest); }
+.hive-builder .hb-pick.hb-active { border-color: var(--md-typeset-a-color); }
+.hive-builder .hb-face { display: flex; align-items: center; justify-content: center; width: 2.3rem; height: 2rem;
+  clip-path: polygon(25% 0, 75% 0, 100% 50%, 75% 100%, 25% 100%, 0 50%); }
+.hive-builder .hb-face img { width: 72%; height: 72%; object-fit: contain; pointer-events: none; }
+.hive-builder .hb-pick > span:last-child { width: 100%; font-size: .55rem; line-height: 1.2; overflow: hidden; text-overflow: ellipsis; white-space: nowrap; }
+.hive-builder .hb-group[hidden], .hive-builder .hb-pick[hidden] { display: none; }
+.hive-builder .hb-main { display: flex; flex-direction: column; gap: .5rem; min-width: 0; }
+.hive-builder .hb-bar { display: flex; flex-wrap: wrap; gap: .3rem; align-items: center; }
+.hive-builder .hb-btn { padding: .25rem .55rem; border-radius: 4px; cursor: pointer; font: inherit; font-size: .68rem;
+  background: var(--md-default-bg-color); color: var(--md-default-fg-color); border: 1px solid var(--md-default-fg-color--lightest); }
+.hive-builder .hb-btn:hover:not(:disabled) { border-color: var(--md-typeset-a-color); }
+.hive-builder .hb-btn:disabled { opacity: .45; cursor: default; }
+.hive-builder .hb-toggle[aria-pressed="true"] { border-color: var(--md-typeset-a-color); color: var(--md-typeset-a-color); }
+.hive-builder .hb-slots { display: inline-flex; align-items: center; gap: .25rem; margin-right: .3rem; font-size: .68rem; }
+.hive-builder .hb-slots span { margin-right: .15rem; }
+.hive-builder .hb-step { width: 1.5rem; padding: .25rem 0; }
+.hive-builder .hb-slots input { width: 2.8rem; padding: .2rem; text-align: center; border-radius: 4px; font: inherit; font-size: .7rem;
+  background: var(--md-default-bg-color); color: var(--md-default-fg-color); border: 1px solid var(--md-default-fg-color--lightest); }
+.hive-builder .hb-stats { font-size: .7rem; }
+.hive-builder .hb-hint { min-height: 1.2em; font-size: .65rem; color: var(--md-default-fg-color--light); }
+.hive-builder .hb-hive { position: relative; width: min(100%, 15rem); margin: .3rem auto 0; }
+.hive-builder .hb-cell { position: absolute; display: block; padding: 0; margin: 0; border: 0; cursor: pointer; touch-action: manipulation;
+  clip-path: polygon(25% 0, 75% 0, 100% 50%, 75% 100%, 25% 100%, 0 50%); background: var(--md-default-fg-color--lighter); }
+.hive-builder .hb-cell[hidden] { display: none; }
+.hive-builder .hb-hex { position: absolute; inset: 4% 3%; display: flex; align-items: center; justify-content: center;
+  clip-path: polygon(25% 0, 75% 0, 100% 50%, 75% 100%, 25% 100%, 0 50%); background: var(--md-code-bg-color); }
+.hive-builder .hb-cell:hover .hb-hex, .hive-builder .hb-cell:focus-visible .hb-hex { background: var(--md-default-fg-color--lightest); }
+.hive-builder .hb-cell.hb-filled { touch-action: none; }
+.hive-builder .hb-cell.hb-filled .hb-hex { background: var(--rarity); }
+.hive-builder.hb-painting .hb-cell { touch-action: none; }
+.hive-builder .hb-cell.hb-gifted { background: #ffd700; }
+.hive-builder .hb-cell.hb-gifted .hb-hex { inset: 8% 6%; }
+.hive-builder .hb-cell img { width: 72%; height: 72%; object-fit: contain; pointer-events: none; }
+.hive-builder .hb-cell.hb-locked { opacity: .3; cursor: default; background: var(--md-default-fg-color--lightest); }
+.hive-builder .hb-trash { max-width: 15rem; width: 100%; margin: .4rem auto 0; padding: .5rem; text-align: center; font-size: .65rem; border-radius: 4px;
+  border: 1px dashed var(--md-default-fg-color--lighter); color: var(--md-default-fg-color--light); }
+.hive-builder.hb-dragging .hb-trash { border-color: #e53935; color: #e53935; }
+.hb-ghost { position: fixed; left: 0; top: 0; z-index: 1000; width: 3rem; height: 3rem; margin: -1.5rem 0 0 -1.5rem; object-fit: contain; pointer-events: none; opacity: .9; }
+@media screen and (max-width: 44.9375em) {
+  .md-typeset .hive-builder { grid-template-columns: minmax(0, 1fr); }
+  .hive-builder .hb-picker { top: 2.4rem; z-index: 3; max-height: 11.5rem; }
+  .hive-builder .hb-items { grid-template-columns: repeat(auto-fill, minmax(3.3rem, 1fr)); }
+  .hive-builder .hb-face { width: 2rem; height: 1.75rem; }
+  .hive-builder .hb-hive { width: min(100%, 13rem); }
+}
