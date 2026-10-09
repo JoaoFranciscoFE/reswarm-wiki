@@ -85,6 +85,7 @@ If that flower is already your colour and at max tier, the paint goes to another
 * **1st Edition Painter Bee Egg:** always hatches a 1st Edition Painter Bee and gives a 1st Edition Painter Bee Jelly, so it can never be lost.
 * **Painter Bee Voucher** and **1st Edition Painter Bee Voucher:** each turns into the matching egg. One redemption per account.
 * **Rebirth 35** rewards a Painter Bee Egg.
+* [Artisan Bear](artisan-bear.md)'s final quest, The Final Masterpiece, rewards a Painter Bee Voucher.
 * The 1st Edition Painter Bee Voucher comes in the Painter Bee's Colorful Haul pack (see [Painter Bee event](painter-bee-event.md#shop)).
 
 ## Stickers

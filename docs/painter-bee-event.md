@@ -11,6 +11,7 @@ The **Painter Bee event** is a Re://:Swarm update built around the new [Painter 
 
 ## What's new
 
+* **[Artisan Bear](artisan-bear.md)**, a new quest giver with 15 painting quests that end in a Painter Bee Voucher.
 * **[Painter Bee](painter-bee.md)** and its Gifted variant, an Event bee that paints and pollinates flowers.
 * **[Painter Stickers](painter-stickers.md)**: new stickers that stack into Painter Bee's Artistic Hive Skin.
 * **[Fluxite Wax](fluxite-wax.md)**: a wax that rerolls a [Beequip](beequip.md)'s potential.
@@ -19,7 +20,7 @@ The **Painter Bee event** is a Re://:Swarm update built around the new [Painter 
 ## Getting Painter Bee
 
 * **Rebirth 35** rewards a Painter Bee Egg.
-* **Vouchers:** Painter Bee Voucher and 1st Edition Painter Bee Voucher.
+* **Vouchers:** Painter Bee Voucher and 1st Edition Painter Bee Voucher. The Painter Bee Voucher is the reward for finishing [Artisan Bear](artisan-bear.md)'s 15 quests.
 * Each egg also gives a Painter Bee Jelly. See [Painter Bee](painter-bee.md#how-to-obtain).
 
 ## Shop

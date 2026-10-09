@@ -6,9 +6,10 @@ hide:
 
 # Bears
 
-All 19 pages in Bears.
+All 20 pages in Bears.
 
 <div class="wiki-cards">
+<a class="wiki-card wiki-card--noicon" href="artisan-bear.html"><img src="images/no-icon.svg" alt="" loading="lazy"><span>Artisan Bear</span></a>
 <a class="wiki-card" href="bee-bear.html"><img src="img/bears/Bee_Bear.png" alt="" loading="lazy"><span>Bee Bear</span></a>
 <a class="wiki-card" href="black-bear.html"><img src="img/bears/Black_Bear.png" alt="" loading="lazy"><span>Black Bear</span></a>
 <a class="wiki-card" href="brown-bear.html"><img src="img/bears/Brown_Bear.png" alt="" loading="lazy"><span>Brown Bear</span></a>

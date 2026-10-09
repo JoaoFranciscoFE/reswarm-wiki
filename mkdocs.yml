@@ -113,6 +113,7 @@ nav:
   - "Hive Builder": hive-builder.md
   - "Bears":
       - browse-bears.md
+      - "Artisan Bear": artisan-bear.md
       - "Bee Bear": bee-bear.md
       - "Black Bear": black-bear.md
       - "Brown Bear": brown-bear.md
@@ -134,6 +135,7 @@ nav:
       - "Tunnel Bear": tunnel-bear.md
   - "Quests":
       - browse-quests.md
+      - "Artisan Bear": artisan-bear.md
       - "Bee Bear": bee-bear.md
       - "Black Bear": black-bear.md
       - "Brown Bear": brown-bear.md
