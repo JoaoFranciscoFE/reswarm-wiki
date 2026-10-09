@@ -453,7 +453,7 @@ The game also has a **Gifted Crimbolt Bee Egg**, which always hatches into a Gif
 Always hatches into a [Painter Bee](painter-bee.md) and also gives 1 Painter Bee Jelly.
 
 * A rebirth reward at Rebirth 35, from [Dapper Bear](dapper-bear.md)'s "Premium Clientele" rebirth quest.
-* Redeeming a Painter Bee Voucher (one per account).
+* Redeeming a Painter Bee Voucher (one per account), the reward for [Artisan Bear](artisan-bear.md)'s final quest.
 
 ### 1st Edition Painter Bee Egg
 

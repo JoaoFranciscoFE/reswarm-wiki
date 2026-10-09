@@ -482,6 +482,7 @@ A **Toy Drum** is a [level](bond.md) 7 Beesmas [beequip](beequip.md). It has an 
 ## Ways to Obtain
 
 * As a very rare drop from the [Stockings](stockings.md).
+* As a reward for [Artisan Bear](artisan-bear.md)'s quests Strawberry Blues (5) and Forest Fire (10).
 
 ## Trivia
 

@@ -9,7 +9,7 @@ tags: ["Bears", "Quest Bees", "NPC"]
 
 
 
-**Quest Givers** are interactive NPC characters who give [quests](quests.md) to the player to complete. In return, they give various rewards upon completion. There are a total of 13 quest givers in-game, excluding traveling quest givers.
+**Quest Givers** are interactive NPC characters who give [quests](quests.md) to the player to complete. In return, they give various rewards upon completion. There are a total of 14 quest givers in-game, excluding traveling quest givers.
 
 
 When the player completes a quest in a main questline, a message will appear, stating:
@@ -142,6 +142,13 @@ When the player hands in a quest to a quest giver, a message will appear stating
 <td>Near the <a href="coconut-field.html">Coconut Field</a> and <a href="pepper-patch.html">Pepper Patch</a>.
 </td>
 <td>35 Bees
+</td></tr>
+<tr>
+<td><a href="artisan-bear.html">Artisan Bear</a>
+</td>
+<td>Next to the <a href="royal-jelly-dispenser.html">Royal Jelly Dispenser</a>, near the <a href="clover-field.html">Clover Field</a>.
+</td>
+<td>None
 </td></tr></tbody></table>
 
 ## Traveling/Other NPCs
